@@ -31,8 +31,8 @@
        "translit": "iehonatan",
        "strong": "H3083",
        "pos": "nume propriu",
-       "def_ro": "Ionatan (Iehonatan).",
-       "dict_ro": "Iehonatan, fiul cel mare al lui Șaul, e prietenul de legământ al lui David; numele lui înseamnă „DOMNUL a dăruit”. Lealitatea lui față de David, mai puternică decât loialitatea firească față de tatăl său, e tema centrală a acestui capitol."
+       "def_ro": "Ionatan (Iehonatan)",
+       "dict_ro": "Iehonatan, fiul cel mare al lui Șaul, e prietenul de legământ al lui David; numele lui înseamnă «DOMNUL a dăruit». Lealitatea lui față de David, mai puternică decât loialitatea firească față de tatăl său, e tema centrală a acestui capitol."
       },
       {
        "t": " "
@@ -40,50 +40,89 @@
       {
        "t": "i-a spus",
        "w": "i-a spus",
-       "heb": "וַיֹּאמֶר לוֹ",
-       "translit": "vaiomer lo",
-       "strong": "",
-       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
-       "def_ro": "și a spus [către] el (vaiomer lo).",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a spus",
        "dict_ro": "Formula standard de introducere a vorbirii directe în proza biblică — marchează aici trecerea de la fuga lui David, povestită în capitolul precedent, la acest dialog crucial dintre cei doi prieteni."
       },
       {
-       "t": " lui [David]: „Mâine este "
+       "t": " "
+      },
+      {
+       "t": "lui",
+       "w": "lui",
+       "heb": "לוֹ",
+       "translit": "lo",
+       "strong": "",
+       "pos": "prepoziție + sufix",
+       "def_ro": "către el",
+       "dict_ro": "Traducerea adaugă «[David]» ca lămurire, numele nefiind explicit în ebraică la acest punct — textul spune simplu «către el»."
+      },
+      {
+       "t": " [David]: „"
+      },
+      {
+       "t": "Mâine",
+       "w": "Mâine",
+       "heb": "מָחָר",
+       "translit": "mahar",
+       "strong": "H4279",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "mâine",
+       "dict_ro": "Reperul temporal exact al complotului: a doua zi, la ospățul de Lună Nouă, absența lui David avea să fie observată."
+      },
+      {
+       "t": " este "
       },
       {
        "t": "Luna Nouă",
        "w": "Luna Nouă",
-       "heb": "מָחָר חֹדֶשׁ",
-       "translit": "mahar hodeș",
+       "heb": "חֹדֶשׁ",
+       "translit": "hodeș",
        "strong": "H2320",
-       "pos": "substantiv, masculin singular + substantiv, masculin singular",
-       "def_ro": "mâine [este] lună nouă (mahar hodeș).",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "lună nouă",
        "dict_ro": "Rashi explică obiceiul: toți cei care mâncau la masa regelui aveau datoria să vină la ospățul de Lună Nouă; absența lui David în această zi anume avea să fie, de aceea, cu necesitate observată."
       },
       {
-       "t": " și lipsa ta "
+       "t": " și "
       },
       {
-       "t": "va fi observată",
-       "w": "va fi observată",
+       "t": "lipsa ta va fi observată",
+       "w": "lipsa ta va fi observată",
        "heb": "וְנִפְקַדְתָּ",
        "translit": "venifkadta",
        "strong": "H6485",
        "pos": "verb, nifal perfect consecutiv",
-       "def_ro": "vei fi cercetat/vei fi observat (venifkadta).",
+       "def_ro": "vei fi cercetat/vei fi observat",
        "dict_ro": "Rashi explică: tatăl meu te va cerceta și va întreba unde ești — rădăcina «pakad» înseamnă atât «a aduce aminte», cât și «a constata o lipsă», cele două sensuri împletindu-se exact în situația lui David."
       },
       {
        "t": ", căci "
       },
       {
-       "t": "locul tău va fi gol",
-       "w": "locul tău va fi gol",
-       "heb": "כִּי יִפָּקֵד מוֹשָׁבֶךָ",
-       "translit": "ki ipakēd moșaveha",
+       "t": "locul tău",
+       "w": "locul tău",
+       "heb": "מוֹשָׁבֶךָ",
+       "translit": "moșaveha",
        "strong": "H4186",
-       "pos": "conjuncție + verb, nifal imperfect + substantiv, masculin singular construct + sufix",
-       "def_ro": "căci va fi găsit lipsă locul tău (ki ipaked moșaveha).",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "locul tău",
+       "dict_ro": "Locul la masa regală, statornicit fiecărui demnitar — absența din acel loc anume e ceea ce va fi observat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "va fi gol",
+       "w": "va fi gol",
+       "heb": "יִפָּקֵד",
+       "translit": "ipakēd",
+       "strong": "H6485",
+       "pos": "verb, nifal imperfect",
+       "def_ro": "va fi găsit lipsă",
        "dict_ro": "Radak explică dubla repetare a rădăcinii «pakad» în același verset: prima dată înseamnă «vei fi căutat», a doua («va fi găsit gol locul tău») înseamnă literal «lipsă» — locul de la masă rămânând vizibil neocupat."
       },
       {
@@ -132,7 +171,7 @@
        "translit": "veșilașta",
        "strong": "H8027",
        "pos": "verb, piel perfect consecutiv",
-       "def_ro": "vei întreit/vei face de trei zile (veșilașta).",
+       "def_ro": "vei întrei",
        "dict_ro": "Rashi explică: «veșilașta» înseamnă «întreiește zilele» — a treia zi de la fuga lui David — abia atunci, spune Rashi, Șaul va începe cu adevărat să-l caute, ziua Lunii Noi fiind doar prima dintre ele."
       },
       {
@@ -141,38 +180,64 @@
       {
        "t": "trebuie să cobori",
        "w": "trebuie să cobori",
-       "heb": "תֵּרֵד מְאֹד",
-       "translit": "tērēd meod",
-       "strong": "H3966",
-       "pos": "verb, qal jusiv + adverb",
-       "def_ro": "vei coborî foarte mult (tēred meod).",
-       "dict_ro": "Radak explică «foarte» ca intensificare a ascunderii: David trebuie să se retragă adânc, nu doar să se îndepărteze puțin."
+       "heb": "תֵּרֵד",
+       "translit": "tērēd",
+       "strong": "H3381",
+       "pos": "verb, qal jusiv",
+       "def_ro": "vei coborî",
+       "dict_ro": "Porunca de retragere a lui David în ascunzătoare, prima dintre cele trei zile de precauție."
       },
       {
        "t": " și "
       },
       {
-       "t": "să ajungi la locul",
-       "w": "să ajungi la locul",
-       "heb": "וּבָאתָ אֶל הַמָּקוֹם",
-       "translit": "uvata el hamakom",
+       "t": "să ajungi",
+       "w": "să ajungi",
+       "heb": "וּבָאתָ",
+       "translit": "uvata",
+       "strong": "H935",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și vei veni",
+       "dict_ro": "Verbul «bo» (a veni/a ajunge) marchează etapa finală a mișcării de retragere, după cele trei zile de coborâre în ascunzătoare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la locul",
+       "w": "la locul",
+       "heb": "אֶל הַמָּקוֹם",
+       "translit": "el hamakom",
        "strong": "H4725",
-       "pos": "verb, qal perfect consecutiv + prepoziție + substantiv, masculin singular",
-       "def_ro": "și vei veni la locul (uvata el hamakom).",
+       "pos": "prepoziție + substantiv, masculin singular",
+       "def_ro": "la locul",
        "dict_ro": "Metzudat David precizează: locul despre care vorbește Ionatan e unul deja cunoscut de amândoi, nu unul nou-ales pentru ocazie."
       },
       {
        "t": " "
       },
       {
-       "t": "unde te-ai ascuns",
-       "w": "unde te-ai ascuns",
-       "heb": "אֲשֶׁר נִסְתַּרְתָּ שָּׁם",
-       "translit": "așer nistarta șam",
-       "strong": "H8033",
-       "pos": "particulă relativă + verb, nifal perfect + adverb",
-       "def_ro": "unde te-ai ascuns, acolo (așer nistarta șam).",
-       "dict_ro": "Radak notează legătura exactă: David era ascuns deja «pe câmp» (v.24) chiar în ziua complotului jurământului dintre el și Ionatan, descris la capitolul 19 — «ziua faptei» de mai departe se referă la acea zi anume."
+       "t": "unde",
+       "w": "unde",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care",
+       "dict_ro": "Particula relativă «așer» introduce locul exact, deja cunoscut lui David din ziua jurământului dintre el și Ionatan."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "te-ai ascuns",
+       "w": "te-ai ascuns",
+       "heb": "נִסְתַּרְתָּ",
+       "translit": "nistarta",
+       "strong": "H5641",
+       "pos": "verb, nifal perfect",
+       "def_ro": "te-ai ascuns",
+       "dict_ro": "Radak notează legătura exactă: David era ascuns deja «pe câmp» (v.24) chiar în ziua complotului jurământului dintre el și Ionatan, descris la capitolul 19."
       },
       {
        "t": " "
@@ -184,7 +249,7 @@
        "translit": "beom hamaase",
        "strong": "H4639",
        "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "în ziua faptei (beiom hamaase).",
+       "def_ro": "în ziua faptei",
        "dict_ro": "Metzudat David identifică «fapta» cu jurământul pe care Șaul și Ionatan l-au făcut [cf. 1 Samuel 19] de a nu-l ucide pe David — David era ascuns deja atunci în același loc."
       },
       {
@@ -197,7 +262,7 @@
        "translit": "veiașavta ēțel",
        "strong": "H681",
        "pos": "verb, qal perfect consecutiv + prepoziție",
-       "def_ro": "și vei sta lângă (veiașavta ețel).",
+       "def_ro": "și vei ședea lângă",
        "dict_ro": "Verbul «a ședea/a rămâne» (iașav) continuă seria de porunci date lui David pentru cele trei zile de ascunzătoare."
       },
       {
@@ -210,7 +275,7 @@
        "translit": "haeven haazel",
        "strong": "H237",
        "pos": "substantiv, feminin singular + nume propriu",
-       "def_ro": "piatra numită „Ezel” — un reper de drum.",
+       "def_ro": "piatra Ezel",
        "dict_ro": "Numele Even ha-Ezel, „piatra celui care merge/pleacă”, nu mai e identificabil topografic azi; tradiția (Radak, urmând Targumul) o înțelege ca pe un semn pentru călători. Rashi observă o a doua explicație: piatra ar fi putut servi literal ca țintă pentru tras cu săgeți."
       },
       {
@@ -249,13 +314,26 @@
      "translit": "Vaani șeloșet hahițim țida ore leșalah-li lematara.",
      "tokens": [
       {
-       "t": "Eu voi trage",
-       "w": "Eu voi trage",
-       "heb": "וַאֲנִי אוֹרֶה",
-       "translit": "vaani ore",
+       "t": "Eu",
+       "w": "Eu",
+       "heb": "וַאֲנִי",
+       "translit": "vaani",
+       "strong": "H589",
+       "pos": "pronume personal",
+       "def_ro": "și eu",
+       "dict_ro": "Pronumele emfatic subliniază că Ionatan însuși, personal, va trage săgețile semnalului — nu un slujitor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "voi trage",
+       "w": "voi trage",
+       "heb": "אוֹרֶה",
+       "translit": "ore",
        "strong": "H3384",
-       "pos": "pronume personal + verb, hifil imperfect",
-       "def_ro": "și eu voi trage (vaani ore).",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "voi trage/trimite",
        "dict_ro": "Metzudat Zion explică „ore” prin rădăcina „a arunca/a trimite” — același verb folosit pentru tragerea cu arcul la țintă."
       },
       {
@@ -268,7 +346,7 @@
        "translit": "șeloșet hahițim",
        "strong": "H2678",
        "pos": "numeral + substantiv, masculin plural",
-       "def_ro": "cele trei săgeți (șeloșet hahițim).",
+       "def_ro": "cele trei săgeți",
        "dict_ro": "Radak observă că, deși numărul „trei” nu fusese încă menționat explicit în vorbirea directă anterioară, Ionatan vorbește despre ele cu articol hotărât, ca despre un plan deja cunoscut lui David."
       },
       {
@@ -281,7 +359,7 @@
        "translit": "țida",
        "strong": "H6654",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "spre o latură/parte (țida).",
+       "def_ro": "spre ea/latura",
        "dict_ro": "Rashi explică un joc fonetic: «țida» ascunde «le-țad», «spre latura» acelei pietre — poziționat intenționat ambiguu, ca tânărul trimis să nu înțeleagă semnalul real."
       },
       {
@@ -290,11 +368,11 @@
       {
        "t": "ca și cum aș trage la țintă",
        "w": "ca și cum aș trage la țintă",
-       "heb": "לְשַׁלַּח לִי לְמַטָּרָה",
-       "translit": "leșalah li lematara",
+       "heb": "לְשַׁלַּח לְמַטָּרָה",
+       "translit": "leșalah lematara",
        "strong": "H4307",
-       "pos": "verb, piel infinitiv + prepoziție + sufix + substantiv, feminin singular",
-       "def_ro": "ca să le trimit, pentru mine, ca la țintă (leșalah li lematara).",
+       "pos": "verb, piel infinitiv + substantiv, feminin singular",
+       "def_ro": "să trimit pentru mine spre țintă",
        "dict_ro": "Rashi explică motivul acoperirii: Ionatan pretinde un exercițiu obișnuit de tras la țintă, ca tânărul slujitor să nu priceapă adevăratul scop al săgeților."
       },
       {
@@ -326,16 +404,26 @@
      "translit": "Vehine eșlah et-hanaar leh meța et-hahițim im-amor omar lanaar hine hahițim mimha vahena kahenu vavoa ki-șalom leha veein davar hai-ADONAI.",
      "tokens": [
       {
-       "t": "Iată, "
+       "t": "Iată",
+       "w": "Iată",
+       "heb": "וְהִנֵּה",
+       "translit": "vehinē",
+       "strong": "H2009",
+       "pos": "particulă demonstrativă",
+       "def_ro": "și iată",
+       "dict_ro": "Particula «hinē» introduce explicația detaliată a planului, imediat după promisiunea generală de la v.20."
+      },
+      {
+       "t": ", "
       },
       {
        "t": "voi trimite",
        "w": "voi trimite",
-       "heb": "וְהִנֵּה אֶשְׁלַח",
-       "translit": "vehinē eșlah",
+       "heb": "אֶשְׁלַח",
+       "translit": "eșlah",
        "strong": "H7971",
-       "pos": "particulă demonstrativă + verb, qal imperfect",
-       "def_ro": "și, iată, voi trimite (vehinē eșlah).",
+       "pos": "verb, qal imperfect",
+       "def_ro": "voi trimite",
        "dict_ro": "Metzudat David explică planul: după tragerea săgeților, Ionatan va trimite de fiecare dată un tânăr slujitor să le găsească, acesta fiind mesagerul involuntar al semnalului codat."
       },
       {
@@ -344,77 +432,142 @@
       {
        "t": "un tânăr [slujitor]",
        "w": "un tânăr [slujitor]",
-       "heb": "אֶת הַנַּעַר",
-       "translit": "et hanaar",
+       "heb": "הַנַּעַר",
+       "translit": "hanaar",
        "strong": "H5288",
-       "pos": "marcă a complementului direct + substantiv, masculin singular",
-       "def_ro": "pe tânăr (et hanaar).",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "pe tânăr",
        "dict_ro": "«Naar» desemnează aici un slujitor tânăr, nu neapărat un copil — același termen folosit în tot capitolul pentru băiatul care aduce și strânge săgețile, fără să înțeleagă rostul lor real."
       },
       {
        "t": ": «"
       },
       {
-       "t": "Mergi și găsește săgețile",
-       "w": "Mergi și găsește săgețile",
-       "heb": "לֵךְ מְצָא אֶת הַחִצִּים",
-       "translit": "lēh meța et hahițim",
+       "t": "Mergi",
+       "w": "Mergi",
+       "heb": "לֵךְ",
+       "translit": "lēh",
+       "strong": "H3212",
+       "pos": "verb, qal imperativ",
+       "def_ro": "mergi",
+       "dict_ro": "Imperativul scurt, parte din formula pe care Ionatan o va striga public tânărului — instrucțiunea nevinovată, de fațadă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și găsește săgețile",
+       "w": "și găsește săgețile",
+       "heb": "הַחִצִּים",
+       "translit": "hahițim",
        "strong": "H2678",
-       "pos": "verb, qal imperativ + verb, qal imperativ + marcă a complementului direct + substantiv, masculin plural",
-       "def_ro": "du-te, găsește săgețile (lēh meța et hahițim).",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "găsește săgețile",
        "dict_ro": "Cuvintele exacte pe care Ionatan plănuiește să le strige tânărului — instrucțiunea publică, nevinovată, în spatele căreia se ascunde semnalul adevărat destinat lui David."
       },
       {
        "t": ".» "
       },
       {
-       "t": "Și dacă îi strig tânărului",
-       "w": "Și dacă îi strig tânărului",
-       "heb": "אִם אָמֹר אֹמַר לַנַּעַר",
-       "translit": "im amor omar lanaar",
-       "strong": "H5288",
-       "pos": "conjuncție + verb, qal infinitiv absolut + verb, qal imperfect + substantiv, masculin singular",
-       "def_ro": "dacă voi spune, voi spune, tânărului (im amor omar lanaar).",
+       "t": "Și dacă îi strig",
+       "w": "Și dacă îi strig",
+       "heb": "אָמֹר אֹמַר",
+       "translit": "amor omar",
+       "strong": "H559",
+       "pos": "verb, qal infinitiv absolut + verb, qal imperfect",
+       "def_ro": "dacă voi spune negreșit",
        "dict_ro": "Radak explică infinitivul absolut dublat («amor omar») ca marcă de certitudine: „dacă voi spune negreșit” — Ionatan își pregătește cu precizie formula exactă a semnalului de siguranță."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "tânărului",
+       "w": "tânărului",
+       "heb": "לַנַּעַר",
+       "translit": "lanaar",
+       "strong": "H5288",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "către tânăr",
+       "dict_ro": "«Naar» revine aici, desemnând același slujitor tânăr folosit ca mesager nevinovat al semnalului."
       },
       {
        "t": ": «"
       },
       {
-       "t": "Iată, săgețile sunt dincoace de tine",
-       "w": "Iată, săgețile sunt dincoace de tine",
-       "heb": "הִנֵּה הַחִצִּים מִמְּךָ וָהֵנָּה",
-       "translit": "hinē hahițim mimha vahēna",
+       "t": "Iată, săgețile sunt",
+       "w": "Iată, săgețile sunt",
+       "heb": "הִנֵּה הַחִצִּים",
+       "translit": "hinē hahițim",
+       "strong": "H2678",
+       "pos": "particulă demonstrativă + substantiv, masculin plural",
+       "def_ro": "iată săgețile",
+       "dict_ro": "Formula exactă pe care Ionatan o va striga tânărului la recuperarea săgeților — nucleul codului convenit cu David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dincoace de tine",
+       "w": "dincoace de tine",
+       "heb": "מִמְּךָ וָהֵנָּה",
+       "translit": "mimha vahēna",
        "strong": "H2008",
-       "pos": "particulă demonstrativă + substantiv, masculin plural + prepoziție + sufix + adverb",
-       "def_ro": "iată, săgețile [sunt] de la tine încoace (hinē hahițim mimeha vahēna).",
+       "pos": "prepoziție + sufix + adverb",
+       "def_ro": "de la tine și încoace",
        "dict_ro": "Metzudat David explică mecanismul: dacă Ionatan va trage din nou o săgeată ca s-o aducă mai APROAPE de tânăr decât prima, asta înseamnă „vino, ești în siguranță” — codul pozitiv al întâlnirii."
       },
       {
        "t": "», "
       },
       {
-       "t": "atunci să le iei și să te întorci",
-       "w": "atunci să le iei și să te întorci",
-       "heb": "קָחֶנּוּ וָבֹאָה",
-       "translit": "kahenu vavoa",
-       "strong": "H935",
-       "pos": "verb, qal imperativ + sufix + verb, qal imperativ + sufix",
-       "def_ro": "ia-le și vino (kahenu vavoa).",
+       "t": "atunci să le iei",
+       "w": "atunci să le iei",
+       "heb": "קָחֶנּוּ",
+       "translit": "kahenu",
+       "strong": "H3947",
+       "pos": "verb, qal imperativ + sufix",
+       "def_ro": "ia-o",
        "dict_ro": "Rashi citește acest verset ca adresat direct lui David, nu tânărului: „ieși tu însuți din ascunzătoare, ia săgeata și vino la mine”."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să te întorci",
+       "w": "și să te întorci",
+       "heb": "וָבֹאָה",
+       "translit": "vavoa",
+       "strong": "H935",
+       "pos": "verb, qal imperativ + sufix",
+       "def_ro": "și vino",
+       "dict_ro": "Verbul «bo» (a veni) completează porunca de ieșire din ascunzătoare, semn al siguranței depline."
       },
       {
        "t": ", căci "
       },
       {
-       "t": "este bine pentru tine și nu este niciun pericol",
-       "w": "este bine pentru tine și nu este niciun pericol",
-       "heb": "כִּי שָׁלוֹם לְךָ וְאֵין דָּבָר",
-       "translit": "ki șalom leha veēn davar",
-       "strong": "H1697",
-       "pos": "conjuncție + substantiv, masculin singular + prepoziție + sufix + particulă negativă + substantiv, masculin singular",
-       "def_ro": "căci pace [este] pentru tine și nu [este] nimic (ki șalom leha veēn davar).",
+       "t": "este bine pentru tine",
+       "w": "este bine pentru tine",
+       "heb": "שָׁלוֹם לְךָ",
+       "translit": "șalom leha",
+       "strong": "",
+       "pos": "substantiv, masculin singular + prepoziție + sufix",
+       "def_ro": "căci pace pentru tine",
        "dict_ro": "Metzudat David explică formula de asigurare deplină: nicio veste rea nu te așteaptă, poți veni fără teamă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și nu este niciun pericol",
+       "w": "și nu este niciun pericol",
+       "heb": "וְאֵין דָּבָר",
+       "translit": "veēn davar",
+       "strong": "H1697",
+       "pos": "particulă negativă + substantiv, masculin singular",
+       "def_ro": "și nu este lucru",
+       "dict_ro": "Formula de asigurare completează garanția de siguranță dată lui David, întărind promisiunea de pace."
       },
       {
        "t": " – "
@@ -426,7 +579,7 @@
        "translit": "hai Adonai",
        "strong": "H3068",
        "pos": "adjectiv, masculin singular + nume propriu",
-       "def_ro": "viu [este] DOMNUL (hai Adonai).",
+       "def_ro": "viu [este] DOMNUL",
        "dict_ro": "Rashi observă greutatea acestui jurământ: Ionatan garantează siguranța lui David printr-un jurământ solemn pe numele DOMNULUI, nu doar printr-o simplă asigurare verbală."
       },
       {
@@ -466,30 +619,56 @@
      "translit": "Veim-ko omar laelem hine hahițim mimha vahala leh ki șilahaha ADONAI.",
      "tokens": [
       {
-       "t": "Dar dacă îi spun băiețașului astfel",
-       "w": "Dar dacă îi spun băiețașului astfel",
-       "heb": "וְאִם כֹּה אֹמַר לָעֶלֶם",
-       "translit": "veim ko omar laelem",
+       "t": "Dar dacă îi spun",
+       "w": "Dar dacă îi spun",
+       "heb": "אֹמַר",
+       "translit": "omar",
+       "strong": "H559",
+       "pos": "verb, qal imperfect",
+       "def_ro": "voi spune",
+       "dict_ro": "Verbul «amar» introduce varianta negativă a semnalului, simetrică celei pozitive descrise la v.21."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "băiețașului",
+       "w": "băiețașului",
+       "heb": "לָעֶלֶם",
+       "translit": "laelem",
        "strong": "H5958",
-       "pos": "conjuncție + adverb + verb, qal imperfect + substantiv, masculin singular",
-       "def_ro": "și dacă astfel voi spune tânărului (veim ko omar laelem).",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "către tânăr",
        "dict_ro": "Metzudat Zion: «elem» e sinonim poetic cu «naar», folosit aici pentru varietate stilistică, desemnând același tânăr slujitor."
       },
       {
-       "t": ": «"
+       "t": " "
       },
       {
-       "t": "Iată, săgețile sunt dincolo de tine",
-       "w": "Iată, săgețile sunt dincolo de tine",
-       "heb": "הִנֵּה הַחִצִּים מִמְּךָ וָהָלְאָה",
-       "translit": "hinē hahițim mimha vahala",
+       "t": "astfel: «Iată, săgețile sunt",
+       "w": "astfel: «Iată, săgețile sunt",
+       "heb": "הִנֵּה הַחִצִּים",
+       "translit": "hinē hahițim",
+       "strong": "H2678",
+       "pos": "particulă demonstrativă + substantiv, masculin plural",
+       "def_ro": "iată săgețile",
+       "dict_ro": "Repetarea formulei de la v.21, aici pregătind varianta de pericol a semnalului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dincolo de tine»",
+       "w": "dincolo de tine»",
+       "heb": "מִמְּךָ וָהָלְאָה",
+       "translit": "mimha vahala",
        "strong": "H1973",
-       "pos": "particulă demonstrativă + substantiv, masculin plural + prepoziție + sufix + adverb",
-       "def_ro": "iată, săgețile [sunt] de la tine și mai departe (hinē hahițim mimeha vahala).",
+       "pos": "prepoziție + sufix + adverb",
+       "def_ro": "de la tine și dincolo",
        "dict_ro": "Metzudat David contrastează explicit cu semnalul pozitiv de la v.21: dacă a doua săgeată e trasă mai DEPARTE de tânăr decât prima, codul înseamnă pericol — „fugi”."
       },
       {
-       "t": "», "
+       "t": ", "
       },
       {
        "t": "atunci pleacă",
@@ -498,7 +677,7 @@
        "translit": "lēh",
        "strong": "H3212",
        "pos": "verb, qal imperativ",
-       "def_ro": "du-te (lēh).",
+       "def_ro": "mergi",
        "dict_ro": "Porunca scurtă, directă, de fugă imediată — fără nicio altă explicație necesară odată semnalul transmis."
       },
       {
@@ -507,11 +686,11 @@
       {
        "t": "DOMNUL te-a trimis",
        "w": "DOMNUL te-a trimis",
-       "heb": "כִּי שִׁלַּחֲךָ יְהוָה",
-       "translit": "ki șilahaha Adonai",
+       "heb": "שִׁלַּחֲךָ יְהוָה",
+       "translit": "șilahaha Adonai",
        "strong": "H3068",
-       "pos": "conjuncție + verb, piel perfect + sufix + nume propriu",
-       "def_ro": "căci te-a trimis DOMNUL (ki șilahaha Adonai).",
+       "pos": "verb, piel perfect + sufix + nume propriu",
+       "def_ro": "te-a trimis DOMNUL",
        "dict_ro": "Rashi citește aceste cuvinte ca pe o declarație teologică directă: Dumnezeu Însuși îi spune lui David să fugă și să se mântuiască — fraza codată devine, prin gura lui Ionatan, un mesaj divin."
       },
       {
@@ -548,14 +727,27 @@
      "translit": "Vehadavar așer dibarnu ani vaata hine ADONAI beini uveineha ad-olam.",
      "tokens": [
       {
-       "t": "Acest lucru despre care am vorbit",
-       "w": "Acest lucru despre care am vorbit",
-       "heb": "וְהַדָּבָר אֲשֶׁר דִּבַּרְנוּ",
-       "translit": "vehadavar așer dibarnu",
-       "strong": "H1696",
-       "pos": "substantiv, masculin singular + particulă relativă + verb, piel perfect",
-       "def_ro": "și lucrul despre care am vorbit (vehadavar așer dibarnu).",
+       "t": "Acest lucru",
+       "w": "Acest lucru",
+       "heb": "וְהַדָּבָר",
+       "translit": "vehadavar",
+       "strong": "H1697",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "lucrul",
        "dict_ro": "Rashi identifică „lucrul” cu legământul pe care cei doi l-au încheiat împreună — nu doar planul semnalului cu săgețile, ci întregul jurământ de prietenie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "despre care am vorbit",
+       "w": "despre care am vorbit",
+       "heb": "דִּבַּרְנוּ",
+       "translit": "dibarnu",
+       "strong": "H1696",
+       "pos": "verb, piel perfect",
+       "def_ro": "am vorbit",
+       "dict_ro": "Verbul «dibēr» (a vorbi) desemnează discuția anterioară dintre cei doi despre acest legământ."
       },
       {
        "t": ", "
@@ -567,24 +759,37 @@
        "translit": "ani vaata",
        "strong": "H859",
        "pos": "pronume personal + pronume personal",
-       "def_ro": "eu și tu (ani vaata).",
+       "def_ro": "eu și tu",
        "dict_ro": "Repetarea pronumelor subliniază caracterul personal, direct, al legământului — nu un acord formal, ci o legătură între cei doi, martor fiind Dumnezeu."
       },
       {
-       "t": ", iată – "
+       "t": ", "
       },
       {
-       "t": "DOMNUL este martor",
-       "w": "DOMNUL este martor",
-       "heb": "הִנֵּה יְהוָה",
-       "translit": "hinē Adonai",
+       "t": "iată",
+       "w": "iată",
+       "heb": "הִנֵּה",
+       "translit": "hinē",
+       "strong": "H2009",
+       "pos": "particulă demonstrativă",
+       "def_ro": "iată",
+       "dict_ro": "Particula «hinē» introduce invocarea solemnă a DOMNULUI ca martor al legământului."
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "particulă demonstrativă + nume propriu",
-       "def_ro": "iată, DOMNUL [e martor] (hinē Adonai).",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL",
        "dict_ro": "Rashi explică: DOMNUL e martor asupra acelui lucru — adică asupra legământului dintre cei doi."
       },
       {
-       "t": " "
+       "t": " este martor "
       },
       {
        "t": "între mine și tine",
@@ -593,7 +798,7 @@
        "translit": "bēni uvēnha",
        "strong": "H996",
        "pos": "prepoziție + sufix + prepoziție + sufix",
-       "def_ro": "între mine și între tine (bēni uvēnha).",
+       "def_ro": "între mine și între tine",
        "dict_ro": "Formula „între mine și între tine” leagă acest verset direct de v.42, unde Ionatan repetă aceeași expresie la rămas-bun, închizând capitolul cu același jurământ."
       },
       {
@@ -606,7 +811,7 @@
        "translit": "ad olam",
        "strong": "H5769",
        "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "până în veac (ad olam).",
+       "def_ro": "până în veac",
        "dict_ro": "Legământul nu e limitat la viața celor doi, ci se extinde, cum se va vedea la v.42, și asupra urmașilor lor."
       },
       {
@@ -650,14 +855,40 @@
        "t": "Și "
       },
       {
-       "t": "David s-a ascuns pe câmp",
-       "w": "David s-a ascuns pe câmp",
-       "heb": "וַיִּסָּתֵר דָּוִד בַּשָּׂדֶה",
-       "translit": "vaisatēr david basade",
-       "strong": "H7704",
-       "pos": "verb, nifal imperfect consecutiv + nume propriu + substantiv, masculin singular",
-       "def_ro": "și s-a ascuns David pe câmp (vaisatēr david basade).",
+       "t": "David",
+       "w": "David",
+       "heb": "דָּוִד",
+       "translit": "david",
+       "strong": "H1732",
+       "pos": "nume propriu",
+       "def_ro": "David",
+       "dict_ro": "David, al cărui nume înseamnă probabil «iubit», viitorul rege al lui Israel, aflat aici în fuga de Șaul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "s-a ascuns",
+       "w": "s-a ascuns",
+       "heb": "וַיִּסָּתֵר",
+       "translit": "vaisatēr",
+       "strong": "H5641",
+       "pos": "verb, nifal imperfect consecutiv",
+       "def_ro": "s-a ascuns",
        "dict_ro": "Verbul „a se ascunde” (satar) revine aici din v.19, confirmând că David a urmat exact instrucțiunile lui Ionatan."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe câmp",
+       "w": "pe câmp",
+       "heb": "בַּשָּׂדֶה",
+       "translit": "basade",
+       "strong": "H7704",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "pe câmp",
+       "dict_ro": "Același câmp («sade») unde se va petrece mai târziu întâlnirea finală cu Ionatan, la v.35."
       },
       {
        "t": ". Și "
@@ -669,20 +900,46 @@
        "translit": "vaihi hahodeș",
        "strong": "H2320",
        "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular",
-       "def_ro": "și a fost luna nouă (vaihi hahodeș).",
+       "def_ro": "și a fost luna nouă",
        "dict_ro": "Ziua anunțată la v.18 a sosit — scena se mută acum la ospățul regal unde absența lui David va fi observată."
       },
       {
        "t": " și "
       },
       {
-       "t": "regele a stat la ospăț",
-       "w": "regele a stat la ospăț",
-       "heb": "וַיֵּשֶׁב הַמֶּלֶךְ אֶל",
-       "translit": "vaiēșev hameleh el",
-       "strong": "H413",
-       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular + prepoziție",
-       "def_ro": "și a șezut regele la pâine (vaiēșev hameleh el halehem).",
+       "t": "regele",
+       "w": "regele",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
+       "strong": "H4428",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "regele",
+       "dict_ro": "Titlul «meleh» desemnează aici pe Șaul, aflat la masa festivă a Lunii Noi."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a stat",
+       "w": "a stat",
+       "heb": "וַיֵּשֶׁב",
+       "translit": "vaiēșev",
+       "strong": "H3427",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a șezut",
+       "dict_ro": "Verbul «iașav» (a ședea) deschide descrierea rânduielii fixe a locurilor de la masa regală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la ospăț",
+       "w": "la ospăț",
+       "heb": "אֶל הַלֶּחֶם",
+       "translit": "el halehem",
+       "strong": "H3899",
+       "pos": "prepoziție + substantiv, masculin și feminin singular",
+       "def_ro": "la pâine",
        "dict_ro": "Metzudat Zion observă: „lehem” aici nu înseamnă doar pâine, ci întregul ospăț festiv de Lună Nouă, la care participau toți demnitarii curții."
       },
       {
@@ -691,11 +948,11 @@
       {
        "t": "să mănânce",
        "w": "să mănânce",
-       "heb": "הַלֶּחֶם",
-       "translit": "halehem",
-       "strong": "H3899",
-       "pos": "substantiv, masculin și feminin singular",
-       "def_ro": "ca să mănânce (leehol).",
+       "heb": "לֶאֱכוֹל",
+       "translit": "leehol",
+       "strong": "H398",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "să mănânce",
        "dict_ro": "Scopul explicit al adunării — masa festivă obișnuită a Lunii Noi."
       },
       {
@@ -730,13 +987,39 @@
        "t": "Iar "
       },
       {
-       "t": "regele a stat pe locul său",
-       "w": "regele a stat pe locul său",
-       "heb": "וַיֵּשֶׁב הַמֶּלֶךְ עַל מוֹשָׁבוֹ",
-       "translit": "vaiēșev hameleh al moșavo",
+       "t": "regele",
+       "w": "regele",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
+       "strong": "H4428",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "regele",
+       "dict_ro": "Titlul «meleh» desemnează aici pe Șaul, așezat la locul lui obișnuit de la masă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a stat",
+       "w": "a stat",
+       "heb": "וַיֵּשֶׁב",
+       "translit": "vaiēșev",
+       "strong": "H3427",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a șezut",
+       "dict_ro": "Verbul «iașav» (a ședea) repetă descrierea rânduielii fixe a locurilor, acum cu detalii exacte."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe locul său",
+       "w": "pe locul său",
+       "heb": "עַל מוֹשָׁבוֹ",
+       "translit": "al moșavo",
        "strong": "H4186",
-       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular + prepoziție + substantiv, masculin singular construct + sufix",
-       "def_ro": "și a șezut regele pe locul lui (vaiēșev hameleh al moșavo).",
+       "pos": "prepoziție + substantiv, masculin singular construct + sufix",
+       "def_ro": "pe locul lui",
        "dict_ro": "Metzudat David descrie rânduiala fixă a locurilor la masa regală — fiecare demnitar avea un loc statornicit, inclusiv David, al cărui loc rămâne acum vizibil gol."
       },
       {
@@ -749,7 +1032,7 @@
        "translit": "kefaam befaam",
        "strong": "H6471",
        "pos": "substantiv, feminin singular + substantiv, feminin singular",
-       "def_ro": "ca de fiecare dată (kefaam befaam).",
+       "def_ro": "ca de obicei",
        "dict_ro": "Expresia subliniază caracterul de rutină al rânduielii — nimic nu era neobișnuit în modul de așezare, doar absența lui David avea să fie remarcată."
       },
       {
@@ -758,50 +1041,89 @@
       {
        "t": "pe locul de lângă perete",
        "w": "pe locul de lângă perete",
-       "heb": "אֶל מוֹשַׁב הַקִּיר",
-       "translit": "el moșav hakir",
+       "heb": "מוֹשַׁב הַקִּיר",
+       "translit": "moșav hakir",
        "strong": "H7023",
-       "pos": "prepoziție + substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "la locul de lângă perete (el moșav hakir).",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "la locul zidului",
        "dict_ro": "Rashi plasează locul de onoare al regelui chiar lângă perete, la capul mesei — poziție din care Șaul putea vedea întreaga rânduială a celor așezați."
       },
       {
        "t": ". Și "
       },
       {
-       "t": "Ionatan s-a ridicat",
-       "w": "Ionatan s-a ridicat",
-       "heb": "וַיָּקָם יְהוֹנָתָן",
-       "translit": "vaiakam iehonatan",
+       "t": "Ionatan",
+       "w": "Ionatan",
+       "heb": "יְהוֹנָתָן",
+       "translit": "iehonatan",
        "strong": "H3083",
-       "pos": "verb, qal imperfect consecutiv + nume propriu",
-       "def_ro": "și s-a ridicat Ionatan (vaiakam iehonatan).",
+       "pos": "nume propriu",
+       "def_ro": "Ionatan",
+       "dict_ro": "Ionatan se ridică din locul lui ca Avner să poată ocupa poziția dintre el și Șaul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "s-a ridicat",
+       "w": "s-a ridicat",
+       "heb": "וַיָּקָם",
+       "translit": "vaiakam",
+       "strong": "H6965",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "s-a ridicat",
        "dict_ro": "Rashi explică mișcarea: nu era obiceiul fiului să stea rezemat direct lângă tatăl său la masă; Ionatan se ridică din locul lui ca Avner să poată ocupa locul dintre el și Șaul."
       },
       {
        "t": ", "
       },
       {
-       "t": "ca Avner să stea lângă Șaul",
-       "w": "ca Avner să stea lângă Șaul",
-       "heb": "וַיֵּשֶׁב אַבְנֵר מִצַּד שָׁאוּל",
-       "translit": "vaiēșev avnēr mițad șaul",
+       "t": "ca Avner",
+       "w": "ca Avner",
+       "heb": "וַיֵּשֶׁב אַבְנֵר",
+       "translit": "vaiēșev avnēr",
+       "strong": "H74",
+       "pos": "verb, qal imperfect consecutiv + nume propriu",
+       "def_ro": "și a șezut Avner",
+       "dict_ro": "Avner, fiul lui Ner, generalul oștirii lui Șaul, ocupă locul rămas liber lângă rege."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să stea lângă Șaul",
+       "w": "să stea lângă Șaul",
+       "heb": "מִצַּד שָׁאוּל",
+       "translit": "mițad șaul",
        "strong": "H7586",
-       "pos": "verb, qal imperfect consecutiv + nume propriu + substantiv, masculin singular construct + nume propriu",
-       "def_ro": "și a șezut Avner alături de Șaul (vaiēșev avnēr mițad șaul).",
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "lângă Șaul",
        "dict_ro": "Avner, generalul oștirii lui Șaul, ocupă acum locul rămas liber lângă rege, în rânduiala reorganizată a mesei."
       },
       {
        "t": ", "
       },
       {
-       "t": "dar locul lui David era gol",
-       "w": "dar locul lui David era gol",
-       "heb": "וַיִּפָּקֵד מְקוֹם דָּוִד",
-       "translit": "vaipakēd mekom david",
+       "t": "dar locul lui David",
+       "w": "dar locul lui David",
+       "heb": "מְקוֹם דָּוִד",
+       "translit": "mekom david",
        "strong": "H1732",
-       "pos": "verb, nifal imperfect consecutiv + substantiv, masculin singular construct + nume propriu",
-       "def_ro": "și a fost găsit gol locul lui David (vaipaked mekom david).",
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "locul lui David",
+       "dict_ro": "Locul statornicit al lui David la masa regală, rămas vizibil neocupat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "era gol",
+       "w": "era gol",
+       "heb": "וַיִּפָּקֵד",
+       "translit": "vaipakēd",
+       "strong": "H6485",
+       "pos": "verb, nifal imperfect consecutiv",
+       "def_ro": "a fost găsit lipsă",
        "dict_ro": "Același verb «pakad» de la v.18, întorcându-se aici: ceea ce Ionatan prevestise s-a și împlinit — absența lui David e acum vizibilă pentru toți cei de la masă."
       },
       {
@@ -844,14 +1166,40 @@
      "translit": "Velo-diber Șaul meuma baiom hahu ki amar mikre hu bilti tahor hu ki-lo tahor.",
      "tokens": [
       {
-       "t": "Șaul nu a spus nimic în ziua aceea",
-       "w": "Șaul nu a spus nimic în ziua aceea",
-       "heb": "וְלֹא דִבֶּר שָׁאוּל מְאוּמָה בַּיּוֹם הַהוּא",
-       "translit": "velo diber șaul meuma baiom hahu",
-       "strong": "H1931",
-       "pos": "particulă negativă + verb, piel perfect + nume propriu + substantiv, feminin singular + substantiv, masculin singular + pronume personal",
-       "def_ro": "și n-a vorbit Șaul nimic în ziua aceea (velo diber șaul meuma baiom hahu).",
+       "t": "Șaul",
+       "w": "Șaul",
+       "heb": "שָׁאוּל",
+       "translit": "șaul",
+       "strong": "H7586",
+       "pos": "nume propriu",
+       "def_ro": "Șaul",
+       "dict_ro": "Șaul, primul rege al lui Israel, al cărui tron e amenințat, în percepția lui, de ascensiunea lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "nu a spus nimic",
+       "w": "nu a spus nimic",
+       "heb": "וְלֹא דִבֶּר מְאוּמָה",
+       "translit": "velo diber meuma",
+       "strong": "H3972",
+       "pos": "particulă negativă + verb, piel perfect + substantiv, feminin singular",
+       "def_ro": "și n-a vorbit nimic",
        "dict_ro": "Metzudat David explică tăcerea regelui: Șaul nu întreabă de ce David nu a venit, pentru că își explică singur absența printr-o presupunere."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în ziua aceea",
+       "w": "în ziua aceea",
+       "heb": "בַּיּוֹם הַהוּא",
+       "translit": "baiom hahu",
+       "strong": "H1931",
+       "pos": "substantiv, masculin singular + pronume personal",
+       "def_ro": "în ziua aceea",
+       "dict_ro": "Prima zi a absenței lui David, ziua Lunii Noi descrisă la v.24."
       },
       {
        "t": ", "
@@ -859,11 +1207,11 @@
       {
        "t": "căci a spus [în sinea sa]",
        "w": "căci a spus [în sinea sa]",
-       "heb": "כִּי אָמַר",
-       "translit": "ki amar",
+       "heb": "אָמַר",
+       "translit": "amar",
        "strong": "H559",
-       "pos": "conjuncție + verb, qal perfect",
-       "def_ro": "căci a spus (ki amar).",
+       "pos": "verb, qal perfect",
+       "def_ro": "căci a spus",
        "dict_ro": "Formula introduce gândul nepronunțat al lui Șaul — o explicație dată pentru sine, nu o întrebare adresată cuiva."
       },
       {
@@ -876,7 +1224,7 @@
        "translit": "mikre hu",
        "strong": "H1931",
        "pos": "substantiv, masculin singular + pronume personal",
-       "def_ro": "e o întâmplare, el (mikre hu).",
+       "def_ro": "întâmplare [este] el",
        "dict_ro": "Rashi explică jocul de cuvinte: Șaul presupune că David a avut o poluare rituală nocturnă («keri»), aceeași rădăcină cu «mikre» (întâmplare) — o ipoteză inofensivă, nu o suspiciune de trădare."
       },
       {
@@ -889,7 +1237,7 @@
        "translit": "bilti tahor hu",
        "strong": "H1931",
        "pos": "conjuncție + adjectiv, masculin singular + pronume personal",
-       "def_ro": "cu siguranță necurat e el (bilti tahor hu).",
+       "def_ro": "negreșit necurat este el",
        "dict_ro": "Metzudat Zion explică «bilti» ca particulă de negație întărită — „negreșit necurat”, nu o simplă posibilitate."
       },
       {
@@ -898,11 +1246,11 @@
       {
        "t": "căci [poate] nu s-a curățit",
        "w": "căci [poate] nu s-a curățit",
-       "heb": "כִּי לֹא טָהוֹר",
-       "translit": "ki lo tahor",
+       "heb": "לֹא טָהוֹר",
+       "translit": "lo tahor",
        "strong": "H2889",
-       "pos": "conjuncție + particulă negativă + adjectiv, masculin singular",
-       "def_ro": "căci nu [e] curat (ki lo tahor).",
+       "pos": "particulă negativă + adjectiv, masculin singular",
+       "def_ro": "căci nu curat",
        "dict_ro": "Metzudat David: Șaul presupune că David n-a făcut încă baia rituală de seară cerută după o astfel de impuritate, și de-aceea nu vine la masa sfântă a regelui."
       },
       {
@@ -946,68 +1294,172 @@
      "translit": "Vaihi mimaharat hahodeș hașeni vaipaked mekom David vaiomer Șaul el-Iehonatan beno madua lo-va ven-Ișai gam-temol gam-haiom el-halahem.",
      "tokens": [
       {
-       "t": "Și a fost "
+       "t": "Și "
       },
       {
-       "t": "în ziua de după Luna Nouă, a doua zi",
-       "w": "în ziua de după Luna Nouă, a doua zi",
-       "heb": "וַיְהִי מִמָּחֳרַת הַחֹדֶשׁ הַשֵּׁנִי",
-       "translit": "vaihi mimahorat hahodeș hașēni",
-       "strong": "H8145",
-       "pos": "verb, qal imperfect consecutiv + substantiv, feminin singular construct + substantiv, masculin singular + numeral ordinal",
-       "def_ro": "și a fost a doua zi a lunii (vaihi mimahorat hahodeș hașēni).",
+       "t": "a fost",
+       "w": "a fost",
+       "heb": "וַיְהִי",
+       "translit": "vaihi",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a fost",
+       "dict_ro": "Formula narativă standard «vaihi» marchează trecerea la a doua zi a evenimentelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în ziua de după Luna Nouă",
+       "w": "în ziua de după Luna Nouă",
+       "heb": "מִמָּחֳרַת הַחֹדֶשׁ",
+       "translit": "mimahorat hahodeș",
+       "strong": "H2320",
+       "pos": "substantiv, feminin singular construct + substantiv, masculin singular",
+       "def_ro": "a doua zi a lunii noi",
        "dict_ro": "Rashi precizează: „a doua zi” înseamnă pur și simplu ziua de după Luna Nouă — ziua a doua a lunii calendaristice."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "a doua zi",
+       "w": "a doua zi",
+       "heb": "הַשֵּׁנִי",
+       "translit": "hașēni",
+       "strong": "H8145",
+       "pos": "numeral ordinal",
+       "def_ro": "a doua",
+       "dict_ro": "Precizare numerică: ziua imediat următoare Lunii Noi, a doua absență consecutivă a lui David."
       },
       {
        "t": ", și "
       },
       {
-       "t": "locul lui David era gol",
-       "w": "locul lui David era gol",
-       "heb": "וַיִּפָּקֵד מְקוֹם דָּוִד",
-       "translit": "vaipakēd mekom david",
+       "t": "locul lui David",
+       "w": "locul lui David",
+       "heb": "מְקוֹם דָּוִד",
+       "translit": "mekom david",
        "strong": "H1732",
-       "pos": "verb, nifal imperfect consecutiv + substantiv, masculin singular construct + nume propriu",
-       "def_ro": "și a fost găsit gol locul lui David (vaipaked mekom david).",
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "locul lui David",
+       "dict_ro": "Locul rămas gol pentru a doua zi, confirmând definitiv absența neobișnuită."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "era gol",
+       "w": "era gol",
+       "heb": "וַיִּפָּקֵד",
+       "translit": "vaipakēd",
+       "strong": "H6485",
+       "pos": "verb, nifal imperfect consecutiv",
+       "def_ro": "a fost găsit lipsă",
        "dict_ro": "Formula se repetă identic din v.25 — absența devine, la a doua apariție, mult mai greu de explicat printr-o simplă presupunere."
       },
       {
        "t": ". Și "
       },
       {
-       "t": "Șaul i-a spus fiului său Ionatan",
-       "w": "Șaul i-a spus fiului său Ionatan",
-       "heb": "וַיֹּאמֶר שָׁאוּל אֶל יְהוֹנָתָן בְּנוֹ",
-       "translit": "vaiomer șaul el iehonatan beno",
+       "t": "Șaul",
+       "w": "Șaul",
+       "heb": "שָׁאוּל",
+       "translit": "șaul",
+       "strong": "H7586",
+       "pos": "nume propriu",
+       "def_ro": "Șaul",
+       "dict_ro": "Abia la a doua absență consecutivă, Șaul rupe tăcerea și întreabă direct despre David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "i-a spus",
+       "w": "i-a spus",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a spus",
+       "dict_ro": "Introduce întrebarea directă a regelui, pentru prima dată în acest episod."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fiului său Ionatan",
+       "w": "fiului său Ionatan",
+       "heb": "יְהוֹנָתָן בְּנוֹ",
+       "translit": "iehonatan beno",
        "strong": "H1121",
-       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + nume propriu + substantiv, masculin singular construct + sufix",
-       "def_ro": "și a spus Șaul lui Ionatan, fiul lui (vaiomer șaul el iehonatan beno).",
+       "pos": "nume propriu + substantiv, masculin singular construct + sufix",
+       "def_ro": "lui Ionatan, fiul lui",
        "dict_ro": "Abia acum, în a doua zi, Șaul rupe tăcerea și întreabă direct — presupunerea inițială de impuritate rituală nu mai putea explica o a doua absență consecutivă."
       },
       {
        "t": ": „"
       },
       {
-       "t": "De ce fiul lui Ișai nu a venit",
-       "w": "De ce fiul lui Ișai nu a venit",
-       "heb": "מַדּוּעַ לֹא בָא בֶן יִשַׁי",
-       "translit": "madua lo va ven ișai",
+       "t": "De ce",
+       "w": "De ce",
+       "heb": "מַדּוּעַ",
+       "translit": "madua",
+       "strong": "H4069",
+       "pos": "particulă interogativă",
+       "def_ro": "pentru ce",
+       "dict_ro": "Întrebarea directă a lui Șaul, semn că suspiciunea inițială de impuritate rituală nu mai e suficientă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fiul lui Ișai",
+       "w": "fiul lui Ișai",
+       "heb": "בֶן יִשַׁי",
+       "translit": "ven ișai",
        "strong": "H3448",
-       "pos": "particulă interogativă + particulă negativă + verb, qal perfect + substantiv, masculin singular construct + nume propriu",
-       "def_ro": "de ce n-a venit fiul lui Ișai (madua lo va ven ișai).",
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "fiul lui Ișai",
        "dict_ro": "Metzudat David observă disprețul din formulare: Șaul nu-l numește pe David pe nume, ci „fiul lui Ișai” — o distanțare deliberată."
       },
       {
        "t": " "
       },
       {
-       "t": "la ospăț nici ieri, nici astăzi",
-       "w": "la ospăț nici ieri, nici astăzi",
-       "heb": "גַּם תְּמוֹל גַּם הַיּוֹם אֶל הַלָּחֶם",
-       "translit": "gam temol gam haiom el halahem",
+       "t": "nu a venit",
+       "w": "nu a venit",
+       "heb": "לֹא בָא",
+       "translit": "lo va",
+       "strong": "H935",
+       "pos": "particulă negativă + verb, qal perfect",
+       "def_ro": "nu a venit",
+       "dict_ro": "Verbul «bo» (a veni) la negativ, repetat identic la v.27 și v.29 pentru a sublinia absența constantă a lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la ospăț",
+       "w": "la ospăț",
+       "heb": "אֶל הַלָּחֶם",
+       "translit": "el halahem",
        "strong": "H3899",
-       "pos": "particulă afirmativă + adverb + particulă afirmativă + substantiv, masculin singular + prepoziție + substantiv, masculin și feminin singular",
-       "def_ro": "nici ieri, nici azi, la pâine (gam temol gam haiom el halahem).",
+       "pos": "prepoziție + substantiv, masculin și feminin singular",
+       "def_ro": "la pâine",
+       "dict_ro": "Aceeași expresie «la pâine» de la v.24, desemnând ospățul festiv regal."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "nici ieri, nici astăzi",
+       "w": "nici ieri, nici astăzi",
+       "heb": "גַּם תְּמוֹל גַּם הַיּוֹם",
+       "translit": "gam temol gam haiom",
+       "strong": "H3117",
+       "pos": "particulă afirmativă + adverb + particulă afirmativă + substantiv, masculin singular",
+       "def_ro": "și ieri și azi",
        "dict_ro": "Întrebarea confirmă că absența s-a întins pe DOUĂ zile de ospăț consecutive — Luna Nouă și ziua următoare — ceea ce face suspiciunea lui Șaul mult mai serioasă."
       },
       {
@@ -1047,39 +1499,91 @@
      "translit": "Vaiaan Iehonatan et-Șaul nișol nișal David meimadi ad-Beit Lahem.",
      "tokens": [
       {
-       "t": "Ionatan i-a răspuns lui Șaul",
-       "w": "Ionatan i-a răspuns lui Șaul",
-       "heb": "וַיַּעַן יְהוֹנָתָן אֶת שָׁאוּל",
-       "translit": "vaiaan iehonatan et șaul",
-       "strong": "H7586",
-       "pos": "verb, qal imperfect consecutiv + nume propriu + marcă a complementului direct + nume propriu",
-       "def_ro": "și a răspuns Ionatan lui Șaul (vaiaan iehonatan et șaul).",
+       "t": "Ionatan",
+       "w": "Ionatan",
+       "heb": "יְהוֹנָתָן",
+       "translit": "iehonatan",
+       "strong": "H3083",
+       "pos": "nume propriu",
+       "def_ro": "Ionatan",
+       "dict_ro": "Ionatan intervine aici cu explicația pregătită dinainte, exact scenariul plănuit între el și David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "i-a răspuns",
+       "w": "i-a răspuns",
+       "heb": "וַיַּעַן",
+       "translit": "vaiaan",
+       "strong": "H6030",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a răspuns",
        "dict_ro": "Ionatan intervine cu o explicație pregătită, exact scenariul plănuit dinainte între el și David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui Șaul",
+       "w": "lui Șaul",
+       "heb": "שָׁאוּל",
+       "translit": "șaul",
+       "strong": "H7586",
+       "pos": "nume propriu",
+       "def_ro": "pe Șaul",
+       "dict_ro": "Adresarea directă a explicației către rege, în fața întregii curți."
       },
       {
        "t": ": „"
       },
       {
-       "t": "David mi-a cerut voie",
-       "w": "David mi-a cerut voie",
-       "heb": "נִשְׁאֹל נִשְׁאַל דָּוִד",
-       "translit": "nișol nișal david",
+       "t": "David",
+       "w": "David",
+       "heb": "דָּוִד",
+       "translit": "david",
        "strong": "H1732",
-       "pos": "verb, nifal infinitiv absolut + verb, nifal perfect + nume propriu",
-       "def_ro": "cerând a cerut David (nișol nișal david).",
+       "pos": "nume propriu",
+       "def_ro": "David",
+       "dict_ro": "Numele invocat de Ionatan în formula explicației pregătite — motivul absenței de la ospăț."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "mi-a cerut voie",
+       "w": "mi-a cerut voie",
+       "heb": "נִשְׁאֹל נִשְׁאַל",
+       "translit": "nișol nișal",
+       "strong": "H7592",
+       "pos": "verb, nifal infinitiv absolut + verb, nifal perfect",
+       "def_ro": "stăruitor a cerut",
        "dict_ro": "Rashi și Radak observă infinitivul absolut dublat, marcă de insistență: David a cerut STĂRUITOR voie, nu în treacăt."
       },
       {
        "t": " "
       },
       {
-       "t": "să meargă la Betleem",
-       "w": "să meargă la Betleem",
-       "heb": "מֵעִמָּדִי עַד בֵּית לָחֶם",
-       "translit": "mēimadi ad bēt lahem",
+       "t": "să meargă",
+       "w": "să meargă",
+       "heb": "מֵעִמָּדִי",
+       "translit": "mēimadi",
+       "strong": "H5978",
+       "pos": "prepoziție + sufix",
+       "def_ro": "de la mine",
+       "dict_ro": "Literal «de la mine» — formula ebraică prin care David ar fi cerut voia de a pleca de la Ionatan."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la Betleem",
+       "w": "la Betleem",
+       "heb": "עַד בֵּית לָחֶם",
+       "translit": "ad bēt lahem",
        "strong": "H1035",
-       "pos": "prepoziție + sufix + prepoziție + nume propriu + nume propriu",
-       "def_ro": "de la mine, până la Betleem (mēimadi ad bēt lahem).",
+       "pos": "prepoziție + nume propriu + nume propriu",
+       "def_ro": "până la Betleem",
        "dict_ro": "Betleem, cetatea natală a lui David și a familiei lui Ișai, oferă acoperirea perfectă pentru absența lui — o călătorie de familie, nu o fugă."
       },
       {
@@ -1116,56 +1620,105 @@
      "translit": "Vaiomer șaleheni na ki zevah mișpaha lanu bair vehu țiva-li ahi veata im-mațati hen beeineha imalta na veere et-ehai al-ken lo-va el-șulhan hameleh.",
      "tokens": [
       {
-       "t": "Și a spus: «"
+       "t": "Și a spus",
+       "w": "Și a spus",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a spus",
+       "dict_ro": "Introduce formula exactă, pregătită dinainte, a cererii pe care Ionatan o pune în gura lui David."
+      },
+      {
+       "t": ": «"
       },
       {
        "t": "Dă-mi voie, te rog, să plec",
        "w": "Dă-mi voie, te rog, să plec",
-       "heb": "וַיֹּאמֶר שַׁלְּחֵנִי נָא",
-       "translit": "vaiomer șalhēni na",
+       "heb": "שַׁלְּחֵנִי נָא",
+       "translit": "șalhēni na",
        "strong": "H4994",
-       "pos": "verb, qal imperfect consecutiv + verb, piel imperativ + sufix + interjecție",
-       "def_ro": "lasă-mă să plec, te rog (vaiomer șalhēni na).",
+       "pos": "verb, piel imperativ + sufix + interjecție",
+       "def_ro": "trimite-mă, te rog",
        "dict_ro": "Formula de cerere politicoasă pe care Ionatan o pune în gura lui David — exact cuvintele plănuite pentru acoperire."
       },
       {
        "t": ", "
       },
       {
-       "t": "căci am un ospăț de familie în oraș",
-       "w": "căci am un ospăț de familie în oraș",
-       "heb": "כִּי זֶבַח מִשְׁפָּחָה לָנוּ בָּעִיר",
-       "translit": "ki zevah mișpaha lanu bair",
-       "strong": "H5892",
-       "pos": "conjuncție + substantiv, masculin singular construct + substantiv, feminin singular + prepoziție + sufix + substantiv, feminin singular",
-       "def_ro": "căci [este] jertfă de familie pentru noi în cetate (ki zevah mișpaha lanu bair).",
+       "t": "căci am un ospăț de familie",
+       "w": "căci am un ospăț de familie",
+       "heb": "זֶבַח מִשְׁפָּחָה לָנוּ",
+       "translit": "zevah mișpaha lanu",
+       "strong": "",
+       "pos": "substantiv, masculin singular construct + substantiv, feminin singular + prepoziție + sufix",
+       "def_ro": "căci jertfă de familie [avem]",
        "dict_ro": "Metzudat David: era o jertfă de familie, un ospăț anual legat de clan, un motiv real și verificabil, nu o scuză inventată din nimic."
       },
       {
        "t": " "
       },
       {
-       "t": "și el, fratele meu, mi-a poruncit",
-       "w": "și el, fratele meu, mi-a poruncit",
-       "heb": "וְהוּא צִוָּה לִי אָחִי",
-       "translit": "vehu țiva li ahi",
+       "t": "în oraș",
+       "w": "în oraș",
+       "heb": "בָּעִיר",
+       "translit": "bair",
+       "strong": "H5892",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "în cetate",
+       "dict_ro": "Locul jertfei de familie invocate ca motiv al absenței — cetatea natală a clanului lui Ișai."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și el, fratele meu",
+       "w": "și el, fratele meu",
+       "heb": "וְהוּא אָחִי",
+       "translit": "vehu ahi",
        "strong": "H251",
-       "pos": "pronume personal + verb, piel perfect + prepoziție + sufix + substantiv, masculin singular construct + sufix",
-       "def_ro": "și el a poruncit mie, fratele meu (vehu țiva li ahi).",
+       "pos": "pronume personal + substantiv, masculin singular construct + sufix",
+       "def_ro": "și el, fratele meu",
        "dict_ro": "Rashi identifică „fratele” drept Eliab, fratele mai mare al lui David, cel obligat să fie ascultat ca întâiul născut al casei."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "mi-a poruncit",
+       "w": "mi-a poruncit",
+       "heb": "צִוָּה",
+       "translit": "țiva",
+       "strong": "H6680",
+       "pos": "verb, piel perfect",
+       "def_ro": "a poruncit",
+       "dict_ro": "Verbul «țiva» (a porunci) atribuie cererea unei autorități familiale, pe care David/Ionatan o invocă drept scuză."
       },
       {
        "t": " [să vin]. "
       },
       {
-       "t": "Așa că acum, dacă am căpătat trecere în ochii tăi",
-       "w": "Așa că acum, dacă am căpătat trecere în ochii tăi",
-       "heb": "וְעַתָּה אִם מָצָאתִי חֵן בְּעֵינֶיךָ",
-       "translit": "veata im mațati hēn beēneha",
-       "strong": "H5869",
-       "pos": "adverb + conjuncție + verb, qal perfect + substantiv, masculin singular + substantiv, masculin și feminin dual construct + sufix",
-       "def_ro": "și acum, dacă am găsit bunăvoință în ochii tăi (veata im mațati hēn beēneha).",
+       "t": "Așa că acum, dacă am căpătat trecere",
+       "w": "Așa că acum, dacă am căpătat trecere",
+       "heb": "מָצָאתִי חֵן",
+       "translit": "mațati hēn",
+       "strong": "H2580",
+       "pos": "verb, qal perfect + substantiv, masculin singular",
+       "def_ro": "dacă am găsit bunăvoință",
        "dict_ro": "Formulă standard de curtenie în fața unui superior — David/Ionatan cere permisiunea invocând bunăvoința anterioară a regelui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în ochii tăi",
+       "w": "în ochii tăi",
+       "heb": "בְּעֵינֶיךָ",
+       "translit": "beēneha",
+       "strong": "H5869",
+       "pos": "substantiv, masculin și feminin dual construct + sufix",
+       "def_ro": "în ochii tăi",
+       "dict_ro": "Expresie standard de curtenie, invocând bunăvoința anterioară a regelui față de cel care cere voie."
       },
       {
        "t": ", "
@@ -1173,24 +1726,50 @@
       {
        "t": "dă-mi voie, te rog, să îmi văd frații",
        "w": "dă-mi voie, te rog, să îmi văd frații",
-       "heb": "אִמָּלְטָה נָּא וְאֶרְאֶה אֶת אֶחָי",
-       "translit": "imalta na veere et ehai",
+       "heb": "אִמָּלְטָה וְאֶרְאֶה אֶחָי",
+       "translit": "imalta veere ehai",
        "strong": "H251",
-       "pos": "verb, nifal cohortativ + interjecție + verb, qal cohortativ + marcă a complementului direct + substantiv, masculin plural construct + sufix",
-       "def_ro": "las-mă să scap, te rog, și voi vedea frații mei (imalta na veere et ehai).",
+       "pos": "verb, nifal cohortativ + verb, qal cohortativ + substantiv, masculin plural construct + sufix",
+       "def_ro": "voi scăpa, te rog, și voi vedea pe frații mei",
        "dict_ro": "Rashi glosează „imalta” cu un termen vechi francez pentru „voi pleca repede” — o plecare scurtă, de o zi, nu o absență îndelungată."
       },
       {
        "t": ".» "
       },
       {
-       "t": "De aceea nu a venit la masa regelui",
-       "w": "De aceea nu a venit la masa regelui",
-       "heb": "עַל כֵּן לֹא בָא אֶל שֻׁלְחַן הַמֶּלֶךְ",
-       "translit": "al kēn lo va el șulhan hameleh",
+       "t": "De aceea",
+       "w": "De aceea",
+       "heb": "עַל כֵּן",
+       "translit": "al kēn",
+       "strong": "H3651",
+       "pos": "prepoziție + particulă demonstrativă",
+       "def_ro": "de aceea",
+       "dict_ro": "Formula de concluzie «al ken» leagă motivul invocat de rezultatul practic — absența lui David de la masă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "nu a venit",
+       "w": "nu a venit",
+       "heb": "לֹא בָא",
+       "translit": "lo va",
+       "strong": "H935",
+       "pos": "particulă negativă + verb, qal perfect",
+       "def_ro": "nu a venit",
+       "dict_ro": "Repetarea verbului «bo» la negativ, confirmând absența motivată de explicația de mai sus."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la masa regelui",
+       "w": "la masa regelui",
+       "heb": "שֻׁלְחַן הַמֶּלֶךְ",
+       "translit": "șulhan hameleh",
        "strong": "H4428",
-       "pos": "prepoziție + particulă demonstrativă + particulă negativă + verb, qal perfect + prepoziție + substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "de aceea n-a venit la masa regelui (al ken lo va el șulhan hameleh).",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "la masa regelui",
        "dict_ro": "Concluzia explicației pregătite de Ionatan — motivul plausibil, familial, menit să acopere complet adevărata fugă a lui David."
       },
       {
@@ -1239,7 +1818,7 @@
        "translit": "vaihar af șaul",
        "strong": "H7586",
        "pos": "verb, qal imperfect consecutiv + particulă afirmativă + nume propriu",
-       "def_ro": "și s-a aprins mânia lui Șaul (vaihar af șaul).",
+       "def_ro": "și s-a aprins mânia lui Șaul",
        "dict_ro": "Explicația lui Ionatan, în loc să liniștească, declanșează o furie bruscă — Șaul vede prin pretext și înțelege adevărul."
       },
       {
@@ -1252,7 +1831,7 @@
        "translit": "bihonatan",
        "strong": "H3083",
        "pos": "nume propriu",
-       "def_ro": "împotriva lui Ionatan (bihonatan).",
+       "def_ro": "împotriva lui Ionatan",
        "dict_ro": "Furia regelui se întoarce direct asupra fiului său, nu asupra lui David, care rămâne absent — semn că Șaul suspectează complicitatea."
       },
       {
@@ -1261,11 +1840,11 @@
       {
        "t": "i-a spus",
        "w": "i-a spus",
-       "heb": "וַיֹּאמֶר לוֹ",
-       "translit": "vaiomer lo",
-       "strong": "",
-       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
-       "def_ro": "și i-a spus lui (vaiomer lo).",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a spus",
        "dict_ro": "Introducerea exploziei verbale care urmează, una dintre cele mai dure adresate de un tată fiului său în toată Scriptura."
       },
       {
@@ -1278,20 +1857,33 @@
        "translit": "ben naavat hamardut",
        "strong": "H4780",
        "pos": "substantiv, masculin singular construct + verb, nifal participiu + substantiv, feminin singular",
-       "def_ro": "fiu al celei rebele, al nesupunerii (ben naavat hamardut).",
+       "def_ro": "fiu al celei rebele [și] îndărătnice",
        "dict_ro": "Rashi explică rădăcina «naavat» din «a se clătina/a fi necredincioasă» — o insultă dublă, care lovește deopotrivă pe Ionatan și, prin el, pe mama lui, într-un acces de furie necontrolată."
       },
       {
        "t": "! [Crezi că] "
       },
       {
-       "t": "nu știu că tu îl preferi",
-       "w": "nu știu că tu îl preferi",
-       "heb": "הֲלוֹא יָדַעְתִּי כִּי בֹחֵר אַתָּה",
-       "translit": "halo iadati ki vohēr ata",
+       "t": "nu știu",
+       "w": "nu știu",
+       "heb": "יָדַעְתִּי",
+       "translit": "iadati",
+       "strong": "H3045",
+       "pos": "verb, qal perfect",
+       "def_ro": "n-am cunoscut",
+       "dict_ro": "Șaul declară ironic că «n-a cunoscut», deși imediat după afirmă contrariul — o formulă retorică de acuzare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "că tu îl preferi",
+       "w": "că tu îl preferi",
+       "heb": "בֹחֵר אַתָּה",
+       "translit": "vohēr ata",
        "strong": "H859",
-       "pos": "particulă negativă + verb, qal perfect + conjuncție + verb, qal participiu + pronume personal",
-       "def_ro": "nu [am] știut că tu alegi (halo iadati ki vohēr ata).",
+       "pos": "verb, qal participiu + pronume personal",
+       "def_ro": "că alegi tu",
        "dict_ro": "Metzudat David: Șaul declară că știuse de multă vreme despre loialitatea fiului său față de David, dinaintea acestei zile."
       },
       {
@@ -1304,7 +1896,7 @@
        "translit": "leven ișai",
        "strong": "H3448",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "pe fiul lui Ișai (leven ișai).",
+       "def_ro": "pentru fiul lui Ișai",
        "dict_ro": "Din nou, Șaul refuză să-l numească pe David pe nume, reducându-l la „fiul lui Ișai” — formulă disprețuitoare."
       },
       {
@@ -1317,7 +1909,7 @@
        "translit": "levașteha",
        "strong": "H1322",
        "pos": "substantiv, feminin singular construct + sufix",
-       "def_ro": "spre rușinea ta (levașteha).",
+       "def_ro": "spre rușinea ta",
        "dict_ro": "Șaul consideră loialitatea lui Ionatan față de David o rușine personală pentru fiul său."
       },
       {
@@ -1330,7 +1922,7 @@
        "translit": "ulvoșet ervat imeha",
        "strong": "H517",
        "pos": "substantiv, feminin singular construct + substantiv, feminin singular construct + substantiv, feminin singular construct + sufix",
-       "def_ro": "și spre rușinea goliciunii mamei tale (ulvoșet ervat imeha).",
+       "def_ro": "și spre rușinea goliciunii mamei tale",
        "dict_ro": "Radak explică insulta ca aluzie la bănuiala de infidelitate — Șaul sugerează chiar că Ionatan nu i-ar fi fiu legitim, de-atât de contrară îi e purtarea firii regale."
       },
       {
@@ -1378,40 +1970,121 @@
      "translit": "Ki hol-haiamim așer ben-Ișai hai al-haadama lo tikon ata umalhuteha veata șelah vekah oto elai ki ven-mavet hu.",
      "tokens": [
       {
-       "t": "Căci cât timp fiul lui Ișai trăiește pe pământ",
-       "w": "Căci cât timp fiul lui Ișai trăiește pe pământ",
-       "heb": "כִּי כָל הַיָּמִים אֲשֶׁר בֶּן יִשַׁי חַי עַל הָאֲדָמָה",
-       "translit": "ki hal haiamim așer ben ișai hai al haadama",
+       "t": "Căci "
+      },
+      {
+       "t": "cât timp",
+       "w": "cât timp",
+       "heb": "כָל הַיָּמִים",
+       "translit": "hal haiamim",
+       "strong": "H3117",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural",
+       "def_ro": "toate zilele",
+       "dict_ro": "Literal «toate zilele» — expresie temporală care deschide argumentul politic al lui Șaul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fiul lui Ișai",
+       "w": "fiul lui Ișai",
+       "heb": "בֶּן יִשַׁי",
+       "translit": "ben ișai",
+       "strong": "H3448",
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "fiul lui Ișai",
+       "dict_ro": "Din nou, Șaul refuză să-l numească pe David pe nume, reducându-l la «fiul lui Ișai»."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "trăiește",
+       "w": "trăiește",
+       "heb": "חַי",
+       "translit": "hai",
+       "strong": "H2425",
+       "pos": "verb, qal perfect",
+       "def_ro": "viu",
+       "dict_ro": "Adjectivul «hai» (viu) subliniază condiția existenței continue a lui David ca amenințare pentru tron."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe pământ",
+       "w": "pe pământ",
+       "heb": "עַל הָאֲדָמָה",
+       "translit": "al haadama",
        "strong": "H127",
-       "pos": "conjuncție + substantiv, masculin singular construct + substantiv, masculin plural + particulă relativă + substantiv, masculin singular construct + nume propriu + verb, qal perfect + prepoziție + substantiv, feminin singular",
-       "def_ro": "căci în toate zilele cât va fi viu fiul lui Ișai pe pământ (ki hal haiamim așer ben ișai hai al haadama).",
+       "pos": "prepoziție + substantiv, feminin singular",
+       "def_ro": "pe pământ",
        "dict_ro": "Șaul expune aici motivul politic, nu doar personal, al urmăririi lui David: cât timp David trăiește, dinastia lui Șaul nu poate fi sigură pe tron."
       },
       {
        "t": ", "
       },
       {
-       "t": "tu și regatul tău nu veți fi în siguranță",
-       "w": "tu și regatul tău nu veți fi în siguranță",
-       "heb": "לֹא תִכּוֹן אַתָּה וּמַלְכוּתֶךָ",
-       "translit": "lo tikon ata umalhuteha",
+       "t": "tu și regatul tău",
+       "w": "tu și regatul tău",
+       "heb": "אַתָּה וּמַלְכוּתֶךָ",
+       "translit": "ata umalhuteha",
        "strong": "H4438",
-       "pos": "particulă negativă + verb, nifal imperfect + pronume personal + substantiv, feminin singular construct + sufix",
-       "def_ro": "nu vei fi întemeiat, tu și regatul tău (lo tikon ata umalhuteha).",
+       "pos": "pronume personal + substantiv, feminin singular construct + sufix",
+       "def_ro": "tu și regatul tău",
+       "dict_ro": "Șaul leagă explicit soarta personală a lui Ionatan de soarta dinastiei, ca argument suplimentar."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "nu veți fi în siguranță",
+       "w": "nu veți fi în siguranță",
+       "heb": "לֹא תִכּוֹן",
+       "translit": "lo tikon",
+       "strong": "H3559",
+       "pos": "particulă negativă + verb, nifal imperfect",
+       "def_ro": "nu va fi statornic",
        "dict_ro": "Metzudat David: Șaul vede în David o amenințare existențială pentru coroană — nu doar un rival personal, ci pericolul pierderii regatului însuși."
       },
       {
        "t": ". "
       },
       {
-       "t": "Trimite așadar și adu-l la mine",
-       "w": "Trimite așadar și adu-l la mine",
-       "heb": "וְעַתָּה שְׁלַח וְקַח אֹתוֹ אֵלַי",
-       "translit": "veata șelah vekah oto ēlai",
-       "strong": "H413",
-       "pos": "adverb + verb, qal imperativ + verb, qal imperativ + marcă a complementului direct + sufix + prepoziție + sufix",
-       "def_ro": "și acum trimite și ia-l la mine (veata șelah vekah oto ēlai).",
+       "t": "Trimite așadar",
+       "w": "Trimite așadar",
+       "heb": "שְׁלַח",
+       "translit": "șelah",
+       "strong": "H7971",
+       "pos": "verb, qal imperativ",
+       "def_ro": "și acum trimite",
+       "dict_ro": "Porunca imperativă finală a lui Șaul, cerând predarea lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și adu-l",
+       "w": "și adu-l",
+       "heb": "וְקַח אֹתוֹ",
+       "translit": "vekah oto",
+       "strong": "H853",
+       "pos": "verb, qal imperativ + marcă a complementului direct + sufix",
+       "def_ro": "și ia-l",
        "dict_ro": "Porunca directă, finală, pe care Ionatan nu o va îndeplini — momentul în care ruptura dintre tată și fiu devine ireversibilă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la mine",
+       "w": "la mine",
+       "heb": "אֵלַי",
+       "translit": "ēlai",
+       "strong": "H413",
+       "pos": "prepoziție + sufix",
+       "def_ro": "la mine",
+       "dict_ro": "Șaul cere ca David să-i fie adus direct, personal."
       },
       {
        "t": ", "
@@ -1419,11 +2092,11 @@
       {
        "t": "căci merită moartea",
        "w": "căci merită moartea",
-       "heb": "כִּי בֶן מָוֶת",
-       "translit": "ki ven mavet",
+       "heb": "בֶן מָוֶת",
+       "translit": "ven mavet",
        "strong": "H4194",
-       "pos": "conjuncție + substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "căci fiu al morții [este] el (ki ven mavet hu).",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "căci fiu al morții",
        "dict_ro": "Formula „fiu al morții” e o sentință regală explicită — Șaul condamnă oficial pe David la moarte, în fața propriului fiu."
       },
       {
@@ -1463,39 +2136,104 @@
      "translit": "Vaiaan Iehonatan et-Șaul aviv vaiomer elav lama iumat me asa.",
      "tokens": [
       {
-       "t": "Ionatan i-a răspuns tatălui său Șaul",
-       "w": "Ionatan i-a răspuns tatălui său Șaul",
-       "heb": "וַיַּעַן יְהוֹנָתָן אֶת שָׁאוּל אָבִיו וַיֹּאמֶר אֵלָיו",
-       "translit": "vaiaan iehonatan et șaul aviv vaiomer ēlaiv",
-       "strong": "H413",
-       "pos": "verb, qal imperfect consecutiv + nume propriu + marcă a complementului direct + nume propriu + substantiv, masculin singular construct + sufix + verb, qal imperfect consecutiv + prepoziție + sufix",
-       "def_ro": "și a răspuns Ionatan lui Șaul, tatăl lui, și i-a spus (vaiaan iehonatan et șaul aviv vaiomer ēlaiv).",
+       "t": "Ionatan",
+       "w": "Ionatan",
+       "heb": "יְהוֹנָתָן",
+       "translit": "iehonatan",
+       "strong": "H3083",
+       "pos": "nume propriu",
+       "def_ro": "Ionatan",
+       "dict_ro": "Ionatan înfruntă aici direct sentința de moarte pronunțată de tatăl său."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "i-a răspuns",
+       "w": "i-a răspuns",
+       "heb": "וַיַּעַן",
+       "translit": "vaiaan",
+       "strong": "H6030",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a răspuns",
        "dict_ro": "Ionatan înfruntă direct sentința de moarte a tatălui său — un act de curaj remarcabil, în apărarea prietenului nevinovat."
       },
       {
-       "t": " și i-a spus: „"
+       "t": " "
       },
       {
-       "t": "De ce să moară",
-       "w": "De ce să moară",
-       "heb": "לָמָּה יוּמַת",
-       "translit": "lama iumat",
+       "t": "tatălui său Șaul",
+       "w": "tatălui său Șaul",
+       "heb": "שָׁאוּל אָבִיו",
+       "translit": "șaul aviv",
+       "strong": "H1",
+       "pos": "nume propriu + substantiv, masculin singular construct + sufix",
+       "def_ro": "pe Șaul, tatăl lui",
+       "dict_ro": "Precizarea relației de rudenie accentuează gravitatea înfruntării directe dintre fiu și tată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și i-a spus",
+       "w": "și i-a spus",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a spus",
+       "dict_ro": "Introduce întrebarea retorică de apărare a lui David."
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "De ce",
+       "w": "De ce",
+       "heb": "לָמָּה",
+       "translit": "lama",
+       "strong": "H4100",
+       "pos": "particulă interogativă",
+       "def_ro": "pentru ce",
+       "dict_ro": "Întrebarea directă cere justificarea sentinței de moarte pronunțate de Șaul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să moară",
+       "w": "să moară",
+       "heb": "יוּמַת",
+       "translit": "iumat",
        "strong": "H4191",
-       "pos": "particulă interogativă + verb, hofal imperfect",
-       "def_ro": "de ce va fi omorât? (lama iumat).",
+       "pos": "verb, hofal imperfect",
+       "def_ro": "va fi dat morții",
        "dict_ro": "Întrebarea retorică a lui Ionatan cere o justificare pe care Șaul nu o poate oferi — nicio faptă concretă a lui David nu justifică o condamnare la moarte."
       },
       {
        "t": "? "
       },
       {
-       "t": "Ce a făcut",
-       "w": "Ce a făcut",
-       "heb": "מֶה עָשָׂה",
-       "translit": "me asa",
+       "t": "Ce",
+       "w": "Ce",
+       "heb": "מֶה",
+       "translit": "me",
+       "strong": "H4100",
+       "pos": "particulă interogativă",
+       "def_ro": "ce",
+       "dict_ro": "A doua întrebare, complementară primei, cere dovada unei fapte concrete."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a făcut",
+       "w": "a făcut",
+       "heb": "עָשָׂה",
+       "translit": "asa",
        "strong": "H6213",
-       "pos": "particulă interogativă + verb, qal perfect",
-       "def_ro": "ce a făcut? (me asa).",
+       "pos": "verb, qal perfect",
+       "def_ro": "a făcut",
        "dict_ro": "A doua întrebare întărește prima: Ionatan cere dovada unei fapte reale, nu a unei simple suspiciuni politice."
       },
       {
@@ -1537,14 +2275,40 @@
        "t": "Iar "
       },
       {
-       "t": "Șaul și-a aruncat sulița spre el",
-       "w": "Șaul și-a aruncat sulița spre el",
-       "heb": "וַיָּטֶל שָׁאוּל אֶת הַחֲנִית",
-       "translit": "vaiatel șaul et hahanit",
+       "t": "Șaul",
+       "w": "Șaul",
+       "heb": "שָׁאוּל",
+       "translit": "șaul",
+       "strong": "H7586",
+       "pos": "nume propriu",
+       "def_ro": "Șaul",
+       "dict_ro": "Răspunsul lui Șaul la întrebarea fiului său nu e un cuvânt, ci o armă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și-a aruncat sulița",
+       "w": "și-a aruncat sulița",
+       "heb": "וַיָּטֶל הַחֲנִית",
+       "translit": "vaiatel hahanit",
        "strong": "H2595",
-       "pos": "verb, hifil imperfect consecutiv + nume propriu + marcă a complementului direct + substantiv, feminin singular",
-       "def_ro": "și a aruncat Șaul sulița asupra lui (vaiatel șaul et hahanit alaiv).",
+       "pos": "verb, hifil imperfect consecutiv + substantiv, feminin singular",
+       "def_ro": "a aruncat sulița",
        "dict_ro": "Răspunsul lui Șaul la întrebarea fiului său nu e un cuvânt, ci o armă — aceeași sulița cu care, în capitolul 19, îl atacase deja pe David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "spre el",
+       "w": "spre el",
+       "heb": "עָלָיו",
+       "translit": "alaiv",
+       "strong": "H5921",
+       "pos": "prepoziție + sufix",
+       "def_ro": "spre el",
+       "dict_ro": "Direcția suliței aruncate, îndreptată chiar spre propriul fiu."
       },
       {
        "t": " "
@@ -1552,51 +2316,90 @@
       {
        "t": "ca să-l lovească",
        "w": "ca să-l lovească",
-       "heb": "עָלָיו",
-       "translit": "alaiv",
-       "strong": "H5921",
-       "pos": "prepoziție + sufix",
-       "def_ro": "ca să-l lovească (lehakoto).",
+       "heb": "לְהַכֹּתוֹ",
+       "translit": "lehakoto",
+       "strong": "H5221",
+       "pos": "verb, hifil infinitiv + sufix",
+       "def_ro": "să-l lovească",
        "dict_ro": "Scopul explicit al gestului violent — Șaul vrea să-l rănească sau să-l ucidă chiar pe propriul fiu, pentru apărarea lui David."
       },
       {
        "t": ", așa că "
       },
       {
-       "t": "Ionatan a înțeles",
-       "w": "Ionatan a înțeles",
-       "heb": "לְהַכֹּתוֹ וַיֵּדַע",
-       "translit": "lehakoto vaiēda",
-       "strong": "H3045",
-       "pos": "verb, hifil infinitiv + sufix + verb, qal imperfect consecutiv",
-       "def_ro": "și a cunoscut Ionatan (vaiēda iehonatan).",
+       "t": "Ionatan",
+       "w": "Ionatan",
+       "heb": "יְהוֹנָתָן",
+       "translit": "iehonatan",
+       "strong": "H3083",
+       "pos": "nume propriu",
+       "def_ro": "Ionatan",
        "dict_ro": "Gestul violent al tatălui e revelator pentru Ionatan — orice îndoială despre intențiile lui Șaul se spulberă."
       },
       {
        "t": " "
       },
       {
-       "t": "că tatăl său hotărâse",
-       "w": "că tatăl său hotărâse",
-       "heb": "יְהוֹנָתָן כִּי כָלָה הִיא מֵעִם",
-       "translit": "iehonatan ki hala hi mēim",
-       "strong": "H5973",
-       "pos": "nume propriu + conjuncție + substantiv, feminin singular + pronume personal + prepoziție",
-       "def_ro": "că hotărâtă [este] ea, de la tatăl lui (ki hala hi mēim aviv).",
+       "t": "a înțeles",
+       "w": "a înțeles",
+       "heb": "וַיֵּדַע",
+       "translit": "vaiēda",
+       "strong": "H3045",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a cunoscut",
+       "dict_ro": "Gestul violent al tatălui e revelator pentru Ionatan — orice îndoială despre intențiile lui Șaul se spulberă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "că tatăl său",
+       "w": "că tatăl său",
+       "heb": "אָבִיו",
+       "translit": "aviv",
+       "strong": "H1",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "tatăl lui",
+       "dict_ro": "Precizarea subiectului hotărârii ucigașe — tatăl lui Ionatan, nu altcineva."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "hotărâse",
+       "w": "hotărâse",
+       "heb": "כָלָה הִיא",
+       "translit": "hala hi",
+       "strong": "H1931",
+       "pos": "substantiv, feminin singular + pronume personal",
+       "def_ro": "hotărâtă este",
        "dict_ro": "Radak explică «hotărâtă»: gândul tatălui s-a împlinit/consolidat definitiv — nu mai e o mânie trecătoare, ci o decizie fermă."
       },
       {
        "t": " "
       },
       {
-       "t": "să-l omoare pe David",
-       "w": "să-l omoare pe David",
-       "heb": "אָבִיו לְהָמִית אֶת דָּוִד",
-       "translit": "aviv lehamit et david",
-       "strong": "H1732",
-       "pos": "substantiv, masculin singular construct + sufix + verb, hifil infinitiv + marcă a complementului direct + nume propriu",
-       "def_ro": "ca să-l ucidă pe David (lehamit et david).",
+       "t": "să-l omoare",
+       "w": "să-l omoare",
+       "heb": "לְהָמִית",
+       "translit": "lehamit",
+       "strong": "H4191",
+       "pos": "verb, hifil infinitiv",
+       "def_ro": "să-l ucidă",
        "dict_ro": "Concluzia certă la care ajunge Ionatan — tatăl lui e hotărât să-l ucidă pe David cu orice preț."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe David",
+       "w": "pe David",
+       "heb": "דָּוִד",
+       "translit": "david",
+       "strong": "H1732",
+       "pos": "nume propriu",
+       "def_ro": "pe David",
+       "dict_ro": "Ținta finală a hotărârii ucigașe a lui Șaul, confirmată de gestul violent al suliței."
       },
       {
        "t": "."
@@ -1632,40 +2435,92 @@
      "translit": "Vaiakom Iehonatan meim hașulhan bahori-af velo-ahal beiom-hahodeș hașeni lehem ki nețav el-David ki hihlimo aviv.",
      "tokens": [
       {
-       "t": "Ionatan s-a ridicat de la masă arzând de mânie",
-       "w": "Ionatan s-a ridicat de la masă arzând de mânie",
-       "heb": "וַיָּקָם יְהוֹנָתָן מֵעִם הַשֻּׁלְחָן בָּחֳרִי אָף",
-       "translit": "vaiakam iehonatan mēim hașulhan bahori af",
-       "strong": "H639",
-       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + substantiv, masculin singular + substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "și s-a ridicat Ionatan de la masă, cu arderea mâniei (vaiakam iehonatan mēim hașulhan bahori af).",
+       "t": "Ionatan",
+       "w": "Ionatan",
+       "heb": "יְהוֹנָתָן",
+       "translit": "iehonatan",
+       "strong": "H3083",
+       "pos": "nume propriu",
+       "def_ro": "Ionatan",
+       "dict_ro": "Ionatan pleacă demonstrativ de la ospățul regal, în văzul întregii curți."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "s-a ridicat de la masă",
+       "w": "s-a ridicat de la masă",
+       "heb": "וַיָּקָם מֵעִם הַשֻּׁלְחָן",
+       "translit": "vaiakam mēim hașulhan",
+       "strong": "H7979",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv, masculin singular",
+       "def_ro": "s-a ridicat de la masă",
        "dict_ro": "Ionatan pleacă demonstrativ de la ospățul regal — un gest public de ruptură față de tatăl său, în văzul întregii curți."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "arzând de mânie",
+       "w": "arzând de mânie",
+       "heb": "בָּחֳרִי אָף",
+       "translit": "bahori af",
+       "strong": "H639",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "în aprinderea mâniei",
+       "dict_ro": "Expresia «bahori af» (în aprinderea mâniei) descrie starea de furie reținută a lui Ionatan la plecarea de la masă."
       },
       {
        "t": " și "
       },
       {
-       "t": "nu a mai mâncat nimic în acea a doua zi a lunii",
-       "w": "nu a mai mâncat nimic în acea a doua zi a lunii",
-       "heb": "וְלֹא אָכַל בְּיוֹם הַחֹדֶשׁ הַשֵּׁנִי לֶחֶם",
-       "translit": "velo ahal beom hahodeș hașēni lehem",
+       "t": "nu a mai mâncat nimic",
+       "w": "nu a mai mâncat nimic",
+       "heb": "וְלֹא אָכַל",
+       "translit": "velo ahal",
+       "strong": "H398",
+       "pos": "particulă negativă + verb, qal perfect",
+       "def_ro": "și n-a mâncat",
+       "dict_ro": "Refuzul hranei, gest public de protest/doliu în fața întregii curți."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în acea a doua zi a lunii",
+       "w": "în acea a doua zi a lunii",
+       "heb": "בְּיוֹם הַחֹדֶשׁ הַשֵּׁנִי לֶחֶם",
+       "translit": "beom hahodeș hașēni lehem",
        "strong": "H3899",
-       "pos": "particulă negativă + verb, qal perfect + substantiv, masculin singular construct + substantiv, masculin singular + numeral ordinal + substantiv, masculin și feminin singular",
-       "def_ro": "și n-a mâncat pâine în ziua a doua a lunii (velo ahal... beiom hahodeș hașēni lehem).",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular + numeral ordinal + substantiv, masculin și feminin singular",
+       "def_ro": "în ziua lunii, a doua, pâine",
        "dict_ro": "Refuzul de a mânca la masa festivă e un semn public de doliu/protest — Ionatan nu mai poate participa la sărbătoarea care l-a costat prietenia cu David."
       },
       {
        "t": ", "
       },
       {
-       "t": "căci se întristase din pricina lui David",
-       "w": "căci se întristase din pricina lui David",
-       "heb": "כִּי נֶעְצַב אֶל",
-       "translit": "ki nețav el",
-       "strong": "H413",
-       "pos": "conjuncție + verb, nifal perfect + prepoziție",
-       "def_ro": "căci s-a întristat pentru David (ki netzav el david).",
-       "dict_ro": "Radak notează cele DOUĂ motive ale întristării lui Ionatan, explicate separat în continuarea versetului: durerea pentru soarta lui David, și umilirea personală suferită de la tatăl său."
+       "t": "căci se întristase",
+       "w": "căci se întristase",
+       "heb": "נֶעְצַב",
+       "translit": "nețav",
+       "strong": "H6087",
+       "pos": "verb, nifal perfect",
+       "def_ro": "căci s-a mâhnit",
+       "dict_ro": "Radak notează cele DOUĂ motive ale întristării lui Ionatan: durerea pentru soarta lui David, și umilirea personală suferită de la tatăl său."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din pricina lui David",
+       "w": "din pricina lui David",
+       "heb": "אֶל דָּוִד",
+       "translit": "el david",
+       "strong": "H1732",
+       "pos": "prepoziție + nume propriu",
+       "def_ro": "pentru David",
+       "dict_ro": "Primul dintre cele două motive ale întristării lui Ionatan, identificate de Radak — grija pentru soarta prietenului său."
       },
       {
        "t": ", "
@@ -1673,11 +2528,11 @@
       {
        "t": "pentru că tatăl lui îl umilise",
        "w": "pentru că tatăl lui îl umilise",
-       "heb": "דָּוִד כִּי הִכְלִמוֹ",
-       "translit": "david ki hihlimo",
-       "strong": "H3637",
-       "pos": "nume propriu + conjuncție + verb, hifil perfect + sufix",
-       "def_ro": "căci l-a înjosit tatăl lui (ki hihlimo aviv).",
+       "heb": "הִכְלִמוֹ אָבִיו",
+       "translit": "hihlimo aviv",
+       "strong": "H1",
+       "pos": "verb, hifil perfect + sufix + substantiv, masculin singular construct + sufix",
+       "def_ro": "căci l-a umilit tatăl lui",
        "dict_ro": "Rashi: „l-a umilit” se referă la cuvintele „fiu al celei rebele” — o rană verbală publică, înaintea întregii curți regale."
       },
       {
@@ -1716,26 +2571,42 @@
      "translit": "Vaihi vaboker vaiète Iehonatan hasade lemoed David venaar katon imo.",
      "tokens": [
       {
-       "t": "Și a fost dimineață",
-       "w": "Și a fost dimineață",
+       "t": "Și "
+      },
+      {
+       "t": "a fost dimineață",
+       "w": "a fost dimineață",
        "heb": "וַיְהִי בַבֹּקֶר",
        "translit": "vaihi vaboker",
        "strong": "H1242",
        "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular",
-       "def_ro": "și a fost dimineața (vaihi vaboker).",
+       "def_ro": "și a fost în dimineață",
        "dict_ro": "Ziua următoare întâlnirii planificate — Ionatan acționează imediat, fără întârziere, după ruptura de la masa regelui."
       },
       {
        "t": ". Și "
       },
       {
-       "t": "Ionatan a mers pe câmp",
-       "w": "Ionatan a mers pe câmp",
-       "heb": "וַיֵּצֵא יְהוֹנָתָן הַשָּׂדֶה",
-       "translit": "vaiēțē iehonatan hasade",
+       "t": "Ionatan",
+       "w": "Ionatan",
+       "heb": "יְהוֹנָתָן",
+       "translit": "iehonatan",
+       "strong": "H3083",
+       "pos": "nume propriu",
+       "def_ro": "Ionatan",
+       "dict_ro": "Ionatan acționează imediat, fără întârziere, după ruptura de la masa regelui din ziua precedentă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a mers pe câmp",
+       "w": "a mers pe câmp",
+       "heb": "וַיֵּצֵא הַשָּׂדֶה",
+       "translit": "vaiēțē hasade",
        "strong": "H7704",
-       "pos": "verb, qal imperfect consecutiv + nume propriu + substantiv, masculin singular",
-       "def_ro": "și a ieșit Ionatan la câmp (vaiēțē iehonatan hasade).",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular",
+       "def_ro": "a ieșit la câmp",
        "dict_ro": "Același câmp unde David se ascunsese încă de la v.24 — locul stabilit dinainte pentru semnalul cu săgețile."
       },
       {
@@ -1748,21 +2619,34 @@
        "translit": "lemoēd david",
        "strong": "H1732",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "la locul hotărât [cu] David (lemoēd david).",
+       "def_ro": "la întâlnirea cu David",
        "dict_ro": "Radak: „moed” înseamnă aici timpul/locul precis stabilit dinainte între cei doi, nu o întâlnire întâmplătoare."
       },
       {
        "t": ", și "
       },
       {
-       "t": "un tânăr băiețaș era cu el",
-       "w": "un tânăr băiețaș era cu el",
-       "heb": "וְנַעַר קָטֹן עִמּוֹ",
-       "translit": "venaar katon imo",
-       "strong": "H5973",
-       "pos": "substantiv, masculin singular + adjectiv, masculin singular + prepoziție + sufix",
-       "def_ro": "și un tânăr mic [era] cu el (venaar katon imo).",
+       "t": "un tânăr băiețaș",
+       "w": "un tânăr băiețaș",
+       "heb": "וְנַעַר קָטֹן",
+       "translit": "venaar katon",
+       "strong": "H6996",
+       "pos": "substantiv, masculin singular + adjectiv, masculin singular",
+       "def_ro": "și un tânăr mic",
        "dict_ro": "Metzudat Zion observă adjectivul „mic” — tânărul e suficient de nevinovat și de puțin atent ca să nu priceapă semnificația reală a gesturilor lui Ionatan."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "era cu el",
+       "w": "era cu el",
+       "heb": "עִמּוֹ",
+       "translit": "imo",
+       "strong": "H5973",
+       "pos": "prepoziție + sufix",
+       "def_ro": "cu el",
+       "dict_ro": "Prezența tânărului nevinovat, necesară pentru acoperirea publică a semnalului ce urmează."
       },
       {
        "t": "."
@@ -1795,26 +2679,52 @@
      "translit": "Vaiomer lenaaro ruț meța na et-hahițim așer anohi more hanaar raț vehu-iara haheți lehaaviro.",
      "tokens": [
       {
-       "t": "El i-a spus tânărului său",
-       "w": "El i-a spus tânărului său",
-       "heb": "וַיֹּאמֶר לְנַעֲרוֹ",
-       "translit": "vaiomer lenaaro",
+       "t": "El i-a spus",
+       "w": "El i-a spus",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a spus",
+       "dict_ro": "Ionatan începe jocul planificat al semnalului, folosindu-se de tânărul nevinovat ca mesager fără să știe."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "tânărului său",
+       "w": "tânărului său",
+       "heb": "לְנַעֲרוֹ",
+       "translit": "lenaaro",
        "strong": "H5288",
-       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular construct + sufix",
-       "def_ro": "și i-a spus tânărului lui (vaiomer lenaaro).",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "către tânărul lui",
        "dict_ro": "Ionatan începe jocul planificat al semnalului, folosindu-se de tânărul nevinovat ca mesager fără să știe."
       },
       {
        "t": ": „"
       },
       {
-       "t": "Fugi, găsește-mi, rogu-te, săgețile",
-       "w": "Fugi, găsește-mi, rogu-te, săgețile",
-       "heb": "רֻץ מְצָא נָא אֶת הַחִצִּים",
-       "translit": "ruț meța na et hahițim",
+       "t": "Fugi",
+       "w": "Fugi",
+       "heb": "רֻץ",
+       "translit": "ruț",
+       "strong": "H7323",
+       "pos": "verb, qal imperativ",
+       "def_ro": "aleargă",
+       "dict_ro": "Imperativul scurt deschide instrucțiunea publică, nevinovată, dată tânărului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "găsește-mi, rogu-te, săgețile",
+       "w": "găsește-mi, rogu-te, săgețile",
+       "heb": "מְצָא הַחִצִּים",
+       "translit": "meța hahițim",
        "strong": "H2678",
-       "pos": "verb, qal imperativ + verb, qal imperativ + interjecție + marcă a complementului direct + substantiv, masculin plural",
-       "def_ro": "fugi, găsește, te rog, săgețile (ruț meța na et hahițim).",
+       "pos": "verb, qal imperativ + substantiv, masculin plural",
+       "def_ro": "găsește, te rog, săgețile",
        "dict_ro": "Instrucțiunea publică, nevinovată — exact ce plănuise Ionatan la v.21, pusă acum în practică."
       },
       {
@@ -1823,37 +2733,63 @@
       {
        "t": "pe care le trag",
        "w": "pe care le trag",
-       "heb": "אֲשֶׁר אָנֹכִי מוֹרֶה",
-       "translit": "așer anohi more",
+       "heb": "מוֹרֶה",
+       "translit": "more",
        "strong": "H3384",
-       "pos": "particulă relativă + pronume personal + verb, hifil participiu",
-       "def_ro": "pe care eu le trag (așer anohi more).",
+       "pos": "verb, hifil participiu",
+       "def_ro": "eu trag",
        "dict_ro": "Formula arată că Ionatan va trage MAI MULTE săgeți, fiecare mișcare fiind parte a semnalului codat destinat lui David, aflat în ascultare."
       },
       {
        "t": ".” "
       },
       {
-       "t": "Tânărul a alergat",
-       "w": "Tânărul a alergat",
-       "heb": "הַנַּעַר רָץ",
-       "translit": "hanaar raț",
+       "t": "Tânărul",
+       "w": "Tânărul",
+       "heb": "הַנַּעַר",
+       "translit": "hanaar",
+       "strong": "H5288",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "tânărul",
+       "dict_ro": "«Naar» desemnează din nou slujitorul tânăr, inconștient de semnificația reală a gesturilor lui Ionatan."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a alergat",
+       "w": "a alergat",
+       "heb": "רָץ",
+       "translit": "raț",
        "strong": "H7323",
-       "pos": "substantiv, masculin singular + verb, qal perfect",
-       "def_ro": "și tânărul a alergat (hanaar raț).",
+       "pos": "verb, qal perfect",
+       "def_ro": "a alergat",
        "dict_ro": "Băiatul execută instrucțiunea fără suspiciune, alergând după prima săgeată trasă."
       },
       {
        "t": " "
       },
       {
-       "t": "și el a tras săgeata dincolo de el",
-       "w": "și el a tras săgeata dincolo de el",
-       "heb": "וְהוּא יָרָה הַחֵצִי לְהַעֲבִרוֹ",
-       "translit": "vehu iara hahēți lehaaviro",
+       "t": "și el a tras săgeata",
+       "w": "și el a tras săgeata",
+       "heb": "יָרָה הַחֵצִי",
+       "translit": "iara hahēți",
+       "strong": "H2678",
+       "pos": "verb, qal perfect + substantiv, masculin singular",
+       "def_ro": "și el a tras săgeata",
+       "dict_ro": "Prima mișcare concretă a semnalului codat, trasă dincolo de locul unde se afla tânărul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dincolo de el",
+       "w": "dincolo de el",
+       "heb": "לְהַעֲבִרוֹ",
+       "translit": "lehaaviro",
        "strong": "H5674",
-       "pos": "pronume personal + verb, qal perfect + substantiv, masculin singular + verb, hifil infinitiv + sufix",
-       "def_ro": "și el a tras săgeata, ca să treacă de el (vehu iara hahēți lehaaviro).",
+       "pos": "verb, hifil infinitiv + sufix",
+       "def_ro": "ca s-o treacă",
        "dict_ro": "Metzudat David explică mișcarea tactică: Ionatan trage a doua săgeată DINCOLO de tânăr, ca semnalul de pericol de la v.22 să se poată transmite clar."
       },
       {
@@ -1892,52 +2828,117 @@
      "translit": "Vaiavo hanaar ad-mekom haheți așer iara Iehonatan vaikra Iehonatan aharei hanaar vaiomer halo haheți mimha vahala.",
      "tokens": [
       {
-       "t": "Tânărul a ajuns la locul",
-       "w": "Tânărul a ajuns la locul",
-       "heb": "וַיָּבֹא הַנַּעַר עַד מְקוֹם",
-       "translit": "vaiavo hanaar ad mekom",
+       "t": "Tânărul",
+       "w": "Tânărul",
+       "heb": "הַנַּעַר",
+       "translit": "hanaar",
+       "strong": "H5288",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "tânărul",
+       "dict_ro": "«Naar» revine aici, alergând fără suspiciune spre locul exact unde a căzut săgeata."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a ajuns la locul",
+       "w": "a ajuns la locul",
+       "heb": "וַיָּבֹא עַד מְקוֹם",
+       "translit": "vaiavo ad mekom",
        "strong": "H4725",
-       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular + prepoziție + substantiv, masculin singular construct",
-       "def_ro": "și a venit tânărul la locul (vaiavo hanaar ad mekom).",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv, masculin singular construct",
+       "def_ro": "a venit la locul",
        "dict_ro": "Băiatul aleargă până la locul exact unde a căzut săgeata, fără să suspecteze nimic din semnificația ei."
       },
       {
        "t": " "
       },
       {
-       "t": "unde era săgeata trasă de Ionatan",
-       "w": "unde era săgeata trasă de Ionatan",
-       "heb": "הַחֵצִי אֲשֶׁר יָרָה",
-       "translit": "hahēți așer iara",
-       "strong": "H3384",
-       "pos": "substantiv, masculin singular + particulă relativă + verb, qal perfect",
-       "def_ro": "[unde] a tras-o Ionatan (așer iara iehonatan).",
+       "t": "unde era săgeata",
+       "w": "unde era săgeata",
+       "heb": "הַחֵצִי",
+       "translit": "hahēți",
+       "strong": "H2678",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "săgeata",
+       "dict_ro": "Obiectul concret al semnalului codat, aflat deja la locul unde a căzut."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "trasă de Ionatan",
+       "w": "trasă de Ionatan",
+       "heb": "יָרָה יְהוֹנָתָן",
+       "translit": "iara iehonatan",
+       "strong": "H3083",
+       "pos": "verb, qal perfect + nume propriu",
+       "def_ro": "a tras-o Ionatan",
        "dict_ro": "Precizarea cine a tras săgeata subliniază că întregul semnal e orchestrat personal de Ionatan, mișcare cu mișcare."
       },
       {
        "t": " "
       },
       {
-       "t": "și Ionatan a strigat după tânăr",
-       "w": "și Ionatan a strigat după tânăr",
-       "heb": "יְהוֹנָתָן וַיִּקְרָא יְהוֹנָתָן אַחֲרֵי הַנַּעַר",
-       "translit": "iehonatan vaikra iehonatan aharē hanaar",
+       "t": "și Ionatan a strigat",
+       "w": "și Ionatan a strigat",
+       "heb": "וַיִּקְרָא יְהוֹנָתָן",
+       "translit": "vaikra iehonatan",
+       "strong": "H3083",
+       "pos": "verb, qal imperfect consecutiv + nume propriu",
+       "def_ro": "și a strigat Ionatan",
+       "dict_ro": "Strigătul public face parte din scenariul plănuit, menit să nu trezească suspiciunea celor din preajmă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "după tânăr",
+       "w": "după tânăr",
+       "heb": "הַנַּעַר",
+       "translit": "hanaar",
        "strong": "H5288",
-       "pos": "nume propriu + verb, qal imperfect consecutiv + nume propriu + prepoziție + substantiv, masculin singular",
-       "def_ro": "și a strigat Ionatan după tânăr (vaikra iehonatan aharē hanaar).",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "după tânăr",
        "dict_ro": "Strigătul public face parte din scenariul plănuit — nimic nu trebuie să trezească suspiciunea celor care ar putea observa de la distanță."
       },
       {
-       "t": " și a spus: „"
+       "t": " "
       },
       {
-       "t": "Nu este oare săgeata dincolo de tine",
-       "w": "Nu este oare săgeata dincolo de tine",
-       "heb": "וַיֹּאמֶר הֲלוֹא הַחֵצִי מִמְּךָ וָהָלְאָה",
-       "translit": "vaiomer halo hahēți mimha vahala",
+       "t": "și a spus",
+       "w": "și a spus",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a spus",
+       "dict_ro": "Introduce întrebarea-cod prin care Ionatan confirmă poziția săgeții pentru David, aflat în ascultare."
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "Nu este oare săgeata",
+       "w": "Nu este oare săgeata",
+       "heb": "הֲלוֹא הַחֵצִי",
+       "translit": "halo hahēți",
+       "strong": "H2678",
+       "pos": "particulă negativă + substantiv, masculin singular",
+       "def_ro": "nu [este] oare săgeata",
+       "dict_ro": "Formula interogativă retorică prin care Ionatan anunță public poziția săgeții — semnalul codat propriu-zis."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dincolo de tine",
+       "w": "dincolo de tine",
+       "heb": "מִמְּךָ וָהָלְאָה",
+       "translit": "mimha vahala",
        "strong": "H1973",
-       "pos": "verb, qal imperfect consecutiv + particulă negativă + substantiv, masculin singular + prepoziție + sufix + adverb",
-       "def_ro": "nu [e] săgeata de la tine, și mai departe? (vaiomer halo hahēți mimeha vahala).",
+       "pos": "prepoziție + sufix + adverb",
+       "def_ro": "de la tine și dincolo",
        "dict_ro": "Metzudat David: aceasta e exact formula de pericol anunțată la v.22 — săgeata „dincolo” înseamnă „fugi, nu e sigur”."
       },
       {
@@ -1977,52 +2978,117 @@
        "t": "Și "
       },
       {
-       "t": "Ionatan a strigat după tânăr",
-       "w": "Ionatan a strigat după tânăr",
-       "heb": "וַיִּקְרָא יְהוֹנָתָן אַחֲרֵי הַנַּעַר",
-       "translit": "vaikra iehonatan aharē hanaar",
-       "strong": "H5288",
-       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + substantiv, masculin singular",
-       "def_ro": "și a strigat Ionatan după tânăr (vaikra iehonatan aharē hanaar).",
+       "t": "Ionatan a strigat",
+       "w": "Ionatan a strigat",
+       "heb": "וַיִּקְרָא יְהוֹנָתָן",
+       "translit": "vaikra iehonatan",
+       "strong": "H3083",
+       "pos": "verb, qal imperfect consecutiv + nume propriu",
+       "def_ro": "a strigat Ionatan",
        "dict_ro": "Al doilea strigăt, de această dată insistent, întărind urgența semnalului transmis deja lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "după tânăr",
+       "w": "după tânăr",
+       "heb": "אַחֲרֵי הַנַּעַר",
+       "translit": "aharē hanaar",
+       "strong": "H5288",
+       "pos": "prepoziție + substantiv, masculin singular",
+       "def_ro": "după tânăr",
+       "dict_ro": "Al doilea strigăt al lui Ionatan, insistent, repetă adresarea către tânărul slujitor."
       },
       {
        "t": ": „"
       },
       {
-       "t": "Iute! Grăbește-te, nu te opri!",
-       "w": "Iute! Grăbește-te, nu te opri!",
-       "heb": "מְהֵרָה חוּשָׁה אַל תַּעֲמֹד",
-       "translit": "mehēra hușa al taamod",
-       "strong": "H5975",
-       "pos": "substantiv, feminin singular + verb, qal imperativ + sufix + particulă negativă + verb, qal jusiv",
-       "def_ro": "iute, grăbește-te, nu te opri (mehēra hușa al taamod).",
+       "t": "Iute",
+       "w": "Iute",
+       "heb": "מְהֵרָה",
+       "translit": "mehēra",
+       "strong": "H4120",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "grabnic",
        "dict_ro": "Metzudat Zion observă repetarea sinonimică „mehera”/„husa”, ambele însemnând grabă — insistența dublă trădează nevoia reală, ascunsă, de a elibera rapid zona pentru întâlnirea cu David."
       },
       {
-       "t": "” "
+       "t": "! "
       },
       {
-       "t": "Tânărul lui Ionatan a adunat săgețile",
-       "w": "Tânărul lui Ionatan a adunat săgețile",
-       "heb": "וַיְלַקֵּט נַעַר יְהוֹנָתָן אֶת הַחִצִּים",
-       "translit": "vailakēt naar iehonatan et hahițim",
+       "t": "Grăbește-te",
+       "w": "Grăbește-te",
+       "heb": "חוּשָׁה",
+       "translit": "hușa",
+       "strong": "H2363",
+       "pos": "verb, qal imperativ + sufix",
+       "def_ro": "grăbește-te",
+       "dict_ro": "Al doilea imperativ de grabă, sinonim cu «mehera», întărind urgența cerută tânărului."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "nu te opri",
+       "w": "nu te opri",
+       "heb": "תַּעֲמֹד",
+       "translit": "taamod",
+       "strong": "H5975",
+       "pos": "verb, qal jusiv",
+       "def_ro": "nu stai",
+       "dict_ro": "Interdicția explicită de a se opri — insistența trădează nevoia reală, ascunsă, de a elibera rapid zona."
+      },
+      {
+       "t": "!” "
+      },
+      {
+       "t": "Tânărul lui Ionatan",
+       "w": "Tânărul lui Ionatan",
+       "heb": "נַעַר יְהוֹנָתָן",
+       "translit": "naar iehonatan",
+       "strong": "H3083",
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "tânărul lui Ionatan",
+       "dict_ro": "Precizarea apartenenței tânărului confirmă identitatea mesagerului nevinovat al întregului semnal."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a adunat săgețile",
+       "w": "a adunat săgețile",
+       "heb": "וַיְלַקֵּט הַחִצִּים",
+       "translit": "vailakēt hahițim",
        "strong": "H2678",
-       "pos": "verb, piel imperfect consecutiv + substantiv, masculin singular construct + nume propriu + marcă a complementului direct + substantiv, masculin plural",
-       "def_ro": "și a adunat tânărul lui Ionatan săgețile (vailakēt naar iehonatan et hahițim).",
+       "pos": "verb, piel imperfect consecutiv + substantiv, masculin plural",
+       "def_ro": "a adunat săgețile",
        "dict_ro": "Radak notează o variantă de citire între „săgeata” (singular, scris) și „săgețile” (plural, citit) — confirmând că fuseseră trase, în total, cele trei săgeți anunțate la v.20."
       },
       {
        "t": " "
       },
       {
-       "t": "și s-a întors la stăpânul lui",
-       "w": "și s-a întors la stăpânul lui",
-       "heb": "וַיָּבֹא אֶל אֲדֹנָיו",
-       "translit": "vaiavo el adonaiv",
+       "t": "și s-a întors",
+       "w": "și s-a întors",
+       "heb": "וַיָּבֹא",
+       "translit": "vaiavo",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a venit",
+       "dict_ro": "Verbul «bo» (a veni) marchează retragerea tânărului, eliberând scena pentru întâlnirea finală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la stăpânul lui",
+       "w": "la stăpânul lui",
+       "heb": "אֶל אֲדֹנָיו",
+       "translit": "el adonaiv",
        "strong": "H113",
-       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv, masculin plural construct + sufix",
-       "def_ro": "și a venit la stăpânul lui (vaiavo el adonaiv).",
+       "pos": "prepoziție + substantiv, masculin plural construct + sufix",
+       "def_ro": "la stăpânul lui",
        "dict_ro": "Tânărul, misiunea îndeplinită, se retrage la Ionatan — scena e astfel eliberată pentru întâlnirea finală, directă, cu David."
       },
       {
@@ -2065,26 +3131,52 @@
        "t": "Iar "
       },
       {
-       "t": "tânărul nu știa nimic",
-       "w": "tânărul nu știa nimic",
-       "heb": "וְהַנַּעַר לֹא יָדַע מְאוּמָה",
-       "translit": "vehanaar lo iada meuma",
+       "t": "tânărul",
+       "w": "tânărul",
+       "heb": "וְהַנַּעַר",
+       "translit": "vehanaar",
+       "strong": "H5288",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și tânărul",
+       "dict_ro": "Confirmarea explicită că slujitorul a rămas complet neștiutor de semnificația reală a întregului semnal."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "nu știa nimic",
+       "w": "nu știa nimic",
+       "heb": "לֹא יָדַע מְאוּמָה",
+       "translit": "lo iada meuma",
        "strong": "H3972",
-       "pos": "substantiv, masculin singular + particulă negativă + verb, qal perfect + substantiv, feminin singular",
-       "def_ro": "și tânărul nu a știut nimic (vehanaar lo iada meuma).",
+       "pos": "particulă negativă + verb, qal perfect + substantiv, feminin singular",
+       "def_ro": "n-a cunoscut nimic",
        "dict_ro": "Confirmare explicită: băiatul a servit drept unealtă nevinovată a întregului plan, fără să priceapă vreodată semnificația reală a săgeților."
       },
       {
        "t": ", "
       },
       {
-       "t": "ci doar Ionatan și David au înțeles lucrul",
-       "w": "ci doar Ionatan și David au înțeles lucrul",
-       "heb": "אַךְ יְהוֹנָתָן וְדָוִד יָדְעוּ אֶת הַדָּבָר",
-       "translit": "ah iehonatan vedavid iadu et hadavar",
+       "t": "ci doar Ionatan și David",
+       "w": "ci doar Ionatan și David",
+       "heb": "אַךְ יְהוֹנָתָן וְדָוִד",
+       "translit": "ah iehonatan vedavid",
+       "strong": "H1732",
+       "pos": "particulă afirmativă + nume propriu + nume propriu",
+       "def_ro": "doar Ionatan și David",
+       "dict_ro": "Secretul rămâne închis exclusiv între cei doi prieteni, fără nicio scurgere de informație către tânăr."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "au înțeles lucrul",
+       "w": "au înțeles lucrul",
+       "heb": "יָדְעוּ הַדָּבָר",
+       "translit": "iadu hadavar",
        "strong": "H1697",
-       "pos": "particulă afirmativă + nume propriu + nume propriu + verb, qal perfect + marcă a complementului direct + substantiv, masculin singular",
-       "def_ro": "doar Ionatan și David au cunoscut lucrul (ah iehonatan vedavid iadu et hadavar).",
+       "pos": "verb, qal perfect + substantiv, masculin singular",
+       "def_ro": "au cunoscut lucrul",
        "dict_ro": "Secretul rămâne închis între cei doi prieteni — exact cum fusese planul de la început, fără nicio scurgere de informație."
       },
       {
@@ -2121,39 +3213,104 @@
      "translit": "Vaiten Iehonatan et-kelav el-hanaar așer-lo vaiomer lo leh havei hair.",
      "tokens": [
       {
-       "t": "Ionatan i-a dat tânărului armele sale",
-       "w": "Ionatan i-a dat tânărului armele sale",
-       "heb": "וַיִּתֵּן יְהוֹנָתָן אֶת כֵּלָיו אֶל הַנַּעַר אֲשֶׁר לוֹ",
-       "translit": "vaitēn iehonatan et kēlaiv el hanaar așer lo",
-       "strong": "",
-       "pos": "verb, qal imperfect consecutiv + nume propriu + marcă a complementului direct + substantiv, masculin plural construct + sufix + prepoziție + substantiv, masculin singular + particulă relativă + prepoziție + sufix",
-       "def_ro": "și a dat Ionatan armele lui tânărului care era al lui (vaitēn iehonatan et kēlaiv el hanaar așer lo).",
+       "t": "Ionatan",
+       "w": "Ionatan",
+       "heb": "יְהוֹנָתָן",
+       "translit": "iehonatan",
+       "strong": "H3083",
+       "pos": "nume propriu",
+       "def_ro": "Ionatan",
+       "dict_ro": "Ionatan își predă arcul și săgețile tânărului, eliberându-se de echipament pentru a rămâne singur cu David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "i-a dat",
+       "w": "i-a dat",
+       "heb": "וַיִּתֵּן",
+       "translit": "vaitēn",
+       "strong": "H5414",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a dat",
        "dict_ro": "Metzudat David: Ionatan își predă arcul și săgețile tânărului, eliberându-se complet de echipament pentru a putea rămâne singur, fără explicații, cu David."
       },
       {
-       "t": " și "
+       "t": " "
       },
       {
-       "t": "i-a spus",
-       "w": "i-a spus",
-       "heb": "וַיֹּאמֶר לוֹ",
-       "translit": "vaiomer lo",
-       "strong": "",
-       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
-       "def_ro": "și i-a spus [lui] (vaiomer lo).",
+       "t": "tânărului",
+       "w": "tânărului",
+       "heb": "הַנַּעַר",
+       "translit": "hanaar",
+       "strong": "H5288",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "tânărului",
+       "dict_ro": "Ionatan predă arcul și săgețile tânărului, eliberându-se de echipament pentru a rămâne singur cu David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "armele sale",
+       "w": "armele sale",
+       "heb": "כֵּלָיו",
+       "translit": "kēlaiv",
+       "strong": "H3627",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "armele lui",
+       "dict_ro": "Arcul și săgețile folosite în întregul plan al semnalului, predate acum definitiv tânărului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și i-a spus",
+       "w": "și i-a spus",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a spus",
        "dict_ro": "Ionatan trimite acum tânărul înapoi, singura dată când cei doi rămân complet singuri în tot capitolul."
       },
       {
        "t": ": „"
       },
       {
-       "t": "Du-te și du-le în cetate",
-       "w": "Du-te și du-le în cetate",
-       "heb": "לֵךְ הָבֵיא הָעִיר",
-       "translit": "lēh havē hair",
+       "t": "Du-te",
+       "w": "Du-te",
+       "heb": "לֵךְ",
+       "translit": "lēh",
+       "strong": "H3212",
+       "pos": "verb, qal imperativ",
+       "def_ro": "mergi",
+       "dict_ro": "Primul dintre cele două imperative scurte prin care Ionatan trimite tânărul definitiv înapoi."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și du-le",
+       "w": "și du-le",
+       "heb": "הָבֵיא",
+       "translit": "havē",
+       "strong": "H935",
+       "pos": "verb, hifil imperativ",
+       "def_ro": "adu",
+       "dict_ro": "Al doilea imperativ, completând porunca de a duce armele înapoi în cetate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în cetate",
+       "w": "în cetate",
+       "heb": "הָעִיר",
+       "translit": "hair",
        "strong": "H5892",
-       "pos": "verb, qal imperativ + verb, hifil imperativ + substantiv, feminin singular",
-       "def_ro": "du-te, adu-[le] în cetate (lēh havē hair).",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "în cetate",
        "dict_ro": "Ultima poruncă dată tânărului — trimiterea lui definitivă înapoi în cetate, lăsând câmpul liber pentru despărțirea finală dintre Ionatan și David."
       },
       {
@@ -2190,52 +3347,117 @@
      "translit": "Hanaar ba ve'David kam meețel hanegev vaipol leapav arța vaiștahu șaloș peamim vaișeku iș et-reehu vaivku iș et-reehu ad-David higdil.",
      "tokens": [
       {
-       "t": "Tânărul a plecat",
-       "w": "Tânărul a plecat",
-       "heb": "הַנַּעַר בָּא",
-       "translit": "hanaar ba",
+       "t": "Tânărul",
+       "w": "Tânărul",
+       "heb": "הַנַּעַר",
+       "translit": "hanaar",
+       "strong": "H5288",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "tânărul",
+       "dict_ro": "Cu plecarea lui, scena rămâne, pentru prima dată în capitol, complet liberă pentru cei doi prieteni."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a plecat",
+       "w": "a plecat",
+       "heb": "בָּא",
+       "translit": "ba",
        "strong": "H935",
-       "pos": "substantiv, masculin singular + verb, qal perfect",
-       "def_ro": "tânărul a plecat (hanaar ba).",
+       "pos": "verb, qal perfect",
+       "def_ro": "a venit/a plecat",
        "dict_ro": "Cu tânărul îndepărtat, scena rămâne, pentru prima dată în capitol, complet liberă pentru cei doi prieteni."
       },
       {
        "t": " și "
       },
       {
-       "t": "David s-a ridicat din partea de miazăzi",
-       "w": "David s-a ridicat din partea de miazăzi",
-       "heb": "וְדָוִד קָם מֵאֵצֶל הַנֶּגֶב",
-       "translit": "vedavid kam mēēțel hanegev",
+       "t": "David",
+       "w": "David",
+       "heb": "וְדָוִד",
+       "translit": "vedavid",
+       "strong": "H1732",
+       "pos": "nume propriu",
+       "def_ro": "David",
+       "dict_ro": "David iese din ascunzătoarea de la sud de piatra Ezel, unde stătuse de la v.19."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "s-a ridicat",
+       "w": "s-a ridicat",
+       "heb": "קָם",
+       "translit": "kam",
+       "strong": "H6965",
+       "pos": "verb, qal perfect",
+       "def_ro": "s-a ridicat",
+       "dict_ro": "David iese din ascunzătoarea de la sud de piatra Ezel, unde stătuse de la v.19."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din partea de miazăzi",
+       "w": "din partea de miazăzi",
+       "heb": "מֵאֵצֶל הַנֶּגֶב",
+       "translit": "mēēțel hanegev",
        "strong": "H5045",
-       "pos": "nume propriu + verb, qal perfect + prepoziție + substantiv, masculin singular",
-       "def_ro": "și David s-a ridicat de lângă [partea de] miazăzi (vedavid kam mēēțel hanegev).",
+       "pos": "prepoziție + substantiv, masculin singular",
+       "def_ro": "de lângă sud",
        "dict_ro": "Radak precizează poziția: David era ascuns la sud de piatra Ezel, iar Ionatan trăgea săgețile spre partea de nord, ca tânărul să nu-l poată vedea pe David la recuperarea lor."
       },
       {
        "t": " [a stâncii] "
       },
       {
-       "t": "și a căzut cu fața la pământ",
-       "w": "și a căzut cu fața la pământ",
-       "heb": "וַיִּפֹּל לְאַפָּיו אַרְצָה",
-       "translit": "vaipol leapaiv arța",
+       "t": "și a căzut cu fața",
+       "w": "și a căzut cu fața",
+       "heb": "וַיִּפֹּל לְאַפָּיו",
+       "translit": "vaipol leapaiv",
+       "strong": "H639",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin dual construct + sufix",
+       "def_ro": "și a căzut pe fața lui",
+       "dict_ro": "Gestul de prosternare totală, cu fața spre pământ, semn de supunere dinaintea prietenului și, simbolic, a viitorului rege."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la pământ",
+       "w": "la pământ",
+       "heb": "אַרְצָה",
+       "translit": "arța",
        "strong": "H776",
-       "pos": "verb, qal imperfect consecutiv + substantiv, masculin dual construct + sufix + substantiv, masculin și feminin singular",
-       "def_ro": "și a căzut pe fața lui la pământ (vaipol leapaiv arța).",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "la pământ",
        "dict_ro": "Gestul de prosternare totală, cu fața în țărână — semn de supunere și de durere profundă dinaintea prietenului și, simbolic, a viitorului rege."
       },
       {
        "t": " "
       },
       {
-       "t": "și s-a prosternat de trei ori",
-       "w": "și s-a prosternat de trei ori",
-       "heb": "וַיִּשְׁתַּחוּ שָׁלֹשׁ פְּעָמִים",
-       "translit": "vaiștahu șaloș peamim",
+       "t": "și s-a prosternat",
+       "w": "și s-a prosternat",
+       "heb": "וַיִּשְׁתַּחוּ",
+       "translit": "vaiștahu",
+       "strong": "H7812",
+       "pos": "verb, hitpael imperfect consecutiv",
+       "def_ro": "și s-a prosternat",
+       "dict_ro": "Verbul «șțh» (a se prosterna) completează gestul de smerenie, repetat de trei ori."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de trei ori",
+       "w": "de trei ori",
+       "heb": "שָׁלֹשׁ פְּעָמִים",
+       "translit": "șaloș peamim",
        "strong": "H6471",
-       "pos": "verb, hitpael imperfect consecutiv + numeral + substantiv, feminin plural",
-       "def_ro": "și s-a prosternat de trei ori (vaiștahu șaloș peamim).",
+       "pos": "numeral + substantiv, feminin plural",
+       "def_ro": "de trei ori",
        "dict_ro": "Numărul „trei” face ecou intenționat celor trei săgeți trase mai devreme — un gest de smerenie repetată, nu doar unul singular."
       },
       {
@@ -2244,11 +3466,11 @@
       {
        "t": "Și s-au sărutat unul pe celălalt",
        "w": "Și s-au sărutat unul pe celălalt",
-       "heb": "וַיִּשְּׁקוּ אִישׁ אֶת רֵעֵהוּ",
-       "translit": "vaișku iș et rēēhu",
+       "heb": "וַיִּשְּׁקוּ רֵעֵהוּ",
+       "translit": "vaișku rēēhu",
        "strong": "H7453",
-       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular + marcă a complementului direct + substantiv, masculin singular construct + sufix",
-       "def_ro": "și s-au sărutat, fiecare pe semenul lui (vaișku iș et rēēhu).",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular construct + sufix",
+       "def_ro": "și s-au sărutat om pe semenul lui",
        "dict_ro": "Sărutul de despărțire, gest firesc între prieteni apropiați în cultura biblică, marchează aici sfârșitul perioadei în care s-au putut vedea liber."
       },
       {
@@ -2257,24 +3479,37 @@
       {
        "t": "și au plâns unul pe celălalt",
        "w": "și au plâns unul pe celălalt",
-       "heb": "וַיִּבְכּוּ אִישׁ אֶת רֵעֵהוּ",
-       "translit": "vaivku iș et rēēhu",
+       "heb": "וַיִּבְכּוּ רֵעֵהוּ",
+       "translit": "vaivku rēēhu",
        "strong": "H7453",
-       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular + marcă a complementului direct + substantiv, masculin singular construct + sufix",
-       "def_ro": "și au plâns, fiecare pentru semenul lui (vaivku iș et rēēhu).",
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular construct + sufix",
+       "def_ro": "și au plâns om pe semenul lui",
        "dict_ro": "Durerea comună a despărțirii — amândoi înțeleg că fuga lui David înseamnă o separare de durată nedeterminată, poate pentru totdeauna."
       },
       {
        "t": ", "
       },
       {
-       "t": "până când David [a plâns] și mai mult",
-       "w": "până când David [a plâns] și mai mult",
-       "heb": "עַד דָּוִד הִגְדִּיל",
-       "translit": "ad david higdil",
+       "t": "până când David",
+       "w": "până când David",
+       "heb": "דָּוִד",
+       "translit": "david",
+       "strong": "H1732",
+       "pos": "nume propriu",
+       "def_ro": "până David",
+       "dict_ro": "Particula «ad» (până) introduce comparația finală dintre plânsul lui Ionatan și cel, mai intens, al lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "[a plâns] și mai mult",
+       "w": "[a plâns] și mai mult",
+       "heb": "הִגְדִּיל",
+       "translit": "higdil",
        "strong": "H1431",
-       "pos": "prepoziție + nume propriu + verb, hifil perfect",
-       "def_ro": "până când David a sporit (ad david higdil).",
+       "pos": "verb, hifil perfect",
+       "def_ro": "a mărit",
        "dict_ro": "Rashi și Metzudat David observă: David a plâns mai mult decât Ionatan — poate presimțind, mai limpede decât prietenul său, tragedia care-i separă definitiv de acum încolo."
       },
       {
@@ -2322,40 +3557,105 @@
        "t": "Și "
       },
       {
-       "t": "Ionatan i-a spus lui David",
-       "w": "Ionatan i-a spus lui David",
-       "heb": "וַיֹּאמֶר יְהוֹנָתָן לְדָוִד",
-       "translit": "vaiomer iehonatan ledavid",
-       "strong": "H1732",
-       "pos": "verb, qal imperfect consecutiv + nume propriu + nume propriu",
-       "def_ro": "și a spus Ionatan lui David (vaiomer iehonatan ledavid).",
+       "t": "Ionatan",
+       "w": "Ionatan",
+       "heb": "יְהוֹנָתָן",
+       "translit": "iehonatan",
+       "strong": "H3083",
+       "pos": "nume propriu",
+       "def_ro": "Ionatan",
        "dict_ro": "Ultimele cuvinte ale lui Ionatan din acest capitol, un rămas-bun care reafirmă legământul etern dintre cei doi."
-      },
-      {
-       "t": ": „"
-      },
-      {
-       "t": "Mergi în pace!",
-       "w": "Mergi în pace!",
-       "heb": "לֵךְ לְשָׁלוֹם",
-       "translit": "lēh leșalom",
-       "strong": "H7965",
-       "pos": "verb, qal imperativ + substantiv, masculin singular",
-       "def_ro": "du-te în pace (lēh leșalom).",
-       "dict_ro": "Formula de rămas-bun obișnuită în Scriptură, aici încărcată de o greutate aparte, dat fiind pericolul real cu care David se confruntă."
       },
       {
        "t": " "
       },
       {
-       "t": "Ceea ce noi doi am jurat",
-       "w": "Ceea ce noi doi am jurat",
-       "heb": "אֲשֶׁר נִשְׁבַּעְנוּ שְׁנֵינוּ אֲנַחְנוּ",
-       "translit": "așer nișbanu șenēnu anahnu",
+       "t": "i-a spus",
+       "w": "i-a spus",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a spus",
+       "dict_ro": "Ultimele cuvinte ale lui Ionatan din acest capitol, un rămas-bun care reafirmă legământul etern dintre cei doi."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui David",
+       "w": "lui David",
+       "heb": "לְדָוִד",
+       "translit": "ledavid",
+       "strong": "H1732",
+       "pos": "nume propriu",
+       "def_ro": "lui David",
+       "dict_ro": "Destinatarul ultimului cuvânt al lui Ionatan din acest episod."
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "Mergi",
+       "w": "Mergi",
+       "heb": "לֵךְ",
+       "translit": "lēh",
+       "strong": "H1980",
+       "pos": "verb, qal imperativ",
+       "def_ro": "mergi",
+       "dict_ro": "Primul cuvânt al formulei de rămas-bun, urmat de precizarea «în pace»."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în pace",
+       "w": "în pace",
+       "heb": "לְשָׁלוֹם",
+       "translit": "leșalom",
+       "strong": "H7965",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "în pace",
+       "dict_ro": "Formula de rămas-bun obișnuită în Scriptură, aici încărcată de o greutate aparte, dat fiind pericolul real cu care David se confruntă."
+      },
+      {
+       "t": "! "
+      },
+      {
+       "t": "Ceea ce",
+       "w": "Ceea ce",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care",
+       "dict_ro": "Particula relativă «așer» introduce conținutul exact al legământului reamintit la rămas-bun."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "noi doi",
+       "w": "noi doi",
+       "heb": "שְׁנֵינוּ אֲנַחְנוּ",
+       "translit": "șenēnu anahnu",
        "strong": "H587",
-       "pos": "particulă relativă + verb, nifal perfect + numeral + sufix + pronume personal",
-       "def_ro": "cele pe care ne-am jurat noi amândoi (așer nișbanu șenēnu anahnu).",
-       "dict_ro": "Ionatan reamintește explicit jurământul comun, nu doar promisiunea unilaterală — legământul a fost reciproc, asumat de ambii prieteni."
+       "pos": "numeral + sufix + pronume personal",
+       "def_ro": "cei doi, noi înșine",
+       "dict_ro": "Pronumele emfatic dublu subliniază caracterul reciproc al legământului — jurământul a fost depus de amândoi, nu doar promis unilateral de unul către celălalt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "am jurat",
+       "w": "am jurat",
+       "heb": "נִשְׁבַּעְנוּ",
+       "translit": "nișbanu",
+       "strong": "H7650",
+       "pos": "verb, nifal perfect",
+       "def_ro": "am jurat",
+       "dict_ro": "Ionatan reamintește explicit jurământul comun încheiat mai dinainte între el și David."
       },
       {
        "t": " "
@@ -2367,50 +3667,102 @@
        "translit": "beșēm Adonai",
        "strong": "H3068",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "în numele DOMNULUI (beșēm Adonai).",
+       "def_ro": "în numele DOMNULUI",
        "dict_ro": "Jurământul nu e doar o promisiune omenească, ci unul depus în Numele divin, cu toată greutatea solemnă a unui legământ sacru."
       },
       {
        "t": ", "
       },
       {
-       "t": "spunând «DOMNUL să fie între mine și tine",
-       "w": "spunând «DOMNUL să fie între mine și tine",
-       "heb": "לֵאמֹר יְהוָה יִהְיֶה בֵּינִי וּבֵינֶךָ",
-       "translit": "lēmor Adonai ihie bēni uvēneha",
+       "t": "spunând",
+       "w": "spunând",
+       "heb": "לֵאמֹר",
+       "translit": "lēmor",
+       "strong": "H559",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "zicând",
+       "dict_ro": "Verbul «lēmor» introduce formula exactă a jurământului depus de cei doi în numele DOMNULUI."
+      },
+      {
+       "t": " «"
+      },
+      {
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL",
+       "dict_ro": "Partea finală a formulei jurământului, pusă direct în gura lui Ionatan ca declarație a prezenței divine garante a legământului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să fie",
+       "w": "să fie",
+       "heb": "יִהְיֶה",
+       "translit": "ihie",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect",
+       "def_ro": "va fi",
+       "dict_ro": "Verbul «ihie» (va fi) exprimă aici prezența garantă a DOMNULUI, invocată explicit ca martor al legământului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "între mine și tine",
+       "w": "între mine și tine",
+       "heb": "בֵּינִי וּבֵינֶךָ",
+       "translit": "bēni uvēneha",
        "strong": "H996",
-       "pos": "verb, qal infinitiv + nume propriu + verb, qal imperfect + prepoziție + sufix + prepoziție + sufix",
-       "def_ro": "spunând: DOMNUL va fi între mine și între tine (lēmor Adonai ihie bēni uvēneha).",
+       "pos": "prepoziție + sufix + prepoziție + sufix",
+       "def_ro": "între mine și între tine",
        "dict_ro": "Formula reia exact cuvintele de la v.23, încadrând astfel tot capitolul între două afirmații identice ale aceluiași legământ etern."
       },
       {
        "t": " "
       },
       {
-       "t": "și între copiii mei și copiii tăi»",
-       "w": "și între copiii mei și copiii tăi»",
-       "heb": "וּבֵין זַרְעִי וּבֵין זַרְעֲךָ",
-       "translit": "uvēn zari uvēn zaraha",
+       "t": "și între copiii mei",
+       "w": "și între copiii mei",
+       "heb": "וּבֵין זַרְעִי",
+       "translit": "uvēn zari",
        "strong": "H2233",
-       "pos": "prepoziție + substantiv, masculin singular construct + sufix + prepoziție + substantiv, masculin singular construct + sufix",
-       "def_ro": "și între sămânța mea și sămânța ta (uvēn zari uvēn zaraha).",
+       "pos": "prepoziție + substantiv, masculin singular construct + sufix",
+       "def_ro": "și între sămânța mea",
+       "dict_ro": "Legământul se extinde explicit asupra urmașilor lui Ionatan, nu doar asupra lui personal."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și copiii tăi",
+       "w": "și copiii tăi",
+       "heb": "וּבֵין זַרְעֲךָ",
+       "translit": "uvēn zaraha",
+       "strong": "H2233",
+       "pos": "prepoziție + substantiv, masculin singular construct + sufix",
+       "def_ro": "și între sămânța ta",
        "dict_ro": "Legământul se extinde explicit dincolo de viețile celor doi, asupra urmașilor — o promisiune transgenerațională, confirmată istoric prin grija lui David față de Mefiboșet, fiul lui Ionatan."
       },
       {
-       "t": " – "
+       "t": "» – să fie "
       },
       {
-       "t": "să fie în veci!",
-       "w": "să fie în veci!",
+       "t": "în veci",
+       "w": "în veci",
        "heb": "עַד עוֹלָם",
        "translit": "ad olam",
        "strong": "H5769",
        "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "până în veac (ad olam).",
+       "def_ro": "până în veac",
        "dict_ro": "Închiderea capitolului cu aceeași formulă a eternității legământului, repetată de la v.23 — fidelitatea dintre cei doi prieteni rămâne, în intenția lor, fără limită de timp."
       },
       {
-       "t": "”"
+       "t": "!”"
       }
      ],
      "textCompare": [
