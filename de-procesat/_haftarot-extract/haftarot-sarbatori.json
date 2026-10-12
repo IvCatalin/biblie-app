@@ -72038,52 +72038,104 @@
      "translit": "Ko amar ADONAI matza hen bamidbar am seridei harev haloh lehargio Israel.",
      "tokens": [
       {
-       "t": "Așa a spus DOMNUL",
-       "w": "Așa a spus DOMNUL",
-       "heb": "כֹּה אָמַר יְהוָה",
-       "translit": "ko amar Adonai",
-       "strong": "H3068",
-       "pos": "adverb + verb, qal perfect + nume propriu",
-       "def_ro": "Așa a spus DOMNUL (ko amar Adonai)",
+       "t": "Așa a spus",
+       "w": "Așa a spus",
+       "heb": "כֹּה אָמַר",
+       "translit": "ko amar",
+       "strong": "H559",
+       "pos": "adverb + verb, qal perfect",
+       "def_ro": "astfel a spus (ko amar)",
        "dict_ro": "Formula solemnă introduce o nouă profeție de mângâiere, legată direct de promisiunea răscumpărării de mai înainte."
       },
       {
-       "t": ": „"
+       "t": " "
       },
       {
-       "t": "A găsit bunăvoință în deșert",
-       "w": "A găsit bunăvoință în deșert",
-       "heb": "מָצָא חֵן בַּמִּדְבָּר",
-       "translit": "mața hēn bamidbar",
-       "strong": "H4057",
-       "pos": "verb, qal perfect + substantiv, masculin singular + substantiv, masculin singular",
-       "def_ro": "A găsit bunăvoință în deșert (matza hen bamidbar)",
+       "t": "DOMNUL:",
+       "w": "DOMNUL:",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL: (Adonai)",
+       "dict_ro": "Formula solemnă introduce o nouă profeție de mângâiere."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "A găsit bunăvoință",
+       "w": "A găsit bunăvoință",
+       "heb": "מָצָא חֵן",
+       "translit": "mața hēn",
+       "strong": "H2580",
+       "pos": "verb, qal perfect + substantiv, masculin singular",
+       "def_ro": "a găsit bunăvoință (mața hēn)",
        "dict_ro": "Rashi explică faptul că acest popor a găsit bunăvoință în ochii generației pustiei, în vremea Exodului."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "acest popor care a fost cruțat de sabie",
-       "w": "acest popor care a fost cruțat de sabie",
-       "heb": "עַם שְׂרִידֵי חָרֶב",
-       "translit": "am seridē harev",
-       "strong": "H2719",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin plural construct + substantiv, feminin singular",
-       "def_ro": "acest popor care a fost cruțat de sabie (am seride harev)",
+       "t": "în deșert,",
+       "w": "în deșert,",
+       "heb": "בַּמִּדְבָּר",
+       "translit": "bamidbar",
+       "strong": "H4057",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "în pustie, (bamidbar)",
+       "dict_ro": "Rashi explică faptul că acest popor a găsit bunăvoință în ochii generației pustiei, în vremea Exodului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "acest popor",
+       "w": "acest popor",
+       "heb": "עַם",
+       "translit": "am",
+       "strong": "H5971",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "poporul (am)",
        "dict_ro": "Rashi identifică «cei cruțați de sabie» cu cei scăpați de egipteni, amaleciți și canaaniți, în drumul prin pustie."
       },
       {
-       "t": ", "
+       "t": " "
+      },
+      {
+       "t": "care a fost cruțat",
+       "w": "care a fost cruțat",
+       "heb": "שְׂרִידֵי",
+       "translit": "seridē",
+       "strong": "H8300",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "rămășițele (seridē)",
+       "dict_ro": "Rashi identifică «cei cruțați de sabie» cu cei scăpați de egipteni, amaleciți și canaaniți, în drumul prin pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de sabie,",
+       "w": "de sabie,",
+       "heb": "חָרֶב",
+       "translit": "harev",
+       "strong": "H2719",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "de sabie, (harev)",
+       "dict_ro": "Rashi identifică «cei cruțați de sabie» cu cei scăpați de egipteni, amaleciți și canaaniți, în drumul prin pustie."
+      },
+      {
+       "t": " "
       },
       {
        "t": "atunci când l-am condus",
        "w": "atunci când l-am condus",
-       "heb": "הָלוֹךְ",
-       "translit": "haloh",
-       "strong": "H1980",
-       "pos": "verb, qal infinitiv absolut",
-       "def_ro": "atunci când l-am condus (haloh)",
+       "heb": "הָלוֹךְ לְהַרְגִּיעוֹ",
+       "translit": "haloh lehargio",
+       "strong": "H7280",
+       "pos": "verb, qal infinitiv absolut + verb, hifil infinitiv + sufix",
+       "def_ro": "mergând, a-i duce spre odihna lui, (haloh lehargio)",
        "dict_ro": "Radak explică faptul că DOMNUL Însuși i-a condus prin pustie, timp de patruzeci de ani, hrănindu-i fără trudă."
       },
       {
@@ -72096,24 +72148,21 @@
        "translit": "israēl",
        "strong": "H3478",
        "pos": "nume propriu",
-       "def_ro": "pe Israel (israel)",
+       "def_ro": "Israel (israēl)",
        "dict_ro": "Israel este poporul condus către odihna promisă în țara făgăduinței."
       },
       {
        "t": " "
       },
       {
-       "t": "ca să ajungă la odihna sa",
-       "w": "ca să ajungă la odihna sa",
+       "t": "ca să ajungă la odihna sa.”",
+       "w": "ca să ajungă la odihna sa.”",
        "heb": "לְהַרְגִּיעוֹ",
        "translit": "lehargio",
        "strong": "H7280",
        "pos": "verb, hifil infinitiv + sufix",
-       "def_ro": "ca să ajungă la odihna sa (lehargio)",
+       "def_ro": "spre odihna lui.” (lehargio)",
        "dict_ro": "Rashi explică «lehargio» ca «a-i duce spre țara odihnei lor», țara promisă."
-      },
-      {
-       "t": ".”"
       }
      ],
      "textCompare": [
@@ -72154,43 +72203,92 @@
      "translit": "Merahok ADONAI nira li veahavat olam ahavtih al-ken meșahtih hesed.",
      "tokens": [
       {
-       "t": "De departe DOMNUL îmi apare",
-       "w": "De departe DOMNUL îmi apare",
-       "heb": "מֵרָחוֹק יְהוָה נִרְאָה לִי",
-       "translit": "mērahok Adonai nira li",
-       "strong": "",
-       "pos": "adjectiv, masculin singular + nume propriu + verb, nifal perfect + prepoziție + sufix",
-       "def_ro": "De departe DOMNUL îmi apare (merahok Adonai nira li)",
+       "t": "De departe",
+       "w": "De departe",
+       "heb": "מֵרָחוֹק",
+       "translit": "mērahok",
+       "strong": "H7350",
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "de departe (mērahok)",
        "dict_ro": "Rashi explică faptul că profetul vorbește în numele adunării lui Israel, căreia DOMNUL i S-a arătat de departe, prin merit strămoșesc."
       },
       {
-       "t": ", [spunând]: „"
+       "t": " "
       },
       {
-       "t": "Cu o dragoste veșnică te-am iubit",
-       "w": "Cu o dragoste veșnică te-am iubit",
-       "heb": "וְאַהֲבַת עוֹלָם אֲהַבְתִּיךְ",
-       "translit": "veahavat olam ahavtih",
-       "strong": "H157",
-       "pos": "substantiv, feminin singular construct + substantiv, masculin singular + verb, qal perfect + sufix",
-       "def_ro": "Cu o dragoste veșnică te-am iubit (veahavat olam ahavtih)",
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "Rashi explică faptul că profetul vorbește în numele adunării lui Israel, căreia DOMNUL i S-a arătat de departe."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "îmi apare,",
+       "w": "îmi apare,",
+       "heb": "נִרְאָה לִי",
+       "translit": "nira li",
+       "strong": "",
+       "pos": "verb, nifal perfect + prepoziție + sufix",
+       "def_ro": "mi s-a arătat, (nira li)",
+       "dict_ro": "Rashi explică faptul că profetul vorbește în numele adunării lui Israel, căreia DOMNUL i S-a arătat de departe, prin merit strămoșesc."
+      },
+      {
+       "t": " [spunând]: „"
+      },
+      {
+       "t": "Cu o dragoste veșnică",
+       "w": "Cu o dragoste veșnică",
+       "heb": "וְאַהֲבַת עוֹלָם",
+       "translit": "veahavat olam",
+       "strong": "H5769",
+       "pos": "substantiv, feminin singular construct + substantiv, masculin singular",
+       "def_ro": "și cu dragoste veșnică (veahavat olam)",
        "dict_ro": "Radak explică faptul că dragostea veșnică nu a fost una trecătoare, ci statornică dintotdeauna, chiar dacă fața divină părea ascunsă în timpul exilului."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "de aceea îți ofer bunătate",
-       "w": "de aceea îți ofer bunătate",
-       "heb": "עַל כֵּן מְשַׁכְתִּיךְ חָסֶד",
-       "translit": "al kēn meșahtih hased",
-       "strong": "H2617",
-       "pos": "prepoziție + particulă demonstrativă + verb, qal perfect + sufix + substantiv, masculin singular",
-       "def_ro": "de aceea îți ofer bunătate (al ken meshahtih hased)",
+       "t": "te-am iubit,",
+       "w": "te-am iubit,",
+       "heb": "אֲהַבְתִּיךְ",
+       "translit": "ahavtih",
+       "strong": "H157",
+       "pos": "verb, qal perfect + sufix",
+       "def_ro": "te-am iubit, (ahavtih)",
+       "dict_ro": "Radak explică faptul că dragostea veșnică nu a fost una trecătoare, ci statornică dintotdeauna."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de aceea",
+       "w": "de aceea",
+       "heb": "עַל כֵּן",
+       "translit": "al kēn",
+       "strong": "H3651",
+       "pos": "prepoziție + particulă demonstrativă",
+       "def_ro": "de aceea (al kēn)",
        "dict_ro": "Radak explică faptul că această bunătate continuă este dovada vizibilă a dragostei veșnice, manifestată prin slava arătată la Sinai."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "îți ofer bunătate.",
+       "w": "îți ofer bunătate.",
+       "heb": "מְשַׁכְתִּיךְ חָסֶד",
+       "translit": "meșahtih hased",
+       "strong": "H2617",
+       "pos": "verb, qal perfect + sufix + substantiv, masculin singular",
+       "def_ro": "te-am atras, bunătate. (meșahtih hased)",
+       "dict_ro": "Radak explică faptul că această bunătate continuă este dovada vizibilă a dragostei veșnice, manifestată prin slava arătată la Sinai."
       }
      ],
      "textCompare": [
@@ -72236,63 +72334,99 @@
        "translit": "od evnēh",
        "strong": "H1129",
        "pos": "adverb + verb, qal imperfect + sufix",
-       "def_ro": "Te voi reconstrui (od evneh)",
+       "def_ro": "din nou te voi zidi (od evnēh)",
        "dict_ro": "Rashi explică faptul că două construcții anterioare, Templul întâi și al doilea, au fost zidite de oameni și s-au dărâmat; acum DOMNUL promite să zidească El Însuși o a treia."
       },
       {
        "t": " "
       },
       {
-       "t": "și vei fi reconstruită",
-       "w": "și vei fi reconstruită",
+       "t": "și vei fi reconstruită,",
+       "w": "și vei fi reconstruită,",
        "heb": "וְנִבְנֵית",
        "translit": "venivnēt",
        "strong": "H1129",
        "pos": "verb, nifal perfect consecutiv",
-       "def_ro": "și vei fi reconstruită (venivnet)",
+       "def_ro": "și vei fi zidită, (venivnēt)",
        "dict_ro": "Reconstrucția promisă de DOMNUL va fi, de această dată, permanentă, nu supusă dărâmării."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "fecioară a lui Israel",
-       "w": "fecioară a lui Israel",
+       "t": "fecioară a lui Israel!",
+       "w": "fecioară a lui Israel!",
        "heb": "בְּתוּלַת יִשְׂרָאֵל",
        "translit": "betulat israēl",
        "strong": "H3478",
        "pos": "substantiv, feminin singular construct + nume propriu",
-       "def_ro": "fecioară a lui Israel (betulat israel)",
+       "def_ro": "fecioară a lui Israel! (betulat israēl)",
        "dict_ro": "Metzudat David explică faptul că Israel este numit «fecioară» ca semn al dragostei neprihănite pe care Dumnezeu o are pentru popor."
       },
       {
-       "t": "! "
+       "t": " "
       },
       {
-       "t": "Te vei împodobi iarăși cu tamburine",
-       "w": "Te vei împodobi iarăși cu tamburine",
-       "heb": "עוֹד תַּעְדִּי תֻפַּיִךְ",
-       "translit": "od tadi tupaih",
-       "strong": "H8596",
-       "pos": "adverb + verb, qal imperfect + substantiv, masculin plural construct + sufix",
-       "def_ro": "Te vei împodobi iarăși cu tamburine (od tadi tupaih)",
+       "t": "Te vei împodobi iarăși",
+       "w": "Te vei împodobi iarăși",
+       "heb": "עוֹד תַּעְדִּי",
+       "translit": "od tadi",
+       "strong": "H5710",
+       "pos": "adverb + verb, qal imperfect",
+       "def_ro": "din nou te vei împodobi (od tadi)",
        "dict_ro": "Rashi explică «tadi» ca «te vei împodobi/înfrumuseța», semn al bucuriei revenite."
       },
       {
        "t": " "
       },
       {
-       "t": "și vei ieși la dansul celor care se veselesc",
-       "w": "și vei ieși la dansul celor care se veselesc",
-       "heb": "וְיָצָאת בִּמְחוֹל מְשַׂחֲקִים",
-       "translit": "veiațat bimhol mesahakim",
-       "strong": "H7832",
-       "pos": "verb, qal perfect consecutiv + substantiv, masculin singular construct + verb, piel participiu",
-       "def_ro": "și vei ieși la dansul celor care se veselesc (veiatzat bimhol mesahakim)",
+       "t": "cu tamburine",
+       "w": "cu tamburine",
+       "heb": "תֻפַּיִךְ",
+       "translit": "tupaih",
+       "strong": "H8596",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "cu tamburinele tale (tupaih)",
+       "dict_ro": "Rashi explică «tadi» ca «te vei împodobi/înfrumuseța», semn al bucuriei revenite."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și vei ieși",
+       "w": "și vei ieși",
+       "heb": "וְיָצָאת",
+       "translit": "veiațat",
+       "strong": "H3318",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și vei ieși (veiațat)",
        "dict_ro": "Metzudat David explică faptul că imaginea dansului bucuriei completează metafora fecioarei iubite, revenind la viață festivă."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "la dansul",
+       "w": "la dansul",
+       "heb": "בִּמְחוֹל",
+       "translit": "bimhol",
+       "strong": "H4234",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "la dansul (bimhol)",
+       "dict_ro": "Metzudat David explică faptul că imaginea dansului bucuriei completează metafora fecioarei iubite."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "celor care se veselesc.",
+       "w": "celor care se veselesc.",
+       "heb": "מְשַׂחֲקִים",
+       "translit": "mesahakim",
+       "strong": "H7832",
+       "pos": "verb, piel participiu",
+       "def_ro": "celor care se bucură. (mesahakim)",
+       "dict_ro": "Metzudat David explică faptul că imaginea dansului bucuriei completează metafora fecioarei iubite, revenind la viață festivă."
       }
      ],
      "textCompare": [
@@ -72333,30 +72467,43 @@
      "translit": "Od titei heramim beharei Șomron nateu notim vehilelu.",
      "tokens": [
       {
-       "t": "Vei planta iarăși vii",
-       "w": "Vei planta iarăși vii",
-       "heb": "עוֹד תִּטְּעִי כְרָמִים",
-       "translit": "od titi heramim",
-       "strong": "H3754",
-       "pos": "adverb + verb, qal imperfect + substantiv, masculin și feminin plural",
-       "def_ro": "Vei planta iarăși vii (od titi heramim)",
+       "t": "Vei planta iarăși",
+       "w": "Vei planta iarăși",
+       "heb": "עוֹד תִּטְּעִי",
+       "translit": "od titi",
+       "strong": "H5193",
+       "pos": "adverb + verb, qal imperfect",
+       "def_ro": "din nou vei planta (od titi)",
        "dict_ro": "Radak explică faptul că plantarea viilor pe înălțimi, pentru vin de calitate superioară, va fi din nou posibilă în pace, fără frica vrăjmașului."
       },
       {
        "t": " "
       },
       {
-       "t": "în munții Samariei",
-       "w": "în munții Samariei",
+       "t": "vii",
+       "w": "vii",
+       "heb": "כְרָמִים",
+       "translit": "heramim",
+       "strong": "H3754",
+       "pos": "substantiv, masculin și feminin plural",
+       "def_ro": "vii (heramim)",
+       "dict_ro": "Radak explică faptul că plantarea viilor pe înălțimi va fi din nou posibilă în pace, fără frica vrăjmașului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în munții Samariei,",
+       "w": "în munții Samariei,",
        "heb": "בְּהָרֵי שֹׁמְרוֹן",
        "translit": "beharē șomron",
        "strong": "H8111",
        "pos": "substantiv, masculin plural construct + nume propriu",
-       "def_ro": "în munții Samariei (behare shomron)",
+       "def_ro": "în munții Samariei, (beharē șomron)",
        "dict_ro": "Samaria, altădată sub asediu, devine simbol al restaurării depline a vieții rurale."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
        "t": "cei ce vor planta",
@@ -72365,24 +72512,21 @@
        "translit": "natu notim",
        "strong": "H5193",
        "pos": "verb, qal perfect + verb, qal participiu",
-       "def_ro": "cei ce vor planta (natu notim)",
+       "def_ro": "au plantat cei ce plantează (natu notim)",
        "dict_ro": "Repetarea verbului «a planta» subliniază activitatea normală, pașnică, reluată."
       },
       {
        "t": " "
       },
       {
-       "t": "vor răscumpăra [roadele]",
-       "w": "vor răscumpăra [roadele]",
+       "t": "vor răscumpăra [roadele].",
+       "w": "vor răscumpăra [roadele].",
        "heb": "וְחִלֵּלוּ",
        "translit": "vehilēlu",
        "strong": "H2490",
        "pos": "verb, piel perfect consecutiv",
-       "def_ro": "vor răscumpăra [roadele] (vehilelu)",
+       "def_ro": "și vor profana. (vehilēlu)",
        "dict_ro": "Rashi explică «vehilelu» prin legea răscumpărării fructelor anului al patrulea, descrisă în Levitic 19:24, semn al restabilirii vieții religioase normale."
-      },
-      {
-       "t": "."
       }
      ],
      "textCompare": [
@@ -72413,69 +72557,131 @@
      "translit": "Ki ieș-iom kareu noțrim behar Efraim kumu venaale Țion el-ADONAI Eloheinu.",
      "tokens": [
       {
-       "t": "Căci există o zi",
-       "w": "Căci există o zi",
-       "heb": "כִּי יֶשׁ יוֹם",
-       "translit": "ki ieș iom",
-       "strong": "H3117",
-       "pos": "conjuncție + particulă demonstrativă + substantiv, masculin singular",
-       "def_ro": "Căci există o zi (ki iesh iom)",
+       "t": "Căci există",
+       "w": "Căci există",
+       "heb": "כִּי יֶשׁ",
+       "translit": "ki ieș",
+       "strong": "H3426",
+       "pos": "conjuncție + particulă demonstrativă",
+       "def_ro": "căci este (ki ieș)",
        "dict_ro": "Rashi explică faptul că este o zi viitoare anume, hotărâtă pentru acest eveniment."
       },
       {
        "t": " "
       },
       {
-       "t": "când străjerul va proclama",
-       "w": "când străjerul va proclama",
-       "heb": "קָרְאוּ נֹצְרִים",
-       "translit": "karu noțrim",
+       "t": "o zi",
+       "w": "o zi",
+       "heb": "יוֹם",
+       "translit": "iom",
+       "strong": "H3117",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "o zi (iom)",
+       "dict_ro": "Rashi explică faptul că este o zi viitoare anume, hotărâtă pentru acest eveniment."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "când străjerul",
+       "w": "când străjerul",
+       "heb": "נֹצְרִים",
+       "translit": "noțrim",
        "strong": "H5341",
-       "pos": "verb, qal perfect + verb, qal participiu",
-       "def_ro": "când străjerul va proclama (karu notzrim)",
+       "pos": "verb, qal participiu",
+       "def_ro": "străjerii (noțrim)",
+       "dict_ro": "Rashi oferă două interpretări ale «notzrim»: fie străjeri care veghează pe vârfuri de turnuri înalte, fie cei care au păzit Tora."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "va proclama",
+       "w": "va proclama",
+       "heb": "קָרְאוּ",
+       "translit": "karu",
+       "strong": "H7121",
+       "pos": "verb, qal perfect",
+       "def_ro": "vor striga (karu)",
        "dict_ro": "Rashi oferă două interpretări ale «notzrim»: fie străjeri care veghează pe vârfuri de turnuri înalte, fie cei care au păzit Tora, chemați să se bucure."
       },
       {
        "t": " "
       },
       {
-       "t": "pe muntele lui Efraim",
-       "w": "pe muntele lui Efraim",
+       "t": "pe muntele lui Efraim:",
+       "w": "pe muntele lui Efraim:",
        "heb": "בְּהַר אֶפְרָיִם",
        "translit": "behar efraim",
        "strong": "H669",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "pe muntele lui Efraim (behar efraim)",
+       "def_ro": "pe muntele lui Efraim: (behar efraim)",
        "dict_ro": "Muntele Efraim este locul de unde se dă semnalul chemării la pelerinaj."
       },
       {
-       "t": ": „"
+       "t": " „"
       },
       {
-       "t": "Ridicați-vă, haideți să urcăm la Țion",
-       "w": "Ridicați-vă, haideți să urcăm la Țion",
-       "heb": "קוּמוּ וְנַעֲלֶה צִיּוֹן",
-       "translit": "kumu venaale țion",
-       "strong": "H6726",
-       "pos": "verb, qal imperativ + verb, qal cohortativ + nume propriu",
-       "def_ro": "Ridicați-vă, haideți să urcăm la Țion (kumu venaale tzion)",
+       "t": "Ridicați-vă,",
+       "w": "Ridicați-vă,",
+       "heb": "קוּמוּ",
+       "translit": "kumu",
+       "strong": "H6965",
+       "pos": "verb, qal imperativ",
+       "def_ro": "ridicați-vă, (kumu)",
        "dict_ro": "Chemarea la urcarea spre Țion marchează reluarea pelerinajelor religioase normale."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "la DOMNUL, Dumnezeul nostru",
-       "w": "la DOMNUL, Dumnezeul nostru",
-       "heb": "אֶל יְהוָה אֱלֹהֵינוּ",
-       "translit": "el Adonai elohēnu",
-       "strong": "H430",
-       "pos": "prepoziție + nume propriu + substantiv, masculin plural construct + sufix",
-       "def_ro": "la DOMNUL, Dumnezeul nostru (el Adonai elohenu)",
+       "t": "haideți să urcăm",
+       "w": "haideți să urcăm",
+       "heb": "וְנַעֲלֶה",
+       "translit": "venaale",
+       "strong": "H5927",
+       "pos": "verb, qal cohortativ",
+       "def_ro": "și să urcăm (venaale)",
+       "dict_ro": "Chemarea la urcarea spre Țion marchează reluarea pelerinajelor religioase normale."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la Țion,",
+       "w": "la Țion,",
+       "heb": "צִיּוֹן",
+       "translit": "țion",
+       "strong": "H6726",
+       "pos": "nume propriu",
+       "def_ro": "la Țion, (țion)",
+       "dict_ro": "Chemarea la urcarea spre Țion marchează reluarea pelerinajelor religioase normale."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la DOMNUL,",
+       "w": "la DOMNUL,",
+       "heb": "אֶל יְהוָה",
+       "translit": "el Adonai",
+       "strong": "H3068",
+       "pos": "prepoziție + nume propriu",
+       "def_ro": "la DOMNUL, (el Adonai)",
        "dict_ro": "Destinația finală a chemării este întâlnirea cu DOMNUL, Dumnezeul lui Israel, la locul Său sfânt."
       },
       {
-       "t": "!”"
+       "t": " "
+      },
+      {
+       "t": "Dumnezeul nostru!”",
+       "w": "Dumnezeul nostru!”",
+       "heb": "אֱלֹהֵינוּ",
+       "translit": "elohēnu",
+       "strong": "H430",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "Dumnezeul nostru!” (elohēnu)",
+       "dict_ro": "Destinația finală a chemării este întâlnirea cu DOMNUL, Dumnezeul lui Israel, la locul Său sfânt."
       }
      ],
      "textCompare": [
@@ -72512,56 +72718,121 @@
      "translit": "Ki-ho amar ADONAI ranu le'Iaakov simha vețahalu beroș hagoim hașmiu halelu veimru hoșa ADONAI et-amha et șeerit Israel.",
      "tokens": [
       {
-       "t": "Căci astfel a spus DOMNUL",
-       "w": "Căci astfel a spus DOMNUL",
-       "heb": "כִּי כֹה אָמַר יְהוָה",
-       "translit": "ki ho amar Adonai",
-       "strong": "H3068",
-       "pos": "conjuncție + adverb + verb, qal perfect + nume propriu",
-       "def_ro": "Căci astfel a spus DOMNUL (ki ho amar Adonai)",
+       "t": "Căci",
+       "w": "Căci",
+       "heb": "כִּי",
+       "translit": "ki",
+       "strong": "H3588",
+       "pos": "conjuncție",
+       "def_ro": "căci (ki)",
        "dict_ro": "Radak explică faptul că acest verset descrie momentul vestirii mântuirii, de parcă DOMNUL le poruncește direct lui Iacov să se bucure."
       },
       {
-       "t": ": „"
+       "t": " "
       },
       {
-       "t": "Lui Iacov cântați-i cu bucurie",
-       "w": "Lui Iacov cântați-i cu bucurie",
-       "heb": "רָנּוּ לְיַעֲקֹב שִׂמְחָה",
-       "translit": "ranu leiaakov simha",
-       "strong": "H8057",
-       "pos": "verb, qal imperativ + nume propriu + substantiv, feminin singular",
-       "def_ro": "Lui Iacov cântați-i cu bucurie (ranu leiaakov simha)",
+       "t": "astfel a spus",
+       "w": "astfel a spus",
+       "heb": "כֹה אָמַר",
+       "translit": "ho amar",
+       "strong": "H559",
+       "pos": "adverb + verb, qal perfect",
+       "def_ro": "astfel a spus (ho amar)",
+       "dict_ro": "Radak explică faptul că acest verset descrie momentul vestirii mântuirii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNUL:",
+       "w": "DOMNUL:",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL: (Adonai)",
+       "dict_ro": "Radak explică faptul că acest verset descrie momentul vestirii mântuirii."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "Lui Iacov",
+       "w": "Lui Iacov",
+       "heb": "לְיַעֲקֹב",
+       "translit": "leiaakov",
+       "strong": "H3290",
+       "pos": "nume propriu",
+       "def_ro": "lui Iacov (leiaakov)",
        "dict_ro": "Îndemnul la cântare marchează începutul sărbătorii mântuirii."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "chiuiți pe culmile neamurilor",
-       "w": "chiuiți pe culmile neamurilor",
-       "heb": "וְצַהֲלוּ בְּרֹאשׁ הַגּוֹיִם",
-       "translit": "vețahalu beroș hagoim",
-       "strong": "H1471",
-       "pos": "verb, qal imperativ + substantiv, masculin singular construct + substantiv, masculin plural",
-       "def_ro": "chiuiți pe culmile neamurilor (vetzahalu berosh hagoim)",
+       "t": "cântați-i",
+       "w": "cântați-i",
+       "heb": "רָנּוּ",
+       "translit": "ranu",
+       "strong": "H7442",
+       "pos": "verb, qal imperativ",
+       "def_ro": "cântați (ranu)",
+       "dict_ro": "Îndemnul la cântare marchează începutul sărbătorii mântuirii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu bucurie,",
+       "w": "cu bucurie,",
+       "heb": "שִׂמְחָה",
+       "translit": "simha",
+       "strong": "H8057",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "cu bucurie, (simha)",
+       "dict_ro": "Îndemnul la cântare marchează începutul sărbătorii mântuirii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "chiuiți",
+       "w": "chiuiți",
+       "heb": "וְצַהֲלוּ",
+       "translit": "vețahalu",
+       "strong": "H6670",
+       "pos": "verb, qal imperativ",
+       "def_ro": "și chiuiți (vețahalu)",
        "dict_ro": "Rashi explică faptul că strigătul de bucurie se va auzi de pe înălțimi, pentru a fi perceput de departe, chiar printre neamuri."
       },
       {
-       "t": ". "
+       "t": " "
       },
       {
-       "t": "Faceți să se audă",
-       "w": "Faceți să se audă",
+       "t": "pe culmile neamurilor.",
+       "w": "pe culmile neamurilor.",
+       "heb": "בְּרֹאשׁ הַגּוֹיִם",
+       "translit": "beroș hagoim",
+       "strong": "H1471",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural",
+       "def_ro": "pe culmea neamurilor. (beroș hagoim)",
+       "dict_ro": "Rashi explică faptul că strigătul de bucurie se va auzi de pe înălțimi, pentru a fi perceput de departe, chiar printre neamuri."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Faceți să se audă,",
+       "w": "Faceți să se audă,",
        "heb": "הַשְׁמִיעוּ",
        "translit": "hașmiu",
        "strong": "H8085",
        "pos": "verb, hifil imperativ",
-       "def_ro": "Faceți să se audă (hashmiu)",
+       "def_ro": "faceți să se audă, (hașmiu)",
        "dict_ro": "Vestirea este destinată să devină publică, auzită de toți."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
        "t": "slăviți",
@@ -72577,43 +72848,53 @@
        "t": " "
       },
       {
-       "t": "și spuneți",
-       "w": "și spuneți",
+       "t": "și spuneți:",
+       "w": "și spuneți:",
        "heb": "וְאִמְרוּ",
        "translit": "veimru",
        "strong": "H559",
        "pos": "verb, qal imperativ",
-       "def_ro": "și spuneți (veimru)",
+       "def_ro": "și spuneți: (veimru)",
        "dict_ro": "Formula introduce conținutul exact al cuvintelor de laudă."
       },
       {
-       "t": ": «"
+       "t": " «"
       },
       {
-       "t": "O, DOAMNE, mântuiește-Ți poporul",
-       "w": "O, DOAMNE, mântuiește-Ți poporul",
-       "heb": "הוֹשַׁע יְהוָה אֶת עַמְּךָ",
-       "translit": "hoșa Adonai et amha",
-       "strong": "H5971",
-       "pos": "verb, hifil imperativ + nume propriu + marcă a complementului direct + substantiv, masculin singular construct + sufix",
-       "def_ro": "O, DOAMNE, mântuiește-Ți poporul (hosha Adonai et amha)",
+       "t": "O, DOAMNE,",
+       "w": "O, DOAMNE,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOAMNE, (Adonai)",
        "dict_ro": "Rugămintea pentru mântuire este, de fapt, deja împlinită, formulată ca o profeție în curs."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "rămășița lui Israel",
-       "w": "rămășița lui Israel",
-       "heb": "אֵת שְׁאֵרִית יִשְׂרָאֵל",
-       "translit": "ēt șeērit israēl",
+       "t": "mântuiește-Ți poporul,",
+       "w": "mântuiește-Ți poporul,",
+       "heb": "הוֹשַׁע עַמְּךָ",
+       "translit": "hoșa amha",
+       "strong": "H5971",
+       "pos": "verb, hifil imperativ + substantiv, masculin singular construct + sufix",
+       "def_ro": "mântuiește poporul tău, (hoșa amha)",
+       "dict_ro": "Rugămintea pentru mântuire este, de fapt, deja împlinită, formulată ca o profeție în curs."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "rămășița lui Israel!»",
+       "w": "rămășița lui Israel!»",
+       "heb": "שְׁאֵרִית יִשְׂרָאֵל",
+       "translit": "șeērit israēl",
        "strong": "H3478",
-       "pos": "marcă a complementului direct + substantiv, feminin singular construct + nume propriu",
-       "def_ro": "rămășița lui Israel (et sheerit israel)",
+       "pos": "substantiv, feminin singular construct + nume propriu",
+       "def_ro": "rămășița lui Israel!» (șeērit israēl)",
        "dict_ro": "«Rămășița lui Israel» desemnează pe cei supraviețuitori ai exilului, obiectul central al mântuirii promise."
-      },
-      {
-       "t": "!»"
       }
      ],
      "textCompare": [
@@ -72650,7 +72931,7 @@
        "translit": "hinni mēvi otam",
        "strong": "H853",
        "pos": "particulă demonstrativă + sufix + verb, hifil participiu + marcă a complementului direct + sufix",
-       "def_ro": "Iată, Eu îi voi aduce (hinni mevi otam)",
+       "def_ro": "iată, eu îi voi aduce pe ei (hinni mēvi otam)",
        "dict_ro": "Rashi explică faptul că DOMNUL nu va dispreția nici pe cei mai slabi dintre exilați."
       },
       {
@@ -72663,63 +72944,125 @@
        "translit": "mēereț țafon",
        "strong": "H6828",
        "pos": "substantiv, masculin și feminin singular construct + substantiv, feminin singular",
-       "def_ro": "din ținutul de la miazănoapte (meeretz tzafon)",
+       "def_ro": "din țara de nord (mēereț țafon)",
        "dict_ro": "Nordul este direcția principală a exilurilor, de unde vor fi readuși."
       },
       {
        "t": " "
       },
       {
-       "t": "și îi voi aduna de la marginile pământului",
-       "w": "și îi voi aduna de la marginile pământului",
-       "heb": "וְקִבַּצְתִּים מִיַּרְכְּתֵי אָרֶץ",
-       "translit": "vekibațtim miarketē areț",
-       "strong": "H776",
-       "pos": "verb, piel perfect consecutiv + sufix + substantiv, feminin dual construct + substantiv, masculin și feminin singular",
-       "def_ro": "și îi voi aduna de la marginile pământului (vekibatztim miarkete aretz)",
+       "t": "și îi voi aduna",
+       "w": "și îi voi aduna",
+       "heb": "וְקִבַּצְתִּים",
+       "translit": "vekibațtim",
+       "strong": "H6908",
+       "pos": "verb, piel perfect consecutiv + sufix",
+       "def_ro": "și îi voi aduna (vekibațtim)",
        "dict_ro": "Adunarea de la marginile pământului extinde promisiunea la toate direcțiile dispersiei."
       },
       {
-       "t": "; "
+       "t": " "
       },
       {
-       "t": "printre ei vor fi [și] cei orbi și șchiopi",
-       "w": "printre ei vor fi [și] cei orbi și șchiopi",
-       "heb": "בָּם עִוֵּר וּפִסֵּחַ",
-       "translit": "bam ivēr ufisēah",
-       "strong": "H6455",
-       "pos": "prepoziție + sufix + adjectiv, masculin singular + adjectiv, masculin singular",
-       "def_ro": "printre ei vor fi [și] cei orbi și șchiopi (bam iver ufiseah)",
+       "t": "de la marginile pământului;",
+       "w": "de la marginile pământului;",
+       "heb": "מִיַּרְכְּתֵי אָרֶץ",
+       "translit": "miarketē areț",
+       "strong": "H776",
+       "pos": "substantiv, feminin dual construct + substantiv, masculin și feminin singular",
+       "def_ro": "de la marginile pământului; (miarketē areț)",
+       "dict_ro": "Adunarea de la marginile pământului extinde promisiunea la toate direcțiile dispersiei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "printre ei vor fi [și]",
+       "w": "printre ei vor fi [și]",
+       "heb": "בָּם",
+       "translit": "bam",
+       "strong": "",
+       "pos": "prepoziție + sufix",
+       "def_ro": "între ei (bam)",
        "dict_ro": "Rashi explică faptul că nici cei orbi, nici cei șchiopi — cei mai neputincioși — nu vor fi lăsați în urmă."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "femei însărcinate și mame deopotrivă",
-       "w": "femei însărcinate și mame deopotrivă",
-       "heb": "הָרָה וְיֹלֶדֶת יַחְדָּו",
-       "translit": "hara veioledet iahdav",
+       "t": "cei orbi",
+       "w": "cei orbi",
+       "heb": "עִוֵּר",
+       "translit": "ivēr",
+       "strong": "H5787",
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "orbul (ivēr)",
+       "dict_ro": "Rashi explică faptul că nici cei orbi, nici cei șchiopi — cei mai neputincioși — nu vor fi lăsați în urmă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și șchiopi,",
+       "w": "și șchiopi,",
+       "heb": "וּפִסֵּחַ",
+       "translit": "ufisēah",
+       "strong": "H6455",
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "și șchiopul, (ufisēah)",
+       "dict_ro": "Rashi explică faptul că nici cei orbi, nici cei șchiopi — cei mai neputincioși — nu vor fi lăsați în urmă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "femei însărcinate",
+       "w": "femei însărcinate",
+       "heb": "הָרָה",
+       "translit": "hara",
+       "strong": "H2030",
+       "pos": "adjectiv, feminin singular",
+       "def_ro": "cea însărcinată (hara)",
+       "dict_ro": "Femeile însărcinate și cele cu prunci sunt incluse explicit, semn al grijii depline pentru toți."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și mame deopotrivă",
+       "w": "și mame deopotrivă",
+       "heb": "וְיֹלֶדֶת יַחְדָּו",
+       "translit": "veioledet iahdav",
        "strong": "H3162",
-       "pos": "adjectiv, feminin singular + verb, qal participiu + adverb",
-       "def_ro": "femei însărcinate și mame deopotrivă (hara veioledet iahdav)",
+       "pos": "verb, qal participiu + adverb",
+       "def_ro": "și cea care a născut, deopotrivă (veioledet iahdav)",
        "dict_ro": "Femeile însărcinate și cele cu prunci sunt incluse explicit, semn al grijii depline pentru toți, indiferent de starea lor."
       },
       {
-       "t": " – "
+       "t": " "
       },
       {
-       "t": "o mare obște se va întoarce aici",
-       "w": "o mare obște se va întoarce aici",
-       "heb": "קָהָל גָּדוֹל יָשׁוּבוּ הֵנָּה",
-       "translit": "kahal gadol iașuvu hēna",
-       "strong": "H2008",
-       "pos": "substantiv, masculin singular + adjectiv, masculin singular + verb, qal imperfect + adverb",
-       "def_ro": "o mare obște se va întoarce aici (kahal gadol iashuvu hena)",
+       "t": "– o mare obște",
+       "w": "– o mare obște",
+       "heb": "קָהָל גָּדוֹל",
+       "translit": "kahal gadol",
+       "strong": "H1419",
+       "pos": "substantiv, masculin singular + adjectiv, masculin singular",
+       "def_ro": "o obște mare (kahal gadol)",
        "dict_ro": "Radak explică faptul că amploarea acestei adunări este una colectivă, o întreagă obște revenind împreună, nu doar indivizi izolați."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "se va întoarce aici.",
+       "w": "se va întoarce aici.",
+       "heb": "יָשׁוּבוּ הֵנָּה",
+       "translit": "iașuvu hēna",
+       "strong": "H2008",
+       "pos": "verb, qal imperfect + adverb",
+       "def_ro": "se vor întoarce aici. (iașuvu hēna)",
+       "dict_ro": "Radak explică faptul că amploarea acestei adunări este una colectivă, o întreagă obște revenind împreună."
       }
      ],
      "textCompare": [
@@ -72762,76 +73105,164 @@
        "translit": "bivhi iavou",
        "strong": "H935",
        "pos": "substantiv, masculin singular + verb, qal imperfect",
-       "def_ro": "Plângând vor veni (bivhi iavou)",
+       "def_ro": "în plâns vor veni (bivhi iavou)",
        "dict_ro": "Radak explică faptul că acestea sunt lacrimi de bucurie, asemenea lacrimilor lui Iacov la revederea lui Rahela."
       },
       {
        "t": " "
       },
       {
-       "t": "și prin rugăciuni îi voi aduce",
-       "w": "și prin rugăciuni îi voi aduce",
-       "heb": "וּבְתַחֲנוּנִים אוֹבִילֵם",
-       "translit": "uvtahanunim ovilēm",
-       "strong": "H2986",
-       "pos": "substantiv, masculin plural + verb, hifil imperfect + sufix",
-       "def_ro": "și prin rugăciuni îi voi aduce (uvtahanunim ovilem)",
+       "t": "și prin rugăciuni",
+       "w": "și prin rugăciuni",
+       "heb": "וּבְתַחֲנוּנִים",
+       "translit": "uvtahanunim",
+       "strong": "H8469",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "și prin rugăciuni (uvtahanunim)",
        "dict_ro": "Rashi explică faptul că rugăciunile și pocăința sunt mijlocul prin care sunt readuși."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "îi voi conduce către cursuri de apă",
-       "w": "îi voi conduce către cursuri de apă",
-       "heb": "אוֹלִיכֵם אֶל נַחֲלֵי מַיִם",
-       "translit": "olihēm el nahalē maim",
-       "strong": "H4325",
-       "pos": "verb, hifil imperfect + sufix + prepoziție + substantiv, masculin plural construct + substantiv, masculin plural",
-       "def_ro": "îi voi conduce către cursuri de apă (olihem el nahale maim)",
+       "t": "îi voi aduce,",
+       "w": "îi voi aduce,",
+       "heb": "אוֹבִילֵם",
+       "translit": "ovilēm",
+       "strong": "H2986",
+       "pos": "verb, hifil imperfect + sufix",
+       "def_ro": "îi voi conduce, (ovilēm)",
+       "dict_ro": "Rashi explică faptul că rugăciunile și pocăința sunt mijlocul prin care sunt readuși."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "îi voi conduce",
+       "w": "îi voi conduce",
+       "heb": "אוֹלִיכֵם",
+       "translit": "olihēm",
+       "strong": "H3212",
+       "pos": "verb, hifil imperfect + sufix",
+       "def_ro": "îi voi face să meargă (olihēm)",
        "dict_ro": "Imaginea apei curgătoare asigură nevoia de sete potolită pe drumul lung al revenirii."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "pe o cale dreaptă pe care nu se vor împiedica vor veni",
-       "w": "pe o cale dreaptă pe care nu se vor împiedica vor veni",
-       "heb": "בְּדֶרֶךְ יָשָׁר לֹא יִכָּשְׁלוּ בָּהּ",
-       "translit": "bedereh iașar lo ikașlu bah",
-       "strong": "",
-       "pos": "substantiv, masculin și feminin singular + adjectiv, masculin singular + particulă negativă + verb, nifal imperfect + prepoziție + sufix",
-       "def_ro": "pe o cale dreaptă pe care nu se vor împiedica vor veni (bedereh iashar lo ikashlu bah)",
+       "t": "către cursuri de apă,",
+       "w": "către cursuri de apă,",
+       "heb": "אֶל נַחֲלֵי מַיִם",
+       "translit": "el nahalē maim",
+       "strong": "H4325",
+       "pos": "prepoziție + substantiv, masculin plural construct + substantiv, masculin plural",
+       "def_ro": "spre pâraie de apă, (el nahalē maim)",
+       "dict_ro": "Imaginea apei curgătoare asigură nevoia de sete potolită pe drumul lung al revenirii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe o cale dreaptă",
+       "w": "pe o cale dreaptă",
+       "heb": "בְּדֶרֶךְ יָשָׁר",
+       "translit": "bedereh iașar",
+       "strong": "H3477",
+       "pos": "substantiv, masculin și feminin singular + adjectiv, masculin singular",
+       "def_ro": "pe o cale dreaptă (bedereh iașar)",
        "dict_ro": "Radak explică faptul că DOMNUL îi va conduce pe un drum atât de ușor, încât nici orbii, șchiopii, însărcinatele nu se vor poticni."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "căci am fost pentru Israel ca Părinte",
-       "w": "căci am fost pentru Israel ca Părinte",
-       "heb": "כִּי הָיִיתִי לְיִשְׂרָאֵל לְאָב",
-       "translit": "ki haiti leisraēl leav",
-       "strong": "H1",
-       "pos": "conjuncție + verb, qal perfect + nume propriu + substantiv, masculin singular",
-       "def_ro": "căci am fost pentru Israel ca Părinte (ki haiti leisrael leav)",
+       "t": "pe care nu se vor împiedica",
+       "w": "pe care nu se vor împiedica",
+       "heb": "לֹא יִכָּשְׁלוּ בָּהּ",
+       "translit": "lo ikașlu bah",
+       "strong": "",
+       "pos": "particulă negativă + verb, nifal imperfect + prepoziție + sufix",
+       "def_ro": "nu se vor poticni în ea (lo ikașlu bah)",
+       "dict_ro": "Radak explică faptul că DOMNUL îi va conduce pe un drum atât de ușor, încât nici orbii, șchiopii, însărcinatele nu se vor poticni."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "vor veni,",
+       "w": "vor veni,",
+       "heb": "יָבֹאוּ",
+       "translit": "iavou",
+       "strong": "H935",
+       "pos": "verb, qal imperfect",
+       "def_ro": "vor veni, (iavou)",
+       "dict_ro": "Radak explică faptul că DOMNUL îi va conduce pe un drum atât de ușor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "căci am fost",
+       "w": "căci am fost",
+       "heb": "כִּי הָיִיתִי",
+       "translit": "ki haiti",
+       "strong": "H1961",
+       "pos": "conjuncție + verb, qal perfect",
+       "def_ro": "căci am fost (ki haiti)",
        "dict_ro": "DOMNUL se identifică drept Părinte grijuliu al lui Israel, nu doar un conducător distant."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "și Efraim este întâiul Meu născut",
-       "w": "și Efraim este întâiul Meu născut",
-       "heb": "וְאֶפְרַיִם בְּכֹרִי הוּא",
-       "translit": "veefraim behori hu",
+       "t": "pentru Israel",
+       "w": "pentru Israel",
+       "heb": "לְיִשְׂרָאֵל",
+       "translit": "leisraēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "pentru Israel (leisraēl)",
+       "dict_ro": "DOMNUL se identifică drept Părinte grijuliu al lui Israel, nu doar un conducător distant."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca Părinte,",
+       "w": "ca Părinte,",
+       "heb": "לְאָב",
+       "translit": "leav",
+       "strong": "H1",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "ca Părinte, (leav)",
+       "dict_ro": "DOMNUL se identifică drept Părinte grijuliu al lui Israel, nu doar un conducător distant."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și Efraim",
+       "w": "și Efraim",
+       "heb": "וְאֶפְרַיִם",
+       "translit": "veefraim",
+       "strong": "H669",
+       "pos": "nume propriu",
+       "def_ro": "și Efraim (veefraim)",
+       "dict_ro": "Radak explică faptul că Efraim este numit «întâiul născut» pentru că, după împărțirea regatului, cele zece triburi erau cunoscute sub numele lui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "este întâiul Meu născut.",
+       "w": "este întâiul Meu născut.",
+       "heb": "בְּכֹרִי הוּא",
+       "translit": "behori hu",
        "strong": "H1931",
-       "pos": "nume propriu + substantiv, masculin singular construct + sufix + pronume personal",
-       "def_ro": "și Efraim este întâiul Meu născut (veefraim behori hu)",
+       "pos": "substantiv, masculin singular construct + sufix + pronume personal",
+       "def_ro": "[este] întâiul meu născut el. (behori hu)",
        "dict_ro": "Radak explică faptul că Efraim este numit «întâiul născut» pentru că, după împărțirea regatului, cele zece triburi erau cunoscute sub numele lui, asemenea întâietății date lui Iosif."
-      },
-      {
-       "t": "."
       }
      ],
      "textCompare": [
@@ -72868,82 +73299,157 @@
      "translit": "Șimu devar-ADONAI goim vehagidu vaiim mimerhak veimru mezare Israel iekabtzenu ușemaro keroe edro.",
      "tokens": [
       {
-       "t": "Ascultați cuvântul DOMNULUI, neamuri",
-       "w": "Ascultați cuvântul DOMNULUI, neamuri",
-       "heb": "שִׁמְעוּ דְבַר יְהוָה גּוֹיִם",
-       "translit": "șimu devar Adonai goim",
-       "strong": "H1471",
-       "pos": "verb, qal imperativ + substantiv, masculin singular construct + nume propriu + substantiv, masculin plural",
-       "def_ro": "Ascultați cuvântul DOMNULUI, neamuri (shimu devar Adonai goim)",
+       "t": "Ascultați",
+       "w": "Ascultați",
+       "heb": "שִׁמְעוּ",
+       "translit": "șimu",
+       "strong": "H8085",
+       "pos": "verb, qal imperativ",
+       "def_ro": "ascultați (șimu)",
        "dict_ro": "Chemarea se adresează direct neamurilor, nu doar lui Israel, extinzând vestirea universal."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "și vestiți-l în insule depărtate",
-       "w": "și vestiți-l în insule depărtate",
-       "heb": "וְהַגִּידוּ בָאִיִּים מִמֶּרְחָק",
-       "translit": "vehagidu vaim mimerhak",
-       "strong": "H4801",
-       "pos": "verb, hifil imperativ + substantiv, masculin plural + substantiv, masculin singular",
-       "def_ro": "și vestiți-l în insule depărtate (vehagidu vaim mimerhak)",
+       "t": "cuvântul DOMNULUI,",
+       "w": "cuvântul DOMNULUI,",
+       "heb": "דְבַר יְהוָה",
+       "translit": "devar Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "cuvântul DOMNULUI, (devar Adonai)",
+       "dict_ro": "Chemarea se adresează direct neamurilor, nu doar lui Israel, extinzând vestirea universal."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "neamuri,",
+       "w": "neamuri,",
+       "heb": "גּוֹיִם",
+       "translit": "goim",
+       "strong": "H1471",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "neamuri, (goim)",
+       "dict_ro": "Chemarea se adresează direct neamurilor, nu doar lui Israel, extinzând vestirea universal."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și vestiți-l",
+       "w": "și vestiți-l",
+       "heb": "וְהַגִּידוּ",
+       "translit": "vehagidu",
+       "strong": "H5046",
+       "pos": "verb, hifil imperativ",
+       "def_ro": "și vestiți-l (vehagidu)",
        "dict_ro": "Insulele depărtate reprezintă punctele cele mai îndepărtate ale lumii cunoscute, unde vestea trebuie să ajungă."
       },
       {
-       "t": "; "
+       "t": " "
       },
       {
-       "t": "și spuneți",
-       "w": "și spuneți",
+       "t": "în insule depărtate;",
+       "w": "în insule depărtate;",
+       "heb": "בָאִיִּים מִמֶּרְחָק",
+       "translit": "vaim mimerhak",
+       "strong": "H4801",
+       "pos": "substantiv, masculin plural + substantiv, masculin singular",
+       "def_ro": "în insulele de la distanță; (vaim mimerhak)",
+       "dict_ro": "Insulele depărtate reprezintă punctele cele mai îndepărtate ale lumii cunoscute, unde vestea trebuie să ajungă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și spuneți:",
+       "w": "și spuneți:",
        "heb": "וְאִמְרוּ",
        "translit": "veimru",
        "strong": "H559",
        "pos": "verb, qal imperativ",
-       "def_ro": "și spuneți (veimru)",
+       "def_ro": "și spuneți: (veimru)",
        "dict_ro": "Formula introduce conținutul exact al mesajului de vestit."
       },
       {
-       "t": ": «"
+       "t": " "
       },
       {
-       "t": "Cel care l-a împrăștiat pe Israel",
-       "w": "Cel care l-a împrăștiat pe Israel",
-       "heb": "מְזָרֵה יִשְׂרָאֵל",
-       "translit": "mezarē israēl",
-       "strong": "H3478",
-       "pos": "verb, piel participiu + nume propriu",
-       "def_ro": "Cel care l-a împrăștiat pe Israel (mezare israel)",
+       "t": "«Cel care l-a împrăștiat",
+       "w": "«Cel care l-a împrăștiat",
+       "heb": "מְזָרֵה",
+       "translit": "mezarē",
+       "strong": "H2219",
+       "pos": "verb, piel participiu",
+       "def_ro": "cel care îl împrăștie (mezarē)",
        "dict_ro": "Rashi explică faptul că Cel care a împrăștiat pe Israel este același Care îl va și aduna — DOMNUL Însuși controlează ambele acțiuni."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "El îi va aduna și-i va păzi",
-       "w": "El îi va aduna și-i va păzi",
-       "heb": "יְקַבְּצֶנּוּ וּשְׁמָרוֹ",
-       "translit": "iekabțenu ușmaro",
+       "t": "pe Israel,",
+       "w": "pe Israel,",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "pe Israel, (israēl)",
+       "dict_ro": "Rashi explică faptul că Cel care a împrăștiat pe Israel este același Care îl va și aduna."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "El îi va aduna",
+       "w": "El îi va aduna",
+       "heb": "יְקַבְּצֶנּוּ",
+       "translit": "iekabțenu",
+       "strong": "H6908",
+       "pos": "verb, piel imperfect + sufix",
+       "def_ro": "îl va aduna (iekabțenu)",
+       "dict_ro": "Radak explică faptul că neamurile vor recunoaște astfel că nu prin propria lor putere i-au exilat pe israeliți, ci doar prin voia lui Dumnezeu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și-i va păzi,",
+       "w": "și-i va păzi,",
+       "heb": "וּשְׁמָרוֹ",
+       "translit": "ușmaro",
        "strong": "H8104",
-       "pos": "verb, piel imperfect + sufix + verb, qal perfect consecutiv + sufix",
-       "def_ro": "El îi va aduna și-i va păzi (iekabtzenu ushmaro)",
-       "dict_ro": "Radak explică faptul că neamurile vor recunoaște astfel că nu prin propria lor putere i-au exilat pe israeliți, ci doar prin voia lui Dumnezeu, Care îi și adună la timpul potrivit."
+       "pos": "verb, qal perfect consecutiv + sufix",
+       "def_ro": "și-l va păzi, (ușmaro)",
+       "dict_ro": "Radak explică faptul că neamurile vor recunoaște astfel că nu prin propria lor putere i-au exilat pe israeliți."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "așa cum își păzește păstorul turma",
-       "w": "așa cum își păzește păstorul turma",
-       "heb": "כְּרֹעֶה עֶדְרוֹ",
-       "translit": "keroe edro",
-       "strong": "H5739",
-       "pos": "verb, qal participiu + substantiv, masculin singular construct + sufix",
-       "def_ro": "așa cum își păzește păstorul turma (keroe edro)",
+       "t": "așa cum își păzește păstorul",
+       "w": "așa cum își păzește păstorul",
+       "heb": "כְּרֹעֶה",
+       "translit": "keroe",
+       "strong": "H7462",
+       "pos": "verb, qal participiu",
+       "def_ro": "ca un păstor (keroe)",
        "dict_ro": "Comparația cu păstorul exprimă grija atentă și protectoare cu care DOMNUL își va păzi poporul adunat."
       },
       {
-       "t": ".»"
+       "t": " "
+      },
+      {
+       "t": "turma.»",
+       "w": "turma.»",
+       "heb": "עֶדְרוֹ",
+       "translit": "edro",
+       "strong": "H5739",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "turma lui.» (edro)",
+       "dict_ro": "Comparația cu păstorul exprimă grija atentă și protectoare cu care DOMNUL își va păzi poporul adunat."
       }
      ],
      "textCompare": [
@@ -72975,30 +73481,92 @@
      "translit": "Ki-fada ADONAI et-Iaakov ugealo miad hazak mimenu.",
      "tokens": [
       {
-       "t": "Căci DOMNUL îl va răscumpăra pe Iacov",
-       "w": "Căci DOMNUL îl va răscumpăra pe Iacov",
-       "heb": "כִּי פָדָה יְהוָה אֶת יַעֲקֹב",
-       "translit": "ki fada Adonai et iaakov",
-       "strong": "H3290",
-       "pos": "conjuncție + verb, qal perfect + nume propriu + marcă a complementului direct + nume propriu",
-       "def_ro": "Căci DOMNUL îl va răscumpăra pe Iacov (ki fada Adonai et iaakov)",
+       "t": "Căci",
+       "w": "Căci",
+       "heb": "כִּי",
+       "translit": "ki",
+       "strong": "H3588",
+       "pos": "conjuncție",
+       "def_ro": "căci (ki)",
        "dict_ro": "Răscumpărarea lui Iacov confirmă promisiunea anterioară a adunării și păzirii poporului."
       },
       {
        "t": " "
       },
       {
-       "t": "și-l va salva din mâna celui mai puternic ca el",
-       "w": "și-l va salva din mâna celui mai puternic ca el",
-       "heb": "וּגְאָלוֹ מִיַּד חָזָק מִמֶּנּוּ",
-       "translit": "ugalo miad hazak mimenu",
-       "strong": "H4480",
-       "pos": "verb, qal perfect + sufix + substantiv, masculin și feminin singular construct + adjectiv, masculin singular + prepoziție + sufix",
-       "def_ro": "și-l va salva din mâna celui mai puternic ca el (ugalo miad hazak mimenu)",
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "Răscumpărarea lui Iacov confirmă promisiunea anterioară a adunării și păzirii poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "îl va răscumpăra",
+       "w": "îl va răscumpăra",
+       "heb": "פָדָה",
+       "translit": "fada",
+       "strong": "H6299",
+       "pos": "verb, qal perfect",
+       "def_ro": "a răscumpărat (fada)",
+       "dict_ro": "Răscumpărarea lui Iacov confirmă promisiunea anterioară a adunării și păzirii poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe Iacov",
+       "w": "pe Iacov",
+       "heb": "יַעֲקֹב",
+       "translit": "iaakov",
+       "strong": "H3290",
+       "pos": "nume propriu",
+       "def_ro": "pe Iacov (iaakov)",
+       "dict_ro": "Răscumpărarea lui Iacov confirmă promisiunea anterioară a adunării și păzirii poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și-l va salva",
+       "w": "și-l va salva",
+       "heb": "וּגְאָלוֹ",
+       "translit": "ugalo",
+       "strong": "H1350",
+       "pos": "verb, qal perfect + sufix",
+       "def_ro": "și l-a mântuit (ugalo)",
        "dict_ro": "Metzudat David explică faptul că «cel mai puternic ca el» desemnează vrăjmașul de care Israel era neputincios să scape prin propriile forțe."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "din mâna",
+       "w": "din mâna",
+       "heb": "מִיַּד",
+       "translit": "miad",
+       "strong": "H3027",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "din mâna (miad)",
+       "dict_ro": "Metzudat David explică faptul că «cel mai puternic ca el» desemnează vrăjmașul de care Israel era neputincios să scape."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "celui mai puternic ca el.",
+       "w": "celui mai puternic ca el.",
+       "heb": "חָזָק מִמֶּנּוּ",
+       "translit": "hazak mimenu",
+       "strong": "H4480",
+       "pos": "adjectiv, masculin singular + prepoziție + sufix",
+       "def_ro": "celui tare decât el. (hazak mimenu)",
+       "dict_ro": "Metzudat David explică faptul că «cel mai puternic ca el» desemnează vrăjmașul de care Israel era neputincios să scape prin propriile forțe."
       }
      ],
      "textCompare": [
@@ -73030,56 +73598,82 @@
      "translit": "Uvau verinenu vimrom-Țion venaharu el-tuv ADONAI al-dagan veal-tiroș veal-itzhar veal-benei-țon uvakar vehaita nafșam kegan rave velo-iosifu ledaava od.",
      "tokens": [
       {
-       "t": "Vor veni și vor cânta vesel",
-       "w": "Vor veni și vor cânta vesel",
-       "heb": "וּבָאוּ וְרִנְּנוּ",
-       "translit": "uvau verinnu",
-       "strong": "H7442",
-       "pos": "verb, qal perfect consecutiv + verb, piel perfect consecutiv",
-       "def_ro": "Vor veni și vor cânta vesel (uvau verinnu)",
+       "t": "Vor veni",
+       "w": "Vor veni",
+       "heb": "וּבָאוּ",
+       "translit": "uvau",
+       "strong": "H935",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și vor veni (uvau)",
        "dict_ro": "Imaginea cântării de bucurie marchează revenirea pe muntele sfânt."
       },
       {
        "t": " "
       },
       {
-       "t": "pe înălțimea Ționului",
-       "w": "pe înălțimea Ționului",
+       "t": "și vor cânta vesel",
+       "w": "și vor cânta vesel",
+       "heb": "וְרִנְּנוּ",
+       "translit": "verinnu",
+       "strong": "H7442",
+       "pos": "verb, piel perfect consecutiv",
+       "def_ro": "și vor cânta vesel (verinnu)",
+       "dict_ro": "Imaginea cântării de bucurie marchează revenirea pe muntele sfânt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe înălțimea Ționului,",
+       "w": "pe înălțimea Ționului,",
        "heb": "בִמְרוֹם צִיּוֹן",
        "translit": "vimrom țion",
        "strong": "H6726",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "pe înălțimea Ționului (vimrom tzion)",
+       "def_ro": "pe înălțimea Ționului, (vimrom țion)",
        "dict_ro": "Metzudat David explică «rum Țion» ca înălțimea și demnitatea Templului reconstruit."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "și vor veni șuvoi la bunătățile DOMNULUI",
-       "w": "și vor veni șuvoi la bunătățile DOMNULUI",
-       "heb": "וְנָהֲרוּ אֶל טוּב יְהוָה",
-       "translit": "venaharu el tuv Adonai",
-       "strong": "H3068",
-       "pos": "verb, qal perfect consecutiv + prepoziție + substantiv, masculin singular construct + nume propriu",
-       "def_ro": "și vor veni șuvoi la bunătățile DOMNULUI (venaharu el tuv Adonai)",
+       "t": "și vor veni șuvoi",
+       "w": "și vor veni șuvoi",
+       "heb": "וְנָהֲרוּ",
+       "translit": "venaharu",
+       "strong": "H5102",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și vor veni șuvoi (venaharu)",
        "dict_ro": "Radak explică «a veni șuvoi» ca o mișcare grăbită, asemenea unui râu, spre abundența revărsată de DOMNUL."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "la grâne",
-       "w": "la grâne",
+       "t": "la bunătățile DOMNULUI,",
+       "w": "la bunătățile DOMNULUI,",
+       "heb": "אֶל טוּב יְהוָה",
+       "translit": "el tuv Adonai",
+       "strong": "H3068",
+       "pos": "prepoziție + substantiv, masculin singular construct + nume propriu",
+       "def_ro": "spre bunătatea DOMNULUI, (el tuv Adonai)",
+       "dict_ro": "Radak explică «a veni șuvoi» ca o mișcare grăbită, asemenea unui râu, spre abundența revărsată de DOMNUL."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la grâne,",
+       "w": "la grâne,",
        "heb": "עַל דָּגָן",
        "translit": "al dagan",
        "strong": "H1715",
        "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "la grâne (al dagan)",
+       "def_ro": "la grâne, (al dagan)",
        "dict_ro": "Grânele completează lista bunurilor agricole restaurate."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
        "t": "la vin",
@@ -73088,37 +73682,50 @@
        "translit": "veal tiroș",
        "strong": "H8492",
        "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "la vin (veal tirosh)",
+       "def_ro": "și la vin (veal tiroș)",
        "dict_ro": "Vinul reprezintă bucuria și belșugul recoltei viei."
       },
       {
        "t": " "
       },
       {
-       "t": "și la untdelemn",
-       "w": "și la untdelemn",
+       "t": "și la untdelemn,",
+       "w": "și la untdelemn,",
        "heb": "וְעַל יִצְהָר",
        "translit": "veal ițhar",
        "strong": "H3323",
        "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "și la untdelemn (veal itzhar)",
+       "def_ro": "și la untdelemn, (veal ițhar)",
        "dict_ro": "Untdelemnul completează triada clasică a bunurilor pământului — grâu, vin, untdelemn."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "la turme și cirezi",
-       "w": "la turme și cirezi",
-       "heb": "וְעַל בְּנֵי צֹאן וּבָקָר",
-       "translit": "veal benē țon uvakar",
-       "strong": "H1241",
-       "pos": "prepoziție + substantiv, masculin plural construct + substantiv, masculin și feminin singular + substantiv, masculin și feminin singular",
-       "def_ro": "la turme și cirezi (veal bene tzon uvakar)",
+       "t": "la turme",
+       "w": "la turme",
+       "heb": "וְעַל בְּנֵי צֹאן",
+       "translit": "veal benē țon",
+       "strong": "H6629",
+       "pos": "prepoziție + substantiv, masculin plural construct + substantiv, masculin și feminin singular",
+       "def_ro": "și la fiii turmei (veal benē țon)",
        "dict_ro": "Turmele și cirezile arată restaurarea deplină a bogăției pastorale, alături de cea agricolă."
       },
       {
-       "t": ". "
+       "t": " "
+      },
+      {
+       "t": "și cirezi.",
+       "w": "și cirezi.",
+       "heb": "וּבָקָר",
+       "translit": "uvakar",
+       "strong": "H1241",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "și cireada. (uvakar)",
+       "dict_ro": "Turmele și cirezile arată restaurarea deplină a bogăției pastorale, alături de cea agricolă."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Și sufletul lor va fi",
@@ -73127,7 +73734,7 @@
        "translit": "vehaita nafșam",
        "strong": "H5315",
        "pos": "verb, qal perfect consecutiv + substantiv, masculin și feminin singular construct + sufix",
-       "def_ro": "Și sufletul lor va fi (vehaita nafsham)",
+       "def_ro": "și va fi sufletul lor (vehaita nafșam)",
        "dict_ro": "Starea sufletească a poporului reflectă direct abundența materială primită."
       },
       {
@@ -73140,24 +73747,21 @@
        "translit": "kegan rave",
        "strong": "H7302",
        "pos": "substantiv, masculin și feminin singular + adjectiv, masculin singular",
-       "def_ro": "ca o grădină bine udată (kegan rave)",
+       "def_ro": "ca o grădină udată (kegan rave)",
        "dict_ro": "Metzudat Zion explică imaginea grădinii bine udate ca satisfacție completă, fără lipsă."
       },
       {
        "t": " "
       },
       {
-       "t": "și nu vor mai fi avea parte de mâhnire",
-       "w": "și nu vor mai fi avea parte de mâhnire",
+       "t": "și nu vor mai fi avea parte de mâhnire.",
+       "w": "și nu vor mai fi avea parte de mâhnire.",
        "heb": "וְלֹא יוֹסִיפוּ לְדַאֲבָה עוֹד",
        "translit": "velo iosifu ledaava od",
        "strong": "H5750",
        "pos": "particulă negativă + verb, hifil imperfect + verb, qal infinitiv + adverb",
-       "def_ro": "și nu vor mai fi avea parte de mâhnire (velo iosifu ledaava od)",
+       "def_ro": "și nu vor mai adăuga să se mâhnească mai. (velo iosifu ledaava od)",
        "dict_ro": "Încetarea definitivă a întristării încheie imaginea restaurării depline, materiale și spirituale."
-      },
-      {
-       "t": "."
       }
      ],
      "textCompare": [
@@ -73188,43 +73792,134 @@
      "translit": "Az tismah betula bemahol uvahurim uzekeinim iahdav vehafakti evlam lesason venihamtim vesimahtim migonam.",
      "tokens": [
       {
-       "t": "Atunci fecioara se va veseli la dans",
-       "w": "Atunci fecioara se va veseli la dans",
-       "heb": "אָז תִּשְׂמַח בְּתוּלָה בְּמָחוֹל",
-       "translit": "az tismah betula bemahol",
-       "strong": "H4234",
-       "pos": "adverb + verb, qal imperfect + substantiv, feminin singular + substantiv, masculin singular",
-       "def_ro": "Atunci fecioara se va veseli la dans (az tismah betula bemahol)",
+       "t": "Atunci",
+       "w": "Atunci",
+       "heb": "אָז",
+       "translit": "az",
+       "strong": "H227",
+       "pos": "adverb",
+       "def_ro": "atunci (az)",
        "dict_ro": "Radak explică faptul că fiecare fecioară, la rândul ei, se va bucura la acest dans comun."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "iar tineri și bătrâni vor veni împreună",
-       "w": "iar tineri și bătrâni vor veni împreună",
-       "heb": "וּבַחֻרִים וּזְקֵנִים יַחְדָּו",
-       "translit": "uvahurim uzkēnim iahdav",
-       "strong": "H3162",
-       "pos": "substantiv, masculin plural + adjectiv, masculin plural + adverb",
-       "def_ro": "iar tineri și bătrâni vor veni împreună (uvahurim uzkenim iahdav)",
+       "t": "fecioara",
+       "w": "fecioara",
+       "heb": "בְּתוּלָה",
+       "translit": "betula",
+       "strong": "H1330",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "fecioara (betula)",
+       "dict_ro": "Radak explică faptul că fiecare fecioară, la rândul ei, se va bucura la acest dans comun."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "se va veseli",
+       "w": "se va veseli",
+       "heb": "תִּשְׂמַח",
+       "translit": "tismah",
+       "strong": "H8055",
+       "pos": "verb, qal imperfect",
+       "def_ro": "se va bucura (tismah)",
+       "dict_ro": "Radak explică faptul că fiecare fecioară, la rândul ei, se va bucura la acest dans comun."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la dans,",
+       "w": "la dans,",
+       "heb": "בְּמָחוֹל",
+       "translit": "bemahol",
+       "strong": "H4234",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "la dans, (bemahol)",
+       "dict_ro": "Radak explică faptul că fiecare fecioară, la rândul ei, se va bucura la acest dans comun."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "iar tineri",
+       "w": "iar tineri",
+       "heb": "וּבַחֻרִים",
+       "translit": "uvahurim",
+       "strong": "H970",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "și tinerii (uvahurim)",
        "dict_ro": "Unitatea dintre generații — tineri și bătrâni laolaltă — subliniază bucuria universală a restaurării."
       },
       {
-       "t": "; "
+       "t": " "
       },
       {
-       "t": "voi preschimba jalea lor în bucurie",
-       "w": "voi preschimba jalea lor în bucurie",
-       "heb": "וְהָפַכְתִּי אֶבְלָם לְשָׂשׂוֹן",
-       "translit": "vehafahti evlam lesason",
-       "strong": "H8342",
-       "pos": "verb, qal perfect consecutiv + substantiv, masculin singular construct + sufix + substantiv, masculin singular",
-       "def_ro": "voi preschimba jalea lor în bucurie (vehafahti evlam lesason)",
+       "t": "și bătrâni",
+       "w": "și bătrâni",
+       "heb": "וּזְקֵנִים",
+       "translit": "uzkēnim",
+       "strong": "H2205",
+       "pos": "adjectiv, masculin plural",
+       "def_ro": "și bătrânii (uzkēnim)",
+       "dict_ro": "Unitatea dintre generații — tineri și bătrâni laolaltă — subliniază bucuria universală a restaurării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "vor veni împreună;",
+       "w": "vor veni împreună;",
+       "heb": "יַחְדָּו",
+       "translit": "iahdav",
+       "strong": "H3162",
+       "pos": "adverb",
+       "def_ro": "împreună; (iahdav)",
+       "dict_ro": "Unitatea dintre generații — tineri și bătrâni laolaltă — subliniază bucuria universală a restaurării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "voi preschimba",
+       "w": "voi preschimba",
+       "heb": "וְהָפַכְתִּי",
+       "translit": "vehafahti",
+       "strong": "H2015",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și voi preschimba (vehafahti)",
        "dict_ro": "Transformarea jalei în bucurie este o răsturnare completă a stării anterioare de doliu."
       },
       {
-       "t": ", "
+       "t": " "
+      },
+      {
+       "t": "jalea lor",
+       "w": "jalea lor",
+       "heb": "אֶבְלָם",
+       "translit": "evlam",
+       "strong": "H60",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "jalea lor (evlam)",
+       "dict_ro": "Transformarea jalei în bucurie este o răsturnare completă a stării anterioare de doliu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în bucurie,",
+       "w": "în bucurie,",
+       "heb": "לְשָׂשׂוֹן",
+       "translit": "lesason",
+       "strong": "H8342",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "în bucurie, (lesason)",
+       "dict_ro": "Transformarea jalei în bucurie este o răsturnare completă a stării anterioare de doliu."
+      },
+      {
+       "t": " "
       },
       {
        "t": "și-i voi mângâia",
@@ -73240,17 +73935,27 @@
        "t": " "
       },
       {
-       "t": "și-i voi veseli în locul întristării lor",
-       "w": "și-i voi veseli în locul întristării lor",
-       "heb": "וְשִׂמַּחְתִּים מִיגוֹנָם",
-       "translit": "vesimahtim migonam",
-       "strong": "H3015",
-       "pos": "verb, piel perfect + sufix + substantiv, masculin singular construct + sufix",
-       "def_ro": "și-i voi veseli în locul întristării lor (vesimahtim migonam)",
+       "t": "și-i voi veseli",
+       "w": "și-i voi veseli",
+       "heb": "וְשִׂמַּחְתִּים",
+       "translit": "vesimahtim",
+       "strong": "H8055",
+       "pos": "verb, piel perfect + sufix",
+       "def_ro": "și-i voi veseli (vesimahtim)",
        "dict_ro": "Bucuria finală înlocuiește definitiv întristarea, fără loc de recădere."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "în locul întristării lor.",
+       "w": "în locul întristării lor.",
+       "heb": "מִיגוֹנָם",
+       "translit": "migonam",
+       "strong": "H3015",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "din întristarea lor. (migonam)",
+       "dict_ro": "Bucuria finală înlocuiește definitiv întristarea, fără loc de recădere."
       }
      ],
      "textCompare": [
@@ -73282,43 +73987,105 @@
      "translit": "Veriveiti nefeș hakohanim dașen veami et-tuvi isbau neum-ADONAI.",
      "tokens": [
       {
-       "t": "Voi îndestula de grăsime sufletul preoților",
-       "w": "Voi îndestula de grăsime sufletul preoților",
-       "heb": "וְרִוֵּיתִי נֶפֶשׁ הַכֹּהֲנִים דָּשֶׁן",
-       "translit": "verivēti nefeș hakohanim dașen",
-       "strong": "H1880",
-       "pos": "verb, piel perfect consecutiv + substantiv, masculin și feminin singular construct + substantiv, masculin plural + substantiv, masculin singular",
-       "def_ro": "Voi îndestula de grăsime sufletul preoților (veriveti nefesh hakohanim dashen)",
+       "t": "Voi îndestula",
+       "w": "Voi îndestula",
+       "heb": "וְרִוֵּיתִי",
+       "translit": "verivēti",
+       "strong": "H7301",
+       "pos": "verb, piel perfect consecutiv",
+       "def_ro": "și voi îndestula (verivēti)",
        "dict_ro": "Metzudat David explică faptul că, în lipsa Templului, preoții fuseseră privați de porția lor din jertfe; acum vor fi din nou îndestulați din belșug."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "iar poporul Meu va fi săturat cu bunătatea Mea",
-       "w": "iar poporul Meu va fi săturat cu bunătatea Mea",
-       "heb": "וְעַמִּי אֶת טוּבִי יִשְׂבָּעוּ",
-       "translit": "veami et tuvi isbau",
-       "strong": "H7646",
-       "pos": "substantiv, masculin singular construct + sufix + marcă a complementului direct + substantiv, masculin singular construct + sufix + verb, qal imperfect",
-       "def_ro": "iar poporul Meu va fi săturat cu bunătatea Mea (veami et tuvi isbau)",
+       "t": "de grăsime",
+       "w": "de grăsime",
+       "heb": "דָּשֶׁן",
+       "translit": "dașen",
+       "strong": "H1880",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "de grăsime (dașen)",
+       "dict_ro": "Metzudat David explică faptul că, în lipsa Templului, preoții fuseseră privați de porția lor din jertfe."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sufletul",
+       "w": "sufletul",
+       "heb": "נֶפֶשׁ",
+       "translit": "nefeș",
+       "strong": "H5315",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "sufletul (nefeș)",
+       "dict_ro": "Metzudat David explică faptul că, în lipsa Templului, preoții fuseseră privați de porția lor din jertfe."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "preoților,",
+       "w": "preoților,",
+       "heb": "הַכֹּהֲנִים",
+       "translit": "hakohanim",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "preoților, (hakohanim)",
+       "dict_ro": "Metzudat David explică faptul că, în lipsa Templului, preoții fuseseră privați de porția lor din jertfe; acum vor fi din nou îndestulați din belșug."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "iar poporul Meu",
+       "w": "iar poporul Meu",
+       "heb": "וְעַמִּי",
+       "translit": "veami",
+       "strong": "H5971",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "și poporul meu (veami)",
        "dict_ro": "Întregul popor va participa la aceeași abundență revărsată de bunătatea divină."
       },
       {
-       "t": " – "
+       "t": " "
       },
       {
-       "t": "rostirea DOMNULUI",
-       "w": "rostirea DOMNULUI",
+       "t": "va fi săturat",
+       "w": "va fi săturat",
+       "heb": "יִשְׂבָּעוּ",
+       "translit": "isbau",
+       "strong": "H7646",
+       "pos": "verb, qal imperfect",
+       "def_ro": "se va sătura (isbau)",
+       "dict_ro": "Întregul popor va participa la aceeași abundență revărsată de bunătatea divină."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu bunătatea Mea",
+       "w": "cu bunătatea Mea",
+       "heb": "אֶת טוּבִי",
+       "translit": "et tuvi",
+       "strong": "H2898",
+       "pos": "marcă a complementului direct + substantiv, masculin singular construct + sufix",
+       "def_ro": "de bunătatea mea (et tuvi)",
+       "dict_ro": "Întregul popor va participa la aceeași abundență revărsată de bunătatea divină."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– rostirea DOMNULUI.”",
+       "w": "– rostirea DOMNULUI.”",
        "heb": "נְאֻם יְהוָה",
        "translit": "neum Adonai",
        "strong": "H3068",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI (neum Adonai)",
+       "def_ro": "rostirea DOMNULUI.” (neum Adonai)",
        "dict_ro": "Formula solemnă pecetluiește promisiunea restaurării cultului și a prosperității."
-      },
-      {
-       "t": ".”"
       }
      ],
      "textCompare": [
@@ -73349,82 +74116,157 @@
      "translit": "Ko amar ADONAI kol berama nișma nehi behi tamrurim Rahel mevaka al-baneha meana lehinahém al-baneha ki einenu.",
      "tokens": [
       {
-       "t": "Așa a spus DOMNUL",
-       "w": "Așa a spus DOMNUL",
-       "heb": "כֹּה אָמַר יְהוָה",
-       "translit": "ko amar Adonai",
-       "strong": "H3068",
-       "pos": "adverb + verb, qal perfect + nume propriu",
-       "def_ro": "Așa a spus DOMNUL (ko amar Adonai)",
+       "t": "Așa a spus",
+       "w": "Așa a spus",
+       "heb": "כֹּה אָמַר",
+       "translit": "ko amar",
+       "strong": "H559",
+       "pos": "adverb + verb, qal perfect",
+       "def_ro": "astfel a spus (ko amar)",
        "dict_ro": "Formula introduce o imagine profund emoțională a jelirii exilului celor zece triburi."
       },
       {
-       "t": ": „"
+       "t": " "
       },
       {
-       "t": "Un glas s-a auzit în înălțimi",
-       "w": "Un glas s-a auzit în înălțimi",
-       "heb": "קוֹל בְּרָמָה נִשְׁמָע",
-       "translit": "kol berama nișma",
-       "strong": "H8085",
-       "pos": "substantiv, masculin singular + nume propriu + verb, nifal participiu pasiv",
-       "def_ro": "Un glas s-a auzit în înălțimi (kol berama nishma)",
+       "t": "DOMNUL:",
+       "w": "DOMNUL:",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL: (Adonai)",
+       "dict_ro": "Formula introduce o imagine profund emoțională a jelirii exilului celor zece triburi."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "Un glas",
+       "w": "Un glas",
+       "heb": "קוֹל",
+       "translit": "kol",
+       "strong": "H6963",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "un glas (kol)",
        "dict_ro": "Rashi explică faptul că acest glas se aude în înălțimile lumii, un plâns universal pentru exilați."
       },
       {
-       "t": " – "
+       "t": " "
       },
       {
-       "t": "bocet, plânset amar",
-       "w": "bocet, plânset amar",
+       "t": "s-a auzit",
+       "w": "s-a auzit",
+       "heb": "נִשְׁמָע",
+       "translit": "nișma",
+       "strong": "H8085",
+       "pos": "verb, nifal participiu pasiv",
+       "def_ro": "s-a auzit (nișma)",
+       "dict_ro": "Rashi explică faptul că acest glas se aude în înălțimile lumii, un plâns universal pentru exilați."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în înălțimi",
+       "w": "în înălțimi",
+       "heb": "בְּרָמָה",
+       "translit": "berama",
+       "strong": "H7414",
+       "pos": "nume propriu",
+       "def_ro": "în Rama (berama)",
+       "dict_ro": "Rashi explică faptul că acest glas se aude în înălțimile lumii, un plâns universal pentru exilați; numele cetății Rama evocă aici și «înălțimi»."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– bocet, plânset amar –",
+       "w": "– bocet, plânset amar –",
        "heb": "נְהִי בְּכִי תַמְרוּרִים",
        "translit": "nehi behi tamrurim",
        "strong": "H8563",
        "pos": "substantiv, masculin singular + substantiv, masculin singular construct + substantiv, masculin plural",
-       "def_ro": "bocet, plânset amar (nehi behi tamrurim)",
+       "def_ro": "bocet, plâns amar – (nehi behi tamrurim)",
        "dict_ro": "Rashi, redând traducerea aramaică, leagă acest plâns de poporul lui Israel bocind pentru profetul Ieremia, trimis din Rama în exil de Nebuzaradan."
       },
       {
-       "t": " – "
+       "t": " "
       },
       {
-       "t": "Rahel plânge pentru copiii ei",
-       "w": "Rahel plânge pentru copiii ei",
-       "heb": "רָחֵל מְבַכָּה עַל בָּנֶיהָ",
-       "translit": "rahēl mevaka al baneha",
+       "t": "Rahel plânge",
+       "w": "Rahel plânge",
+       "heb": "רָחֵל מְבַכָּה",
+       "translit": "rahēl mevaka",
+       "strong": "H1058",
+       "pos": "nume propriu + verb, piel participiu",
+       "def_ro": "Rahel plângând (rahēl mevaka)",
+       "dict_ro": "Rashi redă o tradiție midrashică amplă: patriarhii și matriarhele s-au rugat să înduplece pe Dumnezeu, fără succes, până a intervenit Rahel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru copiii ei,",
+       "w": "pentru copiii ei,",
+       "heb": "עַל בָּנֶיהָ",
+       "translit": "al baneha",
        "strong": "H1121",
-       "pos": "nume propriu + verb, piel participiu + prepoziție + substantiv, masculin plural construct + sufix",
-       "def_ro": "Rahel plânge pentru copiii ei (rahel mevaka al baneha)",
-       "dict_ro": "Rashi redă o tradiție midrashică amplă: patriarhii și matriarhele s-au rugat să înduplece pe Dumnezeu pentru idolul lui Manase din Templu, fără succes, până a intervenit Rahel, amintind cum ea însăși și-a predat semnele de recunoaștere surorii sale Lea, fără gelozie, pentru ca Iacov să nu fie umilit."
+       "pos": "prepoziție + substantiv, masculin plural construct + sufix",
+       "def_ro": "pentru fiii ei, (al baneha)",
+       "dict_ro": "Rashi redă o tradiție midrashică amplă despre rugăciunea Rahelei pentru fiii ei."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "refuză să fie consolată pentru copiii ei",
-       "w": "refuză să fie consolată pentru copiii ei",
-       "heb": "מֵאֲנָה לְהִנָּחֵם עַל בָּנֶיהָ",
-       "translit": "mēana lehinahēm al baneha",
-       "strong": "H1121",
-       "pos": "verb, piel perfect + verb, nifal infinitiv + prepoziție + substantiv, masculin plural construct + sufix",
-       "def_ro": "refuză să fie consolată pentru copiii ei (meana lehinahem al baneha)",
+       "t": "refuză",
+       "w": "refuză",
+       "heb": "מֵאֲנָה",
+       "translit": "mēana",
+       "strong": "H3985",
+       "pos": "verb, piel perfect",
+       "def_ro": "refuză (mēana)",
        "dict_ro": "Refuzul consolării arată intensitatea durerii materne pentru copiii pierduți în exil."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "căci nu mai sunt",
-       "w": "căci nu mai sunt",
+       "t": "să fie consolată",
+       "w": "să fie consolată",
+       "heb": "לְהִנָּחֵם",
+       "translit": "lehinahēm",
+       "strong": "H5162",
+       "pos": "verb, nifal infinitiv",
+       "def_ro": "a fi consolată (lehinahēm)",
+       "dict_ro": "Refuzul consolării arată intensitatea durerii materne pentru copiii pierduți în exil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru copiii ei,",
+       "w": "pentru copiii ei,",
+       "heb": "עַל בָּנֶיהָ",
+       "translit": "al baneha",
+       "strong": "H1121",
+       "pos": "prepoziție + substantiv, masculin plural construct + sufix",
+       "def_ro": "pentru fiii ei, (al baneha)",
+       "dict_ro": "Refuzul consolării arată intensitatea durerii materne pentru copiii pierduți în exil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "căci nu mai sunt.”",
+       "w": "căci nu mai sunt.”",
        "heb": "כִּי אֵינֶנּוּ",
        "translit": "ki ēnenu",
        "strong": "H369",
        "pos": "conjuncție + particulă negativă + sufix",
-       "def_ro": "căci nu mai sunt (ki enenu)",
-       "dict_ro": "Radak explică faptul că Rahel este numită mama celor zece triburi, al căror exil, spre diferență de cel al lui Iuda și Beniamin, nu s-a încheiat încă prin revenire."
-      },
-      {
-       "t": ".”"
+       "def_ro": "căci nu mai este el.” (ki ēnenu)",
+       "dict_ro": "Radak explică faptul că Rahel este numită mama celor zece triburi, al căror exil nu s-a încheiat încă prin revenire."
       }
      ],
      "textCompare": [
@@ -73461,82 +74303,157 @@
      "translit": "Ko amar ADONAI mini koleh mibehi veeinaih midima ki ieș sahar lifeulateh neum-ADONAI veșavu meeret oiev.",
      "tokens": [
       {
-       "t": "Așa a spus DOMNUL",
-       "w": "Așa a spus DOMNUL",
-       "heb": "כֹּה אָמַר יְהוָה",
-       "translit": "ko amar Adonai",
-       "strong": "H3068",
-       "pos": "adverb + verb, qal perfect + nume propriu",
-       "def_ro": "Așa a spus DOMNUL (ko amar Adonai)",
+       "t": "Așa a spus",
+       "w": "Așa a spus",
+       "heb": "כֹּה אָמַר",
+       "translit": "ko amar",
+       "strong": "H559",
+       "pos": "adverb + verb, qal perfect",
+       "def_ro": "astfel a spus (ko amar)",
        "dict_ro": "Răspunsul direct al DOMNULUI la plânsul Rahelei marchează răsturnarea deznădejdii în speranță."
       },
       {
-       "t": ": „"
+       "t": " "
       },
       {
-       "t": "Oprește-ți glasul din plâns",
-       "w": "Oprește-ți glasul din plâns",
-       "heb": "מִנְעִי קוֹלֵךְ מִבֶּכִי",
-       "translit": "mini kolēh mibehi",
-       "strong": "H1065",
-       "pos": "verb, qal imperativ + substantiv, masculin singular construct + sufix + substantiv, masculin singular",
-       "def_ro": "Oprește-ți glasul din plâns (mini koleh mibehi)",
+       "t": "DOMNUL:",
+       "w": "DOMNUL:",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL: (Adonai)",
+       "dict_ro": "Răspunsul direct al DOMNULUI la plânsul Rahelei marchează răsturnarea deznădejdii în speranță."
+      },
+      {
+       "t": " „"
+      },
+      {
+       "t": "Oprește-ți glasul",
+       "w": "Oprește-ți glasul",
+       "heb": "מִנְעִי קוֹלֵךְ",
+       "translit": "mini kolēh",
+       "strong": "H6963",
+       "pos": "verb, qal imperativ + substantiv, masculin singular construct + sufix",
+       "def_ro": "oprește-ți glasul tău (mini kolēh)",
        "dict_ro": "Îndemnul la oprirea plânsului este primul semn al mângâierii promise."
       },
       {
        "t": " "
       },
       {
-       "t": "și ochii din lacrimi",
-       "w": "și ochii din lacrimi",
-       "heb": "וְעֵינַיִךְ מִדִּמְעָה",
-       "translit": "veēnaih midima",
-       "strong": "H1832",
-       "pos": "substantiv, masculin și feminin dual construct + sufix + substantiv, feminin singular",
-       "def_ro": "și ochii din lacrimi (veenaih midima)",
+       "t": "din plâns",
+       "w": "din plâns",
+       "heb": "מִבֶּכִי",
+       "translit": "mibehi",
+       "strong": "H1065",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "din plâns (mibehi)",
+       "dict_ro": "Îndemnul la oprirea plânsului este primul semn al mângâierii promise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și ochii",
+       "w": "și ochii",
+       "heb": "וְעֵינַיִךְ",
+       "translit": "veēnaih",
+       "strong": "H5869",
+       "pos": "substantiv, masculin și feminin dual construct + sufix",
+       "def_ro": "și ochii tăi (veēnaih)",
        "dict_ro": "Lacrimile trebuie oprite pentru că suferința nu va mai fi necesară."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "căci truda ta va fi răsplătită",
-       "w": "căci truda ta va fi răsplătită",
-       "heb": "כִּי יֵשׁ שָׂכָר לִפְעֻלָּתֵךְ",
-       "translit": "ki iēș sahar lifulatēh",
+       "t": "din lacrimi,",
+       "w": "din lacrimi,",
+       "heb": "מִדִּמְעָה",
+       "translit": "midima",
+       "strong": "H1832",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "din lacrimă, (midima)",
+       "dict_ro": "Lacrimile trebuie oprite pentru că suferința nu va mai fi necesară."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "căci",
+       "w": "căci",
+       "heb": "כִּי",
+       "translit": "ki",
+       "strong": "H3588",
+       "pos": "conjuncție",
+       "def_ro": "căci (ki)",
+       "dict_ro": "Rashi redă continuarea tradiției midrashice despre Rahel: răspunsul DOMNULUI este că fapta ei de milă va fi răsplătită."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "truda ta",
+       "w": "truda ta",
+       "heb": "לִפְעֻלָּתֵךְ",
+       "translit": "lifulatēh",
        "strong": "H6468",
-       "pos": "conjuncție + particulă demonstrativă + substantiv, masculin singular + substantiv, feminin singular construct + sufix",
-       "def_ro": "căci truda ta va fi răsplătită (ki iesh sahar lifulateh)",
-       "dict_ro": "Rashi redă continuarea tradiției midrashice despre Rahel: răspunsul DOMNULUI este că fapta ei de milă față de sora Lea va fi răsplătită prin revenirea urmașilor ei din exil."
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "faptei tale (lifulatēh)",
+       "dict_ro": "Rashi redă continuarea tradiției midrashice despre Rahel: răspunsul DOMNULUI este că fapta ei de milă față de sora Lea va fi răsplătită."
       },
       {
-       "t": " – "
+       "t": " "
       },
       {
-       "t": "rostirea DOMNULUI",
-       "w": "rostirea DOMNULUI",
+       "t": "va fi răsplătită",
+       "w": "va fi răsplătită",
+       "heb": "יֵשׁ שָׂכָר",
+       "translit": "iēș sahar",
+       "strong": "H7939",
+       "pos": "particulă demonstrativă + substantiv, masculin singular",
+       "def_ro": "este o răsplată (iēș sahar)",
+       "dict_ro": "Rashi redă continuarea tradiției midrashice despre Rahel: răspunsul DOMNULUI este că fapta ei de milă va fi răsplătită prin revenirea urmașilor ei din exil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– rostirea DOMNULUI –",
+       "w": "– rostirea DOMNULUI –",
        "heb": "נְאֻם יְהוָה",
        "translit": "neum Adonai",
        "strong": "H3068",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI (neum Adonai)",
+       "def_ro": "rostirea DOMNULUI – (neum Adonai)",
        "dict_ro": "Formula solemnă garantează certitudinea acestei răsplăți."
       },
       {
-       "t": " – "
+       "t": " "
       },
       {
-       "t": "și ei se vor întoarce din țara dușmanului",
-       "w": "și ei se vor întoarce din țara dușmanului",
-       "heb": "וְשָׁבוּ מֵאֶרֶץ אוֹיֵב",
-       "translit": "veșavu mēereț oiēv",
-       "strong": "H341",
-       "pos": "verb, qal perfect consecutiv + substantiv, masculin și feminin singular + verb, qal participiu",
-       "def_ro": "și ei se vor întoarce din țara dușmanului (veshavu meeretz oiev)",
+       "t": "și ei se vor întoarce",
+       "w": "și ei se vor întoarce",
+       "heb": "וְשָׁבוּ",
+       "translit": "veșavu",
+       "strong": "H7725",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și se vor întoarce (veșavu)",
        "dict_ro": "Revenirea din țara vrăjmașului este răsplata concretă promisă pentru fapta ei de îndurare."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "din țara dușmanului.",
+       "w": "din țara dușmanului.",
+       "heb": "מֵאֶרֶץ אוֹיֵב",
+       "translit": "mēereț oiēv",
+       "strong": "H341",
+       "pos": "substantiv, masculin și feminin singular + verb, qal participiu",
+       "def_ro": "din țara vrăjmașului. (mēereț oiēv)",
+       "dict_ro": "Revenirea din țara vrăjmașului este răsplata concretă promisă pentru fapta ei de îndurare."
       }
      ],
      "textCompare": [
@@ -73573,43 +74490,79 @@
      "translit": "Veieș-tikva leahariteh neum-ADONAI veșavu vanim ligvulam.",
      "tokens": [
       {
-       "t": "Există speranță pentru viitorul tău",
-       "w": "Există speranță pentru viitorul tău",
-       "heb": "וְיֵשׁ תִּקְוָה לְאַחֲרִיתֵךְ",
-       "translit": "veiēș tikva leaharitēh",
-       "strong": "H319",
-       "pos": "particulă demonstrativă + substantiv, feminin singular + substantiv, feminin singular construct + sufix",
-       "def_ro": "Există speranță pentru viitorul tău (veiesh tikva leahariteh)",
+       "t": "Există speranță",
+       "w": "Există speranță",
+       "heb": "וְיֵשׁ תִּקְוָה",
+       "translit": "veiēș tikva",
+       "strong": "H8615",
+       "pos": "particulă demonstrativă + substantiv, feminin singular",
+       "def_ro": "și este speranță (veiēș tikva)",
        "dict_ro": "Speranța promisă aici este direct legată de fapta de îndurare amintită mai sus."
       },
       {
-       "t": " – "
+       "t": " "
       },
       {
-       "t": "rostirea DOMNULUI",
-       "w": "rostirea DOMNULUI",
+       "t": "pentru viitorul tău",
+       "w": "pentru viitorul tău",
+       "heb": "לְאַחֲרִיתֵךְ",
+       "translit": "leaharitēh",
+       "strong": "H319",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "pentru viitorul tău (leaharitēh)",
+       "dict_ro": "Speranța promisă aici este direct legată de fapta de îndurare amintită mai sus."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– rostirea DOMNULUI –",
+       "w": "– rostirea DOMNULUI –",
        "heb": "נְאֻם יְהוָה",
        "translit": "neum Adonai",
        "strong": "H3068",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI (neum Adonai)",
+       "def_ro": "rostirea DOMNULUI – (neum Adonai)",
        "dict_ro": "Formula solemnă încheie confirmarea promisiunii."
       },
       {
-       "t": " – "
+       "t": " și "
       },
       {
-       "t": "și copiii tăi se vor întoarce în hotarul lor",
-       "w": "și copiii tăi se vor întoarce în hotarul lor",
-       "heb": "וְשָׁבוּ בָנִים לִגְבוּלָם",
-       "translit": "veșavu vanim ligvulam",
-       "strong": "H1366",
-       "pos": "verb, qal perfect consecutiv + substantiv, masculin plural + substantiv, masculin singular construct + sufix",
-       "def_ro": "și copiii tăi se vor întoarce în hotarul lor (veshavu vanim ligvulam)",
+       "t": "copiii tăi",
+       "w": "copiii tăi",
+       "heb": "בָנִים",
+       "translit": "vanim",
+       "strong": "H1121",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "fiii (vanim)",
        "dict_ro": "Revenirea copiilor în teritoriul lor propriu este împlinirea concretă a speranței vestite."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "se vor întoarce",
+       "w": "se vor întoarce",
+       "heb": "וְשָׁבוּ",
+       "translit": "veșavu",
+       "strong": "H7725",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și se vor întoarce (veșavu)",
+       "dict_ro": "Revenirea copiilor în teritoriul lor propriu este împlinirea concretă a speranței vestite."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în hotarul lor.",
+       "w": "în hotarul lor.",
+       "heb": "לִגְבוּלָם",
+       "translit": "ligvulam",
+       "strong": "H1366",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "în hotarul lor. (ligvulam)",
+       "dict_ro": "Revenirea copiilor în teritoriul lor propriu este împlinirea concretă a speranței vestite."
       }
      ],
      "textCompare": [
@@ -73640,43 +74593,108 @@
      "translit": "Șamoa șamati Efraim mitnoded isartani vaivasér keeghel lo lumad hașiveni veașuva ki ata ADONAI Elohai.",
      "tokens": [
       {
-       "t": "L-am auzit într-adevăr pe Efraim gemând",
-       "w": "L-am auzit într-adevăr pe Efraim gemând",
-       "heb": "שָׁמוֹעַ שָׁמַעְתִּי אֶפְרַיִם מִתְנוֹדֵד",
-       "translit": "șamoa șamati efraim mitnodēd",
-       "strong": "H5110",
-       "pos": "verb, qal infinitiv absolut + verb, qal perfect + nume propriu + verb, hitpolel participiu",
-       "def_ro": "L-am auzit într-adevăr pe Efraim gemând (shamoa shamati efraim mitnoded)",
+       "t": "L-am auzit într-adevăr",
+       "w": "L-am auzit într-adevăr",
+       "heb": "שָׁמוֹעַ שָׁמַעְתִּי",
+       "translit": "șamoa șamati",
+       "strong": "H8085",
+       "pos": "verb, qal infinitiv absolut + verb, qal perfect",
+       "def_ro": "auzind am auzit (șamoa șamati)",
        "dict_ro": "Rashi explică «mitnoded» drept gemetele celui care plânge și se tânguiește, exprimând durerea."
       },
       {
-       "t": ": «"
+       "t": " "
       },
       {
-       "t": "M-ai mustrat și am primit mustrarea",
-       "w": "M-ai mustrat și am primit mustrarea",
-       "heb": "יִסַּרְתַּנִי וָאִוָּסֵר",
-       "translit": "isartani vaivasēr",
+       "t": "pe Efraim",
+       "w": "pe Efraim",
+       "heb": "אֶפְרַיִם",
+       "translit": "efraim",
+       "strong": "H669",
+       "pos": "nume propriu",
+       "def_ro": "pe Efraim (efraim)",
+       "dict_ro": "Rashi explică «mitnoded» drept gemetele celui care plânge și se tânguiește, exprimând durerea."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "gemând:",
+       "w": "gemând:",
+       "heb": "מִתְנוֹדֵד",
+       "translit": "mitnodēd",
+       "strong": "H5110",
+       "pos": "verb, hitpolel participiu",
+       "def_ro": "gemând: (mitnodēd)",
+       "dict_ro": "Rashi explică «mitnoded» drept gemetele celui care plânge și se tânguiește, exprimând durerea."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "«M-ai mustrat",
+       "w": "«M-ai mustrat",
+       "heb": "יִסַּרְתַּנִי",
+       "translit": "isartani",
        "strong": "H3256",
-       "pos": "verb, piel perfect + sufix + verb, nifal imperfect consecutiv",
-       "def_ro": "M-ai mustrat și am primit mustrarea (isartani vaivaser)",
+       "pos": "verb, piel perfect + sufix",
+       "def_ro": "m-ai mustrat (isartani)",
        "dict_ro": "Metzudat David explică faptul că Efraim recunoaște că mustrarea a fost dreaptă și o primește cu smerenie."
       },
       {
-       "t": ". "
+       "t": " "
       },
       {
-       "t": "Am fost ca un vițel neînvățat [la jug]",
-       "w": "Am fost ca un vițel neînvățat [la jug]",
-       "heb": "כְּעֵגֶל לֹא לֻמָּד",
-       "translit": "keēgel lo lumad",
+       "t": "și am primit mustrarea.",
+       "w": "și am primit mustrarea.",
+       "heb": "וָאִוָּסֵר",
+       "translit": "vaivasēr",
+       "strong": "H3256",
+       "pos": "verb, nifal imperfect consecutiv",
+       "def_ro": "și am fost mustrat. (vaivasēr)",
+       "dict_ro": "Metzudat David explică faptul că Efraim recunoaște că mustrarea a fost dreaptă și o primește cu smerenie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Am fost",
+       "w": "Am fost",
+       "heb": "לֻמָּד",
+       "translit": "lumad",
        "strong": "H3925",
-       "pos": "substantiv, masculin singular + particulă negativă + verb, pual perfect",
-       "def_ro": "Am fost ca un vițel neînvățat [la jug] (keegel lo lumad)",
+       "pos": "verb, pual perfect",
+       "def_ro": "[am fost] învățat (lumad)",
        "dict_ro": "Radak explică comparația cu vițelul neînvățat ca pe cineva care, la început, nu accepta disciplina, dar prin pedeapsă repetată a învățat să se supună."
       },
       {
-       "t": ". "
+       "t": " "
+      },
+      {
+       "t": "ca un vițel",
+       "w": "ca un vițel",
+       "heb": "כְּעֵגֶל",
+       "translit": "keēgel",
+       "strong": "H5695",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "ca vițelul (keēgel)",
+       "dict_ro": "Radak explică comparația cu vițelul neînvățat ca pe cineva care, la început, nu accepta disciplina."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "neînvățat [la jug].",
+       "w": "neînvățat [la jug].",
+       "heb": "לֹא",
+       "translit": "lo",
+       "strong": "H3808",
+       "pos": "particulă negativă",
+       "def_ro": "nu (lo)",
+       "dict_ro": "Radak explică comparația cu vițelul neînvățat ca pe cineva care, la început, nu accepta disciplina, dar prin pedeapsă repetată a învățat să se supună."
+      },
+      {
+       "t": " "
       },
       {
        "t": "Cheamă-mă să mă întorc",
@@ -73685,37 +74703,60 @@
        "translit": "hașivēni",
        "strong": "H7725",
        "pos": "verb, hifil imperativ + sufix",
-       "def_ro": "Cheamă-mă să mă întorc (hashiveni)",
+       "def_ro": "întoarce-mă (hașivēni)",
        "dict_ro": "Cererea de a fi chemat înapoi arată dorința sinceră a lui Efraim de a se întoarce."
       },
       {
        "t": " "
       },
       {
-       "t": "și mă voi întoarce",
-       "w": "și mă voi întoarce",
+       "t": "și mă voi întoarce,",
+       "w": "și mă voi întoarce,",
        "heb": "וְאָשׁוּבָה",
        "translit": "veașuva",
        "strong": "H7725",
        "pos": "verb, qal cohortativ",
-       "def_ro": "și mă voi întoarce (veashuva)",
+       "def_ro": "și mă voi întoarce, (veașuva)",
        "dict_ro": "Promisiunea întoarcerii confirmă pocăința deplină a lui Efraim."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "căci Tu ești DOMNUL, Dumnezeul meu",
-       "w": "căci Tu ești DOMNUL, Dumnezeul meu",
-       "heb": "כִּי אַתָּה יְהוָה אֱלֹהָי",
-       "translit": "ki ata Adonai elohai",
-       "strong": "H430",
-       "pos": "conjuncție + pronume personal + nume propriu + substantiv, masculin plural construct + sufix",
-       "def_ro": "căci Tu ești DOMNUL, Dumnezeul meu (ki ata Adonai elohai)",
+       "t": "căci Tu ești",
+       "w": "căci Tu ești",
+       "heb": "כִּי אַתָּה",
+       "translit": "ki ata",
+       "strong": "H859",
+       "pos": "conjuncție + pronume personal",
+       "def_ro": "căci Tu [ești] (ki ata)",
        "dict_ro": "Recunoașterea DOMNULUI ca Dumnezeul său personal încheie confesiunea cu o afirmare directă de credință."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "DOMNUL,",
+       "w": "DOMNUL,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL, (Adonai)",
+       "dict_ro": "Recunoașterea DOMNULUI ca Dumnezeul său personal încheie confesiunea cu o afirmare directă de credință."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Dumnezeul meu.",
+       "w": "Dumnezeul meu.",
+       "heb": "אֱלֹהָי",
+       "translit": "elohai",
+       "strong": "H430",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "Dumnezeul meu. (elohai)",
+       "dict_ro": "Recunoașterea DOMNULUI ca Dumnezeul său personal încheie confesiunea cu o afirmare directă de credință."
       }
      ],
      "textCompare": [
@@ -73752,56 +74793,95 @@
      "translit": "Ki-aharei șuvi nihamti veaharei hivadei safakti al-iareh boști vegam-nihlamti ki nasati herpat neurai.",
      "tokens": [
       {
-       "t": "Căci după ce m-am căit",
-       "w": "Căci după ce m-am căit",
-       "heb": "כִּי אַחֲרֵי שׁוּבִי",
-       "translit": "ki aharē șuvi",
-       "strong": "H7725",
-       "pos": "conjuncție + prepoziție + verb, qal infinitiv + sufix",
-       "def_ro": "Căci după ce m-am căit (ki ahare shuvi)",
+       "t": "Căci",
+       "w": "Căci",
+       "heb": "כִּי",
+       "translit": "ki",
+       "strong": "H3588",
+       "pos": "conjuncție",
+       "def_ro": "căci (ki)",
        "dict_ro": "Rashi explică faptul că recunoașterea pocăinței vine după întoarcerea efectivă de la rău."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "am regretat",
-       "w": "am regretat",
+       "t": "după ce m-am căit,",
+       "w": "după ce m-am căit,",
+       "heb": "אַחֲרֵי שׁוּבִי",
+       "translit": "aharē șuvi",
+       "strong": "H7725",
+       "pos": "prepoziție + verb, qal infinitiv + sufix",
+       "def_ro": "după întoarcerea mea, (aharē șuvi)",
+       "dict_ro": "Rashi explică faptul că recunoașterea pocăinței vine după întoarcerea efectivă de la rău."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "am regretat;",
+       "w": "am regretat;",
        "heb": "נִחַמְתִּי",
        "translit": "nihamti",
        "strong": "H5162",
        "pos": "verb, nifal perfect",
-       "def_ro": "am regretat (nihamti)",
+       "def_ro": "am regretat; (nihamti)",
        "dict_ro": "Regretul sincer completează actul pocăinței, confirmând-o ca autentică."
       },
       {
-       "t": "; "
+       "t": " "
       },
       {
-       "t": "și după ce am ajuns să cunosc",
-       "w": "și după ce am ajuns să cunosc",
-       "heb": "וְאַחֲרֵי הִוָּדְעִי",
-       "translit": "veaharē hivadi",
-       "strong": "H3045",
-       "pos": "prepoziție + verb, nifal infinitiv + sufix",
-       "def_ro": "și după ce am ajuns să cunosc (veahare hivadi)",
+       "t": "și după ce",
+       "w": "și după ce",
+       "heb": "וְאַחֲרֵי",
+       "translit": "veaharē",
+       "strong": "H310",
+       "pos": "prepoziție",
+       "def_ro": "și după (veaharē)",
        "dict_ro": "Radak explică faptul că adevărata cunoaștere de sine vine prin examinarea propriilor fapte rele."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "m-am bătut pe coapsă",
-       "w": "m-am bătut pe coapsă",
-       "heb": "סָפַקְתִּי עַל יָרֵךְ",
-       "translit": "safakti al iarēh",
-       "strong": "H3409",
-       "pos": "verb, qal perfect + prepoziție + substantiv, feminin singular",
-       "def_ro": "m-am bătut pe coapsă (safakti al iareh)",
+       "t": "am ajuns să cunosc,",
+       "w": "am ajuns să cunosc,",
+       "heb": "הִוָּדְעִי",
+       "translit": "hivadi",
+       "strong": "H3045",
+       "pos": "verb, nifal infinitiv + sufix",
+       "def_ro": "cunoașterea mea, (hivadi)",
+       "dict_ro": "Radak explică faptul că adevărata cunoaștere de sine vine prin examinarea propriilor fapte rele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "m-am bătut",
+       "w": "m-am bătut",
+       "heb": "סָפַקְתִּי",
+       "translit": "safakti",
+       "strong": "H5606",
+       "pos": "verb, qal perfect",
+       "def_ro": "m-am bătut (safakti)",
        "dict_ro": "Gestul de a se bate pe coapsă este semnul fizic tradițional al durerii și al remușcării."
       },
       {
-       "t": "; "
+       "t": " "
+      },
+      {
+       "t": "pe coapsă;",
+       "w": "pe coapsă;",
+       "heb": "עַל יָרֵךְ",
+       "translit": "al iarēh",
+       "strong": "H3409",
+       "pos": "prepoziție + substantiv, feminin singular",
+       "def_ro": "pe coapsă; (al iarēh)",
+       "dict_ro": "Gestul de a se bate pe coapsă este semnul fizic tradițional al durerii și al remușcării."
+      },
+      {
+       "t": " "
       },
       {
        "t": "am fost rușinat",
@@ -73810,37 +74890,60 @@
        "translit": "boști",
        "strong": "H954",
        "pos": "verb, qal perfect",
-       "def_ro": "am fost rușinat (boshti)",
+       "def_ro": "am fost rușinat (boști)",
        "dict_ro": "Rușinea recunoscută deschis este semn al smereniei autentice."
       },
       {
        "t": " "
       },
       {
-       "t": "și umilit",
-       "w": "și umilit",
+       "t": "și umilit,",
+       "w": "și umilit,",
        "heb": "וְגַם נִכְלַמְתִּי",
        "translit": "vegam nihlamti",
        "strong": "H3637",
        "pos": "particulă afirmativă + verb, nifal perfect",
-       "def_ro": "și umilit (vegam nihlamti)",
+       "def_ro": "și de asemenea am fost umilit, (vegam nihlamti)",
        "dict_ro": "Umilirea completează lista reacțiilor sincere de pocăință."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "căci purtam rușinea tinereții mele",
-       "w": "căci purtam rușinea tinereții mele",
-       "heb": "כִּי נָשָׂאתִי חֶרְפַּת נְעוּרָי",
-       "translit": "ki nasati herpat neurai",
-       "strong": "H5271",
-       "pos": "conjuncție + verb, qal perfect + substantiv, feminin singular construct + substantiv, masculin și feminin plural construct + sufix",
-       "def_ro": "căci purtam rușinea tinereții mele (ki nasati herpat neurai)",
+       "t": "căci",
+       "w": "căci",
+       "heb": "כִּי",
+       "translit": "ki",
+       "strong": "H3588",
+       "pos": "conjuncție",
+       "def_ro": "căci (ki)",
        "dict_ro": "Radak explică faptul că amintirea păcatelor din tinerețe aduce o rușine suplimentară, resimțită acut odată cu maturizarea morală."
       },
       {
-       "t": ".»"
+       "t": " "
+      },
+      {
+       "t": "purtam",
+       "w": "purtam",
+       "heb": "נָשָׂאתִי",
+       "translit": "nasati",
+       "strong": "H5375",
+       "pos": "verb, qal perfect",
+       "def_ro": "am purtat (nasati)",
+       "dict_ro": "Radak explică faptul că amintirea păcatelor din tinerețe aduce o rușine suplimentară, resimțită acut odată cu maturizarea morală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "rușinea tinereții mele.»",
+       "w": "rușinea tinereții mele.»",
+       "heb": "חֶרְפַּת נְעוּרָי",
+       "translit": "herpat neurai",
+       "strong": "H5271",
+       "pos": "substantiv, feminin singular construct + substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "rușinea tinereții mele.» (herpat neurai)",
+       "dict_ro": "Radak explică faptul că amintirea păcatelor din tinerețe aduce o rușine suplimentară, resimțită acut odată cu maturizarea morală."
       }
      ],
      "textCompare": [
@@ -73872,65 +74975,195 @@
      "translit": "Haven iakir li Efraim im ieled șaașuim ki-midei dabri bo zahor ezkereinu od al-ken hamu meai lo rahem arahameinu neum-ADONAI.",
      "tokens": [
       {
-       "t": "Nu-i oare Efraim cel mai de preț fiu al Meu",
-       "w": "Nu-i oare Efraim cel mai de preț fiu al Meu",
-       "heb": "הֲבֵן יַקִּיר לִי אֶפְרַיִם",
-       "translit": "havēn iakir li efraim",
-       "strong": "H669",
-       "pos": "substantiv, masculin singular + adjectiv, masculin singular + prepoziție + sufix + nume propriu",
-       "def_ro": "Nu-i oare Efraim cel mai de preț fiu al Meu (haven iakir li efraim)",
+       "t": "Nu-i oare",
+       "w": "Nu-i oare",
+       "heb": "הֲבֵן",
+       "translit": "havēn",
+       "strong": "H1121",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "nu [este] fiul (havēn)",
        "dict_ro": "Rashi explică faptul că acestea sunt vorbele Șechinei Înseși: Efraim geme, și inima Mea se întoarce să-l îndure, ca pe singurul fiu drag."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "sau un copil în care Îmi găsesc plăcerea",
-       "w": "sau un copil în care Îmi găsesc plăcerea",
-       "heb": "אִם יֶלֶד שַׁעֲשֻׁעִים",
-       "translit": "im ieled șaașuim",
-       "strong": "H8191",
-       "pos": "conjuncție + substantiv, masculin singular construct + substantiv, masculin plural",
-       "def_ro": "sau un copil în care Îmi găsesc plăcerea (im ieled shaashuim)",
+       "t": "Efraim",
+       "w": "Efraim",
+       "heb": "אֶפְרַיִם",
+       "translit": "efraim",
+       "strong": "H669",
+       "pos": "nume propriu",
+       "def_ro": "Efraim (efraim)",
+       "dict_ro": "Rashi explică faptul că acestea sunt vorbele Șechinei Înseși: Efraim geme, și inima Mea se întoarce să-l îndure."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cel mai de preț",
+       "w": "cel mai de preț",
+       "heb": "יַקִּיר",
+       "translit": "iakir",
+       "strong": "H3357",
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "de preț (iakir)",
+       "dict_ro": "Rashi explică faptul că acestea sunt vorbele Șechinei Înseși: Efraim geme, și inima Mea se întoarce să-l îndure, ca pe singurul fiu drag."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fiu al Meu,",
+       "w": "fiu al Meu,",
+       "heb": "לִי",
+       "translit": "li",
+       "strong": "",
+       "pos": "prepoziție + sufix",
+       "def_ro": "pentru mine, (li)",
+       "dict_ro": "Rashi explică faptul că acestea sunt vorbele Șechinei Înseși: Efraim geme, și inima Mea se întoarce să-l îndure, ca pe singurul fiu drag."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sau",
+       "w": "sau",
+       "heb": "אִם",
+       "translit": "im",
+       "strong": "H518",
+       "pos": "conjuncție",
+       "def_ro": "sau (im)",
        "dict_ro": "Metafora copilului răsfățat exprimă afecțiunea profundă, nu doar o relație formală."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "astfel că oricând vorbesc despre el",
-       "w": "astfel că oricând vorbesc despre el",
-       "heb": "כִּי מִדֵּי דַבְּרִי בּוֹ",
-       "translit": "ki midē dabri bo",
-       "strong": "",
-       "pos": "conjuncție + substantiv, masculin singular construct + verb, piel infinitiv + sufix + prepoziție + sufix",
-       "def_ro": "astfel că oricând vorbesc despre el (ki mide dabri bo)",
+       "t": "un copil",
+       "w": "un copil",
+       "heb": "יֶלֶד",
+       "translit": "ieled",
+       "strong": "H3206",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "un copil (ieled)",
+       "dict_ro": "Metafora copilului răsfățat exprimă afecțiunea profundă, nu doar o relație formală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în care Îmi găsesc plăcerea,",
+       "w": "în care Îmi găsesc plăcerea,",
+       "heb": "שַׁעֲשֻׁעִים",
+       "translit": "șaașuim",
+       "strong": "H8191",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "de plăceri, (șaașuim)",
+       "dict_ro": "Metafora copilului răsfățat exprimă afecțiunea profundă, nu doar o relație formală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "astfel că",
+       "w": "astfel că",
+       "heb": "כִּי",
+       "translit": "ki",
+       "strong": "H3588",
+       "pos": "conjuncție",
+       "def_ro": "căci (ki)",
        "dict_ro": "Radak explică faptul că de fiecare dată când DOMNUL vorbește despre Efraim, amintirea afecțiunii vechi se reînnoiește."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "Mi-l amintesc mai mult și mai mult",
-       "w": "Mi-l amintesc mai mult și mai mult",
-       "heb": "זָכֹר אֶזְכְּרֶנּוּ עוֹד",
-       "translit": "zahor ezkerenu od",
-       "strong": "H5750",
-       "pos": "verb, qal infinitiv absolut + verb, qal imperfect + sufix + adverb",
-       "def_ro": "Mi-l amintesc mai mult și mai mult (zahor ezkerenu od)",
+       "t": "oricând",
+       "w": "oricând",
+       "heb": "מִדֵּי",
+       "translit": "midē",
+       "strong": "H1767",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "de fiecare dată (midē)",
+       "dict_ro": "Radak explică faptul că de fiecare dată când DOMNUL vorbește despre Efraim, amintirea afecțiunii vechi se reînnoiește."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "vorbesc despre el,",
+       "w": "vorbesc despre el,",
+       "heb": "דַבְּרִי בּוֹ",
+       "translit": "dabri bo",
+       "strong": "",
+       "pos": "verb, piel infinitiv + sufix + prepoziție + sufix",
+       "def_ro": "vorbirea mea despre el, (dabri bo)",
+       "dict_ro": "Radak explică faptul că de fiecare dată când DOMNUL vorbește despre Efraim, amintirea afecțiunii vechi se reînnoiește."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Mi-l amintesc",
+       "w": "Mi-l amintesc",
+       "heb": "זָכֹר אֶזְכְּרֶנּוּ",
+       "translit": "zahor ezkerenu",
+       "strong": "H2142",
+       "pos": "verb, qal infinitiv absolut + verb, qal imperfect + sufix",
+       "def_ro": "amintindu-mi îmi voi aminti de el (zahor ezkerenu)",
        "dict_ro": "Rashi, redând o tradiție midrashică, explică faptul că e suficientă puțina învățătură pe care i-a dat-o lui Efraim ca să merite mila divină."
       },
       {
-       "t": "? "
+       "t": " "
       },
       {
-       "t": "De aceea, măruntaiele Mele tânjesc după el",
-       "w": "De aceea, măruntaiele Mele tânjesc după el",
-       "heb": "עַל כֵּן הָמוּ מֵעַי",
-       "translit": "al kēn hamu mēai",
+       "t": "mai mult și mai mult?",
+       "w": "mai mult și mai mult?",
+       "heb": "עוֹד",
+       "translit": "od",
+       "strong": "H5750",
+       "pos": "adverb",
+       "def_ro": "mai mult? (od)",
+       "dict_ro": "Rashi, redând o tradiție midrashică, explică faptul că e suficientă puțina învățătură pe care i-a dat-o lui Efraim ca să merite mila divină."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "De aceea,",
+       "w": "De aceea,",
+       "heb": "עַל כֵּן",
+       "translit": "al kēn",
+       "strong": "H3651",
+       "pos": "prepoziție + particulă demonstrativă",
+       "def_ro": "de aceea, (al kēn)",
+       "dict_ro": "Expresia «măruntaiele Mele tânjesc» arată o compasiune profundă, aproape fizică, a lui Dumnezeu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "măruntaiele Mele",
+       "w": "măruntaiele Mele",
+       "heb": "מֵעַי",
+       "translit": "mēai",
        "strong": "H4578",
-       "pos": "prepoziție + particulă demonstrativă + verb, qal perfect + substantiv, masculin plural construct + sufix",
-       "def_ro": "De aceea, măruntaiele Mele tânjesc după el (al ken hamu meai lo)",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "măruntaiele mele (mēai)",
+       "dict_ro": "Expresia «măruntaiele Mele tânjesc» arată o compasiune profundă, aproape fizică, a lui Dumnezeu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "tânjesc după el",
+       "w": "tânjesc după el",
+       "heb": "הָמוּ לוֹ",
+       "translit": "hamu lo",
+       "strong": "",
+       "pos": "verb, qal perfect + prepoziție + sufix",
+       "def_ro": "au tânjit pentru el (hamu lo)",
        "dict_ro": "Expresia «măruntaiele Mele tânjesc» arată o compasiune profundă, aproape fizică, a lui Dumnezeu."
       },
       {
@@ -73939,28 +75172,25 @@
       {
        "t": "[și] mă voi îndura negreșit de el",
        "w": "[și] mă voi îndura negreșit de el",
-       "heb": "לוֹ רַחֵם אֲרַחֲמֶנּוּ",
-       "translit": "lo rahēm arahamenu",
+       "heb": "רַחֵם אֲרַחֲמֶנּוּ",
+       "translit": "rahēm arahamenu",
        "strong": "H7355",
-       "pos": "prepoziție + sufix + verb, piel infinitiv absolut + verb, piel imperfect + sufix",
-       "def_ro": "[și] mă voi îndura negreșit de el (rahem arahamenu)",
+       "pos": "verb, piel infinitiv absolut + verb, piel imperfect + sufix",
+       "def_ro": "îndurând mă voi îndura de el (rahēm arahamenu)",
        "dict_ro": "Promisiunea milei certe încheie întreaga declarație de afecțiune părintească."
       },
       {
-       "t": " – "
+       "t": " "
       },
       {
-       "t": "rostirea DOMNULUI",
-       "w": "rostirea DOMNULUI",
+       "t": "– rostirea DOMNULUI.",
+       "w": "– rostirea DOMNULUI.",
        "heb": "נְאֻם יְהוָה",
        "translit": "neum Adonai",
        "strong": "H3068",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI (neum Adonai)",
+       "def_ro": "rostirea DOMNULUI. (neum Adonai)",
        "dict_ro": "Formula solemnă finală pecetluiește toată profeția de mângâiere a capitolului."
-      },
-      {
-       "t": "."
       }
      ],
      "textCompare": [
