@@ -11972,7 +11972,7 @@
        "translit": "vaiaas hirom",
        "strong": "H2438",
        "pos": "verb, qal imperfect consecutiv + nume propriu",
-       "def_ro": "și Hiram a făcut (vaiaas hirom)",
+       "def_ro": "și a făcut Hiram (vaiaas hirom)",
        "dict_ro": "Hiram, meșterul bronzier din Tir, trimis de regele Hiram al Tirului, e responsabil pentru toate lucrările de aramă ale Templului, descrise detaliat în acest capitol."
       },
       {
@@ -12011,21 +12011,47 @@
        "translit": "hamizrakot",
        "strong": "H4219",
        "pos": "substantiv, masculin plural",
-       "def_ro": "și vasele [pentru sânge] (hamizrakot)",
+       "def_ro": "și vasele (hamizrakot)",
        "dict_ro": "Metzudat Zion: boluri folosite pentru a primi sângele jertfelor, înainte de a fi stropit pe altar."
       },
       {
        "t": " "
       },
       {
-       "t": "și Hiram a isprăvit de făcut",
-       "w": "și Hiram a isprăvit de făcut",
-       "heb": "וַיְכַל חִירָם לַעֲשׂוֹת",
-       "translit": "vaihal hiram laasot",
-       "strong": "H6213",
-       "pos": "verb, piel imperfect consecutiv + nume propriu + verb, qal infinitiv",
-       "def_ro": "și Hiram a isprăvit de făcut (vaihal hiram laasot)",
+       "t": "și Hiram",
+       "w": "și Hiram",
+       "heb": "חִירָם",
+       "translit": "hiram",
+       "strong": "H2438",
+       "pos": "nume propriu",
+       "def_ro": "Hiram (hiram)",
+       "dict_ro": "Repetarea numelui confirmă identitatea meșterului care a dus la bun sfârșit întreaga lucrare de bronz."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a isprăvit",
+       "w": "a isprăvit",
+       "heb": "וַיְכַל",
+       "translit": "vaihal",
+       "strong": "H3615",
+       "pos": "verb, piel imperfect consecutiv",
+       "def_ro": "și a isprăvit (vaihal)",
        "dict_ro": "Marchează finalizarea întregii lucrări de bronz, închizând inventarul detaliat al uneltelor Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de făcut",
+       "w": "de făcut",
+       "heb": "לַעֲשׂוֹת",
+       "translit": "laasot",
+       "strong": "H6213",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "de făcut (laasot)",
+       "dict_ro": "Completează verbul de finalizare, introducând obiectul lucrării terminate."
       },
       {
        "t": " "
@@ -12044,13 +12070,39 @@
        "t": " "
       },
       {
-       "t": "pe care o făcuse pentru regele Solomon",
-       "w": "pe care o făcuse pentru regele Solomon",
-       "heb": "אֲשֶׁר עָשָׂה לַמֶּלֶךְ שְׁלֹמֹה",
-       "translit": "așer asa lameleh șelomo",
+       "t": "pe care",
+       "w": "pe care",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "pe care (așer)",
+       "dict_ro": "Particula relativă introduce precizarea comanditarului lucrării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "o făcuse",
+       "w": "o făcuse",
+       "heb": "עָשָׂה",
+       "translit": "asa",
+       "strong": "H6213",
+       "pos": "verb, qal perfect",
+       "def_ro": "a făcut (asa)",
+       "dict_ro": "Confirmă autorul original al comenzii — regele Solomon, prin a cărui poruncă s-a desfășurat toată lucrarea."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru regele Solomon",
+       "w": "pentru regele Solomon",
+       "heb": "לַמֶּלֶךְ שְׁלֹמֹה",
+       "translit": "lameleh șelomo",
        "strong": "H8010",
-       "pos": "particulă relativă + verb, qal perfect + substantiv, masculin singular + nume propriu",
-       "def_ro": "pe care o făcuse pentru regele Solomon (așer asa lameleh șelomo)",
+       "pos": "substantiv, masculin singular + nume propriu",
+       "def_ro": "pentru regele Solomon (lameleh șelomo)",
        "dict_ro": "Confirmă autoritatea regală directă sub care s-a desfășurat toată construcția Templului."
       },
       {
@@ -12063,7 +12115,7 @@
        "translit": "bēt Adonai",
        "strong": "H3068",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "la Casa DOMNULUI: (bēt Adonai)",
+       "def_ro": "casa DOMNULUI (bēt Adonai)",
        "dict_ro": "Toate aceste obiecte de bronz erau destinate exclusiv serviciului divin la Templul din Ierusalim, nu uzului regal personal."
       }
      ],
@@ -12110,34 +12162,73 @@
        "translit": "amudim șenaim",
        "strong": "H8147",
        "pos": "substantiv, masculin plural + numeral",
-       "def_ro": "cei doi stâlpi (amudim șenaim)",
-       "dict_ro": "Yachin și Boaz, cei doi stâlpi monumentali de bronz așezați la intrarea pridvorului Templului, descriși detaliat mai înainte în capitol."
+       "def_ro": "stâlpii, doi (amudim șenaim)",
+       "dict_ro": "Yachin și Boaz, cei doi stâlpi monumentali de bronz așezați la intrarea pridvorului Templului."
       },
       {
        "t": " "
       },
       {
-       "t": "și cele două globuri ale capitelurilor",
-       "w": "și cele două globuri ale capitelurilor",
-       "heb": "וְגֻלֹּת הַכֹּתָרֹת שְׁתָּיִם",
-       "translit": "vegulot hakotarot șetaim",
+       "t": "și cele două globuri",
+       "w": "și cele două globuri",
+       "heb": "וְגֻלֹּת שְׁתָּיִם",
+       "translit": "vegulot șetaim",
        "strong": "H8147",
-       "pos": "substantiv, feminin plural construct + substantiv, feminin plural + numeral",
-       "def_ro": "și cele două globuri ale capitelurilor (gulot hakotarot șetaim)",
+       "pos": "substantiv, feminin plural construct + numeral",
+       "def_ro": "și globurile, două (vegulot șetaim)",
        "dict_ro": "Metzudat Zion: „gulot” denotă partea inferioară, rotundă, a capitelului, în formă de castron răsturnat."
       },
       {
        "t": " "
       },
       {
-       "t": "care se aflau în vârful stâlpilor;",
-       "w": "care se aflau în vârful stâlpilor;",
-       "heb": "אֲשֶׁר עַל רֹאשׁ הָעַמֻּדִים",
-       "translit": "așer al roș haamudim",
-       "strong": "H5982",
-       "pos": "particulă relativă + prepoziție + substantiv, masculin singular construct + substantiv, masculin plural",
-       "def_ro": "care se aflau în vârful stâlpilor; (așer al roș haamudim)",
+       "t": "ale capitelurilor",
+       "w": "ale capitelurilor",
+       "heb": "הַכֹּתָרֹת",
+       "translit": "hakotarot",
+       "strong": "H3805",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "ale capitelurilor (hakotarot)",
+       "dict_ro": "Capitelurile aflate în vârful celor doi stâlpi monumentali."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care se aflau",
+       "w": "care se aflau",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care (așer)",
        "dict_ro": "Poziționarea la vârful stâlpilor făcea aceste globuri vizibile de la distanță, element decorativ principal al intrării Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în vârful",
+       "w": "în vârful",
+       "heb": "עַל רֹאשׁ",
+       "translit": "al roș",
+       "strong": "H7218",
+       "pos": "prepoziție + substantiv, masculin singular construct",
+       "def_ro": "pe capul (al roș)",
+       "dict_ro": "Poziția exactă a globurilor, pe vârful stâlpilor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "stâlpilor;",
+       "w": "stâlpilor;",
+       "heb": "הָעַמֻּדִים",
+       "translit": "haamudim",
+       "strong": "H5982",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "stâlpilor (haamudim)",
+       "dict_ro": "Primul dintre cei doi stâlpi ai pridvorului, Iachin și Boaz."
       },
       {
        "t": " "
@@ -12149,34 +12240,86 @@
        "translit": "vehasvahot șetaim",
        "strong": "H8147",
        "pos": "substantiv, feminin plural + numeral",
-       "def_ro": "și cele două seturi ornamentale de rețele (vehasvahot șetaim)",
+       "def_ro": "și rețelele, două (vehasvahot șetaim)",
        "dict_ro": "Rețele împletite de bronz, decorative, acoperind globurile capitelurilor — detaliu artistic al lucrării lui Hiram."
       },
       {
        "t": " "
       },
       {
-       "t": "care acopereau cele două globuri ale capitelurilor",
-       "w": "care acopereau cele două globuri ale capitelurilor",
-       "heb": "לְכַסּוֹת אֶת שְׁתֵּי גֻּלֹּת הַכֹּתָרֹת",
-       "translit": "lehasot et șetē gulot hakotarot",
-       "strong": "H3805",
-       "pos": "verb, piel infinitiv + marcă a complementului direct + numeral + substantiv, feminin plural construct + substantiv, feminin plural",
-       "def_ro": "care acopereau cele două globuri ale capitelurilor (lehasot et șetē gulot hakotarot)",
+       "t": "care acopereau",
+       "w": "care acopereau",
+       "heb": "לְכַסּוֹת",
+       "translit": "lehasot",
+       "strong": "H3680",
+       "pos": "verb, piel infinitiv",
+       "def_ro": "să acopere (lehasot)",
        "dict_ro": "Funcția rețelelor era explicit decorativă — acoperirea estetică a globurilor rotunde ale capitelurilor."
       },
       {
        "t": " "
       },
       {
-       "t": "care se aflau în vârful stâlpilor;",
-       "w": "care se aflau în vârful stâlpilor;",
-       "heb": "אֲשֶׁר עַל רֹאשׁ הָעַמּוּדִים",
-       "translit": "așer al roș haamudim",
-       "strong": "H5982",
-       "pos": "particulă relativă + prepoziție + substantiv, masculin singular construct + substantiv, masculin plural",
-       "def_ro": "care se aflau în vârful stâlpilor; (așer al roș haamudim)",
+       "t": "cele două",
+       "w": "cele două",
+       "heb": "שְׁתֵּי",
+       "translit": "șetē",
+       "strong": "H8147",
+       "pos": "numeral",
+       "def_ro": "cele două (șetē)",
+       "dict_ro": "Numărul globurilor acoperite de fiecare rețea."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "globuri ale capitelurilor",
+       "w": "globuri ale capitelurilor",
+       "heb": "גֻּלֹּת הַכֹּתָרֹת",
+       "translit": "gulot hakotarot",
+       "strong": "H3805",
+       "pos": "substantiv, feminin plural construct + substantiv, feminin plural",
+       "def_ro": "globurile capitelurilor (gulot hakotarot)",
+       "dict_ro": "Repetarea exactă a termenilor de la începutul versetului, confirmând obiectul acoperit de rețele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care se aflau",
+       "w": "care se aflau",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care (așer)",
        "dict_ro": "Repetiția exactă a formulei de la prima parte a versetului confirmă simetria și paralelismul descriptiv tipic acestui inventar tehnic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în vârful",
+       "w": "în vârful",
+       "heb": "עַל רֹאשׁ",
+       "translit": "al roș",
+       "strong": "H7218",
+       "pos": "prepoziție + substantiv, masculin singular construct",
+       "def_ro": "pe capul (al roș)",
+       "dict_ro": "Repetarea poziției, încheind simetric descrierea capitelurilor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "stâlpilor;",
+       "w": "stâlpilor;",
+       "heb": "הָעַמּוּדִים",
+       "translit": "haamudim",
+       "strong": "H5982",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "stâlpilor (haamudim)",
+       "dict_ro": "Al doilea stâlp, Boaz, închizând simetric descrierea capitelurilor celor doi stâlpi."
       }
      ],
      "textCompare": [
@@ -12213,13 +12356,29 @@
      "translit": "Veet-harimonim arba meot liștei hasevahot șenei-turim rimonim lasevaha haehat lehasot et-șetei gulot hakotarot așer al-penei haamudim.",
      "tokens": [
       {
-       "t": "și cele patru sute de rodii",
-       "w": "și cele patru sute de rodii",
-       "heb": "וְאֶת הָרִמֹּנִים אַרְבַּע מֵאוֹת",
-       "translit": "veet harimonim arba mēot",
+       "t": "și cele "
+      },
+      {
+       "t": "patru sute",
+       "w": "patru sute",
+       "heb": "אַרְבַּע מֵאוֹת",
+       "translit": "arba mēot",
        "strong": "H3967",
-       "pos": "marcă a complementului direct + substantiv, masculin plural + numeral + numeral",
-       "def_ro": "și cele patru sute de rodii (harimonim arba mēot)",
+       "pos": "numeral + numeral",
+       "def_ro": "patru sute (arba mēot)",
+       "dict_ro": "Numărul total al rodiilor, câte 100 pe fiecare rând dintre cele patru rânduri."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de rodii",
+       "w": "de rodii",
+       "heb": "הָרִמֹּנִים",
+       "translit": "harimonim",
+       "strong": "H7416",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "rodiile (harimonim)",
        "dict_ro": "Rashi: rodiile, câte o sută pe fiecare rând, erau înșirate pe lănțișoare decorative — motivul rodiei, simbol al rodniciei, apare frecvent în ornamentica sacerdotală."
       },
       {
@@ -12232,21 +12391,34 @@
        "translit": "liștē hasvahot",
        "strong": "H7639",
        "pos": "numeral + substantiv, feminin plural",
-       "def_ro": "[care împodobeau] cele două seturi ornamentale de rețele (liștē hasvahot)",
+       "def_ro": "pentru cele două rețele (liștē hasvahot)",
        "dict_ro": "Fiecare dintre cele două rețele decorative avea propriul set de 200 de rodii, distribuite pe cele două rânduri."
       },
       {
        "t": ", "
       },
       {
-       "t": "cele două rânduri de rodii",
-       "w": "cele două rânduri de rodii",
-       "heb": "שְׁנֵי טוּרִים רִמֹּנִים",
-       "translit": "șenē turim rimonim",
-       "strong": "H7416",
-       "pos": "numeral + substantiv, masculin plural + substantiv, masculin plural",
-       "def_ro": "cele două rânduri de rodii (șenē turim rimonim)",
+       "t": "cele două rânduri",
+       "w": "cele două rânduri",
+       "heb": "שְׁנֵי טוּרִים",
+       "translit": "șenē turim",
+       "strong": "H2905",
+       "pos": "numeral + substantiv, masculin plural",
+       "def_ro": "cele două rânduri (șenē turim)",
        "dict_ro": "Metzudat David precizează: fiecare rând conținea o sută de rodii, înșirate ca mărgele pe un lanț."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de rodii",
+       "w": "de rodii",
+       "heb": "רִמֹּנִים",
+       "translit": "rimonim",
+       "strong": "H7416",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "rodii (rimonim)",
+       "dict_ro": "Obiectul celor două rânduri ornamentale descrise."
       },
       {
        "t": " "
@@ -12258,34 +12430,86 @@
        "translit": "lasvaha haehat",
        "strong": "H259",
        "pos": "substantiv, feminin singular + numeral",
-       "def_ro": "destinate fiecărui set (lasvaha haehat)",
+       "def_ro": "pentru rețeaua cea una (lasvaha haehat)",
        "dict_ro": "Simetria decorativă: fiecare din cele două rețele avea identic 200 de rodii, pentru echilibru vizual perfect."
       },
       {
        "t": ", "
       },
       {
-       "t": "ca să acopere cele două globuri ale capitelurilor",
-       "w": "ca să acopere cele două globuri ale capitelurilor",
-       "heb": "לְכַסּוֹת אֶת שְׁתֵּי גֻּלֹּת הַכֹּתָרֹת",
-       "translit": "lehasot et șetē gulot hakotarot",
+       "t": "ca să acopere",
+       "w": "ca să acopere",
+       "heb": "לְכַסּוֹת",
+       "translit": "lehasot",
+       "strong": "H3680",
+       "pos": "verb, piel infinitiv",
+       "def_ro": "să acopere (lehasot)",
+       "dict_ro": "Scopul decorativ al rodiilor, continuând funcția rețelelor descrisă la v.41."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cele două",
+       "w": "cele două",
+       "heb": "שְׁתֵּי",
+       "translit": "șetē",
+       "strong": "H8147",
+       "pos": "numeral",
+       "def_ro": "cele două (șetē)",
+       "dict_ro": "Numărul globurilor acoperite, identic celui din v.41."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "globuri ale capitelurilor",
+       "w": "globuri ale capitelurilor",
+       "heb": "גֻּלֹּת הַכֹּתָרֹת",
+       "translit": "gulot hakotarot",
        "strong": "H3805",
-       "pos": "verb, piel infinitiv + marcă a complementului direct + numeral + substantiv, feminin plural construct + substantiv, feminin plural",
-       "def_ro": "ca să acopere cele două globuri ale capitelurilor (lehasot et șetē gulot hakotarot)",
+       "pos": "substantiv, feminin plural construct + substantiv, feminin plural",
+       "def_ro": "globurile capitelurilor (gulot hakotarot)",
        "dict_ro": "Rodiile, prin aranjarea lor, completau efectul decorativ al rețelelor, acoperind vizual partea rotundă a capitelurilor."
       },
       {
        "t": " "
       },
       {
-       "t": "care se aflau în partea superioară a stâlpilor;",
-       "w": "care se aflau în partea superioară a stâlpilor;",
-       "heb": "אֲשֶׁר עַל פְּנֵי הָעַמּוּדִים",
-       "translit": "așer al penē haamudim",
-       "strong": "H5982",
-       "pos": "particulă relativă + prepoziție + substantiv, masculin și feminin plural construct + substantiv, masculin plural",
-       "def_ro": "care se aflau în partea superioară a stâlpilor; (așer al penē haamudim)",
+       "t": "care se aflau",
+       "w": "care se aflau",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care (așer)",
        "dict_ro": "Încheie descrierea detaliată a capitelurilor celor doi stâlpi, Iachin și Boaz, element arhitectural emblematic al intrării Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în partea superioară",
+       "w": "în partea superioară",
+       "heb": "עַל פְּנֵי",
+       "translit": "al penē",
+       "strong": "H6440",
+       "pos": "prepoziție + substantiv, masculin și feminin plural construct",
+       "def_ro": "pe fața (al penē)",
+       "dict_ro": "Poziția finală a capitelurilor, pe partea vizibilă dinspre privitor a stâlpilor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a stâlpilor;",
+       "w": "a stâlpilor;",
+       "heb": "הָעַמּוּדִים",
+       "translit": "haamudim",
+       "strong": "H5982",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "stâlpilor (haamudim)",
+       "dict_ro": "Încheie descrierea capitelurilor, repetată identic de la v.41."
       }
      ],
      "textCompare": [
@@ -12328,11 +12552,11 @@
       {
        "t": "și cele zece socluri",
        "w": "și cele zece socluri",
-       "heb": "וְאֶת הַמְּכֹנוֹת עָשֶׂר",
-       "translit": "veet hamhonot aser",
+       "heb": "הַמְּכֹנוֹת עָשֶׂר",
+       "translit": "hamhonot aser",
        "strong": "H6235",
-       "pos": "marcă a complementului direct + substantiv, feminin plural + numeral",
-       "def_ro": "și cele zece socluri (hamhonot aser)",
+       "pos": "substantiv, feminin plural + numeral",
+       "def_ro": "și soclurile, zece (hamhonot aser)",
        "dict_ro": "Soclurile de bronz, descrise detaliat în versetele precedente ale capitolului, erau cărucioare mobile ornamentate, pe roți, care susțineau ligheanele."
       },
       {
@@ -12341,11 +12565,11 @@
       {
        "t": "și cele zece ligheane",
        "w": "și cele zece ligheane",
-       "heb": "וְאֶת הַכִּיֹּרֹת עֲשָׂרָה",
-       "translit": "veet hakiorot asara",
+       "heb": "הַכִּיֹּרֹת עֲשָׂרָה",
+       "translit": "hakiorot asara",
        "strong": "H6235",
-       "pos": "marcă a complementului direct + substantiv, masculin plural + numeral",
-       "def_ro": "și cele zece ligheane (hakiorot asara)",
+       "pos": "substantiv, masculin plural + numeral",
+       "def_ro": "și ligheanele, zece (hakiorot asara)",
        "dict_ro": "Zece ligheane identice, câte unul pentru fiecare soclu — folosite pentru spălarea părților jertfelor, potrivit 2 Cronici 4:6."
       },
       {
@@ -12358,7 +12582,7 @@
        "translit": "al hamhonot",
        "strong": "H4350",
        "pos": "prepoziție + substantiv, feminin plural",
-       "def_ro": "care erau pe socluri; (al hamhonot)",
+       "def_ro": "pe socluri (al hamhonot)",
        "dict_ro": "Confirmă aranjamentul funcțional: fiecare lighean își avea soclul propriu, mobil, pentru a putea fi deplasat după nevoie în curtea Templului."
       }
      ],
@@ -12389,25 +12613,38 @@
       {
        "t": "și „Marea” cea unică",
        "w": "și „Marea” cea unică",
-       "heb": "וְאֶת הַיָּם הָאֶחָד",
-       "translit": "veet haiam haehad",
+       "heb": "הַיָּם הָאֶחָד",
+       "translit": "haiam haehad",
        "strong": "H259",
-       "pos": "marcă a complementului direct + substantiv, masculin singular + numeral",
-       "def_ro": "și «Marea» cea unică (haiam haehad)",
+       "pos": "substantiv, masculin singular + numeral",
+       "def_ro": "și marea, cea una (haiam haehad)",
        "dict_ro": "„Marea de aramă”, bazinul masiv descris detaliat mai înainte, unic — spre diferență de cele zece ligheane mobile — destinat purificării preoților înainte de slujbă."
       },
       {
        "t": " "
       },
       {
-       "t": "și cei doisprezece boi",
-       "w": "și cei doisprezece boi",
-       "heb": "וְאֶת הַבָּקָר שְׁנֵים עָשָׂר",
-       "translit": "veet habakar șenēm asar",
-       "strong": "H6240",
-       "pos": "marcă a complementului direct + substantiv, masculin și feminin singular + numeral + numeral",
-       "def_ro": "și cei doisprezece boi (habakar șenēm asar)",
+       "t": "și cei doisprezece",
+       "w": "și cei doisprezece",
+       "heb": "הַבָּקָר",
+       "translit": "habakar",
+       "strong": "H1241",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "și boii (habakar)",
        "dict_ro": "Radak: cei doisprezece boi de bronz, grupați trei câte trei spre fiecare punct cardinal, susțineau «Marea» pe spinările lor — simbolism posibil legat de cele douăsprezece triburi ale lui Israel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "boi",
+       "w": "boi",
+       "heb": "שְׁנֵים עָשָׂר",
+       "translit": "șenēm asar",
+       "strong": "H6240",
+       "pos": "numeral + numeral",
+       "def_ro": "doisprezece (șenēm asar)",
+       "dict_ro": "Numărul exact al boilor de bronz care susțineau bazinul."
       },
       {
        "t": " "
@@ -12419,7 +12656,7 @@
        "translit": "tahat haiam",
        "strong": "H3220",
        "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "care se aflau sub «Mare»; (tahat haiam)",
+       "def_ro": "sub marea (tahat haiam)",
        "dict_ro": "Confirmă funcția structurală a boilor, ca suport decorativ și arhitectural pentru imensul bazin de bronz."
       }
      ],
@@ -12454,7 +12691,7 @@
        "translit": "hasirot",
        "strong": "H5518",
        "pos": "substantiv, masculin și feminin plural",
-       "def_ro": "și oalele (hasirot)",
+       "def_ro": "oalele (hasirot)",
        "dict_ro": "Rashi, citând Rabi: oalele («sirot») sunt identice cu ligheanele menționate anterior la v.40, folosite pentru cenușa altarului."
       },
       {
@@ -12467,7 +12704,7 @@
        "translit": "haiaim",
        "strong": "H3257",
        "pos": "substantiv, masculin plural",
-       "def_ro": "și lopețile (haiaim)",
+       "def_ro": "lopețile (haiaim)",
        "dict_ro": "A doua mențiune a lopeților în acest inventar, confirmând lista completă a uneltelor pentru întreținerea altarului."
       },
       {
@@ -12480,33 +12717,72 @@
        "translit": "hamizrakot",
        "strong": "H4219",
        "pos": "substantiv, masculin plural",
-       "def_ro": "și vasele [pentru sânge] (hamizrakot)",
+       "def_ro": "vasele (hamizrakot)",
        "dict_ro": "A doua mențiune a bolurilor pentru sânge, repetată pentru a încheia simetric lista completă de obiecte liturgice."
       },
       {
        "t": " – "
       },
       {
-       "t": "toate aceste vase",
-       "w": "toate aceste vase",
-       "heb": "וְאֵת כָּל הַכֵּלִים הָאֵלֶּה",
-       "translit": "veēt kal hakēlim haēle",
+       "t": "toate",
+       "w": "toate",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "toate (kal)",
+       "dict_ro": "Subliniază caracterul exhaustiv al listei de obiecte de bronz."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "aceste vase",
+       "w": "aceste vase",
+       "heb": "הַכֵּלִים הָאֵלֶּה",
+       "translit": "hakēlim haēle",
        "strong": "H428",
-       "pos": "marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin plural + pronume demonstrativ",
-       "def_ro": "toate aceste vase (kal hakēlim haēle)",
+       "pos": "substantiv, masculin plural + pronume demonstrativ",
+       "def_ro": "vasele acestea (hakēlim haēle)",
        "dict_ro": "Formula de încheiere a inventarului detaliat, confirmând caracterul exhaustiv al listei prezentate."
       },
       {
        "t": " "
       },
       {
-       "t": "pe care le-a făcut Hiram",
-       "w": "pe care le-a făcut Hiram",
-       "heb": "אֲשֶׁר עָשָׂה חִירָם",
-       "translit": "așer asa hiram",
+       "t": "pe care",
+       "w": "pe care",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "pe care (așer)",
+       "dict_ro": "Particula relativă introduce din nou autorul lucrării, Hiram."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "le-a făcut",
+       "w": "le-a făcut",
+       "heb": "עָשָׂה",
+       "translit": "asa",
+       "strong": "H6213",
+       "pos": "verb, qal perfect",
+       "def_ro": "a făcut (asa)",
+       "dict_ro": "Confirmă din nou autorul lucrării de bronz, închizând inventarul detaliat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Hiram",
+       "w": "Hiram",
+       "heb": "חִירָם",
+       "translit": "hiram",
        "strong": "H2438",
-       "pos": "particulă relativă + verb, qal perfect + nume propriu",
-       "def_ro": "pe care le-a făcut Hiram (așer asa hiram)",
+       "pos": "nume propriu",
+       "def_ro": "Hiram (hiram)",
        "dict_ro": "Reconfirmă autorul tuturor acestor lucrări de bronz — meșterul tirian angajat de regele Solomon."
       },
       {
@@ -12532,7 +12808,7 @@
        "translit": "bēt Adonai",
        "strong": "H3068",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "pentru Casa DOMNULUI (bēt Adonai)",
+       "def_ro": "casa DOMNULUI (bēt Adonai)",
        "dict_ro": "Destinația finală a tuturor obiectelor: serviciul divin la Templul din Ierusalim."
       },
       {
@@ -12545,7 +12821,7 @@
        "translit": "nehoșet memorat",
        "strong": "H4803",
        "pos": "substantiv, feminin singular + verb, pual participiu pasiv",
-       "def_ro": "erau din aramă lustruită. (nehoșet memorat)",
+       "def_ro": "aramă lustruită (nehoșet memorat)",
        "dict_ro": "Radak: «memorat» descrie aramă curățată și lustruită până la o strălucire perfectă, fără pată sau oxidare — calitatea superioară a materialului folosit."
       }
      ],
@@ -12602,7 +12878,7 @@
        "translit": "iețakam hameleh",
        "strong": "H4428",
        "pos": "verb, qal perfect + sufix + substantiv, masculin singular",
-       "def_ro": "regele le-a turnat (iețakam hameleh)",
+       "def_ro": "a turnat regele (iețakam hameleh)",
        "dict_ro": "Confirmă supravegherea regală directă a procesului de topire și turnare a bronzului, lucrare tehnică de mare amploare."
       },
       {
@@ -12628,21 +12904,47 @@
        "translit": "bemaavē haadama",
        "strong": "H127",
        "pos": "substantiv, masculin singular construct + substantiv, feminin singular",
-       "def_ro": "în clei tare (bemaavē haadama)",
+       "def_ro": "în adâncul pământului (bemaavē haadama)",
        "dict_ro": "Radak, citând Targumul: «ghergheshta», un sol argilos special, folosit pentru a construi formele de turnare ale obiectelor masive de bronz, imposibil de realizat altundeva."
       },
       {
        "t": ", "
       },
       {
-       "t": "între Sucot și Țartan.",
-       "w": "între Sucot și Țartan.",
-       "heb": "בֵּין סֻכּוֹת וּבֵין צָרְתָן",
-       "translit": "bēn sukot uvēn țartan",
+       "t": "între",
+       "w": "între",
+       "heb": "בֵּין",
+       "translit": "bēn",
+       "strong": "H996",
+       "pos": "prepoziție",
+       "def_ro": "între (bēn)",
+       "dict_ro": "Introduce primul dintre cele două repere geografice ale locului topitoriei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Sucot",
+       "w": "Sucot",
+       "heb": "סֻכּוֹת",
+       "translit": "sukot",
+       "strong": "H5523",
+       "pos": "nume propriu",
+       "def_ro": "Sucot (sukot)",
+       "dict_ro": "Localitate din valea Iordanului, reper geografic pentru locul exact al topitoriei regale."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și Țartan.",
+       "w": "și Țartan.",
+       "heb": "וּבֵין צָרְתָן",
+       "translit": "uvēn țartan",
        "strong": "H6891",
-       "pos": "prepoziție + nume propriu + prepoziție + nume propriu",
-       "def_ro": "între Sucot și Țartan. (bēn sukot uvēn țartan)",
-       "dict_ro": "Două localități din valea Iordanului, menționate ca repere geografice pentru locul exact al topitoriei regale."
+       "pos": "prepoziție + nume propriu",
+       "def_ro": "și între Țartan (uvēn țartan)",
+       "dict_ro": "A doua localitate, menționată ca al doilea reper al locului topitoriei."
       }
      ],
      "textCompare": [
@@ -12680,27 +12982,79 @@
      "translit": "Vaianah Șelomo et-kol-hakelim merov meod meod lo nehkar mișkal hanehoșet.",
      "tokens": [
       {
-       "t": "Solomon a lăsat toate vasele [necântărite]",
-       "w": "Solomon a lăsat toate vasele [necântărite]",
-       "heb": "וַיַּנַּח שְׁלֹמֹה אֶת כָּל הַכֵּלִים",
-       "translit": "vaianah șelomo et kal hakēlim",
-       "strong": "H3627",
-       "pos": "verb, hifil imperfect consecutiv + nume propriu + marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin plural",
-       "def_ro": "Solomon a lăsat toate vasele [necântărite] (vaianah șelomo et kal hakēlim)",
+       "t": "Solomon",
+       "w": "Solomon",
+       "heb": "שְׁלֹמֹה",
+       "translit": "șelomo",
+       "strong": "H8010",
+       "pos": "nume propriu",
+       "def_ro": "Solomon (șelomo)",
+       "dict_ro": "Subiectul deciziei de a renunța la cântărirea exactă a bronzului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a lăsat",
+       "w": "a lăsat",
+       "heb": "וַיַּנַּח",
+       "translit": "vaianah",
+       "strong": "H3240",
+       "pos": "verb, hifil imperfect consecutiv",
+       "def_ro": "și a lăsat (vaianah)",
        "dict_ro": "Rashi: Solomon a renunțat la a cântări greutatea exactă a tuturor acestor obiecte de bronz, lucru explicat în continuare prin numărul lor imens."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "toate vasele [necântărite]",
+       "w": "toate vasele [necântărite]",
+       "heb": "כָּל הַכֵּלִים",
+       "translit": "kal hakēlim",
+       "strong": "H3627",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural",
+       "def_ro": "toate vasele (kal hakēlim)",
+       "dict_ro": "Obiectul deciziei lui Solomon, întregul inventar de bronz descris la v.40-45."
       },
       {
        "t": ", "
       },
       {
-       "t": "pentru că erau foarte multe;",
-       "w": "pentru că erau foarte multe;",
-       "heb": "מֵרֹב מְאֹד מְאֹד",
-       "translit": "mērov meod meod",
-       "strong": "H3966",
-       "pos": "substantiv, masculin și feminin singular + adverb + adverb",
-       "def_ro": "pentru că erau foarte multe; (mērov meod meod)",
+       "t": "pentru că erau",
+       "w": "pentru că erau",
+       "heb": "מֵרֹב",
+       "translit": "mērov",
+       "strong": "H7230",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "din mulțimea (mērov)",
        "dict_ro": "Dublarea cuvântului «meod» (foarte) intensifică ideea cantității uluitoare de bronz folosite în construcția Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "foarte",
+       "w": "foarte",
+       "heb": "מְאֹד",
+       "translit": "meod",
+       "strong": "H3966",
+       "pos": "adverb",
+       "def_ro": "foarte (meod)",
+       "dict_ro": "Primul termen al dublării emfatice."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "multe;",
+       "w": "multe;",
+       "heb": "מְאֹד",
+       "translit": "meod",
+       "strong": "H3966",
+       "pos": "adverb",
+       "def_ro": "foarte (meod)",
+       "dict_ro": "Al doilea termen identic, întărind emfatic cantitatea uluitoare."
       },
       {
        "t": " "
@@ -12725,7 +13079,7 @@
        "translit": "lo nehkar",
        "strong": "H2713",
        "pos": "particulă negativă + verb, nifal perfect",
-       "def_ro": "nu a fost calculată. (lo nehkar)",
+       "def_ro": "nu a fost cercetată (lo nehkar)",
        "dict_ro": "Verbul «nehkar» (a fost cercetat/examinat) confirmă că nici măcar o estimare aproximativă nu s-a păstrat — un detaliu onest despre limitele inventarierii antice."
       }
      ],
@@ -12762,27 +13116,66 @@
      "translit": "Vaiaas Șelomo et kol-hakelim așer beit ADONAI et mizbah hazahav veet-hașulhan așer alav lehem hapanim zahav.",
      "tokens": [
       {
-       "t": "Solomon a făcut toate vasele",
-       "w": "Solomon a făcut toate vasele",
-       "heb": "וַיַּעַשׂ שְׁלֹמֹה אֵת כָּל הַכֵּלִים",
-       "translit": "vaiaas șelomo ēt kal hakēlim",
-       "strong": "H3627",
-       "pos": "verb, qal imperfect consecutiv + nume propriu + marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin plural",
-       "def_ro": "Solomon a făcut toate vasele (vaiaas șelomo et kal hakēlim)",
+       "t": "Solomon",
+       "w": "Solomon",
+       "heb": "שְׁלֹמֹה",
+       "translit": "șelomo",
+       "strong": "H8010",
+       "pos": "nume propriu",
+       "def_ro": "Solomon (șelomo)",
+       "dict_ro": "Subiectul lucrării de aur, realizată de această dată direct sub comanda regelui, nu prin Hiram."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a făcut",
+       "w": "a făcut",
+       "heb": "וַיַּעַשׂ",
+       "translit": "vaiaas",
+       "strong": "H6213",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a făcut (vaiaas)",
        "dict_ro": "Trecerea de la obiectele de bronz (lucrarea lui Hiram) la obiectele de aur, realizate direct sub comanda lui Solomon, pentru interiorul sacru al Templului."
       },
       {
        "t": " "
       },
       {
-       "t": "care erau în Casa DOMNULUI:",
-       "w": "care erau în Casa DOMNULUI:",
-       "heb": "אֲשֶׁר בֵּית יְהוָה",
-       "translit": "așer bēt Adonai",
-       "strong": "H3068",
-       "pos": "particulă relativă + substantiv, masculin singular construct + nume propriu",
-       "def_ro": "care erau în Casa DOMNULUI: (așer bēt Adonai)",
+       "t": "toate vasele",
+       "w": "toate vasele",
+       "heb": "כָּל הַכֵּלִים",
+       "translit": "kal hakēlim",
+       "strong": "H3627",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural",
+       "def_ro": "toate vasele (kal hakēlim)",
+       "dict_ro": "Obiectul lucrării, întregul inventar de aur descris în continuare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care erau",
+       "w": "care erau",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care (așer)",
        "dict_ro": "Marchează distincția dintre curtea exterioară (unde erau obiectele de bronz) și interiorul Templului, rezervat obiectelor de aur."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în Casa DOMNULUI:",
+       "w": "în Casa DOMNULUI:",
+       "heb": "בֵּית יְהוָה",
+       "translit": "bēt Adonai",
+       "strong": "H3068",
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "casa DOMNULUI (bēt Adonai)",
+       "dict_ro": "Locul destinat obiectelor de aur, interiorul sacru al Templului."
       },
       {
        "t": " "
@@ -12790,10 +13183,10 @@
       {
        "t": "altarul de aur",
        "w": "altarul de aur",
-       "heb": "אֵת מִזְבַּח הַזָּהָב",
-       "translit": "ēt mizbah hazahav",
+       "heb": "מִזְבַּח הַזָּהָב",
+       "translit": "mizbah hazahav",
        "strong": "H2091",
-       "pos": "marcă a complementului direct + substantiv, masculin singular construct + substantiv, masculin singular",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
        "def_ro": "altarul de aur (mizbah hazahav)",
        "dict_ro": "Altarul tămâiei, acoperit cu aur, folosit pentru arderea tămâiei zilnice — distinct de altarul mare de bronz din curte."
       },
@@ -12801,13 +13194,39 @@
        "t": ", "
       },
       {
-       "t": "masa pe care era pâinea",
-       "w": "masa pe care era pâinea",
-       "heb": "וְאֶת הַשֻּׁלְחָן אֲשֶׁר עָלָיו לֶחֶם הַפָּנִים",
-       "translit": "veet hașulhan așer alaiv lehem hapanim",
+       "t": "masa",
+       "w": "masa",
+       "heb": "הַשֻּׁלְחָן",
+       "translit": "hașulhan",
+       "strong": "H7979",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "masa (hașulhan)",
+       "dict_ro": "Masa de aur pe care se așezau pâinile prezenței."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe care era",
+       "w": "pe care era",
+       "heb": "אֲשֶׁר עָלָיו",
+       "translit": "așer alaiv",
+       "strong": "H5921",
+       "pos": "particulă relativă + prepoziție + sufix",
+       "def_ro": "pe care, asupra ei (așer alaiv)",
+       "dict_ro": "Introduce obiectul așezat pe masă: pâinea prezenței."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pâinea",
+       "w": "pâinea",
+       "heb": "לֶחֶם הַפָּנִים",
+       "translit": "lehem hapanim",
        "strong": "H6440",
-       "pos": "marcă a complementului direct + substantiv, masculin singular + particulă relativă + prepoziție + sufix + substantiv, masculin și feminin singular construct + substantiv, masculin și feminin plural",
-       "def_ro": "masa pe care era pâinea (hașulhan așer alaiv lehem hapanim)",
+       "pos": "substantiv, masculin și feminin singular construct + substantiv, masculin și feminin plural",
+       "def_ro": "pâinea prezenței (lehem hapanim)",
        "dict_ro": "„Pâinea Prezenței” (lehem hapanim), cele douăsprezece pâini schimbate săptămânal, așezate pe masa de aur — Radak notează că, de fapt, Solomon a făcut zece asemenea mese, potrivit 2 Cronici 4:8."
       },
       {
@@ -12820,7 +13239,7 @@
        "translit": "zahav",
        "strong": "H2091",
        "pos": "substantiv, masculin singular",
-       "def_ro": "– din aur; (zahav)",
+       "def_ro": "aur (zahav)",
        "dict_ro": "Confirmă materialul prețios al mesei, spre diferență de obiectele din curtea exterioară, lucrate în bronz."
       }
      ],
@@ -12875,7 +13294,7 @@
        "translit": "hamnorot",
        "strong": "H4501",
        "pos": "substantiv, feminin plural",
-       "def_ro": "și sfeșnicele (hamnorot)",
+       "def_ro": "sfeșnicele (hamnorot)",
        "dict_ro": "Zece sfeșnice de aur, spre diferență de menora unică din vremea lui Moise — Radak notează dezbaterea rabinică dacă aceste zece erau în plus față de menora originală sau reprezentau multiplicarea ei completă."
       },
       {
@@ -12888,7 +13307,7 @@
        "translit": "hamēș miamin",
        "strong": "H3225",
        "pos": "numeral + substantiv, feminin singular",
-       "def_ro": "cinci în dreapta (hamēș miamin)",
+       "def_ro": "cinci din dreapta (hamēș miamin)",
        "dict_ro": "Rashi explică: «dreapta» se referă la dreapta menorei lui Moise, nu la dreapta intrării — altfel ar rezulta o menoră în partea de nord, contrar poruncii din Exod 26:35 care fixează menora în sud."
       },
       {
@@ -12901,7 +13320,7 @@
        "translit": "vehamēș mismovl",
        "strong": "H8040",
        "pos": "numeral + substantiv, masculin singular",
-       "def_ro": "și cinci în stânga (vehamēș mismovl)",
+       "def_ro": "și cinci din stânga (vehamēș mismovl)",
        "dict_ro": "Simetrie completă: cinci sfeșnice de fiecare parte, toate situate totuși în partea sudică a Sfintei, potrivit interpretării lui Rashi."
       },
       {
@@ -12927,7 +13346,7 @@
        "translit": "zahav sagur",
        "strong": "H5462",
        "pos": "substantiv, masculin singular + substantiv, masculin singular",
-       "def_ro": "– din aur curat; (zahav sagur)",
+       "def_ro": "aur curat (zahav sagur)",
        "dict_ro": "«Sagur» descrie aurul cel mai pur, de cea mai înaltă calitate disponibilă."
       },
       {
@@ -12940,7 +13359,7 @@
        "translit": "vehaperah",
        "strong": "H6525",
        "pos": "substantiv, masculin singular",
-       "def_ro": "și mugurii (vehaperah)",
+       "def_ro": "și florile (vehaperah)",
        "dict_ro": "Elementele florale decorative ale sfeșnicelor, ecou direct al descrierii menorei originale din Exod 25:31."
       },
       {
@@ -12953,7 +13372,7 @@
        "translit": "vehanērot",
        "strong": "H5216",
        "pos": "substantiv, masculin plural",
-       "def_ro": "candelele (vehanērot)",
+       "def_ro": "și candelele (vehanērot)",
        "dict_ro": "Rashi: vasele mici în formă de castron în care se puneau untdelemnul și fitilul pentru fiecare lumină."
       },
       {
@@ -12979,7 +13398,7 @@
        "translit": "zahav",
        "strong": "H2091",
        "pos": "substantiv, masculin singular",
-       "def_ro": "– din aur; (zahav)",
+       "def_ro": "aur (zahav)",
        "dict_ro": "Confirmă materialul prețios al tuturor accesoriilor menorei."
       }
      ],
@@ -13026,7 +13445,7 @@
        "translit": "vehasipot",
        "strong": "H5592",
        "pos": "substantiv, masculin plural",
-       "def_ro": "și bolurile (vehasipot)",
+       "def_ro": "bolurile (vehasipot)",
        "dict_ro": "Rashi notează incertitudinea termenului: identificat fie cu vase pentru lichide, fie — printr-o rădăcină alternativă — cu instrumente muzicale, alături de «mzamrot» următor."
       },
       {
@@ -13039,7 +13458,7 @@
        "translit": "vehamzamrot",
        "strong": "H4212",
        "pos": "substantiv, feminin plural",
-       "def_ro": "instrumentele muzicale (vehamzamrot)",
+       "def_ro": "și instrumentele muzicale (vehamzamrot)",
        "dict_ro": "Rashi: instrumente folosite la cântarea levitică din Templu, legate etimologic de «zimra» (cântare/psalmodiere)."
       },
       {
@@ -13052,7 +13471,7 @@
        "translit": "vehamizrakot",
        "strong": "H4219",
        "pos": "substantiv, masculin plural",
-       "def_ro": "vasele pentru sânge (vehamizrakot)",
+       "def_ro": "și vasele (vehamizrakot)",
        "dict_ro": "A treia mențiune a bolurilor pentru sânge în acest inventar, aici din aur, pentru serviciul din interiorul sacru al Templului."
       },
       {
@@ -13065,7 +13484,7 @@
        "translit": "vehakapot",
        "strong": "H3709",
        "pos": "substantiv, feminin plural",
-       "def_ro": "lingurile (vehakapot)",
+       "def_ro": "și lingurile (vehakapot)",
        "dict_ro": "Rashi: vase mici în formă de căuș, folosite pentru tămâie, distincte de bolurile de sânge."
       },
       {
@@ -13091,7 +13510,7 @@
        "translit": "zahav sagur",
        "strong": "H5462",
        "pos": "substantiv, masculin singular + substantiv, masculin singular",
-       "def_ro": "– din aur curat; (zahav sagur)",
+       "def_ro": "aur curat (zahav sagur)",
        "dict_ro": "Confirmă materialul prețios pentru toate aceste unelte ale serviciului interior din Templu."
       },
       {
@@ -13104,20 +13523,33 @@
        "translit": "vehapotot",
        "strong": "H6596",
        "pos": "substantiv, feminin plural",
-       "def_ro": "iar balamalele (vehapotot)",
+       "def_ro": "și balamalele (vehapotot)",
        "dict_ro": "Rashi: termen pentru articulațiile/țâțânile pe care se învârteau ușile — detaliu arhitectural rar menționat explicit în descrierile Templului."
       },
       {
        "t": " "
       },
       {
-       "t": "pentru camera cea mai din interiorul Templului",
-       "w": "pentru camera cea mai din interiorul Templului",
-       "heb": "לְדַלְתוֹת הַבַּיִת הַפְּנִימִי",
-       "translit": "ledaltot habait hapnimi",
+       "t": "pentru",
+       "w": "pentru",
+       "heb": "לְדַלְתוֹת",
+       "translit": "ledaltot",
+       "strong": "H1817",
+       "pos": "substantiv, feminin plural construct",
+       "def_ro": "pentru ușile (ledaltot)",
+       "dict_ro": "Introduce destinația balamalelor descrise la stihul precedent."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "camera cea mai din interiorul Templului",
+       "w": "camera cea mai din interiorul Templului",
+       "heb": "הַבַּיִת הַפְּנִימִי",
+       "translit": "habait hapnimi",
        "strong": "H6442",
-       "pos": "substantiv, feminin plural construct + substantiv, masculin singular + adjectiv, masculin singular",
-       "def_ro": "pentru camera cea mai din interiorul Templului (ledaltot habait hapnimi)",
+       "pos": "substantiv, masculin singular + adjectiv, masculin singular",
+       "def_ro": "casa cea interioară (habait hapnimi)",
        "dict_ro": "Radak precizează: «habait hapnimi» este Sfânta Sfintelor, camera cea mai interioară și mai sacră a întregului complex."
       },
       {
@@ -13130,24 +13562,50 @@
        "translit": "lekodeș hakodașim",
        "strong": "H6944",
        "pos": "substantiv, masculin singular construct + substantiv, masculin plural",
-       "def_ro": "pentru Sfânta Sfintelor (lekodeș hakodașim)",
+       "def_ro": "pentru sfânta sfintelor (lekodeș hakodașim)",
        "dict_ro": "Repetiția explicativă confirmă identitatea camerei menționate — cea mai sfântă încăpere a Templului, unde se afla Chivotul Legământului."
       },
       {
        "t": ", "
       },
       {
-       "t": "pentru ușile Sălii Templului",
-       "w": "pentru ușile Sălii Templului",
-       "heb": "לְדַלְתֵי הַבַּיִת לַהֵיכָל",
-       "translit": "ledaltē habait lahēhal",
-       "strong": "H1964",
-       "pos": "substantiv, feminin dual construct + substantiv, masculin singular + substantiv, masculin singular",
-       "def_ro": "pentru ușile Sălii Templului (ledaltē habait lahēhal)",
+       "t": "pentru ușile",
+       "w": "pentru ușile",
+       "heb": "לְדַלְתֵי",
+       "translit": "ledaltē",
+       "strong": "H1817",
+       "pos": "substantiv, feminin dual construct",
+       "def_ro": "pentru ușile (ledaltē)",
+       "dict_ro": "Introduce al doilea set de uși menționat, cele ale Sălii Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Sălii",
+       "w": "Sălii",
+       "heb": "הַבַּיִת",
+       "translit": "habait",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "casei (habait)",
        "dict_ro": "Radak notează o distincție terminologică fină: «Heichal» se referă la sala exterioară, principală, a Templului, spre diferență de Devir/Sfânta Sfintelor."
       },
       {
-       "t": ", "
+       "t": " "
+      },
+      {
+       "t": "Templului,",
+       "w": "Templului,",
+       "heb": "לַהֵיכָל",
+       "translit": "lahēhal",
+       "strong": "H1964",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "spre sala templului (lahēhal)",
+       "dict_ro": "Precizează identitatea sălii: Heichal, sala exterioară principală."
+      },
+      {
+       "t": " "
       },
       {
        "t": "erau din aur.",
@@ -13156,7 +13614,7 @@
        "translit": "zahav",
        "strong": "H2091",
        "pos": "substantiv, masculin singular",
-       "def_ro": "erau din aur. (zahav)",
+       "def_ro": "aur (zahav)",
        "dict_ro": "Încheie inventarul complet al obiectelor de aur ale Templului, confirmând opulența materialelor folosite pentru fiecare detaliu, de la mobilierul principal până la cele mai mici balamale."
       }
      ],
