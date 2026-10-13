@@ -78745,14 +78745,27 @@
        "t": " "
       },
       {
-       "t": "fecioară a lui Israel!",
-       "w": "fecioară a lui Israel!",
-       "heb": "בְּתוּלַת יִשְׂרָאֵל",
-       "translit": "betulat israēl",
+       "t": "fecioară a lui",
+       "w": "fecioară a lui",
+       "heb": "בְּתוּלַת",
+       "translit": "betulat",
+       "strong": "H1330",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "fecioara (betulat)",
+       "dict_ro": "Titlul «fecioara lui Israel» personifică poporul restaurat ca o mireasă întinerită, redată bucuriei dansului și tamburinelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel!",
+       "w": "Israel!",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "substantiv, feminin singular construct + nume propriu",
-       "def_ro": "fecioară a lui Israel! (betulat israēl)",
-       "dict_ro": "Metzudat David explică faptul că Israel este numit «fecioară» ca semn al dragostei neprihănite pe care Dumnezeu o are pentru popor."
+       "pos": "nume propriu",
+       "def_ro": "lui Israel! (israēl)",
+       "dict_ro": "Titlul «fecioara lui Israel» personifică poporul restaurat ca o mireasă întinerită, redată bucuriei dansului și tamburinelor."
       },
       {
        "t": " "
@@ -79000,14 +79013,27 @@
        "t": " "
       },
       {
-       "t": "pe muntele lui Efraim:",
-       "w": "pe muntele lui Efraim:",
-       "heb": "בְּהַר אֶפְרָיִם",
-       "translit": "behar efraim",
+       "t": "pe muntele lui",
+       "w": "pe muntele lui",
+       "heb": "בְּהַר",
+       "translit": "behar",
+       "strong": "H2022",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "pe muntele (behar)",
+       "dict_ro": "Muntele lui Efraim, chemat aici să proclame pelerinajul spre Țion, confirmă restaurarea unității dintre regatul de nord și cultul central."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Efraim:",
+       "w": "Efraim:",
+       "heb": "אֶפְרָיִם",
+       "translit": "efraim",
        "strong": "H669",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "pe muntele lui Efraim: (behar efraim)",
-       "dict_ro": "Muntele Efraim este locul de unde se dă semnalul chemării la pelerinaj."
+       "pos": "nume propriu",
+       "def_ro": "Efraim: (efraim)",
+       "dict_ro": "Muntele lui Efraim, chemat aici să proclame pelerinajul spre Țion, confirmă restaurarea unității dintre regatul de nord și cultul central."
       },
       {
        "t": " „"
@@ -79278,14 +79304,27 @@
        "t": " "
       },
       {
-       "t": "rămășița lui Israel!»",
-       "w": "rămășița lui Israel!»",
-       "heb": "שְׁאֵרִית יִשְׂרָאֵל",
-       "translit": "șeērit israēl",
+       "t": "rămășița lui",
+       "w": "rămășița lui",
+       "heb": "שְׁאֵרִית",
+       "translit": "șeērit",
+       "strong": "H7611",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "rămășița (șeērit)",
+       "dict_ro": "Rămășița lui Israel, salvată și adunată, devine subiectul cântării de bucurie chemate să răsune printre neamuri."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel!»",
+       "w": "Israel!»",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "substantiv, feminin singular construct + nume propriu",
-       "def_ro": "rămășița lui Israel!» (șeērit israēl)",
-       "dict_ro": "«Rămășița lui Israel» desemnează pe cei supraviețuitori ai exilului, obiectul central al mântuirii promise."
+       "pos": "nume propriu",
+       "def_ro": "lui Israel!» (israēl)",
+       "dict_ro": "Rămășița lui Israel, salvată și adunată, devine subiectul cântării de bucurie chemate să răsune printre neamuri."
       }
      ],
      "textCompare": [
@@ -79696,14 +79735,27 @@
        "t": " "
       },
       {
-       "t": "cuvântul DOMNULUI,",
-       "w": "cuvântul DOMNULUI,",
-       "heb": "דְבַר יְהוָה",
-       "translit": "devar Adonai",
+       "t": "cuvântul",
+       "w": "cuvântul",
+       "heb": "דְבַר",
+       "translit": "devar",
+       "strong": "H1697",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "cuvântul (devar)",
+       "dict_ro": "Chemarea neamurilor să asculte «cuvântul DOMNULUI» confirmă dimensiunea universală a vestirii adunării lui Israel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "cuvântul DOMNULUI, (devar Adonai)",
-       "dict_ro": "Chemarea se adresează direct neamurilor, nu doar lui Israel, extinzând vestirea universal."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Chemarea neamurilor să asculte «cuvântul DOMNULUI» confirmă dimensiunea universală a vestirii adunării lui Israel."
       },
       {
        "t": " "
@@ -80008,14 +80060,27 @@
        "t": " "
       },
       {
-       "t": "pe înălțimea Ționului,",
-       "w": "pe înălțimea Ționului,",
-       "heb": "בִמְרוֹם צִיּוֹן",
-       "translit": "vimrom țion",
+       "t": "pe înălțimea",
+       "w": "pe înălțimea",
+       "heb": "בִמְרוֹם",
+       "translit": "vimrom",
+       "strong": "H4791",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "pe înălțimea (vimrom)",
+       "dict_ro": "Înălțimea Ționului, loc al cântării de bucurie, marchează centrul geografic al restaurării promise poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Ționului,",
+       "w": "Ționului,",
+       "heb": "צִיּוֹן",
+       "translit": "țion",
        "strong": "H6726",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "pe înălțimea Ționului, (vimrom țion)",
-       "dict_ro": "Metzudat David explică «rum Țion» ca înălțimea și demnitatea Templului reconstruit."
+       "pos": "nume propriu",
+       "def_ro": "Ționului, (țion)",
+       "dict_ro": "Înălțimea Ționului, loc al cântării de bucurie, marchează centrul geografic al restaurării promise poporului."
       },
       {
        "t": " "
@@ -80034,14 +80099,27 @@
        "t": " "
       },
       {
-       "t": "la bunătățile DOMNULUI,",
-       "w": "la bunătățile DOMNULUI,",
-       "heb": "אֶל טוּב יְהוָה",
-       "translit": "el tuv Adonai",
+       "t": "la bunătățile",
+       "w": "la bunătățile",
+       "heb": "אֶל טוּב",
+       "translit": "el tuv",
+       "strong": "H2898",
+       "pos": "prepoziție + substantiv, masculin singular construct",
+       "def_ro": "la bunătatea (el tuv)",
+       "dict_ro": "Șuvoiul de popor venind la bunătățile DOMNULUI — grâne, vin, untdelemn, turme — descrie abundența materială a restaurării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "prepoziție + substantiv, masculin singular construct + nume propriu",
-       "def_ro": "spre bunătatea DOMNULUI, (el tuv Adonai)",
-       "dict_ro": "Radak explică «a veni șuvoi» ca o mișcare grăbită, asemenea unui râu, spre abundența revărsată de DOMNUL."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Șuvoiul de popor venind la bunătățile DOMNULUI — grâne, vin, untdelemn, turme — descrie abundența materială a restaurării."
       },
       {
        "t": " "
@@ -80462,14 +80540,27 @@
        "t": " "
       },
       {
-       "t": "– rostirea DOMNULUI.”",
-       "w": "– rostirea DOMNULUI.”",
-       "heb": "נְאֻם יְהוָה",
-       "translit": "neum Adonai",
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn promisiunea de restaurare și consolare adresată lui Efraim și Rahelei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.”",
+       "w": "DOMNULUI.”",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI.” (neum Adonai)",
-       "dict_ro": "Formula solemnă pecetluiește promisiunea restaurării cultului și a prosperității."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn promisiunea de restaurare și consolare adresată lui Efraim și Rahelei."
       }
      ],
      "textCompare": [
@@ -80578,14 +80669,27 @@
        "t": " "
       },
       {
-       "t": "Rahel plânge",
-       "w": "Rahel plânge",
-       "heb": "רָחֵל מְבַכָּה",
-       "translit": "rahēl mevaka",
+       "t": "Rahel",
+       "w": "Rahel",
+       "heb": "רָחֵל",
+       "translit": "rahēl",
+       "strong": "H7354",
+       "pos": "nume propriu",
+       "def_ro": "Rahel (rahēl)",
+       "dict_ro": "Rahel, strămoașa lui Efraim și Manase, plânge aici simbolic pentru copiii ei exilați, imagine citată de Matei pentru pruncii uciși la Bethleem."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "plânge",
+       "w": "plânge",
+       "heb": "מְבַכָּה",
+       "translit": "mevaka",
        "strong": "H1058",
-       "pos": "nume propriu + verb, piel participiu",
-       "def_ro": "Rahel plângând (rahēl mevaka)",
-       "dict_ro": "Rashi redă o tradiție midrashică amplă: patriarhii și matriarhele s-au rugat să înduplece pe Dumnezeu, fără succes, până a intervenit Rahel."
+       "pos": "verb, piel participiu",
+       "def_ro": "plângând (mevaka)",
+       "dict_ro": "Rahel, strămoașa lui Efraim și Manase, plânge aici simbolic pentru copiii ei exilați, imagine citată de Matei pentru pruncii uciși la Bethleem."
       },
       {
        "t": " "
@@ -80804,14 +80908,27 @@
        "t": " "
       },
       {
-       "t": "– rostirea DOMNULUI –",
-       "w": "– rostirea DOMNULUI –",
-       "heb": "נְאֻם יְהוָה",
-       "translit": "neum Adonai",
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn promisiunea de restaurare și consolare adresată lui Efraim și Rahelei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI –",
+       "w": "DOMNULUI –",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI – (neum Adonai)",
-       "dict_ro": "Formula solemnă garantează certitudinea acestei răsplăți."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn promisiunea de restaurare și consolare adresată lui Efraim și Rahelei."
       },
       {
        "t": " "
@@ -80900,14 +81017,27 @@
        "t": " "
       },
       {
-       "t": "– rostirea DOMNULUI –",
-       "w": "– rostirea DOMNULUI –",
-       "heb": "נְאֻם יְהוָה",
-       "translit": "neum Adonai",
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn promisiunea de restaurare și consolare adresată lui Efraim și Rahelei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI –",
+       "w": "DOMNULUI –",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI – (neum Adonai)",
-       "dict_ro": "Formula solemnă încheie confirmarea promisiunii."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn promisiunea de restaurare și consolare adresată lui Efraim și Rahelei."
       },
       {
        "t": " și "
@@ -81567,14 +81697,27 @@
        "t": " "
       },
       {
-       "t": "– rostirea DOMNULUI.",
-       "w": "– rostirea DOMNULUI.",
-       "heb": "נְאֻם יְהוָה",
-       "translit": "neum Adonai",
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn promisiunea de restaurare și consolare adresată lui Efraim și Rahelei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI. (neum Adonai)",
-       "dict_ro": "Formula solemnă finală pecetluiește toată profeția de mângâiere a capitolului."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn promisiunea de restaurare și consolare adresată lui Efraim și Rahelei."
       }
      ],
      "textCompare": [
