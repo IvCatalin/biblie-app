@@ -64906,14 +64906,27 @@
        "t": " – "
       },
       {
-       "t": "rostirea DOMNULUI.",
-       "w": "rostirea DOMNULUI.",
-       "heb": "נְאֻם יְהֹוָה",
-       "translit": "neum Adonai",
+       "t": "rostirea",
+       "w": "rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn cuvântul profetic drept oracol divin autentic, nu părere omenească."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהֹוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI. (neum Adonai)",
-       "dict_ro": "Formula solemnă marchează certitudinea profetică a pedepsei."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn cuvântul profetic drept oracol divin autentic, nu părere omenească."
       },
       {
        "t": " "
@@ -65139,14 +65152,27 @@
        "t": " "
       },
       {
-       "t": "DOMNUL, Dumnezeul nostru,",
-       "w": "DOMNUL, Dumnezeul nostru,",
-       "heb": "יְהוָה אֱלֹהֵינוּ",
-       "translit": "Adonai elohēnu",
+       "t": "DOMNUL,",
+       "w": "DOMNUL,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL, (Adonai)",
+       "dict_ro": "Poporul recunoaște, în disperarea sa, că tăcerea și pedeapsa vin direct de la DOMNUL, Dumnezeul lui Israel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Dumnezeul nostru,",
+       "w": "Dumnezeul nostru,",
+       "heb": "אֱלֹהֵינוּ",
+       "translit": "elohēnu",
        "strong": "H430",
-       "pos": "nume propriu + substantiv, masculin plural construct + sufix",
-       "def_ro": "DOMNUL, Dumnezeul nostru, (Adonai elohēnu)",
-       "dict_ro": "Dubla invocare a Numelui divin arată recunoașterea sursei adevărate a pedepsei."
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "Dumnezeul nostru, (elohēnu)",
+       "dict_ro": "Poporul recunoaște, în disperarea sa, că tăcerea și pedeapsa vin direct de la DOMNUL, Dumnezeul lui Israel."
       },
       {
        "t": " "
@@ -65601,14 +65627,27 @@
        "t": " "
       },
       {
-       "t": "– rostirea DOMNULUI.",
-       "w": "– rostirea DOMNULUI.",
-       "heb": "נְאֻם יְהוָה",
-       "translit": "neum Adonai",
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn cuvântul profetic drept oracol divin autentic, nu părere omenească."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהֹוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI. (neum Adonai)",
-       "dict_ro": "Formula finală confirmă autoritatea divină a acestei amenințări."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn cuvântul profetic drept oracol divin autentic, nu părere omenească."
       }
      ],
      "textCompare": [
@@ -66741,14 +66780,27 @@
        "t": " "
       },
       {
-       "t": "– rostirea DOMNULUI.",
-       "w": "– rostirea DOMNULUI.",
-       "heb": "נְאֻם יְהוָה",
-       "translit": "neum Adonai",
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn cuvântul profetic drept oracol divin autentic, nu părere omenească."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהֹוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI. (neum Adonai)",
-       "dict_ro": "Formula solemnă pecetluiește acuzația divină."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn cuvântul profetic drept oracol divin autentic, nu părere omenească."
       }
      ],
      "textCompare": [
@@ -67170,14 +67222,27 @@
        "t": " "
       },
       {
-       "t": "– rostirea DOMNULUI.",
-       "w": "– rostirea DOMNULUI.",
-       "heb": "נְאֻם יְהוָה",
-       "translit": "neum Adonai",
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn cuvântul profetic drept oracol divin autentic, nu părere omenească."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהֹוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI. (neum Adonai)",
-       "dict_ro": "Formula finală confirmă autoritatea mesajului divin."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn cuvântul profetic drept oracol divin autentic, nu părere omenească."
       }
      ],
      "textCompare": [
@@ -67235,14 +67300,27 @@
        "t": " "
       },
       {
-       "t": "DOMNUL Oștirilor:",
-       "w": "DOMNUL Oștirilor:",
-       "heb": "יְהוָה צְבָאוֹת",
-       "translit": "Adonai țevaot",
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "Titlul «DOMNUL Oștirilor» invocă autoritatea militară supremă a lui Dumnezeu, chemată aici să judece poporul necredincios."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Oștirilor:",
+       "w": "Oștirilor:",
+       "heb": "צְבָאוֹת",
+       "translit": "țevaot",
        "strong": "H6635",
-       "pos": "nume propriu + substantiv, masculin și feminin plural",
-       "def_ro": "DOMNUL Oștirilor: (Adonai țevaot)",
-       "dict_ro": "Formula introductivă solemnă marchează pedeapsa divină ca răspuns direct la păcatele descrise."
+       "pos": "substantiv, masculin și feminin plural",
+       "def_ro": "Oștirilor: (țevaot)",
+       "dict_ro": "Titlul «DOMNUL Oștirilor» invocă autoritatea militară supremă a lui Dumnezeu, chemată aici să judece poporul necredincios."
       },
       {
        "t": " „"
@@ -67551,14 +67629,27 @@
        "t": " "
       },
       {
-       "t": "– rostirea DOMNULUI –",
-       "w": "– rostirea DOMNULUI –",
-       "heb": "נְאֻם יְהוָה",
-       "translit": "neum Adonai",
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn cuvântul profetic drept oracol divin autentic, nu părere omenească."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI –",
+       "w": "DOMNULUI –",
+       "heb": "יְהֹוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI – (neum Adonai)",
-       "dict_ro": "Formula solemnă întărește autoritatea acestei judecăți divine."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn cuvântul profetic drept oracol divin autentic, nu părere omenească."
       },
       {
        "t": " „"
@@ -67884,14 +67975,27 @@
      "translit": "Venatati et-Ierușalaim legalim meon tanim veet-arei Iehuda eten șemama mibli ioșev.",
      "tokens": [
       {
-       "t": "Voi preface Ierusalimul",
-       "w": "Voi preface Ierusalimul",
-       "heb": "וְנָתַתִּי יְרוּשָׁלִַם",
-       "translit": "venatati ierușalam",
+       "t": "Voi preface",
+       "w": "Voi preface",
+       "heb": "וְנָתַתִּי",
+       "translit": "venatati",
+       "strong": "H5414",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și voi da (venatati)",
+       "dict_ro": "Ierusalimul însuși, cetatea sfântă, devine ținta directă a pedepsei divine — ruine și vizuină de șerpi."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Ierusalimul",
+       "w": "Ierusalimul",
+       "heb": "יְרוּשָׁלִַם",
+       "translit": "ierușalam",
        "strong": "H3389",
-       "pos": "verb, qal perfect consecutiv + nume propriu",
-       "def_ro": "și voi face Ierusalimul (venatati ierușalam)",
-       "dict_ro": "Formula directă a pedepsei divine asupra capitalei."
+       "pos": "nume propriu",
+       "def_ro": "Ierusalimul (ierușalam)",
+       "dict_ro": "Ierusalimul însuși, cetatea sfântă, devine ținta directă a pedepsei divine — ruine și vizuină de șerpi."
       },
       {
        "t": " "
@@ -67923,14 +68027,27 @@
        "t": " "
       },
       {
-       "t": "iar orașele din Iuda",
-       "w": "iar orașele din Iuda",
-       "heb": "וְאֶת עָרֵי יְהוּדָה",
-       "translit": "veet arē iehuda",
+       "t": "iar orașele din",
+       "w": "iar orașele din",
+       "heb": "וְאֶת עָרֵי",
+       "translit": "veet arē",
+       "strong": "H5892",
+       "pos": "marcă a complementului direct + substantiv, feminin plural construct",
+       "def_ro": "și cetățile (veet arē)",
+       "dict_ro": "Pedeapsa, extinsă de la capitală la întregul regat al lui Iuda, confirmă amploarea totală a dezastrului prevestit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iuda",
+       "w": "Iuda",
+       "heb": "יְהוּדָה",
+       "translit": "iehuda",
        "strong": "H3063",
-       "pos": "marcă a complementului direct + substantiv, feminin plural construct + nume propriu",
-       "def_ro": "și cetățile lui Iuda (veet arē iehuda)",
-       "dict_ro": "Pedeapsa se extinde de la capitală la toate cetățile lui Iuda."
+       "pos": "nume propriu",
+       "def_ro": "Iuda (iehuda)",
+       "dict_ro": "Pedeapsa, extinsă de la capitală la întregul regat al lui Iuda, confirmă amploarea totală a dezastrului prevestit."
       },
       {
        "t": " "
@@ -68053,14 +68170,27 @@
        "t": " "
       },
       {
-       "t": "gura DOMNULUI",
-       "w": "gura DOMNULUI",
-       "heb": "פִּי יְהוָה",
-       "translit": "pi Adonai",
+       "t": "gura",
+       "w": "gura",
+       "heb": "פִּי",
+       "translit": "pi",
+       "strong": "H6310",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "gura (pi)",
+       "dict_ro": "«Gura DOMNULUI» desemnează revelația profetică directă, singura în stare să explice de ce țara a fost pustiită."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "gura DOMNULUI (pi Adonai)",
-       "dict_ro": "Un astfel de om trebuie să fie și un profet adevărat, căruia Dumnezeu i-a vorbit direct."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "«Gura DOMNULUI» desemnează revelația profetică directă, singura în stare să explice de ce țara a fost pustiită."
       },
       {
        "t": " "
@@ -68469,27 +68599,53 @@
        "t": " "
       },
       {
-       "t": "DOMNUL Oștirilor,",
-       "w": "DOMNUL Oștirilor,",
-       "heb": "יְהוָה צְבָאוֹת",
-       "translit": "Adonai țevaot",
-       "strong": "H6635",
-       "pos": "nume propriu + substantiv, masculin și feminin plural",
-       "def_ro": "DOMNUL Oștirilor, (Adonai țevaot)",
-       "dict_ro": "Formula solemnă introduce pedeapsa ca o consecință directă a abandonării Torei."
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "Titlul «DOMNUL Oștirilor» invocă autoritatea militară supremă a lui Dumnezeu, chemată aici să judece poporul necredincios."
       },
       {
        "t": " "
       },
       {
-       "t": "Dumnezeul lui Israel:",
-       "w": "Dumnezeul lui Israel:",
-       "heb": "אֱלֹהֵי יִשְׂרָאֵל",
-       "translit": "elohē israēl",
+       "t": "Oștirilor,",
+       "w": "Oștirilor,",
+       "heb": "צְבָאוֹת",
+       "translit": "țevaot",
+       "strong": "H6635",
+       "pos": "substantiv, masculin și feminin plural",
+       "def_ro": "Oștirilor, (țevaot)",
+       "dict_ro": "Titlul «DOMNUL Oștirilor» invocă autoritatea militară supremă a lui Dumnezeu, chemată aici să judece poporul necredincios."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Dumnezeul lui",
+       "w": "Dumnezeul lui",
+       "heb": "אֱלֹהֵי",
+       "translit": "elohē",
+       "strong": "H430",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "Dumnezeul (elohē)",
+       "dict_ro": "Titlul complet, «DOMNUL Oștirilor, Dumnezeul lui Israel», adaugă apartenența legământului la autoritatea militară invocată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel:",
+       "w": "Israel:",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "substantiv, masculin plural construct + nume propriu",
-       "def_ro": "Dumnezeul lui Israel: (elohē israēl)",
-       "dict_ro": "Formula solemnă introduce pedeapsa ca o consecință directă a abandonării Torei."
+       "pos": "nume propriu",
+       "def_ro": "lui Israel: (israēl)",
+       "dict_ro": "Titlul complet, «DOMNUL Oștirilor, Dumnezeul lui Israel», adaugă apartenența legământului la autoritatea militară invocată."
       },
       {
        "t": " „"
@@ -68748,14 +68904,27 @@
        "t": " "
       },
       {
-       "t": "DOMNUL Oștirilor:",
-       "w": "DOMNUL Oștirilor:",
-       "heb": "יְהוָה צְבָאוֹת",
-       "translit": "Adonai țevaot",
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "Titlul «DOMNUL Oștirilor» invocă autoritatea militară supremă a lui Dumnezeu, chemată aici să poruncească bocitoarelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Oștirilor:",
+       "w": "Oștirilor:",
+       "heb": "צְבָאוֹת",
+       "translit": "țevaot",
        "strong": "H6635",
-       "pos": "nume propriu + substantiv, masculin și feminin plural",
-       "def_ro": "DOMNUL Oștirilor: (Adonai țevaot)",
-       "dict_ro": "Formula solemnă introduce porunca de a pregăti bocetul pentru dezastrul iminent."
+       "pos": "substantiv, masculin și feminin plural",
+       "def_ro": "Oștirilor: (țevaot)",
+       "dict_ro": "Titlul «DOMNUL Oștirilor» invocă autoritatea militară supremă a lui Dumnezeu, chemată aici să poruncească bocitoarelor."
       },
       {
        "t": " „"
@@ -69239,14 +69408,27 @@
        "t": " "
       },
       {
-       "t": "cuvântul DOMNULUI!",
-       "w": "cuvântul DOMNULUI!",
-       "heb": "דְּבַר יְהוָה",
-       "translit": "devar Adonai",
+       "t": "cuvântul",
+       "w": "cuvântul",
+       "heb": "דְּבַר",
+       "translit": "devar",
+       "strong": "H1697",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "cuvântul (devar)",
+       "dict_ro": "Chemarea directă a femeilor să asculte «cuvântul DOMNULUI» confirmă autoritatea profetică a cântecului de jale care urmează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI!",
+       "w": "DOMNULUI!",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "cuvântul DOMNULUI! (devar Adonai)",
-       "dict_ro": "Radak explică faptul că bocetul este, de obicei, adresat femeilor, pentru că sunt mai sensibile la durere decât bărbații."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI! (Adonai)",
+       "dict_ro": "Chemarea directă a femeilor să asculte «cuvântul DOMNULUI» confirmă autoritatea profetică a cântecului de jale care urmează."
       },
       {
        "t": " "
@@ -69563,14 +69745,27 @@
        "t": " "
       },
       {
-       "t": "rostirea DOMNULUI:",
-       "w": "rostirea DOMNULUI:",
-       "heb": "נְאֻם יְהוָה",
-       "translit": "neum Adonai",
+       "t": "rostirea",
+       "w": "rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn cuvântul profetic drept oracol divin autentic, nu părere omenească."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI:",
+       "w": "DOMNULUI:",
+       "heb": "יְהֹוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI: (neum Adonai)",
-       "dict_ro": "Formula poruncii divine introduce o imagine finală, extrem de crudă, a morții în masă."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn cuvântul profetic drept oracol divin autentic, nu părere omenească."
       },
       {
        "t": " „"
@@ -70070,14 +70265,27 @@
        "t": " "
       },
       {
-       "t": "– rostirea DOMNULUI!",
-       "w": "– rostirea DOMNULUI!",
-       "heb": "נְאֻם יְהוָה",
-       "translit": "neum Adonai",
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn cuvântul profetic drept oracol divin autentic, nu părere omenească."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI!",
+       "w": "DOMNULUI!",
+       "heb": "יְהֹוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI! (neum Adonai)",
-       "dict_ro": "Formula finală solemnă încheie întreaga profeție cu autoritate divină deplină."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn cuvântul profetic drept oracol divin autentic, nu părere omenească."
       }
      ],
      "textCompare": [
