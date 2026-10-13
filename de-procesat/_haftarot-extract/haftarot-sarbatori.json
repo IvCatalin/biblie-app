@@ -82515,14 +82515,27 @@
        "t": " "
       },
       {
-       "t": "a spus DOMNUL,",
-       "w": "a spus DOMNUL,",
-       "heb": "אָמַר יְהוָה",
-       "translit": "amar Adonai",
+       "t": "a spus",
+       "w": "a spus",
+       "heb": "אָמַר",
+       "translit": "amar",
+       "strong": "H559",
+       "pos": "verb, qal perfect",
+       "def_ro": "a spus (amar)",
+       "dict_ro": "Formula «a spus DOMNUL» pecetluiește solemn promisiunea păcii și a tămăduirii, pentru cel de departe și cel de aproape."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNUL,",
+       "w": "DOMNUL,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "verb, qal perfect + nume propriu",
-       "def_ro": "a spus DOMNUL, (amar Adonai)",
-       "dict_ro": "Formula confirmă autoritatea divină a promisiunii de pace."
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL, (Adonai)",
+       "dict_ro": "Formula «a spus DOMNUL» pecetluiește solemn promisiunea păcii și a tămăduirii, pentru cel de departe și cel de aproape."
       },
       {
        "t": " "
@@ -82871,14 +82884,27 @@
        "t": " "
       },
       {
-       "t": "casei lui Iacov –",
-       "w": "casei lui Iacov –",
-       "heb": "וּלְבֵית יַעֲקֹב",
-       "translit": "ulvēt iaakov",
+       "t": "casei lui",
+       "w": "casei lui",
+       "heb": "וּלְבֵית",
+       "translit": "ulvēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "și casei (ulvēt)",
+       "dict_ro": "«Casa lui Iacov» denumește aici întregul popor, chemat să-și vadă limpede nelegiuirile și greșelile prin postul adevărat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iacov –",
+       "w": "Iacov –",
+       "heb": "יַעֲקֹב",
+       "translit": "iaakov",
        "strong": "H3290",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "și casei lui Iacov – (ulvēt iaakov)",
-       "dict_ro": "Rashi distinge «casa lui Iacov» ca fiind oamenii de rând, al căror păcat, chiar și intenționat, este tratat mai blând, ca o neglijență."
+       "pos": "nume propriu",
+       "def_ro": "lui Iacov – (iaakov)",
+       "dict_ro": "«Casa lui Iacov» denumește aici întregul popor, chemat să-și vadă limpede nelegiuirile și greșelile prin postul adevărat."
       },
       {
        "t": " "
@@ -83591,14 +83617,27 @@
        "t": " "
       },
       {
-       "t": "plăcută DOMNULUI?",
-       "w": "plăcută DOMNULUI?",
-       "heb": "רָצוֹן לַיהוָה",
-       "translit": "rațon la'Adonai",
+       "t": "plăcută",
+       "w": "plăcută",
+       "heb": "רָצוֹן",
+       "translit": "rațon",
+       "strong": "H7522",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "plăcută (rațon)",
+       "dict_ro": "Întrebarea retorică pune în contrast postul exterior, ritualist, cu adevăratul post plăcut DOMNULUI, definit în versetele următoare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI?",
+       "w": "DOMNULUI?",
+       "heb": "לַיהוָה",
+       "translit": "la'Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular + nume propriu",
-       "def_ro": "plăcută DOMNULUI? (rațon la'Adonai)",
-       "dict_ro": "Adevărata «zi plăcută DOMNULUI» cere mai mult decât ritualul exterior descris."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI? (la'Adonai)",
+       "dict_ro": "Întrebarea retorică pune în contrast postul exterior, ritualist, cu adevăratul post plăcut DOMNULUI, definit în versetele următoare."
       }
      ],
      "textCompare": [
@@ -84008,14 +84047,40 @@
        "t": " "
       },
       {
-       "t": "și slava DOMNULUI te va aduna.",
-       "w": "și slava DOMNULUI te va aduna.",
-       "heb": "כְּבוֹד יְהוָה יַאַסְפֶךָ",
-       "translit": "kevod Adonai iaasfeha",
+       "t": "și slava",
+       "w": "și slava",
+       "heb": "כְּבוֹד",
+       "translit": "kevod",
+       "strong": "H3519",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "și slava (kevod)",
+       "dict_ro": "Slava DOMNULUI, care merge înaintea celui drept și îl adună din urmă, încheie imaginea luminii care izbucnește ca zorii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Slava DOMNULUI, care merge înaintea celui drept și îl adună din urmă, încheie imaginea luminii care izbucnește ca zorii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "te va aduna.",
+       "w": "te va aduna.",
+       "heb": "יַאַסְפֶךָ",
+       "translit": "iaasfeha",
        "strong": "H622",
-       "pos": "substantiv, masculin și feminin singular construct + nume propriu + verb, qal imperfect + sufix",
-       "def_ro": "slava DOMNULUI te va aduna. (kevod Adonai iaasfeha)",
-       "dict_ro": "Radak explică faptul că slava DOMNULUI va aduna sufletul într-un loc de cinste, rezervat celor drepți."
+       "pos": "verb, qal imperfect + sufix",
+       "def_ro": "te va aduna. (iaasfeha)",
+       "dict_ro": "Slava DOMNULUI, care merge înaintea celui drept și îl adună din urmă, încheie imaginea luminii care izbucnește ca zorii."
       }
      ],
      "textCompare": [
@@ -84341,14 +84406,40 @@
      "translit": "Venahaḥa ADONAI tamid vehisbia betzahtzahot nafșeha veatzmoteha iahaliț vehaita kegan rave uhemoțza maim așer lo-iehazevu meimav.",
      "tokens": [
       {
-       "t": "DOMNUL te va călăuzi veșnic,",
-       "w": "DOMNUL te va călăuzi veșnic,",
-       "heb": "וְנָחֲךָ יְהוָה תָּמִיד",
-       "translit": "venahaha Adonai tamid",
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "Călăuzirea neîntreruptă a DOMNULUI, hrana sufletului în vremuri de secetă și întărirea oaselor descriu binecuvântarea postului adevărat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "te va călăuzi",
+       "w": "te va călăuzi",
+       "heb": "וְנָחֲךָ",
+       "translit": "venahaha",
+       "strong": "H5148",
+       "pos": "verb, qal perfect consecutiv + sufix",
+       "def_ro": "și te va călăuzi (venahaha)",
+       "dict_ro": "Călăuzirea neîntreruptă a DOMNULUI, hrana sufletului în vremuri de secetă și întărirea oaselor descriu binecuvântarea postului adevărat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "veșnic,",
+       "w": "veșnic,",
+       "heb": "תָּמִיד",
+       "translit": "tamid",
        "strong": "H8548",
-       "pos": "verb, qal perfect consecutiv + sufix + nume propriu + substantiv, masculin singular",
-       "def_ro": "și te va călăuzi DOMNUL necurmat, (venahaha Adonai tamid)",
-       "dict_ro": "Radak explică faptul că DOMNUL va veghea asupra ta constant, oriunde te-ai întoarce."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "necontenit, (tamid)",
+       "dict_ro": "Călăuzirea neîntreruptă a DOMNULUI, hrana sufletului în vremuri de secetă și întărirea oaselor descriu binecuvântarea postului adevărat."
       },
       {
        "t": " "
@@ -84683,14 +84774,27 @@
        "t": " "
       },
       {
-       "t": "[zi] sfântă a DOMNULUI,",
-       "w": "[zi] sfântă a DOMNULUI,",
-       "heb": "לִקְדוֹשׁ יְהוָה",
-       "translit": "likdoș Adonai",
+       "t": "[zi] sfântă a",
+       "w": "[zi] sfântă a",
+       "heb": "לִקְדוֹשׁ",
+       "translit": "likdoș",
+       "strong": "H6918",
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "sfântă a (likdoș)",
+       "dict_ro": "Numirea Șabatului drept «desfătare» și «[zi] sfântă a DOMNULUI» transformă odihna rituală într-o bucurie activă, nu o simplă abstinență."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "adjectiv, masculin singular + nume propriu",
-       "def_ro": "sfântă DOMNULUI, (likdoș Adonai)",
-       "dict_ro": "Sfințenia Șabatului este direct atribuită DOMNULUI, sursa ei absolută."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Numirea Șabatului drept «desfătare» și «[zi] sfântă a DOMNULUI» transformă odihna rituală într-o bucurie activă, nu o simplă abstinență."
       },
       {
        "t": " "
@@ -84830,27 +84934,92 @@
        "t": " "
       },
       {
-       "t": "și te voi hrăni cu moștenirea tatălui tău Iacov,",
-       "w": "și te voi hrăni cu moștenirea tatălui tău Iacov,",
-       "heb": "וְהַאֲכַלְתִּיךָ נַחֲלַת יַעֲקֹב אָבִיךָ",
-       "translit": "vehaahaltiha nahalat iaakov aviha",
-       "strong": "H1",
-       "pos": "verb, hifil perfect consecutiv + sufix + substantiv, feminin singular construct + nume propriu + substantiv, masculin singular construct + sufix",
-       "def_ro": "și te voi hrăni cu moștenirea lui Iacov, tatăl tău, (vehaahaltiha nahalat iaakov aviha)",
-       "dict_ro": "Rashi explică faptul că moștenirea lui Iacov este una fără limite fixe, spre diferență de moștenirea restrânsă promisă lui Avraam."
+       "t": "și te voi hrăni",
+       "w": "și te voi hrăni",
+       "heb": "וְהַאֲכַלְתִּיךָ",
+       "translit": "vehaahaltiha",
+       "strong": "H398",
+       "pos": "verb, hifil perfect consecutiv + sufix",
+       "def_ro": "și te voi hrăni (vehaahaltiha)",
+       "dict_ro": "Moștenirea lui Iacov, promisă celui care cinstește cu adevărat Șabatul, leagă răsplata postului de însăși promisiunea patriarhală a țării."
       },
       {
        "t": " "
       },
       {
-       "t": "căci gura DOMNULUI a vorbit.",
-       "w": "căci gura DOMNULUI a vorbit.",
-       "heb": "כִּי פִּי יְהוָה דִּבֵּר",
-       "translit": "ki pi Adonai dibēr",
+       "t": "cu moștenirea",
+       "w": "cu moștenirea",
+       "heb": "נַחֲלַת",
+       "translit": "nahalat",
+       "strong": "H5159",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "cu moștenirea (nahalat)",
+       "dict_ro": "Moștenirea lui Iacov, promisă celui care cinstește cu adevărat Șabatul, leagă răsplata postului de însăși promisiunea patriarhală a țării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "tatălui tău",
+       "w": "tatălui tău",
+       "heb": "אָבִיךָ",
+       "translit": "aviha",
+       "strong": "H1",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "tatălui tău, (aviha)",
+       "dict_ro": "Moștenirea lui Iacov, promisă celui care cinstește cu adevărat Șabatul, leagă răsplata postului de însăși promisiunea patriarhală a țării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iacov,",
+       "w": "Iacov,",
+       "heb": "יַעֲקֹב",
+       "translit": "iaakov",
+       "strong": "H3290",
+       "pos": "nume propriu",
+       "def_ro": "Iacov, (iaakov)",
+       "dict_ro": "Moștenirea lui Iacov, promisă celui care cinstește cu adevărat Șabatul, leagă răsplata postului de însăși promisiunea patriarhală a țării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "căci gura",
+       "w": "căci gura",
+       "heb": "כִּי פִּי",
+       "translit": "ki pi",
+       "strong": "H6310",
+       "pos": "conjuncție + substantiv, masculin singular construct",
+       "def_ro": "căci gura (ki pi)",
+       "dict_ro": "Formula finală, «gura DOMNULUI a vorbit», pecetluiește autoritatea divină a întregii promisiuni legate de post și Șabat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula finală, «gura DOMNULUI a vorbit», pecetluiește autoritatea divină a întregii promisiuni legate de post și Șabat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a vorbit.",
+       "w": "a vorbit.",
+       "heb": "דִּבֵּר",
+       "translit": "dibēr",
        "strong": "H1696",
-       "pos": "conjuncție + substantiv, masculin singular construct + nume propriu + verb, piel perfect",
-       "def_ro": "căci gura DOMNULUI a vorbit. (ki pi Adonai dibēr)",
-       "dict_ro": "Formula finală, «gura DOMNULUI a vorbit», garantează certitudinea deplină a întregii promisiuni."
+       "pos": "verb, piel perfect",
+       "def_ro": "a vorbit. (dibēr)",
+       "dict_ro": "Formula finală, «gura DOMNULUI a vorbit», pecetluiește autoritatea divină a întregii promisiuni legate de post și Șabat."
       }
      ],
      "textCompare": [
