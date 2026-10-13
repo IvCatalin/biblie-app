@@ -73094,79 +73094,157 @@
        "t": " "
       },
       {
-       "t": "de la muntele lui Efraim,",
-       "w": "de la muntele lui Efraim,",
-       "heb": "מֵהַר אֶפְרָיִם",
-       "translit": "mēhar efraim",
+       "t": "de la muntele lui",
+       "w": "de la muntele lui",
+       "heb": "מֵהַר",
+       "translit": "mēhar",
+       "strong": "H2022",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "de la muntele (mēhar)",
+       "dict_ro": "Muntele lui Efraim, regiune deluroasă din centrul Israelului, situează geografic familia lui Elkana."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Efraim,",
+       "w": "Efraim,",
+       "heb": "אֶפְרָיִם",
+       "translit": "efraim",
        "strong": "H669",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "din muntele lui Efraim, (mēhar efraim)",
-       "dict_ro": "Radak notează că Elkana era levit, locuind pe teritoriul lui Efraim, nu din tribul lui Efraim propriu-zis."
+       "pos": "nume propriu",
+       "def_ro": "Efraim, (efraim)",
+       "dict_ro": "Muntele lui Efraim, regiune deluroasă din centrul Israelului, situează geografic familia lui Elkana."
       },
       {
        "t": " "
       },
       {
-       "t": "pe numele său Elkana,",
-       "w": "pe numele său Elkana,",
-       "heb": "וּשְׁמוֹ אֶלְקָנָה",
-       "translit": "ușmo elkana",
+       "t": "pe numele său",
+       "w": "pe numele său",
+       "heb": "וּשְׁמוֹ",
+       "translit": "ușmo",
+       "strong": "H8034",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "și numele lui (ușmo)",
+       "dict_ro": "Elkana, soțul Hanei, aparține, potrivit genealogiei date, familiei leviților din linia lui Korah, stabiliți pe muntele lui Efraim."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Elkana,",
+       "w": "Elkana,",
+       "heb": "אֶלְקָנָה",
+       "translit": "elkana",
        "strong": "H511",
-       "pos": "substantiv, masculin singular construct + sufix + nume propriu",
-       "def_ro": "și numele lui Elkana, (ușmo elkana)",
-       "dict_ro": "Numele Elkana identifică personajul central al genealogiei."
+       "pos": "nume propriu",
+       "def_ro": "Elkana, (elkana)",
+       "dict_ro": "Elkana, soțul Hanei, aparține, potrivit genealogiei date, familiei leviților din linia lui Korah, stabiliți pe muntele lui Efraim."
       },
       {
        "t": " "
       },
       {
-       "t": "fiul lui Ieroham,",
-       "w": "fiul lui Ieroham,",
-       "heb": "בֶּן יְרֹחָם",
-       "translit": "ben ieroham",
+       "t": "fiul lui",
+       "w": "fiul lui",
+       "heb": "בֶּן",
+       "translit": "ben",
+       "strong": "H1121",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "fiul lui (ben)",
+       "dict_ro": "Genealogia lui Elkana, înșirată pe patru generații, confirmă apartenența sa la o familie levitică respectabilă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Ieroham,",
+       "w": "Ieroham,",
+       "heb": "יְרֹחָם",
+       "translit": "ieroham",
        "strong": "H3395",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "fiul lui Ieroham, (ben ieroham)",
-       "dict_ro": "Genealogia înaintată pas cu pas confirmă descendența levitică a familiei."
+       "pos": "nume propriu",
+       "def_ro": "Ieroham, (ieroham)",
+       "dict_ro": "Genealogia lui Elkana, înșirată pe patru generații, confirmă apartenența sa la o familie levitică respectabilă."
       },
       {
        "t": " "
       },
       {
-       "t": "fiul lui Elihu,",
-       "w": "fiul lui Elihu,",
-       "heb": "בֶּן אֱלִיהוּא",
-       "translit": "ben elihu",
+       "t": "fiul lui",
+       "w": "fiul lui",
+       "heb": "בֶּן",
+       "translit": "ben",
+       "strong": "H1121",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "fiul lui (ben)",
+       "dict_ro": "Genealogia lui Elkana, înșirată pe patru generații, confirmă apartenența sa la o familie levitică respectabilă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Elihu,",
+       "w": "Elihu,",
+       "heb": "אֱלִיהוּא",
+       "translit": "elihu",
        "strong": "H453",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "fiul lui Elihu, (ben elihu)",
-       "dict_ro": "Rashi identifică această linie genealogică cu urmașii lui Korah, menționați în Cronici."
+       "pos": "nume propriu",
+       "def_ro": "Elihu, (elihu)",
+       "dict_ro": "Genealogia lui Elkana, înșirată pe patru generații, confirmă apartenența sa la o familie levitică respectabilă."
       },
       {
        "t": " "
       },
       {
-       "t": "fiul lui Tohu,",
-       "w": "fiul lui Tohu,",
-       "heb": "בֶּן תֹּחוּ",
-       "translit": "ben tohu",
+       "t": "fiul lui",
+       "w": "fiul lui",
+       "heb": "בֶּן",
+       "translit": "ben",
+       "strong": "H1121",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "fiul lui (ben)",
+       "dict_ro": "Genealogia lui Elkana, înșirată pe patru generații, confirmă apartenența sa la o familie levitică respectabilă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Tohu,",
+       "w": "Tohu,",
+       "heb": "תֹּחוּ",
+       "translit": "tohu",
        "strong": "H8459",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "fiul lui Tohu, (ben tohu)",
-       "dict_ro": "Continuarea genealogiei confirmă legătura cu neamul lui Korah."
+       "pos": "nume propriu",
+       "def_ro": "Tohu, (tohu)",
+       "dict_ro": "Genealogia lui Elkana, înșirată pe patru generații, confirmă apartenența sa la o familie levitică respectabilă."
       },
       {
        "t": " "
       },
       {
-       "t": "fiul lui Țuf,",
-       "w": "fiul lui Țuf,",
-       "heb": "בֶן צוּף",
-       "translit": "ven țuf",
+       "t": "fiul lui",
+       "w": "fiul lui",
+       "heb": "בֶן",
+       "translit": "ven",
+       "strong": "H1121",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "fiul lui (ven)",
+       "dict_ro": "Țuf, strămoșul eponim al regiunii Țuf din care vine Elkana, confirmă rădăcinile efraimite ale familiei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Țuf,",
+       "w": "Țuf,",
+       "heb": "צוּף",
+       "translit": "țuf",
        "strong": "H6689",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "fiul lui Țuf, (ven țuf)",
-       "dict_ro": "Numele strămoșului Țuf dă numele regiunii Ramataim-Țofim."
+       "pos": "nume propriu",
+       "def_ro": "Țuf, (țuf)",
+       "dict_ro": "Țuf, strămoșul eponim al regiunii Țuf din care vine Elkana, confirmă rădăcinile efraimite ale familiei."
       },
       {
        "t": " "
@@ -73492,14 +73570,27 @@
        "t": " "
       },
       {
-       "t": "DOMNULUI Oștirilor,",
-       "w": "DOMNULUI Oștirilor,",
-       "heb": "לַיהוָה צְבָאוֹת",
-       "translit": "la'Adonai țevaot",
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "לַיהוָה",
+       "translit": "la'Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (la'Adonai)",
+       "dict_ro": "Titlul «DOMNUL Oștirilor» apare aici pentru prima dată în Scriptură, chiar în acest episod legat de Hana și Șilo."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Oștirilor,",
+       "w": "Oștirilor,",
+       "heb": "צְבָאוֹת",
+       "translit": "țevaot",
        "strong": "H6635",
-       "pos": "nume propriu + substantiv, masculin și feminin plural",
-       "def_ro": "DOMNULUI Oștirilor, (la'Adonai țevaot)",
-       "dict_ro": "Jertfele aduse DOMNULUI Oștirilor completează devoțiunea religioasă a familiei."
+       "pos": "substantiv, masculin și feminin plural",
+       "def_ro": "Oștirilor, (țevaot)",
+       "dict_ro": "Titlul «DOMNUL Oștirilor» apare aici pentru prima dată în Scriptură, chiar în acest episod legat de Hana și Șilo."
       },
       {
        "t": " "
@@ -73544,40 +73635,79 @@
        "t": " "
       },
       {
-       "t": "fii ai lui Eli,",
-       "w": "fii ai lui Eli,",
-       "heb": "בְנֵי עֵלִי",
-       "translit": "venē ēli",
+       "t": "fii ai lui",
+       "w": "fii ai lui",
+       "heb": "בְנֵי",
+       "translit": "venē",
+       "strong": "H1121",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "fiii lui (venē)",
+       "dict_ro": "Hofni și Pinhas, fiii lui Eli, vor fi descriși mai departe în carte drept preoți corupți, în contrast cu Samuel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Eli,",
+       "w": "Eli,",
+       "heb": "עֵלִי",
+       "translit": "ēli",
        "strong": "H5941",
-       "pos": "substantiv, masculin plural construct + nume propriu",
-       "def_ro": "fii ai lui Eli, (venē ēli)",
-       "dict_ro": "Menționarea celor doi fii ai lui Eli pregătește tema corupției preoțești care va urma în capitolele următoare."
+       "pos": "nume propriu",
+       "def_ro": "Eli, (ēli)",
+       "dict_ro": "Eli, marele preot și judecător din Șilo, va deveni mentorul spiritual al tânărului Samuel."
       },
       {
        "t": " "
       },
       {
-       "t": "Hofni și Pinhas,",
-       "w": "Hofni și Pinhas,",
-       "heb": "חָפְנִי וּפִנְחָס",
-       "translit": "hafni ufinhas",
+       "t": "Hofni",
+       "w": "Hofni",
+       "heb": "חָפְנִי",
+       "translit": "hafni",
+       "strong": "H2652",
+       "pos": "nume propriu",
+       "def_ro": "Hofni, (hafni)",
+       "dict_ro": "Hofni și Pinhas, fiii lui Eli, vor fi descriși mai departe în carte drept preoți corupți, în contrast cu Samuel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și Pinhas,",
+       "w": "și Pinhas,",
+       "heb": "וּפִנְחָס",
+       "translit": "ufinhas",
        "strong": "H6372",
-       "pos": "nume propriu + nume propriu",
-       "def_ro": "Hofni și Pinhas, (hafni ufinhas)",
-       "dict_ro": "Numele Hofni și Pinhas identifică explicit cei doi preoți implicați mai departe în narațiune."
+       "pos": "nume propriu",
+       "def_ro": "și Pinhas, (ufinhas)",
+       "dict_ro": "Hofni și Pinhas, fiii lui Eli, vor fi descriși mai departe în carte drept preoți corupți, în contrast cu Samuel."
       },
       {
        "t": " "
       },
       {
-       "t": "erau preoți ai DOMNULUI.",
-       "w": "erau preoți ai DOMNULUI.",
-       "heb": "כֹּהֲנִים לַיהוָה",
-       "translit": "kohanim la'Adonai",
+       "t": "erau preoți ai",
+       "w": "erau preoți ai",
+       "heb": "כֹּהֲנִים",
+       "translit": "kohanim",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "preoți ai (kohanim)",
+       "dict_ro": "Funcția preoțească a lui Hofni și Pinhas la Șilo face și mai grav abuzul lor descris mai departe în carte."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "לַיהוָה",
+       "translit": "la'Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin plural + nume propriu",
-       "def_ro": "preoți ai DOMNULUI. (kohanim la'Adonai)",
-       "dict_ro": "Statutul lor de preoți ai DOMNULUI accentuează gravitatea viitoarei lor decăderi morale."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI. (la'Adonai)",
+       "dict_ro": "Funcția preoțească a lui Hofni și Pinhas la Șilo face și mai grav abuzul lor descris mai departe în carte."
       }
      ],
      "textCompare": [
@@ -73622,14 +73752,40 @@
        "t": " "
       },
       {
-       "t": "în ziua în care Elkana își aducea ofranda,",
-       "w": "în ziua în care Elkana își aducea ofranda,",
-       "heb": "וַיִּזְבַּח אֶלְקָנָה",
-       "translit": "vaizbah elkana",
+       "t": "în ziua în care",
+       "w": "în ziua în care",
+       "heb": "וַיִּזְבַּח",
+       "translit": "vaizbah",
+       "strong": "H2076",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a jertfit (vaizbah)",
+       "dict_ro": "Obiceiul anual al lui Elkana de a împărți porții din jertfă familiei sale pregătește contrastul cu partea mai mare dată Hanei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Elkana",
+       "w": "Elkana",
+       "heb": "אֶלְקָנָה",
+       "translit": "elkana",
        "strong": "H511",
-       "pos": "verb, qal imperfect consecutiv + nume propriu",
-       "def_ro": "și a jertfit Elkana, (vaizbah elkana)",
-       "dict_ro": "Metzudat David explică faptul că Elkana aducea o jertfă de pace, din care împărțea porții."
+       "pos": "nume propriu",
+       "def_ro": "Elkana (elkana)",
+       "dict_ro": "Obiceiul anual al lui Elkana de a împărți porții din jertfă familiei sale pregătește contrastul cu partea mai mare dată Hanei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "își aducea ofranda,",
+       "w": "își aducea ofranda,",
+       "heb": "וַיִּזְבַּח",
+       "translit": "vaizbah",
+       "strong": "H2076",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "jertfea, (vaizbah)",
+       "dict_ro": "Obiceiul anual al lui Elkana de a împărți porții din jertfă familiei sale pregătește contrastul cu partea mai mare dată Hanei."
       },
       {
        "t": " "
@@ -74040,14 +74196,27 @@
        "t": " "
       },
       {
-       "t": "la casa DOMNULUI,",
-       "w": "la casa DOMNULUI,",
-       "heb": "בְּבֵית יְהוָה",
-       "translit": "bevēt Adonai",
+       "t": "la casa",
+       "w": "la casa",
+       "heb": "בְּבֵית",
+       "translit": "bevēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "la casa (bevēt)",
+       "dict_ro": "Casa DOMNULUI la Șilo, sanctuarul central înainte de Templul din Ierusalim, era locul pelerinajului anual al familiei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "în casa DOMNULUI, (bevēt Adonai)",
-       "dict_ro": "Fiecare urcare la casa DOMNULUI devenea ocazia repetată a necazului."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Casa DOMNULUI la Șilo, sanctuarul central înainte de Templul din Ierusalim, era locul pelerinajului anual al familiei."
       },
       {
        "t": " "
@@ -74323,14 +74492,27 @@
      "translit": "Vatakom Hana aharei ohla ve'Șilo veaharei șato ve'Eli hakohen ioșev al-hakise al-mezuzat heikhal ADONAI.",
      "tokens": [
       {
-       "t": "Hana s-a ridicat",
-       "w": "Hana s-a ridicat",
-       "heb": "וַתָּקָם חַנָּה",
-       "translit": "vatakam hana",
+       "t": "Hana",
+       "w": "Hana",
+       "heb": "חַנָּה",
+       "translit": "hana",
        "strong": "H2584",
-       "pos": "verb, qal imperfect consecutiv + nume propriu",
-       "def_ro": "și s-a sculat Hana (vatakam hana)",
-       "dict_ro": "Hana se ridică pentru a merge să se roage, după masa comună a familiei."
+       "pos": "nume propriu",
+       "def_ro": "Hana (hana)",
+       "dict_ro": "Hana, soția îndurerată și stearpă a lui Elkana, se ridică să se roage singură, fără martori, înaintea DOMNULUI."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "s-a ridicat",
+       "w": "s-a ridicat",
+       "heb": "וַתָּקָם",
+       "translit": "vatakam",
+       "strong": "H6965",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și s-a ridicat (vatakam)",
+       "dict_ro": "Hana, soția îndurerată și stearpă a lui Elkana, se ridică să se roage singură, fără martori, înaintea DOMNULUI."
       },
       {
        "t": " "
@@ -74453,14 +74635,27 @@
        "t": " "
       },
       {
-       "t": "Sanctuarului DOMNULUI.",
-       "w": "Sanctuarului DOMNULUI.",
-       "heb": "הֵיכַל יְהוָה",
-       "translit": "hēhal Adonai",
+       "t": "Sanctuarului",
+       "w": "Sanctuarului",
+       "heb": "הֵיכַל",
+       "translit": "hēhal",
+       "strong": "H1964",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "sanctuarul (hēhal)",
+       "dict_ro": "Poziția lui Eli la ușorul sanctuarului îl face martorul direct al rugăciunii tăcute a Hanei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "Sanctuarului DOMNULUI. (hēhal Adonai)",
-       "dict_ro": "Poziția lui Eli la intrarea Sanctuarului îi permite să o observe pe Hana rugându-se."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI. (Adonai)",
+       "dict_ro": "Poziția lui Eli la ușorul sanctuarului îl face martorul direct al rugăciunii tăcute a Hanei."
       }
      ],
      "textCompare": [
@@ -74612,14 +74807,27 @@
        "t": " „"
       },
       {
-       "t": "DOAMNE al Oștirilor,",
-       "w": "DOAMNE al Oștirilor,",
-       "heb": "יְהוָה צְבָאוֹת",
-       "translit": "Adonai țevaot",
+       "t": "DOAMNE",
+       "w": "DOAMNE",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOAMNE (Adonai)",
+       "dict_ro": "Hana se adresează direct lui DOMNUL Oștirilor, titlul militar al lui Dumnezeu, în jurământul ei pentru un fiu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "al Oștirilor,",
+       "w": "al Oștirilor,",
+       "heb": "צְבָאוֹת",
+       "translit": "țevaot",
        "strong": "H6635",
-       "pos": "nume propriu + substantiv, masculin și feminin plural",
-       "def_ro": "DOAMNE al Oștirilor, (Adonai țevaot)",
-       "dict_ro": "Numele «DOAMNE al Oștirilor» este folosit aici pentru prima dată în Biblie, cu semnificație teologică profundă, potrivit lui Rashi."
+       "pos": "substantiv, masculin și feminin plural",
+       "def_ro": "al Oștirilor, (țevaot)",
+       "dict_ro": "Hana se adresează direct lui DOMNUL Oștirilor, titlul militar al lui Dumnezeu, în jurământul ei pentru un fiu."
       },
       {
        "t": " "
@@ -74716,14 +74924,27 @@
        "t": " "
       },
       {
-       "t": "îl voi da [să fie al] DOMNULUI",
-       "w": "îl voi da [să fie al] DOMNULUI",
-       "heb": "וּנְתַתִּיו לַיהוָה",
-       "translit": "untativ la'Adonai",
+       "t": "îl voi da [să fie al]",
+       "w": "îl voi da [să fie al]",
+       "heb": "וּנְתַתִּיו",
+       "translit": "untativ",
+       "strong": "H5414",
+       "pos": "verb, qal perfect consecutiv + sufix",
+       "def_ro": "și îl voi da (untativ)",
+       "dict_ro": "Jurământul Hanei prefigurează nazireatul lui Samuel, dedicat DOMNULUI pe viață, cu briciul interzis asupra capului lui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "לַיהוָה",
+       "translit": "la'Adonai",
        "strong": "H3068",
-       "pos": "verb, qal perfect consecutiv + sufix + nume propriu",
-       "def_ro": "și îl voi da DOMNULUI (untativ la'Adonai)",
-       "dict_ro": "Promisiunea de a-l dărui DOMNULUI este condiția jurământului, în schimbul împlinirii cererii."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (la'Adonai)",
+       "dict_ro": "Jurământul Hanei prefigurează nazireatul lui Samuel, dedicat DOMNULUI pe viață, cu briciul interzis asupra capului lui."
       },
       {
        "t": " "
@@ -75078,14 +75299,40 @@
      "translit": "Vaiomer eleha Eli ad-matai tiștakarin hasiri et-ieneh mealaih.",
      "tokens": [
       {
-       "t": "Și Eli i-a spus:",
-       "w": "Și Eli i-a spus:",
-       "heb": "וַיֹּאמֶר אֵלֶיהָ עֵלִי",
-       "translit": "vaiomer ēleha ēli",
+       "t": "Și",
+       "w": "Și",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a spus (vaiomer)",
+       "dict_ro": "Eli interpretează greșit, din exterior, tăcerea și mișcarea buzelor Hanei drept semn de beție, nu de rugăciune intensă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Eli",
+       "w": "Eli",
+       "heb": "עֵלִי",
+       "translit": "ēli",
        "strong": "H5941",
-       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + nume propriu",
-       "def_ro": "și a spus la ea Eli: (vaiomer ēleha ēli)",
-       "dict_ro": "Eli intervine direct, pe baza interpretării lui greșite asupra comportamentului Hanei."
+       "pos": "nume propriu",
+       "def_ro": "Eli (ēli)",
+       "dict_ro": "Eli interpretează greșit, din exterior, tăcerea și mișcarea buzelor Hanei drept semn de beție, nu de rugăciune intensă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "i-a spus:",
+       "w": "i-a spus:",
+       "heb": "אֵלֶיהָ",
+       "translit": "ēleha",
+       "strong": "H413",
+       "pos": "prepoziție + sufix",
+       "def_ro": "ei: (ēleha)",
+       "dict_ro": "Eli interpretează greșit, din exterior, tăcerea și mișcarea buzelor Hanei drept semn de beție, nu de rugăciune intensă."
       },
       {
        "t": " „"
@@ -75155,14 +75402,27 @@
      "translit": "Vataan Hana vatomar lo adoni ișa keșat-ruah anohi veiain veșehar lo șatiti vaeșpoh et-nafși lifnei ADONAI.",
      "tokens": [
       {
-       "t": "Hana a răspuns și a spus:",
-       "w": "Hana a răspuns și a spus:",
-       "heb": "וַתַּעַן חַנָּה וַתֹּאמֶר",
-       "translit": "vataan hana vatomer",
-       "strong": "H559",
-       "pos": "verb, qal imperfect consecutiv + nume propriu + verb, qal imperfect consecutiv",
-       "def_ro": "și a răspuns Hana și a spus: (vataan hana vatomer)",
-       "dict_ro": "Hana corectează direct acuzația nedreaptă a lui Eli."
+       "t": "Hana",
+       "w": "Hana",
+       "heb": "חַנָּה",
+       "translit": "hana",
+       "strong": "H2584",
+       "pos": "nume propriu",
+       "def_ro": "Hana (hana)",
+       "dict_ro": "Hana corectează explicit presupunerea lui Eli, descriindu-și starea drept durere sufletească, nu beție."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a răspuns și a spus:",
+       "w": "a răspuns și a spus:",
+       "heb": "וַתַּעַן וַתֹּאמֶר",
+       "translit": "vataan vatomer",
+       "strong": "H6030/H559",
+       "pos": "verb, qal imperfect consecutiv + verb, qal imperfect consecutiv",
+       "def_ro": "și a răspuns și a spus: (vataan vatomer)",
+       "dict_ro": "Hana corectează explicit presupunerea lui Eli, descriindu-și starea drept durere sufletească, nu beție."
       },
       {
        "t": " „"
@@ -75413,14 +75673,40 @@
      "translit": "Vaiaan Eli vaiomer lehi leșalom v'Elohei Israel iten et-șelateh așer șaalt meimo.",
      "tokens": [
       {
-       "t": "Iar Eli a răspuns și a spus:",
-       "w": "Iar Eli a răspuns și a spus:",
-       "heb": "וַיַּעַן עֵלִי וַיֹּאמֶר",
-       "translit": "vaiaan ēli vaiomer",
+       "t": "Iar",
+       "w": "Iar",
+       "heb": "וַיַּעַן",
+       "translit": "vaiaan",
+       "strong": "H6030",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a răspuns (vaiaan)",
+       "dict_ro": "Eli, convins de sinceritatea Hanei, îi dă binecuvântarea sa ca răspuns, fără să știe încă conținutul exact al jurământului ei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Eli",
+       "w": "Eli",
+       "heb": "עֵלִי",
+       "translit": "ēli",
+       "strong": "H5941",
+       "pos": "nume propriu",
+       "def_ro": "Eli (ēli)",
+       "dict_ro": "Eli, convins de sinceritatea Hanei, îi dă binecuvântarea sa ca răspuns, fără să știe încă conținutul exact al jurământului ei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a răspuns și a spus:",
+       "w": "a răspuns și a spus:",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
        "strong": "H559",
-       "pos": "verb, qal imperfect consecutiv + nume propriu + verb, qal imperfect consecutiv",
-       "def_ro": "și a răspuns Eli și a spus: (vaiaan ēli vaiomer)",
-       "dict_ro": "Eli își schimbă atitudinea, convins de explicația sinceră a Hanei."
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a spus: (vaiomer)",
+       "dict_ro": "Eli, convins de sinceritatea Hanei, îi dă binecuvântarea sa ca răspuns, fără să știe încă conținutul exact al jurământului ei."
       },
       {
        "t": " „"
@@ -75439,14 +75725,27 @@
        "t": " "
       },
       {
-       "t": "Dumnezeul lui Israel",
-       "w": "Dumnezeul lui Israel",
-       "heb": "וֵאלֹהֵי יִשְׂרָאֵל",
-       "translit": "vēlohē israēl",
+       "t": "Dumnezeul lui",
+       "w": "Dumnezeul lui",
+       "heb": "וֵאלֹהֵי",
+       "translit": "vēlohē",
+       "strong": "H430",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "și Dumnezeul (vēlohē)",
+       "dict_ro": "Binecuvântarea lui Eli invocă direct pe Dumnezeul lui Israel, confirmând autoritatea sa de mare preot și judecător."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "substantiv, masculin plural construct + nume propriu",
-       "def_ro": "și Dumnezeul lui Israel (vēlohē israēl)",
-       "dict_ro": "Numirea «Dumnezeul lui Israel» subliniază autoritatea divină a promisiunii lui Eli."
+       "pos": "nume propriu",
+       "def_ro": "lui Israel (israēl)",
+       "dict_ro": "Binecuvântarea lui Eli invocă direct pe Dumnezeul lui Israel, confirmând autoritatea sa de mare preot și judecător."
       },
       {
        "t": " "
@@ -75780,27 +76079,53 @@
        "t": " "
       },
       {
-       "t": "pe soția sa Hana",
-       "w": "pe soția sa Hana",
-       "heb": "חַנָּה אִשְׁתּוֹ",
-       "translit": "hana ișto",
+       "t": "pe soția sa",
+       "w": "pe soția sa",
+       "heb": "אִשְׁתּוֹ",
+       "translit": "ișto",
        "strong": "H802",
-       "pos": "nume propriu + substantiv, feminin singular construct + sufix",
-       "def_ro": "pe Hana, soția lui, (hana ișto)",
-       "dict_ro": "Rashi explică faptul că din acest verset se deduce interdicția ca un oaspete să aibă relații conjugale cu soția sa în casa altcuiva."
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "soția lui (ișto)",
+       "dict_ro": "Formula «a cunoscut-o» marchează eufemistic unirea conjugală din care, prin providența divină, se va zămisli Samuel."
       },
       {
        "t": " "
       },
       {
-       "t": "și DOMNUL Și-a amintit de ea.",
-       "w": "și DOMNUL Și-a amintit de ea.",
-       "heb": "וַיִּזְכְּרֶהָ יְהוָה",
-       "translit": "vaizkereha Adonai",
+       "t": "Hana",
+       "w": "Hana",
+       "heb": "חַנָּה",
+       "translit": "hana",
+       "strong": "H2584",
+       "pos": "nume propriu",
+       "def_ro": "Hana (hana)",
+       "dict_ro": "Formula «a cunoscut-o» marchează eufemistic unirea conjugală din care, prin providența divină, se va zămisli Samuel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și DOMNUL",
+       "w": "și DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "verb, qal imperfect consecutiv + sufix + nume propriu",
-       "def_ro": "și și-a amintit de ea DOMNUL. (vaizkereha Adonai)",
-       "dict_ro": "Amintirea divină a Hanei este semnul direct al împlinirii promisiunii, ducând la zămislire."
+       "pos": "nume propriu",
+       "def_ro": "și DOMNUL (Adonai)",
+       "dict_ro": "Aducerea-aminte a DOMNULUI, după anii de sterilitate, marchează răspunsul direct la rugăciunea și jurământul Hanei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Și-a amintit de ea.",
+       "w": "Și-a amintit de ea.",
+       "heb": "וַיִּזְכְּרֶהָ",
+       "translit": "vaizkereha",
+       "strong": "H2142",
+       "pos": "verb, qal imperfect consecutiv + sufix",
+       "def_ro": "și Și-a amintit de ea. (vaizkereha)",
+       "dict_ro": "Aducerea-aminte a DOMNULUI, după anii de sterilitate, marchează răspunsul direct la rugăciunea și jurământul Hanei."
       }
      ],
      "textCompare": [
@@ -75923,14 +76248,27 @@
        "t": " „"
       },
       {
-       "t": "De la DOMNUL l-am cerut.”",
-       "w": "De la DOMNUL l-am cerut.”",
-       "heb": "מֵיְהוָה שְׁאִלְתִּיו",
-       "translit": "mē'Adonai șeiltiv",
+       "t": "De la DOMNUL",
+       "w": "De la DOMNUL",
+       "heb": "מֵיְהוָה",
+       "translit": "mē'Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "de la DOMNUL (mē'Adonai)",
+       "dict_ro": "Numele Samuel, derivat din «cerut de la Dumnezeu», rezumă chiar motivul numirii lui, explicat de Hana însăși."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "l-am cerut.”",
+       "w": "l-am cerut.”",
+       "heb": "שְׁאִלְתִּיו",
+       "translit": "șeiltiv",
        "strong": "H7592",
-       "pos": "nume propriu + verb, qal perfect + sufix",
-       "def_ro": "de la DOMNUL l-am cerut pe el.” (mē'Adonai șeiltiv)",
-       "dict_ro": "Numele însuși devine o mărturie permanentă a originii divine a nașterii copilului."
+       "pos": "verb, qal perfect + sufix",
+       "def_ro": "l-am cerut. (șeiltiv)",
+       "dict_ro": "Numele Samuel, derivat din «cerut de la Dumnezeu», rezumă chiar motivul numirii lui, explicat de Hana însăși."
       }
      ],
      "textCompare": [
@@ -75970,14 +76308,40 @@
      "translit": "Vaiaal haiș Elkana vehol-beito lizboah l'ADONAI et-zevah haiamim veet-nidro.",
      "tokens": [
       {
-       "t": "Omul Elkana a urcat",
-       "w": "Omul Elkana a urcat",
-       "heb": "וַיַּעַל הָאִישׁ אֶלְקָנָה",
-       "translit": "vaiaal haiș elkana",
+       "t": "Omul",
+       "w": "Omul",
+       "heb": "הָאִישׁ",
+       "translit": "haiș",
+       "strong": "H376",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "omul (haiș)",
+       "dict_ro": "Pelerinajul anual al lui Elkana, cu toată familia, continuă obiceiul descris la începutul capitolului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Elkana",
+       "w": "Elkana",
+       "heb": "אֶלְקָנָה",
+       "translit": "elkana",
        "strong": "H511",
-       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular + nume propriu",
-       "def_ro": "și a urcat omul Elkana (vaiaal haiș elkana)",
-       "dict_ro": "Reluarea pelerinajului anual marchează continuitatea obiceiului familiei."
+       "pos": "nume propriu",
+       "def_ro": "Elkana (elkana)",
+       "dict_ro": "Pelerinajul anual al lui Elkana, cu toată familia, continuă obiceiul descris la începutul capitolului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a urcat",
+       "w": "a urcat",
+       "heb": "וַיַּעַל",
+       "translit": "vaiaal",
+       "strong": "H5927",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a urcat (vaiaal)",
+       "dict_ro": "Pelerinajul anual al lui Elkana, cu toată familia, continuă obiceiul descris la începutul capitolului."
       },
       {
        "t": " "
@@ -75996,14 +76360,27 @@
        "t": " "
       },
       {
-       "t": "ca să aducă ofrande DOMNULUI,",
-       "w": "ca să aducă ofrande DOMNULUI,",
-       "heb": "לִזְבֹּחַ לַיהוָה",
-       "translit": "lizboah la'Adonai",
+       "t": "ca să aducă ofrande",
+       "w": "ca să aducă ofrande",
+       "heb": "לִזְבֹּחַ",
+       "translit": "lizboah",
+       "strong": "H2076",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "să jertfească (lizboah)",
+       "dict_ro": "Jurământul special al lui Elkana, alături de jertfa anuală obișnuită, arată implicarea lui deplină în promisiunea Hanei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "לַיהוָה",
+       "translit": "la'Adonai",
        "strong": "H3068",
-       "pos": "verb, qal infinitiv + nume propriu",
-       "def_ro": "ca să jertfească DOMNULUI, (lizboah la'Adonai)",
-       "dict_ro": "Jertfa DOMNULUI rămâne centrul devoțiunii familiale."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (la'Adonai)",
+       "dict_ro": "Jurământul special al lui Elkana, alături de jertfa anuală obișnuită, arată implicarea lui deplină în promisiunea Hanei."
       },
       {
        "t": " "
@@ -76138,14 +76515,27 @@
        "t": " "
       },
       {
-       "t": "Ne vom înfățișa înaintea DOMNULUI",
-       "w": "Ne vom înfățișa înaintea DOMNULUI",
-       "heb": "וְנִרְאָה אֶת פְּנֵי יְהוָה",
-       "translit": "venira et penē Adonai",
-       "strong": "H3068",
-       "pos": "verb, nifal perfect consecutiv + prepoziție + substantiv, masculin și feminin plural construct + nume propriu",
-       "def_ro": "și se va arăta fața DOMNULUI (venira et penē Adonai)",
-       "dict_ro": "Prezentarea în fața DOMNULUI marchează momentul oficial al dedicării lui Samuel."
+       "t": "Ne vom înfățișa",
+       "w": "Ne vom înfățișa",
+       "heb": "וְנִרְאָה",
+       "translit": "venira",
+       "strong": "H7200",
+       "pos": "verb, nifal perfect consecutiv",
+       "def_ro": "și se va arăta (venira)",
+       "dict_ro": "Hana alege să nu urce decât atunci când copilul va putea fi dedicat permanent la sanctuar, nu doar prezentat temporar."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "înaintea DOMNULUI",
+       "w": "înaintea DOMNULUI",
+       "heb": "פְּנֵי יְהוָה",
+       "translit": "penē Adonai",
+       "strong": "H6440/H3068",
+       "pos": "substantiv, masculin și feminin plural construct + nume propriu",
+       "def_ro": "înaintea DOMNULUI (penē Adonai)",
+       "dict_ro": "Hana alege să nu urce decât atunci când copilul va putea fi dedicat permanent la sanctuar, nu doar prezentat temporar."
       },
       {
        "t": " "
@@ -76324,14 +76714,40 @@
        "t": " "
       },
       {
-       "t": "fie ca DOMNUL să Își împlinească",
-       "w": "fie ca DOMNUL să Își împlinească",
-       "heb": "יָקֵם יְהוָה",
-       "translit": "iakēm Adonai",
+       "t": "fie ca",
+       "w": "fie ca",
+       "heb": "יָקֵם",
+       "translit": "iakēm",
+       "strong": "H6965",
+       "pos": "verb, hifil jusiv",
+       "def_ro": "să împlinească (iakēm)",
+       "dict_ro": "Elkana adaugă propria binecuvântare la planul Hanei, exprimând speranța ca jurământul ei să fie dus la îndeplinire de DOMNUL."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "verb, hifil jusiv + nume propriu",
-       "def_ro": "va împlini DOMNUL (iakēm Adonai)",
-       "dict_ro": "Rashi explică faptul că Elkana se referă la promisiunea lui Eli — că DOMNUL va da copilul la slujba Sa — nu la o parte pe care Hana ar putea-o schimba singură."
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "Elkana adaugă propria binecuvântare la planul Hanei, exprimând speranța ca jurământul ei să fie dus la îndeplinire de DOMNUL."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să Își împlinească",
+       "w": "să Își împlinească",
+       "heb": "יָקֵם",
+       "translit": "iakēm",
+       "strong": "H6965",
+       "pos": "verb, hifil jusiv",
+       "def_ro": "împlinească (iakēm)",
+       "dict_ro": "Elkana adaugă propria binecuvântare la planul Hanei, exprimând speranța ca jurământul ei să fie dus la îndeplinire de DOMNUL."
       },
       {
        "t": " "
@@ -76492,14 +76908,27 @@
        "t": " "
       },
       {
-       "t": "în Casa DOMNULUI,",
-       "w": "în Casa DOMNULUI,",
-       "heb": "בֵית יְהוָה",
-       "translit": "vēt Adonai",
+       "t": "în Casa",
+       "w": "în Casa",
+       "heb": "בֵית",
+       "translit": "vēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "la casa (vēt)",
+       "dict_ro": "Aducerea copilului la Casa DOMNULUI, cu jertfele cerute, marchează împlinirea efectivă a jurământului făcut de Hana."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "în Casa DOMNULUI, (vēt Adonai)",
-       "dict_ro": "Casa DOMNULUI din Șilo este locul exact al dedicării promise."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Aducerea copilului la Casa DOMNULUI, cu jertfele cerute, marchează împlinirea efectivă a jurământului făcut de Hana."
       },
       {
        "t": " "
@@ -76710,14 +77139,27 @@
        "t": " "
       },
       {
-       "t": "să se roage DOMNULUI.",
-       "w": "să se roage DOMNULUI.",
-       "heb": "לְהִתְפַּלֵּל אֶל יְהוָה",
-       "translit": "lehitpalēl el Adonai",
+       "t": "să se roage",
+       "w": "să se roage",
+       "heb": "לְהִתְפַּלֵּל",
+       "translit": "lehitpalēl",
+       "strong": "H6419",
+       "pos": "verb, hitpael infinitiv",
+       "def_ro": "să se roage (lehitpalēl)",
+       "dict_ro": "Hana își identifică explicit locul și momentul rugăciunii, ca dovadă certă pentru Eli a legăturii dintre jurământ și copilul adus acum."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "אֶל יְהוָה",
+       "translit": "el Adonai",
        "strong": "H3068",
-       "pos": "verb, hitpael infinitiv + prepoziție + nume propriu",
-       "def_ro": "ca să se roage spre DOMNUL. (lehitpalēl el Adonai)",
-       "dict_ro": "Confirmarea identității ei leagă acest moment direct de evenimentul descris mai înainte în capitol."
+       "pos": "prepoziție + nume propriu",
+       "def_ro": "DOMNULUI. (el Adonai)",
+       "dict_ro": "Hana își identifică explicit locul și momentul rugăciunii, ca dovadă certă pentru Eli a legăturii dintre jurământ și copilul adus acum."
       }
      ],
      "textCompare": [
