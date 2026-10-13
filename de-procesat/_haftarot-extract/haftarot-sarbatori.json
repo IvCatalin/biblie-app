@@ -108292,7 +108292,7 @@
        "strong": "H1961",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a fost, (vaihi)",
-       "dict_ro": "Formula de tranziție marchează trecerea de la moartea lui Moise la începutul conducerii lui Iosua, prima generație care nu l-a cunoscut personal pe DOMNUL la Sinai."
+       "dict_ro": "Formula introductivă marchează trecerea de la conducerea lui Moise la cea a lui Ioșua, imediat după moartea profetului."
       },
       {
        "t": " "
@@ -108305,7 +108305,7 @@
        "strong": "H310",
        "pos": "prepoziție",
        "def_ro": "după (aharē)",
-       "dict_ro": "Cartea Iosua se deschide chiar în umbra morții lui Moise, legând explicit noua conducere de sfârșitul celei vechi."
+       "dict_ro": "Moartea lui Moise, cel mai mare profet al lui Israel, deschide o perioadă de tranziție critică pentru popor."
       },
       {
        "t": " "
@@ -108318,137 +108318,7 @@
        "strong": "H4194",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "moartea (mot)",
-       "dict_ro": "Cartea Iosua se deschide chiar în umbra morții lui Moise, legând explicit noua conducere de sfârșitul celei vechi."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "Moise,",
-       "w": "Moise,",
-       "heb": "מֹשֶׁה",
-       "translit": "moșe",
-       "strong": "H4872",
-       "pos": "nume propriu",
-       "def_ro": "lui Moise, (moșe)",
-       "dict_ro": "Moise, legiuitorul și conducătorul Exodului, rămâne punctul de referință constant al întregului capitol."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "slujitorul",
-       "w": "slujitorul",
-       "heb": "עֶבֶד",
-       "translit": "eved",
-       "strong": "H5650",
-       "pos": "substantiv, masculin singular construct",
-       "def_ro": "slujitorul (eved)",
-       "dict_ro": "Titlul «slujitorul DOMNULUI», atribuit lui Moise chiar în versetul morții sale, confirmă rangul unic al profetului în tradiția iudaică."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "DOMNULUI,",
-       "w": "DOMNULUI,",
-       "heb": "יְהוָה",
-       "translit": "Adonai",
-       "strong": "H3068",
-       "pos": "nume propriu",
-       "def_ro": "DOMNULUI, (Adonai)",
-       "dict_ro": "Titlul «slujitorul DOMNULUI», atribuit lui Moise chiar în versetul morții sale, confirmă rangul unic al profetului în tradiția iudaică."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "că",
-       "w": "că",
-       "heb": "וַיֹּאמֶר",
-       "translit": "vaiomer",
-       "strong": "H559",
-       "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și (vaiomer)",
-       "dict_ro": "DOMNUL Se adresează direct lui Iosua, fără intermediar, exact cum vorbise cu Moise, confirmând continuitatea revelației profetice."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "DOMNUL",
-       "w": "DOMNUL",
-       "heb": "יְהוָה",
-       "translit": "Adonai",
-       "strong": "H3068",
-       "pos": "nume propriu",
-       "def_ro": "DOMNUL (Adonai)",
-       "dict_ro": "DOMNUL Se adresează direct lui Iosua, fără intermediar, exact cum vorbise cu Moise, confirmând continuitatea revelației profetice."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "i-a spus",
-       "w": "i-a spus",
-       "heb": "וַיֹּאמֶר",
-       "translit": "vaiomer",
-       "strong": "H559",
-       "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "a spus (vaiomer)",
-       "dict_ro": "DOMNUL Se adresează direct lui Iosua, fără intermediar, exact cum vorbise cu Moise, confirmând continuitatea revelației profetice."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "lui Ioșua,",
-       "w": "lui Ioșua,",
-       "heb": "אֶל יְהוֹשֻׁעַ",
-       "translit": "el iehoșua",
-       "strong": "H3091",
-       "pos": "prepoziție + nume propriu",
-       "def_ro": "lui Iosua, (el iehoșua)",
-       "dict_ro": "Iosua, fiul lui Nun, slujitorul credincios al lui Moise, devine acum conducătorul desemnat direct de DOMNUL."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "fiul lui",
-       "w": "fiul lui",
-       "heb": "בִּן",
-       "translit": "bin",
-       "strong": "H1121",
-       "pos": "substantiv, masculin singular construct",
-       "def_ro": "fiul (bin)",
-       "dict_ro": "Genealogia scurtă, fiul lui Nun, confirmă identitatea exactă a noului conducător, deja cunoscut din cărțile anterioare."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "Nun,",
-       "w": "Nun,",
-       "heb": "נוּן",
-       "translit": "nun",
-       "strong": "H5126",
-       "pos": "nume propriu",
-       "def_ro": "lui Nun, (nun)",
-       "dict_ro": "Nun, tatăl lui Iosua, din tribul lui Efraim, nu are alt rol în Scriptură decât acela de a-l fi zămislit pe viitorul conducător."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "care îl slujise pe",
-       "w": "care îl slujise pe",
-       "heb": "מְשָׁרֵת",
-       "translit": "meșarēt",
-       "strong": "H8334",
-       "pos": "verb, piel participiu",
-       "def_ro": "care slujise pe (meșarēt)",
-       "dict_ro": "Slujirea îndelungată a lui Iosua pe lângă Moise, atestată aici explicit, îl pregătise pentru rolul pe care îl primește acum."
+       "dict_ro": "Moartea lui Moise, cel mai mare profet al lui Israel, deschide o perioadă de tranziție critică pentru popor."
       },
       {
        "t": " "
@@ -108461,7 +108331,137 @@
        "strong": "H4872",
        "pos": "nume propriu",
        "def_ro": "Moise, (moșe)",
-       "dict_ro": "Slujirea îndelungată a lui Iosua pe lângă Moise, atestată aici explicit, îl pregătise pentru rolul pe care îl primește acum."
+       "dict_ro": "Moise, cel mai mare profet al lui Israel, a condus poporul din Egipt până la porțile Canaanului, fără a intra el însuși."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "slujitorul",
+       "w": "slujitorul",
+       "heb": "עֶבֶד",
+       "translit": "eved",
+       "strong": "H5650",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "slujitorul (eved)",
+       "dict_ro": "Titlul «slujitorul DOMNULUI», atribuit lui Moise, confirmă statutul său unic de mijlocitor al legământului la Sinai."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Titlul «slujitorul DOMNULUI», atribuit lui Moise, confirmă statutul său unic de mijlocitor al legământului la Sinai."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "că",
+       "w": "că",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a spus (vaiomer)",
+       "dict_ro": "DOMNUL se adresează direct lui Ioșua, succesorul desemnat încă din timpul vieții lui Moise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "DOMNUL se adresează direct lui Ioșua, succesorul desemnat încă din timpul vieții lui Moise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "i-a spus",
+       "w": "i-a spus",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a spus (vaiomer)",
+       "dict_ro": "DOMNUL se adresează direct lui Ioșua, succesorul desemnat încă din timpul vieții lui Moise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui Ioșua,",
+       "w": "lui Ioșua,",
+       "heb": "אֶל יְהוֹשֻׁעַ",
+       "translit": "el iehoșua",
+       "strong": "H3091",
+       "pos": "prepoziție + nume propriu",
+       "def_ro": "lui Ioșua, (el iehoșua)",
+       "dict_ro": "Ioșua, fiul lui Nun, era deja cunoscut ca slujitorul credincios al lui Moise, pregătit pentru conducere."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fiul lui",
+       "w": "fiul lui",
+       "heb": "בִּן",
+       "translit": "bin",
+       "strong": "H1121",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "fiul lui (bin)",
+       "dict_ro": "Genealogia lui Ioșua, fiul lui Nun, îl plasează în tribul lui Efraim, descendent al lui Iosif."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Nun,",
+       "w": "Nun,",
+       "heb": "נוּן",
+       "translit": "nun",
+       "strong": "H5126",
+       "pos": "nume propriu",
+       "def_ro": "Nun, (nun)",
+       "dict_ro": "Genealogia lui Ioșua, fiul lui Nun, îl plasează în tribul lui Efraim, descendent al lui Iosif."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care îl slujise pe",
+       "w": "care îl slujise pe",
+       "heb": "מְשָׁרֵת",
+       "translit": "meșarēt",
+       "strong": "H8334",
+       "pos": "verb, piel participiu",
+       "def_ro": "slujitorul lui (meșarēt)",
+       "dict_ro": "Ioșua, fiul lui Nun, era deja cunoscut ca slujitorul credincios al lui Moise, pregătit pentru conducere."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Moise,",
+       "w": "Moise,",
+       "heb": "מֹשֶׁה",
+       "translit": "moșe",
+       "strong": "H4872",
+       "pos": "nume propriu",
+       "def_ro": "Moise, (moșe)",
+       "dict_ro": "Ioșua, fiul lui Nun, era deja cunoscut ca slujitorul credincios al lui Moise, pregătit pentru conducere."
       },
       {
        "t": " "
@@ -108473,8 +108473,8 @@
        "translit": "lēmor",
        "strong": "H559",
        "pos": "verb, qal infinitiv",
-       "def_ro": "astfel: (lēmor)",
-       "dict_ro": "Formula introductivă obișnuită marchează începutul vorbirii directe a DOMNULUI către noul conducător."
+       "def_ro": "spunând: (lēmor)",
+       "dict_ro": "Formula introduce direct cuvintele DOMNULUI adresate lui Ioșua, redate ca discurs direct."
       }
      ],
      "textCompare": [
@@ -108516,17 +108516,14 @@
      "translit": "Moșe avdi met veata kum avor et-ha'Iarden haze ata vehol-haam haze el-haareț așer anohi noten lahem livnei Israel.",
      "tokens": [
       {
-       "t": "„"
-      },
-      {
-       "t": "Moise,",
-       "w": "Moise,",
+       "t": "„Moise,",
+       "w": "„Moise,",
        "heb": "מֹשֶׁה",
        "translit": "moșe",
        "strong": "H4872",
        "pos": "nume propriu",
        "def_ro": "Moise, (moșe)",
-       "dict_ro": "Anunțarea morții lui Moise, la persoana a treia, confirmă oficial trecerea autorității către Iosua."
+       "dict_ro": "Anunțul morții lui Moise, chiar la începutul discursului divin, confirmă oficial trecerea conducerii la Ioșua."
       },
       {
        "t": " "
@@ -108538,8 +108535,8 @@
        "translit": "avdi",
        "strong": "H5650",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "slujitorul Meu, (avdi)",
-       "dict_ro": "Titlul «slujitorul Meu», folosit de DOMNUL Însuși, repetă solemn demnitatea unică a lui Moise, chiar în clipa morții sale."
+       "def_ro": "slujitorul meu, (avdi)",
+       "dict_ro": "Anunțul morții lui Moise, chiar la începutul discursului divin, confirmă oficial trecerea conducerii la Ioșua."
       },
       {
        "t": " "
@@ -108552,7 +108549,7 @@
        "strong": "H4191",
        "pos": "verb, qal perfect",
        "def_ro": "a murit. (mēt)",
-       "dict_ro": "Anunțarea morții lui Moise, la persoana a treia, confirmă oficial trecerea autorității către Iosua."
+       "dict_ro": "Anunțul morții lui Moise, chiar la începutul discursului divin, confirmă oficial trecerea conducerii la Ioșua."
       },
       {
        "t": " "
@@ -108565,7 +108562,7 @@
        "strong": "H6258",
        "pos": "adverb",
        "def_ro": "și acum, (veata)",
-       "dict_ro": "Formula «și acum» marchează trecerea de la doliu la poruncă activă — Iosua trebuie să acționeze imediat, fără întârziere."
+       "dict_ro": "Formula «și acum» marchează trecerea de la constatarea morții lui Moise la porunca activă dată lui Ioșua."
       },
       {
        "t": " "
@@ -108578,7 +108575,7 @@
        "strong": "H6965",
        "pos": "verb, qal imperativ",
        "def_ro": "scoală-te! (kum)",
-       "dict_ro": "Formula «și acum» marchează trecerea de la doliu la poruncă activă — Iosua trebuie să acționeze imediat, fără întârziere."
+       "dict_ro": "Formula «și acum» marchează trecerea de la constatarea morții lui Moise la porunca activă dată lui Ioșua."
       },
       {
        "t": " "
@@ -108591,7 +108588,7 @@
        "strong": "H5674",
        "pos": "verb, qal imperativ",
        "def_ro": "treci (avor)",
-       "dict_ro": "Trecerea Iordanului, poruncită explicit chiar în prima vorbire a DOMNULUI, devine misiunea centrală a întregii cărți."
+       "dict_ro": "Trecerea Iordanului, poruncită lui Ioșua, repetă simbolic trecerea Mării Roșii de sub Moise, deschizând era cuceririi."
       },
       {
        "t": " "
@@ -108603,8 +108600,8 @@
        "translit": "haze",
        "strong": "H2088",
        "pos": "pronume demonstrativ",
-       "def_ro": "acesta (haze)",
-       "dict_ro": "Trecerea Iordanului, poruncită explicit chiar în prima vorbire a DOMNULUI, devine misiunea centrală a întregii cărți."
+       "def_ro": "acest (haze)",
+       "dict_ro": "Trecerea Iordanului, poruncită lui Ioșua, repetă simbolic trecerea Mării Roșii de sub Moise, deschizând era cuceririi."
       },
       {
        "t": " "
@@ -108617,7 +108614,7 @@
        "strong": "H3383",
        "pos": "nume propriu",
        "def_ro": "Iordan, (haiardēn)",
-       "dict_ro": "Iordanul, hotarul dintre pustie și Canaan, marchează linia simbolică a intrării în țara promisă."
+       "dict_ro": "Trecerea Iordanului, poruncită lui Ioșua, repetă simbolic trecerea Mării Roșii de sub Moise, deschizând era cuceririi."
       },
       {
        "t": " "
@@ -108630,7 +108627,7 @@
        "strong": "H859",
        "pos": "pronume personal",
        "def_ro": "tu (ata)",
-       "dict_ro": "Responsabilitatea trecerii revine deopotrivă lui Iosua și întregului popor, nu doar conducătorului singur."
+       "dict_ro": "Porunca se adresează deopotrivă lui Ioșua și întregului popor, confirmând caracterul colectiv al intrării în Canaan."
       },
       {
        "t": " "
@@ -108643,7 +108640,7 @@
        "strong": "H3605",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "și tot (vehal)",
-       "dict_ro": "Responsabilitatea trecerii revine deopotrivă lui Iosua și întregului popor, nu doar conducătorului singur."
+       "dict_ro": "Porunca se adresează deopotrivă lui Ioșua și întregului popor, confirmând caracterul colectiv al intrării în Canaan."
       },
       {
        "t": " "
@@ -108656,59 +108653,33 @@
        "strong": "H2088",
        "pos": "substantiv, masculin singular + pronume demonstrativ",
        "def_ro": "poporul acesta, (haam haze)",
-       "dict_ro": "Responsabilitatea trecerii revine deopotrivă lui Iosua și întregului popor, nu doar conducătorului singur."
+       "dict_ro": "Porunca se adresează deopotrivă lui Ioșua și întregului popor, confirmând caracterul colectiv al intrării în Canaan."
       },
       {
        "t": " "
       },
       {
-       "t": "către",
-       "w": "către",
-       "heb": "אֶל",
-       "translit": "el",
-       "strong": "H413",
-       "pos": "prepoziție",
-       "def_ro": "spre (el)",
-       "dict_ro": "Țara promisă, deja desemnată generațiilor anterioare, trece acum efectiv în posesia copiilor lui Israel."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "țara",
-       "w": "țara",
-       "heb": "הָאָרֶץ",
-       "translit": "haareț",
+       "t": "către țara",
+       "w": "către țara",
+       "heb": "אֶל הָאָרֶץ",
+       "translit": "el haareț",
        "strong": "H776",
-       "pos": "substantiv, masculin și feminin singular",
-       "def_ro": "țara (haareț)",
-       "dict_ro": "Țara promisă, deja desemnată generațiilor anterioare, trece acum efectiv în posesia copiilor lui Israel."
+       "pos": "prepoziție + substantiv, masculin și feminin singular",
+       "def_ro": "spre țara (el haareț)",
+       "dict_ro": "Țara promisă copiilor lui Israel este dată direct de DOMNUL, nu cucerită prin propria putere a poporului."
       },
       {
        "t": " "
       },
       {
-       "t": "pe care",
-       "w": "pe care",
-       "heb": "אֲשֶׁר",
-       "translit": "așer",
-       "strong": "H834",
-       "pos": "particulă relativă",
-       "def_ro": "pe care (așer)",
-       "dict_ro": "Țara promisă, deja desemnată generațiilor anterioare, trece acum efectiv în posesia copiilor lui Israel."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "Eu",
-       "w": "Eu",
-       "heb": "אָנֹכִי",
-       "translit": "anohi",
+       "t": "pe care Eu",
+       "w": "pe care Eu",
+       "heb": "אֲשֶׁר אָנֹכִי",
+       "translit": "așer anohi",
        "strong": "H595",
-       "pos": "pronume personal",
-       "def_ro": "Eu (anohi)",
-       "dict_ro": "DOMNUL Însuși, nu Moise sau Iosua, rămâne Cel care dă efectiv țara — conducătorii umani sunt doar instrumente."
+       "pos": "particulă relativă + pronume personal",
+       "def_ro": "pe care Eu (așer anohi)",
+       "dict_ro": "Țara promisă copiilor lui Israel este dată direct de DOMNUL, nu cucerită prin propria putere a poporului."
       },
       {
        "t": " "
@@ -108720,8 +108691,8 @@
        "translit": "notēn",
        "strong": "H5414",
        "pos": "verb, qal participiu",
-       "def_ro": "dau (notēn)",
-       "dict_ro": "DOMNUL Însuși, nu Moise sau Iosua, rămâne Cel care dă efectiv țara — conducătorii umani sunt doar instrumente."
+       "def_ro": "le-o dau (notēn)",
+       "dict_ro": "Țara promisă copiilor lui Israel este dată direct de DOMNUL, nu cucerită prin propria putere a poporului."
       },
       {
        "t": " "
@@ -108734,7 +108705,7 @@
        "strong": "",
        "pos": "prepoziție + sufix",
        "def_ro": "lor, (lahem)",
-       "dict_ro": "DOMNUL Însuși, nu Moise sau Iosua, rămâne Cel care dă efectiv țara — conducătorii umani sunt doar instrumente."
+       "dict_ro": "Țara promisă copiilor lui Israel este dată direct de DOMNUL, nu cucerită prin propria putere a poporului."
       },
       {
        "t": " "
@@ -108746,8 +108717,8 @@
        "translit": "livnē",
        "strong": "H1121",
        "pos": "substantiv, masculin plural construct",
-       "def_ro": "copiilor (livnē)",
-       "dict_ro": "Formula «copiii lui Israel» desemnează întreaga națiune, destinatară colectivă a promisiunii țării."
+       "def_ro": "copiilor lui (livnē)",
+       "dict_ro": "Țara promisă copiilor lui Israel este dată direct de DOMNUL, nu cucerită prin propria putere a poporului."
       },
       {
        "t": " "
@@ -108760,7 +108731,7 @@
        "strong": "H3478",
        "pos": "nume propriu",
        "def_ro": "Israel. (israēl)",
-       "dict_ro": "Formula «copiii lui Israel» desemnează întreaga națiune, destinatară colectivă a promisiunii țării."
+       "dict_ro": "Țara promisă copiilor lui Israel este dată direct de DOMNUL, nu cucerită prin propria putere a poporului."
       }
      ],
      "textCompare": [
@@ -108804,7 +108775,7 @@
        "strong": "H3605",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "orice (kal)",
-       "dict_ro": "Promisiunea e formulată în termeni absoluți: fiecare loc călcat efectiv de popor devine teritoriu dat de DOMNUL."
+       "dict_ro": "Promisiunea «orice loc va fi al vostru» repetă, cu alte cuvinte, aceeași promisiune făcută deja lui Moise."
       },
       {
        "t": " "
@@ -108817,7 +108788,7 @@
        "strong": "H4725",
        "pos": "substantiv, masculin singular",
        "def_ro": "loc (makom)",
-       "dict_ro": "Promisiunea e formulată în termeni absoluți: fiecare loc călcat efectiv de popor devine teritoriu dat de DOMNUL."
+       "dict_ro": "Promisiunea «orice loc va fi al vostru» repetă, cu alte cuvinte, aceeași promisiune făcută deja lui Moise."
       },
       {
        "t": " "
@@ -108825,12 +108796,12 @@
       {
        "t": "pe care îl va străbate",
        "w": "pe care îl va străbate",
-       "heb": "אֲשֶׁר תִּדְרֹךְ",
-       "translit": "așer tidroh",
-       "strong": "H1869",
-       "pos": "particulă relativă + verb, qal imperfect",
-       "def_ro": "pe care va călca (așer tidroh)",
-       "dict_ro": "Rashi explică faptul că darul țării se realizează efectiv prin cucerire, nu printr-o transmitere pasivă, miraculoasă."
+       "heb": "אֲשֶׁר תִּדְרֹךְ בּוֹ",
+       "translit": "așer tidroh bo",
+       "strong": "",
+       "pos": "particulă relativă + verb, qal imperfect + prepoziție + sufix",
+       "def_ro": "pe care o va călca (așer tidroh bo)",
+       "dict_ro": "Expresia «talpa piciorului» desemnează orice teritoriu pe care poporul va reuși efectiv să-l traverseze și să-l ocupe."
       },
       {
        "t": " "
@@ -108843,7 +108814,7 @@
        "strong": "H3709",
        "pos": "substantiv, feminin singular construct",
        "def_ro": "talpa (kaf)",
-       "dict_ro": "Rashi explică faptul că darul țării se realizează efectiv prin cucerire, nu printr-o transmitere pasivă, miraculoasă."
+       "dict_ro": "Expresia «talpa piciorului» desemnează orice teritoriu pe care poporul va reuși efectiv să-l traverseze și să-l ocupe."
       },
       {
        "t": " "
@@ -108851,12 +108822,12 @@
       {
        "t": "piciorului vostru",
        "w": "piciorului vostru",
-       "heb": "רַגְלְכֶם בּוֹ",
-       "translit": "raglehem bo",
-       "strong": "",
-       "pos": "substantiv, feminin singular construct + sufix + prepoziție + sufix",
-       "def_ro": "piciorului vostru pe el (raglehem bo)",
-       "dict_ro": "Rashi explică faptul că darul țării se realizează efectiv prin cucerire, nu printr-o transmitere pasivă, miraculoasă."
+       "heb": "רַגְלְכֶם",
+       "translit": "raglehem",
+       "strong": "H7272",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "piciorului vostru (raglehem)",
+       "dict_ro": "Expresia «talpa piciorului» desemnează orice teritoriu pe care poporul va reuși efectiv să-l traverseze și să-l ocupe."
       },
       {
        "t": " "
@@ -108868,8 +108839,8 @@
        "translit": "lahem netativ",
        "strong": "H5414",
        "pos": "prepoziție + sufix + verb, qal perfect + sufix",
-       "def_ro": "vă l-am dat, (lahem netativ)",
-       "dict_ro": "Rashi explică faptul că darul țării se realizează efectiv prin cucerire, nu printr-o transmitere pasivă, miraculoasă."
+       "def_ro": "vouă l-am dat, (lahem netativ)",
+       "dict_ro": "Promisiunea «orice loc va fi al vostru» repetă, cu alte cuvinte, aceeași promisiune făcută deja lui Moise."
       },
       {
        "t": " "
@@ -108881,21 +108852,21 @@
        "translit": "kaașer",
        "strong": "H834",
        "pos": "particulă relativă",
-       "def_ro": "după cum (kaașer)",
-       "dict_ro": "Promisiunea repetată acum lui Iosua e identică, cuvânt cu cuvânt, celei făcute mai întâi lui Moise."
+       "def_ro": "așa cum (kaașer)",
+       "dict_ro": "Referirea explicită la promisiunea făcută lui Moise confirmă continuitatea legământului de la o generație la alta."
       },
       {
-       "t": " i-"
+       "t": " "
       },
       {
-       "t": "am vorbit",
-       "w": "am vorbit",
+       "t": "i-am vorbit",
+       "w": "i-am vorbit",
        "heb": "דִּבַּרְתִּי",
        "translit": "dibarti",
        "strong": "H1696",
        "pos": "verb, piel perfect",
        "def_ro": "am vorbit (dibarti)",
-       "dict_ro": "Promisiunea repetată acum lui Iosua e identică, cuvânt cu cuvânt, celei făcute mai întâi lui Moise."
+       "dict_ro": "Referirea explicită la promisiunea făcută lui Moise confirmă continuitatea legământului de la o generație la alta."
       },
       {
        "t": " "
@@ -108908,7 +108879,7 @@
        "strong": "H4872",
        "pos": "prepoziție + nume propriu",
        "def_ro": "lui Moise. (el moșe)",
-       "dict_ro": "Promisiunea repetată acum lui Iosua e identică, cuvânt cu cuvânt, celei făcute mai întâi lui Moise."
+       "dict_ro": "Referirea explicită la promisiunea făcută lui Moise confirmă continuitatea legământului de la o generație la alta."
       }
      ],
      "textCompare": [
@@ -108952,7 +108923,7 @@
        "strong": "H4057",
        "pos": "substantiv, masculin singular",
        "def_ro": "de la deșert (mēhamidbar)",
-       "dict_ro": "Hotarele țării promise sunt definite prin patru repere geografice extreme: pustia, Libanul, Eufratul și Marea Mediterană."
+       "dict_ro": "Hotarele descrise — de la deșertul sudic la Liban, de la Eufrat la Mediterana — desenează întinderea maximă promisă lui Israel."
       },
       {
        "t": " "
@@ -108964,8 +108935,8 @@
        "translit": "haze",
        "strong": "H2088",
        "pos": "pronume demonstrativ",
-       "def_ro": "acest (haze)",
-       "dict_ro": "Hotarele țării promise sunt definite prin patru repere geografice extreme: pustia, Libanul, Eufratul și Marea Mediterană."
+       "def_ro": "și acest (haze)",
+       "dict_ro": "Hotarele descrise — de la deșertul sudic la Liban, de la Eufrat la Mediterana — desenează întinderea maximă promisă lui Israel."
       },
       {
        "t": " "
@@ -108978,7 +108949,7 @@
        "strong": "H3844",
        "pos": "nume propriu",
        "def_ro": "Liban (vehalvanon)",
-       "dict_ro": "Muntele Liban, la nord, marchează limita superioară a teritoriului promis."
+       "dict_ro": "Libanul, cu munții săi împăduriți, marchează limita nordică a teritoriului promis."
       },
       {
        "t": " "
@@ -108991,7 +108962,7 @@
        "strong": "H5704",
        "pos": "prepoziție",
        "def_ro": "și până la (vead)",
-       "dict_ro": "Fluviul Eufrat, mult mai departe decât teritoriul efectiv locuit de Israel, marchează limita idealizată, maximă, a promisiunii."
+       "dict_ro": "Fluviul Eufrat, mult mai la nord-est decât teritoriul efectiv locuit de Israel, marchează limita maximă teoretică a promisiunii."
       },
       {
        "t": " "
@@ -109004,7 +108975,7 @@
        "strong": "H1419",
        "pos": "substantiv, masculin singular + adjectiv, masculin singular",
        "def_ro": "fluviul cel mare, (hanahar hagadol)",
-       "dict_ro": "Fluviul Eufrat, mult mai departe decât teritoriul efectiv locuit de Israel, marchează limita idealizată, maximă, a promisiunii."
+       "dict_ro": "Fluviul Eufrat, mult mai la nord-est decât teritoriul efectiv locuit de Israel, marchează limita maximă teoretică a promisiunii."
       },
       {
        "t": " "
@@ -109017,7 +108988,7 @@
        "strong": "H5104",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "fluviul (nehar)",
-       "dict_ro": "Fluviul Eufrat, mult mai departe decât teritoriul efectiv locuit de Israel, marchează limita idealizată, maximă, a promisiunii."
+       "dict_ro": "Fluviul Eufrat, mult mai la nord-est decât teritoriul efectiv locuit de Israel, marchează limita maximă teoretică a promisiunii."
       },
       {
        "t": " "
@@ -109030,7 +109001,7 @@
        "strong": "H6578",
        "pos": "nume propriu",
        "def_ro": "Eufrat, (perat)",
-       "dict_ro": "Fluviul Eufrat, mult mai departe decât teritoriul efectiv locuit de Israel, marchează limita idealizată, maximă, a promisiunii."
+       "dict_ro": "Fluviul Eufrat, mult mai la nord-est decât teritoriul efectiv locuit de Israel, marchează limita maximă teoretică a promisiunii."
       },
       {
        "t": " "
@@ -109043,7 +109014,7 @@
        "strong": "H3605",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "toată (kol)",
-       "dict_ro": "Țara hitiților, popor canaanit important, e inclusă explicit în promisiunea teritorială."
+       "dict_ro": "Țara hitiților, popor vechi din Canaan și Anatolia, desemnează aici întregul teritoriu locuit de popoarele canaanite."
       },
       {
        "t": " "
@@ -109056,7 +109027,7 @@
        "strong": "H776",
        "pos": "substantiv, masculin și feminin singular construct",
        "def_ro": "țara (ereț)",
-       "dict_ro": "Țara hitiților, popor canaanit important, e inclusă explicit în promisiunea teritorială."
+       "dict_ro": "Țara hitiților, popor vechi din Canaan și Anatolia, desemnează aici întregul teritoriu locuit de popoarele canaanite."
       },
       {
        "t": " "
@@ -109069,7 +109040,7 @@
        "strong": "H2850",
        "pos": "nume de neam",
        "def_ro": "hitiților (hahitim)",
-       "dict_ro": "Țara hitiților, popor canaanit important, e inclusă explicit în promisiunea teritorială."
+       "dict_ro": "Țara hitiților, popor vechi din Canaan și Anatolia, desemnează aici întregul teritoriu locuit de popoarele canaanite."
       },
       {
        "t": " "
@@ -109082,33 +109053,20 @@
        "strong": "H5704",
        "pos": "prepoziție",
        "def_ro": "și până la (vead)",
-       "dict_ro": "Marea Mediterană, la apus, închide circuitul celor patru hotare ale promisiunii."
+       "dict_ro": "Marea Mediterană, la apus, completează desenarea celor patru hotare ale țării promise."
       },
       {
        "t": " "
       },
       {
-       "t": "Marea",
-       "w": "Marea",
-       "heb": "הַיָּם",
-       "translit": "haiam",
-       "strong": "H3220",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "marea (haiam)",
-       "dict_ro": "Marea Mediterană, la apus, închide circuitul celor patru hotare ale promisiunii."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "cea Mare",
-       "w": "cea Mare",
-       "heb": "הַגָּדוֹל",
-       "translit": "hagadol",
+       "t": "Marea cea Mare",
+       "w": "Marea cea Mare",
+       "heb": "הַיָּם הַגָּדוֹל",
+       "translit": "haiam hagadol",
        "strong": "H1419",
-       "pos": "adjectiv, masculin singular",
-       "def_ro": "cea mare (hagadol)",
-       "dict_ro": "Marea Mediterană, la apus, închide circuitul celor patru hotare ale promisiunii."
+       "pos": "substantiv, masculin singular + adjectiv, masculin singular",
+       "def_ro": "marea cea mare (haiam hagadol)",
+       "dict_ro": "Marea Mediterană, la apus, completează desenarea celor patru hotare ale țării promise."
       },
       {
        "t": " "
@@ -109120,8 +109078,8 @@
        "translit": "mevo hașameș",
        "strong": "H8121",
        "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular",
-       "def_ro": "spre apusul soarelui, (mevo hașameș)",
-       "dict_ro": "Marea Mediterană, la apus, închide circuitul celor patru hotare ale promisiunii."
+       "def_ro": "spre intrarea soarelui, (mevo hașameș)",
+       "dict_ro": "Marea Mediterană, la apus, completează desenarea celor patru hotare ale țării promise."
       },
       {
        "t": " "
@@ -109134,7 +109092,7 @@
        "strong": "H1961",
        "pos": "verb, qal imperfect",
        "def_ro": "va fi (ihie)",
-       "dict_ro": "Formula finală pecetluiește cele patru repere ca hotar oficial, definitiv, al teritoriului promis lui Israel."
+       "dict_ro": "Hotarele descrise — de la deșertul sudic la Liban, de la Eufrat la Mediterana — desenează întinderea maximă promisă lui Israel."
       },
       {
        "t": " "
@@ -109147,7 +109105,7 @@
        "strong": "H1366",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "hotarul vostru. (gevulhem)",
-       "dict_ro": "Formula finală pecetluiește cele patru repere ca hotar oficial, definitiv, al teritoriului promis lui Israel."
+       "dict_ro": "Hotarele descrise — de la deșertul sudic la Liban, de la Eufrat la Mediterana — desenează întinderea maximă promisă lui Israel."
       }
      ],
      "textCompare": [
@@ -109187,33 +109145,20 @@
        "strong": "H376",
        "pos": "substantiv, masculin singular",
        "def_ro": "om (iș)",
-       "dict_ro": "Promisiunea invincibilității, repetată aici, pregătește psihologic poporul pentru cuceririle militare care urmează în carte."
+       "dict_ro": "Promisiunea că nimeni nu va putea rezista lui Ioșua repetă literal cuvintele adresate lui Moise la Sinai."
       },
       {
        "t": " "
       },
       {
-       "t": "nu",
-       "w": "nu",
-       "heb": "לֹא",
-       "translit": "lo",
-       "strong": "H3808",
-       "pos": "particulă negativă",
-       "def_ro": "nu (lo)",
-       "dict_ro": "Promisiunea invincibilității, repetată aici, pregătește psihologic poporul pentru cuceririle militare care urmează în carte."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "îți va sta înainte",
-       "w": "îți va sta înainte",
-       "heb": "יִתְיַצֵּב לְפָנֶיךָ",
-       "translit": "itiațēv lefaneha",
+       "t": "nu îți va sta înainte",
+       "w": "nu îți va sta înainte",
+       "heb": "לֹא יִתְיַצֵּב לְפָנֶיךָ",
+       "translit": "lo itiațēv lefaneha",
        "strong": "H6440",
-       "pos": "verb, hitpael imperfect + substantiv, masculin și feminin plural construct + sufix",
-       "def_ro": "va sta înaintea ta (itiațēv lefaneha)",
-       "dict_ro": "Promisiunea invincibilității, repetată aici, pregătește psihologic poporul pentru cuceririle militare care urmează în carte."
+       "pos": "particulă negativă + verb, hitpael imperfect + substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "nu se va ridica înaintea ta (lo itiațēv lefaneha)",
+       "dict_ro": "Promisiunea că nimeni nu va putea rezista lui Ioșua repetă literal cuvintele adresate lui Moise la Sinai."
       },
       {
        "t": " "
@@ -109226,7 +109171,7 @@
        "strong": "H3605",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "în toate (kol)",
-       "dict_ro": "Promisiunea prezenței divine se întinde, explicit, pe tot restul vieții lui Iosua, nu doar pentru campania imediată."
+       "dict_ro": "Promisiunea prezenței divine se extinde asupra întregii vieți a lui Ioșua, nu doar asupra cuceririi imediate."
       },
       {
        "t": " "
@@ -109239,7 +109184,7 @@
        "strong": "H3117",
        "pos": "substantiv, masculin plural construct",
        "def_ro": "zilele (iemē)",
-       "dict_ro": "Promisiunea prezenței divine se întinde, explicit, pe tot restul vieții lui Iosua, nu doar pentru campania imediată."
+       "dict_ro": "Promisiunea prezenței divine se extinde asupra întregii vieți a lui Ioșua, nu doar asupra cuceririi imediate."
       },
       {
        "t": " "
@@ -109252,7 +109197,7 @@
        "strong": "H2416",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "vieții tale. (haieha)",
-       "dict_ro": "Promisiunea prezenței divine se întinde, explicit, pe tot restul vieții lui Iosua, nu doar pentru campania imediată."
+       "dict_ro": "Promisiunea prezenței divine se extinde asupra întregii vieți a lui Ioșua, nu doar asupra cuceririi imediate."
       },
       {
        "t": " "
@@ -109264,8 +109209,8 @@
        "translit": "kaașer",
        "strong": "H834",
        "pos": "particulă relativă",
-       "def_ro": "precum (kaașer)",
-       "dict_ro": "Promisiunea DOMNULUI către Iosua e explicit paralelă celei date lui Moise — continuitate deplină de autoritate divină."
+       "def_ro": "așa cum (kaașer)",
+       "dict_ro": "Compararea directă cu prezența divină de lângă Moise transferă explicit autoritatea profetică asupra lui Ioșua."
       },
       {
        "t": " "
@@ -109278,33 +109223,20 @@
        "strong": "H1961",
        "pos": "verb, qal perfect",
        "def_ro": "am fost (haiti)",
-       "dict_ro": "Promisiunea DOMNULUI către Iosua e explicit paralelă celei date lui Moise — continuitate deplină de autoritate divină."
+       "dict_ro": "Compararea directă cu prezența divină de lângă Moise transferă explicit autoritatea profetică asupra lui Ioșua."
       },
       {
        "t": " "
       },
       {
-       "t": "cu",
-       "w": "cu",
-       "heb": "עִם",
-       "translit": "im",
-       "strong": "H5973",
-       "pos": "prepoziție",
-       "def_ro": "cu (im)",
-       "dict_ro": "Promisiunea DOMNULUI către Iosua e explicit paralelă celei date lui Moise — continuitate deplină de autoritate divină."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "Moise",
-       "w": "Moise",
-       "heb": "מֹשֶׁה",
-       "translit": "moșe",
+       "t": "cu Moise",
+       "w": "cu Moise",
+       "heb": "עִם מֹשֶׁה",
+       "translit": "im moșe",
        "strong": "H4872",
-       "pos": "nume propriu",
-       "def_ro": "Moise (moșe)",
-       "dict_ro": "Promisiunea DOMNULUI către Iosua e explicit paralelă celei date lui Moise — continuitate deplină de autoritate divină."
+       "pos": "prepoziție + nume propriu",
+       "def_ro": "cu Moise (im moșe)",
+       "dict_ro": "Compararea directă cu prezența divină de lângă Moise transferă explicit autoritatea profetică asupra lui Ioșua."
       },
       {
        "t": " "
@@ -109317,7 +109249,7 @@
        "strong": "H1961",
        "pos": "verb, qal imperfect",
        "def_ro": "voi fi (ehie)",
-       "dict_ro": "Promisiunea DOMNULUI către Iosua e explicit paralelă celei date lui Moise — continuitate deplină de autoritate divină."
+       "dict_ro": "Compararea directă cu prezența divină de lângă Moise transferă explicit autoritatea profetică asupra lui Ioșua."
       },
       {
        "t": " "
@@ -109329,8 +109261,8 @@
        "translit": "imah",
        "strong": "H5973",
        "pos": "prepoziție + sufix",
-       "def_ro": "și cu tine, (imah)",
-       "dict_ro": "Promisiunea DOMNULUI către Iosua e explicit paralelă celei date lui Moise — continuitate deplină de autoritate divină."
+       "def_ro": "cu tine, (imah)",
+       "dict_ro": "Compararea directă cu prezența divină de lângă Moise transferă explicit autoritatea profetică asupra lui Ioșua."
       },
       {
        "t": " "
@@ -109343,7 +109275,7 @@
        "strong": "H7503",
        "pos": "particulă negativă + verb, hifil imperfect + sufix",
        "def_ro": "nu te voi lăsa (lo arpeha)",
-       "dict_ro": "Dubla negație — nu te voi lăsa, nu te voi părăsi — întărește solemn promisiunea prezenței divine permanente."
+       "dict_ro": "Dubla asigurare — nu te voi lăsa, nu te voi părăsi — răspunde direct fricii fireşti a lui Ioșua în fața noii răspunderi."
       },
       {
        "t": " "
@@ -109356,7 +109288,7 @@
        "strong": "H5800",
        "pos": "particulă negativă + verb, qal imperfect + sufix",
        "def_ro": "și nu te voi părăsi. (velo eezveka)",
-       "dict_ro": "Dubla negație — nu te voi lăsa, nu te voi părăsi — întărește solemn promisiunea prezenței divine permanente."
+       "dict_ro": "Dubla asigurare — nu te voi lăsa, nu te voi părăsi — răspunde direct fricii fireşti a lui Ioșua în fața noii răspunderi."
       }
      ],
      "textCompare": [
@@ -109396,7 +109328,7 @@
        "strong": "H2388",
        "pos": "verb, qal imperativ",
        "def_ro": "fii tare (hazak)",
-       "dict_ro": "Formula «fii tare și curajos» apare de patru ori în acest capitol — recurența ei marchează tema centrală a trecerii de la Moise la Iosua: curajul conducerii."
+       "dict_ro": "Îndemnul «fii tare și curajos» se repetă de trei ori în acest capitol, semn al importanței curajului moral pentru noul conducător."
       },
       {
        "t": " "
@@ -109409,49 +109341,36 @@
        "strong": "H553",
        "pos": "verb, qal imperativ",
        "def_ro": "și curajos, (veemaț)",
-       "dict_ro": "Formula «fii tare și curajos» apare de patru ori în acest capitol — recurența ei marchează tema centrală a trecerii de la Moise la Iosua: curajul conducerii."
+       "dict_ro": "Îndemnul «fii tare și curajos» se repetă de trei ori în acest capitol, semn al importanței curajului moral pentru noul conducător."
       },
       {
        "t": " "
       },
       {
-       "t": "căci",
-       "w": "căci",
-       "heb": "כִּי",
-       "translit": "ki",
-       "strong": "H3588",
-       "pos": "conjuncție",
-       "def_ro": "căci (ki)",
-       "dict_ro": "Curajul cerut lui Iosua e justificat direct de misiunea sa: el va face poporul să moștenească țara jurată strămoșilor."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "tu",
-       "w": "tu",
-       "heb": "אַתָּה",
-       "translit": "ata",
+       "t": "căci tu",
+       "w": "căci tu",
+       "heb": "כִּי אַתָּה",
+       "translit": "ki ata",
        "strong": "H859",
-       "pos": "pronume personal",
-       "def_ro": "tu (ata)",
-       "dict_ro": "Curajul cerut lui Iosua e justificat direct de misiunea sa: el va face poporul să moștenească țara jurată strămoșilor."
+       "pos": "conjuncție + pronume personal",
+       "def_ro": "căci tu (ki ata)",
+       "dict_ro": "Rolul lui Ioșua este explicit acela de a împărți țara promisă strămoșilor, nu de a o cuceri pentru sine."
       },
       {
        "t": " "
       },
       {
-       "t": "vei face",
-       "w": "vei face",
+       "t": "vei face ca",
+       "w": "vei face ca",
        "heb": "תַּנְחִיל",
        "translit": "tanhil",
        "strong": "H5157",
        "pos": "verb, hifil imperfect",
-       "def_ro": "vei face (tanhil)",
-       "dict_ro": "Curajul cerut lui Iosua e justificat direct de misiunea sa: el va face poporul să moștenească țara jurată strămoșilor."
+       "def_ro": "vei face să moștenească (tanhil)",
+       "dict_ro": "Rolul lui Ioșua este explicit acela de a împărți țara promisă strămoșilor, nu de a o cuceri pentru sine."
       },
       {
-       "t": " ca "
+       "t": " "
       },
       {
        "t": "acest popor",
@@ -109461,7 +109380,7 @@
        "strong": "H2088",
        "pos": "substantiv, masculin singular + pronume demonstrativ",
        "def_ro": "acest popor (haam haze)",
-       "dict_ro": "Curajul cerut lui Iosua e justificat direct de misiunea sa: el va face poporul să moștenească țara jurată strămoșilor."
+       "dict_ro": "Rolul lui Ioșua este explicit acela de a împărți țara promisă strămoșilor, nu de a o cuceri pentru sine."
       },
       {
        "t": " "
@@ -109474,7 +109393,7 @@
        "strong": "H5157",
        "pos": "verb, hifil imperfect",
        "def_ro": "să moștenească (tanhil)",
-       "dict_ro": "Curajul cerut lui Iosua e justificat direct de misiunea sa: el va face poporul să moștenească țara jurată strămoșilor."
+       "dict_ro": "Rolul lui Ioșua este explicit acela de a împărți țara promisă strămoșilor, nu de a o cuceri pentru sine."
       },
       {
        "t": " "
@@ -109487,33 +109406,20 @@
        "strong": "H776",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "țara (haareț)",
-       "dict_ro": "Jurământul făcut strămoșilor — Avraam, Isaac, Iacov — e invocat ca temelie legală a promisiunii repetate acum lui Iosua."
+       "dict_ro": "Rolul lui Ioșua este explicit acela de a împărți țara promisă strămoșilor, nu de a o cuceri pentru sine."
       },
       {
        "t": " "
       },
       {
-       "t": "pe care",
-       "w": "pe care",
-       "heb": "אֲשֶׁר",
-       "translit": "așer",
-       "strong": "H834",
-       "pos": "particulă relativă",
-       "def_ro": "pe care (așer)",
-       "dict_ro": "Jurământul făcut strămoșilor — Avraam, Isaac, Iacov — e invocat ca temelie legală a promisiunii repetate acum lui Iosua."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "am jurat-o",
-       "w": "am jurat-o",
-       "heb": "נִשְׁבַּעְתִּי",
-       "translit": "nișbati",
+       "t": "pe care am jurat-o",
+       "w": "pe care am jurat-o",
+       "heb": "אֲשֶׁר נִשְׁבַּעְתִּי",
+       "translit": "așer nișbati",
        "strong": "H7650",
-       "pos": "verb, nifal perfect",
-       "def_ro": "am jurat-o (nișbati)",
-       "dict_ro": "Jurământul făcut strămoșilor — Avraam, Isaac, Iacov — e invocat ca temelie legală a promisiunii repetate acum lui Iosua."
+       "pos": "particulă relativă + verb, nifal perfect",
+       "def_ro": "pe care am jurat-o (așer nișbati)",
+       "dict_ro": "Jurământul către strămoși leagă direct misiunea lui Ioșua de promisiunea patriarhală dată lui Avraam, Isaac și Iacov."
       },
       {
        "t": " "
@@ -109526,7 +109432,7 @@
        "strong": "H1",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "strămoșilor lor (laavotam)",
-       "dict_ro": "Jurământul făcut strămoșilor — Avraam, Isaac, Iacov — e invocat ca temelie legală a promisiunii repetate acum lui Iosua."
+       "dict_ro": "Jurământul către strămoși leagă direct misiunea lui Ioșua de promisiunea patriarhală dată lui Avraam, Isaac și Iacov."
       },
       {
        "t": " "
@@ -109538,8 +109444,8 @@
        "translit": "latēt",
        "strong": "H5414",
        "pos": "verb, qal infinitiv",
-       "def_ro": "să dau (latēt)",
-       "dict_ro": "Jurământul făcut strămoșilor — Avraam, Isaac, Iacov — e invocat ca temelie legală a promisiunii repetate acum lui Iosua."
+       "def_ro": "să le-o dau (latēt)",
+       "dict_ro": "Jurământul către strămoși leagă direct misiunea lui Ioșua de promisiunea patriarhală dată lui Avraam, Isaac și Iacov."
       },
       {
        "t": " "
@@ -109552,7 +109458,7 @@
        "strong": "",
        "pos": "prepoziție + sufix",
        "def_ro": "lor. (lahem)",
-       "dict_ro": "Jurământul făcut strămoșilor — Avraam, Isaac, Iacov — e invocat ca temelie legală a promisiunii repetate acum lui Iosua."
+       "dict_ro": "Jurământul către strămoși leagă direct misiunea lui Ioșua de promisiunea patriarhală dată lui Avraam, Isaac și Iacov."
       }
      ],
      "textCompare": [
@@ -109592,7 +109498,7 @@
        "strong": "H7535",
        "pos": "particulă afirmativă",
        "def_ro": "doar (rak)",
-       "dict_ro": "Repetarea formulei «fii tare și curajos», cu adaosul «foarte», intensifică accentul pus pe curajul moral, nu doar militar."
+       "dict_ro": "Particula «doar» marchează condiția esențială a succesului lui Ioșua: ascultarea deplină de întreaga Învățătură."
       },
       {
        "t": " "
@@ -109605,20 +109511,33 @@
        "strong": "H2388",
        "pos": "verb, qal imperativ",
        "def_ro": "fii tare (hazak)",
-       "dict_ro": "Repetarea formulei «fii tare și curajos», cu adaosul «foarte», intensifică accentul pus pe curajul moral, nu doar militar."
+       "dict_ro": "Repetarea îndemnului «fii tare și foarte curajos» întărește, de a doua oară, importanța curajului moral."
       },
       {
        "t": " "
       },
       {
-       "t": "și foarte curajos,",
-       "w": "și foarte curajos,",
-       "heb": "וֶאֱמַץ מְאֹד",
-       "translit": "veemaț meod",
+       "t": "și foarte",
+       "w": "și foarte",
+       "heb": "מְאֹד",
+       "translit": "meod",
        "strong": "H3966",
-       "pos": "verb, qal imperativ + adverb",
-       "def_ro": "și curajos foarte, (veemaț meod)",
-       "dict_ro": "Repetarea formulei «fii tare și curajos», cu adaosul «foarte», intensifică accentul pus pe curajul moral, nu doar militar."
+       "pos": "adverb",
+       "def_ro": "și foarte (meod)",
+       "dict_ro": "Repetarea îndemnului «fii tare și foarte curajos» întărește, de a doua oară, importanța curajului moral."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "curajos,",
+       "w": "curajos,",
+       "heb": "וֶאֱמַץ",
+       "translit": "veemaț",
+       "strong": "H553",
+       "pos": "verb, qal imperativ",
+       "def_ro": "curajos, (veemaț)",
+       "dict_ro": "Repetarea îndemnului «fii tare și foarte curajos» întărește, de a doua oară, importanța curajului moral."
       },
       {
        "t": " "
@@ -109630,8 +109549,8 @@
        "translit": "lișmor",
        "strong": "H8104",
        "pos": "verb, qal infinitiv",
-       "def_ro": "să păzești (lișmor)",
-       "dict_ro": "Curajul lui Iosua trebuie îndreptat în primul rând spre credincioșia față de Lege, nu doar spre vitejia în luptă."
+       "def_ro": "a păzi (lișmor)",
+       "dict_ro": "Succesul militar al lui Ioșua este condiționat explicit de ascultarea deplină a Învățăturii date prin Moise."
       },
       {
        "t": " "
@@ -109643,8 +109562,8 @@
        "translit": "laasot",
        "strong": "H6213",
        "pos": "verb, qal infinitiv",
-       "def_ro": "să faci (laasot)",
-       "dict_ro": "Curajul lui Iosua trebuie îndreptat în primul rând spre credincioșia față de Lege, nu doar spre vitejia în luptă."
+       "def_ro": "a face (laasot)",
+       "dict_ro": "Succesul militar al lui Ioșua este condiționat explicit de ascultarea deplină a Învățăturii date prin Moise."
       },
       {
        "t": " "
@@ -109656,8 +109575,8 @@
        "translit": "kehal",
        "strong": "H3605",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "după toată (kehal)",
-       "dict_ro": "Curajul lui Iosua trebuie îndreptat în primul rând spre credincioșia față de Lege, nu doar spre vitejia în luptă."
+       "def_ro": "potrivit cu toată (kehal)",
+       "dict_ro": "Succesul militar al lui Ioșua este condiționat explicit de ascultarea deplină a Învățăturii date prin Moise."
       },
       {
        "t": " "
@@ -109669,8 +109588,8 @@
        "translit": "hatora",
        "strong": "H8451",
        "pos": "substantiv, feminin singular",
-       "def_ro": "Legea (hatora)",
-       "dict_ro": "Curajul lui Iosua trebuie îndreptat în primul rând spre credincioșia față de Lege, nu doar spre vitejia în luptă."
+       "def_ro": "Învățătura (hatora)",
+       "dict_ro": "Succesul militar al lui Ioșua este condiționat explicit de ascultarea deplină a Învățăturii date prin Moise."
       },
       {
        "t": " "
@@ -109683,7 +109602,7 @@
        "strong": "H834",
        "pos": "particulă relativă",
        "def_ro": "pe care (așer)",
-       "dict_ro": "Porunca Legii vine explicit prin Moise, confirmând din nou autoritatea profetică transmisă, nu înlocuită, prin Iosua."
+       "dict_ro": "Titlul «slujitorul Meu» atribuit lui Moise confirmă autoritatea supremă a poruncilor pe care le-a transmis lui Ioșua."
       },
       {
        "t": " "
@@ -109695,8 +109614,8 @@
        "translit": "avdi",
        "strong": "H5650",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "slujitorul Meu, (avdi)",
-       "dict_ro": "Porunca Legii vine explicit prin Moise, confirmând din nou autoritatea profetică transmisă, nu înlocuită, prin Iosua."
+       "def_ro": "slujitorul meu, (avdi)",
+       "dict_ro": "Titlul «slujitorul Meu» atribuit lui Moise confirmă autoritatea supremă a poruncilor pe care le-a transmis lui Ioșua."
       },
       {
        "t": " "
@@ -109709,7 +109628,7 @@
        "strong": "H4872",
        "pos": "nume propriu",
        "def_ro": "Moise, (moșe)",
-       "dict_ro": "Porunca Legii vine explicit prin Moise, confirmând din nou autoritatea profetică transmisă, nu înlocuită, prin Iosua."
+       "dict_ro": "Titlul «slujitorul Meu» atribuit lui Moise confirmă autoritatea supremă a poruncilor pe care le-a transmis lui Ioșua."
       },
       {
        "t": " "
@@ -109722,33 +109641,20 @@
        "strong": "H6680",
        "pos": "verb, piel perfect + sufix",
        "def_ro": "ți-a poruncit-o. (țiuha)",
-       "dict_ro": "Porunca Legii vine explicit prin Moise, confirmând din nou autoritatea profetică transmisă, nu înlocuită, prin Iosua."
+       "dict_ro": "Titlul «slujitorul Meu» atribuit lui Moise confirmă autoritatea supremă a poruncilor pe care le-a transmis lui Ioșua."
       },
       {
        "t": " "
       },
       {
-       "t": "Nu",
-       "w": "Nu",
-       "heb": "אַל",
-       "translit": "al",
-       "strong": "H408",
-       "pos": "particulă negativă",
-       "def_ro": "nu (al)",
-       "dict_ro": "Interdicția de a abate de la Lege, la dreapta sau la stânga, exprimă idiomatic fidelitatea absolută cerută lui Iosua."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "te abate",
-       "w": "te abate",
-       "heb": "תָּסוּר",
-       "translit": "tasur",
+       "t": "Nu te abate",
+       "w": "Nu te abate",
+       "heb": "אַל תָּסוּר",
+       "translit": "al tasur",
        "strong": "H5493",
-       "pos": "verb, qal jusiv",
-       "def_ro": "te abate (tasur)",
-       "dict_ro": "Interdicția de a abate de la Lege, la dreapta sau la stânga, exprimă idiomatic fidelitatea absolută cerută lui Iosua."
+       "pos": "particulă negativă + verb, qal jusiv",
+       "def_ro": "nu te abate (al tasur)",
+       "dict_ro": "Avertismentul de a nu te abate «la dreapta sau la stânga» cere o fidelitate literală, fără nicio deviere, de la Învățătură."
       },
       {
        "t": " "
@@ -109761,7 +109667,7 @@
        "strong": "H4480",
        "pos": "prepoziție + sufix",
        "def_ro": "de la ea (mimenu)",
-       "dict_ro": "Interdicția de a abate de la Lege, la dreapta sau la stânga, exprimă idiomatic fidelitatea absolută cerută lui Iosua."
+       "dict_ro": "Avertismentul de a nu te abate «la dreapta sau la stânga» cere o fidelitate literală, fără nicio deviere, de la Învățătură."
       },
       {
        "t": " "
@@ -109773,8 +109679,8 @@
        "translit": "iamin",
        "strong": "H3225",
        "pos": "substantiv, feminin singular",
-       "def_ro": "la dreapta (iamin)",
-       "dict_ro": "Interdicția de a abate de la Lege, la dreapta sau la stânga, exprimă idiomatic fidelitatea absolută cerută lui Iosua."
+       "def_ro": "dreapta (iamin)",
+       "dict_ro": "Avertismentul de a nu te abate «la dreapta sau la stânga» cere o fidelitate literală, fără nicio deviere, de la Învățătură."
       },
       {
        "t": " "
@@ -109786,8 +109692,8 @@
        "translit": "usmovl",
        "strong": "H8040",
        "pos": "substantiv, masculin singular",
-       "def_ro": "sau la stânga, (usmovl)",
-       "dict_ro": "Interdicția de a abate de la Lege, la dreapta sau la stânga, exprimă idiomatic fidelitatea absolută cerută lui Iosua."
+       "def_ro": "și stânga, (usmovl)",
+       "dict_ro": "Avertismentul de a nu te abate «la dreapta sau la stânga» cere o fidelitate literală, fără nicio deviere, de la Învățătură."
       },
       {
        "t": " "
@@ -109800,7 +109706,7 @@
        "strong": "H7919",
        "pos": "prepoziție + verb, hifil imperfect",
        "def_ro": "ca să izbândești (lemaan taskil)",
-       "dict_ro": "Succesul lui Iosua, la fel ca al oricărui conducător din tradiția biblică, e condiționat explicit de fidelitatea față de Lege, nu de strategie militară."
+       "dict_ro": "Succesul lui Ioșua este legat explicit de ascultare, nu de strategie militară sau forță proprie."
       },
       {
        "t": " "
@@ -109813,7 +109719,7 @@
        "strong": "H834",
        "pos": "substantiv, masculin singular + particulă relativă",
        "def_ro": "în tot ce (behol așer)",
-       "dict_ro": "Succesul lui Iosua, la fel ca al oricărui conducător din tradiția biblică, e condiționat explicit de fidelitatea față de Lege, nu de strategie militară."
+       "dict_ro": "Succesul lui Ioșua este legat explicit de ascultare, nu de strategie militară sau forță proprie."
       },
       {
        "t": " "
@@ -109826,7 +109732,7 @@
        "strong": "H3212",
        "pos": "verb, qal imperfect",
        "def_ro": "vei merge. (tēlēh)",
-       "dict_ro": "Succesul lui Iosua, la fel ca al oricărui conducător din tradiția biblică, e condiționat explicit de fidelitatea față de Lege, nu de strategie militară."
+       "dict_ro": "Succesul lui Ioșua este legat explicit de ascultare, nu de strategie militară sau forță proprie."
       }
      ],
      "textCompare": [
@@ -109864,27 +109770,27 @@
      "translit": "Lo-iamuș sefer hatora haze mipiha vehagita bo iomam valaila lemaan tișmor laasot kehol-hakatuv bo ki-az tatzliah et-deraheha veaz taskil.",
      "tokens": [
       {
-       "t": "Cartea aceasta",
-       "w": "Cartea aceasta",
+       "t": "Cartea aceasta a",
+       "w": "Cartea aceasta a",
        "heb": "סֵפֶר הַזֶּה",
        "translit": "sēfer haze",
        "strong": "H2088",
        "pos": "substantiv, masculin singular construct + pronume demonstrativ",
-       "def_ro": "cartea aceasta (sēfer haze)",
-       "dict_ro": "Porunca studierii neîntrerupte a Cărții Legii, zi și noapte, devine fundamentul tradiției rabinice a studiului Torei."
+       "def_ro": "cartea aceasta a (sēfer haze)",
+       "dict_ro": "Porunca de a medita zi și noapte asupra Cărții Învățăturii devine model pentru studiul permanent al Torei în tradiția evreiască."
       },
       {
        "t": " "
       },
       {
-       "t": "a Învățăturii",
-       "w": "a Învățăturii",
+       "t": "Învățăturii",
+       "w": "Învățăturii",
        "heb": "הַתּוֹרָה",
        "translit": "hatora",
        "strong": "H8451",
        "pos": "substantiv, feminin singular",
-       "def_ro": "a Legii (hatora)",
-       "dict_ro": "Porunca studierii neîntrerupte a Cărții Legii, zi și noapte, devine fundamentul tradiției rabinice a studiului Torei."
+       "def_ro": "Învățăturii (hatora)",
+       "dict_ro": "Porunca de a medita zi și noapte asupra Cărții Învățăturii devine model pentru studiul permanent al Torei în tradiția evreiască."
       },
       {
        "t": " "
@@ -109897,7 +109803,7 @@
        "strong": "H4185",
        "pos": "particulă negativă + verb, qal imperfect",
        "def_ro": "nu se va depărta (lo iamuș)",
-       "dict_ro": "Porunca studierii neîntrerupte a Cărții Legii, zi și noapte, devine fundamentul tradiției rabinice a studiului Torei."
+       "dict_ro": "Porunca de a medita zi și noapte asupra Cărții Învățăturii devine model pentru studiul permanent al Torei în tradiția evreiască."
       },
       {
        "t": " "
@@ -109910,20 +109816,33 @@
        "strong": "H6310",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "de gura ta. (mipiha)",
-       "dict_ro": "Porunca studierii neîntrerupte a Cărții Legii, zi și noapte, devine fundamentul tradiției rabinice a studiului Torei."
+       "dict_ro": "Expresia «de gura ta» sugerează studiul recitat cu voce tare, nu doar meditația tăcută."
       },
       {
        "t": " "
       },
       {
-       "t": "Să te îndeletnicești cu ea",
-       "w": "Să te îndeletnicești cu ea",
-       "heb": "וְהָגִיתָ בּוֹ",
-       "translit": "vehagita bo",
+       "t": "Să te îndeletnicești",
+       "w": "Să te îndeletnicești",
+       "heb": "וְהָגִיתָ",
+       "translit": "vehagita",
+       "strong": "H1897",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și vei medita (vehagita)",
+       "dict_ro": "Formula «zi și noapte» cere un studiu neîntrerupt, continuu, al Învățăturii, fără pauză."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu ea",
+       "w": "cu ea",
+       "heb": "בּוֹ",
+       "translit": "bo",
        "strong": "",
-       "pos": "verb, qal perfect consecutiv + prepoziție + sufix",
-       "def_ro": "și te vei îndeletnici cu ea (vehagita bo)",
-       "dict_ro": "Porunca studierii neîntrerupte a Cărții Legii, zi și noapte, devine fundamentul tradiției rabinice a studiului Torei."
+       "pos": "prepoziție + sufix",
+       "def_ro": "în ea (bo)",
+       "dict_ro": "Formula «zi și noapte» cere un studiu neîntrerupt, continuu, al Învățăturii, fără pauză."
       },
       {
        "t": " "
@@ -109936,7 +109855,7 @@
        "strong": "H3119",
        "pos": "adverb",
        "def_ro": "zi (iomam)",
-       "dict_ro": "Porunca studierii neîntrerupte a Cărții Legii, zi și noapte, devine fundamentul tradiției rabinice a studiului Torei."
+       "dict_ro": "Formula «zi și noapte» cere un studiu neîntrerupt, continuu, al Învățăturii, fără pauză."
       },
       {
        "t": " "
@@ -109949,7 +109868,7 @@
        "strong": "H3915",
        "pos": "substantiv, masculin singular",
        "def_ro": "și noapte, (valaila)",
-       "dict_ro": "Porunca studierii neîntrerupte a Cărții Legii, zi și noapte, devine fundamentul tradiției rabinice a studiului Torei."
+       "dict_ro": "Formula «zi și noapte» cere un studiu neîntrerupt, continuu, al Învățăturii, fără pauză."
       },
       {
        "t": " "
@@ -109957,12 +109876,12 @@
       {
        "t": "ca să ai grijă",
        "w": "ca să ai grijă",
-       "heb": "לְמַעַן",
-       "translit": "lemaan",
-       "strong": "H4616",
-       "pos": "prepoziție",
+       "heb": "לְמַעַן תִּשְׁמֹר",
+       "translit": "lemaan tișmor",
+       "strong": "H8104",
+       "pos": "prepoziție + verb, qal imperfect",
        "def_ro": "ca să păzești (lemaan tișmor)",
-       "dict_ro": "Studiul Legii e explicit legat de practică, nu de cunoaștere abstractă — scopul studiului e înfăptuirea poruncilor."
+       "dict_ro": "Scopul studiului nu este cunoașterea abstractă, ci înfăptuirea practică a tot ce este scris în Învățătură."
       },
       {
        "t": " "
@@ -109970,25 +109889,38 @@
       {
        "t": "să înfăptuiești",
        "w": "să înfăptuiești",
-       "heb": "תִּשְׁמֹר",
-       "translit": "tișmor",
-       "strong": "H8104",
-       "pos": "verb, qal imperfect",
-       "def_ro": "să faci (laasot)",
-       "dict_ro": "Studiul Legii e explicit legat de practică, nu de cunoaștere abstractă — scopul studiului e înfăptuirea poruncilor."
+       "heb": "לַעֲשׂוֹת",
+       "translit": "laasot",
+       "strong": "H6213",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "a face (laasot)",
+       "dict_ro": "Scopul studiului nu este cunoașterea abstractă, ci înfăptuirea practică a tot ce este scris în Învățătură."
       },
       {
        "t": " "
       },
       {
-       "t": "tot ce este scris",
-       "w": "tot ce este scris",
-       "heb": "לַעֲשׂוֹת כְּכָל הַכָּתוּב",
-       "translit": "laasot kehal hakatuv",
+       "t": "tot ce",
+       "w": "tot ce",
+       "heb": "כְּכָל",
+       "translit": "kehal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "potrivit cu tot (kehal)",
+       "dict_ro": "Scopul studiului nu este cunoașterea abstractă, ci înfăptuirea practică a tot ce este scris în Învățătură."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "este scris",
+       "w": "este scris",
+       "heb": "הַכָּתוּב",
+       "translit": "hakatuv",
        "strong": "H3789",
-       "pos": "verb, qal infinitiv + substantiv, masculin singular construct + verb, qal participiu pasiv",
-       "def_ro": "tot ce e scris (kehal hakatuv)",
-       "dict_ro": "Studiul Legii e explicit legat de practică, nu de cunoaștere abstractă — scopul studiului e înfăptuirea poruncilor."
+       "pos": "verb, qal participiu pasiv",
+       "def_ro": "este scris (hakatuv)",
+       "dict_ro": "Scopul studiului nu este cunoașterea abstractă, ci înfăptuirea practică a tot ce este scris în Învățătură."
       },
       {
        "t": " "
@@ -110001,7 +109933,7 @@
        "strong": "",
        "pos": "prepoziție + sufix",
        "def_ro": "în ea. (bo)",
-       "dict_ro": "Studiul Legii e explicit legat de practică, nu de cunoaștere abstractă — scopul studiului e înfăptuirea poruncilor."
+       "dict_ro": "Scopul studiului nu este cunoașterea abstractă, ci înfăptuirea practică a tot ce este scris în Învățătură."
       },
       {
        "t": " "
@@ -110014,7 +109946,7 @@
        "strong": "H227",
        "pos": "conjuncție + adverb",
        "def_ro": "căci atunci (ki az)",
-       "dict_ro": "Promisiunea izbândirii și a înțelegerii, legată direct de păzirea Legii, confirmă logica legământului biblic."
+       "dict_ro": "Succesul și înțelegerea promise sunt legate direct de ascultarea practică a Învățăturii, nu de meditație izolată."
       },
       {
        "t": " "
@@ -110026,8 +109958,8 @@
        "translit": "tațliah",
        "strong": "H6743",
        "pos": "verb, hifil imperfect",
-       "def_ro": "vei izbândi (tatzliah)",
-       "dict_ro": "Promisiunea izbândirii și a înțelegerii, legată direct de păzirea Legii, confirmă logica legământului biblic."
+       "def_ro": "vei izbândi (tațliah)",
+       "dict_ro": "Succesul și înțelegerea promise sunt legate direct de ascultarea practică a Învățăturii, nu de meditație izolată."
       },
       {
        "t": " "
@@ -110035,12 +109967,12 @@
       {
        "t": "pe calea ta",
        "w": "pe calea ta",
-       "heb": "אֶת דְּרָכֶךָ",
-       "translit": "et deraheha",
+       "heb": "דְּרָכֶךָ",
+       "translit": "deraheha",
        "strong": "H1870",
-       "pos": "marcă a complementului direct + substantiv, masculin și feminin plural construct + sufix",
-       "def_ro": "calea ta (et deraheha)",
-       "dict_ro": "Promisiunea izbândirii și a înțelegerii, legată direct de păzirea Legii, confirmă logica legământului biblic."
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "calea ta (deraheha)",
+       "dict_ro": "Succesul și înțelegerea promise sunt legate direct de ascultarea practică a Învățăturii, nu de meditație izolată."
       },
       {
        "t": " "
@@ -110053,7 +109985,7 @@
        "strong": "H227",
        "pos": "adverb",
        "def_ro": "și atunci (veaz)",
-       "dict_ro": "Promisiunea izbândirii și a înțelegerii, legată direct de păzirea Legii, confirmă logica legământului biblic."
+       "dict_ro": "Succesul și înțelegerea promise sunt legate direct de ascultarea practică a Învățăturii, nu de meditație izolată."
       },
       {
        "t": " "
@@ -110066,7 +109998,7 @@
        "strong": "H7919",
        "pos": "verb, hifil imperfect",
        "def_ro": "vei izbândi. (taskil)",
-       "dict_ro": "Promisiunea izbândirii și a înțelegerii, legată direct de păzirea Legii, confirmă logica legământului biblic."
+       "dict_ro": "Succesul și înțelegerea promise sunt legate direct de ascultarea practică a Învățăturii, nu de meditație izolată."
       }
      ],
      "textCompare": [
@@ -110115,21 +110047,21 @@
        "translit": "halo țivitiha",
        "strong": "H6680",
        "pos": "particulă negativă + verb, piel perfect + sufix",
-       "def_ro": "nu ți-am poruncit? (halo țivitiha)",
-       "dict_ro": "Repetarea formulei «fii tare și curajos» pentru a treia oară în acest capitol confirmă centralitatea curajului în misiunea lui Iosua."
+       "def_ro": "nu te-am poruncit? (halo țivitiha)",
+       "dict_ro": "Întrebarea retorică confirmă că îndemnul la curaj nu e doar o urare, ci o poruncă divină directă."
       },
       {
-       "t": " «"
+       "t": " "
       },
       {
-       "t": "Fii tare",
-       "w": "Fii tare",
+       "t": "«Fii tare",
+       "w": "«Fii tare",
        "heb": "חֲזַק",
        "translit": "hazak",
        "strong": "H2388",
        "pos": "verb, qal imperativ",
        "def_ro": "fii tare (hazak)",
-       "dict_ro": "Repetarea formulei «fii tare și curajos» pentru a treia oară în acest capitol confirmă centralitatea curajului în misiunea lui Iosua."
+       "dict_ro": "A treia repetare a îndemnului «fii tare și curajos» încheie, insistent, tema centrală a discursului de instalare."
       },
       {
        "t": " "
@@ -110142,7 +110074,7 @@
        "strong": "H553",
        "pos": "verb, qal imperativ",
        "def_ro": "și curajos»? (veemaț)",
-       "dict_ro": "Repetarea formulei «fii tare și curajos» pentru a treia oară în acest capitol confirmă centralitatea curajului în misiunea lui Iosua."
+       "dict_ro": "A treia repetare a îndemnului «fii tare și curajos» încheie, insistent, tema centrală a discursului de instalare."
       },
       {
        "t": " "
@@ -110154,8 +110086,8 @@
        "translit": "al taaroț",
        "strong": "H6206",
        "pos": "particulă negativă + verb, qal jusiv",
-       "def_ro": "nu te teme (al taaroț)",
-       "dict_ro": "Interdicția dublă a fricii, alături de promisiunea prezenței divine, formează structura clasică a încurajării profetice în Biblie."
+       "def_ro": "nu te înspăimânta (al taaroț)",
+       "dict_ro": "Dubla interdicție a fricii pregătește afirmația finală: prezența DOMNULUI, nu lipsa pericolului, e temelia curajului cerut."
       },
       {
        "t": " "
@@ -110168,7 +110100,7 @@
        "strong": "H2865",
        "pos": "particulă negativă + verb, nifal jusiv",
        "def_ro": "și nu te îngrozi, (veal tēhat)",
-       "dict_ro": "Interdicția dublă a fricii, alături de promisiunea prezenței divine, formează structura clasică a încurajării profetice în Biblie."
+       "dict_ro": "Dubla interdicție a fricii pregătește afirmația finală: prezența DOMNULUI, nu lipsa pericolului, e temelia curajului cerut."
       },
       {
        "t": " "
@@ -110181,7 +110113,7 @@
        "strong": "H3588",
        "pos": "conjuncție",
        "def_ro": "căci (ki)",
-       "dict_ro": "Prezența DOMNULUI, nu puterea militară, rămâne garanția ultimă a succesului lui Iosua oriunde va merge."
+       "dict_ro": "Prezența DOMNULUI, nu lipsa pericolului, e temelia reală a curajului cerut lui Ioșua."
       },
       {
        "t": " "
@@ -110194,7 +110126,7 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL, (Adonai)",
-       "dict_ro": "Prezența DOMNULUI, nu puterea militară, rămâne garanția ultimă a succesului lui Iosua oriunde va merge."
+       "dict_ro": "Prezența DOMNULUI, nu lipsa pericolului, e temelia reală a curajului cerut lui Ioșua."
       },
       {
        "t": " "
@@ -110207,7 +110139,7 @@
        "strong": "H430",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "Dumnezeul tău, (eloheha)",
-       "dict_ro": "Prezența DOMNULUI, nu puterea militară, rămâne garanția ultimă a succesului lui Iosua oriunde va merge."
+       "dict_ro": "Prezența DOMNULUI, nu lipsa pericolului, e temelia reală a curajului cerut lui Ioșua."
       },
       {
        "t": " "
@@ -110220,7 +110152,7 @@
        "strong": "H5973",
        "pos": "prepoziție + sufix",
        "def_ro": "cu tine (imha)",
-       "dict_ro": "Prezența DOMNULUI, nu puterea militară, rămâne garanția ultimă a succesului lui Iosua oriunde va merge."
+       "dict_ro": "Prezența DOMNULUI, nu lipsa pericolului, e temelia reală a curajului cerut lui Ioșua."
       },
       {
        "t": " "
@@ -110233,7 +110165,7 @@
        "strong": "H834",
        "pos": "substantiv, masculin singular + particulă relativă",
        "def_ro": "în tot ce (behol așer)",
-       "dict_ro": "Prezența DOMNULUI, nu puterea militară, rămâne garanția ultimă a succesului lui Iosua oriunde va merge."
+       "dict_ro": "Promisiunea prezenței divine se extinde asupra oricărui drum pe care Ioșua îl va urma, nu doar asupra cuceririi."
       },
       {
        "t": " "
@@ -110246,7 +110178,7 @@
        "strong": "H3212",
        "pos": "verb, qal imperfect",
        "def_ro": "vei merge. (tēlēh)",
-       "dict_ro": "Prezența DOMNULUI, nu puterea militară, rămâne garanția ultimă a succesului lui Iosua oriunde va merge."
+       "dict_ro": "Promisiunea prezenței divine se extinde asupra oricărui drum pe care Ioșua îl va urma, nu doar asupra cuceririi."
       },
       {
        "t": "”"
@@ -110293,8 +110225,8 @@
        "translit": "vaițav",
        "strong": "H6680",
        "pos": "verb, piel imperfect consecutiv",
-       "def_ro": "și (vaițav)",
-       "dict_ro": "Prima acțiune oficială a lui Iosua ca conducător este transmiterea poruncii primite de la DOMNUL către dregătorii poporului."
+       "def_ro": "și a poruncit (vaițav)",
+       "dict_ro": "Ioșua acționează imediat după discursul divin, transmițând porunca prin dregătorii poporului, structura administrativă deja existentă."
       },
       {
        "t": " "
@@ -110306,8 +110238,8 @@
        "translit": "iehoșua",
        "strong": "H3091",
        "pos": "nume propriu",
-       "def_ro": "Iosua (iehoșua)",
-       "dict_ro": "Prima acțiune oficială a lui Iosua ca conducător este transmiterea poruncii primite de la DOMNUL către dregătorii poporului."
+       "def_ro": "Ioșua (iehoșua)",
+       "dict_ro": "Ioșua acționează imediat după discursul divin, transmițând porunca prin dregătorii poporului, structura administrativă deja existentă."
       },
       {
        "t": " "
@@ -110320,7 +110252,7 @@
        "strong": "H6680",
        "pos": "verb, piel imperfect consecutiv",
        "def_ro": "a poruncit (vaițav)",
-       "dict_ro": "Prima acțiune oficială a lui Iosua ca conducător este transmiterea poruncii primite de la DOMNUL către dregătorii poporului."
+       "dict_ro": "Ioșua acționează imediat după discursul divin, transmițând porunca prin dregătorii poporului, structura administrativă deja existentă."
       },
       {
        "t": " "
@@ -110333,7 +110265,7 @@
        "strong": "H7860",
        "pos": "substantiv, masculin plural construct",
        "def_ro": "dregătorilor (șotrē)",
-       "dict_ro": "Dregătorii poporului funcționau ca administratori intermediari, transmițând ordinele conducerii către tabere și familii."
+       "dict_ro": "Dregătorii poporului, structură administrativă moștenită din timpul lui Moise, transmit porunca la nivelul întregii tabere."
       },
       {
        "t": " "
@@ -110346,7 +110278,7 @@
        "strong": "H5971",
        "pos": "substantiv, masculin singular",
        "def_ro": "poporului, (haam)",
-       "dict_ro": "Dregătorii poporului funcționau ca administratori intermediari, transmițând ordinele conducerii către tabere și familii."
+       "dict_ro": "Dregătorii poporului, structură administrativă moștenită din timpul lui Moise, transmit porunca la nivelul întregii tabere."
       },
       {
        "t": " "
@@ -110359,7 +110291,7 @@
        "strong": "H559",
        "pos": "verb, qal infinitiv",
        "def_ro": "spunând: (lēmor)",
-       "dict_ro": "Formula introductivă obișnuită marchează începutul ordinului dat de Iosua."
+       "dict_ro": "Formula introduce direct conținutul poruncii transmise poporului prin dregători."
       }
      ],
      "textCompare": [
@@ -110397,7 +110329,7 @@
        "strong": "H5674",
        "pos": "verb, qal imperativ",
        "def_ro": "treceți (ivru)",
-       "dict_ro": "Ordinul lui Iosua pregătește concret trecerea Iordanului, programată pentru peste exact trei zile."
+       "dict_ro": "Porunca de pregătire a proviziilor pentru trei zile arată caracterul imediat, organizat al pregătirii pentru trecerea Iordanului."
       },
       {
        "t": " "
@@ -110410,7 +110342,7 @@
        "strong": "H7130",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "prin mijlocul (bekerev)",
-       "dict_ro": "Ordinul lui Iosua pregătește concret trecerea Iordanului, programată pentru peste exact trei zile."
+       "dict_ro": "Porunca de pregătire a proviziilor pentru trei zile arată caracterul imediat, organizat al pregătirii pentru trecerea Iordanului."
       },
       {
        "t": " "
@@ -110423,7 +110355,7 @@
        "strong": "H4264",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "taberei (hamahane)",
-       "dict_ro": "Ordinul lui Iosua pregătește concret trecerea Iordanului, programată pentru peste exact trei zile."
+       "dict_ro": "Porunca de pregătire a proviziilor pentru trei zile arată caracterul imediat, organizat al pregătirii pentru trecerea Iordanului."
       },
       {
        "t": " "
@@ -110436,7 +110368,7 @@
        "strong": "H6680",
        "pos": "verb, piel imperativ",
        "def_ro": "și porunciți (vețauu)",
-       "dict_ro": "Ordinul lui Iosua pregătește concret trecerea Iordanului, programată pentru peste exact trei zile."
+       "dict_ro": "Porunca de pregătire a proviziilor pentru trei zile arată caracterul imediat, organizat al pregătirii pentru trecerea Iordanului."
       },
       {
        "t": " "
@@ -110444,12 +110376,12 @@
       {
        "t": "poporul,",
        "w": "poporul,",
-       "heb": "אֶת",
-       "translit": "et",
-       "strong": "H853",
-       "pos": "marcă a complementului direct",
-       "def_ro": "poporului, (haam)",
-       "dict_ro": "Ordinul lui Iosua pregătește concret trecerea Iordanului, programată pentru peste exact trei zile."
+       "heb": "הָעָם",
+       "translit": "haam",
+       "strong": "H5971",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "poporul, (haam)",
+       "dict_ro": "Porunca de pregătire a proviziilor pentru trei zile arată caracterul imediat, organizat al pregătirii pentru trecerea Iordanului."
       },
       {
        "t": " "
@@ -110462,20 +110394,20 @@
        "strong": "H559",
        "pos": "verb, qal infinitiv",
        "def_ro": "spunând: (lēmor)",
-       "dict_ro": "Formula introductivă obișnuită marchează începutul ordinului transmis prin dregători."
+       "dict_ro": "Formula introduce direct conținutul poruncii adresate întregului popor."
       },
       {
-       "t": " «"
+       "t": " "
       },
       {
-       "t": "Pregătiți pentru voi înșivă",
-       "w": "Pregătiți pentru voi înșivă",
+       "t": "«Pregătiți pentru voi înșivă",
+       "w": "«Pregătiți pentru voi înșivă",
        "heb": "הָכִינוּ לָכֶם",
        "translit": "hahinu lahem",
        "strong": "",
        "pos": "verb, hifil imperativ + prepoziție + sufix",
        "def_ro": "pregătiți-vă (hahinu lahem)",
-       "dict_ro": "Provizia cerută confirmă caracterul iminent, practic, al trecerii — nu o promisiune vagă, ci o campanie programată."
+       "dict_ro": "Porunca de pregătire a proviziilor pentru trei zile arată caracterul imediat, organizat al pregătirii pentru trecerea Iordanului."
       },
       {
        "t": " "
@@ -110488,33 +110420,20 @@
        "strong": "H6720",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "provizii, (țēda)",
-       "dict_ro": "Provizia cerută confirmă caracterul iminent, practic, al trecerii — nu o promisiune vagă, ci o campanie programată."
+       "dict_ro": "Porunca de pregătire a proviziilor pentru trei zile arată caracterul imediat, organizat al pregătirii pentru trecerea Iordanului."
       },
       {
        "t": " "
       },
       {
-       "t": "căci",
-       "w": "căci",
-       "heb": "כִּי",
-       "translit": "ki",
-       "strong": "H3588",
-       "pos": "conjuncție",
-       "def_ro": "căci (ki)",
-       "dict_ro": "Termenul exact de trei zile, dat aici, marchează precis momentul trecerii efective a Iordanului."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "peste încă",
-       "w": "peste încă",
-       "heb": "בְּעוֹד",
-       "translit": "beod",
+       "t": "căci peste încă",
+       "w": "căci peste încă",
+       "heb": "כִּי בְּעוֹד",
+       "translit": "ki beod",
        "strong": "H5750",
-       "pos": "adverb",
-       "def_ro": "peste încă (beod)",
-       "dict_ro": "Termenul exact de trei zile, dat aici, marchează precis momentul trecerii efective a Iordanului."
+       "pos": "conjuncție + adverb",
+       "def_ro": "căci în încă (ki beod)",
+       "dict_ro": "Termenul de trei zile confirmă iminența trecerii Iordanului, deja stabilită ferm de Ioșua."
       },
       {
        "t": " "
@@ -110527,7 +110446,7 @@
        "strong": "H7969",
        "pos": "numeral",
        "def_ro": "trei (șeloșet)",
-       "dict_ro": "Termenul exact de trei zile, dat aici, marchează precis momentul trecerii efective a Iordanului."
+       "dict_ro": "Termenul de trei zile confirmă iminența trecerii Iordanului, deja stabilită ferm de Ioșua."
       },
       {
        "t": " "
@@ -110540,7 +110459,7 @@
        "strong": "H3117",
        "pos": "substantiv, masculin plural",
        "def_ro": "zile (iamim)",
-       "dict_ro": "Termenul exact de trei zile, dat aici, marchează precis momentul trecerii efective a Iordanului."
+       "dict_ro": "Termenul de trei zile confirmă iminența trecerii Iordanului, deja stabilită ferm de Ioșua."
       },
       {
        "t": " "
@@ -110548,12 +110467,12 @@
       {
        "t": "veți trece",
        "w": "veți trece",
-       "heb": "עֹבְרִים",
-       "translit": "ovrim",
+       "heb": "אַתֶּם עֹבְרִים",
+       "translit": "atem ovrim",
        "strong": "H5674",
-       "pos": "verb, qal participiu",
-       "def_ro": "treceți (ovrim)",
-       "dict_ro": "Termenul exact de trei zile, dat aici, marchează precis momentul trecerii efective a Iordanului."
+       "pos": "pronume personal + verb, qal participiu",
+       "def_ro": "voi treceți (atem ovrim)",
+       "dict_ro": "Termenul de trei zile confirmă iminența trecerii Iordanului, deja stabilită ferm de Ioșua."
       },
       {
        "t": " "
@@ -110565,8 +110484,8 @@
        "translit": "haze",
        "strong": "H2088",
        "pos": "pronume demonstrativ",
-       "def_ro": "acesta (haze)",
-       "dict_ro": "Iordanul, menționat din nou, rămâne obstacolul geografic central al întregii narațiuni."
+       "def_ro": "acest (haze)",
+       "dict_ro": "Termenul de trei zile confirmă iminența trecerii Iordanului, deja stabilită ferm de Ioșua."
       },
       {
        "t": " "
@@ -110579,7 +110498,7 @@
        "strong": "H3383",
        "pos": "nume propriu",
        "def_ro": "Iordan, (haiardēn)",
-       "dict_ro": "Iordanul, menționat din nou, rămâne obstacolul geografic central al întregii narațiuni."
+       "dict_ro": "Termenul de trei zile confirmă iminența trecerii Iordanului, deja stabilită ferm de Ioșua."
       },
       {
        "t": " "
@@ -110591,8 +110510,8 @@
        "translit": "lavo",
        "strong": "H935",
        "pos": "verb, qal infinitiv",
-       "def_ro": "ca să veniți (lavo)",
-       "dict_ro": "Scopul trecerii — a lua în stăpânire țara dată de DOMNUL — leagă direct ordinul militar de promisiunea teologică inițială."
+       "def_ro": "să veniți (lavo)",
+       "dict_ro": "Scopul explicit al trecerii este luarea efectivă în stăpânire a țării promise, nu doar traversarea geografică."
       },
       {
        "t": " "
@@ -110604,8 +110523,8 @@
        "translit": "lareșet",
        "strong": "H3423",
        "pos": "verb, qal infinitiv",
-       "def_ro": "să luați în stăpânire (lareșet)",
-       "dict_ro": "Scopul trecerii — a lua în stăpânire țara dată de DOMNUL — leagă direct ordinul militar de promisiunea teologică inițială."
+       "def_ro": "să o stăpâniți (lareșet)",
+       "dict_ro": "Scopul explicit al trecerii este luarea efectivă în stăpânire a țării promise, nu doar traversarea geografică."
       },
       {
        "t": " "
@@ -110618,7 +110537,7 @@
        "strong": "H776",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "țara (haareț)",
-       "dict_ro": "Scopul trecerii — a lua în stăpânire țara dată de DOMNUL — leagă direct ordinul militar de promisiunea teologică inițială."
+       "dict_ro": "Scopul explicit al trecerii este luarea efectivă în stăpânire a țării promise, nu doar traversarea geografică."
       },
       {
        "t": " "
@@ -110631,7 +110550,7 @@
        "strong": "H834",
        "pos": "particulă relativă",
        "def_ro": "pe care (așer)",
-       "dict_ro": "Scopul trecerii — a lua în stăpânire țara dată de DOMNUL — leagă direct ordinul militar de promisiunea teologică inițială."
+       "dict_ro": "Scopul explicit al trecerii este luarea efectivă în stăpânire a țării promise, nu doar traversarea geografică."
       },
       {
        "t": " "
@@ -110644,7 +110563,7 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL, (Adonai)",
-       "dict_ro": "Scopul trecerii — a lua în stăpânire țara dată de DOMNUL — leagă direct ordinul militar de promisiunea teologică inițială."
+       "dict_ro": "Țara este dată de DOMNUL, nu cucerită prin forța proprie, repetând tema centrală a capitolului."
       },
       {
        "t": " "
@@ -110657,7 +110576,7 @@
        "strong": "H430",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "Dumnezeul vostru, (elohēhem)",
-       "dict_ro": "Scopul trecerii — a lua în stăpânire țara dată de DOMNUL — leagă direct ordinul militar de promisiunea teologică inițială."
+       "dict_ro": "Țara este dată de DOMNUL, nu cucerită prin forța proprie, repetând tema centrală a capitolului."
       },
       {
        "t": " "
@@ -110670,23 +110589,20 @@
        "strong": "H5414",
        "pos": "verb, qal participiu",
        "def_ro": "v-o dă (notēn)",
-       "dict_ro": "Scopul trecerii — a lua în stăpânire țara dată de DOMNUL — leagă direct ordinul militar de promisiunea teologică inițială."
+       "dict_ro": "Țara este dată de DOMNUL, nu cucerită prin forța proprie, repetând tema centrală a capitolului."
       },
       {
        "t": " "
       },
       {
-       "t": "în stăpânire.",
-       "w": "în stăpânire.",
-       "heb": "לְרִשְׁתָּהּ",
-       "translit": "leriștah",
+       "t": "în stăpânire.»”",
+       "w": "în stăpânire.»”",
+       "heb": "לָכֶם לְרִשְׁתָּהּ",
+       "translit": "lahem leriștah",
        "strong": "H3423",
-       "pos": "verb, qal infinitiv + sufix",
-       "def_ro": "în stăpânire. (leriștah)",
-       "dict_ro": "Scopul trecerii — a lua în stăpânire țara dată de DOMNUL — leagă direct ordinul militar de promisiunea teologică inițială."
-      },
-      {
-       "t": "»”"
+       "pos": "prepoziție + sufix + verb, qal infinitiv + sufix",
+       "def_ro": "vouă, să o stăpâniți.»” (lahem leriștah)",
+       "dict_ro": "Țara este dată de DOMNUL, nu cucerită prin forța proprie, repetând tema centrală a capitolului."
       }
      ],
      "textCompare": [
@@ -110728,27 +110644,14 @@
      "translit": "Vela'Ruveni vela'Gadi velahatzi șevet ha'Menașe amar Iehoșua lemor.",
      "tokens": [
       {
-       "t": "Iar triburilor lui",
-       "w": "Iar triburilor lui",
+       "t": "Iar triburilor lui Ruben",
+       "w": "Iar triburilor lui Ruben",
        "heb": "וְלָראוּבֵנִי",
        "translit": "velaruvēni",
        "strong": "H7206",
        "pos": "nume de neam",
-       "def_ro": "și Reubenitului (velaruvēni)",
-       "dict_ro": "Triburile lui Ruben, Gad și jumătate din Menașe primiseră deja teritoriul lor la est de Iordan, înainte de trecerea propriu-zisă."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "Ruben",
-       "w": "Ruben",
-       "heb": "וְלָראוּבֵנִי",
-       "translit": "velaruvēni",
-       "strong": "H7206",
-       "pos": "nume de neam",
-       "def_ro": "Ruben (velaruvēni)",
-       "dict_ro": "Triburile lui Ruben, Gad și jumătate din Menașe primiseră deja teritoriul lor la est de Iordan, înainte de trecerea propriu-zisă."
+       "def_ro": "și rubenitului (velaruvēni)",
+       "dict_ro": "Triburile lui Ruben, Gad și jumătate din Menașe, stabilite deja la răsărit de Iordan, primesc o misiune specială de solidaritate militară."
       },
       {
        "t": " "
@@ -110760,34 +110663,34 @@
        "translit": "velagadi",
        "strong": "H1425",
        "pos": "nume de neam",
-       "def_ro": "și Gadului (velagadi)",
-       "dict_ro": "Triburile lui Ruben, Gad și jumătate din Menașe primiseră deja teritoriul lor la est de Iordan, înainte de trecerea propriu-zisă."
+       "def_ro": "și gaditului (velagadi)",
+       "dict_ro": "Triburile lui Ruben, Gad și jumătate din Menașe, stabilite deja la răsărit de Iordan, primesc o misiune specială de solidaritate militară."
       },
       {
        "t": " "
       },
       {
-       "t": "și la jumătate din",
-       "w": "și la jumătate din",
+       "t": "și la jumătate din tribul lui",
+       "w": "și la jumătate din tribul lui",
        "heb": "וְלַחֲצִי שֵׁבֶט",
        "translit": "velahați șēvet",
        "strong": "H7626",
        "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct",
        "def_ro": "și la jumătatea tribului (velahați șēvet)",
-       "dict_ro": "Triburile lui Ruben, Gad și jumătate din Menașe primiseră deja teritoriul lor la est de Iordan, înainte de trecerea propriu-zisă."
+       "dict_ro": "Triburile lui Ruben, Gad și jumătate din Menașe, stabilite deja la răsărit de Iordan, primesc o misiune specială de solidaritate militară."
       },
       {
        "t": " "
       },
       {
-       "t": "tribul lui Menașe,",
-       "w": "tribul lui Menașe,",
+       "t": "Menașe,",
+       "w": "Menașe,",
        "heb": "הַמְנַשֶּׁה",
        "translit": "hamnașe",
        "strong": "H4519",
        "pos": "nume propriu",
-       "def_ro": "lui Menașe, (hamnașe)",
-       "dict_ro": "Triburile lui Ruben, Gad și jumătate din Menașe primiseră deja teritoriul lor la est de Iordan, înainte de trecerea propriu-zisă."
+       "def_ro": "Menașe, (hamnașe)",
+       "dict_ro": "Triburile lui Ruben, Gad și jumătate din Menașe, stabilite deja la răsărit de Iordan, primesc o misiune specială de solidaritate militară."
       },
       {
        "t": " "
@@ -110799,8 +110702,8 @@
        "translit": "iehoșua",
        "strong": "H3091",
        "pos": "nume propriu",
-       "def_ro": "Iosua (iehoșua)",
-       "dict_ro": "Iosua le adresează acestor triburi o cerere specială — ajutor militar pentru frații lor, înainte de a se stabili definitiv."
+       "def_ro": "Ioșua (iehoșua)",
+       "dict_ro": "Ioșua le reamintește acestor triburi angajamentul luat față de Moise, de a ajuta la cucerirea restului țării."
       },
       {
        "t": " "
@@ -110812,8 +110715,8 @@
        "translit": "amar lēmor",
        "strong": "H559",
        "pos": "verb, qal perfect + verb, qal infinitiv",
-       "def_ro": "a spus, spunând: (amar lēmor)",
-       "dict_ro": "Iosua le adresează acestor triburi o cerere specială — ajutor militar pentru frații lor, înainte de a se stabili definitiv."
+       "def_ro": "a spus, (amar lēmor)",
+       "dict_ro": "Ioșua le reamintește acestor triburi angajamentul luat față de Moise, de a ajuta la cucerirea restului țării."
       }
      ],
      "textCompare": [
@@ -110841,56 +110744,40 @@
      "translit": "Zahor et-hadavar așer tziva ethem Moșe eved-ADONAI lemor ADONAI Eloheihem meniah lahem venatan lahem et-haareț hazot.",
      "tokens": [
       {
-       "t": "„"
-      },
-      {
-       "t": "Aduceți-vă aminte de",
-       "w": "Aduceți-vă aminte de",
+       "t": "„Aduceți-vă aminte",
+       "w": "„Aduceți-vă aminte",
        "heb": "זָכוֹר",
        "translit": "zahor",
        "strong": "H2142",
        "pos": "verb, qal infinitiv absolut",
-       "def_ro": "aduceți-vă aminte de (zahor)",
-       "dict_ro": "Iosua invocă explicit o poruncă anterioară a lui Moise, confirmând continuitatea autorității dintre cei doi conducători."
+       "def_ro": "aduceți-vă aminte (zahor)",
+       "dict_ro": "Aceste triburi, deja stabilite la răsărit de Iordan, sunt chemate să-și reamintească angajamentul luat față de Moise."
       },
       {
        "t": " "
       },
       {
-       "t": "lucrul",
-       "w": "lucrul",
+       "t": "de lucrul",
+       "w": "de lucrul",
        "heb": "הַדָּבָר",
        "translit": "hadavar",
        "strong": "H1697",
        "pos": "substantiv, masculin singular",
        "def_ro": "lucrul (hadavar)",
-       "dict_ro": "Iosua invocă explicit o poruncă anterioară a lui Moise, confirmând continuitatea autorității dintre cei doi conducători."
+       "dict_ro": "Aceste triburi, deja stabilite la răsărit de Iordan, sunt chemate să-și reamintească angajamentul luat față de Moise."
       },
       {
        "t": " "
       },
       {
-       "t": "pe care",
-       "w": "pe care",
-       "heb": "אֲשֶׁר",
-       "translit": "așer",
-       "strong": "H834",
-       "pos": "particulă relativă",
-       "def_ro": "pe care (așer)",
-       "dict_ro": "Iosua invocă explicit o poruncă anterioară a lui Moise, confirmând continuitatea autorității dintre cei doi conducători."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "vi l-a poruncit",
-       "w": "vi l-a poruncit",
-       "heb": "צִוָּה אֶתְכֶם",
-       "translit": "țiva ethem",
+       "t": "pe care vi l-a poruncit",
+       "w": "pe care vi l-a poruncit",
+       "heb": "אֲשֶׁר צִוָּה אֶתְכֶם",
+       "translit": "așer țiva ethem",
        "strong": "H853",
-       "pos": "verb, piel perfect + marcă a complementului direct + sufix",
-       "def_ro": "vi l-a poruncit (țiva ethem)",
-       "dict_ro": "Iosua invocă explicit o poruncă anterioară a lui Moise, confirmând continuitatea autorității dintre cei doi conducători."
+       "pos": "particulă relativă + verb, piel perfect + marcă a complementului direct + sufix",
+       "def_ro": "pe care v-a poruncit (așer țiva ethem)",
+       "dict_ro": "Aceste triburi, deja stabilite la răsărit de Iordan, sunt chemate să-și reamintească angajamentul luat față de Moise."
       },
       {
        "t": " "
@@ -110903,7 +110790,7 @@
        "strong": "H4872",
        "pos": "nume propriu",
        "def_ro": "Moise, (moșe)",
-       "dict_ro": "Titlul «slujitorul DOMNULUI», repetat aici despre Moise, confirmă autoritatea poruncii invocate de Iosua."
+       "dict_ro": "Titlul «slujitorul DOMNULUI» confirmă autoritatea poruncii pe care Moise a transmis-o acestor triburi."
       },
       {
        "t": " "
@@ -110916,7 +110803,7 @@
        "strong": "H5650",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "slujitorul (eved)",
-       "dict_ro": "Titlul «slujitorul DOMNULUI», repetat aici despre Moise, confirmă autoritatea poruncii invocate de Iosua."
+       "dict_ro": "Titlul «slujitorul DOMNULUI» confirmă autoritatea poruncii pe care Moise a transmis-o acestor triburi."
       },
       {
        "t": " "
@@ -110929,7 +110816,7 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNULUI, (Adonai)",
-       "dict_ro": "Titlul «slujitorul DOMNULUI», repetat aici despre Moise, confirmă autoritatea poruncii invocate de Iosua."
+       "dict_ro": "Titlul «slujitorul DOMNULUI» confirmă autoritatea poruncii pe care Moise a transmis-o acestor triburi."
       },
       {
        "t": " "
@@ -110942,20 +110829,20 @@
        "strong": "H559",
        "pos": "verb, qal infinitiv",
        "def_ro": "spunând: (lēmor)",
-       "dict_ro": "Formula introductivă marchează citarea exactă a poruncii date de Moise triburilor de la est de Iordan."
+       "dict_ro": "Formula introduce direct cuvintele promisiunii odihnei repetate aici de Ioșua."
       },
       {
-       "t": " «"
+       "t": " "
       },
       {
-       "t": "DOMNUL,",
-       "w": "DOMNUL,",
+       "t": "«DOMNUL,",
+       "w": "«DOMNUL,",
        "heb": "יְהוָה",
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL, (Adonai)",
-       "dict_ro": "Odihna promisă de DOMNUL, Dumnezeul lor, justifică obligația acestor triburi de a ajuta frații lor la cucerirea restului țării."
+       "dict_ro": "Promisiunea odihnei, repetată aici de Ioșua, leagă direct misiunea prezentă de cuvintele originale ale lui Moise."
       },
       {
        "t": " "
@@ -110968,7 +110855,7 @@
        "strong": "H430",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "Dumnezeul vostru, (elohēhem)",
-       "dict_ro": "Odihna promisă de DOMNUL, Dumnezeul lor, justifică obligația acestor triburi de a ajuta frații lor la cucerirea restului țării."
+       "dict_ro": "Promisiunea odihnei, repetată aici de Ioșua, leagă direct misiunea prezentă de cuvintele originale ale lui Moise."
       },
       {
        "t": " "
@@ -110981,7 +110868,7 @@
        "strong": "",
        "pos": "verb, hifil participiu + prepoziție + sufix",
        "def_ro": "vă dă odihnă (mēniah lahem)",
-       "dict_ro": "Odihna promisă de DOMNUL, Dumnezeul lor, justifică obligația acestor triburi de a ajuta frații lor la cucerirea restului țării."
+       "dict_ro": "Promisiunea odihnei, repetată aici de Ioșua, leagă direct misiunea prezentă de cuvintele originale ale lui Moise."
       },
       {
        "t": " "
@@ -110993,24 +110880,34 @@
        "translit": "venatan lahem",
        "strong": "",
        "pos": "verb, qal perfect consecutiv + prepoziție + sufix",
-       "def_ro": "și va da (venatan lahem)",
-       "dict_ro": "Odihna promisă de DOMNUL, Dumnezeul lor, justifică obligația acestor triburi de a ajuta frații lor la cucerirea restului țării."
+       "def_ro": "și va da vouă (venatan lahem)",
+       "dict_ro": "Promisiunea odihnei, repetată aici de Ioșua, leagă direct misiunea prezentă de cuvintele originale ale lui Moise."
       },
       {
        "t": " "
       },
       {
-       "t": "această țară.",
-       "w": "această țară.",
-       "heb": "הָאָרֶץ הַזֹּאת",
-       "translit": "haareț hazot",
+       "t": "această",
+       "w": "această",
+       "heb": "הַזֹּאת",
+       "translit": "hazot",
        "strong": "H2063",
-       "pos": "substantiv, masculin și feminin singular + pronume demonstrativ",
-       "def_ro": "țara aceasta. (haareț hazot)",
-       "dict_ro": "Odihna promisă de DOMNUL, Dumnezeul lor, justifică obligația acestor triburi de a ajuta frații lor la cucerirea restului țării."
+       "pos": "pronume demonstrativ",
+       "def_ro": "această (hazot)",
+       "dict_ro": "Promisiunea odihnei, repetată aici de Ioșua, leagă direct misiunea prezentă de cuvintele originale ale lui Moise."
       },
       {
-       "t": "»"
+       "t": " "
+      },
+      {
+       "t": "țară.»",
+       "w": "țară.»",
+       "heb": "הָאָרֶץ",
+       "translit": "haareț",
+       "strong": "H776",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "țară. (haareț)",
+       "dict_ro": "Promisiunea odihnei, repetată aici de Ioșua, leagă direct misiunea prezentă de cuvintele originale ale lui Moise."
       }
      ],
      "textCompare": [
@@ -111054,7 +110951,7 @@
        "strong": "H802",
        "pos": "substantiv, feminin plural construct + sufix",
        "def_ro": "soțiile voastre, (neșēhem)",
-       "dict_ro": "Familiile și turmele triburilor transiordaniene rămân pe teritoriul deja stabilit, în timp ce bărbații înarmați vor ajuta la cucerirea de dincolo."
+       "dict_ro": "Familiile și turmele acestor triburi rămân la răsărit de Iordan, pe teritoriul deja primit, cât bărbații trec să ajute cucerirea."
       },
       {
        "t": " "
@@ -111066,8 +110963,8 @@
        "translit": "taphem",
        "strong": "H2945",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "copiii voștri (taphem)",
-       "dict_ro": "Familiile și turmele triburilor transiordaniene rămân pe teritoriul deja stabilit, în timp ce bărbații înarmați vor ajuta la cucerirea de dincolo."
+       "def_ro": "pruncii voștri (taphem)",
+       "dict_ro": "Familiile și turmele acestor triburi rămân la răsărit de Iordan, pe teritoriul deja primit, cât bărbații trec să ajute cucerirea."
       },
       {
        "t": " "
@@ -111080,7 +110977,7 @@
        "strong": "H4735",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "și turmele voastre (umiknēhem)",
-       "dict_ro": "Familiile și turmele triburilor transiordaniene rămân pe teritoriul deja stabilit, în timp ce bărbații înarmați vor ajuta la cucerirea de dincolo."
+       "dict_ro": "Familiile și turmele acestor triburi rămân la răsărit de Iordan, pe teritoriul deja primit, cât bărbații trec să ajute cucerirea."
       },
       {
        "t": " "
@@ -111093,7 +110990,7 @@
        "strong": "H3427",
        "pos": "verb, qal imperfect",
        "def_ro": "vor locui (iēșvu)",
-       "dict_ro": "Familiile și turmele triburilor transiordaniene rămân pe teritoriul deja stabilit, în timp ce bărbații înarmați vor ajuta la cucerirea de dincolo."
+       "dict_ro": "Familiile și turmele acestor triburi rămân la răsărit de Iordan, pe teritoriul deja primit, cât bărbații trec să ajute cucerirea."
       },
       {
        "t": " "
@@ -111106,7 +111003,7 @@
        "strong": "H776",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "în țara (baareț)",
-       "dict_ro": "Familiile și turmele triburilor transiordaniene rămân pe teritoriul deja stabilit, în timp ce bărbații înarmați vor ajuta la cucerirea de dincolo."
+       "dict_ro": "Familiile și turmele acestor triburi rămân la răsărit de Iordan, pe teritoriul deja primit, cât bărbații trec să ajute cucerirea."
       },
       {
        "t": " "
@@ -111119,7 +111016,7 @@
        "strong": "H834",
        "pos": "particulă relativă",
        "def_ro": "pe care (așer)",
-       "dict_ro": "Familiile și turmele triburilor transiordaniene rămân pe teritoriul deja stabilit, în timp ce bărbații înarmați vor ajuta la cucerirea de dincolo."
+       "dict_ro": "Teritoriul estic al Iordanului fusese deja distribuit de Moise, înainte de moartea sa, acestor trei triburi."
       },
       {
        "t": " "
@@ -111132,7 +111029,7 @@
        "strong": "H4872",
        "pos": "nume propriu",
        "def_ro": "Moise (moșe)",
-       "dict_ro": "Moise însuși, nu Iosua, fusese cel care stabilise aceste triburi pe malul estic al Iordanului."
+       "dict_ro": "Teritoriul estic al Iordanului fusese deja distribuit de Moise, înainte de moartea sa, acestor trei triburi."
       },
       {
        "t": " "
@@ -111144,8 +111041,8 @@
        "translit": "natan lahem",
        "strong": "",
        "pos": "verb, qal perfect + prepoziție + sufix",
-       "def_ro": "v-a dat-o (natan lahem)",
-       "dict_ro": "Familiile și turmele triburilor transiordaniene rămân pe teritoriul deja stabilit, în timp ce bărbații înarmați vor ajuta la cucerirea de dincolo."
+       "def_ro": "v-a dat (natan lahem)",
+       "dict_ro": "Teritoriul estic al Iordanului fusese deja distribuit de Moise, înainte de moartea sa, acestor trei triburi."
       },
       {
        "t": " "
@@ -111157,8 +111054,8 @@
        "translit": "beēver",
        "strong": "H5676",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "dincolo de (beēver)",
-       "dict_ro": "Moise însuși, nu Iosua, fusese cel care stabilise aceste triburi pe malul estic al Iordanului."
+       "def_ro": "pe malul de (beēver)",
+       "dict_ro": "Teritoriul estic al Iordanului fusese deja distribuit de Moise, înainte de moartea sa, acestor trei triburi."
       },
       {
        "t": " "
@@ -111171,7 +111068,7 @@
        "strong": "H3383",
        "pos": "nume propriu",
        "def_ro": "Iordan. (haiardēn)",
-       "dict_ro": "Moise însuși, nu Iosua, fusese cel care stabilise aceste triburi pe malul estic al Iordanului."
+       "dict_ro": "Teritoriul estic al Iordanului fusese deja distribuit de Moise, înainte de moartea sa, acestor trei triburi."
       },
       {
        "t": " "
@@ -111184,7 +111081,7 @@
        "strong": "H859",
        "pos": "pronume personal",
        "def_ro": "și voi (veatem)",
-       "dict_ro": "Doar luptătorii înarmați, nu familiile întregi, sunt chemați să treacă efectiv Iordanul pentru campania militară."
+       "dict_ro": "Doar luptătorii înarmați ai acestor triburi trec Iordanul, lăsând familiile în siguranță pe teritoriul deja stabilit."
       },
       {
        "t": " "
@@ -111196,8 +111093,8 @@
        "translit": "taavru",
        "strong": "H5674",
        "pos": "verb, qal imperfect",
-       "def_ro": "veți trece (taavru)",
-       "dict_ro": "Doar luptătorii înarmați, nu familiile întregi, sunt chemați să treacă efectiv Iordanul pentru campania militară."
+       "def_ro": "veți trece, (taavru)",
+       "dict_ro": "Doar luptătorii înarmați ai acestor triburi trec Iordanul, lăsând familiile în siguranță pe teritoriul deja stabilit."
       },
       {
        "t": " "
@@ -111210,7 +111107,7 @@
        "strong": "H2571",
        "pos": "verb, qal participiu pasiv",
        "def_ro": "înarmați, (hamușim)",
-       "dict_ro": "Doar luptătorii înarmați, nu familiile întregi, sunt chemați să treacă efectiv Iordanul pentru campania militară."
+       "dict_ro": "Doar luptătorii înarmați ai acestor triburi trec Iordanul, lăsând familiile în siguranță pe teritoriul deja stabilit."
       },
       {
        "t": " "
@@ -111223,7 +111120,7 @@
        "strong": "H6440",
        "pos": "substantiv, masculin și feminin plural construct",
        "def_ro": "înaintea (lifnē)",
-       "dict_ro": "Rolul acestor triburi e explicit unul de avangardă militară, mergând înaintea fraților lor în cucerirea Canaanului."
+       "dict_ro": "Poziția «înaintea fraților» sugerează un rol de avangardă militară pentru aceste triburi în cucerirea restului țării."
       },
       {
        "t": " "
@@ -111236,20 +111133,20 @@
        "strong": "H251",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "fraților voștri (ahēhem)",
-       "dict_ro": "Rolul acestor triburi e explicit unul de avangardă militară, mergând înaintea fraților lor în cucerirea Canaanului."
+       "dict_ro": "Poziția «înaintea fraților» sugerează un rol de avangardă militară pentru aceste triburi în cucerirea restului țării."
       },
       {
-       "t": " – "
+       "t": " "
       },
       {
-       "t": "toți",
-       "w": "toți",
+       "t": "– toți",
+       "w": "– toți",
        "heb": "כֹּל",
        "translit": "kol",
        "strong": "H3605",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "toți (kol)",
-       "dict_ro": "Rolul acestor triburi e explicit unul de avangardă militară, mergând înaintea fraților lor în cucerirea Canaanului."
+       "dict_ro": "Titlul «luptătorii cei viteji» confirmă calitatea militară a celor trimiși să ajute restul poporului."
       },
       {
        "t": " "
@@ -111261,21 +111158,21 @@
        "translit": "giborē hahail",
        "strong": "H2428",
        "pos": "adjectiv, masculin plural + substantiv, masculin singular",
-       "def_ro": "viteazii puterii (giborē hahail)",
-       "dict_ro": "Rolul acestor triburi e explicit unul de avangardă militară, mergând înaintea fraților lor în cucerirea Canaanului."
+       "def_ro": "viteji ai oștii (giborē hahail)",
+       "dict_ro": "Titlul «luptătorii cei viteji» confirmă calitatea militară a celor trimiși să ajute restul poporului."
       },
       {
-       "t": " – "
+       "t": " "
       },
       {
-       "t": "și să îi ajutați,",
-       "w": "și să îi ajutați,",
+       "t": "– și să îi ajutați,",
+       "w": "– și să îi ajutați,",
        "heb": "וַעֲזַרְתֶּם אוֹתָם",
        "translit": "vaazartem otam",
        "strong": "H853",
        "pos": "verb, qal perfect consecutiv + marcă a complementului direct + sufix",
        "def_ro": "și îi veți ajuta, (vaazartem otam)",
-       "dict_ro": "Rolul acestor triburi e explicit unul de avangardă militară, mergând înaintea fraților lor în cucerirea Canaanului."
+       "dict_ro": "Angajamentul de a ajuta restul poporului în cucerire e condiția pentru care aceste triburi au primit deja teritoriul lor."
       }
      ],
      "textCompare": [
@@ -111312,8 +111209,8 @@
        "translit": "ad așer",
        "strong": "H834",
        "pos": "prepoziție + particulă relativă",
-       "def_ro": "până ce (ad așer)",
-       "dict_ro": "Obligația militară a triburilor transiordaniene durează doar până ce restul poporului primește, la rândul lui, odihna promisă."
+       "def_ro": "până când (ad așer)",
+       "dict_ro": "Odihna promisă restului poporului trebuie să vină înainte ca triburile estice să se poată întoarce liniștite acasă."
       },
       {
        "t": " "
@@ -111325,8 +111222,8 @@
        "translit": "ianiah",
        "strong": "H5117",
        "pos": "verb, hifil imperfect",
-       "def_ro": "va da odihnă (ianiah)",
-       "dict_ro": "Obligația militară a triburilor transiordaniene durează doar până ce restul poporului primește, la rândul lui, odihna promisă."
+       "def_ro": "va da (ianiah)",
+       "dict_ro": "Odihna promisă restului poporului trebuie să vină înainte ca triburile estice să se poată întoarce liniștite acasă."
       },
       {
        "t": " "
@@ -111339,7 +111236,7 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL (Adonai)",
-       "dict_ro": "Obligația militară a triburilor transiordaniene durează doar până ce restul poporului primește, la rândul lui, odihna promisă."
+       "dict_ro": "Odihna promisă restului poporului trebuie să vină înainte ca triburile estice să se poată întoarce liniștite acasă."
       },
       {
        "t": " "
@@ -111352,7 +111249,7 @@
        "strong": "H251",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "fraților voștri (laahēhem)",
-       "dict_ro": "Obligația militară a triburilor transiordaniene durează doar până ce restul poporului primește, la rândul lui, odihna promisă."
+       "dict_ro": "Odihna promisă restului poporului trebuie să vină înainte ca triburile estice să se poată întoarce liniștite acasă."
       },
       {
        "t": " "
@@ -111365,7 +111262,7 @@
        "strong": "H5117",
        "pos": "verb, hifil imperfect",
        "def_ro": "odihnă (ianiah)",
-       "dict_ro": "Obligația militară a triburilor transiordaniene durează doar până ce restul poporului primește, la rândul lui, odihna promisă."
+       "dict_ro": "Odihna promisă restului poporului trebuie să vină înainte ca triburile estice să se poată întoarce liniștite acasă."
       },
       {
        "t": " "
@@ -111377,21 +111274,34 @@
        "translit": "kahem",
        "strong": "",
        "pos": "prepoziție + sufix",
-       "def_ro": "ca și vouă, (kahem)",
-       "dict_ro": "Obligația militară a triburilor transiordaniene durează doar până ce restul poporului primește, la rândul lui, odihna promisă."
+       "def_ro": "ca vouă, (kahem)",
+       "dict_ro": "Odihna promisă restului poporului trebuie să vină înainte ca triburile estice să se poată întoarce liniștite acasă."
       },
       {
        "t": " "
       },
       {
-       "t": "și vor lua și ei în stăpânire",
-       "w": "și vor lua și ei în stăpânire",
+       "t": "și vor lua și ei",
+       "w": "și vor lua și ei",
        "heb": "וְיָרְשׁוּ גַם הֵמָּה",
        "translit": "veiarșu gam hēma",
        "strong": "H1992",
        "pos": "verb, qal perfect consecutiv + adverb + pronume personal",
-       "def_ro": "și vor lua, și ei de asemenea, (veiarșu gam hēma)",
-       "dict_ro": "Formula «și ei de asemenea» confirmă egalitatea deplină de statut între triburile transiordaniene și restul poporului."
+       "def_ro": "și vor stăpâni și ei (veiarșu gam hēma)",
+       "dict_ro": "Toate triburile, nu doar cele estice, vor lua în stăpânire partea lor din țara promisă de DOMNUL."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în stăpânire",
+       "w": "în stăpânire",
+       "heb": "אֶת",
+       "translit": "et",
+       "strong": "H853",
+       "pos": "marcă a complementului direct",
+       "def_ro": "(et)",
+       "dict_ro": "Toate triburile, nu doar cele estice, vor lua în stăpânire partea lor din țara promisă de DOMNUL."
       },
       {
        "t": " "
@@ -111404,7 +111314,7 @@
        "strong": "H776",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "țara (haareț)",
-       "dict_ro": "Formula «și ei de asemenea» confirmă egalitatea deplină de statut între triburile transiordaniene și restul poporului."
+       "dict_ro": "Toate triburile, nu doar cele estice, vor lua în stăpânire partea lor din țara promisă de DOMNUL."
       },
       {
        "t": " "
@@ -111417,7 +111327,7 @@
        "strong": "H834",
        "pos": "particulă relativă",
        "def_ro": "pe care (așer)",
-       "dict_ro": "Formula «și ei de asemenea» confirmă egalitatea deplină de statut între triburile transiordaniene și restul poporului."
+       "dict_ro": "Toate triburile, nu doar cele estice, vor lua în stăpânire partea lor din țara promisă de DOMNUL."
       },
       {
        "t": " "
@@ -111430,7 +111340,7 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL, (Adonai)",
-       "dict_ro": "Formula «și ei de asemenea» confirmă egalitatea deplină de statut între triburile transiordaniene și restul poporului."
+       "dict_ro": "Toate triburile, nu doar cele estice, vor lua în stăpânire partea lor din țara promisă de DOMNUL."
       },
       {
        "t": " "
@@ -111443,7 +111353,7 @@
        "strong": "H430",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "Dumnezeul vostru, (elohēhem)",
-       "dict_ro": "Formula «și ei de asemenea» confirmă egalitatea deplină de statut între triburile transiordaniene și restul poporului."
+       "dict_ro": "Toate triburile, nu doar cele estice, vor lua în stăpânire partea lor din țara promisă de DOMNUL."
       },
       {
        "t": " "
@@ -111456,7 +111366,7 @@
        "strong": "",
        "pos": "verb, qal participiu + prepoziție + sufix",
        "def_ro": "le-o dă. (notēn lahem)",
-       "dict_ro": "Formula «și ei de asemenea» confirmă egalitatea deplină de statut între triburile transiordaniene și restul poporului."
+       "dict_ro": "Toate triburile, nu doar cele estice, vor lua în stăpânire partea lor din țara promisă de DOMNUL."
       },
       {
        "t": " "
@@ -111469,7 +111379,7 @@
        "strong": "H7725",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "și vă veți întoarce (veșavtem)",
-       "dict_ro": "Permisiunea întoarcerii confirmă explicit caracterul temporar al misiunii militare a acestor triburi la vest de Iordan."
+       "dict_ro": "Doar după împlinirea misiunii de ajutor, triburile estice se vor putea întoarce definitiv la teritoriul lor."
       },
       {
        "t": " "
@@ -111482,7 +111392,7 @@
        "strong": "H776",
        "pos": "substantiv, masculin și feminin singular construct",
        "def_ro": "la țara (leereț)",
-       "dict_ro": "Permisiunea întoarcerii confirmă explicit caracterul temporar al misiunii militare a acestor triburi la vest de Iordan."
+       "dict_ro": "Doar după împlinirea misiunii de ajutor, triburile estice se vor putea întoarce definitiv la teritoriul lor."
       },
       {
        "t": " "
@@ -111495,7 +111405,7 @@
        "strong": "H3425",
        "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "moștenirii voastre (ierușathem)",
-       "dict_ro": "Permisiunea întoarcerii confirmă explicit caracterul temporar al misiunii militare a acestor triburi la vest de Iordan."
+       "dict_ro": "Doar după împlinirea misiunii de ajutor, triburile estice se vor putea întoarce definitiv la teritoriul lor."
       },
       {
        "t": " "
@@ -111507,8 +111417,8 @@
        "translit": "viriștem otah",
        "strong": "H853",
        "pos": "verb, qal perfect consecutiv + marcă a complementului direct + sufix",
-       "def_ro": "și o veți moșteni, (viriștem otah)",
-       "dict_ro": "Permisiunea întoarcerii confirmă explicit caracterul temporar al misiunii militare a acestor triburi la vest de Iordan."
+       "def_ro": "și o veți stăpâni, (viriștem otah)",
+       "dict_ro": "Doar după împlinirea misiunii de ajutor, triburile estice se vor putea întoarce definitiv la teritoriul lor."
       },
       {
        "t": " "
@@ -111516,12 +111426,12 @@
       {
        "t": "[țara] pe care",
        "w": "[țara] pe care",
-       "heb": "אֲשֶׁר",
-       "translit": "așer",
-       "strong": "H834",
-       "pos": "particulă relativă",
-       "def_ro": "pe care (așer)",
-       "dict_ro": "Repetarea precizării «slujitorul DOMNULUI» despre Moise, chiar în acest context administrativ, confirmă greutatea permanentă a autorității sale."
+       "heb": "אֲשֶׁר נָתַן",
+       "translit": "așer natan",
+       "strong": "H5414",
+       "pos": "particulă relativă + verb, qal perfect",
+       "def_ro": "pe care a dat (așer natan)",
+       "dict_ro": "Repetarea titlului «slujitorul DOMNULUI» pentru Moise confirmă încă o dată autoritatea distribuției teritoriale estice."
       },
       {
        "t": " "
@@ -111534,7 +111444,7 @@
        "strong": "H4872",
        "pos": "nume propriu",
        "def_ro": "Moise, (moșe)",
-       "dict_ro": "Repetarea precizării «slujitorul DOMNULUI» despre Moise, chiar în acest context administrativ, confirmă greutatea permanentă a autorității sale."
+       "dict_ro": "Repetarea titlului «slujitorul DOMNULUI» pentru Moise confirmă încă o dată autoritatea distribuției teritoriale estice."
       },
       {
        "t": " "
@@ -111547,7 +111457,7 @@
        "strong": "H5650",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "slujitorul (eved)",
-       "dict_ro": "Repetarea precizării «slujitorul DOMNULUI» despre Moise, chiar în acest context administrativ, confirmă greutatea permanentă a autorității sale."
+       "dict_ro": "Repetarea titlului «slujitorul DOMNULUI» pentru Moise confirmă încă o dată autoritatea distribuției teritoriale estice."
       },
       {
        "t": " "
@@ -111560,7 +111470,7 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNULUI, (Adonai)",
-       "dict_ro": "Repetarea precizării «slujitorul DOMNULUI» despre Moise, chiar în acest context administrativ, confirmă greutatea permanentă a autorității sale."
+       "dict_ro": "Repetarea titlului «slujitorul DOMNULUI» pentru Moise confirmă încă o dată autoritatea distribuției teritoriale estice."
       },
       {
        "t": " "
@@ -111568,12 +111478,12 @@
       {
        "t": "v-a dat-o",
        "w": "v-a dat-o",
-       "heb": "נָתַן לָכֶם",
-       "translit": "natan lahem",
+       "heb": "לָכֶם",
+       "translit": "lahem",
        "strong": "",
-       "pos": "verb, qal perfect + prepoziție + sufix",
-       "def_ro": "v-a dat-o (natan lahem)",
-       "dict_ro": "Repetarea precizării «slujitorul DOMNULUI» despre Moise, chiar în acest context administrativ, confirmă greutatea permanentă a autorității sale."
+       "pos": "prepoziție + sufix",
+       "def_ro": "v-a dat-o (lahem)",
+       "dict_ro": "Repetarea titlului «slujitorul DOMNULUI» pentru Moise confirmă încă o dată autoritatea distribuției teritoriale estice."
       },
       {
        "t": " "
@@ -111585,8 +111495,8 @@
        "translit": "beēver",
        "strong": "H5676",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "dincolo de (beēver)",
-       "dict_ro": "Repetarea precizării «slujitorul DOMNULUI» despre Moise, chiar în acest context administrativ, confirmă greutatea permanentă a autorității sale."
+       "def_ro": "pe malul de (beēver)",
+       "dict_ro": "Teritoriul estic, dincolo de Iordan, spre răsărit, este descris precis ca punct de origine al acestor triburi."
       },
       {
        "t": " "
@@ -111599,7 +111509,7 @@
        "strong": "H3383",
        "pos": "nume propriu",
        "def_ro": "Iordan, (haiardēn)",
-       "dict_ro": "Repetarea precizării «slujitorul DOMNULUI» despre Moise, chiar în acest context administrativ, confirmă greutatea permanentă a autorității sale."
+       "dict_ro": "Teritoriul estic, dincolo de Iordan, spre răsărit, este descris precis ca punct de origine al acestor triburi."
       },
       {
        "t": " "
@@ -111612,7 +111522,7 @@
        "strong": "H8121",
        "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular",
        "def_ro": "spre răsăritul soarelui. (mizrah hașameș)",
-       "dict_ro": "Precizia geografică finală — malul de răsărit — confirmă exact teritoriul deja atribuit triburilor transiordaniene."
+       "dict_ro": "Teritoriul estic, dincolo de Iordan, spre răsărit, este descris precis ca punct de origine al acestor triburi."
       },
       {
        "t": "”"
@@ -111653,7 +111563,7 @@
        "strong": "H6030",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și au răspuns (vaiaanu)",
-       "dict_ro": "Răspunsul unanim de supunere al poporului confirmă acceptarea deplină a autorității lui Iosua, imediat după numirea sa."
+       "dict_ro": "Răspunsul unanim al triburilor confirmă acceptarea deplină a autorității lui Ioșua ca succesor al lui Moise."
       },
       {
        "t": " "
@@ -111665,8 +111575,8 @@
        "translit": "iehoșua",
        "strong": "H3091",
        "pos": "nume propriu",
-       "def_ro": "lui Iosua, (iehoșua)",
-       "dict_ro": "Răspunsul unanim de supunere al poporului confirmă acceptarea deplină a autorității lui Iosua, imediat după numirea sa."
+       "def_ro": "lui Ioșua, (iehoșua)",
+       "dict_ro": "Răspunsul unanim al triburilor confirmă acceptarea deplină a autorității lui Ioșua ca succesor al lui Moise."
       },
       {
        "t": " "
@@ -111679,20 +111589,20 @@
        "strong": "H559",
        "pos": "verb, qal infinitiv",
        "def_ro": "spunând: (lēmor)",
-       "dict_ro": "Formula introductivă marchează începutul răspunsului formal al poporului către noul conducător."
+       "dict_ro": "Formula introduce direct declarația de fidelitate a triburilor față de Ioșua."
       },
       {
-       "t": " „"
+       "t": " "
       },
       {
-       "t": "Tot ceea ce",
-       "w": "Tot ceea ce",
+       "t": "„Tot ceea ce",
+       "w": "„Tot ceea ce",
        "heb": "כֹּל אֲשֶׁר",
        "translit": "kol așer",
        "strong": "H834",
        "pos": "substantiv, masculin singular + particulă relativă",
        "def_ro": "tot ce (kol așer)",
-       "dict_ro": "Supunerea deplină, necondiționată, promisă lui Iosua reflectă tocmai curajul și autoritatea pe care DOMNUL i le-a conferit."
+       "dict_ro": "Promisiunea de supunere totală — «tot ce ne-ai poruncit vom face» — repetă formula clasică a legământului de la Sinai."
       },
       {
        "t": " "
@@ -111705,7 +111615,7 @@
        "strong": "H6680",
        "pos": "verb, piel perfect + sufix",
        "def_ro": "ne-ai poruncit (țivitanu)",
-       "dict_ro": "Supunerea deplină, necondiționată, promisă lui Iosua reflectă tocmai curajul și autoritatea pe care DOMNUL i le-a conferit."
+       "dict_ro": "Promisiunea de supunere totală — «tot ce ne-ai poruncit vom face» — repetă formula clasică a legământului de la Sinai."
       },
       {
        "t": " "
@@ -111718,33 +111628,20 @@
        "strong": "H6213",
        "pos": "verb, qal imperfect",
        "def_ro": "vom face (naase)",
-       "dict_ro": "Supunerea deplină, necondiționată, promisă lui Iosua reflectă tocmai curajul și autoritatea pe care DOMNUL i le-a conferit."
+       "dict_ro": "Promisiunea de supunere totală — «tot ce ne-ai poruncit vom face» — repetă formula clasică a legământului de la Sinai."
       },
       {
        "t": " "
       },
       {
-       "t": "și",
-       "w": "și",
-       "heb": "וְאֶל",
-       "translit": "veel",
-       "strong": "H413",
-       "pos": "prepoziție",
-       "def_ro": "și (veel)",
-       "dict_ro": "Supunerea deplină, necondiționată, promisă lui Iosua reflectă tocmai curajul și autoritatea pe care DOMNUL i le-a conferit."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "oriunde",
-       "w": "oriunde",
-       "heb": "כָּל אֲשֶׁר",
-       "translit": "kal așer",
+       "t": "și oriunde",
+       "w": "și oriunde",
+       "heb": "וְאֶל כָּל אֲשֶׁר",
+       "translit": "veel kal așer",
        "strong": "H834",
-       "pos": "substantiv, masculin singular construct + particulă relativă",
-       "def_ro": "la tot ce (kal așer)",
-       "dict_ro": "Supunerea deplină, necondiționată, promisă lui Iosua reflectă tocmai curajul și autoritatea pe care DOMNUL i le-a conferit."
+       "pos": "prepoziție + substantiv, masculin singular construct + particulă relativă",
+       "def_ro": "și la tot ce (veel kal așer)",
+       "dict_ro": "Supunerea triburilor se extinde la orice direcție viitoare, nu doar la porunca imediată a trecerii Iordanului."
       },
       {
        "t": " "
@@ -111756,8 +111653,8 @@
        "translit": "tișlahēnu",
        "strong": "H7971",
        "pos": "verb, qal imperfect + sufix",
-       "def_ro": "ne trimiți (tișlahēnu)",
-       "dict_ro": "Supunerea deplină, necondiționată, promisă lui Iosua reflectă tocmai curajul și autoritatea pe care DOMNUL i le-a conferit."
+       "def_ro": "ne vei trimite (tișlahēnu)",
+       "dict_ro": "Supunerea triburilor se extinde la orice direcție viitoare, nu doar la porunca imediată a trecerii Iordanului."
       },
       {
        "t": " "
@@ -111770,7 +111667,7 @@
        "strong": "H3212",
        "pos": "verb, qal imperfect",
        "def_ro": "vom merge. (nēlēh)",
-       "dict_ro": "Supunerea deplină, necondiționată, promisă lui Iosua reflectă tocmai curajul și autoritatea pe care DOMNUL i le-a conferit."
+       "dict_ro": "Supunerea triburilor se extinde la orice direcție viitoare, nu doar la porunca imediată a trecerii Iordanului."
       }
      ],
      "textCompare": [
@@ -111807,34 +111704,34 @@
        "translit": "kehol așer",
        "strong": "H834",
        "pos": "substantiv, masculin singular + particulă relativă",
-       "def_ro": "ca tot ce (kehol așer)",
-       "dict_ro": "Poporul promite lui Iosua exact aceeași ascultare pe care o aveau față de Moise, confirmând astfel transferul deplin de autoritate."
+       "def_ro": "potrivit cu tot ce (kehol așer)",
+       "dict_ro": "Compararea explicită cu ascultarea de Moise plasează autoritatea lui Ioșua pe aceeași treaptă cu cea a înaintașului său."
       },
       {
        "t": " "
       },
       {
-       "t": "am ascultat",
-       "w": "am ascultat",
-       "heb": "שָׁמַעְנוּ",
-       "translit": "șamanu",
-       "strong": "H8085",
-       "pos": "verb, qal perfect",
-       "def_ro": "am ascultat (șamanu)",
-       "dict_ro": "Poporul promite lui Iosua exact aceeași ascultare pe care o aveau față de Moise, confirmând astfel transferul deplin de autoritate."
+       "t": "am ascultat de",
+       "w": "am ascultat de",
+       "heb": "שָׁמַעְנוּ אֶל",
+       "translit": "șamanu el",
+       "strong": "H413",
+       "pos": "verb, qal perfect + prepoziție",
+       "def_ro": "am ascultat de (șamanu el)",
+       "dict_ro": "Compararea explicită cu ascultarea de Moise plasează autoritatea lui Ioșua pe aceeași treaptă cu cea a înaintașului său."
       },
       {
        "t": " "
       },
       {
-       "t": "de Moise,",
-       "w": "de Moise,",
-       "heb": "אֶל מֹשֶׁה",
-       "translit": "el moșe",
+       "t": "Moise,",
+       "w": "Moise,",
+       "heb": "מֹשֶׁה",
+       "translit": "moșe",
        "strong": "H4872",
-       "pos": "prepoziție + nume propriu",
-       "def_ro": "de Moise, (el moșe)",
-       "dict_ro": "Poporul promite lui Iosua exact aceeași ascultare pe care o aveau față de Moise, confirmând astfel transferul deplin de autoritate."
+       "pos": "nume propriu",
+       "def_ro": "Moise, (moșe)",
+       "dict_ro": "Compararea explicită cu ascultarea de Moise plasează autoritatea lui Ioșua pe aceeași treaptă cu cea a înaintașului său."
       },
       {
        "t": " "
@@ -111842,12 +111739,12 @@
       {
        "t": "vom asculta",
        "w": "vom asculta",
-       "heb": "נִשְׁמַע",
-       "translit": "nișma",
+       "heb": "כֵּן נִשְׁמַע",
+       "translit": "kēn nișma",
        "strong": "H8085",
-       "pos": "verb, qal imperfect",
-       "def_ro": "vom asculta (nișma)",
-       "dict_ro": "Poporul promite lui Iosua exact aceeași ascultare pe care o aveau față de Moise, confirmând astfel transferul deplin de autoritate."
+       "pos": "particulă demonstrativă + verb, qal imperfect",
+       "def_ro": "așa vom asculta (kēn nișma)",
+       "dict_ro": "Compararea explicită cu ascultarea de Moise plasează autoritatea lui Ioșua pe aceeași treaptă cu cea a înaintașului său."
       },
       {
        "t": " "
@@ -111859,8 +111756,8 @@
        "translit": "ēleha",
        "strong": "H413",
        "pos": "prepoziție + sufix",
-       "def_ro": "și de tine. (ēleha)",
-       "dict_ro": "Poporul promite lui Iosua exact aceeași ascultare pe care o aveau față de Moise, confirmând astfel transferul deplin de autoritate."
+       "def_ro": "de tine. (ēleha)",
+       "dict_ro": "Compararea explicită cu ascultarea de Moise plasează autoritatea lui Ioșua pe aceeași treaptă cu cea a înaintașului său."
       },
       {
        "t": " "
@@ -111872,8 +111769,8 @@
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
-       "def_ro": "DOMNUL, (Adonai)",
-       "dict_ro": "Poporul își exprimă dorința ca aceeași prezență divină simțită cu Moise să rămână, la fel de real, și cu Iosua."
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "Urarea finală a triburilor repetă exact promisiunea divină deja dată lui Ioșua la începutul capitolului."
       },
       {
        "t": " "
@@ -111886,7 +111783,7 @@
        "strong": "H430",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "Dumnezeul tău, (eloheha)",
-       "dict_ro": "Poporul își exprimă dorința ca aceeași prezență divină simțită cu Moise să rămână, la fel de real, și cu Iosua."
+       "dict_ro": "Urarea finală a triburilor repetă exact promisiunea divină deja dată lui Ioșua la începutul capitolului."
       },
       {
        "t": " "
@@ -111894,12 +111791,12 @@
       {
        "t": "fie",
        "w": "fie",
-       "heb": "יִהְיֶה",
-       "translit": "ihie",
+       "heb": "רַק יִהְיֶה",
+       "translit": "rak ihie",
        "strong": "H1961",
-       "pos": "verb, qal imperfect",
-       "def_ro": "fie (ihie)",
-       "dict_ro": "Poporul își exprimă dorința ca aceeași prezență divină simțită cu Moise să rămână, la fel de real, și cu Iosua."
+       "pos": "particulă afirmativă + verb, qal imperfect",
+       "def_ro": "doar să fie (rak ihie)",
+       "dict_ro": "Urarea finală a triburilor repetă exact promisiunea divină deja dată lui Ioșua la începutul capitolului."
       },
       {
        "t": " "
@@ -111912,20 +111809,33 @@
        "strong": "H5973",
        "pos": "prepoziție + sufix",
        "def_ro": "cu tine, (imah)",
-       "dict_ro": "Poporul își exprimă dorința ca aceeași prezență divină simțită cu Moise să rămână, la fel de real, și cu Iosua."
+       "dict_ro": "Urarea finală a triburilor repetă exact promisiunea divină deja dată lui Ioșua la începutul capitolului."
       },
       {
        "t": " "
       },
       {
-       "t": "așa cum a fost",
-       "w": "așa cum a fost",
-       "heb": "כַּאֲשֶׁר הָיָה",
-       "translit": "kaașer haia",
+       "t": "așa cum",
+       "w": "așa cum",
+       "heb": "כַּאֲשֶׁר",
+       "translit": "kaașer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "așa cum (kaașer)",
+       "dict_ro": "Compararea finală cu Moise încheie capitolul confirmând deplina transmitere a autorității profetice."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a fost",
+       "w": "a fost",
+       "heb": "הָיָה",
+       "translit": "haia",
        "strong": "H1961",
-       "pos": "particulă relativă + verb, qal perfect",
-       "def_ro": "așa cum a fost (kaașer haia)",
-       "dict_ro": "Poporul își exprimă dorința ca aceeași prezență divină simțită cu Moise să rămână, la fel de real, și cu Iosua."
+       "pos": "verb, qal perfect",
+       "def_ro": "a fost (haia)",
+       "dict_ro": "Compararea finală cu Moise încheie capitolul confirmând deplina transmitere a autorității profetice."
       },
       {
        "t": " "
@@ -111938,7 +111848,7 @@
        "strong": "H5973",
        "pos": "prepoziție",
        "def_ro": "cu (im)",
-       "dict_ro": "Poporul își exprimă dorința ca aceeași prezență divină simțită cu Moise să rămână, la fel de real, și cu Iosua."
+       "dict_ro": "Compararea finală cu Moise încheie capitolul confirmând deplina transmitere a autorității profetice."
       },
       {
        "t": " "
@@ -111951,7 +111861,7 @@
        "strong": "H4872",
        "pos": "nume propriu",
        "def_ro": "Moise! (moșe)",
-       "dict_ro": "Poporul își exprimă dorința ca aceeași prezență divină simțită cu Moise să rămână, la fel de real, și cu Iosua."
+       "dict_ro": "Compararea finală cu Moise încheie capitolul confirmând deplina transmitere a autorității profetice."
       }
      ],
      "textCompare": [
@@ -111991,33 +111901,33 @@
        "strong": "H834",
        "pos": "substantiv, masculin singular construct + substantiv, masculin singular + particulă relativă",
        "def_ro": "orice om care (kal iș așer)",
-       "dict_ro": "Pedeapsa capitală pentru răzvrătire confirmă autoritatea deplină, legală, a lui Iosua — identică celei exercitate anterior de Moise."
+       "dict_ro": "Pedeapsa cu moartea pentru nesupunere arată autoritatea deplină, aproape regală, acordată lui Ioșua de întregul popor."
       },
       {
        "t": " "
       },
       {
-       "t": "se va răzvrăti împotriva",
-       "w": "se va răzvrăti împotriva",
+       "t": "se va răzvrăti",
+       "w": "se va răzvrăti",
        "heb": "יַמְרֶה",
        "translit": "iamre",
        "strong": "H4784",
        "pos": "verb, hifil imperfect",
-       "def_ro": "se va răzvrăti împotriva (iamre)",
-       "dict_ro": "Pedeapsa capitală pentru răzvrătire confirmă autoritatea deplină, legală, a lui Iosua — identică celei exercitate anterior de Moise."
+       "def_ro": "se va răzvrăti (iamre)",
+       "dict_ro": "Pedeapsa cu moartea pentru nesupunere arată autoritatea deplină, aproape regală, acordată lui Ioșua de întregul popor."
       },
       {
        "t": " "
       },
       {
-       "t": "vorbei tale",
-       "w": "vorbei tale",
+       "t": "împotriva vorbei tale",
+       "w": "împotriva vorbei tale",
        "heb": "פִּיךָ",
        "translit": "piha",
        "strong": "H6310",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "gurii tale (piha)",
-       "dict_ro": "Pedeapsa capitală pentru răzvrătire confirmă autoritatea deplină, legală, a lui Iosua — identică celei exercitate anterior de Moise."
+       "def_ro": "împotriva gurii tale (piha)",
+       "dict_ro": "Pedeapsa cu moartea pentru nesupunere arată autoritatea deplină, aproape regală, acordată lui Ioșua de întregul popor."
       },
       {
        "t": " "
@@ -112030,7 +111940,7 @@
        "strong": "H8085",
        "pos": "particulă negativă + verb, qal imperfect",
        "def_ro": "și nu va asculta (velo ișma)",
-       "dict_ro": "Pedeapsa capitală pentru răzvrătire confirmă autoritatea deplină, legală, a lui Iosua — identică celei exercitate anterior de Moise."
+       "dict_ro": "Pedeapsa cu moartea pentru nesupunere arată autoritatea deplină, aproape regală, acordată lui Ioșua de întregul popor."
       },
       {
        "t": " "
@@ -112043,7 +111953,7 @@
        "strong": "H1697",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "cuvintele tale, (devareha)",
-       "dict_ro": "Pedeapsa capitală pentru răzvrătire confirmă autoritatea deplină, legală, a lui Iosua — identică celei exercitate anterior de Moise."
+       "dict_ro": "Pedeapsa cu moartea pentru nesupunere arată autoritatea deplină, aproape regală, acordată lui Ioșua de întregul popor."
       },
       {
        "t": " "
@@ -112056,7 +111966,7 @@
        "strong": "H834",
        "pos": "substantiv, masculin singular + particulă relativă",
        "def_ro": "la tot ce (lehol așer)",
-       "dict_ro": "Pedeapsa capitală pentru răzvrătire confirmă autoritatea deplină, legală, a lui Iosua — identică celei exercitate anterior de Moise."
+       "dict_ro": "Autoritatea lui Ioșua se extinde asupra oricărei porunci viitoare, nu doar asupra celei imediate a trecerii Iordanului."
       },
       {
        "t": " "
@@ -112069,7 +111979,7 @@
        "strong": "H6680",
        "pos": "verb, piel imperfect + sufix",
        "def_ro": "ne vei porunci, (tețavenu)",
-       "dict_ro": "Pedeapsa capitală pentru răzvrătire confirmă autoritatea deplină, legală, a lui Iosua — identică celei exercitate anterior de Moise."
+       "dict_ro": "Autoritatea lui Ioșua se extinde asupra oricărei porunci viitoare, nu doar asupra celei imediate a trecerii Iordanului."
       },
       {
        "t": " "
@@ -112082,7 +111992,7 @@
        "strong": "H4191",
        "pos": "verb, hofal imperfect",
        "def_ro": "va fi omorât. (iumat)",
-       "dict_ro": "Pedeapsa capitală pentru răzvrătire confirmă autoritatea deplină, legală, a lui Iosua — identică celei exercitate anterior de Moise."
+       "dict_ro": "Pedeapsa cu moartea pentru nesupunere arată autoritatea deplină, aproape regală, acordată lui Ioșua de întregul popor."
       },
       {
        "t": " "
@@ -112095,7 +112005,7 @@
        "strong": "H7535",
        "pos": "particulă afirmativă",
        "def_ro": "doar (rak)",
-       "dict_ro": "Capitolul se încheie exact cum a început — cu îndemnul «fii tare și curajos» — încadrând întreaga trecere de autoritate între aceleași cuvinte."
+       "dict_ro": "Capitolul se încheie cu același îndemn repetat de patru ori: curajul, nu teama, trebuie să conducă fiecare pas al lui Ioșua."
       },
       {
        "t": " "
@@ -112108,23 +112018,20 @@
        "strong": "H2388",
        "pos": "verb, qal imperativ",
        "def_ro": "fii tare (hazak)",
-       "dict_ro": "Capitolul se încheie exact cum a început — cu îndemnul «fii tare și curajos» — încadrând întreaga trecere de autoritate între aceleași cuvinte."
+       "dict_ro": "Capitolul se încheie cu același îndemn repetat de patru ori: curajul, nu teama, trebuie să conducă fiecare pas al lui Ioșua."
       },
       {
        "t": " "
       },
       {
-       "t": "și curajos!",
-       "w": "și curajos!",
+       "t": "și curajos!”",
+       "w": "și curajos!”",
        "heb": "וֶאֱמָץ",
        "translit": "veemaț",
        "strong": "H553",
        "pos": "verb, qal imperativ",
-       "def_ro": "și curajos! (veemaț)",
-       "dict_ro": "Capitolul se încheie exact cum a început — cu îndemnul «fii tare și curajos» — încadrând întreaga trecere de autoritate între aceleași cuvinte."
-      },
-      {
-       "t": "”"
+       "def_ro": "și curajos!” (veemaț)",
+       "dict_ro": "Capitolul se încheie cu același îndemn repetat de patru ori: curajul, nu teama, trebuie să conducă fiecare pas al lui Ioșua."
       }
      ],
      "textCompare": [
