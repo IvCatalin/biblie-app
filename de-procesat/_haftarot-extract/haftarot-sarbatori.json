@@ -70334,14 +70334,27 @@
      "translit": "Dirșu ADONAI behimatzo kerauhu bihioto karov.",
      "tokens": [
       {
-       "t": "Căutați-L pe DOMNUL",
-       "w": "Căutați-L pe DOMNUL",
-       "heb": "דִּרְשׁוּ יְהוָה",
-       "translit": "dirșu Adonai",
+       "t": "Căutați-L pe",
+       "w": "Căutați-L pe",
+       "heb": "דִּרְשׁוּ",
+       "translit": "dirșu",
+       "strong": "H1875",
+       "pos": "verb, qal imperativ",
+       "def_ro": "căutați-L (dirșu)",
+       "dict_ro": "Chemarea la căutare activă a DOMNULUI vine cu avertismentul implicit că un astfel de moment favorabil nu e permanent."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "verb, qal imperativ + nume propriu",
-       "def_ro": "căutați pe DOMNUL (dirșu Adonai)",
-       "dict_ro": "Rashi explică faptul că îndemnul este de a-L căuta înainte de pecetluirea sentinței, cât timp DOMNUL însuși spune «Căutați-Mă»."
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "Chemarea la căutare activă a DOMNULUI vine cu avertismentul implicit că un astfel de moment favorabil nu e permanent."
       },
       {
        "t": " "
@@ -70486,14 +70499,27 @@
        "t": " "
       },
       {
-       "t": "Și să se întoarcă la DOMNUL,",
-       "w": "Și să se întoarcă la DOMNUL,",
-       "heb": "וְיָשֹׁב אֶל יְהוָה",
-       "translit": "veiașov el Adonai",
+       "t": "Și să se întoarcă",
+       "w": "Și să se întoarcă",
+       "heb": "וְיָשֹׁב",
+       "translit": "veiașov",
+       "strong": "H7725",
+       "pos": "verb, qal imperfect",
+       "def_ro": "și să se întoarcă (veiașov)",
+       "dict_ro": "Întoarcerea la DOMNUL, condiție a îndurării promise, cere abandonarea explicită a căii și a gândurilor nelegiuitului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la DOMNUL,",
+       "w": "la DOMNUL,",
+       "heb": "אֶל יְהוָה",
+       "translit": "el Adonai",
        "strong": "H3068",
-       "pos": "verb, qal imperfect + prepoziție + nume propriu",
-       "def_ro": "și să se întoarcă la DOMNUL, (veiașov el Adonai)",
-       "dict_ro": "Întoarcerea la DOMNUL este condiția centrală pentru primirea milei promise."
+       "pos": "prepoziție + nume propriu",
+       "def_ro": "la DOMNUL, (el Adonai)",
+       "dict_ro": "Întoarcerea la DOMNUL, condiție a îndurării promise, cere abandonarea explicită a căii și a gândurilor nelegiuitului."
       },
       {
        "t": " "
@@ -70637,14 +70663,27 @@
        "t": " "
       },
       {
-       "t": "– rostirea DOMNULUI.",
-       "w": "– rostirea DOMNULUI.",
-       "heb": "נְאֻם יְהוָה",
-       "translit": "neum Adonai",
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn contrastul dintre gândurile omenești și cele divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "rostirea DOMNULUI. (neum Adonai)",
-       "dict_ro": "Formula solemnă pecetluiește contrastul total dintre modul de judecată divin și cel omenesc."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI. (Adonai)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn contrastul dintre gândurile omenești și cele divine."
       }
      ],
      "textCompare": [
@@ -71465,14 +71504,40 @@
        "t": " "
       },
       {
-       "t": "Acesta va fi un monument pentru DOMNUL,",
-       "w": "Acesta va fi un monument pentru DOMNUL,",
-       "heb": "וְהָיָה לַיהוָה לְשֵׁם",
-       "translit": "vehaia la'Adonai leșēm",
+       "t": "Acesta va fi",
+       "w": "Acesta va fi",
+       "heb": "וְהָיָה",
+       "translit": "vehaia",
+       "strong": "H1961",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și va fi (vehaia)",
+       "dict_ro": "Chiparosul și mirtul, crescând în locul spinilor, devin un monument etern, de neșters, al lucrării DOMNULUI."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "un monument",
+       "w": "un monument",
+       "heb": "לְשֵׁם",
+       "translit": "leșēm",
        "strong": "H8034",
-       "pos": "verb, qal perfect consecutiv + nume propriu + substantiv, masculin singular",
-       "def_ro": "și va fi pentru DOMNUL un nume, (vehaia la'Adonai leșēm)",
-       "dict_ro": "Metzudat David explică faptul că întreaga schimbare va fi un memorial permanent al puterii DOMNULUI."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "ca semn/nume (leșēm)",
+       "dict_ro": "Chiparosul și mirtul, crescând în locul spinilor, devin un monument etern, de neșters, al lucrării DOMNULUI."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru DOMNUL,",
+       "w": "pentru DOMNUL,",
+       "heb": "לַיהוָה",
+       "translit": "la'Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "pentru DOMNUL, (la'Adonai)",
+       "dict_ro": "Chiparosul și mirtul, crescând în locul spinilor, devin un monument etern, de neșters, al lucrării DOMNULUI."
       },
       {
        "t": " "
@@ -72492,14 +72557,27 @@
        "t": " "
       },
       {
-       "t": "numele DOMNULUI",
-       "w": "numele DOMNULUI",
-       "heb": "שֵׁם יְהוָה",
-       "translit": "șēm Adonai",
+       "t": "numele",
+       "w": "numele",
+       "heb": "שֵׁם",
+       "translit": "șēm",
+       "strong": "H8034",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "numele (șēm)",
+       "dict_ro": "Iubirea numelui DOMNULUI, alături de slujire și păzirea Șabatului, confirmă deplina integrare a străinilor convertiți în legământ."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "numele DOMNULUI (șēm Adonai)",
-       "dict_ro": "Dragostea pentru Numele DOMNULUI arată o devoțiune interioară, nu doar o practică exterioară."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Iubirea numelui DOMNULUI, alături de slujire și păzirea Șabatului, confirmă deplina integrare a străinilor convertiți în legământ."
       },
       {
        "t": " "
@@ -72808,27 +72886,79 @@
      "translit": "Neum Adonai ELOHIM mekabeț nidhei Israel od akabeț alav lenikbatzav.",
      "tokens": [
       {
-       "t": "Vorba Stăpânului meu, Domnul DUMNEZEU,",
-       "w": "Vorba Stăpânului meu, Domnul DUMNEZEU,",
-       "heb": "נְאֻם אֲדֹנָי יְהוִה",
-       "translit": "neum adonai Adonai",
-       "strong": "H3069",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin plural construct + sufix + nume propriu",
-       "def_ro": "rostirea Stăpânului, DOMNUL, (neum adonai Adonai)",
-       "dict_ro": "Formula solemnă finală confirmă autoritatea deplină a promisiunii de adunare."
+       "t": "Vorba",
+       "w": "Vorba",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula solemnă introduce promisiunea finală a adunării depline a lui Israel, dincolo de cei deja strânși."
       },
       {
        "t": " "
       },
       {
-       "t": "care îi adună pe împrăștiații lui Israel:",
-       "w": "care îi adună pe împrăștiații lui Israel:",
-       "heb": "מְקַבֵּץ נִדְחֵי יִשְׂרָאֵל",
-       "translit": "mekabēț nidhē israēl",
+       "t": "Stăpânului meu,",
+       "w": "Stăpânului meu,",
+       "heb": "אֲדֹנָי",
+       "translit": "adonai",
+       "strong": "H136",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "Stăpânului meu, (adonai)",
+       "dict_ro": "Titlul «Adonai», literal «Stăpânul meu», precedă aici Numele propriu, în formula dublă de maximă solemnitate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Domnul DUMNEZEU,",
+       "w": "Domnul DUMNEZEU,",
+       "heb": "יְהוִה",
+       "translit": "Adonai",
+       "strong": "H3069",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL DUMNEZEU, (Adonai)",
+       "dict_ro": "Forma speciala a Numelui, vocalizată distinct pentru a evita repetarea lui Adonai, încheie formula solemnă de introducere."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care îi adună pe",
+       "w": "care îi adună pe",
+       "heb": "מְקַבֵּץ",
+       "translit": "mekabēț",
+       "strong": "H6908",
+       "pos": "verb, piel participiu",
+       "def_ro": "cel care adună (mekabēț)",
+       "dict_ro": "DOMNUL, descris ca «Cel care adună pe cei împrăștiați ai lui Israel», promite o a doua, mai amplă, strângere a exilaților."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "împrăștiații",
+       "w": "împrăștiații",
+       "heb": "נִדְחֵי",
+       "translit": "nidhē",
+       "strong": "H1760",
+       "pos": "verb, nifal participiu",
+       "def_ro": "cei împrăștiați ai (nidhē)",
+       "dict_ro": "DOMNUL, descris ca «Cel care adună pe cei împrăștiați ai lui Israel», promite o a doua, mai amplă, strângere a exilaților."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui Israel:",
+       "w": "lui Israel:",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "verb, piel participiu + verb, nifal participiu + nume propriu",
-       "def_ro": "care adună pe cei împrăștiați ai lui Israel: (mekabēț nidhē israēl)",
-       "dict_ro": "DOMNUL este numit explicit drept Cel care adună pe exilații împrăștiați ai lui Israel."
+       "pos": "nume propriu",
+       "def_ro": "lui Israel: (israēl)",
+       "dict_ro": "DOMNUL, descris ca «Cel care adună pe cei împrăștiați ai lui Israel», promite o a doua, mai amplă, strângere a exilaților."
       },
       {
        "t": " „"
