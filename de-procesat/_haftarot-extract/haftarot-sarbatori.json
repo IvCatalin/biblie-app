@@ -47033,14 +47033,27 @@
        "t": " "
       },
       {
-       "t": "acestei cântări",
-       "w": "acestei cântări",
-       "heb": "הַשִּׁירָה הַזֹּאת",
-       "translit": "hașira hazot",
+       "t": "acestei",
+       "w": "acestei",
+       "heb": "הַזֹּאת",
+       "translit": "hazot",
        "strong": "H2063",
-       "pos": "substantiv, masculin și feminin singular + pronume demonstrativ",
-       "def_ro": "cântării acesteia (hașira hazot)",
-       "dict_ro": "Documentul poetic exact, compus pentru această ocazie de biruință."
+       "pos": "pronume demonstrativ",
+       "def_ro": "aceasta (hazot)",
+       "dict_ro": "Formula introduce cântarea de biruință a lui David, compusă la încheierea întregii sale cariere militare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cântări",
+       "w": "cântări",
+       "heb": "הַשִּׁירָה",
+       "translit": "hașira",
+       "strong": "H7892",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "cântării (hașira)",
+       "dict_ro": "Formula introduce cântarea de biruință a lui David, compusă la încheierea întregii sale cariere militare."
       },
       {
        "t": " "
@@ -47085,27 +47098,66 @@
        "t": " "
       },
       {
-       "t": "din mâna tuturor dușmanilor săi",
-       "w": "din mâna tuturor dușmanilor săi",
-       "heb": "מִכַּף כָּל אֹיְבָיו",
-       "translit": "mikaf kal oivaiv",
-       "strong": "H341",
-       "pos": "substantiv, feminin singular construct + substantiv, masculin singular construct + verb, qal participiu + sufix",
-       "def_ro": "din mâna tuturor vrăjmașilor lui (mikaf kal oivaiv)",
-       "dict_ro": "Rashi, citând o regulă stilistică biblică: Șaul e menționat separat, în afara categoriei generale «dușmani», pentru că a fost cel mai mare și mai persistent urmăritor al lui David."
+       "t": "din mâna",
+       "w": "din mâna",
+       "heb": "מִכַּף",
+       "translit": "mikaf",
+       "strong": "H3709",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "din mâna (mikaf)",
+       "dict_ro": "David rezumă întreaga sa viață, scăpat succesiv de toți vrăjmașii și, în special, de Șaul."
       },
       {
        "t": " "
       },
       {
-       "t": "și din mâna lui Șaul.",
-       "w": "și din mâna lui Șaul.",
-       "heb": "וּמִכַּף שָׁאוּל",
-       "translit": "umikaf șaul",
+       "t": "tuturor",
+       "w": "tuturor",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tuturor (kal)",
+       "dict_ro": "David rezumă întreaga sa viață, scăpat succesiv de toți vrăjmașii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dușmanilor săi",
+       "w": "dușmanilor săi",
+       "heb": "אֹיְבָיו",
+       "translit": "oivaiv",
+       "strong": "H341",
+       "pos": "verb, qal participiu + sufix",
+       "def_ro": "vrăjmașilor lui (oivaiv)",
+       "dict_ro": "David rezumă întreaga sa viață, scăpat succesiv de toți vrăjmașii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și din mâna",
+       "w": "și din mâna",
+       "heb": "וּמִכַּף",
+       "translit": "umikaf",
+       "strong": "H3709",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "și din mâna (umikaf)",
+       "dict_ro": "Șaul, numit explicit, rămâne dușmanul cel mai personal și prelungit din viața lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui Șaul.",
+       "w": "lui Șaul.",
+       "heb": "שָׁאוּל",
+       "translit": "șaul",
        "strong": "H7586",
-       "pos": "substantiv, feminin singular construct + nume propriu",
-       "def_ro": "și din mâna lui Șaul. (umikaf șaul)",
-       "dict_ro": "Deși Șaul face parte din categoria dușmanilor, menționarea lui distinctă confirmă locul special al acestei persecuții personale în biografia lui David."
+       "pos": "nume propriu",
+       "def_ro": "lui Șaul. (șaul)",
+       "dict_ro": "Șaul, numit explicit, rămâne dușmanul cel mai personal și prelungit din viața lui David."
       }
      ],
      "textCompare": [
@@ -47279,14 +47331,27 @@
      "translit": "Elohei țuri ehese-bo magni vekerén iși misgabi umenusi moșii mehamas toșieni.",
      "tokens": [
       {
-       "t": "Dumnezeu, Stânca mea,",
-       "w": "Dumnezeu, Stânca mea,",
-       "heb": "אֱלֹהֵי צוּרִי",
-       "translit": "elohē țuri",
+       "t": "Dumnezeu,",
+       "w": "Dumnezeu,",
+       "heb": "אֱלֹהֵי",
+       "translit": "elohē",
+       "strong": "H430",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "Dumnezeul (elohē)",
+       "dict_ro": "Imaginea Stâncii, repetată de mai multe ori în cântare, exprimă stabilitatea și refugiul absolut oferit de Dumnezeu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Stânca mea,",
+       "w": "Stânca mea,",
+       "heb": "צוּרִי",
+       "translit": "țuri",
        "strong": "H6697",
-       "pos": "substantiv, masculin plural construct + substantiv, masculin singular construct + sufix",
-       "def_ro": "Dumnezeul stâncii mele, (elohē țuri)",
-       "dict_ro": "Rashi: stânca protejează trecătorul de ploaie și vânt — metaforă pentru protecția constantă oferită de Dumnezeu."
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "stâncii mele, (țuri)",
+       "dict_ro": "Imaginea Stâncii, repetată de mai multe ori în cântare, exprimă stabilitatea și refugiul absolut oferit de Dumnezeu."
       },
       {
        "t": " "
@@ -47318,14 +47383,27 @@
        "t": " "
       },
       {
-       "t": "și Cornul Salvării mele,",
-       "w": "și Cornul Salvării mele,",
-       "heb": "וְקֶרֶן יִשְׁעִי",
-       "translit": "vekeren iși",
+       "t": "și Cornul",
+       "w": "și Cornul",
+       "heb": "וְקֶרֶן",
+       "translit": "vekeren",
+       "strong": "H7161",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "și cornul (vekeren)",
+       "dict_ro": "Imaginea cornului, simbol al puterii animale, descrie forța mântuirii oferite de Dumnezeu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Salvării mele,",
+       "w": "Salvării mele,",
+       "heb": "יִשְׁעִי",
+       "translit": "iși",
        "strong": "H3468",
-       "pos": "substantiv, masculin și feminin singular construct + substantiv, masculin singular construct + sufix",
-       "def_ro": "și cornul mântuirii mele, (vekeren iși)",
-       "dict_ro": "Radak: cornul simbolizează puterea, ca la taurul sau berbecul, ale cărui coarne sunt arma lui de luptă."
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "salvării mele, (iși)",
+       "dict_ro": "Imaginea cornului, simbol al puterii animale, descrie forța mântuirii oferite de Dumnezeu."
       },
       {
        "t": " "
@@ -47562,14 +47640,27 @@
        "t": " "
       },
       {
-       "t": "durerile morții",
-       "w": "durerile morții",
-       "heb": "מִשְׁבְּרֵי מָוֶת",
-       "translit": "mișberē mavet",
+       "t": "durerile",
+       "w": "durerile",
+       "heb": "מִשְׁבְּרֵי",
+       "translit": "mișberē",
+       "strong": "H4867",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "durerile de (mișberē)",
+       "dict_ro": "Imaginea valurilor morții, care împresoară pe cel aflat în primejdie extremă, pregătește strigătul de ajutor către DOMNUL."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "morții",
+       "w": "morții",
+       "heb": "מָוֶת",
+       "translit": "mavet",
        "strong": "H4194",
-       "pos": "substantiv, masculin plural construct + substantiv, masculin singular",
-       "def_ro": "durerile morții (mișberē mavet)",
-       "dict_ro": "Rashi, citând Targumul: ca o femeie pe scaunul nașterii, aflată în pericol de moarte — imagine a suferinței extreme."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "moarte (mavet)",
+       "dict_ro": "Imaginea valurilor morții, care împresoară pe cel aflat în primejdie extremă, pregătește strigătul de ajutor."
       },
       {
        "t": " "
@@ -47588,14 +47679,27 @@
        "t": " "
       },
       {
-       "t": "și șuvoaiele nelegiuirii",
-       "w": "și șuvoaiele nelegiuirii",
-       "heb": "נַחֲלֵי בְלִיַּעַל",
-       "translit": "nahalē veliaal",
+       "t": "și șuvoaiele",
+       "w": "și șuvoaiele",
+       "heb": "נַחֲלֵי",
+       "translit": "nahalē",
+       "strong": "H5158",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "șuvoaiele de (nahalē)",
+       "dict_ro": "Imaginea șuvoaielor nelegiuirii completează, poetic, descrierea pericolului extrem înfruntat de David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "nelegiuirii",
+       "w": "nelegiuirii",
+       "heb": "בְלִיַּעַל",
+       "translit": "veliaal",
        "strong": "H1100",
-       "pos": "substantiv, masculin plural construct + substantiv, masculin singular",
-       "def_ro": "și șuvoaiele nelegiuirii (nahalē veliaal)",
-       "dict_ro": "Radak: imaginea unui torent năvalnic de oameni răi, ca un șuvoi care năpădește și înspăimântă."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Belial (veliaal)",
+       "dict_ro": "Imaginea șuvoaielor nelegiuirii completează, poetic, descrierea pericolului extrem înfruntat de David."
       },
       {
        "t": " "
@@ -47659,14 +47763,27 @@
      "translit": "Hevlei Șeol sabuni kidemuni mokșei-mavet.",
      "tokens": [
       {
-       "t": "Durerile sălașului morților",
-       "w": "Durerile sălașului morților",
-       "heb": "חֶבְלֵי שְׁאוֹל",
-       "translit": "hevlē șeol",
+       "t": "Durerile",
+       "w": "Durerile",
+       "heb": "חֶבְלֵי",
+       "translit": "hevlē",
+       "strong": "H2256",
+       "pos": "substantiv, masculin și feminin plural construct",
+       "def_ro": "durerile de (hevlē)",
+       "dict_ro": "Sălașul morților (Șeol) desemnează locul morților, imagine poetică a primejdiei de moarte aproape sigură."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sălașului morților",
+       "w": "sălașului morților",
+       "heb": "שְׁאוֹל",
+       "translit": "șeol",
        "strong": "H7585",
-       "pos": "substantiv, masculin și feminin plural construct + nume propriu",
-       "def_ro": "durerile sălașului morților (hevlē șeol)",
-       "dict_ro": "Radak: durere comparabilă cu chinurile nașterii, întruchipare a pericolului extrem de moarte."
+       "pos": "nume propriu",
+       "def_ro": "Șeol (șeol)",
+       "dict_ro": "Sălașul morților (Șeol) desemnează locul morților, imagine poetică a primejdiei de moarte aproape sigură."
       },
       {
        "t": " "
@@ -47698,14 +47815,27 @@
        "t": " "
       },
       {
-       "t": "lațurile morții.",
-       "w": "lațurile morții.",
-       "heb": "מֹקְשֵׁי מָוֶת",
-       "translit": "mokșē mavet",
+       "t": "lațurile",
+       "w": "lațurile",
+       "heb": "מֹקְשֵׁי",
+       "translit": "mokșē",
+       "strong": "H4170",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "lațurile de (mokșē)",
+       "dict_ro": "Imaginea lațurilor morții, care prind pe cel urmărit, completează descrierea primejdiei extreme."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "morții.",
+       "w": "morții.",
+       "heb": "מָוֶת",
+       "translit": "mavet",
        "strong": "H4194",
-       "pos": "substantiv, masculin plural construct + substantiv, masculin singular",
-       "def_ro": "lațurile morții. (mokșē mavet)",
-       "dict_ro": "Imaginea unei curse întinse de moarte, din care nu poți scăpa prin forțe proprii."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "moarte. (mavet)",
+       "dict_ro": "Imaginea lațurilor morții, care prind pe cel urmărit, completează descrierea primejdiei extreme."
       }
      ],
      "textCompare": [
@@ -47967,14 +48097,27 @@
        "t": " "
       },
       {
-       "t": "temeliile cerurilor",
-       "w": "temeliile cerurilor",
-       "heb": "מוֹסְדוֹת הַשָּׁמַיִם",
-       "translit": "mosdot hașamaim",
+       "t": "temeliile",
+       "w": "temeliile",
+       "heb": "מוֹסְדוֹת",
+       "translit": "mosdot",
+       "strong": "H4146",
+       "pos": "substantiv, masculin și feminin plural construct",
+       "def_ro": "temeliile de (mosdot)",
+       "dict_ro": "Cutremurul cosmic, care zguduie temeliile cerurilor, descrie intervenția teofanică a DOMNULUI, declanșată de mânia Lui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cerurilor",
+       "w": "cerurilor",
+       "heb": "הַשָּׁמַיִם",
+       "translit": "hașamaim",
        "strong": "H8064",
-       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin plural",
-       "def_ro": "temeliile cerurilor (mosdot hașamaim)",
-       "dict_ro": "Metzudat David: imagine pentru conducătorii popoarelor canaanite, tremurând de frică în fața puterii divine."
+       "pos": "substantiv, masculin plural",
+       "def_ro": "cerurile (hașamaim)",
+       "dict_ro": "Cutremurul cosmic, care zguduie temeliile cerurilor, descrie intervenția teofanică a DOMNULUI."
       },
       {
        "t": " "
@@ -48382,14 +48525,27 @@
        "t": " "
       },
       {
-       "t": "pe aripile vântului.",
-       "w": "pe aripile vântului.",
-       "heb": "עַל כַּנְפֵי רוּחַ",
-       "translit": "al kanfē ruah",
+       "t": "pe aripile",
+       "w": "pe aripile",
+       "heb": "כַּנְפֵי",
+       "translit": "kanfē",
+       "strong": "H3671",
+       "pos": "substantiv, feminin dual construct",
+       "def_ro": "pe aripile (kanfē)",
+       "dict_ro": "Imaginea zborului pe aripile vântului completează teofania descrisă ca încălecare pe un heruvim."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "vântului.",
+       "w": "vântului.",
+       "heb": "רוּחַ",
+       "translit": "ruah",
        "strong": "H7307",
-       "pos": "prepoziție + substantiv, feminin dual construct + substantiv, masculin și feminin singular",
-       "def_ro": "pe aripile vântului. (al kanfē ruah)",
-       "dict_ro": "Imaginea paralelă, zborul pe vânt, întărind ideea de viteză extremă a intervenției."
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "vântului. (ruah)",
+       "dict_ro": "Imaginea zborului pe aripile vântului completează teofania descrisă ca încălecare pe un heruvim."
       }
      ],
      "textCompare": [
@@ -48628,14 +48784,27 @@
        "t": " "
       },
       {
-       "t": "cărbuni încinși.",
-       "w": "cărbuni încinși.",
-       "heb": "גַּחֲלֵי אֵשׁ",
-       "translit": "gahalē ēș",
+       "t": "cărbuni",
+       "w": "cărbuni",
+       "heb": "גַּחֲלֵי",
+       "translit": "gahalē",
+       "strong": "H1513",
+       "pos": "substantiv, masculin și feminin plural construct",
+       "def_ro": "cărbuni de (gahalē)",
+       "dict_ro": "Cărbunii aprinși, ieșind din strălucirea prezenței divine, completează imaginea teofaniei de foc."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "încinși.",
+       "w": "încinși.",
+       "heb": "אֵשׁ",
+       "translit": "ēș",
        "strong": "H784",
-       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin și feminin singular",
-       "def_ro": "cărbuni de foc. (gahalē ēș)",
-       "dict_ro": "De acolo sunt trimise săgețile de foc împotriva vrăjmașilor, confirmare a sursei luminoase a judecății."
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "foc. (ēș)",
+       "dict_ro": "Cărbunii aprinși, ieșind din strălucirea prezenței divine, completează imaginea teofaniei de foc."
       }
      ],
      "textCompare": [
@@ -48881,14 +49050,27 @@
      "translit": "Vaierau afikei iam igalu mosdot tevel begaarat ADONAI minișmat ruah apo.",
      "tokens": [
       {
-       "t": "Albiile apelor",
-       "w": "Albiile apelor",
-       "heb": "אֲפִקֵי יָם",
-       "translit": "afikē iam",
+       "t": "Albiile",
+       "w": "Albiile",
+       "heb": "אֲפִקֵי",
+       "translit": "afikē",
+       "strong": "H650",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "albiile de (afikē)",
+       "dict_ro": "Dezgolirea temeliilor pământului și a albiilor mării descrie efectul cosmic al mustrării divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "apelor",
+       "w": "apelor",
+       "heb": "יָם",
+       "translit": "iam",
        "strong": "H3220",
-       "pos": "substantiv, masculin plural construct + substantiv, masculin singular",
-       "def_ro": "albiile mării (afikē iam)",
-       "dict_ro": "Radak: paralelă cu despicarea Mării Roșii — toate apele lumii s-au despicat simbolic atunci."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "mare (iam)",
+       "dict_ro": "Dezgolirea temeliilor pământului și a albiilor mării descrie efectul cosmic al mustrării divine."
       },
       {
        "t": " "
@@ -48907,14 +49089,27 @@
        "t": " "
       },
       {
-       "t": "temeliile pământului",
-       "w": "temeliile pământului",
-       "heb": "מֹסְדוֹת תֵּבֵל",
-       "translit": "mosdot tēvēl",
+       "t": "temeliile",
+       "w": "temeliile",
+       "heb": "מֹסְדוֹת",
+       "translit": "mosdot",
+       "strong": "H4146",
+       "pos": "substantiv, masculin și feminin plural construct",
+       "def_ro": "temeliile de (mosdot)",
+       "dict_ro": "Dezgolirea temeliilor pământului și a albiilor mării descrie efectul cosmic al mustrării divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pământului",
+       "w": "pământului",
+       "heb": "תֵּבֵל",
+       "translit": "tēvēl",
        "strong": "H8398",
-       "pos": "substantiv, masculin și feminin plural construct + substantiv, feminin singular",
-       "def_ro": "temeliile lumii (mosdot tēvēl)",
-       "dict_ro": "Imaginea adâncurilor mării expuse la vedere, fundul lumii descoperit complet."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "lumea (tēvēl)",
+       "dict_ro": "Dezgolirea temeliilor pământului și a albiilor mării descrie efectul cosmic al mustrării divine."
       },
       {
        "t": " "
@@ -48933,27 +49128,53 @@
        "t": " "
       },
       {
-       "t": "la mustrarea DOMNULUI,",
-       "w": "la mustrarea DOMNULUI,",
-       "heb": "בְּגַעֲרַת יְהוָה",
-       "translit": "begaarat Adonai",
-       "strong": "H3068",
-       "pos": "substantiv, feminin singular construct + nume propriu",
-       "def_ro": "la mustrarea DOMNULUI, (begaarat Adonai)",
-       "dict_ro": "Mustrarea verbală divină devine forță fizică activă, capabilă să expună fundul oceanelor."
+       "t": "la mustrarea",
+       "w": "la mustrarea",
+       "heb": "בְּגַעֲרַת",
+       "translit": "begaarat",
+       "strong": "H1606",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "la mustrarea (begaarat)",
+       "dict_ro": "Mustrarea DOMNULUI, simplă expresie a mâniei divine, are putere să dezgolească temeliile cosmosului."
       },
       {
        "t": " "
       },
       {
-       "t": "la suflul nărilor Sale.",
-       "w": "la suflul nărilor Sale.",
-       "heb": "מִנִּשְׁמַת רוּחַ אַפּוֹ",
-       "translit": "minișmat ruah apo",
-       "strong": "H639",
-       "pos": "substantiv, feminin singular construct + substantiv, masculin și feminin singular construct + substantiv, masculin singular construct + sufix",
-       "def_ro": "la suflul duhului nasului Lui. (minișmat ruah apo)",
-       "dict_ro": "Puterea vântului divin, aceeași forță care a despicat marea la Exod, acționează din nou."
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Mustrarea DOMNULUI, simplă expresie a mâniei divine, are putere să dezgolească temeliile cosmosului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la suflul",
+       "w": "la suflul",
+       "heb": "מִנִּשְׁמַת",
+       "translit": "minișmat",
+       "strong": "H5397",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "de la suflarea (minișmat)",
+       "dict_ro": "Suflul nărilor DOMNULUI, imagine antropomorfică a mâniei divine, produce efecte cosmice devastatoare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "nărilor Sale.",
+       "w": "nărilor Sale.",
+       "heb": "רוּחַ",
+       "translit": "ruah",
+       "strong": "H7307",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "duhul nasului lui. (apo)",
+       "dict_ro": "Suflul nărilor DOMNULUI, imagine antropomorfică a mâniei divine, produce efecte cosmice devastatoare."
       }
      ],
      "textCompare": [
@@ -49061,14 +49282,27 @@
        "t": " "
       },
       {
-       "t": "din ape adânci.",
-       "w": "din ape adânci.",
-       "heb": "מִמַּיִם רַבִּים",
-       "translit": "mimaim rabim",
+       "t": "din ape",
+       "w": "din ape",
+       "heb": "מִמַּיִם",
+       "translit": "mimaim",
+       "strong": "H4325",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "din ape (mimaim)",
+       "dict_ro": "Imaginea apelor adânci, de unde David e scos, descrie metaforic salvarea dintr-o primejdie de moarte extremă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "adânci.",
+       "w": "adânci.",
+       "heb": "רַבִּים",
+       "translit": "rabim",
        "strong": "H7227",
-       "pos": "substantiv, masculin plural + adjectiv, masculin plural",
-       "def_ro": "din ape multe. (mimaim rabim)",
-       "dict_ro": "Metafora apelor turbulente pentru necazurile și pericolele care îl amenințau constant pe David."
+       "pos": "adjectiv, masculin plural",
+       "def_ro": "multe. (rabim)",
+       "dict_ro": "Imaginea apelor adânci, de unde David e scos, descrie metaforic salvarea dintr-o primejdie de moarte extremă."
       }
      ],
      "textCompare": [
@@ -49129,14 +49363,27 @@
        "t": " "
       },
       {
-       "t": "de vrăjmașul meu puternic",
-       "w": "de vrăjmașul meu puternic",
-       "heb": "מֵאֹיְבִי עָז",
-       "translit": "mēoivi az",
+       "t": "de vrăjmașul meu",
+       "w": "de vrăjmașul meu",
+       "heb": "מֵאֹיְבִי",
+       "translit": "mēoivi",
+       "strong": "H341",
+       "pos": "verb, qal participiu + sufix",
+       "def_ro": "de vrăjmașul meu (mēoivi)",
+       "dict_ro": "Puterea superioară a vrăjmașilor lui David amplifică retoric caracterul miraculos al salvării divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "puternic",
+       "w": "puternic",
+       "heb": "עָז",
+       "translit": "az",
        "strong": "H5794",
-       "pos": "verb, qal participiu + sufix + adjectiv, masculin singular",
-       "def_ro": "de vrăjmașul meu puternic (mēoivi az)",
-       "dict_ro": "Radak: vrăjmașul la singular poate referi la Goliat, la Ișbi-Benov, sau chiar la Șaul."
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "puternic (az)",
+       "dict_ro": "Puterea superioară a vrăjmașilor lui David amplifică retoric caracterul miraculos al salvării divine."
       },
       {
        "t": " "
@@ -49238,14 +49485,27 @@
        "t": " "
       },
       {
-       "t": "în ziua necazului meu,",
-       "w": "în ziua necazului meu,",
-       "heb": "בְּיוֹם אֵידִי",
-       "translit": "beom ēdi",
+       "t": "în ziua",
+       "w": "în ziua",
+       "heb": "בְּיוֹם",
+       "translit": "beom",
+       "strong": "H3117",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "în ziua (beom)",
+       "dict_ro": "Ziua necazului desemnează momentul exact al crizei extreme, în care DOMNUL a intervenit ca sprijin."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "necazului meu,",
+       "w": "necazului meu,",
+       "heb": "אֵידִי",
+       "translit": "ēdi",
        "strong": "H343",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct + sufix",
-       "def_ro": "în ziua necazului meu, (beom ēdi)",
-       "dict_ro": "Radak, potrivit Targumului: «ziua necazului» descrie perioada de fugă și hăituire continuă a lui David de către vrăjmași."
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "necazului meu, (ēdi)",
+       "dict_ro": "Ziua necazului desemnează momentul exact al crizei extreme, în care DOMNUL a intervenit ca sprijin."
       },
       {
        "t": " "
@@ -49566,14 +49826,27 @@
        "t": " "
       },
       {
-       "t": "căile DOMNULUI",
-       "w": "căile DOMNULUI",
-       "heb": "דַּרְכֵי יְהוָה",
-       "translit": "darhē Adonai",
+       "t": "căile",
+       "w": "căile",
+       "heb": "דַּרְכֵי",
+       "translit": "darhē",
+       "strong": "H1870",
+       "pos": "substantiv, masculin și feminin plural construct",
+       "def_ro": "căile (darhē)",
+       "dict_ro": "Fidelitatea lui David față de căile DOMNULUI justifică, în logica poemului, recompensa primită."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin și feminin plural construct + nume propriu",
-       "def_ro": "căile DOMNULUI (darhē Adonai)",
-       "dict_ro": "Obiectul direct al păzirii fidele, poruncile divine."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Fidelitatea lui David față de căile DOMNULUI justifică, în logica poemului, recompensa primită."
       },
       {
        "t": " "
@@ -50244,14 +50517,27 @@
        "t": " "
       },
       {
-       "t": "poporul cel umil",
-       "w": "poporul cel umil",
-       "heb": "עַם עָנִי",
-       "translit": "am ani",
+       "t": "poporul",
+       "w": "poporul",
+       "heb": "עַם",
+       "translit": "am",
+       "strong": "H5971",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "poporul (am)",
+       "dict_ro": "Contrastul dintre cei umili, mântuiți, și cei trufași, smeriți, rezumă principiul moral central al poemului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cel umil",
+       "w": "cel umil",
+       "heb": "עָנִי",
+       "translit": "ani",
        "strong": "H6041",
-       "pos": "substantiv, masculin singular + adjectiv, masculin singular",
-       "def_ro": "poporul umil (am ani)",
-       "dict_ro": "Cei smeriți, lipsiți de putere proprie, sunt tocmai cei pe care Dumnezeu îi apără activ."
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "umil (ani)",
+       "dict_ro": "Contrastul dintre cei umili, mântuiți, și cei trufași, smeriți, rezumă principiul moral central al poemului."
       },
       {
        "t": " "
@@ -50611,14 +50897,27 @@
        "t": " "
       },
       {
-       "t": "a cărui cale este perfectă",
-       "w": "a cărui cale este perfectă",
-       "heb": "תָּמִים דַּרְכּוֹ",
-       "translit": "tamim darko",
+       "t": "a cărui cale",
+       "w": "a cărui cale",
+       "heb": "דַּרְכּוֹ",
+       "translit": "darko",
        "strong": "H1870",
-       "pos": "adjectiv, masculin singular + substantiv, masculin și feminin singular construct + sufix",
-       "def_ro": "desăvârșită este calea Lui — (tamim darko)",
-       "dict_ro": "Fiecare judecată divină răsplătește exact după fapte, fără greșeală sau abatere."
+       "pos": "substantiv, masculin și feminin singular construct + sufix",
+       "def_ro": "calea lui (darko)",
+       "dict_ro": "Perfecțiunea căii divine garantează puritatea absolută a spusei DOMNULUI, menționată imediat după."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "este perfectă",
+       "w": "este perfectă",
+       "heb": "תָּמִים",
+       "translit": "tamim",
+       "strong": "H8549",
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "perfectă (tamim)",
+       "dict_ro": "Perfecțiunea căii divine garantează puritatea absolută a spusei DOMNULUI, menționată imediat după."
       },
       {
        "t": " "
@@ -50676,14 +50975,27 @@
        "t": " "
       },
       {
-       "t": "pentru toți cei care își caută refugiul la El.",
-       "w": "pentru toți cei care își caută refugiul la El.",
-       "heb": "לְכֹל הַחֹסִים בּוֹ",
-       "translit": "lehol hahosim bo",
-       "strong": "",
-       "pos": "substantiv, masculin singular construct + verb, qal participiu + prepoziție + sufix",
-       "def_ro": "pentru toți cei ce se refugiază în El. (lehol hahosim bo)",
-       "dict_ro": "Protecția divină universală, oferită oricărui om care se refugiază cu sinceritate în Dumnezeu."
+       "t": "pentru toți",
+       "w": "pentru toți",
+       "heb": "לְכֹל",
+       "translit": "lehol",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "pentru toți (lehol)",
+       "dict_ro": "Pavăza divină protejează pe oricine își caută refugiul în DOMNUL, promisiune universală, nu limitată la David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cei care își caută refugiul la El.",
+       "w": "cei care își caută refugiul la El.",
+       "heb": "הַחֹסִים",
+       "translit": "hahosim",
+       "strong": "H2620",
+       "pos": "verb, qal participiu",
+       "def_ro": "cei ce se refugiază în el. (hahosim bo)",
+       "dict_ro": "Pavăza divină protejează pe oricine își caută refugiul în DOMNUL, promisiune universală, nu limitată la David."
       }
      ],
      "textCompare": [
@@ -50748,40 +51060,79 @@
        "t": " "
       },
       {
-       "t": "cine oare este Dumnezeu",
-       "w": "cine oare este Dumnezeu",
-       "heb": "מִי אֵל",
-       "translit": "mi ēl",
+       "t": "cine oare",
+       "w": "cine oare",
+       "heb": "מִי",
+       "translit": "mi",
+       "strong": "H4310",
+       "pos": "particulă interogativă",
+       "def_ro": "cine (mi)",
+       "dict_ro": "Întrebarea retorică afirmă unicitatea absolută a DOMNULUI ca Dumnezeu și Stâncă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "este Dumnezeu",
+       "w": "este Dumnezeu",
+       "heb": "אֵל",
+       "translit": "ēl",
        "strong": "H410",
-       "pos": "particulă interogativă + substantiv, masculin singular",
-       "def_ro": "cine este Dumnezeu (mi ēl)",
-       "dict_ro": "Afirmarea exclusivității absolute a monoteismului israelit, contrastând cu neamurile care se bizuiau pe idoli falși."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Dumnezeu (ēl)",
+       "dict_ro": "Întrebarea retorică afirmă unicitatea absolută a DOMNULUI ca Dumnezeu și Stâncă."
       },
       {
        "t": " "
       },
       {
-       "t": "în afară de DOMNUL,",
-       "w": "în afară de DOMNUL,",
-       "heb": "מִבַּלְעֲדֵי יְהוָה",
-       "translit": "mibaladē Adonai",
+       "t": "în afară de",
+       "w": "în afară de",
+       "heb": "מִבַּלְעֲדֵי",
+       "translit": "mibaladē",
+       "strong": "H1107",
+       "pos": "prepoziție",
+       "def_ro": "în afară de (mibaladē)",
+       "dict_ro": "Formula «în afară de» exclude explicit orice altă posibilă divinitate, afirmând monoteismul absolut."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNUL,",
+       "w": "DOMNUL,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "prepoziție + nume propriu",
-       "def_ro": "în afară de DOMNUL, (mibaladē Adonai)",
-       "dict_ro": "Confirmă unicitatea absolută a lui Dumnezeu, fără rival."
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL, (Adonai)",
+       "dict_ro": "Formula «în afară de» exclude explicit orice altă posibilă divinitate, afirmând monoteismul absolut."
       },
       {
        "t": " "
       },
       {
-       "t": "și cine este Stâncă",
-       "w": "și cine este Stâncă",
-       "heb": "וּמִי צוּר",
-       "translit": "umi țur",
+       "t": "și cine",
+       "w": "și cine",
+       "heb": "וּמִי",
+       "translit": "umi",
+       "strong": "H4310",
+       "pos": "particulă interogativă",
+       "def_ro": "și cine (umi)",
+       "dict_ro": "Repetarea întrebării, cu titlul «Stâncă», confirmă dubla afirmare a unicității divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "este Stâncă",
+       "w": "este Stâncă",
+       "heb": "צוּר",
+       "translit": "țur",
        "strong": "H6697",
-       "pos": "particulă interogativă + substantiv, masculin singular",
-       "def_ro": "și cine este stâncă (umi țur)",
-       "dict_ro": "Repetiția sinonimică întărește exclusivitatea unică a lui Dumnezeu ca sursă de forță și protecție."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Stâncă (țur)",
+       "dict_ro": "Repetarea întrebării, cu titlul «Stâncă», confirmă dubla afirmare a unicității divine."
       },
       {
        "t": " "
@@ -51685,14 +52036,27 @@
        "t": " "
       },
       {
-       "t": "mi-ai făcut vrăjmașii să îngenunchieze",
-       "w": "mi-ai făcut vrăjmașii să îngenunchieze",
-       "heb": "תַּכְרִיעַ קָמַי",
-       "translit": "tahria kamai",
+       "t": "mi-ai făcut",
+       "w": "mi-ai făcut",
+       "heb": "תַּכְרִיעַ",
+       "translit": "tahria",
+       "strong": "H3766",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "vei îngenunchea (tahria)",
+       "dict_ro": "Imaginea vrăjmașilor îngenunchiați sub David descrie victoria completă acordată de puterea divină."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "vrăjmașii să îngenunchieze",
+       "w": "vrăjmașii să îngenunchieze",
+       "heb": "קָמַי",
+       "translit": "kamai",
        "strong": "H6965",
-       "pos": "verb, hifil imperfect + verb, qal participiu + sufix",
-       "def_ro": "vei supune pe cei ce se ridică împotriva mea (tahria kamai)",
-       "dict_ro": "Rezultatul direct al forței date, supunerea completă a adversarilor ridicați împotriva sa."
+       "pos": "verb, qal participiu + sufix",
+       "def_ro": "ridicătorii mei (kamai)",
+       "dict_ro": "Imaginea vrăjmașilor îngenunchiați sub David descrie victoria completă acordată de puterea divină."
       },
       {
        "t": " "
@@ -51870,26 +52234,52 @@
        "t": " "
       },
       {
-       "t": "dar nu este salvator;",
-       "w": "dar nu este salvator;",
-       "heb": "וְאֵין מֹשִׁיעַ",
-       "translit": "veēn moșia",
-       "strong": "H3467",
-       "pos": "particulă negativă + verb, hifil participiu",
-       "def_ro": "și nu este salvator; (veēn moșia)",
-       "dict_ro": "Confirmă absența totală a oricărui ajutor pentru vrăjmașii înfrânți."
+       "t": "dar nu este",
+       "w": "dar nu este",
+       "heb": "וְאֵין",
+       "translit": "veēn",
+       "strong": "H369",
+       "pos": "particulă negativă",
+       "def_ro": "și nu [este] (veēn)",
+       "dict_ro": "Tăcerea divină față de strigătul vrăjmașilor, în contrast cu răspunsul primit de David, confirmă inversarea completă a sorții."
       },
       {
        "t": " "
       },
       {
-       "t": "spre DOMNUL,",
-       "w": "spre DOMNUL,",
-       "heb": "אֶל יְהוָה",
-       "translit": "el Adonai",
+       "t": "salvator;",
+       "w": "salvator;",
+       "heb": "מֹשִׁיעַ",
+       "translit": "moșia",
+       "strong": "H3467",
+       "pos": "verb, hifil participiu",
+       "def_ro": "salvator; (moșia)",
+       "dict_ro": "Tăcerea divină față de strigătul vrăjmașilor, în contrast cu răspunsul primit de David, confirmă inversarea completă a sorții."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "spre",
+       "w": "spre",
+       "heb": "אֶל",
+       "translit": "el",
+       "strong": "H413",
+       "pos": "prepoziție",
+       "def_ro": "spre (el)",
+       "dict_ro": "Rashi notează o inversare a ordinii naturale a cuvintelor pentru efect poetic — chiar dacă s-ar fi întors spre DOMNUL, răspunsul le-ar fi fost refuzat, fiindcă inimile lor nu erau sincere."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNUL,",
+       "w": "DOMNUL,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "prepoziție + nume propriu",
-       "def_ro": "spre DOMNUL, (el Adonai)",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL, (Adonai)",
        "dict_ro": "Rashi notează o inversare a ordinii naturale a cuvintelor pentru efect poetic — chiar dacă s-ar fi întors spre DOMNUL, răspunsul le-ar fi fost refuzat, fiindcă inimile lor nu erau sincere."
       },
       {
@@ -52279,14 +52669,27 @@
      "translit": "Benei nehar itkahasu-li lișmoa ozen ișameu li.",
      "tokens": [
       {
-       "t": "Copiii străinului",
-       "w": "Copiii străinului",
-       "heb": "בְּנֵי נֵכָר",
-       "translit": "benē nēhar",
+       "t": "Copiii",
+       "w": "Copiii",
+       "heb": "בְּנֵי",
+       "translit": "benē",
+       "strong": "H1121",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "fiii de (benē)",
+       "dict_ro": "Supunerea popoarelor străine, lingușitoare, confirmă extinderea autorității lui David dincolo de Israel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "străinului",
+       "w": "străinului",
+       "heb": "נֵכָר",
+       "translit": "nēhar",
        "strong": "H5236",
-       "pos": "substantiv, masculin plural construct + substantiv, masculin singular",
-       "def_ro": "copiii străinului (benē nēhar)",
-       "dict_ro": "Rashi: din frică, popoarele străine spun minciuni lingușitoare pentru a-și asigura bunăvoința lui David."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "străinătate (nēhar)",
+       "dict_ro": "Supunerea popoarelor străine, lingușitoare, confirmă extinderea autorității lui David dincolo de Israel."
       },
       {
        "t": " "
@@ -52376,14 +52779,27 @@
      "translit": "Benei nehar ibolu veiahgheru mimisgherotam.",
      "tokens": [
       {
-       "t": "Copiii străinului",
-       "w": "Copiii străinului",
-       "heb": "בְּנֵי נֵכָר",
-       "translit": "benē nēhar",
+       "t": "Copiii",
+       "w": "Copiii",
+       "heb": "בְּנֵי",
+       "translit": "benē",
+       "strong": "H1121",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "fiii de (benē)",
+       "dict_ro": "Teama popoarelor străine, chiar în fortărețele lor, confirmă extinderea autorității lui David dincolo de Israel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "străinului",
+       "w": "străinului",
+       "heb": "נֵכָר",
+       "translit": "nēhar",
        "strong": "H5236",
-       "pos": "substantiv, masculin plural construct + substantiv, masculin singular",
-       "def_ro": "copiii străinului (benē nēhar)",
-       "dict_ro": "Imaginea decăderii și veștejirii, aplicată metaforic popoarelor supuse lui David."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "străinătate (nēhar)",
+       "dict_ro": "Teama popoarelor străine, chiar în fortărețele lor, confirmă extinderea autorității lui David dincolo de Israel."
       },
       {
        "t": " "
@@ -52550,14 +52966,27 @@
        "t": " "
       },
       {
-       "t": "Stânca salvării mele.",
-       "w": "Stânca salvării mele.",
-       "heb": "צוּר יִשְׁעִי",
-       "translit": "țur iși",
+       "t": "Stânca",
+       "w": "Stânca",
+       "heb": "צוּר",
+       "translit": "țur",
+       "strong": "H6697",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "stânca (țur)",
+       "dict_ro": "Formula finală a doxologiei unește titlurile «Stâncă» și «Salvare», rezumând întreaga teologie a cântării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "salvării mele.",
+       "w": "salvării mele.",
+       "heb": "יִשְׁעִי",
+       "translit": "iși",
        "strong": "H3468",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct + sufix",
-       "def_ro": "stânca mântuirii mele. (țur iși)",
-       "dict_ro": "Ultimul titlu divin al încheierii, confirmarea finală a izbăvirii."
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "salvării mele. (iși)",
+       "dict_ro": "Formula finală a doxologiei unește titlurile «Stâncă» și «Salvare», rezumând întreaga teologie a cântării."
       }
      ],
      "textCompare": [
@@ -52747,14 +53176,27 @@
        "t": " "
       },
       {
-       "t": "de omul plin de violență",
-       "w": "de omul plin de violență",
-       "heb": "מֵאִישׁ חֲמָסִים",
-       "translit": "mēiș hamasim",
+       "t": "de omul",
+       "w": "de omul",
+       "heb": "מֵאִישׁ",
+       "translit": "mēiș",
+       "strong": "H376",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "de omul (mēiș)",
+       "dict_ro": "Omul violent desemnează probabil un dușman specific, poate Saul sau Absalom, simbol al tuturor amenințărilor înfruntate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "plin de violență",
+       "w": "plin de violență",
+       "heb": "חֲמָסִים",
+       "translit": "hamasim",
        "strong": "H2555",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin plural",
-       "def_ro": "de omul violențelor (mēiș hamasim)",
-       "dict_ro": "Posibilă referire specifică la Șaul sau la alt adversar violent individual, nu doar generic."
+       "pos": "substantiv, masculin plural",
+       "def_ro": "de violențe (hamasim)",
+       "dict_ro": "Omul violent desemnează probabil un dușman specific, simbol al tuturor amenințărilor înfruntate."
       },
       {
        "t": " "
@@ -52923,14 +53365,27 @@
      "translit": "Migdol ieșuot malko veose-hesed limșiho le'David ulezaro ad-olam.",
      "tokens": [
       {
-       "t": "Turnul salvărilor",
-       "w": "Turnul salvărilor",
-       "heb": "מִגְדּוֹל יְשׁוּעוֹת",
-       "translit": "migdol ieșuot",
+       "t": "Turnul",
+       "w": "Turnul",
+       "heb": "מִגְדּוֹל",
+       "translit": "migdol",
+       "strong": "H4024",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "turnul de (migdol)",
+       "dict_ro": "Formula finală a cântării încheie cu o promisiune dinastică, extinsă la David și la seminția lui, în veci."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "salvărilor",
+       "w": "salvărilor",
+       "heb": "יְשׁוּעוֹת",
+       "translit": "ieșuot",
        "strong": "H3444",
-       "pos": "substantiv, masculin singular construct + substantiv, feminin plural construct",
-       "def_ro": "turnul salvărilor (migdol ieșuot)",
-       "dict_ro": "Imaginea unui turn de apărare, simbol al protecției regale constante oferite de Dumnezeu."
+       "pos": "substantiv, feminin plural construct",
+       "def_ro": "salvări (ieșuot)",
+       "dict_ro": "Formula finală a cântării încheie cu o promisiune dinastică, extinsă la David și la seminția lui, în veci."
       },
       {
        "t": " "
@@ -53014,14 +53469,20 @@
        "t": " "
       },
       {
-       "t": "în veci.",
-       "w": "în veci.",
-       "heb": "עַד עוֹלָם",
-       "translit": "ad olam",
+       "t": "în"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "veci.",
+       "w": "veci.",
+       "heb": "עוֹלָם",
+       "translit": "olam",
        "strong": "H5769",
-       "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "până în veac. (ad olam)",
-       "dict_ro": "Formula finală a cântării, confirmând caracterul etern al legământului regal davidic."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "veac. (olam)",
+       "dict_ro": "Promisiunea dinastică finală, extinsă la David și la seminția lui, rămâne valabilă în veci."
       }
      ],
      "textCompare": [
