@@ -44424,7 +44424,7 @@
        "strong": "H3027",
        "pos": "substantiv, masculin și feminin singular construct",
        "def_ro": "mâna (iad)",
-       "dict_ro": "Rashi: expresia «mâna DOMNULUI» în context profetic denotă o constrângere divină — profetul e purtat, aproape fără voie proprie, spre locul unde Duhul dorește să-l ducă."
+       "dict_ro": "«Mâna DOMNULUI», expresie standard pentru experiența profetică extatică, inaugurează viziunea Văii Oaselor Uscate."
       },
       {
        "t": " "
@@ -44437,33 +44437,20 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNULUI (Adonai)",
-       "dict_ro": "Autorul direct al constrângerii vizionare asupra profetului."
+       "dict_ro": "«Mâna DOMNULUI», expresie standard pentru experiența profetică extatică, inaugurează viziunea."
       },
       {
        "t": " "
       },
       {
-       "t": "a fost",
-       "w": "a fost",
-       "heb": "הָיְתָה",
-       "translit": "haita",
-       "strong": "H1961",
-       "pos": "verb, qal perfect",
-       "def_ro": "a fost (haita)",
-       "dict_ro": "Verbul central al venirii constrângerii divine."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "asupra mea",
-       "w": "asupra mea",
-       "heb": "עָלַי",
-       "translit": "alai",
+       "t": "a fost asupra mea",
+       "w": "a fost asupra mea",
+       "heb": "הָיְתָה עָלַי",
+       "translit": "haita alai",
        "strong": "H5921",
-       "pos": "prepoziție + sufix",
-       "def_ro": "asupra mea (alai)",
-       "dict_ro": "Obiectul direct al constrângerii profetice."
+       "pos": "verb, qal perfect + prepoziție + sufix",
+       "def_ro": "a fost asupra mea (haita alai)",
+       "dict_ro": "«Mâna DOMNULUI» inaugurează viziunea Văii Oaselor Uscate."
       },
       {
        "t": " "
@@ -44476,20 +44463,33 @@
        "strong": "H3318",
        "pos": "verb, hifil imperfect consecutiv + sufix",
        "def_ro": "și m-a scos, (vaioțiēni)",
-       "dict_ro": "Verbul deplasării vizionare care urmează constrângerii divine."
+       "dict_ro": "Transportul extatic al profetului, prin duhul DOMNULUI, confirmă caracterul vizionar, nu fizic, al experienței."
       },
       {
        "t": " "
       },
       {
-       "t": "prin duhul DOMNULUI,",
-       "w": "prin duhul DOMNULUI,",
-       "heb": "בְרוּחַ יְהוָה",
-       "translit": "veruah Adonai",
+       "t": "prin duhul",
+       "w": "prin duhul",
+       "heb": "בְרוּחַ",
+       "translit": "veruah",
+       "strong": "H7307",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "prin duhul (veruah)",
+       "dict_ro": "Transportul extatic al profetului, prin duhul DOMNULUI, confirmă caracterul vizionar, nu fizic, al experienței."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin și feminin singular construct + nume propriu",
-       "def_ro": "prin duhul DOMNULUI, (veruah Adonai)",
-       "dict_ro": "Experiența vizionară se petrece prin puterea duhului profetic, nu printr-o deplasare fizică literală."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Transportul extatic al profetului, prin duhul DOMNULUI, confirmă caracterul vizionar, nu fizic, al experienței."
       },
       {
        "t": " "
@@ -44502,20 +44502,33 @@
        "strong": "H5117",
        "pos": "verb, hifil imperfect consecutiv + sufix",
        "def_ro": "și m-a lăsat (vainihēni)",
-       "dict_ro": "Verbul poziționării finale a profetului în locul viziunii."
+       "dict_ro": "Transportul extatic al profetului, prin duhul DOMNULUI, confirmă caracterul vizionar, nu fizic, al experienței."
       },
       {
        "t": " "
       },
       {
-       "t": "în mijlocul văii,",
-       "w": "în mijlocul văii,",
-       "heb": "בְּתוֹךְ הַבִּקְעָה",
-       "translit": "betoh habika",
+       "t": "în mijlocul",
+       "w": "în mijlocul",
+       "heb": "בְּתוֹךְ",
+       "translit": "betoh",
+       "strong": "H8432",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "în mijlocul (betoh)",
+       "dict_ro": "Valea, loc deschis, vast, pregătește imaginea impresionantă a mulțimii de oase descrise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "văii,",
+       "w": "văii,",
+       "heb": "הַבִּקְעָה",
+       "translit": "habika",
        "strong": "H1237",
-       "pos": "substantiv, masculin singular construct + substantiv, feminin singular",
-       "def_ro": "în mijlocul văii, (betoh habika)",
-       "dict_ro": "Radak notează posibilitatea ca această vale să fie aceeași menționată la începutul cărții, locul unde profetului i se arătase deja viziunea carului divin."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "văii, (habika)",
+       "dict_ro": "Valea, loc deschis, vast, pregătește imaginea impresionantă a mulțimii de oase descrise."
       },
       {
        "t": " "
@@ -44527,8 +44540,8 @@
        "translit": "vehi melēa",
        "strong": "H4392",
        "pos": "pronume personal + adjectiv, feminin singular",
-       "def_ro": "și ea era plină (vehi melēa)",
-       "dict_ro": "Confirmă starea inițială a văii, saturată de rămășițe."
+       "def_ro": "și ea [era] plină (vehi melēa)",
+       "dict_ro": "Valea, loc deschis, vast, pregătește imaginea impresionantă a mulțimii de oase descrise."
       },
       {
        "t": " "
@@ -44541,7 +44554,7 @@
        "strong": "H6106",
        "pos": "substantiv, feminin plural",
        "def_ro": "de oase. (ațamot)",
-       "dict_ro": "Rashi, citând tradiția din Sanhedrin 92b: oasele identificate ca aparținând tribului lui Efraim, care au încercat să iasă din Egipt înainte de vremea rânduită și au fost uciși de locuitorii din Gat."
+       "dict_ro": "Valea, loc deschis, vast, pregătește imaginea impresionantă a mulțimii de oase descrise."
       }
      ],
      "textCompare": [
@@ -44584,7 +44597,7 @@
        "strong": "H5674",
        "pos": "verb, hifil perfect + sufix",
        "def_ro": "și m-a făcut să trec (veheevirani)",
-       "dict_ro": "Rashi: profetul a fost dus doar în jurul văii, nu printre oase, pentru a nu se pângări ritual, fiind el însuși preot."
+       "dict_ro": "Trecerea profetului prin mijlocul oaselor, din toate direcțiile, confirmă amploarea vizuală completă a scenei."
       },
       {
        "t": " "
@@ -44597,20 +44610,33 @@
        "strong": "H5921",
        "pos": "prepoziție + sufix",
        "def_ro": "peste ele, (alēhem)",
-       "dict_ro": "Confirmă traseul exact al profetului, trecerea pe lângă rămășițe."
+       "dict_ro": "Trecerea profetului prin mijlocul oaselor confirmă amploarea vizuală completă a scenei."
       },
       {
        "t": " "
       },
       {
-       "t": "de jur împrejur,",
-       "w": "de jur împrejur,",
-       "heb": "סָבִיב סָבִיב",
-       "translit": "saviv saviv",
+       "t": "de jur",
+       "w": "de jur",
+       "heb": "סָבִיב",
+       "translit": "saviv",
        "strong": "H5439",
-       "pos": "substantiv, masculin și feminin singular + substantiv, masculin și feminin singular",
-       "def_ro": "de jur împrejur, (saviv saviv)",
-       "dict_ro": "Dubla repetiție accentuează amploarea completă a traseului de observație."
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "de jur (saviv)",
+       "dict_ro": "Trecerea profetului prin mijlocul oaselor, din toate direcțiile, confirmă amploarea vizuală completă a scenei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "împrejur,",
+       "w": "împrejur,",
+       "heb": "סָבִיב",
+       "translit": "saviv",
+       "strong": "H5439",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "împrejur, (saviv)",
+       "dict_ro": "Trecerea profetului prin mijlocul oaselor, din toate direcțiile, confirmă amploarea vizuală completă a scenei."
       },
       {
        "t": " "
@@ -44623,33 +44649,59 @@
        "strong": "H2009",
        "pos": "particulă demonstrativă",
        "def_ro": "și iată, (vehinē)",
-       "dict_ro": "Particula demonstrativă introduce prima observație vizuală."
+       "dict_ro": "Descrierea dublă — foarte multe, foarte uscate — amplifică retoric caracterul disperat al scenei."
       },
       {
        "t": " "
       },
       {
-       "t": "erau foarte multe",
-       "w": "erau foarte multe",
-       "heb": "רַבּוֹת מְאֹד",
-       "translit": "rabot meod",
+       "t": "erau foarte",
+       "w": "erau foarte",
+       "heb": "רַבּוֹת",
+       "translit": "rabot",
+       "strong": "H7227",
+       "pos": "adjectiv, feminin plural",
+       "def_ro": "multe (rabot)",
+       "dict_ro": "Descrierea dublă — foarte multe, foarte uscate — amplifică retoric caracterul disperat al scenei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "multe",
+       "w": "multe",
+       "heb": "מְאֹד",
+       "translit": "meod",
        "strong": "H3966",
-       "pos": "adjectiv, feminin plural + adverb",
-       "def_ro": "erau multe foarte (rabot meod)",
-       "dict_ro": "Amploarea vizuală a devastării — nu câteva oase izolate, ci o întindere masivă, confirmând dimensiunea catastrofei reprezentate simbolic."
+       "pos": "adverb",
+       "def_ro": "foarte (meod)",
+       "dict_ro": "Descrierea dublă — foarte multe, foarte uscate — amplifică retoric caracterul disperat al scenei."
       },
       {
        "t": " "
       },
       {
-       "t": "pe suprafața văii",
-       "w": "pe suprafața văii",
-       "heb": "עַל פְּנֵי הַבִּקְעָה",
-       "translit": "al penē habika",
+       "t": "pe suprafața",
+       "w": "pe suprafața",
+       "heb": "עַל פְּנֵי",
+       "translit": "al penē",
+       "strong": "H6440",
+       "pos": "prepoziție + substantiv, masculin și feminin plural construct",
+       "def_ro": "pe fața (al penē)",
+       "dict_ro": "Descrierea dublă — foarte multe, foarte uscate — amplifică retoric caracterul disperat al scenei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "văii",
+       "w": "văii",
+       "heb": "הַבִּקְעָה",
+       "translit": "habika",
        "strong": "H1237",
-       "pos": "prepoziție + substantiv, masculin și feminin plural construct + substantiv, feminin singular",
-       "def_ro": "pe fața văii (al penē habika)",
-       "dict_ro": "Reperul geografic exact al întinderii masive de oase."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "văii (habika)",
+       "dict_ro": "Descrierea dublă — foarte multe, foarte uscate — amplifică retoric caracterul disperat al scenei."
       },
       {
        "t": " "
@@ -44662,20 +44714,33 @@
        "strong": "H2009",
        "pos": "particulă demonstrativă",
        "def_ro": "și iată, (vehinē)",
-       "dict_ro": "Particula demonstrativă introduce a doua observație vizuală."
+       "dict_ro": "Oasele uscate complet confirmă starea de moarte veche, ireversibilă în aparență, pregătind minunea care urmează."
       },
       {
        "t": " "
       },
       {
-       "t": "erau foarte uscate.",
-       "w": "erau foarte uscate.",
-       "heb": "יְבֵשׁוֹת מְאֹד",
-       "translit": "ievēșot meod",
+       "t": "erau foarte",
+       "w": "erau foarte",
+       "heb": "יְבֵשׁוֹת",
+       "translit": "ievēșot",
+       "strong": "H3002",
+       "pos": "adjectiv, feminin plural",
+       "def_ro": "uscate (ievēșot)",
+       "dict_ro": "Oasele uscate complet confirmă starea de moarte veche, ireversibilă în aparență."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "uscate.",
+       "w": "uscate.",
+       "heb": "מְאֹד",
+       "translit": "meod",
        "strong": "H3966",
-       "pos": "adjectiv, feminin plural + adverb",
-       "def_ro": "erau uscate foarte. (ievēșot meod)",
-       "dict_ro": "Uscăciunea extremă confirmă vechimea morții — nu cadavre recente, ci oase complet lipsite de orice urmă de viață, pregătind contrastul maxim cu minunea învierii."
+       "pos": "adverb",
+       "def_ro": "foarte. (meod)",
+       "dict_ro": "Oasele uscate complet confirmă starea de moarte veche, ireversibilă în aparență, pregătind minunea care urmează."
       }
      ],
      "textCompare": [
@@ -44707,25 +44772,38 @@
       {
        "t": "Apoi mi-a spus:",
        "w": "Apoi mi-a spus:",
-       "heb": "וַיֹּאמֶר",
-       "translit": "vaiomer",
-       "strong": "H559",
-       "pos": "verb, qal imperfect consecutiv",
+       "heb": "וַיֹּאמֶר אֵלַי",
+       "translit": "vaiomer ēlai",
+       "strong": "H413",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
        "def_ro": "și a spus la mine: (vaiomer ēlai)",
-       "dict_ro": "Introduce dialogul central al viziunii, întrebarea testului profetic."
+       "dict_ro": "Întrebarea retorică a DOMNULUI testează, implicit, credința profetului în posibilitatea învierii."
       },
       {
        "t": " "
       },
       {
-       "t": "„Fiu al omului,",
-       "w": "„Fiu al omului,",
-       "heb": "בֶּן אָדָם",
-       "translit": "ben adam",
+       "t": "„Fiu",
+       "w": "„Fiu",
+       "heb": "בֶּן",
+       "translit": "ben",
+       "strong": "H1121",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "fiu de (ben)",
+       "dict_ro": "Întrebarea retorică a DOMNULUI testează, implicit, credința profetului în posibilitatea învierii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "al omului,",
+       "w": "al omului,",
+       "heb": "אָדָם",
+       "translit": "adam",
        "strong": "H120",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "„fiu al omului, (ben adam)",
-       "dict_ro": "Titlul standard folosit pentru profetul Ezechiel, accentuând fragilitatea umană în fața revelației divine copleșitoare."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "om, (adam)",
+       "dict_ro": "Întrebarea retorică a DOMNULUI testează, implicit, credința profetului în posibilitatea învierii."
       },
       {
        "t": " "
@@ -44737,21 +44815,34 @@
        "translit": "hatihiena",
        "strong": "H2421",
        "pos": "verb, qal imperfect",
-       "def_ro": "oare vor trăi (hatihiena)",
-       "dict_ro": "Rashi: întrebarea testează percepția proprie a profetului — pare posibil, în ochii tăi omenești, ca aceste oase să trăiască?"
+       "def_ro": "vor trăi oare (hatihiena)",
+       "dict_ro": "Întrebarea retorică a DOMNULUI testează, implicit, credința profetului în posibilitatea învierii."
       },
       {
        "t": " "
       },
       {
-       "t": "aceste oase?”",
-       "w": "aceste oase?”",
-       "heb": "הָעֲצָמוֹת הָאֵלֶּה",
-       "translit": "haațamot haēle",
+       "t": "aceste",
+       "w": "aceste",
+       "heb": "הָאֵלֶּה",
+       "translit": "haēle",
        "strong": "H428",
-       "pos": "substantiv, feminin plural + pronume demonstrativ",
-       "def_ro": "oasele acestea?” (haațamot haēle)",
-       "dict_ro": "Obiectul direct al întrebării testului divin."
+       "pos": "pronume demonstrativ",
+       "def_ro": "acestea? (haēle)",
+       "dict_ro": "Întrebarea retorică a DOMNULUI testează, implicit, credința profetului în posibilitatea învierii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "oase?”",
+       "w": "oase?”",
+       "heb": "הָעֲצָמוֹת",
+       "translit": "haațamot",
+       "strong": "H6106",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "oasele (haațamot)",
+       "dict_ro": "Întrebarea retorică a DOMNULUI testează, implicit, credința profetului în posibilitatea învierii."
       },
       {
        "t": " "
@@ -44764,33 +44855,59 @@
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și am spus: (vaomar)",
-       "dict_ro": "Răspunsul smerit al profetului, recunoscând limitele propriei înțelegeri față de atotputernicia divină."
+       "dict_ro": "Răspunsul lui Ezechiel nu afirmă și nu neagă, ci lasă deschisă decizia exclusiv divinei cunoștințe."
       },
       {
        "t": " "
       },
       {
-       "t": "„Stăpâne, Doamne DUMNEZEULE,",
-       "w": "„Stăpâne, Doamne DUMNEZEULE,",
-       "heb": "אֲדֹנָי יְהוִה",
-       "translit": "adonai Adonai",
+       "t": "„Stăpâne,",
+       "w": "„Stăpâne,",
+       "heb": "אֲדֹנָי",
+       "translit": "adonai",
+       "strong": "H136",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "Stăpâne, (adonai)",
+       "dict_ro": "Răspunsul lui Ezechiel lasă deschisă decizia exclusiv cunoștinței divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Doamne DUMNEZEULE,",
+       "w": "Doamne DUMNEZEULE,",
+       "heb": "יְהוִה",
+       "translit": "Adonai",
        "strong": "H3069",
-       "pos": "substantiv, masculin plural construct + sufix + nume propriu",
-       "def_ro": "„Stăpânul meu, DOMNUL, (adonai Adonai)",
-       "dict_ro": "Titlul dublu complet, forma de adresare smerită a profetului."
+       "pos": "nume propriu",
+       "def_ro": "Doamne DUMNEZEULE, (Adonai)",
+       "dict_ro": "Răspunsul lui Ezechiel lasă deschisă decizia exclusiv cunoștinței divine."
       },
       {
        "t": " "
       },
       {
-       "t": "Tu știi.”",
-       "w": "Tu știi.”",
-       "heb": "אַתָּה יָדָעְתָּ",
-       "translit": "ata iadata",
+       "t": "Tu",
+       "w": "Tu",
+       "heb": "אַתָּה",
+       "translit": "ata",
+       "strong": "H859",
+       "pos": "pronume personal",
+       "def_ro": "tu (ata)",
+       "dict_ro": "Răspunsul lui Ezechiel nu afirmă și nu neagă, ci lasă deschisă decizia exclusiv divinei cunoștințe."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "știi.”",
+       "w": "știi.”",
+       "heb": "יָדָעְתָּ",
+       "translit": "iadata",
        "strong": "H3045",
-       "pos": "pronume personal + verb, qal perfect",
-       "def_ro": "Tu ai știut.” (ata iadata)",
-       "dict_ro": "Metzudat David: după legile firii, răspunsul ar fi negativ, dar dacă voința divină dorește, oasele vor trăi — doar Dumnezeu cunoaște cu certitudine răspunsul."
+       "pos": "verb, qal perfect",
+       "def_ro": "ai știut.” (iadata)",
+       "dict_ro": "Răspunsul lui Ezechiel nu afirmă și nu neagă, ci lasă deschisă decizia exclusiv divinei cunoștințe."
       }
      ],
      "textCompare": [
@@ -44820,17 +44937,14 @@
      "translit": "Vaiomer elai hinave al-haatzamot haele veamarta aleihem haatzamot haieveșot șimu devar-ADONAI.",
      "tokens": [
       {
-       "t": "[DOMNUL] "
-      },
-      {
-       "t": "mi-a spus:",
-       "w": "mi-a spus:",
-       "heb": "וַיֹּאמֶר",
-       "translit": "vaiomer",
-       "strong": "H559",
-       "pos": "verb, qal imperfect consecutiv",
+       "t": "[DOMNUL] mi-a spus:",
+       "w": "[DOMNUL] mi-a spus:",
+       "heb": "וַיֹּאמֶר אֵלַי",
+       "translit": "vaiomer ēlai",
+       "strong": "H413",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
        "def_ro": "și a spus la mine: (vaiomer ēlai)",
-       "dict_ro": "Introduce prima poruncă profetică, adresarea directă către oase."
+       "dict_ro": "Porunca profeției directe, adresate oaselor, inaugurează execuția practică a minunii viziunii."
       },
       {
        "t": " "
@@ -44842,21 +44956,34 @@
        "translit": "hinavē",
        "strong": "H5012",
        "pos": "verb, nifal imperativ",
-       "def_ro": "„profețește (hinavē)",
-       "dict_ro": "Porunca directă declanșează acțiunea profetică — cuvântul rostit devine instrumentul prin care se va realiza minunea."
+       "def_ro": "profețește (hinavē)",
+       "dict_ro": "Porunca profeției directe, adresate oaselor, inaugurează execuția practică a minunii viziunii."
       },
       {
        "t": " "
       },
       {
-       "t": "asupra acestor oase",
-       "w": "asupra acestor oase",
-       "heb": "עַל הָעֲצָמוֹת הָאֵלֶּה",
-       "translit": "al haațamot haēle",
+       "t": "asupra acestor",
+       "w": "asupra acestor",
+       "heb": "עַל",
+       "translit": "al",
+       "strong": "H5921",
+       "pos": "prepoziție",
+       "def_ro": "asupra (al)",
+       "dict_ro": "Porunca profeției directe, adresate oaselor, inaugurează execuția practică a minunii viziunii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "oase",
+       "w": "oase",
+       "heb": "הָעֲצָמוֹת הָאֵלֶּה",
+       "translit": "haațamot haēle",
        "strong": "H428",
-       "pos": "prepoziție + substantiv, feminin plural + pronume demonstrativ",
-       "def_ro": "asupra oaselor acestora (al haațamot haēle)",
-       "dict_ro": "Obiectul direct al profeției poruncite."
+       "pos": "substantiv, feminin plural + pronume demonstrativ",
+       "def_ro": "oasele acestea (haațamot haēle)",
+       "dict_ro": "Porunca profeției directe, adresate oaselor, inaugurează execuția practică a minunii viziunii."
       },
       {
        "t": " "
@@ -44864,25 +44991,38 @@
       {
        "t": "și spune-le:",
        "w": "și spune-le:",
-       "heb": "וְאָמַרְתָּ",
-       "translit": "veamarta",
-       "strong": "H559",
-       "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și vei spune la ele: (veamarta alēhem)",
-       "dict_ro": "Profetul trebuie să se adreseze direct oaselor, deși lipsite de viață — un act de credință în puterea cuvântului profetic."
+       "heb": "וְאָמַרְתָּ אֲלֵיהֶם",
+       "translit": "veamarta alēhem",
+       "strong": "H413",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix",
+       "def_ro": "și le vei spune: (veamarta alēhem)",
+       "dict_ro": "Formula introduce conținutul exact al profeției care trebuie pronunțate direct asupra oaselor."
       },
       {
        "t": " "
       },
       {
-       "t": "«O, oase uscate,",
-       "w": "«O, oase uscate,",
-       "heb": "הָעֲצָמוֹת הַיְבֵשׁוֹת",
-       "translit": "haațamot haivēșot",
+       "t": "«O, oase",
+       "w": "«O, oase",
+       "heb": "הָעֲצָמוֹת",
+       "translit": "haațamot",
+       "strong": "H6106",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "oasele (haațamot)",
+       "dict_ro": "Adresarea directă «oase uscate» confirmă caracterul retoric, apelativ, al profeției."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "uscate,",
+       "w": "uscate,",
+       "heb": "הַיְבֵשׁוֹת",
+       "translit": "haivēșot",
        "strong": "H3002",
-       "pos": "substantiv, feminin plural + adjectiv, feminin plural",
-       "def_ro": "«oasele uscate, (haațamot haivēșot)",
-       "dict_ro": "Repetă descrierea stării de maximă deteriorare, accentuând contrastul care urmează."
+       "pos": "adjectiv, feminin plural",
+       "def_ro": "uscate, (haivēșot)",
+       "dict_ro": "Adresarea directă «oase uscate» confirmă caracterul retoric, apelativ, al profeției."
       },
       {
        "t": " "
@@ -44895,20 +45035,33 @@
        "strong": "H8085",
        "pos": "verb, qal imperativ",
        "def_ro": "ascultați (șimu)",
-       "dict_ro": "Chemarea paradoxală la ascultare adresată unor oase moarte — pregătește minunea transformării iminente."
+       "dict_ro": "Oasele, moarte, sunt totuși chemate să asculte cuvântul DOMNULUI, paradox central al minunii."
       },
       {
        "t": " "
       },
       {
-       "t": "cuvântul DOMNULUI!",
-       "w": "cuvântul DOMNULUI!",
-       "heb": "דְּבַר יְהוָה",
-       "translit": "devar Adonai",
+       "t": "cuvântul",
+       "w": "cuvântul",
+       "heb": "דְּבַר",
+       "translit": "devar",
+       "strong": "H1697",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "cuvântul (devar)",
+       "dict_ro": "Oasele, moarte, sunt totuși chemate să asculte cuvântul DOMNULUI, paradox central al minunii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI!",
+       "w": "DOMNULUI!",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "cuvântul DOMNULUI! (devar Adonai)",
-       "dict_ro": "Autoritatea exactă invocată pentru chemarea paradoxală."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI! (Adonai)",
+       "dict_ro": "Oasele, moarte, sunt totuși chemate să asculte cuvântul DOMNULUI, paradox central al minunii."
       }
      ],
      "textCompare": [
@@ -44946,7 +45099,7 @@
        "strong": "H559",
        "pos": "adverb + verb, qal perfect",
        "def_ro": "astfel a spus (ko amar)",
-       "dict_ro": "Formula solemnă de adresare directă, chiar și unor oase inerte — autoritatea cuvântului divin transcende starea obiectului adresat."
+       "dict_ro": "Formula profetică standard introduce conținutul exact al promisiunii vieții."
       },
       {
        "t": " "
@@ -44959,7 +45112,7 @@
        "strong": "H136",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "Stăpânul meu, (adonai)",
-       "dict_ro": "Primul termen al titlului divin dublu."
+       "dict_ro": "Titlul dublu divin confirmă autoritatea supremă a promisiunii vieții redate oaselor."
       },
       {
        "t": " "
@@ -44971,8 +45124,8 @@
        "translit": "Adonai",
        "strong": "H3069",
        "pos": "nume propriu",
-       "def_ro": "DOMNUL (Adonai)",
-       "dict_ro": "Al doilea termen al titlului divin dublu, confirmând autoritatea maximă."
+       "def_ro": "Domnul DUMNEZEU (Adonai)",
+       "dict_ro": "Titlul dublu divin confirmă autoritatea supremă a promisiunii vieții redate oaselor."
       },
       {
        "t": " "
@@ -44984,8 +45137,8 @@
        "translit": "laațamot haēle",
        "strong": "H428",
        "pos": "substantiv, feminin plural + pronume demonstrativ",
-       "def_ro": "oaselor acestora: (laațamot haēle)",
-       "dict_ro": "Destinatarul direct al mesajului solemn, oasele din vale."
+       "def_ro": "oasele acestea: (laațamot haēle)",
+       "dict_ro": "Formula profetică standard introduce conținutul exact al promisiunii vieții."
       },
       {
        "t": " "
@@ -44997,8 +45150,8 @@
        "translit": "hinē",
        "strong": "H2009",
        "pos": "particulă demonstrativă",
-       "def_ro": "‘iată, (hinē)",
-       "dict_ro": "Particula demonstrativă anunță promisiunea centrală a reînvierii."
+       "def_ro": "iată, (hinē)",
+       "dict_ro": "Promisiunea directă — duh în voi, și veți trăi — pregătește minunea finală a învierii."
       },
       {
        "t": " "
@@ -45010,8 +45163,8 @@
        "translit": "ani",
        "strong": "H589",
        "pos": "pronume personal",
-       "def_ro": "Eu (ani)",
-       "dict_ro": "Pronumele emfatic subliniază inițiativa divină directă."
+       "def_ro": "eu (ani)",
+       "dict_ro": "Promisiunea directă — duh în voi, și veți trăi — pregătește minunea finală a învierii."
       },
       {
        "t": " "
@@ -45024,7 +45177,7 @@
        "strong": "H935",
        "pos": "verb, hifil participiu",
        "def_ro": "aduc (mēvi)",
-       "dict_ro": "Radak notează ordinea precisă a procesului de reînviere descris în continuare — tendoane, carne, piele, apoi duhul final, repetând simbolic etapele formării embrionului."
+       "dict_ro": "Promisiunea directă — duh în voi, și veți trăi — pregătește minunea finală a învierii."
       },
       {
        "t": " "
@@ -45037,7 +45190,7 @@
        "strong": "H7307",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "duh (ruah)",
-       "dict_ro": "Elementul central al promisiunii de reînviere, duhul vieții."
+       "dict_ro": "Promisiunea directă — duh în voi, și veți trăi — pregătește minunea finală a învierii."
       },
       {
        "t": " "
@@ -45050,7 +45203,7 @@
        "strong": "",
        "pos": "prepoziție + sufix",
        "def_ro": "în voi (vahem)",
-       "dict_ro": "Destinatarii direcți ai duhului promis, oasele din vale."
+       "dict_ro": "Promisiunea directă — duh în voi, și veți trăi — pregătește minunea finală a învierii."
       },
       {
        "t": " "
@@ -45063,7 +45216,7 @@
        "strong": "H2421",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "și veți trăi. (vihitem)",
-       "dict_ro": "Promisiunea directă a vieții, consecința necesară a venirii duhului divin."
+       "dict_ro": "Promisiunea directă — duh în voi, și veți trăi — pregătește minunea finală a învierii."
       }
      ],
      "textCompare": [
@@ -45100,8 +45253,8 @@
        "translit": "venatati",
        "strong": "H5414",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și voi pune (venatati)",
-       "dict_ro": "Rashi, printr-o comparație cu Iov 10:11: deși Iov menționează ordinea inversă a creației embrionului, rabinii explică diferența prin paralela cu îmbrăcarea — ultima haină scoasă e prima îmbrăcată din nou, dar la formarea inițială a fătului ordinea reală e piele-carne întâi, apoi oase-tendoane."
+       "def_ro": "și voi da (venatati)",
+       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
       },
       {
        "t": " "
@@ -45114,7 +45267,7 @@
        "strong": "H1517",
        "pos": "substantiv, masculin plural",
        "def_ro": "tendoane (gidim)",
-       "dict_ro": "Primul strat al reconstrucției corporale, legând oasele reasamblate."
+       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
       },
       {
        "t": " "
@@ -45126,8 +45279,8 @@
        "translit": "alēhem",
        "strong": "H5921",
        "pos": "prepoziție + sufix",
-       "def_ro": "peste voi (alēhem)",
-       "dict_ro": "Destinatarii direcți ai primului strat al reconstrucției."
+       "def_ro": "asupra voastră (alēhem)",
+       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
       },
       {
        "t": " "
@@ -45139,8 +45292,8 @@
        "translit": "vehaalēti",
        "strong": "H5927",
        "pos": "verb, hifil perfect consecutiv",
-       "def_ro": "și voi aduce (vehaalēti)",
-       "dict_ro": "Al doilea strat al reconstrucției corporale, urmând direct după tendoanele care leagă oasele."
+       "def_ro": "și voi ridica (vehaalēti)",
+       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
       },
       {
        "t": " "
@@ -45153,7 +45306,7 @@
        "strong": "H1320",
        "pos": "substantiv, masculin singular",
        "def_ro": "carne (basar)",
-       "dict_ro": "Al doilea strat al reconstrucției, crescând peste tendoane."
+       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
       },
       {
        "t": " "
@@ -45165,8 +45318,8 @@
        "translit": "alēhem",
        "strong": "H5921",
        "pos": "prepoziție + sufix",
-       "def_ro": "peste voi (alēhem)",
-       "dict_ro": "Destinatarii direcți ai celui de-al doilea strat al reconstrucției."
+       "def_ro": "asupra voastră (alēhem)",
+       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
       },
       {
        "t": " "
@@ -45178,8 +45331,8 @@
        "translit": "vekaramti",
        "strong": "H7159",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și voi acoperi (vekaramti)",
-       "dict_ro": "Rashi: verbul rar «vekaramti» descrie formarea unei membrane/cruste, imaginea exactă a pielii care acoperă complet corpul reconstruit."
+       "def_ro": "și voi întinde (vekaramti)",
+       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
       },
       {
        "t": " "
@@ -45191,8 +45344,8 @@
        "translit": "or",
        "strong": "H5785",
        "pos": "substantiv, masculin singular",
-       "def_ro": "cu piele. (or)",
-       "dict_ro": "Finalizarea structurii fizice externe a reconstrucției."
+       "def_ro": "piele. (or)",
+       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
       },
       {
        "t": " "
@@ -45204,8 +45357,8 @@
        "translit": "venatati",
        "strong": "H5414",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și voi pune (venatati)",
-       "dict_ro": "Repetiția promisiunii de la v.5, acum ca etapă finală, după completarea structurii fizice complete."
+       "def_ro": "și voi da (venatati)",
+       "dict_ro": "Insuflarea duhului, ultimul pas, pecetluiește definitiv procesul învierii fizice."
       },
       {
        "t": " "
@@ -45218,7 +45371,7 @@
        "strong": "H7307",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "duh (ruah)",
-       "dict_ro": "Elementul final, decisiv, al reconstrucției — viața reală, nu doar forma fizică."
+       "dict_ro": "Insuflarea duhului, ultimul pas, pecetluiește definitiv procesul învierii fizice."
       },
       {
        "t": " "
@@ -45231,7 +45384,7 @@
        "strong": "",
        "pos": "prepoziție + sufix",
        "def_ro": "în voi (vahem)",
-       "dict_ro": "Destinatarii direcți ai duhului final promis."
+       "dict_ro": "Insuflarea duhului, ultimul pas, pecetluiește definitiv procesul învierii fizice."
       },
       {
        "t": " "
@@ -45244,7 +45397,7 @@
        "strong": "H2421",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "și veți trăi; (vihitem)",
-       "dict_ro": "Confirmarea vieții depline, consecința duhului final."
+       "dict_ro": "Insuflarea duhului, ultimul pas, pecetluiește definitiv procesul învierii fizice."
       },
       {
        "t": " "
@@ -45257,46 +45410,36 @@
        "strong": "H3045",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "și veți ști (vidatem)",
-       "dict_ro": "Scopul final al întregii minuni — recunoașterea certă a lui Dumnezeu prin experiența directă a reînvierii."
+       "dict_ro": "Scopul final al minunii: cunoașterea certă, experimentală, a identității DOMNULUI."
       },
       {
        "t": " "
       },
       {
-       "t": "că",
-       "w": "că",
-       "heb": "כִּי",
-       "translit": "ki",
-       "strong": "H3588",
-       "pos": "conjuncție",
-       "def_ro": "că (ki)",
-       "dict_ro": "Particula introduce formula de recunoaștere divină."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "Eu",
-       "w": "Eu",
-       "heb": "אֲנִי",
-       "translit": "ani",
+       "t": "că Eu sunt",
+       "w": "că Eu sunt",
+       "heb": "כִּי אֲנִי",
+       "translit": "ki ani",
        "strong": "H589",
-       "pos": "pronume personal",
-       "def_ro": "Eu (ani)",
-       "dict_ro": "Pronumele emfatic al formulei finale de recunoaștere."
+       "pos": "conjuncție + pronume personal",
+       "def_ro": "că eu (ki ani)",
+       "dict_ro": "Scopul final al minunii: cunoașterea certă, experimentală, a identității DOMNULUI."
       },
       {
        "t": " "
       },
       {
-       "t": "sunt DOMNUL.’»”",
-       "w": "sunt DOMNUL.’»”",
+       "t": "DOMNUL.’",
+       "w": "DOMNUL.’",
        "heb": "יְהוָה",
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
-       "def_ro": "DOMNUL.’»” (Adonai)",
-       "dict_ro": "Scopul final al întregii minuni — recunoașterea certă a lui Dumnezeu prin experiența directă a reînvierii."
+       "def_ro": "DOMNUL.’ (Adonai)",
+       "dict_ro": "Scopul final al minunii: cunoașterea certă, experimentală, a identității DOMNULUI."
+      },
+      {
+       "t": "»”"
       }
      ],
      "textCompare": [
@@ -45333,7 +45476,7 @@
        "strong": "H5012",
        "pos": "verb, nifal perfect",
        "def_ro": "și am profețit (venibēti)",
-       "dict_ro": "Confirmă ascultarea imediată și totală a profetului, fără ezitare, în fața poruncii aparent absurde de a vorbi oaselor."
+       "dict_ro": "Ascultarea imediată a lui Ezechiel execută exact porunca primită, fără hezitare."
       },
       {
        "t": " "
@@ -45346,7 +45489,7 @@
        "strong": "H6680",
        "pos": "particulă relativă + verb, pual perfect",
        "def_ro": "precum mi s-a poruncit (kaașer țuvēti)",
-       "dict_ro": "Confirmă fidelitatea exactă a executării poruncii primite."
+       "dict_ro": "Ascultarea imediată a lui Ezechiel execută exact porunca primită, fără hezitare."
       },
       {
        "t": " "
@@ -45359,7 +45502,7 @@
        "strong": "H6963",
        "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular",
        "def_ro": "și a fost un sunet (vaihi kol)",
-       "dict_ro": "Primul semn vizibil al minunii — un sunet real, confirmând că profeția declanșează un eveniment fizic concret."
+       "dict_ro": "Sunetul auzit chiar în timpul profeției confirmă efectul fizic, imediat, al cuvântului profetic."
       },
       {
        "t": " "
@@ -45371,8 +45514,8 @@
        "translit": "kehinavi",
        "strong": "H5012",
        "pos": "verb, nifal infinitiv + sufix",
-       "def_ro": "când profețeam (kehinavi)",
-       "dict_ro": "Reperul temporal exact al apariției sunetului, în timpul rostirii profeției."
+       "def_ro": "la profetizarea mea (kehinavi)",
+       "dict_ro": "Sunetul auzit chiar în timpul profeției confirmă efectul fizic, imediat, al cuvântului profetic."
       },
       {
        "t": " "
@@ -45385,7 +45528,7 @@
        "strong": "H2009",
        "pos": "particulă demonstrativă",
        "def_ro": "și iată, (vehinē)",
-       "dict_ro": "Particula demonstrativă introduce al doilea semn al minunii."
+       "dict_ro": "Cutremurul care urmează sunetul confirmă intensitatea fizică a minunii în curs."
       },
       {
        "t": " "
@@ -45397,8 +45540,8 @@
        "translit": "raaș",
        "strong": "H7494",
        "pos": "substantiv, masculin singular",
-       "def_ro": "un huruit, (raaș)",
-       "dict_ro": "Rashi: zgomotul e produs chiar de oase, care se ciocnesc și se lovesc una de alta în timp ce se deplasează."
+       "def_ro": "un cutremur, (raaș)",
+       "dict_ro": "Cutremurul care urmează sunetul confirmă intensitatea fizică a minunii în curs."
       },
       {
        "t": " "
@@ -45411,7 +45554,7 @@
        "strong": "H6106",
        "pos": "substantiv, feminin plural",
        "def_ro": "oase (ațamot)",
-       "dict_ro": "Subiectul mișcării de reasamblare, oasele împrăștiate în vale."
+       "dict_ro": "Reasamblarea oaselor, fiecare la locul său, marchează primul pas vizibil al minunii învierii."
       },
       {
        "t": " "
@@ -45423,8 +45566,8 @@
        "translit": "vatikrevu",
        "strong": "H7126",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "s-au apropiat (vatikrevu)",
-       "dict_ro": "Rashi: oriunde fuseseră împrăștiate, oasele sar și se apropie fiecare exact de locul său de articulare originar, refăcând structura scheletică corectă."
+       "def_ro": "și s-au apropiat (vatikrevu)",
+       "dict_ro": "Reasamblarea oaselor, fiecare la locul său, marchează primul pas vizibil al minunii învierii."
       },
       {
        "t": " "
@@ -45436,8 +45579,8 @@
        "translit": "ețem el ațmo",
        "strong": "H6106",
        "pos": "substantiv, feminin singular + prepoziție + substantiv, feminin singular construct + sufix",
-       "def_ro": "os de osul lui. (ețem el ațmo)",
-       "dict_ro": "Confirmă reasamblarea exactă, fiecare os revenind precis la locul său de articulare originar."
+       "def_ro": "os la osul lui. (ețem el ațmo)",
+       "dict_ro": "Reasamblarea oaselor, fiecare la locul său, marchează primul pas vizibil al minunii învierii."
       }
      ],
      "textCompare": [
@@ -45473,11 +45616,24 @@
        "translit": "veraiti",
        "strong": "H7200",
        "pos": "verb, qal perfect",
-       "def_ro": "și m-am uitat (veraiti)",
-       "dict_ro": "Confirmarea vizuală directă a primei etape a reconstrucției."
+       "def_ro": "și am văzut (veraiti)",
+       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
       },
       {
-       "t": " și iată, "
+       "t": " "
+      },
+      {
+       "t": "și iată,",
+       "w": "și iată,",
+       "heb": "וְהִנֵּה",
+       "translit": "vehinē",
+       "strong": "H2009",
+       "pos": "particulă demonstrativă",
+       "def_ro": "și iată, (vehinē)",
+       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
+      },
+      {
+       "t": " "
       },
       {
        "t": "tendoane",
@@ -45487,7 +45643,7 @@
        "strong": "H1517",
        "pos": "substantiv, masculin plural",
        "def_ro": "tendoane (gidim)",
-       "dict_ro": "Primul element observat, tendoanele deja formate, legând scheletul reasamblat."
+       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
       },
       {
        "t": " "
@@ -45495,12 +45651,12 @@
       {
        "t": "erau peste ele",
        "w": "erau peste ele",
-       "heb": "וְהִנֵּה עֲלֵיהֶם",
-       "translit": "vehinē alēhem",
+       "heb": "עֲלֵיהֶם",
+       "translit": "alēhem",
        "strong": "H5921",
-       "pos": "particulă demonstrativă + prepoziție + sufix",
-       "def_ro": "și iată, peste ele (vehinē alēhem)",
-       "dict_ro": "Confirmarea vizuală directă a primei etape a reconstrucției — tendoanele deja formate, legând scheletul reasamblat."
+       "pos": "prepoziție + sufix",
+       "def_ro": "peste ele (alēhem)",
+       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
       },
       {
        "t": " "
@@ -45513,7 +45669,7 @@
        "strong": "H1320",
        "pos": "substantiv, masculin singular",
        "def_ro": "și carne (uvasar)",
-       "dict_ro": "A doua etapă, carnea crescând vizibil peste structura tendoanelor."
+       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
       },
       {
        "t": " "
@@ -45525,34 +45681,34 @@
        "translit": "ala",
        "strong": "H5927",
        "pos": "verb, qal perfect",
-       "def_ro": "a crescut (ala)",
-       "dict_ro": "Verbul central al celei de-a doua etape de reconstrucție vizibilă."
+       "def_ro": "a urcat (ala)",
+       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
       },
       {
        "t": " "
       },
       {
-       "t": "și fuseseră acoperite",
-       "w": "și fuseseră acoperite",
+       "t": "și fuseseră acoperite de",
+       "w": "și fuseseră acoperite de",
        "heb": "וַיִּקְרַם",
        "translit": "vaikram",
        "strong": "H7159",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și s-a format o membrană (vaikram)",
-       "dict_ro": "Finalizarea structurii fizice externe — pielea completează aspectul exterior complet al corpului."
+       "def_ro": "și a întins (vaikram)",
+       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
       },
       {
        "t": " "
       },
       {
-       "t": "de piele,",
-       "w": "de piele,",
+       "t": "piele,",
+       "w": "piele,",
        "heb": "עוֹר",
        "translit": "or",
        "strong": "H5785",
        "pos": "substantiv, masculin singular",
-       "def_ro": "piele peste ele (alēhem or)",
-       "dict_ro": "Al treilea strat observat, pielea care finalizează aspectul exterior."
+       "def_ro": "piele, (or)",
+       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
       },
       {
        "t": " "
@@ -45565,7 +45721,7 @@
        "strong": "H7307",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "și duh (veruah)",
-       "dict_ro": "Elementul crucial lipsă — reconstrucția fizică completă, dar fără viață reală, pregătind a doua profeție necesară, adresată de această dată duhului însuși."
+       "dict_ro": "Absența duhului, în ciuda refacerii corporale complete, confirmă necesitatea unui al doilea act creator distinct."
       },
       {
        "t": " "
@@ -45577,8 +45733,8 @@
        "translit": "ēn bahem",
        "strong": "",
        "pos": "particulă negativă + prepoziție + sufix",
-       "def_ro": "nu era în ele. (ēn bahem)",
-       "dict_ro": "Confirmă absența vieții reale, în ciuda completării fizice totale a corpurilor."
+       "def_ro": "nu [era] în ele. (ēn bahem)",
+       "dict_ro": "Absența duhului, în ciuda refacerii corporale complete, confirmă necesitatea unui al doilea act creator distinct."
       }
      ],
      "textCompare": [
@@ -45608,12 +45764,12 @@
       {
        "t": "Apoi El mi-a spus:",
        "w": "Apoi El mi-a spus:",
-       "heb": "וַיֹּאמֶר",
-       "translit": "vaiomer",
-       "strong": "H559",
-       "pos": "verb, qal imperfect consecutiv",
+       "heb": "וַיֹּאמֶר אֵלַי",
+       "translit": "vaiomer ēlai",
+       "strong": "H413",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
        "def_ro": "și a spus la mine: (vaiomer ēlai)",
-       "dict_ro": "A doua profeție, distinctă de prima — nu doar oaselor reconstituite, ci duhului însuși, chemat separat."
+       "dict_ro": "A doua profeție, adresată direct duhului, completează minunea prin insuflarea finală a vieții."
       },
       {
        "t": " "
@@ -45625,8 +45781,8 @@
        "translit": "hinavē",
        "strong": "H5012",
        "pos": "verb, nifal imperativ",
-       "def_ro": "„profețește (hinavē)",
-       "dict_ro": "Prima rostire a imperativului dublu adresat duhului."
+       "def_ro": "profețește (hinavē)",
+       "dict_ro": "A doua profeție, adresată direct duhului, completează minunea prin insuflarea finală a vieții."
       },
       {
        "t": " "
@@ -45638,8 +45794,8 @@
        "translit": "el haruah",
        "strong": "H7307",
        "pos": "prepoziție + substantiv, masculin și feminin singular",
-       "def_ro": "spre duhul, (el haruah)",
-       "dict_ro": "Destinatarul direct al noii profeții, duhul vieții."
+       "def_ro": "la duhul, (el haruah)",
+       "dict_ro": "A doua profeție, adresată direct duhului, completează minunea prin insuflarea finală a vieții."
       },
       {
        "t": " "
@@ -45652,20 +45808,33 @@
        "strong": "H5012",
        "pos": "verb, nifal imperativ",
        "def_ro": "profețește, (hinavē)",
-       "dict_ro": "Repetiția imperativului accentuează urgența și gravitatea acestei a doua chemări profetice."
+       "dict_ro": "Repetarea dublă a poruncii «profețește» amplifică urgența celui de-al doilea act profetic."
       },
       {
        "t": " "
       },
       {
-       "t": "fiu al omului,",
-       "w": "fiu al omului,",
-       "heb": "בֶן אָדָם",
-       "translit": "ven adam",
+       "t": "fiu",
+       "w": "fiu",
+       "heb": "בֶן",
+       "translit": "ven",
+       "strong": "H1121",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "fiu de (ven)",
+       "dict_ro": "Repetarea dublă a poruncii «profețește» amplifică urgența celui de-al doilea act profetic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "al omului,",
+       "w": "al omului,",
+       "heb": "אָדָם",
+       "translit": "adam",
        "strong": "H120",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "fiu al omului, (ven adam)",
-       "dict_ro": "Titlul standard reluat la a doua chemare profetică."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "om, (adam)",
+       "dict_ro": "Repetarea dublă a poruncii «profețește» amplifică urgența celui de-al doilea act profetic."
       },
       {
        "t": " "
@@ -45678,7 +45847,7 @@
        "strong": "H559",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "și vei spune (veamarta)",
-       "dict_ro": "Verbul adresării directe, personificate, către duh."
+       "dict_ro": "Formula introduce conținutul exact al celei de-a doua profeții, adresate direct duhului."
       },
       {
        "t": " "
@@ -45690,8 +45859,8 @@
        "translit": "el haruah",
        "strong": "H7307",
        "pos": "prepoziție + substantiv, masculin și feminin singular",
-       "def_ro": "spre duhul: (el haruah)",
-       "dict_ro": "Adresarea directă, personificată, a duhului vieții, chemat ca o entitate distinctă care trebuie convinsă să vină."
+       "def_ro": "la duhul: (el haruah)",
+       "dict_ro": "Formula introduce conținutul exact al celei de-a doua profeții, adresate direct duhului."
       },
       {
        "t": " "
@@ -45703,8 +45872,8 @@
        "translit": "ko amar",
        "strong": "H559",
        "pos": "adverb + verb, qal perfect",
-       "def_ro": "«așa a spus (ko amar)",
-       "dict_ro": "Formulă solemnă de autentificare divină a mesajului transmis duhului."
+       "def_ro": "astfel a spus (ko amar)",
+       "dict_ro": "Formula profetică standard pregătește chemarea duhului din cele patru vânturi."
       },
       {
        "t": " "
@@ -45717,7 +45886,7 @@
        "strong": "H136",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "Stăpânul meu, (adonai)",
-       "dict_ro": "Primul termen al titlului divin dublu adresat duhului."
+       "dict_ro": "Titlul dublu divin confirmă autoritatea supremă a poruncii adresate duhului."
       },
       {
        "t": " "
@@ -45729,34 +45898,60 @@
        "translit": "Adonai",
        "strong": "H3069",
        "pos": "nume propriu",
-       "def_ro": "DOMNUL: (Adonai)",
-       "dict_ro": "Al doilea termen al titlului divin, sigilând mesajul transmis duhului."
+       "def_ro": "Domnul DUMNEZEU: (Adonai)",
+       "dict_ro": "Titlul dublu divin confirmă autoritatea supremă a poruncii adresate duhului."
       },
       {
        "t": " "
       },
       {
-       "t": "‘Din cele patru vânturi",
-       "w": "‘Din cele patru vânturi",
-       "heb": "מֵאַרְבַּע רוּחוֹת",
-       "translit": "mēarba ruhot",
-       "strong": "H7307",
-       "pos": "numeral + substantiv, masculin și feminin plural",
-       "def_ro": "din patru vânturi (mēarba ruhot)",
-       "dict_ro": "Rashi: sufletele celor morți s-au risipit în toate cele patru direcții ale lumii; duhul e chemat să se adune din toate aceste direcții pentru a reveni."
+       "t": "‘Din cele patru",
+       "w": "‘Din cele patru",
+       "heb": "מֵאַרְבַּע",
+       "translit": "mēarba",
+       "strong": "H702",
+       "pos": "numeral",
+       "def_ro": "din patru (mēarba)",
+       "dict_ro": "Chemarea duhului din toate cele patru direcții confirmă universalitatea cosmică a acestei a doua insuflări."
       },
       {
        "t": " "
       },
       {
-       "t": "vino, duhule,",
-       "w": "vino, duhule,",
-       "heb": "בֹּאִי הָרוּחַ",
-       "translit": "boi haruah",
+       "t": "vânturi",
+       "w": "vânturi",
+       "heb": "רוּחוֹת",
+       "translit": "ruhot",
        "strong": "H7307",
-       "pos": "verb, qal imperativ + substantiv, masculin și feminin singular",
-       "def_ro": "vino, duhule, (boi haruah)",
-       "dict_ro": "Chemarea directă, personificată, a duhului să revină din toate direcțiile."
+       "pos": "substantiv, masculin și feminin plural",
+       "def_ro": "vânturi (ruhot)",
+       "dict_ro": "Chemarea duhului din toate cele patru direcții confirmă universalitatea cosmică a acestei a doua insuflări."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "vino,",
+       "w": "vino,",
+       "heb": "בֹּאִי",
+       "translit": "boi",
+       "strong": "H935",
+       "pos": "verb, qal imperativ",
+       "def_ro": "vino, (boi)",
+       "dict_ro": "Chemarea duhului din toate cele patru direcții confirmă universalitatea cosmică a acestei a doua insuflări."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "duhule,",
+       "w": "duhule,",
+       "heb": "הָרוּחַ",
+       "translit": "haruah",
+       "strong": "H7307",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "duhule, (haruah)",
+       "dict_ro": "Chemarea duhului din toate cele patru direcții confirmă universalitatea cosmică a acestei a doua insuflări."
       },
       {
        "t": " "
@@ -45769,20 +45964,33 @@
        "strong": "H5301",
        "pos": "verb, qal imperativ",
        "def_ro": "și suflă (ufhi)",
-       "dict_ro": "Verbul central al poruncii finale adresate duhului."
+       "dict_ro": "Verbul «a sufla» aduce aminte explicit de insuflarea originară a vieții în Adam, la Geneza 2:7."
       },
       {
        "t": " "
       },
       {
-       "t": "în acești uciși",
-       "w": "în acești uciși",
-       "heb": "בַּהֲרוּגִים הָאֵלֶּה",
-       "translit": "baharugim haēle",
+       "t": "în acești",
+       "w": "în acești",
+       "heb": "הָאֵלֶּה",
+       "translit": "haēle",
        "strong": "H428",
-       "pos": "verb, qal participiu pasiv + pronume demonstrativ",
-       "def_ro": "în cei uciși aceștia (baharugim haēle)",
-       "dict_ro": "Radak notează termenul «haruguim» (uciși) — chiar dacă oasele din vale pot fi identificate cu tribul lui Efraim, mort prin sabie, termenul poate desemna generic orice formă de moarte."
+       "pos": "pronume demonstrativ",
+       "def_ro": "aceștia, (haēle)",
+       "dict_ro": "Verbul «a sufla» aduce aminte explicit de insuflarea originară a vieții în Adam, la Geneza 2:7."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "uciși",
+       "w": "uciși",
+       "heb": "בַּהֲרוּגִים",
+       "translit": "baharugim",
+       "strong": "H2026",
+       "pos": "verb, qal participiu pasiv",
+       "def_ro": "uciși (baharugim)",
+       "dict_ro": "Oasele uciși, nu doar morți natural, confirmă identificarea lor cu victimele exilului și dezastrelor naționale."
       },
       {
        "t": " "
@@ -45795,7 +46003,7 @@
        "strong": "H2421",
        "pos": "verb, qal imperfect",
        "def_ro": "și vor trăi!’»”. (veihiu)",
-       "dict_ro": "Promisiunea finală, directă, a învierii efective prin venirea duhului."
+       "dict_ro": "Oasele uciși, nu doar morți natural, confirmă identificarea lor cu victimele exilului și dezastrelor naționale."
       }
      ],
      "textCompare": [
@@ -45833,7 +46041,7 @@
        "strong": "H5012",
        "pos": "verb, hitpael perfect",
        "def_ro": "și am profețit (vehinabēti)",
-       "dict_ro": "Confirmă din nou ascultarea totală a profetului în fața acestei a doua porunci, finalizând dubla profeție."
+       "dict_ro": "Ascultarea imediată a celei de-a doua porunci execută exact instrucțiunea primită."
       },
       {
        "t": " "
@@ -45846,7 +46054,7 @@
        "strong": "H6680",
        "pos": "particulă relativă + verb, piel perfect + sufix",
        "def_ro": "precum mi-a poruncit. (kaașer țivani)",
-       "dict_ro": "Confirmă fidelitatea exactă a executării celei de-a doua porunci profetice."
+       "dict_ro": "Ascultarea imediată a celei de-a doua porunci execută exact instrucțiunea primită."
       },
       {
        "t": " "
@@ -45859,33 +46067,20 @@
        "strong": "H7307",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "duhul (haruah)",
-       "dict_ro": "Subiectul central al minunii culminante, duhul chemat din cele patru vânturi."
+       "dict_ro": "Intrarea duhului finalizează minunea, transformând corpurile reasamblate în ființe vii, în picioare."
       },
       {
        "t": " "
       },
       {
-       "t": "a intrat",
-       "w": "a intrat",
-       "heb": "וַתָּבוֹא",
-       "translit": "vatavo",
-       "strong": "H935",
-       "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "a venit (vatavo)",
-       "dict_ro": "Momentul culminant al minunii — duhul chemat din cele patru vânturi pătrunde efectiv în corpurile reconstituite."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "în ele",
-       "w": "în ele",
-       "heb": "בָהֶם",
-       "translit": "vahem",
+       "t": "a intrat în ele",
+       "w": "a intrat în ele",
+       "heb": "וַתָּבוֹא בָהֶם",
+       "translit": "vatavo vahem",
        "strong": "",
-       "pos": "prepoziție + sufix",
-       "def_ro": "în ele (vahem)",
-       "dict_ro": "Destinatarii direcți ai duhului pătrunzător, corpurile reconstituite."
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
+       "def_ro": "și a venit în ele (vatavo vahem)",
+       "dict_ro": "Intrarea duhului finalizează minunea, transformând corpurile reasamblate în ființe vii, în picioare."
       },
       {
        "t": " "
@@ -45898,7 +46093,7 @@
        "strong": "H2421",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și au trăit (vaihiu)",
-       "dict_ro": "Confirmarea directă a vieții depline, consecința pătrunderii duhului."
+       "dict_ro": "Intrarea duhului finalizează minunea, transformând corpurile reasamblate în ființe vii, în picioare."
       },
       {
        "t": " "
@@ -45911,7 +46106,7 @@
        "strong": "H5975",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și au stat (vaiaamdu)",
-       "dict_ro": "Confirmarea vizuală finală a reînvierii complete — nu doar viață abstractă, ci ridicare fizică, stabilă, pe propriile picioare."
+       "dict_ro": "Intrarea duhului finalizează minunea, transformând corpurile reasamblate în ființe vii, în picioare."
       },
       {
        "t": " "
@@ -45924,7 +46119,7 @@
        "strong": "H7272",
        "pos": "prepoziție + substantiv, feminin dual construct + sufix",
        "def_ro": "pe picioarele lor (al raglēhem)",
-       "dict_ro": "Poziția finală, stabilă, a corpurilor reînviate."
+       "dict_ro": "Intrarea duhului finalizează minunea, transformând corpurile reasamblate în ființe vii, în picioare."
       },
       {
        "t": " "
@@ -45936,8 +46131,8 @@
        "translit": "hail",
        "strong": "H2428",
        "pos": "substantiv, masculin singular",
-       "def_ro": "o oștire (hail)",
-       "dict_ro": "Dimensiunea finală a reînvierii, descrisă ca o armată întreagă."
+       "def_ro": "oștire (hail)",
+       "dict_ro": "Imaginea unei «oștiri foarte, foarte mare» confirmă restaurarea completă, numeroasă, a poporului mort."
       },
       {
        "t": " "
@@ -45949,8 +46144,8 @@
        "translit": "gadol meod meod",
        "strong": "H3966",
        "pos": "adjectiv, masculin singular + adverb + adverb",
-       "def_ro": "mare foarte, foarte. (gadol meod meod)",
-       "dict_ro": "Dubla repetiție a intensificatorului «foarte» accentuează amploarea copleșitoare a armatei reînviate, confirmând proporția simbolică națională a viziunii."
+       "def_ro": "foarte, foarte mare. (gadol meod meod)",
+       "dict_ro": "Imaginea unei «oștiri foarte, foarte mare» confirmă restaurarea completă, numeroasă, a poporului mort."
       }
      ],
      "textCompare": [
@@ -45982,64 +46177,116 @@
       {
        "t": "Apoi El mi-a spus:",
        "w": "Apoi El mi-a spus:",
-       "heb": "וַיֹּאמֶר",
-       "translit": "vaiomer",
-       "strong": "H559",
-       "pos": "verb, qal imperfect consecutiv",
+       "heb": "וַיֹּאמֶר אֵלַי",
+       "translit": "vaiomer ēlai",
+       "strong": "H413",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
        "def_ro": "și a spus la mine: (vaiomer ēlai)",
-       "dict_ro": "Explicația divină a semnificației simbolice a întregii viziuni, oferită direct profetului."
+       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel, exilată și disperată."
       },
       {
        "t": " "
       },
       {
-       "t": "„Fiu al omului,",
-       "w": "„Fiu al omului,",
-       "heb": "בֶּן אָדָם",
-       "translit": "ben adam",
+       "t": "„Fiu",
+       "w": "„Fiu",
+       "heb": "בֶּן",
+       "translit": "ben",
+       "strong": "H1121",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "fiu de (ben)",
+       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "al omului,",
+       "w": "al omului,",
+       "heb": "אָדָם",
+       "translit": "adam",
        "strong": "H120",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "„fiu al omului, (ben adam)",
-       "dict_ro": "Titlul standard reluat pentru introducerea explicației simbolice."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "om, (adam)",
+       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel."
       },
       {
        "t": " "
       },
       {
-       "t": "aceste oase",
-       "w": "aceste oase",
-       "heb": "הָעֲצָמוֹת הָאֵלֶּה",
-       "translit": "haațamot haēle",
+       "t": "aceste",
+       "w": "aceste",
+       "heb": "הָאֵלֶּה",
+       "translit": "haēle",
        "strong": "H428",
-       "pos": "substantiv, feminin plural + pronume demonstrativ",
-       "def_ro": "oasele acestea (haațamot haēle)",
-       "dict_ro": "Obiectul direct al explicației simbolice care urmează."
+       "pos": "pronume demonstrativ",
+       "def_ro": "acestea (haēle)",
+       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel, exilată și disperată."
       },
       {
        "t": " "
       },
       {
-       "t": "– ele sunt",
-       "w": "– ele sunt",
+       "t": "oase –",
+       "w": "oase –",
+       "heb": "הָעֲצָמוֹת",
+       "translit": "haațamot",
+       "strong": "H6106",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "oasele (haațamot)",
+       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel, exilată și disperată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ele sunt",
+       "w": "ele sunt",
        "heb": "הֵמָּה",
        "translit": "hēma",
        "strong": "H1992",
        "pos": "pronume personal",
-       "def_ro": "ele (hēma)",
-       "dict_ro": "Pronumele emfatic care confirmă identificarea simbolică."
+       "def_ro": "ele [sunt] (hēma)",
+       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel, exilată și disperată."
       },
       {
        "t": " "
       },
       {
-       "t": "toată casa lui Israel.",
-       "w": "toată casa lui Israel.",
-       "heb": "כָּל בֵּית יִשְׂרָאֵל",
-       "translit": "kal bēt israēl",
+       "t": "toată",
+       "w": "toată",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tot (kal)",
+       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel, exilată și disperată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "casa",
+       "w": "casa",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (bēt)",
+       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel, exilată și disperată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui Israel.",
+       "w": "lui Israel.",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct + nume propriu",
-       "def_ro": "toată casa lui Israel. (kal bēt israēl)",
-       "dict_ro": "Radak: fie viziunea e pur simbolică pentru starea de disperare a exilaților, fie descrie literal o înviere reală a unor morți concreți — ambele interpretări coexistă în tradiția rabinică, fiecare cu suporteri."
+       "pos": "nume propriu",
+       "def_ro": "lui Israel. (israēl)",
+       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel, exilată și disperată."
       },
       {
        "t": " "
@@ -46052,7 +46299,7 @@
        "strong": "H2009",
        "pos": "particulă demonstrativă",
        "def_ro": "iată, (hinē)",
-       "dict_ro": "Particula demonstrativă introduce citatul disperării exilaților."
+       "dict_ro": "Citarea exactă a disperării poporului confirmă sentimentul de pierdere totală, dincolo de orice speranță."
       },
       {
        "t": " "
@@ -46064,34 +46311,60 @@
        "translit": "omrim",
        "strong": "H559",
        "pos": "verb, qal participiu",
-       "def_ro": "ei spun: (omrim)",
-       "dict_ro": "Introduce citatul exact al disperării exprimate de poporul în exil."
+       "def_ro": "cei ce spun: (omrim)",
+       "dict_ro": "Citarea exactă a disperării poporului confirmă sentimentul de pierdere totală, dincolo de orice speranță."
       },
       {
        "t": " "
       },
       {
-       "t": "«Oasele ni s-au uscat",
-       "w": "«Oasele ni s-au uscat",
-       "heb": "יָבְשׁוּ עַצְמוֹתֵינוּ",
-       "translit": "iavșu ațmotēnu",
+       "t": "«Oasele",
+       "w": "«Oasele",
+       "heb": "עַצְמוֹתֵינוּ",
+       "translit": "ațmotēnu",
        "strong": "H6106",
-       "pos": "verb, qal perfect + substantiv, feminin plural construct + sufix",
-       "def_ro": "«s-au uscat oasele noastre (iavșu ațmotēnu)",
-       "dict_ro": "Metafora uscăciunii, identică celei descrise literal în viziune, aplicată acum stării spirituale a exilaților."
+       "pos": "substantiv, feminin plural construct + sufix",
+       "def_ro": "oasele noastre (ațmotēnu)",
+       "dict_ro": "Citarea exactă a disperării poporului confirmă sentimentul de pierdere totală, dincolo de orice speranță."
       },
       {
        "t": " "
       },
       {
-       "t": "și speranța noastră s-a stins!",
-       "w": "și speranța noastră s-a stins!",
-       "heb": "וְאָבְדָה תִקְוָתֵנוּ",
-       "translit": "veavda tikvatēnu",
+       "t": "ni s-au uscat",
+       "w": "ni s-au uscat",
+       "heb": "יָבְשׁוּ",
+       "translit": "iavșu",
+       "strong": "H3001",
+       "pos": "verb, qal perfect",
+       "def_ro": "s-au uscat (iavșu)",
+       "dict_ro": "Citarea exactă a disperării poporului confirmă sentimentul de pierdere totală, dincolo de orice speranță."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și speranța",
+       "w": "și speranța",
+       "heb": "תִקְוָתֵנוּ",
+       "translit": "tikvatēnu",
        "strong": "H8615",
-       "pos": "verb, qal perfect + substantiv, feminin singular construct + sufix",
-       "def_ro": "și s-a pierdut speranța noastră! (veavda tikvatēnu)",
-       "dict_ro": "Confirmă disperarea totală — nu doar suferință, ci pierderea completă a oricărei așteptări de restaurare."
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "speranța noastră (tikvatēnu)",
+       "dict_ro": "Citarea exactă a disperării poporului confirmă sentimentul de pierdere totală, dincolo de orice speranță."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "noastră s-a stins!",
+       "w": "noastră s-a stins!",
+       "heb": "וְאָבְדָה",
+       "translit": "veavda",
+       "strong": "H6",
+       "pos": "verb, qal perfect",
+       "def_ro": "și s-a pierdut (veavda)",
+       "dict_ro": "Citarea exactă a disperării poporului confirmă sentimentul de pierdere totală, dincolo de orice speranță."
       },
       {
        "t": " "
@@ -46103,8 +46376,8 @@
        "translit": "nigzarnu lanu",
        "strong": "",
        "pos": "verb, nifal perfect + prepoziție + sufix",
-       "def_ro": "suntem tăiați pentru noi!» (nigzarnu lanu)",
-       "dict_ro": "Rashi: o interpretare midrashică alternativă leagă această disperare de frica exilaților că, odată morți deja o dată, nu vor mai trăi a doua oară când va veni învierea finală a tuturor morților."
+       "def_ro": "suntem tăiați pentru noi.» (nigzarnu lanu)",
+       "dict_ro": "Citarea exactă a disperării poporului confirmă sentimentul de pierdere totală, dincolo de orice speranță."
       }
      ],
      "textCompare": [
@@ -46147,7 +46420,7 @@
        "strong": "H3651",
        "pos": "adverb",
        "def_ro": "de aceea, (lahēn)",
-       "dict_ro": "Rashi: «de aceea» leagă direct explicația care urmează de disperarea citată la v.11 — răspunsul divin la exact această pierdere a speranței."
+       "dict_ro": "Răspunsul divin la disperarea poporului formulează promisiunea explicită a învierii naționale, dincolo de simbolul viziunii."
       },
       {
        "t": " "
@@ -46160,7 +46433,7 @@
        "strong": "H5012",
        "pos": "verb, nifal imperativ",
        "def_ro": "profețește (hinavē)",
-       "dict_ro": "Porunca directă a celei de-a treia profeții, de restaurare."
+       "dict_ro": "Răspunsul divin la disperarea poporului formulează promisiunea explicită a învierii naționale."
       },
       {
        "t": " "
@@ -46168,12 +46441,12 @@
       {
        "t": "și spune-le:",
        "w": "și spune-le:",
-       "heb": "וְאָמַרְתָּ",
-       "translit": "veamarta",
-       "strong": "H559",
-       "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și vei spune la ele: (veamarta alēhem)",
-       "dict_ro": "Introduce citarea directă a promisiunii divine de restaurare."
+       "heb": "וְאָמַרְתָּ אֲלֵיהֶם",
+       "translit": "veamarta alēhem",
+       "strong": "H413",
+       "pos": "verb, qal perfect consecutiv + prepoziție + sufix",
+       "def_ro": "și vei spune la ei: (veamarta alēhem)",
+       "dict_ro": "Răspunsul divin la disperarea poporului formulează promisiunea explicită a învierii naționale."
       },
       {
        "t": " "
@@ -46185,8 +46458,8 @@
        "translit": "ko amar",
        "strong": "H559",
        "pos": "adverb + verb, qal perfect",
-       "def_ro": "«așa a spus (ko amar)",
-       "dict_ro": "Formula solemnă introduce promisiunea directă de restaurare, adresată explicit disperării exprimate de popor."
+       "def_ro": "astfel a spus (ko amar)",
+       "dict_ro": "Formula profetică standard introduce promisiunea deschiderii mormintelor exilului."
       },
       {
        "t": " "
@@ -46199,7 +46472,7 @@
        "strong": "H136",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "Stăpânul meu, (adonai)",
-       "dict_ro": "Primul termen al titlului divin dublu."
+       "dict_ro": "Titlul dublu divin confirmă autoritatea supremă a promisiunii deschiderii mormintelor exilului."
       },
       {
        "t": " "
@@ -46211,8 +46484,8 @@
        "translit": "Adonai",
        "strong": "H3069",
        "pos": "nume propriu",
-       "def_ro": "DOMNUL: (Adonai)",
-       "dict_ro": "Al doilea termen al titlului divin, sigilând promisiunea de restaurare."
+       "def_ro": "Domnul DUMNEZEU: (Adonai)",
+       "dict_ro": "Titlul dublu divin confirmă autoritatea supremă a promisiunii deschiderii mormintelor exilului."
       },
       {
        "t": " "
@@ -46224,8 +46497,8 @@
        "translit": "hinē",
        "strong": "H2009",
        "pos": "particulă demonstrativă",
-       "def_ro": "‘iată, (hinē)",
-       "dict_ro": "Particula demonstrativă anunță promisiunea centrală de eliberare."
+       "def_ro": "iată, (hinē)",
+       "dict_ro": "Imaginea mormintelor desemnează metaforic exilul însuși, moartea națională a poporului împrăștiat."
       },
       {
        "t": " "
@@ -46237,8 +46510,8 @@
        "translit": "ani",
        "strong": "H589",
        "pos": "pronume personal",
-       "def_ro": "Eu (ani)",
-       "dict_ro": "Pronumele emfatic subliniază inițiativa divină directă a restaurării."
+       "def_ro": "eu (ani)",
+       "dict_ro": "Imaginea mormintelor desemnează metaforic exilul însuși, moartea națională a poporului împrăștiat."
       },
       {
        "t": " "
@@ -46251,7 +46524,7 @@
        "strong": "H6605",
        "pos": "verb, qal participiu",
        "def_ro": "deschid (fotēah)",
-       "dict_ro": "Metafora exilului ca «mormânt» — poporul dispersat printre neamuri e descris ca îngropat, așteptând eliberarea."
+       "dict_ro": "Imaginea mormintelor desemnează metaforic exilul însuși, moartea națională a poporului împrăștiat."
       },
       {
        "t": " "
@@ -46264,7 +46537,7 @@
        "strong": "H6913",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "mormintele voastre (kivrotēhem)",
-       "dict_ro": "Obiectul direct al deschiderii promise, metafora exilului național."
+       "dict_ro": "Imaginea mormintelor desemnează metaforic exilul însuși, moartea națională a poporului împrăștiat."
       },
       {
        "t": " "
@@ -46276,8 +46549,8 @@
        "translit": "vehaalēti",
        "strong": "H5927",
        "pos": "verb, hifil perfect consecutiv",
-       "def_ro": "și vă voi ridica (vehaalēti)",
-       "dict_ro": "Promisiunea explicită de restaurare, confirmând relația de legământ («poporul Meu») chiar în mijlocul disperării."
+       "def_ro": "și voi ridica (vehaalēti)",
+       "dict_ro": "Imaginea mormintelor desemnează metaforic exilul însuși, moartea națională a poporului împrăștiat."
       },
       {
        "t": " "
@@ -46290,7 +46563,7 @@
        "strong": "H6913",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "din mormintele voastre, (mikivrotēhem)",
-       "dict_ro": "Locul exact al eliberării promise, metafora mormântului exilului."
+       "dict_ro": "Imaginea mormintelor desemnează metaforic exilul însuși, moartea națională a poporului împrăștiat."
       },
       {
        "t": " "
@@ -46302,8 +46575,8 @@
        "translit": "ami",
        "strong": "H5971",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "poporul Meu, (ami)",
-       "dict_ro": "Confirmă relația de legământ chiar în mijlocul disperării exprimate."
+       "def_ro": "poporul meu, (ami)",
+       "dict_ro": "Imaginea mormintelor desemnează metaforic exilul însuși, moartea națională a poporului împrăștiat."
       },
       {
        "t": " "
@@ -46315,21 +46588,34 @@
        "translit": "vehēvēti",
        "strong": "H935",
        "pos": "verb, hifil perfect consecutiv",
-       "def_ro": "și vă voi aduce (vehēvēti)",
-       "dict_ro": "Scopul final al restaurării — nu doar eliberare abstractă, ci revenirea concretă pe teritoriul național."
+       "def_ro": "și voi aduce (vehēvēti)",
+       "dict_ro": "Revenirea pe pământul Israelului completează, la nivel național, întreaga minune a învierii din viziune."
       },
       {
        "t": " "
       },
       {
-       "t": "pe pământul Israelului.",
-       "w": "pe pământul Israelului.",
-       "heb": "אֶל אַדְמַת יִשְׂרָאֵל",
-       "translit": "el admat israēl",
-       "strong": "H3478",
-       "pos": "prepoziție + substantiv, feminin singular construct + nume propriu",
-       "def_ro": "spre pământul lui Israel. (el admat israēl)",
-       "dict_ro": "Destinația finală a restaurării, teritoriul național promis."
+       "t": "pe pământul",
+       "w": "pe pământul",
+       "heb": "אֶל",
+       "translit": "el",
+       "strong": "H413",
+       "pos": "prepoziție",
+       "def_ro": "la pământul (el admat)",
+       "dict_ro": "Revenirea pe pământul Israelului completează, la nivel național, întreaga minune a învierii din viziune."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israelului.",
+       "w": "Israelului.",
+       "heb": "אַדְמַת",
+       "translit": "admat",
+       "strong": "H127",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "Israelului. (israēl)",
+       "dict_ro": "Revenirea pe pământul Israelului completează, la nivel național, întreaga minune a învierii din viziune."
       }
      ],
      "textCompare": [
@@ -46372,46 +46658,33 @@
        "strong": "H3045",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "și veți ști (vidatem)",
-       "dict_ro": "Formulă standard care confirmă scopul teologic central al oricărei intervenții divine descrise de Ezechiel — recunoașterea certă a lui Dumnezeu."
+       "dict_ro": "Cunoașterea certă a identității DOMNULUI, prin experiența directă a restaurării, rămâne scopul final al întregii profeții."
       },
       {
        "t": " "
       },
       {
-       "t": "că",
-       "w": "că",
-       "heb": "כִּי",
-       "translit": "ki",
-       "strong": "H3588",
-       "pos": "conjuncție",
-       "def_ro": "că (ki)",
-       "dict_ro": "Particula introduce formula de recunoaștere divină."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "Eu",
-       "w": "Eu",
-       "heb": "אֲנִי",
-       "translit": "ani",
+       "t": "că Eu sunt",
+       "w": "că Eu sunt",
+       "heb": "כִּי אֲנִי",
+       "translit": "ki ani",
        "strong": "H589",
-       "pos": "pronume personal",
-       "def_ro": "Eu (ani)",
-       "dict_ro": "Pronumele emfatic al formulei de recunoaștere divină."
+       "pos": "conjuncție + pronume personal",
+       "def_ro": "că eu (ki ani)",
+       "dict_ro": "Cunoașterea certă a identității DOMNULUI, prin experiența directă a restaurării, rămâne scopul final."
       },
       {
        "t": " "
       },
       {
-       "t": "sunt DOMNUL,",
-       "w": "sunt DOMNUL,",
+       "t": "DOMNUL,",
+       "w": "DOMNUL,",
        "heb": "יְהוָה",
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL, (Adonai)",
-       "dict_ro": "Confirmarea identității divine prin experiența directă a restaurării."
+       "dict_ro": "Cunoașterea certă a identității DOMNULUI, prin experiența directă a restaurării, rămâne scopul final."
       },
       {
        "t": " "
@@ -46423,8 +46696,8 @@
        "translit": "befithi",
        "strong": "H6605",
        "pos": "verb, qal infinitiv + sufix",
-       "def_ro": "în deschiderea mea (befithi)",
-       "dict_ro": "Repetă exact imaginea de la v.12, confirmând promisiunea printr-o a doua afirmare."
+       "def_ro": "la deschiderea mea (befithi)",
+       "dict_ro": "Repetarea exactă a imaginii mormintelor confirmă certitudinea deplină a promisiunii restaurării."
       },
       {
        "t": " "
@@ -46437,7 +46710,7 @@
        "strong": "H6913",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "mormintele voastre (kivrotēhem)",
-       "dict_ro": "Obiectul reluat al deschiderii promise."
+       "dict_ro": "Repetarea exactă a imaginii mormintelor confirmă certitudinea deplină a promisiunii restaurării."
       },
       {
        "t": " "
@@ -46449,8 +46722,8 @@
        "translit": "uvhaaloti",
        "strong": "H5927",
        "pos": "verb, hifil infinitiv + sufix",
-       "def_ro": "și în ridicarea mea (uvhaaloti)",
-       "dict_ro": "Repetiția întărește certitudinea promisiunii, aceeași formulă de restaurare confirmată de două ori consecutiv."
+       "def_ro": "și la ridicarea mea (uvhaaloti)",
+       "dict_ro": "Repetarea exactă a imaginii mormintelor confirmă certitudinea deplină a promisiunii restaurării."
       },
       {
        "t": " "
@@ -46463,7 +46736,7 @@
        "strong": "H6913",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "din mormintele voastre, (mikivrotēhem)",
-       "dict_ro": "Locul reluat al eliberării promise."
+       "dict_ro": "Repetarea exactă a imaginii mormintelor confirmă certitudinea deplină a promisiunii restaurării."
       },
       {
        "t": " "
@@ -46475,8 +46748,8 @@
        "translit": "ami",
        "strong": "H5971",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "poporul Meu. (ami)",
-       "dict_ro": "Confirmă din nou relația de legământ, reluată la finalul promisiunii duble."
+       "def_ro": "poporul meu. (ami)",
+       "dict_ro": "Repetarea exactă a imaginii mormintelor confirmă certitudinea deplină a promisiunii restaurării."
       }
      ],
      "textCompare": [
@@ -46512,8 +46785,8 @@
        "translit": "venatati",
        "strong": "H5414",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și voi pune (venatati)",
-       "dict_ro": "Radak notează o distincție teologică: acest «duh» final nu mai e doar duhul vieții fizice, ci duhul înțelepciunii — promisiunea include și o transformare morală, nu doar o reînviere fizică."
+       "def_ro": "și voi da (venatati)",
+       "dict_ro": "Formula finală reunește toate elementele minunii: duh, viață, repaus permanent pe pământul propriu."
       },
       {
        "t": " "
@@ -46525,8 +46798,8 @@
        "translit": "ruhi",
        "strong": "H7307",
        "pos": "substantiv, masculin și feminin singular construct + sufix",
-       "def_ro": "duhul Meu (ruhi)",
-       "dict_ro": "Elementul final al promisiunii, duhul divin personal."
+       "def_ro": "duhul meu (ruhi)",
+       "dict_ro": "Formula finală reunește toate elementele minunii: duh, viață, repaus permanent pe pământul propriu."
       },
       {
        "t": " "
@@ -46539,7 +46812,7 @@
        "strong": "",
        "pos": "prepoziție + sufix",
        "def_ro": "în voi (vahem)",
-       "dict_ro": "Destinatarii direcți ai duhului divin final."
+       "dict_ro": "Formula finală reunește toate elementele minunii: duh, viață, repaus permanent pe pământul propriu."
       },
       {
        "t": " "
@@ -46552,7 +46825,7 @@
        "strong": "H2421",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "și veți trăi, (vihitem)",
-       "dict_ro": "Confirmarea vieții depline promise prin duhul divin."
+       "dict_ro": "Formula finală reunește toate elementele minunii: duh, viață, repaus permanent pe pământul propriu."
       },
       {
        "t": " "
@@ -46564,8 +46837,8 @@
        "translit": "vehinahti",
        "strong": "H3240",
        "pos": "verb, hifil perfect consecutiv",
-       "def_ro": "și vă voi pune (vehinahti)",
-       "dict_ro": "Radak: promisiunea include stabilitate permanentă — poporul nu va mai fi exilat din nou, odată restaurat."
+       "def_ro": "și vă voi lăsa (vehinahti)",
+       "dict_ro": "Formula finală reunește toate elementele minunii: duh, viață, repaus permanent pe pământul propriu."
       },
       {
        "t": " "
@@ -46578,7 +46851,7 @@
        "strong": "H127",
        "pos": "prepoziție + substantiv, feminin singular construct + sufix",
        "def_ro": "pe pământul vostru, (al admathem)",
-       "dict_ro": "Locul final, stabil, al restaurării promise."
+       "dict_ro": "Formula finală reunește toate elementele minunii: duh, viață, repaus permanent pe pământul propriu."
       },
       {
        "t": " "
@@ -46591,33 +46864,20 @@
        "strong": "H3045",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "și veți ști (vidatem)",
-       "dict_ro": "Formula finală de certitudine absolută — cuvântul profetic și împlinirea lui coincid perfect, confirmând autoritatea divină a întregii profeții."
+       "dict_ro": "Formula finală dublă — «Eu, DOMNUL, am vorbit și am înfăptuit» — pecetluiește certitudinea absolută a întregii profeții."
       },
       {
        "t": " "
       },
       {
-       "t": "că",
-       "w": "că",
-       "heb": "כִּי",
-       "translit": "ki",
-       "strong": "H3588",
-       "pos": "conjuncție",
-       "def_ro": "că (ki)",
-       "dict_ro": "Particula introduce formula finală de recunoaștere divină."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "Eu,",
-       "w": "Eu,",
-       "heb": "אֲנִי",
-       "translit": "ani",
+       "t": "că Eu,",
+       "w": "că Eu,",
+       "heb": "כִּי אֲנִי",
+       "translit": "ki ani",
        "strong": "H589",
-       "pos": "pronume personal",
-       "def_ro": "Eu, (ani)",
-       "dict_ro": "Pronumele emfatic al formulei finale de recunoaștere."
+       "pos": "conjuncție + pronume personal",
+       "def_ro": "că eu, (ki ani)",
+       "dict_ro": "Formula finală dublă pecetluiește certitudinea absolută a întregii profeții."
       },
       {
        "t": " "
@@ -46630,7 +46890,7 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL, (Adonai)",
-       "dict_ro": "Confirmarea identității divine la finalul întregii profeții."
+       "dict_ro": "Formula finală dublă pecetluiește certitudinea absolută a întregii profeții."
       },
       {
        "t": " "
@@ -46643,7 +46903,7 @@
        "strong": "H1696",
        "pos": "verb, piel perfect",
        "def_ro": "am vorbit (dibarti)",
-       "dict_ro": "Primul verb al formulei finale de certitudine absolută."
+       "dict_ro": "Formula finală dublă pecetluiește certitudinea absolută a întregii profeții."
       },
       {
        "t": " "
@@ -46656,20 +46916,33 @@
        "strong": "H6213",
        "pos": "verb, qal perfect",
        "def_ro": "și am făcut (veasiti)",
-       "dict_ro": "Formula finală de certitudine absolută — cuvântul profetic și împlinirea lui coincid perfect, confirmând autoritatea divină a întregii profeții."
+       "dict_ro": "Formula finală dublă pecetluiește certitudinea absolută a întregii profeții."
       },
       {
        "t": " "
       },
       {
-       "t": "– rostirea DOMNULUI.’»”",
-       "w": "– rostirea DOMNULUI.’»”",
-       "heb": "נְאֻם יְהוָה",
-       "translit": "neum Adonai",
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula solemnă finală pecetluiește autoritatea divină absolută a întregii viziuni."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.’»”",
+       "w": "DOMNULUI.’»”",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "– rostirea DOMNULUI.’»” (neum Adonai)",
-       "dict_ro": "Formulă de sigilare divină finală, încheind una dintre cele mai cunoscute profeții din întreaga Scriptură ebraică."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI.’»” (Adonai)",
+       "dict_ro": "Formula solemnă finală pecetluiește autoritatea divină absolută a întregii viziuni."
       }
      ],
      "textCompare": [
