@@ -25091,13 +25091,26 @@
      "translit": "Vaiomer Natan adoni hameleh ata amarta Adoniahu imloh aharai vehu iēșēv al-kisi.",
      "tokens": [
       {
-       "t": "Și Natan a spus:",
-       "w": "Și Natan a spus:",
-       "heb": "וַיֹּאמֶר נָתָן",
-       "translit": "vaiomer natan",
+       "t": "Și Natan",
+       "w": "Și Natan",
+       "heb": "נָתָן",
+       "translit": "natan",
        "strong": "H5416",
-       "pos": "verb, qal imperfect consecutiv + nume propriu",
-       "def_ro": "și a spus Natan: (vaiomer natan)",
+       "pos": "nume propriu",
+       "def_ro": "și Natan (natan)",
+       "dict_ro": "Natan își prezintă mărturia ca o întrebare directă adresată lui David, la fel ca Bat-Șeva înainte."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a spus:",
+       "w": "a spus:",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a spus: (vaiomer)",
        "dict_ro": "Natan își prezintă mărturia ca o întrebare directă adresată lui David, la fel ca Bat-Șeva înainte."
       },
       {
