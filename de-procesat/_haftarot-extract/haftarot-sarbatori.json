@@ -57914,14 +57914,27 @@
        "t": " "
       },
       {
-       "t": "râul Kevar,",
-       "w": "râul Kevar,",
-       "heb": "נְהַר כְּבָר",
-       "translit": "nehar kevar",
+       "t": "râul",
+       "w": "râul",
+       "heb": "נְהַר",
+       "translit": "nehar",
+       "strong": "H5104",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "râul (nehar)",
+       "dict_ro": "Râul Kevar, canal al Eufratului în Babilonia, marchează locul exact al exilului lui Ezechiel și al primirii viziunii carului divin."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Kevar,",
+       "w": "Kevar,",
+       "heb": "כְּבָר",
+       "translit": "kevar",
        "strong": "H3529",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "râul Kevar, (nehar kevar)",
-       "dict_ro": "Rashi explică faptul că Kevar este numele râului; Radak adaugă o dezbatere între învățați dacă Kevar ar fi chiar Eufratul sau un râu distinct."
+       "pos": "nume propriu",
+       "def_ro": "Kevar, (kevar)",
+       "dict_ro": "Kevar, canal/râu din Babilonia, lângă care s-au stabilit exilații iudei — locul exact al acestei prime viziuni a lui Ezechiel."
       },
       {
        "t": " "
@@ -57966,14 +57979,27 @@
        "t": " "
       },
       {
-       "t": "viziuni ale lui Dumnezeu.",
-       "w": "viziuni ale lui Dumnezeu.",
-       "heb": "מַרְאוֹת אֱלֹהִים",
-       "translit": "marot elohim",
+       "t": "viziuni",
+       "w": "viziuni",
+       "heb": "מַרְאוֹת",
+       "translit": "marot",
+       "strong": "H4759",
+       "pos": "substantiv, feminin plural construct",
+       "def_ro": "viziuni ale (marot)",
+       "dict_ro": "Pluralul «viziuni» sugerează, potrivit tradiției, o succesiune de imagini profetice, nu o singură apariție unitară."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ale lui Dumnezeu.",
+       "w": "ale lui Dumnezeu.",
+       "heb": "אֱלֹהִים",
+       "translit": "elohim",
        "strong": "H430",
-       "pos": "substantiv, feminin plural construct + substantiv, masculin plural",
-       "def_ro": "viziuni ale lui Dumnezeu. (marot elohim)",
-       "dict_ro": "Rashi explică faptul că, neputând vedea printr-o oglindă limpede ca Moise, profetul numește viziunea «viziuni ale lui Dumnezeu» — ca un vis, nu o vedere directă și clară."
+       "pos": "substantiv, masculin plural",
+       "def_ro": "lui Dumnezeu. (elohim)",
+       "dict_ro": "Numele Elohim, folosit aici, accentuează latura de putere și judecată a lui Dumnezeu, potrivită contextului exilului și al pedepsei."
       }
      ],
      "textCompare": [
@@ -58053,14 +58079,27 @@
        "t": " "
       },
       {
-       "t": "regelui Ioiakin.",
-       "w": "regelui Ioiakin.",
-       "heb": "הַמֶּלֶךְ יוֹיָכִין",
-       "translit": "hameleh ioiahin",
+       "t": "regelui",
+       "w": "regelui",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
+       "strong": "H4428",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "regele (hameleh)",
+       "dict_ro": "Datarea exilului după anii regelui Ioiakin, nu ai lui Zedechia, confirmă punctul de referință istoric folosit de Ezechiel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Ioiakin.",
+       "w": "Ioiakin.",
+       "heb": "יוֹיָכִין",
+       "translit": "ioiahin",
        "strong": "H3112",
-       "pos": "substantiv, masculin singular + nume propriu",
-       "def_ro": "regelui Ioiakin. (hameleh ioiahin)",
-       "dict_ro": "Numele regelui exilat, Ioiachin, servă ca reper istoric pentru datarea precisă a viziunii."
+       "pos": "nume propriu",
+       "def_ro": "Ioiachin. (ioiahin)",
+       "dict_ro": "Ioiachin, regele dus în exil la Babilon în 597 î.Hr. împreună cu Ezechiel și cu o parte a elitei Iudeii."
       }
      ],
      "textCompare": [
@@ -58091,14 +58130,27 @@
      "translit": "Haio haia devar-ADONAI el-Iehezkel ben-Buzi hakohen beeret Kasdim al-nehar-Kevar vatehi alav șam iad-ADONAI.",
      "tokens": [
       {
-       "t": "Cuvântul DOMNULUI",
-       "w": "Cuvântul DOMNULUI",
-       "heb": "דְבַר יְהוָה",
-       "translit": "devar Adonai",
+       "t": "Cuvântul",
+       "w": "Cuvântul",
+       "heb": "דְבַר",
+       "translit": "devar",
+       "strong": "H1697",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "cuvântul (devar)",
+       "dict_ro": "Formula «cuvântul DOMNULUI a venit» marchează solemn începutul misiunii profetice a lui Ezechiel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "cuvântul DOMNULUI (devar Adonai)",
-       "dict_ro": "Subiectul revelației care venise deja mai înainte la profet, confirmat prin dubla rostire a verbului."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula «cuvântul DOMNULUI a venit» marchează solemn începutul misiunii profetice a lui Ezechiel."
       },
       {
        "t": " "
@@ -58169,14 +58221,27 @@
        "t": " "
       },
       {
-       "t": "în ținutul caldeenilor,",
-       "w": "în ținutul caldeenilor,",
-       "heb": "בְּאֶרֶץ כַּשְׂדִּים",
-       "translit": "beereț kasdim",
+       "t": "în ținutul",
+       "w": "în ținutul",
+       "heb": "בְּאֶרֶץ",
+       "translit": "beereț",
+       "strong": "H776",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "în țara (beereț)",
+       "dict_ro": "Ținutul caldeenilor, Babilonia, e locul exact al exilului, confirmat explicit aici de Ezechiel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "caldeenilor,",
+       "w": "caldeenilor,",
+       "heb": "כַּשְׂדִּים",
+       "translit": "kasdim",
        "strong": "H3778",
-       "pos": "substantiv, masculin și feminin singular construct + nume propriu",
-       "def_ro": "în ținutul caldeenilor, (beereț kasdim)",
-       "dict_ro": "Țara caldeenilor desemnează Babilonia, locul exilului profetului."
+       "pos": "nume propriu",
+       "def_ro": "caldeenilor, (kasdim)",
+       "dict_ro": "Caldeenii, poporul stăpânitor al Babilonului, i-au dus în exil pe iudei după cucerirea Ierusalimului."
       },
       {
        "t": " "
@@ -58195,27 +58260,53 @@
        "t": " "
       },
       {
-       "t": "râul Kevar;",
-       "w": "râul Kevar;",
-       "heb": "נְהַר כְּבָר",
-       "translit": "nehar kevar",
+       "t": "râul",
+       "w": "râul",
+       "heb": "נְהַר",
+       "translit": "nehar",
+       "strong": "H5104",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "râul (nehar)",
+       "dict_ro": "A doua mențiune a râului Kevar confirmă locul exact și repetat al primirii acestei viziuni inaugurale."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Kevar;",
+       "w": "Kevar;",
+       "heb": "כְּבָר",
+       "translit": "kevar",
        "strong": "H3529",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "râul Kevar; (nehar kevar)",
-       "dict_ro": "Repetarea reperului geografic al râului Kevar confirmă locul exact al revelației."
+       "pos": "nume propriu",
+       "def_ro": "Kevar; (kevar)",
+       "dict_ro": "A doua mențiune a râului Kevar confirmă locul exact și repetat al primirii acestei viziuni inaugurale."
       },
       {
        "t": " și "
       },
       {
-       "t": "mâna DOMNULUI",
-       "w": "mâna DOMNULUI",
-       "heb": "יַד יְהוָה",
-       "translit": "iad Adonai",
+       "t": "mâna",
+       "w": "mâna",
+       "heb": "יַד",
+       "translit": "iad",
+       "strong": "H3027",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "mâna (iad)",
+       "dict_ro": "Expresia «mâna DOMNULUI a fost asupra lui» descrie starea de inspirație profetică, puterea divină venind direct asupra lui Ezechiel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin și feminin singular construct + nume propriu",
-       "def_ro": "mâna DOMNULUI (iad Adonai)",
-       "dict_ro": "Rashi explică faptul că expresia «mâna DOMNULUI», oriunde apare în limbajul profetic, denotă o forță constrângătoare — profeția apasă asupra profetului fără voia lui."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Expresia «mâna DOMNULUI a fost asupra lui» descrie starea de inspirație profetică, puterea divină venind direct asupra lui Ezechiel."
       },
       {
        "t": " "
@@ -58295,14 +58386,27 @@
      "translit": "Vaere vehine ruah seara baa min-hatzafon anan gadol veeș mitlakaḥat venoga lo saviv umitoha keein hahașmal mitoh haeș.",
      "tokens": [
       {
-       "t": "Am privit și iată:",
-       "w": "Am privit și iată:",
-       "heb": "וָאֵרֶא וְהִנֵּה",
-       "translit": "vaēre vehinē",
-       "strong": "H2009",
-       "pos": "verb, qal imperfect consecutiv + particulă demonstrativă",
-       "def_ro": "și am privit și iată: (vaēre vehinē)",
+       "t": "Am privit",
+       "w": "Am privit",
+       "heb": "וָאֵרֶא",
+       "translit": "vaēre",
+       "strong": "H7200",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și am privit (vaēre)",
        "dict_ro": "Formula introductivă clasică a viziunilor profetice, marcând trecerea la descrierea directă a ceea ce a văzut Ezechiel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și iată:",
+       "w": "și iată:",
+       "heb": "וְהִנֵּה",
+       "translit": "vehinē",
+       "strong": "H2009",
+       "pos": "particulă demonstrativă",
+       "def_ro": "și iată: (vehinē)",
+       "dict_ro": "Particula «iată» semnalează, de fiecare dată când apare în viziune, un moment de surpriză vizuală bruscă în fața profetului."
       },
       {
        "t": " "
@@ -60959,14 +61063,27 @@
        "t": " "
       },
       {
-       "t": "ca sunetul Atotputernicului",
-       "w": "ca sunetul Atotputernicului",
-       "heb": "כְּקוֹל שַׁדַּי",
-       "translit": "kekol șadai",
+       "t": "ca sunetul",
+       "w": "ca sunetul",
+       "heb": "כְּקוֹל",
+       "translit": "kekol",
+       "strong": "H6963",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "ca sunetul (kekol)",
+       "dict_ro": "Comparația cu sunetul lui Șadai, numele divin al atotputerniciei, intensifică maiestatea zgomotului aripilor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Atotputernicului",
+       "w": "Atotputernicului",
+       "heb": "שַׁדַּי",
+       "translit": "șadai",
        "strong": "H7706",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "ca sunetul Atotputernicului (kekol șadai)",
-       "dict_ro": "Rashi leagă această comparație de Psalmul 29: «Glasul DOMNULUI cu putere, glasul DOMNULUI frânge cedrii»."
+       "pos": "nume propriu",
+       "def_ro": "Șadai. (șadai)",
+       "dict_ro": "Șadai, nume divin tradus «Atotputernicul», evocă aici puterea absolută a lui Dumnezeu, de la Patriarhi până la viziunea lui Ezechiel."
       },
       {
        "t": " "
@@ -61703,14 +61820,27 @@
        "t": " "
       },
       {
-       "t": "slavei DOMNULUI!",
-       "w": "slavei DOMNULUI!",
-       "heb": "כְּבוֹד יְהוָה",
-       "translit": "kevod Adonai",
+       "t": "slavei",
+       "w": "slavei",
+       "heb": "כְּבוֹד",
+       "translit": "kevod",
+       "strong": "H3519",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "slava (kevod)",
+       "dict_ro": "Formula finală, «slava DOMNULUI», rezumă întreaga viziune a carului ca pe o manifestare directă a prezenței divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI!",
+       "w": "DOMNULUI!",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin și feminin singular construct + nume propriu",
-       "def_ro": "slavei DOMNULUI! (kevod Adonai)",
-       "dict_ro": "Radak explică faptul că tot ce a fost descris este, în realitate, o manifestare a slavei DOMNULUI — nu o vedere directă a lui Dumnezeu Însuși."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI! (Adonai)",
+       "dict_ro": "Formula finală, «slava DOMNULUI», rezumă întreaga viziune a carului ca pe o manifestare directă a prezenței divine."
       },
       {
        "t": " "
