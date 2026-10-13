@@ -37367,7 +37367,7 @@
        "strong": "H3091",
        "pos": "nume propriu",
        "def_ro": "Ioșua (iehoșua)",
-       "dict_ro": "Succesorul lui Moise, care primește prima poruncă publică adresată poporului."
+       "dict_ro": "Ioșua pregătește poporul pentru minunea traversării Iordanului, un nou «Iordan despicat» după modelul Mării Roșii."
       },
       {
        "t": " "
@@ -37379,8 +37379,8 @@
        "translit": "vaiomer",
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "a spus (vaiomer)",
-       "dict_ro": "Rashi: această poruncă vine în a treia zi de la moartea lui Moise, după cele treizeci de zile de doliu — Ioșua pregătește poporul pentru traversarea Iordanului."
+       "def_ro": "și a spus (vaiomer)",
+       "dict_ro": "Ioșua pregătește poporul pentru minunea traversării Iordanului."
       },
       {
        "t": " "
@@ -37393,7 +37393,7 @@
        "strong": "H5971",
        "pos": "substantiv, masculin singular",
        "def_ro": "poporului: (haam)",
-       "dict_ro": "Destinatarul colectiv al poruncii de pregătire."
+       "dict_ro": "Ioșua pregătește poporul pentru minunea traversării Iordanului."
       },
       {
        "t": " "
@@ -37405,34 +37405,21 @@
        "translit": "hitkadașu",
        "strong": "H6942",
        "pos": "verb, hitpael imperativ",
-       "def_ro": "„sfințiți-vă, (hitkadașu)",
-       "dict_ro": "Rashi: «pregătiți-vă» — purificare rituală pentru a fi gata de minunea iminentă."
+       "def_ro": "sfințiți-vă, (hitkadașu)",
+       "dict_ro": "Sfințirea rituală pregătește poporul pentru manifestarea directă a puterii divine."
       },
       {
        "t": " "
       },
       {
-       "t": "căci",
-       "w": "căci",
-       "heb": "כִּי",
-       "translit": "ki",
-       "strong": "H3588",
-       "pos": "conjuncție",
-       "def_ro": "căci (ki)",
-       "dict_ro": "Introduce motivul exact al cererii de sfințire."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "mâine",
-       "w": "mâine",
-       "heb": "מָחָר",
-       "translit": "mahar",
+       "t": "căci mâine",
+       "w": "căci mâine",
+       "heb": "כִּי מָחָר",
+       "translit": "ki mahar",
        "strong": "H4279",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "mâine (mahar)",
-       "dict_ro": "Reperul temporal exact al minunii anunțate."
+       "pos": "conjuncție + substantiv, masculin singular",
+       "def_ro": "căci mâine (ki mahar)",
+       "dict_ro": "Precizarea temporală — ziua următoare — amplifică anticiparea minunii promise."
       },
       {
        "t": " "
@@ -37445,33 +37432,20 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL (Adonai)",
-       "dict_ro": "Autorul minunii anunțate, confirmat direct de Ioșua."
+       "dict_ro": "Precizarea temporală — ziua următoare — amplifică anticiparea minunii promise de DOMNUL."
       },
       {
        "t": " "
       },
       {
-       "t": "va face",
-       "w": "va face",
-       "heb": "יַעֲשֶׂה",
-       "translit": "iaase",
-       "strong": "H6213",
-       "pos": "verb, qal imperfect",
-       "def_ro": "va face (iaase)",
-       "dict_ro": "Verbul central al promisiunii minunii iminente."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "minuni",
-       "w": "minuni",
-       "heb": "נִפְלָאוֹת",
-       "translit": "niflaot",
+       "t": "va face minuni",
+       "w": "va face minuni",
+       "heb": "יַעֲשֶׂה נִפְלָאוֹת",
+       "translit": "iaase niflaot",
        "strong": "H6381",
-       "pos": "verb, nifal participiu",
-       "def_ro": "minuni (niflaot)",
-       "dict_ro": "Radak: minunea anunțată e despărțirea apelor Iordanului — Ioșua știa deja acest detaliu de la porunca divină primită în ziua a treizecea a doliului, de a traversa în trei zile."
+       "pos": "verb, qal imperfect + verb, nifal participiu",
+       "def_ro": "va face minuni (iaase niflaot)",
+       "dict_ro": "Precizarea temporală — ziua următoare — amplifică anticiparea minunii promise de DOMNUL."
       },
       {
        "t": " "
@@ -37483,8 +37457,8 @@
        "translit": "bekirbehem",
        "strong": "H7130",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "în mijlocul vostru.” (bekirbehem)",
-       "dict_ro": "Confirmă caracterul public, vizibil pentru tot poporul, al minunii promise."
+       "def_ro": "în mijlocul vostru. (bekirbehem)",
+       "dict_ro": "Precizarea temporală — ziua următoare — amplifică anticiparea minunii promise de DOMNUL."
       }
      ],
      "textCompare": [
@@ -37515,17 +37489,14 @@
      "translit": "Vaiomer Iehoșua el-hakohanim lemor seu et-aron haberit veivru lifnei haam vaișeu et-aron haberit vaielhu lifnei haam.",
      "tokens": [
       {
-       "t": "Și "
-      },
-      {
-       "t": "Ioșua",
-       "w": "Ioșua",
+       "t": "Și Ioșua",
+       "w": "Și Ioșua",
        "heb": "יְהוֹשֻׁעַ",
        "translit": "iehoșua",
        "strong": "H3091",
        "pos": "nume propriu",
        "def_ro": "Ioșua (iehoșua)",
-       "dict_ro": "Subiectul celei de-a doua porunci, adresate acum specific preoților."
+       "dict_ro": "Chivotul Legământului conduce procesiunea, confirmare vizibilă a prezenței divine în fruntea poporului."
       },
       {
        "t": " "
@@ -37538,7 +37509,7 @@
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a spus (vaiomer)",
-       "dict_ro": "Rashi: comanda vine în ziua următoare anunțului general — acum rolul specific al preoților devine clar."
+       "dict_ro": "Chivotul Legământului conduce procesiunea, confirmare vizibilă a prezenței divine în fruntea poporului."
       },
       {
        "t": " "
@@ -37551,7 +37522,7 @@
        "strong": "H3548",
        "pos": "substantiv, masculin plural",
        "def_ro": "preoților: (hakohanim)",
-       "dict_ro": "Destinatarii specifici ai poruncii, distincți de restul poporului."
+       "dict_ro": "Doar preoții au dreptul ritual de a purta Chivotul, simbol central al prezenței divine."
       },
       {
        "t": " "
@@ -37563,21 +37534,34 @@
        "translit": "seu",
        "strong": "H5375",
        "pos": "verb, qal imperativ",
-       "def_ro": "„purtați (seu)",
-       "dict_ro": "Porunca imperativă adresată preoților."
+       "def_ro": "purtați (seu)",
+       "dict_ro": "Doar preoții au dreptul ritual de a purta Chivotul, simbol central al prezenței divine."
       },
       {
        "t": " "
       },
       {
-       "t": "Chivotul Legământului",
-       "w": "Chivotul Legământului",
-       "heb": "אֲרוֹן הַבְּרִית",
-       "translit": "aron habrit",
+       "t": "Chivotul",
+       "w": "Chivotul",
+       "heb": "אֲרוֹן",
+       "translit": "aron",
+       "strong": "H727",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "chivotul (aron)",
+       "dict_ro": "Chivotul Legământului, locul tablelor Legii, devine centrul vizibil al minunii traversării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Legământului",
+       "w": "Legământului",
+       "heb": "הַבְּרִית",
+       "translit": "habrit",
        "strong": "H1285",
-       "pos": "substantiv, masculin și feminin singular construct + substantiv, feminin singular",
-       "def_ro": "Chivotul Legământului (aron habrit)",
-       "dict_ro": "Rashi: până atunci, Chivotul fusese purtat de leviți (familia Kehat); acum, pentru traversarea solemnă a Iordanului, sarcina trece special la preoți."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "legământului, (habrit)",
+       "dict_ro": "Chivotul Legământului, locul tablelor Legii, devine centrul vizibil al minunii traversării."
       },
       {
        "t": " "
@@ -37590,20 +37574,33 @@
        "strong": "H5674",
        "pos": "verb, qal imperativ",
        "def_ro": "și treceți (veivru)",
-       "dict_ro": "Al doilea verb al poruncii, trecerea înainte."
+       "dict_ro": "Chivotul precede poporul în trecere, semn al conducerii divine directe a traversării."
       },
       {
        "t": " "
       },
       {
-       "t": "în fruntea poporului.”",
-       "w": "în fruntea poporului.”",
-       "heb": "לִפְנֵי הָעָם",
-       "translit": "lifnē haam",
+       "t": "în fruntea",
+       "w": "în fruntea",
+       "heb": "לִפְנֵי",
+       "translit": "lifnē",
+       "strong": "H6440",
+       "pos": "substantiv, masculin și feminin plural construct",
+       "def_ro": "înaintea (lifnē)",
+       "dict_ro": "Chivotul precede poporul în trecere, semn al conducerii divine directe a traversării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "poporului.”",
+       "w": "poporului.”",
+       "heb": "הָעָם",
+       "translit": "haam",
        "strong": "H5971",
-       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular",
-       "def_ro": "în fruntea poporului.” (lifnē haam)",
-       "dict_ro": "Poziția de frunte a preoților, purtând Chivotul, confirmă rolul central al prezenței divine în deschiderea drumului."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "poporului. (haam)",
+       "dict_ro": "Chivotul precede poporul în trecere, semn al conducerii divine directe a traversării."
       },
       {
        "t": " "
@@ -37616,20 +37613,33 @@
        "strong": "H5375",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și au purtat (vaisu)",
-       "dict_ro": "Confirmarea executării imediate a poruncii, fără ezitare."
+       "dict_ro": "Execuția imediată a poruncii confirmă ascultarea promptă a preoților."
       },
       {
        "t": " "
       },
       {
-       "t": "Chivotul Legământului",
-       "w": "Chivotul Legământului",
-       "heb": "אֲרוֹן הַבְּרִית",
-       "translit": "aron habrit",
+       "t": "Chivotul",
+       "w": "Chivotul",
+       "heb": "אֲרוֹן",
+       "translit": "aron",
+       "strong": "H727",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "chivotul (aron)",
+       "dict_ro": "Execuția imediată a poruncii confirmă ascultarea promptă a preoților."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Legământului",
+       "w": "Legământului",
+       "heb": "הַבְּרִית",
+       "translit": "habrit",
        "strong": "H1285",
-       "pos": "substantiv, masculin și feminin singular construct + substantiv, feminin singular",
-       "def_ro": "Chivotul Legământului (aron habrit)",
-       "dict_ro": "Reluarea confirmării exacte a obiectului purtat de preoți."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "legământului (habrit)",
+       "dict_ro": "Execuția imediată a poruncii confirmă ascultarea promptă a preoților."
       },
       {
        "t": " "
@@ -37642,20 +37652,33 @@
        "strong": "H3212",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și au mers (vaiēlhu)",
-       "dict_ro": "Verbul confirmă executarea exactă a celei de-a doua porunci."
+       "dict_ro": "Execuția imediată a poruncii confirmă ascultarea promptă a preoților."
       },
       {
        "t": " "
       },
       {
-       "t": "în fruntea poporului.",
-       "w": "în fruntea poporului.",
-       "heb": "לִפְנֵי הָעָם",
-       "translit": "lifnē haam",
+       "t": "în fruntea",
+       "w": "în fruntea",
+       "heb": "לִפְנֵי",
+       "translit": "lifnē",
+       "strong": "H6440",
+       "pos": "substantiv, masculin și feminin plural construct",
+       "def_ro": "înaintea (lifnē)",
+       "dict_ro": "Execuția imediată a poruncii confirmă ascultarea promptă a preoților."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "poporului.",
+       "w": "poporului.",
+       "heb": "הָעָם",
+       "translit": "haam",
        "strong": "H5971",
-       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular",
-       "def_ro": "în fruntea poporului. (lifnē haam)",
-       "dict_ro": "Încheie versetul cu confirmarea vizuală a ordinii procesiunii — Chivotul înaintea întregului popor."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "poporului. (haam)",
+       "dict_ro": "Execuția imediată a poruncii confirmă ascultarea promptă a preoților."
       }
      ],
      "textCompare": [
@@ -37685,17 +37708,14 @@
      "translit": "Vaiomer ADONAI el-Iehoșua haiom haze ahel gadelha beeinéi kol-Israel așer iedeun ki kaașer haiti im-Moșe ehie imah.",
      "tokens": [
       {
-       "t": "Iar "
-      },
-      {
-       "t": "DOMNUL",
-       "w": "DOMNUL",
+       "t": "Iar DOMNUL",
+       "w": "Iar DOMNUL",
        "heb": "יְהוָה",
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL (Adonai)",
-       "dict_ro": "Autorul direct al confirmării adresate lui Ioșua."
+       "dict_ro": "DOMNUL promite lui Ioșua confirmarea publică a autorității sale, exact cum a confirmat-o pe cea a lui Moise."
       },
       {
        "t": " "
@@ -37707,8 +37727,8 @@
        "translit": "vaiomer",
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "a spus (vaiomer)",
-       "dict_ro": "Confirmarea divină explicită a planului de traversare miraculoasă, cu scop pedagogic clar pentru popor."
+       "def_ro": "și a spus (vaiomer)",
+       "dict_ro": "DOMNUL promite lui Ioșua confirmarea publică a autorității sale."
       },
       {
        "t": " "
@@ -37716,12 +37736,12 @@
       {
        "t": "lui Ioșua:",
        "w": "lui Ioșua:",
-       "heb": "יְהוֹשֻׁעַ",
-       "translit": "iehoșua",
+       "heb": "אֶל יְהוֹשֻׁעַ",
+       "translit": "el iehoșua",
        "strong": "H3091",
-       "pos": "nume propriu",
-       "def_ro": "lui Ioșua: (iehoșua)",
-       "dict_ro": "Destinatarul direct al confirmării divine."
+       "pos": "prepoziție + nume propriu",
+       "def_ro": "lui Ioșua: (el iehoșua)",
+       "dict_ro": "DOMNUL promite lui Ioșua confirmarea publică a autorității sale."
       },
       {
        "t": " "
@@ -37733,34 +37753,73 @@
        "translit": "haiom haze",
        "strong": "H2088",
        "pos": "substantiv, masculin singular + pronume demonstrativ",
-       "def_ro": "„în ziua aceasta (haiom haze)",
-       "dict_ro": "Reperul temporal exact al inaugurării autorității lui Ioșua."
+       "def_ro": "în ziua aceasta (haiom haze)",
+       "dict_ro": "Minunea traversării devine, în aceeași zi, dovada publică a măreției lui Ioșua."
       },
       {
        "t": " "
       },
       {
-       "t": "voi inaugura măreția ta",
-       "w": "voi inaugura măreția ta",
-       "heb": "אָחֵל גַּדֶּלְךָ",
-       "translit": "ahēl gadelha",
+       "t": "voi inaugura",
+       "w": "voi inaugura",
+       "heb": "אָחֵל",
+       "translit": "ahēl",
+       "strong": "H2490",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "voi începe (ahēl)",
+       "dict_ro": "Minunea traversării devine, în aceeași zi, dovada publică a măreției lui Ioșua."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "măreția ta",
+       "w": "măreția ta",
+       "heb": "גַּדֶּלְךָ",
+       "translit": "gadelha",
        "strong": "H1431",
-       "pos": "verb, hifil imperfect + verb, piel infinitiv + sufix",
-       "def_ro": "voi începe mărimea ta (ahēl gadelha)",
-       "dict_ro": "Scopul minunii nu e doar practic — traversarea râului — ci și stabilirea autorității lui Ioșua ca succesor legitim al lui Moise."
+       "pos": "verb, piel infinitiv + sufix",
+       "def_ro": "a te mări (gadelha)",
+       "dict_ro": "Minunea traversării devine, în aceeași zi, dovada publică a măreției lui Ioșua."
       },
       {
        "t": " "
       },
       {
-       "t": "în ochii întregului Israel,",
-       "w": "în ochii întregului Israel,",
-       "heb": "בְּעֵינֵי כָּל יִשְׂרָאֵל",
-       "translit": "beēnē kal israēl",
+       "t": "în ochii",
+       "w": "în ochii",
+       "heb": "בְּעֵינֵי",
+       "translit": "beēnē",
+       "strong": "H5869",
+       "pos": "substantiv, masculin și feminin dual construct",
+       "def_ro": "în ochii (beēnē)",
+       "dict_ro": "Întregul Israel va fi martor direct al minunii, confirmare publică a legitimității lui Ioșua."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "întregului",
+       "w": "întregului",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tot (kal)",
+       "dict_ro": "Întregul Israel va fi martor direct al minunii, confirmare publică a legitimității lui Ioșua."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel,",
+       "w": "Israel,",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "substantiv, masculin și feminin dual construct + substantiv, masculin singular construct + nume propriu",
-       "def_ro": "în ochii întregului Israel, (beēnē kal israēl)",
-       "dict_ro": "Confirmarea publică, vizibilă pentru toată națiunea, nu doar o afirmație privată."
+       "pos": "nume propriu",
+       "def_ro": "Israel, (israēl)",
+       "dict_ro": "Întregul Israel va fi martor direct al minunii, confirmare publică a legitimității lui Ioșua."
       },
       {
        "t": " "
@@ -37772,34 +37831,21 @@
        "translit": "așer iēdun",
        "strong": "H3045",
        "pos": "particulă relativă + verb, qal imperfect",
-       "def_ro": "ca să știe (așer iēdun)",
-       "dict_ro": "Scopul pedagogic explicit — poporul trebuie să recunoască continuitatea autorității divine prin Ioșua."
+       "def_ro": "care vor cunoaște (așer iēdun)",
+       "dict_ro": "Scopul explicit al minunii: cunoașterea certă, de către tot poporul, a continuității autorității divine."
       },
       {
        "t": " "
       },
       {
-       "t": "că",
-       "w": "că",
-       "heb": "כִּי",
-       "translit": "ki",
-       "strong": "H3588",
-       "pos": "conjuncție",
-       "def_ro": "că (ki)",
-       "dict_ro": "Introduce paralela directă cu autoritatea lui Moise."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "așa cum",
-       "w": "așa cum",
-       "heb": "כַּאֲשֶׁר",
-       "translit": "kaașer",
+       "t": "că așa cum",
+       "w": "că așa cum",
+       "heb": "כִּי כַּאֲשֶׁר",
+       "translit": "ki kaașer",
        "strong": "H834",
-       "pos": "particulă relativă",
-       "def_ro": "așa cum (kaașer)",
-       "dict_ro": "Particula de comparație stabilește paralela de autoritate."
+       "pos": "conjuncție + particulă relativă",
+       "def_ro": "că precum (ki kaașer)",
+       "dict_ro": "Scopul explicit al minunii: cunoașterea certă, de către tot poporul, a continuității autorității divine."
       },
       {
        "t": " "
@@ -37812,7 +37858,7 @@
        "strong": "H1961",
        "pos": "verb, qal perfect",
        "def_ro": "am fost (haiti)",
-       "dict_ro": "Verbul prezenței divine anterioare, cu Moise."
+       "dict_ro": "Scopul explicit al minunii: cunoașterea certă, de către tot poporul, a continuității autorității divine."
       },
       {
        "t": " "
@@ -37825,20 +37871,20 @@
        "strong": "H4872",
        "pos": "prepoziție + nume propriu",
        "def_ro": "cu Moise, (im moșe)",
-       "dict_ro": "Radak: la fel cum Dumnezeu a despicat Marea Roșie pentru Moise, va despica și Iordanul pentru Ioșua — paralela directă stabilește legitimitatea succesiunii."
+       "dict_ro": "Comparația directă cu Moise confirmă succesiunea legitimă a conducerii lui Ioșua."
       },
       {
-       "t": " tot așa "
+       "t": " "
       },
       {
-       "t": "voi fi",
-       "w": "voi fi",
+       "t": "tot așa voi fi",
+       "w": "tot așa voi fi",
        "heb": "אֶהְיֶה",
        "translit": "ehie",
        "strong": "H1961",
        "pos": "verb, qal imperfect",
        "def_ro": "voi fi (ehie)",
-       "dict_ro": "Verbul promisiunii finale, prezența divină continuă."
+       "dict_ro": "Comparația directă cu Moise confirmă succesiunea legitimă a conducerii lui Ioșua."
       },
       {
        "t": " "
@@ -37850,8 +37896,8 @@
        "translit": "imah",
        "strong": "H5973",
        "pos": "prepoziție + sufix",
-       "def_ro": "și cu tine.” (imah)",
-       "dict_ro": "Promisiunea finală de continuitate a prezenței divine, fundamentul autorității lui Ioșua ca lider."
+       "def_ro": "cu tine. (imah)",
+       "dict_ro": "Comparația directă cu Moise confirmă succesiunea legitimă a conducerii lui Ioșua."
       }
      ],
      "textCompare": [
@@ -37882,14 +37928,27 @@
      "translit": "Baet hahi amar ADONAI el-Iehoșua ase leha harvot țurim veșuv mol et-benei-Israel șenit.",
      "tokens": [
       {
-       "t": "La vremea aceea,",
-       "w": "La vremea aceea,",
-       "heb": "בָּעֵת הַהִיא",
-       "translit": "baēt hahi",
+       "t": "La vremea",
+       "w": "La vremea",
+       "heb": "בָּעֵת",
+       "translit": "baēt",
+       "strong": "H6256",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "în vremea (baēt)",
+       "dict_ro": "Circumcizia generației născute în pustie precede imediat sărbătorirea Paștelui, restaurare dublă a legământului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "aceea,",
+       "w": "aceea,",
+       "heb": "הַהִיא",
+       "translit": "hahi",
        "strong": "H1931",
-       "pos": "substantiv, masculin și feminin singular + pronume personal",
-       "def_ro": "la vremea aceea, (baēt hahi)",
-       "dict_ro": "Porunca vine imediat după traversarea miraculoasă a Iordanului, înainte de a începe cucerirea propriu-zisă a țării."
+       "pos": "pronume personal",
+       "def_ro": "aceea, (hahi)",
+       "dict_ro": "Circumcizia generației născute în pustie precede imediat sărbătorirea Paștelui."
       },
       {
        "t": " "
@@ -37902,7 +37961,7 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL (Adonai)",
-       "dict_ro": "Autorul direct al poruncii de circumcizie colectivă."
+       "dict_ro": "Circumcizia generației născute în pustie precede imediat sărbătorirea Paștelui, restaurare dublă a legământului."
       },
       {
        "t": " "
@@ -37915,7 +37974,7 @@
        "strong": "H559",
        "pos": "verb, qal perfect",
        "def_ro": "a spus (amar)",
-       "dict_ro": "Verbul poruncii divine adresate direct lui Ioșua."
+       "dict_ro": "Circumcizia generației născute în pustie precede imediat sărbătorirea Paștelui."
       },
       {
        "t": " "
@@ -37923,12 +37982,12 @@
       {
        "t": "lui Ioșua:",
        "w": "lui Ioșua:",
-       "heb": "יְהוֹשֻׁעַ",
-       "translit": "iehoșua",
+       "heb": "אֶל יְהוֹשֻׁעַ",
+       "translit": "el iehoșua",
        "strong": "H3091",
-       "pos": "nume propriu",
-       "def_ro": "lui Ioșua: (iehoșua)",
-       "dict_ro": "Destinatarul direct al poruncii de circumcizie."
+       "pos": "prepoziție + nume propriu",
+       "def_ro": "lui Ioșua: (el iehoșua)",
+       "dict_ro": "Circumcizia generației născute în pustie precede imediat sărbătorirea Paștelui."
       },
       {
        "t": " "
@@ -37936,25 +37995,38 @@
       {
        "t": "„Fă-ți",
        "w": "„Fă-ți",
-       "heb": "עֲשֵׂה",
-       "translit": "asē",
-       "strong": "H6213",
-       "pos": "verb, qal imperativ",
-       "def_ro": "„fă-ți (asē)",
-       "dict_ro": "Porunca imperativă care deschide instrucțiunile de circumcizie."
+       "heb": "עֲשֵׂה לְךָ",
+       "translit": "asē leha",
+       "strong": "",
+       "pos": "verb, qal imperativ + prepoziție + sufix",
+       "def_ro": "fă-ți (asē leha)",
+       "dict_ro": "Cuțitele de piatră, nu de metal, confirmă caracterul arhaic, ritual, al poruncii."
       },
       {
        "t": " "
       },
       {
-       "t": "niște cuțite ascuțite",
-       "w": "niște cuțite ascuțite",
-       "heb": "חַרְבוֹת צֻרִים",
-       "translit": "harvot țurim",
+       "t": "niște cuțite",
+       "w": "niște cuțite",
+       "heb": "חַרְבוֹת",
+       "translit": "harvot",
+       "strong": "H2719",
+       "pos": "substantiv, feminin plural construct",
+       "def_ro": "cuțite de (harvot)",
+       "dict_ro": "Cuțitele de piatră, nu de metal, confirmă caracterul arhaic, ritual, al poruncii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ascuțite",
+       "w": "ascuțite",
+       "heb": "צֻרִים",
+       "translit": "țurim",
        "strong": "H6697",
-       "pos": "substantiv, feminin plural construct + substantiv, masculin plural",
-       "def_ro": "cuțite de piatră (harvot țurim)",
-       "dict_ro": "Rashi: termenul «harvot țurim» descrie bisturie din piatră ascuțită, folosite tradițional pentru circumcizie."
+       "pos": "substantiv, masculin plural",
+       "def_ro": "stânci (țurim)",
+       "dict_ro": "Cuțitele de piatră, nu de metal, confirmă caracterul arhaic, ritual, al poruncii."
       },
       {
        "t": " "
@@ -37967,33 +38039,46 @@
        "strong": "H7725",
        "pos": "verb, qal imperativ",
        "def_ro": "și întoarce-te (veșuv)",
-       "dict_ro": "Radak: verbul «veșuv» (întoarce-te/din nou) sugerează o acțiune repetată, continuă, nu un singur act — circumcizia s-a făcut treptat, pe parcursul mai multor zile."
+       "dict_ro": "Porunca repetă verbul circumciziei, confirmare a necesității de a reface ritualul pentru noua generație."
       },
       {
        "t": " "
       },
       {
-       "t": "și circumcide-i",
-       "w": "și circumcide-i",
+       "t": "și circumcide-i pe",
+       "w": "și circumcide-i pe",
        "heb": "מֹל",
        "translit": "mol",
        "strong": "H4135",
        "pos": "verb, qal imperativ",
-       "def_ro": "circumcide (mol)",
-       "dict_ro": "Verbul central al poruncii, actul ritual propriu-zis."
+       "def_ro": "și circumcide (mol)",
+       "dict_ro": "Porunca repetă verbul circumciziei, confirmare a necesității de a reface ritualul pentru noua generație."
       },
       {
        "t": " "
       },
       {
-       "t": "pe copiii lui Israel",
-       "w": "pe copiii lui Israel",
-       "heb": "בְּנֵי יִשְׂרָאֵל",
-       "translit": "benē israēl",
+       "t": "copiii",
+       "w": "copiii",
+       "heb": "בְּנֵי",
+       "translit": "benē",
+       "strong": "H1121",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "copiii (benē)",
+       "dict_ro": "Noua generație, născută în pustie, nu fusese circumcisă, decalaj restaurat abia acum."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui Israel",
+       "w": "lui Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "substantiv, masculin plural construct + nume propriu",
-       "def_ro": "pe copiii lui Israel (benē israēl)",
-       "dict_ro": "Destinatarii colectivi ai poruncii de circumcizie."
+       "pos": "nume propriu",
+       "def_ro": "lui Israel (israēl)",
+       "dict_ro": "Noua generație, născută în pustie, nu fusese circumcisă, decalaj restaurat abia acum."
       },
       {
        "t": " "
@@ -38006,7 +38091,7 @@
        "strong": "H8145",
        "pos": "numeral ordinal",
        "def_ro": "a doua oară.” (șēnit)",
-       "dict_ro": "Rashi: generația care ieșise din Egipt fusese deja circumcisă în noaptea Exodului; aceasta e «a doua» circumcizie colectivă majoră, a noii generații născute în pustie."
+       "dict_ro": "«A doua oară» se referă la restaurarea ritualului pentru întreg poporul, nu la o repetare individuală."
       }
      ],
      "textCompare": [
@@ -38041,17 +38126,14 @@
      "translit": "Vaiaas-lo Iehoșua harvot țurim vaiamal et-benei Israel el-ghivat haaralot.",
      "tokens": [
       {
-       "t": "Și "
-      },
-      {
-       "t": "Ioșua",
-       "w": "Ioșua",
+       "t": "Și Ioșua",
+       "w": "Și Ioșua",
        "heb": "יְהוֹשֻׁעַ",
        "translit": "iehoșua",
        "strong": "H3091",
        "pos": "nume propriu",
        "def_ro": "Ioșua (iehoșua)",
-       "dict_ro": "Subiectul execuției directe a poruncii de circumcizie."
+       "dict_ro": "Execuția imediată a poruncii confirmă ascultarea promptă a lui Ioșua."
       },
       {
        "t": " "
@@ -38059,64 +38141,103 @@
       {
        "t": "și-a făcut",
        "w": "și-a făcut",
-       "heb": "וַיַּעַשׂ",
-       "translit": "vaiaas",
-       "strong": "H6213",
-       "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și-a făcut (vaiaas)",
-       "dict_ro": "Confirmă execuția directă a poruncii divine, fără întârziere."
+       "heb": "וַיַּעַשׂ לוֹ",
+       "translit": "vaiaas lo",
+       "strong": "",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
+       "def_ro": "și a făcut pentru el (vaiaas lo)",
+       "dict_ro": "Execuția imediată a poruncii confirmă ascultarea promptă a lui Ioșua."
       },
       {
        "t": " "
       },
       {
-       "t": "niște cuțite ascuțite",
-       "w": "niște cuțite ascuțite",
-       "heb": "חַרְבוֹת צֻרִים",
-       "translit": "harvot țurim",
+       "t": "niște cuțite",
+       "w": "niște cuțite",
+       "heb": "חַרְבוֹת",
+       "translit": "harvot",
+       "strong": "H2719",
+       "pos": "substantiv, feminin plural construct",
+       "def_ro": "cuțite de (harvot)",
+       "dict_ro": "Cuțitele de piatră confirmă, din nou, caracterul arhaic al ritualului restaurat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ascuțite",
+       "w": "ascuțite",
+       "heb": "צֻרִים",
+       "translit": "țurim",
        "strong": "H6697",
-       "pos": "substantiv, feminin plural construct + substantiv, masculin plural",
-       "def_ro": "cuțite de piatră (harvot țurim)",
-       "dict_ro": "Reluarea exactă a instrumentului prescris, cuțitele de piatră."
+       "pos": "substantiv, masculin plural",
+       "def_ro": "stânci (țurim)",
+       "dict_ro": "Cuțitele de piatră confirmă, din nou, caracterul arhaic al ritualului restaurat."
       },
       {
        "t": " "
       },
       {
-       "t": "și i-a circumcis",
-       "w": "și i-a circumcis",
+       "t": "și i-a circumcis pe",
+       "w": "și i-a circumcis pe",
        "heb": "וַיָּמָל",
        "translit": "vaiamal",
        "strong": "H4135",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a circumcis (vaiamal)",
-       "dict_ro": "Radak notează imposibilitatea logistică a unui singur om care circumcide personal întreaga generație — probabil Ioșua a supravegheat și condus ritualul, executat efectiv de mai mulți."
+       "dict_ro": "Execuția imediată a poruncii confirmă ascultarea promptă a lui Ioșua."
       },
       {
        "t": " "
       },
       {
-       "t": "pe copiii lui Israel",
-       "w": "pe copiii lui Israel",
-       "heb": "בְּנֵי יִשְׂרָאֵל",
-       "translit": "benē israēl",
+       "t": "copiii",
+       "w": "copiii",
+       "heb": "בְּנֵי",
+       "translit": "benē",
+       "strong": "H1121",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "copiii (benē)",
+       "dict_ro": "Execuția imediată a poruncii confirmă ascultarea promptă a lui Ioșua."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui Israel",
+       "w": "lui Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "substantiv, masculin plural construct + nume propriu",
-       "def_ro": "pe copiii lui Israel (benē israēl)",
-       "dict_ro": "Obiectul direct al circumciziei colective."
+       "pos": "nume propriu",
+       "def_ro": "lui Israel (israēl)",
+       "dict_ro": "Execuția imediată a poruncii confirmă ascultarea promptă a lui Ioșua."
       },
       {
        "t": " "
       },
       {
-       "t": "la dealul Aralot.",
-       "w": "la dealul Aralot.",
-       "heb": "אֶל גִּבְעַת הָעֲרָלוֹת",
-       "translit": "el givat haaralot",
+       "t": "la dealul",
+       "w": "la dealul",
+       "heb": "אֶל גִּבְעַת",
+       "translit": "el givat",
+       "strong": "H1389",
+       "pos": "prepoziție + substantiv, feminin singular construct",
+       "def_ro": "la dealul (el givat)",
+       "dict_ro": "Numele locului, «Dealul Prepuțurilor», rămâne mărturie permanentă a ritualului executat acolo."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Aralot.",
+       "w": "Aralot.",
+       "heb": "הָעֲרָלוֹת",
+       "translit": "haaralot",
        "strong": "H6190",
-       "pos": "prepoziție + substantiv, feminin singular construct + substantiv, feminin plural",
-       "def_ro": "la dealul prepuțurilor. (el givat haaralot)",
-       "dict_ro": "Rashi: locul primește numele după eveniment — „dealul prepuțurilor”, comemorând circumcizia în masă."
+       "pos": "substantiv, feminin plural",
+       "def_ro": "prepuțurilor. (haaralot)",
+       "dict_ro": "Numele locului, «Dealul Prepuțurilor», rămâne mărturie permanentă a ritualului executat acolo."
       }
      ],
      "textCompare": [
@@ -38146,14 +38267,27 @@
      "translit": "Veze hadavar așer-mal Iehoșua kol-haam haiotze mi'Mițraim hazekarim kol anșei hamilhama metu vamidbar badereh bețetam mi'Mițraim.",
      "tokens": [
       {
-       "t": "Acesta este motivul",
-       "w": "Acesta este motivul",
-       "heb": "וְזֶה הַדָּבָר",
-       "translit": "veze hadavar",
+       "t": "Acesta este",
+       "w": "Acesta este",
+       "heb": "וְזֶה",
+       "translit": "veze",
+       "strong": "H2088",
+       "pos": "pronume demonstrativ",
+       "def_ro": "și aceasta (veze)",
+       "dict_ro": "Explică motivul exact al circumciziei: generația anterioară, deja circumcisă, pierise complet în pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "motivul",
+       "w": "motivul",
+       "heb": "הַדָּבָר",
+       "translit": "hadavar",
        "strong": "H1697",
-       "pos": "pronume demonstrativ + substantiv, masculin singular",
-       "def_ro": "și acesta este cuvântul (veze hadavar)",
-       "dict_ro": "Introduce explicația cauzei istorice a necesității circumciziei în masă."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "lucrul (hadavar)",
+       "dict_ro": "Explică motivul exact al circumciziei: generația anterioară, deja circumcisă, pierise complet în pustie."
       },
       {
        "t": " "
@@ -38166,7 +38300,7 @@
        "strong": "H834",
        "pos": "particulă relativă",
        "def_ro": "pentru care (așer)",
-       "dict_ro": "Particula relativă introduce cauza exactă."
+       "dict_ro": "Explică motivul exact al circumciziei: generația anterioară, deja circumcisă, pierise complet în pustie."
       },
       {
        "t": " "
@@ -38179,7 +38313,7 @@
        "strong": "H3091",
        "pos": "nume propriu",
        "def_ro": "Ioșua (iehoșua)",
-       "dict_ro": "Subiectul care execută circumcizia explicată în continuare."
+       "dict_ro": "Explică motivul exact al circumciziei: generația anterioară, deja circumcisă, pierise complet în pustie."
       },
       {
        "t": " "
@@ -38192,72 +38326,98 @@
        "strong": "H4135",
        "pos": "verb, qal perfect",
        "def_ro": "a circumcis (mal)",
-       "dict_ro": "Verbul central, introducând explicația detaliată a situației."
+       "dict_ro": "Explică motivul exact al circumciziei: generația anterioară, deja circumcisă, pierise complet în pustie."
       },
       {
        "t": " "
       },
       {
-       "t": "tot poporul",
-       "w": "tot poporul",
-       "heb": "כָּל הָעָם",
-       "translit": "kal haam",
+       "t": "tot",
+       "w": "tot",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tot (kal)",
+       "dict_ro": "Generația care a ieșit din Egipt, deja circumcisă în Egipt, a murit complet pe drumul prin pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "poporul",
+       "w": "poporul",
+       "heb": "הָעָם",
+       "translit": "haam",
        "strong": "H5971",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "tot poporul (kal haam)",
-       "dict_ro": "Generația adultă originară, deja circumcisă la ieșirea din Egipt."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "poporul (haam)",
+       "dict_ro": "Generația care a ieșit din Egipt, deja circumcisă în Egipt, a murit complet pe drumul prin pustie."
       },
       {
        "t": " "
       },
       {
-       "t": "care ieșise",
-       "w": "care ieșise",
+       "t": "care ieșise din",
+       "w": "care ieșise din",
        "heb": "הַיֹּצֵא",
        "translit": "haioțē",
        "strong": "H3318",
        "pos": "verb, qal participiu",
-       "def_ro": "care a ieșit (haioțē)",
-       "dict_ro": "Participiul care identifică exact generația vizată."
+       "def_ro": "cel ce a ieșit (haioțē)",
+       "dict_ro": "Generația care a ieșit din Egipt, deja circumcisă, a murit complet pe drumul prin pustie."
       },
       {
        "t": " "
       },
       {
-       "t": "din Egipt",
-       "w": "din Egipt",
+       "t": "Egipt –",
+       "w": "Egipt –",
        "heb": "מִמִּצְרַיִם",
        "translit": "mimițraim",
        "strong": "H4714",
        "pos": "nume propriu",
-       "def_ro": "din Egipt (mimițraim)",
-       "dict_ro": "Reperul geografic exact al ieșirii generației originare."
+       "def_ro": "Egipt – (mimițraim)",
+       "dict_ro": "Generația care a ieșit din Egipt, deja circumcisă, a murit complet pe drumul prin pustie."
       },
       {
        "t": " "
       },
       {
-       "t": "– cei de parte bărbătească,",
-       "w": "– cei de parte bărbătească,",
+       "t": "cei de parte bărbătească,",
+       "w": "cei de parte bărbătească,",
        "heb": "הַזְּכָרִים",
        "translit": "hazharim",
        "strong": "H2145",
        "pos": "substantiv, masculin plural",
-       "def_ro": "cei de parte bărbătească, (hazharim)",
-       "dict_ro": "Rashi: bărbații apți pentru luptă, numărați la recensămintele din pustie, erau deja circumciși."
+       "def_ro": "bărbații, (hazharim)",
+       "dict_ro": "Precizarea «de parte bărbătească» confirmă relevanța directă pentru porunca circumciziei."
       },
       {
        "t": " "
       },
       {
-       "t": "toți bărbații luptători –",
-       "w": "toți bărbații luptători –",
-       "heb": "כֹּל אַנְשֵׁי הַמִּלְחָמָה",
-       "translit": "kol anșē hamilhama",
+       "t": "toți",
+       "w": "toți",
+       "heb": "כֹּל",
+       "translit": "kol",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "toți (kol)",
+       "dict_ro": "«Bărbații luptători» desemnează generația adultă care a murit în pustie, din pricina neascultării de la Kadeș-Barnea."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "bărbații luptători –",
+       "w": "bărbații luptători –",
+       "heb": "אַנְשֵׁי הַמִּלְחָמָה",
+       "translit": "anșē hamilhama",
        "strong": "H4421",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin plural construct + substantiv, feminin singular",
-       "def_ro": "toți bărbații de război – (kol anșē hamilhama)",
-       "dict_ro": "Categoria completă a bărbaților apți pentru luptă, numărați la recensămintele din pustie."
+       "pos": "substantiv, masculin plural construct + substantiv, feminin singular",
+       "def_ro": "oamenii războiului – (anșē hamilhama)",
+       "dict_ro": "«Bărbații luptători» desemnează generația adultă care a murit în pustie."
       },
       {
        "t": " "
@@ -38270,7 +38430,7 @@
        "strong": "H4191",
        "pos": "verb, qal perfect",
        "def_ro": "au murit (mētu)",
-       "dict_ro": "Întreaga generație adultă originară a pierit în cei patruzeci de ani de rătăcire, ca pedeapsă pentru necredința de la iscoadele din Canaan."
+       "dict_ro": "«Bărbații luptători» desemnează generația adultă care a murit în pustie, din pricina neascultării de la Kadeș-Barnea."
       },
       {
        "t": " "
@@ -38283,20 +38443,33 @@
        "strong": "H4057",
        "pos": "substantiv, masculin singular",
        "def_ro": "în deșert, (vamidbar)",
-       "dict_ro": "Locul exact al morții generației originare."
+       "dict_ro": "«Bărbații luptători» desemnează generația adultă care a murit în pustie, din pricina neascultării de la Kadeș-Barnea."
       },
       {
        "t": " "
       },
       {
-       "t": "pe drumul ieșirii lor din Egipt.",
-       "w": "pe drumul ieșirii lor din Egipt.",
-       "heb": "בַּדֶּרֶךְ בְּצֵאתָם מִמִּצְרָיִם",
-       "translit": "badereh bețētam mimițraim",
+       "t": "pe drumul",
+       "w": "pe drumul",
+       "heb": "בַּדֶּרֶךְ",
+       "translit": "badereh",
+       "strong": "H1870",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "pe drum, (badereh)",
+       "dict_ro": "Precizarea exactă a locului morții — pe drumul ieșirii — confirmă cauza istorică a decalajului de circumcizie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ieșirii lor din Egipt.",
+       "w": "ieșirii lor din Egipt.",
+       "heb": "בְּצֵאתָם מִמִּצְרָיִם",
+       "translit": "bețētam mimițraim",
        "strong": "H4714",
-       "pos": "substantiv, masculin și feminin singular + verb, qal infinitiv + sufix + nume propriu",
-       "def_ro": "pe drumul ieșirii lor din Egipt. (badereh bețētam mimițraim)",
-       "dict_ro": "Confirmă că moartea lor s-a petrecut în timpul călătoriei, nu la Egipt."
+       "pos": "verb, qal infinitiv + sufix + nume propriu",
+       "def_ro": "la ieșirea lor din Egipt. (bețētam mimițraim)",
+       "dict_ro": "Precizarea exactă a locului morții confirmă cauza istorică a decalajului de circumcizie."
       }
      ],
      "textCompare": [
@@ -38332,53 +38505,92 @@
      "translit": "Ki-mulim haiu kol-haam haiotzim vehol-haam hailodim bamidbar badereh bețetam mi'Mițraim lo-malu.",
      "tokens": [
       {
-       "t": "Căci",
-       "w": "Căci",
-       "heb": "כִּי",
-       "translit": "ki",
-       "strong": "H3588",
-       "pos": "conjuncție",
-       "def_ro": "căci (ki)",
-       "dict_ro": "Introduce explicația statutului ritual al celor două generații."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "toți erau circumciși,",
-       "w": "toți erau circumciși,",
-       "heb": "מֻלִים הָיוּ",
-       "translit": "mulim haiu",
+       "t": "Căci toți erau circumciși,",
+       "w": "Căci toți erau circumciși,",
+       "heb": "כִּי מֻלִים הָיוּ",
+       "translit": "ki mulim haiu",
        "strong": "H1961",
-       "pos": "verb, qal participiu pasiv + verb, qal perfect",
-       "def_ro": "toți erau circumciși, (mulim haiu)",
-       "dict_ro": "Confirmă explicit statutul generației originare, eliminând orice ambiguitate despre cine era circumcis."
+       "pos": "conjuncție + verb, qal participiu pasiv + verb, qal perfect",
+       "def_ro": "căci circumciși erau, (ki mulim haiu)",
+       "dict_ro": "Confirmarea explicită: generația ieșită din Egipt fusese circumcisă acolo, înainte de pustie."
       },
       {
        "t": " "
       },
       {
-       "t": "tot poporul care ieșise [din Egipt],",
-       "w": "tot poporul care ieșise [din Egipt],",
-       "heb": "כָּל הָעָם הַיֹּצְאִים",
-       "translit": "kal haam haioțim",
+       "t": "tot",
+       "w": "tot",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tot (kal)",
+       "dict_ro": "Confirmarea explicită: generația ieșită din Egipt fusese circumcisă acolo, înainte de pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "poporul",
+       "w": "poporul",
+       "heb": "הָעָם",
+       "translit": "haam",
+       "strong": "H5971",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "poporul (haam)",
+       "dict_ro": "Confirmarea explicită: generația ieșită din Egipt fusese circumcisă acolo, înainte de pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care ieșise [din Egipt],",
+       "w": "care ieșise [din Egipt],",
+       "heb": "הַיֹּצְאִים",
+       "translit": "haioțim",
        "strong": "H3318",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular + verb, qal participiu",
-       "def_ro": "tot poporul care a ieșit, (kal haam haioțim)",
-       "dict_ro": "Reluarea identificării generației deja circumcise, ieșită din Egipt."
+       "pos": "verb, qal participiu",
+       "def_ro": "cel ce a ieșit, (haioțim)",
+       "dict_ro": "Confirmarea explicită: generația ieșită din Egipt fusese circumcisă acolo, înainte de pustie."
       },
       {
        "t": " "
       },
       {
-       "t": "dar poporul care se născuse",
-       "w": "dar poporul care se născuse",
-       "heb": "וְכָל הָעָם הַיִּלֹּדִים",
-       "translit": "vehal haam hailodim",
+       "t": "dar",
+       "w": "dar",
+       "heb": "וְכָל",
+       "translit": "vehal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "și tot (vehal)",
+       "dict_ro": "Noua generație, născută pe drum, în pustie, nu fusese supusă încă ritualului circumciziei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "poporul",
+       "w": "poporul",
+       "heb": "הָעָם",
+       "translit": "haam",
+       "strong": "H5971",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "poporul (haam)",
+       "dict_ro": "Noua generație, născută pe drum, în pustie, nu fusese supusă încă ritualului circumciziei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care se născuse",
+       "w": "care se născuse",
+       "heb": "הַיִּלֹּדִים",
+       "translit": "hailodim",
        "strong": "H3209",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular + adjectiv, masculin plural",
-       "def_ro": "dar tot poporul născut (vehal haam hailodim)",
-       "dict_ro": "A doua generație, născută în timpul rătăcirii, nu primise niciodată acest ritual."
+       "pos": "adjectiv, masculin plural",
+       "def_ro": "cel născut (hailodim)",
+       "dict_ro": "Noua generație, născută pe drum, în pustie, nu fusese supusă încă ritualului circumciziei."
       },
       {
        "t": " "
@@ -38391,20 +38603,33 @@
        "strong": "H4057",
        "pos": "substantiv, masculin singular",
        "def_ro": "în deșert, (bamidbar)",
-       "dict_ro": "Locul exact al nașterii celei de-a doua generații."
+       "dict_ro": "Noua generație, născută pe drum, în pustie, nu fusese supusă încă ritualului circumciziei."
       },
       {
        "t": " "
       },
       {
-       "t": "pe drumul ieșirii lor din Egipt,",
-       "w": "pe drumul ieșirii lor din Egipt,",
-       "heb": "בַּדֶּרֶךְ בְּצֵאתָם מִמִּצְרַיִם",
-       "translit": "badereh bețētam mimițraim",
+       "t": "pe drumul",
+       "w": "pe drumul",
+       "heb": "בַּדֶּרֶךְ",
+       "translit": "badereh",
+       "strong": "H1870",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "pe drum, (badereh)",
+       "dict_ro": "Precizarea exactă a nașterii pe drum confirmă necesitatea restaurării ritualului pentru noua generație."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ieșirii lor din Egipt,",
+       "w": "ieșirii lor din Egipt,",
+       "heb": "בְּצֵאתָם מִמִּצְרַיִם",
+       "translit": "bețētam mimițraim",
        "strong": "H4714",
-       "pos": "substantiv, masculin și feminin singular + verb, qal infinitiv + sufix + nume propriu",
-       "def_ro": "pe drumul ieșirii lor din Egipt, (badereh bețētam mimițraim)",
-       "dict_ro": "Precizează perioada exactă a nașterii acestei generații."
+       "pos": "verb, qal infinitiv + sufix + nume propriu",
+       "def_ro": "la ieșirea lor din Egipt, (bețētam mimițraim)",
+       "dict_ro": "Precizarea exactă a nașterii pe drum confirmă necesitatea restaurării ritualului pentru noua generație."
       },
       {
        "t": " "
@@ -38416,8 +38641,8 @@
        "translit": "lo malu",
        "strong": "H4135",
        "pos": "particulă negativă + verb, qal perfect",
-       "def_ro": "nu era circumcis. (lo malu)",
-       "dict_ro": "Rashi, pe baza tradiției talmudice (Yevamot 71b): vântul nordic necesar pentru o vindecare sigură după circumcizie nu a suflat niciodată în timpul rătăcirii prin pustie, din cauza norilor de slavă care înconjurau tabăra — de aceea ritualul a fost amânat patruzeci de ani."
+       "def_ro": "nu au circumcis. (lo malu)",
+       "dict_ro": "Precizarea exactă a nașterii pe drum confirmă necesitatea restaurării ritualului pentru noua generație."
       }
      ],
      "textCompare": [
@@ -38447,27 +38672,40 @@
      "translit": "Ki arbaim șana halhu venei-Israel bamidbar ad-tom kol-hagoi anșei hamilhama haiotzim mi'Mițraim așer lo-șameu bekol ADONAI așer nișba ADONAI lahem levilti harotam et-haareț așer nișba ADONAI laavotam latet lanu ereț zavat halav udevash.",
      "tokens": [
       {
-       "t": "Căci",
-       "w": "Căci",
+       "t": "Căci timp de",
+       "w": "Căci timp de",
        "heb": "כִּי",
        "translit": "ki",
        "strong": "H3588",
        "pos": "conjuncție",
        "def_ro": "căci (ki)",
-       "dict_ro": "Introduce explicația duratei exacte a rătăcirii și a pedepsei."
+       "dict_ro": "Durata exactă — patruzeci de ani — leagă decalajul de circumcizie direct de pedeapsa pustiei, cf. Numeri 14."
       },
       {
-       "t": " timp de "
+       "t": " "
       },
       {
-       "t": "patruzeci de ani",
-       "w": "patruzeci de ani",
-       "heb": "אַרְבָּעִים שָׁנָה",
-       "translit": "arbaim șana",
+       "t": "patruzeci",
+       "w": "patruzeci",
+       "heb": "אַרְבָּעִים",
+       "translit": "arbaim",
+       "strong": "H705",
+       "pos": "numeral",
+       "def_ro": "patruzeci (arbaim)",
+       "dict_ro": "Durata exactă — patruzeci de ani — leagă decalajul de circumcizie direct de pedeapsa pustiei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de ani",
+       "w": "de ani",
+       "heb": "שָׁנָה",
+       "translit": "șana",
        "strong": "H8141",
-       "pos": "numeral + substantiv, feminin singular",
-       "def_ro": "patruzeci de ani (arbaim șana)",
-       "dict_ro": "Perioada exactă a pedepsei divine, impusă după păcatul iscoadelor relatat în Numeri 14."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "ani (șana)",
+       "dict_ro": "Durata exactă — patruzeci de ani — leagă decalajul de circumcizie direct de pedeapsa pustiei."
       },
       {
        "t": " "
@@ -38479,21 +38717,34 @@
        "translit": "halhu",
        "strong": "H1980",
        "pos": "verb, qal perfect",
-       "def_ro": "au călătorit (halhu)",
-       "dict_ro": "Verbul central al rătăcirii prelungite prin pustie."
+       "def_ro": "au mers (halhu)",
+       "dict_ro": "Durata exactă — patruzeci de ani — leagă decalajul de circumcizie direct de pedeapsa pustiei."
       },
       {
        "t": " "
       },
       {
-       "t": "copiii lui Israel",
-       "w": "copiii lui Israel",
-       "heb": "בְנֵי יִשְׂרָאֵל",
-       "translit": "venē israēl",
+       "t": "copiii",
+       "w": "copiii",
+       "heb": "בְנֵי",
+       "translit": "venē",
+       "strong": "H1121",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "copiii (venē)",
+       "dict_ro": "Durata exactă — patruzeci de ani — leagă decalajul de circumcizie direct de pedeapsa pustiei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui Israel",
+       "w": "lui Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "substantiv, masculin plural construct + nume propriu",
-       "def_ro": "copiii lui Israel (venē israēl)",
-       "dict_ro": "Subiectul colectiv al rătăcirii prin pustie."
+       "pos": "nume propriu",
+       "def_ro": "lui Israel (israēl)",
+       "dict_ro": "Durata exactă — patruzeci de ani — leagă decalajul de circumcizie direct de pedeapsa pustiei."
       },
       {
        "t": " "
@@ -38505,8 +38756,8 @@
        "translit": "bamidbar",
        "strong": "H4057",
        "pos": "substantiv, masculin singular",
-       "def_ro": "în deșert, (bamidbar)",
-       "dict_ro": "Locul exact al rătăcirii îndelungate."
+       "def_ro": "prin deșert, (bamidbar)",
+       "dict_ro": "Durata exactă — patruzeci de ani — leagă decalajul de circumcizie direct de pedeapsa pustiei."
       },
       {
        "t": " "
@@ -38518,47 +38769,86 @@
        "translit": "ad tom",
        "strong": "H8552",
        "pos": "prepoziție + verb, qal infinitiv",
-       "def_ro": "până la sfârșitul (ad tom)",
-       "dict_ro": "Confirmă finalizarea completă a generației sortite morții în pustie, condiție necesară pentru intrarea noii generații în țară."
+       "def_ro": "până la încheierea (ad tom)",
+       "dict_ro": "Generația pedepsită, cea care nu a ascultat de DOMNUL la Kadeș-Barnea, trebuia să moară complet înainte de intrarea în țară."
       },
       {
        "t": " "
       },
       {
-       "t": "întregul popor",
-       "w": "întregul popor",
-       "heb": "כָּל הַגּוֹי",
-       "translit": "kal hagoi",
+       "t": "întregul",
+       "w": "întregul",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tot (kal)",
+       "dict_ro": "Generația pedepsită trebuia să moară complet înainte de intrarea în țară."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "popor",
+       "w": "popor",
+       "heb": "הַגּוֹי",
+       "translit": "hagoi",
        "strong": "H1471",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "tot neamul (kal hagoi)",
-       "dict_ro": "Obiectul stingerii complete, generația adultă originară."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "neamul (hagoi)",
+       "dict_ro": "Generația pedepsită trebuia să moară complet înainte de intrarea în țară."
       },
       {
        "t": " "
       },
       {
-       "t": "– bărbații luptători",
-       "w": "– bărbații luptători",
-       "heb": "אַנְשֵׁי הַמִּלְחָמָה",
-       "translit": "anșē hamilhama",
+       "t": "– bărbații",
+       "w": "– bărbații",
+       "heb": "אַנְשֵׁי",
+       "translit": "anșē",
+       "strong": "H376",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "oamenii (anșē)",
+       "dict_ro": "«Bărbații luptători» rămân, din nou, desemnarea precisă a generației condamnate la moarte în pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "luptători",
+       "w": "luptători",
+       "heb": "הַמִּלְחָמָה",
+       "translit": "hamilhama",
        "strong": "H4421",
-       "pos": "substantiv, masculin plural construct + substantiv, feminin singular",
-       "def_ro": "bărbații de război (anșē hamilhama)",
-       "dict_ro": "Repetă specific categoria vizată de decret — bărbații adulți, apți de luptă, numărați la recensămintele din pustie."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "războiului (hamilhama)",
+       "dict_ro": "«Bărbații luptători» rămân, din nou, desemnarea precisă a generației condamnate la moarte în pustie."
       },
       {
        "t": " "
       },
       {
-       "t": "care ieșiseră din Egipt,",
-       "w": "care ieșiseră din Egipt,",
-       "heb": "הַיֹּצְאִים מִמִּצְרַיִם",
-       "translit": "haioțim mimițraim",
+       "t": "care ieșiseră din",
+       "w": "care ieșiseră din",
+       "heb": "הַיֹּצְאִים",
+       "translit": "haioțim",
+       "strong": "H3318",
+       "pos": "verb, qal participiu",
+       "def_ro": "cei ce au ieșit (haioțim)",
+       "dict_ro": "«Bărbații luptători» rămân, din nou, desemnarea precisă a generației condamnate la moarte în pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Egipt,",
+       "w": "Egipt,",
+       "heb": "מִמִּצְרַיִם",
+       "translit": "mimițraim",
        "strong": "H4714",
-       "pos": "verb, qal participiu + nume propriu",
-       "def_ro": "care au ieșit din Egipt, (haioțim mimițraim)",
-       "dict_ro": "Identificarea exactă a generației sortite morții, cea ieșită la Exod."
+       "pos": "nume propriu",
+       "def_ro": "Egipt, (mimițraim)",
+       "dict_ro": "«Bărbații luptători» rămân, din nou, desemnarea precisă a generației condamnate la moarte în pustie."
       },
       {
        "t": " "
@@ -38571,33 +38861,72 @@
        "strong": "H8085",
        "pos": "particulă relativă + particulă negativă + verb, qal perfect",
        "def_ro": "care nu au ascultat (așer lo șamu)",
-       "dict_ro": "Motivul moral al pedepsei — neascultarea la raportul negativ al iscoadelor despre țara Canaanului."
+       "dict_ro": "Motivul exact al condamnării: refuzul generației de a asculta de glasul DOMNULUI la raportul iscoadelor."
       },
       {
        "t": " "
       },
       {
-       "t": "de glasul DOMNULUI",
-       "w": "de glasul DOMNULUI",
-       "heb": "בְּקוֹל יְהוָה",
-       "translit": "bekol Adonai",
-       "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "de glasul DOMNULUI (bekol Adonai)",
-       "dict_ro": "Obiectul exact al neascultării, porunca divină transmisă prin iscoade."
+       "t": "de glasul",
+       "w": "de glasul",
+       "heb": "בְּקוֹל",
+       "translit": "bekol",
+       "strong": "H6963",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "la glasul (bekol)",
+       "dict_ro": "Motivul exact al condamnării: refuzul generației de a asculta de glasul DOMNULUI."
       },
       {
        "t": " "
       },
       {
-       "t": "și despre care DOMNUL jurase",
-       "w": "și despre care DOMNUL jurase",
-       "heb": "אֲשֶׁר נִשְׁבַּע יְהוָה",
-       "translit": "așer nișba Adonai",
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "particulă relativă + verb, nifal perfect + nume propriu",
-       "def_ro": "și despre care DOMNUL a jurat (așer nișba Adonai)",
-       "dict_ro": "Jurământul divin categoric, pronunțat ca răspuns direct la necredința generației exodului."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Motivul exact al condamnării: refuzul generației de a asculta de glasul DOMNULUI."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și despre care",
+       "w": "și despre care",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care (așer)",
+       "dict_ro": "Jurământul divin de a nu le arăta țara promisă pecetluiește definitiv sentința pronunțată la Kadeș-Barnea."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "Jurământul divin de a nu le arăta țara promisă pecetluiește definitiv sentința pronunțată la Kadeș-Barnea."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "jurase",
+       "w": "jurase",
+       "heb": "נִשְׁבַּע",
+       "translit": "nișba",
+       "strong": "H7650",
+       "pos": "verb, nifal perfect",
+       "def_ro": "a jurat (nișba)",
+       "dict_ro": "Jurământul divin de a nu le arăta țara promisă pecetluiește definitiv sentința pronunțată la Kadeș-Barnea."
       },
       {
        "t": " "
@@ -38609,8 +38938,8 @@
        "translit": "levilti harotam",
        "strong": "H7200",
        "pos": "conjuncție + verb, hifil infinitiv + sufix",
-       "def_ro": "că nu le va arăta (levilti harotam)",
-       "dict_ro": "Obiectul exact al jurământului divin de pedeapsă, interzicerea intrării în țară."
+       "def_ro": "ca să nu le arate lor (levilti harotam)",
+       "dict_ro": "Jurământul divin de a nu le arăta țara promisă pecetluiește definitiv sentința pronunțată la Kadeș-Barnea."
       },
       {
        "t": " "
@@ -38623,20 +38952,46 @@
        "strong": "H776",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "țara (haareț)",
-       "dict_ro": "Obiectul direct al interdicției divine pentru generația necredincioasă."
+       "dict_ro": "Jurământul divin de a nu le arăta țara promisă pecetluiește definitiv sentința pronunțată la Kadeș-Barnea."
       },
       {
        "t": " "
       },
       {
-       "t": "pe care DOMNUL a jurat-o",
-       "w": "pe care DOMNUL a jurat-o",
-       "heb": "אֲשֶׁר נִשְׁבַּע יְהוָה",
-       "translit": "așer nișba Adonai",
+       "t": "pe care",
+       "w": "pe care",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "pe care (așer)",
+       "dict_ro": "Repetarea exactă a jurământului confirmă promisiunea originară, dată strămoșilor, de a le da țara."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "particulă relativă + verb, nifal perfect + nume propriu",
-       "def_ro": "pe care DOMNUL a jurat-o (așer nișba Adonai)",
-       "dict_ro": "Contrastul dintre promisiunea originară, legământul patriarhal, și pedeapsa aplicată generației necredincioase."
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "Repetarea exactă a jurământului confirmă promisiunea originară, dată strămoșilor, de a le da țara."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a jurat-o",
+       "w": "a jurat-o",
+       "heb": "נִשְׁבַּע",
+       "translit": "nișba",
+       "strong": "H7650",
+       "pos": "verb, nifal perfect",
+       "def_ro": "a jurat (nișba)",
+       "dict_ro": "Repetarea exactă a jurământului confirmă promisiunea originară, dată strămoșilor, de a le da țara."
       },
       {
        "t": " "
@@ -38649,7 +39004,7 @@
        "strong": "H1",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "strămoșilor lor (laavotam)",
-       "dict_ro": "Destinatarii originari ai promisiunii patriarhale."
+       "dict_ro": "Repetarea exactă a jurământului confirmă promisiunea originară, dată strămoșilor, de a le da țara."
       },
       {
        "t": " "
@@ -38661,21 +39016,34 @@
        "translit": "latet lanu",
        "strong": "",
        "pos": "verb, qal infinitiv + prepoziție + sufix",
-       "def_ro": "să ne-o dea nouă, (latet lanu)",
-       "dict_ro": "Scopul final al promisiunii patriarhale, moștenirea destinată noii generații."
+       "def_ro": "a da nouă, (latet lanu)",
+       "dict_ro": "Repetarea exactă a jurământului confirmă promisiunea originară, dată strămoșilor, de a le da țara."
       },
       {
        "t": " "
       },
       {
-       "t": "o țară în care curge",
-       "w": "o țară în care curge",
-       "heb": "אֶרֶץ זָבַת",
-       "translit": "ereț zavat",
+       "t": "o țară",
+       "w": "o țară",
+       "heb": "אֶרֶץ",
+       "translit": "ereț",
+       "strong": "H776",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "țară (ereț)",
+       "dict_ro": "Formula standard «țară în care curge lapte și miere» descrie abundența promisă, moștenită acum de noua generație."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în care curge",
+       "w": "în care curge",
+       "heb": "זָבַת",
+       "translit": "zavat",
        "strong": "H2100",
-       "pos": "substantiv, masculin și feminin singular + verb, qal participiu",
-       "def_ro": "o țară care curge (ereț zavat)",
-       "dict_ro": "Introduce formula clasică de descriere a abundenței Țării Promise."
+       "pos": "verb, qal participiu",
+       "def_ro": "care curge (zavat)",
+       "dict_ro": "Formula standard «țară în care curge lapte și miere» descrie abundența promisă."
       },
       {
        "t": " "
@@ -38688,7 +39056,7 @@
        "strong": "H2461",
        "pos": "substantiv, masculin singular",
        "def_ro": "lapte (halav)",
-       "dict_ro": "Primul element al formulei clasice a abundenței."
+       "dict_ro": "Formula standard «țară în care curge lapte și miere» descrie abundența promisă."
       },
       {
        "t": " "
@@ -38701,7 +39069,7 @@
        "strong": "H1706",
        "pos": "substantiv, masculin singular",
        "def_ro": "și miere. (udvaș)",
-       "dict_ro": "Formula clasică de descriere a Țării Promise, repetată constant în întreaga Tora ca simbol al abundenței așteptate."
+       "dict_ro": "Formula standard «țară în care curge lapte și miere» descrie abundența promisă, moștenită acum de noua generație."
       }
      ],
      "textCompare": [
@@ -38739,7 +39107,7 @@
        "strong": "H1121",
        "pos": "marcă a complementului direct + substantiv, masculin plural construct + sufix",
        "def_ro": "și pe copiii lor (veet benēhem)",
-       "dict_ro": "Radak: Dumnezeu a ridicat noua generație exact în locul părinților lor decedați, continuând planul de moștenire a Țării Promise."
+       "dict_ro": "Noua generație, ridicată în locul părinților condamnați, primește abia acum circumcizia neîmplinită."
       },
       {
        "t": " "
@@ -38751,8 +39119,8 @@
        "translit": "hēkim",
        "strong": "H6965",
        "pos": "verb, hifil perfect",
-       "def_ro": "i-a ridicat (hēkim)",
-       "dict_ro": "Verbul central al continuității generaționale."
+       "def_ro": "a ridicat (hēkim)",
+       "dict_ro": "Noua generație, ridicată în locul părinților condamnați, primește abia acum circumcizia neîmplinită."
       },
       {
        "t": " "
@@ -38765,7 +39133,7 @@
        "strong": "H8478",
        "pos": "prepoziție + sufix",
        "def_ro": "în locul lor (tahtam)",
-       "dict_ro": "Confirmă poziția exactă a noii generații, înlocuind generația decedată."
+       "dict_ro": "Noua generație, ridicată în locul părinților condamnați, primește abia acum circumcizia neîmplinită."
       },
       {
        "t": " "
@@ -38778,20 +39146,33 @@
        "strong": "H853",
        "pos": "marcă a complementului direct + sufix",
        "def_ro": "pe ei (otam)",
-       "dict_ro": "Identificarea exactă a celor circumciși, noua generație."
+       "dict_ro": "Noua generație, ridicată în locul părinților condamnați, primește abia acum circumcizia neîmplinită."
       },
       {
        "t": " "
       },
       {
-       "t": "i-a circumcis Ioșua,",
-       "w": "i-a circumcis Ioșua,",
-       "heb": "מָל יְהוֹשֻׁעַ",
-       "translit": "mal iehoșua",
+       "t": "i-a circumcis",
+       "w": "i-a circumcis",
+       "heb": "מָל",
+       "translit": "mal",
+       "strong": "H4135",
+       "pos": "verb, qal perfect",
+       "def_ro": "a circumcis (mal)",
+       "dict_ro": "Noua generație, ridicată în locul părinților condamnați, primește abia acum circumcizia neîmplinită."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Ioșua,",
+       "w": "Ioșua,",
+       "heb": "יְהוֹשֻׁעַ",
+       "translit": "iehoșua",
        "strong": "H3091",
-       "pos": "verb, qal perfect + nume propriu",
-       "def_ro": "i-a circumcis Ioșua, (mal iehoșua)",
-       "dict_ro": "Confirmă explicit identitatea celor circumciși — generația a doua, născută în pustie, nu părinții lor deja circumciși."
+       "pos": "nume propriu",
+       "def_ro": "Ioșua, (iehoșua)",
+       "dict_ro": "Noua generație, ridicată în locul părinților condamnați, primește abia acum circumcizia neîmplinită."
       },
       {
        "t": " "
@@ -38803,8 +39184,8 @@
        "translit": "ki arēlim haiu",
        "strong": "H1961",
        "pos": "conjuncție + adjectiv, masculin plural + verb, qal perfect",
-       "def_ro": "căci erau necircumciși, (ki arēlim haiu)",
-       "dict_ro": "Repetă starea lor fizică necesară pentru a explica porunca."
+       "def_ro": "căci necircumciși erau, (ki arēlim haiu)",
+       "dict_ro": "Confirmarea explicită: noua generație, născută pe drum, era complet necircumcisă până acum."
       },
       {
        "t": " "
@@ -38816,8 +39197,8 @@
        "translit": "ki lo malu",
        "strong": "H4135",
        "pos": "conjuncție + particulă negativă + verb, qal perfect",
-       "def_ro": "căci nu i-au circumcis (ki lo malu)",
-       "dict_ro": "Confirmă motivul istoric real — imposibilitatea practică de a circumcide copiii în timpul deplasărilor continue prin pustie."
+       "def_ro": "căci nu au circumcis (ki lo malu)",
+       "dict_ro": "Confirmarea explicită: noua generație, născută pe drum, era complet necircumcisă până acum."
       },
       {
        "t": " "
@@ -38825,12 +39206,12 @@
       {
        "t": "pe drum.",
        "w": "pe drum.",
-       "heb": "בַּדָּרֶךְ",
-       "translit": "badareh",
+       "heb": "אוֹתָם בַּדָּרֶךְ",
+       "translit": "otam badareh",
        "strong": "H1870",
-       "pos": "substantiv, masculin și feminin singular",
-       "def_ro": "pe drum. (badareh)",
-       "dict_ro": "Reperul exact al imposibilității practice a ritualului în timpul călătoriei."
+       "pos": "marcă a complementului direct + sufix + substantiv, masculin și feminin singular",
+       "def_ro": "pe ei pe drum. (otam badareh)",
+       "dict_ro": "Confirmarea explicită: noua generație, născută pe drum, era complet necircumcisă până acum."
       }
      ],
      "textCompare": [
@@ -38868,7 +39249,7 @@
        "strong": "H1961",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a fost, (vaihi)",
-       "dict_ro": "Marchează finalizarea procesului colectiv de circumcizie, oricât ar fi durat pentru întreaga generație."
+       "dict_ro": "Perioada de convalescență, cu tabăra imobilizată, a fost necesară pentru vindecarea întregului popor circumcis."
       },
       {
        "t": " "
@@ -38880,73 +39261,60 @@
        "translit": "kaașer",
        "strong": "H834",
        "pos": "particulă relativă",
-       "def_ro": "când (kaașer)",
-       "dict_ro": "Introduce momentul exact al finalizării ritualului."
+       "def_ro": "precum (kaașer)",
+       "dict_ro": "Perioada de convalescență, cu tabăra imobilizată, a fost necesară pentru vindecarea întregului popor circumcis."
       },
       {
        "t": " "
       },
       {
-       "t": "tot poporul",
-       "w": "tot poporul",
-       "heb": "כָל הַגּוֹי",
-       "translit": "hal hagoi",
+       "t": "tot",
+       "w": "tot",
+       "heb": "כָל",
+       "translit": "hal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tot (hal)",
+       "dict_ro": "Perioada de convalescență, cu tabăra imobilizată, a fost necesară pentru vindecarea întregului popor circumcis."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "poporul",
+       "w": "poporul",
+       "heb": "הַגּוֹי",
+       "translit": "hagoi",
        "strong": "H1471",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "tot neamul (hal hagoi)",
-       "dict_ro": "Subiectul colectiv al finalizării ritualului de circumcizie."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "neamul (hagoi)",
+       "dict_ro": "Perioada de convalescență, cu tabăra imobilizată, a fost necesară pentru vindecarea întregului popor circumcis."
       },
       {
        "t": " "
       },
       {
-       "t": "a isprăvit",
-       "w": "a isprăvit",
-       "heb": "תַּמּוּ",
-       "translit": "tamu",
-       "strong": "H8552",
-       "pos": "verb, qal perfect",
-       "def_ro": "a isprăvit (tamu)",
-       "dict_ro": "Verbul central al finalizării procesului colectiv."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "să se circumcidă,",
-       "w": "să se circumcidă,",
-       "heb": "לְהִמּוֹל",
-       "translit": "lehimol",
+       "t": "a isprăvit să se circumcidă,",
+       "w": "a isprăvit să se circumcidă,",
+       "heb": "תַּמּוּ לְהִמּוֹל",
+       "translit": "tamu lehimol",
        "strong": "H4135",
-       "pos": "verb, nifal infinitiv",
-       "def_ro": "să se circumcidă, (lehimol)",
-       "dict_ro": "Scopul exact al procesului finalizat, ritualul complet."
+       "pos": "verb, qal perfect + verb, nifal infinitiv",
+       "def_ro": "au încetat de a circumcide, (tamu lehimol)",
+       "dict_ro": "Perioada de convalescență, cu tabăra imobilizată, a fost necesară pentru vindecarea întregului popor circumcis."
       },
       {
        "t": " "
       },
       {
-       "t": "au rămas",
-       "w": "au rămas",
-       "heb": "וַיֵּשְׁבוּ",
-       "translit": "vaiēșvu",
-       "strong": "H3427",
-       "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "au rămas (vaiēșvu)",
-       "dict_ro": "Rashi: poporul a rămas pe loc, fără a asedia Ierihonul în această perioadă vulnerabilă de convalescență."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "în locul lor,",
-       "w": "în locul lor,",
-       "heb": "תַחְתָּם",
-       "translit": "tahtam",
+       "t": "au rămas în locul lor,",
+       "w": "au rămas în locul lor,",
+       "heb": "וַיֵּשְׁבוּ תַחְתָּם",
+       "translit": "vaiēșvu tahtam",
        "strong": "H8478",
-       "pos": "prepoziție + sufix",
-       "def_ro": "în locul lor, (tahtam)",
-       "dict_ro": "Confirmă staționarea taberei pe loc, fără deplasare."
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
+       "def_ro": "și au șezut în locul lor, (vaiēșvu tahtam)",
+       "dict_ro": "Perioada de convalescență, cu tabăra imobilizată, a fost necesară pentru vindecarea întregului popor circumcis."
       },
       {
        "t": " "
@@ -38959,7 +39327,7 @@
        "strong": "H4264",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "în tabără, (bamahane)",
-       "dict_ro": "Locul exact al convalescenței colective."
+       "dict_ro": "Perioada de convalescență, cu tabăra imobilizată, a fost necesară pentru vindecarea întregului popor circumcis."
       },
       {
        "t": " "
@@ -38971,8 +39339,8 @@
        "translit": "ad haiotam",
        "strong": "H2421",
        "pos": "prepoziție + verb, qal infinitiv + sufix",
-       "def_ro": "până s-au vindecat. (ad haiotam)",
-       "dict_ro": "Perioada de recuperare fizică necesară, expunând temporar tabăra la risc militar, dar protejată divin."
+       "def_ro": "până la vindecarea lor. (ad haiotam)",
+       "dict_ro": "Perioada de convalescență, cu tabăra imobilizată, a fost necesară pentru vindecarea întregului popor circumcis."
       }
      ],
      "textCompare": [
@@ -39002,17 +39370,14 @@
      "translit": "Vaiomer ADONAI el-Iehoșua haiom galoti et-herpat Mițraim mealéihem vaikra șem hamakom hahu Ghilgal ad haiom haze.",
      "tokens": [
       {
-       "t": "Și "
-      },
-      {
-       "t": "DOMNUL",
-       "w": "DOMNUL",
+       "t": "Și DOMNUL",
+       "w": "Și DOMNUL",
        "heb": "יְהוָה",
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL (Adonai)",
-       "dict_ro": "Autorul direct al explicației spirituale date lui Ioșua."
+       "dict_ro": "Numele locului, Ghilgal, comemorează explicit «îndepărtarea» rușinii Egiptului prin circumcizie."
       },
       {
        "t": " "
@@ -39024,8 +39389,8 @@
        "translit": "vaiomer",
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "a spus (vaiomer)",
-       "dict_ro": "Formula divină care explică semnificația spirituală a circumciziei recent împlinite."
+       "def_ro": "și a spus (vaiomer)",
+       "dict_ro": "Numele locului, Ghilgal, comemorează explicit «îndepărtarea» rușinii Egiptului prin circumcizie."
       },
       {
        "t": " "
@@ -39033,12 +39398,12 @@
       {
        "t": "lui Ioșua:",
        "w": "lui Ioșua:",
-       "heb": "יְהוֹשֻׁעַ",
-       "translit": "iehoșua",
+       "heb": "אֶל יְהוֹשֻׁעַ",
+       "translit": "el iehoșua",
        "strong": "H3091",
-       "pos": "nume propriu",
-       "def_ro": "lui Ioșua: (iehoșua)",
-       "dict_ro": "Destinatarul direct al explicației divine."
+       "pos": "prepoziție + nume propriu",
+       "def_ro": "lui Ioșua: (el iehoșua)",
+       "dict_ro": "Numele locului, Ghilgal, comemorează explicit «îndepărtarea» rușinii Egiptului prin circumcizie."
       },
       {
        "t": " "
@@ -39050,8 +39415,8 @@
        "translit": "haiom",
        "strong": "H3117",
        "pos": "substantiv, masculin singular",
-       "def_ro": "„astăzi (haiom)",
-       "dict_ro": "Reperul temporal exact al eliminării rușinii."
+       "def_ro": "astăzi (haiom)",
+       "dict_ro": "Rashi explică «Ghilgal» prin rădăcina «galal» (a îndepărta/rostogoli), aluzie directă la îndepărtarea rușinii necircumciziei."
       },
       {
        "t": " "
@@ -39063,21 +39428,34 @@
        "translit": "galoti",
        "strong": "H1556",
        "pos": "verb, qal perfect",
-       "def_ro": "am rostogolit (galoti)",
-       "dict_ro": "Verbul central al acțiunii divine de eliminare a rușinii."
+       "def_ro": "am îndepărtat (galoti)",
+       "dict_ro": "Rashi explică «Ghilgal» prin rădăcina «galal» (a îndepărta/rostogoli), aluzie directă la îndepărtarea rușinii necircumciziei."
       },
       {
        "t": " "
       },
       {
-       "t": "rușinea Egiptului",
-       "w": "rușinea Egiptului",
-       "heb": "חֶרְפַּת מִצְרַיִם",
-       "translit": "herpat mițraim",
+       "t": "rușinea",
+       "w": "rușinea",
+       "heb": "חֶרְפַּת",
+       "translit": "herpat",
+       "strong": "H2781",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "rușinea (herpat)",
+       "dict_ro": "Rashi explică «Ghilgal» prin rădăcina «galal» (a îndepărta/rostogoli), aluzie directă la îndepărtarea rușinii necircumciziei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Egiptului",
+       "w": "Egiptului",
+       "heb": "מִצְרַיִם",
+       "translit": "mițraim",
        "strong": "H4714",
-       "pos": "substantiv, feminin singular construct + nume propriu",
-       "def_ro": "rușinea Egiptului (herpat mițraim)",
-       "dict_ro": "Rashi, citind o tradiție midrashică: egiptenii batjocoreau exilații necircumciși, asociindu-i cu propria lor necurăție — prin circumcizie, acea rușine istorică e definitiv ștearsă."
+       "pos": "nume propriu",
+       "def_ro": "Egiptului (mițraim)",
+       "dict_ro": "Rashi explică «Ghilgal» prin rădăcina «galal» (a îndepărta/rostogoli), aluzie directă la îndepărtarea rușinii necircumciziei."
       },
       {
        "t": " "
@@ -39090,7 +39468,7 @@
        "strong": "H5921",
        "pos": "prepoziție + sufix",
        "def_ro": "de deasupra voastră.” (mēalēhem)",
-       "dict_ro": "Confirmă eliminarea completă a rușinii de peste întregul popor."
+       "dict_ro": "Rashi explică «Ghilgal» prin rădăcina «galal» (a îndepărta/rostogoli), aluzie directă la îndepărtarea rușinii necircumciziei."
       },
       {
        "t": " "
@@ -39102,21 +39480,34 @@
        "translit": "vaikra",
        "strong": "H7121",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a numit (vaikra)",
-       "dict_ro": "Verbul central al atribuirii numelui topografic."
+       "def_ro": "și a chemat (vaikra)",
+       "dict_ro": "Numele Ghilgal rămâne permanent, mărturie a acestui moment fondator al generației circumcise."
       },
       {
        "t": " "
       },
       {
-       "t": "acel loc",
-       "w": "acel loc",
-       "heb": "הַמָּקוֹם הַהוּא",
-       "translit": "hamakom hahu",
+       "t": "acel",
+       "w": "acel",
+       "heb": "הַהוּא",
+       "translit": "hahu",
        "strong": "H1931",
-       "pos": "substantiv, masculin singular + pronume personal",
-       "def_ro": "locul acela (hamakom hahu)",
-       "dict_ro": "Radak: numele «Ghilgal» derivă din rădăcina «a rostogoli» (galal), marcând simbolic «rostogolirea» rușinii egiptene de pe popor."
+       "pos": "pronume personal",
+       "def_ro": "acela, (hahu)",
+       "dict_ro": "Numele Ghilgal rămâne permanent, mărturie a acestui moment fondator al generației circumcise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "loc",
+       "w": "loc",
+       "heb": "שֵׁם הַמָּקוֹם",
+       "translit": "șēm hamakom",
+       "strong": "H4725",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "numele locului (șēm hamakom)",
+       "dict_ro": "Numele Ghilgal rămâne permanent, mărturie a acestui moment fondator al generației circumcise."
       },
       {
        "t": " "
@@ -39129,20 +39520,33 @@
        "strong": "H1537",
        "pos": "nume propriu",
        "def_ro": "Ghilgal (gilgal)",
-       "dict_ro": "Numele nou atribuit locului, comemorând eliminarea rușinii."
+       "dict_ro": "Numele Ghilgal rămâne permanent, mărturie a acestui moment fondator al generației circumcise."
       },
       {
        "t": " "
       },
       {
-       "t": "până în ziua de astăzi.",
-       "w": "până în ziua de astăzi.",
-       "heb": "עַד הַיּוֹם הַזֶּה",
-       "translit": "ad haiom haze",
+       "t": "până în ziua",
+       "w": "până în ziua",
+       "heb": "עַד הַיּוֹם",
+       "translit": "ad haiom",
+       "strong": "H3117",
+       "pos": "prepoziție + substantiv, masculin singular",
+       "def_ro": "până la ziua (ad haiom)",
+       "dict_ro": "Numele Ghilgal rămâne permanent, mărturie a acestui moment fondator al generației circumcise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de astăzi.",
+       "w": "de astăzi.",
+       "heb": "הַזֶּה",
+       "translit": "haze",
        "strong": "H2088",
-       "pos": "prepoziție + substantiv, masculin singular + pronume demonstrativ",
-       "def_ro": "până în ziua aceasta. (ad haiom haze)",
-       "dict_ro": "Formulă standard care confirmă persistența numelui topografic până la vremea redactării textului biblic."
+       "pos": "pronume demonstrativ",
+       "def_ro": "aceasta. (haze)",
+       "dict_ro": "Numele Ghilgal rămâne permanent, mărturie a acestui moment fondator al generației circumcise."
       }
      ],
      "textCompare": [
@@ -39178,17 +39582,27 @@
      "translit": "Vaiahanu venei-Israel ba'Ghilgal vaiasu et-hapesah bearbaa asar iom lahodeș baerev bearvot Ieriho.",
      "tokens": [
       {
-       "t": "Iar "
+       "t": "Iar copiii",
+       "w": "Iar copiii",
+       "heb": "בְנֵי",
+       "translit": "venē",
+       "strong": "H1121",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "copiii (venē)",
+       "dict_ro": "Ghilgal devine locul primei celebrări a Paștelui în Țara Promisă, chiar la trecerea generației în pustie."
       },
       {
-       "t": "copiii lui Israel",
-       "w": "copiii lui Israel",
-       "heb": "בְנֵי יִשְׂרָאֵל",
-       "translit": "venē israēl",
+       "t": " "
+      },
+      {
+       "t": "lui Israel",
+       "w": "lui Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "substantiv, masculin plural construct + nume propriu",
-       "def_ro": "copiii lui Israel (venē israēl)",
-       "dict_ro": "Subiectul colectiv care își instalează tabăra în noua locație."
+       "pos": "nume propriu",
+       "def_ro": "lui Israel (israēl)",
+       "dict_ro": "Ghilgal devine locul primei celebrări a Paștelui în Țara Promisă."
       },
       {
        "t": " "
@@ -39200,8 +39614,8 @@
        "translit": "vaiahanu",
        "strong": "H2583",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și-au așezat tabăra (vaiahanu)",
-       "dict_ro": "Locul care tocmai primise numele în versetul precedent devine tabăra de bază pentru prima jertfă de Paște în Țara Promisă."
+       "def_ro": "și-au tăbărât (vaiahanu)",
+       "dict_ro": "Ghilgal devine locul primei celebrări a Paștelui în Țara Promisă."
       },
       {
        "t": " "
@@ -39214,7 +39628,7 @@
        "strong": "H1537",
        "pos": "nume propriu",
        "def_ro": "în Ghilgal (bagilgal)",
-       "dict_ro": "Locația exactă a noii tabere, recent numită."
+       "dict_ro": "Ghilgal devine locul primei celebrări a Paștelui în Țara Promisă, chiar la trecerea generației în pustie."
       },
       {
        "t": " "
@@ -39227,7 +39641,7 @@
        "strong": "H6213",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și au făcut (vaiaasu)",
-       "dict_ro": "Verbul central al celebrării jertfei de Paște."
+       "dict_ro": "Ghilgal devine locul primei celebrări a Paștelui în Țara Promisă, chiar la trecerea generației în pustie."
       },
       {
        "t": " "
@@ -39240,7 +39654,7 @@
        "strong": "H6453",
        "pos": "substantiv, masculin singular",
        "def_ro": "Paștele (hapesah)",
-       "dict_ro": "Primul Paște sărbătorit efectiv în țara moștenirii, după patruzeci de ani de rătăcire în pustie."
+       "dict_ro": "Ghilgal devine locul primei celebrări a Paștelui în Țara Promisă, chiar la trecerea generației în pustie."
       },
       {
        "t": " "
@@ -39252,21 +39666,34 @@
        "translit": "bearbaa asar",
        "strong": "H6240",
        "pos": "numeral + numeral",
-       "def_ro": "în a paisprezecea (bearbaa asar)",
-       "dict_ro": "Precizează numărul exact al zilei prescrise pentru jertfa de Paște."
+       "def_ro": "în paisprezece (bearbaa asar)",
+       "dict_ro": "Precizarea exactă a datei leagă Paștele de Ghilgal de calendarul standard al sărbătorii."
       },
       {
        "t": " "
       },
       {
-       "t": "zi a lunii,",
-       "w": "zi a lunii,",
-       "heb": "יוֹם לַחֹדֶשׁ",
-       "translit": "iom lahodeș",
+       "t": "zi",
+       "w": "zi",
+       "heb": "יוֹם",
+       "translit": "iom",
+       "strong": "H3117",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "zi (iom)",
+       "dict_ro": "Precizarea exactă a datei leagă Paștele de Ghilgal de calendarul standard al sărbătorii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a lunii,",
+       "w": "a lunii,",
+       "heb": "לַחֹדֶשׁ",
+       "translit": "lahodeș",
        "strong": "H2320",
-       "pos": "substantiv, masculin singular + substantiv, masculin singular",
-       "def_ro": "zi a lunii, (iom lahodeș)",
-       "dict_ro": "Data exactă prescrisă de Lege pentru jertfa de Paște, respectată cu precizie la această primă celebrare în Canaan."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "la lună, (lahodeș)",
+       "dict_ro": "Precizarea exactă a datei leagă Paștele de Ghilgal de calendarul standard al sărbătorii."
       },
       {
        "t": " "
@@ -39279,20 +39706,33 @@
        "strong": "H6153",
        "pos": "substantiv, masculin singular",
        "def_ro": "seara, (baerev)",
-       "dict_ro": "Momentul exact al zilei prescris pentru jertfă."
+       "dict_ro": "Precizarea exactă a datei leagă Paștele de Ghilgal de calendarul standard al sărbătorii."
       },
       {
        "t": " "
       },
       {
-       "t": "în câmpiile Ierihonului.",
-       "w": "în câmpiile Ierihonului.",
-       "heb": "בְּעַרְבוֹת יְרִיחוֹ",
-       "translit": "bearvot ieriho",
+       "t": "în câmpiile",
+       "w": "în câmpiile",
+       "heb": "בְּעַרְבוֹת",
+       "translit": "bearvot",
+       "strong": "H6160",
+       "pos": "substantiv, feminin plural construct",
+       "def_ro": "în câmpiile (bearvot)",
+       "dict_ro": "Câmpiile Ierihonului, lângă cetatea încă neconquerită, confirmă proximitatea geografică a primei etape din cucerire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Ierihonului.",
+       "w": "Ierihonului.",
+       "heb": "יְרִיחוֹ",
+       "translit": "ieriho",
        "strong": "H3405",
-       "pos": "substantiv, feminin plural construct + nume propriu",
-       "def_ro": "în câmpiile Ierihonului. (bearvot ieriho)",
-       "dict_ro": "Localizarea geografică precisă, confirmând proximitatea taberei de orașul care urma să fie cucerit."
+       "pos": "nume propriu",
+       "def_ro": "Ierihonului. (ieriho)",
+       "dict_ro": "Câmpiile Ierihonului, lângă cetatea încă neconquerită, confirmă proximitatea geografică a primei etape din cucerire."
       }
      ],
      "textCompare": [
@@ -39328,34 +39768,60 @@
        "translit": "vaiohlu",
        "strong": "H398",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "au mâncat (vaiohlu)",
-       "dict_ro": "Verbul central al primei hrane locale consumate de popor."
+       "def_ro": "și au mâncat (vaiohlu)",
+       "dict_ro": "Hrana locală, disponibilă imediat după intrarea în țară, marchează tranziția de la mana pustiei la roadele Canaanului."
       },
       {
        "t": " "
       },
       {
-       "t": "din grânele vechi ale țării,",
-       "w": "din grânele vechi ale țării,",
-       "heb": "מֵעֲבוּר הָאָרֶץ",
-       "translit": "mēavur haareț",
+       "t": "din grânele vechi",
+       "w": "din grânele vechi",
+       "heb": "מֵעֲבוּר",
+       "translit": "mēavur",
+       "strong": "H5669",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "din rodul (mēavur)",
+       "dict_ro": "Hrana locală, disponibilă imediat după intrarea în țară, marchează tranziția de la mana pustiei la roadele Canaanului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ale țării,",
+       "w": "ale țării,",
+       "heb": "הָאָרֶץ",
+       "translit": "haareț",
        "strong": "H776",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular",
-       "def_ro": "din grânele vechi ale țării, (mēavur haareț)",
-       "dict_ro": "Radak: «grânele vechi» proveneau probabil de la comercianții din popoarele vecine, întrucât recolta nouă a țării nu era încă permisă înainte de aducerea snopului de legănare."
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "țării, (haareț)",
+       "dict_ro": "Hrana locală, disponibilă imediat după intrarea în țară, marchează tranziția de la mana pustiei la roadele Canaanului."
       },
       {
        "t": " "
       },
       {
-       "t": "din ziua de după jertfa de Paște,",
-       "w": "din ziua de după jertfa de Paște,",
-       "heb": "מִמָּחֳרַת הַפֶּסַח",
-       "translit": "mimahorat hapesah",
+       "t": "din ziua de după",
+       "w": "din ziua de după",
+       "heb": "מִמָּחֳרַת",
+       "translit": "mimahorat",
+       "strong": "H4283",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "din ziua de după (mimahorat)",
+       "dict_ro": "Precizarea exactă a datei confirmă legătura directă dintre sărbătorirea Paștelui și hrana nouă a țării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "jertfa de Paște,",
+       "w": "jertfa de Paște,",
+       "heb": "הַפֶּסַח",
+       "translit": "hapesah",
        "strong": "H6453",
-       "pos": "substantiv, feminin singular construct + substantiv, masculin singular",
-       "def_ro": "din ziua de după Paște, (mimahorat hapesah)",
-       "dict_ro": "Rashi identifică această zi cu ziua aducerii Omerului, 16 Nisan, ziua când recolta nouă devenea permisă."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Paște, (hapesah)",
+       "dict_ro": "Precizarea exactă a datei confirmă legătura directă dintre sărbătorirea Paștelui și hrana nouă a țării."
       },
       {
        "t": " "
@@ -39368,7 +39834,7 @@
        "strong": "H4682",
        "pos": "substantiv, feminin plural",
        "def_ro": "azime (mațot)",
-       "dict_ro": "Primul element al hranei consumate, conform prescripției sărbătorii."
+       "dict_ro": "Azimele, interzicerea aluatului dospit, rămân semnul distinctiv al sărbătorii, respectat chiar la Ghilgal."
       },
       {
        "t": " "
@@ -39381,7 +39847,7 @@
        "strong": "H7033",
        "pos": "verb, qal participiu pasiv",
        "def_ro": "și prăjit, (vekalui)",
-       "dict_ro": "Confirmarea respectării prescripției de a consuma azime în perioada sărbătorii, combinate cu boabe prăjite, hrană tradițională simplă."
+       "dict_ro": "Grâul copt, hrana imediată din recolta locală, confirmă disponibilitatea rapidă a resurselor Canaanului."
       },
       {
        "t": " "
@@ -39393,8 +39859,8 @@
        "translit": "beețem haiom haze",
        "strong": "H2088",
        "pos": "substantiv, feminin singular construct + substantiv, masculin singular + pronume demonstrativ",
-       "def_ro": "în chiar ziua aceasta. (beețem haiom haze)",
-       "dict_ro": "Precizarea exactă a momentului, subliniind precizia cronologică a narațiunii."
+       "def_ro": "chiar în ziua aceasta. (beețem haiom haze)",
+       "dict_ro": "Precizarea exactă a datei confirmă rapiditatea tranziției de la mana pustiei la hrana țării."
       }
      ],
      "textCompare": [
@@ -39432,7 +39898,7 @@
        "strong": "H4478",
        "pos": "substantiv, masculin singular",
        "def_ro": "mana (haman)",
-       "dict_ro": "Subiectul încetării hranei miraculoase din pustie."
+       "dict_ro": "Încetarea manei marchează definitiv sfârșitul perioadei pustiei, odată cu disponibilitatea hranei locale."
       },
       {
        "t": " "
@@ -39444,8 +39910,8 @@
        "translit": "vaișbot",
        "strong": "H7673",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "s-a încetat (vaișbot)",
-       "dict_ro": "Momentul simbolic al încheierii definitive a hranei miraculoase din pustie, exact odată cu intrarea în noua etapă de viață stabilă în țară."
+       "def_ro": "și a încetat (vaișbot)",
+       "dict_ro": "Încetarea manei marchează definitiv sfârșitul perioadei pustiei, odată cu disponibilitatea hranei locale."
       },
       {
        "t": " "
@@ -39457,8 +39923,8 @@
        "translit": "mimahorat",
        "strong": "H4283",
        "pos": "substantiv, feminin singular",
-       "def_ro": "în ziua următoare, (mimahorat)",
-       "dict_ro": "Reperul temporal exact al încetării manei, imediat după prima hrană locală."
+       "def_ro": "de dimineață, (mimahorat)",
+       "dict_ro": "Încetarea manei marchează definitiv sfârșitul perioadei pustiei."
       },
       {
        "t": " "
@@ -39470,34 +39936,60 @@
        "translit": "beahlam",
        "strong": "H398",
        "pos": "verb, qal infinitiv + sufix",
-       "def_ro": "când au mâncat (beahlam)",
-       "dict_ro": "Confirmă coincidența precisă dintre încetarea manei și disponibilitatea hranei locale."
+       "def_ro": "la mâncarea lor (beahlam)",
+       "dict_ro": "Încetarea manei marchează definitiv sfârșitul perioadei pustiei, odată cu disponibilitatea hranei locale."
       },
       {
        "t": " "
       },
       {
-       "t": "din grânele vechi ale țării.",
-       "w": "din grânele vechi ale țării.",
-       "heb": "מֵעֲבוּר הָאָרֶץ",
-       "translit": "mēavur haareț",
+       "t": "din grânele vechi",
+       "w": "din grânele vechi",
+       "heb": "מֵעֲבוּר",
+       "translit": "mēavur",
+       "strong": "H5669",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "din rodul (mēavur)",
+       "dict_ro": "Încetarea manei marchează definitiv sfârșitul perioadei pustiei, odată cu disponibilitatea hranei locale."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ale țării.",
+       "w": "ale țării.",
+       "heb": "הָאָרֶץ",
+       "translit": "haareț",
        "strong": "H776",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular",
-       "def_ro": "din grânele vechi ale țării. (mēavur haareț)",
-       "dict_ro": "Reluarea exactă a hranei locale care a înlocuit mana."
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "țării. (haareț)",
+       "dict_ro": "Încetarea manei marchează definitiv sfârșitul perioadei pustiei, odată cu disponibilitatea hranei locale."
       },
       {
        "t": " "
       },
       {
-       "t": "Copiii lui Israel",
-       "w": "Copiii lui Israel",
-       "heb": "לִבְנֵי יִשְׂרָאֵל",
-       "translit": "livnē israēl",
+       "t": "Copiii",
+       "w": "Copiii",
+       "heb": "לִבְנֵי",
+       "translit": "livnē",
+       "strong": "H1121",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "fiii (livnē)",
+       "dict_ro": "Formula finală confirmă explicit: mana a încetat definitiv, fără posibilitate de revenire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui Israel",
+       "w": "lui Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "substantiv, masculin plural construct + nume propriu",
-       "def_ro": "copiilor lui Israel (livnē israēl)",
-       "dict_ro": "Subiectul colectiv care încheie dependența de mana cerească."
+       "pos": "nume propriu",
+       "def_ro": "lui Israel (israēl)",
+       "dict_ro": "Formula finală confirmă explicit: mana a încetat definitiv, fără posibilitate de revenire."
       },
       {
        "t": " "
@@ -39509,8 +40001,8 @@
        "translit": "velo haia",
        "strong": "H1961",
        "pos": "particulă negativă + verb, qal perfect",
-       "def_ro": "și nu mai era (velo haia)",
-       "dict_ro": "Rashi folosește o pildă pentru a explica logica firească — un copil mănâncă pâine de orz doar pentru că nu are pâine de grâu; odată disponibilă hrana obișnuită, mana devine inutilă."
+       "def_ro": "și nu a fost mai (velo haia od)",
+       "dict_ro": "Formula finală confirmă explicit: mana a încetat definitiv, fără posibilitate de revenire."
       },
       {
        "t": " "
@@ -39522,8 +40014,8 @@
        "translit": "man",
        "strong": "H4478",
        "pos": "substantiv, masculin singular",
-       "def_ro": "mană (man)",
-       "dict_ro": "Obiectul absenței, hrana miraculoasă care încetase definitiv."
+       "def_ro": "mană, (man)",
+       "dict_ro": "Formula finală confirmă explicit: mana a încetat definitiv, fără posibilitate de revenire."
       },
       {
        "t": " "
@@ -39536,20 +40028,46 @@
        "strong": "H398",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și au mâncat (vaiohlu)",
-       "dict_ro": "Verbul care confirmă trecerea definitivă la hrana naturală a Țării Promise."
+       "dict_ro": "Roadele Canaanului înlocuiesc definitiv hrana miraculoasă din pustie, semn al intrării depline în Țara Promisă."
       },
       {
        "t": " "
       },
       {
-       "t": "din roadele țării Canaanului",
-       "w": "din roadele țării Canaanului",
-       "heb": "מִתְּבוּאַת אֶרֶץ כְּנַעַן",
-       "translit": "mitvuat ereț kenaan",
+       "t": "din roadele",
+       "w": "din roadele",
+       "heb": "מִתְּבוּאַת",
+       "translit": "mitvuat",
+       "strong": "H8393",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "din rodul (mitvuat)",
+       "dict_ro": "Roadele Canaanului înlocuiesc definitiv hrana miraculoasă din pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "țării",
+       "w": "țării",
+       "heb": "אֶרֶץ",
+       "translit": "ereț",
+       "strong": "H776",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "țării (ereț)",
+       "dict_ro": "Roadele Canaanului înlocuiesc definitiv hrana miraculoasă din pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Canaanului",
+       "w": "Canaanului",
+       "heb": "כְּנַעַן",
+       "translit": "kenaan",
        "strong": "H3667",
-       "pos": "substantiv, feminin singular construct + substantiv, masculin și feminin singular construct + nume propriu",
-       "def_ro": "din roada țării Canaanului (mitvuat ereț kenaan)",
-       "dict_ro": "Încheie simbolic era pustiei — poporul trece definitiv la hrana naturală a Țării Promise."
+       "pos": "nume propriu",
+       "def_ro": "Canaanului (kenaan)",
+       "dict_ro": "Roadele Canaanului înlocuiesc definitiv hrana miraculoasă din pustie, semn al intrării depline în Țara Promisă."
       },
       {
        "t": " "
@@ -39562,7 +40080,7 @@
        "strong": "H1931",
        "pos": "substantiv, feminin singular + pronume personal",
        "def_ro": "în anul acela. (bașana hahi)",
-       "dict_ro": "Reperul temporal final al tranziției complete de la mană la hrana locală."
+       "dict_ro": "Roadele Canaanului înlocuiesc definitiv hrana miraculoasă din pustie, semn al intrării depline în Țara Promisă."
       }
      ],
      "textCompare": [
@@ -39599,8 +40117,8 @@
        "translit": "vaihi bihiot",
        "strong": "H1961",
        "pos": "verb, qal imperfect consecutiv + verb, qal infinitiv",
-       "def_ro": "și a fost, când a fost (vaihi bihiot)",
-       "dict_ro": "Formula standard introductivă a unei narațiuni noi, marcând trecerea la episodul îngerului."
+       "def_ro": "și a fost, în a fi (vaihi bihiot)",
+       "dict_ro": "Apariția bărbatului cu sabia scoasă, înaintea Ierihonului, pregătește una dintre cele mai misterioase teofanii ale cărții."
       },
       {
        "t": " "
@@ -39613,7 +40131,7 @@
        "strong": "H3091",
        "pos": "nume propriu",
        "def_ro": "Ioșua (iehoșua)",
-       "dict_ro": "Subiectul central al episodului vizual care urmează."
+       "dict_ro": "Apariția bărbatului cu sabia scoasă, înaintea Ierihonului, pregătește una dintre cele mai misterioase teofanii ale cărții."
       },
       {
        "t": " "
@@ -39626,20 +40144,33 @@
        "strong": "H3405",
        "pos": "nume propriu",
        "def_ro": "în Ierihon, (biriho)",
-       "dict_ro": "Rashi, bazat pe acest verset: expresia «în Ierihon» se referă de fapt la împrejurimile orașului (teritoriul «ibur ha'ir»), nu la interiorul cetății încă nedeschisă."
+       "dict_ro": "Apariția bărbatului cu sabia scoasă, înaintea Ierihonului, pregătește una dintre cele mai misterioase teofanii ale cărții."
       },
       {
        "t": " "
       },
       {
-       "t": "și-a ridicat ochii",
-       "w": "și-a ridicat ochii",
-       "heb": "וַיִּשָּׂא עֵינָיו",
-       "translit": "vaisa ēnaiv",
+       "t": "și-a ridicat",
+       "w": "și-a ridicat",
+       "heb": "וַיִּשָּׂא",
+       "translit": "vaisa",
+       "strong": "H5375",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a ridicat (vaisa)",
+       "dict_ro": "Apariția bărbatului cu sabia scoasă, înaintea Ierihonului, pregătește una dintre cele mai misterioase teofanii ale cărții."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ochii",
+       "w": "ochii",
+       "heb": "עֵינָיו",
+       "translit": "ēnaiv",
        "strong": "H5869",
-       "pos": "verb, qal imperfect consecutiv + substantiv, masculin și feminin dual construct + sufix",
-       "def_ro": "și-a ridicat ochii lui (vaisa ēnaiv)",
-       "dict_ro": "Formulă standard pentru o viziune bruscă, neașteptată, care marchează o revelație importantă."
+       "pos": "substantiv, masculin și feminin dual construct + sufix",
+       "def_ro": "ochii lui (ēnaiv)",
+       "dict_ro": "Apariția bărbatului cu sabia scoasă, înaintea Ierihonului, pregătește una dintre cele mai misterioase teofanii ale cărții."
       },
       {
        "t": " "
@@ -39652,7 +40183,7 @@
        "strong": "H7200",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a văzut (vaiar)",
-       "dict_ro": "Confirmă percepția directă, vizuală, a figurii misterioase care urmează."
+       "dict_ro": "Apariția bărbatului cu sabia scoasă, înaintea Ierihonului, pregătește una dintre cele mai misterioase teofanii ale cărții."
       },
       {
        "t": " "
@@ -39665,7 +40196,7 @@
        "strong": "H2009",
        "pos": "particulă demonstrativă",
        "def_ro": "și iată, (vehinē)",
-       "dict_ro": "Particula demonstrativă anunță apariția bruscă a figurii necunoscute."
+       "dict_ro": "Apariția bărbatului cu sabia scoasă, înaintea Ierihonului, pregătește una dintre cele mai misterioase teofanii ale cărții."
       },
       {
        "t": " "
@@ -39677,8 +40208,8 @@
        "translit": "iș",
        "strong": "H376",
        "pos": "substantiv, masculin singular",
-       "def_ro": "un bărbat (iș)",
-       "dict_ro": "Figura misterioasă, identificată abia în versetul următor, apare înaintea lui Ioșua chiar în preajma campaniei de cucerire."
+       "def_ro": "om (iș)",
+       "dict_ro": "Tradiția identifică figura cu arhanghelul Mihael, căpetenia oștirii cerești, conducătoare a bătăliilor lui Israel."
       },
       {
        "t": " "
@@ -39690,34 +40221,21 @@
        "translit": "omēd lenegdo",
        "strong": "H5048",
        "pos": "verb, qal participiu + prepoziție + sufix",
-       "def_ro": "stătea înaintea lui (omēd lenegdo)",
-       "dict_ro": "Poziția exactă a figurii necunoscute, direct în fața lui Ioșua."
+       "def_ro": "stând înaintea lui (omēd lenegdo)",
+       "dict_ro": "Tradiția identifică figura cu arhanghelul Mihael, căpetenia oștirii cerești."
       },
       {
        "t": " "
       },
       {
-       "t": "cu sabia",
-       "w": "cu sabia",
-       "heb": "וְחַרְבּוֹ",
-       "translit": "veharbo",
-       "strong": "H2719",
-       "pos": "substantiv, feminin singular construct + sufix",
-       "def_ro": "și sabia lui (veharbo)",
-       "dict_ro": "Primul element al descrierii amenințătoare a figurii."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "scoasă",
-       "w": "scoasă",
-       "heb": "שְׁלוּפָה",
-       "translit": "șelufa",
+       "t": "cu sabia scoasă",
+       "w": "cu sabia scoasă",
+       "heb": "וְחַרְבּוֹ שְׁלוּפָה",
+       "translit": "veharbo șelufa",
        "strong": "H8025",
-       "pos": "verb, qal participiu pasiv",
-       "def_ro": "scoasă (șelufa)",
-       "dict_ro": "Radak compară cu apariția similară a îngerului care s-a luptat cu Iacov — o figură de putere și luptă, pregătind simbolic victoria militară iminentă."
+       "pos": "substantiv, feminin singular construct + sufix + verb, qal participiu pasiv",
+       "def_ro": "și sabia lui scoasă (veharbo șelufa)",
+       "dict_ro": "Sabia scoasă confirmă caracterul militar, războinic, al acestei figuri cerești."
       },
       {
        "t": " "
@@ -39730,7 +40248,7 @@
        "strong": "H3027",
        "pos": "substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "în mâna lui. (beiado)",
-       "dict_ro": "Poziția exactă a sabiei, confirmând postura de luptă a figurii."
+       "dict_ro": "Sabia scoasă confirmă caracterul militar, războinic, al acestei figuri cerești."
       },
       {
        "t": " "
@@ -39743,7 +40261,7 @@
        "strong": "H3091",
        "pos": "nume propriu",
        "def_ro": "Ioșua (iehoșua)",
-       "dict_ro": "Subiectul care inițiază abordarea directă a figurii necunoscute."
+       "dict_ro": "Ioșua se îndreaptă direct spre figura necunoscută, pentru a clarifica identitatea și intențiile ei."
       },
       {
        "t": " "
@@ -39755,8 +40273,8 @@
        "translit": "vaiēleh",
        "strong": "H3212",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "a mers (vaiēleh)",
-       "dict_ro": "Confirmă curajul și inițiativa lui Ioșua, care se apropie direct de figura necunoscută, fără teamă."
+       "def_ro": "și a mers (vaiēleh)",
+       "dict_ro": "Ioșua se îndreaptă direct spre figura necunoscută, pentru a clarifica identitatea și intențiile ei."
       },
       {
        "t": " "
@@ -39769,7 +40287,7 @@
        "strong": "H413",
        "pos": "prepoziție + sufix",
        "def_ro": "la el (ēlaiv)",
-       "dict_ro": "Direcția exactă a abordării lui Ioșua."
+       "dict_ro": "Ioșua se îndreaptă direct spre figura necunoscută, pentru a clarifica identitatea și intențiile ei."
       },
       {
        "t": " "
@@ -39777,12 +40295,12 @@
       {
        "t": "și i-a spus:",
        "w": "și i-a spus:",
-       "heb": "וַיֹּאמֶר",
-       "translit": "vaiomer",
-       "strong": "H559",
-       "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și i-a spus: (vaiomer)",
-       "dict_ro": "Introduce întrebarea directă a lui Ioșua."
+       "heb": "וַיֹּאמֶר לוֹ",
+       "translit": "vaiomer lo",
+       "strong": "",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
+       "def_ro": "și a spus lui: (vaiomer lo)",
+       "dict_ro": "Ioșua se îndreaptă direct spre figura necunoscută, pentru a clarifica identitatea și intențiile ei."
       },
       {
        "t": " "
@@ -39794,8 +40312,8 @@
        "translit": "halanu ata",
        "strong": "H859",
        "pos": "prepoziție + sufix + pronume personal",
-       "def_ro": "„al nostru ești tu (halanu ata)",
-       "dict_ro": "Întrebarea practică, militară, a unui conducător care trebuie să stabilească rapid alianțele."
+       "def_ro": "nouă [ești] tu (halanu ata)",
+       "dict_ro": "Întrebarea directă a lui Ioșua stabilește imediat natura prietenoasă sau ostilă a figurii cerești."
       },
       {
        "t": " "
@@ -39807,8 +40325,8 @@
        "translit": "im lețarēnu",
        "strong": "H6862",
        "pos": "conjuncție + substantiv, masculin plural construct + sufix",
-       "def_ro": "sau al vrăjmașilor noștri?” (im lețarēnu)",
-       "dict_ro": "Completează întrebarea directă, esențială pentru strategia campaniei de cucerire."
+       "def_ro": "sau vrăjmașilor noștri? (im lețarēnu)",
+       "dict_ro": "Întrebarea directă a lui Ioșua stabilește imediat natura prietenoasă sau ostilă a figurii cerești."
       }
      ],
      "textCompare": [
@@ -39846,7 +40364,7 @@
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a spus: (vaiomer)",
-       "dict_ro": "Corectează presupunerea implicită a lui Ioșua că figura ar fi un simplu combatant omenesc."
+       "dict_ro": "Răspunsul figurii cerești nu alege niciuna din cele două opțiuni oferite, ci revelează o autoritate superioară amândurora."
       },
       {
        "t": " "
@@ -39858,8 +40376,8 @@
        "translit": "lo",
        "strong": "H3808",
        "pos": "particulă negativă",
-       "def_ro": "„nu, (lo)",
-       "dict_ro": "Negația imediată a presupunerii militare a lui Ioșua."
+       "def_ro": "nu, (lo)",
+       "dict_ro": "Răspunsul figurii cerești nu alege niciuna din cele două opțiuni oferite, ci revelează o autoritate superioară amândurora."
       },
       {
        "t": " "
@@ -39872,7 +40390,7 @@
        "strong": "H589",
        "pos": "conjuncție + pronume personal",
        "def_ro": "căci eu (ki ani)",
-       "dict_ro": "Introduce identificarea exactă a figurii necunoscute."
+       "dict_ro": "Răspunsul figurii cerești nu alege niciuna din cele două opțiuni oferite, ci revelează o autoritate superioară amândurora."
       },
       {
        "t": " "
@@ -39885,33 +40403,59 @@
        "strong": "H8269",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "căpetenia (sar)",
-       "dict_ro": "Primul termen al titlului de autoritate al figurii."
+       "dict_ro": "Identitatea revelată — căpetenia oștirii DOMNULUI — confirmă caracterul ceresc, divin trimis, al figurii."
       },
       {
        "t": " "
       },
       {
-       "t": "oștirii DOMNULUI,",
-       "w": "oștirii DOMNULUI,",
-       "heb": "צְבָא יְהוָה",
-       "translit": "țeva Adonai",
+       "t": "oștirii",
+       "w": "oștirii",
+       "heb": "צְבָא",
+       "translit": "țeva",
+       "strong": "H6635",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "oștirii (țeva)",
+       "dict_ro": "Identitatea revelată — căpetenia oștirii DOMNULUI — confirmă caracterul ceresc, divin trimis, al figurii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin și feminin singular construct + nume propriu",
-       "def_ro": "oștirii DOMNULUI, (țeva Adonai)",
-       "dict_ro": "Radak identifică această figură cu îngerul Mihail, numit «marea căpetenie» în Daniel 10:21 — un trimis ceresc cu autoritate asupra «oștirii» spirituale a lui Israel."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Identitatea revelată — căpetenia oștirii DOMNULUI — confirmă caracterul ceresc, divin trimis, al figurii."
       },
       {
        "t": " "
       },
       {
-       "t": "acum am venit.”",
-       "w": "acum am venit.”",
-       "heb": "עַתָּה בָאתִי",
-       "translit": "ata vati",
+       "t": "acum",
+       "w": "acum",
+       "heb": "עַתָּה",
+       "translit": "ata",
+       "strong": "H6258",
+       "pos": "adverb",
+       "def_ro": "acum (ata)",
+       "dict_ro": "Momentul exact al apariției, chiar înainte de bătălia pentru Ierihon, confirmă rolul ei providențial."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "am venit.”",
+       "w": "am venit.”",
+       "heb": "בָאתִי",
+       "translit": "vati",
        "strong": "H935",
-       "pos": "adverb + verb, qal perfect",
-       "def_ro": "acum am venit.” (ata vati)",
-       "dict_ro": "Rashi: explicația pentru întârzierea aparentă a ajutorului divin — spre diferență de vremea lui Moise, când poporul nu merita încă sprijinul direct, acum momentul potrivit a sosit."
+       "pos": "verb, qal perfect",
+       "def_ro": "am venit. (vati)",
+       "dict_ro": "Momentul exact al apariției, chiar înainte de bătălia pentru Ierihon, confirmă rolul ei providențial."
       },
       {
        "t": " "
@@ -39924,33 +40468,20 @@
        "strong": "H3091",
        "pos": "nume propriu",
        "def_ro": "Ioșua (iehoșua)",
-       "dict_ro": "Subiectul gestului de reverență care urmează recunoașterii figurii cerești."
+       "dict_ro": "Reacția imediată a lui Ioșua — prosternare la pământ — confirmă recunoașterea instantanee a sfințeniei figurii."
       },
       {
        "t": " "
       },
       {
-       "t": "a căzut",
-       "w": "a căzut",
+       "t": "a căzut înaintea lui",
+       "w": "a căzut înaintea lui",
        "heb": "וַיִּפֹּל",
        "translit": "vaipol",
        "strong": "H5307",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "a căzut (vaipol)",
-       "dict_ro": "Verbul central al gestului de reverență imediată."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "înaintea lui",
-       "w": "înaintea lui",
-       "heb": "פָּנָיו",
-       "translit": "panaiv",
-       "strong": "H6440",
-       "pos": "substantiv, masculin și feminin plural construct + sufix",
-       "def_ro": "cu fața lui (panaiv)",
-       "dict_ro": "Poziția exactă a prosternării lui Ioșua."
+       "def_ro": "și a cădea (vaipol)",
+       "dict_ro": "Reacția imediată a lui Ioșua — prosternare la pământ — confirmă recunoașterea instantanee a sfințeniei figurii."
       },
       {
        "t": " "
@@ -39958,12 +40489,12 @@
       {
        "t": "la pământ",
        "w": "la pământ",
-       "heb": "אַרְצָה",
-       "translit": "arța",
-       "strong": "H776",
-       "pos": "substantiv, masculin și feminin singular",
-       "def_ro": "la pământ (arța)",
-       "dict_ro": "Confirmă totalitatea gestului de reverență, prosternarea completă."
+       "heb": "אֶל פָּנָיו",
+       "translit": "el panaiv",
+       "strong": "H6440",
+       "pos": "prepoziție + substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "la fața lui, la pământ (el panaiv arța)",
+       "dict_ro": "Reacția imediată a lui Ioșua — prosternare la pământ — confirmă recunoașterea instantanee a sfințeniei figurii."
       },
       {
        "t": " "
@@ -39971,12 +40502,12 @@
       {
        "t": "și s-a prosternat",
        "w": "și s-a prosternat",
-       "heb": "וַיִּשְׁתָּחוּ",
-       "translit": "vaiștahu",
-       "strong": "H7812",
-       "pos": "verb, hitpael imperfect consecutiv",
+       "heb": "אַרְצָה",
+       "translit": "arța",
+       "strong": "H776",
+       "pos": "substantiv, masculin și feminin singular",
        "def_ro": "și s-a prosternat (vaiștahu)",
-       "dict_ro": "Recunoașterea imediată a naturii sacre a figurii, printr-un gest de reverență totală."
+       "dict_ro": "Reacția imediată a lui Ioșua — prosternare la pământ — confirmă recunoașterea instantanee a sfințeniei figurii."
       },
       {
        "t": " "
@@ -39984,38 +40515,25 @@
       {
        "t": "și i-a spus:",
        "w": "și i-a spus:",
-       "heb": "וַיֹּאמֶר",
-       "translit": "vaiomer",
+       "heb": "וַיִּשְׁתָּחוּ וַיֹּאמֶר",
+       "translit": "vaiștahu vaiomer",
        "strong": "H559",
-       "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și i-a spus: (vaiomer)",
-       "dict_ro": "Introduce întrebarea smerită care urmează recunoașterii."
+       "pos": "verb, hitpael imperfect consecutiv + verb, qal imperfect consecutiv",
+       "def_ro": "și a spus lui: (vaiomer lo)",
+       "dict_ro": "Întrebarea smerită a lui Ioșua confirmă supunerea lui completă față de autoritatea cerească revelată."
       },
       {
        "t": " "
       },
       {
-       "t": "„Ce",
-       "w": "„Ce",
-       "heb": "מָה",
-       "translit": "ma",
+       "t": "„Ce spune",
+       "w": "„Ce spune",
+       "heb": "לוֹ מָה",
+       "translit": "lo ma",
        "strong": "H4100",
-       "pos": "particulă interogativă",
-       "def_ro": "„ce (ma)",
-       "dict_ro": "Particula interogativă care introduce întrebarea smerită."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "spune",
-       "w": "spune",
-       "heb": "מְדַבֵּר",
-       "translit": "medabēr",
-       "strong": "H1696",
-       "pos": "verb, piel participiu",
-       "def_ro": "spune (medabēr)",
-       "dict_ro": "Verbul central al întrebării de supunere."
+       "pos": "prepoziție + sufix + particulă interogativă",
+       "def_ro": "ce (ma)",
+       "dict_ro": "Întrebarea smerită a lui Ioșua confirmă supunerea lui completă față de autoritatea cerească revelată."
       },
       {
        "t": " "
@@ -40023,12 +40541,12 @@
       {
        "t": "stăpânul meu",
        "w": "stăpânul meu",
-       "heb": "אֲדֹנִי",
-       "translit": "adoni",
-       "strong": "H136",
-       "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "stăpânul meu (adoni)",
-       "dict_ro": "Titlul de respect prin care Ioșua se adresează figurii cerești."
+       "heb": "אֲדֹנִי מְדַבֵּר",
+       "translit": "adoni medabēr",
+       "strong": "H1696",
+       "pos": "substantiv, masculin singular construct + sufix + verb, piel participiu",
+       "def_ro": "stăpânul meu vorbește (adoni medabēr)",
+       "dict_ro": "Întrebarea smerită a lui Ioșua confirmă supunerea lui completă față de autoritatea cerească revelată."
       },
       {
        "t": " "
@@ -40036,12 +40554,12 @@
       {
        "t": "slujitorului său?”",
        "w": "slujitorului său?”",
-       "heb": "עַבְדּוֹ",
-       "translit": "avdo",
+       "heb": "אֶל עַבְדּוֹ",
+       "translit": "el avdo",
        "strong": "H5650",
-       "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "slujitorului său?” (avdo)",
-       "dict_ro": "Schimbarea completă de ton — de la întrebarea militară directă la o supunere smerită, recunoscând autoritatea divină a mesagerului."
+       "pos": "prepoziție + substantiv, masculin singular construct + sufix",
+       "def_ro": "către slujitorul lui?” (el avdo)",
+       "dict_ro": "Întrebarea smerită a lui Ioșua confirmă supunerea lui completă față de autoritatea cerească revelată."
       }
      ],
      "textCompare": [
@@ -40077,17 +40595,40 @@
      "translit": "Vaiomer sar-țeva ADONAI el-Iehoșua șal-naalhá meal ragleha ki hamakom așer ata omed alav kodeș hu vaias Iehoșua ken.",
      "tokens": [
       {
-       "t": "Iar "
+       "t": "Iar căpetenia",
+       "w": "Iar căpetenia",
+       "heb": "שַׂר",
+       "translit": "sar",
+       "strong": "H8269",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "căpetenia (sar)",
+       "dict_ro": "Căpetenia oștirii DOMNULUI dă lui Ioșua instrucțiunea exactă necesară pentru a sta pe locul sfânt."
       },
       {
-       "t": "căpetenia oștirii DOMNULUI",
-       "w": "căpetenia oștirii DOMNULUI",
-       "heb": "שַׂר צְבָא יְהוָה",
-       "translit": "sar țeva Adonai",
+       "t": " "
+      },
+      {
+       "t": "oștirii",
+       "w": "oștirii",
+       "heb": "צְבָא",
+       "translit": "țeva",
+       "strong": "H6635",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "oștirii (țeva)",
+       "dict_ro": "Căpetenia oștirii DOMNULUI dă lui Ioșua instrucțiunea exactă necesară pentru a sta pe locul sfânt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular construct + nume propriu",
-       "def_ro": "căpetenia oștirii DOMNULUI (sar țeva Adonai)",
-       "dict_ro": "Continuă dialogul direct, de data aceasta cu o poruncă specifică, nu doar o identificare."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Căpetenia oștirii DOMNULUI dă lui Ioșua instrucțiunea exactă necesară pentru a sta pe locul sfânt."
       },
       {
        "t": " "
@@ -40100,7 +40641,7 @@
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "a spus (vaiomer)",
-       "dict_ro": "Verbul poruncii specifice adresate lui Ioșua."
+       "dict_ro": "Căpetenia oștirii DOMNULUI dă lui Ioșua instrucțiunea exactă necesară pentru a sta pe locul sfânt."
       },
       {
        "t": " "
@@ -40108,12 +40649,12 @@
       {
        "t": "lui Ioșua:",
        "w": "lui Ioșua:",
-       "heb": "יְהוֹשֻׁעַ",
-       "translit": "iehoșua",
+       "heb": "אֶל יְהוֹשֻׁעַ",
+       "translit": "el iehoșua",
        "strong": "H3091",
-       "pos": "nume propriu",
-       "def_ro": "lui Ioșua: (iehoșua)",
-       "dict_ro": "Destinatarul direct al poruncii cerești."
+       "pos": "prepoziție + nume propriu",
+       "def_ro": "lui Ioșua: (el iehoșua)",
+       "dict_ro": "Căpetenia oștirii DOMNULUI dă lui Ioșua instrucțiunea exactă necesară pentru a sta pe locul sfânt."
       },
       {
        "t": " "
@@ -40125,8 +40666,8 @@
        "translit": "șal",
        "strong": "H5394",
        "pos": "verb, qal imperativ",
-       "def_ro": "„scoate (șal)",
-       "dict_ro": "Porunca imperativă care deschide instrucțiunea finală."
+       "def_ro": "scoate (șal)",
+       "dict_ro": "Porunca repetă exact porunca dată lui Moise la rugul aprins, confirmare a aceleiași sfințenii a locului."
       },
       {
        "t": " "
@@ -40139,7 +40680,7 @@
        "strong": "H5275",
        "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "încălțămintea ta (naalha)",
-       "dict_ro": "Paralelă directă cu porunca dată lui Moise la Rugul Aprins (Exod 3:5) — același gest de reverență cerut în fața sfințeniei locului."
+       "dict_ro": "Porunca repetă exact porunca dată lui Moise la rugul aprins, confirmare a aceleiași sfințenii a locului."
       },
       {
        "t": " "
@@ -40151,34 +40692,21 @@
        "translit": "mēal ragleha",
        "strong": "H7272",
        "pos": "prepoziție + substantiv, feminin singular construct + sufix",
-       "def_ro": "din piciorul tău, (mēal ragleha)",
-       "dict_ro": "Confirmă execuția exactă a gestului de reverență cerut."
+       "def_ro": "de pe piciorul tău, (mēal ragleha)",
+       "dict_ro": "Porunca repetă exact porunca dată lui Moise la rugul aprins, confirmare a aceleiași sfințenii a locului."
       },
       {
        "t": " "
       },
       {
-       "t": "căci",
-       "w": "căci",
-       "heb": "כִּי",
-       "translit": "ki",
-       "strong": "H3588",
-       "pos": "conjuncție",
-       "def_ro": "căci (ki)",
-       "dict_ro": "Introduce motivul exact al gestului de reverență cerut."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "locul",
-       "w": "locul",
-       "heb": "הַמָּקוֹם",
-       "translit": "hamakom",
+       "t": "căci locul",
+       "w": "căci locul",
+       "heb": "כִּי הַמָּקוֹם",
+       "translit": "ki hamakom",
        "strong": "H4725",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "locul (hamakom)",
-       "dict_ro": "Subiectul sfințeniei explicate în continuare."
+       "pos": "conjuncție + substantiv, masculin singular",
+       "def_ro": "căci locul (ki hamakom)",
+       "dict_ro": "Sfințenia locului, confirmată explicit, justifică porunca descălțării, semn de respect ritual."
       },
       {
        "t": " "
@@ -40190,8 +40718,8 @@
        "translit": "așer ata omēd",
        "strong": "H5975",
        "pos": "particulă relativă + pronume personal + verb, qal participiu",
-       "def_ro": "în care tu stai (așer ata omēd)",
-       "dict_ro": "Confirmă poziția exactă a lui Ioșua, pe locul declarat sfânt."
+       "def_ro": "pe care tu stai (așer ata omēd)",
+       "dict_ro": "Sfințenia locului, confirmată explicit, justifică porunca descălțării, semn de respect ritual."
       },
       {
        "t": " "
@@ -40203,8 +40731,8 @@
        "translit": "kodeș hu",
        "strong": "H1931",
        "pos": "substantiv, masculin singular + pronume personal",
-       "def_ro": "este sfânt el.” (kodeș hu)",
-       "dict_ro": "Radak: sfințenia derivă din prezența acestui mesager divin de rang înalt, nu dintr-o calitate permanentă a locului geografic."
+       "def_ro": "sfânt [este] el.” (kodeș hu)",
+       "dict_ro": "Sfințenia locului, confirmată explicit, justifică porunca descălțării, semn de respect ritual."
       },
       {
        "t": " "
@@ -40216,8 +40744,8 @@
        "translit": "iehoșua",
        "strong": "H3091",
        "pos": "nume propriu",
-       "def_ro": "și Ioșua (iehoșua)",
-       "dict_ro": "Subiectul ascultării imediate a poruncii cerești."
+       "def_ro": "Ioșua (iehoșua)",
+       "dict_ro": "Ascultarea imediată a lui Ioșua confirmă supunerea lui deplină față de autoritatea cerească revelate."
       },
       {
        "t": " "
@@ -40229,8 +40757,8 @@
        "translit": "vaiaas",
        "strong": "H6213",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "a făcut (vaiaas)",
-       "dict_ro": "Confirmă ascultarea imediată și totală a lui Ioșua, paralelă cu smerenia lui Moise."
+       "def_ro": "și a făcut (vaiaas)",
+       "dict_ro": "Ascultarea imediată a lui Ioșua confirmă supunerea lui deplină față de autoritatea cerească revelate."
       },
       {
        "t": " "
@@ -40243,7 +40771,7 @@
        "strong": "H3651",
        "pos": "particulă demonstrativă",
        "def_ro": "astfel. (kēn)",
-       "dict_ro": "Confirmarea finală a execuției exacte a poruncii primite."
+       "dict_ro": "Ascultarea imediată a lui Ioșua confirmă supunerea lui deplină față de autoritatea cerească revelate."
       }
      ],
      "textCompare": [
@@ -40285,7 +40813,7 @@
        "strong": "H3405",
        "pos": "nume propriu",
        "def_ro": "și Ierihonul (viriho)",
-       "dict_ro": "Subiectul stării de asediu descrise la începutul campaniei de cucerire."
+       "dict_ro": "Cetatea închisă complet pregătește direct minunea zidurilor prăbușite care urmează în restul capitolului 6."
       },
       {
        "t": " "
@@ -40297,8 +40825,8 @@
        "translit": "sogeret",
        "strong": "H5462",
        "pos": "verb, qal participiu",
-       "def_ro": "era închis (sogeret)",
-       "dict_ro": "Rashi: dubla expresie «închisă și baricadată» descrie porți legate cu zăvoare de fier și bare de bronz, o fortificare maximă."
+       "def_ro": "se închide (sogeret)",
+       "dict_ro": "Cetatea închisă complet pregătește direct minunea zidurilor prăbușite care urmează."
       },
       {
        "t": " "
@@ -40310,21 +40838,47 @@
        "translit": "umsugeret",
        "strong": "H5462",
        "pos": "verb, pual participiu pasiv",
-       "def_ro": "și baricadat (umsugeret)",
-       "dict_ro": "Al doilea termen al dublei fortificări, confirmând măsurile defensive extreme."
+       "def_ro": "și se baricadează (umsugeret)",
+       "dict_ro": "Cetatea închisă complet pregătește direct minunea zidurilor prăbușite care urmează."
       },
       {
        "t": " "
       },
       {
-       "t": "din pricina copiilor lui Israel,",
-       "w": "din pricina copiilor lui Israel,",
-       "heb": "מִפְּנֵי בְּנֵי יִשְׂרָאֵל",
-       "translit": "mipnē benē israēl",
+       "t": "din pricina",
+       "w": "din pricina",
+       "heb": "מִפְּנֵי",
+       "translit": "mipnē",
+       "strong": "H6440",
+       "pos": "substantiv, masculin și feminin plural construct",
+       "def_ro": "dinaintea (mipnē)",
+       "dict_ro": "Frica de copiii lui Israel justifică măsurile defensive extreme luate de Ierihon."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "copiilor",
+       "w": "copiilor",
+       "heb": "בְּנֵי",
+       "translit": "benē",
+       "strong": "H1121",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "copiilor (benē)",
+       "dict_ro": "Frica de copiii lui Israel justifică măsurile defensive extreme luate de Ierihon."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui Israel,",
+       "w": "lui Israel,",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin plural construct + nume propriu",
-       "def_ro": "din pricina copiilor lui Israel, (mipnē benē israēl)",
-       "dict_ro": "Confirmă motivul direct al măsurilor defensive extreme — frica provocată de apropierea taberei israelite."
+       "pos": "nume propriu",
+       "def_ro": "lui Israel, (israēl)",
+       "dict_ro": "Frica de copiii lui Israel justifică măsurile defensive extreme luate de Ierihon."
       },
       {
        "t": " "
@@ -40336,8 +40890,8 @@
        "translit": "ēn ioțē",
        "strong": "H3318",
        "pos": "particulă negativă + verb, qal participiu",
-       "def_ro": "nu era ieșind (ēn ioțē)",
-       "dict_ro": "Prima parte a formulei de izolare totală a cetății."
+       "def_ro": "nu [era] cel ce iese (ēn ioțē)",
+       "dict_ro": "Blocarea totală a circulației, în ambele direcții, confirmă izolarea completă a cetății."
       },
       {
        "t": " "
@@ -40349,8 +40903,8 @@
        "translit": "veēn ba",
        "strong": "H935",
        "pos": "particulă negativă + verb, qal participiu",
-       "def_ro": "și nu era venind. (veēn ba)",
-       "dict_ro": "Descrie izolarea totală a orașului asediat, pregătind contrastul dramatic cu căderea sa miraculoasă descrisă în restul capitolului."
+       "def_ro": "și nu [era] cel ce vine. (veēn ba)",
+       "dict_ro": "Blocarea totală a circulației, în ambele direcții, confirmă izolarea completă a cetății."
       }
      ],
      "textCompare": [
@@ -40381,43 +40935,40 @@
      "translit": "Vaihi ADONAI et-Iehoșua vaihi șomo behol-haareț.",
      "tokens": [
       {
-       "t": "Și "
-      },
-      {
-       "t": "DOMNUL",
-       "w": "DOMNUL",
+       "t": "Și DOMNUL",
+       "w": "Și DOMNUL",
        "heb": "יְהוָה",
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL (Adonai)",
-       "dict_ro": "Subiectul confirmării finale a prezenței divine continue."
+       "dict_ro": "Formula finală confirmă prezența continuă a DOMNULUI cu Ioșua, dincolo de minunea particulară a Ierihonului."
       },
       {
        "t": " "
       },
       {
-       "t": "a fost",
-       "w": "a fost",
-       "heb": "וַיְהִי",
-       "translit": "vaihi",
-       "strong": "H1961",
-       "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a fost (vaihi)",
-       "dict_ro": "Confirmarea finală, la încheierea cuceririi Ierihonului, a împlinirii promisiunii date la 3:7 — prezența divină continuă cu Ioșua, exact cum fusese cu Moise."
+       "t": "a fost cu",
+       "w": "a fost cu",
+       "heb": "וַיְהִי אֶת",
+       "translit": "vaihi et",
+       "strong": "H854",
+       "pos": "verb, qal imperfect consecutiv + prepoziție",
+       "def_ro": "și a fost cu (vaihi et)",
+       "dict_ro": "Formula finală confirmă prezența continuă a DOMNULUI cu Ioșua, dincolo de minunea particulară a Ierihonului."
       },
       {
        "t": " "
       },
       {
-       "t": "cu Ioșua,",
-       "w": "cu Ioșua,",
+       "t": "Ioșua,",
+       "w": "Ioșua,",
        "heb": "יְהוֹשֻׁעַ",
        "translit": "iehoșua",
        "strong": "H3091",
        "pos": "nume propriu",
-       "def_ro": "cu Ioșua, (iehoșua)",
-       "dict_ro": "Destinatarul prezenței divine confirmate la finalul episodului."
+       "def_ro": "Ioșua, (iehoșua)",
+       "dict_ro": "Formula finală confirmă prezența continuă a DOMNULUI cu Ioșua, dincolo de minunea particulară a Ierihonului."
       },
       {
        "t": " "
@@ -40425,12 +40976,12 @@
       {
        "t": "iar renumele lui",
        "w": "iar renumele lui",
-       "heb": "שָׁמְעוֹ",
-       "translit": "șamo",
+       "heb": "וַיְהִי שָׁמְעוֹ",
+       "translit": "vaihi șamo",
        "strong": "H8089",
-       "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "și faima lui (șamo)",
-       "dict_ro": "Subiectul recunoașterii publice a autorității lui Ioșua."
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular construct + sufix",
+       "def_ro": "și a fost auzul lui (vaihi șamo)",
+       "dict_ro": "Renumele lui Ioșua, răspândit în toată țara, confirmă public legitimitatea conducerii sale, exact cum fusese promis la 3:7."
       },
       {
        "t": " "
@@ -40438,12 +40989,12 @@
       {
        "t": "a străbătut",
        "w": "a străbătut",
-       "heb": "וַיְהִי",
-       "translit": "vaihi",
-       "strong": "H1961",
-       "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "a fost (vaihi)",
-       "dict_ro": "Verbul care confirmă extinderea renumelui lui Ioșua."
+       "heb": "בְּכָל",
+       "translit": "behal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "în toată (behal)",
+       "dict_ro": "Renumele lui Ioșua, răspândit în toată țara, confirmă public legitimitatea conducerii sale."
       },
       {
        "t": " "
@@ -40451,12 +41002,12 @@
       {
        "t": "țara.",
        "w": "țara.",
-       "heb": "בְּכָל הָאָרֶץ",
-       "translit": "behal haareț",
+       "heb": "הָאָרֶץ",
+       "translit": "haareț",
        "strong": "H776",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular",
-       "def_ro": "în toată țara. (behal haareț)",
-       "dict_ro": "Încheie capitolul cu confirmarea publică a autorității și reputației lui Ioșua, consolidată prin victoria miraculoasă asupra Ierihonului."
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "țara. (haareț)",
+       "dict_ro": "Renumele lui Ioșua, răspândit în toată țara, confirmă public legitimitatea conducerii sale, exact cum fusese promis la 3:7."
       }
      ],
      "textCompare": [
