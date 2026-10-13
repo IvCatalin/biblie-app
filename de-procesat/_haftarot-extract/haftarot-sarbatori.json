@@ -15073,7 +15073,7 @@
        "strong": "H3077",
        "pos": "nume propriu",
        "def_ro": "Iehoiada (iehoiada)",
-       "dict_ro": "Iehoiada, marele preot, acționează imediat după uciderea Ataliei și proclamarea lui Iehoaș ca rege — legământul reface ordinea religioasă și politică distrusă în timpul domniei usurpatoare."
+       "dict_ro": "Iehoiada, Marele Preot care l-a salvat pe Iehoaș și a condus răsturnarea Ataliei, inițiază legământul reînnoit."
       },
       {
        "t": " "
@@ -15085,8 +15085,8 @@
        "translit": "vaihrot",
        "strong": "H3772",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "a încheiat (vaihrot)",
-       "dict_ro": "Verbul „a tăia legământ” (karat berit) descrie actul solemn de instituire a unui acord sacru, sigilat ca printr-un sacrificiu."
+       "def_ro": "și a tăiat (vaihrot)",
+       "dict_ro": "Verbul «a tăia un legământ» e formula standard ebraică pentru încheierea solemnă a unui legământ."
       },
       {
        "t": " "
@@ -15099,7 +15099,7 @@
        "strong": "H1285",
        "pos": "substantiv, feminin singular",
        "def_ro": "legământul (habrit)",
-       "dict_ro": "Obiectul actului solemn al lui Iehoiada, care reface ordinea religioasă și politică distrusă de Atalia."
+       "dict_ro": "Legământul reînnoiește relația tripartită dintre DOMNUL, rege și popor, întreruptă de domnia idolatră a Ataliei."
       },
       {
        "t": " "
@@ -15112,7 +15112,7 @@
        "strong": "H996",
        "pos": "prepoziție",
        "def_ro": "între (bēn)",
-       "dict_ro": "Introduce primul dintre cei trei termeni ai legământului triplu: DOMNUL, regele și poporul."
+       "dict_ro": "Legământul reînnoiește relația tripartită dintre DOMNUL, rege și popor."
       },
       {
        "t": " "
@@ -15125,7 +15125,7 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL (Adonai)",
-       "dict_ro": "Rashi precizează ordinea semnificativă: mai întâi regele și poporul se angajează amândoi să slujească pe DOMNUL, și abia apoi se stabilește legământul separat dintre rege și popor."
+       "dict_ro": "Legământul reînnoiește relația tripartită dintre DOMNUL, rege și popor, întreruptă de domnia idolatră a Ataliei."
       },
       {
        "t": " "
@@ -15133,12 +15133,12 @@
       {
        "t": "și rege",
        "w": "și rege",
-       "heb": "וּבֵין הַמֶּלֶךְ",
-       "translit": "uvēn hameleh",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
        "strong": "H4428",
-       "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "și între rege (uvēn hameleh)",
-       "dict_ro": "Al doilea termen al legământului triplu, regele angajat alături de popor."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și regele (hameleh)",
+       "dict_ro": "Legământul reînnoiește relația tripartită dintre DOMNUL, rege și popor."
       },
       {
        "t": " "
@@ -15146,12 +15146,12 @@
       {
        "t": "și popor,",
        "w": "și popor,",
-       "heb": "וּבֵין הָעָם",
-       "translit": "uvēn haam",
+       "heb": "הָעָם",
+       "translit": "haam",
        "strong": "H5971",
-       "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "și între popor (uvēn haam)",
-       "dict_ro": "Al treilea termen, închizând formula triplă a legământului."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și poporul, (haam)",
+       "dict_ro": "Legământul reînnoiește relația tripartită dintre DOMNUL, rege și popor."
       },
       {
        "t": " "
@@ -15164,20 +15164,33 @@
        "strong": "H1961",
        "pos": "verb, qal infinitiv",
        "def_ro": "ca să fie (lihiot)",
-       "dict_ro": "Prima dimensiune a legământului — restaurarea fidelității religioase exclusive față de DOMNUL, după anii de idolatrie impuși de Atalia."
+       "dict_ro": "Scopul explicit al legământului: restaurarea statutului de popor consacrat al DOMNULUI."
       },
       {
        "t": " "
       },
       {
-       "t": "popor al DOMNULUI;",
-       "w": "popor al DOMNULUI;",
-       "heb": "לְעָם לַיהוָה",
-       "translit": "leam la'Adonai",
+       "t": "popor",
+       "w": "popor",
+       "heb": "לְעָם",
+       "translit": "leam",
+       "strong": "H5971",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "popor (leam)",
+       "dict_ro": "Scopul explicit al legământului: restaurarea statutului de popor consacrat al DOMNULUI."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "al DOMNULUI;",
+       "w": "al DOMNULUI;",
+       "heb": "לַיהוָה",
+       "translit": "la'Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular + nume propriu",
-       "def_ro": "popor al DOMNULUI (leam la'Adonai)",
-       "dict_ro": "Scopul primei dimensiuni a legământului: fidelitatea religioasă exclusivă."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI; (la'Adonai)",
+       "dict_ro": "Scopul explicit al legământului: restaurarea statutului de popor consacrat al DOMNULUI."
       },
       {
        "t": " "
@@ -15185,12 +15198,12 @@
       {
        "t": "și între rege",
        "w": "și între rege",
-       "heb": "וּבֵין הַמֶּלֶךְ",
-       "translit": "uvēn hameleh",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
        "strong": "H4428",
-       "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "și între rege (uvēn hameleh)",
-       "dict_ro": "A doua dimensiune — legământul politic, prin care poporul se angajează să slujească regelui, iar regele să lupte pentru popor, potrivit relației tradiționale rege-popor din Israel."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și între regele (hameleh)",
+       "dict_ro": "Un al doilea legământ, distinct, leagă direct regele de popor, bază a monarhiei restaurate."
       },
       {
        "t": " "
@@ -15198,12 +15211,12 @@
       {
        "t": "și popor.",
        "w": "și popor.",
-       "heb": "וּבֵין הָעָם",
-       "translit": "uvēn haam",
+       "heb": "הָעָם",
+       "translit": "haam",
        "strong": "H5971",
-       "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "și între popor (uvēn haam)",
-       "dict_ro": "Închide formula celei de-a doua dimensiuni, cea politică, a legământului triplu."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și poporul. (haam)",
+       "dict_ro": "Un al doilea legământ, distinct, leagă direct regele de popor, bază a monarhiei restaurate."
       }
      ],
      "textCompare": [
@@ -15251,7 +15264,7 @@
        "strong": "H3605",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "tot (hal)",
-       "dict_ro": "Subliniază amploarea participării populare la distrugerea cultului idolatru."
+       "dict_ro": "Participarea întregului popor confirmă caracterul popular, nu doar oficial, al distrugerii cultului lui Baal."
       },
       {
        "t": " "
@@ -15264,7 +15277,7 @@
        "strong": "H5971",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "poporul (am)",
-       "dict_ro": "Subiectul colectiv al distrugerii spontane a templului idolatru."
+       "dict_ro": "Participarea întregului popor confirmă caracterul popular, nu doar oficial, al distrugerii cultului lui Baal."
       },
       {
        "t": " "
@@ -15277,7 +15290,7 @@
        "strong": "H776",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "țării (haareț)",
-       "dict_ro": "Participarea populară masivă confirmă caracterul public și unanim susținut al restaurării monarhiei legitime."
+       "dict_ro": "Participarea întregului popor confirmă caracterul popular, nu doar oficial, al distrugerii cultului lui Baal."
       },
       {
        "t": " "
@@ -15290,20 +15303,33 @@
        "strong": "H935",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a venit (vaiavou)",
-       "dict_ro": "Prima faptă vizibilă a restaurării: distrugerea spontană, populară, a templului idolatru ridicat probabil chiar de Atalia și Ahab."
+       "dict_ro": "Participarea întregului popor confirmă caracterul popular al distrugerii cultului lui Baal."
       },
       {
        "t": " "
       },
       {
-       "t": "la templul lui Baal",
-       "w": "la templul lui Baal",
-       "heb": "בֵּית הַבַּעַל",
-       "translit": "bēt habaal",
+       "t": "la templul",
+       "w": "la templul",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "la casa (bēt)",
+       "dict_ro": "Templul lui Baal, ridicat probabil de Atalia, era centrul cultului idolatru impus pe durata domniei ei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui Baal",
+       "w": "lui Baal",
+       "heb": "הַבַּעַל",
+       "translit": "habaal",
        "strong": "H1168",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "casa lui Baal (bēt habaal)",
-       "dict_ro": "Ținta primă a mișcării populare de restaurare religioasă."
+       "pos": "nume propriu",
+       "def_ro": "lui Baal (habaal)",
+       "dict_ro": "Templul lui Baal, ridicat probabil de Atalia, era centrul cultului idolatru impus pe durata domniei ei."
       },
       {
        "t": " "
@@ -15315,34 +15341,21 @@
        "translit": "vaitțuhu",
        "strong": "H5422",
        "pos": "verb, qal imperfect consecutiv + sufix",
-       "def_ro": "și l-au dărâmat (vaitțuhu)",
-       "dict_ro": "Rădăcina „nataț” descrie demolarea completă, nu doar profanarea — templul lui Baal e șters fizic din existență."
+       "def_ro": "și l-au dărâmat, (vaitțuhu)",
+       "dict_ro": "Distrugerea templului lui Baal marchează abolirea definitivă a cultului idolatru de stat."
       },
       {
        "t": " "
       },
       {
-       "t": "i-au sfărâmat",
-       "w": "i-au sfărâmat",
-       "heb": "שִׁבְּרוּ",
-       "translit": "șibru",
-       "strong": "H7665",
-       "pos": "verb, piel perfect",
-       "def_ro": "au sfărâmat (șibru)",
-       "dict_ro": "Metzudat Zion: «hetev» înseamnă «cu putere», confirmând caracterul total, nu parțial, al nimicirii obiectelor de cult idolatru."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "complet",
-       "w": "complet",
-       "heb": "הֵיטֵב",
-       "translit": "hētēv",
+       "t": "i-au sfărâmat complet",
+       "w": "i-au sfărâmat complet",
+       "heb": "מִזְבְּחֹתָיו שִׁבְּרוּ הֵיטֵב",
+       "translit": "mizbehotaiv șibru hētēv",
        "strong": "H3190",
-       "pos": "verb, hifil infinitiv absolut",
-       "def_ro": "bine, deplin (hētēv)",
-       "dict_ro": "Intensifică verbul precedent, confirmând nimicirea totală, nu parțială, a obiectelor de cult."
+       "pos": "substantiv, masculin plural construct + sufix + verb, piel perfect + verb, hifil infinitiv absolut",
+       "def_ro": "altarele lui și chipurile lui au sfărâmat bine, (mizbehotaiv telamaiv șibru hētēv)",
+       "dict_ro": "Distrugerea completă a altarelor și chipurilor cioplite execută radical reforma religioasă."
       },
       {
        "t": " "
@@ -15355,7 +15368,7 @@
        "strong": "H4196",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "altarele lui (mizbehotaiv)",
-       "dict_ro": "Primul obiect al distrugerii, altarele dedicate cultului lui Baal."
+       "dict_ro": "Distrugerea completă a altarelor și chipurilor cioplite execută radical reforma religioasă."
       },
       {
        "t": " "
@@ -15368,59 +15381,85 @@
        "strong": "H6754",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "și chipurile lui (țelamaiv)",
-       "dict_ro": "Al doilea obiect al distrugerii, statuile idolatre ale templului lui Baal."
+       "dict_ro": "Distrugerea completă a altarelor și chipurilor cioplite execută radical reforma religioasă."
       },
       {
        "t": " "
       },
       {
-       "t": "și l-au ucis",
-       "w": "și l-au ucis",
+       "t": "și l-au ucis pe",
+       "w": "și l-au ucis pe",
        "heb": "הָרְגוּ",
        "translit": "hargu",
        "strong": "H2026",
        "pos": "verb, qal perfect",
-       "def_ro": "l-au ucis (hargu)",
-       "dict_ro": "Radak identifică Matan ca numele propriu al preotului principal al cultului lui Baal, executat ca simbol al încheierii definitive a acestui cult."
+       "def_ro": "au ucis (hargu)",
+       "dict_ro": "Rashi explică faptul că uciderea lui Matan, preotul lui Baal, elimină conducerea religioasă idolatră, nu doar altarele materiale."
       },
       {
        "t": " "
       },
       {
-       "t": "pe Matan,",
-       "w": "pe Matan,",
+       "t": "Matan,",
+       "w": "Matan,",
        "heb": "מַתָּן",
        "translit": "matan",
        "strong": "H4977",
        "pos": "nume propriu",
-       "def_ro": "pe Matan (matan)",
-       "dict_ro": "Numele propriu al preotului lui Baal, executat ca simbol al încheierii cultului."
+       "def_ro": "Matan, (matan)",
+       "dict_ro": "Rashi explică faptul că uciderea lui Matan, preotul lui Baal, elimină conducerea religioasă idolatră."
       },
       {
        "t": " "
       },
       {
-       "t": "preotul lui Baal,",
-       "w": "preotul lui Baal,",
-       "heb": "כֹּהֵן הַבַּעַל",
-       "translit": "kohēn habaal",
+       "t": "preotul",
+       "w": "preotul",
+       "heb": "כֹּהֵן",
+       "translit": "kohēn",
+       "strong": "H3548",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "preotul (kohēn)",
+       "dict_ro": "Rashi explică faptul că uciderea lui Matan, preotul lui Baal, elimină conducerea religioasă idolatră."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui Baal,",
+       "w": "lui Baal,",
+       "heb": "הַבַּעַל",
+       "translit": "habaal",
        "strong": "H1168",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "preotul lui Baal (kohēn habaal)",
-       "dict_ro": "Identifică funcția lui Matan, conducătorul religios al cultului idolatru nimicit."
+       "pos": "nume propriu",
+       "def_ro": "lui Baal, (habaal)",
+       "dict_ro": "Rashi explică faptul că uciderea lui Matan, preotul lui Baal, elimină conducerea religioasă idolatră."
       },
       {
        "t": " "
       },
       {
-       "t": "în fața altarelor;",
-       "w": "în fața altarelor;",
-       "heb": "לִפְנֵי הַמִּזְבְּחוֹת",
-       "translit": "lifnē hamizbehot",
+       "t": "în fața",
+       "w": "în fața",
+       "heb": "לִפְנֵי",
+       "translit": "lifnē",
+       "strong": "H6440",
+       "pos": "substantiv, masculin și feminin plural construct",
+       "def_ro": "înaintea (lifnē)",
+       "dict_ro": "Executarea lui Matan chiar la altarele idolatre are valoare simbolică, pedeapsă exactă la locul păcatului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "altarelor;",
+       "w": "altarelor;",
+       "heb": "הַמִּזְבְּחוֹת",
+       "translit": "hamizbehot",
        "strong": "H4196",
-       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin plural",
-       "def_ro": "înaintea altarelor (lifnē hamizbehot)",
-       "dict_ro": "Execuția are loc chiar la locul faptei, întărind caracterul public și exemplar al judecății asupra idolatriei."
+       "pos": "substantiv, masculin plural",
+       "def_ro": "altarelor; (hamizbehot)",
+       "dict_ro": "Executarea lui Matan chiar la altarele idolatre are valoare simbolică, pedeapsă exactă la locul păcatului."
       },
       {
        "t": " "
@@ -15432,8 +15471,8 @@
        "translit": "hakohēn",
        "strong": "H3548",
        "pos": "substantiv, masculin singular",
-       "def_ro": "preotul (hakohēn)",
-       "dict_ro": "Rashi: Atalia anulase complet rânduiala slujirii preoțești la Templu; Iehoiada restaurează imediat sistemul de gărzi și ture de slujire, potrivit rânduielii lui David."
+       "def_ro": "și preotul (hakohēn)",
+       "dict_ro": "Iehoiada completează reforma prin asigurarea pazei directe a Templului DOMNULUI, Templu rămas centrul cultului restaurat."
       },
       {
        "t": " "
@@ -15446,7 +15485,7 @@
        "strong": "H7760",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a pus (vaiasem)",
-       "dict_ro": "Al doilea act restaurativ al lui Iehoiada, paralel distrugerii cultului idolatru: reorganizarea pazei Templului."
+       "dict_ro": "Iehoiada completează reforma prin asigurarea pazei directe a Templului DOMNULUI."
       },
       {
        "t": " "
@@ -15458,8 +15497,8 @@
        "translit": "pekudot",
        "strong": "H6486",
        "pos": "substantiv, feminin plural",
-       "def_ro": "gărzi (pekudot)",
-       "dict_ro": "Rânduiala de gardă restaurată, după modelul stabilit încă de regele David."
+       "def_ro": "supraveghetori (pekudot)",
+       "dict_ro": "Iehoiada completează reforma prin asigurarea pazei directe a Templului DOMNULUI."
       },
       {
        "t": " "
@@ -15471,21 +15510,34 @@
        "translit": "al",
        "strong": "H5921",
        "pos": "prepoziție",
-       "def_ro": "peste (al)",
-       "dict_ro": "Introduce destinația gărzilor restaurate: Casa DOMNULUI."
+       "def_ro": "asupra (al)",
+       "dict_ro": "Iehoiada completează reforma prin asigurarea pazei directe a Templului DOMNULUI."
       },
       {
        "t": " "
       },
       {
-       "t": "Casei DOMNULUI.",
-       "w": "Casei DOMNULUI.",
-       "heb": "בֵּית יְהוָה",
-       "translit": "bēt Adonai",
+       "t": "Casei",
+       "w": "Casei",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casei (bēt)",
+       "dict_ro": "Casa DOMNULUI, Templul restaurat, primește gardă proprie, confirmare a importanței ei centrale."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "casa DOMNULUI (bēt Adonai)",
-       "dict_ro": "Restaurarea ordinii religioase se concentrează, simetric cu distrugerea templului lui Baal, pe reconstituirea funcționării corecte a Templului DOMNULUI."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI. (Adonai)",
+       "dict_ro": "Casa DOMNULUI, Templul restaurat, primește gardă proprie, confirmare a importanței ei centrale."
       }
      ],
      "textCompare": [
@@ -15532,33 +15584,20 @@
        "strong": "H3947",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a luat (vaikah)",
-       "dict_ro": "Iehoiada organizează o procesiune solemnă de escortă regală, mobilizând toate forțele de gardă disponibile pentru a instala simbolic noul rege."
+       "dict_ro": "Procesiunea oficială care îl conduce pe tânărul rege la palat confirmă, public, legitimitatea noii domnii."
       },
       {
        "t": " "
       },
       {
-       "t": "căpeteniile",
-       "w": "căpeteniile",
-       "heb": "שָׂרֵי",
-       "translit": "sarē",
-       "strong": "H8269",
-       "pos": "substantiv, masculin plural construct",
-       "def_ro": "căpeteniile (sarē)",
-       "dict_ro": "Primul corp de gardă mobilizat de Iehoiada pentru procesiunea regală."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "peste sute,",
-       "w": "peste sute,",
-       "heb": "הַמֵּאוֹת",
-       "translit": "hamēot",
+       "t": "căpeteniile peste sute,",
+       "w": "căpeteniile peste sute,",
+       "heb": "שָׂרֵי הַמֵּאוֹת",
+       "translit": "sarē hamēot",
        "strong": "H3967",
-       "pos": "numeral",
-       "def_ro": "peste sute (hamēot)",
-       "dict_ro": "Precizează rangul căpeteniilor, comandanți ai unor unități de o sută de oameni."
+       "pos": "substantiv, masculin plural construct + numeral",
+       "def_ro": "căpeteniile sutelor, (sarē hamēot)",
+       "dict_ro": "Procesiunea oficială care îl conduce pe tânărul rege la palat confirmă, public, legitimitatea noii domnii."
       },
       {
        "t": " "
@@ -15570,8 +15609,8 @@
        "translit": "hakari",
        "strong": "H3746",
        "pos": "nume propriu",
-       "def_ro": "gărzile (hakari)",
-       "dict_ro": "Unul dintre corpurile de gardă regală, menționat distinct de «alergători», implicat direct în protecția lui Ioas la întronare."
+       "def_ro": "și pe Cari, (hakari)",
+       "dict_ro": "Rashi identifică «Kari» ca o gardă regală specializată, poate de origine străină, parte a procesiunii oficiale."
       },
       {
        "t": " "
@@ -15583,8 +15622,8 @@
        "translit": "harațim",
        "strong": "H7323",
        "pos": "verb, qal participiu",
-       "def_ro": "alergătorii (harațim)",
-       "dict_ro": "Garda personală de alergători ai regelui, menționată și la v.6, folosiți ca forță de ordine și escortă rapidă."
+       "def_ro": "și alergătorii, (harațim)",
+       "dict_ro": "Alergătorii, garda personală rapidă a regelui, completează alaiul oficial al procesiunii."
       },
       {
        "t": " "
@@ -15597,7 +15636,7 @@
        "strong": "H3605",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "și tot (kal)",
-       "dict_ro": "Subliniază caracterul unanim al participării populare la procesiune."
+       "dict_ro": "Participarea întregului popor confirmă caracterul public, popular, al instaurării lui Iehoaș."
       },
       {
        "t": " "
@@ -15610,7 +15649,7 @@
        "strong": "H5971",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "poporul (am)",
-       "dict_ro": "Mulțimea care escortează procesiunea regală de la Templu spre palat."
+       "dict_ro": "Participarea întregului popor confirmă caracterul public, popular, al instaurării lui Iehoaș."
       },
       {
        "t": " "
@@ -15623,7 +15662,7 @@
        "strong": "H776",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "țării (haareț)",
-       "dict_ro": "Participarea populară masivă confirmă caracterul public și unanim susținut al restaurării monarhiei legitime."
+       "dict_ro": "Participarea întregului popor confirmă caracterul public, popular, al instaurării lui Iehoaș."
       },
       {
        "t": " "
@@ -15635,21 +15674,34 @@
        "translit": "vaioridu hameleh",
        "strong": "H4428",
        "pos": "verb, hifil imperfect consecutiv + substantiv, masculin singular",
-       "def_ro": "și au dus pe rege (vaioridu hameleh)",
-       "dict_ro": "Ceremonia de încoronare a avut loc chiar la Templu, locul uncerii regale tradiționale; procesiunea continuă apoi spre palat."
+       "def_ro": "și au adus pe rege (vaioridu hameleh)",
+       "dict_ro": "Coborârea de la Templu la palat marchează trecerea simbolică de la consacrarea religioasă la instaurarea politică."
       },
       {
-       "t": " coborând "
+       "t": " "
       },
       {
-       "t": "de la Casa DOMNULUI.",
-       "w": "de la Casa DOMNULUI.",
-       "heb": "מִבֵּית יְהוָה",
-       "translit": "mibēt Adonai",
+       "t": "coborând de la Casa",
+       "w": "coborând de la Casa",
+       "heb": "מִבֵּית",
+       "translit": "mibēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "de la casa (mibēt)",
+       "dict_ro": "Coborârea de la Templu la palat marchează trecerea simbolică de la consacrarea religioasă la instaurarea politică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "de la casa DOMNULUI (mibēt Adonai)",
-       "dict_ro": "Punctul de plecare al procesiunii, Templul, locul tradițional al încoronării regale."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI. (Adonai)",
+       "dict_ro": "Coborârea de la Templu la palat marchează trecerea simbolică de la consacrarea religioasă la instaurarea politică."
       },
       {
        "t": " "
@@ -15662,7 +15714,7 @@
        "strong": "H935",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și au venit (vaiavou)",
-       "dict_ro": "Rashi identifică această poartă ca intrarea directă către palatul regal, folosită de garda de alergători."
+       "dict_ro": "Traseul exact al procesiunii, prin poarta alergătorilor, confirmă detaliul istoric al relatării."
       },
       {
        "t": " "
@@ -15675,33 +15727,59 @@
        "strong": "H1870",
        "pos": "substantiv, masculin și feminin singular construct",
        "def_ro": "pe calea (dereh)",
-       "dict_ro": "Drumul exact urmat de procesiune, de la Templu spre palat."
+       "dict_ro": "Traseul exact al procesiunii, prin poarta alergătorilor, confirmă detaliul istoric al relatării."
       },
       {
        "t": " "
       },
       {
-       "t": "porții alergătorilor",
-       "w": "porții alergătorilor",
-       "heb": "שַׁעַר הָרָצִים",
-       "translit": "șaar harațim",
+       "t": "porții",
+       "w": "porții",
+       "heb": "שַׁעַר",
+       "translit": "șaar",
+       "strong": "H8179",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "porții (șaar)",
+       "dict_ro": "Traseul exact al procesiunii, prin poarta alergătorilor, confirmă detaliul istoric al relatării."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "alergătorilor",
+       "w": "alergătorilor",
+       "heb": "הָרָצִים",
+       "translit": "harațim",
        "strong": "H7323",
-       "pos": "substantiv, masculin singular construct + verb, qal participiu",
-       "def_ro": "porții alergătorilor (șaar harațim)",
-       "dict_ro": "Poarta specifică prin care garda regală avea acces direct către palat."
+       "pos": "verb, qal participiu",
+       "def_ro": "alergătorilor (harațim)",
+       "dict_ro": "Traseul exact al procesiunii, prin poarta alergătorilor, confirmă detaliul istoric al relatării."
       },
       {
        "t": " "
       },
       {
-       "t": "către palatul regal",
-       "w": "către palatul regal",
-       "heb": "בֵּית הַמֶּלֶךְ",
-       "translit": "bēt hameleh",
+       "t": "către palatul",
+       "w": "către palatul",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (bēt)",
+       "dict_ro": "Palatul regal, destinația finală a procesiunii, marchează instalarea efectivă a lui Iehoaș pe tron."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "regal",
+       "w": "regal",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
        "strong": "H4428",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "casa regelui (bēt hameleh)",
-       "dict_ro": "Destinația finală a procesiunii, marcând transferul vizibil al autorității de la Templu la sediul guvernării."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "regelui (hameleh)",
+       "dict_ro": "Palatul regal, destinația finală a procesiunii, marchează instalarea efectivă a lui Iehoaș pe tron."
       },
       {
        "t": " "
@@ -15714,7 +15792,7 @@
        "strong": "H3427",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a șezut (vaiēșev)",
-       "dict_ro": "Încoronarea se încheie simbolic prin ocuparea fizică a tronului, confirmând public restaurarea dinastiei davidice."
+       "dict_ro": "Așezarea pe tron, act final al procesiunii, confirmă public autoritatea regală a lui Iehoaș."
       },
       {
        "t": " "
@@ -15727,7 +15805,7 @@
        "strong": "H3678",
        "pos": "prepoziție + substantiv, masculin singular construct",
        "def_ro": "pe tronul (al kisē)",
-       "dict_ro": "Actul final al încoronării, ocuparea fizică a tronului dinastiei davidice."
+       "dict_ro": "Așezarea pe tron, act final al procesiunii, confirmă public autoritatea regală a lui Iehoaș."
       },
       {
        "t": " "
@@ -15739,8 +15817,8 @@
        "translit": "hamlahim",
        "strong": "H4428",
        "pos": "substantiv, masculin plural",
-       "def_ro": "regilor (hamlahim)",
-       "dict_ro": "Tronul dinastiei davidice, restaurat prin ocuparea lui de către tânărul rege legitim."
+       "def_ro": "regilor. (hamlahim)",
+       "dict_ro": "Așezarea pe tron, act final al procesiunii, confirmă public autoritatea regală a lui Iehoaș."
       }
      ],
      "textCompare": [
@@ -15776,17 +15854,14 @@
      "translit": "Vaismah kol-am-haareț vehair șakata veet-Ataliahu hemitu vaherev beit meleh.",
      "tokens": [
       {
-       "t": "Și "
-      },
-      {
-       "t": "tot",
-       "w": "tot",
+       "t": "Și tot",
+       "w": "Și tot",
        "heb": "כָּל",
        "translit": "kal",
        "strong": "H3605",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "tot (kal)",
-       "dict_ro": "Subliniază caracterul unanim al bucuriei populare."
+       "def_ro": "și tot (kal)",
+       "dict_ro": "Bucuria populară generală contrastează cu teroarea domniei Ataliei, răsturnată violent."
       },
       {
        "t": " "
@@ -15799,7 +15874,7 @@
        "strong": "H5971",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "poporul (am)",
-       "dict_ro": "Subiectul colectiv al bucuriei generale la eliberarea de sub Atalia."
+       "dict_ro": "Bucuria populară generală contrastează cu teroarea domniei Ataliei, răsturnată violent."
       },
       {
        "t": " "
@@ -15812,7 +15887,7 @@
        "strong": "H776",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "țării (haareț)",
-       "dict_ro": "Bucuria populară generală marchează eliberarea de sub tirania idolatră a Ataliei, contrastând direct cu ororile domniei ei."
+       "dict_ro": "Bucuria populară generală contrastează cu teroarea domniei Ataliei, răsturnată violent."
       },
       {
        "t": " "
@@ -15824,34 +15899,60 @@
        "translit": "vaismah",
        "strong": "H8055",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și s-a bucurat (vaismah)",
-       "dict_ro": "Verbul descrie bucuria colectivă la eliberarea de sub domnia usurpatoare a Ataliei."
+       "def_ro": "s-a bucurat, (vaismah)",
+       "dict_ro": "Bucuria populară generală contrastează cu teroarea domniei Ataliei, răsturnată violent."
       },
       {
        "t": " "
       },
       {
-       "t": "iar orașul s-a liniștit.",
-       "w": "iar orașul s-a liniștit.",
-       "heb": "וְהָעִיר שָׁקָטָה",
-       "translit": "vehair șakata",
+       "t": "iar orașul",
+       "w": "iar orașul",
+       "heb": "וְהָעִיר",
+       "translit": "vehair",
+       "strong": "H5892",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "și cetatea (vehair)",
+       "dict_ro": "Liniștirea cetății confirmă restabilirea ordinii publice, după perioada tulbure a domniei Ataliei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "s-a liniștit.",
+       "w": "s-a liniștit.",
+       "heb": "שָׁקָטָה",
+       "translit": "șakata",
        "strong": "H8252",
-       "pos": "substantiv, feminin singular + verb, qal perfect",
-       "def_ro": "și cetatea s-a liniștit (vehair șakata)",
-       "dict_ro": "Metzudat David: pacea revine imediat, întrucât odată executată Atalia nu mai rămâne nimeni să inițieze o rezistență armată."
+       "pos": "verb, qal perfect",
+       "def_ro": "s-a liniștit. (șakata)",
+       "dict_ro": "Liniștirea cetății confirmă restabilirea ordinii publice, după perioada tulbure a domniei Ataliei."
       },
       {
        "t": " "
       },
       {
-       "t": "Și au ucis-o pe Atalia",
-       "w": "Și au ucis-o pe Atalia",
-       "heb": "עֲתַלְיָהוּ הֵמִיתוּ",
-       "translit": "ataliahu hēmitu",
+       "t": "Și au ucis-o pe",
+       "w": "Și au ucis-o pe",
+       "heb": "הֵמִיתוּ",
+       "translit": "hēmitu",
        "strong": "H4191",
-       "pos": "nume propriu + verb, hifil perfect",
-       "def_ro": "și pe Atalia au ucis-o (ataliahu hēmitu)",
-       "dict_ro": "Execuția Ataliei, singura femeie care a domnit vreodată peste Iuda, prin uzurpare și masacrarea propriilor nepoți, încheie definitiv acel capitol sângeros al istoriei regatului."
+       "pos": "verb, hifil perfect",
+       "def_ro": "au ucis-o (hēmitu)",
+       "dict_ro": "Executarea Ataliei, chiar în propriul palat, încheie definitiv domnia ei idolatră și violentă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Atalia",
+       "w": "Atalia",
+       "heb": "עֲתַלְיָהוּ",
+       "translit": "ataliahu",
+       "strong": "H6271",
+       "pos": "nume propriu",
+       "def_ro": "Atalia (ataliahu)",
+       "dict_ro": "Executarea Ataliei, chiar în propriul palat, încheie definitiv domnia ei idolatră și violentă, descrisă la 11:1."
       },
       {
        "t": " "
@@ -15864,20 +15965,33 @@
        "strong": "H2719",
        "pos": "substantiv, feminin singular",
        "def_ro": "cu sabia (vaherev)",
-       "dict_ro": "Instrumentul execuției, confirmând caracterul formal, judiciar, nu doar o răzbunare haotică."
+       "dict_ro": "Executarea Ataliei, chiar în propriul palat, încheie definitiv domnia ei idolatră și violentă."
       },
       {
        "t": " "
       },
       {
-       "t": "în palatul regelui.",
-       "w": "în palatul regelui.",
-       "heb": "בֵּית הַמֶּלֶךְ",
-       "translit": "bēt hameleh",
+       "t": "în palatul",
+       "w": "în palatul",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casei (bēt)",
+       "dict_ro": "Moartea Ataliei chiar în palatul regal are valoare simbolică, răsturnare completă a autorității ei uzurpate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "regelui.",
+       "w": "regelui.",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
        "strong": "H4428",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "casa regelui (bēt hameleh)",
-       "dict_ro": "Locul execuției — chiar palatul pe care îl uzurpase — încheie simbolic domnia ei exact acolo unde începuse."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "regelui. (hameleh)",
+       "dict_ro": "Moartea Ataliei chiar în palatul regal are valoare simbolică, răsturnare completă a autorității ei uzurpate."
       }
      ],
      "textCompare": [
@@ -15920,7 +16034,7 @@
        "strong": "H3060",
        "pos": "nume propriu",
        "def_ro": "Iehoaș (iehoaș)",
-       "dict_ro": "Noul rege, al unsprezecelea din dinastia davidică, salvat de la masacrul Ataliei și încoronat cu ajutorul lui Iehoiada."
+       "dict_ro": "Iehoaș, singurul urmaș supraviețuitor al dinastiei lui David, salvat de Iehoșeba de masacrul Ataliei, descris la 11:2."
       },
       {
        "t": " "
@@ -15933,20 +16047,33 @@
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "fiu de (ben)",
-       "dict_ro": "Vârsta extrem de tânără a regelui la întronare explică necesitatea tutelajului spiritual exercitat de marele preot Iehoiada, menționat explicit la v.3."
+       "dict_ro": "Iehoaș, singurul urmaș supraviețuitor al dinastiei lui David, salvat de masacrul Ataliei."
       },
       {
        "t": " "
       },
       {
-       "t": "șapte ani",
-       "w": "șapte ani",
-       "heb": "שֶׁבַע שָׁנִים",
-       "translit": "șeva șanim",
+       "t": "șapte",
+       "w": "șapte",
+       "heb": "שֶׁבַע",
+       "translit": "șeva",
+       "strong": "H7651",
+       "pos": "numeral",
+       "def_ro": "șapte (șeva)",
+       "dict_ro": "Vârsta extrem de mică la încoronare confirmă fragilitatea inițială a noii domnii, susținută de Iehoiada."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ani",
+       "w": "ani",
+       "heb": "שָׁנִים",
+       "translit": "șanim",
        "strong": "H8141",
-       "pos": "numeral + substantiv, feminin plural",
-       "def_ro": "șapte ani (șeva șanim)",
-       "dict_ro": "Vârsta exactă a regelui la momentul încoronării, confirmând minoritatea sa."
+       "pos": "substantiv, feminin plural",
+       "def_ro": "ani (șanim)",
+       "dict_ro": "Vârsta extrem de mică la încoronare confirmă fragilitatea inițială a noii domnii, susținută de Iehoiada."
       },
       {
        "t": " "
@@ -15958,8 +16085,8 @@
        "translit": "bemalho",
        "strong": "H4427",
        "pos": "verb, qal infinitiv + sufix",
-       "def_ro": "la domnia lui (bemalho)",
-       "dict_ro": "Marchează oficial începutul domniei celui de-al unsprezecelea rege al dinastiei davidice din Iuda."
+       "def_ro": "la încoronarea lui. (bemalho)",
+       "dict_ro": "Vârsta extrem de mică la încoronare confirmă fragilitatea inițială a noii domnii, susținută de Iehoiada."
       }
      ],
      "textCompare": [
@@ -15996,7 +16123,7 @@
        "strong": "H8141",
        "pos": "substantiv, feminin singular construct",
        "def_ro": "în anul (bișnat)",
-       "dict_ro": "Formula standard de datare a cărților Împărați, legând domnia lui Iehoaș de anul de domnie al regelui de nord."
+       "dict_ro": "Sincronizarea cu domnia lui Iehu, regele regatului de nord, situează cronologic domnia lui Iehoaș."
       },
       {
        "t": " "
@@ -16009,7 +16136,7 @@
        "strong": "H7651",
        "pos": "numeral",
        "def_ro": "șapte (șeva)",
-       "dict_ro": "Precizează numărul anului de domnie al lui Iehu la care Iehoaș ajunge rege."
+       "dict_ro": "Sincronizarea cu domnia lui Iehu, regele regatului de nord, situează cronologic domnia lui Iehoaș."
       },
       {
        "t": " "
@@ -16021,21 +16148,34 @@
        "translit": "leiēhu",
        "strong": "H3058",
        "pos": "nume propriu",
-       "def_ro": "al lui Iehu (leiēhu)",
-       "dict_ro": "Metzudat David: Atalia a domnit uzurpator șase ani întregi, iar Iehoaș ajunge rege chiar la începutul anului al șaptelea al domniei lui Iehu asupra regatului de nord."
+       "def_ro": "lui Iehu, (leiēhu)",
+       "dict_ro": "Sincronizarea cu domnia lui Iehu, regele regatului de nord, situează cronologic domnia lui Iehoaș."
       },
       {
        "t": " "
       },
       {
-       "t": "Iehoaș a ajuns rege",
-       "w": "Iehoaș a ajuns rege",
-       "heb": "מָלַךְ יְהוֹאָשׁ",
-       "translit": "malah iehoaș",
+       "t": "Iehoaș",
+       "w": "Iehoaș",
+       "heb": "יְהוֹאָשׁ",
+       "translit": "iehoaș",
        "strong": "H3060",
-       "pos": "verb, qal perfect + nume propriu",
-       "def_ro": "a domnit Iehoaș (malah iehoaș)",
-       "dict_ro": "Confirmarea formală a încoronării deja descrise în capitolul precedent."
+       "pos": "nume propriu",
+       "def_ro": "Iehoaș (iehoaș)",
+       "dict_ro": "Iehoaș, singurul urmaș supraviețuitor al dinastiei davidice, devine rege la Ierusalim."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a ajuns rege",
+       "w": "a ajuns rege",
+       "heb": "מָלַךְ",
+       "translit": "malah",
+       "strong": "H4427",
+       "pos": "verb, qal perfect",
+       "def_ro": "a devenit rege, (malah)",
+       "dict_ro": "Iehoaș, singurul urmaș supraviețuitor al dinastiei davidice, devine rege la Ierusalim."
       },
       {
        "t": " "
@@ -16047,21 +16187,34 @@
        "translit": "malah",
        "strong": "H4427",
        "pos": "verb, qal perfect",
-       "def_ro": "a domnit (malah)",
-       "dict_ro": "Repetă verbul domniei, confirmând durata exactă a acesteia."
+       "def_ro": "a devenit rege (malah)",
+       "dict_ro": "Cei patruzeci de ani de domnie confirmă stabilitatea restaurată a dinastiei davidice."
       },
       {
        "t": " "
       },
       {
-       "t": "timp de patruzeci de ani",
-       "w": "timp de patruzeci de ani",
-       "heb": "וְאַרְבָּעִים שָׁנָה",
-       "translit": "vearbaim șana",
+       "t": "timp de patruzeci",
+       "w": "timp de patruzeci",
+       "heb": "וְאַרְבָּעִים",
+       "translit": "vearbaim",
+       "strong": "H705",
+       "pos": "numeral",
+       "def_ro": "și patruzeci (vearbaim)",
+       "dict_ro": "Cei patruzeci de ani de domnie confirmă stabilitatea restaurată a dinastiei davidice."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de ani",
+       "w": "de ani",
+       "heb": "שָׁנָה",
+       "translit": "șana",
        "strong": "H8141",
-       "pos": "numeral + substantiv, feminin singular",
-       "def_ro": "și patruzeci de ani (vearbaim șana)",
-       "dict_ro": "O domnie lungă, printre cele mai îndelungate ale regilor lui Iuda, începută sub tutela lui Iehoiada."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "ani (șana)",
+       "dict_ro": "Cei patruzeci de ani de domnie confirmă stabilitatea restaurată a dinastiei davidice."
       },
       {
        "t": " "
@@ -16073,34 +16226,60 @@
        "translit": "birușalam",
        "strong": "H3389",
        "pos": "nume propriu",
-       "def_ro": "în Ierusalim (birușalam)",
-       "dict_ro": "Locul domniei, capitala regatului lui Iuda."
+       "def_ro": "în Ierusalim. (birușalam)",
+       "dict_ro": "Cei patruzeci de ani de domnie confirmă stabilitatea restaurată a dinastiei davidice la Ierusalim."
       },
       {
        "t": " "
       },
       {
-       "t": "Iar numele mamei lui",
-       "w": "Iar numele mamei lui",
-       "heb": "וְשֵׁם אִמּוֹ",
-       "translit": "veșēm imo",
+       "t": "Iar numele",
+       "w": "Iar numele",
+       "heb": "וְשֵׁם",
+       "translit": "veșēm",
+       "strong": "H8034",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "și numele (veșēm)",
+       "dict_ro": "Numele mamei, Țivia din Beer-Șeva, confirmă originea legitimă, iudeeană, a tânărului rege."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "mamei lui",
+       "w": "mamei lui",
+       "heb": "אִמּוֹ",
+       "translit": "imo",
        "strong": "H517",
-       "pos": "substantiv, masculin singular construct + substantiv, feminin singular construct + sufix",
-       "def_ro": "și numele mamei lui (veșēm imo)",
-       "dict_ro": "Menționarea mamei regelui e o formulă standard a cărților Împărați, atestând identitatea și originea regală legitimă."
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "mamei lui (imo)",
+       "dict_ro": "Numele mamei, Țivia din Beer-Șeva, confirmă originea legitimă, iudeeană, a tânărului rege."
       },
       {
        "t": " "
       },
       {
-       "t": "era Țivia",
-       "w": "era Țivia",
+       "t": "era",
+       "w": "era",
+       "heb": "צִבְיָה",
+       "translit": "țivia",
+       "strong": "H6645",
+       "pos": "nume propriu",
+       "def_ro": "[era] Țivia (țivia)",
+       "dict_ro": "Numele mamei, Țivia din Beer-Șeva, confirmă originea legitimă, iudeeană, a tânărului rege."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Țivia",
+       "w": "Țivia",
        "heb": "צִבְיָה",
        "translit": "țivia",
        "strong": "H6645",
        "pos": "nume propriu",
        "def_ro": "Țivia (țivia)",
-       "dict_ro": "Numele mamei regelui, atestând originea regală legitimă a lui Iehoaș."
+       "dict_ro": "Numele mamei, Țivia din Beer-Șeva, confirmă originea legitimă, iudeeană, a tânărului rege."
       },
       {
        "t": " "
@@ -16112,8 +16291,8 @@
        "translit": "mibēr șava",
        "strong": "H884",
        "pos": "nume propriu + nume propriu",
-       "def_ro": "din Beer-Șeva (mibēr șava)",
-       "dict_ro": "Localitate din sudul extrem al regatului lui Iuda, indicând originea familială a mamei regelui."
+       "def_ro": "din Beer-Șeva. (mibēr șava)",
+       "dict_ro": "Beer-Șeva, cetate din sudul lui Iuda, confirmă originea pur iudeeană a mamei regelui."
       }
      ],
      "textCompare": [
@@ -16150,7 +16329,7 @@
        "strong": "H3060",
        "pos": "nume propriu",
        "def_ro": "Iehoaș (iehoaș)",
-       "dict_ro": "Subiectul formulei standard de evaluare morală a domniei, folosită consecvent de cărțile Împărați."
+       "dict_ro": "Iehoaș e lăudat pentru fidelitatea sa, condiționată explicit de îndrumarea continuă a lui Iehoiada."
       },
       {
        "t": " "
@@ -16163,7 +16342,7 @@
        "strong": "H6213",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a făcut (vaiaas)",
-       "dict_ro": "Formula standard de evaluare morală folosită de cărțile Împărați pentru fiecare domnie — Iehoaș primește, cel puțin pentru această perioadă, verdictul pozitiv."
+       "dict_ro": "Iehoaș e lăudat pentru fidelitatea sa, condiționată explicit de îndrumarea continuă a lui Iehoiada."
       },
       {
        "t": " "
@@ -16175,34 +16354,60 @@
        "translit": "haiașar",
        "strong": "H3477",
        "pos": "adjectiv, masculin singular",
-       "def_ro": "dreptul (haiașar)",
-       "dict_ro": "Verdictul moral pozitiv acordat domniei lui Iehoaș, sub influența directă a lui Iehoiada."
+       "def_ro": "dreptul, (haiașar)",
+       "dict_ro": "Iehoaș e lăudat pentru fidelitatea sa, condiționată explicit de îndrumarea continuă a lui Iehoiada."
       },
       {
        "t": " "
       },
       {
-       "t": "în ochii DOMNULUI",
-       "w": "în ochii DOMNULUI",
-       "heb": "בְּעֵינֵי יְהוָה",
-       "translit": "beēnē Adonai",
+       "t": "în ochii",
+       "w": "în ochii",
+       "heb": "בְּעֵינֵי",
+       "translit": "beēnē",
+       "strong": "H5869",
+       "pos": "substantiv, masculin și feminin dual construct",
+       "def_ro": "în ochii (beēnē)",
+       "dict_ro": "Formula standard confirmă aprobarea divină explicită a conduitei regelui Iehoaș."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin și feminin dual construct + nume propriu",
-       "def_ro": "în ochii DOMNULUI (beēnē Adonai)",
-       "dict_ro": "Standardul evaluării — nu opinia publică sau politică, ci judecata divină."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula standard confirmă aprobarea divină explicită a conduitei regelui Iehoaș."
       },
       {
        "t": " "
       },
       {
-       "t": "în toate zilele",
-       "w": "în toate zilele",
-       "heb": "כָּל יָמָיו",
-       "translit": "kal iamaiv",
+       "t": "în toate",
+       "w": "în toate",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "toate (kal)",
+       "dict_ro": "Radak notează condiția implicită: fidelitatea lui Iehoaș a durat doar cât a trăit Iehoiada, mentorul său."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "zilele",
+       "w": "zilele",
+       "heb": "יָמָיו",
+       "translit": "iamaiv",
        "strong": "H3117",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin plural construct + sufix",
-       "def_ro": "toate zilele lui (kal iamaiv)",
-       "dict_ro": "Expresia e calificată explicit de clauza următoare — nu toată domnia, ci doar perioada sub influența directă a lui Iehoiada."
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "zilele lui (iamaiv)",
+       "dict_ro": "Radak notează condiția implicită: fidelitatea lui Iehoaș a durat doar cât a trăit Iehoiada, mentorul său."
       },
       {
        "t": " "
@@ -16214,21 +16419,34 @@
        "translit": "așer",
        "strong": "H834",
        "pos": "particulă relativă",
-       "def_ro": "care (așer)",
-       "dict_ro": "Introduce clauza care limitează verdictul pozitiv la perioada tutelajului lui Iehoiada."
+       "def_ro": "în care (așer)",
+       "dict_ro": "Radak notează condiția implicită: fidelitatea lui Iehoaș a durat doar cât a trăit Iehoiada."
       },
       {
        "t": " "
       },
       {
-       "t": "preotul Iehoiada",
-       "w": "preotul Iehoiada",
-       "heb": "יְהוֹיָדָע הַכֹּהֵן",
-       "translit": "iehoiada hakohēn",
+       "t": "preotul",
+       "w": "preotul",
+       "heb": "הַכֹּהֵן",
+       "translit": "hakohēn",
        "strong": "H3548",
-       "pos": "nume propriu + substantiv, masculin singular",
-       "def_ro": "Iehoiada preotul (iehoiada hakohēn)",
-       "dict_ro": "Figura tutelară sub influența căreia regele a rămas pe calea cea dreaptă."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "preotul (hakohēn)",
+       "dict_ro": "Iehoiada, Marele Preot, rămâne mentorul moral permanent al tânărului rege."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iehoiada",
+       "w": "Iehoiada",
+       "heb": "יְהוֹיָדָע",
+       "translit": "iehoiada",
+       "strong": "H3077",
+       "pos": "nume propriu",
+       "def_ro": "Iehoiada (iehoiada)",
+       "dict_ro": "Iehoiada, Marele Preot, rămâne mentorul moral permanent al tânărului rege."
       },
       {
        "t": " "
@@ -16240,8 +16458,8 @@
        "translit": "horahu",
        "strong": "H3384",
        "pos": "verb, hifil perfect + sufix",
-       "def_ro": "l-a învățat (horahu)",
-       "dict_ro": "Rashi precizează, pe baza 2 Cronici 24:17-18, că după moartea lui Iehoiada, regele s-a abătut grav de la calea cea dreaptă — verdictul pozitiv e condiționat, nu absolut, un detaliu onest al textului biblic."
+       "def_ro": "l-a îndrumat. (horahu)",
+       "dict_ro": "Iehoiada, Marele Preot, rămâne mentorul moral permanent al tânărului rege."
       }
      ],
      "textCompare": [
@@ -16278,7 +16496,7 @@
        "strong": "H7535",
        "pos": "particulă afirmativă",
        "def_ro": "doar (rak)",
-       "dict_ro": "Particula introduce singura imperfecțiune notată în domnia altfel pozitivă a lui Iehoaș."
+       "dict_ro": "Rashi explică faptul că înălțimile, chiar dacă nu erau idolatre, rămâneau un compromis religios tolerat, nu abolit de Iehoaș."
       },
       {
        "t": " "
@@ -16291,33 +16509,20 @@
        "strong": "H1116",
        "pos": "substantiv, feminin plural",
        "def_ro": "înălțimile (habamot)",
-       "dict_ro": "Metzudat David: altarele private de pe înălțimi, folosite pentru cult neoficial, erau interzise de la construirea Templului — singura imperfecțiune notată în domnia altfel pozitivă a lui Iehoaș."
+       "dict_ro": "Rashi explică faptul că înălțimile, chiar dacă nu erau idolatre, rămâneau un compromis religios tolerat, nu abolit de Iehoaș."
       },
       {
        "t": " "
       },
       {
-       "t": "nu",
-       "w": "nu",
-       "heb": "לֹא",
-       "translit": "lo",
-       "strong": "H3808",
-       "pos": "particulă negativă",
-       "def_ro": "nu (lo)",
-       "dict_ro": "Negația introduce singura excepție de la verdictul pozitiv al domniei lui Iehoaș."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "le-a îndepărtat",
-       "w": "le-a îndepărtat",
-       "heb": "סָרוּ עוֹד",
-       "translit": "saru od",
-       "strong": "H5750",
-       "pos": "verb, qal perfect + adverb",
-       "def_ro": "nu au fost încă îndepărtate (saru od)",
-       "dict_ro": "Confirmă persistența acestui cult neoficial, netratat nici de reforma lui Iehoiada."
+       "t": "nu le-a îndepărtat",
+       "w": "nu le-a îndepărtat",
+       "heb": "לֹא סָרוּ",
+       "translit": "lo saru",
+       "strong": "H5493",
+       "pos": "particulă negativă + verb, qal perfect",
+       "def_ro": "nu s-au îndepărtat din nou (lo saru od)",
+       "dict_ro": "Rashi explică faptul că înălțimile, chiar dacă nu erau idolatre, rămâneau un compromis religios tolerat, nu abolit de Iehoaș."
       },
       {
        "t": " "
@@ -16330,7 +16535,7 @@
        "strong": "H5971",
        "pos": "substantiv, masculin singular",
        "def_ro": "poporul (haam)",
-       "dict_ro": "Practica persistentă a cultului de pe înălțimi, tolerată, arată limitele reformei religioase realizate de Iehoiada și Iehoaș."
+       "dict_ro": "Continuarea jertfelor pe înălțimi arată limitele reale ale reformei religioase a lui Iehoaș."
       },
       {
        "t": " "
@@ -16343,20 +16548,33 @@
        "strong": "H2076",
        "pos": "verb, piel participiu",
        "def_ro": "jertfind (mezabhim)",
-       "dict_ro": "Verbul descrie o practică de cult continuă, nu un incident izolat."
+       "dict_ro": "Continuarea jertfelor pe înălțimi arată limitele reale ale reformei religioase a lui Iehoaș."
       },
       {
        "t": " "
       },
       {
-       "t": "și să ardă ofrandă de mirodenii pe înălțimi.",
-       "w": "și să ardă ofrandă de mirodenii pe înălțimi.",
-       "heb": "וּמְקַטְּרִים בַּבָּמוֹת",
-       "translit": "umkatrim babamot",
+       "t": "și să ardă ofrandă de mirodenii",
+       "w": "și să ardă ofrandă de mirodenii",
+       "heb": "וּמְקַטְּרִים",
+       "translit": "umkatrim",
+       "strong": "H6999",
+       "pos": "verb, piel participiu",
+       "def_ro": "și tămâind (umkatrim)",
+       "dict_ro": "Continuarea jertfelor pe înălțimi arată limitele reale ale reformei religioase a lui Iehoaș."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe înălțimi.",
+       "w": "pe înălțimi.",
+       "heb": "בַּבָּמוֹת",
+       "translit": "babamot",
        "strong": "H1116",
-       "pos": "verb, piel participiu + substantiv, feminin plural",
-       "def_ro": "și aducând tămâie pe înălțimi (umkatrim babamot)",
-       "dict_ro": "Arderea tămâiei, alături de jertfele animale, confirmă persistența unui cult complet, paralel, nu doar ocazional, în afara Templului central."
+       "pos": "substantiv, feminin plural",
+       "def_ro": "pe înălțimi. (babamot)",
+       "dict_ro": "Continuarea jertfelor pe înălțimi arată limitele reale ale reformei religioase a lui Iehoaș."
       }
      ],
      "textCompare": [
@@ -16387,17 +16605,14 @@
      "translit": "Vaiomer Iehoaș el-hakohanim kol kesef hakodașim așer-iuva veit-ADONAI kesef over iș kesef nafșot erko kol-kesef așer iaale al lev-iș lehavi beit ADONAI.",
      "tokens": [
       {
-       "t": "Și "
-      },
-      {
-       "t": "Iehoaș",
-       "w": "Iehoaș",
+       "t": "Și Iehoaș",
+       "w": "Și Iehoaș",
        "heb": "יְהוֹאָשׁ",
        "translit": "iehoaș",
        "strong": "H3060",
        "pos": "nume propriu",
        "def_ro": "Iehoaș (iehoaș)",
-       "dict_ro": "Subiectul inițiativei regale de finanțare a restaurării Templului."
+       "dict_ro": "Inițiativa personală a lui Iehoaș de a reforma finanțarea Templului marchează un moment major al domniei sale."
       },
       {
        "t": " "
@@ -16410,7 +16625,7 @@
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a spus (vaiomer)",
-       "dict_ro": "Marchează începutul inițiativei regale de a strânge resurse pentru restaurarea Templului, deteriorat în timpul uzurpării Ataliei."
+       "dict_ro": "Inițiativa personală a lui Iehoaș de a reforma finanțarea Templului marchează un moment major al domniei sale."
       },
       {
        "t": " "
@@ -16418,41 +16633,54 @@
       {
        "t": "preoților:",
        "w": "preoților:",
-       "heb": "אֶל הַכֹּהֲנִים",
-       "translit": "el hakohanim",
+       "heb": "הַכֹּהֲנִים",
+       "translit": "hakohanim",
        "strong": "H3548",
-       "pos": "prepoziție + substantiv, masculin plural",
-       "def_ro": "preoților (el hakohanim)",
-       "dict_ro": "Destinatarii inițiativei regale, responsabili inițial cu colectarea banilor consacrați."
+       "pos": "substantiv, masculin plural",
+       "def_ro": "preoților: (hakohanim)",
+       "dict_ro": "Inițiativa personală a lui Iehoaș de a reforma finanțarea Templului marchează un moment major al domniei sale."
       },
       {
        "t": " "
       },
       {
-       "t": "„Toți banii",
-       "w": "„Toți banii",
-       "heb": "כֹּל כֶּסֶף",
-       "translit": "kol kesef",
+       "t": "„Toți",
+       "w": "„Toți",
+       "heb": "כֹּל",
+       "translit": "kol",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tot (kol)",
+       "dict_ro": "Primul tip de bani: cei destinați direct lucrurilor sfinte, deja aduși la Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "banii",
+       "w": "banii",
+       "heb": "כֶּסֶף",
+       "translit": "kesef",
        "strong": "H3701",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct",
-       "def_ro": "tot argintul (kol kesef)",
-       "dict_ro": "Formula generală care deschide enumerarea celor trei categorii distincte de bani consacrați, detaliate în continuare."
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "banii (kesef)",
+       "dict_ro": "Primul tip de bani: cei destinați direct lucrurilor sfinte, deja aduși la Templu."
       },
       {
        "t": " "
       },
       {
-       "t": "pentru lucrurile sfinte",
-       "w": "pentru lucrurile sfinte",
+       "t": "pentru lucrurile sfinte,",
+       "w": "pentru lucrurile sfinte,",
        "heb": "הַקֳּדָשִׁים",
        "translit": "hakodașim",
        "strong": "H6944",
        "pos": "substantiv, masculin plural",
-       "def_ro": "lucrurilor sfinte (hakodașim)",
-       "dict_ro": "Categoria generală a tuturor banilor consacrați, detaliată în cele trei subcategorii enumerate."
+       "def_ro": "lucrurilor sfinte, (hakodașim)",
+       "dict_ro": "Primul tip de bani: cei destinați direct lucrurilor sfinte, deja aduși la Templu."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
        "t": "care sunt aduși",
@@ -16461,34 +16689,60 @@
        "translit": "așer iuva",
        "strong": "H935",
        "pos": "particulă relativă + verb, hofal imperfect",
-       "def_ro": "care se aduce (așer iuva)",
-       "dict_ro": "Criteriul comun al tuturor celor trei categorii — toate ajungeau la Templu, indiferent de sursa lor specifică."
+       "def_ro": "care este adus (așer iuva)",
+       "dict_ro": "Primul tip de bani: cei destinați direct lucrurilor sfinte, deja aduși la Templu."
       },
       {
        "t": " "
       },
       {
-       "t": "în Casa DOMNULUI",
-       "w": "în Casa DOMNULUI",
-       "heb": "בֵית יְהוָה",
-       "translit": "vēt Adonai",
+       "t": "în Casa",
+       "w": "în Casa",
+       "heb": "בֵית",
+       "translit": "vēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (vēt)",
+       "dict_ro": "Casa DOMNULUI, destinația tuturor categoriilor de bani enumerate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "casa DOMNULUI (vēt Adonai)",
-       "dict_ro": "Destinația comună a tuturor categoriilor de bani consacrați enumerate în continuare."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Casa DOMNULUI, destinația tuturor categoriilor de bani enumerate."
       },
       {
        "t": " "
       },
       {
-       "t": "– banii celor care trec prin [recensământ]",
-       "w": "– banii celor care trec prin [recensământ]",
-       "heb": "כֶּסֶף עוֹבֵר",
-       "translit": "kesef ovēr",
+       "t": "– banii",
+       "w": "– banii",
+       "heb": "כֶּסֶף",
+       "translit": "kesef",
+       "strong": "H3701",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "banii (kesef)",
+       "dict_ro": "Al doilea tip: banii recensământului, dați de fiecare persoană trecută prin numărare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "celor care trec prin [recensământ]",
+       "w": "celor care trec prin [recensământ]",
+       "heb": "עוֹבֵר",
+       "translit": "ovēr",
        "strong": "H5674",
-       "pos": "substantiv, masculin singular + verb, qal participiu",
-       "def_ro": "argintul celui care trece (kesef ovēr)",
-       "dict_ro": "Rashi identifică această categorie cu jumătatea de siclu anuală cerută de la fiecare israelit numărat la recensământ, potrivit Exod 30:13."
+       "pos": "verb, qal participiu",
+       "def_ro": "celui ce trece, (ovēr)",
+       "dict_ro": "Al doilea tip: banii recensământului, dați de fiecare persoană trecută prin numărare, cf. Exod 30:12-13."
       },
       {
        "t": ", "
@@ -16500,24 +16754,11 @@
        "translit": "kesef",
        "strong": "H3701",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "argintul (kesef)",
-       "dict_ro": "A doua categorie de bani consacrați, legată de jurământul personal de evaluare."
+       "def_ro": "banii (kesef)",
+       "dict_ro": "Al treilea tip: banii de prețuire, plătiți pentru împlinirea unui jurământ personal."
       },
       {
-       "t": " "
-      },
-      {
-       "t": "fiecărui om",
-       "w": "fiecărui om",
-       "heb": "אִישׁ",
-       "translit": "iș",
-       "strong": "H376",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "fiecare om (iș)",
-       "dict_ro": "Subiectul celei de-a doua categorii, legată de jurământul individual de evaluare."
-      },
-      {
-       "t": " "
+       "t": " fiecărui om "
       },
       {
        "t": "pentru prețuirea sa",
@@ -16526,99 +16767,86 @@
        "translit": "nafșot erko",
        "strong": "H6187",
        "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular construct + sufix",
-       "def_ro": "sufletelor, prețuirea lui (nafșot erko)",
-       "dict_ro": "A doua categorie: banii dați ca urmare a unui jurământ voluntar de evaluare personală («erekh»), potrivit legilor din Levitic 27."
+       "def_ro": "sufletelor, prețuirii sale (nafșot erko)",
+       "dict_ro": "Al treilea tip: banii de prețuire, plătiți pentru împlinirea unui jurământ personal, cf. Levitic 27:2-8."
       },
       {
        "t": " "
       },
       {
-       "t": "– toți banii",
-       "w": "– toți banii",
-       "heb": "כָּל כֶּסֶף",
-       "translit": "kal kesef",
-       "strong": "H3701",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "tot argintul (kal kesef)",
-       "dict_ro": "A treia categorie: darurile pur voluntare, aduse din proprie inițiativă, fără obligație legală specifică."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "pe care",
-       "w": "pe care",
-       "heb": "אֲשֶׁר",
-       "translit": "așer",
-       "strong": "H834",
-       "pos": "particulă relativă",
-       "def_ro": "care (așer)",
-       "dict_ro": "Particula relativă introduce caracterizarea darurilor voluntare, motivate numai de impulsul inimii."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "inima",
-       "w": "inima",
-       "heb": "לֶב",
-       "translit": "lev",
-       "strong": "H3820",
+       "t": "– toți",
+       "w": "– toți",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "inima (lev)",
-       "dict_ro": "Sursa morală a celei de-a treia categorii de daruri, pur voluntare."
+       "def_ro": "tot (kal)",
+       "dict_ro": "Al patrulea tip: donațiile voluntare, aduse din proprie inițiativă, dincolo de obligațiile rituale fixe."
       },
       {
        "t": " "
       },
       {
-       "t": "cuiva",
-       "w": "cuiva",
-       "heb": "אִישׁ",
-       "translit": "iș",
-       "strong": "H376",
+       "t": "banii",
+       "w": "banii",
+       "heb": "כֶּסֶף",
+       "translit": "kesef",
+       "strong": "H3701",
        "pos": "substantiv, masculin singular",
-       "def_ro": "[unui] om (iș)",
-       "dict_ro": "Subiectul impulsului voluntar de a dărui."
+       "def_ro": "banii (kesef)",
+       "dict_ro": "Al patrulea tip: donațiile voluntare, aduse din proprie inițiativă."
       },
       {
        "t": " "
       },
       {
-       "t": "îl îndeamnă",
-       "w": "îl îndeamnă",
-       "heb": "יַעֲלֶה",
-       "translit": "iaale",
-       "strong": "H5927",
-       "pos": "verb, qal imperfect",
-       "def_ro": "se va ridica (iaale)",
-       "dict_ro": "Verbul descrie impulsul interior, spontan, al dăruirii voluntare."
+       "t": "pe care inima cuiva",
+       "w": "pe care inima cuiva",
+       "heb": "יַעֲלֶה לֶב אִישׁ",
+       "translit": "iaale lev iș",
+       "strong": "H376",
+       "pos": "verb, qal imperfect + substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "care va urca pe inima omului (așer iaale al lev iș)",
+       "dict_ro": "Al patrulea tip: donațiile voluntare, aduse din proprie inițiativă, dincolo de obligațiile rituale fixe."
       },
       {
        "t": " "
       },
       {
-       "t": "să-i aducă",
-       "w": "să-i aducă",
+       "t": "îl îndeamnă să-i aducă",
+       "w": "îl îndeamnă să-i aducă",
        "heb": "לְהָבִיא",
        "translit": "lehavi",
        "strong": "H935",
        "pos": "verb, hifil infinitiv",
-       "def_ro": "să aducă (lehavi)",
-       "dict_ro": "Scopul final al tuturor celor trei categorii de daruri: aducerea lor la Templu."
+       "def_ro": "ca să aducă (lehavi)",
+       "dict_ro": "Al patrulea tip: donațiile voluntare, aduse din proprie inițiativă, dincolo de obligațiile rituale fixe."
       },
       {
        "t": " "
       },
       {
-       "t": "în Casa DOMNULUI,",
-       "w": "în Casa DOMNULUI,",
-       "heb": "בֵּית יְהוָה",
-       "translit": "bēt Adonai",
+       "t": "în Casa",
+       "w": "în Casa",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (bēt)",
+       "dict_ro": "Casa DOMNULUI, destinația finală a tuturor celor patru categorii de bani enumerate de Iehoaș."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "casa DOMNULUI (bēt Adonai)",
-       "dict_ro": "Toate cele trei tipuri de contribuții financiare erau, până la reforma lui Iehoaș, strânse și gestionate direct de preoți, înainte de a fi redirecționate explicit spre reparația Templului."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Casa DOMNULUI, destinația finală a tuturor celor patru categorii de bani enumerate de Iehoaș."
       }
      ],
      "textCompare": [
@@ -16654,17 +16882,14 @@
      "translit": "Ikhu lahem hakohanim iș meet makaro vehem iehazeku et-bedek habait lehol așer-imațe șam badek.",
      "tokens": [
       {
-       "t": "fie ca "
-      },
-      {
-       "t": "fiecare",
-       "w": "fiecare",
+       "t": "fie ca fiecare",
+       "w": "fie ca fiecare",
        "heb": "אִישׁ",
        "translit": "iș",
        "strong": "H376",
        "pos": "substantiv, masculin singular",
        "def_ro": "om (iș)",
-       "dict_ro": "Subiectul distribuit al propunerii inițiale de colectare individuală."
+       "dict_ro": "Fiecare preot primea banii direct de la cunoscuții săi, un sistem descentralizat de colectare."
       },
       {
        "t": " "
@@ -16677,7 +16902,7 @@
        "strong": "H3548",
        "pos": "substantiv, masculin plural",
        "def_ro": "preoții (hakohanim)",
-       "dict_ro": "Destinatarii inițiali ai propunerii de colectare și finanțare directă a reparațiilor."
+       "dict_ro": "Fiecare preot primea banii direct de la cunoscuții săi, un sistem descentralizat de colectare."
       },
       {
        "t": " "
@@ -16689,8 +16914,8 @@
        "translit": "ikhu lahem",
        "strong": "",
        "pos": "verb, qal jusiv + prepoziție + sufix",
-       "def_ro": "să ia pentru ei (ikhu lahem)",
-       "dict_ro": "Rashi: inițial, sistemul propus de Iehoaș prevedea ca preoții înșiși să primească direct banii și să plătească din propriul venit repararea Templului."
+       "def_ro": "vor primi pentru ei (ikhu lahem)",
+       "dict_ro": "Fiecare preot primea banii direct de la cunoscuții săi, un sistem descentralizat de colectare."
       },
       {
        "t": " "
@@ -16702,47 +16927,47 @@
        "translit": "mēēt makaro",
        "strong": "H4378",
        "pos": "prepoziție + substantiv, masculin singular construct + sufix",
-       "def_ro": "de la cunoscutul lui (mēēt makaro)",
-       "dict_ro": "Rashi identifică «makaro» cu persoana obișnuită, familiară, de la care fiecare preot își colecta regulat darurile și contribuțiile."
+       "def_ro": "de la cunoscutul lui, (mēēt makaro)",
+       "dict_ro": "Fiecare preot primea banii direct de la cunoscuții săi, un sistem descentralizat de colectare."
       },
       {
        "t": " "
       },
       {
-       "t": "și",
-       "w": "și",
-       "heb": "וְהֵם",
-       "translit": "vehēm",
-       "strong": "H1992",
-       "pos": "pronume personal",
-       "def_ro": "și ei (vehēm)",
-       "dict_ro": "Introduce a doua parte a propunerii: obligația preoților de a susține direct reparațiile."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "să susțină",
-       "w": "să susțină",
-       "heb": "יְחַזְּקוּ",
-       "translit": "iehazku",
+       "t": "și să susțină",
+       "w": "și să susțină",
+       "heb": "וְהֵם יְחַזְּקוּ",
+       "translit": "vehēm iehazku",
        "strong": "H2388",
-       "pos": "verb, piel imperfect",
-       "def_ro": "vor întări (iehazku)",
-       "dict_ro": "Rădăcina «hazak» (a întări) descrie lucrarea de consolidare și reparație structurală a clădirii Templului, deteriorată grav în timpul Ataliei."
+       "pos": "pronume personal + verb, piel imperfect",
+       "def_ro": "și ei vor întări (vehēm iehazku)",
+       "dict_ro": "Scopul final al colectării descentralizate: susținerea reparațiilor necesare la clădirea Templului."
       },
       {
        "t": " "
       },
       {
-       "t": "restaurarea Casei,",
-       "w": "restaurarea Casei,",
-       "heb": "בֶּדֶק הַבַּיִת",
-       "translit": "bedek habait",
+       "t": "restaurarea",
+       "w": "restaurarea",
+       "heb": "בֶּדֶק",
+       "translit": "bedek",
+       "strong": "H919",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "spărtura (bedek)",
+       "dict_ro": "Scopul final al colectării descentralizate: susținerea reparațiilor necesare la clădirea Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Casei,",
+       "w": "Casei,",
+       "heb": "הַבַּיִת",
+       "translit": "habait",
        "strong": "H1004",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "spărtura casei (bedek habait)",
-       "dict_ro": "Obiectul obligației propuse preoților: repararea structurală a Templului."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "casei, (habait)",
+       "dict_ro": "Scopul final al colectării descentralizate: susținerea reparațiilor necesare la clădirea Templului."
       },
       {
        "t": " "
@@ -16755,33 +16980,20 @@
        "strong": "H834",
        "pos": "substantiv, masculin singular + particulă relativă",
        "def_ro": "pentru tot ce (lehol așer)",
-       "dict_ro": "Formulă deschisă, lăsând la latitudinea celor responsabili identificarea exactă a punctelor care necesită reparație."
+       "dict_ro": "Formula «oriunde se va găsi» confirmă flexibilitatea sistemului, adaptat nevoilor reale constatate."
       },
       {
        "t": " "
       },
       {
-       "t": "se va găsi",
-       "w": "se va găsi",
-       "heb": "יִמָּצֵא",
-       "translit": "imațē",
-       "strong": "H4672",
-       "pos": "verb, nifal imperfect",
-       "def_ro": "se va găsi (imațē)",
-       "dict_ro": "Verbul deschide formula flexibilă care lasă la latitudinea responsabililor identificarea exactă a reparațiilor necesare."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "că va fi nevoie de vreo reparație.”",
-       "w": "că va fi nevoie de vreo reparație.”",
-       "heb": "בָּדֶק",
-       "translit": "badek",
+       "t": "se va găsi că va fi nevoie de vreo reparație.”",
+       "w": "se va găsi că va fi nevoie de vreo reparație.”",
+       "heb": "יִמָּצֵא שָׁם בָּדֶק",
+       "translit": "imațē șam badek",
        "strong": "H919",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "spărtură (badek)",
-       "dict_ro": "Confirmă caracterul deschis al propunerii: orice spărtură identificată trebuia reparată."
+       "pos": "verb, nifal imperfect + adverb + substantiv, masculin singular",
+       "def_ro": "se va găsi acolo spărtură. (imațē șam badek)",
+       "dict_ro": "Formula «oriunde se va găsi» confirmă flexibilitatea sistemului, adaptat nevoilor reale constatate."
       }
      ],
      "textCompare": [
@@ -16823,34 +17035,21 @@
        "translit": "vaihi",
        "strong": "H1961",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a fost (vaihi)",
-       "dict_ro": "Formula narativă standard, marcând trecerea timpului de la propunerea inițială a lui Iehoaș."
+       "def_ro": "și a fost, (vaihi)",
+       "dict_ro": "Formula de tranziție introduce constatarea eșecului sistemului descentralizat stabilit la v.5-6."
       },
       {
        "t": " "
       },
       {
-       "t": "în",
-       "w": "în",
-       "heb": "בִּשְׁנַת",
-       "translit": "bișnat",
-       "strong": "H8141",
-       "pos": "substantiv, feminin singular construct",
-       "def_ro": "în anul (bișnat)",
-       "dict_ro": "Formula standard de datare a cărților Împărați, legând evenimentul de anul de domnie al regelui."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "al douăzeci și treilea",
-       "w": "al douăzeci și treilea",
+       "t": "în al douăzeci și treilea",
+       "w": "în al douăzeci și treilea",
        "heb": "עֶשְׂרִים וְשָׁלֹשׁ",
        "translit": "esrim veșaloș",
        "strong": "H7969",
        "pos": "numeral + numeral",
        "def_ro": "douăzeci și trei (esrim veșaloș)",
-       "dict_ro": "Șaisprezece ani se scurg de la propunerea inițială a sistemului de colectare directă prin preoți, fără rezultate vizibile — un interval lung și dezamăgitor."
+       "dict_ro": "Durata lungă, 23 de ani, confirmă gravitatea eșecului sistemului de colectare descentralizată."
       },
       {
        "t": " "
@@ -16863,20 +17062,33 @@
        "strong": "H8141",
        "pos": "substantiv, feminin singular",
        "def_ro": "an (șana)",
-       "dict_ro": "Completează formula de datare exactă a constatării eșecului."
+       "dict_ro": "Durata lungă, 23 de ani, confirmă gravitatea eșecului sistemului de colectare descentralizată."
       },
       {
        "t": " "
       },
       {
-       "t": "al [domniei] regelui Iehoaș,",
-       "w": "al [domniei] regelui Iehoaș,",
-       "heb": "לַמֶּלֶךְ יְהוֹאָשׁ",
-       "translit": "lameleh iehoaș",
+       "t": "al [domniei] regelui",
+       "w": "al [domniei] regelui",
+       "heb": "בִּשְׁנַת לַמֶּלֶךְ",
+       "translit": "bișnat lameleh",
+       "strong": "H4428",
+       "pos": "substantiv, feminin singular construct + substantiv, masculin singular",
+       "def_ro": "anul regelui (bișnat lameleh)",
+       "dict_ro": "Durata lungă, 23 de ani, confirmă gravitatea eșecului sistemului de colectare descentralizată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iehoaș,",
+       "w": "Iehoaș,",
+       "heb": "יְהוֹאָשׁ",
+       "translit": "iehoaș",
        "strong": "H3060",
-       "pos": "substantiv, masculin singular + nume propriu",
-       "def_ro": "al regelui Iehoaș (lameleh iehoaș)",
-       "dict_ro": "Reperul cronologic exact al constatării eșecului sistemului inițial de colectare."
+       "pos": "nume propriu",
+       "def_ro": "Iehoaș, (iehoaș)",
+       "dict_ro": "Durata lungă, 23 de ani, confirmă gravitatea eșecului sistemului de colectare descentralizată."
       },
       {
        "t": " "
@@ -16889,7 +17101,7 @@
        "strong": "H3548",
        "pos": "substantiv, masculin plural",
        "def_ro": "preoții (hakohanim)",
-       "dict_ro": "Constatarea onestă a eșecului primului sistem propus — preoții nu reparaseră Templul, deși banii le fuseseră încredințați cu acest scop explicit."
+       "dict_ro": "Eșecul preoților de a susține reparațiile necesită, în versetele următoare, o reformă administrativă directă a regelui."
       },
       {
        "t": " "
@@ -16902,20 +17114,33 @@
        "strong": "H2388",
        "pos": "particulă negativă + verb, piel perfect",
        "def_ro": "nu au întărit (lo hizku)",
-       "dict_ro": "Verbul «hazak» repetat negativ, confirmând eșecul lucrării de consolidare promise la v.6."
+       "dict_ro": "Eșecul preoților de a susține reparațiile necesită o reformă administrativă directă a regelui."
       },
       {
        "t": " "
       },
       {
-       "t": "restaurarea Casei.",
-       "w": "restaurarea Casei.",
-       "heb": "בֶּדֶק הַבָּיִת",
-       "translit": "bedek habait",
+       "t": "restaurarea",
+       "w": "restaurarea",
+       "heb": "בֶּדֶק",
+       "translit": "bedek",
+       "strong": "H919",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "spărtura (bedek)",
+       "dict_ro": "Eșecul preoților de a susține reparațiile necesită o reformă administrativă directă a regelui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Casei.",
+       "w": "Casei.",
+       "heb": "הַבָּיִת",
+       "translit": "habait",
        "strong": "H1004",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "spărtura casei (bedek habait)",
-       "dict_ro": "Obiectul neîmplinit al obligației preoților, repararea structurală a Templului."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "casei. (habait)",
+       "dict_ro": "Eșecul preoților de a susține reparațiile necesită o reformă administrativă directă a regelui."
       }
      ],
      "textCompare": [
@@ -16945,43 +17170,66 @@
      "translit": "Vaikra hameleh Iehoaș l'Iehoiada hakohen velakohanim vaiomer alehem madua einehem mehazekim et-bedek habait veata al-tikhu-kesef meet makareihem ki-levedek habait titnuhu.",
      "tokens": [
       {
-       "t": "Și "
-      },
-      {
-       "t": "regele Iehoaș",
-       "w": "regele Iehoaș",
-       "heb": "הַמֶּלֶךְ יְהוֹאָשׁ",
-       "translit": "hameleh iehoaș",
-       "strong": "H3060",
-       "pos": "substantiv, masculin singular + nume propriu",
-       "def_ro": "regele Iehoaș (hameleh iehoaș)",
-       "dict_ro": "Subiectul intervenției directe, confruntând conducerea preoțească pentru eșecul vizibil."
+       "t": "Și regele",
+       "w": "Și regele",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
+       "strong": "H4428",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "regele (hameleh)",
+       "dict_ro": "Iehoaș intervine direct, confruntând Marele Preot și preoții cu eșecul sistemului stabilit."
       },
       {
        "t": " "
       },
       {
-       "t": "l-a chemat",
-       "w": "l-a chemat",
+       "t": "Iehoaș",
+       "w": "Iehoaș",
+       "heb": "יְהוֹאָשׁ",
+       "translit": "iehoaș",
+       "strong": "H3060",
+       "pos": "nume propriu",
+       "def_ro": "Iehoaș (iehoaș)",
+       "dict_ro": "Iehoaș intervine direct, confruntând Marele Preot și preoții cu eșecul sistemului stabilit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "l-a chemat pe",
+       "w": "l-a chemat pe",
        "heb": "וַיִּקְרָא",
        "translit": "vaikra",
        "strong": "H7121",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a chemat (vaikra)",
-       "dict_ro": "Regele intervine direct, confruntând conducerea preoțească pentru eșecul vizibil al sistemului inițial de finanțare."
+       "dict_ro": "Iehoaș intervine direct, confruntând Marele Preot și preoții cu eșecul sistemului stabilit."
       },
       {
        "t": " "
       },
       {
-       "t": "pe preotul Iehoiada",
-       "w": "pe preotul Iehoiada",
-       "heb": "לִיהוֹיָדָע הַכֹּהֵן",
-       "translit": "lihoiada hakohēn",
+       "t": "preotul",
+       "w": "preotul",
+       "heb": "הַכֹּהֵן",
+       "translit": "hakohēn",
        "strong": "H3548",
-       "pos": "nume propriu + substantiv, masculin singular",
-       "def_ro": "pe Iehoiada preotul (lihoiada hakohēn)",
-       "dict_ro": "Primul destinatar al confruntării regale, marele preot însuși."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "preotul (hakohēn)",
+       "dict_ro": "Iehoiada, mentorul regelui, e confruntat direct, alături de restul preoților, cu eșecul reparațiilor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iehoiada",
+       "w": "Iehoiada",
+       "heb": "לִיהוֹיָדָע",
+       "translit": "lihoiada",
+       "strong": "H3077",
+       "pos": "nume propriu",
+       "def_ro": "Iehoiada (lihoiada)",
+       "dict_ro": "Iehoiada, mentorul regelui, e confruntat direct, alături de restul preoților, cu eșecul reparațiilor."
       },
       {
        "t": " "
@@ -16993,8 +17241,8 @@
        "translit": "velakohanim",
        "strong": "H3548",
        "pos": "substantiv, masculin plural",
-       "def_ro": "și pe preoți (velakohanim)",
-       "dict_ro": "Al doilea grup convocat, întregul corp preoțesc responsabil de colectare."
+       "def_ro": "și preoților (velakohanim)",
+       "dict_ro": "Iehoiada, mentorul regelui, e confruntat direct, alături de restul preoților, cu eșecul reparațiilor."
       },
       {
        "t": " "
@@ -17006,8 +17254,8 @@
        "translit": "vaiomer alēhem",
        "strong": "H413",
        "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
-       "def_ro": "și a spus către ei (vaiomer alēhem)",
-       "dict_ro": "Introduce o critică regală directă, neobișnuit de fermă față de autoritatea preoțească."
+       "def_ro": "și a spus către ei: (vaiomer alēhem)",
+       "dict_ro": "Formula introduce mustrarea directă a regelui față de preoți."
       },
       {
        "t": " "
@@ -17020,7 +17268,7 @@
        "strong": "H4069",
        "pos": "particulă interogativă",
        "def_ro": "pentru ce (madua)",
-       "dict_ro": "Întrebarea directă deschide confruntarea regală cu eșecul vizibil al sistemului inițial."
+       "dict_ro": "Mustrarea regelui pune direct sub semnul întrebării eficiența sistemului vechi de colectare."
       },
       {
        "t": " "
@@ -17032,21 +17280,34 @@
        "translit": "ēnhem mehazkim",
        "strong": "H2388",
        "pos": "particulă negativă + sufix + verb, piel participiu",
-       "def_ro": "nu întăriți (ēnhem mehazkim)",
-       "dict_ro": "Întrebarea confirmă explicit eșecul: banii încredințați preoților nu au fost folosiți conform intenției declarate la v.6."
+       "def_ro": "voi nu întăriți (ēnhem mehazkim)",
+       "dict_ro": "Mustrarea regelui pune direct sub semnul întrebării eficiența sistemului vechi de colectare."
       },
       {
        "t": " "
       },
       {
-       "t": "restaurarea Casei?",
-       "w": "restaurarea Casei?",
-       "heb": "בֶּדֶק הַבָּיִת",
-       "translit": "bedek habait",
+       "t": "restaurarea",
+       "w": "restaurarea",
+       "heb": "בֶּדֶק",
+       "translit": "bedek",
+       "strong": "H919",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "spărtura (bedek)",
+       "dict_ro": "Mustrarea regelui pune direct sub semnul întrebării eficiența sistemului vechi de colectare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Casei?",
+       "w": "Casei?",
+       "heb": "הַבָּיִת",
+       "translit": "habait",
        "strong": "H1004",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "spărtura casei (bedek habait)",
-       "dict_ro": "Obiectul eșecului constatat, repararea structurală neîmplinită a Templului."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "casei? (habait)",
+       "dict_ro": "Mustrarea regelui pune direct sub semnul întrebării eficiența sistemului vechi de colectare."
       },
       {
        "t": " "
@@ -17058,34 +17319,21 @@
        "translit": "veata",
        "strong": "H6258",
        "pos": "adverb",
-       "def_ro": "și acum (veata)",
-       "dict_ro": "Radak notează suspiciunea implicită a regelui: poate preoții opreau banii pentru folos propriu, în loc să-i folosească pentru reparații."
+       "def_ro": "și acum, (veata)",
+       "dict_ro": "Reforma propusă de rege desparte definitiv colectarea banilor de responsabilitatea individuală a preoților."
       },
       {
        "t": " "
       },
       {
-       "t": "să nu",
-       "w": "să nu",
-       "heb": "אַל",
-       "translit": "al",
-       "strong": "H408",
-       "pos": "particulă negativă",
-       "def_ro": "nu (al)",
-       "dict_ro": "Negația imperativă introduce porunca regală de abandonare a vechiului sistem."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "mai primiți",
-       "w": "mai primiți",
-       "heb": "תִּקְחוּ",
-       "translit": "tikhu",
+       "t": "să nu mai primiți",
+       "w": "să nu mai primiți",
+       "heb": "אַל תִּקְחוּ",
+       "translit": "al tikhu",
        "strong": "H3947",
-       "pos": "verb, qal jusiv",
-       "def_ro": "luați (tikhu)",
-       "dict_ro": "Porunca regală de abandonare a sistemului inițial de colectare individuală."
+       "pos": "particulă negativă + verb, qal jusiv",
+       "def_ro": "nu veți mai lua (al tikhu)",
+       "dict_ro": "Reforma propusă de rege desparte definitiv colectarea banilor de responsabilitatea individuală a preoților."
       },
       {
        "t": " "
@@ -17097,8 +17345,8 @@
        "translit": "hesef",
        "strong": "H3701",
        "pos": "substantiv, masculin singular",
-       "def_ro": "argint (hesef)",
-       "dict_ro": "Obiectul interdicției regale, banii colectați pe vechiul sistem."
+       "def_ro": "bani (hesef)",
+       "dict_ro": "Reforma propusă de rege desparte definitiv colectarea banilor de responsabilitatea individuală a preoților."
       },
       {
        "t": " "
@@ -17110,47 +17358,47 @@
        "translit": "mēēt makarēhem",
        "strong": "H4378",
        "pos": "prepoziție + substantiv, masculin plural construct + sufix",
-       "def_ro": "de la cunoscuții voștri (mēēt makarēhem)",
-       "dict_ro": "Reia termenul exact de la v.6, confirmând că se referă la același sistem de colectare individuală, propus acum pentru abandonare."
+       "def_ro": "de la cunoscuții voștri, (mēēt makarēhem)",
+       "dict_ro": "Reforma propusă de rege desparte definitiv colectarea banilor de responsabilitatea individuală a preoților."
       },
       {
        "t": " "
       },
       {
-       "t": "ci",
-       "w": "ci",
-       "heb": "כִּי",
-       "translit": "ki",
-       "strong": "H3588",
-       "pos": "conjuncție",
-       "def_ro": "căci (ki)",
-       "dict_ro": "Introduce noua instrucțiune regală care înlocuiește vechiul sistem."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "să-i dați",
-       "w": "să-i dați",
-       "heb": "תִּתְּנֻהוּ",
-       "translit": "titnuhu",
+       "t": "ci să-i dați",
+       "w": "ci să-i dați",
+       "heb": "כִּי תִּתְּנֻהוּ",
+       "translit": "ki titnuhu",
        "strong": "H5414",
-       "pos": "verb, qal jusiv + sufix",
-       "def_ro": "îl veți da (titnuhu)",
-       "dict_ro": "Noua instrucțiune regală: redirecționarea imediată a tuturor banilor spre reparații, fără reținere."
+       "pos": "conjuncție + verb, qal jusiv + sufix",
+       "def_ro": "căci îl veți da (ki titnuhu)",
+       "dict_ro": "Reforma propusă de rege desparte definitiv colectarea banilor de responsabilitatea individuală a preoților."
       },
       {
        "t": " "
       },
       {
-       "t": "pentru restaurarea Casei.”",
-       "w": "pentru restaurarea Casei.”",
-       "heb": "לְבֶדֶק הַבַּיִת",
-       "translit": "levedek habait",
+       "t": "pentru restaurarea",
+       "w": "pentru restaurarea",
+       "heb": "לְבֶדֶק",
+       "translit": "levedek",
+       "strong": "H919",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "pentru spărtura (levedek)",
+       "dict_ro": "Scopul final rămâne același — reparațiile Templului — dar mecanismul de colectare se schimbă radical."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Casei.”",
+       "w": "Casei.”",
+       "heb": "הַבַּיִת",
+       "translit": "habait",
        "strong": "H1004",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "pentru spărtura casei (levedek habait)",
-       "dict_ro": "Rashi: noul principiu stabilit e simplu — orice bani ajunși la preoți trebuie direcționați imediat, fără reținere, spre reparația Templului."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "casei.” (habait)",
+       "dict_ro": "Scopul final rămâne același — reparațiile Templului — dar mecanismul de colectare se schimbă radical."
       }
      ],
      "textCompare": [
@@ -17187,7 +17435,7 @@
        "strong": "H3548",
        "pos": "substantiv, masculin plural",
        "def_ro": "preoții (hakohanim)",
-       "dict_ro": "Subiectul acceptării noului sistem propus de rege."
+       "dict_ro": "Acceptarea preoților marchează succesul reformei propuse de rege, fără rezistență instituțională."
       },
       {
        "t": " "
@@ -17199,8 +17447,8 @@
        "translit": "vaiēotu",
        "strong": "H225",
        "pos": "verb, nifal imperfect consecutiv",
-       "def_ro": "și au fost de acord (vaiēotu)",
-       "dict_ro": "Metzudat David: preoții sunt de acord cu noul sistem, probabil ușurați să nu mai fie suspectați de deturnarea fondurilor de restaurare."
+       "def_ro": "și au acceptat (vaiēotu)",
+       "dict_ro": "Acceptarea preoților marchează succesul reformei propuse de rege, fără rezistență instituțională."
       },
       {
        "t": " "
@@ -17212,8 +17460,8 @@
        "translit": "levilti kehat",
        "strong": "H3947",
        "pos": "conjuncție + verb, qal infinitiv",
-       "def_ro": "să nu ia (levilti kehat)",
-       "dict_ro": "Renunțarea voluntară la colectarea directă a banilor consacrați, pas necesar pentru noul sistem centralizat propus de Iehoiada la versetul următor."
+       "def_ro": "ca să nu mai ia (levilti kehat)",
+       "dict_ro": "Acceptarea preoților marchează succesul reformei propuse de rege, fără rezistență instituțională."
       },
       {
        "t": " "
@@ -17225,8 +17473,8 @@
        "translit": "kesef",
        "strong": "H3701",
        "pos": "substantiv, masculin singular",
-       "def_ro": "argint (kesef)",
-       "dict_ro": "Obiectul renunțării voluntare a preoților, colectarea directă."
+       "def_ro": "bani (kesef)",
+       "dict_ro": "Acceptarea preoților marchează succesul reformei propuse de rege, fără rezistență instituțională."
       },
       {
        "t": " "
@@ -17239,33 +17487,46 @@
        "strong": "H5971",
        "pos": "prepoziție + substantiv, masculin singular",
        "def_ro": "de la popor (mēēt haam)",
-       "dict_ro": "Sursa banilor pe care preoții renunță să-i mai colecteze direct."
+       "dict_ro": "Acceptarea preoților marchează succesul reformei propuse de rege, fără rezistență instituțională."
       },
       {
        "t": " "
       },
       {
-       "t": "și să nu mai susțină",
-       "w": "și să nu mai susțină",
+       "t": "și să nu mai susțină [din banii lor proprii]",
+       "w": "și să nu mai susțină [din banii lor proprii]",
        "heb": "וּלְבִלְתִּי חַזֵּק",
        "translit": "ulvilti hazēk",
        "strong": "H2388",
        "pos": "particulă negativă + verb, piel infinitiv",
-       "def_ro": "și să nu întărească (ulvilti hazēk)",
-       "dict_ro": "Odată ce nu mai colectează banii direct, preoții sunt automat eliberați și de obligația personală de a finanța reparațiile — responsabilitatea trece la un sistem instituțional nou."
+       "def_ro": "și ca să nu mai întărească (ulvilti hazēk)",
+       "dict_ro": "Preoții renunță complet la responsabilitatea personală a reparațiilor, transferată noului sistem centralizat."
       },
       {
        "t": " "
       },
       {
-       "t": "[din banii lor proprii] restaurarea Casei.",
-       "w": "[din banii lor proprii] restaurarea Casei.",
-       "heb": "בֶּדֶק הַבָּיִת",
-       "translit": "bedek habait",
+       "t": "restaurarea",
+       "w": "restaurarea",
+       "heb": "בֶּדֶק",
+       "translit": "bedek",
+       "strong": "H919",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "spărtura (bedek)",
+       "dict_ro": "Preoții renunță complet la responsabilitatea personală a reparațiilor, transferată noului sistem centralizat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Casei.",
+       "w": "Casei.",
+       "heb": "הַבָּיִת",
+       "translit": "habait",
        "strong": "H1004",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "spărtura casei (bedek habait)",
-       "dict_ro": "Obligația de care preoții sunt eliberați, odată renunțată colectarea directă."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "casei. (habait)",
+       "dict_ro": "Preoții renunță complet la responsabilitatea personală a reparațiilor, transferată noului sistem centralizat."
       }
      ],
      "textCompare": [
@@ -17295,14 +17556,27 @@
      "translit": "Vaikah Iehoiada hakohen aron ehad vaikov hor bedalto vaiten oto ețel hamizbeah miamin bevo-iș beit ADONAI venatnu-șama hakohanim șomrei hasaf et-kol-hakesef hamuva veit-ADONAI.",
      "tokens": [
       {
-       "t": "Preotul Iehoiada",
-       "w": "Preotul Iehoiada",
-       "heb": "יְהוֹיָדָע הַכֹּהֵן",
-       "translit": "iehoiada hakohēn",
+       "t": "Preotul",
+       "w": "Preotul",
+       "heb": "הַכֹּהֵן",
+       "translit": "hakohēn",
        "strong": "H3548",
-       "pos": "nume propriu + substantiv, masculin singular",
-       "def_ro": "Iehoiada preotul (iehoiada hakohēn)",
-       "dict_ro": "Noul sistem centralizat: în loc de colectare individuală prin preoți, un singur cufăr public, sub supravegherea directă a marelui preot."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "preotul (hakohēn)",
+       "dict_ro": "Iehoiada proiectează personal noul mecanism de colectare: un cufăr central, cu gaură în capac, plasat la intrarea Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iehoiada",
+       "w": "Iehoiada",
+       "heb": "יְהוֹיָדָע",
+       "translit": "iehoiada",
+       "strong": "H3077",
+       "pos": "nume propriu",
+       "def_ro": "Iehoiada (iehoiada)",
+       "dict_ro": "Iehoiada proiectează personal noul mecanism de colectare: un cufăr central, cu gaură în capac."
       },
       {
        "t": " "
@@ -17315,7 +17589,7 @@
        "strong": "H3947",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și a luat (vaikah)",
-       "dict_ro": "Primul act al noului sistem centralizat propus de Iehoiada."
+       "dict_ro": "Iehoiada proiectează personal noul mecanism de colectare: un cufăr central, cu gaură în capac."
       },
       {
        "t": " "
@@ -17327,34 +17601,21 @@
        "translit": "aron ehad",
        "strong": "H259",
        "pos": "substantiv, masculin și feminin singular + numeral",
-       "def_ro": "un cufăr unic (aron ehad)",
-       "dict_ro": "Instrumentul central al noului sistem, un singur cufăr public pentru toate contribuțiile."
+       "def_ro": "un cufăr, (aron ehad)",
+       "dict_ro": "Iehoiada proiectează personal noul mecanism de colectare: un cufăr central, cu gaură în capac."
       },
       {
        "t": " "
       },
       {
-       "t": "i-a făcut",
-       "w": "i-a făcut",
-       "heb": "וַיִּקֹּב",
-       "translit": "vaikov",
-       "strong": "H5344",
-       "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a găurit (vaikov)",
-       "dict_ro": "Mecanismul de securitate: banii puteau fi introduși prin gaură, dar cufărul nu putea fi deschis decât oficial, prevenind furtul sau accesul neautorizat."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "o gaură",
-       "w": "o gaură",
-       "heb": "חֹר",
-       "translit": "hor",
+       "t": "i-a făcut o gaură",
+       "w": "i-a făcut o gaură",
+       "heb": "וַיִּקֹּב חֹר",
+       "translit": "vaikov hor",
        "strong": "H2356",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "o gaură (hor)",
-       "dict_ro": "Deschiderea prin care banii puteau fi introduși fără a periclita securitatea cufărului."
+       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular",
+       "def_ro": "și a găurit o gaură (vaikov hor)",
+       "dict_ro": "Gaura în capac permitea introducerea banilor fără a deschide cufărul, sistem de securitate simplu dar eficient."
       },
       {
        "t": " "
@@ -17366,8 +17627,8 @@
        "translit": "bedalto",
        "strong": "H1817",
        "pos": "substantiv, feminin singular construct + sufix",
-       "def_ro": "în capacul lui (bedalto)",
-       "dict_ro": "Poziția exactă a găurii, în capacul cufărului."
+       "def_ro": "în ușa lui, (bedalto)",
+       "dict_ro": "Gaura în capac permitea introducerea banilor fără a deschide cufărul, sistem de securitate simplu dar eficient."
       },
       {
        "t": " "
@@ -17379,24 +17640,11 @@
        "translit": "vaitēn oto",
        "strong": "H853",
        "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + sufix",
-       "def_ro": "și l-a pus (vaitēn oto)",
-       "dict_ro": "Locația vizibilă, publică, lângă altarul principal, asigura accesul facil al tuturor celor care intrau să aducă daruri."
+       "def_ro": "și a pus-o (vaitēn oto)",
+       "dict_ro": "Poziția cufărului, lângă altar, la intrarea Templului, îl plasa vizibil pentru toți vizitatorii."
       },
       {
-       "t": " "
-      },
-      {
-       "t": "în partea dreaptă",
-       "w": "în partea dreaptă",
-       "heb": "מִיָּמִין",
-       "translit": "miamin",
-       "strong": "H3225",
-       "pos": "substantiv, feminin singular",
-       "def_ro": "din dreapta (miamin)",
-       "dict_ro": "Poziția exactă a cufărului față de altar."
-      },
-      {
-       "t": " "
+       "t": " în partea dreaptă "
       },
       {
        "t": "a altarului",
@@ -17405,8 +17653,8 @@
        "translit": "ēțel hamizbēah",
        "strong": "H4196",
        "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "lângă altar (ēțel hamizbēah)",
-       "dict_ro": "Locul altarului principal, reper central al curții Templului."
+       "def_ro": "lângă altar, (ēțel hamizbēah)",
+       "dict_ro": "Poziția cufărului, lângă altar, la intrarea Templului, îl plasa vizibil pentru toți vizitatorii."
       },
       {
        "t": " "
@@ -17414,25 +17662,38 @@
       {
        "t": "cum se intră",
        "w": "cum se intră",
-       "heb": "בְּבוֹא",
-       "translit": "bevo",
-       "strong": "H935",
-       "pos": "verb, qal infinitiv",
-       "def_ro": "când intră (bevo)",
-       "dict_ro": "Poziționarea la intrare făcea cufărul punctul de colectare obligatoriu pentru orice vizitator."
+       "heb": "בְּבוֹא אִישׁ",
+       "translit": "bevo iș",
+       "strong": "H376",
+       "pos": "verb, qal infinitiv + substantiv, masculin singular",
+       "def_ro": "la dreapta, când vine omul (miamin bevo iș)",
+       "dict_ro": "Poziția cufărului, la dreapta celor care intrau, îl plasa vizibil pentru toți vizitatorii."
       },
       {
        "t": " "
       },
       {
-       "t": "în Casa DOMNULUI,",
-       "w": "în Casa DOMNULUI,",
-       "heb": "בֵּית יְהוָה",
-       "translit": "bēt Adonai",
+       "t": "în Casa",
+       "w": "în Casa",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (bēt)",
+       "dict_ro": "Casa DOMNULUI, unde era plasat cufărul, confirmă caracterul public, verificabil, al noii colectări."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "casa DOMNULUI (bēt Adonai)",
-       "dict_ro": "Poziționat chiar la intrare, cufărul devenea punctul de colectare obligatoriu, vizibil pentru fiecare vizitator al Templului."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Casa DOMNULUI, unde era plasat cufărul, confirmă caracterul public, verificabil, al noii colectări."
       },
       {
        "t": " "
@@ -17445,46 +17706,46 @@
        "strong": "H3548",
        "pos": "substantiv, masculin plural",
        "def_ro": "preoții (hakohanim)",
-       "dict_ro": "Rashi identifică acești preoți cu «amarkalim», cei șapte responsabili cu cele șapte porți ale curții Templului, menționați în tradiția rabinică (Tosefta Șekalim)."
+       "dict_ro": "Preoții de pază primesc rolul unic și limitat de a pune banii primiți direct în cufăr, nu de a-i gestiona."
       },
       {
        "t": " "
       },
       {
-       "t": "care vegheau pragul",
-       "w": "care vegheau pragul",
-       "heb": "שֹׁמְרֵי הַסַּף",
-       "translit": "șomrē hasaf",
+       "t": "care vegheau",
+       "w": "care vegheau",
+       "heb": "שֹׁמְרֵי",
+       "translit": "șomrē",
+       "strong": "H8104",
+       "pos": "verb, qal participiu",
+       "def_ro": "cei ce vegheau (șomrē)",
+       "dict_ro": "Preoții de pază primesc rolul unic și limitat de a pune banii primiți direct în cufăr."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pragul",
+       "w": "pragul",
+       "heb": "הַסַּף",
+       "translit": "hasaf",
        "strong": "H5592",
-       "pos": "verb, qal participiu + substantiv, masculin singular",
-       "def_ro": "cei ce vegheau pragul (șomrē hasaf)",
-       "dict_ro": "Rolul specific al acestor preoți, paza pragului de la intrarea în curtea Templului."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "pragul (hasaf)",
+       "dict_ro": "Preoții de pază primesc rolul unic și limitat de a pune banii primiți direct în cufăr."
       },
       {
        "t": " "
       },
       {
-       "t": "au pus",
-       "w": "au pus",
-       "heb": "וְנָתְנוּ",
-       "translit": "venatnu",
-       "strong": "H5414",
-       "pos": "verb, qal perfect",
-       "def_ro": "și au pus (venatnu)",
-       "dict_ro": "Actul concret al colectării, prin introducerea banilor în cufărul central."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "în el",
-       "w": "în el",
-       "heb": "שָׁמָּה",
-       "translit": "șama",
+       "t": "au pus în el",
+       "w": "au pus în el",
+       "heb": "וְנָתְנוּ שָׁמָּה",
+       "translit": "venatnu șama",
        "strong": "H8033",
-       "pos": "adverb",
-       "def_ro": "acolo (șama)",
-       "dict_ro": "Precizează locul exact al depunerii, în cufărul descris la începutul versetului."
+       "pos": "verb, qal perfect + adverb",
+       "def_ro": "și au dat acolo (venatnu șama)",
+       "dict_ro": "Preoții de pază primesc rolul unic și limitat de a pune banii primiți direct în cufăr, nu de a-i gestiona."
       },
       {
        "t": " "
@@ -17497,7 +17758,7 @@
        "strong": "H3605",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "tot (kal)",
-       "dict_ro": "Subliniază caracterul exhaustiv al colectării, fără excepție de categorie."
+       "dict_ro": "Noul sistem centralizat colectează, prin acest unic cufăr, toți banii aduși la Templu."
       },
       {
        "t": " "
@@ -17510,7 +17771,7 @@
        "strong": "H3701",
        "pos": "substantiv, masculin singular",
        "def_ro": "argintul (hakesef)",
-       "dict_ro": "Obiectul colectării exhaustive, toate contribuțiile aduse la Templu."
+       "dict_ro": "Noul sistem centralizat colectează, prin acest unic cufăr, toți banii aduși la Templu."
       },
       {
        "t": " "
@@ -17522,21 +17783,34 @@
        "translit": "hamuva",
        "strong": "H935",
        "pos": "verb, hofal participiu pasiv",
-       "def_ro": "adus (hamuva)",
-       "dict_ro": "Confirmă proveniența: toate contribuțiile aduse la Templu, indiferent de categorie."
+       "def_ro": "cel adus (hamuva)",
+       "dict_ro": "Noul sistem centralizat colectează, prin acest unic cufăr, toți banii aduși la Templu."
       },
       {
        "t": " "
       },
       {
-       "t": "în Casa DOMNULUI.",
-       "w": "în Casa DOMNULUI.",
-       "heb": "בֵית יְהוָה",
-       "translit": "vēt Adonai",
+       "t": "în Casa",
+       "w": "în Casa",
+       "heb": "בֵית",
+       "translit": "vēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (vēt)",
+       "dict_ro": "Casa DOMNULUI rămâne destinația unică a tuturor fondurilor colectate prin noul sistem."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "casa DOMNULUI (vēt Adonai)",
-       "dict_ro": "Toate contribuțiile financiare, indiferent de categorie, erau de acum colectate transparent, printr-un singur canal supravegheat oficial."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI. (Adonai)",
+       "dict_ro": "Casa DOMNULUI rămâne destinația unică a tuturor fondurilor colectate prin noul sistem."
       }
      ],
      "textCompare": [
@@ -17572,53 +17846,40 @@
      "translit": "Vaihi kirotám ki-rav hakesef baaron vaiaal sofer hameleh vehakohen hagadol vaiatzuru vaimnu et-hakesef hanimța veit-ADONAI.",
      "tokens": [
       {
-       "t": "Când",
-       "w": "Când",
-       "heb": "וַיְהִי",
-       "translit": "vaihi",
-       "strong": "H1961",
-       "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a fost (vaihi)",
-       "dict_ro": "Formula narativă standard, introducând momentul verificării periodice."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "au văzut",
-       "w": "au văzut",
-       "heb": "כִּרְאוֹתָם",
-       "translit": "kirotam",
+       "t": "Când au văzut",
+       "w": "Când au văzut",
+       "heb": "וַיְהִי כִּרְאוֹתָם",
+       "translit": "vaihi kirotam",
        "strong": "H7200",
-       "pos": "verb, qal infinitiv + sufix",
-       "def_ro": "la vederea lor (kirotam)",
-       "dict_ro": "Momentul declanșator al verificării periodice a cufărului."
+       "pos": "verb, qal imperfect consecutiv + verb, qal infinitiv + sufix",
+       "def_ro": "și a fost, la vederea lor (vaihi kirotam)",
+       "dict_ro": "Verificarea periodică a cufărului confirmă sistemul de control instituit pentru noua metodă de colectare."
       },
       {
        "t": " "
       },
       {
-       "t": "că",
-       "w": "că",
+       "t": "că se strânseseră",
+       "w": "că se strânseseră",
        "heb": "כִּי",
        "translit": "ki",
        "strong": "H3588",
        "pos": "conjuncție",
        "def_ro": "că (ki)",
-       "dict_ro": "Introduce constatarea care declanșează deplasarea celor doi oficiali."
+       "dict_ro": "Verificarea periodică a cufărului confirmă sistemul de control instituit pentru noua metodă de colectare."
       },
       {
        "t": " "
       },
       {
-       "t": "se strânseseră mulți",
-       "w": "se strânseseră mulți",
+       "t": "mulți",
+       "w": "mulți",
        "heb": "רַב",
        "translit": "rav",
        "strong": "H7227",
        "pos": "adjectiv, masculin singular",
        "def_ro": "mult (rav)",
-       "dict_ro": "Rashi: această verificare avea loc periodic, zi de zi, nu doar o singură dată — sistemul funcționa printr-o inspecție regulată, nu la întâmplare."
+       "dict_ro": "Verificarea periodică a cufărului confirmă sistemul de control instituit pentru noua metodă de colectare."
       },
       {
        "t": " "
@@ -17631,7 +17892,7 @@
        "strong": "H3701",
        "pos": "substantiv, masculin singular",
        "def_ro": "argintul (hakesef)",
-       "dict_ro": "Obiectul constatării, suma acumulată în cufăr."
+       "dict_ro": "Verificarea periodică a cufărului confirmă sistemul de control instituit pentru noua metodă de colectare."
       },
       {
        "t": " "
@@ -17643,34 +17904,60 @@
        "translit": "baaron",
        "strong": "H727",
        "pos": "substantiv, masculin și feminin singular",
-       "def_ro": "în cufăr (baaron)",
-       "dict_ro": "Locul unde se acumulau contribuțiile colectate."
+       "def_ro": "în cufăr, (baaron)",
+       "dict_ro": "Verificarea periodică a cufărului confirmă sistemul de control instituit pentru noua metodă de colectare."
       },
       {
        "t": " "
       },
       {
-       "t": "scribul regal",
-       "w": "scribul regal",
-       "heb": "סֹפֵר הַמֶּלֶךְ",
-       "translit": "sofēr hameleh",
+       "t": "scribul",
+       "w": "scribul",
+       "heb": "סֹפֵר",
+       "translit": "sofēr",
+       "strong": "H5608",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "scribul (sofēr)",
+       "dict_ro": "Doi funcționari oficiali, scribul regal și Marele Preot, supraveghează împreună numărarea și sigilarea banilor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "regal",
+       "w": "regal",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
        "strong": "H4428",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "scribul regelui (sofēr hameleh)",
-       "dict_ro": "Numirea celor doi oficiali de rang înalt, unul reprezentând autoritatea regală, celălalt autoritatea sacerdotală, confirmă transparența dublă a sistemului de verificare."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "regelui (hameleh)",
+       "dict_ro": "Doi funcționari oficiali, scribul regal și Marele Preot, supraveghează împreună numărarea și sigilarea banilor."
       },
       {
        "t": " "
       },
       {
-       "t": "și Marele Preot",
-       "w": "și Marele Preot",
-       "heb": "וְהַכֹּהֵן הַגָּדוֹל",
-       "translit": "vehakohēn hagadol",
+       "t": "și Marele",
+       "w": "și Marele",
+       "heb": "הַגָּדוֹל",
+       "translit": "hagadol",
        "strong": "H1419",
-       "pos": "substantiv, masculin singular + adjectiv, masculin singular",
-       "def_ro": "și preotul cel mare (vehakohēn hagadol)",
-       "dict_ro": "Al doilea oficial, reprezentând autoritatea sacerdotală în procesul de verificare."
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "și preotul (vehakohēn)",
+       "dict_ro": "Doi funcționari oficiali, scribul regal și Marele Preot, supraveghează împreună numărarea și sigilarea banilor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Preot",
+       "w": "Preot",
+       "heb": "וְהַכֹּהֵן",
+       "translit": "vehakohēn",
+       "strong": "H3548",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "cel mare (hagadol)",
+       "dict_ro": "Doi funcționari oficiali, scribul regal și Marele Preot, supraveghează împreună numărarea și sigilarea banilor."
       },
       {
        "t": " "
@@ -17682,8 +17969,8 @@
        "translit": "vaiaal",
        "strong": "H5927",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și s-au suit (vaiaal)",
-       "dict_ro": "Deplasarea celor doi oficiali la locul cufărului pentru verificarea periodică."
+       "def_ro": "au suit (vaiaal)",
+       "dict_ro": "Doi funcționari oficiali, scribul regal și Marele Preot, supraveghează împreună numărarea și sigilarea banilor."
       },
       {
        "t": " "
@@ -17695,8 +17982,8 @@
        "translit": "vaiațuru",
        "strong": "H6696",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și au legat (vaiațuru)",
-       "dict_ro": "Radak: banii erau mai întâi puși în formă de monede (dacă nu erau deja), apoi organizați în saci pentru a putea fi transportați și distribuiți ușor."
+       "def_ro": "și au sigilat (vaiațuru)",
+       "dict_ro": "Sigilarea banilor în saci confirmă procedura oficială, verificabilă, a noii metode de colectare."
       },
       {
        "t": " "
@@ -17709,7 +17996,7 @@
        "strong": "H4487",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și au numărat (vaimnu)",
-       "dict_ro": "Actul final al verificării, numărarea precisă a sumei colectate."
+       "dict_ro": "Sigilarea și numărarea banilor confirmă procedura oficială, verificabilă, a noii metode de colectare."
       },
       {
        "t": " "
@@ -17722,7 +18009,7 @@
        "strong": "H3701",
        "pos": "substantiv, masculin singular",
        "def_ro": "argintul (hakesef)",
-       "dict_ro": "Obiectul numărării finale, confirmat oficial de cei doi martori."
+       "dict_ro": "Sigilarea și numărarea banilor confirmă procedura oficială, verificabilă, a noii metode de colectare."
       },
       {
        "t": " "
@@ -17734,21 +18021,34 @@
        "translit": "hanimța",
        "strong": "H4672",
        "pos": "verb, nifal participiu",
-       "def_ro": "care se găsea (hanimța)",
-       "dict_ro": "Confirmă obiectul numărării, banii efectiv colectați în cufăr."
+       "def_ro": "cel găsit (hanimța)",
+       "dict_ro": "Sigilarea și numărarea banilor confirmă procedura oficială, verificabilă, a noii metode de colectare."
       },
       {
        "t": " "
       },
       {
-       "t": "în Casa DOMNULUI.",
-       "w": "în Casa DOMNULUI.",
-       "heb": "בֵית יְהוָה",
-       "translit": "vēt Adonai",
+       "t": "în Casa",
+       "w": "în Casa",
+       "heb": "בֵית",
+       "translit": "vēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (vēt)",
+       "dict_ro": "Casa DOMNULUI, locul unic al colectării, rămâne constant pe tot parcursul procedurii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "casa DOMNULUI (vēt Adonai)",
-       "dict_ro": "Numărarea precisă, documentată, a sumelor colectate, pas esențial pentru responsabilitatea financiară a întregului proiect de restaurare."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI. (Adonai)",
+       "dict_ro": "Casa DOMNULUI, locul unic al colectării, rămâne constant pe tot parcursul procedurii."
       }
      ],
      "textCompare": [
@@ -17790,7 +18090,7 @@
        "strong": "H5414",
        "pos": "verb, qal perfect",
        "def_ro": "și au dat (venatnu)",
-       "dict_ro": "Rashi: banii, deja numărați și verificați de scrib și marele preot, erau predați direct responsabililor de execuția lucrărilor."
+       "dict_ro": "Banii numărați erau predați direct lucrătorilor desemnați oficial, fără intermediere preoțească individuală."
       },
       {
        "t": " "
@@ -17803,7 +18103,7 @@
        "strong": "H3701",
        "pos": "substantiv, masculin singular",
        "def_ro": "argintul (hakesef)",
-       "dict_ro": "Obiectul predării, fondurile deja verificate oficial."
+       "dict_ro": "Banii numărați erau predați direct lucrătorilor desemnați oficial, fără intermediere preoțească individuală."
       },
       {
        "t": " "
@@ -17815,8 +18115,8 @@
        "translit": "hamtukan",
        "strong": "H8505",
        "pos": "verb, pual participiu pasiv",
-       "def_ro": "pregătit (hamtukan)",
-       "dict_ro": "Confirmă că banii predați fuseseră deja verificați și numărați oficial."
+       "def_ro": "cel socotit (hamtukan)",
+       "dict_ro": "Banii numărați erau predați direct lucrătorilor desemnați oficial, fără intermediere preoțească individuală."
       },
       {
        "t": " "
@@ -17828,8 +18128,8 @@
        "translit": "al iedē",
        "strong": "H3027",
        "pos": "prepoziție + substantiv, masculin și feminin dual construct",
-       "def_ro": "pe mâna (al iedē)",
-       "dict_ro": "Termenul «osē hamlaha» identifică maiștrii-constructori, supraveghetorii direcți ai lucrărilor de reparație, nu muncitorii de rând."
+       "def_ro": "pe mâinile (al iedē)",
+       "dict_ro": "Banii numărați erau predați direct lucrătorilor desemnați oficial, fără intermediere preoțească individuală."
       },
       {
        "t": " "
@@ -17841,8 +18141,8 @@
        "translit": "osē hamlaha",
        "strong": "H4399",
        "pos": "verb, qal participiu + substantiv, feminin singular",
-       "def_ro": "celor ce fac lucrarea (osē hamlaha)",
-       "dict_ro": "Destinatarii fondurilor, maiștrii-constructori responsabili de execuția lucrărilor."
+       "def_ro": "celor ce fac lucrarea, (osē hamlaha)",
+       "dict_ro": "Banii numărați erau predați direct lucrătorilor desemnați oficial, fără intermediere preoțească individuală."
       },
       {
        "t": " "
@@ -17854,21 +18154,34 @@
        "translit": "hamufkadim",
        "strong": "H6485",
        "pos": "verb, hofal participiu pasiv",
-       "def_ro": "cei ce erau puși (hamufkadim)",
-       "dict_ro": "Confirmă structura oficială, numită, nu voluntariatul ad-hoc — un sistem administrativ stabil pentru gestionarea proiectului."
+       "def_ro": "cei numiți, (hamufkadim)",
+       "dict_ro": "Banii numărați erau predați direct lucrătorilor desemnați oficial, fără intermediere preoțească individuală."
       },
       {
        "t": " "
       },
       {
-       "t": "în Casa DOMNULUI,",
-       "w": "în Casa DOMNULUI,",
-       "heb": "בֵּית יְהוָה",
-       "translit": "bēt Adonai",
+       "t": "în Casa",
+       "w": "în Casa",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (bēt)",
+       "dict_ro": "Casa DOMNULUI rămâne destinatarul final al întregii lucrări de restaurare finanțate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "casa DOMNULUI (bēt Adonai)",
-       "dict_ro": "Locul desfășurării lucrărilor, Templul restaurat."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Casa DOMNULUI rămâne destinatarul final al întregii lucrări de restaurare finanțate."
       },
       {
        "t": " "
@@ -17880,8 +18193,8 @@
        "translit": "vaioțiuhu",
        "strong": "H3318",
        "pos": "verb, hifil imperfect consecutiv + sufix",
-       "def_ro": "și l-au scos (vaioțiuhu)",
-       "dict_ro": "Actul concret al plății, redirecționarea fondurilor către meșteșugarii angajați."
+       "def_ro": "și i-au scos (vaioțiuhu)",
+       "dict_ro": "Lista exactă a meseriilor plătite confirmă organizarea profesională, specializată, a reparațiilor."
       },
       {
        "t": " "
@@ -17893,8 +18206,8 @@
        "translit": "leharașē haēț",
        "strong": "H6086",
        "pos": "substantiv, masculin plural construct + substantiv, masculin singular",
-       "def_ro": "pentru lucrătorii lemnului (leharașē haēț)",
-       "dict_ro": "Prima categorie de meșteșugari plătiți: lucrătorii lemnului, responsabili cu structurile și mobilierul din lemn."
+       "def_ro": "pentru tâmplarii lemnului, (leharașē haēț)",
+       "dict_ro": "Lista exactă a meseriilor plătite confirmă organizarea profesională, specializată, a reparațiilor."
       },
       {
        "t": " "
@@ -17902,12 +18215,12 @@
       {
        "t": "și zidarii",
        "w": "și zidarii",
-       "heb": "וְלַבֹּנִים",
-       "translit": "velabonim",
-       "strong": "H1129",
-       "pos": "verb, qal participiu",
-       "def_ro": "și pentru zidari (velabonim)",
-       "dict_ro": "A doua categorie de meșteșugari plătiți."
+       "heb": "וְלַבֹּנִים הָעֹשִׂים",
+       "translit": "velabonim haosim",
+       "strong": "H6213",
+       "pos": "verb, qal participiu + verb, qal participiu",
+       "def_ro": "și pentru zidarii (velabonim)",
+       "dict_ro": "Lista exactă a meseriilor plătite confirmă organizarea profesională, specializată, a reparațiilor."
       },
       {
        "t": " "
@@ -17919,21 +18232,34 @@
        "translit": "haosim",
        "strong": "H6213",
        "pos": "verb, qal participiu",
-       "def_ro": "cei ce lucrau (haosim)",
-       "dict_ro": "Confirmă activitatea efectivă a zidarilor la lucrările Templului."
+       "def_ro": "cei ce fac (haosim)",
+       "dict_ro": "Lista exactă a meseriilor plătite confirmă organizarea profesională, specializată, a reparațiilor."
       },
       {
        "t": " "
       },
       {
-       "t": "în Casa DOMNULUI,",
-       "w": "în Casa DOMNULUI,",
-       "heb": "בֵּית יְהוָה",
-       "translit": "bēt Adonai",
+       "t": "în Casa",
+       "w": "în Casa",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (bēt)",
+       "dict_ro": "Casa DOMNULUI rămâne destinatarul final al întregii lucrări de restaurare finanțate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "casa DOMNULUI (bēt Adonai)",
-       "dict_ro": "A doua categorie: zidarii, responsabili cu structura de bază a clădirii Templului, element central al restaurării."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Casa DOMNULUI rămâne destinatarul final al întregii lucrări de restaurare finanțate."
       }
      ],
      "textCompare": [
@@ -17969,8 +18295,8 @@
        "translit": "velagodrim",
        "strong": "H1443",
        "pos": "verb, qal participiu",
-       "def_ro": "și pentru constructorii de ziduri (velagodrim)",
-       "dict_ro": "Rashi distinge două categorii: «godrim», constructori ai zidurilor de piatră, și «hotzvē haeven», cei care tăiau blocurile direct din cariera de piatră."
+       "def_ro": "și pentru cei ce zidesc (velagodrim)",
+       "dict_ro": "Lista continuă cu meseriile specializate în piatră, parte a aceleiași reforme administrative organizate."
       },
       {
        "t": " "
@@ -17982,34 +18308,60 @@
        "translit": "ulhoțvē haeven",
        "strong": "H68",
        "pos": "verb, qal participiu + substantiv, feminin singular",
-       "def_ro": "și pentru cioplitorii pietrei (ulhoțvē haeven)",
-       "dict_ro": "A doua categorie de meșteșugari ai pietrei, cei care extrăgeau blocurile direct din carieră."
+       "def_ro": "și pentru cioplitorii pietrei, (ulhoțvē haeven)",
+       "dict_ro": "Lista continuă cu meseriile specializate în piatră, parte a aceleiași reforme administrative organizate."
       },
       {
        "t": " "
       },
       {
-       "t": "ca să cumpere lemn",
-       "w": "ca să cumpere lemn",
-       "heb": "וְלִקְנוֹת עֵצִים",
-       "translit": "veliknot ēțim",
+       "t": "ca să cumpere",
+       "w": "ca să cumpere",
+       "heb": "וְלִקְנוֹת",
+       "translit": "veliknot",
+       "strong": "H7069",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "și ca să cumpere (veliknot)",
+       "dict_ro": "Achiziția materialelor — lemn și piatră — era finanțată direct din fondul central, nu lăsată pe seama lucrătorilor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lemn",
+       "w": "lemn",
+       "heb": "עֵצִים",
+       "translit": "ēțim",
        "strong": "H6086",
-       "pos": "verb, qal infinitiv + substantiv, masculin plural",
-       "def_ro": "și să cumpere lemne (veliknot ēțim)",
-       "dict_ro": "Confirmă că resursele includeau nu doar plata meșteșugarilor, ci și achiziția directă a materialelor de construcție."
+       "pos": "substantiv, masculin plural",
+       "def_ro": "lemne (ēțim)",
+       "dict_ro": "Achiziția materialelor — lemn și piatră — era finanțată direct din fondul central, nu lăsată pe seama lucrătorilor."
       },
       {
        "t": " "
       },
       {
-       "t": "și să taie piatră",
-       "w": "și să taie piatră",
-       "heb": "וְאַבְנֵי מַחְצֵב",
-       "translit": "veavnē mahțēv",
+       "t": "și să taie",
+       "w": "și să taie",
+       "heb": "מַחְצֵב",
+       "translit": "mahțēv",
        "strong": "H4274",
-       "pos": "substantiv, feminin plural construct + substantiv, masculin singular",
-       "def_ro": "și pietre de carieră (veavnē mahțēv)",
-       "dict_ro": "A doua resursă achiziționată direct, piatra tăiată din carieră."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "piatra (mahțēv)",
+       "dict_ro": "Achiziția materialelor — lemn și piatră — era finanțată direct din fondul central."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "piatră",
+       "w": "piatră",
+       "heb": "וְאַבְנֵי",
+       "translit": "veavnē",
+       "strong": "H68",
+       "pos": "substantiv, feminin plural construct",
+       "def_ro": "și pietrele (veavnē)",
+       "dict_ro": "Achiziția materialelor — lemn și piatră — era finanțată direct din fondul central."
       },
       {
        "t": " "
@@ -18021,8 +18373,8 @@
        "translit": "lehazēk",
        "strong": "H2388",
        "pos": "verb, piel infinitiv",
-       "def_ro": "să întărească (lehazēk)",
-       "dict_ro": "Formulă-cheie repetată de-a lungul întregului pasaj, confirmând scopul unic al acestor cheltuieli."
+       "def_ro": "ca să întărească (lehazēk)",
+       "dict_ro": "Scopul final al întregii cheltuieli rămâne constant: susținerea reparațiilor Templului."
       },
       {
        "t": " "
@@ -18035,7 +18387,7 @@
        "strong": "H919",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "spărtura (bedek)",
-       "dict_ro": "Obiectul final al tuturor acestor cheltuieli de materiale și manoperă."
+       "dict_ro": "Scopul final al întregii cheltuieli rămâne constant: susținerea reparațiilor Templului."
       },
       {
        "t": " "
@@ -18043,12 +18395,12 @@
       {
        "t": "Casei,",
        "w": "Casei,",
-       "heb": "בֵּית יְהוָה",
-       "translit": "bēt Adonai",
-       "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "casei DOMNULUI (bēt Adonai)",
-       "dict_ro": "Destinația finală a resurselor, Templul restaurat."
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casei (bēt)",
+       "dict_ro": "Scopul final al întregii cheltuieli rămâne constant: susținerea reparațiilor Templului lui DOMNUL."
       },
       {
        "t": " "
@@ -18061,7 +18413,7 @@
        "strong": "H834",
        "pos": "substantiv, masculin singular + particulă relativă",
        "def_ro": "și pentru tot ce (ulhol așer)",
-       "dict_ro": "Clauză finală, deschisă, care acoperă orice alte cheltuieli necesare neenumerate explicit, confirmând caracterul exhaustiv al finanțării."
+       "dict_ro": "Formula finală cuprinde orice altă cheltuială necesară, dincolo de lista specifică enumerată."
       },
       {
        "t": " "
@@ -18073,8 +18425,8 @@
        "translit": "iēțē",
        "strong": "H3318",
        "pos": "verb, qal imperfect",
-       "def_ro": "se cheltuia (iēțē)",
-       "dict_ro": "Verbul descrie fluxul continuu de cheltuieli necesare lucrării de restaurare."
+       "def_ro": "va fi dat (iēțē)",
+       "dict_ro": "Formula finală cuprinde orice altă cheltuială necesară, dincolo de lista specifică enumerată."
       },
       {
        "t": " "
@@ -18086,8 +18438,8 @@
        "translit": "al lehazka",
        "strong": "H2394",
        "pos": "prepoziție + verb, qal infinitiv",
-       "def_ro": "pentru casă, de întărire (al lehazka)",
-       "dict_ro": "Scopul clauzei finale, acoperind orice cheltuială necesară reparației."
+       "def_ro": "asupra casei pentru susținerea ei. (al habait lehazka)",
+       "dict_ro": "Formula finală cuprinde orice altă cheltuială necesară pentru susținerea Casei."
       },
       {
        "t": " "
@@ -18099,8 +18451,8 @@
        "translit": "habait",
        "strong": "H1004",
        "pos": "substantiv, masculin singular",
-       "def_ro": "casa (habait)",
-       "dict_ro": "Obiectul final al tuturor cheltuielilor enumerate în acest pasaj."
+       "def_ro": "casei (habait)",
+       "dict_ro": "Formula finală cuprinde orice altă cheltuială necesară pentru susținerea Casei."
       }
      ],
      "textCompare": [
@@ -18136,8 +18488,8 @@
        "translit": "ah",
        "strong": "H389",
        "pos": "particulă afirmativă",
-       "def_ro": "dar (ah)",
-       "dict_ro": "Particula introduce restricția: obiectele de lux nu erau prioritare în această etapă."
+       "def_ro": "doar (ah)",
+       "dict_ro": "Interdicția explicită protejează fondurile destinate reparațiilor de a fi redirecționate spre obiecte de cult decorative."
       },
       {
        "t": " "
@@ -18149,8 +18501,8 @@
        "translit": "sipot kesef",
        "strong": "H3701",
        "pos": "substantiv, masculin plural construct + substantiv, masculin singular",
-       "def_ro": "boluri de argint (sipot kesef)",
-       "dict_ro": "Rashi grupează acest termen cu instrumentele muzicale menționate imediat după, ambele fiind obiecte de lux folosite în cult, dar nu prioritare în acest moment."
+       "def_ro": "ulcioare de argint, (sipot kesef)",
+       "dict_ro": "Interdicția explicită protejează fondurile destinate reparațiilor de a fi redirecționate spre obiecte de cult decorative."
       },
       {
        "t": " "
@@ -18162,8 +18514,8 @@
        "translit": "mezamrot",
        "strong": "H4212",
        "pos": "substantiv, feminin plural",
-       "def_ro": "instrumente muzicale (mezamrot)",
-       "dict_ro": "Rashi: instrumentele folosite în cântarea levitică din Templu, legate de rădăcina «zimra»."
+       "def_ro": "instrumente muzicale, (mezamrot)",
+       "dict_ro": "Interdicția explicită protejează fondurile destinate reparațiilor de a fi redirecționate spre obiecte de cult decorative."
       },
       {
        "t": " "
@@ -18175,8 +18527,8 @@
        "translit": "mizrakot",
        "strong": "H4219",
        "pos": "substantiv, masculin plural",
-       "def_ro": "vase pentru sânge (mizrakot)",
-       "dict_ro": "Bolurile pentru sânge, repetate aici din lista obiectelor liturgice standard — toate omise temporar din priorități."
+       "def_ro": "vase pentru stropire, (mizrakot)",
+       "dict_ro": "Interdicția explicită protejează fondurile destinate reparațiilor de a fi redirecționate spre obiecte de cult decorative."
       },
       {
        "t": " "
@@ -18188,21 +18540,34 @@
        "translit": "hațoțrot",
        "strong": "H2689",
        "pos": "substantiv, feminin plural",
-       "def_ro": "trâmbițe (hațoțrot)",
-       "dict_ro": "Instrumente folosite de preoți pentru semnale sonore în timpul ceremoniilor și al mobilizării poporului."
+       "def_ro": "trâmbițe, (hațoțrot)",
+       "dict_ro": "Interdicția explicită protejează fondurile destinate reparațiilor de a fi redirecționate spre obiecte de cult decorative."
       },
       {
-       "t": " sau "
+       "t": " "
       },
       {
-       "t": "orice vas",
-       "w": "orice vas",
-       "heb": "כָּל כְּלִי",
-       "translit": "kal keli",
+       "t": "sau orice",
+       "w": "sau orice",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tot (kal)",
+       "dict_ro": "Interdicția explicită protejează fondurile destinate reparațiilor de a fi redirecționate spre obiecte de cult decorative."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "vas",
+       "w": "vas",
+       "heb": "כְּלִי",
+       "translit": "keli",
        "strong": "H3627",
-       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct",
-       "def_ro": "orice vas (kal keli)",
-       "dict_ro": "Formula generală care închide lista — niciun obiect liturgic de lux, din aur sau argint, nu a fost confecționat în acest moment."
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "vas de (keli)",
+       "dict_ro": "Interdicția explicită protejează fondurile destinate reparațiilor de a fi redirecționate spre obiecte de cult decorative."
       },
       {
        "t": " "
@@ -18214,34 +18579,21 @@
        "translit": "zahav",
        "strong": "H2091",
        "pos": "substantiv, masculin singular",
-       "def_ro": "de aur (zahav)",
-       "dict_ro": "Primul material prețios menționat, exclus temporar din priorități."
+       "def_ro": "aur (zahav)",
+       "dict_ro": "Interdicția explicită protejează fondurile destinate reparațiilor de a fi redirecționate spre obiecte de cult decorative."
       },
       {
        "t": " "
       },
       {
-       "t": "sau",
-       "w": "sau",
-       "heb": "וּכְלִי",
-       "translit": "uhli",
-       "strong": "H3627",
-       "pos": "substantiv, masculin singular construct",
-       "def_ro": "și vas (uhli)",
-       "dict_ro": "Hebraismul repetă implicit „vas” la al doilea termen (vas de aur sau [vas] de argint), elipsă firească absentă din traducerea românească."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "argint",
-       "w": "argint",
-       "heb": "כָסֶף",
-       "translit": "hasef",
+       "t": "sau argint",
+       "w": "sau argint",
+       "heb": "וּכְלִי כָסֶף",
+       "translit": "uhli hasef",
        "strong": "H3701",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "de argint (hasef)",
-       "dict_ro": "Al doilea material prețios menționat, de asemenea exclus temporar din priorități."
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "și vas de argint (uhli hasef)",
+       "dict_ro": "Interdicția explicită protejează fondurile destinate reparațiilor de a fi redirecționate spre obiecte de cult decorative."
       },
       {
        "t": " "
@@ -18253,34 +18605,21 @@
        "translit": "lo iēase",
        "strong": "H6213",
        "pos": "particulă negativă + verb, nifal imperfect",
-       "def_ro": "nu se va face (lo iēase)",
-       "dict_ro": "Radak notează o aparentă contradicție cu 2 Cronici 24:14, unde se spune că astfel de obiecte au fost făcute — rezolvată prin faptul că acestea s-au făcut doar la final, din surplusul rămas după finalizarea lucrărilor structurale."
+       "def_ro": "nu va fi făcut (lo iēase)",
+       "dict_ro": "Interdicția explicită protejează fondurile destinate reparațiilor de a fi redirecționate spre obiecte de cult decorative."
       },
       {
        "t": " "
       },
       {
-       "t": "cu",
-       "w": "cu",
-       "heb": "מִן",
-       "translit": "min",
-       "strong": "H4480",
-       "pos": "prepoziție",
-       "def_ro": "din (min)",
-       "dict_ro": "Introduce sursa interzisă pentru finanțarea obiectelor de lux, fondul general de restaurare."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "banii",
-       "w": "banii",
+       "t": "cu banii",
+       "w": "cu banii",
        "heb": "הַכֶּסֶף",
        "translit": "hakesef",
        "strong": "H3701",
        "pos": "substantiv, masculin singular",
-       "def_ro": "argintul (hakesef)",
-       "dict_ro": "Fondul general exclus de la finanțarea obiectelor de lux."
+       "def_ro": "din argintul (hakesef)",
+       "dict_ro": "Banii strânși rămâneau destinați strict reparațiilor structurale, nu înnoirii mobilierului de cult."
       },
       {
        "t": " "
@@ -18292,21 +18631,34 @@
        "translit": "hamuva",
        "strong": "H935",
        "pos": "verb, hofal participiu pasiv",
-       "def_ro": "adus (hamuva)",
-       "dict_ro": "Confirmă sursa fondurilor excluse de la finanțarea obiectelor de lux."
+       "def_ro": "cel adus (hamuva)",
+       "dict_ro": "Banii strânși rămâneau destinați strict reparațiilor structurale, nu înnoirii mobilierului de cult."
       },
       {
        "t": " "
       },
       {
-       "t": "în Casa DOMNULUI,",
-       "w": "în Casa DOMNULUI,",
-       "heb": "בֵית יְהוָה",
-       "translit": "vēt Adonai",
+       "t": "în Casa",
+       "w": "în Casa",
+       "heb": "בֵית",
+       "translit": "vēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (vēt)",
+       "dict_ro": "Casa DOMNULUI rămâne sursa și destinația fondurilor, dar cu scop strict limitat la reparații."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "casa DOMNULUI (vēt Adonai)",
-       "dict_ro": "Confirmă prioritatea absolută dată restaurării structurale a clădirii, înainte de orice investiție în obiecte decorative sau ceremoniale."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Casa DOMNULUI rămâne sursa și destinația fondurilor, dar cu scop strict limitat la reparații."
       }
      ],
      "textCompare": [
@@ -18337,40 +18689,27 @@
      "translit": "Ki-leosei hamelaha itnuhu vehizku-vo et-beit ADONAI.",
      "tokens": [
       {
-       "t": "ci",
-       "w": "ci",
-       "heb": "כִּי",
-       "translit": "ki",
-       "strong": "H3588",
-       "pos": "conjuncție",
-       "def_ro": "căci (ki)",
-       "dict_ro": "Introduce explicația destinației reale a fondurilor, contrastând cu excluderea obiectelor de lux de la v.14."
+       "t": "ci ei",
+       "w": "ci ei",
+       "heb": "לְעֹשֵׂי",
+       "translit": "leosē",
+       "strong": "H6213",
+       "pos": "verb, qal participiu",
+       "def_ro": "căci celor ce fac (ki leosē)",
+       "dict_ro": "Banii erau dați direct lucrătorilor pentru reparații, fără a trece prin achiziții de obiecte noi."
       },
       {
        "t": " "
       },
       {
-       "t": "ei au fost dați",
-       "w": "ei au fost dați",
-       "heb": "יִתְּנֻהוּ",
-       "translit": "itnuhu",
+       "t": "au fost dați lucrătorilor",
+       "w": "au fost dați lucrătorilor",
+       "heb": "הַמְּלָאכָה יִתְּנֻהוּ",
+       "translit": "hamlaha itnuhu",
        "strong": "H5414",
-       "pos": "verb, qal imperfect + sufix",
-       "def_ro": "îi vor da (itnuhu)",
-       "dict_ro": "Confirmă din nou destinația exclusivă a tuturor banilor colectați: plata directă a echipelor de construcție implicate în restaurare."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "lucrătorilor",
-       "w": "lucrătorilor",
-       "heb": "לְעֹשֵׂי הַמְּלָאכָה",
-       "translit": "leosē hamlaha",
-       "strong": "H4399",
-       "pos": "verb, qal participiu + substantiv, feminin singular",
-       "def_ro": "celor ce fac lucrarea (leosē hamlaha)",
-       "dict_ro": "Destinatarii exclusivi ai fondurilor, confirmați din nou."
+       "pos": "substantiv, feminin singular + verb, qal imperfect + sufix",
+       "def_ro": "lucrarea îl va da (hamlaha itnuhu)",
+       "dict_ro": "Banii erau dați direct lucrătorilor pentru reparații, fără a trece prin achiziții de obiecte noi."
       },
       {
        "t": " "
@@ -18382,21 +18721,34 @@
        "translit": "vehizku vo",
        "strong": "",
        "pos": "verb, piel perfect consecutiv + prepoziție + sufix",
-       "def_ro": "și vor întări cu el (vehizku vo)",
-       "dict_ro": "Încheie rezumativ secțiunea despre utilizarea fondurilor, confirmând succesul noului sistem centralizat, în contrast direct cu eșecul sistemului vechi descris la v.7."
+       "def_ro": "și au întărit cu el (vehizku vo)",
+       "dict_ro": "Banii erau dați direct lucrătorilor pentru reparații, fără intermediere suplimentară."
       },
       {
        "t": " "
       },
       {
-       "t": "Casa DOMNULUI.",
-       "w": "Casa DOMNULUI.",
-       "heb": "בֵּית יְהוָה",
-       "translit": "bēt Adonai",
+       "t": "Casa",
+       "w": "Casa",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (bēt)",
+       "dict_ro": "Casa DOMNULUI rămâne destinatarul final, confirmat încă o dată, al întregii finanțări."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "casa DOMNULUI (bēt Adonai)",
-       "dict_ro": "Rezultatul final al noului sistem: restaurarea efectivă a Templului."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI. (Adonai)",
+       "dict_ro": "Casa DOMNULUI rămâne destinatarul final, confirmat încă o dată, al întregii finanțări."
       }
      ],
      "textCompare": [
@@ -18433,7 +18785,7 @@
        "strong": "H2803",
        "pos": "particulă negativă + verb, piel imperfect",
        "def_ro": "și nu se va socoti (velo iehașvu)",
-       "dict_ro": "Rashi: supraveghetorii nu cereau un raport detaliat de la administratorii cărora le încredințau banii pentru plata lucrătorilor."
+       "dict_ro": "Încrederea totală acordată lucrătorilor, fără audit financiar, contrastează cu lipsa de încredere care a motivat reforma față de preoți."
       },
       {
        "t": " "
@@ -18445,47 +18797,21 @@
        "translit": "haanașim",
        "strong": "H376",
        "pos": "substantiv, masculin plural",
-       "def_ro": "oamenii (haanașim)",
-       "dict_ro": "Administratorii cărora li se încredințau fondurile fără a li se cere o contabilitate detaliată."
+       "def_ro": "oamenilor (haanașim)",
+       "dict_ro": "Încrederea totală acordată lucrătorilor, fără audit financiar, contrastează cu reforma impusă preoților."
       },
       {
        "t": " "
       },
       {
-       "t": "cărora",
-       "w": "cărora",
-       "heb": "אֲשֶׁר",
-       "translit": "așer",
-       "strong": "H834",
-       "pos": "particulă relativă",
-       "def_ro": "care (așer)",
-       "dict_ro": "Particula relativă introduce administratorii intermediari ai distribuției financiare."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "le dăduseră",
-       "w": "le dăduseră",
-       "heb": "יִתְּנוּ",
-       "translit": "itnu",
-       "strong": "H5414",
-       "pos": "verb, qal imperfect",
-       "def_ro": "vor da (itnu)",
-       "dict_ro": "Descrie structura intermediară de distribuție financiară, de la cufărul central la echipele de lucru efective."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "în grijă",
-       "w": "în grijă",
-       "heb": "עַל יָדָם",
-       "translit": "al iadam",
-       "strong": "H3027",
-       "pos": "prepoziție + substantiv, masculin și feminin singular construct + sufix",
-       "def_ro": "pe mâna lor (al iadam)",
-       "dict_ro": "Confirmă forma de distribuție, prin mâna administratorilor intermediari."
+       "t": "cărora le dăduseră în grijă",
+       "w": "cărora le dăduseră în grijă",
+       "heb": "יִתְּנוּ עַל",
+       "translit": "itnu al",
+       "strong": "H5921",
+       "pos": "verb, qal imperfect + prepoziție",
+       "def_ro": "care vor da pe mâinile lor (așer itnu al iadam)",
+       "dict_ro": "Încrederea totală acordată lucrătorilor, fără audit financiar, contrastează cu reforma impusă preoților."
       },
       {
        "t": " "
@@ -18498,7 +18824,7 @@
        "strong": "H3701",
        "pos": "substantiv, masculin singular",
        "def_ro": "argintul (hakesef)",
-       "dict_ro": "Fondurile distribuite prin administratorii intermediari către lucrători."
+       "dict_ro": "Încrederea totală acordată lucrătorilor, fără audit financiar, contrastează cu reforma impusă preoților."
       },
       {
        "t": " "
@@ -18510,8 +18836,8 @@
        "translit": "latēt",
        "strong": "H5414",
        "pos": "verb, qal infinitiv",
-       "def_ro": "ca să dea (latēt)",
-       "dict_ro": "Confirmă destinația finală clară a tuturor fondurilor, direct către cei care executau lucrările."
+       "def_ro": "să dea (latēt)",
+       "dict_ro": "Încrederea totală acordată lucrătorilor, fără audit financiar, contrastează cu reforma impusă preoților."
       },
       {
        "t": " "
@@ -18523,60 +18849,34 @@
        "translit": "leosē hamlaha",
        "strong": "H4399",
        "pos": "verb, qal participiu + substantiv, feminin singular",
-       "def_ro": "celor ce fac lucrarea (leosē hamlaha)",
-       "dict_ro": "Destinatarii finali ai distribuției, meșteșugarii angajați în lucrări."
+       "def_ro": "celor ce fac lucrarea, (leosē hamlaha)",
+       "dict_ro": "Încrederea totală acordată lucrătorilor, fără audit financiar, contrastează cu reforma impusă preoților."
       },
       {
        "t": " "
       },
       {
-       "t": "căci",
-       "w": "căci",
-       "heb": "כִּי",
-       "translit": "ki",
-       "strong": "H3588",
-       "pos": "conjuncție",
-       "def_ro": "căci (ki)",
-       "dict_ro": "Introduce explicația absenței unei contabilități detaliate: integritatea dovedită a administratorilor."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "ei",
-       "w": "ei",
-       "heb": "הֵם",
-       "translit": "hēm",
+       "t": "căci ei",
+       "w": "căci ei",
+       "heb": "כִּי הֵם",
+       "translit": "ki hēm",
        "strong": "H1992",
-       "pos": "pronume personal",
-       "def_ro": "ei (hēm)",
-       "dict_ro": "Pronumele reia subiectul administratorilor, al căror comportament integru elimină nevoia de control."
+       "pos": "conjuncție + pronume personal",
+       "def_ro": "căci ei (ki hēm)",
+       "dict_ro": "Buna-credință a lucrătorilor justifică lipsa auditului, contrast moral deliberat cu ambiguitatea preoților."
       },
       {
        "t": " "
       },
       {
-       "t": "se comportau",
-       "w": "se comportau",
-       "heb": "עֹשִׂים",
-       "translit": "osim",
+       "t": "se comportau cu credință.",
+       "w": "se comportau cu credință.",
+       "heb": "בֶאֱמֻנָה עֹשִׂים",
+       "translit": "veemuna osim",
        "strong": "H6213",
-       "pos": "verb, qal participiu",
-       "def_ro": "lucrau (osim)",
-       "dict_ro": "Confirmă conduita integră a administratorilor fondurilor."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "cu credință.",
-       "w": "cu credință.",
-       "heb": "בֶאֱמֻנָה",
-       "translit": "veemuna",
-       "strong": "H530",
-       "pos": "substantiv, feminin singular",
-       "def_ro": "cu credincioșie (veemuna)",
-       "dict_ro": "Radak notează o regulă rabinică derivată de aici: administratorilor de fonduri caritabile verificați ca oneste nu li se cere o contabilitate detaliată — integritatea lor dovedită elimină necesitatea suspiciunii birocratice."
+       "pos": "substantiv, feminin singular + verb, qal participiu",
+       "def_ro": "cu credincioșie fac. (veemuna osim)",
+       "dict_ro": "Buna-credință a lucrătorilor justifică lipsa auditului, contrast moral deliberat cu ambiguitatea preoților."
       }
      ],
      "textCompare": [
@@ -18614,7 +18914,7 @@
        "strong": "H817",
        "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
        "def_ro": "argintul vinei (kesef așam)",
-       "dict_ro": "Rashi, pe baza tradiției din Tosefta Temura: cel care punea deoparte bani pentru jertfa de vină, dar cumpăra animalul cu mai puțin decât suma destinată, rămânea cu un surplus."
+       "dict_ro": "Banii proveniți din jertfele de vină și păcat rămâneau venit personal al preoților, distinct de fondul central de reparații."
       },
       {
        "t": " "
@@ -18627,7 +18927,7 @@
        "strong": "H2399",
        "pos": "substantiv, masculin singular construct + substantiv, masculin plural",
        "def_ro": "și argintul păcatelor (vehesef hataot)",
-       "dict_ro": "Aceeași situație pentru jertfele de păcat — un surplus de bani, rămas după achiziția efectivă a animalului de jertfă."
+       "dict_ro": "Banii proveniți din jertfele de vină și păcat rămâneau venit personal al preoților, distinct de fondul central de reparații."
       },
       {
        "t": " "
@@ -18639,21 +18939,34 @@
        "translit": "lo iuva",
        "strong": "H935",
        "pos": "particulă negativă + verb, hofal imperfect",
-       "def_ro": "nu se va aduce (lo iuva)",
-       "dict_ro": "Acești bani, fiind deja consacrați unui scop specific de jertfă individuală, nu se adăugau la fondul general de restaurare a Templului."
+       "def_ro": "nu va fi adus (lo iuva)",
+       "dict_ro": "Banii proveniți din jertfele de vină și păcat rămâneau venit personal al preoților, distinct de fondul central."
       },
       {
        "t": " "
       },
       {
-       "t": "în Casa DOMNULUI,",
-       "w": "în Casa DOMNULUI,",
-       "heb": "בֵּית יְהוָה",
-       "translit": "bēt Adonai",
+       "t": "în Casa",
+       "w": "în Casa",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (bēt)",
+       "dict_ro": "Casa DOMNULUI nu primea aceste categorii specifice de bani, rezervate explicit preoților."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "casa DOMNULUI (bēt Adonai)",
-       "dict_ro": "Fondul general de restaurare, din care acești bani erau excluși explicit."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Casa DOMNULUI nu primea aceste categorii specifice de bani, rezervate explicit preoților."
       },
       {
        "t": " "
@@ -18665,8 +18978,8 @@
        "translit": "lakohanim ihiu",
        "strong": "H1961",
        "pos": "substantiv, masculin plural + verb, qal imperfect",
-       "def_ro": "pentru preoți vor fi (lakohanim ihiu)",
-       "dict_ro": "Rashi explică regula midrashică formulată de Iehoiada: surplusul de la jertfele de vină și păcat se folosea pentru a cumpăra jertfe de ardere-de-tot suplimentare, a cărei carne ardea complet pe altar, iar pieile reveneau preoților."
+       "def_ro": "preoților vor fi. (lakohanim ihiu)",
+       "dict_ro": "Formula finală confirmă venitul personal, legitim, al preoților din aceste categorii specifice de jertfe."
       }
      ],
      "textCompare": [
