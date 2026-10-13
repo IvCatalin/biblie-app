@@ -62197,14 +62197,27 @@
        "t": " "
       },
       {
-       "t": "a profetului Habacuc,",
-       "w": "a profetului Habacuc,",
-       "heb": "לַחֲבַקּוּק הַנָּבִיא",
-       "translit": "lahavakuk hanavi",
+       "t": "a profetului",
+       "w": "a profetului",
+       "heb": "הַנָּבִיא",
+       "translit": "hanavi",
        "strong": "H5030",
-       "pos": "nume propriu + substantiv, masculin singular",
-       "def_ro": "lui Habacuc profetul, (lahavakuk hanavi)",
-       "dict_ro": "Numele profetului Habacuc identifică autorul acestei rugăciuni solemne."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "profetul (hanavi)",
+       "dict_ro": "Titlul «profetul», atribuit lui Habacuc, confirmă autoritatea profetică a rugăciunii care urmează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Habacuc,",
+       "w": "Habacuc,",
+       "heb": "לַחֲבַקּוּק",
+       "translit": "lahavakuk",
+       "strong": "H2265",
+       "pos": "nume propriu",
+       "def_ro": "lui Habacuc, (lahavakuk)",
+       "dict_ro": "Habacuc, profet din Iuda, autorul acestei rugăciuni-psalm, situată la finalul cărții care îi poartă numele."
       },
       {
        "t": " "
@@ -62492,14 +62505,27 @@
        "t": " "
       },
       {
-       "t": "de la Muntele Paran,",
-       "w": "de la Muntele Paran,",
-       "heb": "מֵהַר פָּארָן",
-       "translit": "mēhar paran",
+       "t": "de la Muntele",
+       "w": "de la Muntele",
+       "heb": "מֵהַר",
+       "translit": "mēhar",
+       "strong": "H2022",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "de la muntele (mēhar)",
+       "dict_ro": "Muntele Paran, situat la sud de Canaan, în apropierea Sinaiului, marchează direcția din care vine teofania descrisă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Paran,",
+       "w": "Paran,",
+       "heb": "פָּארָן",
+       "translit": "paran",
        "strong": "H6290",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "de la Muntele Paran, (mēhar paran)",
-       "dict_ro": "Rashi explică faptul că Dumnezeu a trecut mai întâi pe la Esau și Ismael să le dea Legea, dar ei au refuzat-o, înainte de a veni la Sinai."
+       "pos": "nume propriu",
+       "def_ro": "Paran, (paran)",
+       "dict_ro": "Paran, regiune muntoasă din sudul peninsulei Sinai, asociată traditional cu drumul Exodului și cu teofania sinaitică."
       },
       {
        "t": " "
@@ -63042,14 +63068,27 @@
        "t": " "
       },
       {
-       "t": "corturile lui Cușan,",
-       "w": "corturile lui Cușan,",
-       "heb": "אָהֳלֵי כוּשָׁן",
-       "translit": "aholē hușan",
+       "t": "corturile lui",
+       "w": "corturile lui",
+       "heb": "אָהֳלֵי",
+       "translit": "aholē",
+       "strong": "H168",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "corturile lui (aholē)",
+       "dict_ro": "Cușan, menționat în paralel cu Midianul, desemnează, potrivit comentatorilor, un popor sau o regiune vecină asociată cu Midianul nomad."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Cușan,",
+       "w": "Cușan,",
+       "heb": "כוּשָׁן",
+       "translit": "hușan",
        "strong": "H3572",
-       "pos": "substantiv, masculin plural construct + nume propriu",
-       "def_ro": "corturile lui Cușan, (aholē hușan)",
-       "dict_ro": "Rashi explică faptul că este vorba de corturile lui Cușan Rișataim, care asupreau pe Israel în chip deschis, dar care, la smerirea lor înaintea DOMNULUI, au tremurat."
+       "pos": "nume propriu",
+       "def_ro": "Cușan, (hușan)",
+       "dict_ro": "Cușan, menționat în paralel cu Midianul, desemnează, potrivit comentatorilor, un popor sau o regiune vecină asociată cu Midianul nomad."
       },
       {
        "t": " "
@@ -63068,14 +63107,27 @@
        "t": " "
       },
       {
-       "t": "țării Midianului",
-       "w": "țării Midianului",
-       "heb": "אֶרֶץ מִדְיָן",
-       "translit": "ereț midian",
+       "t": "țării",
+       "w": "țării",
+       "heb": "אֶרֶץ",
+       "translit": "ereț",
+       "strong": "H776",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "țara (ereț)",
+       "dict_ro": "Midian, poporul nomad din Arabia de nord-vest, e evocat aici ca martor tremurând al trecerii teofanice descrise de Habacuc."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Midianului",
+       "w": "Midianului",
+       "heb": "מִדְיָן",
+       "translit": "midian",
        "strong": "H4080",
-       "pos": "substantiv, masculin și feminin singular construct + nume propriu",
-       "def_ro": "țării Midianului (ereț midian)",
-       "dict_ro": "Midianul este amintit alături de Cușan ca un alt vrăjmaș biruit, aluzie la victoria lui Ghedeon."
+       "pos": "nume propriu",
+       "def_ro": "Midianului (midian)",
+       "dict_ro": "Midian, poporul nomad din Arabia de nord-vest, e evocat aici ca martor tremurând al trecerii teofanice descrise de Habacuc."
       },
       {
        "t": " "
@@ -64690,14 +64742,27 @@
      "translit": "ELOHIM Adonai heili vaiasem raglai kaaiialot veal bamotai iadriheni lamnateah binghinotai.",
      "tokens": [
       {
-       "t": "DUMNEZEU, Domnul, Stăpânul meu,",
-       "w": "DUMNEZEU, Domnul, Stăpânul meu,",
-       "heb": "יְהוִהּ אֲדֹנָי",
-       "translit": "Adonai adonai",
+       "t": "DUMNEZEU,",
+       "w": "DUMNEZEU,",
+       "heb": "יְהוִהּ",
+       "translit": "Adonai",
+       "strong": "H3069",
+       "pos": "nume propriu",
+       "def_ro": "DUMNEZEU, (Adonai)",
+       "dict_ro": "Forma specială a Numelui, vocalizată ca Elohim și tradusă «DUMNEZEU» pentru a evita repetarea lui Adonai, apare aici alături de titlul «Stăpânul meu»."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Domnul, Stăpânul meu,",
+       "w": "Domnul, Stăpânul meu,",
+       "heb": "אֲדֹנָי",
+       "translit": "adonai",
        "strong": "H136",
-       "pos": "nume propriu + substantiv, masculin plural construct + sufix",
-       "def_ro": "DOMNUL, Stăpânul meu, (Adonai adonai)",
-       "dict_ro": "Dubla invocare a Numelui divin — יהוה și אדני — subliniază solemnitatea încheierii rugăciunii."
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "Stăpânul meu, (adonai)",
+       "dict_ro": "Titlul «Adonai», literal «Stăpânul meu», alături de Numele divin, încheie psalmul cu declarația supremă de încredere a profetului."
       },
       {
        "t": " "
