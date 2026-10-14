@@ -10505,7 +10505,9 @@
        "strong": "H559",
        "pos": "verb, qal imperfect",
        "def_ro": "vei spune (tomar)",
-       "dict_ro": "Plângerea exilaților, redată ca întrebare retorică divină, pregătește răspunsul care urmează despre puterea neobosită a DOMNULUI."
+       "dict_ro": "Plângerea exilaților, redată ca întrebare retorică divină, pregătește răspunsul care urmează despre puterea neobosită a DOMNULUI.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
       },
       {
        "t": " "
@@ -10518,7 +10520,9 @@
        "strong": "H3290",
        "pos": "nume propriu",
        "def_ro": "Iacove, (iaakov)",
-       "dict_ro": "Iacov, numele patriarhului, desemnează aici poporul întreg, în paralel poetic cu Israel."
+       "dict_ro": "Iacov, numele patriarhului, desemnează aici poporul întreg, în paralel poetic cu Israel.",
+       "greek": "Ἰακώβ (Iakob)",
+       "greek_def_ro": "Ἰακώβ (Iakob) — Iacov — transcrierea numelui ebraic."
       },
       {
        "t": " "
@@ -10531,7 +10535,9 @@
        "strong": "H1696",
        "pos": "verb, piel imperfect",
        "def_ro": "și vei vorbi, (utdabēr)",
-       "dict_ro": "Repetarea paralelă a întrebării, cu verb diferit, întărește stilul poetic tipic lui Isaia."
+       "dict_ro": "Repetarea paralelă a întrebării, cu verb diferit, întărește stilul poetic tipic lui Isaia.",
+       "greek": "λαλέω (laleo)",
+       "greek_def_ro": "λαλέω (laleo) — a vorbi."
       },
       {
        "t": " "
@@ -10544,7 +10550,9 @@
        "strong": "H3478",
        "pos": "nume propriu",
        "def_ro": "Israele: (israēl)",
-       "dict_ro": "Israel, al doilea nume al poporului legământului, completează paralelismul cu Iacov."
+       "dict_ro": "Israel, al doilea nume al poporului legământului, completează paralelismul cu Iacov.",
+       "greek": "Ἰσραήλ (Israel)",
+       "greek_def_ro": "Ἰσραήλ (Israel) — Israel — transcrierea numelui ebraic."
       },
       {
        "t": " "
@@ -10557,7 +10565,9 @@
        "strong": "H1870",
        "pos": "substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "calea mea (darki)",
-       "dict_ro": "Plângerea poporului exilat e că soarta lui („calea”) a trecut neobservată de DOMNUL — o acuzație pe care oracolul următor o va contrazice direct."
+       "dict_ro": "Plângerea poporului exilat e că soarta lui („calea”) a trecut neobservată de DOMNUL — o acuzație pe care oracolul următor o va contrazice direct.",
+       "greek": "ἀποκρύπτω / ὁδός (apokrypto / hodos)",
+       "greek_def_ro": "ἀποκρύπτω / ὁδός (apokrypto / hodos) — a fi ascuns; cale, drum."
       },
       {
        "t": " "
@@ -10570,7 +10580,9 @@
        "strong": "H5641",
        "pos": "verb, nifal perfect",
        "def_ro": "este ascunsă (nistera)",
-       "dict_ro": "Plângerea poporului exilat e că soarta lui a trecut neobservată de DOMNUL."
+       "dict_ro": "Plângerea poporului exilat e că soarta lui a trecut neobservată de DOMNUL.",
+       "greek": "ἀποκρύπτω / ὁδός (apokrypto / hodos)",
+       "greek_def_ro": "ἀποκρύπτω / ὁδός (apokrypto / hodos) — a fi ascuns; cale, drum."
       },
       {
        "t": " "
@@ -10583,7 +10595,10 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "de DOMNUL (mē'Adonai)",
-       "dict_ro": "Plângerea poporului exilat e că soarta lui a trecut neobservată de DOMNUL."
+       "dict_ro": "Plângerea poporului exilat e că soarta lui a trecut neobservată de DOMNUL.",
+       "greek": "θεός (theos)",
+       "greek_def_ro": "θεός (theos) — Dumnezeu.",
+       "diff_ro": "Septuaginta are aici „Dumnezeu” (θεοῦ) în locul Numelui divin."
       },
       {
        "t": " "
@@ -10596,7 +10611,9 @@
        "strong": "H4941",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "și judecata mea (mișpati)",
-       "dict_ro": "„Cauza” (judecata/dreptatea cerută) nerecunoscută e a doua jumătate a acuzației, în paralel cu „drumul ascuns”."
+       "dict_ro": "„Cauza” (judecata/dreptatea cerută) nerecunoscută e a doua jumătate a acuzației, în paralel cu „drumul ascuns”.",
+       "greek": "κρίσις (krisis)",
+       "greek_def_ro": "κρίσις (krisis) — judecată."
       },
       {
        "t": " "
@@ -10609,7 +10626,10 @@
        "strong": "H5674",
        "pos": "verb, qal imperfect",
        "def_ro": "va trece (iaavor)",
-       "dict_ro": "„Cauza” nerecunoscută e a doua jumătate a acuzației, în paralel cu „drumul ascuns”."
+       "dict_ro": "„Cauza” nerecunoscută e a doua jumătate a acuzației, în paralel cu „drumul ascuns”.",
+       "greek": "ἀφαιρέω (aphaireo)",
+       "greek_def_ro": "ἀφαιρέω (aphaireo) — a lua, a îndepărta.",
+       "diff_ro": "Ebraica spune că cauza Lui „e trecută cu vederea” (ya-avor); Septuaginta, că Dumnezeu „a luat/îndepărtat” judecata (ἀφεῖλε) — imagine diferită."
       },
       {
        "t": " "
@@ -10622,7 +10642,9 @@
        "strong": "H430",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "și de Dumnezeul meu? (umēelohai)",
-       "dict_ro": "„Cauza” nerecunoscută e a doua jumătate a acuzației, în paralel cu „drumul ascuns”."
+       "dict_ro": "„Cauza” nerecunoscută e a doua jumătate a acuzației, în paralel cu „drumul ascuns”.",
+       "greek": "θεός (theos)",
+       "greek_def_ro": "θεός (theos) — Dumnezeu."
       }
      ],
      "textCompare": [
@@ -10738,7 +10760,9 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL, (Adonai)",
-       "dict_ro": "Titlul „Dumnezeul veșniciei” Îl prezintă pe DOMNUL ca fiind dincolo de timp, contrastând cu oboseala pe care o simte poporul."
+       "dict_ro": "Titlul „Dumnezeul veșniciei” Îl prezintă pe DOMNUL ca fiind dincolo de timp, contrastând cu oboseala pe care o simte poporul.",
+       "greek": "θεός αἰώνιος (theos aionios)",
+       "greek_def_ro": "θεός αἰώνιος (theos aionios) — Dumnezeu veșnic."
       },
       {
        "t": " "
@@ -10751,7 +10775,9 @@
        "strong": "H1254",
        "pos": "verb, qal participiu",
        "def_ro": "Creatorul (borē)",
-       "dict_ro": "Titlul de „Creator al marginilor pământului” extinde puterea DOMNULUI la întreaga creație, nu doar la Israel."
+       "dict_ro": "Titlul de „Creator al marginilor pământului” extinde puterea DOMNULUI la întreaga creație, nu doar la Israel.",
+       "greek": "κατασκευάζω τὰ ἄκρα τῆς γῆς (kataskeuazo ta akra tes ges)",
+       "greek_def_ro": "κατασκευάζω τὰ ἄκρα τῆς γῆς (kataskeuazo ta akra tes ges) — Cel ce a întocmit marginile pământului."
       },
       {
        "t": " "
@@ -10764,7 +10790,9 @@
        "strong": "H7098",
        "pos": "substantiv, masculin și feminin plural construct",
        "def_ro": "marginilor (kețot)",
-       "dict_ro": "Titlul de „Creator al marginilor pământului” extinde puterea DOMNULUI la întreaga creație, nu doar la Israel."
+       "dict_ro": "Titlul de „Creator al marginilor pământului” extinde puterea DOMNULUI la întreaga creație, nu doar la Israel.",
+       "greek": "κατασκευάζω τὰ ἄκρα τῆς γῆς (kataskeuazo ta akra tes ges)",
+       "greek_def_ro": "κατασκευάζω τὰ ἄκρα τῆς γῆς (kataskeuazo ta akra tes ges) — Cel ce a întocmit marginile pământului."
       },
       {
        "t": " "
@@ -10777,7 +10805,9 @@
        "strong": "H776",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "pământului, (haareț)",
-       "dict_ro": "Titlul de „Creator al marginilor pământului” extinde puterea DOMNULUI la întreaga creație, nu doar la Israel."
+       "dict_ro": "Titlul de „Creator al marginilor pământului” extinde puterea DOMNULUI la întreaga creație, nu doar la Israel.",
+       "greek": "κατασκευάζω τὰ ἄκρα τῆς γῆς (kataskeuazo ta akra tes ges)",
+       "greek_def_ro": "κατασκευάζω τὰ ἄκρα τῆς γῆς (kataskeuazo ta akra tes ges) — Cel ce a întocmit marginile pământului."
       },
       {
        "t": " "
@@ -10816,7 +10846,9 @@
        "strong": "H8394",
        "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "priceperii lui (litvunato)",
-       "dict_ro": "Priceperea „de nepătruns” a DOMNULUI explică de ce căile Lui, inclusiv tăcerea îngăduită în exil, rămân dincolo de înțelegerea omenească."
+       "dict_ro": "Priceperea „de nepătruns” a DOMNULUI explică de ce căile Lui, inclusiv tăcerea îngăduită în exil, rămân dincolo de înțelegerea omenească.",
+       "greek": "ἐξεύρεσις φρόνησις (exeuresis phronesis)",
+       "greek_def_ro": "ἐξεύρεσις φρόνησις (exeuresis phronesis) — nu este descoperire a priceperii lui."
       },
       {
        "t": " "
@@ -10903,7 +10935,9 @@
        "strong": "H5414",
        "pos": "verb, qal participiu",
        "def_ro": "El dă (notēn)",
-       "dict_ro": "Puterea nesecată a DOMNULUI, Creatorul neobosit, se revarsă tocmai asupra celor obosiți și fără putere."
+       "dict_ro": "Puterea nesecată a DOMNULUI, Creatorul neobosit, se revarsă tocmai asupra celor obosiți și fără putere.",
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a da."
       },
       {
        "t": " "
@@ -10929,7 +10963,10 @@
        "strong": "H3287",
        "pos": "adjectiv, masculin singular",
        "def_ro": "celui obosit, (laiaēf)",
-       "dict_ro": "Puterea nesecată a DOMNULUI se revarsă tocmai asupra celor obosiți și fără putere."
+       "dict_ro": "Puterea nesecată a DOMNULUI se revarsă tocmai asupra celor obosiți și fără putere.",
+       "greek": "πεινάω (peinao)",
+       "greek_def_ro": "πεινάω (peinao) — a flămânzi.",
+       "diff_ro": "Ebraica are „celui obosit” (layaef); Septuaginta, „celui flămând” (τοῖς πεινῶσιν)."
       },
       {
        "t": " "
@@ -11052,7 +11089,9 @@
        "strong": "H5288",
        "pos": "substantiv, masculin plural",
        "def_ro": "flăcăii (nearim)",
-       "dict_ro": "Chiar și cei mai tineri și viguroși oameni obosesc — contrastul pregătește promisiunea reînnoirii pentru cei ce speră în DOMNUL."
+       "dict_ro": "Chiar și cei mai tineri și viguroși oameni obosesc — contrastul pregătește promisiunea reînnoirii pentru cei ce speră în DOMNUL.",
+       "greek": "νέος (neos)",
+       "greek_def_ro": "νέος (neos) — tânăr, mai tânăr."
       },
       {
        "t": " "
@@ -11065,7 +11104,9 @@
        "strong": "H3286",
        "pos": "verb, qal imperfect",
        "def_ro": "și vor obosi (veiafu)",
-       "dict_ro": "Chiar și cei mai tineri și viguroși oameni obosesc — contrastul pregătește promisiunea reînnoirii."
+       "dict_ro": "Chiar și cei mai tineri și viguroși oameni obosesc — contrastul pregătește promisiunea reînnoirii.",
+       "greek": "πεινάω (peinao)",
+       "greek_def_ro": "πεινάω (peinao) — a flămânzi."
       },
       {
        "t": " "
@@ -11078,7 +11119,9 @@
        "strong": "H3021",
        "pos": "verb, qal imperfect",
        "def_ro": "și vor osteni, (veigau)",
-       "dict_ro": "Chiar și cei mai tineri și viguroși oameni obosesc — contrastul pregătește promisiunea reînnoirii."
+       "dict_ro": "Chiar și cei mai tineri și viguroși oameni obosesc — contrastul pregătește promisiunea reînnoirii.",
+       "greek": "κοπιάω (kopiao)",
+       "greek_def_ro": "κοπιάω (kopiao) — a osteni."
       },
       {
        "t": " "
@@ -11091,7 +11134,9 @@
        "strong": "H970",
        "pos": "substantiv, masculin plural",
        "def_ro": "și tinerii aleși (uvahurim)",
-       "dict_ro": "Chiar și cei mai tineri și viguroși oameni obosesc — contrastul pregătește promisiunea reînnoirii."
+       "dict_ro": "Chiar și cei mai tineri și viguroși oameni obosesc — contrastul pregătește promisiunea reînnoirii.",
+       "greek": "νεανίσκος (neaniskos)",
+       "greek_def_ro": "νεανίσκος (neaniskos) — tânăr, flăcău."
       },
       {
        "t": " "
@@ -11104,7 +11149,10 @@
        "strong": "H3782",
        "pos": "verb, qal infinitiv absolut + verb, nifal imperfect",
        "def_ro": "se vor poticni negreșit (kașol ikașēlu)",
-       "dict_ro": "Dublarea verbului „a se poticni” e un idiom ebraic de emfază, accentuând certitudinea oboselii omenești."
+       "dict_ro": "Dublarea verbului „a se poticni” e un idiom ebraic de emfază, accentuând certitudinea oboselii omenești.",
+       "greek": "ἀνίσχυς (anischys)",
+       "greek_def_ro": "ἀνίσχυς (anischys) — fără putere, neputincios.",
+       "diff_ro": "Ebraica spune „se vor poticni” (kașol ikașēlu); Septuaginta, „vor fi fără putere” (ἀνίσχυες ἔσονται)."
       }
      ],
      "textCompare": [
@@ -11170,7 +11218,10 @@
        "strong": "H6960",
        "pos": "verb, qal participiu",
        "def_ro": "și cei ce speră în (vekoiē)",
-       "dict_ro": "Contrar oboselii universale a oamenilor, cei care speră activ în DOMNUL primesc o putere reînnoită, nelimitată."
+       "dict_ro": "Contrar oboselii universale a oamenilor, cei care speră activ în DOMNUL primesc o putere reînnoită, nelimitată.",
+       "greek": "ὑπομένω τὸν θεόν (hypomeno ton theon)",
+       "greek_def_ro": "ὑπομένω τὸν θεόν (hypomeno ton theon) — cei ce rabdă, așteptând pe Dumnezeu.",
+       "diff_ro": "Septuaginta are „Dumnezeu” (θεόν), nu „DOMNUL”."
       },
       {
        "t": " "
@@ -11183,7 +11234,10 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL (Adonai)",
-       "dict_ro": "Contrar oboselii universale a oamenilor, cei care speră activ în DOMNUL primesc o putere reînnoită, nelimitată."
+       "dict_ro": "Contrar oboselii universale a oamenilor, cei care speră activ în DOMNUL primesc o putere reînnoită, nelimitată.",
+       "greek": "ὑπομένω τὸν θεόν (hypomeno ton theon)",
+       "greek_def_ro": "ὑπομένω τὸν θεόν (hypomeno ton theon) — cei ce rabdă, așteptând pe Dumnezeu.",
+       "diff_ro": "Septuaginta are „Dumnezeu” (θεόν), nu „DOMNUL”."
       },
       {
        "t": " "
@@ -11196,7 +11250,9 @@
        "strong": "H3581",
        "pos": "verb, hifil imperfect + substantiv, masculin singular",
        "def_ro": "își vor înnoi puterea, (iahalifu koah)",
-       "dict_ro": "Contrar oboselii universale a oamenilor, cei care speră activ în DOMNUL primesc o putere reînnoită, nelimitată."
+       "dict_ro": "Contrar oboselii universale a oamenilor, cei care speră activ în DOMNUL primesc o putere reînnoită, nelimitată.",
+       "greek": "ἀλλάσσω ἰσχύν (allasso ischyn)",
+       "greek_def_ro": "ἀλλάσσω ἰσχύν (allasso ischyn) — vor schimba puterea."
       },
       {
        "t": " "
@@ -11209,7 +11265,9 @@
        "strong": "H5927",
        "pos": "verb, hifil imperfect",
        "def_ro": "vor ridica (iaalu)",
-       "dict_ro": "Imaginea aripilor de vultur, zborul fără oboseală, simbolizează puterea spirituală dată celor ce speră în DOMNUL."
+       "dict_ro": "Imaginea aripilor de vultur, zborul fără oboseală, simbolizează puterea spirituală dată celor ce speră în DOMNUL.",
+       "greek": "πτεροφυέω ἀετός (pterophyeo aetos)",
+       "greek_def_ro": "πτεροφυέω ἀετός (pterophyeo aetos) — vor prinde aripi ca vulturii."
       },
       {
        "t": " "
@@ -11222,7 +11280,9 @@
        "strong": "H83",
        "pos": "substantiv, masculin singular",
        "def_ro": "aripă (ēver)",
-       "dict_ro": "Imaginea aripilor de vultur simbolizează puterea spirituală dată celor ce speră în DOMNUL."
+       "dict_ro": "Imaginea aripilor de vultur simbolizează puterea spirituală dată celor ce speră în DOMNUL.",
+       "greek": "πτεροφυέω ἀετός (pterophyeo aetos)",
+       "greek_def_ro": "πτεροφυέω ἀετός (pterophyeo aetos) — vor prinde aripi ca vulturii."
       },
       {
        "t": " "
@@ -11235,7 +11295,9 @@
        "strong": "H5404",
        "pos": "substantiv, masculin plural",
        "def_ro": "ca vulturii, (kanșarim)",
-       "dict_ro": "Imaginea aripilor de vultur simbolizează puterea spirituală dată celor ce speră în DOMNUL."
+       "dict_ro": "Imaginea aripilor de vultur simbolizează puterea spirituală dată celor ce speră în DOMNUL.",
+       "greek": "πτεροφυέω ἀετός (pterophyeo aetos)",
+       "greek_def_ro": "πτεροφυέω ἀετός (pterophyeo aetos) — vor prinde aripi ca vulturii."
       },
       {
        "t": " "
@@ -11248,7 +11310,9 @@
        "strong": "H7323",
        "pos": "verb, qal imperfect",
        "def_ro": "vor alerga (iaruțu)",
-       "dict_ro": "Seria de trei verbe — zbor, alergare, mers — descrie gradual orice formă de efort susținut, fără oboseală."
+       "dict_ro": "Seria de trei verbe — zbor, alergare, mers — descrie gradual orice formă de efort susținut, fără oboseală.",
+       "greek": "τρέχω κοπιάω (trecho kopiao)",
+       "greek_def_ro": "τρέχω κοπιάω (trecho kopiao) — vor alerga; nu vor osteni."
       },
       {
        "t": " "
@@ -11274,7 +11338,9 @@
        "strong": "H3212",
        "pos": "verb, qal imperfect",
        "def_ro": "vor merge (iēlhu)",
-       "dict_ro": "Seria de trei verbe descrie gradual orice formă de efort susținut, fără oboseală."
+       "dict_ro": "Seria de trei verbe descrie gradual orice formă de efort susținut, fără oboseală.",
+       "greek": "βαδίζω πεινάω (badizo peinao)",
+       "greek_def_ro": "βαδίζω πεινάω (badizo peinao) — vor merge; nu vor flămânzi."
       },
       {
        "t": " "
@@ -11375,7 +11441,9 @@
        "strong": "H339",
        "pos": "substantiv, masculin plural",
        "def_ro": "insulelor, (im)",
-       "dict_ro": "DOMNUL convoacă un tribunal cosmic, chemând neamurile la o judecată publică."
+       "dict_ro": "DOMNUL convoacă un tribunal cosmic, chemând neamurile la o judecată publică.",
+       "greek": "νῆσος (nesos)",
+       "greek_def_ro": "νῆσος (nesos) — insulă."
       },
       {
        "t": " "
@@ -11388,7 +11456,10 @@
        "strong": "H3816",
        "pos": "substantiv, masculin plural",
        "def_ro": "și popoarele (ulumim)",
-       "dict_ro": "DOMNUL convoacă un tribunal cosmic, chemând neamurile la o judecată publică."
+       "dict_ro": "DOMNUL convoacă un tribunal cosmic, chemând neamurile la o judecată publică.",
+       "greek": "ἄρχων (archon)",
+       "greek_def_ro": "ἄρχων (archon) — căpetenie, conducător.",
+       "diff_ro": "Ebraica are „neamurile” (leumim); Septuaginta, „căpeteniile” (ἄρχοντες)."
       },
       {
        "t": " "
@@ -11401,7 +11472,9 @@
        "strong": "H2498",
        "pos": "verb, hifil imperfect",
        "def_ro": "să-și înnoiască (iahalifu)",
-       "dict_ro": "Chemarea la tăcere precedă confruntarea verbală care va dovedi superioritatea DOMNULUI asupra idolilor neamurilor."
+       "dict_ro": "Chemarea la tăcere precedă confruntarea verbală care va dovedi superioritatea DOMNULUI asupra idolilor neamurilor.",
+       "greek": "ἀλλάσσω ἰσχύν (allasso ischyn)",
+       "greek_def_ro": "ἀλλάσσω ἰσχύν (allasso ischyn) — vor schimba puterea."
       },
       {
        "t": " "
@@ -11414,7 +11487,9 @@
        "strong": "H3581",
        "pos": "substantiv, masculin singular",
        "def_ro": "puterea; (hoah)",
-       "dict_ro": "Chemarea la tăcere precedă confruntarea verbală care va dovedi superioritatea DOMNULUI asupra idolilor."
+       "dict_ro": "Chemarea la tăcere precedă confruntarea verbală care va dovedi superioritatea DOMNULUI asupra idolilor.",
+       "greek": "ἀλλάσσω ἰσχύν (allasso ischyn)",
+       "greek_def_ro": "ἀλλάσσω ἰσχύν (allasso ischyn) — vor schimba puterea."
       },
       {
        "t": " "
@@ -11427,7 +11502,9 @@
        "strong": "H5066",
        "pos": "verb, qal imperfect",
        "def_ro": "să se apropie, (igșu)",
-       "dict_ro": "Chemarea la tăcere precedă confruntarea verbală care va dovedi superioritatea DOMNULUI asupra idolilor."
+       "dict_ro": "Chemarea la tăcere precedă confruntarea verbală care va dovedi superioritatea DOMNULUI asupra idolilor.",
+       "greek": "ἐγγίζω (engizo)",
+       "greek_def_ro": "ἐγγίζω (engizo) — a se apropia."
       },
       {
        "t": " "
@@ -11576,7 +11653,9 @@
        "strong": "H4217",
        "pos": "substantiv, masculin singular",
        "def_ro": "de la răsărit, (mimizrah)",
-       "dict_ro": "Întrebarea retorică se referă la chemarea lui Avraham de la răsărit, început al istoriei legământului."
+       "dict_ro": "Întrebarea retorică se referă la chemarea lui Avraham de la răsărit, început al istoriei legământului.",
+       "greek": "ἐξεγείρω ἀνατολή (exegeiro anatole)",
+       "greek_def_ro": "ἐξεγείρω ἀνατολή (exegeiro anatole) — a stârni; răsărit."
       },
       {
        "t": " "
@@ -11589,7 +11668,9 @@
        "strong": "H7121",
        "pos": "verb, qal imperfect + sufix",
        "def_ro": "îl va chema (ikraēhu)",
-       "dict_ro": "Victoriile lui Avraham, descrise profetic, confirmă puterea DOMNULUI de a dirija istoria neamurilor."
+       "dict_ro": "Victoriile lui Avraham, descrise profetic, confirmă puterea DOMNULUI de a dirija istoria neamurilor.",
+       "greek": "δικαιοσύνη κατὰ πόδας (dikaiosyne kata podas)",
+       "greek_def_ro": "δικαιοσύνη κατὰ πόδας (dikaiosyne kata podas) — dreptate; la (fiecare) pas."
       },
       {
        "t": " "
@@ -11602,7 +11683,9 @@
        "strong": "H6664",
        "pos": "substantiv, masculin singular",
        "def_ro": "dreptatea (țedek)",
-       "dict_ro": "Victoriile lui Avraham, descrise profetic, confirmă puterea DOMNULUI de a dirija istoria neamurilor."
+       "dict_ro": "Victoriile lui Avraham, descrise profetic, confirmă puterea DOMNULUI de a dirija istoria neamurilor.",
+       "greek": "δικαιοσύνη κατὰ πόδας (dikaiosyne kata podas)",
+       "greek_def_ro": "δικαιοσύνη κατὰ πόδας (dikaiosyne kata podas) — dreptate; la (fiecare) pas."
       },
       {
        "t": " "
@@ -11615,7 +11698,9 @@
        "strong": "H7272",
        "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "la pasul lui? (leraglo)",
-       "dict_ro": "Victoriile lui Avraham, descrise profetic, confirmă puterea DOMNULUI de a dirija istoria neamurilor."
+       "dict_ro": "Victoriile lui Avraham, descrise profetic, confirmă puterea DOMNULUI de a dirija istoria neamurilor.",
+       "greek": "δικαιοσύνη κατὰ πόδας (dikaiosyne kata podas)",
+       "greek_def_ro": "δικαιοσύνη κατὰ πόδας (dikaiosyne kata podas) — dreptate; la (fiecare) pas."
       },
       {
        "t": " "
@@ -11797,7 +11882,9 @@
        "strong": "H7291",
        "pos": "verb, qal imperfect + sufix",
        "def_ro": "îi va urmări (irdefēm)",
-       "dict_ro": "Avraham urmărește și trece nevătămat prin ținuturi necunoscute, semn al protecției divine asupra chemării lui."
+       "dict_ro": "Avraham urmărește și trece nevătămat prin ținuturi necunoscute, semn al protecției divine asupra chemării lui.",
+       "greek": "διώκω (dioko)",
+       "greek_def_ro": "διώκω (dioko) — a urmări."
       },
       {
        "t": " "
@@ -11810,7 +11897,9 @@
        "strong": "H5674",
        "pos": "verb, qal imperfect",
        "def_ro": "va trece (iaavor)",
-       "dict_ro": "Avraham urmărește și trece nevătămat prin ținuturi necunoscute, semn al protecției divine."
+       "dict_ro": "Avraham urmărește și trece nevătămat prin ținuturi necunoscute, semn al protecției divine.",
+       "greek": "διέρχομαι ἐν εἰρήνῃ (dierchomai en eirene)",
+       "greek_def_ro": "διέρχομαι ἐν εἰρήνῃ (dierchomai en eirene) — va trece; în pace."
       },
       {
        "t": " "
@@ -11823,7 +11912,9 @@
        "strong": "H7965",
        "pos": "substantiv, masculin singular",
        "def_ro": "în pace, (șalom)",
-       "dict_ro": "Avraham urmărește și trece nevătămat prin ținuturi necunoscute, semn al protecției divine."
+       "dict_ro": "Avraham urmărește și trece nevătămat prin ținuturi necunoscute, semn al protecției divine.",
+       "greek": "διέρχομαι ἐν εἰρήνῃ (dierchomai en eirene)",
+       "greek_def_ro": "διέρχομαι ἐν εἰρήνῃ (dierchomai en eirene) — va trece; în pace."
       },
       {
        "t": " "
@@ -11836,7 +11927,9 @@
        "strong": "H734",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "pe calea (orah)",
-       "dict_ro": "Avraham urmărește și trece nevătămat prin ținuturi necunoscute, semn al protecției divine."
+       "dict_ro": "Avraham urmărește și trece nevătămat prin ținuturi necunoscute, semn al protecției divine.",
+       "greek": "ὁδός (hodos)",
+       "greek_def_ro": "ὁδός (hodos) — cale, drum."
       },
       {
        "t": " "
@@ -11849,7 +11942,10 @@
        "strong": "H7272",
        "pos": "substantiv, feminin dual construct + sufix",
        "def_ro": "cu picioarele lui (beraglaiv)",
-       "dict_ro": "Avraham urmărește și trece nevătămat prin ținuturi necunoscute, semn al protecției divine."
+       "dict_ro": "Avraham urmărește și trece nevătămat prin ținuturi necunoscute, semn al protecției divine.",
+       "greek": "πούς (pous)",
+       "greek_def_ro": "πούς (pous) — picior.",
+       "diff_ro": "Septuaginta reorganizează fraza: „drumul picioarelor lui [va trece] în pace” — fără ideea de drum neumblat."
       },
       {
        "t": " "
@@ -11942,7 +12038,9 @@
        "strong": "H6213",
        "pos": "verb, qal perfect",
        "def_ro": "și a făcut? (veasa)",
-       "dict_ro": "Întrebarea retorică pregătește autoproclamarea solemnă a DOMNULUI drept Cel dintâi și Cel din urmă."
+       "dict_ro": "Întrebarea retorică pregătește autoproclamarea solemnă a DOMNULUI drept Cel dintâi și Cel din urmă.",
+       "greek": "ἐνεργέω ποιέω (energeo poieo)",
+       "greek_def_ro": "ἐνεργέω ποιέω (energeo poieo) — a lucra, a înfăptui; a face."
       },
       {
        "t": " "
@@ -11955,7 +12053,9 @@
        "strong": "H7121",
        "pos": "verb, qal participiu",
        "def_ro": "cel care chemă (korē)",
-       "dict_ro": "Întrebarea retorică pregătește autoproclamarea solemnă a DOMNULUI drept Cel dintâi și Cel din urmă."
+       "dict_ro": "Întrebarea retorică pregătește autoproclamarea solemnă a DOMNULUI drept Cel dintâi și Cel din urmă.",
+       "greek": "καλέω ἀπὸ γενεῶν ἀρχῆς (kaleo apo geneon arches)",
+       "greek_def_ro": "καλέω ἀπὸ γενεῶν ἀρχῆς (kaleo apo geneon arches) — cel care chemă; de la începutul generațiilor."
       },
       {
        "t": " "
@@ -11968,7 +12068,9 @@
        "strong": "H1755",
        "pos": "substantiv, masculin plural",
        "def_ro": "generațiile (hadorot)",
-       "dict_ro": "Întrebarea retorică pregătește autoproclamarea solemnă a DOMNULUI drept Cel dintâi și Cel din urmă."
+       "dict_ro": "Întrebarea retorică pregătește autoproclamarea solemnă a DOMNULUI drept Cel dintâi și Cel din urmă.",
+       "greek": "καλέω ἀπὸ γενεῶν ἀρχῆς (kaleo apo geneon arches)",
+       "greek_def_ro": "καλέω ἀπὸ γενεῶν ἀρχῆς (kaleo apo geneon arches) — cel care chemă; de la începutul generațiilor."
       },
       {
        "t": " "
@@ -11981,7 +12083,9 @@
        "strong": "H7218",
        "pos": "substantiv, masculin singular",
        "def_ro": "de la început (mēroș)",
-       "dict_ro": "Întrebarea retorică pregătește autoproclamarea solemnă a DOMNULUI drept Cel dintâi și Cel din urmă."
+       "dict_ro": "Întrebarea retorică pregătește autoproclamarea solemnă a DOMNULUI drept Cel dintâi și Cel din urmă.",
+       "greek": "καλέω ἀπὸ γενεῶν ἀρχῆς (kaleo apo geneon arches)",
+       "greek_def_ro": "καλέω ἀπὸ γενεῶν ἀρχῆς (kaleo apo geneon arches) — cel care chemă; de la începutul generațiilor."
       },
       {
        "t": " "
@@ -11994,7 +12098,10 @@
        "strong": "H589",
        "pos": "pronume personal",
        "def_ro": "Eu, (ani)",
-       "dict_ro": "Autoproclamarea „Eu, DOMNUL, cel dintâi” rezumă stăpânirea absolută a DOMNULUI asupra întregii istorii, de la început până la sfârșit."
+       "dict_ro": "Autoproclamarea „Eu, DOMNUL, cel dintâi” rezumă stăpânirea absolută a DOMNULUI asupra întregii istorii, de la început până la sfârșit.",
+       "greek": "ἐγὼ Θεός πρῶτος (ego Theos protos)",
+       "greek_def_ro": "ἐγὼ Θεός πρῶτος (ego Theos protos) — Eu, Dumnezeu, cel întâi.",
+       "diff_ro": "Septuaginta are „Dumnezeu” (Θεός) în locul Numelui divin."
       },
       {
        "t": " "
@@ -12007,7 +12114,10 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL, (Adonai)",
-       "dict_ro": "Autoproclamarea „Eu, DOMNUL, cel dintâi” rezumă stăpânirea absolută a DOMNULUI asupra întregii istorii."
+       "dict_ro": "Autoproclamarea „Eu, DOMNUL, cel dintâi” rezumă stăpânirea absolută a DOMNULUI asupra întregii istorii.",
+       "greek": "ἐγὼ Θεός πρῶτος (ego Theos protos)",
+       "greek_def_ro": "ἐγὼ Θεός πρῶτος (ego Theos protos) — Eu, Dumnezeu, cel întâi.",
+       "diff_ro": "Septuaginta are „Dumnezeu” (Θεός) în locul Numelui divin."
       },
       {
        "t": " "
@@ -12020,7 +12130,10 @@
        "strong": "H7223",
        "pos": "adjectiv, masculin singular",
        "def_ro": "cel dintâi; (rișon)",
-       "dict_ro": "Autoproclamarea „Eu, DOMNUL, cel dintâi” rezumă stăpânirea absolută a DOMNULUI asupra întregii istorii."
+       "dict_ro": "Autoproclamarea „Eu, DOMNUL, cel dintâi” rezumă stăpânirea absolută a DOMNULUI asupra întregii istorii.",
+       "greek": "ἐγὼ Θεός πρῶτος (ego Theos protos)",
+       "greek_def_ro": "ἐγὼ Θεός πρῶτος (ego Theos protos) — Eu, Dumnezeu, cel întâi.",
+       "diff_ro": "Septuaginta are „Dumnezeu” (Θεός) în locul Numelui divin."
       },
       {
        "t": " "
@@ -12117,7 +12230,10 @@
        "strong": "H339",
        "pos": "substantiv, masculin plural",
        "def_ro": "insulele (im)",
-       "dict_ro": "Teama universală a neamurilor și insulelor confirmă efectul vizibil, cosmic, al lucrării DOMNULUI prin Avraham."
+       "dict_ro": "Teama universală a neamurilor și insulelor confirmă efectul vizibil, cosmic, al lucrării DOMNULUI prin Avraham.",
+       "greek": "ὁράω ἔθνος (horao ethnos)",
+       "greek_def_ro": "ὁράω ἔθνος (horao ethnos) — au văzut; neamuri.",
+       "diff_ro": "Ebraica are „insulele” (iyim); Septuaginta, „neamurile” (ἔθνη)."
       },
       {
        "t": " "
@@ -12130,7 +12246,10 @@
        "strong": "H7200",
        "pos": "verb, qal perfect",
        "def_ro": "au văzut (rau)",
-       "dict_ro": "Teama universală a neamurilor și insulelor confirmă efectul vizibil, cosmic, al lucrării DOMNULUI."
+       "dict_ro": "Teama universală a neamurilor și insulelor confirmă efectul vizibil, cosmic, al lucrării DOMNULUI.",
+       "greek": "ὁράω ἔθνος (horao ethnos)",
+       "greek_def_ro": "ὁράω ἔθνος (horao ethnos) — au văzut; neamuri.",
+       "diff_ro": "Ebraica are „insulele” (iyim); Septuaginta, „neamurile” (ἔθνη)."
       },
       {
        "t": " "
@@ -12143,7 +12262,9 @@
        "strong": "H3372",
        "pos": "verb, qal imperfect",
        "def_ro": "și s-au temut, (veirau)",
-       "dict_ro": "Teama universală a neamurilor și insulelor confirmă efectul vizibil, cosmic, al lucrării DOMNULUI."
+       "dict_ro": "Teama universală a neamurilor și insulelor confirmă efectul vizibil, cosmic, al lucrării DOMNULUI.",
+       "greek": "φοβέομαι (phobeomai)",
+       "greek_def_ro": "φοβέομαι (phobeomai) — a se teme."
       },
       {
        "t": " "
@@ -12156,7 +12277,9 @@
        "strong": "H7098",
        "pos": "substantiv, masculin și feminin plural construct",
        "def_ro": "marginile (kețot)",
-       "dict_ro": "Teama universală a neamurilor și insulelor confirmă efectul vizibil, cosmic, al lucrării DOMNULUI."
+       "dict_ro": "Teama universală a neamurilor și insulelor confirmă efectul vizibil, cosmic, al lucrării DOMNULUI.",
+       "greek": "ἄκρον γῆ (akron ge)",
+       "greek_def_ro": "ἄκρον γῆ (akron ge) — margini; pământ."
       },
       {
        "t": " "
@@ -12169,7 +12292,9 @@
        "strong": "H776",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "pământului (haareț)",
-       "dict_ro": "Teama universală a neamurilor și insulelor confirmă efectul vizibil, cosmic, al lucrării DOMNULUI."
+       "dict_ro": "Teama universală a neamurilor și insulelor confirmă efectul vizibil, cosmic, al lucrării DOMNULUI.",
+       "greek": "ἄκρον γῆ (akron ge)",
+       "greek_def_ro": "ἄκρον γῆ (akron ge) — margini; pământ."
       },
       {
        "t": " "
@@ -12182,7 +12307,10 @@
        "strong": "H2729",
        "pos": "verb, qal imperfect",
        "def_ro": "s-au cutremurat, (ieheradu)",
-       "dict_ro": "Teama universală a neamurilor și insulelor confirmă efectul vizibil, cosmic, al lucrării DOMNULUI."
+       "dict_ro": "Teama universală a neamurilor și insulelor confirmă efectul vizibil, cosmic, al lucrării DOMNULUI.",
+       "greek": "ἐγγίζω (engizo)",
+       "greek_def_ro": "ἐγγίζω (engizo) — a se apropia.",
+       "diff_ro": "Ebraica spune „s-au cutremurat” (yeheradu); Septuaginta, „s-au apropiat” (ἤγγισαν)."
       },
       {
        "t": " "
@@ -12195,7 +12323,9 @@
        "strong": "H7126",
        "pos": "verb, qal perfect",
        "def_ro": "s-au apropiat (karvu)",
-       "dict_ro": "Mișcarea de apropiere a neamurilor pregătește scena idolatriei descrisă în versetele următoare, ca reacție disperată la teamă."
+       "dict_ro": "Mișcarea de apropiere a neamurilor pregătește scena idolatriei descrisă în versetele următoare, ca reacție disperată la teamă.",
+       "greek": "ἔρχομαι ἅμα (erchomai hama)",
+       "greek_def_ro": "ἔρχομαι ἅμα (erchomai hama) — au venit; împreună."
       },
       {
        "t": " "
@@ -12208,7 +12338,9 @@
        "strong": "H857",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "și au venit. (vaieetaiun)",
-       "dict_ro": "Mișcarea de apropiere a neamurilor pregătește scena idolatriei descrisă în versetele următoare."
+       "dict_ro": "Mișcarea de apropiere a neamurilor pregătește scena idolatriei descrisă în versetele următoare.",
+       "greek": "ἔρχομαι ἅμα (erchomai hama)",
+       "greek_def_ro": "ἔρχομαι ἅμα (erchomai hama) — au venit; împreună."
       }
      ],
      "textCompare": [
@@ -12279,7 +12411,9 @@
        "strong": "H376",
        "pos": "substantiv, masculin singular",
        "def_ro": "omul (iș)",
-       "dict_ro": "Scena fabricării idolilor, în contrast direct cu Avraham chemat de DOMNUL, satirizează neputința zeilor făcuți de mâna omului."
+       "dict_ro": "Scena fabricării idolilor, în contrast direct cu Avraham chemat de DOMNUL, satirizează neputința zeilor făcuți de mâna omului.",
+       "greek": "ἕκαστος (hekastos)",
+       "greek_def_ro": "ἕκαστος (hekastos) — fiecare."
       },
       {
        "t": " "
@@ -12292,7 +12426,9 @@
        "strong": "H5826",
        "pos": "verb, qal imperfect",
        "def_ro": "va ajuta (iazoru)",
-       "dict_ro": "Scena fabricării idolilor satirizează neputința zeilor făcuți de mâna omului."
+       "dict_ro": "Scena fabricării idolilor satirizează neputința zeilor făcuți de mâna omului.",
+       "greek": "βοηθέω τῷ πλησίον (boetheo to plesion)",
+       "greek_def_ro": "βοηθέω τῷ πλησίον (boetheo to plesion) — a ajuta; semenul, vecinul."
       },
       {
        "t": " "
@@ -12305,7 +12441,9 @@
        "strong": "H7453",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "pe semenul lui [să venereze idoli] (rēēhu)",
-       "dict_ro": "Scena fabricării idolilor satirizează neputința zeilor făcuți de mâna omului."
+       "dict_ro": "Scena fabricării idolilor satirizează neputința zeilor făcuți de mâna omului.",
+       "greek": "βοηθέω τῷ πλησίον (boetheo to plesion)",
+       "greek_def_ro": "βοηθέω τῷ πλησίον (boetheo to plesion) — a ajuta; semenul, vecinul."
       },
       {
        "t": " "
@@ -12318,7 +12456,9 @@
        "strong": "H251",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "și fratelui lui, (ulahiv)",
-       "dict_ro": "Scena fabricării idolilor satirizează neputința zeilor făcuți de mâna omului."
+       "dict_ro": "Scena fabricării idolilor satirizează neputința zeilor făcuți de mâna omului.",
+       "greek": "ἀδελφός ἐρῶ (adelphos ero)",
+       "greek_def_ro": "ἀδελφός ἐρῶ (adelphos ero) — frate; va spune."
       },
       {
        "t": " "
@@ -12331,7 +12471,9 @@
        "strong": "H559",
        "pos": "verb, qal imperfect",
        "def_ro": "îi spune: (iomar)",
-       "dict_ro": "Scena fabricării idolilor satirizează neputința zeilor făcuți de mâna omului."
+       "dict_ro": "Scena fabricării idolilor satirizează neputința zeilor făcuți de mâna omului.",
+       "greek": "ἀδελφός ἐρῶ (adelphos ero)",
+       "greek_def_ro": "ἀδελφός ἐρῶ (adelphos ero) — frate; va spune."
       },
       {
        "t": " "
@@ -12412,7 +12554,9 @@
        "strong": "H2796",
        "pos": "substantiv, masculin singular",
        "def_ro": "tâmplarul (haraș)",
-       "dict_ro": "Lanțul de meșteri care se încurajează unul pe altul la fabricarea idolului culminează cu fixarea lui definitivă, ca să nu se clatine — ironie amară față de stabilitatea reală a DOMNULUI."
+       "dict_ro": "Lanțul de meșteri care se încurajează unul pe altul la fabricarea idolului culminează cu fixarea lui definitivă, ca să nu se clatine — ironie amară față de stabilitatea reală a DOMNULUI.",
+       "greek": "τέκτων (tekton)",
+       "greek_def_ro": "τέκτων (tekton) — tâmplar, meșter."
       },
       {
        "t": " "
@@ -12425,7 +12569,9 @@
        "strong": "H2388",
        "pos": "verb, piel imperfect consecutiv",
        "def_ro": "va întări (vaihazēk)",
-       "dict_ro": "Lanțul de meșteri care se încurajează unul pe altul la fabricarea idolului culminează cu fixarea lui definitivă."
+       "dict_ro": "Lanțul de meșteri care se încurajează unul pe altul la fabricarea idolului culminează cu fixarea lui definitivă.",
+       "greek": "ἰσχύω (ischyo)",
+       "greek_def_ro": "ἰσχύω (ischyo) — a întări, a da putere."
       },
       {
        "t": " "
@@ -12438,7 +12584,9 @@
        "strong": "H6884",
        "pos": "verb, qal participiu",
        "def_ro": "pe argintarul, (țorēf)",
-       "dict_ro": "Lanțul de meșteri care se încurajează unul pe altul la fabricarea idolului culminează cu fixarea lui definitivă."
+       "dict_ro": "Lanțul de meșteri care se încurajează unul pe altul la fabricarea idolului culminează cu fixarea lui definitivă.",
+       "greek": "χαλκεύς (chalkeus)",
+       "greek_def_ro": "χαλκεύς (chalkeus) — fierar, lucrător în metal."
       },
       {
        "t": " "
@@ -12477,7 +12625,9 @@
        "strong": "H559",
        "pos": "verb, qal participiu",
        "def_ro": "spune (omēr)",
-       "dict_ro": "Verdictul final al meșterilor — „clei bun”, fixat în cuie — e o ironie amară față de stabilitatea reală a DOMNULUI."
+       "dict_ro": "Verdictul final al meșterilor — „clei bun”, fixat în cuie — e o ironie amară față de stabilitatea reală a DOMNULUI.",
+       "greek": "ἐρῶ σύμβλημα καλόν (ero symblema kalon)",
+       "greek_def_ro": "ἐρῶ σύμβλημα καλόν (ero symblema kalon) — va spune: îmbinarea este bună."
       },
       {
        "t": " "
@@ -12490,7 +12640,9 @@
        "strong": "H1694",
        "pos": "substantiv, masculin singular",
        "def_ro": "despre clei (ladevek)",
-       "dict_ro": "Verdictul final al meșterilor e o ironie amară față de stabilitatea reală a DOMNULUI."
+       "dict_ro": "Verdictul final al meșterilor e o ironie amară față de stabilitatea reală a DOMNULUI.",
+       "greek": "ἐρῶ σύμβλημα καλόν (ero symblema kalon)",
+       "greek_def_ro": "ἐρῶ σύμβλημα καλόν (ero symblema kalon) — va spune: îmbinarea este bună."
       },
       {
        "t": " "
@@ -12516,7 +12668,9 @@
        "strong": "H2388",
        "pos": "verb, piel imperfect consecutiv + sufix",
        "def_ro": "și îl va întări (vaihazkēhu)",
-       "dict_ro": "Verdictul final al meșterilor e o ironie amară față de stabilitatea reală a DOMNULUI, invocată în versetul următor pentru Israel."
+       "dict_ro": "Verdictul final al meșterilor e o ironie amară față de stabilitatea reală a DOMNULUI, invocată în versetul următor pentru Israel.",
+       "greek": "ἰσχύω (ischyo)",
+       "greek_def_ro": "ἰσχύω (ischyo) — a întări, a da putere."
       },
       {
        "t": " "
@@ -12529,7 +12683,9 @@
        "strong": "H4548",
        "pos": "substantiv, masculin și feminin plural",
        "def_ro": "cu cuie, (vemasmerim)",
-       "dict_ro": "Verdictul final al meșterilor e o ironie amară față de stabilitatea reală a DOMNULUI."
+       "dict_ro": "Verdictul final al meșterilor e o ironie amară față de stabilitatea reală a DOMNULUI.",
+       "greek": "ἰσχυρόω ἐν ἥλοις (ischyroo en helois)",
+       "greek_def_ro": "ἰσχυρόω ἐν ἥλοις (ischyroo en helois) — a întări; cu cuie."
       },
       {
        "t": " "
@@ -12542,7 +12698,9 @@
        "strong": "H4131",
        "pos": "particulă negativă + verb, nifal imperfect",
        "def_ro": "nu se va mișca. (lo imot)",
-       "dict_ro": "Idolul fixat în cuie „ca să nu se clatine” contrastează direct cu promisiunea reală de stabilitate dată lui Israel în versetele următoare."
+       "dict_ro": "Idolul fixat în cuie „ca să nu se clatine” contrastează direct cu promisiunea reală de stabilitate dată lui Israel în versetele următoare.",
+       "greek": "κινέω (kineo)",
+       "greek_def_ro": "κινέω (kineo) — a (se) mișca, a (se) clătina."
       }
      ],
      "textCompare": [
@@ -12612,7 +12770,9 @@
        "strong": "H859",
        "pos": "pronume personal",
        "def_ro": "și tu, (veata)",
-       "dict_ro": "Spre diferență de neamurile care se încred în idoli ficși, Israel e chemat direct, ca slujitor ales, descendent al lui Avraham."
+       "dict_ro": "Spre diferență de neamurile care se încred în idoli ficși, Israel e chemat direct, ca slujitor ales, descendent al lui Avraham.",
+       "greek": "σύ (sy)",
+       "greek_def_ro": "σύ (sy) — tu."
       },
       {
        "t": " "
@@ -12625,7 +12785,9 @@
        "strong": "H3478",
        "pos": "nume propriu",
        "def_ro": "Israel, (israēl)",
-       "dict_ro": "Spre diferență de neamurile care se încred în idoli, Israel e chemat direct, ca slujitor ales."
+       "dict_ro": "Spre diferență de neamurile care se încred în idoli, Israel e chemat direct, ca slujitor ales.",
+       "greek": "σύ (sy)",
+       "greek_def_ro": "σύ (sy) — tu."
       },
       {
        "t": " "
@@ -12638,7 +12800,9 @@
        "strong": "H5650",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "slujitorul meu, (avdi)",
-       "dict_ro": "Titlul „slujitorul Meu” atribuit lui Israel-Iacov anticipează titlul identic dat mai târziu slujitorului mesianic."
+       "dict_ro": "Titlul „slujitorul Meu” atribuit lui Israel-Iacov anticipează titlul identic dat mai târziu slujitorului mesianic.",
+       "greek": "παῖς (pais)",
+       "greek_def_ro": "παῖς (pais) — slujitor, copil."
       },
       {
        "t": " "
@@ -12651,7 +12815,9 @@
        "strong": "H3290",
        "pos": "nume propriu",
        "def_ro": "Iacov, (iaakov)",
-       "dict_ro": "Titlul „slujitorul Meu” atribuit lui Israel-Iacov anticipează titlul identic dat mai târziu slujitorului mesianic."
+       "dict_ro": "Titlul „slujitorul Meu” atribuit lui Israel-Iacov anticipează titlul identic dat mai târziu slujitorului mesianic.",
+       "greek": "παῖς (pais)",
+       "greek_def_ro": "παῖς (pais) — slujitor, copil."
       },
       {
        "t": " "
@@ -12664,7 +12830,9 @@
        "strong": "H977",
        "pos": "particulă relativă + verb, qal perfect + sufix",
        "def_ro": "pe care te-am ales, (așer behartiha)",
-       "dict_ro": "Alegerea lui Israel se leagă explicit de descendența din Avraham, cel iubit de DOMNUL."
+       "dict_ro": "Alegerea lui Israel se leagă explicit de descendența din Avraham, cel iubit de DOMNUL.",
+       "greek": "ἐκλέγομαι (eklegomai)",
+       "greek_def_ro": "ἐκλέγομαι (eklegomai) — a alege."
       },
       {
        "t": " "
@@ -12677,7 +12845,9 @@
        "strong": "H2233",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "sămânța lui (zera)",
-       "dict_ro": "Alegerea lui Israel se leagă explicit de descendența din Avraham, cel iubit de DOMNUL."
+       "dict_ro": "Alegerea lui Israel se leagă explicit de descendența din Avraham, cel iubit de DOMNUL.",
+       "greek": "σπέρμα (sperma)",
+       "greek_def_ro": "σπέρμα (sperma) — sămânță, urmaș."
       },
       {
        "t": " "
@@ -12690,7 +12860,9 @@
        "strong": "H85",
        "pos": "nume propriu",
        "def_ro": "Avraham (avraham)",
-       "dict_ro": "Avraham, numit aici direct „iubitul Meu”, confirmă relația de prietenie unică dintre patriarh și DOMNUL."
+       "dict_ro": "Avraham, numit aici direct „iubitul Meu”, confirmă relația de prietenie unică dintre patriarh și DOMNUL.",
+       "greek": "σπέρμα (sperma)",
+       "greek_def_ro": "σπέρμα (sperma) — sămânță, urmaș."
       },
       {
        "t": " "
@@ -12703,7 +12875,9 @@
        "strong": "H157",
        "pos": "verb, qal participiu + sufix",
        "def_ro": "care m-a iubit, (ohavi)",
-       "dict_ro": "Avraham, numit aici direct „iubitul Meu”, confirmă relația de prietenie unică dintre patriarh și DOMNUL."
+       "dict_ro": "Avraham, numit aici direct „iubitul Meu”, confirmă relația de prietenie unică dintre patriarh și DOMNUL.",
+       "greek": "ἀγαπάω (agapao)",
+       "greek_def_ro": "ἀγαπάω (agapao) — a iubi."
       }
      ],
      "textCompare": [
@@ -12778,7 +12952,9 @@
        "strong": "H2388",
        "pos": "particulă relativă + verb, hifil perfect + sufix",
        "def_ro": "pe care te-am ținut (așer hehezaktiha)",
-       "dict_ro": "Alegerea lui Israel din marginile pământului, dintre conducătorii exilului, confirmă fidelitatea DOMNULUI față de legământ, chiar în captivitate."
+       "dict_ro": "Alegerea lui Israel din marginile pământului, dintre conducătorii exilului, confirmă fidelitatea DOMNULUI față de legământ, chiar în captivitate.",
+       "greek": "ἀντιλαμβάνομαι (antilambanomai)",
+       "greek_def_ro": "ἀντιλαμβάνομαι (antilambanomai) — a sprijini, a susține, a lua de mână."
       },
       {
        "t": " "
@@ -12791,7 +12967,9 @@
        "strong": "H7098",
        "pos": "substantiv, masculin și feminin plural construct",
        "def_ro": "de la marginile (mikțot)",
-       "dict_ro": "Alegerea lui Israel din marginile pământului confirmă fidelitatea DOMNULUI față de legământ, chiar în captivitate."
+       "dict_ro": "Alegerea lui Israel din marginile pământului confirmă fidelitatea DOMNULUI față de legământ, chiar în captivitate.",
+       "greek": "ἄκρον γῆ (akron ge)",
+       "greek_def_ro": "ἄκρον γῆ (akron ge) — margini; pământ."
       },
       {
        "t": " "
@@ -12804,7 +12982,9 @@
        "strong": "H776",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "pământului (haareț)",
-       "dict_ro": "Alegerea lui Israel din marginile pământului confirmă fidelitatea DOMNULUI față de legământ, chiar în captivitate."
+       "dict_ro": "Alegerea lui Israel din marginile pământului confirmă fidelitatea DOMNULUI față de legământ, chiar în captivitate.",
+       "greek": "ἄκρον γῆ (akron ge)",
+       "greek_def_ro": "ἄκρον γῆ (akron ge) — margini; pământ."
       },
       {
        "t": " "
@@ -12817,7 +12997,9 @@
        "strong": "H7121",
        "pos": "verb, qal perfect + sufix",
        "def_ro": "te-am chemat (keratiha)",
-       "dict_ro": "Alegerea lui Israel dintre conducătorii exilului confirmă fidelitatea DOMNULUI față de legământ."
+       "dict_ro": "Alegerea lui Israel dintre conducătorii exilului confirmă fidelitatea DOMNULUI față de legământ.",
+       "greek": "καλέω (kaleo)",
+       "greek_def_ro": "καλέω (kaleo) — a chema."
       },
       {
        "t": " "
@@ -12830,7 +13012,10 @@
        "strong": "H678",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "și dintre nobilii lui (umēațileha)",
-       "dict_ro": "Alegerea lui Israel dintre conducătorii exilului confirmă fidelitatea DOMNULUI față de legământ."
+       "dict_ro": "Alegerea lui Israel dintre conducătorii exilului confirmă fidelitatea DOMNULUI față de legământ.",
+       "greek": "σκοπιά (skopia)",
+       "greek_def_ro": "σκοπιά (skopia) — înălțime, turn de pază.",
+       "diff_ro": "Ebraica are „conducătorii ei” (ațileha); Septuaginta, „înălțimile ei” (σκοπιῶν αὐτῆς)."
       },
       {
        "t": " "
@@ -12856,7 +13041,9 @@
        "strong": "H5650",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "slujitorul meu (avdi)",
-       "dict_ro": "Formula „Slujitorul Meu ești tu” confirmă explicit statutul permanent, nu revocat, al lui Israel înaintea DOMNULUI."
+       "dict_ro": "Formula „Slujitorul Meu ești tu” confirmă explicit statutul permanent, nu revocat, al lui Israel înaintea DOMNULUI.",
+       "greek": "παῖς (pais)",
+       "greek_def_ro": "παῖς (pais) — slujitor."
       },
       {
        "t": " "
@@ -12869,7 +13056,9 @@
        "strong": "H859",
        "pos": "pronume personal",
        "def_ro": "ești tu, (ata)",
-       "dict_ro": "Formula „Slujitorul Meu ești tu” confirmă explicit statutul permanent al lui Israel înaintea DOMNULUI."
+       "dict_ro": "Formula „Slujitorul Meu ești tu” confirmă explicit statutul permanent al lui Israel înaintea DOMNULUI.",
+       "greek": "παῖς (pais)",
+       "greek_def_ro": "παῖς (pais) — slujitor."
       },
       {
        "t": " "
@@ -12882,7 +13071,9 @@
        "strong": "H977",
        "pos": "verb, qal perfect + sufix",
        "def_ro": "te-am ales (behartiha)",
-       "dict_ro": "Alegerea și neschimbarea atitudinii DOMNULUI, declarate explicit, resping ideea de respingere definitivă a lui Israel."
+       "dict_ro": "Alegerea și neschimbarea atitudinii DOMNULUI, declarate explicit, resping ideea de respingere definitivă a lui Israel.",
+       "greek": "ἐκλέγομαι (eklegomai)",
+       "greek_def_ro": "ἐκλέγομαι (eklegomai) — a alege."
       },
       {
        "t": " "
@@ -12966,7 +13157,9 @@
        "strong": "H3372",
        "pos": "particulă negativă + verb, qal jusiv",
        "def_ro": "nu te teme, (al tira)",
-       "dict_ro": "Formula „Nu te teme” inaugurează seria de promisiuni directe ale prezenței, întăririi și ajutorului divin pentru Israel în exil."
+       "dict_ro": "Formula „Nu te teme” inaugurează seria de promisiuni directe ale prezenței, întăririi și ajutorului divin pentru Israel în exil.",
+       "greek": "φοβέομαι (phobeomai)",
+       "greek_def_ro": "φοβέομαι (phobeomai) — a se teme."
       },
       {
        "t": " "
@@ -12992,7 +13185,9 @@
        "strong": "H589",
        "pos": "prepoziție + sufix + pronume personal",
        "def_ro": "Eu sunt cu tine, (imha ani)",
-       "dict_ro": "Promisiunea prezenței divine directe răspunde exact fricii exilului, al cărui sentiment era de abandon."
+       "dict_ro": "Promisiunea prezenței divine directe răspunde exact fricii exilului, al cărui sentiment era de abandon.",
+       "greek": "μετὰ σοῦ εἰμί (meta sou eimi)",
+       "greek_def_ro": "μετὰ σοῦ εἰμί (meta sou eimi) — sunt cu tine."
       },
       {
        "t": " "
@@ -13005,7 +13200,9 @@
        "strong": "H8159",
        "pos": "particulă negativă + verb, qal jusiv",
        "def_ro": "nu privi în jur, (al tișta)",
-       "dict_ro": "Promisiunea prezenței divine directe răspunde exact fricii exilului, al cărui sentiment era de abandon."
+       "dict_ro": "Promisiunea prezenței divine directe răspunde exact fricii exilului, al cărui sentiment era de abandon.",
+       "greek": "πλανάω (planao)",
+       "greek_def_ro": "πλανάω (planao) — a (se) rătăci, a (se) abate."
       },
       {
        "t": " "
@@ -13031,7 +13228,9 @@
        "strong": "H430",
        "pos": "pronume personal + substantiv, masculin plural construct + sufix",
        "def_ro": "Eu sunt Dumnezeul tău; (ani eloheha)",
-       "dict_ro": "Formula „Eu sunt Dumnezeul tău” reafirmă legătura personală de legământ, dincolo de orice circumstanță istorică."
+       "dict_ro": "Formula „Eu sunt Dumnezeul tău” reafirmă legătura personală de legământ, dincolo de orice circumstanță istorică.",
+       "greek": "ἐγὼ εἰμί ὁ θεός (ego eimi ho theos)",
+       "greek_def_ro": "ἐγὼ εἰμί ὁ θεός (ego eimi ho theos) — eu sunt Dumnezeul tău."
       },
       {
        "t": " "
@@ -13044,7 +13243,9 @@
        "strong": "H553",
        "pos": "verb, piel perfect + sufix",
        "def_ro": "te-am întărit, (imațtiha)",
-       "dict_ro": "Seria de verbe — întărire, ajutor, sprijin — descrie acțiunea activă, continuă, a DOMNULUI asupra lui Israel."
+       "dict_ro": "Seria de verbe — întărire, ajutor, sprijin — descrie acțiunea activă, continuă, a DOMNULUI asupra lui Israel.",
+       "greek": "ἐνισχύω (enischyo)",
+       "greek_def_ro": "ἐνισχύω (enischyo) — a întări."
       },
       {
        "t": " "
@@ -13083,7 +13284,9 @@
        "strong": "H3225",
        "pos": "substantiv, feminin singular construct",
        "def_ro": "cu dreapta (bimin)",
-       "dict_ro": "Dreapta DOMNULUI, numită explicit „dreaptă” (justă), simbolizează puterea Lui întrebuințată pentru dreptate, nu doar forță."
+       "dict_ro": "Dreapta DOMNULUI, numită explicit „dreaptă” (justă), simbolizează puterea Lui întrebuințată pentru dreptate, nu doar forță.",
+       "greek": "δεξιά δίκαιος (dexia dikaios)",
+       "greek_def_ro": "δεξιά δίκαιος (dexia dikaios) — dreapta; dreaptă."
       },
       {
        "t": " "
@@ -13096,7 +13299,9 @@
        "strong": "H6664",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "dreptății mele. (țidki)",
-       "dict_ro": "Dreapta DOMNULUI, numită explicit „dreaptă”, simbolizează puterea Lui întrebuințată pentru dreptate, nu doar forță."
+       "dict_ro": "Dreapta DOMNULUI, numită explicit „dreaptă”, simbolizează puterea Lui întrebuințată pentru dreptate, nu doar forță.",
+       "greek": "δεξιά δίκαιος (dexia dikaios)",
+       "greek_def_ro": "δεξιά δίκαιος (dexia dikaios) — dreapta; dreaptă."
       }
      ],
      "textCompare": [
@@ -13166,7 +13371,9 @@
        "strong": "H2005",
        "pos": "particulă demonstrativă",
        "def_ro": "iată, (hēn)",
-       "dict_ro": "Soarta vrăjmașilor lui Israel — rușine, nimicire, pieire — contrastează direct cu promisiunea de ajutor dată poporului în versetele precedente."
+       "dict_ro": "Soarta vrăjmașilor lui Israel — rușine, nimicire, pieire — contrastează direct cu promisiunea de ajutor dată poporului în versetele precedente.",
+       "greek": "ἰδού (idou)",
+       "greek_def_ro": "ἰδού (idou) — iată."
       },
       {
        "t": " "
@@ -13192,7 +13399,10 @@
        "strong": "",
        "pos": "prepoziție + sufix",
        "def_ro": "pe tine (bah)",
-       "dict_ro": "Soarta vrăjmașilor lui Israel contrastează direct cu promisiunea de ajutor dată poporului."
+       "dict_ro": "Soarta vrăjmașilor lui Israel contrastează direct cu promisiunea de ajutor dată poporului.",
+       "greek": "ἀντίκειμαι (antikeimai)",
+       "greek_def_ro": "ἀντίκειμαι (antikeimai) — a se împotrivi, a fi împotriva.",
+       "diff_ro": "Ebraica spune „cei mâniați pe tine” (haneherim beha); Septuaginta, „cei ce se împotrivesc ție” (οἱ ἀντικείμενοί σοι)."
       },
       {
        "t": " "
@@ -13205,7 +13415,9 @@
        "strong": "H954",
        "pos": "verb, qal imperfect",
        "def_ro": "vor fi rușinați (iēvoșu)",
-       "dict_ro": "Soarta vrăjmașilor lui Israel contrastează direct cu promisiunea de ajutor dată poporului."
+       "dict_ro": "Soarta vrăjmașilor lui Israel contrastează direct cu promisiunea de ajutor dată poporului.",
+       "greek": "αἰσχύνομαι ἐντρέπομαι (aischynomai entrepomai)",
+       "greek_def_ro": "αἰσχύνομαι ἐντρέπομαι (aischynomai entrepomai) — vor fi rușinați; vor fi încurcați."
       },
       {
        "t": " "
@@ -13218,7 +13430,9 @@
        "strong": "H3637",
        "pos": "verb, nifal imperfect",
        "def_ro": "și vor fi umiliți, (veikalmu)",
-       "dict_ro": "Soarta vrăjmașilor lui Israel contrastează direct cu promisiunea de ajutor dată poporului."
+       "dict_ro": "Soarta vrăjmașilor lui Israel contrastează direct cu promisiunea de ajutor dată poporului.",
+       "greek": "αἰσχύνομαι ἐντρέπομαι (aischynomai entrepomai)",
+       "greek_def_ro": "αἰσχύνομαι ἐντρέπομαι (aischynomai entrepomai) — vor fi rușinați; vor fi încurcați."
       },
       {
        "t": " "
@@ -13231,7 +13445,9 @@
        "strong": "H7379",
        "pos": "substantiv, masculin plural construct + substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "oamenii certei tale (anșē riveha)",
-       "dict_ro": "Repetarea ideii, cu termeni diferiți, întărește certitudinea pedepsei celor ce se opun lui Israel."
+       "dict_ro": "Repetarea ideii, cu termeni diferiți, întărește certitudinea pedepsei celor ce se opun lui Israel.",
+       "greek": "ἀντίδικος (antidikos)",
+       "greek_def_ro": "ἀντίδικος (antidikos) — adversar, cel care se judecă împotriva cuiva."
       },
       {
        "t": " "
@@ -13257,7 +13473,9 @@
        "strong": "H369",
        "pos": "substantiv, masculin singular",
        "def_ro": "ca nimic (heain)",
-       "dict_ro": "Repetarea ideii, cu termeni diferiți, întărește certitudinea pedepsei celor ce se opun lui Israel."
+       "dict_ro": "Repetarea ideii, cu termeni diferiți, întărește certitudinea pedepsei celor ce se opun lui Israel.",
+       "greek": "ὡς οὐκ ὤν ἀπόλλυμι (hos ouk on apollymi)",
+       "greek_def_ro": "ὡς οὐκ ὤν ἀπόλλυμι (hos ouk on apollymi) — ca și cum n-ar fi; vor pieri."
       },
       {
        "t": " "
@@ -13270,7 +13488,9 @@
        "strong": "H6",
        "pos": "verb, qal imperfect",
        "def_ro": "și vor pieri. (veiovdu)",
-       "dict_ro": "Repetarea ideii, cu termeni diferiți, întărește certitudinea pedepsei celor ce se opun lui Israel."
+       "dict_ro": "Repetarea ideii, cu termeni diferiți, întărește certitudinea pedepsei celor ce se opun lui Israel.",
+       "greek": "ὡς οὐκ ὤν ἀπόλλυμι (hos ouk on apollymi)",
+       "greek_def_ro": "ὡς οὐκ ὤν ἀπόλλυμι (hos ouk on apollymi) — ca și cum n-ar fi; vor pieri."
       }
      ],
      "textCompare": [
@@ -13341,7 +13561,9 @@
        "strong": "H1245",
        "pos": "verb, piel imperfect + sufix",
        "def_ro": "îi vei căuta (tevakșēm)",
-       "dict_ro": "Promisiunea e radicală: vrăjmașii lui Israel nu vor mai putea fi găsiți deloc, dispăruți complet din istorie."
+       "dict_ro": "Promisiunea e radicală: vrăjmașii lui Israel nu vor mai putea fi găsiți deloc, dispăruți complet din istorie.",
+       "greek": "ζητέω (zeteo)",
+       "greek_def_ro": "ζητέω (zeteo) — a căuta."
       },
       {
        "t": " "
@@ -13367,7 +13589,10 @@
        "strong": "H4695",
        "pos": "substantiv, masculin plural construct + substantiv, feminin singular construct + sufix",
        "def_ro": "oamenii certei tale; (anșē mațuteha)",
-       "dict_ro": "Promisiunea e radicală: vrăjmașii lui Israel nu vor mai putea fi găsiți deloc."
+       "dict_ro": "Promisiunea e radicală: vrăjmașii lui Israel nu vor mai putea fi găsiți deloc.",
+       "greek": "ἄνθρωπος παροινέω (anthropos paroineo)",
+       "greek_def_ro": "ἄνθρωπος παροινέω (anthropos paroineo) — oamenii; care se vor purta nebunește (ca beții) împotriva ta.",
+       "diff_ro": "Ebraica spune „oamenii care se ceartă cu tine” (anșē matzuteha); Septuaginta, „oamenii care se vor purta ca beții împotriva ta” (παροινήσουσιν)."
       },
       {
        "t": " "
@@ -13406,7 +13631,9 @@
        "strong": "H4421",
        "pos": "substantiv, masculin plural construct + substantiv, feminin singular construct + sufix",
        "def_ro": "oamenii războiului tău. (anșē milhamteha)",
-       "dict_ro": "Dublarea „ca nimic și ca neant” e un idiom ebraic de emfază, descriind nimicirea totală a potrivnicilor."
+       "dict_ro": "Dublarea „ca nimic și ca neant” e un idiom ebraic de emfază, descriind nimicirea totală a potrivnicilor.",
+       "greek": "ἀντιπολεμέω (antipolemeo)",
+       "greek_def_ro": "ἀντιπολεμέω (antipolemeo) — a se război împotriva (cuiva)."
       }
      ],
      "textCompare": [
@@ -13486,7 +13713,10 @@
        "strong": "H589",
        "pos": "pronume personal",
        "def_ro": "Eu, (ani)",
-       "dict_ro": "Garanția finală — DOMNUL Însuși ține mâna dreaptă a lui Israel — rezumă promisiunile prezenței divine."
+       "dict_ro": "Garanția finală — DOMNUL Însuși ține mâna dreaptă a lui Israel — rezumă promisiunile prezenței divine.",
+       "greek": "ἐγὼ ὁ θεός (ego ho theos)",
+       "greek_def_ro": "ἐγὼ ὁ θεός (ego ho theos) — Eu [sunt] Dumnezeul [tău].",
+       "diff_ro": "Septuaginta nu redă separat Tetragrama aici, doar „Eu [sunt] Dumnezeul tău”."
       },
       {
        "t": " "
@@ -13499,7 +13729,10 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL, (Adonai)",
-       "dict_ro": "Garanția finală — DOMNUL Însuși ține mâna dreaptă a lui Israel — rezumă promisiunile prezenței divine."
+       "dict_ro": "Garanția finală — DOMNUL Însuși ține mâna dreaptă a lui Israel — rezumă promisiunile prezenței divine.",
+       "greek": "ἐγὼ ὁ θεός (ego ho theos)",
+       "greek_def_ro": "ἐγὼ ὁ θεός (ego ho theos) — Eu [sunt] Dumnezeul [tău].",
+       "diff_ro": "Septuaginta nu redă separat Tetragrama aici, doar „Eu [sunt] Dumnezeul tău”."
       },
       {
        "t": " "
@@ -13512,7 +13745,10 @@
        "strong": "H430",
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "Dumnezeul tău, (eloheha)",
-       "dict_ro": "Garanția finală — DOMNUL Însuși ține mâna dreaptă a lui Israel — rezumă promisiunile prezenței divine."
+       "dict_ro": "Garanția finală — DOMNUL Însuși ține mâna dreaptă a lui Israel — rezumă promisiunile prezenței divine.",
+       "greek": "ἐγὼ ὁ θεός (ego ho theos)",
+       "greek_def_ro": "ἐγὼ ὁ θεός (ego ho theos) — Eu [sunt] Dumnezeul [tău].",
+       "diff_ro": "Septuaginta nu redă separat Tetragrama aici, doar „Eu [sunt] Dumnezeul tău”."
       },
       {
        "t": " "
@@ -13525,7 +13761,9 @@
        "strong": "H2388",
        "pos": "verb, hifil participiu",
        "def_ro": "ține (mahazik)",
-       "dict_ro": "Imaginea mâinii drepte ținute direct de DOMNUL exprimă fizic certitudinea ajutorului promis."
+       "dict_ro": "Imaginea mâinii drepte ținute direct de DOMNUL exprimă fizic certitudinea ajutorului promis.",
+       "greek": "κρατέω τῆς δεξιᾶς (krateo tes dexias)",
+       "greek_def_ro": "κρατέω τῆς δεξιᾶς (krateo tes dexias) — cel ce ține mâna dreaptă."
       },
       {
        "t": " "
@@ -13538,7 +13776,9 @@
        "strong": "H3225",
        "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "mâna ta dreaptă, (iemineha)",
-       "dict_ro": "Imaginea mâinii drepte ținute direct de DOMNUL exprimă fizic certitudinea ajutorului promis."
+       "dict_ro": "Imaginea mâinii drepte ținute direct de DOMNUL exprimă fizic certitudinea ajutorului promis.",
+       "greek": "κρατέω τῆς δεξιᾶς (krateo tes dexias)",
+       "greek_def_ro": "κρατέω τῆς δεξιᾶς (krateo tes dexias) — cel ce ține mâna dreaptă."
       },
       {
        "t": " "
@@ -13551,7 +13791,9 @@
        "strong": "",
        "pos": "verb, qal participiu + prepoziție + sufix",
        "def_ro": "cel care îți spune: (haomēr leha)",
-       "dict_ro": "Formula finală repetă, pentru a treia oară în acest pasaj, chemarea „nu te teme”, pecetluind întreaga secțiune."
+       "dict_ro": "Formula finală repetă, pentru a treia oară în acest pasaj, chemarea „nu te teme”, pecetluind întreaga secțiune.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — cel care spune."
       },
       {
        "t": " "
@@ -13564,7 +13806,9 @@
        "strong": "H3372",
        "pos": "particulă negativă + verb, qal jusiv",
        "def_ro": "nu te teme, (al tira)",
-       "dict_ro": "Formula finală repetă, pentru a treia oară, chemarea „nu te teme”, pecetluind întreaga secțiune."
+       "dict_ro": "Formula finală repetă, pentru a treia oară, chemarea „nu te teme”, pecetluind întreaga secțiune.",
+       "greek": "φοβέομαι (phobeomai)",
+       "greek_def_ro": "φοβέομαι (phobeomai) — a se teme."
       },
       {
        "t": " "
@@ -13660,7 +13904,10 @@
        "strong": "H3290",
        "pos": "nume propriu",
        "def_ro": "Iacove (iaakov)",
-       "dict_ro": "Imaginea lui Iacov ca „vierme” descrie smerenia extremă a poporului, transformată paradoxal în garanție a ajutorului divin."
+       "dict_ro": "Imaginea lui Iacov ca „vierme” descrie smerenia extremă a poporului, transformată paradoxal în garanție a ajutorului divin.",
+       "greek": "ὀλιγοστός (oligostos)",
+       "greek_def_ro": "ὀλιγοστός (oligostos) — foarte mic, neînsemnat.",
+       "diff_ro": "Ebraica compară pe Iacov cu un vierme (tolaat); Septuaginta spune doar „cel mic” (ὀλιγοστός), fără imaginea viermelui."
       },
       {
        "t": " "
@@ -13673,7 +13920,10 @@
        "strong": "H8438",
        "pos": "substantiv, feminin singular construct",
        "def_ro": "vierme al (tolaat)",
-       "dict_ro": "Imaginea lui Iacov ca „vierme” descrie smerenia extremă a poporului, transformată paradoxal în garanție a ajutorului divin."
+       "dict_ro": "Imaginea lui Iacov ca „vierme” descrie smerenia extremă a poporului, transformată paradoxal în garanție a ajutorului divin.",
+       "greek": "ὀλιγοστός (oligostos)",
+       "greek_def_ro": "ὀλιγοστός (oligostos) — foarte mic, neînsemnat.",
+       "diff_ro": "Ebraica compară pe Iacov cu un vierme (tolaat); Septuaginta spune doar „cel mic” (ὀλιγοστός), fără imaginea viermelui."
       },
       {
        "t": " "
@@ -13712,7 +13962,9 @@
        "strong": "H5826",
        "pos": "pronume personal + verb, qal perfect + sufix",
        "def_ro": "Eu te-am ajutat (ani azartih)",
-       "dict_ro": "Formula „rostirea DOMNULUI” pecetluiește solemn promisiunea de ajutor și răscumpărare dată poporului smerit."
+       "dict_ro": "Formula „rostirea DOMNULUI” pecetluiește solemn promisiunea de ajutor și răscumpărare dată poporului smerit.",
+       "greek": "ἐγώ βοηθέω (ego boetheo)",
+       "greek_def_ro": "ἐγώ βοηθέω (ego boetheo) — eu te-am ajutat."
       },
       {
        "t": " "
@@ -13725,7 +13977,10 @@
        "strong": "H5002",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "rostirea (neum)",
-       "dict_ro": "Formula „rostirea DOMNULUI” pecetluiește solemn promisiunea de ajutor și răscumpărare dată poporului smerit."
+       "dict_ro": "Formula „rostirea DOMNULUI” pecetluiește solemn promisiunea de ajutor și răscumpărare dată poporului smerit.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — spune, zice.",
+       "diff_ro": "Septuaginta are simplu „spune”, nu formula completă „rostirea DOMNULUI”."
       },
       {
        "t": " "
@@ -13738,7 +13993,10 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNULUI – (Adonai)",
-       "dict_ro": "Formula „rostirea DOMNULUI” pecetluiește solemn promisiunea de ajutor și răscumpărare dată poporului smerit."
+       "dict_ro": "Formula „rostirea DOMNULUI” pecetluiește solemn promisiunea de ajutor și răscumpărare dată poporului smerit.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — spune, zice.",
+       "diff_ro": "Septuaginta are simplu „spune”, nu formula completă „rostirea DOMNULUI”."
       },
       {
        "t": " "
@@ -13751,7 +14009,9 @@
        "strong": "H1350",
        "pos": "verb, qal participiu + sufix",
        "def_ro": "și răscumpărătorul tău, (vegoalēh)",
-       "dict_ro": "Titlul „Sfântul lui Israel” rezumă, ca în restul cărții lui Isaia, latura de mântuitor și răscumpărător a DOMNULUI."
+       "dict_ro": "Titlul „Sfântul lui Israel” rezumă, ca în restul cărții lui Isaia, latura de mântuitor și răscumpărător a DOMNULUI.",
+       "greek": "λυτρόω (lytroo)",
+       "greek_def_ro": "λυτρόω (lytroo) — a răscumpăra, a izbăvi."
       },
       {
        "t": " "
@@ -13847,7 +14107,9 @@
        "strong": "H2009",
        "pos": "particulă demonstrativă",
        "def_ro": "iată, (hinē)",
-       "dict_ro": "Imaginea Israelului transformat într-o unealtă de treierat, capabilă să sfarme munții, descrie puterea neașteptată dată poporului smerit asupra vrăjmașilor săi."
+       "dict_ro": "Imaginea Israelului transformat într-o unealtă de treierat, capabilă să sfarme munții, descrie puterea neașteptată dată poporului smerit asupra vrăjmașilor săi.",
+       "greek": "ποιέω (poieo)",
+       "greek_def_ro": "ποιέω (poieo) — a face."
       },
       {
        "t": " "
@@ -13860,7 +14122,9 @@
        "strong": "H7760",
        "pos": "verb, qal perfect + sufix",
        "def_ro": "te-am făcut (samtih)",
-       "dict_ro": "Imaginea Israelului transformat într-o unealtă de treierat descrie puterea neașteptată dată poporului smerit."
+       "dict_ro": "Imaginea Israelului transformat într-o unealtă de treierat descrie puterea neașteptată dată poporului smerit.",
+       "greek": "ποιέω (poieo)",
+       "greek_def_ro": "ποιέω (poieo) — a face."
       },
       {
        "t": " "
@@ -13873,7 +14137,9 @@
        "strong": "H2319",
        "pos": "substantiv, masculin singular construct + substantiv, masculin singular + adjectiv, masculin singular",
        "def_ro": "unealtă de treierat ascuțită, nouă (lemorag haruț hadaș)",
-       "dict_ro": "Imaginea Israelului transformat într-o unealtă de treierat descrie puterea neașteptată dată poporului smerit."
+       "dict_ro": "Imaginea Israelului transformat într-o unealtă de treierat descrie puterea neașteptată dată poporului smerit.",
+       "greek": "τροχός ἀλοάω καινός (trochos aloao kainos)",
+       "greek_def_ro": "τροχός ἀλοάω καινός (trochos aloao kainos) — roți de treierat, noi."
       },
       {
        "t": " "
@@ -13886,7 +14152,9 @@
        "strong": "H6374",
        "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin plural",
        "def_ro": "cu multe dinți; (baal pifiot)",
-       "dict_ro": "Imaginea Israelului transformat într-o unealtă de treierat descrie puterea neașteptată dată poporului smerit."
+       "dict_ro": "Imaginea Israelului transformat într-o unealtă de treierat descrie puterea neașteptată dată poporului smerit.",
+       "greek": "πριστηροειδής (pristeroeides)",
+       "greek_def_ro": "πριστηροειδής (pristeroeides) — în formă de dinți de fierăstrău."
       },
       {
        "t": " "
@@ -13899,7 +14167,9 @@
        "strong": "H1758",
        "pos": "verb, qal imperfect",
        "def_ro": "vei treiera (taduș)",
-       "dict_ro": "Munții și dealurile reduse la pulbere și pleavă simbolizează obstacolele istorice îndepărtate cu ușurință de Israelul reînnoit."
+       "dict_ro": "Munții și dealurile reduse la pulbere și pleavă simbolizează obstacolele istorice îndepărtate cu ușurință de Israelul reînnoit.",
+       "greek": "ἀλοάω ὄρος (aloao oros)",
+       "greek_def_ro": "ἀλοάω ὄρος (aloao oros) — vei treiera; munți."
       },
       {
        "t": " "
@@ -13912,7 +14182,9 @@
        "strong": "H2022",
        "pos": "substantiv, masculin plural",
        "def_ro": "munți (harim)",
-       "dict_ro": "Munții și dealurile reduse la pulbere simbolizează obstacolele istorice îndepărtate cu ușurință."
+       "dict_ro": "Munții și dealurile reduse la pulbere simbolizează obstacolele istorice îndepărtate cu ușurință.",
+       "greek": "ἀλοάω ὄρος (aloao oros)",
+       "greek_def_ro": "ἀλοάω ὄρος (aloao oros) — vei treiera; munți."
       },
       {
        "t": " "
@@ -13925,7 +14197,9 @@
        "strong": "H1854",
        "pos": "verb, qal imperfect",
        "def_ro": "și va fărâmița, (vetadok)",
-       "dict_ro": "Munții și dealurile reduse la pulbere simbolizează obstacolele istorice îndepărtate cu ușurință."
+       "dict_ro": "Munții și dealurile reduse la pulbere simbolizează obstacolele istorice îndepărtate cu ușurință.",
+       "greek": "λεπτύνω (leptyno)",
+       "greek_def_ro": "λεπτύνω (leptyno) — a face fin, a preface în pulbere."
       },
       {
        "t": " "
@@ -13951,7 +14225,9 @@
        "strong": "H1389",
        "pos": "substantiv, feminin plural",
        "def_ro": "și dealurile (ugvaot)",
-       "dict_ro": "Munții și dealurile reduse la pleavă simbolizează obstacolele istorice îndepărtate cu ușurință."
+       "dict_ro": "Munții și dealurile reduse la pleavă simbolizează obstacolele istorice îndepărtate cu ușurință.",
+       "greek": "χνοῦς τίθημι (chnous tithemi)",
+       "greek_def_ro": "χνοῦς τίθημι (chnous tithemi) — pleavă/pulbere; vei pune/face."
       },
       {
        "t": " "
@@ -13964,7 +14240,9 @@
        "strong": "H4671",
        "pos": "substantiv, masculin singular",
        "def_ro": "ca pleava. (kamoț)",
-       "dict_ro": "Munții și dealurile reduse la pleavă simbolizează obstacolele istorice îndepărtate cu ușurință."
+       "dict_ro": "Munții și dealurile reduse la pleavă simbolizează obstacolele istorice îndepărtate cu ușurință.",
+       "greek": "χνοῦς τίθημι (chnous tithemi)",
+       "greek_def_ro": "χνοῦς τίθημι (chnous tithemi) — pleavă/pulbere; vei pune/face."
       }
      ],
      "textCompare": [
@@ -14039,7 +14317,9 @@
        "strong": "H2219",
        "pos": "verb, qal imperfect + sufix",
        "def_ro": "îi vei vântura (tizrēm)",
-       "dict_ro": "Vântul și furtuna care împrăștie pleava obstacolelor contrastează cu bucuria finală a lui Israel întru DOMNUL."
+       "dict_ro": "Vântul și furtuna care împrăștie pleava obstacolelor contrastează cu bucuria finală a lui Israel întru DOMNUL.",
+       "greek": "λικμάω (likmao)",
+       "greek_def_ro": "λικμάω (likmao) — a vântura, a împrăștia (ca pleava)."
       },
       {
        "t": " "
@@ -14052,7 +14332,9 @@
        "strong": "H7307",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "și vântul (veruah)",
-       "dict_ro": "Vântul și furtuna care împrăștie pleava obstacolelor contrastează cu bucuria finală a lui Israel întru DOMNUL."
+       "dict_ro": "Vântul și furtuna care împrăștie pleava obstacolelor contrastează cu bucuria finală a lui Israel întru DOMNUL.",
+       "greek": "ἄνεμος λαμβάνω (anemos lambano)",
+       "greek_def_ro": "ἄνεμος λαμβάνω (anemos lambano) — vânt; va lua."
       },
       {
        "t": " "
@@ -14065,7 +14347,9 @@
        "strong": "H5375",
        "pos": "verb, qal imperfect + sufix",
        "def_ro": "îi va purta, (tisaēm)",
-       "dict_ro": "Vântul și furtuna care împrăștie pleava obstacolelor contrastează cu bucuria finală a lui Israel."
+       "dict_ro": "Vântul și furtuna care împrăștie pleava obstacolelor contrastează cu bucuria finală a lui Israel.",
+       "greek": "ἄνεμος λαμβάνω (anemos lambano)",
+       "greek_def_ro": "ἄνεμος λαμβάνω (anemos lambano) — vânt; va lua."
       },
       {
        "t": " "
@@ -14078,7 +14362,9 @@
        "strong": "H5591",
        "pos": "substantiv, feminin singular",
        "def_ro": "și furtuna (usara)",
-       "dict_ro": "Vântul și furtuna care împrăștie pleava obstacolelor contrastează cu bucuria finală a lui Israel."
+       "dict_ro": "Vântul și furtuna care împrăștie pleava obstacolelor contrastează cu bucuria finală a lui Israel.",
+       "greek": "καταιγίς διασπείρω (kataigis diaspeiro)",
+       "greek_def_ro": "καταιγίς διασπείρω (kataigis diaspeiro) — vijelie; va risipi."
       },
       {
        "t": " "
@@ -14104,7 +14390,10 @@
        "strong": "H859",
        "pos": "pronume personal",
        "def_ro": "și tu (veata)",
-       "dict_ro": "Bucuria finală întru DOMNUL și preamărirea Sfântului lui Israel încheie întreaga secțiune de consolare."
+       "dict_ro": "Bucuria finală întru DOMNUL și preamărirea Sfântului lui Israel încheie întreaga secțiune de consolare.",
+       "greek": "εὐφραίνομαι (euphrainomai)",
+       "greek_def_ro": "εὐφραίνομαι (euphrainomai) — a se bucura.",
+       "diff_ro": "Septuaginta nu redă aici Tetragrama, ci unește fraza cu „sfinții lui Israel” (ἐν τοῖς ἁγίοις Ἰσραήλ)."
       },
       {
        "t": " "
@@ -14117,7 +14406,10 @@
        "strong": "H1523",
        "pos": "verb, qal imperfect",
        "def_ro": "te vei bucura (tagil)",
-       "dict_ro": "Bucuria finală întru DOMNUL și preamărirea Sfântului lui Israel încheie întreaga secțiune de consolare."
+       "dict_ro": "Bucuria finală întru DOMNUL și preamărirea Sfântului lui Israel încheie întreaga secțiune de consolare.",
+       "greek": "εὐφραίνομαι (euphrainomai)",
+       "greek_def_ro": "εὐφραίνομαι (euphrainomai) — a se bucura.",
+       "diff_ro": "Septuaginta nu redă aici Tetragrama, ci unește fraza cu „sfinții lui Israel” (ἐν τοῖς ἁγίοις Ἰσραήλ)."
       },
       {
        "t": " "
@@ -14130,7 +14422,10 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "în DOMNUL, (ba'Adonai)",
-       "dict_ro": "Bucuria finală întru DOMNUL și preamărirea Sfântului lui Israel încheie întreaga secțiune de consolare."
+       "dict_ro": "Bucuria finală întru DOMNUL și preamărirea Sfântului lui Israel încheie întreaga secțiune de consolare.",
+       "greek": "εὐφραίνομαι (euphrainomai)",
+       "greek_def_ro": "εὐφραίνομαι (euphrainomai) — a se bucura.",
+       "diff_ro": "Septuaginta nu redă aici Tetragrama, ci unește fraza cu „sfinții lui Israel” (ἐν τοῖς ἁγίοις Ἰσραήλ)."
       },
       {
        "t": " "
@@ -14143,7 +14438,10 @@
        "strong": "H6918",
        "pos": "adjectiv, masculin singular",
        "def_ro": "cu Sfântul (bikdoș)",
-       "dict_ro": "Bucuria finală întru DOMNUL și preamărirea Sfântului lui Israel încheie întreaga secțiune de consolare."
+       "dict_ro": "Bucuria finală întru DOMNUL și preamărirea Sfântului lui Israel încheie întreaga secțiune de consolare.",
+       "greek": "ἅγιος Ἰσραήλ (hagios Israel)",
+       "greek_def_ro": "ἅγιος Ἰσραήλ (hagios Israel) — sfinții lui Israel.",
+       "diff_ro": "Septuaginta are plural „sfinții lui Israel” (ἁγίοις), nu singular „Sfântul lui Israel”."
       },
       {
        "t": " "
@@ -14156,7 +14454,10 @@
        "strong": "H3478",
        "pos": "nume propriu",
        "def_ro": "lui Israel (israēl)",
-       "dict_ro": "Bucuria finală întru DOMNUL și preamărirea Sfântului lui Israel încheie întreaga secțiune de consolare."
+       "dict_ro": "Bucuria finală întru DOMNUL și preamărirea Sfântului lui Israel încheie întreaga secțiune de consolare.",
+       "greek": "ἅγιος Ἰσραήλ (hagios Israel)",
+       "greek_def_ro": "ἅγιος Ἰσραήλ (hagios Israel) — sfinții lui Israel.",
+       "diff_ro": "Septuaginta are plural „sfinții lui Israel” (ἁγίοις), nu singular „Sfântul lui Israel”."
       },
       {
        "t": " "
@@ -14169,7 +14470,10 @@
        "strong": "H1984",
        "pos": "verb, hitpael imperfect",
        "def_ro": "te vei preamări! (tithalal)",
-       "dict_ro": "Bucuria finală întru DOMNUL și preamărirea Sfântului lui Israel încheie întreaga secțiune de consolare."
+       "dict_ro": "Bucuria finală întru DOMNUL și preamărirea Sfântului lui Israel încheie întreaga secțiune de consolare.",
+       "greek": "ἅγιος Ἰσραήλ (hagios Israel)",
+       "greek_def_ro": "ἅγιος Ἰσραήλ (hagios Israel) — sfinții lui Israel.",
+       "diff_ro": "Septuaginta are plural „sfinții lui Israel” (ἁγίοις), nu singular „Sfântul lui Israel”."
       }
      ],
      "textCompare": [
