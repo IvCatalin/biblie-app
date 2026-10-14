@@ -53067,14 +53067,27 @@
        "t": ", "
       },
       {
-       "t": "copii ai lui Israel",
-       "w": "copii ai lui Israel",
-       "heb": "בְּנֵי יִשְׂרָאֵל",
-       "translit": "benē israēl",
+       "t": "copii ai lui",
+       "w": "copii ai lui",
+       "heb": "בְּנֵי",
+       "translit": "benē",
        "strong": "H1121",
-       "pos": "substantiv construct + nume propriu",
-       "def_ro": "fiii lui Israel.",
-       "dict_ro": "Benē Israel — expresia standard pentru poporul legământului, literal «fiii lui Israel»; aici încheie imaginea treierării și culesului cu promisiunea identității colective restaurate — fiecare exilat adunat rămâne, în cele din urmă, parte a aceluiași trup național."
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "fiii (benē)",
+       "dict_ro": "Imaginea secerișului de la Eufrat până la Egipt descrie adunarea finală, individuală, a fiecărui fiu al lui Israel din exil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "lui Israel (israēl)",
+       "dict_ro": "Imaginea secerișului de la Eufrat până la Egipt descrie adunarea finală, individuală, a fiecărui fiu al lui Israel din exil."
       },
       {
        "t": "."
@@ -53301,17 +53314,27 @@
        "t": " este asupra "
       },
       {
-       "t": "bețivilor lui Efraim",
-       "w": "bețivilor lui Efraim",
-       "heb": "שִׁכֹּרֵי אֶפְרַיִם",
-       "translit": "șikorē efraim",
+       "t": "bețivilor lui",
+       "w": "bețivilor lui",
+       "heb": "שִׁכֹּרֵי",
+       "translit": "șikorē",
        "strong": "H7910",
-       "pos": "adjectiv, masculin plural + nume propriu",
-       "def_ro": "bețivii lui Efraim.",
-       "greek": "οἱ μισθωτοὶ Ἐφραίμ (hoi misthotoi Ephraim)",
-       "greek_def_ro": "οἱ μισθωτοὶ Ἐφραίμ (hoi misthotoi Ephraim) — arendașii lui Efraim.",
-       "diff_ro": "Ebraica are „bețivii lui Efraim” (șikorē Efraim); Septuaginta, „arendașii lui Efraim” (οἱ μισθωτοὶ Ἐφραίμ).",
-       "dict_ro": "Shikkorim, „bețivi” — Rashi citează o tradiție talmudică (Șabat 147b) despre vestitul vin al provinciei Frigia, care i-ar fi „doborât” pe cei zece triburi ale regatului de nord — o explicație concretă a viciului atribuit conducerii lui Efraim."
+       "pos": "adjectiv, masculin plural",
+       "def_ro": "bețivii (șikorē)",
+       "dict_ro": "Efraim, regatul de nord, e numit direct prin viciul conducătorilor săi beți, a cărui glorie se va ofili ca o floare trecătoare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Efraim",
+       "w": "Efraim",
+       "heb": "אֶפְרַיִם",
+       "translit": "efraim",
+       "strong": "H669",
+       "pos": "nume propriu",
+       "def_ro": "Efraim, (efraim)",
+       "dict_ro": "Efraim, regatul de nord, e numit direct prin viciul conducătorilor săi beți, a cărui glorie se va ofili ca o floare trecătoare."
       },
       {
        "t": " și o "
@@ -53575,16 +53598,27 @@
        "t": " "
       },
       {
-       "t": "bețivilor lui Efraim",
-       "w": "bețivilor lui Efraim",
-       "heb": "שִׁכּוֹרֵי אֶפְרָיִם",
-       "translit": "șikorē efraim",
+       "t": "bețivilor lui",
+       "w": "bețivilor lui",
+       "heb": "שִׁכּוֹרֵי",
+       "translit": "șikorē",
        "strong": "H7910",
-       "pos": "adjectiv, masculin plural + nume propriu",
-       "def_ro": "bețivii lui Efraim.",
-       "greek": "οἱ μισθωτοὶ τοῦ Ἐφραίμ (hoi misthotoi tou Ephraim)",
-       "greek_def_ro": "οἱ μισθωτοὶ τοῦ Ἐφραίμ (hoi misthotoi tou Ephraim) — arendașii lui Efraim.",
-       "dict_ro": "Vezi nota de la 28:1 — repetiția aproape verbatim a versetului 1 marchează structura poetică a pasajului, un ecou intenționat care subliniază implacabilitatea judecății anunțate."
+       "pos": "adjectiv, masculin plural",
+       "def_ro": "bețivii (șikorē)",
+       "dict_ro": "Repetarea formulei «cununa aroganței bețivilor lui Efraim» confirmă iminența căderii sub picioare, ca o cunună calcată în picioare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Efraim",
+       "w": "Efraim",
+       "heb": "אֶפְרָיִם",
+       "translit": "efraim",
+       "strong": "H669",
+       "pos": "nume propriu",
+       "def_ro": "Efraim (efraim)",
+       "dict_ro": "Repetarea formulei «cununa aroganței bețivilor lui Efraim» confirmă iminența căderii sub picioare, ca o cunună calcată în picioare."
       },
       {
        "t": "."
@@ -53629,14 +53663,92 @@
        "t": "Iar "
       },
       {
-       "t": "floarea ofilită, frumusețea splendorii de pe cap, o vale a untdelemnurilor",
-       "w": "floarea ofilită, frumusețea splendorii de pe cap, o vale a untdelemnurilor",
-       "heb": "צִיצַת נֹבֵל צְבִי תִפְאַרְתּוֹ אֲשֶׁר עַל רֹאשׁ גֵּיא שְׁמָנִים",
-       "translit": "țițat novēl țevi tifarto așer al roș gē șemanim",
+       "t": "floarea",
+       "w": "floarea",
+       "heb": "צִיצַת",
+       "translit": "țițat",
        "strong": "H6733",
-       "pos": "frază nominală repetată din v.1",
-       "def_ro": "floarea ofilită, frumusețea gloriei sale, care e pe capul văii grase.",
-       "dict_ro": "Repetarea aproape identică a imaginii din versetul 1 (coroana bețivilor lui Efraim) pregătește contrastul final: acolo imaginea anunța doar ofilirea, aici ea devine obiectul unei lăcomii grăbite — «va fi ca o smochină» pe care orice privitor se repede să o înghită, simbol al cât de rapid va fi nimicită mândria lui Efraim."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "floarea (țițat)",
+       "dict_ro": "Imaginea florii ofilite, repetată din 28:1, descrie glorie trecătoare care va fi înghițită la fel de rapid ca o smochină timpurie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ofilită,",
+       "w": "ofilită,",
+       "heb": "נֹבֵל",
+       "translit": "novēl",
+       "strong": "H5034",
+       "pos": "verb, qal participiu",
+       "def_ro": "ofilindu-se, (novēl)",
+       "dict_ro": "Imaginea florii ofilite, repetată din 28:1, descrie glorie trecătoare care va fi înghițită la fel de rapid ca o smochină timpurie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "frumusețea",
+       "w": "frumusețea",
+       "heb": "צְבִי",
+       "translit": "țevi",
+       "strong": "H6643",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "frumusețea (țevi)",
+       "dict_ro": "Imaginea florii ofilite, repetată din 28:1, descrie glorie trecătoare care va fi înghițită la fel de rapid ca o smochină timpurie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "splendorii",
+       "w": "splendorii",
+       "heb": "תִפְאַרְתּוֹ",
+       "translit": "tifarto",
+       "strong": "H8597",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "splendorii lui, (tifarto)",
+       "dict_ro": "Imaginea florii ofilite, repetată din 28:1, descrie glorie trecătoare care va fi înghițită la fel de rapid ca o smochină timpurie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de pe cap,",
+       "w": "de pe cap,",
+       "heb": "אֲשֶׁר עַל רֹאשׁ",
+       "translit": "așer al roș",
+       "strong": "H7218",
+       "pos": "particulă relativă + prepoziție + substantiv, masculin singular construct",
+       "def_ro": "care e pe capul (așer al roș)",
+       "dict_ro": "Imaginea florii ofilite, repetată din 28:1, descrie glorie trecătoare care va fi înghițită la fel de rapid ca o smochină timpurie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "o vale",
+       "w": "o vale",
+       "heb": "גֵּיא",
+       "translit": "gē",
+       "strong": "H1516",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "valea (gē)",
+       "dict_ro": "Imaginea florii ofilite, repetată din 28:1, descrie glorie trecătoare care va fi înghițită la fel de rapid ca o smochină timpurie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a untdelemnurilor",
+       "w": "a untdelemnurilor",
+       "heb": "שְׁמָנִים",
+       "translit": "șemanim",
+       "strong": "H8081",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "de untdelemnuri, (șemanim)",
+       "dict_ro": "Imaginea florii ofilite, repetată din 28:1, descrie glorie trecătoare care va fi înghițită la fel de rapid ca o smochină timpurie."
       },
       {
        "t": ", va fi ca o "
@@ -53671,14 +53783,53 @@
        "t": "; "
       },
       {
-       "t": "orice privitor care o vede, de îndată ce pune mâna pe ea",
-       "w": "orice privitor care o vede, de îndată ce pune mâna pe ea",
-       "heb": "הָרֹאֶה אוֹתָהּ בְּעוֹדָהּ בְּכַפּוֹ",
-       "translit": "haroe otah beodah behapo",
+       "t": "orice privitor",
+       "w": "orice privitor",
+       "heb": "הָרֹאֶה",
+       "translit": "haroe",
        "strong": "H7200",
-       "pos": "verb, qal participiu + pronume + adverb + substantiv",
-       "def_ro": "cel care o vede, cât încă e în palma lui.",
-       "dict_ro": "Rashi explică: fiindcă smochina timpurie e coaptă înainte de vreme, cel ce o vede se repede asupra ei și o înghite cât e încă în mâna lui — imagine a lăcomiei, aplicată profetic nimicirii grăbite a mândriei lui Efraim, consumată «cât încă e în mână», fără răgaz."
+       "pos": "verb, qal participiu",
+       "def_ro": "cel care vede (haroe)",
+       "dict_ro": "Rapiditatea cu care smochina timpurie e înghisă de cel care o vede confirmă caracterul instantaneu, fără avertisment, al prăbușirii lui Efraim."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care o vede,",
+       "w": "care o vede,",
+       "heb": "אֲשֶׁר יִרְאֶה אוֹתָהּ",
+       "translit": "așer ire otah",
+       "strong": "H7200",
+       "pos": "particulă relativă + verb, qal imperfect + marcă a complementului direct + sufix",
+       "def_ro": "care o vede, (așer ire otah)",
+       "dict_ro": "Rapiditatea cu care smochina timpurie e înghisă de cel care o vede confirmă caracterul instantaneu, fără avertisment, al prăbușirii lui Efraim."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de îndată ce",
+       "w": "de îndată ce",
+       "heb": "בְּעוֹדָהּ",
+       "translit": "beodah",
+       "strong": "H5750",
+       "pos": "adverb + sufix",
+       "def_ro": "cât timp e încă (beodah)",
+       "dict_ro": "Rapiditatea cu care smochina timpurie e înghisă de cel care o vede confirmă caracterul instantaneu, fără avertisment, al prăbușirii lui Efraim."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pune mâna pe ea",
+       "w": "pune mâna pe ea",
+       "heb": "בְּכַפּוֹ",
+       "translit": "behapo",
+       "strong": "H3709",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "în palma lui, (behapo)",
+       "dict_ro": "Rapiditatea cu care smochina timpurie e înghisă de cel care o vede confirmă caracterul instantaneu, fără avertisment, al prăbușirii lui Efraim."
       },
       {
        "t": ", o "
@@ -54000,14 +54151,27 @@
        "t": " "
       },
       {
-       "t": "au greșit prin băutură tare, au fost amețiți de băutură tare",
-       "w": "au greșit prin băutură tare, au fost amețiți de băutură tare",
-       "heb": "שָׁגוּ בַשֵּׁכָר נִבְלְעוּ מִן הַיַּיִן תָּעוּ מִן הַשֵּׁכָר",
-       "translit": "șagu vașēhar nivleu min haiain tau min hașēhar",
+       "t": "au greșit prin băutură tare,",
+       "w": "au greșit prin băutură tare,",
+       "heb": "שָׁגוּ בַשֵּׁכָר נִבְלְעוּ",
+       "translit": "șagu vașēhar nivleu",
        "strong": "H7686",
-       "pos": "verb, qal perfect (repetat) + verb, nifal perfect",
-       "def_ro": "au rătăcit prin băutura tare, au fost înghițiți de vin, au rătăcit prin băutura tare.",
-       "dict_ro": "Repetarea triplă a rădăcinilor șagah și taah («a se abate, a rătăci») în câteva cuvinte mimează, prin însăși structura frazei, clătinarea unui om beat — Rashi citește acest du-te-vino verbal ca batjocura conducătorilor religioși, care «și-au bătut joc de profeți», socotind mustrarea lor doar o altă «desfătare» de masă."
+       "pos": "verb, qal perfect + substantiv, masculin singular + verb, nifal perfect",
+       "def_ro": "au greșit prin băutură tare, au fost înghițiți, (șagu vașēhar nivleu)",
+       "dict_ro": "Repetarea triplă a rătăcirii preotului și profetului prin băutura tare ilustrează corupția totală a conducerii spirituale, temă centrală a Haftarei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "au fost amețiți de băutură tare",
+       "w": "au fost amețiți de băutură tare",
+       "heb": "מִן הַיַּיִן תָּעוּ מִן הַשֵּׁכָר",
+       "translit": "min haiain tau min hașēhar",
+       "strong": "H8582",
+       "pos": "prepoziție + substantiv, masculin singular + verb, qal perfect + prepoziție + substantiv, masculin singular",
+       "def_ro": "din vin, au rătăcit din băutura tare, (min haiain tau min hașēhar)",
+       "dict_ro": "Repetarea triplă a rătăcirii preotului și profetului prin băutura tare ilustrează corupția totală a conducerii spirituale, temă centrală a Haftarei."
       },
       {
        "t": ", au greșit în "
@@ -54589,29 +54753,66 @@
        "t": "Și pentru ei "
       },
       {
-       "t": "cuvântul DOMNULUI",
-       "w": "cuvântul DOMNULUI",
-       "heb": "דְּבַר יְהוָה",
-       "translit": "devar Adonai",
+       "t": "cuvântul",
+       "w": "cuvântul",
+       "heb": "דְּבַר",
+       "translit": "devar",
        "strong": "H1697",
-       "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "cuvântul DOMNULUI.",
-       "greek": "τὸ λόγιον Κυρίου τοῦ Θεοῦ (to logion Kyriou tou Theou)",
-       "greek_def_ro": "τὸ λόγιον Κυρίου τοῦ Θεοῦ (to logion Kyriou tou Theou) — cuvântul Domnului Dumnezeu.",
-       "dict_ro": "Davar, „cuvânt” — versetul repetă aproape identic formula batjocoritoare din 28:10, dar de data asta ca sentință reală: același „poruncă după poruncă” pe care conducătorii îl auziseră ca pe o parodie infantilă devine acum cuvântul judecății care li se împlinește cu adevărat."
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "cuvântul (devar)",
+       "dict_ro": "Pentru cei care au batjocorit mesajul simplu al profetului, cuvântul DOMNULUI însuși devine o bolboroseală de neînțeles, ca o incantație de copii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Pentru cei care au batjocorit mesajul simplu al profetului, cuvântul DOMNULUI însuși devine o bolboroseală de neînțeles, ca o incantație de copii."
       },
       {
        "t": " va fi: „"
       },
       {
-       "t": "Poruncă după poruncă, poruncă după poruncă, linie după linie, linie după linie, puțin aici, puțin acolo",
-       "w": "Poruncă după poruncă, poruncă după poruncă, linie după linie, linie după linie, puțin aici, puțin acolo",
-       "heb": "צַו לָצָו צַו לָצָו קַו לָקָו קַו לָקָו זְעֵיר שָׁם זְעֵיר שָׁם",
-       "translit": "țav lațav țav lațav kav lakav kav lakav zeēr șam zeēr șam",
+       "t": "Poruncă după poruncă, poruncă după poruncă,",
+       "w": "Poruncă după poruncă, poruncă după poruncă,",
+       "heb": "צַו לָצָו צַו לָצָו",
+       "translit": "țav lațav țav lațav",
        "strong": "H6673",
-       "pos": "frază repetată, identică cu v.10",
-       "def_ro": "poruncă peste poruncă, poruncă peste poruncă, linie peste linie, linie peste linie, puțin aici, puțin acolo.",
-       "dict_ro": "Rashi explică: formula batjocoritoare a poporului de la v.10 devine acum, întoarsă ca o pedeapsă exactă, chiar cuvântul judecății DOMNULUI asupra lor — «după măsura lor le va măsura»: poruncă a neamurilor asupritoare peste poruncă, robie peste robie, exact replica propriei lor nepăsări disprețuitoare."
+       "pos": "substantiv, masculin singular (dublat)",
+       "def_ro": "poruncă după poruncă, poruncă după poruncă, (țav lațav țav lațav)",
+       "dict_ro": "Formula batjocoritoare, reluată identic din 28:10, parodiază mesajul profetic simplificat la o incantație infantilă, de neînțeles pentru cei beți."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "linie după linie, linie după linie,",
+       "w": "linie după linie, linie după linie,",
+       "heb": "קַו לָקָו קַו לָקָו",
+       "translit": "kav lakav kav lakav",
+       "strong": "H6957",
+       "pos": "substantiv, masculin singular (dublat)",
+       "def_ro": "linie după linie, linie după linie, (kav lakav kav lakav)",
+       "dict_ro": "Formula batjocoritoare, reluată identic din 28:10, parodiază mesajul profetic simplificat la o incantație infantilă, de neînțeles pentru cei beți."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "puțin aici, puțin acolo",
+       "w": "puțin aici, puțin acolo",
+       "heb": "זְעֵיר שָׁם זְעֵיר שָׁם",
+       "translit": "zeēr șam zeēr șam",
+       "strong": "H2191",
+       "pos": "substantiv, masculin singular + adverb (dublat)",
+       "def_ro": "puțin acolo, puțin acolo (zeēr șam zeēr șam)",
+       "dict_ro": "Formula batjocoritoare, reluată identic din 28:10, parodiază mesajul profetic simplificat la o incantație infantilă, de neînțeles pentru cei beți."
       },
       {
        "t": "”, ca să meargă și să "
@@ -54732,14 +54933,12 @@
       {
        "t": "Iacov",
        "w": "Iacov",
-       "heb": "יַעֲקֹב יַעֲקֹב",
-       "translit": "iaakov iaakov",
+       "heb": "יַעֲקֹב",
+       "translit": "iaakov",
        "strong": "H3290",
-       "pos": "nume propriu + nume propriu",
-       "def_ro": "Iacov, poporul Israel.",
-       "greek": "Ἰακώβ (Iakob)",
-       "greek_def_ro": "Ἰακώβ (Iakob) — Iacov.",
-       "dict_ro": "Aici „Iacov” revine ca desemnare a poporului, încadrând promisiunea între strămoșul îndepărtat (Avraam) și urmașii prezenți — o genealogie a nădejdii care leagă trecutul răscumpărării de viitorul restaurării."
+       "pos": "nume propriu",
+       "def_ro": "lui Iacov: (iaakov)",
+       "dict_ro": "DOMNUL Se adresează aici «casei lui Iacov», poporul întreg, numit după patriarhul răscumpărat alături de Avraham."
       },
       {
        "t": ": „Acum nu te "
@@ -54757,7 +54956,20 @@
        "dict_ro": "Rădăcina bosh, „a se rușina” — Rashi leagă rușinea de origine: „nu se va mai rușina din pricina tatălui său” [Iacov, cu privire la înșelăciunea de la Isaac] — promisiunea acoperă nu doar viitorul, ci și vindecarea rușinilor din trecutul familiei patriarhale."
       },
       {
-       "t": ", Iacov, și "
+       "t": ", "
+      },
+      {
+       "t": "Iacov",
+       "w": "Iacov",
+       "heb": "יַעֲקֹב",
+       "translit": "iaakov",
+       "strong": "H3290",
+       "pos": "nume propriu",
+       "def_ro": "Iacov, (iaakov)",
+       "dict_ro": "Chemarea directă «nu te rușina, Iacov» se adresează poporului personificat prin numele strămoșului, asigurându-l de restaurare."
+      },
+      {
+       "t": ", și "
       },
       {
        "t": "fața lui",
@@ -54901,31 +55113,53 @@
        "t": " și vor sfinți pe "
       },
       {
-       "t": "Sfântul lui Iacov",
-       "w": "Sfântul lui Iacov",
-       "heb": "קְדוֹשׁ יַעֲקֹב",
-       "translit": "kedoș iaakov",
+       "t": "Sfântul lui",
+       "w": "Sfântul lui",
+       "heb": "קְדוֹשׁ",
+       "translit": "kedoș",
        "strong": "H6918",
-       "pos": "adjectiv, masculin singular + nume propriu",
-       "def_ro": "Sfântul lui Iacov.",
-       "greek": "ἁγιάσουσιν τὸν ἅγιον Ἰακὼβ (hagiasousin ton hagion Iakob)",
-       "greek_def_ro": "ἁγιάσουσιν τὸν ἅγιον Ἰακὼβ (hagiasousin ton hagion Iakob) — vor sfinți pe Sfântul lui Iacov.",
-       "dict_ro": "Kadosh, „sfânt” — titlu divin caracteristic pentru Isaia (cf. „Sfântul lui Israel”, folosit de peste 25 de ori în carte), unul din marile teme teologice ale profetului: transcendența și separarea absolută a lui Dumnezeu de păcat."
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "Sfântul (kedoș)",
+       "dict_ro": "Titlurile duble «Sfântul lui Iacov» și «Dumnezeul lui Israel» rezumă legătura de legământ pe care copiii restaurați o vor sfinți public."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iacov",
+       "w": "Iacov",
+       "heb": "יַעֲקֹב",
+       "translit": "iaakov",
+       "strong": "H3290",
+       "pos": "nume propriu",
+       "def_ro": "lui Iacov (iaakov)",
+       "dict_ro": "Titlurile duble «Sfântul lui Iacov» și «Dumnezeul lui Israel» rezumă legătura de legământ pe care copiii restaurați o vor sfinți public."
       },
       {
        "t": " și pe "
       },
       {
-       "t": "Dumnezeul lui Israel",
-       "w": "Dumnezeul lui Israel",
-       "heb": "אֱלֹהֵי יִשְׂרָאֵל",
-       "translit": "elohē israēl",
+       "t": "Dumnezeul lui",
+       "w": "Dumnezeul lui",
+       "heb": "אֱלֹהֵי",
+       "translit": "elohē",
        "strong": "H430",
-       "pos": "substantiv, masculin plural construct + nume propriu",
-       "def_ro": "Dumnezeul lui Israel.",
-       "greek": "τὸν Θεὸν τοῦ Ἰσραὴλ (ton Theon tou Israel)",
-       "greek_def_ro": "τὸν Θεὸν τοῦ Ἰσραὴλ (ton Theon tou Israel) — pe Dumnezeul lui Israel.",
-       "dict_ro": "Elohei Yisra'el, „Dumnezeul lui Israel” — încheie capitolul cu un al treilea nume/titlu divin (după YHVH și Kedosh Ya'akov), formând o acumulare solemnă tipică finalurilor de oracole profetice de restaurare."
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "Dumnezeul (elohē)",
+       "dict_ro": "Titlurile duble «Sfântul lui Iacov» și «Dumnezeul lui Israel» rezumă legătura de legământ pe care copiii restaurați o vor sfinți public."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "lui Israel (israēl)",
+       "dict_ro": "Titlurile duble «Sfântul lui Iacov» și «Dumnezeul lui Israel» rezumă legătura de legământ pe care copiii restaurați o vor sfinți public."
       },
       {
        "t": " Îl vor "
