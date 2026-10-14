@@ -95224,45 +95224,131 @@
      "translit": "Attah ven-adam hagged et-beit-Yisra'el et-ha-bayit ve-yikkalemu me-avonoteihem u-madedu et-tokhnit.",
      "tokens": [
       {
-       "t": "Tu, fiu al omului, spune casei lui Israel despre Templu și fă-i să se",
-       "w": "Tu, fiu al omului, spune casei lui Israel despre Templu și fă-i să se",
-       "heb": "אַתָּה בֶן אָדָם הַגֵּד אֶת בֵּית יִשְׂרָאֵל אֶת הַבַּיִת וְיִכָּלְמוּ",
-       "translit": "ata ven adam hagēd et bēt israēl et habait veikalmu",
+       "t": "Tu,",
+       "w": "Tu,",
+       "heb": "אַתָּה",
+       "translit": "ata",
        "strong": "H859",
-       "pos": "pronume personal + substantiv construct + substantiv + verb, hifil imperativ + marcă a complementului direct + substantiv construct + nume propriu (repetat) + verb, nifal jusiv",
-       "def_ro": "tu, fiu al omului, vestește casei lui Israel despre Templu, ca să se rușineze.",
-       "dict_ro": "Rashi citește porunca drept act de har divin, nu de pedeapsă: descrierea măreției Templului viitor produce rușine autentică pentru trecut tocmai pentru că vine ca dar nemeritat, nu ca amenințare."
+       "pos": "pronume personal",
+       "def_ro": "tu, (ata)",
+       "dict_ro": "Chemarea profetului ca «fiu al omului» marchează solemn predarea planurilor exacte ale Templului viitor, menite să trezească rușinea poporului pentru nelegiuirile trecute."
       },
       {
        "t": " "
       },
       {
-       "t": "rușineze",
-       "w": "rușineze",
+       "t": "fiu al omului,",
+       "w": "fiu al omului,",
+       "heb": "בֶן אָדָם",
+       "translit": "ven adam",
+       "strong": "H120",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "fiul omului, (ven adam)",
+       "dict_ro": "Titlul «fiul omului», folosit constant de DOMNUL pentru Ezechiel, accentuează condiția umană a profetului în fața măreției viziunii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "spune",
+       "w": "spune",
+       "heb": "הַגֵּד",
+       "translit": "hagēd",
+       "strong": "H5046",
+       "pos": "verb, hifil imperativ",
+       "def_ro": "fă cunoscut (hagēd)",
+       "dict_ro": "Chemarea profetului ca «fiu al omului» marchează solemn predarea planurilor exacte ale Templului viitor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "casei lui",
+       "w": "casei lui",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casei lui (bēt)",
+       "dict_ro": "«Casa lui Israel» denumește întregul popor, chemat să-și vadă limpede nelegiuirile prin contrastul cu perfecțiunea planului divin al Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "Israel (israēl)",
+       "dict_ro": "«Casa lui Israel» denumește întregul popor, chemat să-și vadă limpede nelegiuirile prin contrastul cu perfecțiunea planului divin al Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "despre Templu",
+       "w": "despre Templu",
+       "heb": "הַבַּיִת",
+       "translit": "habait",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Templul (habait)",
+       "dict_ro": "Măsurarea exactă a planului Templului devine, pentru Ezechiel, un instrument pedagogic — contrastul dintre perfecțiunea divină și păcatele poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și fă-i să se rușineze",
+       "w": "și fă-i să se rușineze",
        "heb": "וְיִכָּלְמוּ",
        "translit": "veikalmu",
        "strong": "H3637",
        "pos": "verb, nifal jusiv",
-       "def_ro": "și să se rușineze.",
-       "diff_ro": "Septuaginta are „κοπάσουσιν ἀπὸ τῶν ἁμαρτιῶν αὐτῶν\" („vor ÎNCETA/se vor liniști de păcatele lor\"), nu „să li se facă rușine\" ca în ebraică — un verb diferit, cu nuanță de încetare morală, nu de rușinare.",
-       "dict_ro": "Rashi leagă rușinea nu de o pedeapsă, ci de un act de har: „când le voi arăta bunătatea Mea, că nu-i disprețuiesc pentru vina lor, [atunci] voi găsi [că] se rușinează” — descrierea detaliată și măreția Templului viitor produce, paradoxal, rușine autentică pentru păcatele trecute, nu frică."
+       "def_ro": "și să se rușineze (veikalmu)",
+       "dict_ro": "Măsurarea exactă a planului Templului devine, pentru Ezechiel, un instrument pedagogic — contrastul dintre perfecțiunea divină și păcatele poporului."
       },
       {
-       "t": " de păcatele lor; și să "
+       "t": " "
       },
       {
-       "t": "măsoare",
-       "w": "măsoare",
+       "t": "de păcatele lor;",
+       "w": "de păcatele lor;",
+       "heb": "מֵעֲוֺנוֹתֵיהֶם",
+       "translit": "mēavonotēhem",
+       "strong": "H5771",
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "de nelegiuirile lor; (mēavonotēhem)",
+       "dict_ro": "Măsurarea exactă a planului Templului devine, pentru Ezechiel, un instrument pedagogic — contrastul dintre perfecțiunea divină și păcatele poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să măsoare",
+       "w": "și să măsoare",
        "heb": "וּמָדְדוּ",
        "translit": "umaddu",
        "strong": "H4058",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și să măsoare.",
-       "diff_ro": "Septuaginta are aici o construcție nominală, „τὴν ὅρασιν αὐτοῦ καὶ τὴν διάταξιν αὐτοῦ\" („vedenia lui și rânduiala lui\"), nu un verb „să măsoare\" ca în ebraică — o structură gramaticală complet diferită pentru acest final de verset.",
-       "dict_ro": "Rashi precizează: „să măsoare prin mâna ta” — Ezechiel însuși devine instrumentul concret prin care poporul primește planul exact al construcției, un rol activ de mediator tehnic, nu doar de vizionar pasiv."
+       "def_ro": "și să măsoare (umaddu)",
+       "dict_ro": "Măsurarea exactă a planului Templului devine, pentru Ezechiel, un instrument pedagogic — contrastul dintre perfecțiunea divină și păcatele poporului."
       },
       {
-       "t": " planul."
+       "t": " "
+      },
+      {
+       "t": "planul.",
+       "w": "planul.",
+       "heb": "תָּכְנִית",
+       "translit": "tahnit",
+       "strong": "H8508",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "planul. (tahnit)",
+       "dict_ro": "Măsurarea exactă a planului Templului devine, pentru Ezechiel, un instrument pedagogic — contrastul dintre perfecțiunea divină și păcatele poporului."
       }
      ],
      "textCompare": [
@@ -95301,59 +95387,328 @@
      "translit": "Ve-im-nikhlemu mi-kol asher-asu tsurat ha-bayit u-tekhunato u-motsa'av u-mova'av ve-khol-tsurotav ve-et kol-chukkotav ve-khol-tsurotav ve-khol-torotav hoda otam u-khtov le-eineihem ve-yishmeru et-kol-tsurato ve-et-kol-chukkotav ve-asu otam.",
      "tokens": [
       {
-       "t": "Și dacă le va fi rușine de tot ce au făcut – de",
-       "w": "Și dacă le va fi rușine de tot ce au făcut – de",
-       "heb": "וְאִם נִכְלְמוּ מִכֹּל אֲשֶׁר עָשׂוּ",
-       "translit": "veim nihlemu mikol așer asu",
-       "strong": "H3637",
-       "pos": "conjuncție + verb, nifal perfect + substantiv + particulă relativă + verb, qal perfect",
-       "def_ro": "și dacă se vor rușina de tot ce au făcut.",
-       "dict_ro": "Metzudat David explică faptul că profetul trebuie să vadă pe fețele lor dacă, amintindu-și de Templul dintâi dărâmat din pricina nelegiuirii, se rușinează de faptele rele — iar dacă și-au făcut fața «mai tare decât stânca», să nu mai adauge nimic despre forma Templului."
+       "t": "Și dacă",
+       "w": "Și dacă",
+       "heb": "וְאִם",
+       "translit": "veim",
+       "strong": "H518",
+       "pos": "conjuncție",
+       "def_ro": "și dacă (veim)",
+       "dict_ro": "Rușinea sinceră pentru greșelile trecute e condiția ca poporul să primească, în detaliu, planurile Templului restaurat."
       },
       {
        "t": " "
       },
       {
-       "t": "forma Templului",
-       "w": "forma Templului",
+       "t": "le va fi rușine",
+       "w": "le va fi rușine",
+       "heb": "נִכְלְמוּ",
+       "translit": "nihlemu",
+       "strong": "H3637",
+       "pos": "verb, nifal perfect",
+       "def_ro": "li va fi rușine (nihlemu)",
+       "dict_ro": "Rușinea sinceră pentru greșelile trecute e condiția ca poporul să primească, în detaliu, planurile Templului restaurat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de tot",
+       "w": "de tot",
+       "heb": "מִכֹּל",
+       "translit": "mikol",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "de tot (mikol)",
+       "dict_ro": "Rușinea sinceră pentru greșelile trecute e condiția ca poporul să primească, în detaliu, planurile Templului restaurat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ce au făcut –",
+       "w": "ce au făcut –",
+       "heb": "אֲשֶׁר עָשׂוּ",
+       "translit": "așer asu",
+       "strong": "H6213",
+       "pos": "particulă relativă + verb, qal perfect",
+       "def_ro": "ce au făcut – (așer asu)",
+       "dict_ro": "Rușinea sinceră pentru greșelile trecute e condiția ca poporul să primească, în detaliu, planurile Templului restaurat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de forma",
+       "w": "de forma",
        "heb": "צוּרַת",
        "translit": "țurat",
        "strong": "H6699",
        "pos": "substantiv, feminin singular construct",
-       "def_ro": "forma/înfățișarea Templului.",
-       "diff_ro": "Divergență majoră: Septuaginta are „λήψονται τὴν κόλασιν αὐτῶν\" („vor primi PEDEAPSA lor\"), nu o referire la „forma Templului\" (țurat) ca în ebraică — întregul verset grecesc duce direct spre consecința pedepsei, nu spre descrierea formelor arhitecturale.",
-       "dict_ro": "Tsurah, „formă, chip” — cuvânt-cheie al pasajului, repetat de patru ori în acest verset dens: nu doar dimensiunile, ci întreaga „formă” — planul general, arhitectura simbolică a Templului trebuie transmisă cu precizie absolută, fără nicio libertate de interpretare ulterioară."
-      },
-      {
-       "t": " și planul său, "
-      },
-      {
-       "t": "ieșirile și intrările sale cu toate formele sale, toate edictele cu toate formele sale și toate regulile sale –",
-       "w": "ieșirile și intrările sale cu toate formele sale, toate edictele cu toate formele sale și toate regulile sale –",
-       "heb": "וּמוֹצָאָיו וּמוֹבָאָיו וְכָל צוּרֹתָו וְאֵת כָּל חֻקֹּתָיו וְכָל צוּרֹתָיו וְכָל תּוֹרֹתָיו",
-       "translit": "umoțaaiv umovaaiv vehal țurotav veēt kal hukotaiv vehal țurotaiv vehal torotaiv",
-       "strong": "H4161",
-       "pos": "substantiv plural construct + sufix + substantiv plural construct + sufix + substantiv construct + substantiv plural construct + sufix (repetat de trei ori pentru hotărâri, forme, legi)",
-       "def_ro": "ieșirile ei și intrările ei și toate formele ei și toate rânduielile ei și toate formele ei și toate legile ei.",
-       "dict_ro": "Metzudat David explică «ieșirile și intrările» ca măsura ușilor pe unde se iese și se intră, iar «toate regulile ei» ca locul unde stau preoții și poporul — Radak adaugă că cei care vor păzi aceste rânduieli în inimă vor fi vrednici de învierea morților, căci Scriptura măsoară om pentru om, măsură pentru măsură."
+       "def_ro": "forma (țurat)",
+       "dict_ro": "Lista detaliată a elementelor Templului — formă, plan, ieșiri, intrări, edicte, reguli — confirmă precizia absolută cerută pentru construcție."
       },
       {
        "t": " "
       },
       {
-       "t": "anunță-i și scrie",
-       "w": "anunță-i și scrie",
-       "heb": "הוֹדַע וּכְתֹב",
-       "translit": "hoda uhtov",
-       "strong": "H3789",
-       "pos": "verb, hifil imperativ + verb, qal imperativ",
-       "def_ro": "fă-le cunoscut și scrie.",
-       "greek": "διαγράφω (diagrapho)",
-       "greek_def_ro": "διαγράφω (diagrapho) — a descrie, a schița în scris.",
-       "dict_ro": "Dublă poruncă — transmitere orală și scrisă deopotrivă — garantând permanența și precizia instrucțiunilor arhitecturale dincolo de memoria unei singure generații, un document tehnic fixat definitiv, nu doar o tradiție orală susceptibilă de deformare."
+       "t": "Templului",
+       "w": "Templului",
+       "heb": "הַבַּיִת",
+       "translit": "habait",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Templului (habait)",
+       "dict_ro": "Lista detaliată a elementelor Templului confirmă precizia absolută cerută pentru construcție."
       },
       {
-       "t": " înaintea ochilor lor, ca ei să-și amintească de toate formele sale și toate edictele și să le înfăptuiască."
+       "t": " "
+      },
+      {
+       "t": "și planul său,",
+       "w": "și planul său,",
+       "heb": "וּתְכוּנָתוֹ",
+       "translit": "uthunato",
+       "strong": "H8498",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "și planul lui, (uthunato)",
+       "dict_ro": "Lista detaliată a elementelor Templului confirmă precizia absolută cerută pentru construcție."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ieșirile",
+       "w": "ieșirile",
+       "heb": "וּמוֹצָאָיו",
+       "translit": "umoțaaiv",
+       "strong": "H4161",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "și ieșirile lui (umoțaaiv)",
+       "dict_ro": "Lista detaliată a elementelor Templului confirmă precizia absolută cerută pentru construcție."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și intrările sale",
+       "w": "și intrările sale",
+       "heb": "וּמוֹבָאָיו",
+       "translit": "umovaaiv",
+       "strong": "H4126",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "și intrările lui (umovaaiv)",
+       "dict_ro": "Lista detaliată a elementelor Templului confirmă precizia absolută cerută pentru construcție."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu toate",
+       "w": "cu toate",
+       "heb": "וְכָל",
+       "translit": "vehal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "și toate (vehal)",
+       "dict_ro": "Lista detaliată a elementelor Templului confirmă precizia absolută cerută pentru construcție."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "formele sale,",
+       "w": "formele sale,",
+       "heb": "צוּרֹתָו",
+       "translit": "țurotav",
+       "strong": "H6699",
+       "pos": "substantiv, feminin plural construct + sufix",
+       "def_ro": "formele lui, (țurotav)",
+       "dict_ro": "Lista detaliată a elementelor Templului confirmă precizia absolută cerută pentru construcție."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "toate edictele",
+       "w": "toate edictele",
+       "heb": "כָּל חֻקֹּתָיו",
+       "translit": "kal hukotaiv",
+       "strong": "H2708",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "toate decretele lui (kal hukotaiv)",
+       "dict_ro": "Lista detaliată a elementelor Templului confirmă precizia absolută cerută pentru construcție."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu toate",
+       "w": "cu toate",
+       "heb": "וְכָל",
+       "translit": "vehal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "și toate (vehal)",
+       "dict_ro": "Lista detaliată a elementelor Templului confirmă precizia absolută cerută pentru construcție."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "formele sale",
+       "w": "formele sale",
+       "heb": "צוּרֹתָיו",
+       "translit": "țurotaiv",
+       "strong": "H6699",
+       "pos": "substantiv, feminin plural construct + sufix",
+       "def_ro": "formele lui (țurotaiv)",
+       "dict_ro": "Lista detaliată a elementelor Templului confirmă precizia absolută cerută pentru construcție."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și toate",
+       "w": "și toate",
+       "heb": "וְכָל",
+       "translit": "vehal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "și toate (vehal)",
+       "dict_ro": "Lista detaliată a elementelor Templului confirmă precizia absolută cerută pentru construcție."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "regulile sale –",
+       "w": "regulile sale –",
+       "heb": "תּוֹרֹתָיו",
+       "translit": "torotaiv",
+       "strong": "H8451",
+       "pos": "substantiv, feminin plural construct + sufix",
+       "def_ro": "legile lui – (torotaiv)",
+       "dict_ro": "Lista detaliată a elementelor Templului confirmă precizia absolută cerută pentru construcție."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "anunță-i",
+       "w": "anunță-i",
+       "heb": "הוֹדַע אוֹתָם",
+       "translit": "hoda otam",
+       "strong": "H853",
+       "pos": "verb, hifil imperativ + marcă a complementului direct + sufix",
+       "def_ro": "fă cunoscut (hoda otam)",
+       "dict_ro": "Scrierea planului «înaintea ochilor lor» garantează transmiterea exactă, fără alterare, a instrucțiunilor divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și scrie",
+       "w": "și scrie",
+       "heb": "וּכְתֹב",
+       "translit": "uhtov",
+       "strong": "H3789",
+       "pos": "verb, qal imperativ",
+       "def_ro": "și scrie (uhtov)",
+       "dict_ro": "Scrierea planului «înaintea ochilor lor» garantează transmiterea exactă, fără alterare, a instrucțiunilor divine.",
+       "greek": "διαγράφω (diagrapho)",
+       "greek_def_ro": "διαγράφω (diagrapho) — a descrie, a schița în scris."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "înaintea ochilor lor,",
+       "w": "înaintea ochilor lor,",
+       "heb": "לְעֵינֵיהֶם",
+       "translit": "leēnēhem",
+       "strong": "H5869",
+       "pos": "substantiv, masculin și feminin dual construct + sufix",
+       "def_ro": "înaintea ochilor lor, (leēnēhem)",
+       "dict_ro": "Scrierea planului «înaintea ochilor lor» garantează transmiterea exactă, fără alterare, a instrucțiunilor divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca ei să-și amintească",
+       "w": "ca ei să-și amintească",
+       "heb": "וְיִשְׁמְרוּ",
+       "translit": "veișmeru",
+       "strong": "H8104",
+       "pos": "verb, qal jusiv",
+       "def_ro": "și vor păzi (veișmeru)",
+       "dict_ro": "Scrierea planului garantează transmiterea exactă, fără alterare, a instrucțiunilor divine, pentru împlinirea lor fidelă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de toate",
+       "w": "de toate",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "toată (kal)",
+       "dict_ro": "Scrierea planului garantează transmiterea exactă, fără alterare, a instrucțiunilor divine, pentru împlinirea lor fidelă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "formele sale",
+       "w": "formele sale",
+       "heb": "צוּרָתוֹ",
+       "translit": "țurato",
+       "strong": "H6699",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "forma lui (țurato)",
+       "dict_ro": "Scrierea planului garantează transmiterea exactă, fără alterare, a instrucțiunilor divine, pentru împlinirea lor fidelă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și toate",
+       "w": "și toate",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "și toate (kal)",
+       "dict_ro": "Scrierea planului garantează transmiterea exactă, fără alterare, a instrucțiunilor divine, pentru împlinirea lor fidelă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "edictele",
+       "w": "edictele",
+       "heb": "חֻקֹּתָיו",
+       "translit": "hukotaiv",
+       "strong": "H2708",
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "decretele lui (hukotaiv)",
+       "dict_ro": "Scrierea planului garantează transmiterea exactă, fără alterare, a instrucțiunilor divine, pentru împlinirea lor fidelă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să le înfăptuiască.",
+       "w": "și să le înfăptuiască.",
+       "heb": "וְעָשׂוּ אוֹתָם",
+       "translit": "veasu otam",
+       "strong": "H853",
+       "pos": "verb, qal perfect consecutiv + marcă a complementului direct + sufix",
+       "def_ro": "și le vor face. (veasu otam)",
+       "dict_ro": "Scrierea planului garantează transmiterea exactă, fără alterare, a instrucțiunilor divine, pentru împlinirea lor fidelă."
       }
      ],
      "textCompare": [
@@ -95401,7 +95756,147 @@
      "translit": "Zot torat ha-bayit al-rosh ha-har kol-gevulo saviv saviv kodesh kodashim hinneh-zot torat ha-bayit.",
      "tokens": [
       {
-       "t": "Aceasta este "
+       "t": "Aceasta este",
+       "w": "Aceasta este",
+       "heb": "זֹאת",
+       "translit": "zot",
+       "strong": "H2063",
+       "pos": "pronume demonstrativ",
+       "def_ro": "aceasta (zot)",
+       "dict_ro": "Formula de încadrare «aceasta este învățătura Templului», repetată la începutul și finalul versetului, pecetluiește solemn sfințenia absolută a locului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "învățătura [construirii]",
+       "w": "învățătura [construirii]",
+       "heb": "תּוֹרַת",
+       "translit": "torat",
+       "strong": "H8451",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "legea (torat)",
+       "dict_ro": "Formula de încadrare «aceasta este învățătura Templului», repetată, pecetluiește solemn sfințenia absolută a locului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Templului:",
+       "w": "Templului:",
+       "heb": "הַבָּיִת",
+       "translit": "habait",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Templului: (habait)",
+       "dict_ro": "Formula de încadrare «aceasta este învățătura Templului», repetată, pecetluiește solemn sfințenia absolută a locului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe vârful",
+       "w": "pe vârful",
+       "heb": "עַל רֹאשׁ",
+       "translit": "al roș",
+       "strong": "H7218",
+       "pos": "prepoziție + substantiv, masculin singular construct",
+       "def_ro": "pe vârful (al roș)",
+       "dict_ro": "Amplasarea Templului pe vârful muntelui confirmă simbolic caracterul lui de centru sacru, vizibil și inviolabil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "muntelui,",
+       "w": "muntelui,",
+       "heb": "הָהָר",
+       "translit": "hahar",
+       "strong": "H2022",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "muntelui, (hahar)",
+       "dict_ro": "Amplasarea Templului pe vârful muntelui confirmă simbolic caracterul lui de centru sacru, vizibil și inviolabil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "tot hotarul său",
+       "w": "tot hotarul său",
+       "heb": "כָּל גְּבֻלוֹ",
+       "translit": "kal gevulo",
+       "strong": "H1366",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct + sufix",
+       "def_ro": "tot hotarul lui (kal gevulo)",
+       "dict_ro": "Întreg perimetrul din jurul Templului, nu doar clădirea însăși, e declarat Sfânta Sfintelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de jur împrejur",
+       "w": "de jur împrejur",
+       "heb": "סָבִיב סָבִיב",
+       "translit": "saviv saviv",
+       "strong": "H5439",
+       "pos": "substantiv, masculin și feminin singular + substantiv, masculin și feminin singular",
+       "def_ro": "de jur împrejur (saviv saviv)",
+       "dict_ro": "Dublarea cuvântului «împrejur» e un idiom ebraic de emfază, accentuând acoperirea completă a perimetrului sacru."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "este Sfânta",
+       "w": "este Sfânta",
+       "heb": "קֹדֶשׁ",
+       "translit": "kodeș",
+       "strong": "H6944",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "sfințenia (kodeș)",
+       "dict_ro": "Întreg perimetrul din jurul Templului, nu doar clădirea însăși, e declarat Sfânta Sfintelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Sfintelor;",
+       "w": "Sfintelor;",
+       "heb": "קָדָשִׁים",
+       "translit": "kadașim",
+       "strong": "H6944",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "sfințeniilor; (kadașim)",
+       "dict_ro": "Întreg perimetrul din jurul Templului, nu doar clădirea însăși, e declarat Sfânta Sfintelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "iată,",
+       "w": "iată,",
+       "heb": "הִנֵּה",
+       "translit": "hinē",
+       "strong": "H2009",
+       "pos": "particulă demonstrativă",
+       "def_ro": "iată, (hinē)",
+       "dict_ro": "Formula de încadrare «aceasta este învățătura Templului», repetată, pecetluiește solemn sfințenia absolută a locului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "aceasta este",
+       "w": "aceasta este",
+       "heb": "זֹאת",
+       "translit": "zot",
+       "strong": "H2063",
+       "pos": "pronume demonstrativ",
+       "def_ro": "aceasta (zot)",
+       "dict_ro": "Formula de încadrare «aceasta este învățătura Templului», repetată, pecetluiește solemn sfințenia absolută a locului."
+      },
+      {
+       "t": " "
       },
       {
        "t": "învățătura",
@@ -95410,53 +95905,21 @@
        "translit": "torat",
        "strong": "H8451",
        "pos": "substantiv, feminin singular construct",
-       "def_ro": "legea, învățătura.",
-       "diff_ro": "Septuaginta are „τὴν διαγραφὴν\" („descrierea, planul\"), nu „învățătura/legea\" (torat) ca în ebraică — un substantiv diferit, mai tehnic-arhitectural, pentru acest termen repetat în verset.",
-       "dict_ro": "Torah, „învățătură, lege” — folosit aici nu pentru Legea mozaică generală, ci specific pentru „legea Templului”, corpusul tehnic-ritual al construcției și funcționării lui; repetiția versetului („aceasta e legea Templului... iată, aceasta e legea Templului”) marchează, ca o formulă de sigiliu, sfârșitul unei unități textuale clar delimitate."
-      },
-      {
-       "t": " [construirii] Templului: "
-      },
-      {
-       "t": "pe vârful muntelui, tot",
-       "w": "pe vârful muntelui, tot",
-       "heb": "עַל רֹאשׁ הָהָר כָּל",
-       "translit": "al roș hahar kal",
-       "strong": "H7218",
-       "pos": "prepoziție + substantiv construct + substantiv + substantiv construct",
-       "def_ro": "pe vârful muntelui, tot.",
-       "dict_ro": "Metzudat David explică faptul că clădirea viitoare va sta chiar pe vârful muntelui Templului — toată moșia preoților și leviților se numește «sfântă», dar muntele Templului însuși e numit, față de ea, «Sfânta Sfintelor»."
+       "def_ro": "legea (torat)",
+       "dict_ro": "Formula de încadrare «aceasta este învățătura Templului», repetată, pecetluiește solemn sfințenia absolută a locului."
       },
       {
        "t": " "
       },
       {
-       "t": "hotarul său",
-       "w": "hotarul său",
-       "heb": "גְּבֻלוֹ",
-       "translit": "gevulo",
-       "strong": "H1366",
-       "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "hotarul lui, granița lui.",
-       "greek": "ὅριον αὐτοῦ (horion autou)",
-       "greek_def_ro": "ὅριον αὐτοῦ (horion autou) — hotarele lui.",
-       "dict_ro": "Gevul, „hotar, graniță” — principiul teologic central al versetului: sfințenia nu se limitează la clădirea propriu-zisă, ci se extinde la întregul teritoriu delimitat din jur, „de jur împrejur” fiind repetat pentru accent — întregul munte devine Sfânta Sfintelor."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "de jur împrejur este Sfânta Sfintelor; iată, aceasta este",
-       "w": "de jur împrejur este Sfânta Sfintelor; iată, aceasta este",
-       "heb": "סָבִיב סָבִיב קֹדֶשׁ קָדָשִׁים הִנֵּה זֹאת",
-       "translit": "saviv saviv kodeș kadașim hinē zot",
-       "strong": "H5439",
-       "pos": "substantiv (repetat) + substantiv construct + substantiv + particulă demonstrativă + pronume demonstrativ",
-       "def_ro": "de jur împrejur, de jur împrejur, sfânta sfintelor; iată, aceasta este.",
-       "dict_ro": "Radak explică gradația sfințeniei: tot Ierusalimul e sfânt, muntele Templului e sfânt al sfintelor față de cetate, iar locul Templului însuși, al altarului și Locul Preasfânt sunt sfinte ale sfintelor în interiorul muntelui."
-      },
-      {
-       "t": " învățătura Templului!"
+       "t": "Templului!",
+       "w": "Templului!",
+       "heb": "הַבָּיִת",
+       "translit": "habait",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Templului! (habait)",
+       "dict_ro": "Formula de încadrare «aceasta este învățătura Templului», repetată, pecetluiește solemn sfințenia absolută a locului."
       }
      ],
      "textCompare": [
@@ -95499,51 +95962,239 @@
      "translit": "Ve-elleh middot ha-mizbe'ach ba-ammot ammah ammah va-tofach ve-cheik ha-ammah ve-ammah-rochav u-gevulah el-sefatah saviv zeret ha-echad ve-zeh gav ha-mizbe'ach.",
      "tokens": [
       {
-       "t": "Acestea sunt "
+       "t": "Acestea sunt",
+       "w": "Acestea sunt",
+       "heb": "וְאֵלֶּה",
+       "translit": "veēle",
+       "strong": "H428",
+       "pos": "pronume demonstrativ",
+       "def_ro": "și acestea (veēle)",
+       "dict_ro": "Măsurile exacte ale altarului, date în coți, confirmă precizia absolută a planului divin, fără loc pentru improvizație."
       },
       {
-       "t": "măsurile altarului",
-       "w": "măsurile altarului",
+       "t": " "
+      },
+      {
+       "t": "măsurile",
+       "w": "măsurile",
        "heb": "מִדּוֹת",
        "translit": "midot",
        "strong": "H4060",
        "pos": "substantiv, feminin plural construct",
-       "def_ro": "măsurile altarului.",
+       "def_ro": "măsurile (midot)",
+       "dict_ro": "Măsurile exacte ale altarului, date în coți, confirmă precizia absolută a planului divin.",
        "greek": "μέτρα τοῦ θυσιαστηρίου (metra tou thysiasteriou)",
-       "greek_def_ro": "μέτρα τοῦ θυσιαστηρίου (metra tou thysiasteriou) — măsurile altarului.",
-       "dict_ro": "Middah, „măsură” — deschide secțiunea tehnică cea mai precisă a capitolului, folosind unitatea specială „cot și o palmă” (ammah va-tofach), diferită de cotul standard folosit pentru clădirea propriu-zisă — o unitate mărită special pentru dimensiunile sacre ale altarului."
+       "greek_def_ro": "μέτρα τοῦ θυσιαστηρίου (metra tou thysiasteriou) — măsurile altarului."
       },
       {
-       "t": " în coți, fiecare [astfel de] cot să fie un cot [obișnuit] și o palmă. Dar "
+       "t": " "
       },
       {
-       "t": "baza",
-       "w": "baza",
+       "t": "altarului",
+       "w": "altarului",
+       "heb": "הַמִּזְבֵּחַ",
+       "translit": "hamizbēah",
+       "strong": "H4196",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "altarului (hamizbēah)",
+       "dict_ro": "Măsurile exacte ale altarului, date în coți, confirmă precizia absolută a planului divin."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în coți,",
+       "w": "în coți,",
+       "heb": "בָּאַמּוֹת",
+       "translit": "baamot",
+       "strong": "H520",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "în coți, (baamot)",
+       "dict_ro": "Măsurile exacte ale altarului, date în coți, confirmă precizia absolută a planului divin."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fiecare [astfel de] cot să fie un cot [obișnuit]",
+       "w": "fiecare [astfel de] cot să fie un cot [obișnuit]",
+       "heb": "אַמָּה אַמָּה",
+       "translit": "ama ama",
+       "strong": "H520",
+       "pos": "substantiv, feminin singular + substantiv, feminin singular",
+       "def_ro": "cot, cot (ama ama)",
+       "dict_ro": "Dublarea cuvântului «cot» precizează unitatea de măsură standard folosită în toate dimensiunile altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și o palmă.",
+       "w": "și o palmă.",
+       "heb": "וָטֹפַח",
+       "translit": "vatofah",
+       "strong": "H2948",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și o palmă. (vatofah)",
+       "dict_ro": "Dublarea cuvântului «cot» precizează unitatea de măsură standard folosită în toate dimensiunile altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Dar baza să fie",
+       "w": "Dar baza să fie",
        "heb": "וְחֵיק",
        "translit": "vehēk",
        "strong": "H2436",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "adâncitura, baza.",
+       "def_ro": "și sânul (vehēk)",
+       "dict_ro": "Baza altarului, descrisă cu precizie geometrică, susține întreaga structură sacră a jertfelor.",
        "greek": "κόλπωμα βάθους (kolpoma bathous)",
-       "greek_def_ro": "κόλπωμα βάθους (kolpoma bathous) — adâncitura/baza de jos.",
-       "dict_ro": "Cheik, literal „poală, sân” — termen neobișnuit pentru o structură arhitecturală, sugerând o adâncitură/șanț la baza altarului, ca un fel de „poală” care primește sângele jertfelor înainte de a se scurge."
+       "greek_def_ro": "κόλπωμα βάθους (kolpoma bathous) — adâncitura/baza de jos."
       },
       {
-       "t": " să fie de un cot, precum cotul [obișnuit] de lățime. Iar "
+       "t": " "
       },
       {
-       "t": "marginea",
-       "w": "marginea",
+       "t": "de un cot,",
+       "w": "de un cot,",
+       "heb": "הָאַמָּה",
+       "translit": "haama",
+       "strong": "H520",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "cotul (haama)",
+       "dict_ro": "Baza altarului, descrisă cu precizie geometrică, susține întreaga structură sacră a jertfelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "precum cotul [obișnuit]",
+       "w": "precum cotul [obișnuit]",
+       "heb": "וְאַמָּה",
+       "translit": "veama",
+       "strong": "H520",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "și un cot (veama)",
+       "dict_ro": "Baza altarului, descrisă cu precizie geometrică, susține întreaga structură sacră a jertfelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de lățime.",
+       "w": "de lățime.",
+       "heb": "רֹחַב",
+       "translit": "rohav",
+       "strong": "H7341",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "lățime. (rohav)",
+       "dict_ro": "Baza altarului, descrisă cu precizie geometrică, susține întreaga structură sacră a jertfelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iar marginea",
+       "w": "Iar marginea",
        "heb": "וּגְבוּלָהּ",
        "translit": "ugvulah",
        "strong": "H1366",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "marginea, bordura ei.",
-       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest detaliu (marginea de pe muchia altarului) — nu există corespondent verificabil.",
-       "dict_ro": "Aceeași rădăcină gevul de la v.12, dar aici la scară arhitecturală mică — o mică bordură decorativă/structurală, de o palmă înălțime, care înconjoară muchia altarului, ecou simbolic al hotarului sacru mai mare al întregului munte."
+       "def_ro": "și marginea lui (ugvulah)",
+       "dict_ro": "Marginea altarului, cu muchia sa exactă, delimitează spațiul sacru unde se aduc jertfele."
       },
       {
-       "t": " pe muchia sa de jur împrejur este de o jumătate de cot fiecare și aceasta este partea de sus a altarului."
+       "t": " "
+      },
+      {
+       "t": "pe muchia sa",
+       "w": "pe muchia sa",
+       "heb": "אֶל שְׂפָתָהּ",
+       "translit": "el sefatah",
+       "strong": "H8193",
+       "pos": "prepoziție + substantiv, feminin singular construct + sufix",
+       "def_ro": "la buza lui (el sefatah)",
+       "dict_ro": "Marginea altarului, cu muchia sa exactă, delimitează spațiul sacru unde se aduc jertfele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de jur împrejur",
+       "w": "de jur împrejur",
+       "heb": "סָבִיב",
+       "translit": "saviv",
+       "strong": "H5439",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "de jur împrejur (saviv)",
+       "dict_ro": "Marginea altarului, cu muchia sa exactă, delimitează spațiul sacru unde se aduc jertfele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "este de o jumătate de cot",
+       "w": "este de o jumătate de cot",
+       "heb": "זֶרֶת",
+       "translit": "zeret",
+       "strong": "H2239",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "o palmă (zeret)",
+       "dict_ro": "Marginea altarului, cu muchia sa exactă, delimitează spațiul sacru unde se aduc jertfele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fiecare",
+       "w": "fiecare",
+       "heb": "הָאֶחָד",
+       "translit": "haehad",
+       "strong": "H259",
+       "pos": "numeral",
+       "def_ro": "fiecare una (haehad)",
+       "dict_ro": "Marginea altarului, cu muchia sa exactă, delimitează spațiul sacru unde se aduc jertfele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și aceasta este",
+       "w": "și aceasta este",
+       "heb": "וְזֶה",
+       "translit": "veze",
+       "strong": "H2088",
+       "pos": "pronume demonstrativ",
+       "def_ro": "și aceasta este (veze)",
+       "dict_ro": "Partea de sus a altarului, ultima dimensiune descrisă, încheie planul complet al structurii sacre."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "partea de sus",
+       "w": "partea de sus",
+       "heb": "גַּב",
+       "translit": "gav",
+       "strong": "H1354",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "spinarea (gav)",
+       "dict_ro": "Partea de sus a altarului, ultima dimensiune descrisă, încheie planul complet al structurii sacre."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a altarului.",
+       "w": "a altarului.",
+       "heb": "הַמִּזְבֵּחַ",
+       "translit": "hamizbēah",
+       "strong": "H4196",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "altarului. (hamizbēah)",
+       "dict_ro": "Partea de sus a altarului, ultima dimensiune descrisă, încheie planul complet al structurii sacre."
       }
      ],
      "textCompare": [
@@ -95593,31 +96244,209 @@
      "translit": "U-me-cheik ha-arets ad-ha-azarah ha-tachtonah shtayim ammot ve-rochav ammah echat u-me-ha-azarah ha-ketannah ad-ha-azarah ha-gedolah arba ammot ve-rochav ha-ammah.",
      "tokens": [
       {
-       "t": "Iar de la baza care este pe pământ",
-       "w": "Iar de la baza care este pe pământ",
-       "heb": "וּמֵחֵיק הָאָרֶץ",
-       "translit": "umēhēk haareț",
+       "t": "Iar de la baza",
+       "w": "Iar de la baza",
+       "heb": "וּמֵחֵיק",
+       "translit": "umēhēk",
        "strong": "H2436",
-       "pos": "substantiv construct + substantiv",
-       "def_ro": "și de la poala pământului.",
-       "dict_ro": "Rashi explică faptul că măsura începe exact de la fața pământului, de la temelia altarului — primul punct de referință al întregii descrieri arhitecturale care urmează."
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "și de la sânul (umēhēk)",
+       "dict_ro": "Descrierea în trepte, de la pământ până la Azara cea mare, confirmă structura altarului ca o piramidă în etaje, tot mai îngustă spre vârf."
       },
       {
-       "t": " și până la "
+       "t": " "
       },
       {
-       "t": "Azara de jos",
-       "w": "Azara de jos",
-       "heb": "הָעֲזָרָה הַתַּחְתּוֹנָה",
-       "translit": "haazara hatahtona",
+       "t": "care este pe pământ",
+       "w": "care este pe pământ",
+       "heb": "הָאָרֶץ",
+       "translit": "haareț",
+       "strong": "H776",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "pământul (haareț)",
+       "dict_ro": "Descrierea în trepte, de la pământ până la Azara cea mare, confirmă structura altarului ca o piramidă în etaje."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și până la",
+       "w": "și până la",
+       "heb": "עַד",
+       "translit": "ad",
+       "strong": "H5704",
+       "pos": "prepoziție",
+       "def_ro": "până la (ad)",
+       "dict_ro": "Descrierea în trepte, de la pământ până la Azara cea mare, confirmă structura altarului ca o piramidă în etaje."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Azara",
+       "w": "Azara",
+       "heb": "הָעֲזָרָה",
+       "translit": "haazara",
        "strong": "H5835",
-       "pos": "substantiv, feminin singular + adjectiv, feminin singular",
-       "def_ro": "cornișa/treapta de jos.",
-       "diff_ro": "Septuaginta descrie aici o structură diferită: „τὸ ἱλαστήριον τὸ μέγα\" („marele loc de ispășire\"), nu „Azara de jos\" (curtea/pervazul inferior) ca în ebraică — traducătorul grec a înțeles diferit arhitectura altarului în acest pasaj tehnic.",
-       "dict_ro": "Azarah — în acest context tehnic, nu „curtea” Templului (sensul obișnuit al cuvântului), ci o treaptă/cornișă a structurii altarului însuși — altarul lui Ezechiel se ridica în trepte succesive, fiecare mai îngustă decât cea de dedesubt, ca o piramidă în trepte."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "Azara (haazara)",
+       "dict_ro": "Azara, treapta intermediară a altarului lui Ezechiel, desemnează cornișa sau terasa dintre bază și vârf."
       },
       {
-       "t": " – doi coți cu o lățime de un cot. De la Azara cea mică până la Azara cea mare – patru coți cu un cot lățime."
+       "t": " "
+      },
+      {
+       "t": "de jos –",
+       "w": "de jos –",
+       "heb": "הַתַּחְתּוֹנָה",
+       "translit": "hatahtona",
+       "strong": "H8481",
+       "pos": "adjectiv, feminin singular",
+       "def_ro": "cea de jos – (hatahtona)",
+       "dict_ro": "Azara, treapta intermediară a altarului lui Ezechiel, desemnează cornișa sau terasa dintre bază și vârf."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "doi coți",
+       "w": "doi coți",
+       "heb": "שְׁתַּיִם אַמּוֹת",
+       "translit": "șetaim amot",
+       "strong": "H520",
+       "pos": "numeral + substantiv, feminin plural",
+       "def_ro": "doi coți (șetaim amot)",
+       "dict_ro": "Descrierea în trepte, de la pământ până la Azara cea mare, confirmă structura altarului ca o piramidă în etaje."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu o lățime",
+       "w": "cu o lățime",
+       "heb": "וְרֹחַב",
+       "translit": "verohav",
+       "strong": "H7341",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și lățime (verohav)",
+       "dict_ro": "Descrierea în trepte, de la pământ până la Azara cea mare, confirmă structura altarului ca o piramidă în etaje."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de un cot.",
+       "w": "de un cot.",
+       "heb": "אַמָּה אֶחָת",
+       "translit": "ama ehat",
+       "strong": "H259",
+       "pos": "substantiv, feminin singular + numeral",
+       "def_ro": "de un cot. (ama ehat)",
+       "dict_ro": "Descrierea în trepte, de la pământ până la Azara cea mare, confirmă structura altarului ca o piramidă în etaje."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "De la Azara",
+       "w": "De la Azara",
+       "heb": "וּמֵהֳעֲזָרָה",
+       "translit": "umēhoazara",
+       "strong": "H5835",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "și de la Azara (umēhoazara)",
+       "dict_ro": "Descrierea în trepte, de la pământ până la Azara cea mare, confirmă structura altarului ca o piramidă în etaje."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cea mică",
+       "w": "cea mică",
+       "heb": "הַקְּטַנָּה",
+       "translit": "haktana",
+       "strong": "H6996",
+       "pos": "adjectiv, feminin singular",
+       "def_ro": "cea mică (haktana)",
+       "dict_ro": "Descrierea în trepte, de la pământ până la Azara cea mare, confirmă structura altarului ca o piramidă în etaje."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "până la",
+       "w": "până la",
+       "heb": "עַד",
+       "translit": "ad",
+       "strong": "H5704",
+       "pos": "prepoziție",
+       "def_ro": "până la (ad)",
+       "dict_ro": "Descrierea în trepte, de la pământ până la Azara cea mare, confirmă structura altarului ca o piramidă în etaje."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Azara",
+       "w": "Azara",
+       "heb": "הָעֲזָרָה",
+       "translit": "haazara",
+       "strong": "H5835",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "Azara (haazara)",
+       "dict_ro": "Descrierea în trepte, de la pământ până la Azara cea mare, confirmă structura altarului ca o piramidă în etaje."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cea mare –",
+       "w": "cea mare –",
+       "heb": "הַגְּדוֹלָה",
+       "translit": "hagdola",
+       "strong": "H1419",
+       "pos": "adjectiv, feminin singular",
+       "def_ro": "cea mare – (hagdola)",
+       "dict_ro": "Descrierea în trepte, de la pământ până la Azara cea mare, confirmă structura altarului ca o piramidă în etaje."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "patru coți",
+       "w": "patru coți",
+       "heb": "אַרְבַּע אַמּוֹת",
+       "translit": "arba amot",
+       "strong": "H520",
+       "pos": "numeral + substantiv, feminin plural",
+       "def_ro": "patru coți (arba amot)",
+       "dict_ro": "Descrierea în trepte, de la pământ până la Azara cea mare, confirmă structura altarului ca o piramidă în etaje."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu un cot",
+       "w": "cu un cot",
+       "heb": "וְרֹחַב",
+       "translit": "verohav",
+       "strong": "H7341",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și lățimea (verohav)",
+       "dict_ro": "Descrierea în trepte, de la pământ până la Azara cea mare, confirmă structura altarului ca o piramidă în etaje."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lățime.",
+       "w": "lățime.",
+       "heb": "הָאַמָּה",
+       "translit": "haama",
+       "strong": "H520",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "cotul. (haama)",
+       "dict_ro": "Descrierea în trepte, de la pământ până la Azara cea mare, confirmă structura altarului ca o piramidă în etaje."
       }
      ],
      "textCompare": [
@@ -95658,21 +96487,79 @@
      "translit": "Ve-ha-har'el arba ammot u-me-ha-ari'el u-le-ma'lah ha-keranot arba.",
      "tokens": [
       {
-       "t": "Iar "
-      },
-      {
-       "t": "Harel",
-       "w": "Harel",
+       "t": "Iar Harel –",
+       "w": "Iar Harel –",
        "heb": "וְהַהַרְאֵל",
        "translit": "vehaharēl",
        "strong": "H2025",
        "pos": "substantiv, masculin singular",
-       "def_ro": "Har'el — „muntele lui Dumnezeu”.",
-       "diff_ro": "Septuaginta folosește același termen transliterat, „τῷ ἀριὴλ\" („Ariel\"), și pentru „Harel\" din acest verset, și pentru „Ariel\" din versetul următor — nu distinge cele două nume ebraice diferite pentru părțile altarului, așa cum face textul masoretic.",
-       "dict_ro": "Har'el — Rashi identifică acest nume simbolic cu partea superioară a acoperișului altarului, de la cornișa de jos în sus; în Templul lui Solomon avea doar trei coți, aici patru — o denumire poetică ce leagă altarul de imaginea unui munte sacru miniatural, ecou al muntelui Moria însuși."
+       "def_ro": "și Harel – (vehaharēl)",
+       "dict_ro": "Harel, «muntele lui Dumnezeu», și Ariel, «leul lui Dumnezeu», sunt nume simbolice pentru partea superioară a altarului, locul unde arde jertfa."
       },
       {
-       "t": " – patru coți; și de la Ariel în sus – patru colțuri."
+       "t": " "
+      },
+      {
+       "t": "patru coți;",
+       "w": "patru coți;",
+       "heb": "אַרְבַּע אַמּוֹת",
+       "translit": "arba amot",
+       "strong": "H520",
+       "pos": "numeral + substantiv, feminin plural",
+       "def_ro": "patru coți; (arba amot)",
+       "dict_ro": "Harel, «muntele lui Dumnezeu», denumește simbolic treapta superioară a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și de la Ariel",
+       "w": "și de la Ariel",
+       "heb": "וּמֵהָאֲרִאֵיל",
+       "translit": "umēhaariēl",
+       "strong": "H741",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și de la Ariel (umēhaariēl)",
+       "dict_ro": "Ariel, «leul lui Dumnezeu» sau «vatra divină», denumește simbolic vârful altarului, locul unde arde jertfa."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în sus –",
+       "w": "în sus –",
+       "heb": "וּלְמַעְלָה",
+       "translit": "ulmala",
+       "strong": "H4605",
+       "pos": "adverb",
+       "def_ro": "și mai sus – (ulmala)",
+       "dict_ro": "Ariel, «leul lui Dumnezeu» sau «vatra divină», denumește simbolic vârful altarului, locul unde arde jertfa."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "patru",
+       "w": "patru",
+       "heb": "אַרְבַּע",
+       "translit": "arba",
+       "strong": "H702",
+       "pos": "numeral",
+       "def_ro": "patru (arba)",
+       "dict_ro": "Cele patru coarne ale altarului, la colțurile sale, sunt locul tradițional unde se stropea sângele jertfelor de ispășire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "colțuri.",
+       "w": "colțuri.",
+       "heb": "הַקְּרָנוֹת",
+       "translit": "hakranot",
+       "strong": "H7161",
+       "pos": "substantiv, masculin și feminin plural",
+       "def_ro": "coarnele. (hakranot)",
+       "dict_ro": "Cele patru coarne ale altarului, la colțurile sale, sunt locul tradițional unde se stropea sângele jertfelor de ispășire."
       }
      ],
      "textCompare": [
@@ -95711,37 +96598,109 @@
      "translit": "Ve-ha-Ari'el shtem esreh orekh bi-shtem esreh rochav ravua el arba'at reva'av.",
      "tokens": [
       {
-       "t": "Iar "
-      },
-      {
-       "t": "Ariel",
-       "w": "Ariel",
+       "t": "Iar Ariel are",
+       "w": "Iar Ariel are",
        "heb": "וְהָאֲרִיאֵל",
        "translit": "vehaariēl",
        "strong": "H741",
        "pos": "substantiv, masculin singular",
-       "def_ro": "Ariel — „vatra lui Dumnezeu”.",
+       "def_ro": "și Ariel (vehaariēl)",
+       "dict_ro": "Forma perfect pătrată a vârfului altarului, egală pe toate laturile, simbolizează desăvârșirea geometrică a sanctuarului viitor.",
        "greek": "ἀριήλ (ariel)",
-       "greek_def_ro": "ἀριήλ (ariel) — Ariel (termen transliterat, partea superioară a altarului).",
-       "dict_ro": "Ari'el — numele suprafeței superioare a altarului, locul propriu-zis al arderii jertfelor; același nume poetic e folosit de Isaia (29:1-2) pentru Ierusalim însuși, „cetatea unde a tăbărât David” — legând simbolic vatra sacrificiului de întreaga cetate sfântă."
+       "greek_def_ro": "ἀριήλ (ariel) — Ariel (termen transliterat, partea superioară a altarului)."
       },
       {
-       "t": " are doisprezece coți lungime și doisprezece coți lățime, "
+       "t": " "
       },
       {
-       "t": "pătrat",
-       "w": "pătrat",
+       "t": "doisprezece coți",
+       "w": "doisprezece coți",
+       "heb": "שְׁתֵּים עֶשְׂרֵה",
+       "translit": "șetēm esrē",
+       "strong": "H6240",
+       "pos": "numeral + numeral",
+       "def_ro": "doisprezece (șetēm esrē)",
+       "dict_ro": "Forma perfect pătrată a vârfului altarului simbolizează desăvârșirea geometrică a sanctuarului viitor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lungime",
+       "w": "lungime",
+       "heb": "אֹרֶךְ",
+       "translit": "oreh",
+       "strong": "H753",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "lungime (oreh)",
+       "dict_ro": "Forma perfect pătrată a vârfului altarului simbolizează desăvârșirea geometrică a sanctuarului viitor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și doisprezece coți",
+       "w": "și doisprezece coți",
+       "heb": "בִּשְׁתֵּים עֶשְׂרֵה",
+       "translit": "biștēm esrē",
+       "strong": "H6240",
+       "pos": "numeral + numeral",
+       "def_ro": "în doisprezece (biștēm esrē)",
+       "dict_ro": "Forma perfect pătrată a vârfului altarului simbolizează desăvârșirea geometrică a sanctuarului viitor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lățime,",
+       "w": "lățime,",
+       "heb": "רֹחַב",
+       "translit": "rohav",
+       "strong": "H7341",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "lățime, (rohav)",
+       "dict_ro": "Forma perfect pătrată a vârfului altarului simbolizează desăvârșirea geometrică a sanctuarului viitor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pătrat fiind",
+       "w": "pătrat fiind",
        "heb": "רָבוּעַ",
        "translit": "ravua",
        "strong": "H7251",
        "pos": "verb, qal participiu pasiv",
-       "def_ro": "pătrat, cu patru laturi egale.",
+       "def_ro": "pătrat (ravua)",
+       "dict_ro": "Forma perfect pătrată a vârfului altarului simbolizează desăvârșirea geometrică a sanctuarului viitor.",
        "greek": "τετράγωνος (tetragonos)",
-       "greek_def_ro": "τετράγωνος (tetragonos) — pătrat.",
-       "dict_ro": "Ravua, „pătrat” — forma geometrică perfect simetrică a vetrei altarului, aceeași formă cerută și pentru altarul Cortului Întâlnirii (Exodul 27:1) — simbol de stabilitate și completitudine în arhitectura sacră biblică."
+       "greek_def_ro": "τετράγωνος (tetragonos) — pătrat."
       },
       {
-       "t": " fiind către cele patru colțuri ale sale."
+       "t": " "
+      },
+      {
+       "t": "către cele patru",
+       "w": "către cele patru",
+       "heb": "אֶל אַרְבַּעַת",
+       "translit": "el arbaat",
+       "strong": "H702",
+       "pos": "prepoziție + numeral",
+       "def_ro": "spre cele patru (el arbaat)",
+       "dict_ro": "Forma perfect pătrată a vârfului altarului simbolizează desăvârșirea geometrică a sanctuarului viitor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "colțuri ale sale.",
+       "w": "colțuri ale sale.",
+       "heb": "רְבָעָיו",
+       "translit": "revaaiv",
+       "strong": "H7253",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "colțurile lui. (revaaiv)",
+       "dict_ro": "Forma perfect pătrată a vârfului altarului simbolizează desăvârșirea geometrică a sanctuarului viitor."
       }
      ],
      "textCompare": [
@@ -95787,31 +96746,209 @@
      "translit": "Ve-ha-azarah arba esreh orekh be-arba esreh rochav el arba'at reva'eha ve-ha-gevul saviv otah chatsi ha-ammah ve-ha-cheik-lah ammah saviv u-ma'aloteihu fenot kadim.",
      "tokens": [
       {
-       "t": "Iar Azara are paisprezece coți lungime și paisprezece coți lățime, către cele patru sferturi ale sale",
-       "w": "Iar Azara are paisprezece coți lungime și paisprezece coți lățime, către cele patru sferturi ale sale",
-       "heb": "וְהָעֲזָרָה אַרְבַּע עֶשְׂרֵה אֹרֶךְ בְּאַרְבַּע עֶשְׂרֵה רֹחַב אֶל אַרְבַּעַת רְבָעֶיהָ",
-       "translit": "vehaazara arba esrē oreh bearba esrē rohav el arbaat revaeha",
+       "t": "Iar Azara are",
+       "w": "Iar Azara are",
+       "heb": "וְהָעֲזָרָה",
+       "translit": "vehaazara",
        "strong": "H5835",
-       "pos": "substantiv + numeral + numeral + substantiv + numeral + numeral + substantiv + prepoziție + numeral + substantiv plural construct + sufix",
-       "def_ro": "și pervazul, paisprezece [coți] lungime, pe paisprezece lățime, către cele patru laturi ale sale.",
-       "dict_ro": "Rashi explică faptul că acoperișul altarului, cu locul coarnelor și cu locul picioarelor preoților, era de douăzeci și opt pe douăzeci și opt, iar cei paisprezece coți sunt măsurați de la mijlocul lui spre fiecare parte."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "și Azara (vehaazara)",
+       "dict_ro": "Terasa Azara, mai largă decât vârful altarului, oferă spațiul de trecere pentru preoții care deservesc jertfele."
       },
       {
-       "t": ", iar marginea care înconjoară [altarul] este de o jumătate de cot, baza pe care o are este de un cot de jur împrejur, iar "
+       "t": " "
       },
       {
-       "t": "rampa lui",
-       "w": "rampa lui",
+       "t": "paisprezece coți",
+       "w": "paisprezece coți",
+       "heb": "אַרְבַּע עֶשְׂרֵה",
+       "translit": "arba esrē",
+       "strong": "H6240",
+       "pos": "numeral + numeral",
+       "def_ro": "patrusprezece (arba esrē)",
+       "dict_ro": "Terasa Azara, mai largă decât vârful altarului, oferă spațiul de trecere pentru preoții care deservesc jertfele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lungime",
+       "w": "lungime",
+       "heb": "אֹרֶךְ",
+       "translit": "oreh",
+       "strong": "H753",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "lungime (oreh)",
+       "dict_ro": "Terasa Azara, mai largă decât vârful altarului, oferă spațiul de trecere pentru preoții care deservesc jertfele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și paisprezece coți",
+       "w": "și paisprezece coți",
+       "heb": "בְּאַרְבַּע עֶשְׂרֵה",
+       "translit": "bearba esrē",
+       "strong": "H6240",
+       "pos": "numeral + numeral",
+       "def_ro": "în patrusprezece (bearba esrē)",
+       "dict_ro": "Terasa Azara, mai largă decât vârful altarului, oferă spațiul de trecere pentru preoții care deservesc jertfele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lățime,",
+       "w": "lățime,",
+       "heb": "רֹחַב",
+       "translit": "rohav",
+       "strong": "H7341",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "lățime, (rohav)",
+       "dict_ro": "Terasa Azara, mai largă decât vârful altarului, oferă spațiul de trecere pentru preoții care deservesc jertfele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "către cele patru",
+       "w": "către cele patru",
+       "heb": "אֶל אַרְבַּעַת",
+       "translit": "el arbaat",
+       "strong": "H702",
+       "pos": "prepoziție + numeral",
+       "def_ro": "spre cele patru (el arbaat)",
+       "dict_ro": "Terasa Azara, mai largă decât vârful altarului, oferă spațiul de trecere pentru preoții care deservesc jertfele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sferturi ale sale,",
+       "w": "sferturi ale sale,",
+       "heb": "רְבָעֶיהָ",
+       "translit": "revaeha",
+       "strong": "H7253",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "sferturile ei, (revaeha)",
+       "dict_ro": "Terasa Azara, mai largă decât vârful altarului, oferă spațiul de trecere pentru preoții care deservesc jertfele."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "iar marginea care înconjoară [altarul]",
+       "w": "iar marginea care înconjoară [altarul]",
+       "heb": "וְהַגְּבוּל סָבִיב אוֹתָהּ",
+       "translit": "vehagvul saviv otah",
+       "strong": "H853",
+       "pos": "substantiv, masculin singular + substantiv, masculin și feminin singular + marcă a complementului direct + sufix",
+       "def_ro": "și marginea de jur împrejur ea (vehagvul saviv otah)",
+       "dict_ro": "Marginea și scara de acces, descrise ultimele, completează planul funcțional al altarului pentru uzul preoțesc."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "este de o jumătate",
+       "w": "este de o jumătate",
+       "heb": "חֲצִי",
+       "translit": "hați",
+       "strong": "H2677",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "jumătate (hați)",
+       "dict_ro": "Marginea și scara de acces, descrise ultimele, completează planul funcțional al altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de cot,",
+       "w": "de cot,",
+       "heb": "הָאַמָּה",
+       "translit": "haama",
+       "strong": "H520",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "de cot, (haama)",
+       "dict_ro": "Marginea și scara de acces, descrise ultimele, completează planul funcțional al altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "baza pe care o are",
+       "w": "baza pe care o are",
+       "heb": "וְהַחֵיק לָהּ",
+       "translit": "vehahēk lah",
+       "strong": "",
+       "pos": "substantiv, masculin singular + prepoziție + sufix",
+       "def_ro": "și sânul ei (vehahēk lah)",
+       "dict_ro": "Marginea și scara de acces, descrise ultimele, completează planul funcțional al altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "este de un cot",
+       "w": "este de un cot",
+       "heb": "אַמָּה",
+       "translit": "ama",
+       "strong": "H520",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "cot (ama)",
+       "dict_ro": "Marginea și scara de acces, descrise ultimele, completează planul funcțional al altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de jur împrejur,",
+       "w": "de jur împrejur,",
+       "heb": "סָבִיב",
+       "translit": "saviv",
+       "strong": "H5439",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "de jur împrejur, (saviv)",
+       "dict_ro": "Marginea și scara de acces, descrise ultimele, completează planul funcțional al altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "iar rampa lui",
+       "w": "iar rampa lui",
        "heb": "וּמַעֲלֹתֵהוּ",
        "translit": "umaalotēhu",
        "strong": "H4609",
        "pos": "substantiv, feminin plural construct + sufix",
-       "def_ro": "treptele/rampa lui de acces.",
-       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest detaliu (rampa altarului, orientată spre răsărit) — nu există corespondent verificabil. De notat și aici folosirea termenului „ἱλαστήριον\" pentru Azara, ca la 43:14.",
-       "dict_ro": "Ma'alot, „trepte, urcuș” — Rashi observă orientarea deliberată spre răsărit, aceeași direcție cerută explicit pentru rampa altarului Cortului (unde treptele, nu scările, erau interzise de Tora din pricina modestiei — Exodul 20:26 — și înlocuite cu o pantă lină); orientarea răsăriteană leagă simbolic altarul de intrarea Slavei divine descrisă mai devreme în capitol (43:1-4), venind tot dinspre răsărit."
+       "def_ro": "și treptele lui (umaalotēhu)",
+       "dict_ro": "Rampa orientată spre răsărit confirmă orientarea sacră tradițională a accesului la altar."
       },
       {
-       "t": " este îndreptată către răsărit."
+       "t": " "
+      },
+      {
+       "t": "este îndreptată către",
+       "w": "este îndreptată către",
+       "heb": "פְּנוֹת",
+       "translit": "penot",
+       "strong": "H6437",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "cu fața spre (penot)",
+       "dict_ro": "Rampa orientată spre răsărit confirmă orientarea sacră tradițională a accesului la altar."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "răsărit.",
+       "w": "răsărit.",
+       "heb": "קָדִים",
+       "translit": "kadim",
+       "strong": "H6921",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "răsărit. (kadim)",
+       "dict_ro": "Rampa orientată spre răsărit confirmă orientarea sacră tradițională a accesului la altar."
       }
      ],
      "textCompare": [
@@ -95849,46 +96986,198 @@
      "translit": "Va-yomer elai ben-adam koh amar Adonai Elohim elleh chukkot ha-mizbe'ach be-yom he'asoto le-ha'alot alav olah ve-lizrok alav dam.",
      "tokens": [
       {
-       "t": "Apoi mi-a spus: „Fiul omului, așa spune Stăpânul meu, Domnul DUMNEZEU: «Acestea sunt",
-       "w": "Apoi mi-a spus: „Fiul omului, așa spune Stăpânul meu, Domnul DUMNEZEU: «Acestea sunt",
-       "heb": "וַיֹּאמֶר אֵלַי בֶּן אָדָם כֹּה אָמַר אֲדֹנָי יֱהוִה אֵלֶּה",
-       "translit": "vaiomer ēlai ben adam ko amar adonai Adonai ēle",
-       "strong": "H559",
-       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix + substantiv construct + substantiv + adverb + verb, qal perfect + substantiv construct + sufix + nume propriu + pronume demonstrativ",
-       "def_ro": "și mi-a spus: fiu al omului, așa a spus Stăpânul meu, Domnul DUMNEZEU: acestea sunt.",
-       "dict_ro": "Formula de poruncă divină directă precedă rânduielile exacte ale sfințirii altarului — fiecare detaliu al ritualului de inaugurare vine direct din gura DOMNULUI, nu din tradiția omenească."
+       "t": "Apoi mi-a spus:",
+       "w": "Apoi mi-a spus:",
+       "heb": "וַיֹּאמֶר אֵלַי",
+       "translit": "vaiomer ēlai",
+       "strong": "H413",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
+       "def_ro": "și a spus către mine: (vaiomer ēlai)",
+       "dict_ro": "Formula «Stăpânul meu, Domnul DUMNEZEU» introduce solemn instrucțiunile rituale pentru sfințirea altarului nou-construit."
       },
       {
        "t": " "
       },
       {
-       "t": "edictele altarului",
-       "w": "edictele altarului",
+       "t": "„Fiul omului,",
+       "w": "„Fiul omului,",
+       "heb": "בֶּן אָדָם",
+       "translit": "ben adam",
+       "strong": "H120",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "fiul omului, (ben adam)",
+       "dict_ro": "Titlul «fiul omului» marchează din nou condiția umană a profetului în fața instrucțiunilor divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "așa spune",
+       "w": "așa spune",
+       "heb": "כֹּה אָמַר",
+       "translit": "ko amar",
+       "strong": "H559",
+       "pos": "adverb + verb, qal perfect",
+       "def_ro": "așa a spus (ko amar)",
+       "dict_ro": "Formula «Stăpânul meu, Domnul DUMNEZEU» introduce solemn instrucțiunile rituale pentru sfințirea altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Stăpânul meu,",
+       "w": "Stăpânul meu,",
+       "heb": "אֲדֹנָי",
+       "translit": "adonai",
+       "strong": "H136",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "Stăpânul meu, (adonai)",
+       "dict_ro": "Formula dublă «Stăpânul meu, Domnul DUMNEZEU» pecetluiește solemnitatea maximă a instrucțiunilor care urmează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Domnul DUMNEZEU:",
+       "w": "Domnul DUMNEZEU:",
+       "heb": "יְהוִה",
+       "translit": "Adonai",
+       "strong": "H3069",
+       "pos": "nume propriu",
+       "def_ro": "Domnul DUMNEZEU: (Adonai)",
+       "dict_ro": "Formula dublă «Stăpânul meu, Domnul DUMNEZEU» pecetluiește solemnitatea maximă a instrucțiunilor care urmează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "«Acestea sunt",
+       "w": "«Acestea sunt",
+       "heb": "אֵלֶּה",
+       "translit": "ēle",
+       "strong": "H428",
+       "pos": "pronume demonstrativ",
+       "def_ro": "acestea (ēle)",
+       "dict_ro": "Edictele altarului, date exact în ziua sfințirii lui, stabilesc ritualul inaugural al jertfelor de ardere-de-tot și sânge."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "edictele",
+       "w": "edictele",
        "heb": "חֻקּוֹת",
        "translit": "hukot",
        "strong": "H2708",
        "pos": "substantiv, masculin și feminin plural construct",
-       "def_ro": "hotărârile/rânduielile altarului.",
+       "def_ro": "decretele (hukot)",
+       "dict_ro": "Edictele altarului, date exact în ziua sfințirii lui, stabilesc ritualul inaugural al jertfelor.",
        "greek": "προστάγματα τοῦ θυσιαστηρίου (prostagmata tou thysiasteriou)",
-       "greek_def_ro": "προστάγματα τοῦ θυσιαστηρίου (prostagmata tou thysiasteriou) — poruncile altarului.",
-       "dict_ro": "Chukkim, „rânduieli fixe” — de la măsurători arhitecturale, capitolul trece acum la reglementările rituale de folosire a altarului; folosirea aceluiași termen (chukkot) ca la v.11 leagă cele două secțiuni sub aceeași autoritate divină absolută."
+       "greek_def_ro": "προστάγματα τοῦ θυσιαστηρίου (prostagmata tou thysiasteriou) — poruncile altarului."
       },
       {
-       "t": " în ziua în care este făcut, pentru ca arderea-de-tot să poată fi adusă pe el și sângele să poată fi "
+       "t": " "
       },
       {
-       "t": "stropit",
-       "w": "stropit",
+       "t": "altarului",
+       "w": "altarului",
+       "heb": "הַמִּזְבֵּחַ",
+       "translit": "hamizbēah",
+       "strong": "H4196",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "altarului (hamizbēah)",
+       "dict_ro": "Edictele altarului, date exact în ziua sfințirii lui, stabilesc ritualul inaugural al jertfelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în ziua în care este făcut,",
+       "w": "în ziua în care este făcut,",
+       "heb": "בְּיוֹם הֵעָשׂוֹתוֹ",
+       "translit": "beom hēasoto",
+       "strong": "H6213",
+       "pos": "substantiv, masculin singular construct + verb, nifal infinitiv + sufix",
+       "def_ro": "în ziua facerii lui, (beom hēasoto)",
+       "dict_ro": "Edictele altarului, date exact în ziua sfințirii lui, stabilesc ritualul inaugural al jertfelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru ca arderea-de-tot",
+       "w": "pentru ca arderea-de-tot",
+       "heb": "עוֹלָה",
+       "translit": "ola",
+       "strong": "H5930",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "ardere-de-tot (ola)",
+       "dict_ro": "Prima jertfă adusă pe altarul nou marchează, simbolic, începutul slujirii sacre neîntrerupte."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să poată fi adusă",
+       "w": "să poată fi adusă",
+       "heb": "לְהַעֲלוֹת",
+       "translit": "lehaalot",
+       "strong": "H5927",
+       "pos": "verb, hifil infinitiv",
+       "def_ro": "să fie adusă (lehaalot)",
+       "dict_ro": "Prima jertfă adusă pe altarul nou marchează, simbolic, începutul slujirii sacre neîntrerupte."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe el",
+       "w": "pe el",
+       "heb": "עָלָיו",
+       "translit": "alaiv",
+       "strong": "H5921",
+       "pos": "prepoziție + sufix",
+       "def_ro": "pe el (alaiv)",
+       "dict_ro": "Prima jertfă adusă pe altarul nou marchează, simbolic, începutul slujirii sacre neîntrerupte."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și sângele",
+       "w": "și sângele",
+       "heb": "דָּם",
+       "translit": "dam",
+       "strong": "H1818",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "sânge (dam)",
+       "dict_ro": "Stropirea sângelui pe altarul nou îl consacră definitiv pentru funcția lui de ispășire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să poată fi stropit",
+       "w": "să poată fi stropit",
        "heb": "וְלִזְרֹק",
        "translit": "velizrok",
        "strong": "H2236",
        "pos": "verb, qal infinitiv",
-       "def_ro": "să fie stropit, aruncat.",
-       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest detaliu (stropirea sângelui pe altar) — nu există corespondent verificabil.",
-       "dict_ro": "Rădăcina zaraq, „a stropi, a arunca [lichid]” — termen tehnic ritual standard pentru aspersiunea sângelui jertfei pe altar (cf. Leviticul 1:5), aici aplicat pentru prima dată noului altar al Templului viitor, în ritualul de inaugurare descris în restul capitolului."
+       "def_ro": "și să fie stropit (velizrok)",
+       "dict_ro": "Stropirea sângelui pe altarul nou îl consacră definitiv pentru funcția lui de ispășire."
       },
       {
-       "t": " pe el."
+       "t": " "
+      },
+      {
+       "t": "pe el.",
+       "w": "pe el.",
+       "heb": "עָלָיו",
+       "translit": "alaiv",
+       "strong": "H5921",
+       "pos": "prepoziție + sufix",
+       "def_ro": "pe el. (alaiv)",
+       "dict_ro": "Stropirea sângelui pe altarul nou îl consacră definitiv pentru funcția lui de ispășire."
       }
      ],
      "textCompare": [
@@ -95932,60 +97221,187 @@
      "translit": "Ve-natattah el-ha-kohanim ha-levi'im asher hem mi-zera Tsadok ha-kerovim elai ne'um Adonai Elohim le-shareteni par ben-bakar le-chattat.",
      "tokens": [
       {
-       "t": "Dă-le preoților",
-       "w": "Dă-le preoților",
-       "heb": "וְנָתַתָּה אֶל הַכֹּהֲנִים",
-       "translit": "venatata el hakohanim",
+       "t": "Dă-le",
+       "w": "Dă-le",
+       "heb": "וְנָתַתָּה",
+       "translit": "venatata",
        "strong": "H5414",
-       "pos": "verb, qal perfect consecutiv + prepoziție + substantiv",
-       "def_ro": "și vei da preoților.",
-       "dict_ro": "Porunca de a preda animalul jertfei direct preoților marchează începutul ritualului de inaugurare a altarului, condus exclusiv de clasa sacerdotală autorizată."
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și vei da (venatata)",
+       "dict_ro": "Preoții leviți din seminția lui Țadok, unicii autorizați să slujească la altar, confirmă linia preoțească legitimă aleasă de DOMNUL."
       },
       {
        "t": " "
       },
       {
-       "t": "leviți",
-       "w": "leviți",
+       "t": "preoților",
+       "w": "preoților",
+       "heb": "הַכֹּהֲנִים",
+       "translit": "hakohanim",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "preoților (hakohanim)",
+       "dict_ro": "Preoții leviți din seminția lui Țadok, unicii autorizați să slujească la altar, confirmă linia preoțească legitimă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "leviți,",
+       "w": "leviți,",
        "heb": "הַלְוִיִּם",
        "translit": "halvim",
        "strong": "H3881",
        "pos": "nume de neam",
-       "def_ro": "leviții.",
+       "def_ro": "leviți, (halvim)",
+       "dict_ro": "Preoții leviți din seminția lui Țadok, unicii autorizați să slujească la altar, confirmă linia preoțească legitimă.",
        "greek": "Λευίτης (Leuites)",
-       "greek_def_ro": "Λευίτης (Leuites) — levit.",
-       "dict_ro": "Rashi precizează: preoții desemnați aici sunt cei „din tribul lui Levi” — distincția „leviți” + „din sămânța lui Țadok” fixează cu precizie categoria autorizată să slujească la noul altar, excluzând implicit alte ramuri levitice care se abătuseră spre idolatrie (cf. Ezechiel 44:10-15, unde distincția devine explicită)."
+       "greek_def_ro": "Λευίτης (Leuites) — levit."
       },
       {
-       "t": ", celor care sunt din seminția lui "
+       "t": " "
       },
       {
-       "t": "Țadok",
-       "w": "Țadok",
+       "t": "celor care",
+       "w": "celor care",
+       "heb": "אֲשֶׁר הֵם",
+       "translit": "așer hēm",
+       "strong": "H1992",
+       "pos": "particulă relativă + pronume personal",
+       "def_ro": "care ei (așer hēm)",
+       "dict_ro": "Preoții leviți din seminția lui Țadok, unicii autorizați să slujească la altar, confirmă linia preoțească legitimă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sunt din seminția lui",
+       "w": "sunt din seminția lui",
+       "heb": "מִזֶּרַע",
+       "translit": "mizera",
+       "strong": "H2233",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "din sămânța lui (mizera)",
+       "dict_ro": "Țadok, mare preot pe vremea lui David și Solomon, devine strămoșul linie preoțești legitime în viziunea lui Ezechiel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Țadok,",
+       "w": "Țadok,",
        "heb": "צָדוֹק",
        "translit": "țadok",
        "strong": "H6659",
        "pos": "nume propriu",
-       "def_ro": "Țadok.",
+       "def_ro": "Țadok, (țadok)",
+       "dict_ro": "Țadok, mare preot pe vremea lui David și Solomon, devine strămoșul linie preoțești legitime în viziunea lui Ezechiel.",
        "greek": "Σαδδούκ (Saddouk)",
-       "greek_def_ro": "Σαδδούκ (Saddouk) — Țadok.",
-       "dict_ro": "Tsadok — marele preot care a slujit primul la Templul lui Solomon (1 Împărați 1-2), loial lui David până la sfârșit, spre deosebire de Abiatar, exilat pentru infidelitate politică; Rashi explică: „pentru că a fost marele preot care a slujit primul în Templu, pe vremea lui Solomon, sunt numiți după numele lui” — linia sacerdotală legitimă poartă pentru totdeauna numele fidelității lui."
+       "greek_def_ro": "Σαδδούκ (Saddouk) — Țadok."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "care vin aproape de Mine ca să Îmi slujească – rostirea Stăpânului meu, Domnul DUMNEZEU – un tăuraș ca jertfă de păcat",
-       "w": "care vin aproape de Mine ca să Îmi slujească – rostirea Stăpânului meu, Domnul DUMNEZEU – un tăuraș ca jertfă de păcat",
-       "heb": "הַקְּרֹבִים אֵלַי נְאֻם אֲדֹנָי יֱהוִה לְשָׁרְתֵנִי פַּר בֶּן בָּקָר לְחַטָּאת",
-       "translit": "hakrovim ēlai neum adonai Adonai leșartēni par ben bakar lehatat",
+       "t": "care vin aproape",
+       "w": "care vin aproape",
+       "heb": "הַקְּרֹבִים",
+       "translit": "hakrovim",
        "strong": "H7138",
-       "pos": "adjectiv + prepoziție + sufix + substantiv construct + sufix + nume propriu + verb, piel infinitiv + sufix + substantiv + substantiv construct + substantiv + substantiv",
-       "def_ro": "cei care se apropie de Mine, rostirea Stăpânului meu, Domnul DUMNEZEU, să-Mi slujească, un tăuraș ca jertfă de păcat.",
-       "dict_ro": "Rashi explică faptul că acești preoți «din sămânța lui Țadoc» sunt numiți așa pentru că Țadoc a fost marele preot care a slujit cel dintâi în Templu, în zilele lui Solomon — linia preoțească legitimă e definită explicit prin descendența lui."
+       "pos": "adjectiv, masculin plural",
+       "def_ro": "cei apropiați (hakrovim)",
+       "dict_ro": "Doar preoții sadokiți, cei «care se apropie» de DOMNUL ca să-I slujească, au dreptul la jertfa inaugurală a altarului."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "de Mine",
+       "w": "de Mine",
+       "heb": "אֵלַי",
+       "translit": "ēlai",
+       "strong": "H413",
+       "pos": "prepoziție + sufix",
+       "def_ro": "de Mine (ēlai)",
+       "dict_ro": "Doar preoții sadokiți, cei «care se apropie» de DOMNUL ca să-I slujească, au dreptul la jertfa inaugurală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca să Îmi slujească",
+       "w": "ca să Îmi slujească",
+       "heb": "לְשָׁרְתֵנִי",
+       "translit": "leșartēni",
+       "strong": "H8334",
+       "pos": "verb, piel infinitiv + sufix",
+       "def_ro": "să-Mi slujească (leșartēni)",
+       "dict_ro": "Doar preoții sadokiți, cei «care se apropie» de DOMNUL ca să-I slujească, au dreptul la jertfa inaugurală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea Stăpânului meu, Domnul DUMNEZEU» pecetluiește solemn porunca jertfei de curățire a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Stăpânului meu,",
+       "w": "Stăpânului meu,",
+       "heb": "אֲדֹנָי",
+       "translit": "adonai",
+       "strong": "H136",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "Stăpânului meu, (adonai)",
+       "dict_ro": "Formula «rostirea Stăpânului meu, Domnul DUMNEZEU» pecetluiește solemn porunca jertfei de curățire a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Domnul DUMNEZEU –",
+       "w": "Domnul DUMNEZEU –",
+       "heb": "יְהוִה",
+       "translit": "Adonai",
+       "strong": "H3069",
+       "pos": "nume propriu",
+       "def_ro": "Domnul DUMNEZEU – (Adonai)",
+       "dict_ro": "Formula «rostirea Stăpânului meu, Domnul DUMNEZEU» pecetluiește solemn porunca jertfei de curățire a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "un tăuraș",
+       "w": "un tăuraș",
+       "heb": "פַּר בֶּן בָּקָר",
+       "translit": "par ben bakar",
+       "strong": "H1241",
+       "pos": "substantiv, masculin singular + substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "un tăuraș, fiul vitelor (par ben bakar)",
+       "dict_ro": "Tăurașul, prima jertfă de păcat pentru altarul nou, deschide seria rituală de curățire și inaugurare."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca jertfă de păcat.",
+       "w": "ca jertfă de păcat.",
+       "heb": "לְחַטָּאת",
+       "translit": "lehatat",
+       "strong": "H2403",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "ca jertfă de păcat. (lehatat)",
+       "dict_ro": "Tăurașul, prima jertfă de păcat pentru altarul nou, deschide seria rituală de curățire și inaugurare."
       }
      ],
      "textCompare": [
@@ -96025,14 +97441,53 @@
      "translit": "Ve-lakachta mi-damo ve-natattah al-arba karnotav ve-el-arba pinnot ha-azarah ve-el-ha-gevul saviv ve-chitte'ta oto ve-khippartahu.",
      "tokens": [
       {
-       "t": "Și ia din sângele lui și pune-l pe cele patru",
-       "w": "Și ia din sângele lui și pune-l pe cele patru",
-       "heb": "וְלָקַחְתָּ מִדָּמוֹ וְנָתַתָּה עַל אַרְבַּע",
-       "translit": "velakahta midamo venatata al arba",
+       "t": "Și ia",
+       "w": "Și ia",
+       "heb": "וְלָקַחְתָּ",
+       "translit": "velakahta",
        "strong": "H3947",
-       "pos": "verb, qal perfect consecutiv + substantiv construct + sufix + verb, qal perfect consecutiv + prepoziție + numeral",
-       "def_ro": "și vei lua din sângele lui și vei pune pe cele patru.",
-       "dict_ro": "Rashi explică faptul că ungerea coarnelor altarului cu sânge are scopul de a-l curăți de starea lui obișnuită, aducându-l în sfințenie, ca să fie vrednic să se facă pe el ispășire de acum înainte."
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și vei lua (velakahta)",
+       "dict_ro": "Stropirea sângelui pe cele patru coarne, pe colțurile Azarei și pe margine acoperă simbolic întreaga structură a altarului cu puterea ispășitoare a jertfei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din sângele lui",
+       "w": "din sângele lui",
+       "heb": "מִדָּמוֹ",
+       "translit": "midamo",
+       "strong": "H1818",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "din sângele lui (midamo)",
+       "dict_ro": "Stropirea sângelui pe cele patru coarne, pe colțurile Azarei și pe margine acoperă simbolic întreaga structură a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și pune-l",
+       "w": "și pune-l",
+       "heb": "וְנָתַתָּה",
+       "translit": "venatata",
+       "strong": "H5414",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și vei pune (venatata)",
+       "dict_ro": "Stropirea sângelui pe cele patru coarne, pe colțurile Azarei și pe margine acoperă simbolic întreaga structură a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe cele patru",
+       "w": "pe cele patru",
+       "heb": "עַל אַרְבַּע",
+       "translit": "al arba",
+       "strong": "H702",
+       "pos": "prepoziție + numeral",
+       "def_ro": "pe cele patru (al arba)",
+       "dict_ro": "Stropirea sângelui pe cele patru coarne, pe colțurile Azarei și pe margine acoperă simbolic întreaga structură a altarului."
       },
       {
        "t": " "
@@ -96044,27 +97499,101 @@
        "translit": "karnotaiv",
        "strong": "H7161",
        "pos": "substantiv, masculin și feminin plural construct + sufix",
-       "def_ro": "coarnele lui.",
+       "def_ro": "coarnele lui (karnotaiv)",
+       "dict_ro": "Stropirea sângelui pe cele patru coarne, pe colțurile Azarei și pe margine acoperă simbolic întreaga structură a altarului.",
        "greek": "κέρατα (kerata)",
-       "greek_def_ro": "κέρατα (kerata) — coarne.",
-       "dict_ro": "Keren, „corn” — proeminențele de la cele patru colțuri superioare ale altarului, folosite ritual pentru aspersiunea sângelui (cf. Exodul 27:2, 29:12), aceleași elemente arhitecturale menționate deja la v.15 în contextul măsurătorilor generale."
+       "greek_def_ro": "κέρατα (kerata) — coarne."
       },
       {
-       "t": " și pe cele patru colțuri ale Azarei și pe marginea [altarului], de jur împrejur, și [astfel] îl vei "
+       "t": " "
       },
       {
-       "t": "curăța",
-       "w": "curăța",
-       "heb": "וְחִטֵּאתָ",
-       "translit": "vehitēta",
-       "strong": "H2398",
-       "pos": "verb, piel perfect consecutiv",
-       "def_ro": "și-l vei purifica ritual.",
-       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest detaliu (curățirea altarului de păcat) — nu există corespondent verificabil.",
-       "dict_ro": "Rashi explică sensul practic: „îl vei curăța de calea lui obișnuită [profană], pentru a-l aduce în sfințenie, ca să fie vrednic să ispășească pe el, de acum înainte” — actul sângelui nu decorativ, ci transformă statutul ontologic al altarului, din obiect construit în vas sfânt funcțional."
+       "t": "și pe cele patru",
+       "w": "și pe cele patru",
+       "heb": "וְאֶל אַרְבַּע",
+       "translit": "veel arba",
+       "strong": "H702",
+       "pos": "prepoziție + numeral",
+       "def_ro": "și pe cele patru (veel arba)",
+       "dict_ro": "Stropirea sângelui pe cele patru coarne, pe colțurile Azarei și pe margine acoperă simbolic întreaga structură a altarului."
       },
       {
-       "t": " și vei face ispășire pentru el."
+       "t": " "
+      },
+      {
+       "t": "colțuri ale",
+       "w": "colțuri ale",
+       "heb": "פִּנּוֹת",
+       "translit": "pinot",
+       "strong": "H6438",
+       "pos": "substantiv, feminin plural construct",
+       "def_ro": "colțurile (pinot)",
+       "dict_ro": "Stropirea sângelui pe cele patru coarne, pe colțurile Azarei și pe margine acoperă simbolic întreaga structură a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Azarei",
+       "w": "Azarei",
+       "heb": "הָעֲזָרָה",
+       "translit": "haazara",
+       "strong": "H5835",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "Azarei (haazara)",
+       "dict_ro": "Stropirea sângelui pe cele patru coarne, pe colțurile Azarei și pe margine acoperă simbolic întreaga structură a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și pe marginea [altarului],",
+       "w": "și pe marginea [altarului],",
+       "heb": "וְאֶל הַגְּבוּל",
+       "translit": "veel hagvul",
+       "strong": "H1366",
+       "pos": "prepoziție + substantiv, masculin singular",
+       "def_ro": "și pe marginea (veel hagvul)",
+       "dict_ro": "Stropirea sângelui pe cele patru coarne, pe colțurile Azarei și pe margine acoperă simbolic întreaga structură a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de jur împrejur,",
+       "w": "de jur împrejur,",
+       "heb": "סָבִיב",
+       "translit": "saviv",
+       "strong": "H5439",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "de jur împrejur, (saviv)",
+       "dict_ro": "Stropirea sângelui pe cele patru coarne, pe colțurile Azarei și pe margine acoperă simbolic întreaga structură a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și [astfel] îl vei curăța",
+       "w": "și [astfel] îl vei curăța",
+       "heb": "וְחִטֵּאתָ אוֹתוֹ",
+       "translit": "vehitēta oto",
+       "strong": "H853",
+       "pos": "verb, piel perfect consecutiv + marcă a complementului direct + sufix",
+       "def_ro": "și-l vei curăța (vehitēta oto)",
+       "dict_ro": "Curățirea și ispășirea altarului, prin sângele jertfei, îl pregătesc pentru funcția lui sacră permanentă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și vei face ispășire pentru el.",
+       "w": "și vei face ispășire pentru el.",
+       "heb": "וְכִפַּרְתָּהוּ",
+       "translit": "vehipartahu",
+       "strong": "H3722",
+       "pos": "verb, piel perfect consecutiv + sufix",
+       "def_ro": "și vei face ispășire pentru el. (vehipartahu)",
+       "dict_ro": "Curățirea și ispășirea altarului, prin sângele jertfei, îl pregătesc pentru funcția lui sacră permanentă."
       }
      ],
      "textCompare": [
@@ -96104,22 +97633,107 @@
      "translit": "Ve-lakachta et ha-par ha-chattat u-serafo be-mifkad ha-bayit michuts la-mikdash.",
      "tokens": [
       {
-       "t": "Și să iei această jertfă de păcat și să o arzi la "
+       "t": "Și să iei",
+       "w": "Și să iei",
+       "heb": "וְלָקַחְתָּ",
+       "translit": "velakahta",
+       "strong": "H3947",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și vei lua (velakahta)",
+       "dict_ro": "Arderea tăurașului în afara Sanctuarului, la locul desemnat, respectă regula generală a jertfelor de păcat ale preoției."
       },
       {
-       "t": "capătul Templului",
-       "w": "capătul Templului",
+       "t": " "
+      },
+      {
+       "t": "această jertfă",
+       "w": "această jertfă",
+       "heb": "הַפָּר",
+       "translit": "hapar",
+       "strong": "H6499",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "tăurașul (hapar)",
+       "dict_ro": "Arderea tăurașului în afara Sanctuarului, la locul desemnat, respectă regula generală a jertfelor de păcat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de păcat",
+       "w": "de păcat",
+       "heb": "הַחַטָּאת",
+       "translit": "hahatat",
+       "strong": "H2403",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "de păcat (hahatat)",
+       "dict_ro": "Arderea tăurașului în afara Sanctuarului, la locul desemnat, respectă regula generală a jertfelor de păcat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să o arzi",
+       "w": "și să o arzi",
+       "heb": "וּשְׂרָפוֹ",
+       "translit": "usrafo",
+       "strong": "H8313",
+       "pos": "verb, qal perfect consecutiv + sufix",
+       "def_ro": "și-l vei arde (usrafo)",
+       "dict_ro": "Arderea tăurașului în afara Sanctuarului, la locul desemnat, respectă regula generală a jertfelor de păcat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la capătul",
+       "w": "la capătul",
        "heb": "בְּמִפְקַד",
        "translit": "bemifkad",
        "strong": "H4662",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "la locul rânduit al Templului.",
+       "def_ro": "la locul (bemifkad)",
+       "dict_ro": "Arderea tăurașului în afara Sanctuarului, la locul desemnat, respectă regula generală a jertfelor de păcat.",
        "greek": "ἀποχωρίζομαι (apochorizomai)",
-       "greek_def_ro": "ἀποχωρίζομαι (apochorizomai) — loc separat, pus deoparte.",
-       "dict_ro": "Mifkad — Rashi citează Targumul lui Ionatan: „la locul rânduit al casei”, un loc desemnat anume, în afara zonei sfinte, pentru arderea completă a jertfei de păcat inaugurale — ecou al practicii deja stabilite în Tora pentru anumite jertfe de păcat ale căror rămășițe trebuiau arse „afară din tabără” (Leviticul 4:12)."
+       "greek_def_ro": "ἀποχωρίζομαι (apochorizomai) — loc separat, pus deoparte."
       },
       {
-       "t": ", în afara Sanctuarului."
+       "t": " "
+      },
+      {
+       "t": "Templului,",
+       "w": "Templului,",
+       "heb": "הַבַּיִת",
+       "translit": "habait",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Templului, (habait)",
+       "dict_ro": "Arderea tăurașului în afara Sanctuarului, la locul desemnat, respectă regula generală a jertfelor de păcat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în afara",
+       "w": "în afara",
+       "heb": "מִחוּץ",
+       "translit": "mihuț",
+       "strong": "H2351",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "în afara (mihuț)",
+       "dict_ro": "Arderea tăurașului în afara Sanctuarului, la locul desemnat, respectă regula generală a jertfelor de păcat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Sanctuarului.",
+       "w": "Sanctuarului.",
+       "heb": "לַמִּקְדָּשׁ",
+       "translit": "lamikdaș",
+       "strong": "H4720",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "Sanctuarului. (lamikdaș)",
+       "dict_ro": "Arderea tăurașului în afara Sanctuarului, la locul desemnat, respectă regula generală a jertfelor de păcat."
       }
      ],
      "textCompare": [
@@ -96157,36 +97771,120 @@
      "translit": "U-va-yom ha-sheni takriv se'ir-izzim tamim le-chattat ve-chitte'u et-ha-mizbe'ach ka'asher chitte'u ba-par.",
      "tokens": [
       {
-       "t": "Iar a doua zi să aduci un "
+       "t": "Iar a doua",
+       "w": "Iar a doua",
+       "heb": "וּבַיּוֹם הַשֵּׁנִי",
+       "translit": "uvaiom hașēni",
+       "strong": "H8145",
+       "pos": "substantiv, masculin singular + numeral ordinal",
+       "def_ro": "și în ziua a doua (uvaiom hașēni)",
+       "dict_ro": "Jertfa succesivă cu un țap, a doua zi, repetă ritualul de curățire pentru a confirma definitiv sfințirea altarului."
       },
       {
-       "t": "țap fără meteahnă",
-       "w": "țap fără meteahnă",
-       "heb": "שְׂעִיר",
-       "translit": "seir",
-       "strong": "H8163",
-       "pos": "substantiv, masculin singular construct",
-       "def_ro": "țap din capre, fără meteahnă.",
-       "diff_ro": "Divergență numerică: Septuaginta are „ἐρίφους δύο αἰγῶν\" („DOI iezi de capre\"), nu „un țap\" singular ca în ebraică.",
-       "dict_ro": "Tamim, „fără meteahnă, întreg” — standard obligatoriu pentru orice animal de jertfă în toată Tora (Leviticul 22:19-21); ritualul de inaugurare se întinde pe două zile distincte, cu jertfe diferite (tăuraș, apoi țap), reflectând un proces gradual de sfințire, nu un act instantaneu."
+       "t": " "
       },
       {
-       "t": " ca jertfă de păcat și ei să "
+       "t": "zi să aduci",
+       "w": "zi să aduci",
+       "heb": "תַּקְרִיב",
+       "translit": "takriv",
+       "strong": "H7126",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "vei aduce (takriv)",
+       "dict_ro": "Jertfa succesivă cu un țap, a doua zi, repetă ritualul de curățire pentru a confirma definitiv sfințirea altarului."
       },
       {
-       "t": "curețe",
-       "w": "curețe",
+       "t": " "
+      },
+      {
+       "t": "un țap",
+       "w": "un țap",
+       "heb": "שְׂעִיר עִזִּים",
+       "translit": "seir izim",
+       "strong": "H5795",
+       "pos": "substantiv, masculin singular construct + substantiv, feminin plural",
+       "def_ro": "un țap de capre (seir izim)",
+       "dict_ro": "Jertfa succesivă cu un țap, a doua zi, repetă ritualul de curățire pentru a confirma definitiv sfințirea altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fără meteahnă",
+       "w": "fără meteahnă",
+       "heb": "תָּמִים",
+       "translit": "tamim",
+       "strong": "H8549",
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "fără meteahnă (tamim)",
+       "dict_ro": "Jertfa succesivă cu un țap, a doua zi, repetă ritualul de curățire pentru a confirma definitiv sfințirea altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca jertfă de păcat",
+       "w": "ca jertfă de păcat",
+       "heb": "לְחַטָּאת",
+       "translit": "lehatat",
+       "strong": "H2403",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "ca jertfă de păcat (lehatat)",
+       "dict_ro": "Jertfa succesivă cu un țap, a doua zi, repetă ritualul de curățire pentru a confirma definitiv sfințirea altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și ei să curețe",
+       "w": "și ei să curețe",
        "heb": "וְחִטְּאוּ",
        "translit": "vehitu",
        "strong": "H2398",
        "pos": "verb, piel perfect consecutiv",
-       "def_ro": "și vor purifica ritual.",
+       "def_ro": "și vor curăța (vehitu)",
+       "dict_ro": "Jertfa succesivă cu un țap, a doua zi, repetă ritualul de curățire pentru a confirma definitiv sfințirea altarului.",
        "greek": "ἐξιλάσκομαι (exilaskomai)",
-       "greek_def_ro": "ἐξιλάσκομαι (exilaskomai) — a ispăși, a curăța ritual.",
-       "dict_ro": "Aceeași rădăcină chata de la v.20, dar la plural (preoții, nu doar Ezechiel) — a doua zi de ritual repetă procesul de purificare, consolidând sfințenia altarului printr-o secvență de zile, nu o singură acțiune izolată."
+       "greek_def_ro": "ἐξιλάσκομαι (exilaskomai) — a ispăși, a curăța ritual."
       },
       {
-       "t": " altarul pe care l-au curățit cu taurul."
+       "t": " "
+      },
+      {
+       "t": "altarul",
+       "w": "altarul",
+       "heb": "הַמִּזְבֵּחַ",
+       "translit": "hamizbēah",
+       "strong": "H4196",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "altarul (hamizbēah)",
+       "dict_ro": "Jertfa succesivă cu un țap, a doua zi, repetă ritualul de curățire pentru a confirma definitiv sfințirea altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe care l-au curățit",
+       "w": "pe care l-au curățit",
+       "heb": "כַּאֲשֶׁר חִטְּאוּ",
+       "translit": "kaașer hitu",
+       "strong": "H2398",
+       "pos": "particulă relativă + verb, piel perfect",
+       "def_ro": "precum au curățit (kaașer hitu)",
+       "dict_ro": "Repetarea exactă a procedurii de curățire cu taurul confirmă consecvența ritualului inaugural."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu taurul.",
+       "w": "cu taurul.",
+       "heb": "בַּפָּר",
+       "translit": "bapar",
+       "strong": "H6499",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "cu taurul. (bapar)",
+       "dict_ro": "Repetarea exactă a procedurii de curățire cu taurul confirmă consecvența ritualului inaugural."
       }
      ],
      "textCompare": [
@@ -96230,32 +97928,120 @@
      "translit": "Be-khalotekha me-chatte takriv par ben-bakar tamim ve-ayil min-ha-tson tamim.",
      "tokens": [
       {
-       "t": "Atunci când vei fi isprăvit [curățirea] de păcate, să aduci un tăuraș fără meteahnă, și un",
-       "w": "Atunci când vei fi isprăvit [curățirea] de păcate, să aduci un tăuraș fără meteahnă, și un",
-       "heb": "בְּכַלּוֹתְךָ מֵחַטֵּא תַּקְרִיב פַּר בֶּן בָּקָר תָּמִים וְאַיִל",
-       "translit": "behalotha mēhatē takriv par ben bakar tamim veail",
+       "t": "Atunci când vei fi isprăvit [curățirea]",
+       "w": "Atunci când vei fi isprăvit [curățirea]",
+       "heb": "בְּכַלּוֹתְךָ",
+       "translit": "behalotha",
        "strong": "H3615",
-       "pos": "verb, piel infinitiv + sufix + verb, piel infinitiv + verb, hifil imperfect + substantiv + substantiv construct + substantiv + adjectiv + substantiv",
-       "def_ro": "când vei fi isprăvit de curățit, vei aduce un tăuraș fără meteahnă și un berbec.",
-       "dict_ro": "Radak notează că această a doua etapă a curățirii, cu tăuraș și berbec împreună, nu are precedent în rânduiala de la Cortul Întâlnirii din zilele lui Moise — o înnoire rituală specifică Templului viitor."
+       "pos": "verb, piel infinitiv + sufix",
+       "def_ro": "la încheierea ta (behalotha)",
+       "dict_ro": "Jertfele finale, de păcat, cu tăuraș și berbec amândoi fără meteahnă, completează șapte zile de curățire inaugurală a altarului."
       },
       {
        "t": " "
       },
       {
-       "t": "berbec",
-       "w": "berbec",
+       "t": "de păcate,",
+       "w": "de păcate,",
+       "heb": "מֵחַטֵּא",
+       "translit": "mēhatē",
+       "strong": "H2398",
+       "pos": "verb, piel infinitiv",
+       "def_ro": "de curățire de păcat, (mēhatē)",
+       "dict_ro": "Jertfele finale, de păcat, cu tăuraș și berbec amândoi fără meteahnă, completează curățirea inaugurală a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să aduci",
+       "w": "să aduci",
+       "heb": "תַּקְרִיב",
+       "translit": "takriv",
+       "strong": "H7126",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "vei aduce (takriv)",
+       "dict_ro": "Jertfele finale, de păcat, cu tăuraș și berbec amândoi fără meteahnă, completează curățirea inaugurală a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "un tăuraș",
+       "w": "un tăuraș",
+       "heb": "פַּר בֶּן בָּקָר",
+       "translit": "par ben bakar",
+       "strong": "H1241",
+       "pos": "substantiv, masculin singular + substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "un tăuraș, fiul vitelor (par ben bakar)",
+       "dict_ro": "Jertfele finale, de păcat, cu tăuraș și berbec amândoi fără meteahnă, completează curățirea inaugurală a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fără meteahnă,",
+       "w": "fără meteahnă,",
+       "heb": "תָּמִים",
+       "translit": "tamim",
+       "strong": "H8549",
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "fără meteahnă, (tamim)",
+       "dict_ro": "Jertfele finale, de păcat, cu tăuraș și berbec amândoi fără meteahnă, completează curățirea inaugurală a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și un berbec",
+       "w": "și un berbec",
        "heb": "וְאַיִל",
        "translit": "veail",
        "strong": "H352",
        "pos": "substantiv, masculin singular",
-       "def_ro": "berbec.",
+       "def_ro": "și un berbec (veail)",
+       "dict_ro": "Jertfele finale, de păcat, cu tăuraș și berbec amândoi fără meteahnă, completează curățirea inaugurală a altarului.",
        "greek": "κριός (krios)",
-       "greek_def_ro": "κριός (krios) — berbec.",
-       "dict_ro": "Ayil — după cele două zile de jertfe de păcat (tăuraș, apoi țap), ritualul progresează spre o nouă etapă: jertfe combinate de tăuraș și berbec, marcând trecerea de la purificare la consacrarea propriu-zisă a altarului pentru funcția lui permanentă."
+       "greek_def_ro": "κριός (krios) — berbec."
       },
       {
-       "t": " din turmă fără meteahnă."
+       "t": " "
+      },
+      {
+       "t": "din",
+       "w": "din",
+       "heb": "מִן",
+       "translit": "min",
+       "strong": "H4480",
+       "pos": "prepoziție",
+       "def_ro": "din (min)",
+       "dict_ro": "Jertfele finale, de păcat, cu tăuraș și berbec amândoi fără meteahnă, completează curățirea inaugurală a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "turmă",
+       "w": "turmă",
+       "heb": "הַצֹּאן",
+       "translit": "hațon",
+       "strong": "H6629",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "turmă (hațon)",
+       "dict_ro": "Jertfele finale, de păcat, cu tăuraș și berbec amândoi fără meteahnă, completează curățirea inaugurală a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fără meteahnă.",
+       "w": "fără meteahnă.",
+       "heb": "תָּמִים",
+       "translit": "tamim",
+       "strong": "H8549",
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "fără meteahnă. (tamim)",
+       "dict_ro": "Jertfele finale, de păcat, cu tăuraș și berbec amândoi fără meteahnă, completează curățirea inaugurală a altarului."
       }
      ],
      "textCompare": [
@@ -96288,14 +98074,66 @@
      "translit": "Ve-hikravtam lifnei Adonai ve-hishlikhu ha-kohanim aleihem melach ve-he'elu otam olah l-Adonai.",
      "tokens": [
       {
-       "t": "Să îi apropii înaintea DOMNULUI și preoții să arunce",
-       "w": "Să îi apropii înaintea DOMNULUI și preoții să arunce",
-       "heb": "וְהִקְרַבְתָּם לִפְנֵי יְהוָה וְהִשְׁלִיכוּ הַכֹּהֲנִים עֲלֵיהֶם",
-       "translit": "vehikravtam lifnē Adonai vehișlihu hakohanim alēhem",
+       "t": "Să îi apropii",
+       "w": "Să îi apropii",
+       "heb": "וְהִקְרַבְתָּם",
+       "translit": "vehikravtam",
        "strong": "H7126",
-       "pos": "verb, hifil perfect consecutiv + sufix + substantiv construct + nume propriu + verb, hifil perfect consecutiv + substantiv + prepoziție + sufix",
-       "def_ro": "și le vei apropia înaintea DOMNULUI și preoții vor arunca peste ele.",
-       "dict_ro": "Radak leagă aruncarea sării peste jertfe direct de porunca Torei: «la toate darurile tale să aduci sare» (Levitic 2:13) — ritualul altarului viitor respectă exact rânduiala originară a jertfelor."
+       "pos": "verb, hifil perfect consecutiv + sufix",
+       "def_ro": "și le vei apropia (vehikravtam)",
+       "dict_ro": "Aducerea jertfelor «înaintea DOMNULUI» și presărarea sării confirmă deplinătatea rituală a ofrandei de ardere-de-tot."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "înaintea",
+       "w": "înaintea",
+       "heb": "לִפְנֵי",
+       "translit": "lifnē",
+       "strong": "H6440",
+       "pos": "substantiv, masculin și feminin plural construct",
+       "def_ro": "înaintea (lifnē)",
+       "dict_ro": "Aducerea jertfelor «înaintea DOMNULUI» și presărarea sării confirmă deplinătatea rituală a ofrandei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Aducerea jertfelor «înaintea DOMNULUI» și presărarea sării confirmă deplinătatea rituală a ofrandei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și preoții",
+       "w": "și preoții",
+       "heb": "הַכֹּהֲנִים",
+       "translit": "hakohanim",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "preoții (hakohanim)",
+       "dict_ro": "Sarea, element obligatoriu al jertfelor (vezi Levitic 2:13), simbolizează legământul neschimbător al preoției."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să arunce",
+       "w": "să arunce",
+       "heb": "וְהִשְׁלִיכוּ",
+       "translit": "vehișlihu",
+       "strong": "H7993",
+       "pos": "verb, hifil perfect consecutiv",
+       "def_ro": "și vor arunca (vehișlihu)",
+       "dict_ro": "Sarea, element obligatoriu al jertfelor, simbolizează legământul neschimbător al preoției."
       },
       {
        "t": " "
@@ -96307,28 +98145,64 @@
        "translit": "melah",
        "strong": "H4417",
        "pos": "substantiv, masculin singular",
-       "def_ro": "sare.",
+       "def_ro": "sare (melah)",
+       "dict_ro": "Sarea, element obligatoriu al jertfelor, simbolizează legământul neschimbător al preoției.",
        "greek": "ἅλας (halas)",
-       "greek_def_ro": "ἅλας (halas) — sare.",
-       "dict_ro": "Melach — element ritual obligatoriu pentru orice jertfă, poruncit explicit în Tora ca „legământ de sare”, un simbol de permanență și incoruptibilitate (Leviticul 2:13); revenirea acestei prescripții aici, în viziunea Templului viitor, confirmă continuitatea deplină între ritualul mozaic și cel restaurat."
+       "greek_def_ro": "ἅλας (halas) — sare."
       },
       {
-       "t": " pe [jertfe] și să îi aducă ca "
+       "t": " "
       },
       {
-       "t": "ardere-de-tot",
-       "w": "ardere-de-tot",
+       "t": "pe [jertfe]",
+       "w": "pe [jertfe]",
+       "heb": "עֲלֵיהֶם",
+       "translit": "alēhem",
+       "strong": "H5921",
+       "pos": "prepoziție + sufix",
+       "def_ro": "peste ele (alēhem)",
+       "dict_ro": "Sarea, element obligatoriu al jertfelor, simbolizează legământul neschimbător al preoției."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să îi aducă",
+       "w": "și să îi aducă",
+       "heb": "וְהֶעֱלוּ אוֹתָם",
+       "translit": "veheelu otam",
+       "strong": "H853",
+       "pos": "verb, hifil perfect consecutiv + marcă a complementului direct + sufix",
+       "def_ro": "și le vor înălța (veheelu otam)",
+       "dict_ro": "Aducerea jertfelor «înaintea DOMNULUI» confirmă deplinătatea rituală a ofrandei de ardere-de-tot."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca ardere-de-tot",
+       "w": "ca ardere-de-tot",
        "heb": "עֹלָה",
        "translit": "ola",
        "strong": "H5930",
        "pos": "substantiv, feminin singular",
-       "def_ro": "ardere de tot.",
+       "def_ro": "ardere-de-tot (ola)",
+       "dict_ro": "Aducerea jertfelor «înaintea DOMNULUI» confirmă deplinătatea rituală a ofrandei de ardere-de-tot.",
        "greek": "ὁλοκαύτωμα (holokautoma)",
-       "greek_def_ro": "ὁλοκαύτωμα (holokautoma) — ardere-de-tot.",
-       "dict_ro": "Olah, „ardere de tot” — de la rădăcina alah, „a se ridica”, jertfa complet mistuită de foc, al cărei fum „se ridică” în întregime spre cer, fără nicio parte reținută pentru consum uman — cea mai deplină formă de dăruire rituală."
+       "greek_def_ro": "ὁλοκαύτωμα (holokautoma) — ardere-de-tot."
       },
       {
-       "t": " DOMNULUI."
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "לַיהוָה",
+       "translit": "la'Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI. (la'Adonai)",
+       "dict_ro": "Aducerea jertfelor «înaintea DOMNULUI» confirmă deplinătatea rituală a ofrandei de ardere-de-tot."
       }
      ],
      "textCompare": [
@@ -96376,15 +98250,142 @@
        "w": "Șapte zile",
        "heb": "שִׁבְעַת יָמִים",
        "translit": "șivat iamim",
-       "strong": "H7651",
+       "strong": "H3117",
        "pos": "numeral + substantiv, masculin plural",
-       "def_ro": "șapte zile.",
+       "def_ro": "șapte zile (șivat iamim)",
+       "dict_ro": "Perioada de șapte zile de jertfe repetate, identică pentru altar ca pentru preoți (Levitic 8), confirmă paralela cu sfințirea Tabernacolului lui Moise.",
        "greek": "ἑπτὰ ἡμέρας (hepta hemeras)",
-       "greek_def_ro": "ἑπτὰ ἡμέρας (hepta hemeras) — șapte zile.",
-       "dict_ro": "Perioadă simbolică standard pentru orice ceremonie majoră de consacrare în Tora — aceeași durată ca cea de la consacrarea preoților în Levitic 8-9, subliniind paralela deliberată dintre consacrarea altarului viitor și tiparul original mozaic al consacrării Cortului Întâlnirii."
+       "greek_def_ro": "ἑπτὰ ἡμέρας (hepta hemeras) — șapte zile."
       },
       {
-       "t": " să faci un țap ca jertfă de păcat pentru fiecare zi, și ei să pregătească un tăuraș fără meteahnă și un berbec din turme."
+       "t": " "
+      },
+      {
+       "t": "să faci",
+       "w": "să faci",
+       "heb": "תַּעֲשֶׂה",
+       "translit": "taase",
+       "strong": "H6213",
+       "pos": "verb, qal imperfect",
+       "def_ro": "vei face (taase)",
+       "dict_ro": "Perioada de șapte zile de jertfe repetate confirmă paralela cu sfințirea Tabernacolului lui Moise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "un țap",
+       "w": "un țap",
+       "heb": "שְׂעִיר",
+       "translit": "seir",
+       "strong": "H8163",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "un țap (seir)",
+       "dict_ro": "Perioada de șapte zile de jertfe repetate confirmă paralela cu sfințirea Tabernacolului lui Moise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca jertfă de păcat",
+       "w": "ca jertfă de păcat",
+       "heb": "חַטָּאת",
+       "translit": "hatat",
+       "strong": "H2403",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "de păcat (hatat)",
+       "dict_ro": "Perioada de șapte zile de jertfe repetate confirmă paralela cu sfințirea Tabernacolului lui Moise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru fiecare zi,",
+       "w": "pentru fiecare zi,",
+       "heb": "לַיּוֹם",
+       "translit": "laiom",
+       "strong": "H3117",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "pentru fiecare zi, (laiom)",
+       "dict_ro": "Perioada de șapte zile de jertfe repetate confirmă paralela cu sfințirea Tabernacolului lui Moise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și ei să pregătească",
+       "w": "și ei să pregătească",
+       "heb": "יַעֲשׂוּ",
+       "translit": "iaasu",
+       "strong": "H6213",
+       "pos": "verb, qal imperfect",
+       "def_ro": "vor face (iaasu)",
+       "dict_ro": "Perioada de șapte zile de jertfe repetate confirmă paralela cu sfințirea Tabernacolului lui Moise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "un tăuraș",
+       "w": "un tăuraș",
+       "heb": "וּפַר בֶּן בָּקָר",
+       "translit": "ufar ben bakar",
+       "strong": "H1241",
+       "pos": "substantiv, masculin singular + substantiv, masculin singular construct + substantiv, masculin și feminin singular",
+       "def_ro": "și un tăuraș, fiul vitelor (ufar ben bakar)",
+       "dict_ro": "Perioada de șapte zile de jertfe repetate confirmă paralela cu sfințirea Tabernacolului lui Moise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fără meteahnă",
+       "w": "fără meteahnă",
+       "heb": "תְּמִימִים",
+       "translit": "temimim",
+       "strong": "H8549",
+       "pos": "adjectiv, masculin plural",
+       "def_ro": "fără meteahnă (temimim)",
+       "dict_ro": "Perioada de șapte zile de jertfe repetate confirmă paralela cu sfințirea Tabernacolului lui Moise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și un berbec",
+       "w": "și un berbec",
+       "heb": "וְאַיִל",
+       "translit": "veail",
+       "strong": "H352",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și un berbec (veail)",
+       "dict_ro": "Perioada de șapte zile de jertfe repetate confirmă paralela cu sfințirea Tabernacolului lui Moise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din",
+       "w": "din",
+       "heb": "מִן",
+       "translit": "min",
+       "strong": "H4480",
+       "pos": "prepoziție",
+       "def_ro": "din (min)",
+       "dict_ro": "Perioada de șapte zile de jertfe repetate confirmă paralela cu sfințirea Tabernacolului lui Moise."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "turme.",
+       "w": "turme.",
+       "heb": "הַצֹּאן",
+       "translit": "hațon",
+       "strong": "H6629",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "turmă. (hațon)",
+       "dict_ro": "Perioada de șapte zile de jertfe repetate confirmă paralela cu sfințirea Tabernacolului lui Moise."
       }
      ],
      "textCompare": [
@@ -96428,32 +98429,66 @@
      "translit": "Shiv'at yamim yekhapperu et-ha-mizbe'ach ve-tiharu oto u-mile'u yado.",
      "tokens": [
       {
-       "t": "Șapte zile să facă ispășire pentru altar și să-l curețe și să-l",
-       "w": "Șapte zile să facă ispășire pentru altar și să-l curețe și să-l",
-       "heb": "שִׁבְעַת יָמִים יְכַפְּרוּ אֶת הַמִּזְבֵּחַ וְטִהֲרוּ אֹתוֹ וּמִלְאוּ",
-       "translit": "șivat iamim iehapru et hamizbēah vetiharu oto umilu",
-       "strong": "H7651",
-       "pos": "numeral + substantiv + verb, piel imperfect + marcă a complementului direct + substantiv + verb, piel perfect consecutiv + sufix + verb, piel perfect consecutiv",
-       "def_ro": "șapte zile vor face ispășire pentru altar și îl vor curăți și îi vor umple.",
-       "dict_ro": "Radak explică faptul că altarul trebuie curățit pentru că fusese pângărit de mâna neamurilor țării — cele șapte zile de ispășire repetată corespund ciclului complet al sfințirii, înainte de folosirea lui obișnuită."
+       "t": "Șapte zile",
+       "w": "Șapte zile",
+       "heb": "שִׁבְעַת יָמִים",
+       "translit": "șivat iamim",
+       "strong": "H3117",
+       "pos": "numeral + substantiv, masculin plural",
+       "def_ro": "șapte zile (șivat iamim)",
+       "dict_ro": "Ispășirea, curățirea și inaugurarea altarului — toate finalizate în șapte zile — confirmă pregătirea completă pentru slujirea neîntreruptă."
       },
       {
        "t": " "
       },
       {
-       "t": "inaugureze",
-       "w": "inaugureze",
-       "heb": "וּמִלְאוּ",
-       "translit": "umilu",
-       "strong": "H4390",
-       "pos": "verb, piel perfect consecutiv",
-       "def_ro": "și-i vor umple mâna [îl vor investi].",
-       "greek": "πίμπλημι χεῖρας (pimplemi cheiras)",
-       "greek_def_ro": "πίμπλημι χεῖρας (pimplemi cheiras) — își vor umple mâinile (idiom pentru a fi învestit/consacrat).",
-       "dict_ro": "Expresie idiomatică literal „a umple mâna”, formulă tehnică standard pentru investirea în funcție/consacrare (folosită identic pentru consacrarea preoților, Exodul 29:9); aplicată aici altarului însuși, ca și cum obiectul de piatră ar fi „învestit” cu funcția lui sacră, printr-un proces solemn de șapte zile."
+       "t": "să facă ispășire",
+       "w": "să facă ispășire",
+       "heb": "יְכַפְּרוּ",
+       "translit": "iehapru",
+       "strong": "H3722",
+       "pos": "verb, piel imperfect",
+       "def_ro": "vor face ispășire (iehapru)",
+       "dict_ro": "Ispășirea, curățirea și inaugurarea altarului — toate finalizate în șapte zile."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "pentru altar",
+       "w": "pentru altar",
+       "heb": "הַמִּזְבֵּחַ",
+       "translit": "hamizbēah",
+       "strong": "H4196",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "altarul (hamizbēah)",
+       "dict_ro": "Ispășirea, curățirea și inaugurarea altarului — toate finalizate în șapte zile."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să-l curețe",
+       "w": "și să-l curețe",
+       "heb": "וְטִהֲרוּ אֹתוֹ",
+       "translit": "vetiharu oto",
+       "strong": "H853",
+       "pos": "verb, piel perfect consecutiv + marcă a complementului direct + sufix",
+       "def_ro": "și-l vor curăța (vetiharu oto)",
+       "dict_ro": "Ispășirea, curățirea și inaugurarea altarului — toate finalizate în șapte zile."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și să-l inaugureze.",
+       "w": "și să-l inaugureze.",
+       "heb": "וּמִלְאוּ יָדָיו",
+       "translit": "umilu iadaiv",
+       "strong": "H3027",
+       "pos": "verb, piel perfect consecutiv + substantiv, masculin și feminin singular construct + sufix",
+       "def_ro": "și-i vor umple mâinile. (umilu iadaiv)",
+       "dict_ro": "Expresia «a umple mâinile» e idiomul ebraic pentru instalarea solemnă în funcția preoțească sau inaugurarea unui lucru sacru."
       }
      ],
      "textCompare": [
@@ -96498,60 +98533,170 @@
      "translit": "Vi-khallu et-ha-yamim ve-hayah va-yom ha-shemini va-halah ya'asu ha-kohanim al-ha-mizbe'ach et-oloteikhem ve-et-shalmeikhem ve-ratsi'ti etkhem ne'um Adonai Elohim.",
      "tokens": [
       {
-       "t": "Iar când se vor fi încheiat zilele, începând din",
-       "w": "Iar când se vor fi încheiat zilele, începând din",
-       "heb": "וִיכַלּוּ אֶת הַיָּמִים וְהָיָה בַיּוֹם",
-       "translit": "vihalu et haiamim vehaia vaiom",
+       "t": "Iar când se vor fi încheiat",
+       "w": "Iar când se vor fi încheiat",
+       "heb": "וִיכַלּוּ",
+       "translit": "vihalu",
        "strong": "H3615",
-       "pos": "verb, piel imperfect + marcă a complementului direct + substantiv + verb, qal perfect consecutiv + substantiv",
-       "def_ro": "și vor încheia zilele, și va fi în ziua.",
-       "dict_ro": "Radak compară acest termen de șapte zile de inaugurare cu rânduiala similară de la Cortul Întâlnirii, în ziua a opta a închinării (Levitic 9) — modelul mozaic se repetă, cu înnoiri proprii, pentru Templul viitor."
+       "pos": "verb, piel imperfect",
+       "def_ro": "și se vor încheia (vihalu)",
+       "dict_ro": "Reluarea jertfelor obișnuite, din ziua a opta, marchează trecerea de la ritualul de inaugurare la slujirea normală, permanentă, a altarului."
       },
       {
        "t": " "
       },
       {
-       "t": "ziua a opta",
-       "w": "ziua a opta",
-       "heb": "הַשְּׁמִינִי",
-       "translit": "hașmini",
-       "strong": "H8066",
-       "pos": "numeral ordinal",
-       "def_ro": "în ziua a opta.",
-       "greek": "ἡμέρα ὀγδόη (hemera ogdoe)",
-       "greek_def_ro": "ἡμέρα ὀγδόη (hemera ogdoe) — ziua a opta.",
-       "dict_ro": "Ecou direct al consacrării originale a Cortului: „ziua a opta” marchează exact momentul în care preoții încep efectiv să slujească, după cele șapte zile de consacrare (Leviticul 9:1) — funcționarea normală a cultului începe abia după încheierea completă a perioadei rituale."
+       "t": "zilele,",
+       "w": "zilele,",
+       "heb": "הַיָּמִים",
+       "translit": "haiamim",
+       "strong": "H3117",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "zilele, (haiamim)",
+       "dict_ro": "Reluarea jertfelor obișnuite, din ziua a opta, marchează trecerea la slujirea normală, permanentă, a altarului."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "preoții pot pregăti pe altar arderile-de-tot ale tale și jertfele tale de pace, iar Eu îți voi arăta",
-       "w": "preoții pot pregăti pe altar arderile-de-tot ale tale și jertfele tale de pace, iar Eu îți voi arăta",
-       "heb": "יַעֲשׂוּ הַכֹּהֲנִים עַל הַמִּזְבֵּחַ אֶת עוֹלוֹתֵיכֶם וְאֶת שַׁלְמֵיכֶם",
-       "translit": "iaasu hakohanim al hamizbēah et olotēhem veet șalmēhem",
+       "t": "începând din ziua",
+       "w": "începând din ziua",
+       "heb": "וְהָיָה בַיּוֹם",
+       "translit": "vehaia vaiom",
+       "strong": "H3117",
+       "pos": "verb, qal perfect consecutiv + substantiv, masculin singular",
+       "def_ro": "și va fi în ziua (vehaia vaiom)",
+       "dict_ro": "Reluarea jertfelor obișnuite, din ziua a opta, marchează trecerea la slujirea normală, permanentă, a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a opta,",
+       "w": "a opta,",
+       "heb": "הַשְּׁמִינִי וָהָלְאָה",
+       "translit": "hașmini vahala",
+       "strong": "H1973",
+       "pos": "numeral ordinal + adverb",
+       "def_ro": "a opta și mai departe, (hașmini vahala)",
+       "dict_ro": "Reluarea jertfelor obișnuite, din ziua a opta, marchează trecerea la slujirea normală, permanentă, a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "preoții",
+       "w": "preoții",
+       "heb": "הַכֹּהֲנִים",
+       "translit": "hakohanim",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "preoții (hakohanim)",
+       "dict_ro": "Reluarea jertfelor obișnuite, din ziua a opta, marchează trecerea la slujirea normală, permanentă, a altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pot pregăti",
+       "w": "pot pregăti",
+       "heb": "יַעֲשׂוּ",
+       "translit": "iaasu",
        "strong": "H6213",
-       "pos": "verb, qal imperfect + substantiv + prepoziție + substantiv + marcă a complementului direct + substantiv plural construct + sufix (repetat)",
-       "def_ro": "vor pregăti preoții pe altar arderile voastre de tot și jertfele voastre de pace.",
-       "dict_ro": "Trecerea de la jertfele de inaugurare, obligatorii și unice, la arderile-de-tot și jertfele de pace obișnuite marchează momentul în care altarul devine pe deplin funcțional pentru cultul zilnic al poporului."
+       "pos": "verb, qal imperfect",
+       "def_ro": "vor face (iaasu)",
+       "dict_ro": "Reluarea jertfelor obișnuite, din ziua a opta, marchează trecerea la slujirea normală, permanentă, a altarului."
       },
       {
        "t": " "
       },
       {
-       "t": "bunăvoință",
-       "w": "bunăvoință",
-       "heb": "וְרָצִאתִי",
-       "translit": "verațiti",
-       "strong": "H7521",
-       "pos": "verb, qal perfect consecutiv",
-       "def_ro": "voi găsi plăcere, voi primi cu bunăvoință.",
-       "greek": "προσδέχομαι (prosdechomai)",
-       "greek_def_ro": "προσδέχομαι (prosdechomai) — a primi cu bunăvoință.",
-       "dict_ro": "Rashi glosează simplu: „limbaj de bunăvoință/acceptare” — cuvântul final al capitolului încheie întreaga secțiune tehnică pe o notă profund personală: după tot procesul detaliat de măsurători și ritualuri, scopul ultim rămâne relația — acceptarea plină de bunăvoință a lui Dumnezeu față de poporul Său."
+       "t": "pe altar",
+       "w": "pe altar",
+       "heb": "עַל הַמִּזְבֵּחַ",
+       "translit": "al hamizbēah",
+       "strong": "H4196",
+       "pos": "prepoziție + substantiv, masculin singular",
+       "def_ro": "pe altar (al hamizbēah)",
+       "dict_ro": "Reluarea jertfelor obișnuite, din ziua a opta, marchează trecerea la slujirea normală, permanentă, a altarului."
       },
       {
-       "t": " – rostirea Stăpânului meu, Domnul DUMNEZEU.»”"
+       "t": " "
+      },
+      {
+       "t": "arderile-de-tot ale tale",
+       "w": "arderile-de-tot ale tale",
+       "heb": "עוֹלוֹתֵיכֶם",
+       "translit": "olotēhem",
+       "strong": "H5930",
+       "pos": "substantiv, feminin plural construct + sufix",
+       "def_ro": "arderile-de-tot ale voastre (olotēhem)",
+       "dict_ro": "Jertfele poporului, de ardere-de-tot și de pace, confirmă reluarea deplină a cultului la altarul sfințit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și jertfele tale de pace,",
+       "w": "și jertfele tale de pace,",
+       "heb": "שַׁלְמֵיכֶם",
+       "translit": "șalmēhem",
+       "strong": "H8002",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "și jertfele voastre de pace, (șalmēhem)",
+       "dict_ro": "Jertfele poporului, de ardere-de-tot și de pace, confirmă reluarea deplină a cultului la altarul sfințit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "iar Eu îți voi arăta bunăvoință",
+       "w": "iar Eu îți voi arăta bunăvoință",
+       "heb": "וְרָצִאתִי אֶתְכֶם",
+       "translit": "verațiti ethem",
+       "strong": "H853",
+       "pos": "verb, qal perfect consecutiv + marcă a complementului direct + sufix",
+       "def_ro": "și vă voi primi cu bunăvoință (verațiti ethem)",
+       "dict_ro": "Promisiunea finală a bunăvoinței divine pecetluiește întreg ritualul de sfințire a altarului cu asigurarea acceptării jertfelor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula finală «rostirea Stăpânului meu, Domnul DUMNEZEU» încheie solemn întregul capitol al legilor altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Stăpânului meu,",
+       "w": "Stăpânului meu,",
+       "heb": "אֲדֹנָי",
+       "translit": "adonai",
+       "strong": "H136",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "Stăpânului meu, (adonai)",
+       "dict_ro": "Formula finală «rostirea Stăpânului meu, Domnul DUMNEZEU» încheie solemn întregul capitol al legilor altarului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Domnul DUMNEZEU.»”",
+       "w": "Domnul DUMNEZEU.»”",
+       "heb": "יְהֹוִה",
+       "translit": "Adonai",
+       "strong": "H3069",
+       "pos": "nume propriu",
+       "def_ro": "Domnul DUMNEZEU.»” (Adonai)",
+       "dict_ro": "Formula finală «rostirea Stăpânului meu, Domnul DUMNEZEU» încheie solemn întregul capitol al legilor altarului."
       }
      ],
      "textCompare": [
