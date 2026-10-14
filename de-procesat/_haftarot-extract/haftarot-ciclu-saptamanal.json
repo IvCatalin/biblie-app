@@ -87618,42 +87618,239 @@
      "translit": "Ha-davar asher-hayah el-Yirmeyahu me-et Adonai acharei kerot ha-melekh Tsidkiyahu berit et-kol-ha-am asher bi-Yrushalayim likro lahem deror.",
      "tokens": [
       {
-       "t": "Cuvântul care a venit la Ieremia a fost de la DOMNUL, după ce regele Țedekia a",
-       "w": "Cuvântul care a venit la Ieremia a fost de la DOMNUL, după ce regele Țedekia a",
-       "heb": "הַדָּבָר אֲשֶׁר הָיָה אֶל יִרְמְיָהוּ מֵאֵת יְהוָה אַחֲרֵי כְּרֹת הַמֶּלֶךְ צִדְקִיָּהוּ",
-       "translit": "hadavar așer haia el irmeiahu mēēt Adonai aharē kerot hameleh țidkiahu",
+       "t": "Cuvântul",
+       "w": "Cuvântul",
+       "heb": "הַדָּבָר",
+       "translit": "hadavar",
        "strong": "H1697",
-       "pos": "substantiv + particulă relativă + verb, qal perfect + nume propriu + prepoziție + nume propriu + prepoziție + verb, qal infinitiv + substantiv + nume propriu",
-       "def_ro": "cuvântul care a fost către Ieremia de la DOMNUL, după ce regele Țedechia a încheiat.",
-       "dict_ro": "Rashi datează acest legământ în anul al șaptelea al domniei lui Țedechia, legând momentul de o întrebare adresată lui Ezechiel de bătrânii lui Iuda despre statutul ritual al unui sclav preot eliberat — dovadă indirectă că poporul căuta să arate că nu fusese pedepsit din pricina neglijării poruncilor."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "cuvântul (hadavar)",
+       "dict_ro": "Formula standard a profeției introduce acest oracol legat de legământul rupt al eliberării sclavilor."
       },
       {
        "t": " "
       },
       {
-       "t": "pecetluit un legământ",
-       "w": "pecetluit un legământ",
-       "heb": "כְּרֹת בְּרִית",
-       "translit": "kerot berit",
-       "strong": "H1285",
-       "pos": "verb, qal infinitiv + substantiv, feminin singular",
-       "def_ro": "a încheiat un legământ.",
+       "t": "care",
+       "w": "care",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care (așer)",
+       "dict_ro": "Formula standard a profeției introduce acest oracol legat de legământul rupt al eliberării sclavilor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a venit",
+       "w": "a venit",
+       "heb": "הָיָה",
+       "translit": "haia",
+       "strong": "H1961",
+       "pos": "verb, qal perfect",
+       "def_ro": "a fost (haia)",
+       "dict_ro": "Formula standard a profeției introduce acest oracol legat de legământul rupt al eliberării sclavilor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la",
+       "w": "la",
+       "heb": "אֶל",
+       "translit": "el",
+       "strong": "H413",
+       "pos": "prepoziție",
+       "def_ro": "la (el)",
+       "dict_ro": "Formula standard a profeției introduce acest oracol legat de legământul rupt al eliberării sclavilor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Ieremia",
+       "w": "Ieremia",
+       "heb": "יִרְמְיָהוּ",
+       "translit": "irmeiahu",
+       "strong": "H3414",
+       "pos": "nume propriu",
+       "def_ro": "Ieremia (irmeiahu)",
+       "dict_ro": "Ieremia primește acest oracol imediat după legământul public al lui Țedekia privind eliberarea sclavilor evrei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a fost de la",
+       "w": "a fost de la",
+       "heb": "מֵאֵת",
+       "translit": "mēēt",
+       "strong": "H854",
+       "pos": "prepoziție",
+       "def_ro": "de la (mēēt)",
+       "dict_ro": "Ieremia primește acest oracol imediat după legământul public al lui Țedekia privind eliberarea sclavilor evrei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNUL,",
+       "w": "DOMNUL,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL, (Adonai)",
+       "dict_ro": "Ieremia primește acest oracol imediat după legământul public al lui Țedekia privind eliberarea sclavilor evrei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "după ce",
+       "w": "după ce",
+       "heb": "אַחֲרֵי",
+       "translit": "aharē",
+       "strong": "H310",
+       "pos": "prepoziție",
+       "def_ro": "după (aharē)",
+       "dict_ro": "Oracolul urmează imediat după legământul public al lui Țedekia."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "regele",
+       "w": "regele",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
+       "strong": "H4428",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "regele (hameleh)",
+       "dict_ro": "Țedekia, ultimul rege al lui Iuda, organizează acest legământ probabil pentru a reduce numărul gurilor de hrănit în timpul asediului babilonian, nu din pură evlavie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Țedekia",
+       "w": "Țedekia",
+       "heb": "צִדְקִיָּהוּ",
+       "translit": "țidkiahu",
+       "strong": "H6667",
+       "pos": "nume propriu",
+       "def_ro": "Țedekia (țidkiahu)",
+       "dict_ro": "Țedekia, ultimul rege al lui Iuda, organizează acest legământ probabil pentru a reduce numărul gurilor de hrănit în timpul asediului babilonian, nu din pură evlavie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a pecetluit",
+       "w": "a pecetluit",
+       "heb": "כְּרֹת",
+       "translit": "kerot",
+       "strong": "H3772",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "la pecetluirea (kerot)",
+       "dict_ro": "Țedekia pecetluiește public un legământ pentru eliberarea sclavilor evrei.",
        "greek": "συντελέω διαθήκην (synteleo diatheken)",
-       "greek_def_ro": "συντελέω διαθήκην (synteleo diatheken) — a încheia/pecetlui un legământ.",
-       "dict_ro": "Berit, „legământ” — verbul asociat, karat („a tăia”), amintește de ritualul antic al tăierii unui animal în două, prin ale cărui jumătăți treceau părțile legământului (v.18) — un legământ care avea să fie, literal, rupt de participanți la fel cum fusese „tăiat” animalul jertfit."
+       "greek_def_ro": "συντελέω διαθήκην (synteleo diatheken) — a încheia/pecetlui un legământ."
       },
       {
        "t": " "
       },
       {
-       "t": "cu tot poporul care era în Ierusalim, ca să proclame",
-       "w": "cu tot poporul care era în Ierusalim, ca să proclame",
-       "heb": "אֶת כָּל הָעָם אֲשֶׁר בִּירוּשָׁלִַם לִקְרֹא",
-       "translit": "et kal haam așer birușalam likro",
+       "t": "un legământ",
+       "w": "un legământ",
+       "heb": "בְּרִית",
+       "translit": "berit",
+       "strong": "H1285",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "legământul (berit)",
+       "dict_ro": "Legământul public pentru eliberarea sclavilor va fi rupt mai târziu, provocând mânia divină descrisă în restul capitolului.",
+       "greek": "συντελέω διαθήκην (synteleo diatheken)",
+       "greek_def_ro": "συντελέω διαθήκην (synteleo diatheken) — a încheia/pecetlui un legământ."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu",
+       "w": "cu",
+       "heb": "אֶת",
+       "translit": "et",
+       "strong": "H854",
+       "pos": "prepoziție",
+       "def_ro": "cu (et)",
+       "dict_ro": "Legământul se face cu tot poporul prezent în cetate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "tot",
+       "w": "tot",
+       "heb": "כָּל",
+       "translit": "kal",
        "strong": "H3605",
-       "pos": "marcă a complementului direct + substantiv construct + substantiv + particulă relativă + nume propriu + verb, qal infinitiv",
-       "def_ro": "cu tot poporul care era în Ierusalim, ca să proclame.",
-       "dict_ro": "Legământul implică întreg poporul capitalei, nu doar o clasă socială restrânsă — amploarea participării face cu atât mai gravă răzgândirea ulterioară descrisă la v.11."
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tot (kal)",
+       "dict_ro": "Legământul se face cu tot poporul prezent în cetate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "poporul",
+       "w": "poporul",
+       "heb": "הָעָם",
+       "translit": "haam",
+       "strong": "H5971",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "poporul (haam)",
+       "dict_ro": "Legământul se face cu tot poporul prezent în cetate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care era în",
+       "w": "care era în",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care (așer)",
+       "dict_ro": "Legământul se face cu tot poporul prezent în cetate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Ierusalim,",
+       "w": "Ierusalim,",
+       "heb": "בִּירוּשָׁלִַם",
+       "translit": "birușalam",
+       "strong": "H3389",
+       "pos": "nume propriu",
+       "def_ro": "în Ierusalim, (birușalam)",
+       "dict_ro": "Legământul se face cu tot poporul prezent în cetatea asediată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca să proclame",
+       "w": "ca să proclame",
+       "heb": "לִקְרֹא",
+       "translit": "likro",
+       "strong": "H7121",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "ca să proclame (likro)",
+       "dict_ro": "Legea mozaică a eliberării sclavilor evrei după șase ani de serviciu (Exod 21, Deuteronom 15) fusese ignorată mult timp — acest legământ o reactivează brusc, sub presiunea crizei."
       },
       {
        "t": " "
@@ -87665,13 +87862,23 @@
        "translit": "deror",
        "strong": "H1865",
        "pos": "substantiv, masculin singular",
-       "def_ro": "libertate, eliberare.",
+       "def_ro": "libertate (deror)",
+       "dict_ro": "Legea mozaică a eliberării sclavilor evrei după șase ani de serviciu fusese ignorată mult timp — acest legământ o reactivează brusc, sub presiunea crizei.",
        "greek": "ἄφεσις (aphesis)",
-       "greek_def_ro": "ἄφεσις (aphesis) — eliberare, libertate.",
-       "dict_ro": "Deror — același cuvânt din Leviticul 25:10 pentru anul jubiliar („veți vesti libertatea în toată țara”), evocând direct legea eliberării sclavilor evrei; Rashi datează acest legământ în anul al șaptelea al domniei lui Țedechia, legându-l de o întrebare pusă lui Ezechiel (Ezechiel 20:1) despre statutul ritual al sclavilor eliberați."
+       "greek_def_ro": "ἄφεσις (aphesis) — eliberare, libertate."
       },
       {
-       "t": " pentru ei:"
+       "t": " "
+      },
+      {
+       "t": "pentru ei:",
+       "w": "pentru ei:",
+       "heb": "לָהֶם",
+       "translit": "lahem",
+       "strong": "",
+       "pos": "prepoziție + sufix",
+       "def_ro": "pentru ei: (lahem)",
+       "dict_ro": "Legământul proclamă libertatea pentru sclavii și slujnicele evreice din cetate."
       }
      ],
      "textCompare": [
@@ -87710,42 +87917,105 @@
      "translit": "Le-shallach ish et-avdo ve-ish et-shifchato ha-ivri ve-ha-ivriyyah chofshim le-vilti avod-bam bi-Yhudi achihu ish.",
      "tokens": [
       {
-       "t": "ca fiecare om să-și",
-       "w": "ca fiecare om să-și",
-       "heb": "לְשַׁלַּח אִישׁ",
-       "translit": "leșalah iș",
-       "strong": "H7971",
-       "pos": "verb, piel infinitiv + substantiv",
-       "def_ro": "ca să elibereze fiecare om.",
-       "dict_ro": "Verbul «șalah» («a trimite, a elibera») deschide descrierea legământului de eliberare, aceeași rădăcină folosită constant pentru eliberarea sclavilor ebrei în tot capitolul."
+       "t": "ca fiecare om",
+       "w": "ca fiecare om",
+       "heb": "אִישׁ",
+       "translit": "iș",
+       "strong": "H376",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "om (iș)",
+       "dict_ro": "Legământul cere eliberarea universală: fiecare bărbat și femeie evreu(că) aflat în robie."
       },
       {
        "t": " "
       },
       {
-       "t": "elibereze",
-       "w": "elibereze",
-       "heb": "לְשַׁלַּח",
-       "translit": "leșalah",
-       "strong": "H7971",
-       "pos": "verb, piel infinitiv",
-       "def_ro": "să trimită liber, să elibereze.",
-       "greek": "ἐξαποστέλλω (exapostello)",
-       "greek_def_ro": "ἐξαποστέλλω (exapostello) — a elibera, a trimite afară liber.",
-       "dict_ro": "Rădăcina shalach, „a trimite” — la forma intensivă, „a elibera”, aceeași rădăcină ca „Șalah et-ami”, cererea repetată către Faraon la Exod 5-11 — ecoul verbal leagă eliberarea sclavilor evrei de propria istorie a lui Israel ca sclavi eliberați din Egipt."
+       "t": "să-și elibereze",
+       "w": "să-și elibereze",
+       "heb": "לְשַׁלַּח חָפְשִׁים",
+       "translit": "leșalah hafșim",
+       "strong": "H2670",
+       "pos": "verb, piel infinitiv + adjectiv, masculin plural",
+       "def_ro": "să elibereze, liberi (leșalah, hafșim)",
+       "dict_ro": "Legământul cere eliberarea universală: fiecare bărbat și femeie evreu(că) aflat în robie."
       },
       {
-       "t": " sclavul "
+       "t": " "
       },
       {
-       "t": "și fiecare [să-și elibereze] slujnica, evreul și evreica, astfel ca nimeni să nu-l [mai]",
-       "w": "și fiecare [să-și elibereze] slujnica, evreul și evreica, astfel ca nimeni să nu-l [mai]",
-       "heb": "וְאִישׁ אֶת שִׁפְחָתוֹ הָעִבְרִי וְהָעִבְרִיָּה חָפְשִׁים לְבִלְתִּי עֲבָד בָּם",
-       "translit": "veiș et șifhato haivri vehaivria hafșim levilti avad bam",
+       "t": "sclavul",
+       "w": "sclavul",
+       "heb": "עַבְדּוֹ",
+       "translit": "avdo",
+       "strong": "H5650",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "sclavul lui (avdo)",
+       "dict_ro": "Legământul cere eliberarea universală: fiecare bărbat și femeie evreu(că) aflat în robie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și fiecare",
+       "w": "și fiecare",
+       "heb": "וְאִישׁ",
+       "translit": "veiș",
        "strong": "H376",
-       "pos": "substantiv + marcă a complementului direct + substantiv construct + sufix + nume de neam + nume de neam + adjectiv + conjuncție + verb, qal infinitiv + prepoziție + sufix",
-       "def_ro": "și fiecare, pe slujnica lui, evreul și evreica, [să-i facă] liberi, ca nimeni să nu-i mai pună la muncă.",
-       "dict_ro": "Radak explică faptul că ordinea versetului e răsturnată, după obiceiul stilistic biblic: sensul e ca nimeni să nu-l mai înrobească pe fratele său iudeu, nu doar o enumerare simplă a genurilor eliberate."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și om (veiș)",
+       "dict_ro": "Legământul cere eliberarea universală: fiecare bărbat și femeie evreu(că) aflat în robie."
+      },
+      {
+       "t": " [să-și elibereze] "
+      },
+      {
+       "t": "slujnica,",
+       "w": "slujnica,",
+       "heb": "שִׁפְחָתוֹ",
+       "translit": "șifhato",
+       "strong": "H8198",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "slujnica lui, (șifhato)",
+       "dict_ro": "Legământul cere eliberarea universală: fiecare bărbat și femeie evreu(că) aflat în robie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "evreul",
+       "w": "evreul",
+       "heb": "הָעִבְרִי",
+       "translit": "haivri",
+       "strong": "H5680",
+       "pos": "nume de neam",
+       "def_ro": "evreul (haivri)",
+       "dict_ro": "Legea cerea eliberarea specifică a sclavilor de origine evreiască, nu a celor străini — distincție etnică explicită în Tora."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și evreica,",
+       "w": "și evreica,",
+       "heb": "וְהָעִבְרִיָּה",
+       "translit": "vehaivria",
+       "strong": "H5680",
+       "pos": "nume de neam",
+       "def_ro": "și evreica, (vehaivria)",
+       "dict_ro": "Legea cerea eliberarea specifică a sclavilor de origine evreiască, nu a celor străini — distincție etnică explicită în Tora."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "astfel ca nimeni să nu-l [mai]",
+       "w": "astfel ca nimeni să nu-l [mai]",
+       "heb": "לְבִלְתִּי",
+       "translit": "levilti",
+       "strong": "H1115",
+       "pos": "conjuncție",
+       "def_ro": "ca să nu (levilti)",
+       "dict_ro": "Scopul legământului era încetarea definitivă a robiei între frați evrei."
       },
       {
        "t": " "
@@ -87753,30 +88023,38 @@
       {
        "t": "înrobească",
        "w": "înrobească",
-       "heb": "עֲבָד",
-       "translit": "avad",
-       "strong": "H5647",
-       "pos": "verb, qal infinitiv",
-       "def_ro": "să-l facă să muncească [ca sclav].",
-       "greek": "δουλεύω (douleuo)",
-       "greek_def_ro": "δουλεύω (douleuo) — a sluji ca sclav, a robi.",
-       "dict_ro": "Rădăcina avad, „a lucra, a sluji” — aceeași rădăcină ca „avadim”, sclavi, folosită constant pentru robia din Egipt; porunca vizează explicit fratele „evreu”, nu sclavii străini, aplicând legea specifică a Torei (Exodul 21:2) pentru compatrioți."
+       "heb": "עֲבָד בָּם",
+       "translit": "avad bam",
+       "strong": "",
+       "pos": "verb, qal infinitiv + prepoziție + sufix",
+       "def_ro": "servească printre ei (avad, bam)",
+       "dict_ro": "Scopul legământului era încetarea definitivă a robiei între frați evrei."
       },
       {
        "t": " "
       },
       {
-       "t": "pe fratele său evreu",
-       "w": "pe fratele său evreu",
-       "heb": "בִּיהוּדִי אָחִיהוּ אִישׁ",
-       "translit": "bihudi ahihu iș",
-       "strong": "H3064",
-       "pos": "nume de neam + substantiv construct + sufix + substantiv",
-       "def_ro": "pe iudeul, fratele său, fiecare om.",
-       "dict_ro": "Metzudat David explică faptul că fraza lămurește exact scopul legământului: ca nimeni să nu-l mai pună la muncă pe fratele său iudeu, după ce acesta slujise deja cei șase ani ceruți de legea Torei."
+       "t": "pe fratele său",
+       "w": "pe fratele său",
+       "heb": "בִּיהוּדִי אָחִיהוּ",
+       "translit": "bihudi ahihu",
+       "strong": "H251",
+       "pos": "nume de neam + substantiv, masculin singular construct + sufix",
+       "def_ro": "ca iudeu, fratele lui (bihudi, ahihu)",
+       "dict_ro": "Textul insistă pe înrudirea de legământ («fratele său») dintre stăpân și sclav, ambii evrei."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "evreu.",
+       "w": "evreu.",
+       "heb": "אִישׁ",
+       "translit": "iș",
+       "strong": "H376",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "om. (iș)",
+       "dict_ro": "Textul insistă pe înrudirea de legământ («fratele său») dintre stăpân și sclav, ambii evrei."
       }
      ],
      "textCompare": [
@@ -87820,7 +88098,30 @@
      "translit": "Va-yishme'u khol-ha-sarim ve-khol-ha-am asher-ba'u va-berit le-shallach ish et-avdo ve-ish et-shifchato chofshim le-vilti avod-bam od va-yishme'u va-yeshallechu.",
      "tokens": [
       {
-       "t": "Și toți "
+       "t": "Și",
+       "w": "Și",
+       "heb": "וַיִּשְׁמְעוּ",
+       "translit": "vaișmeu",
+       "strong": "H8085",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și (vaișmeu)",
+       "dict_ro": "Întreaga elită și poporul ascultă inițial de legământ și eliberează sclavii — supunere care va fi rapid trădată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "toți",
+       "w": "toți",
+       "heb": "כָל",
+       "translit": "hal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "toți (kal)",
+       "dict_ro": "Întreaga elită și poporul ascultă inițial de legământ și eliberează sclavii."
+      },
+      {
+       "t": " "
       },
       {
        "t": "conducătorii",
@@ -87829,27 +88130,232 @@
        "translit": "hasarim",
        "strong": "H8269",
        "pos": "substantiv, masculin plural",
-       "def_ro": "conducătorii, dregătorii.",
+       "def_ro": "conducătorii (hasarim)",
+       "dict_ro": "Întreaga elită și poporul ascultă inițial de legământ și eliberează sclavii.",
        "greek": "μεγιστάν (megistan)",
        "greek_def_ro": "μεγιστάν (megistan) — cei mari, magnați, conducători.",
-       "diff_ro": "Finalul versetului grecesc are o divergență izbitoare: „καὶ ἐῶσαν αὐτοὺς εἰς παῖδας καὶ παιδίσκας\" („și i-au lăsat SĂ FIE sclavi și slujnice\") — sensul opus celui din ebraică, unde conducătorii îi lasă LIBERI; probabil o eroare veche de transmitere în textul grecesc.",
-       "dict_ro": "Sar, „conducător” — accentuează caracterul public, oficial al legământului: nu doar oamenii de rând, ci întreaga clasă conducătoare a Ierusalimului s-a angajat solemn în acest act de eliberare, ceea ce face încălcarea ulterioară (v.11) cu atât mai gravă."
+       "diff_ro": "Finalul versetului grecesc are o divergență izbitoare: „καὶ ἐῶσαν αὐτοὺς εἰς παῖδας καὶ παιδίσκας\" („și i-au lăsat SĂ FIE sclavi și slujnice\") — sensul opus celui din ebraică, unde conducătorii îi lasă LIBERI; probabil o eroare veche de transmitere în textul grecesc."
       },
       {
-       "t": " poporului și întreg "
+       "t": " poporului "
       },
       {
-       "t": "poporul care a intrat în legământ au ascultat",
-       "w": "poporul care a intrat în legământ au ascultat",
-       "heb": "וְכָל הָעָם אֲשֶׁר בָּאוּ בַבְּרִית",
-       "translit": "vehal haam așer bau vabrit",
+       "t": "și întreg",
+       "w": "și întreg",
+       "heb": "וְכָל",
+       "translit": "vehal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "și tot (vehal)",
+       "dict_ro": "Întreaga elită și poporul ascultă inițial de legământ și eliberează sclavii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "poporul",
+       "w": "poporul",
+       "heb": "הָעָם",
+       "translit": "haam",
        "strong": "H5971",
-       "pos": "substantiv construct + substantiv + particulă relativă + verb, qal perfect + substantiv",
-       "def_ro": "și tot poporul care a intrat în legământ.",
-       "dict_ro": "Metzudat David explică faptul că Scriptura repetă «și au ascultat» de două ori în acest verset, pentru că relatarea s-a lungit cu detaliile eliberării — o repetare stilistică obișnuită, nu o dublă acțiune separată."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "poporul (haam)",
+       "dict_ro": "Întreaga elită și poporul ascultă inițial de legământ și eliberează sclavii."
       },
       {
-       "t": ", fiecare eliberându-și sclavul și fiecare [eliberându-și] slujnica, astfel ca nimeni să nu îi mai înrobească; și au ascultat și le-au dat drumul liberi."
+       "t": " "
+      },
+      {
+       "t": "care",
+       "w": "care",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care (așer)",
+       "dict_ro": "Toți cei ce intrară în legământ se supun inițial condițiilor lui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a intrat",
+       "w": "a intrat",
+       "heb": "בָּאוּ",
+       "translit": "bau",
+       "strong": "H935",
+       "pos": "verb, qal perfect",
+       "def_ro": "a intrat (bau)",
+       "dict_ro": "Toți cei ce intrară în legământ se supun inițial condițiilor lui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în legământ",
+       "w": "în legământ",
+       "heb": "בַבְּרִית",
+       "translit": "vabrit",
+       "strong": "H1285",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "în legământ (vabrit)",
+       "dict_ro": "Toți cei ce intrară în legământ se supun inițial condițiilor lui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "au ascultat,",
+       "w": "au ascultat,",
+       "heb": "וַיִּשְׁמְעוּ",
+       "translit": "vaișmeu",
+       "strong": "H8085",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "au ascultat, (vaișmeu)",
+       "dict_ro": "Întreaga elită și poporul ascultă inițial de legământ și eliberează sclavii — supunere care va fi rapid trădată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fiecare",
+       "w": "fiecare",
+       "heb": "אִישׁ",
+       "translit": "iș",
+       "strong": "H376",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "om (iș)",
+       "dict_ro": "Fiecare stăpân își eliberează propriul sclav și propria slujnică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "eliberându-și",
+       "w": "eliberându-și",
+       "heb": "לְשַׁלַּח",
+       "translit": "leșalah",
+       "strong": "H7971",
+       "pos": "verb, piel infinitiv",
+       "def_ro": "să elibereze (leșalah)",
+       "dict_ro": "Fiecare stăpân își eliberează propriul sclav și propria slujnică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sclavul",
+       "w": "sclavul",
+       "heb": "עַבְדּוֹ",
+       "translit": "avdo",
+       "strong": "H5650",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "sclavul lui (avdo)",
+       "dict_ro": "Fiecare stăpân își eliberează propriul sclav și propria slujnică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și fiecare",
+       "w": "și fiecare",
+       "heb": "וְאִישׁ",
+       "translit": "veiș",
+       "strong": "H376",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și om (veiș)",
+       "dict_ro": "Fiecare stăpân își eliberează propriul sclav și propria slujnică."
+      },
+      {
+       "t": " [eliberându-și] "
+      },
+      {
+       "t": "slujnica,",
+       "w": "slujnica,",
+       "heb": "שִׁפְחָתוֹ",
+       "translit": "șifhato",
+       "strong": "H8198",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "slujnica lui, (șifhato)",
+       "dict_ro": "Fiecare stăpân își eliberează propriul sclav și propria slujnică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "astfel ca nimeni să nu îi",
+       "w": "astfel ca nimeni să nu îi",
+       "heb": "לְבִלְתִּי בָּם",
+       "translit": "levilti bam",
+       "strong": "",
+       "pos": "conjuncție + prepoziție + sufix",
+       "def_ro": "ca să nu printre ei (levilti, bam)",
+       "dict_ro": "Scopul declarat era încetarea definitivă a sclaviei între evrei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "mai",
+       "w": "mai",
+       "heb": "עוֹד",
+       "translit": "od",
+       "strong": "H5750",
+       "pos": "adverb",
+       "def_ro": "mai (od)",
+       "dict_ro": "Scopul declarat era încetarea definitivă a sclaviei între evrei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "înrobească;",
+       "w": "înrobească;",
+       "heb": "עֲבָד",
+       "translit": "avad",
+       "strong": "H5647",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "servească (avad)",
+       "dict_ro": "Scopul declarat era încetarea definitivă a sclaviei între evrei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și au ascultat",
+       "w": "și au ascultat",
+       "heb": "וַיִּשְׁמְעוּ",
+       "translit": "vaișmeu",
+       "strong": "H8085",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și au ascultat (vaișmeu)",
+       "dict_ro": "Repetarea «au ascultat» confirmă supunerea reală, inițială, față de legământ."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și le-au dat drumul",
+       "w": "și le-au dat drumul",
+       "heb": "וַיְשַׁלֵּחוּ",
+       "translit": "vaișalēhu",
+       "strong": "H7971",
+       "pos": "verb, piel imperfect consecutiv",
+       "def_ro": "și le-au dat drumul (vaișalēhu)",
+       "dict_ro": "Sclavii au fost eliberați efectiv, nu doar promisiv."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "liberi.",
+       "w": "liberi.",
+       "heb": "חָפְשִׁים",
+       "translit": "hafșim",
+       "strong": "H2670",
+       "pos": "adjectiv, masculin plural",
+       "def_ro": "liberi. (hafșim)",
+       "dict_ro": "Sclavii au fost eliberați efectiv, nu doar promisiv."
       }
      ],
      "textCompare": [
@@ -87895,43 +88401,142 @@
       {
        "t": "Însă după aceea",
        "w": "Însă după aceea",
-       "heb": "וַיָּשׁוּבוּ אַחֲרֵי כֵן",
+       "heb": "וַיָּשׁוּבוּ אַחֲרֵי כֵן",
        "translit": "vaiașuvu aharē hēn",
-       "strong": "H7725",
+       "strong": "H3651",
        "pos": "verb, qal imperfect consecutiv + prepoziție + adverb",
-       "def_ro": "dar s-au întors după aceea.",
-       "dict_ro": "Verbul «a se întoarce» (șuv) marchează aici o revenire negativă — răzgândirea poporului, întorcându-se de la propria lor faptă dreaptă, în contrast cu folosirea pozitivă a aceluiași verb la restaurarea finală din 33:26."
+       "def_ro": "și s-au întors după aceea (vaiașuvu, aharē, hēn)",
+       "dict_ro": "Întoarcerea bruscă asupra unui legământ solemn, pecetluit înaintea DOMNULUI, e privită de profet ca o trădare gravă, nu doar o schimbare de politică."
       },
       {
-       "t": " s-au "
+       "t": " "
       },
       {
-       "t": "răzgândit",
-       "w": "răzgândit",
-       "heb": "וַיָּשׁוּבוּ",
-       "translit": "vaiașuvu",
+       "t": "s-au răzgândit",
+       "w": "s-au răzgândit",
+       "heb": "וַיָּשִׁבוּ",
+       "translit": "vaiașivu",
        "strong": "H7725",
-       "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "s-au întors, s-au răzgândit.",
-       "diff_ro": "Conținutul grecesc al acestui verset e inclus, comprimat, în structura versetului 34:10 grecesc (vezi nota de acolo) — nu are un corespondent separat, de sine stătător, în Septuaginta disponibilă.",
-       "dict_ro": "Rădăcina shuv, „a se întoarce” — verb central al cărții lui Ieremia, folosit de obicei pentru „întoarcerea” pozitivă la pocăință; aici, tragic răsturnat, desemnează întoarcerea de la o faptă bună înapoi la păcat — o „pocăință” inversă."
+       "pos": "verb, hifil imperfect consecutiv",
+       "def_ro": "și au adus înapoi (vaiașivu)",
+       "dict_ro": "Întoarcerea bruscă asupra unui legământ solemn, pecetluit înaintea DOMNULUI, e privită de profet ca o trădare gravă."
       },
       {
-       "t": " și i-au adus înapoi pe sclavii și pe slujnicele pe care îi eliberaseră, și i-au "
+       "t": " "
       },
       {
-       "t": "asuprit iarăși",
-       "w": "asuprit iarăși",
+       "t": "și i-au adus înapoi pe",
+       "w": "și i-au adus înapoi pe",
+       "heb": "אֶת",
+       "translit": "et",
+       "strong": "H853",
+       "pos": "marcă a complementului direct",
+       "def_ro": "pe (et)",
+       "dict_ro": "Stăpânii și-au recâștigat forțat sclavii eliberați, anulând efectiv legământul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sclavii",
+       "w": "sclavii",
+       "heb": "הָעֲבָדִים",
+       "translit": "haavadim",
+       "strong": "H5650",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "sclavii (haavadim)",
+       "dict_ro": "Stăpânii și-au recâștigat forțat sclavii eliberați, anulând efectiv legământul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și pe",
+       "w": "și pe",
+       "heb": "וְאֶת",
+       "translit": "veet",
+       "strong": "H853",
+       "pos": "marcă a complementului direct",
+       "def_ro": "și pe (veet)",
+       "dict_ro": "Stăpânii și-au recâștigat forțat sclavii și slujnicele eliberați."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "slujnicele",
+       "w": "slujnicele",
+       "heb": "הַשְּׁפָחוֹת",
+       "translit": "hașfahot",
+       "strong": "H8198",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "slujnicele (hașfahot)",
+       "dict_ro": "Stăpânii și-au recâștigat forțat sclavii și slujnicele eliberați."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe care",
+       "w": "pe care",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care (așer)",
+       "dict_ro": "Cei recaptați erau exact cei pe care îi eliberaseră liber, puțin timp înainte."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "îi eliberaseră,",
+       "w": "îi eliberaseră,",
+       "heb": "שִׁלְּחוּ חָפְשִׁים",
+       "translit": "șilhu hafșim",
+       "strong": "H2670",
+       "pos": "verb, piel perfect + adjectiv, masculin plural",
+       "def_ro": "i-au eliberat, liberi, (șilhu, hafșim)",
+       "dict_ro": "Cei recaptați erau exact cei pe care îi eliberaseră liber, puțin timp înainte."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și i-au asuprit iarăși,",
+       "w": "și i-au asuprit iarăși,",
        "heb": "וַיִּכְבְּשׁוּם",
        "translit": "vaihbeșum",
        "strong": "H3533",
        "pos": "verb, qal imperfect consecutiv + sufix",
-       "def_ro": "i-au subjugat.",
-       "diff_ro": "Ca și „răzgândit\", acest fragment nu are corespondent separat — e inclus în structura comprimată a versetului 34:10 grecesc.",
-       "dict_ro": "Rădăcina kavash, „a subjuga, a forța” — verb dur, care descrie un act de forță explicită, nu doar o simplă revenire administrativă la o stare anterioară — sclavii eliberați au fost activ recapturați și constrânși din nou."
+       "def_ro": "și le-au subjugat (vaihbeșum)",
+       "dict_ro": "Reasuprirea e trădarea centrală pe care se bazează pedeapsa divină anunțată mai departe."
       },
       {
-       "t": ", ca sclavi și ca slujnice."
+       "t": " "
+      },
+      {
+       "t": "ca sclavi",
+       "w": "ca sclavi",
+       "heb": "לַעֲבָדִים",
+       "translit": "laavadim",
+       "strong": "H5650",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "ca sclavi (laavadim)",
+       "dict_ro": "Reasuprirea e trădarea centrală pe care se bazează pedeapsa divină anunțată mai departe."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și ca slujnice.",
+       "w": "și ca slujnice.",
+       "heb": "וְלִשְׁפָחוֹת",
+       "translit": "velișfahot",
+       "strong": "H8198",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "și ca slujnice. (velișfahot)",
+       "dict_ro": "Reasuprirea e trădarea centrală pe care se bazează pedeapsa divină anunțată mai departe."
       }
      ],
      "textCompare": [
@@ -87979,22 +88584,120 @@
      "translit": "Va-yehi devar-Adonai el-Yirmeyahu me-et Adonai lemor.",
      "tokens": [
       {
-       "t": "Apoi cuvântul DOMNULUI a venit la Ieremia, de la DOMNUL, "
+       "t": "Apoi",
+       "w": "Apoi",
+       "heb": "וַיְהִי",
+       "translit": "vaihi",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a fost (vaihi)",
+       "dict_ro": "Formula standard introduce al doilea oracol, răspunsul divin la trădarea legământului."
       },
       {
-       "t": "spunând",
-       "w": "spunând",
+       "t": " "
+      },
+      {
+       "t": "cuvântul",
+       "w": "cuvântul",
+       "heb": "דְבַר",
+       "translit": "devar",
+       "strong": "H1697",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "cuvântul (devar)",
+       "dict_ro": "Formula standard introduce al doilea oracol, răspunsul divin la trădarea legământului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula standard introduce al doilea oracol, răspunsul divin la trădarea legământului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a venit",
+       "w": "a venit",
+       "heb": "וַיְהִי",
+       "translit": "vaihi",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a fost (vaihi)",
+       "dict_ro": "Formula standard introduce al doilea oracol, răspunsul divin la trădarea legământului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la",
+       "w": "la",
+       "heb": "אֶל",
+       "translit": "el",
+       "strong": "H413",
+       "pos": "prepoziție",
+       "def_ro": "la (el)",
+       "dict_ro": "Cuvântul vine din nou direct la Ieremia."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Ieremia,",
+       "w": "Ieremia,",
+       "heb": "יִרְמְיָהוּ",
+       "translit": "irmeiahu",
+       "strong": "H3414",
+       "pos": "nume propriu",
+       "def_ro": "Ieremia, (irmeiahu)",
+       "dict_ro": "Cuvântul vine din nou direct la Ieremia."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de la",
+       "w": "de la",
+       "heb": "מֵאֵת",
+       "translit": "mēēt",
+       "strong": "H854",
+       "pos": "prepoziție",
+       "def_ro": "de la (mēēt)",
+       "dict_ro": "Repetarea sursei divine subliniază autoritatea absolută a oracolului care urmează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNUL,",
+       "w": "DOMNUL,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL, (Adonai)",
+       "dict_ro": "Repetarea sursei divine subliniază autoritatea absolută a oracolului care urmează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "spunând:",
+       "w": "spunând:",
        "heb": "לֵאמֹר",
        "translit": "lēmor",
        "strong": "H559",
        "pos": "verb, qal infinitiv",
-       "def_ro": "zicând.",
+       "def_ro": "spunând: (lēmor)",
+       "dict_ro": "Formula introduce direct cuvintele DOMNULUI care urmează.",
        "greek": "λέγω (lego)",
-       "greek_def_ro": "λέγω (lego) — a spune, a zice.",
-       "dict_ro": "Formula standard care marchează începutul unui nou oracol — repetiția „de la DOMNUL... de la DOMNUL” în același verset accentuează solemnitatea și autoritatea absolută a mesajului care urmează, o dublare stilistică neobișnuită chiar și pentru Ieremia."
-      },
-      {
-       "t": ":"
+       "greek_def_ro": "λέγω (lego) — a spune, a zice."
       }
      ],
      "textCompare": [
@@ -88030,47 +88733,211 @@
        "t": "„"
       },
       {
-       "t": "Așa a spus DOMNUL, Dumnezeul lui Israel. Eu am pecetluit un legământ cu strămoșii voștri",
-       "w": "Așa a spus DOMNUL, Dumnezeul lui Israel. Eu am pecetluit un legământ cu strămoșii voștri",
-       "heb": "כֹּה אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל אָנֹכִי כָּרַתִּי בְרִית אֶת אֲבוֹתֵיכֶם",
-       "translit": "ko amar Adonai elohē israēl anohi karati verit et avotēhem",
-       "strong": "H3541",
-       "pos": "adverb + verb, qal perfect + nume propriu + substantiv construct + nume propriu + pronume personal + verb, qal perfect + substantiv + prepoziție + substantiv construct + sufix",
-       "def_ro": "așa a spus DOMNUL, Dumnezeul lui Israel: Eu am încheiat un legământ cu strămoșii voștri.",
-       "dict_ro": "Metzudat David explică faptul că acest verset se referă la adunarea de la muntele Sinai, căci atunci DOMNUL a încheiat legământul pentru toate poruncile deodată — legământul actual al eliberării sclavilor se leagă astfel direct de legământul originar al Exodului."
+       "t": "Așa a spus",
+       "w": "Așa a spus",
+       "heb": "כֹּה אָמַר",
+       "translit": "ko amar",
+       "strong": "H559",
+       "pos": "adverb + verb, qal perfect",
+       "def_ro": "așa a spus (ko, amar)",
+       "dict_ro": "Formula profetică standard introduce reamintirea legământului originar al eliberării sclavilor, de la Exod."
       },
       {
-       "t": " în ziua când i-am "
+       "t": " "
       },
       {
-       "t": "scos",
-       "w": "scos",
-       "heb": "הוֹצִאִי",
-       "translit": "hoți",
-       "strong": "H3318",
-       "pos": "verb, hifil infinitiv + sufix",
-       "def_ro": "i-am scos.",
-       "greek": "ἐξαιρέω (exaireo)",
-       "greek_def_ro": "ἐξαιρέω (exaireo) — a scoate, a elibera.",
-       "dict_ro": "Rădăcina yatsa, „a ieși”, la forma cauzativă „a scoate” — verbul-cheie al Exodului, folosit constant în formulele legământului mozaic; leagă direct porunca eliberării sclavilor de propria experiență fondatoare a lui Israel ca sclavi eliberați."
+       "t": "DOMNUL,",
+       "w": "DOMNUL,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL, (Adonai)",
+       "dict_ro": "Formula profetică standard introduce reamintirea legământului originar al eliberării sclavilor, de la Exod."
       },
       {
-       "t": " din țara Egiptului, din "
+       "t": " "
       },
       {
-       "t": "casa robiei",
-       "w": "casa robiei",
+       "t": "Dumnezeul lui",
+       "w": "Dumnezeul lui",
+       "heb": "אֱלֹהֵי",
+       "translit": "elohē",
+       "strong": "H430",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "Dumnezeul (elohē)",
+       "dict_ro": "Titlul «Dumnezeul lui Israel» amintește identitatea legământului național, anterior oricărui legământ regal local."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel.",
+       "w": "Israel.",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "lui Israel. (israēl)",
+       "dict_ro": "Titlul «Dumnezeul lui Israel» amintește identitatea legământului național, anterior oricărui legământ regal local."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Eu",
+       "w": "Eu",
+       "heb": "אָנֹכִי",
+       "translit": "anohi",
+       "strong": "H595",
+       "pos": "pronume personal",
+       "def_ro": "eu (anohi)",
+       "dict_ro": "DOMNUL Își asumă direct, personal, faptul de a fi pecetluit legământul originar cu strămoșii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "am pecetluit",
+       "w": "am pecetluit",
+       "heb": "כָּרַתִּי",
+       "translit": "karati",
+       "strong": "H3772",
+       "pos": "verb, qal perfect",
+       "def_ro": "am pecetluit (karati)",
+       "dict_ro": "DOMNUL Își asumă direct, personal, faptul de a fi pecetluit legământul originar cu strămoșii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "un legământ",
+       "w": "un legământ",
+       "heb": "בְרִית",
+       "translit": "verit",
+       "strong": "H1285",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "un legământ (verit)",
+       "dict_ro": "Legământul originar cu strămoșii, de la Exod, e precedentul invocat aici."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu",
+       "w": "cu",
+       "heb": "אֶת",
+       "translit": "et",
+       "strong": "H854",
+       "pos": "prepoziție",
+       "def_ro": "cu (et)",
+       "dict_ro": "Legământul se face cu strămoșii poporului, nu doar cu generația actuală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "strămoșii voștri",
+       "w": "strămoșii voștri",
+       "heb": "אֲבוֹתֵיכֶם",
+       "translit": "avotēhem",
+       "strong": "H1",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "strămoșii voștri (avotēhem)",
+       "dict_ro": "Legământul se face cu strămoșii poporului, nu doar cu generația actuală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în ziua când",
+       "w": "în ziua când",
+       "heb": "בְּיוֹם",
+       "translit": "beom",
+       "strong": "H3117",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "în ziua (beom)",
+       "dict_ro": "Legământul datează din ziua ieșirii din Egipt, momentul fondator al eliberării naționale."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "i-am scos",
+       "w": "i-am scos",
+       "heb": "הוֹצִאִי אוֹתָם",
+       "translit": "hoți otam",
+       "strong": "H853",
+       "pos": "verb, hifil infinitiv + sufix + marcă a complementului direct + sufix",
+       "def_ro": "scoaterea lor (hoți, otam)",
+       "dict_ro": "Legământul datează din ziua ieșirii din Egipt, momentul fondator al eliberării naționale."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din țara",
+       "w": "din țara",
+       "heb": "מֵאֶרֶץ",
+       "translit": "mēereț",
+       "strong": "H776",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "din țara (mēereț)",
+       "dict_ro": "Ieșirea din Egipt, din casa robiei, e analogia directă pentru eliberarea sclavilor cerută acum."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Egiptului,",
+       "w": "Egiptului,",
+       "heb": "מִצְרַיִם",
+       "translit": "mițraim",
+       "strong": "H4714",
+       "pos": "nume propriu",
+       "def_ro": "Egiptului, (mițraim)",
+       "dict_ro": "Ieșirea din Egipt, din casa robiei, e analogia directă pentru eliberarea sclavilor cerută acum."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din casa",
+       "w": "din casa",
        "heb": "מִבֵּית",
        "translit": "mibēt",
        "strong": "H1004",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "din casa sclavilor.",
+       "def_ro": "din casa (mibēt)",
+       "dict_ro": "Ieșirea din Egipt, din casa robiei, e analogia directă pentru eliberarea sclavilor cerută acum.",
        "greek": "οἶκος δουλείας (oikos douleias)",
-       "greek_def_ro": "οἶκος δουλείας (oikos douleias) — casa robiei.",
-       "dict_ro": "Beit avadim, „casa robilor” — formulă standard a Decalogului (Exodul 20:2) pentru Egipt; repetarea ei aici transformă porunca despre eliberarea sclavilor evrei într-un act de memorie activă, nu doar o lege abstractă."
+       "greek_def_ro": "οἶκος δουλείας (oikos douleias) — casa robiei."
       },
       {
-       "t": ", spunând:"
+       "t": " "
+      },
+      {
+       "t": "robiei,",
+       "w": "robiei,",
+       "heb": "עֲבָדִים",
+       "translit": "avadim",
+       "strong": "H5650",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "sclavilor, (avadim)",
+       "dict_ro": "Ieșirea din Egipt, din casa robiei, e analogia directă pentru eliberarea sclavilor cerută acum."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "spunând:",
+       "w": "spunând:",
+       "heb": "לֵאמֹר",
+       "translit": "lēmor",
+       "strong": "H559",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "spunând: (lēmor)",
+       "dict_ro": "Formula introduce cuvintele exacte ale legii originare citate în versetul următor."
       }
      ],
      "textCompare": [
@@ -88110,61 +88977,248 @@
      "translit": "Mi-kets sheva shanim teshallechu ish et-achiv ha-ivri asher-yimmakher lekha va-avadkha shesh shanim ve-shillachto chofshi me-immakh ve-lo-shame'u avoteikhem elai ve-lo hittu et-oznam.",
      "tokens": [
       {
-       "t": "«La capătul a "
+       "t": "«La capătul",
+       "w": "«La capătul",
+       "heb": "מִקֵּץ",
+       "translit": "mikēț",
+       "strong": "H7093",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "la capătul (mikēț)",
+       "dict_ro": "Legea originală din Deuteronom 15 cerea eliberarea sclavului evreu exact după șase ani — detaliu reluat aici literal, confirmând că poporul cunoștea legea și o ignorase deliberat."
       },
       {
-       "t": "șapte ani",
-       "w": "șapte ani",
-       "heb": "שֶׁבַע שָׁנִים",
-       "translit": "șeva șanim",
+       "t": " "
+      },
+      {
+       "t": "a șapte",
+       "w": "a șapte",
+       "heb": "שֶׁבַע",
+       "translit": "șeva",
        "strong": "H7651",
-       "pos": "numeral + substantiv, feminin plural",
-       "def_ro": "șapte ani.",
-       "diff_ro": "Divergență numerică reală: Septuaginta are „ὅταν πληρωθῇ ἓξ ἔτη\" („când se vor împlini ȘASE ani\"), nu „la capătul a șapte ani\" ca în ebraică — o variantă textuală veche, discutată de cercetători.",
-       "dict_ro": "Notă textuală remarcată de comentatori: legea citată aici de Ieremia vorbește de „șapte ani” la începutul versetului, dar apoi precizează „să te slujească șase ani” — o aparentă tensiune numerică rezolvată prin observarea că anul al șaptelea e chiar anul eliberării, nu un an suplimentar de muncă, coerent cu Exodul 21:2."
+       "pos": "numeral",
+       "def_ro": "a șapte (șeva)",
+       "dict_ro": "Legea originală din Deuteronom 15 cerea eliberarea sclavului evreu exact după șase ani."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "fiecare dintre voi să își elibereze fratele evreu care vă va fi fost vândut",
-       "w": "fiecare dintre voi să își elibereze fratele evreu care vă va fi fost vândut",
-       "heb": "תְּשַׁלְּחוּ אִישׁ אֶת אָחִיו הָעִבְרִי אֲשֶׁר יִמָּכֵר לְךָ",
-       "translit": "teșalhu iș et ahiv haivri așer imahēr leha",
+       "t": "ani,",
+       "w": "ani,",
+       "heb": "שָׁנִים",
+       "translit": "șanim",
+       "strong": "H8141",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "ani, (șanim)",
+       "dict_ro": "Legea originală din Deuteronom 15 cerea eliberarea sclavului evreu exact după șase ani."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fiecare dintre voi să își elibereze",
+       "w": "fiecare dintre voi să își elibereze",
+       "heb": "תְּשַׁלְּחוּ",
+       "translit": "teșalhu",
        "strong": "H7971",
-       "pos": "verb, piel imperfect + substantiv + marcă a complementului direct + substantiv construct + sufix + nume de neam + particulă relativă + verb, nifal imperfect + prepoziție + sufix",
-       "def_ro": "veți elibera fiecare pe fratele său evreu care îi va fi fost vândut.",
-       "dict_ro": "Talmudul (Arahin 33a) discută această poruncă în relație cu numărarea anilor sabatici — profetul mustră poporul exact pentru nerespectarea acestei legi exprese a lui Moise despre eliberarea sclavilor după șase ani."
+       "pos": "verb, piel imperfect",
+       "def_ro": "veți elibera (teșalhu)",
+       "dict_ro": "Legea cerea eliberarea individuală, de către fiecare stăpân, a fratelui evreu vândut."
       },
       {
-       "t": ". Să îți slujească șase ani și apoi să îi dai drumul liber de la tine.» "
+       "t": " "
       },
       {
-       "t": "Dar părinții tăi n-au ascultat de Mine",
-       "w": "Dar părinții tăi n-au ascultat de Mine",
-       "heb": "וְלֹא שָׁמְעוּ אֲבוֹתֵיכֶם אֵלַי",
-       "translit": "velo șamu avotēhem ēlai",
-       "strong": "H3808",
-       "pos": "particulă negativă + verb, qal perfect + substantiv construct + sufix + prepoziție + sufix",
-       "def_ro": "și nu au ascultat strămoșii voștri de Mine.",
-       "dict_ro": "Nerespectarea cronică a acestei legi, de generații, pregătește contrastul ironic cu generația actuală: ei «s-au căit» pentru scurt timp (v.15), dar s-au răzgândit mai rapid decât strămoșii lor nesupuși."
+       "t": "fratele",
+       "w": "fratele",
+       "heb": "אִישׁ אֶת",
+       "translit": "iș et",
+       "strong": "H853",
+       "pos": "substantiv, masculin singular + marcă a complementului direct",
+       "def_ro": "omul, fratele lui (iș, ahiv)",
+       "dict_ro": "Legea cerea eliberarea individuală, de către fiecare stăpân, a fratelui evreu vândut."
       },
       {
-       "t": " și nu și-au "
+       "t": " "
       },
       {
-       "t": "plecat urechea",
-       "w": "plecat urechea",
-       "heb": "הִטּוּ",
-       "translit": "hitu",
+       "t": "evreu",
+       "w": "evreu",
+       "heb": "הָעִבְרִי",
+       "translit": "haivri",
+       "strong": "H5680",
+       "pos": "nume de neam",
+       "def_ro": "evreu (haivri)",
+       "dict_ro": "Distincția etnică (evreu, nu străin) rămâne centrală legii originare, citată literal aici."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care",
+       "w": "care",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care (așer)",
+       "dict_ro": "Legea se aplica celui vândut ca sclav din pricina sărăciei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "vă va fi fost vândut.",
+       "w": "vă va fi fost vândut.",
+       "heb": "יִמָּכֵר",
+       "translit": "imahēr",
+       "strong": "H4376",
+       "pos": "verb, nifal imperfect",
+       "def_ro": "îți va fi vândut. (imahēr)",
+       "dict_ro": "Legea se aplica celui vândut ca sclav din pricina sărăciei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Să îți slujească",
+       "w": "Să îți slujească",
+       "heb": "לְךָ וַעֲבָדְךָ",
+       "translit": "leha vaavadha",
+       "strong": "H5647",
+       "pos": "prepoziție + sufix + verb, qal perfect consecutiv + sufix",
+       "def_ro": "și îți va sluji (leha, vaavadha)",
+       "dict_ro": "Perioada maximă de serviciu permisă era de șase ani, apoi eliberarea era obligatorie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "șase",
+       "w": "șase",
+       "heb": "שֵׁשׁ",
+       "translit": "șēș",
+       "strong": "H8337",
+       "pos": "numeral",
+       "def_ro": "șase (șēș)",
+       "dict_ro": "Perioada maximă de serviciu permisă era de șase ani, apoi eliberarea era obligatorie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ani",
+       "w": "ani",
+       "heb": "שָׁנִים",
+       "translit": "șanim",
+       "strong": "H8141",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "ani (șanim)",
+       "dict_ro": "Perioada maximă de serviciu permisă era de șase ani, apoi eliberarea era obligatorie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și apoi să îi dai drumul",
+       "w": "și apoi să îi dai drumul",
+       "heb": "וְשִׁלַּחְתּוֹ",
+       "translit": "veșilahto",
+       "strong": "H7971",
+       "pos": "verb, piel perfect consecutiv + sufix",
+       "def_ro": "și îl vei trimite (veșilahto)",
+       "dict_ro": "Eliberarea trebuia să fie necondiționată, fără plată din partea sclavului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "liber",
+       "w": "liber",
+       "heb": "חָפְשִׁי",
+       "translit": "hafși",
+       "strong": "H2670",
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "liber (hafși)",
+       "dict_ro": "Eliberarea trebuia să fie necondiționată, fără plată din partea sclavului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de la tine.»",
+       "w": "de la tine.»",
+       "heb": "מֵעִמָּךְ",
+       "translit": "mēimah",
+       "strong": "H5973",
+       "pos": "prepoziție + sufix",
+       "def_ro": "de la tine. (mēimah)",
+       "dict_ro": "Eliberarea trebuia să fie necondiționată, fără plată din partea sclavului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Dar părinții tăi",
+       "w": "Dar părinții tăi",
+       "heb": "אֲבוֹתֵיכֶם",
+       "translit": "avotēhem",
+       "strong": "H1",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "strămoșii voștri (avotēhem)",
+       "dict_ro": "Nerespectarea cronică a acestei legi, de generații, contextualizează legământul recent rupt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "n-au ascultat",
+       "w": "n-au ascultat",
+       "heb": "וְלֹא שָׁמְעוּ",
+       "translit": "velo șamu",
+       "strong": "H8085",
+       "pos": "particulă negativă + verb, qal perfect",
+       "def_ro": "și nu au ascultat (velo, șamu)",
+       "dict_ro": "Nerespectarea cronică a acestei legi, de generații, contextualizează legământul recent rupt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de Mine",
+       "w": "de Mine",
+       "heb": "אֵלַי",
+       "translit": "ēlai",
+       "strong": "H413",
+       "pos": "prepoziție + sufix",
+       "def_ro": "de mine (ēlai)",
+       "dict_ro": "Nerespectarea cronică a acestei legi, de generații, contextualizează legământul recent rupt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și nu și-au plecat",
+       "w": "și nu și-au plecat",
+       "heb": "וְלֹא הִטּוּ",
+       "translit": "velo hitu",
        "strong": "H5186",
-       "pos": "verb, hifil perfect",
-       "def_ro": "și-au plecat urechea.",
-       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest detaliu final (părinții care nu și-au plecat urechea) — nu există corespondent verificabil.",
-       "dict_ro": "Rădăcina nata, „a înclina, a apleca” — expresie idiomatică standard pentru ascultare atentă; negația ei confirmă un tipar istoric îndelungat de nesupunere, nu doar un eșec izolat al generației prezente a lui Țedechia."
+       "pos": "particulă negativă + verb, hifil perfect",
+       "def_ro": "și nu au aplecat (velo, hitu)",
+       "dict_ro": "Expresia «nu și-au plecat urechea» descrie refuzul deliberat de a asculta, nu simpla neatenție."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "urechea.",
+       "w": "urechea.",
+       "heb": "אֶת אָזְנָם",
+       "translit": "et aznam",
+       "strong": "H241",
+       "pos": "marcă a complementului direct + substantiv, feminin singular construct + sufix",
+       "def_ro": "urechea lor. (et, aznam)",
+       "dict_ro": "Expresia «nu și-au plecat urechea» descrie refuzul deliberat de a asculta, nu simpla neatenție."
       }
      ],
      "textCompare": [
@@ -88207,63 +89261,198 @@
      "translit": "Va-tashuvu attem ha-yom va-ta'asu et-ha-yashar be-einai likro deror ish le-re'ehu va-tikhretu verit le-fanai ba-bayit asher-nikra shemi alav.",
      "tokens": [
       {
-       "t": "V-ați "
+       "t": "V-ați căit",
+       "w": "V-ați căit",
+       "heb": "וַתָּשֻׁבוּ אַתֶּם",
+       "translit": "vatașuvu atem",
+       "strong": "H859",
+       "pos": "verb, qal imperfect consecutiv + pronume personal",
+       "def_ro": "și v-ați întors, voi (vatașuvu, atem)",
+       "dict_ro": "Legământul recent din 34:8-10 a fost, pentru un moment, o adevărată pocăință colectivă."
       },
       {
-       "t": "căit",
-       "w": "căit",
-       "heb": "וַתָּשֻׁבוּ",
-       "translit": "vatașuvu",
-       "strong": "H7725",
-       "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "v-ați întors [la bine].",
-       "greek": "ἐπιστρέφω (epistrepho)",
-       "greek_def_ro": "ἐπιστρέφω (epistrepho) — a se întoarce, a se căi.",
-       "dict_ro": "Aceeași rădăcină shuv de la v.11, dar aici folosită pozitiv — recunoașterea explicită de către Dumnezeu Însuși a faptului că actul inițial de eliberare a fost, cu adevărat, o formă reală de pocăință, „ceea ce este drept” — ceea ce face trădarea ulterioară cu atât mai gravă."
+       "t": " "
       },
       {
-       "t": " astăzi "
+       "t": "astăzi",
+       "w": "astăzi",
+       "heb": "הַיּוֹם",
+       "translit": "haiom",
+       "strong": "H3117",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "astăzi (haiom)",
+       "dict_ro": "Legământul recent din 34:8-10 a fost, pentru un moment, o adevărată pocăință colectivă."
       },
       {
-       "t": "și ați făcut ceea ce este drept în ochii Mei",
-       "w": "și ați făcut ceea ce este drept în ochii Mei",
-       "heb": "וַתַּעֲשׂוּ אֶת הַיָּשָׁר בְּעֵינַי",
-       "translit": "vataasu et haiașar beēnai",
+       "t": " "
+      },
+      {
+       "t": "și ați făcut",
+       "w": "și ați făcut",
+       "heb": "וַתַּעֲשׂוּ",
+       "translit": "vataasu",
        "strong": "H6213",
-       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + adjectiv + substantiv construct + sufix",
-       "def_ro": "și ați făcut ceea ce e drept în ochii Mei.",
-       "dict_ro": "Recunoașterea explicită a faptei bune a poporului, chiar temporară, arată că DOMNUL apreciază sincer pocăința inițială, oricât de scurtă s-ar fi dovedit — judecata care urmează nu ignoră acest moment real de dreptate."
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și ați făcut (vataasu)",
+       "dict_ro": "DOMNUL recunoaște explicit că legământul recent a fost, inițial, un act drept."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "ca fiecare să proclame libertatea pentru semenul său",
-       "w": "ca fiecare să proclame libertatea pentru semenul său",
-       "heb": "לִקְרֹא דְרוֹר אִישׁ לְרֵעֵהוּ",
-       "translit": "likro deror iș lerēēhu",
+       "t": "ceea ce este drept",
+       "w": "ceea ce este drept",
+       "heb": "אֶת הַיָּשָׁר",
+       "translit": "et haiașar",
+       "strong": "H3477",
+       "pos": "marcă a complementului direct + adjectiv, masculin singular",
+       "def_ro": "dreptul (et, haiașar)",
+       "dict_ro": "DOMNUL recunoaște explicit că legământul recent a fost, inițial, un act drept."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în ochii Mei,",
+       "w": "în ochii Mei,",
+       "heb": "בְּעֵינַי",
+       "translit": "beēnai",
+       "strong": "H5869",
+       "pos": "substantiv, masculin și feminin dual construct + sufix",
+       "def_ro": "în ochii mei, (beēnai)",
+       "dict_ro": "DOMNUL recunoaște explicit că legământul recent a fost, inițial, un act drept."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca fiecare să proclame",
+       "w": "ca fiecare să proclame",
+       "heb": "אִישׁ לִקְרֹא",
+       "translit": "iș likro",
        "strong": "H7121",
-       "pos": "verb, qal infinitiv + substantiv + substantiv + substantiv construct + sufix",
-       "def_ro": "ca să proclame libertate fiecare pentru semenul său.",
-       "dict_ro": "Metzudat David explică faptul că «semenul său» desemnează aici robul evreu — formula reia exact termenul «deror» («libertate deplină») folosit și în legea originară a Sinaiului, confirmând legitimitatea deplină a actului de eliberare."
+       "pos": "substantiv, masculin singular + verb, qal infinitiv",
+       "def_ro": "om, ca să proclame (iș, likro)",
+       "dict_ro": "Proclamarea libertății fiecăruia pentru semenul său a fost actul concret al legământului."
       },
       {
-       "t": ", și ați pecetluit un legământ înaintea Mea în "
+       "t": " "
       },
       {
-       "t": "Templul",
-       "w": "Templul",
+       "t": "libertatea",
+       "w": "libertatea",
+       "heb": "דְרוֹר",
+       "translit": "deror",
+       "strong": "H1865",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "libertate (deror)",
+       "dict_ro": "Proclamarea libertății fiecăruia pentru semenul său a fost actul concret al legământului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru semenul său,",
+       "w": "pentru semenul său,",
+       "heb": "לְרֵעֵהוּ",
+       "translit": "lerēēhu",
+       "strong": "H7453",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "pentru semenul lui, (lerēēhu)",
+       "dict_ro": "Proclamarea libertății fiecăruia pentru semenul său a fost actul concret al legământului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și ați pecetluit",
+       "w": "și ați pecetluit",
+       "heb": "וַתִּכְרְתוּ",
+       "translit": "vatihretu",
+       "strong": "H3772",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și ați pecetluit (vatihretu)",
+       "dict_ro": "Legământul a fost pecetluit chiar în Templu, locul asociat direct cu Numele divin."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "un legământ",
+       "w": "un legământ",
+       "heb": "בְרִית",
+       "translit": "verit",
+       "strong": "H1285",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "un legământ (verit)",
+       "dict_ro": "Legământul a fost pecetluit chiar în Templu, locul asociat direct cu Numele divin."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "înaintea Mea",
+       "w": "înaintea Mea",
+       "heb": "לְפָנַי",
+       "translit": "lefanai",
+       "strong": "H6440",
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "înaintea mea (lefanai)",
+       "dict_ro": "Legământul a fost pecetluit chiar în Templu, în prezența divină directă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în Templul",
+       "w": "în Templul",
        "heb": "בַּבַּיִת",
        "translit": "babait",
        "strong": "H1004",
        "pos": "substantiv, masculin singular",
-       "def_ro": "în Casă [Templu].",
+       "def_ro": "în casa (babait)",
+       "dict_ro": "Legământul a fost pecetluit chiar în Templu, locul asociat direct cu Numele divin.",
        "greek": "οἶκος (oikos)",
-       "greek_def_ro": "οἶκος (oikos) — casă, templu.",
-       "dict_ro": "Bayit, „casă” — desemnare standard a Templului; legământul n-a fost doar civil, ci religios, pecetluit chiar în locul sfânt purtător al Numelui divin, ceea ce face profanarea lui ulterioară (v.16) o încălcare sacrilegă, nu doar contractuală."
+       "greek_def_ro": "οἶκος (oikos) — casă, templu."
       },
       {
-       "t": " asupra căruia este proclamat numele Meu."
+       "t": " "
+      },
+      {
+       "t": "asupra căruia",
+       "w": "asupra căruia",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care (așer)",
+       "dict_ro": "Templul e locul în care Numele DOMNULUI e chemat în mod unic — ceea ce face și mai gravă profanarea lui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "este proclamat",
+       "w": "este proclamat",
+       "heb": "נִקְרָא",
+       "translit": "nikra",
+       "strong": "H7121",
+       "pos": "verb, nifal perfect",
+       "def_ro": "este chemat (nikra)",
+       "dict_ro": "Templul e locul în care Numele DOMNULUI e chemat în mod unic — ceea ce face și mai gravă profanarea lui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "numele Meu.",
+       "w": "numele Meu.",
+       "heb": "שְׁמִי עָלָיו",
+       "translit": "șemi alaiv",
+       "strong": "H5921",
+       "pos": "substantiv, masculin singular construct + sufix + prepoziție + sufix",
+       "def_ro": "numele meu peste el. (șemi, alaiv)",
+       "dict_ro": "Templul e locul în care Numele DOMNULUI e chemat în mod unic — ceea ce face și mai gravă profanarea lui."
       }
      ],
      "textCompare": [
@@ -88303,50 +89492,185 @@
      "translit": "Va-tashuvu va-techallelu et-shemi va-tashivu ish et-avdo ve-ish et-shifchato asher-shillachtem chofshim le-nafsham va-tikhbeshu otam lihyot lakhem la-avadim ve-li-shfachot.",
      "tokens": [
       {
-       "t": "Apoi v-ați răzgândit și ați "
-      },
-      {
-       "t": "profanat",
-       "w": "profanat",
-       "heb": "וַתְּחַלְּלוּ",
-       "translit": "vathallu",
-       "strong": "H2490",
-       "pos": "verb, piel imperfect consecutiv",
-       "def_ro": "ați profanat, ați pângărit.",
-       "greek": "βεβηλόω (bebeloo)",
-       "greek_def_ro": "βεβηλόω (bebeloo) — a profana, a pângări.",
-       "dict_ro": "Rădăcina chalal, „a profana” — verb tehnic-ritual, folosit pentru pângărirea unui lucru sfânt (Sabatul, Numele divin, altarul); încălcarea legământului nu e doar o promisiune ruptă între oameni, ci un act direct de sacrilegiu, „numele Meu” fiind invocat solemn în chiar actul legământului (v.15)."
-      },
-      {
-       "t": " numele Meu, "
-      },
-      {
-       "t": "și fiecare și-a adus înapoi sclavul și fiecare sclava pe care îi lăsaseți să meargă",
-       "w": "și fiecare și-a adus înapoi sclavul și fiecare sclava pe care îi lăsaseți să meargă",
-       "heb": "וַתָּשִׁבוּ אִישׁ אֶת עַבְדּוֹ וְאִישׁ אֶת שִׁפְחָתוֹ אֲשֶׁר שִׁלַּחְתֶּם חָפְשִׁים",
-       "translit": "vatașivu iș et avdo veiș et șifhato așer șilahtem hafșim",
+       "t": "Apoi v-ați răzgândit",
+       "w": "Apoi v-ați răzgândit",
+       "heb": "וַתָּשֻׁבוּ",
+       "translit": "vatașuvu",
        "strong": "H7725",
-       "pos": "verb, hifil imperfect consecutiv + substantiv + marcă a complementului direct + substantiv construct + sufix (repetat) + particulă relativă + verb, piel perfect + adjectiv",
-       "def_ro": "și ați adus înapoi fiecare pe robul lui și fiecare pe roaba lui, pe care îi lăsaserăți liberi.",
-       "dict_ro": "Metzudat David explică faptul că poporul s-a întors să-și recapete fiecare robul, apucându-i cu sila — răzgândirea nu e doar o schimbare de gând, ci o acțiune activă de recapturare a celor deja eliberați legal."
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și v-ați întors (vatașuvu)",
+       "dict_ro": "Trădarea legământului e descrisă explicit ca profanare a Numelui divin invocat la el."
       },
       {
        "t": " "
       },
       {
-       "t": "unde vor ei",
-       "w": "unde vor ei",
-       "heb": "לְנַפְשָׁם",
-       "translit": "lenafșam",
-       "strong": "H5315",
-       "pos": "substantiv, masculin și feminin singular construct + sufix",
-       "def_ro": "după sufletul/voința lor.",
-       "greek": "ψυχή αὐτῶν (psyche auton)",
-       "greek_def_ro": "ψυχή αὐτῶν (psyche auton) — după voia/sufletul lor.",
-       "dict_ro": "Nefesh, „suflet, dorință” — formulă care accentuează libertatea deplină acordată inițial: nu doar eliberare tehnică, ci deplină autonomie a voinței lor, cu atât mai cruntă fiind revocarea ei ulterioară."
+       "t": "și ați profanat",
+       "w": "și ați profanat",
+       "heb": "וַתְּחַלְּלוּ",
+       "translit": "vathallu",
+       "strong": "H2490",
+       "pos": "verb, piel imperfect consecutiv",
+       "def_ro": "și ați profanat (vathallu)",
+       "dict_ro": "Trădarea legământului e descrisă explicit ca profanare a Numelui divin invocat la el.",
+       "greek": "βεβηλόω (bebeloo)",
+       "greek_def_ro": "βεβηλόω (bebeloo) — a profana, a pângări."
       },
       {
-       "t": " și i-ați subjugat [iar] să vă fie sclavi și slujnice.”"
+       "t": " "
+      },
+      {
+       "t": "numele Meu,",
+       "w": "numele Meu,",
+       "heb": "אֶת שְׁמִי",
+       "translit": "et șemi",
+       "strong": "H8034",
+       "pos": "marcă a complementului direct + substantiv, masculin singular construct + sufix",
+       "def_ro": "numele meu, (et, șemi)",
+       "dict_ro": "Trădarea legământului e descrisă explicit ca profanare a Numelui divin invocat la el."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și fiecare",
+       "w": "și fiecare",
+       "heb": "וַתָּשִׁבוּ אִישׁ",
+       "translit": "vatașivu iș",
+       "strong": "H376",
+       "pos": "verb, hifil imperfect consecutiv + substantiv, masculin singular",
+       "def_ro": "și fiecare om (vatașivu, iș)",
+       "dict_ro": "Recaptarea sclavilor eliberați repetă exact trădarea deja descrisă la 34:11."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și-a adus înapoi",
+       "w": "și-a adus înapoi",
+       "heb": "וַתָּשִׁבוּ",
+       "translit": "vatașivu",
+       "strong": "H7725",
+       "pos": "verb, hifil imperfect consecutiv",
+       "def_ro": "a adus înapoi (vatașivu)",
+       "dict_ro": "Recaptarea sclavilor eliberați repetă exact trădarea deja descrisă la 34:11."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sclavul",
+       "w": "sclavul",
+       "heb": "אֶת עַבְדּוֹ",
+       "translit": "et avdo",
+       "strong": "H5650",
+       "pos": "marcă a complementului direct + substantiv, masculin singular construct + sufix",
+       "def_ro": "pe sclavul lui (et, avdo)",
+       "dict_ro": "Recaptarea sclavilor eliberați repetă exact trădarea deja descrisă la 34:11."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și fiecare",
+       "w": "și fiecare",
+       "heb": "וְאִישׁ",
+       "translit": "veiș",
+       "strong": "H376",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și om (veiș)",
+       "dict_ro": "Recaptarea sclavilor eliberați repetă exact trădarea deja descrisă la 34:11."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sclava",
+       "w": "sclava",
+       "heb": "אֶת שִׁפְחָתוֹ",
+       "translit": "et șifhato",
+       "strong": "H8198",
+       "pos": "marcă a complementului direct + substantiv, feminin singular construct + sufix",
+       "def_ro": "pe slujnica lui (et, șifhato)",
+       "dict_ro": "Recaptarea sclavilor eliberați repetă exact trădarea deja descrisă la 34:11."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe care",
+       "w": "pe care",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care (așer)",
+       "dict_ro": "Cei recaptați erau exact cei lăsați liberi, fără nicio restricție, puțin timp înainte."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "îi lăsaseți să meargă unde vor ei",
+       "w": "îi lăsaseți să meargă unde vor ei",
+       "heb": "שִׁלַּחְתֶּם חָפְשִׁים",
+       "translit": "șilahtem hafșim",
+       "strong": "H2670",
+       "pos": "verb, piel perfect + adjectiv, masculin plural",
+       "def_ro": "i-ați trimis, liberi (șilahtem, hafșim)",
+       "dict_ro": "Cei recaptați erau exact cei lăsați liberi, fără nicio restricție, puțin timp înainte."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și i-ați subjugat",
+       "w": "și i-ați subjugat",
+       "heb": "וַתִּכְבְּשׁוּ אֹתָם",
+       "translit": "vatihbeșu otam",
+       "strong": "H853",
+       "pos": "verb, qal imperfect consecutiv + marcă a complementului direct + sufix",
+       "def_ro": "și le-ați subjugat pe ele (vatihbeșu, otam)",
+       "dict_ro": "Subjugarea repetată confirmă definitiv trădarea legământului pecetluit în Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "[iar] să vă fie",
+       "w": "[iar] să vă fie",
+       "heb": "לִהְיוֹת לָכֶם",
+       "translit": "lihiot lahem",
+       "strong": "",
+       "pos": "verb, qal infinitiv + prepoziție + sufix",
+       "def_ro": "să fie pentru voi (lihiot, lahem)",
+       "dict_ro": "Subjugarea repetată confirmă definitiv trădarea legământului pecetluit în Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sclavi",
+       "w": "sclavi",
+       "heb": "לַעֲבָדִים",
+       "translit": "laavadim",
+       "strong": "H5650",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "sclavi (laavadim)",
+       "dict_ro": "Subjugarea repetată confirmă definitiv trădarea legământului pecetluit în Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și slujnice.”",
+       "w": "și slujnice.”",
+       "heb": "וְלִשְׁפָחוֹת",
+       "translit": "velișfahot",
+       "strong": "H8198",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "și slujnice.” (velișfahot)",
+       "dict_ro": "Subjugarea repetată confirmă definitiv trădarea legământului pecetluit în Templu."
       }
      ],
      "textCompare": [
@@ -88390,59 +89714,382 @@
      "translit": "Lakhen koh-amar Adonai attem lo-shema'tem elai likro deror ish le-achiv ve-ish le-re'ehu hineni kore lakhem deror ne'um-Adonai el-ha-cherev el-ha-dever ve-el-ha-ra'av ve-natatti etkhem le-za'avah le-khol mamlekhot ha-arets.",
      "tokens": [
       {
-       "t": "De aceea, așa a spus DOMNUL",
-       "w": "De aceea, așa a spus DOMNUL",
-       "heb": "לָכֵן כֹּה אָמַר יְהוָה",
-       "translit": "lahēn ko amar Adonai",
+       "t": "De aceea,",
+       "w": "De aceea,",
+       "heb": "לָכֵן",
+       "translit": "lahēn",
        "strong": "H3651",
-       "pos": "adverb + adverb + verb, qal perfect + nume propriu",
-       "def_ro": "de aceea, așa a spus DOMNUL.",
-       "dict_ro": "Particula «lahen» leagă explicit sentința care urmează de răzgândirea descrisă anterior — judecata e consecința directă, proporțională, a încălcării legământului."
+       "pos": "adverb",
+       "def_ro": "de aceea, (lahēn)",
+       "dict_ro": "Pedeapsa anunțată e explicit proporțională cu nelegiuirea: cei care au refuzat libertatea vor primi o altă «libertate» — a sabiei, molimei, foametei."
       },
       {
-       "t": ": "
+       "t": " "
       },
       {
-       "t": "«Voi nu ați ascultat de Mine, ca să proclamați libertate, fiecare pentru fratele său și fiecare pentru semenul său.",
-       "w": "«Voi nu ați ascultat de Mine, ca să proclamați libertate, fiecare pentru fratele său și fiecare pentru semenul său.",
-       "heb": "אַתֶּם לֹא שְׁמַעְתֶּם אֵלַי לִקְרֹא דְרוֹר אִישׁ לְאָחִיו וְאִישׁ לְרֵעֵהוּ",
-       "translit": "atem lo șematem ēlai likro deror iș leahiv veiș lerēēhu",
+       "t": "așa a spus",
+       "w": "așa a spus",
+       "heb": "כֹּה אָמַר",
+       "translit": "ko amar",
+       "strong": "H559",
+       "pos": "adverb + verb, qal perfect",
+       "def_ro": "așa a spus (ko, amar)",
+       "dict_ro": "Formula profetică standard introduce sentința divină."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNUL:",
+       "w": "DOMNUL:",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL: (Adonai)",
+       "dict_ro": "Formula profetică standard introduce sentința divină."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "«Voi",
+       "w": "«Voi",
+       "heb": "אַתֶּם",
+       "translit": "atem",
        "strong": "H859",
-       "pos": "pronume personal + particulă negativă + verb, qal perfect + prepoziție + sufix + verb, qal infinitiv + substantiv + substantiv + substantiv construct + sufix (repetat)",
-       "def_ro": "voi nu ați ascultat de Mine, ca să proclamați libertate, fiecare fratelui său și fiecare semenului său.",
-       "dict_ro": "Rashi explică formula de judecată care urmează imediat («Iată, vă vestesc slobozire... de la Mine») ca o răsturnare ironică exactă: pentru că poporul n-a dat libertate reală fraților lor, DOMNUL le «dă» o altă formă de libertate — libertatea de a fi pradă sabiei, molimei și foametei."
+       "pos": "pronume personal",
+       "def_ro": "voi (atem)",
+       "dict_ro": "Acuzația directă îi vizează pe cei ce au refuzat să asculte de porunca libertății."
       },
       {
-       "t": " Iată, Eu "
+       "t": " "
       },
       {
-       "t": "proclam libertate",
-       "w": "proclam libertate",
-       "heb": "קֹרֵא דְּרוֹר",
-       "translit": "korē deror",
+       "t": "nu ați ascultat",
+       "w": "nu ați ascultat",
+       "heb": "לֹא שְׁמַעְתֶּם",
+       "translit": "lo șematem",
+       "strong": "H8085",
+       "pos": "particulă negativă + verb, qal perfect",
+       "def_ro": "nu ați ascultat (lo, șematem)",
+       "dict_ro": "Acuzația directă îi vizează pe cei ce au refuzat să asculte de porunca libertății."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de Mine,",
+       "w": "de Mine,",
+       "heb": "אֵלַי",
+       "translit": "ēlai",
+       "strong": "H413",
+       "pos": "prepoziție + sufix",
+       "def_ro": "de mine, (ēlai)",
+       "dict_ro": "Acuzația directă îi vizează pe cei ce au refuzat să asculte de porunca libertății."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ca să proclamați",
+       "w": "ca să proclamați",
+       "heb": "לִקְרֹא",
+       "translit": "likro",
        "strong": "H7121",
-       "pos": "verb, qal participiu + substantiv, masculin singular",
-       "def_ro": "vă proclam libertate.",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "ca să proclamați (likro)",
+       "dict_ro": "Nelegiuirea exactă a fost refuzul de a proclama libertatea cerută de legământ."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "libertate",
+       "w": "libertate",
+       "heb": "דְרוֹר",
+       "translit": "deror",
+       "strong": "H1865",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "libertate (deror)",
+       "dict_ro": "Nelegiuirea exactă a fost refuzul de a proclama libertatea cerută de legământ."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "fiecare",
+       "w": "fiecare",
+       "heb": "אִישׁ",
+       "translit": "iș",
+       "strong": "H376",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "om (iș)",
+       "dict_ro": "Nelegiuirea exactă a fost refuzul de a proclama libertatea cerută de legământ."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru fratele său",
+       "w": "pentru fratele său",
+       "heb": "לְאָחִיו",
+       "translit": "leahiv",
+       "strong": "H251",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "pentru fratele lui, (leahiv)",
+       "dict_ro": "Nelegiuirea exactă a fost refuzul de a proclama libertatea cerută de legământ."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și fiecare",
+       "w": "și fiecare",
+       "heb": "וְאִישׁ",
+       "translit": "veiș",
+       "strong": "H376",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și om (veiș)",
+       "dict_ro": "Nelegiuirea exactă a fost refuzul de a proclama libertatea cerută de legământ."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru semenul său.",
+       "w": "pentru semenul său.",
+       "heb": "לְרֵעֵהוּ",
+       "translit": "lerēēhu",
+       "strong": "H7453",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "pentru semenul lui. (lerēēhu)",
+       "dict_ro": "Nelegiuirea exactă a fost refuzul de a proclama libertatea cerută de legământ."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Iată,",
+       "w": "Iată,",
+       "heb": "הִנְנִי",
+       "translit": "hinni",
+       "strong": "H2005",
+       "pos": "particulă demonstrativă + sufix",
+       "def_ro": "iată-mă, (hinni)",
+       "dict_ro": "Pedeapsa anunțată e explicit proporțională cu nelegiuirea: cei care au refuzat libertatea vor primi o altă «libertate» — a sabiei, molimei, foametei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Eu proclam",
+       "w": "Eu proclam",
+       "heb": "קֹרֵא",
+       "translit": "korē",
+       "strong": "H7121",
+       "pos": "verb, qal participiu",
+       "def_ro": "proclamând (korē)",
+       "dict_ro": "Pedeapsa anunțată e explicit proporțională cu nelegiuirea: cei care au refuzat libertatea vor primi o altă «libertate» — a sabiei, molimei, foametei.",
        "greek": "καλέω ἄφεσιν (kaleo aphesin)",
-       "greek_def_ro": "καλέω ἄφεσιν (kaleo aphesin) — proclam libertate.",
-       "dict_ro": "Joc de cuvinte amar și ironic: DOMNUL „proclamă libertate” asupra lor — dar nu eliberarea din robie, ci „libertatea” de a cădea pradă sabiei, molimei și foametei — cuvântul lor refuzat li se întoarce, transformat în judecată."
+       "greek_def_ro": "καλέω ἄφεσιν (kaleo aphesin) — proclam libertate."
       },
       {
-       "t": " peste voi – rostirea DOMNULUI – pentru sabie, pentru molimă și pentru foamete și voi face din voi o "
+       "t": " "
       },
       {
-       "t": "pricină de groază",
-       "w": "pricină de groază",
+       "t": "libertate",
+       "w": "libertate",
+       "heb": "דְּרוֹר",
+       "translit": "deror",
+       "strong": "H1865",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "libertate (deror)",
+       "dict_ro": "Pedeapsa anunțată e explicit proporțională cu nelegiuirea: cei care au refuzat libertatea vor primi o altă «libertate» — a sabiei, molimei, foametei.",
+       "greek": "καλέω ἄφεσιν (kaleo aphesin)",
+       "greek_def_ro": "καλέω ἄφεσιν (kaleo aphesin) — proclam libertate."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "peste voi",
+       "w": "peste voi",
+       "heb": "לָכֶם",
+       "translit": "lahem",
+       "strong": "",
+       "pos": "prepoziție + sufix",
+       "def_ro": "pentru voi (lahem)",
+       "dict_ro": "Pedeapsa anunțată e explicit proporțională cu nelegiuirea."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn pedeapsa ironică: cei care au refuzat libertatea altora vor primi, în schimb, «libertatea» sabiei, molimei și foametei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn pedeapsa ironică: cei care au refuzat libertatea altora vor primi, în schimb, «libertatea» sabiei, molimei și foametei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– pentru",
+       "w": "– pentru",
+       "heb": "אֶל",
+       "translit": "el",
+       "strong": "H413",
+       "pos": "prepoziție",
+       "def_ro": "la (el)",
+       "dict_ro": "Cele trei pedepse — sabie, molimă, foamete — formează triada clasică a judecăților profetice."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sabie,",
+       "w": "sabie,",
+       "heb": "הַחֶרֶב",
+       "translit": "haherev",
+       "strong": "H2719",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "sabie, (haherev)",
+       "dict_ro": "Cele trei pedepse — sabie, molimă, foamete — formează triada clasică a judecăților profetice."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru",
+       "w": "pentru",
+       "heb": "אֶל",
+       "translit": "el",
+       "strong": "H413",
+       "pos": "prepoziție",
+       "def_ro": "la (el)",
+       "dict_ro": "Cele trei pedepse — sabie, molimă, foamete — formează triada clasică a judecăților profetice."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "molimă",
+       "w": "molimă",
+       "heb": "הַדֶּבֶר",
+       "translit": "hadever",
+       "strong": "H1698",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "molimă (hadever)",
+       "dict_ro": "Cele trei pedepse — sabie, molimă, foamete — formează triada clasică a judecăților profetice."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și pentru",
+       "w": "și pentru",
+       "heb": "וְאֶל",
+       "translit": "veel",
+       "strong": "H413",
+       "pos": "prepoziție",
+       "def_ro": "și la (veel)",
+       "dict_ro": "Cele trei pedepse — sabie, molimă, foamete — formează triada clasică a judecăților profetice."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "foamete",
+       "w": "foamete",
+       "heb": "הָרָעָב",
+       "translit": "haraav",
+       "strong": "H7458",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "foamete (haraav)",
+       "dict_ro": "Cele trei pedepse — sabie, molimă, foamete — formează triada clasică a judecăților profetice."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și voi face",
+       "w": "și voi face",
+       "heb": "וְנָתַתִּי אֶתְכֶם",
+       "translit": "venatati ethem",
+       "strong": "H853",
+       "pos": "verb, qal perfect consecutiv + marcă a complementului direct + sufix",
+       "def_ro": "și vă voi da (venatati, ethem)",
+       "dict_ro": "Soarta lui Iuda va deveni un exemplu de groază pentru toate națiunile vecine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din voi o pricină de groază",
+       "w": "din voi o pricină de groază",
        "heb": "לְזַעֲוָה",
        "translit": "lezaava",
        "strong": "H2189",
        "pos": "substantiv, feminin singular",
-       "def_ro": "spre groază, spre oroare.",
-       "diff_ro": "Textul grecesc disponibil se întrerupe înainte de acest cuvânt final (voi face din voi o pricină de groază pentru toate regatele pământului) — nu există corespondent verificabil.",
-       "dict_ro": "Za'avah — cuvânt rar pentru groaza/oroarea provocată altora prin exemplul propriei nenorociri; Israel, menit să fie „lumină pentru neamuri”, devine în schimb un exemplu negativ, o poveste de avertisment pentru toate regatele din jur."
+       "def_ro": "pentru groază (lezaava)",
+       "dict_ro": "Soarta lui Iuda va deveni un exemplu de groază pentru toate națiunile vecine."
       },
       {
-       "t": " pentru toate regatele pământului."
+       "t": " "
+      },
+      {
+       "t": "pentru toate",
+       "w": "pentru toate",
+       "heb": "לְכֹל",
+       "translit": "lehol",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "pentru toate (lehol)",
+       "dict_ro": "Soarta lui Iuda va deveni un exemplu de groază pentru toate națiunile vecine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "regatele",
+       "w": "regatele",
+       "heb": "מַמְלְכוֹת",
+       "translit": "mamlehot",
+       "strong": "H4467",
+       "pos": "substantiv, feminin plural construct",
+       "def_ro": "regatele (mamlehot)",
+       "dict_ro": "Soarta lui Iuda va deveni un exemplu de groază pentru toate națiunile vecine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pământului.",
+       "w": "pământului.",
+       "heb": "הָאָרֶץ",
+       "translit": "haareț",
+       "strong": "H776",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "pământului. (haareț)",
+       "dict_ro": "Soarta lui Iuda va deveni un exemplu de groază pentru toate națiunile vecine."
       }
      ],
      "textCompare": [
@@ -88481,45 +90128,149 @@
      "translit": "Ve-natatti et-ha-anashim ha-overim et-beriti asher lo-hekimu et-divrei ha-berit asher kartu lefanai ha-egel asher kartu li-shnayim va-ya'avru bein betarav.",
      "tokens": [
       {
-       "t": "Voi hărăzi oamenilor care Mi-au",
-       "w": "Voi hărăzi oamenilor care Mi-au",
-       "heb": "וְנָתַתִּי אֶת הָאֲנָשִׁים הָעֹבְרִים אֶת בְּרִתִי אֲשֶׁר",
-       "translit": "venatati et haanașim haovrim et beriti așer",
+       "t": "Voi hărăzi",
+       "w": "Voi hărăzi",
+       "heb": "וְנָתַתִּי",
+       "translit": "venatati",
        "strong": "H5414",
-       "pos": "verb, qal perfect consecutiv + marcă a complementului direct + substantiv + verb, qal participiu + marcă a complementului direct + substantiv construct + sufix + particulă relativă",
-       "def_ro": "și voi da pe oamenii care au trecut peste legământul Meu, care.",
-       "dict_ro": "Rashi propune o lectură surprinzătoare a vițelului tăiat în două care urmează: nu aparține legământului inițial de eliberare, ci unui al doilea legământ, de nesupunere, încheiat DUPĂ recapturarea sclavilor, prin care poporul a jurat unii altora solidaritate în păcat."
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și voi da (venatati)",
+       "dict_ro": "Pedeapsa pentru încălcarea legământului e descrisă prin imaginea ritualului antic al vițelului tăiat în două."
       },
       {
        "t": " "
       },
       {
-       "t": "încălcat legământul",
-       "w": "încălcat legământul",
+       "t": "oamenilor",
+       "w": "oamenilor",
+       "heb": "אֶת הָאֲנָשִׁים",
+       "translit": "et haanașim",
+       "strong": "H376",
+       "pos": "marcă a complementului direct + substantiv, masculin plural",
+       "def_ro": "pe oamenii (et, haanașim)",
+       "dict_ro": "Pedeapsa vizează direct pe cei care au încălcat legământul pecetluit prin acest rit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care",
+       "w": "care",
        "heb": "הָעֹבְרִים",
        "translit": "haovrim",
        "strong": "H5674",
        "pos": "verb, qal participiu",
-       "def_ro": "cei ce încalcă legământul Meu.",
+       "def_ro": "care au trecut peste (haovrim)",
+       "dict_ro": "Pedeapsa vizează direct pe cei care au încălcat legământul pecetluit prin acest rit.",
        "greek": "παρέρχομαι διαθήκην (parerchomai diatheken)",
-       "greek_def_ro": "παρέρχομαι διαθήκην (parerchomai diatheken) — cei ce au trecut peste legământ.",
-       "dict_ro": "Rădăcina avar, „a trece” — joc de cuvinte dublu: „cei ce trec peste legământul Meu” [îl încalcă] sunt exact aceiași care „au trecut” fizic printre bucățile vițelului tăiat (v.18b), aceeași rădăcină verbală legând vina de ritualul jurământului."
+       "greek_def_ro": "παρέρχομαι διαθήκην (parerchomai diatheken) — cei ce au trecut peste legământ."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "celor care nu au împlinit cuvintele legământului pe care l-au pecetluit înaintea Mea",
-       "w": "celor care nu au împlinit cuvintele legământului pe care l-au pecetluit înaintea Mea",
-       "heb": "לֹא הֵקִימוּ אֶת דִּבְרֵי הַבְּרִית אֲשֶׁר כָּרְתוּ לְפָנָי",
-       "translit": "lo hēkimu et divrē habrit așer kartu lefanai",
+       "t": "Mi-au încălcat",
+       "w": "Mi-au încălcat",
+       "heb": "הָעֹבְרִים",
+       "translit": "haovrim",
+       "strong": "H5674",
+       "pos": "verb, qal participiu",
+       "def_ro": "au trecut peste (haovrim)",
+       "dict_ro": "Pedeapsa vizează direct pe cei care au încălcat legământul pecetluit prin acest rit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "legământul,",
+       "w": "legământul,",
+       "heb": "אֶת בְּרִתִי",
+       "translit": "et beriti",
+       "strong": "H1285",
+       "pos": "marcă a complementului direct + substantiv, feminin singular construct + sufix",
+       "def_ro": "legământul meu (et, beriti)",
+       "dict_ro": "Legământul e numit direct «legământul Meu», subliniind caracterul lui divin, nu doar politic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "celor care",
+       "w": "celor care",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care (așer)",
+       "dict_ro": "Nerespectarea cuvintelor exacte ale legământului e motivul precis al pedepsei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "nu au împlinit",
+       "w": "nu au împlinit",
+       "heb": "לֹא הֵקִימוּ",
+       "translit": "lo hēkimu",
        "strong": "H6965",
-       "pos": "particulă negativă + verb, hifil perfect + marcă a complementului direct + substantiv construct + substantiv + particulă relativă + verb, qal perfect + substantiv construct + sufix",
-       "def_ro": "nu au împlinit cuvintele legământului pe care l-au încheiat înaintea Mea.",
-       "dict_ro": "Repetarea verbului «a încheia legământ» (karat) de două ori în același verset, în legătură cu vițelul tăiat, leagă explicit ritualul jurământului de imaginea sacrificiului despicat — a nu respecta cuvântul e echivalent, simbolic, cu soarta animalului tăiat în două."
+       "pos": "particulă negativă + verb, hifil perfect",
+       "def_ro": "nu au împlinit (lo, hēkimu)",
+       "dict_ro": "Nerespectarea cuvintelor exacte ale legământului e motivul precis al pedepsei."
       },
       {
-       "t": ", [precum i-a fost hărăzit] "
+       "t": " "
+      },
+      {
+       "t": "cuvintele",
+       "w": "cuvintele",
+       "heb": "אֶת דִּבְרֵי",
+       "translit": "et divrē",
+       "strong": "H1697",
+       "pos": "marcă a complementului direct + substantiv, masculin plural construct",
+       "def_ro": "cuvintele (et, divrē)",
+       "dict_ro": "Nerespectarea cuvintelor exacte ale legământului e motivul precis al pedepsei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "legământului",
+       "w": "legământului",
+       "heb": "הַבְּרִית",
+       "translit": "habrit",
+       "strong": "H1285",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "legământului (habrit)",
+       "dict_ro": "Nerespectarea cuvintelor exacte ale legământului e motivul precis al pedepsei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe care l-au pecetluit",
+       "w": "pe care l-au pecetluit",
+       "heb": "אֲשֶׁר כָּרְתוּ",
+       "translit": "așer kartu",
+       "strong": "H3772",
+       "pos": "particulă relativă + verb, qal perfect",
+       "def_ro": "care l-au pecetluit (așer, kartu)",
+       "dict_ro": "Legământul fusese pecetluit explicit înaintea DOMNULUI, în Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "înaintea Mea,",
+       "w": "înaintea Mea,",
+       "heb": "לְפָנָי",
+       "translit": "lefanai",
+       "strong": "H6440",
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "înaintea mea, (lefanai)",
+       "dict_ro": "Legământul fusese pecetluit explicit înaintea DOMNULUI, în Templu."
+      },
+      {
+       "t": " [precum i-a fost hărăzit] "
       },
       {
        "t": "vițelului",
@@ -88528,14 +90279,37 @@
        "translit": "haēgel",
        "strong": "H5695",
        "pos": "substantiv, masculin singular",
-       "def_ro": "vițelul.",
+       "def_ro": "vițelul (haēgel)",
+       "dict_ro": "Riturile antice de legământ, precum tăierea unui vițel în două, simbolizau soarta celui ce ar încălca jurământul — exact pedeapsa care îi va atinge aici pe nelegiuiți.",
        "greek": "μόσχος (moschos)",
        "greek_def_ro": "μόσχος (moschos) — vițel.",
-       "diff_ro": "Finalul versetului grecesc diferă: „ὃν ἐποίησαν ἐργάζεσθαι αὐτῷ\" („pe care l-au făcut să lucreze pentru el\"), nu detaliul despre tăierea vițelului în două și trecerea printre jumătățile lui, ca în ebraică.",
-       "dict_ro": "Egel — ritual antic al legământului (cf. Geneza 15:9-17), în care animalul tăiat în două simboliza soarta celui ce ar încălca jurământul: să fie „tăiat” la fel. Rashi citește surprinzător acest ritual ca aparținând nu legământului inițial de eliberare (v.8-10), ci unui al doilea legământ, de răzvrătire, încheiat de popor DUPĂ ce și-au recapturat sclavii."
+       "diff_ro": "Finalul versetului grecesc diferă: „ὃν ἐποίησαν ἐργάζεσθαι αὐτῷ\" („pe care l-au făcut să lucreze pentru el\"), nu detaliul despre tăierea vițelului în două și trecerea printre jumătățile lui, ca în ebraică."
       },
       {
-       "t": " care a fost tăiat în două și printre jumătățile căruia au trecut"
+       "t": " "
+      },
+      {
+       "t": "care a fost tăiat în două",
+       "w": "care a fost tăiat în două",
+       "heb": "אֲשֶׁר כָּרְתוּ לִשְׁנַיִם",
+       "translit": "așer kartu lișnaim",
+       "strong": "H8147",
+       "pos": "particulă relativă + verb, qal perfect + numeral",
+       "def_ro": "care l-au pecetluit în două (așer, kartu, lișnaim)",
+       "dict_ro": "Riturile antice de legământ, precum tăierea unui vițel în două, simbolizau soarta celui ce ar încălca jurământul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și printre jumătățile căruia au trecut",
+       "w": "și printre jumătățile căruia au trecut",
+       "heb": "וַיַּעַבְרוּ בֵּין בְּתָרָיו",
+       "translit": "vaiaavru bēn betaraiv",
+       "strong": "H1335",
+       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv, masculin plural construct + sufix",
+       "def_ro": "și au trecut printre părțile lui (vaiaavru, bēn, betaraiv)",
+       "dict_ro": "Trecerea printre cele două jumătăți ale vițelului era gestul ritual propriu-zis al pecetluirii legământului."
       }
      ],
      "textCompare": [
@@ -88574,17 +90348,56 @@
      "translit": "Sarei Yehudah ve-sarei Yerushalayim ha-sarisim ve-ha-kohanim ve-khol am ha-arets ha-overim bein bitrei ha-egel.",
      "tokens": [
       {
-       "t": "conducătorii lui Iuda și conducătorii Ierusalimului",
-       "w": "conducătorii lui Iuda și conducătorii Ierusalimului",
-       "heb": "שָׂרֵי יְהוּדָה וְשָׂרֵי יְרוּשָׁלִַם",
-       "translit": "sarē iehuda vesarē ierușalam",
+       "t": "conducătorii lui",
+       "w": "conducătorii lui",
+       "heb": "שָׂרֵי",
+       "translit": "sarē",
        "strong": "H8269",
-       "pos": "substantiv plural construct + nume propriu + substantiv plural construct + nume propriu",
-       "def_ro": "căpeteniile lui Iuda și căpeteniile Ierusalimului.",
-       "dict_ro": "Radak distinge cele două categorii: căpeteniile lui Iuda sunt conducătorii cetăților de afară de Ierusalim, pe când cei ai Ierusalimului sunt dregătorii din capitală — enumerarea completă arată participarea întregii structuri de conducere la ritualul vițelului despicat."
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "conducătorii (sarē)",
+       "dict_ro": "Toată elita cetății — conducători, eunuci, preoți — a participat la ritul legământului, deci toți sunt răspunzători de încălcarea lui."
       },
       {
-       "t": ", "
+       "t": " "
+      },
+      {
+       "t": "Iuda",
+       "w": "Iuda",
+       "heb": "יְהוּדָה",
+       "translit": "iehuda",
+       "strong": "H3063",
+       "pos": "nume propriu",
+       "def_ro": "lui Iuda (iehuda)",
+       "dict_ro": "Toată elita cetății a participat la ritul legământului, deci toți sunt răspunzători de încălcarea lui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și conducătorii",
+       "w": "și conducătorii",
+       "heb": "וְשָׂרֵי",
+       "translit": "vesarē",
+       "strong": "H8269",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "și conducătorii (vesarē)",
+       "dict_ro": "Toată elita cetății a participat la ritul legământului, deci toți sunt răspunzători de încălcarea lui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Ierusalimului,",
+       "w": "Ierusalimului,",
+       "heb": "יְרוּשָׁלִַם",
+       "translit": "ierușalam",
+       "strong": "H3389",
+       "pos": "nume propriu",
+       "def_ro": "Ierusalimului, (ierușalam)",
+       "dict_ro": "Toată elita cetății a participat la ritul legământului, deci toți sunt răspunzători de încălcarea lui."
+      },
+      {
+       "t": " "
       },
       {
        "t": "dregătorii",
@@ -88593,14 +90406,102 @@
        "translit": "hasarisim",
        "strong": "H5631",
        "pos": "substantiv, masculin plural",
-       "def_ro": "eunucii, dregătorii de curte.",
+       "def_ro": "eunucii (hasarisim)",
+       "dict_ro": "Toată elita cetății a participat la ritul legământului, deci toți sunt răspunzători de încălcarea lui.",
        "greek": "δυνάστης (dynastes)",
        "greek_def_ro": "δυνάστης (dynastes) — dregător, persoană cu putere.",
-       "diff_ro": "Septuaginta are o listă mai scurtă și reordonată („conducătorii, dregătorii, preoții, poporul\" — patru termeni, nu cinci), omițând complet finalul versetului despre trecerea printre jumătățile vițelului.",
-       "dict_ro": "Saris — termen tehnic pentru înalți funcționari de curte (nu neapărat literal eunuci); lista completă a participanților la legământul rupt — conducători politici, funcționari, preoți și „tot poporul țării” — subliniază responsabilitatea colectivă, la toate nivelurile societății, pentru încălcarea comisă."
+       "diff_ro": "Septuaginta are o listă mai scurtă și reordonată („conducătorii, dregătorii, preoții, poporul\" — patru termeni, nu cinci), omițând complet finalul versetului despre trecerea printre jumătățile vițelului."
       },
       {
-       "t": " și preoții și tot poporul țării, cei care au trecut printre jumătățile vițelului."
+       "t": " "
+      },
+      {
+       "t": "și preoții",
+       "w": "și preoții",
+       "heb": "וְהַכֹּהֲנִים",
+       "translit": "vehakohanim",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "și preoții (vehakohanim)",
+       "dict_ro": "Toată elita cetății a participat la ritul legământului, deci toți sunt răspunzători de încălcarea lui."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și tot",
+       "w": "și tot",
+       "heb": "וְכֹל",
+       "translit": "vehol",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "și tot (vehol)",
+       "dict_ro": "Participarea întregului popor confirmă răspunderea colectivă pentru trădarea legământului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "poporul",
+       "w": "poporul",
+       "heb": "עַם",
+       "translit": "am",
+       "strong": "H5971",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "poporul (am)",
+       "dict_ro": "Participarea întregului popor confirmă răspunderea colectivă pentru trădarea legământului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "țării,",
+       "w": "țării,",
+       "heb": "הָאָרֶץ",
+       "translit": "haareț",
+       "strong": "H776",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "țării, (haareț)",
+       "dict_ro": "Participarea întregului popor confirmă răspunderea colectivă pentru trădarea legământului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cei care au trecut",
+       "w": "cei care au trecut",
+       "heb": "הָעֹבְרִים",
+       "translit": "haovrim",
+       "strong": "H5674",
+       "pos": "verb, qal participiu",
+       "def_ro": "care au trecut (haovrim)",
+       "dict_ro": "Trecerea printre jumătățile vițelului a fost gestul ritual asumat public de toți."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "printre jumătățile",
+       "w": "printre jumătățile",
+       "heb": "בֵּין בִּתְרֵי",
+       "translit": "bēn bitrē",
+       "strong": "H1335",
+       "pos": "prepoziție + substantiv, masculin plural construct",
+       "def_ro": "între părțile (bēn, bitrē)",
+       "dict_ro": "Trecerea printre jumătățile vițelului a fost gestul ritual asumat public de toți."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "vițelului.",
+       "w": "vițelului.",
+       "heb": "הָעֵגֶל",
+       "translit": "haēgel",
+       "strong": "H5695",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "vițelului. (haēgel)",
+       "dict_ro": "Trecerea printre jumătățile vițelului a fost gestul ritual asumat public de toți."
       }
      ],
      "textCompare": [
@@ -88648,22 +90549,157 @@
      "translit": "Ve-natatti otam be-yad oyveihem u-ve-yad mevakshei nafsham ve-hayetah nivlatam le-ma'akhal le-of ha-shamayim u-le-vehemat ha-arets.",
      "tokens": [
       {
-       "t": "Și îi voi da în mâna dușmanilor lor și în mâna celor care caută să le ia viața, iar "
+       "t": "Și îi voi da",
+       "w": "Și îi voi da",
+       "heb": "וְנָתַתִּי אוֹתָם",
+       "translit": "venatati otam",
+       "strong": "H853",
+       "pos": "verb, qal perfect consecutiv + marcă a complementului direct + sufix",
+       "def_ro": "și voi da pe ei (venatati, otam)",
+       "dict_ro": "Pedeapsa anunțată e predarea vinovaților în mâna propriilor lor vrăjmași."
       },
       {
-       "t": "hoiturile lor",
-       "w": "hoiturile lor",
-       "heb": "נִבְלָתָם",
-       "translit": "nivlatam",
+       "t": " "
+      },
+      {
+       "t": "în mâna",
+       "w": "în mâna",
+       "heb": "בְּיַד",
+       "translit": "beiad",
+       "strong": "H3027",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "în mâna (beiad)",
+       "dict_ro": "Pedeapsa anunțată e predarea vinovaților în mâna propriilor lor vrăjmași."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dușmanilor lor",
+       "w": "dușmanilor lor",
+       "heb": "אֹיְבֵיהֶם",
+       "translit": "oivēhem",
+       "strong": "H341",
+       "pos": "verb, qal participiu + sufix",
+       "def_ro": "vrăjmașilor lor (oivēhem)",
+       "dict_ro": "Pedeapsa anunțată e predarea vinovaților în mâna propriilor lor vrăjmași."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și în mâna",
+       "w": "și în mâna",
+       "heb": "וּבְיַד",
+       "translit": "uviad",
+       "strong": "H3027",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "și în mâna (uviad)",
+       "dict_ro": "Pedeapsa include predarea în mâna celor care caută direct viața lor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "celor care caută",
+       "w": "celor care caută",
+       "heb": "מְבַקְשֵׁי",
+       "translit": "mevakșē",
+       "strong": "H1245",
+       "pos": "verb, piel participiu",
+       "def_ro": "celor care caută (mevakșē)",
+       "dict_ro": "Pedeapsa include predarea în mâna celor care caută direct viața lor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să le ia viața,",
+       "w": "să le ia viața,",
+       "heb": "נַפְשָׁם",
+       "translit": "nafșam",
+       "strong": "H5315",
+       "pos": "substantiv, masculin și feminin singular construct + sufix",
+       "def_ro": "viața lor, (nafșam)",
+       "dict_ro": "Pedeapsa include predarea în mâna celor care caută direct viața lor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "iar hoiturile lor",
+       "w": "iar hoiturile lor",
+       "heb": "וְהָיְתָה נִבְלָתָם",
+       "translit": "vehaita nivlatam",
        "strong": "H5038",
-       "pos": "substantiv, feminin singular construct + sufix",
-       "def_ro": "cadavrele/hoiturile lor.",
-       "greek": "θνησιμαῖα αὐτῶν (thnesimaia auton)",
-       "greek_def_ro": "θνησιμαῖα αὐτῶν (thnesimaia auton) — hoiturile/leșurile lor.",
-       "dict_ro": "Nevelah, „hoit, cadavru [neîngropat]” — formula standard a pedepsei celei mai de rușine în literatura profetică: nu doar moarte, ci lipsa oricărei înmormântări demne, trupul lăsat pradă deschisă animalelor — soarta exact inversă onoarei presupuse de statutul social al conducătorilor enumerați la v.19."
+       "pos": "verb, qal perfect consecutiv + substantiv, feminin singular construct + sufix",
+       "def_ro": "și va fi hoitul lor (vehaita, nivlatam)",
+       "dict_ro": "Lipsa unei înmormântări demne, trupul lăsat hrană animalelor, era pedeapsa supremă de rușine în literatura profetică."
       },
       {
-       "t": " vor fi drept hrană pentru pasărea cerului și pentru fiara pământului."
+       "t": " "
+      },
+      {
+       "t": "vor fi drept hrană",
+       "w": "vor fi drept hrană",
+       "heb": "לְמַאֲכָל",
+       "translit": "lemaahal",
+       "strong": "H3978",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "ca hrană (lemaahal)",
+       "dict_ro": "Lipsa unei înmormântări demne, trupul lăsat hrană animalelor, era pedeapsa supremă de rușine în literatura profetică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru pasărea",
+       "w": "pentru pasărea",
+       "heb": "לְעוֹף",
+       "translit": "leof",
+       "strong": "H5775",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "pentru pasărea (leof)",
+       "dict_ro": "Lipsa unei înmormântări demne, trupul lăsat hrană animalelor, era pedeapsa supremă de rușine în literatura profetică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cerului",
+       "w": "cerului",
+       "heb": "הַשָּׁמַיִם",
+       "translit": "hașamaim",
+       "strong": "H8064",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "cerurilor (hașamaim)",
+       "dict_ro": "Lipsa unei înmormântări demne, trupul lăsat hrană animalelor, era pedeapsa supremă de rușine în literatura profetică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și pentru fiara",
+       "w": "și pentru fiara",
+       "heb": "וּלְבֶהֱמַת",
+       "translit": "ulvehemat",
+       "strong": "H929",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "și pentru fiara (ulvehemat)",
+       "dict_ro": "Lipsa unei înmormântări demne, trupul lăsat hrană animalelor, era pedeapsa supremă de rușine în literatura profetică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pământului.",
+       "w": "pământului.",
+       "heb": "הָאָרֶץ",
+       "translit": "haareț",
+       "strong": "H776",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "pământului. (haareț)",
+       "dict_ro": "Lipsa unei înmormântări demne, trupul lăsat hrană animalelor, era pedeapsa supremă de rușine în literatura profetică."
       }
      ],
      "textCompare": [
@@ -88703,35 +90739,237 @@
      "translit": "Ve-et-Tsidkiyahu melekh-Yehudah ve-et-sarav etten be-yad oyveihem u-ve-yad mevakshei nafsham u-ve-yad cheil melekh Bavel ha-olim me-aleikhem.",
      "tokens": [
       {
-       "t": "Iar pe Țedekia, regele din Iuda, și pe conducătorii lui, îi voi da în mâna dușmanilor lor și în mâna celor care caută să le ia viața, și în mâna armatei "
+       "t": "Iar pe",
+       "w": "Iar pe",
+       "heb": "וְאֶת",
+       "translit": "veet",
+       "strong": "H853",
+       "pos": "marcă a complementului direct",
+       "def_ro": "și pe (veet)",
+       "dict_ro": "Pedeapsa se extinde explicit la rege și la toată elita lui, cei care au condus trădarea legământului."
       },
       {
-       "t": "regelui Babilonului",
-       "w": "regelui Babilonului",
-       "heb": "מֶלֶךְ בָּבֶל",
-       "translit": "meleh bavel",
+       "t": " "
+      },
+      {
+       "t": "Țedekia,",
+       "w": "Țedekia,",
+       "heb": "צִדְקִיָּהוּ",
+       "translit": "țidkiahu",
+       "strong": "H6667",
+       "pos": "nume propriu",
+       "def_ro": "Țedekia, (țidkiahu)",
+       "dict_ro": "Pedeapsa se extinde explicit la Țedekia, cel care a inițiat legământul mai apoi trădat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "regele din",
+       "w": "regele din",
+       "heb": "מֶלֶךְ",
+       "translit": "meleh",
        "strong": "H4428",
-       "pos": "substantiv construct + nume propriu",
-       "def_ro": "regele Babilonului.",
-       "dict_ro": "Rashi explică faptul că armata regelui Babilonului se retrăsese temporar «din pricina oștii lui Faraon, care a ieșit din Egipt» (Ieremia 37:5) — o retragere provizorie, nu o eliberare definitivă, cum avea să confirme imediat judecata din versetul următor."
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "regele (meleh)",
+       "dict_ro": "Pedeapsa se extinde explicit la Țedekia, cel care a inițiat legământul mai apoi trădat."
       },
       {
-       "t": " care s-a "
+       "t": " "
       },
       {
-       "t": "retras",
-       "w": "retras",
+       "t": "Iuda,",
+       "w": "Iuda,",
+       "heb": "יְהוּדָה",
+       "translit": "iehuda",
+       "strong": "H3063",
+       "pos": "nume propriu",
+       "def_ro": "lui Iuda, (iehuda)",
+       "dict_ro": "Pedeapsa se extinde explicit la Țedekia, cel care a inițiat legământul mai apoi trădat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și pe",
+       "w": "și pe",
+       "heb": "וְאֶת",
+       "translit": "veet",
+       "strong": "H853",
+       "pos": "marcă a complementului direct",
+       "def_ro": "și pe (veet)",
+       "dict_ro": "Conducătorii lui Țedekia partajează aceeași vină și aceeași pedeapsă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "conducătorii lui,",
+       "w": "conducătorii lui,",
+       "heb": "שָׂרָיו",
+       "translit": "saraiv",
+       "strong": "H8269",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "conducătorii lui, (saraiv)",
+       "dict_ro": "Conducătorii lui Țedekia partajează aceeași vină și aceeași pedeapsă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "îi voi da",
+       "w": "îi voi da",
+       "heb": "אֶתֵּן",
+       "translit": "etēn",
+       "strong": "H5414",
+       "pos": "verb, qal imperfect",
+       "def_ro": "îi voi da (etēn)",
+       "dict_ro": "Pedeapsa anunțată e predarea vinovaților în mâna propriilor lor vrăjmași."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în mâna",
+       "w": "în mâna",
+       "heb": "בְּיַד",
+       "translit": "beiad",
+       "strong": "H3027",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "în mâna (beiad)",
+       "dict_ro": "Pedeapsa anunțată e predarea vinovaților în mâna propriilor lor vrăjmași."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dușmanilor lor",
+       "w": "dușmanilor lor",
+       "heb": "אֹיְבֵיהֶם",
+       "translit": "oivēhem",
+       "strong": "H341",
+       "pos": "verb, qal participiu + sufix",
+       "def_ro": "vrăjmașilor lor (oivēhem)",
+       "dict_ro": "Pedeapsa anunțată e predarea vinovaților în mâna propriilor lor vrăjmași."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și în mâna",
+       "w": "și în mâna",
+       "heb": "וּבְיַד",
+       "translit": "uviad",
+       "strong": "H3027",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "și în mâna (uviad)",
+       "dict_ro": "Pedeapsa include predarea în mâna celor care caută direct viața lor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "celor care caută",
+       "w": "celor care caută",
+       "heb": "מְבַקְשֵׁי",
+       "translit": "mevakșē",
+       "strong": "H1245",
+       "pos": "verb, piel participiu",
+       "def_ro": "celor care caută (mevakșē)",
+       "dict_ro": "Pedeapsa include predarea în mâna celor care caută direct viața lor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să le ia viața,",
+       "w": "să le ia viața,",
+       "heb": "נַפְשָׁם",
+       "translit": "nafșam",
+       "strong": "H5315",
+       "pos": "substantiv, masculin și feminin singular construct + sufix",
+       "def_ro": "viața lor, (nafșam)",
+       "dict_ro": "Pedeapsa include predarea în mâna celor care caută direct viața lor."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și în mâna",
+       "w": "și în mâna",
+       "heb": "וּבְיַד",
+       "translit": "uviad",
+       "strong": "H3027",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "și în mâna (uviad)",
+       "dict_ro": "Armata babiloniană, retrasă temporar, se va întoarce și va aduce pedeapsa finală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "armatei",
+       "w": "armatei",
+       "heb": "חֵיל",
+       "translit": "hēl",
+       "strong": "H2428",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "armatei (hēl)",
+       "dict_ro": "Armata babiloniană, retrasă temporar, se va întoarce și va aduce pedeapsa finală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "regelui",
+       "w": "regelui",
+       "heb": "מֶלֶךְ",
+       "translit": "meleh",
+       "strong": "H4428",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "regelui (meleh)",
+       "dict_ro": "Armata babiloniană, retrasă temporar, se va întoarce și va aduce pedeapsa finală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Babilonului",
+       "w": "Babilonului",
+       "heb": "בָּבֶל",
+       "translit": "bavel",
+       "strong": "H894",
+       "pos": "nume propriu",
+       "def_ro": "Babilonului (bavel)",
+       "dict_ro": "Armata babiloniană, retrasă temporar, se va întoarce și va aduce pedeapsa finală."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care s-a retras",
+       "w": "care s-a retras",
        "heb": "הָעֹלִים",
        "translit": "haolim",
        "strong": "H5927",
        "pos": "verb, qal participiu",
-       "def_ro": "cei ce se ridică/se retrag de la voi.",
+       "def_ro": "care s-au retras (haolim)",
+       "dict_ro": "Retragerea temporară a armatei babiloniene (posibil la vestea unei intervenții egiptene) a creat falsa speranță care a dus la trădarea legământului.",
        "greek": "ἀποτρέχω (apotrecho)",
-       "greek_def_ro": "ἀποτρέχω (apotrecho) — a se retrage, a fugi înapoi.",
-       "dict_ro": "Rashi leagă această retragere temporară a asediului babilonian de venirea armatei lui Faraon dinspre Egipt (Ieremia 37:5-11), care a forțat o pauză scurtă a asediului Ierusalimului — un răgaz fals de speranță, urmat însă de revenirea inevitabilă a caldeenilor (v.22)."
+       "greek_def_ro": "ἀποτρέχω (apotrecho) — a se retrage, a fugi înapoi."
       },
       {
-       "t": " de la voi."
+       "t": " "
+      },
+      {
+       "t": "de la voi.",
+       "w": "de la voi.",
+       "heb": "מֵעֲלֵיכֶם",
+       "translit": "mēalēhem",
+       "strong": "H5921",
+       "pos": "prepoziție + sufix",
+       "def_ro": "de la voi. (mēalēhem)",
+       "dict_ro": "Retragerea temporară a armatei babiloniene a creat falsa speranță care a dus la trădarea legământului."
       }
      ],
      "textCompare": [
@@ -88771,63 +91009,226 @@
      "translit": "Hineni metsavveh ne'um-Adonai va-hashivotim el-ha-ir ha-zot ve-nilchamu aleha u-lekhaduha u-serafuha va-esh ve-et-arei Yehudah etten shemamah me-ein yoshev.",
      "tokens": [
       {
-       "t": "Iată, am "
+       "t": "Iată,",
+       "w": "Iată,",
+       "heb": "הִנְנִי",
+       "translit": "hinni",
+       "strong": "H2005",
+       "pos": "particulă demonstrativă + sufix",
+       "def_ro": "iată-mă, (hinni)",
+       "dict_ro": "DOMNUL anunță direct, personal, revenirea armatei și distrugerea finală a Ierusalimului."
       },
       {
-       "t": "poruncit",
-       "w": "poruncit",
+       "t": " "
+      },
+      {
+       "t": "am poruncit",
+       "w": "am poruncit",
        "heb": "מְצַוֶּה",
        "translit": "mețave",
        "strong": "H6680",
        "pos": "verb, piel participiu",
-       "def_ro": "poruncesc.",
+       "def_ro": "poruncind (mețave)",
+       "dict_ro": "DOMNUL anunță direct, personal, revenirea armatei și distrugerea finală a Ierusalimului.",
        "greek": "συντάσσω (syntasso)",
-       "greek_def_ro": "συντάσσω (syntasso) — a porunci, a rândui.",
-       "dict_ro": "Rashi explică laconic acest verset: „armata lui Faraon se va întoarce în țara ei, iar caldeenii se vor întoarce asupra voastră” — porunca divină pune în mișcare exact revenirea anunțată la versetul anterior, închizând cercul judecății."
+       "greek_def_ro": "συντάσσω (syntasso) — a porunci, a rândui."
       },
       {
-       "t": " – rostirea DOMNULUI – și "
+       "t": " "
       },
       {
-       "t": "Mă voi întoarce la acest oraș și voi purta război împotriva lui",
-       "w": "Mă voi întoarce la acest oraș și voi purta război împotriva lui",
-       "heb": "וַהֲשִׁבֹתִים אֶל הָעִיר הַזֹּאת וְנִלְחֲמוּ עָלֶיהָ",
-       "translit": "vahașivotim el hair hazot venilhamu aleha",
+       "t": "– rostirea",
+       "w": "– rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "rostirea (neum)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn anunțul distrugerii finale a cetății."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Formula «rostirea DOMNULUI» pecetluiește solemn anunțul distrugerii finale a cetății."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– și Mă voi întoarce",
+       "w": "– și Mă voi întoarce",
+       "heb": "וַהֲשִׁבֹתִים",
+       "translit": "vahașivotim",
        "strong": "H7725",
-       "pos": "verb, hifil perfect consecutiv + sufix + prepoziție + substantiv + pronume demonstrativ + verb, nifal perfect consecutiv + prepoziție + sufix",
-       "def_ro": "și îi voi aduce înapoi la cetatea aceasta și vor purta război împotriva ei.",
-       "dict_ro": "Rashi rezumă simplu împlinirea sentinței: armata lui Faraon se va întoarce în Egipt, iar caldeenii se vor întoarce asupra lui Iuda — porunca divină reia asediul suspendat temporar, ducând la cucerirea completă a Ierusalimului."
+       "pos": "verb, hifil perfect consecutiv + sufix",
+       "def_ro": "și îi voi aduce înapoi (vahașivotim)",
+       "dict_ro": "DOMNUL Își asumă personal readucerea armatei babiloniene împotriva cetății."
       },
       {
-       "t": ", îl voi "
+       "t": " "
       },
       {
-       "t": "cuceri",
-       "w": "cuceri",
+       "t": "la acest",
+       "w": "la acest",
+       "heb": "אֶל הַזֹּאת",
+       "translit": "el hazot",
+       "strong": "H2063",
+       "pos": "prepoziție + pronume demonstrativ",
+       "def_ro": "la, acesta (el, hazot)",
+       "dict_ro": "DOMNUL Își asumă personal readucerea armatei babiloniene împotriva cetății."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "oraș",
+       "w": "oraș",
+       "heb": "הָעִיר",
+       "translit": "hair",
+       "strong": "H5892",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "orașul (hair)",
+       "dict_ro": "Ierusalimul, cetatea legământului trădat, va fi ținta directă a judecății."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și voi purta război",
+       "w": "și voi purta război",
+       "heb": "וְנִלְחֲמוּ",
+       "translit": "venilhamu",
+       "strong": "H3898",
+       "pos": "verb, nifal perfect consecutiv",
+       "def_ro": "și se vor lupta (venilhamu)",
+       "dict_ro": "Secvența cucerire-ardere-pustiire descrie explicit distrugerea totală a Ierusalimului din 586 î.Hr."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "împotriva lui,",
+       "w": "împotriva lui,",
+       "heb": "עָלֶיהָ",
+       "translit": "aleha",
+       "strong": "H5921",
+       "pos": "prepoziție + sufix",
+       "def_ro": "împotriva lui, (aleha)",
+       "dict_ro": "Secvența cucerire-ardere-pustiire descrie explicit distrugerea totală a Ierusalimului din 586 î.Hr."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "îl voi cuceri",
+       "w": "îl voi cuceri",
        "heb": "וּלְכָדוּהָ",
        "translit": "ulhaduha",
        "strong": "H3920",
        "pos": "verb, qal perfect consecutiv + sufix",
-       "def_ro": "și-l vor cuceri.",
+       "def_ro": "și îl vor cuceri (ulhaduha)",
+       "dict_ro": "Secvența cucerire-ardere-pustiire descrie explicit distrugerea totală a Ierusalimului din 586 î.Hr.",
        "greek": "λαμβάνω (lambano)",
-       "greek_def_ro": "λαμβάνω (lambano) — a prinde, a cuceri.",
-       "dict_ro": "Rădăcina lakhad, „a captura, a cuceri” — verb tehnic militar, folosit constant pentru căderea Ierusalimului în tot restul cărții lui Ieremia, aici anunțând explicit distrugerea finală, deja apropiată la momentul rostirii acestui oracol."
+       "greek_def_ro": "λαμβάνω (lambano) — a prinde, a cuceri."
       },
       {
-       "t": " și îl voi arde în foc; și "
+       "t": " "
       },
       {
-       "t": "voi preface în pustiu orașele din Iuda",
-       "w": "voi preface în pustiu orașele din Iuda",
-       "heb": "וְאֶת עָרֵי יְהוּדָה אֶתֵּן שְׁמָמָה",
-       "translit": "veet arē iehuda etēn șemama",
+       "t": "și îl voi arde",
+       "w": "și îl voi arde",
+       "heb": "וּשְׂרָפֻהָ",
+       "translit": "usrafuha",
+       "strong": "H8313",
+       "pos": "verb, qal perfect consecutiv + sufix",
+       "def_ro": "și îl vor arde (usrafuha)",
+       "dict_ro": "Secvența cucerire-ardere-pustiire descrie explicit distrugerea totală a Ierusalimului din 586 î.Hr."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în foc;",
+       "w": "în foc;",
+       "heb": "בָאֵשׁ",
+       "translit": "vaēș",
+       "strong": "H784",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "în foc; (vaēș)",
+       "dict_ro": "Secvența cucerire-ardere-pustiire descrie explicit distrugerea totală a Ierusalimului din 586 î.Hr."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și voi preface în pustiu",
+       "w": "și voi preface în pustiu",
+       "heb": "וְאֶת אֶתֵּן שְׁמָמָה",
+       "translit": "veet etēn șemama",
+       "strong": "H8077",
+       "pos": "marcă a complementului direct + verb, qal imperfect + substantiv, feminin singular",
+       "def_ro": "și pe, voi da, pustiu (veet, etēn, șemama)",
+       "dict_ro": "Pustiirea se extinde de la capitală la întregul regat al lui Iuda."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "orașele din",
+       "w": "orașele din",
+       "heb": "עָרֵי",
+       "translit": "arē",
        "strong": "H5892",
-       "pos": "marcă a complementului direct + substantiv plural construct + nume propriu + verb, qal imperfect + substantiv",
-       "def_ro": "și cetățile lui Iuda le voi face pustiire.",
-       "dict_ro": "Extinderea judecății dincolo de capitală, la toate cetățile lui Iuda, confirmă amploarea totală a dezastrului prezis, împlinind toate avertismentele rostite de-a lungul întregului capitol."
+       "pos": "substantiv, feminin plural construct",
+       "def_ro": "orașele (arē)",
+       "dict_ro": "Pustiirea se extinde de la capitală la întregul regat al lui Iuda."
       },
       {
-       "t": ", fără vreun locuitor.»”"
+       "t": " "
+      },
+      {
+       "t": "Iuda,",
+       "w": "Iuda,",
+       "heb": "יְהוּדָה",
+       "translit": "iehuda",
+       "strong": "H3063",
+       "pos": "nume propriu",
+       "def_ro": "lui Iuda, (iehuda)",
+       "dict_ro": "Pustiirea se extinde de la capitală la întregul regat al lui Iuda."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fără vreun",
+       "w": "fără vreun",
+       "heb": "מֵאֵין",
+       "translit": "mēēn",
+       "strong": "H369",
+       "pos": "particulă negativă",
+       "def_ro": "fără (mēēn)",
+       "dict_ro": "Lipsa totală de locuitori confirmă caracterul definitiv, nu temporar, al pedepsei."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "locuitor.»”",
+       "w": "locuitor.»”",
+       "heb": "יֹשֵׁב",
+       "translit": "ioșēv",
+       "strong": "H3427",
+       "pos": "verb, qal participiu",
+       "def_ro": "locuitor.»” (ioșēv)",
+       "dict_ro": "Lipsa totală de locuitori confirmă caracterul definitiv, nu temporar, al pedepsei."
       }
      ],
      "textCompare": [
@@ -88866,57 +91267,144 @@
      "translit": "Koh amar Adonai im-lo veriti yomam va-laylah chukkot shamayim va-arets lo-samti.",
      "tokens": [
       {
-       "t": "Așa a spus DOMNUL: „Dacă n-ar fi fost legământul Meu,",
-       "w": "Așa a spus DOMNUL: „Dacă n-ar fi fost legământul Meu,",
-       "heb": "כֹּה אָמַר יְהוָה אִם לֹא בְרִיתִי",
-       "translit": "ko amar Adonai im lo veriti",
-       "strong": "H3541",
-       "pos": "adverb + verb, qal perfect + nume propriu + conjuncție + particulă negativă + substantiv construct + sufix",
-       "def_ro": "așa a spus DOMNUL: dacă nu [ar fi] legământul Meu.",
-       "dict_ro": "Rashi explică faptul că acest legământ se referă la legământul cu ziua și noaptea, ca ele să vină la vremea lor — nu la Tora, cum au tâlcuit unii învățători (Nedarim 32a), tâlcuire pe care Rashi o consideră nepotrivită cu șirul versetelor."
+       "t": "Așa a spus",
+       "w": "Așa a spus",
+       "heb": "כֹּה אָמַר",
+       "translit": "ko amar",
+       "strong": "H559",
+       "pos": "adverb + verb, qal perfect",
+       "def_ro": "așa a spus (ko, amar)",
+       "dict_ro": "Haftara se încheie cu un oracol separat (Ieremia 33), de consolare, menit să echilibreze sentința grea din capitolul 34."
       },
       {
        "t": " "
       },
       {
-       "t": "zi și noapte",
-       "w": "zi și noapte",
-       "heb": "יוֹמָם וָלָיְלָה",
-       "translit": "iomam valaila",
-       "strong": "H3119",
-       "pos": "adverb + substantiv, masculin singular",
-       "def_ro": "zi și noapte.",
-       "dict_ro": "Acest verset și cel următor fac parte dintr-una dintre cele mai cunoscute și mai ample divergențe dintre textul masoretic și Septuaginta: capitolul al lui Ieremia în ebraică are aici un pasaj întreg, substanțial, despre legământul neschimbător cu ziua, noaptea și rânduielile cerului și pământului, care e complet ABSENT din Septuaginta — tradiția textuală greacă a cărții lui Ieremia, în general mult mai scurtă decât cea ebraică, nu conține deloc aceste două versete."
+       "t": "DOMNUL:",
+       "w": "DOMNUL:",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL: (Adonai)",
+       "dict_ro": "Haftara se încheie cu un oracol separat, de consolare, menit să echilibreze sentința grea din capitolul 34."
       },
       {
-       "t": ", dacă n-aș fi "
+       "t": " "
+      },
+      {
+       "t": "„Dacă n-ar fi fost",
+       "w": "„Dacă n-ar fi fost",
+       "heb": "אִם לֹא",
+       "translit": "im lo",
+       "strong": "H3808",
+       "pos": "conjuncție + particulă negativă",
+       "def_ro": "dacă nu (im, lo)",
+       "dict_ro": "Legământul cu Iacov și David e comparat ca certitudine cu legile fixe ale naturii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "legământul Meu,",
+       "w": "legământul Meu,",
+       "heb": "בְרִיתִי",
+       "translit": "veriti",
+       "strong": "H1285",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "legământul meu, (veriti)",
+       "dict_ro": "Legământul cu Iacov și David e comparat ca certitudine cu legile fixe ale naturii."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "zi",
+       "w": "zi",
+       "heb": "יוֹמָם",
+       "translit": "iomam",
+       "strong": "H3119",
+       "pos": "adverb",
+       "def_ro": "ziua (iomam)",
+       "dict_ro": "Ciclul zi-noapte, neîntrerupt, ilustrează fermitatea legământului divin."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și noapte,",
+       "w": "și noapte,",
+       "heb": "וָלָיְלָה",
+       "translit": "valaila",
+       "strong": "H3915",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și noaptea, (valaila)",
+       "dict_ro": "Ciclul zi-noapte, neîntrerupt, ilustrează fermitatea legământului divin."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dacă n-aș fi",
+       "w": "dacă n-aș fi",
+       "heb": "וָאָרֶץ לֹא",
+       "translit": "vaareț lo",
+       "strong": "H3808",
+       "pos": "substantiv, masculin și feminin singular + particulă negativă",
+       "def_ro": "dacă nu (lo)",
+       "dict_ro": "Legile fixe ale cerului și pământului sunt analogia pentru statornicia promisiunii față de urmașii lui David."
+      },
+      {
+       "t": " "
       },
       {
        "t": "rânduit",
        "w": "rânduit",
-       "heb": "שָׂמְתִּי",
-       "translit": "samti",
-       "strong": "H7760",
-       "pos": "verb, qal perfect",
-       "def_ro": "am pus, am rânduit.",
-       "diff_ro": "Întregul verset 33:25 e absent din Septuaginta — vezi nota de la „zi și noapte\".",
-       "dict_ro": "Rădăcina sim, „a pune, a rândui” — legile fizice ale universului (ceruri și pământ) devin, în acest verset, metafora cea mai puternică posibilă pentru certitudinea legământului: la fel de imposibil ca soarele să nu răsară, la fel de imposibil ar fi ca promisiunea făcută urmașilor lui Iacov să nu se împlinească."
+       "heb": "לֹא",
+       "translit": "lo",
+       "strong": "H3808",
+       "pos": "particulă negativă",
+       "def_ro": "am rânduit (samti)",
+       "dict_ro": "Legile fixe ale cerului și pământului sunt analogia pentru statornicia promisiunii față de urmașii lui David."
       },
       {
        "t": " "
       },
       {
-       "t": "legi pentru ceruri și pământ",
-       "w": "legi pentru ceruri și pământ",
-       "heb": "חֻקּוֹת שָׁמַיִם וָאָרֶץ",
-       "translit": "hukot șamaim vaareț",
+       "t": "legi",
+       "w": "legi",
+       "heb": "חֻקּוֹת",
+       "translit": "hukot",
        "strong": "H2708",
-       "pos": "substantiv plural construct + substantiv + substantiv",
-       "def_ro": "legile cerului și pământului.",
-       "dict_ro": "Comparația dintre legile fixe ale cosmosului și legământul cu sămânța lui Iacov — la fel de imposibil de desființat cum e rânduiala zilei și nopții — încheie oracolul cu cea mai solidă garanție posibilă a restaurării finale."
+       "pos": "substantiv, masculin și feminin plural construct",
+       "def_ro": "legile (hukot)",
+       "dict_ro": "Legile fixe ale cerului și pământului sunt analogia pentru statornicia promisiunii față de urmașii lui David."
       },
       {
-       "t": " –"
+       "t": " "
+      },
+      {
+       "t": "pentru ceruri",
+       "w": "pentru ceruri",
+       "heb": "שָׁמַיִם",
+       "translit": "șamaim",
+       "strong": "H8064",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "cerurilor (șamaim)",
+       "dict_ro": "Legile fixe ale cerului și pământului sunt analogia pentru statornicia promisiunii față de urmașii lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și pământ –",
+       "w": "și pământ –",
+       "heb": "שָׁמַיִם",
+       "translit": "șamaim",
+       "strong": "H8064",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "și pământului – (vaareț)",
+       "dict_ro": "Legile fixe ale cerului și pământului sunt analogia pentru statornicia promisiunii față de urmașii lui David."
       }
      ],
      "textCompare": [
@@ -88956,75 +91444,235 @@
      "translit": "Gam-zera Ya'akov ve-David avdi em'as mi-kachat mi-zaro moshlim el-zera Avraham Yischak ve-Ya'akov ki-ashiv et-shevutam ve-richamtim.",
      "tokens": [
       {
-       "t": "chiar și pe "
+       "t": "chiar și",
+       "w": "chiar și",
+       "heb": "גַּם",
+       "translit": "gam",
+       "strong": "H1571",
+       "pos": "particulă afirmativă",
+       "def_ro": "de asemenea (gam)",
+       "dict_ro": "Promisiunea finală restaurează explicit legământul neconditional cu urmașii lui Iacov și David, în ciuda eșecurilor poporului."
       },
       {
-       "t": "urmașii lui Iacov",
-       "w": "urmașii lui Iacov",
+       "t": " "
+      },
+      {
+       "t": "pe urmașii lui",
+       "w": "pe urmașii lui",
        "heb": "זֶרַע",
        "translit": "zera",
        "strong": "H2233",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "sămânța lui Iacov.",
-       "diff_ro": "Ca și versetul precedent, 33:26 e absent din Septuaginta — nu există corespondent grecesc verificabil pentru niciun cuvânt din acest verset.",
-       "dict_ro": "Zera, „sămânță, urmași” — promisiunea finală a Haftarei leagă direct soarta poporului („sămânța lui Iacov”) de dinastia davidică („David, slujitorul Meu”), cele două legăminte — cel național și cel regal-mesianic — garantate împreună prin aceeași certitudine cosmică descrisă la v.25."
+       "def_ro": "sămânța (zera)",
+       "dict_ro": "Promisiunea finală restaurează explicit legământul neconditional cu urmașii lui Iacov și David."
       },
       {
        "t": " "
       },
       {
-       "t": "și [pe cei] ai slujitorului Meu David i-aș fi",
-       "w": "și [pe cei] ai slujitorului Meu David i-aș fi",
-       "heb": "וְדָוִד עַבְדִּי",
-       "translit": "vedavid avdi",
+       "t": "Iacov",
+       "w": "Iacov",
+       "heb": "יַעֲקוֹב",
+       "translit": "iaakov",
+       "strong": "H3290",
+       "pos": "nume propriu",
+       "def_ro": "lui Iacov (iaakov)",
+       "dict_ro": "Promisiunea finală restaurează explicit legământul neconditional cu urmașii lui Iacov și David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și [pe cei] ai",
+       "w": "și [pe cei] ai",
+       "heb": "וְדָוִד",
+       "translit": "vedavid",
        "strong": "H1732",
-       "pos": "nume propriu + substantiv construct + sufix",
-       "def_ro": "și pe David, slujitorul Meu.",
-       "dict_ro": "Metzudat David explică faptul că, dacă rânduiala zilei și a nopții s-ar putea desființa, abia atunci DOMNUL ar lepăda și sămânța lui Iacov și a lui David, robul Său — imposibilitatea primei condiții garantează imposibilitatea celei de-a doua."
+       "pos": "nume propriu",
+       "def_ro": "și David, (vedavid)",
+       "dict_ro": "Legământul davidic, menționat aici alături de cel patriarhal, confirmă speranța mesianică neîntreruptă."
       },
       {
        "t": " "
       },
       {
-       "t": "respins",
-       "w": "respins",
+       "t": "slujitorului Meu",
+       "w": "slujitorului Meu",
+       "heb": "עַבְדִּי",
+       "translit": "avdi",
+       "strong": "H5650",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "slujitorul meu, (avdi)",
+       "dict_ro": "Legământul davidic, menționat aici alături de cel patriarhal, confirmă speranța mesianică neîntreruptă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "David",
+       "w": "David",
+       "heb": "וְדָוִד",
+       "translit": "vedavid",
+       "strong": "H1732",
+       "pos": "nume propriu",
+       "def_ro": "David, (vedavid)",
+       "dict_ro": "Legământul davidic, menționat aici alături de cel patriarhal, confirmă speranța mesianică neîntreruptă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "i-aș fi respins,",
+       "w": "i-aș fi respins,",
        "heb": "אֶמְאַס",
        "translit": "emas",
        "strong": "H3988",
        "pos": "verb, qal imperfect",
-       "def_ro": "aș respinge, aș lepăda.",
-       "diff_ro": "Vezi nota de la „urmașii lui Iacov\" — întregul verset e absent din Septuaginta.",
-       "dict_ro": "Rădăcina ma'as, „a respinge, a lepăda” — negat implicit prin structura condițională a întregului pasaj: la fel de imposibil cum e ca legile cosmice să cadă, la fel de imposibil e ca Dumnezeu să respingă definitiv linia davidică, oricât de sumbre ar părea circumstanțele istorice prezente (căderea iminentă a lui Țedechia, ultimul rege davidic domnitor)."
-      },
-      {
-       "t": ", "
-      },
-      {
-       "t": "neluând pe urmașii conducătorilor peste urmașii lui Avraham, Isaac și Iacov. Căci le voi",
-       "w": "neluând pe urmașii conducătorilor peste urmașii lui Avraham, Isaac și Iacov. Căci le voi",
-       "heb": "מִקַּחַת מִזַּרְעוֹ מֹשְׁלִים אֶל זֶרַע אַבְרָהָם יִשְׂחָק וְיַעֲקֹב כִּי",
-       "translit": "mikahat mizaro moșlim el zera avraham ishak veiaakov ki",
-       "strong": "H3947",
-       "pos": "verb, qal infinitiv + substantiv construct + sufix + verb, qal participiu + prepoziție + substantiv construct + nume propriu (repetat) + conjuncție",
-       "def_ro": "neluând din sămânța lui stăpânitori peste sămânța lui Avraam, Isaac și Iacov. Căci.",
-       "dict_ro": "Radak explică faptul că Ibn Ezra distinge aici două trepte ale promisiunii: regele trebuie să fie din sămânța lui Iacov, și, pe deasupra, din familia lui David — o dublă garanție dinastică pentru restaurarea finală a domniei."
+       "def_ro": "voi respinge (emas)",
+       "dict_ro": "DOMNUL neagă explicit posibilitatea de a respinge complet urmașii patriarhilor și ai lui David."
       },
       {
        "t": " "
       },
       {
-       "t": "aduce înapoi captivii",
-       "w": "aduce înapoi captivii",
-       "heb": "אָשִׁיב שְׁבוּתָם",
-       "translit": "așiv șevutam",
-       "strong": "H7725",
-       "pos": "verb, hifil imperfect + substantiv, feminin singular construct + sufix",
-       "def_ro": "le voi întoarce captivitatea.",
-       "diff_ro": "Vezi nota de la „urmașii lui Iacov\" — întregul verset e absent din Septuaginta.",
-       "dict_ro": "Aceeași formulă idiomatică shuv shevut întâlnită și la Ezechiel 29:14 pentru restaurarea Egiptului — aici aplicată promisiunii finale, celei mai sigure posibile, pentru poporul lui Dumnezeu Însuși, încheind Haftara pe nota de speranță necesară după capitolul întunecat al legământului rupt."
+       "t": "neluând",
+       "w": "neluând",
+       "heb": "מִקַּחַת",
+       "translit": "mikahat",
+       "strong": "H3947",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "a lua (mikahat)",
+       "dict_ro": "DOMNUL neagă explicit posibilitatea de a respinge complet urmașii patriarhilor și ai lui David."
       },
       {
-       "t": " și le voi arăta milă.”"
+       "t": " "
+      },
+      {
+       "t": "pe urmașii",
+       "w": "pe urmașii",
+       "heb": "מִזַּרְעוֹ",
+       "translit": "mizaro",
+       "strong": "H2233",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "din sămânța lui (mizaro)",
+       "dict_ro": "Conducătorii viitori vor veni, în continuare, din linia davidică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "conducătorilor",
+       "w": "conducătorilor",
+       "heb": "מֹשְׁלִים",
+       "translit": "moșlim",
+       "strong": "H4910",
+       "pos": "verb, qal participiu",
+       "def_ro": "conducători (moșlim)",
+       "dict_ro": "Conducătorii viitori vor veni, în continuare, din linia davidică."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "peste urmașii lui",
+       "w": "peste urmașii lui",
+       "heb": "אֶל זֶרַע",
+       "translit": "el zera",
+       "strong": "H2233",
+       "pos": "prepoziție + substantiv, masculin singular construct",
+       "def_ro": "la, sămânța (el, zera)",
+       "dict_ro": "Lista celor trei patriarhi — Avraham, Isaac, Iacov — confirmă continuitatea deplină a legământului patriarhal."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Avraham,",
+       "w": "Avraham,",
+       "heb": "אַבְרָהָם",
+       "translit": "avraham",
+       "strong": "H85",
+       "pos": "nume propriu",
+       "def_ro": "lui Avraham, (avraham)",
+       "dict_ro": "Lista celor trei patriarhi confirmă continuitatea deplină a legământului patriarhal."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Isaac",
+       "w": "Isaac",
+       "heb": "יִשְׂחָק",
+       "translit": "ishak",
+       "strong": "H3446",
+       "pos": "nume propriu",
+       "def_ro": "Isaac (ishak)",
+       "dict_ro": "Lista celor trei patriarhi confirmă continuitatea deplină a legământului patriarhal."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și Iacov.",
+       "w": "și Iacov.",
+       "heb": "וְיַעֲקֹב",
+       "translit": "veiaakov",
+       "strong": "H3290",
+       "pos": "nume propriu",
+       "def_ro": "și Iacov. (veiaakov)",
+       "dict_ro": "Lista celor trei patriarhi confirmă continuitatea deplină a legământului patriarhal."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Căci",
+       "w": "Căci",
+       "heb": "כִּי",
+       "translit": "ki",
+       "strong": "H3588",
+       "pos": "conjuncție",
+       "def_ro": "căci (ki)",
+       "dict_ro": "Haftara se încheie cu promisiunea explicită a restaurării din captivitate și a milei divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "le voi aduce înapoi",
+       "w": "le voi aduce înapoi",
+       "heb": "אָשִׁיב אֶת",
+       "translit": "așiv et",
+       "strong": "H853",
+       "pos": "verb, hifil imperfect + marcă a complementului direct",
+       "def_ro": "voi aduce înapoi (așiv)",
+       "dict_ro": "Haftara se încheie cu promisiunea explicită a restaurării din captivitate și a milei divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "captivii",
+       "w": "captivii",
+       "heb": "שְׁבוּתָם",
+       "translit": "șevutam",
+       "strong": "H7622",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "captivitatea lor (șevutam)",
+       "dict_ro": "Haftara se încheie cu promisiunea explicită a restaurării din captivitate și a milei divine."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și le voi arăta milă.”",
+       "w": "și le voi arăta milă.”",
+       "heb": "וְרִחַמְתִּים",
+       "translit": "verihamtim",
+       "strong": "H7355",
+       "pos": "verb, piel perfect consecutiv + sufix",
+       "def_ro": "și îi voi milostivi.” (verihamtim)",
+       "dict_ro": "Haftara se încheie cu promisiunea explicită a restaurării din captivitate și a milei divine."
       }
      ],
      "textCompare": [
