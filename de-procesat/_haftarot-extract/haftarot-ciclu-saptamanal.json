@@ -109968,71 +109968,250 @@
      "translit": "Vatișlam kol-hamelacha așer asa hameleh Șlomo beit ADONAI vayave Șlomo et-kodșei David aviv et-hakesef veet-hazahav veet-hakelim natan beotzrot beit ADONAI.",
      "tokens": [
       {
-       "t": "Când s-a isprăvit toată lucrarea pe care o făcuse regele Solomon în Casa DOMNULUI",
-       "w": "Când s-a isprăvit toată lucrarea pe care o făcuse regele Solomon în Casa DOMNULUI",
-       "heb": "וַתִּשְׁלַם כָּל הַמְּלָאכָה אֲשֶׁר עָשָׂה הַמֶּלֶךְ שְׁלֹמֹה בֵּית יְהוָה",
-       "translit": "vatișlam kal hamlaha așer asa hameleh șelomo bēt Adonai",
+       "t": "Când s-a isprăvit",
+       "w": "Când s-a isprăvit",
+       "heb": "וַתִּשְׁלַם",
+       "translit": "vatișlam",
        "strong": "H7999",
-       "pos": "verb, qal imperfect consecutiv + substantiv construct + substantiv + particulă relativă + verb, qal perfect + substantiv + nume propriu + substantiv construct + nume propriu",
-       "def_ro": "și s-a desăvârșit toată lucrarea pe care a făcut-o regele Solomon [pentru] Casa DOMNULUI.",
-       "dict_ro": "Formula de încheiere marchează finalul complet al construcției Templului, pregătind tranziția spre ceremonia de dedicare și aducere a Chivotului care urmează."
-      },
-      {
-       "t": ", "
-      },
-      {
-       "t": "Solomon a adus",
-       "w": "Solomon a adus",
-       "heb": "וַיָּבֵא שְׁלֹמֹה",
-       "translit": "vaiavē șelomo",
-       "strong": "H935",
-       "pos": "verb, hifil imperfect consecutiv + nume propriu",
-       "def_ro": "și a adus Solomon.",
-       "dict_ro": "Radak explică faptul că Solomon a pus în zidirea Templului o parte din lucrurile închinate de tatăl său, spre cinstea lui, deși nu avea nevoie de ele, căci avea argint și aur din belșug propriu."
-      },
-      {
-       "t": " ceea ce "
-      },
-      {
-       "t": "sfințise",
-       "w": "sfințise",
-       "heb": "קָדְשֵׁי",
-       "translit": "kadșē",
-       "strong": "H6944",
-       "pos": "substantiv, masculin plural construct",
-       "def_ro": "lucrurile sfințite.",
-       "greek": "ἅγιος (hagios)",
-       "greek_def_ro": "ἅγιος (hagios) — sfânt, lucru sfințit.",
-       "dict_ro": "Kodeș, la forma construct plural — „lucrurile sfinte” pe care David le pusese deoparte de-a lungul domniei sale, majoritatea pradă de război dedicată DOMNULUI (cf. 2 Samuel 8:11, unde David sfințește argintul și aurul luat de la neamurile învinse) — Solomon nu doar termină construcția fizică, ci integrează în ea moștenirea spirituală a tatălui său, încheind astfel simbolic proiectul pe care David îl începuse doar în inimă (v.17-18, mai jos)."
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și s-a împlinit (vatișlam)",
+       "dict_ro": "Încheierea lucrărilor Templului marchează momentul în care Solomon poate aduce în el comorile sfințite de David."
       },
       {
        "t": " "
       },
       {
-       "t": "tatăl său David",
-       "w": "tatăl său David",
-       "heb": "דָּוִד אָבִיו",
-       "translit": "david aviv",
+       "t": "toată lucrarea",
+       "w": "toată lucrarea",
+       "heb": "כָּל הַמְּלָאכָה",
+       "translit": "kal hamlaha",
+       "strong": "H4399",
+       "pos": "substantiv, masculin singular construct + substantiv, feminin singular",
+       "def_ro": "toată lucrarea (kal hamlaha)",
+       "dict_ro": "Încheierea lucrărilor Templului marchează momentul în care Solomon poate aduce în el comorile sfințite de David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe care o făcuse",
+       "w": "pe care o făcuse",
+       "heb": "אֲשֶׁר עָשָׂה",
+       "translit": "așer asa",
+       "strong": "H6213",
+       "pos": "particulă relativă + verb, qal perfect",
+       "def_ro": "pe care a făcut-o (așer asa)",
+       "dict_ro": "Încheierea lucrărilor Templului marchează momentul în care Solomon poate aduce în el comorile sfințite de David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "regele",
+       "w": "regele",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
+       "strong": "H4428",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "regele (hameleh)",
+       "dict_ro": "Încheierea lucrărilor Templului marchează momentul în care Solomon poate aduce în el comorile sfințite de David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Solomon",
+       "w": "Solomon",
+       "heb": "שְׁלֹמֹה",
+       "translit": "șelomo",
+       "strong": "H8010",
+       "pos": "nume propriu",
+       "def_ro": "Solomon (șelomo)",
+       "dict_ro": "Încheierea lucrărilor Templului marchează momentul în care Solomon poate aduce în el comorile sfințite de David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în Casa",
+       "w": "în Casa",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (bēt)",
+       "dict_ro": "Încheierea lucrărilor Templului marchează momentul în care Solomon poate aduce în el comorile sfințite de David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Încheierea lucrărilor Templului marchează momentul în care Solomon poate aduce în el comorile sfințite de David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Solomon",
+       "w": "Solomon",
+       "heb": "שְׁלֹמֹה",
+       "translit": "șelomo",
+       "strong": "H8010",
+       "pos": "nume propriu",
+       "def_ro": "și a adus Solomon (vaiavē șelomo)",
+       "dict_ro": "Comorile sfințite de David — argintul, aurul, vasele — devin fundamentul vistieriei Templului nou-construit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a adus",
+       "w": "a adus",
+       "heb": "וַיָּבֵא",
+       "translit": "vaiavē",
+       "strong": "H935",
+       "pos": "verb, hifil imperfect consecutiv",
+       "def_ro": "și a adus (vaiavē)",
+       "dict_ro": "Comorile sfințite de David — argintul, aurul, vasele — devin fundamentul vistieriei Templului nou-construit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ceea ce sfințise",
+       "w": "ceea ce sfințise",
+       "heb": "קָדְשֵׁי",
+       "translit": "kadșē",
+       "strong": "H6944",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "lucrurile sfinte ale (kadșē)",
+       "dict_ro": "Comorile sfințite de David — argintul, aurul, vasele — devin fundamentul vistieriei Templului nou-construit.",
+       "greek": "ἅγιος (hagios)",
+       "greek_def_ro": "ἅγιος (hagios) — sfânt, lucru sfințit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "tatăl său",
+       "w": "tatăl său",
+       "heb": "אָבִיו",
+       "translit": "aviv",
+       "strong": "H1",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "tatălui lui (aviv)",
+       "dict_ro": "Comorile sfințite de David — argintul, aurul, vasele — devin fundamentul vistieriei Templului nou-construit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "David",
+       "w": "David",
+       "heb": "דָּוִד",
+       "translit": "david",
        "strong": "H1732",
-       "pos": "nume propriu + substantiv construct + sufix",
-       "def_ro": "David, tatăl lui.",
-       "dict_ro": "Rashi redă un midraș alternativ: potrivit unora, Solomon n-a vrut să folosească nimic din lucrurile închinate de David pentru zidirea Templului, ca să nu dea neamurilor păgâne prilej să spună că idolii lor s-au răzbunat pe un Templu zidit din prada luată de la ei."
+       "pos": "nume propriu",
+       "def_ro": "David (david)",
+       "dict_ro": "Comorile sfințite de David — argintul, aurul, vasele — devin fundamentul vistieriei Templului nou-construit."
       },
       {
        "t": " – "
       },
       {
-       "t": "aurul, argintul și vasele – pe care le pusese în visteriile Casei DOMNULUI",
-       "w": "aurul, argintul și vasele – pe care le pusese în visteriile Casei DOMNULUI",
-       "heb": "אֶת הַכֶּסֶף וְאֶת הַזָּהָב וְאֶת הַכֵּלִים נָתַן בְּאֹצְרוֹת בֵּית יְהוָה",
-       "translit": "et hakesef veet hazahav veet hakēlim natan beoțrot bēt Adonai",
-       "strong": "H3701",
-       "pos": "marcă a complementului direct + substantiv + marcă a complementului direct + substantiv + marcă a complementului direct + substantiv + verb, qal perfect + substantiv plural construct + substantiv construct + nume propriu",
-       "def_ro": "argintul și aurul și vasele le-a pus în visteriile Casei DOMNULUI.",
-       "dict_ro": "O a treia explicație rabinică, redată tot de Rashi: Solomon ar fi vrut să cheltuiască aceste bunuri închinate pentru a-i hrăni pe săracii lui Israel în anii de foamete ai lui David, dar a ales în cele din urmă să le depună integral în vistieriile Templului."
+       "t": "aurul,",
+       "w": "aurul,",
+       "heb": "הַזָּהָב",
+       "translit": "hazahav",
+       "strong": "H2091",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "aurul, (hazahav)",
+       "dict_ro": "Comorile sfințite de David — argintul, aurul, vasele — devin fundamentul vistieriei Templului nou-construit."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "argintul",
+       "w": "argintul",
+       "heb": "הַכֶּסֶף",
+       "translit": "hakesef",
+       "strong": "H3701",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "argintul (hakesef)",
+       "dict_ro": "Comorile sfințite de David — argintul, aurul, vasele — devin fundamentul vistieriei Templului nou-construit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și vasele",
+       "w": "și vasele",
+       "heb": "הַכֵּלִים",
+       "translit": "hakēlim",
+       "strong": "H3627",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "și vasele (hakēlim)",
+       "dict_ro": "Comorile sfințite de David — argintul, aurul, vasele — devin fundamentul vistieriei Templului nou-construit."
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "pe care le pusese",
+       "w": "pe care le pusese",
+       "heb": "נָתַן",
+       "translit": "natan",
+       "strong": "H5414",
+       "pos": "verb, qal perfect",
+       "def_ro": "le-a pus (natan)",
+       "dict_ro": "Comorile sfințite de David — argintul, aurul, vasele — devin fundamentul vistieriei Templului nou-construit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în visteriile",
+       "w": "în visteriile",
+       "heb": "בְּאֹצְרוֹת",
+       "translit": "beoțrot",
+       "strong": "H214",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "în vistieriile (beoțrot)",
+       "dict_ro": "Comorile sfințite de David — argintul, aurul, vasele — devin fundamentul vistieriei Templului nou-construit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Casei",
+       "w": "Casei",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casei (bēt)",
+       "dict_ro": "Comorile sfințite de David — argintul, aurul, vasele — devin fundamentul vistieriei Templului nou-construit."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI. (Adonai)",
+       "dict_ro": "Comorile sfințite de David — argintul, aurul, vasele — devin fundamentul vistieriei Templului nou-construit."
       }
      ],
      "textCompare": [
@@ -110080,43 +110259,274 @@
      "translit": "Az yakhel Șlomo et-ziknei Israël et-kol-rașei hamatot nesiéi haavot livnei Israël el-hameleh Șlomo Yerușalaim lehaalot et-aron berit-ADONAI meir David hi Țion.",
      "tokens": [
       {
-       "t": "Atunci, Solomon i-a adunat laolaltă pe bătrânii lui Israel",
-       "w": "Atunci, Solomon i-a adunat laolaltă pe bătrânii lui Israel",
-       "heb": "אָז יַקְהֵל שְׁלֹמֹה אֶת זִקְנֵי יִשְׂרָאֵל",
-       "translit": "az iakhēl șelomo et ziknē israēl",
+       "t": "Atunci,",
+       "w": "Atunci,",
+       "heb": "אָז",
+       "translit": "az",
        "strong": "H227",
-       "pos": "adverb + verb, hifil jusiv + nume propriu + marcă a complementului direct + adjectiv + nume propriu",
-       "def_ro": "atunci a adunat Solomon pe bătrânii lui Israel.",
-       "dict_ro": "Convocarea tuturor categoriilor de conducere — bătrâni, căpetenii de triburi, căpetenii de familii — pregătește un eveniment de amploare națională, nu o ceremonie restrânsă la curtea regală."
+       "pos": "adverb",
+       "def_ro": "atunci (az)",
+       "dict_ro": "Adunarea solemnă a tuturor conducătorilor lui Israel pregătește ridicarea festivă a Chivotului în noul Templu."
       },
       {
        "t": " "
       },
       {
-       "t": "și pe toți conducătorii triburilor, pe conducătorii familiilor patriarhale ale copiilor lui Israel",
-       "w": "și pe toți conducătorii triburilor, pe conducătorii familiilor patriarhale ale copiilor lui Israel",
-       "heb": "אֶת כָּל רָאשֵׁי הַמַּטּוֹת נְשִׁיאֵי הָאָבוֹת לִבְנֵי יִשְׂרָאֵל",
-       "translit": "et kal rașē hamatot nesiē haavot livnē israēl",
-       "strong": "H7218",
-       "pos": "marcă a complementului direct + substantiv construct + substantiv construct + substantiv + substantiv plural construct + substantiv + substantiv plural construct + nume propriu",
-       "def_ro": "pe toate căpeteniile triburilor, conducătorii familiilor patriarhale ale fiilor lui Israel.",
-       "dict_ro": "Enumerarea triplă a reprezentanților poporului — bătrâni, căpetenii de trib, căpetenii de familie — asigură că fiecare nivel al structurii sociale israelite e martor direct la strămutarea Chivotului."
+       "t": "Solomon",
+       "w": "Solomon",
+       "heb": "שְׁלֹמֹה",
+       "translit": "șelomo",
+       "strong": "H8010",
+       "pos": "nume propriu",
+       "def_ro": "Solomon (șelomo)",
+       "dict_ro": "Adunarea solemnă a tuturor conducătorilor lui Israel pregătește ridicarea festivă a Chivotului în noul Templu."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "la regele Solomon, în Ierusalim, pentru ca să ridice Chivotul Legământului DOMNULUI din Orașul lui David, care este Țion",
-       "w": "la regele Solomon, în Ierusalim, pentru ca să ridice Chivotul Legământului DOMNULUI din Orașul lui David, care este Țion",
-       "heb": "אֶל הַמֶּלֶךְ שְׁלֹמֹה יְרוּשָׁלִָם לְהַעֲלוֹת אֶת אֲרוֹן בְּרִית יְהוָה מֵעִיר דָּוִד הִיא צִיּוֹן",
-       "translit": "el hameleh șelomo ierușalam lehaalot et aron berit Adonai mēir david hi țion",
+       "t": "i-a adunat laolaltă",
+       "w": "i-a adunat laolaltă",
+       "heb": "יַקְהֵל",
+       "translit": "iakhēl",
+       "strong": "H6950",
+       "pos": "verb, hifil jusiv",
+       "def_ro": "a adunat (iakhēl)",
+       "dict_ro": "Adunarea solemnă a tuturor conducătorilor lui Israel pregătește ridicarea festivă a Chivotului în noul Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe bătrânii lui",
+       "w": "pe bătrânii lui",
+       "heb": "זִקְנֵי",
+       "translit": "ziknē",
+       "strong": "H2205",
+       "pos": "adjectiv, masculin plural",
+       "def_ro": "bătrânii (ziknē)",
+       "dict_ro": "Adunarea solemnă a tuturor conducătorilor lui Israel pregătește ridicarea festivă a Chivotului în noul Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "lui Israel (israēl)",
+       "dict_ro": "Adunarea solemnă a tuturor conducătorilor lui Israel pregătește ridicarea festivă a Chivotului în noul Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și pe toți",
+       "w": "și pe toți",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "și toți (kal)",
+       "dict_ro": "Adunarea solemnă a tuturor conducătorilor lui Israel pregătește ridicarea festivă a Chivotului în noul Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "conducătorii triburilor,",
+       "w": "conducătorii triburilor,",
+       "heb": "רָאשֵׁי הַמַּטּוֹת",
+       "translit": "rașē hamatot",
+       "strong": "H4294",
+       "pos": "substantiv, masculin plural construct + substantiv, masculin plural",
+       "def_ro": "căpeteniile triburilor (rașē hamatot)",
+       "dict_ro": "Adunarea solemnă a tuturor conducătorilor lui Israel pregătește ridicarea festivă a Chivotului în noul Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe conducătorii familiilor patriarhale",
+       "w": "pe conducătorii familiilor patriarhale",
+       "heb": "נְשִׂיאֵי הָאָבוֹת",
+       "translit": "nesiē haavot",
+       "strong": "H1",
+       "pos": "substantiv, masculin plural construct + substantiv, masculin plural",
+       "def_ro": "conducătorii familiilor (nesiē haavot)",
+       "dict_ro": "Adunarea solemnă a tuturor conducătorilor lui Israel pregătește ridicarea festivă a Chivotului în noul Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ale copiilor lui",
+       "w": "ale copiilor lui",
+       "heb": "לִבְנֵי",
+       "translit": "livnē",
+       "strong": "H1121",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "ale fiilor lui (livnē)",
+       "dict_ro": "Adunarea solemnă a tuturor conducătorilor lui Israel pregătește ridicarea festivă a Chivotului în noul Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel,",
+       "w": "Israel,",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "Israel, (israēl)",
+       "dict_ro": "Adunarea solemnă a tuturor conducătorilor lui Israel pregătește ridicarea festivă a Chivotului în noul Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la regele",
+       "w": "la regele",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
+       "strong": "H4428",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "la regele (hameleh)",
+       "dict_ro": "Adunarea solemnă a tuturor conducătorilor lui Israel pregătește ridicarea festivă a Chivotului în noul Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Solomon,",
+       "w": "Solomon,",
+       "heb": "שְׁלֹמֹה",
+       "translit": "șelomo",
+       "strong": "H8010",
+       "pos": "nume propriu",
+       "def_ro": "Solomon, (șelomo)",
+       "dict_ro": "Adunarea solemnă a tuturor conducătorilor lui Israel pregătește ridicarea festivă a Chivotului în noul Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în Ierusalim,",
+       "w": "în Ierusalim,",
+       "heb": "יְרוּשָׁלִָם",
+       "translit": "ierușalam",
+       "strong": "H3389",
+       "pos": "nume propriu",
+       "def_ro": "în Ierusalim, (ierușalam)",
+       "dict_ro": "Adunarea solemnă a tuturor conducătorilor lui Israel pregătește ridicarea festivă a Chivotului în noul Templu."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru ca să ridice",
+       "w": "pentru ca să ridice",
+       "heb": "לְהַעֲלוֹת",
+       "translit": "lehaalot",
        "strong": "H5927",
-       "pos": "prepoziție + substantiv + nume propriu + nume propriu + verb, hifil infinitiv + marcă a complementului direct + substantiv construct + substantiv construct + nume propriu + substantiv construct + nume propriu + pronume personal + nume propriu",
-       "def_ro": "la regele Solomon, la Ierusalim, ca să ridice Chivotul Legământului DOMNULUI din cetatea lui David, care este Țion.",
-       "dict_ro": "Identificarea explicită «Orașul lui David, care este Țion» confirmă că Chivotul se mută de la locuința sa provizorie, de pe vremea lui David, la locul său final și permanent în noul Templu."
+       "pos": "verb, hifil infinitiv",
+       "def_ro": "să ridice (lehaalot)",
+       "dict_ro": "Chivotul Legământului, numit și «Țion», leagă explicit noul Templu de locul anterior al Chivotului din cetatea lui David."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "Chivotul",
+       "w": "Chivotul",
+       "heb": "אֲרוֹן",
+       "translit": "aron",
+       "strong": "H727",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "chivotul (aron)",
+       "dict_ro": "Chivotul Legământului, numit și «Țion», leagă explicit noul Templu de locul anterior al Chivotului din cetatea lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Legământului",
+       "w": "Legământului",
+       "heb": "בְּרִית",
+       "translit": "berit",
+       "strong": "H1285",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "legământului (berit)",
+       "dict_ro": "Chivotul Legământului, numit și «Țion», leagă explicit noul Templu de locul anterior al Chivotului din cetatea lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Chivotul Legământului, numit și «Țion», leagă explicit noul Templu de locul anterior al Chivotului din cetatea lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din Orașul lui",
+       "w": "din Orașul lui",
+       "heb": "מֵעִיר",
+       "translit": "mēir",
+       "strong": "H5892",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "din cetatea lui (mēir)",
+       "dict_ro": "Chivotul Legământului, numit și «Țion», leagă explicit noul Templu de locul anterior al Chivotului din cetatea lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "David,",
+       "w": "David,",
+       "heb": "דָּוִד",
+       "translit": "david",
+       "strong": "H1732",
+       "pos": "nume propriu",
+       "def_ro": "David, (david)",
+       "dict_ro": "Chivotul Legământului, numit și «Țion», leagă explicit noul Templu de locul anterior al Chivotului din cetatea lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care este",
+       "w": "care este",
+       "heb": "הִיא",
+       "translit": "hi",
+       "strong": "H1931",
+       "pos": "pronume personal",
+       "def_ro": "ea (hi)",
+       "dict_ro": "Chivotul Legământului, numit și «Țion», leagă explicit noul Templu de locul anterior al Chivotului din cetatea lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Țion.",
+       "w": "Țion.",
+       "heb": "צִיּוֹן",
+       "translit": "țion",
+       "strong": "H6726",
+       "pos": "nume propriu",
+       "def_ro": "Țion. (țion)",
+       "dict_ro": "Chivotul Legământului, numit și «Țion», leagă explicit noul Templu de locul anterior al Chivotului din cetatea lui David."
       }
      ],
      "textCompare": [
@@ -110156,46 +110566,147 @@
      "translit": "Vayikahalu el-hameleh Șlomo kol-iș Israël beyerah haetanim behag hu hahodeș hașvií.",
      "tokens": [
       {
-       "t": "Și toți bărbații lui Israel s-au adunat la regele Solomon",
-       "w": "Și toți bărbații lui Israel s-au adunat la regele Solomon",
-       "heb": "וַיִּקָּהֲלוּ אֶל הַמֶּלֶךְ שְׁלֹמֹה כָּל אִישׁ יִשְׂרָאֵל",
-       "translit": "vaikahalu el hameleh șelomo kal iș israēl",
+       "t": "Și toți bărbații lui",
+       "w": "Și toți bărbații lui",
+       "heb": "אִישׁ",
+       "translit": "iș",
+       "strong": "H376",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tot bărbatul lui (iș)",
+       "dict_ro": "Data exactă — luna Etanim, luna a șaptea, sărbătoarea Sucot — leagă dedicarea Templului de calendarul festiv al lui Israel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "Israel (israēl)",
+       "dict_ro": "Data exactă — luna Etanim, luna a șaptea, sărbătoarea Sucot — leagă dedicarea Templului de calendarul festiv al lui Israel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "s-au adunat",
+       "w": "s-au adunat",
+       "heb": "וַיִּקָּהֲלוּ",
+       "translit": "vaikahalu",
        "strong": "H6950",
-       "pos": "verb, nifal imperfect consecutiv + prepoziție + substantiv + nume propriu + substantiv construct + substantiv + nume propriu",
-       "def_ro": "și s-au adunat la regele Solomon toți oamenii lui Israel.",
-       "dict_ro": "Această a doua adunare, de la poporul de rând, completează convocarea anterioară a conducătorilor — ceremonia strămutării Chivotului implică, în cele din urmă, întreaga națiune."
+       "pos": "verb, nifal imperfect consecutiv",
+       "def_ro": "și s-au adunat (vaikahalu)",
+       "dict_ro": "Data exactă — luna Etanim, luna a șaptea, sărbătoarea Sucot — leagă dedicarea Templului de calendarul festiv al lui Israel."
       },
       {
-       "t": ", în "
+       "t": " "
       },
       {
-       "t": "Luna Celor Puternici",
-       "w": "Luna Celor Puternici",
+       "t": "la regele",
+       "w": "la regele",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
+       "strong": "H4428",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "la regele (hameleh)",
+       "dict_ro": "Data exactă — luna Etanim, luna a șaptea, sărbătoarea Sucot — leagă dedicarea Templului de calendarul festiv al lui Israel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Solomon,",
+       "w": "Solomon,",
+       "heb": "שְׁלֹמֹה",
+       "translit": "șelomo",
+       "strong": "H8010",
+       "pos": "nume propriu",
+       "def_ro": "Solomon, (șelomo)",
+       "dict_ro": "Data exactă — luna Etanim, luna a șaptea, sărbătoarea Sucot — leagă dedicarea Templului de calendarul festiv al lui Israel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în Luna",
+       "w": "în Luna",
+       "heb": "בְּיֶרַח",
+       "translit": "beierah",
+       "strong": "H3391",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "în luna (beierah)",
+       "dict_ro": "Data exactă — luna Etanim, luna a șaptea, sărbătoarea Sucot — leagă dedicarea Templului de calendarul festiv al lui Israel."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Celor Puternici,",
+       "w": "Celor Puternici,",
        "heb": "הָאֵתָנִים",
        "translit": "haētanim",
        "strong": "H388",
        "pos": "adjectiv, masculin plural",
-       "def_ro": "luna celor puternici, a curgerilor statornice.",
+       "def_ro": "Etanim, (haētanim)",
+       "dict_ro": "«Luna celor puternici» (Etanim) e numele cananit vechi al lunii Tișrei, păstrat aici alături de numărul ei ordinal.",
        "greek": "μήν Ἀθανίν (men Athanin)",
        "greek_def_ro": "μήν Ἀθανίν (men Athanin) — luna Etanim (transliterare).",
-       "diff_ro": "Septuaginta redă acest verset extrem de concis, doar „în luna Athanin\" — omițând mențiunea sărbătorii și a lunii a șaptea.",
-       "dict_ro": "Etanim — numele vechi, pre-exilic, al lunii astăzi cunoscute drept Tișrei; Rashi citează explicația Targumului lui Yonatan ben Uziel: numele se leagă de patriarhii „puternici” (etanim) în credință, sau de faptul că râurile curg statornic (eitan, „statornic, puternic”) în această lună de toamnă. Torah numără lunile începând cu Nisan (luna ieșirii din Egipt), motiv pentru care Tișrei, deși prima lună a anului civil, apare aici ca „luna a șaptea”."
+       "diff_ro": "Septuaginta redă acest verset extrem de concis, doar „în luna Athanin\" — omițând mențiunea sărbătorii și a lunii a șaptea."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "la sărbătoarea [de Sucot], aceasta fiind luna a șaptea",
-       "w": "la sărbătoarea [de Sucot], aceasta fiind luna a șaptea",
-       "heb": "בֶּחָג הוּא הַחֹדֶשׁ הַשְּׁבִיעִי",
-       "translit": "behag hu hahodeș hașvi",
+       "t": "la sărbătoarea",
+       "w": "la sărbătoarea",
+       "heb": "בֶּחָג",
+       "translit": "behag",
        "strong": "H2282",
-       "pos": "substantiv + pronume personal + substantiv + numeral ordinal",
-       "def_ro": "la sărbătoare, ea [fiind] luna a șaptea.",
-       "dict_ro": "Rashi explică faptul că luna Tișrei e numită «luna a șaptea» pentru că Tora numără lunile anului începând cu Nisan, luna Exodului — nu pentru că Tișrei ar fi, în sine, mai puțin importantă."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "la sărbătoarea (behag)",
+       "dict_ro": "«Luna celor puternici» (Etanim) e numele cananit vechi al lunii Tișrei, păstrat aici alături de numărul ei ordinal."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "[de Sucot],",
+       "w": "[de Sucot],",
+       "heb": "הוּא",
+       "translit": "hu",
+       "strong": "H1931",
+       "pos": "pronume personal",
+       "def_ro": "ea, (hu)",
+       "dict_ro": "Sărbătoarea e Sucot, fără să fie numită explicit, identificată doar prin lună și context."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "aceasta fiind",
+       "w": "aceasta fiind",
+       "heb": "הַחֹדֶשׁ",
+       "translit": "hahodeș",
+       "strong": "H2320",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "luna (hahodeș)",
+       "dict_ro": "Sărbătoarea e Sucot, fără să fie numită explicit, identificată doar prin lună și context."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "luna a șaptea.",
+       "w": "luna a șaptea.",
+       "heb": "הַשְּׁבִיעִי",
+       "translit": "hașvi",
+       "strong": "H7637",
+       "pos": "numeral ordinal",
+       "def_ro": "a șaptea. (hașvi)",
+       "dict_ro": "Sărbătoarea e Sucot, fără să fie numită explicit, identificată doar prin lună și context."
       }
      ],
      "textCompare": [
@@ -110235,17 +110746,79 @@
      "translit": "Vayavou kol ziknei Israël vayisu hakohanim et-haaron.",
      "tokens": [
       {
-       "t": "Toți bătrânii lui Israel au venit, iar preoții purtau Chivotul",
-       "w": "Toți bătrânii lui Israel au venit, iar preoții purtau Chivotul",
-       "heb": "וַיָּבֹאוּ כֹּל זִקְנֵי יִשְׂרָאֵל וַיִּשְׂאוּ הַכֹּהֲנִים אֶת הָאָרוֹן",
-       "translit": "vaiavou kol ziknē israēl vaisu hakohanim et haaron",
-       "strong": "H935",
-       "pos": "verb, qal imperfect consecutiv + substantiv construct + adjectiv + nume propriu + verb, qal imperfect consecutiv + substantiv + marcă a complementului direct + substantiv",
-       "def_ro": "și au venit toți bătrânii lui Israel și au purtat preoții Chivotul.",
-       "dict_ro": "Radak enumeră cele patru momente istorice în care preoții au purtat Chivotul: la trecerea Iordanului, la înconjurarea Ierihonului, la fuga lui David de Abșalom, și acum, la readucerea lui definitivă în Templu."
+       "t": "Toți bătrânii lui",
+       "w": "Toți bătrânii lui",
+       "heb": "זִקְנֵי",
+       "translit": "ziknē",
+       "strong": "H2205",
+       "pos": "adjectiv, masculin plural",
+       "def_ro": "toți bătrânii (ziknē)",
+       "dict_ro": "Bătrânii, nu simpli purtători, ridică personal Chivotul — un gest de onoare rezervat conducerii spirituale a poporului."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "lui Israel (israēl)",
+       "dict_ro": "Bătrânii, nu simpli purtători, ridică personal Chivotul — un gest de onoare rezervat conducerii spirituale a poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "au venit,",
+       "w": "au venit,",
+       "heb": "וַיָּבֹאוּ",
+       "translit": "vaiavou",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și au venit, (vaiavou)",
+       "dict_ro": "Bătrânii, nu simpli purtători, ridică personal Chivotul — un gest de onoare rezervat conducerii spirituale a poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "iar preoții",
+       "w": "iar preoții",
+       "heb": "הַכֹּהֲנִים",
+       "translit": "hakohanim",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "și preoții (hakohanim)",
+       "dict_ro": "Bătrânii, nu simpli purtători, ridică personal Chivotul — un gest de onoare rezervat conducerii spirituale a poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "purtau",
+       "w": "purtau",
+       "heb": "וַיִּשְׂאוּ",
+       "translit": "vaisu",
+       "strong": "H5375",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și au ridicat (vaisu)",
+       "dict_ro": "Bătrânii, nu simpli purtători, ridică personal Chivotul — un gest de onoare rezervat conducerii spirituale a poporului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Chivotul.",
+       "w": "Chivotul.",
+       "heb": "הָאָרוֹן",
+       "translit": "haaron",
+       "strong": "H727",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "chivotul. (haaron)",
+       "dict_ro": "Bătrânii, nu simpli purtători, ridică personal Chivotul — un gest de onoare rezervat conducerii spirituale a poporului."
       }
      ],
      "textCompare": [
@@ -110285,45 +110858,159 @@
      "translit": "Vayaalu et-aron ADONAI veet-ohel moed veet-kol-kelei hakodeș așer baohel vayaalu otam hakohanim vehalviim.",
      "tokens": [
       {
-       "t": "Și au ridicat Chivotul DOMNULUI și",
-       "w": "Și au ridicat Chivotul DOMNULUI și",
-       "heb": "וַיַּעֲלוּ אֶת אֲרוֹן יְהוָה וְ",
-       "translit": "vaiaalu et aron Adonai ve",
+       "t": "Și au ridicat",
+       "w": "Și au ridicat",
+       "heb": "וַיַּעֲלוּ",
+       "translit": "vaiaalu",
        "strong": "H5927",
-       "pos": "verb, hifil imperfect consecutiv + marcă a complementului direct + substantiv construct + nume propriu",
-       "def_ro": "și au ridicat Chivotul DOMNULUI și.",
-       "dict_ro": "Verbul «a ridica/a sui» (alah) marchează explicit mișcarea Chivotului spre locul lui cel mai înalt și central — Sfânta Sfintelor din noul Templu."
+       "pos": "verb, hifil imperfect consecutiv",
+       "def_ro": "și au ridicat (vaiaalu)",
+       "dict_ro": "Alături de Chivot, Cortul Întâlnirii și ustensilele sfinte din pustie sunt mutate definitiv în noul Templu, încheind epoca sanctuarului mobil."
       },
       {
        "t": " "
       },
       {
-       "t": "Cortul Întâlnirii",
-       "w": "Cortul Întâlnirii",
+       "t": "Chivotul",
+       "w": "Chivotul",
+       "heb": "אֲרוֹן",
+       "translit": "aron",
+       "strong": "H727",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "chivotul (aron)",
+       "dict_ro": "Alături de Chivot, Cortul Întâlnirii și ustensilele sfinte din pustie sunt mutate definitiv în noul Templu, încheind epoca sanctuarului mobil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Alături de Chivot, Cortul Întâlnirii și ustensilele sfinte din pustie sunt mutate definitiv în noul Templu, încheind epoca sanctuarului mobil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și Cortul",
+       "w": "și Cortul",
        "heb": "אֹהֶל",
        "translit": "ohel",
        "strong": "H168",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "Cortul Întâlnirii.",
+       "def_ro": "și cortul (ohel)",
+       "dict_ro": "Alături de Chivot, Cortul Întâlnirii și ustensilele sfinte din pustie sunt mutate definitiv în noul Templu, încheind epoca sanctuarului mobil.",
        "greek": "σκήνωμα τοῦ μαρτυρίου (skenoma tou martyriou)",
-       "greek_def_ro": "σκήνωμα τοῦ μαρτυρίου (skenoma tou martyriou) — cortul mărturiei.",
-       "dict_ro": "Ohel moed — Cortul construit de Moise în pustiu, păstrat de-a lungul secolelor la Ghilgal, apoi Șilo, apoi Nov și Ghivon; conform unei tradiții citate de Rashi (Tosefta), odată ce Templul lui Solomon a fost consacrat, Cortul original a fost depozitat definitiv, „ascuns”, iar locul lui de cult a fost înlocuit pentru totdeauna — momentul de față marchează astfel și încheierea erei Cortului mobil, nu doar mutarea Chivotului."
+       "greek_def_ro": "σκήνωμα τοῦ μαρτυρίου (skenoma tou martyriou) — cortul mărturiei."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "împreună cu toate ustensilele sfinte care se aflau în cort; preoții și leviții le-au ridicat",
-       "w": "împreună cu toate ustensilele sfinte care se aflau în cort; preoții și leviții le-au ridicat",
-       "heb": "וְאֶת כָּל כְּלֵי הַקֹּדֶשׁ אֲשֶׁר בָּאֹהֶל וַיַּעֲלוּ אֹתָם הַכֹּהֲנִים וְהַלְוִיִּם",
-       "translit": "veet kal kelē hakodeș așer baohel vaiaalu otam hakohanim vehalvim",
+       "t": "Întâlnirii,",
+       "w": "Întâlnirii,",
+       "heb": "מוֹעֵד",
+       "translit": "moēd",
+       "strong": "H4150",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "întâlnirii, (moēd)",
+       "dict_ro": "Alături de Chivot, Cortul Întâlnirii și ustensilele sfinte din pustie sunt mutate definitiv în noul Templu, încheind epoca sanctuarului mobil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "împreună cu toate",
+       "w": "împreună cu toate",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "și toate (kal)",
+       "dict_ro": "Alături de Chivot, Cortul Întâlnirii și ustensilele sfinte din pustie sunt mutate definitiv în noul Templu, încheind epoca sanctuarului mobil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ustensilele",
+       "w": "ustensilele",
+       "heb": "כְּלֵי",
+       "translit": "kelē",
        "strong": "H3627",
-       "pos": "marcă a complementului direct + substantiv construct + substantiv construct + substantiv + particulă relativă + substantiv + verb, hifil imperfect consecutiv + marcă a complementului direct + sufix + substantiv + nume de neam",
-       "def_ro": "și toate uneltele sfinte care erau în Cort; și le-au suit preoții și leviții.",
-       "dict_ro": "Rashi explică, pe baza unei tradiții din Tosefta, că vechiul Cort al Întâlnirii construit de Moise a fost ascuns definitiv odată adus în Templu — momentul acesta marchează încheierea erei sanctuarului mobil, început în pustiu."
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "ustensilele (kelē)",
+       "dict_ro": "Alături de Chivot, Cortul Întâlnirii și ustensilele sfinte din pustie sunt mutate definitiv în noul Templu, încheind epoca sanctuarului mobil."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "sfinte",
+       "w": "sfinte",
+       "heb": "הַקֹּדֶשׁ",
+       "translit": "hakodeș",
+       "strong": "H6944",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "sfinte (hakodeș)",
+       "dict_ro": "Alături de Chivot, Cortul Întâlnirii și ustensilele sfinte din pustie sunt mutate definitiv în noul Templu, încheind epoca sanctuarului mobil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care se aflau în cort;",
+       "w": "care se aflau în cort;",
+       "heb": "בָּאֹהֶל",
+       "translit": "baohel",
+       "strong": "H168",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "care erau în cort; (baohel)",
+       "dict_ro": "Alături de Chivot, Cortul Întâlnirii și ustensilele sfinte din pustie sunt mutate definitiv în noul Templu, încheind epoca sanctuarului mobil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "preoții",
+       "w": "preoții",
+       "heb": "הַכֹּהֲנִים",
+       "translit": "hakohanim",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "preoții (hakohanim)",
+       "dict_ro": "Alături de Chivot, Cortul Întâlnirii și ustensilele sfinte din pustie sunt mutate definitiv în noul Templu, încheind epoca sanctuarului mobil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și leviții",
+       "w": "și leviții",
+       "heb": "וְהַלְוִיִּם",
+       "translit": "vehalvim",
+       "strong": "H3881",
+       "pos": "nume de neam",
+       "def_ro": "și leviții (vehalvim)",
+       "dict_ro": "Alături de Chivot, Cortul Întâlnirii și ustensilele sfinte din pustie sunt mutate definitiv în noul Templu, încheind epoca sanctuarului mobil."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "le-au ridicat.",
+       "w": "le-au ridicat.",
+       "heb": "וַיַּעֲלוּ",
+       "translit": "vaiaalu",
+       "strong": "H5927",
+       "pos": "verb, hifil imperfect consecutiv",
+       "def_ro": "le-au ridicat. (vaiaalu)",
+       "dict_ro": "Alături de Chivot, Cortul Întâlnirii și ustensilele sfinte din pustie sunt mutate definitiv în noul Templu, încheind epoca sanctuarului mobil."
       }
      ],
      "textCompare": [
@@ -110360,30 +111047,183 @@
      "translit": "Vehameleh Șlomo vechol-adat Israël hanoadim alav ito lifnei haaron mezabhim tzon uvakar așer lo-yisaferu velo yimanu merov.",
      "tokens": [
       {
-       "t": "Iar regele Solomon și toată obștea lui Israel care se adunase cu el înaintea Chivotului",
-       "w": "Iar regele Solomon și toată obștea lui Israel care se adunase cu el înaintea Chivotului",
-       "heb": "וְהַמֶּלֶךְ שְׁלֹמֹה וְכָל עֲדַת יִשְׂרָאֵל הַנּוֹעָדִים עָלָיו אִתּוֹ לִפְנֵי הָאָרוֹן",
-       "translit": "vehameleh șelomo vehal adat israēl hanoadim alaiv ito lifnē haaron",
+       "t": "Iar regele",
+       "w": "Iar regele",
+       "heb": "וְהַמֶּלֶךְ",
+       "translit": "vehameleh",
        "strong": "H4428",
-       "pos": "substantiv + nume propriu + substantiv construct + substantiv construct + nume propriu + verb, nifal participiu + prepoziție + sufix + prepoziție + sufix + substantiv construct + substantiv",
-       "def_ro": "și regele Solomon și toată obștea lui Israel care se adunaseră cu el, înaintea Chivotului.",
-       "dict_ro": "Metzudat Țion explică «hanoadim» ca «cei adunați», aceeași rădăcină folosită pentru adunarea răsculată împotriva lui Moise la Numeri 16:11 — aici, însă, adunarea e una de devoțiune, nu de răzvrătire."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și regele (vehameleh)",
+       "dict_ro": "Mulțimea jertfelor, nenumărate, exprimă amploarea bucuriei naționale la dedicarea Templului."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "jertfeau [atâtea] turme și cirezi, încât nu puteau fi socotite și nici numărate, de multe ce erau",
-       "w": "jertfeau [atâtea] turme și cirezi, încât nu puteau fi socotite și nici numărate, de multe ce erau",
-       "heb": "מְזַבְּחִים צֹאן וּבָקָר אֲשֶׁר לֹא יִסָּפְרוּ וְלֹא יִמָּנוּ מֵרֹב",
-       "translit": "mezabhim țon uvakar așer lo isafru velo imanu mērov",
+       "t": "Solomon",
+       "w": "Solomon",
+       "heb": "שְׁלֹמֹה",
+       "translit": "șelomo",
+       "strong": "H8010",
+       "pos": "nume propriu",
+       "def_ro": "Solomon (șelomo)",
+       "dict_ro": "Mulțimea jertfelor, nenumărate, exprimă amploarea bucuriei naționale la dedicarea Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și toată",
+       "w": "și toată",
+       "heb": "וְכָל",
+       "translit": "vehal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "și toată (vehal)",
+       "dict_ro": "Mulțimea jertfelor, nenumărate, exprimă amploarea bucuriei naționale la dedicarea Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "obștea lui",
+       "w": "obștea lui",
+       "heb": "עֲדַת",
+       "translit": "adat",
+       "strong": "H5712",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "obștea (adat)",
+       "dict_ro": "Mulțimea jertfelor, nenumărate, exprimă amploarea bucuriei naționale la dedicarea Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "lui Israel (israēl)",
+       "dict_ro": "Mulțimea jertfelor, nenumărate, exprimă amploarea bucuriei naționale la dedicarea Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care se adunase cu el",
+       "w": "care se adunase cu el",
+       "heb": "הַנּוֹעָדִים אִתּוֹ",
+       "translit": "hanoadim ito",
+       "strong": "H854",
+       "pos": "verb, nifal participiu + prepoziție + sufix",
+       "def_ro": "care s-a adunat cu el (hanoadim ito)",
+       "dict_ro": "Mulțimea jertfelor, nenumărate, exprimă amploarea bucuriei naționale la dedicarea Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "înaintea",
+       "w": "înaintea",
+       "heb": "לִפְנֵי",
+       "translit": "lifnē",
+       "strong": "H6440",
+       "pos": "substantiv, masculin și feminin plural construct",
+       "def_ro": "înaintea (lifnē)",
+       "dict_ro": "Mulțimea jertfelor, nenumărate, exprimă amploarea bucuriei naționale la dedicarea Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Chivotului,",
+       "w": "Chivotului,",
+       "heb": "הָאָרוֹן",
+       "translit": "haaron",
+       "strong": "H727",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "chivotului, (haaron)",
+       "dict_ro": "Mulțimea jertfelor, nenumărate, exprimă amploarea bucuriei naționale la dedicarea Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "jertfeau",
+       "w": "jertfeau",
+       "heb": "מְזַבְּחִים",
+       "translit": "mezabhim",
        "strong": "H2076",
-       "pos": "verb, piel participiu + substantiv + substantiv + particulă relativă + particulă negativă + verb, nifal imperfect + particulă negativă + verb, nifal imperfect + substantiv",
-       "def_ro": "jertfeau oi și vite care nu puteau fi socotite și nici numărate, din pricina mulțimii.",
-       "dict_ro": "Repetarea dublă a imposibilității de a le socoti — «nu puteau fi socotite» și «nici numărate» — intensifică retoric amploarea fără precedent a jertfelor aduse la dedicarea Templului."
+       "pos": "verb, piel participiu",
+       "def_ro": "jertfeau (mezabhim)",
+       "dict_ro": "Mulțimea jertfelor, nenumărate, exprimă amploarea bucuriei naționale la dedicarea Templului."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "[atâtea] turme",
+       "w": "[atâtea] turme",
+       "heb": "צֹאן",
+       "translit": "țon",
+       "strong": "H6629",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "turme (țon)",
+       "dict_ro": "Mulțimea jertfelor, nenumărate, exprimă amploarea bucuriei naționale la dedicarea Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și cirezi,",
+       "w": "și cirezi,",
+       "heb": "וּבָקָר",
+       "translit": "uvakar",
+       "strong": "H1241",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "și cirezi, (uvakar)",
+       "dict_ro": "Mulțimea jertfelor, nenumărate, exprimă amploarea bucuriei naționale la dedicarea Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "încât nu puteau fi socotite",
+       "w": "încât nu puteau fi socotite",
+       "heb": "לֹא יִסָּפְרוּ",
+       "translit": "lo isafru",
+       "strong": "H5608",
+       "pos": "particulă negativă + verb, nifal imperfect",
+       "def_ro": "care nu vor fi socotite (lo isafru)",
+       "dict_ro": "Mulțimea jertfelor, nenumărate, exprimă amploarea bucuriei naționale la dedicarea Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și nici numărate,",
+       "w": "și nici numărate,",
+       "heb": "וְלֹא יִמָּנוּ",
+       "translit": "velo imanu",
+       "strong": "H4487",
+       "pos": "particulă negativă + verb, nifal imperfect",
+       "def_ro": "și nu vor fi numărate, (velo imanu)",
+       "dict_ro": "Mulțimea jertfelor, nenumărate, exprimă amploarea bucuriei naționale la dedicarea Templului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de multe ce erau.",
+       "w": "de multe ce erau.",
+       "heb": "מֵרֹב",
+       "translit": "mērov",
+       "strong": "H7230",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "de mulțime. (mērov)",
+       "dict_ro": "Mulțimea jertfelor, nenumărate, exprimă amploarea bucuriei naționale la dedicarea Templului."
       }
      ],
      "textCompare": [
@@ -110424,32 +111264,159 @@
      "translit": "Vayaviu hakohanim et-aron berit-ADONAI el-mekomo el-devir habayit el-kodeș hakodașim el-tahat kanfei hakeruvim.",
      "tokens": [
       {
-       "t": "Preoții au adus Chivotul Legământului DOMNULUI la locul său, în Sanctuarul Templului, în Sfânta Sfintelor, dedesubtul aripilor",
-       "w": "Preoții au adus Chivotul Legământului DOMNULUI la locul său, în Sanctuarul Templului, în Sfânta Sfintelor, dedesubtul aripilor",
-       "heb": "וַיָּבִאוּ הַכֹּהֲנִים אֶת אֲרוֹן בְּרִית יְהוָה אֶל מְקוֹמוֹ אֶל דְּבִיר הַבַּיִת אֶל קֹדֶשׁ הַקֳּדָשִׁים אֶל תַּחַת כַּנְפֵי",
-       "translit": "vaiaviu hakohanim et aron berit Adonai el mekomo el devir habait el kodeș hakodașim el tahat kanfē",
-       "strong": "H935",
-       "pos": "verb, hifil imperfect consecutiv + substantiv + marcă a complementului direct + substantiv construct + substantiv construct + nume propriu + prepoziție + substantiv construct + sufix + prepoziție + substantiv construct + substantiv + prepoziție + substantiv construct + substantiv + prepoziție + prepoziție + substantiv construct",
-       "def_ro": "și au adus preoții Chivotul Legământului DOMNULUI la locul lui, în Sanctuarul Casei, în Sfânta Sfintelor, sub aripile.",
-       "dict_ro": "Rashi precizează că acești heruvimi, ale căror aripi acoperă Chivotul, sunt cei făcuți de Solomon, așezați pe pământ — distincți de heruvimii mici de pe capacul ispășirii, de pe Chivotul însuși."
+       "t": "Preoții",
+       "w": "Preoții",
+       "heb": "הַכֹּהֲנִים",
+       "translit": "hakohanim",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "preoții (hakohanim)",
+       "dict_ro": "Așezarea Chivotului exact sub aripile heruvimilor, în Sfânta Sfintelor, pecetluiește locul lui final și permanent."
       },
       {
        "t": " "
       },
       {
-       "t": "heruvimilor",
-       "w": "heruvimilor",
+       "t": "au adus",
+       "w": "au adus",
+       "heb": "וַיָּבִאוּ",
+       "translit": "vaiaviu",
+       "strong": "H935",
+       "pos": "verb, hifil imperfect consecutiv",
+       "def_ro": "și au adus (vaiaviu)",
+       "dict_ro": "Așezarea Chivotului exact sub aripile heruvimilor, în Sfânta Sfintelor, pecetluiește locul lui final și permanent."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Chivotul",
+       "w": "Chivotul",
+       "heb": "אֲרוֹן",
+       "translit": "aron",
+       "strong": "H727",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "chivotul (aron)",
+       "dict_ro": "Așezarea Chivotului exact sub aripile heruvimilor, în Sfânta Sfintelor, pecetluiește locul lui final și permanent."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Legământului",
+       "w": "Legământului",
+       "heb": "בְּרִית",
+       "translit": "berit",
+       "strong": "H1285",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "legământului (berit)",
+       "dict_ro": "Așezarea Chivotului exact sub aripile heruvimilor, în Sfânta Sfintelor, pecetluiește locul lui final și permanent."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Așezarea Chivotului exact sub aripile heruvimilor, în Sfânta Sfintelor, pecetluiește locul lui final și permanent."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la locul său,",
+       "w": "la locul său,",
+       "heb": "אֶל מְקוֹמוֹ",
+       "translit": "el mekomo",
+       "strong": "H4725",
+       "pos": "prepoziție + substantiv, masculin singular construct + sufix",
+       "def_ro": "la locul lui, (el mekomo)",
+       "dict_ro": "Așezarea Chivotului exact sub aripile heruvimilor, în Sfânta Sfintelor, pecetluiește locul lui final și permanent."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în Sanctuarul",
+       "w": "în Sanctuarul",
+       "heb": "דְּבִיר",
+       "translit": "devir",
+       "strong": "H1687",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "la sanctuarul (devir)",
+       "dict_ro": "Așezarea Chivotului exact sub aripile heruvimilor, în Sfânta Sfintelor, pecetluiește locul lui final și permanent."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Templului,",
+       "w": "Templului,",
+       "heb": "הַבַּיִת",
+       "translit": "habait",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "casei, (habait)",
+       "dict_ro": "Așezarea Chivotului exact sub aripile heruvimilor, în Sfânta Sfintelor, pecetluiește locul lui final și permanent."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în Sfânta Sfintelor,",
+       "w": "în Sfânta Sfintelor,",
+       "heb": "קֹדֶשׁ הַקֳּדָשִׁים",
+       "translit": "kodeș hakodașim",
+       "strong": "H6944",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural",
+       "def_ro": "la sfânta sfintelor, (kodeș hakodașim)",
+       "dict_ro": "Așezarea Chivotului exact sub aripile heruvimilor, în Sfânta Sfintelor, pecetluiește locul lui final și permanent."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dedesubtul",
+       "w": "dedesubtul",
+       "heb": "תַּחַת",
+       "translit": "tahat",
+       "strong": "H8478",
+       "pos": "prepoziție",
+       "def_ro": "sub (tahat)",
+       "dict_ro": "Așezarea Chivotului exact sub aripile heruvimilor, în Sfânta Sfintelor, pecetluiește locul lui final și permanent."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "aripilor",
+       "w": "aripilor",
+       "heb": "כַּנְפֵי",
+       "translit": "kanfē",
+       "strong": "H3671",
+       "pos": "substantiv, feminin dual construct",
+       "def_ro": "aripile (kanfē)",
+       "dict_ro": "Așezarea Chivotului exact sub aripile heruvimilor, în Sfânta Sfintelor, pecetluiește locul lui final și permanent."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "heruvimilor.",
+       "w": "heruvimilor.",
        "heb": "הַכְּרוּבִים",
        "translit": "hakruvim",
        "strong": "H3742",
        "pos": "substantiv, masculin plural",
-       "def_ro": "heruvimii.",
+       "def_ro": "heruvimilor. (hakruvim)",
+       "dict_ro": "Așezarea Chivotului exact sub aripile heruvimilor, în Sfânta Sfintelor, pecetluiește locul lui final și permanent.",
        "greek": "Χερουβίμ (Cheroubim)",
-       "greek_def_ro": "Χερουβίμ (Cheroubim) — heruvimi.",
-       "dict_ro": "Keruvim — Rashi precizează că aceștia sunt heruvimii mari, noi, făcuți de Solomon din lemn de măslin placat cu aur (cf. 6:23-28), care stăteau pe podeaua Sfintei Sfintelor, cu aripile întinse dintr-un perete în celălalt — distincți de perechea mică, originală, de heruvimi turnați dintr-o singură bucată cu capacul Chivotului (Exodul 25:18-20), care rămâne acolo, sub aripile celor mari, într-o dublă acoperire simbolică."
-      },
-      {
-       "t": "."
+       "greek_def_ro": "Χερουβίμ (Cheroubim) — heruvimi."
       }
      ],
      "textCompare": [
@@ -110489,17 +111456,131 @@
      "translit": "Ki hakeruvim porsim kenafaim el-mekom haaron vayasoku hakeruvim al-haaron veal-badav milmala.",
      "tokens": [
       {
-       "t": "Căci heruvimii și-au întins aripile deasupra locului Chivotului și heruvimii au acoperit Chivotul și drugii săi, de deasupra",
-       "w": "Căci heruvimii și-au întins aripile deasupra locului Chivotului și heruvimii au acoperit Chivotul și drugii săi, de deasupra",
-       "heb": "כִּי הַכְּרוּבִים פֹּרְשִׂים כְּנָפַיִם אֶל מְקוֹם הָאָרוֹן וַיָּסֹכּוּ הַכְּרֻבִים עַל הָאָרוֹן וְעַל בַּדָּיו מִלְמָעְלָה",
-       "translit": "ki hakruvim porsim kenafaim el mekom haaron vaiasoku hakruvim al haaron veal badaiv milmala",
+       "t": "Căci heruvimii",
+       "w": "Căci heruvimii",
+       "heb": "הַכְּרוּבִים",
+       "translit": "hakruvim",
        "strong": "H3742",
-       "pos": "conjuncție + substantiv + verb, qal participiu + substantiv + prepoziție + substantiv construct + substantiv + verb, qal imperfect consecutiv + substantiv + prepoziție + substantiv + prepoziție + substantiv plural construct + sufix + adverb",
-       "def_ro": "căci heruvimii își întind aripile peste locul Chivotului și acoperă heruvimii Chivotul și drugii lui, de deasupra.",
-       "dict_ro": "Metzudat David explică faptul că heruvimii fuseseră făcuți de la început astfel încât să-și întindă aripile exact peste locul unde avea să stea Chivotul — la aducerea lui, protecția era deja pregătită, nu improvizată."
+       "pos": "substantiv, masculin plural",
+       "def_ro": "căci heruvimii (hakruvim)",
+       "dict_ro": "Aripile întinse ale heruvimilor acoperă complet Chivotul și drugii lui, formând un baldachin protector peste locul cel mai sfânt."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "și-au întins",
+       "w": "și-au întins",
+       "heb": "פֹּרְשִׂים",
+       "translit": "porsim",
+       "strong": "H6566",
+       "pos": "verb, qal participiu",
+       "def_ro": "întind (porsim)",
+       "dict_ro": "Aripile întinse ale heruvimilor acoperă complet Chivotul și drugii lui, formând un baldachin protector peste locul cel mai sfânt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "aripile",
+       "w": "aripile",
+       "heb": "כְּנָפַיִם",
+       "translit": "kenafaim",
+       "strong": "H3671",
+       "pos": "substantiv, feminin dual",
+       "def_ro": "aripile (kenafaim)",
+       "dict_ro": "Aripile întinse ale heruvimilor acoperă complet Chivotul și drugii lui, formând un baldachin protector peste locul cel mai sfânt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "deasupra locului",
+       "w": "deasupra locului",
+       "heb": "מְקוֹם",
+       "translit": "mekom",
+       "strong": "H4725",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "spre locul (mekom)",
+       "dict_ro": "Aripile întinse ale heruvimilor acoperă complet Chivotul și drugii lui, formând un baldachin protector peste locul cel mai sfânt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Chivotului",
+       "w": "Chivotului",
+       "heb": "הָאָרוֹן",
+       "translit": "haaron",
+       "strong": "H727",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "chivotului (haaron)",
+       "dict_ro": "Aripile întinse ale heruvimilor acoperă complet Chivotul și drugii lui, formând un baldachin protector peste locul cel mai sfânt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și heruvimii",
+       "w": "și heruvimii",
+       "heb": "הַכְּרֻבִים",
+       "translit": "hakruvim",
+       "strong": "H3742",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "și heruvimii (hakruvim)",
+       "dict_ro": "Aripile întinse ale heruvimilor acoperă complet Chivotul și drugii lui, formând un baldachin protector peste locul cel mai sfânt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "au acoperit",
+       "w": "au acoperit",
+       "heb": "וַיָּסֹכּוּ",
+       "translit": "vaiasoku",
+       "strong": "H5526",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și au acoperit (vaiasoku)",
+       "dict_ro": "Aripile întinse ale heruvimilor acoperă complet Chivotul și drugii lui, formând un baldachin protector peste locul cel mai sfânt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Chivotul",
+       "w": "Chivotul",
+       "heb": "הָאָרוֹן",
+       "translit": "haaron",
+       "strong": "H727",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "chivotul (haaron)",
+       "dict_ro": "Aripile întinse ale heruvimilor acoperă complet Chivotul și drugii lui, formând un baldachin protector peste locul cel mai sfânt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și drugii săi,",
+       "w": "și drugii săi,",
+       "heb": "בַּדָּיו",
+       "translit": "badaiv",
+       "strong": "H905",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "și drugii lui, (badaiv)",
+       "dict_ro": "Aripile întinse ale heruvimilor acoperă complet Chivotul și drugii lui, formând un baldachin protector peste locul cel mai sfânt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de deasupra.",
+       "w": "de deasupra.",
+       "heb": "מִלְמָעְלָה",
+       "translit": "milmala",
+       "strong": "H4605",
+       "pos": "adverb",
+       "def_ro": "de deasupra. (milmala)",
+       "dict_ro": "Aripile întinse ale heruvimilor acoperă complet Chivotul și drugii lui, formând un baldachin protector peste locul cel mai sfânt."
       }
      ],
      "textCompare": [
@@ -110540,34 +111621,157 @@
      "translit": "Vayaarichu habadim vayerau rașei habadim min-hakodeș al-penei hadevir velo yerau hahutza vayihyu șam ad hayom haze.",
      "tokens": [
       {
-       "t": "Iar "
-      },
-      {
-       "t": "drugii",
-       "w": "drugii",
+       "t": "Iar drugii",
+       "w": "Iar drugii",
        "heb": "הַבַּדִּים",
        "translit": "habadim",
        "strong": "H905",
        "pos": "substantiv, masculin plural",
-       "def_ro": "drugii, prăjinile de purtat.",
-       "diff_ro": "Septuaginta are aici „τὰ ἡγιασμένα\" („lucrurile sfințite\"), nu „drugii\" (habadim) ca în ebraică — un substantiv complet diferit pentru acest detaliu arhitectural.",
-       "dict_ro": "Bad — drugii lungi cu care Chivotul era purtat, care nu se scoteau niciodată (Exodul 25:15); Rashi rezolvă contradicția aparentă a versetului — „se vedeau” dar „nu se vedeau din afară” — explicând că vârfurile drugilor împingeau înainte perdeaua (parohet) care despărțea Sfânta Sfintelor de Sfânta, ca două umflături vizibile prin material, „ca doi sâni”, o imagine prin care tradiția rabinică exprimă apropierea intimă, aproape maternă, a prezenței divine față de popor — vizibile astfel doar dinăuntrul Sfintei, niciodată din curtea exterioară."
+       "def_ro": "și drugii (habadim)",
+       "dict_ro": "Vârfurile drugilor, vizibile doar din interiorul Sfintei, confirmă dimensiunea exactă a Chivotului rămas neschimbat de la construcția lui în pustie."
       },
       {
        "t": " "
       },
       {
-       "t": "se extindeau într-atât încât vârfurile lor puteau fi văzute din Sfânta, în fața Sanctuarului, dar nu puteau fi văzute din afară; și așa au rămas până în ziua de astăzi",
-       "w": "se extindeau într-atât încât vârfurile lor puteau fi văzute din Sfânta, în fața Sanctuarului, dar nu puteau fi văzute din afară; și așa au rămas până în ziua de astăzi",
-       "heb": "וַיֵּרָאוּ רָאשֵׁי הַבַּדִּים מִן הַקֹּדֶשׁ עַל פְּנֵי הַדְּבִיר וְלֹא יֵרָאוּ הַחוּצָה וַיִּהְיוּ שָׁם עַד הַיּוֹם הַזֶּה",
-       "translit": "vaiērau rașē habadim min hakodeș al penē hadvir velo iērau hahuța vaihiu șam ad haiom haze",
-       "strong": "H7200",
-       "pos": "verb, nifal imperfect consecutiv + substantiv plural construct + substantiv + prepoziție + substantiv + prepoziție + substantiv construct + substantiv + particulă negativă + verb, nifal imperfect + substantiv + verb, qal imperfect consecutiv + adverb + prepoziție + substantiv + pronume demonstrativ",
-       "def_ro": "și s-au văzut vârfurile drugilor din Sfânta, în fața Sanctuarului, dar nu se vedeau afară; și au rămas acolo până în ziua aceasta.",
-       "dict_ro": "Rashi rezolvă contradicția aparentă — drugii «se vedeau» dinăuntrul Sfintei, dar «nu se vedeau» din curtea exterioară — explicând că vârfurile lor împingeau perdeaua interioară ca două umflături vizibile, «asemenea a doi sâni», imagine a apropierii intime a prezenței divine de popor."
+       "t": "se extindeau",
+       "w": "se extindeau",
+       "heb": "וַיַּאֲרִכוּ",
+       "translit": "vaiaarihu",
+       "strong": "H748",
+       "pos": "verb, hifil imperfect consecutiv",
+       "def_ro": "și se lungeau (vaiaarihu)",
+       "dict_ro": "Vârfurile drugilor, vizibile doar din interiorul Sfintei, confirmă dimensiunea exactă a Chivotului rămas neschimbat de la construcția lui în pustie."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "într-atât încât vârfurile",
+       "w": "într-atât încât vârfurile",
+       "heb": "רָאשֵׁי",
+       "translit": "rașē",
+       "strong": "H7218",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "și se vedeau vârfurile (vaiērau rașē)",
+       "dict_ro": "Vârfurile drugilor, vizibile doar din interiorul Sfintei, confirmă dimensiunea exactă a Chivotului rămas neschimbat de la construcția lui în pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lor",
+       "w": "lor",
+       "heb": "הַבַּדִּים",
+       "translit": "habadim",
+       "strong": "H905",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "drugilor (habadim)",
+       "dict_ro": "Vârfurile drugilor, vizibile doar din interiorul Sfintei, confirmă dimensiunea exactă a Chivotului rămas neschimbat de la construcția lui în pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "puteau fi văzute",
+       "w": "puteau fi văzute",
+       "heb": "וַיֵּרָאוּ",
+       "translit": "vaiērau",
+       "strong": "H7200",
+       "pos": "verb, nifal imperfect consecutiv",
+       "def_ro": "se vedeau (vaiērau)",
+       "dict_ro": "Vârfurile drugilor, vizibile doar din interiorul Sfintei, confirmă dimensiunea exactă a Chivotului rămas neschimbat de la construcția lui în pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din Sfânta,",
+       "w": "din Sfânta,",
+       "heb": "מִן הַקֹּדֶשׁ",
+       "translit": "min hakodeș",
+       "strong": "H6944",
+       "pos": "prepoziție + substantiv, masculin singular",
+       "def_ro": "din sfânta, (min hakodeș)",
+       "dict_ro": "Vârfurile drugilor, vizibile doar din interiorul Sfintei, confirmă dimensiunea exactă a Chivotului rămas neschimbat de la construcția lui în pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în fața",
+       "w": "în fața",
+       "heb": "פְּנֵי",
+       "translit": "penē",
+       "strong": "H6440",
+       "pos": "substantiv, masculin și feminin plural construct",
+       "def_ro": "la fața (al penē)",
+       "dict_ro": "Vârfurile drugilor, vizibile doar din interiorul Sfintei, confirmă dimensiunea exactă a Chivotului rămas neschimbat de la construcția lui în pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Sanctuarului,",
+       "w": "Sanctuarului,",
+       "heb": "הַדְּבִיר",
+       "translit": "hadvir",
+       "strong": "H1687",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "sanctuarului, (hadvir)",
+       "dict_ro": "Vârfurile drugilor, vizibile doar din interiorul Sfintei, confirmă dimensiunea exactă a Chivotului rămas neschimbat de la construcția lui în pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dar nu puteau fi văzute",
+       "w": "dar nu puteau fi văzute",
+       "heb": "יֵרָאוּ",
+       "translit": "iērau",
+       "strong": "H7200",
+       "pos": "verb, nifal imperfect",
+       "def_ro": "și nu se vedeau (velo iērau)",
+       "dict_ro": "Vârfurile drugilor, vizibile doar din interiorul Sfintei, confirmă dimensiunea exactă a Chivotului rămas neschimbat de la construcția lui în pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din afară;",
+       "w": "din afară;",
+       "heb": "הַחוּצָה",
+       "translit": "hahuța",
+       "strong": "H2351",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "din afară; (hahuța)",
+       "dict_ro": "Vârfurile drugilor, vizibile doar din interiorul Sfintei, confirmă dimensiunea exactă a Chivotului rămas neschimbat de la construcția lui în pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și așa au rămas",
+       "w": "și așa au rămas",
+       "heb": "וַיִּהְיוּ",
+       "translit": "vaihiu",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și au fost (vaihiu)",
+       "dict_ro": "Vârfurile drugilor, vizibile doar din interiorul Sfintei, confirmă dimensiunea exactă a Chivotului rămas neschimbat de la construcția lui în pustie."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "până în ziua de astăzi.",
+       "w": "până în ziua de astăzi.",
+       "heb": "עַד הַיּוֹם הַזֶּה",
+       "translit": "ad haiom haze",
+       "strong": "H2088",
+       "pos": "prepoziție + substantiv, masculin singular + pronume demonstrativ",
+       "def_ro": "până în ziua aceasta. (ad haiom haze)",
+       "dict_ro": "Vârfurile drugilor, vizibile doar din interiorul Sfintei, confirmă dimensiunea exactă a Chivotului rămas neschimbat de la construcția lui în pustie."
       }
      ],
      "textCompare": [
@@ -110606,35 +111810,209 @@
      "translit": "Ein baaron rak șenei luhot haavanim așer hiniah șam Moșe beHorev așer karat ADONAI im-benei Israël betzetam meereț Mițraim.",
      "tokens": [
       {
-       "t": "Nu exista nimic în Chivot, în afară de cele două "
-      },
-      {
-       "t": "table de piatră",
-       "w": "table de piatră",
-       "heb": "לֻחוֹת",
-       "translit": "luhot",
-       "strong": "H3871",
-       "pos": "substantiv, masculin plural construct",
-       "def_ro": "tablele de piatră.",
-       "greek": "πλάκες λίθιναι (plakes lithinai)",
-       "greek_def_ro": "πλάκες λίθιναι (plakes lithinai) — table de piatră.",
-       "dict_ro": "Luhot — precizarea „nu exista nimic în Chivot, în afară de...” a fost citită de comentatorii clasici ca eliminând explicit alte obiecte pe care tradiția le asocia cu Chivotul la origine — vasul cu mana (Exodul 16:33-34) și toiagul înflorit al lui Aaron (Numeri 17:10) fuseseră puse, potrivit textului Torei, „înaintea Mărturiei” (Chivotului), nu neapărat în interiorul lui; comentatorii discută dacă acestea s-au pierdut deja în perioada Cortului mobil sau dacă „înaintea Mărturiei” înseamnă tot alături, în interior — versetul de aici confirmă cel puțin că, la momentul instalării în Templu, doar tablele Legii mai rămăseseră."
+       "t": "Nu exista nimic",
+       "w": "Nu exista nimic",
+       "heb": "אֵין",
+       "translit": "ēn",
+       "strong": "H369",
+       "pos": "particulă negativă",
+       "def_ro": "nu era (ēn)",
+       "dict_ro": "Confirmarea că Chivotul conținea doar tablele legământului, fără adăugiri ulterioare, întărește autenticitatea neîntreruptă a legământului sinaitic."
       },
       {
        "t": " "
       },
       {
-       "t": "pe care Moise le pusese acolo la Horeb, acolo unde DOMNUL pecetluise [legământ] cu copiii lui Israel când ieșiseră din țara Egiptului",
-       "w": "pe care Moise le pusese acolo la Horeb, acolo unde DOMNUL pecetluise [legământ] cu copiii lui Israel când ieșiseră din țara Egiptului",
-       "heb": "אֲשֶׁר הִנִּחַ שָׁם מֹשֶׁה בְּחֹרֵב אֲשֶׁר כָּרַת יְהוָה עִם בְּנֵי יִשְׂרָאֵל בְּצֵאתָם מֵאֶרֶץ מִצְרָיִם",
-       "translit": "așer hiniah șam moșe behorēv așer karat Adonai im benē israēl bețētam mēereț mițraim",
-       "strong": "H5117",
-       "pos": "particulă relativă + verb, hifil perfect + adverb + nume propriu + nume propriu + particulă relativă + verb, qal perfect + nume propriu + prepoziție + substantiv construct + nume propriu + verb, qal infinitiv + sufix + substantiv construct + nume propriu",
-       "def_ro": "pe care le-a pus acolo Moise la Horeb, unde a încheiat DOMNUL [legământ] cu fiii lui Israel, la ieșirea lor din țara Egiptului.",
-       "dict_ro": "Talmudul (Bava Batra 14a) deduce din formula «nimic... în afară de» — o restrângere după o restrângere — că, de fapt, și un Sefer Tora stătea în Chivot, alături de cele două table de piatră, nu doar tablele singure."
+       "t": "în Chivot,",
+       "w": "în Chivot,",
+       "heb": "בָּאָרוֹן",
+       "translit": "baaron",
+       "strong": "H727",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "în chivot, (baaron)",
+       "dict_ro": "Confirmarea că Chivotul conținea doar tablele legământului, fără adăugiri ulterioare, întărește autenticitatea neîntreruptă a legământului sinaitic."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "în afară de",
+       "w": "în afară de",
+       "heb": "רַק",
+       "translit": "rak",
+       "strong": "H7535",
+       "pos": "particulă afirmativă",
+       "def_ro": "doar (rak)",
+       "dict_ro": "Confirmarea că Chivotul conținea doar tablele legământului, fără adăugiri ulterioare, întărește autenticitatea neîntreruptă a legământului sinaitic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cele două table",
+       "w": "cele două table",
+       "heb": "שְׁנֵי לֻחוֹת",
+       "translit": "șenē luhot",
+       "strong": "H3871",
+       "pos": "numeral + substantiv, masculin plural construct",
+       "def_ro": "cele două table de (șenē luhot)",
+       "dict_ro": "Confirmarea că Chivotul conținea doar tablele legământului, fără adăugiri ulterioare, întărește autenticitatea neîntreruptă a legământului sinaitic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de piatră",
+       "w": "de piatră",
+       "heb": "הָאֲבָנִים",
+       "translit": "haavanim",
+       "strong": "H68",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "piatră (haavanim)",
+       "dict_ro": "Confirmarea că Chivotul conținea doar tablele legământului, fără adăugiri ulterioare, întărește autenticitatea neîntreruptă a legământului sinaitic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe care",
+       "w": "pe care",
+       "heb": "אֲשֶׁר",
+       "translit": "așer",
+       "strong": "H834",
+       "pos": "particulă relativă",
+       "def_ro": "care (așer)",
+       "dict_ro": "Confirmarea că Chivotul conținea doar tablele legământului, fără adăugiri ulterioare, întărește autenticitatea neîntreruptă a legământului sinaitic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Moise",
+       "w": "Moise",
+       "heb": "מֹשֶׁה",
+       "translit": "moșe",
+       "strong": "H4872",
+       "pos": "nume propriu",
+       "def_ro": "Moise (moșe)",
+       "dict_ro": "Moise la Horeb (alt nume pentru Sinai) e cel care a depus tablele, legând direct Chivotul de evenimentul fondator al legământului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "le pusese acolo",
+       "w": "le pusese acolo",
+       "heb": "הִנִּחַ שָׁם",
+       "translit": "hiniah șam",
+       "strong": "H8033",
+       "pos": "verb, hifil perfect + adverb",
+       "def_ro": "le-a pus acolo (hiniah șam)",
+       "dict_ro": "Confirmarea că Chivotul conținea doar tablele legământului, fără adăugiri ulterioare, întărește autenticitatea neîntreruptă a legământului sinaitic."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "la Horeb,",
+       "w": "la Horeb,",
+       "heb": "בְּחֹרֵב",
+       "translit": "behorēv",
+       "strong": "H2722",
+       "pos": "nume propriu",
+       "def_ro": "la Horeb, (behorēv)",
+       "dict_ro": "Moise la Horeb (alt nume pentru Sinai) e cel care a depus tablele, legând direct Chivotul de evenimentul fondator al legământului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "acolo unde DOMNUL",
+       "w": "acolo unde DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "pe care DOMNUL (așer Adonai)",
+       "dict_ro": "Legământul de la Horeb/Sinai, pecetluit cu copiii lui Israel la ieșirea din Egipt, e evenimentul pe care tablele din Chivot îl comemorează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pecetluise [legământ]",
+       "w": "pecetluise [legământ]",
+       "heb": "כָּרַת",
+       "translit": "karat",
+       "strong": "H3772",
+       "pos": "verb, qal perfect",
+       "def_ro": "l-a încheiat (karat)",
+       "dict_ro": "Legământul de la Horeb/Sinai, pecetluit cu copiii lui Israel la ieșirea din Egipt, e evenimentul pe care tablele din Chivot îl comemorează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu copiii lui",
+       "w": "cu copiii lui",
+       "heb": "בְּנֵי",
+       "translit": "benē",
+       "strong": "H1121",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "cu fiii lui (benē)",
+       "dict_ro": "Legământul de la Horeb/Sinai, pecetluit cu copiii lui Israel la ieșirea din Egipt, e evenimentul pe care tablele din Chivot îl comemorează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "Israel (israēl)",
+       "dict_ro": "Legământul de la Horeb/Sinai, pecetluit cu copiii lui Israel la ieșirea din Egipt, e evenimentul pe care tablele din Chivot îl comemorează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "când ieșiseră",
+       "w": "când ieșiseră",
+       "heb": "בְּצֵאתָם",
+       "translit": "bețētam",
+       "strong": "H3318",
+       "pos": "verb, qal infinitiv + sufix",
+       "def_ro": "la ieșirea lor (bețētam)",
+       "dict_ro": "Legământul de la Horeb/Sinai, pecetluit cu copiii lui Israel la ieșirea din Egipt, e evenimentul pe care tablele din Chivot îl comemorează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din țara",
+       "w": "din țara",
+       "heb": "מֵאֶרֶץ",
+       "translit": "mēereț",
+       "strong": "H776",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "din țara (mēereț)",
+       "dict_ro": "Legământul de la Horeb/Sinai, pecetluit cu copiii lui Israel la ieșirea din Egipt, e evenimentul pe care tablele din Chivot îl comemorează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Egiptului.",
+       "w": "Egiptului.",
+       "heb": "מִצְרָיִם",
+       "translit": "mițraim",
+       "strong": "H4714",
+       "pos": "nume propriu",
+       "def_ro": "Egiptului. (mițraim)",
+       "dict_ro": "Legământul de la Horeb/Sinai, pecetluit cu copiii lui Israel la ieșirea din Egipt, e evenimentul pe care tablele din Chivot îl comemorează."
       }
      ],
      "textCompare": [
@@ -110681,17 +112059,92 @@
      "translit": "Vayehi betzet hakohanim min-hakodeș veheanan male et-beit ADONAI.",
      "tokens": [
       {
-       "t": "Când preoții au plecat din Sfânta, norul a umplut Casa DOMNULUI",
-       "w": "Când preoții au plecat din Sfânta, norul a umplut Casa DOMNULUI",
-       "heb": "וַיְהִי בְּצֵאת הַכֹּהֲנִים מִן הַקֹּדֶשׁ וְהֶעָנָן מָלֵא אֶת בֵּית יְהוָה",
-       "translit": "vaihi bețēt hakohanim min hakodeș veheanan malē et bēt Adonai",
-       "strong": "H1961",
-       "pos": "verb, qal imperfect consecutiv + verb, qal infinitiv + substantiv + prepoziție + substantiv + substantiv + verb, qal perfect + marcă a complementului direct + substantiv construct + nume propriu",
-       "def_ro": "și a fost, la ieșirea preoților din Sfânta, că norul a umplut Casa DOMNULUI.",
-       "dict_ro": "Rashi explică faptul că, în clipa în care preoții care duseseră Chivotul în Sfânta Sfintelor au ieșit, îndată Prezența lui Dumnezeu S-a odihnit în Templu — simultaneitatea exactă a celor două evenimente confirmă legătura directă dintre ele."
+       "t": "Când preoții",
+       "w": "Când preoții",
+       "heb": "הַכֹּהֲנִים",
+       "translit": "hakohanim",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "preoții (hakohanim)",
+       "dict_ro": "Norul care umple Templul, la fel cum a umplut Cortul Întâlnirii în pustie, confirmă prezența divină vizibilă în noul sanctuar."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "au plecat",
+       "w": "au plecat",
+       "heb": "בְּצֵאת",
+       "translit": "bețēt",
+       "strong": "H3318",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "la plecarea (bețēt)",
+       "dict_ro": "Norul care umple Templul, la fel cum a umplut Cortul Întâlnirii în pustie, confirmă prezența divină vizibilă în noul sanctuar."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din Sfânta,",
+       "w": "din Sfânta,",
+       "heb": "מִן הַקֹּדֶשׁ",
+       "translit": "min hakodeș",
+       "strong": "H6944",
+       "pos": "prepoziție + substantiv, masculin singular",
+       "def_ro": "din sfânta, (min hakodeș)",
+       "dict_ro": "Norul care umple Templul, la fel cum a umplut Cortul Întâlnirii în pustie, confirmă prezența divină vizibilă în noul sanctuar."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "norul",
+       "w": "norul",
+       "heb": "וְהֶעָנָן",
+       "translit": "veheanan",
+       "strong": "H6051",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și norul (veheanan)",
+       "dict_ro": "Norul care umple Templul, la fel cum a umplut Cortul Întâlnirii în pustie, confirmă prezența divină vizibilă în noul sanctuar."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a umplut",
+       "w": "a umplut",
+       "heb": "מָלֵא",
+       "translit": "malē",
+       "strong": "H4390",
+       "pos": "verb, qal perfect",
+       "def_ro": "a umplut (malē)",
+       "dict_ro": "Norul care umple Templul, la fel cum a umplut Cortul Întâlnirii în pustie, confirmă prezența divină vizibilă în noul sanctuar."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Casa",
+       "w": "Casa",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (bēt)",
+       "dict_ro": "Norul care umple Templul, la fel cum a umplut Cortul Întâlnirii în pustie, confirmă prezența divină vizibilă în noul sanctuar."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI. (Adonai)",
+       "dict_ro": "Norul care umple Templul, la fel cum a umplut Cortul Întâlnirii în pustie, confirmă prezența divină vizibilă în noul sanctuar."
       }
      ],
      "textCompare": [
@@ -110732,17 +112185,144 @@
      "translit": "Velo-yachlu hakohanim laamod leșaret mipnei heanan ki-male kevod-ADONAI et-beit ADONAI.",
      "tokens": [
       {
-       "t": "Și preoții nu au putut sta să slujească din pricina norului, căci slava DOMNULUI umplea Casa DOMNULUI",
-       "w": "Și preoții nu au putut sta să slujească din pricina norului, căci slava DOMNULUI umplea Casa DOMNULUI",
-       "heb": "וְלֹא יָכְלוּ הַכֹּהֲנִים לַעֲמֹד לְשָׁרֵת מִפְּנֵי הֶעָנָן כִּי מָלֵא כְבוֹד יְהוָה אֶת בֵּית יְהוָה",
-       "translit": "velo iahlu hakohanim laamod leșarēt mipnē heanan ki malē hevod Adonai et bēt Adonai",
-       "strong": "H3201",
-       "pos": "particulă negativă + verb, qal perfect + substantiv + verb, qal infinitiv + verb, piel infinitiv + substantiv construct + substantiv + conjuncție + verb, qal perfect + substantiv construct + nume propriu + marcă a complementului direct + substantiv construct + nume propriu",
-       "def_ro": "și n-au putut preoții să stea să slujească din pricina norului, căci slava DOMNULUI umpluse Casa DOMNULUI.",
-       "dict_ro": "Metzudat David identifică explicit «slava DOMNULUI» cu norul descris anterior — același fenomen vizibil, numit de două ori cu termeni diferiți, pentru a-i sublinia dubla natură: materială (nor) și teologică (slavă)."
+       "t": "Și preoții",
+       "w": "Și preoții",
+       "heb": "הַכֹּהֲנִים",
+       "translit": "hakohanim",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "preoții (hakohanim)",
+       "dict_ro": "Norul atât de dens încât preoții nu pot sta în picioare să slujească arată intensitatea fizică a slavei divine care umple Templul."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "nu au putut",
+       "w": "nu au putut",
+       "heb": "וְלֹא יָכְלוּ",
+       "translit": "velo iahlu",
+       "strong": "H3201",
+       "pos": "particulă negativă + verb, qal perfect",
+       "def_ro": "și nu au putut (velo iahlu)",
+       "dict_ro": "Norul atât de dens încât preoții nu pot sta în picioare să slujească arată intensitatea fizică a slavei divine care umple Templul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sta",
+       "w": "sta",
+       "heb": "לַעֲמֹד",
+       "translit": "laamod",
+       "strong": "H5975",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "să stea (laamod)",
+       "dict_ro": "Norul atât de dens încât preoții nu pot sta în picioare să slujească arată intensitatea fizică a slavei divine care umple Templul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să slujească",
+       "w": "să slujească",
+       "heb": "לְשָׁרֵת",
+       "translit": "leșarēt",
+       "strong": "H8334",
+       "pos": "verb, piel infinitiv",
+       "def_ro": "să slujească (leșarēt)",
+       "dict_ro": "Norul atât de dens încât preoții nu pot sta în picioare să slujească arată intensitatea fizică a slavei divine care umple Templul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din pricina norului,",
+       "w": "din pricina norului,",
+       "heb": "מִפְּנֵי הֶעָנָן",
+       "translit": "mipnē heanan",
+       "strong": "H6051",
+       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular",
+       "def_ro": "din fața norului, (mipnē heanan)",
+       "dict_ro": "Norul atât de dens încât preoții nu pot sta în picioare să slujească arată intensitatea fizică a slavei divine care umple Templul."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "căci",
+       "w": "căci",
+       "heb": "כִּי",
+       "translit": "ki",
+       "strong": "H3588",
+       "pos": "conjuncție",
+       "def_ro": "căci (ki)",
+       "dict_ro": "Slava DOMNULUI, nu simplu norul, e cea care umple de fapt Casa — distincție teologică importantă între semn vizibil și realitatea divină."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "slava",
+       "w": "slava",
+       "heb": "כְבוֹד",
+       "translit": "hevod",
+       "strong": "H3519",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "slava (hevod)",
+       "dict_ro": "Slava DOMNULUI, nu simplu norul, e cea care umple de fapt Casa — distincție teologică importantă între semn vizibil și realitatea divină."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI (Adonai)",
+       "dict_ro": "Slava DOMNULUI, nu simplu norul, e cea care umple de fapt Casa — distincție teologică importantă între semn vizibil și realitatea divină."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "umplea",
+       "w": "umplea",
+       "heb": "מָלֵא",
+       "translit": "malē",
+       "strong": "H4390",
+       "pos": "verb, qal perfect",
+       "def_ro": "a umplut (malē)",
+       "dict_ro": "Slava DOMNULUI, nu simplu norul, e cea care umple de fapt Casa — distincție teologică importantă între semn vizibil și realitatea divină."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Casa",
+       "w": "Casa",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casa (bēt)",
+       "dict_ro": "Slava DOMNULUI, nu simplu norul, e cea care umple de fapt Casa — distincție teologică importantă între semn vizibil și realitatea divină."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI.",
+       "w": "DOMNULUI.",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI. (Adonai)",
+       "dict_ro": "Slava DOMNULUI, nu simplu norul, e cea care umple de fapt Casa — distincție teologică importantă între semn vizibil și realitatea divină."
       }
      ],
      "textCompare": [
@@ -110782,32 +112362,94 @@
      "translit": "Az amar Șlomo ADONAI amar lișkon baarafel.",
      "tokens": [
       {
-       "t": "Atunci Solomon a spus: „DOMNUL a spus că va sălășlui în",
-       "w": "Atunci Solomon a spus: „DOMNUL a spus că va sălășlui în",
-       "heb": "אָז אָמַר שְׁלֹמֹה יְהוָה אָמַר לִשְׁכֹּן בָּ",
-       "translit": "az amar șelomo Adonai amar lișkon ba",
+       "t": "Atunci",
+       "w": "Atunci",
+       "heb": "אָז",
+       "translit": "az",
        "strong": "H227",
-       "pos": "adverb + verb, qal perfect + nume propriu + nume propriu + verb, qal perfect + verb, qal infinitiv",
-       "def_ro": "atunci a spus Solomon: DOMNUL a spus [că] va locui în.",
-       "dict_ro": "Rashi explică faptul că, văzând norul, Solomon a înțeles imediat că Prezența lui Dumnezeu locuiește cu adevărat în casa pe care o zidise, întocmai cum DOMNUL făgăduise să vină și să locuiască în ea «din mijlocul norului și al negurii» (Levitic 16:2)."
+       "pos": "adverb",
+       "def_ro": "atunci (az)",
+       "dict_ro": "Solomon citează o tradiție poetică despre DOMNUL care a ales să locuiască în negura deasă, ca la Sinai, nu în lumină deschisă."
       },
       {
        "t": " "
       },
       {
-       "t": "negură",
-       "w": "negură",
+       "t": "Solomon",
+       "w": "Solomon",
+       "heb": "שְׁלֹמֹה",
+       "translit": "șelomo",
+       "strong": "H8010",
+       "pos": "nume propriu",
+       "def_ro": "Solomon (șelomo)",
+       "dict_ro": "Solomon citează o tradiție poetică despre DOMNUL care a ales să locuiască în negura deasă, ca la Sinai, nu în lumină deschisă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a spus:",
+       "w": "a spus:",
+       "heb": "אָמַר",
+       "translit": "amar",
+       "strong": "H559",
+       "pos": "verb, qal perfect",
+       "def_ro": "a spus: (amar)",
+       "dict_ro": "Solomon citează o tradiție poetică despre DOMNUL care a ales să locuiască în negura deasă, ca la Sinai, nu în lumină deschisă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "„DOMNUL",
+       "w": "„DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "Solomon citează o tradiție poetică despre DOMNUL care a ales să locuiască în negura deasă, ca la Sinai, nu în lumină deschisă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a spus",
+       "w": "a spus",
+       "heb": "אָמַר",
+       "translit": "amar",
+       "strong": "H559",
+       "pos": "verb, qal perfect",
+       "def_ro": "a spus (amar)",
+       "dict_ro": "Solomon citează o tradiție poetică despre DOMNUL care a ales să locuiască în negura deasă, ca la Sinai, nu în lumină deschisă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "că va sălășlui",
+       "w": "că va sălășlui",
+       "heb": "לִשְׁכֹּן",
+       "translit": "lișkon",
+       "strong": "H7931",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "să sălășluiască (lișkon)",
+       "dict_ro": "Solomon citează o tradiție poetică despre DOMNUL care a ales să locuiască în negura deasă, ca la Sinai, nu în lumină deschisă."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în negură.",
+       "w": "în negură.",
        "heb": "בָּעֲרָפֶל",
        "translit": "baarafel",
        "strong": "H6205",
        "pos": "substantiv, masculin singular",
-       "def_ro": "în negură, în întuneric des.",
+       "def_ro": "în negură. (baarafel)",
+       "dict_ro": "Solomon citează o tradiție poetică despre DOMNUL care a ales să locuiască în negura deasă, ca la Sinai, nu în lumină deschisă.",
        "greek": "γνόφος (gnophos)",
-       "greek_def_ro": "γνόφος (gnophos) — negură, întuneric dens.",
-       "dict_ro": "Unul dintre cele mai cunoscute și discutate pasaje din toată Septuaginta a Cărților Împărați: textul grecesc are aici o propoziție întreagă absentă din ebraică, „Ἥλιον ἐγνώρισεν ἐν οὐρανῷ Κύριος\" („DOMNUL a făcut cunoscut soarele pe cer\"), și se încheie cu o trimitere explicită la o sursă externă, „nu este scris aceasta în cartea cântării?\" — o aluzie la „Cartea lui Iașar\" (Sefer haYașar), menționată și în Iosua 10:13 și 2 Samuel 1:18, o colecție de poeme antice astăzi pierdută, din care Septuaginta pare să fi păstrat un fragment absent din textul masoretic."
-      },
-      {
-       "t": "."
+       "greek_def_ro": "γνόφος (gnophos) — negură, întuneric dens."
       }
      ],
      "textCompare": [
@@ -110847,17 +112489,92 @@
      "translit": "Bano vaniti beit zevul lach machon leșivtecha olamim.",
      "tokens": [
       {
-       "t": "Și am construit într-adevăr un adăpost pentru Tine, o temelie veșnică a sălașului Tău",
-       "w": "Și am construit într-adevăr un adăpost pentru Tine, o temelie veșnică a sălașului Tău",
-       "heb": "בָּנֹה בָנִיתִי בֵּית זְבֻל לָךְ מָכוֹן לְשִׁבְתְּךָ עוֹלָמִים",
-       "translit": "bano vaniti bēt zevul lah mahon leșivteha olamim",
+       "t": "Și am construit",
+       "w": "Și am construit",
+       "heb": "בָנִיתִי",
+       "translit": "vaniti",
        "strong": "H1129",
-       "pos": "verb, qal infinitiv absolut + verb, qal perfect + substantiv construct + substantiv + prepoziție + sufix + substantiv + verb, qal infinitiv + sufix + substantiv",
-       "def_ro": "zidind, am zidit o casă de locuit pentru Tine, un loc statornic pentru șederea Ta în veci.",
-       "dict_ro": "Rashi explică faptul că, de când a fost ales acest loc, înălțimile [bamot] n-au mai fost îngăduite, iar Prezența lui Dumnezeu n-a mai locuit în alt loc — Templul devine sălaș unic și permanent, nu unul dintre mai multe locuri posibile."
+       "pos": "verb, qal perfect",
+       "def_ro": "am construit (vaniti)",
+       "dict_ro": "Dublarea verbului «a construi» (infinitiv absolut + verb finit) întărește emfatic afirmația lui Solomon: Templul e cu adevărat terminat."
       },
       {
-       "t": ".”"
+       "t": " "
+      },
+      {
+       "t": "într-adevăr",
+       "w": "într-adevăr",
+       "heb": "בָּנֹה",
+       "translit": "bano",
+       "strong": "H1129",
+       "pos": "verb, qal infinitiv absolut",
+       "def_ro": "construind (bano)",
+       "dict_ro": "Dublarea verbului «a construi» (infinitiv absolut + verb finit) întărește emfatic afirmația lui Solomon: Templul e cu adevărat terminat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "un adăpost",
+       "w": "un adăpost",
+       "heb": "בֵּית זְבֻל",
+       "translit": "bēt zevul",
+       "strong": "H2073",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
+       "def_ro": "o casă de locuit (bēt zevul)",
+       "dict_ro": "Dublarea verbului «a construi» (infinitiv absolut + verb finit) întărește emfatic afirmația lui Solomon: Templul e cu adevărat terminat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru Tine,",
+       "w": "pentru Tine,",
+       "heb": "לָךְ",
+       "translit": "lah",
+       "strong": "",
+       "pos": "prepoziție + sufix",
+       "def_ro": "pentru Tine, (lah)",
+       "dict_ro": "Dublarea verbului «a construi» (infinitiv absolut + verb finit) întărește emfatic afirmația lui Solomon: Templul e cu adevărat terminat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "o temelie",
+       "w": "o temelie",
+       "heb": "מָכוֹן",
+       "translit": "mahon",
+       "strong": "H4349",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "un loc (mahon)",
+       "dict_ro": "Dublarea verbului «a construi» (infinitiv absolut + verb finit) întărește emfatic afirmația lui Solomon: Templul e cu adevărat terminat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "veșnică",
+       "w": "veșnică",
+       "heb": "עוֹלָמִים",
+       "translit": "olamim",
+       "strong": "H5769",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "veșnică (olamim)",
+       "dict_ro": "Dublarea verbului «a construi» (infinitiv absolut + verb finit) întărește emfatic afirmația lui Solomon: Templul e cu adevărat terminat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a sălașului Tău.”",
+       "w": "a sălașului Tău.”",
+       "heb": "לְשִׁבְתְּךָ",
+       "translit": "leșivteha",
+       "strong": "H3427",
+       "pos": "verb, qal infinitiv + sufix",
+       "def_ro": "de șezut al Tău. (leșivteha)",
+       "dict_ro": "Dublarea verbului «a construi» (infinitiv absolut + verb finit) întărește emfatic afirmația lui Solomon: Templul e cu adevărat terminat."
       }
      ],
      "textCompare": [
@@ -110897,17 +112614,118 @@
      "translit": "Vayasev hameleh et-panav vayvarech et kol-kehal Israël vechol-kehal Israël omed.",
      "tokens": [
       {
-       "t": "Regele și-a întors fața și a binecuvântat întreaga obște a lui Israel și toată obștea lui Israel stătea în picioare",
-       "w": "Regele și-a întors fața și a binecuvântat întreaga obște a lui Israel și toată obștea lui Israel stătea în picioare",
-       "heb": "וַיַּסֵּב הַמֶּלֶךְ אֶת פָּנָיו וַיְבָרֶךְ אֵת כָּל קְהַל יִשְׂרָאֵל וְכָל קְהַל יִשְׂרָאֵל עֹמֵד",
-       "translit": "vaiasēv hameleh et panaiv vaivareh ēt kal kehal israēl vehal kehal israēl omēd",
-       "strong": "H5437",
-       "pos": "verb, hifil imperfect consecutiv + substantiv + marcă a complementului direct + substantiv plural construct + sufix + verb, piel imperfect consecutiv + marcă a complementului direct + substantiv construct + substantiv construct + nume propriu + substantiv construct + substantiv construct + nume propriu + verb, qal participiu",
-       "def_ro": "și a întors regele fața lui și a binecuvântat toată adunarea lui Israel; și toată adunarea lui Israel stătea.",
-       "dict_ro": "Metzudat David explică poziția poporului — stătea în picioare — pentru că nu era permisă șederea în curtea Templului; Radak adaugă că binecuvântarea exactă dată de Solomon nu e redată aici, ci doar cea rostită mai târziu, după rugăciunea lui."
+       "t": "Regele",
+       "w": "Regele",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
+       "strong": "H4428",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "regele (hameleh)",
+       "dict_ro": "Întoarcerea feței regelui marchează trecerea de la cuvântarea către DOMNUL la binecuvântarea directă a poporului adunat."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "și-a întors",
+       "w": "și-a întors",
+       "heb": "וַיַּסֵּב",
+       "translit": "vaiasēv",
+       "strong": "H5437",
+       "pos": "verb, hifil imperfect consecutiv",
+       "def_ro": "și a întors (vaiasēv)",
+       "dict_ro": "Întoarcerea feței regelui marchează trecerea de la cuvântarea către DOMNUL la binecuvântarea directă a poporului adunat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "fața",
+       "w": "fața",
+       "heb": "פָּנָיו",
+       "translit": "panaiv",
+       "strong": "H6440",
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "fața lui (panaiv)",
+       "dict_ro": "Întoarcerea feței regelui marchează trecerea de la cuvântarea către DOMNUL la binecuvântarea directă a poporului adunat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și a binecuvântat",
+       "w": "și a binecuvântat",
+       "heb": "וַיְבָרֶךְ",
+       "translit": "vaivareh",
+       "strong": "H1288",
+       "pos": "verb, piel imperfect consecutiv",
+       "def_ro": "și a binecuvântat (vaivareh)",
+       "dict_ro": "Întoarcerea feței regelui marchează trecerea de la cuvântarea către DOMNUL la binecuvântarea directă a poporului adunat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "întreaga obște a lui",
+       "w": "întreaga obște a lui",
+       "heb": "כָּל קְהַל",
+       "translit": "kal kehal",
+       "strong": "H6951",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct",
+       "def_ro": "toată adunarea lui (kal kehal)",
+       "dict_ro": "Întoarcerea feței regelui marchează trecerea de la cuvântarea către DOMNUL la binecuvântarea directă a poporului adunat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "Israel (israēl)",
+       "dict_ro": "Întoarcerea feței regelui marchează trecerea de la cuvântarea către DOMNUL la binecuvântarea directă a poporului adunat."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și toată obștea lui",
+       "w": "și toată obștea lui",
+       "heb": "וְכָל קְהַל",
+       "translit": "vehal kehal",
+       "strong": "H6951",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct",
+       "def_ro": "și toată adunarea lui (vehal kehal)",
+       "dict_ro": "Repetarea «toată obștea lui Israel», de două ori, sublimează unanimitatea prezenței poporului la acest moment."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "Israel (israēl)",
+       "dict_ro": "Repetarea «toată obștea lui Israel», de două ori, sublimează unanimitatea prezenței poporului la acest moment."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "stătea în picioare.",
+       "w": "stătea în picioare.",
+       "heb": "עֹמֵד",
+       "translit": "omēd",
+       "strong": "H5975",
+       "pos": "verb, qal participiu",
+       "def_ro": "stând. (omēd)",
+       "dict_ro": "Repetarea «toată obștea lui Israel», de două ori, sublimează unanimitatea prezenței poporului la acest moment."
       }
      ],
      "textCompare": [
@@ -110951,42 +112769,159 @@
      "translit": "Vayomer baruch ADONAI Elohei Israël așer diber befiv et David avi uveyado mile lemor.",
      "tokens": [
       {
-       "t": "Și [Solomon] a spus: „Binecuvântat ești Tu, DOAMNE, Dumnezeul lui Israel, care a vorbit cu",
-       "w": "Și [Solomon] a spus: „Binecuvântat ești Tu, DOAMNE, Dumnezeul lui Israel, care a vorbit cu",
-       "heb": "וַיֹּאמֶר בָּרוּךְ יְהוָה אֱלֹהֵי יִשְׂרָאֵל אֲשֶׁר דִּבֶּר בְּ",
-       "translit": "vaiomer baruh Adonai elohē israēl așer diber be",
+       "t": "Și [Solomon] a spus:",
+       "w": "Și [Solomon] a spus:",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
        "strong": "H559",
-       "pos": "verb, qal imperfect consecutiv + verb, qal participiu pasiv + nume propriu + substantiv construct + nume propriu + particulă relativă + verb, piel perfect",
-       "def_ro": "și a spus: binecuvântat [este] DOMNUL, Dumnezeul lui Israel, care a vorbit cu.",
-       "dict_ro": "Radak explică faptul că Solomon Îi mulțumește mai întâi lui Dumnezeu, înainte de a adresa vreun cuvânt poporului — recunoștința pentru împlinirea promisiunii precede orice altă rostire regală."
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a spus: (vaiomer)",
+       "dict_ro": "Binecuvântarea rostită de Solomon Îl numește pe DOMNUL drept Cel care a împlinit personal, cu propria gură și mână, promisiunea făcută lui David."
       },
       {
        "t": " "
       },
       {
-       "t": "gura Lui",
-       "w": "gura Lui",
+       "t": "„Binecuvântat ești Tu,",
+       "w": "„Binecuvântat ești Tu,",
+       "heb": "בָּרוּךְ",
+       "translit": "baruh",
+       "strong": "H1288",
+       "pos": "verb, qal participiu pasiv",
+       "def_ro": "binecuvântat (baruh)",
+       "dict_ro": "Binecuvântarea rostită de Solomon Îl numește pe DOMNUL drept Cel care a împlinit personal, cu propria gură și mână, promisiunea făcută lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOAMNE,",
+       "w": "DOAMNE,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOAMNE, (Adonai)",
+       "dict_ro": "Binecuvântarea rostită de Solomon Îl numește pe DOMNUL drept Cel care a împlinit personal, cu propria gură și mână, promisiunea făcută lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Dumnezeul lui",
+       "w": "Dumnezeul lui",
+       "heb": "אֱלֹהֵי",
+       "translit": "elohē",
+       "strong": "H430",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "Dumnezeul (elohē)",
+       "dict_ro": "Binecuvântarea rostită de Solomon Îl numește pe DOMNUL drept Cel care a împlinit personal, cu propria gură și mână, promisiunea făcută lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel,",
+       "w": "Israel,",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "lui Israel, (israēl)",
+       "dict_ro": "Binecuvântarea rostită de Solomon Îl numește pe DOMNUL drept Cel care a împlinit personal, cu propria gură și mână, promisiunea făcută lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care a vorbit",
+       "w": "care a vorbit",
+       "heb": "דִּבֶּר",
+       "translit": "diber",
+       "strong": "H1696",
+       "pos": "verb, piel perfect",
+       "def_ro": "care a vorbit (diber)",
+       "dict_ro": "Binecuvântarea rostită de Solomon Îl numește pe DOMNUL drept Cel care a împlinit personal, cu propria gură și mână, promisiunea făcută lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu gura Lui",
+       "w": "cu gura Lui",
        "heb": "בְּפִיו",
        "translit": "befiv",
        "strong": "H6310",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "prin gura Lui.",
+       "def_ro": "cu gura lui (befiv)",
+       "dict_ro": "Binecuvântarea rostită de Solomon Îl numește pe DOMNUL drept Cel care a împlinit personal, cu propria gură și mână, promisiunea făcută lui David.",
        "greek": "στόμα αὐτοῦ (stoma autou)",
-       "greek_def_ro": "στόμα αὐτοῦ (stoma autou) — gura lui.",
-       "dict_ro": "Pe, „gură” — Rashi distinge cele două verbe folosite aici: „a vorbit cu gura Lui” se referă la promisiunea rostită prin gura profetului Natan (2 Samuel 7:12-13), iar „a împlinit cu mâna Lui” se referă la puterea divină efectivă care a adus împlinirea, ani mai târziu, prin Solomon însuși — cuvântul profetic și fapta istorică, distincte, dar amândouă atribuite direct DOMNULUI."
+       "greek_def_ro": "στόμα αὐτοῦ (stoma autou) — gura lui."
       },
       {
        "t": " "
       },
       {
-       "t": "tatălui meu David, și care cu mâna Lui a împlinit [cuvântul pe care i l-a vorbit], spunând:",
-       "w": "tatălui meu David, și care cu mâna Lui a împlinit [cuvântul pe care i l-a vorbit], spunând:",
-       "heb": "אֵת דָּוִד אָבִי וּבְיָדוֹ מִלֵּא לֵאמֹר",
-       "translit": "ēt david avi uviado milē lēmor",
+       "t": "tatălui meu",
+       "w": "tatălui meu",
+       "heb": "דָּוִד",
+       "translit": "david",
        "strong": "H1732",
-       "pos": "prepoziție + nume propriu + substantiv construct + sufix + substantiv construct + sufix + verb, piel perfect + verb, qal infinitiv",
-       "def_ro": "cu David, tatăl meu, și cu mâna Lui a împlinit, spunând.",
-       "dict_ro": "Rashi explică faptul că expresia «și cu mâna Lui a împlinit» înseamnă că DOMNUL Și-a împlinit cuvântul «cu mâna Lui cea bună» — puterea divină activă, nu doar promisiunea verbală, a dus la zidirea efectivă a Templului."
+       "pos": "nume propriu",
+       "def_ro": "tatălui meu (avi)",
+       "dict_ro": "Binecuvântarea rostită de Solomon Îl numește pe DOMNUL drept Cel care a împlinit personal, cu propria gură și mână, promisiunea făcută lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "David,",
+       "w": "David,",
+       "heb": "אֵת",
+       "translit": "ēt",
+       "strong": "H854",
+       "pos": "prepoziție",
+       "def_ro": "David, (david)",
+       "dict_ro": "Binecuvântarea rostită de Solomon Îl numește pe DOMNUL drept Cel care a împlinit personal, cu propria gură și mână, promisiunea făcută lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și care cu mâna Lui",
+       "w": "și care cu mâna Lui",
+       "heb": "אָבִי",
+       "translit": "avi",
+       "strong": "H1",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "și cu mâna lui (uviado)",
+       "dict_ro": "Binecuvântarea rostită de Solomon Îl numește pe DOMNUL drept Cel care a împlinit personal, cu propria gură și mână, promisiunea făcută lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "a împlinit",
+       "w": "a împlinit",
+       "heb": "וּבְיָדוֹ",
+       "translit": "uviado",
+       "strong": "H3027",
+       "pos": "substantiv, masculin și feminin singular construct + sufix",
+       "def_ro": "a împlinit (milē)",
+       "dict_ro": "Binecuvântarea rostită de Solomon Îl numește pe DOMNUL drept Cel care a împlinit personal, cu propria gură și mână, promisiunea făcută lui David."
+      },
+      {
+       "t": " [cuvântul pe care i l-a vorbit], "
+      },
+      {
+       "t": "spunând:",
+       "w": "spunând:",
+       "heb": "מִלֵּא",
+       "translit": "milē",
+       "strong": "H4390",
+       "pos": "verb, piel perfect",
+       "def_ro": "spunând: (lēmor)",
+       "dict_ro": "Binecuvântarea rostită de Solomon Îl numește pe DOMNUL drept Cel care a împlinit personal, cu propria gură și mână, promisiunea făcută lui David."
       }
      ],
      "textCompare": [
@@ -111025,27 +112960,235 @@
      "translit": "Min-hayom așer hotzeti et-ami et-Israël miMițraim lo-baharti beir mikol șivtei Israël livnot bayit lihyot șemi șam vaevhar beDavid lihyot al-ami Israël.",
      "tokens": [
       {
-       "t": "«Din ziua în care l-am scos pe poporul Meu Israel din Egipt, nu am ales niciun oraș dintre triburile lui Israel să-Mi construiască o Casă unde să fie numele Meu",
-       "w": "«Din ziua în care l-am scos pe poporul Meu Israel din Egipt, nu am ales niciun oraș dintre triburile lui Israel să-Mi construiască o Casă unde să fie numele Meu",
-       "heb": "מִן הַיּוֹם אֲשֶׁר הוֹצֵאתִי אֶת עַמִּי אֶת יִשְׂרָאֵל מִמִּצְרַיִם לֹא בָחַרְתִּי בְעִיר מִכֹּל שִׁבְטֵי יִשְׂרָאֵל לִבְנוֹת בַּיִת לִהְיוֹת שְׁמִי שָׁם",
-       "translit": "min haiom așer hoțēti et ami et israēl mimițraim lo vaharti veir mikol șivtē israēl livnot bait lihiot șemi șam",
+       "t": "«Din ziua",
+       "w": "«Din ziua",
+       "heb": "מִן הַיּוֹם",
+       "translit": "min haiom",
        "strong": "H3117",
-       "pos": "prepoziție + substantiv + particulă relativă + verb, hifil perfect + marcă a complementului direct + substantiv construct + sufix + marcă a complementului direct + nume propriu + nume propriu + particulă negativă + verb, qal perfect + substantiv + substantiv construct + substantiv plural construct + nume propriu + verb, qal infinitiv + substantiv + verb, qal infinitiv + substantiv construct + sufix + adverb",
-       "def_ro": "din ziua în care am scos pe poporul Meu Israel din Egipt, n-am ales oraș din toate triburile lui Israel ca să zidesc o casă, ca să fie numele Meu acolo.",
-       "dict_ro": "Rashi notează că aceste cuvinte sunt exact cele spuse de DOMNUL tatălui lui Solomon, David — citarea directă confirmă continuitatea exactă dintre promisiunea veche și împlinirea ei prezentă."
+       "pos": "prepoziție + substantiv, masculin singular",
+       "def_ro": "din ziua (min haiom)",
+       "dict_ro": "Promisiunea citată amintește că DOMNUL nu a ales inițial niciun oraș pentru Templu — alegerea lui David și, abia apoi, a Ierusalimului, a venit ulterior."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "și l-am ales pe David să fie peste poporul Meu Israel.»",
-       "w": "și l-am ales pe David să fie peste poporul Meu Israel.»",
-       "heb": "וָאֶבְחַר בְּדָוִד לִהְיוֹת עַל עַמִּי יִשְׂרָאֵל",
-       "translit": "vaevhar bedavid lihiot al ami israēl",
+       "t": "în care l-am scos pe",
+       "w": "în care l-am scos pe",
+       "heb": "אֲשֶׁר הוֹצֵאתִי",
+       "translit": "așer hoțēti",
+       "strong": "H3318",
+       "pos": "particulă relativă + verb, hifil perfect",
+       "def_ro": "când am scos (așer hoțēti)",
+       "dict_ro": "Promisiunea citată amintește că DOMNUL nu a ales inițial niciun oraș pentru Templu — alegerea lui David și a Ierusalimului a venit ulterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "poporul Meu",
+       "w": "poporul Meu",
+       "heb": "עַמִּי",
+       "translit": "ami",
+       "strong": "H5971",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "poporul meu (ami)",
+       "dict_ro": "Promisiunea citată amintește că DOMNUL nu a ales inițial niciun oraș pentru Templu — alegerea lui David și a Ierusalimului a venit ulterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "Israel (israēl)",
+       "dict_ro": "Promisiunea citată amintește că DOMNUL nu a ales inițial niciun oraș pentru Templu — alegerea lui David și a Ierusalimului a venit ulterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din Egipt,",
+       "w": "din Egipt,",
+       "heb": "מִמִּצְרַיִם",
+       "translit": "mimițraim",
+       "strong": "H4714",
+       "pos": "nume propriu",
+       "def_ro": "din Egipt, (mimițraim)",
+       "dict_ro": "Promisiunea citată amintește că DOMNUL nu a ales inițial niciun oraș pentru Templu — alegerea lui David și a Ierusalimului a venit ulterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "nu am ales",
+       "w": "nu am ales",
+       "heb": "לֹא בָחַרְתִּי",
+       "translit": "lo vaharti",
        "strong": "H977",
-       "pos": "verb, qal imperfect consecutiv + nume propriu + verb, qal infinitiv + prepoziție + substantiv construct + sufix + nume propriu",
-       "def_ro": "și am ales pe David să fie peste poporul Meu Israel.",
-       "dict_ro": "Radak explică faptul că alegerea Ierusalimului nu a fost descoperită decât odată cu alegerea lui David — DOMNUL i-a arătat ulterior locul ales, în Ierusalim, când i-a răspuns prin foc din cer la aria lui Arauna."
+       "pos": "particulă negativă + verb, qal perfect",
+       "def_ro": "nu am ales (lo vaharti)",
+       "dict_ro": "Promisiunea citată amintește că DOMNUL nu a ales inițial niciun oraș pentru Templu — alegerea lui David și a Ierusalimului a venit ulterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "niciun oraș",
+       "w": "niciun oraș",
+       "heb": "בְעִיר",
+       "translit": "veir",
+       "strong": "H5892",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "un oraș (veir)",
+       "dict_ro": "Promisiunea citată amintește că DOMNUL nu a ales inițial niciun oraș pentru Templu — alegerea lui David și a Ierusalimului a venit ulterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dintre triburile lui",
+       "w": "dintre triburile lui",
+       "heb": "שִׁבְטֵי",
+       "translit": "șivtē",
+       "strong": "H7626",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "din triburile (șivtē)",
+       "dict_ro": "Promisiunea citată amintește că DOMNUL nu a ales inițial niciun oraș pentru Templu — alegerea lui David și a Ierusalimului a venit ulterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "Israel (israēl)",
+       "dict_ro": "Promisiunea citată amintește că DOMNUL nu a ales inițial niciun oraș pentru Templu — alegerea lui David și a Ierusalimului a venit ulterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să-Mi construiască",
+       "w": "să-Mi construiască",
+       "heb": "לִבְנוֹת",
+       "translit": "livnot",
+       "strong": "H1129",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "să construiască (livnot)",
+       "dict_ro": "Promisiunea citată amintește că DOMNUL nu a ales inițial niciun oraș pentru Templu — alegerea lui David și a Ierusalimului a venit ulterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "o Casă",
+       "w": "o Casă",
+       "heb": "בַּיִת",
+       "translit": "bait",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "o casă (bait)",
+       "dict_ro": "Promisiunea citată amintește că DOMNUL nu a ales inițial niciun oraș pentru Templu — alegerea lui David și a Ierusalimului a venit ulterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "unde să fie",
+       "w": "unde să fie",
+       "heb": "לִהְיוֹת",
+       "translit": "lihiot",
+       "strong": "H1961",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "să fie (lihiot)",
+       "dict_ro": "Promisiunea citată amintește că DOMNUL nu a ales inițial niciun oraș pentru Templu — alegerea lui David și a Ierusalimului a venit ulterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "numele Meu,",
+       "w": "numele Meu,",
+       "heb": "שְׁמִי",
+       "translit": "șemi",
+       "strong": "H8034",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "numele meu (șemi)",
+       "dict_ro": "Promisiunea citată amintește că DOMNUL nu a ales inițial niciun oraș pentru Templu — alegerea lui David și a Ierusalimului a venit ulterior."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și l-am ales pe",
+       "w": "și l-am ales pe",
+       "heb": "וָאֶבְחַר",
+       "translit": "vaevhar",
+       "strong": "H977",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și am ales (vaevhar)",
+       "dict_ro": "Alegerea lui David drept conducător peste Israel precede alegerea unei Case — persoana vine înaintea locului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "David",
+       "w": "David",
+       "heb": "בְּדָוִד",
+       "translit": "bedavid",
+       "strong": "H1732",
+       "pos": "nume propriu",
+       "def_ro": "David (bedavid)",
+       "dict_ro": "Alegerea lui David drept conducător peste Israel precede alegerea unei Case — persoana vine înaintea locului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să fie peste",
+       "w": "să fie peste",
+       "heb": "לִהְיוֹת עַל",
+       "translit": "lihiot al",
+       "strong": "H5921",
+       "pos": "verb, qal infinitiv + prepoziție",
+       "def_ro": "să fie peste (lihiot al)",
+       "dict_ro": "Alegerea lui David drept conducător peste Israel precede alegerea unei Case — persoana vine înaintea locului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "poporul Meu",
+       "w": "poporul Meu",
+       "heb": "עַמִּי",
+       "translit": "ami",
+       "strong": "H5971",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "poporul meu (ami)",
+       "dict_ro": "Alegerea lui David drept conducător peste Israel precede alegerea unei Case — persoana vine înaintea locului."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel.»",
+       "w": "Israel.»",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "Israel.» (israēl)",
+       "dict_ro": "Alegerea lui David drept conducător peste Israel precede alegerea unei Case — persoana vine înaintea locului."
       }
      ],
      "textCompare": [
@@ -111093,17 +113236,131 @@
      "translit": "Vayehi im-levav David avi livnot bayit leșem ADONAI Elohei Israël.",
      "tokens": [
       {
-       "t": "Și a fost dorința inimii tatălui meu David să construiască o Casă pentru numele DOMNULUI, Dumnezeul lui Israel",
-       "w": "Și a fost dorința inimii tatălui meu David să construiască o Casă pentru numele DOMNULUI, Dumnezeul lui Israel",
-       "heb": "וַיְהִי עִם לְבַב דָּוִד אָבִי לִבְנוֹת בַּיִת לְשֵׁם יְהוָה אֱלֹהֵי יִשְׂרָאֵל",
-       "translit": "vaihi im levav david avi livnot bait leșēm Adonai elohē israēl",
+       "t": "Și a fost",
+       "w": "Și a fost",
+       "heb": "וַיְהִי",
+       "translit": "vaihi",
        "strong": "H1961",
-       "pos": "verb, qal imperfect consecutiv + prepoziție + substantiv construct + nume propriu + substantiv construct + sufix + verb, qal infinitiv + substantiv + substantiv construct + nume propriu + substantiv construct + nume propriu",
-       "def_ro": "și a fost [aceasta] cu inima lui David, tatăl meu: să zidească o casă pentru numele DOMNULUI, Dumnezeul lui Israel.",
-       "dict_ro": "Dorința inimii lui David devine motivul inițial al întregii narațiuni a Templului, chiar dacă împlinirea ei efectivă e lăsată fiului său — intenția sinceră e recunoscută ca merit propriu, distinct de execuția faptei."
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a fost (vaihi)",
+       "dict_ro": "Dorința construcției Templului a aparținut întâi inimii lui David, nu lui Solomon — fiul doar o duce la îndeplinire."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "dorința inimii",
+       "w": "dorința inimii",
+       "heb": "עִם לְבַב",
+       "translit": "im levav",
+       "strong": "H3824",
+       "pos": "prepoziție + substantiv, masculin singular construct",
+       "def_ro": "cu inima (im levav)",
+       "dict_ro": "Dorința construcției Templului a aparținut întâi inimii lui David, nu lui Solomon — fiul doar o duce la îndeplinire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "tatălui meu",
+       "w": "tatălui meu",
+       "heb": "אָבִי",
+       "translit": "avi",
+       "strong": "H1",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "tatălui meu (avi)",
+       "dict_ro": "Dorința construcției Templului a aparținut întâi inimii lui David, nu lui Solomon — fiul doar o duce la îndeplinire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "David",
+       "w": "David",
+       "heb": "דָּוִד",
+       "translit": "david",
+       "strong": "H1732",
+       "pos": "nume propriu",
+       "def_ro": "David (david)",
+       "dict_ro": "Dorința construcției Templului a aparținut întâi inimii lui David, nu lui Solomon — fiul doar o duce la îndeplinire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să construiască",
+       "w": "să construiască",
+       "heb": "לִבְנוֹת",
+       "translit": "livnot",
+       "strong": "H1129",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "să construiască (livnot)",
+       "dict_ro": "Dorința construcției Templului a aparținut întâi inimii lui David, nu lui Solomon — fiul doar o duce la îndeplinire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "o Casă",
+       "w": "o Casă",
+       "heb": "בַּיִת",
+       "translit": "bait",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "o casă (bait)",
+       "dict_ro": "Dorința construcției Templului a aparținut întâi inimii lui David, nu lui Solomon — fiul doar o duce la îndeplinire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru numele",
+       "w": "pentru numele",
+       "heb": "לְשֵׁם",
+       "translit": "leșēm",
+       "strong": "H8034",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "pentru numele (leșēm)",
+       "dict_ro": "Dorința construcției Templului a aparținut întâi inimii lui David, nu lui Solomon — fiul doar o duce la îndeplinire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Dorința construcției Templului a aparținut întâi inimii lui David, nu lui Solomon — fiul doar o duce la îndeplinire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Dumnezeul lui",
+       "w": "Dumnezeul lui",
+       "heb": "אֱלֹהֵי",
+       "translit": "elohē",
+       "strong": "H430",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "Dumnezeul (elohē)",
+       "dict_ro": "Dorința construcției Templului a aparținut întâi inimii lui David, nu lui Solomon — fiul doar o duce la îndeplinire."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel.",
+       "w": "Israel.",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "Israel. (israēl)",
+       "dict_ro": "Dorința construcției Templului a aparținut întâi inimii lui David, nu lui Solomon — fiul doar o duce la îndeplinire."
       }
      ],
      "textCompare": [
@@ -111136,17 +113393,157 @@
      "translit": "Vayomer ADONAI el-David avi yaan așer haya im-levavcha livnot bayit lișmi hetivota ki haya im-levavecha.",
      "tokens": [
       {
-       "t": "DOMNUL i-a spus tatălui meu, David: «Dorința pe care ai avut-o în inima ta să construiești o Casă pentru numele Meu – ai făcut bine să o ai în inima ta",
-       "w": "DOMNUL i-a spus tatălui meu, David: «Dorința pe care ai avut-o în inima ta să construiești o Casă pentru numele Meu – ai făcut bine să o ai în inima ta",
-       "heb": "וַיֹּאמֶר יְהוָה אֶל דָּוִד אָבִי יַעַן אֲשֶׁר הָיָה עִם לְבָבְךָ לִבְנוֹת בַּיִת לִשְׁמִי הֱטִיבֹתָ כִּי הָיָה עִם לְבָבֶךָ",
-       "translit": "vaiomer Adonai el david avi iaan așer haia im levavha livnot bait lișmi hetivota ki haia im levaveha",
-       "strong": "H559",
-       "pos": "verb, qal imperfect consecutiv + nume propriu + prepoziție + nume propriu + substantiv construct + sufix + conjuncție + particulă relativă + verb, qal perfect + prepoziție + substantiv construct + sufix + verb, qal infinitiv + substantiv + prepoziție + sufix + verb, hifil perfect + conjuncție + verb, qal perfect + prepoziție + substantiv construct + sufix",
-       "def_ro": "și a spus DOMNUL lui David, tatăl meu: pentru că a fost în inima ta să zidești o casă pentru numele Meu, ai făcut bine că a fost în inima ta.",
-       "dict_ro": "Metzudat David explică promisiunea ca fiind recunoașterea onestă a unei intenții bune, chiar dacă neîmplinite direct de cel care a avut-o — DOMNUL apreciază gândul curat al lui David independent de faptul că fiul său va fi cel care zidește efectiv."
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "Răspunsul DOMNULUI către David laudă dorința inimii lui, dar o redirecționează spre fiul lui — nu interzice, ci posponează."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "i-a spus",
+       "w": "i-a spus",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și a spus (vaiomer)",
+       "dict_ro": "Răspunsul DOMNULUI către David laudă dorința inimii lui, dar o redirecționează spre fiul lui — nu interzice, ci posponează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "tatălui meu,",
+       "w": "tatălui meu,",
+       "heb": "אָבִי",
+       "translit": "avi",
+       "strong": "H1",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "tatălui meu, (avi)",
+       "dict_ro": "Răspunsul DOMNULUI către David laudă dorința inimii lui, dar o redirecționează spre fiul lui — nu interzice, ci posponează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "David:",
+       "w": "David:",
+       "heb": "דָּוִד",
+       "translit": "david",
+       "strong": "H1732",
+       "pos": "nume propriu",
+       "def_ro": "David: (david)",
+       "dict_ro": "Răspunsul DOMNULUI către David laudă dorința inimii lui, dar o redirecționează spre fiul lui — nu interzice, ci posponează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "«Dorința pe care ai avut-o",
+       "w": "«Dorința pe care ai avut-o",
+       "heb": "אֲשֶׁר הָיָה",
+       "translit": "așer haia",
+       "strong": "H1961",
+       "pos": "particulă relativă + verb, qal perfect",
+       "def_ro": "pentru că a fost (iaan așer haia)",
+       "dict_ro": "Răspunsul DOMNULUI către David laudă dorința inimii lui, dar o redirecționează spre fiul lui — nu interzice, ci posponează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în inima ta",
+       "w": "în inima ta",
+       "heb": "עִם לְבָבְךָ",
+       "translit": "im levavha",
+       "strong": "H3824",
+       "pos": "prepoziție + substantiv, masculin singular construct + sufix",
+       "def_ro": "cu inima ta (im levavha)",
+       "dict_ro": "Răspunsul DOMNULUI către David laudă dorința inimii lui, dar o redirecționează spre fiul lui — nu interzice, ci posponează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să construiești",
+       "w": "să construiești",
+       "heb": "לִבְנוֹת",
+       "translit": "livnot",
+       "strong": "H1129",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "să construiești (livnot)",
+       "dict_ro": "Răspunsul DOMNULUI către David laudă dorința inimii lui, dar o redirecționează spre fiul lui — nu interzice, ci posponează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "o Casă",
+       "w": "o Casă",
+       "heb": "בַּיִת",
+       "translit": "bait",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "o casă (bait)",
+       "dict_ro": "Răspunsul DOMNULUI către David laudă dorința inimii lui, dar o redirecționează spre fiul lui — nu interzice, ci posponează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru numele Meu",
+       "w": "pentru numele Meu",
+       "heb": "לִשְׁמִי",
+       "translit": "lișmi",
+       "strong": "H8034",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "pentru numele meu (lișmi)",
+       "dict_ro": "Răspunsul DOMNULUI către David laudă dorința inimii lui, dar o redirecționează spre fiul lui — nu interzice, ci posponează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "– ai făcut bine",
+       "w": "– ai făcut bine",
+       "heb": "הֱטִיבֹתָ",
+       "translit": "hetivota",
+       "strong": "H2895",
+       "pos": "verb, hifil perfect",
+       "def_ro": "ai făcut bine (hetivota)",
+       "dict_ro": "Răspunsul DOMNULUI către David laudă dorința inimii lui, dar o redirecționează spre fiul lui — nu interzice, ci posponează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "să o ai",
+       "w": "să o ai",
+       "heb": "כִּי הָיָה",
+       "translit": "ki haia",
+       "strong": "H1961",
+       "pos": "conjuncție + verb, qal perfect",
+       "def_ro": "că a fost (ki haia)",
+       "dict_ro": "Răspunsul DOMNULUI către David laudă dorința inimii lui, dar o redirecționează spre fiul lui — nu interzice, ci posponează."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în inima ta.",
+       "w": "în inima ta.",
+       "heb": "עִם לְבָבֶךָ",
+       "translit": "im levaveha",
+       "strong": "H3824",
+       "pos": "prepoziție + substantiv, masculin singular construct + sufix",
+       "def_ro": "cu inima ta. (im levaveha)",
+       "dict_ro": "Răspunsul DOMNULUI către David laudă dorința inimii lui, dar o redirecționează spre fiul lui — nu interzice, ci posponează."
       }
      ],
      "textCompare": [
@@ -111177,14 +113574,144 @@
      "translit": "Rak ata lo tivne habayit ki im-bincha hayotze mehalatzecha hu-yivne habayit lișmi.",
      "tokens": [
       {
-       "t": "Însă nu tu vei construi Casa, ci fiul tău care va ieși dintre coapsele tale, el va construi Casa pentru numele Meu.»",
-       "w": "Însă nu tu vei construi Casa, ci fiul tău care va ieși dintre coapsele tale, el va construi Casa pentru numele Meu.»",
-       "heb": "רַק אַתָּה לֹא תִבְנֶה הַבָּיִת כִּי אִם בִּנְךָ הַיֹּצֵא מֵחֲלָצֶיךָ הוּא יִבְנֶה הַבַּיִת לִשְׁמִי",
-       "translit": "rak ata lo tivne habait ki im binha haioțē mēhalațeha hu ivne habait lișmi",
+       "t": "Însă",
+       "w": "Însă",
+       "heb": "רַק",
+       "translit": "rak",
        "strong": "H7535",
-       "pos": "particulă afirmativă + pronume personal + particulă negativă + verb, qal imperfect + substantiv + conjuncție + conjuncție + substantiv construct + sufix + verb, qal participiu + substantiv construct + sufix + pronume personal + verb, qal imperfect + substantiv + substantiv construct + sufix",
-       "def_ro": "însă tu nu vei zidi Casa, ci fiul tău care va ieși din coapsele tale, el va zidi Casa pentru numele Meu.",
-       "dict_ro": "Metzudat Țion explică «dintre coapsele tale» (mēhalațeha) ca un eufemism pentru mădularul nașterii, desemnând descendența directă — limitarea exclude pe David de la împlinirea directă a propriei dorințe, transferând promisiunea exact fiului care avea să fie Solomon."
+       "pos": "particulă afirmativă",
+       "def_ro": "doar (rak)",
+       "dict_ro": "Nu David, ci «fiul care va ieși din coapsele tale» va construi Casa — profeție care se împlinește explicit prin Solomon de față."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "nu tu",
+       "w": "nu tu",
+       "heb": "אַתָּה לֹא",
+       "translit": "ata lo",
+       "strong": "H3808",
+       "pos": "pronume personal + particulă negativă",
+       "def_ro": "nu tu (ata lo)",
+       "dict_ro": "Nu David, ci «fiul care va ieși din coapsele tale» va construi Casa — profeție care se împlinește explicit prin Solomon de față."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "vei construi",
+       "w": "vei construi",
+       "heb": "תִבְנֶה",
+       "translit": "tivne",
+       "strong": "H1129",
+       "pos": "verb, qal imperfect",
+       "def_ro": "vei construi (tivne)",
+       "dict_ro": "Nu David, ci «fiul care va ieși din coapsele tale» va construi Casa — profeție care se împlinește explicit prin Solomon de față."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Casa,",
+       "w": "Casa,",
+       "heb": "הַבָּיִת",
+       "translit": "habait",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "casa, (habait)",
+       "dict_ro": "Nu David, ci «fiul care va ieși din coapsele tale» va construi Casa — profeție care se împlinește explicit prin Solomon de față."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "ci fiul tău",
+       "w": "ci fiul tău",
+       "heb": "אִם בִּנְךָ",
+       "translit": "im binha",
+       "strong": "H1121",
+       "pos": "conjuncție + substantiv, masculin singular construct + sufix",
+       "def_ro": "căci dacă fiul tău (ki im binha)",
+       "dict_ro": "Nu David, ci «fiul care va ieși din coapsele tale» va construi Casa — profeție care se împlinește explicit prin Solomon de față."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "care va ieși",
+       "w": "care va ieși",
+       "heb": "הַיֹּצֵא",
+       "translit": "haioțē",
+       "strong": "H3318",
+       "pos": "verb, qal participiu",
+       "def_ro": "care va ieși (haioțē)",
+       "dict_ro": "Nu David, ci «fiul care va ieși din coapsele tale» va construi Casa — profeție care se împlinește explicit prin Solomon de față."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "dintre coapsele tale,",
+       "w": "dintre coapsele tale,",
+       "heb": "מֵחֲלָצֶיךָ",
+       "translit": "mēhalațeha",
+       "strong": "H2504",
+       "pos": "substantiv, masculin și feminin dual construct + sufix",
+       "def_ro": "din coapsele tale, (mēhalațeha)",
+       "dict_ro": "Nu David, ci «fiul care va ieși din coapsele tale» va construi Casa — profeție care se împlinește explicit prin Solomon de față."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "el",
+       "w": "el",
+       "heb": "הוּא",
+       "translit": "hu",
+       "strong": "H1931",
+       "pos": "pronume personal",
+       "def_ro": "el (hu)",
+       "dict_ro": "Nu David, ci «fiul care va ieși din coapsele tale» va construi Casa — profeție care se împlinește explicit prin Solomon de față."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "va construi",
+       "w": "va construi",
+       "heb": "יִבְנֶה",
+       "translit": "ivne",
+       "strong": "H1129",
+       "pos": "verb, qal imperfect",
+       "def_ro": "va construi (ivne)",
+       "dict_ro": "Nu David, ci «fiul care va ieși din coapsele tale» va construi Casa — profeție care se împlinește explicit prin Solomon de față."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Casa",
+       "w": "Casa",
+       "heb": "הַבַּיִת",
+       "translit": "habait",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "casa (habait)",
+       "dict_ro": "Nu David, ci «fiul care va ieși din coapsele tale» va construi Casa — profeție care se împlinește explicit prin Solomon de față."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru numele Meu.»",
+       "w": "pentru numele Meu.»",
+       "heb": "לִשְׁמִי",
+       "translit": "lișmi",
+       "strong": "H8034",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "pentru numele meu.» (lișmi)",
+       "dict_ro": "Nu David, ci «fiul care va ieși din coapsele tale» va construi Casa — profeție care se împlinește explicit prin Solomon de față."
       }
      ],
      "textCompare": [
@@ -111227,30 +113754,248 @@
      "translit": "Vayakem ADONAI et-devaro așer diber vaakum tahat David avi vaeșev al-kise Israël kaașer diber ADONAI vaevne habayit leșem ADONAI Elohei Israël.",
      "tokens": [
       {
-       "t": "DOMNUL Și-a împlinit cuvântul pe care l-a rostit și eu m-am ridicat în locul tatălui meu David și am stat pe tronul lui Israel",
-       "w": "DOMNUL Și-a împlinit cuvântul pe care l-a rostit și eu m-am ridicat în locul tatălui meu David și am stat pe tronul lui Israel",
-       "heb": "וַיָּקֶם יְהוָה אֶת דְּבָרוֹ אֲשֶׁר דִּבֵּר וָאָקֻם תַּחַת דָּוִד אָבִי וָאֵשֵׁב עַל כִּסֵּא יִשְׂרָאֵל",
-       "translit": "vaiakem Adonai et devaro așer dibēr vaakum tahat david avi vaēșēv al kisē israēl",
+       "t": "DOMNUL",
+       "w": "DOMNUL",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL (Adonai)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Și-a împlinit",
+       "w": "Și-a împlinit",
+       "heb": "וַיָּקֶם",
+       "translit": "vaiakem",
        "strong": "H6965",
-       "pos": "verb, hifil imperfect consecutiv + nume propriu + marcă a complementului direct + substantiv construct + sufix + particulă relativă + verb, piel perfect + verb, qal imperfect consecutiv + prepoziție + nume propriu + substantiv construct + sufix + verb, qal imperfect consecutiv + prepoziție + substantiv construct + nume propriu",
-       "def_ro": "și a împlinit DOMNUL cuvântul Lui pe care l-a vorbit; și m-am ridicat în locul lui David, tatăl meu, și am șezut pe tronul lui Israel.",
-       "dict_ro": "Solomon confirmă public, în fața întregii adunări, împlinirea exactă a promisiunii divine făcute tatălui său — succesiunea sa la tron e explicit legată de fidelitatea cuvântului divin, nu doar de dreptul dinastic."
+       "pos": "verb, hifil imperfect consecutiv",
+       "def_ro": "și a ridicat (vaiakem)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
-       "t": "precum a vorbit DOMNUL, și am construit [azi] Casa pentru numele DOMNULUI, Dumnezeul lui Israel",
-       "w": "precum a vorbit DOMNUL, și am construit [azi] Casa pentru numele DOMNULUI, Dumnezeul lui Israel",
-       "heb": "כַּאֲשֶׁר דִּבֶּר יְהוָה וָאֶבְנֶה הַבַּיִת לְשֵׁם יְהוָה אֱלֹהֵי יִשְׂרָאֵל",
-       "translit": "kaașer diber Adonai vaevne habait leșēm Adonai elohē israēl",
-       "strong": "H834",
-       "pos": "particulă relativă + verb, piel perfect + nume propriu + verb, qal imperfect consecutiv + substantiv + substantiv construct + nume propriu + substantiv construct + nume propriu",
-       "def_ro": "precum a vorbit DOMNUL, și am zidit Casa pentru numele DOMNULUI, Dumnezeul lui Israel.",
-       "dict_ro": "Construirea efectivă a Casei încheie, în fapt, întregul șir de promisiuni rostite către David — scopul final rămâne, ca și la început, slava numelui DOMNULUI."
+       "t": "cuvântul",
+       "w": "cuvântul",
+       "heb": "דְּבָרוֹ",
+       "translit": "devaro",
+       "strong": "H1697",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "cuvântul lui (devaro)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
       },
       {
-       "t": "."
+       "t": " "
+      },
+      {
+       "t": "pe care l-a rostit",
+       "w": "pe care l-a rostit",
+       "heb": "אֲשֶׁר דִּבֵּר",
+       "translit": "așer dibēr",
+       "strong": "H1696",
+       "pos": "particulă relativă + verb, piel perfect",
+       "def_ro": "pe care a vorbit (așer dibēr)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și eu m-am ridicat",
+       "w": "și eu m-am ridicat",
+       "heb": "וָאָקֻם",
+       "translit": "vaakum",
+       "strong": "H6965",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și m-am ridicat (vaakum)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "în locul",
+       "w": "în locul",
+       "heb": "תַּחַת",
+       "translit": "tahat",
+       "strong": "H8478",
+       "pos": "prepoziție",
+       "def_ro": "în locul (tahat)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "tatălui meu",
+       "w": "tatălui meu",
+       "heb": "אָבִי",
+       "translit": "avi",
+       "strong": "H1",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "tatălui meu (avi)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "David",
+       "w": "David",
+       "heb": "דָּוִד",
+       "translit": "david",
+       "strong": "H1732",
+       "pos": "nume propriu",
+       "def_ro": "David (david)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și am stat",
+       "w": "și am stat",
+       "heb": "וָאֵשֵׁב",
+       "translit": "vaēșēv",
+       "strong": "H3427",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și am șezut (vaēșēv)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe tronul",
+       "w": "pe tronul",
+       "heb": "כִּסֵּא",
+       "translit": "kisē",
+       "strong": "H3678",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "pe tronul (kisē)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "lui Israel,",
+       "w": "lui Israel,",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "lui Israel, (israēl)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "precum a vorbit",
+       "w": "precum a vorbit",
+       "heb": "כַּאֲשֶׁר דִּבֶּר",
+       "translit": "kaașer diber",
+       "strong": "H1696",
+       "pos": "particulă relativă + verb, piel perfect",
+       "def_ro": "cum a vorbit (kaașer diber)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNUL,",
+       "w": "DOMNUL,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNUL, (Adonai)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "și am construit",
+       "w": "și am construit",
+       "heb": "וָאֶבְנֶה",
+       "translit": "vaevne",
+       "strong": "H1129",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "și am construit (vaevne)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "[azi] Casa",
+       "w": "[azi] Casa",
+       "heb": "הַבַּיִת",
+       "translit": "habait",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "casa (habait)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru numele",
+       "w": "pentru numele",
+       "heb": "לְשֵׁם",
+       "translit": "leșēm",
+       "strong": "H8034",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "pentru numele (leșēm)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
+       "strong": "H3068",
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Dumnezeul lui",
+       "w": "Dumnezeul lui",
+       "heb": "אֱלֹהֵי",
+       "translit": "elohē",
+       "strong": "H430",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "Dumnezeul (elohē)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israel.",
+       "w": "Israel.",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "Israel. (israēl)",
+       "dict_ro": "Solomon declară explicit împlinirea profeției: el stă pe tron și construiește Casa exact cum DOMNUL a vorbit lui David."
       }
      ],
      "textCompare": [
@@ -111285,14 +114030,53 @@
      "translit": "Vaasim șam makom laaron așer-șam berit ADONAI așer karat im-avoteinu behotzio otam meereț Mițraim.",
      "tokens": [
       {
-       "t": "Și acolo am făcut un loc pentru Chivot, unde se află",
-       "w": "Și acolo am făcut un loc pentru Chivot, unde se află",
-       "heb": "וָאָשִׂם שָׁם מָקוֹם לָאָרוֹן אֲשֶׁר שָׁם",
-       "translit": "vaasim șam makom laaron așer șam",
-       "strong": "H7760",
-       "pos": "verb, qal imperfect consecutiv + adverb + substantiv + substantiv + particulă relativă + adverb",
-       "def_ro": "și am pus acolo un loc pentru Chivot, unde acolo.",
-       "dict_ro": "Radak identifică acest «loc» cu Locul Preasfânt — destinația finală, pregătită special, a Chivotului adus din cetatea lui David."
+       "t": "Și acolo am făcut",
+       "w": "Și acolo am făcut",
+       "heb": "וָאָשִׂם שָׁם",
+       "translit": "vaasim șam",
+       "strong": "H8033",
+       "pos": "verb, qal imperfect consecutiv + adverb",
+       "def_ro": "și am pus acolo (vaasim șam)",
+       "dict_ro": "Închiderea discursului confirmă scopul final al Templului: un loc permanent pentru Chivotul legământului, memorialul ieșirii din Egipt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "un loc",
+       "w": "un loc",
+       "heb": "מָקוֹם",
+       "translit": "makom",
+       "strong": "H4725",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "un loc (makom)",
+       "dict_ro": "Închiderea discursului confirmă scopul final al Templului: un loc permanent pentru Chivotul legământului, memorialul ieșirii din Egipt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pentru Chivot,",
+       "w": "pentru Chivot,",
+       "heb": "לָאָרוֹן",
+       "translit": "laaron",
+       "strong": "H727",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "pentru chivot, (laaron)",
+       "dict_ro": "Închiderea discursului confirmă scopul final al Templului: un loc permanent pentru Chivotul legământului, memorialul ieșirii din Egipt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "unde se află",
+       "w": "unde se află",
+       "heb": "אֲשֶׁר שָׁם",
+       "translit": "așer șam",
+       "strong": "H8033",
+       "pos": "particulă relativă + adverb",
+       "def_ro": "unde acolo este (așer șam)",
+       "dict_ro": "Închiderea discursului confirmă scopul final al Templului: un loc permanent pentru Chivotul legământului, memorialul ieșirii din Egipt."
       },
       {
        "t": " "
@@ -111304,23 +114088,88 @@
        "translit": "berit",
        "strong": "H1285",
        "pos": "substantiv, feminin singular construct",
-       "def_ro": "legământul.",
+       "def_ro": "legământul (berit)",
+       "dict_ro": "Închiderea discursului confirmă scopul final al Templului: un loc permanent pentru Chivotul legământului, memorialul ieșirii din Egipt.",
        "greek": "διαθήκη (diatheke)",
-       "greek_def_ro": "διαθήκη (diatheke) — legământ.",
-       "dict_ro": "Berit — discursul lui Solomon se încheie exact unde a început, la Sinai/Horeb (v.9), închizând un cerc retoric: Templul nu e un monument nou, autonom, ci vasul construit ca să adăpostească un legământ vechi, deja existent, încheiat cu generația Exodului — Solomon își încadrează astfel întreaga domnie, și Templul însuși, ca o continuare fidelă, nu o inovație, a legământului sinaitic."
+       "greek_def_ro": "διαθήκη (diatheke) — legământ."
       },
       {
        "t": " "
       },
       {
-       "t": "DOMNULUI, pe care l-a pecetluit cu strămoșii noștri, când i-a scos din țara Egiptului.”",
-       "w": "DOMNULUI, pe care l-a pecetluit cu strămoșii noștri, când i-a scos din țara Egiptului.”",
-       "heb": "יְהוָה אֲשֶׁר כָּרַת עִם אֲבֹתֵינוּ בְּהוֹצִיאוֹ אֹתָם מֵאֶרֶץ מִצְרָיִם",
-       "translit": "Adonai așer karat im avotēnu behoțio otam mēereț mițraim",
+       "t": "DOMNULUI,",
+       "w": "DOMNULUI,",
+       "heb": "יְהוָה",
+       "translit": "Adonai",
        "strong": "H3068",
-       "pos": "nume propriu + particulă relativă + verb, qal perfect + prepoziție + substantiv plural construct + sufix + verb, hifil infinitiv + sufix + marcă a complementului direct + sufix + substantiv construct + nume propriu",
-       "def_ro": "DOMNUL, pe care l-a încheiat cu strămoșii noștri, la scoaterea lor din țara Egiptului.",
-       "dict_ro": "Metzudat David identifică «legământul DOMNULUI» cu tablele legământului înseși, prin care DOMNUL a încheiat legământ cu Israel exact în vremea când li le-a dat la Horeb — discursul lui Solomon se încheie cu aceeași referință istorică fondatoare cu care a început."
+       "pos": "nume propriu",
+       "def_ro": "DOMNULUI, (Adonai)",
+       "dict_ro": "Închiderea discursului confirmă scopul final al Templului: un loc permanent pentru Chivotul legământului, memorialul ieșirii din Egipt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "pe care l-a pecetluit",
+       "w": "pe care l-a pecetluit",
+       "heb": "אֲשֶׁר כָּרַת",
+       "translit": "așer karat",
+       "strong": "H3772",
+       "pos": "particulă relativă + verb, qal perfect",
+       "def_ro": "pe care l-a încheiat (așer karat)",
+       "dict_ro": "Închiderea discursului confirmă scopul final al Templului: un loc permanent pentru Chivotul legământului, memorialul ieșirii din Egipt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "cu strămoșii noștri,",
+       "w": "cu strămoșii noștri,",
+       "heb": "עִם אֲבֹתֵינוּ",
+       "translit": "im avotēnu",
+       "strong": "H1",
+       "pos": "prepoziție + substantiv, masculin plural construct + sufix",
+       "def_ro": "cu părinții noștri, (im avotēnu)",
+       "dict_ro": "Închiderea discursului confirmă scopul final al Templului: un loc permanent pentru Chivotul legământului, memorialul ieșirii din Egipt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "când i-a scos",
+       "w": "când i-a scos",
+       "heb": "בְּהוֹצִיאוֹ אֹתָם",
+       "translit": "behoțio otam",
+       "strong": "H853",
+       "pos": "verb, hifil infinitiv + sufix + marcă a complementului direct + sufix",
+       "def_ro": "la scoaterea lor (behoțio otam)",
+       "dict_ro": "Închiderea discursului confirmă scopul final al Templului: un loc permanent pentru Chivotul legământului, memorialul ieșirii din Egipt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "din țara",
+       "w": "din țara",
+       "heb": "מֵאֶרֶץ",
+       "translit": "mēereț",
+       "strong": "H776",
+       "pos": "substantiv, masculin și feminin singular construct",
+       "def_ro": "din țara (mēereț)",
+       "dict_ro": "Închiderea discursului confirmă scopul final al Templului: un loc permanent pentru Chivotul legământului, memorialul ieșirii din Egipt."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Egiptului.”",
+       "w": "Egiptului.”",
+       "heb": "מִצְרָיִם",
+       "translit": "mițraim",
+       "strong": "H4714",
+       "pos": "nume propriu",
+       "def_ro": "Egiptului.” (mițraim)",
+       "dict_ro": "Închiderea discursului confirmă scopul final al Templului: un loc permanent pentru Chivotul legământului, memorialul ieșirii din Egipt."
       }
      ],
      "textCompare": [
