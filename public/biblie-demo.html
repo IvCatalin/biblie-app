@@ -5175,7 +5175,8 @@ function showWordPopover(tok, anchorEl){
   }
   // "Definiție greacă" nu mai e secțiune separată — fraza completă se adună,
   // împreună cu diff_ro (dacă există), sub "Diferență ebraică / greacă".
-  if(tok.greek_def_ro || tok.diff_ro){
+  // Blocul apare doar când există o diferență reală (diff_ro); altfel ar repeta exact linia LXX de mai sus.
+  if(tok.diff_ro){
     extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Diferență ebraică / greacă</span>` +
       (tok.greek_def_ro ? `${tok.greek_def_ro} ` : "") + (tok.diff_ro || "") + `</div>`;
   }
