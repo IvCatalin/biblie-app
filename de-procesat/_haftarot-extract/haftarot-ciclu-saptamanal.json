@@ -48712,8 +48712,10 @@
        "translit": "șelomo",
        "strong": "H8010",
        "pos": "nume propriu",
-       "def_ro": "Solomon (șelomo)",
-       "dict_ro": "Solomon se trezește din visul profetic de la Ghivon, în care Dumnezeu i-a oferit înțelepciune în locul bogăției sau al vieții lungi."
+       "def_ro": "Solomon",
+       "dict_ro": "Șelomo, Solomon, vine din șalom, „pace”: fiul lui David și al Batșebei. Hotărârea lui la Ghibeon, la începutul domniei, este cererea de înțelepciune, apoi ea este pusă la încercare în judecata celor două mame.",
+       "greek": "Σαλωμών (Salomon)",
+       "greek_def_ro": "Σαλωμών (Salomon) — Solomon"
       },
       {
        "t": " "
@@ -48725,43 +48727,28 @@
        "translit": "vaikaț",
        "strong": "H3364",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și s-a trezit (vaikaț)",
-       "dict_ro": "Solomon se trezește din visul profetic de la Ghivon, în care Dumnezeu i-a oferit înțelepciune.",
-       "greek": "ἐξυπνίσθη Σαλωμών, καὶ ἰδοὺ ἐνύπνιον (exypnisthe Salomon, kai idou enypnion)",
-       "greek_def_ro": "ἐξυπνίσθη Σαλωμών, καὶ ἰδοὺ ἐνύπνιον (exypnisthe Salomon, kai idou enypnion) — s-a trezit și iată un vis."
+       "def_ro": "s-a deșteptat",
+       "dict_ro": "Iaqaț înseamnă „a se trezi”: „Iacov s-a trezit din somn” (Geneza 28:16). Solomon se trezește și înțelege că a fost un vis, dar un vis în care a primit un dar real: înțelepciunea (3:5-14).",
+       "greek": "ἐξυπνίζω (exypnizo)",
+       "greek_def_ro": "ἐξυπνίζω (exypnizo) — a se trezi"
       },
       {
-       "t": " "
+       "t": " și iată, fusese un "
       },
       {
-       "t": "și iată,",
-       "w": "și iată,",
-       "heb": "וְהִנֵּה",
-       "translit": "vehinē",
-       "strong": "H2009",
-       "pos": "particulă demonstrativă",
-       "def_ro": "și iată (vehinē)",
-       "dict_ro": "Formula «și iată» marchează revelația visului ca eveniment real, nu doar o reflecție întâmplătoare.",
-       "greek": "ἐξυπνίσθη Σαλωμών, καὶ ἰδοὺ ἐνύπνιον (exypnisthe Salomon, kai idou enypnion)",
-       "greek_def_ro": "ἐξυπνίσθη Σαλωμών, καὶ ἰδοὺ ἐνύπνιον (exypnisthe Salomon, kai idou enypnion) — s-a trezit și iată un vis."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "fusese un vis!",
-       "w": "fusese un vis!",
+       "t": "vis",
+       "w": "vis",
        "heb": "חֲלוֹם",
        "translit": "halom",
        "strong": "H2472",
        "pos": "substantiv, masculin singular",
-       "def_ro": "vis (halom)",
-       "dict_ro": "Formula «și iată» marchează revelația visului ca eveniment real, nu doar o reflecție întâmplătoare.",
-       "greek": "ἐξυπνίσθη Σαλωμών, καὶ ἰδοὺ ἐνύπνιον (exypnisthe Salomon, kai idou enypnion)",
-       "greek_def_ro": "ἐξυπνίσθη Σαλωμών, καὶ ἰδοὺ ἐνύπνιον (exypnisthe Salomon, kai idou enypnion) — s-a trezit și iată un vis."
+       "def_ro": "vis",
+       "dict_ro": "Halom înseamnă „vis”: Iosif „a visat un vis” (Geneza 37:5). Visul lui Solomon de la Ghibeon este o revelație adevărată, nu o amăgire: la trezire el aduce jertfe la Ierusalim.",
+       "greek": "ἐνύπνιον (enypnion)",
+       "greek_def_ro": "ἐνύπνιον (enypnion) — vis"
       },
       {
-       "t": " "
+       "t": "! "
       },
       {
        "t": "A venit",
@@ -48770,10 +48757,10 @@
        "translit": "vaiavo",
        "strong": "H935",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a venit (vaiavo)",
-       "dict_ro": "Revenirea la Ierusalim și jertfele aduse confirmă public recunoștința lui Solomon pentru darul înțelepciunii.",
-       "greek": "παραγίνεται εἰς Ἰερουσαλήμ, καὶ ἔστη κατὰ πρόσωπον... κιβωτοῦ διαθήκης Κυρίου (paraginetai eis Ierousalem, kai este kata prosopon... kibotou diathekes Kyriou)",
-       "greek_def_ro": "παραγίνεται εἰς Ἰερουσαλήμ, καὶ ἔστη κατὰ πρόσωπον... κιβωτοῦ διαθήκης Κυρίου (paraginetai eis Ierousalem, kai este kata prosopon... kibotou diathekes Kyriou) — a venit în Ierusalim și a stat înaintea chivotului legământului Domnului."
+       "def_ro": "a venit",
+       "dict_ro": "Bo e verbul venirii și al intrării; în profeți descrie adesea împlinirea: ceea ce a fost vestit „vine”, adică se întâmplă (Isaia 42:9). La forma cauzativă, hevi, înseamnă „a aduce” — cu un sens aparte în făgăduința strângerii exilaților (Isaia 43:5).",
+       "greek": "παραγίνομαι (paraginomai)",
+       "greek_def_ro": "παραγίνομαι (paraginomai) — a ajunge, a veni"
       },
       {
        "t": " în "
@@ -48785,53 +48772,41 @@
        "translit": "ierușalam",
        "strong": "H3389",
        "pos": "nume propriu",
-       "def_ro": "Ierusalim (ierușalam)",
-       "dict_ro": "Revenirea la Ierusalim și jertfele aduse confirmă public recunoștința lui Solomon pentru darul înțelepciunii.",
-       "greek": "παραγίνεται εἰς Ἰερουσαλήμ, καὶ ἔστη κατὰ πρόσωπον... κιβωτοῦ διαθήκης Κυρίου (paraginetai eis Ierousalem, kai este kata prosopon... kibotou diathekes Kyriou)",
-       "greek_def_ro": "παραγίνεται εἰς Ἰερουσαλήμ, καὶ ἔστη κατὰ πρόσωπον... κιβωτοῦ διαθήκης Κυρίου (paraginetai eis Ierousalem, kai este kata prosopon... kibotou diathekes Kyriou) — a venit în Ierusalim și a stat înaintea chivotului legământului Domnului."
+       "def_ro": "Ierusalim",
+       "dict_ro": "Ierușalaim, Ierusalimul, este orașul în care David a adus chivotul. Solomon se întoarce de la Ghibeon la Ierusalim, ca să mulțumească înaintea chivotului pentru darul primit.",
+       "greek": "Ἰερουσαλήμ (Ierousalem)",
+       "greek_def_ro": "Ἰερουσαλήμ (Ierousalem) — Ierusalim"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și a stat",
-       "w": "și a stat",
+       "t": "a stat",
+       "w": "a stat",
        "heb": "וַיַּעֲמֹד",
        "translit": "vaiaamod",
        "strong": "H5975",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a stat (vaiaamod)",
-       "dict_ro": "Poziția înaintea Chivotului arată că întreaga recunoștință e adresată direct prezenței divine, nu unui loc generic de cult.",
-       "greek": "παραγίνεται εἰς Ἰερουσαλήμ, καὶ ἔστη κατὰ πρόσωπον... κιβωτοῦ διαθήκης Κυρίου (paraginetai eis Ierousalem, kai este kata prosopon... kibotou diathekes Kyriou)",
-       "greek_def_ro": "παραγίνεται εἰς Ἰερουσαλήμ, καὶ ἔστη κατὰ πρόσωπον... κιβωτοῦ διαθήκης Κυρίου (paraginetai eis Ierousalem, kai este kata prosopon... kibotou diathekes Kyriou) — a venit în Ierusalim și a stat înaintea chivotului legământului Domnului."
+       "def_ro": "a stat",
+       "dict_ro": "Amad înseamnă „a sta”. „A sta înaintea” cuiva înseamnă a-i sluji sau a se înfățișa înaintea lui. Solomon stă înaintea chivotului; cele două femei stau înaintea regelui (3:16).",
+       "greek": "ἵστημι (histemi)",
+       "greek_def_ro": "ἵστημι (histemi) — a sta"
       },
       {
        "t": " "
       },
       {
-       "t": "înaintea",
-       "w": "înaintea",
-       "heb": "לִפְנֵי",
-       "translit": "lifnē",
+       "t": "înaintea Chivotului",
+       "w": "înaintea Chivotului",
+       "heb": "לִפְנֵי אֲרוֹן",
+       "translit": "lifnē aron",
        "strong": "H6440",
-       "pos": "substantiv, masculin și feminin plural construct",
-       "def_ro": "înaintea (lifnē)",
-       "dict_ro": "Poziția înaintea Chivotului arată că întreaga recunoștință e adresată direct prezenței divine."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "Chivotului",
-       "w": "Chivotului",
-       "heb": "אֲרוֹן",
-       "translit": "aron",
-       "strong": "H727",
-       "pos": "substantiv, masculin și feminin singular construct",
-       "def_ro": "chivotul (aron)",
-       "dict_ro": "Chivotul Legământului, adus la Ierusalim de David, rămâne centrul cultic unde Solomon își aduce prima jertfă de recunoștință.",
-       "greek": "παραγίνεται εἰς Ἰερουσαλήμ, καὶ ἔστη κατὰ πρόσωπον... κιβωτοῦ διαθήκης Κυρίου (paraginetai eis Ierousalem, kai este kata prosopon... kibotou diathekes Kyriou)",
-       "greek_def_ro": "παραγίνεται εἰς Ἰερουσαλήμ, καὶ ἔστη κατὰ πρόσωπον... κιβωτοῦ διαθήκης Κυρίου (paraginetai eis Ierousalem, kai este kata prosopon... kibotou diathekes Kyriou) — a venit în Ierusalim și a stat înaintea chivotului legământului Domnului."
+       "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin și feminin singular construct",
+       "def_ro": "înaintea chivotului",
+       "dict_ro": "„Lifnei aron” înseamnă „înaintea chivotului”. Chivotul legământului este tronul simbolic al lui DOMNUL; Solomon se înfățișează înaintea lui, ca un rege care își recunoaște Suveranul.",
+       "greek": "κιβωτός (kibotos)",
+       "greek_def_ro": "κιβωτός (kibotos) — chivot",
+       "diff_ro": "Ebraica: „înaintea chivotului legământului Stăpânului”; Septuaginta: „înaintea altarului, care era înaintea chivotului legământului Domnului în Sion” (κατὰ πρόσωπον τοῦ θυσιαστηρίου… ἐν Σειών)."
       },
       {
        "t": " "
@@ -48843,10 +48818,10 @@
        "translit": "berit",
        "strong": "H1285",
        "pos": "substantiv, feminin singular construct",
-       "def_ro": "legământului (berit)",
-       "dict_ro": "Chivotul Legământului, adus la Ierusalim de David, rămâne centrul cultic unde Solomon își aduce prima jertfă de recunoștință.",
-       "greek": "παραγίνεται εἰς Ἰερουσαλήμ, καὶ ἔστη κατὰ πρόσωπον... κιβωτοῦ διαθήκης Κυρίου (paraginetai eis Ierousalem, kai este kata prosopon... kibotou diathekes Kyriou)",
-       "greek_def_ro": "παραγίνεται εἰς Ἰερουσαλήμ, καὶ ἔστη κατὰ πρόσωπον... κιβωτοῦ διαθήκης Κυρίου (paraginetai eis Ierousalem, kai este kata prosopon... kibotou diathekes Kyriou) — a venit în Ierusalim și a stat înaintea chivotului legământului Domnului."
+       "def_ro": "legământului",
+       "dict_ro": "Berit e legământul, înțelegerea solemnă dintre două părți, încheiată la început prin tăierea animalelor de jertfă — de aici expresia „a tăia un legământ” (karat berit, Geneza 15:18). Legământul de la Sinai e temelia întregii legături dintre Dumnezeu și Israel; în Isaia 42:6, slujitorul însuși devine „legământ al poporului”.",
+       "greek": "διαθήκη (diatheke)",
+       "greek_def_ro": "διαθήκη (diatheke) — legământ"
       },
       {
        "t": " "
@@ -48858,23 +48833,25 @@
        "translit": "adonai",
        "strong": "H136",
        "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "Stăpânului (adonai)",
-       "dict_ro": "Titlul «Stăpânul» desemnează aici direct pe Dumnezeu, al cărui legământ e simbolizat prin Chivot.",
-       "greek": "παραγίνεται εἰς Ἰερουσαλήμ, καὶ ἔστη κατὰ πρόσωπον... κιβωτοῦ διαθήκης Κυρίου (paraginetai eis Ierousalem, kai este kata prosopon... kibotou diathekes Kyriou)",
-       "greek_def_ro": "παραγίνεται εἰς Ἰερουσαλήμ, καὶ ἔστη κατὰ πρόσωπον... κιβωτοῦ διαθήκης Κυρίου (paraginetai eis Ierousalem, kai este kata prosopon... kibotou diathekes Kyriou) — a venit în Ierusalim și a stat înaintea chivotului legământului Domnului."
+       "def_ro": "Domnului",
+       "dict_ro": "Adonai (cu vocale diferite de cele ale Numelui) înseamnă „Stăpânul”. „Chivotul legământului Stăpânului” numește chivotul în care sunt tablele Legii, semnul prezenței lui Dumnezeu.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn; DOMNUL"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și a adus",
-       "w": "și a adus",
+       "t": "a adus",
+       "w": "a adus",
        "heb": "וַיַּעַל",
        "translit": "vaiaal",
        "strong": "H5927",
        "pos": "verb, hifil imperfect consecutiv",
-       "def_ro": "și a adus (vaiaal)",
-       "dict_ro": "Arderile-de-tot și jertfele de pace, urmate de un ospăț, marchează sărbătorirea publică a darului primit de Solomon."
+       "def_ro": "a adus sus",
+       "dict_ro": "Alah, la forma cauzativă, înseamnă „a urca, a aduce sus”: se spune despre jertfa de ardere, pe care preotul o face să se urce pe altar. Solomon aduce arderi-de-tot în semn de recunoștință.",
+       "greek": "ἀνάγω (anago)",
+       "greek_def_ro": "ἀνάγω (anago) — a aduce sus"
       },
       {
        "t": " "
@@ -48886,23 +48863,25 @@
        "translit": "olot",
        "strong": "H5930",
        "pos": "substantiv, feminin plural",
-       "def_ro": "arderi-de-tot (olot)",
-       "dict_ro": "Arderile-de-tot și jertfele de pace, urmate de un ospăț, marchează sărbătorirea publică a darului primit de Solomon.",
-       "greek": "ἀνήγαγεν ὁλοκαυτώσεις καὶ ἐποίησεν εἰρηνικάς (anegagen holokautoseis kai epoiesen eirenikas)",
-       "greek_def_ro": "ἀνήγαγεν ὁλοκαυτώσεις καὶ ἐποίησεν εἰρηνικάς (anegagen holokautoseis kai epoiesen eirenikas) — a suit arderi de tot și a făcut [jertfe] de pace."
+       "def_ro": "arderi de tot",
+       "dict_ro": "Ola, „ardere-de-tot”, este jertfa care se arde în întregime pe altar (Leviticul 1:3). Ea exprimă închinarea totală; Solomon o aduce la întoarcerea de la Ghibeon.",
+       "greek": "ὁλοκαύτωσις (holokautosis)",
+       "greek_def_ro": "ὁλοκαύτωσις (holokautosis) — ardere-de-tot"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și a făcut",
-       "w": "și a făcut",
+       "t": "a făcut",
+       "w": "a făcut",
        "heb": "וַיַּעַשׂ",
        "translit": "vaiaas",
        "strong": "H6213",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a făcut (vaiaas)",
-       "dict_ro": "Jertfele de pace completează arderile-de-tot, exprimând comuniunea și bunăstarea regatului sub noul rege înțelept."
+       "def_ro": "a făcut",
+       "dict_ro": "Asa e verbul general al facerii. Alături de bara („a crea”) și iațar („a plăsmui”), apare în Isaia 43:7 într-o gradare pe care tradiția kabbalistică a legat-o de lumile creației, formării și facerii (Beria, Iețira, Asia).",
+       "greek": "ποιέω (poieo)",
+       "greek_def_ro": "ποιέω (poieo) — a face"
       },
       {
        "t": " "
@@ -48914,23 +48893,25 @@
        "translit": "șelamim",
        "strong": "H8002",
        "pos": "substantiv, masculin plural",
-       "def_ro": "jertfe de pace (șelamim)",
-       "dict_ro": "Jertfele de pace completează arderile-de-tot, exprimând comuniunea și bunăstarea regatului sub noul rege înțelept.",
-       "greek": "ἀνήγαγεν ὁλοκαυτώσεις καὶ ἐποίησεν εἰρηνικάς (anegagen holokautoseis kai epoiesen eirenikas)",
-       "greek_def_ro": "ἀνήγαγεν ὁλοκαυτώσεις καὶ ἐποίησεν εἰρηνικάς (anegagen holokautoseis kai epoiesen eirenikas) — a suit arderi de tot și a făcut [jertfe] de pace."
+       "def_ro": "jertfe de împăcare",
+       "dict_ro": "Șelamim, „jertfe de pace”, sunt jertfele din care o parte se mănâncă la masa comună (Leviticul 3:1). Ele exprimă comuniunea cu DOMNUL și cu semenii; de aceea urmează ospățul.",
+       "greek": "εἰρηνικός (eirenikos)",
+       "greek_def_ro": "εἰρηνικός (eirenikos) — jertfă de pace"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și a făcut",
-       "w": "și a făcut",
+       "t": "a făcut",
+       "w": "a făcut",
        "heb": "וַיַּעַשׂ",
        "translit": "vaiaas",
        "strong": "H6213",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a făcut (vaiaas)",
-       "dict_ro": "Ospățul pentru toți slujitorii extinde bucuria regelui asupra întregii curți, confirmând domnia binecuvântată de la început."
+       "def_ro": "a făcut",
+       "dict_ro": "Asa e verbul general al facerii. Alături de bara („a crea”) și iațar („a plăsmui”), apare în Isaia 43:7 într-o gradare pe care tradiția kabbalistică a legat-o de lumile creației, formării și facerii (Beria, Iețira, Asia).",
+       "greek": "ποιέω (poieo)",
+       "greek_def_ro": "ποιέω (poieo) — a face"
       },
       {
        "t": " "
@@ -48942,40 +48923,28 @@
        "translit": "miște",
        "strong": "H4960",
        "pos": "substantiv, masculin singular",
-       "def_ro": "ospăț (miște)",
-       "dict_ro": "Ospățul pentru toți slujitorii extinde bucuria regelui asupra întregii curți, confirmând domnia binecuvântată de la început.",
-       "greek": "ἐποίησεν πότον μέγαν ἑαυτῷ καὶ πᾶσιν τοῖς παισὶν ἑαυτοῦ (epoiesen poton megan heauto kai pasin tois paisin heautou)",
-       "greek_def_ro": "ἐποίησεν πότον μέγαν ἑαυτῷ καὶ πᾶσιν τοῖς παισὶν ἑαυτοῦ (epoiesen poton megan heauto kai pasin tois paisin heautou) — a făcut ospăț mare pentru sine și pentru toți slujitorii lui."
+       "def_ro": "ospăț",
+       "dict_ro": "Mișteh înseamnă „ospăț, banchet”: Avraam a făcut „un mare ospăț” în ziua în care a fost înțărcat Isaac (Geneza 21:8). Solomon face ospăț pentru toți slujitorii lui, ca să sărbătorească darul înțelepciunii.",
+       "greek": "πότος (potos)",
+       "greek_def_ro": "πότος (potos) — ospăț (de băutură)"
       },
       {
-       "t": " "
+       "t": " pentru "
       },
       {
-       "t": "pentru toți",
-       "w": "pentru toți",
-       "heb": "לְכָל",
-       "translit": "lehal",
+       "t": "toți slujitorii lui",
+       "w": "toți slujitorii lui",
+       "heb": "לְכָל עֲבָדָיו",
+       "translit": "lehal avadaiv",
        "strong": "H3605",
-       "pos": "substantiv, masculin singular construct",
-       "def_ro": "pentru toți (lehal)",
-       "dict_ro": "Ospățul pentru toți slujitorii extinde bucuria regelui asupra întregii curți.",
-       "greek": "ἐποίησεν πότον μέγαν ἑαυτῷ καὶ πᾶσιν τοῖς παισὶν ἑαυτοῦ (epoiesen poton megan heauto kai pasin tois paisin heautou)",
-       "greek_def_ro": "ἐποίησεν πότον μέγαν ἑαυτῷ καὶ πᾶσιν τοῖς παισὶν ἑαυτοῦ (epoiesen poton megan heauto kai pasin tois paisin heautou) — a făcut ospăț mare pentru sine și pentru toți slujitorii lui."
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural construct + sufix",
+       "def_ro": "toți slujitorii lui",
+       "dict_ro": "„Kol avadav” înseamnă „toți slujitorii lui” (Geneza 20:8). Ospățul este deschis întregii curți, nu numai celor apropiați; darul primit de rege aduce bucurie tuturor.",
+       "greek": "πᾶς παῖς (pas pais)",
+       "greek_def_ro": "πᾶς παῖς (pas pais) — toți slujitorii lui"
       },
       {
-       "t": " "
-      },
-      {
-       "t": "slujitorii lui.",
-       "w": "slujitorii lui.",
-       "heb": "עֲבָדָיו",
-       "translit": "avadaiv",
-       "strong": "H5650",
-       "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "slujitorii lui. (avadaiv)",
-       "dict_ro": "Ospățul pentru toți slujitorii extinde bucuria regelui asupra întregii curți.",
-       "greek": "ἐποίησεν πότον μέγαν ἑαυτῷ καὶ πᾶσιν τοῖς παισὶν ἑαυτοῦ (epoiesen poton megan heauto kai pasin tois paisin heautou)",
-       "greek_def_ro": "ἐποίησεν πότον μέγαν ἑαυτῷ καὶ πᾶσιν τοῖς παισὶν ἑαυτοῦ (epoiesen poton megan heauto kai pasin tois paisin heautou) — a făcut ospăț mare pentru sine și pentru toți slujitorii lui."
+       "t": "."
       }
      ],
      "textCompare": [
@@ -49035,44 +49004,31 @@
      "translit": "Az tavona șetaim nașim zonot el-hameleh vataamodna lefanav.",
      "tokens": [
       {
-       "t": "Apoi,",
-       "w": "Apoi,",
+       "t": "Apoi",
+       "w": "Apoi",
        "heb": "אָז",
        "translit": "az",
        "strong": "H227",
        "pos": "adverb",
-       "def_ro": "atunci, (az)",
-       "dict_ro": "Episodul judecății celor două femei devine primul exemplu narativ al înțelepciunii practice promise lui Solomon în vis."
+       "def_ro": "atunci",
+       "dict_ro": "Az înseamnă „atunci, apoi”. Cuvântul leagă ospățul de scena care urmează: după ce Solomon a mulțumit lui DOMNUL, înțelepciunea lui este pusă la încercare.",
+       "greek": "τότε (tote)",
+       "greek_def_ro": "τότε (tote) — atunci"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "două",
-       "w": "două",
-       "heb": "שְׁתַּיִם",
-       "translit": "șetaim",
+       "t": "două femei",
+       "w": "două femei",
+       "heb": "שְׁתַּיִם נָשִׁים",
+       "translit": "șetaim nașim",
        "strong": "H8147",
-       "pos": "numeral",
-       "def_ro": "două (șetaim)",
-       "dict_ro": "Episodul judecății celor două femei devine primul exemplu narativ al înțelepciunii practice promise lui Solomon.",
-       "greek": "ὤφθησαν δύο γυναῖκες πόρναι τῷ βασιλεῖ (ophthesan dyo gynaikes pornai to basilei)",
-       "greek_def_ro": "ὤφθησαν δύο γυναῖκες πόρναι τῷ βασιλεῖ (ophthesan dyo gynaikes pornai to basilei) — au fost văzute două femei curve la rege."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "femei",
-       "w": "femei",
-       "heb": "נָשִׁים",
-       "translit": "nașim",
-       "strong": "H802",
-       "pos": "substantiv, feminin plural",
-       "def_ro": "femei (nașim)",
-       "dict_ro": "Episodul judecății celor două femei devine primul exemplu narativ al înțelepciunii practice promise lui Solomon.",
-       "greek": "ὤφθησαν δύο γυναῖκες πόρναι τῷ βασιλεῖ (ophthesan dyo gynaikes pornai to basilei)",
-       "greek_def_ro": "ὤφθησαν δύο γυναῖκες πόρναι τῷ βασιλεῖ (ophthesan dyo gynaikes pornai to basilei) — au fost văzute două femei curve la rege."
+       "pos": "numeral + substantiv, feminin plural",
+       "def_ro": "două femei",
+       "dict_ro": "„Șetaim nașim” înseamnă „două femei”. Textul le numește „zonot”, un cuvânt care arată ocupația lor, fără a spune nimic altceva despre ele. Ele sunt oamenii cei mai de jos care ajung în fața regelui.",
+       "greek": "δύο γυνή (dyo gyne)",
+       "greek_def_ro": "δύο γυνή (dyo gyne) — două femei"
       },
       {
        "t": " "
@@ -49084,10 +49040,10 @@
        "translit": "zonot",
        "strong": "H2185",
        "pos": "verb, qal participiu",
-       "def_ro": "prostituate (zonot)",
-       "dict_ro": "Statutul social marginal al celor două femei face și mai remarcabilă atenția dreaptă pe care regele le-o acordă.",
-       "greek": "ὤφθησαν δύο γυναῖκες πόρναι τῷ βασιλεῖ (ophthesan dyo gynaikes pornai to basilei)",
-       "greek_def_ro": "ὤφθησαν δύο γυναῖκες πόρναι τῷ βασιλεῖ (ophthesan dyo gynaikes pornai to basilei) — au fost văzute două femei curve la rege."
+       "def_ro": "desfrânate",
+       "dict_ro": "Zonot, „prostituate”, descrie ocupația celor două femei. Solomon nu respinge pricina din pricina condiției lor: dreptatea regelui este pentru toți, chiar și pentru cele mai disprețuite.",
+       "greek": "πόρνη (porne)",
+       "greek_def_ro": "πόρνη (porne) — desfrânată"
       },
       {
        "t": " "
@@ -49099,53 +49055,59 @@
        "translit": "tavona",
        "strong": "H935",
        "pos": "verb, qal imperfect",
-       "def_ro": "au venit (tavona)",
-       "dict_ro": "Statutul social marginal al celor două femei face și mai remarcabilă atenția dreaptă pe care regele le-o acordă.",
-       "greek": "ὤφθησαν δύο γυναῖκες πόρναι τῷ βασιλεῖ (ophthesan dyo gynaikes pornai to basilei)",
-       "greek_def_ro": "ὤφθησαν δύο γυναῖκες πόρναι τῷ βασιλεῖ (ophthesan dyo gynaikes pornai to basilei) — au fost văzute două femei curve la rege."
+       "def_ro": "au venit",
+       "dict_ro": "Bo e verbul venirii și al intrării; în profeți descrie adesea împlinirea: ceea ce a fost vestit „vine”, adică se întâmplă (Isaia 42:9). La forma cauzativă, hevi, înseamnă „a aduce” — cu un sens aparte în făgăduința strângerii exilaților (Isaia 43:5).",
+       "greek": "ὁράω (horao)",
+       "greek_def_ro": "ὁράω (horao) — a se arăta",
+       "diff_ro": "Ebraica: „au venit” (tavona); Septuaginta: „s-au arătat” (ὤφθησαν)."
       },
       {
-       "t": " "
+       "t": " la "
       },
       {
-       "t": "la rege",
-       "w": "la rege",
-       "heb": "אֶל הַמֶּלֶךְ",
-       "translit": "el hameleh",
+       "t": "rege",
+       "w": "rege",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
        "strong": "H4428",
-       "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "la rege (el hameleh)",
-       "dict_ro": "Accesul direct la rege, fără intermediari, arată disponibilitatea justiției regale pentru cei mai umili supuși."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "rege",
+       "dict_ro": "Melek înseamnă „rege”. Cuvântul străbate tot episodul: femeile vin la rege, el judecă, iar Israelul se teme de rege. Regele este judecătorul suprem.",
+       "greek": "βασιλεύς (basileus)",
+       "greek_def_ro": "βασιλεύς (basileus) — rege"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și au stat",
-       "w": "și au stat",
+       "t": "au stat",
+       "w": "au stat",
        "heb": "וַתַּעֲמֹדְנָה",
        "translit": "vataamodna",
        "strong": "H5975",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și au stat (vataamodna)",
-       "dict_ro": "Accesul direct la rege, fără intermediari, arată disponibilitatea justiției regale pentru cei mai umili supuși.",
-       "greek": "ἔστησαν ἐνώπιον αὐτοῦ (estesan enopion autou)",
-       "greek_def_ro": "ἔστησαν ἐνώπιον αὐτοῦ (estesan enopion autou) — au stat înaintea lui."
+       "def_ro": "au stat",
+       "dict_ro": "Amad înseamnă „a sta”. „A sta înaintea” cuiva înseamnă a-i sluji sau a se înfățișa înaintea lui. Solomon stă înaintea chivotului; cele două femei stau înaintea regelui (3:16).",
+       "greek": "ἵστημι (histemi)",
+       "greek_def_ro": "ἵστημι (histemi) — a sta"
       },
       {
        "t": " "
       },
       {
-       "t": "înaintea lui.",
-       "w": "înaintea lui.",
+       "t": "înaintea lui",
+       "w": "înaintea lui",
        "heb": "לְפָנָיו",
        "translit": "lefanaiv",
        "strong": "H6440",
        "pos": "substantiv, masculin și feminin plural construct + sufix",
-       "def_ro": "înaintea lui. (lefanaiv)",
-       "dict_ro": "Accesul direct la rege, fără intermediari, arată disponibilitatea justiției regale pentru cei mai umili supuși.",
-       "greek": "ἔστησαν ἐνώπιον αὐτοῦ (estesan enopion autou)",
-       "greek_def_ro": "ἔστησαν ἐνώπιον αὐτοῦ (estesan enopion autou) — au stat înaintea lui."
+       "def_ro": "înaintea lui",
+       "dict_ro": "Panim, „fața”, are formă de plural; cu prepoziția le formează lifnei, „înaintea”, literal „la fața”. În Isaia 43:10, lefanai, „înaintea Mea”, are sens de timp: înainte de Dumnezeu nu a fost plăsmuit niciun alt dumnezeu.",
+       "greek": "ἐνώπιον (enopion)",
+       "greek_def_ro": "ἐνώπιον (enopion) — înaintea"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -49191,45 +49153,52 @@
      "translit": "Vatomer haișa haahat bi adoni ani vehaișa hazot ioșvot bevait ehad vaēlēd ima babait.",
      "tokens": [
       {
-       "t": "Și una",
-       "w": "Și una",
+       "t": "Și "
+      },
+      {
+       "t": "una dintre femei",
+       "w": "una dintre femei",
        "heb": "הָאִשָּׁה הָאַחַת",
        "translit": "haișa haahat",
-       "strong": "H259",
+       "strong": "H802",
        "pos": "substantiv, feminin singular + numeral",
-       "def_ro": "și femeia una (haișa haahat)",
-       "dict_ro": "Prima femeie își expune cazul cu amănunțit, insistând asupra faptului că erau singure, fără martori, în casă."
+       "def_ro": "femeia una",
+       "dict_ro": "„Haișa haahat” înseamnă „una dintre femei”. Textul nu le dă nume; rămân „una” și „cealaltă”, fiecare cu povestea ei. Anonimatul le face asemănătoare: oricare dintre ele ar putea fi mama adevărată.",
+       "greek": "γυνὴ μία (gyne mia)",
+       "greek_def_ro": "γυνὴ μία (gyne mia) — una dintre femei"
       },
       {
-       "t": " dintre femei "
+       "t": " "
       },
       {
-       "t": "a spus:",
-       "w": "a spus:",
+       "t": "a spus",
+       "w": "a spus",
        "heb": "וַתֹּאמֶר",
        "translit": "vatomer",
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a spus: (vatomer)",
-       "dict_ro": "Prima femeie își expune cazul cu amănunțit, insistând asupra faptului că erau singure, fără martori, în casă.",
-       "greek": "εἶπεν ἡ γυνὴ ἡ μία Ἐν ἐμοί, κύριε (eipen he gyne he mia En emoi, kyrie)",
-       "greek_def_ro": "εἶπεν ἡ γυνὴ ἡ μία Ἐν ἐμοί, κύριε (eipen he gyne he mia En emoi, kyrie) — a spus femeia cea una: în mine, stăpâne."
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
-       "t": " „"
+       "t": ": „Te rog, "
       },
       {
-       "t": "Te rog, stăpâne,",
-       "w": "Te rog, stăpâne,",
-       "heb": "בִּי אֲדֹנִי",
-       "translit": "bi adoni",
+       "t": "stăpâne",
+       "w": "stăpâne",
+       "heb": "אֲדֹנִי",
+       "translit": "adoni",
        "strong": "H113",
-       "pos": "interjecție + substantiv, masculin singular construct + sufix",
-       "def_ro": "te rog, stăpânul meu, (bi adoni)",
-       "dict_ro": "Formula de adresare respectuoasă «te rog, stăpâne» precedă fiecare intervenție directă către rege în acest episod."
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "domnul meu",
+       "dict_ro": "Adon înseamnă „stăpân, domn”. „Pe mine, stăpâne” este formula prin care femeia se adresează regelui, cu respect și cu rugăminte de a fi ascultată.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn; DOMNUL"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
        "t": "eu",
@@ -49238,21 +49207,25 @@
        "translit": "ani",
        "strong": "H589",
        "pos": "pronume personal",
-       "def_ro": "eu (ani)",
-       "dict_ro": "Formula de adresare respectuoasă precedă fiecare intervenție directă către rege în acest episod."
+       "def_ro": "eu",
+       "dict_ro": "Ani este „eu”, forma obișnuită a pronumelui la persoana întâi. În judecata lui Solomon cele două femei vorbesc fiecare despre „eu” și „copilul meu”: cuvântul pune în față pretenția fiecărei mame în fața regelui.",
+       "greek": "ἐγώ (ego)",
+       "greek_def_ro": "ἐγώ (ego) — eu"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și femeia aceasta",
-       "w": "și femeia aceasta",
+       "t": "femeia aceasta",
+       "w": "femeia aceasta",
        "heb": "וְהָאִשָּׁה הַזֹּאת",
        "translit": "vehaișa hazot",
-       "strong": "H2063",
+       "strong": "H802",
        "pos": "substantiv, feminin singular + pronume demonstrativ",
-       "def_ro": "și femeia aceasta (vehaișa hazot)",
-       "dict_ro": "Absența oricărui martor extern, repetată explicit, va deveni miezul dilemei juridice pe care regele trebuie să o rezolve."
+       "def_ro": "femeia aceasta",
+       "dict_ro": "„Haișa hazot” înseamnă „femeia aceasta”. Pronumele arată cu degetul spre cealaltă femeie, aflată în fața regelui. Pricina este așadar între două femei care trăiesc sub același acoperiș.",
+       "greek": "γυνὴ οὗτος (gyne houtos)",
+       "greek_def_ro": "γυνὴ οὗτος (gyne houtos) — femeia aceasta"
       },
       {
        "t": " "
@@ -49264,10 +49237,10 @@
        "translit": "ioșvot",
        "strong": "H3427",
        "pos": "verb, qal participiu",
-       "def_ro": "locuiesc (ioșvot)",
-       "dict_ro": "Absența oricărui martor extern, repetată explicit, va deveni miezul dilemei juridice pe care regele trebuie să o rezolve.",
-       "greek": "ἐγὼ καὶ ἡ γυνὴ αὕτη οἰκοῦμεν ἐν οἴκῳ ἑνί (ego kai he gyne haute oikoumen en oiko heni)",
-       "greek_def_ro": "ἐγὼ καὶ ἡ γυνὴ αὕτη οἰκοῦμεν ἐν οἴκῳ ἑνί (ego kai he gyne haute oikoumen en oiko heni) — eu și femeia aceasta locuim într-o casă."
+       "def_ro": "locuim",
+       "dict_ro": "Iașav înseamnă a ședea și, prin extensie, a locui statornic; participiul ioșvei („cei ce locuiesc”) desemnează locuitorii unui loc. În Biblie, Dumnezeu „șade” pe tron ca rege și judecător (Isaia 6:1).",
+       "greek": "οἰκέω (oikeo)",
+       "greek_def_ro": "οἰκέω (oikeo) — a locui"
       },
       {
        "t": " "
@@ -49277,53 +49250,45 @@
        "w": "în aceeași casă",
        "heb": "בְּבַיִת אֶחָד",
        "translit": "bevait ehad",
-       "strong": "H259",
+       "strong": "H1004",
        "pos": "substantiv, masculin singular + numeral",
-       "def_ro": "într-o casă (bevait ehad)",
-       "dict_ro": "Absența oricărui martor extern, repetată explicit, va deveni miezul dilemei juridice pe care regele trebuie să o rezolve."
+       "def_ro": "într-o singură casă",
+       "dict_ro": "„Bait ehad” înseamnă „o singură casă”. Cele două femei trăiesc în aceeași casă, fără martor străin; de aceea nimeni nu poate dovedi nimic. Judecata va depinde de înțelepciunea regelui, nu de probe.",
+       "greek": "οἶκος εἷς (oikos heis)",
+       "greek_def_ro": "οἶκος εἷς (oikos heis) — într-o singură casă"
       },
       {
-       "t": " "
+       "t": " și eu "
       },
       {
-       "t": "și eu am născut",
-       "w": "și eu am născut",
+       "t": "am născut",
+       "w": "am născut",
        "heb": "וָאֵלֵד",
        "translit": "vaēlēd",
        "strong": "H3205",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și am născut (vaēlēd)",
-       "dict_ro": "Naptiile aproape simultane ale celor două femei explică de ce confuzia asupra copilului viu devine posibilă.",
-       "greek": "ἐτέκομεν ἐν τῷ οἴκῳ (etekomen en to oiko)",
-       "greek_def_ro": "ἐτέκομεν ἐν τῷ οἴκῳ (etekomen en to oiko) — am născut în casă."
+       "def_ro": "am născut",
+       "dict_ro": "Ialad înseamnă „a naște”: Eva „a născut” pe Cain (Geneza 4:1). Fiecare femeie a născut un fiu în aceeași casă, la trei zile una după alta. Pricina pornește de aici.",
+       "greek": "τίκτω (tikto)",
+       "greek_def_ro": "τίκτω (tikto) — a naște"
       },
       {
-       "t": " în timp ce eram "
+       "t": " în timp ce eram cu ea "
       },
       {
-       "t": "cu ea",
-       "w": "cu ea",
-       "heb": "עִמָּהּ",
-       "translit": "imah",
-       "strong": "H5973",
-       "pos": "prepoziție + sufix",
-       "def_ro": "cu ea (imah)",
-       "dict_ro": "Naptiile aproape simultane ale celor două femei explică de ce confuzia asupra copilului viu devine posibilă.",
-       "greek": "ἐτέκομεν ἐν τῷ οἴκῳ (etekomen en to oiko)",
-       "greek_def_ro": "ἐτέκομεν ἐν τῷ οἴκῳ (etekomen en to oiko) — am născut în casă."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "în casă.",
-       "w": "în casă.",
+       "t": "în casă",
+       "w": "în casă",
        "heb": "בַּבָּיִת",
        "translit": "babait",
        "strong": "H1004",
        "pos": "substantiv, masculin singular",
-       "def_ro": "în casă. (babait)",
-       "dict_ro": "Naptiile aproape simultane ale celor două femei explică de ce confuzia asupra copilului viu devine posibilă."
+       "def_ro": "în casă",
+       "dict_ro": "Bait înseamnă „casă, locuință”. Casa în care trăiesc amândouă este locul unde nu există un martor; în ea se petrece moartea copilului și schimbarea lui.",
+       "greek": "οἶκος (oikos)",
+       "greek_def_ro": "οἶκος (oikos) — casă"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -49371,16 +49336,19 @@
      "translit": "Vaiehi baiom hașeliiși lelidti vatēled gam-haișa hazot vaanahnu iahdav ēin-zar itanu babait zulati șetaim-anahnu babait.",
      "tokens": [
       {
-       "t": "Și a fost",
-       "w": "Și a fost",
+       "t": "Și "
+      },
+      {
+       "t": "a fost",
+       "w": "a fost",
        "heb": "וַיְהִי",
        "translit": "vaihi",
        "strong": "H1961",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a fost (vaihi)",
-       "dict_ro": "Nașterea celei de-a doua femei, exact la trei zile distanță, confirmă cronologia strânsă care face schimbul de copii posibil.",
-       "greek": "ἐγενήθη ἐν τῇ ἡμέρᾳ τῇ τρίτῃ τεκούσης μου (egenethe en te hemera te trite tekouses mou)",
-       "greek_def_ro": "ἐγενήθη ἐν τῇ ἡμέρᾳ τῇ τρίτῃ τεκούσης μου (egenethe en te hemera te trite tekouses mou) — a fost în ziua a treia după ce am născut."
+       "def_ro": "a fost",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "γίνομαι (ginomai)",
+       "greek_def_ro": "γίνομαι (ginomai) — a fi, a se întâmpla"
       },
       {
        "t": " "
@@ -49390,38 +49358,42 @@
        "w": "în a treia zi",
        "heb": "בַּיּוֹם הַשְּׁלִישִׁי",
        "translit": "baiom hașliși",
-       "strong": "H7992",
+       "strong": "H3117",
        "pos": "substantiv, masculin singular + numeral ordinal",
-       "def_ro": "în ziua a treia (baiom hașliși)",
-       "dict_ro": "Nașterea celei de-a doua femei, exact la trei zile distanță, confirmă cronologia strânsă care face schimbul de copii posibil."
+       "def_ro": "în ziua a treia",
+       "dict_ro": "„Iom hașliși” înseamnă „ziua a treia” (Geneza 1:13). A treia zi după nașterea primei femei, a născut și cealaltă; de aceea cei doi nou-născuți sunt de aceeași vârstă.",
+       "greek": "ἡμέρα τρίτος (hemera tritos)",
+       "greek_def_ro": "ἡμέρα τρίτος (hemera tritos) — a treia zi"
       },
       {
-       "t": " "
+       "t": " după ce "
       },
       {
-       "t": "după ce născusem,",
-       "w": "după ce născusem,",
+       "t": "născusem",
+       "w": "născusem",
        "heb": "לְלִדְתִּי",
        "translit": "lelidti",
        "strong": "H3205",
        "pos": "verb, qal infinitiv + sufix",
-       "def_ro": "după naștere mea, (lelidti)",
-       "dict_ro": "Nașterea celei de-a doua femei, exact la trei zile distanță, confirmă cronologia strânsă care face schimbul de copii posibil.",
-       "greek": "ἐγενήθη ἐν τῇ ἡμέρᾳ τῇ τρίτῃ τεκούσης μου (egenethe en te hemera te trite tekouses mou)",
-       "greek_def_ro": "ἐγενήθη ἐν τῇ ἡμέρᾳ τῇ τρίτῃ τεκούσης μου (egenethe en te hemera te trite tekouses mou) — a fost în ziua a treia după ce am născut."
+       "def_ro": "nașterea mea",
+       "dict_ro": "Ialad înseamnă „a naște”: Eva „a născut” pe Cain (Geneza 4:1). Fiecare femeie a născut un fiu în aceeași casă, la trei zile una după alta. Pricina pornește de aici.",
+       "greek": "τίκτω (tikto)",
+       "greek_def_ro": "τίκτω (tikto) — a naște"
       },
       {
-       "t": " "
+       "t": ", că "
       },
       {
-       "t": "că femeia aceasta",
-       "w": "că femeia aceasta",
+       "t": "femeia aceasta",
+       "w": "femeia aceasta",
        "heb": "הָאִשָּׁה הַזֹּאת",
        "translit": "haișa hazot",
-       "strong": "H2063",
+       "strong": "H802",
        "pos": "substantiv, feminin singular + pronume demonstrativ",
-       "def_ro": "și femeia aceasta (haișa hazot)",
-       "dict_ro": "Repetarea insistentă a absenței oricărui martor pregătește cuvântul final al regelui, care se va baza doar pe instinctul matern."
+       "def_ro": "femeia aceasta",
+       "dict_ro": "„Haișa hazot” înseamnă „femeia aceasta”. Pronumele arată cu degetul spre cealaltă femeie, aflată în fața regelui. Pricina este așadar între două femei care trăiesc sub același acoperiș.",
+       "greek": "γυνὴ οὗτος (gyne houtos)",
+       "greek_def_ro": "γυνὴ οὗτος (gyne houtos) — femeia aceasta"
       },
       {
        "t": " "
@@ -49433,139 +49405,103 @@
        "translit": "vatēled",
        "strong": "H3205",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "a născut (vatēled)",
-       "dict_ro": "Repetarea insistentă a absenței oricărui martor pregătește cuvântul final al regelui, care se va baza doar pe instinctul matern.",
-       "greek": "ἔτεκεν καὶ ἡ γυνὴ αὕτη (eteken kai he gyne haute)",
-       "greek_def_ro": "ἔτεκεν καὶ ἡ γυνὴ αὕτη (eteken kai he gyne haute) — a născut și femeia aceasta."
+       "def_ro": "a născut",
+       "dict_ro": "Ialad înseamnă „a naște”: Eva „a născut” pe Cain (Geneza 4:1). Fiecare femeie a născut un fiu în aceeași casă, la trei zile una după alta. Pricina pornește de aici.",
+       "greek": "τίκτω (tikto)",
+       "greek_def_ro": "τίκτω (tikto) — a naște"
+      },
+      {
+       "t": " și ea. "
+      },
+      {
+       "t": "Eram",
+       "w": "Eram",
+       "heb": "וַאֲנַחְנוּ",
+       "translit": "vaanahnu",
+       "strong": "H587",
+       "pos": "pronume personal",
+       "def_ro": "noi eram",
+       "dict_ro": "Anahnu înseamnă „noi”: „toți suntem fiii unui singur om” (Geneza 42:11). Femeia insistă că erau doar ele două în casă, fără nimeni altcineva.",
+       "greek": "ἡμεῖς (hemeis)",
+       "greek_def_ro": "ἡμεῖς (hemeis) — noi"
       },
       {
        "t": " "
       },
       {
-       "t": "și ea.",
-       "w": "și ea.",
-       "heb": "גַּם",
-       "translit": "gam",
-       "strong": "H1571",
-       "pos": "particulă afirmativă",
-       "def_ro": "de asemenea. (gam)",
-       "dict_ro": "Repetarea insistentă a absenței oricărui martor pregătește cuvântul final al regelui."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "Eram împreună,",
-       "w": "Eram împreună,",
-       "heb": "וַאֲנַחְנוּ יַחְדָּו",
-       "translit": "vaanahnu iahdav",
+       "t": "împreună",
+       "w": "împreună",
+       "heb": "יַחְדָּו",
+       "translit": "iahdav",
        "strong": "H3162",
-       "pos": "pronume personal + adverb",
-       "def_ro": "și noi împreună, (vaanahnu iahdav)",
-       "dict_ro": "Repetarea insistentă a absenței oricărui martor pregătește cuvântul final al regelui, care se va baza doar pe instinctul matern."
+       "pos": "adverb",
+       "def_ro": "împreună",
+       "dict_ro": "Iahad, „împreună”, exprimă unitatea; forma iahdav, „toți laolaltă”, e frecventă în poezia profetică. În ebraica de mai târziu, Iahad a devenit numele comunității de la Qumran.",
+       "greek": "κατὰ τὸ αὐτό (kata to auto)",
+       "greek_def_ro": "κατὰ τὸ αὐτό (kata to auto) — laolaltă"
       },
       {
-       "t": " "
+       "t": ", nu era niciun "
       },
       {
-       "t": "nu era",
-       "w": "nu era",
-       "heb": "אֵין",
-       "translit": "ēn",
-       "strong": "H369",
-       "pos": "particulă negativă",
-       "def_ro": "nu era (ēn)",
-       "dict_ro": "Repetarea insistentă a absenței oricărui martor pregătește cuvântul final al regelui.",
-       "greek": "ἡμεῖς κατὰ τὸ αὐτό, καὶ οὐκ ἔστιν οὐθεὶς μεθ᾽ ἡμῶν (hemeis kata to auto, kai ouk estin outheis meth hemon)",
-       "greek_def_ro": "ἡμεῖς κατὰ τὸ αὐτό, καὶ οὐκ ἔστιν οὐθεὶς μεθ᾽ ἡμῶν (hemeis kata to auto, kai ouk estin outheis meth hemon) — noi laolaltă, și nu e nimeni cu noi."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "niciun străin",
-       "w": "niciun străin",
+       "t": "străin",
+       "w": "străin",
        "heb": "זָר",
        "translit": "zar",
        "strong": "H2114",
        "pos": "adjectiv, masculin singular",
-       "def_ro": "niciun străin (zar)",
-       "dict_ro": "Repetarea insistentă a absenței oricărui martor pregătește cuvântul final al regelui.",
-       "greek": "ἡμεῖς κατὰ τὸ αὐτό, καὶ οὐκ ἔστιν οὐθεὶς μεθ᾽ ἡμῶν (hemeis kata to auto, kai ouk estin outheis meth hemon)",
-       "greek_def_ro": "ἡμεῖς κατὰ τὸ αὐτό, καὶ οὐκ ἔστιν οὐθεὶς μεθ᾽ ἡμῶν (hemeis kata to auto, kai ouk estin outheis meth hemon) — noi laolaltă, și nu e nimeni cu noi."
+       "def_ro": "străin",
+       "dict_ro": "Zar înseamnă „străin”. Femeia spune că nu era niciun străin cu ele în casă. Ea își închide astfel orice cale de dovadă, ceea ce face necesară judecata regelui.",
+       "greek": "οὐθείς (outheis)",
+       "greek_def_ro": "οὐθείς (outheis) — nimeni",
+       "diff_ro": "Ebraica: „niciun străin” (ein zar); Septuaginta: „nimeni” (οὐθεὶς)."
       },
       {
-       "t": " "
+       "t": " cu noi în "
       },
       {
-       "t": "cu noi",
-       "w": "cu noi",
-       "heb": "אִתָּנוּ",
-       "translit": "itanu",
-       "strong": "H854",
-       "pos": "prepoziție + sufix",
-       "def_ro": "cu noi (itanu)",
-       "dict_ro": "Repetarea insistentă a absenței oricărui martor pregătește cuvântul final al regelui.",
-       "greek": "ἡμεῖς κατὰ τὸ αὐτό, καὶ οὐκ ἔστιν οὐθεὶς μεθ᾽ ἡμῶν (hemeis kata to auto, kai ouk estin outheis meth hemon)",
-       "greek_def_ro": "ἡμεῖς κατὰ τὸ αὐτό, καὶ οὐκ ἔστιν οὐθεὶς μεθ᾽ ἡμῶν (hemeis kata to auto, kai ouk estin outheis meth hemon) — noi laolaltă, și nu e nimeni cu noi."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "în casă,",
-       "w": "în casă,",
+       "t": "casă",
+       "w": "casă",
        "heb": "בַּבַּיִת",
        "translit": "babait",
        "strong": "H1004",
        "pos": "substantiv, masculin singular",
-       "def_ro": "în casă, (babait)",
-       "dict_ro": "Repetarea insistentă a absenței oricărui martor pregătește cuvântul final al regelui.",
-       "greek": "ἡμεῖς κατὰ τὸ αὐτό, καὶ οὐκ ἔστιν οὐθεὶς μεθ᾽ ἡμῶν (hemeis kata to auto, kai ouk estin outheis meth hemon)",
-       "greek_def_ro": "ἡμεῖς κατὰ τὸ αὐτό, καὶ οὐκ ἔστιν οὐθεὶς μεθ᾽ ἡμῶν (hemeis kata to auto, kai ouk estin outheis meth hemon) — noi laolaltă, și nu e nimeni cu noi."
+       "def_ro": "în casă",
+       "dict_ro": "Bait înseamnă „casă, locuință”. Casa în care trăiesc amândouă este locul unde nu există un martor; în ea se petrece moartea copilului și schimbarea lui.",
+       "diff_ro": "Septuaginta are „în casă” o singură dată, la sfârșitul versetului."
       },
       {
-       "t": " "
-      },
-      {
-       "t": "numai",
-       "w": "numai",
-       "heb": "זוּלָתִי",
-       "translit": "zulati",
-       "strong": "H2108",
-       "pos": "prepoziție",
-       "def_ro": "decât (zulati)",
-       "dict_ro": "Repetarea insistentă a absenței oricărui martor pregătește cuvântul final al regelui.",
-       "greek": "παρὲξ ἀμφοτέρων ἡμῶν ἐν τῷ οἴκῳ (parex amphoteron hemon en to oiko)",
-       "greek_def_ro": "παρὲξ ἀμφοτέρων ἡμῶν ἐν τῷ οἴκῳ (parex amphoteron hemon en to oiko) — în afară de noi amândouă, în casă."
-      },
-      {
-       "t": " "
+       "t": ", numai "
       },
       {
        "t": "noi două",
        "w": "noi două",
        "heb": "שְׁתַּיִם אֲנַחְנוּ",
        "translit": "șetaim anahnu",
-       "strong": "H587",
+       "strong": "H8147",
        "pos": "numeral + pronume personal",
-       "def_ro": "cele două noi (șetaim anahnu)",
-       "dict_ro": "Repetarea insistentă a absenței oricărui martor pregătește cuvântul final al regelui."
+       "def_ro": "noi două",
+       "dict_ro": "„Șetaim anahnu” înseamnă „noi două”. Femeia subliniază că în casă erau doar ele, deci nu există niciun martor.",
+       "greek": "ἀμφότεροι (amphoteroi)",
+       "greek_def_ro": "ἀμφότεροι (amphoteroi) — amândouă"
       },
       {
-       "t": " "
+       "t": " eram în "
       },
       {
-       "t": "eram în casă.",
-       "w": "eram în casă.",
+       "t": "casă",
+       "w": "casă",
        "heb": "בַּבָּיִת",
        "translit": "babait",
        "strong": "H1004",
        "pos": "substantiv, masculin singular",
-       "def_ro": "în casă. (babait)",
-       "dict_ro": "Repetarea insistentă a absenței oricărui martor pregătește cuvântul final al regelui.",
-       "greek": "παρὲξ ἀμφοτέρων ἡμῶν ἐν τῷ οἴκῳ (parex amphoteron hemon en to oiko)",
-       "greek_def_ro": "παρὲξ ἀμφοτέρων ἡμῶν ἐν τῷ οἴκῳ (parex amphoteron hemon en to oiko) — în afară de noi amândouă, în casă."
+       "def_ro": "în casă",
+       "dict_ro": "Bait înseamnă „casă, locuință”. Casa în care trăiesc amândouă este locul unde nu există un martor; în ea se petrece moartea copilului și schimbarea lui.",
+       "greek": "οἶκος (oikos)",
+       "greek_def_ro": "οἶκος (oikos) — casă"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -49602,16 +49538,19 @@
      "translit": "Vaiamot ben-haișa hazot laila așer șahva alav.",
      "tokens": [
       {
-       "t": "Și copilul",
-       "w": "Și copilul",
+       "t": "Și "
+      },
+      {
+       "t": "copilul",
+       "w": "copilul",
        "heb": "בֶּן",
        "translit": "ben",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "și fiul (ben)",
-       "dict_ro": "Moartea accidentală a copilului, prin sufocare în somn, declanșează disputa pentru copilul rămas în viață.",
-       "greek": "ἀπέθανεν ὁ υἱὸς τῆς γυναικὸς ταύτης τὴν νύκτα (apethanen ho hyios tes gynaikos tautes ten nykta)",
-       "greek_def_ro": "ἀπέθανεν ὁ υἱὸς τῆς γυναικὸς ταύτης τὴν νύκτα (apethanen ho hyios tes gynaikos tautes ten nykta) — a murit fiul femeii acesteia noaptea."
+       "def_ro": "fiul",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
        "t": " "
@@ -49621,10 +49560,12 @@
        "w": "femeii acesteia",
        "heb": "הָאִשָּׁה הַזֹּאת",
        "translit": "haișa hazot",
-       "strong": "H2063",
+       "strong": "H802",
        "pos": "substantiv, feminin singular + pronume demonstrativ",
-       "def_ro": "femeii acesteia (haișa hazot)",
-       "dict_ro": "Moartea accidentală a copilului, prin sufocare în somn, declanșează disputa pentru copilul rămas în viață."
+       "def_ro": "femeii acesteia",
+       "dict_ro": "„Haișa hazot” înseamnă „femeia aceasta”. Pronumele arată cu degetul spre cealaltă femeie, aflată în fața regelui. Pricina este așadar între două femei care trăiesc sub același acoperiș.",
+       "greek": "γυνή (gyne)",
+       "greek_def_ro": "γυνή (gyne) — femeie"
       },
       {
        "t": " "
@@ -49636,41 +49577,28 @@
        "translit": "vaiamat",
        "strong": "H4191",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a murit (vaiamat)",
-       "dict_ro": "Moartea accidentală a copilului, prin sufocare în somn, declanșează disputa pentru copilul rămas în viață.",
-       "greek": "ἀπέθανεν ὁ υἱὸς τῆς γυναικὸς ταύτης τὴν νύκτα (apethanen ho hyios tes gynaikos tautes ten nykta)",
-       "greek_def_ro": "ἀπέθανεν ὁ υἱὸς τῆς γυναικὸς ταύτης τὴν νύκτα (apethanen ho hyios tes gynaikos tautes ten nykta) — a murit fiul femeii acesteia noaptea."
+       "def_ro": "a murit",
+       "dict_ro": "Mut înseamnă „a muri”. Un copil a murit noaptea; moartea nu are martori. Lupta dintre cele două femei pornește de la această moarte tăcută.",
+       "greek": "ἀποθνήσκω (apothnesko)",
+       "greek_def_ro": "ἀποθνήσκω (apothnesko) — a muri"
       },
       {
        "t": " "
       },
       {
-       "t": "noaptea,",
-       "w": "noaptea,",
+       "t": "noaptea",
+       "w": "noaptea",
        "heb": "לָיְלָה",
        "translit": "laila",
        "strong": "H3915",
        "pos": "substantiv, masculin singular",
-       "def_ro": "noaptea, (laila)",
-       "dict_ro": "Moartea accidentală a copilului, prin sufocare în somn, declanșează disputa pentru copilul rămas în viață.",
-       "greek": "ἀπέθανεν ὁ υἱὸς τῆς γυναικὸς ταύτης τὴν νύκτα (apethanen ho hyios tes gynaikos tautes ten nykta)",
-       "greek_def_ro": "ἀπέθανεν ὁ υἱὸς τῆς γυναικὸς ταύτης τὴν νύκτα (apethanen ho hyios tes gynaikos tautes ten nykta) — a murit fiul femeii acesteia noaptea."
+       "def_ro": "noaptea",
+       "dict_ro": "Laila înseamnă „noapte”: „întunericului i-a zis noapte” (Geneza 1:5). Moartea copilului și schimbarea lui se petrec noaptea, în întuneric, ceea ce explică lipsa oricărui martor.",
+       "greek": "νύξ (nyx)",
+       "greek_def_ro": "νύξ (nyx) — noapte"
       },
       {
-       "t": " "
-      },
-      {
-       "t": "pentru că",
-       "w": "pentru că",
-       "heb": "אֲשֶׁר",
-       "translit": "așer",
-       "strong": "H834",
-       "pos": "particulă relativă",
-       "def_ro": "căci (așer)",
-       "dict_ro": "Moartea accidentală a copilului, prin sufocare în somn, declanșează disputa pentru copilul rămas în viață."
-      },
-      {
-       "t": " "
+       "t": ", pentru că "
       },
       {
        "t": "s-a culcat",
@@ -49679,25 +49607,13 @@
        "translit": "șahva",
        "strong": "H7901",
        "pos": "verb, qal perfect",
-       "def_ro": "s-a culcat (șahva)",
-       "dict_ro": "Moartea accidentală a copilului, prin sufocare în somn, declanșează disputa pentru copilul rămas în viață.",
-       "greek": "ἐπεκοιμήθη ἐπ᾽ αὐτόν (epekoimethe ep auton)",
-       "greek_def_ro": "ἐπεκοιμήθη ἐπ᾽ αὐτόν (epekoimethe ep auton) — s-a culcat peste el."
+       "def_ro": "a dormit",
+       "dict_ro": "Șakav înseamnă „a se culca”. Femeia s-a culcat peste copil și l-a sufocat în somn; apoi cealaltă a pus copilul mort la sânul ei.",
+       "greek": "ἐπικοιμάομαι (epikoimaomai)",
+       "greek_def_ro": "ἐπικοιμάομαι (epikoimaomai) — a se culca peste"
       },
       {
-       "t": " "
-      },
-      {
-       "t": "peste el.",
-       "w": "peste el.",
-       "heb": "עָלָיו",
-       "translit": "alaiv",
-       "strong": "H5921",
-       "pos": "prepoziție + sufix",
-       "def_ro": "peste el. (alaiv)",
-       "dict_ro": "Moartea accidentală a copilului, prin sufocare în somn, declanșează disputa pentru copilul rămas în viață.",
-       "greek": "ἐπεκοιμήθη ἐπ᾽ αὐτόν (epekoimethe ep auton)",
-       "greek_def_ro": "ἐπεκοιμήθη ἐπ᾽ αὐτόν (epekoimethe ep auton) — s-a culcat peste el."
+       "t": " peste el."
       }
      ],
      "textCompare": [
@@ -49738,16 +49654,19 @@
      "translit": "Vatakom betoh halaila vatikah et-beni mēetzli vaamatha ieșēna vatașkivēhu behēika veet-bena hamēt hișkiva vehēiki.",
      "tokens": [
       {
-       "t": "Ea s-a sculat",
-       "w": "Ea s-a sculat",
+       "t": "Ea "
+      },
+      {
+       "t": "s-a sculat",
+       "w": "s-a sculat",
        "heb": "וַתָּקָם",
        "translit": "vatakam",
        "strong": "H6965",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și s-a sculat (vatakam)",
-       "dict_ro": "Potrivit relatării primei femei, schimbul copiilor s-a petrecut în timpul nopții, fără știrea ei, profitând de somnul ei.",
-       "greek": "ἀνέστη μέσης τῆς νυκτὸς (aneste meses tes nyktos)",
-       "greek_def_ro": "ἀνέστη μέσης τῆς νυκτὸς (aneste meses tes nyktos) — s-a sculat în miezul nopții."
+       "def_ro": "s-a ridicat",
+       "dict_ro": "Qum înseamnă „a se scula, a se ridica”. Femeia se scoală în mijlocul nopții ca să facă schimbul copiilor; mărturia mamei trezite dimineața scoate la iveală înșelăciunea.",
+       "greek": "ἀνίστημι (anistemi)",
+       "greek_def_ro": "ἀνίστημι (anistemi) — a se ridica"
       },
       {
        "t": " "
@@ -49757,141 +49676,114 @@
        "w": "în timpul nopții",
        "heb": "בְּתוֹךְ הַלַּיְלָה",
        "translit": "betoh halaila",
-       "strong": "H3915",
+       "strong": "H8432",
        "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
-       "def_ro": "în mijlocul nopții (betoh halaila)",
-       "dict_ro": "Potrivit relatării primei femei, schimbul copiilor s-a petrecut în timpul nopții, profitând de somnul ei."
+       "def_ro": "în mijlocul nopții",
+       "dict_ro": "„Betoh halaila” înseamnă „în mijlocul nopții”. Fapta este săvârșită în cea mai adâncă noapte, când somnul este cel mai greu și nimeni nu observă.",
+       "greek": "μέσος νύξ (mesos nyx)",
+       "greek_def_ro": "μέσος νύξ (mesos nyx) — în mijlocul nopții"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și l-a luat",
-       "w": "și l-a luat",
+       "t": "l-a luat",
+       "w": "l-a luat",
        "heb": "וַתִּקַּח",
        "translit": "vatikah",
        "strong": "H3947",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a luat (vatikah)",
-       "dict_ro": "Potrivit relatării primei femei, schimbul copiilor s-a petrecut în timpul nopții, profitând de somnul ei.",
-       "greek": "ἔλαβεν τὸν υἱόν μου ἐκ τῶν ἀγκαλῶν μου (elaben ton hyion mou ek ton ankalon mou)",
-       "greek_def_ro": "ἔλαβεν τὸν υἱόν μου ἐκ τῶν ἀγκαλῶν μου (elaben ton hyion mou ek ton ankalon mou) — a luat pe fiul meu din brațele mele."
+       "def_ro": "a luat",
+       "dict_ro": "Lakah înseamnă „a lua”. Femeia a luat copilul viu de lângă cealaltă, în timp ce aceasta dormea, și l-a înlocuit cu cel mort.",
+       "greek": "λαμβάνω (lambano)",
+       "greek_def_ro": "λαμβάνω (lambano) — a lua"
       },
       {
-       "t": " "
+       "t": " pe "
       },
       {
-       "t": "pe copilul meu",
-       "w": "pe copilul meu",
+       "t": "copilul meu",
+       "w": "copilul meu",
        "heb": "בְּנִי",
        "translit": "beni",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "fiul meu (beni)",
-       "dict_ro": "Potrivit relatării primei femei, schimbul copiilor s-a petrecut în timpul nopții, profitând de somnul ei.",
-       "greek": "ἔλαβεν τὸν υἱόν μου ἐκ τῶν ἀγκαλῶν μου (elaben ton hyion mou ek ton ankalon mou)",
-       "greek_def_ro": "ἔλαβεν τὸν υἱόν μου ἐκ τῶν ἀγκαλῶν μου (elaben ton hyion mou ek ton ankalon mou) — a luat pe fiul meu din brațele mele."
+       "def_ro": "fiul meu",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": " de lângă mine, în timp ce "
       },
       {
-       "t": "de lângă mine,",
-       "w": "de lângă mine,",
-       "heb": "מֵאֶצְלִי",
-       "translit": "mēețli",
-       "strong": "H681",
-       "pos": "prepoziție + sufix",
-       "def_ro": "de lângă mine, (mēețli)",
-       "dict_ro": "Potrivit relatării primei femei, schimbul copiilor s-a petrecut în timpul nopții, profitând de somnul ei.",
-       "greek": "ἔλαβεν τὸν υἱόν μου ἐκ τῶν ἀγκαλῶν μου (elaben ton hyion mou ek ton ankalon mou)",
-       "greek_def_ro": "ἔλαβεν τὸν υἱόν μου ἐκ τῶν ἀγκαλῶν μου (elaben ton hyion mou ek ton ankalon mou) — a luat pe fiul meu din brațele mele."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "în timp ce slujitoarea ta",
-       "w": "în timp ce slujitoarea ta",
+       "t": "slujitoarea ta",
+       "w": "slujitoarea ta",
        "heb": "וַאֲמָתְךָ",
        "translit": "vaamatha",
        "strong": "H519",
        "pos": "substantiv, feminin singular construct + sufix",
-       "def_ro": "și slujnica ta (vaamatha)",
-       "dict_ro": "Prima femeie insistă că întreaga confuzie e vina celeilalte, care ar fi dormit și ar fi făcut schimbul."
+       "def_ro": "roaba ta",
+       "dict_ro": "Ama înseamnă „roabă, slujnică”: Rut se numește astfel (Rut 3:9). Femeia vorbește despre ea însăși ca despre „slujnica ta”, într-o formulă de smerenie față de rege.",
+       "diff_ro": "Septuaginta nu are „în timp ce slujitoarea ta dormea”; are „din brațele mele” (ἐκ τῶν ἀγκαλῶν μου)."
       },
       {
        "t": " "
       },
       {
-       "t": "dormea,",
-       "w": "dormea,",
+       "t": "dormea",
+       "w": "dormea",
        "heb": "יְשֵׁנָה",
        "translit": "ieșēna",
        "strong": "H3463",
        "pos": "adjectiv, feminin singular",
-       "def_ro": "dormea, (ieșēna)",
-       "dict_ro": "Prima femeie insistă că întreaga confuzie e vina celeilalte, care ar fi dormit și ar fi făcut schimbul."
+       "def_ro": "dormea",
+       "dict_ro": "Iașen înseamnă „adormit, dormind”: „eu dorm, dar inima mea veghează” (Cântarea cântărilor 5:2). Femeia spune că dormea când a fost luat copilul, adică n-a putut vedea schimbul."
       },
       {
-       "t": " "
+       "t": ", și "
       },
       {
-       "t": "și l-a culcat",
-       "w": "și l-a culcat",
+       "t": "l-a culcat",
+       "w": "l-a culcat",
        "heb": "וַתַּשְׁכִּיבֵהוּ",
        "translit": "vatașkivēhu",
        "strong": "H7901",
        "pos": "verb, hifil imperfect consecutiv + sufix",
-       "def_ro": "și l-a culcat (vatașkivēhu)",
-       "dict_ro": "Prima femeie insistă că întreaga confuzie e vina celeilalte, care ar fi dormit și ar fi făcut schimbul.",
-       "greek": "ἐκοίμισεν αὐτὸν ἐν τῷ κόλπῳ αὐτῆς (ekoimisen auton en to kolpo autes)",
-       "greek_def_ro": "ἐκοίμισεν αὐτὸν ἐν τῷ κόλπῳ αὐτῆς (ekoimisen auton en to kolpo autes) — l-a culcat în sânul ei."
+       "def_ro": "l-a culcat",
+       "dict_ro": "Șakav înseamnă „a se culca”. Femeia s-a culcat peste copil și l-a sufocat în somn; apoi cealaltă a pus copilul mort la sânul ei.",
+       "greek": "κοιμίζω (koimizo)",
+       "greek_def_ro": "κοιμίζω (koimizo) — a culca"
       },
       {
-       "t": " "
+       "t": " la "
       },
       {
-       "t": "la sânul ei;",
-       "w": "la sânul ei;",
+       "t": "sânul ei",
+       "w": "sânul ei",
        "heb": "בְּחֵיקָהּ",
        "translit": "behēkah",
        "strong": "H2436",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "la pieptul ei; (behēkah)",
-       "dict_ro": "Prima femeie insistă că întreaga confuzie e vina celeilalte, care ar fi dormit și ar fi făcut schimbul.",
-       "greek": "ἐκοίμισεν αὐτὸν ἐν τῷ κόλπῳ αὐτῆς (ekoimisen auton en to kolpo autes)",
-       "greek_def_ro": "ἐκοίμισεν αὐτὸν ἐν τῷ κόλπῳ αὐτῆς (ekoimisen auton en to kolpo autes) — l-a culcat în sânul ei."
+       "def_ro": "sânul ei",
+       "dict_ro": "Heq înseamnă „sân, poală”: Naomi pune pruncul „în sânul ei” (Rut 4:16). Copilul mort este pus la sânul unei mame, iar copilul viu la sânul celeilalte.",
+       "greek": "κόλπος (kolpos)",
+       "greek_def_ro": "κόλπος (kolpos) — sân"
       },
       {
-       "t": " "
+       "t": "; iar pe "
       },
       {
-       "t": "iar pe copilul",
-       "w": "iar pe copilul",
-       "heb": "בְּנָהּ",
-       "translit": "benah",
+       "t": "copilul mort",
+       "w": "copilul mort",
+       "heb": "בְּנָהּ הַמֵּת",
+       "translit": "benah hamēt",
        "strong": "H1121",
-       "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "și pe fiul ei, (benah)",
-       "dict_ro": "Schimbul descris ar explica de ce fiecare femeie crede sincer că copilul viu e al ei.",
-       "greek": "τὸν υἱὸν αὐτῆς τὸν τεθνηκότα ἐκοίμισεν ἐν τῷ κόλπῳ μου (ton hyion autes ton tethnekota ekoimisen en to kolpo mou)",
-       "greek_def_ro": "τὸν υἱὸν αὐτῆς τὸν τεθνηκότα ἐκοίμισεν ἐν τῷ κόλπῳ μου (ton hyion autes ton tethnekota ekoimisen en to kolpo mou) — pe fiul ei cel mort l-a culcat în sânul meu."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "mort",
-       "w": "mort",
-       "heb": "הַמֵּת",
-       "translit": "hamēt",
-       "strong": "H4191",
-       "pos": "verb, qal participiu",
-       "def_ro": "mort, (hamēt)",
-       "dict_ro": "Schimbul descris ar explica de ce fiecare femeie crede sincer că copilul viu e al ei.",
-       "greek": "τὸν υἱὸν αὐτῆς τὸν τεθνηκότα ἐκοίμισεν ἐν τῷ κόλπῳ μου (ton hyion autes ton tethnekota ekoimisen en to kolpo mou)",
-       "greek_def_ro": "τὸν υἱὸν αὐτῆς τὸν τεθνηκότα ἐκοίμισεν ἐν τῷ κόλπῳ μου (ton hyion autes ton tethnekota ekoimisen en to kolpo mou) — pe fiul ei cel mort l-a culcat în sânul meu."
+       "pos": "substantiv, masculin singular construct + sufix + verb, qal participiu",
+       "def_ro": "fiul ei cel mort",
+       "dict_ro": "„Beno hamet” înseamnă „fiul ei cel mort”. Moartea copilului este faptul incontestabil din care pornește totul; ce se contestă este al cui era copilul.",
+       "greek": "υἱὸς τεθνηκώς (hyios tethnekos)",
+       "greek_def_ro": "υἱὸς τεθνηκώς (hyios tethnekos) — fiul mort"
       },
       {
        "t": " "
@@ -49903,25 +49795,28 @@
        "translit": "hișkiva",
        "strong": "H7901",
        "pos": "verb, hifil perfect",
-       "def_ro": "l-a culcat (hișkiva)",
-       "dict_ro": "Schimbul descris ar explica de ce fiecare femeie crede sincer că copilul viu e al ei.",
-       "greek": "τὸν υἱὸν αὐτῆς τὸν τεθνηκότα ἐκοίμισεν ἐν τῷ κόλπῳ μου (ton hyion autes ton tethnekota ekoimisen en to kolpo mou)",
-       "greek_def_ro": "τὸν υἱὸν αὐτῆς τὸν τεθνηκότα ἐκοίμισεν ἐν τῷ κόλπῳ μου (ton hyion autes ton tethnekota ekoimisen en to kolpo mou) — pe fiul ei cel mort l-a culcat în sânul meu."
+       "def_ro": "a culcat",
+       "dict_ro": "Șakav înseamnă „a se culca”. Femeia s-a culcat peste copil și l-a sufocat în somn; apoi cealaltă a pus copilul mort la sânul ei.",
+       "greek": "κοιμίζω (koimizo)",
+       "greek_def_ro": "κοιμίζω (koimizo) — a culca"
       },
       {
-       "t": " "
+       "t": " la "
       },
       {
-       "t": "la sânul meu.",
-       "w": "la sânul meu.",
+       "t": "sânul meu",
+       "w": "sânul meu",
        "heb": "בְחֵיקִי",
        "translit": "vehēki",
        "strong": "H2436",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "la pieptul meu. (vehēki)",
-       "dict_ro": "Schimbul descris ar explica de ce fiecare femeie crede sincer că copilul viu e al ei.",
-       "greek": "τὸν υἱὸν αὐτῆς τὸν τεθνηκότα ἐκοίμισεν ἐν τῷ κόλπῳ μου (ton hyion autes ton tethnekota ekoimisen en to kolpo mou)",
-       "greek_def_ro": "τὸν υἱὸν αὐτῆς τὸν τεθνηκότα ἐκοίμισεν ἐν τῷ κόλπῳ μου (ton hyion autes ton tethnekota ekoimisen en to kolpo mou) — pe fiul ei cel mort l-a culcat în sânul meu."
+       "def_ro": "sânul meu",
+       "dict_ro": "Heq înseamnă „sân, poală”: Naomi pune pruncul „în sânul ei” (Rut 4:16). Copilul mort este pus la sânul unei mame, iar copilul viu la sânul celeilalte.",
+       "greek": "κόλπος (kolpos)",
+       "greek_def_ro": "κόλπος (kolpos) — sân"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -49963,16 +49858,19 @@
      "translit": "Vaakum baboker lehēinik et-beni vehinē-mēt vaetbonēn ēlav baboker vehinē lo-haia veni așer ialadti.",
      "tokens": [
       {
-       "t": "Și când m-am sculat",
-       "w": "Și când m-am sculat",
+       "t": "Și când "
+      },
+      {
+       "t": "m-am sculat",
+       "w": "m-am sculat",
        "heb": "וָאָקֻם",
        "translit": "vaakum",
        "strong": "H6965",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și m-am sculat (vaakum)",
-       "dict_ro": "Descoperirea copilului mort dimineața, urmată de privirea atentă, confirmă pentru prima femeie că acesta nu e fiul ei.",
-       "greek": "ἀνέστην τὸ πρωὶ θηλάσαι τὸν υἱόν μου (anesten to proi thelasai ton hyion mou)",
-       "greek_def_ro": "ἀνέστην τὸ πρωὶ θηλάσαι τὸν υἱόν μου (anesten to proi thelasai ton hyion mou) — m-am sculat dimineața să alăptez pe fiul meu."
+       "def_ro": "m-am sculat",
+       "dict_ro": "Qum înseamnă „a se scula, a se ridica”. Femeia se scoală în mijlocul nopții ca să facă schimbul copiilor; mărturia mamei trezite dimineața scoate la iveală înșelăciunea.",
+       "greek": "ἀνίστημι (anistemi)",
+       "greek_def_ro": "ἀνίστημι (anistemi) — a se ridica"
       },
       {
        "t": " "
@@ -49984,10 +49882,10 @@
        "translit": "baboker",
        "strong": "H1242",
        "pos": "substantiv, masculin singular",
-       "def_ro": "dimineața (baboker)",
-       "dict_ro": "Descoperirea copilului mort dimineața, urmată de privirea atentă, confirmă pentru prima femeie că acesta nu e fiul ei.",
-       "greek": "ἀνέστην τὸ πρωὶ θηλάσαι τὸν υἱόν μου (anesten to proi thelasai ton hyion mou)",
-       "greek_def_ro": "ἀνέστην τὸ πρωὶ θηλάσαι τὸν υἱόν μου (anesten to proi thelasai ton hyion mou) — m-am sculat dimineața să alăptez pe fiul meu."
+       "def_ro": "dimineața",
+       "dict_ro": "Boqer înseamnă „dimineață”: „și a fost seară și a fost dimineață” (Geneza 1:5). Dimineața aduce descoperirea: copilul de lângă femeie e mort, iar când se uită bine, vede că nu este al ei.",
+       "greek": "πρωί (proi)",
+       "greek_def_ro": "πρωί (proi) — dimineață"
       },
       {
        "t": " "
@@ -49999,174 +49897,118 @@
        "translit": "lehēnik",
        "strong": "H3243",
        "pos": "verb, hifil infinitiv",
-       "def_ro": "să alăptez (lehēnik)",
-       "dict_ro": "Descoperirea copilului mort dimineața, urmată de privirea atentă, confirmă pentru prima femeie că acesta nu e fiul ei.",
-       "greek": "ἀνέστην τὸ πρωὶ θηλάσαι τὸν υἱόν μου (anesten to proi thelasai ton hyion mou)",
-       "greek_def_ro": "ἀνέστην τὸ πρωὶ θηλάσαι τὸν υἱόν μου (anesten to proi thelasai ton hyion mou) — m-am sculat dimineața să alăptez pe fiul meu."
+       "def_ro": "ca să alăptez",
+       "dict_ro": "Ianaq, la forma cauzativă, înseamnă „a alăpta”: „ca să-ți alăpteze copilul” (Exodul 2:7). Dimineața femeia își ia copilul la sân să-l alăpteze și descoperă că este mort.",
+       "greek": "θηλάζω (thelazo)",
+       "greek_def_ro": "θηλάζω (thelazo) — a alăpta"
       },
       {
        "t": " "
       },
       {
-       "t": "copilul,",
-       "w": "copilul,",
+       "t": "copilul",
+       "w": "copilul",
        "heb": "בְּנִי",
        "translit": "beni",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "fiul meu, (beni)",
-       "dict_ro": "Descoperirea copilului mort dimineața, urmată de privirea atentă, confirmă pentru prima femeie că acesta nu e fiul ei.",
-       "greek": "ἀνέστην τὸ πρωὶ θηλάσαι τὸν υἱόν μου (anesten to proi thelasai ton hyion mou)",
-       "greek_def_ro": "ἀνέστην τὸ πρωὶ θηλάσαι τὸν υἱόν μου (anesten to proi thelasai ton hyion mou) — m-am sculat dimineața să alăptez pe fiul meu."
+       "def_ro": "fiul meu",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": ", iată, era "
       },
       {
-       "t": "iată,",
-       "w": "iată,",
-       "heb": "וְהִנֵּה",
-       "translit": "vehinē",
-       "strong": "H2009",
-       "pos": "particulă demonstrativă",
-       "def_ro": "iată, (vehinē)",
-       "dict_ro": "Descoperirea copilului mort dimineața, urmată de privirea atentă, confirmă pentru prima femeie că acesta nu e fiul ei.",
-       "greek": "ἐκεῖνος ἦν τεθνηκώς (ekeinos en tethnekos)",
-       "greek_def_ro": "ἐκεῖνος ἦν τεθνηκώς (ekeinos en tethnekos) — acela era mort."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "era mort.",
-       "w": "era mort.",
+       "t": "mort",
+       "w": "mort",
        "heb": "מֵת",
        "translit": "mēt",
        "strong": "H4191",
        "pos": "verb, qal perfect",
-       "def_ro": "[era] mort. (mēt)",
-       "dict_ro": "Descoperirea copilului mort dimineața, urmată de privirea atentă, confirmă pentru prima femeie că acesta nu e fiul ei.",
-       "greek": "ἐκεῖνος ἦν τεθνηκώς (ekeinos en tethnekos)",
-       "greek_def_ro": "ἐκεῖνος ἦν τεθνηκώς (ekeinos en tethnekos) — acela era mort."
+       "def_ro": "mort",
+       "dict_ro": "Mut înseamnă „a muri”. Un copil a murit noaptea; moartea nu are martori. Lupta dintre cele două femei pornește de la această moarte tăcută.",
+       "greek": "θνῄσκω (thnesko)",
+       "greek_def_ro": "θνῄσκω (thnesko) — a muri (mort)"
       },
       {
-       "t": " "
+       "t": ". Și când "
       },
       {
-       "t": "Și când m-am uitat bine",
-       "w": "Și când m-am uitat bine",
+       "t": "m-am uitat bine",
+       "w": "m-am uitat bine",
        "heb": "וָאֶתְבּוֹנֵן",
        "translit": "vaetbonēn",
        "strong": "H995",
        "pos": "verb, hitpolel imperfect consecutiv",
-       "def_ro": "și m-am uitat atent (vaetbonēn)",
-       "dict_ro": "Privirea atentă, deliberată, exclude posibilitatea unei confuzii grăbite din partea primei femei.",
-       "greek": "κατενόησα αὐτὸν πρωί (katenoesa auton proi)",
-       "greek_def_ro": "κατενόησα αὐτὸν πρωί (katenoesa auton proi) — l-am cercetat bine dimineața."
+       "def_ro": "m-am uitat cu luare-aminte",
+       "dict_ro": "Bin înseamnă a deosebi, a vedea diferența dintre lucruri — de aici bina, „pricepere”. Înrudit e cuvântul bein, „între”: a înțelege înseamnă a ști să desparți un lucru de altul.",
+       "greek": "κατανοέω (katanoeo)",
+       "greek_def_ro": "κατανοέω (katanoeo) — a observa bine"
       },
       {
-       "t": " "
+       "t": " la el "
       },
       {
-       "t": "la el",
-       "w": "la el",
-       "heb": "אֵלָיו",
-       "translit": "ēlaiv",
-       "strong": "H413",
-       "pos": "prepoziție + sufix",
-       "def_ro": "la el (ēlaiv)",
-       "dict_ro": "Privirea atentă, deliberată, exclude posibilitatea unei confuzii grăbite din partea primei femei.",
-       "greek": "κατενόησα αὐτὸν πρωί (katenoesa auton proi)",
-       "greek_def_ro": "κατενόησα αὐτὸν πρωί (katenoesa auton proi) — l-am cercetat bine dimineața."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "de dimineață,",
-       "w": "de dimineață,",
+       "t": "de dimineață",
+       "w": "de dimineață",
        "heb": "בַּבֹּקֶר",
        "translit": "baboker",
        "strong": "H1242",
        "pos": "substantiv, masculin singular",
-       "def_ro": "dimineața, (baboker)",
-       "dict_ro": "Privirea atentă, deliberată, exclude posibilitatea unei confuzii grăbite din partea primei femei.",
-       "greek": "ἀνέστην τὸ πρωὶ θηλάσαι τὸν υἱόν μου (anesten to proi thelasai ton hyion mou)",
-       "greek_def_ro": "ἀνέστην τὸ πρωὶ θηλάσαι τὸν υἱόν μου (anesten to proi thelasai ton hyion mou) — m-am sculat dimineața să alăptez pe fiul meu."
+       "def_ro": "dimineața",
+       "dict_ro": "Boqer înseamnă „dimineață”: „și a fost seară și a fost dimineață” (Geneza 1:5). Dimineața aduce descoperirea: copilul de lângă femeie e mort, iar când se uită bine, vede că nu este al ei.",
+       "greek": "πρωί (proi)",
+       "greek_def_ro": "πρωί (proi) — dimineață"
       },
       {
-       "t": " "
+       "t": ", iată, nu "
       },
       {
-       "t": "iată,",
-       "w": "iată,",
-       "heb": "וְהִנֵּה",
-       "translit": "vehinē",
-       "strong": "H2009",
-       "pos": "particulă demonstrativă",
-       "def_ro": "iată, (vehinē)",
-       "dict_ro": "Privirea atentă, deliberată, exclude posibilitatea unei confuzii grăbite din partea primei femei.",
-       "greek": "ἐκεῖνος ἦν τεθνηκώς (ekeinos en tethnekos)",
-       "greek_def_ro": "ἐκεῖνος ἦν τεθνηκώς (ekeinos en tethnekos) — acela era mort."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "nu era",
-       "w": "nu era",
-       "heb": "לֹא הָיָה",
-       "translit": "lo haia",
+       "t": "era",
+       "w": "era",
+       "heb": "הָיָה",
+       "translit": "haia",
        "strong": "H1961",
-       "pos": "particulă negativă + verb, qal perfect",
-       "def_ro": "nu a fost (lo haia)",
-       "dict_ro": "Privirea atentă, deliberată, exclude posibilitatea unei confuzii grăbite din partea primei femei."
+       "pos": "verb, qal perfect",
+       "def_ro": "a fost",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "εἰμί (eimi)",
+       "greek_def_ro": "εἰμί (eimi) — a fi"
       },
       {
        "t": " "
       },
       {
-       "t": "copilul meu,",
-       "w": "copilul meu,",
+       "t": "copilul meu",
+       "w": "copilul meu",
        "heb": "בְנִי",
        "translit": "veni",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "fiul meu, (veni)",
-       "dict_ro": "Privirea atentă, deliberată, exclude posibilitatea unei confuzii grăbite din partea primei femei.",
-       "greek": "οὐκ ἦν ὁ υἱός μου ὃν ἔτεκον (ouk en ho hyios mou hon etekon)",
-       "greek_def_ro": "οὐκ ἦν ὁ υἱός μου ὃν ἔτεκον (ouk en ho hyios mou hon etekon) — nu era fiul meu pe care l-am născut."
+       "def_ro": "fiul meu",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": ", pe care îl "
       },
       {
-       "t": "pe care",
-       "w": "pe care",
-       "heb": "אֲשֶׁר",
-       "translit": "așer",
-       "strong": "H834",
-       "pos": "particulă relativă",
-       "def_ro": "pe care (așer)",
-       "dict_ro": "Privirea atentă, deliberată, exclude posibilitatea unei confuzii grăbite din partea primei femei."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "îl născusem.",
-       "w": "îl născusem.",
+       "t": "născusem",
+       "w": "născusem",
        "heb": "יָלָדְתִּי",
        "translit": "ialadti",
        "strong": "H3205",
        "pos": "verb, qal perfect",
-       "def_ro": "l-am născut. (ialadti)",
-       "dict_ro": "Privirea atentă, deliberată, exclude posibilitatea unei confuzii grăbite din partea primei femei.",
-       "greek": "οὐκ ἦν ὁ υἱός μου ὃν ἔτεκον (ouk en ho hyios mou hon etekon)",
-       "greek_def_ro": "οὐκ ἦν ὁ υἱός μου ὃν ἔτεκον (ouk en ho hyios mou hon etekon) — nu era fiul meu pe care l-am născut."
+       "def_ro": "am născut",
+       "dict_ro": "Ialad înseamnă „a naște”: Eva „a născut” pe Cain (Geneza 4:1). Fiecare femeie a născut un fiu în aceeași casă, la trei zile una după alta. Pricina pornește de aici.",
+       "greek": "τίκτω (tikto)",
+       "greek_def_ro": "τίκτω (tikto) — a naște"
       },
       {
-       "t": "”"
+       "t": ".”"
       }
      ],
      "textCompare": [
@@ -50215,45 +50057,37 @@
      "translit": "Vatomer haișa haaheret lo hi beni hahai uvenēh hamēt vezot omeret lo hi benēh hamēt uveni hehai vatedabērna lifnēi hameleh.",
      "tokens": [
       {
-       "t": "Dar cealaltă femeie",
-       "w": "Dar cealaltă femeie",
+       "t": "Dar "
+      },
+      {
+       "t": "cealaltă femeie",
+       "w": "cealaltă femeie",
        "heb": "הָאִשָּׁה הָאַחֶרֶת",
        "translit": "haișa haaheret",
-       "strong": "H312",
+       "strong": "H802",
        "pos": "substantiv, feminin singular + adjectiv, feminin singular",
-       "def_ro": "și femeia cealaltă (haișa haaheret)",
-       "dict_ro": "A doua femeie contrazice direct, afirmând exact opusul, fără alt martor sau dovadă decât propria sa afirmație."
+       "def_ro": "femeia cealaltă",
+       "dict_ro": "„Haișa haaheret” înseamnă „cealaltă femeie”. Textul nu o numește altfel: este „cealaltă”, în opoziție cu prima. Cele două sunt simetrice în ochii judecătorului.",
+       "greek": "γυνὴ ἕτερος (gyne heteros)",
+       "greek_def_ro": "γυνὴ ἕτερος (gyne heteros) — cealaltă femeie"
       },
       {
        "t": " "
       },
       {
-       "t": "a spus:",
-       "w": "a spus:",
+       "t": "a spus",
+       "w": "a spus",
        "heb": "וַתֹּאמֶר",
        "translit": "vatomer",
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a spus: (vatomer)",
-       "dict_ro": "A doua femeie contrazice direct, afirmând exact opusul, fără alt martor sau dovadă decât propria sa afirmație.",
-       "greek": "εἶπεν ἡ γυνὴ ἡ ἑτέρα Οὐχί (eipen he gyne he hetera Ouchi)",
-       "greek_def_ro": "εἶπεν ἡ γυνὴ ἡ ἑτέρα Οὐχί (eipen he gyne he hetera Ouchi) — a spus cealaltă femeie: nu!"
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
-       "t": " "
-      },
-      {
-       "t": "„Nu-i așa!",
-       "w": "„Nu-i așa!",
-       "heb": "לֹא כִי",
-       "translit": "lo hi",
-       "strong": "H3588",
-       "pos": "particulă negativă + conjuncție",
-       "def_ro": "nu, căci (lo hi)",
-       "dict_ro": "Contrazicerea directă și simetrică a celor două femei face imposibilă o soluție bazată pe mărturie obișnuită."
-      },
-      {
-       "t": " "
+       "t": ": „Nu-i așa! "
       },
       {
        "t": "Copilul meu",
@@ -50262,84 +50096,73 @@
        "translit": "beni",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "fiul meu (beni)",
-       "dict_ro": "Contrazicerea directă și simetrică a celor două femei face imposibilă o soluție bazată pe mărturie obișnuită.",
-       "greek": "ὁ υἱός μου ὁ ζῶν, ὁ δὲ υἱός σου ὁ τεθνηκώς (ho hyios mou ho zon, ho de hyios sou ho tethnekos)",
-       "greek_def_ro": "ὁ υἱός μου ὁ ζῶν, ὁ δὲ υἱός σου ὁ τεθνηκώς (ho hyios mou ho zon, ho de hyios sou ho tethnekos) — fiul meu e cel viu, fiul tău e cel mort."
+       "def_ro": "fiul meu",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": " este cel "
       },
       {
-       "t": "este cel viu",
-       "w": "este cel viu",
+       "t": "viu",
+       "w": "viu",
        "heb": "הַחַי",
        "translit": "hahai",
        "strong": "H2416",
        "pos": "adjectiv, masculin singular",
-       "def_ro": "[este] cel viu (hahai)",
-       "dict_ro": "Contrazicerea directă și simetrică a celor două femei face imposibilă o soluție bazată pe mărturie obișnuită.",
-       "greek": "ὁ υἱός μου ὁ ζῶν, ὁ δὲ υἱός σου ὁ τεθνηκώς (ho hyios mou ho zon, ho de hyios sou ho tethnekos)",
-       "greek_def_ro": "ὁ υἱός μου ὁ ζῶν, ὁ δὲ υἱός σου ὁ τεθνηκώς (ho hyios mou ho zon, ho de hyios sou ho tethnekos) — fiul meu e cel viu, fiul tău e cel mort."
+       "def_ro": "cel viu",
+       "dict_ro": "Hai înseamnă „viu”. Miza întregii judecăți este copilul „cel viu”; fiecare femeie spune că al ei este cel viu și al celeilalte cel mort. Viața copilului este singurul lucru care nu se poate împărți.",
+       "greek": "ζάω (zao)",
+       "greek_def_ro": "ζάω (zao) — viu"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și copilul ei",
-       "w": "și copilul ei",
+       "t": "copilul ei",
+       "w": "copilul ei",
        "heb": "וּבְנֵךְ",
        "translit": "uvnēh",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "și fiul tău (uvnēh)",
-       "dict_ro": "Contrazicerea directă și simetrică a celor două femei face imposibilă o soluție bazată pe mărturie obișnuită.",
-       "greek": "ὁ υἱός μου ὁ ζῶν, ὁ δὲ υἱός σου ὁ τεθνηκώς (ho hyios mou ho zon, ho de hyios sou ho tethnekos)",
-       "greek_def_ro": "ὁ υἱός μου ὁ ζῶν, ὁ δὲ υἱός σου ὁ τεθνηκώς (ho hyios mou ho zon, ho de hyios sou ho tethnekos) — fiul meu e cel viu, fiul tău e cel mort."
+       "def_ro": "fiul tău",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu",
+       "diff_ro": "Ebraica: „copilul ei” (uvnah); Septuaginta: „fiul tău” (ὁ δὲ υἱός σου)."
       },
       {
-       "t": " "
+       "t": " este cel "
       },
       {
-       "t": "este cel mort!”",
-       "w": "este cel mort!”",
+       "t": "mort",
+       "w": "mort",
        "heb": "הַמֵּת",
        "translit": "hamēt",
        "strong": "H4191",
        "pos": "verb, qal participiu",
-       "def_ro": "[este] cel mort!” (hamēt)",
-       "dict_ro": "Contrazicerea directă și simetrică a celor două femei face imposibilă o soluție bazată pe mărturie obișnuită.",
-       "greek": "ὁ υἱός μου ὁ ζῶν, ὁ δὲ υἱός σου ὁ τεθνηκώς (ho hyios mou ho zon, ho de hyios sou ho tethnekos)",
-       "greek_def_ro": "ὁ υἱός μου ὁ ζῶν, ὁ δὲ υἱός σου ὁ τεθνηκώς (ho hyios mou ho zon, ho de hyios sou ho tethnekos) — fiul meu e cel viu, fiul tău e cel mort."
+       "def_ro": "cel mort",
+       "dict_ro": "Mut înseamnă „a muri”. Un copil a murit noaptea; moartea nu are martori. Lupta dintre cele două femei pornește de la această moarte tăcută.",
+       "greek": "θνῄσκω (thnesko)",
+       "greek_def_ro": "θνῄσκω (thnesko) — a muri (mort)"
       },
       {
-       "t": " "
+       "t": "!” Dar "
       },
       {
-       "t": "Dar prima a spus:",
-       "w": "Dar prima a spus:",
+       "t": "prima a spus",
+       "w": "prima a spus",
        "heb": "וְזֹאת אֹמֶרֶת",
        "translit": "vezot omeret",
-       "strong": "H559",
+       "strong": "H2063",
        "pos": "pronume demonstrativ + verb, qal participiu",
-       "def_ro": "și aceasta spune: (vezot omeret)",
-       "dict_ro": "Schimbul repetat de afirmații identice, fără progres, arată limitele anchetei obișnuite și pregătește soluția neconvențională a regelui."
+       "def_ro": "aceasta zice",
+       "dict_ro": "„Zot omeret” înseamnă „aceasta spune”. Regele repetă pe rând cele două pretenții, ca să le facă precise și să le pună față în față.",
+       "diff_ro": "Septuaginta nu are a doua replică („iar prima a spus: Nu-i așa! Copilul tău este cel mort, iar copilul meu este cel viu!”); păstrează o singură cerere a „celeilalte femei”."
       },
       {
-       "t": " "
-      },
-      {
-       "t": "„Nu-i așa!",
-       "w": "„Nu-i așa!",
-       "heb": "לֹא כִי",
-       "translit": "lo hi",
-       "strong": "H3588",
-       "pos": "particulă negativă + conjuncție",
-       "def_ro": "nu, căci (lo hi)",
-       "dict_ro": "Schimbul repetat de afirmații identice, fără progres, arată limitele anchetei obișnuite și pregătește soluția neconvențională a regelui."
-      },
-      {
-       "t": " "
+       "t": ": „Nu-i așa! "
       },
       {
        "t": "Copilul tău",
@@ -50348,77 +50171,80 @@
        "translit": "benēh",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "fiul tău (benēh)",
-       "dict_ro": "Schimbul repetat de afirmații identice, fără progres, arată limitele anchetei obișnuite și pregătește soluția neconvențională a regelui."
+       "def_ro": "fiul tău",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei."
       },
       {
-       "t": " "
+       "t": " este cel "
       },
       {
-       "t": "este cel mort,",
-       "w": "este cel mort,",
+       "t": "mort",
+       "w": "mort",
        "heb": "הַמֵּת",
        "translit": "hamēt",
        "strong": "H4191",
        "pos": "verb, qal participiu",
-       "def_ro": "[este] cel mort, (hamēt)",
-       "dict_ro": "Schimbul repetat de afirmații identice, fără progres, arată limitele anchetei obișnuite și pregătește soluția neconvențională a regelui.",
-       "greek": "ὁ υἱός μου ὁ ζῶν, ὁ δὲ υἱός σου ὁ τεθνηκώς (ho hyios mou ho zon, ho de hyios sou ho tethnekos)",
-       "greek_def_ro": "ὁ υἱός μου ὁ ζῶν, ὁ δὲ υἱός σου ὁ τεθνηκώς (ho hyios mou ho zon, ho de hyios sou ho tethnekos) — fiul meu e cel viu, fiul tău e cel mort."
+       "def_ro": "cel mort",
+       "dict_ro": "Mut înseamnă „a muri”. Un copil a murit noaptea; moartea nu are martori. Lupta dintre cele două femei pornește de la această moarte tăcută."
       },
       {
-       "t": " "
+       "t": ", iar "
       },
       {
-       "t": "iar copilul meu",
-       "w": "iar copilul meu",
+       "t": "copilul meu",
+       "w": "copilul meu",
        "heb": "וּבְנִי",
        "translit": "uvni",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "și fiul meu (uvni)",
-       "dict_ro": "Schimbul repetat de afirmații identice, fără progres, arată limitele anchetei obișnuite și pregătește soluția neconvențională a regelui."
+       "def_ro": "fiul meu",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei."
       },
       {
-       "t": " "
+       "t": " este cel "
       },
       {
-       "t": "este cel viu!”",
-       "w": "este cel viu!”",
+       "t": "viu",
+       "w": "viu",
        "heb": "הֶחָי",
        "translit": "hehai",
        "strong": "H2416",
        "pos": "adjectiv, masculin singular",
-       "def_ro": "[este] cel viu!” (hehai)",
-       "dict_ro": "Schimbul repetat de afirmații identice, fără progres, arată limitele anchetei obișnuite și pregătește soluția neconvențională a regelui."
+       "def_ro": "cel viu",
+       "dict_ro": "Hai înseamnă „viu”. Miza întregii judecăți este copilul „cel viu”; fiecare femeie spune că al ei este cel viu și al celeilalte cel mort. Viața copilului este singurul lucru care nu se poate împărți."
       },
       {
-       "t": " "
+       "t": "!” Și "
       },
       {
-       "t": "Și au continuat să vorbească",
-       "w": "Și au continuat să vorbească",
+       "t": "au continuat să vorbească",
+       "w": "au continuat să vorbească",
        "heb": "וַתְּדַבֵּרְנָה",
        "translit": "vatdabērna",
        "strong": "H1696",
        "pos": "verb, piel imperfect consecutiv",
-       "def_ro": "și au vorbit (vatdabērna)",
-       "dict_ro": "Disputa verbală continuă, fără nicio dovadă materială, direct în fața regelui, care trebuie să decidă.",
-       "greek": "ἐλάλησαν ἐνώπιον τοῦ βασιλέως (elalesan enopion tou basileos)",
-       "greek_def_ro": "ἐλάλησαν ἐνώπιον τοῦ βασιλέως (elalesan enopion tou basileos) — au vorbit înaintea regelui."
+       "def_ro": "au vorbit",
+       "dict_ro": "Dibber, la forma intensivă, înseamnă „a vorbi”. Cele două femei au vorbit în fața regelui, iar el, în loc să ia o hotărâre grăbită, le repetă cuvintele, ca să vadă unde este adevărul.",
+       "greek": "λαλέω (laleo)",
+       "greek_def_ro": "λαλέω (laleo) — a vorbi"
       },
       {
        "t": " "
       },
       {
-       "t": "în fața regelui.",
-       "w": "în fața regelui.",
+       "t": "în fața regelui",
+       "w": "în fața regelui",
        "heb": "לִפְנֵי הַמֶּלֶךְ",
        "translit": "lifnē hameleh",
-       "strong": "H4428",
+       "strong": "H6440",
        "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular",
-       "def_ro": "înaintea regelui. (lifnē hameleh)",
-       "dict_ro": "Disputa verbală continuă, fără nicio dovadă materială, direct în fața regelui, care trebuie să decidă."
+       "def_ro": "înaintea regelui",
+       "dict_ro": "„Lifnei hamelech” înseamnă „înaintea regelui”. A sta înaintea regelui înseamnă a-i cere judecata; în Israel regele era instanța supremă.",
+       "greek": "ἐνώπιον βασιλεύς (enopion basileus)",
+       "greek_def_ro": "ἐνώπιον βασιλεύς (enopion basileus) — înaintea regelui"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -50461,131 +50287,144 @@
      "translit": "Vaiomer hameleh zot omeret ze-beni hahai uvenēh hamēt vezot omeret lo hi benēh hamēt uveni hehai.",
      "tokens": [
       {
-       "t": "Și regele",
-       "w": "Și regele",
+       "t": "Și "
+      },
+      {
+       "t": "regele",
+       "w": "regele",
        "heb": "הַמֶּלֶךְ",
        "translit": "hameleh",
        "strong": "H4428",
        "pos": "substantiv, masculin singular",
-       "def_ro": "regele (hameleh)",
-       "dict_ro": "Regele rezumă cu exactitate afirmațiile contradictorii ale celor două femei, înainte de a propune testul decisiv.",
-       "greek": "εἶπεν ὁ βασιλεὺς αὐταῖς Σὺ λέγεις Οὗτος ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱὸς ταύτης ὁ τεθνηκώς (eipen ho basileus autais Sy legeis Houtos ho hyios mou ho zon, kai ho hyios tautes ho tethnekos)",
-       "greek_def_ro": "εἶπεν ὁ βασιλεὺς αὐταῖς Σὺ λέγεις Οὗτος ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱὸς ταύτης ὁ τεθνηκώς (eipen ho basileus autais Sy legeis Houtos ho hyios mou ho zon, kai ho hyios tautes ho tethnekos) — a spus regele: tu zici: acesta e fiul meu cel viu, și fiul acesteia e cel mort."
+       "def_ro": "regele",
+       "dict_ro": "Melek înseamnă „rege”. Cuvântul străbate tot episodul: femeile vin la rege, el judecă, iar Israelul se teme de rege. Regele este judecătorul suprem.",
+       "greek": "βασιλεύς (basileus)",
+       "greek_def_ro": "βασιλεύς (basileus) — rege"
       },
       {
        "t": " "
       },
       {
-       "t": "a spus:",
-       "w": "a spus:",
+       "t": "a spus",
+       "w": "a spus",
        "heb": "וַיֹּאמֶר",
        "translit": "vaiomer",
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a spus: (vaiomer)",
-       "dict_ro": "Regele rezumă cu exactitate afirmațiile contradictorii ale celor două femei, înainte de a propune testul decisiv.",
-       "greek": "εἶπεν ὁ βασιλεὺς αὐταῖς Σὺ λέγεις Οὗτος ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱὸς ταύτης ὁ τεθνηκώς (eipen ho basileus autais Sy legeis Houtos ho hyios mou ho zon, kai ho hyios tautes ho tethnekos)",
-       "greek_def_ro": "εἶπεν ὁ βασιλεὺς αὐταῖς Σὺ λέγεις Οὗτος ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱὸς ταύτης ὁ τεθνηκώς (eipen ho basileus autais Sy legeis Houtos ho hyios mou ho zon, kai ho hyios tautes ho tethnekos) — a spus regele: tu zici: acesta e fiul meu cel viu, și fiul acesteia e cel mort."
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
-       "t": " "
+       "t": ": „"
       },
       {
-       "t": "„Aceasta spune:",
-       "w": "„Aceasta spune:",
+       "t": "Aceasta spune",
+       "w": "Aceasta spune",
        "heb": "זֹאת אֹמֶרֶת",
        "translit": "zot omeret",
-       "strong": "H559",
+       "strong": "H2063",
        "pos": "pronume demonstrativ + verb, qal participiu",
-       "def_ro": "aceasta spune: (zot omeret)",
-       "dict_ro": "Regele rezumă cu exactitate afirmațiile contradictorii ale celor două femei, înainte de a propune testul decisiv."
+       "def_ro": "aceasta zice",
+       "dict_ro": "„Zot omeret” înseamnă „aceasta spune”. Regele repetă pe rând cele două pretenții, ca să le facă precise și să le pună față în față.",
+       "greek": "σὺ λέγω (sy lego)",
+       "greek_def_ro": "σὺ λέγω (sy lego) — tu spui",
+       "diff_ro": "Ebraica: „aceasta spune” (zot omeret); Septuaginta: „tu spui” (Σὺ λέγεις) — regele se adresează direct femeilor."
       },
       {
-       "t": " "
+       "t": ": «"
       },
       {
-       "t": "«Acesta este copilul meu,",
-       "w": "«Acesta este copilul meu,",
-       "heb": "זֶה בְּנִי",
-       "translit": "ze beni",
+       "t": "Acesta",
+       "w": "Acesta",
+       "heb": "זֶה",
+       "translit": "ze",
+       "strong": "H2088",
+       "pos": "pronume demonstrativ",
+       "def_ro": "acesta",
+       "dict_ro": "Ze înseamnă „acesta”. Regele ascultă pe rând și le arată cu degetul: „acesta e copilul meu, cel viu” — cele două pretenții identice ating ambele aceeași limită.",
+       "greek": "οὗτος (houtos)",
+       "greek_def_ro": "οὗτος (houtos) — acesta"
+      },
+      {
+       "t": " este "
+      },
+      {
+       "t": "copilul meu",
+       "w": "copilul meu",
+       "heb": "בְּנִי",
+       "translit": "beni",
        "strong": "H1121",
-       "pos": "pronume demonstrativ + substantiv, masculin singular construct + sufix",
-       "def_ro": "acesta fiul meu, (ze beni)",
-       "dict_ro": "Regele rezumă cu exactitate afirmațiile contradictorii ale celor două femei, înainte de a propune testul decisiv."
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "fiul meu",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": ", cel "
       },
       {
-       "t": "cel viu,",
-       "w": "cel viu,",
+       "t": "viu",
+       "w": "viu",
        "heb": "הַחַי",
        "translit": "hahai",
        "strong": "H2416",
        "pos": "adjectiv, masculin singular",
-       "def_ro": "cel viu, (hahai)",
-       "dict_ro": "Regele rezumă cu exactitate afirmațiile contradictorii ale celor două femei, înainte de a propune testul decisiv.",
-       "greek": "εἶπεν ὁ βασιλεὺς αὐταῖς Σὺ λέγεις Οὗτος ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱὸς ταύτης ὁ τεθνηκώς (eipen ho basileus autais Sy legeis Houtos ho hyios mou ho zon, kai ho hyios tautes ho tethnekos)",
-       "greek_def_ro": "εἶπεν ὁ βασιλεὺς αὐταῖς Σὺ λέγεις Οὗτος ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱὸς ταύτης ὁ τεθνηκώς (eipen ho basileus autais Sy legeis Houtos ho hyios mou ho zon, kai ho hyios tautes ho tethnekos) — a spus regele: tu zici: acesta e fiul meu cel viu, și fiul acesteia e cel mort."
+       "def_ro": "cel viu",
+       "dict_ro": "Hai înseamnă „viu”. Miza întregii judecăți este copilul „cel viu”; fiecare femeie spune că al ei este cel viu și al celeilalte cel mort. Viața copilului este singurul lucru care nu se poate împărți.",
+       "greek": "ζάω (zao)",
+       "greek_def_ro": "ζάω (zao) — viu"
       },
       {
-       "t": " "
+       "t": ", și "
       },
       {
-       "t": "și copilul tău",
-       "w": "și copilul tău",
+       "t": "copilul tău",
+       "w": "copilul tău",
        "heb": "וּבְנֵךְ",
        "translit": "uvnēh",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "și fiul tău (uvnēh)",
-       "dict_ro": "Regele rezumă cu exactitate afirmațiile contradictorii ale celor două femei, înainte de a propune testul decisiv.",
-       "greek": "εἶπεν ὁ βασιλεὺς αὐταῖς Σὺ λέγεις Οὗτος ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱὸς ταύτης ὁ τεθνηκώς (eipen ho basileus autais Sy legeis Houtos ho hyios mou ho zon, kai ho hyios tautes ho tethnekos)",
-       "greek_def_ro": "εἶπεν ὁ βασιλεὺς αὐταῖς Σὺ λέγεις Οὗτος ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱὸς ταύτης ὁ τεθνηκώς (eipen ho basileus autais Sy legeis Houtos ho hyios mou ho zon, kai ho hyios tautes ho tethnekos) — a spus regele: tu zici: acesta e fiul meu cel viu, și fiul acesteia e cel mort."
+       "def_ro": "fiul tău",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": " este cel "
       },
       {
-       "t": "este cel mort»,",
-       "w": "este cel mort»,",
+       "t": "mort",
+       "w": "mort",
        "heb": "הַמֵּת",
        "translit": "hamēt",
        "strong": "H4191",
        "pos": "verb, qal participiu",
-       "def_ro": "[este] cel mort», (hamēt)",
-       "dict_ro": "Regele rezumă cu exactitate afirmațiile contradictorii ale celor două femei, înainte de a propune testul decisiv.",
-       "greek": "εἶπεν ὁ βασιλεὺς αὐταῖς Σὺ λέγεις Οὗτος ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱὸς ταύτης ὁ τεθνηκώς (eipen ho basileus autais Sy legeis Houtos ho hyios mou ho zon, kai ho hyios tautes ho tethnekos)",
-       "greek_def_ro": "εἶπεν ὁ βασιλεὺς αὐταῖς Σὺ λέγεις Οὗτος ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱὸς ταύτης ὁ τεθνηκώς (eipen ho basileus autais Sy legeis Houtos ho hyios mou ho zon, kai ho hyios tautes ho tethnekos) — a spus regele: tu zici: acesta e fiul meu cel viu, și fiul acesteia e cel mort."
+       "def_ro": "cel mort",
+       "dict_ro": "Mut înseamnă „a muri”. Un copil a murit noaptea; moartea nu are martori. Lupta dintre cele două femei pornește de la această moarte tăcută.",
+       "greek": "θνῄσκω (thnesko)",
+       "greek_def_ro": "θνῄσκω (thnesko) — a muri (mort)"
       },
       {
-       "t": " "
+       "t": "», iar "
       },
       {
-       "t": "iar cealaltă spune:",
-       "w": "iar cealaltă spune:",
+       "t": "cealaltă spune",
+       "w": "cealaltă spune",
        "heb": "וְזֹאת אֹמֶרֶת",
        "translit": "vezot omeret",
-       "strong": "H559",
+       "strong": "H2063",
        "pos": "pronume demonstrativ + verb, qal participiu",
-       "def_ro": "și aceasta spune: (vezot omeret)",
-       "dict_ro": "Regele rezumă cu exactitate afirmațiile contradictorii ale celor două femei, înainte de a propune testul decisiv."
+       "def_ro": "și aceasta zice",
+       "dict_ro": "„Zot omeret” înseamnă „aceasta spune”. Regele repetă pe rând cele două pretenții, ca să le facă precise și să le pună față în față.",
+       "greek": "σὺ λέγω (sy lego)",
+       "greek_def_ro": "σὺ λέγω (sy lego) — tu spui",
+       "diff_ro": "Ebraica: „iar cealaltă spune” (vezot omeret); Septuaginta: „și tu spui” (καὶ σὺ λέγεις)."
       },
       {
-       "t": " "
-      },
-      {
-       "t": "«Nu-i așa!",
-       "w": "«Nu-i așa!",
-       "heb": "לֹא כִי",
-       "translit": "lo hi",
-       "strong": "H3588",
-       "pos": "particulă negativă + conjuncție",
-       "def_ro": "nu, căci (lo hi)",
-       "dict_ro": "Regele rezumă cu exactitate afirmațiile contradictorii ale celor două femei, înainte de a propune testul decisiv."
-      },
-      {
-       "t": " "
+       "t": ": «Nu-i așa! "
       },
       {
        "t": "Copilul tău",
@@ -50594,55 +50433,58 @@
        "translit": "benēh",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "fiul tău (benēh)",
-       "dict_ro": "Regele rezumă cu exactitate afirmațiile contradictorii ale celor două femei.",
-       "greek": "σὺ λέγεις Οὐχί, ἀλλὰ ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱός σου ὁ τεθνηκώς (sy legeis Ouchi, alla ho hyios mou ho zon, kai ho hyios sou ho tethnekos)",
-       "greek_def_ro": "σὺ λέγεις Οὐχί, ἀλλὰ ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱός σου ὁ τεθνηκώς (sy legeis Ouchi, alla ho hyios mou ho zon, kai ho hyios sou ho tethnekos) — tu zici: nu, fiul meu e cel viu, și fiul tău e cel mort."
+       "def_ro": "fiul tău",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": " este cel "
       },
       {
-       "t": "este cel mort,",
-       "w": "este cel mort,",
+       "t": "mort",
+       "w": "mort",
        "heb": "הַמֵּת",
        "translit": "hamēt",
        "strong": "H4191",
        "pos": "verb, qal participiu",
-       "def_ro": "[este] cel mort, (hamēt)",
-       "dict_ro": "Regele rezumă cu exactitate afirmațiile contradictorii ale celor două femei.",
-       "greek": "εἶπεν ὁ βασιλεὺς αὐταῖς Σὺ λέγεις Οὗτος ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱὸς ταύτης ὁ τεθνηκώς (eipen ho basileus autais Sy legeis Houtos ho hyios mou ho zon, kai ho hyios tautes ho tethnekos)",
-       "greek_def_ro": "εἶπεν ὁ βασιλεὺς αὐταῖς Σὺ λέγεις Οὗτος ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱὸς ταύτης ὁ τεθνηκώς (eipen ho basileus autais Sy legeis Houtos ho hyios mou ho zon, kai ho hyios tautes ho tethnekos) — a spus regele: tu zici: acesta e fiul meu cel viu, și fiul acesteia e cel mort."
+       "def_ro": "cel mort",
+       "dict_ro": "Mut înseamnă „a muri”. Un copil a murit noaptea; moartea nu are martori. Lupta dintre cele două femei pornește de la această moarte tăcută.",
+       "greek": "θνῄσκω (thnesko)",
+       "greek_def_ro": "θνῄσκω (thnesko) — a muri (mort)"
       },
       {
-       "t": " "
+       "t": ", și "
       },
       {
-       "t": "și copilul meu",
-       "w": "și copilul meu",
+       "t": "copilul meu",
+       "w": "copilul meu",
        "heb": "וּבְנִי",
        "translit": "uvni",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "și fiul meu (uvni)",
-       "dict_ro": "Regele rezumă cu exactitate afirmațiile contradictorii ale celor două femei.",
-       "greek": "σὺ λέγεις Οὐχί, ἀλλὰ ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱός σου ὁ τεθνηκώς (sy legeis Ouchi, alla ho hyios mou ho zon, kai ho hyios sou ho tethnekos)",
-       "greek_def_ro": "σὺ λέγεις Οὐχί, ἀλλὰ ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱός σου ὁ τεθνηκώς (sy legeis Ouchi, alla ho hyios mou ho zon, kai ho hyios sou ho tethnekos) — tu zici: nu, fiul meu e cel viu, și fiul tău e cel mort."
+       "def_ro": "fiul meu",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": " este cel "
       },
       {
-       "t": "este cel viu.»”",
-       "w": "este cel viu.»”",
+       "t": "viu",
+       "w": "viu",
        "heb": "הֶחָי",
        "translit": "hehai",
        "strong": "H2416",
        "pos": "adjectiv, masculin singular",
-       "def_ro": "[este] cel viu.»” (hehai)",
-       "dict_ro": "Regele rezumă cu exactitate afirmațiile contradictorii ale celor două femei, înainte de a propune testul decisiv.",
-       "greek": "σὺ λέγεις Οὐχί, ἀλλὰ ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱός σου ὁ τεθνηκώς (sy legeis Ouchi, alla ho hyios mou ho zon, kai ho hyios sou ho tethnekos)",
-       "greek_def_ro": "σὺ λέγεις Οὐχί, ἀλλὰ ὁ υἱός μου ὁ ζῶν, καὶ ὁ υἱός σου ὁ τεθνηκώς (sy legeis Ouchi, alla ho hyios mou ho zon, kai ho hyios sou ho tethnekos) — tu zici: nu, fiul meu e cel viu, și fiul tău e cel mort."
+       "def_ro": "cel viu",
+       "dict_ro": "Hai înseamnă „viu”. Miza întregii judecăți este copilul „cel viu”; fiecare femeie spune că al ei este cel viu și al celeilalte cel mort. Viața copilului este singurul lucru care nu se poate împărți.",
+       "greek": "ζάω (zao)",
+       "greek_def_ro": "ζάω (zao) — viu"
+      },
+      {
+       "t": ".»”"
       }
      ],
      "textCompare": [
@@ -50687,72 +50529,79 @@
      "translit": "Vaiomer hameleh kehu li-harev vaiaviu haherev lifnēi hameleh.",
      "tokens": [
       {
-       "t": "Și regele",
-       "w": "Și regele",
+       "t": "Și "
+      },
+      {
+       "t": "regele",
+       "w": "regele",
        "heb": "הַמֶּלֶךְ",
        "translit": "hameleh",
        "strong": "H4428",
        "pos": "substantiv, masculin singular",
-       "def_ro": "regele (hameleh)",
-       "dict_ro": "Cererea neașteptată a unei săbii șochează auditoriul, pregătind testul care va dezvălui adevărata mamă prin reacția ei instinctivă.",
-       "greek": "προσήνεγκαν τὴν μάχαιραν ἐνώπιον τοῦ βασιλέως (prosenenkan ten machairan enopion tou basileos)",
-       "greek_def_ro": "προσήνεγκαν τὴν μάχαιραν ἐνώπιον τοῦ βασιλέως (prosenenkan ten machairan enopion tou basileos) — au adus sabia înaintea regelui."
+       "def_ro": "regele",
+       "dict_ro": "Melek înseamnă „rege”. Cuvântul străbate tot episodul: femeile vin la rege, el judecă, iar Israelul se teme de rege. Regele este judecătorul suprem.",
+       "greek": "βασιλεύς (basileus)",
+       "greek_def_ro": "βασιλεύς (basileus) — rege"
       },
       {
        "t": " "
       },
       {
-       "t": "a spus:",
-       "w": "a spus:",
+       "t": "a spus",
+       "w": "a spus",
        "heb": "וַיֹּאמֶר",
        "translit": "vaiomer",
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a spus: (vaiomer)",
-       "dict_ro": "Cererea neașteptată a unei săbii șochează auditoriul, pregătind testul decisiv."
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
-       "t": " "
+       "t": ": „"
       },
       {
-       "t": "„Aduceți-mi",
-       "w": "„Aduceți-mi",
-       "heb": "קְחוּ לִי",
-       "translit": "kehu li",
-       "strong": "",
-       "pos": "verb, qal imperativ + prepoziție + sufix",
-       "def_ro": "luați-mi (kehu li)",
-       "dict_ro": "Cererea neașteptată a unei săbii șochează auditoriul, pregătind testul decisiv."
+       "t": "Aduceți",
+       "w": "Aduceți",
+       "heb": "קְחוּ",
+       "translit": "kehu",
+       "strong": "H3947",
+       "pos": "verb, qal imperativ",
+       "def_ro": "luați",
+       "dict_ro": "Lakah înseamnă „a lua”. Femeia a luat copilul viu de lângă cealaltă, în timp ce aceasta dormea, și l-a înlocuit cu cel mort.",
+       "greek": "λαμβάνω (lambano)",
+       "greek_def_ro": "λαμβάνω (lambano) — a lua"
       },
       {
-       "t": " "
+       "t": "-mi o "
       },
       {
-       "t": "o sabie”,",
-       "w": "o sabie”,",
+       "t": "sabie",
+       "w": "sabie",
        "heb": "חָרֶב",
        "translit": "harev",
        "strong": "H2719",
        "pos": "substantiv, feminin singular",
-       "def_ro": "o sabie”, (harev)",
-       "dict_ro": "Cererea neașteptată a unei săbii șochează auditoriul, pregătind testul decisiv.",
-       "greek": "Λάβετε μάχαιραν (Labete machairan)",
-       "greek_def_ro": "Λάβετε μάχαιραν (Labete machairan) — luați-mi o sabie."
+       "def_ro": "sabie",
+       "dict_ro": "Herev înseamnă „sabie”: sabia învăpăiată de la Eden (Geneza 3:24). Regele cere o sabie nu ca să taie, ci ca să facă să iasă la iveală adevărata mamă.",
+       "greek": "μάχαιρα (machaira)",
+       "greek_def_ro": "μάχαιρα (machaira) — sabie"
       },
       {
-       "t": " "
+       "t": "”, și "
       },
       {
-       "t": "și au adus",
-       "w": "și au adus",
+       "t": "au adus",
+       "w": "au adus",
        "heb": "וַיָּבִאוּ",
        "translit": "vaiaviu",
        "strong": "H935",
        "pos": "verb, hifil imperfect consecutiv",
-       "def_ro": "și au adus (vaiaviu)",
-       "dict_ro": "Cererea neașteptată a unei săbii șochează auditoriul, pregătind testul decisiv.",
-       "greek": "προσήνεγκαν τὴν μάχαιραν ἐνώπιον τοῦ βασιλέως (prosenenkan ten machairan enopion tou basileos)",
-       "greek_def_ro": "προσήνεγκαν τὴν μάχαιραν ἐνώπιον τοῦ βασιλέως (prosenenkan ten machairan enopion tou basileos) — au adus sabia înaintea regelui."
+       "def_ro": "au adus",
+       "dict_ro": "Bo e verbul venirii și al intrării; în profeți descrie adesea împlinirea: ceea ce a fost vestit „vine”, adică se întâmplă (Isaia 42:9). La forma cauzativă, hevi, înseamnă „a aduce” — cu un sens aparte în făgăduința strângerii exilaților (Isaia 43:5).",
+       "greek": "προσφέρω (prosphero)",
+       "greek_def_ro": "προσφέρω (prosphero) — a aduce înainte"
       },
       {
        "t": " "
@@ -50764,23 +50613,28 @@
        "translit": "haherev",
        "strong": "H2719",
        "pos": "substantiv, feminin singular",
-       "def_ro": "sabia (haherev)",
-       "dict_ro": "Cererea neașteptată a unei săbii șochează auditoriul, pregătind testul decisiv.",
-       "greek": "προσήνεγκαν τὴν μάχαιραν ἐνώπιον τοῦ βασιλέως (prosenenkan ten machairan enopion tou basileos)",
-       "greek_def_ro": "προσήνεγκαν τὴν μάχαιραν ἐνώπιον τοῦ βασιλέως (prosenenkan ten machairan enopion tou basileos) — au adus sabia înaintea regelui."
+       "def_ro": "sabia",
+       "dict_ro": "Herev înseamnă „sabie”: sabia învăpăiată de la Eden (Geneza 3:24). Regele cere o sabie nu ca să taie, ci ca să facă să iasă la iveală adevărata mamă.",
+       "greek": "μάχαιρα (machaira)",
+       "greek_def_ro": "μάχαιρα (machaira) — sabie"
       },
       {
        "t": " "
       },
       {
-       "t": "înaintea regelui.",
-       "w": "înaintea regelui.",
+       "t": "înaintea regelui",
+       "w": "înaintea regelui",
        "heb": "לִפְנֵי הַמֶּלֶךְ",
        "translit": "lifnē hameleh",
-       "strong": "H4428",
+       "strong": "H6440",
        "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular",
-       "def_ro": "înaintea regelui. (lifnē hameleh)",
-       "dict_ro": "Cererea neașteptată a unei săbii șochează auditoriul, pregătind testul decisiv."
+       "def_ro": "înaintea regelui",
+       "dict_ro": "„Lifnei hamelech” înseamnă „înaintea regelui”. A sta înaintea regelui înseamnă a-i cere judecata; în Israel regele era instanța supremă.",
+       "greek": "ἐνώπιον βασιλεύς (enopion basileus)",
+       "greek_def_ro": "ἐνώπιον βασιλεύς (enopion basileus) — înaintea regelui"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -50817,72 +50671,64 @@
      "translit": "Vaiomer hameleh gizru et-haieled hahai lișnaim utenu et-hahatzi leahat veet-hahatzi leahat.",
      "tokens": [
       {
-       "t": "Și regele",
-       "w": "Și regele",
+       "t": "Și "
+      },
+      {
+       "t": "regele",
+       "w": "regele",
        "heb": "הַמֶּלֶךְ",
        "translit": "hameleh",
        "strong": "H4428",
        "pos": "substantiv, masculin singular",
-       "def_ro": "regele (hameleh)",
-       "dict_ro": "Porunca aparent crudă de a tăia copilul în două e, de fapt, un test calculat al instinctului matern autentic."
+       "def_ro": "regele",
+       "dict_ro": "Melek înseamnă „rege”. Cuvântul străbate tot episodul: femeile vin la rege, el judecă, iar Israelul se teme de rege. Regele este judecătorul suprem.",
+       "greek": "βασιλεύς (basileus)",
+       "greek_def_ro": "βασιλεύς (basileus) — rege"
       },
       {
        "t": " "
       },
       {
-       "t": "a spus:",
-       "w": "a spus:",
+       "t": "a spus",
+       "w": "a spus",
        "heb": "וַיֹּאמֶר",
        "translit": "vaiomer",
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a spus: (vaiomer)",
-       "dict_ro": "Porunca aparent crudă de a tăia copilul în două e, de fapt, un test calculat al instinctului matern autentic."
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
-       "t": " "
+       "t": ": „"
       },
       {
-       "t": "„Tăiați",
-       "w": "„Tăiați",
+       "t": "Tăiați",
+       "w": "Tăiați",
        "heb": "גִּזְרוּ",
        "translit": "gizru",
        "strong": "H1504",
        "pos": "verb, qal imperativ",
-       "def_ro": "tăiați (gizru)",
-       "dict_ro": "Porunca aparent crudă de a tăia copilul în două e, de fapt, un test calculat al instinctului matern autentic.",
-       "greek": "Διέλετε τὸ παιδίον τὸ θηλάζον τὸ ζῶν εἰς δύο (Dielete to paidion to thelazon to zon eis dyo)",
-       "greek_def_ro": "Διέλετε τὸ παιδίον τὸ θηλάζον τὸ ζῶν εἰς δύο (Dielete to paidion to thelazon to zon eis dyo) — despărțiți copilul cel viu în două."
+       "def_ro": "tăiați",
+       "dict_ro": "Gazar înseamnă „a tăia, a despica”: „Cel ce a despărțit Marea Roșie în două” (Psalmul 136:13). Porunca regelui, „tăiați copilul în două”, este o cursă pentru a vedea ce femeie are milă.",
+       "greek": "διαιρέω (diaireo)",
+       "greek_def_ro": "διαιρέω (diaireo) — a împărți, a tăia"
       },
       {
        "t": " "
       },
       {
-       "t": "copilul",
-       "w": "copilul",
-       "heb": "הַיֶּלֶד",
-       "translit": "haieled",
+       "t": "copilul viu",
+       "w": "copilul viu",
+       "heb": "הַיֶּלֶד הַחַי",
+       "translit": "haieled hahai",
        "strong": "H3206",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "copilul (haieled)",
-       "dict_ro": "Porunca aparent crudă de a tăia copilul în două e, de fapt, un test calculat al instinctului matern autentic.",
-       "greek": "Διέλετε τὸ παιδίον τὸ θηλάζον τὸ ζῶν εἰς δύο (Dielete to paidion to thelazon to zon eis dyo)",
-       "greek_def_ro": "Διέλετε τὸ παιδίον τὸ θηλάζον τὸ ζῶν εἰς δύο (Dielete to paidion to thelazon to zon eis dyo) — despărțiți copilul cel viu în două."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "viu",
-       "w": "viu",
-       "heb": "הַחַי",
-       "translit": "hahai",
-       "strong": "H2416",
-       "pos": "adjectiv, masculin singular",
-       "def_ro": "viu (hahai)",
-       "dict_ro": "Porunca aparent crudă de a tăia copilul în două e, de fapt, un test calculat al instinctului matern autentic.",
-       "greek": "Διέλετε τὸ παιδίον τὸ θηλάζον τὸ ζῶν εἰς δύο (Dielete to paidion to thelazon to zon eis dyo)",
-       "greek_def_ro": "Διέλετε τὸ παιδίον τὸ θηλάζον τὸ ζῶν εἰς δύο (Dielete to paidion to thelazon to zon eis dyo) — despărțiți copilul cel viu în două."
+       "pos": "substantiv, masculin singular + adjectiv, masculin singular",
+       "def_ro": "copilul cel viu",
+       "dict_ro": "„Haieled hahai” înseamnă „copilul cel viu”. Regele rostește porunca în cuvinte care par neînduplecate; scopul este să scoată adevărul din inima celor două femei.",
+       "greek": "παιδίον ζάω (paidion zao)",
+       "greek_def_ro": "παιδίον ζάω (paidion zao) — copilul viu"
       },
       {
        "t": " "
@@ -50894,25 +50740,25 @@
        "translit": "lișnaim",
        "strong": "H8147",
        "pos": "numeral",
-       "def_ro": "în două (lișnaim)",
-       "dict_ro": "Porunca aparent crudă de a tăia copilul în două e, de fapt, un test calculat al instinctului matern autentic.",
-       "greek": "Διέλετε τὸ παιδίον τὸ θηλάζον τὸ ζῶν εἰς δύο (Dielete to paidion to thelazon to zon eis dyo)",
-       "greek_def_ro": "Διέλετε τὸ παιδίον τὸ θηλάζον τὸ ζῶν εἰς δύο (Dielete to paidion to thelazon to zon eis dyo) — despărțiți copilul cel viu în două."
+       "def_ro": "în două",
+       "dict_ro": "Șenayim înseamnă „doi, două”. Copilul să fie tăiat „în două”, ca fiecare femeie să primească jumătate. Despărțirea în două scoate la iveală cine este mama.",
+       "greek": "δύο (dyo)",
+       "greek_def_ro": "δύο (dyo) — doi, două"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și dați",
-       "w": "și dați",
+       "t": "dați",
+       "w": "dați",
        "heb": "וּתְנוּ",
        "translit": "utnu",
        "strong": "H5414",
        "pos": "verb, qal imperativ",
-       "def_ro": "și dați (utnu)",
-       "dict_ro": "Porunca aparent crudă de a tăia copilul în două e, de fapt, un test calculat al instinctului matern autentic.",
-       "greek": "δότε τὸ ἥμισυ αὐτοῦ ταύτῃ καὶ τὸ ἥμισυ αὐτοῦ ταύτῃ (dote to hemisy autou taute kai to hemisy autou taute)",
-       "greek_def_ro": "δότε τὸ ἥμισυ αὐτοῦ ταύτῃ καὶ τὸ ἥμισυ αὐτοῦ ταύτῃ (dote to hemisy autou taute kai to hemisy autou taute) — dați jumătatea lui acesteia, și jumătatea lui acesteia."
+       "def_ro": "dați",
+       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6).",
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a da"
       },
       {
        "t": " "
@@ -50924,55 +50770,58 @@
        "translit": "leahat",
        "strong": "H259",
        "pos": "numeral",
-       "def_ro": "uneia (leahat)",
-       "dict_ro": "Porunca aparent crudă de a tăia copilul în două e, de fapt, un test calculat al instinctului matern autentic.",
-       "greek": "δότε τὸ ἥμισυ αὐτοῦ ταύτῃ καὶ τὸ ἥμισυ αὐτοῦ ταύτῃ (dote to hemisy autou taute kai to hemisy autou taute)",
-       "greek_def_ro": "δότε τὸ ἥμισυ αὐτοῦ ταύτῃ καὶ τὸ ἥμισυ αὐτοῦ ταύτῃ (dote to hemisy autou taute kai to hemisy autou taute) — dați jumătatea lui acesteia, și jumătatea lui acesteia."
+       "def_ro": "uneia",
+       "dict_ro": "Ehad înseamnă „unu”. „Uneia” și „celeilalte” sunt cele două femei, fiecare cu pretenția ei. Regele propune o dreptate aritmetică, jumătate pentru fiecare.",
+       "greek": "οὗτος (houtos)",
+       "greek_def_ro": "οὗτος (houtos) — acesta"
       },
       {
        "t": " "
       },
       {
-       "t": "o jumătate,",
-       "w": "o jumătate,",
+       "t": "o jumătate",
+       "w": "o jumătate",
        "heb": "הַחֲצִי",
        "translit": "hahați",
        "strong": "H2677",
        "pos": "substantiv, masculin singular",
-       "def_ro": "jumătatea, (hahați)",
-       "dict_ro": "Porunca aparent crudă de a tăia copilul în două e, de fapt, un test calculat al instinctului matern autentic.",
-       "greek": "δότε τὸ ἥμισυ αὐτοῦ ταύτῃ καὶ τὸ ἥμισυ αὐτοῦ ταύτῃ (dote to hemisy autou taute kai to hemisy autou taute)",
-       "greek_def_ro": "δότε τὸ ἥμισυ αὐτοῦ ταύτῃ καὶ τὸ ἥμισυ αὐτοῦ ταύτῃ (dote to hemisy autou taute kai to hemisy autou taute) — dați jumătatea lui acesteia, și jumătatea lui acesteia."
+       "def_ro": "jumătate",
+       "dict_ro": "Hați înseamnă „jumătate”: „jumătate de cot” (Exodul 25:10). Regele cere o împărțire în două jumătăți egale, soluția pe care o respinge mama adevărată.",
+       "greek": "ἥμισυ (hemisy)",
+       "greek_def_ro": "ἥμισυ (hemisy) — jumătate"
       },
       {
-       "t": " "
+       "t": ", și "
       },
       {
-       "t": "și celeilalte",
-       "w": "și celeilalte",
+       "t": "celeilalte",
+       "w": "celeilalte",
        "heb": "לְאֶחָת",
        "translit": "leehat",
        "strong": "H259",
        "pos": "numeral",
-       "def_ro": "și celeilalte (leehat)",
-       "dict_ro": "Porunca aparent crudă de a tăia copilul în două e, de fapt, un test calculat al instinctului matern autentic.",
-       "greek": "δότε τὸ ἥμισυ αὐτοῦ ταύτῃ καὶ τὸ ἥμισυ αὐτοῦ ταύτῃ (dote to hemisy autou taute kai to hemisy autou taute)",
-       "greek_def_ro": "δότε τὸ ἥμισυ αὐτοῦ ταύτῃ καὶ τὸ ἥμισυ αὐτοῦ ταύτῃ (dote to hemisy autou taute kai to hemisy autou taute) — dați jumătatea lui acesteia, și jumătatea lui acesteia."
+       "def_ro": "celeilalte",
+       "dict_ro": "Ehad înseamnă „unu”. „Uneia” și „celeilalte” sunt cele două femei, fiecare cu pretenția ei. Regele propune o dreptate aritmetică, jumătate pentru fiecare.",
+       "greek": "οὗτος (houtos)",
+       "greek_def_ro": "οὗτος (houtos) — acesta"
       },
       {
        "t": " "
       },
       {
-       "t": "o jumătate.”",
-       "w": "o jumătate.”",
+       "t": "o jumătate",
+       "w": "o jumătate",
        "heb": "הַחֲצִי",
        "translit": "hahați",
        "strong": "H2677",
        "pos": "substantiv, masculin singular",
-       "def_ro": "jumătatea.” (hahați)",
-       "dict_ro": "Porunca aparent crudă de a tăia copilul în două e, de fapt, un test calculat al instinctului matern autentic.",
-       "greek": "δότε τὸ ἥμισυ αὐτοῦ ταύτῃ καὶ τὸ ἥμισυ αὐτοῦ ταύτῃ (dote to hemisy autou taute kai to hemisy autou taute)",
-       "greek_def_ro": "δότε τὸ ἥμισυ αὐτοῦ ταύτῃ καὶ τὸ ἥμισυ αὐτοῦ ταύτῃ (dote to hemisy autou taute kai to hemisy autou taute) — dați jumătatea lui acesteia, și jumătatea lui acesteia."
+       "def_ro": "jumătate",
+       "dict_ro": "Hați înseamnă „jumătate”: „jumătate de cot” (Exodul 25:10). Regele cere o împărțire în două jumătăți egale, soluția pe care o respinge mama adevărată.",
+       "greek": "ἥμισυ (hemisy)",
+       "greek_def_ro": "ἥμισυ (hemisy) — jumătate"
+      },
+      {
+       "t": ".”"
       }
      ],
      "textCompare": [
@@ -51019,44 +50868,34 @@
      "translit": "Vatomer haișa așer-bena hahai el-hameleh ki-nihmeru rahameha al-bena vatomer bi adoni tenu-lah et-haialud hahai vehamēt al-temituhu vezot omeret gam-li gam-lah lo ihiē gezoru.",
      "tokens": [
       {
-       "t": "Și atunci, femeia",
-       "w": "Și atunci, femeia",
+       "t": "Și atunci, "
+      },
+      {
+       "t": "femeia",
+       "w": "femeia",
        "heb": "הָאִשָּׁה",
        "translit": "haișa",
        "strong": "H802",
        "pos": "substantiv, feminin singular",
-       "def_ro": "femeia (haișa)",
-       "dict_ro": "Mila instinctivă, maternă, a adevăratei mame o face să renunțe la dreptul ei pentru a salva viața copilului.",
-       "greek": "ἀπεκρίθη ἡ γυνὴ ἧς ἦν ὁ υἱὸς ὁ ζῶν καὶ εἶπεν πρὸς τὸν βασιλέα (apekrithe he gyne hes en ho hyios ho zon kai eipen pros ton basilea)",
-       "greek_def_ro": "ἀπεκρίθη ἡ γυνὴ ἧς ἦν ὁ υἱὸς ὁ ζῶν καὶ εἶπεν πρὸς τὸν βασιλέα (apekrithe he gyne hes en ho hyios ho zon kai eipen pros ton basilea) — a răspuns femeia al cărei fiu era viu și a spus către rege."
+       "def_ro": "femeia",
+       "dict_ro": "Ișa înseamnă „femeie”. Cele două femei apar fără nume, doar ca „femeia”; ceea ce le deosebește este reacția lor în fața sabiei.",
+       "greek": "γυνή (gyne)",
+       "greek_def_ro": "γυνή (gyne) — femeie"
       },
       {
        "t": " "
       },
       {
-       "t": "al cărui copil",
-       "w": "al cărui copil",
-       "heb": "אֲשֶׁר בְּנָהּ",
-       "translit": "așer benah",
+       "t": "al cărui copil era viu",
+       "w": "al cărui copil era viu",
+       "heb": "בְּנָהּ הַחַי",
+       "translit": "benah hahai",
        "strong": "H1121",
-       "pos": "particulă relativă + substantiv, masculin singular construct + sufix",
-       "def_ro": "al cărei fiu (așer benah)",
-       "dict_ro": "Mila instinctivă, maternă, a adevăratei mame o face să renunțe la dreptul ei pentru a salva viața copilului."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "era viu",
-       "w": "era viu",
-       "heb": "הַחַי",
-       "translit": "hahai",
-       "strong": "H2416",
-       "pos": "adjectiv, masculin singular",
-       "def_ro": "[era] viu (hahai)",
-       "dict_ro": "Mila instinctivă, maternă, a adevăratei mame o face să renunțe la dreptul ei pentru a salva viața copilului.",
-       "greek": "ἀπεκρίθη ἡ γυνὴ ἧς ἦν ὁ υἱὸς ὁ ζῶν καὶ εἶπεν πρὸς τὸν βασιλέα (apekrithe he gyne hes en ho hyios ho zon kai eipen pros ton basilea)",
-       "greek_def_ro": "ἀπεκρίθη ἡ γυνὴ ἧς ἦν ὁ υἱὸς ὁ ζῶν καὶ εἶπεν πρὸς τὸν βασιλέα (apekrithe he gyne hes en ho hyios ho zon kai eipen pros ton basilea) — a răspuns femeia al cărei fiu era viu și a spus către rege."
+       "pos": "substantiv, masculin singular construct + sufix + adjectiv, masculin singular",
+       "def_ro": "al cărei fiu era cel viu",
+       "dict_ro": "„Beno hahai” înseamnă „fiul ei cel viu”. Mama adevărată își vede copilul pus în pericol de moarte și preferă să-l piardă, dar să-l știe viu.",
+       "greek": "υἱὸς ζάω (hyios zao)",
+       "greek_def_ro": "υἱὸς ζάω (hyios zao) — fiul viu"
       },
       {
        "t": " "
@@ -51068,10 +50907,11 @@
        "translit": "vatomer",
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a spus (vatomer)",
-       "dict_ro": "Mila instinctivă, maternă, a adevăratei mame o face să renunțe la dreptul ei pentru a salva viața copilului.",
-       "greek": "ἀπεκρίθη ἡ γυνὴ ἧς ἦν ὁ υἱὸς ὁ ζῶν καὶ εἶπεν πρὸς τὸν βασιλέα (apekrithe he gyne hes en ho hyios ho zon kai eipen pros ton basilea)",
-       "greek_def_ro": "ἀπεκρίθη ἡ γυνὴ ἧς ἦν ὁ υἱὸς ὁ ζῶν καὶ εἶπεν πρὸς τὸν βασιλέα (apekrithe he gyne hes en ho hyios ho zon kai eipen pros ton basilea) — a răspuns femeia al cărei fiu era viu și a spus către rege."
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "ἀποκρίνομαι (apokrinomai)",
+       "greek_def_ro": "ἀποκρίνομαι (apokrinomai) — a răspunde",
+       "diff_ro": "Ebraica: „i-a spus” (vatomer); Septuaginta: „a răspuns” (ἀπεκρίθη)."
       },
       {
        "t": " "
@@ -51079,28 +50919,17 @@
       {
        "t": "regelui",
        "w": "regelui",
-       "heb": "אֶל הַמֶּלֶךְ",
-       "translit": "el hameleh",
+       "heb": "הַמֶּלֶךְ",
+       "translit": "hameleh",
        "strong": "H4428",
-       "pos": "prepoziție + substantiv, masculin singular",
-       "def_ro": "regelui (el hameleh)",
-       "dict_ro": "Mila instinctivă, maternă, a adevăratei mame o face să renunțe la dreptul ei pentru a salva viața copilului."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "regelui",
+       "dict_ro": "Melek înseamnă „rege”. Cuvântul străbate tot episodul: femeile vin la rege, el judecă, iar Israelul se teme de rege. Regele este judecătorul suprem.",
+       "greek": "βασιλεύς (basileus)",
+       "greek_def_ro": "βασιλεύς (basileus) — rege"
       },
       {
-       "t": " "
-      },
-      {
-       "t": "– căci",
-       "w": "– căci",
-       "heb": "כִּי",
-       "translit": "ki",
-       "strong": "H3588",
-       "pos": "conjuncție",
-       "def_ro": "căci (ki)",
-       "dict_ro": "Mila instinctivă, maternă, descrisă literal ca o tulburare a «măruntaielor», e dovada pe care regele o căuta."
-      },
-      {
-       "t": " "
+       "t": " – căci "
       },
       {
        "t": "o apucase",
@@ -51109,10 +50938,11 @@
        "translit": "nihmeru",
        "strong": "H3648",
        "pos": "verb, nifal perfect",
-       "def_ro": "s-au tulburat (nihmeru)",
-       "dict_ro": "Mila instinctivă, maternă, descrisă literal ca o tulburare a «măruntaielor», e dovada pe care regele o căuta.",
-       "greek": "ἐταράχθη ἡ μήτρα αὐτῆς ἐπὶ τῷ υἱῷ αὐτῆς (etarachthe he metra autes epi to hyio autes)",
-       "greek_def_ro": "ἐταράχθη ἡ μήτρα αὐτῆς ἐπὶ τῷ υἱῷ αὐτῆς (etarachthe he metra autes epi to hyio autes) — s-a tulburat pântecele ei pentru fiul ei."
+       "def_ro": "s-au aprins",
+       "dict_ro": "Kamar, la forma pasivă, înseamnă „a se aprinde, a se mișca adânc”: lui Iosif „i s-au aprins milele” pentru fratele lui (Geneza 43:30). Aici milele mamei se aprind pentru copil.",
+       "greek": "ταράσσω (tarasso)",
+       "greek_def_ro": "ταράσσω (tarasso) — a se tulbura",
+       "diff_ro": "Ebraica: „i s-au aprins” (nihmeru); Septuaginta: „s-a tulburat” (ἐταράχθη)."
       },
       {
        "t": " "
@@ -51124,79 +50954,86 @@
        "translit": "rahameha",
        "strong": "H7356",
        "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "măruntaiele ei, (rahameha)",
-       "dict_ro": "Mila instinctivă, maternă, descrisă literal ca o tulburare a «măruntaielor», e dovada pe care regele o căuta.",
-       "greek": "ἐταράχθη ἡ μήτρα αὐτῆς ἐπὶ τῷ υἱῷ αὐτῆς (etarachthe he metra autes epi to hyio autes)",
-       "greek_def_ro": "ἐταράχθη ἡ μήτρα αὐτῆς ἐπὶ τῷ υἱῷ αὐτῆς (etarachthe he metra autes epi to hyio autes) — s-a tulburat pântecele ei pentru fiul ei."
+       "def_ro": "milele ei",
+       "dict_ro": "Rahamim, „milă, îndurare”, este pluralul lui rehem, „pântec”. Milele mamei sunt cele ale pântecului din care a născut. Cuvântul arată dragostea instinctivă, care o trădează pe mama adevărată.",
+       "greek": "μήτρα (metra)",
+       "greek_def_ro": "μήτρα (metra) — pântec",
+       "diff_ro": "Ebraica: „milele ei” (rahameha); Septuaginta: „pântecul ei” (ἡ μήτρα αὐτῆς)."
       },
       {
        "t": " "
       },
       {
-       "t": "pentru copilul ei –",
-       "w": "pentru copilul ei –",
-       "heb": "עַל בְּנָהּ",
-       "translit": "al benah",
+       "t": "pentru copilul ei",
+       "w": "pentru copilul ei",
+       "heb": "בְּנָהּ",
+       "translit": "benah",
        "strong": "H1121",
-       "pos": "prepoziție + substantiv, masculin singular construct + sufix",
-       "def_ro": "pentru fiul ei – (al benah)",
-       "dict_ro": "Mila instinctivă, maternă, descrisă literal ca o tulburare a «măruntaielor», e dovada pe care regele o căuta."
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "peste fiul ei",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": " – și "
       },
       {
-       "t": "și a spus:",
-       "w": "și a spus:",
+       "t": "a spus",
+       "w": "a spus",
        "heb": "וַתֹּאמֶר",
        "translit": "vatomer",
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a spus: (vatomer)",
-       "dict_ro": "Mila instinctivă, maternă, descrisă literal ca o tulburare a «măruntaielor», e dovada pe care regele o căuta.",
-       "greek": "ἀπεκρίθη ἡ γυνὴ ἧς ἦν ὁ υἱὸς ὁ ζῶν καὶ εἶπεν πρὸς τὸν βασιλέα (apekrithe he gyne hes en ho hyios ho zon kai eipen pros ton basilea)",
-       "greek_def_ro": "ἀπεκρίθη ἡ γυνὴ ἧς ἦν ὁ υἱὸς ὁ ζῶν καὶ εἶπεν πρὸς τὸν βασιλέα (apekrithe he gyne hes en ho hyios ho zon kai eipen pros ton basilea) — a răspuns femeia al cărei fiu era viu și a spus către rege."
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
-       "t": " "
+       "t": ": „Te rog, "
       },
       {
-       "t": "„Te rog, stăpâne,",
-       "w": "„Te rog, stăpâne,",
-       "heb": "בִּי אֲדֹנִי",
-       "translit": "bi adoni",
+       "t": "stăpâne",
+       "w": "stăpâne",
+       "heb": "אֲדֹנִי",
+       "translit": "adoni",
        "strong": "H113",
-       "pos": "interjecție + substantiv, masculin singular construct + sufix",
-       "def_ro": "te rog, stăpânul meu, (bi adoni)",
-       "dict_ro": "Formula de adresare respectuoasă confirmă din nou disperarea reală, nu teatrală, a adevăratei mame."
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "domnul meu",
+       "dict_ro": "Adon înseamnă „stăpân, domn”. „Pe mine, stăpâne” este formula prin care femeia se adresează regelui, cu respect și cu rugăminte de a fi ascultată.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn; DOMNUL"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "dă-i ei",
-       "w": "dă-i ei",
-       "heb": "תְּנוּ לָהּ",
-       "translit": "tenu lah",
-       "strong": "",
-       "pos": "verb, qal imperativ + prepoziție + sufix",
-       "def_ro": "dați-i (tenu lah)",
-       "dict_ro": "Formula de adresare respectuoasă confirmă din nou disperarea reală, nu teatrală, a adevăratei mame."
+       "t": "dă-i",
+       "w": "dă-i",
+       "heb": "תְּנוּ",
+       "translit": "tenu",
+       "strong": "H5414",
+       "pos": "verb, qal imperativ",
+       "def_ro": "dați",
+       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6).",
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a da"
       },
       {
-       "t": " "
+       "t": " ei pe "
       },
       {
-       "t": "pe nou-născutul",
-       "w": "pe nou-născutul",
+       "t": "nou-născutul",
+       "w": "nou-născutul",
        "heb": "הַיָּלוּד",
        "translit": "haialud",
        "strong": "H3205",
        "pos": "verb, qal participiu pasiv",
-       "def_ro": "nou-născutul (haialud)",
-       "dict_ro": "Formula de adresare respectuoasă confirmă din nou disperarea reală, nu teatrală, a adevăratei mame.",
-       "greek": "Ἐν ἐμοί, κύριε, δότε αὐτῇ τὸ παιδίον καὶ θανάτῳ μὴ θανατώσητε αὐτόν (En emoi, kyrie, dote aute to paidion kai thanato me thanatosete auton)",
-       "greek_def_ro": "Ἐν ἐμοί, κύριε, δότε αὐτῇ τὸ παιδίον καὶ θανάτῳ μὴ θανατώσητε αὐτόν (En emoi, kyrie, dote aute to paidion kai thanato me thanatosete auton) — în mine, stăpâne, dați-i copilul și cu moarte să nu-l dați morții."
+       "def_ro": "pruncul",
+       "dict_ro": "Ialad înseamnă „a naște”: Eva „a născut” pe Cain (Geneza 4:1). Fiecare femeie a născut un fiu în aceeași casă, la trei zile una după alta. Pricina pornește de aici.",
+       "greek": "παιδίον (paidion)",
+       "greek_def_ro": "παιδίον (paidion) — prunc"
       },
       {
        "t": " "
@@ -51208,90 +51045,72 @@
        "translit": "hahai",
        "strong": "H2416",
        "pos": "adjectiv, masculin singular",
-       "def_ro": "viu (hahai)",
-       "dict_ro": "Formula de adresare respectuoasă confirmă din nou disperarea reală, nu teatrală, a adevăratei mame.",
-       "greek": "ἀπεκρίθη ἡ γυνὴ ἧς ἦν ὁ υἱὸς ὁ ζῶν καὶ εἶπεν πρὸς τὸν βασιλέα (apekrithe he gyne hes en ho hyios ho zon kai eipen pros ton basilea)",
-       "greek_def_ro": "ἀπεκρίθη ἡ γυνὴ ἧς ἦν ὁ υἱὸς ὁ ζῶν καὶ εἶπεν πρὸς τὸν βασιλέα (apekrithe he gyne hes en ho hyios ho zon kai eipen pros ton basilea) — a răspuns femeia al cărei fiu era viu și a spus către rege."
+       "def_ro": "cel viu",
+       "dict_ro": "Hai înseamnă „viu”. Miza întregii judecăți este copilul „cel viu”; fiecare femeie spune că al ei este cel viu și al celeilalte cel mort. Viața copilului este singurul lucru care nu se poate împărți.",
+       "diff_ro": "Septuaginta nu are „viu” aici: „dați-i pruncul”."
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și nu-l ucide!”",
-       "w": "și nu-l ucide!”",
+       "t": "nu-l ucide",
+       "w": "nu-l ucide",
        "heb": "וְהָמֵת אַל תְּמִיתֻהוּ",
        "translit": "vehamēt al temituhu",
        "strong": "H4191",
        "pos": "verb, hifil infinitiv absolut + particulă negativă + verb, hifil jusiv + sufix",
-       "def_ro": "și a ucide, nu-l ucideți!” (vehamēt al temituhu)",
-       "dict_ro": "Dublarea verbului «a ucide, nu ucideți» e un idiom ebraic de emfază — o interdicție absolută, categorică."
+       "def_ro": "nu-l omorâți",
+       "dict_ro": "„Vehamet al temituhu” este un infinitiv absolut urmat de verb: „a omorî nu-l omorâți”. Formula întărește rugămintea mamei: „nu-l omorâți deloc!”. Ea preferă să-și piardă copilul decât să-l vadă ucis.",
+       "greek": "θανατόω (thanatoo)",
+       "greek_def_ro": "θανατόω (thanatoo) — a omorî"
       },
       {
-       "t": " "
+       "t": "!” Dar "
       },
       {
-       "t": "Dar cealaltă a spus:",
-       "w": "Dar cealaltă a spus:",
+       "t": "cealaltă a spus",
+       "w": "cealaltă a spus",
        "heb": "וְזֹאת אֹמֶרֶת",
        "translit": "vezot omeret",
-       "strong": "H559",
+       "strong": "H2063",
        "pos": "pronume demonstrativ + verb, qal participiu",
-       "def_ro": "și aceasta spune: (vezot omeret)",
-       "dict_ro": "Reacția opusă, de indiferență brutală, dezvăluie adevărul: femeia dispusă să-l taie nu poate fi mama reală."
+       "def_ro": "aceasta zice",
+       "dict_ro": "„Zot omeret” înseamnă „aceasta spune”. Regele repetă pe rând cele două pretenții, ca să le facă precise și să le pună față în față.",
+       "greek": "οὗτος (houtos)",
+       "greek_def_ro": "οὗτος (houtos) — acesta"
       },
       {
-       "t": " "
+       "t": ": „Nici al meu, nici al tău "
       },
       {
-       "t": "„Nici al meu,",
-       "w": "„Nici al meu,",
-       "heb": "גַּם לִי",
-       "translit": "gam li",
-       "strong": "",
-       "pos": "particulă afirmativă + prepoziție + sufix",
-       "def_ro": "nici al meu, (gam li)",
-       "dict_ro": "Reacția opusă, de indiferență brutală, dezvăluie adevărul: femeia dispusă să-l taie nu poate fi mama reală."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "nici al tău",
-       "w": "nici al tău",
-       "heb": "גַם לָךְ",
-       "translit": "gam lah",
-       "strong": "",
-       "pos": "adverb + prepoziție + sufix",
-       "def_ro": "nici al tău (gam lah)",
-       "dict_ro": "Reacția opusă, de indiferență brutală, dezvăluie adevărul: femeia dispusă să-l taie nu poate fi mama reală."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "să nu fie,",
-       "w": "să nu fie,",
-       "heb": "לֹא יִהְיֶה",
-       "translit": "lo ihie",
+       "t": "să nu fie",
+       "w": "să nu fie",
+       "heb": "יִהְיֶה",
+       "translit": "ihie",
        "strong": "H1961",
-       "pos": "particulă negativă + verb, qal imperfect",
-       "def_ro": "nu va fi, (lo ihie)",
-       "dict_ro": "Reacția opusă, de indiferență brutală, dezvăluie adevărul: femeia dispusă să-l taie nu poate fi mama reală."
+       "pos": "verb, qal imperfect",
+       "def_ro": "nu va fi",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "εἰμί (eimi)",
+       "greek_def_ro": "εἰμί (eimi) — a fi"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "tăiați-l!”",
-       "w": "tăiați-l!”",
+       "t": "tăiați-l",
+       "w": "tăiați-l",
        "heb": "גְּזֹרוּ",
        "translit": "gezoru",
        "strong": "H1504",
        "pos": "verb, qal imperativ",
-       "def_ro": "tăiați-l!” (gezoru)",
-       "dict_ro": "Reacția opusă, de indiferență brutală, dezvăluie adevărul: femeia dispusă să-l taie nu poate fi mama reală.",
-       "greek": "Μήτε ἐμοὶ μήτε αὐτῇ ἔστω· διέλετε (Mete emoi mete aute esto· dielete)",
-       "greek_def_ro": "Μήτε ἐμοὶ μήτε αὐτῇ ἔστω· διέλετε (Mete emoi mete aute esto· dielete) — nici mie, nici ei să nu fie; despărțiți-l."
+       "def_ro": "tăiați",
+       "dict_ro": "Gazar înseamnă „a tăia, a despica”: „Cel ce a despărțit Marea Roșie în două” (Psalmul 136:13). Porunca regelui, „tăiați copilul în două”, este o cursă pentru a vedea ce femeie are milă.",
+       "greek": "διαιρέω (diaireo)",
+       "greek_def_ro": "διαιρέω (diaireo) — a împărți, a tăia"
+      },
+      {
+       "t": "!”"
       }
      ],
      "textCompare": [
@@ -51344,113 +51163,127 @@
      "translit": "Vaiaan hameleh vaiomer tenu-lah et-haialud hahai vehamēt lo temituhu hi imo.",
      "tokens": [
       {
-       "t": "Și regele",
-       "w": "Și regele",
+       "t": "Și "
+      },
+      {
+       "t": "regele",
+       "w": "regele",
        "heb": "הַמֶּלֶךְ",
        "translit": "hameleh",
        "strong": "H4428",
        "pos": "substantiv, masculin singular",
-       "def_ro": "regele (hameleh)",
-       "dict_ro": "Decizia finală a regelui, de a da copilul mamei adevărate, demonstrează public dreptatea descoperită prin reacțiile celor două femei."
+       "def_ro": "regele",
+       "dict_ro": "Melek înseamnă „rege”. Cuvântul străbate tot episodul: femeile vin la rege, el judecă, iar Israelul se teme de rege. Regele este judecătorul suprem.",
+       "greek": "βασιλεύς (basileus)",
+       "greek_def_ro": "βασιλεύς (basileus) — rege"
       },
       {
        "t": " "
       },
       {
-       "t": "a răspuns și a spus:",
-       "w": "a răspuns și a spus:",
-       "heb": "וַיַּעַן וַיֹּאמֶר",
-       "translit": "vaiaan vaiomer",
+       "t": "a răspuns",
+       "w": "a răspuns",
+       "heb": "וַיַּעַן",
+       "translit": "vaiaan",
+       "strong": "H6030",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a răspuns",
+       "dict_ro": "Ana înseamnă „a răspunde”: „Avraam a răspuns” (Geneza 18:27). Regele răspunde la rugămintea mamei, nu la porunca crudă a celeilalte; răspunsul lui arată că a înțeles.",
+       "greek": "ἀποκρίνομαι (apokrinomai)",
+       "greek_def_ro": "ἀποκρίνομαι (apokrinomai) — a răspunde"
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "a spus",
+       "w": "a spus",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
        "strong": "H559",
-       "pos": "verb, qal imperfect consecutiv + verb, qal imperfect consecutiv",
-       "def_ro": "și a răspuns și a spus: (vaiaan vaiomer)",
-       "dict_ro": "Decizia finală a regelui, de a da copilul mamei adevărate, demonstrează public dreptatea descoperită prin reacțiile celor două femei."
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
+      },
+      {
+       "t": ": „"
+      },
+      {
+       "t": "Dați-i",
+       "w": "Dați-i",
+       "heb": "תְּנוּ",
+       "translit": "tenu",
+       "strong": "H5414",
+       "pos": "verb, qal imperativ",
+       "def_ro": "dați-i",
+       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6).",
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a da"
       },
       {
        "t": " "
       },
       {
-       "t": "„Dați-i",
-       "w": "„Dați-i",
-       "heb": "תְּנוּ לָהּ",
-       "translit": "tenu lah",
-       "strong": "",
-       "pos": "verb, qal imperativ + prepoziție + sufix",
-       "def_ro": "dați-i (tenu lah)",
-       "dict_ro": "Decizia finală a regelui, de a da copilul mamei adevărate, demonstrează public dreptatea descoperită prin reacțiile celor două femei."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "nou-născutul",
-       "w": "nou-născutul",
-       "heb": "הַיָּלוּד",
-       "translit": "haialud",
+       "t": "nou-născutul viu",
+       "w": "nou-născutul viu",
+       "heb": "הַיָּלוּד הַחַי",
+       "translit": "haialud hahai",
        "strong": "H3205",
-       "pos": "verb, qal participiu pasiv",
-       "def_ro": "nou-născutul (haialud)",
-       "dict_ro": "Decizia finală a regelui, de a da copilul mamei adevărate, demonstrează public dreptatea descoperită.",
-       "greek": "Δότε τὸ παιδίον τῇ εἰπούσῃ Δότε αὐτῇ αὐτὸ καὶ θανάτῳ μὴ θανατώσητε αὐτόν (Dote to paidion te eipouse Dote aute auto kai thanato me thanatosete auton)",
-       "greek_def_ro": "Δότε τὸ παιδίον τῇ εἰπούσῃ Δότε αὐτῇ αὐτὸ καὶ θανάτῳ μὴ θανατώσητε αὐτόν (Dote to paidion te eipouse Dote aute auto kai thanato me thanatosete auton) — dați copilul celei care a spus: dați-i-l, și cu moarte să nu-l dați morții."
+       "pos": "verb, qal participiu pasiv + adjectiv, masculin singular",
+       "def_ro": "pruncul cel viu",
+       "dict_ro": "„Haialud hahai” înseamnă „pruncul cel viu”. Ialud este nou-născutul. Regele hotărăște ca pruncul viu să nu fie ucis, ci dat mamei care a renunțat la el.",
+       "greek": "παιδίον (paidion)",
+       "greek_def_ro": "παιδίον (paidion) — prunc"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "viu",
-       "w": "viu",
-       "heb": "הַחַי",
-       "translit": "hahai",
-       "strong": "H2416",
-       "pos": "adjectiv, masculin singular",
-       "def_ro": "viu (hahai)",
-       "dict_ro": "Decizia finală a regelui, de a da copilul mamei adevărate, demonstrează public dreptatea descoperită.",
-       "greek": "Δότε τὸ παιδίον τῇ εἰπούσῃ Δότε αὐτῇ αὐτὸ καὶ θανάτῳ μὴ θανατώσητε αὐτόν (Dote to paidion te eipouse Dote aute auto kai thanato me thanatosete auton)",
-       "greek_def_ro": "Δότε τὸ παιδίον τῇ εἰπούσῃ Δότε αὐτῇ αὐτὸ καὶ θανάτῳ μὴ θανατώσητε αὐτόν (Dote to paidion te eipouse Dote aute auto kai thanato me thanatosete auton) — dați copilul celei care a spus: dați-i-l, și cu moarte să nu-l dați morții."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "și nu-l ucideți,",
-       "w": "și nu-l ucideți,",
+       "t": "nu-l ucideți",
+       "w": "nu-l ucideți",
        "heb": "וְהָמֵת לֹא תְמִיתֻהוּ",
        "translit": "vehamēt lo temituhu",
        "strong": "H4191",
        "pos": "verb, hifil infinitiv absolut + particulă negativă + verb, hifil imperfect + sufix",
-       "def_ro": "și a ucide, nu-l ucideți, (vehamēt lo temituhu)",
-       "dict_ro": "Dublarea verbului «a ucide, nu ucideți» pecetluiește, și la rege, aceeași emfază absolută folosită deja de mama adevărată."
+       "def_ro": "nu-l omorâți",
+       "dict_ro": "„Vehamet al temituhu” este un infinitiv absolut urmat de verb: „a omorî nu-l omorâți”. Formula întărește rugămintea mamei: „nu-l omorâți deloc!”. Ea preferă să-și piardă copilul decât să-l vadă ucis.",
+       "greek": "θανατόω (thanatoo)",
+       "greek_def_ro": "θανατόω (thanatoo) — a omorî"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "ea este",
-       "w": "ea este",
+       "t": "ea",
+       "w": "ea",
        "heb": "הִיא",
        "translit": "hi",
        "strong": "H1931",
        "pos": "pronume personal",
-       "def_ro": "ea [este] (hi)",
-       "dict_ro": "Dublarea verbului pecetluiește recunoașterea clară: ea este adevărata mamă, singura dispusă să cedeze pentru viața copilului.",
-       "greek": "αὐτὴ ἡ μήτηρ αὐτοῦ (aute he meter autou)",
-       "greek_def_ro": "αὐτὴ ἡ μήτηρ αὐτοῦ (aute he meter autou) — aceasta e mama lui."
+       "def_ro": "aceasta",
+       "dict_ro": "Hu, „el”, capătă în Isaia 41-48 un sens teologic în formula ani hu, „Eu sunt Acela”: Dumnezeu e Același, neschimbat, de la început până la sfârșit (Isaia 43:10; 48:12).",
+       "greek": "οὗτος (houtos)",
+       "greek_def_ro": "οὗτος (houtos) — acesta"
       },
       {
-       "t": " "
+       "t": " este "
       },
       {
-       "t": "mama lui!”",
-       "w": "mama lui!”",
+       "t": "mama lui",
+       "w": "mama lui",
        "heb": "אִמּוֹ",
        "translit": "imo",
        "strong": "H517",
        "pos": "substantiv, feminin singular construct + sufix",
-       "def_ro": "mama lui!” (imo)",
-       "dict_ro": "Dublarea verbului pecetluiește recunoașterea clară: ea este adevărata mamă, singura dispusă să cedeze pentru viața copilului.",
-       "greek": "αὐτὴ ἡ μήτηρ αὐτοῦ (aute he meter autou)",
-       "greek_def_ro": "αὐτὴ ἡ μήτηρ αὐτοῦ (aute he meter autou) — aceasta e mama lui."
+       "def_ro": "mama lui",
+       "dict_ro": "Em înseamnă „mamă”. Cuvântul lui Solomon, „ea este mama lui”, încheie judecata: milostivirea a arătat cine este mama, fără nicio probă.",
+       "greek": "μήτηρ (meter)",
+       "greek_def_ro": "μήτηρ (meter) — mamă"
+      },
+      {
+       "t": "!”"
       }
      ],
      "textCompare": [
@@ -51503,31 +51336,16 @@
      "translit": "Vaișmeu hol-Israēl et-hamișpat așer șafat hameleh vaireu mipenēi hameleh ki raou ki-hohmat Elohim bekirbo laasot mișpat.",
      "tokens": [
       {
-       "t": "Tot",
-       "w": "Tot",
-       "heb": "כָל",
-       "translit": "hal",
+       "t": "Tot Israelul",
+       "w": "Tot Israelul",
+       "heb": "כָל יִשְׂרָאֵל",
+       "translit": "hal israēl",
        "strong": "H3605",
-       "pos": "substantiv, masculin singular construct",
-       "def_ro": "tot (hal)",
-       "dict_ro": "Vestea judecății se răspândește în întregul Israel, stabilind reputația lui Solomon ca rege dotat cu înțelepciune divină.",
-       "greek": "ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς (ekousan pas Israel to krima touto ho ekrinen ho basileus)",
-       "greek_def_ro": "ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς (ekousan pas Israel to krima touto ho ekrinen ho basileus) — a auzit tot Israelul judecata aceasta pe care a judecat-o regele."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "Israelul",
-       "w": "Israelul",
-       "heb": "יִשְׂרָאֵל",
-       "translit": "israēl",
-       "strong": "H3478",
-       "pos": "nume propriu",
-       "def_ro": "Israel (israēl)",
-       "dict_ro": "Vestea judecății se răspândește în întregul Israel, stabilind reputația lui Solomon ca rege dotat cu înțelepciune divină.",
-       "greek": "ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς (ekousan pas Israel to krima touto ho ekrinen ho basileus)",
-       "greek_def_ro": "ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς (ekousan pas Israel to krima touto ho ekrinen ho basileus) — a auzit tot Israelul judecata aceasta pe care a judecat-o regele."
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "tot Israelul",
+       "dict_ro": "„Kol Israel” înseamnă „tot Israelul”. Vestea judecății se răspândește în toată țara. Nu este vorba doar de o pricină privată: este semnul că regele are o înțelepciune de la Dumnezeu.",
+       "greek": "πᾶς Ἰσραήλ (pas Israel)",
+       "greek_def_ro": "πᾶς Ἰσραήλ (pas Israel) — tot Israelul"
       },
       {
        "t": " "
@@ -51539,10 +51357,10 @@
        "translit": "vaișmeu",
        "strong": "H8085",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a auzit (vaișmeu)",
-       "dict_ro": "Vestea judecății se răspândește în întregul Israel, stabilind reputația lui Solomon ca rege dotat cu înțelepciune divină.",
-       "greek": "ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς (ekousan pas Israel to krima touto ho ekrinen ho basileus)",
-       "greek_def_ro": "ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς (ekousan pas Israel to krima touto ho ekrinen ho basileus) — a auzit tot Israelul judecata aceasta pe care a judecat-o regele."
+       "def_ro": "au auzit",
+       "dict_ro": "Șama unește în ebraică auzul și ascultarea: a auzi cu adevărat înseamnă a împlini ce ai auzit. De aici vine „Șema Israel” (Deuteronomul 6:4), mărturisirea de credință a iudaismului. Forma cauzativă (hișmia) înseamnă „a face să audă”, adică a vesti, a proclama.",
+       "greek": "ἀκούω (akouo)",
+       "greek_def_ro": "ἀκούω (akouo) — a auzi"
       },
       {
        "t": " "
@@ -51554,28 +51372,13 @@
        "translit": "hamișpat",
        "strong": "H4941",
        "pos": "substantiv, masculin singular",
-       "def_ro": "judecata (hamișpat)",
-       "dict_ro": "Vestea judecății se răspândește în întregul Israel, stabilind reputația lui Solomon ca rege dotat cu înțelepciune divină.",
-       "greek": "ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς (ekousan pas Israel to krima touto ho ekrinen ho basileus)",
-       "greek_def_ro": "ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς (ekousan pas Israel to krima touto ho ekrinen ho basileus) — a auzit tot Israelul judecata aceasta pe care a judecat-o regele."
+       "def_ro": "judecata",
+       "dict_ro": "Mișpat înseamnă „judecată, hotărâre”: „ca să facă dreptate și judecată” (Geneza 18:19). Judecata lui Solomon este prima probă a înțelepciunii primite la Ghibeon.",
+       "greek": "κρίμα (krima)",
+       "greek_def_ro": "κρίμα (krima) — judecată"
       },
       {
-       "t": " "
-      },
-      {
-       "t": "pe care",
-       "w": "pe care",
-       "heb": "אֲשֶׁר",
-       "translit": "așer",
-       "strong": "H834",
-       "pos": "particulă relativă",
-       "def_ro": "pe care (așer)",
-       "dict_ro": "Vestea judecății se răspândește în întregul Israel, stabilind reputația lui Solomon.",
-       "greek": "ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς (ekousan pas Israel to krima touto ho ekrinen ho basileus)",
-       "greek_def_ro": "ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς (ekousan pas Israel to krima touto ho ekrinen ho basileus) — a auzit tot Israelul judecata aceasta pe care a judecat-o regele."
-      },
-      {
-       "t": " "
+       "t": " pe care "
       },
       {
        "t": "o judecase",
@@ -51584,10 +51387,10 @@
        "translit": "șafat",
        "strong": "H8199",
        "pos": "verb, qal perfect",
-       "def_ro": "a judecat (șafat)",
-       "dict_ro": "Vestea judecății se răspândește în întregul Israel, stabilind reputația lui Solomon.",
-       "greek": "ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς (ekousan pas Israel to krima touto ho ekrinen ho basileus)",
-       "greek_def_ro": "ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς (ekousan pas Israel to krima touto ho ekrinen ho basileus) — a auzit tot Israelul judecata aceasta pe care a judecat-o regele."
+       "def_ro": "a judecat",
+       "dict_ro": "Șafat înseamnă „a judeca”: „Judecătorul întregului pământ nu va face dreptate?” (Geneza 18:25). Solomon a judecat o pricină fără martori, doar prin înțelepciunea dată de DOMNUL.",
+       "greek": "κρίνω (krino)",
+       "greek_def_ro": "κρίνω (krino) — a judeca"
       },
       {
        "t": " "
@@ -51599,124 +51402,103 @@
        "translit": "hameleh",
        "strong": "H4428",
        "pos": "substantiv, masculin singular",
-       "def_ro": "regele (hameleh)",
-       "dict_ro": "Vestea judecății se răspândește în întregul Israel, stabilind reputația lui Solomon.",
-       "greek": "ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς (ekousan pas Israel to krima touto ho ekrinen ho basileus)",
-       "greek_def_ro": "ἤκουσαν πᾶς Ἰσραὴλ τὸ κρίμα τοῦτο ὃ ἔκρινεν ὁ βασιλεύς (ekousan pas Israel to krima touto ho ekrinen ho basileus) — a auzit tot Israelul judecata aceasta pe care a judecat-o regele."
+       "def_ro": "regele",
+       "dict_ro": "Melek înseamnă „rege”. Cuvântul străbate tot episodul: femeile vin la rege, el judecă, iar Israelul se teme de rege. Regele este judecătorul suprem.",
+       "greek": "βασιλεύς (basileus)",
+       "greek_def_ro": "βασιλεύς (basileus) — rege"
       },
       {
-       "t": " în ziua aceea "
+       "t": " în ziua aceea și "
       },
       {
-       "t": "și s-au temut",
-       "w": "și s-au temut",
+       "t": "s-au temut",
+       "w": "s-au temut",
        "heb": "וַיִּרְאוּ",
        "translit": "vairu",
        "strong": "H3372",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și s-au temut (vairu)",
-       "dict_ro": "Teama de rege, provocată de această judecată, confirmă public autoritatea morală a noului conducător al lui Israel.",
-       "greek": "ἐφοβήθησαν ἀπὸ προσώπου τοῦ βασιλέως (ephobethesan apo prosopou tou basileos)",
-       "greek_def_ro": "ἐφοβήθησαν ἀπὸ προσώπου τοῦ βασιλέως (ephobethesan apo prosopou tou basileos) — s-au temut de fața regelui."
+       "def_ro": "s-au temut",
+       "dict_ro": "Iare unește frica și evlavia: „frica de DOMNUL” (irat Adonai) e respectul plin de iubire față de El. Formula „nu te teme” (al tira), adresată de Dumnezeu lui Avraam (Geneza 15:1), e reluată de Isaia ca făgăduință de ocrotire pentru tot Israelul (Isaia 41:10).",
+       "greek": "φοβέομαι (phobeomai)",
+       "greek_def_ro": "φοβέομαι (phobeomai) — a se teme"
       },
       {
        "t": " "
       },
       {
-       "t": "de rege,",
-       "w": "de rege,",
+       "t": "de rege",
+       "w": "de rege",
        "heb": "מִפְּנֵי הַמֶּלֶךְ",
        "translit": "mipnē hameleh",
-       "strong": "H4428",
+       "strong": "H6440",
        "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular",
-       "def_ro": "de la fața regelui, (mipnē hameleh)",
-       "dict_ro": "Teama de rege, provocată de această judecată, confirmă public autoritatea morală a noului conducător al lui Israel."
+       "def_ro": "de rege",
+       "dict_ro": "„Lifnei hamelech” înseamnă „înaintea regelui”. A sta înaintea regelui înseamnă a-i cere judecata; în Israel regele era instanța supremă.",
+       "greek": "πρόσωπον βασιλεύς (prosopon basileus)",
+       "greek_def_ro": "πρόσωπον βασιλεύς (prosopon basileus) — dinaintea regelui"
       },
       {
-       "t": " "
+       "t": ", căci "
       },
       {
-       "t": "căci au văzut",
-       "w": "căci au văzut",
-       "heb": "כִּי רָאוּ",
-       "translit": "ki rau",
+       "t": "au văzut",
+       "w": "au văzut",
+       "heb": "רָאוּ",
+       "translit": "rau",
        "strong": "H7200",
-       "pos": "conjuncție + verb, qal perfect",
-       "def_ro": "căci au văzut (ki rau)",
-       "dict_ro": "Poporul recunoaște în această judecată un semn vizibil al înțelepciunii divine, nu doar al ingeniozității omenești."
+       "pos": "verb, qal perfect",
+       "def_ro": "au văzut",
+       "dict_ro": "Raa e verbul vederii, dar și al înțelegerii: a vedea înseamnă adesea a pricepe. Din aceeași rădăcină vine roe, „văzătorul”, numele vechi al profetului.",
+       "greek": "ὁράω (horao)",
+       "greek_def_ro": "ὁράω (horao) — a se arăta"
       },
       {
-       "t": " "
+       "t": " că "
       },
       {
-       "t": "că înțelepciunea",
-       "w": "că înțelepciunea",
-       "heb": "כִּי חָכְמַת",
-       "translit": "ki hahmat",
+       "t": "înțelepciunea lui Dumnezeu",
+       "w": "înțelepciunea lui Dumnezeu",
+       "heb": "חָכְמַת אֱלֹהִים",
+       "translit": "hahmat elohim",
        "strong": "H2451",
-       "pos": "conjuncție + substantiv, feminin singular construct",
-       "def_ro": "că înțelepciunea (hi hahmat)",
-       "dict_ro": "Poporul recunoaște în această judecată un semn vizibil al înțelepciunii divine, nu doar al ingeniozității omenești."
+       "pos": "substantiv, feminin singular construct + substantiv, masculin plural",
+       "def_ro": "înțelepciunea lui Dumnezeu",
+       "dict_ro": "„Hohmat Elohim” înseamnă „înțelepciunea lui Dumnezeu”. În 1 Împărați 5:9 se spune că „Dumnezeu i-a dat lui Solomon înțelepciune”. Israelul recunoaște în hotărârea lui un dar de la Dumnezeu.",
+       "greek": "φρόνησις θεός (phronesis theos)",
+       "greek_def_ro": "φρόνησις θεός (phronesis theos) — înțelepciunea lui Dumnezeu"
       },
       {
-       "t": " "
+       "t": " era "
       },
       {
-       "t": "lui Dumnezeu",
-       "w": "lui Dumnezeu",
-       "heb": "אֱלֹהִים",
-       "translit": "elohim",
-       "strong": "H430",
-       "pos": "substantiv, masculin plural",
-       "def_ro": "lui Dumnezeu (elohim)",
-       "dict_ro": "Poporul recunoaște în această judecată un semn vizibil al înțelepciunii divine, nu doar al ingeniozității omenești.",
-       "greek": "φρόνησις θεοῦ ἐν αὐτῷ τοῦ ποιεῖν δικαίωμα (phronesis theou en auto tou poiein dikaioma)",
-       "greek_def_ro": "φρόνησις θεοῦ ἐν αὐτῷ τοῦ ποιεῖν δικαίωμα (phronesis theou en auto tou poiein dikaioma) — pricepere de la Dumnezeu [era] în el, ca să facă dreptate."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "era cu el,",
-       "w": "era cu el,",
+       "t": "cu el",
+       "w": "cu el",
        "heb": "בְּקִרְבּוֹ",
        "translit": "bekirbo",
        "strong": "H7130",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "[era] în el, (bekirbo)",
-       "dict_ro": "Poporul recunoaște în această judecată un semn vizibil al înțelepciunii divine, nu doar al ingeniozității omenești.",
-       "greek": "φρόνησις θεοῦ ἐν αὐτῷ τοῦ ποιεῖν δικαίωμα (phronesis theou en auto tou poiein dikaioma)",
-       "greek_def_ro": "φρόνησις θεοῦ ἐν αὐτῷ τοῦ ποιεῖν δικαίωμα (phronesis theou en auto tou poiein dikaioma) — pricepere de la Dumnezeu [era] în el, ca să facă dreptate."
+       "def_ro": "înăuntrul lui",
+       "dict_ro": "Qerev înseamnă „interior, mijloc”. Înțelepciunea lui Dumnezeu este „înăuntrul lui”, nu un meșteșug învățat; Israelul o vede în fapte.",
+       "greek": "ἐν αὐτῷ (en auto)",
+       "greek_def_ro": "ἐν αὐτῷ (en auto) — în el"
       },
       {
-       "t": " "
+       "t": ", ca "
       },
       {
-       "t": "ca să facă",
-       "w": "ca să facă",
-       "heb": "לַעֲשׂוֹת",
-       "translit": "laasot",
+       "t": "să facă dreptate",
+       "w": "să facă dreptate",
+       "heb": "לַעֲשׂוֹת מִשְׁפָּט",
+       "translit": "laasot mișpat",
        "strong": "H6213",
-       "pos": "verb, qal infinitiv",
-       "def_ro": "să facă (laasot)",
-       "dict_ro": "Capacitatea de a face dreptate, recunoscută explicit ca dar divin, închide episodul judecății.",
-       "greek": "φρόνησις θεοῦ ἐν αὐτῷ τοῦ ποιεῖν δικαίωμα (phronesis theou en auto tou poiein dikaioma)",
-       "greek_def_ro": "φρόνησις θεοῦ ἐν αὐτῷ τοῦ ποιεῖν δικαίωμα (phronesis theou en auto tou poiein dikaioma) — pricepere de la Dumnezeu [era] în el, ca să facă dreptate."
+       "pos": "verb, qal infinitiv + substantiv, masculin singular",
+       "def_ro": "ca să facă judecată",
+       "dict_ro": "„Asot mișpat” înseamnă „a face dreptate, a judeca”: „să facă dreptate și judecată” (Geneza 18:19). Aceasta este menirea regelui: să facă judecată dreaptă între oameni.",
+       "greek": "ποιέω δικαίωμα (poieo dikaioma)",
+       "greek_def_ro": "ποιέω δικαίωμα (poieo dikaioma) — a face dreptate"
       },
       {
-       "t": " "
-      },
-      {
-       "t": "dreptate.",
-       "w": "dreptate.",
-       "heb": "מִשְׁפָּט",
-       "translit": "mișpat",
-       "strong": "H4941",
-       "pos": "substantiv, masculin singular",
-       "def_ro": "dreptate. (mișpat)",
-       "dict_ro": "Capacitatea de a face dreptate, recunoscută explicit ca dar divin, închide episodul judecății.",
-       "greek": "φρόνησις θεοῦ ἐν αὐτῷ τοῦ ποιεῖν δικαίωμα (phronesis theou en auto tou poiein dikaioma)",
-       "greek_def_ro": "φρόνησις θεοῦ ἐν αὐτῷ τοῦ ποιεῖν δικαίωμα (phronesis theou en auto tou poiein dikaioma) — pricepere de la Dumnezeu [era] în el, ca să facă dreptate."
+       "t": "."
       }
      ],
      "textCompare": [
@@ -51768,16 +51550,19 @@
      "translit": "Vaiehi hameleh Șlomo meleh al-kol-Israēl.",
      "tokens": [
       {
-       "t": "Și regele",
-       "w": "Și regele",
+       "t": "Și "
+      },
+      {
+       "t": "regele",
+       "w": "regele",
        "heb": "הַמֶּלֶךְ",
        "translit": "hameleh",
        "strong": "H4428",
        "pos": "substantiv, masculin singular",
-       "def_ro": "regele (hameleh)",
-       "dict_ro": "Versetul de tranziție confirmă formal domnia lui Solomon peste tot Israelul, deschizând descrierea organizării administrative a regatului.",
-       "greek": "ὁ βασιλεὺς Σαλωμὼν βασιλεύων ἐπὶ Ἰσραήλ (ho basileus Salomon basileuon epi Israel)",
-       "greek_def_ro": "ὁ βασιλεὺς Σαλωμὼν βασιλεύων ἐπὶ Ἰσραήλ (ho basileus Salomon basileuon epi Israel) — regele Solomon domnind peste Israel."
+       "def_ro": "regele",
+       "dict_ro": "Melek înseamnă „rege”. Cuvântul străbate tot episodul: femeile vin la rege, el judecă, iar Israelul se teme de rege. Regele este judecătorul suprem.",
+       "greek": "βασιλεύς (basileus)",
+       "greek_def_ro": "βασιλεύς (basileus) — rege"
       },
       {
        "t": " "
@@ -51789,10 +51574,10 @@
        "translit": "șelomo",
        "strong": "H8010",
        "pos": "nume propriu",
-       "def_ro": "Solomon (șelomo)",
-       "dict_ro": "Versetul de tranziție confirmă formal domnia lui Solomon peste tot Israelul.",
-       "greek": "ὁ βασιλεὺς Σαλωμὼν βασιλεύων ἐπὶ Ἰσραήλ (ho basileus Salomon basileuon epi Israel)",
-       "greek_def_ro": "ὁ βασιλεὺς Σαλωμὼν βασιλεύων ἐπὶ Ἰσραήλ (ho basileus Salomon basileuon epi Israel) — regele Solomon domnind peste Israel."
+       "def_ro": "Solomon",
+       "dict_ro": "Șelomo, Solomon, vine din șalom, „pace”: fiul lui David și al Batșebei. Hotărârea lui la Ghibeon, la începutul domniei, este cererea de înțelepciune, apoi ea este pusă la încercare în judecata celor două mame.",
+       "greek": "Σαλωμών (Salomon)",
+       "greek_def_ro": "Σαλωμών (Salomon) — Solomon"
       },
       {
        "t": " "
@@ -51804,8 +51589,10 @@
        "translit": "vaihi",
        "strong": "H1961",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a fost (vaihi)",
-       "dict_ro": "Versetul de tranziție confirmă formal domnia lui Solomon peste tot Israelul."
+       "def_ro": "a fost",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "εἰμί (eimi)",
+       "greek_def_ro": "εἰμί (eimi) — a fi"
       },
       {
        "t": " "
@@ -51817,38 +51604,29 @@
        "translit": "meleh",
        "strong": "H4428",
        "pos": "substantiv, masculin singular",
-       "def_ro": "rege (meleh)",
-       "dict_ro": "Versetul de tranziție confirmă formal domnia lui Solomon peste tot Israelul.",
-       "greek": "ὁ βασιλεὺς Σαλωμὼν βασιλεύων ἐπὶ Ἰσραήλ (ho basileus Salomon basileuon epi Israel)",
-       "greek_def_ro": "ὁ βασιλεὺς Σαλωμὼν βασιλεύων ἐπὶ Ἰσραήλ (ho basileus Salomon basileuon epi Israel) — regele Solomon domnind peste Israel."
+       "def_ro": "rege",
+       "dict_ro": "Melek înseamnă „rege”. Cuvântul străbate tot episodul: femeile vin la rege, el judecă, iar Israelul se teme de rege. Regele este judecătorul suprem.",
+       "greek": "βασιλεύω (basileuo)",
+       "greek_def_ro": "βασιλεύω (basileuo) — a domni"
       },
       {
-       "t": " "
+       "t": " peste "
       },
       {
-       "t": "peste tot",
-       "w": "peste tot",
-       "heb": "עַל כָּל",
-       "translit": "al kal",
+       "t": "tot Israelul",
+       "w": "tot Israelul",
+       "heb": "כָּל יִשְׂרָאֵל",
+       "translit": "kal israēl",
        "strong": "H3605",
-       "pos": "prepoziție + substantiv, masculin singular construct",
-       "def_ro": "peste tot (al kal)",
-       "dict_ro": "Versetul de tranziție confirmă formal domnia lui Solomon peste tot Israelul."
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "peste tot Israelul",
+       "dict_ro": "„Kol Israel” înseamnă „tot Israelul”. Vestea judecății se răspândește în toată țara. Nu este vorba doar de o pricină privată: este semnul că regele are o înțelepciune de la Dumnezeu.",
+       "greek": "Ἰσραήλ (Israel)",
+       "greek_def_ro": "Ἰσραήλ (Israel) — Israel",
+       "diff_ro": "Ebraica: „peste tot Israelul” (al kol Israel); Septuaginta: „peste Israel” (ἐπὶ Ἰσραήλ), fără „tot”."
       },
       {
-       "t": " "
-      },
-      {
-       "t": "Israelul.",
-       "w": "Israelul.",
-       "heb": "יִשְׂרָאֵל",
-       "translit": "israēl",
-       "strong": "H3478",
-       "pos": "nume propriu",
-       "def_ro": "Israelul. (israēl)",
-       "dict_ro": "Versetul de tranziție confirmă formal domnia lui Solomon peste tot Israelul.",
-       "greek": "ὁ βασιλεὺς Σαλωμὼν βασιλεύων ἐπὶ Ἰσραήλ (ho basileus Salomon basileuon epi Israel)",
-       "greek_def_ro": "ὁ βασιλεὺς Σαλωμὼν βασιλεύων ἐπὶ Ἰσραήλ (ho basileus Salomon basileuon epi Israel) — regele Solomon domnind peste Israel."
+       "t": "."
       }
      ],
      "textCompare": [
