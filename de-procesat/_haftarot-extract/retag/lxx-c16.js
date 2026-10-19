@@ -1,0 +1,50 @@
+// Bo — Ieremia 46:13-28 (LXX Ieremia 26:13-28, Rahlfs) — LXX pentru FIECARE tag (mod total)
+const J = (g, f, def, df) => g + '¦' + f + '¦' + def + (df ? '¦' + df : '');
+const Z = df => '0' + (df ? '¦' + df : '');
+const S = { __tot: true };
+S['46:13'] = [J('ὅς', 'ἃ', 'cele ce', 'Ebraica: „cuvântul” (hadavar); Septuaginta: „cele ce” (ἃ ἐλάλησεν).'), J('κύριος', 'κύριος', 'Domn; DOMNUL'), J('λαλέω', 'ἐλάλησεν', 'a vorbi'), Z('Septuaginta nu are „profetului” (hanavi).'),
+  J('Ἱερεμίας', 'ἐν/χειρὶ/Ιερεμιου', 'prin mâna lui Ieremia'), J('Ναβουχοδονοσόρ', 'Ναβουχοδονοσορ', 'Nabucodonosor'), J('βασιλεύς', 'βασιλέα', 'rege'), J('Βαβυλών', 'Βαβυλῶνος', 'Babilon'),
+  J('ἔρχομαι', 'ἐλθεῖν', 'a veni'), J('κόπτω', 'κόψαι', 'a lovi, a tăia'), J('γῆ', 'τὴν/γῆν/Αἰγύπτου', 'țara Egiptului')];
+S['46:14'] = [J('ἀναγγέλλω', 'ἀναγγείλατε', 'a vesti'), Z('Septuaginta nu are „în Egipt” (vemițraim).'), J('παραγγέλλω', 'παραγγείλατε', 'a face cunoscut'), J('Μάγδωλος', 'Μάγδωλον', 'Migdol'),
+  Z('Septuaginta nu repetă „faceți să se audă”.'), J('Μέμφις', 'Μέμφιν', 'Memfis', 'Ebraica: „Nof”; Septuaginta: „Memfis” (Μέμφιν), numele grecesc al aceleiași cetăți.'), Z('Septuaginta nu are „Tahpanes”.'),
+  J('λέγω', 'εἴπατε', 'a spune'), J('ἐφίστημι', 'ἐπίστηθι', 'a sta gata', 'Ebraica: „ridicați-vă” (plural, hitiațev); Septuaginta: „stai gata” (ἐπίστηθι), singular.'), J('ἑτοιμάζω', 'ἑτοίμασον', 'a pregăti'),
+  J('μάχαιρα', 'μάχαιρα', 'sabie'), J('κατεσθίω', 'κατέφαγεν', 'a devora'), J('σμῖλαξ', 'σμίλακά', 'tulpină de viță', 'Ebraica: „împrejurul tău” (seviveha); Septuaginta: „tulpina ta de viță” (τὴν σμίλακά σου).')];
+S['46:15'] = [J('φεύγω', 'ἔφυγεν', 'a fugi', 'Ebraica: „s-au prăbușit” (nishaf); Septuaginta: „a fugit” (ἔφυγεν).'),
+  J('Ἆπις', 'ὁ/Ἆπις', 'Apis', 'Ebraica: „vitejii tăi” (abireha); Septuaginta: „Apis, vițelul tău ales” (ὁ Ἆπις ὁ μόσχος ὁ ἐκλεκτός σου), zeul-taur al Memfisului.'), J('μένω', 'ἔμεινεν', 'a rămâne'),
+  J('κύριος', 'κύριος', 'Domn; DOMNUL'), J('παραλύω', 'παρέλυσεν', 'a slăbi', 'Ebraica: „i-a doborât” (hadafo); Septuaginta: „l-a slăbit” (παρέλυσεν).')];
+S['46:16'] = [J('πλῆθος', 'πλῆθός', 'mulțime', 'Ebraica: „El va face pe mulți” (hirba); Septuaginta: „mulțimea ta” (τὸ πλῆθός σου).'), J('ἀσθενέω', 'ἠσθένησεν', 'a slăbi', 'Ebraica: „să se împiedice” (koșel); Septuaginta: „a slăbit” (ἠσθένησεν).'),
+  J('ἕκαστος', 'ἕκαστος', 'fiecare'), J('πίπτω', 'ἔπεσεν', 'a cădea'), J('πλησίον', 'τὸν/πλησίον', 'aproapele'), J('λαλέω', 'ἐλάλει', 'a vorbi'), J('ἀνίστημι', 'ἀναστῶμεν', 'a se ridica'),
+  J('ἀναστρέφω', 'ἀναστρέψωμεν', 'a se întoarce'), J('λαός', 'τὸν/λαὸν', 'popor'), J('πατρίς', 'εἰς/τὴν/πατρίδα', 'patrie'), J('πρόσωπον', 'ἀπὸ/προσώπου', 'față'), J('μάχαιρα', 'μαχαίρας', 'sabie'),
+  J('Ἑλληνικός', 'Ἑλληνικῆς', 'elinesc', 'Ebraica: „copleșitoare” (hayona); Septuaginta: „elinească” (μαχαίρας Ἑλληνικῆς).')];
+S['46:17'] = [J('καλέω', 'καλέσατε', 'a chema'), Z('Septuaginta nu are „acolo” (șam).'), J('Φαραώ', 'Φαραὼ', 'Faraon'), J('βασιλεύς', 'βασιλέως', 'rege'),
+  J('Σαών', 'Σαών', 'Saon', 'Ebraica: „năvalnic” (șaon, „zgomot”); Septuaginta transliterează: „Saon” (Σαών).'), J('Αἴγυπτος', 'Αἰγύπτου', 'Egipt'),
+  J('Ἐσβί', 'Ἐσβί', 'Esbi', 'Ebraica: „a lăsat să treacă” (heevir); Septuaginta transliterează: „Esbi” (Ἐσβί).'), J('Ἐμωήδ', 'Ἐμωήδ', 'Emoed', 'Ebraica: „momentul potrivit” (hamoed); Septuaginta transliterează: „Emoed” (Ἐμωήδ).')];
+S['46:18'] = [J('ζάω', 'ζῶ', 'a trăi'), J('ἐγώ', 'ἐγώ', 'eu'), J('λέγω', 'λέγει', 'a spune', 'Ebraica: „rostirea” (neum); Septuaginta: „zice” (λέγει).'), Z('Septuaginta nu are „Regelui” (hameleh).'), Z('Septuaginta nu are „numele” (șemo).'),
+  J('κύριος', 'κύριος/ὁ/θεός', 'Domnul Dumnezeu', 'Ebraica: „DOMNUL Oștirilor” (YHWH țevaot); Septuaginta: „Domnul Dumnezeu” (κύριος ὁ θεός).'), J('Ἰταβύριον', 'Ἰταβύριον', 'Tabor'), J('ὄρος', 'ὄρεσιν', 'munte'),
+  J('Κάρμηλος', 'Κάρμηλος', 'Carmel'), J('θάλασσα', 'θαλάσσῃ', 'mare'), J('ἥκω', 'ἥξει', 'a veni')];
+S['46:19'] = [J('ποιέω', 'ποίησον', 'a face'), J('σκεῦος ἀποικισμοῦ', 'σκεύη/ἀποικισμοῦ', 'unelte de strămutare'), J('θυγάτηρ', 'θύγατερ', 'fiică'), J('κατοικέω', 'κατοικοῦσα', 'a locui'), J('Αἴγυπτος', 'Αἰγύπτου', 'Egipt'),
+  J('Μέμφις', 'Μέμφις', 'Memfis', 'Ebraica: „Nof”; Septuaginta: „Memfis”.'), J('εἰμί', 'ἔσται', 'a fi'), J('ἀφανισμός', 'εἰς/ἀφανισμὸν', 'pieire'),
+  J('καλέω', 'κληθήσεται', 'a fi numit', 'Ebraica: „va fi pârjolit” (venițta); Septuaginta: „se va chema «vai»” (καὶ κληθήσεται οὐαί).'), J('κατοικέω', 'διὰ/τὸ/μὴ/ὑπάρχειν/κατοικοῦντας', 'pentru că nu vor mai fi locuitori')];
+S['46:20'] = [J('Αἴγυπτος', 'Αἴγυπτος', 'Egipt'), J('δάμαλις', 'δάμαλις', 'juncă'), J('καλλωπίζω', 'κεκαλλωπισμένη', 'a împodobi', 'Ebraica: „foarte frumoasă” (iefe fia); Septuaginta: „împodobită” (κεκαλλωπισμένη).'),
+  J('ἀπόσπασμα', 'ἀπόσπασμα', 'smulgere', 'Ebraica: „tăietor” (kerets); Septuaginta: „smulgere” (ἀπόσπασμα).'), J('βορρᾶς', 'βορρᾶ', 'miazănoapte'), J('ἔρχομαι', 'ἦλθεν', 'a veni'), Z('Septuaginta nu repetă „vine”.')];
+S['46:21'] = [J('μισθωτός', 'μισθωτοὶ', 'simbriaș'), J('μόσχος', 'μόσχοι', 'vițel'), J('σιτευτός', 'σιτευτοὶ', 'îngrășat'), J('αὐτός', 'καὶ/αὐτοὶ', 'și ei'), J('ἀποστρέφω', 'ἀπεστράφησαν', 'a se întoarce'),
+  J('φεύγω', 'ἔφυγον', 'a fugi'), J('ὁμοθυμαδόν', 'ὁμοθυμαδόν', 'laolaltă'), J('ἵστημι', 'οὐκ/ἔστησαν', 'n-au stat'), J('ἡμέρα', 'ἡμέρα', 'zi'), J('ἀπώλεια', 'ἀπωλείας', 'pieire'),
+  J('ἔρχομαι', 'ἦλθεν', 'a veni'), J('καιρός', 'καιρὸς', 'vreme'), J('ἐκδίκησις', 'ἐκδικήσεως', 'răzbunare', 'Ebraica: „când vor da socoteală” (pekudatam); Septuaginta: „răzbunării lor” (ἐκδικήσεως αὐτῶν).')];
+S['46:22'] = [J('φωνή', 'φωνὴ', 'glas'), J('συρίζω', 'συρίζοντος', 'a șuiera'), J('ὄφις', 'ὄφεως', 'șarpe'), J('πορεύομαι', 'πορεύσονται', 'a merge'), J('ἄμμος', 'ἐν/ἄμμῳ', 'prin nisip', 'Ebraica: „oaste” (hail); Septuaginta: „prin nisip” (ἐν ἄμμῳ).'),
+  J('ἀξίνη', 'ἀξίναις', 'secure'), J('ἥκω', 'ἥξουσιν', 'a veni'), J('κόπτω', 'κόπτοντες', 'a tăia'), J('ξύλον', 'ξύλα', 'lemn')];
+S['46:23'] = [J('ἐκκόπτω', 'ἐκκόψουσιν', 'a tăia'), J('δρυμός', 'δρυμὸν', 'dumbravă'), J('λέγω', 'λέγει', 'a spune', 'Ebraica: „rostirea” (neum); Septuaginta: „zice” (λέγει).'),
+  J('κύριος', 'κύριος/ὁ/θεός', 'Domnul Dumnezeu', 'Ebraica: „DOMNULUI”; Septuaginta: „Domnul Dumnezeu” (κύριος ὁ θεός).'), J('πληθύνω', 'πληθύνει', 'a se înmulți'), J('ἀκρίς', 'ὑπὲρ/ἀκρίδα', 'mai mult decât lăcusta'), J('ἀριθμός', 'ἀριθμός', 'număr')];
+S['46:24'] = [J('καταισχύνω', 'κατῃσχύνθη', 'a se rușina'), J('θυγάτηρ', 'θυγάτηρ', 'fiică'), J('Αἴγυπτος', 'Αἰγύπτου', 'Egipt'), J('παραδίδωμι', 'παρεδόθη', 'a da'), J('χείρ', 'χεῖρας', 'mână'), J('λαός', 'λαοῦ', 'popor'), J('βορρᾶς', 'βορρᾶ', 'miazănoapte')];
+S['46:25'] = [Z('Septuaginta nu are „DOMNUL Oștirilor” (YHWH țevaot).'), Z('Septuaginta nu are „Dumnezeul lui Israel”.'), Z('Septuaginta nu are „a spus” (amar).'), J('ἐκδικέω', 'ἐκδικῶ', 'a răzbuna'), J('Ἄμμων', 'Αμων', 'Amon'),
+  J('υἱός', 'τὸν/υἱὸν', 'fiu', 'Ebraica: „din No” (mino); Septuaginta: „fiul ei” (τὸν υἱὸν αὐτῆς).'), J('Φαραώ', 'Φαραω', 'Faraon'), Z('Septuaginta nu are „Egipt” aici.'), Z('Septuaginta nu are „zeii săi” (eloheha).'), Z('Septuaginta nu are „regii săi” (melaheha).'),
+  Z('Septuaginta nu repetă „Faraon”.'), J('πείθω', 'πεποιθότας', 'cei care se încred')];
+S['46:26'] = [Z('Septuaginta nu are acest verset; trece de la v. 25 direct la „Iar tu nu te teme” (v. 27 din TM).'), Z(), Z(), Z(), Z(), Z(), Z(), Z(), Z(), Z(), Z(), Z(), Z(), Z(), Z(), Z()];
+S['46:27'] = [J('σύ', 'σὺ', 'tu'), J('φοβέομαι', 'φοβηθῇς', 'a se teme'), J('δοῦλος', 'δοῦλός', 'slujitor'), J('Ἰακώβ', 'Ιακωβ', 'Iacov'), J('πτοέω', 'πτοηθῇς', 'a se înspăimânta'), J('Ἰσραήλ', 'Ισραηλ', 'Israel'),
+  J('σῴζω', 'σῴζων', 'a mântui', 'Ebraica: „te voi elibera” (moșiaha); Septuaginta: „te mântuiesc” (σῴζων σε).'), J('μακρόθεν', 'μακρόθεν', 'de departe'), J('σπέρμα', 'σπέρμα', 'sămânță'), Z('Septuaginta nu are „țara” (mieretz).'),
+  J('αἰχμαλωσία', 'αἰχμαλωσίας', 'robie'), J('Ἰακώβ', 'Ιακωβ', 'Iacov'), J('ἀναστρέφω', 'ἀναστρέψει', 'a se întoarce'), J('ἡσυχάζω', 'ἡσυχάσει', 'a se liniști'),
+  J('ὑπνόω', 'ὑπνώσει', 'a dormi', 'Ebraica: „liniște” (veșaanan); Septuaginta: „va dormi” (ὑπνώσει).'), J('παρενοχλέω', 'παρενοχλῶν', 'a supăra, a tulbura')];
+S['46:28'] = [J('φοβέομαι', 'μὴ/φοβοῦ', 'a se teme'), J('παῖς', 'παῖς', 'copil, slujitor', 'Ebraica: „slujitorul Meu” (avdi); Septuaginta: „copilul Meu” (παῖς μου).'), J('Ἰακώβ', 'Ιακωβ', 'Iacov'),
+  J('λέγω', 'λέγει', 'a spune', 'Ebraica: „rostirea” (neum); Septuaginta: „zice” (λέγει).'), J('κύριος', 'κύριος', 'Domn; DOMNUL'), J('ἐγώ', 'ἐγώ', 'eu'), J('ποιέω', 'ποιήσω/συντέλειαν', 'a face sfârșit'),
+  J('ἔθνος', 'ἐν/παντὶ/ἔθνει', 'în fiecare neam'), J('ἐξωθέω', 'ἐξῶσά', 'a alunga'), J('ἐκλείπω', 'οὐ/μὴ/ποιήσω/ἐκλιπεῖν', 'a nu lăsa să dispară'), J('παιδεύω', 'παιδεύσω', 'a disciplina'),
+  J('κρίμα', 'εἰς/κρίμα', 'spre judecată', 'Ebraica: „cu dreptate” (lamișpat); Septuaginta: „spre judecată” (εἰς κρίμα).'), J('ἀθῷος', 'ἀθῷον', 'nevinovat'), J('ἀθῳόω', 'οὐκ/ἀθῳώσω', 'a socoti nevinovat', 'Ebraica: „nu te voi distruge” (lo anakeka, „nu te voi lăsa nepedepsit”); Septuaginta: „nu te voi socoti nevinovat”.')];
+module.exports = S;
