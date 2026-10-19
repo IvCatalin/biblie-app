@@ -31,10 +31,10 @@ const lxxOf = v => { const o = (v.textCompare || []).find(t => t.greek); return 
 const tagsOf = v => (v.tokens || []).filter(t => t.heb);
 
 if (!process.argv.includes('--verifica')) {
-  const only = process.argv[3]; let miss = 0, all = 0;
+  const TOT = process.argv.includes('--tot'); const only = /^--/.test(process.argv[3] || '') ? '' : process.argv[3]; let miss = 0, all = 0;
   for (const v of ch.verses) {
     if (only && v.v !== only) continue;
-    const tg = tagsOf(v); const m = tg.filter(t => !t.greek).length; all += tg.length; miss += m;
+    const tg = tagsOf(v); const m = tg.filter(t => TOT || !t.greek).length; all += tg.length; miss += m;
     if (!only && !m) continue;
     console.log(`\n[${v.v}] ${v.t}\nLXX: ${lxxOf(v)}`);
     console.log(tg.map((t, i) => `${i}${t.greek ? '+' : '-'}:${t.t}|${t.heb}${t.greek ? '|' + t.greek.replace(/ \(.*/, '') : ''}`).join('  '));
@@ -45,13 +45,13 @@ const spec = require('./lxx-c' + String(cn).padStart(2, '0') + '.js');
 const GL = require('./lxx-gl.js'); const miss = new Set();
 const errs = [], warns = []; const st = { greek: 0, kept: 0, none: 0, diff: 0 };
 for (const v of ch.verses) {
-  const tg = tagsOf(v); const sp = spec[v.v];
+  const tg = tagsOf(v); const sp = spec[v.v]; if (spec.__tot && sp) tg.forEach(t => { delete t.greek; delete t.greek_def_ro; delete t.diff_ro; });
   if (!sp) { if (tg.some(t => !t.greek)) errs.push(`${v.v}: lipsește din specificație (${tg.filter(t => !t.greek).length} tag-uri fără greacă)`); continue; }
   if (sp.length !== tg.length) { errs.push(`${v.v}: ${sp.length} itemi pentru ${tg.length} tag-uri`); continue; }
   const lxx = lxxOf(v); if (!lxx) { errs.push(`${v.v}: versetul nu are text LXX`); continue; }
   tg.forEach((t, i) => {
-    const it = sp[i]; const label = `${v.v} #${i} «${t.t}»`;
-    if (it === null || it === undefined) { if (t.greek) st.kept++; else errs.push(`${label}: fără greacă și fără decizie (folosește 0 pentru «LXX nu are corespondent»)`); return; }
+    let it = sp[i]; if (typeof it === 'string') { const p = it.split('¦'); it = p[0] === '0' ? [0, p[1] || ''] : [p[0], (p[1] || '').split('/').filter(Boolean), p[2] || '', p[3] || '']; if (!Array.isArray(it) || (it[0] !== 0 && !it[1].length)) it[1] = undefined; } const label = `${v.v} #${i} «${t.t}»`;
+    if (it === null || it === undefined) { if (spec.__tot) { errs.push(`${label}: decizie lipsă (mod total: fiecare tag cere item sau 0)`); return; } if (t.greek) st.kept++; else errs.push(`${label}: fără greacă și fără decizie (folosește 0 pentru «LXX nu are corespondent»)`); return; }
     if (it === 0 || (Array.isArray(it) && it[0] === 0)) { delete t.greek; delete t.greek_def_ro; delete t.diff_ro; if (Array.isArray(it) && it[1]) { t.diff_ro = it[1]; st.diff++; } st.none++; return; }
     const [g, gf, gd0, df] = it; const gd = gd0 || GL[g];
     if (!g) { errs.push(`${label}: lipsește g`); return; }
