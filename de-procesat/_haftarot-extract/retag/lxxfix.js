@@ -13,7 +13,7 @@ const status = v => {
   if (!r || !r.text) return { st: 'fara', r, e };
   if (!e) return { st: 'lipseste', r, e };
   const ex = norm(e.original), rh = norm(r.text); const L = lcs(ex, rh);
-  return { st: L / rh.length < +(process.env.LXXTH || 0.9) ? 'inlocuieste' : 'ok', cov: L / rh.length, r, e };
+  return { st: L / Math.max(rh.length, ex.length) < +(process.env.LXXTH || 0.9) ? 'inlocuieste' : 'ok', cov: L / Math.max(rh.length, ex.length), r, e };
 };
 if (!WRITE) {
   let n = 0;
@@ -29,7 +29,8 @@ if (!WRITE) {
 }
 const spec = require('./lxxtr-c' + String(cn).padStart(2, '0') + '.js'); const errs = [];
 for (const v of ch.verses) {
-  const s = status(v); if (s.st === 'ok') continue; const sp = spec[v.v];
+  const s = status(v); const sp = spec[v.v];
+  if ((s.st === 'ok' && !(sp && sp.tr)) || (sp && sp.noteOnly)) { if (sp && sp.note && s.e) s.e.note = sp.note; continue; }
   if (!sp) { errs.push(`${v.v}: lipsește din specificație (${s.st})`); continue; }
   if (s.st === 'fara') {
     if (!sp.none) { errs.push(`${v.v}: fără corespondent în Rahlfs — cere { none: "nota" }`); continue; }
