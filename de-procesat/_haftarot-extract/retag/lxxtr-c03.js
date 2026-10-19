@@ -1,0 +1,5 @@
+module.exports = {
+  '41:1': { tr: '„Înnoiți-vă către Mine, insulelor, căci conducătorii își vor schimba puterea; să se apropie și să vorbească împreună; atunci să vestească judecata.”' },
+  '41:2': { tr: '„Cine a trezit dreptatea de la răsărituri, a chemat-o la picioarele lui; și va merge, va da înaintea neamurilor, și va pune regii în uimire, și va da la pământ săbiile lor, și ca vreascurile spulberate arcurile lor.”', note: 'LXX tratează „dreptatea” (δικαιοσύνην) ca substantiv feminin autonom, personificat — „a chemat-o PE EA” — deschizând calea interpretării patristice de mai jos, unde Dreptatea devine identificată direct cu Hristos, nu doar o calitate a unui conducător istoric. A doua jumătate a versetului este redată de LXX mai liber decât în ebraică: „va da înaintea neamurilor… săbiile lor la pământ, arcurile lor ca vreascurile”.' },
+  '41:16': { tr: '„Și-i vei vântura; și vântul îi va lua, și vijelia îi va împrăștia; iar tu te vei veseli întru sfinții lui Israel, și se vor bucura.”' }
+};

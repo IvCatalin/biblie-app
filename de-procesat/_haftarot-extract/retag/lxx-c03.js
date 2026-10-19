@@ -23,11 +23,12 @@ S['40:31'] = [
 S['41:1'] = [
   'ἐγκαινίζω¦Ἐγκαινίζεσθε¦a înnoi, a se reînnoi¦Ebraica: „Ascultați-Mă în tăcere” (haḥarișu elai); Septuaginta: „Înnoiți-vă către Mine” (Ἐγκαινίζεσθε πρός με).', 'νῆσος¦νῆσοι¦insulă',
   'ἄρχων¦ἄρχοντες¦căpetenie, conducător¦Ebraica: „neamurile” (le’umim); Septuaginta: „căpeteniile” (οἱ ἄρχοντες).', 'ἀλλάσσω ἰσχύν¦ἀλλάξουσιν/ἰσχύν¦a schimba (a înnoi) puterea', 'ἐγγίζω¦ἐγγισάτωσαν¦a se apropia',
-  '0¦Septuaginta se oprește la „să se apropie” (ἐγγισάτωσαν); nu are „atunci să vorbească, împreună ne vom apropia la judecată”.', '0', '0', '0', '0'];
+  'τότε¦τότε¦atunci', 'λαλέω¦λαλησάτωσαν¦a vorbi', 'ἅμα¦ἅμα¦împreună', '0¦Ebraica: „ne vom apropia” (niqrava); Septuaginta nu are verbul acesta: „atunci să vestească judecata” (κρίσιν ἀναγγειλάτωσαν).', 'κρίσις¦κρίσιν¦judecată'];
 S['41:2'] = [
   'ἐξεγείρω¦ἐξήγειρεν¦a trezi, a stârni', 'ἀνατολή¦ἀνατολῶν¦răsărit', 'καλέω¦ἐκάλεσεν¦a chema', 'δικαιοσύνη¦δικαιοσύνην¦dreptate', 'πούς¦πόδας¦picior',
-  '0¦Septuaginta are un verset mult mai scurt: după „va merge” (πορεύσεται) nu urmează „să-i dea neamuri înainte, să-l facă să domine peste regi, să-i preschimbe sabia în pulbere și arcul în pleavă purtată de vânt”.',
-  '0', '0', '0', '0', '0', '0', '0', '0', '0'];
+  'δίδωμι¦δώσει¦a da', 'ἔθνος¦ἐθνῶν¦neam', 'ἐναντίον¦ἐναντίον¦înaintea', 'ἐξίστημι¦ἐκστήσει¦a uimi, a îngrozi¦Ebraica: „să-l facă să domine peste regi”; Septuaginta: „va pune regii în uimire” (βασιλεῖς ἐκστήσει).',
+  'βασιλεύς¦βασιλεῖς¦rege', 'δίδωμι¦δώσει¦a da', 'γῆ¦γῆν¦pământ¦Ebraica: „în pulbere” (ke‘afar); Septuaginta: „la pământ” (εἰς γῆν).', 'μάχαιρα¦μαχαίρας¦sabie',
+  'φρύγανον¦φρύγανα/ἐξωσμένα¦vreascuri (spulberate)', 'τόξον¦τόξα¦arc'];
 S['41:3'] = [
   'διώκω¦διώξεται¦a urmări', 'διέρχομαι¦διελεύσεται¦a trece', 'εἰρήνη¦εἰρήνῃ¦pace', 'ὁδός¦ὁδὸς¦cale, drum', 'πούς¦ποδῶν¦picior',
   '0¦Ebraica: „pe o cărare pe care picioarele lui nu au mers”; Septuaginta: „calea picioarelor lui va trece în pace”, fără negația.'];
@@ -72,5 +73,5 @@ S['41:15'] = [
   'βουνός¦βουνούς¦deal', 'χνοῦς¦χνοῦν¦pleavă, puf'];
 S['41:16'] = [
   'λικμάω¦λικμήσεις¦a vântura', 'ἄνεμος¦ἄνεμος¦vânt', 'λαμβάνω¦λήμψεται¦a lua, a ridica', 'καταιγίς¦καταιγὶς¦vijelie, furtună', 'διασπείρω¦διασπερεῖ¦a risipi', 'σύ¦σὺ¦tu', 'εὐφραίνω¦εὐφρανθήσῃ¦a se bucura',
-  '0¦Ebraica: „te vei bucura în DOMNUL”; Septuaginta: „te vei bucura între sfinții lui Israel” (ἐν τοῖς ἁγίοις Ἰσραήλ), fără Numele divin.', 'ἅγιος¦ἁγίοις¦sfânt', '0¦Septuaginta nu are „Îl vei preamări” (tithallal).'];
+  '0¦Ebraica: „te vei bucura în DOMNUL”; Septuaginta: „te vei bucura între sfinții lui Israel” (ἐν τοῖς ἁγίοις Ἰσραήλ), fără Numele divin.', 'ἅγιος¦ἁγίοις¦sfânt', 'ἀγαλλιάομαι¦ἀγαλλιάσονται¦a se bucura mult, a exulta¦Ebraica: „Îl vei preamări” (tithallal), la persoana a doua; Septuaginta: „se vor bucura” (ἀγαλλιάσονται), la persoana a treia.'];
 module.exports = S;

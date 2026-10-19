@@ -2,7 +2,7 @@
 const N = { '54:1': 10, '54:5': 9, '54:9': 6, '54:14': 8, '54:15': 5, '54:16': 13, '54:17': 14, '55:2': 11, '55:3': 10, '55:5': 9 };
 const S = {}; for (const [v, n] of Object.entries(N)) S[v] = Array(n).fill(null);
 S['54:1'][4] = ['βοάω', 'βόησον', 'a striga, a țipa'];
-S['54:1'][9] = [0, 'Septuaginta nu are încheierea „a spus DOMNUL”.'];
+S['54:1'][9] = ['κύριος', 'κύριος', 'Domn; DOMNUL'];
 S['54:5'][5] = ['θεός', 'Θεὸς', 'Dumnezeu', 'Ebraica are „Sfântul lui Israel” (qedoș Israel); Septuaginta are „Dumnezeul lui Israel” (Θεὸς Ἰσραήλ).'];
 S['54:5'][6] = ['Ἰσραήλ', 'Ἰσραήλ', 'Israel'];
 S['54:9'][3] = [0, 'Ebraica spune că DOMNUL a jurat să nu mai treacă apele lui Noe peste pământ; Septuaginta are altă formulare: i-a jurat pământului să nu se mai mânie pe Israel, fără imaginea „apelor care trec”.'];

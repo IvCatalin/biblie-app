@@ -2965,9 +2965,9 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "Ἀκούσατε, οἱ κωφοί, καὶ οἱ τυφλοί, ἀναβλέψατε ἰδεῖν.",
+       "original": "οἱ κωφοί ἀκούσατε καὶ οἱ τυφλοί ἀναβλέψατε ἰδεῖν",
        "greek": true,
-       "translation": "„Auziți, surzilor, și orbilor, priviți ca să vedeți.”",
+       "translation": "„Surzilor, auziți! Și orbilor, priviți ca să vedeți!”",
        "note": "Traducere apropiată de original."
       }
      ],
@@ -3474,10 +3474,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ὁ Θεὸς ἐβουλεύσατο ἵνα δικαιωθῇ καὶ μεγαλύνῃ αἴνεσιν.",
+       "original": "κύριος ὁ θεὸς ἐβούλετο ἵνα δικαιωθῇ καὶ μεγαλύνῃ αἴνεσιν καὶ εἶδον",
        "greek": true,
-       "translation": "„Dumnezeu a voit ca [poporul] să fie îndreptățit și să mărească lauda.”",
-       "note": "LXX traduce diferit obiectul verbului: nu „Legea” (Tora), ci „lauda” (αἴνεσιν) — divergență notabilă de sens între cele două tradiții textuale."
+       "translation": "„Domnul Dumnezeu a voit ca [poporul] să fie îndreptățit și să mărească lauda; și au văzut.”",
+       "note": "LXX traduce diferit obiectul verbului: nu „Legea” (Tora), ci „lauda” (αἴνεσιν) — divergență notabilă de sens între cele două tradiții textuale. LXX adaugă la sfârșit „și au văzut” (καὶ εἶδον), care leagă versetul de următorul."
       }
      ],
      "refs": [
@@ -6777,7 +6777,9 @@
        "pos": "nume propriu",
        "def_ro": "Tetragrama.",
        "dict_ro": "Tetragrama — Numele propriu al lui Dumnezeu, citit Adonai. Formula „a spus DOMNUL” (amar Adonai) încheie versetul ca pe o pecete: făgăduința nu e a profetului, ci a Aceluia care o poate împlini; Beruria își sprijină răspunsul tocmai pe aceste cuvinte finale (Berahot 10a).",
-       "diff_ro": "Septuaginta nu are încheierea „a spus DOMNUL”."
+       "diff_ro": "Septuaginta nu are încheierea „a spus DOMNUL”.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn; DOMNUL"
       },
       {
        "t": "."
@@ -6792,9 +6794,9 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "Εὐφράνθητι, στεῖρα ἡ οὐ τίκτουσα· ῥῆξον καὶ βόησον, ἡ οὐκ ὠδίνουσα· ὅτι πολλὰ τὰ τέκνα τῆς ἐρήμου μᾶλλον ἢ τῆς ἐχούσης τὸν ἄνδρα.",
+       "original": "εὐφράνθητι στεῖρα ἡ οὐ τίκτουσα ῥῆξον καὶ βόησον ἡ οὐκ ὠδίνουσα ὅτι πολλὰ τὰ τέκνα τῆς ἐρήμου μᾶλλον ἢ τῆς ἐχούσης τὸν ἄνδρα εἶπεν γὰρ κύριος",
        "greek": true,
-       "translation": "„Veselește-te, stearpo, cea care nu naști; izbucnește și strigă, cea care n-ai durerile nașterii; căci mulți sunt copiii celei pustii, mai mulți decât ai celei ce are bărbat.”",
+       "translation": "„Veselește-te, stearpo, cea care nu naști; izbucnește și strigă, cea care n-ai durerile nașterii; căci mulți sunt copiii celei pustii, mai mulți decât ai celei ce are bărbat; căci a zis Domnul.”",
        "note": "Traducere apropiată de original; LXX pune „a striga” (βόησον) la imperativ activ simplu, ușor mai direct decât nuanța ebraică de „a izbucni” (patzach)."
       }
      ],
@@ -10357,7 +10359,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "προσέχετε τοῖς ὠσὶν ὑμῶν καὶ ἐπακολουθήσατε ταῖς ὁδοῖς μου· εἰσακούσατέ μου, καὶ ζήσεται ἐν ἀγαθοῖς ἡ ψυχὴ ὑμῶν, καὶ διαθήσομαι ὑμῖν διαθήκην αἰώνιον, τὰ ὅσια Δαυεὶδ τὰ πιστά.",
+       "original": "προσέχετε τοῖς ὠτίοις ὑμῶν καὶ ἐπακολουθήσατε ταῖς ὁδοῖς μου ἐπακούσατέ μου καὶ ζήσεται ἐν ἀγαθοῖς ἡ ψυχὴ ὑμῶν καὶ διαθήσομαι ὑμῖν διαθήκην αἰώνιον τὰ ὅσια Δαυιδ τὰ πιστά",
        "greek": true,
        "translation": "„Luați aminte cu urechile voastre și urmați căile Mele; ascultați-Mă, și sufletul vostru va trăi în cele bune, și voi încheia cu voi un legământ veșnic, cele sfinte și credincioase ale lui David.”",
        "note": "LXX adaugă „și urmați căile Mele” (ἐπακολουθήσατε ταῖς ὁδοῖς μου) — o frază absentă din TM, care introduce un element etic explicit, despre urmarea căilor divine, absent din accentul ebraic pus doar pe „a asculta”."
@@ -11778,7 +11780,8 @@
        "pos": "adverb",
        "def_ro": "atunci",
        "dict_ro": "Az, „atunci”, introduce o consecință în timp: după tăcere și după apropiere, vine vorbirea. Particula leagă etapele procesului descris de profet.",
-       "diff_ro": "Septuaginta se oprește la „să se apropie” (ἐγγισάτωσαν); nu are „atunci să vorbească, împreună ne vom apropia la judecată”."
+       "greek": "τότε (tote)",
+       "greek_def_ro": "τότε (tote) — atunci"
       },
       {
        "t": ", "
@@ -11791,7 +11794,9 @@
        "strong": "H1696",
        "pos": "verb, piel imperfect",
        "def_ro": "să vorbească",
-       "dict_ro": "Verbul davar (la forma piel) înseamnă „a vorbi, a rosti”; e din aceeași rădăcină cu dabar, „cuvânt” și, totodată, „lucru, întâmplare” — în ebraică, cuvântul rostit e deja un fapt. Întrebarea din Isaia 40:27, „de ce vorbești, Israele?”, mustră o plângere care socotește că Dumnezeu nu vede."
+       "dict_ro": "Verbul davar (la forma piel) înseamnă „a vorbi, a rosti”; e din aceeași rădăcină cu dabar, „cuvânt” și, totodată, „lucru, întâmplare” — în ebraică, cuvântul rostit e deja un fapt. Întrebarea din Isaia 40:27, „de ce vorbești, Israele?”, mustră o plângere care socotește că Dumnezeu nu vede.",
+       "greek": "λαλέω (laleo)",
+       "greek_def_ro": "λαλέω (laleo) — a vorbi"
       },
       {
        "t": ", "
@@ -11804,7 +11809,9 @@
        "strong": "H3162",
        "pos": "adverb",
        "def_ro": "împreună",
-       "dict_ro": "Iahad, „împreună”, exprimă unitatea; forma iahdav, „toți laolaltă”, e frecventă în poezia profetică. În ebraica de mai târziu, Iahad a devenit numele comunității de la Qumran."
+       "dict_ro": "Iahad, „împreună”, exprimă unitatea; forma iahdav, „toți laolaltă”, e frecventă în poezia profetică. În ebraica de mai târziu, Iahad a devenit numele comunității de la Qumran.",
+       "greek": "ἅμα (hama)",
+       "greek_def_ro": "ἅμα (hama) — împreună"
       },
       {
        "t": " "
@@ -11817,7 +11824,8 @@
        "strong": "H7126",
        "pos": "verb, qal cohortativ",
        "def_ro": "să ne apropiem",
-       "dict_ro": "Karav, „a se apropia”, e rădăcina din korban, „jertfă”, care înseamnă „ceea ce se aduce aproape”. Aici însă se apropie neamurile, pentru judecată, nu pentru închinare."
+       "dict_ro": "Karav, „a se apropia”, e rădăcina din korban, „jertfă”, care înseamnă „ceea ce se aduce aproape”. Aici însă se apropie neamurile, pentru judecată, nu pentru închinare.",
+       "diff_ro": "Ebraica: „ne vom apropia” (niqrava); Septuaginta nu are verbul acesta: „atunci să vestească judecata” (κρίσιν ἀναγγειλάτωσαν)."
       },
       {
        "t": " "
@@ -11830,7 +11838,9 @@
        "strong": "H4941",
        "pos": "substantiv, masculin singular",
        "def_ro": "la judecată",
-       "dict_ro": "Mișpat înseamnă „judecată, hotărâre, dreptul cuiva” și, de aici, „pricina” adusă înaintea unui judecător. Poporul se plânge că dreptul lui este „trecut cu vederea”; DOMNUL va răspunde chiar în acest capitol, chemând neamurile „la judecată” (41:1)."
+       "dict_ro": "Mișpat înseamnă „judecată, hotărâre, dreptul cuiva” și, de aici, „pricina” adusă înaintea unui judecător. Poporul se plânge că dreptul lui este „trecut cu vederea”; DOMNUL va răspunde chiar în acest capitol, chemând neamurile „la judecată” (41:1).",
+       "greek": "κρίσις (krisis)",
+       "greek_def_ro": "κρίσις (krisis) — judecată"
       },
       {
        "t": "."
@@ -11845,9 +11855,9 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "Ἐγκαινίζεσθε πρός με, νῆσοι, οἱ γὰρ ἄρχοντες ἀλλάξουσιν ἰσχύν· ἐγγισάτωσαν.",
+       "original": "ἐγκαινίζεσθε πρός με νῆσοι οἱ γὰρ ἄρχοντες ἀλλάξουσιν ἰσχύν ἐγγισάτωσαν καὶ λαλησάτωσαν ἅμα τότε κρίσιν ἀναγγειλάτωσαν",
        "greek": true,
-       "translation": "„Înnoiți-vă către Mine, insulelor, căci conducătorii își vor schimba puterea; să se apropie.”",
+       "translation": "„Înnoiți-vă către Mine, insulelor, căci conducătorii își vor schimba puterea; să se apropie și să vorbească împreună; atunci să vestească judecata.”",
        "note": "Divergență reală: LXX citește „הַחֲרִישׁוּ” (tăceți) ca provenind dintr-o rădăcină înrudită cu înnoirea (ἐγκαινίζεσθε, „înnoiți-vă”), nu ca „a tăcea” — o traducere pe care Ambrozie al Milanului o va folosi direct, la comentariul de mai jos, spre a construi o interpretare hristologică a versetului absentă din TM."
       }
      ],
@@ -11987,7 +11997,8 @@
        "pos": "verb, qal imperfect",
        "def_ro": "va da",
        "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6).",
-       "diff_ro": "Septuaginta are un verset mult mai scurt: după „va merge” (πορεύσεται) nu urmează „să-i dea neamuri înainte, să-l facă să domine peste regi, să-i preschimbe sabia în pulbere și arcul în pleavă purtată de vânt”."
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a da"
       },
       {
        "t": " "
@@ -12000,7 +12011,9 @@
        "strong": "H1471",
        "pos": "substantiv, masculin plural",
        "def_ro": "neamuri",
-       "dict_ro": "Goi înseamnă la origine orice neam organizat — și Israel e numit astfel: „un neam sfânt” (Exodul 19:6). Cu timpul, pluralul goim a ajuns să desemneze popoarele din afara legământului, de unde sensul de mai târziu, „ne-evreu”. În Isaia, neamurile sunt deopotrivă ținta judecății și cele care primesc lumina lui Dumnezeu."
+       "dict_ro": "Goi înseamnă la origine orice neam organizat — și Israel e numit astfel: „un neam sfânt” (Exodul 19:6). Cu timpul, pluralul goim a ajuns să desemneze popoarele din afara legământului, de unde sensul de mai târziu, „ne-evreu”. În Isaia, neamurile sunt deopotrivă ținta judecății și cele care primesc lumina lui Dumnezeu.",
+       "greek": "ἔθνος (ethnos)",
+       "greek_def_ro": "ἔθνος (ethnos) — neam"
       },
       {
        "t": " "
@@ -12013,7 +12026,9 @@
        "strong": "H6440",
        "pos": "substantiv, masculin și feminin plural construct + sufix",
        "def_ro": "înaintea lui",
-       "dict_ro": "Panim, „fața”, are formă de plural; cu prepoziția le formează lifnei, „înaintea”, literal „la fața”. În Isaia 43:10, lefanai, „înaintea Mea”, are sens de timp: înainte de Dumnezeu nu a fost plăsmuit niciun alt dumnezeu."
+       "dict_ro": "Panim, „fața”, are formă de plural; cu prepoziția le formează lifnei, „înaintea”, literal „la fața”. În Isaia 43:10, lefanai, „înaintea Mea”, are sens de timp: înainte de Dumnezeu nu a fost plăsmuit niciun alt dumnezeu.",
+       "greek": "ἐναντίον (enantion)",
+       "greek_def_ro": "ἐναντίον (enantion) — înaintea"
       },
       {
        "t": " și "
@@ -12026,7 +12041,10 @@
        "strong": "H7287",
        "pos": "verb, hifil imperfect",
        "def_ro": "îl va face să stăpânească",
-       "dict_ro": "Radah, „a stăpâni, a domni”, e verbul din porunca de la Geneza 1:28, „stăpâniți peste peștii mării”. În Isaia 41:2 DOMNUL îl face pe cel ales „să stăpânească” regi."
+       "dict_ro": "Radah, „a stăpâni, a domni”, e verbul din porunca de la Geneza 1:28, „stăpâniți peste peștii mării”. În Isaia 41:2 DOMNUL îl face pe cel ales „să stăpânească” regi.",
+       "greek": "ἐξίστημι (existemi)",
+       "greek_def_ro": "ἐξίστημι (existemi) — a uimi, a îngrozi",
+       "diff_ro": "Ebraica: „să-l facă să domine peste regi”; Septuaginta: „va pune regii în uimire” (βασιλεῖς ἐκστήσει)."
       },
       {
        "t": " peste "
@@ -12039,7 +12057,9 @@
        "strong": "H4428",
        "pos": "substantiv, masculin plural",
        "def_ro": "regi",
-       "dict_ro": "Melek, „rege”, e titlul celui care stăpânește. În Isaia 41:2 regii sunt supuși celui trezit de DOMNUL, ceea ce arată că adevărata stăpânire vine de la Dumnezeu, nu de la putere."
+       "dict_ro": "Melek, „rege”, e titlul celui care stăpânește. În Isaia 41:2 regii sunt supuși celui trezit de DOMNUL, ceea ce arată că adevărata stăpânire vine de la Dumnezeu, nu de la putere.",
+       "greek": "βασιλεύς (basileus)",
+       "greek_def_ro": "βασιλεύς (basileus) — rege"
       },
       {
        "t": ", "
@@ -12052,7 +12072,9 @@
        "strong": "H5414",
        "pos": "verb, qal imperfect",
        "def_ro": "va face",
-       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6)."
+       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6).",
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a da"
       },
       {
        "t": " "
@@ -12065,7 +12087,10 @@
        "strong": "H6083",
        "pos": "substantiv, masculin singular",
        "def_ro": "ca praful",
-       "dict_ro": "Afar, „țărână, pulbere”, e materia din care e făcut omul: „pulbere din pământ” (Geneza 2:7). A face dușmanii „ca pulberea” înseamnă a-i reduce la ceea ce n-are consistență."
+       "dict_ro": "Afar, „țărână, pulbere”, e materia din care e făcut omul: „pulbere din pământ” (Geneza 2:7). A face dușmanii „ca pulberea” înseamnă a-i reduce la ceea ce n-are consistență.",
+       "greek": "γῆ (ge)",
+       "greek_def_ro": "γῆ (ge) — pământ",
+       "diff_ro": "Ebraica: „în pulbere” (ke‘afar); Septuaginta: „la pământ” (εἰς γῆν)."
       },
       {
        "t": " "
@@ -12078,7 +12103,9 @@
        "strong": "H2719",
        "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "sabia lui",
-       "dict_ro": "Hereb, „sabie”, simbolizează războiul și puterea armată. În 41:2 sabia dușmanului devine „pulbere”, adică lipsită de orice putere."
+       "dict_ro": "Hereb, „sabie”, simbolizează războiul și puterea armată. În 41:2 sabia dușmanului devine „pulbere”, adică lipsită de orice putere.",
+       "greek": "μάχαιρα (machaira)",
+       "greek_def_ro": "μάχαιρα (machaira) — sabie"
       },
       {
        "t": ", și "
@@ -12091,7 +12118,9 @@
        "strong": "H7179",
        "pos": "substantiv, masculin singular + verb, nifal participiu",
        "def_ro": "ca miriștea împrăștiată",
-       "dict_ro": "„Keaș nidaf”, „paie împrăștiate de vânt”: kaș e miriștea, tulpina rămasă după seceriș, iar nidaf e participiul lui nadaf, „a fi gonit, purtat”. Imaginea apare și în Psalmul 83:14: „ca miriștea înaintea vântului”."
+       "dict_ro": "„Keaș nidaf”, „paie împrăștiate de vânt”: kaș e miriștea, tulpina rămasă după seceriș, iar nidaf e participiul lui nadaf, „a fi gonit, purtat”. Imaginea apare și în Psalmul 83:14: „ca miriștea înaintea vântului”.",
+       "greek": "φρύγανον (phryganon)",
+       "greek_def_ro": "φρύγανον (phryganon) — vreascuri (spulberate)"
       },
       {
        "t": " "
@@ -12104,7 +12133,9 @@
        "strong": "H7198",
        "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "arcul lui",
-       "dict_ro": "Keșet, „arc”, e arma războinicului de la distanță. A fi redus „ca miriștea” înseamnă că și această armă își pierde orice eficacitate."
+       "dict_ro": "Keșet, „arc”, e arma războinicului de la distanță. A fi redus „ca miriștea” înseamnă că și această armă își pierde orice eficacitate.",
+       "greek": "τόξον (toxon)",
+       "greek_def_ro": "τόξον (toxon) — arc"
       },
       {
        "t": "."
@@ -12119,10 +12150,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "τίς ἐξήγειρεν ἀπὸ ἀνατολῶν δικαιοσύνην, ἐκάλεσεν αὐτὴν κατὰ πόδας αὐτοῦ, καὶ πορεύσεται;",
+       "original": "τίς ἐξήγειρεν ἀπὸ ἀνατολῶν δικαιοσύνην ἐκάλεσεν αὐτὴν κατὰ πόδας αὐτοῦ καὶ πορεύσεται δώσει ἐναντίον ἐθνῶν καὶ βασιλεῖς ἐκστήσει καὶ δώσει εἰς γῆν τὰς μαχαίρας αὐτῶν καὶ ὡς φρύγανα ἐξωσμένα τὰ τόξα αὐτῶν",
        "greek": true,
-       "translation": "„Cine a ridicat de la răsărituri dreptatea, a chemat-o pe ea la picioarele lui, și va merge?”",
-       "note": "LXX tratează „dreptatea” (δικαιοσύνην) ca substantiv feminin autonom, personificat — „a chemat-o PE EA” — deschizând calea interpretării patristice de mai jos, unde Dreptatea devine identificată direct cu Hristos, nu doar o calitate a unui conducător istoric."
+       "translation": "„Cine a trezit dreptatea de la răsărituri, a chemat-o la picioarele lui; și va merge, va da înaintea neamurilor, și va pune regii în uimire, și va da la pământ săbiile lor, și ca vreascurile spulberate arcurile lor.”",
+       "note": "LXX tratează „dreptatea” (δικαιοσύνην) ca substantiv feminin autonom, personificat — „a chemat-o PE EA” — deschizând calea interpretării patristice de mai jos, unde Dreptatea devine identificată direct cu Hristos, nu doar o calitate a unui conducător istoric. A doua jumătate a versetului este redată de LXX mai liber decât în ebraică: „va da înaintea neamurilor… săbiile lor la pământ, arcurile lor ca vreascurile”."
       }
      ],
      "refs": [
@@ -14714,7 +14745,9 @@
        "pos": "verb, hitpael imperfect",
        "def_ro": "te vei lăuda",
        "dict_ro": "Halal, „a lăuda, a face să strălucească”, e rădăcina din „haleluia”, „lăudați pe Domnul”. În forma hitpael (tithalal) înseamnă „te vei lăuda în Domnul”: lauda nu e a omului, ci a Lui.",
-       "diff_ro": "Septuaginta nu are „Îl vei preamări” (tithallal)."
+       "greek": "ἀγαλλιάομαι (agalliaomai)",
+       "greek_def_ro": "ἀγαλλιάομαι (agalliaomai) — a se bucura mult, a exulta",
+       "diff_ro": "Ebraica: „Îl vei preamări” (tithallal), la persoana a doua; Septuaginta: „se vor bucura” (ἀγαλλιάσονται), la persoana a treia."
       },
       {
        "t": "!"
@@ -14729,9 +14762,9 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ λικμήσεις· καὶ ἄνεμος λήμψεται αὐτούς, καὶ καταιγὶς διασπερεῖ αὐτούς. σὺ δὲ εὐφρανθήσῃ ἐν τοῖς ἁγίοις Ἰσραήλ,",
+       "original": "καὶ λικμήσεις καὶ ἄνεμος λήμψεται αὐτούς καὶ καταιγὶς διασπερεῖ αὐτούς σὺ δὲ εὐφρανθήσῃ ἐν τοῖς ἁγίοις Ισραηλ καὶ ἀγαλλιάσονται",
        "greek": true,
-       "translation": "„Și-i vei vântura; și vântul îi va lua, și vijelia îi va împrăștia; iar tu te vei veseli întru sfinții lui Israel,”",
+       "translation": "„Și-i vei vântura; și vântul îi va lua, și vijelia îi va împrăștia; iar tu te vei veseli întru sfinții lui Israel, și se vor bucura.”",
        "note": "Divergență reală: LXX traduce „Sfântul lui Israel” (קְדוֹשׁ יִשְׂרָאֵל, titlu divin la singular) printr-un plural, „sfinții lui Israel” (τοῖς ἁγίοις Ἰσραήλ) — transformând un nume al lui Dumnezeu într-o referire la poporul sfânt, o schimbare de sens teologic reală, nu doar stilistică."
       }
      ],
