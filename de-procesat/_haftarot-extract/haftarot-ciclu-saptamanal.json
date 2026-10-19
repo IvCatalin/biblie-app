@@ -28278,8 +28278,8 @@
        "pos": "substantiv, masculin singular",
        "def_ro": "povară, rostire grea",
        "dict_ro": "Massa înseamnă „povară” și „rostire grea, oracol”, de la verbul „a ridica”: un cuvânt profetic care apasă ca o sarcină. Zaharia 9:1 și 12:1 încep la fel, iar Maleahi pune acest cuvânt în fruntea întregii cărți.",
-       "greek": "λῆμμα λόγου Κυρίου (lemma logou Kyriou)",
-       "greek_def_ro": "λῆμμα λόγου Κυρίου (lemma logou Kyriou) — povara cuvântului Domnului."
+       "greek": "λῆμμα (lemma)",
+       "greek_def_ro": "λῆμμα (lemma) — povară, rostire grea"
       },
       {
        "t": " "
@@ -28293,8 +28293,8 @@
        "pos": "substantiv, masculin singular construct",
        "def_ro": "cuvântul",
        "dict_ro": "Davar înseamnă deopotrivă „cuvânt” și „lucru, faptă”: în gândirea ebraică, cuvântul lui Dumnezeu nu e doar rostit, ci se și împlinește. De aceea „cuvintele” pe care El le „face” (Isaia 42:16) sunt totodată lucrările Lui.",
-       "greek": "λῆμμα λόγου Κυρίου (lemma logou Kyriou)",
-       "greek_def_ro": "λῆμμα λόγου Κυρίου (lemma logou Kyriou) — povara cuvântului Domnului."
+       "greek": "λόγος (logos)",
+       "greek_def_ro": "λόγος (logos) — cuvânt"
       },
       {
        "t": " "
@@ -28308,8 +28308,8 @@
        "pos": "nume propriu",
        "def_ro": "DOMNULUI",
        "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
-       "greek": "λῆμμα λόγου Κυρίου (lemma logou Kyriou)",
-       "greek_def_ro": "λῆμμα λόγου Κυρίου (lemma logou Kyriou) — povara cuvântului Domnului."
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn; DOMNUL"
       },
       {
        "t": " către "
@@ -28322,7 +28322,9 @@
        "strong": "H3478",
        "pos": "nume propriu",
        "def_ro": "Israel",
-       "dict_ro": "Numele Israel i-a fost dat lui Iacov după lupta de la Iaboc și i-a fost confirmat la Betel (Geneza 35:10); textul îl explică prin „ai luptat cu Dumnezeu și cu oamenii și ai biruit”. În profeți, „Iacov” și „Israel” apar adesea în paralel, desemnând același popor: primul e numele de la naștere, al doilea numele chemării."
+       "dict_ro": "Numele Israel i-a fost dat lui Iacov după lupta de la Iaboc și i-a fost confirmat la Betel (Geneza 35:10); textul îl explică prin „ai luptat cu Dumnezeu și cu oamenii și ai biruit”. În profeți, „Iacov” și „Israel” apar adesea în paralel, desemnând același popor: primul e numele de la naștere, al doilea numele chemării.",
+       "greek": "Ἰσραήλ (Israel)",
+       "greek_def_ro": "Ἰσραήλ (Israel) — Israel"
       },
       {
        "t": ", "
@@ -28335,7 +28337,10 @@
        "strong": "H3027",
        "pos": "substantiv, masculin și feminin singular construct + nume propriu",
        "def_ro": "prin mâna lui Maleahi",
-       "dict_ro": "„Beiad Malahi” înseamnă, literal, „prin mâna lui Maleahi”. Numele înseamnă „solul meu” sau „mesagerul meu”. Cartea nu spune nimic despre persoana profetului, ci doar că cuvântul vine „prin mâna” lui, ca un mesager care îl transmite."
+       "dict_ro": "„Beiad Malahi” înseamnă, literal, „prin mâna lui Maleahi”. Numele înseamnă „solul meu” sau „mesagerul meu”. Cartea nu spune nimic despre persoana profetului, ci doar că cuvântul vine „prin mâna” lui, ca un mesager care îl transmite.",
+       "greek": "ἐν χειρὶ ἀγγέλου (en cheiri angelou)",
+       "greek_def_ro": "ἐν χειρὶ ἀγγέλου (en cheiri angelou) — prin mâna trimisului Său",
+       "diff_ro": "Ebraica: „prin mâna lui Maleahi” (nume propriu sau „solul meu”); Septuaginta: „prin mâna trimisului Său” (ἐν χειρὶ ἀγγέλου αὐτοῦ), fără nume propriu, și adaugă „puneți la inimile voastre” (θέσθε δὴ ἐπὶ τὰς καρδίας ὑμῶν)."
       },
       {
        "t": ":"
@@ -28410,7 +28415,9 @@
        "strong": "H157",
        "pos": "verb, qal perfect",
        "def_ro": "v-am iubit",
-       "dict_ro": "Ahav, „a iubi”, e verbul iubirii dintre oameni, dar și al iubirii lui Dumnezeu pentru Israel și al poruncii „să iubești pe DOMNUL, Dumnezeul tău” (Deuteronomul 6:5). În Isaia 43:4, iubirea e temeiul răscumpărării: Dumnezeu dă popoare în schimbul lui Israel pentru că îl iubește."
+       "dict_ro": "Ahav, „a iubi”, e verbul iubirii dintre oameni, dar și al iubirii lui Dumnezeu pentru Israel și al poruncii „să iubești pe DOMNUL, Dumnezeul tău” (Deuteronomul 6:5). În Isaia 43:4, iubirea e temeiul răscumpărării: Dumnezeu dă popoare în schimbul lui Israel pentru că îl iubește.",
+       "greek": "ἀγαπάω (agapao)",
+       "greek_def_ro": "ἀγαπάω (agapao) — a iubi"
       },
       {
        "t": " pe voi”, "
@@ -28423,7 +28430,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect",
        "def_ro": "a zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": " "
@@ -28437,8 +28446,8 @@
        "pos": "nume propriu",
        "def_ro": "DOMNUL",
        "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
-       "greek": "λέγει Κύριος (legei Kyrios)",
-       "greek_def_ro": "λέγει Κύριος (legei Kyrios) — spune Domnul."
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn; DOMNUL"
       },
       {
        "t": ", însă voi "
@@ -28451,7 +28460,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect",
        "def_ro": "ați zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": ": „Cum "
@@ -28465,8 +28476,8 @@
        "pos": "verb, qal perfect + sufix",
        "def_ro": "ne-ai iubit",
        "dict_ro": "Ahav, „a iubi”, e verbul iubirii dintre oameni, dar și al iubirii lui Dumnezeu pentru Israel și al poruncii „să iubești pe DOMNUL, Dumnezeul tău” (Deuteronomul 6:5). În Isaia 43:4, iubirea e temeiul răscumpărării: Dumnezeu dă popoare în schimbul lui Israel pentru că îl iubește.",
-       "greek": "ἐν τίνι ἠγάπησας ἡμᾶς (en tini egapesas hemas)",
-       "greek_def_ro": "ἐν τίνι ἠγάπησας ἡμᾶς (en tini egapesas hemas) — în ce ne-ai iubit?"
+       "greek": "ἀγαπάω (agapao)",
+       "greek_def_ro": "ἀγαπάω (agapao) — a iubi"
       },
       {
        "t": "?” N-a fost [și] "
@@ -28480,8 +28491,8 @@
        "pos": "nume propriu",
        "def_ro": "Esau",
        "dict_ro": "Esav este fratele geamăn al lui Iacov, născut primul (Geneza 25:25), și strămoșul lui Edom: „Esav, adică Edom” (Geneza 36:1). Maleahi pornește de la el pentru a vorbi despre alegerea lui Iacov.",
-       "greek": "οὐκ ἀδελφὸς ἦν Ἠσαὺ τοῦ Ἰακώβ (ouk adelphos en Esau tou Iakob)",
-       "greek_def_ro": "οὐκ ἀδελφὸς ἦν Ἠσαὺ τοῦ Ἰακώβ (ouk adelphos en Esau tou Iakob) — nu era Esav frate al lui Iacov?"
+       "greek": "Ἠσαῦ (Esau)",
+       "greek_def_ro": "Ἠσαῦ (Esau) — Esau"
       },
       {
        "t": ", "
@@ -28495,8 +28506,8 @@
        "pos": "substantiv, masculin singular",
        "def_ro": "fratele",
        "dict_ro": "Ah înseamnă „frate”. Esav și Iacov sunt frați, cu aceiași părinți, deci alegerea lui Iacov nu se explică prin naștere. Întrebarea lui DOMNUL scoate în față tocmai această egalitate la început.",
-       "greek": "οὐκ ἀδελφὸς ἦν Ἠσαὺ τοῦ Ἰακώβ (ouk adelphos en Esau tou Iakob)",
-       "greek_def_ro": "οὐκ ἀδελφὸς ἦν Ἠσαὺ τοῦ Ἰακώβ (ouk adelphos en Esau tou Iakob) — nu era Esav frate al lui Iacov?"
+       "greek": "ἀδελφός (adelphos)",
+       "greek_def_ro": "ἀδελφός (adelphos) — frate"
       },
       {
        "t": " lui "
@@ -28510,8 +28521,8 @@
        "pos": "nume propriu",
        "def_ro": "lui Iacov",
        "dict_ro": "Numele Iaakov e legat în Geneza de akev, „călcâi”, pentru că la naștere îl ținea de călcâi pe fratele său Esau (Geneza 25:26). Profeții folosesc „Iacov” pentru tot poporul, adesea cu o notă de duioșie sau de mustrare, în paralel cu „Israel”.",
-       "greek": "οὐκ ἀδελφὸς ἦν Ἠσαὺ τοῦ Ἰακώβ (ouk adelphos en Esau tou Iakob)",
-       "greek_def_ro": "οὐκ ἀδελφὸς ἦν Ἠσαὺ τοῦ Ἰακώβ (ouk adelphos en Esau tou Iakob) — nu era Esav frate al lui Iacov?"
+       "greek": "Ἰακώβ (Iakob)",
+       "greek_def_ro": "Ἰακώβ (Iakob) — Iacov"
       },
       {
        "t": " – "
@@ -28525,8 +28536,8 @@
        "pos": "substantiv, masculin singular construct + nume propriu",
        "def_ro": "rostirea DOMNULUI",
        "dict_ro": "„Neum Adonai” înseamnă „rostirea DOMNULUI”. Neum este formula profetică prin care DOMNUL își pune sigiliul pe un cuvânt, ca în Ieremia 1:8. În Maleahi ea revine ca să ancoreze fiecare acuzație în autoritatea Celui care vorbește.",
-       "greek": "λέγει Κύριος (legei Kyrios)",
-       "greek_def_ro": "λέγει Κύριος (legei Kyrios) — spune Domnul."
+       "greek": "λέγει κύριος (legei kyrios)",
+       "greek_def_ro": "λέγει κύριος (legei kyrios) — zice Domnul"
       },
       {
        "t": " – dar "
@@ -28540,8 +28551,8 @@
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "am iubit",
        "dict_ro": "Ahav, „a iubi”, e verbul iubirii dintre oameni, dar și al iubirii lui Dumnezeu pentru Israel și al poruncii „să iubești pe DOMNUL, Dumnezeul tău” (Deuteronomul 6:5). În Isaia 43:4, iubirea e temeiul răscumpărării: Dumnezeu dă popoare în schimbul lui Israel pentru că îl iubește.",
-       "greek": "ἠγάπησα τὸν Ἰακώβ (egapesa ton Iakob)",
-       "greek_def_ro": "ἠγάπησα τὸν Ἰακώβ (egapesa ton Iakob) — l-am iubit pe Iacov."
+       "greek": "ἀγαπάω (agapao)",
+       "greek_def_ro": "ἀγαπάω (agapao) — a iubi"
       },
       {
        "t": " pe "
@@ -28555,8 +28566,8 @@
        "pos": "nume propriu",
        "def_ro": "Iacov",
        "dict_ro": "Numele Iaakov e legat în Geneza de akev, „călcâi”, pentru că la naștere îl ținea de călcâi pe fratele său Esau (Geneza 25:26). Profeții folosesc „Iacov” pentru tot poporul, adesea cu o notă de duioșie sau de mustrare, în paralel cu „Israel”.",
-       "greek": "ἠγάπησα τὸν Ἰακώβ (egapesa ton Iakob)",
-       "greek_def_ro": "ἠγάπησα τὸν Ἰακώβ (egapesa ton Iakob) — l-am iubit pe Iacov."
+       "greek": "Ἰακώβ (Iakob)",
+       "greek_def_ro": "Ἰακώβ (Iakob) — Iacov"
       },
       {
        "t": "?"
@@ -28626,8 +28637,8 @@
        "pos": "nume propriu",
        "def_ro": "Esau",
        "dict_ro": "Esav este fratele geamăn al lui Iacov, născut primul (Geneza 25:25), și strămoșul lui Edom: „Esav, adică Edom” (Geneza 36:1). Maleahi pornește de la el pentru a vorbi despre alegerea lui Iacov.",
-       "greek": "τὸν Ἠσαὺ ἐμίσησα (ton Esau emisesa)",
-       "greek_def_ro": "τὸν Ἠσαὺ ἐμίσησα (ton Esau emisesa) — pe Esav l-am urât."
+       "greek": "Ἠσαῦ (Esau)",
+       "greek_def_ro": "Ἠσαῦ (Esau) — Esau"
       },
       {
        "t": " "
@@ -28641,8 +28652,8 @@
        "pos": "verb, qal perfect",
        "def_ro": "am urât",
        "dict_ro": "Sane înseamnă „a urî”. În limbajul legământului, „a iubi” și „a urî” spun „a alege” și „a nu alege”: Lea este „urâtă” în Geneza 29:31, adică mai puțin iubită. Cuvântul vorbește despre alegere, nu despre o simplă emoție.",
-       "greek": "τὸν Ἠσαὺ ἐμίσησα (ton Esau emisesa)",
-       "greek_def_ro": "τὸν Ἠσαὺ ἐμίσησα (ton Esau emisesa) — pe Esav l-am urât."
+       "greek": "μισέω (miseo)",
+       "greek_def_ro": "μισέω (miseo) — a urî"
       },
       {
        "t": " și "
@@ -28655,7 +28666,9 @@
        "strong": "H7760",
        "pos": "verb, qal imperfect consecutiv",
        "def_ro": "am făcut",
-       "dict_ro": "Sim, „a pune”, are sens foarte larg: a așeza, a rândui, a preface un lucru în altul („a pune râurile insule”, Isaia 42:15). Expresia „a pune la inimă” înseamnă a lua aminte (Isaia 42:25)."
+       "dict_ro": "Sim, „a pune”, are sens foarte larg: a așeza, a rândui, a preface un lucru în altul („a pune râurile insule”, Isaia 42:15). Expresia „a pune la inimă” înseamnă a lua aminte (Isaia 42:25).",
+       "greek": "τάσσω (tasso)",
+       "greek_def_ro": "τάσσω (tasso) — a rândui, a pune"
       },
       {
        "t": " "
@@ -28669,9 +28682,9 @@
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "munții lui",
        "dict_ro": "Har, „munte”: munții sunt în Biblie locuri ale întâlnirii cu Dumnezeu — Sinai, Carmel, Sion. În profeți, munții sunt chemați să se bucure sau, la judecată, sunt pustiiți (Isaia 42:15).",
-       "greek": "ἔταξα τὰ ὅρια αὐτοῦ εἰς ἀφανισμὸν (etaxa ta horia autou eis aphanismon)",
-       "greek_def_ro": "ἔταξα τὰ ὅρια αὐτοῦ εἰς ἀφανισμὸν (etaxa ta horia autou eis aphanismon) — i-am pus hotarele în pustiire.",
-       "diff_ro": "Ebraica spune „munții lui” (harav); Septuaginta, „hotarele lui” (ὅρια)."
+       "greek": "ὅριον (horion)",
+       "greek_def_ro": "ὅριον (horion) — hotar",
+       "diff_ro": "Ebraica: „munții lui” (harav); Septuaginta: „hotarele lui” (τὰ ὅρια αὐτοῦ)."
       },
       {
        "t": " în "
@@ -28685,9 +28698,8 @@
        "pos": "substantiv, feminin singular",
        "def_ro": "pustiire",
        "dict_ro": "Șemama înseamnă „pustiire, ruină”. Muntele lui Esav, adică Seirul, devine pustiu. Cuvântul descrie rezultatul judecății asupra lui Edom, țara cu munți stâncoși.",
-       "greek": "ἔταξα τὰ ὅρια αὐτοῦ εἰς ἀφανισμὸν (etaxa ta horia autou eis aphanismon)",
-       "greek_def_ro": "ἔταξα τὰ ὅρια αὐτοῦ εἰς ἀφανισμὸν (etaxa ta horia autou eis aphanismon) — i-am pus hotarele în pustiire.",
-       "diff_ro": "Ebraica spune „munții lui” (harav); Septuaginta, „hotarele lui” (ὅρια)."
+       "greek": "ἀφανισμός (aphanismos)",
+       "greek_def_ro": "ἀφανισμός (aphanismos) — pustiire, nimicire"
       },
       {
        "t": ", și "
@@ -28700,7 +28712,9 @@
        "strong": "H5159",
        "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "moștenirea lui",
-       "dict_ro": "Nahala înseamnă „moștenire”, partea de țară care revine cuiva. Edom a primit ca moștenire munții Seirului; Maleahi spune că moștenirea lui a fost dată șacalilor, adică a rămas fără locuitori."
+       "dict_ro": "Nahala înseamnă „moștenire”, partea de țară care revine cuiva. Edom a primit ca moștenire munții Seirului; Maleahi spune că moștenirea lui a fost dată șacalilor, adică a rămas fără locuitori.",
+       "greek": "κληρονομία (kleronomia)",
+       "greek_def_ro": "κληρονομία (kleronomia) — moștenire"
       },
       {
        "t": " am dat-o "
@@ -28714,9 +28728,9 @@
        "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular",
        "def_ro": "șacalilor pustiei",
        "dict_ro": "Tan înseamnă, în ebraică, un animal sălbatic din pustie, de obicei „șacal”; traducerea redă aici „șerpi”. Midbar este „pustiul”, locul unde nu trăiește nimeni. Moștenirea lui Edom ajunge locuința acestor animale.",
-       "greek": "τὴν κληρονομίαν αὐτοῦ εἰς δόματα ἐρήμου (ten kleronomian autou eis domata eremou)",
-       "greek_def_ro": "τὴν κληρονομίαν αὐτοῦ εἰς δόματα ἐρήμου (ten kleronomian autou eis domata eremou) — moștenirea lui, daruri ale pustiei.",
-       "diff_ro": "Septuaginta nu are imaginea șerpilor deșertului (tanot), ci „daruri ale pustiei” (δόματα ἐρήμου)."
+       "greek": "δόμα ἐρήμου (doma eremou)",
+       "greek_def_ro": "δόμα ἐρήμου (doma eremou) — darurile pustiei",
+       "diff_ro": "Ebraica: „șacalilor pustiei” (letanot midbar); Septuaginta: „darurile pustiei” (εἰς δόματα ἐρήμου)."
       },
       {
        "t": "."
@@ -28785,7 +28799,9 @@
        "strong": "H559",
        "pos": "verb, qal imperfect",
        "def_ro": "zice",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": " "
@@ -28800,7 +28816,7 @@
        "def_ro": "Edom",
        "dict_ro": "Edom înseamnă „roșu”: numele pe care Esav l-a primit de la ciorba roșie (Geneza 25:30). Este numele țării și al poporului de la sud-est de Iuda, în Maleahi simbol al celor pe care DOMNUL nu i-a ales.",
        "greek": "Ἰδουμαία (Idoumaia)",
-       "greek_def_ro": "Ἰδουμαία (Idoumaia) — Idumeea (Edom)."
+       "greek_def_ro": "Ἰδουμαία (Idoumaia) — Idumeea (Edom)"
       },
       {
        "t": ": „"
@@ -28814,8 +28830,8 @@
        "pos": "verb, pual perfect",
        "def_ro": "am fost zdrobiți",
        "dict_ro": "Verbul rașaș, la forma pasivă, înseamnă „a fi zdrobit, a fi sărăcit”. Edom recunoaște că a fost lovit, dar spune că se va ridica singur. Cuvântul e rar în Biblie.",
-       "greek": "καταστρέφομαι (katastrephomai)",
-       "greek_def_ro": "καταστρέφομαι (katastrephomai) — a fi nimicit, răsturnat."
+       "greek": "καταστρέφω (katastrepho)",
+       "greek_def_ro": "καταστρέφω (katastrepho) — a răsturna"
       },
       {
        "t": ", dar "
@@ -28829,8 +28845,8 @@
        "pos": "verb, qal imperfect",
        "def_ro": "ne vom întoarce",
        "dict_ro": "Șuv înseamnă „a se întoarce”. Edom spune: „ne vom întoarce” și reconstrui. Verbul este cel al revenirii din exil, aplicat aici de Edom la propria țară; DOMNUL va tăia această speranță.",
-       "greek": "ἐπιστρέψωμεν καὶ ἀνοικοδομήσωμεν τὰς ἐρήμους (epistrepsomen kai anoikodomesomen tas eremous)",
-       "greek_def_ro": "ἐπιστρέψωμεν καὶ ἀνοικοδομήσωμεν τὰς ἐρήμους (epistrepsomen kai anoikodomesomen tas eremous) — ne vom întoarce și vom reconstrui pustiile."
+       "greek": "ἐπιστρέφω (epistrepho)",
+       "greek_def_ro": "ἐπιστρέφω (epistrepho) — a se întoarce"
       },
       {
        "t": " și "
@@ -28844,8 +28860,8 @@
        "pos": "verb, qal imperfect",
        "def_ro": "vom zidi",
        "dict_ro": "Bana înseamnă „a zidi, a construi”. Contrastul din vers este între „ei vor zidi” și „Eu voi dărâma”: ce construiește Edom, DOMNUL va doborî. Verbul se potrivește unei lupte între două voințe.",
-       "greek": "ἐπιστρέψωμεν καὶ ἀνοικοδομήσωμεν τὰς ἐρήμους (epistrepsomen kai anoikodomesomen tas eremous)",
-       "greek_def_ro": "ἐπιστρέψωμεν καὶ ἀνοικοδομήσωμεν τὰς ἐρήμους (epistrepsomen kai anoikodomesomen tas eremous) — ne vom întoarce și vom reconstrui pustiile."
+       "greek": "ἀνοικοδομέω (anoikodomeo)",
+       "greek_def_ro": "ἀνοικοδομέω (anoikodomeo) — a reclădi"
       },
       {
        "t": " "
@@ -28859,8 +28875,8 @@
        "pos": "substantiv, feminin plural",
        "def_ro": "dărâmăturile",
        "dict_ro": "Horba înseamnă „ruină, dărâmătură”. Același cuvânt apare în Isaia 51:3, unde DOMNUL mângâie „toate ruinele” Sionului. Aici sunt ruinele Edomului, pe care acesta vrea să le reclădească.",
-       "greek": "ἐπιστρέψωμεν καὶ ἀνοικοδομήσωμεν τὰς ἐρήμους (epistrepsomen kai anoikodomesomen tas eremous)",
-       "greek_def_ro": "ἐπιστρέψωμεν καὶ ἀνοικοδομήσωμεν τὰς ἐρήμους (epistrepsomen kai anoikodomesomen tas eremous) — ne vom întoarce și vom reconstrui pustiile."
+       "greek": "ἔρημος (eremos)",
+       "greek_def_ro": "ἔρημος (eremos) — pustiu, ruină"
       },
       {
        "t": "”. "
@@ -28873,7 +28889,9 @@
        "strong": "H3541",
        "pos": "adverb",
        "def_ro": "astfel",
-       "dict_ro": "Ko, „așa”, deschide formula profetică ko amar Adonai, „așa a spus DOMNUL” — un fel de pecete care arată că urmează cuvintele lui Dumnezeu, transmise întocmai."
+       "dict_ro": "Ko, „așa”, deschide formula profetică ko amar Adonai, „așa a spus DOMNUL” — un fel de pecete care arată că urmează cuvintele lui Dumnezeu, transmise întocmai.",
+       "greek": "τάδε (tade)",
+       "greek_def_ro": "τάδε (tade) — astfel, acestea"
       },
       {
        "t": " "
@@ -28886,7 +28904,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect",
        "def_ro": "a zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": " "
@@ -28899,7 +28919,9 @@
        "strong": "H3068",
        "pos": "nume propriu + substantiv, masculin și feminin plural",
        "def_ro": "DOMNUL Oștirilor",
-       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină."
+       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină.",
+       "greek": "κύριος παντοκράτωρ (kyrios pantokrator)",
+       "greek_def_ro": "κύριος παντοκράτωρ (kyrios pantokrator) — Domnul Atotțiitorul"
       },
       {
        "t": ". „Iată, "
@@ -28912,7 +28934,9 @@
        "strong": "H1129",
        "pos": "verb, qal imperfect",
        "def_ro": "vor zidi",
-       "dict_ro": "Bana înseamnă „a zidi, a construi”. Contrastul din vers este între „ei vor zidi” și „Eu voi dărâma”: ce construiește Edom, DOMNUL va doborî. Verbul se potrivește unei lupte între două voințe."
+       "dict_ro": "Bana înseamnă „a zidi, a construi”. Contrastul din vers este între „ei vor zidi” și „Eu voi dărâma”: ce construiește Edom, DOMNUL va doborî. Verbul se potrivește unei lupte între două voințe.",
+       "greek": "οἰκοδομέω (oikodomeo)",
+       "greek_def_ro": "οἰκοδομέω (oikodomeo) — a zidi"
       },
       {
        "t": ", dar "
@@ -28925,7 +28949,9 @@
        "strong": "H589",
        "pos": "pronume personal + verb, qal imperfect",
        "def_ro": "iar Eu voi dărâma",
-       "dict_ro": "„Vaani eheros” înseamnă „iar Eu voi dărâma”. Pronumele „Eu” este pus înaintea verbului pentru contrast cu „ei vor zidi”. Haras este verbul dărâmării și se opune direct lui bana, „a zidi”."
+       "dict_ro": "„Vaani eheros” înseamnă „iar Eu voi dărâma”. Pronumele „Eu” este pus înaintea verbului pentru contrast cu „ei vor zidi”. Haras este verbul dărâmării și se opune direct lui bana, „a zidi”.",
+       "greek": "καταστρέφω (katastrepho)",
+       "greek_def_ro": "καταστρέφω (katastrepho) — a răsturna"
       },
       {
        "t": "; și "
@@ -28938,7 +28964,9 @@
        "strong": "H7121",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "le vor spune",
-       "dict_ro": "Kara înseamnă a striga, a chema pe cineva, a da un nume și a citi cu voce tare — de aici Mikra, numele ebraic al Scripturii citite în public. „A chema pe nume” exprimă o legătură personală și o chemare la o misiune (Isaia 43:1)."
+       "dict_ro": "Kara înseamnă a striga, a chema pe cineva, a da un nume și a citi cu voce tare — de aici Mikra, numele ebraic al Scripturii citite în public. „A chema pe nume” exprimă o legătură personală și o chemare la o misiune (Isaia 43:1).",
+       "greek": "ἐπικαλέω (epikaleo)",
+       "greek_def_ro": "ἐπικαλέω (epikaleo) — a numi"
       },
       {
        "t": ": «"
@@ -28951,7 +28979,9 @@
        "strong": "H1366",
        "pos": "substantiv, masculin singular construct + substantiv, feminin singular",
        "def_ro": "ținutul răutății",
-       "dict_ro": "„Gevul rișa” înseamnă „ținutul răutății”. Gevul este hotarul, ținutul, iar rișa „răutatea, nelegiuirea”. Edom va purta numele acesta în ochii neamurilor, ca ținut asociat cu nelegiuirea."
+       "dict_ro": "„Gevul rișa” înseamnă „ținutul răutății”. Gevul este hotarul, ținutul, iar rișa „răutatea, nelegiuirea”. Edom va purta numele acesta în ochii neamurilor, ca ținut asociat cu nelegiuirea.",
+       "greek": "ὅριον ἀνομίας (horion anomias)",
+       "greek_def_ro": "ὅριον ἀνομίας (horion anomias) — hotarele nelegiuirii"
       },
       {
        "t": "» și «"
@@ -28964,7 +28994,9 @@
        "strong": "H5971",
        "pos": "substantiv, masculin singular",
        "def_ro": "poporul",
-       "dict_ro": "Am desemnează un popor ca unitate înrudită și adunată; în Biblie, mai ales Israel, „poporul lui DOMNUL” (am Adonai). Spre deosebire de goi (neam, mai ales neamurile străine), am subliniază legătura dinăuntru, de familie și de legământ."
+       "dict_ro": "Am desemnează un popor ca unitate înrudită și adunată; în Biblie, mai ales Israel, „poporul lui DOMNUL” (am Adonai). Spre deosebire de goi (neam, mai ales neamurile străine), am subliniază legătura dinăuntru, de familie și de legământ.",
+       "greek": "λαός (laos)",
+       "greek_def_ro": "λαός (laos) — popor"
       },
       {
        "t": " care "
@@ -28977,7 +29009,10 @@
        "strong": "H2194",
        "pos": "verb, qal perfect",
        "def_ro": "a fost mâniat",
-       "dict_ro": "Zaam înseamnă „a mânia, a blestema”. Balac cere: „blestemă-mi pe Israel” (Numeri 23:7). Poporul Edomului este descris ca unul față de care DOMNUL a rămas mânios pe vecie."
+       "dict_ro": "Zaam înseamnă „a mânia, a blestema”. Balac cere: „blestemă-mi pe Israel” (Numeri 23:7). Poporul Edomului este descris ca unul față de care DOMNUL a rămas mânios pe vecie.",
+       "greek": "παρατάσσω (paratasso)",
+       "greek_def_ro": "παρατάσσω (paratasso) — a se rândui (împotriva)",
+       "diff_ro": "Ebraica: „care l-a înfuriat pe DOMNUL” (zaam Adonai); Septuaginta: „împotriva căruia Domnul s-a rânduit” (ἐφ᾿ ὃν παρατέτακται κύριος)."
       },
       {
        "t": " pe "
@@ -28990,7 +29025,9 @@
        "strong": "H3068",
        "pos": "nume propriu",
        "def_ro": "DOMNUL",
-       "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință."
+       "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn; DOMNUL"
       },
       {
        "t": ", "
@@ -29003,7 +29040,9 @@
        "strong": "H5769",
        "pos": "substantiv, masculin singular",
        "def_ro": "în veac",
-       "dict_ro": "Olam desemnează un timp foarte lung, a cărui margine nu se vede — „veșnicie” înainte, „vechime” înapoi. Aici, meolam înseamnă „de multă vreme”: Dumnezeu a tăcut îndelung față de suferința poporului Său."
+       "dict_ro": "Olam desemnează un timp foarte lung, a cărui margine nu se vede — „veșnicie” înainte, „vechime” înapoi. Aici, meolam înseamnă „de multă vreme”: Dumnezeu a tăcut îndelung față de suferința poporului Său.",
+       "greek": "αἰών (aion)",
+       "greek_def_ro": "αἰών (aion) — veac, eternitate"
       },
       {
        "t": "»”."
@@ -29018,10 +29057,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "διότι ἐρεῖ Ἡ Ἰδουμαία κατέστραπται, καὶ ἐπιστρέψωμεν καὶ ἀνοικοδομήσωμεν τὰς ἐρήμους.",
+       "original": "διότι ἐρεῖ ἡ Ιδουμαία κατέστραπται καὶ ἐπιστρέψωμεν καὶ ἀνοικοδομήσωμεν τὰς ἐρήμους τάδε λέγει κύριος παντοκράτωρ αὐτοὶ οἰκοδομήσουσιν καὶ ἐγὼ καταστρέψω καὶ ἐπικληθήσεται αὐτοῖς ὅρια ἀνομίας καὶ λαὸς ἐφ᾿ ὃν παρατέτακται κύριος ἕως αἰῶνος",
        "greek": true,
-       "translation": "„Fiindcă va zice: Idumeea a fost răsturnată, și să ne întoarcem și să rezidim pustiirile.”",
-       "note": "LXX prescurtează versetul, omițând finalul despre „hotarul răutății” și „poporul blestemat pe veci”, reluat probabil implicit."
+       "translation": "„Fiindcă va zice Idumeea: A fost răsturnată, dar ne vom întoarce și vom reclădi pustiirile; așa zice Domnul Atotțiitorul: Ei vor zidi, iar Eu voi răsturna; și li se va zice: Hotarele nelegiuirii, și: Poporul împotriva căruia Domnul S-a rânduit în veac.”",
+       "note": "Apropiere strânsă între TM și LXX; „Edom” este redat „Idumeea” (Ἰδουμαία), iar „DOMNUL Oștirilor” prin „Domnul Atotțiitorul” (κύριος παντοκράτωρ)."
       }
      ],
      "refs": [
@@ -29076,8 +29115,8 @@
        "pos": "substantiv, masculin și feminin dual construct + sufix",
        "def_ro": "ochii voștri",
        "dict_ro": "Aiin înseamnă „ochi”, dar și „izvor” — izvorul fiind „ochiul” pământului. Expresia „în ochii lui DOMNUL” exprimă judecata sau aprecierea Lui (Isaia 43:4).",
-       "greek": "ὀφθαλμοὶ ὑμῶν ὄψονται (ophthalmoi hymon opsontai)",
-       "greek_def_ro": "ὀφθαλμοὶ ὑμῶν ὄψονται (ophthalmoi hymon opsontai) — ochii voștri vor vedea."
+       "greek": "ὀφθαλμός (ophthalmos)",
+       "greek_def_ro": "ὀφθαλμός (ophthalmos) — ochi"
       },
       {
        "t": " "
@@ -29091,8 +29130,8 @@
        "pos": "verb, qal imperfect",
        "def_ro": "vor vedea",
        "dict_ro": "Raa e verbul vederii, dar și al înțelegerii: a vedea înseamnă adesea a pricepe. Din aceeași rădăcină vine roe, „văzătorul”, numele vechi al profetului.",
-       "greek": "ὀφθαλμοὶ ὑμῶν ὄψονται (ophthalmoi hymon opsontai)",
-       "greek_def_ro": "ὀφθαλμοὶ ὑμῶν ὄψονται (ophthalmoi hymon opsontai) — ochii voștri vor vedea."
+       "greek": "ὁράω (horao)",
+       "greek_def_ro": "ὁράω (horao) — a vedea"
       },
       {
        "t": " și "
@@ -29105,7 +29144,9 @@
        "strong": "H559",
        "pos": "verb, qal imperfect",
        "def_ro": "veți zice",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": ": «"
@@ -29119,8 +29160,8 @@
        "pos": "nume propriu",
        "def_ro": "DOMNUL",
        "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
-       "greek": "Ἐμεγαλύνθη Κύριος ὑπεράνω τῶν ὁρίων τοῦ Ἰσραήλ (Emegalynthe Kyrios hyperano ton horion tou Israel)",
-       "greek_def_ro": "Ἐμεγαλύνθη Κύριος ὑπεράνω τῶν ὁρίων τοῦ Ἰσραήλ (Emegalynthe Kyrios hyperano ton horion tou Israel) — s-a mărit Domnul mai sus de hotarele lui Israel."
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn; DOMNUL"
       },
       {
        "t": " "
@@ -29134,8 +29175,8 @@
        "pos": "verb, qal jusiv",
        "def_ro": "să fie mare",
        "dict_ro": "Gadal, „a fi mare”, dă cuvântul gadol, „mare”. La forma hifil (higdil), înseamnă a mări, a face slăvit: în Isaia 42:21, Dumnezeu vrea ca Tora să fie mărită și slăvită.",
-       "greek": "Ἐμεγαλύνθη Κύριος ὑπεράνω τῶν ὁρίων τοῦ Ἰσραήλ (Emegalynthe Kyrios hyperano ton horion tou Israel)",
-       "greek_def_ro": "Ἐμεγαλύνθη Κύριος ὑπεράνω τῶν ὁρίων τοῦ Ἰσραήλ (Emegalynthe Kyrios hyperano ton horion tou Israel) — s-a mărit Domnul mai sus de hotarele lui Israel."
+       "greek": "μεγαλύνω (megalyno)",
+       "greek_def_ro": "μεγαλύνω (megalyno) — a mări, a înălța"
       },
       {
        "t": " dincolo de "
@@ -29149,8 +29190,8 @@
        "pos": "substantiv, masculin singular construct + nume propriu",
        "def_ro": "hotarul lui Israel",
        "dict_ro": "„Ligvul Israel” înseamnă „dincolo de hotarul lui Israel”. Maleahi spune că măreția DOMNULUI nu rămâne în limitele lui Israel: ea se va vedea și dincolo, între neamuri. Hotarul este măsura mărimii.",
-       "greek": "Ἐμεγαλύνθη Κύριος ὑπεράνω τῶν ὁρίων τοῦ Ἰσραήλ (Emegalynthe Kyrios hyperano ton horion tou Israel)",
-       "greek_def_ro": "Ἐμεγαλύνθη Κύριος ὑπεράνω τῶν ὁρίων τοῦ Ἰσραήλ (Emegalynthe Kyrios hyperano ton horion tou Israel) — s-a mărit Domnul mai sus de hotarele lui Israel."
+       "greek": "ὅριον Ἰσραήλ (horion Israel)",
+       "greek_def_ro": "ὅριον Ἰσραήλ (horion Israel) — hotarul lui Israel"
       },
       {
        "t": "»”."
@@ -29220,8 +29261,8 @@
        "pos": "substantiv, masculin singular",
        "def_ro": "fiu",
        "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
-       "greek": "υἱὸς δοξάζει πατέρα (hyios doxazei patera)",
-       "greek_def_ro": "υἱὸς δοξάζει πατέρα (hyios doxazei patera) — fiul cinstește pe tată."
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
        "t": " "
@@ -29235,8 +29276,9 @@
        "pos": "verb, piel imperfect",
        "def_ro": "cinstește",
        "dict_ro": "Kaved înseamnă „a cinsti”; este verbul poruncii „cinstește pe tatăl tău și pe mama ta” (Exodul 20:12). Maleahi pornește de la această poruncă pentru a-i mustra pe preoți: dacă un fiu își cinstește tatăl, cum rămâne cu Tatăl lor?",
-       "greek": "υἱὸς δοξάζει πατέρα (hyios doxazei patera)",
-       "greek_def_ro": "υἱὸς δοξάζει πατέρα (hyios doxazei patera) — fiul cinstește pe tată."
+       "greek": "δοξάζω (doxazo)",
+       "greek_def_ro": "δοξάζω (doxazo) — a slăvi",
+       "diff_ro": "Ebraica: „a cinsti” (iekhabed); Septuaginta: „a slăvi” (δοξάζει)."
       },
       {
        "t": " "
@@ -29251,7 +29293,7 @@
        "def_ro": "tatăl",
        "dict_ro": "Av înseamnă „tată”. DOMNUL se numește aici Tată al poporului Său, ceea ce îi dă dreptul la cinstire. Prima întrebare a cărții se leagă de relația tată-fiu.",
        "greek": "πατήρ (pater)",
-       "greek_def_ro": "πατήρ (pater) — tată."
+       "greek_def_ro": "πατήρ (pater) — tată"
       },
       {
        "t": " și un "
@@ -29265,8 +29307,8 @@
        "pos": "substantiv, masculin singular",
        "def_ro": "rob",
        "dict_ro": "Eved acoperă tot șirul de sensuri, de la rob la dregător al regelui; titlul „slujitorul lui DOMNUL” (eved Adonai) e o cinste purtată de Moise, de David și de profeți. În Isaia 42-53, „slujitorul” e o figură centrală: comentatorii evrei (Rashi, Ibn Ezra, Radak) îl identifică de obicei cu Israel, iar tradiția creștină l-a citit mesianic.",
-       "greek": "δοῦλος τὸν κύριον αὐτοῦ (doulos ton kyrion autou)",
-       "greek_def_ro": "δοῦλος τὸν κύριον αὐτοῦ (doulos ton kyrion autou) — slujitorul pe stăpânul lui."
+       "greek": "δοῦλος (doulos)",
+       "greek_def_ro": "δοῦλος (doulos) — rob, slujitor"
       },
       {
        "t": " "
@@ -29280,8 +29322,8 @@
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "stăpânii lui",
        "dict_ro": "Adon înseamnă „stăpân, domn”. În versetul acesta stăpânul este cel față de care robul are teamă. DOMNUL spune: dacă sunt Stăpân, unde este teama de Mine?",
-       "greek": "δοῦλος τὸν κύριον αὐτοῦ (doulos ton kyrion autou)",
-       "greek_def_ro": "δοῦλος τὸν κύριον αὐτοῦ (doulos ton kyrion autou) — slujitorul pe stăpânul lui."
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn; DOMNUL"
       },
       {
        "t": ". Dacă "
@@ -29294,7 +29336,9 @@
        "strong": "H589",
        "pos": "pronume personal",
        "def_ro": "Eu",
-       "dict_ro": "Ani este „eu”, forma obișnuită a pronumelui la persoana întâi. Rostit de DOMNUL în disputa cu preoții, pune greutate pe cine vorbește: „Eu sunt Tatăl”, „Eu sunt Stăpânul”, „Eu sunt Rege mare”, adică Cel față de care se datorează cinstire."
+       "dict_ro": "Ani este „eu”, forma obișnuită a pronumelui la persoana întâi. Rostit de DOMNUL în disputa cu preoții, pune greutate pe cine vorbește: „Eu sunt Tatăl”, „Eu sunt Stăpânul”, „Eu sunt Rege mare”, adică Cel față de care se datorează cinstire.",
+       "greek": "ἐγώ (ego)",
+       "greek_def_ro": "ἐγώ (ego) — eu"
       },
       {
        "t": " sunt "
@@ -29309,7 +29353,7 @@
        "def_ro": "tată",
        "dict_ro": "Av înseamnă „tată”. DOMNUL se numește aici Tată al poporului Său, ceea ce îi dă dreptul la cinstire. Prima întrebare a cărții se leagă de relația tată-fiu.",
        "greek": "πατήρ (pater)",
-       "greek_def_ro": "πατήρ (pater) — tată."
+       "greek_def_ro": "πατήρ (pater) — tată"
       },
       {
        "t": ", unde-i "
@@ -29322,7 +29366,9 @@
        "strong": "H3519",
        "pos": "substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "cinstirea Mea",
-       "dict_ro": "Kavod vine din rădăcina kaved, „a fi greu”: slava e „greutatea”, însemnătatea cuiva. Spus despre Dumnezeu, kavod ajunge să desemneze arătarea văzută a prezenței Sale, ca norul care umple Cortul (Exodul 40:34). Tradiția rabinică vorbește în același sens despre Șehina, prezența lui Dumnezeu care locuiește în mijlocul lui Israel."
+       "dict_ro": "Kavod vine din rădăcina kaved, „a fi greu”: slava e „greutatea”, însemnătatea cuiva. Spus despre Dumnezeu, kavod ajunge să desemneze arătarea văzută a prezenței Sale, ca norul care umple Cortul (Exodul 40:34). Tradiția rabinică vorbește în același sens despre Șehina, prezența lui Dumnezeu care locuiește în mijlocul lui Israel.",
+       "greek": "δόξα (doxa)",
+       "greek_def_ro": "δόξα (doxa) — slavă, cinstire"
       },
       {
        "t": "? Și dacă "
@@ -29335,7 +29381,9 @@
        "strong": "H589",
        "pos": "pronume personal",
        "def_ro": "Eu",
-       "dict_ro": "Ani este „eu”, forma obișnuită a pronumelui la persoana întâi. Rostit de DOMNUL în disputa cu preoții, pune greutate pe cine vorbește: „Eu sunt Tatăl”, „Eu sunt Stăpânul”, „Eu sunt Rege mare”, adică Cel față de care se datorează cinstire."
+       "dict_ro": "Ani este „eu”, forma obișnuită a pronumelui la persoana întâi. Rostit de DOMNUL în disputa cu preoții, pune greutate pe cine vorbește: „Eu sunt Tatăl”, „Eu sunt Stăpânul”, „Eu sunt Rege mare”, adică Cel față de care se datorează cinstire.",
+       "greek": "ἐγώ (ego)",
+       "greek_def_ro": "ἐγώ (ego) — eu"
       },
       {
        "t": " sunt "
@@ -29348,7 +29396,9 @@
        "strong": "H113",
        "pos": "substantiv, masculin plural",
        "def_ro": "stăpân",
-       "dict_ro": "Adon înseamnă „stăpân, domn”. În versetul acesta stăpânul este cel față de care robul are teamă. DOMNUL spune: dacă sunt Stăpân, unde este teama de Mine?"
+       "dict_ro": "Adon înseamnă „stăpân, domn”. În versetul acesta stăpânul este cel față de care robul are teamă. DOMNUL spune: dacă sunt Stăpân, unde este teama de Mine?",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn; DOMNUL"
       },
       {
        "t": ", unde-i "
@@ -29361,7 +29411,9 @@
        "strong": "H4172",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "teama de Mine",
-       "dict_ro": "Mora înseamnă „teamă, venerație”, sentimentul datorat lui Dumnezeu. Maleahi întreabă: dacă Eu sunt Stăpân, unde este teama de Mine? Preoții, care slujesc la altar, ar trebui să o aibă mai mult decât oricine."
+       "dict_ro": "Mora înseamnă „teamă, venerație”, sentimentul datorat lui Dumnezeu. Maleahi întreabă: dacă Eu sunt Stăpân, unde este teama de Mine? Preoții, care slujesc la altar, ar trebui să o aibă mai mult decât oricine.",
+       "greek": "φόβος (phobos)",
+       "greek_def_ro": "φόβος (phobos) — frică, teamă"
       },
       {
        "t": "” – "
@@ -29374,7 +29426,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect",
        "def_ro": "a zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": " "
@@ -29387,7 +29441,9 @@
        "strong": "H3068",
        "pos": "nume propriu + substantiv, masculin și feminin plural",
        "def_ro": "DOMNUL Oștirilor",
-       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină."
+       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină.",
+       "greek": "κύριος παντοκράτωρ (kyrios pantokrator)",
+       "greek_def_ro": "κύριος παντοκράτωρ (kyrios pantokrator) — Domnul Atotțiitorul"
       },
       {
        "t": " – „"
@@ -29400,7 +29456,9 @@
        "strong": "H3548",
        "pos": "substantiv, masculin plural",
        "def_ro": "preoților",
-       "dict_ro": "Kohen înseamnă „preot”; Aaron și fiii lui au fost aleși pentru slujba aceasta (Leviticul 21:1). Cartea Maleahi se adresează în special preoților, cei care ar trebui să dea exemplul de cinstire a numelui lui DOMNUL."
+       "dict_ro": "Kohen înseamnă „preot”; Aaron și fiii lui au fost aleși pentru slujba aceasta (Leviticul 21:1). Cartea Maleahi se adresează în special preoților, cei care ar trebui să dea exemplul de cinstire a numelui lui DOMNUL.",
+       "greek": "ἱερεύς (hiereus)",
+       "greek_def_ro": "ἱερεύς (hiereus) — preot"
       },
       {
        "t": " care Îmi "
@@ -29413,7 +29471,9 @@
        "strong": "H959",
        "pos": "verb, qal participiu",
        "def_ro": "cei ce disprețuiți",
-       "dict_ro": "Bazah înseamnă „a disprețui”. Esav „a disprețuit” dreptul de întâi născut (Geneza 25:34); preoții „disprețuiesc” numele lui DOMNUL. Același verb leagă astfel purtarea lor de cea a lui Esav."
+       "dict_ro": "Bazah înseamnă „a disprețui”. Esav „a disprețuit” dreptul de întâi născut (Geneza 25:34); preoții „disprețuiesc” numele lui DOMNUL. Același verb leagă astfel purtarea lor de cea a lui Esav.",
+       "greek": "φαυλίζω (phaulizo)",
+       "greek_def_ro": "φαυλίζω (phaulizo) — a disprețui"
       },
       {
        "t": " "
@@ -29426,7 +29486,9 @@
        "strong": "H8034",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "numele Meu",
-       "dict_ro": "Șem nu e doar o etichetă: în gândirea biblică numele exprimă identitatea și prezența celui care îl poartă. „Numele lui DOMNUL” ajunge să Îl desemneze pe Dumnezeu însuși, iar în tradiția evreiască HaȘem („Numele”) e felul obișnuit de a vorbi despre El fără a rosti Tetragrama."
+       "dict_ro": "Șem nu e doar o etichetă: în gândirea biblică numele exprimă identitatea și prezența celui care îl poartă. „Numele lui DOMNUL” ajunge să Îl desemneze pe Dumnezeu însuși, iar în tradiția evreiască HaȘem („Numele”) e felul obișnuit de a vorbi despre El fără a rosti Tetragrama.",
+       "greek": "ὄνομα (onoma)",
+       "greek_def_ro": "ὄνομα (onoma) — nume"
       },
       {
        "t": "?” Dar voi "
@@ -29439,7 +29501,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "ați zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": ": „Prin ce "
@@ -29452,7 +29516,9 @@
        "strong": "H959",
        "pos": "verb, qal perfect",
        "def_ro": "am disprețuit",
-       "dict_ro": "Bazah înseamnă „a disprețui”. Esav „a disprețuit” dreptul de întâi născut (Geneza 25:34); preoții „disprețuiesc” numele lui DOMNUL. Același verb leagă astfel purtarea lor de cea a lui Esav."
+       "dict_ro": "Bazah înseamnă „a disprețui”. Esav „a disprețuit” dreptul de întâi născut (Geneza 25:34); preoții „disprețuiesc” numele lui DOMNUL. Același verb leagă astfel purtarea lor de cea a lui Esav.",
+       "greek": "φαυλίζω (phaulizo)",
+       "greek_def_ro": "φαυλίζω (phaulizo) — a disprețui"
       },
       {
        "t": " "
@@ -29465,7 +29531,9 @@
        "strong": "H8034",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "numele Tău",
-       "dict_ro": "Șem nu e doar o etichetă: în gândirea biblică numele exprimă identitatea și prezența celui care îl poartă. „Numele lui DOMNUL” ajunge să Îl desemneze pe Dumnezeu însuși, iar în tradiția evreiască HaȘem („Numele”) e felul obișnuit de a vorbi despre El fără a rosti Tetragrama."
+       "dict_ro": "Șem nu e doar o etichetă: în gândirea biblică numele exprimă identitatea și prezența celui care îl poartă. „Numele lui DOMNUL” ajunge să Îl desemneze pe Dumnezeu însuși, iar în tradiția evreiască HaȘem („Numele”) e felul obișnuit de a vorbi despre El fără a rosti Tetragrama.",
+       "greek": "ὄνομα (onoma)",
+       "greek_def_ro": "ὄνομα (onoma) — nume"
       },
       {
        "t": "?”"
@@ -29480,9 +29548,9 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "Υἱὸς δοξάζει πατέρα, καὶ δοῦλος τὸν κύριον αὐτοῦ. καὶ εἰ πατήρ εἰμι ἐγώ, ποῦ ἐστιν ἡ δόξα μου;",
+       "original": "υἱὸς δοξάζει πατέρα καὶ δοῦλος τὸν κύριον αὐτοῦ καὶ εἰ πατήρ εἰμι ἐγώ ποῦ ἐστιν ἡ δόξα μου καὶ εἰ κύριός εἰμι ἐγώ ποῦ ἐστιν ὁ φόβος μου λέγει κύριος παντοκράτωρ ὑμεῖς οἱ ἱερεῖς οἱ φαυλίζοντες τὸ ὄνομά μου καὶ εἴπατε ἐν τίνι ἐφαυλίσαμεν τὸ ὄνομά σου",
        "greek": true,
-       "translation": "„Fiul slăvește pe tatăl, și robul pe stăpânul lui. Și dacă Eu sunt Tată, unde este slava Mea?”",
+       "translation": "„Fiul slăvește pe tată și robul pe domnul său; și dacă Eu sunt tată, unde este slava Mea? Și dacă Eu sunt Domn, unde este frica Mea? zice Domnul Atotțiitorul către voi, preoții care disprețuiți numele Meu; și ați zis: Prin ce am disprețuit numele Tău?”",
        "note": "LXX traduce „a cinsti” (kabed) prin „a slăvi” (δοξάζει) — o nuanță mai puternică decât simpla cinstire, apropiată de „a da slavă”."
       }
      ],
@@ -29543,7 +29611,9 @@
        "strong": "H5066",
        "pos": "verb, hifil participiu",
        "def_ro": "cei ce aduceți",
-       "dict_ro": "Nagaș, la forma cauzativă, înseamnă „a aduce aproape”; verbul obișnuit al aducerii unei jertfe la altar. Preoții aduc jertfe, dar cele aduse sunt pângărite. Verbul revine în versetele 7, 8 și 11."
+       "dict_ro": "Nagaș, la forma cauzativă, înseamnă „a aduce aproape”; verbul obișnuit al aducerii unei jertfe la altar. Preoții aduc jertfe, dar cele aduse sunt pângărite. Verbul revine în versetele 7, 8 și 11.",
+       "greek": "προσάγω (prosago)",
+       "greek_def_ro": "προσάγω (prosago) — a aduce"
       },
       {
        "t": " "
@@ -29556,7 +29626,9 @@
        "strong": "H3899",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "pâine",
-       "dict_ro": "Lehem înseamnă „pâine, hrană”. În legea jertfelor, jertfa e numită „hrana lui Dumnezeu” (Leviticul 21:6). „Pâinea pângărită” de pe altar este jertfa adusă fără cinste, cu animale neîngrijite."
+       "dict_ro": "Lehem înseamnă „pâine, hrană”. În legea jertfelor, jertfa e numită „hrana lui Dumnezeu” (Leviticul 21:6). „Pâinea pângărită” de pe altar este jertfa adusă fără cinste, cu animale neîngrijite.",
+       "greek": "ἄρτος (artos)",
+       "greek_def_ro": "ἄρτος (artos) — pâine"
       },
       {
        "t": " "
@@ -29569,7 +29641,9 @@
        "strong": "H1351",
        "pos": "verb, pual participiu pasiv",
        "def_ro": "spurcată",
-       "dict_ro": "Gaal, la forma intensivă, înseamnă „a spurca, a face necurat”. Verbul apare și în Ezra 2:62, unde unii sunt „excluși din preoție ca spurcați”. Preoții spurcă altarul prin jertfele pe care le aduc."
+       "dict_ro": "Gaal, la forma intensivă, înseamnă „a spurca, a face necurat”. Verbul apare și în Ezra 2:62, unde unii sunt „excluși din preoție ca spurcați”. Preoții spurcă altarul prin jertfele pe care le aduc.",
+       "greek": "ἀλισγέω (alisgeo)",
+       "greek_def_ro": "ἀλισγέω (alisgeo) — a spurca"
       },
       {
        "t": " pe "
@@ -29582,7 +29656,9 @@
        "strong": "H4196",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "altarul Meu",
-       "dict_ro": "Mizbeah înseamnă „altar”, locul unde se jertfește, de la zavah, „a jertfi”. Noe zidește un altar după potop (Geneza 8:20). În Maleahi altarul este locul unde se vede disprețul preoților față de DOMNUL."
+       "dict_ro": "Mizbeah înseamnă „altar”, locul unde se jertfește, de la zavah, „a jertfi”. Noe zidește un altar după potop (Geneza 8:20). În Maleahi altarul este locul unde se vede disprețul preoților față de DOMNUL.",
+       "greek": "θυσιαστήριον (thysiasterion)",
+       "greek_def_ro": "θυσιαστήριον (thysiasterion) — altar"
       },
       {
        "t": " și "
@@ -29595,7 +29671,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "ați zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": ": «Prin ce "
@@ -29608,7 +29686,9 @@
        "strong": "H1351",
        "pos": "verb, piel perfect + sufix",
        "def_ro": "Te-am spurcat",
-       "dict_ro": "Gaal, la forma intensivă, înseamnă „a spurca, a face necurat”. Verbul apare și în Ezra 2:62, unde unii sunt „excluși din preoție ca spurcați”. Preoții spurcă altarul prin jertfele pe care le aduc."
+       "dict_ro": "Gaal, la forma intensivă, înseamnă „a spurca, a face necurat”. Verbul apare și în Ezra 2:62, unde unii sunt „excluși din preoție ca spurcați”. Preoții spurcă altarul prin jertfele pe care le aduc.",
+       "greek": "ἀλισγέω (alisgeo)",
+       "greek_def_ro": "ἀλισγέω (alisgeo) — a spurca"
       },
       {
        "t": "?» Prin "
@@ -29621,7 +29701,9 @@
        "strong": "H559",
        "pos": "verb, qal infinitiv + sufix",
        "def_ro": "prin zisa voastră",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": " că «"
@@ -29634,7 +29716,9 @@
        "strong": "H7979",
        "pos": "substantiv, masculin singular construct + nume propriu",
        "def_ro": "masa DOMNULUI",
-       "dict_ro": "„Șulhan Adonai” înseamnă „masa DOMNULUI”. În Ezechiel 41:22, altarul de lemn din Templu se numește „masa dinaintea DOMNULUI”. Aici masa este altarul jertfelor, pe care preoții o disprețuiesc prin ce aduc."
+       "dict_ro": "„Șulhan Adonai” înseamnă „masa DOMNULUI”. În Ezechiel 41:22, altarul de lemn din Templu se numește „masa dinaintea DOMNULUI”. Aici masa este altarul jertfelor, pe care preoții o disprețuiesc prin ce aduc.",
+       "greek": "τράπεζα κυρίου (trapeza kyriou)",
+       "greek_def_ro": "τράπεζα κυρίου (trapeza kyriou) — masa Domnului"
       },
       {
        "t": " "
@@ -29647,7 +29731,9 @@
        "strong": "H959",
        "pos": "verb, nifal participiu + pronume personal",
        "def_ro": "este de disprețuit",
-       "dict_ro": "„Nivze hu” înseamnă „este disprețuită”. Participiul pasiv arată o stare: masa DOMNULUI e privită cu dispreț. Perechea redă acuzația pe care Maleahi o pune în gura preoților."
+       "dict_ro": "„Nivze hu” înseamnă „este disprețuită”. Participiul pasiv arată o stare: masa DOMNULUI e privită cu dispreț. Perechea redă acuzația pe care Maleahi o pune în gura preoților.",
+       "greek": "ἐξουδενόω (exoudenoo)",
+       "greek_def_ro": "ἐξουδενόω (exoudenoo) — a disprețui"
       },
       {
        "t": "»."
@@ -29662,10 +29748,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "προσάγοντες πρὸς τὸ θυσιαστήριόν μου ἄρτους ἠλισγημένους.",
+       "original": "προσάγοντες πρὸς τὸ θυσιαστήριόν μου ἄρτους ἠλισγημένους καὶ εἴπατε ἐν τίνι ἠλισγήσαμεν αὐτούς ἐν τῷ λέγειν ὑμᾶς τράπεζα κυρίου ἐξουδενωμένη ἐστὶν καὶ τὰ ἐπιτιθέμενα βρώματα ἐξουδενωμένα",
        "greek": true,
-       "translation": "„Aducând la altarul Meu pâini pângărite.”",
-       "note": "LXX prescurtează versetul, omițând dialogul „prin ce Te-am pângărit” și acuzația despre „masa DOMNULUI disprețuită”, reluate probabil implicit din context."
+       "translation": "„Aducând la altarul Meu pâini spurcate; și ați zis: Prin ce le-am spurcat? Prin faptul că ziceți: Masa Domnului este disprețuită, și cele puse pe ea, bucatele, sunt disprețuite.”",
+       "note": "Apropiere strânsă între TM și LXX; la sfârșit LXX adaugă „și cele puse pe ea, bucatele, sunt disprețuite”, formulare pe care ebraica o are abia în v. 12."
       }
      ],
      "refs": [
@@ -29716,7 +29802,9 @@
        "strong": "H5066",
        "pos": "verb, hifil imperfect",
        "def_ro": "aduceți",
-       "dict_ro": "Nagaș, la forma cauzativă, înseamnă „a aduce aproape”; verbul obișnuit al aducerii unei jertfe la altar. Preoții aduc jertfe, dar cele aduse sunt pângărite. Verbul revine în versetele 7, 8 și 11."
+       "dict_ro": "Nagaș, la forma cauzativă, înseamnă „a aduce aproape”; verbul obișnuit al aducerii unei jertfe la altar. Preoții aduc jertfe, dar cele aduse sunt pângărite. Verbul revine în versetele 7, 8 și 11.",
+       "greek": "προσάγω (prosago)",
+       "greek_def_ro": "προσάγω (prosago) — a aduce"
       },
       {
        "t": " un [dobitoc] "
@@ -29730,8 +29818,8 @@
        "pos": "adjectiv, masculin singular",
        "def_ro": "orb",
        "dict_ro": "Iver, „orb”, e în Isaia atât o infirmitate reală, pe care vremea mântuirii o vindecă (Isaia 35:5), cât și imaginea unui popor care are ochi și nu vede (Isaia 42:18-19). Tema orbirii lăuntrice leagă capitolul 6 al cărții de capitolele 42-43.",
-       "greek": "προσαγάγητε τυφλὸν εἰς θυσίαν (prosagagete typhlon eis thysian)",
-       "greek_def_ro": "προσαγάγητε τυφλὸν εἰς θυσίαν (prosagagete typhlon eis thysian) — aduceți un orb ca jertfă."
+       "greek": "τυφλός (typhlos)",
+       "greek_def_ro": "τυφλός (typhlos) — orb"
       },
       {
        "t": " "
@@ -29745,8 +29833,8 @@
        "pos": "verb, qal infinitiv",
        "def_ro": "să jertfiți",
        "dict_ro": "Zavah înseamnă „a jertfi” animale. Jertfa trebuie adusă din ce e mai bun; aici însă este adusă ce rămâne după ce cel bun a fost păstrat. Cuvântul leagă o acuzație de rit de una de caracter.",
-       "greek": "προσαγάγητε τυφλὸν εἰς θυσίαν (prosagagete typhlon eis thysian)",
-       "greek_def_ro": "προσαγάγητε τυφλὸν εἰς θυσίαν (prosagagete typhlon eis thysian) — aduceți un orb ca jertfă."
+       "greek": "θυσία (thysia)",
+       "greek_def_ro": "θυσία (thysia) — jertfă"
       },
       {
        "t": ", nu-i "
@@ -29760,8 +29848,8 @@
        "pos": "adjectiv, masculin singular",
        "def_ro": "rău",
        "dict_ro": "Ra înseamnă „rău, urât, de proastă calitate”. Animalul orb, șchiop sau bolnav este „rău” ca jertfă. Maleahi întreabă: nu este asta rău? Răspunsul este sugerat: este.",
-       "greek": "οὐ κακόν (ou kakon)",
-       "greek_def_ro": "οὐ κακόν (ou kakon) — nu [e] rău?"
+       "greek": "κακός (kakos)",
+       "greek_def_ro": "κακός (kakos) — rău"
       },
       {
        "t": "? Și când "
@@ -29774,7 +29862,9 @@
        "strong": "H5066",
        "pos": "verb, hifil imperfect",
        "def_ro": "aduceți",
-       "dict_ro": "Nagaș, la forma cauzativă, înseamnă „a aduce aproape”; verbul obișnuit al aducerii unei jertfe la altar. Preoții aduc jertfe, dar cele aduse sunt pângărite. Verbul revine în versetele 7, 8 și 11."
+       "dict_ro": "Nagaș, la forma cauzativă, înseamnă „a aduce aproape”; verbul obișnuit al aducerii unei jertfe la altar. Preoții aduc jertfe, dar cele aduse sunt pângărite. Verbul revine în versetele 7, 8 și 11.",
+       "greek": "προσάγω (prosago)",
+       "greek_def_ro": "προσάγω (prosago) — a aduce"
       },
       {
        "t": " pe unul "
@@ -29788,8 +29878,8 @@
        "pos": "adjectiv, masculin singular",
        "def_ro": "șchiop",
        "dict_ro": "Pisseah înseamnă „șchiop”. Legea interzice jertfirea unui animal șchiop sau orb (Deuteronomul 15:21). Preoții aduc exact acest fel de animal, încălcând legea.",
-       "greek": "προσαγάγητε χωλὸν ἢ ἄρρωστον (prosagagete cholon e arroston)",
-       "greek_def_ro": "προσαγάγητε χωλὸν ἢ ἄρρωστον (prosagagete cholon e arroston) — aduceți un șchiop sau bolnav."
+       "greek": "χωλός (cholos)",
+       "greek_def_ro": "χωλός (cholos) — șchiop"
       },
       {
        "t": " sau "
@@ -29803,8 +29893,8 @@
        "pos": "verb, qal participiu",
        "def_ro": "bolnav",
        "dict_ro": "Halah înseamnă „a fi bolnav”. Participiul „bolnav” desemnează animalul bolnav, pe care legea nu îl permitea pe altar. Orbul, șchiopul și bolnavul alcătuiesc lista animalelor respinse.",
-       "greek": "προσαγάγητε χωλὸν ἢ ἄρρωστον (prosagagete cholon e arroston)",
-       "greek_def_ro": "προσαγάγητε χωλὸν ἢ ἄρρωστον (prosagagete cholon e arroston) — aduceți un șchiop sau bolnav."
+       "greek": "ἄρρωστος (arrostos)",
+       "greek_def_ro": "ἄρρωστος (arrostos) — bolnav"
       },
       {
        "t": ", nu-i "
@@ -29818,8 +29908,8 @@
        "pos": "adjectiv, masculin singular",
        "def_ro": "rău",
        "dict_ro": "Ra înseamnă „rău, urât, de proastă calitate”. Animalul orb, șchiop sau bolnav este „rău” ca jertfă. Maleahi întreabă: nu este asta rău? Răspunsul este sugerat: este.",
-       "greek": "οὐ κακόν (ou kakon)",
-       "greek_def_ro": "οὐ κακόν (ou kakon) — nu [e] rău?"
+       "greek": "κακός (kakos)",
+       "greek_def_ro": "κακός (kakos) — rău"
       },
       {
        "t": "? "
@@ -29832,7 +29922,9 @@
        "strong": "H7126",
        "pos": "verb, hifil imperativ + sufix",
        "def_ro": "adu-l",
-       "dict_ro": "Qarav, la forma cauzativă, înseamnă „a aduce aproape, a oferi jertfa”. Este verbul din Leviticul 1:2: „când cineva dintre voi va aduce o jertfă DOMNULUI”. Aici i se spune preotului: adu-l guvernatorului tău, nu lui DOMNUL."
+       "dict_ro": "Qarav, la forma cauzativă, înseamnă „a aduce aproape, a oferi jertfa”. Este verbul din Leviticul 1:2: „când cineva dintre voi va aduce o jertfă DOMNULUI”. Aici i se spune preotului: adu-l guvernatorului tău, nu lui DOMNUL.",
+       "greek": "προσάγω (prosago)",
+       "greek_def_ro": "προσάγω (prosago) — a aduce"
       },
       {
        "t": ", dacă vrei, "
@@ -29845,7 +29937,9 @@
        "strong": "H6346",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "guvernatorului tău",
-       "dict_ro": "Pehah înseamnă „guvernator” al unei provincii persane; cuvântul vine din akkadiană. Neemia 5:14 îl folosește pentru el însuși. Maleahi îl pune în contrast cu DOMNUL: oare nu l-ai ofensa pe guvernator cu ce aduci DOMNULUI?"
+       "dict_ro": "Pehah înseamnă „guvernator” al unei provincii persane; cuvântul vine din akkadiană. Neemia 5:14 îl folosește pentru el însuși. Maleahi îl pune în contrast cu DOMNUL: oare nu l-ai ofensa pe guvernator cu ce aduci DOMNULUI?",
+       "greek": "ἡγέομαι (hegeomai)",
+       "greek_def_ro": "ἡγέομαι (hegeomai) — a conduce (conducător)"
       },
       {
        "t": " – oare "
@@ -29858,7 +29952,9 @@
        "strong": "H7521",
        "pos": "verb, qal imperfect + sufix",
        "def_ro": "te va primi cu bunăvoință",
-       "dict_ro": "Ratsa înseamnă „a primi cu plăcere”; este verbul jertfei acceptate: „va fi primită spre ispășirea lui” (Leviticul 1:4). Maleahi întreabă dacă guvernatorul ar primi cu plăcere un dar de felul acesta."
+       "dict_ro": "Ratsa înseamnă „a primi cu plăcere”; este verbul jertfei acceptate: „va fi primită spre ispășirea lui” (Leviticul 1:4). Maleahi întreabă dacă guvernatorul ar primi cu plăcere un dar de felul acesta.",
+       "greek": "προσδέχομαι (prosdechomai)",
+       "greek_def_ro": "προσδέχομαι (prosdechomai) — a primi"
       },
       {
        "t": " și "
@@ -29871,7 +29967,9 @@
        "strong": "H5375",
        "pos": "verb, qal imperfect",
        "def_ro": "va ridica",
-       "dict_ro": "Nasa înseamnă a ridica și a purta; expresia „a ridica glasul” descrie strigătul de bucurie sau de plâns. „A purta vina” poate însemna fie a o suporta, fie a o ierta, a o ridica de pe altul (Exodul 34:7)."
+       "dict_ro": "Nasa înseamnă a ridica și a purta; expresia „a ridica glasul” descrie strigătul de bucurie sau de plâns. „A purta vina” poate însemna fie a o suporta, fie a o ierta, a o ridica de pe altul (Exodul 34:7).",
+       "greek": "λαμβάνω (lambano)",
+       "greek_def_ro": "λαμβάνω (lambano) — a lua"
       },
       {
        "t": " "
@@ -29884,7 +29982,9 @@
        "strong": "H6440",
        "pos": "substantiv, masculin și feminin plural construct + sufix",
        "def_ro": "fața ta",
-       "dict_ro": "Panim, „fața”, are formă de plural; cu prepoziția le formează lifnei, „înaintea”, literal „la fața”. În Isaia 43:10, lefanai, „înaintea Mea”, are sens de timp: înainte de Dumnezeu nu a fost plăsmuit niciun alt dumnezeu."
+       "dict_ro": "Panim, „fața”, are formă de plural; cu prepoziția le formează lifnei, „înaintea”, literal „la fața”. În Isaia 43:10, lefanai, „înaintea Mea”, are sens de timp: înainte de Dumnezeu nu a fost plăsmuit niciun alt dumnezeu.",
+       "greek": "πρόσωπον (prosopon)",
+       "greek_def_ro": "πρόσωπον (prosopon) — față"
       },
       {
        "t": " spre tine?”, "
@@ -29897,7 +29997,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect",
        "def_ro": "a zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": " "
@@ -29910,7 +30012,9 @@
        "strong": "H3068",
        "pos": "nume propriu + substantiv, masculin și feminin plural",
        "def_ro": "DOMNUL Oștirilor",
-       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină."
+       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină.",
+       "greek": "κύριος παντοκράτωρ (kyrios pantokrator)",
+       "greek_def_ro": "κύριος παντοκράτωρ (kyrios pantokrator) — Domnul Atotțiitorul"
       },
       {
        "t": "."
@@ -29925,10 +30029,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "διότι ἐὰν προσαγάγητε τυφλὸν εἰς θυσίαν, οὐ κακόν; καὶ ἐὰν προσαγάγητε χωλὸν ἢ ἄρρωστον,...",
+       "original": "διότι ἐὰν προσαγάγητε τυφλὸν εἰς θυσίαν οὐ κακόν καὶ ἐὰν προσαγάγητε χωλὸν ἢ ἄρρωστον οὐ κακόν προσάγαγε δὴ αὐτὸ τῷ ἡγουμένῳ σου εἰ προσδέξεται αὐτό εἰ λήμψεται πρόσωπόν σου λέγει κύριος παντοκράτωρ",
        "greek": true,
-       "translation": "„Fiindcă dacă aduceți un orb pentru jertfă, nu e rău? Și dacă aduceți un șchiop sau un bolnav,...”",
-       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+       "translation": "„Fiindcă dacă aduceți un orb pentru jertfă, nu e rău? Și dacă aduceți un șchiop sau un bolnav, nu e rău? Adu-l, deci, conducătorului tău: va primi el aceasta? Îți va ridica el fața? zice Domnul Atotțiitorul.”",
+       "note": "Apropiere strânsă între TM și LXX; „guvernatorului” (pehah) este redat prin „conducătorului” (ἡγουμένῳ)."
       }
      ],
      "refs": [
@@ -29983,7 +30087,9 @@
        "strong": "H6258",
        "pos": "adverb",
        "def_ro": "și acum",
-       "dict_ro": "Veata, „și acum”, marchează în profeți o întorsătură: după mustrare urmează mângâierea, după judecată făgăduința (Isaia 43:1)."
+       "dict_ro": "Veata, „și acum”, marchează în profeți o întorsătură: după mustrare urmează mângâierea, după judecată făgăduința (Isaia 43:1).",
+       "greek": "νῦν (nyn)",
+       "greek_def_ro": "νῦν (nyn) — acum"
       },
       {
        "t": ", "
@@ -29996,7 +30102,9 @@
        "strong": "H2470",
        "pos": "verb, piel imperativ",
        "def_ro": "rugați-vă",
-       "dict_ro": "Halah înseamnă „a fi bolnav”. Participiul „bolnav” desemnează animalul bolnav, pe care legea nu îl permitea pe altar. Orbul, șchiopul și bolnavul alcătuiesc lista animalelor respinse."
+       "dict_ro": "Halah înseamnă „a fi bolnav”. Participiul „bolnav” desemnează animalul bolnav, pe care legea nu îl permitea pe altar. Orbul, șchiopul și bolnavul alcătuiesc lista animalelor respinse.",
+       "greek": "ἐξιλάσκομαι (exilaskomai)",
+       "greek_def_ro": "ἐξιλάσκομαι (exilaskomai) — a ispăși, a îmblânzi"
       },
       {
        "t": " așadar pe "
@@ -30009,7 +30117,10 @@
        "strong": "H6440",
        "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular",
        "def_ro": "fața lui Dumnezeu",
-       "dict_ro": "„Penei El” înseamnă, literal, „fața lui Dumnezeu”. A „implora” fața înseamnă, în ebraică, „a îndulci fața”: Moise „a îmblânzit fața DOMNULUI” (Exodul 32:11). Preoții sunt chemați să ceară îndurare."
+       "dict_ro": "„Penei El” înseamnă, literal, „fața lui Dumnezeu”. A „implora” fața înseamnă, în ebraică, „a îndulci fața”: Moise „a îmblânzit fața DOMNULUI” (Exodul 32:11). Preoții sunt chemați să ceară îndurare.",
+       "greek": "θεός (theos)",
+       "greek_def_ro": "θεός (theos) — Dumnezeu",
+       "diff_ro": "Ebraica: „fața lui El” (penei El); Septuaginta: „fața Dumnezeului vostru” (τὸ πρόσωπον τοῦ θεοῦ ὑμῶν)."
       },
       {
        "t": " ca "
@@ -30024,7 +30135,7 @@
        "def_ro": "să ne miluiască",
        "dict_ro": "Hanan înseamnă „a se îndura, a arăta favoare”: „Mă voi îndura de cine Mă îndur” (Exodul 33:19). Cererea din Maleahi este ironică: cum ar putea fi binevoitor DOMNUL față de cei care aduc astfel de jertfe?",
        "greek": "δέομαι (deomai)",
-       "greek_def_ro": "δέομαι (deomai) — a implora, a cere."
+       "greek_def_ro": "δέομαι (deomai) — a se ruga"
       },
       {
        "t": ", [căci] "
@@ -30037,7 +30148,9 @@
        "strong": "H3027",
        "pos": "substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "din mâna voastră",
-       "dict_ro": "Iad, „mâna”, e în Biblie simbolul puterii și al lucrării: cu „mână tare” l-a scos DOMNUL pe Israel din Egipt (Exodul 13:9). A lua pe cineva „de mână” exprimă sprijin și călăuzire (Isaia 42:6)."
+       "dict_ro": "Iad, „mâna”, e în Biblie simbolul puterii și al lucrării: cu „mână tare” l-a scos DOMNUL pe Israel din Egipt (Exodul 13:9). A lua pe cineva „de mână” exprimă sprijin și călăuzire (Isaia 42:6).",
+       "greek": "χείρ (cheir)",
+       "greek_def_ro": "χείρ (cheir) — mână"
       },
       {
        "t": " "
@@ -30050,7 +30163,9 @@
        "strong": "H1961",
        "pos": "verb, qal perfect",
        "def_ro": "a fost",
-       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”."
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "γίνομαι (ginomai)",
+       "greek_def_ro": "γίνομαι (ginomai) — a fi, a se întâmpla"
       },
       {
        "t": " "
@@ -30063,7 +30178,9 @@
        "strong": "H2063",
        "pos": "pronume demonstrativ",
        "def_ro": "aceasta",
-       "dict_ro": "Zot înseamnă „aceasta”. „Din mâinile voastre a fost aceasta” pune răspunderea pe preoți: jertfele nepotrivite vin de la ei, nu de la popor. Pronumele arată cu degetul spre vină."
+       "dict_ro": "Zot înseamnă „aceasta”. „Din mâinile voastre a fost aceasta” pune răspunderea pe preoți: jertfele nepotrivite vin de la ei, nu de la popor. Pronumele arată cu degetul spre vină.",
+       "greek": "οὗτος (houtos)",
+       "greek_def_ro": "οὗτος (houtos) — acesta"
       },
       {
        "t": ". Oare "
@@ -30076,7 +30193,9 @@
        "strong": "H5375",
        "pos": "verb, qal imperfect",
        "def_ro": "va primi",
-       "dict_ro": "Nasa înseamnă a ridica și a purta; expresia „a ridica glasul” descrie strigătul de bucurie sau de plâns. „A purta vina” poate însemna fie a o suporta, fie a o ierta, a o ridica de pe altul (Exodul 34:7)."
+       "dict_ro": "Nasa înseamnă a ridica și a purta; expresia „a ridica glasul” descrie strigătul de bucurie sau de plâns. „A purta vina” poate însemna fie a o suporta, fie a o ierta, a o ridica de pe altul (Exodul 34:7).",
+       "greek": "λαμβάνω (lambano)",
+       "greek_def_ro": "λαμβάνω (lambano) — a lua"
       },
       {
        "t": " El "
@@ -30089,7 +30208,9 @@
        "strong": "H6440",
        "pos": "substantiv, masculin și feminin plural",
        "def_ro": "fețe",
-       "dict_ro": "Panim, „fața”, are formă de plural; cu prepoziția le formează lifnei, „înaintea”, literal „la fața”. În Isaia 43:10, lefanai, „înaintea Mea”, are sens de timp: înainte de Dumnezeu nu a fost plăsmuit niciun alt dumnezeu."
+       "dict_ro": "Panim, „fața”, are formă de plural; cu prepoziția le formează lifnei, „înaintea”, literal „la fața”. În Isaia 43:10, lefanai, „înaintea Mea”, are sens de timp: înainte de Dumnezeu nu a fost plăsmuit niciun alt dumnezeu.",
+       "greek": "πρόσωπον (prosopon)",
+       "greek_def_ro": "πρόσωπον (prosopon) — față"
       },
       {
        "t": " spre oricare din voi?”, "
@@ -30102,7 +30223,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect",
        "def_ro": "a zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": " "
@@ -30115,7 +30238,9 @@
        "strong": "H3068",
        "pos": "nume propriu + substantiv, masculin și feminin plural",
        "def_ro": "DOMNUL Oștirilor",
-       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină."
+       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină.",
+       "greek": "κύριος παντοκράτωρ (kyrios pantokrator)",
+       "greek_def_ro": "κύριος παντοκράτωρ (kyrios pantokrator) — Domnul Atotțiitorul"
       },
       {
        "t": "."
@@ -30130,10 +30255,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ νῦν ἐξιλάσκεσθε τὸ πρόσωπον τοῦ θεοῦ ὑμῶν καὶ δεήθητε αὐτοῦ;",
+       "original": "καὶ νῦν ἐξιλάσκεσθε τὸ πρόσωπον τοῦ θεοῦ ὑμῶν καὶ δεήθητε αὐτοῦ ἐν χερσὶν ὑμῶν γέγονεν ταῦτα εἰ λήμψομαι ἐξ ὑμῶν πρόσωπα ὑμῶν λέγει κύριος παντοκράτωρ",
        "greek": true,
-       "translation": "„Și acum, împăcați fața Dumnezeului vostru și rugați-vă Lui?”",
-       "note": "LXX pune fraza sub formă de întrebare retorică, întărind și mai mult tonul ironic prezent deja în TM."
+       "translation": "„Și acum, ispășiți fața Dumnezeului vostru și rugați-vă Lui: din mâinile voastre au fost acestea; oare voi primi dintre voi fețe? zice Domnul Atotțiitorul.”",
+       "note": "Apropiere strânsă între TM și LXX; LXX redă „implorați” (halu) prin „ispășiți (fața lui Dumnezeu)” (ἐξιλάσκεσθε)."
       }
      ],
      "refs": [
@@ -30186,7 +30311,10 @@
        "strong": "H1571",
        "pos": "adverb",
        "def_ro": "chiar",
-       "dict_ro": "Gam înseamnă „și, chiar”. „Măcar de ar fi cineva” exprimă dorința ca măcar unul să închidă ușile. Cuvântul sugerează cât de grave sunt faptele: mai bine să nu mai fie nicio slujbă decât una așa."
+       "dict_ro": "Gam înseamnă „și, chiar”. „Măcar de ar fi cineva” exprimă dorința ca măcar unul să închidă ușile. Cuvântul sugerează cât de grave sunt faptele: mai bine să nu mai fie nicio slujbă decât una așa.",
+       "greek": "διότι (dioti)",
+       "greek_def_ro": "διότι (dioti) — fiindcă",
+       "diff_ro": "Ebraica: „măcar de ar fi cineva” (mi gam bakhem); Septuaginta: „fiindcă și printre voi” (διότι καὶ ἐν ὑμῖν)."
       },
       {
        "t": " de ar fi cineva dintre voi care "
@@ -30199,7 +30327,9 @@
        "strong": "H5462",
        "pos": "verb, qal jusiv",
        "def_ro": "să închidă",
-       "dict_ro": "Sagar înseamnă „a închide”. Dorința lui DOMNUL este ca cineva să închidă ușile Templului, ca să nu se mai aprindă foc în zadar pe altar. Mai bine nicio slujbă decât una făcută cu dispreț."
+       "dict_ro": "Sagar înseamnă „a închide”. Dorința lui DOMNUL este ca cineva să închidă ușile Templului, ca să nu se mai aprindă foc în zadar pe altar. Mai bine nicio slujbă decât una făcută cu dispreț.",
+       "greek": "συγκλείω (synkleio)",
+       "greek_def_ro": "συγκλείω (synkleio) — a încuia"
       },
       {
        "t": " "
@@ -30212,7 +30342,9 @@
        "strong": "H1817",
        "pos": "substantiv, feminin dual",
        "def_ro": "ușile",
-       "dict_ro": "Delet este ușa, canatul mobil. „Ușile” de aici sunt cele ale Templului. Închiderea lor ar pune capăt jertfelor aduse în van, pe care DOMNUL nu le primește."
+       "dict_ro": "Delet este ușa, canatul mobil. „Ușile” de aici sunt cele ale Templului. Închiderea lor ar pune capăt jertfelor aduse în van, pe care DOMNUL nu le primește.",
+       "greek": "θύρα (thyra)",
+       "greek_def_ro": "θύρα (thyra) — ușă"
       },
       {
        "t": " [Templului], ca să nu mai "
@@ -30225,7 +30357,9 @@
        "strong": "H215",
        "pos": "verb, hifil imperfect",
        "def_ro": "veți aprinde",
-       "dict_ro": "Or, la forma cauzativă, înseamnă „a lumina, a aprinde”. Preoții aprind focul pe altar, dar zadarnic. Verbul aduce în minte focul care trebuie să ardă neîncetat pe altar."
+       "dict_ro": "Or, la forma cauzativă, înseamnă „a lumina, a aprinde”. Preoții aprind focul pe altar, dar zadarnic. Verbul aduce în minte focul care trebuie să ardă neîncetat pe altar.",
+       "greek": "ἀνάπτω (anapto)",
+       "greek_def_ro": "ἀνάπτω (anapto) — a aprinde"
       },
       {
        "t": " [foc pe] "
@@ -30238,7 +30372,9 @@
        "strong": "H4196",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "altarul Meu",
-       "dict_ro": "Mizbeah înseamnă „altar”, locul unde se jertfește, de la zavah, „a jertfi”. Noe zidește un altar după potop (Geneza 8:20). În Maleahi altarul este locul unde se vede disprețul preoților față de DOMNUL."
+       "dict_ro": "Mizbeah înseamnă „altar”, locul unde se jertfește, de la zavah, „a jertfi”. Noe zidește un altar după potop (Geneza 8:20). În Maleahi altarul este locul unde se vede disprețul preoților față de DOMNUL.",
+       "greek": "θυσιαστήριον (thysiasterion)",
+       "greek_def_ro": "θυσιαστήριον (thysiasterion) — altar"
       },
       {
        "t": " "
@@ -30251,7 +30387,9 @@
        "strong": "H2600",
        "pos": "adverb",
        "def_ro": "în zadar",
-       "dict_ro": "Hinam înseamnă „în zadar, fără rost”. Satana întreabă: „Oare în zadar se teme Iov de Dumnezeu?” (Iov 1:9). Aici focul aprins pe altar este în zadar, pentru că nu e primit."
+       "dict_ro": "Hinam înseamnă „în zadar, fără rost”. Satana întreabă: „Oare în zadar se teme Iov de Dumnezeu?” (Iov 1:9). Aici focul aprins pe altar este în zadar, pentru că nu e primit.",
+       "greek": "δωρεάν (dorean)",
+       "greek_def_ro": "δωρεάν (dorean) — în zadar, degeaba"
       },
       {
        "t": "! N-am nicio "
@@ -30264,7 +30402,9 @@
        "strong": "H2656",
        "pos": "substantiv, masculin singular",
        "def_ro": "plăcere",
-       "dict_ro": "Hefets înseamnă „plăcere, dorință”: „și plăcerea DOMNULUI va izbuti în mâna Lui” (Isaia 53:10). DOMNUL spune: nu am nicio plăcere în voi. Absența plăcerii face din jertfă un lucru gol."
+       "dict_ro": "Hefets înseamnă „plăcere, dorință”: „și plăcerea DOMNULUI va izbuti în mâna Lui” (Isaia 53:10). DOMNUL spune: nu am nicio plăcere în voi. Absența plăcerii face din jertfă un lucru gol.",
+       "greek": "θέλημα (thelema)",
+       "greek_def_ro": "θέλημα (thelema) — voie, dorință"
       },
       {
        "t": " față de voi”, "
@@ -30277,7 +30417,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect",
        "def_ro": "a zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": " "
@@ -30290,7 +30432,9 @@
        "strong": "H3068",
        "pos": "nume propriu + substantiv, masculin și feminin plural",
        "def_ro": "DOMNUL Oștirilor",
-       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină."
+       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină.",
+       "greek": "κύριος παντοκράτωρ (kyrios pantokrator)",
+       "greek_def_ro": "κύριος παντοκράτωρ (kyrios pantokrator) — Domnul Atotțiitorul"
       },
       {
        "t": ", „și nici "
@@ -30303,7 +30447,9 @@
        "strong": "H4503",
        "pos": "substantiv, feminin singular",
        "def_ro": "ofrandă",
-       "dict_ro": "Minha înseamnă „dar, ofrandă, prinos”, mai ales cel de cereale (Leviticul 2:1). DOMNUL nu va primi niciun prinos din mâna preoților. Cuvântul revine în 1:11 pentru prinosul curat adus în numele Lui."
+       "dict_ro": "Minha înseamnă „dar, ofrandă, prinos”, mai ales cel de cereale (Leviticul 2:1). DOMNUL nu va primi niciun prinos din mâna preoților. Cuvântul revine în 1:11 pentru prinosul curat adus în numele Lui.",
+       "greek": "θυσία (thysia)",
+       "greek_def_ro": "θυσία (thysia) — jertfă"
       },
       {
        "t": " nu "
@@ -30316,7 +30462,9 @@
        "strong": "H7521",
        "pos": "verb, qal imperfect",
        "def_ro": "o voi primi cu plăcere",
-       "dict_ro": "Ratsa înseamnă „a primi cu plăcere”; este verbul jertfei acceptate: „va fi primită spre ispășirea lui” (Leviticul 1:4). Maleahi întreabă dacă guvernatorul ar primi cu plăcere un dar de felul acesta."
+       "dict_ro": "Ratsa înseamnă „a primi cu plăcere”; este verbul jertfei acceptate: „va fi primită spre ispășirea lui” (Leviticul 1:4). Maleahi întreabă dacă guvernatorul ar primi cu plăcere un dar de felul acesta.",
+       "greek": "προσδέχομαι (prosdechomai)",
+       "greek_def_ro": "προσδέχομαι (prosdechomai) — a primi"
       },
       {
        "t": " din "
@@ -30329,7 +30477,9 @@
        "strong": "H3027",
        "pos": "substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "mâna voastră",
-       "dict_ro": "Iad, „mâna”, e în Biblie simbolul puterii și al lucrării: cu „mână tare” l-a scos DOMNUL pe Israel din Egipt (Exodul 13:9). A lua pe cineva „de mână” exprimă sprijin și călăuzire (Isaia 42:6)."
+       "dict_ro": "Iad, „mâna”, e în Biblie simbolul puterii și al lucrării: cu „mână tare” l-a scos DOMNUL pe Israel din Egipt (Exodul 13:9). A lua pe cineva „de mână” exprimă sprijin și călăuzire (Isaia 42:6).",
+       "greek": "χείρ (cheir)",
+       "greek_def_ro": "χείρ (cheir) — mână"
       },
       {
        "t": "."
@@ -30344,10 +30494,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "διότι καὶ ἐν ὑμῖν συνκλεισθήσονται θύραι, καὶ οὐκ ἀνάψεται τὸ θυσιαστήριόν μου...",
+       "original": "διότι καὶ ἐν ὑμῖν συγκλεισθήσονται θύραι καὶ οὐκ ἀνάψετε τὸ θυσιαστήριόν μου δωρεάν οὐκ ἔστιν μου θέλημα ἐν ὑμῖν λέγει κύριος παντοκράτωρ καὶ θυσίαν οὐ προσδέξομαι ἐκ τῶν χειρῶν ὑμῶν",
        "greek": true,
-       "translation": "„Căci și printre voi se vor închide ușile, și nu se va mai aprinde altarul Meu...”",
-       "note": "LXX pune verbele la pasiv/viitor, „se vor închide”, mai degrabă decât dorința optativă „măcar de-ar fi cineva” din TM — o nuanță de certitudine profetică viitoare, nu doar de regret prezent."
+       "translation": "„Fiindcă și printre voi se vor încuia ușile și nu veți mai aprinde altarul Meu în zadar; nu este voia Mea în voi, zice Domnul Atotțiitorul, și jertfă nu voi primi din mâinile voastre.”",
+       "note": "LXX pune verbele la pasiv/viitor, „se vor încuia”, mai degrabă decât dorința optativă „măcar de-ar fi cineva” din TM — o nuanță de certitudine profetică viitoare, nu doar de regret prezent."
       }
      ],
      "refs": [
@@ -30397,7 +30547,9 @@
        "strong": "H4217",
        "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular",
        "def_ro": "răsăritul soarelui",
-       "dict_ro": "„Mizrah șemeș” este „răsăritul soarelui”. Expresia „de la răsăritul soarelui până la apusul lui” este folosită și în Psalmul 113:3, unde numele DOMNULUI este lăudat. Ea numește tot pământul, de la un capăt la celălalt."
+       "dict_ro": "„Mizrah șemeș” este „răsăritul soarelui”. Expresia „de la răsăritul soarelui până la apusul lui” este folosită și în Psalmul 113:3, unde numele DOMNULUI este lăudat. Ea numește tot pământul, de la un capăt la celălalt.",
+       "greek": "ἀνατολὴ ἡλίου (anatole heliou)",
+       "greek_def_ro": "ἀνατολὴ ἡλίου (anatole heliou) — răsăritul soarelui"
       },
       {
        "t": " și până la "
@@ -30410,7 +30562,9 @@
        "strong": "H3996",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "apusul lui",
-       "dict_ro": "Mevo hașemeș, „intrarea soarelui”, este apusul. Perechea răsărit–apus acoperă lumea întreagă, ca în Psalmul 113:3. Maleahi spune că numele DOMNULUI este mare în tot spațiul acesta."
+       "dict_ro": "Mevo hașemeș, „intrarea soarelui”, este apusul. Perechea răsărit–apus acoperă lumea întreagă, ca în Psalmul 113:3. Maleahi spune că numele DOMNULUI este mare în tot spațiul acesta.",
+       "greek": "δυσμή (dysme)",
+       "greek_def_ro": "δυσμή (dysme) — apus"
       },
       {
        "t": ", "
@@ -30424,8 +30578,8 @@
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "numele Meu",
        "dict_ro": "Șem nu e doar o etichetă: în gândirea biblică numele exprimă identitatea și prezența celui care îl poartă. „Numele lui DOMNUL” ajunge să Îl desemneze pe Dumnezeu însuși, iar în tradiția evreiască HaȘem („Numele”) e felul obișnuit de a vorbi despre El fără a rosti Tetragrama.",
-       "greek": "τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσι (to onoma mou dedoxastai en tois ethnesi)",
-       "greek_def_ro": "τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσι (to onoma mou dedoxastai en tois ethnesi) — numele Meu e mărit printre neamuri."
+       "greek": "ὄνομα (onoma)",
+       "greek_def_ro": "ὄνομα (onoma) — nume"
       },
       {
        "t": " este "
@@ -30439,8 +30593,9 @@
        "pos": "adjectiv, masculin singular",
        "def_ro": "mare",
        "dict_ro": "Gadol înseamnă „mare”: „DOMNUL este mare și foarte lăudat” (Psalmul 48:2). În 1:11 și 1:14 numele DOMNULUI este mare printre neamuri, ceea ce lasă preoții în lumina cea mai rea.",
-       "greek": "τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσι (to onoma mou dedoxastai en tois ethnesi)",
-       "greek_def_ro": "τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσι (to onoma mou dedoxastai en tois ethnesi) — numele Meu e mărit printre neamuri."
+       "greek": "δοξάζω (doxazo)",
+       "greek_def_ro": "δοξάζω (doxazo) — a slăvi",
+       "diff_ro": "Ebraica: „mare este numele Meu printre neamuri” (gadol shemi); Septuaginta: „numele Meu este slăvit printre neamuri” (δεδόξασται)."
       },
       {
        "t": " printre "
@@ -30454,8 +30609,8 @@
        "pos": "substantiv, masculin plural",
        "def_ro": "neamuri",
        "dict_ro": "Goi înseamnă la origine orice neam organizat — și Israel e numit astfel: „un neam sfânt” (Exodul 19:6). Cu timpul, pluralul goim a ajuns să desemneze popoarele din afara legământului, de unde sensul de mai târziu, „ne-evreu”. În Isaia, neamurile sunt deopotrivă ținta judecății și cele care primesc lumina lui Dumnezeu.",
-       "greek": "τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσι (to onoma mou dedoxastai en tois ethnesi)",
-       "greek_def_ro": "τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσι (to onoma mou dedoxastai en tois ethnesi) — numele Meu e mărit printre neamuri."
+       "greek": "ἔθνος (ethnos)",
+       "greek_def_ro": "ἔθνος (ethnos) — neam"
       },
       {
        "t": " și în "
@@ -30468,7 +30623,9 @@
        "strong": "H3605",
        "pos": "substantiv, masculin singular construct + substantiv, masculin singular",
        "def_ro": "în orice loc",
-       "dict_ro": "„Bekhol makom” înseamnă „în orice loc”. Nu mai este vorba doar de Templu din Ierusalim; prinosul curat este adus în numele DOMNULUI peste tot (cf. „în orice loc”, Geneza 20:13). Este o viziune universală."
+       "dict_ro": "„Bekhol makom” înseamnă „în orice loc”. Nu mai este vorba doar de Templu din Ierusalim; prinosul curat este adus în numele DOMNULUI peste tot (cf. „în orice loc”, Geneza 20:13). Este o viziune universală.",
+       "greek": "πᾶς τόπος (pas topos)",
+       "greek_def_ro": "πᾶς τόπος (pas topos) — orice loc"
       },
       {
        "t": " "
@@ -30481,7 +30638,9 @@
        "strong": "H5066",
        "pos": "verb, hofal participiu pasiv",
        "def_ro": "este adusă",
-       "dict_ro": "Nagaș, la forma cauzativă, înseamnă „a aduce aproape”; verbul obișnuit al aducerii unei jertfe la altar. Preoții aduc jertfe, dar cele aduse sunt pângărite. Verbul revine în versetele 7, 8 și 11."
+       "dict_ro": "Nagaș, la forma cauzativă, înseamnă „a aduce aproape”; verbul obișnuit al aducerii unei jertfe la altar. Preoții aduc jertfe, dar cele aduse sunt pângărite. Verbul revine în versetele 7, 8 și 11.",
+       "greek": "προσάγω (prosago)",
+       "greek_def_ro": "προσάγω (prosago) — a aduce"
       },
       {
        "t": " "
@@ -30494,7 +30653,9 @@
        "strong": "H6999",
        "pos": "verb, hofal participiu pasiv",
        "def_ro": "tămâie",
-       "dict_ro": "Qatar înseamnă „a face să se ridice fum (tămâie, jertfă)”. Participiul pasiv descrie ofranda fumegândă. În 1:11 tămâia este adusă numelui DOMNULUI în orice loc, fără ca să se spună de către cine."
+       "dict_ro": "Qatar înseamnă „a face să se ridice fum (tămâie, jertfă)”. Participiul pasiv descrie ofranda fumegândă. În 1:11 tămâia este adusă numelui DOMNULUI în orice loc, fără ca să se spună de către cine.",
+       "greek": "θυμίαμα (thymiama)",
+       "greek_def_ro": "θυμίαμα (thymiama) — tămâie"
       },
       {
        "t": " în "
@@ -30508,8 +30669,8 @@
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "numele Meu",
        "dict_ro": "Șem nu e doar o etichetă: în gândirea biblică numele exprimă identitatea și prezența celui care îl poartă. „Numele lui DOMNUL” ajunge să Îl desemneze pe Dumnezeu însuși, iar în tradiția evreiască HaȘem („Numele”) e felul obișnuit de a vorbi despre El fără a rosti Tetragrama.",
-       "greek": "θυμίαμα προσάγεται τῷ ὀνόματί μου (thymiama prosagetai to onomati mou)",
-       "greek_def_ro": "θυμίαμα προσάγεται τῷ ὀνόματί μου (thymiama prosagetai to onomati mou) — tămâie este adusă numelui Meu."
+       "greek": "ὄνομα (onoma)",
+       "greek_def_ro": "ὄνομα (onoma) — nume"
       },
       {
        "t": " și "
@@ -30522,7 +30683,9 @@
        "strong": "H4503",
        "pos": "substantiv, feminin singular + adjectiv, feminin singular",
        "def_ro": "ofrandă curată",
-       "dict_ro": "„Minha tehora” înseamnă „prinos curat”. Tehora este curată, în opoziție cu „pâinea pângărită” de la 1:7. Contrastul este între ce aduc neamurile și ce aduc preoții."
+       "dict_ro": "„Minha tehora” înseamnă „prinos curat”. Tehora este curată, în opoziție cu „pâinea pângărită” de la 1:7. Contrastul este între ce aduc neamurile și ce aduc preoții.",
+       "greek": "θυσία καθαρά (thysia kathara)",
+       "greek_def_ro": "θυσία καθαρά (thysia kathara) — jertfă curată"
       },
       {
        "t": ", căci "
@@ -30536,8 +30699,8 @@
        "pos": "adjectiv, masculin singular",
        "def_ro": "mare",
        "dict_ro": "Gadol înseamnă „mare”: „DOMNUL este mare și foarte lăudat” (Psalmul 48:2). În 1:11 și 1:14 numele DOMNULUI este mare printre neamuri, ceea ce lasă preoții în lumina cea mai rea.",
-       "greek": "τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσι (to onoma mou dedoxastai en tois ethnesi)",
-       "greek_def_ro": "τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσι (to onoma mou dedoxastai en tois ethnesi) — numele Meu e mărit printre neamuri."
+       "greek": "μέγας (megas)",
+       "greek_def_ro": "μέγας (megas) — mare"
       },
       {
        "t": " este "
@@ -30551,8 +30714,8 @@
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "numele Meu",
        "dict_ro": "Șem nu e doar o etichetă: în gândirea biblică numele exprimă identitatea și prezența celui care îl poartă. „Numele lui DOMNUL” ajunge să Îl desemneze pe Dumnezeu însuși, iar în tradiția evreiască HaȘem („Numele”) e felul obișnuit de a vorbi despre El fără a rosti Tetragrama.",
-       "greek": "τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσι (to onoma mou dedoxastai en tois ethnesi)",
-       "greek_def_ro": "τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσι (to onoma mou dedoxastai en tois ethnesi) — numele Meu e mărit printre neamuri."
+       "greek": "ὄνομα (onoma)",
+       "greek_def_ro": "ὄνομα (onoma) — nume"
       },
       {
        "t": " printre "
@@ -30566,8 +30729,8 @@
        "pos": "substantiv, masculin plural",
        "def_ro": "neamuri",
        "dict_ro": "Goi înseamnă la origine orice neam organizat — și Israel e numit astfel: „un neam sfânt” (Exodul 19:6). Cu timpul, pluralul goim a ajuns să desemneze popoarele din afara legământului, de unde sensul de mai târziu, „ne-evreu”. În Isaia, neamurile sunt deopotrivă ținta judecății și cele care primesc lumina lui Dumnezeu.",
-       "greek": "τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσι (to onoma mou dedoxastai en tois ethnesi)",
-       "greek_def_ro": "τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσι (to onoma mou dedoxastai en tois ethnesi) — numele Meu e mărit printre neamuri."
+       "greek": "ἔθνος (ethnos)",
+       "greek_def_ro": "ἔθνος (ethnos) — neam"
       },
       {
        "t": "” – "
@@ -30580,7 +30743,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect",
        "def_ro": "a zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": " "
@@ -30594,8 +30759,8 @@
        "pos": "nume propriu + substantiv, masculin și feminin plural",
        "def_ro": "DOMNUL Oștirilor",
        "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină.",
-       "greek": "Κύριος παντοκράτωρ (Kyrios pantokrator)",
-       "greek_def_ro": "Κύριος παντοκράτωρ (Kyrios pantokrator) — Domnul Atotțiitorul."
+       "greek": "κύριος παντοκράτωρ (kyrios pantokrator)",
+       "greek_def_ro": "κύριος παντοκράτωρ (kyrios pantokrator) — Domnul Atotțiitorul"
       },
       {
        "t": "."
@@ -30672,7 +30837,9 @@
        "strong": "H859",
        "pos": "pronume personal",
        "def_ro": "voi",
-       "dict_ro": "Atem înseamnă „voi” (plural masculin). Rostit explicit, pronumele pune preoții în față, în opoziție cu neamurile din versetul precedent: acestea Îl cinstesc, iar voi Îl pângăriți."
+       "dict_ro": "Atem înseamnă „voi” (plural masculin). Rostit explicit, pronumele pune preoții în față, în opoziție cu neamurile din versetul precedent: acestea Îl cinstesc, iar voi Îl pângăriți.",
+       "greek": "σύ (sy)",
+       "greek_def_ro": "σύ (sy) — tu, voi"
       },
       {
        "t": " "
@@ -30686,8 +30853,8 @@
        "pos": "verb, piel participiu",
        "def_ro": "îl spurcați",
        "dict_ro": "Halal, la forma intensivă, înseamnă „a profana, a pângări”; este opusul lui „a sfinți”: „să nu pângăriți numele Meu cel sfânt” (Leviticul 22:32). Acuzația este exact aceasta: preoții profană numele DOMNULUI.",
-       "greek": "βεβηλοῦτε αὐτὸ ἐν τῷ λέγειν ὑμᾶς (bebeloute auto en to legein hymas)",
-       "greek_def_ro": "βεβηλοῦτε αὐτὸ ἐν τῷ λέγειν ὑμᾶς (bebeloute auto en to legein hymas) — îl pângăriți prin spusa voastră."
+       "greek": "βεβηλόω (bebeloo)",
+       "greek_def_ro": "βεβηλόω (bebeloo) — a profana"
       },
       {
        "t": " cu "
@@ -30701,8 +30868,8 @@
        "pos": "verb, qal infinitiv + sufix",
        "def_ro": "zisa voastră",
        "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
-       "greek": "βεβηλοῦτε αὐτὸ ἐν τῷ λέγειν ὑμᾶς (bebeloute auto en to legein hymas)",
-       "greek_def_ro": "βεβηλοῦτε αὐτὸ ἐν τῷ λέγειν ὑμᾶς (bebeloute auto en to legein hymas) — îl pângăriți prin spusa voastră."
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": ": «"
@@ -30716,8 +30883,8 @@
        "pos": "substantiv, masculin singular construct + substantiv, masculin plural construct + sufix",
        "def_ro": "masa Domnului",
        "dict_ro": "„Șulhan Adonai” — aici „masa Stăpânului meu”. Cuvintele sunt rostite de preoți, în rolul de a se plânge de oboseală: masa Domnului este socotită detestabilă, nu o masă de cinste.",
-       "greek": "Τράπεζα Κυρίου ἠλισγημένη ἐστίν (Trapeza Kyriou elisgemene estin)",
-       "greek_def_ro": "Τράπεζα Κυρίου ἠλισγημένη ἐστίν (Trapeza Kyriou elisgemene estin) — masa Domnului e pângărită."
+       "greek": "τράπεζα κυρίου (trapeza kyriou)",
+       "greek_def_ro": "τράπεζα κυρίου (trapeza kyriou) — masa Domnului"
       },
       {
        "t": " "
@@ -30730,7 +30897,9 @@
        "strong": "H1351",
        "pos": "verb, pual participiu pasiv + pronume personal",
        "def_ro": "este spurcată",
-       "dict_ro": "„Megoal hu” înseamnă „este spurcată”. Participiul pasiv arată starea: masa e privită ca necurată. Acuzația pe care Maleahi o pune în gura preoților scoate la iveală dispreț."
+       "dict_ro": "„Megoal hu” înseamnă „este spurcată”. Participiul pasiv arată starea: masa e privită ca necurată. Acuzația pe care Maleahi o pune în gura preoților scoate la iveală dispreț.",
+       "greek": "ἀλισγέω (alisgeo)",
+       "greek_def_ro": "ἀλισγέω (alisgeo) — a spurca"
       },
       {
        "t": "» și cu "
@@ -30744,9 +30913,8 @@
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "rodul ei",
        "dict_ro": "Niv înseamnă „rod”, ca în „rodul buzelor” (Isaia 57:19). Aici „rodul” mesei este hrana ei. Spusa preoților este că hrana de pe masa DOMNULUI este de disprețuit.",
-       "greek": "τὰ ἐπιτιθέμενα (ta epitithemena)",
-       "greek_def_ro": "τὰ ἐπιτιθέμενα (ta epitithemena) — cele puse pe ea (bucatele).",
-       "diff_ro": "Septuaginta înlocuiește „rodul/spusa lui” (nivo) cu „bucatele puse pe masă” (τὰ ἐπιτιθέμενα)."
+       "greek": "ἐπίκειμαι (epikeimai)",
+       "greek_def_ro": "ἐπίκειμαι (epikeimai) — a fi pus peste"
       },
       {
        "t": ": «"
@@ -30760,8 +30928,8 @@
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "hrana lui",
        "dict_ro": "Okhel înseamnă „hrană, mâncare”. Este hrana jertfelor, din care preoții mănâncă. Dacă o numesc de disprețuit, își disprețuiesc propria porție.",
-       "greek": "ἐξουδένωνται βρώματα αὐτοῦ (exoudenontai bromata autou)",
-       "greek_def_ro": "ἐξουδένωνται βρώματα αὐτοῦ (exoudenontai bromata autou) — bucatele lui sunt disprețuite."
+       "greek": "βρῶμα (broma)",
+       "greek_def_ro": "βρῶμα (broma) — hrană, bucate"
       },
       {
        "t": " este "
@@ -30775,8 +30943,8 @@
        "pos": "verb, nifal participiu",
        "def_ro": "disprețuită",
        "dict_ro": "Bazah înseamnă „a disprețui”. Esav „a disprețuit” dreptul de întâi născut (Geneza 25:34); preoții „disprețuiesc” numele lui DOMNUL. Același verb leagă astfel purtarea lor de cea a lui Esav.",
-       "greek": "ἐξουδένωνται βρώματα αὐτοῦ (exoudenontai bromata autou)",
-       "greek_def_ro": "ἐξουδένωνται βρώματα αὐτοῦ (exoudenontai bromata autou) — bucatele lui sunt disprețuite."
+       "greek": "ἐξουδενόω (exoudenoo)",
+       "greek_def_ro": "ἐξουδενόω (exoudenoo) — a disprețui"
       },
       {
        "t": ".»"
@@ -30842,7 +31010,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "ați zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": ": «Iată, este atât de "
@@ -30856,8 +31026,8 @@
        "pos": "substantiv, feminin singular",
        "def_ro": "ce osteneală",
        "dict_ro": "Matlaa apare numai în acest loc din Biblie și înseamnă „osteneală, povară”. Preoții se plâng: „ce povară!” Slujba la altar le pare o corvoadă, nu o cinste.",
-       "greek": "Ταῦτα ἐκ κακοπαθίας ἐστίν (Tauta ek kakopathias estin)",
-       "greek_def_ro": "Ταῦτα ἐκ κακοπαθίας ἐστίν (Tauta ek kakopathias estin) — acestea sunt din osteneală."
+       "greek": "κακοπάθεια (kakopatheia)",
+       "greek_def_ro": "κακοπάθεια (kakopatheia) — osteneală, suferință"
       },
       {
        "t": "», și "
@@ -30872,8 +31042,8 @@
        "def_ro": "l-ați disprețuit",
        "dict_ro": "Verbul napah înseamnă „a sufla”. „L-ați disprețuit” are în ebraică imaginea de a sufla peste ceva cu dispreț. Maleahi descrie preoții care se uită cu aer de superioritate la masa DOMNULUI.",
        "greek": "ἐκφυσάω (ekphysao)",
-       "greek_def_ro": "ἐκφυσάω (ekphysao) — a sufla cu dispreț.",
-       "diff_ro": "Ebraica spune „l-ați întristat” (vehipahtem oto); Septuaginta, „am suflat [cu dispreț asupra] lor” (ἐξεφύσησα αὐτά), la persoana I."
+       "greek_def_ro": "ἐκφυσάω (ekphysao) — a sufla deoparte",
+       "diff_ro": "Ebraica: „L-ați disprețuit/întristat” (hipahtem oto), la persoana a doua; Septuaginta: „le-am suflat deoparte” (ἐξεφύσησα αὐτά), la persoana întâi."
       },
       {
        "t": " – "
@@ -30886,7 +31056,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect",
        "def_ro": "a zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": " "
@@ -30900,8 +31072,8 @@
        "pos": "nume propriu + substantiv, masculin și feminin plural",
        "def_ro": "DOMNUL Oștirilor",
        "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină.",
-       "greek": "λέγει Κύριος Παντοκράτωρ (legei Kyrios Pantokrator)",
-       "greek_def_ro": "λέγει Κύριος Παντοκράτωρ (legei Kyrios Pantokrator) — spune Domnul Atotțiitorul."
+       "greek": "κύριος παντοκράτωρ (kyrios pantokrator)",
+       "greek_def_ro": "κύριος παντοκράτωρ (kyrios pantokrator) — Domnul Atotțiitorul"
       },
       {
        "t": " – „și "
@@ -30915,8 +31087,8 @@
        "pos": "verb, hifil perfect consecutiv",
        "def_ro": "ați adus",
        "dict_ro": "Bo e verbul venirii și al intrării; în profeți descrie adesea împlinirea: ceea ce a fost vestit „vine”, adică se întâmplă (Isaia 42:9). La forma cauzativă, hevi, înseamnă „a aduce” — cu un sens aparte în făgăduința strângerii exilaților (Isaia 43:5).",
-       "greek": "εἰσεφέρετε ἁρπάγματα καὶ τὰ χωλὰ καὶ τὰ ἐνοχλούμενα (eisepherete harpagmata kai ta chola kai ta enochloumena)",
-       "greek_def_ro": "εἰσεφέρετε ἁρπάγματα καὶ τὰ χωλὰ καὶ τὰ ἐνοχλούμενα (eisepherete harpagmata kai ta chola kai ta enochloumena) — aduceați lucruri furate, șchioape și bolnave."
+       "greek": "εἰσφέρω (eisphero)",
+       "greek_def_ro": "εἰσφέρω (eisphero) — a aduce înăuntru"
       },
       {
        "t": " dobitoace "
@@ -30930,8 +31102,8 @@
        "pos": "verb, qal participiu pasiv",
        "def_ro": "jefuit",
        "dict_ro": "Gazal înseamnă „a jefui, a lua cu forța”. Animalul „furat” este cel luat de la altul; aducerea lui ca jertfă o face dublu nepotrivită: nici nu e al celui care îl aduce, nici nu este fără meteahnă.",
-       "greek": "εἰσεφέρετε ἁρπάγματα καὶ τὰ χωλὰ καὶ τὰ ἐνοχλούμενα (eisepherete harpagmata kai ta chola kai ta enochloumena)",
-       "greek_def_ro": "εἰσεφέρετε ἁρπάγματα καὶ τὰ χωλὰ καὶ τὰ ἐνοχλούμενα (eisepherete harpagmata kai ta chola kai ta enochloumena) — aduceați lucruri furate, șchioape și bolnave."
+       "greek": "ἅρπαγμα (harpagma)",
+       "greek_def_ro": "ἅρπαγμα (harpagma) — lucru răpit"
       },
       {
        "t": ", "
@@ -30945,8 +31117,8 @@
        "pos": "adjectiv, masculin singular",
        "def_ro": "șchiop",
        "dict_ro": "Pisseah înseamnă „șchiop”. Legea interzice jertfirea unui animal șchiop sau orb (Deuteronomul 15:21). Preoții aduc exact acest fel de animal, încălcând legea.",
-       "greek": "εἰσεφέρετε ἁρπάγματα καὶ τὰ χωλὰ καὶ τὰ ἐνοχλούμενα (eisepherete harpagmata kai ta chola kai ta enochloumena)",
-       "greek_def_ro": "εἰσεφέρετε ἁρπάγματα καὶ τὰ χωλὰ καὶ τὰ ἐνοχλούμενα (eisepherete harpagmata kai ta chola kai ta enochloumena) — aduceați lucruri furate, șchioape și bolnave."
+       "greek": "χωλός (cholos)",
+       "greek_def_ro": "χωλός (cholos) — șchiop"
       },
       {
        "t": " și "
@@ -30960,8 +31132,8 @@
        "pos": "verb, qal participiu",
        "def_ro": "bolnav",
        "dict_ro": "Halah înseamnă „a fi bolnav”. Participiul „bolnav” desemnează animalul bolnav, pe care legea nu îl permitea pe altar. Orbul, șchiopul și bolnavul alcătuiesc lista animalelor respinse.",
-       "greek": "εἰσεφέρετε ἁρπάγματα καὶ τὰ χωλὰ καὶ τὰ ἐνοχλούμενα (eisepherete harpagmata kai ta chola kai ta enochloumena)",
-       "greek_def_ro": "εἰσεφέρετε ἁρπάγματα καὶ τὰ χωλὰ καὶ τὰ ἐνοχλούμενα (eisepherete harpagmata kai ta chola kai ta enochloumena) — aduceați lucruri furate, șchioape și bolnave."
+       "greek": "ἐνοχλέω (enochleo)",
+       "greek_def_ro": "ἐνοχλέω (enochleo) — a chinui, a supăra"
       },
       {
        "t": ", și "
@@ -30975,8 +31147,8 @@
        "pos": "verb, hifil perfect consecutiv",
        "def_ro": "ați adus",
        "dict_ro": "Bo e verbul venirii și al intrării; în profeți descrie adesea împlinirea: ceea ce a fost vestit „vine”, adică se întâmplă (Isaia 42:9). La forma cauzativă, hevi, înseamnă „a aduce” — cu un sens aparte în făgăduința strângerii exilaților (Isaia 43:5).",
-       "greek": "εἰσεφέρετε ἁρπάγματα καὶ τὰ χωλὰ καὶ τὰ ἐνοχλούμενα (eisepherete harpagmata kai ta chola kai ta enochloumena)",
-       "greek_def_ro": "εἰσεφέρετε ἁρπάγματα καὶ τὰ χωλὰ καὶ τὰ ἐνοχλούμενα (eisepherete harpagmata kai ta chola kai ta enochloumena) — aduceați lucruri furate, șchioape și bolnave."
+       "greek": "φέρω (phero)",
+       "greek_def_ro": "φέρω (phero) — a aduce"
       },
       {
        "t": " unul ca "
@@ -30989,7 +31161,9 @@
        "strong": "H4503",
        "pos": "substantiv, feminin singular",
        "def_ro": "ofrandă",
-       "dict_ro": "Minha înseamnă „dar, ofrandă, prinos”, mai ales cel de cereale (Leviticul 2:1). DOMNUL nu va primi niciun prinos din mâna preoților. Cuvântul revine în 1:11 pentru prinosul curat adus în numele Lui."
+       "dict_ro": "Minha înseamnă „dar, ofrandă, prinos”, mai ales cel de cereale (Leviticul 2:1). DOMNUL nu va primi niciun prinos din mâna preoților. Cuvântul revine în 1:11 pentru prinosul curat adus în numele Lui.",
+       "greek": "θυσία (thysia)",
+       "greek_def_ro": "θυσία (thysia) — jertfă"
       },
       {
        "t": ". Oare "
@@ -31002,7 +31176,9 @@
        "strong": "H7521",
        "pos": "verb, qal imperfect",
        "def_ro": "să o primesc cu plăcere",
-       "dict_ro": "Ratsa înseamnă „a primi cu plăcere”; este verbul jertfei acceptate: „va fi primită spre ispășirea lui” (Leviticul 1:4). Maleahi întreabă dacă guvernatorul ar primi cu plăcere un dar de felul acesta."
+       "dict_ro": "Ratsa înseamnă „a primi cu plăcere”; este verbul jertfei acceptate: „va fi primită spre ispășirea lui” (Leviticul 1:4). Maleahi întreabă dacă guvernatorul ar primi cu plăcere un dar de felul acesta.",
+       "greek": "προσδέχομαι (prosdechomai)",
+       "greek_def_ro": "προσδέχομαι (prosdechomai) — a primi"
       },
       {
        "t": " din "
@@ -31015,7 +31191,9 @@
        "strong": "H3027",
        "pos": "substantiv, masculin și feminin singular construct + sufix",
        "def_ro": "mâna voastră",
-       "dict_ro": "Iad, „mâna”, e în Biblie simbolul puterii și al lucrării: cu „mână tare” l-a scos DOMNUL pe Israel din Egipt (Exodul 13:9). A lua pe cineva „de mână” exprimă sprijin și călăuzire (Isaia 42:6)."
+       "dict_ro": "Iad, „mâna”, e în Biblie simbolul puterii și al lucrării: cu „mână tare” l-a scos DOMNUL pe Israel din Egipt (Exodul 13:9). A lua pe cineva „de mână” exprimă sprijin și călăuzire (Isaia 42:6).",
+       "greek": "χείρ (cheir)",
+       "greek_def_ro": "χείρ (cheir) — mână"
       },
       {
        "t": "?”, "
@@ -31028,7 +31206,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect",
        "def_ro": "a zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": " "
@@ -31042,8 +31222,8 @@
        "pos": "nume propriu",
        "def_ro": "DOMNUL",
        "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
-       "greek": "λέγει Κύριος Παντοκράτωρ (legei Kyrios Pantokrator)",
-       "greek_def_ro": "λέγει Κύριος Παντοκράτωρ (legei Kyrios Pantokrator) — spune Domnul Atotțiitorul."
+       "greek": "κύριος παντοκράτωρ (kyrios pantokrator)",
+       "greek_def_ro": "κύριος παντοκράτωρ (kyrios pantokrator) — Domnul Atotțiitorul"
       },
       {
        "t": "."
@@ -31058,10 +31238,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ εἴπατε Ταῦτα ἐκ κακοπαθίας ἐστίν. καὶ ἐξεφύσησα αὐτά, λέγει Κύριος Παντοκράτωρ. καὶ εἰσεφέρετε ἁρπάγματα καὶ τὰ χωλὰ καὶ τὰ ἐνοχλούμενα...",
+       "original": "καὶ εἴπατε ταῦτα ἐκ κακοπαθείας ἐστίν καὶ ἐξεφύσησα αὐτὰ λέγει κύριος παντοκράτωρ καὶ εἰσεφέρετε ἁρπάγματα καὶ τὰ χωλὰ καὶ τὰ ἐνοχλούμενα καὶ ἐὰν φέρητε τὴν θυσίαν εἰ προσδέξομαι αὐτὰ ἐκ τῶν χειρῶν ὑμῶν λέγει κύριος παντοκράτωρ",
        "greek": true,
-       "translation": "„Și ați zis: Acestea sunt din osteneală. Și am suflat asupra lor, zice Domnul Atotțiitorul. Și aduceați lucruri răpite, și pe cele șchioape, și pe cele chinuite de boală...”",
-       "note": "LXX pune verbul „am suflat asupra lor” la persoana întâi, subiect fiind DOMNUL Însuși — o traducere literală care confirmă exact ce Rashi spune că a fost evitat de scribii ebraici: sensul direct, neeufemizat, „Eu am suflat/M-am mâhnit de aceasta”, e păstrat neschimbat în tradiția greacă."
+       "translation": "„Și ați zis: Acestea sunt din osteneală; și le-am suflat deoparte, zice Domnul Atotțiitorul; și ați adus lucruri răpite și pe cele șchioape și pe cele chinuite de boală; și dacă aduceți jertfa, oare le voi primi din mâinile voastre? zice Domnul Atotțiitorul.”",
+       "note": "LXX pune verbul „am suflat asupra lor” (ἐξεφύσησα) la persoana întâi, subiectul fiind DOMNUL Însuși, acolo unde textul ebraic de azi are „l-ați disprețuit” (hipahtem oto), la persoana a doua — o diferență de persoană care a fost discutată în tradiția evreiască."
       }
      ],
      "refs": [
@@ -31122,8 +31302,7 @@
        "def_ro": "blestemat",
        "dict_ro": "Arar înseamnă „a blestema” și este opusul lui „a binecuvânta”: „blestemat ești” (Geneza 3:14). Maleahi 1:14 și 2:2 folosesc același verb: cine înșală pe DOMNUL este blestemat, iar blestemul lovește și binecuvântările preoților.",
        "greek": "ἐπικατάρατος (epikataratos)",
-       "greek_def_ro": "ἐπικατάρατος (epikataratos) — blestemat.",
-       "diff_ro": "Ebraica are „șarlatanul” (nohel, cel care înșală); Septuaginta, „cel care era puternic” (ὃς ἦν δυνατός)."
+       "greek_def_ro": "ἐπικατάρατος (epikataratos) — blestemat"
       },
       {
        "t": " este "
@@ -31136,7 +31315,10 @@
        "strong": "H5230",
        "pos": "verb, qal participiu",
        "def_ro": "înșelătorul",
-       "dict_ro": "Nakhal înseamnă „a înșela, a fi viclean”. Numeri 25:18 îl folosește pentru vicleniile madianiților. Aici șarlatanul promite un lucru bun și dă unul stricat."
+       "dict_ro": "Nakhal înseamnă „a înșela, a fi viclean”. Numeri 25:18 îl folosește pentru vicleniile madianiților. Aici șarlatanul promite un lucru bun și dă unul stricat.",
+       "greek": "δυνατός (dynatos)",
+       "greek_def_ro": "δυνατός (dynatos) — puternic, în stare",
+       "diff_ro": "Ebraica: „șarlatanul” (nohel); Septuaginta: „cel ce era puternic” (ὃς ἦν δυνατός)."
       },
       {
        "t": " care are un [dobitoc] de "
@@ -31150,8 +31332,8 @@
        "pos": "adjectiv, masculin singular",
        "def_ro": "mascul",
        "dict_ro": "Zakhar înseamnă „mascul”. Legea cere pentru jertfă un animal mascul fără meteahnă (Leviticul 22:19). Omul din vers are un mascul în turmă și totuși aduce unul cu meteahnă.",
-       "greek": "ὑπῆρχεν ἐν τῷ ποιμνίῳ αὐτοῦ ἄρσεν (hyperchen en to poimnio autou arsen)",
-       "greek_def_ro": "ὑπῆρχεν ἐν τῷ ποιμνίῳ αὐτοῦ ἄρσεν (hyperchen en to poimnio autou arsen) — era în turma lui [un dobitoc] de parte bărbătească."
+       "greek": "ἄρσην (arsen)",
+       "greek_def_ro": "ἄρσην (arsen) — mascul"
       },
       {
        "t": " în "
@@ -31165,8 +31347,8 @@
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "turma lui",
        "dict_ro": "Eder înseamnă „turmă”: turmele lui Iacov la fântână (Geneza 29:2). Omul are în turmă un animal bun, dar jertfește unul cu meteahnă. Alegerea arată dispreț.",
-       "greek": "ὑπῆρχεν ἐν τῷ ποιμνίῳ αὐτοῦ ἄρσεν (hyperchen en to poimnio autou arsen)",
-       "greek_def_ro": "ὑπῆρχεν ἐν τῷ ποιμνίῳ αὐτοῦ ἄρσεν (hyperchen en to poimnio autou arsen) — era în turma lui [un dobitoc] de parte bărbătească."
+       "greek": "ποίμνιον (poimnion)",
+       "greek_def_ro": "ποίμνιον (poimnion) — turmă"
       },
       {
        "t": ", dar care "
@@ -31181,7 +31363,7 @@
        "def_ro": "făgăduiește",
        "dict_ro": "Nadar înseamnă „a face o făgăduință”: Iacov face o făgăduință la Betel (Geneza 28:20). Omul din vers făgăduiește un animal bun, dar aduce unul stricat, lipsindu-se de cuvânt.",
        "greek": "εὐχή (euche)",
-       "greek_def_ro": "εὐχή (euche) — juruință, promisiune."
+       "greek_def_ro": "εὐχή (euche) — făgăduință"
       },
       {
        "t": " și "
@@ -31195,8 +31377,8 @@
        "pos": "verb, qal participiu",
        "def_ro": "jertfește",
        "dict_ro": "Zavah înseamnă „a jertfi” animale. Jertfa trebuie adusă din ce e mai bun; aici însă este adusă ce rămâne după ce cel bun a fost păstrat. Cuvântul leagă o acuzație de rit de una de caracter.",
-       "greek": "θύει διεφθαρμένον τῷ κυρίῳ (thyei diephtharmenon to kyrio)",
-       "greek_def_ro": "θύει διεφθαρμένον τῷ κυρίῳ (thyei diephtharmenon to kyrio) — jertfește stricatul Stăpânului."
+       "greek": "θύω (thyo)",
+       "greek_def_ro": "θύω (thyo) — a jertfi"
       },
       {
        "t": " "
@@ -31210,8 +31392,8 @@
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "Domnului",
        "dict_ro": "Adonai (cu vocale diferite de cele ale Numelui) înseamnă „Stăpânul” și se referă aici la DOMNUL. Omul care aduce o jertfă cu meteahnă Stăpânului său își arată disprețul față de El.",
-       "greek": "θύει διεφθαρμένον τῷ κυρίῳ (thyei diephtharmenon to kyrio)",
-       "greek_def_ro": "θύει διεφθαρμένον τῷ κυρίῳ (thyei diephtharmenon to kyrio) — jertfește stricatul Stăpânului."
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn; DOMNUL"
       },
       {
        "t": " pe unul "
@@ -31225,8 +31407,8 @@
        "pos": "verb, hofal participiu pasiv",
        "def_ro": "stricat",
        "dict_ro": "Șahat, la forma pasivă, înseamnă „stricat, vătămat”. Un animal cu meteahnă nu poate fi adus ca jertfă. Cuvântul sugerează o stricăciune fizică, ceea ce oferă un contrast cu mărimea Regelui.",
-       "greek": "θύει διεφθαρμένον τῷ κυρίῳ (thyei diephtharmenon to kyrio)",
-       "greek_def_ro": "θύει διεφθαρμένον τῷ κυρίῳ (thyei diephtharmenon to kyrio) — jertfește stricatul Stăpânului."
+       "greek": "διαφθείρω (diaphtheiro)",
+       "greek_def_ro": "διαφθείρω (diaphtheiro) — a strica"
       },
       {
        "t": ", căci "
@@ -31239,7 +31421,9 @@
        "strong": "H589",
        "pos": "pronume personal",
        "def_ro": "Eu",
-       "dict_ro": "Ani este „eu”, forma obișnuită a pronumelui la persoana întâi. Rostit de DOMNUL în disputa cu preoții, pune greutate pe cine vorbește: „Eu sunt Tatăl”, „Eu sunt Stăpânul”, „Eu sunt Rege mare”, adică Cel față de care se datorează cinstire."
+       "dict_ro": "Ani este „eu”, forma obișnuită a pronumelui la persoana întâi. Rostit de DOMNUL în disputa cu preoții, pune greutate pe cine vorbește: „Eu sunt Tatăl”, „Eu sunt Stăpânul”, „Eu sunt Rege mare”, adică Cel față de care se datorează cinstire.",
+       "greek": "ἐγώ (ego)",
+       "greek_def_ro": "ἐγώ (ego) — eu"
       },
       {
        "t": " sunt "
@@ -31252,7 +31436,9 @@
        "strong": "H4428",
        "pos": "substantiv, masculin singular + adjectiv, masculin singular",
        "def_ro": "rege mare",
-       "dict_ro": "„Melek gadol” înseamnă „Rege mare”, titlu al lui DOMNUL (Psalmul 47:3). Maleahi îl folosește ca temei al acuzației: unui Rege mare nu i se aduce un dar de a doua mână."
+       "dict_ro": "„Melek gadol” înseamnă „Rege mare”, titlu al lui DOMNUL (Psalmul 47:3). Maleahi îl folosește ca temei al acuzației: unui Rege mare nu i se aduce un dar de a doua mână.",
+       "greek": "βασιλεὺς μέγας (basileus megas)",
+       "greek_def_ro": "βασιλεὺς μέγας (basileus megas) — rege mare"
       },
       {
        "t": "”, "
@@ -31265,7 +31451,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect",
        "def_ro": "a zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": " "
@@ -31278,7 +31466,9 @@
        "strong": "H3068",
        "pos": "nume propriu + substantiv, masculin și feminin plural",
        "def_ro": "DOMNUL Oștirilor",
-       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină."
+       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină.",
+       "greek": "κύριος παντοκράτωρ (kyrios pantokrator)",
+       "greek_def_ro": "κύριος παντοκράτωρ (kyrios pantokrator) — Domnul Atotțiitorul"
       },
       {
        "t": ", „și "
@@ -31291,7 +31481,9 @@
        "strong": "H8034",
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "numele Meu",
-       "dict_ro": "Șem nu e doar o etichetă: în gândirea biblică numele exprimă identitatea și prezența celui care îl poartă. „Numele lui DOMNUL” ajunge să Îl desemneze pe Dumnezeu însuși, iar în tradiția evreiască HaȘem („Numele”) e felul obișnuit de a vorbi despre El fără a rosti Tetragrama."
+       "dict_ro": "Șem nu e doar o etichetă: în gândirea biblică numele exprimă identitatea și prezența celui care îl poartă. „Numele lui DOMNUL” ajunge să Îl desemneze pe Dumnezeu însuși, iar în tradiția evreiască HaȘem („Numele”) e felul obișnuit de a vorbi despre El fără a rosti Tetragrama.",
+       "greek": "ὄνομα (onoma)",
+       "greek_def_ro": "ὄνομα (onoma) — nume"
       },
       {
        "t": " este "
@@ -31304,7 +31496,10 @@
        "strong": "H3372",
        "pos": "verb, nifal participiu",
        "def_ro": "înfricoșat",
-       "dict_ro": "Iare unește frica și evlavia: „frica de DOMNUL” (irat Adonai) e respectul plin de iubire față de El. Formula „nu te teme” (al tira), adresată de Dumnezeu lui Avraam (Geneza 15:1), e reluată de Isaia ca făgăduință de ocrotire pentru tot Israelul (Isaia 41:10)."
+       "dict_ro": "Iare unește frica și evlavia: „frica de DOMNUL” (irat Adonai) e respectul plin de iubire față de El. Formula „nu te teme” (al tira), adresată de Dumnezeu lui Avraam (Geneza 15:1), e reluată de Isaia ca făgăduință de ocrotire pentru tot Israelul (Isaia 41:10).",
+       "greek": "ἐπιφανής (epiphanes)",
+       "greek_def_ro": "ἐπιφανής (epiphanes) — strălucit, vădit",
+       "diff_ro": "Ebraica: „înfricoșător” (nora); Septuaginta: „strălucit, vestit” (ἐπιφανές)."
       },
       {
        "t": " printre "
@@ -31317,7 +31512,9 @@
        "strong": "H1471",
        "pos": "substantiv, masculin plural",
        "def_ro": "neamuri",
-       "dict_ro": "Goi înseamnă la origine orice neam organizat — și Israel e numit astfel: „un neam sfânt” (Exodul 19:6). Cu timpul, pluralul goim a ajuns să desemneze popoarele din afara legământului, de unde sensul de mai târziu, „ne-evreu”. În Isaia, neamurile sunt deopotrivă ținta judecății și cele care primesc lumina lui Dumnezeu."
+       "dict_ro": "Goi înseamnă la origine orice neam organizat — și Israel e numit astfel: „un neam sfânt” (Exodul 19:6). Cu timpul, pluralul goim a ajuns să desemneze popoarele din afara legământului, de unde sensul de mai târziu, „ne-evreu”. În Isaia, neamurile sunt deopotrivă ținta judecății și cele care primesc lumina lui Dumnezeu.",
+       "greek": "ἔθνος (ethnos)",
+       "greek_def_ro": "ἔθνος (ethnos) — neam"
       },
       {
        "t": ".”"
@@ -31332,10 +31529,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἐπικατάρατος ὃς ἦν δυνατός, καὶ ὑπῆρχεν ἐν τῷ ποιμνίῳ αὐτοῦ ἄρσεν, καὶ εὐχὴ αὐτοῦ ἐπ᾽ αὐτῷ, καὶ θύει διεφθαρμένον τῷ κυρίῳ...",
+       "original": "καὶ ἐπικατάρατος ὃς ἦν δυνατὸς καὶ ὑπῆρχεν ἐν τῷ ποιμνίῳ αὐτοῦ ἄρσεν καὶ εὐχὴ αὐτοῦ ἐπ᾿ αὐτῷ καὶ θύει διεφθαρμένον τῷ κυρίῳ διότι βασιλεὺς μέγας ἐγώ εἰμι λέγει κύριος παντοκράτωρ καὶ τὸ ὄνομά μου ἐπιφανὲς ἐν τοῖς ἔθνεσιν",
        "greek": true,
-       "translation": "„Și blestemat cel ce era în stare, și era în turma lui parte bărbătească, și făgăduința lui era pentru el, și jertfește stricat Domnului...”",
-       "note": "LXX confirmă citirea „cel ce era în stare/puternic” (δυνατός) pentru „nohel”, susținând observația lui Gill despre o derivare din rădăcina „a putea”, diferită de „a înșela”."
+       "translation": "„Și blestemat cel ce era puternic și avea în turma lui un mascul și făgăduința lui era asupra lui și jertfește Domnului unul stricat; căci Eu sunt rege mare, zice Domnul Atotțiitorul, și numele Meu este strălucit între neamuri.”",
+       "note": "LXX redă „nohel” prin „cel ce era puternic” (ὃς ἦν δυνατός), derivându-l din altă rădăcină decât „a înșela”, cum o face traducerea Rosen."
       }
      ],
      "refs": [
@@ -31390,7 +31587,9 @@
        "strong": "H6258",
        "pos": "adverb",
        "def_ro": "și acum",
-       "dict_ro": "Veata, „și acum”, marchează în profeți o întorsătură: după mustrare urmează mângâierea, după judecată făgăduința (Isaia 43:1)."
+       "dict_ro": "Veata, „și acum”, marchează în profeți o întorsătură: după mustrare urmează mângâierea, după judecată făgăduința (Isaia 43:1).",
+       "greek": "νῦν (nyn)",
+       "greek_def_ro": "νῦν (nyn) — acum"
       },
       {
        "t": ", asupra voastră este "
@@ -31403,7 +31602,9 @@
        "strong": "H4687",
        "pos": "substantiv, feminin singular + pronume demonstrativ",
        "def_ro": "porunca aceasta",
-       "dict_ro": "„Hamițva hazot” înseamnă „porunca aceasta”. Mițva este porunca, îndrumarea. Porunca din 2:1 este una anume: să ia în serios cinstirea numelui DOMNULUI, sub amenințarea blestemului."
+       "dict_ro": "„Hamițva hazot” înseamnă „porunca aceasta”. Mițva este porunca, îndrumarea. Porunca din 2:1 este una anume: să ia în serios cinstirea numelui DOMNULUI, sub amenințarea blestemului.",
+       "greek": "ἐντολή οὗτος (entole houtos)",
+       "greek_def_ro": "ἐντολή οὗτος (entole houtos) — porunca aceasta"
       },
       {
        "t": ", "
@@ -31417,8 +31618,8 @@
        "pos": "substantiv, masculin plural",
        "def_ro": "preoților",
        "dict_ro": "Kohen înseamnă „preot”; Aaron și fiii lui au fost aleși pentru slujba aceasta (Leviticul 21:1). Cartea Maleahi se adresează în special preoților, cei care ar trebui să dea exemplul de cinstire a numelui lui DOMNUL.",
-       "greek": "οἱ ἱερεῖς (hoi hiereis)",
-       "greek_def_ro": "οἱ ἱερεῖς (hoi hiereis) — preoții."
+       "greek": "ἱερεύς (hiereus)",
+       "greek_def_ro": "ἱερεύς (hiereus) — preot"
       },
       {
        "t": "!"
@@ -31485,7 +31686,9 @@
        "strong": "H8085",
        "pos": "verb, qal imperfect",
        "def_ro": "veți asculta",
-       "dict_ro": "Șama unește în ebraică auzul și ascultarea: a auzi cu adevărat înseamnă a împlini ce ai auzit. De aici vine „Șema Israel” (Deuteronomul 6:4), mărturisirea de credință a iudaismului. Forma cauzativă (hișmia) înseamnă „a face să audă”, adică a vesti, a proclama."
+       "dict_ro": "Șama unește în ebraică auzul și ascultarea: a auzi cu adevărat înseamnă a împlini ce ai auzit. De aici vine „Șema Israel” (Deuteronomul 6:4), mărturisirea de credință a iudaismului. Forma cauzativă (hișmia) înseamnă „a face să audă”, adică a vesti, a proclama.",
+       "greek": "ἀκούω (akouo)",
+       "greek_def_ro": "ἀκούω (akouo) — a asculta, a auzi"
       },
       {
        "t": " și nu "
@@ -31498,7 +31701,9 @@
        "strong": "H7760",
        "pos": "verb, qal imperfect + prepoziție + substantiv, masculin singular",
        "def_ro": "veți pune la inimă",
-       "dict_ro": "„A pune pe inimă” este expresia ebraică pentru „a lua în serios, a băga de seamă”. Preoții nu au pus lucrurile pe inimă. Din acest motiv blestemul a venit deja asupra binecuvântărilor lor."
+       "dict_ro": "„A pune pe inimă” este expresia ebraică pentru „a lua în serios, a băga de seamă”. Preoții nu au pus lucrurile pe inimă. Din acest motiv blestemul a venit deja asupra binecuvântărilor lor.",
+       "greek": "τίθημι εἰς καρδίαν (tithemi eis kardian)",
+       "greek_def_ro": "τίθημι εἰς καρδίαν (tithemi eis kardian) — a pune la inimă"
       },
       {
        "t": " "
@@ -31511,7 +31716,9 @@
        "strong": "H5414",
        "pos": "verb, qal infinitiv",
        "def_ro": "ca să dați",
-       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6)."
+       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6).",
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a da"
       },
       {
        "t": " "
@@ -31524,7 +31731,9 @@
        "strong": "H3519",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "slavă",
-       "dict_ro": "Kavod vine din rădăcina kaved, „a fi greu”: slava e „greutatea”, însemnătatea cuiva. Spus despre Dumnezeu, kavod ajunge să desemneze arătarea văzută a prezenței Sale, ca norul care umple Cortul (Exodul 40:34). Tradiția rabinică vorbește în același sens despre Șehina, prezența lui Dumnezeu care locuiește în mijlocul lui Israel."
+       "dict_ro": "Kavod vine din rădăcina kaved, „a fi greu”: slava e „greutatea”, însemnătatea cuiva. Spus despre Dumnezeu, kavod ajunge să desemneze arătarea văzută a prezenței Sale, ca norul care umple Cortul (Exodul 40:34). Tradiția rabinică vorbește în același sens despre Șehina, prezența lui Dumnezeu care locuiește în mijlocul lui Israel.",
+       "greek": "δόξα (doxa)",
+       "greek_def_ro": "δόξα (doxa) — slavă, cinstire"
       },
       {
        "t": " "
@@ -31538,8 +31747,8 @@
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "numelui Meu",
        "dict_ro": "Șem nu e doar o etichetă: în gândirea biblică numele exprimă identitatea și prezența celui care îl poartă. „Numele lui DOMNUL” ajunge să Îl desemneze pe Dumnezeu însuși, iar în tradiția evreiască HaȘem („Numele”) e felul obișnuit de a vorbi despre El fără a rosti Tetragrama.",
-       "greek": "δοῦναι δόξαν τῷ ὀνόματί μου (dounai doxan to onomati mou)",
-       "greek_def_ro": "δοῦναι δόξαν τῷ ὀνόματί μου (dounai doxan to onomati mou) — să dați slavă numelui Meu."
+       "greek": "ὄνομα (onoma)",
+       "greek_def_ro": "ὄνομα (onoma) — nume"
       },
       {
        "t": "”, "
@@ -31552,7 +31761,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect",
        "def_ro": "a zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": " "
@@ -31565,7 +31776,9 @@
        "strong": "H3068",
        "pos": "nume propriu + substantiv, masculin și feminin plural",
        "def_ro": "DOMNUL Oștirilor",
-       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină."
+       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină.",
+       "greek": "κύριος παντοκράτωρ (kyrios pantokrator)",
+       "greek_def_ro": "κύριος παντοκράτωρ (kyrios pantokrator) — Domnul Atotțiitorul"
       },
       {
        "t": ", „"
@@ -31578,7 +31791,9 @@
        "strong": "H7971",
        "pos": "verb, piel perfect consecutiv",
        "def_ro": "voi trimite",
-       "dict_ro": "Șalah, „a trimite”, e verbul misiunii profetice: „Pe cine să trimit?” întreabă Dumnezeu în viziunea lui Isaia (Isaia 6:8). Același verb, la forma piel, e rostit de Moise înaintea lui Faraon: „lasă poporul Meu să plece” (Exodul 5:1)."
+       "dict_ro": "Șalah, „a trimite”, e verbul misiunii profetice: „Pe cine să trimit?” întreabă Dumnezeu în viziunea lui Isaia (Isaia 6:8). Același verb, la forma piel, e rostit de Moise înaintea lui Faraon: „lasă poporul Meu să plece” (Exodul 5:1).",
+       "greek": "ἐξαποστέλλω (exapostello)",
+       "greek_def_ro": "ἐξαποστέλλω (exapostello) — a trimite"
       },
       {
        "t": " "
@@ -31591,7 +31806,9 @@
        "strong": "H3994",
        "pos": "substantiv, feminin singular",
        "def_ro": "blestemul",
-       "dict_ro": "Meera înseamnă „blestem”: „blestemul DOMNULUI este în casa celui rău” (Proverbe 3:33). DOMNUL spune că va trimite blestemul asupra preoților, care vor pierde ce aveau mai de preț."
+       "dict_ro": "Meera înseamnă „blestem”: „blestemul DOMNULUI este în casa celui rău” (Proverbe 3:33). DOMNUL spune că va trimite blestemul asupra preoților, care vor pierde ce aveau mai de preț.",
+       "greek": "κατάρα (katara)",
+       "greek_def_ro": "κατάρα (katara) — blestem"
       },
       {
        "t": " asupra voastră și "
@@ -31604,7 +31821,9 @@
        "strong": "H779",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "voi blestema",
-       "dict_ro": "Arar înseamnă „a blestema” și este opusul lui „a binecuvânta”: „blestemat ești” (Geneza 3:14). Maleahi 1:14 și 2:2 folosesc același verb: cine înșală pe DOMNUL este blestemat, iar blestemul lovește și binecuvântările preoților."
+       "dict_ro": "Arar înseamnă „a blestema” și este opusul lui „a binecuvânta”: „blestemat ești” (Geneza 3:14). Maleahi 1:14 și 2:2 folosesc același verb: cine înșală pe DOMNUL este blestemat, iar blestemul lovește și binecuvântările preoților.",
+       "greek": "ἐπικαταράομαι (epikataraomai)",
+       "greek_def_ro": "ἐπικαταράομαι (epikataraomai) — a blestema"
       },
       {
        "t": " "
@@ -31617,7 +31836,9 @@
        "strong": "H1293",
        "pos": "substantiv, feminin plural construct + sufix",
        "def_ro": "binecuvântările voastre",
-       "dict_ro": "Berakha înseamnă „binecuvântare”: „vei fi o binecuvântare” (Geneza 12:2). Preoții binecuvântau poporul; DOMNUL spune că le va blestema binecuvântările, adică le va face fără efect."
+       "dict_ro": "Berakha înseamnă „binecuvântare”: „vei fi o binecuvântare” (Geneza 12:2). Preoții binecuvântau poporul; DOMNUL spune că le va blestema binecuvântările, adică le va face fără efect.",
+       "greek": "εὐλογία (eulogia)",
+       "greek_def_ro": "εὐλογία (eulogia) — binecuvântare"
       },
       {
        "t": ". Deja "
@@ -31630,7 +31851,9 @@
        "strong": "H779",
        "pos": "verb, qal perfect + sufix",
        "def_ro": "le-am blestemat",
-       "dict_ro": "Arar înseamnă „a blestema” și este opusul lui „a binecuvânta”: „blestemat ești” (Geneza 3:14). Maleahi 1:14 și 2:2 folosesc același verb: cine înșală pe DOMNUL este blestemat, iar blestemul lovește și binecuvântările preoților."
+       "dict_ro": "Arar înseamnă „a blestema” și este opusul lui „a binecuvânta”: „blestemat ești” (Geneza 3:14). Maleahi 1:14 și 2:2 folosesc același verb: cine înșală pe DOMNUL este blestemat, iar blestemul lovește și binecuvântările preoților.",
+       "greek": "καταράομαι (kataraomai)",
+       "greek_def_ro": "καταράομαι (kataraomai) — a blestema"
       },
       {
        "t": ", căci nu [le-]"
@@ -31643,7 +31866,9 @@
        "strong": "H7760",
        "pos": "verb, qal participiu + prepoziție + substantiv, masculin singular",
        "def_ro": "puneți la inimă",
-       "dict_ro": "„A pune pe inimă” este expresia ebraică pentru „a lua în serios, a băga de seamă”. Preoții nu au pus lucrurile pe inimă. Din acest motiv blestemul a venit deja asupra binecuvântărilor lor."
+       "dict_ro": "„A pune pe inimă” este expresia ebraică pentru „a lua în serios, a băga de seamă”. Preoții nu au pus lucrurile pe inimă. Din acest motiv blestemul a venit deja asupra binecuvântărilor lor.",
+       "greek": "τίθημι εἰς καρδίαν (tithemi eis kardian)",
+       "greek_def_ro": "τίθημι εἰς καρδίαν (tithemi eis kardian) — a pune la inimă"
       },
       {
        "t": "."
@@ -31658,10 +31883,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἐὰν μὴ ἀκούσητε, καὶ ἐὰν μὴ θῆσθε εἰς τὴν καρδίαν ὑμῶν τοῦ δοῦναι δόξαν τῷ ὀνόματί μου...",
+       "original": "ἐὰν μὴ ἀκούσητε καὶ ἐὰν μὴ θῆσθε εἰς τὴν καρδίαν ὑμῶν τοῦ δοῦναι δόξαν τῷ ὀνόματί μου λέγει κύριος παντοκράτωρ καὶ ἐξαποστελῶ ἐφ᾿ ὑμᾶς τὴν κατάραν καὶ ἐπικαταράσομαι τὴν εὐλογίαν ὑμῶν καὶ καταράσομαι αὐτήν καὶ διασκεδάσω τὴν εὐλογίαν ὑμῶν καὶ οὐκ ἔσται ἐν ὑμῖν ὅτι ὑμεῖς οὐ τίθεσθε εἰς τὴν καρδίαν ὑμῶν",
        "greek": true,
-       "translation": "„De nu veți asculta, și de nu veți pune la inima voastră ca să dați slavă Numelui Meu...”",
-       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+       "translation": "„Dacă nu veți asculta și dacă nu veți pune în inima voastră să dați slavă numelui Meu, zice Domnul Atotțiitorul, voi trimite peste voi blestemul și voi blestema binecuvântarea voastră și o voi blestema și voi risipi binecuvântarea voastră și nu va fi în voi, căci voi nu o puneți în inima voastră.”",
+       "note": "Apropiere strânsă între TM și LXX; LXX repetă „și o voi blestema” și adaugă „și nu va fi în voi”."
       }
      ],
      "refs": [
@@ -31712,7 +31937,10 @@
        "strong": "H1605",
        "pos": "verb, qal participiu",
        "def_ro": "voi mustra",
-       "dict_ro": "Gaar înseamnă „a mustra, a certa”: „DOMNUL să te mustre, Satano” (Zaharia 3:2). Aici DOMNUL mustră urmașii preoților din pricina lor: pedeapsa trece peste generații."
+       "dict_ro": "Gaar înseamnă „a mustra, a certa”: „DOMNUL să te mustre, Satano” (Zaharia 3:2). Aici DOMNUL mustră urmașii preoților din pricina lor: pedeapsa trece peste generații.",
+       "greek": "ἀφορίζω (aphorizo)",
+       "greek_def_ro": "ἀφορίζω (aphorizo) — a despărți, a îndepărta",
+       "diff_ro": "Ebraica: „voi mustra” (go‘er); Septuaginta: „vă despart, vă îndepărtez” (ἀφορίζω)."
       },
       {
        "t": " pe "
@@ -31725,7 +31953,10 @@
        "strong": "H2233",
        "pos": "substantiv, masculin singular",
        "def_ro": "sămânța voastră",
-       "dict_ro": "Zera înseamnă sămânța plantelor și, la figurat, urmașii. Făgăduința făcută patriarhilor privea „sămânța” lor (Geneza 12:7), iar Isaia făgăduiește adunarea acestei „semințe” din toate colțurile lumii (Isaia 43:5)."
+       "dict_ro": "Zera înseamnă sămânța plantelor și, la figurat, urmașii. Făgăduința făcută patriarhilor privea „sămânța” lor (Geneza 12:7), iar Isaia făgăduiește adunarea acestei „semințe” din toate colțurile lumii (Isaia 43:5).",
+       "greek": "ὦμος (omos)",
+       "greek_def_ro": "ὦμος (omos) — umăr",
+       "diff_ro": "Ebraica: „sămânța voastră” (zera‘); Septuaginta: „umărul” (τὸν ὦμον), care corespunde ebraicului zeroa‘ („brațul, umărul”), cu alte vocale."
       },
       {
        "t": " din pricina voastră și "
@@ -31738,7 +31969,9 @@
        "strong": "H2219",
        "pos": "verb, piel perfect consecutiv",
        "def_ro": "voi împrăștia",
-       "dict_ro": "Zarah înseamnă „a vântura, a împrăștia”: Moise a împrăștiat praful vițelului pe apă (Exodul 32:20). Aici DOMNUL va împrăștia bălegar peste fețele preoților, într-o imagine de umilire."
+       "dict_ro": "Zarah înseamnă „a vântura, a împrăștia”: Moise a împrăștiat praful vițelului pe apă (Exodul 32:20). Aici DOMNUL va împrăștia bălegar peste fețele preoților, într-o imagine de umilire.",
+       "greek": "σκορπίζω (skorpizo)",
+       "greek_def_ro": "σκορπίζω (skorpizo) — a risipi"
       },
       {
        "t": " "
@@ -31751,7 +31984,9 @@
        "strong": "H6569",
        "pos": "substantiv, masculin singular",
        "def_ro": "gunoi",
-       "dict_ro": "Fereș este bălegarul, conținutul stomacului animalului jertfit, care se ducea în afara taberei (Leviticul 4:11). Să-l împrăștii pe fețele preoților înseamnă a-i face necurați și a-i alunga de la altar."
+       "dict_ro": "Fereș este bălegarul, conținutul stomacului animalului jertfit, care se ducea în afara taberei (Leviticul 4:11). Să-l împrăștii pe fețele preoților înseamnă a-i face necurați și a-i alunga de la altar.",
+       "greek": "ἔνυστρον (enystron)",
+       "greek_def_ro": "ἔνυστρον (enystron) — măruntaie (bălegar)"
       },
       {
        "t": " pe "
@@ -31764,7 +31999,9 @@
        "strong": "H6440",
        "pos": "substantiv, masculin și feminin plural construct + sufix",
        "def_ro": "fețele voastre",
-       "dict_ro": "Panim, „fața”, are formă de plural; cu prepoziția le formează lifnei, „înaintea”, literal „la fața”. În Isaia 43:10, lefanai, „înaintea Mea”, are sens de timp: înainte de Dumnezeu nu a fost plăsmuit niciun alt dumnezeu."
+       "dict_ro": "Panim, „fața”, are formă de plural; cu prepoziția le formează lifnei, „înaintea”, literal „la fața”. În Isaia 43:10, lefanai, „înaintea Mea”, are sens de timp: înainte de Dumnezeu nu a fost plăsmuit niciun alt dumnezeu.",
+       "greek": "πρόσωπον (prosopon)",
+       "greek_def_ro": "πρόσωπον (prosopon) — față"
       },
       {
        "t": ", "
@@ -31777,7 +32014,9 @@
        "strong": "H6569",
        "pos": "substantiv, masculin singular construct + substantiv, masculin plural construct + sufix",
        "def_ro": "gunoiul sărbătorilor voastre",
-       "dict_ro": "„Pereș haghem” înseamnă „bălegarul jertfelor de sărbătoare”. Hag este sărbătoarea de pelerinaj. Preoții, în loc de binecuvântări, primesc tocmai resturile jertfelor pe care le-au pângărit."
+       "dict_ro": "„Pereș haghem” înseamnă „bălegarul jertfelor de sărbătoare”. Hag este sărbătoarea de pelerinaj. Preoții, în loc de binecuvântări, primesc tocmai resturile jertfelor pe care le-au pângărit.",
+       "greek": "ἔνυστρον ἑορτή (enystron heorte)",
+       "greek_def_ro": "ἔνυστρον ἑορτή (enystron heorte) — bălegarul sărbătorilor"
       },
       {
        "t": "; [păcatele] "
@@ -31790,7 +32029,9 @@
        "strong": "H5375",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "vă va lua",
-       "dict_ro": "Nasa înseamnă a ridica și a purta; expresia „a ridica glasul” descrie strigătul de bucurie sau de plâns. „A purta vina” poate însemna fie a o suporta, fie a o ierta, a o ridica de pe altul (Exodul 34:7)."
+       "dict_ro": "Nasa înseamnă a ridica și a purta; expresia „a ridica glasul” descrie strigătul de bucurie sau de plâns. „A purta vina” poate însemna fie a o suporta, fie a o ierta, a o ridica de pe altul (Exodul 34:7).",
+       "greek": "λαμβάνω (lambano)",
+       "greek_def_ro": "λαμβάνω (lambano) — a lua"
       },
       {
        "t": " spre aceasta."
@@ -31805,10 +32046,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἰδοὺ ἐγὼ ἀφορίζω ὑμῖν τὸν ὦμον, καὶ σκορπιῶ ἔνυστρον ἐπὶ τὰ πρόσωπα ὑμῶν...",
+       "original": "ἰδοὺ ἐγὼ ἀφορίζω ὑμῖν τὸν ὦμον καὶ σκορπιῶ ἤνυστρον ἐπὶ τὰ πρόσωπα ὑμῶν ἤνυστρον ἑορτῶν ὑμῶν καὶ λήμψομαι ὑμᾶς εἰς τὸ αὐτό",
        "greek": true,
-       "translation": "„Iată, Eu vă despart brațul, și voi împrăștia măruntaiele pe fețele voastre...”",
-       "note": "Divergență reală, remarcată chiar de Calvin: LXX traduce „hazera” (sămânța, זֶרַע) prin „brațul” (τὸν ὦμον, corespunzând ebraicului זְרוֹעַ) — o confuzie de consoane aproape identice (זֶרַע/זְרוֹעַ), pe care Calvin o numește explicit o eroare „dintr-o singură literă” a traducătorilor greci."
+       "translation": "„Iată, Eu vă îndepărtez umărul și voi risipi bălegarul pe fețele voastre, bălegarul sărbătorilor voastre, și vă voi lua împreună.”",
+       "note": "Divergență reală, remarcată de Calvin: LXX redă „zera‘” (sămânța) prin „umărul” (τὸν ὦμον), care corespunde ebraicului „zeroa‘” (brațul, umărul) — o citire a acelorași consoane cu alte vocale. Textul grecesc mai are „și vă voi lua împreună” (καὶ λήμψομαι ὑμᾶς εἰς τὸ αὐτό) la sfârșit."
       }
      ],
      "refs": [
@@ -31867,7 +32108,9 @@
        "strong": "H3045",
        "pos": "verb, qal perfect consecutiv",
        "def_ro": "veți cunoaște",
-       "dict_ro": "Iada înseamnă o cunoaștere prin experiență directă și prin legătură personală, nu doar o informație; de aceea poate desemna și unirea soților (Geneza 4:1). „A-L cunoaște pe DOMNUL” înseamnă, la profeți, a trăi în legământ cu El."
+       "dict_ro": "Iada înseamnă o cunoaștere prin experiență directă și prin legătură personală, nu doar o informație; de aceea poate desemna și unirea soților (Geneza 4:1). „A-L cunoaște pe DOMNUL” înseamnă, la profeți, a trăi în legământ cu El.",
+       "greek": "ἐπιγινώσκω (epiginosko)",
+       "greek_def_ro": "ἐπιγινώσκω (epiginosko) — a cunoaște deplin"
       },
       {
        "t": " că "
@@ -31881,8 +32124,8 @@
        "pos": "verb, piel perfect",
        "def_ro": "am trimis",
        "dict_ro": "Șalah, „a trimite”, e verbul misiunii profetice: „Pe cine să trimit?” întreabă Dumnezeu în viziunea lui Isaia (Isaia 6:8). Același verb, la forma piel, e rostit de Moise înaintea lui Faraon: „lasă poporul Meu să plece” (Exodul 5:1).",
-       "greek": "ἐγὼ ἐξαπέσταλκα πρὸς ὑμᾶς τὴν ἐντολὴν ταύτην (ego exapestalka pros hymas ten entolen tauten)",
-       "greek_def_ro": "ἐγὼ ἐξαπέσταλκα πρὸς ὑμᾶς τὴν ἐντολὴν ταύτην (ego exapestalka pros hymas ten entolen tauten) — eu am trimis către voi porunca aceasta."
+       "greek": "ἐξαποστέλλω (exapostello)",
+       "greek_def_ro": "ἐξαποστέλλω (exapostello) — a trimite"
       },
       {
        "t": " "
@@ -31895,7 +32138,9 @@
        "strong": "H4687",
        "pos": "substantiv, feminin singular + pronume demonstrativ",
        "def_ro": "porunca aceasta",
-       "dict_ro": "„Hamițva hazot” înseamnă „porunca aceasta”. Mițva este porunca, îndrumarea. Porunca din 2:1 este una anume: să ia în serios cinstirea numelui DOMNULUI, sub amenințarea blestemului."
+       "dict_ro": "„Hamițva hazot” înseamnă „porunca aceasta”. Mițva este porunca, îndrumarea. Porunca din 2:1 este una anume: să ia în serios cinstirea numelui DOMNULUI, sub amenințarea blestemului.",
+       "greek": "ἐντολή οὗτος (entole houtos)",
+       "greek_def_ro": "ἐντολή οὗτος (entole houtos) — porunca aceasta"
       },
       {
        "t": " peste voi, pentru ca "
@@ -31908,7 +32153,9 @@
        "strong": "H1285",
        "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "legământul Meu",
-       "dict_ro": "Berit e legământul, înțelegerea solemnă dintre două părți, încheiată la început prin tăierea animalelor de jertfă — de aici expresia „a tăia un legământ” (karat berit, Geneza 15:18). Legământul de la Sinai e temelia întregii legături dintre Dumnezeu și Israel; în Isaia 42:6, slujitorul însuși devine „legământ al poporului”."
+       "dict_ro": "Berit e legământul, înțelegerea solemnă dintre două părți, încheiată la început prin tăierea animalelor de jertfă — de aici expresia „a tăia un legământ” (karat berit, Geneza 15:18). Legământul de la Sinai e temelia întregii legături dintre Dumnezeu și Israel; în Isaia 42:6, slujitorul însuși devine „legământ al poporului”.",
+       "greek": "διαθήκη (diatheke)",
+       "greek_def_ro": "διαθήκη (diatheke) — legământ"
       },
       {
        "t": " "
@@ -31921,7 +32168,9 @@
        "strong": "H1961",
        "pos": "verb, qal infinitiv",
        "def_ro": "să fie",
-       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”."
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "εἰμί (eimi)",
+       "greek_def_ro": "εἰμί (eimi) — a fi"
       },
       {
        "t": " cu "
@@ -31934,7 +32183,9 @@
        "strong": "H3878",
        "pos": "nume propriu",
        "def_ro": "Levi",
-       "dict_ro": "Levi este fiul lui Iacov și tribul preoțesc. Leviții s-au alăturat lui Moise după vițelul de aur (Exodul 32:26). Legământul cu Levi este baza slujbei preoțești, pe care Maleahi o aduce în discuție."
+       "dict_ro": "Levi este fiul lui Iacov și tribul preoțesc. Leviții s-au alăturat lui Moise după vițelul de aur (Exodul 32:26). Legământul cu Levi este baza slujbei preoțești, pe care Maleahi o aduce în discuție.",
+       "greek": "Λευίτης (Leuites)",
+       "greek_def_ro": "Λευίτης (Leuites) — levit"
       },
       {
        "t": "”, "
@@ -31947,7 +32198,9 @@
        "strong": "H559",
        "pos": "verb, qal perfect",
        "def_ro": "a zis",
-       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său."
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune, a zice"
       },
       {
        "t": " "
@@ -31960,7 +32213,9 @@
        "strong": "H3068",
        "pos": "nume propriu + substantiv, masculin și feminin plural",
        "def_ro": "DOMNUL Oștirilor",
-       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină."
+       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină.",
+       "greek": "κύριος παντοκράτωρ (kyrios pantokrator)",
+       "greek_def_ro": "κύριος παντοκράτωρ (kyrios pantokrator) — Domnul Atotțiitorul"
       },
       {
        "t": "."
@@ -31975,10 +32230,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἐπιγνώσεσθε διότι ἐγὼ ἐξαπέσταλκα πρὸς ὑμᾶς τὴν ἐντολὴν ταύτην...",
+       "original": "καὶ ἐπιγνώσεσθε διότι ἐγὼ ἐξαπέσταλκα πρὸς ὑμᾶς τὴν ἐντολὴν ταύτην τοῦ εἶναι τὴν διαθήκην μου πρὸς τοὺς Λευίτας λέγει κύριος παντοκράτωρ",
        "greek": true,
-       "translation": "„Și veți cunoaște deplin că Eu am trimis către voi porunca aceasta...”",
-       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+       "translation": "„Și veți cunoaște că Eu am trimis la voi porunca aceasta, ca legământul Meu să fie cu leviții, zice Domnul Atotțiitorul.”",
+       "note": "Apropiere strânsă între TM și LXX; „Levi” este redat „leviții” (Λευίτας)."
       }
      ],
      "refs": [
@@ -32027,8 +32282,8 @@
        "pos": "substantiv, feminin singular construct + sufix",
        "def_ro": "legământul Meu",
        "dict_ro": "Berit e legământul, înțelegerea solemnă dintre două părți, încheiată la început prin tăierea animalelor de jertfă — de aici expresia „a tăia un legământ” (karat berit, Geneza 15:18). Legământul de la Sinai e temelia întregii legături dintre Dumnezeu și Israel; în Isaia 42:6, slujitorul însuși devine „legământ al poporului”.",
-       "greek": "ἡ διαθήκη μου ἦν μετ᾽ αὐτοῦ (he diatheke mou en met autou)",
-       "greek_def_ro": "ἡ διαθήκη μου ἦν μετ᾽ αὐτοῦ (he diatheke mou en met autou) — legământul Meu era cu el."
+       "greek": "διαθήκη (diatheke)",
+       "greek_def_ro": "διαθήκη (diatheke) — legământ"
       },
       {
        "t": " "
@@ -32041,7 +32296,9 @@
        "strong": "H1961",
        "pos": "verb, qal perfect",
        "def_ro": "a fost",
-       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”."
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "εἰμί (eimi)",
+       "greek_def_ro": "εἰμί (eimi) — a fi"
       },
       {
        "t": " cu el – "
@@ -32054,7 +32311,9 @@
        "strong": "H2416",
        "pos": "substantiv, masculin plural",
        "def_ro": "viața",
-       "dict_ro": "Haim înseamnă „viață”: „alege viața” (Deuteronomul 30:19). Legământul lui DOMNUL cu Levi a fost viața și pacea, daruri date în schimbul temerii pe care Levi a avut-o."
+       "dict_ro": "Haim înseamnă „viață”: „alege viața” (Deuteronomul 30:19). Legământul lui DOMNUL cu Levi a fost viața și pacea, daruri date în schimbul temerii pe care Levi a avut-o.",
+       "greek": "ζωή (zoe)",
+       "greek_def_ro": "ζωή (zoe) — viață"
       },
       {
        "t": " și "
@@ -32068,8 +32327,8 @@
        "pos": "substantiv, masculin singular",
        "def_ro": "pacea",
        "dict_ro": "Șalom înseamnă „pace, întregime”. „Legământul păcii” a fost dat lui Pinhas (Numeri 25:12). Viața și pacea sunt darurile legământului cu Levi, în schimbul temerii pe care a avut-o.",
-       "greek": "τῆς ζωῆς καὶ τῆς εἰρήνης (tes zoes kai tes eirenes)",
-       "greek_def_ro": "τῆς ζωῆς καὶ τῆς εἰρήνης (tes zoes kai tes eirenes) — viața și pacea."
+       "greek": "εἰρήνη (eirene)",
+       "greek_def_ro": "εἰρήνη (eirene) — pace"
       },
       {
        "t": " – și "
@@ -32082,7 +32341,9 @@
        "strong": "H5414",
        "pos": "verb, qal imperfect consecutiv + sufix",
        "def_ro": "i le-am dat",
-       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6)."
+       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6).",
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a da"
       },
       {
        "t": " lui, de dragul "
@@ -32095,7 +32356,9 @@
        "strong": "H4172",
        "pos": "substantiv, masculin singular",
        "def_ro": "teamă",
-       "dict_ro": "Mora înseamnă „teamă, venerație”, sentimentul datorat lui Dumnezeu. Maleahi întreabă: dacă Eu sunt Stăpân, unde este teama de Mine? Preoții, care slujesc la altar, ar trebui să o aibă mai mult decât oricine."
+       "dict_ro": "Mora înseamnă „teamă, venerație”, sentimentul datorat lui Dumnezeu. Maleahi întreabă: dacă Eu sunt Stăpân, unde este teama de Mine? Preoții, care slujesc la altar, ar trebui să o aibă mai mult decât oricine.",
+       "greek": "φόβος (phobos)",
+       "greek_def_ro": "φόβος (phobos) — frică, teamă"
       },
       {
        "t": " cu care "
@@ -32108,7 +32371,9 @@
        "strong": "H3372",
        "pos": "verb, qal imperfect consecutiv + sufix",
        "def_ro": "s-a temut de Mine",
-       "dict_ro": "Iare unește frica și evlavia: „frica de DOMNUL” (irat Adonai) e respectul plin de iubire față de El. Formula „nu te teme” (al tira), adresată de Dumnezeu lui Avraam (Geneza 15:1), e reluată de Isaia ca făgăduință de ocrotire pentru tot Israelul (Isaia 41:10)."
+       "dict_ro": "Iare unește frica și evlavia: „frica de DOMNUL” (irat Adonai) e respectul plin de iubire față de El. Formula „nu te teme” (al tira), adresată de Dumnezeu lui Avraam (Geneza 15:1), e reluată de Isaia ca făgăduință de ocrotire pentru tot Israelul (Isaia 41:10).",
+       "greek": "φοβέομαι (phobeomai)",
+       "greek_def_ro": "φοβέομαι (phobeomai) — a se teme"
       },
       {
        "t": " de Mine, căci "
@@ -32121,7 +32386,10 @@
        "strong": "H2865",
        "pos": "verb, nifal perfect + pronume personal",
        "def_ro": "a fost înspăimântat",
-       "dict_ro": "„Nihat hu” înseamnă „el a tremurat”. Nahat este verbul înspăimântării în fața lui DOMNUL; Levi nu doar s-a temut, ci a tremurat înaintea numelui. Contrastul cu preoții de acum este direct."
+       "dict_ro": "„Nihat hu” înseamnă „el a tremurat”. Nahat este verbul înspăimântării în fața lui DOMNUL; Levi nu doar s-a temut, ci a tremurat înaintea numelui. Contrastul cu preoții de acum este direct.",
+       "greek": "στέλλω (stello)",
+       "greek_def_ro": "στέλλω (stello) — a se retrage",
+       "diff_ro": "Ebraica: „a tremurat” (nihat hu); Septuaginta: „să se retragă” (στέλλεσθαι)."
       },
       {
        "t": " "
@@ -32134,7 +32402,9 @@
        "strong": "H6440",
        "pos": "substantiv, masculin și feminin plural construct + substantiv, masculin singular construct + sufix",
        "def_ro": "din pricina numelui Meu",
-       "dict_ro": "„Umipnei șemi” înseamnă „în fața numelui Meu”. Numele este prezența lui DOMNUL făcută cunoscută; a tremura înaintea numelui înseamnă a trăi cu conștiința acestei prezențe."
+       "dict_ro": "„Umipnei șemi” înseamnă „în fața numelui Meu”. Numele este prezența lui DOMNUL făcută cunoscută; a tremura înaintea numelui înseamnă a trăi cu conștiința acestei prezențe.",
+       "greek": "πρόσωπον ὄνομα (prosopon onoma)",
+       "greek_def_ro": "πρόσωπον ὄνομα (prosopon onoma) — din fața numelui"
       },
       {
        "t": "."
@@ -32149,10 +32419,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἡ διαθήκη μου ἦν μετ᾽ αὐτοῦ τῆς ζωῆς καὶ τῆς εἰρήνης...",
+       "original": "ἡ διαθήκη μου ἦν μετ᾿ αὐτοῦ τῆς ζωῆς καὶ τῆς εἰρήνης καὶ ἔδωκα αὐτῷ ἐν φόβῳ φοβεῖσθαί με καὶ ἀπὸ προσώπου ὀνόματός μου στέλλεσθαι αὐτόν",
        "greek": true,
-       "translation": "„Legământul Meu era cu el, al vieții și al păcii...”",
-       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+       "translation": "„Legământul Meu era cu el, al vieții și al păcii, și i le-am dat în frică, ca să se teamă de Mine și să se retragă din fața numelui Meu.”",
+       "note": "Apropiere strânsă între TM și LXX; „a tremurat” (nihat) este redat prin „să se retragă” (στέλλεσθαι) din fața numelui."
       }
      ],
      "refs": [
@@ -32197,7 +32467,9 @@
        "strong": "H8451",
        "pos": "substantiv, feminin singular construct + substantiv, feminin singular",
        "def_ro": "învățătura adevărului",
-       "dict_ro": "„Torat emet” înseamnă „învățătura adevărului”. Tora este învățătura, instrucția, iar emet este adevărul. Preotul ideal predă un adevăr pe care nu îl strică. Aceasta este măsura cu care Maleahi judecă preoția."
+       "dict_ro": "„Torat emet” înseamnă „învățătura adevărului”. Tora este învățătura, instrucția, iar emet este adevărul. Preotul ideal predă un adevăr pe care nu îl strică. Aceasta este măsura cu care Maleahi judecă preoția.",
+       "greek": "νόμος ἀλήθεια (nomos aletheia)",
+       "greek_def_ro": "νόμος ἀλήθεια (nomos aletheia) — legea adevărului"
       },
       {
        "t": " "
@@ -32211,8 +32483,8 @@
        "pos": "verb, qal perfect",
        "def_ro": "a fost",
        "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
-       "greek": "νόμος ἀληθείας ἦν ἐν τῷ στόματι αὐτοῦ (nomos aletheias en en to stomati autou)",
-       "greek_def_ro": "νόμος ἀληθείας ἦν ἐν τῷ στόματι αὐτοῦ (nomos aletheias en en to stomati autou) — legea adevărului era în gura lui."
+       "greek": "εἰμί (eimi)",
+       "greek_def_ro": "εἰμί (eimi) — a fi"
       },
       {
        "t": " în "
@@ -32226,8 +32498,8 @@
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "gura lui",
        "dict_ro": "Pe înseamnă „gură”. Învățătura adevărului era în gura lui Levi și poporul trebuie să caute învățătura din gura preotului. Preotul este un canal de învățătură, nu doar un slujitor la altar.",
-       "greek": "νόμος ἀληθείας ἦν ἐν τῷ στόματι αὐτοῦ (nomos aletheias en en to stomati autou)",
-       "greek_def_ro": "νόμος ἀληθείας ἦν ἐν τῷ στόματι αὐτοῦ (nomos aletheias en en to stomati autou) — legea adevărului era în gura lui."
+       "greek": "στόμα (stoma)",
+       "greek_def_ro": "στόμα (stoma) — gură"
       },
       {
        "t": " și nicio "
@@ -32241,8 +32513,8 @@
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "nedreptate",
        "dict_ro": "Avla înseamnă „nedreptate”. Preotul ideal nu avea nedreptate pe buze: ceea ce spunea era drept. Cuvântul acuză indirect pe preoții din vremea lui Maleahi.",
-       "greek": "ἀδικία οὐχ εὑρέθη ἐν χείλεσιν αὐτοῦ (adikia ouch heurethe en cheilesin autou)",
-       "greek_def_ro": "ἀδικία οὐχ εὑρέθη ἐν χείλεσιν αὐτοῦ (adikia ouch heurethe en cheilesin autou) — nedreptate nu s-a găsit pe buzele lui."
+       "greek": "ἀδικία (adikia)",
+       "greek_def_ro": "ἀδικία (adikia) — nedreptate"
       },
       {
        "t": " nu "
@@ -32255,7 +32527,9 @@
        "strong": "H4672",
        "pos": "verb, nifal perfect",
        "def_ro": "nu s-a găsit",
-       "dict_ro": "Mața înseamnă „a găsi”. Nu s-a găsit nedreptate pe buzele lui: nici o urmă, nici un singur cuvânt. Verbul exprimă o verificare, ca într-un control, care iese curată."
+       "dict_ro": "Mața înseamnă „a găsi”. Nu s-a găsit nedreptate pe buzele lui: nici o urmă, nici un singur cuvânt. Verbul exprimă o verificare, ca într-un control, care iese curată.",
+       "greek": "εὑρίσκω (heurisko)",
+       "greek_def_ro": "εὑρίσκω (heurisko) — a găsi"
       },
       {
        "t": " pe "
@@ -32269,8 +32543,8 @@
        "pos": "substantiv, feminin dual construct + sufix",
        "def_ro": "buzele lui",
        "dict_ro": "Safa înseamnă „buză” și „limbă”: „sunt un om cu buze necurate” (Isaia 6:5). Buzele preotului păstrează cunoștința; ele sunt instrumentul prin care trebuie să curgă învățătura.",
-       "greek": "ἀδικία οὐχ εὑρέθη ἐν χείλεσιν αὐτοῦ (adikia ouch heurethe en cheilesin autou)",
-       "greek_def_ro": "ἀδικία οὐχ εὑρέθη ἐν χείλεσιν αὐτοῦ (adikia ouch heurethe en cheilesin autou) — nedreptate nu s-a găsit pe buzele lui."
+       "greek": "χεῖλος (cheilos)",
+       "greek_def_ro": "χεῖλος (cheilos) — buză"
       },
       {
        "t": ", el "
@@ -32283,7 +32557,9 @@
        "strong": "H1980",
        "pos": "verb, qal perfect",
        "def_ro": "a umblat",
-       "dict_ro": "Halah descrie mersul propriu-zis, dar și felul de a trăi: „a umbla în căile lui DOMNUL” înseamnă a trăi după poruncile Lui. Din aceeași rădăcină vine halaha, termenul rabinic pentru legea trăită, „calea pe care se umblă”."
+       "dict_ro": "Halah descrie mersul propriu-zis, dar și felul de a trăi: „a umbla în căile lui DOMNUL” înseamnă a trăi după poruncile Lui. Din aceeași rădăcină vine halaha, termenul rabinic pentru legea trăită, „calea pe care se umblă”.",
+       "greek": "πορεύομαι (poreuomai)",
+       "greek_def_ro": "πορεύομαι (poreuomai) — a merge"
       },
       {
        "t": " cu mine "
@@ -32296,7 +32572,9 @@
        "strong": "H7965",
        "pos": "substantiv, masculin singular",
        "def_ro": "în pace",
-       "dict_ro": "Șalom înseamnă „pace, întregime”. „Legământul păcii” a fost dat lui Pinhas (Numeri 25:12). Viața și pacea sunt darurile legământului cu Levi, în schimbul temerii pe care a avut-o."
+       "dict_ro": "Șalom înseamnă „pace, întregime”. „Legământul păcii” a fost dat lui Pinhas (Numeri 25:12). Viața și pacea sunt darurile legământului cu Levi, în schimbul temerii pe care a avut-o.",
+       "greek": "εἰρήνη (eirene)",
+       "greek_def_ro": "εἰρήνη (eirene) — pace"
       },
       {
        "t": " și "
@@ -32309,7 +32587,9 @@
        "strong": "H4334",
        "pos": "substantiv, masculin singular",
        "def_ro": "în dreptate",
-       "dict_ro": "Mișor înseamnă „dreptate, ceea ce este drept”: „toiagul dreptății” (Psalmul 45:7). Levi a mers cu DOMNUL în pace și în dreptate, ceea ce este opusul purtării preoților de acum."
+       "dict_ro": "Mișor înseamnă „dreptate, ceea ce este drept”: „toiagul dreptății” (Psalmul 45:7). Levi a mers cu DOMNUL în pace și în dreptate, ceea ce este opusul purtării preoților de acum.",
+       "greek": "κατευθύνω (kateuthyno)",
+       "greek_def_ro": "κατευθύνω (kateuthyno) — a îndrepta"
       },
       {
        "t": " și "
@@ -32322,7 +32602,9 @@
        "strong": "H7725",
        "pos": "verb, hifil perfect",
        "def_ro": "a întors",
-       "dict_ro": "Șuv înseamnă „a se întoarce”. Edom spune: „ne vom întoarce” și reconstrui. Verbul este cel al revenirii din exil, aplicat aici de Edom la propria țară; DOMNUL va tăia această speranță."
+       "dict_ro": "Șuv înseamnă „a se întoarce”. Edom spune: „ne vom întoarce” și reconstrui. Verbul este cel al revenirii din exil, aplicat aici de Edom la propria țară; DOMNUL va tăia această speranță.",
+       "greek": "ἐπιστρέφω (epistrepho)",
+       "greek_def_ro": "ἐπιστρέφω (epistrepho) — a se întoarce"
       },
       {
        "t": " pe "
@@ -32335,7 +32617,9 @@
        "strong": "H7227",
        "pos": "adjectiv, masculin plural",
        "def_ro": "mulți",
-       "dict_ro": "Rav, „mult, mare”, e rădăcina din care vine titlul rav (și rabi), „învățătorul”, literal „cel mare”. Aici, rabot, „multe”, subliniază că poporul a văzut destule semne ca să înțeleagă."
+       "dict_ro": "Rav, „mult, mare”, e rădăcina din care vine titlul rav (și rabi), „învățătorul”, literal „cel mare”. Aici, rabot, „multe”, subliniază că poporul a văzut destule semne ca să înțeleagă.",
+       "greek": "πολύς (polys)",
+       "greek_def_ro": "πολύς (polys) — mult, mulți"
       },
       {
        "t": " de la "
@@ -32348,7 +32632,9 @@
        "strong": "H5771",
        "pos": "substantiv, masculin și feminin singular",
        "def_ro": "nelegiuire",
-       "dict_ro": "Avon înseamnă „nelegiuire, vină”: DOMNUL este Cel care „iartă nelegiuirea” (Exodul 34:7). Levi a întors pe mulți de la nelegiuire: preotul avea și un rol moral, nu doar ritual."
+       "dict_ro": "Avon înseamnă „nelegiuire, vină”: DOMNUL este Cel care „iartă nelegiuirea” (Exodul 34:7). Levi a întors pe mulți de la nelegiuire: preotul avea și un rol moral, nu doar ritual.",
+       "greek": "ἀδικία (adikia)",
+       "greek_def_ro": "ἀδικία (adikia) — nedreptate"
       },
       {
        "t": "."
@@ -32363,10 +32649,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "νόμος ἀληθείας ἦν ἐν τῷ στόματι αὐτοῦ, καὶ ἀδικία οὐχ εὑρέθη ἐν χείλεσιν αὐτοῦ...",
+       "original": "νόμος ἀληθείας ἦν ἐν τῷ στόματι αὐτοῦ καὶ ἀδικία οὐχ εὑρέθη ἐν χείλεσιν αὐτοῦ ἐν εἰρήνῃ κατευθύνων ἐπορεύθη μετ᾿ ἐμοῦ καὶ πολλοὺς ἐπέστρεψεν ἀπὸ ἀδικίας",
        "greek": true,
-       "translation": "„Legea adevărului era în gura lui, și nedreptate nu s-a găsit pe buzele lui...”",
-       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+       "translation": "„Legea adevărului era în gura lui și nedreptate nu s-a găsit pe buzele lui; în pace, îndreptând, a mers cu Mine și a întors pe mulți de la nedreptate.”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
       }
      ],
      "refs": [
@@ -32421,7 +32707,9 @@
        "strong": "H8193",
        "pos": "substantiv, feminin dual construct",
        "def_ro": "buzele",
-       "dict_ro": "Safa înseamnă „buză” și „limbă”: „sunt un om cu buze necurate” (Isaia 6:5). Buzele preotului păstrează cunoștința; ele sunt instrumentul prin care trebuie să curgă învățătura."
+       "dict_ro": "Safa înseamnă „buză” și „limbă”: „sunt un om cu buze necurate” (Isaia 6:5). Buzele preotului păstrează cunoștința; ele sunt instrumentul prin care trebuie să curgă învățătura.",
+       "greek": "χεῖλος (cheilos)",
+       "greek_def_ro": "χεῖλος (cheilos) — buză"
       },
       {
        "t": " unui "
@@ -32434,7 +32722,9 @@
        "strong": "H3548",
        "pos": "substantiv, masculin singular",
        "def_ro": "preotului",
-       "dict_ro": "Kohen înseamnă „preot”; Aaron și fiii lui au fost aleși pentru slujba aceasta (Leviticul 21:1). Cartea Maleahi se adresează în special preoților, cei care ar trebui să dea exemplul de cinstire a numelui lui DOMNUL."
+       "dict_ro": "Kohen înseamnă „preot”; Aaron și fiii lui au fost aleși pentru slujba aceasta (Leviticul 21:1). Cartea Maleahi se adresează în special preoților, cei care ar trebui să dea exemplul de cinstire a numelui lui DOMNUL.",
+       "greek": "ἱερεύς (hiereus)",
+       "greek_def_ro": "ἱερεύς (hiereus) — preot"
       },
       {
        "t": " trebuie "
@@ -32448,8 +32738,8 @@
        "pos": "verb, qal imperfect",
        "def_ro": "vor păzi",
        "dict_ro": "Șamar înseamnă a păzi, a veghea asupra unui lucru; „a păzi poruncile” înseamnă a le împlini cu grijă. Omul a fost pus în grădina Edenului „ca s-o lucreze și s-o păzească” (Geneza 2:15).",
-       "greek": "χείλη ἱερέως φυλάξεται γνῶσιν (cheile hiereos phylaxetai gnosin)",
-       "greek_def_ro": "χείλη ἱερέως φυλάξεται γνῶσιν (cheile hiereos phylaxetai gnosin) — buzele preotului vor păzi cunoștința."
+       "greek": "φυλάσσω (phylasso)",
+       "greek_def_ro": "φυλάσσω (phylasso) — a păzi"
       },
       {
        "t": " "
@@ -32463,8 +32753,8 @@
        "pos": "substantiv, feminin singular",
        "def_ro": "cunoștința",
        "dict_ro": "Daat înseamnă „cunoaștere”. Osea 4:6 spune: „poporul Meu piere din lipsă de cunoaștere”, iar aici buzele preotului trebuie să păzească cunoștința. Preotul este păstrătorul cunoașterii lui DOMNUL.",
-       "greek": "χείλη ἱερέως φυλάξεται γνῶσιν (cheile hiereos phylaxetai gnosin)",
-       "greek_def_ro": "χείλη ἱερέως φυλάξεται γνῶσιν (cheile hiereos phylaxetai gnosin) — buzele preotului vor păzi cunoștința."
+       "greek": "γνῶσις (gnosis)",
+       "greek_def_ro": "γνῶσις (gnosis) — cunoaștere"
       },
       {
        "t": " și [oamenii] trebuie "
@@ -32478,8 +32768,8 @@
        "pos": "verb, piel imperfect",
        "def_ro": "vor căuta",
        "dict_ro": "Bikeș înseamnă „a căuta”. „Să caute învățătură din gura lui” arată că poporul trebuie să vină la preot, iar preotul trebuie să aibă ce să dea. Căutarea învățăturii este o parte a relației.",
-       "greek": "νόμον ἐκζητήσουσιν ἐκ στόματος αὐτοῦ (nomon ekzetesousin ek stomatos autou)",
-       "greek_def_ro": "νόμον ἐκζητήσουσιν ἐκ στόματος αὐτοῦ (nomon ekzetesousin ek stomatos autou) — vor cere învățătură din gura lui."
+       "greek": "ἐκζητέω (ekzeteo)",
+       "greek_def_ro": "ἐκζητέω (ekzeteo) — a căuta"
       },
       {
        "t": " "
@@ -32493,8 +32783,8 @@
        "pos": "substantiv, feminin singular",
        "def_ro": "învățătura",
        "dict_ro": "Tora înseamnă propriu-zis „învățătură, îndrumare”, din rădăcina iara, „a arăta direcția”. Desemnează fie o anumită învățătură, fie Legea dată la Sinai, fie cele cinci cărți ale lui Moise. Septuaginta a redat-o prin nomos, „lege”, ceea ce a îngustat sensul de „învățătură” spre cel juridic.",
-       "greek": "νόμον ἐκζητήσουσιν ἐκ στόματος αὐτοῦ (nomon ekzetesousin ek stomatos autou)",
-       "greek_def_ro": "νόμον ἐκζητήσουσιν ἐκ στόματος αὐτοῦ (nomon ekzetesousin ek stomatos autou) — vor cere învățătură din gura lui."
+       "greek": "νόμος (nomos)",
+       "greek_def_ro": "νόμος (nomos) — lege, învățătură"
       },
       {
        "t": " din "
@@ -32508,8 +32798,8 @@
        "pos": "substantiv, masculin singular construct + sufix",
        "def_ro": "gura lui",
        "dict_ro": "Pe înseamnă „gură”. Învățătura adevărului era în gura lui Levi și poporul trebuie să caute învățătura din gura preotului. Preotul este un canal de învățătură, nu doar un slujitor la altar.",
-       "greek": "νόμον ἐκζητήσουσιν ἐκ στόματος αὐτοῦ (nomon ekzetesousin ek stomatos autou)",
-       "greek_def_ro": "νόμον ἐκζητήσουσιν ἐκ στόματος αὐτοῦ (nomon ekzetesousin ek stomatos autou) — vor cere învățătură din gura lui."
+       "greek": "στόμα (stoma)",
+       "greek_def_ro": "στόμα (stoma) — gură"
       },
       {
        "t": ", căci "
@@ -32522,7 +32812,8 @@
        "strong": "H1931",
        "pos": "pronume personal",
        "def_ro": "el",
-       "dict_ro": "Hu, „el”, capătă în Isaia 41-48 un sens teologic în formula ani hu, „Eu sunt Acela”: Dumnezeu e Același, neschimbat, de la început până la sfârșit (Isaia 43:10; 48:12)."
+       "dict_ro": "Hu, „el”, capătă în Isaia 41-48 un sens teologic în formula ani hu, „Eu sunt Acela”: Dumnezeu e Același, neschimbat, de la început până la sfârșit (Isaia 43:10; 48:12).",
+       "diff_ro": "Septuaginta nu are pronumele „el” (hu) separat."
       },
       {
        "t": " este "
@@ -32535,7 +32826,9 @@
        "strong": "H4397",
        "pos": "substantiv, masculin singular construct",
        "def_ro": "sol",
-       "dict_ro": "Malah înseamnă „trimis, mesager”, om sau înger — Biblia ebraică folosește același cuvânt pentru amândoi. Profetul e numit „solul lui DOMNUL” (Hagai 1:13), iar numele Maleahi înseamnă „solul Meu”."
+       "dict_ro": "Malah înseamnă „trimis, mesager”, om sau înger — Biblia ebraică folosește același cuvânt pentru amândoi. Profetul e numit „solul lui DOMNUL” (Hagai 1:13), iar numele Maleahi înseamnă „solul Meu”.",
+       "greek": "ἄγγελος (angelos)",
+       "greek_def_ro": "ἄγγελος (angelos) — înger, sol"
       },
       {
        "t": " al "
@@ -32548,7 +32841,9 @@
        "strong": "H3068",
        "pos": "nume propriu + substantiv, masculin și feminin plural",
        "def_ro": "DOMNULUI Oștirilor",
-       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină."
+       "dict_ro": "„Adonai Țevaot”, „DOMNUL Oștirilor”, este titlul pe care Maleahi îl pune în gura lui Dumnezeu aproape ori de câte ori vorbește. Țava este oastea, a cerurilor și a pământului; titlul cunoscut din Isaia 6:3. Vorbește un Rege cu putere deplină.",
+       "greek": "κύριος παντοκράτωρ (kyrios pantokrator)",
+       "greek_def_ro": "κύριος παντοκράτωρ (kyrios pantokrator) — Domnul Atotțiitorul"
       },
       {
        "t": ".”"
@@ -32563,10 +32858,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ὅτι χείλη ἱερέως φυλάξεται γνῶσιν, καὶ νόμον ἐκζητήσουσιν ἐκ στόματος αὐτοῦ...",
+       "original": "ὅτι χείλη ἱερέως φυλάξεται γνῶσιν καὶ νόμον ἐκζητήσουσιν ἐκ στόματος αὐτοῦ διότι ἄγγελος κυρίου παντοκράτορός ἐστιν",
        "greek": true,
-       "translation": "„Căci buzele preotului vor păzi cunoștința, și lege vor căuta din gura lui...”",
-       "note": "Apropiere strânsă între TM și LXX în partea păstrată a versetului."
+       "translation": "„Căci buzele preotului vor păzi cunoașterea și vor căuta legea din gura lui, căci este înger al Domnului Atotțiitorul.”",
+       "note": "Apropiere strânsă între TM și LXX; „sol” (malakh) este redat „înger” (ἄγγελος), cuvântul grecesc pentru mesager."
       }
      ],
      "refs": [
