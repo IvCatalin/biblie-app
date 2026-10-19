@@ -8,12 +8,12 @@ function book(b) {
   const out = {};
   const re = /<verse osisID="([^"]+)">([\s\S]*?)<\/verse>/g; let m;
   while ((m = re.exec(x))) {
-    const words = []; const wr = /<w ([^>]*)>([^<]*)<\/w>/g; let w;
+    const words = []; const wr = /<w ([^>]*)>([\s\S]*?)<\/w>/g; let w;
     while ((w = wr.exec(m[2]))) {
       if (/x-ketiv/.test(w[1])) continue;
       const lemma = (w[1].match(/lemma="([^"]*)"/) || [])[1] || '';
       const morph = (w[1].match(/morph="([^"]*)"/) || [])[1] || '';
-      words.push(mk(words.length, w[2], lemma, morph));
+      words.push(mk(words.length, w[2].replace(/<[^>]+>/g, ''), lemma, morph));
     }
     out[m[1]] = words;
   }
