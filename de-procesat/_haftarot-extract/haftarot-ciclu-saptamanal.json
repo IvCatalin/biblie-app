@@ -167,7 +167,9 @@
        "pos": "substantiv, masculin plural construct + sufix",
        "def_ro": "urmași, roade, ceea ce iese/răsare din ceva.",
        "diff_ro": "Septuaginta nu are un cuvânt pentru țeețaim („odrasle, ce crește”), ci spune doar „cele de pe el” (τὰ ἐν αὐτῇ).",
-       "dict_ro": "Din rădăcina yatza, „a ieși”. Termenul include atât vegetația pământului, cât și, în alte contexte, urmașii/descendenții unei persoane — dubla nuanță (natură + generații) se potrivește temei Haftarot despre Creație și poporul lui Israel."
+       "dict_ro": "Din rădăcina yatza, „a ieși”. Termenul include atât vegetația pământului, cât și, în alte contexte, urmașii/descendenții unei persoane — dubla nuanță (natură + generații) se potrivește temei Haftarot despre Creație și poporul lui Israel.",
+       "greek": "τὰ ἐν αὐτῇ (ta en aute)",
+       "greek_def_ro": "τὰ ἐν αὐτῇ (ta en aute) — cele din ea, ceea ce se află pe ea"
       },
       {
        "t": ", care "
@@ -275,6 +277,10 @@
       {
        "author": "Rashi (1040–1105)",
        "text": "„Dumnezeu, DOMNUL” — Stăpânul dreptății și Stăpânul milei, împreună. „Creatorul cerurilor” — la început ca un fel de ghem de fir răsucit, iar apoi le-a întins, așa cum se spune în Tratatul <i>Hagiga</i> (12a). „Cel ce dă suflet poporului pe el” — suflet de viață, „la fel tuturor”. „Și viață” — <span class=\"heb-inline\">רוּחַ</span> de sfințenie. „Celor care merg pe el” — celor care umblă înaintea Lui."
+      },
+      {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Creatorul cerurilor” — ele au o linie, prin care sunt mărginite. „Și le-a întins peste pământ” — cf. „rachia”, bolta (Geneza 1:6). „Cel ce întinde” (roka) — „qof” are patah din pricina lui „ayin” care urmează; cf. „hanoțea”, cel ce a sădit (Psalmul 94:9). „Și ce iese din el” — plantele care cresc la suprafața pământului. „Care dă suflare poporului de pe el” — adică omului. „Și duh celor ce umblă pe el” — adică animalelor. „Pe el” este spus mai întâi pentru că omul merge drept."
       },
       {
        "author": "Metzudat David",
@@ -524,6 +530,10 @@
        "text": "„Te-am chemat” — lui Isaia i se spune [aceasta]. „Și te-am creat” — <span class=\"heb-inline\">וְאֶצָּרְךָ</span>: când te-am format, acesta a fost gândul Meu, ca tu să întorci poporul Meu la legământul Meu și să-i luminezi. „Lumină pentru neamuri” — fiecare trib e numit neam de sine stătător, cum se spune (Geneza 35:11): «Un neam și o adunare de neamuri»."
       },
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Eu, DOMNUL, te-am chemat” etc. — în aceste cuvinte DOMNUL i se adresează profetului despre treburile lui. „Și te voi păzi” — ca să nu te ajungă niciun rău. „Spre legământ al poporului” — ca să întărești legământul poporului; cf. 49:8."
+      },
+      {
        "author": "Metzudat David",
        "text": "„Te-am chemat în dreptate” — despre Mesia se spune: ceea ce am vestit prin profeți în numele tău e adevărat și se va împlini. „Voi apuca mâna ta” — te voi ține de mâini ca să te înalț peste toți. „Te voi păzi” — Eu însumi te voi păzi. „Te voi face legământ al poporului” — îți voi da puterea de a-i întoarce pe ai Mei la legământul Meu, ca să împlinească Tora și porunca, spre lumina neamurilor — să lumineze ochii tuturor neamurilor, ca să cunoască faptul că DOMNUL este Dumnezeu."
       },
@@ -719,6 +729,10 @@
        "text": "„Să deschizi ochi lipsiți de lumină” — pe cei care nu văd puterea Mea, ca să-și pună la inimă să se întoarcă la Mine. „Să scoți prizonierul din prinsoare” — și pentru că ochii lor se vor deschide, prizonierii vor ieși din temniță. O altă explicație: să-i înștiințeze despre exilul care li se va întâmpla, din care într-o zi vor ieși."
       },
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Ca să scoți pe cei prinși” etc. — ca să spui lui Israel că vor fi scoși din exilul Babilonului. Cf. 49:9."
+      },
+      {
        "author": "Metzudat David",
        "text": "„Să deschizi” — pe cel ai cărui ochi s-au orbit ca să nu vadă lucrarea DOMNULUI, tu îi vei deschide și îi vei face să înțeleagă. „Să scoți” — pe Israel cei legați în Babilon îi vei scoate din casa celor ce-i închid, și din casa temniței pe cei ce șed acolo în întuneric."
       },
@@ -883,7 +897,9 @@
        "strong": "H6456",
        "pos": "substantiv, masculin plural",
        "def_ro": "chip cioplit, idol.",
-       "dict_ro": "Pesel vine din pasal, „a ciopli” — subliniază caracterul făcut de mână, deci lipsit de putere reală, al idolilor, în contrast direct cu Dumnezeu Creatorul din v. 5."
+       "dict_ro": "Pesel vine din pasal, „a ciopli” — subliniază caracterul făcut de mână, deci lipsit de putere reală, al idolilor, în contrast direct cu Dumnezeu Creatorul din v. 5.",
+       "greek": "γλυπτός (glyptos)",
+       "greek_def_ro": "γλυπτός (glyptos) — cioplit; idol cioplit"
       },
       {
        "t": "."
@@ -915,6 +931,10 @@
       {
        "author": "Rashi (1040–1105)",
        "text": "„Acesta este numele Meu” — se explică drept expresie a stăpânirii și puterii: trebuie să arăt că Eu sunt Stăpânul. De aceea, slava Mea nu o voi da altuia, ca păgânii să nu domnească peste poporul Meu pe vecie și să spună că mâna dumnezeului lor e puternică."
+      },
+      {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Acesta este numele Meu” — numele Meu adevărat. În afară de Tetragramă, în Scriptură nu există alt nume propriu al lui Dumnezeu. „Și slava Mea” — că îi spun profetului ce va fi și el le descoperă în numele Meu, spre cinstirea Mea. „Nici lauda Mea” — „nu” din fraza dinainte, „nu voi da”, se referă și la aceasta."
       },
       {
        "author": "Metzudat David",
@@ -1323,6 +1343,10 @@
        "text": "„Lauda Sa de la marginea pământului” — de nevoie, când vor vedea faptele Mele puternice pentru Israel, toate neamurile vor recunoaște că Eu sunt Dumnezeu. „Cei care coboară pe mare” — cei care se îmbarcă pe corăbii."
       },
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Cântați DOMNULUI” etc. — cu aceste cuvinte profetul se adresează poporului. „Cei ce coboară pe mare” etc. — căci toți oamenii pământului Îl vor lăuda pe Dumnezeu la întoarcerea lui Israel din exilul Babilonului (de aceea Chedar este amintit împreună cu locuitorii insulelor și cu cei ce coboară pe mare), când vor auzi de acest eveniment extraordinar."
+      },
+      {
        "author": "Metzudat David",
        "text": "„Cântați DOMNULUI” — atunci vor cânta DOMNULUI un cântec nou, și lauda Sa se va auzi de la marginea pământului. „Cei ce coboară pe mare” — cei ce navighează pe mare și făpturile care umplu marea, și ele Îl vor lăuda pe DOMNUL. „Insulele și locuitorii lor” — insulele însele și cei ce locuiesc în ele Îl vor lăuda, printr-o figură de stil, căci insulele și făpturile fără judecată și grai nu pot lăuda cu adevărat — la fel se spune și «râurile să bată din palme» (Ps. 98)."
       },
@@ -1563,6 +1587,10 @@
        "text": "„Deșertul și orașele lui să-și ridice [glasul]” — glasul lor în cântec. „Kedar va fi locuit cu sate” — deșertul lui Kedar, unde acum locuiesc în corturi, va fi cetăți și sate statornice. „Locuitorii stâncii” — morții care vor învia; așa a tradus și Ionatan. „Din vârful munților să vestească” — să-și ridice glasul de pe vârfurile munților [după Ionatan]."
       },
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Pustia și cetățile ei să-și ridice glasul” etc. — orice câmpie și cetățile ei, toate satele locuite de Chedar; tribul Chedar a locuit întotdeauna în câmpie. „Locuitorii stâncii” — neamurile care locuiesc în stânci. „Să strige” (iaronu) — cf. „harina”, strigătul (1 Împărați 22:36). „Să-și ridice glasul” (iitsvahu) — se folosește atât în sens bun, cât și în sens rău; cf. „tsevaha”, strigătul (24:11)."
+      },
+      {
        "author": "Metzudat David",
        "text": "„Să-și ridice [glasul]” — tot deșertul și orașele lui, și toate satele unde șade obștea lui Kedar, toate să-și ridice glasul în cântec. „Vor cânta” — cei ce locuiesc pe stâncă vor cânta laudele DOMNULUI. „Vor vesti” — se va auzi glas de strigăt de bucurie și laudă."
       },
@@ -1711,6 +1739,10 @@
      ],
      "commentaries": [
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Să dea slavă” etc. — vor recunoaște că Dumnezeu a făcut lucruri mari și vor spune următoarele:"
+      },
+      {
        "author": "Metzudat David",
        "text": "„Vor da” — cu gura lor Îi vor da cinste. „Vor vesti” — oamenii care locuiesc acolo [în insule]."
       },
@@ -1848,7 +1880,10 @@
        "strong": "H6873",
        "pos": "verb, hifil imperfect",
        "def_ro": "a scoate un strigăt de luptă puternic, un urlet.",
-       "dict_ro": "Țarah — „a striga cu glas mare, a urla”, verb rar; Metzudat Țion îl apropie de „strigă amarnic” (Țefania 1:14). Radak: țeriha e mai puternică decât terua, un strigăt mai înalt, ca să-i copleșească pe cei din fața lui."
+       "dict_ro": "Țarah — „a striga cu glas mare, a urla”, verb rar; Metzudat Țion îl apropie de „strigă amarnic” (Țefania 1:14). Radak: țeriha e mai puternică decât terua, un strigăt mai înalt, ca să-i copleșească pe cei din fața lui.",
+       "greek": "βοάω (boao)",
+       "greek_def_ro": "βοάω (boao) — a striga, a țipa",
+       "diff_ro": "Ebraica are două verbe („Își înalță glasul, chiar strigă puternic”); Septuaginta le redă printr-un singur verb, βοήσεται."
       },
       {
        "t": " puternic, asupra "
@@ -1907,6 +1942,10 @@
       "Țefania 1:18"
      ],
      "commentaries": [
+      {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„DOMNUL va ieși” — adică hotărârile dumnezeiești, ascunse până acum, vor fi descoperite. „Gelozie” — din pricina babilonienilor, care se închină lui Bel. „Va striga” (iaria) — cf. „terua”, strigăt (Iosua 6:5). „Va răcni” (iațriah) — cf. „tsorea’h”, cel ce strigă (Țefania 1:14), deși dintr-o altă conjugare. „Se va arăta puternic” — prin biruința asupra Babilonului."
+      },
       {
        "author": "Metzudat David",
        "text": "„Iese” — spre mântuirea lui Israel. „Își stârnește râvna” — Își trezește râvna pentru poporul Său. „Strigă puternic” — ca un viteaz care biruie în război. „Își arată puterea” — Se întărește împotriva dușmanilor Săi."
@@ -2110,6 +2149,10 @@
       {
        "author": "Rashi (1040–1105)",
        "text": "„Am tăcut prea mult” — de multă vreme tac cu privire la distrugerea Templului Meu. „Sunt liniștit, Mă rețin” — timp prezent: până acum duhul Meu M-a constrâns, iar de acum, ca o femeie în durerile facerii, voi striga."
+      },
+      {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Din veac am tăcut” etc. — persoana întâi se referă la Dumnezeu. „Am tăcut” (hehesheti) — cf. „hehesu”, tăceți (2 Împărați 2:3). „M-am stăpânit” (et’apaq) — cf. „lehit’apeq”, a se stăpâni (Geneza 45:1). „Voi striga” (ef’e) — cuvânt care apare o singură dată; după unii înseamnă „viperă”, iar „ca femeia care naște voi striga” este explicat de ei astfel: ca cea care naște o viperă, așa voi fi pustiit și voi suspina deodată. „Voi fi pustiit” (esham) — este Nifal al unui verb cu rădăcină dublă (shamam). „Voi suspina” (eshaf) — cf. „sho’ef”, cel ce suspină (Eclesiastul 1:5). „Esham” se referă la simțământul inimii, „eshaf” la rostirea gurii. Versetul se adresează celor care vor afirma că Dumnezeu nu-și poate ajuta poporul."
       },
       {
        "author": "Metzudat David",
@@ -2339,6 +2382,10 @@
       {
        "author": "Rashi (1040–1105)",
        "text": "„Voi pustii munți și dealuri” — voi ucide împărați și conducători. „Și tot verdele lor” — pe toți susținătorii lor. „Voi usca” — termen folosit pentru uscarea lucrurilor umede, precum iarba și râurile."
+      },
+      {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Voi pustii” etc. — Cum pot gândi așa? Nu văd că Eu pustiesc munți și dealuri, usuc toate ierburile lor și prefac râurile în insule, ca oamenii să poată locui în ele?"
       },
       {
        "author": "Șadal (Samuel David Luzzatto, 1800–1865)",
@@ -2625,6 +2672,10 @@
        "text": "„Voi conduce orbii” — pe Israel, care erau până acum orbi de a privi spre Mine, îi voi conduce pe calea cea bună, pe care nu știau să umble. „Le voi îndeplini” — timp de profeție: se vorbește despre viitor ca și cum ar fi deja împlinit."
       },
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Voi duce pe orbi pe o cale pe care n-o știau” — căci și orbii, dacă sunt deprinși cu un drum, merg pe el fără călăuză. „Voi face întunericul lumină înaintea lor și locurile strâmbe drepte.” Unii raportează aceasta la întoarcerea israeliților din Babilon."
+      },
+      {
        "author": "Metzudat David",
        "text": "Atunci voi conduce pe Israel spre țara lor pe drumul prin pustiu, cale pe care nu o cunoșteau, și erau ca niște orbi pentru ea... Calea strâmbă o voi face dreaptă și netedă — la fel am făcut și atunci când au ieșit din Egipt; și nu-i voi părăsi în viitor."
       },
@@ -2794,6 +2845,10 @@
      ],
      "commentaries": [
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Se vor da înapoi” etc. — căci Eu am puterea să fac ce vreau, nu așa idolii. „Chipuri turnate” (masekha) — pluralul „chipuri cioplite” (pesilim) trebuie subînțeles din fraza precedentă, din pricina pronumelui „voi” (atem) care urmează."
+      },
+      {
        "author": "Metzudat David",
        "text": "Atunci cei care se încred în idoli vor fi rușinați și se vor întoarce înapoi, precum omul rușinat care se retrage ca să nu fie văzut în rușinea lui."
       },
@@ -2928,6 +2983,10 @@
       {
        "author": "Rashi (1040–1105)",
        "text": "„Surzilor... și orbilor” — despre Israel vorbește."
+      },
+      {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Surzilor” etc. — auzul și vederea își au izvorul în inimă; cei care sunt surzi și orbi în inimă sunt de aceea numiți aici surzi și orbi."
       },
       {
        "author": "Metzudat David",
@@ -3135,6 +3194,10 @@
        "text": "„Cine e orb” între voi? Nu e nimeni altul decât slujitorul Meu — el e cel mai orb dintre voi toți. Și cel mai surd dintre voi e ca mesagerul Meu, pe care îl trimit să profețească profeții. „Cel ce a fost orb e ca cel răsplătit pe deplin” — cel ce a fost orb dintre voi și-a primit deja pedepsele și e ca unul căruia i s-au achitat toate răsplățile, și iese curat."
       },
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Cine este orb” etc. — acest verset dovedește că explicația mea este corectă. Voi sunteți orbi, voi care spuneți că nimeni nu este atât de orb ca profetul. „Ca solul Meu” (kemalaki) — cf. „Hagai, solul DOMNULUI” (Hagai 1:13). „Ca cel răsplătit” (kimeshullam) — ca cel drept; cf. „ieshullam”, va fi răsplătit (Proverbe 11:31); „shallem”, a plăti (Exodul 22:5); „meshullam”, literal cel răsplătit, adică cel drept. „Ca slujitorul DOMNULUI” — care, deși nu este profet, Îl slujește pe Dumnezeu."
+      },
+      {
        "author": "Metzudat David",
        "text": "Ca și cum și-ar explica vorbele, spunând: ce am rezumat mai sus se aplică și celor drepți dintre voi, numiți orbi și surzi, căci cine e mai vrednic să fie numit orb decât slujitorul Meu, fiindcă el cunoaște stricăciunea generației și nu se uită la faptele lor ca să le îndrepte? „Ca mesagerul Meu” — se întoarce la cuvântul „cine”: cine e mai vrednic să fie numit surd decât cel căruia i-am dat înțelepciune în inimă, și pe care parcă l-am trimis să învețe poporul cunoașterea, dar el e ca un surd, nu ia aminte la faptele poporului ca să-l avertizeze."
       },
@@ -3278,6 +3341,10 @@
       {
        "author": "Rashi (1040–1105)",
        "text": "„Sunt multe de văzut” — multe priveliști sunt înaintea voastră, și nu luați aminte să priviți faptele Mele și să vă întoarceți la Mine. „Deschizând urechi” — sunt ocupat să vă deschid urechile prin profeții Mei, dar niciunul dintre voi nu ascultă cuvintele Mele; e timp prezent."
+      },
+      {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„A vedea” (re’ot) — formă neregulată; este o combinație a doi infiniți: cel construct (re’ot) și cel absolut (ra’o). Sensul versetului este: ei vor percepe multe cuvinte ale lui Dumnezeu, dar sufletul sau ochiul lor nu le va reține; urechile le vor fi deschise, nu închise, și totuși, lucru ciudat, nu vor auzi."
       },
       {
        "author": "Metzudat David",
@@ -3424,6 +3491,10 @@
       {
        "author": "Rashi (1040–1105)",
        "text": "„DOMNUL dorește” — să vă arate și să vă deschidă urechile, de dragul dreptății Sale; de aceea, El mărește și glorifică Tora pentru voi."
+      },
+      {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "DOMNUL găsește plăcere în faptul că ei nu văd; Își va arăta dreptatea și Își va înălța Legea, încât toți cei ce o părăsesc să se teamă. Acest verset poate fi legat și de următorul, astfel: Dumnezeu Și-a arătat dreptatea și i-a făcut prădați și jefuiți pe cei care spuneau despre profet că este orb etc."
       },
       {
        "author": "Metzudat David",
@@ -3698,6 +3769,10 @@
       {
        "author": "Rashi (1040–1105)",
        "text": "„Și el” — acest popor e prădat și jefuit, iar sfârșitul pasajului e (v.25) «și nu au pus la inimă» — toate acestea ca să spună: de ce ni s-a întâmplat asta? (v.24) «Cine l-a dat pe Iacov pradă?» „Tinerii lor sunt toți plini de descurajare” — altă explicație: se vor pune singuri în capcanele pământului și în gropi; «și în case de temniță au fost ascunși» dovedește că așa este. „Și nimeni nu spune «Dă înapoi»” — ca «hașēv», de aceea nu e punctat cu dagheș, dar «cel întors în sacii noștri» (Geneza 43:18) e punctat cu dagheș."
+      },
+      {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Jefuit” (shasui) — verb (rădăcină sh-s-h); cf. „shosim”, jefuitori (1 Samuel 23:1). „A sufla” (hafeah) — infinitiv cu același sens ca „nafoah”, deși din altă rădăcină (puah). „În găuri” (bahurim) — cf. „hor”, gaură (11:8). Sunt închiși, ocupând cele mai de jos temnițe dintre toți captivii. „Înapoi!” (hashev) — patah ține locul lui tsere pentru că cuvântul este la sfârșitul versetului; „hashev” este tranzitiv și înseamnă „a da înapoi”, adică prada. „Cine dintre voi va spune aceasta” — va spune lucruri ca acelea pe care le-a vestit profetul pe care voi l-ați declarat orb. „Pentru vremea de apoi” (le’ahor) — pentru timpul ce va veni; cf. „te’aharu”, mă țineți în așteptare (Geneza 24:56); „lefanim”, în vremea de mai înainte, vine de la „panah”: s-a întors, a trecut."
       },
       {
        "author": "Metzudat David",
@@ -4078,6 +4153,10 @@
        "text": "„Aceasta, [că] am păcătuit față de El” — aceasta a fost pricina jafului și prădăciunii: ceea ce am păcătuit față de El. „Și n-au voit” — părinții noștri n-au voit să meargă pe căile Lui."
       },
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Cine a dat pe Iacov” etc. — atunci poporul va mărturisi și va spune: cine ne-a dat prăzii? Cu siguranță DOMNUL, El („zu” = „zeh”, acesta), împotriva Căruia am păcătuit și pe ale Cărui căi părinții noștri n-au vrut să umble."
+      },
+      {
        "author": "Metzudat David",
        "text": "Adică: iată lucrul de înțeles — cine este cel care l-a dat pe Israel pe mâna jefuitorilor? Oare nu DOMNUL i-a dat, și nu s-a întâmplat din întâmplare? „Aceasta am păcătuit față de El” — aceasta e pricina pentru care am păcătuit față de El, iar El plătește după faptă. „Și n-au voit” — și Israel n-a voit să meargă pe căile Lui."
       },
@@ -4290,6 +4369,10 @@
       {
        "author": "Rashi (1040–1105)",
        "text": "„Și l-a aprins de jur împrejur” — am adus răzbunare asupra neamurilor dimprejur, ca să vadă și să ia învățătură, precum se spune (Țefania 3:6): «Am stârpit neamuri, turnurile lor s-au pustiit... am zis: Doar de Mă veți teme, veți lua învățătură...» „Și n-a știut” — de fapt știa, dar călca cu călcâiul; nu i-a păsat să înțeleagă aceasta și să se întoarcă de la răutatea sa. „Și l-a ars în el însuși” — după pedeapsa neamurilor dimprejur, a ars în el însuși."
+      },
+      {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Peste el” — cf. Geneza 49:22. „Peste el”, după pluralul „n-au voit, n-au ascultat”; și „tsa’ada”, aleargă, după „banot”, ramuri (Geneza 49:22): peste fiecare dintre părinții noștri. „Furia, furia mâniei Lui” — cf. „ahala ohel Sara”, în cort, cortul Sarei (Geneza 24:67). „Și l-a ars” (vatlahatehu) — cf. „lahat”, flacără (Geneza 3:24). Vor mărturisi că părinții lor au fost orbi cu inima și n-au avut pricepere."
       },
       {
        "author": "Metzudat David",
@@ -4543,6 +4626,10 @@
        "text": "„Și acum” — cu toate acestea, așa a spus DOMNUL... „Nu te teme.”"
       },
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Iar acum” etc. — acum, zice profetul, de vreme ce ați mărturisit, Dumnezeu vă va răscumpăra. „V-am chemat pe nume” — v-am dat o mare deosebire; cf. „am chemat pe nume pe Bețaleel” (Exodul 31:2); iar deosebirea este arătată mai departe prin cuvintele „ești al Meu”."
+      },
+      {
        "author": "Metzudat David",
        "text": "Adică: cu toate acestea, așa a spus DOMNUL — nu te teme ca nu cumva să pieri în exil. „Căci te-am izbăvit” — căci oare nu din Egipt te-am izbăvit, și te-am chemat atunci pe numele tău, că ești al Meu, poporul Meu și fiul Meu întâi-născut?"
       },
@@ -4751,6 +4838,10 @@
       {
        "author": "Rashi (1040–1105)",
        "text": "„Când treci prin apă” — când ai trecut prin Marea Roșie, am fost cu tine. „Și prin râuri, ele nu te vor inunda” — ai locuit printre egipteni și neamurile numeroase ca apele unui râu, și n-au putut să te nimicească. „Când mergi prin foc” — în viitor: «căci iată, vine ziua, arzând ca un cuptor» (Maleahi 4:1), căci voi face soarele să ardă asupra celor răi; și acolo, la fel, nu vei fi ars. „Flacăra” — care va mistui neamurile, precum se spune «și popoarele vor fi ca arderea varului» (Isaia 33:12); nici aceea nu va arde printre voi."
+      },
+      {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Când vei trece prin ape” etc. — popoarele sunt asemănate în Scriptură cu râurile și cu focul; cf. „un foc a ieșit din Heșbon” (Numeri 21:28). Prin ape și foc se înțeleg armatele Persiei și Mediei, care aveau să cucerească Babilonul."
       },
       {
        "author": "Metzudat David",
@@ -4977,6 +5068,10 @@
        "text": "„Am dat Egiptul ca răscumpărare pentru tine” — și ei au fost răscumpărarea ta, căci întâii lor născuți au murit, iar tu, fiul Meu întâi-născut, ai fost scăpat, deși erați vrednici de nimicire, precum se spune la Ezechiel (20:8): «Și am zis să-Mi vărs urgia asupra lor... în țara Egiptului»."
       },
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Am dat Egiptul ca răscumpărare pentru tine” — egiptenii vor fi loviți de regii Mediei."
+      },
+      {
        "author": "Metzudat David",
        "text": "Totul e în mâna Mea. „Am dat Egiptul ca răscumpărare pentru tine” — oare nu în Egipt erați vrednici de nimicire, precum s-a spus, «și am zis să-Mi vărs urgia asupra lor în mijlocul țării Egiptului» (Ezechiel 20:8), și atunci ți-am dat Egiptul drept răscumpărare, căci ei au pierit în locul tău. „Cuș și Seva în locul tău” — precum Sanherib, când și-a îndreptat fața să lupte împotriva Ierusalimului, a ieșit mai întâi să lupte cu Cuș și Seva, și au pierit în locul tău, și ți-au fost ție izbăvire."
       },
@@ -5192,6 +5287,10 @@
        "text": "„Și dau un om în locul tău” — mereu obișnuiesc astfel."
       },
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„De aceea voi da oameni” — pe care i-am creat, așa cum te-am creat pe tine."
+      },
+      {
        "author": "Metzudat David",
        "text": "Pentru că ai fost scump în ochii Mei și onorat mai presus de toate neamurile, și Eu te-am iubit, de aceea e felul Meu să dau alți oameni în locul tău."
       },
@@ -5352,6 +5451,10 @@
       "Isaia 49:12"
      ],
      "commentaries": [
+      {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Dinspre răsărit” — din Babilon. „Dinspre apus” — din Egipt și din Asiria; cf. Ezra 6:22."
+      },
       {
        "author": "Metzudat David",
        "text": "„De la răsărit” — pe cei risipiți acolo."
@@ -5581,6 +5684,10 @@
        "text": "„Voi spune” vântului de nord: «Dă» pe cei exilați care sunt în nord. „Și celui de sud”, care e vânt puternic: «Nu te opri din a sufla tare, ca să-i aduci pe exilații Mei.» Și tot astfel, în Cântarea Cântărilor (4:16): «Trezește-te, [vânt de] nord, și vino, [vânt de] sud» — pentru că vântul de nord e slab, are nevoie de întărire, de aceea scrie «trezește-te», «dă»; dar cel de sud, care n-are nevoie de întărire, scrie «vino», așa cum este, și la fel «nu te opri»."
       },
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Dați [înapoi]” — pe fiii Mei. „Și spre sud” (timan) — „timan” vine de la „iamin”, dreapta. El îi va aduna din cele patru colțuri ale pământului. „Fiii Mei, fiicele Mele” — bărbații și femeile."
+      },
+      {
        "author": "Metzudat David",
        "text": "„Dă” — dă pe Israel cel risipit acolo. „Nu opri” — nu te reține de la a-l aduce pe Israel; adu-l. Ca și cum ar porunci fiecărei direcții a lumii să-l aducă pe Israel."
       },
@@ -5750,6 +5857,10 @@
        "text": "„Oricine e chemat cu numele Meu și pe care l-am creat pentru slava Mea” — toți drepții, cei chemați cu numele Meu, și tot ce s-a făcut pentru slava Mea. „L-am modelat, chiar l-am făcut” — l-am întocmit cu tot ce-i trebuie și am pregătit totul. Adică: deși au trecut prin exil și necaz, le-am pregătit deja toate cele de trebuință pentru izbăvirea lor."
       },
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Cel chemat” (qore = nikra), cum explică unii; dar aceasta este greșit. Trebuie luat literal: oricine este chemat pe numele Meu, adică toți cei care aparțin poporului DOMNULUI. „Și pentru slava Mea” — ca să fie slavă numelui Meu. „L-am plăsmuit” (berativ) — adică acel neam. „L-am întemeiat” (asitiv). Rabi Șlomo, părintele poeziei metrice în ebraică, a explicat că acest verset cuprinde principiile creației lumii; dar această explicație nu este în acord cu contextul."
+      },
+      {
        "author": "Metzudat David",
        "text": "„Oricine e chemat cu numele Meu” — tot Israel, cel chemat cu numele de popor al DOMNULUI. „Și pentru slava Mea” — cel făcut ca să Mă cinstesc și să Mă mândresc cu ei, precum s-a spus: «Israel, cu care Mă voi mândri» (mai jos, cap. 49). „L-am modelat” — adică deja am pregătit pentru el toate cele de trebuință ale izbăvirii, nimic nu lipsește."
       },
@@ -5884,6 +5995,10 @@
       {
        "author": "Rashi (1040–1105)",
        "text": "„Să scoată un popor orb” — hoți, ca lehoți (a scoate) din exil pe cei ce au fost exilați pentru că au ajuns ca orbii; și aveau ochi, dar n-au văzut."
+      },
+      {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„A scoate” (hotsi) — este infinitiv. „Popor orb” — care a fost orb mai înainte, deși avea ochi. Astfel există legătură între acest verset și capitolele precedente."
       },
       {
        "author": "Metzudat David",
@@ -6185,6 +6300,10 @@
        "text": "„Toate popoarele adunate” — dacă toate neamurile păgâne s-ar aduna laolaltă, cine dintre ele și dintre profeții lor ar putea vesti lucruri viitoare, sau «cele dintâi», care s-au întâmplat deja, să ni le facă cunoscute, zicând: «noi le-am vestit înainte să se întâmple»? „Să-și aducă martorii” — care au auzit că au profețit despre ele mai dinainte, și vor fi găsiți drepți; dar Eu am martori, căci voi sunteți martorii Mei, că i-am vestit lui Avraam, tatăl vostru, exilurile, și au venit."
       },
       {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Toate neamurile să se adune” etc. — dacă cineva ar spune că israeliții nu cunoșteau aceste evenimente viitoare, fiindcă erau orbi, dar dintre celelalte neamuri și dintre înțelepții lor poate unii le-au cunoscut, se pune întrebarea: cine dintre ei poate vesti aceasta, adică ceea ce se va întâmpla în zilele ce vin, și ne poate arăta lucrurile de mai înainte, cele trecute, pe care le-au anunțat înainte de a se petrece? „Să-și aducă martorii, ca să audă.” „Ca să fie îndreptățiți” (veițdaqu) cu privire la cuvintele lor; „să asculte”, adică martorii să audă același lucru, „și să zică: Este adevărat”, așa a fost."
+      },
+      {
        "author": "Metzudat David",
        "text": "Dacă toți păgânii s-ar aduna laolaltă, cine dintre ei ar putea vesti o asemenea [profeție], și oare idolul le-a spus-o? „Și cele dintâi” — sau cele dintâi, care au trecut deja, să ni le vestească, zicând: noi le-am vestit înainte să vină. „Să-și aducă martorii” — adică să aducă martori că a vestit un lucru înainte să vină, și atunci vor fi drepți în cuvintele lor."
       },
@@ -6468,6 +6587,10 @@
       {
        "author": "Rashi (1040–1105)",
        "text": "„Și slujitorul Meu” — Iacov. „Pe care l-am ales” — el însuși va mărturisi că i-am promis când mergea în Aram-Naharaim, și Mi-am ținut promisiunea. „Ca să știți etc.” — toate acestea le-am făcut ca să vă puneți la inimă să Mă cunoașteți."
+      },
+      {
+       "author": "Ibn Ezra (1089–1167)",
+       "text": "„Voi sunteți martorii Mei” etc. — lui Israel i se adresează. „Și slujitorul Meu” — profetul. „Eu sunt El” — aceasta este cea mai înaltă exprimare a unității lui Dumnezeu; căci orice altă ființă este diferită de forma ei adevărată. „Înainte de Mine, după Mine” — după unii, „înainte de Mine” înseamnă înainte de descoperirea de pe Sinai, iar „după Mine”, după descoperire. Dar nu este deloc nevoie să ne depărtăm de sensul literal al cuvintelor: nici un Dumnezeu n-a fost înaintea Mea și nici unul nu va fi după Mine, pentru că Dumnezeu este Cel dintâi și Cel de pe urmă. Expresia „plăsmuit” (notsar) este aplicată aici cuvântului „Dumnezeu” ca să arate că un dumnezeu în afară de El nu poate fi decât unul plăsmuit de om. Oamenii cu vederea scurtă cred că expresia „plăsmuit”, folosită despre Creator, a scăpat din gura profetului; dar nu este deloc așa; asemenea critici nu pricep adevăratul sens al versetului."
       },
       {
        "author": "Metzudat David",
