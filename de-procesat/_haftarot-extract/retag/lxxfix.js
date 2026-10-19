@@ -30,7 +30,7 @@ if (!WRITE) {
 const spec = require('./lxxtr-c' + String(cn).padStart(2, '0') + '.js'); const errs = [];
 for (const v of ch.verses) {
   const s = status(v); const sp = spec[v.v];
-  if ((s.st === 'ok' && !(sp && sp.tr)) || (sp && sp.noteOnly)) { if (sp && sp.note && s.e) s.e.note = sp.note; continue; }
+  if ((s.st === 'ok' && !(sp && (sp.tr || sp.keepTr))) || (sp && sp.noteOnly)) { if (sp && sp.note && s.e) s.e.note = sp.note; continue; }
   if (!sp) { errs.push(`${v.v}: lipsește din specificație (${s.st})`); continue; }
   if (s.st === 'fara') {
     if (!sp.none) { errs.push(`${v.v}: fără corespondent în Rahlfs — cere { none: "nota" }`); continue; }
@@ -38,9 +38,9 @@ for (const v of ch.verses) {
     v.textCompare.push({ source: 'Septuaginta (greacă, sec. III-II î.Hr.)', original: '', greek: true, translation: 'Septuaginta nu are acest verset.', note: sp.none });
     continue;
   }
-  if (!sp.tr || sp.tr.length < 10) { errs.push(`${v.v}: lipsește traducerea`); continue; }
+  if (!sp.keepTr && (!sp.tr || sp.tr.length < 10)) { errs.push(`${v.v}: lipsește traducerea`); continue; }
   const e = s.e || (() => { const x = { source: 'Septuaginta (greacă, sec. III-II î.Hr.)', greek: true }; v.textCompare.push(x); return x; })();
-  e.original = s.r.text; e.translation = sp.tr; if (sp.note) e.note = sp.note;
+  e.original = s.r.text; if (!sp.keepTr) e.translation = sp.tr; if (sp.note) e.note = sp.note;
 }
 if (errs.length) { console.log('ERORI (' + errs.length + '):\n' + errs.join('\n')); process.exit(1); }
 fs.copyFileSync(WF, WF + '.bak-lxxfix'); fs.writeFileSync(WF, JSON.stringify(d, null, 1)); console.log('Scris: textCompare LXX actualizat în cap. ' + cn);

@@ -48,7 +48,7 @@ for (const v of ch.verses) {
   const tg = tagsOf(v); const sp = spec[v.v]; if (spec.__tot && sp) tg.forEach(t => { delete t.greek; delete t.greek_def_ro; delete t.diff_ro; });
   if (!sp) { if (tg.some(t => !t.greek)) errs.push(`${v.v}: lipsește din specificație (${tg.filter(t => !t.greek).length} tag-uri fără greacă)`); continue; }
   if (sp.length !== tg.length) { errs.push(`${v.v}: ${sp.length} itemi pentru ${tg.length} tag-uri`); continue; }
-  const lxx = lxxOf(v); if (!lxx) { errs.push(`${v.v}: versetul nu are text LXX`); continue; }
+  const lxx = lxxOf(v); if (!lxx && !sp.every(x => x === 0 || (typeof x === 'string' && x.split('¦')[0] === '0'))) { errs.push(`${v.v}: versetul nu are text LXX`); continue; }
   tg.forEach((t, i) => {
     let it = sp[i]; if (typeof it === 'string') { const p = it.split('¦'); it = p[0] === '0' ? [0, p[1] || ''] : [p[0], (p[1] || '').split('/').filter(Boolean), p[2] || '', p[3] || '']; if (!Array.isArray(it) || (it[0] !== 0 && !it[1].length)) it[1] = undefined; } const label = `${v.v} #${i} «${t.t}»`;
     if (it === null || it === undefined) { if (spec.__tot) { errs.push(`${label}: decizie lipsă (mod total: fiecare tag cere item sau 0)`); return; } if (t.greek) st.kept++; else errs.push(`${label}: fără greacă și fără decizie (folosește 0 pentru «LXX nu are corespondent»)`); return; }
