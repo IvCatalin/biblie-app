@@ -22,7 +22,7 @@ const a = src.indexOf('// ---------- trimiteri din dict_ro'), b = src.indexOf('/
 const { fixBooks, unknownBooks, checkRefs } = new Function('O', src.slice(a, b) + '\nreturn {fixBooks, unknownBooks, checkRefs};')(O);
 
 const FUNC = /^(C|Td|R|Ti|Tn|To|Tr|Tc|Ta|Te|Tj|Tm)/;
-const isFunc = m => m.slice(1).split('/').every(s => FUNC.test(s));
+const isFunc = m => { const g = m.slice(1).split('/'); return g.some(s => FUNC.test(s)) && g.every(s => FUNC.test(s) || /^S[php]/.test(s)); };
 const STOP = new Set('și sau de din la în pe cu a al ale ai alor să că iar dar ci nu un o i îl le l-a s-a v-a ne vă te se mi ți îi au este sunt pentru ca ce care cum când dacă dar însă decât mai prin spre către'.split(' '));
 const onlyStop = s => s.toLowerCase().split(/[^a-zăâîșțşţ-]+/).filter(Boolean).every(w => STOP.has(w));
 const L = /[A-Za-zĂÂÎȘȚăâîșțŞşŢţ]/;

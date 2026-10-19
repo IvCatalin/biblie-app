@@ -88,7 +88,7 @@ H4671: { d: 'pleavă.', x: 'Moț, „pleavă, coajă ușoară”, e ceea ce vân
 H2219: { d: 'a vântura.', x: 'Zara, „a vântura, a împrăștia”, e verbul separării boabelor de pleavă prin vânt. Aici vântul însuși îi ia pe dușmani ca pe o pleavă.' },
 H7307: { d: 'vânt, duh.', x: 'Ruah, „vânt, suflu, duh”, e același cuvânt pentru vânt și pentru Duhul lui Dumnezeu (Geneza 1:2). În 41:16 e vântul care ridică pleava, instrument al judecății divine.' },
 H5591: { d: 'furtună, vijelie.', x: 'Sa’ara, „furtună, vijelie”, este vântul puternic cu care DOMNUL răspunde (Iov 38:1; 2 Împărați 2:1, 11). Aici împrăștie dușmanii lui Israel.' },
-'H6327+H853': { d: 'îi va risipi.', x: '„Tafiț otam”, „îi va risipi” (pus, „a împrăștia”): verbul apare la răsturnarea turnului Babel (Geneza 11:8). Împrăștierea dușmanilor lui Israel e totală.' },
+'H6327': { d: 'îi va risipi.', x: '„Tafiț otam”, „îi va risipi” (pus, „a împrăștia”): verbul apare la răsturnarea turnului Babel (Geneza 11:8). Împrăștierea dușmanilor lui Israel e totală.' },
 H1523: { d: 'a se bucura.', x: 'Gil, „a se bucura, a exulta”, este o bucurie care se manifestă prin mișcare, aproape un dans. Israel, de la mirare și teamă, ajunge la bucurie în DOMNUL.' },
 H1984: { d: 'a lăuda.', x: 'Halal, „a lăuda, a face să strălucească”, e rădăcina din „haleluia”, „lăudați pe Domnul”. În forma hitpael (tithalal) înseamnă „te vei lăuda în Domnul”: lauda nu e a omului, ci a Lui.' }
 };
