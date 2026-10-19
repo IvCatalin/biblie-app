@@ -52,7 +52,7 @@ for (const v of ch.verses) {
   tg.forEach((t, i) => {
     const it = sp[i]; const label = `${v.v} #${i} «${t.t}»`;
     if (it === null || it === undefined) { if (t.greek) st.kept++; else errs.push(`${label}: fără greacă și fără decizie (folosește 0 pentru «LXX nu are corespondent»)`); return; }
-    if (it === 0) { delete t.greek; delete t.greek_def_ro; delete t.diff_ro; st.none++; return; }
+    if (it === 0 || (Array.isArray(it) && it[0] === 0)) { delete t.greek; delete t.greek_def_ro; delete t.diff_ro; if (Array.isArray(it) && it[1]) { t.diff_ro = it[1]; st.diff++; } st.none++; return; }
     const [g, gf, gd0, df] = it; const gd = gd0 || GL[g];
     if (!g) { errs.push(`${label}: lipsește g`); return; }
     if (!gd) { miss.add(g); errs.push(`${label}: lipsește definiția pentru «${g}» (adaug-o în lxx-gl.js sau ca al treilea element)`); return; }

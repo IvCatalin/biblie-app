@@ -1,0 +1,24 @@
+// Noah — Isaia 54:1-55:5 — cele 17 tag-uri rămase fără greacă, plus curățarea celor lipite pe fraze
+const N = { '54:1': 10, '54:5': 9, '54:9': 6, '54:14': 8, '54:15': 5, '54:16': 13, '54:17': 14, '55:2': 11, '55:3': 10, '55:5': 9 };
+const S = {}; for (const [v, n] of Object.entries(N)) S[v] = Array(n).fill(null);
+S['54:1'][4] = ['βοάω', 'βόησον', 'a striga, a țipa'];
+S['54:1'][9] = [0, 'Septuaginta nu are încheierea „a spus DOMNUL”.'];
+S['54:5'][5] = ['θεός', 'Θεὸς', 'Dumnezeu', 'Ebraica are „Sfântul lui Israel” (qedoș Israel); Septuaginta are „Dumnezeul lui Israel” (Θεὸς Ἰσραήλ).'];
+S['54:5'][6] = ['Ἰσραήλ', 'Ἰσραήλ', 'Israel'];
+S['54:9'][3] = [0, 'Ebraica spune că DOMNUL a jurat să nu mai treacă apele lui Noe peste pământ; Septuaginta are altă formulare: i-a jurat pământului să nu se mai mânie pe Israel, fără imaginea „apelor care trec”.'];
+S['54:14'][7] = ['σύ', 'σοι', 'tu, ție'];
+S['54:15'][2] = ['ἐγώ', 'ἐμοῦ', 'eu, Mine', 'Ebraica are „dacă nu are nimic de la Mine” (efes me’oti); Septuaginta are „prin Mine” (δι’ ἐμοῦ): străinii vin prin Dumnezeu.'];
+S['54:16'][11] = ['ἀπώλεια', 'ἀπώλειαν', 'pieire, nimicire', 'Ebraica spune că DOMNUL a creat și distrugătorul (mașhit); Septuaginta are „nu te-am creat spre pieire”, deci un sens opus.'];
+S['54:17'][1] = ['σύ', 'σέ', 'tu, tine'];
+S['54:17'][11] = ['ἐγώ', 'μοι', 'eu, Mine'];
+S['55:2'][2] = [0, 'Septuaginta nu are „pâine” (lehem): „De ce vă prețuiți argintul?”'];
+S['55:2'][5] = [0, 'Septuaginta omite „Ascultați atent de Mine”.'];
+S['55:2'][6] = 0;
+S['55:3'][1] = ['ἐπακολουθέω', 'ἐπακολουθήσατε', 'a urma, a merge după', 'Ebraica are „veniți la Mine”; Septuaginta are „urmați căile Mele” (ταῖς ὁδοῖς μου).'];
+S['55:3'][9] = ['πιστός', 'πιστά', 'credincios, de încredere'];
+S['55:5'][0] = 0;
+S['55:5'][5] = ['κύριος', 'Κυρίου', 'Domnul; DOMNUL'];
+S['55:5'][6] = ['θεός', 'θεοῦ', 'Dumnezeu'];
+S['55:5'][7] = ['ἅγιος', 'ἁγίου', 'sfânt'];
+S['55:5'][8] = ['δοξάζω', 'ἐδόξασέν', 'a slăvi, a preamări'];
+module.exports = S;
