@@ -54636,34 +54636,37 @@
      "translit": "Vaikrevu iemēi-David lamut vaitzav et-Șlomo veno lēmor.",
      "tokens": [
       {
-       "t": "Și s-au apropiat",
-       "w": "Și s-au apropiat",
+       "t": "Și "
+      },
+      {
+       "t": "s-au apropiat",
+       "w": "s-au apropiat",
        "heb": "וַיִּקְרְבוּ",
        "translit": "vaikrevu",
        "strong": "H7126",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și s-au apropiat (vaikrevu)",
-       "dict_ro": "Formula „zilele lui David să moară” marchează solemn trecerea finală de autoritate, chiar înainte de ultimele sale porunci către Solomon.",
-       "greek": "ἤγγισαν αἱ ἡμέραι Δαυεὶδ ἀποθανεῖν αὐτόν (engisan hai hemerai Daueid apothanein auton)",
-       "greek_def_ro": "ἤγγισαν αἱ ἡμέραι Δαυεὶδ ἀποθανεῖν αὐτόν (engisan hai hemerai Daueid apothanein auton) — s-au apropiat zilele lui David ca să moară."
+       "def_ro": "s-au apropiat",
+       "dict_ro": "Qarav, „a se apropia”, se spune și despre moarte: „s-au apropiat zilele lui Israel să moară” (Geneza 47:29). Aceeași formulă îl înfățișează pe Iacov și pe David la sfârșitul vieții: un părinte care își cheamă fiul ca să-i lase o poruncă.",
+       "greek": "ἐγγίζω (engizo)",
+       "greek_def_ro": "ἐγγίζω (engizo) — a se apropia"
       },
       {
        "t": " "
       },
       {
-       "t": "zilele lui",
-       "w": "zilele lui",
+       "t": "zilele",
+       "w": "zilele",
        "heb": "יְמֵי",
        "translit": "iemē",
        "strong": "H3117",
        "pos": "substantiv, masculin plural construct",
-       "def_ro": "zilele lui (iemē)",
-       "dict_ro": "Formula „zilele lui David să moară” marchează solemn trecerea finală de autoritate, chiar înainte de ultimele sale porunci către Solomon.",
-       "greek": "ἤγγισαν αἱ ἡμέραι Δαυεὶδ ἀποθανεῖν αὐτόν (engisan hai hemerai Daueid apothanein auton)",
-       "greek_def_ro": "ἤγγισαν αἱ ἡμέραι Δαυεὶδ ἀποθανεῖν αὐτόν (engisan hai hemerai Daueid apothanein auton) — s-au apropiat zilele lui David ca să moară."
+       "def_ro": "zilele",
+       "dict_ro": "Iom, „zi”, este cuvântul din prima zi a creației (Geneza 1:5), dar în Biblie înseamnă și o perioadă de viață sau de domnie. „Zilele lui David” sunt anii lui, care se apropie de capăt.",
+       "greek": "ἡμέρα (hemera)",
+       "greek_def_ro": "ἡμέρα (hemera) — zi"
       },
       {
-       "t": " "
+       "t": " lui "
       },
       {
        "t": "David",
@@ -54672,10 +54675,10 @@
        "translit": "david",
        "strong": "H1732",
        "pos": "nume propriu",
-       "def_ro": "David (david)",
-       "dict_ro": "David, întemeietorul dinastiei, își transmite aici testamentul politic și spiritual fiului și succesorului său.",
-       "greek": "ἤγγισαν αἱ ἡμέραι Δαυεὶδ ἀποθανεῖν αὐτόν (engisan hai hemerai Daueid apothanein auton)",
-       "greek_def_ro": "ἤγγισαν αἱ ἡμέραι Δαυεὶδ ἀποθανεῖν αὐτόν (engisan hai hemerai Daueid apothanein auton) — s-au apropiat zilele lui David ca să moară."
+       "def_ro": "David",
+       "dict_ro": "David, „iubit”, este regele ales de Dumnezeu: Duhul DOMNULUI a venit peste el din ziua ungerii (1 Samuel 16:13). El este modelul regelui pentru toate generațiile, iar Dumnezeu i-a făgăduit un tron care nu se va stinge.",
+       "greek": "Δαυίδ (Dauid)",
+       "greek_def_ro": "Δαυίδ (Dauid) — David"
       },
       {
        "t": " "
@@ -54687,70 +54690,74 @@
        "translit": "lamut",
        "strong": "H4191",
        "pos": "verb, qal infinitiv",
-       "def_ro": "să moară (lamut)",
-       "dict_ro": "Formula „zilele lui David să moară” marchează solemn trecerea finală de autoritate, chiar înainte de ultimele sale porunci către Solomon.",
-       "greek": "ἤγγισαν αἱ ἡμέραι Δαυεὶδ ἀποθανεῖν αὐτόν (engisan hai hemerai Daueid apothanein auton)",
-       "greek_def_ro": "ἤγγισαν αἱ ἡμέραι Δαυεὶδ ἀποθανεῖν αὐτόν (engisan hai hemerai Daueid apothanein auton) — s-au apropiat zilele lui David ca să moară."
+       "def_ro": "să moară",
+       "dict_ro": "Mut, „a muri”, este cuvântul avertismentului din grădina Edenului: „vei muri negreșit” (Geneza 2:17). Cartea Regilor spune simplu și cu cinste că regele David se apropie de moarte, fără ocolișuri.",
+       "greek": "ἀποθνῄσκω (apothnesko)",
+       "greek_def_ro": "ἀποθνῄσκω (apothnesko) — a muri"
       },
       {
-       "t": " "
+       "t": " și el "
       },
       {
-       "t": "și el l-a instruit",
-       "w": "și el l-a instruit",
+       "t": "l-a instruit",
+       "w": "l-a instruit",
        "heb": "וַיְצַו",
        "translit": "vaițav",
        "strong": "H6680",
        "pos": "verb, piel imperfect consecutiv",
-       "def_ro": "și a poruncit (vaițav)",
-       "dict_ro": "Instrucțiunile lui David către Solomon combină înțelepciune spirituală (ascultarea de DOMNUL) cu ordine politice precise.",
-       "greek": "ἀπεκρίνατο Σαλωμὼν υἱῷ αὐτοῦ λέγων (apekrinato Salomon hyio autou legon)",
-       "greek_def_ro": "ἀπεκρίνατο Σαλωμὼν υἱῷ αὐτοῦ λέγων (apekrinato Salomon hyio autou legon) — a răspuns Solomon fiului lui, spunând."
+       "def_ro": "a poruncit",
+       "dict_ro": "Țivah, „a porunci, a rândui”, este verbul prin care Dumnezeu dă prima poruncă omului (Geneza 2:16). David nu-i dă fiului său un sfat obișnuit, ci o poruncă de testament, o ultimă dispoziție dată cu autoritate.",
+       "greek": "ἐντέλλομαι (entellomai)",
+       "greek_def_ro": "ἐντέλλομαι (entellomai) — a porunci",
+       "diff_ro": "Ebraica: „l-a instruit” (vaițav); Septuaginta: „a poruncit” (ἐνετείλατο)."
       },
       {
-       "t": " "
+       "t": " pe "
       },
       {
-       "t": "pe fiul său",
-       "w": "pe fiul său",
+       "t": "fiul său",
+       "w": "fiul său",
        "heb": "בְנוֹ",
        "translit": "veno",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "fiul lui (veno)",
-       "dict_ro": "Instrucțiunile lui David către Solomon combină înțelepciune spirituală cu ordine politice precise.",
-       "greek": "ἀπεκρίνατο Σαλωμὼν υἱῷ αὐτοῦ λέγων (apekrinato Salomon hyio autou legon)",
-       "greek_def_ro": "ἀπεκρίνατο Σαλωμὼν υἱῷ αὐτοῦ λέγων (apekrinato Salomon hyio autou legon) — a răspuns Solomon fiului lui, spunând."
+       "def_ro": "fiul său",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
        "t": " "
       },
       {
-       "t": "Solomon,",
-       "w": "Solomon,",
+       "t": "Solomon",
+       "w": "Solomon",
        "heb": "שְׁלֹמֹה",
        "translit": "șelomo",
        "strong": "H8010",
        "pos": "nume propriu",
-       "def_ro": "Solomon, (șelomo)",
-       "dict_ro": "Solomon, viitorul rege, primește aici ultimele cuvinte ale tatălui său, model pentru toată domnia care va urma.",
-       "greek": "ἀπεκρίνατο Σαλωμὼν υἱῷ αὐτοῦ λέγων (apekrinato Salomon hyio autou legon)",
-       "greek_def_ro": "ἀπεκρίνατο Σαλωμὼν υἱῷ αὐτοῦ λέγων (apekrinato Salomon hyio autou legon) — a răspuns Solomon fiului lui, spunând."
+       "def_ro": "Solomon",
+       "dict_ro": "Șelomo, Solomon, vine din șalom, „pace”: David l-a avut cu Batșeba, iar DOMNUL l-a iubit (2 Samuel 12:24). El este fiul care preia tronul și primește la început sfaturile moștenite ale tatălui său.",
+       "greek": "Σαλωμών (Salomon)",
+       "greek_def_ro": "Σαλωμών (Salomon) — Solomon"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "spunând:",
-       "w": "spunând:",
+       "t": "spunând",
+       "w": "spunând",
        "heb": "לֵאמֹר",
        "translit": "lēmor",
        "strong": "H559",
        "pos": "verb, qal infinitiv",
-       "def_ro": "spunând: (lēmor)",
-       "dict_ro": "Instrucțiunile lui David către Solomon combină înțelepciune spirituală cu ordine politice precise.",
-       "greek": "ἀπεκρίνατο Σαλωμὼν υἱῷ αὐτοῦ λέγων (apekrinato Salomon hyio autou legon)",
-       "greek_def_ro": "ἀπεκρίνατο Σαλωμὼν υἱῷ αὐτοῦ λέγων (apekrinato Salomon hyio autou legon) — a răspuns Solomon fiului lui, spunând."
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
+      },
+      {
+       "t": ":"
       }
      ],
      "textCompare": [
@@ -54762,10 +54769,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "Καὶ ἤγγισαν αἱ ἡμέραι Δαυεὶδ ἀποθανεῖν αὐτόν, καὶ ἀπεκρίνατο Σαλωμὼν υἱῷ αὐτοῦ λέγων",
+       "original": "καὶ ἤγγισαν αἱ ἡμέραι Δαυιδ ἀποθανεῖν αὐτόν καὶ ἐνετείλατο τῷ Σαλωμων υἱῷ αὐτοῦ λέγων",
        "greek": true,
-       "translation": "„Și s-au apropiat zilele lui David ca să moară, și a răspuns lui Solomon, fiul lui, zicând.”",
-       "note": "LXX redă „l-a instruit/i-a poruncit” (וַיְצַו) prin „a răspuns” (ἀπεκρίνατο) — o divergență reală de verb, care presupune un dialog anterior nemenționat explicit în TM."
+       "translation": "„Și s-au apropiat zilele lui David ca să moară el, și a poruncit lui Solomon, fiul său, zicând:”",
+       "note": "LXX redă „l-a instruit” (vaițav) prin „a poruncit” (ἐνετείλατο), iar „să moară” prin „ca să moară el” (ἀποθανεῖν αὐτόν); sensul rămâne același."
       }
      ],
      "refs": [
@@ -54797,45 +54804,64 @@
        "t": "„"
       },
       {
-       "t": "Eu merg",
-       "w": "Eu merg",
-       "heb": "אָנֹכִי הֹלֵךְ",
-       "translit": "anohi holēh",
-       "strong": "H1980",
-       "pos": "pronume personal + verb, qal participiu",
-       "def_ro": "eu merg (anohi holēh)",
-       "dict_ro": "„Calea întregului pământ” e o formulă eufemistică pentru moarte, comună în literatura biblică și rabinică."
+       "t": "Eu",
+       "w": "Eu",
+       "heb": "אָנֹכִי",
+       "translit": "anohi",
+       "strong": "H595",
+       "pos": "pronume personal",
+       "def_ro": "eu",
+       "dict_ro": "Anohi este forma mai solemnă a lui „eu”, cea cu care începe porunca de pe Sinai: „Eu sunt DOMNUL, Dumnezeul tău” (Exodul 20:2). David vorbește simplu: spune doar „eu merg”, ca un om care își cunoaște sfârșitul.",
+       "greek": "ἐγώ (ego)",
+       "greek_def_ro": "ἐγώ (ego) — eu"
       },
       {
        "t": " "
       },
       {
-       "t": "pe calea",
-       "w": "pe calea",
+       "t": "merg",
+       "w": "merg",
+       "heb": "הֹלֵךְ",
+       "translit": "holēh",
+       "strong": "H1980",
+       "pos": "verb, qal participiu",
+       "def_ro": "merg",
+       "dict_ro": "Halah descrie mersul propriu-zis, dar și felul de a trăi: „a umbla în căile lui DOMNUL” înseamnă a trăi după poruncile Lui. Din aceeași rădăcină vine halaha, termenul rabinic pentru legea trăită, „calea pe care se umblă”.",
+       "greek": "πορεύομαι (poreuomai)",
+       "greek_def_ro": "πορεύομαι (poreuomai) — a merge, a umbla"
+      },
+      {
+       "t": " pe "
+      },
+      {
+       "t": "calea",
+       "w": "calea",
        "heb": "בְּדֶרֶךְ",
        "translit": "bedereh",
        "strong": "H1870",
        "pos": "substantiv, masculin și feminin singular construct",
-       "def_ro": "pe calea (bedereh)",
-       "dict_ro": "„Calea întregului pământ” e o formulă eufemistică pentru moarte, comună în literatura biblică și rabinică.",
-       "greek": "Ἐγώ εἰμι πορεύομαι ἐν ὁδῷ πάσης τῆς γῆς (Ego eimi poreuomai en hodo pases tes ges)",
-       "greek_def_ro": "Ἐγώ εἰμι πορεύομαι ἐν ὁδῷ πάσης τῆς γῆς (Ego eimi poreuomai en hodo pases tes ges) — eu merg pe calea întregului pământ."
+       "def_ro": "calea",
+       "dict_ro": "Dereh, „drumul”, e în Biblie imaginea felului de a trăi: „căile lui DOMNUL” sunt poruncile Lui, iar „calea cea rea” e purtarea celui care le părăsește. Isaia făgăduiește că Dumnezeu va face drum chiar prin pustiu (Isaia 43:19).",
+       "greek": "ὁδός (hodos)",
+       "greek_def_ro": "ὁδός (hodos) — cale"
       },
       {
        "t": " "
       },
       {
-       "t": "întregului pământ.",
-       "w": "întregului pământ.",
+       "t": "întregului pământ",
+       "w": "întregului pământ",
        "heb": "כָּל הָאָרֶץ",
        "translit": "kal haareț",
-       "strong": "H776",
+       "strong": "H3605",
        "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular",
-       "def_ro": "a tot pământul. (kal haareț)",
-       "dict_ro": "„Calea întregului pământ” e o formulă eufemistică pentru moarte, comună în literatura biblică și rabinică."
+       "def_ro": "a întregului pământ",
+       "dict_ro": "„Kol haaretz”, „tot pământul”, se citește și în Iosua 23:14: „iată, astăzi merg pe calea întregului pământ”. Expresia înseamnă moartea, drumul pe care îl face orice om. David vorbește la fel ca Iosua în ultimele lui cuvinte.",
+       "greek": "πᾶσα ἡ γῆ (pasa he ge)",
+       "greek_def_ro": "πᾶσα ἡ γῆ (pasa he ge) — tot pământul"
       },
       {
-       "t": " "
+       "t": ". "
       },
       {
        "t": "Întărește-te",
@@ -54844,23 +54870,29 @@
        "translit": "vehazakta",
        "strong": "H2388",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și te vei întări (vehazakta)",
-       "dict_ro": "Îndemnul „întărește-te și fii bărbat” pregătește transmiterea responsabilității regale lui Solomon, ecou direct al cuvintelor adresate lui Iosua.",
-       "greek": "ἰσχύσεις καὶ ἔσῃ εἰς ἄνδρα (ischyseis kai ese eis andra)",
-       "greek_def_ro": "ἰσχύσεις καὶ ἔσῃ εἰς ἄνδρα (ischyseis kai ese eis andra) — vei fi tare și vei fi bărbat."
+       "def_ro": "întărește-te",
+       "dict_ro": "Hazak înseamnă „a fi tare”; la forma hifil, „a apuca cu putere, a ține strâns”. Din aceeași rădăcină vine urarea hazak, „fii tare”, rostită în sinagogă la încheierea citirii fiecărei cărți a Torei.",
+       "greek": "ἰσχύω (ischyo)",
+       "greek_def_ro": "ἰσχύω (ischyo) — a fi puternic",
+       "diff_ro": "Ebraica: „întărește-te” (imperativ, vehazakta); Septuaginta: „te vei întări” (viitor)."
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și fii bărbat.",
-       "w": "și fii bărbat.",
+       "t": "fii bărbat",
+       "w": "fii bărbat",
        "heb": "וְהָיִיתָ לְאִישׁ",
        "translit": "vehaita leiș",
-       "strong": "H376",
+       "strong": "H1961",
        "pos": "verb, qal perfect consecutiv + substantiv, masculin singular",
-       "def_ro": "și vei fi pentru un bărbat. (vehaita leiș)",
-       "dict_ro": "Îndemnul „întărește-te și fii bărbat” pregătește transmiterea responsabilității regale lui Solomon, ecou direct al cuvintelor adresate lui Iosua."
+       "def_ro": "fii bărbat",
+       "dict_ro": "„Fii bărbat” (heita le-iș) este un îndemn la curaj și la maturitate: iș, „bărbat”, înseamnă aici un om pe deplin, în stare să poarte greutatea unei domnii. Solomon, tânăr, trebuie să crească repede în rolul lui.",
+       "greek": "ἀνήρ (aner)",
+       "greek_def_ro": "ἀνήρ (aner) — bărbat"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -54911,16 +54943,19 @@
      "translit": "Veșamarta et-mișmeret ADONAI Eloheha lalehet bidrahav lișmor hukotav mitzvotav umișpatav veēdvotav kakatuv betorat Moșē lemaan taskil ēt kol-așer taasē veēt kol-așer tifnē șam.",
      "tokens": [
       {
-       "t": "Și păzește",
-       "w": "Și păzește",
+       "t": "Și "
+      },
+      {
+       "t": "păzește",
+       "w": "păzește",
        "heb": "וְשָׁמַרְתָּ",
        "translit": "veșamarta",
        "strong": "H8104",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și vei păzi (veșamarta)",
-       "dict_ro": "Condiția centrală a testamentului lui David: păzirea poruncilor DOMNULUI garantează succesul oricărei acțiuni a lui Solomon.",
-       "greek": "φυλάξεις φυλακὴν θεοῦ σου (phylaxeis phylaken theou sou)",
-       "greek_def_ro": "φυλάξεις φυλακὴν θεοῦ σου (phylaxeis phylaken theou sou) — vei păzi paza Dumnezeului tău."
+       "def_ro": "păzește",
+       "dict_ro": "Șamar înseamnă a păzi, a veghea asupra unui lucru; „a păzi poruncile” înseamnă a le împlini cu grijă. Omul a fost pus în grădina Edenului „ca s-o lucreze și s-o păzească” (Geneza 2:15).",
+       "greek": "φυλάσσω (phylasso)",
+       "greek_def_ro": "φυλάσσω (phylasso) — a păzi"
       },
       {
        "t": " "
@@ -54932,43 +54967,43 @@
        "translit": "mișmeret",
        "strong": "H4931",
        "pos": "substantiv, feminin singular construct",
-       "def_ro": "sarcina (mișmeret)",
-       "dict_ro": "Condiția centrală a testamentului lui David: păzirea poruncilor DOMNULUI garantează succesul oricărei acțiuni a lui Solomon.",
-       "greek": "φυλάξεις φυλακὴν θεοῦ σου (phylaxeis phylaken theou sou)",
-       "greek_def_ro": "φυλάξεις φυλακὴν θεοῦ σου (phylaxeis phylaken theou sou) — vei păzi paza Dumnezeului tău."
+       "def_ro": "paza",
+       "dict_ro": "Mișmeret, „pază, slujbă”, este datoria de strajă a preoților: „să păziți paza DOMNULUI” (Leviticul 8:35). David îi cere regelui nu doar să conducă, ci să păzească o încredințare sfântă, ca un străjer.",
+       "greek": "φυλακή (phylake)",
+       "greek_def_ro": "φυλακή (phylake) — pază, slujbă"
       },
       {
        "t": " "
       },
       {
-       "t": "DOMNULUI,",
-       "w": "DOMNULUI,",
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
        "heb": "יְהוָה",
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
-       "def_ro": "DOMNULUI, (Adonai)",
-       "dict_ro": "Condiția centrală a testamentului lui David: păzirea poruncilor DOMNULUI garantează succesul oricărei acțiuni a lui Solomon.",
-       "greek": "φυλάξεις φυλακὴν θεοῦ σου (phylaxeis phylaken theou sou)",
-       "greek_def_ro": "φυλάξεις φυλακὴν θεοῦ σου (phylaxeis phylaken theou sou) — vei păzi paza Dumnezeului tău."
+       "def_ro": "Domnului",
+       "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn; DOMNUL"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "Dumnezeul tău,",
-       "w": "Dumnezeul tău,",
+       "t": "Dumnezeul tău",
+       "w": "Dumnezeul tău",
        "heb": "אֱלֹהֶיךָ",
        "translit": "eloheha",
        "strong": "H430",
        "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "Dumnezeul tău, (eloheha)",
-       "dict_ro": "Condiția centrală a testamentului lui David: păzirea poruncilor DOMNULUI garantează succesul oricărei acțiuni a lui Solomon.",
-       "greek": "φυλάξεις φυλακὴν θεοῦ σου (phylaxeis phylaken theou sou)",
-       "greek_def_ro": "φυλάξεις φυλακὴν θεοῦ σου (phylaxeis phylaken theou sou) — vei păzi paza Dumnezeului tău."
+       "def_ro": "Dumnezeul tău",
+       "dict_ro": "Elohim are formă de plural, dar, spus despre Dumnezeul lui Israel, se construiește cu verbul la singular — un „plural al măreției”, care cuprinde plinătatea puterii divine. Același cuvânt desemnează și zeii popoarelor, iar contextul hotărăște sensul. Tradiția rabinică leagă numele Elohim de atributul dreptății (midat hadin), iar Tetragrama de atributul îndurării (midat harahamim).",
+       "greek": "θεός (theos)",
+       "greek_def_ro": "θεός (theos) — Dumnezeu"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
        "t": "umblând",
@@ -54977,73 +55012,73 @@
        "translit": "lalehet",
        "strong": "H3212",
        "pos": "verb, qal infinitiv",
-       "def_ro": "ca să umbli (lalehet)",
-       "dict_ro": "Lista completă — decrete, porunci, judecăți, mărturii — rezumă întreaga Lege, nu doar câteva porunci alese.",
-       "greek": "τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα (tou poreuesthai en tais hodois autou, phylassein tas entolas autou kai ta dikaiomata kai ta krimata)",
-       "greek_def_ro": "τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα (tou poreuesthai en tais hodois autou, phylassein tas entolas autou kai ta dikaiomata kai ta krimata) — mergând pe căile lui, păzind poruncile, hotărârile și judecățile lui."
+       "def_ro": "umblând",
+       "dict_ro": "Sunt formele verbului halah, „a merge”, în care cade h-ul inițial (de pildă elekh, telekh, holikh). La forma cauzativă (holikh), verbul înseamnă „a face să meargă”, a conduce pe cineva, ca în imaginea lui Dumnezeu care călăuzește pe orbi pe un drum necunoscut (Isaia 42:16).",
+       "greek": "πορεύομαι (poreuomai)",
+       "greek_def_ro": "πορεύομαι (poreuomai) — a merge, a umbla"
       },
       {
-       "t": " "
+       "t": " pe "
       },
       {
-       "t": "pe căile Lui",
-       "w": "pe căile Lui",
+       "t": "căile Lui",
+       "w": "căile Lui",
        "heb": "בִּדְרָכָיו",
        "translit": "bidrahaiv",
        "strong": "H1870",
        "pos": "substantiv, masculin și feminin plural construct + sufix",
-       "def_ro": "pe căile lui (bidrahaiv)",
-       "dict_ro": "Lista completă — decrete, porunci, judecăți, mărturii — rezumă întreaga Lege, nu doar câteva porunci alese.",
-       "greek": "τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα (tou poreuesthai en tais hodois autou, phylassein tas entolas autou kai ta dikaiomata kai ta krimata)",
-       "greek_def_ro": "τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα (tou poreuesthai en tais hodois autou, phylassein tas entolas autou kai ta dikaiomata kai ta krimata) — mergând pe căile lui, păzind poruncile, hotărârile și judecățile lui."
+       "def_ro": "căile Lui",
+       "dict_ro": "Dereh, „drumul”, e în Biblie imaginea felului de a trăi: „căile lui DOMNUL” sunt poruncile Lui, iar „calea cea rea” e purtarea celui care le părăsește. Isaia făgăduiește că Dumnezeu va face drum chiar prin pustiu (Isaia 43:19).",
+       "greek": "ὁδός (hodos)",
+       "greek_def_ro": "ὁδός (hodos) — cale"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și păstrând",
-       "w": "și păstrând",
+       "t": "păstrând",
+       "w": "păstrând",
        "heb": "לִשְׁמֹר",
        "translit": "lișmor",
        "strong": "H8104",
        "pos": "verb, qal infinitiv",
-       "def_ro": "ca să păzești (lișmor)",
-       "dict_ro": "Lista completă — decrete, porunci, judecăți, mărturii — rezumă întreaga Lege, nu doar câteva porunci alese.",
-       "greek": "τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα (tou poreuesthai en tais hodois autou, phylassein tas entolas autou kai ta dikaiomata kai ta krimata)",
-       "greek_def_ro": "τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα (tou poreuesthai en tais hodois autou, phylassein tas entolas autou kai ta dikaiomata kai ta krimata) — mergând pe căile lui, păzind poruncile, hotărârile și judecățile lui."
+       "def_ro": "păzind",
+       "dict_ro": "Șamar înseamnă a păzi, a veghea asupra unui lucru; „a păzi poruncile” înseamnă a le împlini cu grijă. Omul a fost pus în grădina Edenului „ca s-o lucreze și s-o păzească” (Geneza 2:15).",
+       "greek": "φυλάσσω (phylasso)",
+       "greek_def_ro": "φυλάσσω (phylasso) — a păzi"
       },
       {
        "t": " "
       },
       {
-       "t": "decretele Lui,",
-       "w": "decretele Lui,",
+       "t": "decretele Lui",
+       "w": "decretele Lui",
        "heb": "חֻקֹּתָיו",
        "translit": "hukotaiv",
        "strong": "H2708",
        "pos": "substantiv, masculin și feminin plural construct + sufix",
-       "def_ro": "decretele lui, (hukotaiv)",
-       "dict_ro": "Lista completă — decrete, porunci, judecăți, mărturii — rezumă întreaga Lege, nu doar câteva porunci alese.",
-       "greek": "τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα (tou poreuesthai en tais hodois autou, phylassein tas entolas autou kai ta dikaiomata kai ta krimata)",
-       "greek_def_ro": "τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα (tou poreuesthai en tais hodois autou, phylassein tas entolas autou kai ta dikaiomata kai ta krimata) — mergând pe căile lui, păzind poruncile, hotărârile și judecățile lui."
+       "def_ro": "rânduielile Lui",
+       "dict_ro": "Huqqah, „rânduială”, vine din „a grava, a întipări”, și înseamnă o lege fixă, ca sărbătoarea păstrată „ca rânduială veșnică” (Exodul 12:14). Rânduielile sunt cele care nu se discută și nu se schimbă, ci se păzesc.",
+       "greek": "δικαίωμα (dikaioma)",
+       "greek_def_ro": "δικαίωμα (dikaioma) — rânduială, decret"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "poruncile Lui,",
-       "w": "poruncile Lui,",
+       "t": "poruncile Lui",
+       "w": "poruncile Lui",
        "heb": "מִצְוֺתָיו",
        "translit": "mițvotaiv",
        "strong": "H4687",
        "pos": "substantiv, feminin plural construct + sufix",
-       "def_ro": "poruncile lui, (mițvotaiv)",
-       "dict_ro": "Lista completă — decrete, porunci, judecăți, mărturii — rezumă întreaga Lege, nu doar câteva porunci alese.",
-       "greek": "τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα (tou poreuesthai en tais hodois autou, phylassein tas entolas autou kai ta dikaiomata kai ta krimata)",
-       "greek_def_ro": "τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα (tou poreuesthai en tais hodois autou, phylassein tas entolas autou kai ta dikaiomata kai ta krimata) — mergând pe căile lui, păzind poruncile, hotărârile și judecățile lui."
+       "def_ro": "poruncile Lui",
+       "dict_ro": "Mițvah, „poruncă”, este cuvântul din Geneza 26:5: Avraam „a păzit poruncile Mele”. Poruncile sunt hotărâri date de Dumnezeu pentru fapte concrete, iar David le pomenește ca pe o listă completă a Legii.",
+       "greek": "ἐντολή (entole)",
+       "greek_def_ro": "ἐντολή (entole) — poruncă"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
        "t": "judecățile Lui",
@@ -55052,137 +55087,136 @@
        "translit": "umișpataiv",
        "strong": "H4941",
        "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "și judecățile lui (umișpataiv)",
-       "dict_ro": "Lista completă — decrete, porunci, judecăți, mărturii — rezumă întreaga Lege, nu doar câteva porunci alese.",
-       "greek": "τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα (tou poreuesthai en tais hodois autou, phylassein tas entolas autou kai ta dikaiomata kai ta krimata)",
-       "greek_def_ro": "τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα (tou poreuesthai en tais hodois autou, phylassein tas entolas autou kai ta dikaiomata kai ta krimata) — mergând pe căile lui, păzind poruncile, hotărârile și judecățile lui."
+       "def_ro": "judecățile Lui",
+       "dict_ro": "Mișpat, „judecată”, este hotărârea dreaptă din Lege: „ce lege dreaptă… ca toată această învățătură” (Deuteronomul 4:8). Judecățile fac parte din cele cinci cuvinte prin care David descrie întreaga Lege.",
+       "greek": "κρίμα (krima)",
+       "greek_def_ro": "κρίμα (krima) — judecată"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și mărturiile Lui,",
-       "w": "și mărturiile Lui,",
+       "t": "mărturiile Lui",
+       "w": "mărturiile Lui",
        "heb": "וְעֵדְוֺתָיו",
        "translit": "veēdvotaiv",
        "strong": "H5715",
        "pos": "substantiv, feminin plural construct + sufix",
-       "def_ro": "și mărturiile lui, (veēdvotaiv)",
-       "dict_ro": "Lista completă — decrete, porunci, judecăți, mărturii — rezumă întreaga Lege, nu doar câteva porunci alese.",
-       "greek": "τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα (tou poreuesthai en tais hodois autou, phylassein tas entolas autou kai ta dikaiomata kai ta krimata)",
-       "greek_def_ro": "τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα (tou poreuesthai en tais hodois autou, phylassein tas entolas autou kai ta dikaiomata kai ta krimata) — mergând pe căile lui, păzind poruncile, hotărârile și judecățile lui."
+       "def_ro": "mărturiile Lui",
+       "dict_ro": "Edut, „mărturie”, este numele tablelor puse în chivot: „vei pune în chivot mărturia” (Exodul 25:16). Mărturiile sunt poruncile ca atestări ale legământului dintre DOMNUL și popor.",
+       "diff_ro": "Septuaginta nu are „mărturiile Lui” (edvotav)."
       },
       {
-       "t": " "
+       "t": ", după cum "
       },
       {
-       "t": "după cum este scris",
-       "w": "după cum este scris",
+       "t": "este scris",
+       "w": "este scris",
        "heb": "כַּכָּתוּב",
        "translit": "kakatuv",
        "strong": "H3789",
        "pos": "verb, qal participiu pasiv",
-       "def_ro": "așa cum e scris (kakatuv)",
-       "dict_ro": "Trimiterea explicită la „Învățătura lui Moise” confirmă că legitimitatea regală a lui Solomon depinde de supunerea față de Tora, nu de putere proprie.",
-       "greek": "τὰ γεγραμμένα ἐν νόμῳ Μωυσέως (ta gegrammena en nomo Moyseos)",
-       "greek_def_ro": "τὰ γεγραμμένα ἐν νόμῳ Μωυσέως (ta gegrammena en nomo Moyseos) — cele scrise în legea lui Moise."
+       "def_ro": "scris",
+       "dict_ro": "Katav, „a scrie”, apare în formula „după cum este scris în cartea Legii lui Moise” (Iosua 8:31). Faptul că porunca este scrisă o face stabilă și cunoscută de toți, nu doar o tradiție vorbită.",
+       "greek": "γράφω (grapho)",
+       "greek_def_ro": "γράφω (grapho) — a scrie"
       },
       {
-       "t": " "
+       "t": " în "
       },
       {
-       "t": "în Învățătura lui",
-       "w": "în Învățătura lui",
+       "t": "Învățătura",
+       "w": "Învățătura",
        "heb": "בְּתוֹרַת",
        "translit": "betorat",
        "strong": "H8451",
        "pos": "substantiv, feminin singular construct",
-       "def_ro": "în învățătura lui (betorat)",
-       "dict_ro": "Trimiterea explicită la „Învățătura lui Moise” confirmă că legitimitatea regală a lui Solomon depinde de supunerea față de Tora, nu de putere proprie.",
-       "greek": "τὰ γεγραμμένα ἐν νόμῳ Μωυσέως (ta gegrammena en nomo Moyseos)",
-       "greek_def_ro": "τὰ γεγραμμένα ἐν νόμῳ Μωυσέως (ta gegrammena en nomo Moyseos) — cele scrise în legea lui Moise."
+       "def_ro": "Legea",
+       "dict_ro": "Tora înseamnă propriu-zis „învățătură, îndrumare”, din rădăcina iara, „a arăta direcția”. Desemnează fie o anumită învățătură, fie Legea dată la Sinai, fie cele cinci cărți ale lui Moise. Septuaginta a redat-o prin nomos, „lege”, ceea ce a îngustat sensul de „învățătură” spre cel juridic.",
+       "greek": "νόμος (nomos)",
+       "greek_def_ro": "νόμος (nomos) — lege",
+       "diff_ro": "Ebraica: „Învățătura” (torat); Septuaginta: „legea” (νόμῳ)."
       },
       {
-       "t": " "
+       "t": " lui "
       },
       {
-       "t": "Moise,",
-       "w": "Moise,",
+       "t": "Moise",
+       "w": "Moise",
        "heb": "מֹשֶׁה",
        "translit": "moșe",
        "strong": "H4872",
        "pos": "nume propriu",
-       "def_ro": "Moise, (moșe)",
-       "dict_ro": "Trimiterea explicită la „Învățătura lui Moise” confirmă că legitimitatea regală a lui Solomon depinde de supunerea față de Tora, nu de putere proprie.",
-       "greek": "τὰ γεγραμμένα ἐν νόμῳ Μωυσέως (ta gegrammena en nomo Moyseos)",
-       "greek_def_ro": "τὰ γεγραμμένα ἐν νόμῳ Μωυσέως (ta gegrammena en nomo Moyseos) — cele scrise în legea lui Moise."
+       "def_ro": "Moise",
+       "dict_ro": "Moșe, Moise, își are numele din „a scoate”: fiica lui Faraon „i-a pus numele Moise, căci din apă l-am scos” (Exodul 2:10). „Învățătura lui Moise” este Tora, cele cinci cărți primite prin el.",
+       "greek": "Μωυσῆς (Moyses)",
+       "greek_def_ro": "Μωυσῆς (Moyses) — Moise"
       },
       {
-       "t": " "
+       "t": ", ca "
       },
       {
-       "t": "ca să reușești",
-       "w": "ca să reușești",
-       "heb": "לְמַעַן תַּשְׂכִּיל",
-       "translit": "lemaan taskil",
+       "t": "să reușești",
+       "w": "să reușești",
+       "heb": "תַּשְׂכִּיל",
+       "translit": "taskil",
        "strong": "H7919",
-       "pos": "prepoziție + verb, hifil imperfect",
-       "def_ro": "ca să reușești (lemaan taskil)",
-       "dict_ro": "Succesul lui Solomon, „în tot ceea ce vei face”, e condiționat explicit de ascultarea de Lege, nu garantat necondiționat."
+       "pos": "verb, hifil imperfect",
+       "def_ro": "vei izbuti",
+       "dict_ro": "Sakal în forma cauzativă înseamnă „a reuși, a lucra cu înțelepciune”. Cuvântul din Iosua 1:7 spune: „ca să izbutești oriunde vei merge”. Succesul nu vine din putere, ci din ascultarea de Lege.",
+       "greek": "συνίημι (syniemi)",
+       "greek_def_ro": "συνίημι (syniemi) — a înțelege",
+       "diff_ro": "Ebraica: „ca să reușești” (taskil); Septuaginta: „ca să înțelegi” (συνίῃς)."
       },
       {
-       "t": " "
+       "t": " în "
       },
       {
-       "t": "în tot ceea ce",
-       "w": "în tot ceea ce",
+       "t": "tot ceea ce vei face",
+       "w": "tot ceea ce vei face",
+       "heb": "כָּל אֲשֶׁר תַּעֲשֶׂה",
+       "translit": "kal așer taase",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct + particulă relativă + verb, qal imperfect",
+       "def_ro": "tot ce vei face",
+       "dict_ro": "„Kol așer taase”, „tot ce vei face”, arată fiecare lucrare a regelui. Ca în Geneza 21:22 („Dumnezeu este cu tine în tot ce faci”), succesul depinde de prezența lui Dumnezeu în fiecare faptă, nu în cele mari.",
+       "greek": "ποιέω (poieo)",
+       "greek_def_ro": "ποιέω (poieo) — a face"
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "oriunde",
+       "w": "oriunde",
        "heb": "כָּל אֲשֶׁר",
        "translit": "kal așer",
-       "strong": "H834",
+       "strong": "H3605",
        "pos": "substantiv, masculin singular construct + particulă relativă",
-       "def_ro": "în tot ceea ce (kal așer)",
-       "dict_ro": "Succesul lui Solomon, „în tot ceea ce vei face”, e condiționat explicit de ascultarea de Lege, nu garantat necondiționat."
+       "def_ro": "în tot ce",
+       "dict_ro": "Kol, „tot, orice”, este un cuvânt scurt care cuprinde totul: „oriunde te vei îndrepta”. David întinde făgăduința la fiecare loc unde ar merge Solomon, nu doar la un singur fapt.",
+       "greek": "πᾶς (pas)",
+       "greek_def_ro": "πᾶς (pas) — tot",
+       "diff_ro": "Ebraica: „oriunde” (kol așer tifne șam); Septuaginta: „potrivit cu tot ce” (κατὰ πάντα ὅσα)."
       },
       {
        "t": " "
       },
       {
-       "t": "vei face",
-       "w": "vei face",
-       "heb": "תַּעֲשֶׂה",
-       "translit": "taase",
-       "strong": "H6213",
+       "t": "te vei îndrepta",
+       "w": "te vei îndrepta",
+       "heb": "תִּפְנֶה",
+       "translit": "tifne",
+       "strong": "H6437",
        "pos": "verb, qal imperfect",
-       "def_ro": "vei face (taase)",
-       "dict_ro": "Succesul lui Solomon, „în tot ceea ce vei face”, e condiționat explicit de ascultarea de Lege, nu garantat necondiționat.",
-       "greek": "συνήσεις ἃ ποιήσεις κατὰ πάντα ὅσα ἂν ἐντείλωμαί σοι (syneseis ha poieseis kata panta hosa an enteilomai soi)",
-       "greek_def_ro": "συνήσεις ἃ ποιήσεις κατὰ πάντα ὅσα ἂν ἐντείλωμαί σοι (syneseis ha poieseis kata panta hosa an enteilomai soi) — vei pricepe ce vei face, după toate câte ți le-am poruncit."
+       "def_ro": "te vei întoarce",
+       "dict_ro": "Panah, „a se întoarce, a se îndrepta”, spune despre cineva care își întoarce fața spre un loc. „Oriunde te vei îndrepta” cuprinde toate drumurile regelui; ele sunt cuprinse în făgăduință numai dacă păzește poruncile.",
+       "greek": "ἐντέλλομαι (entellomai)",
+       "greek_def_ro": "ἐντέλλομαι (entellomai) — a porunci",
+       "diff_ro": "Ebraica: „te vei îndrepta” (tifne); Septuaginta: „îți voi porunci” (ἐντείλωμαί σοι)."
       },
       {
-       "t": " "
-      },
-      {
-       "t": "și oriunde",
-       "w": "și oriunde",
-       "heb": "כָּל אֲשֶׁר",
-       "translit": "kal așer",
-       "strong": "H834",
-       "pos": "substantiv, masculin singular construct + particulă relativă",
-       "def_ro": "și în tot ce (vekal așer)",
-       "dict_ro": "Succesul lui Solomon, „în tot ceea ce vei face”, e condiționat explicit de ascultarea de Lege, nu garantat necondiționat."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "te vei îndrepta.",
-       "w": "te vei îndrepta.",
-       "heb": "תִּפְנֶה שָׁם",
-       "translit": "tifne șam",
-       "strong": "H8033",
-       "pos": "verb, qal imperfect + adverb",
-       "def_ro": "te vei întoarce acolo. (tifne șam)",
-       "dict_ro": "Succesul lui Solomon, „în tot ceea ce vei face”, e condiționat explicit de ascultarea de Lege, nu garantat necondiționat."
+       "t": "."
       }
      ],
      "textCompare": [
@@ -55194,10 +55228,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ φυλάξεις φυλακὴν θεοῦ σου τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ, φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα τὰ γεγραμμένα ἐν νόμῳ Μωυσέως, ἵνα συνήσεις ἃ ποιήσεις κατὰ πάντα ὅσα ἂν ἐντείλωμαί σοι·",
+       "original": "καὶ φυλάξεις τὴν φυλακὴν κυρίου τοῦ θεοῦ σου τοῦ πορεύεσθαι ἐν ταῖς ὁδοῖς αὐτοῦ φυλάσσειν τὰς ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα καὶ τὰ κρίματα τὰ γεγραμμένα ἐν νόμῳ Μωυσέως ἵνα συνίῃς ἃ ποιήσεις κατὰ πάντα ὅσα ἂν ἐντείλωμαί σοι",
        "greek": true,
-       "translation": "„Și vei păzi rânduiala Dumnezeului tău, ca să umbli pe căile Lui, să păzești poruncile Lui și rânduielile drepte și judecățile scrise în legea lui Moise, ca să înțelegi ce vei face, potrivit tuturor câte-ți voi porunci.”",
-       "note": "LXX înlocuiește ultima parte „oriunde te vei îndrepta” cu „potrivit tuturor câte-ți voi porunci” — o divergență reală de conținut, mutând accentul de la propria inițiativă a lui Solomon la poruncile suplimentare ale lui David."
+       "translation": "„Și vei păzi paza Domnului Dumnezeului tău, ca să umbli pe căile Lui, să păzești poruncile Lui, rânduielile și judecățile scrise în legea lui Moise, ca să înțelegi ce vei face, potrivit cu tot ce îți voi porunci.”",
+       "note": "LXX nu are „mărturiile Lui” (edvotav) și redă „ca să reușești” (taskil) prin „ca să înțelegi” (συνίῃς); în loc de „oriunde te vei îndrepta” are „potrivit cu tot ce îți voi porunci” (κατὰ πάντα ὅσα ἂν ἐντείλωμαί σοι), ceea ce mută accentul spre poruncile date de David."
       }
      ],
      "refs": [
@@ -55234,17 +55268,7 @@
      "translit": "Lemaan iakim ADONAI et-devaro așer dibēr alai lēmor im-ișmeru vaneha et-darkam lalehet lefanai beemet behol-levavam uvehol-nafșam lēmor lo-ikarēt leha iș mēal kisē Israēl.",
      "tokens": [
       {
-       "t": "Ca",
-       "w": "Ca",
-       "heb": "לְמַעַן",
-       "translit": "lemaan",
-       "strong": "H4616",
-       "pos": "prepoziție",
-       "def_ro": "pentru ca (lemaan)",
-       "dict_ro": "Promisiunea dinastică — un urmaș pe tronul lui Israel neîntrerupt — depinde explicit de fidelitatea urmașilor lui David, nu e necondiționată."
-      },
-      {
-       "t": " "
+       "t": "Ca "
       },
       {
        "t": "DOMNUL",
@@ -55253,10 +55277,10 @@
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
-       "def_ro": "DOMNUL (Adonai)",
-       "dict_ro": "Promisiunea dinastică — un urmaș pe tronul lui Israel neîntrerupt — depinde explicit de fidelitatea urmașilor lui David, nu e necondiționată.",
-       "greek": "στήσῃ Κύριος τὸν λόγον αὐτοῦ ὃν ἐλάλησεν λέγων (stese Kyrios ton logon autou hon elalesen legon)",
-       "greek_def_ro": "στήσῃ Κύριος τὸν λόγον αὐτοῦ ὃν ἐλάλησεν λέγων (stese Kyrios ton logon autou hon elalesen legon) — să întărească Domnul cuvântul lui pe care l-a vorbit."
+       "def_ro": "Domnul",
+       "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn; DOMNUL"
       },
       {
        "t": " "
@@ -55268,10 +55292,11 @@
        "translit": "iakim",
        "strong": "H6965",
        "pos": "verb, hifil imperfect",
-       "def_ro": "să împlinească (iakim)",
-       "dict_ro": "Promisiunea dinastică — un urmaș pe tronul lui Israel neîntrerupt — depinde explicit de fidelitatea urmașilor lui David, nu e necondiționată.",
-       "greek": "στήσῃ Κύριος τὸν λόγον αὐτοῦ ὃν ἐλάλησεν λέγων (stese Kyrios ton logon autou hon elalesen legon)",
-       "greek_def_ro": "στήσῃ Κύριος τὸν λόγον αὐτοῦ ὃν ἐλάλησεν λέγων (stese Kyrios ton logon autou hon elalesen legon) — să întărească Domnul cuvântul lui pe care l-a vorbit."
+       "def_ro": "să ridice",
+       "dict_ro": "Qum la forma cauzativă înseamnă „a împlini, a face să stea în picioare”, ca în 1 Samuel 1:23: „numai DOMNUL să-Și împlinească cuvântul”. Dumnezeu nu uită ce a spus: David ceartă și speră ca cuvântul făgăduit să rămână în picioare.",
+       "greek": "ἵστημι (histemi)",
+       "greek_def_ro": "ἵστημι (histemi) — a așeza, a întări",
+       "diff_ro": "Ebraica: „să-Și împlinească” (iakim); Septuaginta: „să întărească” (στήσῃ)."
       },
       {
        "t": " "
@@ -55283,67 +55308,43 @@
        "translit": "devaro",
        "strong": "H1697",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "cuvântul lui (devaro)",
-       "dict_ro": "Promisiunea dinastică depinde explicit de fidelitatea urmașilor lui David, nu e necondiționată.",
-       "greek": "στήσῃ Κύριος τὸν λόγον αὐτοῦ ὃν ἐλάλησεν λέγων (stese Kyrios ton logon autou hon elalesen legon)",
-       "greek_def_ro": "στήσῃ Κύριος τὸν λόγον αὐτοῦ ὃν ἐλάλησεν λέγων (stese Kyrios ton logon autou hon elalesen legon) — să întărească Domnul cuvântul lui pe care l-a vorbit."
+       "def_ro": "cuvântul Lui",
+       "dict_ro": "Davar înseamnă deopotrivă „cuvânt” și „lucru, faptă”: în gândirea ebraică, cuvântul lui Dumnezeu nu e doar rostit, ci se și împlinește. De aceea „cuvintele” pe care El le „face” (Isaia 42:16) sunt totodată lucrările Lui.",
+       "greek": "λόγος (logos)",
+       "greek_def_ro": "λόγος (logos) — cuvânt"
       },
       {
-       "t": " "
+       "t": " pe care mi l-"
       },
       {
-       "t": "pe care",
-       "w": "pe care",
-       "heb": "אֲשֶׁר",
-       "translit": "așer",
-       "strong": "H834",
-       "pos": "particulă relativă",
-       "def_ro": "pe care (așer)",
-       "dict_ro": "Promisiunea dinastică depinde explicit de fidelitatea urmașilor lui David, nu e necondiționată."
+       "t": "a vorbit",
+       "w": "a vorbit",
+       "heb": "דִּבֶּר",
+       "translit": "diber",
+       "strong": "H1696",
+       "pos": "verb, piel perfect",
+       "def_ro": "a vorbit",
+       "dict_ro": "Dibber, „a vorbi”, este verbul de la Sinai: „Dumnezeu a vorbit toate aceste cuvinte” (Exodul 20:1). Cuvântul vorbit de Dumnezeu lui David este făgăduința tronului, pe care David o trece mai departe lui Solomon.",
+       "greek": "λαλέω (laleo)",
+       "greek_def_ro": "λαλέω (laleo) — a vorbi"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "mi l-a vorbit,",
-       "w": "mi l-a vorbit,",
-       "heb": "דִּבֶּר עָלַי",
-       "translit": "diber alai",
-       "strong": "H5921",
-       "pos": "verb, piel perfect + prepoziție + sufix",
-       "def_ro": "l-a vorbit mie, (diber alai)",
-       "dict_ro": "Promisiunea dinastică depinde explicit de fidelitatea urmașilor lui David, nu e necondiționată."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "spunând:",
-       "w": "spunând:",
+       "t": "spunând",
+       "w": "spunând",
        "heb": "לֵאמֹר",
        "translit": "lēmor",
        "strong": "H559",
        "pos": "verb, qal infinitiv",
-       "def_ro": "spunând: (lēmor)",
-       "dict_ro": "Promisiunea dinastică depinde explicit de fidelitatea urmașilor lui David, nu e necondiționată."
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
       },
       {
-       "t": " "
-      },
-      {
-       "t": "«dacă",
-       "w": "«dacă",
-       "heb": "אִם",
-       "translit": "im",
-       "strong": "H518",
-       "pos": "conjuncție",
-       "def_ro": "dacă (im)",
-       "dict_ro": "Condiția explicită — fiii lui David păzind calea lor cu credință deplină — face promisiunea dinastică reciprocă, nu unilaterală.",
-       "greek": "Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν (Ean phylaxosin hoi hyioi sou ten hodon auton poreuesthai enopion emou en aletheia en hole kardia auton)",
-       "greek_def_ro": "Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν (Ean phylaxosin hoi hyioi sou ten hodon auton poreuesthai enopion emou en aletheia en hole kardia auton) — dacă vor păzi fiii tăi calea lor, mergând înaintea Mea în adevăr, cu toată inima lor."
-      },
-      {
-       "t": " "
+       "t": ": «dacă "
       },
       {
        "t": "fiii tăi",
@@ -55352,10 +55353,10 @@
        "translit": "vaneha",
        "strong": "H1121",
        "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "fiii tăi (vaneha)",
-       "dict_ro": "Condiția explicită — fiii lui David păzind calea lor cu credință deplină — face promisiunea dinastică reciprocă, nu unilaterală.",
-       "greek": "Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν (Ean phylaxosin hoi hyioi sou ten hodon auton poreuesthai enopion emou en aletheia en hole kardia auton)",
-       "greek_def_ro": "Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν (Ean phylaxosin hoi hyioi sou ten hodon auton poreuesthai enopion emou en aletheia en hole kardia auton) — dacă vor păzi fiii tăi calea lor, mergând înaintea Mea în adevăr, cu toată inima lor."
+       "def_ro": "fiii tăi",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
        "t": " "
@@ -55367,28 +55368,28 @@
        "translit": "ișmeru",
        "strong": "H8104",
        "pos": "verb, qal imperfect",
-       "def_ro": "vor păzi (ișmeru)",
-       "dict_ro": "Condiția explicită — fiii lui David păzind calea lor cu credință deplină — face promisiunea dinastică reciprocă, nu unilaterală.",
-       "greek": "Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν (Ean phylaxosin hoi hyioi sou ten hodon auton poreuesthai enopion emou en aletheia en hole kardia auton)",
-       "greek_def_ro": "Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν (Ean phylaxosin hoi hyioi sou ten hodon auton poreuesthai enopion emou en aletheia en hole kardia auton) — dacă vor păzi fiii tăi calea lor, mergând înaintea Mea în adevăr, cu toată inima lor."
+       "def_ro": "vor păzi",
+       "dict_ro": "Șamar înseamnă a păzi, a veghea asupra unui lucru; „a păzi poruncile” înseamnă a le împlini cu grijă. Omul a fost pus în grădina Edenului „ca s-o lucreze și s-o păzească” (Geneza 2:15).",
+       "greek": "φυλάσσω (phylasso)",
+       "greek_def_ro": "φυλάσσω (phylasso) — a păzi"
       },
       {
        "t": " "
       },
       {
-       "t": "calea lor,",
-       "w": "calea lor,",
+       "t": "calea lor",
+       "w": "calea lor",
        "heb": "דַּרְכָּם",
        "translit": "darkam",
        "strong": "H1870",
        "pos": "substantiv, masculin și feminin singular construct + sufix",
-       "def_ro": "calea lor, (darkam)",
-       "dict_ro": "Condiția explicită — fiii lui David păzind calea lor cu credință deplină — face promisiunea dinastică reciprocă, nu unilaterală.",
-       "greek": "Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν (Ean phylaxosin hoi hyioi sou ten hodon auton poreuesthai enopion emou en aletheia en hole kardia auton)",
-       "greek_def_ro": "Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν (Ean phylaxosin hoi hyioi sou ten hodon auton poreuesthai enopion emou en aletheia en hole kardia auton) — dacă vor păzi fiii tăi calea lor, mergând înaintea Mea în adevăr, cu toată inima lor."
+       "def_ro": "calea lor",
+       "dict_ro": "Dereh, „drumul”, e în Biblie imaginea felului de a trăi: „căile lui DOMNUL” sunt poruncile Lui, iar „calea cea rea” e purtarea celui care le părăsește. Isaia făgăduiește că Dumnezeu va face drum chiar prin pustiu (Isaia 43:19).",
+       "greek": "ὁδός (hodos)",
+       "greek_def_ro": "ὁδός (hodos) — cale"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
        "t": "mergând",
@@ -55397,10 +55398,10 @@
        "translit": "lalehet",
        "strong": "H3212",
        "pos": "verb, qal infinitiv",
-       "def_ro": "ca să meargă (lalehet)",
-       "dict_ro": "Condiția explicită — fiii lui David păzind calea lor cu credință deplină — face promisiunea dinastică reciprocă, nu unilaterală.",
-       "greek": "Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν (Ean phylaxosin hoi hyioi sou ten hodon auton poreuesthai enopion emou en aletheia en hole kardia auton)",
-       "greek_def_ro": "Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν (Ean phylaxosin hoi hyioi sou ten hodon auton poreuesthai enopion emou en aletheia en hole kardia auton) — dacă vor păzi fiii tăi calea lor, mergând înaintea Mea în adevăr, cu toată inima lor."
+       "def_ro": "mergând",
+       "dict_ro": "Sunt formele verbului halah, „a merge”, în care cade h-ul inițial (de pildă elekh, telekh, holikh). La forma cauzativă (holikh), verbul înseamnă „a face să meargă”, a conduce pe cineva, ca în imaginea lui Dumnezeu care călăuzește pe orbi pe un drum necunoscut (Isaia 42:16).",
+       "greek": "πορεύομαι (poreuomai)",
+       "greek_def_ro": "πορεύομαι (poreuomai) — a merge, a umbla"
       },
       {
        "t": " "
@@ -55412,133 +55413,119 @@
        "translit": "lefanai",
        "strong": "H6440",
        "pos": "substantiv, masculin și feminin plural construct + sufix",
-       "def_ro": "înaintea mea (lefanai)",
-       "dict_ro": "Condiția explicită — fiii lui David păzind calea lor cu credință deplină — face promisiunea dinastică reciprocă, nu unilaterală.",
-       "greek": "Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν (Ean phylaxosin hoi hyioi sou ten hodon auton poreuesthai enopion emou en aletheia en hole kardia auton)",
-       "greek_def_ro": "Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν (Ean phylaxosin hoi hyioi sou ten hodon auton poreuesthai enopion emou en aletheia en hole kardia auton) — dacă vor păzi fiii tăi calea lor, mergând înaintea Mea în adevăr, cu toată inima lor."
+       "def_ro": "înaintea Mea",
+       "dict_ro": "Panim, „fața”, are formă de plural; cu prepoziția le formează lifnei, „înaintea”, literal „la fața”. În Isaia 43:10, lefanai, „înaintea Mea”, are sens de timp: înainte de Dumnezeu nu a fost plăsmuit niciun alt dumnezeu.",
+       "greek": "ἐνώπιον (enopion)",
+       "greek_def_ro": "ἐνώπιον (enopion) — înaintea"
       },
       {
        "t": " "
       },
       {
-       "t": "cu credință,",
-       "w": "cu credință,",
+       "t": "cu credință",
+       "w": "cu credință",
        "heb": "בֶּאֱמֶת",
        "translit": "beemet",
        "strong": "H571",
        "pos": "substantiv, feminin singular",
-       "def_ro": "în adevăr, (beemet)",
-       "dict_ro": "Condiția explicită — fiii lui David păzind calea lor cu credință deplină — face promisiunea dinastică reciprocă, nu unilaterală.",
-       "greek": "Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν (Ean phylaxosin hoi hyioi sou ten hodon auton poreuesthai enopion emou en aletheia en hole kardia auton)",
-       "greek_def_ro": "Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν (Ean phylaxosin hoi hyioi sou ten hodon auton poreuesthai enopion emou en aletheia en hole kardia auton) — dacă vor păzi fiii tăi calea lor, mergând înaintea Mea în adevăr, cu toată inima lor."
+       "def_ro": "cu adevăr",
+       "dict_ro": "Emet, „adevăr”, vine din rădăcina aman, „a fi statornic, sigur”, din care vine și amin. Adevărul e în Biblie ceea ce rămâne în picioare, ce se dovedește de încredere. Rabinii au observat că emet cuprinde prima, mijlocia și ultima literă a alfabetului ebraic.",
+       "greek": "ἀλήθεια (aletheia)",
+       "greek_def_ro": "ἀλήθεια (aletheia) — adevăr"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
        "t": "cu toată inima lor",
        "w": "cu toată inima lor",
        "heb": "בְּכָל לְבָבָם",
        "translit": "behal levavam",
-       "strong": "H3824",
+       "strong": "H3605",
        "pos": "substantiv, masculin singular construct + substantiv, masculin singular construct + sufix",
-       "def_ro": "cu toată inima lor (behal levavam)",
-       "dict_ro": "Formula „cu toată inima și tot sufletul” reia limbajul deuteronomic al dragostei depline față de DOMNUL."
+       "def_ro": "cu toată inima lor",
+       "dict_ro": "„Bekhol levavam”, „cu toată inima lor”, ecoul poruncii de a-L iubi pe DOMNUL „cu toată inima ta” (Deuteronomul 6:5). Inima este locul gândirii și al hotărârii. Credința cerută regelui este nedespărțită, fără rezervă.",
+       "greek": "καρδία (kardia)",
+       "greek_def_ro": "καρδία (kardia) — inimă"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și cu tot sufletul lor»,",
-       "w": "și cu tot sufletul lor»,",
+       "t": "cu tot sufletul lor",
+       "w": "cu tot sufletul lor",
        "heb": "וּבְכָל נַפְשָׁם",
        "translit": "uvhal nafșam",
-       "strong": "H5315",
+       "strong": "H3605",
        "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin singular construct + sufix",
-       "def_ro": "și cu tot sufletul lor», (uvhal nafșam)",
-       "dict_ro": "Formula „cu toată inima și tot sufletul” reia limbajul deuteronomic al dragostei depline față de DOMNUL."
+       "def_ro": "cu tot sufletul lor",
+       "dict_ro": "„Bekhol nafșam”, „cu tot sufletul lor”, continuă porunca din Deuteronomul 6:5: „cu tot sufletul tău”. Nefeș este ființa întreagă, cu viața și dorințele ei. Dumnezeu cere întreaga persoană, nu doar o parte a ei.",
+       "greek": "ψυχή (psyche)",
+       "greek_def_ro": "ψυχή (psyche) — suflet"
       },
       {
-       "t": " "
+       "t": "», "
       },
       {
-       "t": "spunând:",
-       "w": "spunând:",
+       "t": "spunând",
+       "w": "spunând",
        "heb": "לֵאמֹר",
        "translit": "lēmor",
        "strong": "H559",
        "pos": "verb, qal infinitiv",
-       "def_ro": "spunând: (lēmor)",
-       "dict_ro": "Formula „cu toată inima și tot sufletul” reia limbajul deuteronomic al dragostei depline față de DOMNUL."
+       "def_ro": "zicând",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
       },
       {
-       "t": " "
+       "t": ": «"
       },
       {
-       "t": "«nimeni",
-       "w": "«nimeni",
+       "t": "nimeni",
+       "w": "nimeni",
        "heb": "אִישׁ",
        "translit": "iș",
        "strong": "H376",
        "pos": "substantiv, masculin singular",
-       "def_ro": "un om (iș)",
-       "dict_ro": "Promisiunea „nimeni nu va fi îndepărtat de la tron” se va dovedi condiționată de ascultare, nu absolută, în istoria ulterioară a dinastiei.",
-       "greek": "Οὐκ ἐξολοθρευθήσεταί σοι ἀνὴρ ἐπάνωθεν θρόνου Ἰσραήλ (Ouk exolothreuthesetai soi aner epanothen thronou Israel)",
-       "greek_def_ro": "Οὐκ ἐξολοθρευθήσεταί σοι ἀνὴρ ἐπάνωθεν θρόνου Ἰσραήλ (Ouk exolothreuthesetai soi aner epanothen thronou Israel) — nu îți va fi nimicit un om de pe tronul lui Israel."
+       "def_ro": "bărbat",
+       "dict_ro": "Iș, „bărbat”, este cuvântul din Geneza 2:23: „aceasta se va chema femeie, căci din bărbat a fost luată”. „Nimeni (iș) dintre ai tăi” înseamnă că nu va lipsi niciodată un urmaș din casa lui David pe tron.",
+       "greek": "ἀνήρ (aner)",
+       "greek_def_ro": "ἀνήρ (aner) — bărbat"
       },
       {
-       "t": " "
+       "t": " dintre ai tăi nu va fi "
       },
       {
-       "t": "dintre ai tăi",
-       "w": "dintre ai tăi",
-       "heb": "לְךָ",
-       "translit": "leha",
-       "strong": "",
-       "pos": "prepoziție + sufix",
-       "def_ro": "al tău (leha)",
-       "dict_ro": "Promisiunea „nimeni nu va fi îndepărtat de la tron” se va dovedi condiționată de ascultare, nu absolută, în istoria ulterioară a dinastiei."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "nu va fi îndepărtat",
-       "w": "nu va fi îndepărtat",
-       "heb": "לֹא יִכָּרֵת",
-       "translit": "lo ikarēt",
+       "t": "îndepărtat",
+       "w": "îndepărtat",
+       "heb": "יִכָּרֵת",
+       "translit": "ikarēt",
        "strong": "H3772",
-       "pos": "particulă negativă + verb, nifal imperfect",
-       "def_ro": "nu va fi tăiat (lo ikarēt)",
-       "dict_ro": "Promisiunea „nimeni nu va fi îndepărtat de la tron” se va dovedi condiționată de ascultare, nu absolută, în istoria ulterioară a dinastiei."
+       "pos": "verb, nifal imperfect",
+       "def_ro": "va fi tăiat",
+       "dict_ro": "Karat la forma pasivă înseamnă „a fi tăiat, nimicit”: „nu va mai fi nimicit orice trup” (Geneza 9:11). Făgăduința este că linia lui David nu va fi tăiată de pe tron, atât timp cât fiii păzesc calea.",
+       "greek": "ἐξολεθρεύω (exolethreuo)",
+       "greek_def_ro": "ἐξολεθρεύω (exolethreuo) — a nimici",
+       "diff_ro": "Ebraica: „va fi îndepărtat” (ikaret, „tăiat”); Septuaginta: „va fi nimicit” (ἐξολεθρευθήσεται)."
       },
       {
-       "t": " "
+       "t": " de la "
       },
       {
-       "t": "de la tronul lui",
-       "w": "de la tronul lui",
-       "heb": "מֵעַל כִּסֵּא",
-       "translit": "mēal kisē",
+       "t": "tronul lui Israel",
+       "w": "tronul lui Israel",
+       "heb": "כִּסֵּא יִשְׂרָאֵל",
+       "translit": "kisē israēl",
        "strong": "H3678",
-       "pos": "prepoziție + substantiv, masculin singular construct",
-       "def_ro": "de pe tronul (mēal kisē)",
-       "dict_ro": "Promisiunea „nimeni nu va fi îndepărtat de la tron” se va dovedi condiționată de ascultare, nu absolută, în istoria ulterioară a dinastiei."
+       "pos": "substantiv, masculin singular construct + nume propriu",
+       "def_ro": "tronul lui Israel",
+       "dict_ro": "„Kisse Israel”, „tronul lui Israel”, este tronul pe care Solomon îl va numi al său: „m-am așezat pe tronul lui Israel” (1 Împărați 8:20). Tronul nu este al unei familii, ci al poporului, iar regele servește poporul.",
+       "greek": "θρόνος (thronos)",
+       "greek_def_ro": "θρόνος (thronos) — tron"
       },
       {
-       "t": " "
-      },
-      {
-       "t": "Israel.»",
-       "w": "Israel.»",
-       "heb": "יִשְׂרָאֵל",
-       "translit": "israēl",
-       "strong": "H3478",
-       "pos": "nume propriu",
-       "def_ro": "Israel.» (israēl)",
-       "dict_ro": "Promisiunea „nimeni nu va fi îndepărtat de la tron” se va dovedi condiționată de ascultare, nu absolută, în istoria ulterioară a dinastiei.",
-       "greek": "Οὐκ ἐξολοθρευθήσεταί σοι ἀνὴρ ἐπάνωθεν θρόνου Ἰσραήλ (Ouk exolothreuthesetai soi aner epanothen thronou Israel)",
-       "greek_def_ro": "Οὐκ ἐξολοθρευθήσεταί σοι ἀνὴρ ἐπάνωθεν θρόνου Ἰσραήλ (Ouk exolothreuthesetai soi aner epanothen thronou Israel) — nu îți va fi nimicit un om de pe tronul lui Israel."
+       "t": ".»"
       }
      ],
      "textCompare": [
@@ -55550,10 +55537,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἵνα στήσῃ Κύριος τὸν λόγον αὐτοῦ ὃν ἐλάλησεν λέγων Ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν, λέγων Οὐκ ἐξολοθρευθήσεταί σοι ἀνὴρ ἐπάνωθεν θρόνου Ἰσραήλ.",
+       "original": "ἵνα στήσῃ κύριος τὸν λόγον αὐτοῦ ὃν ἐλάλησεν λέγων ἐὰν φυλάξωσιν οἱ υἱοί σου τὴν ὁδὸν αὐτῶν πορεύεσθαι ἐνώπιον ἐμοῦ ἐν ἀληθείᾳ ἐν ὅλῃ καρδίᾳ αὐτῶν καὶ ἐν ὅλῃ ψυχῇ αὐτῶν λέγων οὐκ ἐξολεθρευθήσεταί σοι ἀνὴρ ἐπάνωθεν θρόνου Ισραηλ",
        "greek": true,
-       "translation": "„Ca să întărească Domnul cuvântul Lui pe care l-a grăit, zicând: De vor păzi fiii tăi calea lor, ca să umble înaintea Mea în adevăr, cu toată inima lor, zicând: nu va fi stârpit ție bărbat de pe tronul lui Israel.”",
-       "note": "LXX omite „și cu tot sufletul lor” (וּבְכָל־נַפְשָׁם) din TM — o compresie reală a formulei duble caracteristice ebraicii biblice."
+       "translation": "„Ca să întărească Domnul cuvântul Său pe care l-a grăit, zicând: De vor păzi fiii tăi calea lor, ca să umble înaintea Mea în adevăr, cu toată inima lor și cu tot sufletul lor, zicând: Nu va fi nimicit pentru tine bărbat de pe tronul lui Israel.”",
+       "note": "Apropiere strânsă; „să-Și împlinească” (yakim) este redat prin „să întărească” (στήσῃ), iar „nu va fi îndepărtat” prin „nu va fi nimicit” (ἐξολεθρευθήσεται), un verb mai tare decât cel ebraic."
       }
      ],
      "refs": [
@@ -55582,241 +55569,263 @@
      "translit": "Vegam ata iadata ēt așer-asa li Ioav ben-Tzeruia așer asa lișnēi-sarēi tzivot Israēl le'Avnēr ben-Nēr velaAmasa ven-Ieter vaiaharghēm vaiasem demēi-milhama beșalom vaitēn demēi milhama bahagorato așer bemotnav uvenaalo așer beraglav.",
      "tokens": [
       {
-       "t": "În plus,",
-       "w": "În plus,",
-       "heb": "וְגַם",
-       "translit": "vegam",
-       "strong": "H1571",
-       "pos": "particulă afirmativă",
-       "def_ro": "și de asemenea (vegam)",
-       "dict_ro": "David își îndeplinește ultima datorie de rege dreptate: pedepsirea crimelor lui Ioav, lăsate nerăzbunate din motive politice în timpul vieții sale."
+       "t": "În plus, "
+      },
+      {
+       "t": "tu",
+       "w": "tu",
+       "heb": "אַתָּה",
+       "translit": "ata",
+       "strong": "H859",
+       "pos": "pronume personal",
+       "def_ro": "tu",
+       "dict_ro": "Ata, „tu”, este pronumele pus în față când cineva este chemat să-și asume cunoașterea lui: „Tu ești Dumnezeu” (2 Samuel 7:28). David îi spune lui Solomon „tu știi”, ca pe un martor al faptelor lui Ioav.",
+       "greek": "σύ (sy)",
+       "greek_def_ro": "σύ (sy) — tu"
       },
       {
        "t": " "
       },
       {
-       "t": "tu știi",
-       "w": "tu știi",
-       "heb": "אַתָּה יָדַעְתָּ",
-       "translit": "ata iadata",
+       "t": "știi",
+       "w": "știi",
+       "heb": "יָדַעְתָּ",
+       "translit": "iadata",
        "strong": "H3045",
-       "pos": "pronume personal + verb, qal perfect",
-       "def_ro": "tu ai știut (ata iadata)",
-       "dict_ro": "David își îndeplinește ultima datorie de rege dreptate: pedepsirea crimelor lui Ioav, lăsate nerăzbunate din motive politice."
+       "pos": "verb, qal perfect",
+       "def_ro": "ai cunoscut",
+       "dict_ro": "Iada înseamnă o cunoaștere prin experiență directă și prin legătură personală, nu doar o informație; de aceea poate desemna și unirea soților (Geneza 4:1). „A-L cunoaște pe DOMNUL” înseamnă, la profeți, a trăi în legământ cu El.",
+       "greek": "γινώσκω (ginosko)",
+       "greek_def_ro": "γινώσκω (ginosko) — a cunoaște"
+      },
+      {
+       "t": " ce mi-"
+      },
+      {
+       "t": "a făcut",
+       "w": "a făcut",
+       "heb": "עָשָׂה",
+       "translit": "asa",
+       "strong": "H6213",
+       "pos": "verb, qal perfect",
+       "def_ro": "a făcut",
+       "dict_ro": "Asa e verbul general al facerii. Alături de bara („a crea”) și iațar („a plăsmui”), apare în Isaia 43:7 într-o gradare pe care tradiția kabbalistică a legat-o de lumile creației, formării și facerii (Beria, Iețira, Asia).",
+       "greek": "ποιέω (poieo)",
+       "greek_def_ro": "ποιέω (poieo) — a face"
       },
       {
        "t": " "
       },
       {
-       "t": "ce mi-a făcut",
-       "w": "ce mi-a făcut",
-       "heb": "אֲשֶׁר עָשָׂה לִי",
-       "translit": "așer asa li",
-       "strong": "",
-       "pos": "particulă relativă + verb, qal perfect + prepoziție + sufix",
-       "def_ro": "ce a făcut mie (așer asa li)",
-       "dict_ro": "David își îndeplinește ultima datorie de rege dreptate: pedepsirea crimelor lui Ioav, lăsate nerăzbunate din motive politice."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "Ioav,",
-       "w": "Ioav,",
+       "t": "Ioav",
+       "w": "Ioav",
        "heb": "יוֹאָב",
        "translit": "ioav",
        "strong": "H3097",
        "pos": "nume propriu",
-       "def_ro": "Ioav, (ioav)",
-       "dict_ro": "Ioav, generalul lui David, și-a păstat funcția toată domnia lui David, dar crimele sale nerăzbunate rămân ca ultimă datorie pentru Solomon.",
-       "greek": "σὺ ἔγνως ὅσα ἐποίησέν μοι Ἰωὰβ υἱὸς Σαρουίας (sy egnos hosa epoiesen moi Ioab hyios Sarouias)",
-       "greek_def_ro": "σὺ ἔγνως ὅσα ἐποίησέν μοι Ἰωὰβ υἱὸς Σαρουίας (sy egnos hosa epoiesen moi Ioab hyios Sarouias) — tu ai cunoscut câte mi-a făcut Ioav, fiul Țeruiei."
+       "def_ro": "Ioav",
+       "dict_ro": "Ioav, comandantul oștirii lui David, este „fiul Țeruiei” (2 Samuel 2:13). A fost un general credincios, dar violent; ucigaș al lui Avner și al lui Amasa, el devine pentru David o povară.",
+       "greek": "Ἰωάβ (Ioab)",
+       "greek_def_ro": "Ἰωάβ (Ioab) — Ioab"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "fiul Țeruiei,",
-       "w": "fiul Țeruiei,",
+       "t": "fiul Țeruiei",
+       "w": "fiul Țeruiei",
        "heb": "בֶּן צְרוּיָה",
        "translit": "ben țeruia",
-       "strong": "H6870",
+       "strong": "H1121",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "fiul Țeruiei, (ben țeruia)",
-       "dict_ro": "Țeruia, sora lui David, era mama lui Ioav — rudenia explică de ce David nu l-a pedepsit niciodată direct."
+       "def_ro": "fiul Țeruiei",
+       "dict_ro": "„Ben Țeruia”, „fiul Țeruiei”: Țeruia era sora lui David, iar cei trei fii ai ei, Ioav, Abișai și Asael (2 Samuel 2:18), erau nepoții regelui. Ioav, nepot al lui David, a fost deci comandantul oștirii din familie.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": ", ce "
       },
       {
-       "t": "ce a făcut",
-       "w": "ce a făcut",
-       "heb": "אֲשֶׁר עָשָׂה",
-       "translit": "așer asa",
+       "t": "a făcut",
+       "w": "a făcut",
+       "heb": "עָשָׂה",
+       "translit": "asa",
        "strong": "H6213",
-       "pos": "particulă relativă + verb, qal perfect",
-       "def_ro": "ce a făcut (așer asa)",
-       "dict_ro": "Ioav i-a ucis prin viclenie pe cei doi generali rivali, Avner și Amasa, crime grave rămase nepedepsite."
+       "pos": "verb, qal perfect",
+       "def_ro": "a făcut",
+       "dict_ro": "Asa e verbul general al facerii. Alături de bara („a crea”) și iațar („a plăsmui”), apare în Isaia 43:7 într-o gradare pe care tradiția kabbalistică a legat-o de lumile creației, formării și facerii (Beria, Iețira, Asia).",
+       "greek": "ποιέω (poieo)",
+       "greek_def_ro": "ποιέω (poieo) — a face"
       },
       {
-       "t": " "
+       "t": " celor "
       },
       {
-       "t": "celor doi conducători",
-       "w": "celor doi conducători",
+       "t": "doi conducători",
+       "w": "doi conducători",
        "heb": "לִשְׁנֵי שָׂרֵי",
        "translit": "lișnē sarē",
-       "strong": "H8269",
+       "strong": "H8147",
        "pos": "numeral + substantiv, masculin plural construct",
-       "def_ro": "celor doi conducători (lișnē sarē)",
-       "dict_ro": "Ioav i-a ucis prin viclenie pe cei doi generali rivali, Avner și Amasa, crime grave rămase nepedepsite."
+       "def_ro": "doi căpetenii",
+       "dict_ro": "„Șenei sarei”, „doi conducători”: sar, „căpetenie”, este comandantul unei oști (2 Samuel 4:2). Avner conducea oastea lui Saul, iar Amasa pe cea a lui Avșalom; amândoi au fost uciși de Ioav prin viclenie.",
+       "greek": "δύο ἄρχων (dyo archon)",
+       "greek_def_ro": "δύο ἄρχων (dyo archon) — doi căpetenii"
       },
       {
-       "t": " "
+       "t": " ai "
       },
       {
-       "t": "ai oștirilor lui",
-       "w": "ai oștirilor lui",
+       "t": "oștirilor",
+       "w": "oștirilor",
        "heb": "צִבְאוֹת",
        "translit": "țivot",
        "strong": "H6635",
        "pos": "substantiv, masculin și feminin plural construct",
-       "def_ro": "ai oștirilor lui (țivot)",
-       "dict_ro": "Ioav i-a ucis prin viclenie pe cei doi generali rivali, Avner și Amasa, crime grave rămase nepedepsite.",
-       "greek": "τοῖς δυσὶν ἄρχουσιν τῶν δυνάμεων Ἰσραήλ, Ἀβεννὴρ υἱῷ Νὴρ καὶ τῷ Ἀμεσσαιὰ υἱῷ Ἰέθερ (tois dysin archousin ton dynameon Israel, Abenner hyio Ner kai to Amessaia hyio Iether)",
-       "greek_def_ro": "τοῖς δυσὶν ἄρχουσιν τῶν δυνάμεων Ἰσραήλ, Ἀβεννὴρ υἱῷ Νὴρ καὶ τῷ Ἀμεσσαιὰ υἱῷ Ἰέθερ (tois dysin archousin ton dynameon Israel, Abenner hyio Ner kai to Amessaia hyio Iether) — celor doi conducători ai oștirilor lui Israel, lui Avner, fiul lui Ner, și lui Amasa, fiul lui Ieter."
+       "def_ro": "oștirilor",
+       "dict_ro": "Țava, „oaste, oștire”, este cuvântul din „DOMNUL oștirilor” (1 Samuel 1:3). Aici, „oștirile lui Israel” sunt forțele militare ale poporului, cu comandanții lor.",
+       "greek": "δύναμις (dynamis)",
+       "greek_def_ro": "δύναμις (dynamis) — oaste, putere"
       },
       {
-       "t": " "
+       "t": " lui "
       },
       {
-       "t": "Israel,",
-       "w": "Israel,",
+       "t": "Israel",
+       "w": "Israel",
        "heb": "יִשְׂרָאֵל",
        "translit": "israēl",
        "strong": "H3478",
        "pos": "nume propriu",
-       "def_ro": "Israel, (israēl)",
-       "dict_ro": "Ioav i-a ucis prin viclenie pe cei doi generali rivali, Avner și Amasa, crime grave rămase nepedepsite.",
-       "greek": "τοῖς δυσὶν ἄρχουσιν τῶν δυνάμεων Ἰσραήλ, Ἀβεννὴρ υἱῷ Νὴρ καὶ τῷ Ἀμεσσαιὰ υἱῷ Ἰέθερ (tois dysin archousin ton dynameon Israel, Abenner hyio Ner kai to Amessaia hyio Iether)",
-       "greek_def_ro": "τοῖς δυσὶν ἄρχουσιν τῶν δυνάμεων Ἰσραήλ, Ἀβεννὴρ υἱῷ Νὴρ καὶ τῷ Ἀμεσσαιὰ υἱῷ Ἰέθερ (tois dysin archousin ton dynameon Israel, Abenner hyio Ner kai to Amessaia hyio Iether) — celor doi conducători ai oștirilor lui Israel, lui Avner, fiul lui Ner, și lui Amasa, fiul lui Ieter."
+       "def_ro": "Israel",
+       "dict_ro": "Numele Israel i-a fost dat lui Iacov după lupta de la Iaboc și i-a fost confirmat la Betel (Geneza 35:10); textul îl explică prin „ai luptat cu Dumnezeu și cu oamenii și ai biruit”. În profeți, „Iacov” și „Israel” apar adesea în paralel, desemnând același popor: primul e numele de la naștere, al doilea numele chemării.",
+       "greek": "Ἰσραήλ (Israel)",
+       "greek_def_ro": "Ἰσραήλ (Israel) — Israel"
       },
       {
-       "t": " "
+       "t": ", lui "
       },
       {
-       "t": "lui Avner,",
-       "w": "lui Avner,",
+       "t": "Avner",
+       "w": "Avner",
        "heb": "לְאַבְנֵר",
        "translit": "leavnēr",
        "strong": "H74",
        "pos": "nume propriu",
-       "def_ro": "lui Avner, (leavnēr)",
-       "dict_ro": "Avner, generalul lui Saul, s-a alăturat lui David, dar a fost ucis de Ioav din răzbunare personală, nu din ordin regal.",
-       "greek": "τοῖς δυσὶν ἄρχουσιν τῶν δυνάμεων Ἰσραήλ, Ἀβεννὴρ υἱῷ Νὴρ καὶ τῷ Ἀμεσσαιὰ υἱῷ Ἰέθερ (tois dysin archousin ton dynameon Israel, Abenner hyio Ner kai to Amessaia hyio Iether)",
-       "greek_def_ro": "τοῖς δυσὶν ἄρχουσιν τῶν δυνάμεων Ἰσραήλ, Ἀβεννὴρ υἱῷ Νὴρ καὶ τῷ Ἀμεσσαιὰ υἱῷ Ἰέθερ (tois dysin archousin ton dynameon Israel, Abenner hyio Ner kai to Amessaia hyio Iether) — celor doi conducători ai oștirilor lui Israel, lui Avner, fiul lui Ner, și lui Amasa, fiul lui Ieter."
+       "def_ro": "Avner",
+       "dict_ro": "Avner, „tatăl este lumină”, a fost vărul și comandantul lui Saul: „Avner, fiul lui Ner” (1 Samuel 14:50). După moartea lui Saul a susținut pe Iș-Boșet, apoi a trecut la David; Ioav l-a ucis la Hebron.",
+       "greek": "Ἀβεννήρ (Abenner)",
+       "greek_def_ro": "Ἀβεννήρ (Abenner) — Avner"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "fiul lui Ner,",
-       "w": "fiul lui Ner,",
+       "t": "fiul lui Ner",
+       "w": "fiul lui Ner",
        "heb": "בֶּן נֵר",
        "translit": "ben nēr",
-       "strong": "H5369",
+       "strong": "H1121",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "fiul lui Ner, (ben nēr)",
-       "dict_ro": "Avner, generalul lui Saul, s-a alăturat lui David, dar a fost ucis de Ioav din răzbunare personală, nu din ordin regal."
+       "def_ro": "fiul lui Ner",
+       "dict_ro": "„Ben Ner”, „fiul lui Ner”: așa este numit Avner, comandantul oastei lui Saul (2 Samuel 2:8). Numele tatălui îl leagă de familia regelui Saul, de care Avner a fost mult timp loial.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": ", și lui "
       },
       {
-       "t": "și lui Amasa,",
-       "w": "și lui Amasa,",
+       "t": "Amasa",
+       "w": "Amasa",
        "heb": "וְלַעֲמָשָׂא",
        "translit": "velaamasa",
        "strong": "H6021",
        "pos": "nume propriu",
-       "def_ro": "și lui Amasa, (velaamasa)",
-       "dict_ro": "Amasa, generalul rival al lui Ioav, a fost ucis prin viclenie — Ioav și-a legat sabia cu vârful în jos ca să cadă aparent din greșeală.",
-       "greek": "τοῖς δυσὶν ἄρχουσιν τῶν δυνάμεων Ἰσραήλ, Ἀβεννὴρ υἱῷ Νὴρ καὶ τῷ Ἀμεσσαιὰ υἱῷ Ἰέθερ (tois dysin archousin ton dynameon Israel, Abenner hyio Ner kai to Amessaia hyio Iether)",
-       "greek_def_ro": "τοῖς δυσὶν ἄρχουσιν τῶν δυνάμεων Ἰσραήλ, Ἀβεννὴρ υἱῷ Νὴρ καὶ τῷ Ἀμεσσαιὰ υἱῷ Ἰέθερ (tois dysin archousin ton dynameon Israel, Abenner hyio Ner kai to Amessaia hyio Iether) — celor doi conducători ai oștirilor lui Israel, lui Avner, fiul lui Ner, și lui Amasa, fiul lui Ieter."
+       "def_ro": "Amasa",
+       "dict_ro": "Amasa, „povară”, a fost nepotul lui David, pus de Avșalom în fruntea oastei sale (2 Samuel 17:25). David l-a iertat și l-a numit comandant în locul lui Ioav, iar Ioav l-a ucis.",
+       "greek": "Ἀμεσσαί (Amessai)",
+       "greek_def_ro": "Ἀμεσσαί (Amessai) — Amasa"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "fiul lui Ieter,",
-       "w": "fiul lui Ieter,",
+       "t": "fiul lui Ieter",
+       "w": "fiul lui Ieter",
        "heb": "בֶן יֶתֶר",
        "translit": "ven ieter",
-       "strong": "H3500",
+       "strong": "H1121",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "fiul lui Ieter, (ven ieter)",
-       "dict_ro": "Amasa, generalul rival al lui Ioav, a fost ucis prin viclenie — Ioav și-a legat sabia cu vârful în jos ca să cadă aparent din greșeală."
+       "def_ro": "fiul lui Ieter",
+       "dict_ro": "„Ben Ieter”: tatăl lui Amasa se numea Ieter, ismaelitul, după cum arată genealogiile din 1 Cronici 2. Amasa era deci rudă a lui David, ca și Ioav, însă Ioav l-a ucis, fără să țină seama de legătura de sânge.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": ", pe care i-a "
       },
       {
-       "t": "pe care i-a omorât,",
-       "w": "pe care i-a omorât,",
+       "t": "omorât",
+       "w": "omorât",
        "heb": "וַיַּהַרְגֵם",
        "translit": "vaiahargēm",
        "strong": "H2026",
        "pos": "verb, qal imperfect consecutiv + sufix",
-       "def_ro": "și i-a ucis, (vaiahargēm)",
-       "dict_ro": "Amasa, generalul rival al lui Ioav, a fost ucis prin viclenie — Ioav și-a legat sabia cu vârful în jos ca să cadă aparent din greșeală.",
-       "greek": "ἀπέκτεινεν αὐτοὺς (apekteinen autous)",
-       "greek_def_ro": "ἀπέκτεινεν αὐτοὺς (apekteinen autous) — i-a ucis."
+       "def_ro": "a ucis",
+       "dict_ro": "Harag, „a ucide”, e verbul pentru omuciderea violentă, cum a făcut Cain: „l-a omorât” (Geneza 4:8). Ioav îi ucide pe Avner și pe Amasa prin viclenie, în timp ce se prefăcea prieten.",
+       "greek": "ἀποκτείνω (apokteino)",
+       "greek_def_ro": "ἀποκτείνω (apokteino) — a ucide"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "vărsând astfel",
-       "w": "vărsând astfel",
+       "t": "vărsând",
+       "w": "vărsând",
        "heb": "וַיָּשֶׂם",
        "translit": "vaiasem",
        "strong": "H7760",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a pus (vaiasem)",
-       "dict_ro": "Formula „sânge de război în vreme de pace” acuză Ioav de a fi transformat războiul legitim într-o crimă personală ascunsă.",
-       "greek": "ἔταξεν τὰ αἵματα πολέμου (etaxen ta haimata polemou)",
-       "greek_def_ro": "ἔταξεν τὰ αἵματα πολέμου (etaxen ta haimata polemou) — a pus sângele de război."
+       "def_ro": "a pus",
+       "dict_ro": "Sim, „a pune”, are sens foarte larg: a așeza, a rândui, a preface un lucru în altul („a pune râurile insule”, Isaia 42:15). Expresia „a pune la inimă” înseamnă a lua aminte (Isaia 42:25).",
+       "greek": "τάσσω (tasso)",
+       "greek_def_ro": "τάσσω (tasso) — a rândui, a așeza",
+       "diff_ro": "Ebraica: „a pus” (vaiasem); Septuaginta: „a rânduit” (ἔταξεν)."
       },
       {
-       "t": " "
+       "t": " astfel "
       },
       {
        "t": "sânge de război",
        "w": "sânge de război",
        "heb": "דְּמֵי מִלְחָמָה",
        "translit": "demē milhama",
-       "strong": "H4421",
+       "strong": "H1818",
        "pos": "substantiv, masculin plural construct + substantiv, feminin singular",
-       "def_ro": "sângele războiului (demē milhama)",
-       "dict_ro": "Formula „sânge de război în vreme de pace” acuză Ioav de a fi transformat războiul legitim într-o crimă personală ascunsă."
+       "def_ro": "sângele războiului",
+       "dict_ro": "„Demei milhama”, „sângele războiului”, este sângele vărsat în luptă, care nu e păcat. Dar Ioav l-a vărsat „în pace”: de aceea a fost crimă. Sângele nevinovat strigă din pământ (Geneza 4:10).",
+       "greek": "αἷμα (haima)",
+       "greek_def_ro": "αἷμα (haima) — sânge"
       },
       {
        "t": " "
       },
       {
-       "t": "în vreme de pace,",
-       "w": "în vreme de pace,",
+       "t": "în vreme de pace",
+       "w": "în vreme de pace",
        "heb": "בְּשָׁלֹם",
        "translit": "beșalom",
        "strong": "H7965",
        "pos": "substantiv, masculin singular",
-       "def_ro": "în pace, (beșalom)",
-       "dict_ro": "Formula „sânge de război în vreme de pace” acuză Ioav de a fi transformat războiul legitim într-o crimă personală ascunsă.",
-       "greek": "ἔταξεν τὰ αἵματα πολέμου (etaxen ta haimata polemou)",
-       "greek_def_ro": "ἔταξεν τὰ αἵματα πολέμου (etaxen ta haimata polemou) — a pus sângele de război."
+       "def_ro": "în pace",
+       "dict_ro": "Șalom, „pace, plinătate”, este binecuvântarea preoțească: „DOMNUL să-ți dea pace” (Numeri 6:26). „Sânge de război în vreme de pace” arată că Ioav a încălcat chiar ceea ce înseamnă șalom: a ucis oameni în timpul păcii.",
+       "greek": "εἰρήνη (eirene)",
+       "greek_def_ro": "εἰρήνη (eirene) — pace"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
        "t": "punând",
@@ -55825,10 +55834,10 @@
        "translit": "vaitēn",
        "strong": "H5414",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a pus (vaitēn)",
-       "dict_ro": "Rashi explică faptul că Ioav își legase sabia la brâu cu vârful în jos, ca aceasta să cadă atunci când s-ar apleca, pentru a-l ucide pe Amasa prin surprindere.",
-       "greek": "ἐν τῇ ζώνῃ αὐτοῦ τῇ ἐν τῇ ὀσφύι αὐτοῦ καὶ ἐν τῷ ὑποδήματι αὐτοῦ τῷ ἐν τῷ ποδὶ αὐτοῦ (en te zone autou te en te osphyi autou kai en to hypodemati autou to en to podi autou)",
-       "greek_def_ro": "ἐν τῇ ζώνῃ αὐτοῦ τῇ ἐν τῇ ὀσφύι αὐτοῦ καὶ ἐν τῷ ὑποδήματι αὐτοῦ τῷ ἐν τῷ ποδὶ αὐτοῦ (en te zone autou te en te osphyi autou kai en to hypodemati autou to en to podi autou) — pe cingătoarea lui, de la mijlocul lui, și pe încălțămintea lui, de la piciorul lui."
+       "def_ro": "a pus",
+       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6).",
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a da, a pune"
       },
       {
        "t": " "
@@ -55838,66 +55847,76 @@
        "w": "sângele de război",
        "heb": "דְּמֵי מִלְחָמָה",
        "translit": "demē milhama",
-       "strong": "H4421",
+       "strong": "H1818",
        "pos": "substantiv, masculin plural construct + substantiv, feminin singular",
-       "def_ro": "sângele războiului (demē milhama)",
-       "dict_ro": "Rashi explică faptul că Ioav își legase sabia la brâu cu vârful în jos, pentru a-l ucide pe Amasa prin surprindere."
+       "def_ro": "sângele războiului",
+       "dict_ro": "„Demei milhama”, „sângele războiului”, este sângele vărsat în luptă, care nu e păcat. Dar Ioav l-a vărsat „în pace”: de aceea a fost crimă. Sângele nevinovat strigă din pământ (Geneza 4:10).",
+       "greek": "αἷμα (haima)",
+       "greek_def_ro": "αἷμα (haima) — sânge",
+       "diff_ro": "Ebraica: „sângele de război” (demei milhama); Septuaginta: „sânge nevinovat” (αἷμα ἀθῷον)."
       },
       {
-       "t": " "
+       "t": " pe "
       },
       {
-       "t": "pe cingătoarea",
-       "w": "pe cingătoarea",
+       "t": "cingătoarea",
+       "w": "cingătoarea",
        "heb": "בַּחֲגֹרָתוֹ",
        "translit": "bahagorato",
        "strong": "H2290",
        "pos": "substantiv, feminin singular construct + sufix",
-       "def_ro": "pe cingătoarea lui, (bahagorato)",
-       "dict_ro": "Rashi explică faptul că Ioav își legase sabia la brâu cu vârful în jos, pentru a-l ucide pe Amasa prin surprindere.",
-       "greek": "ἐν τῇ ζώνῃ αὐτοῦ τῇ ἐν τῇ ὀσφύι αὐτοῦ καὶ ἐν τῷ ὑποδήματι αὐτοῦ τῷ ἐν τῷ ποδὶ αὐτοῦ (en te zone autou te en te osphyi autou kai en to hypodemati autou to en to podi autou)",
-       "greek_def_ro": "ἐν τῇ ζώνῃ αὐτοῦ τῇ ἐν τῇ ὀσφύι αὐτοῦ καὶ ἐν τῷ ὑποδήματι αὐτοῦ τῷ ἐν τῷ ποδὶ αὐτοῦ (en te zone autou te en te osphyi autou kai en to hypodemati autou to en to podi autou) — pe cingătoarea lui, de la mijlocul lui, și pe încălțămintea lui, de la piciorul lui."
+       "def_ro": "cingătoarea",
+       "dict_ro": "Hagorah, „cingătoare”, este cingătoarea de la brâu: Adam și Eva „și-au făcut cingători” din frunze (Geneza 3:7). Sângele de pe cingătoarea lui Ioav arată că vina a rămas cu el, în fiecare mișcare.",
+       "greek": "ζώνη (zone)",
+       "greek_def_ro": "ζώνη (zone) — cingătoare"
       },
       {
-       "t": " "
+       "t": " pe care o are la "
       },
       {
-       "t": "pe care o are la brâu",
-       "w": "pe care o are la brâu",
-       "heb": "אֲשֶׁר בְּמָתְנָיו",
-       "translit": "așer bematnaiv",
+       "t": "brâu",
+       "w": "brâu",
+       "heb": "בְּמָתְנָיו",
+       "translit": "bematnaiv",
        "strong": "H4975",
-       "pos": "particulă relativă + substantiv, masculin dual construct + sufix",
-       "def_ro": "care e la mijlocul lui, (așer bematnaiv)",
-       "dict_ro": "Rashi explică faptul că Ioav își legase sabia la brâu cu vârful în jos, pentru a-l ucide pe Amasa prin surprindere."
+       "pos": "substantiv, masculin dual construct + sufix",
+       "def_ro": "coapse",
+       "dict_ro": "Motnaim, „coapse, brâu”, este mijlocul trupului: Iacov „a pus sac pe coapsele lui” (Geneza 37:34). Sângele pe brâu și pe încălțăminte arată ucigașul care poartă urma faptei peste tot.",
+       "greek": "ὀσφύς (osphys)",
+       "greek_def_ro": "ὀσφύς (osphys) — coapse, mijloc"
       },
       {
-       "t": " "
+       "t": " și pe "
       },
       {
-       "t": "și pe încălțămintea lui",
-       "w": "și pe încălțămintea lui",
+       "t": "încălțămintea",
+       "w": "încălțămintea",
        "heb": "וּבְנַעֲלוֹ",
        "translit": "uvnaalo",
        "strong": "H5275",
        "pos": "substantiv, feminin singular construct + sufix",
-       "def_ro": "și pe sandaua lui, (uvnaalo)",
-       "dict_ro": "Pe Avner, Ioav l-a ucis prin viclenie diferită, întrebându-l în poartă despre ceva banal pentru a-i distrage atenția.",
-       "greek": "ἐν τῇ ζώνῃ αὐτοῦ τῇ ἐν τῇ ὀσφύι αὐτοῦ καὶ ἐν τῷ ὑποδήματι αὐτοῦ τῷ ἐν τῷ ποδὶ αὐτοῦ (en te zone autou te en te osphyi autou kai en to hypodemati autou to en to podi autou)",
-       "greek_def_ro": "ἐν τῇ ζώνῃ αὐτοῦ τῇ ἐν τῇ ὀσφύι αὐτοῦ καὶ ἐν τῷ ὑποδήματι αὐτοῦ τῷ ἐν τῷ ποδὶ αὐτοῦ (en te zone autou te en te osphyi autou kai en to hypodemati autou to en to podi autou) — pe cingătoarea lui, de la mijlocul lui, și pe încălțămintea lui, de la piciorul lui."
+       "def_ro": "sandalele",
+       "dict_ro": "Naal, „încălțăminte”, este sandala: „scoate-ți încălțămintea din picioare” (Exodul 3:5). Sângele pe încălțăminte arată că vina l-a însoțit pe Ioav în fiecare pas.",
+       "greek": "ὑπόδημα (hypodema)",
+       "greek_def_ro": "ὑπόδημα (hypodema) — încălțăminte"
       },
       {
-       "t": " "
+       "t": " lui pe care o are în "
       },
       {
-       "t": "pe care o are în picioare.",
-       "w": "pe care o are în picioare.",
-       "heb": "אֲשֶׁר בְּרַגְלָיו",
-       "translit": "așer beraglaiv",
+       "t": "picioare",
+       "w": "picioare",
+       "heb": "בְּרַגְלָיו",
+       "translit": "beraglaiv",
        "strong": "H7272",
-       "pos": "particulă relativă + substantiv, feminin dual construct + sufix",
-       "def_ro": "care e la picioarele lui. (așer beraglaiv)",
-       "dict_ro": "Pe Avner, Ioav l-a ucis prin viclenie diferită, întrebându-l în poartă despre ceva banal pentru a-i distrage atenția."
+       "pos": "substantiv, feminin dual construct + sufix",
+       "def_ro": "picioare",
+       "dict_ro": "Regel, „picior”, vine din „a umbla” (Geneza 8:9). „Încălțămintea pe care o are în picioare” înseamnă că vina se vede în drumul lui Ioav; lucrul făcut în ascuns se cunoaște.",
+       "greek": "πούς (pous)",
+       "greek_def_ro": "πούς (pous) — picior"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -55909,10 +55928,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καί γε σὺ ἔγνως ὅσα ἐποίησέν μοι Ἰωὰβ υἱὸς Σαρουίας, ὅσα ἐποίησεν τοῖς δυσὶν ἄρχουσιν τῶν δυνάμεων Ἰσραήλ, Ἀβεννὴρ υἱῷ Νὴρ καὶ τῷ Ἀμεσσαιὰ υἱῷ Ἰέθερ, καὶ ἀπέκτεινεν αὐτοὺς καὶ ἔταξεν τὰ αἵματα πολέμου ἐν τῇ ζώνῃ αὐτοῦ τῇ ἐν τῇ ὀσφύι αὐτοῦ καὶ ἐν τῷ ὑποδήματι αὐτοῦ τῷ ἐν τῷ ποδὶ αὐτοῦ.",
+       "original": "καί γε σὺ ἔγνως ὅσα ἐποίησέν μοι Ιωαβ υἱὸς Σαρουιας ὅσα ἐποίησεν τοῖς δυσὶν ἄρχουσιν τῶν δυνάμεων Ισραηλ τῷ Αβεννηρ υἱῷ Νηρ καὶ τῷ Αμεσσαϊ υἱῷ Ιεθερ καὶ ἀπέκτεινεν αὐτοὺς καὶ ἔταξεν τὰ αἵματα πολέμου ἐν εἰρήνῃ καὶ ἔδωκεν αἷμα ἀθῷον ἐν τῇ ζώνῃ αὐτοῦ τῇ ἐν τῇ ὀσφύι αὐτοῦ καὶ ἐν τῷ ὑποδήματι αὐτοῦ τῷ ἐν τῷ ποδὶ αὐτοῦ",
        "greek": true,
-       "translation": "„Și tu ai cunoscut câte mi-a făcut Ioab, fiul Sarviei, câte a făcut celor doi căpetenii ai puterilor lui Israel, lui Avennir, fiul lui Nir, și lui Amessaia, fiul lui Iether, și i-a ucis, și a pus sângele războiului pe cingătoarea lui, cea de pe mijlocul lui, și pe încălțămintea lui, cea de pe piciorul lui.”",
-       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+       "translation": "„Și încă și tu ai cunoscut câte mi-a făcut Ioab, fiul Saruiei, câte a făcut celor doi căpetenii ale oștilor lui Israel, lui Avenir, fiul lui Ner, și lui Amesai, fiul lui Ieter, și i-a ucis, și a așezat sângele războiului în pace, și a pus sânge nevinovat pe cingătoarea lui, cea de pe coapsa lui, și pe încălțămintea lui, cea de pe piciorul lui.”",
+       "note": "A doua oară, în loc de „sângele războiului” din TM, LXX are „sânge nevinovat” (αἷμα ἀθῷον), ceea ce numește crima mai direct; numele proprii sunt transliterate în forme grecești (Σαρουιας, Αβεννηρ, Αμεσσαϊ)."
       }
      ],
      "refs": [
@@ -55955,39 +55974,28 @@
        "translit": "veasita",
        "strong": "H6213",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și vei face (veasita)",
-       "dict_ro": "David lasă pedepsirea lui Ioav înțelepciunii lui Solomon, fără să poruncească explicit moartea, dar fără să-l absolve."
+       "def_ro": "vei face",
+       "dict_ro": "Asa e verbul general al facerii. Alături de bara („a crea”) și iațar („a plăsmui”), apare în Isaia 43:7 într-o gradare pe care tradiția kabbalistică a legat-o de lumile creației, formării și facerii (Beria, Iețira, Asia).",
+       "greek": "ποιέω (poieo)",
+       "greek_def_ro": "ποιέω (poieo) — a face"
       },
       {
-       "t": " "
+       "t": " după "
       },
       {
-       "t": "după înțelepciunea ta,",
-       "w": "după înțelepciunea ta,",
+       "t": "înțelepciunea ta",
+       "w": "înțelepciunea ta",
        "heb": "כְּחָכְמָתֶךָ",
        "translit": "kehahmateha",
        "strong": "H2451",
        "pos": "substantiv, feminin singular construct + sufix",
-       "def_ro": "după înțelepciunea ta, (kehahmateha)",
-       "dict_ro": "David lasă pedepsirea lui Ioav înțelepciunii lui Solomon, fără să poruncească explicit moartea, dar fără să-l absolve.",
-       "greek": "κατὰ τὴν σοφίαν σου (kata ten sophian sou)",
-       "greek_def_ro": "κατὰ τὴν σοφίαν σου (kata ten sophian sou) — după înțelepciunea ta."
+       "def_ro": "înțelepciunea ta",
+       "dict_ro": "Hokhmah, „înțelepciune”, este darul de a lucra cu pricepere: „duhul înțelepciunii” pentru lucrătorii cortului (Exodul 28:3). David lasă lui Solomon să judece după propria lui înțelepciune, fără să-i dea o poruncă expresă pentru Ioav.",
+       "greek": "σοφία (sophia)",
+       "greek_def_ro": "σοφία (sophia) — înțelepciune"
       },
       {
-       "t": " "
-      },
-      {
-       "t": "dar nu-i lăsa",
-       "w": "dar nu-i lăsa",
-       "heb": "וְלֹא תוֹרֵד",
-       "translit": "velo torēd",
-       "strong": "H3381",
-       "pos": "particulă negativă + verb, hifil imperfect",
-       "def_ro": "și nu vei lăsa (velo torēd)",
-       "dict_ro": "David lasă pedepsirea lui Ioav înțelepciunii lui Solomon, fără să poruncească explicit moartea, dar fără să-l absolve."
-      },
-      {
-       "t": " "
+       "t": ", dar nu-i lăsa "
       },
       {
        "t": "perii albi",
@@ -55996,40 +56004,59 @@
        "translit": "sēvato",
        "strong": "H7872",
        "pos": "substantiv, feminin singular construct + sufix",
-       "def_ro": "căruntețea lui (sēvato)",
-       "dict_ro": "„Perii albi” coborând în pace în sălașul morților e o expresie pentru o moarte naturală, netulburată de pedeapsă.",
-       "greek": "σὺ κατάξεις τὴν πολιὰν αὐτοῦ ἐν εἰρήνῃ εἰς ᾅδου (sy kataxeis ten polian autou en eirene eis hadou)",
-       "greek_def_ro": "σὺ κατάξεις τὴν πολιὰν αὐτοῦ ἐν εἰρήνῃ εἰς ᾅδου (sy kataxeis ten polian autou en eirene eis hadou) — tu vei doborî cărunteții lui în pace în locuința morților."
+       "def_ro": "perii lui albi",
+       "dict_ro": "Seivah, „păr alb”, este vârsta înaintată, cinstită: „veți coborî perii mei albi cu durere în Șeol” (Geneza 42:38). Ioav era bătrân, dar David cere ca bătrânețea lui să nu-l apere de pedeapsă.",
+       "greek": "πολιά (polia)",
+       "greek_def_ro": "πολιά (polia) — păr alb"
+      },
+      {
+       "t": " să "
+      },
+      {
+       "t": "coboare",
+       "w": "coboare",
+       "heb": "תוֹרֵד",
+       "translit": "torēd",
+       "strong": "H3381",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "să coboare",
+       "dict_ro": "Iarad, „a coborî”; „cei ce coboară la mare” (iordei haiam) e expresia ebraică pentru navigatori (Psalmul 107:23), pentru că drumul spre porturi cobora de pe dealurile locuite. Din aceeași rădăcină e explicat de obicei numele Iordanului, „cel ce coboară”.",
+       "greek": "κατάγω (katago)",
+       "greek_def_ro": "κατάγω (katago) — a coborî"
       },
       {
        "t": " "
       },
       {
-       "t": "să coboare în pace",
-       "w": "să coboare în pace",
+       "t": "în pace",
+       "w": "în pace",
        "heb": "בְּשָׁלֹם",
        "translit": "beșalom",
        "strong": "H7965",
        "pos": "substantiv, masculin singular",
-       "def_ro": "în pace (beșalom)",
-       "dict_ro": "„Perii albi” coborând în pace în sălașul morților e o expresie pentru o moarte naturală, netulburată de pedeapsă.",
-       "greek": "σὺ κατάξεις τὴν πολιὰν αὐτοῦ ἐν εἰρήνῃ εἰς ᾅδου (sy kataxeis ten polian autou en eirene eis hadou)",
-       "greek_def_ro": "σὺ κατάξεις τὴν πολιὰν αὐτοῦ ἐν εἰρήνῃ εἰς ᾅδου (sy kataxeis ten polian autou en eirene eis hadou) — tu vei doborî cărunteții lui în pace în locuința morților."
+       "def_ro": "în pace",
+       "dict_ro": "Șalom, „pace, plinătate”, este binecuvântarea preoțească: „DOMNUL să-ți dea pace” (Numeri 6:26). „Sânge de război în vreme de pace” arată că Ioav a încălcat chiar ceea ce înseamnă șalom: a ucis oameni în timpul păcii.",
+       "greek": "εἰρήνη (eirene)",
+       "greek_def_ro": "εἰρήνη (eirene) — pace"
       },
       {
-       "t": " "
+       "t": " în "
       },
       {
-       "t": "în sălașul morților.",
-       "w": "în sălașul morților.",
+       "t": "sălașul morților",
+       "w": "sălașul morților",
        "heb": "שְׁאֹל",
        "translit": "șeol",
        "strong": "H7585",
        "pos": "nume propriu",
-       "def_ro": "în Șeol. (șeol)",
-       "dict_ro": "„Perii albi” coborând în pace în sălașul morților e o expresie pentru o moarte naturală, netulburată de pedeapsă.",
-       "greek": "σὺ κατάξεις τὴν πολιὰν αὐτοῦ ἐν εἰρήνῃ εἰς ᾅδου (sy kataxeis ten polian autou en eirene eis hadou)",
-       "greek_def_ro": "σὺ κατάξεις τὴν πολιὰν αὐτοῦ ἐν εἰρήνῃ εἰς ᾅδου (sy kataxeis ten polian autou en eirene eis hadou) — tu vei doborî cărunteții lui în pace în locuința morților."
+       "def_ro": "Șeol",
+       "dict_ro": "Șeol este locuința morților, locul spre care coboară toți: „voi coborî la fiul meu în Șeol” (Geneza 37:35). A coborî în Șeol „în pace” înseamnă a muri liniștit; David cere ca Ioav să nu aibă această moarte.",
+       "greek": "ᾅδης (hades)",
+       "greek_def_ro": "ᾅδης (hades) — Hades, lumea morților",
+       "diff_ro": "Ebraica: „Șeol” (sheol); Septuaginta: „Hades” (ᾅδου)."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -56041,10 +56068,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ποιήσεις κατὰ τὴν σοφίαν σου, καὶ σὺ κατάξεις τὴν πολιὰν αὐτοῦ ἐν εἰρήνῃ εἰς ᾅδου.",
+       "original": "καὶ ποιήσεις κατὰ τὴν σοφίαν σου καὶ οὐ κατάξεις τὴν πολιὰν αὐτοῦ ἐν εἰρήνῃ εἰς ᾅδου",
        "greek": true,
-       "translation": "„Și vei face după înțelepciunea ta, și tu îi vei coborî cărunteța lui în pace în locuința morților.”",
-       "note": "LXX inversează sensul negativ al TM: nu „nu-i coborî”, ci afirmativ „îi vei coborî... în pace” — o divergență reală de sens, aparent contrară intenției explicite a poruncii lui David; posibilă eroare de transmitere sau interpretare textuală diferită în tradiția grecească."
+       "translation": "„Și vei face după înțelepciunea ta și nu vei coborî părul lui alb în pace în Hades.”",
+       "note": "Apropiere strânsă; „Șeol” (sheol) este redat prin „Hades” (ᾅδου), iar negația din TM se păstrează (οὐ κατάξεις)."
       }
      ],
      "refs": [
@@ -56085,19 +56112,22 @@
      "translit": "Velivnēi Varzilai haGhiladi taasē-hesed vehaiu beohlēi șulhaneha ki-hēn karvu ēlai bevorhi mipenēi Avșalom ahiha.",
      "tokens": [
       {
-       "t": "Dar față de copiii lui",
-       "w": "Dar față de copiii lui",
+       "t": "Dar față de "
+      },
+      {
+       "t": "copiii",
+       "w": "copiii",
        "heb": "וְלִבְנֵי",
        "translit": "velivnē",
        "strong": "H1121",
        "pos": "substantiv, masculin plural construct",
-       "def_ro": "și fiilor lui (velivnē)",
-       "dict_ro": "Barzilai Ghiladitul l-a ajutat generos pe David în exilul de la Mahanaim, în timpul revoltei lui Absalom — bunătatea cerută aici e recunoștință, nu obligație politică.",
-       "greek": "τοῖς υἱοῖς Βερζελλεὶ τοῦ Γαλααδείτου ποιήσεις ἔλεος (tois hyiois Berzellei tou Galaadeitou poieseis eleos)",
-       "greek_def_ro": "τοῖς υἱοῖς Βερζελλεὶ τοῦ Γαλααδείτου ποιήσεις ἔλεος (tois hyiois Berzellei tou Galaadeitou poieseis eleos) — fiilor lui Barzilai Galaaditul vei face milă."
+       "def_ro": "fiii",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": " lui "
       },
       {
        "t": "Barzilai",
@@ -56106,10 +56136,10 @@
        "translit": "varzilai",
        "strong": "H1271",
        "pos": "nume propriu",
-       "def_ro": "Barzilai (varzilai)",
-       "dict_ro": "Barzilai Ghiladitul l-a ajutat generos pe David în exilul de la Mahanaim, în timpul revoltei lui Absalom.",
-       "greek": "τοῖς υἱοῖς Βερζελλεὶ τοῦ Γαλααδείτου ποιήσεις ἔλεος (tois hyiois Berzellei tou Galaadeitou poieseis eleos)",
-       "greek_def_ro": "τοῖς υἱοῖς Βερζελλεὶ τοῦ Γαλααδείτου ποιήσεις ἔλεος (tois hyiois Berzellei tou Galaadeitou poieseis eleos) — fiilor lui Barzilai Galaaditul vei face milă."
+       "def_ro": "Barzilai",
+       "dict_ro": "Barzilai ghiladitul din Roghelim l-a hrănit pe David și oamenii lui la Mahanaim, când fugea de Avșalom (2 Samuel 17:27). Era un om bogat, foarte bătrân, care a refuzat răsplata personală.",
+       "greek": "Βερζελλί (Berzelli)",
+       "greek_def_ro": "Βερζελλί (Berzelli) — Barzilai"
       },
       {
        "t": " "
@@ -56121,10 +56151,10 @@
        "translit": "hagiladi",
        "strong": "H1569",
        "pos": "nume de neam",
-       "def_ro": "ghiladitul (hagiladi)",
-       "dict_ro": "Barzilai Ghiladitul l-a ajutat generos pe David în exilul de la Mahanaim, în timpul revoltei lui Absalom.",
-       "greek": "τοῖς υἱοῖς Βερζελλεὶ τοῦ Γαλααδείτου ποιήσεις ἔλεος (tois hyiois Berzellei tou Galaadeitou poieseis eleos)",
-       "greek_def_ro": "τοῖς υἱοῖς Βερζελλεὶ τοῦ Γαλααδείτου ποιήσεις ἔλεος (tois hyiois Berzellei tou Galaadeitou poieseis eleos) — fiilor lui Barzilai Galaaditul vei face milă."
+       "def_ro": "ghiladitul",
+       "dict_ro": "Ghiladitul vine din Ghilad, regiunea de la est de Iordan. Barzilai „ghiladitul” a venit cu ajutor tocmai când David se refugiase acolo (2 Samuel 19:32).",
+       "greek": "Γαλααδίτης (Galaadites)",
+       "greek_def_ro": "Γαλααδίτης (Galaadites) — galaadit"
       },
       {
        "t": " "
@@ -56136,154 +56166,148 @@
        "translit": "taase",
        "strong": "H6213",
        "pos": "verb, qal imperfect",
-       "def_ro": "vei face (taase)",
-       "dict_ro": "Barzilai Ghiladitul l-a ajutat generos pe David în exilul de la Mahanaim, în timpul revoltei lui Absalom.",
-       "greek": "τοῖς υἱοῖς Βερζελλεὶ τοῦ Γαλααδείτου ποιήσεις ἔλεος (tois hyiois Berzellei tou Galaadeitou poieseis eleos)",
-       "greek_def_ro": "τοῖς υἱοῖς Βερζελλεὶ τοῦ Γαλααδείτου ποιήσεις ἔλεος (tois hyiois Berzellei tou Galaadeitou poieseis eleos) — fiilor lui Barzilai Galaaditul vei face milă."
+       "def_ro": "vei face",
+       "dict_ro": "Asa e verbul general al facerii. Alături de bara („a crea”) și iațar („a plăsmui”), apare în Isaia 43:7 într-o gradare pe care tradiția kabbalistică a legat-o de lumile creației, formării și facerii (Beria, Iețira, Asia).",
+       "greek": "ποιέω (poieo)",
+       "greek_def_ro": "ποιέω (poieo) — a face"
       },
       {
-       "t": " "
+       "t": " cu "
       },
       {
-       "t": "cu bunătate.",
-       "w": "cu bunătate.",
+       "t": "bunătate",
+       "w": "bunătate",
        "heb": "חֶסֶד",
        "translit": "hesed",
        "strong": "H2617",
        "pos": "substantiv, masculin singular",
-       "def_ro": "bunătate. (hesed)",
-       "dict_ro": "Barzilai Ghiladitul l-a ajutat generos pe David în exilul de la Mahanaim, în timpul revoltei lui Absalom.",
-       "greek": "τοῖς υἱοῖς Βερζελλεὶ τοῦ Γαλααδείτου ποιήσεις ἔλεος (tois hyiois Berzellei tou Galaadeitou poieseis eleos)",
-       "greek_def_ro": "τοῖς υἱοῖς Βερζελλεὶ τοῦ Γαλααδείτου ποιήσεις ἔλεος (tois hyiois Berzellei tou Galaadeitou poieseis eleos) — fiilor lui Barzilai Galaaditul vei face milă."
+       "def_ro": "bunătate",
+       "dict_ro": "Hesed, „bunătate, loialitate”, este fidelitatea care ține legământul: „fă bunătate stăpânului meu Avraam” (Geneza 24:12). David îi cere lui Solomon să răsplătească loialitatea lui Barzilai: fidelitatea primită trebuie întoarsă.",
+       "greek": "ἔλεος (eleos)",
+       "greek_def_ro": "ἔλεος (eleos) — milă, îndurare"
       },
       {
-       "t": " "
+       "t": ". Ei "
       },
       {
-       "t": "Ei să fie",
-       "w": "Ei să fie",
+       "t": "să fie",
+       "w": "să fie",
        "heb": "וְהָיוּ",
        "translit": "vehaiu",
        "strong": "H1961",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și vor fi (vehaiu)",
-       "dict_ro": "Masa regală simbolizează onoarea permanentă acordată familiei lui Barzilai, în contrast cu pedeapsa cerută pentru Ioav și Șimi.",
-       "greek": "ἔσονται ἐν τοῖς ἐσθίουσιν τὴν τράπεζάν σου (esontai en tois esthiousin ten trapezan sou)",
-       "greek_def_ro": "ἔσονται ἐν τοῖς ἐσθίουσιν τὴν τράπεζάν σου (esontai en tois esthiousin ten trapezan sou) — vor fi printre cei care mănâncă la masa ta."
+       "def_ro": "să fie",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "εἰμί (eimi)",
+       "greek_def_ro": "εἰμί (eimi) — a fi"
       },
       {
-       "t": " "
+       "t": " printre cei ce "
       },
       {
-       "t": "printre cei ce mănâncă",
-       "w": "printre cei ce mănâncă",
+       "t": "mănâncă",
+       "w": "mănâncă",
        "heb": "בְּאֹכְלֵי",
        "translit": "beohlē",
        "strong": "H398",
        "pos": "verb, qal participiu",
-       "def_ro": "printre cei ce mănâncă (beohlē)",
-       "dict_ro": "Masa regală simbolizează onoarea permanentă acordată familiei lui Barzilai, în contrast cu pedeapsa cerută pentru Ioav și Șimi.",
-       "greek": "ἔσονται ἐν τοῖς ἐσθίουσιν τὴν τράπεζάν σου (esontai en tois esthiousin ten trapezan sou)",
-       "greek_def_ro": "ἔσονται ἐν τοῖς ἐσθίουσιν τὴν τράπεζάν σου (esontai en tois esthiousin ten trapezan sou) — vor fi printre cei care mănâncă la masa ta."
+       "def_ro": "mănâncă",
+       "dict_ro": "Akhal, „a mânca”, e verbul simplu al mesei: „din toți pomii grădinii poți mânca” (Geneza 2:16). Să mănânci la masa regelui era cea mai mare cinste, semn de prietenie și protecție.",
+       "greek": "ἐσθίω (esthio)",
+       "greek_def_ro": "ἐσθίω (esthio) — a mânca"
       },
       {
-       "t": " "
+       "t": " la "
       },
       {
-       "t": "la masa ta,",
-       "w": "la masa ta,",
+       "t": "masa ta",
+       "w": "masa ta",
        "heb": "שֻׁלְחָנֶךָ",
        "translit": "șulhaneha",
        "strong": "H7979",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "masa ta, (șulhaneha)",
-       "dict_ro": "Masa regală simbolizează onoarea permanentă acordată familiei lui Barzilai, în contrast cu pedeapsa cerută pentru Ioav și Șimi.",
-       "greek": "ἔσονται ἐν τοῖς ἐσθίουσιν τὴν τράπεζάν σου (esontai en tois esthiousin ten trapezan sou)",
-       "greek_def_ro": "ἔσονται ἐν τοῖς ἐσθίουσιν τὴν τράπεζάν σου (esontai en tois esthiousin ten trapezan sou) — vor fi printre cei care mănâncă la masa ta."
+       "def_ro": "masa ta",
+       "dict_ro": "Șulhan, „masă”, este masa din cort: „vei face o masă” (Exodul 25:23). „A mânca la masa regelui” a fost la curtea lui David o onoare și o întreținere pentru toată viața.",
+       "greek": "τράπεζα (trapeza)",
+       "greek_def_ro": "τράπεζα (trapeza) — masă"
       },
       {
-       "t": " "
-      },
-      {
-       "t": "căci",
-       "w": "căci",
-       "heb": "כִּי",
-       "translit": "ki",
-       "strong": "H3588",
-       "pos": "conjuncție",
-       "def_ro": "căci (ki)",
-       "dict_ro": "Masa regală simbolizează onoarea permanentă acordată familiei lui Barzilai, în contrast cu pedeapsa cerută pentru Ioav și Șimi."
-      },
-      {
-       "t": " "
+       "t": ", căci "
       },
       {
        "t": "s-au apropiat",
        "w": "s-au apropiat",
-       "heb": "כֵן קָרְבוּ",
-       "translit": "hēn karvu",
+       "heb": "קָרְבוּ",
+       "translit": "karvu",
        "strong": "H7126",
-       "pos": "adverb + verb, qal perfect",
-       "def_ro": "astfel s-au apropiat (hēn karvu)",
-       "dict_ro": "Masa regală simbolizează onoarea permanentă acordată familiei lui Barzilai, în contrast cu pedeapsa cerută pentru Ioav și Șimi."
+       "pos": "verb, qal perfect",
+       "def_ro": "s-au apropiat",
+       "dict_ro": "Qarav, „a se apropia”, se spune și despre moarte: „s-au apropiat zilele lui Israel să moară” (Geneza 47:29). Aceeași formulă îl înfățișează pe Iacov și pe David la sfârșitul vieții: un părinte care își cheamă fiul ca să-i lase o poruncă.",
+       "greek": "ἐγγίζω (engizo)",
+       "greek_def_ro": "ἐγγίζω (engizo) — a se apropia"
       },
       {
-       "t": " "
+       "t": " de mine când "
       },
       {
-       "t": "de mine",
-       "w": "de mine",
-       "heb": "אֵלַי",
-       "translit": "ēlai",
-       "strong": "H413",
-       "pos": "prepoziție + sufix",
-       "def_ro": "de mine (ēlai)",
-       "dict_ro": "Masa regală simbolizează onoarea permanentă acordată familiei lui Barzilai, în contrast cu pedeapsa cerută pentru Ioav și Șimi."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "când fugeam",
-       "w": "când fugeam",
+       "t": "fugeam",
+       "w": "fugeam",
        "heb": "בְּבָרְחִי",
        "translit": "bevarhi",
        "strong": "H1272",
        "pos": "verb, qal infinitiv + sufix",
-       "def_ro": "când fugeam eu (bevarhi)",
-       "dict_ro": "David fugea de fiul său Absalom, în timpul revoltei descrise în 2 Samuel 15-18.",
-       "greek": "οὕτως ἤγγισάν μοι ἐν τῷ με ἀποδιδράσκειν ἀπὸ προσώπου Ἀβεσσαλὼμ τοῦ ἀδελφοῦ σου (houtos engisan moi en to me apodidraskein apo prosopou Abessalom tou adelphou sou)",
-       "greek_def_ro": "οὕτως ἤγγισάν μοι ἐν τῷ με ἀποδιδράσκειν ἀπὸ προσώπου Ἀβεσσαλὼμ τοῦ ἀδελφοῦ σου (houtos engisan moi en to me apodidraskein apo prosopou Abessalom tou adelphou sou) — s-au apropiat de mine când fugeam de fața lui Avșalom, fratele tău."
+       "def_ro": "fugeam",
+       "dict_ro": "Barah, „a fugi”, arată fuga de un pericol: David „a fugit și a scăpat” de Saul (1 Samuel 19:12). Barzilai a stat lângă David tocmai în ceasul fugii, când nimeni nu avea ce câștiga alături de el.",
+       "greek": "ἀποδιδράσκω (apodidrasko)",
+       "greek_def_ro": "ἀποδιδράσκω (apodidrasko) — a fugi"
       },
       {
        "t": " "
       },
       {
-       "t": "dinaintea fratelui tău",
-       "w": "dinaintea fratelui tău",
+       "t": "dinaintea",
+       "w": "dinaintea",
        "heb": "מִפְּנֵי",
        "translit": "mipnē",
        "strong": "H6440",
        "pos": "substantiv, masculin și feminin plural construct",
-       "def_ro": "dinaintea (mipnē)",
-       "dict_ro": "David fugea de fiul său Absalom, în timpul revoltei descrise în 2 Samuel 15-18.",
-       "greek": "οὕτως ἤγγισάν μοι ἐν τῷ με ἀποδιδράσκειν ἀπὸ προσώπου Ἀβεσσαλὼμ τοῦ ἀδελφοῦ σου (houtos engisan moi en to me apodidraskein apo prosopou Abessalom tou adelphou sou)",
-       "greek_def_ro": "οὕτως ἤγγισάν μοι ἐν τῷ με ἀποδιδράσκειν ἀπὸ προσώπου Ἀβεσσαλὼμ τοῦ ἀδελφοῦ σου (houtos engisan moi en to me apodidraskein apo prosopou Abessalom tou adelphou sou) — s-au apropiat de mine când fugeam de fața lui Avșalom, fratele tău."
+       "def_ro": "dinaintea",
+       "dict_ro": "Panim, „fața”, are formă de plural; cu prepoziția le formează lifnei, „înaintea”, literal „la fața”. În Isaia 43:10, lefanai, „înaintea Mea”, are sens de timp: înainte de Dumnezeu nu a fost plăsmuit niciun alt dumnezeu.",
+       "greek": "πρόσωπον (prosopon)",
+       "greek_def_ro": "πρόσωπον (prosopon) — față"
       },
       {
        "t": " "
       },
       {
-       "t": "Avșalom.",
-       "w": "Avșalom.",
+       "t": "fratelui tău",
+       "w": "fratelui tău",
+       "heb": "אָחִיךָ",
+       "translit": "ahiha",
+       "strong": "H251",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "fratelui tău",
+       "dict_ro": "Ah, „frate”, este cuvântul din întrebarea lui Dumnezeu către Cain: „unde este Abel, fratele tău?” (Geneza 4:9). Avșalom este numit aici „fratele lui Solomon”, unul din fiii lui David, deși a ajuns dușman al tatălui său.",
+       "greek": "ἀδελφός (adelphos)",
+       "greek_def_ro": "ἀδελφός (adelphos) — frate"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Avșalom",
+       "w": "Avșalom",
        "heb": "אַבְשָׁלוֹם",
        "translit": "avșalom",
        "strong": "H53",
        "pos": "nume propriu",
-       "def_ro": "Absalom. (avșalom)",
-       "dict_ro": "David fugea de fiul său Absalom, în timpul revoltei descrise în 2 Samuel 15-18.",
-       "greek": "οὕτως ἤγγισάν μοι ἐν τῷ με ἀποδιδράσκειν ἀπὸ προσώπου Ἀβεσσαλὼμ τοῦ ἀδελφοῦ σου (houtos engisan moi en to me apodidraskein apo prosopou Abessalom tou adelphou sou)",
-       "greek_def_ro": "οὕτως ἤγγισάν μοι ἐν τῷ με ἀποδιδράσκειν ἀπὸ προσώπου Ἀβεσσαλὼμ τοῦ ἀδελφοῦ σου (houtos engisan moi en to me apodidraskein apo prosopou Abessalom tou adelphou sou) — s-au apropiat de mine când fugeam de fața lui Avșalom, fratele tău."
+       "def_ro": "Avșalom",
+       "dict_ro": "Avșalom, „tatăl păcii”, era fiul lui David (2 Samuel 13:1) care s-a răsculat împotriva tatălui său și a încercat să-i ia tronul. Fuga lui David din fața lui a fost momentul în care s-au văzut prietenii adevărați.",
+       "greek": "Ἀβεσσαλώμ (Abessalom)",
+       "greek_def_ro": "Ἀβεσσαλώμ (Abessalom) — Avșalom"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -56295,10 +56319,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ τοῖς υἱοῖς Βερζελλεὶ τοῦ Γαλααδείτου ποιήσεις ἔλεος, καὶ ἔσονται ἐν τοῖς ἐσθίουσιν τὴν τράπεζάν σου· ὅτι οὕτως ἤγγισάν μοι ἐν τῷ με ἀποδιδράσκειν ἀπὸ προσώπου Ἀβεσσαλὼμ τοῦ ἀδελφοῦ σου.",
+       "original": "καὶ τοῖς υἱοῖς Βερζελλι τοῦ Γαλααδίτου ποιήσεις ἔλεος καὶ ἔσονται ἐν τοῖς ἐσθίουσιν τὴν τράπεζάν σου ὅτι οὕτως ἤγγισάν μοι ἐν τῷ με ἀποδιδράσκειν ἀπὸ προσώπου Αβεσσαλωμ τοῦ ἀδελφοῦ σου",
        "greek": true,
-       "translation": "„Și fiilor lui Verzellei Galaaditul le vei face milă, și vor fi printre cei ce mănâncă masa ta; căci așa s-au apropiat de mine când fugeam dinaintea lui Abessalom, fratele tău.”",
-       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+       "translation": "„Și fiilor lui Barzilai galaaditul le vei arăta milă, și vor fi printre cei ce mănâncă la masa ta, căci așa s-au apropiat de mine când fugeam dinaintea lui Abesalom, fratele tău.”",
+       "note": "Apropiere strânsă; „bunătate” (hesed) este redat prin „milă, îndurare” (ἔλεος)."
       }
      ],
      "refs": [
@@ -56335,154 +56359,171 @@
      "translit": "Vehinē imeha Șimi ven-Ghēra ven-haIemini mi'Bahurim vehu kilelani kelala nimretzet beiom lehti Mahanaim vehu-iarad likrati haIardēn vaeșava lo b'ADONAI lēmor im-amitha beherev.",
      "tokens": [
       {
-       "t": "Iată,",
-       "w": "Iată,",
-       "heb": "וְהִנֵּה",
-       "translit": "vehinē",
-       "strong": "H2009",
-       "pos": "particulă demonstrativă",
-       "def_ro": "și iată, (vehinē)",
-       "dict_ro": "Șimi l-a blestemat pe David în timpul fugii de Absalom; David i-a jurat viața la întoarcere, dar lasă acum socoteala finală lui Solomon.",
-       "greek": "ἰδοὺ μετὰ σοῦ Σεμεεὶ υἱὸς Γηρὰ υἱὸς τοῦ Ἰεμεινεὶ ἐκ Βααθουρείμ (idou meta sou Semeei hyios Gera hyios tou Iemeinei ek Baathoureim)",
-       "greek_def_ro": "ἰδοὺ μετὰ σοῦ Σεμεεὶ υἱὸς Γηρὰ υἱὸς τοῦ Ἰεμεινεὶ ἐκ Βααθουρείμ (idou meta sou Semeei hyios Gera hyios tou Iemeinei ek Baathoureim) — iată, cu tine Șimi, fiul lui Ghera, fiul lui Iemeini, din Bahurim."
+       "t": "Iată, îi ai cu tine pe "
       },
       {
-       "t": " "
-      },
-      {
-       "t": "îi ai cu tine",
-       "w": "îi ai cu tine",
-       "heb": "עִמְּךָ",
-       "translit": "imha",
-       "strong": "H5973",
-       "pos": "prepoziție + sufix",
-       "def_ro": "cu tine (imha)",
-       "dict_ro": "Șimi l-a blestemat pe David în timpul fugii de Absalom; David i-a jurat viața la întoarcere, dar lasă acum socoteala finală lui Solomon.",
-       "greek": "ἰδοὺ μετὰ σοῦ Σεμεεὶ υἱὸς Γηρὰ υἱὸς τοῦ Ἰεμεινεὶ ἐκ Βααθουρείμ (idou meta sou Semeei hyios Gera hyios tou Iemeinei ek Baathoureim)",
-       "greek_def_ro": "ἰδοὺ μετὰ σοῦ Σεμεεὶ υἱὸς Γηρὰ υἱὸς τοῦ Ἰεμεινεὶ ἐκ Βααθουρείμ (idou meta sou Semeei hyios Gera hyios tou Iemeinei ek Baathoureim) — iată, cu tine Șimi, fiul lui Ghera, fiul lui Iemeini, din Bahurim."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "pe Șimi,",
-       "w": "pe Șimi,",
+       "t": "Șimi",
+       "w": "Șimi",
        "heb": "שִׁמְעִי",
        "translit": "șimi",
        "strong": "H8096",
        "pos": "nume propriu",
-       "def_ro": "Șimi, (șimi)",
-       "dict_ro": "Șimi l-a blestemat pe David în timpul fugii de Absalom; David i-a jurat viața la întoarcere, dar lasă acum socoteala finală lui Solomon.",
-       "greek": "ἰδοὺ μετὰ σοῦ Σεμεεὶ υἱὸς Γηρὰ υἱὸς τοῦ Ἰεμεινεὶ ἐκ Βααθουρείμ (idou meta sou Semeei hyios Gera hyios tou Iemeinei ek Baathoureim)",
-       "greek_def_ro": "ἰδοὺ μετὰ σοῦ Σεμεεὶ υἱὸς Γηρὰ υἱὸς τοῦ Ἰεμεινεὶ ἐκ Βααθουρείμ (idou meta sou Semeei hyios Gera hyios tou Iemeinei ek Baathoureim) — iată, cu tine Șimi, fiul lui Ghera, fiul lui Iemeini, din Bahurim."
+       "def_ro": "Șimei",
+       "dict_ro": "Șimei, fiul lui Ghera, din Bahurim, a blestemat pe David când fugea (2 Samuel 16:5). David nu l-a pedepsit atunci și apoi i-a jurat să nu-l omoare, dar pentru Solomon rămâne o datorie nerezolvată.",
+       "greek": "Σεμεΐ (Semei)",
+       "greek_def_ro": "Σεμεΐ (Semei) — Șimei"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "fiul lui Ghera,",
-       "w": "fiul lui Ghera,",
+       "t": "fiul lui Ghera",
+       "w": "fiul lui Ghera",
        "heb": "בֶן גֵּרָא",
        "translit": "ven gēra",
-       "strong": "H1617",
+       "strong": "H1121",
        "pos": "substantiv, masculin singular construct + nume propriu",
-       "def_ro": "fiul lui Ghera, (ven gēra)",
-       "dict_ro": "Șimi l-a blestemat pe David în timpul fugii de Absalom; David i-a jurat viața la întoarcere, dar lasă acum socoteala finală lui Solomon."
+       "def_ro": "fiul lui Ghera",
+       "dict_ro": "„Ben Ghera”, „fiul lui Ghera”: Șimei făcea parte din casa lui Saul, prin Ghera (2 Samuel 16:5). Numele tatălui îi arată originea în familia care pierduse tronul în favoarea lui David.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "beniamitul,",
-       "w": "beniamitul,",
+       "t": "beniamitul",
+       "w": "beniamitul",
        "heb": "בֶן הַיְמִינִי",
        "translit": "ven haimini",
        "strong": "H1145",
        "pos": "substantiv, masculin singular construct + nume de neam",
-       "def_ro": "beniamitul, (ven haimini)",
-       "dict_ro": "Șimi era din tribul lui Beniamin, tribul fostului rege Saul, explicând poate dușmănia lui față de David."
+       "def_ro": "fiul beniamitului",
+       "dict_ro": "Ben-iemini, „fiu al dreptei”, este beniaminitul, din tribul lui Beniamin (1 Samuel 9:21). Tribul lui Saul era o provincie mică, dar mândră, cu amintiri despre tronul pierdut.",
+       "greek": "υἱὸς Ἰεμενί (hyios Iemeni)",
+       "greek_def_ro": "υἱὸς Ἰεμενί (hyios Iemeni) — fiul lui Iemeni",
+       "diff_ro": "Ebraica: „beniamitul” (ha-iemini); Septuaginta: „fiul lui Iemeni” (υἱὸς τοῦ Ιεμενι), ca nume de familie."
       },
       {
-       "t": " "
+       "t": ", din "
       },
       {
-       "t": "din Bahurim.",
-       "w": "din Bahurim.",
+       "t": "Bahurim",
+       "w": "Bahurim",
        "heb": "מִבַּחֻרִים",
        "translit": "mibahurim",
        "strong": "H980",
        "pos": "nume propriu",
-       "def_ro": "din Bahurim. (mibahurim)",
-       "dict_ro": "Bahurim, localitate pe drumul fugii lui David, e locul exact al blestemului lui Șimi, menționat în 2 Samuel 16.",
-       "greek": "ἰδοὺ μετὰ σοῦ Σεμεεὶ υἱὸς Γηρὰ υἱὸς τοῦ Ἰεμεινεὶ ἐκ Βααθουρείμ (idou meta sou Semeei hyios Gera hyios tou Iemeinei ek Baathoureim)",
-       "greek_def_ro": "ἰδοὺ μετὰ σοῦ Σεμεεὶ υἱὸς Γηρὰ υἱὸς τοῦ Ἰεμεινεὶ ἐκ Βααθουρείμ (idou meta sou Semeei hyios Gera hyios tou Iemeinei ek Baathoureim) — iată, cu tine Șimi, fiul lui Ghera, fiul lui Iemeini, din Bahurim."
+       "def_ro": "Bahurim",
+       "dict_ro": "Bahurim, „tinerii”, era un sat lângă Ierusalim, în teritoriul lui Beniamin (2 Samuel 3:16). Acolo l-a întâlnit Șimei pe David și l-a blestemat din vârful dealului.",
+       "greek": "Βαουρίμ (Baourim)",
+       "greek_def_ro": "Βαουρίμ (Baourim) — Bahurim"
+      },
+      {
+       "t": ". "
+      },
+      {
+       "t": "El",
+       "w": "El",
+       "heb": "וְהוּא",
+       "translit": "vehu",
+       "strong": "H1931",
+       "pos": "pronume personal",
+       "def_ro": "el",
+       "dict_ro": "Hu, „el”, capătă în Isaia 41-48 un sens teologic în formula ani hu, „Eu sunt Acela”: Dumnezeu e Același, neschimbat, de la început până la sfârșit (Isaia 43:10; 48:12).",
+       "greek": "αὐτός (autos)",
+       "greek_def_ro": "αὐτός (autos) — el"
       },
       {
        "t": " "
       },
       {
-       "t": "El m-a blestemat",
-       "w": "El m-a blestemat",
-       "heb": "וְהוּא קִלְלַנִי",
-       "translit": "vehu killani",
+       "t": "m-a blestemat",
+       "w": "m-a blestemat",
+       "heb": "קִלְלַנִי",
+       "translit": "killani",
        "strong": "H7043",
-       "pos": "pronume personal + verb, piel perfect + sufix",
-       "def_ro": "și el m-a blestemat (vehu killani)",
-       "dict_ro": "Blestemul lui Șimi, descris drept „aspru”, a fost rostit public, chiar în momentul cel mai vulnerabil al lui David."
+       "pos": "verb, piel perfect + sufix",
+       "def_ro": "m-a blestemat",
+       "dict_ro": "Qalal la forma intensivă înseamnă „a blestema, a dispreți”: „pe cel ce te va blestema, îl voi blestema” (Geneza 12:3). A blestema pe regele uns este o faptă gravă; de aceea Solomon trebuie să decidă ce pedeapsă merită Șimei.",
+       "greek": "καταράομαι (kataraomai)",
+       "greek_def_ro": "καταράομαι (kataraomai) — a blestema"
       },
       {
-       "t": " "
+       "t": " cu "
       },
       {
-       "t": "cu blestem aspru",
-       "w": "cu blestem aspru",
+       "t": "blestem aspru",
+       "w": "blestem aspru",
        "heb": "קְלָלָה נִמְרֶצֶת",
        "translit": "kelala nimrețet",
-       "strong": "H4834",
+       "strong": "H7045",
        "pos": "substantiv, feminin singular + verb, nifal participiu",
-       "def_ro": "cu blestem aspru (kelala nimrețet)",
-       "dict_ro": "Blestemul lui Șimi, descris drept „aspru”, a fost rostit public, chiar în momentul cel mai vulnerabil al lui David."
+       "def_ro": "blestem puternic",
+       "dict_ro": "„Qelalah nimrețet” înseamnă „blestem aspru, usturător”. Cuvântul qelalah, „blestem”, e opusul „binecuvântării” (Deuteronomul 11:26). Aici e vorba de blestemul rostit de Șimei, plin de ură, când David fugea.",
+       "greek": "κατάρα (katara)",
+       "greek_def_ro": "κατάρα (katara) — blestem"
       },
       {
-       "t": " "
+       "t": " în "
       },
       {
-       "t": "în ziua în care am mers",
-       "w": "în ziua în care am mers",
-       "heb": "בְּיוֹם לֶכְתִּי",
-       "translit": "beom lehti",
+       "t": "ziua",
+       "w": "ziua",
+       "heb": "בְּיוֹם",
+       "translit": "beom",
+       "strong": "H3117",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "ziua",
+       "dict_ro": "Iom, „zi”, este cuvântul din prima zi a creației (Geneza 1:5), dar în Biblie înseamnă și o perioadă de viață sau de domnie. „Zilele lui David” sunt anii lui, care se apropie de capăt.",
+       "greek": "ἡμέρα (hemera)",
+       "greek_def_ro": "ἡμέρα (hemera) — zi"
+      },
+      {
+       "t": " în care "
+      },
+      {
+       "t": "am mers",
+       "w": "am mers",
+       "heb": "לֶכְתִּי",
+       "translit": "lehti",
        "strong": "H3212",
-       "pos": "substantiv, masculin singular construct + verb, qal infinitiv + sufix",
-       "def_ro": "în ziua mergerii mele (beom lehti)",
-       "dict_ro": "Blestemul lui Șimi, descris drept „aspru”, a fost rostit public, chiar în momentul cel mai vulnerabil al lui David."
+       "pos": "verb, qal infinitiv + sufix",
+       "def_ro": "am mers",
+       "dict_ro": "Sunt formele verbului halah, „a merge”, în care cade h-ul inițial (de pildă elekh, telekh, holikh). La forma cauzativă (holikh), verbul înseamnă „a face să meargă”, a conduce pe cineva, ca în imaginea lui Dumnezeu care călăuzește pe orbi pe un drum necunoscut (Isaia 42:16).",
+       "greek": "πορεύομαι (poreuomai)",
+       "greek_def_ro": "πορεύομαι (poreuomai) — a merge, a umbla"
       },
       {
-       "t": " "
+       "t": " la "
       },
       {
-       "t": "la Mahanaim,",
-       "w": "la Mahanaim,",
+       "t": "Mahanaim",
+       "w": "Mahanaim",
        "heb": "מַחֲנָיִם",
        "translit": "mahanaim",
        "strong": "H4266",
        "pos": "nume propriu",
-       "def_ro": "la Mahanaim, (mahanaim)",
-       "dict_ro": "Mahanaim, locul de refugiu al lui David în timpul revoltei lui Absalom, la est de Iordan.",
-       "greek": "τῇ ἡμέρᾳ ᾗ ἐπορευόμην εἰς παρεμβολάς (te hemera he eporeuomen eis parembolas)",
-       "greek_def_ro": "τῇ ἡμέρᾳ ᾗ ἐπορευόμην εἰς παρεμβολάς (te hemera he eporeuomen eis parembolas) — în ziua în care mergeam spre tabere."
+       "def_ro": "Mahanaim",
+       "dict_ro": "Mahanaim, „două tabere”, este locul unde Iacov a văzut îngerii: „a numit locul acela Mahanaim” (Geneza 32:3). În zilele lui David, a ajuns refugiul lui când fugea de Avșalom, în ținutul Ghiladului.",
+       "greek": "παρεμβολή (parembole)",
+       "greek_def_ro": "παρεμβολή (parembole) — tabără",
+       "diff_ro": "Ebraica: „Mahanaim” (nume de loc); Septuaginta: „tabere” (παρεμβολάς), numele fiind tradus."
       },
       {
-       "t": " "
+       "t": ", dar "
       },
       {
-       "t": "dar a coborât",
-       "w": "dar a coborât",
-       "heb": "וְהוּא יָרַד",
-       "translit": "vehu iarad",
+       "t": "a coborât",
+       "w": "a coborât",
+       "heb": "יָרַד",
+       "translit": "iarad",
        "strong": "H3381",
-       "pos": "pronume personal + verb, qal perfect",
-       "def_ro": "și el a coborât (vehu iarad)",
-       "dict_ro": "La întoarcerea lui David după înfrângerea lui Absalom, Șimi vine să-l întâmpine, cerând implicit îndurare."
+       "pos": "verb, qal perfect",
+       "def_ro": "a coborât",
+       "dict_ro": "Iarad, „a coborî”; „cei ce coboară la mare” (iordei haiam) e expresia ebraică pentru navigatori (Psalmul 107:23), pentru că drumul spre porturi cobora de pe dealurile locuite. Din aceeași rădăcină e explicat de obicei numele Iordanului, „cel ce coboară”.",
+       "greek": "καταβαίνω (katabaino)",
+       "greek_def_ro": "καταβαίνω (katabaino) — a coborî"
       },
       {
        "t": " "
@@ -56494,96 +56535,104 @@
        "translit": "likrati",
        "strong": "H7125",
        "pos": "verb, qal infinitiv + sufix",
-       "def_ro": "să mă întâmpine (likrati)",
-       "dict_ro": "La întoarcerea lui David după înfrângerea lui Absalom, Șimi vine să-l întâmpine, cerând implicit îndurare.",
-       "greek": "αὐτὸς κατέβη εἰς ἀπαντήν μου εἰς τὸν Ἰορδάνην (autos katebe eis apanten mou eis ton Iordanen)",
-       "greek_def_ro": "αὐτὸς κατέβη εἰς ἀπαντήν μου εἰς τὸν Ἰορδάνην (autos katebe eis apanten mou eis ton Iordanen) — el a coborât în întâmpinarea mea, la Iordan."
+       "def_ro": "în întâmpinarea mea",
+       "dict_ro": "Qirat, „întâmpinare”, apare în „a ieșit în întâmpinarea lui” (Geneza 14:17). Șimei a coborât la Iordan să-l întâmpine pe David la întoarcere, cerând iertare în fața întregului popor.",
+       "greek": "ἀπάντησις (apantesis)",
+       "greek_def_ro": "ἀπάντησις (apantesis) — întâmpinare"
       },
       {
-       "t": " "
+       "t": " la "
       },
       {
-       "t": "la Iordan",
-       "w": "la Iordan",
+       "t": "Iordan",
+       "w": "Iordan",
        "heb": "הַיַּרְדֵּן",
        "translit": "haiardēn",
        "strong": "H3383",
        "pos": "nume propriu",
-       "def_ro": "la Iordan (haiardēn)",
-       "dict_ro": "La întoarcerea lui David după înfrângerea lui Absalom, Șimi vine să-l întâmpine, cerând implicit îndurare.",
-       "greek": "αὐτὸς κατέβη εἰς ἀπαντήν μου εἰς τὸν Ἰορδάνην (autos katebe eis apanten mou eis ton Iordanen)",
-       "greek_def_ro": "αὐτὸς κατέβη εἰς ἀπαντήν μου εἰς τὸν Ἰορδάνην (autos katebe eis apanten mou eis ton Iordanen) — el a coborât în întâmpinarea mea, la Iordan."
+       "def_ro": "Iordan",
+       "dict_ro": "Iardén, Iordanul, este râul care desparte țara Canaanului de ținuturile de la est: „toată câmpia Iordanului” (Geneza 13:10). David l-a trecut când fugea și iar când se întorcea.",
+       "greek": "Ἰορδάνης (Iordanes)",
+       "greek_def_ro": "Ἰορδάνης (Iordanes) — Iordan"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și i-am jurat pe",
-       "w": "și i-am jurat pe",
-       "heb": "וָאֶשָּׁבַע לוֹ",
-       "translit": "vaeșava lo",
-       "strong": "",
-       "pos": "verb, nifal imperfect consecutiv + prepoziție + sufix",
-       "def_ro": "și am jurat pe (vaeșava lo)",
-       "dict_ro": "Jurământul lui David de a nu-l ucide pe Șimi a fost personal și irevocabil pentru el însuși — dar nu obligă și pe Solomon, care nu a jurat nimic."
+       "t": "i-am jurat",
+       "w": "i-am jurat",
+       "heb": "וָאֶשָּׁבַע",
+       "translit": "vaeșava",
+       "strong": "H7650",
+       "pos": "verb, nifal imperfect consecutiv",
+       "def_ro": "i-am jurat",
+       "dict_ro": "Șava la forma pasivă înseamnă „a jura”, adică a lega un jurământ cu numele lui Dumnezeu: „jură-mi” (Geneza 21:23). David i-a jurat lui Șimei pe DOMNUL; jurământul este personal, de aceea Solomon trebuie să-l respecte într-un fel.",
+       "greek": "ὄμνυμι (omnymi)",
+       "greek_def_ro": "ὄμνυμι (omnymi) — a jura"
       },
       {
-       "t": " "
+       "t": " pe "
       },
       {
-       "t": "DOMNUL,",
-       "w": "DOMNUL,",
+       "t": "DOMNUL",
+       "w": "DOMNUL",
        "heb": "בַיהוָה",
        "translit": "va'Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
-       "def_ro": "DOMNUL, (va'Adonai)",
-       "dict_ro": "Jurământul lui David de a nu-l ucide pe Șimi a fost personal și irevocabil pentru el însuși — dar nu obligă și pe Solomon, care nu a jurat nimic.",
-       "greek": "ὤμοσα αὐτῷ ἐν Κυρίῳ λέγων Εἰ θανατώσω σε ἐν ῥομφαίᾳ (omosa auto en Kyrio legon Ei thanatoso se en rhomphaia)",
-       "greek_def_ro": "ὤμοσα αὐτῷ ἐν Κυρίῳ λέγων Εἰ θανατώσω σε ἐν ῥομφαίᾳ (omosa auto en Kyrio legon Ei thanatoso se en rhomphaia) — i-am jurat pe Domnul, zicând: nu te voi da morții cu sabia."
+       "def_ro": "Domnul",
+       "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn; DOMNUL"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "spunând:",
-       "w": "spunând:",
+       "t": "spunând",
+       "w": "spunând",
        "heb": "לֵאמֹר",
        "translit": "lēmor",
        "strong": "H559",
        "pos": "verb, qal infinitiv",
-       "def_ro": "spunând: (lēmor)",
-       "dict_ro": "Jurământul lui David de a nu-l ucide pe Șimi a fost personal și irevocabil pentru el însuși — dar nu obligă și pe Solomon, care nu a jurat nimic.",
-       "greek": "ὤμοσα αὐτῷ ἐν Κυρίῳ λέγων Εἰ θανατώσω σε ἐν ῥομφαίᾳ (omosa auto en Kyrio legon Ei thanatoso se en rhomphaia)",
-       "greek_def_ro": "ὤμοσα αὐτῷ ἐν Κυρίῳ λέγων Εἰ θανατώσω σε ἐν ῥομφαίᾳ (omosa auto en Kyrio legon Ei thanatoso se en rhomphaia) — i-am jurat pe Domnul, zicând: nu te voi da morții cu sabia."
+       "def_ro": "zicând",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
       },
       {
-       "t": " "
+       "t": ": «Nu te "
       },
       {
-       "t": "«Nu te voi omorî",
-       "w": "«Nu te voi omorî",
-       "heb": "אִם אֲמִיתְךָ",
-       "translit": "im amitha",
+       "t": "voi omorî",
+       "w": "voi omorî",
+       "heb": "אֲמִיתְךָ",
+       "translit": "amitha",
        "strong": "H4191",
-       "pos": "conjuncție + verb, hifil imperfect + sufix",
-       "def_ro": "dacă te voi ucide (im amitha)",
-       "dict_ro": "Jurământul lui David de a nu-l ucide pe Șimi a fost personal și irevocabil pentru el însuși — dar nu obligă și pe Solomon, care nu a jurat nimic."
+       "pos": "verb, hifil imperfect + sufix",
+       "def_ro": "voi omorî",
+       "dict_ro": "Mut, „a muri”, este cuvântul avertismentului din grădina Edenului: „vei muri negreșit” (Geneza 2:17). Cartea Regilor spune simplu și cu cinste că regele David se apropie de moarte, fără ocolișuri.",
+       "greek": "θανατόω (thanatoo)",
+       "greek_def_ro": "θανατόω (thanatoo) — a omorî",
+       "diff_ro": "Ebraica: „nu te voi omorî” (im amitkha); Septuaginta: „dacă te voi omorî” (εἰ θανατώσω), forma ebraică a jurământului."
       },
       {
-       "t": " "
+       "t": " cu "
       },
       {
-       "t": "cu sabia.»",
-       "w": "cu sabia.»",
+       "t": "sabia",
+       "w": "sabia",
        "heb": "בֶּחָרֶב",
        "translit": "beharev",
        "strong": "H2719",
        "pos": "substantiv, feminin singular",
-       "def_ro": "cu sabia.» (beharev)",
-       "dict_ro": "Jurământul lui David de a nu-l ucide pe Șimi a fost personal și irevocabil pentru el însuși — dar nu obligă și pe Solomon, care nu a jurat nimic.",
-       "greek": "ὤμοσα αὐτῷ ἐν Κυρίῳ λέγων Εἰ θανατώσω σε ἐν ῥομφαίᾳ (omosa auto en Kyrio legon Ei thanatoso se en rhomphaia)",
-       "greek_def_ro": "ὤμοσα αὐτῷ ἐν Κυρίῳ λέγων Εἰ θανατώσω σε ἐν ῥομφαίᾳ (omosa auto en Kyrio legon Ei thanatoso se en rhomphaia) — i-am jurat pe Domnul, zicând: nu te voi da morții cu sabia."
+       "def_ro": "sabia",
+       "dict_ro": "Hereb, „sabie”, este arma judecății: „sabia învârtitoare” a păzit intrarea în Eden (Geneza 3:24). „Nu te voi omorî cu sabia” este un jurământ limitat: David nu a promis nimic pentru ce va face Solomon.",
+       "greek": "ῥομφαία (rhomphaia)",
+       "greek_def_ro": "ῥομφαία (rhomphaia) — sabie"
+      },
+      {
+       "t": ".»"
       }
      ],
      "textCompare": [
@@ -56595,10 +56644,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἰδοὺ μετὰ σοῦ Σεμεεὶ υἱὸς Γηρὰ υἱὸς τοῦ Ἰεμεινεὶ ἐκ Βααθουρείμ· καὶ αὐτὸς κατηράσατό με κατάραν ὀδυνηρὰν τῇ ἡμέρᾳ ᾗ ἐπορευόμην εἰς παρεμβολάς, καὶ αὐτὸς κατέβη εἰς ἀπαντήν μου εἰς τὸν Ἰορδάνην, καὶ ὤμοσα αὐτῷ ἐν Κυρίῳ λέγων Εἰ θανατώσω σε ἐν ῥομφαίᾳ.",
+       "original": "καὶ ἰδοὺ μετὰ σοῦ Σεμεϊ υἱὸς Γηρα υἱὸς τοῦ Ιεμενι ἐκ Βαουριμ καὶ αὐτὸς κατηράσατό με κατάραν ὀδυνηρὰν τῇ ἡμέρᾳ ᾗ ἐπορευόμην εἰς παρεμβολάς καὶ αὐτὸς κατέβη εἰς ἀπαντήν μου εἰς τὸν Ιορδάνην καὶ ὤμοσα αὐτῷ ἐν κυρίῳ λέγων εἰ θανατώσω σε ἐν ῥομφαίᾳ",
        "greek": true,
-       "translation": "„Și iată, cu tine e Semeei, fiul lui Ghira, fiul Iemineiului, din Baathurim; și el m-a blestemat cu blestem dureros în ziua în care mergeam spre tabere, și el a coborât în întâmpinarea mea la Iordan, și i-am jurat pe Domnul, zicând: de te voi ucide cu sabia.”",
-       "note": "LXX redă „Mahanaim” (nume propriu de loc) prin „tabere” (εἰς παρεμβολάς, tradus generic) — o divergență de citire a numelui geografic ca substantiv comun."
+       "translation": "„Și iată, cu tine este Semei, fiul lui Ghera, fiul lui Iemeni, din Baurim; și el m-a blestemat cu blestem dureros în ziua în care mergeam spre tabere, și el a coborât în întâmpinarea mea la Iordan, și i-am jurat pe Domnul, zicând: Dacă te voi ucide cu sabia…”",
+       "note": "LXX redă numele locului „Mahanaim” prin „tabere” (παρεμβολάς), traducându-i sensul („două tabere”), iar jurământul „nu te voi omorî” este păstrat în forma ebraică a jurământului, „dacă te voi ucide” (εἰ θανατώσω)."
       }
      ],
      "refs": [
@@ -56641,42 +56690,48 @@
      "translit": "Veata al-tenakēhu ki iș hahom ata veiadata ēt așer taasē-lo vehoradta et-sēivato bedam șeol.",
      "tokens": [
       {
-       "t": "Însă acum,",
-       "w": "Însă acum,",
+       "t": "Însă "
+      },
+      {
+       "t": "acum",
+       "w": "acum",
        "heb": "וְעַתָּה",
        "translit": "veata",
        "strong": "H6258",
        "pos": "adverb",
-       "def_ro": "și acum, (veata)",
-       "dict_ro": "David transferă explicit responsabilitatea morală a lui Șimi lui Solomon, fără să-i poruncească direct moartea, exact ca în cazul lui Ioav."
+       "def_ro": "acum",
+       "dict_ro": "Veata, „și acum”, marchează în profeți o întorsătură: după mustrare urmează mângâierea, după judecată făgăduința (Isaia 43:1).",
+       "diff_ro": "Septuaginta nu are „acum” (veata)."
       },
       {
-       "t": " "
+       "t": ", să nu-l socotești "
       },
       {
-       "t": "să nu-l socotești nevinovat,",
-       "w": "să nu-l socotești nevinovat,",
-       "heb": "אַל תְּנַקֵּהוּ",
-       "translit": "al tenakēhu",
+       "t": "nevinovat",
+       "w": "nevinovat",
+       "heb": "תְּנַקֵּהוּ",
+       "translit": "tenakēhu",
        "strong": "H5352",
-       "pos": "particulă negativă + verb, piel jusiv + sufix",
-       "def_ro": "nu-l vei considera nevinovat, (al tenakēhu)",
-       "dict_ro": "David transferă explicit responsabilitatea morală a lui Șimi lui Solomon, fără să-i poruncească direct moartea.",
-       "greek": "οὐ μὴ ἀθῳώσῃς αὐτόν (ou me athooses auton)",
-       "greek_def_ro": "οὐ μὴ ἀθῳώσῃς αὐτόν (ou me athooses auton) — să nu-l socotești nevinovat."
+       "pos": "verb, piel jusiv + sufix",
+       "def_ro": "nevinovat",
+       "dict_ro": "Naqah la forma intensivă înseamnă „a socoti nevinovat, a lăsa nepedepsit”: „DOMNUL nu va lăsa nepedepsit” (Exodul 20:7). David îi cere lui Solomon să nu-l lase pe Șimei fără pedeapsă.",
+       "greek": "ἀθῳόω (athooo)",
+       "greek_def_ro": "ἀθῳόω (athooo) — a socoti nevinovat"
       },
       {
-       "t": " "
+       "t": ", căci "
       },
       {
-       "t": "căci ești",
-       "w": "căci ești",
-       "heb": "כִּי אָתָּה",
-       "translit": "ki ata",
+       "t": "ești",
+       "w": "ești",
+       "heb": "אָתָּה",
+       "translit": "ata",
        "strong": "H859",
-       "pos": "conjuncție + pronume personal",
-       "def_ro": "căci ești (ki atta)",
-       "dict_ro": "David transferă explicit responsabilitatea morală a lui Șimi lui Solomon, fără să-i poruncească direct moartea."
+       "pos": "pronume personal",
+       "def_ro": "tu",
+       "dict_ro": "Ata, „tu”, este pronumele pus în față când cineva este chemat să-și asume cunoașterea lui: „Tu ești Dumnezeu” (2 Samuel 7:28). David îi spune lui Solomon „tu știi”, ca pe un martor al faptelor lui Ioav.",
+       "greek": "εἰμί (eimi)",
+       "greek_def_ro": "εἰμί (eimi) — a fi"
       },
       {
        "t": " "
@@ -56686,41 +56741,45 @@
        "w": "om înțelept",
        "heb": "אִישׁ חָכָם",
        "translit": "iș haham",
-       "strong": "H2450",
+       "strong": "H376",
        "pos": "substantiv, masculin singular + adjectiv, masculin singular",
-       "def_ro": "om înțelept (iș haham)",
-       "dict_ro": "David transferă explicit responsabilitatea morală a lui Șimi lui Solomon, fără să-i poruncească direct moartea."
+       "def_ro": "om înțelept",
+       "dict_ro": "„Iș haham”, „om înțelept”, este omul priceput: Faraon caută „un om priceput și înțelept” (Geneza 41:33). David îi recunoaște lui Solomon înțelepciunea, pe care el o va cere mai târziu de la Dumnezeu.",
+       "greek": "ἀνὴρ σοφός (aner sophos)",
+       "greek_def_ro": "ἀνὴρ σοφός (aner sophos) — om înțelept"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și vei ști",
-       "w": "și vei ști",
+       "t": "vei ști",
+       "w": "vei ști",
        "heb": "וְיָדַעְתָּ",
        "translit": "veiadata",
        "strong": "H3045",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și vei ști (veiadata)",
-       "dict_ro": "David transferă explicit responsabilitatea morală a lui Șimi lui Solomon, fără să-i poruncească direct moartea.",
-       "greek": "ὅτι ἀνὴρ σοφὸς εἶ σύ, καὶ γνώσῃ ἃ ποιήσεις αὐτῷ (hoti aner sophos ei sy, kai gnose ha poieseis auto)",
-       "greek_def_ro": "ὅτι ἀνὴρ σοφὸς εἶ σύ, καὶ γνώσῃ ἃ ποιήσεις αὐτῷ (hoti aner sophos ei sy, kai gnose ha poieseis auto) — căci ești om înțelept și vei cunoaște ce-i vei face."
+       "def_ro": "vei ști",
+       "dict_ro": "Iada înseamnă o cunoaștere prin experiență directă și prin legătură personală, nu doar o informație; de aceea poate desemna și unirea soților (Geneza 4:1). „A-L cunoaște pe DOMNUL” înseamnă, la profeți, a trăi în legământ cu El.",
+       "greek": "γινώσκω (ginosko)",
+       "greek_def_ro": "γινώσκω (ginosko) — a cunoaște"
       },
       {
-       "t": " "
+       "t": " ce "
       },
       {
-       "t": "ce să-i faci,",
-       "w": "ce să-i faci,",
-       "heb": "אֲשֶׁר תַּעֲשֶׂה",
-       "translit": "așer taase",
+       "t": "să-i faci",
+       "w": "să-i faci",
+       "heb": "תַּעֲשֶׂה",
+       "translit": "taase",
        "strong": "H6213",
-       "pos": "particulă relativă + verb, qal imperfect",
-       "def_ro": "ce vei face lui, (așer taase lo)",
-       "dict_ro": "David transferă explicit responsabilitatea morală a lui Șimi lui Solomon, fără să-i poruncească direct moartea."
+       "pos": "verb, qal imperfect",
+       "def_ro": "vei face",
+       "dict_ro": "Asa e verbul general al facerii. Alături de bara („a crea”) și iațar („a plăsmui”), apare în Isaia 43:7 într-o gradare pe care tradiția kabbalistică a legat-o de lumile creației, formării și facerii (Beria, Iețira, Asia).",
+       "greek": "ποιέω (poieo)",
+       "greek_def_ro": "ποιέω (poieo) — a face"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
        "t": "coborându-i",
@@ -56729,53 +56788,59 @@
        "translit": "vehoradta",
        "strong": "H3381",
        "pos": "verb, hifil perfect consecutiv",
-       "def_ro": "și vei coborî (vehoradta)",
-       "dict_ro": "Formula „perii albi, cu sânge, în sălașul morților” contrastează deliberat cu moartea în pace promisă mai sus lui Barzilai."
+       "def_ro": "vei coborî",
+       "dict_ro": "Iarad, „a coborî”; „cei ce coboară la mare” (iordei haiam) e expresia ebraică pentru navigatori (Psalmul 107:23), pentru că drumul spre porturi cobora de pe dealurile locuite. Din aceeași rădăcină e explicat de obicei numele Iordanului, „cel ce coboară”.",
+       "greek": "κατάγω (katago)",
+       "greek_def_ro": "κατάγω (katago) — a coborî"
       },
       {
        "t": " "
       },
       {
-       "t": "perii albi,",
-       "w": "perii albi,",
+       "t": "perii albi",
+       "w": "perii albi",
        "heb": "שֵׂיבָתוֹ",
        "translit": "sēvato",
        "strong": "H7872",
        "pos": "substantiv, feminin singular construct + sufix",
-       "def_ro": "căruntețea lui, (sēvato)",
-       "dict_ro": "Formula „perii albi, cu sânge, în sălașul morților” contrastează deliberat cu moartea în pace promisă mai sus lui Barzilai.",
-       "greek": "κατάξεις τὴν πολιὰν αὐτοῦ ἐν αἵματι εἰς ᾅδου (kataxeis ten polian autou en haimati eis hadou)",
-       "greek_def_ro": "κατάξεις τὴν πολιὰν αὐτοῦ ἐν αἵματι εἰς ᾅδου (kataxeis ten polian autou en haimati eis hadou) — vei doborî cărunteții lui cu sânge în locuința morților."
+       "def_ro": "perii lui albi",
+       "dict_ro": "Seivah, „păr alb”, este vârsta înaintată, cinstită: „veți coborî perii mei albi cu durere în Șeol” (Geneza 42:38). Ioav era bătrân, dar David cere ca bătrânețea lui să nu-l apere de pedeapsă.",
+       "greek": "πολιά (polia)",
+       "greek_def_ro": "πολιά (polia) — păr alb"
       },
       {
-       "t": " "
+       "t": ", cu "
       },
       {
-       "t": "cu sânge,",
-       "w": "cu sânge,",
+       "t": "sânge",
+       "w": "sânge",
        "heb": "בְּדָם",
        "translit": "bedam",
        "strong": "H1818",
        "pos": "substantiv, masculin singular",
-       "def_ro": "cu sânge, (bedam)",
-       "dict_ro": "Formula „perii albi, cu sânge, în sălașul morților” contrastează deliberat cu moartea în pace promisă mai sus lui Barzilai.",
-       "greek": "κατάξεις τὴν πολιὰν αὐτοῦ ἐν αἵματι εἰς ᾅδου (kataxeis ten polian autou en haimati eis hadou)",
-       "greek_def_ro": "κατάξεις τὴν πολιὰν αὐτοῦ ἐν αἵματι εἰς ᾅδου (kataxeis ten polian autou en haimati eis hadou) — vei doborî cărunteții lui cu sânge în locuința morților."
+       "def_ro": "sânge",
+       "dict_ro": "Dam, „sânge”, este viața: „glasul sângelui fratelui tău strigă către Mine” (Geneza 4:10). „Cu sânge” înseamnă o moarte violentă, nu una liniștită; pedeapsa ar trebui să-i vină lui Șimei pentru blestemul său.",
+       "greek": "αἷμα (haima)",
+       "greek_def_ro": "αἷμα (haima) — sânge"
       },
       {
-       "t": " "
+       "t": ", în "
       },
       {
-       "t": "în sălașul morților.",
-       "w": "în sălașul morților.",
+       "t": "sălașul morților",
+       "w": "sălașul morților",
        "heb": "שְׁאוֹל",
        "translit": "șeol",
        "strong": "H7585",
        "pos": "nume propriu",
-       "def_ro": "Șeol. (șeol)",
-       "dict_ro": "Formula „perii albi, cu sânge, în sălașul morților” contrastează deliberat cu moartea în pace promisă mai sus lui Barzilai.",
-       "greek": "κατάξεις τὴν πολιὰν αὐτοῦ ἐν αἵματι εἰς ᾅδου (kataxeis ten polian autou en haimati eis hadou)",
-       "greek_def_ro": "κατάξεις τὴν πολιὰν αὐτοῦ ἐν αἵματι εἰς ᾅδου (kataxeis ten polian autou en haimati eis hadou) — vei doborî cărunteții lui cu sânge în locuința morților."
+       "def_ro": "Șeol",
+       "dict_ro": "Șeol este locuința morților, locul spre care coboară toți: „voi coborî la fiul meu în Șeol” (Geneza 37:35). A coborî în Șeol „în pace” înseamnă a muri liniștit; David cere ca Ioav să nu aibă această moarte.",
+       "greek": "ᾅδης (hades)",
+       "greek_def_ro": "ᾅδης (hades) — Hades, lumea morților",
+       "diff_ro": "Ebraica: „Șeol” (sheol); Septuaginta: „Hades” (ᾅδου)."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -56823,16 +56888,19 @@
      "translit": "Vaișkav David im-avotav vaikavēr beir David.",
      "tokens": [
       {
-       "t": "Și David",
-       "w": "Și David",
+       "t": "Și "
+      },
+      {
+       "t": "David",
+       "w": "David",
        "heb": "דָּוִד",
        "translit": "david",
        "strong": "H1732",
        "pos": "nume propriu",
-       "def_ro": "David (david)",
-       "dict_ro": "Formula „s-a culcat alături de strămoșii lui” e eufemismul biblic standard pentru moartea unui rege, urmată de înmormântarea regală.",
-       "greek": "ἐκοιμήθη Δαυεὶδ μετὰ τῶν πατέρων αὐτοῦ (ekoimethe Daueid meta ton pateron autou)",
-       "greek_def_ro": "ἐκοιμήθη Δαυεὶδ μετὰ τῶν πατέρων αὐτοῦ (ekoimethe Daueid meta ton pateron autou) — s-a culcat David cu părinții lui."
+       "def_ro": "David",
+       "dict_ro": "David, „iubit”, este regele ales de Dumnezeu: Duhul DOMNULUI a venit peste el din ziua ungerii (1 Samuel 16:13). El este modelul regelui pentru toate generațiile, iar Dumnezeu i-a făgăduit un tron care nu se va stinge.",
+       "greek": "Δαυίδ (Dauid)",
+       "greek_def_ro": "Δαυίδ (Dauid) — David"
       },
       {
        "t": " "
@@ -56844,68 +56912,73 @@
        "translit": "vaișkav",
        "strong": "H7901",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și s-a culcat (vaișkav)",
-       "dict_ro": "Formula „s-a culcat alături de strămoșii lui” e eufemismul biblic standard pentru moartea unui rege.",
-       "greek": "ἐκοιμήθη Δαυεὶδ μετὰ τῶν πατέρων αὐτοῦ (ekoimethe Daueid meta ton pateron autou)",
-       "greek_def_ro": "ἐκοιμήθη Δαυεὶδ μετὰ τῶν πατέρων αὐτοῦ (ekoimethe Daueid meta ton pateron autou) — s-a culcat David cu părinții lui."
+       "def_ro": "a adormit",
+       "dict_ro": "Șakav, „a se culca”, este verbul morții liniștite: „voi dormi cu părinții mei” (Geneza 47:30). Moartea lui David este descrisă ca adormire, ca a părinților lui.",
+       "greek": "κοιμάομαι (koimaomai)",
+       "greek_def_ro": "κοιμάομαι (koimaomai) — a adormi"
       },
       {
-       "t": " "
+       "t": " alături de "
       },
       {
-       "t": "alături de strămoșii lui",
-       "w": "alături de strămoșii lui",
-       "heb": "עִם אֲבֹתָיו",
-       "translit": "im avotaiv",
+       "t": "strămoșii lui",
+       "w": "strămoșii lui",
+       "heb": "אֲבֹתָיו",
+       "translit": "avotaiv",
        "strong": "H1",
-       "pos": "prepoziție + substantiv, masculin plural construct + sufix",
-       "def_ro": "cu părinții lui (im avotaiv)",
-       "dict_ro": "Formula „s-a culcat alături de strămoșii lui” e eufemismul biblic standard pentru moartea unui rege."
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "părinții lui",
+       "dict_ro": "Av, „tată, strămoș”: „voi dormi cu părinții mei” (Geneza 47:30). David este adunat la părinții lui, în șirul generațiilor, iar și Solomon este numit după „tatăl său David”.",
+       "greek": "πατήρ (pater)",
+       "greek_def_ro": "πατήρ (pater) — tată, strămoș"
       },
       {
-       "t": " "
+       "t": " și a fost "
       },
       {
-       "t": "și a fost înmormântat",
-       "w": "și a fost înmormântat",
+       "t": "înmormântat",
+       "w": "înmormântat",
        "heb": "וַיִּקָּבֵר",
        "translit": "vaikavēr",
        "strong": "H6912",
        "pos": "verb, nifal imperfect consecutiv",
-       "def_ro": "și a fost înmormântat (vaikavēr)",
-       "dict_ro": "„Cetatea lui David” se referă la Ierusalim, mai exact la zona special fortificată cucerită de David, locul tradițional al mormintelor regale.",
-       "greek": "ἐτάφη ἐν πόλει Δαυείδ (etaphe en polei Daueid)",
-       "greek_def_ro": "ἐτάφη ἐν πόλει Δαυείδ (etaphe en polei Daueid) — a fost înmormântat în cetatea lui David."
+       "def_ro": "a fost îngropat",
+       "dict_ro": "Qavar la forma pasivă înseamnă „a fi înmormântat”: „acolo au îngropat pe Avraam” (Geneza 25:10). David este îngropat cu cinste în cetatea lui, nu într-un mormânt oarecare.",
+       "greek": "θάπτω (thapto)",
+       "greek_def_ro": "θάπτω (thapto) — a îngropa"
       },
       {
-       "t": " "
+       "t": " în "
       },
       {
-       "t": "în cetatea lui",
-       "w": "în cetatea lui",
+       "t": "cetatea",
+       "w": "cetatea",
        "heb": "בְּעִיר",
        "translit": "beir",
        "strong": "H5892",
        "pos": "substantiv, feminin singular construct",
-       "def_ro": "în cetatea (beir)",
-       "dict_ro": "„Cetatea lui David” se referă la Ierusalim, mai exact la zona special fortificată cucerită de David, locul tradițional al mormintelor regale.",
-       "greek": "ἐτάφη ἐν πόλει Δαυείδ (etaphe en polei Daueid)",
-       "greek_def_ro": "ἐτάφη ἐν πόλει Δαυείδ (etaphe en polei Daueid) — a fost înmormântat în cetatea lui David."
+       "def_ro": "cetatea",
+       "dict_ro": "Ir desemnează orașul, de obicei înconjurat de ziduri, spre deosebire de satele deschise (hațerim). Primul ziditor de cetate numit în Biblie e Cain (Geneza 4:17).",
+       "greek": "πόλις (polis)",
+       "greek_def_ro": "πόλις (polis) — cetate"
       },
       {
-       "t": " "
+       "t": " lui "
       },
       {
-       "t": "David.",
-       "w": "David.",
+       "t": "David",
+       "w": "David",
        "heb": "דָּוִד",
        "translit": "david",
        "strong": "H1732",
        "pos": "nume propriu",
-       "def_ro": "David. (david)",
-       "dict_ro": "„Cetatea lui David” se referă la Ierusalim, mai exact la zona special fortificată cucerită de David, locul tradițional al mormintelor regale.",
-       "greek": "ἐκοιμήθη Δαυεὶδ μετὰ τῶν πατέρων αὐτοῦ (ekoimethe Daueid meta ton pateron autou)",
-       "greek_def_ro": "ἐκοιμήθη Δαυεὶδ μετὰ τῶν πατέρων αὐτοῦ (ekoimethe Daueid meta ton pateron autou) — s-a culcat David cu părinții lui."
+       "def_ro": "David",
+       "dict_ro": "David, „iubit”, este regele ales de Dumnezeu: Duhul DOMNULUI a venit peste el din ziua ungerii (1 Samuel 16:13). El este modelul regelui pentru toate generațiile, iar Dumnezeu i-a făgăduit un tron care nu se va stinge.",
+       "greek": "Δαυίδ (Dauid)",
+       "greek_def_ro": "Δαυίδ (Dauid) — David"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -56917,10 +56990,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἐκοιμήθη Δαυεὶδ μετὰ τῶν πατέρων αὐτοῦ, καὶ ἐτάφη ἐν πόλει Δαυείδ.",
+       "original": "καὶ ἐκοιμήθη Δαυιδ μετὰ τῶν πατέρων αὐτοῦ καὶ ἐτάφη ἐν πόλει Δαυιδ",
        "greek": true,
-       "translation": "„Și a adormit David cu părinții lui, și a fost îngropat în cetatea lui David.”",
-       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+       "translation": "„Și David a adormit cu părinții lui și a fost îngropat în cetatea lui David.”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
       }
      ],
      "refs": [
@@ -56952,29 +57025,34 @@
      "translit": "Vehaiamim așer maleh David al-Israēl arbaim șana beHevron maleh șeva șanim uvi'Irușalaim maleh șeloșim veșaloș șanim.",
      "tokens": [
       {
-       "t": "Și zilele",
-       "w": "Și zilele",
+       "t": "Și "
+      },
+      {
+       "t": "zilele",
+       "w": "zilele",
        "heb": "וְהַיָּמִים",
        "translit": "vehaiamim",
        "strong": "H3117",
        "pos": "substantiv, masculin plural",
-       "def_ro": "și zilele (vehaiamim)",
-       "dict_ro": "Cele 40 de ani de domnie ai lui David, împărțiți exact între Hebron (7 ani) și Ierusalim (33 de ani), confirmă cronologia tradițională a unificării regatului.",
-       "greek": "αἱ ἡμέραι ἃς ἐβασίλευσεν Δαυεὶδ ἐπὶ τὸν Ἰσραὴλ τεσσεράκοντα ἔτη (hai hemerai has ebasileusen Daueid epi ton Israel tesserakonta ete)",
-       "greek_def_ro": "αἱ ἡμέραι ἃς ἐβασίλευσεν Δαυεὶδ ἐπὶ τὸν Ἰσραὴλ τεσσεράκοντα ἔτη (hai hemerai has ebasileusen Daueid epi ton Israel tesserakonta ete) — zilele în care a domnit David peste Israel, patruzeci de ani."
+       "def_ro": "zilele",
+       "dict_ro": "Iom, „zi”, este cuvântul din prima zi a creației (Geneza 1:5), dar în Biblie înseamnă și o perioadă de viață sau de domnie. „Zilele lui David” sunt anii lui, care se apropie de capăt.",
+       "greek": "ἡμέρα (hemera)",
+       "greek_def_ro": "ἡμέρα (hemera) — zi"
       },
       {
-       "t": " "
+       "t": " pe care le-"
       },
       {
-       "t": "pe care le-a domnit",
-       "w": "pe care le-a domnit",
-       "heb": "אֲשֶׁר מָלַךְ",
-       "translit": "așer malah",
+       "t": "a domnit",
+       "w": "a domnit",
+       "heb": "מָלַךְ",
+       "translit": "malah",
        "strong": "H4427",
-       "pos": "particulă relativă + verb, qal perfect",
-       "def_ro": "care a domnit (așer malah)",
-       "dict_ro": "Cele 40 de ani de domnie ai lui David, împărțiți exact între Hebron și Ierusalim, confirmă cronologia tradițională a unificării regatului."
+       "pos": "verb, qal perfect",
+       "def_ro": "a domnit",
+       "dict_ro": "Malakh, „a domni”, este verbul regelui: „regii care au domnit în țara Edomului” (Geneza 36:31). Anii domniei lui David sunt cuprinși în zilele lui.",
+       "greek": "βασιλεύω (basileuo)",
+       "greek_def_ro": "βασιλεύω (basileuo) — a domni"
       },
       {
        "t": " "
@@ -56986,51 +57064,55 @@
        "translit": "david",
        "strong": "H1732",
        "pos": "nume propriu",
-       "def_ro": "David (david)",
-       "dict_ro": "Cele 40 de ani de domnie ai lui David, împărțiți exact între Hebron și Ierusalim.",
-       "greek": "αἱ ἡμέραι ἃς ἐβασίλευσεν Δαυεὶδ ἐπὶ τὸν Ἰσραὴλ τεσσεράκοντα ἔτη (hai hemerai has ebasileusen Daueid epi ton Israel tesserakonta ete)",
-       "greek_def_ro": "αἱ ἡμέραι ἃς ἐβασίλευσεν Δαυεὶδ ἐπὶ τὸν Ἰσραὴλ τεσσεράκοντα ἔτη (hai hemerai has ebasileusen Daueid epi ton Israel tesserakonta ete) — zilele în care a domnit David peste Israel, patruzeci de ani."
+       "def_ro": "David",
+       "dict_ro": "David, „iubit”, este regele ales de Dumnezeu: Duhul DOMNULUI a venit peste el din ziua ungerii (1 Samuel 16:13). El este modelul regelui pentru toate generațiile, iar Dumnezeu i-a făgăduit un tron care nu se va stinge.",
+       "greek": "Δαυίδ (Dauid)",
+       "greek_def_ro": "Δαυίδ (Dauid) — David"
       },
       {
-       "t": " "
+       "t": " peste "
       },
       {
-       "t": "peste Israel",
-       "w": "peste Israel",
-       "heb": "עַל יִשְׂרָאֵל",
-       "translit": "al israēl",
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
        "strong": "H3478",
-       "pos": "prepoziție + nume propriu",
-       "def_ro": "peste Israel (al israēl)",
-       "dict_ro": "Cele 40 de ani de domnie ai lui David, împărțiți exact între Hebron și Ierusalim."
+       "pos": "nume propriu",
+       "def_ro": "Israel",
+       "dict_ro": "Numele Israel i-a fost dat lui Iacov după lupta de la Iaboc și i-a fost confirmat la Betel (Geneza 35:10); textul îl explică prin „ai luptat cu Dumnezeu și cu oamenii și ai biruit”. În profeți, „Iacov” și „Israel” apar adesea în paralel, desemnând același popor: primul e numele de la naștere, al doilea numele chemării.",
+       "greek": "Ἰσραήλ (Israel)",
+       "greek_def_ro": "Ἰσραήλ (Israel) — Israel"
       },
       {
-       "t": " "
+       "t": " au fost "
       },
       {
-       "t": "au fost patruzeci de ani:",
-       "w": "au fost patruzeci de ani:",
+       "t": "patruzeci de ani",
+       "w": "patruzeci de ani",
        "heb": "אַרְבָּעִים שָׁנָה",
        "translit": "arbaim șana",
-       "strong": "H8141",
+       "strong": "H705",
        "pos": "numeral + substantiv, feminin singular",
-       "def_ro": "patruzeci de ani: (arbaim șana)",
-       "dict_ro": "Cele 40 de ani de domnie ai lui David, împărțiți exact între Hebron și Ierusalim."
+       "def_ro": "patruzeci de ani",
+       "dict_ro": "„Arbaim șana”, „patruzeci de ani”: număr rotund (Geneza 25:20) care arată o perioadă completă. David a domnit patruzeci de ani, ca Moise în pustie.",
+       "greek": "τεσσαράκοντα ἔτη (tessarakonta ete)",
+       "greek_def_ro": "τεσσαράκοντα ἔτη (tessarakonta ete) — patruzeci de ani"
       },
       {
-       "t": " "
+       "t": ": la "
       },
       {
-       "t": "la Hebron",
-       "w": "la Hebron",
+       "t": "Hebron",
+       "w": "Hebron",
        "heb": "בְּחֶבְרוֹן",
        "translit": "behevron",
        "strong": "H2275",
        "pos": "nume propriu",
-       "def_ro": "în Hebron (behevron)",
-       "dict_ro": "Hebron, prima capitală a lui David, unde a domnit șapte ani doar peste tribul Iuda, înainte de unificarea regatului.",
-       "greek": "ἐν Χεβρὼν ἐβασίλευσεν ἔτη ἑπτά (en Chebron ebasileusen ete hepta)",
-       "greek_def_ro": "ἐν Χεβρὼν ἐβασίλευσεν ἔτη ἑπτά (en Chebron ebasileusen ete hepta) — la Hebron a domnit șapte ani."
+       "def_ro": "Hebron",
+       "dict_ro": "Hevron, Hebron, este orașul din Iuda unde Avraam și-a îngropat soția: Sara a murit „în Chiriat-Arba, adică Hebron” (Geneza 23:2). Acolo David a fost uns rege peste Iuda și a domnit șapte ani.",
+       "greek": "Χεβρών (Chebron)",
+       "greek_def_ro": "Χεβρών (Chebron) — Hebron"
       },
       {
        "t": " "
@@ -57042,38 +57124,40 @@
        "translit": "malah",
        "strong": "H4427",
        "pos": "verb, qal perfect",
-       "def_ro": "a domnit (malah)",
-       "dict_ro": "Hebron, prima capitală a lui David, unde a domnit șapte ani doar peste tribul Iuda, înainte de unificarea regatului.",
-       "greek": "αἱ ἡμέραι ἃς ἐβασίλευσεν Δαυεὶδ ἐπὶ τὸν Ἰσραὴλ τεσσεράκοντα ἔτη (hai hemerai has ebasileusen Daueid epi ton Israel tesserakonta ete)",
-       "greek_def_ro": "αἱ ἡμέραι ἃς ἐβασίλευσεν Δαυεὶδ ἐπὶ τὸν Ἰσραὴλ τεσσεράκοντα ἔτη (hai hemerai has ebasileusen Daueid epi ton Israel tesserakonta ete) — zilele în care a domnit David peste Israel, patruzeci de ani."
+       "def_ro": "a domnit",
+       "dict_ro": "Malakh, „a domni”, este verbul regelui: „regii care au domnit în țara Edomului” (Geneza 36:31). Anii domniei lui David sunt cuprinși în zilele lui.",
+       "greek": "βασιλεύω (basileuo)",
+       "greek_def_ro": "βασιλεύω (basileuo) — a domni"
       },
       {
        "t": " "
       },
       {
-       "t": "șapte ani,",
-       "w": "șapte ani,",
+       "t": "șapte ani",
+       "w": "șapte ani",
        "heb": "שֶׁבַע שָׁנִים",
        "translit": "șeva șanim",
-       "strong": "H8141",
+       "strong": "H7651",
        "pos": "numeral + substantiv, feminin plural",
-       "def_ro": "șapte ani, (șeva șanim)",
-       "dict_ro": "Hebron, prima capitală a lui David, unde a domnit șapte ani doar peste tribul Iuda."
+       "def_ro": "șapte ani",
+       "dict_ro": "„Șeva șanim”, „șapte ani”: perioada cât David a domnit la Hebron, peste Iuda (Geneza 29:18 folosește aceleași cuvinte pentru cei șapte ani ai lui Iacov pentru Rahela). Șapte este numărul plinătății.",
+       "greek": "ἑπτὰ ἔτη (hepta ete)",
+       "greek_def_ro": "ἑπτὰ ἔτη (hepta ete) — șapte ani"
       },
       {
-       "t": " "
+       "t": ", iar la "
       },
       {
-       "t": "iar la Ierusalim",
-       "w": "iar la Ierusalim",
+       "t": "Ierusalim",
+       "w": "Ierusalim",
        "heb": "וּבִירוּשָׁלִַם",
        "translit": "uvirușalam",
        "strong": "H3389",
        "pos": "nume propriu",
-       "def_ro": "și în Ierusalim (uvirușalam)",
-       "dict_ro": "Ierusalim, capitala cucerită de David de la iebusiți, devine sediul domniei unite peste tot Israelul.",
-       "greek": "ἐν Ἰερουσαλὴμ τριάκοντα τρία ἔτη (en Ierousalem triakonta tria ete)",
-       "greek_def_ro": "ἐν Ἰερουσαλὴμ τριάκοντα τρία ἔτη (en Ierousalem triakonta tria ete) — la Ierusalim, treizeci și trei de ani."
+       "def_ro": "Ierusalim",
+       "dict_ro": "Ierușalaim, Ierusalim, era cetatea iebusiților, cucerită de David: „la Ierusalim a domnit treizeci și trei de ani” (2 Samuel 5:5). Ea a devenit capitala regatului și orașul Templului.",
+       "greek": "Ἰερουσαλήμ (Ierousalem)",
+       "greek_def_ro": "Ἰερουσαλήμ (Ierousalem) — Ierusalim"
       },
       {
        "t": " "
@@ -57085,23 +57169,27 @@
        "translit": "malah",
        "strong": "H4427",
        "pos": "verb, qal perfect",
-       "def_ro": "a domnit (malah)",
-       "dict_ro": "Ierusalim, capitala cucerită de David de la iebusiți, devine sediul domniei unite peste tot Israelul.",
-       "greek": "αἱ ἡμέραι ἃς ἐβασίλευσεν Δαυεὶδ ἐπὶ τὸν Ἰσραὴλ τεσσεράκοντα ἔτη (hai hemerai has ebasileusen Daueid epi ton Israel tesserakonta ete)",
-       "greek_def_ro": "αἱ ἡμέραι ἃς ἐβασίλευσεν Δαυεὶδ ἐπὶ τὸν Ἰσραὴλ τεσσεράκοντα ἔτη (hai hemerai has ebasileusen Daueid epi ton Israel tesserakonta ete) — zilele în care a domnit David peste Israel, patruzeci de ani."
+       "def_ro": "a domnit",
+       "dict_ro": "Malakh, „a domni”, este verbul regelui: „regii care au domnit în țara Edomului” (Geneza 36:31). Anii domniei lui David sunt cuprinși în zilele lui.",
+       "diff_ro": "Septuaginta nu repetă verbul „a domnit” la Ierusalim; are doar „treizeci și trei de ani”."
       },
       {
        "t": " "
       },
       {
-       "t": "treizeci și trei de ani.",
-       "w": "treizeci și trei de ani.",
+       "t": "treizeci și trei de ani",
+       "w": "treizeci și trei de ani",
        "heb": "שְׁלֹשִׁים וְשָׁלֹשׁ שָׁנִים",
        "translit": "șeloșim veșaloș șanim",
-       "strong": "H8141",
+       "strong": "H7970",
        "pos": "numeral + numeral + substantiv, feminin plural",
-       "def_ro": "treizeci și trei de ani. (șeloșim veșaloș șanim)",
-       "dict_ro": "Ierusalim, capitala cucerită de David de la iebusiți, devine sediul domniei unite peste tot Israelul, timp de treizeci și trei de ani."
+       "def_ro": "treizeci și trei de ani",
+       "dict_ro": "„Șeloșim veșaloș șanim”, „treizeci și trei de ani”: durata domniei lui David peste tot Israelul, din Ierusalim (2 Samuel 5:5). Numărul se adaugă celor șapte ani din Hebron, pentru patruzeci de ani în total.",
+       "greek": "τριάκοντα τρία ἔτη (triakonta tria ete)",
+       "greek_def_ro": "τριάκοντα τρία ἔτη (triakonta tria ete) — treizeci și trei de ani"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -57113,10 +57201,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ αἱ ἡμέραι ἃς ἐβασίλευσεν Δαυεὶδ ἐπὶ τὸν Ἰσραὴλ τεσσεράκοντα ἔτη· ἐν Χεβρὼν ἐβασίλευσεν ἔτη ἑπτά, καὶ ἐν Ἰερουσαλὴμ τριάκοντα τρία ἔτη.",
+       "original": "καὶ αἱ ἡμέραι ἃς ἐβασίλευσεν Δαυιδ ἐπὶ τὸν Ισραηλ τεσσαράκοντα ἔτη ἐν Χεβρων ἐβασίλευσεν ἔτη ἑπτὰ καὶ ἐν Ιερουσαλημ τριάκοντα τρία ἔτη",
        "greek": true,
-       "translation": "„Și zilele pe care a domnit David peste Israel, patruzeci de ani; la Hebron a domnit șapte ani, și la Ierusalim treizeci și trei de ani.”",
-       "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
+       "translation": "„Și zilele în care a domnit David peste Israel au fost patruzeci de ani; la Hebron a domnit șapte ani, și la Ierusalim treizeci și trei de ani.”",
+       "note": "Apropiere strânsă între TM și LXX la acest verset."
       }
      ],
      "refs": [
@@ -57145,16 +57233,20 @@
      "translit": "U'Șlomo iașav al-kisē David aviv vatikon malhuto meod.",
      "tokens": [
       {
-       "t": "Și Solomon",
-       "w": "Și Solomon",
+       "t": "Și "
+      },
+      {
+       "t": "Solomon",
+       "w": "Solomon",
        "heb": "וּשְׁלֹמֹה",
        "translit": "ușlomo",
        "strong": "H8010",
        "pos": "nume propriu",
-       "def_ro": "și Solomon (ușlomo)",
-       "dict_ro": "Succesiunea se încheie liniștit: Solomon se așază pe tron, și domnia lui se întărește — tranziția dorită de David s-a împlinit.",
-       "greek": "Σαλωμὼν ἐκάθισεν ἐπὶ θρόνου Δαυεὶδ τοῦ πατρὸς αὐτοῦ (Salomon ekathisen epi thronou Daueid tou patros autou)",
-       "greek_def_ro": "Σαλωμὼν ἐκάθισεν ἐπὶ θρόνου Δαυεὶδ τοῦ πατρὸς αὐτοῦ (Salomon ekathisen epi thronou Daueid tou patros autou) — Solomon a șezut pe tronul lui David, tatăl lui."
+       "def_ro": "Solomon",
+       "dict_ro": "Șelomo, Solomon, vine din șalom, „pace”: David l-a avut cu Batșeba, iar DOMNUL l-a iubit (2 Samuel 12:24). El este fiul care preia tronul și primește la început sfaturile moștenite ale tatălui său.",
+       "greek": "Σαλωμών (Salomon)",
+       "greek_def_ro": "Σαλωμών (Salomon) — Solomon",
+       "diff_ro": "Septuaginta adaugă „fiu de doisprezece ani” (υἱὸς ἐτῶν δώδεκα), care lipsește din ebraică."
       },
       {
        "t": " "
@@ -57166,23 +57258,25 @@
        "translit": "iașav",
        "strong": "H3427",
        "pos": "verb, qal perfect",
-       "def_ro": "a șezut (iașav)",
-       "dict_ro": "Succesiunea se încheie liniștit: Solomon se așază pe tron, și domnia lui se întărește.",
-       "greek": "Σαλωμὼν ἐκάθισεν ἐπὶ θρόνου Δαυεὶδ τοῦ πατρὸς αὐτοῦ (Salomon ekathisen epi thronou Daueid tou patros autou)",
-       "greek_def_ro": "Σαλωμὼν ἐκάθισεν ἐπὶ θρόνου Δαυεὶδ τοῦ πατρὸς αὐτοῦ (Salomon ekathisen epi thronou Daueid tou patros autou) — Solomon a șezut pe tronul lui David, tatăl lui."
+       "def_ro": "a șezut",
+       "dict_ro": "Iașav înseamnă a ședea și, prin extensie, a locui statornic; participiul ioșvei („cei ce locuiesc”) desemnează locuitorii unui loc. În Biblie, Dumnezeu „șade” pe tron ca rege și judecător (Isaia 6:1).",
+       "greek": "καθίζω (kathizo)",
+       "greek_def_ro": "καθίζω (kathizo) — a se așeza"
       },
       {
-       "t": " "
+       "t": " pe "
       },
       {
-       "t": "pe tronul",
-       "w": "pe tronul",
-       "heb": "עַל כִּסֵּא",
-       "translit": "al kisē",
+       "t": "tronul",
+       "w": "tronul",
+       "heb": "כִּסֵּא",
+       "translit": "kisē",
        "strong": "H3678",
-       "pos": "prepoziție + substantiv, masculin singular construct",
-       "def_ro": "pe tronul (al kisē)",
-       "dict_ro": "Succesiunea se încheie liniștit: Solomon se așază pe tron, și domnia lui se întărește."
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tronul",
+       "dict_ro": "Kisé, „tron”, este scaunul regal: „numai cu tronul voi fi mai mare decât tine” (Geneza 41:40). Tronul lui David este locul de la care guvernează un rege ales de DOMNUL.",
+       "greek": "θρόνος (thronos)",
+       "greek_def_ro": "θρόνος (thronos) — tron"
       },
       {
        "t": " "
@@ -57194,53 +57288,74 @@
        "translit": "aviv",
        "strong": "H1",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "tatălui lui (aviv)",
-       "dict_ro": "Succesiunea se încheie liniștit: Solomon se așază pe tronul lui David, tatăl lui.",
-       "greek": "Σαλωμὼν ἐκάθισεν ἐπὶ θρόνου Δαυεὶδ τοῦ πατρὸς αὐτοῦ (Salomon ekathisen epi thronou Daueid tou patros autou)",
-       "greek_def_ro": "Σαλωμὼν ἐκάθισεν ἐπὶ θρόνου Δαυεὶδ τοῦ πατρὸς αὐτοῦ (Salomon ekathisen epi thronou Daueid tou patros autou) — Solomon a șezut pe tronul lui David, tatăl lui."
+       "def_ro": "tatălui său",
+       "dict_ro": "Av, „tată, strămoș”: „voi dormi cu părinții mei” (Geneza 47:30). David este adunat la părinții lui, în șirul generațiilor, iar și Solomon este numit după „tatăl său David”.",
+       "greek": "πατήρ (pater)",
+       "greek_def_ro": "πατήρ (pater) — tată, strămoș"
       },
       {
        "t": " "
       },
       {
-       "t": "David,",
-       "w": "David,",
+       "t": "David",
+       "w": "David",
        "heb": "דָּוִד",
        "translit": "david",
        "strong": "H1732",
        "pos": "nume propriu",
-       "def_ro": "David, (david)",
-       "dict_ro": "Succesiunea se încheie liniștit: Solomon se așază pe tronul lui David, tatăl lui.",
-       "greek": "Σαλωμὼν ἐκάθισεν ἐπὶ θρόνου Δαυεὶδ τοῦ πατρὸς αὐτοῦ (Salomon ekathisen epi thronou Daueid tou patros autou)",
-       "greek_def_ro": "Σαλωμὼν ἐκάθισεν ἐπὶ θρόνου Δαυεὶδ τοῦ πατρὸς αὐτοῦ (Salomon ekathisen epi thronou Daueid tou patros autou) — Solomon a șezut pe tronul lui David, tatăl lui."
+       "def_ro": "David",
+       "dict_ro": "David, „iubit”, este regele ales de Dumnezeu: Duhul DOMNULUI a venit peste el din ziua ungerii (1 Samuel 16:13). El este modelul regelui pentru toate generațiile, iar Dumnezeu i-a făgăduit un tron care nu se va stinge.",
+       "greek": "Δαυίδ (Dauid)",
+       "greek_def_ro": "Δαυίδ (Dauid) — David"
       },
       {
-       "t": " "
+       "t": ", și "
       },
       {
-       "t": "și domnia lui",
-       "w": "și domnia lui",
+       "t": "domnia lui",
+       "w": "domnia lui",
        "heb": "מַלְכֻתוֹ",
        "translit": "malhuto",
        "strong": "H4438",
        "pos": "substantiv, feminin singular construct + sufix",
-       "def_ro": "domnia lui (malhuto)",
-       "dict_ro": "Succesiunea se încheie liniștit: Solomon se așază pe tron, și domnia lui se întărește — testamentul lui David s-a împlinit.",
-       "greek": "ἡτοιμάσθη ἡ βασιλεία αὐτοῦ σφόδρα (hetoimasthe he basileia autou sphodra)",
-       "greek_def_ro": "ἡτοιμάσθη ἡ βασιλεία αὐτοῦ σφόδρα (hetoimasthe he basileia autou sphodra) — s-a întărit domnia lui foarte mult."
+       "def_ro": "domnia lui",
+       "dict_ro": "Malkhut, „domnie, regat”: „să se înalțe împărăția lui” (Numeri 24:7). „Domnia lui Solomon” este puterea regelui, care la început era fragilă și aveau să-i apere cei credincioși.",
+       "greek": "βασιλεία (basileia)",
+       "greek_def_ro": "βασιλεία (basileia) — domnie, regat"
       },
       {
        "t": " "
       },
       {
-       "t": "s-a întărit mult.",
-       "w": "s-a întărit mult.",
-       "heb": "וַתִּכֹּן מְאֹד",
-       "translit": "vatikon meod",
+       "t": "s-a întărit",
+       "w": "s-a întărit",
+       "heb": "וַתִּכֹּן",
+       "translit": "vatikon",
+       "strong": "H3559",
+       "pos": "verb, nifal imperfect consecutiv",
+       "def_ro": "s-a întărit",
+       "dict_ro": "Kun la forma pasivă înseamnă „a fi întărit, a fi așezat ferm”: „împărăția ta nu va fi întărită” (1 Samuel 20:31). Domnia lui Solomon s-a întărit după ce a înlăturat pe rivali.",
+       "greek": "ἑτοιμάζω (hetoimazo)",
+       "greek_def_ro": "ἑτοιμάζω (hetoimazo) — a pregăti, a întemeia",
+       "diff_ro": "Ebraica: „s-a întărit” (vatikon); Septuaginta: „a fost întemeiată” (ἡτοιμάσθη)."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "mult",
+       "w": "mult",
+       "heb": "מְאֹד",
+       "translit": "meod",
        "strong": "H3966",
-       "pos": "verb, nifal imperfect consecutiv + adverb",
-       "def_ro": "și s-a întărit mult. (vatikon meod)",
-       "dict_ro": "Succesiunea se încheie liniștit: Solomon se așază pe tron, și domnia lui se întărește — testamentul lui David s-a împlinit."
+       "pos": "adverb",
+       "def_ro": "foarte",
+       "dict_ro": "Meod, „foarte”, este cuvântul intensității: „foarte bun” (Geneza 1:31). „S-a întărit foarte” arată că domnia lui Solomon a ajuns la o stabilitate completă.",
+       "greek": "σφόδρα (sphodra)",
+       "greek_def_ro": "σφόδρα (sphodra) — foarte"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -57252,10 +57367,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "Καὶ Σαλωμὼν ἐκάθισεν ἐπὶ θρόνου Δαυεὶδ τοῦ πατρὸς αὐτοῦ, καὶ ἡτοιμάσθη ἡ βασιλεία αὐτοῦ σφόδρα.",
+       "original": "καὶ Σαλωμων ἐκάθισεν ἐπὶ τοῦ θρόνου Δαυιδ τοῦ πατρὸς αὐτοῦ υἱὸς ἐτῶν δώδεκα καὶ ἡτοιμάσθη ἡ βασιλεία αὐτοῦ σφόδρα",
        "greek": true,
-       "translation": "„Și Solomon a șezut pe tronul lui David, tatăl lui, și s-a pregătit/întemeiat domnia lui foarte mult.”",
-       "note": "LXX redă „s-a întărit” prin „s-a pregătit/întemeiat” (ἡτοιμάσθη) — o nuanță diferită, orientată spre stabilirea inițială a domniei, nu doar spre consolidarea ei ulterioară."
+       "translation": "„Și Solomon a șezut pe tronul lui David, tatăl său, fiu de doisprezece ani, și domnia lui a fost întemeiată foarte.”",
+       "note": "LXX adaugă „fiu de doisprezece ani” (υἱὸς ἐτῶν δώδεκα), care lipsește din TM, și redă „s-a întărit” (vatikon) prin „a fost întemeiată” (ἡτοιμάσθη)."
       }
      ],
      "refs": [
