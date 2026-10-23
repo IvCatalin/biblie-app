@@ -25,5 +25,11 @@ module.exports = {
   '4:34': { tr: '„Și s-a urcat și s-a culcat peste copil, și și-a pus gura lui pe gura lui, și ochii lui pe ochii lui, și mâinile lui pe mâinile lui; și s-a aplecat peste el, și carnea copilului s-a încălzit.”', note: 'Apropiere strânsă între TM și LXX; LXX are „mâinile” (χεῖρας) acolo unde ebraica are „palmele” (kapayim).' },
   '4:35': { tr: '„Și s-a întors și a umblat în casă încoace și încolo, și s-a urcat și s-a aplecat peste copil de șapte ori; și copilul și-a deschis ochii.”', note: 'Divergență reală: în LXX cele „șapte ori” (ἕως ἑπτάκις) țin de aplecarea lui Elisei peste copil, iar verbul „a strănutat” (vaizorer) din ebraică lipsește; copilul doar „și-a deschis ochii”.' },
   '4:36': { tr: '„Și Elisei a strigat către Ghiezi și a zis: Cheamă-o pe această Șunamită; și a chemat-o, și ea a intrat la el; și Elisei a zis: Ia-ți fiul.”', note: 'LXX folosește un verb mai intens, „a strigat” (ἐξεβόησεν), în locul simplului „a chemat” din TM — sugerând poate emoția momentului.' },
-  '4:37': { tr: '„Și a intrat femeia și a căzut la picioarele lui și s-a închinat la pământ; și și-a luat fiul și a ieșit.”', note: A }
+  '4:37': { tr: '„Și a intrat femeia și a căzut la picioarele lui și s-a închinat la pământ; și și-a luat fiul și a ieșit.”', note: A },
+  '4:3': {"keepTr":1},
+  '4:14': {"keepTr":1},
+  '4:16': {"keepTr":1},
+  '4:17': {"keepTr":1},
+  '4:28': {"keepTr":1},
+  '4:33': {"keepTr":1}
 };

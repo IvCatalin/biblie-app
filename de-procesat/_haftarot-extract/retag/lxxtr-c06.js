@@ -14,5 +14,7 @@ module.exports = {
   '2:4': { tr: '„Și veți cunoaște că Eu am trimis la voi porunca aceasta, ca legământul Meu să fie cu leviții, zice Domnul Atotțiitorul.”', note: 'Apropiere strânsă între TM și LXX; „Levi” este redat „leviții” (Λευίτας).' },
   '2:5': { tr: '„Legământul Meu era cu el, al vieții și al păcii, și i le-am dat în frică, ca să se teamă de Mine și să se retragă din fața numelui Meu.”', note: 'Apropiere strânsă între TM și LXX; „a tremurat” (nihat) este redat prin „să se retragă” (στέλλεσθαι) din fața numelui.' },
   '2:6': { tr: '„Legea adevărului era în gura lui și nedreptate nu s-a găsit pe buzele lui; în pace, îndreptând, a mers cu Mine și a întors pe mulți de la nedreptate.”', note: A },
-  '2:7': { tr: '„Căci buzele preotului vor păzi cunoașterea și vor căuta legea din gura lui, căci este înger al Domnului Atotțiitorul.”', note: 'Apropiere strânsă între TM și LXX; „sol” (malakh) este redat „înger” (ἄγγελος), cuvântul grecesc pentru mesager.' }
+  '2:7': { tr: '„Căci buzele preotului vor păzi cunoașterea și vor căuta legea din gura lui, căci este înger al Domnului Atotțiitorul.”', note: 'Apropiere strânsă între TM și LXX; „sol” (malakh) este redat „înger” (ἄγγελος), cuvântul grecesc pentru mesager.' },
+  '1:5': {"keepTr":1},
+  '1:11': {"keepTr":1}
 };

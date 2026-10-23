@@ -1326,7 +1326,7 @@
        "original": "ὑμνήσατε τῷ Κυρίῳ ὕμνον καινόν, ἡ ἀρχὴ αὐτοῦ· δοξάζετε τὸ ὄνομα αὐτοῦ ἀπ᾽ ἄκρου τῆς γῆς, οἱ καταβαίνοντες εἰς τὴν θάλασσαν καὶ πλέοντες αὐτήν, αἱ νῆσοι καὶ οἱ κατοικοῦντες αὐτάς.",
        "greek": true,
        "translation": "„Cântați Domnului cântare nouă, stăpânirea Lui; slăviți numele Lui de la marginea pământului, cei ce coborâți pe mare și plutiți pe ea, insulele și cei ce locuiesc în ele.”",
-       "note": "LXX adaugă „stăpânirea Lui” (ἡ ἀρχὴ αὐτοῦ) fără corespondent clar în ebraică — posibil o dublă traducere a lui „tehilato” (lauda Sa)."
+       "note": "LXX are „stăpânirea Lui” (ἡ ἀρχὴ αὐτοῦ) după „cântare nouă”, expresie care nu are corespondent în ebraică."
       }
      ],
      "refs": [
@@ -4970,7 +4970,7 @@
        "translit": "mițraim",
        "strong": "H4714",
        "pos": "nume propriu",
-       "def_ro": "Egipt (Mițraim).",
+       "def_ro": "Egipt",
        "greek": "Αἴγυπτος (Aigyptos)",
        "greek_def_ro": "Αἴγυπτος (Aigyptos) — Egipt.",
        "dict_ro": "Mițraim — Egiptul, țara robiei și a ieșirii, al cărei nume ebraic are forma unui dual, poate pentru Egiptul de Sus și cel de Jos. Rashi și Metzudat David: la ieșire, Egiptul a fost „răscumpărarea” lui Israel. Radak leagă versetul de Sanherib, care a luptat cu Egiptul, Cușul și Seba înainte de a veni asupra Ierusalimului (2 Împărați 19:9)."
@@ -7512,7 +7512,7 @@
        "original": "μὴ φοβοῦ, ὅτι κατῃσχύνθης, μηδὲ ἐντραπῇς, ὅτι ὠνειδίσθης· ὅτι αἰσχύνην αἰώνιον ἐπιλήσῃ καὶ ὄνειδος τῆς χηρείας σου οὐ μὴ μνησθήσῃ.",
        "greek": true,
        "translation": "„Nu te teme, căci ai fost rușinată, nici nu te tulbura, căci ai fost batjocorită; căci vei uita rușinea veșnică și de ocara văduviei tale nu-ți vei mai aminti.”",
-       "note": "LXX pune verbele la trecut („ai fost rușinată”) unde ebraica are viitor negat („nu vei fi rușinată”) — o diferență notabilă de timp verbal, posibil reflectând o tradiție textuală ușor diferită sau o interpretare liberă a traducătorilor greci."
+       "note": "LXX are verbele la trecut („ai fost rușinată”, κατῃσχύνθης), acolo unde ebraica are viitor negat („nu vei fi rușinată”)."
       }
      ],
      "refs": [
@@ -16131,7 +16131,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ εἶπεν πρὸς αὐτήν Δεῦρο αἴτησον σαυτῇ σκεύη ἔξωθεν παρὰ πάντων τῶν γειτόνων, σκεύη κενά· μὴ ὀλιγώσῃς.",
+       "original": "καὶ εἶπεν πρὸς αὐτήν δεῦρο αἴτησον σαυτῇ σκεύη ἔξωθεν παρὰ πάντων τῶν γειτόνων σου σκεύη κενά μὴ ὀλιγώσῃς",
        "greek": true,
        "translation": "„Și i-a zis: Vino, cere-ți vase de afară, de la toți vecinii, vase goale; nu le împuțina.”",
        "note": "Apropiere strânsă între TM și LXX la acest verset."
@@ -18390,7 +18390,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ εἶπεν Τί δεῖ ποιῆσαι αὐτῇ; καὶ εἶπεν Γιεζεὶ τὸ παιδάριον αὐτοῦ Καὶ μάλα υἱὸς οὐκ ἔστιν αὐτῇ, καὶ ὁ ἀνὴρ αὐτῆς πρεσβύτης.",
+       "original": "καὶ εἶπεν τί δεῖ ποιῆσαι αὐτῇ καὶ εἶπεν Γιεζι τὸ παιδάριον αὐτοῦ καὶ μάλα υἱὸς οὐκ ἔστιν αὐτῇ καὶ ὁ ἀνὴρ αὐτῆς πρεσβύτης",
        "greek": true,
        "translation": "„Și a zis: Ce trebuie făcut pentru ea? Și a zis Ghiezi, sluga lui: Într-adevăr, fiu nu are, iar bărbatul ei e bătrân.”",
        "note": "Apropiere strânsă între TM și LXX la acest verset."
@@ -18721,7 +18721,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ εἶπεν Ἐλεισαῖε πρὸς αὐτήν Εἰς τὸν καιρὸν τοῦτον, ὡς ἡ ὥρα ζῶσα, σὺ περιειληφυῖα υἱόν; ἡ δὲ εἶπεν Μή, κύριε μου, μὴ διαψεύσῃ τὴν δούλην σου.",
+       "original": "καὶ εἶπεν Ελισαιε πρὸς αὐτήν εἰς τὸν καιρὸν τοῦτον ὡς ἡ ὥρα ζῶσα σὺ περιειληφυῖα υἱόν ἡ δὲ εἶπεν μή κύριέ μου μὴ διαψεύσῃ τὴν δούλην σου",
        "greek": true,
        "translation": "„Și a zis Elisei către ea: La vremea aceasta, ca ceasul care viețuiește, tu vei cuprinde un fiu? Iar ea a zis: Nu, stăpânul meu, nu minți pe roaba ta.”",
        "note": "LXX redă „kaēt haia” printr-o construcție literală neobișnuită, „ca ceasul viețuitor” — o traducere excesiv de literală a expresiei ebraice rare, care a lăsat traducătorii nesiguri asupra sensului ei exact."
@@ -18900,7 +18900,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἐν γαστρὶ ἔλαβεν ἡ γυνή, καὶ ἔτεκεν υἱὸν εἰς τὸν καιρὸν τοῦτον ὡς ἡ ὥρα ζῶσα, ὡς ἐλάλησεν πρὸς αὐτὴν Ἐλεισαῖε.",
+       "original": "καὶ ἐν γαστρὶ ἔλαβεν ἡ γυνὴ καὶ ἔτεκεν υἱὸν εἰς τὸν καιρὸν τοῦτον ὡς ἡ ὥρα ζῶσα ὡς ἐλάλησεν πρὸς αὐτὴν Ελισαιε",
        "greek": true,
        "translation": "„Și a luat în pântece femeia, și a născut un fiu la vremea aceasta, ca ceasul care viețuiește, cum îi vorbise Elisei.”",
        "note": "LXX păstrează aceeași traducere literală, „ca ceasul care viețuiește”, deja întâlnită la v. 16."
@@ -19056,7 +19056,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיִּגְדַּל הַיָּלֶד וַיְהִי הַיּוֹם וַיֵּצֵא אֶל־אָבִיו אֶל־הַקֹּצְרִים",
        "translation": "Textul masoretic are „și a ieșit [copilul] la tatăl lui, la secerători” (vaieițe el-aviv); în traducerea rabinului Rosen, „când tatăl lui se dusese la secerători”, cel care se deplasează e tatăl.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -20293,7 +20293,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַתֵּלֶךְ וַתָּבוֹא אֶל־אִישׁ הָאֱלֹהִים אֶל־הַר הַכַּרְמֶל וַיְהִי כִּרְאוֹת אִישׁ־הָאֱלֹהִים אֹתָהּ מִנֶּגֶד וַיֹּאמֶר אֶל־גֵּיחֲזִי נַעֲרוֹ הִנֵּה הַשּׁוּנַמִּית הַלָּז",
        "translation": "Textul masoretic are verbele la feminin, „ea a mers și a ajuns” (vatelekh vatavo), adică femeia șunamită; traducerea rabinului Rosen are „El a mers și a ajuns”.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -20958,7 +20958,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἡ δὲ εἶπεν Μὴ ᾐτησάμην υἱὸν παρὰ τοῦ κυρίου μου; ὅτι οὐκ εἶπα Οὐ πλανήσεις μετ' ἐμοῦ;",
+       "original": "ἡ δὲ εἶπεν μὴ ᾐτησάμην υἱὸν παρὰ τοῦ κυρίου μου οὐκ εἶπα οὐ πλανήσεις μετ᾿ ἐμοῦ",
        "greek": true,
        "translation": "„Iar ea a zis: Nu cumva am cerut eu fiu de la stăpânul meu? N-am zis eu: nu mă vei rătăci?”",
        "note": "Apropiere strânsă între TM și LXX la acest verset; LXX folosește verbul „a rătăci” (πλανάω), apropiat de sensul propus de Rashi mai sus."
@@ -22008,7 +22008,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ εἰσῆλθεν Ἐλεισαῖε εἰς τὸν οἶκον καὶ ἀπέκλεισεν τὴν θύραν κατὰ τῶν δύο ἑαυτῶν, καὶ προσηύξατο πρὸς Κύριον.",
+       "original": "καὶ εἰσῆλθεν Ελισαιε εἰς τὸν οἶκον καὶ ἀπέκλεισεν τὴν θύραν κατὰ τῶν δύο ἑαυτῶν καὶ προσηύξατο πρὸς κύριον",
        "greek": true,
        "translation": "„Și a intrat Elisei în casă, și a încuiat ușa după cei doi ai lui, și s-a rugat către Domnul.”",
        "note": "LXX repetă „a intrat Elisei în casă” (deja spus la v. 32), pe când TM folosește doar verbul „a intrat”, subînțelegând subiectul din versetul precedent."
@@ -22998,7 +22998,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ΚΑΙ ὁ βασιλεὺς Δαυεὶδ πρεσβύτερος προβεβηκὼς ἡμέραις, καὶ περιέβαλλον αὐτὸν ἱματίοις, καὶ οὐκ ἐθερμαίνετο.",
+       "original": "καὶ ὁ βασιλεὺς Δαυιδ πρεσβύτερος προβεβηκὼς ἡμέραις καὶ περιέβαλλον αὐτὸν ἱματίοις καὶ οὐκ ἐθερμαίνετο",
        "greek": true,
        "translation": "„Și regele David era bătrân, înaintat în zile, și-l îmbrăcau cu haine, și nu se încălzea.”",
        "note": "Apropiere strânsă între TM și LXX la acest verset."
@@ -23442,7 +23442,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἐζήτησαν νεάνιδα καλὴν ἐκ παντὸς ὁρίου Ἰσραήλ· καὶ εὗρον τὴν Ἀβεισὰ τὴν Σωμανεῖτιν, καὶ ἤνεγκαν αὐτὴν πρὸς τὸν βασιλέα.",
+       "original": "καὶ ἐζήτησαν νεάνιδα καλὴν ἐκ παντὸς ὁρίου Ισραηλ καὶ εὗρον τὴν Αβισακ τὴν Σωμανῖτιν καὶ ἤνεγκαν αὐτὴν πρὸς τὸν βασιλέα",
        "greek": true,
        "translation": "„Și au căutat o tânără frumoasă din tot hotarul lui Israel; și au găsit pe Abeisa Șomanita, și au adus-o la rege.”",
        "note": "Apropiere strânsă între TM și LXX la acest verset."
@@ -24220,7 +24220,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἐγένοντο οἱ λόγοι αὐτοῦ μετὰ Ἰωὰβ τοῦ υἱοῦ Σαρουίας καὶ μετὰ Ἀβιαθὰρ τοῦ ἱερέως, καὶ ἐβοήθουν ὀπίσω Ἀδωνειού.",
+       "original": "καὶ ἐγένοντο οἱ λόγοι αὐτοῦ μετὰ Ιωαβ τοῦ υἱοῦ Σαρουιας καὶ μετὰ Αβιαθαρ τοῦ ἱερέως καὶ ἐβοήθουν ὀπίσω Αδωνιου",
        "greek": true,
        "translation": "„Și cuvintele lui au fost cu Ioab, fiul Sarouiei, și cu Abiatar preotul, și îl ajutau, [mergând] după Adonia.”",
        "note": "Apropiere strânsă între TM și LXX la acest verset."
@@ -25662,7 +25662,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἰδοὺ ἔτι λαλούσης σου ἐκεῖ μετὰ τοῦ βασιλέως καὶ ἐγὼ εἰσελεύσομαι ὀπίσω καὶ πληρώσω τοὺς λόγους σου.",
+       "original": "καὶ ἰδοὺ ἔτι λαλούσης σου ἐκεῖ μετὰ τοῦ βασιλέως καὶ ἐγὼ εἰσελεύσομαι ὀπίσω σου καὶ πληρώσω τοὺς λόγους σου",
        "greek": true,
        "translation": "„Și iată, încă vorbind tu acolo cu regele, și eu voi intra după [tine] și voi împlini cuvintele tale.”",
        "note": "Apropiere strânsă între TM și LXX la acest verset."
@@ -26328,7 +26328,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ νῦν ἰδοὺ Ἀδωνείας ἐβασίλευσεν, καὶ σύ, κύριέ μου βασιλεῦ, οὐκ ἔγνως;",
+       "original": "καὶ νῦν ἰδοὺ Αδωνιας ἐβασίλευσεν καὶ σύ κύριέ μου βασιλεῦ οὐκ ἔγνως",
        "greek": true,
        "translation": "„Și acum, iată, Adonia a domnit, și tu, domnul meu, regele, nu ai cunoscut?”",
        "note": "LXX pune fraza finală sub formă de întrebare retorică, spre deosebire de afirmația simplă din TM — o nuanță retorică ușor diferită, fără schimbare de sens general."
@@ -27423,7 +27423,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ εἶπεν Ναθάν Κύριέ μου βασιλεῦ, σὺ εἶπας Ἀδωνείας βασιλεύσει ὀπίσω μου, καὶ αὐτὸς καθήσεται ἐπὶ τοῦ θρόνου μου;",
+       "original": "καὶ εἶπεν Ναθαν κύριέ μου βασιλεῦ σὺ εἶπας Αδωνιας βασιλεύσει ὀπίσω μου καὶ αὐτὸς καθήσεται ἐπὶ τοῦ θρόνου μου",
        "greek": true,
        "translation": "„Și a zis Natan: Domnul meu, regele, tu ai zis: Adonia va domni după mine, și el va ședea pe tronul meu?”",
        "note": "Apropiere strânsă între TM și LXX la acest verset."
@@ -28076,7 +28076,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "εἰ διὰ τοῦ κυρίου μου τοῦ βασιλέως γέγονεν τὸ ῥῆμα τοῦτο, καὶ οὐκ ἐγνώρισας τῷ δούλῳ σου τίς καθήσεται ἐπὶ τὸν θρόνον τοῦ κυρίου μου βασιλέως μετ᾽ αὐτόν;",
+       "original": "εἰ διὰ τοῦ κυρίου μου τοῦ βασιλέως γέγονεν τὸ ῥῆμα τοῦτο καὶ οὐκ ἐγνώρισας τῷ δούλῳ σου τίς καθήσεται ἐπὶ τὸν θρόνον τοῦ κυρίου μου τοῦ βασιλέως μετ᾿ αὐτόν",
        "greek": true,
        "translation": "„Dacă prin domnul meu, regele, s-a făcut lucrul acesta, și nu ai făcut cunoscut slujitorului tău cine va ședea pe tronul domnului meu, regele, după el?”",
        "note": "LXX urmează forma singulară „slujitorului tău” — consecventă cu forma scrisă (ktiv) din TM, nu cu forma citită (kri)."
@@ -29344,7 +29344,7 @@
        "original": "τὸν δὲ Ἠσαὺ ἐμίσησα, καὶ ἔταξα τὰ ὅρια αὐτοῦ εἰς ἀφανισμὸν καὶ τὴν κληρονομίαν αὐτοῦ εἰς δόματα ἐρήμου.",
        "greek": true,
        "translation": "„Iar pe Esau l-am urât, și am pus hotarele lui spre pustiire, și moștenirea lui spre daruri ale pustiei.”",
-       "note": "LXX traduce „lețanot midbar” (sălaș de șacali) printr-o expresie mai vagă, „daruri ale pustiei” (δόματα ἐρήμου) — probabil necunoscând sensul exact al cuvântului rar „tanim”."
+       "note": "LXX redă „lețanot midbar” (sălaș de șacali) prin „daruri ale pustiei” (δόματα ἐρήμου)."
       }
      ],
      "refs": [
@@ -29802,7 +29802,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ὀφθαλμοὶ ὑμῶν ὄψονται, καὶ ὑμεῖς ἐρεῖτε Ἐμεγαλύνθη Κύριος ὑπεράνω τῶν ὁρίων τοῦ Ἰσραήλ.",
+       "original": "καὶ οἱ ὀφθαλμοὶ ὑμῶν ὄψονται καὶ ὑμεῖς ἐρεῖτε ἐμεγαλύνθη κύριος ὑπεράνω τῶν ὁρίων τοῦ Ισραηλ",
        "greek": true,
        "translation": "„Și ochii voștri vor vedea, și voi veți zice: S-a preamărit Domnul mai presus de hotarele lui Israel.”",
        "note": "Apropiere strânsă între TM și LXX la acest verset."
@@ -31371,7 +31371,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "διότι ἀπ᾽ ἀνατολῶν ἡλίου καὶ ἕως δυσμῶν τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσι, καὶ ἐν παντὶ τόπῳ θυμίαμα προσάγεται τῷ ὀνόματί μου καὶ θυσία καθαρά, διότι μέγα τὸ ὄνομά μου ἐν τοῖς ἔθνεσι, λέγει Κύριος παντοκράτωρ.",
+       "original": "διότι ἀπ᾿ ἀνατολῶν ἡλίου ἕως δυσμῶν τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσιν καὶ ἐν παντὶ τόπῳ θυμίαμα προσάγεται τῷ ὀνόματί μου καὶ θυσία καθαρά διότι μέγα τὸ ὄνομά μου ἐν τοῖς ἔθνεσιν λέγει κύριος παντοκράτωρ",
        "greek": true,
        "translation": "„Căci de la răsăriturile soarelui și până la apusuri, numele Meu e slăvit printre neamuri, și în tot locul se aduce tămâie numelui Meu și jertfă curată, căci mare e numele Meu printre neamuri, zice Domnul Atotțiitorul.”",
        "note": "Acest verset devine, în lumea creștină timpurie, un text-cheie: Iustin Martirul îl citează aproape identic în Dialogul cu Trifon (cap. 41, sec. II d.Hr.), aplicându-l direct Euharistiei creștine, „pâinea și paharul Euharistiei”, oferite „în tot locul” de neamurile (Gentile) devenite ucenici — o citire absentă din comentariile rabinice citate aici, care înțeleg versetul fie despre recunoașterea implicită a lui Dumnezeu de către idolatri (Talmud, Menahot 110a), fie despre rugăciunea lui Israel din diaspora."
@@ -34490,10 +34490,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἐκπτήσονται ὡς ὄρνεον ἐξ Αἰγύπτου, καὶ ὡς περιστερὰ ἐκ γῆς Ἀσσυρίων· καὶ ἀποκαταστήσω αὐτοὺς εἰς τοὺς οἴκους αὐτῶν, λέγει Κύριος.",
+       "original": "καὶ ἐκστήσονται ὡς ὄρνεον ἐξ Αἰγύπτου καὶ ὡς περιστερὰ ἐκ γῆς Ἀσσυρίων καὶ ἀποκαταστήσω αὐτοὺς εἰς τοὺς οἴκους αὐτῶν λέγει κύριος",
        "greek": true,
-       "translation": "„Vor zbura ca o pasăre din Egipt, și ca un porumbel din țara asirienilor; și-i voi așeza înapoi în casele lor, zice Domnul.”",
-       "note": "Apropiere strânsă între TM și LXX la acest verset."
+       "translation": "„Se vor înfiora ca o pasăre din Egipt și ca un porumbel din țara asirienilor; și-i voi așeza înapoi în casele lor, zice Domnul.”",
+       "note": "LXX redă „vor tremura” (iehredu) prin „se vor uimi” (ἐκστήσονται)."
       }
      ],
      "refs": [
@@ -34690,14 +34690,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "סְבָבֻנִי בְכַחַשׁ אֶפְרַיִם וּבְמִרְמָה בֵּית יִשְׂרָאֵל וִיהוּדָה עֹד רָד עִם־אֵל וְעִם־קְדוֹשִׁים נֶאֱמָן",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "Ἐκύκλωσέν με ἐν ψεύδει Ἐφράιμ, καὶ ἐν ἀσεβείᾳ οἶκος Ἰσραὴλ καὶ Ἰούδα. νῦν ἔγνω αὐτοὺς ὁ θεός, καὶ λαὸς ἅγιος κεκλήσεται θεοῦ.",
+       "original": "ἐκύκλωσέν με ἐν ψεύδει Εφραιμ καὶ ἐν ἀσεβείαις οἶκος Ισραηλ καὶ Ιουδα νῦν ἔγνω αὐτοὺς ὁ θεός καὶ λαὸς ἅγιος κεκλήσεται θεοῦ",
        "greek": true,
        "translation": "„M-a înconjurat cu minciună Efraim, și cu neevlavie casa lui Israel și a lui Iuda. Acum Dumnezeu i-a cunoscut, și popor sfânt se va numi al lui Dumnezeu.”",
-       "note": "Divergență majoră reală: LXX îl include pe Iuda alături de Israel printre cei „necredincioși” („casa lui Israel ȘI A LUI IUDA”), exact opusul distincției din TM, unde Iuda „încă stăpânește cu Dumnezeu” — o inversare completă a sensului teologic al versetului între cele două tradiții textuale."
+       "note": "LXX are „casa lui Israel și a lui Iuda” (οἶκος Ἰσραὴλ καὶ Ἰούδα) printre cei care L-au înconjurat cu neevlavie, și încheie cu „acum Dumnezeu i-a cunoscut și popor sfânt se va numi” (νῦν ἔγνω αὐτοὺς ὁ θεός)."
       }
      ],
      "refs": [
@@ -34974,7 +34974,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "אֶפְרַיִם רֹעֶה רוּחַ וְרֹדֵף קָדִים כָּל־הַיּוֹם כָּזָב וָשֹׁד יַרְבֶּה וּבְרִית עִם־אַשּׁוּר יִכְרֹתוּ וְשֶׁמֶן לְמִצְרַיִם יוּבָל",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -35147,7 +35147,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְרִיב לַיהוָה עִם־יְהוּדָה וְלִפְקֹד עַל־יַעֲקֹב כִּדְרָכָיו כְּמַעֲלָלָיו יָשִׁיב לוֹ",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -35295,7 +35295,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "בַּבֶּטֶן עָקַב אֶת־אָחִיו וּבְאוֹנוֹ שָׂרָה אֶת־אֱלֹהִים",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -35482,7 +35482,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיָּשַׂר אֶל־מַלְאָךְ וַיֻּכָל בָּכָה וַיִּתְחַנֶּן־לוֹ בֵּית־אֵל יִמְצָאֶנּוּ וְשָׁם יְדַבֵּר עִמָּנוּ",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -35602,7 +35602,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיהוָה אֱלֹהֵי הַצְּבָאוֹת יְהוָה זִכְרוֹ",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -35791,7 +35791,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְאַתָּה בֵּאלֹהֶיךָ תָשׁוּב חֶסֶד וּמִשְׁפָּט שְׁמֹר וְקַוֵּה אֶל־אֱלֹהֶיךָ תָּמִיד",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -35923,7 +35923,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כְּנַעַן בְּיָדוֹ מֹאזְנֵי מִרְמָה לַעֲשֹׁק אָהֵב",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -36100,7 +36100,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיֹּאמֶר אֶפְרַיִם אַךְ עָשַׁרְתִּי מָצָאתִי אוֹן לִי כָּל־יְגִיעַי לֹא יִמְצְאוּ־לִי עָוֹן אֲשֶׁר־חֵטְא",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -36276,14 +36276,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְאָנֹכִי יְהוָה אֱלֹהֶיךָ מֵאֶרֶץ מִצְרָיִם עֹד אוֹשִׁיבְךָ בָאֳהָלִים כִּימֵי מוֹעֵד",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἐγὼ δὲ Κύριος ὁ θεός σου ἀνήγαγόν σε ἐκ γῆς Αἰγύπτου, ἔτι κατοικιῶ σε ἐν σκηναῖς καθὼς ἡμέραι ἑορτῆς.",
+       "original": "ἐγὼ δὲ κύριος ὁ θεός σου ἀνήγαγόν σε ἐκ γῆς Αἰγύπτου ἔτι κατοικιῶ σε ἐν σκηναῖς καθὼς ἡμέρᾳ ἑορτῆς",
        "greek": true,
-       "translation": "„Iar Eu, Domnul Dumnezeul tău, te-am scos din țara Egiptului; încă te voi face să locuiești în corturi, ca în zilele sărbătorii.”",
-       "note": "LXX traduce „moēd” (soroc/vreme hotărâtă) prin „sărbătoare” (ἑορτῆς) — trimițând mai explicit la Sărbătoarea Corturilor (Sucot), o legătură pe care unii comentatori evrei o resping ca fiind prea îngustă."
+       "translation": "„Iar Eu, Domnul Dumnezeul tău, te-am scos din țara Egiptului; încă te voi face să locuiești în corturi, ca în ziua sărbătorii.”",
+       "note": "LXX redă „zilele sărbătorii” (kimei moed) prin „ca în ziua sărbătorii” (καθὼς ἡμέρᾳ ἑορτῆς), la singular."
       }
      ],
      "refs": [
@@ -36423,7 +36423,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְדִבַּרְתִּי עַל־הַנְּבִיאִים וְאָנֹכִי חָזוֹן הִרְבֵּיתִי וּבְיַד הַנְּבִיאִים אֲדַמֶּה",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -36614,14 +36614,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "אִם־גִּלְעָד אָוֶן אַךְ־שָׁוְא הָיוּ בַּגִּלְגָּל שְׁוָרִים זִבֵּחוּ גַּם מִזְבְּחוֹתָם כְּגַלִּים עַל תַּלְמֵי שָׂדָי",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "εἰ μὴ Γαλαάδ ἐστιν, ἄρα ψευδεῖς ἦσαν ἐν Γαλαὰδ ἄρχοντες θυσιάζοντες, καὶ τὰ θυσιαστήρια αὐτῶν ὡς χελῶναι ἐπὶ χέρσον ἀγροῦ.",
+       "original": "εἰ μὴ Γαλααδ ἔστιν ἄρα ψευδεῖς ἦσαν ἐν Γαλγαλ ἄρχοντες θυσιάζοντες καὶ τὰ θυσιαστήρια αὐτῶν ὡς χελῶναι ἐπὶ χέρσον ἀγροῦ",
        "greek": true,
-       "translation": "„De nu e Galaad [numai nelegiuire], atunci mincinoase erau căpeteniile care jertfeau în Galaad, și altarele lor sunt ca niște țestoase pe pământul uscat al câmpului.”",
-       "note": "LXX traduce „ca grămezi de pietre” (כְּגַלִּים) prin „ca niște țestoase” (ὡς χελῶναι) — o confuzie probabilă între rădăcina „gal” (grămadă/movilă) și o formă asemănătoare pentru „broască țestoasă”, o divergență reală de traducere."
+       "translation": "„De nu e Galaad, atunci mincinoase erau căpeteniile care jertfeau în Galgal, și altarele lor sunt ca niște țestoase pe pământul uscat al câmpului.”",
+       "note": "LXX redă „ca grămezi de pietre” (keghalim) prin „ca niște țestoase” (ὡς χελῶναι)."
       }
      ],
      "refs": [
@@ -36791,7 +36791,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיִּבְרַח יַעֲקֹב שְׂדֵה אֲרָם וַיַּעֲבֹד יִשְׂרָאֵל בְּאִשָּׁה וּבְאִשָּׁה שָׁמָר",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -36912,8 +36912,8 @@
        "pos": "nume propriu",
        "def_ro": "din Egipt",
        "dict_ro": "Mițraim, Egiptul, are în ebraică formă de dual, legată de obicei de cele două ținuturi, Egiptul de Sus și cel de Jos. În memoria lui Israel, Egiptul e casa robiei, din care DOMNUL a scos poporul (Exodul 20:2).",
-       "greek": "γῆ Αἰγύπτου (ge Aigyptou)",
-       "greek_def_ro": "γῆ Αἰγύπτου (ge Aigyptou) — țara Egiptului"
+       "greek": "Αἴγυπτος (Aigyptos)",
+       "greek_def_ro": "Αἴγυπτος (Aigyptos) — Egipt"
       },
       {
        "t": " și "
@@ -36954,11 +36954,11 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וּבְנָבִיא הֶעֱלָה יְהוָה אֶת־יִשְׂרָאֵל מִמִּצְרָיִם וּבְנָבִיא נִשְׁמָר",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἐν προφήτῃ ἀνήγαγεν Κύριος τὸν Ἰσραὴλ ἐκ γῆς Αἰγύπτου, καὶ ἐν προφήτῃ διεφυλάχθη.",
+       "original": "καὶ ἐν προφήτῃ ἀνήγαγεν κύριος τὸν Ισραηλ ἐξ Αἰγύπτου καὶ ἐν προφήτῃ διεφυλάχθη",
        "greek": true,
        "translation": "„Și printr-un profet a scos Domnul pe Israel din țara Egiptului, și printr-un profet a fost păzit.”",
        "note": "Apropiere strânsă între TM și LXX la acest verset."
@@ -37126,7 +37126,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "הִכְעִיס אֶפְרַיִם תַּמְרוּרִים וְדָמָיו עָלָיו יִטּוֹשׁ וְחֶרְפָּתוֹ יָשִׁיב לוֹ אֲדֹנָיו",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -37304,14 +37304,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כְּדַבֵּר אֶפְרַיִם רְתֵת נָשָׂא הוּא בְּיִשְׂרָאֵל וַיֶּאְשַׁם בַּבַּעַל וַיָּמֹת",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
        "original": "Κατὰ τὸν λόγον Ἐφράιμ δικαιώματα αὐτὸς ἔλαβεν ἐν τῷ Ἰσραήλ, καὶ ἔθετο αὐτὰ τῇ Βάαλ καὶ ἀπέθανεν.",
        "greek": true,
        "translation": "„După cuvântul lui Efraim, el a primit rânduieli în Israel, dar le-a pus pentru Baal și a murit.”",
-       "note": "LXX diferă substanțial de TM: în loc de „a vorbit cu tremur/mustrare” (רְתֵת), citește ceva mai apropiat de „rânduieli/hotărâri” (δικαιώματα) — o divergență reală de traducere, provenind probabil dintr-o citire diferită a rădăcinii ebraice consonantice."
+       "note": "LXX nu redă „a vorbit cu tremur” (retet); are „rânduieli, hotărâri” (δικαιώματα)."
       }
      ],
      "refs": [
@@ -37591,10 +37591,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ προσέθεντο τοῦ ἁμαρτάνειν, καὶ ἐποίησαν ἑαυτοῖς χώνευμα ἐκ τοῦ ἀργυρίου αὐτῶν κατ᾽ εἰκόνα εἰδώλων, ἔργα τεκτόνων συντετελεσμένα αὐτοῖς· αὐτοὶ λέγουσιν Θύσατε ἀνθρώπους, μόσχοι γὰρ ἐκλελοίπασιν.",
+       "original": "καὶ προσέθετο τοῦ ἁμαρτάνειν ἔτι καὶ ἐποίησαν ἑαυτοῖς χώνευμα ἐκ τοῦ ἀργυρίου αὐτῶν κατ᾿ εἰκόνα εἰδώλων ἔργα τεκτόνων συντετελεσμένα αὐτοῖς αὐτοὶ λέγουσιν θύσατε ἀνθρώπους μόσχοι γὰρ ἐκλελοίπασιν",
        "greek": true,
-       "translation": "„Și au adăugat să păcătuiască, și și-au făcut un turnat din argintul lor, după chipul idolilor, lucrare de meșteri desăvârșită pentru ei; ei zic: Jertfiți oameni, căci vițeii au încetat.”",
-       "note": "LXX redă finalul versetului diferit: nu „săruta vițeii”, ci „vițeii au încetat/lipsesc” (μόσχοι ἐκλελοίπασιν) — o divergență de sens, nu doar de nuanță, posibil provenind dintr-o citire diferită a formei verbale ebraice יִשָּׁקוּן."
+       "translation": "„Și au adăugat încă să păcătuiască, și și-au făcut un turnat din argintul lor, după chipul idolilor, lucrare de meșteri desăvârșită pentru ei; ei zic: Jertfiți oameni, căci vițeii au încetat.”",
+       "note": "LXX redă „să sărute vițeii” prin „vițeii au încetat” (μόσχοι ἐκλελοίπασιν)."
       }
      ],
      "refs": [
@@ -37781,9 +37781,9 @@
        "pos": "substantiv, feminin singular",
        "def_ro": "din horn",
        "dict_ro": "Aruba înseamnă „ferestruie, deschizătură, horn”; pluralul arubot este folosit pentru „stăvilarele cerului” (Geneza 7:11). Fumul iese pe ea și nu mai rămâne.",
-       "greek": "δάκρυον (dakryon)",
-       "greek_def_ro": "δάκρυον (dakryon) — lacrimă",
-       "diff_ro": "Ebraica: „din horn” (me‘aruba); Septuaginta: „din lacrimi” (ἀπὸ δακρύων)."
+       "greek": "ἀκρίς (akris)",
+       "greek_def_ro": "ἀκρίς (akris) — lăcustă",
+       "diff_ro": "Ebraica: „din horn” (me‘aruba); Septuaginta: „de la lăcuste” (ἀπὸ ἀκρίδων)."
       },
       {
        "t": "."
@@ -37798,10 +37798,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "διὰ τοῦτο ἔσονται ὡς νεφέλη πρωινὴ καὶ ὡς δρόσος ὀρθρινὴ πορευομένη, ὡς χνοῦς ἀποφυσώμενος ἀφ᾽ ἅλωνος καὶ ὡς ἀτμὶς ἀπὸ δακρύων.",
+       "original": "διὰ τοῦτο ἔσονται ὡς νεφέλη πρωινὴ καὶ ὡς δρόσος ὀρθρινὴ πορευομένη ὥσπερ χνοῦς ἀποφυσώμενος ἀφ᾿ ἅλωνος καὶ ὡς ἀτμὶς ἀπὸ ἀκρίδων",
        "greek": true,
-       "translation": "„De aceea vor fi ca un nor de dimineață și ca roua matinală ce trece, ca pleava suflată de pe arie și ca aburul din lacrimi.”",
-       "note": "LXX redă ultima imagine diferit: nu „fum din horn” (מֵאֲרֻבָּה), ci „abur din lacrimi” (ἀτμὶς ἀπὸ δακρύων) — o divergență reală, provenind probabil dintr-o confuzie sau tradiție de citire diferită a cuvântului ebraic pentru „horn/fereastră”."
+       "translation": "„De aceea vor fi ca un nor de dimineață și ca roua matinală ce trece, ca pleava suflată de pe arie și ca aburul de la lăcuste.”",
+       "note": "LXX redă „fum din horn” (me’arubah) prin „abur de la lăcuste” (ἀτμὶς ἀπὸ ἀκρίδων)."
       }
      ],
      "refs": [
@@ -37960,7 +37960,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἐγὼ δὲ Κύριος ὁ θεός σου, στερεῶν τὸν οὐρανὸν καὶ κτίζων γῆν, οὗ αἱ χεῖρες ἔκτισαν πᾶσαν τὴν στρατείαν τοῦ οὐρανοῦ, καὶ οὐ παρέδειξά σοι αὐτὰ τοῦ πορεύεσθαι ὀπίσω αὐτῶν· καὶ ἐγὼ ἀνήγαγόν σε ἐκ γῆς Αἰγύπτου, καὶ θεὸν πλὴν ἐμοῦ οὐ γνώσῃ, καὶ σώζων οὐκ ἔστιν παρὲξ ἐμοῦ.",
+       "original": "ἐγὼ δὲ κύριος ὁ θεός σου στερεῶν οὐρανὸν καὶ κτίζων γῆν οὗ αἱ χεῖρες ἔκτισαν πᾶσαν τὴν στρατιὰν τοῦ οὐρανοῦ καὶ οὐ παρέδειξά σοι αὐτὰ τοῦ πορεύεσθαι ὀπίσω αὐτῶν καὶ ἐγὼ ἀνήγαγόν σε ἐκ γῆς Αἰγύπτου καὶ θεὸν πλὴν ἐμοῦ οὐ γνώσῃ καὶ σῴζων οὐκ ἔστιν πάρεξ ἐμοῦ",
        "greek": true,
        "translation": "„Iar Eu sunt Domnul, Dumnezeul tău, Care întăresc cerul și zidesc pământul, ale cărui mâini au zidit toată oștirea cerului, și nu ți le-am arătat ca să umbli după ele; și Eu te-am scos din țara Egiptului, și alt dumnezeu afară de Mine nu vei cunoaște, și mântuitor nu este afară de Mine.”",
        "note": "LXX conține o extindere reală, absentă din TM: o descriere amplă a lui Dumnezeu ca Ziditor al cerului și al oștirii cerești, cu avertismentul explicit de a nu se închina stelelor — un adaos teologic considerabil, nu doar o nuanță de traducere."
@@ -38526,7 +38526,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἀπαντήσομαι αὐτοῖς ὡς ἄρκος ἀπορουμένη, καὶ διαρρήξω συνκλεισμὸν καρδίας αὐτῶν, καὶ καταφάγονται αὐτοὺς ἐκεῖ σκύμνοι δρυμοῦ, θηρία ἀγροῦ διασπάσει αὐτούς.",
+       "original": "ἀπαντήσομαι αὐτοῖς ὡς ἄρκος ἀπορουμένη καὶ διαρρήξω συγκλεισμὸν καρδίας αὐτῶν καὶ καταφάγονται αὐτοὺς ἐκεῖ σκύμνοι δρυμοῦ θηρία ἀγροῦ διασπάσει αὐτούς",
        "greek": true,
        "translation": "„Voi ieși în întâmpinarea lor ca o ursoaică tulburată, și voi rupe încuietoarea inimii lor, și îi vor mânca acolo puii de leu ai codrului, fiarele câmpului îi vor sfâșia.”",
        "note": "LXX pune subiectul mâncării la plural („puii de leu ai codrului”), pe când TM are prima persoană singular („Eu îi voi mânca”) — o divergență reală de subiect gramatical, nu doar de nuanță."
@@ -39227,10 +39227,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ὠδῖνες ὡς τικτούσης ἥξουσιν αὐτῷ. οὗτος ὁ υἱός σου ὁ φρόνιμος, διότι οὐ μὴ ὑποστῇ ἐν συντριβῇ τέκνων.",
+       "original": "ὠδῖνες ὡς τικτούσης ἥξουσιν αὐτῷ οὗτος ὁ υἱός σου οὐ φρόνιμος διότι οὐ μὴ ὑποστῇ ἐν συντριβῇ τέκνων",
        "greek": true,
-       "translation": "„Dureri ca ale celei ce naște vor veni peste el. Acesta e fiul tău cel priceput, căci nu va sta în sfărâmarea pruncilor.”",
-       "note": "LXX aplică ironic epitetul „priceput/înțelept” (φρόνιμος) lui Efraim, pe când TM spune direct „neînțelept” — o inversare reală de sens, posibil ironică și în LXX, dar redată prin cuvinte contrare."
+       "translation": "„Dureri ca ale celei ce naște vor veni peste el. Acesta este fiul tău nepriceput, căci nu va sta în sfărâmarea pruncilor.”",
+       "note": "Apropiere strânsă; „fiu neînțelept” este redat prin „fiul tău nepriceput” (οὗτος ὁ υἱός σου οὐ φρόνιμος)."
       }
      ],
      "refs": [
@@ -39446,10 +39446,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἐκ χειρὸς ᾅδου ῥύσομαι καὶ ἐκ θανάτου λυτρώσομαι αὐτούς· ποῦ ἡ δίκη σου, θάνατε; ποῦ τὸ κέντρον σου, ᾅδη; παράκλησις κέκρυπται ἀπὸ ὀφθαλμῶν μοῦ,",
+       "original": "ἐκ χειρὸς ᾅδου ῥύσομαι αὐτοὺς καὶ ἐκ θανάτου λυτρώσομαι αὐτούς ποῦ ἡ δίκη σου θάνατε ποῦ τὸ κέντρον σου ᾅδη παράκλησις κέκρυπται ἀπὸ ὀφθαλμῶν μου",
        "greek": true,
        "translation": "„Din mâna locuinței morților îi voi izbăvi și din moarte îi voi răscumpăra; unde-ți este dreptatea, moarte? Unde-ți este boldul, locuință a morților? Mângâierea este ascunsă de la ochii Mei.”",
-       "note": "LXX citește partea a doua ca întrebare triumfală („unde-ți este boldul?”), nu ca amenințare directă — aceasta e forma pe care apostolul Pavel o citează în 1 Corinteni 15:55, deosebită de lectura literală masoretică urmată de Rashi și Metzudat David."
+       "note": "LXX redă „unde sunt ciumele tale, moarte?” (ehi devareikha) prin „unde-ți este dreptatea, moarte?” (ποῦ ἡ δίκη σου, θάνατε) și „Șeol” prin „Hades” (ᾅδη), cum le citează apostolul Pavel în 1 Corinteni 15:55."
       }
      ],
      "refs": [
@@ -39744,14 +39744,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כִּי הוּא בֵּין אַחִים יַפְרִיא יָבוֹא קָדִים רוּחַ יְהוָה מִמִּדְבָּר עֹלֶה וְיֵבוֹשׁ מְקוֹרוֹ וְיֶחֱרַב מַעְיָנוֹ הוּא יִשְׂסֶה אוֹצַר כָּל־כְּלִי חֶמְדָּה",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "διότι οὗτος ἀνὰ μέσον ἀδελφῶν διαστελεῖ. ἐπάξει καύσωνα ἄνεμον Κύριος ἐκ τῆς ἐρήμου ἐπ᾽ αὐτόν, καὶ ἀναξηρανεῖ τὰς φλέβας αὐτοῦ, ἐξερημώσει τὰς πηγὰς αὐτοῦ· αὐτὸς καταξηρανεῖ τὴν γῆν αὐτοῦ καὶ πάντα τὰ σκεύη τὰ ἐπιθυμητὰ αὐτοῦ.",
+       "original": "διότι οὗτος ἀνὰ μέσον ἀδελφῶν διαστελεῖ ἐπάξει ἄνεμον καύσωνα κύριος ἐκ τῆς ἐρήμου ἐπ᾿ αὐτόν καὶ ἀναξηρανεῖ τὰς φλέβας αὐτοῦ ἐξερημώσει τὰς πηγὰς αὐτοῦ αὐτὸς καταξηρανεῖ τὴν γῆν αὐτοῦ καὶ πάντα τὰ σκεύη τὰ ἐπιθυμητὰ αὐτοῦ",
        "greek": true,
        "translation": "„Căci el va despărți în mijlocul fraților. Domnul va aduce peste el un vânt arzător din pustie, și-i va usca vinele, îi va pustii izvoarele; el îi va usca țara și toate vasele lui de dorit.”",
-       "note": "LXX citește prima parte a versetului în sensul „va despărți” (διαστελεῖ), apropiat de a doua explicație rabinică a lui Rashi (despicarea frăției lui Israel prin Ieroboam), nu de imaginea vegetală a primei explicații."
+       "note": "LXX are „va despărți printre frați” (ἀνὰ μέσον ἀδελφῶν διαστελεῖ) în loc de „va rodi printre frați” (iafri) și „vânt arzător” (ἄνεμον καύσωνα) pentru „vânt de răsărit”."
       }
      ],
      "refs": [
@@ -39951,7 +39951,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "תֶּאְשַׁם שֹׁמְרוֹן כִּי מָרְתָה בֵּאלֹהֶיהָ בַּחֶרֶב יִפֹּלוּ עֹלְלֵיהֶם יְרֻטָּשׁוּ וְהָרִיּוֹתָיו יְבֻקָּעוּ",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -40093,14 +40093,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "שׁוּבָה יִשְׂרָאֵל עַד יְהוָה אֱלֹהֶיךָ כִּי כָשַׁלְתָּ בַּעֲוֺנֶךָ",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "Ἐπιστράφηθι, Ἰσραήλ, πρὸς Κύριον τὸν θεόν σου, διότι ἠσθένησας ἐν ταῖς ἀδικίαις σου.",
+       "original": "ἐπιστράφητι Ισραηλ πρὸς κύριον τὸν θεόν σου διότι ἠσθένησας ἐν ταῖς ἀδικίαις σου",
        "greek": true,
        "translation": "„Întoarce-te, Israele, la Domnul Dumnezeul tău, căci ai slăbit prin nedreptățile tale.”",
-       "note": "LXX redă „te-ai poticnit” prin „ai slăbit” (ἠσθένησας) — o nuanță diferită, mai aproape de epuizare decât de poticnire propriu-zisă."
+       "note": "LXX redă „te-ai poticnit” (kașalta) prin „ai slăbit” (ἠσθένησας)."
       }
      ],
      "refs": [
@@ -40344,7 +40344,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "קְחוּ עִמָּכֶם דְּבָרִים וְשׁוּבוּ אֶל־יְהוָה אִמְרוּ אֵלָיו כָּל־תִּשָּׂא עָוֹן וְקַח־טוֹב וּנְשַׁלְּמָה פָרִים שְׂפָתֵינוּ",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -40535,7 +40535,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "אַשּׁוּר לֹא יוֹשִׁיעֵנוּ עַל־סוּס לֹא נִרְכָּב וְלֹא־נֹאמַר עוֹד אֱלֹהֵינוּ לְמַעֲשֵׂה יָדֵינוּ אֲשֶׁר־בְּךָ יְרֻחַם יָתוֹם",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -40682,7 +40682,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "אֶרְפָּא מְשׁוּבָתָם אֹהֲבֵם נְדָבָה כִּי שָׁב אַפִּי מִמֶּנּוּ",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -40863,7 +40863,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "אֶהְיֶה כַטַּל לְיִשְׂרָאֵל יִפְרַח כַּשּׁוֹשַׁנָּה וְיַךְ שָׁרָשָׁיו כַּלְּבָנוֹן",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -41027,7 +41027,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "יֵלְכוּ יֹנְקוֹתָיו וִיהִי כַזַּיִת הוֹדוֹ וְרֵיחַ לוֹ כַּלְּבָנוֹן",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -41238,14 +41238,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "יָשֻׁבוּ יֹשְׁבֵי בְצִלּוֹ יְחַיּוּ דָגָן וְיִפְרְחוּ כַגָּפֶן זִכְרוֹ כְּיֵין לְבָנוֹן",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἐπιστρέψουσιν καὶ καθιοῦνται ὑπὸ τὴν σκέπην αὐτοῦ, ζήσονται καὶ μεθυσθήσονται σίτῳ· καὶ ἐξανθήσει ἄμπελος μνημόσυνον αὐτοῦ, ὡς οἶνος Λιβάνου.",
+       "original": "ἐπιστρέψουσιν καὶ καθιοῦνται ὑπὸ τὴν σκέπην αὐτοῦ ζήσονται καὶ μεθυσθήσονται σίτῳ καὶ ἐξανθήσει ὡς ἄμπελος τὸ μνημόσυνον αὐτοῦ ὡς οἶνος Λιβάνου",
        "greek": true,
-       "translation": "„Se vor întoarce și vor ședea sub acoperământul lui, vor trăi și se vor îmbăta de grâu; și va înflori via, amintirea lui, ca vinul Libanului.”",
-       "note": "LXX adaugă o nuanță absentă din TM: „se vor îmbăta de grâu” (μεθυσθήσονται σίτῳ), o imagine mai intensă a belșugului decât simpla „revigorare” a textului ebraic."
+       "translation": "„Se vor întoarce și vor ședea sub acoperământul lui, vor trăi și se vor îmbăta de grâu; și va înflori ca via amintirea lui, ca vinul Libanului.”",
+       "note": "LXX redă „vor face să trăiască grâul” (iehaiu dagan) prin „vor trăi și se vor îmbăta de grâu” (ζήσονται καὶ μεθυσθήσονται σίτῳ)."
       }
      ],
      "refs": [
@@ -41446,14 +41446,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "אֶפְרַיִם מַה־לִּי עוֹד לָעֲצַבִּים אֲנִי עָנִיתִי וַאֲשׁוּרֶנּוּ אֲנִי כִּבְרוֹשׁ רַעֲנָן מִמֶּנִּי פֶּרְיְךָ נִמְצָא",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "τῷ Ἐφράιμ, τί αὐτῷ ἔτι καὶ εἰδώλοις; ἐγὼ ἐταπείνωσα αὐτόν, καὶ κατισχύσω αὐτόν· ἐγὼ ὡς ἄρκευθος πυκάζουσα, ἐξ ἐμοῦ ὁ καρπός σου εὕρηται.",
+       "original": "τῷ Εφραιμ τί αὐτῷ ἔτι καὶ εἰδώλοις ἐγὼ ἐταπείνωσα αὐτόν καὶ ἐγὼ κατισχύσω αὐτόν ἐγὼ ὡς ἄρκευθος πυκάζουσα ἐξ ἐμοῦ ὁ καρπός σου εὕρηται",
        "greek": true,
        "translation": "„Lui Efraim: ce mai are el de-a face cu idolii? Eu l-am smerit, și-l voi întări; Eu sunt ca un ienupăr des, de la Mine s-a găsit rodul tău.”",
-       "note": "LXX redă diferit mijlocul versetului: nu „am răspuns și-l voi îngriji” (עָנִיתִי, verb care înseamnă și „a răspunde”, dar și „a smeri”, din rădăcina ambiguă ענה), ci „l-am smerit și-l voi întări” — o divergență reală, provenind din citirea aceleiași rădăcini consonantice în sensul ei opus, „a asupri/smeri”."
+       "note": "LXX redă „am răspuns” (aniti) prin „l-am smerit” (ἐταπείνωσα)."
       }
      ],
      "refs": [
@@ -42332,7 +42332,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ΟΡΑΣΙΣ Ὀβδειού. Τάδε λέγει Κύριος ὁ θεὸς τῇ Ἰδουμαίᾳ Ἀκοὴν ἤκουσα παρὰ Κυρίου, καὶ περιοχὴν εἰς τὰ ἔθνη ἐξαπέστειλεν Ἀνάστητε καὶ ἐξαναστῶμεν ἐπ᾽ αὐτὴν εἰς πόλεμον.",
+       "original": "ὅρασις Αβδιου τάδε λέγει κύριος ὁ θεὸς τῇ Ιδουμαίᾳ ἀκοὴν ἤκουσα παρὰ κυρίου καὶ περιοχὴν εἰς τὰ ἔθνη ἐξαπέστειλεν ἀνάστητε καὶ ἐξαναστῶμεν ἐπ᾿ αὐτὴν εἰς πόλεμον",
        "greek": true,
        "translation": "„Viziunea lui Obdeiu. Așa zice Domnul Dumnezeu Idumeii: Un zvon am auzit de la Domnul, și o solie a trimis la neamuri: Ridicați-vă și să ne ridicăm împotriva ei la război.”",
        "note": "LXX redă „sol” prin „solie/asediu” (περιοχή, cuvânt cu sens dublu în greacă), o nuanță ușor diferită de simplul „mesager” (צִיר) din TM."
@@ -43030,7 +43030,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "εἰ κλέπται εἰσῆλθον πρὸς σὲ ἢ λῃσταὶ νυκτός, ποῦ ἂν ἀπερρίφης; οὐκ ἂν ἔκλεψαν τὰ ἱκανὰ ἑαυτοῖς; καὶ εἰ τρυγηταὶ εἰσῆλθον πρὸς σέ, οὐκ ἂν ὑπελίποντο ἐπιφυλλίδας;",
+       "original": "εἰ κλέπται εἰσῆλθον πρὸς σὲ ἢ λῃσταὶ νυκτός ποῦ ἂν ἀπερρίφης οὐκ ἂν ἔκλεψαν τὰ ἱκανὰ ἑαυτοῖς καὶ εἰ τρυγηταὶ εἰσῆλθον πρὸς σέ οὐκ ἂν ὑπελίποντο ἐπιφυλλίδα",
        "greek": true,
        "translation": "„De ar fi intrat la tine hoți, sau tâlhari de noapte, unde ai fi fost aruncat? Oare n-ar fi furat cât le ajungea? Și dacă ar fi intrat la tine culegători de struguri, oare n-ar fi lăsat câțiva ciorchini rămași?”",
        "note": "LXX citește „cât de nimicit ești” diferit — ca o întrebare retorică despre unde ai fi aruncat (ποῦ ἂν ἀπερρίφης) — o divergență reală de interpretare a formei ebraice נִדְמֵיתָה, discutată și la nivel rabinic (vezi explicația din dicționar)."
@@ -43353,10 +43353,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἕως τῶν ὁρίων ἐξαπέστειλάν σε; πάντες οἱ ἄνδρες τῆς διαθήκης σου ἀντέστησάν σοι, ἠδυνάσθησαν πρὸς σὲ ἄνδρες εἰρηνικοί σου, ἔθηκαν ἔνεδρα ὑποκάτω σου, οὐκ ἔστιν σύνεσις αὐτοῖς.",
+       "original": "ἕως τῶν ὁρίων σου ἐξαπέστειλάν σε πάντες οἱ ἄνδρες τῆς διαθήκης σου ἀντέστησάν σοι ἠδυνάσθησαν πρὸς σὲ ἄνδρες εἰρηνικοί σου ἔθηκαν ἔνεδρα ὑποκάτω σου οὐκ ἔστιν σύνεσις αὐτοῖς",
        "greek": true,
        "translation": "„Până la hotare te-au trimis; toți oamenii legământului tău s-au ridicat împotriva ta, te-au biruit oamenii păcii tale, au pus curse dedesubtul tău, nu e pricepere în ei.”",
-       "note": "LXX redă ultima clauză diferit: nu „pâinea ta” (לַחְמְךָ), ci „curse/capcane” (ἔνεδρα) — o divergență reală de citire, posibil din confuzia dintre rădăcini ebraice apropiate grafic."
+       "note": "LXX redă „pâinea ta” (lahmekha) prin „curse” (ἔνεδρα)."
       }
      ],
      "refs": [
@@ -44069,7 +44069,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "Ἀφ᾽ ἧς ἡμέρας ἀντέστης ἐξ ἐναντίας ἐν ἡμέραις αἰχμαλωτευόντων ἀλλογενῶν δύναμιν αὐτοῦ, καὶ ἀλλότριοι εἰσῆλθον εἰς πύλας αὐτοῦ καὶ ἐπὶ Ἰερουσαλὴμ ἔβαλον κλήρους, καὶ σὺ ἦς ὡς εἷς ἐξ αὐτῶν.",
+       "original": "ἀφ᾿ ἧς ἡμέρας ἀντέστης ἐξ ἐναντίας ἐν ἡμέρᾳ αἰχμαλωτευόντων ἀλλογενῶν δύναμιν αὐτοῦ καὶ ἀλλότριοι εἰσῆλθον εἰς πύλας αὐτοῦ καὶ ἐπὶ Ιερουσαλημ ἔβαλον κλήρους καὶ σὺ ἦς ὡς εἷς ἐξ αὐτῶν",
        "greek": true,
        "translation": "„Din ziua în care te-ai împotrivit din față, în zilele când neamurile străine i-au luat captivă puterea, și cei străini au intrat pe porțile lui și au aruncat sorți asupra Ierusalimului, și tu erai ca unul dintre ei.”",
        "note": "LXX adaugă o nuanță mai activă la început („te-ai împotrivit din față”, ἀντέστης ἐξ ἐναντίας), mai puternică decât simpla „stare deoparte” pasivă din TM."
@@ -44246,7 +44246,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ μὴ ἐπίδῃς ἡμέραν ἀδελφοῦ σου ἐν ἡμέρᾳ ἀλλοτρίων, καὶ μὴ ἐπιχαρῇς ἐπὶ τοὺς υἱοὺς Ἰούδα ἐν ἡμέρᾳ ἀπωλίας αὐτῶν, καὶ μὴ μεγαλορημονῇς ἐν ἡμέρᾳ θλίψεως·",
+       "original": "καὶ μὴ ἐπίδῃς ἡμέραν ἀδελφοῦ σου ἐν ἡμέρᾳ ἀλλοτρίων καὶ μὴ ἐπιχαρῇς ἐπὶ τοὺς υἱοὺς Ιουδα ἐν ἡμέρᾳ ἀπωλείας αὐτῶν καὶ μὴ μεγαλορρημονήσῃς ἐν ἡμέρᾳ θλίψεως",
        "greek": true,
        "translation": "„Și nu privi ziua fratelui tău, în ziua celor străini, și nu te bucura de fiii lui Iuda în ziua pieirii lor, și nu vorbi cu îngâmfare în ziua necazului.”",
        "note": "LXX păstrează aceeași structură de imperative negative ca TM."
@@ -44438,10 +44438,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "μηδὲ εἰσέλθῃς εἰς πύλας λαῶν ἐν ἡμέρᾳ πόνων αὐτῶν, μηδὲ ἐπίδῃς καὶ σὺ τὴν συναγωγὴν αὐτῶν ἐν ἡμέρᾳ ὀλέθρου αὐτῶν, μηδὲ συνεπιθῇ ἐπὶ τὴν δύναμιν αὐτῶν ἐν ἡμέρᾳ ἀπωλίας αὐτῶν·",
+       "original": "μηδὲ εἰσέλθῃς εἰς πύλας λαῶν ἐν ἡμέρᾳ πόνων αὐτῶν μηδὲ ἐπίδῃς καὶ σὺ τὴν συναγωγὴν αὐτῶν ἐν ἡμέρᾳ ὀλέθρου αὐτῶν μηδὲ συνεπιθῇ ἐπὶ τὴν δύναμιν αὐτῶν ἐν ἡμέρᾳ ἀπωλείας αὐτῶν",
        "greek": true,
        "translation": "„Nici să nu intri pe porțile popoarelor în ziua durerilor lor, nici să nu privești, chiar tu, adunarea lor în ziua pieirii lor, nici să nu te ridici asupra puterii lor în ziua nimicirii lor.”",
-       "note": "LXX redă „poporul Meu” prin „popoarelor” la plural, o divergență reală de sens — posibil o generalizare sau o confuzie de citire a sufixului posesiv."
+       "note": "LXX redă „poporul Meu” prin „popoarelor”, la plural."
       }
      ],
      "refs": [
@@ -45392,7 +45392,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἔσται ὁ οἶκος Ἰακὼβ πῦρ, ὁ δὲ οἶκος Ἰωσὴφ φλόξ, ὁ δὲ οἶκος Ἠσαὺ εἰς καλάμην, καὶ ἐκκαυθήσονται εἰς αὐτοὺς καὶ καταφάγονται αὐτούς, καὶ οὐκ ἔσται πυροφόρος τῷ οἴκῳ Ἠσαύ, διότι Κύριος ἐλάλησεν.",
+       "original": "καὶ ἔσται ὁ οἶκος Ιακωβ πῦρ ὁ δὲ οἶκος Ιωσηφ φλόξ ὁ δὲ οἶκος Ησαυ εἰς καλάμην καὶ ἐκκαυθήσονται εἰς αὐτοὺς καὶ καταφάγονται αὐτούς καὶ οὐκ ἔσται πυροφόρος ἐν τῷ οἴκῳ Ησαυ διότι κύριος ἐλάλησεν",
        "greek": true,
        "translation": "„Și va fi casa lui Iacov foc, iar casa lui Iosif flacără, iar casa lui Esau spre trestie, și se vor aprinde asupra lor și-i vor mistui, și nu va mai fi purtător de foc pentru casa lui Esau, căci Domnul a grăit.”",
        "note": "LXX redă finalul diferit: nu „supraviețuitor” (שָׂרִיד), ci „purtător de foc” (πυροφόρος) — o divergență reală de citire, deși sensul general (nimicire totală, fără urmaș) rămâne identic."
@@ -45604,7 +45604,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ κατακληρονομήσουσιν οἱ ἐν Νάγεβ τὸ ὄρος τὸ Ἠσαύ, καὶ οἱ ἐν τῇ Σεφηλὰ τοὺς ἀλλοφύλους; καὶ κατακληρονομήσουσιν τὸ ὄρος Ἐφράιμ καὶ τὸ πεδίον Σαμαρείας καὶ Βενιαμεὶν καὶ τὴν Γαλααδεῖτιν.",
+       "original": "καὶ κατακληρονομήσουσιν οἱ ἐν Ναγεβ τὸ ὄρος τὸ Ησαυ καὶ οἱ ἐν τῇ Σεφηλα τοὺς ἀλλοφύλους καὶ κατακληρονομήσουσιν τὸ ὄρος Εφραιμ καὶ τὸ πεδίον Σαμαρείας καὶ Βενιαμιν καὶ τὴν Γαλααδῖτιν",
        "greek": true,
        "translation": "„Și vor moșteni cei din Negev muntele lui Esau, și cei din Șefela pe cei de alt neam; și vor moșteni muntele Efraim și câmpia Samariei, și pe Beniamin, și Galaaditida.”",
        "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
@@ -45789,11 +45789,11 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְגָלֻת הַחֵל־הַזֶּה לִבְנֵי יִשְׂרָאֵל אֲשֶׁר־כְּנַעֲנִים עַד־צָרְפַת וְגָלֻת יְרוּשָׁלִַם אֲשֶׁר בִּסְפָרַד יִירְשׁוּ אֵת עָרֵי הַנֶּגֶב",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": "Identificarea geografică a „Sefarad” cu Spania (urmată de Rashi și Targum) e o tradiție exegetică ulterioară, larg acceptată — savanții moderni discută alte posibilități (Sardis în Asia Mică)."
+       "note": "Identificarea lui „Sefarad” cu Spania urmează Rashi și Targumul; unii cercetători moderni propun Sardis, în Asia Mică."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ τῆς μετοικεσίας ἡ ἀρχὴ αὕτη; τοῖς υἱοῖς Ἰσραήλ, γῆ τῶν Χαναναίων ἕως Σαρέπτων, καὶ ἡ μετοικεσία Ἰερουσαλὴμ ἕως Ἐφράθα; κληρονομήσουσιν τὰς πόλεις τοῦ Νάγεβ.",
+       "original": "καὶ τῆς μετοικεσίας ἡ ἀρχὴ αὕτη τοῖς υἱοῖς Ισραηλ γῆ τῶν Χαναναίων ἕως Σαρεπτων καὶ ἡ μετοικεσία Ιερουσαλημ ἕως Εφραθα καὶ κληρονομήσουσιν τὰς πόλεις τοῦ Ναγεβ",
        "greek": true,
        "translation": "„Și acesta e începutul strămutării fiilor lui Israel: țara canaaniților până la Sarepta; și strămutarea Ierusalimului, până la Efrata; vor moșteni cetățile Negevului.”",
        "note": "LXX redă „Sefarad” prin „Efrata” (Ἐφράθα) — o divergență majoră de identificare geografică, complet diferită atât de „Spania” a lui Rashi/Targum, cât și de orice identificare modernă cunoscută."
@@ -46442,7 +46442,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "τὰ πατοῦντα ἐπὶ τὸν χοῦν τῆς γῆς, καὶ ἐκονδύλιζον εἰς κεφαλὰς πτωχῶν, καὶ ὁδὸν ταπεινῶν ἐξέκλιναν, καὶ υἱὸς καὶ πατὴρ αὐτοῦ εἰσεπορεύοντο πρὸς τὴν αὐτὴν παιδίσκην, ὅπως βεβηλῶσιν τὸ ὄνομα τοῦ θεοῦ αὐτῶν",
+       "original": "τὰ πατοῦντα ἐπὶ τὸν χοῦν τῆς γῆς καὶ ἐκονδύλιζον εἰς κεφαλὰς πτωχῶν καὶ ὁδὸν ταπεινῶν ἐξέκλιναν καὶ υἱὸς καὶ πατὴρ αὐτοῦ εἰσεπορεύοντο πρὸς τὴν αὐτὴν παιδίσκην ὅπως βεβηλώσωσιν τὸ ὄνομα τοῦ θεοῦ αὐτῶν",
        "greek": true,
        "translation": "„Cei ce calcă pe pulberea pământului, și loveau cu pumnul capetele săracilor, și abăteau calea celor smeriți; și fiul și tatăl lui intrau la aceeași slujnică, ca să pângărească numele Dumnezeului lor.”",
        "note": "LXX citește prima imagine ca pe o lovire fizică („ἐκονδύλιζον” — loveau cu pumnul), mai concretă decât imaginea de „jinduire” din lectura rabinică a TM — o divergență reală de interpretare a verbului ebraic שאף."
@@ -48255,7 +48255,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "Πλὴν ὑμᾶς ἔγνων ἐκ πασῶν φυλῶν γῆς· διὰ τοῦτο ἐκδικήσω ἐφ᾽ ὑμᾶς πάσας τὰς ἁμαρτίας ὑμῶν",
+       "original": "πλὴν ὑμᾶς ἔγνων ἐκ πασῶν φυλῶν τῆς γῆς διὰ τοῦτο ἐκδικήσω ἐφ᾿ ὑμᾶς πάσας τὰς ἁμαρτίας ὑμῶν",
        "greek": true,
        "translation": "„Numai pe voi v-am cunoscut dintre toate triburile pământului; de aceea voi răzbuna asupra voastră toate păcatele voastre.”",
        "note": "LXX redă „am reamintit/voi cerceta” (אֶפְקֹד) prin „voi răzbuna” (ἐκδικήσω) — o nuanță mai aspră, orientată direct spre pedeapsă, decât termenul ebraic mai neutru de „cercetare/vizitare”."
@@ -48936,7 +48936,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "εἰ φωνήσει σάλπιγξ ἐν πόλει καὶ λαὸς οὐ μὴ πτοηθήσεται; εἰ ἔσται κακία ἐν πόλει ἣν Κύριος οὐκ ἐποίησεν",
+       "original": "εἰ φωνήσει σάλπιγξ ἐν πόλει καὶ λαὸς οὐ πτοηθήσεται εἰ ἔσται κακία ἐν πόλει ἣν κύριος οὐκ ἐποίησεν",
        "greek": true,
        "translation": "„Oare va suna trâmbița în cetate, și poporul nu se va înspăimânta? Oare va fi rău în cetate pe care Domnul nu l-a făcut?”",
        "note": "Apropiere strânsă de conținut între TM și LXX la acest verset."
@@ -52636,7 +52636,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְאַתָּה בֶן־אָדָם קַח־לְךָ עֵץ אֶחָד וּכְתֹב עָלָיו לִיהוּדָה וְלִבְנֵי יִשְׂרָאֵל חֲבֵרָו וּלְקַח עֵץ אֶחָד וּכְתוֹב עָלָיו לְיוֹסֵף עֵץ אֶפְרַיִם וְכָל־בֵּית יִשְׂרָאֵל חֲבֵרָו",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": "Cuvântul „עֵץ” poate însemna atât „lemn/băț” cât și, mai specific, „toiag” — LXX îl traduce explicit prin ῥάβδος („toiag”), aluzie posibilă la Numeri 17:2, unde fiecare trib avea propriul toiag."
+       "note": "Cuvântul „ets” înseamnă „lemn, băț”; LXX îl redă prin „toiag” (ῥάβδος)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -54617,7 +54617,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְיָשְׁבוּ עַל־הָאָרֶץ אֲשֶׁר נָתַתִּי לְעַבְדִּי לְיַעֲקֹב אֲשֶׁר יָשְׁבוּ־בָה אֲבוֹתֵיכֶם וְיָשְׁבוּ עָלֶיהָ הֵמָּה וּבְנֵיהֶם וּבְנֵי בְנֵיהֶם עַד־עוֹלָם וְדָוִד עַבְדִּי נָשִׂיא לָהֶם לְעוֹלָם",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": "Titulatura lui „David” trece aici de la „מֶלֶךְ” (rege, v. 24) la „נָשִׂיא” (prinț/conducător, v. 25) — o variație terminologică semnificativă în vocabularul lui Ezechiel, care folosește frecvent „נָשִׂיא” pentru conducătorul viitor (vezi și Ezechiel 34:24, 45:7 etc.), posibil pentru a evita conotațiile regatului corupt de dinainte de exil."
+       "note": "Titlul lui David trece aici de la „rege” (melekh, v. 24) la „prinț” (nasi, v. 25); Ezechiel folosește frecvent „nasi” pentru conducătorul viitor (de exemplu Ezechiel 34:24; 45:7)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -56520,7 +56520,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְגַם אַתָּה יָדַעְתָּ אֵת אֲשֶׁר־עָשָׂה לִי יוֹאָב בֶּן־צְרוּיָה אֲשֶׁר עָשָׂה לִשְׁנֵי־שָׂרֵי צִבְאוֹת יִשְׂרָאֵל לְאַבְנֵר בֶּן־נֵר וְלַעֲמָשָׂא בֶן־יֶתֶר וַיַּהַרְגֵם וַיָּשֶׂם דְּמֵי־מִלְחָמָה בְּשָׁלֹם וַיִּתֵּן דְּמֵי מִלְחָמָה בַּחֲגֹרָתוֹ אֲשֶׁר בְּמָתְנָיו וּבְנַעֲלוֹ אֲשֶׁר בְּרַגְלָיו",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": "Verset dens, care rezumă două episoade narate pe larg în 2 Samuel (uciderea lui Avner, cap. 3; uciderea lui Amasa, cap. 20) — David presupune că Solomon cunoaște deja detaliile, spre deosebire de Gill, care observă că unele dintre ele i-ar fi putut fi cunoscute doar din auzite."
+       "note": "Versetul rezumă două episoade din 2 Samuel: uciderea lui Avner (cap. 3) și a lui Amasa (cap. 20); David presupune că Solomon le cunoaște."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -58159,7 +58159,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "הַבָּאִים יַשְׁרֵשׁ יַעֲקֹב יָצִיץ וּפָרַח יִשְׂרָאֵל וּמָלְאוּ פְנֵי־תֵבֵל תְּנוּבָה׃",
        "translation": "„[Zile] vin când Iacov va prinde rădăcină, Israel va înmuguri și va înflori și va umple toată fața lumii cu rod.” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -58294,7 +58294,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "הַכְּמַכַּת מַכֵּהוּ הִכָּהוּ אִם־כְּהֶרֶג הֲרֻגָיו הֹרָג׃",
        "translation": "„L-a lovit oare pe [Israel] precum i-a lovit pe cei care l-au lovit? L-a ucis precum i-a ucis pe cei ce l-au ucis?” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -58440,7 +58440,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "בְּסַאסְּאָה בְּשַׁלְחָהּ תְּרִיבֶנָּה הָגָה בְּרוּחוֹ הַקָּשָׁה בְּיוֹם קָדִים׃",
        "translation": "„După măsura sa, a lovit împotriva țarinii sale, despuindu-o cu vântul Său puternic în ziua vântului de la răsărit.” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -58734,7 +58734,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "לָכֵן בְּזֹאת יְכֻפַּר עֲוֹן־יַעֲקֹב וְזֶה כָּל־פְּרִי הָסִר חַטָּאתוֹ בְּשׂוּמוֹ כָּל־אַבְנֵי מִזְבֵּחַ כְּאַבְנֵי־גִר מְנֻפָּצוֹת לֹא־יָקֻמוּ אֲשֵׁרִים וְחַמָּנִים׃",
        "translation": "„De aceea, prin aceasta va fi ispășită vina lui Iacov...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -58870,7 +58870,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כִּי עִיר בְּצוּרָה בָּדָד נָוֶה מְשֻׁלָּח וְנֶעֱזָב כַּמִּדְבָּר",
        "translation": "„Căci orașul fortificat va fi însingurat, pustiit și abandonat ca un deșert.” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -59164,7 +59164,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "שָׁם יִרְעֶה עֵגֶל וְשָׁם יִרְבָּץ וְכִלָּה סְעִפֶיהָ׃ בִּיבֹשׁ קְצִירָהּ תִּשָּׁבַרְנָה נָשִׁים בָּאוֹת מְאִירוֹת אוֹתָהּ כִּי לֹא עַם־בִּינוֹת הוּא עַל־כֵּן לֹא־יְרַחֲמֶנּוּ עֹשֵׂהוּ וְיֹצְרוֹ לֹא יְחֻנֶּנּוּ׃",
        "translation": "„Acolo va paște vițelul...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -59357,7 +59357,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְהָיָה בַּיּוֹם הַהוּא יַחְבֹּט יְהוָה מִשִּׁבֹּלֶת הַנָּהָר עַד־נַחַל מִצְרַיִם וְאַתֶּם תְּלֻקְּטוּ לְאַחַד אֶחָד בְּנֵי יִשְׂרָאֵל׃",
        "translation": "„Și va fi, în ziua aceea, că DOMNUL va treiera...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -59610,7 +59610,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְהָיָה בַּיּוֹם הַהוּא יִתָּקַע בְּשׁוֹפָר גָּדוֹל וּבָאוּ הָאֹבְדִים בְּאֶרֶץ אַשּׁוּר וְהַנִּדָּחִים בְּאֶרֶץ מִצְרָיִם וְהִשְׁתַּחֲווּ לַיהוָה בְּהַר הַקֹּדֶשׁ בִּירוּשָׁלָ‍ִם׃",
        "translation": "„Și va fi, în ziua aceea, că se va sufla dintr-un corn mare...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -59852,7 +59852,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "הוֹי עֲטֶרֶת גֵּאוּת שִׁכֹּרֵי אֶפְרַיִם וְצִיץ נֹבֵל צְבִי תִפְאַרְתּוֹ אֲשֶׁר עַל־רֹאשׁ גֵּיא־שְׁמָנִים הֲלוּמֵי יָיִן׃",
        "translation": "„Vai, o cunună a aroganței este asupra bețivilor lui Efraim...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -60079,7 +60079,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "הִנֵּה חָזָק וְאַמִּץ לַאדֹנָי כְּזֶרֶם בָּרָד שַׂעַר קָטֶב כְּזֶרֶם מַיִם כַּבִּירִים שֹׁטְפִים הִנִּיחַ לָאָרֶץ בְּיָד׃",
        "translation": "„Iată, [o urgie] puternică și măreață are Stăpânul meu...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -60208,7 +60208,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "בְּרַגְלַיִם תֵּרָמַסְנָה עֲטֶרֶת גֵּאוּת שִׁכּוֹרֵי אֶפְרָיִם׃",
        "translation": "„În picioare va fi călcată cununa aroganței bețivilor lui Efraim.” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -60491,7 +60491,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְהָיְתָה צִיצַת נֹבֵל צְבִי תִפְאַרְתּוֹ אֲשֶׁר עַל־רֹאשׁ גֵּיא שְׁמָנִים כְּבִכּוּרָהּ בְּטֶרֶם קַיִץ אֲשֶׁר יִרְאֶה הָרֹאֶה אוֹתָהּ בְּעוֹדָהּ בְּכַפּוֹ יִבְלָעֶנָּה׃",
        "translation": "„Iar floarea ofilită...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -60661,7 +60661,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "בַּיּוֹם הַהוּא יִהְיֶה יְהוָה צְבָאוֹת לַעֲטֶרֶת צְבִי וְלִצְפִירַת תִּפְאָרָה לִשְׁאָר עַמּוֹ׃",
        "translation": "„În ziua aceea, DOMNUL Oștirilor va fi o cunună glorioasă...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -60823,7 +60823,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וּלְרוּחַ מִשְׁפָּט לַיּוֹשֵׁב עַל־הַמִּשְׁפָּט וְלִגְבוּרָה מְשִׁיבֵי מִלְחָמָה שָׁעְרָה׃",
        "translation": "„și un duh de judecată...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -61088,7 +61088,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְגַם־אֵלֶּה בַּיַּיִן שָׁגוּ וּבַשֵּׁכָר תָּעוּ כֹּהֵן וְנָבִיא שָׁגוּ בַשֵּׁכָר נִבְלְעוּ מִן־הַיַּיִן תָּעוּ מִן־הַשֵּׁכָר שָׁגוּ בָּרֹאֶה פָּקוּ פְּלִילִיָּה׃",
        "translation": "„Chiar și ei au greșit prin vin...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -61198,7 +61198,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כִּי כָּל־שֻׁלְחָנוֹת מָלְאוּ קִיא צֹאָה בְּלִי מָקוֹם׃",
        "translation": "„Căci toate mesele sunt pline de vomă [și] excrement...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -61357,7 +61357,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "אֶת־מִי יוֹרֶה דֵעָה וְאֶת־מִי יָבִין שְׁמוּעָה גְּמוּלֵי מֵחָלָב עַתִּיקֵי מִשָּׁדָיִם׃",
        "translation": "„Cui să îi predea cineva cunoaștere...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -61488,7 +61488,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כִּי צַו לָצָו צַו לָצָו קַו לָקָו קַו לָקָו זְעֵיר שָׁם זְעֵיר שָׁם׃",
        "translation": "„Căci poruncă după poruncă...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -61588,7 +61588,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כִּי בְּלַעֲגֵי שָׂפָה וּבְלָשׁוֹן אַחֶרֶת יְדַבֵּר אֶל־הָעָם הַזֶּה׃",
        "translation": "„Căci prin buze nedeslușite și într-o altă limbă...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -61735,7 +61735,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "אֲשֶׁר אָמַר אֲלֵיהֶם זֹאת הַמְּנוּחָה הָנִיחוּ לֶעָיֵף וְזֹאת הַמַּרְגֵּעָה וְלֹא אָבוּא שְׁמוֹעַ׃",
        "translation": "„căci El le-a spus: «Iată locul de odihnă!»...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -62001,7 +62001,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְהָיָה לָהֶם דְּבַר־יְהוָה צַו לָצָו צַו לָצָו קַו לָקָו קַו לָקָו זְעֵיר שָׁם זְעֵיר שָׁם לְמַעַן יֵלְכוּ וְכָשְׁלוּ אָחוֹר וְנִשְׁבָּרוּ וְנוֹקְשׁוּ וְנִלְכָּדוּ׃",
        "translation": "„Și pentru ei cuvântul DOMNULUI va fi...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -62219,7 +62219,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "לָכֵן כֹּה־אָמַר יְהוָה אֶל־בֵּית יַעֲקֹב אֲשֶׁר פָּדָה אֶת־אַבְרָהָם לֹא־עַתָּה יֵבוֹשׁ יַעֲקֹב וְלֹא עַתָּה פָּנָיו יֶחֱוָרוּ׃",
        "translation": "„De aceea, așa a spus DOMNUL...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -62425,7 +62425,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כִּי בִרְאֹתוֹ יְלָדָיו מַעֲשֵׂה יָדַי בְּקִרְבּוֹ יַקְדִּישׁוּ שְׁמִי וְהִקְדִּישׁוּ אֶת־קְדוֹשׁ יַעֲקֹב וְאֶת־אֱלֹהֵי יִשְׂרָאֵל יַעֲרִיצוּ׃",
        "translation": "„căci atunci când își vede copiii...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -62576,7 +62576,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "דִּבְרֵי יִרְמְיָהוּ בֶּן־חִלְקִיָּהוּ מִן־הַכֹּהֲנִים אֲשֶׁר בַּעֲנָתוֹת בְּאֶרֶץ בִּנְיָמִן׃",
        "translation": "„Cuvintele lui Ieremia, fiul lui Hilkiahu...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -62767,7 +62767,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "אֲשֶׁר הָיָה דְבַר־יְהוָה אֵלָיו בִּימֵי יֹאשִׁיָּהוּ בֶן־אָמוֹן מֶלֶךְ יְהוּדָה בִּשְׁלֹשׁ־עֶשְׂרֵה שָׁנָה לְמָלְכוֹ׃",
        "translation": "„la care a venit cuvântul DOMNULUI...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -63032,7 +63032,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיְהִי בִּימֵי יְהוֹיָקִים בֶּן־יֹאשִׁיָּהוּ מֶלֶךְ יְהוּדָה עַד־תֹּם עַשְׁתֵּי עֶשְׂרֵה שָׁנָה לְצִדְקִיָּהוּ בֶן־יֹאשִׁיָּהוּ מֶלֶךְ יְהוּדָה עַד־גְּלוֹת יְרוּשָׁלַ͏ִם בַּחֹדֶשׁ הַחֲמִישִׁי׃",
        "translation": "„Și [tot așa] a fost și în zilele lui Iehoiakim...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -63129,7 +63129,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר׃",
        "translation": "„Cuvântul DOMNULUI a venit la mine, spunând:” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -63332,7 +63332,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "בְּטֶרֶם אֶצָּרְךָ בַבֶּטֶן יְדַעְתִּיךָ וּבְטֶרֶם תֵּצֵא מֵרֶחֶם הִקְדַּשְׁתִּיךָ נָבִיא לַגּוֹיִם נְתַתִּיךָ׃",
        "translation": "„Înainte să te fi plăsmuit în burtă, te-am cunoscut...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -63463,7 +63463,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וָאֹמַר אֲהָהּ אֲדֹנָי יְהוִה הִנֵּה לֹא־יָדַעְתִּי דַּבֵּר כִּי־נַעַר אָנֹכִי׃",
        "translation": "„Însă eu am spus: «Ah, Stăpâne, Doamne DUMNEZEULE...»” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -63667,7 +63667,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיֹּאמֶר יְהוָה אֵלַי אַל־תֹּאמַר נַעַר אָנֹכִי כִּי עַל־כָּל־אֲשֶׁר אֶשְׁלָחֲךָ תֵּלֵךְ וְאֵת כָּל־אֲשֶׁר אֲצַוְּךָ תְּדַבֵּר׃",
        "translation": "„Iar DOMNUL mi-a spus...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -63797,7 +63797,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "אַל־תִּירָא מִפְּנֵיהֶם כִּי־אִתְּךָ אֲנִי לְהַצִּלֶךָ נְאֻם־יְהוָה׃",
        "translation": "„Nu te teme înaintea lor...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -63988,7 +63988,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיִּשְׁלַח יְהוָה אֶת־יָדוֹ וַיַּגַּע עַל־פִּי וַיֹּאמֶר יְהוָה אֵלַי הִנֵּה נָתַתִּי דְבָרַי בְּפִיךָ׃",
        "translation": "„Și apoi DOMNUL Și-a întins mâna...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -64189,7 +64189,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "רְאֵה הִפְקַדְתִּיךָ הַיּוֹם הַזֶּה עַל־הַגּוֹיִם וְעַל־הַמַּמְלָכוֹת לִנְתוֹשׁ וְלִנְתוֹץ וּלְהַאֲבִיד וְלַהֲרוֹס לִבְנוֹת וְלִנְטוֹעַ׃",
        "translation": "„Privește, te-am numit astăzi peste neamuri...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -64377,7 +64377,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר מָה־אַתָּה רֹאֶה יִרְמְיָהוּ וָאֹמַר מַקֵּל שָׁקֵד אֲנִי רֹאֶה׃",
        "translation": "„Cuvântul DOMNULUI a venit la mine...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -64505,7 +64505,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיֹּאמֶר יְהוָה אֵלַי הֵיטַבְתָּ לִרְאוֹת כִּי־שֹׁקֵד אֲנִי עַל־דְּבָרִי לַעֲשֹׂתוֹ׃",
        "translation": "„DOMNUL mi-a spus: «Ai văzut bine...»” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -64721,7 +64721,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיְהִי דְבַר־יְהוָה אֵלַי שֵׁנִית לֵאמֹר מָה אַתָּה רֹאֶה וָאֹמַר סִיר נָפוּחַ אֲנִי רֹאֶה וּפָנָיו מִפְּנֵי צָפוֹנָה׃",
        "translation": "„Cuvântul DOMNULUI a venit la mine a doua oară...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -64862,7 +64862,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיֹּאמֶר יְהוָה אֵלַי מִצָּפוֹן תִּפָּתַח הָרָעָה עַל כָּל־יֹשְׁבֵי הָאָרֶץ׃",
        "translation": "„DOMNUL mi-a spus: «De la miazănoapte răul va fi slobozit...»” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -65157,7 +65157,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כִּי הִנְנִי קֹרֵא לְכָל־מִשְׁפְּחוֹת מַמְלְכוֹת צָפוֹנָה נְאֻם־יְהוָה וּבָאוּ וְנָתְנוּ אִישׁ כִּסְאוֹ פֶּתַח שַׁעֲרֵי יְרוּשָׁלַ͏ִם וְעַל כָּל־חוֹמֹתֶיהָ סָבִיב וְעַל כָּל־עָרֵי יְהוּדָה׃",
        "translation": "„căci iată-Mă, chem toate familiile...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -65334,7 +65334,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְדִבַּרְתִּי מִשְׁפָּטַי אוֹתָם עַל כָּל־רָעָתָם אֲשֶׁר עֲזָבוּנִי וַיְקַטְּרוּ לֵאלֹהִים אֲחֵרִים וַיִּשְׁתַּחֲווּ לְמַעֲשֵׂי יְדֵיהֶם׃",
        "translation": "„Voi vorbi judecata Mea cu ei...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -65556,7 +65556,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְאַתָּה תֶּאְזֹר מָתְנֶיךָ וְקַמְתָּ וְדִבַּרְתָּ אֲלֵיהֶם אֵת כָּל־אֲשֶׁר אָנֹכִי אֲצַוֶּךָּ אַל־תֵּחַת מִפְּנֵיהֶם פֶּן־אֲחִתְּךָ לִפְנֵיהֶם׃",
        "translation": "„Iar tu, încinge-ți mijlocul...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -65833,7 +65833,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַאֲנִי הִנֵּה נְתַתִּיךָ הַיּוֹם לְעִיר מִבְצָר וּלְעַמּוּד בַּרְזֶל וּלְחֹמוֹת נְחֹשֶׁת עַל־כָּל־הָאָרֶץ לְמַלְכֵי יְהוּדָה לְשָׂרֶיהָ לְכֹהֲנֶיהָ וּלְעַם הָאָרֶץ׃",
        "translation": "„Iar Eu, iată, te-am făcut astăzi cetate fortificată...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -65960,7 +65960,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְנִלְחֲמוּ אֵלֶיךָ וְלֹא־יוּכְלוּ לָךְ כִּי־אִתְּךָ אֲנִי נְאֻם־יְהוָה לְהַצִּילֶךָ׃",
        "translation": "„Se vor lupta cu tine, dar nu te vor putea învinge...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -66050,7 +66050,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר׃",
        "translation": "„Cuvântul DOMNULUI a venit la mine, spunând:” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -66287,7 +66287,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "הָלֹךְ וְקָרָאתָ בְאָזְנֵי יְרוּשָׁלַ͏ִם לֵאמֹר כֹּה אָמַר יְהוָה זָכַרְתִּי לָךְ חֶסֶד נְעוּרַיִךְ אַהֲבַת כְּלוּלֹתָיִךְ לֶכְתֵּךְ אַחֲרַי בַּמִּדְבָּר בְּאֶרֶץ לֹא זְרוּעָה׃",
        "translation": "„«Du-te și vestește în auzul Ierusalimului...»” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -66503,7 +66503,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "קֹדֶשׁ יִשְׂרָאֵל לַיהוָה רֵאשִׁית תְּבוּאָתֹה כָּל־אֹכְלָיו יֶאְשָׁמוּ רָעָה תָּבֹא אֲלֵיהֶם נְאֻם־יְהוָה׃",
        "translation": "„Israel este sfânt pentru DOMNUL...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -66761,7 +66761,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כֹּה אָמַר אֲדֹנָי יְהוִה בְּקַבְּצִי אֶת־בֵּית יִשְׂרָאֵל מִן־הָעַמִּים אֲשֶׁר נָפֹצוּ בָם וְנִקְדַּשְׁתִּי בָם לְעֵינֵי הַגּוֹיִם וְיָשְׁבוּ עַל־אַדְמָתָם אֲשֶׁר נָתַתִּי לְעַבְדִּי לְיַעֲקֹב׃",
        "translation": "„Așa a spus Stăpânul meu, Domnul DUMNEZEU...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -67044,7 +67044,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְיָשְׁבוּ עָלֶיהָ לָבֶטַח וּבָנוּ בָתִּים וְנָטְעוּ כְרָמִים וְיָשְׁבוּ לָבֶטַח בַּעֲשׂוֹתִי שְׁפָטִים בְּכֹל הַשָּׁאטִים אֹתָם מִסְּבִיבוֹתָם וְיָדְעוּ כִּי אֲנִי יְהוָה אֱלֹהֵיהֶם׃",
        "translation": "„atunci vor locui pe el în siguranță...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -67220,7 +67220,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "בַּשָּׁנָה הָעֲשִׂירִית בָּעֲשִׂרִי בִּשְׁנֵים עָשָׂר לַחֹדֶשׁ הָיָה דְבַר־יְהוָה אֵלַי לֵאמֹר׃",
        "translation": "„În anul al zecelea...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -67385,7 +67385,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "בֶּן־אָדָם שִׂים פָּנֶיךָ עַל־פַּרְעֹה מֶלֶךְ מִצְרַיִם וְהִנָּבֵא עָלָיו וְעַל־מִצְרַיִם כֻּלָּהּ׃",
        "translation": "„Fiul omului, îndreaptă-ți fața spre Faraon...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -67663,7 +67663,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "דַּבֵּר וְאָמַרְתָּ כֹּה־אָמַר אֲדֹנָי יְהוִה הִנְנִי עָלֶיךָ פַּרְעֹה מֶלֶךְ־מִצְרַיִם הַתַּנִּים הַגָּדוֹל הָרֹבֵץ בְּתוֹךְ יְאֹרָיו אֲשֶׁר אָמַר לִי יְאֹרִי וַאֲנִי עֲשִׂיתִנִי׃",
        "translation": "„Vorbește și spune-le...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -67895,7 +67895,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְנָתַתִּי חַחִים בִּלְחָיֶיךָ וְהִדְבַּקְתִּי דְגַת־יְאֹרֶיךָ בְּקַשְׂקְשֹׂתֶיךָ וְהַעֲלִיתִיךָ מִתּוֹךְ יְאֹרֶיךָ וְאֵת כָּל־דְּגַת יְאֹרֶיךָ בְּקַשְׂקְשֹׂתֶיךָ תִּדְבָּק׃",
        "translation": "„Îți voi pune cârlige în fălci...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -68117,7 +68117,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וּנְטַשְׁתִּיךָ הַמִּדְבָּרָה אוֹתְךָ וְאֵת כָּל־דְּגַת יְאֹרֶיךָ עַל־פְּנֵי הַשָּׂדֶה תִּפּוֹל לֹא תֵאָסֵף וְלֹא תִקָּבֵץ לְחַיַּת הָאָרֶץ וּלְעוֹף הַשָּׁמַיִם נְתַתִּיךָ לְאָכְלָה׃",
        "translation": "„Și te voi arunca în deșert...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -68293,7 +68293,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְיָדְעוּ כָּל־יֹשְׁבֵי מִצְרַיִם כִּי אֲנִי יְהוָה יַעַן הֱיוֹתָם מִשְׁעֶנֶת קָנֶה לְבֵית יִשְׂרָאֵל׃",
        "translation": "„Și toți cei care locuiesc în Egipt vor ști...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -68469,7 +68469,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "בְּתָפְשָׂם בְּךָ בַכַּף תֵּרוֹץ וּבָקַעְתָּ לָהֶם כָּל־כָּתֵף וּבְהִשָּׁעֲנָם עָלֶיךָ תִּשָּׁבֵר וְהַעֲמַדְתָּ לָהֶם כָּל־מָתְנָיִם׃",
        "translation": "„Când ei te apucă în mână...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -68641,7 +68641,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "לָכֵן כֹּה אָמַר אֲדֹנָי יְהוִה הִנְנִי מֵבִיא עָלֶיךָ חֶרֶב וְהִכְרַתִּי מִמְּךָ אָדָם וּבְהֵמָה׃",
        "translation": "„De aceea, așa a spus Stăpânul meu...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -68859,7 +68859,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְהָיְתָה אֶרֶץ־מִצְרַיִם לִשְׁמָמָה וְחָרְבָּה וְיָדְעוּ כִּי־אֲנִי יְהוָה יַעַן אָמַר יְאֹר לִי וַאֲנִי עָשִׂיתִי׃",
        "translation": "„Și țara Egiptului va fi pustietate și ruină...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -69064,7 +69064,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "לָכֵן הִנְנִי אֵלֶיךָ וְאֶל־יְאֹרֶיךָ וְנָתַתִּי אֶת־אֶרֶץ מִצְרַיִם לְחָרְבוֹת חֹרֶב שְׁמָמָה מִמִּגְדֹּל סְוֵנֵה וְעַד־גְּבוּל כּוּשׁ׃",
        "translation": "„De aceea, iată-Mă, Eu sunt împotriva ta...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -69223,7 +69223,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "לֹא תַעֲבָר־בָּהּ רֶגֶל אָדָם וְרֶגֶל בְּהֵמָה לֹא תַעֲבָר־בָּהּ וְלֹא תֵשֵׁב אַרְבָּעִים שָׁנָה׃",
        "translation": "„Nu va trece prin ea picior de om...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -69533,7 +69533,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְנָתַתִּי אֶת־אֶרֶץ מִצְרַיִם שְׁמָמָה בְּתוֹךְ אֲרָצוֹת נְשַׁמּוֹת וְעָרֶיהָ בְּתוֹךְ עָרִים מָחֳרָבוֹת תִּהְיֶיןָ שְׁמָמָה אַרְבָּעִים שָׁנָה וַהֲפִצֹתִי אֶת־מִצְרַיִם בַּגּוֹיִם וְזֵרִיתִים בָּאֲרָצוֹת׃",
        "translation": "„Și voi face ca țara Egiptului să fie pustiită...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -69725,7 +69725,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כִּי כֹּה אָמַר אֲדֹנָי יְהוִה מִקֵּץ אַרְבָּעִים שָׁנָה אֲקַבֵּץ אֶת־מִצְרַיִם מִן־הָעַמִּים אֲשֶׁר־נָפֹצוּ שָׁמָּה׃",
        "translation": "„Căci așa a spus Stăpânul meu...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -69910,7 +69910,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְשַׁבְתִּי אֶת־שְׁבוּת מִצְרַיִם וַהֲשִׁבֹתִי אֹתָם אֶרֶץ פַּתְרוֹס עַל־אֶרֶץ מְכוּרָתָם וְהָיוּ שָׁם מַמְלָכָה שְׁפָלָה׃",
        "translation": "„Îi voi întoarce pe captivii Egiptului...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -70083,7 +70083,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "מִן־הַמַּמְלָכוֹת תִּהְיֶה שְׁפָלָה וְלֹא־תִתְנַשֵּׂא עוֹד עַל־הַגּוֹיִם וְהִמְעַטְתִּים לְבִלְתִּי רְדוֹת בַּגּוֹיִם׃",
        "translation": "„Dintre regate, va fi cel mai neînsemnat...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -70272,7 +70272,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְלֹא יִהְיֶה־עוֹד לְבֵית יִשְׂרָאֵל לְמִבְטָח מַזְכִּיר עָוֹן בִּפְנוֹתָם אַחֲרֵיהֶם וְיָדְעוּ כִּי אֲנִי אֲדֹנָי יְהוִה׃",
        "translation": "„Și nu vor mai fi drept sprijin...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -70462,7 +70462,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיְהִי בְּעֶשְׂרִים וָשֶׁבַע שָׁנָה בָּרִאשׁוֹן בְּאֶחָד לַחֹדֶשׁ הָיָה דְבַר־יְהוָה אֵלַי לֵאמֹר׃",
        "translation": "„Și a fost în anul al douăzeci și șaptelea...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -70786,7 +70786,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "בֶּן־אָדָם נְבוּכַדְרֶאצַּר מֶלֶךְ־בָּבֶל הֶעֱבִיד אֶת־חֵילוֹ עֲבֹדָה גְדֹלָה אֶל־צֹר כָּל־רֹאשׁ מֻקְרָח וְכָל־כָּתֵף מְרוּטָה וְשָׂכָר לֹא־הָיָה לוֹ וּלְחֵילוֹ מִצֹּר עַל־הָעֲבֹדָה אֲשֶׁר־עָבַד עָלֶיהָ׃",
        "translation": "„Fiul omului, Nabucodonosor, regele Babilonului...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -71089,7 +71089,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "לָכֵן כֹּה אָמַר אֲדֹנָי יְהוִה הִנְנִי נֹתֵן לִנְבוּכַדְרֶאצַּר מֶלֶךְ־בָּבֶל אֶת־אֶרֶץ מִצְרָיִם וְנָשָׂא הֲמֹנָהּ וְשָׁלַל שְׁלָלָהּ וּבָזַז בִּזָּהּ וְהָיְתָה שָׂכָר לְחֵילוֹ׃",
        "translation": "„De aceea, spune Stăpânul meu, Domnul DUMNEZEU...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -71252,7 +71252,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "פְּעֻלָּתוֹ אֲשֶׁר־עָבַד בָּהּ נָתַתִּי לוֹ אֶת־אֶרֶץ מִצְרָיִם אֲשֶׁר עָשׂוּ לִי נְאֻם אֲדֹנָי יְהוִה׃",
        "translation": "„Pentru lucrarea sa pe care a făcut-o în ea...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -71424,7 +71424,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "בַּיּוֹם הַהוּא אַצְמִיחַ קֶרֶן לְבֵית יִשְׂרָאֵל וּלְךָ אֶתֵּן פִּתְחוֹן־פֶּה בְּתוֹכָם וְיָדְעוּ כִּי־אֲנִי יְהוָה׃",
        "translation": "„În acea zi voi face să înflorească puterea casei lui Israel...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă)",
@@ -71634,7 +71634,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "הַדָּבָר אֲשֶׁר דִּבֶּר יְהוָה אֶל־יִרְמְיָהוּ הַנָּבִיא לָבוֹא נְבוּכַדְרֶאצַּר מֶלֶךְ בָּבֶל לְהַכּוֹת אֶת־אֶרֶץ מִצְרָיִם׃",
        "translation": "„Cuvântul pe care DOMNUL l-a vorbit profetului Ieremia...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, Ieremia cap. 26 în numerotarea LXX)",
@@ -71866,7 +71866,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "הַגִּידוּ בְמִצְרַיִם וְהַשְׁמִיעוּ בְמִגְדּוֹל וְהַשְׁמִיעוּ בְנֹף וּבְתַחְפַּנְחֵס אִמְרוּ הִתְיַצֵּב וְהָכֵן לָךְ כִּי־אָכְלָה חֶרֶב סְבִיבֶיךָ׃",
        "translation": "„Vestiți în Egipt...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, cap. 26 LXX)",
@@ -71984,7 +71984,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "מַדּוּעַ נִסְחַף אַבִּירֶיךָ לֹא עָמַד כִּי יְהוָה הֲדָפוֹ׃",
        "translation": "„De ce s-au prăbușit vitejii tăi?...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, cap. 26 LXX)",
@@ -72221,7 +72221,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "הִרְבָּה כּוֹשֵׁל גַּם־נָפַל אִישׁ אֶל־רֵעֵהוּ וַיֹּאמְרוּ קוּמָה וְנָשֻׁבָה אֶל־עַמֵּנוּ וְאֶל־אֶרֶץ מוֹלַדְתֵּנוּ מִפְּנֵי חֶרֶב הַיּוֹנָה׃",
        "translation": "„El va face pe mulți să se împiedice...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, cap. 26 LXX)",
@@ -72380,7 +72380,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "קָרְאוּ שָׁם פַּרְעֹה מֶלֶךְ־מִצְרַיִם שָׁאוֹן הֶעֱבִיר הַמּוֹעֵד׃",
        "translation": "„Și au proclamat acolo...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, cap. 26 LXX)",
@@ -72581,7 +72581,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "חַי־אָנִי נְאֻם־הַמֶּלֶךְ יְהוָה צְבָאוֹת שְׁמוֹ כִּי כְּתָבוֹר בֶּהָרִים וּכְכַרְמֶל בַּיָּם יָבוֹא׃",
        "translation": "„Viu sunt Eu – rostirea Regelui...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, cap. 26 LXX)",
@@ -72770,7 +72770,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כְּלֵי גוֹלָה עֲשִׂי לָךְ יוֹשֶׁבֶת בַּת־מִצְרָיִם כִּי־נֹף לְשַׁמָּה תִהְיֶה וְנִצְּתָה מֵאֵין יוֹשֵׁב׃",
        "translation": "„Pregătește-ți vase de exil...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, cap. 26 LXX)",
@@ -72913,7 +72913,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "עֶגְלָה יְפֵה־פִיָּה מִצְרָיִם קֶרֶץ מִצָּפוֹן בָּא בָא׃",
        "translation": "„Egiptul este o vițea foarte frumoasă...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, cap. 26 LXX)",
@@ -73149,7 +73149,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "גַּם־שְׂכִרֶיהָ בְקִרְבָּהּ כְּעֶגְלֵי מַרְבֵּק כִּי־גַם־הֵמָּה הִפְנוּ נָסוּ יַחְדָּיו לֹא עָמָדוּ כִּי יוֹם אֵידָם בָּא עֲלֵיהֶם עֵת פְּקֻדָּתָם׃",
        "translation": "„Chiar mercenarii săi sunt ca vițeii îngrășați...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, cap. 26 LXX)",
@@ -73321,7 +73321,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "קוֹלָהּ כַּנָּחָשׁ יֵלֵךְ כִּי־בְחַיִל יֵלֵכוּ וּבְקַרְדֻּמּוֹת בָּאוּ לָהּ כְּחֹטְבֵי עֵצִים׃",
        "translation": "„Vocea îi va sâsâi ca a șarpelui...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, cap. 26 LXX)",
@@ -73465,7 +73465,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כָּרְתוּ יַעְרָהּ נְאֻם־יְהוָה כִּי לֹא יֵחָקֵר כִּי רַבּוּ מֵאַרְבֶּה וְאֵין לָהֶם מִסְפָּר׃",
        "translation": "„Îi vor tăia pădurea...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, cap. 26 LXX)",
@@ -73606,7 +73606,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "הֹבִישָׁה בַּת־מִצְרַיִם נִתְּנָה בְּיַד עַם־צָפוֹן׃",
        "translation": "„Rușinată va fi fiica Egiptului...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, cap. 26 LXX)",
@@ -73823,7 +73823,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל הִנְנִי פֹקֵד אֶל־אָמוֹן מִנֹּא וְעַל־פַּרְעֹה וְעַל־מִצְרַיִם וְעַל־אֱלֹהֶיהָ וְעַל־מְלָכֶיהָ וְעַל־פַּרְעֹה וְעַל הַבֹּטְחִים בּוֹ׃",
        "translation": "„DOMNUL Oștirilor, Dumnezeul lui Israel, a spus...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, cap. 26 LXX)",
@@ -74072,7 +74072,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וּנְתַתִּים בְּיַד מְבַקְשֵׁי נַפְשָׁם וּבְיַד נְבוּכַדְרֶאצַּר מֶלֶךְ־בָּבֶל וּבְיַד־עֲבָדָיו וְאַחֲרֵי־כֵן תִּשְׁכֹּן כִּימֵי־קֶדֶם נְאֻם־יְהוָה׃",
        "translation": "„Și îi voi da în mâna celor ce caută să le ia viețile...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -74352,7 +74352,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְאַתָּה אַל־תִּירָא עַבְדִּי יַעֲקֹב וְאַל־תֵּחַת יִשְׂרָאֵל כִּי הִנְנִי מוֹשִׁעֲךָ מֵרָחוֹק וְאֶת־זַרְעֲךָ מֵאֶרֶץ שִׁבְיָם וְשָׁב יַעֲקֹב וְשָׁקַט וְשַׁאֲנַן וְאֵין מַחֲרִיד׃",
        "translation": "«Dar tu, nu te teme, slujitorul Meu Iacov...»” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, cap. 26 LXX)",
@@ -74606,7 +74606,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "אַתָּה אַל־תִּירָא עַבְדִּי יַעֲקֹב נְאֻם־יְהוָה כִּי אִתְּךָ אָנִי כִּי אֶעֱשֶׂה כָלָה בְּכָל־הַגּוֹיִם אֲשֶׁר הִדַּחְתִּיךָ שָׁמָּה וְאֹתְךָ לֹא־אֶעֱשֶׂה כָלָה וְיִסַּרְתִּיךָ לַמִּשְׁפָּט וְנַקֵּה לֹא אֲנַקֶּךָּ׃",
        "translation": "„Nu te teme, slujitorul Meu Iacov...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante semnificative."
       },
       {
        "source": "Septuaginta (greacă, cap. 26 LXX)",

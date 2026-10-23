@@ -9,5 +9,8 @@ module.exports = {
   '2:15': { tr: '„Și arcașul nu va rezista, iar cel iute de picioarele lui nu va fi izbăvit, nici călărețul nu-și va izbăvi viața.”', note: A },
   '2:16': { tr: '„Și își va afla inima în puteri; cel gol va fi urmărit în ziua aceea, zice Domnul.”', note: 'LXX începe altfel versetul („își va afla inima în puteri”, εὑρήσει τὴν καρδίαν αὐτοῦ ἐν δυναστείαις) și are „va fi urmărit/va urmări” (διώξεται) în loc de „va fugi” (ianus) — o divergență reală de sens, deși ambele descriu aceeași scenă de dezastru total.' },
   '3:1': { tr: '„Ascultați cuvântul acesta pe care l-a vorbit Domnul asupra voastră, casă a lui Israel, și asupra întregii seminții pe care am scos-o din țara Egiptului, zicând:”', note: 'Apropiere strânsă între TM și LXX; „familia” (mișpaha) este redată „seminția” (φυλῆς).' },
-  '3:7': { tr: '„Căci Domnul Dumnezeu nu va face nimic, dacă nu va descoperi învățătura Sa către slujitorii Săi, profeții.”', note: 'Apropiere strânsă între TM și LXX; „taina Sa” (sodo) este redată „învățătura/îndrumarea Sa” (παιδείαν αὐτοῦ).' }
+  '3:7': { tr: '„Căci Domnul Dumnezeu nu va face nimic, dacă nu va descoperi învățătura Sa către slujitorii Săi, profeții.”', note: 'Apropiere strânsă între TM și LXX; „taina Sa” (sodo) este redată „învățătura/îndrumarea Sa” (παιδείαν αὐτοῦ).' },
+  '2:7': {"keepTr":1},
+  '3:2': {"keepTr":1},
+  '3:6': {"keepTr":1}
 };

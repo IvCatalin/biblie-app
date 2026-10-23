@@ -17,5 +17,12 @@ module.exports = {
   '1:28': { tr: '„Și a răspuns David și a zis: Chemați-mi pe Batșeba; și ea a intrat înaintea regelui și a stat înaintea lui.”', note: A },
   '1:29': { tr: '„Și a jurat regele și a zis: Viu este Domnul, care a răscumpărat sufletul meu din orice strâmtorare,”', note: A },
   '1:30': { tr: '„căci precum ți-am jurat în Domnul Dumnezeul lui Israel, zicând că Solomon, fiul tău, va domni după mine și el va ședea pe tronul meu în locul meu, așa voi face în ziua aceasta.”', note: A },
-  '1:31': { tr: '„Și s-a plecat Batșeba cu fața la pământ și s-a închinat regelui și a zis: Să trăiască domnul meu, regele David, în veac!”', note: A }
+  '1:31': { tr: '„Și s-a plecat Batșeba cu fața la pământ și s-a închinat regelui și a zis: Să trăiască domnul meu, regele David, în veac!”', note: A },
+  '1:1': {"keepTr":1},
+  '1:3': {"keepTr":1},
+  '1:7': {"keepTr":1},
+  '1:14': {"keepTr":1},
+  '1:18': {"keepTr":1},
+  '1:24': {"keepTr":1},
+  '1:27': {"keepTr":1}
 };
