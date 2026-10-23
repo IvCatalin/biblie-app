@@ -3,7 +3,7 @@ const fs = require('fs'), path = require('path');
 const WF = path.join(__dirname, '../haftarot-ciclu-saptamanal.json');
 const cn = +process.argv[2], spec = require(path.resolve(process.argv[3])), author = process.argv[4];
 const d = JSON.parse(fs.readFileSync(WF, 'utf8')); const ch = d.chapters.find(c => c.num === cn);
-const JEW = /^(Rashi|Ibn Ezra|Radak|Metzudat|Șadal|Ramban|Sforno|Malbim|Talmud|Zohar|Midra|Mișna)/;
+const JEW = /^(Rashi|Ibn Ezra|Radak|Metzudat|Șadal|Ramban|Sforno|Malbim|Ralbag|Talmud|Zohar|Midra|Mișna)/;
 const errs = []; let added = 0;
 for (const [v, text] of Object.entries(spec)) {
   const vv = ch.verses.find(x => x.v === v); if (!vv) { errs.push(`${v}: verset inexistent`); continue; }
