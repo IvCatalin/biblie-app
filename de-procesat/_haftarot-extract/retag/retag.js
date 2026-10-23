@@ -33,6 +33,7 @@ const cons = s => O.cons(s || '');
 const newVerses = ch.verses.map(v => {
   const ent = spec.v[v.v];
   if (!ent) { errs.push(`${v.v}: lipsește din specificație`); return v; }
+  if (ent === 'KEEP') return v; // verset copiat dintr-un capitol identic, deja la Standardul Davar
   const ws = O.haftWords(cn, v.v);
   // verificare: ebraica OSHB a versetului trebuie să corespundă ebraicii Rosen din fișier
   const c1 = ws.map(w => cons(w.heb)).join(''), c2 = cons(v.heb || '');
