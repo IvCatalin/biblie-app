@@ -24,7 +24,7 @@ S['2:1'] = [I('ἐγγίζω', 'ἤγγισαν'), I('ἡμέρα', 'ἡμέρα
 S['2:2'] = [I('ἐγώ', 'Ἐγώ'), I('πορεύομαι', 'πορεύομαι'), I('ὁδός', 'ὁδῷ'), I('πᾶσα ἡ γῆ', 'πάσης/τῆς/γῆς'),
   I('ἰσχύω', 'ἰσχύσεις', 'Ebraica: „întărește-te” (imperativ, vehazakta); Septuaginta: „te vei întări” (viitor).'), I('ἀνήρ', 'ἔσῃ/εἰς/ἄνδρα')];
 S['2:3'] = [I('φυλάσσω', 'φυλάξεις'), I('φυλακή', 'φυλακὴν'), I('κύριος', 'κυρίου'), I('θεός', 'θεοῦ'), I('πορεύομαι', 'πορεύεσθαι'), I('ὁδός', 'ὁδοῖς'), I('φυλάσσω', 'φυλάσσειν'),
-  I('δικαίωμα', 'δικαιώματα'), I('ἐντολή', 'ἐντολὰς'), I('κρίμα', 'κρίματα'), Z('Septuaginta nu are „mărturiile Lui” (edvotav).'), I('γράφω', 'γεγραμμένα'), I('νόμος', 'νόμῳ', 'Ebraica: „Învățătura” (torat); Septuaginta: „legea” (νόμῳ).'),
+  I('δικαίωμα', 'δικαιώματα'), I('ἐντολή', 'ἐντολὰς'), I('κρίμα', 'κρίματα'), Z('Septuaginta nu are „mărturiile Lui” (edvotav).'), I('γράφω', 'γεγραμμένα'), I('νόμος', 'νόμῳ', 'Ebraica spune „Învățătura lui Moise” (torat Moșe), cuvânt care înseamnă îndrumare; grecul îl redă prin „lege” (νόμῳ), cu accent pe norma poruncită, mai puțin pe ideea de învățătură.'),
   I('Μωυσῆς', 'Μωυσέως'), I('συνίημι', 'συνίῃς', 'Ebraica: „ca să reușești” (taskil); Septuaginta: „ca să înțelegi” (συνίῃς).'), I('ποιέω', 'ἃ/ποιήσεις'),
   I('πᾶς', 'κατὰ/πάντα/ὅσα', 'Ebraica: „oriunde” (kol așer tifne șam); Septuaginta: „potrivit cu tot ce” (κατὰ πάντα ὅσα).'),
   I('ἐντέλλομαι', 'ἐντείλωμαί', 'Ebraica: „te vei îndrepta” (tifne); Septuaginta: „îți voi porunci” (ἐντείλωμαί σοι).')];
