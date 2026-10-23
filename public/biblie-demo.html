@@ -5168,6 +5168,8 @@ function showWordPopover(tok, anchorEl){
     return m[1].split(/[;,]/)[0].trim().replace(/\.$/, "");
   })();
 
+  // Definiția greacă completă se arată în blocul de diferență doar dacă spune mai mult decât glosa scurtă din linia LXX.
+  const greekGlossFull = (t) => { const m = (t.greek_def_ro || "").match(/—\s*(.+)$/); return m ? m[1].trim().replace(/\.$/, "") : ""; };
   const extraEl = document.getElementById("wp-extra");
   let extraHtml = "";
   if(tok.greek){
@@ -5178,7 +5180,7 @@ function showWordPopover(tok, anchorEl){
   // Blocul apare doar când există o diferență reală (diff_ro); altfel ar repeta exact linia LXX de mai sus.
   if(tok.diff_ro){
     extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Diferență ebraică / greacă</span>` +
-      (tok.greek_def_ro ? `${tok.greek_def_ro} ` : "") + (tok.diff_ro || "") + `</div>`;
+      (tok.greek_def_ro && greekGlossFull(tok) !== greekGloss ? `${tok.greek_def_ro} ` : "") + (tok.diff_ro || "") + `</div>`;
   }
   if(tok.dict_ro){
     extraHtml += `<div class="wp-extra-block"><span class="wp-extra-label">Dicționar biblic</span>${tok.dict_ro}</div>`;
