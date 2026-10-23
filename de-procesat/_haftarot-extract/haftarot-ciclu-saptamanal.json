@@ -167496,39 +167496,326 @@
      "translit": "Vehakohanim haleviim benei Țadok așer șamru et-mișmeret mikdași bitot benei-Israël mealai hema yikrevu elai leșarteni veamdu lefanai lehakriv li helev vadam neum Adonai ELOHIM.",
      "tokens": [
       {
-       "t": "Iar preoții leviți –",
-       "w": "Iar preoții leviți –",
-       "heb": "וְהַכֹּהֲנִים הַלְוִיִּם",
-       "translit": "vehakohanim halvim",
+       "t": "Iar "
+      },
+      {
+       "t": "preoții",
+       "w": "preoții",
+       "heb": "וְהַכֹּהֲנִים",
+       "translit": "vehakohanim",
        "strong": "H3548",
-       "pos": "substantiv plural + nume de neam",
-       "def_ro": "și preoții leviți.",
-       "dict_ro": "Rashi precizează că acești preoți sunt numiți după Țadok pentru că el a fost marele preot care a slujit primul în Sanctuarul din zilele lui Solomon — numele lui devine astfel sinonim cu linia preoțească fidelă."
+       "pos": "substantiv, masculin plural",
+       "def_ro": "preoții",
+       "dict_ro": "Kohen înseamnă „preot”, slujitorul care aduce jertfele și învață poporul. Ezechiel 44 desparte pe preoții din linia lui Țadok de ceilalți leviți și le regulează slujba pe temeiul Legii din Levitic 21–22, cu rânduieli în plus.",
+       "greek": "ἱερεύς (hiereus)",
+       "greek_def_ro": "ἱερεύς (hiereus) — preot"
       },
       {
        "t": " "
       },
       {
-       "t": "fiii lui Țadok",
-       "w": "fiii lui Țadok",
+       "t": "leviți",
+       "w": "leviți",
+       "heb": "הַלְוִיִּם",
+       "translit": "halvim",
+       "strong": "H3881",
+       "pos": "nume de neam",
+       "def_ro": "leviții",
+       "dict_ro": "Levi este numele tribului ales pentru slujba Locașului (Numeri 3). „Preoții leviți” sunt preoții din seminția lui Levi; Ezechiel îi deosebește de leviții care au rătăcit după idoli (44:10-14) și îi pune pe cei credincioși în fruntea slujbei.",
+       "greek": "Λευίτης (Leuites)",
+       "greek_def_ro": "Λευίτης (Leuites) — levit"
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "fiii",
+       "w": "fiii",
+       "heb": "בְּנֵי",
+       "translit": "benē",
+       "strong": "H1121",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "fiii",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
+      },
+      {
+       "t": " lui "
+      },
+      {
+       "t": "Țadok",
+       "w": "Țadok",
        "heb": "צָדוֹק",
        "translit": "țadok",
        "strong": "H6659",
        "pos": "nume propriu",
-       "def_ro": "urmașii lui Țadok, familia marilor preoți.",
-       "greek": "υἱοὶ τοῦ Σαδδούκ (hyioi tou Saddouk)",
-       "greek_def_ro": "υἱοὶ τοῦ Σαδδούκ (hyioi tou Saddouk) — fiii lui Țadok.",
-       "dict_ro": "Țadok — marele preot din vremea lui David și Solomon (1 Împărați 2:35), numit, după Rashi, pentru că a fost primul care a slujit ca mare preot în Templul lui Solomon; numele lui înseamnă „drept”. Ezechiel le rezervă urmașilor lui slujirea din viitorul Templu, pentru că ei „au păzit sarcina Sanctuarului” atunci când restul poporului s-a abătut; Radak explică contrastul: preoții care s-au rătăcit nu se vor mai întoarce la slujire, pe când cei care n-au rătăcit o vor primi înapoi."
+       "def_ro": "lui Țadok",
+       "dict_ro": "Țadok înseamnă „drept”, „neprihănit”. Țadok a fost preotul care a rămas credincios lui David și a uns pe Solomon (1 Împărați 1:39); fiii lui sunt cei care păzesc slujba când ceilalți se abat.",
+       "greek": "Σαδδουκ (Saddouk)",
+       "greek_def_ro": "Σαδδουκ (Saddouk) — Sadoc",
+       "diff_ro": "Ebraica: „Țadok” (Țadok); Septuaginta transcrie numele în greacă ca „Sadoc” (Σαδδουκ), cu alt sunet de început."
       },
       {
-       "t": ", care au păzit sarcina Sanctuarului Meu atunci când copiii lui Israel s-au abătut de la Mine – ei să se apropie de Mine ca să-Mi slujească și să stea în picioare în fața Mea ca să-Mi aducă grăsime și sânge – rostirea Stăpânului meu, Domnul DUMNEZEU.",
-       "w": ", care au păzit sarcina Sanctuarului Meu atunci când copiii lui Israel s-au abătut de la Mine – ei să se apropie de Mine ca să-Mi slujească și să stea în picioare în fața Mea ca să-Mi aducă grăsime și sânge – rostirea Stăpânului meu, Domnul DUMNEZEU.",
-       "heb": "בְּנֵי אֲשֶׁר שָׁמְרוּ אֶת מִשְׁמֶרֶת מִקְדָּשִׁי בִּתְעוֹת בְּנֵי יִשְׂרָאֵל מֵעָלַי הֵמָּה יִקְרְבוּ אֵלַי לְשָׁרְתֵנִי וְעָמְדוּ לְפָנַי לְהַקְרִיב לִי חֵלֶב וָדָם נְאֻם אֲדֹנָי יְהוִה",
-       "translit": "benē așer șamru et mișmeret mikdași bitot benē israēl mēalai hēma ikrevu ēlai leșartēni veamdu lefanai lehakriv li hēlev vadam neum adonai Adonai",
+       "t": ", care au "
+      },
+      {
+       "t": "păzit",
+       "w": "păzit",
+       "heb": "שָׁמְרוּ",
+       "translit": "șamru",
+       "strong": "H8104",
+       "pos": "verb, qal perfect",
+       "def_ro": "au păzit",
+       "dict_ro": "Șamar înseamnă a păzi, a veghea asupra unui lucru; „a păzi poruncile” înseamnă a le împlini cu grijă. Omul a fost pus în grădina Edenului „ca s-o lucreze și s-o păzească” (Geneza 2:15).",
+       "greek": "φυλάσσω (phylasso)",
+       "greek_def_ro": "φυλάσσω (phylasso) — a păzi"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "sarcina",
+       "w": "sarcina",
+       "heb": "מִשְׁמֶרֶת",
+       "translit": "mișmeret",
+       "strong": "H4931",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "paza",
+       "dict_ro": "Mișmeret înseamnă „strajă”, „sarcină încredințată”, ceea ce trebuie păzit. Preoții păzesc „sarcina Locașului” (Numeri 18:5), adică ordinea și sfințenia lui.",
+       "greek": "φυλακή (phylake)",
+       "greek_def_ro": "φυλακή (phylake) — strajă, rânduială"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Sanctuarului",
+       "w": "Sanctuarului",
+       "heb": "מִקְדָּשִׁי",
+       "translit": "mikdași",
+       "strong": "H4720",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "Sfântului Meu Locaș",
+       "dict_ro": "Miqdaș înseamnă „loc sfânt”, „sanctuar”, de la rădăcina „a fi sfânt”. Este Templul din vedenia lui Ezechiel, la care preoții se apropie numai după rânduieli de curățenie și îmbrăcăminte.",
+       "greek": "ἅγιος (hagios)",
+       "greek_def_ro": "ἅγιος (hagios) — cele sfinte",
+       "diff_ro": "Ebraica: „Sanctuarului Meu” (mikdași); Septuaginta: „celor sfinte ale Mele” (τῶν ἁγίων μου)."
+      },
+      {
+       "t": " Meu atunci când "
+      },
+      {
+       "t": "copiii",
+       "w": "copiii",
+       "heb": "בְּנֵי",
+       "translit": "benē",
        "strong": "H1121",
-       "pos": "substantiv plural construct + particulă relativă + verb, qal perfect + marcă a complementului direct + substantiv construct + substantiv construct + sufix + verb, qal infinitiv + substantiv plural construct + nume propriu + prepoziție + sufix + pronume personal + verb, qal imperfect + prepoziție + sufix + verb, piel infinitiv + sufix + verb, qal perfect consecutiv + substantiv construct + sufix + verb, hifil infinitiv + prepoziție + sufix + substantiv + substantiv + substantiv construct + substantiv construct + sufix + nume propriu",
-       "def_ro": "fiii [lui Țadok], care au păzit sarcina Sanctuarului Meu când s-au abătut copiii lui Israel de la Mine; ei se vor apropia de Mine ca să-Mi slujească și vor sta înaintea Mea ca să-Mi aducă grăsime și sânge — rostirea Stăpânului meu, DOMNUL.",
-       "dict_ro": "Radak explică faptul că, deoarece profeția precizase deja că preoții care s-au rătăcit nu se vor mai întoarce în viitor la slujire, acum arată explicit că cei care au rămas fideli — fiii lui Țadok — se vor întoarce la rânduiala lor completă."
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "fiii",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "οἶκος (oikos)",
+       "greek_def_ro": "οἶκος (oikos) — casă",
+       "diff_ro": "Ebraica: „copiii lui Israel” (benē Israel); Septuaginta: „casa lui Israel” (οἶκον Ισραηλ)."
+      },
+      {
+       "t": " lui "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "lui Israel",
+       "dict_ro": "Numele Israel i-a fost dat lui Iacov după lupta de la Iaboc și i-a fost confirmat la Betel (Geneza 35:10); textul îl explică prin „ai luptat cu Dumnezeu și cu oamenii și ai biruit”. În profeți, „Iacov” și „Israel” apar adesea în paralel, desemnând același popor: primul e numele de la naștere, al doilea numele chemării.",
+       "greek": "Ἰσραήλ (Israel)",
+       "greek_def_ro": "Ἰσραήλ (Israel) — Israel"
+      },
+      {
+       "t": " s-au "
+      },
+      {
+       "t": "abătut",
+       "w": "abătut",
+       "heb": "בִּתְעוֹת",
+       "translit": "bitot",
+       "strong": "H8582",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "au rătăcit",
+       "dict_ro": "Ta'a înseamnă „a se rătăci”, „a se abate”. Copiii lui Israel s-au abătut de la Dumnezeu, iar fiii lui Țadok au rămas credincioși; contrastul stă la baza privilegiului lor.",
+       "greek": "πλανάω (planao)",
+       "greek_def_ro": "πλανάω (planao) — a rătăci"
+      },
+      {
+       "t": " de la Mine – "
+      },
+      {
+       "t": "ei",
+       "w": "ei",
+       "heb": "הֵמָּה",
+       "translit": "hēma",
+       "strong": "H1992",
+       "pos": "pronume personal",
+       "def_ro": "ei",
+       "dict_ro": "Hem înseamnă „ei”. Pronumele cu accent arată că privilegiul slujirii este rezervat „lor” și nu altora; apare des în capitol în fața verbelor slujirii.",
+       "greek": "οὗτος (houtos)",
+       "greek_def_ro": "οὗτος (houtos) — aceștia"
+      },
+      {
+       "t": " să se "
+      },
+      {
+       "t": "apropie",
+       "w": "apropie",
+       "heb": "יִקְרְבוּ",
+       "translit": "ikrevu",
+       "strong": "H7126",
+       "pos": "verb, qal imperfect",
+       "def_ro": "să se apropie",
+       "dict_ro": "Qarav înseamnă „a se apropia”, în Hifil „a aduce”. Preoții se apropie de Dumnezeu și aduc jertfele; cuvântul este centrul vocabularului jertfelor (Leviticul 1:2).",
+       "greek": "προσάγω (prosago)",
+       "greek_def_ro": "προσάγω (prosago) — a apropia"
+      },
+      {
+       "t": " de Mine ca să-Mi "
+      },
+      {
+       "t": "slujească",
+       "w": "slujească",
+       "heb": "לְשָׁרְתֵנִי",
+       "translit": "leșartēni",
+       "strong": "H8334",
+       "pos": "verb, piel infinitiv + sufix",
+       "def_ro": "ca să-Mi slujească",
+       "dict_ro": "Șaret în Piel înseamnă „a sluji”, mai ales în Locaș. Preoții „slujesc” în fața lui Dumnezeu; serviciul lor nu este o funcție publică, ci o slujire față de Domnul.",
+       "greek": "λειτουργέω (leitourgeo)",
+       "greek_def_ro": "λειτουργέω (leitourgeo) — a sluji"
+      },
+      {
+       "t": " și să "
+      },
+      {
+       "t": "stea",
+       "w": "stea",
+       "heb": "וְעָמְדוּ",
+       "translit": "veamdu",
+       "strong": "H5975",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și vor sta",
+       "dict_ro": "Amad înseamnă „a sta în picioare”. A sta „înaintea Mea” este poziția slujitorului în fața Stăpânului (Deuteronomul 10:8: leviții stau înaintea DOMNULUI ca să-I slujească).",
+       "greek": "ἵστημι (histemi)",
+       "greek_def_ro": "ἵστημι (histemi) — a sta"
+      },
+      {
+       "t": " în picioare în "
+      },
+      {
+       "t": "fața",
+       "w": "fața",
+       "heb": "לְפָנַי",
+       "translit": "lefanai",
+       "strong": "H6440",
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "înaintea",
+       "dict_ro": "Panim, „fața”, are formă de plural; cu prepoziția le formează lifnei, „înaintea”, literal „la fața”. În Isaia 43:10, lefanai, „înaintea Mea”, are sens de timp: înainte de Dumnezeu nu a fost plăsmuit niciun alt dumnezeu.",
+       "greek": "πρόσωπον (prosopon)",
+       "greek_def_ro": "πρόσωπον (prosopon) — față"
+      },
+      {
+       "t": " Mea ca să-Mi "
+      },
+      {
+       "t": "aducă",
+       "w": "aducă",
+       "heb": "לְהַקְרִיב",
+       "translit": "lehakriv",
+       "strong": "H7126",
+       "pos": "verb, hifil infinitiv",
+       "def_ro": "ca să-Mi aducă",
+       "dict_ro": "Qarav înseamnă „a se apropia”, în Hifil „a aduce”. Preoții se apropie de Dumnezeu și aduc jertfele; cuvântul este centrul vocabularului jertfelor (Leviticul 1:2).",
+       "greek": "προσφέρω (prosphero)",
+       "greek_def_ro": "προσφέρω (prosphero) — a aduce"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "grăsime",
+       "w": "grăsime",
+       "heb": "חֵלֶב",
+       "translit": "hēlev",
+       "strong": "H2459",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "grăsime",
+       "dict_ro": "Hélev înseamnă „grăsime”, partea cea mai bună din animalul jertfit, care se arde pe altar (Leviticul 3:16: «toată grăsimea este a DOMNULUI»).",
+       "greek": "στέαρ (stear)",
+       "greek_def_ro": "στέαρ (stear) — grăsime",
+       "diff_ro": "Septuaginta adaugă „jertfă” (θυσίαν) înaintea cuvântului „grăsime”, absent din ebraică."
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "sânge",
+       "w": "sânge",
+       "heb": "וָדָם",
+       "translit": "vadam",
+       "strong": "H1818",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și sânge",
+       "dict_ro": "Dam înseamnă „sânge”. Sângele jertfei este purtătorul ispășirii (Leviticul 17:11) și se varsă la altar; împreună cu grăsimea, el rezumă cele mai sfinte părți ale jertfei.",
+       "greek": "αἷμα (haima)",
+       "greek_def_ro": "αἷμα (haima) — sânge"
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "rostirea",
+       "w": "rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
+       "strong": "H5002",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "spusa",
+       "dict_ro": "Neum, „rostirea”, apare aproape numai în formula neum Adonai, „rostirea DOMNULUI”, cu care profetul își pecetluiește vestea. Formula e foarte frecventă la Ieremia și Ezechiel.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune",
+       "diff_ro": "Ebraica: substantivul „rostirea” (neum); Septuaginta: verbul „zice” (λέγει)."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Stăpânului",
+       "w": "Stăpânului",
+       "heb": "אֲדֹנָי",
+       "translit": "adonai",
+       "strong": "H136",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "Stăpânului meu",
+       "dict_ro": "Adonai, „Stăpânul meu”, este titlul de stăpân al lui Dumnezeu. Ezechiel îl folosește mereu înaintea numelui divin, ca pe o formulă solemnă: Cel care vorbește este Stăpânul întregii istorii.",
+       "diff_ro": "Septuaginta nu are „Stăpânului meu” (adonai)."
+      },
+      {
+       "t": " meu, "
+      },
+      {
+       "t": "Domnul DUMNEZEU",
+       "w": "Domnul DUMNEZEU",
+       "heb": "יְהוִה",
+       "translit": "Adonai",
+       "strong": "H3069",
+       "pos": "nume propriu",
+       "def_ro": "Domnul DUMNEZEU",
+       "dict_ro": "Adonai Elohim, „Domnul DUMNEZEU”, este forma în care numele divin de patru litere stă după „Adonai”. Cartea lui Ezechiel o repetă de peste două sute de ori, ca să sublinieze autoritatea cuvântului profetic.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domnul Dumnezeu"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -167536,14 +167823,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְהַכֹּהֲנִים הַלְוִיִּם בְּנֵי צָדוֹק...",
        "translation": "„Iar preoții leviți – fiii lui...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "οἱ ἱερεῖς οἱ Λευῖται, οἱ υἱοὶ τοῦ Σαδδούκ, οἵτινες ἐφυλάξαντο τὰς φυλακὰς τῶν ἁγίων μου ἐν τῷ πλανᾶσθαι οἶκον ᾿Ισραὴλ ἀπ’ ἐμοῦ, οὗτοι προσάξουσι πρός με τοῦ λειτουργεῖν μοι καὶ στήσονται πρὸ προσώπου μου τοῦ προσφέρειν μοι θυσίαν, στέαρ καὶ αἷμα, λέγει Κύριος ὁ Θεός.",
+       "original": "οἱ ἱερεῖς οἱ Λευῖται οἱ υἱοὶ τοῦ Σαδδουκ οἵτινες ἐφυλάξαντο τὰς φυλακὰς τῶν ἁγίων μου ἐν τῷ πλανᾶσθαι οἶκον Ισραηλ ἀπ᾿ ἐμοῦ οὗτοι προσάξουσιν πρός με τοῦ λειτουργεῖν μοι καὶ στήσονται πρὸ προσώπου μου τοῦ προσφέρειν μοι θυσίαν στέαρ καὶ αἷμα λέγει κύριος ὁ θεός",
        "greek": true,
-       "translation": "„preoții leviți, fiii lui Sadduc, care au păzit rânduielile celor sfinte ale Mele când s-a rătăcit casa lui Israel de la Mine, aceștia se vor apropia de Mine ca să-Mi slujească și vor sta înaintea feței Mele ca să-Mi aducă jertfă, grăsime și sânge, zice Domnul Dumnezeu.”",
-       "note": "Corespondență strânsă; Septuaginta adaugă „jertfă” (θυσίαν) înainte de „grăsime și sânge”."
+       "translation": "„Preoții leviți, fiii lui Sadoc, care au păzit rânduielile celor sfinte ale Mele când casa lui Israel rătăcea de la Mine, aceștia se vor apropia de Mine ca să-Mi slujească și vor sta înaintea feței Mele ca să-Mi aducă jertfă, grăsime și sânge, zice Domnul Dumnezeu.”",
+       "note": "Septuaginta redă „Țadok” prin „Sadoc” (Σαδδουκ), „sarcina Sanctuarului Meu” prin „rânduielile celor sfinte ale Mele” (τὰς φυλακὰς τῶν ἁγίων μου), adaugă „jertfă” (θυσίαν) înainte de „grăsime și sânge” și încheie cu „zice Domnul Dumnezeu”, fără „Stăpânul meu”."
       }
      ],
      "refs": [
@@ -167576,39 +167863,125 @@
      "translit": "Hema yavou el-mikdași vehema yikrevu el-șulhani leșarteni veșamru et-mișmarti.",
      "tokens": [
       {
-       "t": "Ei să vină la Sanctuarul Meu și să se apropie de",
-       "w": "Ei să vină la Sanctuarul Meu și să se apropie de",
-       "heb": "הֵמָּה יָבֹאוּ אֶל מִקְדָּשִׁי וְהֵמָּה יִקְרְבוּ אֶל",
-       "translit": "hēma iavou el mikdași vehēma ikrevu el",
+       "t": "Ei",
+       "w": "Ei",
+       "heb": "הֵמָּה",
+       "translit": "hēma",
        "strong": "H1992",
-       "pos": "pronume personal + verb, qal imperfect + prepoziție + substantiv construct + sufix + pronume personal + verb, qal imperfect + prepoziție",
-       "def_ro": "ei vor veni la Sanctuarul Meu, și ei se vor apropia de.",
-       "dict_ro": "Metzudat David explică faptul că apropierea de masă se referă la rânduiala pâinilor punerii înainte, slujire care avea loc chiar lângă masa aceasta sfântă din Sanctuar."
+       "pos": "pronume personal",
+       "def_ro": "ei",
+       "dict_ro": "Hem înseamnă „ei”. Pronumele cu accent arată că privilegiul slujirii este rezervat „lor” și nu altora; apare des în capitol în fața verbelor slujirii.",
+       "greek": "οὗτος (houtos)",
+       "greek_def_ro": "οὗτος (houtos) — aceștia"
+      },
+      {
+       "t": " să "
+      },
+      {
+       "t": "vină",
+       "w": "vină",
+       "heb": "יָבֹאוּ",
+       "translit": "iavou",
+       "strong": "H935",
+       "pos": "verb, qal imperfect",
+       "def_ro": "vor intra",
+       "dict_ro": "Bo e verbul venirii și al intrării; în profeți descrie adesea împlinirea: ceea ce a fost vestit „vine”, adică se întâmplă (Isaia 42:9). La forma cauzativă, hevi, înseamnă „a aduce” — cu un sens aparte în făgăduința strângerii exilaților (Isaia 43:5).",
+       "greek": "εἰσέρχομαι (eiserchomai)",
+       "greek_def_ro": "εἰσέρχομαι (eiserchomai) — a intra"
+      },
+      {
+       "t": " la "
+      },
+      {
+       "t": "Sanctuarul",
+       "w": "Sanctuarul",
+       "heb": "מִקְדָּשִׁי",
+       "translit": "mikdași",
+       "strong": "H4720",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "Locașul Meu sfânt",
+       "dict_ro": "Miqdaș înseamnă „loc sfânt”, „sanctuar”, de la rădăcina „a fi sfânt”. Este Templul din vedenia lui Ezechiel, la care preoții se apropie numai după rânduieli de curățenie și îmbrăcăminte.",
+       "greek": "ἅγιος (hagios)",
+       "greek_def_ro": "ἅγιος (hagios) — cele sfinte",
+       "diff_ro": "Ebraica: „Sanctuarul Meu” (mikdași); Septuaginta: „cele sfinte ale Mele” (τὰ ἅγιά μου)."
+      },
+      {
+       "t": " Meu și să se "
+      },
+      {
+       "t": "apropie",
+       "w": "apropie",
+       "heb": "יִקְרְבוּ",
+       "translit": "ikrevu",
+       "strong": "H7126",
+       "pos": "verb, qal imperfect",
+       "def_ro": "se vor apropia",
+       "dict_ro": "Qarav înseamnă „a se apropia”, în Hifil „a aduce”. Preoții se apropie de Dumnezeu și aduc jertfele; cuvântul este centrul vocabularului jertfelor (Leviticul 1:2).",
+       "greek": "προσέρχομαι (proserchomai)",
+       "greek_def_ro": "προσέρχομαι (proserchomai) — a se apropia"
+      },
+      {
+       "t": " de "
+      },
+      {
+       "t": "masa",
+       "w": "masa",
+       "heb": "שֻׁלְחָנִי",
+       "translit": "șulhani",
+       "strong": "H7979",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "masa Mea",
+       "dict_ro": "Șulhan înseamnă „masă”. „Masa lui Dumnezeu” este altarul (Ezechiel 41:22; Maleahi 1:7), la care se apropie preoții; la fel, masa pâinilor punerii-înainte din Locaș.",
+       "greek": "τράπεζα (trapeza)",
+       "greek_def_ro": "τράπεζα (trapeza) — masă"
+      },
+      {
+       "t": " Mea, să-Mi "
+      },
+      {
+       "t": "slujească",
+       "w": "slujească",
+       "heb": "לְשָׁרְתֵנִי",
+       "translit": "leșartēni",
+       "strong": "H8334",
+       "pos": "verb, piel infinitiv + sufix",
+       "def_ro": "ca să-Mi slujească",
+       "dict_ro": "Șaret în Piel înseamnă „a sluji”, mai ales în Locaș. Preoții „slujesc” în fața lui Dumnezeu; serviciul lor nu este o funcție publică, ci o slujire față de Domnul.",
+       "greek": "λειτουργέω (leitourgeo)",
+       "greek_def_ro": "λειτουργέω (leitourgeo) — a sluji"
+      },
+      {
+       "t": " și să "
+      },
+      {
+       "t": "păzească",
+       "w": "păzească",
+       "heb": "וְשָׁמְרוּ",
+       "translit": "veșamru",
+       "strong": "H8104",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și vor păzi",
+       "dict_ro": "Șamar înseamnă a păzi, a veghea asupra unui lucru; „a păzi poruncile” înseamnă a le împlini cu grijă. Omul a fost pus în grădina Edenului „ca s-o lucreze și s-o păzească” (Geneza 2:15).",
+       "greek": "φυλάσσω (phylasso)",
+       "greek_def_ro": "φυλάσσω (phylasso) — a păzi"
       },
       {
        "t": " "
       },
       {
-       "t": "masa Mea",
-       "w": "masa Mea",
-       "heb": "שֻׁלְחָנִי",
-       "translit": "șulhani",
-       "strong": "H7979",
-       "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "masa Mea.",
-       "greek": "τράπεζά μου (trapeza mou)",
-       "greek_def_ro": "τράπεζά μου (trapeza mou) — masa mea.",
-       "dict_ro": "Șulhan — masa; „masa Mea” e aici altarul sau masa pâinilor punerii înainte. Metzudat David și Radak (după Targum Ionatan, „la masa pâinilor feței”) o identifică cu rânduirea pâinilor punerii înainte pe masa din Sanctuar. Maleahi folosește aceeași expresie, „masa DOMNULUI”, pentru altar (Maleahi 1:7), iar ideea unei „mese” a lui Dumnezeu la care slujesc preoții a trecut și în limbajul creștin despre altar."
+       "t": "sarcina",
+       "w": "sarcina",
+       "heb": "מִשְׁמַרְתִּי",
+       "translit": "mișmarti",
+       "strong": "H4931",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "paza Mea",
+       "dict_ro": "Mișmeret înseamnă „strajă”, „sarcină încredințată”, ceea ce trebuie păzit. Preoții păzesc „sarcina Locașului” (Numeri 18:5), adică ordinea și sfințenia lui.",
+       "greek": "φυλακή (phylake)",
+       "greek_def_ro": "φυλακή (phylake) — strajă, rânduială"
       },
       {
-       "t": ", să-Mi slujească și să păzească sarcina Mea.",
-       "w": ", să-Mi slujească și să păzească sarcina Mea.",
-       "heb": "לְשָׁרְתֵנִי וְשָׁמְרוּ אֶת מִשְׁמַרְתִּי",
-       "translit": "leșartēni veșamru et mișmarti",
-       "strong": "H8334",
-       "pos": "verb, piel infinitiv + sufix + verb, qal perfect consecutiv + marcă a complementului direct + substantiv construct + sufix",
-       "def_ro": "ca să-Mi slujească, și vor păzi sarcina Mea.",
-       "dict_ro": "Radak explică faptul că expresia «masa Mea» e tradusă de Targum Ionatan ca «masa pâinilor feței» — aceeași masă pe care se puneau cele douăsprezece pâini ale punerii înainte, reînnoite săptămânal."
+       "t": " Mea."
       }
      ],
      "textCompare": [
@@ -167616,14 +167989,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "הֵמָּה יָבֹאוּ אֶל־מִקְדָּשִׁי וְהֵמָּה...",
        "translation": "„Ei să vină la Sanctuarul Meu...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "οὗτοι εἰσελεύσονται εἰς τὰ ἅγιά μου, καὶ οὗτοι προσελεύσονται πρὸς τὴν τράπεζάν μου τοῦ λειτουργεῖν μοι καὶ φυλάξουσι τὰς φυλακάς μου.",
+       "original": "οὗτοι εἰσελεύσονται εἰς τὰ ἅγιά μου καὶ οὗτοι προσελεύσονται πρὸς τὴν τράπεζάν μου τοῦ λειτουργεῖν μοι καὶ φυλάξουσιν τὰς φυλακάς μου",
        "greek": true,
        "translation": "„Aceștia vor intra în cele sfinte ale Mele și aceștia se vor apropia de masa Mea ca să-Mi slujească și vor păzi rânduielile Mele.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Redare apropiată de ebraică; „Sanctuarul Meu” este „cele sfinte ale Mele” (τὰ ἅγιά μου), iar „sarcina” (mișmeret) este „rânduielile” (φυλακάς)."
       }
      ],
      "refs": [
@@ -167650,39 +168023,232 @@
      "translit": "Vehaya bevoam el-șaarei hehatzer hapenimit bigdei fiștim yilbașu velo-yaale aleihem tzemer beșartam beșaarei hehatzer hapenimit vavaita.",
      "tokens": [
       {
-       "t": "Și va fi, când intră pe porțile curții interioare, să poarte",
-       "w": "Și va fi, când intră pe porțile curții interioare, să poarte",
-       "heb": "וְהָיָה בְּבוֹאָם אֶל שַׁעֲרֵי הֶחָצֵר הַפְּנִימִית",
-       "translit": "vehaia bevoam el șaarē hehațēr hapnimit",
+       "t": "Și "
+      },
+      {
+       "t": "va fi",
+       "w": "va fi",
+       "heb": "וְהָיָה",
+       "translit": "vehaia",
        "strong": "H1961",
-       "pos": "verb, qal perfect consecutiv + verb, qal infinitiv + sufix + prepoziție + substantiv plural construct + substantiv + adjectiv",
-       "def_ro": "și va fi, când vor veni la porțile curții interioare.",
-       "dict_ro": "Rashi explică faptul că intrarea pe porțile curții interioare se referă la intrarea în Sfânta Sfintelor, în Ziua Ispășirii — moment în care marele preot purta exclusiv veșmintele albe de in, fără lână."
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și va fi",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "εἰμί (eimi)",
+       "greek_def_ro": "εἰμί (eimi) — a fi"
+      },
+      {
+       "t": ", când "
+      },
+      {
+       "t": "intră",
+       "w": "intră",
+       "heb": "בְּבוֹאָם",
+       "translit": "bevoam",
+       "strong": "H935",
+       "pos": "verb, qal infinitiv + sufix",
+       "def_ro": "la intrarea lor",
+       "dict_ro": "Bo e verbul venirii și al intrării; în profeți descrie adesea împlinirea: ceea ce a fost vestit „vine”, adică se întâmplă (Isaia 42:9). La forma cauzativă, hevi, înseamnă „a aduce” — cu un sens aparte în făgăduința strângerii exilaților (Isaia 43:5).",
+       "greek": "εἰσπορεύομαι (eisporeuomai)",
+       "greek_def_ro": "εἰσπορεύομαι (eisporeuomai) — a intra"
+      },
+      {
+       "t": " pe "
+      },
+      {
+       "t": "porțile",
+       "w": "porțile",
+       "heb": "שַׁעֲרֵי",
+       "translit": "șaarē",
+       "strong": "H8179",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "porțile",
+       "dict_ro": "Șaar înseamnă „poartă”. Porțile curții dinăuntru sunt hotarul dintre locul de slujire al preoților și curtea poporului; la ele se schimbă veșmintele.",
+       "greek": "πύλη (pyle)",
+       "greek_def_ro": "πύλη (pyle) — poartă"
       },
       {
        "t": " "
       },
       {
-       "t": "veșminte de in",
-       "w": "veșminte de in",
-       "heb": "בִּגְדֵי פִשְׁתִּים",
-       "translit": "bigdē fiștim",
-       "strong": "H6593",
-       "pos": "substantiv, masculin plural construct + substantiv, masculin plural",
-       "def_ro": "haine de in.",
-       "greek": "στολαὶ λιναῖ (stolai linai)",
-       "greek_def_ro": "στολαὶ λιναῖ (stolai linai) — veșminte de in.",
-       "dict_ro": "Pișteh — inul, fibra vegetală din care erau făcute veșmintele preoțești, în contrast cu lâna (țemer). Rashi și Metzudat David leagă versetul de slujirea marelui preot în Sfânta Sfintelor, în ziua de Iom Kipur, când purta doar „veșmintele albe” de in (Leviticul 16:4), fără albastrul de lână din mantie și brâu. Radak observă însă că formularea la plural nu se potrivește cu slujba unică a marelui preot și propune că e o rânduială nouă pentru Templul viitor."
+       "t": "curții",
+       "w": "curții",
+       "heb": "הֶחָצֵר",
+       "translit": "hehațēr",
+       "strong": "H2691",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "curții",
+       "dict_ro": "Hațer înseamnă o curte îngrădită și, prin extensie, un sat fără ziduri, o tabără de corturi — potrivit pentru nomazii din Kedar. Același cuvânt desemnează curțile Templului.",
+       "greek": "αὐλή (aule)",
+       "greek_def_ro": "αὐλή (aule) — curte"
       },
       {
-       "t": "; niciun veșmânt de lână să nu se afle asupra lor când slujesc [dincolo de] porțile curții interioare sau înăuntrul ei.",
-       "w": "; niciun veșmânt de lână să nu se afle asupra lor când slujesc [dincolo de] porțile curții interioare sau înăuntrul ei.",
-       "heb": "יִלְבָּשׁוּ וְלֹא יַעֲלֶה עֲלֵיהֶם צֶמֶר בְּשָׁרְתָם בְּשַׁעֲרֵי הֶחָצֵר הַפְּנִימִית וָבָיְתָה",
-       "translit": "ilbașu velo iaale alēhem țemer beșartam beșaarē hehațēr hapnimit vavaita",
+       "t": " "
+      },
+      {
+       "t": "interioare",
+       "w": "interioare",
+       "heb": "הַפְּנִימִית",
+       "translit": "hapnimit",
+       "strong": "H6442",
+       "pos": "adjectiv, feminin singular",
+       "def_ro": "dinăuntru",
+       "dict_ro": "Penimi înseamnă „dinăuntru”, „interior”. Curtea interioară este locul unde preoții slujesc, deosebită de cea din afară, în care intră poporul (Ezechiel 40:28).",
+       "greek": "ἐσώτερος (esoteros)",
+       "greek_def_ro": "ἐσώτερος (esoteros) — dinăuntru"
+      },
+      {
+       "t": ", să "
+      },
+      {
+       "t": "poarte",
+       "w": "poarte",
+       "heb": "יִלְבָּשׁוּ",
+       "translit": "ilbașu",
        "strong": "H3847",
-       "pos": "verb, qal imperfect + particulă negativă + verb, qal imperfect + prepoziție + sufix + substantiv + verb, piel infinitiv + sufix + substantiv plural construct + substantiv + adjectiv + substantiv",
-       "def_ro": "să le poarte, și nu se va pune pe ei lână, când slujesc la porțile curții interioare, și înăuntru.",
-       "dict_ro": "Radak ridică o întrebare asupra interpretării literale: dacă veșmintele preoțești obișnuite includeau lână, cum scrie în Tora lui Moise, atunci aceasta ar fi o rânduială nouă pentru viitor — sau textul se referă specific la slujirea solitară a marelui preot în Ziua Ispășirii."
+       "pos": "verb, qal imperfect",
+       "def_ro": "vor purta",
+       "dict_ro": "Lavaš înseamnă „a se îmbrăca”. Preoții se îmbracă în veșmintele rânduite și le schimbă la ieșire; actul îmbrăcării este parte din ritualul slujirii.",
+       "greek": "ἐνδύω (endyo)",
+       "greek_def_ro": "ἐνδύω (endyo) — a îmbrăca"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "veșminte",
+       "w": "veșminte",
+       "heb": "בִּגְדֵי",
+       "translit": "bigdē",
+       "strong": "H899",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "haine",
+       "dict_ro": "Beged înseamnă „haină”, „veșmânt”. Hainele preoților au un loc distinct în slujbă: se poartă în Locaș și se lasă în odăile sfinte, ca să nu sfințească poporul.",
+       "greek": "στολή (stole)",
+       "greek_def_ro": "στολή (stole) — veșmânt"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de in",
+       "w": "de in",
+       "heb": "פִשְׁתִּים",
+       "translit": "fiștim",
+       "strong": "H6593",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "de in",
+       "dict_ro": "Pištim înseamnă „in”. Preoții poartă veșminte de in (Exodul 28:39-42), ceea ce ține de curăție și de absența sudorii, ca să nu se amestece în slujire nimic din osteneala trupească.",
+       "greek": "λινοῦς (linous)",
+       "greek_def_ro": "λινοῦς (linous) — de in"
+      },
+      {
+       "t": "; niciun veșmânt de "
+      },
+      {
+       "t": "lână",
+       "w": "lână",
+       "heb": "צֶמֶר",
+       "translit": "țemer",
+       "strong": "H6785",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "lână",
+       "dict_ro": "Țemer înseamnă „lână”. Lâna nu este permisă preoților în curtea dinăuntru; Leviticul 19:19 și Deuteronomul 22:11 interzic amestecul de lână și in, iar aici se păstrează numai inul.",
+       "greek": "ἐρεοῦς (ereous)",
+       "greek_def_ro": "ἐρεοῦς (ereous) — de lână"
+      },
+      {
+       "t": " să nu "
+      },
+      {
+       "t": "se afle",
+       "w": "se afle",
+       "heb": "יַעֲלֶה",
+       "translit": "iaale",
+       "strong": "H5927",
+       "pos": "verb, qal imperfect",
+       "def_ro": "nu se va sui",
+       "dict_ro": "Ala înseamnă „a se sui”. „Lâna să nu se suie asupra lor” este interdicția ca vreun veșmânt de lână să ajungă pe trupul preotului în timpul slujirii în curtea dinăuntru.",
+       "greek": "ἐνδύω (endyo)",
+       "greek_def_ro": "ἐνδύω (endyo) — a îmbrăca",
+       "diff_ro": "Ebraica: „nu se va sui asupra lor” (lo iaale alēhem); Septuaginta: „nu vor îmbrăca” (οὐκ ἐνδύσονται)."
+      },
+      {
+       "t": " asupra lor când "
+      },
+      {
+       "t": "slujesc",
+       "w": "slujesc",
+       "heb": "בְּשָׁרְתָם",
+       "translit": "beșartam",
+       "strong": "H8334",
+       "pos": "verb, piel infinitiv + sufix",
+       "def_ro": "la slujirea lor",
+       "dict_ro": "Șaret în Piel înseamnă „a sluji”, mai ales în Locaș. Preoții „slujesc” în fața lui Dumnezeu; serviciul lor nu este o funcție publică, ci o slujire față de Domnul.",
+       "greek": "λειτουργέω (leitourgeo)",
+       "greek_def_ro": "λειτουργέω (leitourgeo) — a sluji"
+      },
+      {
+       "t": " [dincolo de] "
+      },
+      {
+       "t": "porțile",
+       "w": "porțile",
+       "heb": "בְּשַׁעֲרֵי",
+       "translit": "beșaarē",
+       "strong": "H8179",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "la porțile",
+       "dict_ro": "Șaar înseamnă „poartă”. Porțile curții dinăuntru sunt hotarul dintre locul de slujire al preoților și curtea poporului; la ele se schimbă veșmintele.",
+       "greek": "πύλη (pyle)",
+       "greek_def_ro": "πύλη (pyle) — poartă"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "curții",
+       "w": "curții",
+       "heb": "הֶחָצֵר",
+       "translit": "hehațēr",
+       "strong": "H2691",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "curții",
+       "dict_ro": "Hațer înseamnă o curte îngrădită și, prin extensie, un sat fără ziduri, o tabără de corturi — potrivit pentru nomazii din Kedar. Același cuvânt desemnează curțile Templului.",
+       "greek": "αὐλή (aule)",
+       "greek_def_ro": "αὐλή (aule) — curte"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "interioare",
+       "w": "interioare",
+       "heb": "הַפְּנִימִית",
+       "translit": "hapnimit",
+       "strong": "H6442",
+       "pos": "adjectiv, feminin singular",
+       "def_ro": "dinăuntru",
+       "dict_ro": "Penimi înseamnă „dinăuntru”, „interior”. Curtea interioară este locul unde preoții slujesc, deosebită de cea din afară, în care intră poporul (Ezechiel 40:28).",
+       "greek": "ἐσώτερος (esoteros)",
+       "greek_def_ro": "ἐσώτερος (esoteros) — dinăuntru"
+      },
+      {
+       "t": " sau "
+      },
+      {
+       "t": "înăuntrul",
+       "w": "înăuntrul",
+       "heb": "וָבָיְתָה",
+       "translit": "vavaita",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și în casă",
+       "dict_ro": "Bait înseamnă „casă”, „înăuntru”. Aici arată interiorul clădirii Templului, unde slujesc preoții; „casa” este locașul prezenței lui Dumnezeu.",
+       "diff_ro": "Septuaginta nu are „și înăuntru” (uvaita)."
+      },
+      {
+       "t": " ei."
       }
      ],
      "textCompare": [
@@ -167690,14 +168256,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְהָיָה בְּבוֹאָם אֶל־שַׁעֲרֵי הֶחָצֵר...",
        "translation": "„Și va fi, când intră pe...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἔσται ἐν τῷ εἰσπορεύεσθαι αὐτοὺς τὰς πύλας τῆς αὐλῆς τῆς ἐσωτέρας στολὰς λινᾶς ἐνδύσονται καὶ οὐκ ἐνδύσονται ἔρια ἐν τῷ λειτουργεῖν αὐτοὺς ἀπὸ τῆς πύλης τῆς ἐσωτέρας αὐλῆς·",
+       "original": "καὶ ἔσται ἐν τῷ εἰσπορεύεσθαι αὐτοὺς τὰς πύλας τῆς αὐλῆς τῆς ἐσωτέρας στολὰς λινᾶς ἐνδύσονται καὶ οὐκ ἐνδύσονται ἐρεᾶ ἐν τῷ λειτουργεῖν αὐτοὺς ἀπὸ τῆς πύλης τῆς ἐσωτέρας αὐλῆς",
        "greek": true,
-       "translation": "„Și va fi, când vor intra pe porțile curții dinăuntru, vor îmbrăca veșminte de in și nu vor îmbrăca lână când slujesc de la poarta curții dinăuntru;”",
-       "note": "Septuaginta omite ultima precizare din Textul Masoretic, „sau înăuntrul ei” (uvaita)."
+       "translation": "„Și va fi, când intră pe porțile curții dinăuntru, vor îmbrăca veșminte de in și nu vor îmbrăca lână când slujesc, de la poarta curții dinăuntru.”",
+       "note": "Septuaginta redă „lână” (țemer) prin ἐρεᾶ și nu are ultimul membru al versetului, „și înăuntru” (uvaita)."
       }
      ],
      "refs": [
@@ -167728,28 +168294,155 @@
      "translit": "Paarei fiștim yihyu al-roșam umichnesei fiștim yihyu al-motneihem lo yahgeru bayaza.",
      "tokens": [
       {
-       "t": "Turbane de in să fie pe capul lor și izmene de in să fie pe coapsele lor. Și să nu se încingă",
-       "w": "Turbane de in să fie pe capul lor și izmene de in să fie pe coapsele lor. Și să nu se încingă",
-       "heb": "פַּאֲרֵי פִשְׁתִּים יִהְיוּ עַל רֹאשָׁם וּמִכְנְסֵי פִשְׁתִּים יִהְיוּ עַל מָתְנֵיהֶם לֹא יַחְגְּרוּ",
-       "translit": "paarē fiștim ihiu al roșam umihnesē fiștim ihiu al matnēhem lo iahgeru",
+       "t": "Turbane",
+       "w": "Turbane",
+       "heb": "פַּאֲרֵי",
+       "translit": "paarē",
        "strong": "H6287",
-       "pos": "substantiv plural construct + substantiv plural + verb, qal imperfect + prepoziție + substantiv construct + sufix + substantiv plural construct + substantiv plural + verb, qal imperfect + prepoziție + substantiv dual construct + sufix + particulă negativă + verb, qal imperfect",
-       "def_ro": "turbane de in vor fi pe capul lor și izmene de in vor fi pe coapsele lor, nu se vor încinge.",
-       "dict_ro": "Talmudul Bavli (Zevahim 18b) explică, prin cuvintele lui Abaye, că brâul nu se încinge nici sub șolduri, nici deasupra coatelor, ci exact în dreptul coatelor — Ezechiel a dat sprijin textual unei tradiții primite deja înainte de el, conform acelui tratat."
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "mitre",
+       "dict_ro": "Pe'er înseamnă „turban”, „podoabă de cap” (Exodul 39:28). Turbanele de in sunt parte din îmbrăcămintea preoților, semn de rânduială și de cinste.",
+       "greek": "κίδαρις (kidaris)",
+       "greek_def_ro": "κίδαρις (kidaris) — tiară",
+       "diff_ro": "Ebraica: „turbane” (paarē); Septuaginta: „tiare” (κιδάρεις)."
       },
       {
        "t": " "
       },
       {
-       "t": "în locul unde transpiră",
-       "w": "în locul unde transpiră",
+       "t": "de in",
+       "w": "de in",
+       "heb": "פִשְׁתִּים",
+       "translit": "fiștim",
+       "strong": "H6593",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "de in",
+       "dict_ro": "Pištim înseamnă „in”. Preoții poartă veșminte de in (Exodul 28:39-42), ceea ce ține de curăție și de absența sudorii, ca să nu se amestece în slujire nimic din osteneala trupească.",
+       "greek": "λινοῦς (linous)",
+       "greek_def_ro": "λινοῦς (linous) — de in"
+      },
+      {
+       "t": " să "
+      },
+      {
+       "t": "fie",
+       "w": "fie",
+       "heb": "יִהְיוּ",
+       "translit": "ihiu",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect",
+       "def_ro": "vor fi",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "ἔχω (echo)",
+       "greek_def_ro": "ἔχω (echo) — a avea"
+      },
+      {
+       "t": " pe "
+      },
+      {
+       "t": "capul",
+       "w": "capul",
+       "heb": "רֹאשָׁם",
+       "translit": "roșam",
+       "strong": "H7218",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "capul lor",
+       "dict_ro": "Roș, „cap”, înseamnă și vârful unui munte, căpetenia unui grup și începutul unui lucru — de aici Roș Hașana, „capul anului”.",
+       "greek": "κεφαλή (kephale)",
+       "greek_def_ro": "κεφαλή (kephale) — cap"
+      },
+      {
+       "t": " lor și "
+      },
+      {
+       "t": "izmene",
+       "w": "izmene",
+       "heb": "וּמִכְנְסֵי",
+       "translit": "umihnesē",
+       "strong": "H4370",
+       "pos": "substantiv, masculin plural construct",
+       "def_ro": "izmene",
+       "dict_ro": "Mihnasaim sunt „izmenele” de in, care acopereau trupul de la brâu la coapse (Exodul 28:42). Rosen le traduce „izmene”; ele păzeau decența preoților în slujbă.",
+       "greek": "περισκελής (periskeles)",
+       "greek_def_ro": "περισκελής (periskeles) — pantalon",
+       "diff_ro": "Ebraica: „izmene” (mihnesē); Septuaginta: „pantaloni” (περισκελῆ)."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "de in",
+       "w": "de in",
+       "heb": "פִשְׁתִּים",
+       "translit": "fiștim",
+       "strong": "H6593",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "de in",
+       "dict_ro": "Pištim înseamnă „in”. Preoții poartă veșminte de in (Exodul 28:39-42), ceea ce ține de curăție și de absența sudorii, ca să nu se amestece în slujire nimic din osteneala trupească.",
+       "greek": "λινοῦς (linous)",
+       "greek_def_ro": "λινοῦς (linous) — de in"
+      },
+      {
+       "t": " să "
+      },
+      {
+       "t": "fie",
+       "w": "fie",
+       "heb": "יִהְיוּ",
+       "translit": "ihiu",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect",
+       "def_ro": "vor fi",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "ἔχω (echo)",
+       "greek_def_ro": "ἔχω (echo) — a avea"
+      },
+      {
+       "t": " pe "
+      },
+      {
+       "t": "coapsele",
+       "w": "coapsele",
+       "heb": "מָתְנֵיהֶם",
+       "translit": "matnēhem",
+       "strong": "H4975",
+       "pos": "substantiv, masculin dual construct + sufix",
+       "def_ro": "coapsele lor",
+       "dict_ro": "Motnaim înseamnă „coapse”, „mijloc”. Izmenele sunt purtate pe coapse, iar încingerea să nu fie într-un loc care provoacă sudoare.",
+       "greek": "ὀσφύς (osphys)",
+       "greek_def_ro": "ὀσφύς (osphys) — șale, coapse",
+       "diff_ro": "Ebraica: „coapsele” (matnēhem); Septuaginta: „șalele” (ὀσφύας)."
+      },
+      {
+       "t": " lor. Și să nu se "
+      },
+      {
+       "t": "încingă",
+       "w": "încingă",
+       "heb": "יַחְגְּרוּ",
+       "translit": "iahgeru",
+       "strong": "H2296",
+       "pos": "verb, qal imperfect",
+       "def_ro": "să nu se încingă",
+       "dict_ro": "Hagar înseamnă „a se încinge”. Preoții nu trebuie să se încingă acolo unde se transpiră, ca să nu pună osteneala trupească în slujba sfântă.",
+       "greek": "περιζώννυμι (perizonnymi)",
+       "greek_def_ro": "περιζώννυμι (perizonnymi) — a se încinge"
+      },
+      {
+       "t": " în locul unde "
+      },
+      {
+       "t": "transpiră",
+       "w": "transpiră",
        "heb": "בַּיָּזַע",
        "translit": "baiaza",
        "strong": "H3154",
        "pos": "substantiv, masculin singular",
-       "def_ro": "în [locul de] sudoare.",
-       "diff_ro": "Septuaginta are „βίᾳ\" („cu forță/violent\"), nu „în locul unde transpiră\" (bayaza, un termen rar pentru transpirație) ca în ebraică — o citire diferită a acestui cuvânt ebraic neobișnuit.",
-       "dict_ro": "Yeza — sudoarea, cuvânt care apare doar aici în Biblie. Talmudul (Zevahim 18b) îl explică: „să nu se încingă în locul unde oamenii transpiră” — brâul nu se leagă nici sub șolduri, nici deasupra coatelor, ci la înălțimea coatelor; Abaye adaugă că Ezechiel doar a dat sprijin scris unei tradiții care exista de dinainte. Rashi mai aduce o explicație: Tora a interzis preoților lâna tocmai pentru că încălzește trupul și îl face să transpire."
+       "def_ro": "cu ce provoacă sudoare",
+       "dict_ro": "Iaza este un cuvânt rar, „sudoare”. Preoții nu poartă nimic care ar provoca sudoare; slujirea trebuie făcută fără nicio urmă de efort omenesc.",
+       "greek": "βία (bia)",
+       "greek_def_ro": "βία (bia) — cu forță",
+       "diff_ro": "Ebraica: „în locul unde transpiră” (baiaza); Septuaginta: „cu forță, strâns” (βίᾳ)."
       },
       {
        "t": "."
@@ -167760,14 +168453,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "פַּאֲרֵי פִשְׁתִּים יִהְיוּ עַל־רֹאשָׁם...",
        "translation": "„Turbane de in să fie pe...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
        "original": "καὶ κιδάρεις λινᾶς ἕξουσιν ἐπὶ ταῖς κεφαλαῖς αὐτῶν καὶ περισκελῆ λινᾶ ἕξουσιν ἐπὶ τὰς ὀσφύας αὐτῶν καὶ οὐ περιζώσονται βίᾳ.",
        "greek": true,
        "translation": "„și tiare de in vor avea pe capetele lor și pantaloni de in vor avea pe coapsele lor, și nu se vor încinge strâns.”",
-       "note": "Septuaginta redă „să nu se încingă în locul unde transpiră” prin „să nu se încingă strâns / cu forță” (βίᾳ), pierzând legătura cu sudoarea."
+       "note": "Septuaginta redă „turbane” (paarē) prin „tiare” (κιδάρεις), „izmene” (mihnesē) prin „pantaloni” (περισκελῆ) și „să nu se încingă în locul unde transpiră” (lo iahgeru baiaza) prin „să nu se încingă cu forță” (οὐ περιζώσονται βίᾳ)."
       }
      ],
      "refs": [
@@ -167802,39 +168495,275 @@
      "translit": "Uvetzetam el-hehatzer hahitzona el-haam yifșetu et-bigdeihem așer-hema meșartim bam vehinihu otam belișchot hakodeș velavșu begadim aherim velo-yekadșu et-haam bebigdeihem.",
      "tokens": [
       {
-       "t": "Iar când ies spre curtea exterioară, către curtea exterioară și către popor, să-și scoată hainele în care slujesc și să le lase în",
-       "w": "Iar când ies spre curtea exterioară, către curtea exterioară și către popor, să-și scoată hainele în care slujesc și să le lase în",
-       "heb": "וּבְצֵאתָם אֶל הֶחָצֵר הַחִיצוֹנָה אֶל הֶחָצֵר הַחִיצוֹנָה אֶל הָעָם יִפְשְׁטוּ אֶת בִּגְדֵיהֶם אֲשֶׁר הֵמָּה מְשָׁרְתִם בָּם וְהִנִּיחוּ אוֹתָם",
-       "translit": "uvțētam el hehațēr hahițona el hehațēr hahițona el haam ifșetu et bigdēhem așer hēma meșartim bam vehinihu otam",
+       "t": "Iar când "
+      },
+      {
+       "t": "ies",
+       "w": "ies",
+       "heb": "וּבְצֵאתָם",
+       "translit": "uvțētam",
        "strong": "H3318",
-       "pos": "verb, qal infinitiv + sufix + prepoziție + substantiv + adjectiv + prepoziție + substantiv + adjectiv + prepoziție + substantiv + verb, qal imperfect + marcă a complementului direct + substantiv plural construct + sufix + particulă relativă + pronume personal + verb, piel participiu + prepoziție + sufix + verb, hifil perfect consecutiv + marcă a complementului direct + sufix",
-       "def_ro": "și când vor ieși la curtea exterioară, la curtea exterioară, către popor, își vor lepăda veșmintele în care slujesc și le vor lăsa.",
-       "dict_ro": "Rashi explică dublarea expresiei «curtea exterioară» prin faptul că, numind Sanctuarul și Sfânta Sfintelor «curtea interioară», profetul a trebuit să dubleze termenul pentru a arăta clar că vorbește de curtea israeliților, locul în care intră tot poporul."
+       "pos": "verb, qal infinitiv + sufix",
+       "def_ro": "la ieșirea lor",
+       "dict_ro": "Iața e verbul ieșirii, legat în memoria lui Israel de ieșirea din Egipt (iețiat Mițraim). La forma cauzativă, hoți, „a scoate”, descrie adesea eliberarea: Dumnezeu „scoate” poporul din robie și pe prizonieri din temniță (Isaia 42:7).",
+       "greek": "ἐκπορεύομαι (ekporeuomai)",
+       "greek_def_ro": "ἐκπορεύομαι (ekporeuomai) — a ieși"
+      },
+      {
+       "t": " spre "
+      },
+      {
+       "t": "curtea",
+       "w": "curtea",
+       "heb": "הֶחָצֵר",
+       "translit": "hehațēr",
+       "strong": "H2691",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "curtea",
+       "dict_ro": "Hațer înseamnă o curte îngrădită și, prin extensie, un sat fără ziduri, o tabără de corturi — potrivit pentru nomazii din Kedar. Același cuvânt desemnează curțile Templului.",
+       "greek": "αὐλή (aule)",
+       "greek_def_ro": "αὐλή (aule) — curte"
       },
       {
        "t": " "
       },
       {
-       "t": "odăile sfinte",
-       "w": "odăile sfinte",
+       "t": "exterioară",
+       "w": "exterioară",
+       "heb": "הַחִיצוֹנָה",
+       "translit": "hahițona",
+       "strong": "H2435",
+       "pos": "adjectiv, feminin singular",
+       "def_ro": "dinafară",
+       "dict_ro": "Hițon înseamnă „exterior”, „dinafară”. Curtea din afară este cea în care intră poporul; preoții își schimbă veșmintele înainte de a o intersecta.",
+       "greek": "ἐξώτερος (exoteros)",
+       "greek_def_ro": "ἐξώτερος (exoteros) — din afară"
+      },
+      {
+       "t": ", către "
+      },
+      {
+       "t": "curtea",
+       "w": "curtea",
+       "heb": "הֶחָצֵר",
+       "translit": "hehațēr",
+       "strong": "H2691",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "curtea",
+       "dict_ro": "Hațer înseamnă o curte îngrădită și, prin extensie, un sat fără ziduri, o tabără de corturi — potrivit pentru nomazii din Kedar. Același cuvânt desemnează curțile Templului.",
+       "diff_ro": "Septuaginta nu repetă „curtea” (hehațēr), pe care o pomenește o singură dată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "exterioară",
+       "w": "exterioară",
+       "heb": "הַחִיצוֹנָה",
+       "translit": "hahițona",
+       "strong": "H2435",
+       "pos": "adjectiv, feminin singular",
+       "def_ro": "dinafară",
+       "dict_ro": "Hițon înseamnă „exterior”, „dinafară”. Curtea din afară este cea în care intră poporul; preoții își schimbă veșmintele înainte de a o intersecta.",
+       "diff_ro": "Septuaginta nu repetă „exterioară” (hahițona), pe care o pomenește o singură dată."
+      },
+      {
+       "t": " și către "
+      },
+      {
+       "t": "popor",
+       "w": "popor",
+       "heb": "הָעָם",
+       "translit": "haam",
+       "strong": "H5971",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "popor",
+       "dict_ro": "Am desemnează un popor ca unitate înrudită și adunată; în Biblie, mai ales Israel, „poporul lui DOMNUL” (am Adonai). Spre deosebire de goi (neam, mai ales neamurile străine), am subliniază legătura dinăuntru, de familie și de legământ.",
+       "greek": "λαός (laos)",
+       "greek_def_ro": "λαός (laos) — popor"
+      },
+      {
+       "t": ", să-și "
+      },
+      {
+       "t": "scoată",
+       "w": "scoată",
+       "heb": "יִפְשְׁטוּ",
+       "translit": "ifșetu",
+       "strong": "H6584",
+       "pos": "verb, qal imperfect",
+       "def_ro": "să-și scoată",
+       "dict_ro": "Pașat înseamnă „a dezbrăca”, „a-și scoate hainele”. Preoții își scot veșmintele de slujbă când ies la popor, ca sfințenia lor să nu treacă asupra poporului.",
+       "greek": "ἐκδύω (ekdyo)",
+       "greek_def_ro": "ἐκδύω (ekdyo) — a dezbrăca"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "hainele",
+       "w": "hainele",
+       "heb": "בִּגְדֵיהֶם",
+       "translit": "bigdēhem",
+       "strong": "H899",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "hainele lor",
+       "dict_ro": "Beged înseamnă „haină”, „veșmânt”. Hainele preoților au un loc distinct în slujbă: se poartă în Locaș și se lasă în odăile sfinte, ca să nu sfințească poporul.",
+       "greek": "στολή (stole)",
+       "greek_def_ro": "στολή (stole) — veșmânt"
+      },
+      {
+       "t": " în care "
+      },
+      {
+       "t": "slujesc",
+       "w": "slujesc",
+       "heb": "הֵמָּה מְשָׁרְתִם",
+       "translit": "hēma meșartim",
+       "strong": "H1992",
+       "pos": "pronume personal + verb, piel participiu",
+       "def_ro": "ei slujesc",
+       "dict_ro": "„Hem meșartim”, „ei slujesc”, arată că hainele sunt cele în care preoții fac slujba și nu pot fi purtate în alt loc. Obiceiul de a le păstra în odăile sfinte arată cât de rezervate sunt.",
+       "greek": "λειτουργέω (leitourgeo)",
+       "greek_def_ro": "λειτουργέω (leitourgeo) — a sluji"
+      },
+      {
+       "t": " și să le "
+      },
+      {
+       "t": "lase",
+       "w": "lase",
+       "heb": "וְהִנִּיחוּ",
+       "translit": "vehinihu",
+       "strong": "H3240",
+       "pos": "verb, hifil perfect consecutiv",
+       "def_ro": "le vor pune",
+       "dict_ro": "Nuah în Hifil, „a așeza”, „a lăsa”. Preoții își lasă hainele de slujbă în odăi sfinte, nu le iau cu ei, ca să rămână rezervate Locașului.",
+       "greek": "τίθημι (tithemi)",
+       "greek_def_ro": "τίθημι (tithemi) — a pune"
+      },
+      {
+       "t": " în "
+      },
+      {
+       "t": "odăile",
+       "w": "odăile",
        "heb": "בְּלִשְׁכֹת",
        "translit": "belișhot",
        "strong": "H3957",
        "pos": "substantiv, feminin plural construct",
-       "def_ro": "camerele Sanctuarului.",
-       "greek": "ἐξέδραι τῶν ἁγίων (exedrai ton hagion)",
-       "greek_def_ro": "ἐξέδραι τῶν ἁγίων (exedrai ton hagion) — odăile sfinte.",
-       "dict_ro": "Lișka — o încăpere laterală a Templului, folosită pentru păstrarea veșmintelor și a obiectelor sfinte (Ezechiel 42:13-14). Rashi vede aici porunca dată marelui preot în Leviticul 16:23: „își va scoate veșmintele de in... și le va lăsa acolo”. Motivul — „să nu sfințească poporul cu hainele lor” — e explicat de Metzudat David și Radak: ca nu cumva, atingându-se de veșmintele sfinte, poporul să pară sfânt ca preoții."
+       "def_ro": "în odăile",
+       "dict_ro": "Lišca înseamnă „odaie”, „cămară”. Odăile sfinte sunt cele în care preoții își păstrează veșmintele și mănâncă din jertfe (Ezechiel 42:13).",
+       "greek": "ἐξέδρα (exedra)",
+       "greek_def_ro": "ἐξέδρα (exedra) — odaie"
       },
       {
-       "t": " și să îmbrace alte haine și să nu sfințească poporul cu hainele lor.",
-       "w": " și să îmbrace alte haine și să nu sfințească poporul cu hainele lor.",
-       "heb": "הַקֹּדֶשׁ וְלָבְשׁוּ בְּגָדִים אֲחֵרִים וְלֹא יְקַדְּשׁוּ אֶת הָעָם בְּבִגְדֵיהֶם",
-       "translit": "hakodeș velavșu begadim ahērim velo iekadșu et haam bevigdēhem",
+       "t": " "
+      },
+      {
+       "t": "sfinte",
+       "w": "sfinte",
+       "heb": "הַקֹּדֶשׁ",
+       "translit": "hakodeș",
        "strong": "H6944",
-       "pos": "substantiv + verb, qal perfect consecutiv + substantiv plural + adjectiv + particulă negativă + verb, piel imperfect + marcă a complementului direct + substantiv + substantiv plural construct + sufix",
-       "def_ro": "cele sfinte, și vor îmbrăca alte veșminte, și nu vor sfinți poporul cu veșmintele lor.",
-       "dict_ro": "Radak explică faptul că, dacă preoții s-ar atinge de popor purtând veșmintele sfinte, ar părea că poporul e sfânt ca ei — Targum Ionatan traduce exact această grijă: «și să nu se amestece cu poporul în veșmintele lor»."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "sfinte",
+       "dict_ro": "Qodeș înseamnă „sfânt”, „sfințenie”. Ezechiel oprește ca sfințenia preoțească să treacă prin atingerea hainelor asupra poporului, nu fiindcă ar fi periculos, ci ca să-i păstreze deosebirea.",
+       "greek": "ἅγιος (hagios)",
+       "greek_def_ro": "ἅγιος (hagios) — sfânt"
+      },
+      {
+       "t": " și să "
+      },
+      {
+       "t": "îmbrace",
+       "w": "îmbrace",
+       "heb": "וְלָבְשׁוּ",
+       "translit": "velavșu",
+       "strong": "H3847",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "să se îmbrace",
+       "dict_ro": "Lavaš înseamnă „a se îmbrăca”. Preoții se îmbracă în veșmintele rânduite și le schimbă la ieșire; actul îmbrăcării este parte din ritualul slujirii.",
+       "greek": "ἐνδύω (endyo)",
+       "greek_def_ro": "ἐνδύω (endyo) — a îmbrăca"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "alte",
+       "w": "alte",
+       "heb": "אֲחֵרִים",
+       "translit": "ahērim",
+       "strong": "H312",
+       "pos": "adjectiv, masculin plural",
+       "def_ro": "alte",
+       "dict_ro": "Aher înseamnă „alt”. Preoții își pun „alte haine” când ies la popor; hainele de slujbă și cele obișnuite sunt păstrate separat.",
+       "greek": "ἕτερος (heteros)",
+       "greek_def_ro": "ἕτερος (heteros) — alt"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "haine",
+       "w": "haine",
+       "heb": "בְּגָדִים",
+       "translit": "begadim",
+       "strong": "H899",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "haine",
+       "dict_ro": "Beged înseamnă „haină”, „veșmânt”. Hainele preoților au un loc distinct în slujbă: se poartă în Locaș și se lasă în odăile sfinte, ca să nu sfințească poporul.",
+       "greek": "στολή (stole)",
+       "greek_def_ro": "στολή (stole) — veșmânt"
+      },
+      {
+       "t": " și să nu "
+      },
+      {
+       "t": "sfințească",
+       "w": "sfințească",
+       "heb": "יְקַדְּשׁוּ",
+       "translit": "iekadșu",
+       "strong": "H6942",
+       "pos": "verb, piel imperfect",
+       "def_ro": "să sfințească",
+       "dict_ro": "Qadaș în Piel înseamnă „a sfinți”. Hainele sfinte sfințesc pe cine le atinge (Exodul 29:37, Leviticul 6:20), de aceea preoții nu ies cu ele la popor; la 44:24, ei sfințesc Șabaturile.",
+       "greek": "ἁγιάζω (hagiazo)",
+       "greek_def_ro": "ἁγιάζω (hagiazo) — a sfinți"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "poporul",
+       "w": "poporul",
+       "heb": "הָעָם",
+       "translit": "haam",
+       "strong": "H5971",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "poporul",
+       "dict_ro": "Am desemnează un popor ca unitate înrudită și adunată; în Biblie, mai ales Israel, „poporul lui DOMNUL” (am Adonai). Spre deosebire de goi (neam, mai ales neamurile străine), am subliniază legătura dinăuntru, de familie și de legământ.",
+       "greek": "λαός (laos)",
+       "greek_def_ro": "λαός (laos) — popor"
+      },
+      {
+       "t": " cu "
+      },
+      {
+       "t": "hainele",
+       "w": "hainele",
+       "heb": "בְּבִגְדֵיהֶם",
+       "translit": "bevigdēhem",
+       "strong": "H899",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "prin hainele lor",
+       "dict_ro": "Beged înseamnă „haină”, „veșmânt”. Hainele preoților au un loc distinct în slujbă: se poartă în Locaș și se lasă în odăile sfinte, ca să nu sfințească poporul.",
+       "greek": "στολή (stole)",
+       "greek_def_ro": "στολή (stole) — veșmânt"
+      },
+      {
+       "t": " lor."
       }
      ],
      "textCompare": [
@@ -167842,14 +168771,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וּבְצֵאתָם אֶל־הֶחָצֵר הַחִיצוֹנָה אֶל־הָעָם...",
        "translation": "„Iar când ies spre curtea exterioară...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἐν τῷ ἐκπορεύεσθαι αὐτοὺς εἰς τὴν αὐλὴν τὴν ἐξωτέραν πρὸς τὸν λαὸν ἐκδύσονται τὰς στολὰς αὐτῶν, ἐν αἷς αὐτοὶ λειτουργοῦσιν ἐν αὐταῖς, καὶ θήσουσιν αὐτὰς ἐν ταῖς ἐξέδραις τῶν ἁγίων καὶ ἐνδύσονται στολὰς ἑτέρας καὶ οὐ μὴ ἁγιάσωσι τὸν λαὸν ἐν ταῖς στολαῖς αὐτῶν.",
+       "original": "καὶ ἐν τῷ ἐκπορεύεσθαι αὐτοὺς εἰς τὴν αὐλὴν τὴν ἐξωτέραν πρὸς τὸν λαὸν ἐκδύσονται τὰς στολὰς αὐτῶν ἐν αἷς αὐτοὶ λειτουργοῦσιν ἐν αὐταῖς καὶ θήσουσιν αὐτὰς ἐν ταῖς ἐξέδραις τῶν ἁγίων καὶ ἐνδύσονται στολὰς ἑτέρας καὶ οὐ μὴ ἁγιάσωσιν τὸν λαὸν ἐν ταῖς στολαῖς αὐτῶν",
        "greek": true,
-       "translation": "„Și când vor ieși în curtea din afară, la popor, își vor dezbrăca veșmintele în care slujesc și le vor pune în încăperile celor sfinte și vor îmbrăca alte veșminte, și nu vor sfinți poporul cu veșmintele lor.”",
-       "note": "Septuaginta pomenește „curtea din afară” o singură dată, fără repetiția din Textul Masoretic („spre curtea exterioară, către curtea exterioară”)."
+       "translation": "„Și când vor ieși în curtea din afară, la popor, își vor dezbrăca veșmintele în care slujesc în ele și le vor pune în odăile celor sfinte și vor îmbrăca alte veșminte, și nu vor sfinți poporul cu veșmintele lor.”",
+       "note": "Septuaginta pomenește „curtea din afară” o singură dată, fără repetarea din ebraică (hehațēr hahițona), și redă „odăile sfinte” prin „odăile celor sfinte” (ἐξέδραις τῶν ἁγίων)."
       }
      ],
      "refs": [
@@ -167882,28 +168811,96 @@
      "translit": "Veroșam lo yegalehu ufera lo yeșalehu kasom yichsemu et-rașeihem.",
      "tokens": [
       {
-       "t": "Să nu își radă capul și nici să nu își lase pletele să crească în voie, ci să aibă",
-       "w": "Să nu își radă capul și nici să nu își lase pletele să crească în voie, ci să aibă",
-       "heb": "וְרֹאשָׁם לֹא יְגַלֵּחוּ וּפֶרַע לֹא יְשַׁלֵּחוּ",
-       "translit": "veroșam lo iegalēhu ufera lo ieșalēhu",
-       "strong": "H7218",
-       "pos": "substantiv construct + sufix + particulă negativă + verb, piel imperfect + substantiv + particulă negativă + verb, piel imperfect",
-       "def_ro": "și capul lor nu-l vor rade, și creșterea părului nu o vor lăsa liberă.",
-       "dict_ro": "Talmudul Bavli (Sanhedrin 22b) explică faptul că preotul obișnuit se tunde o dată la treizeci de zile, prin analogie textuală cu «pletele» nazireului de la Numeri 6:5 — la fel cum nazireul avea treizeci de zile, tot așa și preotul."
+       "t": "Să nu își "
+      },
+      {
+       "t": "radă",
+       "w": "radă",
+       "heb": "יְגַלֵּחוּ",
+       "translit": "iegalēhu",
+       "strong": "H1548",
+       "pos": "verb, piel imperfect",
+       "def_ro": "să nu-l radă",
+       "dict_ro": "Gilea înseamnă „a rade”. Preoților le este interzis să-și radă capul, ca semn de doliu pentru morți (Leviticul 21:5), dar nici să-și lase părul liber.",
+       "greek": "ξυράω (xyrao)",
+       "greek_def_ro": "ξυράω (xyrao) — a rade"
       },
       {
        "t": " "
       },
       {
-       "t": "capetele tunse",
-       "w": "capetele tunse",
+       "t": "capul",
+       "w": "capul",
+       "heb": "וְרֹאשָׁם",
+       "translit": "veroșam",
+       "strong": "H7218",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "capul lor",
+       "dict_ro": "Roș, „cap”, înseamnă și vârful unui munte, căpetenia unui grup și începutul unui lucru — de aici Roș Hașana, „capul anului”.",
+       "greek": "κεφαλή (kephale)",
+       "greek_def_ro": "κεφαλή (kephale) — cap"
+      },
+      {
+       "t": " și nici să nu își lase "
+      },
+      {
+       "t": "pletele",
+       "w": "pletele",
+       "heb": "וּפֶרַע",
+       "translit": "ufera",
+       "strong": "H6545",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "părul lung",
+       "dict_ro": "Pera înseamnă „păr lăsat nepieptănat”, „plete”. Preotul nu își lasă părul să crească în voie (Leviticul 10:6: Aaron și fiii lui nu-și vor lăsa părul liber în doliu).",
+       "greek": "κόμη (kome)",
+       "greek_def_ro": "κόμη (kome) — păr, plete"
+      },
+      {
+       "t": " să "
+      },
+      {
+       "t": "crească",
+       "w": "crească",
+       "heb": "יְשַׁלֵּחוּ",
+       "translit": "ieșalēhu",
+       "strong": "H7971",
+       "pos": "verb, piel imperfect",
+       "def_ro": "să nu-l lase",
+       "dict_ro": "Șalah, „a trimite”, e verbul misiunii profetice: „Pe cine să trimit?” întreabă Dumnezeu în viziunea lui Isaia (Isaia 6:8). Același verb, la forma piel, e rostit de Moise înaintea lui Faraon: „lasă poporul Meu să plece” (Exodul 5:1).",
+       "greek": "ψιλόω (psiloo)",
+       "greek_def_ro": "ψιλόω (psiloo) — a tăia scurt",
+       "diff_ro": "Ebraica: „nu-l vor lăsa să crească” (lo ieșalēhu); Septuaginta: „nu-l vor tăia scurt” (οὐ ψιλώσουσιν)."
+      },
+      {
+       "t": " în voie, ci să aibă "
+      },
+      {
+       "t": "capetele",
+       "w": "capetele",
+       "heb": "רָאשֵׁיהֶם",
+       "translit": "rașēhem",
+       "strong": "H7218",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "capetele lor",
+       "dict_ro": "Roș, „cap”, înseamnă și vârful unui munte, căpetenia unui grup și începutul unui lucru — de aici Roș Hașana, „capul anului”.",
+       "greek": "κεφαλή (kephale)",
+       "greek_def_ro": "κεφαλή (kephale) — cap"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "tunse",
+       "w": "tunse",
        "heb": "כָּסוֹם יִכְסְמוּ",
        "translit": "kasom ihsemu",
        "strong": "H3697",
        "pos": "verb, qal infinitiv absolut + verb, qal imperfect",
-       "def_ro": "să-și tundă [părul] cu măsură.",
-       "diff_ro": "Septuaginta are „καλύπτοντες καλύψουσι τὰς κεφαλὰς αὐτῶν\" („acoperindu-și, își vor acoperi capetele\"), nu „să aibă capetele tunse\" (kasom yiksemu) ca în ebraică — probabil o confuzie veche între rădăcinile ebraice înrudite „kasam\" (a tunde) și „kasah\" (a acoperi).",
-       "dict_ro": "Kasam — „a tunde, a scurta”, înrudit cu kusemet, grâul spelta (Metzudat Țion). Talmudul (Sanhedrin 22b) deduce de aici că preotul obișnuit trebuie să se tundă o dată la treizeci de zile, prin analogie cu nazireul, la care „pletele” (pera) cresc cel puțin treizeci de zile. Rashi descrie tunsoarea marelui preot „ca spicele de spelta”, cu vârful unui fir lângă rădăcina celuilalt, sau, într-o altă explicație, o măsură de mijloc: nici ras cu totul, nici lăsat să crească."
+       "def_ro": "vor tunde",
+       "dict_ro": "„Kasom iksemu”, „să-și tundă”, este infinitiv absolut cu verb finit. Tunsul capului ca regulă face din preot un om cu aspect rânduit, nici ras, nici neîngrijit.",
+       "greek": "καλύπτω (kalypto)",
+       "greek_def_ro": "καλύπτω (kalypto) — acoperind vor acoperi",
+       "diff_ro": "Ebraica: „tunzând vor tunde” (kasom yikhsemu); Septuaginta: „acoperind vor acoperi” (καλύπτοντες καλύψουσιν)."
       },
       {
        "t": "."
@@ -167914,14 +168911,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְרֹאשָׁם לֹא יְגַלֵּחוּ וּפֶרַע...",
        "translation": "„Să nu își radă capul și...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ τὰς κεφαλὰς αὐτῶν οὐ ξυρήσονται καὶ τὰς κόμας αὐτῶν οὐ ψιλώσουσι, καλύπτοντες καλύψουσι τὰς κεφαλὰς αὐτῶν.",
+       "original": "καὶ τὰς κεφαλὰς αὐτῶν οὐ ξυρήσονται καὶ τὰς κόμας αὐτῶν οὐ ψιλώσουσιν καλύπτοντες καλύψουσιν τὰς κεφαλὰς αὐτῶν",
        "greek": true,
-       "translation": "„Și capetele nu și le vor rade și părul nu și-l vor tunde scurt; acoperind, își vor acoperi capetele.”",
-       "note": "Divergență reală: Septuaginta are „acoperind, își vor acoperi capetele” (καλύπτοντες καλύψουσι), acolo unde Textul Masoretic are „să-și tundă capetele” (kasom yihsemu)."
+       "translation": "„Și capetele lor nu și le vor rade și părul nu și-l vor tăia scurt; acoperind, își vor acoperi capetele lor.”",
+       "note": "Septuaginta are „acoperind, își vor acoperi capetele” (καλύπτοντες καλύψουσιν) unde ebraica are infinitivul absolut cu verbul finit, „tunzând își vor tunde capetele” (kasom yikhsemu)."
       }
      ],
      "refs": [
@@ -167956,14 +168953,46 @@
      "translit": "Veyayin lo-yiștu kol-kohen bevoam el-hehatzer hapenimit.",
      "tokens": [
       {
-       "t": "Niciun preot să nu bea",
-       "w": "Niciun preot să nu bea",
-       "heb": "לֹא יִשְׁתּוּ כָּל כֹּהֵן",
-       "translit": "lo iștu kal kohēn",
-       "strong": "H3808",
-       "pos": "particulă negativă + verb, qal imperfect + substantiv construct + substantiv",
-       "def_ro": "nu va bea niciun preot.",
-       "dict_ro": "Metzudat David precizează că interdicția se aplică fie marelui preot, fie preotului obișnuit — fără excepție, în momentul slujirii la Sanctuar."
+       "t": "Niciun",
+       "w": "Niciun",
+       "heb": "כָּל",
+       "translit": "kal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tot",
+       "dict_ro": "Kol, „tot, întreg”, apare de mii de ori în Biblia ebraică. În Isaia subliniază universalitatea: toate popoarele și tot pământul sunt chemate să-L recunoască pe DOMNUL.",
+       "greek": "πᾶς (pas)",
+       "greek_def_ro": "πᾶς (pas) — tot"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "preot",
+       "w": "preot",
+       "heb": "כֹּהֵן",
+       "translit": "kohēn",
+       "strong": "H3548",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "preotul",
+       "dict_ro": "Kohen înseamnă „preot”, slujitorul care aduce jertfele și învață poporul. Ezechiel 44 desparte pe preoții din linia lui Țadok de ceilalți leviți și le regulează slujba pe temeiul Legii din Levitic 21–22, cu rânduieli în plus.",
+       "greek": "ἱερεύς (hiereus)",
+       "greek_def_ro": "ἱερεύς (hiereus) — preot"
+      },
+      {
+       "t": " să nu "
+      },
+      {
+       "t": "bea",
+       "w": "bea",
+       "heb": "יִשְׁתּוּ",
+       "translit": "iștu",
+       "strong": "H8354",
+       "pos": "verb, qal imperfect",
+       "def_ro": "să nu bea",
+       "dict_ro": "Șata înseamnă „a bea”. Preotul nu bea vin când intră în curte (Leviticul 10:9), ca să deosebească între sfânt și profan și să-și păstreze mintea limpede.",
+       "greek": "πίνω (pino)",
+       "greek_def_ro": "πίνω (pino) — a bea"
       },
       {
        "t": " "
@@ -167975,20 +169004,58 @@
        "translit": "veiain",
        "strong": "H3196",
        "pos": "substantiv, masculin singular",
-       "def_ro": "vin.",
+       "def_ro": "vin",
+       "dict_ro": "Iain înseamnă „vin”. Interdicția vinului pentru preoții în slujbă își are originea în pierderea celor doi fii ai lui Aaron (Leviticul 10:1-9).",
        "greek": "οἶνος (oinos)",
-       "greek_def_ro": "οἶνος (oinos) — vin.",
-       "dict_ro": "Iain — vinul; interdicția vine din Tora, după moartea lui Nadav și Avihu: „vin și băutură tare să nu bei, tu și fiii tăi, când intrați în Cortul Întâlnirii, ca să nu muriți” (Leviticul 10:9), motivul fiind — după versetul următor de acolo — ca preotul să poată deosebi între sfânt și profan. Radak observă că Ezechiel repetă aici și reguli deja scrise în Tora, alături de rânduieli noi pentru viitor."
+       "greek_def_ro": "οἶνος (oinos) — vin"
       },
       {
-       "t": " când intră în curtea interioară.",
-       "w": " când intră în curtea interioară.",
-       "heb": "בְּבוֹאָם אֶל הֶחָצֵר הַפְּנִימִית",
-       "translit": "bevoam el hehațēr hapnimit",
+       "t": " când "
+      },
+      {
+       "t": "intră",
+       "w": "intră",
+       "heb": "בְּבוֹאָם",
+       "translit": "bevoam",
        "strong": "H935",
-       "pos": "verb, qal infinitiv + sufix + prepoziție + substantiv + adjectiv",
-       "def_ro": "când vor veni la curtea interioară.",
-       "dict_ro": "Radak explică faptul că, deși aceasta e scrisă deja în Tora, Ezechiel a reluat legile preoțești pentru că a înnoit lucruri care nu sunt explicite în Tora scrisă — poate o sporire a sfințeniei rezervată vremurilor viitoare."
+       "pos": "verb, qal infinitiv + sufix",
+       "def_ro": "la intrarea lor",
+       "dict_ro": "Bo e verbul venirii și al intrării; în profeți descrie adesea împlinirea: ceea ce a fost vestit „vine”, adică se întâmplă (Isaia 42:9). La forma cauzativă, hevi, înseamnă „a aduce” — cu un sens aparte în făgăduința strângerii exilaților (Isaia 43:5).",
+       "greek": "εἰσπορεύομαι (eisporeuomai)",
+       "greek_def_ro": "εἰσπορεύομαι (eisporeuomai) — a intra"
+      },
+      {
+       "t": " în "
+      },
+      {
+       "t": "curtea",
+       "w": "curtea",
+       "heb": "הֶחָצֵר",
+       "translit": "hehațēr",
+       "strong": "H2691",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "curtea",
+       "dict_ro": "Hațer înseamnă o curte îngrădită și, prin extensie, un sat fără ziduri, o tabără de corturi — potrivit pentru nomazii din Kedar. Același cuvânt desemnează curțile Templului.",
+       "greek": "αὐλή (aule)",
+       "greek_def_ro": "αὐλή (aule) — curte"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "interioară",
+       "w": "interioară",
+       "heb": "הַפְּנִימִית",
+       "translit": "hapnimit",
+       "strong": "H6442",
+       "pos": "adjectiv, feminin singular",
+       "def_ro": "dinăuntru",
+       "dict_ro": "Penimi înseamnă „dinăuntru”, „interior”. Curtea interioară este locul unde preoții slujesc, deosebită de cea din afară, în care intră poporul (Ezechiel 40:28).",
+       "greek": "ἐσώτερος (esoteros)",
+       "greek_def_ro": "ἐσώτερος (esoteros) — dinăuntru"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -167996,14 +169063,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְיַיִן לֹא־יִשְׁתּוּ כָּל־כֹּהֵן בְּבוֹאָם...",
        "translation": "„Niciun preot să nu bea vin...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ οἶνον οὐ μὴ πίωσι πᾶς ἱερεὺς ἐν τῷ εἰσπορεύεσθαι αὐτοὺς εἰς τὴν αὐλὴν τὴν ἐσωτέραν.",
+       "original": "καὶ οἶνον οὐ μὴ πίωσιν πᾶς ἱερεὺς ἐν τῷ εἰσπορεύεσθαι αὐτοὺς εἰς τὴν αὐλὴν τὴν ἐσωτέραν",
        "greek": true,
        "translation": "„Și vin să nu bea niciun preot când intră în curtea dinăuntru.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Redare apropiată de ebraică; „Niciun preot” este „orice preot” (πᾶς ἱερεύς) cu negația întărită οὐ μή."
       }
      ],
      "refs": [
@@ -168034,17 +169101,65 @@
      "translit": "Vealmana ugerușa lo-yikehu lahem lenașim ki im-betulot mizera beit Israël vehaalmana așer tihye almana mikohen yikahu.",
      "tokens": [
       {
-       "t": "Văduvă sau divorțată să nu-și ia de soție, ci doar",
-       "w": "Văduvă sau divorțată să nu-și ia de soție, ci doar",
-       "heb": "וְאַלְמָנָה וּגְרוּשָׁה לֹא יִקְחוּ לָהֶם לְנָשִׁים כִּי אִם",
-       "translit": "vealmana ugrușa lo ikhu lahem lenașim ki im",
+       "t": "Văduvă",
+       "w": "Văduvă",
+       "heb": "וְאַלְמָנָה",
+       "translit": "vealmana",
        "strong": "H490",
-       "pos": "substantiv + verb, qal participiu pasiv + particulă negativă + verb, qal imperfect + prepoziție + sufix + substantiv plural + conjuncție + conjuncție",
-       "def_ro": "și văduvă și divorțată nu-și vor lua de soții, ci numai.",
-       "dict_ro": "Talmudul Bavli (Kidușin 78b) explică, prin cuvintele lui Rava, că prima parte a versetului se referă la marele preot, căruia îi e oprită și văduva, iar partea a doua la preotul obișnuit, căruia îi e permisă văduva — același verset conține două rânduieli distincte."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "văduvă",
+       "dict_ro": "Almana înseamnă „văduvă”. Preotului obișnuit nu i se interzice văduva, dar Marele Preot nu poate lua văduvă (Leviticul 21:14); Ezechiel o interzice, cu o excepție, tuturor preoților.",
+       "greek": "χήρα (chera)",
+       "greek_def_ro": "χήρα (chera) — văduvă"
       },
       {
-       "t": " "
+       "t": " sau "
+      },
+      {
+       "t": "divorțată",
+       "w": "divorțată",
+       "heb": "וּגְרוּשָׁה",
+       "translit": "ugrușa",
+       "strong": "H1644",
+       "pos": "verb, qal participiu pasiv",
+       "def_ro": "și alungată",
+       "dict_ro": "Gruša înseamnă „divorțată”, femeie alungată. Preoților le este interzisă soția divorțată (Leviticul 21:7) și Ezechiel adaugă această interdicție la văduvă.",
+       "greek": "ἐκβάλλω (ekballo)",
+       "greek_def_ro": "ἐκβάλλω (ekballo) — izgonită",
+       "diff_ro": "Ebraica: „divorțată” (gruša); Septuaginta: „izgonită” (ἐκβεβλημένην)."
+      },
+      {
+       "t": " să nu-și "
+      },
+      {
+       "t": "ia",
+       "w": "ia",
+       "heb": "יִקְחוּ",
+       "translit": "ikhu",
+       "strong": "H3947",
+       "pos": "verb, qal imperfect",
+       "def_ro": "să ia",
+       "dict_ro": "Laqah înseamnă „a lua”, aici „a lua de soție”. Rânduiala căsătoriei preotului ține de sfințenia seminției lui; ia numai fecioare din casa lui Israel.",
+       "greek": "λαμβάνω (lambano)",
+       "greek_def_ro": "λαμβάνω (lambano) — a lua"
+      },
+      {
+       "t": " de "
+      },
+      {
+       "t": "soție",
+       "w": "soție",
+       "heb": "לְנָשִׁים",
+       "translit": "lenașim",
+       "strong": "H802",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "de soții",
+       "dict_ro": "Iša înseamnă „femeie”, „soție”. «Lenașim», „de soții”, arată că preoții nu-și pot alege soția oricum, ci numai din cele rânduite.",
+       "greek": "γυνή (gyne)",
+       "greek_def_ro": "γυνή (gyne) — femeie, soție"
+      },
+      {
+       "t": ", ci doar "
       },
       {
        "t": "fecioare",
@@ -168053,20 +169168,131 @@
        "translit": "betulot",
        "strong": "H1330",
        "pos": "substantiv, feminin plural",
-       "def_ro": "fecioare.",
+       "def_ro": "fecioare",
+       "dict_ro": "Betula înseamnă „fecioară”. Preoții iau de soție fecioare din Israel sau o văduvă de preot; Ezechiel restrânge alegerea soției din motive de curăție a slujirii.",
        "greek": "παρθένος (parthenos)",
-       "greek_def_ro": "παρθένος (parthenos) — fecioară.",
-       "dict_ro": "Betula — fecioara. Tora interzice doar marelui preot căsătoria cu o văduvă (Leviticul 21:14), iar versetul lui Ezechiel pare să extindă interdicția la toți preoții. Talmudul (Kidușin 78b) rezolvă contradicția: prima parte a versetului se referă la marele preot, iar a doua („o văduvă care a fost soție de preot, să ia”) la preotul obișnuit; Rava arată că un verset poate trata astfel două subiecte fără delimitare. Rashi și Metzudat David urmează această lectură."
+       "greek_def_ro": "παρθένος (parthenos) — fecioară"
       },
       {
-       "t": " din seminția casei lui Israel, sau o văduvă care a fost soție de preot, să ia [de soție].",
-       "w": " din seminția casei lui Israel, sau o văduvă care a fost soție de preot, să ia [de soție].",
-       "heb": "מִזֶּרַע בֵּית יִשְׂרָאֵל וְהָאַלְמָנָה אֲשֶׁר תִּהְיֶה אַלְמָנָה מִכֹּהֵן יִקָּחוּ",
-       "translit": "mizera bēt israēl vehaalmana așer tihie almana mikohēn ikahu",
+       "t": " din "
+      },
+      {
+       "t": "seminția",
+       "w": "seminția",
+       "heb": "מִזֶּרַע",
+       "translit": "mizera",
        "strong": "H2233",
-       "pos": "substantiv construct + substantiv construct + nume propriu + substantiv + particulă relativă + verb, qal imperfect + substantiv + substantiv construct + verb, qal imperfect",
-       "def_ro": "din sămânța casei lui Israel; și văduva care va fi văduvă de la un preot, [preoții obișnuiți] o vor lua.",
-       "dict_ro": "Rashi precizează că «văduva care a fost [doar] văduvă» înseamnă o văduvă propriu-zisă, nu o divorțată sau una eliberată prin halița — chiar aceea e oprită și preotului obișnuit, dacă nu e strict văduvă adevărată."
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "din sămânța",
+       "dict_ro": "Zera înseamnă sămânța plantelor și, la figurat, urmașii. Făgăduința făcută patriarhilor privea „sămânța” lor (Geneza 12:7), iar Isaia făgăduiește adunarea acestei „semințe” din toate colțurile lumii (Isaia 43:5).",
+       "greek": "σπέρμα (sperma)",
+       "greek_def_ro": "σπέρμα (sperma) — sămânță"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "casei",
+       "w": "casei",
+       "heb": "בֵּית",
+       "translit": "bēt",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "casei",
+       "dict_ro": "Bait înseamnă „casă”, „înăuntru”. Aici arată interiorul clădirii Templului, unde slujesc preoții; „casa” este locașul prezenței lui Dumnezeu.",
+       "diff_ro": "Septuaginta nu are „casei” (bēt); are „sămânța lui Israel”."
+      },
+      {
+       "t": " lui "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "lui Israel",
+       "dict_ro": "Numele Israel i-a fost dat lui Iacov după lupta de la Iaboc și i-a fost confirmat la Betel (Geneza 35:10); textul îl explică prin „ai luptat cu Dumnezeu și cu oamenii și ai biruit”. În profeți, „Iacov” și „Israel” apar adesea în paralel, desemnând același popor: primul e numele de la naștere, al doilea numele chemării.",
+       "greek": "Ἰσραήλ (Israel)",
+       "greek_def_ro": "Ἰσραήλ (Israel) — Israel"
+      },
+      {
+       "t": ", sau o "
+      },
+      {
+       "t": "văduvă",
+       "w": "văduvă",
+       "heb": "וְהָאַלְמָנָה",
+       "translit": "vehaalmana",
+       "strong": "H490",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "și văduva",
+       "dict_ro": "Almana înseamnă „văduvă”. Preotului obișnuit nu i se interzice văduva, dar Marele Preot nu poate lua văduvă (Leviticul 21:14); Ezechiel o interzice, cu o excepție, tuturor preoților.",
+       "greek": "χήρα (chera)",
+       "greek_def_ro": "χήρα (chera) — văduvă"
+      },
+      {
+       "t": " care "
+      },
+      {
+       "t": "a fost",
+       "w": "a fost",
+       "heb": "תִּהְיֶה",
+       "translit": "tihie",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect",
+       "def_ro": "va fi",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "γίνομαι (ginomai)",
+       "greek_def_ro": "γίνομαι (ginomai) — a fi"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "soție",
+       "w": "soție",
+       "heb": "אַלְמָנָה",
+       "translit": "almana",
+       "strong": "H490",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "văduvă",
+       "dict_ro": "Almana înseamnă „văduvă”. Preotului obișnuit nu i se interzice văduva, dar Marele Preot nu poate lua văduvă (Leviticul 21:14); Ezechiel o interzice, cu o excepție, tuturor preoților.",
+       "diff_ro": "Septuaginta nu are al doilea „văduvă/soție” (almana); are „dacă va fi [văduvă] de la un preot”."
+      },
+      {
+       "t": " de "
+      },
+      {
+       "t": "preot",
+       "w": "preot",
+       "heb": "מִכֹּהֵן",
+       "translit": "mikohēn",
+       "strong": "H3548",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "de la preot",
+       "dict_ro": "Kohen înseamnă „preot”, slujitorul care aduce jertfele și învață poporul. Ezechiel 44 desparte pe preoții din linia lui Țadok de ceilalți leviți și le regulează slujba pe temeiul Legii din Levitic 21–22, cu rânduieli în plus.",
+       "greek": "ἱερεύς (hiereus)",
+       "greek_def_ro": "ἱερεύς (hiereus) — preot"
+      },
+      {
+       "t": ", să "
+      },
+      {
+       "t": "ia",
+       "w": "ia",
+       "heb": "יִקָּחוּ",
+       "translit": "ikahu",
+       "strong": "H3947",
+       "pos": "verb, qal imperfect",
+       "def_ro": "o vor lua",
+       "dict_ro": "Laqah înseamnă „a lua”, aici „a lua de soție”. Rânduiala căsătoriei preotului ține de sfințenia seminției lui; ia numai fecioare din casa lui Israel.",
+       "greek": "λαμβάνω (lambano)",
+       "greek_def_ro": "λαμβάνω (lambano) — a lua"
+      },
+      {
+       "t": " [de soție]."
       }
      ],
      "textCompare": [
@@ -168074,14 +169300,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְאַלְמָנָה וּגְרוּשָׁה לֹא־יִקְחוּ לָהֶם...",
        "translation": "„Văduvă sau divorțată să nu-și ia...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ χήραν καὶ ἐκβεβλημένην οὐ λήψονται ἑαυτοῖς εἰς γυναῖκα, ἀλλ’ ἢ παρθένον ἐκ τοῦ σπέρματος ᾿Ισραήλ· καὶ χήρα ἐὰν γένηται ἐξ ἱερέως, λήψονται.",
+       "original": "καὶ χήραν καὶ ἐκβεβλημένην οὐ λήμψονται ἑαυτοῖς εἰς γυναῖκα ἀλλ᾿ ἢ παρθένον ἐκ τοῦ σπέρματος Ισραηλ καὶ χήρα ἐὰν γένηται ἐξ ἱερέως λήμψονται",
        "greek": true,
-       "translation": "„Și văduvă și femeie izgonită nu-și vor lua de soție, ci numai fecioară din sămânța lui Israel; iar văduvă, dacă a fost [soție] de preot, vor lua.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "translation": "„Și văduvă și femeie izgonită să nu-și ia de soție, ci numai fecioară din sămânța lui Israel; iar văduvă, dacă va fi [soție] de preot, vor lua.”",
+       "note": "Redare apropiată de ebraică; „divorțată” (gruša) este „izgonită” (ἐκβεβλημένην) și „seminția casei lui Israel” este „sămânța lui Israel”, fără „casa”."
       }
      ],
      "refs": [
@@ -168112,39 +169338,112 @@
      "translit": "Veet-ami yoru bein kodeș lehol uvein-tame letahor yodium.",
      "tokens": [
       {
-       "t": "Iar pe poporul Meu să îl învețe să deosebească",
-       "w": "Iar pe poporul Meu să îl învețe să deosebească",
-       "heb": "וְאֶת עַמִּי יוֹרוּ בֵּין",
-       "translit": "veet ami ioru bēn",
+       "t": "Iar pe "
+      },
+      {
+       "t": "poporul",
+       "w": "poporul",
+       "heb": "עַמִּי",
+       "translit": "ami",
        "strong": "H5971",
-       "pos": "marcă a complementului direct + substantiv construct + sufix + verb, hifil imperfect + prepoziție",
-       "def_ro": "și pe poporul Meu să-l învețe între.",
-       "dict_ro": "Metzudat David precizează clar rolul didactic al preoților: ei sunt cei care trebuie să învețe poporul deosebirea dintre sfânt și profan, nu doar să o aplice singuri în Sanctuar."
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "poporul Meu",
+       "dict_ro": "Am desemnează un popor ca unitate înrudită și adunată; în Biblie, mai ales Israel, „poporul lui DOMNUL” (am Adonai). Spre deosebire de goi (neam, mai ales neamurile străine), am subliniază legătura dinăuntru, de familie și de legământ.",
+       "greek": "λαός (laos)",
+       "greek_def_ro": "λαός (laos) — popor"
       },
       {
-       "t": " "
+       "t": " Meu să îl "
       },
       {
-       "t": "între sacru și profan",
-       "w": "între sacru și profan",
-       "heb": "קֹדֶשׁ לְחֹל",
-       "translit": "kodeș lehol",
+       "t": "învețe",
+       "w": "învețe",
+       "heb": "יוֹרוּ",
+       "translit": "ioru",
+       "strong": "H3384",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "vor învăța",
+       "dict_ro": "Iara în Hifil înseamnă „a învăța”, „a arăta”; de la aceeași rădăcină vine Tora, „învățătura”. Preoții învață poporul (Leviticul 10:11), iar Ezechiel le reamintește această sarcină.",
+       "greek": "διδάσκω (didasko)",
+       "greek_def_ro": "διδάσκω (didasko) — a învăța"
+      },
+      {
+       "t": " să deosebească între "
+      },
+      {
+       "t": "sacru",
+       "w": "sacru",
+       "heb": "קֹדֶשׁ",
+       "translit": "kodeș",
+       "strong": "H6944",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "sfânt",
+       "dict_ro": "Qodeș înseamnă „sfânt”, „sfințenie”. Ezechiel oprește ca sfințenia preoțească să treacă prin atingerea hainelor asupra poporului, nu fiindcă ar fi periculos, ci ca să-i păstreze deosebirea.",
+       "greek": "ἅγιος (hagios)",
+       "greek_def_ro": "ἅγιος (hagios) — sfânt"
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "profan",
+       "w": "profan",
+       "heb": "לְחֹל",
+       "translit": "lehol",
        "strong": "H2455",
-       "pos": "substantiv, masculin singular + substantiv, masculin singular",
-       "def_ro": "deosebirea dintre ce e sfânt și ce e obișnuit.",
-       "greek": "ἀνὰ μέσον ἁγίου καὶ βεβήλου (ana meson hagiou kai bebelou)",
-       "greek_def_ro": "ἀνὰ μέσον ἁγίου καὶ βεβήλου (ana meson hagiou kai bebelou) — între sacru și profan.",
-       "dict_ro": "Hol — ceea ce e obișnuit, profan, neconsacrat, opusul lui kodeș. Rolul preoților ca învățători ai poporului e formulat încă în Leviticul 10:10-11 („ca să deosebiți între sfânt și profan... și să-i învățați pe fiii lui Israel”) și în binecuvântarea lui Moise pentru Levi (Deuteronomul 33:10). Ezechiel acuzase exact încălcarea acestei datorii în capitolul 22: „preoții ei... n-au făcut deosebire între sfânt și profan” (Ezechiel 22:26)."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "profan",
+       "dict_ro": "Hol înseamnă „profan”, „obișnuit”, opusul lui „sfânt”. Preoții trebuie să facă diferența între sfânt și profan (Leviticul 10:10), prima lor datorie de învățători.",
+       "greek": "βέβηλος (bebelos)",
+       "greek_def_ro": "βέβηλος (bebelos) — profan"
       },
       {
-       "t": ", și să îi facă să cunoască diferența dintre necurat și curat.",
-       "w": ", și să îi facă să cunoască diferența dintre necurat și curat.",
-       "heb": "וּבֵין טָמֵא לְטָהוֹר יוֹדִעֻם",
-       "translit": "uvēn tamē letahor iodium",
-       "strong": "H996",
-       "pos": "prepoziție + adjectiv + adjectiv + verb, hifil imperfect + sufix",
-       "def_ro": "și între necurat și curat să-i facă să cunoască.",
-       "dict_ro": "Metzudat Țion explică «yoru» prin rădăcina de învățătură și îndrumare — același verb care dă cuvântul «Tora», sugerând că funcția didactică a preoției e strâns legată de însăși esența Legii."
+       "t": ", și să îi "
+      },
+      {
+       "t": "facă să cunoască",
+       "w": "facă să cunoască",
+       "heb": "יוֹדִעֻם",
+       "translit": "iodium",
+       "strong": "H3045",
+       "pos": "verb, hifil imperfect + sufix",
+       "def_ro": "îi vor face să cunoască",
+       "dict_ro": "Iada înseamnă o cunoaștere prin experiență directă și prin legătură personală, nu doar o informație; de aceea poate desemna și unirea soților (Geneza 4:1). „A-L cunoaște pe DOMNUL” înseamnă, la profeți, a trăi în legământ cu El.",
+       "greek": "γνωρίζω (gnorizo)",
+       "greek_def_ro": "γνωρίζω (gnorizo) — a face cunoscut"
+      },
+      {
+       "t": " diferența dintre "
+      },
+      {
+       "t": "necurat",
+       "w": "necurat",
+       "heb": "טָמֵא",
+       "translit": "tamē",
+       "strong": "H2931",
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "necurat",
+       "dict_ro": "Tame, „necurat”, este adjectivul necurăției rituale. Preoții învață poporul să deosebească necuratul de curat, adică să fie la fel de atenți la viața de zi cu zi ca și la slujba din Locaș.",
+       "greek": "ἀκάθαρτος (akathartos)",
+       "greek_def_ro": "ἀκάθαρτος (akathartos) — necurat"
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "curat",
+       "w": "curat",
+       "heb": "לְטָהוֹר",
+       "translit": "letahor",
+       "strong": "H2889",
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "curat",
+       "dict_ro": "Tahor înseamnă „curat”, în stare rituală bună. Poporul trebuie să știe ce este curat, ca să se poată apropia de cele sfinte; preoții sunt învățătorii acestei deosebiri.",
+       "greek": "καθαρός (katharos)",
+       "greek_def_ro": "καθαρός (katharos) — curat"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -168152,7 +169451,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְאֶת־עַמִּי יוֹרוּ בֵּין קֹדֶשׁ...",
        "translation": "„Iar pe poporul Meu să îl...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -168188,39 +169487,177 @@
      "translit": "Veal-riv hema yaamdu lișfot uvemișpatai yișpetuhu veet-torotai veet-hukotai bechol-moadai yișmoru veet-șabtotai yekadeșu.",
      "tokens": [
       {
-       "t": "Și legat de orice dispută, să stea la judecată și să o decidă după legile Mele; învățăturile Mele și decretele legate de",
-       "w": "Și legat de orice dispută, să stea la judecată și să o decidă după legile Mele; învățăturile Mele și decretele legate de",
-       "heb": "וְעַל רִיב הֵמָּה יַעַמְדוּ לְמִשְׁפָּט בְּמִשְׁפָּטַי יִשְׁפְּטוּהוּ וְאֶת תּוֹרֹתַי וְאֶת חֻקֹּתַי בְּכָל",
-       "translit": "veal riv hēma iaamdu lemișpat bemișpatai ișpetuhu veet torotai veet hukotai behal",
-       "strong": "H5921",
-       "pos": "prepoziție + substantiv + pronume personal + verb, qal imperfect + substantiv + substantiv plural construct + sufix + verb, qal imperfect + sufix + marcă a complementului direct + substantiv plural construct + sufix + marcă a complementului direct + substantiv plural construct + sufix + substantiv construct",
-       "def_ro": "și pentru dispută ei vor sta la judecată; după judecățile Mele îl vor judeca; și învățăturile Mele și decretele Mele, la toate.",
-       "dict_ro": "Metzudat David explică faptul că pricinile de bani vor fi judecate de preoți strict după judecățile Torei, nu după aprecierea lor proprie — o restricție importantă care elimină arbitrariul din sentințele preoțești."
+       "t": "Și legat de orice "
       },
       {
-       "t": " "
+       "t": "dispută",
+       "w": "dispută",
+       "heb": "רִיב",
+       "translit": "riv",
+       "strong": "H7379",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "la ceartă",
+       "dict_ro": "Riv înseamnă „ceartă”, „proces”. În orice proces ei stau judecători (Deuteronomul 17:8-9), căci preoții sunt și o instanță de judecată pentru popor.",
+       "greek": "κρίσις (krisis)",
+       "greek_def_ro": "κρίσις (krisis) — judecată de sânge",
+       "diff_ro": "Ebraica: „ceartă, dispută” (riv); Septuaginta: „judecată de sânge” (κρίσιν αἵματος)."
       },
       {
-       "t": "soroacele Mele",
-       "w": "soroacele Mele",
-       "heb": "מוֹעֲדַי",
-       "translit": "moadai",
-       "strong": "H4150",
+       "t": ", să "
+      },
+      {
+       "t": "stea",
+       "w": "stea",
+       "heb": "יַעַמְדוּ",
+       "translit": "iaamdu",
+       "strong": "H5975",
+       "pos": "verb, qal imperfect",
+       "def_ro": "vor sta",
+       "dict_ro": "Amad înseamnă „a sta în picioare”. A sta „înaintea Mea” este poziția slujitorului în fața Stăpânului (Deuteronomul 10:8: leviții stau înaintea DOMNULUI ca să-I slujească).",
+       "greek": "ἐφίστημι (ephistemi)",
+       "greek_def_ro": "ἐφίστημι (ephistemi) — a sta peste"
+      },
+      {
+       "t": " la "
+      },
+      {
+       "t": "judecată",
+       "w": "judecată",
+       "heb": "לְמִשְׁפָּט",
+       "translit": "lemișpat",
+       "strong": "H4941",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "la judecată",
+       "dict_ro": "Mișpat înseamnă „judecată”, „rânduială”, adică hotărârile care fac dreptate. Judecățile sunt date ca omul să le facă și să trăiască prin ele.",
+       "greek": "διακρίνω (diakrino)",
+       "greek_def_ro": "διακρίνω (diakrino) — a hotărî",
+       "diff_ro": "Ebraica: „la judecată” (lemișpat); Septuaginta: „ca să hotărască” (διακρίνειν)."
+      },
+      {
+       "t": " și să o "
+      },
+      {
+       "t": "decidă",
+       "w": "decidă",
+       "heb": "יִשְׁפְּטוּהוּ",
+       "translit": "ișpetuhu",
+       "strong": "H8199",
+       "pos": "verb, qal imperfect + sufix",
+       "def_ro": "o vor judeca",
+       "dict_ro": "Șafat înseamnă „a judeca”. Preoții judecă după rânduielile lui Dumnezeu (Deuteronomul 17:9), nu după propriile păreri.",
+       "greek": "δικαιόω (dikaioo)",
+       "greek_def_ro": "δικαιόω (dikaioo) — a împlini rânduiala"
+      },
+      {
+       "t": " după "
+      },
+      {
+       "t": "legile",
+       "w": "legile",
+       "heb": "בְּמִשְׁפָּטַי",
+       "translit": "bemișpatai",
+       "strong": "H4941",
        "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "sărbătorile, timpurile rânduite ale Mele.",
-       "greek": "ἑορταί μου (heortai mou)",
-       "greek_def_ro": "ἑορταί μου (heortai mou) — sărbătorile mele.",
-       "dict_ro": "Moed — timpul fixat, întâlnirea rânduită; „soroacele Mele” sunt sărbătorile descrise pe larg în pericopa Emor (Levitic 23) — legătura cea mai directă dintre pericopă și această haftara. Metzudat David explică că preoții trebuie să păzească legile jertfelor pentru fiecare sărbătoare și să sfințească Sabatele prin jertfele datorate în ziua aceea; iar în pricinile de judecată să judece „după judecățile Torei, nu după părerea lor”."
+       "def_ro": "după rânduielile Mele",
+       "dict_ro": "Mișpat înseamnă „judecată”, „rânduială”, adică hotărârile care fac dreptate. Judecățile sunt date ca omul să le facă și să trăiască prin ele.",
+       "greek": "δικαίωμα (dikaioma)",
+       "greek_def_ro": "δικαίωμα (dikaioma) — rânduială",
+       "diff_ro": "Ebraica: „legile Mele” (bemișpatai); Septuaginta: „rânduielile Mele” (δικαιώματά)."
       },
       {
-       "t": " să le păzească și Șabaturile Mele să le sfințească.",
-       "w": " să le păzească și Șabaturile Mele să le sfințească.",
-       "heb": "יִשְׁמֹרוּ וְאֶת שַׁבְּתוֹתַי יְקַדֵּשׁוּ",
-       "translit": "ișmoru veet șabtotai iekadēșu",
+       "t": " Mele; "
+      },
+      {
+       "t": "învățăturile",
+       "w": "învățăturile",
+       "heb": "תּוֹרֹתַי",
+       "translit": "torotai",
+       "strong": "H8451",
+       "pos": "substantiv, feminin plural construct + sufix",
+       "def_ro": "legile Mele",
+       "dict_ro": "Tora înseamnă propriu-zis „învățătură, îndrumare”, din rădăcina iara, „a arăta direcția”. Desemnează fie o anumită învățătură, fie Legea dată la Sinai, fie cele cinci cărți ale lui Moise. Septuaginta a redat-o prin nomos, „lege”, ceea ce a îngustat sensul de „învățătură” spre cel juridic.",
+       "greek": "νόμιμος (nomimos)",
+       "greek_def_ro": "νόμιμος (nomimos) — legiuire",
+       "diff_ro": "Ebraica: „învățăturile Mele” (torotai); Septuaginta: „legiuirile Mele” (νόμιμά)."
+      },
+      {
+       "t": " Mele și "
+      },
+      {
+       "t": "decretele",
+       "w": "decretele",
+       "heb": "חֻקֹּתַי",
+       "translit": "hukotai",
+       "strong": "H2708",
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "hotărârile Mele",
+       "dict_ro": "Hoq înseamnă „lege”, „hotărâre”. Decretele sunt rânduielile date lui Israel (Exodul 15:25: la Mara, Dumnezeu le-a pus «lege și rânduială»); Radak: de acolo începe porunca lor.",
+       "greek": "πρόσταγμα (prostagma)",
+       "greek_def_ro": "πρόσταγμα (prostagma) — poruncă"
+      },
+      {
+       "t": " legate de "
+      },
+      {
+       "t": "soroacele",
+       "w": "soroacele",
+       "heb": "בְּכָל מוֹעֲדַי",
+       "translit": "behal moadai",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin plural construct + sufix",
+       "def_ro": "toate sărbătorile Mele",
+       "dict_ro": "„Kol moadai”, „toate sărbătorile Mele”, cuprinde pe cele rânduite în Levitic 23. Preoții păstrează legile și decretele pentru ele și sfințesc Șabaturile.",
+       "greek": "ἑορτή (heorte)",
+       "greek_def_ro": "ἑορτή (heorte) — sărbătoare",
+       "diff_ro": "Ebraica: „soroacele Mele” (moadai); Septuaginta: „sărbătorile Mele” (ἑορταῖς)."
+      },
+      {
+       "t": " Mele să le "
+      },
+      {
+       "t": "păzească",
+       "w": "păzească",
+       "heb": "יִשְׁמֹרוּ",
+       "translit": "ișmoru",
        "strong": "H8104",
-       "pos": "verb, qal imperfect + marcă a complementului direct + substantiv plural construct + sufix + verb, piel imperfect",
-       "def_ro": "vor păzi, și Sabatele Mele le vor sfinți.",
-       "dict_ro": "Radak explică faptul că «soroacele Mele» se referă la rânduielile jertfelor de sărbătoare, iar sfințirea Sabatelor se face concret prin jertfele datorate exact în ziua aceea."
+       "pos": "verb, qal imperfect",
+       "def_ro": "vor păzi",
+       "dict_ro": "Șamar înseamnă a păzi, a veghea asupra unui lucru; „a păzi poruncile” înseamnă a le împlini cu grijă. Omul a fost pus în grădina Edenului „ca s-o lucreze și s-o păzească” (Geneza 2:15).",
+       "greek": "φυλάσσω (phylasso)",
+       "greek_def_ro": "φυλάσσω (phylasso) — a păzi"
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "Șabaturile",
+       "w": "Șabaturile",
+       "heb": "שַׁבְּתוֹתַי",
+       "translit": "șabtotai",
+       "strong": "H7676",
+       "pos": "substantiv, masculin și feminin plural construct + sufix",
+       "def_ro": "sabatele Mele",
+       "dict_ro": "Șabat înseamnă „odihnă”, ziua a șaptea, dată lui Israel ca dar (Exodul 16:29). Radak spune că „Șabaturile” cuprind și sărbătorile, care sunt amintirea ieșirii din Egipt.",
+       "greek": "σάββατον (sabbaton)",
+       "greek_def_ro": "σάββατον (sabbaton) — sabat"
+      },
+      {
+       "t": " Mele să le "
+      },
+      {
+       "t": "sfințească",
+       "w": "sfințească",
+       "heb": "יְקַדֵּשׁוּ",
+       "translit": "iekadēșu",
+       "strong": "H6942",
+       "pos": "verb, piel imperfect",
+       "def_ro": "vor sfinți",
+       "dict_ro": "Qadaș în Piel înseamnă „a sfinți”. Hainele sfinte sfințesc pe cine le atinge (Exodul 29:37, Leviticul 6:20), de aceea preoții nu ies cu ele la popor; la 44:24, ei sfințesc Șabaturile.",
+       "greek": "ἁγιάζω (hagiazo)",
+       "greek_def_ro": "ἁγιάζω (hagiazo) — a sfinți"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -168228,14 +169665,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְעַל־רִיב הֵמָּה יַעַמְדוּ לְשָׁפְט...",
        "translation": "„Și legat de orice dispută, să...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Ketiv (scris): לשפט; Qere (citit): לְמִשְׁפָּ֔ט. Ketiv (scris): ושפטהו; Qere (citit): יִשְׁפְּט֑וּהוּ."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἐπὶ κρίσιν αἵματος οὗτοι ἐπιστήσονται τοῦ διακρίνειν· τὰ δικαιώματά μου δικαιώσουσι καὶ τὰ κρίματά μου κρινοῦσι καὶ τὰ νόμιμά μου καὶ τὰ προστάγματά μου ἐν πάσαις ταῖς ἑορταῖς μου φυλάξονται καὶ τὰ σάββατά μου ἁγιάσουσι.",
+       "original": "καὶ ἐπὶ κρίσιν αἵματος οὗτοι ἐπιστήσονται τοῦ διακρίνειν τὰ δικαιώματά μου δικαιώσουσιν καὶ τὰ κρίματά μου κρινοῦσιν καὶ τὰ νόμιμά μου καὶ τὰ προστάγματά μου ἐν πάσαις ταῖς ἑορταῖς μου φυλάξονται καὶ τὰ σάββατά μου ἁγιάσουσιν",
        "greek": true,
-       "translation": "„Și la judecată de sânge aceștia vor sta ca să hotărască; rânduielile Mele le vor împlini și judecățile Mele le vor judeca, și legiuirile Mele și poruncile Mele la toate sărbătorile Mele le vor păzi și Sabatele Mele le vor sfinți.”",
-       "note": "Septuaginta redă „dispută” (riv) prin „judecată de sânge” (κρίσιν αἵματος), restrângând competența preoților la pricinile capitale."
+       "translation": "„Și la judecată de sânge aceștia vor sta ca să hotărască; rânduielile Mele le vor împlini și judecățile Mele le vor judeca, și legile Mele și poruncile Mele la toate sărbătorile Mele le vor păzi și sabatele Mele le vor sfinți.”",
+       "note": "Septuaginta redă „dispută” (riv) prin „judecată de sânge” (κρίσιν αἵματος) și numește patru termeni pentru rânduieli (δικαιώματα, κρίματα, νόμιμα, προστάγματα)."
       }
      ],
      "refs": [
@@ -168263,40 +169700,203 @@
      "translit": "Veel-met adam lo yavo letamea ki im-leav uleem uleven ulevat leah uleahot așer lo-haita leiș yitamu.",
      "tokens": [
       {
-       "t": "Și să nu vină la",
-       "w": "Și să nu vină la",
-       "heb": "וְאֶל",
-       "translit": "veel",
-       "strong": "H413",
-       "pos": "prepoziție",
-       "def_ro": "și la.",
-       "dict_ro": "Radak precizează că această interdicție de a se apropia de un mort se referă la preotul obișnuit, nu la marele preot, pentru care restricția era și mai strictă."
+       "t": "Și să nu "
+      },
+      {
+       "t": "vină",
+       "w": "vină",
+       "heb": "יָבוֹא",
+       "translit": "iavo",
+       "strong": "H935",
+       "pos": "verb, qal imperfect",
+       "def_ro": "va intra",
+       "dict_ro": "Bo e verbul venirii și al intrării; în profeți descrie adesea împlinirea: ceea ce a fost vestit „vine”, adică se întâmplă (Isaia 42:9). La forma cauzativă, hevi, înseamnă „a aduce” — cu un sens aparte în făgăduința strângerii exilaților (Isaia 43:5).",
+       "greek": "εἰσέρχομαι (eiserchomai)",
+       "greek_def_ro": "εἰσέρχομαι (eiserchomai) — a intra"
+      },
+      {
+       "t": " la un "
+      },
+      {
+       "t": "trup",
+       "w": "trup",
+       "heb": "אָדָם",
+       "translit": "adam",
+       "strong": "H120",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "om",
+       "dict_ro": "Adam înseamnă „om”, omenirea în general; e legat în Geneza de adama, „pământul” din care a fost luat (Geneza 2:7). Ca nume propriu, desemnează primul om.",
+       "greek": "ἄνθρωπος (anthropos)",
+       "greek_def_ro": "ἄνθρωπος (anthropos) — om"
       },
       {
        "t": " "
       },
       {
-       "t": "un trup mort",
-       "w": "un trup mort",
+       "t": "mort",
+       "w": "mort",
        "heb": "מֵת",
        "translit": "mēt",
        "strong": "H4191",
        "pos": "verb, qal participiu",
-       "def_ro": "un mort, un cadavru de om.",
-       "greek": "ψυχὴ ἀνθρώπου (psyche anthropou)",
-       "greek_def_ro": "ψυχὴ ἀνθρώπου (psyche anthropou) — sufletul/persoana unui om (idiom pentru trup mort).",
-       "diff_ro": "Septuaginta are „ψυχὴν ἀνθρώπου\" („sufletul/persoana unui om\"), o formulare diferită de „un trup mort\" (met adam) din ebraică, dar cu același sens practic — contactul cu un cadavru.",
-       "dict_ro": "Met — mortul; contactul cu un cadavru e sursa cea mai gravă de necurăție rituală (tumat met), de care preotul trebuie să se ferească, cu excepția rudelor apropiate enumerate aici și în Leviticul 21:1-3 — legea care deschide chiar pericopa Emor. Radak precizează că e vorba de preotul obișnuit, marele preot neavând voie să se facă necurat nici pentru părinții lui (Leviticul 21:11); Metzudat David explică „sora care n-a fost cu un bărbat”: care n-a fost căsătorită."
+       "def_ro": "mort",
+       "dict_ro": "Mut înseamnă „a muri”. «Mēt» este mortul de care preotul nu se apropie ca să nu se întineze, cu excepția rudelor apropiate (Leviticul 21:1-3).",
+       "greek": "ψυχή (psyche)",
+       "greek_def_ro": "ψυχή (psyche) — suflet",
+       "diff_ro": "Ebraica: „mort” (mēt); Septuaginta: „suflet” (ψυχὴν), în „suflet de om”."
       },
       {
-       "t": " ca să devină necurați, ci numai pentru tată și pentru mamă, pentru fiu și pentru fiică, pentru frate și pentru soră care nu a fost niciodată cu un bărbat să devină necurați.",
-       "w": " ca să devină necurați, ci numai pentru tată și pentru mamă, pentru fiu și pentru fiică, pentru frate și pentru soră care nu a fost niciodată cu un bărbat să devină necurați.",
-       "heb": "אָדָם לֹא יָבוֹא לְטָמְאָה כִּי אִם לְאָב וּלְאֵם וּלְבֵן וּלְבַת לְאָח וּלְאָחוֹת אֲשֶׁר לֹא הָיְתָה לְאִישׁ יִטַּמָּאוּ",
-       "translit": "adam lo iavo letama ki im leav ulēm ulvēn ulvat leah ulahot așer lo haita leiș itamau",
-       "strong": "H120",
-       "pos": "substantiv + particulă negativă + verb, qal imperfect + verb, qal infinitiv + conjuncție + conjuncție + substantiv + substantiv + substantiv + substantiv + substantiv + substantiv + particulă relativă + particulă negativă + verb, qal perfect + substantiv + verb, hitpael imperfect",
-       "def_ro": "om, nu va veni ca să se pângărească, decât pentru tată și pentru mamă, și pentru fiu și pentru fiică, pentru frate și pentru soră care n-a fost cu un bărbat, se vor pângări.",
-       "dict_ro": "Metzudat David precizează că «nu a fost cu un bărbat» înseamnă necăsătorită — excepția se aplică doar surorii nemăritate, nu uneia deja soție, pentru care restricția de apropiere rămâne în vigoare."
+       "t": " ca să devină "
+      },
+      {
+       "t": "necurați",
+       "w": "necurați",
+       "heb": "לְטָמְאָה",
+       "translit": "letama",
+       "strong": "H2930",
+       "pos": "verb, qal infinitiv",
+       "def_ro": "ca să se întineze",
+       "dict_ro": "Tame înseamnă „a fi necurat”, „a întina”. În Leviticul 18:24-30, neamurile s-au întinat prin faptele pe care Legea le interzice; aici aceeași necurăție ajunge la Ierusalim.",
+       "greek": "μιαίνω (miaino)",
+       "greek_def_ro": "μιαίνω (miaino) — a se întina"
+      },
+      {
+       "t": ", ci numai pentru "
+      },
+      {
+       "t": "tată",
+       "w": "tată",
+       "heb": "לְאָב",
+       "translit": "leav",
+       "strong": "H1",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "pentru tată",
+       "dict_ro": "Av înseamnă „tată”. Tatăl este primul dintre rudele pentru care preotul se poate întina (Leviticul 21:2); amintirea lor arată că doliul familial este îngăduit.",
+       "greek": "πατήρ (pater)",
+       "greek_def_ro": "πατήρ (pater) — tată"
+      },
+      {
+       "t": " și pentru "
+      },
+      {
+       "t": "mamă",
+       "w": "mamă",
+       "heb": "וּלְאֵם",
+       "translit": "ulēm",
+       "strong": "H517",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "și pentru mamă",
+       "dict_ro": "Em înseamnă „mamă”. Mama este printre rudele de aproape pentru care preotul își poate îngădui doliul (Leviticul 21:2).",
+       "greek": "μήτηρ (meter)",
+       "greek_def_ro": "μήτηρ (meter) — mamă"
+      },
+      {
+       "t": ", pentru "
+      },
+      {
+       "t": "fiu",
+       "w": "fiu",
+       "heb": "וּלְבֵן",
+       "translit": "ulvēn",
+       "strong": "H1121",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și pentru fiu",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
+      },
+      {
+       "t": " și pentru "
+      },
+      {
+       "t": "fiică",
+       "w": "fiică",
+       "heb": "וּלְבַת",
+       "translit": "ulvat",
+       "strong": "H1323",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "și pentru fiică",
+       "dict_ro": "Bat, „fiică”, e forma feminină a lui ben. În poezia profetică, un oraș sau un popor e adesea înfățișat ca o fiică — „fiica Sionului” (bat Țion) e Ierusalimul însuși.",
+       "greek": "θυγάτηρ (thygater)",
+       "greek_def_ro": "θυγάτηρ (thygater) — fiică"
+      },
+      {
+       "t": ", pentru "
+      },
+      {
+       "t": "frate",
+       "w": "frate",
+       "heb": "לְאָח",
+       "translit": "leah",
+       "strong": "H251",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "pentru frate",
+       "dict_ro": "Ah înseamnă „frate”. Fratele face parte din cercul rudelor apropiate pentru care preotul se poate întina; același cerc este amintit și în Leviticul 21:2-3.",
+       "greek": "ἀδελφός (adelphos)",
+       "greek_def_ro": "ἀδελφός (adelphos) — frate"
+      },
+      {
+       "t": " și pentru "
+      },
+      {
+       "t": "soră",
+       "w": "soră",
+       "heb": "וּלְאָחוֹת",
+       "translit": "ulahot",
+       "strong": "H269",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "și pentru soră",
+       "dict_ro": "Ahot înseamnă „soră”. Sora nemăritată este una dintre rudele pentru care preotul se întinează (Leviticul 21:3), căci ea nu este încă a altui bărbat.",
+       "greek": "ἀδελφή (adelphe)",
+       "greek_def_ro": "ἀδελφή (adelphe) — soră"
+      },
+      {
+       "t": " care nu "
+      },
+      {
+       "t": "a fost",
+       "w": "a fost",
+       "heb": "הָיְתָה",
+       "translit": "haita",
+       "strong": "H1961",
+       "pos": "verb, qal perfect",
+       "def_ro": "a fost",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "γίνομαι (ginomai)",
+       "greek_def_ro": "γίνομαι (ginomai) — a fi"
+      },
+      {
+       "t": " niciodată cu un "
+      },
+      {
+       "t": "bărbat",
+       "w": "bărbat",
+       "heb": "לְאִישׁ",
+       "translit": "leiș",
+       "strong": "H376",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "unui bărbat",
+       "dict_ro": "Iș înseamnă „bărbat”. Sora este cea „care n-a fost a unui bărbat”, adică neîmpreunată cu nimeni; preotul se întinează pentru ea, nu pentru femei măritate.",
+       "greek": "ἀνήρ (aner)",
+       "greek_def_ro": "ἀνήρ (aner) — bărbat"
+      },
+      {
+       "t": " să devină "
+      },
+      {
+       "t": "necurați",
+       "w": "necurați",
+       "heb": "יִטַּמָּאוּ",
+       "translit": "itamau",
+       "strong": "H2930",
+       "pos": "verb, hitpael imperfect",
+       "def_ro": "se vor întina",
+       "dict_ro": "Tame înseamnă „a fi necurat”, „a întina”. În Leviticul 18:24-30, neamurile s-au întinat prin faptele pe care Legea le interzice; aici aceeași necurăție ajunge la Ierusalim.",
+       "greek": "μιαίνω (miaino)",
+       "greek_def_ro": "μιαίνω (miaino) — a se întina"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -168304,14 +169904,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְאֶל־מֵת אָדָם לֹא יָבוֹא...",
        "translation": "„Și să nu vină la un...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
        "original": "καὶ ἐπὶ ψυχὴν ἀνθρώπου οὐκ εἰσελεύσονται τοῦ μιανθῆναι, ἀλλ’ ἢ ἐπὶ πατρὶ καὶ ἐπὶ μητρὶ καὶ ἐπὶ υἱῷ καὶ ἐπὶ θυγατρὶ καὶ ἐπὶ ἀδελφῷ καὶ ἐπὶ ἀδελφῇ αὐτοῦ, ἣ οὐ γέγονεν ἀνδρί, μιανθήσεται.",
        "greek": true,
        "translation": "„Și la suflet de om [mort] nu vor intra ca să se pângărească, ci numai pentru tată și pentru mamă și pentru fiu și pentru fiică și pentru frate și pentru sora lui care n-a fost a unui bărbat se va pângări.”",
-       "note": "Corespondență strânsă; „mort” e redat prin „suflet de om” (ψυχὴν ἀνθρώπου), ca și în Levitic 21:1 după Septuaginta."
+       "note": "Redare apropiată de ebraică; „om mort” (mēt adam) este „suflet de om” (ψυχὴν ἀνθρώπου)."
       }
      ],
      "refs": [
@@ -168338,39 +169938,67 @@
      "translit": "Veaharei toharato șivat yamim yisperu-lo.",
      "tokens": [
       {
-       "t": "Iar după ce [un preot] se va curăța, să numere pentru sine",
-       "w": "Iar după ce [un preot] se va curăța, să numere pentru sine",
-       "heb": "וְאַחֲרֵי טָהֳרָתוֹ",
-       "translit": "veaharē tahorato",
-       "strong": "H310",
-       "pos": "prepoziție + substantiv construct + sufix",
-       "def_ro": "și după curățirea lui.",
-       "dict_ro": "Rashi explică «după curățirea lui» ca referindu-se la momentul despărțirii de mort, potrivit explicației din tratatul Moed Katan (15b) — curăția începe exact din acel moment, nu mai târziu."
+       "t": "Iar după ce [un preot] se va "
+      },
+      {
+       "t": "curăța",
+       "w": "curăța",
+       "heb": "טָהֳרָתוֹ",
+       "translit": "tahorato",
+       "strong": "H2893",
+       "pos": "substantiv, masculin și feminin singular construct + sufix",
+       "def_ro": "după curățirea lui",
+       "dict_ro": "Tahara înseamnă „curățire”. După curățire se așteaptă șapte zile (Numeri 19:11-12); în Ezechiel, preotul care s-a întinat își numără șapte zile înainte de a reveni în slujbă.",
+       "greek": "καθαρίζω (katharizo)",
+       "greek_def_ro": "καθαρίζω (katharizo) — a se curăți"
+      },
+      {
+       "t": ", să "
+      },
+      {
+       "t": "numere",
+       "w": "numere",
+       "heb": "יִסְפְּרוּ",
+       "translit": "isperu",
+       "strong": "H5608",
+       "pos": "verb, qal imperfect",
+       "def_ro": "vor număra",
+       "dict_ro": "Safar înseamnă „a număra”. Numărarea celor șapte zile este timpul rânduit pentru curățirea preotului înainte de a intra din nou în sanctuar.",
+       "greek": "ἐξαριθμέω (exarithmeo)",
+       "greek_def_ro": "ἐξαριθμέω (exarithmeo) — a număra"
+      },
+      {
+       "t": " pentru sine "
+      },
+      {
+       "t": "șapte",
+       "w": "șapte",
+       "heb": "שִׁבְעַת",
+       "translit": "șivat",
+       "strong": "H7651",
+       "pos": "numeral",
+       "def_ro": "șapte",
+       "dict_ro": "Șeva înseamnă „șapte”, numărul perioadelor de curățire și al săptămânii. Șapte zile de așteptare marchează întoarcerea la slujbă.",
+       "greek": "ἑπτά (hepta)",
+       "greek_def_ro": "ἑπτά (hepta) — șapte"
       },
       {
        "t": " "
       },
       {
-       "t": "șapte zile",
-       "w": "șapte zile",
-       "heb": "שִׁבְעַת",
-       "translit": "șivat",
-       "strong": "H7651",
-       "pos": "numeral",
-       "def_ro": "șapte zile.",
-       "greek": "ἑπτὰ ἡμέρας (hepta hemeras)",
-       "greek_def_ro": "ἑπτὰ ἡμέρας (hepta hemeras) — șapte zile.",
-       "dict_ro": "Șivat iamim — perioada de purificare după contactul cu un mort (Numeri 19:11-12). Versetul ridică o întrebare: purificarea obișnuită durează deja șapte zile, atunci ce sunt aceste „șapte zile” numărate „după curățire”? Rashi și Metzudat David, după înțelepți (Moed Katan 15b), explică „după curățire” ca „după despărțirea de mort”; Radak propune și posibilitatea unei rânduieli noi pentru viitor, o sporire a sfințeniei, cu încă șapte zile după purificare. Metzudat David adaugă că frații preoți numără pentru el, ca să nu intre din greșeală."
+       "t": "zile",
+       "w": "zile",
+       "heb": "יָמִים",
+       "translit": "iamim",
+       "strong": "H3117",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "zile",
+       "dict_ro": "Iom înseamnă „zi”. În „ziua intrării” în sanctuar, preotul aduce jertfa de păcat pentru el însuși, înainte de a sluji (Levitic 4).",
+       "greek": "ἡμέρα (hemera)",
+       "greek_def_ro": "ἡμέρα (hemera) — zi"
       },
       {
-       "t": ".",
-       "w": ".",
-       "heb": "שִׁבְעַת יָמִים יִסְפְּרוּ לוֹ",
-       "translit": "șivat iamim isperu lo",
-       "strong": "H7651",
-       "pos": "numeral + substantiv plural + verb, qal imperfect + prepoziție + sufix",
-       "def_ro": "șapte zile se vor număra pentru el.",
-       "dict_ro": "Metzudat David explică faptul că frații lui, ceilalți preoți, trebuie să numere aceste șapte zile pentru el — ca, dacă el însuși uită, să nu fie lăsat să intre în Sanctuar înainte de vreme."
+       "t": "."
       }
      ],
      "textCompare": [
@@ -168378,14 +170006,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְאַחֲרֵי טָהֳרָתוֹ שִׁבְעַת יָמִים...",
        "translation": "„Iar după ce [un preot] se...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ μετὰ τὸ καθαρισθῆναι αὐτὸν ἑπτὰ ἡμέρας ἐξαριθμηθήσῃ αὐτῷ·",
+       "original": "καὶ μετὰ τὸ καθαρισθῆναι αὐτὸν ἑπτὰ ἡμέρας ἐξαριθμήσει αὐτῷ",
        "greek": true,
-       "translation": "„Și după ce se va curăți, șapte zile i se vor număra lui;”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "translation": "„Și după ce se va curăța, șapte zile i se vor număra.”",
+       "note": "Redare apropiată de ebraică; „să numere pentru sine” (isperu lo) este „i se vor număra” (ἐξαριθμήσει αὐτῷ)."
       }
      ],
      "refs": [
@@ -168415,14 +170043,123 @@
      "translit": "Uveyom boo el-hakodeș el-hehatzer hapenimit leșaret bakodeș yakriv hatato neum Adonai ELOHIM.",
      "tokens": [
       {
-       "t": "Și în ziua în care va intra în Sanctuar, în curtea interioară, ca să slujească în Sanctuar, să își aducă",
-       "w": "Și în ziua în care va intra în Sanctuar, în curtea interioară, ca să slujească în Sanctuar, să își aducă",
-       "heb": "וּבְיוֹם בֹּאוֹ אֶל הַקֹּדֶשׁ אֶל הֶחָצֵר הַפְּנִימִית לְשָׁרֵת בַּקֹּדֶשׁ יַקְרִיב",
-       "translit": "uviom boo el hakodeș el hehațēr hapnimit leșarēt bakodeș iakriv",
+       "t": "Și în "
+      },
+      {
+       "t": "ziua",
+       "w": "ziua",
+       "heb": "וּבְיוֹם",
+       "translit": "uviom",
        "strong": "H3117",
-       "pos": "substantiv construct + verb, qal infinitiv + sufix + prepoziție + substantiv + prepoziție + substantiv + adjectiv + verb, piel infinitiv + prepoziție + substantiv + verb, hifil imperfect",
-       "def_ro": "și în ziua intrării lui în cele sfinte, în curtea interioară, ca să slujească în cele sfinte, va aduce.",
-       "dict_ro": "Rashi explică faptul că această primă intrare, pentru inițierea în slujire, cere o jertfă specifică — a zecea parte dintr-o efă — potrivit Levitic 6:20 și explicației din tratatul Menahot (51b)."
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "în ziua",
+       "dict_ro": "Iom înseamnă „zi”. În „ziua intrării” în sanctuar, preotul aduce jertfa de păcat pentru el însuși, înainte de a sluji (Levitic 4).",
+       "greek": "ἡμέρα (hemera)",
+       "greek_def_ro": "ἡμέρα (hemera) — zi"
+      },
+      {
+       "t": " în care va "
+      },
+      {
+       "t": "intra",
+       "w": "intra",
+       "heb": "בֹּאוֹ",
+       "translit": "boo",
+       "strong": "H935",
+       "pos": "verb, qal infinitiv + sufix",
+       "def_ro": "intrării lui",
+       "dict_ro": "Bo e verbul venirii și al intrării; în profeți descrie adesea împlinirea: ceea ce a fost vestit „vine”, adică se întâmplă (Isaia 42:9). La forma cauzativă, hevi, înseamnă „a aduce” — cu un sens aparte în făgăduința strângerii exilaților (Isaia 43:5).",
+       "greek": "εἰσπορεύομαι (eisporeuomai)",
+       "greek_def_ro": "εἰσπορεύομαι (eisporeuomai) — a intra"
+      },
+      {
+       "t": " în "
+      },
+      {
+       "t": "Sanctuar",
+       "w": "Sanctuar",
+       "heb": "הַקֹּדֶשׁ",
+       "translit": "hakodeș",
+       "strong": "H6944",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "în locașul sfânt",
+       "dict_ro": "Qodeș înseamnă „sfânt”, „sfințenie”. Ezechiel oprește ca sfințenia preoțească să treacă prin atingerea hainelor asupra poporului, nu fiindcă ar fi periculos, ci ca să-i păstreze deosebirea.",
+       "diff_ro": "Septuaginta nu are prima mențiune a „Sanctuarului” (hakodeș), dinaintea curții."
+      },
+      {
+       "t": ", în "
+      },
+      {
+       "t": "curtea",
+       "w": "curtea",
+       "heb": "הֶחָצֵר",
+       "translit": "hehațēr",
+       "strong": "H2691",
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "curtea",
+       "dict_ro": "Hațer înseamnă o curte îngrădită și, prin extensie, un sat fără ziduri, o tabără de corturi — potrivit pentru nomazii din Kedar. Același cuvânt desemnează curțile Templului.",
+       "greek": "αὐλή (aule)",
+       "greek_def_ro": "αὐλή (aule) — curte"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "interioară",
+       "w": "interioară",
+       "heb": "הַפְּנִימִית",
+       "translit": "hapnimit",
+       "strong": "H6442",
+       "pos": "adjectiv, feminin singular",
+       "def_ro": "dinăuntru",
+       "dict_ro": "Penimi înseamnă „dinăuntru”, „interior”. Curtea interioară este locul unde preoții slujesc, deosebită de cea din afară, în care intră poporul (Ezechiel 40:28).",
+       "greek": "ἐσώτερος (esoteros)",
+       "greek_def_ro": "ἐσώτερος (esoteros) — dinăuntru"
+      },
+      {
+       "t": ", ca să "
+      },
+      {
+       "t": "slujească",
+       "w": "slujească",
+       "heb": "לְשָׁרֵת",
+       "translit": "leșarēt",
+       "strong": "H8334",
+       "pos": "verb, piel infinitiv",
+       "def_ro": "ca să slujească",
+       "dict_ro": "Șaret în Piel înseamnă „a sluji”, mai ales în Locaș. Preoții „slujesc” în fața lui Dumnezeu; serviciul lor nu este o funcție publică, ci o slujire față de Domnul.",
+       "greek": "λειτουργέω (leitourgeo)",
+       "greek_def_ro": "λειτουργέω (leitourgeo) — a sluji"
+      },
+      {
+       "t": " în "
+      },
+      {
+       "t": "Sanctuar",
+       "w": "Sanctuar",
+       "heb": "בַּקֹּדֶשׁ",
+       "translit": "bakodeș",
+       "strong": "H6944",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "în locașul sfânt",
+       "dict_ro": "Qodeș înseamnă „sfânt”, „sfințenie”. Ezechiel oprește ca sfințenia preoțească să treacă prin atingerea hainelor asupra poporului, nu fiindcă ar fi periculos, ci ca să-i păstreze deosebirea.",
+       "greek": "ἅγιος (hagios)",
+       "greek_def_ro": "ἅγιος (hagios) — sfânt"
+      },
+      {
+       "t": ", să își "
+      },
+      {
+       "t": "aducă",
+       "w": "aducă",
+       "heb": "יַקְרִיב",
+       "translit": "iakriv",
+       "strong": "H7126",
+       "pos": "verb, hifil imperfect",
+       "def_ro": "va aduce",
+       "dict_ro": "Qarav înseamnă „a se apropia”, în Hifil „a aduce”. Preoții se apropie de Dumnezeu și aduc jertfele; cuvântul este centrul vocabularului jertfelor (Leviticul 1:2).",
+       "greek": "προσφέρω (prosphero)",
+       "greek_def_ro": "προσφέρω (prosphero) — a aduce"
       },
       {
        "t": " "
@@ -168434,21 +170171,59 @@
        "translit": "hatato",
        "strong": "H2403",
        "pos": "substantiv, feminin singular construct + sufix",
-       "def_ro": "jertfa lui de ispășire pentru păcat.",
+       "def_ro": "jertfa lui pentru păcat",
+       "dict_ro": "Hatat înseamnă „păcat” și „jertfă pentru păcat”. Preotul își aduce jertfa pentru păcat în ziua în care reintră în slujbă (Ezechiel 44:27), ca și cum slujba cere o curățire proprie.",
        "greek": "ἱλασμός (hilasmos)",
-       "greek_def_ro": "ἱλασμός (hilasmos) — jertfă de ispășire.",
-       "diff_ro": "Septuaginta are termenul general „ἱλασμόν\" („jertfă de ispășire\"), nu specific „jertfă de păcat\" (chatat) ca în ebraică.",
-       "dict_ro": "Hatat — jertfa pentru păcat, de la hata, „a greși ținta”. Rashi și Metzudat David o identifică, după înțelepți (Moed Katan 16a; Menahot 51b), cu „a zecea parte de efă” de făină pe care preotul obișnuit o aduce în ziua în care începe să slujească (Leviticul 6:20). Radak nu e convins: el observă că versetul vorbește despre preotul obișnuit care s-a făcut necurat pentru o rudă și vede aici fie o jertfă nouă pentru viitor, fie regula că preotul nu-și poate aduce jertfele în zilele necurăției."
+       "greek_def_ro": "ἱλασμός (hilasmos) — ispășire",
+       "diff_ro": "Ebraica: „jertfa sa de păcat” (hatato); Septuaginta: „ispășire” (ἱλασμόν)."
       },
       {
-       "t": " – rostirea Stăpânului meu, Domnul DUMNEZEU.",
-       "w": " – rostirea Stăpânului meu, Domnul DUMNEZEU.",
-       "heb": "נְאֻם אֲדֹנָי יְהוִה",
-       "translit": "neum adonai Adonai",
+       "t": " – "
+      },
+      {
+       "t": "rostirea",
+       "w": "rostirea",
+       "heb": "נְאֻם",
+       "translit": "neum",
        "strong": "H5002",
-       "pos": "substantiv construct + substantiv construct + sufix + nume propriu",
-       "def_ro": "rostirea Stăpânului meu, DOMNUL.",
-       "dict_ro": "Radak observă o dificultate: «jertfa lui de păcat» nu poate fi a zecea parte de efă, căci acel verset vorbește despre preotul obișnuit, pângărit prin contactul cu un mort, nu despre jertfa zilnică a marelui preot — o nuanță pe care alți comentatori au trecut-o cu vederea."
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "spusa",
+       "dict_ro": "Neum, „rostirea”, apare aproape numai în formula neum Adonai, „rostirea DOMNULUI”, cu care profetul își pecetluiește vestea. Formula e foarte frecventă la Ieremia și Ezechiel.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune",
+       "diff_ro": "Ebraica: substantivul „rostirea” (neum); Septuaginta: verbul „zice” (λέγει)."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Stăpânului",
+       "w": "Stăpânului",
+       "heb": "אֲדֹנָי",
+       "translit": "adonai",
+       "strong": "H136",
+       "pos": "substantiv, masculin plural construct + sufix",
+       "def_ro": "Stăpânului meu",
+       "dict_ro": "Adonai, „Stăpânul meu”, este titlul de stăpân al lui Dumnezeu. Ezechiel îl folosește mereu înaintea numelui divin, ca pe o formulă solemnă: Cel care vorbește este Stăpânul întregii istorii.",
+       "diff_ro": "Septuaginta nu are „Stăpânului meu” (adonai)."
+      },
+      {
+       "t": " meu, "
+      },
+      {
+       "t": "Domnul DUMNEZEU",
+       "w": "Domnul DUMNEZEU",
+       "heb": "יְהוִה",
+       "translit": "Adonai",
+       "strong": "H3069",
+       "pos": "nume propriu",
+       "def_ro": "Domnul DUMNEZEU",
+       "dict_ro": "Adonai Elohim, „Domnul DUMNEZEU”, este forma în care numele divin de patru litere stă după „Adonai”. Cartea lui Ezechiel o repetă de peste două sute de ori, ca să sublinieze autoritatea cuvântului profetic.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domnul Dumnezeu"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -168456,14 +170231,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וּבְיוֹם בֹּאוֹ אֶל־הַקֹּדֶשׁ אֶל־הֶחָצֵר...",
        "translation": "„Și în ziua în care va...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
        "original": "καὶ ᾗ ἂν ἡμέρᾳ εἰσπορεύωνται εἰς τὴν αὐλὴν τὴν ἐσωτέραν τοῦ λειτουργεῖν ἐν τῷ ἁγίῳ, προσοίσουσιν ἱλασμόν, λέγει Κύριος ὁ Θεός.",
        "greek": true,
        "translation": "„și în ziua în care vor intra în curtea dinăuntru ca să slujească în cel sfânt, vor aduce ispășire, zice Domnul Dumnezeu.”",
-       "note": "Septuaginta omite prima mențiune „în Sanctuar” și redă „jertfa sa de păcat” prin „ispășire” (ἱλασμόν), la plural („vor aduce”)."
+       "note": "Septuaginta pomenește „sfântul” o singură dată, redă „jertfa sa de păcat” (hatato) prin „ispășire” (ἱλασμόν) și încheie cu „zice Domnul Dumnezeu”, fără „Stăpânul meu”."
       }
      ],
      "refs": [
@@ -168494,39 +170269,144 @@
      "translit": "Vehaita lahem lenahala ani nahalatam ahuzza lo-titnu lahem beIsraël ani ahuzatam.",
      "tokens": [
       {
-       "t": "Și aceasta să fie moștenirea pentru ei: Eu sunt",
-       "w": "Și aceasta să fie moștenirea pentru ei: Eu sunt",
-       "heb": "וְהָיְתָה לָהֶם לְנַחֲלָה אֲנִי",
-       "translit": "vehaita lahem lenahala ani",
+       "t": "Și aceasta să "
+      },
+      {
+       "t": "fie",
+       "w": "fie",
+       "heb": "וְהָיְתָה",
+       "translit": "vehaita",
        "strong": "H1961",
-       "pos": "verb, qal perfect consecutiv + prepoziție + sufix + substantiv + pronume personal",
-       "def_ro": "și va fi pentru ei ca moștenire; Eu [sunt].",
-       "dict_ro": "Rashi explică simplu: «aceasta să fie pentru ei» înseamnă preoția însăși, dată ca moștenire — nu un teritoriu, ci însăși slujirea devine partea lor ereditară."
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "va fi",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "εἰμί (eimi)",
+       "greek_def_ro": "εἰμί (eimi) — a fi"
       },
       {
        "t": " "
       },
       {
-       "t": "moștenirea lor",
-       "w": "moștenirea lor",
+       "t": "moștenirea",
+       "w": "moștenirea",
        "heb": "לְנַחֲלָה",
        "translit": "lenahala",
        "strong": "H5159",
        "pos": "substantiv, feminin singular",
-       "def_ro": "moștenirea, partea lor de moștenire.",
+       "def_ro": "moștenire",
+       "dict_ro": "Nahala înseamnă „moștenire”. Preoții nu au moștenire de pământ în Israel (Numeri 18:20); moștenirea lor este Dumnezeu Însuși.",
        "greek": "κληρονομία (kleronomia)",
-       "greek_def_ro": "κληρονομία (kleronomia) — moștenire.",
-       "dict_ro": "Nahala — moștenirea, lotul de pământ primit în Țară; preoții și leviții nu primesc teritoriu, pentru că „Eu sunt moștenirea lor” (Numeri 18:20; Deuteronomul 18:1-2). Rashi și Radak înțeleg „aceasta” din începutul versetului ca preoția însăși, care le ține loc de pământ, iar Metzudat David explică scopul practic: să fie liberi pentru slujirea în Templu, trăind din ce rămâne din jertfe."
+       "greek_def_ro": "κληρονομία (kleronomia) — moștenire"
       },
       {
-       "t": ", să nu le dai nicio posesiune în Israel, Eu sunt posesiunea lor.",
-       "w": ", să nu le dai nicio posesiune în Israel, Eu sunt posesiunea lor.",
-       "heb": "נַחֲלָתָם וַאֲחֻזָּה לֹא תִתְּנוּ לָהֶם בְּיִשְׂרָאֵל אֲנִי אֲחֻזָּתָם",
-       "translit": "nahalatam vaahuza lo titnu lahem beisraēl ani ahuzatam",
+       "t": " pentru ei: "
+      },
+      {
+       "t": "Eu",
+       "w": "Eu",
+       "heb": "אֲנִי",
+       "translit": "ani",
+       "strong": "H589",
+       "pos": "pronume personal",
+       "def_ro": "Eu",
+       "dict_ro": "Ani, „Eu”, este pronumele solemn al lui Dumnezeu în încheierea profeției: «vei ști că Eu sunt DOMNUL». Accentul pe „Eu” arată că judecata și cunoașterea lui Dumnezeu vin de la Cel care a vorbit și va împlini.",
+       "greek": "ἐγώ (ego)",
+       "greek_def_ro": "ἐγώ (ego) — eu"
+      },
+      {
+       "t": " sunt "
+      },
+      {
+       "t": "moștenirea",
+       "w": "moștenirea",
+       "heb": "נַחֲלָתָם",
+       "translit": "nahalatam",
        "strong": "H5159",
-       "pos": "substantiv construct + sufix + substantiv + particulă negativă + verb, qal imperfect + prepoziție + sufix + nume propriu + pronume personal + substantiv construct + sufix",
-       "def_ro": "moștenirea lor; și posesiune nu le veți da în Israel; Eu [sunt] posesiunea lor.",
-       "dict_ro": "Metzudat David explică faptul că refuzul posesiunii de ogoare și vii are un scop practic: ca preoții să fie liberi să se ocupe exclusiv de slujirea Sanctuarului, fără griji pământești care să le distragă atenția."
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "moștenirea lor",
+       "dict_ro": "Nahala înseamnă „moștenire”. Preoții nu au moștenire de pământ în Israel (Numeri 18:20); moștenirea lor este Dumnezeu Însuși.",
+       "greek": "κληρονομία (kleronomia)",
+       "greek_def_ro": "κληρονομία (kleronomia) — moștenire"
+      },
+      {
+       "t": " lor, să nu le "
+      },
+      {
+       "t": "dai",
+       "w": "dai",
+       "heb": "תִתְּנוּ",
+       "translit": "titnu",
+       "strong": "H5414",
+       "pos": "verb, qal imperfect",
+       "def_ro": "veți da",
+       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6).",
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a se da",
+       "diff_ro": "Ebraica: „să nu dai” (lo titnu), activ; Septuaginta: „nu se va da” (οὐ δοθήσεται), pasiv."
+      },
+      {
+       "t": " nicio "
+      },
+      {
+       "t": "posesiune",
+       "w": "posesiune",
+       "heb": "וַאֲחֻזָּה",
+       "translit": "vaahuza",
+       "strong": "H272",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "stăpânire",
+       "dict_ro": "Ahuza înseamnă „posesiune”, „stăpânire”. Preoții nu primesc teren, ci Dumnezeu este stăpânirea lor; trăiesc din darurile aduse la Templu.",
+       "greek": "κατάσχεσις (kataschesis)",
+       "greek_def_ro": "κατάσχεσις (kataschesis) — stăpânire"
+      },
+      {
+       "t": " în "
+      },
+      {
+       "t": "Israel",
+       "w": "Israel",
+       "heb": "בְּיִשְׂרָאֵל",
+       "translit": "beisraēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "în Israel",
+       "dict_ro": "Numele Israel i-a fost dat lui Iacov după lupta de la Iaboc și i-a fost confirmat la Betel (Geneza 35:10); textul îl explică prin „ai luptat cu Dumnezeu și cu oamenii și ai biruit”. În profeți, „Iacov” și „Israel” apar adesea în paralel, desemnând același popor: primul e numele de la naștere, al doilea numele chemării.",
+       "greek": "Ἰσραήλ (Israel)",
+       "greek_def_ro": "Ἰσραήλ (Israel) — fiii lui Israel",
+       "diff_ro": "Ebraica: „în Israel” (beisraēl); Septuaginta: „între fiii lui Israel” (ἐν τοῖς υἱοῖς Ισραηλ)."
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "Eu",
+       "w": "Eu",
+       "heb": "אֲנִי",
+       "translit": "ani",
+       "strong": "H589",
+       "pos": "pronume personal",
+       "def_ro": "Eu",
+       "dict_ro": "Ani, „Eu”, este pronumele solemn al lui Dumnezeu în încheierea profeției: «vei ști că Eu sunt DOMNUL». Accentul pe „Eu” arată că judecata și cunoașterea lui Dumnezeu vin de la Cel care a vorbit și va împlini.",
+       "greek": "ἐγώ (ego)",
+       "greek_def_ro": "ἐγώ (ego) — eu"
+      },
+      {
+       "t": " sunt "
+      },
+      {
+       "t": "posesiunea",
+       "w": "posesiunea",
+       "heb": "אֲחֻזָּתָם",
+       "translit": "ahuzatam",
+       "strong": "H272",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "stăpânirea lor",
+       "dict_ro": "Ahuza înseamnă „posesiune”, „stăpânire”. Preoții nu primesc teren, ci Dumnezeu este stăpânirea lor; trăiesc din darurile aduse la Templu.",
+       "greek": "κατάσχεσις (kataschesis)",
+       "greek_def_ro": "κατάσχεσις (kataschesis) — stăpânire"
+      },
+      {
+       "t": " lor."
       }
      ],
      "textCompare": [
@@ -168534,7 +170414,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְהָיְתָה לָהֶם לְנַחֲלָה אֲנִי...",
        "translation": "„Și aceasta să fie moștenirea pentru...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -168573,7 +170453,22 @@
      "translit": "Haminha vehahatat vehaașam hema yochlum vechol-herem beIsraël lahem yihye.",
      "tokens": [
       {
-       "t": "Să mănânce "
+       "t": "Să "
+      },
+      {
+       "t": "mănânce",
+       "w": "mănânce",
+       "heb": "הֵמָּה יֹאכְלוּם",
+       "translit": "hēma iohlum",
+       "strong": "H1992",
+       "pos": "pronume personal + verb, qal imperfect + sufix",
+       "def_ro": "ei o vor mânca",
+       "dict_ro": "„Hem iohlum”, „ei o vor mânca”, arată că jertfele desemnate preoților sunt hrana lor, nu a poporului; Legea le rezervă porțiunile din jertfe (Levitic 6–7).",
+       "greek": "ἐσθίω (esthio)",
+       "greek_def_ro": "ἐσθίω (esthio) — a mânca"
+      },
+      {
+       "t": " "
       },
       {
        "t": "prinosul",
@@ -168582,21 +170477,91 @@
        "translit": "haminha",
        "strong": "H4503",
        "pos": "substantiv, feminin singular",
-       "def_ro": "darul de făină (jertfa nesângeroasă).",
+       "def_ro": "darul de mâncare",
+       "dict_ro": "Minha înseamnă „dar de mâncare”, jertfă din făină și untdelemn. O parte din ea este rezervată preoților (Leviticul 2:3).",
        "greek": "θυσία (thysia)",
-       "greek_def_ro": "θυσία (thysia) — jertfă (termen general).",
-       "diff_ro": "Septuaginta are termenul general „θυσίας\" („jertfele\"), nu specific „prinosul\" (minha, darul de grâu) ca în ebraică.",
-       "dict_ro": "Minha — darul, jertfa de făină; Metzudat David precizează că preoții mănâncă „ce rămâne din prinos”, după arderea părții de pe altar (Leviticul 2:3). „Toate cele consacrate” (herem) desemnează, după Rashi și Metzudat Țion, bunurile închinate Sanctuarului, care revin preoților (Numeri 18:14) — un sens al cuvântului herem diferit de cel de „nimicire totală” din relatările cuceririi."
+       "greek_def_ro": "θυσία (thysia) — jertfă",
+       "diff_ro": "Ebraica: „darul de mâncare” (minha); Septuaginta: „jertfele” (θυσίας)."
       },
       {
-       "t": ", jertfa de păcat și jertfa de vină, și toate cele consacrate prin jurământ să fie pentru ei.",
-       "w": ", jertfa de păcat și jertfa de vină, și toate cele consacrate prin jurământ să fie pentru ei.",
-       "heb": "וְהַחַטָּאת וְהָאָשָׁם הֵמָּה יֹאכְלוּם וְכָל חֵרֶם בְּיִשְׂרָאֵל לָהֶם יִהְיֶה",
-       "translit": "vehahatat vehaașam hēma iohlum vehal hērem beisraēl lahem ihie",
+       "t": ", "
+      },
+      {
+       "t": "jertfa de păcat",
+       "w": "jertfa de păcat",
+       "heb": "וְהַחַטָּאת",
+       "translit": "vehahatat",
        "strong": "H2403",
-       "pos": "substantiv + substantiv + pronume personal + verb, qal imperfect + sufix + substantiv construct + substantiv + nume propriu + prepoziție + sufix + verb, qal imperfect",
-       "def_ro": "și jertfa de păcat și jertfa de vină, ei le vor mânca; și tot ce e consacrat prin jurământ în Israel, al lor va fi.",
-       "dict_ro": "Metzudat Țion explică «herem» ca lucru sfințit, folosind aceeași rădăcină ca la Numeri 18:14: «tot ce e închinat în Israel va fi al tău» — un drept exclusiv al preoției asupra acestor consacrări."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "jertfa pentru păcat",
+       "dict_ro": "Hatat înseamnă „păcat” și „jertfă pentru păcat”. Preotul își aduce jertfa pentru păcat în ziua în care reintră în slujbă (Ezechiel 44:27), ca și cum slujba cere o curățire proprie.",
+       "greek": "ἁμαρτία (hamartia)",
+       "greek_def_ro": "ἁμαρτία (hamartia) — pentru păcat"
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "jertfa de vină",
+       "w": "jertfa de vină",
+       "heb": "וְהָאָשָׁם",
+       "translit": "vehaașam",
+       "strong": "H817",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "și jertfa pentru vină",
+       "dict_ro": "Așam înseamnă „jertfă pentru vină”. Preoții mănâncă din ea, ca și din jertfa pentru păcat, în locul sfânt (Leviticul 7:6).",
+       "greek": "ἄγνοια (agnoia)",
+       "greek_def_ro": "ἄγνοια (agnoia) — pentru neștiință",
+       "diff_ro": "Ebraica: „jertfa de vină” (așam); Septuaginta: „pentru neștiință” (ὑπὲρ ἀγνοίας)."
+      },
+      {
+       "t": ", și "
+      },
+      {
+       "t": "toate",
+       "w": "toate",
+       "heb": "וְכָל",
+       "translit": "vehal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tot",
+       "dict_ro": "Kol, „tot, întreg”, apare de mii de ori în Biblia ebraică. În Isaia subliniază universalitatea: toate popoarele și tot pământul sunt chemate să-L recunoască pe DOMNUL.",
+       "greek": "πᾶς (pas)",
+       "greek_def_ro": "πᾶς (pas) — tot"
+      },
+      {
+       "t": " cele "
+      },
+      {
+       "t": "consacrate prin jurământ",
+       "w": "consacrate prin jurământ",
+       "heb": "חֵרֶם",
+       "translit": "hērem",
+       "strong": "H2764",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "ce este închinat",
+       "dict_ro": "Herem înseamnă „ce este scos din uz profan și închinat lui Dumnezeu”, „consacrat prin jurământ” (Leviticul 27:21, 28). Ezechiel spune că toate cele consacrate astfel sunt ale preoților.",
+       "greek": "ἀφόρισμα (aphorisma)",
+       "greek_def_ro": "ἀφόρισμα (aphorisma) — pus deoparte",
+       "diff_ro": "Ebraica: „consacrat prin jurământ” (hērem); Septuaginta: „pus deoparte” (ἀφόρισμα)."
+      },
+      {
+       "t": " să "
+      },
+      {
+       "t": "fie",
+       "w": "fie",
+       "heb": "יִהְיֶה",
+       "translit": "ihie",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect",
+       "def_ro": "va fi",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "εἰμί (eimi)",
+       "greek_def_ro": "εἰμί (eimi) — a fi"
+      },
+      {
+       "t": " pentru ei."
       }
      ],
      "textCompare": [
@@ -168604,14 +170569,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "הַמִּנְחָה וְהַחַטָּאת וְהָאָשָׁם הֵמָּה...",
        "translation": "„Să mănânce prinosul, jertfa de păcat...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
        "original": "καὶ τὰς θυσίας καὶ τὰ ὑπὲρ ἁμαρτίας καὶ τὰ ὑπὲρ ἀγνοίας οὗτοι φάγονται, καὶ πᾶν ἀφόρισμα ἐν τῷ ᾿Ισραὴλ αὐτοῖς ἔσται·",
        "greek": true,
        "translation": "„Și jertfele și cele pentru păcat și cele pentru neștiință aceștia le vor mânca, și tot ce e pus deoparte în Israel va fi al lor.”",
-       "note": "Septuaginta redă „jertfa de vină” (așam) prin „[jertfa] pentru neștiință” (ὑπὲρ ἀγνοίας), accentuând caracterul involuntar al greșelii."
+       "note": "Septuaginta redă „darul de mâncare” (minha) prin „jertfele” (θυσίας), „jertfa de vină” (așam) prin „[jertfa] pentru neștiință” (ὑπὲρ ἀγνοίας) și „consacrat prin jurământ” (hērem) prin „pus deoparte” (ἀφόρισμα)."
       }
      ],
      "refs": [
@@ -168644,38 +170609,266 @@
      "translit": "Vereșit kol-bikurei chol vechol-terumat kol mikol terumoteichem lakohanim yihye vereșit arisoteichem titnu lakohen lehaniah beracha el-beitecha.",
      "tokens": [
       {
-       "t": "Și cele mai bune din primele roade de orice fel și toată donația de [recolte] de orice fel – din toate darurile donate – să meargă la preoți;",
-       "w": "Și cele mai bune din primele roade de orice fel și toată donația de [recolte] de orice fel – din toate darurile donate – să meargă la preoți;",
-       "heb": "וְרֵאשִׁית כָּל בִּכּוּרֵי כֹל וְכָל תְּרוּמַת כֹּל מִכֹּל תְּרוּמוֹתֵיכֶם לַכֹּהֲנִים יִהְיֶה",
-       "translit": "verēșit kal bikurē hol vehal terumat kol mikol terumotēhem lakohanim ihie",
+       "t": "Și "
+      },
+      {
+       "t": "cele mai bune",
+       "w": "cele mai bune",
+       "heb": "וְרֵאשִׁית",
+       "translit": "verēșit",
        "strong": "H7225",
-       "pos": "substantiv construct + substantiv construct + substantiv plural construct + substantiv + substantiv construct + substantiv construct + substantiv + substantiv construct + substantiv plural construct + sufix + substantiv plural + verb, qal imperfect",
-       "def_ro": "și cel mai de preț din toate primele roade ale fiecărui lucru, și toată donația fiecărui lucru, din toate donațiile voastre, va fi pentru preoți.",
-       "dict_ro": "Metzudat Țion explică «bikurei» ca pe coacerea timpurie a recoltei, exact ca la Exod 23:19 — «cele dintâi roade ale pământului tău» — primele și cele mai bune, nu resturile."
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "începutul",
+       "dict_ro": "Rešit înseamnă „început”, „cel mai bun”, partea dintâi. «Cele mai bune din primele roade» sunt prima parte, care aparține preoților (Numeri 18:12).",
+       "greek": "ἀπαρχή (aparche)",
+       "greek_def_ro": "ἀπαρχή (aparche) — pârgă",
+       "diff_ro": "Ebraica: „cele mai bune” (rēșit); Septuaginta: „pârgile” (ἀπαρχαὶ)."
+      },
+      {
+       "t": " din "
+      },
+      {
+       "t": "primele roade",
+       "w": "primele roade",
+       "heb": "כָּל בִּכּוּרֵי",
+       "translit": "kal bikurē",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct + substantiv, masculin și feminin plural construct",
+       "def_ro": "toate primele roade",
+       "dict_ro": "„Kol bikurē”, „toate primele roade”, subliniază că tot ce este cules întâi aparține lui Dumnezeu și, prin El, preotului (Numeri 18:13).",
+       "greek": "πρωτότοκος (prototokos)",
+       "greek_def_ro": "πρωτότοκος (prototokos) — întâi-născut",
+       "diff_ro": "Ebraica: „primele roade” (bikurē); Septuaginta: „întâii-născuți” (πρωτότοκα), absent ca adaos separat din ebraică."
+      },
+      {
+       "t": " de "
+      },
+      {
+       "t": "orice fel",
+       "w": "orice fel",
+       "heb": "כֹל",
+       "translit": "hol",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "din tot",
+       "dict_ro": "Kol, „tot, întreg”, apare de mii de ori în Biblia ebraică. În Isaia subliniază universalitatea: toate popoarele și tot pământul sunt chemate să-L recunoască pe DOMNUL.",
+       "greek": "πᾶς (pas)",
+       "greek_def_ro": "πᾶς (pas) — tot"
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "toată",
+       "w": "toată",
+       "heb": "וְכָל",
+       "translit": "vehal",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "și tot",
+       "dict_ro": "Kol, „tot, întreg”, apare de mii de ori în Biblia ebraică. În Isaia subliniază universalitatea: toate popoarele și tot pământul sunt chemate să-L recunoască pe DOMNUL.",
+       "greek": "πᾶς (pas)",
+       "greek_def_ro": "πᾶς (pas) — tot"
       },
       {
        "t": " "
       },
       {
-       "t": "prima parte din coca voastră",
-       "w": "prima parte din coca voastră",
+       "t": "donația",
+       "w": "donația",
+       "heb": "תְּרוּמַת",
+       "translit": "terumat",
+       "strong": "H8641",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "darul ridicat",
+       "dict_ro": "Terumá înseamnă „dar ridicat”, partea separată din recoltă pentru preoți (Numeri 18:8). Ezechiel arată că toate darurile ridicate sunt ale preoților.",
+       "greek": "ἀφαίρεμα (aphairema)",
+       "greek_def_ro": "ἀφαίρεμα (aphairema) — dar ridicat"
+      },
+      {
+       "t": " de [recolte] de "
+      },
+      {
+       "t": "orice fel",
+       "w": "orice fel",
+       "heb": "כֹּל",
+       "translit": "kol",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "din toate",
+       "dict_ro": "Kol, „tot, întreg”, apare de mii de ori în Biblia ebraică. În Isaia subliniază universalitatea: toate popoarele și tot pământul sunt chemate să-L recunoască pe DOMNUL.",
+       "greek": "πᾶς (pas)",
+       "greek_def_ro": "πᾶς (pas) — tot"
+      },
+      {
+       "t": " – "
+      },
+      {
+       "t": "din toate",
+       "w": "din toate",
+       "heb": "מִכֹּל",
+       "translit": "mikol",
+       "strong": "H3605",
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "din toate",
+       "dict_ro": "Kol, „tot, întreg”, apare de mii de ori în Biblia ebraică. În Isaia subliniază universalitatea: toate popoarele și tot pământul sunt chemate să-L recunoască pe DOMNUL.",
+       "greek": "πᾶς (pas)",
+       "greek_def_ro": "πᾶς (pas) — tot"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "darurile donate",
+       "w": "darurile donate",
+       "heb": "תְּרוּמוֹתֵיכֶם",
+       "translit": "terumotēhem",
+       "strong": "H8641",
+       "pos": "substantiv, feminin plural construct + sufix",
+       "def_ro": "darurile voastre ridicate",
+       "dict_ro": "Terumá înseamnă „dar ridicat”, partea separată din recoltă pentru preoți (Numeri 18:8). Ezechiel arată că toate darurile ridicate sunt ale preoților.",
+       "greek": "ἀπαρχή (aparche)",
+       "greek_def_ro": "ἀπαρχή (aparche) — pârgă",
+       "diff_ro": "Ebraica: „darurile donate” (terumotēhem); Septuaginta: „pârgile voastre” (ἀπαρχῶν ὑμῶν)."
+      },
+      {
+       "t": " – să "
+      },
+      {
+       "t": "meargă",
+       "w": "meargă",
+       "heb": "יִהְיֶה",
+       "translit": "ihie",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect",
+       "def_ro": "va fi",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "εἰμί (eimi)",
+       "greek_def_ro": "εἰμί (eimi) — a fi"
+      },
+      {
+       "t": " la "
+      },
+      {
+       "t": "preoți",
+       "w": "preoți",
+       "heb": "לַכֹּהֲנִים",
+       "translit": "lakohanim",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "preoților",
+       "dict_ro": "Kohen înseamnă „preot”, slujitorul care aduce jertfele și învață poporul. Ezechiel 44 desparte pe preoții din linia lui Țadok de ceilalți leviți și le regulează slujba pe temeiul Legii din Levitic 21–22, cu rânduieli în plus.",
+       "greek": "ἱερεύς (hiereus)",
+       "greek_def_ro": "ἱερεύς (hiereus) — preot"
+      },
+      {
+       "t": "; "
+      },
+      {
+       "t": "prima parte",
+       "w": "prima parte",
+       "heb": "וְרֵאשִׁית",
+       "translit": "verēșit",
+       "strong": "H7225",
+       "pos": "substantiv, feminin singular construct",
+       "def_ro": "începutul",
+       "dict_ro": "Rešit înseamnă „început”, „cel mai bun”, partea dintâi. «Cele mai bune din primele roade» sunt prima parte, care aparține preoților (Numeri 18:12).",
+       "greek": "πρωτογέννημα (protogennema)",
+       "greek_def_ro": "πρωτογέννημα (protogennema) — pârgă"
+      },
+      {
+       "t": " din "
+      },
+      {
+       "t": "coca",
+       "w": "coca",
        "heb": "עֲרִסוֹתֵיכֶם",
        "translit": "arisotēhem",
        "strong": "H6182",
        "pos": "substantiv, feminin plural construct + sufix",
-       "def_ro": "pârga aluatului, hala.",
-       "diff_ro": "Septuaginta are „τὰ πρωτογεννήματα ὑμῶν\" („primele voastre roade\"), un termen general, nu specific „coca voastră\" (arisoteihem, aluatul de pâine) ca în ebraică.",
-       "dict_ro": "Arisa — aluatul, coca; „pârga cocii” e porunca halei, partea de aluat dată preotului (Numeri 15:20-21), păstrată în practica evreiască până azi prin separarea și arderea unei bucăți din aluatul frământat. Metzudat David explică promisiunea „ca să păstrați binecuvântarea asupra casei tale”: să nu vă pară rău că dați toate acestea preoților, căci darul va aduce binecuvântare și bogăția nu va scădea, ci va crește — idee reluată de Maleahi 3:10."
+       "def_ro": "frământăturii voastre",
+       "dict_ro": "Arisa înseamnă „aluat”, „cocă”. Prima parte din cocă se dă preotului (Numeri 15:20-21), ceea ce este numit «halá» în tradiția rabinică.",
+       "diff_ro": "Septuaginta nu are „aluatul” (arisotēhem) ca cuvânt separat; „pârga voastră” (πρωτογενήματα ὑμῶν) cuprinde ideea."
       },
       {
-       "t": " să o dați preotului, ca să păstrați binecuvântarea asupra casei tale.",
-       "w": " să o dați preotului, ca să păstrați binecuvântarea asupra casei tale.",
-       "heb": "וְרֵאשִׁית תִּתְּנוּ לַכֹּהֵן לְהָנִיחַ בְּרָכָה אֶל בֵּיתֶךָ",
-       "translit": "verēșit titnu lakohēn lehaniah beraha el bēteha",
-       "strong": "H7225",
-       "pos": "substantiv construct + verb, qal imperfect + substantiv + verb, hifil infinitiv + substantiv + prepoziție + substantiv construct + sufix",
-       "def_ro": "și cea mai bună parte s-o dați preotului, ca să așezați binecuvântarea asupra casei voastre.",
-       "dict_ro": "Metzudat David explică faptul că darea acestor daruri preoților nu e o pierdere, ci exact pricina pentru care binecuvântarea se va așeza în casa dătătorului — bogăția nu se va împuțina, ci va spori."
+       "t": " voastră să o "
+      },
+      {
+       "t": "dați",
+       "w": "dați",
+       "heb": "תִּתְּנוּ",
+       "translit": "titnu",
+       "strong": "H5414",
+       "pos": "verb, qal imperfect",
+       "def_ro": "veți da",
+       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6).",
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a da"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "preotului",
+       "w": "preotului",
+       "heb": "לַכֹּהֵן",
+       "translit": "lakohēn",
+       "strong": "H3548",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "preotului",
+       "dict_ro": "Kohen înseamnă „preot”, slujitorul care aduce jertfele și învață poporul. Ezechiel 44 desparte pe preoții din linia lui Țadok de ceilalți leviți și le regulează slujba pe temeiul Legii din Levitic 21–22, cu rânduieli în plus.",
+       "greek": "ἱερεύς (hiereus)",
+       "greek_def_ro": "ἱερεύς (hiereus) — preot"
+      },
+      {
+       "t": ", ca să "
+      },
+      {
+       "t": "păstrați",
+       "w": "păstrați",
+       "heb": "לְהָנִיחַ",
+       "translit": "lehaniah",
+       "strong": "H5117",
+       "pos": "verb, hifil infinitiv",
+       "def_ro": "ca să odihnească",
+       "dict_ro": "Nuah în Hifil înseamnă „a face să se odihnească”, „a pune”. Darul dat preotului face ca binecuvântarea să „se odihnească” peste casa celui ce dă.",
+       "greek": "τίθημι (tithemi)",
+       "greek_def_ro": "τίθημι (tithemi) — a pune",
+       "diff_ro": "Ebraica: „să facă să se odihnească” (lehaniah); Septuaginta: „să puneți” (θεῖναι)."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "binecuvântarea",
+       "w": "binecuvântarea",
+       "heb": "בְּרָכָה",
+       "translit": "beraha",
+       "strong": "H1293",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "binecuvântarea",
+       "dict_ro": "Beraha înseamnă „binecuvântare”. Cine dă preotului prima parte din cocă este binecuvântat în casa lui; darul pentru preot este o investiție de binecuvântare.",
+       "greek": "εὐλογία (eulogia)",
+       "greek_def_ro": "εὐλογία (eulogia) — binecuvântare"
+      },
+      {
+       "t": " asupra "
+      },
+      {
+       "t": "casei",
+       "w": "casei",
+       "heb": "בֵּיתֶךָ",
+       "translit": "bēteha",
+       "strong": "H1004",
+       "pos": "substantiv, masculin singular construct + sufix",
+       "def_ro": "în casa ta",
+       "dict_ro": "Bait înseamnă „casă”, „înăuntru”. Aici arată interiorul clădirii Templului, unde slujesc preoții; „casa” este locașul prezenței lui Dumnezeu.",
+       "greek": "οἶκος (oikos)",
+       "greek_def_ro": "οἶκος (oikos) — casă",
+       "diff_ro": "Ebraica: singular, „casei tale” (bēteha); Septuaginta: plural, „casele voastre” (οἴκους ὑμῶν)."
+      },
+      {
+       "t": " tale."
       }
      ],
      "textCompare": [
@@ -168683,14 +170876,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְרֵאשִׁית כָּל־בִּכּוּרֵי כֹל וְכָל־תְּרוּמַת...",
        "translation": "„Și cele mai bune din primele...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἀπαρχαὶ πάντων καὶ τὰ πρωτότοκα πάντων καὶ τὰ ἀφαιρέματα πάντα ἐκ πάντων τῶν ἀπαρχῶν ὑμῶν τοῖς ἱερεῦσιν ἔσται· καὶ τὰ πρωτογεννήματα ὑμῶν δώσετε τῷ ἱερεῖ τοῦ θεῖναι εὐλογίας ὑμῶν ἐπὶ τοὺς οἴκους ὑμῶν.",
+       "original": "ἀπαρχαὶ πάντων καὶ τὰ πρωτότοκα πάντων καὶ τὰ ἀφαιρέματα πάντα ἐκ πάντων τῶν ἀπαρχῶν ὑμῶν τοῖς ἱερεῦσιν ἔσται καὶ τὰ πρωτογενήματα ὑμῶν δώσετε τῷ ἱερεῖ τοῦ θεῖναι εὐλογίας ὑμῶν ἐπὶ τοὺς οἴκους ὑμῶν",
        "greek": true,
-       "translation": "„Pârgile tuturor și întâii-născuți ai tuturor și toate cele luate deoparte din toate pârgile voastre vor fi ale preoților; și pârga aluaturilor voastre o veți da preotului, ca să puneți binecuvântările voastre asupra caselor voastre.”",
-       "note": "Septuaginta adaugă „întâii-născuți ai tuturor” (τὰ πρωτότοκα), absent din Textul Masoretic, și trece binecuvântarea la plural („asupra caselor voastre”)."
+       "translation": "„Pârgile tuturor și întâii-născuți ai tuturor și toate cele ridicate din toate pârgile voastre vor fi ale preoților; și pârga voastră o veți da preotului, ca să puneți binecuvântările voastre peste casele voastre.”",
+       "note": "Septuaginta adaugă „întâii-născuți ai tuturor” (τὰ πρωτότοκα), absent din ebraică, redă „coca” (arisotēhem) prin „pârga voastră” (πρωτογενήματα) și are pluralul „binecuvântările... casele voastre” unde ebraica are singularul „binecuvântarea... casei tale”."
       }
      ],
      "refs": [
@@ -168725,12 +170918,14 @@
       {
        "t": "Orice",
        "w": "Orice",
-       "heb": "כָּל",
+       "heb": "כָּל",
        "translit": "kal",
        "strong": "H3605",
-       "pos": "substantiv construct",
-       "def_ro": "tot.",
-       "dict_ro": "Rashi explică motivul acestei avertizări: pentru că ciupirea gâtului păsării aduse ca jertfă de păcat era îngăduită preoților, iar aceasta echivalează tehnic cu un hoit, era necesar un avertisment explicit despre celelalte hoituri, ca nu cumva preoții să le socotească îngăduite la fel."
+       "pos": "substantiv, masculin singular construct",
+       "def_ro": "tot",
+       "dict_ro": "Kol, „tot, întreg”, apare de mii de ori în Biblia ebraică. În Isaia subliniază universalitatea: toate popoarele și tot pământul sunt chemate să-L recunoască pe DOMNUL.",
+       "greek": "πᾶς (pas)",
+       "greek_def_ro": "πᾶς (pas) — tot"
       },
       {
        "t": " "
@@ -168742,20 +170937,88 @@
        "translit": "nevēla",
        "strong": "H5038",
        "pos": "substantiv, feminin singular",
-       "def_ro": "animal mort de la sine, hoit.",
-       "greek": "θνησιμαῖον (thnesimaion)",
-       "greek_def_ro": "θνησιμαῖον (thnesimaion) — hoit, leș.",
-       "dict_ro": "Nevela — animalul mort fără sacrificare rituală, oprit oricărui israelit (Deuteronomul 14:21), la fel ca terefa, animalul sfâșiat. De aceea Talmudul (Menahot 45a) se întreabă: doar preoților le e oprit? Rabi Iohanan răspunde: „acest pasaj e greu, iar în viitor Eliahu îl va explica”; Ravina propune că, fiindcă preoților le era îngăduită jertfa de păcat din păsări ucisă prin ciupire (care e tehnic nevela), ar fi putut crede că li se îngăduie și alte hoituri. Rashi, Metzudat David și Radak aduc aceeași explicație."
+       "def_ro": "stârv",
+       "dict_ro": "Nevela înseamnă „hoit”, animal murit de la sine. Preoții nu au voie să mănânce nici ce a murit singur, nici ce a fost sfâșiat de fiare (Leviticul 22:8), pentru că sunt chemați la deosebită curăție.",
+       "greek": "θνησιμαῖος (thnesimaios)",
+       "greek_def_ro": "θνησιμαῖος (thnesimaios) — mortăciune"
       },
       {
-       "t": " sau animal sfâșiat dintre păsări și dintre dobitoace, preoții să nu le mănânce.",
-       "w": " sau animal sfâșiat dintre păsări și dintre dobitoace, preoții să nu le mănânce.",
-       "heb": "וּטְרֵפָה מִן הָעוֹף וּמִן הַבְּהֵמָה לֹא יֹאכְלוּ הַכֹּהֲנִים",
-       "translit": "utrēfa min haof umin habhēma lo iohlu hakohanim",
+       "t": " sau "
+      },
+      {
+       "t": "animal sfâșiat",
+       "w": "animal sfâșiat",
+       "heb": "וּטְרֵפָה",
+       "translit": "utrēfa",
        "strong": "H2966",
-       "pos": "substantiv + prepoziție + substantiv + prepoziție + substantiv + particulă negativă + verb, qal imperfect + substantiv plural",
-       "def_ro": "și animal sfâșiat, din păsări și din dobitoace, nu vor mânca preoții.",
-       "dict_ro": "Talmudul Bavli (Menahot 45a) citează pe Rabi Iohanan, care numește acest pasaj «greu», rezervând explicația lui finală pentru vremea lui Eliahu — o recunoaștere rară a unei dificultăți exegetice lăsate deschisă pentru viitor."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "sfâșiat",
+       "dict_ro": "Terefa înseamnă „animal sfâșiat”. Ceea ce a fost sfâșiat de fiare nu se mănâncă (Exodul 22:30); preoților li se spune explicit să se țină departe de el.",
+       "greek": "θηριάλωτος (therialotos)",
+       "greek_def_ro": "θηριάλωτος (therialotos) — prins de fiare"
+      },
+      {
+       "t": " dintre "
+      },
+      {
+       "t": "păsări",
+       "w": "păsări",
+       "heb": "הָעוֹף",
+       "translit": "haof",
+       "strong": "H5775",
+       "pos": "substantiv, masculin singular",
+       "def_ro": "din păsări",
+       "dict_ro": "Of înseamnă „pasăre”. Legea include și păsările în interdicția animalelor moarte de la sine sau sfâșiate.",
+       "greek": "πετεινόν (peteinon)",
+       "greek_def_ro": "πετεινόν (peteinon) — pasăre"
+      },
+      {
+       "t": " și dintre "
+      },
+      {
+       "t": "dobitoace",
+       "w": "dobitoace",
+       "heb": "הַבְּהֵמָה",
+       "translit": "habhēma",
+       "strong": "H929",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "din animale",
+       "dict_ro": "Behema înseamnă „animal domestic”, „dobitoc”. Hoitul sau animalul sfâșiat dintre păsări și dintre dobitoace nu se mănâncă de preoți.",
+       "greek": "κτῆνος (ktenos)",
+       "greek_def_ro": "κτῆνος (ktenos) — dobitoc"
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "preoții",
+       "w": "preoții",
+       "heb": "הַכֹּהֲנִים",
+       "translit": "hakohanim",
+       "strong": "H3548",
+       "pos": "substantiv, masculin plural",
+       "def_ro": "preoții",
+       "dict_ro": "Kohen înseamnă „preot”, slujitorul care aduce jertfele și învață poporul. Ezechiel 44 desparte pe preoții din linia lui Țadok de ceilalți leviți și le regulează slujba pe temeiul Legii din Levitic 21–22, cu rânduieli în plus.",
+       "greek": "ἱερεύς (hiereus)",
+       "greek_def_ro": "ἱερεύς (hiereus) — preot"
+      },
+      {
+       "t": " să nu le "
+      },
+      {
+       "t": "mănânce",
+       "w": "mănânce",
+       "heb": "יֹאכְלוּ",
+       "translit": "iohlu",
+       "strong": "H398",
+       "pos": "verb, qal imperfect",
+       "def_ro": "nu vor mânca",
+       "dict_ro": "Akhal înseamnă „a mânca”. Capitolul se încheie cu ceea ce preoții nu mănâncă; hrana lor este determinată de sfințenia slujirii.",
+       "greek": "ἐσθίω (esthio)",
+       "greek_def_ro": "ἐσθίω (esthio) — a mânca"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -168763,7 +171026,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כָּל־נְבֵלָה וּטְרֵפָה מִן־הָעוֹף וּמִן־הַבְּהֵמָה...",
        "translation": "„Orice hoit sau animal sfâșiat dintre...” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
