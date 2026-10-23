@@ -1,0 +1,15 @@
+// Radak (1160–1235) pe 2 Împărați 7:3-20 — traducere în română după textul ebraic Sefaria (doar fragmentele limpezi)
+module.exports = {
+  "7:3": "„Și patru oameni” — învățații noștri, de binecuvântată amintire, au spus că erau Gehazi și cei trei fii ai lui. „La intrarea porții” — după felul leproșilor de a sta în afara cetății, cum este scris: «în afara taberei va fi locuința lui». „Până murim” — până când vom muri.",
+  "7:4": "„Și vom cădea” — ca în «tu cazi la haldei».",
+  "7:6": "„A făcut să audă tabăra Aramului” — înaintea venirii leproșilor în noaptea aceea; căci dacă ar fi fugit din ziua dinainte, israeliții i-ar fi văzut; de aceea spune «au fugit în amurg»: de îndată ce au auzit glasul, o mare teamă a intrat în inima lor și au fugit.",
+  "7:7": "„Și au fugit pentru sufletul lor” — ca să-și scape viața; nu și-au cruțat averea, nici măcar caii nu au apucat să-i încalece.",
+  "7:9": "„Nu așa” — nu e bine, cum traduce Targumul: «nu e bine ce facem». „Tăcem” — tăcem în loc să vestim. „Și dacă așteptăm până la lumina dimineții” — dacă așteptăm până la lumina dimineții fără să vestim, am găsit prin aceasta o vină. „Nelegiuire” — scris plin, cu doi «vav».",
+  "7:10": "„La portarul cetății și le-au vestit” — «portar» este spus în general, ca în «cel născut în casa lui, ei vor mânca din pâinea lui»; sau, tâlcul este că au strigat la unul dintre portari, iar toți s-au ridicat și le-au vestit acest lucru. „Calul legat și măgarul legat” — în general, ca în «și mi-au fost bou și măgar»; tâlcul este că erau legați la ieslele lor.",
+  "7:11": "„Și au strigat portarii” — portarul cetății a strigat către portarii casei regelui, iar aceștia au vestit înăuntrul casei regelui.",
+  "7:12": "„Să se ascundă” — scris cu «he». „Pe câmp” — scris cu «he» de articol, după regulă, ca în «de ceata care a venit asupra lui», dar citit fără «he», după obiceiul de a ușura citirea.",
+  "7:13": "„Ca toată mulțimea lui Israel care a rămas în ea” — «mulțimea» este scris cu articol, în stare construită, ca «poporul războiului», «chivotul legământului», dar citit fără articol, după obicei. Tâlcul versetului este: ei sunt ca toată mulțimea lui Israel — caii slabi și răi, ca mulțimea lui Israel rămasă în Samaria, slăbită de foamete. Și dacă ai zice: cum au rămas numai cinci cai în Samaria? — iată, sunt ca toată mulțimea lui Israel care a pierit: cum au pierit oamenii, așa au pierit și caii; așa a explicat tatăl meu, de binecuvântată amintire; iar Ionatan a tradus: «dacă vor pieri, iată-i ca toată mulțimea lui Israel care a pierit».",
+  "7:14": "„Au luat doi cai cu călăreți” — dar nu s-a spus «cinci cai»? Cum de au luat numai doi? Tâlcul lui «două care de cai» este doi cai cu călăreții lor, cum traduce Ionatan «două care de cai»; din cei cinci pomeniți i-au ales pe cei doi mai buni.",
+  "7:15": "„În graba lor” — în scris este cu «he» și este din formă pasivă, dacă «he» are vocală «țere», iar citirea este fără «he», din forma simplă.",
+  "7:18": "„Și a fost după cum a vorbit” — fiindcă a spus «după cum a vorbit omul lui Dumnezeu», povestește cum au fost cuvintele, deși a scris mai sus; iar acum întoarce cuvintele spre faptă."
+};
