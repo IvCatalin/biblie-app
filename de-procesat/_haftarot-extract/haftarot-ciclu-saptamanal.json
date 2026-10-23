@@ -11519,10 +11519,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "Μὴ γὰρ εἴπῃς, Ἰακώβ, καὶ τί ἐλάλησας, Ἰσραήλ; Ἀπεκρύβη ἡ ὁδός μου ἀπὸ τοῦ θεοῦ, καὶ ὁ θεός μου τὴν κρίσιν ἀφεῖλε καὶ ἀπέστη.",
+       "original": "μὴ γὰρ εἴπῃς Ιακωβ καὶ τί ἐλάλησας Ισραηλ ἀπεκρύβη ἡ ὁδός μου ἀπὸ τοῦ θεοῦ καὶ ὁ θεός μου τὴν κρίσιν ἀφεῖλεν καὶ ἀπέστη",
        "greek": true,
        "translation": "„Să nu zici, Iacove, și ce ai vorbit, Israele: «Ascunsă e calea mea de Dumnezeu, și Dumnezeul meu mi-a luat judecata și S-a depărtat.»”",
-       "note": "LXX transformă întrebarea retorică într-un îndemn direct („să nu zici”) și adaugă „S-a depărtat” (ἀπέστη), o idee de plecare/abandon absentă din TM, care spune doar că judecata „trece pe lângă” — nu că Dumnezeu Însuși ar fi plecat."
+       "note": "LXX are un îndemn, „să nu zici” (μὴ γὰρ εἴπῃς), în loc de întrebarea ebraică „pentru ce zici?”, și adaugă la sfârșit „și a plecat” (καὶ ἀπέστη), care lipsește din ebraică."
       }
      ],
      "refs": [],
@@ -11732,7 +11732,7 @@
        "original": "καὶ νῦν οὐκ ἔγνως; εἰ μὴ ἤκουσας; θεὸς αἰώνιος ὁ θεὸς ὁ κατασκευάσας τὰ ἄκρα τῆς γῆς, οὐ πεινάσει οὐδὲ κοπιάσει, οὐδὲ ἔστιν ἐξεύρεσις τῆς φρονήσεως αὐτοῦ.",
        "greek": true,
        "translation": "„Și acum, n-ai cunoscut? Dacă n-ai auzit? Dumnezeu veșnic e Dumnezeul care a întocmit marginile pământului; nu va flămânzi, nici nu va osteni, și nu e aflare a înțelepciunii Lui.”",
-       "note": "LXX traduce „nu va obosi” (יִיעַף) prin „nu va flămânzi” (οὐ πεινάσει) — aceeași alegere de traducere neobișnuită se repetă și la versetele 29-31 din acest pasaj, o divergență consecventă, nu întâmplătoare, între cele două tradiții textuale."
+       "note": "LXX redă „nu va obosi” (lo iiaf) prin „nu va flămânzi” (οὐ πεινάσει) și „nu va ostoni” prin „nu va osteni” (οὐδὲ κοπιάσει); „priceperea Lui este de nepătruns” devine „nu este găsire a priceperii Lui” (οὐδὲ ἔστιν ἐξεύρεσις τῆς φρονήσεως αὐτοῦ)."
       }
      ],
      "refs": [
@@ -11892,7 +11892,7 @@
        "original": "διδοὺς τοῖς πεινῶσιν ἰσχὺν καὶ τοῖς μὴ ὀδυνωμένοις λύπην.",
        "greek": true,
        "translation": "„Dând putere celor flămânzi, și celor ce nu suferă, durere.”",
-       "note": "Divergență reală și izbitoare: LXX pare să fi citit un text ebraic diferit sau să fi înțeles greșit construcția — a doua jumătate a versetului („și celor ce nu suferă, durere”) inversează complet sensul TM („celui lipsit de putere îi sporește tăria”), transformând o promisiune de întărire într-un avertisment aproape opus. Majoritatea comentatorilor moderni socotesc acest verset una dintre cele mai clare corupții sau neînțelegeri de traducere din toată Septuaginta la Isaia 40."
+       "note": "LXX are „dă putere celor ce flămânzesc și durere celor ce nu suferă” (διδοὺς τοῖς πεινῶσιν ἰσχὺν καὶ τοῖς μὴ ὀδυνωμένοις λύπην), în loc de „celui lipsit de putere îi sporește tăria”; a doua jumătate a versetului are, în greacă, alt sens decât în ebraică."
       }
      ],
      "refs": [
@@ -12034,7 +12034,7 @@
        "original": "πεινάσουσιν γὰρ νεώτεροι, καὶ κοπιάσουσιν νεανίσκοι, καὶ ἐκλεκτοὶ ἀνίσχυες ἔσονται.",
        "greek": true,
        "translation": "„Căci vor flămânzi cei mai tineri, și vor osteni tinerii, și cei aleși vor fi fără putere.”",
-       "note": "Aceeași alegere de traducere „a flămânzi” pentru „a obosi”, consecventă cu v. 28-29 în LXX; în plus, „בַחוּרִים” (tineri aleși) devine „ἐκλεκτοὶ” (cei aleși), o traducere literală a ideii de „selecție”, dar care pierde nuanța de „vârstă tânără, plină de vigoare” prezentă în ebraică."
+       "note": "LXX redă „a obosi” prin „a flămânzi” (πεινάσουσιν), ca în v. 28–29, iar „flăcăii aleși” (bahurim) prin „cei aleși” (ἐκλεκτοί), care „vor fi fără putere” (ἀνίσχυες)."
       }
      ],
      "refs": [
@@ -12234,7 +12234,7 @@
        "original": "οἱ δὲ ὑπομένοντες τὸν θεὸν ἀλλάξουσιν ἰσχύν, πτεροφυήσουσιν ὡς ἀετοί, δραμοῦνται καὶ οὐ κοπιάσουσιν, βαδιοῦνται καὶ οὐ πεινάσουσιν.",
        "greek": true,
        "translation": "„Dar cei ce Îl așteaptă pe Dumnezeu își vor schimba puterea, vor face pene noi ca vulturii, vor alerga și nu vor osteni, vor umbla și nu vor flămânzi.”",
-       "note": "LXX traduce „iaalu ēver” prin πτεροφυήσουσιν, „vor face pene noi” — susținând tocmai citirea „reînnoirii penajului” pe care Șadal o respinge explicit în comentariul său la acest verset (vezi explicația din dicționar de mai sus); un dezacord real între tradiția de traducere greacă antică și un comentator ebraic modern, ambele bazate pe același text consonantic."
+       "note": "LXX redă „vor urca cu aripi” prin „vor prinde pene” (πτεροφυήσουσιν) și „își vor reînnoi puterea” prin „își vor schimba puterea” (ἀλλάξουσιν ἰσχύν)."
       }
      ],
      "refs": [
@@ -12454,7 +12454,7 @@
        "original": "ἐγκαινίζεσθε πρός με νῆσοι οἱ γὰρ ἄρχοντες ἀλλάξουσιν ἰσχύν ἐγγισάτωσαν καὶ λαλησάτωσαν ἅμα τότε κρίσιν ἀναγγειλάτωσαν",
        "greek": true,
        "translation": "„Înnoiți-vă către Mine, insulelor, căci conducătorii își vor schimba puterea; să se apropie și să vorbească împreună; atunci să vestească judecata.”",
-       "note": "Divergență reală: LXX citește „הַחֲרִישׁוּ” (tăceți) ca provenind dintr-o rădăcină înrudită cu înnoirea (ἐγκαινίζεσθε, „înnoiți-vă”), nu ca „a tăcea” — o traducere pe care Ambrozie al Milanului o va folosi direct, la comentariul de mai jos, spre a construi o interpretare hristologică a versetului absentă din TM."
+       "note": "LXX redă „tăceți înaintea Mea” (hacharishu elai) prin „înnoiți-vă către Mine” (ἐγκαινίζεσθε πρός με), „neamurile” (leumim) prin „conducătorii” (οἱ ἄρχοντες) și „să ne apropiem la judecată” prin „atunci să vestească judecata” (τότε κρίσιν ἀναγγειλάτωσαν)."
       }
      ],
      "refs": [
@@ -12749,7 +12749,7 @@
        "original": "τίς ἐξήγειρεν ἀπὸ ἀνατολῶν δικαιοσύνην ἐκάλεσεν αὐτὴν κατὰ πόδας αὐτοῦ καὶ πορεύσεται δώσει ἐναντίον ἐθνῶν καὶ βασιλεῖς ἐκστήσει καὶ δώσει εἰς γῆν τὰς μαχαίρας αὐτῶν καὶ ὡς φρύγανα ἐξωσμένα τὰ τόξα αὐτῶν",
        "greek": true,
        "translation": "„Cine a trezit dreptatea de la răsărituri, a chemat-o la picioarele lui; și va merge, va da înaintea neamurilor, și va pune regii în uimire, și va da la pământ săbiile lor, și ca vreascurile spulberate arcurile lor.”",
-       "note": "LXX tratează „dreptatea” (δικαιοσύνην) ca substantiv feminin autonom, personificat — „a chemat-o PE EA” — deschizând calea interpretării patristice de mai jos, unde Dreptatea devine identificată direct cu Hristos, nu doar o calitate a unui conducător istoric. A doua jumătate a versetului este redată de LXX mai liber decât în ebraică: „va da înaintea neamurilor… săbiile lor la pământ, arcurile lor ca vreascurile”."
+       "note": "LXX are „a chemat-o la picioarele lui” (ἐκάλεσεν αὐτὴν κατὰ πόδας αὐτοῦ), cu „dreptatea” ca obiect al verbului, și „va da la pământ săbiile lor” (δώσει εἰς γῆν τὰς μαχαίρας αὐτῶν), în loc de „sabia lui ca praful”."
       }
      ],
      "refs": [
@@ -12907,7 +12907,7 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ διώξεται αὐτούς, διελεύσεται ἐν εἰρήνῃ ἡ ὁδὸς τῶν ποδῶν αὐτοῦ.",
+       "original": "καὶ διώξεται αὐτοὺς καὶ διελεύσεται ἐν εἰρήνῃ ἡ ὁδὸς τῶν ποδῶν αὐτοῦ",
        "greek": true,
        "translation": "„Și îi va urmări, va trece în pace calea picioarelor lui.”",
        "note": "Apropiere strânsă între TM și LXX la acest verset."
@@ -13125,7 +13125,7 @@
        "original": "τίς ἐνήργησεν καὶ ἐποίησεν ταῦτα; ἐκάλεσεν αὐτὴν ὁ καλῶν αὐτὴν ἀπὸ γενεῶν ἀρχῆς· ἐγὼ Θεὸς πρῶτος, καὶ εἰς τὰ ἐπερχόμενα ἐγώ εἰμι.",
        "greek": true,
        "translation": "„Cine a lucrat și a făcut acestea? A chemat-o pe ea Cel ce o cheamă de la începutul generațiilor; Eu sunt Dumnezeu, cel dintâi, și pentru cele ce vin, Eu sunt.”",
-       "note": "LXX continuă aici personificarea „dreptății” din v. 2 („a chemat-o PE EA”), legând gramatical acest verset de interpretarea hristologică patristică de mai sus."
+       "note": "LXX are „Eu, Dumnezeu, cel dintâi” (ἐγὼ Θεὸς πρῶτος), în loc de „Eu, DOMNUL, cel dintâi”, și „pentru cele ce vor veni” (εἰς τὰ ἐπερχόμενα) în loc de „și cu cei din urmă”."
       }
      ],
      "refs": [
@@ -13292,10 +13292,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "εἴδοσαν ἔθνη καὶ ἐφοβήθησαν, τὰ ἄκρα τῆς γῆς ἤγγισαν καὶ ἦλθον ἅμα.",
+       "original": "εἴδοσαν ἔθνη καὶ ἐφοβήθησαν τὰ ἄκρα τῆς γῆς ἤγγισαν καὶ ἤλθοσαν ἅμα",
        "greek": true,
        "translation": "„Au văzut neamurile și s-au temut, marginile pământului s-au apropiat și au venit împreună.”",
-       "note": "LXX omite verbul „s-au cutremurat” (יֶחֱרָדוּ) ca acțiune separată a „marginilor pământului”, comprimând ideea direct în „s-au apropiat”; jocul de cuvinte ebraic „rau/iirau” nu poate fi redat în greacă și se pierde."
+       "note": "LXX nu are verbul „s-au cutremurat” (iehereadu) al marginilor pământului: are „marginile pământului s-au apropiat și au venit împreună”."
       }
      ],
      "refs": [
@@ -13449,10 +13449,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "κρίνων ἕκαστος τῷ πλησίον βοηθῆσαι καὶ τῷ ἀδελφῷ, καὶ ἐρεῖ.",
+       "original": "κρίνων ἕκαστος τῷ πλησίον καὶ τῷ ἀδελφῷ βοηθῆσαι καὶ ἐρεῖ",
        "greek": true,
-       "translation": "„Judecând, fiecare [se hotărăște] să-și ajute aproapele și fratelui [să-i spună], și va zice.”",
-       "note": "LXX adaugă un verb de „judecată/hotărâre” (κρίνων) absent din TM, care leagă acest verset mai direct de imaginea procesului judiciar din v. 1."
+       "translation": "„Judecând, fiecare își ajută aproapele și pe fratele lui, și va zice:”",
+       "note": "LXX adaugă participiul „judecând” (κρίνων) la început și așază „și pe fratele lui” după „a ajuta” (βοηθῆσαι καὶ τῷ ἀδελφῷ)."
       }
      ],
      "refs": [
@@ -13677,10 +13677,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "Ἴσχυσεν ἀνὴρ τέκτων, καὶ χαλκεὺς τύπτων σφύρῃ, ἅμα ἐλαύνων· ποτὲ μὲν ἐρεῖ Σύμβλημα καλόν ἐστιν, ἰσχύρωσεν αὐτὰ ἐν ἥλοις· θήσουσιν αὐτὰ καὶ οὐ κινηθήσονται.",
+       "original": "ἴσχυσεν ἀνὴρ τέκτων καὶ χαλκεὺς τύπτων σφύρῃ ἅμα ἐλαύνων ποτὲ μὲν ἐρεῖ σύμβλημα καλόν ἐστιν ἰσχύρωσαν αὐτὰ ἐν ἥλοις θήσουσιν αὐτὰ καὶ οὐ κινηθήσονται",
        "greek": true,
        "translation": "„S-a întărit omul tâmplar, și arămarul bătând cu ciocanul, deodată lovind; câteodată va zice: «Îmbinarea e bună»; le-a întărit cu cuie; le vor pune și nu se vor clinti.”",
-       "note": "LXX simplifică lanțul de meșteșugari la doi (tâmplar și arămar), față de cei patru pași distincți din TM (tâmplar, aurar, cel ce netezește cu ciocanul, cel ce bate nicovala) — o comprimare reală a imaginii tehnice a turnării idolului."
+       "note": "LXX are doi meșteșugari, tâmplarul și arămarul (χαλκεύς), în locul lanțului ebraic de patru: tâmplar, aurar, cel ce netezește cu ciocanul și cel ce bate nicovala."
       }
      ],
      "refs": [
@@ -13852,7 +13852,7 @@
        "original": "Σὺ δέ, Ἰσραήλ, παῖς μου Ἰακώβ, ὃν ἐξελεξάμην, σπέρμα Ἀβραὰμ ὃν ἠγάπησα·",
        "greek": true,
        "translation": "„Dar tu, Israele, slujitorul Meu Iacov, pe care te-am ales, sămânța lui Avraam, pe care l-am iubit;”",
-       "note": "Apropiere strânsă între TM și LXX; LXX pune accentul iubirii pe Dumnezeu ca subiect („pe care l-am iubit”), în loc de Avraam ca subiect activ („care M-a iubit”) — o mică, dar reală răsturnare de perspectivă asupra cuvântului „ohavi”."
+       "note": "LXX are „pe care l-am iubit” (ὃν ἠγάπησα), cu Dumnezeu ca subiect, în loc de „care M-a iubit” (ohavi)."
       }
      ],
      "refs": [
@@ -14061,7 +14061,7 @@
        "original": "οὗ ἀντελαβόμην ἀπ᾽ ἄκρων τῆς γῆς, καὶ ἐκ τῶν σκοπιῶν αὐτῆς ἐκάλεσά σε καὶ εἶπά σοι Παῖς μου εἶ, ἐξελεξάμην σε καὶ οὐκ ἐγκατέλιπόν σε·",
        "greek": true,
        "translation": "„Pe care te-am sprijinit de la marginile pământului, și din locurile lui de veghe te-am chemat, și ți-am spus: Slujitorul Meu ești, te-am ales și nu te-am părăsit;”",
-       "note": "LXX traduce „nu te-am disprețuit” (מְאַסְתִּיךָ) prin „nu te-am părăsit” (οὐκ ἐγκατέλιπόν σε) — o nuanță diferită: TM neagă o respingere din start, LXX neagă o abandonare ulterioară."
+       "note": "LXX redă „nu te-am disprețuit” (meastikha) prin „nu te-am părăsit” (οὐκ ἐγκατέλιπόν σε) și „dintre conducătorii săi” (meațiloteha) prin „din locurile ei de pândă” (ἐκ τῶν σκοπιῶν αὐτῆς)."
       }
      ],
      "refs": [
@@ -14246,7 +14246,7 @@
        "original": "μὴ φοβοῦ, μετὰ σοῦ γάρ εἰμι· μὴ πλανῶ, ἐγὼ γάρ εἰμι ὁ θεός σου ὁ ἐνισχύσας σε, καὶ ἐβοήθησά σοι καὶ ἠσφαλισάμην σε τῇ δεξιᾷ τῇ δικαίᾳ μου.",
        "greek": true,
        "translation": "„Nu te teme, căci cu tine sunt Eu; nu te rătăci, căci Eu sunt Dumnezeul tău, Cel ce te-a întărit; și te-am ajutat, și te-am întemeiat cu dreapta Mea cea dreaptă.”",
-       "note": "LXX traduce „nu te abate/înspăimânta” (תִּשְׁתָּע) prin „nu te rătăci” (μὴ πλανῶ) — o nuanță diferită, mai degrabă morală/doctrinară (rătăcire de la adevăr) decât emoțională (spaimă, descurajare)."
+       "note": "LXX redă „nu te abate” (al tishta) prin „nu te rătăci” (μὴ πλανῶ)."
       }
      ],
      "refs": [
@@ -14573,7 +14573,7 @@
        "original": "ζητήσεις αὐτούς, καὶ οὐ μὴ εὕρῃς τοὺς ἀνθρώπους οἳ παροινήσουσιν εἰς σέ· ἔσονται γὰρ ὡς οὐκ ὄντες, καὶ οὐκ ἔσονται οἱ ἀντιπολεμοῦντές σε.",
        "greek": true,
        "translation": "„Îi vei căuta, și nicidecum nu-i vei găsi pe oamenii care se vor purta cu obrăznicie de beție împotriva ta; căci vor fi ca și cum n-ar fi, și nu vor mai fi cei ce se războiesc cu tine.”",
-       "note": "LXX traduce „anșēi mațuteha” (oamenii certei tale) printr-o expresie despre „purtare obraznică de beție” (παροινήσουσιν) — o alegere de traducere neobișnuită, fără corespondent direct în TM."
+       "note": "LXX redă „oamenii certei tale” (anșei matutekha) prin „oamenii care se vor purta obraznic față de tine” (παροινήσουσιν εἰς σέ)."
       }
      ],
      "refs": [
@@ -14936,10 +14936,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "Ἰακώβ, ὀλιγοστὸς Ἰσραήλ· ἐγὼ ἐβοήθησά σοι, λέγει ὁ θεὸς ὁ λυτρούμενος Ἰσραήλ.",
+       "original": "Ιακωβ ὀλιγοστὸς Ισραηλ ἐγὼ ἐβοήθησά σοι λέγει ὁ θεὸς ὁ λυτρούμενός σε Ισραηλ",
        "greek": true,
        "translation": "„Iacove, [tu, cel] foarte puțin la număr, Israele; Eu te-am ajutat, zice Dumnezeu, Cel ce răscumpără pe Israel.”",
-       "note": "Divergență reală și izbitoare: LXX omite complet imaginea „viermelui” (תּוֹלַעַת), redând ideea doar prin „foarte puțin la număr” (ὀλιγοστὸς) — o traducere mult mai blândă, care pierde tocmai imaginea smereniei radicale prezentă în ebraică și reluată la Psalmii 22:7."
+       "note": "LXX nu are „vierme” (tola’at) și nici „Sfântul lui Israel”: are „Iacove, tu cel puțin la număr” (ὀλιγοστός) și „zice Dumnezeu, Cel ce te răscumpără” (λέγει ὁ θεὸς ὁ λυτρούμενός σε)."
       }
      ],
      "refs": [
@@ -15142,7 +15142,7 @@
        "original": "ἰδοὺ ἐποίησά σε ὡς τροχοὺς ἁμάξης ἀλοῶντας καινοὺς πριστηροειδεῖς, καὶ ἀλοήσεις ὄρη καὶ λεπτυνεῖς βουνούς, καὶ ὡς χνοῦν θήσεις,",
        "greek": true,
        "translation": "„Iată, te-am făcut ca roțile unui car de treierat, noi, în formă de fierăstrău, și vei treiera munții și vei mărunți dealurile, și le vei face ca praful,”",
-       "note": "LXX înțelege unealta ca „roți de car de treierat” (τροχοὺς ἁμάξης), diferit de „mörag” (sanie de treierat cu crestături, tras direct, nu pe roți) din TM — o diferență reală în identificarea instrumentului agricol concret descris."
+       "note": "LXX are „roți de car pentru treierat” (τροχοὺς ἁμάξης ἀλοῶντας), în loc de „sanie de treierat” (morag)."
       }
      ],
      "refs": [
@@ -15361,7 +15361,7 @@
        "original": "καὶ λικμήσεις καὶ ἄνεμος λήμψεται αὐτούς καὶ καταιγὶς διασπερεῖ αὐτούς σὺ δὲ εὐφρανθήσῃ ἐν τοῖς ἁγίοις Ισραηλ καὶ ἀγαλλιάσονται",
        "greek": true,
        "translation": "„Și-i vei vântura; și vântul îi va lua, și vijelia îi va împrăștia; iar tu te vei veseli întru sfinții lui Israel, și se vor bucura.”",
-       "note": "Divergență reală: LXX traduce „Sfântul lui Israel” (קְדוֹשׁ יִשְׂרָאֵל, titlu divin la singular) printr-un plural, „sfinții lui Israel” (τοῖς ἁγίοις Ἰσραήλ) — transformând un nume al lui Dumnezeu într-o referire la poporul sfânt, o schimbare de sens teologic reală, nu doar stilistică."
+       "note": "LXX are „sfinții lui Israel” (τοῖς ἁγίοις Ἰσραήλ), la plural, în loc de „Sfântul lui Israel”."
       }
      ],
      "refs": [

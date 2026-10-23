@@ -1,5 +1,24 @@
 module.exports = {
   '41:1': { tr: '„Înnoiți-vă către Mine, insulelor, căci conducătorii își vor schimba puterea; să se apropie și să vorbească împreună; atunci să vestească judecata.”' },
   '41:2': { tr: '„Cine a trezit dreptatea de la răsărituri, a chemat-o la picioarele lui; și va merge, va da înaintea neamurilor, și va pune regii în uimire, și va da la pământ săbiile lor, și ca vreascurile spulberate arcurile lor.”', note: 'LXX tratează „dreptatea” (δικαιοσύνην) ca substantiv feminin autonom, personificat — „a chemat-o PE EA” — deschizând calea interpretării patristice de mai jos, unde Dreptatea devine identificată direct cu Hristos, nu doar o calitate a unui conducător istoric. A doua jumătate a versetului este redată de LXX mai liber decât în ebraică: „va da înaintea neamurilor… săbiile lor la pământ, arcurile lor ca vreascurile”.' },
-  '41:16': { tr: '„Și-i vei vântura; și vântul îi va lua, și vijelia îi va împrăștia; iar tu te vei veseli întru sfinții lui Israel, și se vor bucura.”' }
+  '41:16': { tr: '„Și-i vei vântura; și vântul îi va lua, și vijelia îi va împrăștia; iar tu te vei veseli întru sfinții lui Israel, și se vor bucura.”' },
+  '40:27': { keepTr: 1, note: 'LXX are un îndemn, „să nu zici” (μὴ γὰρ εἴπῃς), în loc de întrebarea ebraică „pentru ce zici?”, și adaugă la sfârșit „și a plecat” (καὶ ἀπέστη), care lipsește din ebraică.' },
+  '41:3': { keepTr: 1, note: 'Apropiere strânsă între TM și LXX la acest verset.' },
+  '41:5': { keepTr: 1, note: 'LXX nu are verbul „s-au cutremurat” (iehereadu) al marginilor pământului: are „marginile pământului s-au apropiat și au venit împreună”.' },
+  '41:6': { tr: '„Judecând, fiecare își ajută aproapele și pe fratele lui, și va zice:”', note: 'LXX adaugă participiul „judecând” (κρίνων) la început și așază „și pe fratele lui” după „a ajuta” (βοηθῆσαι καὶ τῷ ἀδελφῷ).' },
+  '41:7': { keepTr: 1, note: 'LXX are doi meșteșugari, tâmplarul și arămarul (χαλκεύς), în locul lanțului ebraic de patru: tâmplar, aurar, cel ce netezește cu ciocanul și cel ce bate nicovala.' },
+  '41:14': { keepTr: 1, note: 'LXX nu are „vierme” (tola’at) și nici „Sfântul lui Israel”: are „Iacove, tu cel puțin la număr” (ὀλιγοστός) și „zice Dumnezeu, Cel ce te răscumpără” (λέγει ὁ θεὸς ὁ λυτρούμενός σε).' },
+  '40:28': { noteOnly: 1, note: "LXX redă „nu va obosi” (lo iiaf) prin „nu va flămânzi” (οὐ πεινάσει) și „nu va ostoni” prin „nu va osteni” (οὐδὲ κοπιάσει); „priceperea Lui este de nepătruns” devine „nu este găsire a priceperii Lui” (οὐδὲ ἔστιν ἐξεύρεσις τῆς φρονήσεως αὐτοῦ)." },
+  '40:29': { noteOnly: 1, note: "LXX are „dă putere celor ce flămânzesc și durere celor ce nu suferă” (διδοὺς τοῖς πεινῶσιν ἰσχὺν καὶ τοῖς μὴ ὀδυνωμένοις λύπην), în loc de „celui lipsit de putere îi sporește tăria”; a doua jumătate a versetului are, în greacă, alt sens decât în ebraică." },
+  '40:30': { noteOnly: 1, note: "LXX redă „a obosi” prin „a flămânzi” (πεινάσουσιν), ca în v. 28–29, iar „flăcăii aleși” (bahurim) prin „cei aleși” (ἐκλεκτοί), care „vor fi fără putere” (ἀνίσχυες)." },
+  '40:31': { noteOnly: 1, note: "LXX redă „vor urca cu aripi” prin „vor prinde pene” (πτεροφυήσουσιν) și „își vor reînnoi puterea” prin „își vor schimba puterea” (ἀλλάξουσιν ἰσχύν)." },
+  '41:1': { noteOnly: 1, note: "LXX redă „tăceți înaintea Mea” (hacharishu elai) prin „înnoiți-vă către Mine” (ἐγκαινίζεσθε πρός με), „neamurile” (leumim) prin „conducătorii” (οἱ ἄρχοντες) și „să ne apropiem la judecată” prin „atunci să vestească judecata” (τότε κρίσιν ἀναγγειλάτωσαν)." },
+  '41:2': { noteOnly: 1, note: "LXX are „a chemat-o la picioarele lui” (ἐκάλεσεν αὐτὴν κατὰ πόδας αὐτοῦ), cu „dreptatea” ca obiect al verbului, și „va da la pământ săbiile lor” (δώσει εἰς γῆν τὰς μαχαίρας αὐτῶν), în loc de „sabia lui ca praful”." },
+  '41:4': { noteOnly: 1, note: "LXX are „Eu, Dumnezeu, cel dintâi” (ἐγὼ Θεὸς πρῶτος), în loc de „Eu, DOMNUL, cel dintâi”, și „pentru cele ce vor veni” (εἰς τὰ ἐπερχόμενα) în loc de „și cu cei din urmă”." },
+  '41:8': { noteOnly: 1, note: "LXX are „pe care l-am iubit” (ὃν ἠγάπησα), cu Dumnezeu ca subiect, în loc de „care M-a iubit” (ohavi)." },
+  '41:9': { noteOnly: 1, note: "LXX redă „nu te-am disprețuit” (meastikha) prin „nu te-am părăsit” (οὐκ ἐγκατέλιπόν σε) și „dintre conducătorii săi” (meațiloteha) prin „din locurile ei de pândă” (ἐκ τῶν σκοπιῶν αὐτῆς)." },
+  '41:10': { noteOnly: 1, note: "LXX redă „nu te abate” (al tishta) prin „nu te rătăci” (μὴ πλανῶ)." },
+  '41:12': { noteOnly: 1, note: "LXX redă „oamenii certei tale” (anșei matutekha) prin „oamenii care se vor purta obraznic față de tine” (παροινήσουσιν εἰς σέ)." },
+  '41:15': { noteOnly: 1, note: "LXX are „roți de car pentru treierat” (τροχοὺς ἁμάξης ἀλοῶντας), în loc de „sanie de treierat” (morag)." },
+  '41:16': { noteOnly: 1, note: "LXX are „sfinții lui Israel” (τοῖς ἁγίοις Ἰσραήλ), la plural, în loc de „Sfântul lui Israel”." }
 };
