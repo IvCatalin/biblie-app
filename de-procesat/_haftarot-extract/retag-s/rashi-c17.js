@@ -1,0 +1,16 @@
+module.exports = {
+  '8:16': '„Din Dan se aude” — pentru că s-au închinat vițelului care era în Dan. „Fornăitul cailor lor” — strănutul nărilor lui. „Nechezatul armăsarilor lor” — nechezatul de bucurie al cailor lui; și găsim în alt loc că caii sunt numiți „abirim” (Judecători 5:22), din pricina tropăitului: „tropăitul puternicilor lui (abiraiv)”, expresie ca în „cal care tropăie” (Nahum 3:2). Iar Ionatan traduce: de la sunetul pașilor puternicilor lor.',
+  '8:19': '„Ascultați glasul… strigătul fiicei poporului Meu” — aud că la urmă vor striga dintr-o țară depărtată; dar de ce e nevoie de toate acestea? Oare DOMNUL nu este în Sion? Dacă se vor întoarce la El, Se va lăsa găsit de ei.',
+  '8:20': '„Secerișul a trecut, vara s-a sfârșit” — așteptam ajutorul Egiptului, dar n-a venit. Spuneam: „Să treacă secerișul și vor fi liberi, și vor veni”. Iată, vremea secerișului a trecut în Iyar, iar anotimpul verii în Tamuz, și ei n-au venit.',
+  '8:21': '„Sunt înnegrit” — literal, „sunt întunecat”, expresie de negreală și întuneric. „Dezamăgirea” (shamah) — uimire. „M-a cuprins” — m-a ținut.',
+  '9:4': '„Fac nedreptate [până] se obosesc” — s-au obosit și s-au ostenit să-și strâmbe calea. Cuvântul „heevu” este ca în „și îngreunându-și (vehakbed) inima” (Exodul 8:11), adică a face nedreptate.',
+  '9:5': '„Locuința ta este în mijlocul înșelăciunii” — când șed, ei urzesc planuri de înșelăciune, și cu înșelăciune au schimbat frica de Mine și au refuzat să Mă cunoască. „Din pricina înșelăciunii” — în ebraică bemirmah.',
+  '9:6': '„Îi voi topi cu chinuri.” „Din pricina fiicei poporului Meu” — din pricina păcatelor adunării lui Israel.',
+  '9:7': '„Limba lor este o săgeată ucigătoare” — în ebraică shahut, întinsă. Compară cu „aur întins” (shahut; 1 Împărați 10:16). Și: „iar mărimea lor de abatere (veshahatah)” (Osea 5:2), „tirer” în franceză, a trage. O altă explicație este că, de fapt, este o expresie de junghiere („tranchant” în franceză, tăietor). Așa l-a clasificat Menahem (Mahberet Menahem p. 172), și așa l-a tradus Ionatan: „ca o săgeată ascuțită”. „Dar în inima lui” — literal, „în mijlocul lui”. Ionatan traduce: în măruntaiele lui.',
+  '9:10': '„Movile” (gallim) — în ebraică degurin, grămezi.',
+  '9:11': '„Cine este omul înțelept” — cine va înțelege aceasta și cine este profetul căruia i-a vorbit gura DOMNULUI, ca să o vestească? Și cine va vesti de ce țara este pustiită și a venit toată această răsplată?',
+  '9:14': '„Cu pelin” — iarbă amară. „Ape otrăvite” — venin de șarpe.',
+  '9:18': '„Ne-au aruncat locuințele” — în ebraică hishlichu mishkenotenu, [locuințele] și-au aruncat locuitorii. Se poate explica și astfel: căci dușmanii au aruncat locuințele noastre la pământ.',
+  '9:20': '„De pe străzi” (mi-huts) — de pe stradă. Compară cu „și vei face străzi (hutsot) în Damasc” (1 Împărați 20:34).',
+  '9:22': '„Să nu se laude înțeleptul” — să nu vă lăudați spunând: „Noi suntem înțelepți”. Iată, ați lepădat cuvintele Mele; ce înțelepciune aveți? Dacă înțelegeți și Mă cunoașteți, atunci vă puteți lăuda cu înțelepciunea voastră.',
+};
