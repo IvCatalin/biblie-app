@@ -1,0 +1,18 @@
+module.exports = {
+  '3:5': '„Căci mâine” etc. „Minuni” — de aceea se cuvine ca atunci să fie sfinți și curați de necurăție.',
+  '3:7': '„Ca să știe” — prin minunile pe care le voi face prin tine.',
+  '5:2': '„Și întoarce-te, circumcide… a doua oară” — a spus „a doua oară”, căci și în noaptea ieșirii din Egipt a fost circumcis tot Israelul împreună, după cum au spus Înțelepții noștri, de binecuvântată amintire (Numeri Rabba 11:6).',
+  '5:3': '„La dealul” — „în dealul Prepuțurilor”; iar numele locului a fost dat după întâmplare.',
+  '5:4': '„Și acesta este lucrul” — adică acesta a fost motivul pentru care Ioșua singur a circumcis tot poporul, iar ei nu s-au circumcis unii pe alții: cum s-ar fi putut ca printre ei să nu se afle cineva care să știe să circumcidă? „Tot poporul” — adică tot poporul ieșit din Egipt, care era circumcis și potrivit pentru a circumcide, a murit în pustie, și nu mai avea cine să circumcidă pe alții.',
+  '5:5': '„Căci erau circumciși” — adică numai poporul ieșit era circumcis, dar nu cei născuți în pustie, și aceștia nu erau, deci, potriviți să circumcidă.',
+  '5:6': '„Până s-a stins” etc. — și deci nu mai era niciunul dintre cei circumciși care să fie potrivit și cuvenit să circumcidă pe altul. „Pe care a jurat” — pentru aceasta a jurat DOMNUL lor ca să nu etc.',
+  '5:7': '„A ridicat în locul lor” — pe care i-a ridicat în locul lor. „Pe aceia i-a circumcis Ioșua” — ei nu fuseseră circumciși până atunci, fiindcă erau necircumciși până la acea vreme: cei ieșiți din Egipt nu și-au circumcis fiii cât au fost pe drum; nu era deci cineva circumcis potrivit și cuvenit să circumcidă, în afară de Ioșua.',
+  '5:9': '„Astăzi am rostogolit” — acum am îndepărtat de pe voi ocara cu care vă ocărau egiptenii, zicând: „Nu sunt oare necircumciși ca noi?”; și aceasta era socotită ocară pentru Israel, după cum este scris: „căci este o ocară pentru noi” (Geneza 34:14).',
+  '5:10': '„Seara” — după miezul zilei se numește seară, căci atunci soarele se înclină spre apus.',
+  '5:11': '„A doua zi după Paște” — a doua zi după prima zi de Paște, care este vremea aducerii omerului; au adus omerul și apoi au mâncat.',
+  '5:12': '„Și mana a încetat” — deși din ziua morții lui Moise, în șapte Adar, mana a încetat să cadă, totuși se hrăneau prin minune din mana din vasele lor; iar când au mâncat din roadele țării, n-au mai găsit. „Și au mâncat” — au început să mănânce.',
+  '5:13': '„În Ierihon” — adică la hotarul Ierihonului. „Ești cu noi?” — cu hei de întrebare, ca și cum ar spune: ai venit să ne ajuți împotriva dușmanului sau să ajuți pe dușman?',
+  '5:14': '„Și a spus: Nu” — adică: n-am venit să ajut pe dușmanii lui Israel, căci sunt căpetenia lui Israel, numiți oastea DOMNULUI; iar faptul că nu m-ai văzut până acum este pentru că acum am venit, nu de atunci. „Ce spune stăpânul meu” — adică spune cuvintele tale și iată că le voi împlini, ca robul care împlinește cuvintele stăpânului.',
+  '5:15': '„Sfânt este” — și se cuvine să stai pe el desculț.',
+  '6:1': '„Închis și zăvorât” — adică de la început era închis cu uși și cu zăvor, iar acum au adăugat și mai mult la închiderea ei din pricina lui Israel și n-au lăsat pe nimeni să iasă din ea sau să intre în ea, ca să nu se afle căile de intrare ale cetății.',
+};

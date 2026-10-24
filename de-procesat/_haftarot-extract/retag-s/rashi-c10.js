@@ -1,0 +1,12 @@
+module.exports = {
+  '3:5': '„Și Ioșua a spus” — aceasta a fost în ziua a treia, iar ziua a treizecea a doliului după Moise a căzut în prima dintre cele trei zile. „Sfințiți-vă” (hitkadașu) înseamnă de obicei „sfințiți-vă”, dar aici înseamnă „pregătiți-vă”. „Căci mâine” — când veți trece Iordanul. „Minuni” (niflaot) — această traducere urmează Targumul lui Ionatan.',
+  '3:6': '„Și Ioșua a spus preoților” — a spus aceasta în ziua următoare. „Purtați Chivotul Legământului” — până acum îl purtau leviții, dar în ziua aceea urma să fie purtat de preoți.',
+  '5:3': '„Dealul Aralot” (Givat Haaralot) — [literal: dealul prepuțurilor] a fost numit așa din pricina întâmplării: prepuțurile tăiate au fost adunate într-un deal.',
+  '5:5': '„Nu fuseseră circumciși” — cum am explicat mai înainte, vântul de nord nu a suflat; aceștia erau cei care urmau acum să fie circumciși.',
+  '5:7': '„Și pe copiii lor i-a crescut în locul lor” — pe copiii lor pe care i-a ridicat în locul lor; ei s-au născut în pustie și pe ei i-a circumcis Ioșua.',
+  '5:8': '„Au rămas în locul lor” — au rămas în locul lor și n-au asediat cetatea, „până s-au tămăduit” de rănile lor.',
+  '5:11': '„Din ziua de după jertfa de Paște” — aceasta era ziua aducerii snopului (omer), căci mai întâi au adus omerul. Din ziua a șaptea a lunii Adar, ziua în care a murit Moise, când mana a încetat să mai cadă, au avut mană din belșug în vasele lor, pe care au adunat-o în șapte Adar, după cum s-a spus: „au mâncat mana patruzeci de ani”; dar acești patruzeci de ani au fost fără treizeci de zile, căci mana a început să cadă în a cincisprezecea zi din Iyar. Trebuie deci să spunem că în turtele pe care copiii lui Israel le-au luat cu ei din Egipt au gustat gustul manei.',
+  '5:12': '„Nu mai aveau copiii lui Israel mană” — de aceea au mâncat din grânele țării. Dacă ar fi avut mană, n-ar fi mâncat din grâne, căci mana le era plăcută. Pildă: unui copil i se spune: „De ce mănânci pâine de orz?”, iar el răspunde: „Pentru că nu am pâine de grâu”. De aceea s-a spus: „nu mai aveau” etc.',
+  '5:13': '„Și Ioșua era în Ierihon” — de aici învățăm că împrejurimile unei cetăți sunt socotite parte din cetate, căci nu se poate spune că Ioșua se afla chiar înăuntrul Ierihonului. „Ești cu noi?” — ai venit să ne ajuți?',
+  '6:1': '„Închis și zăvorât” (sogeret umsugeret) — Targumul traduce: „închis cu porți de fier și întărit cu drugi de aramă”.',
+};

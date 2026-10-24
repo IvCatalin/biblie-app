@@ -1,0 +1,22 @@
+// Trimiteri TSK pentru Iosua 3:5-7; 5:2-15; 6:1, 6:27
+module.exports = {
+  '3:5': ['Iosua 7:13', 'Exodul 19:10-15', 'Leviticul 10:3', 'Iosua 3:13', 'Iosua 3:15', 'Ioel 2:16'],
+  '3:6': ['Iosua 3:3', 'Numeri 10:33', 'Mica 2:13'],
+  '3:7': ['Iosua 4:14', '1 Cronici 29:25', '2 Cronici 1:1', 'Iosua 1:5', 'Iosua 1:17'],
+  '5:2': ['Geneza 17:10-14', 'Deuteronomul 10:16', 'Deuteronomul 30:6'],
+  '5:3': ['Geneza 17:23-27'],
+  '5:4': ['Numeri 14:22', 'Numeri 26:64', 'Numeri 26:65', 'Deuteronomul 2:16'],
+  '5:5': [],
+  '5:6': ['Numeri 14:32-34', 'Deuteronomul 2:14', 'Psalmul 95:10', 'Numeri 14:23', 'Exodul 3:8', 'Ezechiel 20:6'],
+  '5:7': ['Numeri 14:31', 'Deuteronomul 1:39'],
+  '5:8': ['Geneza 34:25'],
+  '5:9': ['Geneza 34:14', 'Iosua 4:19', 'Ieremia 9:25', 'Ezechiel 20:7', 'Ezechiel 20:8'],
+  '5:10': ['Numeri 9:1-5'],
+  '5:11': ['Exodul 12:18-20', 'Leviticul 23:6', 'Leviticul 23:14', 'Exodul 13:6'],
+  '5:12': ['Exodul 16:35', 'Neemia 9:20', 'Neemia 9:21', 'Deuteronomul 6:10', 'Deuteronomul 6:11'],
+  '5:13': ['Iosua 6:2', 'Geneza 18:2', 'Geneza 32:24-30', 'Numeri 22:23', '1 Cronici 21:16', '1 Cronici 12:17'],
+  '5:14': ['Exodul 23:20-22', 'Isaia 55:4', 'Daniel 10:13', 'Daniel 10:21', 'Daniel 12:1', '1 Samuel 3:9'],
+  '5:15': ['Exodul 3:5'],
+  '6:1': ['Iosua 2:7', 'Iosua 2:9-14', 'Iosua 2:24'],
+  '6:27': ['Iosua 1:5', 'Iosua 1:9', 'Geneza 39:2', 'Deuteronomul 31:6', 'Iosua 9:1', 'Iosua 9:9'],
+};
