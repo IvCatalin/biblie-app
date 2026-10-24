@@ -109,7 +109,7 @@ const SPLIT = { '13|27:10': [['Isa', 27, 10, 0, 8]], '13|27:11': [['Isa', 27, 10
 let MAP = null;
 function haftWords(chNum, vLabel) {
   const key = chNum + '|' + vLabel;
-  const spec = SPLIT[key] || (() => { MAP = MAP || JSON.parse(fs.readFileSync(path.join(__dirname, 'oshb-map.json'), 'utf8')); const [b, c, v] = MAP[key].osis.split('.'); return [[b, +c, +v, 0, 999]]; })();
+  const spec = SPLIT[key] || (() => { MAP = MAP || JSON.parse(fs.readFileSync(process.env.OSHBMAP || path.join(__dirname, 'oshb-map.json'), 'utf8')); const [b, c, v] = MAP[key].osis.split('.'); return [[b, +c, +v, 0, 999]]; })();
   const out = []; for (const [b, c, v, a, z] of spec) for (const w of verse(b, c, v).slice(a, z)) out.push(Object.assign({}, w, { i: out.length, osis: b + '.' + c + '.' + v }));
   return out;
 }
