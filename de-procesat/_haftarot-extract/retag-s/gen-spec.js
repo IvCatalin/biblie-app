@@ -1,5 +1,6 @@
 // node gen-spec.js N > cNN.js — schiță de specificație din tag-urile existente (ebraică potrivită prin consoane cu OSHB)
 process.env.OSHBMAP = process.env.OSHBMAP || require('path').join(__dirname, '../../_sarbatori_extract/oshb-map-sarbatori.json');
+process.env.SPLITF = process.env.SPLITF || require('path').join(__dirname, 'split-sarb.json');
 const fs = require('fs'), path = require('path');
 const O = require(path.join(__dirname, '../../_haftarot-deuteronom-extract/oshb.js'));
 const cn = +process.argv[2], p = String(cn).padStart(2, '0');
