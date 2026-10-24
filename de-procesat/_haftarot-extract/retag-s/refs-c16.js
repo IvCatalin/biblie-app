@@ -1,0 +1,23 @@
+// Trimiteri TSK pentru Habacuc 2:20-3:19
+module.exports = {
+  '2:20': ['Psalmul 11:4', 'Psalmul 115:3', 'Isaia 66:1', 'Psalmul 46:10', 'Țefania 1:7', 'Zaharia 2:13'],
+  '3:1': ['Psalmul 7:1-17', 'Psalmul 90:1-17', 'Psalmul 86:1-17'],
+  '3:2': ['Habacuc 3:16', 'Habacuc 1:5-10', 'Psalmul 85:6', 'Isaia 63:15-19', 'Osea 6:2', 'Zaharia 1:12'],
+  '3:3': ['Deuteronomul 33:2', 'Geneza 21:21', 'Numeri 10:12', 'Psalmul 68:7-8', 'Exodul 19:16-20', 'Psalmul 114:3-7'],
+  '3:4': ['Exodul 13:21', 'Exodul 14:20', 'Neemia 9:12', 'Psalmul 104:2', 'Isaia 60:19'],
+  '3:5': ['Exodul 12:29-30', 'Numeri 14:12', 'Psalmul 78:50-51', 'Deuteronomul 32:24', 'Psalmul 18:7-13'],
+  '3:6': ['Exodul 15:17', 'Numeri 34:1-29', 'Deuteronomul 32:8', 'Iosua 10:42', 'Psalmul 135:8-12', 'Habacuc 3:10'],
+  '3:7': ['Exodul 15:14-16', 'Numeri 22:3-4', 'Iosua 2:10', 'Iosua 9:24', 'Geneza 10:6-7', 'Psalmul 83:5-10'],
+  '3:8': ['Exodul 14:21-22', 'Iosua 3:16-17', 'Psalmul 114:3', 'Habacuc 3:15', 'Deuteronomul 33:26-27', 'Psalmul 68:4'],
+  '3:9': ['Psalmul 7:12-13', 'Isaia 51:9-10', 'Geneza 15:18-21', 'Geneza 22:16-18', 'Psalmul 105:8-11', 'Numeri 20:11'],
+  '3:10': ['Habacuc 3:6', 'Exodul 19:16-18', 'Psalmul 77:16-19', 'Psalmul 114:3-8', 'Iosua 3:15-16', 'Isaia 64:1-2'],
+  '3:11': ['Iosua 10:12-13', 'Iosua 10:11', 'Psalmul 18:12-14', 'Psalmul 77:17-18', 'Psalmul 144:5-6'],
+  '3:12': ['Numeri 21:23-35', 'Iosua 6:1-12', 'Psalmul 44:1-3', 'Ieremia 51:33', 'Mica 4:12-13', 'Amos 1:3'],
+  '3:13': ['Exodul 14:13-14', 'Exodul 15:1-2', 'Psalmul 77:20', 'Psalmul 89:19-21', 'Exodul 12:29-30', 'Psalmul 110:6'],
+  '3:14': ['Exodul 14:5-9', 'Exodul 15:9-10', 'Psalmul 83:2-11', 'Exodul 11:4-7', 'Psalmul 10:8', 'Psalmul 118:10-12'],
+  '3:15': ['Habacuc 3:8', 'Psalmul 77:19', 'Exodul 15:8', 'Exodul 14:21-22'],
+  '3:16': ['Habacuc 3:2', 'Habacuc 1:5-11', 'Psalmul 119:120', 'Daniel 8:27', 'Daniel 10:8', 'Deuteronomul 28:49-52'],
+  '3:17': ['Deuteronomul 28:15-18', 'Deuteronomul 28:30-41', 'Ieremia 14:2-8', 'Ioel 1:10-13', 'Amos 4:6-10', 'Hagai 2:16-17'],
+  '3:18': ['Exodul 15:2', 'Psalmul 27:1', 'Psalmul 118:14', 'Isaia 12:2', 'Isaia 61:10', 'Mica 7:7'],
+  '3:19': ['Psalmul 18:1', 'Psalmul 46:1', 'Isaia 12:2', '2 Samuel 22:34', 'Psalmul 18:33', 'Deuteronomul 32:13'],
+};
