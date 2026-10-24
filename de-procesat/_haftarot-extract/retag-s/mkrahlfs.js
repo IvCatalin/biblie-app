@@ -19,3 +19,5 @@ fs.writeFileSync(path.join(__dirname,'rahlfs-sarb.json'),JSON.stringify(out));
 console.log(Object.keys(out).length,'din',d.chapters.reduce((a,c)=>a+c.verses.length,0));console.log(bad.join('\n'));
 // NOTĂ: Maleahi 3:22-24 — ordinea din Rahlfs diferă de TM (Ilie 3:22, inimile 3:23, Legea 3:24); S9 (cap. 9) cere remaparea manuală după regenerare:
 // 9|3:22 (TM: Legea) = Mal 3:24; 9|3:23 și 9|3:23b (TM: Ilie) = Mal 3:22; 9|3:24 (TM: inimile) = Mal 3:23
+
+// S20 (Ieremia 31:1-19, Rosen = KJV-1): după regenerare, remapare manuală 20|31:N = Jer 38:(N+1) (LXX Ier 38)

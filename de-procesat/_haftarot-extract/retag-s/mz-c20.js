@@ -1,0 +1,17 @@
+module.exports = {
+  '31:1': '„Rămășițele” — înțeles de rămășiță și rest, ca în „fugar și rămășiță” (mai departe, 42). „Ca să-l odihnesc” — înțeles de odihnă și liniște, ca în „și veți găsi odihnă sufletelor voastre” (mai sus, 6).',
+  '31:3': '„Te voi zidi și vei fi zidită” — de la limbajul de zidire. „Te vei împodobi” — de la limbajul de podoabă și împodobire. „Tamburinele tale” — numele unui instrument muzical. „În dans” — înțeles de dans de bucurie, ca în „mi-ai prefăcut tânguirea în dans” (Psalmul 30:12); de aceea un instrument muzical se numește „mahol”, ca în „lăudați-L cu tamburină și dans” (Psalmul 150), pentru că trezește dansul de bucurie.',
+  '31:4': '„Și vor folosi” — înțeles de răscumpărare, ca în „a sădit vie și nu a folosit-o” (Deuteronom 20).',
+  '31:5': '„Străjerii” — înțeles de păzire; se spune despre străjeri, al căror obicei este să stea într-un loc înalt, ca să vadă cine vine, ca să păzească cetatea de vătămare.',
+  '31:6': '„Strigați” — înțeles de a face să se audă un glas mare, ca în „izbucnește în cântare și strigă” (Isaia 54:1).',
+  '31:7': '„De la capete” — de la sfârșit. „Șchiopul” — beteagul.',
+  '31:8': '„Îi voi duce” — înțeles de aducere, ca în „se va aduce dar” (mai sus, 18). „Către pâraie de ape” — la pâraiele apelor.',
+  '31:9': '„Cel ce a împrăștiat” — înțeles de împrăștiere, ca în „și i-am vânturat spre toate vânturile” (mai departe, 49).',
+  '31:11': '„Și vor curge” — se vor trage ca un râu, și la fel „și vor curge spre el toate neamurile” (Isaia 2:2). „Must” — așa se numesc strugurii vinului. „Untdelemn” — uleiul. „Bine udată” — săturată, ca în „a adăpat pământul” (Isaia 55). „Mâhnire” — înțeles de întristare și grijă, ca în „și mâhnirea sufletului” (Deuteronom 28).',
+  '31:12': '„În dans” — dans de bucurie.',
+  '31:13': '„Voi sătura” — înțeles de saturare. „Grăsime” — înțeles de untură.',
+  '31:14': '„Pe înălțimi” — în cerurile înalte. „Bocet” — înțeles de urlet. „Amar” — de la limbajul de amărăciune. „A refuzat” — de la limbajul de refuz.',
+  '31:17': '„Se tânguiește” — de la limbajul de clătinare și mișcare. „Învățat” — înțeles de deprindere, ca în „măgar sălbatic deprins cu pustia” (mai sus, 2).',
+  '31:18': '„M-am căit” — înțeles de schimbare a gândului și de regret. „Am lovit” — înțeles de lovire, ca în „și și-a lovit palmele” (Numeri 24:10). „Coapsă” — latura trupului. „Am purtat” — de la limbajul de povară și purtare.',
+  '31:19': '„Scump” — de la limbajul de preț și cinste.',
+};

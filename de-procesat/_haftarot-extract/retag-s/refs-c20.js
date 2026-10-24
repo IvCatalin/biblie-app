@@ -1,0 +1,22 @@
+// Trimiteri TSK pentru Ieremia 31:1-19 (numerotare Rosen; TSK: Rosen 31:n = KJV 31:n+1)
+module.exports = {
+  '31:1': ['Ieremia 2:2', 'Deuteronomul 1:30-33', 'Deuteronomul 8:2-3', 'Neemia 9:12-15', 'Psalmul 78:52', 'Isaia 63:7-14'],
+  '31:2': ['Deuteronomul 7:7-9', 'Deuteronomul 10:15', 'Osea 11:1', 'Maleahi 1:2', 'Psalmul 103:17', 'Isaia 54:8-9'],
+  '31:3': ['Ieremia 1:10', 'Ieremia 30:18', 'Ieremia 33:7', 'Amos 9:11', 'Exodul 15:20-21', 'Psalmul 149:3'],
+  '31:4': ['Deuteronomul 28:30', 'Isaia 62:8-9', 'Isaia 65:21-22', 'Amos 9:14', 'Mica 4:4', 'Leviticul 19:23-25'],
+  '31:5': ['Ieremia 50:4-5', 'Ezra 1:5', 'Isaia 2:2-4', 'Isaia 11:11-13', 'Mica 4:1-3', 'Zaharia 8:20-23'],
+  '31:6': ['Psalmul 96:1-3', 'Psalmul 98:1-4', 'Isaia 12:4-6', 'Isaia 42:10-12', 'Țefania 3:14-20', 'Ieremia 23:3'],
+  '31:7': ['Ieremia 3:12', 'Ieremia 23:8', 'Ieremia 29:14', 'Psalmul 107:3', 'Zaharia 2:6', 'Mica 4:6'],
+  '31:8': ['Ieremia 50:4', 'Psalmul 126:5-6', 'Isaia 35:6-8', 'Isaia 41:17-19', 'Isaia 49:9-11', 'Exodul 4:22'],
+  '31:9': ['Isaia 41:1', 'Isaia 42:10', 'Isaia 66:19', 'Deuteronomul 30:4', 'Isaia 40:11', 'Ezechiel 34:12'],
+  '31:10': ['Ieremia 15:21', 'Ieremia 50:33', 'Isaia 44:23', 'Isaia 48:20', 'Osea 13:14', 'Psalmul 142:6'],
+  '31:11': ['Ieremia 33:9-11', 'Isaia 35:10', 'Isaia 51:11', 'Isaia 2:2-5', 'Mica 4:1-2', 'Osea 2:20-23'],
+  '31:12': ['Ieremia 31:4', 'Psalmul 30:11', 'Psalmul 149:3', 'Zaharia 8:4-5', 'Isaia 51:3', 'Isaia 61:3'],
+  '31:13': ['Deuteronomul 33:8-11', '2 Cronici 6:41', 'Neemia 10:39', 'Psalmul 132:9', 'Psalmul 132:16', 'Isaia 61:6'],
+  '31:14': ['Ieremia 40:1', 'Iosua 18:25', '1 Samuel 7:17', 'Geneza 37:35', 'Psalmul 77:2', 'Isaia 22:4'],
+  '31:15': ['Geneza 43:31', 'Geneza 45:1', 'Psalmul 30:5', 'Rut 2:12', '2 Cronici 15:7', 'Ezra 1:5-11'],
+  '31:16': ['Ieremia 29:11-16', 'Ieremia 46:27-28', 'Psalmul 102:13-14', 'Isaia 11:11-16', 'Ezechiel 37:11-14'],
+  '31:17': ['Iov 33:27-28', 'Psalmul 102:19-20', 'Isaia 57:15-18', 'Osea 5:15', 'Osea 6:1-2', 'Ieremia 3:21-22'],
+  '31:18': ['Deuteronomul 30:2', 'Deuteronomul 30:6-8', 'Ezechiel 36:26', 'Ezechiel 36:31', 'Zaharia 12:10', 'Leviticul 26:41-42'],
+  '31:19': ['Ieremia 31:9', 'Ieremia 3:19', 'Psalmul 103:13', 'Proverbe 3:12', 'Osea 11:8-9', 'Isaia 57:16-18'],
+};
