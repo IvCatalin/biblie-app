@@ -1,0 +1,26 @@
+// Sucot ziua 2 (Sărbătoarea Colibelor) — 1 Împărați 8:2-21 — derivat din ciclul săptămânal cap. 25
+module.exports = {
+  bank: require('./bank-c24.js'),
+  v: {
+    '8:2': 'KEEP',
+    '8:3': 'KEEP',
+    '8:4': [['au ridicat',0,'au urcat'], ['Chivotul',2,'chivotul'], ['DOMNULUI',3,'Domnului'], ['Cortul',5,'cortul'], ['Întâlnirii',6,'întâlnirii'], ['',8], ['ustensilele',9,'vasele'], ['sfinte',10,'sfântului'], ['Cort',12,'în cort'], ['preoții',15,'preoții'], ['leviții',16,'leviții'], ['le-au ridicat',13,'i-au urcat']],
+    '8:5': 'KEEP',
+    '8:6': 'KEEP',
+    '8:7': 'KEEP',
+    '8:8': 'KEEP',
+    '8:9': 'KEEP',
+    '8:10': [['Când',0,'și a fost',{'fn':1}], ['preoții',2,'preoții'], ['au plecat',1,'ieșind'], ['Sfânta',4,'sfântului'], ['norul',5,'norul'], ['a acoperit',6,'a umplut'], ['Templul',8,'casa'], ['DOMNULUI',9,'Domnului']],
+    '8:11': [['preoții',2,'preoții'], ['au putut',1,'au putut'], ['sta',3,'a sta'], ['slujească',4,'a sluji'], ['pricina',5,'din fața'], ['norului',6,'norului'], ['slava',9,'slava'], ['DOMNULUI',10,'Domnului'], ['umpluse',8,'a umplut'], ['Casa',12,'casa'], ['DOMNULUI',13,'Domnului']],
+    '8:12': 'KEEP',
+    '8:13': [['Ți-am zidit',1,'am zidit'], ['într-adevăr',0,'a zidi'], ['adăpost',[2,3],'casă de locuit'], ['temelie',5,'loc statornic'], ['veșnică',7,'veacuri'], ['sălașului Tău',6,'locuirea Ta']],
+    '8:14': [['Regele',1,'regele'], ['și-a întors',0,'a întors'], ['fața',3,'fața lui'], ['a binecuvântat',4,'a binecuvântat'], ['întreaga',6,'toată'], ['obște',7,'adunarea'], ['Israel',8,'Israel'], ['toată',9,'toată'], ['obștea',10,'adunarea'], ['Israel',11,'Israel'], ['stătea',12,'în picioare']],
+    '8:15': [['a spus',0,'a zis'], ['Binecuvântat',1,'binecuvântat'], ['DOAMNE',2,'Domnul'], ['Dumnezeul',3,'Dumnezeul'], ['Israel',4,'Israel'], ['a vorbit',6,'a vorbit'], ['gura',7,'gura lui'], ['tatălui meu',10,'tatăl meu'], ['David',9,'David'], ['mâna',11,'mâna lui'], ['a împlinit',12,'a împlinit'], ['spunând',13,'zicând']],
+    '8:16': [['ziua',1,'ziua'], ['l-am scos',3,'am scos'], ['poporul Meu',5,'poporul meu'], ['Israel',7,'Israel'], ['Egipt',8,'din Egipt'], ['am ales',10,'am ales'], ['oraș',11,'cetate'], ['dintre',12,'din toate'], ['triburile',13,'triburile'], ['Israel',14,'Israel'], ['construiesc',15,'a zidi'], ['Casă',16,'casă'], ['unde',19,'acolo'], ['să fie',17,'a fi'], ['numele Meu',18,'numele meu'], ['l-am ales',20,'am ales'], ['David',21,'în David'], ['să fie',22,'a fi'], ['poporul Meu',24,'poporul meu'], ['Israel',25,'Israel']],
+    '8:17': [['a fost',0,'a fost'], ['inimii',2,'inima'], ['tatălui meu',4,'tatăl meu'], ['David',3,'David'], ['construiască',5,'a zidi'], ['Casă',6,'casă'], ['numele',7,'numele'], ['DOMNULUI',8,'Domnului'], ['Dumnezeului',9,'Dumnezeul'], ['Israel',10,'Israel']],
+    '8:18': [['DOMNUL',1,'Domnul'], ['i-a spus',0,'a zis'], ['tatălui meu',4,'tatăl meu'], ['David',3,'David'], ['ai avut-o',7,'a fost'], ['inima ta',9,'inima ta'], ['construiești',10,'a zidi'], ['Casă',11,'casă'], ['numele Meu',12,'numele meu'], ['ai făcut bine',13,'ai făcut bine',{'ok3':1}], ['o ai',15,'a fost',{'fn':1}], ['inima ta',17,'inima ta']],
+    '8:19': 'KEEP',
+    '8:20': 'KEEP',
+    '8:21': 'KEEP',
+  },
+};
