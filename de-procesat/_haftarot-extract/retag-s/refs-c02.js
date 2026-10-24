@@ -1,0 +1,28 @@
+const M = {
+  '66:1': ['1 Împărați 8:27', '1 Cronici 28:2', 'Psalmul 11:4', 'Psalmul 132:7', '2 Samuel 7:5-7', 'Faptele apostolilor 17:24'],
+  '66:2': ['Isaia 40:26', 'Isaia 57:15', 'Psalmul 34:18', 'Psalmul 51:17', 'Ezra 9:4', 'Isaia 66:5'],
+  '66:3': ['Isaia 1:11-15', 'Proverbe 15:8', 'Isaia 65:3', 'Isaia 65:4', 'Leviticul 2:2', 'Isaia 66:17'],
+  '66:4': ['Proverbe 1:24', 'Isaia 65:12', 'Ieremia 7:13', 'Proverbe 10:24', 'Psalmul 81:12', 'Isaia 50:2'],
+  '66:5': ['Isaia 66:2', 'Psalmul 38:20', 'Cântarea cântărilor 1:6', 'Isaia 5:19', 'Proverbe 13:13'],
+  '66:6': ['Isaia 34:8', 'Isaia 59:18', 'Isaia 65:5-7', 'Amos 1:2'],
+  '66:7': ['Isaia 54:1', 'Galateni 4:26'],
+  '66:8': ['Isaia 64:4', 'Isaia 49:20-22'],
+  '66:9': ['Geneza 18:14', 'Isaia 37:3'],
+  '66:10': ['Isaia 44:23', 'Isaia 65:18', 'Deuteronomul 32:43', 'Psalmul 122:6', 'Isaia 61:2', 'Isaia 61:3'],
+  '66:11': ['Isaia 60:5', 'Isaia 60:16', 'Psalmul 36:8'],
+  '66:12': ['Isaia 48:18', 'Isaia 60:5', 'Psalmul 72:3-7', 'Isaia 60:4-14', 'Isaia 49:19-23'],
+  '66:13': ['Isaia 51:3', 'Isaia 65:18', 'Isaia 66:10'],
+  '66:14': ['Isaia 26:19', 'Proverbe 17:22', 'Ezechiel 37:1-14', 'Zaharia 10:7', 'Isaia 66:5', 'Maleahi 3:18'],
+  '66:15': ['Isaia 30:27', 'Isaia 30:33', 'Psalmul 50:3', 'Psalmul 97:3', 'Psalmul 21:9'],
+  '66:16': ['Isaia 34:5-10', 'Ezechiel 38:21', 'Ezechiel 38:22', 'Ezechiel 39:2-10', 'Isaia 27:1'],
+  '66:17': ['Isaia 65:3', 'Isaia 65:4', 'Isaia 1:29', 'Leviticul 11:2-8', 'Deuteronomul 14:3-8'],
+  '66:18': ['Isaia 37:28', 'Ezechiel 38:10', 'Ezechiel 39:21', 'Isaia 2:2', 'Psalmul 86:9', 'Ioel 3:2'],
+  '66:19': ['Geneza 10:4', 'Ezechiel 27:13', 'Ezechiel 38:2', 'Isaia 24:15', 'Isaia 11:10', 'Isaia 52:15'],
+  '66:20': ['Isaia 43:6', 'Isaia 49:12-26', 'Isaia 60:9', 'Isaia 60:3-14', 'Isaia 56:7', 'Isaia 11:9'],
+  '66:21': ['Isaia 61:6', 'Exodul 19:6', 'Ieremia 13:18-22'],
+  '66:22': ['Isaia 65:17', '2 Petru 3:13', 'Apocalipsa 21:1'],
+  '66:23': ['Ezechiel 46:1', 'Zaharia 14:16', '2 Împărați 4:23', 'Psalmul 81:3', 'Zaharia 8:20-23', 'Isaia 1:13'],
+  '66:24': ['Isaia 66:16', 'Isaia 14:11', 'Isaia 34:10', 'Daniel 12:2', 'Zaharia 14:12', 'Marcu 9:44-49'],
+};
+M['66:23b'] = M['66:23'];
+module.exports = M;

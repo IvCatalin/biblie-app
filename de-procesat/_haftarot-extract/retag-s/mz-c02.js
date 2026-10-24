@@ -1,0 +1,25 @@
+const M = {
+  '66:1': '„Hadom” — înțeles de scăunel al tronului, pus sub picioarele omului când stă pe tron, ca în „închinați-vă înaintea scăunelului picioarelor Lui” (Psalmul 99:5).',
+  '66:2': '„Unehe” — înțeles de frânt și zdrobit, ca în „frânt de inimă” (Psalmul 109). „Vehared” — înțeles de mare grabă, ca în „bătrânii cetății au tremurat în întâmpinarea lui” (1 Samuel).',
+  '66:3': '„Oref” — adică taie ceafa, partea din spate a gâtului, ca în „și dacă nu-l vei răscumpăra, îi vei frânge gâtul” (Exod 13:13). „Mazkir” — așa se numește arderea tămâiei, ca în „și va fi pâinii spre pomenire” (Levitic 24:7). „Mevarech” — înțeles de dar adus pentru a fi primit cu bunăvoință, ca în „ia, te rog, binecuvântarea mea” (Geneza 33). „Aven” — un lucru nepotrivit. „Ubshikutsehem” — de la „sheketz” și „toeva”, lucru urât.',
+  '66:4': '„Betaalulehem” — înțeles de batjocură și bătaie de joc, ca în „căci te-ai batjocorit de mine” (Numeri 22:29). „Umgurotam” — înțeles de frică, ca în „și s-a temut Moab” (Numeri 22:3).',
+  '66:5': '„Haharedim” — cei care se grăbesc. „Menaddehem” — din rădăcina „nedah”, a alunga, și a clătina.',
+  '66:6': '„Șaon” — înțeles de vuiet.',
+  '66:7': '„Tahil” — durerea nașterii, ca în „n-am avut dureri și n-am născut” (Isaia 23:4). „Hevel” — dureri și chinuri de naștere, ca în „durerile nașterii” (Osea 13:13). „Vehimlita” — așa se numește nașterea pruncului, ca în „și va naște și va sparge” (Isaia 34:15).',
+  '66:8': '„Haiuhal” — a avut dureri; sunt de la „hil”.',
+  '66:9': '„Ashbir” — locul de ședere al celei care naște se numește „mashber”, ca în „nu va sta în scaunul nașterii” (Osea 13:13). „Veatsarti” — înțeles de oprire și împiedicare, ca în „DOMNUL m-a oprit să nasc” (Geneza 16:2).',
+  '66:10': '„Hamitablim” — de la jelanie și durere.',
+  '66:11': '„Tinku” — de la supt. „Misod” — ca „mishad” cu patah, ca în „și sânul regilor” (Isaia 60:16). „Tanhumeha” — de la mângâiere. „Tamotsu” — de la sorbire, ca în „ai băut potirul… ai sorbit” (Isaia 51:17). „Vehitangtem” — de la desfătare. „Miziz” — de la mișcare dintr-un loc în altul, ca în „și ziz sadai” (Psalmul 80:14).',
+  '66:12': '„Shotef” — înțeles de grabă și de curgere. „Kavod” — înțeles de bogăție, ca în „din ce a fost al tatălui nostru a făcut toată această bogăție” (Geneza 31:1). „Tinasu” — de la povară și purtare. „Teshaashau” — înțeles de ocupare cu bucurie.',
+  '66:14': '„Kadeshe” — iarbă. „Tifrahna” — de la înflorire și creștere. „Vezaam” — înțeles de mânie.',
+  '66:15': '„Vecasufa” — vânt de furtună și de vijelie. „Vegaarato” — înțeles de strigăt de mustrare.',
+  '66:16': '„Nishpat” — înțeles de ceartă, ca în „iată, Mă judec cu tine” (Ieremia 2:35).',
+  '66:17': '„Hamitkadshim” — înțeles de pregătire, ca în „pregătiți-vă (kadshu) împotriva ei război” (Ieremia 6:4). „Betoch” — în mijloc, ca în „și le-a tăiat în mijloc” (Geneza 15:10). „Vehasheketz” — orice fel de spurcăciune; este nume general pentru toate târâtoarele. „Veha’akhbar” — numele unui soi de târâtoare. „Yasufu” — înțeles de nimicire, ca în „îi voi aduna cu adevărat” (Ieremia 8:13).',
+  '66:18': '„Vehalshonot” — așa se numesc popoarele deosebite, fiecare având limba ei.',
+  '66:19': '„Ot” — semn. „Pelitim” — înțeles de rămășiță, ca în „să nu aibă ea supraviețuitor” (Ieremia 50:29). „Tarshish” și celelalte — nume de țări.',
+  '66:20': '„Barechev” — în care. „Uvatsabim” — căruțe acoperite, ca în „căruțe acoperite” (Numeri 7:3). „Uvaprudim” — cei născuți din cal și măgar. „Uvakirkarot” — în dansuri de bucurie, ca în „și David dansa din toată puterea” (2 Samuel 6:14).',
+  '66:23': '„Midei” — înțelesul este ca „matai” (când), ca în „de câte ori trecea” (2 Împărați 4:8). „Hodesh” — așa se numește Roș Hodeș, ca în „mâine este luna nouă” (1 Samuel 20:18).',
+  '66:24': '„Bifgrei” — așa se numesc trupurile celor uciși, ca în „ca un cadavru călcat în picioare” (Isaia 14:19). „Tolaatam” — de la vierme și rimă. „Veishem” — de la foc. „Tichbe” — de la stingere. „Dēraon” — înțeles de dispreț, ca în „dezgust veșnic” (Daniel 12:2). „Lehol basar” — pentru orice om.',
+};
+M['66:23b'] = M['66:23'];
+module.exports = M;
