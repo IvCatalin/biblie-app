@@ -1,4 +1,5 @@
 process.env.OSHBMAP = process.env.OSHBMAP || require('path').join(__dirname, '../../_sarbatori_extract/oshb-map-sarbatori.json');
+process.env.SPLITF = process.env.SPLITF || require('path').join(__dirname, 'split-sarb.json');
 // node retag/retag.js <cap> [--scrie]  — retagare per cuvânt (Standard Davar) a unui capitol din haftarot-sarbatori.json
 // Intrare: retag/c<NN>.js = { bank: { "H1234": {d, x}, "H1+H2": {d, x} }, v: { "40:28": [ [fragmentRO, idxEbraic | [idx,idx], {opțiuni}], ... ] } }
 //   fragmentRO = subșir exact din textul Rosen; '' = cuvânt ebraic lăsat conștient fără tag (marcat în raport).

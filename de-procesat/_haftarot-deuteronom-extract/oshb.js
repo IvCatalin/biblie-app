@@ -105,7 +105,7 @@ function mk(i, raw, lemma, morph) {
 }
 function verse(b, c, v) { return book(b)[`${b}.${c}.${v}`] || null; }
 // Cuvintele ebraice ale unui verset din Haftarot (după oshb-map.json), cu excepțiile de împărțire diferită a versetelor
-const SPLIT = { '13|27:10': [['Isa', 27, 10, 0, 8]], '13|27:11': [['Isa', 27, 10, 8, 99], ['Isa', 27, 11, 0, 99]] };
+const SPLIT = Object.assign({ '13|27:10': [['Isa', 27, 10, 0, 8]], '13|27:11': [['Isa', 27, 10, 8, 99], ['Isa', 27, 11, 0, 99]] }, process.env.SPLITF ? JSON.parse(fs.readFileSync(process.env.SPLITF, 'utf8')) : {});
 let MAP = null;
 function haftWords(chNum, vLabel) {
   const key = chNum + '|' + vLabel;

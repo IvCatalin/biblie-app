@@ -1,4 +1,5 @@
 process.env.OSHBMAP = process.env.OSHBMAP || require('path').join(__dirname, '../../_sarbatori_extract/oshb-map-sarbatori.json');
+process.env.SPLITF = process.env.SPLITF || require('path').join(__dirname, 'split-sarb.json');
 // node retag/view.js <cap> [vDe] [vPana] — afișează versetele capitolului (text Rosen) + cuvintele ebraice OSHB indexate, pentru scrierea specificației retag/cNN.js
 // Marcaj: «·» = cuvânt format numai din funcții (conjuncție/prepoziție/articol/particulă) — taguit doar împreună cu un cuvânt vecin.
 const fs = require('fs'), path = require('path');

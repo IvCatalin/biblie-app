@@ -1,0 +1,27 @@
+// Sabat Hanuca (I) - Sabatul Luminilor (I) — Zaharia 2:14-4:7 — derivat din ciclul săptămânal cap. 40
+module.exports = {
+  bank: require('./bank-c03.js'),
+  v: {
+    '2:14': 'KEEP',
+    '2:15': 'KEEP',
+    '2:16': [['DOMNUL',1,'Domnul'], ['Iuda',3,'Iuda'], ['moștenire',0,'va moșteni'], ['parte',4,'partea Sa'], ['Țara Sfântă',[6,7],'țara sfântă'], ['alege',8,'va alege'], ['din nou',9,'din nou'], ['Ierusalimul',10,'Ierusalimul']],
+    '2:17': [['orice vietate',[1,2],'orice făptură'], ['înaintea',3,'înaintea'], ['DOMNULUI',4,'Domnului'], ['ridicat',6,'s-a ridicat'], ['sălașul Său cel sfânt',[7,8],'din sălașul Său sfânt']],
+    '3:1': 'KEEP',
+    '3:2': 'KEEP',
+    '3:3': 'KEEP',
+    '3:4': 'KEEP',
+    '3:5': [['a spus',0,'a zis'], ['pună',1,'să pună'], ['turban curat',[2,3],'turban curat'], ['cap',5,'pe capul lui'], ['pus',6,'au pus'], ['turban curat',[7,8],'turbanul curat'], ['cap',10,'pe capul lui'], ['îmbrăcat',11,'l-au îmbrăcat'], ['haine',12,'haine'], ['îngerul',13,'îngerul'], ['DOMNULUI',14,'Domnului'], ['stătea',15,'stătea']],
+    '3:6': 'KEEP',
+    '3:7': [['Așa',0,'așa'], ['a spus',1,'a spus'], ['DOMNUL Oștirilor',[2,3],'Domnul Oștirilor'], ['merge',6,'vei merge'], ['căile',5,'căile Mele'], ['sarcina',9,'sarcina Mea'], ['păzi',10,'vei păzi'], ['și tu',12,'tu'], ['vei guvernă',13,'vei judeca'], ['Casa',15,'casa Mea'], ['păzi',17,'vei păzi'], ['curțile',19,'curțile Mele'], ['voi da',20,'îți voi da'], ['miști',22,'căi de mers'], ['acești',25,'aceștia'], ['neclintiți',24,'cei care stau']],
+    '3:8': [['Ascultă',0,'ascultă'], ['Ioșua',2,'Ioșua'], ['Mare Preot',[3,4],'marele preot'], ['tu',5,'tu'], ['semenii',6,'semenii tăi'], ['așezați',7,'care stau'], ['înaintea',8,'înaintea ta'], ['acești',12,'ei'], ['oameni',10,'oameni'], ['semn',11,'semn']],
+    '3:9': [['aduc',0,'aduc'], ['slujitorul',2,'slujitorul Meu'], ['vlăstarul',3,'vlăstarul'], ['piatra',6,'piatra'], ['pus-o',8,'am pus'], ['înaintea',9,'înaintea'], ['Ioșua',10,'Ioșua'], ['singură',13,'o singură'], ['piatră',12,'piatră'], ['șapte',14,'șapte'], ['ochi',15,'ochi'], ['ciopli',17,'voi ciopla'], ['podoaba',18,'podoaba ei'], ['rostirea',19,'rostirea'], ['DOMNULUI Oștirilor',[20,21],'Domnului Oștirilor'], ['îndepărtat',22,'am dat la o parte'], ['păcatul',24,'păcatul'], ['acestei',26,'aceea'], ['țări',25,'țării'], ['singură',28,'una'], ['zi',27,'zi']],
+    '3:10': 'KEEP',
+    '4:1': [['îngerul',1,'îngerul'], ['vorbise',2,'care vorbea'], ['întors',0,'s-a întors'], ['deșteptat',4,'m-a deșteptat'], ['deșteaptă',7,'se deșteaptă'], ['om',5,'om'], ['somnul',8,'somnul lui']],
+    '4:2': [['a spus',0,'a spus'], ['vezi',[3,4],'vezi'], ['am spus',5,'am zis'], ['uitat',6,'am văzut'], ['sfeșnic',8,'sfeșnic'], ['întregime',10,'în întregime'], ['aur',9,'aur'], ['bolul',11,'bolul'], ['vârful',13,'vârful lui'], ['șapte',14,'și șapte'], ['candele',15,'candelele lui'], ['șapte',[17,18],'șapte și șapte'], ['tuburi',19,'tuburi'], ['candelele',20,'candelele'], ['vârful',23,'vârful lui']],
+    '4:3': [['doi măslini',[0,1],'doi măslini'], ['unul',3,'unul'], ['dreapta',4,'în dreapta'], ['bolului',5,'bolului'], ['unul',6,'și unul'], ['stânga',8,'în stânga lui']],
+    '4:4': 'KEEP',
+    '4:5': 'KEEP',
+    '4:6': [['a răspuns',0,'a răspuns'], ['a spus',1,'a spus'], ['astfel',3,'zicând',{'fn':1}], ['Acesta',4,'aceasta'], ['cuvântul',5,'cuvântul'], ['DOMNULUI',6,'Domnului'], ['Zerubavel',8,'Zerubavel'], ['spunând',9,'zicând',{'fn':1}], ['oștire',11,'putere'], ['putere',13,'forță'], ['duhul',16,'duhul Meu'], ['a spus',17,'a spus'], ['DOMNUL Oștirilor',[18,19],'Domnul Oștirilor']],
+    '4:7': [['tu',1,'tu'], ['munte',2,'munte'], ['măreț',3,'cel mare'], ['înaintea',4,'înaintea'], ['Zerubavel',5,'Zerubavel'], ['loc neted',6,'câmpie'], ['scoate',7,'va scoate'], ['piatra',9,'piatra'], ['dintâi',10,'cea dintâi'], ['strigăte',11,'strigăte'], ['Har, har',[12,13],'har, har']],
+  },
+};
