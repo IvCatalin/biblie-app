@@ -37,7 +37,7 @@ S['54:10'] = [J('ὄρος', 'τὰ/ὄρη', 'munte'), J('μεθίστημι', 
 S['54:11'] = [J('ταπεινός', 'Ταπεινὴ', 'smerit'), J('ἀκατάστατος', 'ἀκατάστατος', 'neașezat, zbuciumat'), J('παρακαλέω', 'οὐ/παρεκλήθης', 'a fi mângâiat'), J('ἐγώ', 'ἐγώ', 'eu'),
   J('ἑτοιμάζω', 'ἑτοιμάζω', 'a pregăti', 'Ebraica: „voi pune” (marbits, „a culca”); Septuaginta: „pregătesc” (ἑτοιμάζω).'), J('λίθος', 'τὸν/λίθον', 'piatră'),
   J('ἄνθραξ', 'ἄνθρακα', 'cărbune, rubin', 'Ebraica: „perle” (bapuh, „în antimoniu”); Septuaginta: „cărbune” (ἄνθρακα), piatră roșie.'), J('σάπφειρος', 'σάπφειρον', 'safir'), J('θεμέλιον', 'θεμέλιά', 'temelie')];
-S['54:12'] = [J('τίθημι', 'θήσω', 'a pune'), J('ἴασπις', 'Ἴασπιν', 'iaspis', 'Ebraica: „rubine” (kadhod); Septuaginta: „iaspis” (Ἴασπιν).'), J('ἔπαλξις', 'ἐπάλξεις', 'creneluri'), J('πύλη', 'πύλας', 'poartă'),
+S['54:12'] = [J('τίθημι', 'θήσω', 'a pune'), J('ἴασπις', 'Ἴασπιν', 'iaspis', 'Ebraica: kadkod, piatră scumpă redată de obicei „rubin”; Septuaginta: ἴασπις, „iaspis”, o piatră cu alt nume și altă culoare.'), J('ἔπαλξις', 'ἐπάλξεις', 'creneluri'), J('πύλη', 'πύλας', 'poartă'),
   J('κρύσταλλος', 'λίθους/κρυστάλλου', 'pietre de cristal', 'Ebraica: „pietre de carbuncul” (avnei ekdah); Septuaginta: „pietre de cristal” (λίθους κρυστάλλου).'), J('περίβολος', 'περίβολόν', 'zid de împrejmuire'), J('ἐκλεκτός', 'λίθους/ἐκλεκτούς', 'pietre alese')];
 S['54:13'] = [J('υἱός', 'πάντας/τοὺς/υἱούς', 'toți fiii'), J('διδακτός', 'διδακτοὺς', 'învățați'), J('θεός', 'Θεοῦ', 'Dumnezeu', 'Ebraica: „DOMNULUI” (YHWH); Septuaginta: „ai lui Dumnezeu” (Θεοῦ).'), J('πολύς', 'ἐν/πολλῇ', 'multă'), J('εἰρήνη', 'εἰρήνῃ', 'pace'), J('τέκνον', 'τὰ/τέκνα', 'copii')];
 S['54:14'] = [J('δικαιοσύνη', 'δικαιοσύνῃ', 'dreptate'), J('οἰκοδομέω', 'οἰκοδομηθήσῃ', 'a fi zidit'), J('ἀπέχω', 'ἀπέχου', 'a se ține departe'), J('ἄδικος', 'ἀδίκου', 'nedrept', 'Ebraica: „oprimare” (oșek); Septuaginta: „nedreptate” (ἀδίκου).'),
@@ -55,7 +55,7 @@ S['54:17'] = [J('σκεῦος', 'πᾶν/σκεῦος', 'orice unealtă'), J('
   J('κύριος', 'κύριον', 'Domn; DOMNUL'), J('δίκαιος', 'ἔσεσθέ/μοι/δίκαιοι', 'drepți', 'Ebraica: „dreptatea lor vine de la Mine”; Septuaginta: „voi Îmi veți fi drepți” (ὑμεῖς ἔσεσθέ μοι δίκαιοι).'), J('λέγω', 'λέγει', 'a spune'), J('κύριος', 'κύριος', 'Domn; DOMNUL')];
 S['55:1'] = [J('διψάω', 'οἱ/διψῶντες', 'cei însetați'), J('πορεύομαι', 'πορεύεσθε', 'a merge'), J('ὕδωρ', 'ὕδωρ', 'apă'), J('ἀργύριον', 'ἀργύριον', 'argint'), J('βαδίζω', 'βαδίσαντες', 'a merge'), J('ἀγοράζω', 'ἀγοράσατε', 'a cumpăra'),
   J('πίνω', 'πίετε', 'a bea', 'Ebraica: „mâncați” (ukhlu); Septuaginta: „beți” (πίετε).'), Z('Septuaginta nu repetă „să cumpărați”.'), J('ἀργύριον', 'ἀργυρίου', 'argint'), J('τιμή', 'τιμῆς', 'preț'), J('οἶνος', 'οἴνου', 'vin'),
-  J('στέαρ', 'στέαρ', 'grăsime', 'Ebraica: „lapte” (halav); Septuaginta: „grăsime” (στέαρ).')];
+  J('στέαρ', 'στέαρ', 'grăsime', 'Ebraica: halav, „lapte”; Septuaginta: στέαρ, „grăsime”, cuvânt grecesc folosit și pentru grăsimea jertfelor.')];
 S['55:2'] = [J('τιμάω', 'τιμᾶσθε', 'a prețui'), J('ἀργύριον', 'ἀργυρίου', 'argint'), Z('Septuaginta nu are „pâine” (lehem).'), J('μόχθος', 'μόχθον', 'osteneală'), J('πλησμονή', 'οὐκ/εἰς/πλησμονήν', 'spre săturare'),
   J('ἀκούω', 'ἀκούσατέ', 'a asculta'), Z('Septuaginta nu are „atent” (șamoa, infinitiv absolut).'), J('ἐσθίω', 'φάγεσθε', 'a mânca'), J('ἀγαθός', 'ἀγαθά', 'bun'), J('ψυχή', 'ψυχὴ', 'suflet'), J('ἐντρυφάω', 'ἐντρυφήσει', 'a se desfăta'),
   J('ἀγαθός', 'ἐν/ἀγαθοῖς', 'întru cele bune', 'Ebraica: „plenitudine” (deșen, „grăsime”); Septuaginta: „întru cele bune” (ἐν ἀγαθοῖς).')];
