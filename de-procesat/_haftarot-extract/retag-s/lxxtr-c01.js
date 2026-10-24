@@ -1,0 +1,20 @@
+// Septuaginta (Rahlfs 1935, 1 Regate/1 Samuel) — 1 Samuel 20:18-42: traduceri și note TM–LXX (factuale)
+module.exports = {
+  '20:18': { tr: '„Și Ionatan a spus: «Mâine este lună nouă și vei fi căutat, căci scaunul tău va fi căutat.»”', note: 'Septuaginta redă „locul tău va fi gol” prin „scaunul tău va fi căutat” (ἐπισκεπήσεται καθέδρα), cu același verb ca la „vei fi căutat”, și nu pomenește „lui David” ca destinatar.' },
+  '20:19': { tr: '„Și vei face trei zile și vei fi căutat și vei veni la locul tău, unde te-ai ascuns în ziua de lucru, și vei ședea lângă acel ergab.”', note: 'Septuaginta nu traduce numele pietrei, ci îl dă ca „ergab” (ἐργάβ), și redă „în ziua faptei” prin „în ziua de lucru” (ἐργασίμῃ).' },
+  '20:21': { tr: '„Și iată, voi trimite tânărul, spunând: «Vino, găsește-mi vergeaua.» Dacă voi spune tânărului: «Iată, vergeaua e de la tine încoace, ia-o și vino», pace ție și nu este nicio vorbă — viu este Domnul.”', note: 'Septuaginta redă „săgețile” prin „vergeaua” (σχίζα), la singular, și „te întorci” prin „vino” (παραγίνου).' },
+  '20:22': { tr: '„Dacă voi spune astfel tânărului: «Iată, vergeaua e de la tine și mai departe», du-te, căci Domnul te-a trimis.”', note: 'Septuaginta redă „băiețașului” prin νεανίσκῳ și „săgețile” prin „vergeaua” (σχίζα), la singular.' },
+  '20:25': { tr: '„Și regele a șezut pe scaunul lui, ca de fiecare dată, pe scaunul de lângă perete, și l-a întrecut pe Ionatan, și Avner a șezut alături de Șaul, și a fost căutat locul lui David.”', note: 'Unde ebraica spune „Ionatan s-a ridicat”, Septuaginta are „l-a întrecut pe Ionatan” (προέφθασεν), iar „era gol” este redat prin „a fost căutat” (ἐπεσκέπη).' },
+  '20:26': { tr: '„Și Șaul n-a spus nimic în ziua aceea, căci a zis: «Se pare că este o întâmplare: nu este curat, căci nu s-a curățit.»”', note: 'Septuaginta adaugă „se pare” (φαίνεται) la „întâmplare” și are o singură negație („nu este curat”) în loc de cele două ale ebraicii.' },
+  '20:27': { keepTr: 1, note: 'Septuaginta redă „la ospăț” (lehem) prin „la masă” (ἐπὶ τὴν τράπεζαν).' },
+  '20:28': { keepTr: 1, note: 'Septuaginta adaugă „cetatea lui” (τὴν πόλιν αὐτοῦ) după Betleem, ceea ce ebraica nu are în acest verset.' },
+  '20:29': { tr: '„Și a zis: «Trimite-mă, te rog, căci avem jertfa tribului în cetate și frații mei mi-au poruncit; și acum, dacă am aflat har în ochii tăi, să fiu scăpat, te rog, și să-mi văd frații.» De aceea n-a venit la masa regelui.”', note: 'Septuaginta redă „familia” (mișpaha) prin „tribul” (φυλή), are „frații mei” la plural în loc de „fratele meu” și „să fiu scăpat” (διασωθήσομαι) în loc de „dă-mi voie să scap”.' },
+  '20:32': { keepTr: 1, note: 'Corespondență strânsă cu Textul Masoretic.' },
+  '20:33': { keepTr: 1, note: 'Unde ebraica spune că Șaul a aruncat sulița „ca să-l lovească” (lehakoto), Septuaginta are „ca să-l ucidă” (θανατῶσαι), iar verbul „a aruncat” este redat prin „a ridicat” (ἐπῆρεν).' },
+  '20:36': { keepTr: 1, note: 'Septuaginta redă peste tot „săgeata” prin „vergeaua” (σχίζα), cuvânt care înseamnă o bucată despicată de lemn.' },
+  '20:37': { keepTr: 1, note: 'Septuaginta are afirmația „Acolo este vergeaua, de la tine și mai departe” în locul întrebării „Nu este oare săgeata dincolo de tine?”.' },
+  '20:38': { tr: '„Și Ionatan a strigat după tânărul lui, spunând: «Grăbește-te degrabă și nu te opri!» Și tânărul lui Ionatan a adunat vergelele la stăpânul lui.”', note: 'Septuaginta are „grăbește-te degrabă” (ταχύνας σπεῦσον) în loc de „Iute! Grăbește-te”, nu spune că tânărul „s-a întors”, și redă „săgețile” prin „vergelele” (σχίζας).' },
+  '20:40': { keepTr: 1, note: 'Septuaginta redă „armele” prin τὰ σκεύη, „uneltele”, și „du-le” prin „intră” (εἴσελθε).' },
+  '20:41': { keepTr: 1, note: 'Unde ebraica are „din partea de miazăzi” (mēēțel hanegev), Septuaginta are „de la ergab” (ἀπὸ τοῦ ἐργάβ), același nume transliterat ca la 20:19, și redă „până când David a plâns și mai mult” prin „până la o mare sfârșire” (ἕως συντελείας μεγάλης).' },
+  '20:42': { keepTr: 1, note: 'Septuaginta adaugă „martor” (μάρτυς) la „Domnul va fi între mine și tine” și redă „copiii” prin „sămânța” (σπέρμα).' },
+};

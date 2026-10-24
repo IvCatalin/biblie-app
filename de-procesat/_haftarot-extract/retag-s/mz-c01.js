@@ -1,0 +1,17 @@
+module.exports = {
+  '20:18': '„Și vei fi căutat” — înțeles de amintire. „Va fi căutat” — înțelesul lui este lipsă, ca în „și n-a lipsit dintre ei niciun om” (Numeri 31:49).',
+  '20:19': '„Ha-Ezel” — înțeles de mers, ca în „apele au secat (azlu) din mare” (Iov 14:11); adică un semn pentru cei care merg pe drum.',
+  '20:20': '„Țidah” — din limba cuvântului țad, „latură”. „Orè” — voi arunca, ca în „a aruncat (iarah) în mare” (Exodul 15:4). „La țintă (matarà)” — lucrul spre care ochesc cei ce aruncă, ca în „ca o țintă pentru săgeată” (Plângerile lui Ieremia 3:12).',
+  '20:21': '„Ve-hinè” — spre partea aceasta, adică „încoace”.',
+  '20:22': '„La elem” — la tânăr, ca în „al cui fiu este tânărul acesta” (1 Samuel 17:56).',
+  '20:25': '„Vaipaked” — de la înțelesul de lipsă.',
+  '20:26': '„Meuma” — deloc. „Bilti” — are înțelesul lui „bal” și „lo”, adică „nu”.',
+  '20:29': '„Imaletà” — înțeles de scăpare și de ieșire dintr-o treabă.',
+  '20:31': '„Tikon” — din limba pregătirii și a statorniciei. „Ben mavet” — om de moarte.',
+  '20:33': '„Vaiatel” — a aruncat.',
+  '20:35': '„Lemoed” — loc rânduit și stabilit; după cum se spune despre un timp stabilit, tot astfel se spune și despre un loc stabilit, ca în „casa de adunare (bet moed) a oricărui viu” (Iov 30:23).',
+  '20:36': '„Moré” — din limba tragerii și aruncării.',
+  '20:37': '„După tânăr” — adică către tânăr, când acesta se află în urma lui.',
+  '20:38': '„Huşà” — și el are înțeles de grabă, ca în „grăbește-te (huşà) în ajutorul meu” (Psalmul 38), iar vorba este dublată prin cuvinte diferite.',
+  '20:41': '„Higdil” — din limba mărimii și a înmulțirii.',
+};
