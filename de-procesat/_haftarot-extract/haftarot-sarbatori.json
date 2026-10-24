@@ -55049,8 +55049,10 @@
        "translit": "iad",
        "strong": "H3027",
        "pos": "substantiv, masculin și feminin singular construct",
-       "def_ro": "mâna (iad)",
-       "dict_ro": "«Mâna DOMNULUI», expresie standard pentru experiența profetică extatică, inaugurează viziunea Văii Oaselor Uscate."
+       "def_ro": "mâna",
+       "dict_ro": "Iad, „mâna”, e în Biblie simbolul puterii și al lucrării: cu „mână tare” l-a scos DOMNUL pe Israel din Egipt (Exodul 13:9). A lua pe cineva „de mână” exprimă sprijin și călăuzire (Isaia 42:6).",
+       "greek": "χείρ (cheir)",
+       "greek_def_ro": "χείρ (cheir) — mână"
       },
       {
        "t": " "
@@ -55062,259 +55064,102 @@
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
-       "def_ro": "DOMNULUI (Adonai)",
-       "dict_ro": "«Mâna DOMNULUI», expresie standard pentru experiența profetică extatică, inaugurează viziunea."
+       "def_ro": "Domnului",
+       "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn",
+       "diff_ro": "Ebraica: numele divin (YHWH); Septuaginta: „Domnul” (κύριος)."
       },
       {
        "t": " "
       },
       {
-       "t": "a fost asupra mea",
-       "w": "a fost asupra mea",
-       "heb": "הָיְתָה עָלַי",
-       "translit": "haita alai",
-       "strong": "H5921",
-       "pos": "verb, qal perfect + prepoziție + sufix",
-       "def_ro": "a fost asupra mea (haita alai)",
-       "dict_ro": "«Mâna DOMNULUI» inaugurează viziunea Văii Oaselor Uscate."
+       "t": "a fost",
+       "w": "a fost",
+       "heb": "הָיְתָה",
+       "translit": "haita",
+       "strong": "H1961",
+       "pos": "verb, qal perfect",
+       "def_ro": "a fost",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "γίνομαι (ginomai)",
+       "greek_def_ro": "γίνομαι (ginomai) — a fi"
       },
       {
-       "t": " "
+       "t": " asupra mea și "
       },
       {
-       "t": "și m-a scos,",
-       "w": "și m-a scos,",
+       "t": "m-a scos",
+       "w": "m-a scos",
        "heb": "וַיּוֹצִאֵנִי",
        "translit": "vaioțiēni",
        "strong": "H3318",
        "pos": "verb, hifil imperfect consecutiv + sufix",
-       "def_ro": "și m-a scos, (vaioțiēni)",
-       "dict_ro": "Transportul extatic al profetului, prin duhul DOMNULUI, confirmă caracterul vizionar, nu fizic, al experienței."
+       "def_ro": "m-a scos",
+       "dict_ro": "Iața e verbul ieșirii, legat în memoria lui Israel de ieșirea din Egipt (iețiat Mițraim). La forma cauzativă, hoți, „a scoate”, descrie adesea eliberarea: Dumnezeu „scoate” poporul din robie și pe prizonieri din temniță (Isaia 42:7).",
+       "greek": "ἐξάγω (exago)",
+       "greek_def_ro": "ἐξάγω (exago) — a scoate"
       },
       {
-       "t": " "
+       "t": ", prin "
       },
       {
-       "t": "prin duhul",
-       "w": "prin duhul",
+       "t": "duhul",
+       "w": "duhul",
        "heb": "בְרוּחַ",
        "translit": "veruah",
        "strong": "H7307",
        "pos": "substantiv, masculin și feminin singular construct",
-       "def_ro": "prin duhul (veruah)",
-       "dict_ro": "Transportul extatic al profetului, prin duhul DOMNULUI, confirmă caracterul vizionar, nu fizic, al experienței."
+       "def_ro": "în duhul",
+       "dict_ro": "Ruah, „duh, vânt”: „Duhul lui Dumnezeu se mișca deasupra apelor” (Geneza 1:2). „Duhul întristat” este starea lăuntrică a celei părăsite.",
+       "greek": "πνεῦμα (pneuma)",
+       "greek_def_ro": "πνεῦμα (pneuma) — duh"
       },
       {
        "t": " "
       },
       {
-       "t": "DOMNULUI,",
-       "w": "DOMNULUI,",
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
        "heb": "יְהוָה",
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
-       "def_ro": "DOMNULUI, (Adonai)",
-       "dict_ro": "Transportul extatic al profetului, prin duhul DOMNULUI, confirmă caracterul vizionar, nu fizic, al experienței."
+       "def_ro": "Domnului",
+       "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn",
+       "diff_ro": "Ebraica: „duhul DOMNULUI” (ruah Adonai); Septuaginta: „în duh, Domnul” (ἐν πνεύματι κύριος), cu Domnul ca subiect al verbului."
       },
       {
-       "t": " "
+       "t": ", și "
       },
       {
-       "t": "și m-a lăsat jos",
-       "w": "și m-a lăsat jos",
+       "t": "m-a lăsat jos",
+       "w": "m-a lăsat jos",
        "heb": "וַיְנִיחֵנִי",
        "translit": "vainihēni",
        "strong": "H5117",
        "pos": "verb, hifil imperfect consecutiv + sufix",
-       "def_ro": "și m-a lăsat (vainihēni)",
-       "dict_ro": "Transportul extatic al profetului, prin duhul DOMNULUI, confirmă caracterul vizionar, nu fizic, al experienței."
+       "def_ro": "m-a pus",
+       "dict_ro": "Nuah la forma cauzativă înseamnă „a da odihnă, a face să se odihnească”: „Fața Mea va merge și te voi odihni” (Exodul 33:14). Dumnezeu cere să li se dea odihnă celor obosiți, iar poporul refuză acest dar.",
+       "greek": "τίθημι (tithemi)",
+       "greek_def_ro": "τίθημι (tithemi) — a pune"
       },
       {
-       "t": " "
+       "t": " în "
       },
       {
-       "t": "în mijlocul",
-       "w": "în mijlocul",
+       "t": "mijlocul",
+       "w": "mijlocul",
        "heb": "בְּתוֹךְ",
        "translit": "betoh",
        "strong": "H8432",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "în mijlocul (betoh)",
-       "dict_ro": "Valea, loc deschis, vast, pregătește imaginea impresionantă a mulțimii de oase descrise."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "văii,",
-       "w": "văii,",
-       "heb": "הַבִּקְעָה",
-       "translit": "habika",
-       "strong": "H1237",
-       "pos": "substantiv, feminin singular",
-       "def_ro": "văii, (habika)",
-       "dict_ro": "Valea, loc deschis, vast, pregătește imaginea impresionantă a mulțimii de oase descrise."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "care era plină",
-       "w": "care era plină",
-       "heb": "וְהִיא מְלֵאָה",
-       "translit": "vehi melēa",
-       "strong": "H4392",
-       "pos": "pronume personal + adjectiv, feminin singular",
-       "def_ro": "și ea [era] plină (vehi melēa)",
-       "dict_ro": "Valea, loc deschis, vast, pregătește imaginea impresionantă a mulțimii de oase descrise."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "de oase.",
-       "w": "de oase.",
-       "heb": "עֲצָמוֹת",
-       "translit": "ațamot",
-       "strong": "H6106",
-       "pos": "substantiv, feminin plural",
-       "def_ro": "de oase. (ațamot)",
-       "dict_ro": "Valea, loc deschis, vast, pregătește imaginea impresionantă a mulțimii de oase descrise."
-      }
-     ],
-     "textCompare": [
-      {
-       "source": "Textul Masoretic (ebraică)",
-       "original": "הָיְתָה עָלַי יַד־יְהוָה וַיּוֹצִאֵנִי בְרוּחַ יְהוָה וַיְנִיחֵנִי בְּתוֹךְ הַבִּקְעָה וְהִיא מְלֵאָה עֲצָמוֹת׃",
-       "translation": "Mâna DOMNULUI a fost asupra mea și m-a scos, prin duhul DOMNULUI, și m-a lăsat jos în mijlocul văii, care era plină de oase. — traducerea rabinului Rosen.",
-       "note": ""
-      },
-      {
-       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ΚΑΙ ἐγένετο ἐπ’ ἐμὲ χεὶρ Κυρίου, καὶ ἐξήγαγέ με ἐν πνεύματι Κύριος καὶ ἔθηκέ με ἐν μέσῳ τοῦ πεδίου, καὶ τοῦτο ἦν μεστὸν ὀστέων ἀνθρωπίνων·",
-       "greek": true,
-       "translation": "Și a fost asupra mea mâna Domnului, și m-a dus în duh Domnul, și m-a pus în mijlocul câmpiei, și aceasta era plină de oase omenești.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
-      }
-     ],
-     "refs": [
-      "Ezechiel 1:3",
-      "Ezechiel 8:3"
-     ],
-     "commentaries": [
-      {
-       "author": "Rashi (1040–1105)",
-       "text": "„Mâna DOMNULUI” — orice „mână a DOMNULUI” din contextul profeției e o expresie de constrângere, căci duhul îl constrângea [pe profet] să meargă, ca un smintit, spre locul unde duhul voia. „Și era plină de oase” — înțelepții noștri au spus că erau din tribul lui Efraim, care au ieșit din Egipt înainte de vremea hotărâtă, și i-au ucis oamenii din Gat, cum se spune în Cronici (vezi Sanhedrin 92b)."
-      }
-     ]
-    },
-    {
-     "v": "37:2",
-     "t": "Și m-a făcut să trec pe lângă ele, de jur împrejur, și iată, erau foarte multe pe suprafața văii și iată, erau foarte uscate.",
-     "heb": "וְהֶעֱבִירַנִי עֲלֵיהֶם סָבִיב סָבִיב וְהִנֵּה רַבּוֹת מְאֹד עַל־פְּנֵי הַבִּקְעָה וְהִנֵּה יְבֵשׁוֹת מְאֹד׃",
-     "translit": "Vehevirani aleihem saviv saviv vehine rabot meod al-penei habika vehine ieveșot meod.",
-     "tokens": [
-      {
-       "t": "Și m-a făcut să trec",
-       "w": "Și m-a făcut să trec",
-       "heb": "וְהֶעֱבִירַנִי",
-       "translit": "veheevirani",
-       "strong": "H5674",
-       "pos": "verb, hifil perfect + sufix",
-       "def_ro": "și m-a făcut să trec (veheevirani)",
-       "dict_ro": "Trecerea profetului prin mijlocul oaselor, din toate direcțiile, confirmă amploarea vizuală completă a scenei."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "pe lângă ele,",
-       "w": "pe lângă ele,",
-       "heb": "עֲלֵיהֶם",
-       "translit": "alēhem",
-       "strong": "H5921",
-       "pos": "prepoziție + sufix",
-       "def_ro": "peste ele, (alēhem)",
-       "dict_ro": "Trecerea profetului prin mijlocul oaselor confirmă amploarea vizuală completă a scenei."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "de jur",
-       "w": "de jur",
-       "heb": "סָבִיב",
-       "translit": "saviv",
-       "strong": "H5439",
-       "pos": "substantiv, masculin și feminin singular",
-       "def_ro": "de jur (saviv)",
-       "dict_ro": "Trecerea profetului prin mijlocul oaselor, din toate direcțiile, confirmă amploarea vizuală completă a scenei."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "împrejur,",
-       "w": "împrejur,",
-       "heb": "סָבִיב",
-       "translit": "saviv",
-       "strong": "H5439",
-       "pos": "substantiv, masculin și feminin singular",
-       "def_ro": "împrejur, (saviv)",
-       "dict_ro": "Trecerea profetului prin mijlocul oaselor, din toate direcțiile, confirmă amploarea vizuală completă a scenei."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "și iată,",
-       "w": "și iată,",
-       "heb": "וְהִנֵּה",
-       "translit": "vehinē",
-       "strong": "H2009",
-       "pos": "particulă demonstrativă",
-       "def_ro": "și iată, (vehinē)",
-       "dict_ro": "Descrierea dublă — foarte multe, foarte uscate — amplifică retoric caracterul disperat al scenei."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "erau foarte",
-       "w": "erau foarte",
-       "heb": "רַבּוֹת",
-       "translit": "rabot",
-       "strong": "H7227",
-       "pos": "adjectiv, feminin plural",
-       "def_ro": "multe (rabot)",
-       "dict_ro": "Descrierea dublă — foarte multe, foarte uscate — amplifică retoric caracterul disperat al scenei."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "multe",
-       "w": "multe",
-       "heb": "מְאֹד",
-       "translit": "meod",
-       "strong": "H3966",
-       "pos": "adverb",
-       "def_ro": "foarte (meod)",
-       "dict_ro": "Descrierea dublă — foarte multe, foarte uscate — amplifică retoric caracterul disperat al scenei."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "pe suprafața",
-       "w": "pe suprafața",
-       "heb": "עַל פְּנֵי",
-       "translit": "al penē",
-       "strong": "H6440",
-       "pos": "prepoziție + substantiv, masculin și feminin plural construct",
-       "def_ro": "pe fața (al penē)",
-       "dict_ro": "Descrierea dublă — foarte multe, foarte uscate — amplifică retoric caracterul disperat al scenei."
+       "def_ro": "în mijlocul",
+       "dict_ro": "Tavek, „mijloc”: „voi locui în mijlocul copiilor lui Israel” (Exodul 29:45). Locuirea lui Dumnezeu în mijlocul poporului este inima legământului și țelul final al promisiunilor.",
+       "greek": "μέσος (mesos)",
+       "greek_def_ro": "μέσος (mesos) — mijloc"
       },
       {
        "t": " "
@@ -55326,47 +55171,218 @@
        "translit": "habika",
        "strong": "H1237",
        "pos": "substantiv, feminin singular",
-       "def_ro": "văii (habika)",
-       "dict_ro": "Descrierea dublă — foarte multe, foarte uscate — amplifică retoric caracterul disperat al scenei."
+       "def_ro": "văii",
+       "dict_ro": "Bik'a este „câmpia”, „valea largă”; Deuteronomul 8:7 vorbește despre „văi și munți” din țara făgăduită. Aici ea este ținta transformării: în locul povârnișului, un loc larg și neted.",
+       "greek": "πεδίον (pedion)",
+       "greek_def_ro": "πεδίον (pedion) — câmpie",
+       "diff_ro": "Ebraica: „văii” (habika), o vale între munți; Septuaginta: „câmpiei” (πεδίου), un loc plat și deschis."
       },
       {
-       "t": " "
+       "t": ", care era "
       },
       {
-       "t": "și iată,",
-       "w": "și iată,",
-       "heb": "וְהִנֵּה",
-       "translit": "vehinē",
-       "strong": "H2009",
-       "pos": "particulă demonstrativă",
-       "def_ro": "și iată, (vehinē)",
-       "dict_ro": "Oasele uscate complet confirmă starea de moarte veche, ireversibilă în aparență, pregătind minunea care urmează."
+       "t": "plină",
+       "w": "plină",
+       "heb": "מְלֵאָה",
+       "translit": "melēa",
+       "strong": "H4392",
+       "pos": "adjectiv, feminin singular",
+       "def_ro": "plină",
+       "dict_ro": "Male înseamnă „plin”; este adjectivul din aceeași familie cu verbul mala, „a umple”. Femeia pune deoparte fiecare vas plin și trece la următorul, până când ultimul e plin și untdelemnul se oprește.",
+       "greek": "μεστός (mestos)",
+       "greek_def_ro": "μεστός (mestos) — plin"
       },
       {
-       "t": " "
+       "t": " de "
       },
       {
-       "t": "erau foarte",
-       "w": "erau foarte",
-       "heb": "יְבֵשׁוֹת",
-       "translit": "ievēșot",
-       "strong": "H3002",
-       "pos": "adjectiv, feminin plural",
-       "def_ro": "uscate (ievēșot)",
-       "dict_ro": "Oasele uscate complet confirmă starea de moarte veche, ireversibilă în aparență."
+       "t": "oase",
+       "w": "oase",
+       "heb": "עֲצָמוֹת",
+       "translit": "ațamot",
+       "strong": "H6106",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "de oase",
+       "dict_ro": "Etsem înseamnă „os”. Oasele regilor, ale conducătorilor, ale preoților, ale profeților și ale locuitorilor vor fi scoase, o profanare gravă după mentalitatea vremii.",
+       "greek": "ὀστέον (osteon)",
+       "greek_def_ro": "ὀστέον (osteon) — os",
+       "diff_ro": "Septuaginta adaugă „omenești” (ἀνθρωπίνων)."
       },
       {
-       "t": " "
+       "t": "."
+      }
+     ],
+     "textCompare": [
+      {
+       "source": "Textul Masoretic (ebraică)",
+       "original": "הָיְתָה עָלַי יַד־יְהוָה וַיּוֹצִאֵנִי בְרוּחַ יְהוָה וַיְנִיחֵנִי בְּתוֹךְ הַבִּקְעָה וְהִיא מְלֵאָה עֲצָמוֹת׃",
+       "translation": "Mâna DOMNULUI a fost asupra mea și m-a scos, prin duhul DOMNULUI, și m-a lăsat jos în mijlocul văii, care era plină de oase. — traducerea rabinului Rosen.",
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
-       "t": "uscate.",
-       "w": "uscate.",
+       "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
+       "original": "καὶ ἐγένετο ἐπ᾿ ἐμὲ χεὶρ κυρίου καὶ ἐξήγαγέν με ἐν πνεύματι κύριος καὶ ἔθηκέν με ἐν μέσῳ τοῦ πεδίου καὶ τοῦτο ἦν μεστὸν ὀστέων ἀνθρωπίνων",
+       "greek": true,
+       "translation": "Și a fost asupra mea mâna Domnului, și m-a dus în duh Domnul, și m-a pus în mijlocul câmpiei, și aceasta era plină de oase omenești.",
+       "note": "Septuaginta redă „în mijlocul văii” (betoh habika) prin „în mijlocul câmpiei” (ἐν μέσῳ τοῦ πεδίου), „prin duhul DOMNULUI” prin „în duh, Domnul” (ἐν πνεύματι κύριος), cu Domnul ca subiect al verbului, și are „oase omenești” (ὀστέων ἀνθρωπίνων)."
+      }
+     ],
+     "refs": [
+      "Ezechiel 1:3",
+      "Ezechiel 3:14",
+      "Ezechiel 3:22",
+      "Ezechiel 8:3",
+      "Ezechiel 11:24",
+      "Ezechiel 40:1"
+     ],
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Mâna DOMNULUI” — orice „mână a DOMNULUI” din contextul profeției e o expresie de constrângere, căci duhul îl constrângea [pe profet] să meargă, ca un smintit, spre locul unde duhul voia. „Și era plină de oase” — înțelepții noștri au spus că erau din tribul lui Efraim, care au ieșit din Egipt înainte de vremea hotărâtă, și i-au ucis oamenii din Gat, cum se spune în Cronici (vezi Sanhedrin 92b)."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„A fost asupra mea mâna DOMNULUI și m-a așezat” — cum a tradus Targumul, „ve-ashrani”, înțeles de odihnă. „În mijlocul văii” — se poate ca aceasta să fi fost valea în care i-a venit profeția mai înainte, cum a spus la începutul cărții. „Și era plină de oase” — Ionatan a tradus „oase de oameni”. Dumnezeu i-a arătat aceasta ca pildă: fiii lui Israel vor ieși din exilul în care sunt, în care se află ca niște oase uscate; sau i-a arătat-o ca să-i arate că va învia în viitor morții lui Israel, la vremea izbăvirii, ca să vadă și ei izbăvirea. Despre aceasta este dispută între Înțelepții noștri. S-a învățat: Rabi Eliezer spune că morții pe care i-a înviat Ezechiel s-au sculat pe picioarele lor și au spus cântare, iar cântarea a fost: „DOMNUL omoară și învie, omoară cu dreptate și învie cu îndurare”; Rabi Iehoșua spune: au spus cântarea „DOMNUL omoară și învie, coboară în Șeol și ridică”; Rabi Iehuda spune: este adevărat o pildă. Rabi Eliezer, fiul lui Rabi Iosei Galileanul, spune: morții pe care i-a înviat Ezechiel s-au suit în țara lui Israel, s-au căsătorit și au născut fii și fiice; Rabi Iehuda ben Betera s-a ridicat pe picioarele lui și a spus: eu sunt dintre nepoții lor, și acestea sunt filacterele pe care mi le-a lăsat tatăl tatălui meu de la ei. Și au întrebat: cine au fost morții înviați de Ezechiel? Rav a spus: fiii lui Efraim, care au numărat sfârșitul [exilului] și s-au înșelat, după cum este scris „și fiii lui Efraim… Șutelah și Bered, fiul lui” etc. „și i-au ucis oamenii din Gat”, „și Efraim, tatăl lor, a plâns după ei”. Samuel a spus: oameni care au tăgăduit învierea morților. Rabi Iohanan a spus: morții din valea Dura, cum este scris în capitolul „Helek” (Sanhedrin 92b)."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Mâna DOMNULUI” — puterea tăriei profeției. „Și m-a scos” — m-a scos din locul meu. „Prin duhul DOMNULUI” — adică scoaterea a fost după voia Locului, nu după voia mea, ci fără voia mea. „Și era plină de oase” — Înțelepții noștri, de binecuvântată amintire, au spus că erau dintre fiii lui Efraim, care au grăbit sfârșitul ieșind din Egipt, și i-au ucis oamenii din Gat."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Prin duhul” (beruah) — înțeles de voie. „Și m-a așezat” (vaiainihēni) — de la așezare. „Valea” (habika) — adâncitura."
+      }
+     ]
+    },
+    {
+     "v": "37:2",
+     "t": "Și m-a făcut să trec pe lângă ele, de jur împrejur, și iată, erau foarte multe pe suprafața văii și iată, erau foarte uscate.",
+     "heb": "וְהֶעֱבִירַנִי עֲלֵיהֶם סָבִיב סָבִיב וְהִנֵּה רַבּוֹת מְאֹד עַל־פְּנֵי הַבִּקְעָה וְהִנֵּה יְבֵשׁוֹת מְאֹד׃",
+     "translit": "Vehevirani aleihem saviv saviv vehine rabot meod al-penei habika vehine ieveșot meod.",
+     "tokens": [
+      {
+       "t": "Și "
+      },
+      {
+       "t": "m-a făcut să trec",
+       "w": "m-a făcut să trec",
+       "heb": "וְהֶעֱבִירַנִי",
+       "translit": "veheevirani",
+       "strong": "H5674",
+       "pos": "verb, hifil perfect + sufix",
+       "def_ro": "m-a trecut",
+       "dict_ro": "Avar, „a trece”, e rădăcina de la care e explicat de obicei numele ivri, „evreu”: cel de „dincolo” de râu, ca Avraam, venit de peste Eufrat. Trecerea prin ape și prin foc (Isaia 43:2) amintește trecerea Mării Roșii și a Iordanului.",
+       "greek": "περιάγω (periago)",
+       "greek_def_ro": "περιάγω (periago) — a purta de jur împrejur"
+      },
+      {
+       "t": " pe lângă ele, "
+      },
+      {
+       "t": "de jur împrejur",
+       "w": "de jur împrejur",
+       "heb": "סָבִיב סָבִיב",
+       "translit": "saviv saviv",
+       "strong": "H5439",
+       "pos": "substantiv, masculin și feminin singular + substantiv, masculin și feminin singular",
+       "def_ro": "de jur împrejur",
+       "dict_ro": "„Saviv saviv”, „de jur împrejur”, repetat, subliniază că sfințenia înconjoară complet muntele. Repetiția spune că nu există un loc dinafară, care să fie lăsat profan.",
+       "greek": "κυκλόθεν (kyklothen)",
+       "greek_def_ro": "κυκλόθεν (kyklothen) — de jur împrejur"
+      },
+      {
+       "t": ", și iată, erau "
+      },
+      {
+       "t": "foarte",
+       "w": "foarte",
        "heb": "מְאֹד",
        "translit": "meod",
        "strong": "H3966",
        "pos": "adverb",
-       "def_ro": "foarte. (meod)",
-       "dict_ro": "Oasele uscate complet confirmă starea de moarte veche, ireversibilă în aparență, pregătind minunea care urmează."
+       "def_ro": "foarte",
+       "dict_ro": "Meod, „foarte”, este cuvântul intensității: „foarte bun” (Geneza 1:31). „S-a întărit foarte” arată că domnia lui Solomon a ajuns la o stabilitate completă.",
+       "greek": "σφόδρα (sphodra)",
+       "greek_def_ro": "σφόδρα (sphodra) — foarte"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "multe",
+       "w": "multe",
+       "heb": "רַבּוֹת",
+       "translit": "rabot",
+       "strong": "H7227",
+       "pos": "adjectiv, feminin plural",
+       "def_ro": "multe",
+       "dict_ro": "Rav, „mult, mare”, e rădăcina din care vine titlul rav (și rabi), „învățătorul”, literal „cel mare”. Aici, rabot, „multe”, subliniază că poporul a văzut destule semne ca să înțeleagă.",
+       "greek": "πολύς (polys)",
+       "greek_def_ro": "πολύς (polys) — mult"
+      },
+      {
+       "t": " pe "
+      },
+      {
+       "t": "suprafața",
+       "w": "suprafața",
+       "heb": "פְּנֵי",
+       "translit": "penē",
+       "strong": "H6440",
+       "pos": "substantiv, masculin și feminin plural construct",
+       "def_ro": "pe fața",
+       "dict_ro": "Panim, „fața”, are formă de plural; cu prepoziția le formează lifnei, „înaintea”, literal „la fața”. În Isaia 43:10, lefanai, „înaintea Mea”, are sens de timp: înainte de Dumnezeu nu a fost plăsmuit niciun alt dumnezeu.",
+       "greek": "πρόσωπον (prosopon)",
+       "greek_def_ro": "πρόσωπον (prosopon) — față"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "văii",
+       "w": "văii",
+       "heb": "הַבִּקְעָה",
+       "translit": "habika",
+       "strong": "H1237",
+       "pos": "substantiv, feminin singular",
+       "def_ro": "văii",
+       "dict_ro": "Bik'a este „câmpia”, „valea largă”; Deuteronomul 8:7 vorbește despre „văi și munți” din țara făgăduită. Aici ea este ținta transformării: în locul povârnișului, un loc larg și neted.",
+       "greek": "πεδίον (pedion)",
+       "greek_def_ro": "πεδίον (pedion) — câmpie",
+       "diff_ro": "Ebraica: „văii” (habika), o vale între munți; Septuaginta: „câmpiei” (πεδίου), un loc plat și deschis."
+      },
+      {
+       "t": " și iată, erau "
+      },
+      {
+       "t": "foarte",
+       "w": "foarte",
+       "heb": "מְאֹד",
+       "translit": "meod",
+       "strong": "H3966",
+       "pos": "adverb",
+       "def_ro": "foarte",
+       "dict_ro": "Meod, „foarte”, este cuvântul intensității: „foarte bun” (Geneza 1:31). „S-a întărit foarte” arată că domnia lui Solomon a ajuns la o stabilitate completă.",
+       "greek": "σφόδρα (sphodra)",
+       "greek_def_ro": "σφόδρα (sphodra) — foarte"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "uscate",
+       "w": "uscate",
+       "heb": "יְבֵשׁוֹת",
+       "translit": "ievēșot",
+       "strong": "H3002",
+       "pos": "adjectiv, feminin plural",
+       "def_ro": "uscate",
+       "dict_ro": "Iaveș înseamnă „uscat, secat”, spus despre struguri uscați, despre lemn sau despre suflet fără umezeală. Numeri 6:3 oprește nazireului strugurii proaspeți și pe cei „uscați”, iar Isaia 56:3 compară eunucul cu „un copac uscat”, fără rod. În Ezechiel 37:2 și 37:4 oasele „foarte uscate” sunt imaginea unui popor fără nădejde, în care nu mai este viață.",
+       "greek": "ξηρός (xeros)",
+       "greek_def_ro": "ξηρός (xeros) — uscat"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -55374,20 +55390,35 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְהֶעֱבִירַנִי עֲלֵיהֶם סָבִיב סָבִיב וְהִנֵּה רַבּוֹת מְאֹד עַל־פְּנֵי הַבִּקְעָה וְהִנֵּה יְבֵשׁוֹת מְאֹד׃",
        "translation": "Și m-a făcut să trec pe lângă ele, de jur împrejur, și iată, erau foarte multe pe suprafața văii și iată, erau foarte uscate. — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ περιήγαγέ με ἐπ’ αὐτὰ κυκλόθεν κύκλῳ, καὶ ἰδοὺ πολλὰ σφόδρα ἐπὶ προσώπου τοῦ πεδίου, ξηρὰ σφόδρα.",
+       "original": "καὶ περιήγαγέν με ἐπ᾿ αὐτὰ κυκλόθεν κύκλῳ καὶ ἰδοὺ πολλὰ σφόδρα ἐπὶ προσώπου τοῦ πεδίου ξηρὰ σφόδρα",
        "greek": true,
        "translation": "Și m-a purtat pe lângă ele, de peste tot, de jur împrejur, și, iată, [erau] foarte multe pe fața câmpiei, foarte uscate.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „valea” (habika) prin „câmpia” (πεδίου) și pune „foarte uscate” (ξηρὰ σφόδρα) la sfârșitul versetului, după „fața câmpiei”."
       }
      ],
      "refs": [
-      "Deuteronomul 11:30"
+      "Deuteronomul 11:30",
+      "Ezechiel 37:11",
+      "Psalmul 141:7"
      ],
-     "commentaries": []
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și m-a făcut să trec pe lângă ele de jur împrejur” — dar nu l-a adus în mijlocul văii, fiindcă era preot."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Și m-a făcut să trec” — toate acestea au fost în vedenia profeției. „Pe lângă ele de jur împrejur” — ca să le văd pe toate. Iar ce a explicat Rashi, de binecuvântată amintire — „de jur împrejur” de vale, dar nu l-a adus în ea ca să nu se spurce, fiindcă era preot — atunci cum i s-a poruncit să treacă briciul peste capul și peste barba lui? Tot așa a tradus Ionatan despre preoți: „și marginea bărbii lor să nu o radă”. Mai mult, a spus: „m-a așezat în mijlocul văii”. Ci totul a fost în vedenia profeției și nu au fost lucruri propriu-zise."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și m-a făcut să trec” — m-a făcut să trec lângă ele, în jurul lor, ca să vadă felul și numărul lor; și nu l-a trecut printre oase, pentru că era preot. „Și iată, erau foarte multe” — adică am văzut că erau foarte multe și foarte uscate."
+      }
+     ]
     },
     {
      "v": "37:3",
@@ -55396,53 +55427,64 @@
      "translit": "Vaiomer elai ben-adam hatihiena haatzamot haele vaomar Adonai ELOHIM ata iadata.",
      "tokens": [
       {
-       "t": "Apoi mi-a spus:",
-       "w": "Apoi mi-a spus:",
-       "heb": "וַיֹּאמֶר אֵלַי",
-       "translit": "vaiomer ēlai",
-       "strong": "H413",
-       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
-       "def_ro": "și a spus la mine: (vaiomer ēlai)",
-       "dict_ro": "Întrebarea retorică a DOMNULUI testează, implicit, credința profetului în posibilitatea învierii."
+       "t": "Apoi mi-"
       },
       {
-       "t": " "
+       "t": "a spus",
+       "w": "a spus",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
       },
       {
-       "t": "„Fiu",
-       "w": "„Fiu",
+       "t": ": „"
+      },
+      {
+       "t": "Fiu",
+       "w": "Fiu",
        "heb": "בֶּן",
        "translit": "ben",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "fiu de (ben)",
-       "dict_ro": "Întrebarea retorică a DOMNULUI testează, implicit, credința profetului în posibilitatea învierii."
+       "def_ro": "fiu",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": " al "
       },
       {
-       "t": "al omului,",
-       "w": "al omului,",
+       "t": "omului",
+       "w": "omului",
        "heb": "אָדָם",
        "translit": "adam",
        "strong": "H120",
        "pos": "substantiv, masculin singular",
-       "def_ro": "om, (adam)",
-       "dict_ro": "Întrebarea retorică a DOMNULUI testează, implicit, credința profetului în posibilitatea învierii."
+       "def_ro": "al omului",
+       "dict_ro": "Adam înseamnă „om”, omenirea în general; e legat în Geneza de adama, „pământul” din care a fost luat (Geneza 2:7). Ca nume propriu, desemnează primul om.",
+       "greek": "ἄνθρωπος (anthropos)",
+       "greek_def_ro": "ἄνθρωπος (anthropos) — om"
       },
       {
-       "t": " "
+       "t": ", oare "
       },
       {
-       "t": "oare pot să trăiască",
-       "w": "oare pot să trăiască",
+       "t": "pot să trăiască",
+       "w": "pot să trăiască",
        "heb": "הֲתִחְיֶינָה",
        "translit": "hatihiena",
        "strong": "H2421",
        "pos": "verb, qal imperfect",
-       "def_ro": "vor trăi oare (hatihiena)",
-       "dict_ro": "Întrebarea retorică a DOMNULUI testează, implicit, credința profetului în posibilitatea învierii."
+       "def_ro": "vor trăi",
+       "dict_ro": "Hayah, „a trăi”, este verbul vieții adevărate, nu doar al existenței biologice. „Sufletul vostru va trăi” este făgăduința vieții pentru cel care ascultă.",
+       "greek": "ζάω (zao)",
+       "greek_def_ro": "ζάω (zao) — a trăi"
       },
       {
        "t": " "
@@ -55454,86 +55496,88 @@
        "translit": "haēle",
        "strong": "H428",
        "pos": "pronume demonstrativ",
-       "def_ro": "acestea? (haēle)",
-       "dict_ro": "Întrebarea retorică a DOMNULUI testează, implicit, credința profetului în posibilitatea învierii."
+       "def_ro": "acestea",
+       "dict_ro": "Ele înseamnă „acestea”. Osea 14:10 încheie cartea cu o întrebare: cine e destul de înțelept ca să înțeleagă toate acestea?",
+       "greek": "οὗτος (houtos)",
+       "greek_def_ro": "οὗτος (houtos) — acesta"
       },
       {
        "t": " "
       },
       {
-       "t": "oase?”",
-       "w": "oase?”",
+       "t": "oase",
+       "w": "oase",
        "heb": "הָעֲצָמוֹת",
        "translit": "haațamot",
        "strong": "H6106",
        "pos": "substantiv, feminin plural",
-       "def_ro": "oasele (haațamot)",
-       "dict_ro": "Întrebarea retorică a DOMNULUI testează, implicit, credința profetului în posibilitatea învierii."
+       "def_ro": "oasele",
+       "dict_ro": "Etsem înseamnă „os”. Oasele regilor, ale conducătorilor, ale preoților, ale profeților și ale locuitorilor vor fi scoase, o profanare gravă după mentalitatea vremii.",
+       "greek": "ὀστέον (osteon)",
+       "greek_def_ro": "ὀστέον (osteon) — os"
       },
       {
-       "t": " "
+       "t": "?” Iar eu "
       },
       {
-       "t": "Iar eu am spus:",
-       "w": "Iar eu am spus:",
+       "t": "am spus",
+       "w": "am spus",
        "heb": "וָאֹמַר",
        "translit": "vaomar",
        "strong": "H559",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și am spus: (vaomar)",
-       "dict_ro": "Răspunsul lui Ezechiel nu afirmă și nu neagă, ci lasă deschisă decizia exclusiv divinei cunoștințe."
+       "def_ro": "am zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
       },
       {
-       "t": " "
+       "t": ": „"
       },
       {
-       "t": "„Stăpâne,",
-       "w": "„Stăpâne,",
+       "t": "Stăpâne",
+       "w": "Stăpâne",
        "heb": "אֲדֹנָי",
        "translit": "adonai",
        "strong": "H136",
        "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "Stăpâne, (adonai)",
-       "dict_ro": "Răspunsul lui Ezechiel lasă deschisă decizia exclusiv cunoștinței divine."
+       "def_ro": "Stăpâne",
+       "dict_ro": "Adonai (cu vocale diferite de cele ale Numelui) înseamnă „Stăpânul” și se referă aici la DOMNUL. Omul care aduce o jertfă cu meteahnă Stăpânului său își arată disprețul față de El.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Doamne",
+       "diff_ro": "Ebraica: „Stăpâne, Doamne DUMNEZEULE” (adonai YHWH); Septuaginta: „Doamne” (κύριε), o singură dată."
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "Doamne DUMNEZEULE,",
-       "w": "Doamne DUMNEZEULE,",
+       "t": "Doamne DUMNEZEULE",
+       "w": "Doamne DUMNEZEULE",
        "heb": "יְהוִה",
        "translit": "Adonai",
        "strong": "H3069",
        "pos": "nume propriu",
-       "def_ro": "Doamne DUMNEZEULE, (Adonai)",
-       "dict_ro": "Răspunsul lui Ezechiel lasă deschisă decizia exclusiv cunoștinței divine."
+       "def_ro": "Doamne DUMNEZEULE",
+       "dict_ro": "Yehovih este forma Numelui scrisă cu vocalele lui „Adonai”, ca să se citească „Adonai” și nu Numele. În Ezechiel apare adesea ca „Adonai YHWH”, titlul solemn al lui Dumnezeu.",
+       "diff_ro": "Septuaginta nu are un al doilea „Doamne” (YHWH): are „Doamne” o singură dată."
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "Tu",
-       "w": "Tu",
-       "heb": "אַתָּה",
-       "translit": "ata",
+       "t": "Tu știi",
+       "w": "Tu știi",
+       "heb": "אַתָּה יָדָעְתָּ",
+       "translit": "ata iadata",
        "strong": "H859",
-       "pos": "pronume personal",
-       "def_ro": "tu (ata)",
-       "dict_ro": "Răspunsul lui Ezechiel nu afirmă și nu neagă, ci lasă deschisă decizia exclusiv divinei cunoștințe."
+       "pos": "pronume personal + verb, qal perfect",
+       "def_ro": "tu știi",
+       "dict_ro": "Ata iadata, „Tu știi”, pune pronumele ata, „Tu”, înaintea verbului pentru a arăta că numai Dumnezeu are răspunsul. Psalmul 139:2 spune: „Tu știi când stau jos și când mă ridic”, iar Ieremia 15:15 începe cu „Tu știi, DOMNULE”. În Ezechiel 37:3 profetul nu spune „da” sau „nu”, ci lasă răspunsul în seama lui Dumnezeu.",
+       "greek": "ἐπίσταμαι (epistamai)",
+       "greek_def_ro": "ἐπίσταμαι (epistamai) — a ști"
       },
       {
-       "t": " "
-      },
-      {
-       "t": "știi.”",
-       "w": "știi.”",
-       "heb": "יָדָעְתָּ",
-       "translit": "iadata",
-       "strong": "H3045",
-       "pos": "verb, qal perfect",
-       "def_ro": "ai știut.” (iadata)",
-       "dict_ro": "Răspunsul lui Ezechiel nu afirmă și nu neagă, ci lasă deschisă decizia exclusiv divinei cunoștințe."
+       "t": ".”"
       }
      ],
      "textCompare": [
@@ -55541,20 +55585,30 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיֹּאמֶר אֵלַי בֶּן־אָדָם הֲתִחְיֶינָה הָעֲצָמוֹת הָאֵלֶּה וָאֹמַר אֲדֹנָי יְהוִה אַתָּה יָדָעְתָּ׃",
        "translation": "Apoi mi-a spus: „Fiu al omului, oare pot să trăiască aceste oase?” Iar eu am spus: „Stăpâne, Doamne DUMNEZEULE, Tu știi.” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ εἶπε πρός με· υἱὲ ἀνθρώπου, εἰ ζήσεται τὰ ὀστέα ταῦτα; καὶ εἶπα· Κύριε Κύριε, σὺ ἐπίστῃ ταῦτα.",
+       "original": "καὶ εἶπεν πρός με υἱὲ ἀνθρώπου εἰ ζήσεται τὰ ὀστᾶ ταῦτα καὶ εἶπα κύριε σὺ ἐπίστῃ ταῦτα",
        "greek": true,
-       "translation": "Și a spus către mine: «Fiu al omului, oare vor trăi oasele acestea?» Și am spus: «Doamne, Doamne, Tu știi acestea.»",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "translation": "„Și mi-a spus: «Fiu al omului, vor trăi oare oasele acestea?» Și am spus: «Doamne, Tu cunoști acestea.»”",
+       "note": "Septuaginta redă „Stăpâne, Doamne DUMNEZEULE” (adonai YHWH) prin „Doamne” (κύριε), o singură dată, și are „Tu cunoști acestea” (σὺ ἐπίστῃ ταῦτα), cu „acestea”."
       }
      ],
      "refs": [
+      "Deuteronomul 32:29",
       "1 Samuel 2:6"
      ],
-     "commentaries": []
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Vor putea să trăiască?” — crezi că pot să revină la viață?"
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Vor trăi?” — este cu hei de întrebare, căci a întrebat dacă este cu putință ca aceste oase să trăiască. „Tu știi” — ca și cum ar spune: după fire nu este loc ca ele să trăiască, însă dacă voința Ta este ca ele să trăiască, vor trăi; și cine altul decât Tu cunoaște voința Ta, deci Tu știi dacă vor trăi."
+      }
+     ]
     },
     {
      "v": "37:4",
@@ -55563,40 +55617,49 @@
      "translit": "Vaiomer elai hinave al-haatzamot haele veamarta aleihem haatzamot haieveșot șimu devar-ADONAI.",
      "tokens": [
       {
-       "t": "[DOMNUL] mi-a spus:",
-       "w": "[DOMNUL] mi-a spus:",
-       "heb": "וַיֹּאמֶר אֵלַי",
-       "translit": "vaiomer ēlai",
-       "strong": "H413",
-       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
-       "def_ro": "și a spus la mine: (vaiomer ēlai)",
-       "dict_ro": "Porunca profeției directe, adresate oaselor, inaugurează execuția practică a minunii viziunii."
+       "t": "[DOMNUL] mi-"
       },
       {
-       "t": " "
+       "t": "a spus",
+       "w": "a spus",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
       },
       {
-       "t": "„Profețește",
-       "w": "„Profețește",
+       "t": ": „"
+      },
+      {
+       "t": "Profețește",
+       "w": "Profețește",
        "heb": "הִנָּבֵא",
        "translit": "hinavē",
        "strong": "H5012",
        "pos": "verb, nifal imperativ",
-       "def_ro": "profețește (hinavē)",
-       "dict_ro": "Porunca profeției directe, adresate oaselor, inaugurează execuția practică a minunii viziunii."
+       "def_ro": "profețește",
+       "dict_ro": "Nava, la forma pasivă, înseamnă „a profeți”. „Nu profetiți!” este interdicția pe care poporul o pune profeților, exact în cuvintele lui Amos 7:13. Cel care vorbește în numele lui DOMNUL este redus la tăcere.",
+       "greek": "προφητεύω (propheteuo)",
+       "greek_def_ro": "προφητεύω (propheteuo) — a profeți"
       },
       {
-       "t": " "
+       "t": " asupra "
       },
       {
-       "t": "asupra acestor",
-       "w": "asupra acestor",
-       "heb": "עַל",
-       "translit": "al",
-       "strong": "H5921",
-       "pos": "prepoziție",
-       "def_ro": "asupra (al)",
-       "dict_ro": "Porunca profeției directe, adresate oaselor, inaugurează execuția practică a minunii viziunii."
+       "t": "acestor",
+       "w": "acestor",
+       "heb": "הָאֵלֶּה",
+       "translit": "haēle",
+       "strong": "H428",
+       "pos": "pronume demonstrativ",
+       "def_ro": "acestea",
+       "dict_ro": "Ele înseamnă „acestea”. Osea 14:10 încheie cartea cu o întrebare: cine e destul de înțelept ca să înțeleagă toate acestea?",
+       "greek": "οὗτος (houtos)",
+       "greek_def_ro": "οὗτος (houtos) — acesta"
       },
       {
        "t": " "
@@ -55604,54 +55667,62 @@
       {
        "t": "oase",
        "w": "oase",
-       "heb": "הָעֲצָמוֹת הָאֵלֶּה",
-       "translit": "haațamot haēle",
-       "strong": "H428",
-       "pos": "substantiv, feminin plural + pronume demonstrativ",
-       "def_ro": "oasele acestea (haațamot haēle)",
-       "dict_ro": "Porunca profeției directe, adresate oaselor, inaugurează execuția practică a minunii viziunii."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "și spune-le:",
-       "w": "și spune-le:",
-       "heb": "וְאָמַרְתָּ אֲלֵיהֶם",
-       "translit": "veamarta alēhem",
-       "strong": "H413",
-       "pos": "verb, qal perfect consecutiv + prepoziție + sufix",
-       "def_ro": "și le vei spune: (veamarta alēhem)",
-       "dict_ro": "Formula introduce conținutul exact al profeției care trebuie pronunțate direct asupra oaselor."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "«O, oase",
-       "w": "«O, oase",
        "heb": "הָעֲצָמוֹת",
        "translit": "haațamot",
        "strong": "H6106",
        "pos": "substantiv, feminin plural",
-       "def_ro": "oasele (haațamot)",
-       "dict_ro": "Adresarea directă «oase uscate» confirmă caracterul retoric, apelativ, al profeției."
+       "def_ro": "oasele",
+       "dict_ro": "Etsem înseamnă „os”. Oasele regilor, ale conducătorilor, ale preoților, ale profeților și ale locuitorilor vor fi scoase, o profanare gravă după mentalitatea vremii.",
+       "greek": "ὀστέον (osteon)",
+       "greek_def_ro": "ὀστέον (osteon) — os"
+      },
+      {
+       "t": " și "
+      },
+      {
+       "t": "spune-le",
+       "w": "spune-le",
+       "heb": "וְאָמַרְתָּ",
+       "translit": "veamarta",
+       "strong": "H559",
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și spune",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
+      },
+      {
+       "t": ": «O, "
+      },
+      {
+       "t": "oase",
+       "w": "oase",
+       "heb": "הָעֲצָמוֹת",
+       "translit": "haațamot",
+       "strong": "H6106",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "oase",
+       "dict_ro": "Etsem înseamnă „os”. Oasele regilor, ale conducătorilor, ale preoților, ale profeților și ale locuitorilor vor fi scoase, o profanare gravă după mentalitatea vremii.",
+       "greek": "ὀστέον (osteon)",
+       "greek_def_ro": "ὀστέον (osteon) — os"
       },
       {
        "t": " "
       },
       {
-       "t": "uscate,",
-       "w": "uscate,",
+       "t": "uscate",
+       "w": "uscate",
        "heb": "הַיְבֵשׁוֹת",
        "translit": "haivēșot",
        "strong": "H3002",
        "pos": "adjectiv, feminin plural",
-       "def_ro": "uscate, (haivēșot)",
-       "dict_ro": "Adresarea directă «oase uscate» confirmă caracterul retoric, apelativ, al profeției."
+       "def_ro": "uscate",
+       "dict_ro": "Iaveș înseamnă „uscat, secat”, spus despre struguri uscați, despre lemn sau despre suflet fără umezeală. Numeri 6:3 oprește nazireului strugurii proaspeți și pe cei „uscați”, iar Isaia 56:3 compară eunucul cu „un copac uscat”, fără rod. În Ezechiel 37:2 și 37:4 oasele „foarte uscate” sunt imaginea unui popor fără nădejde, în care nu mai este viață.",
+       "greek": "ξηρός (xeros)",
+       "greek_def_ro": "ξηρός (xeros) — uscat"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
        "t": "ascultați",
@@ -55660,8 +55731,10 @@
        "translit": "șimu",
        "strong": "H8085",
        "pos": "verb, qal imperativ",
-       "def_ro": "ascultați (șimu)",
-       "dict_ro": "Oasele, moarte, sunt totuși chemate să asculte cuvântul DOMNULUI, paradox central al minunii."
+       "def_ro": "ascultați",
+       "dict_ro": "Șama unește în ebraică auzul și ascultarea: a auzi cu adevărat înseamnă a împlini ce ai auzit. De aici vine „Șema Israel” (Deuteronomul 6:4), mărturisirea de credință a iudaismului. Forma cauzativă (hișmia) înseamnă „a face să audă”, adică a vesti, a proclama.",
+       "greek": "ἀκούω (akouo)",
+       "greek_def_ro": "ἀκούω (akouo) — a asculta"
       },
       {
        "t": " "
@@ -55673,21 +55746,29 @@
        "translit": "devar",
        "strong": "H1697",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "cuvântul (devar)",
-       "dict_ro": "Oasele, moarte, sunt totuși chemate să asculte cuvântul DOMNULUI, paradox central al minunii."
+       "def_ro": "cuvântul",
+       "dict_ro": "Davar înseamnă deopotrivă „cuvânt” și „lucru, faptă”: în gândirea ebraică, cuvântul lui Dumnezeu nu e doar rostit, ci se și împlinește. De aceea „cuvintele” pe care El le „face” (Isaia 42:16) sunt totodată lucrările Lui.",
+       "greek": "λόγος (logos)",
+       "greek_def_ro": "λόγος (logos) — cuvânt"
       },
       {
        "t": " "
       },
       {
-       "t": "DOMNULUI!",
-       "w": "DOMNULUI!",
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
        "heb": "יְהוָה",
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
-       "def_ro": "DOMNULUI! (Adonai)",
-       "dict_ro": "Oasele, moarte, sunt totuși chemate să asculte cuvântul DOMNULUI, paradox central al minunii."
+       "def_ro": "Domnului",
+       "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn",
+       "diff_ro": "Ebraica: numele divin (YHWH); Septuaginta: „Domnul” (κύριος)."
+      },
+      {
+       "t": "!"
       }
      ],
      "textCompare": [
@@ -55695,7 +55776,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיֹּאמֶר אֵלַי הִנָּבֵא עַל־הָעֲצָמוֹת הָאֵלֶּה וְאָמַרְתָּ אֲלֵיהֶם הָעֲצָמוֹת הַיְבֵשׁוֹת שִׁמְעוּ דְּבַר־יְהוָה׃",
        "translation": "[DOMNUL] mi-a spus: „Profețește asupra acestor oase și spune-le: «O, oase uscate, ascultați cuvântul DOMNULUI! — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -55706,8 +55787,12 @@
       }
      ],
      "refs": [
+      "Ezechiel 37:11",
+      "Ezechiel 36:1",
       "Isaia 26:19",
-      "Ioan 5:25"
+      "Numeri 20:8",
+      "1 Împărați 13:2",
+      "Mica 6:2"
      ],
      "commentaries": []
     },
@@ -55718,30 +55803,48 @@
      "translit": "Ko amar Adonai ELOHIM laatzamot haele hine ani mevi vahem ruah vihiitem.",
      "tokens": [
       {
-       "t": "Astfel a spus",
-       "w": "Astfel a spus",
-       "heb": "כֹּה אָמַר",
-       "translit": "ko amar",
-       "strong": "H559",
-       "pos": "adverb + verb, qal perfect",
-       "def_ro": "astfel a spus (ko amar)",
-       "dict_ro": "Formula profetică standard introduce conținutul exact al promisiunii vieții."
+       "t": "Astfel",
+       "w": "Astfel",
+       "heb": "כֹּה",
+       "translit": "ko",
+       "strong": "H3541",
+       "pos": "adverb",
+       "def_ro": "așa",
+       "dict_ro": "Ko, „așa”, deschide formula profetică ko amar Adonai, „așa a spus DOMNUL” — un fel de pecete care arată că urmează cuvintele lui Dumnezeu, transmise întocmai.",
+       "greek": "ὅδε (hode)",
+       "greek_def_ro": "ὅδε (hode) — acestea, astfel"
       },
       {
        "t": " "
       },
       {
-       "t": "Stăpânul meu,",
-       "w": "Stăpânul meu,",
+       "t": "a spus",
+       "w": "a spus",
+       "heb": "אָמַר",
+       "translit": "amar",
+       "strong": "H559",
+       "pos": "verb, qal perfect",
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Stăpânul meu",
+       "w": "Stăpânul meu",
        "heb": "אֲדֹנָי",
        "translit": "adonai",
        "strong": "H136",
        "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "Stăpânul meu, (adonai)",
-       "dict_ro": "Titlul dublu divin confirmă autoritatea supremă a promisiunii vieții redate oaselor."
+       "def_ro": "Stăpânul meu",
+       "dict_ro": "Adonai (cu vocale diferite de cele ale Numelui) înseamnă „Stăpânul” și se referă aici la DOMNUL. Omul care aduce o jertfă cu meteahnă Stăpânului său își arată disprețul față de El.",
+       "diff_ro": "Septuaginta nu are „Stăpânul meu” (adonai) înaintea numelui divin: spune doar „Domnul”."
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
        "t": "Domnul DUMNEZEU",
@@ -55750,37 +55853,44 @@
        "translit": "Adonai",
        "strong": "H3069",
        "pos": "nume propriu",
-       "def_ro": "Domnul DUMNEZEU (Adonai)",
-       "dict_ro": "Titlul dublu divin confirmă autoritatea supremă a promisiunii vieții redate oaselor."
+       "def_ro": "Domnul DUMNEZEU",
+       "dict_ro": "Yehovih este forma Numelui scrisă cu vocalele lui „Adonai”, ca să se citească „Adonai” și nu Numele. În Ezechiel apare adesea ca „Adonai YHWH”, titlul solemn al lui Dumnezeu.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn",
+       "diff_ro": "Ebraica: numele divin (YHWH); Septuaginta: „Domnul” (κύριος)."
       },
       {
        "t": " "
       },
       {
-       "t": "acestor oase:",
-       "w": "acestor oase:",
-       "heb": "לָעֲצָמוֹת הָאֵלֶּה",
-       "translit": "laațamot haēle",
+       "t": "acestor",
+       "w": "acestor",
+       "heb": "הָאֵלֶּה",
+       "translit": "haēle",
        "strong": "H428",
-       "pos": "substantiv, feminin plural + pronume demonstrativ",
-       "def_ro": "oasele acestea: (laațamot haēle)",
-       "dict_ro": "Formula profetică standard introduce conținutul exact al promisiunii vieții."
+       "pos": "pronume demonstrativ",
+       "def_ro": "acestea",
+       "dict_ro": "Ele înseamnă „acestea”. Osea 14:10 încheie cartea cu o întrebare: cine e destul de înțelept ca să înțeleagă toate acestea?",
+       "greek": "οὗτος (houtos)",
+       "greek_def_ro": "οὗτος (houtos) — acesta"
       },
       {
        "t": " "
       },
       {
-       "t": "‘Iată,",
-       "w": "‘Iată,",
-       "heb": "הִנֵּה",
-       "translit": "hinē",
-       "strong": "H2009",
-       "pos": "particulă demonstrativă",
-       "def_ro": "iată, (hinē)",
-       "dict_ro": "Promisiunea directă — duh în voi, și veți trăi — pregătește minunea finală a învierii."
+       "t": "oase",
+       "w": "oase",
+       "heb": "לָעֲצָמוֹת",
+       "translit": "laațamot",
+       "strong": "H6106",
+       "pos": "substantiv, feminin plural",
+       "def_ro": "oaselor",
+       "dict_ro": "Etsem înseamnă „os”. Oasele regilor, ale conducătorilor, ale preoților, ale profeților și ale locuitorilor vor fi scoase, o profanare gravă după mentalitatea vremii.",
+       "greek": "ὀστέον (osteon)",
+       "greek_def_ro": "ὀστέον (osteon) — os"
       },
       {
-       "t": " "
+       "t": ": ‘Iată, "
       },
       {
        "t": "Eu",
@@ -55789,8 +55899,10 @@
        "translit": "ani",
        "strong": "H589",
        "pos": "pronume personal",
-       "def_ro": "eu (ani)",
-       "dict_ro": "Promisiunea directă — duh în voi, și veți trăi — pregătește minunea finală a învierii."
+       "def_ro": "Eu",
+       "dict_ro": "Ani este pronumele „eu”, forma mai scurtă decât anohi; când DOMNUL îl rostește, el pune accent pe cine vorbește, ca în Isaia 45:22: „Căci Eu sunt Dumnezeu și nu este altul”. În Ezechiel 37, formula „veți ști că Eu sunt DOMNUL” încheie făgăduința învierii, pentru a arăta că izvorul vieții noi este Cel care a vorbit.",
+       "greek": "ἐγώ (ego)",
+       "greek_def_ro": "ἐγώ (ego) — eu"
       },
       {
        "t": " "
@@ -55802,8 +55914,10 @@
        "translit": "mēvi",
        "strong": "H935",
        "pos": "verb, hifil participiu",
-       "def_ro": "aduc (mēvi)",
-       "dict_ro": "Promisiunea directă — duh în voi, și veți trăi — pregătește minunea finală a învierii."
+       "def_ro": "aduc",
+       "dict_ro": "Bo e verbul venirii și al intrării; în profeți descrie adesea împlinirea: ceea ce a fost vestit „vine”, adică se întâmplă (Isaia 42:9). La forma cauzativă, hevi, înseamnă „a aduce” — cu un sens aparte în făgăduința strângerii exilaților (Isaia 43:5).",
+       "greek": "φέρω (phero)",
+       "greek_def_ro": "φέρω (phero) — a aduce"
       },
       {
        "t": " "
@@ -55815,34 +55929,28 @@
        "translit": "ruah",
        "strong": "H7307",
        "pos": "substantiv, masculin și feminin singular",
-       "def_ro": "duh (ruah)",
-       "dict_ro": "Promisiunea directă — duh în voi, și veți trăi — pregătește minunea finală a învierii."
+       "def_ro": "duh",
+       "dict_ro": "Ruah, „duh, vânt”: „Duhul lui Dumnezeu se mișca deasupra apelor” (Geneza 1:2). „Duhul întristat” este starea lăuntrică a celei părăsite.",
+       "greek": "πνεῦμα (pneuma)",
+       "greek_def_ro": "πνεῦμα (pneuma) — duh de viață",
+       "diff_ro": "Ebraica: „duh” (ruah); Septuaginta: „duh de viață” (πνεῦμα ζωῆς)."
       },
       {
-       "t": " "
+       "t": " în voi și "
       },
       {
-       "t": "în voi",
-       "w": "în voi",
-       "heb": "בָכֶם",
-       "translit": "vahem",
-       "strong": "",
-       "pos": "prepoziție + sufix",
-       "def_ro": "în voi (vahem)",
-       "dict_ro": "Promisiunea directă — duh în voi, și veți trăi — pregătește minunea finală a învierii."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "și veți trăi.",
-       "w": "și veți trăi.",
+       "t": "veți trăi",
+       "w": "veți trăi",
        "heb": "וִחְיִיתֶם",
        "translit": "vihitem",
        "strong": "H2421",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și veți trăi. (vihitem)",
-       "dict_ro": "Promisiunea directă — duh în voi, și veți trăi — pregătește minunea finală a învierii."
+       "def_ro": "veți trăi",
+       "dict_ro": "Hayah, „a trăi”, este verbul vieții adevărate, nu doar al existenței biologice. „Sufletul vostru va trăi” este făgăduința vieții pentru cel care ascultă.",
+       "diff_ro": "Septuaginta nu are „și veți trăi” (vihitem) ca verb separat: are „duh de viață” (πνεῦμα ζωῆς)."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -55850,21 +55958,34 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "כֹּה אָמַר אֲדֹנָי יְהוִה לָעֲצָמוֹת הָאֵלֶּה הִנֵּה אֲנִי מֵבִיא בָכֶם רוּחַ וִחְיִיתֶם׃",
        "translation": "Astfel a spus Stăpânul meu, Domnul DUMNEZEU acestor oase: ‘Iată, Eu voi aduce duh în voi și veți trăi. — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "τάδε λέγει Κύριος τοῖς ὀστέοις τούτοις· ἰδοὺ ἐγὼ φέρω ἐφ’ ὑμᾶς πνεῦμα ζωῆς",
+       "original": "τάδε λέγει κύριος τοῖς ὀστέοις τούτοις ἰδοὺ ἐγὼ φέρω εἰς ὑμᾶς πνεῦμα ζωῆς",
        "greek": true,
        "translation": "Așa spune Domnul oaselor acestora: Iată, Eu aduc asupra voastră duh de viață,",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta nu are „Stăpânul meu” (adonai) înaintea numelui divin: are doar „Domnul” (κύριος), și redă „duh” (ruah) prin „duh de viață” (πνεῦμα ζωῆς)."
       }
      ],
      "refs": [
+      "Ezechiel 37:9",
+      "Ezechiel 37:10",
+      "Ezechiel 37:14",
       "Geneza 2:7",
-      "Psalmul 104:29,30"
+      "Psalmul 104:29",
+      "Psalmul 104:30"
      ],
-     "commentaries": []
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Aduc în voi duh” — după carne, piele și tendoane, după cum a spus în alt verset, în ordine."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Aduc în voi duh” — adică în oase va intra duh și aer care suflă, și din aceasta vor primi puțină viață ca să se miște și să se apropie unele de altele, după cum este lămurit în pasaj."
+      }
+     ]
     },
     {
      "v": "37:6",
@@ -55879,8 +56000,10 @@
        "translit": "venatati",
        "strong": "H5414",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și voi da (venatati)",
-       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
+       "def_ro": "voi da",
+       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6).",
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a da"
       },
       {
        "t": " "
@@ -55892,34 +56015,25 @@
        "translit": "gidim",
        "strong": "H1517",
        "pos": "substantiv, masculin plural",
-       "def_ro": "tendoane (gidim)",
-       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
+       "def_ro": "vine",
+       "dict_ro": "Gid este „tendonul, vena”, partea care leagă mușchii de oase. Geneza 32:33 pomenește tendonul coapsei, pe care israeliții nu îl mănâncă din pricina luptei lui Iacov, iar Iov 10:11 spune că Dumnezeu l-a țesut pe om din „oase și tendoane”. În Ezechiel 37:6-8 tendoanele sunt primul lucru care leagă oasele, înaintea cărnii și a pielii.",
+       "greek": "νεῦρον (neuron)",
+       "greek_def_ro": "νεῦρον (neuron) — nerv, vină"
       },
       {
-       "t": " "
+       "t": " pe voi și "
       },
       {
-       "t": "pe voi",
-       "w": "pe voi",
-       "heb": "עֲלֵיכֶם",
-       "translit": "alēhem",
-       "strong": "H5921",
-       "pos": "prepoziție + sufix",
-       "def_ro": "asupra voastră (alēhem)",
-       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "și voi aduce",
-       "w": "și voi aduce",
+       "t": "voi aduce",
+       "w": "voi aduce",
        "heb": "וְהַעֲלֵתִי",
        "translit": "vehaalēti",
        "strong": "H5927",
        "pos": "verb, hifil perfect consecutiv",
-       "def_ro": "și voi ridica (vehaalēti)",
-       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
+       "def_ro": "voi face să urce",
+       "dict_ro": "Alah înseamnă „a urca”; același verb este cel al jertfei lui Isaac: „adu-l ca ardere de tot” (Geneza 22:2). Femeia urcă în odaia de sus cu copilul, iar Elisei se urcă pe pat peste copil.",
+       "greek": "ἀνάγω (anago)",
+       "greek_def_ro": "ἀνάγω (anago) — a ridica"
       },
       {
        "t": " "
@@ -55931,60 +56045,56 @@
        "translit": "basar",
        "strong": "H1320",
        "pos": "substantiv, masculin singular",
-       "def_ro": "carne (basar)",
-       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
+       "def_ro": "carne",
+       "dict_ro": "Basar înseamnă „carne, trup”: Adam spune despre Eva „carne din carnea mea” (Geneza 2:23). Trupul copilului este cel care se încălzește, iar după aceea copilul respiră și își deschide ochii.",
+       "greek": "σάρξ (sarx)",
+       "greek_def_ro": "σάρξ (sarx) — carne"
       },
       {
-       "t": " "
+       "t": " pe voi și "
       },
       {
-       "t": "pe voi",
-       "w": "pe voi",
-       "heb": "עֲלֵיכֶם",
-       "translit": "alēhem",
-       "strong": "H5921",
-       "pos": "prepoziție + sufix",
-       "def_ro": "asupra voastră (alēhem)",
-       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "și vă voi acoperi",
-       "w": "și vă voi acoperi",
+       "t": "vă voi acoperi",
+       "w": "vă voi acoperi",
        "heb": "וְקָרַמְתִּי",
        "translit": "vekaramti",
        "strong": "H7159",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și voi întinde (vekaramti)",
-       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
+       "def_ro": "voi întinde",
+       "dict_ro": "Qaram înseamnă „a acoperi cu piele” și apare doar în Ezechiel 37:6 și 37:8. Înainte de duh, oasele primesc mai întâi tendoane, apoi carne și, la urmă, piele care le acoperă. Cuvântul arată treptele plăsmuirii, ca într-o a doua creație, în care trupul este refăcut parte cu parte înainte să primească suflul vieții.",
+       "greek": "ἐκτείνω (ekteino)",
+       "greek_def_ro": "ἐκτείνω (ekteino) — a întinde",
+       "diff_ro": "Ebraica: „vă voi acoperi” (vekaramti); Septuaginta: „voi întinde” (ἐκτενῶ)."
       },
       {
-       "t": " "
+       "t": " cu "
       },
       {
-       "t": "cu piele.",
-       "w": "cu piele.",
+       "t": "piele",
+       "w": "piele",
        "heb": "עוֹר",
        "translit": "or",
        "strong": "H5785",
        "pos": "substantiv, masculin singular",
-       "def_ro": "piele. (or)",
-       "dict_ro": "Procesul de refacere a corpului — tendoane, carne, piele — precede, deliberat, insuflarea duhului final."
+       "def_ro": "piele",
+       "dict_ro": "Or este „pielea” omului sau a animalului. Geneza 3:21 spune că DOMNUL a făcut pentru Adam și Eva „haine de piele”, iar Iov 10:11 compară înfăptuirea omului cu îmbrăcarea în „piele și carne”. În Ezechiel 37:6 și 37:8 pielea este ultimul strat care acoperă oasele înviate, înainte ca duhul să le dea viață.",
+       "greek": "δέρμα (derma)",
+       "greek_def_ro": "δέρμα (derma) — piele"
       },
       {
-       "t": " "
+       "t": ". Apoi "
       },
       {
-       "t": "Apoi voi pune",
-       "w": "Apoi voi pune",
+       "t": "voi pune",
+       "w": "voi pune",
        "heb": "וְנָתַתִּי",
        "translit": "venatati",
        "strong": "H5414",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și voi da (venatati)",
-       "dict_ro": "Insuflarea duhului, ultimul pas, pecetluiește definitiv procesul învierii fizice."
+       "def_ro": "voi pune",
+       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6).",
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a da"
       },
       {
        "t": " "
@@ -55996,76 +56106,74 @@
        "translit": "ruah",
        "strong": "H7307",
        "pos": "substantiv, masculin și feminin singular",
-       "def_ro": "duh (ruah)",
-       "dict_ro": "Insuflarea duhului, ultimul pas, pecetluiește definitiv procesul învierii fizice."
+       "def_ro": "duh",
+       "dict_ro": "Ruah, „duh, vânt”: „Duhul lui Dumnezeu se mișca deasupra apelor” (Geneza 1:2). „Duhul întristat” este starea lăuntrică a celei părăsite.",
+       "greek": "πνεῦμα (pneuma)",
+       "greek_def_ro": "πνεῦμα (pneuma) — duh"
       },
       {
-       "t": " "
+       "t": " în voi și "
       },
       {
-       "t": "în voi",
-       "w": "în voi",
-       "heb": "בָכֶם",
-       "translit": "vahem",
-       "strong": "",
-       "pos": "prepoziție + sufix",
-       "def_ro": "în voi (vahem)",
-       "dict_ro": "Insuflarea duhului, ultimul pas, pecetluiește definitiv procesul învierii fizice."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "și veți trăi;",
-       "w": "și veți trăi;",
+       "t": "veți trăi",
+       "w": "veți trăi",
        "heb": "וִחְיִיתֶם",
        "translit": "vihitem",
        "strong": "H2421",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și veți trăi; (vihitem)",
-       "dict_ro": "Insuflarea duhului, ultimul pas, pecetluiește definitiv procesul învierii fizice."
+       "def_ro": "veți trăi",
+       "dict_ro": "Hayah, „a trăi”, este verbul vieții adevărate, nu doar al existenței biologice. „Sufletul vostru va trăi” este făgăduința vieții pentru cel care ascultă.",
+       "greek": "ζάω (zao)",
+       "greek_def_ro": "ζάω (zao) — a trăi"
       },
       {
-       "t": " "
+       "t": "; și "
       },
       {
-       "t": "și veți ști",
-       "w": "și veți ști",
+       "t": "veți ști",
+       "w": "veți ști",
        "heb": "וִידַעְתֶּם",
        "translit": "vidatem",
        "strong": "H3045",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și veți ști (vidatem)",
-       "dict_ro": "Scopul final al minunii: cunoașterea certă, experimentală, a identității DOMNULUI."
+       "def_ro": "veți ști",
+       "dict_ro": "Iada înseamnă o cunoaștere prin experiență directă și prin legătură personală, nu doar o informație; de aceea poate desemna și unirea soților (Geneza 4:1). „A-L cunoaște pe DOMNUL” înseamnă, la profeți, a trăi în legământ cu El.",
+       "greek": "γινώσκω (ginosko)",
+       "greek_def_ro": "γινώσκω (ginosko) — a cunoaște"
       },
       {
-       "t": " "
+       "t": " că "
       },
       {
-       "t": "că Eu sunt",
-       "w": "că Eu sunt",
-       "heb": "כִּי אֲנִי",
-       "translit": "ki ani",
+       "t": "Eu",
+       "w": "Eu",
+       "heb": "אֲנִי",
+       "translit": "ani",
        "strong": "H589",
-       "pos": "conjuncție + pronume personal",
-       "def_ro": "că eu (ki ani)",
-       "dict_ro": "Scopul final al minunii: cunoașterea certă, experimentală, a identității DOMNULUI."
+       "pos": "pronume personal",
+       "def_ro": "Eu",
+       "dict_ro": "Ani este pronumele „eu”, forma mai scurtă decât anohi; când DOMNUL îl rostește, el pune accent pe cine vorbește, ca în Isaia 45:22: „Căci Eu sunt Dumnezeu și nu este altul”. În Ezechiel 37, formula „veți ști că Eu sunt DOMNUL” încheie făgăduința învierii, pentru a arăta că izvorul vieții noi este Cel care a vorbit.",
+       "greek": "ἐγώ (ego)",
+       "greek_def_ro": "ἐγώ (ego) — eu"
       },
       {
-       "t": " "
+       "t": " sunt "
       },
       {
-       "t": "DOMNUL.’",
-       "w": "DOMNUL.’",
+       "t": "DOMNUL",
+       "w": "DOMNUL",
        "heb": "יְהוָה",
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
-       "def_ro": "DOMNUL.’ (Adonai)",
-       "dict_ro": "Scopul final al minunii: cunoașterea certă, experimentală, a identității DOMNULUI."
+       "def_ro": "Domnul",
+       "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn",
+       "diff_ro": "Ebraica: numele divin (YHWH); Septuaginta: „Domnul” (κύριος)."
       },
       {
-       "t": "»”"
+       "t": ".’»”"
       }
      ],
      "textCompare": [
@@ -56073,20 +56181,42 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְנָתַתִּי עֲלֵיכֶם גִּידִים וְהַעֲלֵתִי עֲלֵיכֶם בָּשָׂר וְקָרַמְתִּי עֲלֵיכֶם עוֹר וְנָתַתִּי בָכֶם רוּחַ וִחְיִיתֶם וִידַעְתֶּם כִּי־אֲנִי יְהוָה׃",
        "translation": "Voi pune tendoane pe voi și voi aduce carne pe voi și vă voi acoperi cu piele. Apoi voi pune duh în voi și veți trăi; și veți ști că Eu sunt DOMNUL.’»” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
        "original": "καὶ δώσω ἐφ’ ὑμᾶς νεῦρα καὶ ἀνάξω ἐφ’ ὑμᾶς σάρκας, καὶ ἐκτενῶ ἐφ’ ὑμᾶς δέρμα καὶ δώσω πνεῦμά μου εἰς ὑμᾶς, καὶ ζήσεσθε· καὶ γνώσεσθε ὅτι ἐγώ εἰμι Κύριος.",
        "greek": true,
        "translation": "și voi da asupra voastră vine și voi ridica asupra voastră cărnuri, și voi întinde asupra voastră piele, și voi da duhul Meu în voi, și veți trăi, și veți cunoaște că Eu sunt Domnul.»",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „tendoane” (gidim) prin „vine” (νεῦρα) și „vă voi acoperi cu piele” (vekaramti or) prin „voi întinde piele” (ἐκτενῶ δέρμα)."
       }
      ],
      "refs": [
-      "Ezechiel 36:27"
+      "Ezechiel 37:14",
+      "Ezechiel 6:7",
+      "Ezechiel 7:4",
+      "Ezechiel 11:10",
+      "Ezechiel 20:38",
+      "Ezechiel 34:27"
      ],
-     "commentaries": []
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Voi pune tendoane peste voi” etc. — dar în cartea lui Iov se spune (10:11): „Cu piele și carne m-ai îmbrăcat” mai întâi, și apoi „și cu oase și tendoane m-ai împletit”. Cu ce se aseamănă acestea? Cu un om care se dezbracă și apoi se îmbracă din nou, caz în care ce a scos la urmă pune întâi; în timp ce la începutul plăsmuirii fătului vin întâi pielea și carnea, apoi oasele și tendoanele. „Și vă voi acoperi” (vekaramti) — de la cuvântul pentru piele (krum), în franceza veche ecrouster: voi încrusta [cu piele]."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Voi pune asupra voastră tendoane” — căci ele sunt începutul plăsmuirii fătului și al alcătuirii lui, deoarece multe dintre ele sunt legate de oase; după tendoane urmează carnea și apoi pielea, care este stratul de deasupra. Iar ce a spus Iov, „cu piele și carne m-ai îmbrăcat, cu oase și tendoane m-ai împletit”, nu a spus că pielea și carnea sunt la început în plăsmuire; le-a pomenit mai întâi fiindcă a spus „m-ai îmbrăcat”, ca un veșmânt, care este deasupra. „Și voi acoperi” (vekaramti) — verb tranzitiv; „și a acoperit peste ele piele” este verb intranzitiv, ca în „și carne a urcat”; și are sensul de crustă (kerum); Înțelepții noștri au spus: „ca să se acopere fața ei”."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Voi pune” etc. — după ce oasele se vor apropia, fiecare de locul care i se cuvine, voi pune asupra voastră tendoane, ca să lege și să prindă oasele unele de altele. „Și voi acoperi” — voi face peste voi un înveliș de piele; și după aceasta voi pune în voi duhul vieții, și veți rămâne vii și statornici. „Că Eu sunt DOMNUL” — și toate sunt în mâna Mea."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Și voi acoperi” (vekaramti) — de la „krum”, un fel de coajă; în cuvintele Înțelepților: „krum”, învelișul care crește pe o rană (Hulin 43)."
+      }
+     ]
     },
     {
      "v": "37:7",
@@ -56095,92 +56225,109 @@
      "translit": "Venibeti kaașer țuveiti vaihi-kol kehinavei vehine-raaș vatikrevu atzmot etzem el-atzmo.",
      "tokens": [
       {
-       "t": "Iar eu am profețit",
-       "w": "Iar eu am profețit",
+       "t": "Iar eu "
+      },
+      {
+       "t": "am profețit",
+       "w": "am profețit",
        "heb": "וְנִבֵּאתִי",
        "translit": "venibēti",
        "strong": "H5012",
        "pos": "verb, nifal perfect",
-       "def_ro": "și am profețit (venibēti)",
-       "dict_ro": "Ascultarea imediată a lui Ezechiel execută exact porunca primită, fără hezitare."
+       "def_ro": "am profețit",
+       "dict_ro": "Nava, la forma pasivă, înseamnă „a profeți”. „Nu profetiți!” este interdicția pe care poporul o pune profeților, exact în cuvintele lui Amos 7:13. Cel care vorbește în numele lui DOMNUL este redus la tăcere.",
+       "greek": "προφητεύω (propheteuo)",
+       "greek_def_ro": "προφητεύω (propheteuo) — a profeți"
       },
       {
-       "t": " "
+       "t": " precum mi se "
       },
       {
-       "t": "precum mi se poruncise",
-       "w": "precum mi se poruncise",
-       "heb": "כַּאֲשֶׁר צֻוֵּיתִי",
-       "translit": "kaașer țuvēti",
+       "t": "poruncise",
+       "w": "poruncise",
+       "heb": "צֻוֵּיתִי",
+       "translit": "țuvēti",
        "strong": "H6680",
-       "pos": "particulă relativă + verb, pual perfect",
-       "def_ro": "precum mi s-a poruncit (kaașer țuvēti)",
-       "dict_ro": "Ascultarea imediată a lui Ezechiel execută exact porunca primită, fără hezitare."
+       "pos": "verb, pual perfect",
+       "def_ro": "mi s-a poruncit",
+       "dict_ro": "Țivah, „a porunci, a rândui”: Dumnezeu „a poruncit omului” (Geneza 2:16). Cel pe care Dumnezeu îl numește „cârmuitor” primește de la El misiunea de a porunci neamurilor.",
+       "greek": "ἐντέλλομαι (entellomai)",
+       "greek_def_ro": "ἐντέλλομαι (entellomai) — a porunci"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și a fost un sunet",
-       "w": "și a fost un sunet",
-       "heb": "וַיְהִי קוֹל",
-       "translit": "vaihi kol",
+       "t": "a fost",
+       "w": "a fost",
+       "heb": "וַיְהִי",
+       "translit": "vaihi",
+       "strong": "H1961",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a fost",
+       "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”.",
+       "greek": "γίνομαι (ginomai)",
+       "greek_def_ro": "γίνομαι (ginomai) — a fi"
+      },
+      {
+       "t": " un "
+      },
+      {
+       "t": "sunet",
+       "w": "sunet",
+       "heb": "קוֹל",
+       "translit": "kol",
        "strong": "H6963",
-       "pos": "verb, qal imperfect consecutiv + substantiv, masculin singular",
-       "def_ro": "și a fost un sunet (vaihi kol)",
-       "dict_ro": "Sunetul auzit chiar în timpul profeției confirmă efectul fizic, imediat, al cuvântului profetic."
+       "pos": "substantiv, masculin singular",
+       "def_ro": "un glas",
+       "dict_ro": "Qol înseamnă „glas, sunet”. Același cuvânt dă „glasul subțire și blând” pe care Ilie îl aude la Horeb (1 Împărați 19:12). Aici nu se aude niciun glas din copil: tăcerea lui este semnul că nu este viață.",
+       "diff_ro": "Septuaginta nu are „sunet” (kol): are doar „cutremur” (σεισμός)."
       },
       {
-       "t": " "
+       "t": " când "
       },
       {
-       "t": "când profețeam",
-       "w": "când profețeam",
+       "t": "profețeam",
+       "w": "profețeam",
        "heb": "כְּהִנָּבְאִי",
        "translit": "kehinavi",
        "strong": "H5012",
        "pos": "verb, nifal infinitiv + sufix",
-       "def_ro": "la profetizarea mea (kehinavi)",
-       "dict_ro": "Sunetul auzit chiar în timpul profeției confirmă efectul fizic, imediat, al cuvântului profetic."
+       "def_ro": "când profețeam",
+       "dict_ro": "Nava, la forma pasivă, înseamnă „a profeți”. „Nu profetiți!” este interdicția pe care poporul o pune profeților, exact în cuvintele lui Amos 7:13. Cel care vorbește în numele lui DOMNUL este redus la tăcere.",
+       "greek": "προφητεύω (propheteuo)",
+       "greek_def_ro": "προφητεύω (propheteuo) — a profeți"
       },
       {
-       "t": " "
+       "t": " și iată, un "
       },
       {
-       "t": "și iată,",
-       "w": "și iată,",
-       "heb": "וְהִנֵּה",
-       "translit": "vehinē",
-       "strong": "H2009",
-       "pos": "particulă demonstrativă",
-       "def_ro": "și iată, (vehinē)",
-       "dict_ro": "Cutremurul care urmează sunetul confirmă intensitatea fizică a minunii în curs."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "un huruit,",
-       "w": "un huruit,",
+       "t": "huruit",
+       "w": "huruit",
        "heb": "רַעַשׁ",
        "translit": "raaș",
        "strong": "H7494",
        "pos": "substantiv, masculin singular",
-       "def_ro": "un cutremur, (raaș)",
-       "dict_ro": "Cutremurul care urmează sunetul confirmă intensitatea fizică a minunii în curs."
+       "def_ro": "un cutremur",
+       "dict_ro": "Raaș înseamnă „cutremur”, „zgomot”. După vânt vine cutremurul; DOMNUL nu este nici în cutremur. Cele trei semne amintesc de Sinai, dar Dumnezeu nu Se arată prin ele.",
+       "greek": "σεισμός (seismos)",
+       "greek_def_ro": "σεισμός (seismos) — cutremur",
+       "diff_ro": "Ebraica: „un sunet… un huruit” (kol… raaș); Septuaginta: „cutremur” (σεισμός)."
       },
       {
-       "t": " "
+       "t": ", și "
       },
       {
-       "t": "și oasele",
-       "w": "și oasele",
+       "t": "oasele",
+       "w": "oasele",
        "heb": "עֲצָמוֹת",
        "translit": "ațamot",
        "strong": "H6106",
        "pos": "substantiv, feminin plural",
-       "def_ro": "oase (ațamot)",
-       "dict_ro": "Reasamblarea oaselor, fiecare la locul său, marchează primul pas vizibil al minunii învierii."
+       "def_ro": "oasele",
+       "dict_ro": "Etsem înseamnă „os”. Oasele regilor, ale conducătorilor, ale preoților, ale profeților și ale locuitorilor vor fi scoase, o profanare gravă după mentalitatea vremii.",
+       "greek": "ὀστέον (osteon)",
+       "greek_def_ro": "ὀστέον (osteon) — os"
       },
       {
        "t": " "
@@ -56192,21 +56339,44 @@
        "translit": "vatikrevu",
        "strong": "H7126",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și s-au apropiat (vatikrevu)",
-       "dict_ro": "Reasamblarea oaselor, fiecare la locul său, marchează primul pas vizibil al minunii învierii."
+       "def_ro": "s-au apropiat",
+       "dict_ro": "Karav — „a se apropia”, de unde korban, „jertfa” (ceea ce e adus aproape). Aici e negat: spaima nu se va apropia. Radak: lucrul e spus de două ori, în cuvinte diferite.",
+       "greek": "προσάγω (prosago)",
+       "greek_def_ro": "προσάγω (prosago) — a apropia"
       },
       {
        "t": " "
       },
       {
-       "t": "unele de celelalte.",
-       "w": "unele de celelalte.",
-       "heb": "עֶצֶם אֶל עַצְמוֹ",
-       "translit": "ețem el ațmo",
+       "t": "unele",
+       "w": "unele",
+       "heb": "עֶצֶם",
+       "translit": "ețem",
        "strong": "H6106",
-       "pos": "substantiv, feminin singular + prepoziție + substantiv, feminin singular construct + sufix",
-       "def_ro": "os la osul lui. (ețem el ațmo)",
-       "dict_ro": "Reasamblarea oaselor, fiecare la locul său, marchează primul pas vizibil al minunii învierii."
+       "pos": "substantiv, feminin singular",
+       "def_ro": "os",
+       "dict_ro": "Etsem înseamnă „os”. Oasele regilor, ale conducătorilor, ale preoților, ale profeților și ale locuitorilor vor fi scoase, o profanare gravă după mentalitatea vremii.",
+       "greek": "ἑκάτερος (hekateros)",
+       "greek_def_ro": "ἑκάτερος (hekateros) — fiecare"
+      },
+      {
+       "t": " de "
+      },
+      {
+       "t": "celelalte",
+       "w": "celelalte",
+       "heb": "עַצְמוֹ",
+       "translit": "ațmo",
+       "strong": "H6106",
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "de osul său",
+       "dict_ro": "Etsem înseamnă „os”. Oasele regilor, ale conducătorilor, ale preoților, ale profeților și ale locuitorilor vor fi scoase, o profanare gravă după mentalitatea vremii.",
+       "greek": "ἁρμονία (harmonia)",
+       "greek_def_ro": "ἁρμονία (harmonia) — încheietură",
+       "diff_ro": "Ebraica: „de celelalte” (el ațmo); Septuaginta: „spre încheietura lui” (πρὸς τὴν ἁρμονίαν αὐτοῦ)."
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -56214,20 +56384,39 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְנִבֵּאתִי כַּאֲשֶׁר צֻוֵּיתִי וַיְהִי־קוֹל כְּהִנָּבְאִי וְהִנֵּה־רַעַשׁ וַתִּקְרְבוּ עֲצָמוֹת עֶצֶם אֶל־עַצְמוֹ׃",
        "translation": "Iar eu am profețit precum mi se poruncise și a fost un sunet când profețeam și iată, un huruit, și oasele s-au apropiat unele de celelalte. — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἐπροφήτευσα καθὼς ἐνετείλατό μοι. καὶ ἐγένετο ἐν τῷ ἐμὲ προφητεῦσαι καὶ ἰδοὺ σεισμός, καὶ προσήγαγε τὰ ὀστᾶ ἑκάτερον πρὸς τὴν ἁρμονίαν αὐτοῦ.",
+       "original": "καὶ ἐπροφήτευσα καθὼς ἐνετείλατό μοι καὶ ἐγένετο ἐν τῷ ἐμὲ προφητεῦσαι καὶ ἰδοὺ σεισμός καὶ προσήγαγε τὰ ὀστᾶ ἑκάτερον πρὸς τὴν ἁρμονίαν αὐτοῦ",
        "greek": true,
        "translation": "Și am profețit cum mi s-a poruncit. Și a fost, pe când profețeam eu, și, iată, cutremur, și s-au apropiat oasele, fiecare spre încheietura lui.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „un sunet… un huruit” (kol… raaș) prin „cutremur” (σεισμός), fără „sunet” separat, și „unele de celelalte” (ețem el ațmo) prin „fiecare spre încheietura lui” (ἑκάτερον πρὸς τὴν ἁρμονίαν αὐτοῦ)."
       }
      ],
      "refs": [
+      "Ieremia 13:5-7",
+      "Ieremia 26:8",
       "1 Împărați 19:11-13"
      ],
-     "commentaries": []
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Și a fost un sunet, și iată, un huruit” al oaselor, care se loveau unele de altele. „Os către osul lui” — oasele fiecăruia, oriunde erau risipite, săreau și se adunau, fiecare lângă locul încheieturii lui."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Și am profețit, și s-au apropiat” — oasele care se despărțiseră unele de altele de-a lungul vremii. A spus „s-au apropiat” cu un singur semn feminin, deși de obicei se spune cu două semne („tikrevna”); la fel „văduvele tale să se încreadă în Mine” și „prin mulțimea oaselor” sunt la feminin; iar „os către osul său” este la masculin, adică: fiecare os se alipește de osul căruia i se cuvine să se alipească după alcătuirea lui."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și a fost un glas” — de la duhul și aerul care sufla. „Și iată, un huruit” — o mișcare și o clătinare a oaselor, apropierea fiecăruia de osul de care era lipit când era viu."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Huruit” (raaș) — înțeles de clătinare și mișcare."
+      }
+     ]
     },
     {
      "v": "37:8",
@@ -56236,30 +56425,22 @@
      "translit": "Veraiti vehine-aleihem ghidim uvasar ala vaikram aleihem or milmaala veruah ein bahem.",
      "tokens": [
       {
-       "t": "Apoi m-am uitat",
-       "w": "Apoi m-am uitat",
+       "t": "Apoi "
+      },
+      {
+       "t": "m-am uitat",
+       "w": "m-am uitat",
        "heb": "וְרָאִיתִי",
        "translit": "veraiti",
        "strong": "H7200",
        "pos": "verb, qal perfect",
-       "def_ro": "și am văzut (veraiti)",
-       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
+       "def_ro": "am privit",
+       "dict_ro": "Raa e verbul vederii, dar și al înțelegerii: a vedea înseamnă adesea a pricepe. Din aceeași rădăcină vine roe, „văzătorul”, numele vechi al profetului.",
+       "greek": "εἶδον (eidon)",
+       "greek_def_ro": "εἶδον (eidon) — a vedea"
       },
       {
-       "t": " "
-      },
-      {
-       "t": "și iată,",
-       "w": "și iată,",
-       "heb": "וְהִנֵּה",
-       "translit": "vehinē",
-       "strong": "H2009",
-       "pos": "particulă demonstrativă",
-       "def_ro": "și iată, (vehinē)",
-       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
-      },
-      {
-       "t": " "
+       "t": " și iată, "
       },
       {
        "t": "tendoane",
@@ -56268,34 +56449,40 @@
        "translit": "gidim",
        "strong": "H1517",
        "pos": "substantiv, masculin plural",
-       "def_ro": "tendoane (gidim)",
-       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
+       "def_ro": "vine",
+       "dict_ro": "Gid este „tendonul, vena”, partea care leagă mușchii de oase. Geneza 32:33 pomenește tendonul coapsei, pe care israeliții nu îl mănâncă din pricina luptei lui Iacov, iar Iov 10:11 spune că Dumnezeu l-a țesut pe om din „oase și tendoane”. În Ezechiel 37:6-8 tendoanele sunt primul lucru care leagă oasele, înaintea cărnii și a pielii.",
+       "greek": "νεῦρον (neuron)",
+       "greek_def_ro": "νεῦρον (neuron) — nerv, vină"
       },
       {
-       "t": " "
+       "t": " erau "
       },
       {
-       "t": "erau peste ele",
-       "w": "erau peste ele",
-       "heb": "עֲלֵיהֶם",
-       "translit": "alēhem",
-       "strong": "H5921",
-       "pos": "prepoziție + sufix",
-       "def_ro": "peste ele (alēhem)",
-       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
+       "t": "peste",
+       "w": "peste",
+       "heb": "מִלְמָעְלָה",
+       "translit": "milmala",
+       "strong": "H4605",
+       "pos": "adverb",
+       "def_ro": "deasupra",
+       "dict_ro": "Maal înseamnă „sus, deasupra”; apele potopului au crescut „în sus” (Geneza 7:20). Perechea „de deasupra… de dedesubt” spune totalitatea: nimic nu a rămas în picioare.",
+       "greek": "ἐπάνω (epano)",
+       "greek_def_ro": "ἐπάνω (epano) — deasupra"
       },
       {
-       "t": " "
+       "t": " ele și "
       },
       {
-       "t": "și carne",
-       "w": "și carne",
+       "t": "carne",
+       "w": "carne",
        "heb": "וּבָשָׂר",
        "translit": "uvasar",
        "strong": "H1320",
        "pos": "substantiv, masculin singular",
-       "def_ro": "și carne (uvasar)",
-       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
+       "def_ro": "carne",
+       "dict_ro": "Basar înseamnă „carne, trup”: Adam spune despre Eva „carne din carnea mea” (Geneza 2:23). Trupul copilului este cel care se încălzește, iar după aceea copilul respiră și își deschide ochii.",
+       "greek": "σάρξ (sarx)",
+       "greek_def_ro": "σάρξ (sarx) — carne"
       },
       {
        "t": " "
@@ -56307,60 +56494,60 @@
        "translit": "ala",
        "strong": "H5927",
        "pos": "verb, qal perfect",
-       "def_ro": "a urcat (ala)",
-       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
+       "def_ro": "a urcat",
+       "dict_ro": "Alah înseamnă „a urca”; același verb este cel al jertfei lui Isaac: „adu-l ca ardere de tot” (Geneza 22:2). Femeia urcă în odaia de sus cu copilul, iar Elisei se urcă pe pat peste copil.",
+       "greek": "φύω (phyo)",
+       "greek_def_ro": "φύω (phyo) — a crește",
+       "diff_ro": "Ebraica: „apăruse” (ala), literal „a urcat”; Septuaginta: „creșteau” (ἐφύοντο)."
       },
       {
-       "t": " "
+       "t": " și fuseseră "
       },
       {
-       "t": "și fuseseră acoperite de",
-       "w": "și fuseseră acoperite de",
+       "t": "acoperite",
+       "w": "acoperite",
        "heb": "וַיִּקְרַם",
        "translit": "vaikram",
        "strong": "H7159",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și a întins (vaikram)",
-       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
+       "def_ro": "le-a acoperit",
+       "dict_ro": "Qaram înseamnă „a acoperi cu piele” și apare doar în Ezechiel 37:6 și 37:8. Înainte de duh, oasele primesc mai întâi tendoane, apoi carne și, la urmă, piele care le acoperă. Cuvântul arată treptele plăsmuirii, ca într-o a doua creație, în care trupul este refăcut parte cu parte înainte să primească suflul vieții.",
+       "greek": "ἀναβαίνω (anabaino)",
+       "greek_def_ro": "ἀναβαίνω (anabaino) — a se ridica",
+       "diff_ro": "Ebraica: „fuseseră acoperite” (vaikram); Septuaginta: „se ridica” (ἀνέβαινεν)."
       },
       {
-       "t": " "
+       "t": " de "
       },
       {
-       "t": "piele,",
-       "w": "piele,",
+       "t": "piele",
+       "w": "piele",
        "heb": "עוֹר",
        "translit": "or",
        "strong": "H5785",
        "pos": "substantiv, masculin singular",
-       "def_ro": "piele, (or)",
-       "dict_ro": "Observarea directă a profetului confirmă, pas cu pas, progresul fizic al reasamblării corpurilor."
+       "def_ro": "piele",
+       "dict_ro": "Or este „pielea” omului sau a animalului. Geneza 3:21 spune că DOMNUL a făcut pentru Adam și Eva „haine de piele”, iar Iov 10:11 compară înfăptuirea omului cu îmbrăcarea în „piele și carne”. În Ezechiel 37:6 și 37:8 pielea este ultimul strat care acoperă oasele înviate, înainte ca duhul să le dea viață.",
+       "greek": "δέρμα (derma)",
+       "greek_def_ro": "δέρμα (derma) — piele"
       },
       {
-       "t": " "
+       "t": ", dar "
       },
       {
-       "t": "dar duh",
-       "w": "dar duh",
+       "t": "duh",
+       "w": "duh",
        "heb": "וְרוּחַ",
        "translit": "veruah",
        "strong": "H7307",
        "pos": "substantiv, masculin și feminin singular",
-       "def_ro": "și duh (veruah)",
-       "dict_ro": "Absența duhului, în ciuda refacerii corporale complete, confirmă necesitatea unui al doilea act creator distinct."
+       "def_ro": "duh",
+       "dict_ro": "Ruah, „duh, vânt”: „Duhul lui Dumnezeu se mișca deasupra apelor” (Geneza 1:2). „Duhul întristat” este starea lăuntrică a celei părăsite.",
+       "greek": "πνεῦμα (pneuma)",
+       "greek_def_ro": "πνεῦμα (pneuma) — duh"
       },
       {
-       "t": " "
-      },
-      {
-       "t": "nu era în ele.",
-       "w": "nu era în ele.",
-       "heb": "אֵין בָּהֶם",
-       "translit": "ēn bahem",
-       "strong": "",
-       "pos": "particulă negativă + prepoziție + sufix",
-       "def_ro": "nu [era] în ele. (ēn bahem)",
-       "dict_ro": "Absența duhului, în ciuda refacerii corporale complete, confirmă necesitatea unui al doilea act creator distinct."
+       "t": " nu era în ele."
       }
      ],
      "textCompare": [
@@ -56368,18 +56555,31 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְרָאִיתִי וְהִנֵּה־עֲלֵיהֶם גִּידִים וּבָשָׂר עָלָה וַיִּקְרַם עֲלֵיהֶם עוֹר מִלְמָעְלָה וְרוּחַ אֵין בָּהֶם׃",
        "translation": "Apoi m-am uitat și iată, tendoane erau peste ele și carne apăruse și fuseseră acoperite de piele, dar duh nu era în ele. — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ εἶδον καὶ ἰδοὺ ἐπ’ αὐτὰ νεῦρα καὶ σάρκες ἐφύοντο, καὶ ἀνέβαινεν ἐπ’ αὐτὰ δέρμα ἐπάνω, καὶ πνεῦμα οὐκ ἦν ἐπ’ αὐτοῖς.",
+       "original": "καὶ εἶδον καὶ ἰδοὺ ἐπ᾿ αὐτὰ νεῦρα καὶ σάρκες ἐφύοντο καὶ ἀνέβαινεν ἐπ᾿ αὐτὰ δέρμα ἐπάνω καὶ πνεῦμα οὐκ ἦν ἐν αὐτοῖς",
        "greek": true,
        "translation": "Și am văzut, și, iată, pe ele vine și cărnuri creșteau, și se ridica pe ele piele pe deasupra, dar duh nu era în ele.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „carne apăruse” (basar ala) prin „cărnuri creșteau” (σάρκες ἐφύοντο) și „fuseseră acoperite de piele” prin „piele se ridica pe ele” (ἀνέβαινεν δέρμα)."
       }
      ],
      "refs": [],
-     "commentaries": []
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Și am văzut, și carne a urcat” — a urcat pe tendoane, căci tendoanele sunt în carne; unii tâlcuiesc „a urcat” ca „a crescut”, ca în „și a ridicat unul dintre puii ei”."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Și iată, peste ele” — adică așezate peste ele tendoane etc. „Dar duh nu era în ele” — încă nu era în ele duhul vieții."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Și a acoperit” (vaikram) — s-a făcut înveliș."
+      }
+     ]
     },
     {
      "v": "37:9",
@@ -56388,56 +56588,67 @@
      "translit": "Vaiomer elai hinave el-haruah hinave ven-adam veamarta el-haruah ko-amar Adonai ELOHIM mearba ruhot boi haruah ufehi baharugim haele veihiu.",
      "tokens": [
       {
-       "t": "Apoi El mi-a spus:",
-       "w": "Apoi El mi-a spus:",
-       "heb": "וַיֹּאמֶר אֵלַי",
-       "translit": "vaiomer ēlai",
-       "strong": "H413",
-       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
-       "def_ro": "și a spus la mine: (vaiomer ēlai)",
-       "dict_ro": "A doua profeție, adresată direct duhului, completează minunea prin insuflarea finală a vieții."
+       "t": "Apoi El mi-"
       },
       {
-       "t": " "
+       "t": "a spus",
+       "w": "a spus",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
       },
       {
-       "t": "„Profețește",
-       "w": "„Profețește",
+       "t": ": „"
+      },
+      {
+       "t": "Profețește",
+       "w": "Profețește",
        "heb": "הִנָּבֵא",
        "translit": "hinavē",
        "strong": "H5012",
        "pos": "verb, nifal imperativ",
-       "def_ro": "profețește (hinavē)",
-       "dict_ro": "A doua profeție, adresată direct duhului, completează minunea prin insuflarea finală a vieții."
+       "def_ro": "profețește",
+       "dict_ro": "Nava, la forma pasivă, înseamnă „a profeți”. „Nu profetiți!” este interdicția pe care poporul o pune profeților, exact în cuvintele lui Amos 7:13. Cel care vorbește în numele lui DOMNUL este redus la tăcere.",
+       "greek": "προφητεύω (propheteuo)",
+       "greek_def_ro": "προφητεύω (propheteuo) — a profeți"
       },
       {
        "t": " "
       },
       {
-       "t": "duhului,",
-       "w": "duhului,",
-       "heb": "אֶל הָרוּחַ",
-       "translit": "el haruah",
+       "t": "duhului",
+       "w": "duhului",
+       "heb": "הָרוּחַ",
+       "translit": "haruah",
        "strong": "H7307",
-       "pos": "prepoziție + substantiv, masculin și feminin singular",
-       "def_ro": "la duhul, (el haruah)",
-       "dict_ro": "A doua profeție, adresată direct duhului, completează minunea prin insuflarea finală a vieții."
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "către duh",
+       "dict_ro": "Ruah, „duh, vânt”: „Duhul lui Dumnezeu se mișca deasupra apelor” (Geneza 1:2). „Duhul întristat” este starea lăuntrică a celei părăsite.",
+       "greek": "πνεῦμα (pneuma)",
+       "greek_def_ro": "πνεῦμα (pneuma) — duh"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "profețește,",
-       "w": "profețește,",
+       "t": "profețește",
+       "w": "profețește",
        "heb": "הִנָּבֵא",
        "translit": "hinavē",
        "strong": "H5012",
        "pos": "verb, nifal imperativ",
-       "def_ro": "profețește, (hinavē)",
-       "dict_ro": "Repetarea dublă a poruncii «profețește» amplifică urgența celui de-al doilea act profetic."
+       "def_ro": "profețește",
+       "dict_ro": "Nava, la forma pasivă, înseamnă „a profeți”. „Nu profetiți!” este interdicția pe care poporul o pune profeților, exact în cuvintele lui Amos 7:13. Cel care vorbește în numele lui DOMNUL este redus la tăcere.",
+       "greek": "προφητεύω (propheteuo)",
+       "greek_def_ro": "προφητεύω (propheteuo) — a profeți"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
        "t": "fiu",
@@ -56446,99 +56657,130 @@
        "translit": "ven",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "fiu de (ven)",
-       "dict_ro": "Repetarea dublă a poruncii «profețește» amplifică urgența celui de-al doilea act profetic."
+       "def_ro": "fiu",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": " al "
       },
       {
-       "t": "al omului,",
-       "w": "al omului,",
+       "t": "omului",
+       "w": "omului",
        "heb": "אָדָם",
        "translit": "adam",
        "strong": "H120",
        "pos": "substantiv, masculin singular",
-       "def_ro": "om, (adam)",
-       "dict_ro": "Repetarea dublă a poruncii «profețește» amplifică urgența celui de-al doilea act profetic."
+       "def_ro": "al omului",
+       "dict_ro": "Adam înseamnă „om”, omenirea în general; e legat în Geneza de adama, „pământul” din care a fost luat (Geneza 2:7). Ca nume propriu, desemnează primul om.",
+       "greek": "ἄνθρωπος (anthropos)",
+       "greek_def_ro": "ἄνθρωπος (anthropos) — om"
       },
       {
-       "t": " "
+       "t": ", și "
       },
       {
-       "t": "și spune",
-       "w": "și spune",
+       "t": "spune",
+       "w": "spune",
        "heb": "וְאָמַרְתָּ",
        "translit": "veamarta",
        "strong": "H559",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și vei spune (veamarta)",
-       "dict_ro": "Formula introduce conținutul exact al celei de-a doua profeții, adresate direct duhului."
+       "def_ro": "și spune",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
       },
       {
        "t": " "
       },
       {
-       "t": "duhului:",
-       "w": "duhului:",
-       "heb": "אֶל הָרוּחַ",
-       "translit": "el haruah",
+       "t": "duhului",
+       "w": "duhului",
+       "heb": "הָרוּחַ",
+       "translit": "haruah",
        "strong": "H7307",
-       "pos": "prepoziție + substantiv, masculin și feminin singular",
-       "def_ro": "la duhul: (el haruah)",
-       "dict_ro": "Formula introduce conținutul exact al celei de-a doua profeții, adresate direct duhului."
+       "pos": "substantiv, masculin și feminin singular",
+       "def_ro": "către duh",
+       "dict_ro": "Ruah, „duh, vânt”: „Duhul lui Dumnezeu se mișca deasupra apelor” (Geneza 1:2). „Duhul întristat” este starea lăuntrică a celei părăsite.",
+       "greek": "πνεῦμα (pneuma)",
+       "greek_def_ro": "πνεῦμα (pneuma) — duh"
+      },
+      {
+       "t": ": «"
+      },
+      {
+       "t": "Așa",
+       "w": "Așa",
+       "heb": "כֹּה",
+       "translit": "ko",
+       "strong": "H3541",
+       "pos": "adverb",
+       "def_ro": "așa",
+       "dict_ro": "Ko, „așa”, deschide formula profetică ko amar Adonai, „așa a spus DOMNUL” — un fel de pecete care arată că urmează cuvintele lui Dumnezeu, transmise întocmai.",
+       "greek": "ὅδε (hode)",
+       "greek_def_ro": "ὅδε (hode) — acestea, astfel"
       },
       {
        "t": " "
       },
       {
-       "t": "«Așa a spus",
-       "w": "«Așa a spus",
-       "heb": "כֹּה אָמַר",
-       "translit": "ko amar",
+       "t": "a spus",
+       "w": "a spus",
+       "heb": "אָמַר",
+       "translit": "amar",
        "strong": "H559",
-       "pos": "adverb + verb, qal perfect",
-       "def_ro": "astfel a spus (ko amar)",
-       "dict_ro": "Formula profetică standard pregătește chemarea duhului din cele patru vânturi."
+       "pos": "verb, qal perfect",
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
       },
       {
        "t": " "
       },
       {
-       "t": "Stăpânul meu,",
-       "w": "Stăpânul meu,",
+       "t": "Stăpânul meu",
+       "w": "Stăpânul meu",
        "heb": "אֲדֹנָי",
        "translit": "adonai",
        "strong": "H136",
        "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "Stăpânul meu, (adonai)",
-       "dict_ro": "Titlul dublu divin confirmă autoritatea supremă a poruncii adresate duhului."
+       "def_ro": "Stăpânul meu",
+       "dict_ro": "Adonai (cu vocale diferite de cele ale Numelui) înseamnă „Stăpânul” și se referă aici la DOMNUL. Omul care aduce o jertfă cu meteahnă Stăpânului său își arată disprețul față de El.",
+       "diff_ro": "Septuaginta nu are „Stăpânul meu” (adonai) înaintea numelui divin: spune doar „Domnul”."
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "Domnul DUMNEZEU:",
-       "w": "Domnul DUMNEZEU:",
+       "t": "Domnul DUMNEZEU",
+       "w": "Domnul DUMNEZEU",
        "heb": "יְהוִה",
        "translit": "Adonai",
        "strong": "H3069",
        "pos": "nume propriu",
-       "def_ro": "Domnul DUMNEZEU: (Adonai)",
-       "dict_ro": "Titlul dublu divin confirmă autoritatea supremă a poruncii adresate duhului."
+       "def_ro": "Domnul DUMNEZEU",
+       "dict_ro": "Yehovih este forma Numelui scrisă cu vocalele lui „Adonai”, ca să se citească „Adonai” și nu Numele. În Ezechiel apare adesea ca „Adonai YHWH”, titlul solemn al lui Dumnezeu.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn",
+       "diff_ro": "Ebraica: numele divin (YHWH); Septuaginta: „Domnul” (κύριος)."
       },
       {
-       "t": " "
+       "t": ": ‘Din cele "
       },
       {
-       "t": "‘Din cele patru",
-       "w": "‘Din cele patru",
+       "t": "patru",
+       "w": "patru",
        "heb": "מֵאַרְבַּע",
        "translit": "mēarba",
        "strong": "H702",
        "pos": "numeral",
-       "def_ro": "din patru (mēarba)",
-       "dict_ro": "Chemarea duhului din toate cele patru direcții confirmă universalitatea cosmică a acestei a doua insuflări."
+       "def_ro": "din patru",
+       "dict_ro": "Arbaa înseamnă „patru”. Seria „trei… și patru” este un tipar poetic ebraic, folosit și în Proverbe: „trei lucruri sunt prea minunate pentru mine, și patru pe care nu le înțeleg” (Proverbe 30:18). În Amos, al patrulea păcat este cel care umple paharul.",
+       "greek": "τέσσαρες (tessares)",
+       "greek_def_ro": "τέσσαρες (tessares) — patru"
       },
       {
        "t": " "
@@ -56550,60 +56792,69 @@
        "translit": "ruhot",
        "strong": "H7307",
        "pos": "substantiv, masculin și feminin plural",
-       "def_ro": "vânturi (ruhot)",
-       "dict_ro": "Chemarea duhului din toate cele patru direcții confirmă universalitatea cosmică a acestei a doua insuflări."
+       "def_ro": "vânturi",
+       "dict_ro": "Ruah, „duh, vânt”: „Duhul lui Dumnezeu se mișca deasupra apelor” (Geneza 1:2). „Duhul întristat” este starea lăuntrică a celei părăsite.",
+       "greek": "πνεῦμα (pneuma)",
+       "greek_def_ro": "πνεῦμα (pneuma) — duh"
       },
       {
        "t": " "
       },
       {
-       "t": "vino,",
-       "w": "vino,",
+       "t": "vino",
+       "w": "vino",
        "heb": "בֹּאִי",
        "translit": "boi",
        "strong": "H935",
        "pos": "verb, qal imperativ",
-       "def_ro": "vino, (boi)",
-       "dict_ro": "Chemarea duhului din toate cele patru direcții confirmă universalitatea cosmică a acestei a doua insuflări."
+       "def_ro": "vino",
+       "dict_ro": "Bo e verbul venirii și al intrării; în profeți descrie adesea împlinirea: ceea ce a fost vestit „vine”, adică se întâmplă (Isaia 42:9). La forma cauzativă, hevi, înseamnă „a aduce” — cu un sens aparte în făgăduința strângerii exilaților (Isaia 43:5).",
+       "greek": "ἔρχομαι (erchomai)",
+       "greek_def_ro": "ἔρχομαι (erchomai) — a veni"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "duhule,",
-       "w": "duhule,",
+       "t": "duhule",
+       "w": "duhule",
        "heb": "הָרוּחַ",
        "translit": "haruah",
        "strong": "H7307",
        "pos": "substantiv, masculin și feminin singular",
-       "def_ro": "duhule, (haruah)",
-       "dict_ro": "Chemarea duhului din toate cele patru direcții confirmă universalitatea cosmică a acestei a doua insuflări."
+       "def_ro": "duhule",
+       "dict_ro": "Ruah, „duh, vânt”: „Duhul lui Dumnezeu se mișca deasupra apelor” (Geneza 1:2). „Duhul întristat” este starea lăuntrică a celei părăsite.",
+       "diff_ro": "Septuaginta nu are „duhule” (haruah) ca adresare separată: „vino” se adresează duhului din fraza precedentă."
       },
       {
-       "t": " "
+       "t": ", și "
       },
       {
-       "t": "și suflă",
-       "w": "și suflă",
+       "t": "suflă",
+       "w": "suflă",
        "heb": "וּפְחִי",
        "translit": "ufhi",
        "strong": "H5301",
        "pos": "verb, qal imperativ",
-       "def_ro": "și suflă (ufhi)",
-       "dict_ro": "Verbul «a sufla» aduce aminte explicit de insuflarea originară a vieții în Adam, la Geneza 2:7."
+       "def_ro": "suflă",
+       "dict_ro": "Nafah — „a sufla”, verbul cu care Dumnezeu i-a suflat omului suflare de viață (Geneza 2:7); aici e suflarea în jăratic, cu foalele. Metzudat David: suflă în focul prins în cărbunii stinși, ca să-i aprindă bine.",
+       "greek": "ἐμφυσάω (emphysao)",
+       "greek_def_ro": "ἐμφυσάω (emphysao) — a sufla"
       },
       {
-       "t": " "
+       "t": " în "
       },
       {
-       "t": "în acești",
-       "w": "în acești",
+       "t": "acești",
+       "w": "acești",
        "heb": "הָאֵלֶּה",
        "translit": "haēle",
        "strong": "H428",
        "pos": "pronume demonstrativ",
-       "def_ro": "aceștia, (haēle)",
-       "dict_ro": "Verbul «a sufla» aduce aminte explicit de insuflarea originară a vieții în Adam, la Geneza 2:7."
+       "def_ro": "acești",
+       "dict_ro": "Ele înseamnă „acestea”. Osea 14:10 încheie cartea cu o întrebare: cine e destul de înțelept ca să înțeleagă toate acestea?",
+       "greek": "οὗτος (houtos)",
+       "greek_def_ro": "οὗτος (houtos) — acesta"
       },
       {
        "t": " "
@@ -56615,21 +56866,29 @@
        "translit": "baharugim",
        "strong": "H2026",
        "pos": "verb, qal participiu pasiv",
-       "def_ro": "uciși (baharugim)",
-       "dict_ro": "Oasele uciși, nu doar morți natural, confirmă identificarea lor cu victimele exilului și dezastrelor naționale."
+       "def_ro": "uciși",
+       "dict_ro": "Harag, „a ucide”, e verbul pentru omuciderea violentă, cum a făcut Cain: „l-a omorât” (Geneza 4:8). Ioav îi ucide pe Avner și pe Amasa prin viclenie, în timp ce se prefăcea prieten.",
+       "greek": "νεκρός (nekros)",
+       "greek_def_ro": "νεκρός (nekros) — mort",
+       "diff_ro": "Ebraica: „uciși” (harugim); Septuaginta: „morți” (νεκρούς)."
       },
       {
-       "t": " "
+       "t": " și ei "
       },
       {
-       "t": "și ei vor trăi!’»”.",
-       "w": "și ei vor trăi!’»”.",
+       "t": "vor trăi",
+       "w": "vor trăi",
        "heb": "וְיִחְיוּ",
        "translit": "veihiu",
        "strong": "H2421",
        "pos": "verb, qal imperfect",
-       "def_ro": "și vor trăi!’»”. (veihiu)",
-       "dict_ro": "Oasele uciși, nu doar morți natural, confirmă identificarea lor cu victimele exilului și dezastrelor naționale."
+       "def_ro": "și vor trăi",
+       "dict_ro": "Hayah, „a trăi”, este verbul vieții adevărate, nu doar al existenței biologice. „Sufletul vostru va trăi” este făgăduința vieții pentru cel care ascultă.",
+       "greek": "ζάω (zao)",
+       "greek_def_ro": "ζάω (zao) — a trăi"
+      },
+      {
+       "t": "!’»”."
       }
      ],
      "textCompare": [
@@ -56637,21 +56896,39 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיֹּאמֶר אֵלַי הִנָּבֵא אֶל־הָרוּחַ הִנָּבֵא בֶן־אָדָם וְאָמַרְתָּ אֶל־הָרוּחַ כֹּה־אָמַר אֲדֹנָי יְהוִה מֵאַרְבַּע רוּחוֹת בֹּאִי הָרוּחַ וּפְחִי בַּהֲרוּגִים הָאֵלֶּה וְיִחְיוּ׃",
        "translation": "Apoi El mi-a spus: „Profețește duhului, profețește, fiu al omului, și spune duhului: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: ‘Din cele patru vânturi vino, duhule, și suflă în acești uciși și ei vor trăi!’»”. — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "OSHB marchează în acest verset o consoană diferită de BHS."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ εἶπε πρός με· προφήτευσον ἐπὶ τὸ πνεῦμα, προφήτευσον, υἱὲ ἀνθρώπου, καὶ εἰπὸν τῷ πνεύματι· τάδε λέγει Κύριος· ἐκ τῶν τεσσάρων πνευμάτων ἐλθὲ καὶ ἐμφύσησον εἰς τοὺς νεκροὺς τούτους, καὶ ζησάτωσαν.",
+       "original": "καὶ εἶπεν πρός με προφήτευσον υἱὲ ἀνθρώπου προφήτευσον ἐπὶ τὸ πνεῦμα καὶ εἰπὸν τῷ πνεύματι τάδε λέγει κύριος ἐκ τῶν τεσσάρων πνευμάτων ἐλθὲ καὶ ἐμφύσησον εἰς τοὺς νεκροὺς τούτους καὶ ζησάτωσαν",
        "greek": true,
        "translation": "Și a spus către mine: «Profețește duhului, profețește, fiu al omului, și spune duhului: Așa spune Domnul: din cele patru duhuri vino și suflă în acești morți, și să trăiască!»",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „uciși” (harugim) prin „morți” (νεκρούς) și nu are „Stăpânul meu” (adonai) înaintea numelui divin: are doar „Domnul” (κύριος)."
       }
      ],
      "refs": [
       "Ezechiel 37:5",
+      "Ezechiel 37:14",
       "Cântarea cântărilor 4:16"
      ],
-     "commentaries": []
+     "commentaries": [
+      {
+       "author": "Rashi (1040–1105)",
+       "text": "„Din cele patru vânturi” — oriunde au rătăcit sufletele lor, către cele patru laturi ale lumii, de acolo se vor aduna și vor veni. „Și suflă” (ufhi) — ca în Isaia 54:16: „cel care suflă (nofeah) peste focul de cărbuni”."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Din cele patru vânturi, vino, duhule” — acesta este duhul vieții; de aceea a spus „din patru vânturi”, adică din orice parte ar fi, căci este din aer. Iar ce a spus „și voi pune duhul Meu în voi” este duhul înțelepciunii, de aceea a spus „duh”; dovadă este că a spus după aceea „și vă voi ridica din mormintele voastre”. „Și suflă” — rădăcina este „nafah”, de forma „gashi” de la „nagash”, ca în „și a suflat în nările lui suflare de viață”. „În acești uciși” — nu spune uciși de sabie, ci vrea să spună morți, căci „ucis” se spune și despre morți fără sabie; dar dacă ar fi fost fiii lui Efraim, cum este scris mai sus, aceștia ar fi fost uciși de sabie."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Din cele patru vânturi” — adică din orice loc în care au mers sufletele lor să rătăcească, către cele patru vânturi ale lumii, de acolo se vor aduna și vor veni și vor sufla în trupurile acestor uciși, și vor trăi."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Și suflă” (ufhi) — de la suflare și adiere."
+      }
+     ]
     },
     {
      "v": "37:10",
@@ -56660,30 +56937,37 @@
      "translit": "Vehinabeti kaașer tzivani vatavo vahem haruah vaihiu vaiaamdu al-ragleihem hail gadol meod-meod.",
      "tokens": [
       {
-       "t": "Și am profețit",
-       "w": "Și am profețit",
+       "t": "Și "
+      },
+      {
+       "t": "am profețit",
+       "w": "am profețit",
        "heb": "וְהִנַּבֵּאתִי",
        "translit": "vehinabēti",
        "strong": "H5012",
        "pos": "verb, hitpael perfect",
-       "def_ro": "și am profețit (vehinabēti)",
-       "dict_ro": "Ascultarea imediată a celei de-a doua porunci execută exact instrucțiunea primită."
+       "def_ro": "am profețit",
+       "dict_ro": "Nava, la forma pasivă, înseamnă „a profeți”. „Nu profetiți!” este interdicția pe care poporul o pune profeților, exact în cuvintele lui Amos 7:13. Cel care vorbește în numele lui DOMNUL este redus la tăcere.",
+       "greek": "προφητεύω (propheteuo)",
+       "greek_def_ro": "προφητεύω (propheteuo) — a profeți"
       },
       {
-       "t": " "
+       "t": " precum mi se "
       },
       {
-       "t": "precum mi se poruncise.",
-       "w": "precum mi se poruncise.",
-       "heb": "כַּאֲשֶׁר צִוָּנִי",
-       "translit": "kaașer țivani",
+       "t": "poruncise",
+       "w": "poruncise",
+       "heb": "צִוָּנִי",
+       "translit": "țivani",
        "strong": "H6680",
-       "pos": "particulă relativă + verb, piel perfect + sufix",
-       "def_ro": "precum mi-a poruncit. (kaașer țivani)",
-       "dict_ro": "Ascultarea imediată a celei de-a doua porunci execută exact instrucțiunea primită."
+       "pos": "verb, piel perfect + sufix",
+       "def_ro": "mi-a poruncit",
+       "dict_ro": "Țivah, „a porunci, a rândui”: Dumnezeu „a poruncit omului” (Geneza 2:16). Cel pe care Dumnezeu îl numește „cârmuitor” primește de la El misiunea de a porunci neamurilor.",
+       "greek": "ἐντέλλομαι (entellomai)",
+       "greek_def_ro": "ἐντέλλομαι (entellomai) — a porunci"
       },
       {
-       "t": " "
+       "t": ". "
       },
       {
        "t": "Duhul",
@@ -56692,86 +56976,133 @@
        "translit": "haruah",
        "strong": "H7307",
        "pos": "substantiv, masculin și feminin singular",
-       "def_ro": "duhul (haruah)",
-       "dict_ro": "Intrarea duhului finalizează minunea, transformând corpurile reasamblate în ființe vii, în picioare."
+       "def_ro": "duhul",
+       "dict_ro": "Ruah, „duh, vânt”: „Duhul lui Dumnezeu se mișca deasupra apelor” (Geneza 1:2). „Duhul întristat” este starea lăuntrică a celei părăsite.",
+       "greek": "πνεῦμα (pneuma)",
+       "greek_def_ro": "πνεῦμα (pneuma) — duh"
       },
       {
        "t": " "
       },
       {
-       "t": "a intrat în ele",
-       "w": "a intrat în ele",
-       "heb": "וַתָּבוֹא בָהֶם",
-       "translit": "vatavo vahem",
-       "strong": "",
-       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
-       "def_ro": "și a venit în ele (vatavo vahem)",
-       "dict_ro": "Intrarea duhului finalizează minunea, transformând corpurile reasamblate în ființe vii, în picioare."
+       "t": "a intrat",
+       "w": "a intrat",
+       "heb": "וַתָּבוֹא",
+       "translit": "vatavo",
+       "strong": "H935",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a intrat",
+       "dict_ro": "Bo e verbul venirii și al intrării; în profeți descrie adesea împlinirea: ceea ce a fost vestit „vine”, adică se întâmplă (Isaia 42:9). La forma cauzativă, hevi, înseamnă „a aduce” — cu un sens aparte în făgăduința strângerii exilaților (Isaia 43:5).",
+       "greek": "εἰσέρχομαι (eiserchomai)",
+       "greek_def_ro": "εἰσέρχομαι (eiserchomai) — a intra"
       },
       {
-       "t": " "
+       "t": " în ele și ele "
       },
       {
-       "t": "și ele au trăit",
-       "w": "și ele au trăit",
+       "t": "au trăit",
+       "w": "au trăit",
        "heb": "וַיִּחְיוּ",
        "translit": "vaihiu",
        "strong": "H2421",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și au trăit (vaihiu)",
-       "dict_ro": "Intrarea duhului finalizează minunea, transformând corpurile reasamblate în ființe vii, în picioare."
+       "def_ro": "au trăit",
+       "dict_ro": "Hayah, „a trăi”, este verbul vieții adevărate, nu doar al existenței biologice. „Sufletul vostru va trăi” este făgăduința vieții pentru cel care ascultă.",
+       "greek": "ζάω (zao)",
+       "greek_def_ro": "ζάω (zao) — a trăi"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și au stat",
-       "w": "și au stat",
+       "t": "au stat",
+       "w": "au stat",
        "heb": "וַיַּעַמְדוּ",
        "translit": "vaiaamdu",
        "strong": "H5975",
        "pos": "verb, qal imperfect consecutiv",
-       "def_ro": "și au stat (vaiaamdu)",
-       "dict_ro": "Intrarea duhului finalizează minunea, transformând corpurile reasamblate în ființe vii, în picioare."
+       "def_ro": "au stat",
+       "dict_ro": "Amad înseamnă „a sta, a rămâne în picioare, a se opri”. Untdelemnul nu se termină, ci „stă”: se oprește doar pentru că nu mai există alt vas care să-l primească. Același verb numește și femeia care „stă” în fața lui Elisei (4:12, 4:15).",
+       "greek": "ἵστημι (histemi)",
+       "greek_def_ro": "ἵστημι (histemi) — a sta"
       },
       {
-       "t": " "
+       "t": " pe "
       },
       {
-       "t": "pe picioarele lor",
-       "w": "pe picioarele lor",
-       "heb": "עַל רַגְלֵיהֶם",
-       "translit": "al raglēhem",
+       "t": "picioarele",
+       "w": "picioarele",
+       "heb": "רַגְלֵיהֶם",
+       "translit": "raglēhem",
        "strong": "H7272",
-       "pos": "prepoziție + substantiv, feminin dual construct + sufix",
-       "def_ro": "pe picioarele lor (al raglēhem)",
-       "dict_ro": "Intrarea duhului finalizează minunea, transformând corpurile reasamblate în ființe vii, în picioare."
+       "pos": "substantiv, feminin dual construct + sufix",
+       "def_ro": "pe picioarele lor",
+       "dict_ro": "Regel, „picior”, apare și în expresia „la picioarele cuiva”, adică în urma sau în slujba lui. „Dreptatea îl cheamă la picioarele Sale” (41:2): cel ales merge la chemarea ei, pas cu pas.",
+       "greek": "πούς (pous)",
+       "greek_def_ro": "πούς (pous) — picior"
       },
       {
-       "t": " "
+       "t": " lor – o "
       },
       {
-       "t": "– o mulțime",
-       "w": "– o mulțime",
+       "t": "mulțime",
+       "w": "mulțime",
        "heb": "חַיִל",
        "translit": "hail",
        "strong": "H2428",
        "pos": "substantiv, masculin singular",
-       "def_ro": "oștire (hail)",
-       "dict_ro": "Imaginea unei «oștiri foarte, foarte mare» confirmă restaurarea completă, numeroasă, a poporului mort."
+       "def_ro": "oaste",
+       "dict_ro": "Hail înseamnă „putere, avere, armată”. Străinii au prădat averea Ierusalimului. Cuvântul are mai multe sensuri, iar aici contextul îl poartă spre sensul de bogăție.",
+       "greek": "συναγωγή (synagoge)",
+       "greek_def_ro": "συναγωγή (synagoge) — adunare",
+       "diff_ro": "Ebraica: „oaste” (hail), o mulțime puternică, ca o armată; Septuaginta: „adunare” (συναγωγή), cuvânt pentru o mulțime adunată."
       },
       {
        "t": " "
       },
       {
-       "t": "foarte, foarte mare.",
-       "w": "foarte, foarte mare.",
-       "heb": "גָּדוֹל מְאֹד מְאֹד",
-       "translit": "gadol meod meod",
+       "t": "foarte",
+       "w": "foarte",
+       "heb": "מְאֹד",
+       "translit": "meod",
        "strong": "H3966",
-       "pos": "adjectiv, masculin singular + adverb + adverb",
-       "def_ro": "foarte, foarte mare. (gadol meod meod)",
-       "dict_ro": "Imaginea unei «oștiri foarte, foarte mare» confirmă restaurarea completă, numeroasă, a poporului mort."
+       "pos": "adverb",
+       "def_ro": "foarte",
+       "dict_ro": "Meod, „foarte”, este cuvântul intensității: „foarte bun” (Geneza 1:31). „S-a întărit foarte” arată că domnia lui Solomon a ajuns la o stabilitate completă.",
+       "greek": "σφόδρα (sphodra)",
+       "greek_def_ro": "σφόδρα (sphodra) — foarte"
+      },
+      {
+       "t": ", "
+      },
+      {
+       "t": "foarte",
+       "w": "foarte",
+       "heb": "מְאֹד",
+       "translit": "meod",
+       "strong": "H3966",
+       "pos": "adverb",
+       "def_ro": "foarte",
+       "dict_ro": "Meod, „foarte”, este cuvântul intensității: „foarte bun” (Geneza 1:31). „S-a întărit foarte” arată că domnia lui Solomon a ajuns la o stabilitate completă.",
+       "diff_ro": "Septuaginta nu repetă „foarte” (meod meod): are „foarte” o singură dată."
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "mare",
+       "w": "mare",
+       "heb": "גָּדוֹל",
+       "translit": "gadol",
+       "strong": "H1419",
+       "pos": "adjectiv, masculin singular",
+       "def_ro": "mare",
+       "dict_ro": "Gadol, „mare”: „cele două luminători mari” (Geneza 1:16). Îndurările „mari” sunt cele care vor depăși părăsirea de o clipă.",
+       "greek": "πολύς (polys)",
+       "greek_def_ro": "πολύς (polys) — mult"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -56779,20 +57110,25 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְהִנַּבֵּאתִי כַּאֲשֶׁר צִוָּנִי וַתָּבוֹא בָהֶם הָרוּחַ וַיִּחְיוּ וַיַּעַמְדוּ עַל־רַגְלֵיהֶם חַיִל גָּדוֹל מְאֹד־מְאֹד׃",
        "translation": "Și am profețit precum mi se poruncise. Duhul a intrat în ele și ele au trăit și au stat pe picioarele lor – o mulțime foarte, foarte mare. — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἐπροφήτευσα καθότι ἐνετείλατό μοι· καὶ εἰσῆλθεν εἰς αὐτοὺς τὸ πνεῦμα, καὶ ἔζησαν καὶ ἔστησαν ἐπὶ τῶν ποδῶν αὐτῶν, συναγωγὴ πολλὴ σφόδρα.",
+       "original": "καὶ ἐπροφήτευσα καθότι ἐνετείλατό μοι καὶ εἰσῆλθεν εἰς αὐτοὺς τὸ πνεῦμα καὶ ἔζησαν καὶ ἔστησαν ἐπὶ τῶν ποδῶν αὐτῶν συναγωγὴ πολλὴ σφόδρα",
        "greek": true,
        "translation": "Și am profețit cum mi s-a poruncit; și a intrat în ele duhul, și au trăit și au stat pe picioarele lor, adunare foarte mare.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „oaste foarte, foarte mare” (hail gadol meod meod) prin „adunare foarte mare” (συναγωγὴ πολλὴ σφόδρα)."
       }
      ],
      "refs": [
       "Psalmul 104:30"
      ],
-     "commentaries": []
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Și am profețit” — lipsește litera tav a formei hitpael, iar forma corectă este „vehitnabiti”; de aceea nun este dublat, din pricina lipsei tavului."
+      }
+     ]
     },
     {
      "v": "37:11",
@@ -56801,43 +57137,53 @@
      "translit": "Vaiomer elai ben-adam haatzamot haele kol-beit Israel hema hine omrim iavșu atzmoteinu veavda tikvatenu nigzarnu lanu.",
      "tokens": [
       {
-       "t": "Apoi El mi-a spus:",
-       "w": "Apoi El mi-a spus:",
-       "heb": "וַיֹּאמֶר אֵלַי",
-       "translit": "vaiomer ēlai",
-       "strong": "H413",
-       "pos": "verb, qal imperfect consecutiv + prepoziție + sufix",
-       "def_ro": "și a spus la mine: (vaiomer ēlai)",
-       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel, exilată și disperată."
+       "t": "Apoi El mi-"
       },
       {
-       "t": " "
+       "t": "a spus",
+       "w": "a spus",
+       "heb": "וַיֹּאמֶר",
+       "translit": "vaiomer",
+       "strong": "H559",
+       "pos": "verb, qal imperfect consecutiv",
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λαλέω (laleo)",
+       "greek_def_ro": "λαλέω (laleo) — a grăi",
+       "diff_ro": "Ebraica: „a spus” (vaiomer); Septuaginta: „a grăit Domnul” (ἐλάλησεν κύριος), cu subiectul exprimat."
       },
       {
-       "t": "„Fiu",
-       "w": "„Fiu",
+       "t": ": „"
+      },
+      {
+       "t": "Fiu",
+       "w": "Fiu",
        "heb": "בֶּן",
        "translit": "ben",
        "strong": "H1121",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "fiu de (ben)",
-       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel."
+       "def_ro": "fiu",
+       "dict_ro": "Ben, „fiu”, e înrudit cu verbul bana, „a zidi”: fiul e cel care „zidește” casa tatălui. Expresia „fiii lui Israel” (bnei Israel) desemnează tot poporul, bărbați și femei.",
+       "greek": "υἱός (hyios)",
+       "greek_def_ro": "υἱός (hyios) — fiu"
       },
       {
-       "t": " "
+       "t": " al "
       },
       {
-       "t": "al omului,",
-       "w": "al omului,",
+       "t": "omului",
+       "w": "omului",
        "heb": "אָדָם",
        "translit": "adam",
        "strong": "H120",
        "pos": "substantiv, masculin singular",
-       "def_ro": "om, (adam)",
-       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel."
+       "def_ro": "al omului",
+       "dict_ro": "Adam înseamnă „om”, omenirea în general; e legat în Geneza de adama, „pământul” din care a fost luat (Geneza 2:7). Ca nume propriu, desemnează primul om.",
+       "greek": "ἄνθρωπος (anthropos)",
+       "greek_def_ro": "ἄνθρωπος (anthropos) — om"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
        "t": "aceste",
@@ -56846,37 +57192,42 @@
        "translit": "haēle",
        "strong": "H428",
        "pos": "pronume demonstrativ",
-       "def_ro": "acestea (haēle)",
-       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel, exilată și disperată."
+       "def_ro": "acestea",
+       "dict_ro": "Ele înseamnă „acestea”. Osea 14:10 încheie cartea cu o întrebare: cine e destul de înțelept ca să înțeleagă toate acestea?",
+       "greek": "οὗτος (houtos)",
+       "greek_def_ro": "οὗτος (houtos) — acesta"
       },
       {
        "t": " "
       },
       {
-       "t": "oase –",
-       "w": "oase –",
+       "t": "oase",
+       "w": "oase",
        "heb": "הָעֲצָמוֹת",
        "translit": "haațamot",
        "strong": "H6106",
        "pos": "substantiv, feminin plural",
-       "def_ro": "oasele (haațamot)",
-       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel, exilată și disperată."
+       "def_ro": "oasele",
+       "dict_ro": "Etsem înseamnă „os”. Oasele regilor, ale conducătorilor, ale preoților, ale profeților și ale locuitorilor vor fi scoase, o profanare gravă după mentalitatea vremii.",
+       "greek": "ὀστέον (osteon)",
+       "greek_def_ro": "ὀστέον (osteon) — os"
       },
       {
-       "t": " "
+       "t": " – "
       },
       {
-       "t": "ele sunt",
-       "w": "ele sunt",
+       "t": "ele",
+       "w": "ele",
        "heb": "הֵמָּה",
        "translit": "hēma",
        "strong": "H1992",
        "pos": "pronume personal",
-       "def_ro": "ele [sunt] (hēma)",
-       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel, exilată și disperată."
+       "def_ro": "ele",
+       "dict_ro": "Hem este „ei” (masculin plural). Pronumele este pus în față pentru contrast: fiii aduc vasele, iar mama toarnă; lucrarea cade pe amândouă părțile, pe copii și pe ea.",
+       "diff_ro": "Septuaginta nu are „ele” (hēma) ca pronume separat."
       },
       {
-       "t": " "
+       "t": " sunt "
       },
       {
        "t": "toată",
@@ -56885,8 +57236,10 @@
        "translit": "kal",
        "strong": "H3605",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "tot (kal)",
-       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel, exilată și disperată."
+       "def_ro": "toată",
+       "dict_ro": "Kol, „tot, întreg”, apare de mii de ori în Biblia ebraică. În Isaia subliniază universalitatea: toate popoarele și tot pământul sunt chemate să-L recunoască pe DOMNUL.",
+       "greek": "πᾶς (pas)",
+       "greek_def_ro": "πᾶς (pas) — tot"
       },
       {
        "t": " "
@@ -56898,112 +57251,119 @@
        "translit": "bēt",
        "strong": "H1004",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "casa (bēt)",
-       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel, exilată și disperată."
+       "def_ro": "casa",
+       "dict_ro": "Bait este „casă” și, prin extensie, „gospodărie, familie”. Aici femeia declară că în casă nu are nimic; mai târziu (4:10) tot casa ei va primi o odăiță pentru profet. Același cuvânt apare în numele Bet-El și Bet-Lehem, „casa” cuiva sau a ceva.",
+       "greek": "οἶκος (oikos)",
+       "greek_def_ro": "οἶκος (oikos) — casă"
       },
       {
-       "t": " "
+       "t": " lui "
       },
       {
-       "t": "lui Israel.",
-       "w": "lui Israel.",
+       "t": "Israel",
+       "w": "Israel",
        "heb": "יִשְׂרָאֵל",
        "translit": "israēl",
        "strong": "H3478",
        "pos": "nume propriu",
-       "def_ro": "lui Israel. (israēl)",
-       "dict_ro": "Interpretarea explicită a viziunii identifică oasele direct cu casa lui Israel, exilată și disperată."
+       "def_ro": "lui Israel",
+       "dict_ro": "Numele Israel i-a fost dat lui Iacov după lupta de la Iaboc și i-a fost confirmat la Betel (Geneza 35:10); textul îl explică prin „ai luptat cu Dumnezeu și cu oamenii și ai biruit”. În profeți, „Iacov” și „Israel” apar adesea în paralel, desemnând același popor: primul e numele de la naștere, al doilea numele chemării.",
+       "greek": "Ἰσραήλ (Israel)",
+       "greek_def_ro": "Ἰσραήλ (Israel) — Israel"
       },
       {
-       "t": " "
+       "t": ". Iată, ei "
       },
       {
-       "t": "Iată,",
-       "w": "Iată,",
-       "heb": "הִנֵּה",
-       "translit": "hinē",
-       "strong": "H2009",
-       "pos": "particulă demonstrativă",
-       "def_ro": "iată, (hinē)",
-       "dict_ro": "Citarea exactă a disperării poporului confirmă sentimentul de pierdere totală, dincolo de orice speranță."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "ei spun:",
-       "w": "ei spun:",
+       "t": "spun",
+       "w": "spun",
        "heb": "אֹמְרִים",
        "translit": "omrim",
        "strong": "H559",
        "pos": "verb, qal participiu",
-       "def_ro": "cei ce spun: (omrim)",
-       "dict_ro": "Citarea exactă a disperării poporului confirmă sentimentul de pierdere totală, dincolo de orice speranță."
+       "def_ro": "zic",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
       },
       {
-       "t": " "
+       "t": ": «"
       },
       {
-       "t": "«Oasele",
-       "w": "«Oasele",
+       "t": "Oasele",
+       "w": "Oasele",
        "heb": "עַצְמוֹתֵינוּ",
        "translit": "ațmotēnu",
        "strong": "H6106",
        "pos": "substantiv, feminin plural construct + sufix",
-       "def_ro": "oasele noastre (ațmotēnu)",
-       "dict_ro": "Citarea exactă a disperării poporului confirmă sentimentul de pierdere totală, dincolo de orice speranță."
+       "def_ro": "oasele noastre",
+       "dict_ro": "Etsem înseamnă „os”. Oasele regilor, ale conducătorilor, ale preoților, ale profeților și ale locuitorilor vor fi scoase, o profanare gravă după mentalitatea vremii.",
+       "greek": "ὀστέον (osteon)",
+       "greek_def_ro": "ὀστέον (osteon) — os"
       },
       {
-       "t": " "
+       "t": " ni "
       },
       {
-       "t": "ni s-au uscat",
-       "w": "ni s-au uscat",
+       "t": "s-au uscat",
+       "w": "s-au uscat",
        "heb": "יָבְשׁוּ",
        "translit": "iavșu",
        "strong": "H3001",
        "pos": "verb, qal perfect",
-       "def_ro": "s-au uscat (iavșu)",
-       "dict_ro": "Citarea exactă a disperării poporului confirmă sentimentul de pierdere totală, dincolo de orice speranță."
+       "def_ro": "s-au uscat",
+       "dict_ro": "Iaveș, „a se usca”, e verbul secetei; același verb descrie la Geneza 8:14 pământul uscat după potop și la Iosua 4:23 albia Iordanului uscată înaintea poporului.",
+       "greek": "ξηρός (xeros)",
+       "greek_def_ro": "ξηρός (xeros) — uscat"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și speranța",
-       "w": "și speranța",
+       "t": "speranța",
+       "w": "speranța",
        "heb": "תִקְוָתֵנוּ",
        "translit": "tikvatēnu",
        "strong": "H8615",
        "pos": "substantiv, feminin singular construct + sufix",
-       "def_ro": "speranța noastră (tikvatēnu)",
-       "dict_ro": "Citarea exactă a disperării poporului confirmă sentimentul de pierdere totală, dincolo de orice speranță."
+       "def_ro": "nădejdea noastră",
+       "dict_ro": "Tiqva înseamnă „speranță”, „nădejde”. Ea apare în locul unde a fost judecata: Dumnezeu face din locul pedepsei punctul de plecare al unei vieți noi.",
+       "greek": "ἐλπίς (elpis)",
+       "greek_def_ro": "ἐλπίς (elpis) — speranță"
       },
       {
-       "t": " "
+       "t": " noastră "
       },
       {
-       "t": "noastră s-a stins!",
-       "w": "noastră s-a stins!",
+       "t": "s-a stins",
+       "w": "s-a stins",
        "heb": "וְאָבְדָה",
        "translit": "veavda",
        "strong": "H6",
        "pos": "verb, qal perfect",
-       "def_ro": "și s-a pierdut (veavda)",
-       "dict_ro": "Citarea exactă a disperării poporului confirmă sentimentul de pierdere totală, dincolo de orice speranță."
+       "def_ro": "a pierit",
+       "dict_ro": "Avad, „a pieri, a se pierde”, e verbul sfârșitului, al popoarelor și al celor care nu mai au loc. Aici îi privește pe vrăjmașii care se ridică împotriva lui Israel.",
+       "greek": "ἀπόλλυμι (apollymi)",
+       "greek_def_ro": "ἀπόλλυμι (apollymi) — a pieri"
       },
       {
-       "t": " "
+       "t": "! Suntem "
       },
       {
-       "t": "Suntem pierduți!»",
-       "w": "Suntem pierduți!»",
-       "heb": "נִגְזַרְנוּ לָנוּ",
-       "translit": "nigzarnu lanu",
-       "strong": "",
-       "pos": "verb, nifal perfect + prepoziție + sufix",
-       "def_ro": "suntem tăiați pentru noi.» (nigzarnu lanu)",
-       "dict_ro": "Citarea exactă a disperării poporului confirmă sentimentul de pierdere totală, dincolo de orice speranță."
+       "t": "pierduți",
+       "w": "pierduți",
+       "heb": "נִגְזַרְנוּ",
+       "translit": "nigzarnu",
+       "strong": "H1504",
+       "pos": "verb, nifal perfect",
+       "def_ro": "suntem tăiați",
+       "dict_ro": "Gazar înseamnă „a tăia, a despica”: „Cel ce a despărțit Marea Roșie în două” (Psalmul 136:13). Porunca regelui, „tăiați copilul în două”, este o cursă pentru a vedea ce femeie are milă.",
+       "greek": "διαφωνέω (diaphoneo)",
+       "greek_def_ro": "διαφωνέω (diaphoneo) — a pieri",
+       "diff_ro": "Ebraica: „suntem pierduți” (nigzarnu), literal „tăiați”; Septuaginta: „am pierit” (διαπεφωνήκαμεν)."
+      },
+      {
+       "t": "!»"
       }
      ],
      "textCompare": [
@@ -57011,24 +57371,40 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיֹּאמֶר אֵלַי בֶּן־אָדָם הָעֲצָמוֹת הָאֵלֶּה כָּל־בֵּית יִשְׂרָאֵל הֵמָּה הִנֵּה אֹמְרִים יָבְשׁוּ עַצְמוֹתֵינוּ וְאָבְדָה תִקְוָתֵנוּ נִגְזַרְנוּ לָנוּ׃",
        "translation": "Apoi El mi-a spus: „Fiu al omului, aceste oase – ele sunt toată casa lui Israel. Iată, ei spun: «Oasele ni s-au uscat și speranța noastră s-a stins! Suntem pierduți!» — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἐλάλησε Κύριος πρός με λέγων· υἱὲ ἀνθρώπου, τὰ ὀστᾶ ταῦτα πᾶς οἶκος ᾿Ισραήλ ἐστι, καὶ αὐτοὶ λέγουσι· ξηρὰ γέγονε τὰ ὀστᾶ ἡμῶν, ἀπόλωλεν ἡ ἐλπὶς ἡμῶν, διαπεφωνήκαμεν.",
+       "original": "καὶ ἐλάλησεν κύριος πρός με λέγων υἱὲ ἀνθρώπου τὰ ὀστᾶ ταῦτα πᾶς οἶκος Ισραηλ ἐστίν καὶ αὐτοὶ λέγουσιν ξηρὰ γέγονεν τὰ ὀστᾶ ἡμῶν ἀπόλωλεν ἡ ἐλπὶς ἡμῶν διαπεφωνήκαμεν",
        "greek": true,
        "translation": "Și a grăit Domnul către mine, spunând: «Fiu al omului, oasele acestea toată casa lui Israel este, și ei spun: s-au uscat oasele noastre, s-a pierdut speranța noastră, suntem nimiciți.»",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta are subiectul exprimat, „a grăit Domnul” (ἐλάλησεν κύριος), redă „speranța noastră s-a stins” (avda tikvatēnu) prin „s-a pierdut speranța noastră” (ἀπόλωλεν ἡ ἐλπὶς ἡμῶν) și „suntem pierduți” (nigzarnu) prin „am pierit” (διαπεφωνήκαμεν)."
       }
      ],
      "refs": [
       "Ezechiel 37:16",
-      "Numeri 17:12,13"
+      "Ezechiel 37:19",
+      "Ezechiel 36:10",
+      "Ieremia 33:24-26",
+      "Numeri 17:12",
+      "Isaia 40:27"
      ],
      "commentaries": [
       {
        "author": "Rashi (1040–1105)",
        "text": "„Aceste oase sunt toată casa lui Israel” — aluzie și pildă pentru toată casa lui Israel în necazurile lor; căci ei spun: «ni s-au uscat oasele» în necazuri, «s-a pierdut speranța noastră» — și ce mai putem aștepta spre izbăvire? O altă explicație (Pirkē de-Rabi Eliezer 33): toți aceștia erau cu adevărat din Israel, și pentru că i-ai înviat acum, ei spun: «s-a pierdut speranța noastră» — nu vom mai trăi a doua oară, când vor învia [ceilalți] morți."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Aceste oase sunt toată casa lui Israel” — dacă lucrul este o pildă, i-a spus: ceea ce ți-am arătat în vedenia profeției, oasele uscate care au înviat și au stat pe picioarele lor, este o pildă pentru toată casa lui Israel, care a fost în exil atâta vreme încât și-a pierdut nădejdea de izbăvire și a spus: „ni s-au uscat oasele noastre și s-a pierdut speranța noastră”, adică suntem ca niște oase uscate care nu mai au speranță. Iar dacă lucrul este în sens propriu, i-a spus: așa cum am arătat în aceste oase, tot așa vor învia toți din casa lui Israel care au murit în vremea exilului, care s-a lungit atâta; și iată, ei spun parcă: „ni s-au uscat oasele și s-a pierdut speranța noastră; am fost tăiați și nu vom vedea izbăvirea lui Israel din vremea izbăvirii, și cum vom trăi după o mie de ani sau mai mult?”. „Am fost tăiați pentru noi” — pentru noi înșine."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Ele sunt toată casa lui Israel” — adică ele sunt un semn și o pildă pentru toată casa lui Israel, cei care mor în exil. „Iată, ei spun” — cei morți din exil spun: iată, până să vină izbăvirea am murit deja, ni s-au uscat oasele și s-a pierdut nădejdea noastră pentru izbăvire, de vreme ce suntem tăiați singuri și nu vom fi în tovărășia oamenilor care văd izbăvirea; ca și cum ar spune: și ce folos avem atunci din izbăvire?"
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Am fost tăiați” (nigzarnu) — înțeles de tăiere, ca în „am zis: sunt tăiat” (Plângerile lui Ieremia 3)."
       }
      ]
     },
@@ -57039,17 +57415,19 @@
      "translit": "Lahen hinave veamarta aleihem ko-amar Adonai ELOHIM hine ani foteah et-kivroteihem vehaaleti ethem mikivroteihem ami veheveti ethem el-admat Israel.",
      "tokens": [
       {
-       "t": "De aceea,",
-       "w": "De aceea,",
+       "t": "De aceea",
+       "w": "De aceea",
        "heb": "לָכֵן",
        "translit": "lahēn",
        "strong": "H3651",
        "pos": "adverb",
-       "def_ro": "de aceea, (lahēn)",
-       "dict_ro": "Răspunsul divin la disperarea poporului formulează promisiunea explicită a învierii naționale, dincolo de simbolul viziunii."
+       "def_ro": "de aceea",
+       "dict_ro": "Ken, „așa”: „și așa a fost” (Geneza 1:7). Jurământul de acum este făcut „așa”, la fel ca cel de după potop.",
+       "greek": "διά (dia)",
+       "greek_def_ro": "διά (dia) — de aceea"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
        "t": "profețește",
@@ -57058,76 +57436,88 @@
        "translit": "hinavē",
        "strong": "H5012",
        "pos": "verb, nifal imperativ",
-       "def_ro": "profețește (hinavē)",
-       "dict_ro": "Răspunsul divin la disperarea poporului formulează promisiunea explicită a învierii naționale."
+       "def_ro": "profețește",
+       "dict_ro": "Nava, la forma pasivă, înseamnă „a profeți”. „Nu profetiți!” este interdicția pe care poporul o pune profeților, exact în cuvintele lui Amos 7:13. Cel care vorbește în numele lui DOMNUL este redus la tăcere.",
+       "greek": "προφητεύω (propheteuo)",
+       "greek_def_ro": "προφητεύω (propheteuo) — a profeți"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și spune-le:",
-       "w": "și spune-le:",
-       "heb": "וְאָמַרְתָּ אֲלֵיהֶם",
-       "translit": "veamarta alēhem",
-       "strong": "H413",
-       "pos": "verb, qal perfect consecutiv + prepoziție + sufix",
-       "def_ro": "și vei spune la ei: (veamarta alēhem)",
-       "dict_ro": "Răspunsul divin la disperarea poporului formulează promisiunea explicită a învierii naționale."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "«Așa a spus",
-       "w": "«Așa a spus",
-       "heb": "כֹּה אָמַר",
-       "translit": "ko amar",
+       "t": "spune-le",
+       "w": "spune-le",
+       "heb": "וְאָמַרְתָּ",
+       "translit": "veamarta",
        "strong": "H559",
-       "pos": "adverb + verb, qal perfect",
-       "def_ro": "astfel a spus (ko amar)",
-       "dict_ro": "Formula profetică standard introduce promisiunea deschiderii mormintelor exilului."
+       "pos": "verb, qal perfect consecutiv",
+       "def_ro": "și spune",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
+      },
+      {
+       "t": ": «"
+      },
+      {
+       "t": "Așa",
+       "w": "Așa",
+       "heb": "כֹּה",
+       "translit": "ko",
+       "strong": "H3541",
+       "pos": "adverb",
+       "def_ro": "așa",
+       "dict_ro": "Ko, „așa”, deschide formula profetică ko amar Adonai, „așa a spus DOMNUL” — un fel de pecete care arată că urmează cuvintele lui Dumnezeu, transmise întocmai.",
+       "greek": "ὅδε (hode)",
+       "greek_def_ro": "ὅδε (hode) — acestea, astfel"
       },
       {
        "t": " "
       },
       {
-       "t": "Stăpânul meu,",
-       "w": "Stăpânul meu,",
+       "t": "a spus",
+       "w": "a spus",
+       "heb": "אָמַר",
+       "translit": "amar",
+       "strong": "H559",
+       "pos": "verb, qal perfect",
+       "def_ro": "a zis",
+       "dict_ro": "Amar e verbul obișnuit al vorbirii în ebraica biblică. În profeți, formula „așa a spus DOMNUL” (ko amar Adonai) prezintă oracolul ca vorbire a lui Dumnezeu însuși, nu ca părere a profetului — profetul e mesagerul care transmite întocmai cuvintele primite, ca vestitorul care citește scrisoarea regelui său.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Stăpânul meu",
+       "w": "Stăpânul meu",
        "heb": "אֲדֹנָי",
        "translit": "adonai",
        "strong": "H136",
        "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "Stăpânul meu, (adonai)",
-       "dict_ro": "Titlul dublu divin confirmă autoritatea supremă a promisiunii deschiderii mormintelor exilului."
+       "def_ro": "Stăpânul meu",
+       "dict_ro": "Adonai (cu vocale diferite de cele ale Numelui) înseamnă „Stăpânul” și se referă aici la DOMNUL. Omul care aduce o jertfă cu meteahnă Stăpânului său își arată disprețul față de El.",
+       "diff_ro": "Septuaginta nu are „Stăpânul meu” (adonai) înaintea numelui divin: spune doar „Domnul”."
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "Domnul DUMNEZEU:",
-       "w": "Domnul DUMNEZEU:",
+       "t": "Domnul DUMNEZEU",
+       "w": "Domnul DUMNEZEU",
        "heb": "יְהוִה",
        "translit": "Adonai",
        "strong": "H3069",
        "pos": "nume propriu",
-       "def_ro": "Domnul DUMNEZEU: (Adonai)",
-       "dict_ro": "Titlul dublu divin confirmă autoritatea supremă a promisiunii deschiderii mormintelor exilului."
+       "def_ro": "Domnul DUMNEZEU",
+       "dict_ro": "Yehovih este forma Numelui scrisă cu vocalele lui „Adonai”, ca să se citească „Adonai” și nu Numele. În Ezechiel apare adesea ca „Adonai YHWH”, titlul solemn al lui Dumnezeu.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn",
+       "diff_ro": "Ebraica: numele divin (YHWH); Septuaginta: „Domnul” (κύριος)."
       },
       {
-       "t": " "
-      },
-      {
-       "t": "‘Iată,",
-       "w": "‘Iată,",
-       "heb": "הִנֵּה",
-       "translit": "hinē",
-       "strong": "H2009",
-       "pos": "particulă demonstrativă",
-       "def_ro": "iată, (hinē)",
-       "dict_ro": "Imaginea mormintelor desemnează metaforic exilul însuși, moartea națională a poporului împrăștiat."
-      },
-      {
-       "t": " "
+       "t": ": ‘Iată, "
       },
       {
        "t": "Eu",
@@ -57136,8 +57526,10 @@
        "translit": "ani",
        "strong": "H589",
        "pos": "pronume personal",
-       "def_ro": "eu (ani)",
-       "dict_ro": "Imaginea mormintelor desemnează metaforic exilul însuși, moartea națională a poporului împrăștiat."
+       "def_ro": "Eu",
+       "dict_ro": "Ani este pronumele „eu”, forma mai scurtă decât anohi; când DOMNUL îl rostește, el pune accent pe cine vorbește, ca în Isaia 45:22: „Căci Eu sunt Dumnezeu și nu este altul”. În Ezechiel 37, formula „veți ști că Eu sunt DOMNUL” încheie făgăduința învierii, pentru a arăta că izvorul vieții noi este Cel care a vorbit.",
+       "greek": "ἐγώ (ego)",
+       "greek_def_ro": "ἐγώ (ego) — eu"
       },
       {
        "t": " "
@@ -57149,99 +57541,117 @@
        "translit": "fotēah",
        "strong": "H6605",
        "pos": "verb, qal participiu",
-       "def_ro": "deschid (fotēah)",
-       "dict_ro": "Imaginea mormintelor desemnează metaforic exilul însuși, moartea națională a poporului împrăștiat."
+       "def_ro": "deschid",
+       "dict_ro": "Patah, „a deschide”, apare la forma pasivă: „dacă cineva deschide o groapă” (Exodul 21:33). Răul „se va deschide”, adică va ieși de sub control ca apa dintr-un vas.",
+       "greek": "ἀνοίγω (anoigo)",
+       "greek_def_ro": "ἀνοίγω (anoigo) — a deschide"
       },
       {
        "t": " "
       },
       {
-       "t": "mormintele voastre",
-       "w": "mormintele voastre",
+       "t": "mormintele",
+       "w": "mormintele",
        "heb": "קִבְרוֹתֵיכֶם",
        "translit": "kivrotēhem",
        "strong": "H6913",
        "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "mormintele voastre (kivrotēhem)",
-       "dict_ro": "Imaginea mormintelor desemnează metaforic exilul însuși, moartea națională a poporului împrăștiat."
+       "def_ro": "mormintele voastre",
+       "dict_ro": "Qever înseamnă „mormânt”. Mormintele care ar fi trebuit să ocrotească odihna celor morți sunt deschise, o scenă de ocară.",
+       "greek": "μνῆμα (mnema)",
+       "greek_def_ro": "μνῆμα (mnema) — mormânt"
       },
       {
-       "t": " "
+       "t": " voastre și "
       },
       {
-       "t": "și vă voi ridica",
-       "w": "și vă voi ridica",
+       "t": "vă voi ridica",
+       "w": "vă voi ridica",
        "heb": "וְהַעֲלֵיתִי",
        "translit": "vehaalēti",
        "strong": "H5927",
        "pos": "verb, hifil perfect consecutiv",
-       "def_ro": "și voi ridica (vehaalēti)",
-       "dict_ro": "Imaginea mormintelor desemnează metaforic exilul însuși, moartea națională a poporului împrăștiat."
+       "def_ro": "vă voi scoate",
+       "dict_ro": "Alah înseamnă „a urca”; același verb este cel al jertfei lui Isaac: „adu-l ca ardere de tot” (Geneza 22:2). Femeia urcă în odaia de sus cu copilul, iar Elisei se urcă pe pat peste copil.",
+       "greek": "ἀνάγω (anago)",
+       "greek_def_ro": "ἀνάγω (anago) — a ridica"
       },
       {
-       "t": " "
+       "t": " din "
       },
       {
-       "t": "din mormintele voastre,",
-       "w": "din mormintele voastre,",
+       "t": "mormintele",
+       "w": "mormintele",
        "heb": "מִקִּבְרוֹתֵיכֶם",
        "translit": "mikivrotēhem",
        "strong": "H6913",
        "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "din mormintele voastre, (mikivrotēhem)",
-       "dict_ro": "Imaginea mormintelor desemnează metaforic exilul însuși, moartea națională a poporului împrăștiat."
+       "def_ro": "din mormintele voastre",
+       "dict_ro": "Qever înseamnă „mormânt”. Mormintele care ar fi trebuit să ocrotească odihna celor morți sunt deschise, o scenă de ocară.",
+       "greek": "μνῆμα (mnema)",
+       "greek_def_ro": "μνῆμα (mnema) — mormânt"
       },
       {
-       "t": " "
+       "t": " voastre, "
       },
       {
-       "t": "poporul Meu,",
-       "w": "poporul Meu,",
+       "t": "poporul",
+       "w": "poporul",
        "heb": "עַמִּי",
        "translit": "ami",
        "strong": "H5971",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "poporul meu, (ami)",
-       "dict_ro": "Imaginea mormintelor desemnează metaforic exilul însuși, moartea națională a poporului împrăștiat."
+       "def_ro": "poporul Meu",
+       "dict_ro": "Am desemnează un popor ca unitate înrudită și adunată; în Biblie, mai ales Israel, „poporul lui DOMNUL” (am Adonai). Spre deosebire de goi (neam, mai ales neamurile străine), am subliniază legătura dinăuntru, de familie și de legământ.",
+       "diff_ro": "Septuaginta nu are „poporul Meu” (ami) în acest verset."
       },
       {
-       "t": " "
+       "t": " Meu, și "
       },
       {
-       "t": "și vă voi aduce",
-       "w": "și vă voi aduce",
+       "t": "vă voi aduce",
+       "w": "vă voi aduce",
        "heb": "וְהֵבֵאתִי",
        "translit": "vehēvēti",
        "strong": "H935",
        "pos": "verb, hifil perfect consecutiv",
-       "def_ro": "și voi aduce (vehēvēti)",
-       "dict_ro": "Revenirea pe pământul Israelului completează, la nivel național, întreaga minune a învierii din viziune."
+       "def_ro": "vă voi aduce",
+       "dict_ro": "Bo e verbul venirii și al intrării; în profeți descrie adesea împlinirea: ceea ce a fost vestit „vine”, adică se întâmplă (Isaia 42:9). La forma cauzativă, hevi, înseamnă „a aduce” — cu un sens aparte în făgăduința strângerii exilaților (Isaia 43:5).",
+       "greek": "εἰσάγω (eisago)",
+       "greek_def_ro": "εἰσάγω (eisago) — a aduce"
       },
       {
-       "t": " "
+       "t": " pe "
       },
       {
-       "t": "pe pământul",
-       "w": "pe pământul",
-       "heb": "אֶל",
-       "translit": "el",
-       "strong": "H413",
-       "pos": "prepoziție",
-       "def_ro": "la pământul (el admat)",
-       "dict_ro": "Revenirea pe pământul Israelului completează, la nivel național, întreaga minune a învierii din viziune."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "Israelului.",
-       "w": "Israelului.",
+       "t": "pământul",
+       "w": "pământul",
        "heb": "אַדְמַת",
        "translit": "admat",
        "strong": "H127",
        "pos": "substantiv, feminin singular construct",
-       "def_ro": "Israelului. (israēl)",
-       "dict_ro": "Revenirea pe pământul Israelului completează, la nivel național, întreaga minune a învierii din viziune."
+       "def_ro": "în pământul",
+       "dict_ro": "Adama înseamnă „pământ, țărână”: „toate familiile pământului” (Geneza 12:3). Israel este ales dintre toate neamurile, de aceea răspunderea lui este mai mare.",
+       "greek": "γῆ (ge)",
+       "greek_def_ro": "γῆ (ge) — pământ"
+      },
+      {
+       "t": " "
+      },
+      {
+       "t": "Israelului",
+       "w": "Israelului",
+       "heb": "יִשְׂרָאֵל",
+       "translit": "israēl",
+       "strong": "H3478",
+       "pos": "nume propriu",
+       "def_ro": "lui Israel",
+       "dict_ro": "Numele Israel i-a fost dat lui Iacov după lupta de la Iaboc și i-a fost confirmat la Betel (Geneza 35:10); textul îl explică prin „ai luptat cu Dumnezeu și cu oamenii și ai biruit”. În profeți, „Iacov” și „Israel” apar adesea în paralel, desemnând același popor: primul e numele de la naștere, al doilea numele chemării.",
+       "greek": "Ἰσραήλ (Israel)",
+       "greek_def_ro": "Ἰσραήλ (Israel) — Israel"
+      },
+      {
+       "t": "."
       }
      ],
      "textCompare": [
@@ -57249,24 +57659,36 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "לָכֵן הִנָּבֵא וְאָמַרְתָּ אֲלֵיהֶם כֹּה־אָמַר אֲדֹנָי יְהוִה הִנֵּה אֲנִי פֹתֵחַ אֶת־קִבְרוֹתֵיכֶם וְהַעֲלֵיתִי אֶתְכֶם מִקִּבְרוֹתֵיכֶם עַמִּי וְהֵבֵאתִי אֶתְכֶם אֶל־אַדְמַת יִשְׂרָאֵל׃",
        "translation": "De aceea, profețește și spune-le: «Așa a spus Stăpânul meu, Domnul DUMNEZEU: ‘Iată, Eu voi deschide mormintele voastre și vă voi ridica din mormintele voastre, poporul Meu, și vă voi aduce pe pământul Israelului. — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "διὰ τοῦτο προφήτευσον καὶ εἰπὸν πρὸς αὐτούς· τάδε λέγει Κύριος· ἰδοὺ ἐγὼ ἀνοίγω τὰ μνήματα ὑμῶν καὶ ἀνάξω ὑμᾶς ἐκ τῶν μνημάτων ὑμῶν καὶ εἰσάξω ὑμᾶς εἰς τὴν γῆν τοῦ ᾿Ισραήλ,",
+       "original": "διὰ τοῦτο προφήτευσον καὶ εἰπόν τάδε λέγει κύριος ἰδοὺ ἐγὼ ἀνοίγω ὑμῶν τὰ μνήματα καὶ ἀνάξω ὑμᾶς ἐκ τῶν μνημάτων ὑμῶν καὶ εἰσάξω ὑμᾶς εἰς τὴν γῆν τοῦ Ισραηλ",
        "greek": true,
        "translation": "De aceea profețește și spune-le: «Așa spune Domnul: iată, Eu deschid mormintele voastre și vă voi ridica din mormintele voastre și vă voi duce în țara lui Israel,",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „de aceea” (lahēn) prin „din această pricină” (διὰ τοῦτο), nu are „Stăpânul meu” (adonai) înaintea numelui divin și nu are „poporul Meu” (ami)."
       }
      ],
      "refs": [
+      "Ezechiel 37:21",
       "Isaia 26:19",
-      "Osea 13:14"
+      "Isaia 66:14",
+      "Osea 6:2",
+      "Osea 13:14",
+      "Ezechiel 36:24"
      ],
      "commentaries": [
       {
        "author": "Rashi (1040–1105)",
        "text": "„De aceea, profețește” — căci sunt pe cale să-i înviez a doua oară."
+      },
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„De aceea” — dacă lucrul este o pildă, mormintele sunt țările neamurilor și exilul; iar dacă este în sens propriu, este limpede. Există dispută între Înțelepții noștri despre cei morți în afara țării: unii au spus că în afara țării vor ieși din mormintele lor, iar alții au spus că din mormintele lor vor urca în țara lui Israel rostogolindu-se, prin galerii subterane. Acest verset dovedește că și în afara țării vor învia, ca morții din țara lui Israel, căci a spus: „voi deschide mormintele voastre și vă voi ridica din mormintele voastre”, și apoi „și vă voi aduce în pământul lui Israel”."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Iată, Eu deschid” etc. — în vremea izbăvirii voi deschide mormintele voastre și vă voi ridica de acolo vii și statornici, voi, poporul Meu; ca și cum ar spune: iată, învierea oaselor din vale este semn al învierii viitoare. „Și vă voi aduce” etc. — și atunci și voi veți vedea izbăvirea."
       }
      ]
     },
@@ -57277,105 +57699,128 @@
      "translit": "Vidatem ki-ani ADONAI befitḥi et-kivroteihem uvehaaloti ethem mikivroteihem ami.",
      "tokens": [
       {
-       "t": "Și veți ști",
-       "w": "Și veți ști",
+       "t": "Și "
+      },
+      {
+       "t": "veți ști",
+       "w": "veți ști",
        "heb": "וִידַעְתֶּם",
        "translit": "vidatem",
        "strong": "H3045",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și veți ști (vidatem)",
-       "dict_ro": "Cunoașterea certă a identității DOMNULUI, prin experiența directă a restaurării, rămâne scopul final al întregii profeții."
+       "def_ro": "veți ști",
+       "dict_ro": "Iada înseamnă o cunoaștere prin experiență directă și prin legătură personală, nu doar o informație; de aceea poate desemna și unirea soților (Geneza 4:1). „A-L cunoaște pe DOMNUL” înseamnă, la profeți, a trăi în legământ cu El.",
+       "greek": "γινώσκω (ginosko)",
+       "greek_def_ro": "γινώσκω (ginosko) — a cunoaște"
       },
       {
-       "t": " "
+       "t": " că "
       },
       {
-       "t": "că Eu sunt",
-       "w": "că Eu sunt",
-       "heb": "כִּי אֲנִי",
-       "translit": "ki ani",
+       "t": "Eu",
+       "w": "Eu",
+       "heb": "אֲנִי",
+       "translit": "ani",
        "strong": "H589",
-       "pos": "conjuncție + pronume personal",
-       "def_ro": "că eu (ki ani)",
-       "dict_ro": "Cunoașterea certă a identității DOMNULUI, prin experiența directă a restaurării, rămâne scopul final."
+       "pos": "pronume personal",
+       "def_ro": "Eu",
+       "dict_ro": "Ani este pronumele „eu”, forma mai scurtă decât anohi; când DOMNUL îl rostește, el pune accent pe cine vorbește, ca în Isaia 45:22: „Căci Eu sunt Dumnezeu și nu este altul”. În Ezechiel 37, formula „veți ști că Eu sunt DOMNUL” încheie făgăduința învierii, pentru a arăta că izvorul vieții noi este Cel care a vorbit.",
+       "greek": "ἐγώ (ego)",
+       "greek_def_ro": "ἐγώ (ego) — eu"
       },
       {
-       "t": " "
+       "t": " sunt "
       },
       {
-       "t": "DOMNUL,",
-       "w": "DOMNUL,",
+       "t": "DOMNUL",
+       "w": "DOMNUL",
        "heb": "יְהוָה",
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
-       "def_ro": "DOMNUL, (Adonai)",
-       "dict_ro": "Cunoașterea certă a identității DOMNULUI, prin experiența directă a restaurării, rămâne scopul final."
+       "def_ro": "Domnul",
+       "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn",
+       "diff_ro": "Ebraica: numele divin (YHWH); Septuaginta: „Domnul” (κύριος)."
       },
       {
-       "t": " "
+       "t": ", când "
       },
       {
-       "t": "când voi deschide",
-       "w": "când voi deschide",
+       "t": "voi deschide",
+       "w": "voi deschide",
        "heb": "בְּפִתְחִי",
        "translit": "befithi",
        "strong": "H6605",
        "pos": "verb, qal infinitiv + sufix",
-       "def_ro": "la deschiderea mea (befithi)",
-       "dict_ro": "Repetarea exactă a imaginii mormintelor confirmă certitudinea deplină a promisiunii restaurării."
+       "def_ro": "când voi deschide",
+       "dict_ro": "Patah, „a deschide”, apare la forma pasivă: „dacă cineva deschide o groapă” (Exodul 21:33). Răul „se va deschide”, adică va ieși de sub control ca apa dintr-un vas.",
+       "greek": "ἀνοίγω (anoigo)",
+       "greek_def_ro": "ἀνοίγω (anoigo) — a deschide"
       },
       {
        "t": " "
       },
       {
-       "t": "mormintele voastre",
-       "w": "mormintele voastre",
+       "t": "mormintele",
+       "w": "mormintele",
        "heb": "קִבְרוֹתֵיכֶם",
        "translit": "kivrotēhem",
        "strong": "H6913",
        "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "mormintele voastre (kivrotēhem)",
-       "dict_ro": "Repetarea exactă a imaginii mormintelor confirmă certitudinea deplină a promisiunii restaurării."
+       "def_ro": "mormintele voastre",
+       "dict_ro": "Qever înseamnă „mormânt”. Mormintele care ar fi trebuit să ocrotească odihna celor morți sunt deschise, o scenă de ocară.",
+       "greek": "τάφος (taphos)",
+       "greek_def_ro": "τάφος (taphos) — mormânt"
       },
       {
-       "t": " "
+       "t": " voastre și când "
       },
       {
-       "t": "și când vă voi ridica",
-       "w": "și când vă voi ridica",
+       "t": "vă voi ridica",
+       "w": "vă voi ridica",
        "heb": "וּבְהַעֲלוֹתִי",
        "translit": "uvhaaloti",
        "strong": "H5927",
        "pos": "verb, hifil infinitiv + sufix",
-       "def_ro": "și la ridicarea mea (uvhaaloti)",
-       "dict_ro": "Repetarea exactă a imaginii mormintelor confirmă certitudinea deplină a promisiunii restaurării."
+       "def_ro": "și vă voi scoate",
+       "dict_ro": "Alah înseamnă „a urca”; același verb este cel al jertfei lui Isaac: „adu-l ca ardere de tot” (Geneza 22:2). Femeia urcă în odaia de sus cu copilul, iar Elisei se urcă pe pat peste copil.",
+       "greek": "ἀνάγω (anago)",
+       "greek_def_ro": "ἀνάγω (anago) — a ridica"
       },
       {
-       "t": " "
+       "t": " din "
       },
       {
-       "t": "din mormintele voastre,",
-       "w": "din mormintele voastre,",
+       "t": "mormintele",
+       "w": "mormintele",
        "heb": "מִקִּבְרוֹתֵיכֶם",
        "translit": "mikivrotēhem",
        "strong": "H6913",
        "pos": "substantiv, masculin plural construct + sufix",
-       "def_ro": "din mormintele voastre, (mikivrotēhem)",
-       "dict_ro": "Repetarea exactă a imaginii mormintelor confirmă certitudinea deplină a promisiunii restaurării."
+       "def_ro": "din mormintele voastre",
+       "dict_ro": "Qever înseamnă „mormânt”. Mormintele care ar fi trebuit să ocrotească odihna celor morți sunt deschise, o scenă de ocară.",
+       "greek": "τάφος (taphos)",
+       "greek_def_ro": "τάφος (taphos) — mormânt"
       },
       {
-       "t": " "
+       "t": " voastre, "
       },
       {
-       "t": "poporul Meu.",
-       "w": "poporul Meu.",
+       "t": "poporul",
+       "w": "poporul",
        "heb": "עַמִּי",
        "translit": "ami",
        "strong": "H5971",
        "pos": "substantiv, masculin singular construct + sufix",
-       "def_ro": "poporul meu. (ami)",
-       "dict_ro": "Repetarea exactă a imaginii mormintelor confirmă certitudinea deplină a promisiunii restaurării."
+       "def_ro": "poporul Meu",
+       "dict_ro": "Am desemnează un popor ca unitate înrudită și adunată; în Biblie, mai ales Israel, „poporul lui DOMNUL” (am Adonai). Spre deosebire de goi (neam, mai ales neamurile străine), am subliniază legătura dinăuntru, de familie și de legământ.",
+       "greek": "λαός (laos)",
+       "greek_def_ro": "λαός (laos) — popor"
+      },
+      {
+       "t": " Meu."
       }
      ],
      "textCompare": [
@@ -57383,20 +57828,28 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וִידַעְתֶּם כִּי־אֲנִי יְהוָה בְּפִתְחִי אֶת־קִבְרוֹתֵיכֶם וּבְהַעֲלוֹתִי אֶתְכֶם מִקִּבְרוֹתֵיכֶם עַמִּי׃",
        "translation": "Și veți ști că Eu sunt DOMNUL, când voi deschide mormintele voastre și când vă voi ridica din mormintele voastre, poporul Meu. — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
        "original": "καὶ γνώσεσθε ὅτι ἐγώ εἰμι Κύριος ἐν τῷ ἀνοῖξαί με τοὺς τάφους ὑμῶν τοῦ ἀναγαγεῖν με ἐκ τῶν τάφων τὸν λαόν μου.",
        "greek": true,
        "translation": "și veți cunoaște că Eu sunt Domnul, când voi deschide mormintele voastre, ca să ridic din morminte pe poporul Meu.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „când voi deschide… și când vă voi ridica” prin construcții cu infinitiv (ἐν τῷ ἀνοῖξαί με… τοῦ ἀναγαγεῖν με) și pune „poporul Meu” (τὸν λαόν μου) la sfârșit, ca obiect al lui „a ridica”."
       }
      ],
      "refs": [
-      "Ezechiel 16:62"
+      "Ezechiel 37:6",
+      "Ezechiel 16:62",
+      "Psalmul 126:2",
+      "Psalmul 126:3"
      ],
-     "commentaries": []
+     "commentaries": [
+      {
+       "author": "Metzudat David",
+       "text": "„Și veți ști” etc. „Când voi deschide” etc. — adică în vremea în care voi deschide mormintele voastre și vă voi ridica de acolo, voi, poporul Meu, atunci veți ști că Eu sunt DOMNUL, credincios în cuvântul Meu."
+      }
+     ]
     },
     {
      "v": "37:14",
@@ -57411,115 +57864,119 @@
        "translit": "venatati",
        "strong": "H5414",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și voi da (venatati)",
-       "dict_ro": "Formula finală reunește toate elementele minunii: duh, viață, repaus permanent pe pământul propriu."
+       "def_ro": "voi da",
+       "dict_ro": "Natan e unul dintre cele mai frecvente verbe din Biblia ebraică, cu un câmp foarte larg de sensuri: a dărui, a pune, a numi pe cineva într-o slujbă, a preda pe cineva în mâna altuia. La profeți, „a da în mâna” cuiva e formula obișnuită a judecății (Isaia 42:24), iar „a da” un popor ca legământ sau lumină exprimă o misiune încredințată (Isaia 42:6).",
+       "greek": "δίδωμι (didomi)",
+       "greek_def_ro": "δίδωμι (didomi) — a da"
       },
       {
        "t": " "
       },
       {
-       "t": "duhul Meu",
-       "w": "duhul Meu",
+       "t": "duhul",
+       "w": "duhul",
        "heb": "רוּחִי",
        "translit": "ruhi",
        "strong": "H7307",
        "pos": "substantiv, masculin și feminin singular construct + sufix",
-       "def_ro": "duhul meu (ruhi)",
-       "dict_ro": "Formula finală reunește toate elementele minunii: duh, viață, repaus permanent pe pământul propriu."
+       "def_ro": "duhul Meu",
+       "dict_ro": "Ruah, „duh, vânt”: „Duhul lui Dumnezeu se mișca deasupra apelor” (Geneza 1:2). „Duhul întristat” este starea lăuntrică a celei părăsite.",
+       "greek": "πνεῦμα (pneuma)",
+       "greek_def_ro": "πνεῦμα (pneuma) — duh"
       },
       {
-       "t": " "
+       "t": " Meu în voi și "
       },
       {
-       "t": "în voi",
-       "w": "în voi",
-       "heb": "בָכֶם",
-       "translit": "vahem",
-       "strong": "",
-       "pos": "prepoziție + sufix",
-       "def_ro": "în voi (vahem)",
-       "dict_ro": "Formula finală reunește toate elementele minunii: duh, viață, repaus permanent pe pământul propriu."
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "și veți trăi,",
-       "w": "și veți trăi,",
+       "t": "veți trăi",
+       "w": "veți trăi",
        "heb": "וִחְיִיתֶם",
        "translit": "vihitem",
        "strong": "H2421",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și veți trăi, (vihitem)",
-       "dict_ro": "Formula finală reunește toate elementele minunii: duh, viață, repaus permanent pe pământul propriu."
+       "def_ro": "veți trăi",
+       "dict_ro": "Hayah, „a trăi”, este verbul vieții adevărate, nu doar al existenței biologice. „Sufletul vostru va trăi” este făgăduința vieții pentru cel care ascultă.",
+       "greek": "ζάω (zao)",
+       "greek_def_ro": "ζάω (zao) — a trăi"
       },
       {
-       "t": " "
+       "t": ", și "
       },
       {
-       "t": "și vă voi instala",
-       "w": "și vă voi instala",
+       "t": "vă voi instala",
+       "w": "vă voi instala",
        "heb": "וְהִנַּחְתִּי",
        "translit": "vehinahti",
        "strong": "H3240",
        "pos": "verb, hifil perfect consecutiv",
-       "def_ro": "și vă voi lăsa (vehinahti)",
-       "dict_ro": "Formula finală reunește toate elementele minunii: duh, viață, repaus permanent pe pământul propriu."
+       "def_ro": "vă voi așeza",
+       "dict_ro": "Nuah în forma folosită aici înseamnă „a lăsa”, „a pune deoparte”. Solomon a lăsat vasele necântărite, un gest care arată mulțimea lor, nu neglijența.",
+       "greek": "τίθημι (tithemi)",
+       "greek_def_ro": "τίθημι (tithemi) — a pune"
       },
       {
-       "t": " "
+       "t": " pe "
       },
       {
-       "t": "pe pământul vostru,",
-       "w": "pe pământul vostru,",
-       "heb": "עַל אַדְמַתְכֶם",
-       "translit": "al admathem",
+       "t": "pământul",
+       "w": "pământul",
+       "heb": "אַדְמַתְכֶם",
+       "translit": "admathem",
        "strong": "H127",
-       "pos": "prepoziție + substantiv, feminin singular construct + sufix",
-       "def_ro": "pe pământul vostru, (al admathem)",
-       "dict_ro": "Formula finală reunește toate elementele minunii: duh, viață, repaus permanent pe pământul propriu."
+       "pos": "substantiv, feminin singular construct + sufix",
+       "def_ro": "pe pământul vostru",
+       "dict_ro": "Adama înseamnă „pământ, țărână”: „toate familiile pământului” (Geneza 12:3). Israel este ales dintre toate neamurile, de aceea răspunderea lui este mai mare.",
+       "greek": "γῆ (ge)",
+       "greek_def_ro": "γῆ (ge) — pământ"
       },
       {
-       "t": " "
+       "t": " vostru, și "
       },
       {
-       "t": "și veți ști",
-       "w": "și veți ști",
+       "t": "veți ști",
+       "w": "veți ști",
        "heb": "וִידַעְתֶּם",
        "translit": "vidatem",
        "strong": "H3045",
        "pos": "verb, qal perfect consecutiv",
-       "def_ro": "și veți ști (vidatem)",
-       "dict_ro": "Formula finală dublă — «Eu, DOMNUL, am vorbit și am înfăptuit» — pecetluiește certitudinea absolută a întregii profeții."
+       "def_ro": "veți ști",
+       "dict_ro": "Iada înseamnă o cunoaștere prin experiență directă și prin legătură personală, nu doar o informație; de aceea poate desemna și unirea soților (Geneza 4:1). „A-L cunoaște pe DOMNUL” înseamnă, la profeți, a trăi în legământ cu El.",
+       "greek": "γινώσκω (ginosko)",
+       "greek_def_ro": "γινώσκω (ginosko) — a cunoaște"
       },
       {
-       "t": " "
+       "t": " că "
       },
       {
-       "t": "că Eu,",
-       "w": "că Eu,",
-       "heb": "כִּי אֲנִי",
-       "translit": "ki ani",
+       "t": "Eu",
+       "w": "Eu",
+       "heb": "אֲנִי",
+       "translit": "ani",
        "strong": "H589",
-       "pos": "conjuncție + pronume personal",
-       "def_ro": "că eu, (ki ani)",
-       "dict_ro": "Formula finală dublă pecetluiește certitudinea absolută a întregii profeții."
+       "pos": "pronume personal",
+       "def_ro": "Eu",
+       "dict_ro": "Ani este pronumele „eu”, forma mai scurtă decât anohi; când DOMNUL îl rostește, el pune accent pe cine vorbește, ca în Isaia 45:22: „Căci Eu sunt Dumnezeu și nu este altul”. În Ezechiel 37, formula „veți ști că Eu sunt DOMNUL” încheie făgăduința învierii, pentru a arăta că izvorul vieții noi este Cel care a vorbit.",
+       "greek": "ἐγώ (ego)",
+       "greek_def_ro": "ἐγώ (ego) — eu"
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
-       "t": "DOMNUL,",
-       "w": "DOMNUL,",
+       "t": "DOMNUL",
+       "w": "DOMNUL",
        "heb": "יְהוָה",
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
-       "def_ro": "DOMNUL, (Adonai)",
-       "dict_ro": "Formula finală dublă pecetluiește certitudinea absolută a întregii profeții."
+       "def_ro": "Domnul",
+       "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn",
+       "diff_ro": "Ebraica: numele divin (YHWH); Septuaginta: „Domnul” (κύριος)."
       },
       {
-       "t": " "
+       "t": ", "
       },
       {
        "t": "am vorbit",
@@ -57528,47 +57985,60 @@
        "translit": "dibarti",
        "strong": "H1696",
        "pos": "verb, piel perfect",
-       "def_ro": "am vorbit (dibarti)",
-       "dict_ro": "Formula finală dublă pecetluiește certitudinea absolută a întregii profeții."
+       "def_ro": "am vorbit",
+       "dict_ro": "Verbul davar (la forma piel) înseamnă „a vorbi, a rosti”; e din aceeași rădăcină cu dabar, „cuvânt” și, totodată, „lucru, întâmplare” — în ebraică, cuvântul rostit e deja un fapt. Întrebarea din Isaia 40:27, „de ce vorbești, Israele?”, mustră o plângere care socotește că Dumnezeu nu vede.",
+       "greek": "λαλέω (laleo)",
+       "greek_def_ro": "λαλέω (laleo) — a vorbi"
       },
       {
-       "t": " "
+       "t": " și "
       },
       {
-       "t": "și am înfăptuit",
-       "w": "și am înfăptuit",
+       "t": "am înfăptuit",
+       "w": "am înfăptuit",
        "heb": "וְעָשִׂיתִי",
        "translit": "veasiti",
        "strong": "H6213",
        "pos": "verb, qal perfect",
-       "def_ro": "și am făcut (veasiti)",
-       "dict_ro": "Formula finală dublă pecetluiește certitudinea absolută a întregii profeții."
+       "def_ro": "am făcut",
+       "dict_ro": "Asa e verbul general al facerii. Alături de bara („a crea”) și iațar („a plăsmui”), apare în Isaia 43:7 într-o gradare pe care tradiția kabbalistică a legat-o de lumile creației, formării și facerii (Beria, Iețira, Asia).",
+       "greek": "ποιέω (poieo)",
+       "greek_def_ro": "ποιέω (poieo) — a face",
+       "diff_ro": "Ebraica: „am înfăptuit” (veasiti), la trecut; Septuaginta: „voi face” (ποιήσω), la viitor."
       },
       {
-       "t": " "
+       "t": " – "
       },
       {
-       "t": "– rostirea",
-       "w": "– rostirea",
+       "t": "rostirea",
+       "w": "rostirea",
        "heb": "נְאֻם",
        "translit": "neum",
        "strong": "H5002",
        "pos": "substantiv, masculin singular construct",
-       "def_ro": "rostirea (neum)",
-       "dict_ro": "Formula solemnă finală pecetluiește autoritatea divină absolută a întregii viziuni."
+       "def_ro": "vorba",
+       "dict_ro": "Neum, „rostirea”, apare aproape numai în formula neum Adonai, „rostirea DOMNULUI”, cu care profetul își pecetluiește vestea. Formula e foarte frecventă la Ieremia și Ezechiel.",
+       "greek": "λέγω (lego)",
+       "greek_def_ro": "λέγω (lego) — a spune"
       },
       {
        "t": " "
       },
       {
-       "t": "DOMNULUI.’»”",
-       "w": "DOMNULUI.’»”",
+       "t": "DOMNULUI",
+       "w": "DOMNULUI",
        "heb": "יְהוָה",
        "translit": "Adonai",
        "strong": "H3068",
        "pos": "nume propriu",
-       "def_ro": "DOMNULUI.’»” (Adonai)",
-       "dict_ro": "Formula solemnă finală pecetluiește autoritatea divină absolută a întregii viziuni."
+       "def_ro": "Domnului",
+       "dict_ro": "Tetragrama YHVH este Numele legământului, descoperit lui Moise la rug (Exodul 3:15). Din evlavie, tradiția evreiască nu Îl rostește: la citire se spune Adonai („Domnul meu”), iar în vorbirea obișnuită HaȘem („Numele”); traducerile Îl redau prin „DOMNUL”, cu majuscule. În profeți, Numele apare mai ales acolo unde Dumnezeu Se leagă de Israel prin legământ și făgăduință.",
+       "greek": "κύριος (kyrios)",
+       "greek_def_ro": "κύριος (kyrios) — Domn",
+       "diff_ro": "Ebraica: numele divin (YHWH); Septuaginta: „Domnul” (κύριος)."
+      },
+      {
+       "t": ".’»”"
       }
      ],
      "textCompare": [
@@ -57576,21 +58046,38 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וְנָתַתִּי רוּחִי בָכֶם וִחְיִיתֶם וְהִנַּחְתִּי אֶתְכֶם עַל־אַדְמַתְכֶם וִידַעְתֶּם כִּי־אֲנִי יְהוָה דִּבַּרְתִּי וְעָשִׂיתִי נְאֻם־יְהוָה׃",
        "translation": "Voi pune duhul Meu în voi și veți trăi, și vă voi instala pe pământul vostru, și veți ști că Eu, DOMNUL, am vorbit și am înfăptuit – rostirea DOMNULUI.’»” — traducerea rabinului Rosen.",
-       "note": ""
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ δώσω πνεῦμά μου εἰς ὑμᾶς, καὶ ζήσεσθε, καὶ θήσομαι ὑμᾶς ἐπὶ τὴν γῆν ὑμῶν, καὶ γνώσεσθε ὅτι ἐγὼ Κύριος· λελάληκα καὶ ποιήσω, λέγει Κύριος.",
+       "original": "καὶ δώσω τὸ πνεῦμά μου εἰς ὑμᾶς καὶ ζήσεσθε καὶ θήσομαι ὑμᾶς ἐπὶ τὴν γῆν ὑμῶν καὶ γνώσεσθε ὅτι ἐγὼ κύριος λελάληκα καὶ ποιήσω λέγει κύριος",
        "greek": true,
        "translation": "Și voi da duhul Meu în voi, și veți trăi, și vă voi așeza pe țara voastră, și veți cunoaște că Eu sunt Domnul; am grăit și voi face, spune Domnul.»",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „am vorbit și am înfăptuit” (dibarti veasiti) prin „am grăit și voi face” (λελάληκα καὶ ποιήσω), cu al doilea verb la viitor, și „rostirea DOMNULUI” (neum Adonai) prin „spune Domnul” (λέγει κύριος)."
       }
      ],
      "refs": [
+      "Ezechiel 37:9",
+      "Ezechiel 11:19",
       "Ezechiel 36:27",
+      "Ezechiel 39:29",
+      "Isaia 32:15",
       "Zaharia 12:10"
      ],
-     "commentaries": []
+     "commentaries": [
+      {
+       "author": "Radak (1160–1235)",
+       "text": "„Voi pune duhul Meu în voi” — acesta este duhul înțelepciunii, cum am explicat, căci, de vreme ce a spus „când vă voi ridica”, iată duhul vieții, deoarece omul nu se mișcă fără duhul vieții; deci ce a spus după aceea, „voi pune duhul Meu în voi”, a spus despre duhul înțelepciunii, și le-a făgăduit că va pune în ei cunoaștere, pricepere și înțelepciune și că nu vor mai păcătui, după cum le-a mai făgăduit; și a spus: „toți Mă vor cunoaște, de la cel mic până la cel mare”. „Și veți trăi” — le-a făgăduit că vor trăi zile multe, cum este spus în profeția lui Isaia: „căci zilele poporului Meu vor fi ca zilele copacului”. „Și vă voi așeza în pământul vostru” — le-a făgăduit că nu vor mai fi exilați din el."
+      },
+      {
+       "author": "Metzudat David",
+       "text": "„Voi pune duhul Meu în voi” — voi pune în voi duhul vieții, și veți rămâne vii și statornici, și vă voi așeza în liniște pe pământul vostru; și atunci veți ști că Eu sunt DOMNUL, credincios în cuvântul Meu: Eu am vorbit și Eu am înfăptuit după cum am vorbit."
+      },
+      {
+       "author": "Metzudat Țion",
+       "text": "„Și vă voi așeza” (vehinahti) — de la odihnă."
+      }
+     ]
     }
    ],
    "intro": "Viziunea Văii oaselor uscate, care prind din nou viață și carne la cuvântul lui Dumnezeu, simbolizează învierea națională a lui Israel — tema de mijloc a Pesahului, sărbătoarea eliberării și a vieții noi. Ezechiel vede cum Duhul Domnului redă suflare întregului popor risipit."
