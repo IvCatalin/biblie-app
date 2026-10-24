@@ -1,0 +1,12 @@
+// Septuaginta (Rahlfs 1935, Isaia) — Isaia 51:12-52:12: traduceri și note TM–LXX (factuale)
+module.exports = {
+  '51:17': { keepTr: 1, note: 'Septuaginta are „paharul căderii” (πτώσεως) în loc de „cupa amețelii” și „potirul mâniei” (κόνδυ τοῦ θυμοῦ).' },
+  '51:19': { keepTr: 1, note: 'Septuaginta are „prăbușire” (πτῶμα) în loc de „jaf” (shod) și „cine se va întrista împreună cu tine” (συλλυπηθήσεται) în loc de „cine te va plânge”.' },
+  '51:22': { tr: '„Așa zice Domnul Dumnezeu, Cel ce judecă pe poporul Său: Iată, am luat din mâna ta paharul căderii, potirul mâniei, și nu vei mai adăuga să-l bei.”', note: 'Septuaginta redă „Stăpânul tău, DOMNUL” prin „Domnul Dumnezeu”, „cupa amețelii” prin „paharul căderii” (πτώσεως) și are „potirul mâniei” fără „Mele”.' },
+  '51:23': { tr: '„Și îl voi arunca în mâinile celor ce te-au nedreptățit și ale celor ce te-au umilit, care au zis sufletului tău: Apleacă-te, ca să trecem! Și ți-ai pus spatele la pământ, afară, pentru cei ce trec.”', note: 'Septuaginta redă „celor care te chinuie” prin „celor ce te-au nedreptățit și te-au umilit” și are „îl voi arunca” (ἐμβαλῶ) în loc de „îl voi pune”.' },
+  '52:5': { keepTr: 1, note: 'Septuaginta are „din pricina voastră” (δι᾿ ὑμᾶς) și „între neamuri” (ἐν τοῖς ἔθνεσιν), care nu apar în ebraică, și „vă mirați și vă tânguiți” (θαυμάζετε καὶ ὀλολύζετε) în loc de „stăpânii lor se laudă”.' },
+  '52:9': { tr: '„Să izbucnească de bucurie împreună pustiurile Ierusalimului, căci Domnul S-a milostivit de ea și a izbăvit Ierusalimul.”', note: 'Septuaginta are „S-a milostivit de ea” (ἠλέησεν) în loc de „Și-a mângâiat poporul” și „pustiurile Ierusalimului” (τὰ ἔρημα) în loc de „ruine”.' },
+  '52:10': { tr: '„Și Domnul Își va descoperi brațul Său cel sfânt înaintea tuturor neamurilor, și toate marginile pământului vor vedea mântuirea care vine de la Dumnezeu.”', note: 'Septuaginta redă „a dezvelit” prin „va descoperi” (ἀποκαλύψει) și are „mântuirea care vine de la Dumnezeu” (τὴν παρὰ τοῦ θεοῦ), fără „nostru”.' },
+  '52:11': { keepTr: 1, note: 'Septuaginta redă „curățiți-vă” prin „despărțiți-vă” (ἀφορίσθητε) și „purtători ai obiectelor” prin „cei ce purtați vasele” (οἱ φέροντες τὰ σκεύη).' },
+  '52:12': { tr: '„Căci nu cu tulburare veți ieși, nici în fugă nu veți merge, căci Domnul va merge înaintea voastră și Cel ce vă strânge este Domnul Dumnezeul lui Israel.”', note: 'Septuaginta redă „ariergardă” (masifhem) prin „Cel ce vă strânge” (ὁ ἐπισυνάγων ὑμᾶς) și „în grabă” prin „cu tulburare” (μετὰ ταραχῆς).' }
+};
