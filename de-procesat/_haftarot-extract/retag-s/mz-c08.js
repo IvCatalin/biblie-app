@@ -1,0 +1,17 @@
+module.exports = {
+  '45:17': '„Și libația” — vin pentru libații. „Soroacele” (moade) — de la „vaad” și „adunare”.',
+  '45:18': '„Fără meteahnă” — întreg, fără meteahnă. „Și jertfă de păcat” — și vei curăța.',
+  '45:19': '„Colțuri” — unghiuri. „Curtea” (azara) — așa se numește forma construcției altarului, după cum este scris „și de la curtea (azara) mică” (mai sus, cap. 43).',
+  '45:20': '„Cel care greșește” — de la „șegaga”, greșeală. „Și cel simplu” — nebun și nesocotit. „Și veți ispăși” — are înțelesul de ștergere, de curățare, ca în „și îl vei ispăși” (acolo).',
+  '45:21': '„Șevuot” — ca „șivat”, fără vav; tot așa mai sus „leumat ehad hahalakim”, care este ca „leumat”, fără vav.',
+  '45:24': '„Hin” — nume de măsură, care are în el douăsprezece logi.',
+  '46:2': '„Prag” (miftan) — este pragul (askufa), ca în „tăiate pe prag (hamiftan)” (1 Samuel 5).',
+  '46:5': '„Dar” (matat) — de la dare.',
+  '46:6': '„Fără meteahnă” (temimim) — ca „tamim”, sau a spus forma de plural pentru toți taurii din toate începuturile lunilor.',
+  '46:7': '„Îi ajunge mâna” — expresia se spune despre măsura bogăției, ca în „după cât îi ajunge mâna celui ce a făgăduit” (Levitic 27:8).',
+  '46:9': '„Nokho” — în fața lui, ca în „lenokhah ishto” (Geneza 25).',
+  '46:14': '„Laros” — are înțelesul de stropire și picurare, ca în „resisei laila” (Cântarea Cântărilor 5). „Făina” (solet) — făină bună.',
+  '46:16': '„Stăpânirea lor” (ahuzatam) — are înțelesul de stăpânire, de a ține în mână.',
+  '46:17': '„Dror” — așa se numește jubileul, căci are înțelesul de liber, ca în „și veți vesti libertate (dror)” (Levitic 25). „Veshavat” — ca „veshava”.',
+  '46:18': '„Lehonotam” — are înțelesul de asuprire, ca în „și nu vor mai asupri” (mai sus, cap. 45). „Iafuțu” — are înțelesul de risipire, ca în „au fost risipite oile lui” (mai sus, cap. 34).',
+};
