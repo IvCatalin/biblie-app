@@ -1,0 +1,15 @@
+module.exports = {
+  '15:1': '„Și acum ascultă de cuvintele DOMNULUI” — o dată ai lucrat nesăbuit, dar acum fii cu luare-aminte [în faptele tale].',
+  '15:4': '„Șaul a convocat” — cuvânt de vestire, ca în „și Șaul a convocat (vaiaz’ek)”. „Și i-a numărat prin miei” — a spus fiecăruia să ia un miel din turmele regelui și apoi a numărat mieii, căci este interzis să fie numărați israeliții, despre care se spune că sunt prea mulți ca să poată fi numărați.',
+  '15:5': '„Și a luptat în vale” — același sens ca „și a luptat în vale”. Înțelepții noștri au spus despre vale că Șaul a dezbătut și a concluzionat: dacă pentru o singură viață Legea a poruncit să se frângă gâtul unei vițele în vale, cu cât mai mult pentru toate aceste vieți! Iar dacă omul a păcătuit, ce au păcătuit animalele?',
+  '15:6': '„Cheniților” — urmașii lui Ietro, care locuiau în pustia lui Iuda, în sudul Aradului, și au mers la Iaabeț să învețe Legea; Aradul este Amalek: regele canaanit al Aradului era Amalek, căci se spune despre el „care locuia în Negheb” și „Amalek locuiește în ținutul de miazăzi”. „Cu toți copiii lui Israel” — care au mâncat la masa lui (a lui Ietro): Moise, Aaron și toți bătrânii lui Israel; se socotește ca și cum ar fi făcut bunătate tuturor fiilor lui Israel.',
+  '15:12': '„Și își ridică o mână” — își zidește un altar; acesta este altarul pomenit la Ilie: „a reparat altarul DOMNULUI cel dărâmat”. Targumul lui Ionatan: „și își pregătește acolo un loc ca să împartă prada”.',
+  '15:16': '„Stai” (heref) — ca în Targum, „orih”, adică „așteaptă”.',
+  '15:17': '„Tu ești capul triburilor lui Israel” — Targumul lui Ionatan: „tribul lui Beniamin a trecut Marea înaintea întregului popor, după cum se spune: «acolo Beniamin cel mic, stăpânitorul lor»”.',
+  '15:18': '„Până ce îi vor nimici” — poporul care este cu tine îi va nimici.',
+  '15:19': '„Te-ai grăbit” (vataat) — ca „te-ai repezit” (vataaf), cuvânt înrudit cu „ayit”, păsările de pradă.',
+  '15:21': '„Cele mai bune din ce era dat nimicirii” — reșit înseamnă „ce e mai bun” din herem, ca în „cele mai bune din grâul tău”, cum se spune: „când veți ridica din el partea aleasă”. Targumul lui Ionatan redă „reșit” prin „înainte de a-l da nimicirii”.',
+  '15:24': '„M-am temut de popor” — [se referă la] Doeg Edomitul, care era la fel de important ca toți ceilalți.',
+  '15:27': '„Și a apucat poala mantiei lui” — după sensul simplu, se pare că, atunci când Samuel s-a întors să-l părăsească pe Șaul, Șaul a apucat poala mantiei lui Samuel, căci îi cerea să se întoarcă până se va prosterna în Ghilgal, unde era Cortul Întâlnirii. În Midraș Agada, însă, amoraimii se despart: unii spun că Șaul a rupt mantia lui Samuel, alții că Samuel a rupt mantia lui Șaul, dându-i prin aceasta semnul că oricine va rupe poala mantiei sale va domni în locul lui; și aceasta este ce i-a spus Șaul lui David în ziua în care acesta i-a tăiat mantia: „Știu că vei domni cu adevărat”.',
+  '15:32': '„Agag a mers la el legat” — Targumul lui Ionatan: „cu fandoseală”. „Cu adevărat, amărăciunea morții se apropie” — „Cu adevărat știu că s-a abătut și se apropie de mine amărăciunea morții”.',
+};
