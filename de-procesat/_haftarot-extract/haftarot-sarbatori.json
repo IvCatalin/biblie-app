@@ -108233,10 +108233,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ΚΑΙ ἐγένετο λόγος Κυρίου πρὸς ᾿Ιωνᾶν τὸν τοῦ ᾿Αμαθὶ λέγων·",
+       "original": "καὶ ἐγένετο λόγος κυρίου πρὸς Ιωναν τὸν τοῦ Αμαθι λέγων",
        "greek": true,
-       "translation": "Și a fost cuvântul Domnului către Iona, fiul lui Amathi, zicând:",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "translation": "Și a fost cuvântul Domnului către Iona, cel al lui Amathi, zicând:",
+       "note": "Septuaginta redă „fiul lui Amitai” (ben Amitai) prin „cel al lui Amathi” (τὸν τοῦ ᾿Αμαθί), fără cuvântul „fiu”."
       }
      ],
      "refs": [
@@ -108409,10 +108409,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἀνάστηθι καὶ πορεύθητι εἰς Νινευὴ τὴν πόλιν τὴν μεγάλην καὶ κήρυξον ἐν αὐτῇ, ὅτι ἀνέβη ἡ κραυγὴ τῆς κακίας αὐτῆς πρός με.",
+       "original": "ἀνάστηθι καὶ πορεύθητι εἰς Νινευη τὴν πόλιν τὴν μεγάλην καὶ κήρυξον ἐν αὐτῇ ὅτι ἀνέβη ἡ κραυγὴ τῆς κακίας αὐτῆς πρός με",
        "greek": true,
        "translation": "Scoală-te și du-te la Ninive, cetatea cea mare, și strigă în ea, căci s-a suit strigarea răutății ei înaintea Mea.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „răutatea lor” (ra’atam) prin „strigătul răutății ei” (ἡ κραυγὴ τῆς κακίας αὐτῆς), cu „strigătul” în plus, și „strigă către ea” prin „strigă în ea” (ἐν αὐτῇ)."
       }
      ],
      "refs": [
@@ -109746,10 +109746,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ εἶπεν ἕκαστος πρὸς τὸν πλησίον αὐτοῦ· δεῦτε βάλωμεν κλήρους καὶ ἐπιγνῶμεν τίνος ἕνεκεν ἡ κακία αὕτη ἐστὶν ἐν ἡμῖν; καὶ ἔβαλον κλήρους, καὶ ἔπεσεν ὁ κλῆρος ἐπὶ ᾿Ιωνᾶν.",
+       "original": "καὶ εἶπεν ἕκαστος πρὸς τὸν πλησίον αὐτοῦ δεῦτε βάλωμεν κλήρους καὶ ἐπιγνῶμεν τίνος ἕνεκεν ἡ κακία αὕτη ἐστὶν ἐν ἡμῖν καὶ ἔβαλον κλήρους καὶ ἔπεσεν ὁ κλῆρος ἐπὶ Ιωναν",
        "greek": true,
        "translation": "și a spus fiecare către semenul lui: veniți să tragem sorți și să cunoaștem din pricina cui este acest rău în noi? Și au tras sorți, și a căzut sorțul pe Iona.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „un om către aproapele lui” (ish el re’ehu) prin „fiecare către aproapele lui” (ἕκαστος πρὸς τὸν πλησίον αὐτοῦ) și „nenorocirea” (haraah) prin „răul” (κακία)."
       }
      ],
      "refs": [
@@ -110847,10 +110847,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ παρεβιάζοντο οἱ ἄνδρες τοῦ ἐπιστρέψαι πρὸς τὴν γῆν καὶ οὐκ ἠδύναντο, ὅτι ἡ θάλασσα ἐπορεύετο καὶ ἐξηγείρετο μᾶλλον ἐπ᾿ αὐτούς.",
+       "original": "καὶ παρεβιάζοντο οἱ ἄνδρες τοῦ ἐπιστρέψαι πρὸς τὴν γῆν καὶ οὐκ ἠδύναντο ὅτι ἡ θάλασσα ἐπορεύετο καὶ ἐξηγείρετο μᾶλλον ἐπ᾿ αὐτούς",
        "greek": true,
        "translation": "și se sileau oamenii să se întoarcă spre uscat și nu puteau, căci marea mergea și se ridica tot mai mult asupra lor.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „au vâslit” (vayahteru) prin „se sileau” (παρεβιάζοντο), „la mal” prin „spre uscat” (πρὸς τὴν γῆν) și „se învolbura și mai tare” (holekh vesoer) prin „mergea și se ridica tot mai mult” (ἐπορεύετο καὶ ἐξηγείρετο μᾶλλον)."
       }
      ],
      "refs": [
@@ -111262,10 +111262,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ ἔλαβον τὸν ᾿Ιωνᾶν καὶ ἐξέβαλον αὐτὸν εἰς τὴν θάλασσαν, καὶ ἔστη ἡ θάλασσα ἐκ τοῦ σάλου αὐτῆς.",
+       "original": "καὶ ἔλαβον τὸν Ιωναν καὶ ἐξέβαλον αὐτὸν εἰς τὴν θάλασσαν καὶ ἔστη ἡ θάλασσα ἐκ τοῦ σάλου αὐτῆς",
        "greek": true,
        "translation": "și l-au luat pe Iona și l-au aruncat în mare, și a stat marea din zbuciumul ei.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „marea și-a potolit furia” (vaya’amod hayam mizapo) prin „a stat marea din zbuciumul ei” (ἔστη ἡ θάλασσα ἐκ τοῦ σάλου αὐτῆς)."
       }
      ],
      "refs": [
@@ -111813,10 +111813,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "καὶ προσηύξατο ᾿Ιωνᾶς πρὸς Κύριον τὸν Θεὸν αὐτοῦ ἐκ τῆς κοιλίας τοῦ κήτους",
+       "original": "καὶ προσηύξατο Ιωνας πρὸς κύριον τὸν θεὸν αὐτοῦ ἐκ τῆς κοιλίας τοῦ κήτους",
        "greek": true,
        "translation": "și s-a rugat Iona Domnului Dumnezeului lui din pântecele chitului",
-       "note": "Corespondență strânsă cu Textul Masoretic, cu același termen „chit” ca la versetul precedent."
+       "note": "Septuaginta redă „peștelui” (hadagah) prin „chitului” (κήτους) și „DOMNULUI, Dumnezeului lui” prin „Domnului Dumnezeului lui” (πρὸς Κύριον τὸν Θεὸν αὐτοῦ)."
       }
      ],
      "refs": [
@@ -113512,10 +113512,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ΚΑΙ ἐγένετο λόγος Κυρίου πρὸς ᾿Ιωνᾶν ἐκ δευτέρου λέγων·",
+       "original": "καὶ ἐγένετο λόγος κυρίου πρὸς Ιωναν ἐκ δευτέρου λέγων",
        "greek": true,
        "translation": "Și a fost cuvântul Domnului către Iona a doua oară, zicând:",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „a doua oară” (shenit) prin „a doua oară” (ἐκ δευτέρου); restul versetului corespunde strâns cu ebraica."
       }
      ],
      "refs": [
@@ -113692,10 +113692,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ἀνάστηθι καὶ πορεύθητι εἰς Νινευὴ τὴν πόλιν τὴν μεγάλην καὶ κήρυξον ἐν αὐτῇ κατὰ τὸ κήρυγμα τὸ ἔμπροσθεν, ὃ ἐγὼ ἐλάλησα πρός σε.",
+       "original": "ἀνάστηθι καὶ πορεύθητι εἰς Νινευη τὴν πόλιν τὴν μεγάλην καὶ κήρυξον ἐν αὐτῇ κατὰ τὸ κήρυγμα τὸ ἔμπροσθεν ὃ ἐγὼ ἐλάλησα πρὸς σέ",
        "greek": true,
        "translation": "Scoală-te și du-te la Ninive, cetatea cea mare, și strigă în ea după strigarea de mai înainte, pe care Eu am grăit-o către tine.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „strigarea pe care ți-o voi vorbi” (haqeri’ah asher anokhi dover) prin „după predica de mai înainte, pe care Eu am vorbit-o către tine” (κατὰ τὸ κήρυγμα τὸ ἔμπροσθεν, ὃ ἐγὼ ἐλάλησα πρός σε), cu „de mai înainte” în plus și verbul la trecut."
       }
      ],
      "refs": [
@@ -115239,10 +115239,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "τίς οἶδεν εἰ μετανοήσει ὁ Θεὸς καὶ ἀποστρέψει ἐξ ὀργῆς θυμοῦ αὐτοῦ καὶ οὐ μὴ ἀπολώμεθα;",
+       "original": "τίς οἶδεν εἰ μετανοήσει ὁ θεὸς καὶ ἀποστρέψει ἐξ ὀργῆς θυμοῦ αὐτοῦ καὶ οὐ μὴ ἀπολώμεθα",
        "greek": true,
        "translation": "cine știe de se va pocăi Dumnezeu și se va întoarce de la mânia urgiei Lui, și nu vom pieri?",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „să se întoarcă și Se va răzgândi” (yashuv veniham) printr-un singur verb, „se va pocăi” (μετανοήσει), și „furia Sa arzătoare” (haron apo) prin „mânia urgiei Lui” (ὀργῆς θυμοῦ αὐτοῦ)."
       }
      ],
      "refs": [
@@ -115584,10 +115584,10 @@
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
-       "original": "ΚΑΙ ἐλυπήθη Ἰωνᾶς λύπην μεγάλην καὶ συνεχύθη,",
+       "original": "καὶ ἐλυπήθη Ιωνας λύπην μεγάλην καὶ συνεχύθη",
        "greek": true,
        "translation": "Și s-a întristat Iona cu întristare mare și s-a tulburat,",
-       "note": "Corespondență apropiată cu Textul Masoretic, cu nuanța „s-a tulburat” adăugată lângă „mânie” din ebraică."
+       "note": "Septuaginta redă „l-a supărat pe Iona foarte mult” prin „Iona s-a întristat cu întristare mare” (ἐλυπήθη Ἰωνᾶς λύπην μεγάλην) și „l-a mâhnit” (vayihar lo) prin „s-a tulburat” (συνεχύθη)."
       }
      ],
      "refs": [
