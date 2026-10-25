@@ -1,0 +1,21 @@
+// Trimiteri TSK pentru Iosua 1:1-18
+module.exports = {
+  '1:1': ['Iosua 12:6', 'Deuteronomul 34:5', 'Exodul 24:13', 'Numeri 11:28', 'Deuteronomul 31:23', 'Deuteronomul 34:9'],
+  '1:2': ['Numeri 27:16-21', 'Deuteronomul 3:28', 'Deuteronomul 31:7'],
+  '1:3': ['Iosua 14:9', 'Deuteronomul 11:24'],
+  '1:4': ['Geneza 15:18-21', 'Exodul 23:31', 'Numeri 34:2-18', 'Deuteronomul 1:7', 'Deuteronomul 3:25', 'Deuteronomul 11:24'],
+  '1:5': ['Deuteronomul 7:24', 'Deuteronomul 20:4', 'Exodul 3:12', 'Deuteronomul 31:6-8', 'Isaia 41:10-14', 'Isaia 43:2-5'],
+  '1:6': ['Deuteronomul 31:7', '1 Cronici 22:13', '1 Cronici 28:10', 'Psalmul 27:14', 'Numeri 34:17-29', 'Geneza 26:3'],
+  '1:7': ['Numeri 27:23', 'Deuteronomul 5:32', 'Deuteronomul 28:14', 'Proverbe 4:27', 'Deuteronomul 29:9', '1 Împărați 2:3'],
+  '1:8': ['Deuteronomul 6:6-9', 'Deuteronomul 17:18-19', 'Deuteronomul 30:14', 'Psalmul 1:2-3', 'Psalmul 119:97', 'Isaia 59:21'],
+  '1:9': ['Deuteronomul 31:7-8', 'Geneza 28:15', 'Deuteronomul 20:1', 'Psalmul 27:1-2', 'Ieremia 1:7-8', 'Isaia 43:1-5'],
+  '1:10': ['Deuteronomul 20:5'],
+  '1:11': ['Iosua 3:2', 'Deuteronomul 9:1', 'Deuteronomul 11:31'],
+  '1:12': ['Numeri 32:20-28', 'Deuteronomul 3:18'],
+  '1:13': ['Iosua 22:1-4', 'Numeri 32:20-28', 'Deuteronomul 3:18'],
+  '1:14': ['Exodul 13:18', 'Deuteronomul 20:8', 'Numeri 32:17'],
+  '1:15': ['Numeri 32:17-22', 'Iosua 22:4-9'],
+  '1:16': ['Numeri 32:25', 'Deuteronomul 5:27'],
+  '1:17': ['Iosua 1:5', '1 Samuel 20:13', '1 Împărați 1:37', '1 Cronici 28:20', 'Psalmul 20:1-4'],
+  '1:18': ['Deuteronomul 17:12', '1 Samuel 11:12', 'Psalmul 2:1-6', 'Iosua 1:6-7', 'Iosua 1:9'],
+};
