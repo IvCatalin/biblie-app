@@ -1217,7 +1217,7 @@
        "def_ro": "lauda Sa — aceeași rădăcină ca la 42:8,12.",
        "greek": "ἀρχή (arche)",
        "greek_def_ro": "ἀρχή (arche) — început.",
-       "diff_ro": "Septuaginta are „începutul Lui” (ἡ ἀρχὴ αὐτοῦ), citind probabil cuvântul ca tehilato cu ḥet („începutul său”), în loc de tehilato cu he („lauda Sa”) — cele două cuvinte se deosebesc printr-o singură literă.",
+       "diff_ro": "Septuaginta are „începutul Lui” (ἡ ἀρχὴ αὐτοῦ), unde ebraica are „lauda Sa” (tehilato); în scrierea ebraică, „lauda Sa” (cu he) și „începutul Său” (cu ḥet) se deosebesc printr-o singură literă.",
        "dict_ro": "Tehilato — „lauda Lui”, același cuvânt ca în 42:8, unde Dumnezeu spune că nu-Și va da lauda idolilor; aici lauda se întoarce la El, de la marginile pământului. Rashi: când vor vedea faptele Lui mari pentru Israel, toate neamurile vor recunoaște că El este Dumnezeu."
       },
       {
@@ -2086,7 +2086,7 @@
        "def_ro": "a gâfâi, a sufla greu.",
        "greek": "ἐξίστημι (existemi)",
        "greek_def_ro": "ἐξίστημι (existemi) — a scoate din fire, a uimi; a pustii.",
-       "diff_ro": "Septuaginta are „voi pustii” sau „voi face să se uimească” (ἐκστήσω), probabil citind verbul eșom de la rădăcina șamem, „a pustii”, nu ca „voi gâfâi”.",
+       "diff_ro": "Septuaginta are „voi pustii” sau „voi face să se uimească” (ἐκστήσω), un sens apropiat de rădăcina șamem, „a pustii”, unde ebraica are „voi gâfâi” (eșom).",
        "dict_ro": "Nașam, „a gâfâi”, apare numai aici în Biblia ebraică; e înrudit cu neșama, „suflarea”. Descrie respirația sacadată a femeii care naște — imaginea lui Dumnezeu care nu Își mai poate stăpâni reacția față de suferința poporului."
       },
       {
@@ -15951,7 +15951,7 @@
        "original": "καὶ εἶπεν Ελισαιε τί ποιήσω σοι ἀνάγγειλόν μοι τί ἐστίν σοι ἐν τῷ οἴκῳ ἡ δὲ εἶπεν οὐκ ἔστιν τῇ δούλῃ σου οὐθὲν ἐν τῷ οἴκῳ ὅτι ἀλλ᾿ ἢ ὃ ἀλείψομαι ἔλαιον",
        "greek": true,
        "translation": "„Și a zis Elisei: Ce să-ți fac? Spune-mi ce ai în casă. Iar ea a zis: Roaba ta nu are nimic în casă, decât ceea ce mă voi unge, untdelemn.”",
-       "note": "LXX nu are un cuvânt concret pentru „asuh” (ulcior), ci o frază descriptivă, „ceea ce mă voi unge, untdelemn” (ὃ ἀλείψομαι ἔλαιον) — probabil cuvântul ebraic rar, atestat o singură dată, nu mai era recunoscut."
+       "note": "LXX nu are un cuvânt concret pentru „asuh” (ulcior), ci o frază descriptivă, „ceea ce mă voi unge, untdelemn” (ὃ ἀλείψομαι ἔλαιον); cuvântul ebraic apare o singură dată în Biblie."
       }
      ],
      "refs": [
@@ -80816,7 +80816,7 @@
        "original": "ὄρη ἐσαλεύθησαν ἀπὸ προσώπου Κυρίου Ἐλωΐ, τοῦτο Σινὰ ἀπὸ προσώπου Κυρίου Θεοῦ Ἰσραήλ.",
        "greek": true,
        "translation": "„munții s-au clătinat dinaintea feței Domnului Eloi, acesta e Sinai, dinaintea feței Domnului Dumnezeului lui Israel.”",
-       "note": "LXX transliterează un titlu divin suplimentar „Ἐλωΐ” (probabil o formă a lui „Elohim” tratată eronat ca nume propriu separat), absent ca atare din structura clară a ebraicei."
+       "note": "LXX transliterează un titlu divin în plus, „Ἐλωΐ”, care nu are corespondent distinct în textul ebraic de aici."
       }
      ],
      "refs": [
@@ -81716,7 +81716,7 @@
        "original": "ἐπιβεβηκότες ἐπὶ ὄνου θηλείας μεσημβρίας, καθήμενοι ἐπὶ κριτηρίου καὶ πορευόμενοι ἐπὶ ὁδοὺς συνέδρων ἐφ᾿ ὁδῷ,",
        "greek": true,
        "translation": "„cei ce călăriți pe măgăriță la amiază, cei ce ședeți la scaunul de judecată și mergeți pe drumurile adunărilor, pe cale,”",
-       "note": "LXX adaugă „la amiază” (μεσημβρίας), absent din ebraică, posibil o lectură diferită a cuvântului „tsechorot” (albe) ca legat de o rădăcină pentru „amiază, lumină puternică”."
+       "note": "LXX adaugă „la amiază” (μεσημβρίας), absent din ebraică, unde apare „tsechorot” (albe)."
       }
      ],
      "refs": [
@@ -90137,7 +90137,7 @@
        "original": "καὶ ἐρεῖς αὐτῷ· φυλάξαι τοῦ ἡσυχάσαι καὶ μὴ φοβοῦ, μηδὲ ἡ ψυχή σου ἀσθενείτω ἀπὸ τῶν δύο ξύλων τῶν δαλῶν τῶν καπνιζομένων τούτων· ὅταν γὰρ ὀργὴ τοῦ θυμοῦ μου γένηται, πάλιν ἰάσομαι.",
        "greek": true,
        "translation": "„și-i vei spune: ferește-te să te liniștești și nu te teme, nici să slăbească sufletul tău de la aceste două lemne, tăciuni fumegânzi; căci atunci când mânia furiei Mele va veni, iarăși voi vindeca.”",
-       "note": "LXX adaugă o propoziție întreagă la finalul versetului, absentă din structura ebraică de aici („când mânia furiei Mele va veni, iarăși voi vindeca”) — posibil o interpolare teologică sau o combinare cu material din alt context al capitolului."
+       "note": "LXX adaugă o propoziție întreagă la finalul versetului, absentă din ebraică de aici: „când mânia furiei Mele va veni, iarăși voi vindeca”."
       }
      ],
      "refs": [
@@ -254374,7 +254374,7 @@
        "original": "μὴ φοβοῦ, ὅτι κατῃσχύνθης, μηδὲ ἐντραπῇς, ὅτι ὠνειδίσθης· ὅτι αἰσχύνην αἰώνιον ἐπιλήσῃ καὶ ὄνειδος τῆς χηρείας σου οὐ μὴ μνησθήσῃ.",
        "greek": true,
        "translation": "„Nu te teme, căci ai fost rușinată, nici nu te tulbura, căci ai fost batjocorită; căci vei uita rușinea veșnică și de ocara văduviei tale nu-ți vei mai aminti.”",
-       "note": "LXX pune verbele la trecut („ai fost rușinată”) unde ebraica are viitor negat („nu vei fi rușinată”) — o diferență notabilă de timp verbal, posibil reflectând o tradiție textuală ușor diferită sau o interpretare liberă a traducătorilor greci."
+       "note": "LXX pune verbele la trecut („ai fost rușinată”) unde ebraica are viitor negat („nu vei fi rușinată”), o diferență de timp verbal."
       }
      ],
      "refs": [
