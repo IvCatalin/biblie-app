@@ -144,7 +144,7 @@
        "original": "καὶ εἶπεν Ιωναθαν αὔριον νουμηνία καὶ ἐπισκεπήσῃ ὅτι ἐπισκεπήσεται καθέδρα σου",
        "greek": true,
        "translation": "„Și Ionatan a spus: «Mâine este lună nouă și vei fi căutat, căci scaunul tău va fi căutat.»”",
-       "note": "Septuaginta redă „locul tău va fi gol” prin „scaunul tău va fi căutat” (ἐπισκεπήσεται καθέδρα), cu același verb ca la „vei fi căutat”, și nu pomenește „lui David” ca destinatar."
+       "note": "Septuaginta redă „locul tău” (moșavekha) prin „scaunul tău” (καθέδρα) și „va fi gol/va lipsi” (yipaked) prin același verb ca la „vei fi căutat” (ἐπισκέπτομαι); „lui” (lo) de după „a spus” nu are corespondent în greacă."
       }
      ],
      "refs": [
@@ -345,7 +345,7 @@
        "original": "καὶ τρισσεύσεις καὶ ἐπισκέψῃ καὶ ἥξεις εἰς τὸν τόπον σου οὗ ἐκρύβης ἐν τῇ ἡμέρᾳ τῇ ἐργασίμῃ καὶ καθήσῃ παρὰ τὸ εργαβ ἐκεῖνο",
        "greek": true,
        "translation": "„Și vei face trei zile și vei fi căutat și vei veni la locul tău, unde te-ai ascuns în ziua de lucru, și vei ședea lângă acel ergab.”",
-       "note": "Septuaginta nu traduce numele pietrei, ci îl dă ca „ergab” (ἐργάβ), și redă „în ziua faptei” prin „în ziua de lucru” (ἐργασίμῃ)."
+       "note": "În locul lui „vei coborî foarte” (tered meʼod), Septuaginta are „vei cerceta” (ἐπισκέψῃ), iar „locul” devine „locul tău” (τόπον σου); „piatra Ezel” este redată ca „ergab” (ἐργάβ), nume netradus, și „ziua faptei” prin „ziua de lucru” (ἐργασίμῃ)."
       }
      ],
      "refs": [
@@ -485,7 +485,7 @@
        "original": "καὶ ἐγὼ τρισσεύσω ταῖς σχίζαις ἀκοντίζων, ἐκπέμπων εἰς τὴν ἀματταρί.",
        "greek": true,
        "translation": "Și eu voi arunca de trei ori cu vergelele, trimițând spre ținta aceea.",
-       "note": "Vezi notele de la cuvintele tagate „săgeți” și „țintă” — Septuaginta folosește termeni aproximativi/netraduși pentru amândouă."
+       "note": "Septuaginta redă „trei săgeți” prin „voi arunca de trei ori cu vergelele” (τρισσεύσω ταῖς σχίζαις), cu σχίζα, „bucată despicată de lemn”, în loc de „săgeată”, și transliterează „țintă” (matara) ca ἀματταρί."
       }
      ],
      "refs": [],
@@ -767,7 +767,7 @@
        "original": "καὶ ἰδοὺ ἀποστελῶ τὸ παιδάριον λέγων δεῦρο εὑρέ μοι τὴν σχίζαν ἐὰν εἴπω λέγων τῷ παιδαρίῳ ὧδε ἡ σχίζα ἀπὸ σοῦ καὶ ὧδε λαβὲ αὐτήν παραγίνου ὅτι εἰρήνη σοι καὶ οὐκ ἔστιν λόγος ζῇ κύριος",
        "greek": true,
        "translation": "„Și iată, voi trimite tânărul, spunând: «Vino, găsește-mi vergeaua.» Dacă voi spune tânărului: «Iată, vergeaua e de la tine încoace, ia-o și vino», pace ție și nu este nicio vorbă — viu este Domnul.”",
-       "note": "Septuaginta redă „săgețile” prin „vergeaua” (σχίζα), la singular, și „te întorci” prin „vino” (παραγίνου)."
+       "note": "Septuaginta redă „săgețile” prin „vergeaua” (σχίζα), la singular, adaugă „mie” (μοι) după „găsește” și redă „te întorci” (uvaʼa) prin „vino” (παραγίνου)."
       }
      ],
      "refs": [
@@ -1265,7 +1265,7 @@
        "original": "Καὶ κρύπτεται Δαυὶδ ἐν ἀγρῷ, καὶ παραγίνεται ὁ μήν, καὶ ἔρχεται ὁ βασιλεὺς ἐπὶ τὴν τράπεζαν τοῦ φαγεῖν.",
        "greek": true,
        "translation": "Și David se ascunde pe câmp, și vine luna [nouă], și vine regele la masă ca să mănânce.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta folosește prezentul: „a venit [Luna Nouă]” (vayehi) este redat prin παραγίνεται, „a stat” (vayeshev) prin „vine” (ἔρχεται), iar „la ospăț” (ʻal-haleḥem) prin „la masă” (ἐπὶ τὴν τράπεζαν)."
       }
      ],
      "refs": [],
@@ -1740,7 +1740,7 @@
        "original": "καὶ οὐκ ἐλάλησεν Σαουλ οὐδὲν ἐν τῇ ἡμέρᾳ ἐκείνῃ ὅτι εἶπεν σύμπτωμα φαίνεται μὴ καθαρὸς εἶναι ὅτι οὐ κεκαθάρισται",
        "greek": true,
        "translation": "„Și Șaul n-a spus nimic în ziua aceea, căci a zis: «Se pare că este o întâmplare: nu este curat, căci nu s-a curățit.»”",
-       "note": "Septuaginta adaugă „se pare” (φαίνεται) la „întâmplare” și are o singură negație („nu este curat”) în loc de cele două ale ebraicii."
+       "note": "În locul primului „el este” (hu), Septuaginta are „se pare” (φαίνεται), construiește „nu este curat” ca infinitiv (μὴ καθαρὸς εἶναι) și redă „căci nu e curat” prin „căci nu s-a curățit” (οὐ κεκαθάρισται)."
       }
      ],
      "refs": [
@@ -2187,7 +2187,7 @@
        "original": "καὶ ἀπεκρίθη Ιωναθαν τῷ Σαουλ καὶ εἶπεν αὐτῷ παρῄτηται Δαυιδ παρ᾿ ἐμοῦ ἕως εἰς Βηθλεεμ τὴν πόλιν αὐτοῦ πορευθῆναι",
        "greek": true,
        "translation": "Și a răspuns Ionatan lui Șaul și i-a spus: «David mi-a cerut voie să plece până la Betleem, cetatea lui.»",
-       "note": "Septuaginta adaugă „cetatea lui” (τὴν πόλιν αὐτοῦ) după Betleem, ceea ce ebraica nu are în acest verset."
+       "note": "Septuaginta adaugă „și i-a spus” (εἶπεν αὐτῷ) după „a răspuns” și „cetatea lui” (τὴν πόλιν αὐτοῦ) după Betleem, ceea ce ebraica nu are în acest verset."
       }
      ],
      "refs": [],
@@ -2805,7 +2805,7 @@
        "original": "καὶ ἐθυμώθη ὀργῇ Σαοὺλ ἐπὶ ᾿Ιωνάθαν σφόδρα καὶ εἶπεν αὐτῷ· υἱὲ κορασίων αὐτομολούντων, οὐ γὰρ οἶδα ὅτι μέτοχος εἶ σὺ τῷ υἱῷ ᾿Ιεσσαὶ εἰς αἰσχύνην σου καὶ εἰς αἰσχύνην ἀποκαλύψεως μητρός σου;",
        "greek": true,
        "translation": "Și s-a aprins Șaul de mânie foarte tare împotriva lui Ionatan și i-a spus: «Fiu al unor fecioare dezertoare! N-am știut eu că ești asociat cu fiul lui Ișai, spre rușinea ta și spre rușinea descoperirii mamei tale?»",
-       "note": "Diferență majoră: unde ebraica are „fiu de femeie nesupusă [și] răzvrătită” (ben naavat hamardut), Septuaginta citește „fiu al unor fecioare dezertoare” (υἱὲ κορασίων αὐτομολούντων) — o traducere complet diferită a aceleiași expresii idiomatice rare, semn că traducătorii eleniști nu mai recunoșteau sensul ei exact."
+       "note": "Unde ebraica are „fiu de femeie nesupusă [și] răzvrătită” (ben naʻavat hamardut), Septuaginta are „fiu al unor fecioare dezertoare” (υἱὲ κορασίων αὐτομολούντων); „tu îl preferi” (boḥer) este redat prin „ești asociat cu” (μέτοχος εἶ) și „goliciunea” (ʻervat) prin „descoperirea” (ἀποκαλύψεως)."
       }
      ],
      "refs": [
@@ -3039,7 +3039,7 @@
        "original": "ὅτι πάσας τὰς ἡμέρας, ἃς ὁ υἱὸς ᾿Ιεσσαὶ ζῇ ἐπὶ τῆς γῆς, οὐχ ἑτοιμασθήσεται ἡ βασιλεία σου· νῦν οὖν ἀποστείλας λάβε τὸν νεανίαν, ὅτι υἱὸς θανάτου οὗτος.",
        "greek": true,
        "translation": "Căci în toate zilele cât fiul lui Ișai va trăi pe pământ, nu se va întemeia regatul tău; acum deci, trimite și adu-l pe tânăr, căci acesta este fiu al morții.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta nu are „tu” (ʼatta) înaintea lui „și regatul tău”, redă „va fi întemeiat” (tikkon) prin ἑτοιμασθήσεται, omite „la mine” (elay) și adaugă obiectul „pe tânăr” (τὸν νεανίαν) după „adu-l”."
       }
      ],
      "refs": [
@@ -3182,7 +3182,7 @@
        "original": "καὶ ἀπεκρίθη Ιωναθαν τῷ Σαουλ ἵνα τί ἀποθνῄσκει τί πεποίηκεν",
        "greek": true,
        "translation": "Și a răspuns Ionatan lui Șaul: «De ce să moară? Ce a făcut?»",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta nu are „tatăl său” (aviv) și „i-a spus” (vayomer elav) și redă „să fie omorât” (yumat) prin „să moară” (ἀποθνῄσκει)."
       }
      ],
      "refs": [
@@ -3373,7 +3373,7 @@
        "original": "καὶ ἐπῆρεν Σαουλ τὸ δόρυ ἐπὶ Ιωναθαν τοῦ θανατῶσαι αὐτόν καὶ ἔγνω Ιωναθαν ὅτι συντετέλεσται ἡ κακία αὕτη παρὰ τοῦ πατρὸς αὐτοῦ θανατῶσαι τὸν Δαυιδ",
        "greek": true,
        "translation": "Și a ridicat Șaul lancea împotriva lui Ionatan ca să-l ucidă. Și a cunoscut Ionatan că s-a desăvârșit acest rău din partea tatălui său, de a-l ucide pe David.",
-       "note": "Unde ebraica spune că Șaul a aruncat sulița „ca să-l lovească” (lehakoto), Septuaginta are „ca să-l ucidă” (θανατῶσαι), iar verbul „a aruncat” este redat prin „a ridicat” (ἐπῆρεν)."
+       "note": "Unde ebraica spune că Șaul a aruncat sulița „ca să-l lovească” (lehakoto), Septuaginta are „ca să-l ucidă” (θανατῶσαι), iar verbul „a aruncat” (vayyatel) este redat prin „a ridicat” (ἐπῆρεν); la „hotărâse” Septuaginta adaugă substantivul „răul acesta” (ἡ κακία αὕτη)."
       }
      ],
      "refs": [
@@ -3599,7 +3599,7 @@
        "original": "καὶ ἀνεπήδησεν ᾿Ιωνάθαν ἀπὸ τῆς τραπέζης ἐν ὀργῇ θυμοῦ καὶ οὐκ ἔφαγεν ἐν τῇ δευτέρᾳ τοῦ μηνὸς ἄρτον, ὅτι ἐθραύσθη ἐπὶ τὸν Δαυίδ, ὅτι συνετέλεσεν ἐπ᾿ αὐτὸν ὁ πατὴρ αὐτοῦ.",
        "greek": true,
        "translation": "Și s-a ridicat Ionatan de la masă în mânie aprinsă și n-a mâncat pâine în ziua a doua a lunii, căci era zdrobit din pricina lui David, pentru că tatăl lui îl desăvârșise [în rău] asupra lui.",
-       "note": "Corespondență apropiată cu Textul Masoretic."
+       "note": "Septuaginta redă „a fost umilit” (hikhlimo) prin „a hotărât [răul] împotriva lui” (συνετέλεσεν ἐπ᾽ αὐτόν), același verb ca la 20:33, și „s-a întristat” (neʻtsav) prin „a fost zdrobit” (ἐθραύσθη)."
       }
      ],
      "refs": [
@@ -5063,7 +5063,7 @@
        "original": "καὶ ὡς εἰσῆλθεν τὸ παιδάριον καὶ Δαυιδ ἀνέστη ἀπὸ τοῦ εργαβ καὶ ἔπεσεν ἐπὶ πρόσωπον αὐτοῦ καὶ προσεκύνησεν αὐτῷ τρίς καὶ κατεφίλησεν ἕκαστος τὸν πλησίον αὐτοῦ καὶ ἔκλαυσεν ἕκαστος τῷ πλησίον αὐτοῦ ἕως συντελείας μεγάλης",
        "greek": true,
        "translation": "Și cum a intrat tânărul, David s-a ridicat de la ergab și a cădut cu fața [la pământ] și s-a prosternat de trei ori, și s-au sărutat unul pe altul, și au plâns unul pentru altul până la o mare desăvârșire.",
-       "note": "Unde ebraica are „din partea de miazăzi” (mēēțel hanegev), Septuaginta are „de la ergab” (ἀπὸ τοῦ ἐργάβ), același nume transliterat ca la 20:19, și redă „până când David a plâns și mai mult” prin „până la o mare sfârșire” (ἕως συντελείας μεγάλης)."
+       "note": "Unde ebraica are „din partea de miazăzi” (meʼetsel hanegev), Septuaginta are „de la ergab” (ἀπὸ τοῦ ἐργάβ), același nume transliterat ca la 20:19, și redă „până când David [a plâns] și mai mult” prin „până la o mare desăvârșire” (ἕως συντελείας μεγάλης)."
       }
      ],
      "refs": [
@@ -5874,7 +5874,7 @@
        "original": "πάντα γὰρ ταῦτα ἐποίησεν ἡ χείρ μου, καὶ ἔστιν ἐμὰ πάντα ταῦτα, λέγει Κύριος· καὶ ἐπὶ τίνα ἐπιβλέψω, ἀλλ᾿ ἢ ἐπὶ τὸν ταπεινὸν καὶ ἡσύχιον καὶ τρέμοντα τοὺς λόγους μου;",
        "greek": true,
        "translation": "Căci toate acestea mâna Mea le-a făcut, și sunt ale Mele toate acestea, spune Domnul; și spre cine voi privi, decât spre cel smerit și liniștit și care tremură la cuvintele Mele?",
-       "note": "Septuaginta redă „cu duhul obidit” prin „liniștit” (ἡσύχιον) și „zelos” prin „care tremură” (τρέμοντα)."
+       "note": "Septuaginta redă „au luat ființă” (vayihyu) prin „sunt ale Mele” (ἔστιν ἐμά), transformă „la aceasta Mă uit” într-o întrebare („spre cine voi privi, decât spre…”), redă „sărman” prin „smerit” (ταπεινόν), „cu duhul obidit” prin „liniștit” (ἡσύχιον) și „care tremură” (ḥared) prin τρέμοντα."
       }
      ],
      "refs": [
@@ -6529,7 +6529,7 @@
        "original": "κἀγὼ ἐκλέξομαι τὰ ἐμπαίγματα αὐτῶν καὶ τὰς ἁμαρτίας ἀνταποδώσω αὐτοῖς ὅτι ἐκάλεσα αὐτοὺς καὶ οὐχ ὑπήκουσάν μου ἐλάλησα καὶ οὐκ ἤκουσαν καὶ ἐποίησαν τὸ πονηρὸν ἐναντίον μου καὶ ἃ οὐκ ἐβουλόμην ἐξελέξαντο",
        "greek": true,
        "translation": "Și Eu voi alege batjocurile lor și le voi răsplăti păcatele; căci i-am chemat și nu M-au ascultat, am grăit și n-au auzit, și au făcut răul înaintea Mea, și au ales ceea ce n-am voit.",
-       "note": "Septuaginta redă „de ce se tem” (megurotam) prin „păcatele lor” (ἁμαρτίας) și are „le voi răsplăti” (ἀνταποδώσω) în loc de „voi aduce peste ei”."
+       "note": "Septuaginta redă „de ce se tem” (megurotam) prin „păcatele lor” (ἁμαρτίας), are „le voi răsplăti” (ἀνταποδώσω) în loc de „voi aduce peste ei” și redă „n-a răspuns nimeni” (ein oneh) prin „nu M-au ascultat” (οὐχ ὑπήκουσάν μου)."
       }
      ],
      "refs": [
@@ -8265,7 +8265,7 @@
        "original": "ὅτι τάδε λέγει Κύριος· ἰδοὺ ἐγὼ ἐκκλίνω εἰς αὐτοὺς ὡς ποταμὸς εἰρήνης καὶ ὡς χειμάρρους ἐπικλύζων δόξαν ἐθνῶν· τὰ παιδία αὐτῶν ἐπ᾿ ὤμων ἀρθήσονται καὶ ἐπὶ γονάτων παρακληθήσονται.",
        "greek": true,
        "translation": "Căci așa spune Domnul: «Iată, Eu înclin spre ei ca un râu de pace și ca un torent revărsând gloria neamurilor; copiii lor vor fi purtați pe umeri și pe genunchi vor fi mângâiați.»",
-       "note": "Septuaginta are „Eu înclin spre ei” (ἐκκλίνω) în loc de „voi îndrepta spre el”, „copiii lor” (τὰ παιδία αὐτῶν) ca subiect al purtării pe umeri și „vor fi mângâiați” (παρακληθήσονται) în loc de „vor fi legănați”."
+       "note": "Septuaginta are „Eu înclin spre ei” (ἐκκλίνω εἰς αὐτούς) în loc de „voi îndrepta spre el” (eleha), omite „veți fi hrăniți” (vinaqtem), face din „copiii lor” (τὰ παιδία αὐτῶν) subiectul purtării „pe umeri” (ἐπ᾽ ὤμων) și redă „vor fi legănați” prin „vor fi mângâiați” (παρακληθήσονται)."
       }
      ],
      "refs": [
@@ -9496,7 +9496,7 @@
        "original": "κἀγὼ τὰ ἔργα αὐτῶν καὶ τὸν λογισμὸν αὐτῶν ἐπίσταμαι ἔρχομαι συναγαγεῖν πάντα τὰ ἔθνη καὶ τὰς γλώσσας καὶ ἥξουσιν καὶ ὄψονται τὴν δόξαν μου",
        "greek": true,
        "translation": "Iar Eu cunosc faptele lor și cugetul lor; vin să adun toate neamurile și limbile, și vor veni și vor vedea gloria Mea.",
-       "note": "Septuaginta are „vin să adun” (ἔρχομαι συναγαγεῖν), cu DOMNUL ca subiect, unde ebraica are „[vremea] a venit să se adune” (baa lekabēț), și „cugetul lor” (λογισμόν) la singular."
+       "note": "Septuaginta explicitează „cunosc” (ἐπίσταμαι), pe care ebraica îl lasă subînțeles; are „vin să adun” (ἔρχομαι συναγαγεῖν), cu DOMNUL ca subiect, unde ebraica are „[vremea] a venit să se adune” (baʼa lekabēts), și „cugetul lor” (λογισμόν) la singular."
       }
      ],
      "refs": [
@@ -10247,7 +10247,7 @@
        "original": "καὶ ἄξουσιν τοὺς ἀδελφοὺς ὑμῶν ἐκ πάντων τῶν ἐθνῶν δῶρον κυρίῳ μεθ᾿ ἵππων καὶ ἁρμάτων ἐν λαμπήναις ἡμιόνων μετὰ σκιαδίων εἰς τὴν ἁγίαν πόλιν Ιερουσαλημ εἶπεν κύριος ὡς ἂν ἐνέγκαισαν οἱ υἱοὶ Ισραηλ ἐμοὶ τὰς θυσίας αὐτῶν μετὰ ψαλμῶν εἰς τὸν οἶκον κυρίου",
        "greek": true,
        "translation": "Și vor aduce pe frații voștri din toate neamurile [ca] dar Domnului, cu cai și care, în trăsuri de catâri, cu umbrele, spre cetatea sfântă Ierusalim, a spus Domnul, așa cum ar aduce fiii lui Israel jertfele lor Mie, cu psalmi, în Casa Domnului.",
-       "note": "Septuaginta are „în trăsuri de catâri, cu umbrele” (ἐν λαμπήναις ἡμιόνων μετὰ σκιαδίων) în locul enumerării ebraice „în căruțe, pe catâri, pe dromaderi” și adaugă „cu psalmi” (μετὰ ψαλμῶν) la aducerea jertfelor în Casa DOMNULUI."
+       "note": "Septuaginta are „în trăsuri de catâri, cu umbrele” (ἐν λαμπήναις ἡμιόνων μετὰ σκιαδίων) în locul enumerării ebraice „în căruțe, pe catâri, pe dromaderi”, redă „pe muntele Meu sfânt” (ʻal har qodshi) prin „spre cetatea sfântă” (εἰς τὴν ἁγίαν πόλιν) și adaugă „cu psalmi” (μετὰ ψαλμῶν) în locul lui „într-un vas curat” (bikhli tahor)."
       }
      ],
      "refs": [
@@ -10379,7 +10379,7 @@
        "original": "καὶ ἀπ᾿ αὐτῶν λήμψομαι ἐμοὶ ἱερεῖς καὶ Λευίτας εἶπεν κύριος",
        "greek": true,
        "translation": "Și dintre ei voi lua Mie preoți și leviți, a spus Domnul.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta adaugă „Mie” (ἐμοί) după „voi lua” și redă „pentru preoți, pentru leviți” prin „preoți și leviți”, fără prepoziția ebraică (la-)."
       }
      ],
      "refs": [
@@ -10613,7 +10613,7 @@
        "original": "ὃν τρόπον γὰρ ὁ οὐρανὸς καινὸς καὶ ἡ γῆ καινή ἃ ἐγὼ ποιῶ μένει ἐνώπιόν μου λέγει κύριος οὕτως στήσεται τὸ σπέρμα ὑμῶν καὶ τὸ ὄνομα ὑμῶν",
        "greek": true,
        "translation": "Căci precum cerul cel nou și pământul cel nou, pe care Eu le fac, dăinuie înaintea Mea, spune Domnul, așa va sta sămânța voastră și numele vostru.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta are „cerul cel nou” la singular (ὁ οὐρανὸς καινός), ca la 66:1, față de „cerurile cele noi” (hashamayim haḥadashim) din ebraică."
       }
      ],
      "refs": [
@@ -11479,7 +11479,7 @@
        "original": "τέρπου καὶ εὐφραίνου, θύγατερ Σιών, διότι ἰδοὺ ἐγὼ ἔρχομαι καὶ κατασκηνώσω ἐν μέσῳ σου, λέγει Κύριος.",
        "greek": true,
        "translation": "„Veselește-te și bucură-te, fiica Sionului, căci iată Eu vin și voi sălășlui în mijlocul tău, zice Domnul.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „cântă” (roni) prin „veselește-te” (τέρπου) și „iată-Mă” (hineni) prin „iată, Eu” (ἰδοὺ ἐγώ)."
       }
      ],
      "refs": [
@@ -12496,7 +12496,7 @@
        "original": "καὶ εἶπεν κύριος πρὸς τὸν διάβολον ἐπιτιμήσαι κύριος ἐν σοί διάβολε καὶ ἐπιτιμήσαι κύριος ἐν σοὶ ὁ ἐκλεξάμενος τὴν Ιερουσαλημ οὐκ ἰδοὺ τοῦτο ὡς δαλὸς ἐξεσπασμένος ἐκ πυρός",
        "greek": true,
        "translation": "„Și a zis Domnul către diavol: Să te certe Domnul, diavole, și să te certe Domnul, Cel ce a ales Ierusalimul! Oare nu este acesta ca un tăciune smuls din foc?”",
-       "note": "Corespondență strânsă cu Textul Masoretic; Septuaginta redă Satan prin „diavol” și verbul „a mustra” prin ἐπιτιμήσαι."
+       "note": "Septuaginta redă Satan prin „diavol” (διάβολε) și „a mustra” (yigʻar) prin ἐπιτιμήσαι, adaugă „ca” (ὡς) înaintea „tăciunelui” și „iată” (ἰδού) în întrebarea finală."
       }
      ],
      "refs": [
@@ -13289,7 +13289,7 @@
        "original": "καὶ διεμαρτύρατο ὁ ἄγγελος Κυρίου πρὸς ᾿Ιησοῦν λέγων·",
        "greek": true,
        "translation": "„Și a mărturisit îngerul Domnului către Iisus, zicând:”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „a avertizat” (vayyaʻad) prin „a depus mărturie solemn” (διεμαρτύρατο); numele lui Ioșua este scris Ἰησοῦς."
       }
      ],
      "refs": [
@@ -13587,7 +13587,7 @@
        "original": "τάδε λέγει Κύριος παντοκράτωρ· ἐὰν ἐν ταῖς ὁδοῖς μου πορεύῃ καὶ ἐὰν τὰ προστάγματά μου φυλάξῃς, καὶ σὺ διακρινεῖς τὸν οἶκόν μου· καὶ ἐὰν διαφυλάξῃς καί γε τὴν αὐλήν μου, καὶ δώσω σοι ἀναστρεφομένους ἐν μέσῳ τῶν ἑστηκότων τούτων.",
        "greek": true,
        "translation": "„Așa zice Domnul Atotțiitorul: Dacă vei umbla în căile Mele și dacă vei păzi poruncile Mele, și tu vei judeca Casa Mea; și dacă vei păzi și curtea Mea, îți voi da oameni care să umble în mijlocul acestora care stau aici.”",
-       "note": "Septuaginta redă mahlehim prin „oameni care umblă” (ἀναστρεφομένους), adică însoțitori, nu drept de a umbla."
+       "note": "Septuaginta redă „sarcina Mea” (mishmarti) prin „poruncile Mele” (προστάγματά μου), „curțile Mele” prin „curtea Mea” (αὐλήν, singular), „vei guverna” (tadin) prin „vei judeca” (διακρινεῖς) și mahlekhim, „cei care umblă”, prin „oameni care umblă” (ἀναστρεφομένους), ca persoane care îi sunt date."
       }
      ],
      "refs": [
@@ -15735,7 +15735,7 @@
        "original": "τίς εἶ σύ τὸ ὄρος τὸ μέγα πρὸ προσώπου Ζοροβαβελ τοῦ κατορθῶσαι καὶ ἐξοίσω τὸν λίθον τῆς κληρονομίας ἰσότητα χάριτος χάριτα αὐτῆς",
        "greek": true,
        "translation": "„Cine ești tu, muntele cel mare, înaintea lui Zorobabel, ca să-l îndrepți? Și voi scoate piatra moștenirii, egalitatea harului, harul ei.”",
-       "note": "Divergență reală: Septuaginta citește „piatra moștenirii” (τὸν λίθον τῆς κληρονομίας) în loc de „piatra cea dintâi”, redă „loc neted” prin „ca să-l îndrepți” (κατορθῶσαι), iar „strigătele de «Har, har»” devin „egalitatea harului, harul ei”."
+       "note": "Divergență reală: Septuaginta citește „piatra moștenirii” (τὸν λίθον τῆς κληρονομίας) în loc de „piatra cea dintâi”, redă „loc neted” prin „ca să-l îndrepți” (κατορθῶσαι), „el va scoate” prin „voi scoate” (ἐξοίσω), iar „strigătele de «Har, har»” devin „egalitatea harului, harul ei”."
       }
      ],
      "refs": [
@@ -16027,7 +16027,7 @@
        "original": "καὶ ἐποίησεν Χιραμ τοὺς λέβητας καὶ τὰς θερμάστρεις καὶ τὰς φιάλας καὶ συνετέλεσεν Χιραμ ποιῶν πάντα τὰ ἔργα ἃ ἐποίησεν τῷ βασιλεῖ Σαλωμων ἐν οἴκῳ κυρίου",
        "greek": true,
        "translation": "„Și Hiram a făcut cazanele, lopețile și cupele; și Hiram a isprăvit de făcut toate lucrările pe care le-a făcut pentru regele Solomon în casa Domnului:”",
-       "note": "Unde ebraica are „ligheanele” (hakiorot), Septuaginta are „cazanele” (λέβητας), iar „vasele pentru sânge” (hamizrakot) sunt redate prin „cupele” (φιάλας); „toată lucrarea” devine „toate lucrările” (πάντα τὰ ἔργα)."
+       "note": "Septuaginta redă „ligheanele” (hakiorot) prin „cazanele” (λέβητας), „lopețile” (hayaʻim) prin θερμάστρεις, „vasele pentru stropit” (hamizrakot) prin „cupele” (φιάλας), iar „toată lucrarea” prin „toate lucrările” (πάντα τὰ ἔργα)."
       }
      ],
      "refs": [
@@ -16563,7 +16563,7 @@
        "original": "τὰς ῥόας τετρακοσίας ἀμφοτέροις τοῖς δικτύοις δύο στίχοι ῥοῶν τῷ δικτύῳ τῷ ἑνὶ περικαλύπτειν ἀμφότερα τὰ στρεπτὰ ἐπ᾿ ἀμφοτέροις τοῖς στύλοις",
        "greek": true,
        "translation": "„rodiile, patru sute, pentru amândouă rețelele: două rânduri de rodii pentru o rețea, ca să acopere amândouă cele răsucite de pe amândoi stâlpii;”",
-       "note": "Unde ebraica are „cele două globuri ale capitelurilor” (gulot hakotarot), Septuaginta are „cele răsucite” (τὰ στρεπτά) de pe amândoi stâlpii; nu are „fiecărui set” ca atare, ci „pentru o rețea” (τῷ δικτύῳ τῷ ἑνί)."
+       "note": "Unde ebraica are „cele două globuri ale capitelurilor” (gulot hakotarot), Septuaginta are „cele răsucite” (τὰ στρεπτά) de pe amândoi stâlpii; în rest urmează ebraica: „patru sute de rodii”, „două rânduri” (στίχοι) și „pentru o rețea” (τῷ δικτύῳ τῷ ἑνί)."
       }
      ],
      "refs": [],
@@ -16789,7 +16789,7 @@
        "original": "καὶ τὴν θάλασσαν μίαν καὶ τοὺς βόας δώδεκα ὑποκάτω τῆς θαλάσσης",
        "greek": true,
        "translation": "„și marea, una, și boii, doisprezece, sub mare;”",
-       "note": "Același înțeles."
+       "note": "Corespondență strânsă cu Textul Masoretic: „Marea” (hayam) este redată prin τὴν θάλασσαν și „boii” prin τοὺς βόας, fără diferență de conținut."
       }
      ],
      "refs": [],
@@ -17034,7 +17034,7 @@
        "original": "καὶ τοὺς λέβητας καὶ τὰς θερμάστρεις καὶ τὰς φιάλας καὶ πάντα τὰ σκεύη ἃ ἐποίησεν Χιραμ τῷ βασιλεῖ Σαλωμων τῷ οἴκῳ κυρίου καὶ οἱ στῦλοι τεσσαράκοντα καὶ ὀκτὼ τοῦ οἴκου τοῦ βασιλέως καὶ τοῦ οἴκου κυρίου πάντα τὰ ἔργα τοῦ βασιλέως ἃ ἐποίησεν Χιραμ χαλκᾶ ἄρδην",
        "greek": true,
        "translation": "„și cazanele, lopețile și cupele și toate vasele pe care le-a făcut Hiram pentru regele Solomon, pentru casa Domnului; și stâlpii, patruzeci și opt, ai casei regelui și ai casei Domnului; toate lucrările regelui pe care le-a făcut Hiram, de aramă (ἄρδην).”",
-       "note": "Septuaginta adaugă „și stâlpii, patruzeci și opt, ai casei regelui și ai casei Domnului”, cuvinte care nu sunt în ebraică; „aramă lustruită” (nehoșet memorat) devine „de aramă” (χαλκᾶ) urmat de ἄρδην."
+       "note": "Septuaginta redă „oalele” (hasirot) prin „cazanele” (λέβητας) și adaugă „și stâlpii, patruzeci și opt, ai casei regelui și ai casei Domnului”, cuvinte care nu sunt în ebraică; „aramă lustruită” (nehoshet memorat) devine „de aramă” (χαλκᾶ), urmat de ἄρδην."
       }
      ],
      "refs": [
@@ -17193,7 +17193,7 @@
        "original": "ἐν τῷ περιοίκῳ τοῦ Ιορδάνου ἐχώνευσεν αὐτὰ ὁ βασιλεὺς ἐν τῷ πάχει τῆς γῆς ἀνὰ μέσον Σοκχωθ καὶ ἀνὰ μέσον Σιρα",
        "greek": true,
        "translation": "„În ținutul din jurul Iordanului le-a turnat regele, în grosimea pământului, între Sokhot și Sira.”",
-       "note": "Septuaginta are „Sira” (Σιρα) în loc de „Țartan”; „câmpia” (kikar) este redată prin „ținutul din jur” (περιοίκῳ); în greacă, versetele 46 și 47 ale ebraicii sunt în ordine inversă (III Regate 7:33 și 7:32)."
+       "note": "Septuaginta are „Sira” (Σιρα) în loc de „Țartan” și redă „câmpia” (kikkar) prin „ținutul din jur” (περιοίκῳ) și „în clei tare” (bema‘avē ha’adamah, „în grosimea pământului”) prin ἐν τῷ πάχει τῆς γῆς."
       }
      ],
      "refs": [
@@ -18106,7 +18106,7 @@
        "original": "καὶ τὰ πρόθυρα καὶ οἱ ἧλοι καὶ αἱ φιάλαι καὶ τὰ τρύβλια καὶ αἱ θυίσκαι χρυσαῖ σύγκλειστα καὶ τὰ θυρώματα τῶν θυρῶν τοῦ οἴκου τοῦ ἐσωτάτου ἁγίου τῶν ἁγίων καὶ τὰς θύρας τοῦ οἴκου τοῦ ναοῦ χρυσᾶς",
        "greek": true,
        "translation": "„și ușile de la intrare (πρόθυρα), cuiele, cupele, farfuriile și cădelnițele, de aur închis; și tocurile ușilor casei celei mai dinăuntru, a Sfintei Sfintelor, și ușile casei templului, de aur.”",
-       "note": "Lista vaselor din Septuaginta diferă de cea din ebraică (πρόθυρα, ἧλοι, φιάλαι, τρύβλια, θυίσκαι); Septuaginta are „tocurile ușilor” (θυρώματα) unde ebraica are „balamalele” (potot) și „ușile casei templului” unde ebraica are „ușile Sălii”."
+       "note": "Lista vaselor din Septuaginta diferă de cea din ebraică: în locul lui hasipot, hamezamerot, hamizrakot, hakapot și hamahtot are πρόθυρα, ἧλοι, φιάλαι, τρύβλια și θυίσκαι, iar „balamalele” (hapotot) devin „tocurile ușilor” (θυρώματα)."
       }
      ],
      "refs": [
@@ -19634,7 +19634,7 @@
        "original": "ἐν ἔτει ἑβδόμῳ τῷ ᾿Ιοὺ ἐβασίλευσεν ᾿Ιωὰς καὶ τεσσαράκοντα ἔτη ἐβασίλευσεν ἐν ῾Ιερουσαλήμ, καὶ ὄνομα τῆς μητρὸς αὐτοῦ ᾿Αβιὰ ἐκ τῆς Βηρσαβεέ.",
        "greek": true,
        "translation": "În anul al șaptelea al lui Iu a început să domnească Ioas, și patruzeci de ani a domnit în Ierusalim, și numele mamei lui [era] Abia, din Bersabee.",
-       "note": "Vezi nota de la cuvântul tagat „Țivia” — Septuaginta are „Abia”, nume diferit."
+       "note": "Septuaginta are „Abia” (Ἀβιά) în loc de „Țivia” (Tzivyah) ca nume al mamei, transcrie „Iehu” ca Ἰού, „Iehoaș” ca Ἰωάς și „Beer-Șeva” ca Βηρσαβεέ."
       }
      ],
      "refs": [
@@ -19823,7 +19823,7 @@
        "original": "καὶ ἐποίησεν ᾿Ιωὰς τὸ εὐθὲς ἐνώπιον Κυρίου πάσας τὰς ἡμέρας, ἃς ἐφώτισεν αὐτὸν ᾿Ιωδαὲ ὁ ἱερεύς·",
        "greek": true,
        "translation": "Și a făcut Ioas ce era drept înaintea Domnului în toate zilele în care l-a luminat Iodae preotul.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „l-a îndrumat” (horahu) prin „l-a luminat” (ἐφώτισεν) și transcrie numele preotului ca Ἰωδαέ."
       }
      ],
      "refs": [
@@ -20375,7 +20375,7 @@
        "original": "καὶ εἶπεν ᾿Ιωὰς πρὸς τοὺς ἱερεῖς· πᾶν τὸ ἀργύριον τῶν ἁγίων τὸ εἰσοδιαζόμενον ἐν τῷ οἴκῳ Κυρίου, ἀργύριον συντιμήσεως, ἀνὴρ ἀργύριον λαβὼν συντιμήσεως, πᾶν ἀργύριον, ὃ ἐὰν ἀναβῇ ἐπὶ καρδίαν ἀνδρὸς ἐνεγκεῖν ἐν οἴκῳ Κυρίου,",
        "greek": true,
        "translation": "Și a spus Ioas către preoți: «Tot argintul sfințit care se aduce în Casa Domnului, argintul prețuirii, bărbatul care dă argint de prețuire, tot argintul pe care-l pune pe inima lui un om să-l aducă în Casa Domnului,",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „banii celor care trec” (kesef ʻover) prin „argintul prețuirii” (ἀργύριον συντιμήσεως) și „banii fiecărui om pentru prețuirea sa” (ish kesef nafshot ʻerko) prin „bărbatul care a luat argint de prețuire”, fără „suflete” (nefashot); „sunt aduși” este redat prin εἰσοδιαζόμενον."
       }
      ],
      "refs": [
@@ -20798,7 +20798,7 @@
        "original": "καὶ ἐγενήθη ἐν τῷ εἰκοστῷ καὶ τρίτῳ ἔτει τῷ βασιλεῖ ᾿Ιωὰς οὐκ ἐκραταίωσαν οἱ ἱερεῖς τὸ βεδὲκ τοῦ οἴκου.",
        "greek": true,
        "translation": "Și a fost, în anul al douăzeci și treilea al regelui Ioas, [că] preoții n-au întărit bedek-ul Casei.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta transcrie „reparația” (bedek) ca βεδεκ, ca la 12:6, și redă „au susținut” (hizzequ) prin „au întărit” (ἐκραταίωσαν)."
       }
      ],
      "refs": [
@@ -21269,7 +21269,7 @@
        "original": "καὶ συνεφώνησαν οἱ ἱερεῖς τοῦ μὴ λαβεῖν ἀργύριον παρὰ τοῦ λαοῦ καὶ τοῦ μὴ ἐνισχῦσαι τὸ βεδὲκ τοῦ οἴκου.",
        "greek": true,
        "translation": "Și s-au învoit preoții să nu mai ia argint de la popor și să nu mai întărească bedek-ul Casei.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „au acceptat” (vayeʼotu) prin „s-au învoit” (συνεφώνησαν) și transcrie „reparația” (bedek) ca βεδεκ."
       }
      ],
      "refs": [],
@@ -21675,7 +21675,7 @@
        "original": "καὶ ἔλαβεν Ιωδαε ὁ ἱερεὺς κιβωτὸν μίαν καὶ ἔτρησεν τρώγλην ἐπὶ τῆς σανίδος αὐτῆς καὶ ἔδωκεν αὐτὴν παρὰ ιαμιβιν ἐν τῷ οἴκῳ ἀνδρὸς οἴκου κυρίου καὶ ἔδωκαν οἱ ἱερεῖς οἱ φυλάσσοντες τὸν σταθμὸν πᾶν τὸ ἀργύριον τὸ εὑρεθὲν ἐν οἴκῳ κυρίου",
        "greek": true,
        "translation": "„Și a luat Iodae preotul un singur cufăr și a făcut o gaură în capacul lui și l-a pus lângă iamibin, în casa omului Casei Domnului; și preoții care păzeau pragul au pus în el tot argintul găsit în Casa Domnului.”",
-       "note": "Septuaginta nu traduce „în partea dreaptă” (miamin), ci o transcrie ca nume (ιαμιβιν), și are „în casa omului Casei Domnului”."
+       "note": "Septuaginta nu are „lângă altar” (etsel hamizbeach), nu traduce „în partea dreaptă” (miyamin), ci o transcrie ca nume (ιαμιβιν), redă „cum se intră” prin „în casa omului” (ἐν τῷ οἴκῳ ἀνδρός) și „banii aduși” (hamuva) prin „argintul găsit” (τὸ εὑρεθέν)."
       }
      ],
      "refs": [
@@ -22220,7 +22220,7 @@
        "original": "καὶ ἔδωκαν τὸ ἀργύριον τὸ ἑτοιμασθὲν ἐπὶ χεῖρας ποιούντων τὰ ἔργα τῶν ἐπισκόπων οἴκου κυρίου καὶ ἐξέδοσαν τοῖς τέκτοσιν τῶν ξύλων καὶ τοῖς οἰκοδόμοις τοῖς ποιοῦσιν ἐν οἴκῳ κυρίου",
        "greek": true,
        "translation": "Și au dat argintul pregătit în mâinile celor care făceau lucrările, supraveghetorii Casei Domnului, și l-au dat tâmplarilor lemnului și zidarilor care lucrau în Casa Domnului,",
-       "note": "Septuaginta redă „numiți” (hamufkadim) prin „supraveghetorii” (ἐπισκόπων) și „tâmplarii” prin „meșterii lemnului” (τέκτοσιν τῶν ξύλων)."
+       "note": "Septuaginta redă „banii numărați” (hamutkan) prin „argintul pregătit” (τὸ ἑτοιμασθέν), „cei numiți” (hapekudim) prin „supraveghetorii” (ἐπισκόπων) și „tâmplarii” (harashe haʻets) prin „meșterii lemnului” (τέκτοσιν τῶν ξύλων)."
       }
      ],
      "refs": [
@@ -22487,7 +22487,7 @@
        "original": "καὶ τοῖς τειχισταῖς καὶ τοῖς λατόμοις τῶν λίθων τοῦ κτήσασθαι ξύλα καὶ λίθους λατομητοὺς τοῦ κατασχεῖν τὸ βεδὲκ οἴκου Κυρίου εἰς πάντα, ὅσα ἐξωδιάσθη ἐπὶ τὸν οἶκον τοῦ κραταιῶσαι·",
        "greek": true,
        "translation": "și zidarilor și pietrarilor pietrelor, ca să procure lemne și pietre cioplite, ca să țină bedek-ul Casei Domnului, pentru tot ce s-a cheltuit pentru întărirea [ei];",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „pietrarii” (godrim) prin „zidarii” (τειχισταῖς) și „să susțină” (lehazzek) prin „să țină” (κατασχεῖν); „restaurarea” (bedek) este transcrisă βεδεκ."
       }
      ],
      "refs": [
@@ -23235,7 +23235,7 @@
        "original": "ἀργύριον περὶ ἁμαρτίας καὶ ἀργύριον περὶ πλημμελείας, ὅ,τι εἰσηνέχθη ἐν οἴκῳ Κυρίου, τοῖς ἱερεῦσιν ἐγένετο.",
        "greek": true,
        "translation": "Argintul pentru păcat și argintul pentru greșeală, ce s-a adus în Casa Domnului, al preoților a fost.",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta nu are negația „nu” (lo): „ce s-a adus în Casa Domnului, al preoților a fost”, în loc de „nu au fost aduși în Casa DOMNULUI, ci ai preoților au fost”; ordinea celor două feluri de bani este inversată (întâi „pentru păcat”, apoi „pentru greșeală/vină”)."
       }
      ],
      "refs": [
@@ -23501,7 +23501,7 @@
        "original": "καὶ εἶπεν Σαμουηλ πρὸς Σαουλ ἐμὲ ἀπέστειλεν κύριος χρῖσαί σε εἰς βασιλέα ἐπὶ Ισραηλ καὶ νῦν ἄκουε τῆς φωνῆς κυρίου",
        "greek": true,
        "translation": "Și a spus Samuel către Saul: «Pe mine m-a trimis Domnul să te ung rege peste Israel, și acum ascultă glasul Domnului.»",
-       "note": "Septuaginta nu are „peste poporul Său” (al amo): spune doar „rege peste Israel”."
+       "note": "Septuaginta nu are „peste poporul Său” (ʻal ʻamo): spune doar „rege peste Israel”; „glasul cuvintelor DOMNULUI” devine „glasul Domnului” (τῆς φωνῆς κυρίου), fără „cuvintele”."
       }
      ],
      "refs": [
@@ -23713,7 +23713,7 @@
        "original": "τάδε εἶπεν κύριος σαβαωθ νῦν ἐκδικήσω ἃ ἐποίησεν Αμαληκ τῷ Ισραηλ ὡς ἀπήντησεν αὐτῷ ἐν τῇ ὁδῷ ἀναβαίνοντος αὐτοῦ ἐξ Αἰγύπτου",
        "greek": true,
        "translation": "Așa spune Domnul Savaot: «Acum voi răzbuna ce a făcut Amalec lui Israel, cum l-a întâmpinat pe drum, când se suia din Egipt.»",
-       "note": "Septuaginta redă „Mi-am amintit” (pakadti) prin „voi răzbuna” (ἐκδικήσω) și „s-a năpustit” prin „l-a întâmpinat” (ἀπήντησεν)."
+       "note": "Septuaginta redă „Mi-am amintit” (pakadti) prin „voi răzbuna” (ἐκδικήσω), adaugă „acum” (νῦν), redă „s-a năpustit” prin „l-a întâmpinat” (ἀπήντησεν) și transcrie „Oștirilor” ca σαβαωθ."
       }
      ],
      "refs": [
@@ -24232,7 +24232,7 @@
        "original": "καὶ παρήγγειλεν Σαουλ τῷ λαῷ καὶ ἐπισκέπτεται αὐτοὺς ἐν Γαλγαλοις τετρακοσίας χιλιάδας ταγμάτων καὶ τὸν Ιουδαν τριάκοντα χιλιάδας ταγμάτων",
        "greek": true,
        "translation": "Și a poruncit Saul poporului și l-a numărat la Galgala: patru sute de mii de cete, și pe Iuda, treizeci de mii de cete.",
-       "note": "Septuaginta are „patru sute de mii” și „treizeci de mii” pentru Iuda, unde ebraica are două sute de mii și zece mii, și „la Galgala” (ἐν Γαλγαλοις) în locul lui „prin miei” (batlaim)."
+       "note": "Septuaginta are „patru sute de mii” și „treizeci de mii” pentru Iuda, unde ebraica are două sute de mii și zece mii, „la Galgala” (ἐν Γαλγαλοις) în locul lui „prin miei” (batela’im) și „cete” (ταγμάτων) în locul lui „infanteriști” (raglei)."
       }
      ],
      "refs": [
@@ -24370,7 +24370,7 @@
        "original": "καὶ ἦλθεν Σαουλ ἕως τῶν πόλεων Αμαληκ καὶ ἐνήδρευσεν ἐν τῷ χειμάρρῳ",
        "greek": true,
        "translation": "Și a venit Saul până la cetățile lui Amalec și a pus ambuscadă în vale.",
-       "note": "Septuaginta redă „orașul” prin „cetățile” (τῶν πόλεων), la plural, și „vale” prin χειμάρρῳ, „torent”."
+       "note": "Septuaginta redă „orașul” prin „cetățile” (τῶν πόλεων), la plural, „a pornit la luptă” (vayarev) prin „a întins ambuscadă” (ἐνήδρευσεν) și „vale” (naḥal) prin χειμάρρῳ, „torent”."
       }
      ],
      "refs": [],
@@ -24712,7 +24712,7 @@
        "original": "καὶ εἶπεν Σαουλ πρὸς τὸν Κιναῖον ἄπελθε καὶ ἔκκλινον ἐκ μέσου τοῦ Αμαληκίτου μὴ προσθῶ σε μετ᾿ αὐτοῦ καὶ σὺ ἐποίησας ἔλεος μετὰ τῶν υἱῶν Ισραηλ ἐν τῷ ἀναβαίνειν αὐτοὺς ἐξ Αἰγύπτου καὶ ἐξέκλινεν ὁ Κιναῖος ἐκ μέσου Αμαληκ",
        "greek": true,
        "translation": "Și a spus Saul către chenit: «Du-te și abate-te din mijlocul amalecitului, ca nu cumva să te adaug la el; iar tu ai făcut milă cu fiii lui Israel când se suiau din Egipt.» Și s-a abătut chenitul din mijlocul lui Amalec.",
-       "note": "Septuaginta are „chenitul” și „amalekitul” la singular și redă „ca să nu vă distrug” prin „ca să nu te adaug” (μὴ προσθῶ σε)."
+       "note": "Septuaginta are „chenitul” și „amalekitul” la singular, redă cele trei imperative „plecați, retrageți-vă, coborâți” prin două („du-te, abate-te”) și „ca să nu vă distrug” prin „ca să nu te adaug” (μὴ προσθῶ σε)."
       }
      ],
      "refs": [
@@ -24885,7 +24885,7 @@
        "original": "καὶ ἐπάταξεν Σαουλ τὸν Αμαληκ ἀπὸ Ευιλατ ἕως Σουρ ἐπὶ προσώπου Αἰγύπτου",
        "greek": true,
        "translation": "Și a bătut Saul pe Amalec de la Evilat până la Sur, pe fața Egiptului.",
-       "note": "Septuaginta scrie „Havila” ca Εὐιλατ și „Șur” ca Σουρ."
+       "note": "Septuaginta scrie „Havila” ca Εὐιλατ și „Șur” ca Σουρ și nu are „spre” (boʼakha) înaintea lui „Șur”."
       }
      ],
      "refs": [
@@ -25077,7 +25077,7 @@
        "original": "καὶ συνέλαβεν τὸν Αγαγ βασιλέα Αμαληκ ζῶντα καὶ πάντα τὸν λαὸν Ιεριμ ἀπέκτεινεν ἐν στόματι ῥομφαίας",
        "greek": true,
        "translation": "„Și l-a prins pe Agag, regele lui Amalec, viu, iar pe tot poporul Ierim l-a ucis cu ascuțișul sabiei.”",
-       "note": "Septuaginta adaugă „Ierim” (Ιεριμ) după „tot poporul”, ca și în versetul 3."
+       "note": "Septuaginta adaugă „Ierim” (Ιεριμ) după „tot poporul”, ca și în versetul 3, și redă „a distrus” (heḥerim) prin „a ucis” (ἀπέκτεινεν)."
       }
      ],
      "refs": [
@@ -25360,7 +25360,7 @@
        "original": "καὶ περιεποιήσατο Σαουλ καὶ πᾶς ὁ λαὸς τὸν Αγαγ ζῶντα καὶ τὰ ἀγαθὰ τῶν ποιμνίων καὶ τῶν βουκολίων καὶ τῶν ἐδεσμάτων καὶ τῶν ἀμπελώνων καὶ πάντων τῶν ἀγαθῶν καὶ οὐκ ἐβούλετο αὐτὰ ἐξολεθρεῦσαι καὶ πᾶν ἔργον ἠτιμωμένον καὶ ἐξουδενωμένον ἐξωλέθρευσαν",
        "greek": true,
        "translation": "Și a păstrat Saul și tot poporul pe Agag viu, și bunătățile turmelor și cirezilor și mâncărurilor și viilor și toate bunătățile, și n-au voit să le nimicească; dar tot ce era disprețuit și de nimic au nimicit.",
-       "note": "Septuaginta enumeră lucrurile cruțate altfel: „turmele, cirezile, mâncărurile și viile” (ποιμνίων, βουκολίων, ἐδεσμάτων, ἀμπελώνων) în loc de „oi, vite, tauri îngrășați, oi îngrășate”."
+       "note": "Septuaginta adaugă „viu” (ζῶντα) după Agag și enumeră lucrurile cruțate altfel: „turmele, cirezile, mâncărurile și viile” (ποιμνίων, βουκολίων, ἐδεσμάτων, ἀμπελώνων) în loc de „oi, vite, tauri îngrășați, oi îngrășate”."
       }
      ],
      "refs": [
@@ -25719,7 +25719,7 @@
        "original": "παρακέκλημαι ὅτι ἐβασίλευσα τὸν Σαουλ εἰς βασιλέα ὅτι ἀπέστρεψεν ἀπὸ ὄπισθέν μου καὶ τοὺς λόγους μου οὐκ ἐτήρησεν καὶ ἠθύμησεν Σαμουηλ καὶ ἐβόησεν πρὸς κύριον ὅλην τὴν νύκτα",
        "greek": true,
        "translation": "«Mi-am schimbat gândul că l-am făcut pe Saul rege, căci s-a întors de la Mine și cuvintele Mele nu le-a păzit.» Și s-a mâhnit Samuel și a strigat către Domnul toată noaptea.",
-       "note": "Septuaginta redă „regret” prin „mi-am schimbat gândul” (παρακέκλημαι) și „s-a îndurerat” prin „s-a mâhnit” (ἠθύμησεν)."
+       "note": "Septuaginta redă „regret” (nihamti) prin παρακέκλημαι, „nu a împlinit” (lo heqim) prin „nu a păzit” (οὐκ ἐτήρησεν) și „s-a îndurerat” (vayyiḥar) prin „s-a mâhnit” (ἠθύμησεν)."
       }
      ],
      "refs": [
@@ -26666,14 +26666,14 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַיֹּאמֶר שָׁאוּל מֵעֲמָלֵקִי הֱבִיאוּם אֲשֶׁר חָמַל הָעָם עַל־מֵיטַב הַצֹּאן וְהַבָּקָר לְמַעַן זְבֹחַ לַיהוָה אֱלֹהֶיךָ וְאֶת־הַיּוֹתֵר הֶחֱרַמְנוּ׃",
        "translation": "Și Șaul a spus: „Le-am adus de la Amalek, căci poporul s-a milostivit de cele mai bune turme și cirezi, ca să le jertfească DOMNULUI, Dumnezeului nostru; dar pe restul le-am distrus.” — traducerea rabinului Rosen.",
-       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB). Textul ebraic are „Dumnezeului tău” (Elohekha); traducerea Rosen redă „Dumnezeului nostru”."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
        "original": "καὶ εἶπεν Σαουλ ἐξ Αμαληκ ἤνεγκα αὐτά ἃ περιεποιήσατο ὁ λαός τὰ κράτιστα τοῦ ποιμνίου καὶ τῶν βοῶν ὅπως τυθῇ τῷ κυρίῳ θεῷ σου καὶ τὰ λοιπὰ ἐξωλέθρευσα",
        "greek": true,
        "translation": "Și a spus Saul: «Din Amalec le-am adus, ce a păstrat poporul, cele mai bune din turmă și din vite, ca să se jertfească Domnului, Dumnezeului tău, iar restul le-am nimicit.»",
-       "note": "Septuaginta are „Dumnezeului tău” (θεῷ σου), ca ebraica (eloheha), și redă „cele mai bune” prin τὰ κράτιστα."
+       "note": "Septuaginta are persoana I singular: „le-am adus” (ἤνεγκα) și „le-am nimicit” (ἐξωλέθρευσα), unde ebraica are „le-au adus” (heviʼum) și „am distrus” (heḥeramnu, plural); are „Dumnezeului tău” (θεῷ σου), ca ebraica (eloheha), și redă „cele mai bune” prin τὰ κράτιστα."
       }
      ],
      "refs": [
@@ -28486,7 +28486,7 @@
        "original": "ὅτι ἁμαρτία οἰώνισμά ἐστιν, ὀδύνην καὶ πόνους θεραφὶν ἐπάγουσιν· ὅτι ἐξουδένωσας τὸ ρῆμα Κυρίου, καὶ ἐξουδενώσει σε Κύριος μὴ εἶναι βασιλέα ἐπὶ ᾿Ισραήλ.",
        "greek": true,
        "translation": "Căci păcatul [este] ca prevestirea, [și] durerea și necazurile le aduc terafimii; căci ai disprețuit cuvântul Domnului, și te va disprețui Domnul, să nu fii rege peste Israel.",
-       "note": "Septuaginta nu are „răzvrătirea” (meri); redă „vrăjitoriei” prin „ghicire din semne” (οἰώνισμα), iar „îngâmfarea… fărădelegea idolatriei” prin „durere și trude aduc terafimii” (ὀδύνην καὶ πόνους θεραφὶν ἐπάγουσιν)."
+       "note": "Septuaginta nu are „răzvrătirea” (meri); redă „vrăjitoriei” prin „ghicire din semne” (οἰώνισμα), „îngâmfarea… fărădelegea idolatriei” prin „durere și trude aduc terafimii” (ὀδύνην καὶ πόνους θεραφὶν ἐπάγουσιν) și adaugă „peste Israel” (ἐπὶ Ἰσραήλ) după „să nu fii rege”."
       }
      ],
      "refs": [
@@ -28857,7 +28857,7 @@
        "original": "καὶ νῦν ἆρον δὴ τὸ ἁμάρτημά μου καὶ ἀνάστρεψον μετ᾿ ἐμοῦ, καὶ προσκυνήσω Κυρίῳ τῷ Θεῷ σου.",
        "greek": true,
        "translation": "Și acum, ia, te rog, păcatul meu și întoarce-te cu mine, și mă voi prosterna Domnului, Dumnezeului tău.",
-       "note": "Septuaginta redă „iartă-mi păcatul” prin „ridică păcatul meu” (ἆρον τὸ ἁμάρτημά μου), cu verbul „a ridica”, același sens de bază ca în ebraică."
+       "note": "Septuaginta redă „iartă-mi păcatul” (sa ḥatta’ti) prin „ridică păcatul meu” (ἆρον τὸ ἁμάρτημά μου) și adaugă „Dumnezeului tău” (τῷ Θεῷ σου) după „Domnului”."
       }
      ],
      "refs": [
@@ -29224,7 +29224,7 @@
        "original": "καὶ ἀπέστρεψεν Σαμουηλ τὸ πρόσωπον αὐτοῦ τοῦ ἀπελθεῖν καὶ ἐκράτησεν Σαουλ τοῦ πτερυγίου τῆς διπλοΐδος αὐτοῦ καὶ διέρρηξεν αὐτό",
        "greek": true,
        "translation": "Și s-a întors Samuel cu fața, ca să plece; și a prins Saul colțul mantiei lui duble, și s-a rupt.",
-       "note": "Septuaginta spune că Samuel „și-a întors fața” (ἀπέστρεψεν τὸ πρόσωπον) și redă „mâneca tunicii” prin „colțul mantiei duble” (τοῦ πτερυγίου τῆς διπλοΐδος)."
+       "note": "Septuaginta spune că Samuel „și-a întors fața” (ἀπέστρεψεν τὸ πρόσωπον), numește explicit pe Saul ca subiect al apucării (Σαουλ) și redă „mâneca tunicii” prin „colțul mantiei duble” (τοῦ πτερυγίου τῆς διπλοΐδος)."
       }
      ],
      "refs": [],
@@ -29779,7 +29779,7 @@
        "original": "καὶ εἶπεν Σαουλ ἡμάρτηκα ἀλλὰ δόξασόν με δὴ ἐνώπιον πρεσβυτέρων Ισραηλ καὶ ἐνώπιον λαοῦ μου καὶ ἀνάστρεψον μετ᾿ ἐμοῦ καὶ προσκυνήσω τῷ κυρίῳ θεῷ σου",
        "greek": true,
        "translation": "Și a spus Saul: «Am păcătuit, dar cinstește-mă, te rog, înaintea bătrânilor lui Israel și înaintea poporului meu, și întoarce-te cu mine, și mă voi prosterna Domnului, Dumnezeului tău.»",
-       "note": "Septuaginta redă „cinstește-mă” prin „slăvește-mă” (δόξασον) și are „dar” (ἀλλά) în loc de „Acum”."
+       "note": "Septuaginta redă „cinstește-mă” (kabbedeni) prin „slăvește-mă” (δόξασον), are „dar” (ἀλλά) în loc de „Acum” (ʻattah) și schimbă formularea: „înaintea bătrânilor lui Israel și înaintea poporului meu”, în loc de „în fața bătrânilor poporului meu și în fața lui Israel”."
       }
      ],
      "refs": [
@@ -30936,7 +30936,7 @@
        "original": "υἱὲ ἀνθρώπου, οἶκος ᾿Ισραὴλ κατῴκησεν ἐπὶ τῆς γῆς αὐτῶν καὶ ἐμίαναν αὐτὴν ἐν τῇ ὁδῷ αὐτῶν καὶ ἐν τοῖς εἰδώλοις αὐτῶν καὶ ἐν ταῖς ἀκαθαρσίαις αὐτῶν· κατὰ τὴν ἀκαθαρσίαν τῆς ἀποκαθημένης ἐγενήθη ἡ ὁδὸς αὐτῶν πρὸ προσώπου μου.",
        "greek": true,
        "translation": "«Fiu al omului, casa lui Israel a locuit pe pământul lor și l-au spurcat pe calea lor și cu idolii lor și cu necurățiile lor; după necurăția celei îndepărtate a fost calea lor înaintea feței Mele.»",
-       "note": "Septuaginta redă „prin purtarea lor și prin ceea ce au înfăptuit” prin „în calea lor, în idolii lor și în necurățiile lor” (ἐν τῇ ὁδῷ, εἰδώλοις, ἀκαθαρσίαις)."
+       "note": "Septuaginta redă „prin purtarea lor și prin ceea ce au înfăptuit” prin „în calea lor, în idolii lor și în necurățiile lor” (ἐν τῇ ὁδῷ, εἰδώλοις, ἀκαθαρσίαις) și „femeia în vremea ei de separare” (hanidah) prin „cea așezată deoparte” (ἀποκαθημένης)."
       }
      ],
      "refs": [
@@ -31460,7 +31460,7 @@
        "original": "καὶ εἰσήλθοσαν εἰς τὰ ἔθνη οὗ εἰσήλθοσαν ἐκεῖ καὶ ἐβεβήλωσαν τὸ ὄνομά μου τὸ ἅγιον ἐν τῷ λέγεσθαι αὐτούς λαὸς κυρίου οὗτοι καὶ ἐκ τῆς γῆς αὐτοῦ ἐξεληλύθασιν",
        "greek": true,
        "translation": "Și au intrat la neamuri, unde au intrat, și au pângărit numele Meu cel sfânt, zicându-se despre ei: «Poporul Domnului [sunt] aceștia, și din țara Lui au venit.»",
-       "note": "Septuaginta redă „la care au ajuns” prin „unde au intrat acolo” (οὗ εἰσήλθοσαν ἐκεῖ)."
+       "note": "Septuaginta pune „au intrat” la plural (εἰσήλθοσαν), unde ebraica are singularul „a venit” (vayavo), și redă „la care au ajuns” prin „unde au intrat acolo” (οὗ εἰσήλθοσαν ἐκεῖ)."
       }
      ],
      "refs": [
@@ -31629,7 +31629,7 @@
        "original": "καὶ ἐφεισάμην αὐτῶν διὰ τὸ ὄνομά μου τὸ ἅγιον, ὃ ἐβεβήλωσαν οἶκος ᾿Ισραὴλ ἐν τοῖς ἔθνεσιν, οὗ εἰσήλθοσαν ἐκεῖ.",
        "greek": true,
        "translation": "Și i-am cruțat pentru numele Meu cel sfânt, pe care l-a pângărit casa lui Israel printre neamurile unde au venit.",
-       "note": "Septuaginta redă „Mi-a fost milă” prin „i-am cruțat” (ἐφεισάμην αὐτῶν), cu obiect exprimat."
+       "note": "Septuaginta redă „Mi-a fost milă de numele Meu sfânt” prin „i-am cruțat pe ei de dragul numelui Meu sfânt” (ἐφεισάμην αὐτῶν διὰ τὸ ὄνομά μου)."
       }
      ],
      "refs": [
@@ -32187,7 +32187,7 @@
        "original": "καὶ ἁγιάσω τὸ ὄνομά μου τὸ μέγα τὸ βεβηλωθὲν ἐν τοῖς ἔθνεσιν, ὃ ἐβεβηλώσατε ἐν μέσῳ αὐτῶν, καὶ γνώσονται τὰ ἔθνη ὅτι ἐγώ εἰμι Κύριος ἐν τῷ ἁγιασθῆναί με ἐν ὑμῖν κατ’ ὀφθαλμοὺς αὐτῶν.",
        "greek": true,
        "translation": "Și voi sfinți numele Meu cel mare, pângărit printre neamuri, pe care l-ați pângărit în mijlocul lor, și vor cunoaște neamurile că Eu sunt Domnul, când Mă voi sfinți în voi, înaintea ochilor lor.",
-       "note": "Septuaginta nu are „vorba Stăpânului meu, Domnul DUMNEZEU” și redă „prin voi” prin „în voi” (ἐν ὑμῖν)."
+       "note": "Septuaginta nu are „vorba Stăpânului meu, Domnul DUMNEZEU” (neʼum Adonai YHWH) și redă bakhem prin „în voi” (ἐν ὑμῖν)."
       }
      ],
      "refs": [
@@ -32733,7 +32733,7 @@
        "original": "καὶ δώσω ὑμῖν καρδίαν καινὴν καὶ πνεῦμα καινὸν δώσω ἐν ὑμῖν καὶ ἀφελῶ τὴν καρδίαν τὴν λιθίνην ἐκ τῆς σαρκὸς ὑμῶν καὶ δώσω ὑμῖν καρδίαν σαρκίνην.",
        "greek": true,
        "translation": "Și vă voi da o inimă nouă și un duh nou vă voi da în voi, și voi îndepărta inima de piatră din carnea voastră și vă voi da o inimă de carne.",
-       "note": "Septuaginta redă „în interiorul vostru” prin „în voi” (ἐν ὑμῖν) și „trupul vostru” prin „carnea voastră” (σαρκός)."
+       "note": "Corespondență strânsă cu Textul Masoretic: „inima de piatră” este redată prin τὴν καρδίαν τὴν λιθίνην și „inimă de carne” prin καρδίαν σαρκίνην."
       }
      ],
      "refs": [
@@ -32922,7 +32922,7 @@
        "original": "καὶ τὸ πνεῦμά μου δώσω ἐν ὑμῖν καὶ ποιήσω ἵνα ἐν τοῖς δικαιώμασίν μου πορεύησθε καὶ τὰ κρίματά μου φυλάξησθε καὶ ποιήσητε",
        "greek": true,
        "translation": "Și duhul Meu îl voi da în voi și voi face să mergeți în hotărârile Mele, și judecățile Mele să le păziți și să le faceți.",
-       "note": "Septuaginta redă „îl voi pune” prin „îl voi da” (δώσω)."
+       "note": "Corespondență strânsă cu Textul Masoretic: „decretele” (huqqay) sunt redate prin δικαιώμασίν μου și „judecățile” (mishpatay) prin τὰ κρίματά μου."
       }
      ],
      "refs": [
@@ -33248,7 +33248,7 @@
        "original": "καὶ σώσω ὑμᾶς ἐκ πασῶν τῶν ἀκαθαρσιῶν ὑμῶν καὶ καλέσω τὸν σῖτον καὶ πληθυνῶ αὐτὸν καὶ οὐ δώσω ἐφ᾿ ὑμᾶς λιμόν",
        "greek": true,
        "translation": "„Și vă voi mântui de toate necurățeniile voastre și voi chema grâul și îl voi înmulți și nu voi pune foamete asupra voastră.”",
-       "note": "Septuaginta redă „grânele” prin „grâul” (τὸν σῖτον), la singular, și „voi trimite” prin „voi pune” (δώσω)."
+       "note": "Corespondență strânsă cu Textul Masoretic: „grâul” (hadagan) este redat prin τὸν σῖτον, „a înmulți” prin πληθυνῶ și „foamete” (raʻav) prin λιμόν."
       }
      ],
      "refs": [
@@ -33441,7 +33441,7 @@
        "original": "καὶ πληθυνῶ τὸν καρπὸν τοῦ ξύλου καὶ τὰ γενήματα τοῦ ἀγροῦ ὅπως μὴ λάβητε ὀνειδισμὸν λιμοῦ ἐν τοῖς ἔθνεσιν",
        "greek": true,
        "translation": "„Și voi înmulți rodul pomului și roadele câmpului, ca să nu mai luați ocara foametei între neamuri.”",
-       "note": "Septuaginta redă „rușinea” (herpat) prin „ocara” (ὀνειδισμόν) și are „roadele câmpului” (γενήματα) pentru „rodul ogorului”."
+       "note": "Corespondență strânsă cu Textul Masoretic: „rușinea foametei” (ḥerpat raʻav) este redată prin ὀνειδισμὸν λιμοῦ și „rodul ogorului” prin γενήματα τοῦ ἀγροῦ."
       }
      ],
      "refs": [
@@ -38793,7 +38793,7 @@
        "original": "καὶ ἐν τῇ ἡμέρᾳ τῆς νουμηνίας μόσχον ἄμωμον καὶ ἓξ ἀμνούς, καὶ κριὸς ἄμωμος ἔσται,",
        "greek": true,
        "translation": "Și în ziua lunii noi, un vițel fără meteahnă și șase miei, și un berbec va fi fără meteahnă,",
-       "note": "Septuaginta pune „fără meteahnă” separat la taur (ἄμωμον) și la berbec (ἄμωμος) și nu îl repetă la oi."
+       "note": "Septuaginta pune „fără meteahnă” separat la taur (ἄμωμον) și la berbec (ἄμωμος) și nu îl repetă la oi; nu are „fiu de bou” (ben baqar) la taur, ci doar „vițel” (μόσχον)."
       }
      ],
      "refs": [],
@@ -39698,7 +39698,7 @@
        "original": "καὶ ὁ ἀφηγούμενος ἐν μέσῳ αὐτῶν ἐν τῷ εἰσπορεύεσθαι αὐτοὺς εἰσελεύσεται μετ’ αὐτῶν καὶ ἐν τῷ ἐκπορεύεσθαι αὐτοὺς ἐξελεύσεται.",
        "greek": true,
        "translation": "Și conducătorul [va fi] în mijlocul lor, când intră ei va intra cu ei, și când ies ei va ieși.",
-       "note": "Septuaginta spune „va intra cu ei” (μετ᾿ αὐτῶν), iar Textul Masoretic „va intra când intră ei”."
+       "note": "Septuaginta spune „va intra cu ei” (μετ᾿ αὐτῶν), iar ebraica „va intra când intră ei”; la ieșire Septuaginta are singularul „va ieși” (ἐξελεύσεται), unde ebraica are pluralul „vor ieși” (yetsʼu)."
       }
      ],
      "refs": [
@@ -40749,7 +40749,7 @@
        "original": "καὶ μαναα ποιήσει ἐπ᾿ αὐτῷ τὸ πρωὶ ἕκτον τοῦ μέτρου καὶ ἐλαίου τὸ τρίτον τοῦ ιν τοῦ ἀναμεῖξαι τὴν σεμίδαλιν μαναα τῷ κυρίῳ πρόσταγμα διὰ παντός",
        "greek": true,
        "translation": "Și jertfă va face cu el dimineața, a șasea parte din măsură, și de untdelemn a treia parte din hin, ca să amestece floarea făinii [ca] jertfă Domnului, poruncă necurmată.",
-       "note": "Septuaginta redă „efa” prin „măsura” (τοῦ μέτρου), „să frămânți” prin „să amestece” (ἀναμεῖξαι) și „făina” prin „floarea făinii” (σεμίδαλιν), și are o singură dată „dimineața” (πρωΐ)."
+       "note": "Septuaginta redă „efa” prin „măsura” (τοῦ μέτρου), „să frămânți” prin „să amestece” (ἀναμεῖξαι) și „făina” prin „floarea făinii” (σεμίδαλιν), are o singură dată „dimineața” (πρωΐ) și redă „decret veșnic, necontenit” prin „poruncă necurmată” (πρόσταγμα διὰ παντός), fără „veșnic”."
       }
      ],
      "refs": [
@@ -43140,7 +43140,7 @@
        "original": "καὶ εἰσηνέγκατε πάντα τὰ ἐκφόρια εἰς τοὺς θησαυρούς καὶ ἐν τῷ οἴκῳ αὐτοῦ ἔσται ἡ διαρπαγὴ αὐτοῦ ἐπισκέψασθε δὴ ἐν τούτῳ λέγει κύριος παντοκράτωρ ἐὰν μὴ ἀνοίξω ὑμῖν τοὺς καταρράκτας τοῦ οὐρανοῦ καὶ ἐκχεῶ ὑμῖν τὴν εὐλογίαν μου ἕως τοῦ ἱκανωθῆναι",
        "greek": true,
        "translation": "„Și aduceți toate roadele în vistierii, și prada lui va fi în casa lui. Cercetați-Mă în aceasta, spune Domnul Atotțiitorul: dacă nu vă voi deschide cataractele cerului și nu voi revărsa peste voi binecuvântarea Mea până va fi de ajuns.”",
-       "note": "Septuaginta redă „provizii” (teref) prin „prada lui” (ἡ διαρπαγὴ αὐτοῦ), „puneți-Mă la încercare” (uvhanuni) prin „cercetați” (ἐπισκέψασθε) și „cât să nu aveți unde o ține” (ad beli dai) prin „până va fi de ajuns” (ἕως τοῦ ἱκανωθῆναι)."
+       "note": "Septuaginta redă „provizii” (teref) prin „prada lui” (ἡ διαρπαγὴ αὐτοῦ), pune „casa lui” (ἐν τῷ οἴκῳ αὐτοῦ), la persoana a treia, în loc de „Casa Mea”, redă „puneți-Mă la încercare” (uvhanuni) prin „cercetați” (ἐπισκέψασθε), adaugă „Mea” (μου) după „binecuvântare” și „cât să nu aveți unde o ține” (ʻad beli dai) prin „până va fi de ajuns” (ἕως τοῦ ἱκανωθῆναι)."
       }
      ],
      "refs": [
@@ -45084,7 +45084,7 @@
        "original": "ΔΙΟΤΙ ἰδοὺ ἡμέρα Κυρίου ἔρχεται καιομένη ὡς κλίβανος καὶ φλέξει αὐτούς, καὶ ἔσονται πάντες οἱ ἀλλογενεῖς καὶ πάντες οἱ ποιοῦντες ἄνομα καλάμη, καὶ ἀνάψει αὐτοὺς ἡ ἡμέρα ἡ ἐρχομένη, λέγει Κύριος παντοκράτωρ, καὶ οὐ μὴ ὑπολειφθῇ ἐξ αὐτῶν ῥίζα οὐδὲ κλῆμα.",
        "greek": true,
        "translation": "Căci, iată, vine ziua Domnului, arzând ca un cuptor, și-i va aprinde pe ei, și vor fi toți cei străini și toți cei ce fac nelegiuiri paie, și-i va aprinde pe ei ziua care vine, spune Domnul Atotțiitorul, și nu va rămâne din ei rădăcină, nici mlădiță.",
-       "note": "Septuaginta redă „cei îngâmfați” (zēdim) prin „cei de alt neam” (ἀλλογενεῖς) și „miriște” (kaș) prin „paie” (καλάμη)."
+       "note": "Septuaginta adaugă „al Domnului” („ziua Domnului”, ἡμέρα Κυρίου), redă „cei îngâmfați” (zedim) prin „cei de alt neam” (ἀλλογενεῖς) și „miriște” (qash) prin „paie” (καλάμη), și are de două ori „îi va aprinde” (φλέξει, ἀνάψει), unde ebraica are „îi va arde” o singură dată (ve-lihat otam)."
       }
      ],
      "refs": [
@@ -46518,7 +46518,7 @@
        "original": "καὶ εἶπεν Ἰησοῦς τῷ λαῷ ἁγνίσασθε εἰς αὔριον ὅτι αὔριον ποιήσει ἐν ὑμῖν κύριος θαυμαστά",
        "greek": true,
        "translation": "Și a spus Iisus poporului: «Curățiți-vă pentru mâine, căci mâine va face Domnul printre voi lucruri minunate.»",
-       "note": "Septuaginta redă „sfințiți-vă” (hitkadașu) prin „curățiți-vă” (ἁγνίσασθε) și numește pe conducător „Iisus” (Ἰησοῦς), forma greacă a numelui Iehoșua."
+       "note": "Septuaginta redă „sfințiți-vă” (hitqadeshu) prin „curățiți-vă” (ἁγνίσασθε), adaugă „pentru mâine” (εἰς αὔριον) și numește pe conducător „Iisus” (Ἰησοῦς), forma greacă a numelui Iehoșua."
       }
      ],
      "refs": [
@@ -50285,7 +50285,7 @@
        "original": "ὁ δὲ εἶπεν αὐτῷ ἐγὼ ἀρχιστράτηγος δυνάμεως κυρίου νυνὶ παραγέγονα καὶ Ἰησοῦς ἔπεσεν ἐπὶ πρόσωπον ἐπὶ τὴν γῆν καὶ εἶπεν αὐτῷ δέσποτα τί προστάσσεις τῷ σῷ οἰκέτῃ",
        "greek": true,
        "translation": "„Iar el i-a spus: «Eu sunt căpetenia oștirii Domnului; acum am venit.» Și Iisus a căzut cu fața la pământ și i-a spus: «Stăpâne, ce poruncești slujitorului tău?»”",
-       "note": "Septuaginta nu are „nu” (lo) din răspunsul „Nu, sunt…”, redă „stăpânul meu” (adoni) prin „stăpâne” (δέσποτα) și „ce spune” (ma medabēr) prin „ce poruncești” (τί προστάσσεις), iar „slujitorului” (avdo) prin „slujitorului casei” (οἰκέτῃ)."
+       "note": "Septuaginta nu are „nu” (lo) din răspunsul „Nu, sunt…”, nu are „s-a prosternat” (vayishtaḥu), redă „stăpânul meu” (adoni) prin „stăpâne” (δέσποτα) și „ce spune” (ma medabber) prin „ce poruncești” (τί προστάσσεις), iar „slujitorului” (ʻavdo) prin „slujitorului casei” (οἰκέτῃ)."
       }
      ],
      "refs": [
@@ -55081,7 +55081,7 @@
        "original": "ὅμοιος αὐτῷ οὐκ ἐγενήθη ἔμπροσθεν αὐτοῦ βασιλεύς ὃς ἐπέστρεψεν πρὸς κύριον ἐν ὅλῃ καρδίᾳ αὐτοῦ καὶ ἐν ὅλῃ ψυχῇ αὐτοῦ καὶ ἐν ὅλῃ ἰσχύι αὐτοῦ κατὰ πάντα τὸν νόμον Μωυσῆ καὶ μετ᾿ αὐτὸν οὐκ ἀνέστη ὅμοιος αὐτῷ",
        "greek": true,
        "translation": "Asemenea lui n-a fost înaintea lui rege care să se fi întors la Domnul cu toată inima lui și cu tot sufletul lui și cu toată puterea lui, după toată legea lui Moise; și după el n-a mai venit [niciunul] asemenea lui.",
-       "note": "Septuaginta pune „asemenea lui” (ὅμοιος αὐτῷ) la începutul versetului și redă „puterea” (meodo) prin „tăria” (ἰσχύι)."
+       "note": "Septuaginta urmează ordinea ebraică, cu „asemenea lui” (kamohu, ὅμοιος αὐτῷ) la început și la sfârșit, și redă „puterea” (meʼodo) prin „tăria” (ἰσχύι)."
       }
      ],
      "refs": [
@@ -55476,7 +55476,7 @@
        "original": "καὶ περιήγαγέν με ἐπ᾿ αὐτὰ κυκλόθεν κύκλῳ καὶ ἰδοὺ πολλὰ σφόδρα ἐπὶ προσώπου τοῦ πεδίου ξηρὰ σφόδρα",
        "greek": true,
        "translation": "Și m-a purtat pe lângă ele, de peste tot, de jur împrejur, și, iată, [erau] foarte multe pe fața câmpiei, foarte uscate.",
-       "note": "Septuaginta redă „valea” (habika) prin „câmpia” (πεδίου) și pune „foarte uscate” (ξηρὰ σφόδρα) la sfârșitul versetului, după „fața câmpiei”."
+       "note": "Septuaginta are un singur „iată” (ἰδού) în loc de cele două ale ebraicii, redă „valea” (habiqʻa) prin „câmpia” (πεδίου) și pune „foarte uscate” (ξηρὰ σφόδρα) la sfârșitul versetului, după „fața câmpiei”."
       }
      ],
      "refs": [
@@ -56053,7 +56053,7 @@
        "original": "τάδε λέγει κύριος τοῖς ὀστέοις τούτοις ἰδοὺ ἐγὼ φέρω εἰς ὑμᾶς πνεῦμα ζωῆς",
        "greek": true,
        "translation": "Așa spune Domnul oaselor acestora: Iată, Eu aduc asupra voastră duh de viață,",
-       "note": "Septuaginta nu are „Stăpânul meu” (adonai) înaintea numelui divin: are doar „Domnul” (κύριος), și redă „duh” (ruah) prin „duh de viață” (πνεῦμα ζωῆς)."
+       "note": "Septuaginta nu are „Stăpânul meu” (adonai) înaintea numelui divin (doar κύριος), nu are „și veți trăi” (vihyitem) și redă „duh” (ruaḥ) prin „duh de viață” (πνεῦμα ζωῆς)."
       }
      ],
      "refs": [
@@ -58531,7 +58531,7 @@
        "original": "καὶ εἶπεν· Κύριε, πέτρα μου καὶ ὀχύρωμά μου καὶ ἐξαιρούμενός με ἐμοί",
        "greek": true,
        "translation": "„Și a zis: Doamne, piatra mea și întăritura mea și Cel ce mă scoate pe mine.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta citește „DOMNUL” (YHWH) ca adresare („Doamne, piatra mea…”, Κύριε, πέτρα μου), nu ca subiect („DOMNUL este Stânca mea”)."
       }
      ],
      "refs": [
@@ -58871,7 +58871,7 @@
        "original": "αἰνετὸν ἐπικαλέσομαι Κύριον καὶ ἐκ τῶν ἐχθρῶν μου σωθήσομαι.",
        "greek": true,
        "translation": "„Pe Cel vrednic de laudă Îl voi chema, pe Domnul, și de vrăjmașii mei voi fi mântuit.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „cu laude” (mehullal) prin „Cel vrednic de laudă” (αἰνετόν), ca epitet al Domnului."
       }
      ],
      "refs": [
@@ -58983,7 +58983,7 @@
        "original": "ὅτι περιέσχον με συντριμμοὶ θανάτου, χείμαρροι ἀνομίας ἐθάμβησάν με·",
        "greek": true,
        "translation": "„Căci m-au cuprins sfărâmările morții, șuvoaiele fărădelegii m-au spăimântat.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „durerile” (mishberei) prin „sfărâmările” (συντριμμοί), „nelegiuirii” (Beliyaʻal) prin ἀνομίας și „m-au îngrozit” prin ἐθάμβησάν με."
       }
      ],
      "refs": [
@@ -59097,7 +59097,7 @@
        "original": "ὠδῖνες θανάτου ἐκύκλωσάν με, προέφθασάν με σκληρότητες θανάτου.",
        "greek": true,
        "translation": "„Durerile morții m-au înconjurat, m-au întâmpinat asprimile morții.”",
-       "note": "Septuaginta are „durerile morții” în loc de „durerile Șeolului”."
+       "note": "Septuaginta are „durerile morții” în loc de „durerile Șeolului” și „asprimile morții” (σκληρότητες θανάτου) în loc de „lațurile morții” (moqeshe mavet)."
       }
      ],
      "refs": [
@@ -60004,7 +60004,7 @@
        "original": "καὶ ἔθετο σκότος ἀποκρυφὴν αὐτοῦ κύκλῳ αὐτοῦ, ἡ σκηνὴ αὐτοῦ σκότος ὑδάτων· ἐπάχυνεν ἐν νεφέλαις ἀέρος.",
        "greek": true,
        "translation": "„Și a pus întunericul ascunzătoarea Lui împrejurul Lui; cortul Lui, întunecimea apelor; S-a îngroșat în norii văzduhului.”",
-       "note": "Septuaginta are „întunecimea apelor”, ca Psalmul 18:11, în loc de „grămezi de apă”."
+       "note": "Septuaginta are „cortul Lui, întunecimea apelor” (ἡ σκηνὴ αὐτοῦ σκότος ὑδάτων) pentru „adăposturi, grămezi de apă” (sukkot ḥashrat mayim) și „S-a îngroșat în norii văzduhului” (ἐπάχυνεν ἐν νεφέλαις ἀέρος) pentru „norii cerurilor”."
       }
      ],
      "refs": [
@@ -60340,7 +60340,7 @@
        "original": "καὶ ἀπέστειλεν βέλη καὶ ἐσκόρπισεν αὐτούς ἀστραπὴν καὶ ἐξέστησεν αὐτούς",
        "greek": true,
        "translation": "„Și a trimis săgeți și i-a risipit, fulger și i-a înspăimântat.”",
-       "note": "Septuaginta redă „fulgerele” prin „fulger” (ἀστραπήν) și „i-a înnebunit” prin „i-a înspăimântat” (ἐξέστησεν)."
+       "note": "Septuaginta redă „fulgerele” prin „fulger” (ἀστραπήν) și „i-a înnebunit” prin „i-a înspăimântat” (ἐξέστησεν αὐτούς), cu obiectul „pe ei”, ca lectura Ketiv (vayhemem), nu Qere (vayahom)."
       }
      ],
      "refs": [
@@ -60736,7 +60736,7 @@
        "original": "ἐρρύσατό με ἐξ ἐχθρῶν μου ἰσχύος, ἐκ τῶν μισούντων με, ὅτι ἐκραταιώθησαν ὑπὲρ ἐμέ.",
        "greek": true,
        "translation": "„M-a izbăvit de vrăjmașii mei cei tari, de cei ce mă urăsc, căci s-au întărit mai mult decât mine.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta pune „vrăjmașii” la plural („din vrăjmașii mei cei tari”, ἐξ ἐχθρῶν μου ἰσχύος), unde ebraica are singularul „vrăjmașul meu puternic” (oyevi ʻaz)."
       }
      ],
      "refs": [
@@ -61288,7 +61288,7 @@
        "original": "ὅτι πάντα τὰ κρίματα αὐτοῦ κατεναντίον μου, καὶ τὰ δικαιώματα αὐτοῦ, οὐκ ἀπέστην ἀπ’ αὐτῶν.",
        "greek": true,
        "translation": "„Căci toate judecățile Lui [sunt] înaintea mea, și de rânduielile Lui nu m-am depărtat.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta urmează lectura Qere, „judecățile Lui” la plural (τὰ κρίματα αὐτοῦ), nu Ketiv, „judecata Lui” (mishpato)."
       }
      ],
      "refs": [
@@ -61617,7 +61617,7 @@
        "original": "μετὰ ὁσίου ὁσιωθήσῃ καὶ μετὰ ἀνδρὸς τελείου τελειωθήσῃ",
        "greek": true,
        "translation": "„Cu cel cuvios Te vei purta cu cuvioșie, și cu bărbatul desăvârșit Te vei purta desăvârșit.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „cel măreț” (gibbor) prin „bărbat” (ἀνδρός), cu „desăvârșit” (τελείου) pentru „integritate” (tamim)."
       }
      ],
      "refs": [
@@ -62122,7 +62122,7 @@
        "original": "ὅτι ἐν σοὶ δραμοῦμαι μονόζωνος καὶ ἐν τῷ Θεῷ μου ὑπερβήσομαι τεῖχος.",
        "greek": true,
        "translation": "„Căci cu Tine voi alerga încins [ușor], și cu Dumnezeul meu voi trece peste zid.”",
-       "note": "Septuaginta are „încins [ușor]” (μονόζωνος, „cu o singură centură”, adică soldat cu echipament ușor) în loc de „o ceată”."
+       "note": "Septuaginta redă „o ceată” (gedud) prin μονόζωνος („încins cu o singură cingătoare”), „pot sfărâma” (aruts) prin „voi alerga” (δραμοῦμαι) și „întăritură” (shur) prin „zid” (τεῖχος)."
       }
      ],
      "refs": [
@@ -62408,7 +62408,7 @@
        "original": "τίς ἰσχυρὸς πλὴν Κυρίου; καὶ τίς κτίστης ἔσται πλὴν τοῦ Θεοῦ ἡμῶν;",
        "greek": true,
        "translation": "„Cine [este] tare afară de Domnul? Și cine va fi ziditor afară de Dumnezeul nostru?”",
-       "note": "Septuaginta are „ziditor” (κτίστης) în loc de „Stâncă”, citind țur ca „a forma”."
+       "note": "Septuaginta redă „Dumnezeu” (el) prin „cel tare” (ἰσχυρός) și „Stâncă” (tsur) prin „ziditor” (κτίστης)."
       }
      ],
      "refs": [
@@ -62528,7 +62528,7 @@
        "original": "ὁ ἰσχυρὸς ὁ κραταιῶν με δυνάμει, καὶ ἐξετίναξεν ἄμωμον τὴν ὁδόν μου·",
        "greek": true,
        "translation": "„Dumnezeu cel tare, care mă întărește cu putere și mi-a netezit fără prihană calea.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta urmează lectura Qere, „calea mea” (darki, τὴν ὁδόν μου), nu Ketiv, „calea Lui”; redă „Fortăreața mea” (maʻuzzi) prin „cel care mă întărește” (ὁ κραταιῶν με) și „a făcut desăvârșită” (vayyater) prin ἐξετίναξεν, „a scuturat”."
       }
      ],
      "refs": [
@@ -62659,7 +62659,7 @@
        "original": "τιθεὶς τοὺς πόδας μου ὡς ἐλάφων καὶ ἐπὶ τὰ ὕψη ἱστῶν με·",
        "greek": true,
        "translation": "„Punând picioarele mele ca ale cerbilor și pe cele înalte așezându-mă.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta urmează lectura Qere, „picioarele mele” (τοὺς πόδας μου), nu Ketiv, „picioarele Lui”."
       }
      ],
      "refs": [
@@ -62796,7 +62796,7 @@
        "original": "διδάσκων χεῖράς μου εἰς πόλεμον καὶ κατάξας τόξον χαλκοῦν ἐν βραχίονί μου.",
        "greek": true,
        "translation": "„Învățând mâinile mele la război și sfărâmând arc de aramă cu brațul meu.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „ca arcul de aramă să nu-mi îndoaie brațele” (veniḥat qeshet neḥushah zeroʻotai) prin „sfărâmând arc de aramă cu brațul meu” (κατάξας τόξον χαλκοῦν ἐν βραχίονί μου), cu „brațul” la singular."
       }
      ],
      "refs": [
@@ -63017,7 +63017,7 @@
        "original": "εἰς πλατυσμὸν εἰς τὰ διαβήματά μου ὑποκάτω μου, καὶ οὐκ ἐσαλεύθησαν τὰ σκέλη μου.",
        "greek": true,
        "translation": "„[M-ai pus] la loc larg pentru pașii mei sub mine, și nu s-au clătinat picioarele mele.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „gleznele” (qarsulai) prin „picioarele” (σκέλη) și „nu s-au poticnit” prin „nu s-au clătinat” (οὐκ ἐσαλεύθησαν)."
       }
      ],
      "refs": [
@@ -63250,7 +63250,7 @@
        "original": "καὶ θλάσω αὐτοὺς καὶ οὐκ ἀναστήσονται καὶ πεσοῦνται ὑπὸ τοὺς πόδας μου.",
        "greek": true,
        "translation": "„Și îi voi zdrobi, și nu se vor ridica, și vor cădea sub picioarele mele.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta are un singur verb, „îi voi zdrobi” (θλάσω), în loc de „i-am distrus, i-am pus la pământ” (vaʼakhallem vaʼemḥatsem), și pune verbele la viitor."
       }
      ],
      "refs": [
@@ -63361,7 +63361,7 @@
        "original": "καὶ ἐνισχύσεις με δυνάμει εἰς πόλεμον κάμψεις τοὺς ἐπανιστανομένους μοι ὑποκάτω μου",
        "greek": true,
        "translation": "„Și mă vei întări cu putere pentru război, vei îndoi sub mine pe cei ce se ridică asupra mea.”",
-       "note": "Septuaginta are verbele la viitor („mă vei întări”, „vei îndoi”)."
+       "note": "Septuaginta redă „m-ai încins” (vatazreni) prin „mă vei întări” (ἐνισχύσεις) și „vrăjmașii mei” (qamai) prin „cei ce se ridică asupra mea” (ἐπανιστανομένους), cu verbele la viitor."
       }
      ],
      "refs": [
@@ -63484,7 +63484,7 @@
        "original": "καὶ τοὺς ἐχθρούς μου ἔδωκάς μοι νῶτον, τοὺς μισοῦντάς με, καὶ ἐθανάτωσας αὐτούς.",
        "greek": true,
        "translation": "„Și pe vrăjmașii mei mi i-ai dat cu spatele, pe cei ce mă urăsc, și i-ai omorât.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta pune ultimul verb la persoana a doua, „i-ai omorât” (ἐθανάτωσας), unde ebraica are „i-am nimicit” (vaʼatsmitem)."
       }
      ],
      "refs": [
@@ -64005,7 +64005,7 @@
        "original": "υἱοὶ ἀλλότριοι ἐψεύσαντό μοι, εἰς ἀκοὴν ὠτίου ἤκουσάν μου·",
        "greek": true,
        "translation": "„Fiii străini m-au mințit, la auzul urechii m-au ascultat.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „mă lingușesc” (yitkaḥashu) prin „m-au mințit” (ἐψεύσαντο) și „copiii străinului” prin „fii străini” (υἱοὶ ἀλλότριοι)."
       }
      ],
      "refs": [
@@ -64115,7 +64115,7 @@
        "original": "υἱοὶ ἀλλότριοι ἀπορριφήσονται καὶ σφαλοῦσιν ἐκ τῶν συγκλεισμῶν αὐτῶν.",
        "greek": true,
        "translation": "„Fiii străini vor fi lepădați și se vor poticni din ascunzișurile lor.”",
-       "note": "Corespondență strânsă cu Textul Masoretic."
+       "note": "Septuaginta redă „se usucă” (yibbolu) prin „vor fi lepădați” (ἀπορριφήσονται) și „sunt îngroziți” (yaḥgeru) prin „se vor poticni” (σφαλοῦσιν)."
       }
      ],
      "refs": [
@@ -64384,7 +64384,7 @@
        "original": "ἰσχυρὸς Κύριος ὁ διδοὺς ἐκδικήσεις ἐμοί, παιδεύων λαοὺς ὑποκάτω μου",
        "greek": true,
        "translation": "„Tare [este] Domnul, Cel ce îmi dă răzbunări, Cel ce ceartă popoarele sub mine.”",
-       "note": "Septuaginta are „Cel ce ceartă popoarele” (παιδεύων) în loc de „Cel ce îmi supune popoarele”."
+       "note": "Septuaginta are „Tare [este] Domnul” (ἰσχυρὸς Κύριος) în loc de „Dumnezeul” (ha-el) și „Cel ce ceartă popoarele” (παιδεύων) în loc de „Cel ce îmi supune popoarele” (morid ʻammim)."
       }
      ],
      "refs": [
@@ -64814,7 +64814,7 @@
        "original": "μεγαλύνων σωτηρίας βασιλέως αὐτοῦ καὶ ποιῶν ἔλεος τῷ χριστῷ αὐτοῦ τῷ Δαυιδ καὶ τῷ σπέρματι αὐτοῦ ἕως αἰῶνος",
        "greek": true,
        "translation": "„Cel ce mărește mântuirile regelui Său și face milă unsului Său, lui David și seminței lui până în veac.”",
-       "note": "Septuaginta are „Cel ce mărește mântuirile” (μεγαλύνων σωτηρίας) în loc de „turnul salvărilor” (migdol ieșuot)."
+       "note": "Septuaginta urmează lectura Ketiv, „Cel ce mărește mântuirile” (magdil, μεγαλύνων), nu Qere, „turnul salvărilor” (migdol yeshuʻot)."
       }
      ],
      "refs": [
@@ -70984,7 +70984,7 @@
        "original": "καὶ ἐγένετο λόγος κυρίου πρὸς Ιεζεκιηλ υἱὸν Βουζι τὸν ἱερέα ἐν γῇ Χαλδαίων ἐπὶ τοῦ ποταμοῦ τοῦ Χοβαρ καὶ ἐγένετο ἐπ᾿ ἐμὲ χεὶρ κυρίου",
        "greek": true,
        "translation": "„Și a fost cuvântul Domnului către Ezechiel, fiul lui Buzi, preotul, în țara caldeenilor, lângă râul Hobar; și a fost asupra mea mâna Domnului.”",
-       "note": "Septuaginta redă „asupra lui” (alaiv) prin „asupra mea” (ἐπ᾿ ἐμέ), la persoana întâi, și numele râului prin Χοβαρ."
+       "note": "Septuaginta nu are dublarea „venise, a venit” (hayo hayah) și nici „acolo” (sham), redă „asupra lui” (ʻalaiv) prin „asupra mea” (ἐπ᾿ ἐμέ), la persoana întâi, și numele râului prin Χοβαρ."
       }
      ],
      "refs": [
@@ -75343,7 +75343,7 @@
        "original": "καὶ ἰδοὺ φωνὴ ὑπεράνωθεν τοῦ στερεώματος τοῦ ὄντος ὑπὲρ κεφαλῆς αὐτῶν.",
        "greek": true,
        "translation": "și iată, un glas de deasupra întăririi care era peste capul lor.",
-       "note": "Septuaginta nu are repetarea „când s-au oprit, și-au întins aripile” (beamdam terapena hanfēhen) și redă „zgomot” (kol) prin „glas” (φωνή)."
+       "note": "Septuaginta redă „era un zgomot” (vayehi qol) prin „și iată, un glas” (καὶ ἰδοὺ φωνή) și nu are repetarea „când s-au oprit, și-au întins aripile” (beʻamdam terapena kanfehen)."
       }
      ],
      "refs": [
@@ -75896,7 +75896,7 @@
        "original": "καὶ εἶδον ὡς ὄψιν ἠλέκτρου ἀπὸ ὁράσεως ὀσφύος καὶ ἐπάνω, καὶ ἀπὸ ὁράσεως ὀσφύος καὶ ἕως κάτω εἶδον ὡς ὅρασιν πυρὸς καὶ τὸ φέγγος αὐτοῦ κύκλῳ.",
        "greek": true,
        "translation": "și am văzut ca o înfățișare de electru, de la înfățișarea coapselor și mai sus, și de la înfățișarea coapselor și până în jos am văzut ca o înfățișare de foc, și lumina lui de jur împrejur.",
-       "note": "Septuaginta redă „hașmal” prin „electru” (ἠλέκτρου), „coapsele” (matnaiv) prin „mijlocul” (ὀσφύος) și „lucire cu foc în ea de jur împrejur” prin „lumina lui de jur împrejur” (τὸ φέγγος αὐτοῦ κύκλῳ)."
+       "note": "Septuaginta redă „hașmal” prin „electru” (ἠλέκτρου) și „coapsele” (matnaiv) prin „mijlocul” (ὀσφύος), nu are „ca o lucire cu foc în ea de jur împrejur” (kemareh esh beit-lah saviv) din prima jumătate a versetului, iar „lumina lui de jur împrejur” (τὸ φέγγος αὐτοῦ κύκλῳ) corespunde lui „și strălucire de jur împrejur” (venogah lo saviv)."
       }
      ],
      "refs": [
@@ -76418,7 +76418,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "וַתִּשָּׂאֵנִי רוּחַ וָאֶשְׁמַע אַחֲרַי קוֹל רַעַשׁ גָּדוֹל בָּרוּךְ כְּבוֹד־יְהוָה מִמְּקוֹמוֹ׃",
        "translation": "Și un vânt m-a ridicat și am auzit înapoia mea sunetul unui zgomot mare: Binecuvântat este DOMNUL din locul Său! — traducerea rabinului Rosen.",
-       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB)."
+       "note": "Fără variante Qere/Ketiv în textul ebraic consultat (OSHB). Textul ebraic are „Binecuvântată [fie] slava DOMNULUI” (baruch kevod-Adonai); traducerea Rosen redă „Binecuvântat este DOMNUL”, fără „slava” (kevod)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -76683,7 +76683,7 @@
        "original": "προσευχὴ Αμβακουμ τοῦ προφήτου μετὰ ᾠδῆς",
        "greek": true,
        "translation": "„Rugăciune a lui Avacum profetul, cu cântare.”",
-       "note": "Septuaginta redă „pentru rosturile greșite” (al șigionot) prin „cu cântare” (μετὰ ᾠδῆς); fraza „Doamne, am auzit veștile Tale” aparține în greacă versetului următor."
+       "note": "Septuaginta redă „pentru rosturile greșite” (ʻal shigyonot) prin „cu cântare” (μετὰ ᾠδῆς) și numele profetului prin Ἀμβακούμ."
       }
      ],
      "refs": [

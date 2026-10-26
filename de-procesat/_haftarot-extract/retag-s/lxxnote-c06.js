@@ -1,0 +1,16 @@
+module.exports = {
+  '15:1': 'Septuaginta nu are „peste poporul Său” (ʻal ʻamo): spune doar „rege peste Israel”; „glasul cuvintelor DOMNULUI” devine „glasul Domnului” (τῆς φωνῆς κυρίου), fără „cuvintele”.',
+  '15:2': 'Septuaginta redă „Mi-am amintit” (pakadti) prin „voi răzbuna” (ἐκδικήσω), adaugă „acum” (νῦν), redă „s-a năpustit” prin „l-a întâmpinat” (ἀπήντησεν) și transcrie „Oștirilor” ca σαβαωθ.',
+  '15:4': 'Septuaginta are „patru sute de mii” și „treizeci de mii” pentru Iuda, unde ebraica are două sute de mii și zece mii, „la Galgala” (ἐν Γαλγαλοις) în locul lui „prin miei” (batela’im) și „cete” (ταγμάτων) în locul lui „infanteriști” (raglei).',
+  '15:5': 'Septuaginta redă „orașul” prin „cetățile” (τῶν πόλεων), la plural, „a pornit la luptă” (vayarev) prin „a întins ambuscadă” (ἐνήδρευσεν) și „vale” (naḥal) prin χειμάρρῳ, „torent”.',
+  '15:6': 'Septuaginta are „chenitul” și „amalekitul” la singular, redă cele trei imperative „plecați, retrageți-vă, coborâți” prin două („du-te, abate-te”) și „ca să nu vă distrug” prin „ca să nu te adaug” (μὴ προσθῶ σε).',
+  '15:7': 'Septuaginta scrie „Havila” ca Εὐιλατ și „Șur” ca Σουρ și nu are „spre” (boʼakha) înaintea lui „Șur”.',
+  '15:8': 'Septuaginta adaugă „Ierim” (Ιεριμ) după „tot poporul”, ca și în versetul 3, și redă „a distrus” (heḥerim) prin „a ucis” (ἀπέκτεινεν).',
+  '15:9': 'Septuaginta adaugă „viu” (ζῶντα) după Agag și enumeră lucrurile cruțate altfel: „turmele, cirezile, mâncărurile și viile” (ποιμνίων, βουκολίων, ἐδεσμάτων, ἀμπελώνων) în loc de „oi, vite, tauri îngrășați, oi îngrășate”.',
+  '15:11': 'Septuaginta redă „regret” (nihamti) prin παρακέκλημαι, „nu a împlinit” (lo heqim) prin „nu a păzit” (οὐκ ἐτήρησεν) și „s-a îndurerat” (vayyiḥar) prin „s-a mâhnit” (ἠθύμησεν).',
+  '15:15': 'Septuaginta are persoana I singular: „le-am adus” (ἤνεγκα) și „le-am nimicit” (ἐξωλέθρευσα), unde ebraica are „le-au adus” (heviʼum) și „am distrus” (heḥeramnu, plural); are „Dumnezeului tău” (θεῷ σου), ca ebraica (eloheha), și redă „cele mai bune” prin τὰ κράτιστα.',
+  '15:23': 'Septuaginta nu are „răzvrătirea” (meri); redă „vrăjitoriei” prin „ghicire din semne” (οἰώνισμα), „îngâmfarea… fărădelegea idolatriei” prin „durere și trude aduc terafimii” (ὀδύνην καὶ πόνους θεραφὶν ἐπάγουσιν) și adaugă „peste Israel” (ἐπὶ Ἰσραήλ) după „să nu fii rege”.',
+  '15:25': 'Septuaginta redă „iartă-mi păcatul” (sa ḥatta’ti) prin „ridică păcatul meu” (ἆρον τὸ ἁμάρτημά μου) și adaugă „Dumnezeului tău” (τῷ Θεῷ σου) după „Domnului”.',
+  '15:27': 'Septuaginta spune că Samuel „și-a întors fața” (ἀπέστρεψεν τὸ πρόσωπον), numește explicit pe Saul ca subiect al apucării (Σαουλ) și redă „mâneca tunicii” prin „colțul mantiei duble” (τοῦ πτερυγίου τῆς διπλοΐδος).',
+  '15:30': 'Septuaginta redă „cinstește-mă” (kabbedeni) prin „slăvește-mă” (δόξασον), are „dar” (ἀλλά) în loc de „Acum” (ʻattah) și schimbă formularea: „înaintea bătrânilor lui Israel și înaintea poporului meu”, în loc de „în fața bătrânilor poporului meu și în fața lui Israel”.',
+};

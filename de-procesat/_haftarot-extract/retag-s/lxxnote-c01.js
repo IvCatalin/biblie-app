@@ -1,0 +1,15 @@
+module.exports = {
+  '20:18': 'Septuaginta redă „locul tău” (moșavekha) prin „scaunul tău” (καθέδρα) și „va fi gol/va lipsi” (yipaked) prin același verb ca la „vei fi căutat” (ἐπισκέπτομαι); „lui” (lo) de după „a spus” nu are corespondent în greacă.',
+  '20:19': 'În locul lui „vei coborî foarte” (tered meʼod), Septuaginta are „vei cerceta” (ἐπισκέψῃ), iar „locul” devine „locul tău” (τόπον σου); „piatra Ezel” este redată ca „ergab” (ἐργάβ), nume netradus, și „ziua faptei” prin „ziua de lucru” (ἐργασίμῃ).',
+  '20:20': 'Septuaginta redă „trei săgeți” prin „voi arunca de trei ori cu vergelele” (τρισσεύσω ταῖς σχίζαις), cu σχίζα, „bucată despicată de lemn”, în loc de „săgeată”, și transliterează „țintă” (matara) ca ἀματταρί.',
+  '20:21': 'Septuaginta redă „săgețile” prin „vergeaua” (σχίζα), la singular, adaugă „mie” (μοι) după „găsește” și redă „te întorci” (uvaʼa) prin „vino” (παραγίνου).',
+  '20:26': 'În locul primului „el este” (hu), Septuaginta are „se pare” (φαίνεται), construiește „nu este curat” ca infinitiv (μὴ καθαρὸς εἶναι) și redă „căci nu e curat” prin „căci nu s-a curățit” (οὐ κεκαθάρισται).',
+  '20:24': 'Septuaginta folosește prezentul: „a venit [Luna Nouă]” (vayehi) este redat prin παραγίνεται, „a stat” (vayeshev) prin „vine” (ἔρχεται), iar „la ospăț” (ʻal-haleḥem) prin „la masă” (ἐπὶ τὴν τράπεζαν).',
+  '20:28': 'Septuaginta adaugă „și i-a spus” (εἶπεν αὐτῷ) după „a răspuns” și „cetatea lui” (τὴν πόλιν αὐτοῦ) după Betleem, ceea ce ebraica nu are în acest verset.',
+  '20:30': 'Unde ebraica are „fiu de femeie nesupusă [și] răzvrătită” (ben naʻavat hamardut), Septuaginta are „fiu al unor fecioare dezertoare” (υἱὲ κορασίων αὐτομολούντων); „tu îl preferi” (boḥer) este redat prin „ești asociat cu” (μέτοχος εἶ) și „goliciunea” (ʻervat) prin „descoperirea” (ἀποκαλύψεως).',
+  '20:31': 'Septuaginta nu are „tu” (ʼatta) înaintea lui „și regatul tău”, redă „va fi întemeiat” (tikkon) prin ἑτοιμασθήσεται, omite „la mine” (elay) și adaugă obiectul „pe tânăr” (τὸν νεανίαν) după „adu-l”.',
+  '20:32': 'Septuaginta nu are „tatăl său” (aviv) și „i-a spus” (vayomer elav) și redă „să fie omorât” (yumat) prin „să moară” (ἀποθνῄσκει).',
+  '20:33': 'Unde ebraica spune că Șaul a aruncat sulița „ca să-l lovească” (lehakoto), Septuaginta are „ca să-l ucidă” (θανατῶσαι), iar verbul „a aruncat” (vayyatel) este redat prin „a ridicat” (ἐπῆρεν); la „hotărâse” Septuaginta adaugă substantivul „răul acesta” (ἡ κακία αὕτη).',
+  '20:34': 'Septuaginta redă „a fost umilit” (hikhlimo) prin „a hotărât [răul] împotriva lui” (συνετέλεσεν ἐπ᾽ αὐτόν), același verb ca la 20:33, și „s-a întristat” (neʻtsav) prin „a fost zdrobit” (ἐθραύσθη).',
+  '20:41': 'Unde ebraica are „din partea de miazăzi” (meʼetsel hanegev), Septuaginta are „de la ergab” (ἀπὸ τοῦ ἐργάβ), același nume transliterat ca la 20:19, și redă „până când David [a plâns] și mai mult” prin „până la o mare desăvârșire” (ἕως συντελείας μεγάλης).',
+};
