@@ -817,7 +817,7 @@
     position:relative;
   }
   #lib-reader-book-label{
-    max-width:42%;
+    text-align:center;
     overflow:hidden;
     text-overflow:ellipsis;
     white-space:nowrap;
@@ -828,9 +828,9 @@
     flex-shrink:0;
   }
   #lib-reader-chapter-label{
-    flex:1 1 auto;
+    flex:0 0 auto;
     min-width:0;
-    text-align:left;
+    max-width:50%;
     overflow:hidden;
     text-overflow:ellipsis;
     white-space:nowrap;
@@ -6666,7 +6666,9 @@ const SUBFOLDER_CARD_IMAGES = {
     // Doar varianta română, nu tot titlul bilingv — într-o pilă mică, titlul
     // complet ("Ebraic - Român") nu încape și se taie urât.
     const ch0TitleRo = (ch0 && ch0.title && typeof splitHaftarahTitle === "function") ? chapterTitleShown(book, ch0.title) : (ch0 && ch0.title);
-    readerChapterLabel.textContent = ch0TitleRo || "Cap. " + (currentChapterIdx + 1);
+    // La Kabbala/Mișna titlurile lungi de capitol (ex. „Introducere — cele 32 de Netivot…”) nu încap în pilă: apare „Cap. N”, titlul întreg rămâne în dropdown și în corpul paginii
+    const shortCh = (book.slug && /^(kab-|mishna-)/.test(book.slug) && ch0TitleRo && ch0TitleRo.length > 24) ? "Cap. " + (currentChapterIdx + 1) : null;
+    readerChapterLabel.textContent = shortCh || ch0TitleRo || "Cap. " + (currentChapterIdx + 1);
     // În mod inline (Haftarot citite direct în tab-ul Biblia), pila proprie e
     // ascunsă — se actualizează în loc pila "Cărți" principală (#book-pill-label),
     // exact ca la schimbarea unui capitol din Geneza.
