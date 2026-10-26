@@ -12,7 +12,7 @@ for (let i = 0; i < lines.length; i++) {
   if (m && ROM[m[1]]) { b = ROM[m[1]]; books[b] = books[b] || { chapters: {} }; ch = null; pos.push(['book', b, i]); continue; }
   m = L.match(/^CHAPTER (\d+)\./);
   if (m && b) { ch = +m[1]; books[b].chapters[ch] = books[b].chapters[ch] || { title: '', text: [] }; // titlul urmează
-    let t = []; let j = i + 1; while (j < lines.length && lines[j].trim() === '') j++; while (j < lines.length && lines[j].trim() !== '') { t.push(lines[j].trim()); j++; }
+    let t = [L.replace(/^CHAPTER \d+\.\s*/, '').trim()].filter(Boolean); let j = i + 1; while (j < lines.length && lines[j].trim() !== '') { t.push(lines[j].trim()); j++; }
     books[b].chapters[ch].title = t.join(' '); i = j - 1; continue; }
   if (b && ch) books[b].chapters[ch].text.push(L);
 }
