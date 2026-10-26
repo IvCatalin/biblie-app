@@ -5715,7 +5715,7 @@
     },
     {
      "v": "43:7",
-     "t": "[pe] oricine îmi poartă numele și am creat în slava Mea, pe care l-am modelat și l-am făcut.",
+     "t": "[pe] oricine Îmi poartă numele și am creat în slava Mea, pe care l-am modelat și l-am făcut.",
      "heb": "כֹּל הַנִּקְרָא בִשְׁמִי וְלִכְבוֹדִי בְּרָאתִיו יְצַרְתִּיו אַף־עֲשִׂיתִיו",
      "translit": "Kol hanikra vișmi velihvodi berativ ietzartiv af-asitiv.",
      "tokens": [
@@ -5735,7 +5735,7 @@
        "dict_ro": "Kol, „tot, întreg”, apare de mii de ori în Biblia ebraică. În Isaia subliniază universalitatea: toate popoarele și tot pământul sunt chemate să-L recunoască pe DOMNUL."
       },
       {
-       "t": " îmi "
+       "t": " Îmi "
       },
       {
        "t": "poartă",
@@ -5888,7 +5888,7 @@
     },
     {
      "v": "43:8",
-     "t": "Eliberând poporul acela, deși are ochi, și pe cel surd, deși are urechi.",
+     "t": "Eliberând pe poporul acela, deși are ochi, și pe cel surd, deși are urechi.",
      "heb": "הוֹצִיא עַם־עִוֵּר וְעֵינַיִם יֵשׁ וְחֵרְשִׁים וְאָזְנַיִם לָמוֹ",
      "translit": "Hoți am-ivēr veēinaim ieș veherșim veaznaim lamo.",
      "tokens": [
@@ -5905,7 +5905,7 @@
        "dict_ro": "Iața — la forma cauzativă, hoți, „a scoate afară”, verbul ieșirii din Egipt („Eu sunt DOMNUL, care te-a scos”, Exodul 20:2). Rashi: [sunt gata] să-i scot din exil pe cei exilați pentru că au ajuns ca niște orbi; aveau ochi, dar nu vedeau."
       },
       {
-       "t": " "
+       "t": " pe "
       },
       {
        "t": "poporul",
@@ -6332,7 +6332,7 @@
     },
     {
      "v": "43:10",
-     "t": "Voi sunteți martorii Mei — rostirea DOMNULUI — și slujitorul Meu pe care l-am ales, ca să știți și să credeți în Mine, și să înțelegeți că Eu sunt Acela; înaintea Mea nimic nu a fost creat de vreun dumnezeu și nici după Mine nu va fi.",
+     "t": "Voi sunteți martorii Mei — rostirea DOMNULUI — și slujitorul Meu pe care l-am ales, ca să știți și să credeți în Mine, și să înțelegeți că Eu sunt Acela; înaintea Mea nimic nu a fost creat de vreun dumnezeu și nici după Mine nu va fi!”",
      "heb": "אַתֶּם עֵדַי נְאֻם־יְהוָה וְעַבְדִּי אֲשֶׁר בָּחָרְתִּי לְמַעַן תֵּדְעוּ וְתַאֲמִינוּ לִי וְתָבִינוּ כִּי־אֲנִי הוּא לְפָנַי לֹא־נוֹצַר אֵל וְאַחֲרַי לֹא יִהְיֶה",
      "translit": "Atem ēdai neum-ADONAI veavdi așer bahati lemaan tēdeu vetaaminu li vetavinu ki-ani hu lefanai lo-noțar Ēl veaharai lo ihie.",
      "tokens": [
@@ -6560,7 +6560,7 @@
        "dict_ro": "Haia e verbul existenței și al devenirii; din aceeași rădăcină e explicat Numele divin, „Eu sunt Cel ce sunt” (Exodul 3:14). În profeți, „a fi” are adesea sensul de „a se împlini”, „a ajunge”."
       },
       {
-       "t": "."
+       "t": "!”"
       }
      ],
      "textCompare": [
@@ -10215,7 +10215,7 @@
     },
     {
      "v": "55:1",
-     "t": "Toți cei însetați, mergeți la apă, iar cei care nu au bani, mergeți să cumpărați și mâncați, să cumpărați fără bani și fără troc de vin sau lapte.",
+     "t": "Toți cei însetați, mergeți la apă, iar cei care nu au bani, mergeți să cumpărați și mâncați, mergeți să cumpărați fără bani și fără troc de vin sau lapte.",
      "heb": "הוֹי כָּל־צָמֵא לְכוּ לַמַּיִם וַאֲשֶׁר אֵין־לוֹ כָּסֶף לְכוּ שִׁבְרוּ וֶאֱכֹלוּ וּלְכוּ שִׁבְרוּ בְּלוֹא־כֶסֶף וּבְלוֹא מְחִיר יַיִן וְחָלָב",
      "translit": "Hoi kol-țamē lehu lamaim vaașer ein-lo kasef lehu șivru veeholu uleho șivru belo-hesef uvelo mehir iain vehalav.",
      "tokens": [
@@ -10323,7 +10323,7 @@
        "diff_ro": "Ebraica: „mâncați” (ukhlu); Septuaginta: „beți” (πίετε)."
       },
       {
-       "t": ", "
+       "t": ", mergeți "
       },
       {
        "t": "să cumpărați",
@@ -10472,7 +10472,7 @@
     },
     {
      "v": "55:2",
-     "t": "De ce vă cântăriți argintii pentru ce nu este pâine și [rodul] trudei voastre pentru ce nu [vă] satură? Ascultați atent de Mine și veți mânca bine și sufletul vostru se va desfăta în plenitudine.",
+     "t": "De ce vă cântăriți arginții pentru ce nu este pâine și [rodul] trudei voastre pentru ce nu [vă] satură? Ascultați atent de Mine și veți mânca bine și sufletul vostru se va desfăta în plenitudine.",
      "heb": "לָמָּה תִשְׁקְלוּ־כֶסֶף בְּלוֹא־לֶחֶם וִיגִיעֲכֶם בְּלוֹא לְשָׂבְעָה שִׁמְעוּ שָׁמוֹעַ אֵלַי וְאִכְלוּ־טוֹב וְתִתְעַנַּג בַּדֶּשֶׁן נַפְשְׁכֶם",
      "translit": "Lama tișkelu-hesef belo-lehem vighiahem belo lesova șimu șamoa ēlai veihlu-tov vetitanag badeșen nafșehem.",
      "tokens": [
@@ -10495,8 +10495,8 @@
        "t": " "
       },
       {
-       "t": "argintii",
-       "w": "argintii",
+       "t": "arginții",
+       "w": "arginții",
        "heb": "כֶסֶף",
        "translit": "hesef",
        "strong": "H3701",
@@ -10719,7 +10719,7 @@
     },
     {
      "v": "55:3",
-     "t": "Plecați-vă urechile și veniți la Mine, ascultați și sufletul vostru va fi înviorat; voi pecetlui un legământ veșnic cu voi, îndurările lui David cele adevărate.",
+     "t": "Plecați-vă urechile și veniți la Mine, ascultați și sufletul vostru va fi învigorat; voi pecetlui un legământ veșnic cu voi, îndurările lui David cele adevărate.",
      "heb": "הַטּוּ אָזְנְכֶם וּלְכוּ אֵלַי שִׁמְעוּ וּתְחִי נַפְשְׁכֶם וְאֶכְרְתָה לָכֶם בְּרִית עוֹלָם חַסְדֵי דָוִד הַנֶּאֱמָנִים",
      "translit": "Hatu oznehem uleho ēlai șimu utehi nafșehem veehreta lahem berit olam hasdēi David haneemanim.",
      "tokens": [
@@ -10800,8 +10800,8 @@
        "t": " "
       },
       {
-       "t": "va fi înviorat",
-       "w": "va fi înviorat",
+       "t": "va fi învigorat",
+       "w": "va fi învigorat",
        "heb": "וּתְחִי",
        "translit": "uthi",
        "strong": "H2421",
@@ -11942,7 +11942,7 @@
     },
     {
      "v": "40:30",
-     "t": "Flăcăii pot fi obosiți și osteni, iar tinerii se pot negreșit împiedica.",
+     "t": "Flăcăii pot obosi și osteni, iar tinerii se pot negreșit împiedica,",
      "heb": "וְיִעֲפוּ נְעָרִים וְיִגָעוּ וּבַחוּרִים כָּשׁוֹל יִכָּשֵׁלוּ",
      "translit": "Veiaafu nearim veigau uvahurim kașol ikașēlu.",
      "tokens": [
@@ -11962,8 +11962,8 @@
        "t": " "
       },
       {
-       "t": "pot fi obosiți",
-       "w": "pot fi obosiți",
+       "t": "pot obosi",
+       "w": "pot obosi",
        "heb": "וְיִעֲפוּ",
        "translit": "veiafu",
        "strong": "H3286",
@@ -12021,7 +12021,7 @@
        "diff_ro": "Ebraica: „se vor împiedica negreșit”; Septuaginta: „cei aleși vor fi fără putere” (ἐκλεκτοὶ ἀνίσχυες ἔσονται)."
       },
       {
-       "t": "."
+       "t": ","
       }
      ],
      "textCompare": [
@@ -12287,13 +12287,13 @@
     },
     {
      "v": "41:1",
-     "t": "Ascultați-Mă în tăcere, insulelor, și neamurile să-și reînnoiască puterea; să se apropie, așadar, să vorbească, împreună ne vom apropia la judecată.",
+     "t": "Ascultați-mă în tăcere, insulelor, și neamurile să-și reînnoiască puterea; să se apropie, așadar, să vorbească, împreună ne vom apropia la judecată.",
      "heb": "הַחֲרִישׁוּ אֵלַי אִיִּים וּלְאֻמִּים יַחֲלִיפוּ כֹחַ יִגְּשׁוּ אָז יְדַבֵּרוּ יַחְדָּו לַמִּשְׁפָּט נִקְרָבָה",
      "translit": "Haharișu ēlai iim uleumim iahalifu hoah igheșu az iedabēru iahdav lamișpat nikrava.",
      "tokens": [
       {
-       "t": "Ascultați-Mă în tăcere",
-       "w": "Ascultați-Mă în tăcere",
+       "t": "Ascultați-mă în tăcere",
+       "w": "Ascultați-mă în tăcere",
        "heb": "הַחֲרִישׁוּ אֵלַי",
        "translit": "haharișu ēlai",
        "strong": "H2790",
@@ -12503,7 +12503,7 @@
     },
     {
      "v": "41:2",
-     "t": "Cine l-a stârnit [pe Avraham] de la răsărit, cine îi va proclama dreptatea la fiecare pas? Fie ca El să-i dea neamuri înainte și să-l facă să domine peste regi, să-i preschimbe în pulbere sabia, și în pleavă purtată de vânt arcul.",
+     "t": "Cine l-a stârnit [pe Avraham] de la răsărit, cine îi va proclama dreptatea la fiecare pas? Fie ca El să-i dea neamuri înainte și să-l facă să domine peste regi, să îi preschimbe în pulbere sabia, și în pleavă să îi prefacă arcul.",
      "heb": "מִי הֵעִיר מִמִּזְרָח צֶדֶק יִקְרָאֵהוּ לְרַגְלוֹ יִתֵּן לְפָנָיו גּוֹיִם וּמְלָכִים יַרְדְּ יִתֵּן כֶּעָפָר חַרְבּוֹ כְּקַשׁ נִדָּף קַשְׁתּוֹ",
      "translit": "Mi hēir mimizrah țedek ikraēhu leraglo itēn lefanav goim umlahim iard itēn keafar harbo kekaș nidaf kașto.",
      "tokens": [
@@ -12662,8 +12662,8 @@
        "t": ", "
       },
       {
-       "t": "să-i preschimbe",
-       "w": "să-i preschimbe",
+       "t": "să îi preschimbe",
+       "w": "să îi preschimbe",
        "heb": "יִתֵּן",
        "translit": "itēn",
        "strong": "H5414",
@@ -12708,8 +12708,8 @@
        "t": ", și "
       },
       {
-       "t": "în pleavă purtată de vânt",
-       "w": "în pleavă purtată de vânt",
+       "t": "în pleavă",
+       "w": "în pleavă",
        "heb": "כְּקַשׁ נִדָּף",
        "translit": "kekaș nidaf",
        "strong": "H7179",
@@ -12720,7 +12720,7 @@
        "greek_def_ro": "φρύγανον (phryganon) — vreascuri (spulberate)"
       },
       {
-       "t": " "
+       "t": " să îi prefacă "
       },
       {
        "t": "arcul",
@@ -12743,7 +12743,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "מִי הֵעִיר מִמִּזְרָח צֶדֶק יִקְרָאֵהוּ לְרַגְלוֹ יִתֵּן לְפָנָיו גּוֹיִם וּמְלָכִים יַרְדְּ יִתֵּן כֶּעָפָר חַרְבּוֹ כְּקַשׁ נִדָּף קַשְׁתּוֹ",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": "Vezi explicația din dicționar de la primul cuvânt, mai sus, pentru dezbaterea reală asupra identității celui „stârnit de la răsărit”."
+       "note": "Vezi explicația din dicționar de la primul cuvânt, mai sus, pentru dezbaterea reală asupra identității celui „stârnit de la răsărit”. Traducerea Rosen tipărită are „și în pleavă să îi prefacă arcul”, fără echivalent pentru participiul ebraic «nidaf» („purtată de vânt”)."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -13344,7 +13344,7 @@
     },
     {
      "v": "41:6",
-     "t": "[Dar] un om își ajută semanul [să venereze idoli] și fratelui său îi spune: „Fii tare!”",
+     "t": "[Dar] un om își ajută seamănul [să venereze idoli] și fratelui său îi spune: „Fii tare!”.",
      "heb": "אִישׁ אֶת רֵעֵהוּ יַעְזֹרוּ וּלְאָחִיו יֹאמַר חֲזָק",
      "translit": "Iș et rēēhu iaazoru uleahiv iomar hazak.",
      "tokens": [
@@ -13382,8 +13382,8 @@
        "t": " "
       },
       {
-       "t": "semanul",
-       "w": "semanul",
+       "t": "seamănul",
+       "w": "seamănul",
        "heb": "רֵעֵהוּ",
        "translit": "rēēhu",
        "strong": "H7453",
@@ -13438,7 +13438,7 @@
        "diff_ro": "Septuaginta nu are „Fii tare!” (ḥazaq)."
       },
       {
-       "t": "!”"
+       "t": "!”."
       }
      ],
      "textCompare": [
@@ -14620,7 +14620,7 @@
     },
     {
      "v": "41:13",
-     "t": "Căci Eu, DOMNUL, Dumnezeul tău, te iau de mâna dreaptă, Eu, Cel care îți spune: „Nu te teme, căci Eu te voi ajuta!”",
+     "t": "Căci Eu, DOMNUL, Dumnezeul tău, te iau de mâna dreaptă, Eu, Cel care îți spune: „Nu te teme, căci Eu te voi ajuta!",
      "heb": "כִּי אֲנִי יְהוָה אֱלֹהֶיךָ מַחֲזִיק יְמִינֶךָ הָאֹמֵר לְךָ אַל תִּירָא אֲנִי עֲזַרְתִּיךָ",
      "translit": "Ki ani ADONAI Eloheha mahazik iemineha haomēr leha al-tira ani azartiha.",
      "tokens": [
@@ -14743,7 +14743,7 @@
        "diff_ro": "Septuaginta nu are „Eu te voi ajuta” (ani azartikha)."
       },
       {
-       "t": "!”"
+       "t": "!"
       }
      ],
      "textCompare": [
@@ -15196,7 +15196,7 @@
     },
     {
      "v": "41:16",
-     "t": "Îi vei treiera și vântul îi va purta, furtuna îi va risipi, dar tu te vei bucura întru DOMNUL, pe Sfântul lui Israel Îl vei preamări!",
+     "t": "Îi vei treiera și vântul îi va purta, furtuna îi va risipi, dar tu te vei bucura întru DOMNUL, pe Sfântul lui Israel Îl vei preamări!”",
      "heb": "תִּזְרֵם וְרוּחַ תִּשָּׂאֵם וּסְעָרָה תָּפִיץ אֹתָם וְאַתָּה תָּגִיל בַּיהוָה בִּקְדוֹשׁ יִשְׂרָאֵל תִּתְהַלָּל",
      "translit": "Tizrēm veruah tisaēm useara tafiț otam veata taghil b'ADONAI bikdoș Israēl tithalal.",
      "tokens": [
@@ -15348,7 +15348,7 @@
        "diff_ro": "Ebraica: „Îl vei preamări” (tithallal), la persoana a doua; Septuaginta: „se vor bucura” (ἀγαλλιάσονται), la persoana a treia."
       },
       {
-       "t": "!"
+       "t": "!”"
       }
      ],
      "textCompare": [
@@ -19936,7 +19936,7 @@
     },
     {
      "v": "4:24",
-     "t": "Ea și-a înșeuat măgărița și i-a spus slujitorului ei: „Mână, și mergi și să nu te oprești până când nu îți voi spune.”",
+     "t": "Ea și-a înșeuat măgărița și i-a spus slujitorului ei: „Mână, și mergi și să nu te opri până când nu îți voi spune.”",
      "heb": "וַתַּחֲבֹשׁ הָאָתוֹן וַתֹּאמֶר אֶל־נַעֲרָהּ נְהַג וָלֵךְ אַל־תַּעֲצָר־לִי לִרְכֹּב כִּי אִם־אָמַרְתִּי לָךְ",
      "translit": "Vatahavoș haaton vatomer el-naara nehag valeh al-taațor-li lirkov ki im-amarti lah.",
      "tokens": [
@@ -20034,8 +20034,8 @@
        "t": " și să nu "
       },
       {
-       "t": "te oprești",
-       "w": "te oprești",
+       "t": "te opri",
+       "w": "te opri",
        "heb": "תַּעֲצָר",
        "translit": "taațar",
        "strong": "H6113",
@@ -20852,7 +20852,7 @@
     },
     {
      "v": "4:28",
-     "t": "Ea a spus: „Am cerut eu oare un fiu de la stăpânul meu? N-am spus eu oare: «Nu mă amăgi!»?”",
+     "t": "Ea a spus: „Am cerut eu oare un fiu de la stăpânul meu? N-am spus eu oare: «Nu mă amăgi!» ?”",
      "heb": "וַתֹּאמֶר הֲשָׁאַלְתִּי בֵן מֵאֵת אֲדֹנִי הֲלֹא אָמַרְתִּי לֹא תַשְׁלֶה אֹתִי",
      "translit": "Vatomer hașaalti vēn mēēt adoni halo amarti lo tașlē oti.",
      "tokens": [
@@ -20947,7 +20947,7 @@
        "greek_def_ro": "πλανάω (planao) — a înșela, a duce în rătăcire"
       },
       {
-       "t": "!»?”"
+       "t": "!» ?”"
       }
      ],
      "textCompare": [
@@ -22260,7 +22260,7 @@
     },
     {
      "v": "4:35",
-     "t": "Apoi [Elișa] s-a dat la o parte și s-a plimbat prin casă, încolo și încoace, s-a ridicat și s-a culcat peste el. Și tânărul a strănutat de șapte ori și tânărul a deschis ochii.",
+     "t": "Apoi [Elișa] s-a dat la o parte și s-a plimbat prin casă, încolo și încoace, s-a ridicat și s-a culcat peste el. Și tânărul a strănutat de șapte ori și tânărul și-a deschis ochii.",
      "heb": "וַיָּשָׁב וַיֵּלֶךְ בַּבַּיִת אַחַת הֵנָּה וְאַחַת הֵנָּה וַיַּעַל וַיִּגְהַר עָלָיו וַיְזוֹרֵר הַנַּעַר עַד־שֶׁבַע פְּעָמִים וַיִּפְקַח הַנַּעַר אֶת־עֵינָיו",
      "translit": "Vaiașov vaiēleh babait ahat hēna veahat hēna vaiaal vaighar alav vaizorēr hanaar ad-șeva peamim vaifkah hanaar et-ēinav.",
      "tokens": [
@@ -22430,7 +22430,7 @@
        "greek_def_ro": "παιδάριον (paidarion) — slujitor, băiat, copil"
       },
       {
-       "t": " "
+       "t": " și-"
       },
       {
        "t": "a deschis",
@@ -22515,7 +22515,7 @@
     },
     {
      "v": "4:36",
-     "t": "El l-a chemat pe Ghehazi și i-a spus: „Cheam-o pe femeia șunamită.” El a chemat-o și ea a venit la el; și el i-a spus: „Ia-ți copilul!”",
+     "t": "El l-a chemat pe Ghehazi și a spus: „Cheam-o pe femeia șunamită.” El a chemat-o și ea a venit la el; și el i-a spus: „Ia-ți copilul!”",
      "heb": "וַיִּקְרָא אֶל־גֵּיחֲזִי וַיֹּאמֶר קְרָא אֶל־הַשֻּׁנַמִּית הַזֹּאת וַיִּקְרָאֶהָ וַתָּבוֹא אֵלָיו וַיֹּאמֶר שְׂאִי בְנֵךְ",
      "translit": "Vaikra el-Ghēihazi vaiomer kera el-hașunamit hazot vaikraeha vatavo ēlav vaiomer seī venēh.",
      "tokens": [
@@ -22554,8 +22554,8 @@
        "t": " și "
       },
       {
-       "t": "i-a spus",
-       "w": "i-a spus",
+       "t": "a spus",
+       "w": "a spus",
        "heb": "וַיֹּאמֶר",
        "translit": "vaiomer",
        "strong": "H559",
@@ -26236,7 +26236,7 @@
     },
     {
      "v": "1:18",
-     "t": "Dar acum, iată, Adonia s-a numit [singur] rege, stăpânul meu, regele, nu știe!",
+     "t": "Dar acum, iată, Adonia s-a numit [singur] rege; și acum, stăpânul meu, regele, nu știe!",
      "heb": "וְעַתָּה הִנֵּה אֲדֹנִיָּה מָלָךְ וְעַתָּה אֲדֹנִי הַמֶּלֶךְ לֹא יָדָעְתָּ",
      "translit": "Veata hinē Adoniahu maläh veata adoni hameleh lo iadata.",
      "tokens": [
@@ -26286,7 +26286,7 @@
        "greek_def_ro": "βασιλεύω (basileuo) — a domni"
       },
       {
-       "t": ", "
+       "t": "; și acum, "
       },
       {
        "t": "stăpânul meu, regele",
@@ -27256,7 +27256,7 @@
     },
     {
      "v": "1:24",
-     "t": "Și Natan a spus: „Stăpâne, rege, ai spus tu oare: «Adonia va domni după mine și el va sta pe tronul meu»?",
+     "t": "Și Natan a spus: „Stăpâne, rege, ai spus tu oare: «Adonia va domni după mine și va sta pe tronul meu»?",
      "heb": "וַיֹּאמֶר נָתָן אֲדֹנִי הַמֶּלֶךְ אַתָּה אָמַרְתָּ אֲדֹנִיָּהוּ יִמְלֹךְ אַחֲרַי וְהוּא יֵשֵׁב עַל־כִּסְאִי",
      "translit": "Vaiomer Natan adoni hameleh ata amarta Adoniahu imloh aharai vehu iēșēv al-kisi.",
      "tokens": [
@@ -27367,21 +27367,6 @@
       },
       {
        "t": " după mine și "
-      },
-      {
-       "t": "el",
-       "w": "el",
-       "heb": "וְהוּא",
-       "translit": "vehu",
-       "strong": "H1931",
-       "pos": "pronume personal",
-       "def_ro": "el",
-       "dict_ro": "Hu, „el”, capătă în Isaia 41-48 un sens teologic în formula ani hu, „Eu sunt Acela”: Dumnezeu e Același, neschimbat, de la început până la sfârșit (Isaia 43:10; 48:12).",
-       "greek": "αὐτός (autos)",
-       "greek_def_ro": "αὐτός (autos) — el"
-      },
-      {
-       "t": " "
       },
       {
        "t": "va sta",
@@ -29841,7 +29826,7 @@
     },
     {
      "v": "1:6",
-     "t": "„Un fiu își cinstește tatăl și un slujitor stăpânul. Dacă Eu sunt Tatăl, unde-i cinstirea Mea? Și dacă Eu sunt Stăpânul, unde-i teama de Mine” – v-a spus DOMNUL Oștirilor – „preoților care Îmi disprețuiți numele?” Dar voi spuneți: „Prin ce Ți-am disprețuit numele?”",
+     "t": "„Un fiu își va cinsti tatăl și un slujitor stăpânul. Dacă Eu sunt Tatăl, unde-i cinstirea Mea, și dacă sunt Stăpânul, unde-i teama de Mine” – v-a spus DOMNUL Oștirilor – „preoților care Îmi disprețuiți numele?” Dar voi spuneți: „Prin ce Ți-am disprețuit numele?”",
      "heb": "בֵּן יְכַבֵּד אָב וְעֶבֶד אֲדֹנָיו וְאִם־אָב אָנִי אַיֵּה כְבוֹדִי וְאִם־אֲדוֹנִים אָנִי אַיֵּה מוֹרָאִי אָמַר יְהוָה צְבָאוֹת לָכֶם הַכֹּהֲנִים בּוֹזֵי שְׁמִי וַאֲמַרְתֶּם בַּמֶּה בָזִינוּ אֶת־שְׁמֶךָ",
      "translit": "Bēn iehabēd av veeved adonav veim-av ani aiē hevodi veim-adonim ani aiē morai amar ADONAI Țevaot lahem hakohanim bozēi șemi vaamartem bame vazinu et-șemeha.",
      "tokens": [
@@ -29864,8 +29849,8 @@
        "t": " "
       },
       {
-       "t": "își cinstește",
-       "w": "își cinstește",
+       "t": "își va cinsti",
+       "w": "își va cinsti",
        "heb": "יְכַבֵּד",
        "translit": "iehabēd",
        "strong": "H3513",
@@ -29967,22 +29952,10 @@
        "greek_def_ro": "δόξα (doxa) — slavă, cinstire"
       },
       {
-       "t": "? Și dacă "
+       "t": ", și dacă "
       },
       {
-       "t": "Eu",
-       "w": "Eu",
-       "heb": "אָנִי",
-       "translit": "ani",
-       "strong": "H589",
-       "pos": "pronume personal",
-       "def_ro": "Eu",
-       "dict_ro": "Ani este „eu”, forma obișnuită a pronumelui la persoana întâi. Rostit de DOMNUL în disputa cu preoții, pune greutate pe cine vorbește: „Eu sunt Tatăl”, „Eu sunt Stăpânul”, „Eu sunt Rege mare”, adică Cel față de care se datorează cinstire.",
-       "greek": "ἐγώ (ego)",
-       "greek_def_ro": "ἐγώ (ego) — eu"
-      },
-      {
-       "t": " sunt "
+       "t": "sunt "
       },
       {
        "t": "Stăpânul",
@@ -31591,7 +31564,7 @@
     },
     {
      "v": "1:13",
-     "t": "Și spuneți: «Iată, este atât de dificil», și Îl întristați – a spus DOMNUL Oștirilor – „și aduceți dobitoace furate, șchioape și bolnave, și aduceți unul ca prinos. Oare să-l [primesc] din mâna voastră?”, a spus DOMNUL.",
+     "t": "Și spuneți: «Iată, este atât de dificil», și Îl întristați – a spus DOMNUL Oștirilor – „și aduceți dobitoace furate, șchioape și bolnave, și aduceți unul ca prinos. Oare să doresc să-l [primesc] din mâna voastră?”, a spus DOMNUL.",
      "heb": "וַאֲמַרְתֶּם הִנֵּה מַתְּלָאָה וְהִפַּחְתֶּם אוֹתוֹ אָמַר יְהוָה צְבָאוֹת וַהֲבֵאתֶם גָּזוּל וְאֶת־הַפִּסֵּחַ וְאֶת־הַחוֹלֶה וַהֲבֵאתֶם אֶת־הַמִּנְחָה הַאֶרְצֶה אוֹתָהּ מִיֶּדְכֶם אָמַר יְהוָה",
      "translit": "Vaamartem hinē matlaa vehipahtem oto amar ADONAI Țevaot vahavētem gazul veet-hapisēah veet-haholē vahavētem et-haminha haerțe otah miedhem amar ADONAI.",
      "tokens": [
@@ -31765,8 +31738,8 @@
        "t": ". Oare "
       },
       {
-       "t": "să-l [primesc]",
-       "w": "să-l [primesc]",
+       "t": "să doresc să-l [primesc]",
+       "w": "să doresc să-l [primesc]",
        "heb": "הַאֶרְצֶה",
        "translit": "haerțe",
        "strong": "H7521",
@@ -38098,7 +38071,7 @@
     },
     {
      "v": "13:6",
-     "t": "Când au venit la pășunea lor și s-au săturat, s-au săturat și inima lor a devenit trufașă, și de aceea M-au uitat.",
+     "t": "Când au venit la pășunea lor și s-au săturat, s-au săturat și inima lor a devenit trufașă și de aceea M-au uitat.",
      "heb": "כְּמַרְעִיתָם וַיִּשְׂבָּעוּ שָׂבְעוּ וַיָּרָם לִבָּם עַל־כֵּן שְׁכֵחוּנִי",
      "translit": "Kemarietam vaișbau savu vaiaram libam al-kēn șeheihuni.",
      "tokens": [
@@ -38178,7 +38151,7 @@
        "greek_def_ro": "ὑψόω (hypsoo) — a înălța"
       },
       {
-       "t": ", și de aceea "
+       "t": " și de aceea "
       },
       {
        "t": "M-au uitat",
@@ -38377,7 +38350,7 @@
     },
     {
      "v": "13:8",
-     "t": "Voi da peste ei ca o ursoaică rămasă fără pui și voi sfâșia inima lor închisă. Îi voi mânca acolo ca un leu; fiara câmpului îi va sfâșia.",
+     "t": "Voi da peste ei ca o ursoaică rămasă fără pui și voi sfâșia inima lor închisă.",
      "heb": "אֶפְגְּשֵׁם כְּדֹב שַׁכּוּל וְאֶקְרַע סְגוֹר לִבָּם וְאֹכְלֵם שָׁם כְּלָבִיא חַיַּת הַשָּׂדֶה תְּבַקְּעֵם",
      "translit": "Efgeșēm kedov șakul veekra segor libam veohlēm șam kelavi haiat hasadē tevakeēm.",
      "tokens": [
@@ -38439,82 +38412,6 @@
        "greek_def_ro": "συγκλεισμὸς καρδίας (synkleismos kardias) — încuietoarea inimii"
       },
       {
-       "t": ". "
-      },
-      {
-       "t": "Îi voi mânca",
-       "w": "Îi voi mânca",
-       "heb": "וְאֹכְלֵם",
-       "translit": "veohlēm",
-       "strong": "H398",
-       "pos": "verb, qal imperfect + sufix",
-       "def_ro": "îi voi mânca",
-       "dict_ro": "Akhal înseamnă „a mânca”: „din orice pom îți e îngăduit să mănânci” (Geneza 2:16). Aici DOMNUL ca leul „mănâncă”, adică devorează pe cei vinovați.",
-       "greek": "κατεσθίω (katesthio)",
-       "greek_def_ro": "κατεσθίω (katesthio) — a devora"
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "acolo",
-       "w": "acolo",
-       "heb": "שָׁם",
-       "translit": "șam",
-       "strong": "H8033",
-       "pos": "adverb",
-       "def_ro": "acolo",
-       "dict_ro": "Șam înseamnă „acolo”. Locul contează: la Bet-El Dumnezeu i-a vorbit lui Iacov. Cuvântul leagă istoria strămoșului de chemarea adresată poporului.",
-       "greek": "ἐκεῖ (ekei)",
-       "greek_def_ro": "ἐκεῖ (ekei) — acolo"
-      },
-      {
-       "t": " ca un "
-      },
-      {
-       "t": "leu",
-       "w": "leu",
-       "heb": "כְּלָבִיא",
-       "translit": "kelavi",
-       "strong": "H3833",
-       "pos": "substantiv, masculin și feminin singular",
-       "def_ro": "leoaică",
-       "dict_ro": "Lavi înseamnă „leoaică”; Iuda este numit „pui de leu” (Geneza 49:9). Leoaica este fiara cea mai primejdioasă când își apără puii.",
-       "greek": "σκύμνος (skymnos)",
-       "greek_def_ro": "σκύμνος (skymnos) — pui de leu",
-       "diff_ro": "Ebraica: „ca un leu” (kelavi); Septuaginta: „puii de leu ai pădurii” (σκύμνοι δρυμοῦ)."
-      },
-      {
-       "t": "; "
-      },
-      {
-       "t": "fiara câmpului",
-       "w": "fiara câmpului",
-       "heb": "חַיַּת הַשָּׂדֶה",
-       "translit": "haiat hasade",
-       "strong": "H2416",
-       "pos": "substantiv, feminin singular construct + substantiv, masculin singular",
-       "def_ro": "fiara câmpului",
-       "dict_ro": "„Hayat hasadeh” înseamnă „fiara câmpului” (Geneza 2:19). Fiarele sălbatice, care vor sfâșia, sunt instrumentele pedepsei.",
-       "greek": "θηρίον ἀγροῦ (therion agrou)",
-       "greek_def_ro": "θηρίον ἀγροῦ (therion agrou) — fiara câmpului"
-      },
-      {
-       "t": " "
-      },
-      {
-       "t": "îi va sfâșia",
-       "w": "îi va sfâșia",
-       "heb": "תְּבַקְּעֵם",
-       "translit": "tevakēm",
-       "strong": "H1234",
-       "pos": "verb, piel imperfect + sufix",
-       "def_ro": "îi va sfâșia",
-       "dict_ro": "Baqa înseamnă „a despica, a sfâșia”: „s-au despicat izvoarele adâncului” (Geneza 7:11). Fiara câmpului va despica pe vinovați.",
-       "greek": "διασπάω (diaspao)",
-       "greek_def_ro": "διασπάω (diaspao) — a sfâșia"
-      },
-      {
        "t": "."
       }
      ],
@@ -38523,7 +38420,7 @@
        "source": "Textul Masoretic (ebraică)",
        "original": "אֶפְגְּשֵׁם כְּדֹב שַׁכּוּל וְאֶקְרַע סְגוֹר לִבָּם וְאֹכְלֵם שָׁם כְּלָבִיא חַיַּת הַשָּׂדֶה תְּבַקְּעֵם",
        "translation": "Traducerea de mai sus, a rabinului Rosen.",
-       "note": "Fără divergențe structurale majore față de LXX la acest verset."
+       "note": "Fără divergențe structurale majore față de LXX la acest verset. Ediția Rosen tipărită nu redă a doua jumătate a versetului, „Îi voi mânca acolo ca un leu; fiara câmpului îi va sfâșia” (ebr. וְאֹכְלֵם שָׁם כְּלָבִיא חַיַּת הַשָּׂדֶה תְּבַקְּעֵם), prezentă în textul ebraic și în LXX."
       },
       {
        "source": "Septuaginta (greacă, sec. III-II î.Hr.)",
@@ -39092,7 +38989,7 @@
     },
     {
      "v": "13:13",
-     "t": "Durerile nașterii au venit peste el, el este ca un copil neînțelept, căci în timp, nașterea copiilor nu va dăinui.",
+     "t": "Durerile nașterii au venit peste el, el este ca un copil neînțelept, căci în timp nașterea copiilor nu va dăinui.",
      "heb": "חֶבְלֵי יוֹלֵדָה יָבֹאוּ לוֹ הוּא־בֵן לֹא חָכָם כִּי־עֵת לֹא־יַעֲמֹד בְּמִשְׁבַּר בָּנִים",
      "translit": "Hevlēi ioledah iavou lo hu-vēn lo hahom ki-ēt lo-iaamod bemișbar banim.",
      "tokens": [
@@ -39184,7 +39081,7 @@
        "diff_ro": "Septuaginta nu are un corespondent pentru „în timp” (et)."
       },
       {
-       "t": ", "
+       "t": " "
       },
       {
        "t": "nașterea copiilor",
@@ -40140,7 +40037,7 @@
     },
     {
      "v": "14:2",
-     "t": "Luați cu voi vorbe și întoarceți-vă la DOMNUL. Și spuneți-I: „Tot păcatul iartă-l și primește bunătatea și fie ca buzele noastre să se substituie vitelor [jertfite].”",
+     "t": "Luați cu voi vorbe și întoarceți-vă la DOMNUL. Și spuneți-I: „Tot păcatul iartă-l și primește bunătatea și fie ca buzele noastre să se substituie vitelor [jertfite].",
      "heb": "קְחוּ עִמָּכֶם דְּבָרִים וְשׁוּבוּ אֶל־יְהוָה אִמְרוּ אֵלָיו כָּל־תִּשָּׂא עָוֹן וְקַח־טוֹב וּנְשַׁלְּמָה פָרִים שְׂפָתֵינוּ",
      "translit": "Kehu imahem devarim veșuvu el-ADONAI imru ēlav kol-tisa avon vekah-tov uneșalema farim sefatēnu.",
      "tokens": [
@@ -40336,7 +40233,7 @@
        "diff_ro": "Septuaginta nu are „vitelor” (farim); în loc: „rodul buzelor noastre”."
       },
       {
-       "t": " [jertfite].”"
+       "t": " [jertfite]."
       }
      ],
      "textCompare": [
@@ -40390,7 +40287,7 @@
     },
     {
      "v": "14:3",
-     "t": "Asiria nu ne va salva, cal nu vom mai încăleca și niciodată nu vom mai numi lucrarea mâinilor noastre «dumnezeul nostru» – [ci] la Tine găsește milă orfanul.",
+     "t": "Asiria nu ne va salva, cal nu vom mai încăleca și niciodată nu vom mai numi lucrarea mâinilor noastre «dumnezeul nostru» – [ci] la Tine găsește milă orfanul.”",
      "heb": "אַשּׁוּר לֹא יוֹשִׁיעֵנוּ עַל־סוּס לֹא נִרְכָּב וְלֹא־נֹאמַר עוֹד אֱלֹהֵינוּ לְמַעֲשֵׂה יָדֵינוּ אֲשֶׁר־בְּךָ יְרֻחַם יָתוֹם",
      "translit": "Așur lo ioșiēnu al-sus lo nirkav velo-nomar od Elohēnu lemaasē iadēnu așer-beha ieruham iatom.",
      "tokens": [
@@ -40527,7 +40424,7 @@
        "greek_def_ro": "ὀρφανός (orphanos) — orfan"
       },
       {
-       "t": "."
+       "t": ".”"
       }
      ],
      "textCompare": [
@@ -41717,7 +41614,7 @@
     },
     {
      "v": "Ioel 2:26",
-     "t": "Și veți mânca, veți mânca și vă veți sătura, și veți lăuda numele DOMNULUI, Dumnezeului vostru, care a făcut minuni pentru voi; și poporul Meu nu se va mai rușina.",
+     "t": "Și veți mânca, veți mânca și vă veți sătura, și veți slăvi numele DOMNULUI, Dumnezeului vostru, care a făcut minuni pentru voi; și poporul Meu nu se va mai rușina.",
      "heb": "וַאֲכַלְתֶּם אָכוֹל וְשָׂבוֹעַ וְהִלַּלְתֶּם אֶת־שֵׁם יְהוָה אֱלֹהֵיכֶם אֲשֶׁר־עָשָׂה עִמָּכֶם לְהַפְלִיא וְלֹא־יֵבֹשׁוּ עַמִּי לְעוֹלָם",
      "translit": "Vaahaltem ahol veșavoa vehilaltem et-șēm ADONAI Elohēhem așer-asa imahem lehafli velo-iēvoșu ami le'olam.",
      "tokens": [
@@ -41755,8 +41652,8 @@
        "t": ", și "
       },
       {
-       "t": "veți lăuda",
-       "w": "veți lăuda",
+       "t": "veți slăvi",
+       "w": "veți slăvi",
        "heb": "וְהִלַּלְתֶּם",
        "translit": "vehilaltem",
        "strong": "H1984",
@@ -41917,7 +41814,7 @@
     },
     {
      "v": "Ioel 2:27",
-     "t": "Și veți ști că Eu sunt în mijlocul lui Israel, Eu sunt DOMNUL, Dumnezeul vostru, și nu este altul; și poporul Meu nu se va mai rușina.",
+     "t": "Și vei ști că Eu sunt în mijlocul lui Israel, Eu sunt DOMNUL, Dumnezeul vostru, și nu este altul; și poporul Meu nu se va mai rușina.",
      "heb": "וִידַעְתֶּם כִּי בְקֶרֶב יִשְׂרָאֵל אָנִי וַאֲנִי יְהוָה אֱלֹהֵיכֶם וְאֵין עוֹד וְלֹא־יֵבֹשׁוּ עַמִּי לְעוֹלָם",
      "translit": "Videatem ki vekerev Israēl ani vaani ADONAI Elohēhem veēin od velo-iēvoșu ami le'olam.",
      "tokens": [
@@ -41925,8 +41822,8 @@
        "t": "Și "
       },
       {
-       "t": "veți ști",
-       "w": "veți ști",
+       "t": "vei ști",
+       "w": "vei ști",
        "heb": "וִידַעְתֶּם",
        "translit": "vidatem",
        "strong": "H3045",
@@ -42691,7 +42588,7 @@
     },
     {
      "v": "1:4",
-     "t": "Chiar de te-nalți ca un vultur și îți așezi cuibul printre stele, de acolo te voi coborî – rostirea DOMNULUI.",
+     "t": "Chiar de te înalți ca un vultur și îți așezi cuibul printre stele, de acolo te voi coborî – rostirea DOMNULUI.",
      "heb": "אִם־תַּגְבִּיהַּ כַּנֶּשֶׁר וְאִם־בֵּין כּוֹכָבִים שִׂים קִנֶּךָ מִשָּׁם אוֹרִידְךָ נְאֻם־יְהוָה",
      "translit": "Im-tagbiha kaneșer veim-bēin kohavim sim kineha mișam oridha neum-ADONAI.",
      "tokens": [
@@ -42699,8 +42596,8 @@
        "t": "Chiar de "
       },
       {
-       "t": "te-nalți",
-       "w": "te-nalți",
+       "t": "te înalți",
+       "w": "te înalți",
        "heb": "תַּגְבִּיהַּ",
        "translit": "tagbiha",
        "strong": "H1361",
@@ -43068,7 +42965,7 @@
     },
     {
      "v": "1:6",
-     "t": "Cât de răvășit va fi Esau, cât de răscolite [vor fi] comorile lui ascunse!",
+     "t": "Cât de răvășit va fi Esav, cât de răscolite [vor fi] comorile lui ascunse!",
      "heb": "אֵיךְ נֶחְפְּשׂוּ עֵשָׂו נִבְעוּ מַצְפֻּנָיו",
      "translit": "Ēih nehpesu Ēsav nivu matzpunav.",
      "tokens": [
@@ -43091,8 +42988,8 @@
        "t": " va fi "
       },
       {
-       "t": "Esau",
-       "w": "Esau",
+       "t": "Esav",
+       "w": "Esav",
        "heb": "עֵשָׂו",
        "translit": "ēsav",
        "strong": "H6215",
@@ -43400,7 +43297,7 @@
     },
     {
      "v": "1:8",
-     "t": "Oare în ziua aceea – rostirea DOMNULUI – nu voi face să se piardă înțelepții Edomului și priceperea din muntele lui Esau?",
+     "t": "Oare în ziua aceea – rostirea DOMNULUI – nu voi face să se piardă înțelepții Edomului și priceperea din muntele lui Esav?",
      "heb": "הֲלוֹא בַּיּוֹם הַהוּא נְאֻם־יְהוָה וְהַאֲבַדְתִּי חֲכָמִים מֵאֱדוֹם וּתְבוּנָה מֵהַר עֵשָׂו",
      "translit": "Halo baiom hahu neum-ADONAI vehaavadtī hahamim mē'Edom utevuna mēhar Ēsav.",
      "tokens": [
@@ -43498,8 +43395,8 @@
        "t": " din "
       },
       {
-       "t": "muntele lui Esau",
-       "w": "muntele lui Esau",
+       "t": "muntele lui Esav",
+       "w": "muntele lui Esav",
        "heb": "מֵהַר עֵשָׂו",
        "translit": "mēhar ēsav",
        "strong": "H2022",
@@ -43560,7 +43457,7 @@
     },
     {
      "v": "1:9",
-     "t": "Puternicii tăi de la miazăzi vor fi descurajați, ca nimeni din muntele lui Esau să nu scape neucis în măcel.",
+     "t": "Puternicii tăi de la miazăzi vor fi descurajați, ca nimeni din muntele lui Esav să nu scape neucis în măcel.",
      "heb": "וְחַתּוּ גִבּוֹרֶיךָ תֵּימָן לְמַעַן יִכָּרֶת־אִישׁ מֵהַר עֵשָׂו מִקָּטֶל",
      "translit": "Vehatu ghiboreha Tēiman lemaan ikaret-iș mēhar Ēsav mikatel.",
      "tokens": [
@@ -43625,8 +43522,8 @@
        "t": " din "
       },
       {
-       "t": "muntele lui Esau",
-       "w": "muntele lui Esau",
+       "t": "muntele lui Esav",
+       "w": "muntele lui Esav",
        "heb": "מֵהַר עֵשָׂו",
        "translit": "mēhar ēsav",
        "strong": "H2022",
@@ -45168,7 +45065,7 @@
     },
     {
      "v": "1:18",
-     "t": "Casa lui Iacov va fi foc, și casa lui Iosef flacără, și casa lui Esau paie: se vor aprinde printre ei și-i vor mistui și nu va fi niciun supraviețuitor din casa lui Esau, căci DOMNUL a vorbit!",
+     "t": "Casa lui Iacov va fi foc, și casa lui Iosef flacără, și casa lui Esav paie: se vor aprinde printre ei și-i vor mistui și nu va fi niciun supraviețuitor din casa lui Esav, căci DOMNUL a vorbit!",
      "heb": "וְהָיָה בֵית־יַעֲקֹב אֵשׁ וּבֵית יוֹסֵף לֶהָבָה וּבֵית עֵשָׂו לְקַשׁ וְדָלְקוּ בָהֶם וַאֲכָלוּם וְלֹא־יִהְיֶה שָׂרִיד לְבֵית עֵשָׂו כִּי יְהוָה דִּבֵּר",
      "translit": "Vehaia vēit-Iaakov ēș uvēit Iosēf lehava uvēit Ēsav lekaș vedalku vahem vaahalum velo-ihiē sarid levēit Ēsav ki ADONAI dibēr.",
      "tokens": [
@@ -45248,8 +45145,8 @@
        "t": ", și "
       },
       {
-       "t": "casa lui Esau",
-       "w": "casa lui Esau",
+       "t": "casa lui Esav",
+       "w": "casa lui Esav",
        "heb": "וּבֵית עֵשָׂו",
        "translit": "uvēt ēsav",
        "strong": "H1004",
@@ -45339,8 +45236,8 @@
        "t": " din "
       },
       {
-       "t": "casa lui Esau",
-       "w": "casa lui Esau",
+       "t": "casa lui Esav",
+       "w": "casa lui Esav",
        "heb": "לְבֵית עֵשָׂו",
        "translit": "levēt ēsav",
        "strong": "H1004",
@@ -45440,7 +45337,7 @@
     },
     {
      "v": "1:19",
-     "t": "Vor moșteni la miazăzi, muntele lui Esau; și podișul, Filistia; și vor moșteni câmpul lui Efraim și câmpul Samariei; și Beniamin [va moșteni] Ghiladul.",
+     "t": "Vor moșteni la miazăzi, muntele lui Esav; și podișul, Filistia; și vor moșteni câmpul lui Efraim și câmpul Samariei; și Beniamin [va moșteni] Ghiladul.",
      "heb": "וְיָרְשׁוּ הַנֶּגֶב אֶת־הַר עֵשָׂו וְהַשְּׁפֵלָה אֶת־פְּלִשְׁתִּים וְיָרְשׁוּ אֶת־שְׂדֵה אֶפְרַיִם וְאֵת שְׂדֵה שֹׁמְרוֹן וּבִנְיָמִן אֶת־הַגִּלְעָד",
      "translit": "Veiarșu ha'Neghev et-har Ēsav vehașefēla et-pelishtim veiarșu et-sedē Efraim veēt sedē Șomron u'Viniamin et-ha'Ghilad.",
      "tokens": [
@@ -45475,8 +45372,8 @@
        "t": ", "
       },
       {
-       "t": "muntele lui Esau",
-       "w": "muntele lui Esau",
+       "t": "muntele lui Esav",
+       "w": "muntele lui Esav",
        "heb": "הַר עֵשָׂו",
        "translit": "har ēsav",
        "strong": "H2022",
@@ -45829,7 +45726,7 @@
     },
     {
      "v": "1:21",
-     "t": "Izbăvitorii se vor urca pe muntele Țion ca să judece muntele lui Esau, și a DOMNULUI va fi împărăția!",
+     "t": "Izbăvitorii se vor urca pe muntele Țion ca să judece muntele lui Esav, și a DOMNULUI va fi împărăția!",
      "heb": "וְעָלוּ מוֹשִׁעִים בְּהַר צִיּוֹן לִשְׁפֹּט אֶת־הַר עֵשָׂו וְהָיְתָה לַיהוָה הַמְּלוּכָה",
      "translit": "Vealu moșiim behar Tzion lishpot et-har Ēsav vehaita l'ADONAI hameluha.",
      "tokens": [
@@ -45894,8 +45791,8 @@
        "t": " "
       },
       {
-       "t": "muntele lui Esau",
-       "w": "muntele lui Esau",
+       "t": "muntele lui Esav",
+       "w": "muntele lui Esav",
        "heb": "הַר עֵשָׂו",
        "translit": "har ēsav",
        "strong": "H2022",
@@ -46009,7 +45906,7 @@
    "verses": [
     {
      "v": "2:6",
-     "t": "Așa a spus DOMNUL: „Pentru trei fărădelegi ale lui Israel – și pentru a patra să nu cer socoteală? – pentru că au vândut un om drept pe argint și un sărac pentru o pereche de încălțări!",
+     "t": "Așa a spus DOMNUL: „Pentru trei fărădelegi ale lui Israel – și pentru a patra să nu cer socoteală? – pentru că au vândut un om drept pe argint și un sărac pentru o pereche de încălțări?",
      "heb": "כֹּה אָמַר יְהוָה עַל־שְׁלֹשָׁה פִּשְׁעֵי יִשְׂרָאֵל וְעַל־אַרְבָּעָה לֹא אֲשִׁיבֶנּוּ עַל־מִכְרָם בַּכֶּסֶף צַדִּיק וְאֶבְיוֹן בַּעֲבוּר נַעֲלָיִם",
      "translit": "Ko amar ADONAI al-șeloșa pișēi Israēl veal-arbaa lo așivenu al-mihram bakesef tzadik veevion baavur naalaim.",
      "tokens": [
@@ -46192,7 +46089,7 @@
        "greek_def_ro": "ὑπόδημα (hypodema) — încălțăminte"
       },
       {
-       "t": "!"
+       "t": "?"
       }
      ],
      "textCompare": [
@@ -46246,13 +46143,13 @@
     },
     {
      "v": "2:7",
-     "t": "Cei care doresc ca pulberea pământului să fie peste capetele săracilor, cei care strâmbă calea celor nevoiași! Un om și tatăl lui vin la aceeași fecioară, pentru ca să pângărească numele Meu cel sfânt.",
+     "t": "Cei care își doresc ca pulberea pământului să fie peste capetele săracilor, cei care strâmbă calea celor nevoiași! Un om și tatăl lui vin de la aceeași fecioară, pentru ca să pângărească numele Meu cel sfânt.",
      "heb": "הַשֹּׁאֲפִים עַל־עֲפַר־אֶרֶץ בְּרֹאשׁ דַּלִּים וְדֶרֶךְ עֲנָוִים יַטּוּ וְאִישׁ וְאָבִיו יֵלְכוּ אֶל־הַנַּעֲרָה לְמַעַן חַלֵּל אֶת־שֵׁם קָדְשִׁי",
      "translit": "Hașoafim al-afar-eretz beroș dalim vedereh anavim iatu veiș veaviv iēlhu el-hanaara lemaan halēl et-șēm kodșī.",
      "tokens": [
       {
-       "t": "Cei care doresc",
-       "w": "Cei care doresc",
+       "t": "Cei care își doresc",
+       "w": "Cei care își doresc",
        "heb": "הַשֹּׁאֲפִים",
        "translit": "hașoafim",
        "strong": "H7602",
@@ -46385,7 +46282,7 @@
        "greek_def_ro": "εἰσπορεύομαι (eisporeuomai) — a intra"
       },
       {
-       "t": " la aceeași "
+       "t": " de la aceeași "
       },
       {
        "t": "fecioară",
@@ -47816,7 +47713,7 @@
     },
     {
      "v": "2:16",
-     "t": "Iar cel cu inima cea mai viteajă dintre viteji va fugi gol în ziua aceea – rostirea DOMNULUI.",
+     "t": "Iar cel cu inima cea mai vitează dintre viteji va fugi gol în ziua aceea – rostirea DOMNULUI.",
      "heb": "וְאַמִּיץ לִבּוֹ בַּגִּבּוֹרִים עָרוֹם יָנוּס בַּיּוֹם־הַהוּא נְאֻם־יְהוָה",
      "translit": "Veamitz libo baghiborim arom ianus baiom-hahu neum-ADONAI.",
      "tokens": [
@@ -47839,8 +47736,8 @@
        "t": " "
       },
       {
-       "t": "cea mai viteajă",
-       "w": "cea mai viteajă",
+       "t": "cea mai vitează",
+       "w": "cea mai vitează",
        "heb": "וְאַמִּיץ",
        "translit": "veamiț",
        "strong": "H533",
@@ -48972,7 +48869,7 @@
     },
     {
      "v": "3:7",
-     "t": "Căci Stăpânul meu, Domnul DUMNEZEU, nu va face nimic fără a-Și fi dezvăluit secretul către slujitorii Săi, profeții.",
+     "t": "Căci Stăpânul meu, Domnul DUMNEZEU, nu va face nimic fără a-Și fi dezvăluit secretul către slujitorii săi, profeții.",
      "heb": "כִּי לֹא יַעֲשֶׂה אֲדֹנָי יְהוִה דָּבָר כִּי אִם־גָּלָה סוֹדוֹ אֶל־עֲבָדָיו הַנְּבִיאִים",
      "translit": "Ki lo iaasē Adonai ELOHIM davar ki im-gala sodo el-avadav haneviim.",
      "tokens": [
@@ -49056,8 +48953,8 @@
        "t": " către "
       },
       {
-       "t": "slujitorii Săi",
-       "w": "slujitorii Săi",
+       "t": "slujitorii săi",
+       "w": "slujitorii săi",
        "heb": "עֲבָדָיו",
        "translit": "avadaiv",
        "strong": "H5650",
@@ -51462,7 +51359,7 @@
     },
     {
      "v": "3:26",
-     "t": "Și atunci, femeia al cărui copil era viu i-a spus regelui – căci o apucase mila pentru copilul ei – și a spus: „Te rog, stăpâne, dă-i ei pe nou-născutul viu și nu-l ucide!” Dar cealaltă a spus: „Nici al meu, nici al tău să nu fie, tăiați-l!”",
+     "t": "Și atunci, femeia al cărui copil era viu i-a spus regelui – căci o apucase mila pentru copilul ei – și a spus: „Te rog, stăpâne, dă-i-l ei pe nou-născutul viu și nu-l ucide!” Dar cealaltă a spus: „Nici al meu, nici al tău să nu fie, tăiați-l!”",
      "heb": "וַתֹּאמֶר הָאִשָּׁה אֲשֶׁר־בְּנָהּ הַחַי אֶל־הַמֶּלֶךְ כִּי־נִכְמְרוּ רַחֲמֶיהָ עַל־בְּנָהּ וַתֹּאמֶר בִּי אֲדֹנִי תְּנוּ־לָהּ אֶת־הַיָּלוּד הַחַי וְהָמֵת אַל־תְּמִיתֻהוּ וְזֹאת אֹמֶרֶת גַּם־לִי גַם־לָךְ לֹא יִהְיֶה גְּזֹרוּ",
      "translit": "Vatomer haișa așer-bena hahai el-hameleh ki-nihmeru rahameha al-bena vatomer bi adoni tenu-lah et-haialud hahai vehamēt al-temituhu vezot omeret gam-li gam-lah lo ihiē gezoru.",
      "tokens": [
@@ -51620,7 +51517,7 @@
        "greek_def_ro": "δίδωμι (didomi) — a da"
       },
       {
-       "t": " ei pe "
+       "t": "-l ei pe "
       },
       {
        "t": "nou-născutul",
@@ -52828,7 +52725,7 @@
     },
     {
      "v": "37:18",
-     "t": "Și atunci când copiii poporului tău îți vor spune astfel: «Oare nu ne vei deslusi ce înseamnă pentru tine aceste [lemne]?»,",
+     "t": "Și atunci când copiii poporului tău îți vor spune astfel: «Oare nu ne vei desluși ce înseamnă pentru tine aceste [lemne]?»,",
      "heb": "וְכַאֲשֶׁר יֹאמְרוּ אֵלֶיךָ בְּנֵי עַמְּךָ לֵאמֹר הֲלוֹא־תַגִּיד לָנוּ מָה־אֵלֶּה לָּךְ",
      "translit": "Vehaașer iomru ēleha benēi ameha lēmor halo-taghid lanu ma-ēle lah.",
      "tokens": [
@@ -52895,8 +52792,8 @@
        "t": ": «Oare nu ne "
       },
       {
-       "t": "vei deslusi",
-       "w": "vei deslusi",
+       "t": "vei desluși",
+       "w": "vei desluși",
        "heb": "תַגִּיד",
        "translit": "tagid",
        "strong": "H5046",
@@ -56163,7 +56060,7 @@
     },
     {
      "v": "2:5",
-     "t": "În plus, tu știi ce mi-a făcut Ioav, fiul Țeruiei, ce a făcut celor doi conducători ai oștirilor lui Israel, lui Avner, fiul lui Ner, și lui Amasa, fiul lui Ieter, pe care i-a omorât, vărsând astfel sânge de război în vreme de pace, punând sângele de război pe cingătoarea pe care o are la brâu și pe încălțămintea lui pe care o are în picioare.",
+     "t": "În plus, tu știi ce mi-a făcut Ioav, fiul lui Țeruia, ce a făcut celor doi conducători ai oștirilor lui Israel, lui Avner, fiul lui Ner, și lui Amasa, fiul lui Ieter, pe care i-a omorât, vărsând astfel sânge de război în vreme de pace, punând sângele de război pe cingătoarea pe care o are la brâu și pe încălțămintea lui pe care o are în picioare.",
      "heb": "וְגַם אַתָּה יָדַעְתָּ אֵת אֲשֶׁר־עָשָׂה לִי יוֹאָב בֶּן־צְרוּיָה אֲשֶׁר עָשָׂה לִשְׁנֵי־שָׂרֵי צִבְאוֹת יִשְׂרָאֵל לְאַבְנֵר בֶּן־נֵר וְלַעֲמָשָׂא בֶן־יֶתֶר וַיַּהַרְגֵם וַיָּשֶׂם דְּמֵי־מִלְחָמָה בְּשָׁלֹם וַיִּתֵּן דְּמֵי מִלְחָמָה בַּחֲגֹרָתוֹ אֲשֶׁר בְּמָתְנָיו וּבְנַעֲלוֹ אֲשֶׁר בְּרַגְלָיו",
      "translit": "Vegam ata iadata ēt așer-asa li Ioav ben-Tzeruia așer asa lișnēi-sarēi tzivot Israēl le'Avnēr ben-Nēr velaAmasa ven-Ieter vaiaharghēm vaiasem demēi-milhama beșalom vaitēn demēi milhama bahagorato așer bemotnav uvenaalo așer beraglav.",
      "tokens": [
@@ -56231,8 +56128,8 @@
        "t": ", "
       },
       {
-       "t": "fiul Țeruiei",
-       "w": "fiul Țeruiei",
+       "t": "fiul lui Țeruia",
+       "w": "fiul lui Țeruia",
        "heb": "בֶּן צְרוּיָה",
        "translit": "ben țeruia",
        "strong": "H1121",
