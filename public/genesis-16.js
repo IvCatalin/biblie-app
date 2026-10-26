@@ -360,6 +360,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Critică deschis decizia lui Sarai și acceptarea ei de către Avram — o poziție minoritară, dar notabilă, printre comentatorii clasici: Ramban consideră că ambii au greșit moral prin această soluție, chiar dacă motivată de o dorință legitimă de urmași, iar consecințele tensionate care urmează (v.4-6) confirmă, în opinia sa, o judecată divină implicită asupra deciziei."
+      },
+      {
+        "author": "Zohar, Vaera 22:2",
+        "text": "(A deschis Rabbi Aba și a zis, Țefania 3:9: «că atunci voi întoarce spre popoare o buză curată, ca să cheme toți numele Domnului, să-I slujească un umăr unul». Și e scris, Zaharia 14:9: «și va fi Domnul rege» etc. «În ziua aceea va fi Domnul unul și numele Lui unul.») I-a zis Rabbi Yose: de ce? Și iată a născut după aceea și a avut un fiu, trunchi sfânt. I-a zis: tu vezi și eu văd. Și așa am auzit din gura lui Rabbi Șimʿon un cuvânt și am plâns (altă versiune: i-a zis: ce este? I-a zis: vai etc.). Vai de vremea aceea, că, pentru că Sarai a zăbovit, e scris (Geneza 16:5): «și a zis Sarai către Avram» etc., «intră acum la roaba mea» etc. Și de aceea a stat ceasul pentru Hagar, ca să o moștenească pe Sarah, stăpâna ei, și a avut un fiu din Avraham."
       }
     ]
   },
@@ -2154,6 +2158,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Descrierea lui Ișmael ca „măgar sălbatic de om” nu e neapărat peiorativă în tot registrul ei — Rashi o citește ca profeție a unui spirit liber, independent, necucerit de nimeni, trăsătură tradițional asociată popoarelor nomade din deșert descendente din el."
+      },
+      {
+        "author": "Zohar, Itro 23:17",
+        "text": "A zis: care este? I-au zis (Geneza 16:12): «și el va fi un om sălbatic». Și sfârșitul versetului voim să-l cunoaștem. Că e scris: «și pe fața tuturor fraților lui va locui». Ce înseamnă «pe fața tuturor fraților lui»? Că lămurirea a tot versetul o știm, și aceasta nu o știm, că sfârșitul versetului nu se vede ca începutul lui."
       }
     ]
   },

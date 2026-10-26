@@ -1175,6 +1175,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Expresia „vânător viteaz în fața DOMNULUI” e interpretată de Rashi nu ca laudă, ci ca o formă de sfidare — „împotriva” DOMNULUI, nu doar „înaintea” Lui; o tradiție vede în Nimrod primul tiran care vânează oameni, nu doar animale, subjugându-i prin forță."
+      },
+      {
+        "author": "Zohar, Toldot 17:1",
+        "text": "(Geneza 27:15) «Și a luat Rivqa veșmintele lui Esav» etc. Acestea sunt veșmintele pe care le-a câștigat Esav de la Nimrod, și acestea sunt veșminte de preț care erau de la Adam cel dintâi, și au venit în mâna lui Nimrod, și în ele vână Nimrod vânătoare, că e scris (Geneza 10:9): «el era viteaz la vânătoare (137b, Vayikra 64a) înaintea Domnului» etc.; și Esav a ieșit la câmp, și a dat război cu Nimrod și l-a ucis, și a luat aceste veșminte de la el; acesta e ce e scris (Geneza 25:29): «și a venit Esav de pe câmp și el era obosit», și au statornicit. E scris aici «și el era obosit», și e scris acolo (Ieremia 4:31): «că s-a obosit sufletul meu de ucigași»."
       }
     ]
   },

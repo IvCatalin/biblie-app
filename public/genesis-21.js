@@ -970,6 +970,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi citește retoric întrebarea Sarei ca exprimare a uimirii proprii — nimeni nu ar fi putut prezice o asemenea minune, nici măcar ea însăși nu ar fi crezut posibil să alăpteze la vârsta ei."
+      },
+      {
+        "author": "Zohar, Introducere 18:5",
+        "text": "Avraham, odată ce i-a invitat pe mai-marii generației, a coborât acuzatorul și a stat la intrare în chipul unui sărac, și nu era cine să ia aminte la el. Avraham îi slujea pe acei regi și mai-mari. Sara alăpta copiii tuturor, căci nu credeau că ea a născut, ci ziceau: este un copil găsit, și de pe piață l-au adus. De aceea și-au adus copiii cu ei, și Sara i-a luat și i-a alăptat înaintea lor. Aceasta este ceea ce este scris (Geneza 21:7): „Cine i-ar fi spus lui Avraham că Sara va alăpta copii (banim)?” — copii desigur. Iar acel acuzator era la intrare. A zis (Sara): „Dumnezeu mi-a făcut râs.” Îndată a urcat acel acuzator înaintea Celui Sfânt, binecuvântat fie El, și I-a zis: Stăpâne al lumii, Tu ai zis: Avraham, iubitul Meu; (iată Avraham) a făcut masă și nu Ți-a dat nimic, nici săracilor, și nu a adus înaintea Ta nici măcar un porumbel. Și mai mult, ai zis: Sara — iată că râde de Tine."
       }
     ]
   },
@@ -1131,6 +1135,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi discută ospățul de la înțărcare (tradițional la doi-trei ani) ca eveniment public major, menit să confirme autenticitatea nașterii miraculoase în fața tuturor, eliminând orice suspiciune."
+      },
+      {
+        "author": "Zohar, Introducere 18:4",
+        "text": "Cine avem noi în lume mai mare decât Avraham, care a făcut bine tuturor făpturilor? În ziua în care a făcut ospăț, ce este scris? (Geneza 21:8): „Și copilul a crescut și a fost înțărcat, și Avraham a făcut un ospăț mare în ziua în care a fost înțărcat Yițḥak.” A făcut Avraham ospăț și i-a chemat pe toți mai-marii generației la acea masă. Și am învățat: la fiecare masă de bucurie acel acuzator merge și vede dacă acel om s-a îngrijit întâi de binele săracilor; și dacă săracii sunt în casă, acel acuzator se depărtează de acea casă și nu intră acolo. Iar dacă nu, intră acolo; și vede amestecul bucuriei fără săraci și fără binele făcut întâi săracilor, urcă sus și îl acuză."
       }
     ]
   },
@@ -1407,6 +1415,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Discută asprimea aparentă a cererii Sarei, dar o justifică prin necesitatea legală absolută de a proteja unicitatea moștenirii promisiunii divine prin Isaac — un act dureros, dar teologic necesar, nu cruzime nejustificată."
+      },
+      {
+        "author": "Zohar, Mișpatim 3:28",
+        "text": "A deschis și a zis (Geneza 21:10): «și a zis lui Avraham: izgonește pe roaba aceasta și pe fiul ei» etc. Tovarășii s-au trezit că Sara a voit să curețe slujirea străină din casă. Și de aceea e scris: «tot ce-ți va zice Sara, ascultă glasul ei». Aici e scris: «și când va vinde un om pe fiica lui». Acesta e sufletul, în gilgulim-ii pentru faptele rele ale lumii. «Spre roabă»: latura aceea, cealaltă, în gilgulul cel rău al balanței, care se întoarce. Și iată, s-a îndeletnicit să o scoată de acolo. Negreșit, «să nu iasă cum ies robii», toate sufletele acelea care sunt asuprite."
       }
     ]
   },
@@ -4230,6 +4242,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi discută alegerea numărului șapte pentru oile puse deoparte ca simbol al unui legământ solemn, numărul șapte fiind asociat tradițional cu desăvârșirea și jurământul în toată Tora."
+      },
+      {
+        "author": "Zohar, Addenda, volumul III 8:19",
+        "text": "Și când era luminat în acele trei, a vrut să urce în acele șapte, în taina a ce este scris (Geneza 21:28): „și Avraham a pus deoparte șapte mielușele din turmă”. Și prin această taină i-a făcut aluzie lui Avimeleh că fiii lui nu vor stăpâni asupra lor până ce nu se vor desăvârși acei șapte drepți ai adevărului în Israel, față de acele șapte trepte de sus."
       }
     ]
   },
@@ -4596,6 +4612,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi discută dubla etimologie posibilă a numelui Beer-Șeva — „fântâna jurământului” sau „fântâna celor șapte [oi]” — ambele interpretări legate direct de evenimentele narate în acest capitol."
+      },
+      {
+        "author": "Zohar, Addenda, volumul III 8:25",
+        "text": "Vino și vezi: când Sfântul, binecuvântat fie El, a creat lumea, a creat-o în Judecată. Când a văzut că nu dăinuie, a asociat cu ea Ḥesed. Aceasta este ce este scris (Geneza 2:4): „când au fost create (be-hibaram), în ziua în care Domnul Dumnezeu a făcut”; și au stabilit-o: prin Avraham (be-Avraham) a dăinuit lumea. De aceea această fântână, casa lumii, după numele lui s-a numit. Aceasta este ce este scris (ibid. 21): „de aceea a numit acel loc Beer Șeva”. Deși această fântână s-a lipit de Yițḥak, cum este scris (ibid. 26): „și a numit-o Șiveah”, numele ei este Beer Șeva — partea lui Avraham — și nu Beer Șiveah. Aceasta este ce este scris (Cântarea cântărilor 2:6): „și dreapta lui mă îmbrățișează”."
       }
     ]
   },
@@ -4942,6 +4962,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Sforno (cca. 1475–1550)",
         "text": "Interpretează plantarea eșelului și invocarea numelui divin ca „Dumnezeul lumii” (El Olam) drept prima recunoaștere explicită, în toată Tora, a suveranității divine universale, dincolo de granițele geografice ale promisiunii făcute doar lui Avraham și seminției sale."
+      },
+      {
+        "author": "Zohar, Vaikra 56:3",
+        "text": "Și toate acestea, pentru că această dimineață se trezește în lume, iar Avraham se trezește și vine să sădească un tamarisc în Beʾer Șevaʿ. Acest cuvânt așa l-am auzit: în Beʾer Șevaʿ, desigur. Și este scris (Geneza 21:33): «Și a chemat acolo Numele Domnului, Dumnezeul veșnic.»"
       }
     ]
   },

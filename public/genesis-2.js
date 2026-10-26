@@ -186,6 +186,10 @@ window.CHAPTER_DATA = [
     "text": "Citește „au fost isprăvite” nu ca simplă încetare, ci ca atingere a scopului final pentru care exista, în întregul ei, lumea creată."
    },
    {
+    "author": "Zohar, Pekudei 5:8",
+    "text": "Asemenea acesteia (Geneza 2:2): «Și s-au sfârșit cerurile și pământul». Și dacă vei spune: «Și a sfârșit Dumnezeu în ziua a șaptea» — cu adevărat așa este, căci toată lumea, chiar dacă toate lucrările s-au desăvârșit, fiecare în parte, lumea întreagă nu era desăvârșită în dăinuirea ei până ce nu a venit ziua a șaptea; căci când a venit ziua a șaptea, atunci s-au desăvârșit toate lucrările, și Cel Sfânt, binecuvântat fie El, a desăvârșit în ea lumea. Aceasta este ceea ce este scris: «Și a sfârșit Dumnezeu în ziua a șaptea lucrarea Sa pe care a făcut-o». Prin aceasta s-a desăvârșit în dăinuire toată lucrarea pe care a făcut-o, și de aceea: «Și a sfârșit Dumnezeu în ziua a șaptea»."
+   },
+   {
     "author": "Ioan Gură de Aur, Omilii la Facere 10.18",
     "text": "Vedeți, spunând aici că Dumnezeu S-a odihnit de lucrările Sale, Scriptura ne învață că El a încetat să mai creeze, aducând din neființă la ființă, în ziua a șaptea — pe când Hristos, zicând «Tatăl Meu lucrează până acum, și Eu lucrez», ne descoperă purtarea Lui de grijă neîncetată: El numește «lucrare» susținerea făpturilor, dăruirea statorniciei lor și cârmuirea lor prin toată vremea. Căci altfel, cum ar fi dăinuit toate, fără mâna de sus care să călăuzească toate cele văzute, și pe om deopotrivă?"
    },
@@ -401,6 +405,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "Explică „a isprăvit... în ziua a șaptea” ca referindu-se la chiar clipa nedespărțită, de neîmpărțit, care deschide timpul viitor și nu mai aparține celui trecut — clipa în care, spun înțelepții, Dumnezeu „a intrat” cât un fir de păr. Toată acea zi, adaugă el, s-a deosebit de primele șase tocmai prin faptul odihnei."
+   },
+   {
+    "author": "Zohar, Pekudei 5:8",
+    "text": "Asemenea acesteia (Geneza 2:2): «Și s-au sfârșit cerurile și pământul». Și dacă vei spune: «Și a sfârșit Dumnezeu în ziua a șaptea» — cu adevărat așa este, căci toată lumea, chiar dacă toate lucrările s-au desăvârșit, fiecare în parte, lumea întreagă nu era desăvârșită în dăinuirea ei până ce nu a venit ziua a șaptea; căci când a venit ziua a șaptea, atunci s-au desăvârșit toate lucrările, și Cel Sfânt, binecuvântat fie El, a desăvârșit în ea lumea. Aceasta este ceea ce este scris: «Și a sfârșit Dumnezeu în ziua a șaptea lucrarea Sa pe care a făcut-o». Prin aceasta s-a desăvârșit în dăinuire toată lucrarea pe care a făcut-o, și de aceea: «Și a sfârșit Dumnezeu în ziua a șaptea»."
    },
    {
     "author": "Ieronim, Întrebări ebraice asupra Genezei",
@@ -669,6 +677,10 @@ window.CHAPTER_DATA = [
     "text": "Notează ordinea neobișnuită a ultimelor cuvinte ale versetului — „pe care o crease Dumnezeu spre a fi făcută” (nu doar „pe care o făcuse”): înțelege asta ca declarând scopul creației din cele șase zile — ca, de atunci încolo, fiecare specie să-și continue urmașii, potrivit felului ei."
    },
    {
+    "author": "Zohar, Itro 27:1",
+    "text": "(Exodul 20:8): «adu-ți aminte de ziua șabatului, ca să-l sfințești». A zis Rabbi Yițḥak: e scris (Geneza 2:3): «și a binecuvântat Dumnezeu ziua a șaptea». Și e scris despre mană (Exodul 16:26): «șase zile să o culegeți, și în ziua a șaptea, șabat, nu va fi în ea». Odată ce nu se află în ea hrană, ce binecuvântare se află în ea?"
+   },
+   {
     "author": "Fericitul Augustin, Cetatea lui Dumnezeu 22.30",
     "text": "Și cerul va fi împlinirea acelei odihne de sabat prevestite în porunca: «Stați liniștiți și cunoașteți că Eu sunt Dumnezeu.» Acesta va fi, într-adevăr, sabatul cel din urmă, care n-are seară, și pe care Domnul l-a prefigurat în istorisirea creației: «Și S-a odihnit Dumnezeu în ziua a șaptea de toată lucrarea Sa pe care o făcuse. Și a binecuvântat ziua a șaptea și a sfințit-o, fiindcă în ea S-a odihnit de toată lucrarea Sa.» Și noi înșine vom fi o «zi a șaptea», atunci când vom fi umpluți de binecuvântarea Lui și refăcuți prin sfințirea Lui. În liniștea acelei odihne vom vedea că El e Dumnezeul a cărui dumnezeire am dorit-o pentru noi înșine când am ascultat cuvintele ademenitorului: «Veți fi ca niște dumnezei» — și astfel am căzut de la El, Dumnezeul cel adevărat."
    },
@@ -919,6 +931,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "Citește „urmașii” ca desemnând plantele și viețuitoarele deja pomenite: de la creație încoace, ele poartă în ele puteri prin care nasc și pier alte forme asemenea lor. „În ziua în care Domnul Dumnezeu a făcut pământ și cer” înseamnă, pentru el, ziua în care a rânduit guvernarea statornică a pământului din ceruri — de-abia atunci e numit „Domnul Dumnezeu”, Cel ce rânduiește neîncetat existența."
+   },
+   {
+    "author": "Zohar, Bereșit 19:1",
+    "text": "„Acestea sunt urmașii (T'oledot) cerurilor (H'a-șamayim) și (V'e-) pământului” (inițialele formează TeHV, tohu). Iată au lămurit: oriunde este scris „acestea (ele)”, a lepădat pe cele dintâi. Și aceștia sunt urmașii lui tohu, la care se face aluzie în versetul al doilea: „și pământul era tohu.” Și aceștia sunt cei despre care s-a spus că Cel Sfânt, binecuvântat fie El, a creat lumi și le distrugea. Și de aceea pământul era uimit (toha) și pustiu (boha)."
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
@@ -1292,6 +1308,10 @@ window.CHAPTER_DATA = [
     "text": "Explică „nu era încă pe pământ” prin distincția putere/act: la creație, plantele existau doar în potență, nu încă în fapt — de aceea „tot copăcelul câmpului” nu era încă pe pământ, și „toată iarba câmpului” nu încolțise încă."
    },
    {
+    "author": "Zohar, Bereșit 21:2",
+    "text": "În acel timp „Domnul Dumnezeu a făcut să răsară din pământ tot pomul plăcut” etc. Dar la început, până nu vor fi șterși aceștia, nu coboară ploaia Torei; și Israel, care se aseamănă cu ierburile și copacii, nu vor răsări. Și taina lucrului: „Și niciun arbust al câmpului nu era încă pe pământ, și nicio iarbă a câmpului” etc., pentru că „om nu era” — care sunt Israel în Templu — „ca să lucreze pământul” prin jertfe."
+   },
+   {
     "author": "Ioan Gură de Aur, Omilii la Facere 12.5",
     "text": "Pământul, ascultând de cuvântul și îndrumarea Domnului, a produs plante și a fost stârnit spre durerile rodniciei fără să depindă de ajutorul soarelui (cum ar fi putut, de vreme ce soarele încă nu era creat?), nici de umezeala ploilor, nici de munca omului — omul nefiind încă adus la ființă."
    },
@@ -1522,6 +1542,10 @@ window.CHAPTER_DATA = [
     "text": "Explică norul de abur ca fiind, de fapt, o rouă binecuvântată — parte a rânduielii firești, puse acum în mișcare: ea a udat pământul îndeajuns cât să rodească și să crească vegetația, fără ploaie și fără lucrarea omului."
    },
    {
+    "author": "Zohar, Bereșit 42:6",
+    "text": "Ce este scris după aceasta? „Și un abur (ed) se ridica din pământ”: aceasta este întocmirea de jos; după aceea: „și uda toată fața pământului”. „Și un abur se ridica din pământ”: aceasta este dorința femeii față de bărbat. Altă explicație: care este motivul că nu a făcut să plouă? Pentru că nu se afla întocmirea despre care se spune „se ridica din pământ”. Și de aceea, din pământul de jos se trezește lucrarea sus."
+   },
+   {
     "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.24.37",
     "text": "Fața blândă a pământului, adică demnitatea pământului, poate fi privită, pe bună dreptate, ca mama Domnului, Fecioara Maria, care a fost adăpată de Duhul Sfânt, semnificat în Evanghelie prin cuvântul «apă»."
    },
@@ -1740,6 +1764,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "Sforno subliniază că, spre deosebire de celelalte viețuitoare, plăsmuirea omului a cerut un procedeu aparte: pentru el, Dumnezeu a ales anume o parte aleasă, „de cinste”, din țărâna pământului. Suflarea de viață i-a dat un suflet pregătit să primească chipul lui Dumnezeu — dar, subliniază Sforno, omul a rămas doar „viu”, nu încă „grăitor”, până când avea să fie creat, mai departe, după chip și asemănare (v. 1:26-27)."
+   },
+   {
+    "author": "Zohar, Toldot 5:1",
+    "text": "MIDRAȘ HA-NEʿELAM (Geneza 25:19–20) «Și acestea sunt nașterile lui Yițḥak fiul lui Avraham; Avraham a născut pe Yițḥak». Rabbi Yițḥak a deschis (Cântarea cântărilor 7:14): «dudaʾimii au dat mireasmă» etc. Au învățat rabinii: în viitor Sfântul, binecuvântat fie El, înviază morții și îi scutură din țărâna lor, ca să nu fie zidire de țărână cum au fost la început, când au fost creați din țărână cu adevărat, lucru care nu se ține; acesta e ce e scris (Geneza 2:7): «și a plăsmuit Domnul Dumnezeu pe om țărână din pământ»."
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -2458,6 +2486,10 @@ window.CHAPTER_DATA = [
     "text": "Vede în acest râu semnul unei rodnicii fără trudă: grădina era udată fără nevoia ploilor și fără osteneala lucrării omului."
    },
    {
+    "author": "Zohar, Bereșit 21:18",
+    "text": "Și aceasta este: „Și un râu iese din Eden ca să ude grădina; și de acolo se desparte și devine patru capete”, care sunt Ḥesed, brațul drept — și în acel timp, „cel care vrea să se înțelepțească să se îndrepte spre sud”; și tabăra lui Mikhael este adăpată din el, și cu el seminția lui Yehuda și două seminții. Gevura, brațul stâng — și în acel timp, „cel care vrea să se îmbogățească să se îndrepte spre nord”; și tabăra lui Gavriel este adăpată din el, și cu el seminția lui Dan și două seminții. Neṭaḥ, pulpa dreaptă, și din ea sunt adăpate taberele lui Nuriel, și cu el seminția lui Reuven și două seminții cu el. Hod, pulpa stângă, despre care s-a spus despre Iaakov (Geneza 32:32): „și el șchiopăta din cauza coapsei lui”; și din ea sunt adăpate taberele lui Refael, care este numit peste vindecarea exilului, și cu el seminția lui Efraim și două seminții."
+   },
+   {
     "author": "Ambrozie al Milanului, Despre Paradis",
     "text": "Era un izvor care uda pământul Paradisului. Nu e oare acest fluviu Domnul nostru Iisus Hristos, Izvorul și totodată Tatăl vieții veșnice? Căci scris este: «La Tine e izvorul vieții.» De aceea: «Din lăuntrul lui vor curge râuri de apă vie.» Citim despre un izvor și un râu care udă în Paradis pomul roditor, cel ce dă rod pentru viața veșnică. Ai citit, deci, că acolo era un izvor și că «un râu se ridica din Eden» — adică în sufletul tău există un izvor. Acesta e înțelesul cuvintelor lui Solomon: «Bea apă din propria ta cisternă, și din izvoarele propriei tale fântâni.»"
    },
@@ -2696,6 +2728,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (c. 1475–1550)",
     "text": "Explică de ce Tora insistă să descrie amănunțit fluviul Pișon și ținutul Havila, deși necunoscute cititorului: mărimea și bogăția lor (aurul, cristalul, onixul) sunt chiar dovada indirectă a măreției grădinii pe care o udă — Tora descrie grădina Edenului prin reflecția ei asupra ținuturilor din jur, pe care cititorul chiar le putea verifica."
+   },
+   {
+    "author": "Zohar, Leh Leha 12:1",
+    "text": "«Și s-a pogorât Avram în Egipt („Mițrayim”) să locuiască acolo.» Care e pricina, în Egipt? Ci pentru că e cântărit față de grădina Domnul. Că e scris «ca grădina Domnul, ca țara Egiptului». Că acolo e cântărit și se pogoară un râu care e la dreapta, că e scris (Geneza 2:11) «numele unuia e Pișon; el înconjoară tot pământul Ḥavilah, unde e aurul»."
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
@@ -3478,6 +3514,10 @@ window.CHAPTER_DATA = [
     "text": "Citește „s-o lucreze” ca lucrarea prin care omul își susține chiar suflarea de viață primită la plăsmuire, iar „s-o păzească” ca ferirea de „topirea” umezelii firești, mistuite mereu de căldura naturală a trupului — acele roade alese înnoiau necontenit ce se pierdea, ferindu-l de stricăciune."
    },
    {
+    "author": "Zohar, Mikeț 9:11",
+    "text": "Ci taină e. A deschis și a zis (Geneza 2:15): «și a luat Domnul Dumnezeu pe om și l-a așezat în grădina Edenului, ca s-o lucreze și s-o păzească». Și au statornicit-o: în taina jertfelor e. Vino, vezi: «ca s-o lucreze» — acesta e Regele de sus. «Și s-o păzească» — acesta e regele de jos. Lumea de sus și lumea de jos. «Ca s-o lucreze» (a celui de parte bărbătească) în taina lui «amintește», și «s-o păzească» în taina lui «păzește»."
+   },
+   {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Aceeași idee — omul creat „ca să lucreze” — apare central și în Atrahasis și în Enuma Eliș: acolo, munca omului scutește zeii de trudă. În Geneza, „a lucra și a păzi” grădina nu e o corvoadă impusă din exterior, ci parte din binecuvântarea inițială a omului, înainte de orice păcat sau blestem — o distincție teologică importantă pe care comentatorii o remarcă adesea prin contrast cu vecinii literari ai lui Israel."
    },
@@ -3841,6 +3881,10 @@ window.CHAPTER_DATA = [
     "text": "Precizează „din el”: rodul oprit e cel „din mijlocul grădinii”, aproape de pomul vieții amintit mai sus — cele două stând alături ca o pildă vie a cuvântului „viața și moartea le-am pus înaintea ta” (Deuteronom 30:19)."
    },
    {
+    "author": "Zohar, Behar 11:2",
+    "text": "Și taina: amestecul picăturilor într-un loc care nu este al lui pricinuiește aceasta. Cine amestecă picătura lui cu o roabă, Maḥalat fiica lui Yișmael, sau cu fiica unui zeu străin, care sunt răul-întuneric, iar picătura lui este binele-lumină: (Geneza 1:3-4) „Și a văzut Dumnezeu lumina că este bună.” Amestecă binele cu răul, a călcat porunca Stăpânului său, Care a zis: (Geneza 2:17) „Iar din copacul cunoașterii binelui și răului să nu mănânci din el.”"
+   },
+   {
     "author": "Viața lui Adam și Eva 32 — comparație",
     "text": "Adam însuși repovestește porunca, mai târziu, fiilor săi: „Când ne-a făcut Dumnezeu, pe mine și pe mama voastră, și ne-a așezat în rai... a pus o oprire asupra noastră despre pomul cunoștinței binelui și răului, care este în mijlocul raiului” — adăugând un detaliu absent din Geneza: Dumnezeu ar fi împărțit raiul între ei, dând lui Adam partea de răsărit și de miazănoapte, iar Evei partea de miazăzi și de apus."
    },
@@ -4055,6 +4099,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "Explică „pe potriva lui” prin imaginea talerelor unei balanțe: doi care se cumpănesc exact la fel stau unul în fața celuilalt, pe o linie dreaptă — precum, spun înțelepții, Moise „cântărea cât tot Israelul”. Dar, adaugă Sforno, ajutorul nu putea fi întru totul „pe potriva” lui, altfel niciunul n-ar fi avut temei să-i slujească celuilalt."
+   },
+   {
+    "author": "Zohar, Bereșit 25:8",
+    "text": "Și de aceea a zis Cel Sfânt, binecuvântat fie El: „Nu este bine ca omul să fie singur; îi voi face un ajutor potrivit (kenegdo, împotriva lui)”: aceasta este Mișna, femeia acelui tânăr (naʿar), și el (altă versiune: ea) este roaba Șekhinei. Și dacă Israel au merit, ea este ajutor pentru ei în exil, din partea a ceea ce este îngăduit, curat, potrivit. Iar dacă nu, ea este împotriva lui, din partea a ceea ce este necurat, nepotrivit, oprit. Curat, îngăduit, potrivit — aceasta este înclinația bună; nepotrivit, necurat, oprit — aceasta este înclinația rea."
    },
    {
     "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.17",
@@ -4869,6 +4917,10 @@ window.CHAPTER_DATA = [
     "text": "O tradiție discutată în Talmud (Eruvin 18b, Berakhot 61b) înțelege „a luat una din coastele/laturile lui” într-un mod neobișnuit: la origine, omul ar fi fost creat cu două fețe/laturi unite într-o singură ființă (parte bărbătească și parte femeiască, contopite), iar Dumnezeu, la acest verset, „despică” acea ființă unică în doi indivizi separați — Adam și Eva — mai degrabă decât să construiască o ființă nouă din nimic. Tradiția rămâne una dintre mai multe explicații rabinice posibile pentru cuvântul ambiguu „tsela”, discutat deja și la nivel lingvistic în comentariul de mai sus."
    },
    {
+    "author": "Zohar, Bereșit 26:4",
+    "text": "În acel timp „YHVH (Domnul) Elohim (Dumnezeu) a făcut să cadă un somn adânc (tardema) peste Adam.” YHVH Elohim: Tatăl și Mama. Tardema: acesta este exilul, despre care s-a spus (Geneza 15:12): „și un somn adânc a căzut peste Avram.” L-a aruncat peste Moșe, „și a adormit”; nu este somn decât exilul. „Și a luat una din coastele lui (miṭalʿotav).” Coastele cui? Ci din acele fecioare ale Matroanei au luat Tatăl și Mama una dintre ele; și ea este partea albă: „frumoasă ca luna”. „Și a închis carnea în locul ei”: aceasta este carnea despre care s-a spus „fiindcă el este carne” (be-șagam hu basar) — carnea lui Moșe, roșie; și despre el s-a spus: „fața lui Moșe era ca fața soarelui.” Și de aceea (Cântarea cântărilor 6:10): „frumoasă ca luna, curată ca soarele.”"
+   },
+   {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Cartea Jubileelor 3:4-5 confirmă aproape identic secvența biblică: „Domnul ne-a zis: Nu este bine ca omul să fie singur... Domnul Dumnezeul nostru a adus asupra lui un somn adânc, și el a adormit, și El a luat pentru femeie o coastă dintre coastele lui.” Particularitate a cărții: naratorul e un înger, care vorbește la persoana întâi plural („ne-a zis”), nu Dumnezeu direct ca în Geneza."
    },
@@ -5025,6 +5077,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "Explică zidirea coastei ca dăruire a formei și însușirilor omului: femeia se deosebește de el doar prin organele trupești — deosebire prin care se măsoară, mai mult sau mai puțin, desăvârșirea fiecăruia."
+   },
+   {
+    "author": "Zohar, Vaikra 45:3",
+    "text": "Și când s-a ridicat Adam, femeia lui era înfiptă în coastele lui. Și acel suflet sfânt care era în el se întindea spre această latură și spre această latură, și se întindea spre aceasta și spre aceasta, pentru că așa fusese cuprins. După aceea Cel Sfânt, binecuvântat fie El, l-a tăiat pe Adam și i-a întocmit femeia. Aceasta este ce este scris (Geneza 2:22): «Și Domnul Dumnezeu a zidit coasta» etc. «Coasta» — iată am stabilit, cum ai zis (Exodul 26:20): «Și pentru latura (ṭela) Mișkanului.» «Și a adus-o la om» — în podoaba ei, ca o mireasă la baldachin."
    },
    {
     "author": "Fericitul Augustin, Cetatea lui Dumnezeu 22.17",
@@ -5506,6 +5562,10 @@ window.CHAPTER_DATA = [
     "text": "Leagă porunca de faptul că Eva fusese plăsmuită să-i semene omului cât mai mult cu putință: la fel, orice bărbat trebuie să caute o soție „pe potriva lui”, chiar dacă asta cere să-și lase părinții — căci alipirea adevărată există doar între asemenea, îndreptați spre același gând. „Vor fi un singur trup” înseamnă că amândoi urmăresc, în toate faptele lor, desăvârșirea rânduită la crearea omului, ca și cum ar fi, împreună, o singură ființă."
    },
    {
+    "author": "Zohar, Vaiețe 7:1",
+    "text": "A deschis un fiu al său și a zis (Geneza 28:10): «și a ieșit Iaakov din Beer Șeva și a mers spre Ḥaran» — aceasta e ce e scris (Geneza 2:24): «de aceea va lăsa omul pe tatăl său și pe mama sa și se va lipi de soția sa». Alt cuvânt: «și a ieșit Iaakov din Beer Șeva și a mers spre Ḥaran» — a aluzat când au ieșit Israel din Casa Sfântă și s-au exilat între neamuri, precum zici (Plângerile lui Ieremia 1:6): «și a ieșit din fiica Ționului toată slava ei», și e scris «s-a exilat Iehuda din sărăcie» etc."
+   },
+   {
     "author": "Tertulian, Îndemn la castitate",
     "text": "Erau mai multe coaste în Adam, și mâini care nu cunoșteau oboseala în Dumnezeu; dar nu mai multe soții înaintea ochilor lui Dumnezeu. Și astfel omul lui Dumnezeu, Adam, și femeia lui Dumnezeu, Eva, împlinind împreună îndatoririle unei singure căsătorii, au statornicit pentru omenire un model, prin autoritatea precedentului obârșiei lor și a voii dintâi a lui Dumnezeu. În sfârșit, «vor fi», a zis El, «doi într-un singur trup» — nu trei, nici patru."
    },
@@ -5672,6 +5732,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "Explică lipsa rușinii prin scopul curat al tuturor faptelor lor: nimic nu urmărea decât voia Creatorului, nu plăceri stricăcioase — până și unirea trupească le era ca mâncarea sau băutura, un act simplu, îndestulător. De aceea, spune el, mădularele acelea le erau la fel de firești ca pentru noi gura, fața sau mâinile."
+   },
+   {
+    "author": "Zohar, Țav 5:13",
+    "text": "În acel timp se va împlini în ei (Geneza 2:25): «Și erau amândoi goi, omul și soția lui, și nu se rușinau» — ca Adam și soția lui, căci deja va fi trecut din lume amestecul cel rău, ʿErev Rav, întrebarea cea rea, care sunt goliciunile Celui Sfânt, binecuvântat fie El, și ale Șekhinei Lui, goliciunile lui Israel; cu atât mai mult goliciunile tale, Păstor Credincios, și ale Halakhei tale. Căci din cauza lor trebuie acoperite tainele Torei, cum au stabilit (Proverbele 25:2): «Slava lui Dumnezeu este să ascundă un lucru», până când vor fi înlăturați din lume. Și nu sunt regi decât Israel, cum au stabilit: «Toți Israel sunt fii de regi»; în acel timp: «iar slava regilor este să cerceteze un lucru». A zis Păstorul Credincios: Binecuvântat ești tu înaintea Celui Vechi de Zile, căci de acolo ești tu; ca o ramură care se întinde din copac, tot așa sufletele sunt ramură din El."
    },
    {
     "author": "Cartea Jubileelor 3 — comparație",

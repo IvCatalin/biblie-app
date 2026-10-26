@@ -195,6 +195,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Discută numele divin folosit aici — El Șadai — ca desemnând puterea lui Dumnezeu de a acționa dincolo de legile naturii obișnuite, relevant tocmai pentru promisiunea unui fiu la vârste înaintate care urmează în capitol; „mergi înaintea Mea” marchează trecerea de la o relație bazată pe credință generală la una structurată printr-un legământ formal, cu obligații reciproce clare."
+      },
+      {
+        "author": "Zohar, Leh Leha 35:53",
+        "text": "A deschis altul și a zis: «și era Avram de nouăzeci de ani și nouă ani, și S-a arătat Domnul» etc. «Eu sunt El Șadai; umblă înaintea Mea» etc. Versetul acesta e de cercetat și e greu pe multe căi. Și oare până acum nu S-a descoperit Sfântul, binecuvântat fie El, lui Avraham decât (până) acum, când a ajuns la zilele acestea, «și S-a arătat Domnul lui Avram», și nu înainte? Și iată e scris «și a zis Domnul lui Avram». «Și Domnul a zis lui Avram». «Și a zis lui Avram: să știi vei ști» etc. Și acum a numărat socoteala zilelor; și când le-a numărat e scris «și S-a arătat Domnul lui Avram» — se înțelege că până acum nu S-a descoperit asupra lui. Și încă e scris «de nouăzeci de ani și nouă ani» — întâi «an» și la sfârșit «ani»."
       }
     ]
   },
@@ -633,6 +637,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ibn Ezra (1089–1167)",
         "text": "Discută mecanismul lingvistic al schimbării numelui — inserarea literei „hei” (ה) în Avraham, literă asociată în tradiție cu numele divin însuși — Ibn Ezra o citește ca un semn vizibil, permanent, al noii relații legământale, purtat literalmente în numele patriarhului."
+      },
+      {
+        "author": "Zohar, Pinhas 13:4",
+        "text": "Căci, pentru ca acei stăpâni ai datoriilor să nu-l recunoască, trebuie să i se facă schimbare de loc, schimbare de nume și schimbare de fapte. Precum Avraham, despre care s-a spus (Geneza 12:1): „Du-te din țara ta și din locul nașterii tale” — iată schimbarea locului. (Geneza 17:5): „Și nu te vei mai numi Avram, ci numele tău va fi Avraham” — iată schimbarea numelui. Schimbarea faptelor — căci s-a schimbat de la faptele rele pe care le făcuse la început la fapte bune. Aceasta este o pildă pentru duhul celui care a murit fără fii. Asemenea acesteia a făcut Sfântul, binecuvântat fie El, lui Adam: așa l-a alungat din lumea aceea și l-a adus în lumea aceasta. Și iată, s-a spus mai sus."
       }
     ]
   },
@@ -868,6 +876,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi subliniază caracterul „veșnic” al legământului ca aplicându-se generațiilor viitoare fără condiție de merit personal — o obligație divină care persistă chiar și în perioadele de neascultare a poporului."
+      },
+      {
+        "author": "Zohar, Hukat 12:7",
+        "text": "Ferice de Israel, că Moșe profetul a fost printre ei, căci din pricina lui le-a făcut Cel Sfânt, binecuvântat fie El, toate aceste semne, și au tălmăcit. Și Cel Sfânt, binecuvântat fie El, nu a încheiat legământul Său cu celelalte neamuri ca să se lege de El, ci cu Israel, care sunt fiii lui Avraham, despre care este scris: (Geneza 17:7) „și între sămânța ta după tine, pentru neamurile lor, un legământ veșnic.” Și este scris: (Isaia 59:21) „Iar Eu, acesta este legământul Meu cu ei, zice Domnul: Duhul Meu care este asupra ta” etc. „nu se vor depărta din gura ta” etc. Binecuvântat să fie Domnul pe veci, amin și amin."
       }
     ]
   },
@@ -2450,6 +2462,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi citește rugăciunea lui Avraham pentru Ismael nu ca respingere a promisiunii legate de Isaac, ci ca dorință sinceră ca ambii fii să trăiască și să fie binecuvântați, o grijă părintească autentică pentru amândoi."
+      },
+      {
+        "author": "Zohar, Vaigaș 1:8",
+        "text": "«Că Avraham nu ne-a cunoscut», că, măcar că prin el e statornicia lumii, nu s-a îndeletnicit pentru noi precum s-a îndeletnicit pentru Yișmaʿel. Că a zis (Geneza 17:18): «de-ar trăi Yișmaʿel înaintea Ta». «Și Israel nu ne va recunoaște», pentru că toate binecuvântările de care era nevoie să-și binecuvânteze fiii le-a lăsat treptei acesteia, ca să-i binecuvânteze pe toți."
       }
     ]
   },
@@ -2964,6 +2980,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi precizează „anul viitor” ca fiind exact, nu aproximativ — o promisiune cu termen concret, verificabilă, care va fi împlinită întocmai la Geneza 21."
+      },
+      {
+        "author": "Zohar, Vaiețe 27:2",
+        "text": "Dacă e așa, de ce e scris cercetare? Ci cu adevărat amintirea (aceasta) a fost înainte de aceasta, și s-a predat cheia aceasta jos, precum e scris (Geneza 17:21): «și legământul Meu îl voi statornici cu Yițḥak, pe care ți-l va naște Sarah la sorocul acesta» etc. Și după aceea după chipul acesta; și de îndată ce s-a pomenit în taina de sus, după aceea s-a spus în taina femelei cercetare, ca să fie cuprinderea tuturor împreună."
       }
     ]
   },
@@ -3537,6 +3557,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi discută vârsta lui Ismael (treisprezece ani) ca bază tradițională pentru practica circumciziei musulmane ulterioare la aceeași vârstă, urmând exemplul direct al strămoșului lor."
+      },
+      {
+        "author": "Zohar, Itro 23:4",
+        "text": "Și sămânța lui Israel se numesc om. Vino, vezi. E scris despre Yișmaʿel (Geneza 16): «și el va fi un om sălbatic». Un om sălbatic, și nu om. Un om sălbatic, pentru că s-a tăiat împrejur. Și începutul omului era în el. Că e scris (Geneza 17:25): «și Yișmaʿel, fiul lui, de treisprezece ani, când i s-a tăiat împrejur carnea prepuțului». Odată ce s-a tăiat împrejur, a intrat în începutul acesta, care se numește «tot». Aceasta este ce e scris (Geneza 16:12): «și el va fi un om sălbatic», și nu om. «Mâna lui în tot»: mâna lui în tot, negreșit, și nu mai mult, pentru că n-a primit poruncile Torei. Începutul era în el, pentru că s-a tăiat împrejur, și nu s-a împlinit în poruncile Torei. Dar sămânța lui Israel, care s-au împlinit în tot, se numesc om, de-a dreptul. Și e scris (Deuteronomul 32:9): «că partea Domnului e poporul Lui, Iaakov, funia moștenirii Lui»."
       }
     ]
   },

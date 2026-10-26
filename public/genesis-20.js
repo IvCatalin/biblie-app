@@ -1024,6 +1024,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Discută teologia acestui verset ca exemplu de providență divină extinsă dincolo de linia lui Avraham — Dumnezeu Se implică activ în viața morală a unui rege străin, arătând că grija divină nu se limitează strict la poporul legământului."
+      },
+      {
+        "author": "Zohar, Vaikra 17:1",
+        "text": "Rabbi Aḥa a deschis (Geneza 20:3): «Și a venit Elohim (Dumnezeu) la Avimelekh în vis noaptea», și este scris: «Și Elohim i-a zis în vis: Și Eu știu că în curăția inimii tale ai făcut aceasta.» Acest «Și a venit Elohim la Avimelekh» — prin ce se deosebesc popoarele lumii, că «a venit Elohim», iar la Israel nu? (Ci aceasta este taina «altor dumnezei» (elohim aḥerim); și trebuie să știi că Numele Celui Sfânt, binecuvântat fie El, (Isaia 57:15) «Cel înalt și înălțat, care locuiește în veșnicie, și Sfânt este Numele Lui», și El singur este Rege peste tot ce se află, fie sus, fie jos. Și Palatul Lui cel sfânt este întocmit la mijloc, și împrejurul lui sunt șaptezeci de cununi, și din ele s-au tras șaptezeci de căpetenii și au fost rânduite peste cele șaptezeci de popoare ale lumii, ca fiecare să stăpânească peste poporul său și peste țara sa. […]"
       }
     ]
   },
@@ -1881,6 +1885,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi discută judecata pripită a lui Avraham despre lipsa „temerii de Dumnezeu” în Gherar — o presupunere care se dovedește greșită, contrazisă chiar de comportamentul integru al lui Avimeleh."
+      },
+      {
+        "author": "Zohar, Toldot 12:4",
+        "text": "Vino, vezi: e scris «că am zis: numai nu e frica de Dumnezeu în locul acesta». A zis Rabbi Aba: de aceea a zis «sora mea este», ca să se lipească de Șekhinah, că e scris (Proverbele 7:4): «zi ḥokhmah: sora mea ești». Care e temeiul? Pentru că în ei nu era credință; că dacă s-ar fi aflat credință între ei, n-ar fi trebuit. Dar din pricină că nu era între ei credință, a zis astfel. Și de aceea a zis (Geneza 20:11): «că am zis: numai nu e frica de Dumnezeu în locul acesta». «Nu e frica de Dumnezeu» — aceasta e credința."
       }
     ]
   },
@@ -2022,6 +2030,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ibn Ezra (1089–1167)",
         "text": "Discută posibilitatea legală a căsătoriei cu o soră vitregă (aceeași tată, mamă diferită) ca practică acceptată în perioada patriarhală, înainte de interdicțiile ulterioare din Levitic — un detaliu care explică validitatea căsătoriei lui Avraham fără a contrazice legea mozaică de mai târziu."
+      },
+      {
+        "author": "Zohar, Emor 40:2",
+        "text": "Rabbi Aba a trimis la Rabbi Șimʿon; a zis: Când este unirea Kneset Israel cu Regele sfânt? I-a trimis: (Geneza 20:12) „Și de altfel ea este cu adevărat sora mea, fiica tatălui meu, dar nu fiica mamei mele; și mi-a devenit soție.” S-a tulburat Rabbi Aba, și-a ridicat glasul, a plâns și a zis: Rabbi, Rabbi, Candela sfântă! Vai, vai de lume când vei ieși din ea; vai de generația care va fi în lume când te vei îndepărta de ei și vor rămâne orfani de tine! I-a zis Rabbi Ḥiyya lui Rabbi Aba: Aceasta pe care ți-a trimis-o, ce spune?"
       },
       {
         "author": "Cartea Jubileelor 12 — context/comparație",
@@ -2533,6 +2545,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi discută oferta lui Avimeleh de a se așeza oriunde în țara sa ca gest de reconciliere completă, similar celui făcut de Avraham însuși către Lot la capitolul 13."
+      },
+      {
+        "author": "Zohar, Toldot 13:1",
+        "text": "(Geneza 26:11) «Și a poruncit Avimelekh la tot poporul zicând: cine se atinge de omul acesta și de soția lui va muri de moarte.» Vino, vezi: cât a lungit Sfântul, binecuvântat fie El, pentru răi, din pricina acelui bine pe care l-a făcut cu părinții dintâi. Că iată din pricina aceasta n-au stăpânit asupra lor Israel până după generațiile de pe urmă. Bine a făcut Avimelekh, că a făcut bine cu Yițḥak, că i-a zis (Geneza 20:15): «iată țara mea e înaintea ta; în ce e bun în ochii tăi, șezi»."
       }
     ]
   },
@@ -2895,6 +2911,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Sforno (cca. 1475–1550)",
         "text": "Notează rugăciunea lui Avraham ca prima menționare explicită în Tora a unei rugăciuni de mijlocire pentru vindecare fizică — un precedent pentru rolul profetic de mijlocitor discutat deja la v.7."
+      },
+      {
+        "author": "Mișna, Bava Kama 8:7",
+        "text": "Deși îi dă, nu i se iartă până ce nu va cere de la el, căci s-a spus: (Geneza 20:7) „Și acum, dă înapoi soția” etc. Și de unde reiese că cel care iartă să nu fie crud? Căci s-a spus: (Geneza 20:17) „Și s-a rugat Avraham către Dumnezeu, și Dumnezeu l-a vindecat pe Avimelekh” etc. Cel care spune: „Orbește-mi ochiul, taie-mi mâna, frânge-mi piciorul” — este dator; „cu condiția de a fi scutit” — este dator. „Rupe-mi haina, sparge-mi urciorul” — este dator; „cu condiția de a fi scutit” — este scutit. „Fă așa cutărui om, cu condiția de a fi scutit” — este dator, fie la trupul lui, fie la averea lui."
       }
     ]
   },

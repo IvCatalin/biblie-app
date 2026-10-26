@@ -130,6 +130,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Notează ordinea revenirii — „către miazăzi”, aceeași direcție pe unde Avram plecase spre Egipt — sugerând o mișcare treptată de întoarcere spre locurile pe care le cunoscuse deja în Canaan, nu un drum nou."
+      },
+      {
+        "author": "Zohar, Leh Leha 15:5",
+        "text": "A zis Rabbi Aba: tot aceasta de ce i s-a întâmplat lui Avraham, și pentru ce trebuia? Ci ca să se mărească numele lui Avraham și al Sarei în lume; că chiar în Egipt („Mițrayim”), care sunt vrăjitorii lumii și nimeni nu putea să se salveze de ei, s-a mărit Avraham și s-a înălțat sus; acesta e ce e scris «și s-a suit Avram din Egipt» — unde? «spre Neghev»."
       }
     ]
   },
@@ -1120,6 +1124,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Cuvântul „rude apropiate” (literal „frați”) — deși Lot era de fapt nepotul lui Avram, nu fratele — Rashi explică aceasta ca folosire generoasă a termenului de rudenie, subliniind apropierea reală dintre ei, dincolo de gradul exact de rudenie."
+      },
+      {
+        "author": "Zohar, Leh Leha 10:20",
+        "text": "Ce e scris: «și a zis Avram lui Lot». Neșamah s-a întors către yețer ha-ra și i-a zis: «să nu fie ceartă între mine și tine și între păstorii mei și între păstorii tăi» — laturile mele și laturile tale. «Că oameni frați suntem» — yețer tov și yețer ha-ra sunt apropiați unul de altul; acesta la dreapta și acesta la stânga."
       }
     ]
   },
@@ -1868,6 +1876,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Contrastul dintre „Avram s-a așezat în țara Canaanului” și „Lot... și-a întins cortul până la Sodoma” — Rashi notează progresia treptată a lui Lot spre răul moral: nu s-a mutat direct în Sodoma, ci și-a apropiat tot mai mult cortul de ea, un proces gradual de compromis."
+      },
+      {
+        "author": "Zohar, Leh Leha 10:22",
+        "text": "De îndată ce se despărțesc unul de altul, ce e scris: «Avram a șezut în țara Kenaan». S-a așezat neșamah în acei drepți, în așezare bună, în pace. «Și Lot a șezut în cetățile ținutului» — acel blestemat, pârâșul, merge să pârască și să se unească în locul vinovaților acolo, că e scris «și și-a întins corturile până la Sedom». Ce e scris după aceea: «și oamenii Sedomului erau răi și păcătoși Domnului foarte». Acolo se odihnește și își pune locuința între ei ca să se unească cu ei, să-i abată și să-i piardă."
       }
     ]
   },
@@ -1990,6 +2002,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Versetul separă explicit două categorii — „răi” (în comportament) și „păcătoși” (spiritual, față de DOMNUL) — Rashi citește dubla caracterizare ca subliniind gravitatea extremă a Sodomei, atât în relațiile dintre oameni cât și în relația cu Dumnezeu."
+      },
+      {
+        "author": "Mișna, Sanhedrin 10:3",
+        "text": "Generația potopului nu are parte de lumea ce va veni și nu se ridică la judecată, căci s-a spus: (Geneza 6:3) „Duhul Meu nu va judeca în om pe vecie” — nici judecată, nici duh. Generația împrăștierii nu are parte de lumea ce va veni, căci s-a spus: (Geneza 11:8) „Și Domnul i-a împrăștiat de acolo pe fața întregului pământ” — „și Domnul i-a împrăștiat” în lumea aceasta, „și de acolo i-a împrăștiat Domnul” în lumea ce va veni. Oamenii din Sedom nu au parte de lumea ce va veni, căci s-a spus: (Geneza 13:13) „Și oamenii din Sedom erau răi și păcătoși înaintea Domnului foarte” — „răi” în lumea aceasta, „și păcătoși” în lumea ce va veni; dar se ridică la judecată. Rabbi Neḥemyah spune: nici aceștia, nici aceia nu se ridică la judecată, căci s-a spus: (Psalmul 1:5) „De aceea nu se vor ridica cei răi la judecată, nici păcătoșii în obștea celor drepți” […]"
+      },
+      {
+        "author": "Zohar, Leh Leha 10:22",
+        "text": "De îndată ce se despărțesc unul de altul, ce e scris: «Avram a șezut în țara Kenaan». S-a așezat neșamah în acei drepți, în așezare bună, în pace. «Și Lot a șezut în cetățile ținutului» — acel blestemat, pârâșul, merge să pârască și să se unească în locul vinovaților acolo, că e scris «și și-a întins corturile până la Sedom». Ce e scris după aceea: «și oamenii Sedomului erau răi și păcătoși Domnului foarte». Acolo se odihnește și își pune locuința între ei ca să se unească cu ei, să-i abată și să-i piardă."
       }
     ]
   },
@@ -2338,6 +2358,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "„În veci” — Rashi discută tensiunea aparentă cu exilurile ulterioare ale poporului din țară (robia egipteană, exilul babilonian) — promisiunea eternă nu exclude perioade de absență temporară, ci garantează revenirea finală și permanentă."
+      },
+      {
+        "author": "Zohar, Vaiera 11:5",
+        "text": "Vino și vezi: «și Domnul a zis: oare voi acoperi de Avraham». A zis Rabbi Yehudah: Sfântul, binecuvântat fie El, a dat tot pământul lui Avraham ca să-i fie moștenire de moștenire în veac, că e scris «că tot pământul pe care îl vezi, ție ți-l voi da» etc. Și e scris «ridică-ți, rogu-te, ochii și vezi». Și după aceea Sfântul, binecuvântat fie El, a trebuit să smulgă locurile acestea. A zis Sfântul, binecuvântat fie El: deja am dat pământul lui Avraham, și el e tată tuturor, că e scris «că tată a mulțime de neamuri te-am pus». Și nu mi se cuvine să lovesc fii și să nu fac cunoscut tatălui lor, pe care l-am chemat Avraham, iubitul Meu. Și de aceea a trebuit să-i facă cunoscut; de aceea (a zis) «și Domnul a zis: oare voi acoperi de Avraham ceea ce Eu fac»."
       }
     ]
   },

@@ -215,9 +215,13 @@ window.CHAPTER_DATA = [
         "author": "Rashi (1040–1105)",
         "text": "Discută ambiguitatea celebră a expresiei „am dobândit un om <i>cu</i> DOMNUL” — particula ebraică „et” (אֶת) e de obicei doar marcatorul gramatical al obiectului direct, dar aici poate fi citită și ca prepoziția „cu/împreună cu”. O tradiție citată de Rashi înțelege din asta o afirmație aproape trufașă a Evei: „am creat un om, [la fel] ca DOMNUL” — prima naștere umană devine, în această lectură, ocazia primei mândrii exagerate legate de procreare."
       },
-            {
+      {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Ramban propune o citire diferită de a lui Rashi pentru „kaniti ish et Hashem”: nu o egalare mândră cu Dumnezeu, ci, urmând pe Onkelos, o dedicare — „acest fiu îmi va fi o achiziție/dedicare pentru DOMNUL”, adică atunci când părinții vor muri, el va rămâne în locul lor să-L slujească pe Ziditor. Ramban observă și că, spre deosebire de numele lui Cain (explicat direct în text), numele lui Abel („Hevel”, „suflare/deșertăciune”) rămâne neexplicat — pentru că, spune el, „taina primită [de la înaintași] despre Abel e foarte mare”, o aluzie cabalistică pe care Ramban însuși alege să n-o dezvolte aici."
+      },
+      {
+        "author": "Zohar, Idra Raba 47:1",
+        "text": "Și am învățat în Țeniʿuta de-Sifra: Atiqa Qadișa a voit să vadă dacă s-au îndulcit judecățile și s-au lipit aceste două unul de altul; și a ieșit din partea femininului o judecată puternică (pe care lumea n-o putea suporta), căci este scris (Geneza 4:1): «Și omul a cunoscut pe Ḥavah, soția lui, și ea a zămislit și a născut pe Qayin și a zis: Am dobândit» etc. Și lumea n-o putea suporta, pentru că nu se îndulcise, iar șarpele cel puternic aruncase în ea întinăciunea judecății aspre; și de aceea nu putea să se îndulcească. Și când acest Qayin a ieșit din partea femininului, a ieșit puternic, aspru — puternic în judecățile lui, aspru în judecățile lui. Deoarece a ieșit, ea s-a slăbit și s-a îndulcit. După aceasta a scos un altul, mai dulce, iar cel dintâi, care era puternic și aspru, s-a înălțat; și toate judecățile nu s-au amestecat (altă versiune: nu s-au întâlnit) înaintea lui (altă versiune: și toate judecățile (nu) s-au trezit) cu el."
       },
       {
         "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 2",
@@ -412,8 +416,7 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Notează ocupațiile complementare ale celor doi frați — Abel, păstor, lucrează cu ființe vii, mobile; Cain, lucrător al pământului, cu materie inertă, fixă. O tradiție vede în asta germenele diferenței de caracter care va urma: grija față de viață versus atașamentul de proprietate."
-      }
-    ,
+      },
       {
         "author": "Sforno (cca. 1475–1550)",
         "text": "Sforno remarcă o diferență subtilă de nuanță între cei doi frați: „Abel a devenit păstor” — o meserie care cerea mai multă înțelepciune decât lucrarea pământului —, în timp ce despre Cain se spune simplu că „era” lucrător al pământului. Sugerează astfel o ierarhie implicită a priceperii dintre cele două ocupații, chiar înainte ca vreo ofrandă să fie adusă."
@@ -557,11 +560,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Notează, prin comparație cu v. 4, o diferență de nuanță: Cain aduce pur și simplu „din rodul pământului” — fără altă precizare — spre deosebire de Abel, care aduce „din întâii născuți” și „din cele mai de seamă”. Alegerea de cuvinte sugerează, chiar înainte de reacția divină de la v. 4-5, o diferență de calitate și intenție între cele două ofrande."
-      }
-    ,
+      },
       {
         "author": "Ibn Ezra (1089–1167)",
         "text": "Ibn Ezra adaugă un detaliu de decor: Cain și-a adus prinosul „la locul pe care și-l stabilise pentru rugăciune” — primul altar improvizat, nu neapărat un loc anume desemnat de Dumnezeu. Observă și un indiciu textual: pentru că versetul următor precizează explicit că Abel a adus „din întâii-născuți ai turmelor sale”, iar despre Cain nu se spune un lucru echivalent, reiese indirect că Cain nu a adus din cele dintâi roade ale pământului."
+      },
+      {
+        "author": "Zohar, Tețave 4:1",
+        "text": "A deschis și a zis (Geneza 4:3): «Și a fost, la sfârșitul zilelor (miqeț yamim), Qayin a adus din rodul pământului o jertfă Domnului.» «Și a fost, la sfârșitul zilelor» — este o taină: «la sfârșitul zilelor (yamim)», și nu «la sfârșitul (134a) dreptei (yamin)». A respins sfârșitul dreptei și a adus la sfârșitul zilelor. Și iată am stabilit, căci este scris (Daniel 12:13): «Iar tu du-te la sfârșit.» A zis Cel Sfânt, binecuvântat fie El, lui Daniel: «Iar tu du-te la sfârșit.» I-a zis: La care sfârșit — la sfârșitul zilelor sau la sfârșitul dreptei? Până ce i-a zis: la sfârșitul dreptei."
       }
     ],
     "fidela": "Şi s-a întâmplat că, după un timp, Cain a adus un dar DOMNULUI, din rodul pământului.",
@@ -737,7 +743,7 @@ window.CHAPTER_DATA = [
     ],
     "fidela": "Şi Abel, de asemenea, a adus din întâii născuţi ai turmei sale şi din grăsimea lor. Şi DOMNUL s-a uitat cu plăcere la Abel şi la darul său.",
     "commentaries": [
-            {
+      {
         "author": "Sforno (cca. 1475–1550)",
         "text": "Sforno leagă direct acceptarea ofrandei de acceptarea celui care o aduce: „S-a îndreptat spre Abel și spre prinosul lui” înseamnă, spune el, că Abel însuși — cel care jertfea — era plăcut, iar prinosul lui era, la rândul lui, plăcut, pentru că era din genul potrivit pentru bunăvoință. Caracterul celui care aduce darul și calitatea darului merg, în această citire, mână în mână."
       },
@@ -896,8 +902,7 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Nu oferă un motiv explicit din text pentru care Dumnezeu preferă ofranda lui Abel — dar, urmând tradiția clasică, leagă asta de diferența de calitate deja notată la v. 3-4: Cain aduce „din rod”, generic, poate chiar din ce era mai prejos; Abel aduce „din întâii născuți” și „din cele mai de seamă”. Nu tipul de ofrandă (vegetală vs. animală) e problema, ci intenția și calitatea din spatele ei."
-      }
-    ,
+      },
       {
         "author": "Sforno (cca. 1475–1550)",
         "text": "Sforno citește versetul ca pe o respingere dublă, în oglindă cu versetul anterior: „nu S-a îndreptat” înseamnă atât că Cain, cel care aducea, nu era plăcut, cât și că prinosul lui, la rândul lui, nu era din genul potrivit pentru bunăvoință. Deosebește apoi cele două reacții ale lui Cain: „s-a mâniat” vine din invidia față de fratele care fusese plăcut, în timp ce „fața i s-a posomorât” vine din rușinea de a fi fost făcut de rușine de Dumnezeu Însuși, care i-a respins speranța."
@@ -1031,8 +1036,7 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Întrebarea „de ce te-ai mâniat?” — la fel ca „unde ești?” (3:9) și „unde e fratele tău?” (4:9) — face parte, spune Rashi, dintr-un tipar consecvent: Dumnezeu deschide dialogul cu o întrebare, dând ocazia omului să reflecteze și să răspundă, înainte de orice judecată."
-      }
-    ,
+      },
       {
         "author": "Sforno (cca. 1475–1550)",
         "text": "Sforno citește întrebarea DOMNULUI ca pe o mustrare blândă și practică deopotrivă: „de ce te-ai mâniat” — de ce ai invidiat pe fratele tău doar pentru că i-am primit jertfa cu bunăvoință, ca și cum acceptarea lui ar fi fost nedreaptă sau nemeritată? Iar „de ce ți s-a posomorât fața” arată, după Sforno, un principiu general: când o greșeală mai poate fi îndreptată, nu se cuvine să te mâhnești pentru trecut, ci să te străduiești să îndrepți viitorul."
@@ -1218,8 +1222,7 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Explică imaginea „păcatul pândește la ușă” ca pe un animal sălbatic ghemuit, gata să sară — o metaforă vie pentru ispita care așteaptă, nu o forță abstractă. Despre „dorința lui [va fi] spre tine, dar tu îl poți stăpâni”, Rashi leagă construcția gramaticală exact de aceeași formulă de la Geneza 3:16 (femeia și bărbatul) — dorința păcatului de a domina omul poate fi, la fel ca acolo, contracarată prin voință."
-      }
-    ,
+      },
       {
         "author": "Ibn Ezra (1089–1167)",
         "text": "Ibn Ezra trece în revistă mai multe citiri posibile ale cuvântului rar sa’et: „a purta [vina]” (lectura multor comentatori), sau — varianta pe care o preferă — „ridicarea feței”, în oglindă directă cu „i-au căzut fața” de la 4:5: dacă faci bine, îți vei „ridica” din nou fața, cum se spune și la Iov 22:26, „atunci îți vei ridica fața fără cusur”. Notează și incertitudinea comentatorilor asupra lui „la ușă” (a mormântului? a inimii? a gurii?) și a cui e „dorința” din finalul versetului — a fratelui sau a pornirii rele înseși."
@@ -1401,9 +1404,13 @@ window.CHAPTER_DATA = [
         "author": "Ibn Ezra (1089–1167)",
         "text": "Oferă o soluție diferită de Rashi la aceeași lacună (ce-a „vorbit” Cain lui Abel): sugerează că replica lipsă ar fi fost, de fapt, chiar mustrările pe care Cain le auzise de la Dumnezeu (v. 6-7), pe care le-a transmis mai departe, cu amărăciune, fratelui său. Respinge tăios, cu ironie, o întrebare des pusă de cititori — „cum a putut Cain să-l ucidă fără sabie?” — răspunzând că un om poate ucide la fel de ușor cu mâinile goale sau cu orice piatră sau băț găsit pe câmp; arma nu era problema."
       },
-            {
+      {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Ramban oferă o a treia teorie despre motivul crimei, dincolo de cea a lui Rashi (ceartă premeditată) și a lui Ibn Ezra (Cain i-a repetat lui Abel mustrările primite de la Dumnezeu): leagă direct „a vorbit” de fraza următoare, „când erau pe câmp” — Cain l-ar fi invitat pe Abel afară, la câmp, tocmai ca să-l ucidă acolo, în ascuns. Ramban merge mai departe cu motivul: crede că Cain se temea ca nu cumva lumea viitoare să se clădească prin urmașii lui Abel, cel a cărui ofrandă fusese primită, nu prin ai săi — și a vrut să înlăture această amenințare prin crimă."
+      },
+      {
+        "author": "Zohar, Pekudei 21:30",
+        "text": "Și după ce au păcătuit Adam și femeia, și a venit șarpele asupra Ḥavei și a aruncat în ea întinăciune, Ḥavah l-a născut pe Qayin; și chipul lui era chipul de sus (167a) și de jos, din taina întinăciunii celeilalte părți și din partea de jos. Și de aceea el a fost cel dintâi care a făcut moarte în lume, fiindcă partea lui a pricinuit-o. Calea șarpelui este să stea la pândă ca să ucidă; acela care vine din el ia calea lui și merge. Și de aceea este scris (Geneza 4:8): «Și a fost, când erau în câmp, Qayin s-a ridicat împotriva lui Hevel, fratele lui, și l-a ucis». (Bereshit 51b.)"
       },
       {
         "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 2",
@@ -1561,8 +1568,7 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Notează paralela directă cu Geneza 3:9 („Unde ești?”, întrebarea pusă lui Adam) — Dumnezeu folosește din nou o întrebare retorică, deschizătoare de dialog, nu o acuzație frontală, chiar și cu un ucigaș. Răspunsul obraznic al lui Cain — „Sunt eu păzitorul fratelui meu?” — devine, în tradiție, exemplul clasic al negării responsabilității pentru semenul tău, exact contrariul rolului de „păzitor” pe care omul îl primise încă din Eden."
-      }
-    ,
+      },
       {
         "author": "Sforno (cca. 1475–1550)",
         "text": "Sforno citește întrebarea DOMNULUI („Unde este Abel, fratele tău?”) ca pe o șansă oferită cu bunăvoință lui Cain să mărturisească și să se întoarcă, „căci [Dumnezeu] nu dorește moartea celui mort” [ci pocăința vinovatului]. Iar „Nu știu!” arată, după Sforno, neînțelegerea lui Cain: el a crezut că întrebarea era una sinceră de informare, nu una retorică, pentru că nu-și dădea seama că Dumnezeu cunoaște amănuntele vieții tuturor oamenilor, nu doar ale celor apropiați Lui prin cult și rugăciune."
@@ -1717,7 +1723,7 @@ window.CHAPTER_DATA = [
       },
       {
         "author": "Mișna, Sanhedrin 4:5",
-        "text": "Principiul pe care Rashi îl leagă de pluralul „sângeAle” fratelui tău este citat direct în Mișna (Sanhedrin 4:5), în contextul avertismentului dat martorilor înainte de a depune mărturie într-un proces capital: „de-aceea a fost creat un singur om [Adam] — ca să te învețe că oricine distruge un singur suflet [...] Scriptura îl socotește ca și cum ar fi distrus o lume întreagă, iar oricine salvează un singur suflet [...] ca și cum ar fi salvat o lume întreagă.” Textul Mișnei leagă explicit acest principiu de versetul de-aici — „sângele fratelui tău” la plural, sugerând sângele lui Abel și al tuturor urmașilor pe care nu i-a mai avut."
+        "text": "Cum se înfricoșează martorii — martorii în judecăți de suflete? Îi aduceau înăuntru și îi înfricoșau: „Poate veți spune din presupunere, din zvon, «martor din gura unui martor», «din gura unui om vrednic de încredere am auzit»; sau poate nu știți că la sfârșit vă vom cerceta cu cercetare și cu anchetă. Să știți că nu sunt ca judecățile de bani judecățile de suflete. La judecățile de bani, omul dă bani și i se face ispășire; la judecățile de suflete, sângele lui și sângele urmașilor lui atârnă de el până la sfârșitul lumii. Căci așa am găsit la Qayin, care și-a ucis fratele, căci s-a spus: (Geneza 4:10) «sângiurile fratelui tău strigă» — nu spune «sângele fratelui tău», ci «sângiurile fratelui tău» — sângele lui și sângele urmașilor lui. Alt lucru: «sângiurile fratelui tău» — căci sângele lui era aruncat pe lemne și pe pietre. […]"
       }
     ],
     "fidela": "Iar el a spus: Ce ai făcut? Vocea sângelui fratelui tău strigă din pământ către mine."
@@ -1859,8 +1865,7 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Notează că acesta e al treilea blestem rostit direct în Tora (după șarpe, Geneza 3:14, și pământul din pricina lui Adam, Geneza 3:17) — de data asta, spre deosebire de blestemul asupra lui Adam (care cădea pe pământ, nu pe persoana lui), Cain însuși este blestemat direct, „mai mult decât pământul”, o pedeapsă mai gravă decât a tatălui său."
-      }
-    ,
+      },
       {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Ramban se distanțează explicit de citirea lui Rashi („blestemat mai mult decât fusese deja blestemat pământul”): pentru Ramban, textul nu blestemă din nou pământul, ci îl declară pe Cain „blestemat față de/dinaintea pământului” — adică pământul însuși nu-i va mai da rodul, oricât ar munci-o. Leagă acest blestem agricol de principiul general al Torei că sângele vărsat pe pământ îl „pângărește” (Numeri 35:33) și că o astfel de pângărire aduce foamete și lipsă de rod (citând Hagai 2:16) — blestemul lui Cain nu-i doar personal, ci o ilustrare a unei legi mai largi despre consecințele sângelui nevinovat asupra pământului care l-a absorbit."
@@ -2149,8 +2154,7 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Notează ambiguitatea posibilă a acestei propoziții, citită uneori ca întrebare, alteori ca afirmație disperată — dar, indiferent de citire, e primul moment în care Cain, în sfârșit, recunoaște gravitatea faptei sale, chiar dacă abia după ce pedeapsa i-a fost deja rostită, nu înainte."
-      }
-    ,
+      },
       {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Spre deosebire de Rashi, care citește versetul „cu mirare” (aproape sfidător — „ceri socoteală cerului și pământului, iar vina ta n-o poți cere?”), Ramban propune sensul simplu direct: e o mărturisire sinceră. Cain recunoaște „drept ești Tu, DOMNULUI, și corecte sunt judecățile Tale”, chiar dacă pedeapsa mi-e mult prea grea — o recunoaștere onestă a dreptății divine, nu o plângere trufașă."
@@ -2321,6 +2325,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Plângerea lui Cain („oricine mă găsește mă va omorî”) presupune existența altor oameni în afara familiei imediate — o problemă remarcată de comentatori de secole; explicația clasică: la acel moment existau deja mulți frați și surori ai lui Cain, nemenționați explicit în text, din genealogia lui Adam și Eva."
+      },
+      {
+        "author": "Zohar, Vaișlah 28:2",
+        "text": "Ci aceștia despre care a zis versetul «care a aflat yemim în pustiu»: «yemim» e scris. Aceștia erau făpturi deosebite. Că atunci când a fost alungat Qayin de pe fața pământului, precum e scris (Geneza 4:14): «iată, m-ai alungat astăzi de pe fața pământului și de la fața Ta mă voi ascunde», și e scris: «și a locuit în țara Nod»; și au statornicit-o."
       }
     ]
   },
@@ -2476,8 +2484,7 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Citează mai multe tradiții despre natura semnului dat lui Cain — de la o literă din Numele divin scrisă pe fruntea lui, până la un corn crescut, sau chiar un câine trimis să-l însoțească și să-l apere. Miza comună: Dumnezeu, deși pedepsește sever crima, refuză totuși pedeapsa capitală imediată și protejează activ viața ucigașului — un echilibru remarcat des în comentarii, între dreptate și milă."
-      }
-    ,
+      },
       {
         "author": "Ibn Ezra (1089–1167)",
         "text": "Ibn Ezra citește shiv’atayim nu ca pe un număr literal de generații, ci ca pe o formulă idiomatică de intensificare — comparând-o cu Isaia 30:26, „lumina soarelui va fi înșeptită”, care nu înseamnă o lumină exact de șapte ori mai puternică, ci pur și simplu „mult mai puternică”. Cât despre semnul pus pe Cain, Ibn Ezra enumeră mai multe tradiții (o coarnă, curaj insuflat în inimă, un semn vizibil) fără să aleagă una anume — observă doar că textul „nu a dezvăluit semnul”, lăsând intenționat detaliul neclar."
@@ -2644,8 +2651,7 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Notează jocul de cuvinte dintre numele ținutului „Nod” și blestemul „na va-nad” (rătăcitor și pribeag) de la v. 12 și 14 — Cain nu se stabilește, de fapt, niciunde; „ținutul rătăcirii” e un nume simbolic pentru starea sa permanentă, nu o adresă fixă."
-      }
-    ,
+      },
       {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Ramban subliniază implicația teologică a expresiei „a ieșit de dinaintea DOMNULUI”: Cain nu va mai sta niciodată, de acum, în prezența Lui — exact temerea exprimată chiar de Cain la 4:14, „voi fi ascuns dinaintea Ta”. Exilul geografic din ținutul Nod e, pentru Ramban, doar fața vizibilă a unei înstrăinări mult mai adânci și permanente."
@@ -2882,7 +2888,7 @@ window.CHAPTER_DATA = [
     ],
     "fidela": "Şi Cain a cunoscut-o pe soţia sa şi ea a rămas însărcinată şi a născut pe Enoh; şi a zidit o cetate şi a pus numele cetăţii după numele fiului său, Enoh.",
     "commentaries": [
-            {
+      {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Ramban vede în construcția cetății o ironie amară: la început, Cain se temea că va rămâne fără urmași din pricina păcatului; abia după ce i se naște un fiu începe să construiască o cetate — dar pentru că el însuși e blestemat și lucrările lui nu prosperă, cetatea e numită după fiul său, Enoh, nu după el, „ca și cum Enoh însuși ar fi construit-o pentru sine”. Chiar și forma verbului ebraic (nu „a construit”, ci literal „era tot construind”) sugerează, după Ramban, o lucrare veșnic neterminată, potrivită unui om condamnat să nu se poată așeza nicăieri definitiv."
       },
@@ -3963,8 +3969,7 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Recunoaște acest verset, împreună cu următorul, printre cele mai obscure din toată Tora, cu multiple citiri posibile. O tradiție citată de Rashi înțelege versetele ca pe o mărturisire indirectă: Lameh, orb, l-ar fi ucis fără să vrea pe însuși Cain (confundându-l cu o fiară, la vânătoare, ghidat de fiul său Tuval-Cain) și apoi, din greșeală, chiar pe fiul său, lovindu-l de mânie când a aflat ce s-a întâmplat. Versetele ar fi, în această lectură, cuvintele lui de disperare către soțiile sale, temându-se de răzbunare."
-      }
-    ,
+      },
       {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Spre deosebire de tradiția midrashică citată de Rashi (Lameh, orb, îl ucide din greșeală pe Cain, crezându-l fiară, iar apoi pe propriul fiu Tuval-Cain, care-l ghida), Ramban propune o citire mult mai rațională a „cântecului sabiei”: Lameh, om priceput la orice meșteșug, și-a învățat fiii — unul păstoritul, altul muzica, altul metalurgia și fabricarea armelor — iar soțiile lui se temeau că va fi pedepsit pentru că a adus sabia și vărsarea de sânge în lume, ca urmaș direct al primului ucigaș. Lameh le liniștește: spre deosebire de Cain, care a ucis cu premeditare, el n-a ucis pe nimeni — „un bărbat pentru rana mea” ar însemna doar că ar răni pe oricine l-ar ataca, în legitimă apărare, nu o crimă comisă cu voia lui."
@@ -4536,8 +4541,7 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Discută o tradiție mai puțin favorabilă acestui verset: „a început să se cheme [Numele DOMNULUI]” ar putea însemna, în această lectură alternativă, începutul idolatriei — oamenii au început să numească și idolii cu Numele divin, sau chiar pe oameni înșiși. Cele două citiri (începutul rugăciunii sincere, sau începutul idolatriei) rămân în dezbatere printre comentatori, exact cifra opusă a interpretărilor arătând cât de deschis rămâne acest verset scurt."
-      }
-    ,
+      },
       {
         "author": "Ibn Ezra (1089–1167)",
         "text": "Ibn Ezra respinge explicit, pe temei gramatical, citirea negativă a lui Rashi (huchal legat de chillul, „profanare” — începutul idolatriei): dacă rădăcina ar fi fost chillul, argumentează el, Numele divin ar fi trebuit să apară în stare construită, legat direct de cuvântul care-l precede — ceea ce textul nu arată. Pentru Ibn Ezra, huchal vine din rădăcina techilah, „început”, iar sensul e pozitiv și simplu: „atunci au început [oamenii] să se roage”, prima invocare publică a Numelui DOMNULUI, nu prima idolatrie."

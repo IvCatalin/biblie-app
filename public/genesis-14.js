@@ -2296,6 +2296,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Numărul precis — 318 discipoli/slujitori — a devenit celebru în tradiția rabinică pentru o interpretare gematrică: valoarea numerică a numelui „Eliezer” (slujitorul de încredere al lui Avram, menționat la 15:2) este exact 318, sugerând tradițional că Avram ar fi pornit singur cu Eliezer, a cărui valoare numerică echivalează simbolic cu întreaga trupă."
+      },
+      {
+        "author": "Zohar, Leh Leha 10:24",
+        "text": "Ce e scris: «și a auzit Avram că a fost luat fratele său». «Și a auzit Avram» — aceasta e neșamah care a rămas în curățenie în trup. «Că a fost luat fratele său» — acesta e yețer ha-ra care a fost luat între acei vinovați în vinovății multe. «Și a înarmat pe ucenicii săi, născuți în casa sa» — aceștia sunt drepții care se ostenește în Tora, care sunt mădularele trupului, sprinteni să meargă cu el; optsprezece și trei sute — acestea sunt 248 de mădulare ale trupului, și șaptezeci, taina neșamah-ei care iese de acolo. În totul s-a pregătit să meargă acolo către acei vinovați ca să-i întoarcă de la vinovățiile lor."
       }
     ]
   },
@@ -3090,6 +3094,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Talmud Babilonian, Nedarim 32b",
         "text": "Aceeași sursă discută o problemă din formularea binecuvântării lui Malhițedek: el Îl menționează pe Dumnezeu abia după ce îl binecuvântează pe Avram, o ordine pe care tradiția o citește ca o greșeală de etichetă spirituală — „slujitorul” (Avram) binecuvântat înaintea „Stăpânului” — motiv pentru care, conform acestei tradiții, preoția i-a fost retrasă simbolic lui Malhițedek și transferată descendenței lui Avraham."
+      },
+      {
+        "author": "Zohar, Leh Leha 24:6",
+        "text": "Vino și vezi: binecuvântările le ia lumea aceasta de jos când se unește cu preotul cel mare; atunci «și l-a binecuvântat și a zis: binecuvântat e Avram al El Elyon» — astfel e cu adevărat. După chipul acesta trebuie preotul jos să lege legături și să binecuvinteze locul acesta, ca să se lege de dreapta, ca să se lege două lumi ca una. «Binecuvântat e Avram» — taina cuvântului e pregătirea binecuvântărilor."
       }
     ]
   },
@@ -3241,6 +3249,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Zeciuiala oferită de Avram lui Malhițedek (discutată explicit mult mai târziu în Evrei 7:2,4 ca argument teologic despre superioritatea preoției lui Melhisedec față de cea levitică) stabilește aici, pentru prima dată în Tora, practica zeciuielii ca răspuns la binecuvântare primită."
+      },
+      {
+        "author": "Zohar, Leh Leha 24:7",
+        "text": "«Binecuvântat e Avram» — precum zicem «binecuvântat ești Tu». «Al El Elyon» — YHVH (Domnul) Elohim-ul nostru. «Stăpân al cerurilor și al pământului» — Împăratul lumii. Și versetul acesta e taina binecuvântărilor. «Și l-a binecuvântat» de jos sus. «Și binecuvântat e El Elyon» de sus jos. «Și i-a dat zeciuială din tot» — să se lipească de locul unde s-a legat legătura jos."
       }
     ]
   },

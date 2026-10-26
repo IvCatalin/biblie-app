@@ -150,6 +150,10 @@ window.CHAPTER_DATA = [
         "text": "Rashi discută sensul „încercării” — nu pentru ca Dumnezeu să afle ceva ce nu știa deja, ci pentru a face vizibilă, public, calitatea deja existentă a lui Avraham, ridicându-l ca exemplu etern pentru toate generațiile."
       },
       {
+        "author": "Zohar, Tețave 3:4",
+        "text": "A zis Rabbi Șimʿon (parașa Bo 34a): Cel Sfânt, binecuvântat fie El, nu l-a încercat pe Iyov și nu a venit cu el în încercare ca încercarea celorlalți ṭadiqimi, căci nu este scris despre el «și Dumnezeu l-a încercat pe Iyov», cum este scris despre Avraham (Geneza 22:1): «Și Dumnezeu l-a încercat pe Avraham», care cu mâna lui și-a adus pe fiul său unic către El. Iar Iyov nu I-a dat și nu I-a predat nimic, și nu i s-a spus; ci a fost dat în mâna acuzatorului, prin judecata Celui Sfânt, binecuvântat fie El, căci El l-a trezit pe acel acuzator asupra lui, ceea ce El nu voia. Căci totdeauna vine acel acuzator ca să se trezească asupra oamenilor, iar aici Cel Sfânt, binecuvântat fie El, l-a trezit asupra lui, cum este scris (Iov 1:8): «Ți-ai pus inima la robul Meu Iyov?» Dar este o taină adâncă."
+      },
+      {
         "author": "Cartea Jubileelor 17-18 — context/comparație",
         "text": "Jubilee adaugă un element structural absent din Geneza, apropiat de prologul Cărții lui Iov: încercarea nu vine direct de la Dumnezeu, ci e instigată de „principele Mastema” — o figură adversă, satanică — care, după ce se aud „în cer... glasuri despre Avraam, că era credincios în tot ce-i spusese”, „a venit și a zis înaintea lui Dumnezeu: Iată, Avraam îl iubește pe Isaac, fiul său, și se desfătează în el mai presus de toate; poruncește-i să-l aducă ca jertfă arsă pe altar, și vei vedea dacă va face porunca aceasta, și vei cunoaște dacă este credincios în tot ce-l încerci” (17:15-16). În punctul culminant al jertfei (18:9-12), „principele Mastema a fost făcut de rușine” chiar în clipa în care îngerul oprește mâna lui Avraam — cadrul cosmic al testului (o dispută cerească despre loialitatea lui Avraam) rămâne complet implicit în Geneza, dar e făcut explicit aici. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 17)\" title=\"Citește capitolul\">→</button>"
       }
@@ -1331,6 +1335,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi citește întrebarea inocentă a lui Isaac ca moment de tensiune dramatică maximă — copilul nu bănuiește încă adevărul, iar răspunsul tatălui trebuie să fie atât sincer, cât și protector."
+      },
+      {
+        "author": "Zohar, Țav 5:23",
+        "text": "(Leviticul 6:6) «Un foc necurmat să ardă pe altar; să nu se stingă.» Rabbi Ḥiyya a deschis (Geneza 22:7): «Și Yițḥak a zis lui Avraham, tatăl său, și a zis: Tată! Și el a zis: Iată-mă, fiul meu» etc. «Și a zis», «și a zis» — de trei ori ale lui Yițḥak, și un «și a zis» al lui Avraham; de ce așa? Ci trei pentru lucrarea Creației, care au fost cele trei ale lui Yițḥak; și unul al lui Avraham în (ziua) a patra, căci este scris «Iată-mă, fiul meu» — strâmtorat (altă versiune: și cu precizie) «iată-mă». Și este scris (Geneza 1:14): «Să fie luminători (meʾorot) în întinderea cerului» — «meʾorot» scris defectiv."
       }
     ]
   },
@@ -2420,6 +2428,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi discută apariția berbecelui „după aceea” (achar) ca detaliu textual dezbătut — unele lecturi sugerează că berbecele exista dintotdeauna, pregătit special pentru acest moment, altele citesc simpla succesiune temporală a evenimentelor."
+      },
+      {
+        "author": "Zohar, Șemini 4:23",
+        "text": "Ci berbecii lui Yițḥak, ca să aducă față de vacă; căci este pomenit de două ori în verset: unul, cum este scris (Geneza 22:13): «Și Avraham și-a ridicat ochii și a văzut, și iată un berbec» — iată unul; și unul: «Și Avraham a mers și a luat berbecul» — iată doi; «și l-a înălțat ca olah». Și de aceea «un berbec pentru olah, temimim» — doi berbeci, căci el este doi. Și despre aceasta (Vayeḥi 241a) am învățat «ghevurot», și din ele se despart către multe altele."
       }
     ]
   },
@@ -2588,6 +2600,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Talmud Babilonian, Taanit 16a",
         "text": "O dezbatere reală între Rabi Levi bar Hama și Rabi Hanina: primul explică cenușa pusă pe cap în zilele de post ca simbol al smereniei proprii, al doilea o citește ca reamintire adresată lui Dumnezeu a „cenușii lui Isaac, strămoșul nostru” — o tradiție care păstrează simbolic ideea jertfei chiar dacă Isaac nu a murit efectiv. Aceiași doi înțelepți dezbat, separat, și etimologia numelui Muntele Moria — unul îl leagă de „hora'a” (instrucțiune, referitor la Marele Sanhedrin care avea să se întrunească acolo)."
+      },
+      {
+        "author": "Zohar, Itro 3:2",
+        "text": "«La muntele Domnului»: acesta e Avraham. Că e scris (Geneza 22:14): «cum se va zice astăzi: în muntele Domnului se va vedea». Că Avraham l-a numit munte. Ce e muntele? Lăsat în voie pentru tot cine voiește în lume. Tot așa locul acesta sfânt e lăsat în voie să-l primească pe tot cine voiește în lume. «La casa»: acesta e Iaakov, care a numit locul acesta casă. Că e scris (Geneza 28): «nu e aceasta decât casa lui Dumnezeu»."
       }
     ]
   },
@@ -3206,6 +3222,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi leagă direct binecuvântarea universală promisă aici de promisiunea inițială din capitolul 12 — o confirmare finală, întărită prin jurământ, a aceleiași promisiuni făcute la începutul călătoriei lui Avraham."
+      },
+      {
+        "author": "Zohar, Mișpatim 3:198",
+        "text": "Și asupra acestor doi nu stăpânește ochiul rău, căci «cine a numărat țărâna lui Iaakov» — acestea sunt pietrele (altă explicație: treptele) sfinte, pietrele cioplite, din care ies ape în lume. Și de aceea este scris (Geneza 28:14): «Și sămânța ta va fi ca țărâna pământului.» Precum acea (Vayișlaḥ 170) țărână — lumea este binecuvântată din cauza ei, tot așa (Geneza 22:18): «și se vor binecuvânta în sămânța ta toate neamurile pământului» — «ca țărâna pământului» întocmai. Și «Mispar», care este al doilea numărător, a numărat sfertul tuturor acelor femele, perlele de sus, ale patului pe care se culcă Israel."
       }
     ]
   },

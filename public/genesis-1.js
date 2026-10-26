@@ -159,6 +159,10 @@ window.CHAPTER_DATA = [
     "text": "Insistă, la începutul comentariului său la toată Tora, că sensul simplu (peșat) al textului nu contrazice niciodată interpretările tradiționale (derash) ale înțelepților — cele două nivele de lectură coexistă, spune el, chiar dacă unii cred greșit că se exclud."
    },
    {
+    "author": "Zohar, Bereșit 19:3",
+    "text": "Ci taina lucrului este așa: Cel Sfânt, binecuvântat fie El, a creat lumea și a creat-o prin Tora, precum au lămurit „Bereșit”, despre care s-a spus (Proverbele 8:22): „Domnul m-a dobândit ca început (reșit) al căii Sale.” Și prin acest Reșit a creat cerurile și pământul și le sprijină prin el. Pentru că legământ (BeRIT) este scris în B'eR'e'Ș'I'T. Și s-a spus despre el (Ieremia 33:25): „Dacă legământul Meu cu ziua și cu noaptea” etc. Și acestea sunt cele despre care s-a spus (Psalmul 115:16): „Cerurile sunt cerurile Domnului” etc. Și ea este țara vieții, cuprinsă din șapte pământuri, despre care a zis regele David (Psalmul 116:9): „Voi umbla înaintea Domnului în țările celor vii.”"
+   },
+   {
     "author": "Ioan Gură de Aur, Omilii la Facere 2.5",
     "text": "Priviți, iubiților, la acest scriitor neasemuit și la darul aparte pe care l-a avut: pe când toți ceilalți autori insuflați au istorisit fie ce avea să se întâmple după multă vreme, fie ce se petrecea chiar atunci, fericitul acesta, născut cu multe generații după faptele povestite, a fost călăuzit de Dumnezeul cel de sus și socotit vrednic să istorisească ce fusese creat de Stăpânul tuturor chiar de la început. De aceea a și început așa: „La început a creat Dumnezeu cerul și pământul.” Parcă ne strigă tuturor: „Oare de la oameni am învățat eu să rostesc acestea? Cel ce a adus ființa din neființă mi-a mișcat limba ca să le istorisesc.” Să primim deci cele spuse cu multă recunoștință, fără să trecem peste măsura cuvenită, nici să ne ocupăm cu lucruri mai presus de noi — aceasta e slăbiciunea obișnuită a vrăjmașilor adevărului, care vor să supună totul propriei judecăți, neînțelegând că firea omenească nu poate pătrunde adâncul creației lui Dumnezeu."
    },
@@ -632,8 +636,8 @@ window.CHAPTER_DATA = [
     "text": "Confirmă ideea „luminii celor șapte zile” (Or HaGanuz), citând Talmudul (Șabat 30b): în viitor, spune tradiția, pământul va „scoate produse coapte și haine gata țesute” fără nevoia semințelor — o lume hrănită direct de acea lumină primordială."
    },
    {
-    "author": "Zohar, Bereșit 1a-b",
-    "text": "Pasajul de deschidere al Zoharului leagă cuvântul „Bereșit” de o meditație mistică despre flacără: „cine dorește să cunoască taina unității sfinte să privească la flacăra care se ridică dintr-un cărbune sau dintr-o lumânare aprinsă — căci flacăra se ridică numai atunci când e legată de un obiect grosier.” În flacăra care se înalță sunt două lumini: una albă, strălucitoare, care se ridică drept; și una neagră sau albăstruie, dedesubt, care-i servește ca „tron de slavă”. Lumina albă rămâne mereu albă; cea de dedesubt își schimbă culoarea — uneori neagră, uneori roșie. Deasupra luminii albe se odihnește o lumină ascunsă, care o înconjoară — „și în asta stă o taină supremă, toată înțelepciunea lumilor de sus aflându-se în flacăra care se ridică”."
+    "author": "Zohar, Bereșit 5:1",
+    "text": "(Geneza 1:3): „Și a zis Dumnezeu: Să fie lumină! Și a fost lumină.” De aici este începutul aflării celor ascunse: cum a fost creată lumea în amănunt. Căci până aici a fost în general, și după aceea iarăși general, ca să fie general, amănunt și general."
    },
    {
     "author": "Tertulian, Împotriva lui Praxeas 7, 12",
@@ -856,6 +860,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "Citește „a văzut că era bună” prin paralelă cu mama lui Moise, care „a văzut că era frumos” (Exod 2:2) — o judecată despre potrivirea și frumusețea a ceva nou apărut, nu o simplă constatare."
+   },
+   {
+    "author": "Zohar, Bereșit 5:9",
+    "text": "„Și a văzut Dumnezeu lumina, că era bună”: acesta este stâlpul de mijloc. „Că era bună”: a luminat sus și jos și în toate celelalte laturi, în taina YDVD, Numele care prinde toate laturile. „Și a despărțit Dumnezeu” etc.: a despărțit cearta, ca să fie totul desăvârșit."
    },
    {
     "author": "Fericitul Augustin, Despre Geneza pe litera 5.22",
@@ -1091,6 +1099,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "Observă o formulare neobișnuită: textul spune „a fost seară” (nu „a fost noapte”), pentru că ziua întâi se sfârșise prin apusul soarelui, iar apoi „a fost dimineață” — zorii care încheie noaptea. Insistă că succesiunea seară-dimineață marchează pur și simplu granița dintre cele șase zile ale creației."
+   },
+   {
+    "author": "Zohar, Bereșit 5:10",
+    "text": "„Și a numit (va-yiqra) Elohim (Dumnezeu)” etc. Ce este „și a numit”? A chemat și a pregătit să scoată din această lumină desăvârșită care stă la mijloc o strălucire, care este temelia (Yesod) lumii, pe care stau lumile. Și din acea lumină desăvârșită, stâlpul de mijloc, s-a întins Yesod, Viața lumilor, care este „zi” din latura dreaptă. „Și întunericul l-a numit noapte”: a chemat și a pregătit și a scos din latura întunericului o femeie, luna, care stăpânește noaptea și se cheamă „noapte”, taina lui ADNY (Adonai), Domnul a tot pământul."
    },
    {
     "author": "Sfântul Vasile cel Mare, Hexaimeron, Omilia II",
@@ -1334,6 +1346,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "Explică de ce abia în ziua a treia apare pentru prima dată „și a văzut Dumnezeu că este bine”: lucrarea apelor nu s-a încheiat decât atunci, cu apariția uscatului — de aceea formula lipsește la ziua a doua și apare de două ori la a treia."
+   },
+   {
+    "author": "Zohar, Bereșit 6:1",
+    "text": "„Și a zis Dumnezeu: Să fie un firmament în mijlocul apelor” etc. Aici, în amănunt, este taina despărțirii (între) (Terumah 149b) apelor de sus de cele de jos (de cele de jos), în taina stângii. (Altă versiune: și s-a creat.) Aici este cearta, în taina stângii. Căci până aici este taina dreptei, iar aici este taina stângii; și de aceea s-a înmulțit cearta (altă versiune: între) din pricina aceasta față de dreapta. Dreapta este desăvârșirea tuturor, și de aceea despre dreapta este scris „totul”, căci de ea atârnă toată desăvârșirea. Când se trezește stânga, se trezește cearta. Și în acea ceartă se întărește focul mâniei, și iese din el, din acea ceartă, ghehinomul. Și ghehinomul se trezește în stânga și se lipește de ea."
    },
    {
     "author": "Ipolit al Romei, Fragmente exegetice — Despre Facere",
@@ -1616,6 +1632,10 @@ window.CHAPTER_DATA = [
     "text": "Explică mecanismul firmamentului aproape ca pe un fenomen natural: partea vaporoasă a apelor, oprită de firmament să coboare, condensându-se atunci când vaporii umezi îl ating, dă naștere ploii, zăpezii și rouă."
    },
    {
+    "author": "Zohar, Bereșit 6:17",
+    "text": "Apele de sus sunt bărbătești, și apele de jos sunt femeiești. La început erau ape în ape, până ce s-au despărțit, ca să se cunoască apele de sus și cele de jos: acesta este Elohim (altă versiune: apele de sus), și acesta este ADNY (altă versiune: apele de jos). Și acesta este he de sus, și he de jos. Ce este scris? „Și a făcut Elohim (Dumnezeu) firmamentul.” Această întindere a luat acest Nume, Elohim, pentru apele de sus; și apele de jos, ADNY. Și cu toate acestea, odată ce s-au desăvârșit apele bărbătești în apele femeiești, Numele Elohim s-a întins în toate."
+   },
+   {
     "author": "Fericitul Augustin, Despre Geneza pe litera 8.29",
     "text": "Materia a fost despărțită prin așezarea tăriei între ele, astfel încât materia de jos să fie a trupurilor, iar materia de sus, a sufletelor."
    },
@@ -1845,6 +1865,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "Discută numele שָׁמַיִם (ceruri): abia acum, în ziua a doua, când cerurile au fost „îmbrăcate” cu forma firmamentului, li s-a putut atribui acest nume — deși fuseseră create încă din ziua întâi, numele nu li se putea „prinde” fără forma corespunzătoare."
+   },
+   {
+    "author": "Zohar, Addenda, volumul II 3:5",
+    "text": "Dar iată, este scris că apa și focul au precedat, cum este scris (Geneza 1:6): „să fie o întindere în mijlocul apelor”, și este scris: „și Dumnezeu a numit întinderea ceruri”. Și de unde știm că cerurile erau foc? Căci este scris (Deuteronomul 4:24): „căci Domnul Dumnezeul tău este un foc mistuitor”. Și de unde știm că cerurile sunt Sfântul, binecuvântat fie El? Căci este scris (1 Împărați 8:32): „și Tu ascultă din ceruri”. Oare Șelomo se ruga către ceruri ca să-i asculte rugăciunea? Ci pentru că numele lor este numit după numele Lui, cum este scris (1 Împărați 8:27): „cerurile și cerurile cerurilor nu Te pot cuprinde”. Este deci Numele Sfântului, binecuvântat fie El, și este foc. Și tu ai zis: au precedat?"
    },
    {
     "author": "Origen, Omilii la Facere 1.2",
@@ -2110,6 +2134,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "Leagă strângerea apelor de „vântul lui Dumnezeu” din v.2 — la fel cum vântul de răsărit a despărțit Marea Roșie, la fel un vânt a adunat apele de la începutul lumii într-un singur loc, lăsând uscatul să apară."
+   },
+   {
+    "author": "Zohar, Bereșit 19:5",
+    "text": "Și aceasta este: „Să se adune apele de sub ceruri într-un singur loc și să se arate uscatul.” „Să se adune apele”: aceasta este Tora. „Într-un singur loc”: aceștia sunt Israel, pentru că sufletele lor atârnă de acel loc despre care s-a spus: „Binecuvântată fie slava Domnului din locul Său.” „Slava Domnului” este Șekhinah de jos; „din locul Său” este Șekhinah de sus. Și pentru că sufletele lor sunt de acolo, sălășluiește desigur asupra lor Domnul, și s-a spus despre ei (Deuteronomul 32:9): „Căci partea Domnului este poporul Său.” Și aceasta este: „Să se adune apele într-un singur loc.”"
    },
    {
     "author": "Tertulian, Împotriva lui Hermogene 29",
@@ -2381,6 +2409,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "Notează, simplu, că peste tot în Tora „uscatul” e numit „pământ” (ארץ) — o clarificare terminologică pe care o folosește constant în comentariul său."
+   },
+   {
+    "author": "Mișna, Mikvaot 5:4",
+    "text": "Toate mările sunt ca mikveh, căci s-a spus: (Geneza 1:10) „și adunarea apelor a numit-o mări” — cuvintele lui Rabbi Meir. Rabbi Yehudah spune: Marea cea Mare este ca mikveh; nu s-a spus „mări” decât pentru că sunt în ea multe feluri de mări. Rabbi Yose spune: toate mările curăță când sunt curgătoare, și sunt nevalabile pentru zavim și pentru leproși și pentru a sfinți din ele apele de ḥaṭat."
+   },
+   {
+    "author": "Zohar, Vaera 16:3",
+    "text": "A zis Rabbi Aba: vino, vezi. Apele de jos se despart spre câte laturi (altă versiune: și apele de sus, până aici etc.) (de sus, că). Și apele de sus se adună în casa adunării apelor. Că e scris (Geneza 1:9): «și a zis Dumnezeu: să se adune apele de sub ceruri într-un loc unul». Și e scris: «și adunarea apelor a chemat-o mări». Versetul acesta l-au așezat. Și vino, vezi. Tăria aceea în care e soarele și luna, stelele și mazalot, aceasta este casa adunării apei celei mari, care ia toate apele și adapă pământul, care e lumea de jos. Cum a luat apele, le-a împrăștiat și le-a împărțit spre tot țărmul. Și de acolo se adapă totul."
    },
    {
     "author": "Ieronim, Întrebări ebraice asupra Genezei",
@@ -2866,6 +2902,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
     "text": "Discută citarea midrașică din Talmud (Chulin 60a) despre pământul care „a tras un argument a fortiori” pentru sine — dacă pomii au primit porunca „după soiul lor”, la fel trebuiau să facă și ierburile, deși porunca nu li s-a spus explicit lor."
+   },
+   {
+    "author": "Zohar, Sifra di-Țeniuta 4:4",
+    "text": "Este scris (Psalmul 118:5): «Din strâmtoare am chemat pe Yah». Nouă a spus David, până la «toate neamurile m-au înconjurat», ca să încercuiască și să-l apere. «Și pământul a scos verdeață, iarbă care face sămânță după soiul ei, și pomi care fac rod care are în el sămânța lui, după soiul lui.» (Naso 139b) Aceste nouă au fost dezrădăcinate din Numele desăvârșit, și au fost sădite după aceea în Numele desăvârșit, cum este scris: «Și a sădit YHVH (Domnul) Elohim (Dumnezeu)». Întocmirile bărbii se află în treisprezece — ea, care este cea de sus. Cea de jos se vede în nouă. Douăzeci și două de litere au fost gravate în culorile lor (altă versiune: pentru ele)."
    },
    {
     "author": "Grigorie de Nyssa, Despre suflet și înviere",
@@ -3988,6 +4028,10 @@ window.CHAPTER_DATA = [
     "text": "Notează, ca observație pur lingvistică, că nu trebuie să ne mire verbul „a pus/a așezat” aplicat luminătorilor — aceeași formă apare și la „am pus curcubeul Meu” (Geneza 9:13), unde nimeni nu se îndoiește de sensul ei propriu."
    },
    {
+    "author": "Zohar, Vaișlah 3:15",
+    "text": "Și dacă vei zice: Yosef de ce mai mult decât toți? Ci cu adevărat Yosef singur e ca toți, pentru că e numit ṭadiq, și acesta e cel care luminează luna mai mult decât toți. Și de aceea acesta i-a lăsat lui David regele mai multe vieți decât toți, că e scris (Geneza 1:17): «și le-a dat Dumnezeu în firmamentul cerului, ca să lumineze asupra pământului»."
+   },
+   {
     "author": "Origen, Omilii la Facere 1.6",
     "text": "Așa cum acei luminători ai cerului, pe care-i vedem, au fost puși «drept semne, vremi, zile și ani», ca să dea lumină din tăria cerului celor de pe pământ, tot așa și Hristos, luminând Biserica Sa, dă semne prin poruncile Sale, ca să știe omul cum, primind semnul, să scape de «mânia ce va să vină». Hristos, deci, e «lumina cea adevărată, care luminează pe tot omul ce vine în lume». Din lumina Lui, luminată fiind și Biserica însăși, se face «lumina lumii», după cum mărturisește chiar Hristos ucenicilor Săi: «Voi sunteți lumina lumii.»"
    },
@@ -4585,6 +4629,10 @@ window.CHAPTER_DATA = [
     "text": "Observă că, deși păsările sunt create din apă, viața și creșterea lor efectivă se petrec pe uscat — o distincție între originea materială și habitatul lor real."
    },
    {
+    "author": "Zohar, Sifra di-Țeniuta 4:6",
+    "text": "Este scris: «Și a zis Elohim (Dumnezeu): Să mișune apele de vietăți, suflet viu», adică (altă versiune: ḤY YH) Yah: lumina se întinde, a uneia în cealaltă; toate au mișunat într-un singur timp: ape bune, ape rele. Pentru că a spus «să mișune», au fost cuprinse una în alta: vietatea de sus, vietatea de jos; vietatea bună, vietatea rea."
+   },
+   {
     "author": "Efrem Sirul, Comentariu la Facere 1.26",
     "text": "După ce Moise a vorbit despre luminătorii apăruți în tărie, s-a întors să scrie despre vietățile mișunătoare, păsările și șerpii creați din ape în ziua a cincea, zicând: «Să mișune apele de viețuitoare, și să zboare păsările deasupra pământului.» Când apele au fost adunate, lucru rânduit în ziua a doua, s-au rânduit și râurile, și s-au arătat izvoare, lacuri și iazuri. La cuvântul lui Dumnezeu, aceste ape — răspândite prin toată creația — au scos din ele vietăți mișunătoare și pești: șerpii au fost creați în adâncuri, iar păsările s-au înălțat în stoluri din valuri, spre văzduh."
    },
@@ -4928,6 +4976,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "Explică „monștrii marini” prin puterea generativă limitată a apei, care singură n-ar fi fost suficientă pentru a produce aceste creaturi fără sămânță — Dumnezeu a trebuit să creeze o putere specială, suplimentară, pentru acest act."
+   },
+   {
+    "author": "Zohar, Bo 3:4",
+    "text": "A deschis Rabbi Șimʿon și a zis (Geneza 1:21): «și a zidit Dumnezeu șerpii cei mari și tot sufletul vieții care se târăște, pe care le-au mișunat apele, după soiurile lor». Versetul acesta l-au așezat. Ci «și a zidit Dumnezeu șerpii» este taina aceasta, Leviatanul și perechea lui (176b). «Șerpi» e scris cu lipsă, pentru că a ucis femeia și a suit-o Sfântul, binecuvântat fie El, pentru ṭadiqim. Și au așezat-o."
    },
    {
     "author": "Sfântul Vasile cel Mare, Hexaimeron 7.6",
@@ -5617,6 +5669,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "Distinge patru categorii: „suflet viu” ca termen general pentru orice ființă generată din foc, apă și pământ (inclusiv omul), „dobitoace” — cele aflate lângă om, pentru călărit și hrană —, „târâtoare” — vietăți mici de pe pământ —, și „fiarele pământului” — cele din sălbăticie, neîmblânzite."
+   },
+   {
+    "author": "Zohar, Sifra di-Țeniuta 5:2",
+    "text": "«Și a zis Dumnezeu: Să scoată pământul suflet viu după soiul lui, vite și târâtoare» etc. Aceasta este ceea ce este scris (Psalmul 36:7): «Pe om și pe vită îi mântuiești, Doamne». Unul se află în cuprinsul celuilalt: vita în cuprinsul omului; (Leviticul 1:2) «un om dintre voi, când va aduce ofrandă Domnului din vite», pentru că este cuprinsă în cuprinsul omului."
    },
    {
     "author": "Origen, Omilii la Facere 1.11",
@@ -6501,6 +6557,14 @@ window.CHAPTER_DATA = [
     "text": "Oferă o definiție filozofică pentru cuvântul „Elohim” care merită reținută: el se aplică oricărei ființe efectiv inteligente, întregi, neschimbătoare și, tocmai de aceea, veșnice — indiferent dacă e vorba de Dumnezeu, de îngeri, sau (impropriu) de judecători. Omul, spune Sforno, se naște doar cu potențialul acestei calități, nu cu ea împlinită — de-abia atunci când își dezvoltă cu adevărat înțelepciunea devine cu adevărat „în chipul lui Dumnezeu”; până atunci, rămâne doar posibilitate, nu realitate. Citează în sprijin Psalmul 49:21: „omul pus în cinste, dar fără pricepere, se aseamănă cu dobitoacele care pier”."
    },
    {
+    "author": "Mișna, Ievamot 6:6",
+    "text": "Să nu se oprească omul de la „rodire și înmulțire”, decât dacă are copii. Casa lui Șammai spune: doi băieți. Iar Casa lui Hillel spune: un băiat și o fată, căci s-a spus: (Geneza 5:2) „bărbat și femeie i-a făcut”. A luat o femeie și a stat cu ea zece ani și n-a născut — nu are voie să se oprească. A divorțat-o — îi este permis să se mărite cu altul, iar al doilea are voie să stea cu ea zece ani. Iar dacă a avortat, numără din ceasul în care a avortat. Bărbatul este poruncit să împlinească „rodire și înmulțire”, dar nu femeia. Rabbi Yoḥanan ben Beroqa spune: despre amândoi spune: (Geneza 1:22) „Și i-a binecuvântat Dumnezeu și le-a spus: rodiți și înmulțiți-vă”."
+   },
+   {
+    "author": "Zohar, Bereșit 2:3",
+    "text": "Zohar, din care au fost create toate zicerile, prin taina întinderii punctului acestui Zohar ascuns. Dacă despre acesta este scris „a creat (bara)”, nu este de mirare că este scris (Geneza 1:27): „Și a creat Dumnezeu pe om după chipul Său.”"
+   },
+   {
     "author": "Tertulian, Împotriva lui Praxeas 12",
     "text": "El deosebește între Persoane: «Și a creat Dumnezeu pe om după chipul Său; după chipul lui Dumnezeu l-a creat.» De ce spune «chipul lui Dumnezeu»? De ce nu doar «chipul Său», dacă ar fi fost unul singur Cel ce l-a făcut, și n-ar mai fi existat Cineva după al Cărui chip l-a făcut pe om? Dar exista Cineva după al Cărui chip Dumnezeu îl făcea pe om — adică chipul lui Hristos, Care, urmând să Se facă Om într-o zi, făcuse deja ca omul să fie numit chipul Său, omul ce avea să fie plăsmuit din lut — chipul și asemănarea Omului celui adevărat și desăvârșit."
    },
@@ -6857,12 +6921,12 @@ window.CHAPTER_DATA = [
     "text": "Distinge clar între cele două verbe ale versetului. „Supuneți-l” (pământul) înseamnă, pentru Sforno, mai ales autoapărare prin inteligență — să te protejezi de vietăți și să le împiedici să pătrundă în spațiul tău. „Stăpâniți” (peste vietăți) e altceva: o dominație activă, exercitată practic, prin capcane și plase, ca să le supui serviciului tău. Primul verb descrie o graniță de apărat; al doilea, o autoritate de exercitat."
    },
    {
-    "author": "Mișna (Ievamot 6:6)",
-    "text": "Mișna citează exact acest verset (împreună cu Geneza 5:2) ca temei al primei porunci din Tora: „Fiți roditori și înmulțiți-vă”. Casa lui Șamai și Casa lui Hilel dezbat câți copii împlinesc porunca — doi băieți (Șamai) sau un băiat și o fată (Hilel, citând „parte bărbătească și femeiască i-a creat”). Un bărbat care, după zece ani de căsătorie, tot nu are copii, spune Mișna, nu mai are voie să amâne împlinirea poruncii.<br><br><b>Concluzia practică:</b> tradiția halahică ulterioară statuează regula după Casa lui Hilel (principiu general valabil în aproape toate disputele Șamai–Hilel din Mișna) — deci un băiat și o fată, nu doi băieți, împlinesc formal porunca."
-   },
-   {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "Explică „supuneți-l” prin forma gramaticală neintensivă a verbului, spre deosebire de o formă intensivă folosită în alt context — o nuanță lingvistică despre gradul de „subjugare” cerut."
+   },
+   {
+    "author": "Mișna, Ievamot 6:6",
+    "text": "Să nu se oprească omul de la „rodire și înmulțire”, decât dacă are copii. Casa lui Șammai spune: doi băieți. Iar Casa lui Hillel spune: un băiat și o fată, căci s-a spus: (Geneza 5:2) „bărbat și femeie i-a făcut”. A luat o femeie și a stat cu ea zece ani și n-a născut — nu are voie să se oprească. A divorțat-o — îi este permis să se mărite cu altul, iar al doilea are voie să stea cu ea zece ani. Iar dacă a avortat, numără din ceasul în care a avortat. Bărbatul este poruncit să împlinească „rodire și înmulțire”, dar nu femeia. Rabbi Yoḥanan ben Beroqa spune: despre amândoi spune: (Geneza 1:22) „Și i-a binecuvântat Dumnezeu și le-a spus: rodiți și înmulțiți-vă”."
    },
    {
     "author": "Ioan Gură de Aur, Omilii la Facere 10.9",
@@ -7167,6 +7231,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "Precizează scopul dării plantelor: erau pentru consumul uman — o distincție clară față de versetul următor, unde vegetația e dată separat animalelor."
+   },
+   {
+    "author": "Zohar, Leh Leha 27:4",
+    "text": "Până nu a păcătuit Adam, ce e scris (Geneza 1:29): «și a zis Dumnezeu: iată v-am dat tot iarba care semănă sămânță» etc. și e scris «vă va fi de mâncare» și nu mai mult. De îndată ce a păcătuit și yețer ha-ra s-a absorbit în trupul său, și în toate acele nașteri a făcut în ele judecată."
    },
    {
     "author": "Grigorie de Nyssa, Despre obârșia omului",

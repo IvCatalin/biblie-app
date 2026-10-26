@@ -229,6 +229,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "„Dumnezeu Și-a adus aminte de Noe” — Rashi discută cuvântul „aminte” (zakhar), notând că nu implică vreo uitare divină, ci descrie momentul din care Dumnezeu Se ocupă activ, favorabil, de soarta lui Noe, punând capăt Potopului. Aceeași verbă apare la momente-cheie din Tora (ex. Geneza 30:22, despre Rahela), marcând intervenția divină pentru salvare."
+      },
+      {
+        "author": "Zohar, Noah 29:1",
+        "text": "«Și Și-a adus aminte Dumnezeu de Noaḥ și de tot ce e viu și de tot dobitocul care era cu el în teva.» Rabbi Ḥiyya a deschis (Proverbele 22:3): «cel isteț a văzut răul și s-a tăinuit». Versetul acesta e spus asupra lui Noaḥ, care a intrat în teva și s-a tăinuit în ea. Și a intrat în mijlocul tevei în timpul în care apele îl strângeau. Și iată s-a spus că până n-a intrat în teva l-a văzut pe îngerul morții umblând între ei și înconjurându-i. De îndată ce l-a văzut, a intrat în teva și s-a tăinuit în ea. Acesta e ce e scris «cel isteț a văzut răul și s-a tăinuit». «A văzut răul» — acesta e îngerul morții; «și s-a tăinuit» dinaintea lui; acesta e ce e scris «dinaintea apelor potopului»."
       }
     ]
   },
@@ -663,6 +667,10 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
+        "author": "Zohar, Behaalotecha 3:2",
+        "text": "A deschis Rabbi Elʿazar și a zis: Este scris: „Și s-a odihnit corabia în luna a șaptea” etc., „pe munții Ararat” etc. Cât de iubite sunt cuvintele Torei, căci în fiecare cuvânt sunt taine înalte, iar Tora toată se cheamă înaltă! Și am învățat în cele treisprezece măsuri ale Torei: orice lucru care era în regula generală și a ieșit din regula generală ca să învețe, nu a ieșit ca să învețe despre sine, ci a ieșit ca să învețe despre întreaga regulă generală. Căci Tora, care este regula generală de sus, deși iese din ea o simplă povestire, desigur nu vine să arate acea povestire, ci să arate lucruri înalte și taine înalte. „Și nu a ieșit ca să învețe despre sine, ci a ieșit ca să învețe despre întreaga regulă generală.” Căci acea povestire a Torei sau acea faptă, deși iese din regula generală a Torei, nu a ieșit să arate doar despre sine, ci a ieșit să arate despre acea regulă generală de sus a întregii Tore."
+      },
+      {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "Muntele Ararat corespunde regiunii istorice Urartu (numele asirian antic pentru zona de azi a Armeniei de Est) — o localizare geografică reală, cunoscută popoarelor Orientului Apropiat Antic, folosită de Tora ca punct de reper concret, nu simbolic."
       }
@@ -810,6 +818,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi calculează cronologia exactă: dacă vârfurile munților apar în luna a zecea, iar arca se oprise deja pe Ararat în luna a șaptea, înseamnă că nivelul apei a continuat să scadă timp de trei luni întregi între cele două momente."
+      },
+      {
+        "author": "Zohar, Pinhas 121:14",
+        "text": "Ci aici face aluzie: (Geneza 8:4) „Și corabia s-a oprit în luna a șaptea.” Și precum acolo, în zilele potopului, (Geneza 8:5) „apele mergeau scăzând tot mai mult”, tot așa în Tișri, care este luna a șaptea, în care sunt multe porunci: Roș Hașanah și Ziua Ispășirii, sukah și lulav și etrog, speciile lulavului, șofarul. Șekhinah de sus se așază peste Israel, care este Teșuvah, sukah; etrogul; și Cel Sfânt, binecuvântat fie El, care este lulavul. Îndată „și apele mergeau scăzând tot mai mult” — se micșorează păcatele lui Israel; tot așa se micșorează căpeteniile, care sunt îngerii nimicirii, puși peste ei, care seamănă cu apele potopului. Precum au explicat: „cel care a făcut o fărădelege și-a dobândit un acuzator”. În vremea aceea în care se micșorează păcatele, se micșorează taurii lor, se micșorează căpeteniile celor șaptezeci de neamuri, se micșorează cele șaptezeci de neamuri, se micșorează binele lor."
       }
     ],
     "refs": [

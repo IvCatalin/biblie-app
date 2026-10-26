@@ -156,6 +156,10 @@ window.CHAPTER_DATA = [
         "text": "Explică de ce Tora reia aici, la începutul genealogiei, tema creării omului „după asemănarea lui Dumnezeu” — deja spusă la Geneza 1:27 — pentru a preveni ideea că, odată cu păcatul lui Adam (cap. 3), chipul divin din om ar fi fost pierdut sau șters. Genealogia continuă tocmai cu reamintirea acestei demnități, transmisă mai departe fiecărui urmaș."
       },
       {
+        "author": "Zohar, Bereșit 48:1",
+        "text": "Rabbi Yeisa a întrebat: Ce înseamnă ceea ce este scris: „Aceasta este cartea neamurilor (toledot) lui Adam. În ziua în care l-a creat Dumnezeu pe om, după asemănarea lui Dumnezeu l-a făcut; bărbat și femeie i-a creat și i-a binecuvântat”? I-a zis Rabbi Aba: Taină de sus este. Am învățat: trei cărți se deschid la Roș Hașanah, una a celor desăvârșit drepți etc. Cartea de sus, căci din ea iese totul; iese din ea scrierea. Cartea de mijloc, cuprinderea a ceea ce este sus și jos (altă versiune: o carte care este cuprinderea a ceea ce este sus și jos și se ține de toate părțile, taina etc.) (după această îndreptare se află în cele două manuscrise) (și se ține de toate părțile, taina lui Adam cel dintâi; cartea a treia, care se cheamă (altă versiune: și se cheamă) Tora), căci Tora scrisă este Adam cel dintâi. Cartea (altă versiune: a treia) […]"
+      },
+      {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "Lista Regilor Sumerieni (o inscripție veche de mii de ani, cunoscută în mai multe copii, printre care „Prisma Weld-Blundell”) înregistrează, la fel ca Geneza 5, o genealogie de figuri dinainte de un potop uriaș — dar cu domnii de zeci de mii de ani fiecare (unul dintre regi, Alulim, ar fi domnit 28.000 de ani). Paralela structurală e izbitoare: ambele texte listează un șir de figuri „antediluviene” cu vârste/domnii fantastic de lungi, urmate de un potop universal. Diferența majoră: cifrele sumeriene sunt cu ordine de mărime mai mari, iar Geneza păstrează, comparativ, o „moderație” — patriarhii trăiesc sute de ani, nu zeci de mii."
       },
@@ -319,6 +323,14 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
+        "author": "Mișna, Ievamot 6:6",
+        "text": "Să nu se oprească omul de la „rodire și înmulțire”, decât dacă are copii. Casa lui Șammai spune: doi băieți. Iar Casa lui Hillel spune: un băiat și o fată, căci s-a spus: (Geneza 5:2) „bărbat și femeie i-a făcut”. A luat o femeie și a stat cu ea zece ani și n-a născut — nu are voie să se oprească. A divorțat-o — îi este permis să se mărite cu altul, iar al doilea are voie să stea cu ea zece ani. Iar dacă a avortat, numără din ceasul în care a avortat. Bărbatul este poruncit să împlinească „rodire și înmulțire”, dar nu femeia. Rabbi Yoḥanan ben Beroqa spune: despre amândoi spune: (Geneza 1:22) „Și i-a binecuvântat Dumnezeu și le-a spus: rodiți și înmulțiți-vă”."
+      },
+      {
+        "author": "Zohar, Naso 22:2",
+        "text": "«Și a fost în ziua kalat Moșe» — mireasa lui Moșe desigur. Căci am învățat: a zis Rabbi Șimʿon: Ce este scris (Psalmul 68:19): «Te-ai suit la înălțime, ai luat robi» etc.? Ci în ceasul când Cel Sfânt, binecuvântat fie El, i-a zis (Exodul 3:5): «Scoate-ți încălțămintea din picioare», s-a cutremurat muntele. A zis Miḵaʾel înaintea Celui Sfânt, binecuvântat fie El: Stăpân al lumii, vrei să strici pe om? Dar iată este scris (Geneza 5:2): «Bărbat și femeie i-a creat și i-a binecuvântat», și nu se află binecuvântare decât în cel ce este bărbat și femeie; iar Tu spui să se despartă de soția lui!"
+      },
+      {
         "author": "Notă structurală",
         "text": "Versetul reia aproape identic Geneza 1:27-28 (parte bărbătească/femeiască, binecuvântare, numele „Adam” dat amândurora) — o punte deliberată între finalul relatării creației și începutul genealogiei, confirmând că „Adam” desemnează, la origine, umanitatea în ansamblu, nu doar un individ."
       }
@@ -447,6 +459,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Notează paralela deliberată cu Geneza 1:27, dar cu o schimbare importantă: acolo Dumnezeu îl face pe om „după asemănarea lui Dumnezeu”; aici, Adam îl naște pe Șet „în asemănarea lui, după imaginea lui” — a lui Adam, nu a lui Dumnezeu direct. Chipul divin se transmite acum prin naștere naturală, generație după generație, nu printr-un act de creație separat pentru fiecare om."
+      },
+      {
+        "author": "Zohar, Haiei Sara 8:6",
+        "text": "A zis Rav Iehuda: când a creat Sfântul, binecuvântat fie El, pe Adam ha-Rishon, era golem până nu a aruncat în el neshama; și a chemat pe îngerul acela care e însărcinat asupra chipului fiilor oamenilor, și i-a zis: privește și plăsmuiește după chipul acestuia șase fii de oameni. Acesta e ce e scris (Geneza 5:3) «și a născut după asemănarea sa, după chipul său, și i-a chemat numele Shet» — adică șase (shita)."
       },
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -2862,6 +2878,10 @@ window.CHAPTER_DATA = [
         "text": "O tradiție midrashică veche discută explicit ambiguitatea sfârșitului lui Enoh: unii înțelepți au interpretat „l-a luat Dumnezeu” ca pe o luare timpurie în ceruri (ca Ilie mai târziu), în timp ce alții au insistat, dimpotrivă, că exprimă o moarte prematură, tocmai pentru a preveni interpretări care ar fi putut duce la o venerare necorespunzătoare a lui Enoh ca ființă semi-divină."
       },
       {
+        "author": "Zohar, Sifra di-Țeniuta 6:13",
+        "text": "Este scris: «Și Ḥanokh a umblat cu Dumnezeu». Și este scris (Proverbele 22:6): «Învață (ḥanokh) pe tânăr potrivit căii lui». «Pe tânăr», cel cunoscut. «Cu Dumnezeu», și nu «cu Domnul». «Și nu mai era» în numele acesta, «căci Dumnezeu l-a luat», ca să fie chemat cu numele Lui."
+      },
+      {
         "author": "1 Enoh 12 — context",
         "text": "Întreaga carte pseudepigrafă a lui 1 Enoh se prezintă ca fiind chiar mărturia pe care Enoh a lăsat-o înainte de această „luare”. Capitolul 12 narează direct continuarea versetului: „Înainte de aceste lucruri Enoh era ascuns și niciunul dintre fiii oamenilor nu știa unde era ascuns și unde se afla și ce s-a întâmplat cu el. Și toate faptele lui erau cu sfinții și cu Veghetorii în zilele lui.” De aici încolo, Enoh e chemat de „Veghetori” (îngerii căzuți din capitolul următor, legați de Geneza 6:1-4) ca să le ducă mesajul judecății divine — o continuare narativă directă a versetului 24, care explică totodată de ce autorii din secolele III-I î.Hr. au ales tocmai figura lui Enoh drept vehicul pentru o revelație apocaliptică amplă. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('1-enoh', 12)\" title=\"Citește capitolul\">→</button>"
       }
@@ -3510,6 +3530,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Discută pe larg jocul de cuvinte dintre numele „Noah” (נֹחַ, de la rădăcina נוח, „a se odihni”) și verbul folosit efectiv în verset pentru „va aduce odihnă/mângâiere” (יְנַחֲמֵנוּ, de la rădăcina שונה נחם, „a mângâia”) — cele două rădăcini sunt diferite, deși sună asemănător. Explicația clasică: numele „Noah” anticipează literal odihna adusă de invenția lui (unele tradiții îi atribuie inventarea uneltelor agricole, care ar fi ușurat munca pământului blestemat de la Geneza 3:17), iar verbul din explicația dată de Lameh joacă pe sunetul asemănător, nu pe etimologia strictă."
+      },
+      {
+        "author": "Zohar, Teruma 78:7",
+        "text": "Până aici s-a îndulcit lumea și s-a îndreptat strâmbătatea de la începutul lui Enoș, afară de păcatul lui Adam, care nu s-a îndulcit până nu au stat Israel la muntele Sinai. Dar întocmirea strâmbătății lui Qayin și Hevel s-a întocmit și s-a îndulcit; dar lumea era în suferință și durere până a venit Noaḥ, căci este scris (Geneza 5:29): «Acesta ne va mângâia de lucrul nostru și de durerea mâinilor noastre pe pământul pe care l-a blestemat Domnul». Iar păcatul lui Adam nu s-a îndulcit până nu au stat Israel la muntele Sinai și au primit Tora; și când Israel au primit Tora, atunci candela și lumina s-au întocmit împreună."
       }
     ],
     "fidela": "Şi i-a pus numele Noe, spunând: Acesta ne va mângâia pentru lucrarea noastră şi osteneala mâinilor noastre, din cauza pământului pe care Dumnezeu l-a blestemat.",

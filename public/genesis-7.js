@@ -587,6 +587,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Explică cele „șapte zile” de amânare dintre porunca de-a intra în arcă și declanșarea efectivă a Potopului: în această perioadă, spune o tradiție citată de Rashi, s-ar fi ținut doliul pentru Metusala, care tocmai murise — Dumnezeu ar fi amânat judecata din respect pentru zilele de jelire cuvenite unui om drept."
+      },
+      {
+        "author": "Zohar, Noah 9:1",
+        "text": "„Căci peste încă șapte zile voi face să plouă pe pământ patruzeci de zile și patruzeci de nopți” etc. Rabbi Yehudah a zis: Aceste patruzeci de zile și patruzeci de nopți, care este rostul lor? Ci patruzeci de zile ca să-i lovească pe nelegiuiții lumii; și este scris: (Deuteronomul 25:3) „Patruzeci de lovituri să-i dea, să nu adauge” – în dreptul celor patru laturi ale lumii, câte zece pentru fiecare. Pentru că omul a fost creat din cele patru laturi ale lumii. Și de aceea: „și voi șterge toată ființa”. Și trebuiau patruzeci ca să fie lovită și ștearsă lumea."
       }
     ]
   },
@@ -947,6 +951,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Notează cuvântul „de dinaintea apelor” — sugerând că Noe a intrat în arcă cu puțin timp înainte ca ploaia să înceapă efectiv, nu chiar în ultima clipă; o tradiție citată de Rashi spune că Noe ar fi ezitat, cu puțină credință, până când apa l-a împins efectiv spre arcă."
+      },
+      {
+        "author": "Zohar, Noah 26:1",
+        "text": "«Și a venit Noaḥ și fiii săi și femeia sa și femeile fiilor săi cu el.» Rabbi Ḥiyya a deschis și a zis (Ieremia 23:24): «dacă se va ascunde omul în locuri tăinuite, oare Eu nu-l voi vedea? zice Domnul». Câți sunt fiii omului cu inima astupată, cu ochii închiși, care nu iau aminte și nu știu slava Stăpânului lor, despre Care e scris «oare nu cerul și pământul Eu le umplu». Cum vor fiii omului să se ascundă de vinovățiile lor și zic «cine ne vede și cine ne știe». Și e scris (Isaia 29:15) «și vor fi în întuneric faptele lor». Unde se vor tăinui dinaintea Lui."
       }
     ]
   },
@@ -1274,6 +1282,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Cele „șapte zile” dintre poruncă (v.4) și declanșarea efectivă (aici) sunt aceleași cu cele menționate la 7:4 — Rashi le leagă de perioada de doliu pentru Metusala (vezi comentariul de la v.4)."
+      },
+      {
+        "author": "Zohar, Vaikra 31:1",
+        "text": "(Leviticul 5:23) «Și va fi că, dacă a păcătuit și s-a făcut vinovat, să întoarcă lucrul răpit» etc. Rabbi Yose a zis (Isaia 54:9): «Căci ca apele lui Noaḥ este aceasta pentru Mine, când am jurat că apele lui Noaḥ nu vor mai trece.» Acest verset este greu. Este scris (Geneza 7): «Și apele potopului au fost pe pământ», și este scris (Geneza 9:11): «Și nu va mai fi stârpită orice făptură prin apele potopului.» «Apele potopului» este scris, și nu «apele lui Noaḥ», iar aici este scris «Căci apele lui Noaḥ este aceasta pentru Mine». «Aceasta (zot) pentru Mine» — «acestea (hem) pentru Mine» ar fi trebuit să fie."
       }
     ]
   },
@@ -1429,6 +1441,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Talmud Babilonian, Rosh Hashana 11b-12a",
         "text": "O dispută reală, documentată, între doi înțelepți tanaiți: Rabi Eliezer susține că data exactă menționată aici (luna a doua, ziua 17) s-ar referi la luna Marheșvan, socotită de la Tișrei — sezonul în care izvoarele cresc natural, deci nu neapărat un semn supranatural; Rabi Iehoșua, dimpotrivă, susține că e vorba de luna Iyar, socotită de la Nisan — o poziție care implică un caracter mult mai neobișnuit, chiar miraculos, al declanșării Potopului într-un anotimp secetos."
+      },
+      {
+        "author": "Zohar, Vaiera 30:7",
+        "text": "S-a desăvârșit vav în mijlocul lui zece de șase ori; atunci erau șaizeci ca să se ridice din țărână; și în fiecare șaizeci și șaizeci din acea mie a șasea se întărește he și se suie în treptele sale ca să se întărească. Și în șase sute de ani ai celei de-a șasea se vor deschide porțile ḥokhmah-ei sus și izvoarele ḥokhmah-ei jos, și se va pregăti lumea să intre în a șaptea. Ca omul care se pregătește în ziua a șasea de la apusul soarelui ca să intre în șabat. Tot așa. Și semnul tău (Geneza 7:11): «în anul șase sute al vieții lui Noaḥ» etc. «s-au spart toate izvoarele tehomului celui mare»."
       }
     ]
   },
@@ -1521,6 +1537,10 @@ window.CHAPTER_DATA = [
       "Iov 38:37"
     ],
     "commentaries": [
+      {
+        "author": "Zohar, Toldot 6:3",
+        "text": "A zis Rabbi Yose: în ceasul acela în care e pregătit Sfântul, binecuvântat fie El, să învie morții, și iată sfârșitul tuturor (variantă: necazurilor / vechilor) adâncurilor (variantă: vechi) va fi în patruzeci. Și a decretat legământ (Deuteronomul 25:3): «patruzeci îl va lovi, nu va adăuga». Sfârșitul umblării lui Israel în pustie — în anul al patruzecilea. Patruzeci de ani înainte de învierea trupului așteaptă nishma pentru el în Țara lui Israel. În anul al patruzecilea se vor scula trupurile din țărână. În patruzeci e cuprinsă ploaia; acesta e ce e scris (Geneza 7:12): «și a fost ploaia pe pământ patruzeci de zile», și e scris (Geneza 8:6): «și a fost la capătul a patruzeci de zile și a deschis Noaḥ». Timpul răscumpărării lui Israel e în anul al patruzecilea. Și în cincizeci vine așezarea lumii, care e yovel. […]"
+      },
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "Durata de „patruzeci de zile și patruzeci de nopți” a ploii, deși simbolică (40 apare frecvent în Tora — la Moise pe munte, la iscoadele din Canaan, la postul lui Ilie), contrastează cu durata mult mai scurtă (6 zile, 7 nopți) a ploii din Epopeea lui Ghilgameș — Tora extinde considerabil durata evenimentului central."
@@ -2497,6 +2517,10 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
+        "author": "Zohar, Bereșit 20:6",
+        "text": "Giborim (vitejii), al treilea fel: despre ei s-a spus: „aceștia sunt vitejii” etc. „oamenii cu nume”. Și ei sunt din partea acelora despre care s-a spus (Geneza 11:4): „Haidem să ne zidim o cetate și să ne facem un nume.” Și zidesc sinagogi și case de învățătură și pun în ele un sul al Torei și o coroană pe capul lui, și nu pentru Numele Domnului, ci ca să-și facă un nume. Aceasta este ceea ce este scris: „și să ne facem un nume.” Și partea cealaltă se întărește asupra lui Israel, care sunt ca țărâna pământului, și îi jefuiesc, și lucrarea se strică. Și despre ei s-a spus (Geneza 7:19): „Și apele au crescut foarte, foarte mult peste pământ.”"
+      },
+      {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "Ideea unui potop universal care acoperă chiar și munții cei mai înalți e un motiv comun în mitologiile Orientului Apropiat Antic (Atrahasis, Ghilgameș) — dar Tora insistă explicit asupra universalității („toți munții... sub tot cerul”), o formulare mai categorică decât majoritatea paralelelor sale."
       }
@@ -2840,6 +2864,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "„Suflare de viață în nări” reia direct limbajul de la Geneza 2:7, despre plăsmuirea lui Adam — un ecou lingvistic deliberat: cei creați cu suflarea divină sunt acum cei care mor prin apa trimisă de același Dumnezeu."
+      },
+      {
+        "author": "Zohar, Vaigaș 2:9",
+        "text": "A zis Rabbi Yehudah: dacă e așa, iată e scris (Geneza 7:22): «tot ce avea suflarea duhului vieții în nări» etc. I-a zis: așa e, negreșit. Că nu a rămas în ei. Din toți aceia în care era neșamah cea sfântă, precum Ḥanokh, Yered și toți ṭadiqii, ca să apere pământul, ca să nu se nimicească din pricina lor. Aceasta e ce e scris: «tot ce avea suflarea duhului vieții în nări, din tot ce era pe uscat, au murit». Deja muriseră și se suiseră din lume, și n-a rămas din ei cine să apere lumea în vremea aceea."
       }
     ]
   },

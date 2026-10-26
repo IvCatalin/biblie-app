@@ -3558,6 +3558,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi notează argumentul lui Lot despre mărimea mică a orașului Țoar ca strategie de negociere similară cu cea a lui Avraham din capitolul precedent — o continuare a tiparului familial de a discuta direct cu divinitatea."
+      },
+      {
+        "author": "Zohar, Addenda, volumul I 16:5",
+        "text": "Iar Loṭ — el este Satan, el este înclinația rea, „șezând la poarta Sodomei”, căci acolo este casa lui, cum este scris (Geneza 4:7): „păcatul pândește la ușă”. Și se unește cu oamenii și îi rătăcește, până ce îi coboară în groapa pieirii; și el de asemenea este judecat cu ei, pentru că i-a rătăcit, și coboară până la Țoar (suferința) ghehinomului. Și aceasta este (Geneza 19:20): „iată, cetatea aceasta este aproape ca să fug acolo”. Ucigașul — acesta este Esav, vărsătorul de sânge, și ea este din Țoar. Și deși coboară și este judecat acolo, cu toate acestea dorința și pofta lui este să se întoarcă și să-i rătăcească pe alții. Și aceasta este (Geneza 19:30): „și Loṭ a urcat din Țoar”."
       }
     ]
   },
@@ -4094,6 +4098,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Talmud Babilonian, Sanhedrin 109b",
         "text": "O discuție talmudică suplimentară, în continuarea celei despre generația Turnului, tratează distrugerea Sodomei ca pedeapsă model pentru păcatele sociale — în special lipsa de ospitalitate instituționalizată, discutată explicit ca motiv central alături de alte fărădelegi."
+      },
+      {
+        "author": "Zohar, Vaiera 18:10",
+        "text": "A zis Rabbi Yițḥak: Sodoma a fost judecată cu judecata Ghehinom-ului, că e scris «și Domnul a plouat asupra Sodomei și asupra Gomorei pucioasă și foc de la Domnul din ceruri». Una din partea apei și una din partea focului. Una și alta e judecata Ghehinom-ului, și răufăcătorii Ghehinom-ului cu aceste două judecăți sunt judecați."
       }
     ]
   },

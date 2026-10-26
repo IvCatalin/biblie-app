@@ -569,6 +569,10 @@ window.CHAPTER_DATA = [
         "text": "Discuție reală, cu mai multe opinii tanaite, despre natura exactă a păcatului generației Turnului (Tora nu o precizează explicit): școala lui Rabi Șeila susține că voiau literalmente să urce la cer; Rabi Ieremia bar Elazar descrie trei facțiuni cu scopuri diferite (locuire, idolatrie, război); Rabi Natan leagă explicit expresia „să ne facem un nume” de idolatrie, printr-o comparație textuală cu Exod 23:13."
       },
       {
+        "author": "Zohar, Bereșit 20:6",
+        "text": "Giborim (vitejii), al treilea fel: despre ei s-a spus: „aceștia sunt vitejii” etc. „oamenii cu nume”. Și ei sunt din partea acelora despre care s-a spus (Geneza 11:4): „Haidem să ne zidim o cetate și să ne facem un nume.” Și zidesc sinagogi și case de învățătură și pun în ele un sul al Torei și o coroană pe capul lui, și nu pentru Numele Domnului, ci ca să-și facă un nume. Aceasta este ceea ce este scris: „și să ne facem un nume.” Și partea cealaltă se întărește asupra lui Israel, care sunt ca țărâna pământului, și îi jefuiesc, și lucrarea se strică. Și despre ei s-a spus (Geneza 7:19): „Și apele au crescut foarte, foarte mult peste pământ.”"
+      },
+      {
         "author": "Cartea Jubileelor 10 — context/comparație",
         "text": "Cu câteva secole înaintea dezbaterii talmudice de mai sus, Jubilee afirmă deja, direct și fără ambiguitate, prima dintre cele trei explicații rabinice: „au plecat din ținutul Araratului spre răsărit, la Șinear; căci în zilele lui au zidit cetatea și turnul, zicând: Haideți, să ne suim prin el în cer” (10:19). Cartea adaugă și detalii tehnice de construcție absente din Geneza — „au făcut cărămidă cu foc, și cărămizile le-au ținut loc de piatră, și lutul cu care le-au lipit era asfalt, care iese din mare” (10:20) — și explică motivul exact al numelui „Babel”: „acolo a încurcat Domnul toată limba fiilor oamenilor” (10:25), identic cu etimologia populară din Geneza 11:9. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 10)\" title=\"Citește capitolul\">→</button>"
       }
@@ -708,6 +712,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "„DOMNUL a coborât să vadă” — aceeași expresie antropomorfică folosită și la Geneza 18:21 (Sodoma) — Rashi o citește ca pe o lecție despre atenția și dreptatea divină: Dumnezeu nu judecă din depărtare, ci „coboară” (simbolic) să verifice direct faptele, înainte de a acționa."
+      },
+      {
+        "author": "Zohar, Noah 5:5",
+        "text": "I-a zis Rabbi Yose: dacă e așa, iată e scris după aceea: «și a coborât Domnul să vadă cetatea și turnul pe care le-au zidit fiii omului». «Fiii omului» e scris, și nu e scris «fiii lui Noaḥ». I-a zis: pentru că Adam (care a păcătuit; altă versiune: a păcătuit) înaintea Stăpânului său — mai bine i-ar fi fost să nu fi fost creat, și să nu se scrie despre el versetul acesta."
       }
     ]
   },
@@ -3744,6 +3752,10 @@ window.CHAPTER_DATA = [
     ],
     "commentaries": [
       {
+        "author": "Zohar, Leh Leha 4:1",
+        "text": "«Și a zis Domnul lui Avram.» Ce e scris mai sus (Geneza 11:28): «și a murit Haran înaintea lui Teraḥ, tatăl său» etc. Ce e deosebit aici? Ci până în ziua aceea nu era om care să moară în viața tatălui său afară de acesta; și când a fost aruncat Avram în foc, a fost ucis Haran; și de aceea au ieșit de acolo. Cine l-a ucis pe Haran? Ci de îndată ce l-au aruncat pe Avraham în focul kasdeilor, s-a descoperit asupra lui Sfântul, binecuvântat fie El, și l-a salvat; și era Haran, fratele său, stând acolo. Au zis kasdeii: din pricina meritului lui Haran a fost salvat; îndată a ieșit o flacără de foc și l-a ars pe Haran; acesta e ce e scris «și a murit Haran înaintea lui Teraḥ, tatăl său». […]"
+      },
+      {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "„Ur Casdim” (Ur al caldeilor) e identificat de majoritatea cercetătorilor cu orașul sumerian Ur, unul dintre cele mai importante centre urbane ale lumii antice, cu săpături arheologice extinse (Leonard Woolley, anii 1920) care au dezvăluit un oraș sofisticat, cu temple, morminte regale bogate și scriere cuneiformă."
       },
@@ -4028,6 +4040,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Menționarea explicită a sterilității lui Sarai, chiar la finalul genealogiei, pregătește direct tema centrală a poveștii lui Avraam care urmează — promisiunea unui urmaș, împotriva oricărei probabilități biologice."
+      },
+      {
+        "author": "Zohar, Vaera 22:1",
+        "text": "Rabbi Yose și Rabbi Ḥiyya mergeau pe drum. A zis Rabbi Yose lui Rabbi Ḥiyya: de ce taci? Iată, drumul nu se rânduiește decât în cuvintele Torei. S-a tras Rabbi Ḥiyya și a plâns. A deschis și a zis (Geneza 11:30): «și era Sarai stearpă, nu avea copil». Vai de aceasta, vai de vremea aceea când a născut Hagar pe Yișmael."
       }
     ]
   },
@@ -4331,6 +4347,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Notează că textul spune „Terah i-a luat” pe Avram, nu invers — sugerând că, la această primă etapă a călătoriei (din Ur spre Haran), inițiativa ar fi aparținut lui Terah, tatăl, nu lui Avram; abia la Geneza 12:1, odată ajunși în Haran, Avram primește porunca divină personală de a continua singur călătoria."
+      },
+      {
+        "author": "Zohar, Leh Leha 4:2",
+        "text": "Vino și vezi: ce e scris «și a luat Teraḥ pe Avram, fiul său, și pe Lot, fiul lui Haran» etc. «Și au ieșit cu ei din Ur Kasdim.» «Și au ieșit cu ei» — «cu el» ar fi trebuit. Căci e scris «și a luat Teraḥ» etc.; ce e «și au ieșit cu ei»? Ci Teraḥ și Lot cu Avraham și Sarah au ieșit, că ei erau temeiul ca să iasă din mijlocul acelor vinovați; că de îndată ce a văzut Teraḥ că Avraham, fiul său, a fost salvat din mijlocul focului, s-a întors să facă voința lui Avraham; și de aceea «și au ieșit cu ei» Teraḥ și Lot."
       }
     ]
   },

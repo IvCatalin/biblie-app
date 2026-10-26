@@ -366,6 +366,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi notează secvența gesturilor lui Avraham — a alergat, s-a prosternat — ca dovadă a ospitalității sale extraordinare, întreruptă fiind chiar în mijlocul unei revelații divine directe pentru a găzdui niște străini aparenți."
+      },
+      {
+        "author": "Zohar, Vaiera 1:14",
+        "text": "Îndată «și și-a ridicat ochii și a văzut, și iată trei oameni stăteau asupra lui». Cine sunt cei trei oameni? Aceștia sunt Avraham, Yițḥak și Iaakov, care stau asupra acestei trepte, și din ei se alăptează (temelia lumii) și se hrănește."
       }
     ]
   },
@@ -2692,6 +2696,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi explică decizia divină de a nu ascunde planul distrugerii Sodomei prin statutul special al lui Avraham ca „prieten” al lui Dumnezeu, căruia i se cuvine transparență, mai ales din cauza legăturii sale de rudenie cu Lot, locuitor al orașului."
+      },
+      {
+        "author": "Zohar, Pekudei 51:66",
+        "text": "Și atunci acest palat se cheamă «Va-Domnul», când este spre bine, precum spui (Exodul 13:21): «și Domnul mergea înaintea lor ziua»; (Geneza 18:17): «și Domnul a zis: Să ascund Eu de Avraham?» Și când se unește Yițḥak cu palatul casei de judecată, care se cheamă «Merit», atunci totul se cheamă «Va-Domnul», ca să-i pedepsească pe cei răi, precum spui (Geneza 19:24): «și Domnul a făcut să plouă peste Sedom» etc. Și totul este într-o singură taină, cum se cuvine."
       }
     ]
   },
@@ -3053,6 +3061,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi subliniază responsabilitatea educațională transmisă explicit lui Avraham — nu doar o promisiune pasivă, ci o datorie activă de a-și învăța urmașii calea DOMNULUI, condiție pentru împlinirea deplină a binecuvântării."
+      },
+      {
+        "author": "Zohar, Haiei Sara 8:5",
+        "text": "Că așa sunt căile Sfântului, binecuvântat fie El: dă avuție omului — de ce? Ca să hrănească pe săraci și să facă poruncile Lui. Nu face aceasta și se mândrește (și dacă s-a descoperit în el) în avuția aceea — în ea va fi lovit, precum e scris (Eclesiastul 5:12) «avuție păstrată stăpânului ei spre răul lui». Îi dă fii — de ce? Ca să-i învețe căile Sfântului, binecuvântat fie El, și să păzească poruncile Lui, precum s-a zis la Avraham (Geneza 18:19) «că l-am cunoscut, ca să poruncească fiilor săi și casei sale după el, și să păzească calea Domnului, să facă tzedaka» etc. Nu face aceasta și se mândrește în ei — în ei e lovit, precum e scris (Iov 18:19) «nu are odraslă și nu are nepot în poporul său» etc. Și tot după chipul acesta, când dă Sfântul, binecuvântat fie El, din frumusețea cea bună de sus a lui Adam ha-Rishon lor — de ce? Ca să păzească poruncile Lui și să facă voia Lui; nu au făcut așa, ci s-au mândrit în ea. În ea au fost loviți, în frumusețea aceasta."
       }
     ]
   },
@@ -4466,6 +4478,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi notează structura descrescătoare a negocierii (50, 45, 40...) ca strategie deliberată — Avraham reduce numărul treptat, cu pași mici, pentru a nu părea prea insistent sau lipsit de respect față de Dumnezeu."
+      },
+      {
+        "author": "Zohar, Addenda, volumul I 15:1",
+        "text": "Cincizeci sunt corespunzători celor cincizeci de porți ale lui Binah, și ei sunt vrednici să salveze toată lumea prin dreptatea lor; și YHVH (Domnul) a încuviințat cuvintele ei. Și când a văzut că n-a găsit, a zis (Geneza 18:28): „poate le vor lipsi celor cincizeci de drepți cinci” — adică poate sunt între ei oameni care s-au îndeletnicit cu cunoașterea Numelui Tău, care este Numele în plinătatea lui, care este MH (45): yod he vav he scris plin, după numărul lui adam, cum s-a spus (Deuteronomul 10:12): „și acum, Israel, ce (mah) cere YHVH Dumnezeul tău”. Și când n-a găsit, se întoarce să spună: „poate se vor găsi acolo patruzeci” (cum este scris în tipăritură)."
       }
     ]
   },
@@ -5260,6 +5276,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi notează încheierea vizitei divine imediat după acordul asupra celor zece — Avraham nu mai insistă, acceptând limita stabilită de negocierea sa, o dovadă de smerenie finală după cutezanța anterioară."
+      },
+      {
+        "author": "Zohar, Addenda, volumul I 16:4",
+        "text": "Toate acestea le are sufletul (neșamah) ṭadiq-ului, ca să aducă apărare și merit pentru cei răi, ca să potolească mânia și urgia. Și de vreme ce n-a găsit niciun merit de adus, ce este scris (Geneza 18:33)? „Și Domnul a plecat după ce a sfârșit de vorbit cu Avraham, și Avraham s-a întors la locul lui.” Ce înseamnă „la locul lui”? La locul treptei lui cunoscute. Și atunci s-a depărtat judecătorul și s-a depărtat apărătorul, iar acuzatorul acuză. Și aceasta este (Geneza 19:1): „și cei doi îngeri au venit la Sodoma seara” etc."
       }
     ]
   }

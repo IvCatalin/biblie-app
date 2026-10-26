@@ -335,6 +335,10 @@ window.CHAPTER_DATA = [
     "text": "Identifică șarpele cu Satana, adică cu pofta rea din om — numit „șarpe” pentru că, la fel ca șarpele, produce puțin folos și mult rău, deși pare neînsemnat. Explică „cel mai șiret” prin puterea închipuirii, care aduce în minte imaginile plăcerilor materiale mai puternic la om decât la orice altă viețuitoare — de aceea „cine-i mai mare [ca statut] are și pofta rea mai mare”."
    },
    {
+    "author": "Zohar, Tazria 21:1",
+    "text": "Am învățat: când șarpele (puternic) începe să se descopere, se retrag stâlpii și zidirile și trec, și vine șarpele puternic și aruncă murdărie, și atunci se află Sanctuarul întinat. Care Sanctuar? Cum s-a învățat (Leviticul 14:34): «Și voi pune rană de țaraʿat într-o casă din țara stăpânirii voastre.» Și este scris (Geneza 3:1): «Și șarpele era mai viclean decât toate fiarele câmpului pe care le făcuse Domnul Dumnezeu, și a zis femeii.» «Femeii» însăși, căci locul Sanctuarului este prins în ea; și aceasta este «a întinat Sanctuarul Domnului» din cauza păcatelor lui, pentru că s-a descoperit șarpele puternic."
+   },
+   {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Șarpele ca simbol are o prezență puternică și ambivalentă în toată zona Orientului Apropiat Antic: în Mesopotamia, zeul-șarpe Ningișzida era asociat atât cu vindecarea, cât și cu lumea de dincolo; în Egipt, șarpele Apophis întruchipa haosul care amenință ordinea zilnică a lui Ra. Tora nu-i dă șarpelui din Geneza 3 statut divin sau demonic explicit — e doar „cea mai dibace dintre vietățile câmpului” — o „demitologizare” deliberată, tipică felului în care Geneza tratează simbolurile religioase ale vecinilor."
    },
@@ -1426,6 +1430,10 @@ window.CHAPTER_DATA = [
     "text": "Adaugă: locul și aerul grădinii, împreună cu mireasma rodului, l-au făcut să pară „bun la mâncare”; „de dorit ca să dea înțelepciune” vine tocmai din faptul că Dumnezeu Însuși îl numise „pomul cunoștinței”; iar inima lui Adam s-a lăsat înduplecată de cuvintele ei tocmai pentru că-i era soție și-i era alături."
    },
    {
+    "author": "Zohar, Vaiehi 28:6",
+    "text": "(Geneza 3:6): «și a văzut femeia că pomul e bun de mâncare și că e poftă pentru ochi». Vino, vezi că fiii omului nu se uită și nu știu și nu bagă de seamă. În ceasul când a creat Sfântul, binecuvântat fie El, pe Adam și l-a cinstit cu cinste de sus, a cerut de la el să se lipească de El, ca să se afle unul singur, și cu inima una, și în locul lipirii una, care nu se schimbă și nu se întoarce în veci. În legătura aceea una, în care totul se leagă. Aceasta e ce e scris (Geneza 2:9): «și pomul vieții în mijlocul grădinii»."
+   },
+   {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
     "text": "Șarpele, deși trăia în bună înțelegere cu Adam și cu femeia lui, le pizmuia fericirea de care se bucurau ascultând de poruncile lui Dumnezeu; mânat de răutate, el a înduplecat-o pe femeie să se înfrupte din pomul cunoașterii, explicându-i că e de ajuns să mănânce din el ca să aibă parte de un trai fericit, aidoma lui Dumnezeu. Astfel, femeia s-a lăsat ademenită de șarpe să încalce porunca dumnezeiască. După ce a gustat din pomul oprit și roadele sale i-au fost pe plac, Eva l-a înduplecat și pe Adam să mănânce din ele."
    },
@@ -1629,6 +1637,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "Explică „li s-au deschis ochii” ca o nouă luare-aminte la orice plăcere, oricât de dăunătoare — a fi atent la un lucru se numește, în Scriptură, „a deschide ochii” asupra lui. „Au cunoscut că erau goi” înseamnă că au înțeles, de-acum, că se cuvenea să-și acopere trupul, de vreme ce fapta unirii avea să urmărească, de-atunci, o plăcere josnică și dăunătoare, nu doar rostul dintâi."
+   },
+   {
+    "author": "Zohar, Bereșit 44:16",
+    "text": "„Și au cusut frunze de smochin.” S-au lipit de ele ca să se acopere cu acele chipuri ale pomului din care mâncaseră, care se cheamă „frunzele pomului”. „Și și-au făcut brâie.” Rabbi Yose a zis: Odată ce au cunoscut din această lume și s-au lipit de ea, au văzut că această lume este condusă prin mâna acelor frunze ale pomului. Și și-au făcut întărire, ca să se întărească prin ele în această lume. Și atunci au cunoscut toate felurile de vrăjitorii ale lumii. Și au voit să se încingă cu arme din acele frunze ale pomului, ca să se apere."
    },
    {
     "author": "Cartea Jubileelor 3 — comparație",
@@ -2623,6 +2635,10 @@ window.CHAPTER_DATA = [
     "text": "Adaugă o observație morală aspră: în loc să-și recunoască vina, Adam o aruncă, de fapt, asupra lui Dumnezeu Însuși („femeia pe care Tu mi-ai dat-o”) — spre deosebire de David, care, mustrat de Natan, a spus simplu: „am păcătuit împotriva Domnului” (2 Samuel 12:13), fără să caute vinovați în altă parte."
    },
    {
+    "author": "Zohar, Kedoșim 9:1",
+    "text": "Rabbi Yose cel mic a venit înaintea lui Rabbi Șimʿon într-o zi; l-a găsit șezând și citind. Este scris (Geneza 3:12): «Și a zis Adam: Femeia pe care mi-ai dat-o să fie cu mine, ea mi-a dat din pom, și am mâncat.» Se înțelege că Adam și Ḥavah au fost creați împreună, și într-un singur trup; căci este scris «pe care mi-ai dat-o să fie cu mine», și nu este scris «pe care mi-ai dat-o mie». I-a spus: Dacă așa, iată, este scris (1 Samuel 1:26): «Eu sunt femeia care a stat cu tine aici» — și nu este scris «care a stat înaintea ta». I-a spus: Dacă ar fi fost scris «care ți-a fost dată cu tine», aș fi spus așa, cum este scris «pe care mi-ai dat-o să fie cu mine»; dar este scris «care a stat»."
+   },
+   {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
     "text": "Atunci Adam a căutat să se spele de păcat și L-a rugat să nu fie mânios pe el, aruncând vina faptei asupra femeii și spunând că ea l-a ispitit să cadă în greșeală."
    },
@@ -3329,6 +3345,10 @@ window.CHAPTER_DATA = [
     "text": "Explică „voi pune dușmănie” ca pe o repulsie sădită chiar în închipuirea omului — bărbat sau femeie deopotrivă — față de propria poftă, „nu doar între tine și femeie”, ci „între sămânța ta și sămânța ei”, adică pentru toate generațiile următoare. „Îți va zdrobi capul” înseamnă că închipuirea va micșora plăcerea chiar la începutul ei, punând înainte imaginea răului ce poate urma; „iar tu îl vei răni la călcâi” arată că, atunci când pofta învinge totuși, ea naște răul abia la sfârșitul plăcerii."
    },
    {
+    "author": "Zohar, Mișpatim 18:18",
+    "text": "Iar Israel, despre care s-a spus (Psalmul 126): «Ci s-au amestecat cu neamurile și au învățat faptele lor» — până nu vor fi călcați între picioarele lor în exil, nu se vor alege dintre ei. Și din cauza lor a zis David, pacea fie asupra lui (Psalmul 49:6–7): «De ce să mă tem în zilele nenorocirii, când nelegiuirea călcâielor mele mă înconjoară?» Și despre ei a zis Șelomo (Cântarea cântărilor 1:8): «Ieși pe urmele (be-ʿiqvei) turmei» — în Iaakov (B-ʿQBY / YʿQB), despre care s-a spus, față de șarpele cel vechi care a amăgit-o pe Ḥavah (Geneza 3:15): «Acesta îți va zdrobi capul, iar tu îi vei zdrobi călcâiul (ʿaqev).» După ce vor ieși din exil, vor fi asemănați cu merele și cu toate miresmele bune, ca la ieșirea din Egipt („Mițrayim”), despre care este scris (Cântarea cântărilor 8:5): «Sub măr te-am trezit.»"
+   },
+   {
     "author": "Irineu, Împotriva ereziilor 5.21.1",
     "text": "Hristos a înnoit desăvârșit toate lucrurile, luând asupra Sa lupta împotriva vrăjmașului nostru și zdrobindu-l pe cel ce, la început, ne dusese robi în Adam, călcându-i capul în picioare, precum se găsește în Geneza că Dumnezeu a zis șarpelui: «Voi pune vrăjmășie între tine și femeie, și între sămânța ta și sămânța femeii. El va pândi capul tău, iar tu îi vei pândi călcâiul.» De atunci s-a vestit că Cel ce avea să Se nască dintr-o fecioară, după asemănarea lui Adam, va pândi capul șarpelui."
    },
@@ -3561,6 +3581,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "„Chinul tău” privește sângele necurăției lunare — de-aceea numit „boală”, ca și cum ar fi bolnavă toată acea vreme. „Însărcinarea ta” inversează starea dinainte de păcat, când, spun înțelepții, zămislirea și nașterea aveau loc chiar în aceeași zi — stare pe care o vor recăpăta, în viitor, cei plăcuți lui Dumnezeu. „Cu durere vei crește copii” — mai mult decât orice altă viețuitoare, căci „naștere” înseamnă aici și creșterea lor, nu doar aducerea pe lume."
+   },
+   {
+    "author": "Zohar, Vaiakhel 42:1",
+    "text": "Rabbi Șimʿon și rabi Elʿazar, fiul lui, ședeau într-o noapte și se îndeletniceau cu Tora. I-a zis rabi Elʿazar lui rabi Șimʿon, tatăl lui: Iată este scris (Geneza 3:16): «Și femeii i-a zis: Voi înmulți foarte mult durerea ta și sarcina ta; în durere vei naște copii, și spre bărbatul tău va fi dorința ta» etc. Și am învățat că aceasta este o taină înaltă. Bine, jos; dar ea este după chipul celor de sus — ce este de spus?"
    },
    {
     "author": "Cartea Jubileelor 3 — comparație",
@@ -3808,6 +3832,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "Leagă blestemul pământului direct de vină: „fiindcă ai ascultat de glasul soției tale” — atribuindu-I lui Dumnezeu, pe nedrept, minciună și invidie — și „ai mâncat din pom”, călcând porunca, pământul nu-și va mai da rodul decât cu multă trudă."
+   },
+   {
+    "author": "Zohar, Toldot 19:10",
+    "text": "Vino, vezi: în ceasul în care șarpele acela a adus blesteme asupra lumii și a fost blestemat pământul, ce e scris (Geneza 3:17): «și lui Adam a zis: pentru că ai ascultat de glasul soției tale» etc., «blestemat e pământul din pricina ta» etc. — că nu va face roade și fructe cum se cuvine. Față de aceasta: «și din grăsimile pământului». (Acolo) «în întristare o vei mânca» — față de aceasta: «din roua cerului». (Acolo) «și spin și pălămidă îți va odrăsli» — față de aceasta: «și belșug de grâu și must». (Acolo) «în sudoarea feței tale vei mânca pâine» — față de aceasta (Geneza 27:28): «să-ți slujească popoare și să ți se închine neamuri», că ei vor lucra pământul și vor sluji pe câmp, precum zici (Isaia 61:5): «și fiii străinului vor fi plugarii voștri și vierii voștri». Și totul a luat Iaakov, acesta față de acesta, și din al lui a luat. […]"
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
@@ -4224,6 +4252,10 @@ window.CHAPTER_DATA = [
     "text": "„Și în țărână te vei întoarce” — exact cum te avertizasem când ți-am poruncit, spunând „în ziua în care vei mânca din el, vei muri negreșit”: ești pregătit, de-acum, pentru moarte, la sfârșitul zilelor tale."
    },
    {
+    "author": "Zohar, Pekudei 61:1",
+    "text": "(Altă versiune: Fericiți sunt drepții, care cunosc căile sfinte ca să meargă pe ele, ca să nu meargă după acel șarpe rău, partea cealaltă, necurată, și se despart de el și nu se lasă ademeniți după el; fericiți sunt ei în lumea aceasta, fericiți sunt ei în lumea ce va să vină.) (Geneza 2:7): «Și Domnul Dumnezeu l-a plăsmuit pe om, țărână din pământ». Țărână este, și nu lut. Țărână este, și se va întoarce în țărână, precum spui (Geneza 3:19): «căci țărână ești și în țărână te vei întoarce». (Altă versiune: după ce a păcătuit, a devenit hrană pentru șarpe, și de aceea etc.) După ce a păcătuit; și de aceea este scris despre șarpe: «și țărână vei mânca în toate zilele vieții tale». Țărâna aceasta este omul, precum este scris: «căci țărână ești» etc. Și de aceea este scris «țărână», și nu este scris «pământ», nici «lut»; și este scris (Isaia 65:25): «și șarpelui țărâna îi va fi hrana»."
+   },
+   {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Mitul akkadian al lui Adapa — un om înțelept căruia i se oferă, la un moment critic, ocazia nemuririi, dar o pierde printr-o neînțelegere despre „pâinea și apa vieții” pe care refuză să le primească — e adesea pus alături de povestea din Geneza 3 ca paralelă structurală: omul se află, într-un moment decisiv, foarte aproape de nemurire, dar o pierde. Diferența majoră: la Adapa, pierderea vine dintr-o neînțelegere/înșelăciune divină ambiguă; în Geneza, vine explicit dintr-un act de neascultare."
    },
@@ -4406,6 +4438,10 @@ window.CHAPTER_DATA = [
     "text": "„Eva” arată că ea va trebui să trăiască și să-și crească fiii în starea ei de vină; „mama a toată viața” — deși același lucru se va întâmpla și celorlalte femei, doar ea poartă acest nume, fiind cea dintâi dintre toate."
    },
    {
+    "author": "Zohar, Teruma 16:11",
+    "text": "«Arată»: «cunoaștere» o «arată» (yeḥaveh), adică «dă viață» (yeḥayeh). Dă viață născuților, care sunt (altă versiune: în) cerurile. Și dacă vei zice: «yeḥaveh» nu este «yeḥayeh» — vino și vezi, este scris (Geneza 3:20): «Și omul a pus soției lui numele Ḥavah, căci ea a fost mama tuturor celor vii». Ḥavah și ḥayah se ridică într-un singur cuvânt. Și pentru că s-a ridicat (altă versiune: aceasta s-a ridicat) Yod și a intrat Vav, așa este cum se cuvine; căci Vav este viața desigur. Și de aceea Ḥavah și ḥayah: Yod (altă versiune: cel mic, luat) ia viață de la Vav. Tot așa aici: «yeḥaveh», «yeḥayeh»."
+   },
+   {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Cartea Jubileelor 3:33 confirmă exact: „Și Adam a chemat numele soției sale Eva” — plasată însă de Jubilee DUPĂ ieșirea din grădină (3:32-33), nu înainte de ea ca în Geneza, unde numirea Evei (3:20) precede îmbrăcarea în piele și izgonirea (3:21-24)."
    },
@@ -4558,6 +4594,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (c. 1475–1550)",
     "text": "Notează, despre „hainele de piele”, că au fost făcute de Dumnezeu „fără muncă omenească” — leagă asta de o tradiție talmudică (Șabat 30b) despre vremurile viitoare, când pământul lui Israel va da, la fel, pâine gata coaptă și haine de lână gata țesute, fără trudă. Actul divin de-aici prefigurează simbolic o stare de belșug fără muncă, exact opusul blestemului „cu sudoarea feței” rostit cu un verset mai devreme."
+   },
+   {
+    "author": "Zohar, Bo 7:1",
+    "text": "A deschis și a zis (Geneza 27:27): «și a mirosit mirosul hainelor lui și l-a binecuvântat și a zis: vezi, mirosul fiului meu» etc. «Și a mirosit mirosul hainelor lui»: se înțelege că hainele acelea suiau un miros bun (altă versiune: care nu s-a mutat), și după aceea s-a mutat de la ele mirosul acela. Acum trebuie privit. E scris «mirosul hainelor lui» și e scris «mirosul fiului meu», și n-a zis «mirosul hainelor», ci «mirosul fiului meu». Ci a învățat: cum a intrat Iaakov, a intrat cu el grădina Edenului. Și a învățat: hainele acelea erau ale lui Adam cel dintâi. Că e scris (Geneza 3:21): «și a făcut Domnul Dumnezeu lui Adam și femeii lui haine de piele și i-a îmbrăcat». Și i-a scos din grădina Edenului."
    },
    {
     "author": "Cartea Jubileelor 3 — comparație",
@@ -4828,6 +4868,10 @@ window.CHAPTER_DATA = [
     "text": "Explică „cunoscând binele și răul” ca pe o nouă facultate, parte a chipului divin din om — dar dacă ar rămâne veșnic în această stare, ar alerga la nesfârșit după plăcere, lepădând orice înțelegere și faptă bună, ratând tocmai fericirea duhovnicească pentru care fusese plăsmuit după chipul și asemănarea lui Dumnezeu."
    },
    {
+    "author": "Zohar, Vaiera 6:22",
+    "text": "Și vino și vezi: când a greșit Adam, în pomul cunoștinței binelui și răului a greșit, că e scris «și din pomul cunoștinței» etc., și în el a greșit și a pricinuit moarte lumii. Ce e scris: «și acum, ca nu cumva să-și întindă mâna și să ia și din pomul vieții» etc. (Și a pricinuit moarte tuturor fiilor lumii.) Și când a venit Avraham, cu un alt copac a pregătit lumea, că el e Copacul Vieții, și a făcut cunoscută credința tuturor fiilor lumii."
+   },
+   {
     "author": "Efrem Sirul, Comentariu la Facere 2.34.1-2",
     "text": "A zis Dumnezeu: «Iată, Adam a ajuns ca unul dintre Noi, cunoscând binele și răul.» Deși, zicând «a ajuns ca unul dintre Noi», arată în chip simbolic Treimea, esențialul e mai degrabă că Dumnezeu îl batjocorea pe Adam, căruia i se spusese mai înainte: «Veți fi ca Dumnezeu, cunoscând binele și răul.» Căci, deși după ce au mâncat rodul, Adam și Eva au ajuns să cunoască aceste două lucruri, înainte de a mânca rodul percepuseră în realitate doar binele, iar despre rău auziseră doar din zvon. După ce au mâncat, s-a petrecut o schimbare: acum aveau să audă despre bine doar din zvon, iar în realitate aveau să guste doar răul."
    },
@@ -5020,6 +5064,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "Explică trimiterea ca poruncă limpede de plecare; pământul din care fusese luat i se potrivea, prin fire și aer, mai bine decât orice altă parte a pământului pentru hrana și nevoile sale."
+   },
+   {
+    "author": "Zohar, Beșalah 16:8",
+    "text": "A zis Rabbi Ḥiyya: Adam cunoștea o înțelepciune de sus, mai mult decât îngerii de sus, și privea în tot și cunoștea și își recunoștea Stăpânul, mai mult decât toți ceilalți fii ai lumii. După ce a păcătuit, i s-au astupat izvoarele înțelepciunii. Ce e scris (altă versiune: de unde e scris) (Geneza 3:23)? «Și l-a trimis Domnul Dumnezeu din grădina Edenului, ca să lucreze pământul»."
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",

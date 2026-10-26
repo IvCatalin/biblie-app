@@ -118,6 +118,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi discută structura neobișnuită a numărului — „o sută” separat de „douăzeci” separat de „șapte” — o tradiție citește această despărțire ca simbol al unei vieți în care toate vârstele au fost egale în puritate morală, fiecare etapă fiind la fel de bună ca celelalte."
+      },
+      {
+        "author": "Zohar, Haiei Sara 1:1",
+        "text": "«Și au fost viețile Sarei o sută de ani și douăzeci de ani și șapte ani.» Rabbi Yose a deschis și a zis (Iona 1:15): «și l-au luat pe Iona și l-au aruncat în mare, și s-a oprit marea din urgia ei». Aici e de privit: care e pricina că marea s-a cutremurat asupra lui Iona, și nu s-a cutremurat asupra lui pământul, de vreme ce el mergea ca să nu se odihnească asupra lui Șekhinah? Marea (de sus) — de ce s-a prins de el când mergea?"
       }
     ]
   },
@@ -637,6 +641,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi nu are un comentariu extins la acest verset de tranziție narativă simplă."
+      },
+      {
+        "author": "Zohar, Haiei Sara 14:6",
+        "text": "De îndată ce i-au zis înaintea lui Efron: «ascultă-ne, stăpâne, prinț al lui Dumnezeu ești tu în mijlocul nostru» etc. Ce e scris: «și Efron ședea în mijlocul fiilor lui Ḥet». «A șezut» e scris: de la începutul cuvintelor pe care le-a zis Avraham era acolo. Atunci a zis: «ascultați-mă și mijlociți pentru mine la Efron fiul lui Ẓoḥar, și să-mi dea peștera Makhpela care e a lui» etc. Și dacă vei zice: din pricina cinstei mele mai mult decât a voastră fac, că nu-mi pasă de voi — «în mijlocul vostru»: ca să fiu îngropat între voi, că îmi pasă de voi, ca să nu mă despart de voi."
       }
     ]
   },
@@ -1605,6 +1613,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi discută oferta inițială a lui Efron de a dărui gratuit câmpul — un gest care pare generos, dar pe care tradiția îl citește adesea ca politețe orientală convențională, nu ofertă reală de renunțare la preț."
+      },
+      {
+        "author": "Zohar, Toldot 13:2",
+        "text": "Rabbi Yehudah a zis: vai de răi, că bunătatea lor nu e desăvârșită. Vino, vezi: Efron la început a zis (Geneza 23:11): «domnul meu, ascultă-mă: ogorul ți l-am dat, și peștera care e în el ți-am dat-o» etc. Și după aceea a zis (Geneza 23:11): «pământ de patru sute de sicli de argint» etc.; și e scris (Geneza 23:16) «și a cântărit Avraham lui Efron» etc., «trecător la negustor». Tot așa aici, e scris la început «iată țara mea e înaintea ta» etc. Și după aceea i-a zis (Geneza 26:16): «du-te de la noi, că te-ai întărit de noi foarte». I-a zis Rabbi Elʿazar: acesta e binele pe care l-a făcut cu el, că n-a luat Avimelekh din al lui nimic, și l-a trimis cu tot avutul lui, și după aceea a mers după el să taie cu el legământ."
       }
     ]
   },
@@ -2298,6 +2310,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Rashi notează precizia detaliului „monedă acceptată la negustor” — Avraham plătește cu monedă de calitate garantată, nu doar cu argint brut, asigurând validitatea comercială deplină a tranzacției."
+      },
+      {
+        "author": "Zohar, Toldot 13:2",
+        "text": "Rabbi Yehudah a zis: vai de răi, că bunătatea lor nu e desăvârșită. Vino, vezi: Efron la început a zis (Geneza 23:11): «domnul meu, ascultă-mă: ogorul ți l-am dat, și peștera care e în el ți-am dat-o» etc. Și după aceea a zis (Geneza 23:11): «pământ de patru sute de sicli de argint» etc.; și e scris (Geneza 23:16) «și a cântărit Avraham lui Efron» etc., «trecător la negustor». Tot așa aici, e scris la început «iată țara mea e înaintea ta» etc. Și după aceea i-a zis (Geneza 26:16): «du-te de la noi, că te-ai întărit de noi foarte». I-a zis Rabbi Elʿazar: acesta e binele pe care l-a făcut cu el, că n-a luat Avimelekh din al lui nimic, și l-a trimis cu tot avutul lui, și după aceea a mers după el să taie cu el legământ."
       }
     ]
   },
@@ -2888,6 +2904,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Sforno (cca. 1475–1550)",
         "text": "Interpretează încheierea capitolului ca moment simbolic esențial — pentru prima dată, promisiunea abstractă a țării devine realitate tangibilă, măsurabilă, deținută legal, chiar dacă la scară minimă față de întinderea promisă."
+      },
+      {
+        "author": "Zohar, Bo 7:8",
+        "text": "Ci două cuvinte sunt, și totul e unul. Că e scris (Geneza 24:63): «și a ieșit Yițḥak să vorbească pe ogor, spre plecarea serii». Și oare n-avea o casă sau un alt loc ca să se roage? Ci ogorul acela era cel pe care l-a cumpărat Avraham lângă peșteră. Că e scris (Geneza 23:20): «ogorul pe care l-a cumpărat Avraham de la fiii lui Ḥet». Și în ceasul când intra Yițḥak la el, a văzut Șekhinah asupra lui și se suiau mirosuri de sus, sfinte. Și de aceea se ruga acolo și și-a așezat rugăciunea."
       }
     ]
   }

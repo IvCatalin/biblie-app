@@ -1147,6 +1147,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Întrebarea lui Avram „prin ce voi ști” nu exprimă neîncredere, spune Rashi, ci dorința unui semn concret care să confirme promisiunea — un tipar respins mai târziu în alte episoade biblice ca insuficientă credință, dar acceptat aici, ceea ce duce direct la ritualul legământului care urmează."
+      },
+      {
+        "author": "Zohar, Ki Tisa 6:10",
+        "text": "Așa Israel: sunt fiii Regelui celui sfânt. I-a coborât în Egipt („Mițrayim”). Iar dacă vei spune: În acel timp nu au păcătuit — hotărârea pe care Cel Sfânt, binecuvântat fie El, a hotărât-o între bucățile (dintre jertfă) trebuia să se împlinească; și Cel Sfânt, binecuvântat fie El, a privit la două lucruri: unul din pricina acelui cuvânt pe care l-a spus Avraham (Geneza 15:8): «Prin ce voi ști că o voi moșteni?» — aceasta este pricina și cauza. Dar până ce au ieșit din Egipt nu erau un neam și nu se arătau cum se cuvine."
       }
     ],
     "refs": [
@@ -1566,6 +1570,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Păsările de pradă care coboară asupra stârvurilor și pe care Avram le gonește sunt citite tradițional ca simbol profetic al națiunilor care vor încerca să distrugă sau să împiedice destinul seminției lui Avram de-a lungul istoriei — gestul activ al lui Avram de a le alunga prefigurează rolul patriarhului ca apărător al promisiunii."
+      },
+      {
+        "author": "Zohar, Vaiehi 17:4",
+        "text": "Pe când ședea, a trecut un om și s-a uitat la ele. A zis: nu s-a împlinit aceasta, ce e scris (Geneza 15:11): «și a coborât pasărea de pradă pe stârvuri, și le-a alungat Avram». A zis Rabbi Yehudah: și iată am făcut, și nu s-au despărțit. Și-a întors capul omul acela și a zis: până nu-și smulge acesta capul stăpânului său, și până nu se desface pentru Matronită. A alergat după el trei mile și nu i-a zis. I s-a slăbit cugetul lui Rabbi Yehudah."
       }
     ],
     "refs": [
@@ -1743,6 +1751,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Toropeala profundă însoțită de groază și negură — Rashi notează paralela cu starea profetică descrisă și la alți profeți biblici, unde revelația divină majoră vine adesea însoțită de o stare fizică și emoțională copleșitoare, aproape terifiantă, semn al gravității mesajului ce urmează."
+      },
+      {
+        "author": "Zohar, Bo 8:5",
+        "text": "De ce «între seri»? În ceasul când atârnă judecata și în ceasul când s-a dat cuvântul acesta lui, prin mâna lui Avraham. Că e scris (Geneza 15:12): «și a fost soarele să apună, și un somn a căzut pe Avram, și iată o spaimă, întuneric mare, cădea asupra lui». «Spaimă»: o cunună una. «Întuneric»: o altă cunună. «Mare»: aceasta care e mai mare decât tot. Și măcar că am așezat versetul acesta asupra celorlalte robii ale lui Israel, și totul a fost. Ca în felul acesta (Exodul 17:14): «că ștergând voi șterge». Voi, de jos, și Eu, de sus."
       }
     ],
     "refs": [
@@ -2303,6 +2315,14 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Explicația explicită a întârzierii — „păcatul amoritului nu este împlinit” — introduce un principiu teologic central: cucerirea Canaanului nu e doar un drept moștenit, ci condiționată moral de gradul de răutate acumulată a locuitorilor existenți, care trebuie să atingă un prag înainte de judecată."
+      },
+      {
+        "author": "Mișna, Eduiot 2:9",
+        "text": "El spunea: tatăl dobândește pentru fiu frumusețea, puterea, bogăția, înțelepciunea, anii și numărul generațiilor dinaintea lui; și acesta este sfârșitul, căci s-a spus (Isaia 41:4): „Cel care cheamă generațiile de la început”; deși s-a spus (Geneza 15:13): „Și îi vor robi și îi vor asupri patru sute de ani”, și s-a spus (Geneza 15:16): „Și a patra generație se va întoarce aici.”"
+      },
+      {
+        "author": "Zohar, Vaiera 24:7",
+        "text": "De aceea nu face Sfântul, binecuvântat fie El, judecată în răufăcători până nu s-au desăvârșit în păcatele lor; acesta e ce e scris (Geneza 15:16): «că nu e plin nelegiuirea amoritului până acum». Și e scris (Isaia 27:8): «cu măsură, când o vei alunga, te vei certa cu ea». Și de aceea pâra asupra lui Yehoșua să fie ars în ei, până i-a zis (Zaharia 3:2): «să te mustre Domnul, satane». Cine i-a zis? Acesta e îngerul Domnului (și s-a spus: «și a zis Domnul către satan»)."
       }
     ]
   },
@@ -2772,6 +2792,10 @@ window.CHAPTER_DATA = [
       "Numeri 24:21-22"
     ],
     "commentaries": [
+      {
+        "author": "Zohar, Naso 3:1",
+        "text": "(Numeri 5:6) «Bărbat sau femeie, când vor face din toate păcatele omului» etc. Vino și vezi, este scris (Judecătorii 4:11): «Și Ḥever haQeni s-a despărțit de Qayin, dintre fiii lui Ḥovav, socrul lui Moșe» etc. Și Ḥever haQeni era dintre nepoții lui Yitro, cum spui (1 Samuel 15:6): «Și a zis Șaul către Qeni» etc. De ce s-a numit Qeni? Și iată au stabilit. Și este scris (Geneza 15:19): «pe Qeni și pe Qenizi». Și s-a învățat că a făcut un cuib în pustie, ca o pasăre, ca să se ocupe cu Tora, și s-a despărțit de cetate; «s-a despărțit de Qayin» — s-a despărțit de acel popor care era la început și s-a lipit de Cel Sfânt, binecuvântat fie El; «s-a despărțit de Qayin»."
+      },
       {
         "author": "Context cultural-istoric (Orientul Apropiat Antic)",
         "text": "Kenit, kenizit și kadmonit sunt popoare atestate doar aici în toată Tora — probabil triburi mici, absorbite ulterior de alte popoare cunoscute (kenizit fiind, de exemplu, asociat mai târziu cu familia lui Caleb, Numeri 32:12)."

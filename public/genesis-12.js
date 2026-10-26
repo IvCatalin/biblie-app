@@ -319,6 +319,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Notează cele cinci binecuvântări succesive din v.2-3 (neam mare, binecuvântare personală, nume mărit, a fi el însuși sursă de binecuvântare, protecție reciprocă) — o structură remarcată des ca fiind paralelă cu cele cinci cărți ale Torei, deși legătura rămâne simbolică, nu literală."
+      },
+      {
+        "author": "Zohar, Leh Leha 6:1",
+        "text": "«Și te voi face un neam mare» etc. «Și te voi face» — pentru că e scris «du-te ție». «Și te voi binecuvânta» — pentru că e scris «din țara ta». «Și voi mări numele tău» — pentru că e scris «și din nașterea ta». «Și fii binecuvântare» — pentru că e scris «și din casa tatălui tău»."
       }
     ]
   },
@@ -652,6 +656,10 @@ window.CHAPTER_DATA = [
       "Evrei 11:8"
     ],
     "commentaries": [
+      {
+        "author": "Zohar, Leh Leha 7:3",
+        "text": "I-a zis Rabbi Șimʿon: dacă vei zice că Teraḥ, când a ieșit din Ur Kasdim, era ca să se întoarcă în teshuvah — nu e astfel. Ci când a ieșit, a ieșit ca să se salveze, că toți fiii țării sale voiau să-l ucidă. De îndată ce au văzut că Avraham a fost salvat, îi ziceau lui Teraḥ: tu ești cel ce ne amăgeai cu acești idoli; și din teama lor a ieșit Teraḥ; de îndată ce a ajuns la Ḥaran, n-a ieșit de acolo după aceea, că e scris «și a mers Avram precum i-a vorbit Domnul, și a mers cu el Lot»; și iată Teraḥ nu e scris la el «și a mers», ci «și a ieșit»."
+      },
       {
         "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 7",
         "text": "Josephus adaugă un detaliu absent din textul biblic: motivul emigrării ar fi fost și opoziția caldeenilor față de convingerile monoteiste ale lui Avram, care ar fi respins public zeitățile politeiste locale — o tradiție care prezintă plecarea nu doar ca ascultare divină, ci și ca rezultat al unui conflict religios real cu comunitatea natală."
@@ -1036,6 +1044,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "„Elon More” (stejarul învățătorului/proorocului) — Rashi citează o tradiție care leagă numele locului de o revelație profetică specială primită acolo, poate anticipând promisiunea divină explicită care urmează chiar la versetul următor."
+      },
+      {
+        "author": "Mișna, Sota 7:5",
+        "text": "Binecuvântările și blestemele — cum? Când Israel au trecut Iordanul și au venit la Muntele Gherizim și la Muntele ʿEval, care sunt în Șomron, în partea lui Șekhem, care este lângă stejarii lui More, căci s-a spus: (Deuteronomul 11:30) „oare nu sunt ei dincolo de Iordan” etc., iar mai încolo spune: (Geneza 12:6) „și a trecut Avram prin țară până la locul Șekhem, până la stejarul lui More” — precum stejarul lui More spus mai încolo este Șekhem, tot așa stejarul lui More spus aici este Șekhem. Șase seminții au urcat pe vârful Muntelui Gherizim, și șase seminții au urcat pe vârful Muntelui ʿEval, iar preoții, leviții și chivotul stăteau jos, la mijloc; preoții înconjurau chivotul, iar leviții pe preoți, iar tot Israelul de o parte și de alta, căci s-a spus: (Iosua 8:33) „și tot Israelul, și bătrânii lui, și dregătorii lui, și judecătorii lui stăteau de o parte și de alta a chivotului” etc. […]"
       }
     ]
   },
@@ -1513,6 +1525,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "„Din loc în loc” — infinitivul absolut dublat în ebraică sugerează o călătorie treptată, cu opriri succesive, nu o mișcare bruscă — un tipar care va reveni constant în viața nomadă a lui Avram, mereu în tranzit, niciodată complet stabilit."
+      },
+      {
+        "author": "Zohar, Vaiera 30:23",
+        "text": "Vino și vezi: deși despre Avraham e scris «și a plecat Avram mergând și călătorind spre Neghev»; și toate popasurile sale erau spre sud și s-a legat de el — n-a urcat la locul său cum se cuvine până s-a născut Yițḥak; de îndată ce s-a născut Yițḥak, s-a înălțat la locul său și el s-a unit cu el și s-au legat unul de altul."
       }
     ],
     "refs": [
@@ -1669,6 +1685,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Prima dintre mai multe foamete menționate în cărțile patriarhilor (reluată la Isaac, Geneza 26:1, și la frații lui Iosif, Geneza 43:1) — un tipar literar care leagă generațiile succesive prin experiențe similare de încercare."
+      },
+      {
+        "author": "Zohar, Leh Leha 10:8",
+        "text": "«Și a fost foamete în țară» — că până acum nu era puterea de asupra țării care dă tărie și hrană asupra țării, pentru că până nu s-a sfințit și nu stătea în ținere. De îndată ce a văzut Avraham că acea putere rânduită asupra țării nu dă tărie și putere sfântă cum se cuvine, atunci «și s-a pogorât Avram în Egipt („Mițrayim”) să locuiască acolo»."
       }
     ]
   },
@@ -1817,6 +1837,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "„Iată, știam” — Rashi notează observația neobișnuită: abia acum, la granița Egiptului, Avram pare să remarce explicit frumusețea lui Sarai, deși erau căsătoriți de mult — o tradiție explică asta prin faptul că, în călătoria lor obișnuită, modestia și greutățile drumului ar fi ascuns frumusețea ei, vizibilă acum doar la apropierea de o civilizație sofisticată ca Egiptul."
+      },
+      {
+        "author": "Zohar, Leh Leha 12:5",
+        "text": "«Și a zis Sarei, femeii sale: iată acum am cunoscut că femeie frumoasă la vedere ești.» Și oare până în ceasul acela nu știa Avraham că era femeie frumoasă la vedere? Ci iată au statornicit că până în ceasul acela nu privise la chipul Sarei, din pricina mulțimii modestiei care era între ei; și când s-a apropiat de Egipt („Mițrayim”), s-a descoperit ea și a văzut-o."
       }
     ],
     "refs": [
@@ -2068,6 +2092,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Cererea lui Avram ca Sarai să spună „sunt sora ta” nu e o minciună completă, spune tradiția (reluată explicit mai târziu, la Geneza 20:12): Sarai ar fi fost, într-adevăr, ruda apropiată a lui Avram (nepoată, prin Haran) — o jumătate de adevăr strategic, nu o invenție totală."
+      },
+      {
+        "author": "Zohar, Leh Leha 12:7",
+        "text": "Și cuvântul acesta se înalță în două chipuri. Unul după înțelesul său. Și unul precum e scris (Proverbele 7:4) «zi Ḥokhmah: sora mea ești». Și e scris «zi, te rog: sora mea ești». Și e scris (Deuteronomul 5:24) «și tu ne vei vorbi». «Ca să-mi fie bine din pricina ta» — către Șekhinah a zis: din pricina ta îmi va fi bine Sfântul, binecuvântat fie El. «Și va trăi nefeș-ul meu din pricina ta.» Pentru că prin aceasta se va înălța omul și va merita să se înalțe pe calea vieții."
       }
     ]
   },
@@ -2220,6 +2248,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Repetiția „foarte frumoasă” (deja anticipată de Avram la v.11) confirmă temerile sale — Rashi notează structura narativă care validează explicit predicția inițială a lui Avram, pregătind cititorul pentru evenimentele care urmează."
+      },
+      {
+        "author": "Zohar, Leh Leha 13:1",
+        "text": "«Și a fost când a venit Avram în Egipt („Mițrayim”), și au văzut egiptenii femeia că e frumoasă foarte.» A zis Rabbi Yehudah: în ladă a băgat-o, și i-au deschis-o ca să ia de la ea vamă. De îndată ce s-a deschis, era o lumină ca lumina soarelui; acesta e ce e scris «că e frumoasă foarte»."
       }
     ]
   },
@@ -2385,6 +2417,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "„Dregătorii lui Faraon” care o laudă pe Sarai reflectă un tipar de curte real — funcționarii regali raportând frumuseți remarcabile stăpânului lor, o practică documentată în texte egiptene antice despre alegerea femeilor pentru harem regal."
+      },
+      {
+        "author": "Zohar, Vaera 17:9",
+        "text": "E scris (Geneza 12:15): «și au văzut-o căpeteniile lui Faraon și au lăudat-o lui Faraon, și a fost luată femeia în casa lui Faraon». Versetul acesta spre tâlcuire a venit. Trei Faraoni aici. Unul, în vremea aceea. Și unul, în zilele lui Yosef. Și unul, în zilele lui Moșe, care a lovit cu toiagul lui. (Altă versiune: versetul acesta tot s-a împlinit în Faraonul cel dintâi, ci în ceasul etc. Și versetul acesta s-a împlinit.)"
       }
     ]
   },

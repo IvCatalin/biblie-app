@@ -447,6 +447,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Prima permisiune explicită de a mânca și carne, nu doar plante — Rashi notează contrastul cu Geneza 1:29, unde hrana dată lui Adam era strict vegetală; abia acum, după Potop, se extinde dieta umană."
+      },
+      {
+        "author": "Zohar, Leh Leha 27:5",
+        "text": "Și după aceea a venit Noaḥ și a văzut că trupul s-a zidit din locul yețer ha-ra; a adus o jertfă precum a adus Adam. Ce e scris (Geneza 8:21): «și a mirosit Domnul mirosul de odihnă» etc. «Că yețer-ul inimii omului e rău din tinerețea sa.» A zis Sfântul, binecuvântat fie El: de aici înainte, de vreme ce trupul s-a absorbit din acel yețer ha-ra, să se desfăteze trupul precum i se cuvine; să mănânce carne. «Ca iarba verde v-am dat totul»."
       }
     ]
   },
@@ -547,6 +551,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Talmud Babilonian, Sanhedrin 56a-59a",
         "text": "Acest verset e sursa textuală standard pentru interdicția „ever min ha-chai” (a nu mânca dintr-un animal viu), a doua dintre cele șapte legi noahide enumerate și dezbătute pe larg în tratatul Sanhedrin — obligatorii, conform tradiției rabinice, pentru toată omenirea, nu doar pentru poporul evreu."
+      },
+      {
+        "author": "Zohar, Vaieșev 5:31",
+        "text": "«Și a adus Yosef bârfa lor rea.» Iată au statornicit-o, că zicea tatălui său asupra lor că mâncau mădular din dobitoace când ele sunt vii. «Și a adus Yosef bârfa lor rea.» Și oare aceștia, în numărare, erau fiii slujnicelor? Cum îi disprețuiau pe ei fiii lui Leʾah? Și cum mâncau mădular din viu și treceau peste porunca Stăpânului lor? Că iată a poruncit asupra fiilor lui Noaḥ porunca aceasta, precum zici (Geneza 9:4): «numai carne în sufletul ei, sângele ei, să nu mâncați». Și ei o mâncau și treceau peste porunca Stăpânului lor. Ci Yosef zicea; și asupra aceasta a fost pedepsit."
       }
     ]
   },
@@ -828,6 +836,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Talmud Babilonian, Sanhedrin 56a-59a",
         "text": "Interdicția vărsării de sânge uman e discutată în același pasaj ca fiind cea dintâi și cea mai gravă dintre legile noahide — Sanhedrin explică motivarea explicită oferită chiar în text („căci în imaginea lui Dumnezeu l-a făcut pe om”): valoarea vieții umane derivă direct din statutul de purtător al chipului divin, nu dintr-o convenție socială."
+      },
+      {
+        "author": "Zohar, Noah 33:1",
+        "text": "«Și teama de voi și groaza voastră va fi.» De aici înainte veți avea chipuri de fii de om, căci la început nu erau chipuri de fii de om. Vino și vezi: la început e scris (Geneza 9:6) «în tzelem al lui Dumnezeu a făcut pe om». Și e scris (Geneza 5:1) «în asemănarea lui Dumnezeu l-a făcut». De îndată ce au greșit, s-au schimbat chipurile lor de la acel chip de sus și s-au întors să se teamă dinaintea fiarelor câmpului."
       },
       {
         "author": "Cartea Jubileelor 6-7 — context/comparație",
@@ -1453,6 +1465,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Repetarea explicită „niciodată... nu va mai fi potop” subliniază caracterul absolut, necondiționat al acestei promisiuni — spre deosebire de alte legăminte din Tora, care depind de ascultarea omului, acesta e garantat necondiționat."
+      },
+      {
+        "author": "Zohar, Vaiera 27:9",
+        "text": "Rabbi Yehudah fiul lui Rabbi Elʿazar a întrebat pe Rabbi Ḥizqiyah; i-a zis: morții pe care e pregătit Sfântul, binecuvântat fie El, să-i învie — de ce nu le dă neșamah-ul lor în locul în care au fost îngropați acolo și să vină să trăiască în pământul lui Israel? I-a zis: a jurat Sfântul, binecuvântat fie El, să zidească Ierusalimul și să nu se mai dărâme în veacuri. Că a zis Rabbi Ieremia: e pregătit Sfântul, binecuvântat fie El, să înnoiască lumea Sa și să zidească Ierusalimul și să-l pogoare zidit de sus (altă versiune: zidire), ca să nu se dărâme; și a jurat că nu va mai fi izgonită Keneset Israel, și a jurat că nu se va dărâma zidirea Ierusalimului, că e zis (Isaia 62:4): «nu ți se va mai zice «părăsită» și țării tale nu i se va mai zice «pustiire»». […]"
       }
     ]
   },
@@ -2546,6 +2562,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "„Din aceștia s-au răspândit [oameni pe] tot pământul” anticipează tabelul detaliat al națiunilor din capitolul 10, care va enumera explicit descendenții fiecăruia dintre cei trei fii ai lui Noe."
+      },
+      {
+        "author": "Zohar, Noah 1:11",
+        "text": "Vino și vezi: Noaḥ era sortit din ziua în care a fost creată lumea să fie în teva într-o unire și să intre în ea; și până nu s-au unit laolaltă lumea nu era cum se cuvine. După aceea ce e scris (Geneza 9:19): «și din aceștia s-a risipit tot pământul»? Ce e «s-a risipit»? Precum zici (Geneza 2:10) «și de acolo se desparte». Că de acolo s-a aflat despărțire și s-au risipit nașterile în toate laturile."
       }
     ]
   },
@@ -2656,6 +2676,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Sforno (cca. 1475–1550)",
         "text": "Interpretează „s-a înjosit” ca legat direct de faptul că Noe a fost prima persoană care a plantat o vie și a produs vin — o inovație tehnologică pe care Sforno o citește ca dovadă a rolului lui Noe de restaurator al civilizației agricole, chiar dacă urmată de o cădere morală personală."
+      },
+      {
+        "author": "Zohar, Vaikra 31:8",
+        "text": "De aici a zis Rabbi Yose: ce este ce este scris (Geneza 9): «Și Noaḥ, omul pământului, a început (va-yaḥel)»? «Va-yaḥel» — precum ai spus (Numeri 30:3): «să nu-și pângărească (lo yaḥel) cuvântul» — căci a devenit profan (ḥol). «Omul pământului» — căci pentru el au fost stârpiți fiii lumii, pentru că nu a cerut îndurare pentru ei. Altă explicație: «omul (Bereșit 58b) pământului» — căci pentru el a dăinuit pământul după ce au fost stârpiți cei dintâi, căci este scris: «Nu voi mai blestema pământul din pricina omului» etc."
       }
     ]
   },
@@ -2766,6 +2790,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Notează consecința neprevăzută a primei vinificații din istorie — beția lui Noe, care duce direct la incidentul rușinos ce urmează; o tradiție vede în asta un avertisment timpuriu despre pericolele consumului excesiv de vin."
+      },
+      {
+        "author": "Zohar, Noah 13:10",
+        "text": "Și mai mult: după aceea au continuat să păcătuiască și să meargă după yețer ha-ra ca la început. Și Tora sfântă, care este Pomul vieții, Cel Sfânt, binecuvântat fie El, încă nu o coborâse pe pământ. Și mai mult: el însuși l-a tras pe șarpe în lume după aceea, căci este scris: „Și a băut din vin și s-a îmbătat și s-a descoperit în mijlocul cortului său”; și iată s-a explicat."
       }
     ]
   },
@@ -3368,6 +3396,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Ramban / Nahmanide (1194–1270)",
         "text": "Discută dificultatea morală centrală a pasajului: de ce e blestemat Canaan, fiul lui Ham, și nu Ham însuși, care a comis fapta? Ramban citează tradiția conform căreia Ham fusese deja binecuvântat implicit (ca fiu al lui Noe, la v.1), iar blestemul nu putea anula direct o binecuvântare anterioară, motiv pentru care s-a extins simbolic asupra descendenței sale."
+      },
+      {
+        "author": "Zohar, Noah 36:9",
+        "text": "Și de aceea e scris (Geneza 9:25) «și a zis: blestemat e Kenaan; rob al robilor va fi fraților săi». Că el a adus blesteme asupra lumii. Și la naḥaș ce e scris (Geneza 3:14): «blestemat ești dintre tot dobitocul». Aceasta e ce e scris «rob al robilor». Și de aceea e scris «Șem, Ḥam și Yafet». Aceștia trei sunt fiii lui Noaḥ cei ieșiți din teva, precum am zis."
       },
       {
         "author": "Cartea Jubileelor 7 — context/comparație",

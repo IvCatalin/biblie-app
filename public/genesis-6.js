@@ -133,6 +133,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Notează că înmulțirea omenirii, menționată aici ca simplu context istoric, pregătește scena pentru problema morală care urmează imediat — nu înmulțirea în sine e problema, ci ce se întâmplă odată ce numărul oamenilor (și al „fiicelor” lor) crește."
+      },
+      {
+        "author": "Zohar, Sifra di-Țeniuta 6:15",
+        "text": "«Și a fost când omul a început să se înmulțească pe fața pământului.» «Omul a început să se înmulțească» — aceasta este ceea ce este scris: «fiindcă și el» etc.: omul de sus. Și este scris: «pe fața pământului». (Exodul 34) «Și Moșe nu știa că pielea feței lui strălucea (karan)» — aceasta este ceea ce este scris (Geneza 3:21): «haine de piele»."
       }
     ]
   },
@@ -838,6 +842,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Talmud Babilonian, Sanhedrin 108a-108b",
         "text": "Talmudul discută explicit sensul cuvântului „vayinachem” (S-a regretat/S-a mângâiat), citând două explicații opuse. Una (Rav Dimi): Dumnezeu „S-a mângâiat” — a fost bine că a pregătit deja morminte (pământul) pentru oameni, deci judecata putea urma firesc. Cealaltă: Dumnezeu „a regretat” în sensul propriu — n-a fost bine că i-a creat, ca să-i distrugă. Ambele lecturi rămân deschise în text, o discuție remarcabilă pentru un verset care pare, la prima vedere, să sugereze că Dumnezeu Își schimbă părerea."
+      },
+      {
+        "author": "Zohar, Idra Raba 50:13",
+        "text": "Este scris (Geneza 6:6): «Și Domnul S-a căit că a făcut pe om pe pământ» — ca să excludă pe Adam de sus, care nu era pe pământ. «Și Domnul S-a căit» — aceasta s-a spus despre Zeʿir Anpin. «Și S-a întristat (vayitʿațev) în inima Lui» — nu s-a spus «a întristat» (vayaʿațev), ci «vayitʿațev» — El S-a întristat, căci de El atârnă lucrul; ca să excludă pe Cel Care nu S-a întristat. «Către inima Lui (el libo)» — nu este scris «în inima Lui», ci «către inima Lui» — ca cel care se întristează (și se plânge) Stăpânului său, căci a arătat aceasta inimii tuturor inimilor."
       }
     ],
     "fidela": "Şi aceasta l-a făcut pe DOMNUL să se pocăiască pentru că a făcut pe om pe pământ şi l-a mâhnit în inima lui.",
@@ -1152,6 +1160,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Contrastul dintre v. 7 (planul de distrugere totală) și v. 8 („dar Noe a găsit bunăvoință”) e marcat de o singură conjuncție ebraică simplă — dar desparte întreaga narațiune în două direcții complet opuse: judecată universală versus salvare individuală."
+      },
+      {
+        "author": "Zohar, Noah 1:9",
+        "text": "Și taina (altă lecțiune: aceasta) a totului: «cu Dumnezeu a umblat Noaḥ» — exact, că nu s-a despărțit de El niciodată. Și ca să fie el pe pământ după chipul de sus: om ṭadiq, Yesod al lumii. Berit al păcii, pacea lumii. «Om al pământului» cu adevărat. Și de aceea (Geneza 6:8) «și Noaḥ a găsit ḥen în ochii Domnului»."
       }
     ]
   },
@@ -1430,6 +1442,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Menționarea celor trei fii ai lui Noe, imediat după introducerea lui ca „om drept”, pregătește genealogia care va continua după Potop — Șem, Ham și Iafet devin, practic, strămoșii întregii omeniri de după dezastru."
+      },
+      {
+        "author": "Zohar, Noah 10:1",
+        "text": "„Și Noaḥ a născut trei fii” etc. A zis Rabbi Ḥiyya lui Rabbi Yehudah: Vino și îți voi spune cuvinte pe care le-am auzit despre aceasta. O pildă: un om care a băgat în pântecele femeii (altă versiune: rodul pântecelui ei) o singură dată, și ies doi sau trei fii; (fiecare) unul se deosebește de altul în căile lui și în faptele lui: acesta drept, acesta nelegiuit și acesta de mijloc. Tot așa și aici: trei noduri ale duhului merg și plutesc și se cuprind în trei lumi."
       }
     ]
   },
@@ -1539,6 +1555,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "„Jaful” (חָמָס) menționat aici, spre deosebire de păcatele sexuale sau idolatria, e înțeles de Rashi ca fiind în special furtul și violența economică — un păcat „între oameni”, judecat mai aspru, spune tradiția, decât păcatele „doar” împotriva lui Dumnezeu, tocmai pentru că afectează direct semenul."
+      },
+      {
+        "author": "Zohar, Noah 21:6",
+        "text": "A zis Rabbi Șimʿon: nu ai în lume un cuvânt pentru care Sfântul, binecuvântat fie El, gelozește ca vinovăția berit-ului, precum zici (Leviticul 26:25) «sabie care răzbună răzbunarea berit-ului». Și vino și vezi: nu s-a împlinit vinovăția neamului potopului decât pentru că au greșit prin stricare (a căilor lor) pe pământ. Și deși se prădau unul pe altul, precum e scris «și s-a umplut pământul de ḥamas» (și ḥamas era din totul, și de aceea) și e scris «că s-a umplut pământul de ḥamas dinaintea lor». Cu toate acestea «și s-a stricat pământul înaintea lui Dumnezeu». Și «iată, îi stric» — măsură contra măsură: «iată, îi stric» în vinovăția stricării."
       }
     ]
   },
@@ -1662,6 +1682,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Talmud Babilonian, Sanhedrin 108a-108b",
         "text": "Rabi Iohanan interpretează expresia „toată firea își pervertise calea” drept referire la o corupție care a depășit granițele speciei: oamenii ar fi împerecheat animale domestice cu sălbatice, dincolo de speciile lor, și oameni cu animale — o corupție generalizată a ordinii naturale, nu doar violență morală între oameni."
+      },
+      {
+        "author": "Zohar, Noah 7:1",
+        "text": "„Și Elohim (Dumnezeu) a văzut pământul, și iată era stricat.” De ce era stricat? Pentru că „orice făptură își stricase calea”, cum s-a spus. Rabbi Ḥiyya a deschis versetul și a zis: (Iona 3:10) „Și Elohim a văzut faptele lor, că s-au întors de la calea lor cea rea.” Vino și vezi: în ceasul în care oamenii sunt drepți și păzesc poruncile Torei, atunci pământul se întărește și toată bucuria se află în el. Care este motivul? Pentru că Șekhinah sălășluiește pe pământ, și atunci toți, cei de sus și cei de jos, sunt în bucurie. Și când oamenii își strică căile și nu păzesc poruncile Torei și păcătuiesc înaintea Stăpânului lor, atunci, ca să zicem așa, o împing pe Șekhinah din lume, și pământul rămâne stricat. Căci Șekhinah este împinsă și nu sălășluiește pe el, și atunci se strică. Care este motivul că se strică? Pentru că un alt duh sălășluiește pe el, care strică lumea. Și de aceea spunem că Israel dă tărie lui Elohim, căci ei țin lumea. Elohim – aceasta este Șekhinah."
       }
     ],
     "fidela": "Şi Dumnezeu a privit peste pământ şi, iată, acesta era corupt, pentru că toată făptura şi-a corupt calea pe pământ.",
@@ -1830,6 +1854,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Talmud Babilonian, Sanhedrin 108a-108b",
         "text": "Rabi Iohanan notează un detaliu remarcat des: deși generația Potopului încălcase practic fiecare poruncă morală, sentința lor n-a fost pecetluită definitiv decât după ce s-au apucat și de jaf/tâlhărie — „s-a umplut pământul de jaf”. Jaful pare să fi fost păcatul care a întors balanța final, nu doar unul dintre multe."
+      },
+      {
+        "author": "Zohar, Noah 16:10",
+        "text": "Și omul care este drept este el însuși jertfă pentru ispășire. Iar altul, care nu este drept, nu este jertfă, pentru că are în el un cusur, căci este scris: (Leviticul 22) „căci nu va fi primit” etc. Și de aceea ṭadiqii sunt ispășirea lumii și sunt jertfa în lume (până aici). Vino și vezi: „Și Dumnezeu i-a zis lui Noaḥ: Sfârșitul oricărei făpturi a venit înaintea Mea” – ca să ia îngăduință să întunece fețele oamenilor lumii. Și de aceea: „iată, Eu îi voi nimici împreună cu pământul”. (Și de aceea: „Fă-ți o arcă din lemn de gofer”, ca să scapi în ea, și el să nu poată stăpâni asupra ta. Rabbi Ḥiyya și Rabbi Yose mergeau pe drum; a zis unul:) Este scris: „Și Noaḥ a făcut întocmai cum i-a poruncit Domnul.”"
       }
     ],
     "fidela": "Şi Dumnezeu i-a spus lui Noe: Sfârşitul a toată făptura a ajuns înaintea mea, fiindcă pământul este umplut cu violenţă prin ei; şi, iată, îi voi nimici împreună cu pământul.",
@@ -2523,6 +2551,10 @@ window.CHAPTER_DATA = [
       {
         "author": "Rashi (1040–1105)",
         "text": "Anunțul explicit „Eu, chiar Eu, voi aduce potopul” — cu accentuarea pronumelui — subliniază, spune Rashi, că judecata vine direct de la Dumnezeu, nu printr-un intermediar sau o forță naturală întâmplătoare."
+      },
+      {
+        "author": "Zohar, Noah 19:1",
+        "text": "«Și Eu, iată, aduc potopul de ape pe pământ.» Rabbi Yehudah a deschis (Numeri 20:13): «acestea sunt apele Merivah, unde s-au certat fiii lui Israel cu Domnul și S-a sfințit în ei». Și oare în alt loc nu s-au certat fiii lui Israel cu Domnul? Ce e deosebit aici că zice «acestea sunt apele Merivah» și nu altele? Ci aceste ape ale Merivah erau cu adevărat, că au dat putere și tărie stăpânilor judecății ca să se întărească. Pentru că sunt ape dulci și sunt ape amare. Sunt ape limpezi și sunt ape tulburi. Sunt ape de pace și sunt ape de ceartă. Și de aceea «acestea sunt apele Merivah unde s-au certat fiii lui Israel cu Domnul» — că au atras asupra lor pe cine nu trebuia și s-au întinat în el; acesta e ce e scris «și S-a sfințit în ei»."
       }
     ]
   },
