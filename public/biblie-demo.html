@@ -803,7 +803,7 @@
   }
   .lib-reader-chapter-pill{
     flex:1 1 auto;
-    min-width:0;
+    min-width:0; width:100%; max-width:100%; box-sizing:border-box; overflow:hidden;
     display:flex; align-items:center; justify-content:center; gap:6px;
     background:var(--parchment);
     border:1px solid var(--line);
@@ -817,14 +817,23 @@
     position:relative;
   }
   #lib-reader-book-label{
+    max-width:42%;
     overflow:hidden;
     text-overflow:ellipsis;
     white-space:nowrap;
     min-width:0;
     flex:1 1 auto;
   }
-  .book-pill-divider, #lib-reader-chapter-label, .book-pill-arrow{
+  .book-pill-divider, .book-pill-arrow{
     flex-shrink:0;
+  }
+  #lib-reader-chapter-label{
+    flex:1 1 auto;
+    min-width:0;
+    text-align:left;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
   }
   .lib-reader-chapter-pill-wrap{
     position:relative;
@@ -6649,7 +6658,7 @@ const SUBFOLDER_CARD_IMAGES = {
     const book = currentBook;
     const total = totalChapters(book);
     const ch0 = book.chapters ? book.chapters[currentChapterIdx] : null;
-    readerBookLabel.textContent = (book.name || "").replace(/\s*\([^)]*\)\s*$/g, "").replace(/\s*\([^)]*\)\s*$/g, "").trim();
+    readerBookLabel.textContent = (book.name_ro || book.name || "").replace(/\s*\([^)]*\)\s*$/g, "").replace(/\s*\([^)]*\)\s*$/g, "").trim();
     readerBookLabel.title = book.name || "";
     // La lucrări cu titlu propriu per capitol (ex. Haftarot — fiecare "capitol"
     // e de fapt o Haftarah separată, cu titlul ei), pila mică de sus arată acel
@@ -6840,10 +6849,10 @@ const SUBFOLDER_CARD_IMAGES = {
     readerChapterDropdown.innerHTML = "";
     readerChapterDropdown.classList.add("lib-reader-book-list");
     const isHaftarot = typeof HAFTAROT_BOOKS !== "undefined" && siblings === HAFTAROT_BOOKS;
-    siblings.forEach(sib => {
+    siblings.filter(sib => sib.available !== false || sib.slug === currentBook.slug).forEach(sib => {
       const btn = document.createElement("button");
       btn.className = "chapter-num-btn lib-reader-book-btn" + (sib.slug === currentBook.slug ? " active" : "");
-      btn.textContent = (sib.name || "").replace(/\s*\([^)]*\)\s*$/g, "").trim();
+      btn.textContent = sib.name_ro ? sib.name_ro.trim() : (sib.name || "").replace(/s*([^)]*)s*$/g, "").trim();
       btn.addEventListener("click", (e) => {
         e.stopPropagation();
         closeReaderChapterDropdown();
