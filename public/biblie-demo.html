@@ -6852,7 +6852,7 @@ const SUBFOLDER_CARD_IMAGES = {
     siblings.filter(sib => sib.available !== false || sib.slug === currentBook.slug).forEach(sib => {
       const btn = document.createElement("button");
       btn.className = "chapter-num-btn lib-reader-book-btn" + (sib.slug === currentBook.slug ? " active" : "");
-      btn.textContent = sib.name_ro ? sib.name_ro.trim() : (sib.name || "").replace(/s*([^)]*)s*$/g, "").trim();
+      btn.textContent = sib.name_ro ? sib.name_ro.trim() : (sib.name || "").replace(/\s*\([^)]*\)\s*$/g, "").trim();
       btn.addEventListener("click", (e) => {
         e.stopPropagation();
         closeReaderChapterDropdown();
