@@ -2,7 +2,7 @@
 // [{book, ch, title, blocks:[{n|null, kind:'p'|'h', t}]}]
 const fs = require("fs");
 const dec = s => s.replace(/&nbsp;/g, " ").replace(/&aelig;/g,"æ").replace(/&oelig;/g,"œ").replace(/&uuml;/g,"ü").replace(/&euml;/g,"ë").replace(/&iuml;/g,"ï").replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#39;|&rsquo;/g, "'").replace(/&lsquo;/g, "'").replace(/&ldquo;|&rdquo;/g, '"').replace(/&mdash;/g, "—").replace(/&ndash;/g, "–").replace(/&hellip;/g, "…").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&#(\d+);/g, (m, d) => String.fromCharCode(+d));
-const clean = s => dec(s.replace(/<span class="stiki"[^>]*>(.*?)<\/span>/gs, " ($1) ").replace(/<sup[^>]*>.*?<\/sup>/gs, "").replace(/<q>/g, "“").replace(/<\/q>/g, "”").replace(/<[^>]+>/g, "")).replace(/\s*\[[^\]]*\]/g, "").replace(/\s+/g, " ").replace(/\s+([,.;:])/g, "$1").trim();
+const clean = s => dec(s.replace(/<span class="stiki"[^>]*>(.*?)<\/span>/gs, " ($1) ").replace(/<sup[^>]*>.*?<\/sup>/gs, "").replace(/<q>/g, "“").replace(/<\/q>/g, "”").replace(/<[^>]+>/g, "")).replace(/\s*\[[^\]]*\]/g, "").replace(/ northwest of Jerusalem\..*?\}\}-->/s, "").replace(/ vaguest information.*?\}\}-->/s, "").replace(/ simplest explanation is that.*?\}\}-->/s, "").replace(/\s+/g, " ").replace(/\s+([,.;:])/g, "$1").trim();
 const out = [];
 for (let b = 1; b <= 10; b++) {
   const h = fs.readFileSync(__dirname + "/raw/b" + String(b).padStart(2, "0") + ".htm", "utf8");
