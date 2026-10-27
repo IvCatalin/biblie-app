@@ -120,7 +120,7 @@ Cele 63 de tratate de Mișna sunt gata; lipsesc aceste 8 lucrări separate.
 
 ## Kabbala — lipsă (din 73 sunt gata 21) (52)
 
-Zohar: sunt gata Idra Zuta, Idra Raba și Sifra DiTzniuta; lipsesc comentariile și Tikkunei Zohar. Restul de mai jos sunt lucrări întregi nefăcute.
+Zohar: textul de bază e COMPLET în aplicație (Zohar: Introducere + 48 de parașe + Addenda I–III, 16.236 paragrafe; plus Zohar Hadaș, Idra Zuta, Idra Raba, Sifra di-Țeniuta, Beur HaGra). Lipsesc doar Tikkunei Zohar și comentariile (Sulam, Mikdash Melekh, Ketem Paz, Ohr HaChammah, Nefesh David, Yahel Ohr). Atenție la licență pentru Sulam (Ashlag, sec. XX). Sha'arei Orah: există o traducere parțială în de-procesat (Introducere + Poarta I bune; Porțile III–X mult prea scurte față de ebraică) — de refăcut complet. Restul de mai jos sunt lucrări întregi nefăcute.
 
 - **Mikdash Melekh, RaMaZ Commentary on Zohar** (`kab-zo-mikdash-melekh,-ramaz-commentary-on-zohar`) — parte din corpusul Zohar
 - **Mikdash Melekh on Zohar** (`kab-zo-mikdash-melekh-on-zohar`) — parte din corpusul Zohar
