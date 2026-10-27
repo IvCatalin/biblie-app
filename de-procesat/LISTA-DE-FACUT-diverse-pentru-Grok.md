@@ -249,14 +249,16 @@ Sugestie de sursă: traduceri engleze de domeniu public (Ante-Nicene Fathers / N
 - Maamar Zohar HaRakia — rămâne strict la cele 5 fragmente CC0 (regulă fermă).
 - Papias — de verificat dacă se pot adăuga fragmentele din ediția Lightfoot (domeniu public) față de cele 10 din ANF.
 
-## Verificare text-cu-text a lucrărilor apocrife (27 oct. 2026) — constatări
+## Verificare text-cu-text a lucrărilor apocrife (27 oct. 2026) — stare finală
 
-**Corectate:** Heracleon (refăcut din Origen, ANF; fragmentele la Ioan 1–2) și Evanghelia lui Petru (retradusă integral după James; aveau omisiuni și o greșeală de sens). Basilides: verificat față de Irineu 1.24, Eusebiu IV.7 și Clement — fidel (o greșeală de scriere corectată). Papias: cele 10 fragmente corespund ANF I.
+**Retraduse integral din surse de domeniu public (înainte erau rezumate, adaptări libere sau conțineau pasaje care nu se află în sursă):**
+Apocalipsa lui Petru (James 1924), Faptele lui Ioan (James 1924, cap. 18–115 + episoadele latine), Evanghelia lui Nicodim (Walker, ANF 8), Evanghelia lui Pseudo-Matei (Walker, ANF 8), Faptele lui Pavel și Tecla (Walker, ANF 8), Evanghelia lui Bartolomeu (James 1924, toate cele 5 părți), 2 Enoh (Platt/Morfill–Charles), 2 Baruh (Charles 1918, 87 capitole), 3 Baruh (Hughes, APOT II), Martiriul și Înălțarea lui Isaia (Charles 1900, 11 capitole), Ahiqar (ediția Platt), Oracolele Sibiline (înlocuit rezumatul cu cărțile III–V, Bate 1918), Heracleon (fragmentele la Ioan 1–2, Origen/ANF), Evanghelia lui Petru (James 1924).
 
-**De făcut (necesită text-sursă pe care Claude Code nu-l poate descărca singur):**
-- Heracleon, fragmentele la Ioan 4, 8, 13: Origen, Comentariul la Ioan, cărțile 13, 19, 20, 28, 32 (trad. A. Menzies, Ante-Nicene Fathers, vol. X) — textul trebuie copiat de pe ccel.org sau archive.org.
-- Faptele lui Filip: nu există traducere engleză integrală de domeniu public (Bovon, 2012, are drepturi de autor); James 1924 (pp. 439–453) e singura sursă PD — textul trebuie copiat, apoi verificat față de ce e în aplicație.
-- Faptele lui Ioan: în aplicație sunt 24 de capitole scurte (~6.700 caractere), iar James 1924 are traducerea mult mai întinsă (~115.000 caractere în engleză) — de completat.
-- Faptele lui Toma: ~83% din lungimea lui James — de verificat unde lipsesc fragmente.
-- „Pătimirea lui Andrei” (Pătimiri) se suprapune acum cu capitolele 39–40 din „Faptele lui Andrei” — de hotărât unde rămâne.
-- Restul lucrărilor din Apocrife (Charles, Walker, Mattison etc.): neverificate text-cu-text; verificarea cere textul-sursă la îndemână.
+**Verificate și găsite fidele față de sursă:** Basilides, Papias, Faptele lui Toma (James), Faptele lui Filip (traducerea analizei lui James), Apocalipsa lui Pavel (James), Apocalipsa lui Toma (James), Protoevanghelia lui Iacov, Apocalipsa lui Moise, Viața lui Adam și a Evei, Testamentul lui Moise, Apocalipsa lui Avraam (Box), Testamentele celor 12 patriarhi (Charles), 1 Enoh (Charles), Odele și Psalmii lui Solomon, Scrisoarea lui Aristeas.
+
+**Rămase / limite:**
+- Heracleon, fragmentele la Ioan 4, 8, 13: ar cere Origen, Comentariul la Ioan, cărțile 13, 19, 20, 28, 32 (trad. A. Menzies, Ante-Nicene Fathers, vol. X); volumul nu a putut fi descărcat. O traducere a tuturor fragmentelor există pe un site web, dar fără atribuire clară a traducătorului, deci nu a fost folosită.
+- Oracolele Sibiline: cărțile I–II și VI–XIV nu sunt incluse (sursă: Terry 1890, domeniu public, ~330.000 caractere în engleză).
+- 2 Enoh: s-a folosit forma scurtă din ediția Platt; forma lungă (Charles–Forbes) are încă ~25% text în plus.
+- „Pătimirea lui Andrei” (Pătimiri) se suprapune cu capitolele 39–40 din „Faptele lui Andrei” — de hotărât unde rămâne (nu s-a șters nimic).
+- Neverificate text-cu-text: Jubileele, 4 Ezra, Iosif și Aseneth, Enoh etiopian (doar eșantioane verificate), lucrările gnostice scurte (Ptolemeu, Naaseeni, Epifanes, Diagrame ofite, Excerpta Theodoti).
