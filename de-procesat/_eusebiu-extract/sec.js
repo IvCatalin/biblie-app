@@ -9,7 +9,7 @@ function sections(book, ch) {
   const anyNum = c.blocks.some(k => k.kind === 'p' && k.n != null);
   const out = []; let pre = '';
   for (const k of c.blocks) {
-    if (k.kind === 'h') { pre += (pre ? ' ' : '') + k.t + ':'; continue; }
+    if (k.kind === 'h') { pre += (pre ? ' ' : '') + k.t.replace(/[.:]$/, '') + ':'; continue; }
     const t = (pre ? pre + ' ' : '') + k.t; pre = '';
     if (!anyNum) { out.push({ w: out.length + 1, t }); continue; }
     if (k.n != null) out.push({ w: k.n, t });
