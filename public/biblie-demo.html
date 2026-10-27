@@ -552,6 +552,9 @@
   /* ================= BIBLIOTECĂ — foldere Diverse (canonic/deuterocanonic/apocrife/patristice) ================= */
   .lib-acc-body{display:none; padding:2px 0 8px 12px; border-left:2px solid var(--gold-bright, #c9a25a);}
   .lib-acc-wrap.open > .lib-acc-body{display:block;}
+  .lib-acc-sub.open > .lib-acc-body{display:block;}
+  .lib-acc-sub > .lib-book-item .lib-book-chev{transition:transform 0.2s ease;}
+  .lib-acc-sub.open > .lib-book-item .lib-book-chev{transform:rotate(180deg);}
   .lib-acc-wrap > .lib-book-item .lib-book-chev{transition:transform 0.2s ease;}
   .lib-acc-wrap.open > .lib-book-item .lib-book-chev{transform:rotate(180deg);}
   .lib-section-title{
@@ -6239,11 +6242,28 @@ const SUBFOLDER_CARD_IMAGES = {
         const multi = entry.items.filter(it => it.books).length > 1;
         entry.items.forEach(it => {
           if(!it.books) return;
+          let host = body;
           if(multi){
-            const hd = document.createElement("div");
-            hd.className = "lib-section-title";
-            hd.textContent = it.name;
-            body.appendChild(hd);
+            const sub = document.createElement("div");
+            sub.className = "lib-acc-sub";
+            const srow = document.createElement("div");
+            srow.className = "lib-book-item";
+            srow.innerHTML =
+              '<div><div class="lib-book-name">' + it.name + '</div>' +
+              '<div class="lib-book-meta">' + it.books.filter(b => /^Cartea/.test(b.label)).length + ' cărți</div></div>' +
+              '<span class="lib-book-chev">▾</span>';
+            const sbody = document.createElement("div");
+            sbody.className = "lib-acc-body";
+            srow.addEventListener("click", (e) => {
+              e.stopPropagation();
+              const was = sub.classList.contains("open");
+              body.querySelectorAll(".lib-acc-sub.open").forEach(el => el.classList.remove("open"));
+              if(!was) sub.classList.add("open");
+            });
+            sub.appendChild(srow);
+            sub.appendChild(sbody);
+            body.appendChild(sub);
+            host = sbody;
           }
           it.books.forEach(bk => {
             const r = document.createElement("div");
@@ -6256,7 +6276,7 @@ const SUBFOLDER_CARD_IMAGES = {
               e.stopPropagation();
               openReaderAtChapter(it, bk.idx);
             });
-            body.appendChild(r);
+            host.appendChild(r);
           });
         });
         row.addEventListener("click", () => {
