@@ -236,13 +236,15 @@ Sugestie de sursă: traduceri engleze de domeniu public (Ante-Nicene Fathers / N
 - **Noul Testament — 27 de cărți**: „nu e încă în arhivă locală”. NTR (Biblica) a fost respins definitiv; trebuie hotărâtă sursa (domeniu public / permisiune).
 - Vechiul Testament: indicat ca disponibil în tab-ul Biblia (în afara secțiunii Diverse).
 
-## Disponibile, dar cu lacune reale (de verificat dacă se poate îmbunătăți)
+## Disponibile, dar cu lacune — stare după verificarea din 27 oct. 2026 (făcută de Claude Code)
 
-Lacune ale manuscrisului/sursei (nu se pot umple, doar se păstrează onest): Testamentul lui Moise (text fragmentar), Evanghelia Mariei (lipsesc pag. 1–6 și 11–14), Dialogul Mântuitorului, Evanghelia Mântuitorului, Faptele lui Petru (6 secțiuni), Evanghelia lui Petru (fragment Akhmim), Evanghelii iudeo-creștine (doar citate din Părinți), Heracleon, Epifanes, Basilides, Naaseeni, Papias (fragmente).
+**Rezolvate (sursă James 1924, domeniu public):**
+- Faptele lui Petru — acum integral: fragment copt + Faptele din Vercelli I–XLI (191 secțiuni), în loc de 6 secțiuni.
+- Faptele lui Andrei — adăugate fragmentul din Vatican (38 secțiuni) și Martiriul (32 secțiuni), pe lângă epitoma lui Grigore (38 capitole).
 
-Posibil de îmbunătățit cu o sursă de domeniu public:
+**Verificate, fără ce completa (lacuna e a manuscrisului sau a sursei, nu a traducerii):** Testamentul lui Moise (text latin fragmentar, Charles 1897), Evanghelia Mariei (lipsesc pag. 1–6 și 11–14 din manuscris), Dialogul Mântuitorului, Evanghelia Mântuitorului (singurele ediții integrale sunt cu drepturi de autor), Evanghelii iudeo-creștine (doar citate din Părinți, după James), Evanghelia lui Petru (fragmentul Akhmim, 14 capitole), Epifanes, Naaseeni, Basilides, Heracleon (fragmente), Papias (fragmente).
 
-- **Faptele lui Filip** — acum e rezumat cu pasaje traduse (după James), nu textul integral.
-- **Faptele lui Andrei** — acum doar epitoma latină (Grigore de Tours), 38 capitole.
-- **Maamar Zohar HaRakia** — rămâne strict la cele 5 fragmente CC0 (regulă fermă).
-- **Asarah Perakim LeRamchal** — rezumat al Etz Chaim în 10 capitole (completă ca atare).
+**Rămase de făcut:**
+- Faptele lui Filip — James dă doar rezumat cu pasaje traduse; textul integral există doar în greacă (Bonnet) — traducere din greacă, lucrare mare.
+- Maamar Zohar HaRakia — rămâne strict la cele 5 fragmente CC0 (regulă fermă).
+- Papias — de verificat dacă se pot adăuga fragmentele din ediția Lightfoot (domeniu public) față de cele 10 din ANF.
