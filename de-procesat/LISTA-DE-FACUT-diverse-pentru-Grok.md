@@ -248,3 +248,15 @@ Sugestie de sursă: traduceri engleze de domeniu public (Ante-Nicene Fathers / N
 - Faptele lui Filip — James dă doar rezumat cu pasaje traduse; textul integral există doar în greacă (Bonnet) — traducere din greacă, lucrare mare.
 - Maamar Zohar HaRakia — rămâne strict la cele 5 fragmente CC0 (regulă fermă).
 - Papias — de verificat dacă se pot adăuga fragmentele din ediția Lightfoot (domeniu public) față de cele 10 din ANF.
+
+## Verificare text-cu-text a lucrărilor apocrife (27 oct. 2026) — constatări
+
+**Corectate:** Heracleon (refăcut din Origen, ANF; fragmentele la Ioan 1–2) și Evanghelia lui Petru (retradusă integral după James; aveau omisiuni și o greșeală de sens). Basilides: verificat față de Irineu 1.24, Eusebiu IV.7 și Clement — fidel (o greșeală de scriere corectată). Papias: cele 10 fragmente corespund ANF I.
+
+**De făcut (necesită text-sursă pe care Claude Code nu-l poate descărca singur):**
+- Heracleon, fragmentele la Ioan 4, 8, 13: Origen, Comentariul la Ioan, cărțile 13, 19, 20, 28, 32 (trad. A. Menzies, Ante-Nicene Fathers, vol. X) — textul trebuie copiat de pe ccel.org sau archive.org.
+- Faptele lui Filip: nu există traducere engleză integrală de domeniu public (Bovon, 2012, are drepturi de autor); James 1924 (pp. 439–453) e singura sursă PD — textul trebuie copiat, apoi verificat față de ce e în aplicație.
+- Faptele lui Ioan: în aplicație sunt 24 de capitole scurte (~6.700 caractere), iar James 1924 are traducerea mult mai întinsă (~115.000 caractere în engleză) — de completat.
+- Faptele lui Toma: ~83% din lungimea lui James — de verificat unde lipsesc fragmente.
+- „Pătimirea lui Andrei” (Pătimiri) se suprapune acum cu capitolele 39–40 din „Faptele lui Andrei” — de hotărât unde rămâne.
+- Restul lucrărilor din Apocrife (Charles, Walker, Mattison etc.): neverificate text-cu-text; verificarea cere textul-sursă la îndemână.
