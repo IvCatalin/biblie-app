@@ -550,6 +550,10 @@
   .chapter-num-btn:active{background:var(--gold-bright); color:#fff8e8;}
 
   /* ================= BIBLIOTECĂ — foldere Diverse (canonic/deuterocanonic/apocrife/patristice) ================= */
+  .lib-acc-body{display:none; padding:2px 0 8px 12px; border-left:2px solid var(--gold-bright, #c9a25a);}
+  .lib-acc-wrap.open > .lib-acc-body{display:block;}
+  .lib-acc-wrap > .lib-book-item .lib-book-chev{transition:transform 0.2s ease;}
+  .lib-acc-wrap.open > .lib-book-item .lib-book-chev{transform:rotate(180deg);}
   .lib-section-title{
     font-family:'Inter', sans-serif;
     font-size:12.5px;
@@ -6220,6 +6224,54 @@ const SUBFOLDER_CARD_IMAGES = {
     }
     let currentGroupBody = null;
     function renderBookRow(entry, container){
+      if(entry.isSubgroup && (entry.items || []).some(it => it.books && it.books.length)){
+        const wrap = document.createElement("div");
+        wrap.className = "lib-acc-wrap";
+        const nBooks = (entry.items || []).reduce((s, it) => s + (it.books || []).filter(b => /^Cartea/.test(b.label)).length, 0);
+        const row = document.createElement("div");
+        row.className = "lib-book-item";
+        row.innerHTML =
+          '<div><div class="lib-book-name">' + entry.label + '</div>' +
+          '<div class="lib-book-meta">' + nBooks + ' cărți</div></div>' +
+          '<span class="lib-book-chev">▾</span>';
+        const body = document.createElement("div");
+        body.className = "lib-acc-body";
+        const multi = entry.items.filter(it => it.books).length > 1;
+        entry.items.forEach(it => {
+          if(!it.books) return;
+          if(multi){
+            const hd = document.createElement("div");
+            hd.className = "lib-section-title";
+            hd.textContent = it.name;
+            body.appendChild(hd);
+          }
+          it.books.forEach(bk => {
+            const r = document.createElement("div");
+            r.className = "lib-book-item";
+            r.innerHTML =
+              '<div><div class="lib-book-name">' + bk.label + '</div>' +
+              (bk.theme ? '<div class="lib-book-meta">' + bk.theme + '</div>' : '') + '</div>' +
+              '<span class="lib-book-go">→</span>';
+            r.addEventListener("click", (e) => {
+              e.stopPropagation();
+              openReaderAtChapter(it, bk.idx);
+            });
+            body.appendChild(r);
+          });
+        });
+        row.addEventListener("click", () => {
+          const wasOpen = wrap.classList.contains("open");
+          bookList.querySelectorAll(".lib-acc-wrap.open").forEach(el => el.classList.remove("open"));
+          if(!wasOpen){
+            wrap.classList.add("open");
+            wrap.scrollIntoView({ block: "nearest" });
+          }
+        });
+        wrap.appendChild(row);
+        wrap.appendChild(body);
+        container.appendChild(wrap);
+        return;
+      }
       if(entry.isSubgroup){
         const item = document.createElement("div");
         item.className = "lib-book-item";
@@ -6269,35 +6321,18 @@ const SUBFOLDER_CARD_IMAGES = {
         currentGroupBody = body;
         return;
       }
-      if(entry.books && entry.books.length){
-        const target = currentGroupBody || bookList;
-        if(items.filter(x => x.books).length > 1){
-          const hd = document.createElement("div");
-          hd.className = "lib-section-title";
-          hd.textContent = entry.name;
-          target.appendChild(hd);
-        }
-        entry.books.forEach(bk => {
-          const row = document.createElement("div");
-          row.className = "lib-book-item";
-          const left = document.createElement("div");
-          left.innerHTML = '<div class="lib-book-name">' + bk.label + '</div>' + (bk.theme ? '<div class="lib-book-meta">' + bk.theme + '</div>' : '');
-          row.appendChild(left);
-          const go = document.createElement("span");
-          go.className = "lib-book-go";
-          go.textContent = "→";
-          row.appendChild(go);
-          row.addEventListener("click", () => openReaderAtChapter(entry, bk.idx));
-          target.appendChild(row);
-        });
-        return;
-      }
       renderBookRow(entry, currentGroupBody || bookList);
     });
 
     // Un singur handler central (event delegation): clic pe un titlu de secțiune
     // deschide/închide acea secțiune; clic oriunde altundeva, în afara secțiunii
     // deschise, o închide automat (click-outside-to-close / outside click handler).
+    if(!folderPanel.dataset.accBound){
+      folderPanel.dataset.accBound = "1";
+      folderPanel.addEventListener("click", (e) => {
+        bookList.querySelectorAll(".lib-acc-wrap.open").forEach(el => { if(!el.contains(e.target)) el.classList.remove("open"); });
+      });
+    }
     if(!bookList.dataset.accordionBound){
       bookList.dataset.accordionBound = "1";
       bookList.addEventListener("click", (e) => {
