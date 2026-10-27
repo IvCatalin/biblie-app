@@ -20,7 +20,7 @@ for (const f of files) {
     if (ob !== cb) p.push(`paranteze drepte ${ob}/${cb}`);
     const op = (t.match(/\(/g) || []).length, cp = (t.match(/\)/g) || []).length;
     if (op !== cp) p.push(`paranteze ${op}/${cp}`);
-    if (/Whiston|\[GREEK\]|\[GREACĂ\]|TODO|\?\?\?|traducere proprie|nu s-a inventat/i.test(t)) p.push('notă de proces / marcaj');
+    if (/McGiffert|\[GREEK\]|\[GREACĂ\]|TODO|\?\?\?|traducere proprie|nu s-a inventat/i.test(t)) p.push('notă de proces / marcaj');
     if (/\b(the|of|and|which|thou|thee|hath|unto)\b/.test(t)) p.push('engleză');
     if (/[^\u0000-ɏ‐-‧„”«»’‘–—…]/.test(t)) p.push('caracter neobișnuit');
     if (p.length) { bad++; console.log(`${f} §${v.w}: ${p.join('; ')}`); }
