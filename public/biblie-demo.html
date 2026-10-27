@@ -6870,6 +6870,51 @@ const SUBFOLDER_CARD_IMAGES = {
     }
   }
 
+  // Lucrări împărțite în cărți (Josephus, Eusebiu): clic pe numele din pilă arată cărțile (I, II, …) ale lucrării curente
+  function collectWorkBooks(book){
+    const chs = book && Array.isArray(book.chapters) ? book.chapters : [];
+    const list = [];
+    chs.forEach((c, i) => {
+      if(!c || c.book === undefined) return;
+      if(!list.some(x => x.book === c.book)) list.push({ book: c.book, idx: i });
+    });
+    return list.length > 1 ? list : null;
+  }
+
+  function buildWorkBooksDropdown(list){
+    readerChapterDropdown.innerHTML = "";
+    readerChapterDropdown.classList.add("lib-reader-book-list");
+    const curCh = currentBook.chapters[currentChapterIdx];
+    const curBook = curCh ? curCh.book : null;
+    list.forEach(item => {
+      const btn = document.createElement("button");
+      btn.className = "chapter-num-btn lib-reader-book-btn" + (item.book === curBook ? " active" : "");
+      btn.textContent = item.book === "" ? "Prefață" : "Cartea " + item.book;
+      btn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        currentChapterIdx = item.idx;
+        closeReaderChapterDropdown();
+        readerChapterDropdown.classList.remove("lib-reader-book-list");
+        renderChapter();
+      });
+      readerChapterDropdown.appendChild(btn);
+    });
+    const sibs = findSiblingBooks(currentBook.slug) || [];
+    const stem = s => (s || "").replace(/\d+$/, "");
+    sibs.filter(sib => sib.slug !== currentBook.slug && sib.available !== false && stem(sib.slug) === stem(currentBook.slug)).forEach(sib => {
+      const btn = document.createElement("button");
+      btn.className = "chapter-num-btn lib-reader-book-btn";
+      btn.textContent = (sib.name || "") + " →";
+      btn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        closeReaderChapterDropdown();
+        readerChapterDropdown.classList.remove("lib-reader-book-list");
+        openReader(sib);
+      });
+      readerChapterDropdown.appendChild(btn);
+    });
+  }
+
   function findSiblingBooks(slug){
     // Haftarot nu mai trăiește (varianta completă) în LIBRARY, ci în HAFTAROT_BOOKS
     // (vezi secțiunea BOOKS/AVAILABLE) — verificăm întâi acolo.
@@ -6953,8 +6998,11 @@ const SUBFOLDER_CARD_IMAGES = {
     const alreadyShown = readerChapterDropdown.classList.contains("show");
     if(alreadyShown){ closeReaderChapterDropdown(); return; }
     const clickedBookLabel = e.target.closest && e.target.closest("#lib-reader-book-label");
+    const workBooks = clickedBookLabel ? collectWorkBooks(currentBook) : null;
     const siblings = clickedBookLabel ? findSiblingBooks(currentBook.slug) : null;
-    if(clickedBookLabel && siblings && siblings.length > 1){
+    if(workBooks){
+      buildWorkBooksDropdown(workBooks);
+    } else if(clickedBookLabel && siblings && siblings.length > 1){
       buildBookDropdown(siblings);
     } else {
       readerChapterDropdown.classList.remove("lib-reader-book-list");
