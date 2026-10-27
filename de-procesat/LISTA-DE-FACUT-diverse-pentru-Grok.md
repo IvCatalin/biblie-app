@@ -29,7 +29,6 @@ Generat din aplicație la 27 oct. 2026 (biblie-demo.html, LIBRARY). Cifre exacte
 | Evanghelii | 7 din 7 | 0 |
 | Scrieri Gnostice | 27 din 27 | 0 |
 | Fapte apostolice | 6 din 6 | 0 |
-| Pătimiri | 1 din 1 | 0 |
 | Apocalipse | 3 din 3 | 0 |
 | Istorici | 5 din 5 | 0 |
 | Părinți Apostolici | 16 din 16 | 0 |
@@ -256,9 +255,11 @@ Apocalipsa lui Petru (James 1924), Faptele lui Ioan (James 1924, cap. 18–115 +
 
 **Verificate și găsite fidele față de sursă:** Basilides, Papias, Faptele lui Toma (James), Faptele lui Filip (traducerea analizei lui James), Apocalipsa lui Pavel (James), Apocalipsa lui Toma (James), Protoevanghelia lui Iacov, Apocalipsa lui Moise, Viața lui Adam și a Evei, Testamentul lui Moise, Apocalipsa lui Avraam (Box), Testamentele celor 12 patriarhi (Charles), 1 Enoh (Charles), Odele și Psalmii lui Solomon, Scrisoarea lui Aristeas.
 
+**Lucrări gnostice scurte verificate și reparate (27 oct. 2026):** Excerpta ex Theodoto (retradusă integral, 86 de secțiuni, după Casey 1934), Epifanes (fragmentele din «Despre dreptate», după Clement, Stromata III,2, text latin), Ptolemeu (Epistola către Flora, integral din greaca lui Epifanie, Panarion 33.3–7), Diagrame ofite (Origen, Contra lui Celsus VI.24–38 și Irineu I.30), Marcion (mărturiile lui Tertulian despre Antiteze; începutul Evangheliei), Evanghelia Adevărului (completată integral, după Mattison), Heracleon (fragmentele la Ioan 4 și 8, din greaca lui Origen). Verificate fără modificări de text: Naaseeni, Evanghelia Mariei, Cartea secretă a lui Iacov, Evanghelia lui Toma, Evanghelia lui Filip, Evanghelii iudeo-creștine. Scoase notele de proces la Dialogul Mântuitorului și Evanghelia Mântuitorului.
+
 **Rămase / limite:**
-- Heracleon, fragmentele la Ioan 4, 8, 13: ar cere Origen, Comentariul la Ioan, cărțile 13, 19, 20, 28, 32 (trad. A. Menzies, Ante-Nicene Fathers, vol. X); volumul nu a putut fi descărcat. O traducere a tuturor fragmentelor există pe un site web, dar fără atribuire clară a traducătorului, deci nu a fost folosită.
-- Oracolele Sibiline: cărțile I–II și VI–XIV nu sunt incluse (sursă: Terry 1890, domeniu public, ~330.000 caractere în engleză).
+- Heracleon, fragmentul la Ioan 13 (Origen, Comentariu la Ioan, cartea 32): textul grec nu a fost parcurs.
+- Dialogul Mântuitorului și Evanghelia Mântuitorului: nu s-a găsit o sursă de domeniu public accesibilă pentru a le verifica text cu text (traducerile disponibile sunt sub copyright).
+- Oracolele Sibiline: cărțile III–V sunt după Bate (1918), I–II și VI–VIII, XI–XIV după Terry (1890); cărțile IX–X nu s-au păstrat. Textul Terry are multe erori de OCR; unele locuri sunt marcate […].
 - 2 Enoh: s-a folosit forma scurtă din ediția Platt; forma lungă (Charles–Forbes) are încă ~25% text în plus.
-- „Pătimirea lui Andrei” (Pătimiri) se suprapune cu capitolele 39–40 din „Faptele lui Andrei” — de hotărât unde rămâne (nu s-a șters nimic).
-- Neverificate text-cu-text: Jubileele, 4 Ezra, Iosif și Aseneth, Enoh etiopian (doar eșantioane verificate), lucrările gnostice scurte (Ptolemeu, Naaseeni, Epifanes, Diagrame ofite, Excerpta Theodoti).
+- Neverificate text-cu-text: Jubileele, 4 Ezra, Iosif și Aseneth, Enoh etiopian (doar eșantioane verificate).
