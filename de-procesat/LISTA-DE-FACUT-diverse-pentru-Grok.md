@@ -1,6 +1,6 @@
 # Ce lipsește în secțiunea DIVERSE — listă pentru Grok
 
-Generat din aplicație la 27 oct. 2026 (biblie-demo.html, LIBRARY). Cifre exacte.
+Actualizat la 28 oct. 2026 din aplicație (biblie-demo.html, LIBRARY). Cifre exacte. Grok începe de aici pe 28 oct.
 
 ## Rezumat pe subsecțiuni
 
@@ -27,7 +27,7 @@ Generat din aplicație la 27 oct. 2026 (biblie-demo.html, LIBRARY). Cifre exacte
 | Narațiuni înțelepte și istorice | 4 din 4 | 0 |
 | Oracole | 1 din 1 | 0 |
 | Evanghelii | 7 din 7 | 0 |
-| Scrieri Gnostice | 27 din 27 | 0 |
+| Scrieri Gnostice | 25 din 25 | 0 |
 | Fapte apostolice | 6 din 6 | 0 |
 | Apocalipse | 3 din 3 | 0 |
 | Istorici | 5 din 5 | 0 |
@@ -35,7 +35,18 @@ Generat din aplicație la 27 oct. 2026 (biblie-demo.html, LIBRARY). Cifre exacte
 | Apologeți și Părinți timpurii | 0 din 3 | 3 |
 | Părinți clasici | 0 din 4 | 4 |
 
-Completate integral (nimic de făcut): Deuterocanonic (17), Apocrife VT (30), Apocrife NT (44), Istorici (5: Documentul de la Damasc, Josephus Antichități, Josephus Război, Eusebiu), Părinți Apostolici (16), Tora - Textul Masoretic (10), Pentateuhul Samaritean (5).
+Completate integral (nimic de făcut): Deuterocanonic (17), Apocrife VT (30), Apocrife NT (41; Excerpta ex Theodoto, Evanghelia Mântuitorului și Pătimirea lui Andrei au fost scoase), Istorici (5), Părinți Apostolici (16), Tora - Textul Masoretic (10), Pentateuhul Samaritean (5).
+
+## De făcut, în ordinea priorității
+
+1. **Talmud Babilonian** (52 de tratate) — textul principal (Ghemara) + comentariile listate la fiecare tratat.
+2. **Kabbala** (52 de lucrări lipsă din 73) — vezi secțiunea Kabbala; regula despre Maamar HaZohar HaRakia rămâne.
+3. **Tanakh — comentarii** (39 de cărți).
+4. **Mișna** (8 lucrări separate despre Pirkei Avot).
+5. **Apologeți și Părinți clasici** (7 intrări).
+6. **Canonic** — două pagini introductive (Vechiul și Noul Testament), neumplute.
+
+**Lecție din 27 oct.:** mai multe lucrări apocrife se dovediseră rezumate sau adaptări libere, deși aveau număr corect de versete. Pentru tot ce se adaugă: traducere din textul sursă integral, nu rezumat; se verifică text cu text (nu doar structura), iar sursa și statutul de licență se trec în câmpul `edition` (obiect cu translation, source, source_status, modernization), cu surse doar de domeniu public sau cu licență clară (o traducere modernă publicată de o editură nu e domeniu public chiar dacă textul antic e).
 
 ## Reguli (din CLAUDE.md) — valabile pentru tot ce se face
 
