@@ -198,19 +198,21 @@ async function build(month, day){
     };
     events.shift();
   }
+  const TOP = 10; // doar cele mai importante: evenimentul zilei + 9, câte 10 nașteri și decese
   const shape = e => ({ year: e.year, text: e.text });
+  const person = p => ({ year: p.year, name: p.name, role: p.role, life: p.life });
   return {
     month, day,
     label: pageTitle,
-    source: {
+    sources: [{
       name: "Wikipedia în limba română",
       license: "CC BY-SA 4.0",
       url: "https://ro.wikipedia.org/wiki/" + encodeURIComponent(pageTitle.replace(/ /g, "_"))
-    },
+    }],
     main,
-    events: events.map(shape),
-    births: births.map(p => ({ year: p.year, name: p.name, role: p.role, life: p.life })),
-    deaths: deaths.map(p => ({ year: p.year, name: p.name, role: p.role, life: p.life }))
+    events: events.slice(0, TOP - 1).map(shape),
+    births: births.slice(0, TOP).map(person),
+    deaths: deaths.slice(0, TOP).map(person)
   };
 }
 

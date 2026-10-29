@@ -2583,19 +2583,25 @@
     margin-top:16px;
     padding:16px 18px 16px 18px;
   }
-  .history-date{display:flex; flex-direction:column; gap:2px; margin-bottom:12px;}
-  .history-date-main{
+  .history-info-btn{
+    position:absolute;
+    top:12px;
+    right:12px;
+    z-index:3;
     font-family:'Fraunces', serif;
-    font-size:20px;
-    font-weight:600;
-    color:var(--ink);
-    line-height:1.2;
+    font-style:italic;
+    font-weight:700;
+    font-size:15px;
   }
-  .history-date-sub{
-    font-family:'Inter', sans-serif;
-    font-size:12.5px;
+  .history-info-btn[aria-expanded="true"]{color:#FFD700; border-color:#FFD700;}
+  .history-info .history-sec-inner{
+    font-size:12px;
+    line-height:1.55;
     color:var(--ink-soft);
   }
+  .history-info.open .history-sec-inner{padding:2px 40px 12px 0;}
+  .history-info a{color:var(--ink); text-decoration:underline;}
+  .history-info p{margin:0 0 6px;}
   .history-tabs{display:flex; flex-wrap:wrap; gap:8px;}
   .history-tab{
     font-family:'Inter', sans-serif;
@@ -2621,7 +2627,8 @@
   .history-tab[aria-expanded="true"] .history-chev{transform:rotate(180deg);}
   .history-tab:focus-visible,
   .history-btn:focus-visible,
-  .history-more:focus-visible{outline:2px solid #FFD700; outline-offset:2px;}
+  .history-more:focus-visible,
+  .history-info-btn:focus-visible{outline:2px solid #FFD700; outline-offset:2px;}
   .history-sec{
     display:grid;
     grid-template-rows:0fr;
@@ -2635,6 +2642,15 @@
   }
   .history-sec-inner{overflow:hidden; min-height:0;}
   .history-sec.open .history-sec-inner{padding-top:14px;}
+  .history-info.open .history-sec-inner{padding-top:0;}
+  /* „Evenimentul zilei” în stânga, data în dreapta — data în același format ca „Geneza 1:24” */
+  .history-kicker-row{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    gap:10px;
+    margin-bottom:8px;
+  }
   .history-kicker{
     font-family:'Inter', sans-serif;
     font-size:10.5px;
@@ -2642,28 +2658,30 @@
     letter-spacing:0.14em;
     text-transform:uppercase;
     color:#FFD700;
-    margin-bottom:8px;
   }
-  .history-meta{
+  .history-date{
     font-family:'Inter', sans-serif;
     font-weight:700;
     font-size:13px;
     color:var(--ink);
-    margin-bottom:6px;
+    text-align:right;
   }
+  /* textul principal — exact ca versetul din „Versetul zilei” */
   .history-title{
     font-family:'Fraunces', serif;
     font-size:17px;
     line-height:1.4;
     font-weight:500;
     color:var(--ink);
-    margin-bottom:8px;
-  }
-  .history-summary{
-    font-size:14px;
-    line-height:1.55;
-    color:var(--ink-soft);
     margin-bottom:12px;
+  }
+  .history-cont{
+    font-family:'Fraunces', serif;
+    font-size:17px;
+    line-height:1.4;
+    font-weight:500;
+    color:var(--ink);
+    margin:0 0 10px;
   }
   .history-actions{display:flex; align-items:center; gap:8px; margin-bottom:4px;}
   .history-btn{
@@ -2688,6 +2706,7 @@
   .history-heart[aria-pressed="true"]{color:#FFD700; border-color:#FFD700;}
   .history-heart[aria-pressed="true"] svg{fill:#FFD700;}
   .history-story{margin-top:12px;}
+  .history-story.open .history-sec-inner{padding-top:4px;}
   .history-subhead{
     font-family:'Inter', sans-serif;
     font-size:11px;
@@ -2697,7 +2716,6 @@
     color:var(--ink-soft);
     margin:14px 0 6px;
   }
-  .history-par{font-size:14px; line-height:1.6; color:var(--ink); margin:0 0 8px;}
   .history-list{list-style:none; margin:0; padding:0;}
   .history-list li{
     font-size:14px;
@@ -2723,14 +2741,8 @@
     cursor:pointer;
   }
   .history-note{font-size:13.5px; color:var(--ink-soft); margin:0 0 8px; line-height:1.5;}
-  .history-source{
-    margin-top:12px;
-    font-size:11px;
-    color:var(--ink-soft);
-    line-height:1.5;
-  }
-  .history-source a, .history-par-source a{color:var(--ink-soft); text-decoration:underline;}
   .history-par-source{font-size:11.5px; color:var(--ink-soft); margin:4px 0 0;}
+  .history-par-source a{color:var(--ink-soft); text-decoration:underline;}
   @media (prefers-reduced-motion: reduce){
     .history-sec, .history-sec.open, .history-chev, .history-tab{transition:none;}
   }
@@ -3357,21 +3369,35 @@
 
       <section class="hero-verse-card history-card" id="history-card" aria-labelledby="history-label">
         <div class="hero-pattern"></div>
+        <button type="button" class="hero-menu-btn history-info-btn" id="history-info-btn" aria-label="Despre sursele datelor" aria-expanded="false" aria-controls="history-info">i</button>
         <div class="hero-content">
           <div class="hero-label" id="history-label">Istoria zilei</div>
-          <div class="history-date">
-            <span class="history-date-main" id="history-date-main"></span>
-            <span class="history-date-sub" id="history-date-sub"></span>
-          </div>
+          <div class="history-sec history-info" id="history-info" role="region" aria-label="Sursele datelor"><div class="history-sec-inner" id="history-info-body"></div></div>
           <div class="history-tabs" role="group" aria-label="Categorii istorice">
             <button type="button" class="history-tab" id="history-tab-events" data-sec="events" aria-expanded="false" aria-controls="history-sec-events">Evenimente <span class="history-chev" aria-hidden="true">▾</span></button>
             <button type="button" class="history-tab" id="history-tab-births" data-sec="births" aria-expanded="false" aria-controls="history-sec-births">Zile de naștere <span class="history-chev" aria-hidden="true">▾</span></button>
             <button type="button" class="history-tab" id="history-tab-deaths" data-sec="deaths" aria-expanded="false" aria-controls="history-sec-deaths">Comemorări <span class="history-chev" aria-hidden="true">▾</span></button>
+            <button type="button" class="history-tab" id="history-tab-calendar" data-sec="calendar" aria-expanded="false" aria-controls="history-sec-calendar">Sărbători <span class="history-chev" aria-hidden="true">▾</span></button>
           </div>
           <div class="history-sec" id="history-sec-events" role="region" aria-labelledby="history-tab-events"><div class="history-sec-inner" id="history-body-events"></div></div>
           <div class="history-sec" id="history-sec-births" role="region" aria-labelledby="history-tab-births"><div class="history-sec-inner" id="history-body-births"></div></div>
           <div class="history-sec" id="history-sec-deaths" role="region" aria-labelledby="history-tab-deaths"><div class="history-sec-inner" id="history-body-deaths"></div></div>
-          <div class="history-source" id="history-source"></div>
+          <div class="history-sec" id="history-sec-calendar" role="region" aria-labelledby="history-tab-calendar">
+            <div class="history-sec-inner">
+              <div class="history-kicker-row"><div class="history-kicker">🗓️ Sărbătorile calendaristice</div></div>
+              <div class="cal-tabbar" id="home-cal-tabbar">
+                <button class="cal-tab-btn active" data-cal="ro">Românesc</button>
+                <button class="cal-tab-btn" data-cal="he">Evreiesc</button>
+                <button class="cal-tab-btn" data-cal="de">German</button>
+              </div>
+              <div class="cal-month-nav" style="margin-top:12px;">
+                <button id="home-cal-prev-month">‹</button>
+                <span id="home-cal-month-label">—</span>
+                <button id="home-cal-next-month">›</button>
+              </div>
+              <div id="home-cal-body" style="margin-top:12px;"></div>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -3385,23 +3411,6 @@
         </div>
       </section>
 
-      <section class="home-card">
-        <div class="home-card-label" id="cal-card-label">Sărbătorile calendaristice</div>
-        <button class="home-toggle-btn" id="cal-toggle">Detalii ▾</button>
-        <div id="cal-body-wrap" style="display:none;">
-          <div class="cal-tabbar" id="home-cal-tabbar">
-            <button class="cal-tab-btn active" data-cal="ro">Românesc</button>
-            <button class="cal-tab-btn" data-cal="he">Evreiesc</button>
-            <button class="cal-tab-btn" data-cal="de">German</button>
-          </div>
-          <div class="cal-month-nav" style="margin-top:12px;">
-            <button id="home-cal-prev-month">‹</button>
-            <span id="home-cal-month-label">—</span>
-            <button id="home-cal-next-month">›</button>
-          </div>
-          <div id="home-cal-body" style="margin-top:12px;"></div>
-        </div>
-      </section>
     </main>
   </div>
 
@@ -7616,21 +7625,22 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
 
 // =====================================================================
 // ISTORIA ZILEI — panou în Acasă, între „Versetul zilei” și „Pericopa săptămânii”.
-// Datele vin de pe server (/api/istoria-zilei → Wikipedia în limba română);
-// aici e doar partea vizuală și starea panoului.
+// Datele vin de pe server (/api/istoria-zilei); aici e doar partea vizuală și starea panoului.
+// A patra secțiune, „Sărbători”, conține calendarul sărbătorilor (randat de modulul hebcal de la finalul paginii).
 // =====================================================================
 (function(){
   const card = document.getElementById("history-card");
   if(!card) return;
   const LUNI_H = ["ianuarie","februarie","martie","aprilie","mai","iunie","iulie","august","septembrie","octombrie","noiembrie","decembrie"];
   const ZILE_H = ["Duminică","Luni","Marți","Miercuri","Joi","Vineri","Sâmbătă"];
-  const SECS = ["events", "births", "deaths"];
+  const SECS = ["events", "births", "deaths", "calendar"];
   const SHOW_FIRST = 3;
   const HEART = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M12 20.5s-7.5-4.6-9.2-9.4C1.6 7.6 3.6 4.5 6.8 4.5c2 0 3.6 1.1 5.2 3 1.6-1.9 3.2-3 5.2-3 3.2 0 5.2 3.1 4 6.6-1.7 4.8-9.2 9.4-9.2 9.4z"/></svg>';
 
   const el = id => document.getElementById(id);
   let dayKey = "";
   let open = "events";
+  let infoOpen = false;
   let loadReq = 0;
 
   function mk(tag, cls, text){
@@ -7640,6 +7650,10 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
     return n;
   }
   function now(){ const n = new Date(); return { m: n.getMonth() + 1, d: n.getDate(), y: n.getFullYear(), w: n.getDay() }; }
+  function dateText(){
+    const t = now();
+    return t.d + " " + LUNI_H[t.m - 1] + " · " + ZILE_H[t.w] + " · " + t.y;
+  }
 
   function applyBackground(){
     const imgs = (typeof VOTD_BACKGROUNDS !== "undefined") ? VOTD_BACKGROUNDS : [];
@@ -7650,12 +7664,6 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
     card.style.backgroundPosition = "center";
   }
 
-  function renderDate(){
-    const t = now();
-    el("history-date-main").textContent = t.d + " " + LUNI_H[t.m - 1];
-    el("history-date-sub").textContent = ZILE_H[t.w] + " · " + t.y;
-  }
-
   function setOpen(sec){
     open = sec;
     SECS.forEach(s => {
@@ -7663,6 +7671,19 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
       el("history-tab-" + s).setAttribute("aria-expanded", isOpen ? "true" : "false");
       el("history-sec-" + s).classList.toggle("open", isOpen);
     });
+  }
+  function setInfo(on){
+    infoOpen = on;
+    el("history-info-btn").setAttribute("aria-expanded", on ? "true" : "false");
+    el("history-info").classList.toggle("open", on);
+  }
+
+  // rândul de sus al unei secțiuni: eticheta în stânga, data în dreapta
+  function kickerRow(text, withDate){
+    const row = mk("div", "history-kicker-row");
+    row.appendChild(mk("div", "history-kicker", text));
+    if(withDate) row.appendChild(mk("div", "history-date", dateText()));
+    return row;
   }
 
   // --- piese reutilizabile ---
@@ -7698,19 +7719,15 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
       body.appendChild(b);
     }
   }
-
-  // titlu scurt + rezumat din textul evenimentului principal
-  function splitTitle(text, fallbackSummary){
-    const m = text.match(/^(.{20,140}?[.!?])\s+(.+)$/);
-    if(m) return { title: m[1], summary: m[2] };
-    if(text.length <= 140) return { title: text, summary: fallbackSummary || "" };
-    const cut = text.slice(0, 120).replace(/\s+\S*$/, "");
-    return { title: cut + "…", summary: text };
-  }
   function shorten(s, n){
     if(s.length <= n) return s;
-    const cut = s.slice(0, n).replace(/\s+\S*$/, "");
-    return cut + "…";
+    return s.slice(0, n).replace(/\s+\S*$/, "") + "…";
+  }
+  function eventItem(e){
+    const li = mk("li");
+    li.appendChild(mk("span", "history-year", e.year));
+    li.appendChild(document.createTextNode(" — " + shorten(e.text, 220)));
+    return li;
   }
 
   function renderEvents(data){
@@ -7718,58 +7735,52 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
     body.textContent = "";
     const main = data.main;
     if(!main && !data.events.length){ note(body, "Nu am găsit evenimente pentru această zi."); return; }
+    body.appendChild(kickerRow("⭐ Evenimentul zilei", true));
 
     if(main){
-      const firstPar = main.story && main.story.paragraphs[0] ? shorten(main.story.paragraphs[0], 230) : "";
-      const { title, summary } = splitTitle(main.text, firstPar);
-      body.appendChild(mk("div", "history-kicker", "⭐ Evenimentul zilei"));
-      body.appendChild(mk("div", "history-meta", main.year + " · " + main.category));
-      body.appendChild(mk("div", "history-title", title));
-      if(summary) body.appendChild(mk("div", "history-summary", summary));
+      body.appendChild(mk("div", "history-title", main.text));
 
+      const hasMore = (main.story && main.story.paragraphs.length) || data.events.length;
       const story = mk("div", "history-sec history-story");
       story.id = "history-story";
-      const storyInner = mk("div", "history-sec-inner");
-      story.appendChild(storyInner);
-      storyInner.appendChild(mk("div", "history-subhead", "Povestea zilei"));
-      storyInner.appendChild(mk("p", "history-par", main.year + ": " + main.text));
+      const inner = mk("div", "history-sec-inner");
+      story.appendChild(inner);
       if(main.story){
-        main.story.paragraphs.forEach(p => storyInner.appendChild(mk("p", "history-par", p)));
+        // continuarea textului, fără să repete propoziția de mai sus
+        main.story.paragraphs.forEach(p => inner.appendChild(mk("p", "history-cont", p)));
         const src = mk("p", "history-par-source");
         src.appendChild(document.createTextNode("Articol: "));
-        const a = mk("a", "", main.story.source.title + " — Wikipedia");
+        const a = mk("a", "", main.story.source.title);
         a.href = main.story.source.url; a.target = "_blank"; a.rel = "noopener";
         src.appendChild(a);
-        storyInner.appendChild(src);
+        inner.appendChild(src);
       }
       if(data.events.length){
-        storyInner.appendChild(mk("div", "history-subhead", "Alte evenimente din această zi"));
-        const ul = makeList(data.events, e => {
-          const li = mk("li");
-          li.appendChild(mk("span", "history-year", e.year));
-          li.appendChild(document.createTextNode(" — " + shorten(e.text, 200)));
-          return li;
-        });
-        storyInner.appendChild(ul);
+        inner.appendChild(mk("div", "history-subhead", "Alte evenimente din această zi"));
+        const ul = makeList(data.events, eventItem);
+        inner.appendChild(ul);
         const more = mk("button", "history-more");
         more.type = "button";
         more.setAttribute("aria-controls", "history-story");
-        storyInner.appendChild(more);
+        inner.appendChild(more);
         toggleList(ul, more, "Vezi toate evenimentele", "Arată mai puține");
       }
 
       const actions = mk("div", "history-actions");
-      const readBtn = mk("button", "history-btn");
-      readBtn.type = "button";
-      readBtn.setAttribute("aria-controls", "history-story");
-      readBtn.setAttribute("aria-expanded", "false");
-      readBtn.textContent = "Citește mai mult ⌄";
-      readBtn.addEventListener("click", () => {
-        const opening = !story.classList.contains("open");
-        story.classList.toggle("open", opening);
-        readBtn.setAttribute("aria-expanded", opening ? "true" : "false");
-        readBtn.textContent = opening ? "Citește mai puțin ⌃" : "Citește mai mult ⌄";
-      });
+      if(hasMore){
+        const readBtn = mk("button", "history-btn");
+        readBtn.type = "button";
+        readBtn.setAttribute("aria-controls", "history-story");
+        readBtn.setAttribute("aria-expanded", "false");
+        readBtn.textContent = "Citește mai mult ⌄";
+        readBtn.addEventListener("click", () => {
+          const opening = !story.classList.contains("open");
+          story.classList.toggle("open", opening);
+          readBtn.setAttribute("aria-expanded", opening ? "true" : "false");
+          readBtn.textContent = opening ? "Citește mai puțin ⌃" : "Citește mai mult ⌄";
+        });
+        actions.appendChild(readBtn);
+      }
       const heart = mk("button", "history-btn history-heart");
       heart.type = "button";
       heart.setAttribute("aria-label", "Salvează evenimentul zilei");
@@ -7783,19 +7794,11 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
         heart.setAttribute("aria-pressed", liked ? "true" : "false");
         try { localStorage.setItem(likeKey, liked ? "1" : "0"); } catch(e){}
       });
-      actions.appendChild(readBtn);
       actions.appendChild(heart);
       body.appendChild(actions);
       body.appendChild(story);
     } else {
-      // zi fără eveniment principal ales: doar lista
-      body.appendChild(mk("div", "history-kicker", "⭐ Evenimente"));
-      const ul = makeList(data.events, e => {
-        const li = mk("li");
-        li.appendChild(mk("span", "history-year", e.year));
-        li.appendChild(document.createTextNode(" — " + shorten(e.text, 200)));
-        return li;
-      });
+      const ul = makeList(data.events, eventItem);
       body.appendChild(ul);
       const more = mk("button", "history-more");
       more.type = "button";
@@ -7808,7 +7811,7 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
     const body = el("history-body-" + secId);
     body.textContent = "";
     if(!list.length){ note(body, emptyText); return; }
-    body.appendChild(mk("div", "history-kicker", kicker));
+    body.appendChild(kickerRow(kicker, true));
     const ul = makeList(list, p => {
       const li = mk("li");
       li.appendChild(mk("span", "history-year", p.year));
@@ -7825,22 +7828,29 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
     toggleList(ul, more, moreLabel, "Arată mai puține");
   }
 
+  function renderInfo(data){
+    const body = el("history-info-body");
+    body.textContent = "";
+    body.appendChild(mk("p", "", "Datele vin din surse deschise, folosite cu atribuirea cerută de licență:"));
+    (data.sources || []).forEach(s => {
+      const p = mk("p");
+      const a = mk("a", "", s.name);
+      a.href = s.url; a.target = "_blank"; a.rel = "noopener";
+      p.appendChild(a);
+      p.appendChild(document.createTextNode(" · " + s.license + (s.note ? " — " + s.note : "")));
+      body.appendChild(p);
+    });
+  }
+
   function renderAll(data){
     renderEvents(data);
     renderPeople("births", data.births, "🎂 Născuți în această zi", "Vezi toate aniversările", "Nu am găsit nașteri pentru această zi.");
     renderPeople("deaths", data.deaths, "🕊️ Comemorări", "Vezi toate comemorările", "Nu am găsit comemorări pentru această zi.");
-    const s = el("history-source");
-    s.textContent = "";
-    s.appendChild(document.createTextNode("Sursa: "));
-    const a = mk("a", "", data.source.name);
-    a.href = data.source.url; a.target = "_blank"; a.rel = "noopener";
-    s.appendChild(a);
-    s.appendChild(document.createTextNode(" · " + data.source.license));
+    renderInfo(data);
   }
 
   function setLoading(){
-    SECS.forEach(s => note(el("history-body-" + s), "Se încarcă istoria zilei…"));
-    el("history-source").textContent = "";
+    ["events", "births", "deaths"].forEach(s => note(el("history-body-" + s), "Se încarcă istoria zilei…"));
   }
 
   async function load(){
@@ -7857,24 +7867,33 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
       renderAll(data);
     } catch(e){
       if(my !== loadReq) return;
-      SECS.forEach(s => note(el("history-body-" + s), "Nu am putut obține istoria zilei acum.", true));
+      ["events", "births", "deaths"].forEach(s => note(el("history-body-" + s), "Nu am putut obține istoria zilei acum.", true));
     } finally { clearTimeout(timer); }
   }
 
-  // la schimbarea zilei: data nouă, liste restrânse, conținut nou
+  // la schimbarea zilei: conținut nou, liste restrânse
   function checkDay(){
     const t = now();
     const key = t.m + "-" + t.d;
     if(key === dayKey) return;
     dayKey = key;
-    renderDate();
     applyBackground();
     setOpen("events");
+    setInfo(false);
     load();
   }
 
   document.querySelectorAll(".history-tab").forEach(btn => {
     btn.addEventListener("click", () => setOpen(open === btn.dataset.sec ? null : btn.dataset.sec));
+  });
+  el("history-info-btn").addEventListener("click", () => setInfo(!infoOpen));
+
+  // click oriunde în afara conținutului deschis închide secțiunea (și nota despre surse)
+  document.addEventListener("click", (e) => {
+    if(!open && !infoOpen) return;
+    if(e.target.closest(".history-sec") || e.target.closest(".history-tab") || e.target.closest("#history-info-btn")) return;
+    if(open) setOpen(null);
+    if(infoOpen) setInfo(false);
   });
 
   checkDay();
@@ -8184,7 +8203,6 @@ function loadUpcomingHolidays(){
 
 loadPericopeLive();
 loadUpcomingHolidays();
-wireToggle("cal-toggle", "cal-body-wrap", "Detalii ▾", "Ascunde ▴");
 wireToggle("essays-toggle", "essays-body", "Detalii ▾", "Ascunde ▴");
 
 // Închidere automată când apeși oriunde în afara secțiunii deschise
