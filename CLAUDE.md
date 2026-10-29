@@ -247,3 +247,7 @@ Niciodată nu presupune că o arhivă nouă e conținut nou.
 - Haftarot se caută într-un index mic de text, `public/search-haftarot.js`, generat cu `node tools/build-search-haftarot.js`. **Se rulează din nou după orice modificare de text la Haftarot** (altfel căutarea arată textul vechi).
 - „Comentarii-Texte” se caută pe server (`/api/search`, modulul `search-index.js`), care indexează la pornire toată arhiva din Diverse, inclusiv capitolele încărcate la cerere (Zohar, Mișna, Josephus, Eusebiu). Indexul se reconstruiește la fiecare repornire/deploy, deci nu cere nicio regenerare. Fără server, aplicația caută doar în ce e deja încărcat.
 - Numărul de capitol afișat în cititor e cel real din sursă (`libChNum`), nu poziția: Marcion începe la cap. 5, Dialogul Mântuitorului la 120.
+
+## Istoria zilei (panou în Acasă)
+- Date de pe server: `/api/istoria-zilei?m=&d=` (`istoria-zilei.js`), din paginile de zi ale Wikipedia în limba română (CC BY-SA 4.0 — atribuirea apare în panou, nu se scoate). Nu se scriu evenimente de mână.
+- Ordinea: întâi cele cu cuvinte-cheie creștine/iudaice (lista `RELIGIOUS`), apoi cele mai bine documentate; evenimentul zilei = primul din listă. „Povestea zilei” = introducerea articolului Wikipedia la care trimite evenimentul.

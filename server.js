@@ -131,6 +131,23 @@ app.get("/api/search", async (req, res) => {
   }
 });
 
+// „Istoria zilei” (panoul din Acasă): evenimente, nașteri și decese din Wikipedia în limba română.
+const istoriaZilei = require("./istoria-zilei");
+app.get("/api/istoria-zilei", async (req, res) => {
+  const m = parseInt(req.query.m, 10), d = parseInt(req.query.d, 10);
+  if (!(m >= 1 && m <= 12 && d >= 1 && d <= 31)) {
+    return res.status(400).json({ error: "Zi sau lună invalidă." });
+  }
+  try {
+    res.set("Cache-Control", "public, max-age=3600");
+    res.json(await istoriaZilei.getDay(m, d));
+  } catch (err) {
+    console.error("Eroare istoria zilei:", err.message || err);
+    res.set("Cache-Control", "no-store");
+    res.status(502).json({ error: "Nu am putut obține datele istorice acum." });
+  }
+});
+
 app.get("/api/health", (req, res) => {
   res.json({ ok: true, hasKey: !!process.env.OPENAI_API_KEY });
 });
