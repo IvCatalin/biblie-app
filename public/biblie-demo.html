@@ -2810,6 +2810,32 @@
     margin:0 2px 10px;
     line-height:1.5;
   }
+  .search-sections{
+    display:flex;
+    background:rgba(0,0,0,0.22);
+    border-radius:999px;
+    padding:3px;
+    gap:2px;
+    margin:0 0 12px;
+  }
+  .search-section-btn{
+    flex:1;
+    font-family:'Inter', sans-serif;
+    font-size:13px;
+    font-weight:700;
+    background:transparent;
+    border:0;
+    color:var(--ink-soft);
+    border-radius:999px;
+    padding:9px 10px;
+    cursor:pointer;
+    white-space:nowrap;
+  }
+  .search-section-btn b{margin-left:6px; font-weight:800;}
+  .search-section-btn.active{
+    background:linear-gradient(135deg,#FFD700 0%,#FFE373 50%,#FFD700 100%);
+    color:#3a2c00;
+  }
   .search-forms{display:flex; flex-wrap:wrap; gap:6px; margin:0 0 14px;}
   .search-form-chip{
     font-family:'Inter', sans-serif;
@@ -8153,6 +8179,7 @@ function srBuildCard(hit, toks){
 }
 
 let srActiveForm = null;
+let srSection = "bible"; // "bible" = Biblia, "lib" = Comentarii-Texte (arhiva din Diverse)
 const SR_PAGE = 40;
 
 function runSearch(){
@@ -8168,9 +8195,18 @@ function runSearch(){
     return;
   }
 
-  // formele găsite (cu și fără diacritice) ale primului cuvânt căutat
+  const bySec = {
+    bible: all.filter(h => h.open.type === "bible"),
+    lib: all.filter(h => h.open.type === "lib")
+  };
+  // dacă secțiunea aleasă n-are nimic, trecem automat la cealaltă
+  let sec = srSection;
+  if(!bySec[sec].length) sec = (sec === "bible") ? "lib" : "bible";
+  const inSec = bySec[sec];
+
+  // formele găsite (cu și fără diacritice) ale primului cuvânt căutat, în secțiunea curentă
   const forms = new Map();
-  all.forEach(h => {
+  inSec.forEach(h => {
     const ranges = srRanges(h.plain, [toks[0]]);
     const seen = new Set();
     ranges.forEach(r => {
@@ -8183,7 +8219,19 @@ function runSearch(){
 
   const summary = document.createElement("div");
   summary.className = "search-summary";
+  summary.textContent = all.length + (all.length === 1 ? " rezultat" : " rezultate") + " pentru „" + query + "”";
   searchResults.appendChild(summary);
+
+  const seg = document.createElement("div");
+  seg.className = "search-sections";
+  [["bible", "Biblia"], ["lib", "Comentarii-Texte"]].forEach(([id, label]) => {
+    const btn = document.createElement("button");
+    btn.className = "search-section-btn" + (sec === id ? " active" : "");
+    btn.innerHTML = escapeHtml(label) + "<b>" + bySec[id].length + "</b>";
+    btn.addEventListener("click", () => { if(srSection === id && sec === id) return; srSection = id; srActiveForm = null; runSearch(); });
+    seg.appendChild(btn);
+  });
+  searchResults.appendChild(seg);
 
   const formsEl = document.createElement("div");
   formsEl.className = "search-forms";
@@ -8201,8 +8249,7 @@ function runSearch(){
     searchResults.appendChild(formsEl);
   }
 
-  const shown = srActiveForm ? all.filter(h => h._forms.has(srActiveForm)) : all;
-  summary.textContent = shown.length + (shown.length === 1 ? " rezultat" : " rezultate") + " pentru „" + query + "”";
+  const shown = srActiveForm ? inSec.filter(h => h._forms.has(srActiveForm)) : inSec;
 
   const list = document.createElement("div");
   searchResults.appendChild(list);
