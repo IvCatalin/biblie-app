@@ -3382,7 +3382,7 @@
       <section class="hero-verse-card history-card" id="history-card" aria-labelledby="history-label">
         <div class="hero-pattern"></div>
         <button type="button" class="info-btn history-info-btn" id="history-info-btn" aria-label="Sursele datelor" aria-expanded="false" aria-controls="history-info">ⓘ</button>
-        <div class="history-info" id="history-info" role="dialog" aria-label="Sursele datelor"><div id="history-info-body"></div></div>
+        <div class="history-info" id="history-info" role="dialog" aria-label="Sursele datelor"><div id="history-info-body"><p>Wikipedia - CC BY-SA 4.0 (RO/ENG)</p><p>Wikidata - CC0</p></div></div>
         <div class="hero-content">
           <div class="history-head">
             <div class="hero-label" id="history-label">Istoria zilei</div>
@@ -7925,9 +7925,7 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
   }
 
   function renderInfo(data){
-    const body = el("history-info-body");
-    body.textContent = "";
-    (data.sources || []).forEach(s => body.appendChild(mk("p", "", s.name + " - " + s.license)));
+    // textul panoului e fix, în HTML: Wikipedia - CC BY-SA 4.0 (RO/ENG) și Wikidata - CC0
   }
 
   function renderAll(data){
