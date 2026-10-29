@@ -7984,8 +7984,13 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
     if(!open && !infoOpen) return;
     if(e.target.closest("#history-info-btn")) return;
     if(infoOpen) setInfo(false); // panoul de surse se închide la orice click
-    if(e.target.closest(".history-sec") || e.target.closest(".history-tab")) return;
-    if(open) setOpen(null);
+    if(!open) return;
+    if(e.target.closest(".history-tab")) return; // butoanele de secțiune își fac singure treaba
+    // butoanele și legăturile din panou (Citește mai mult, Vezi toate, ♡, Reîncearcă) merg normal
+    if(e.target.closest("#history-card") && e.target.closest("button, a, input, textarea, select, label")) return;
+    // în calendar, atingerea zilelor nu închide secțiunea
+    if(open === "calendar" && e.target.closest("#history-sec-calendar")) return;
+    setOpen(null); // oriunde altundeva (și pe text), secțiunea se închide; la derulare nu se declanșează niciun click
   });
 
   checkDay();

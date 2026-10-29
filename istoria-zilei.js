@@ -285,7 +285,13 @@ async function build(month, day){
   // --- persoane: ~7 iudeo-creștine cunoscute (Wikidata) + 2–4 laice foarte cunoscute (Wikipedia română) ---
   async function people(kind){
     let rel = ((CURATED_PEOPLE[key] || {})[kind] || []);
-    const known = rel.filter(p => p.s === undefined || p.s >= 25);
+    // personalități din istoria iudeo-creștină: papi, Părinți ai Bisericii, reformatori, pastori și misionari cunoscuți, rabini.
+    // Preoții și cardinalii catolici obișnuiți se omit, în afară de papi sau de cei cu notorietate foarte mare.
+    const isPope = p => /^Papa\b/i.test(p.n) || /papă/.test(p.r || "");
+    const plainCatholic = p => /preot catolic|cardinal|cleric/.test(p.r || "") &&
+      !/(reformator|pastor|rabin|misionar|evanghel|ortodox|luteran|reformat|anglican|baptist|metodist|prezbiterian|teolog|episcop|patriarh|sfânt)/.test(p.r || "");
+    rel = rel.filter(p => isPope(p) || !plainCatholic(p) || (p.s || 0) >= 70);
+    const known = rel.filter(p => p.s === undefined || p.s >= 30);
     rel = (known.length >= 5 ? known : rel.filter(p => p.s === undefined || p.s >= 15)).map(p => ({ year: String(p.y), name: p.n, role: p.r || "", life: p.l || "" }));
     const seen = new Set(rel.map(p => nameKey(p.name)));
     const wikiList = parsePeople(pick(kind === "births" ? ["Nașteri", "Nasteri"] : ["Decese"]), kind)
