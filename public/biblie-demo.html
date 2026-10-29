@@ -6290,6 +6290,11 @@ if(heroReadChapterBtn){
     setTimeout(() => heroReadChapterBtn.classList.remove("pressed"), 250);
     if(heroMenuDropdown) heroMenuDropdown.style.display = "none";
     if(!currentVerseOfDayData || !currentVerseOfDayData.verse) return;
+    if(currentVerseOfDayData.haftarah){ // versetul zilei din Haftarot: deschide haftara direct la verset
+      const hf = currentVerseOfDayData.haftarah;
+      if(typeof window.openLibraryAt === "function") window.openLibraryAt(hf.slug, hf.chIdx, hf.vkey);
+      return;
+    }
     currentBookSlug = currentVerseOfDayData.book.slug;
     switchTab("biblia");
     loadChapterThenOpenVerse(currentVerseOfDayData.chapterNum, currentVerseOfDayData.verse.num);
@@ -7112,8 +7117,8 @@ const SUBFOLDER_CARD_IMAGES = {
     const ctx = { ref: (ch.title ? ch.title + " — " : "") + (bookName ? bookName + " " : "") + v.v, key: "lib_" + book.slug + "_" + ch.num + "_" + v.v };
     if(aprofundare){
       const hint = document.createElement("span");
-      hint.className = "comment-hint";
-      hint.textContent = "💬 Comentarii";
+      hint.className = "comment-hint comment-note-chip";
+      hint.textContent = "note";
       p.appendChild(hint);
     }
     const sheetVerse = Object.assign({}, v, { num: v.v });
@@ -7580,11 +7585,14 @@ function loadVerseOfTheDay(){
     window.CHAPTER_DATA = previousChapterData; // restaurăm imediat
     script.remove();
     if(!data || !data.length) return;
+    if(votdHafActive) return; // versetul zilei vine deja din Haftarot
     const verseIndex = today % data.length;
     const verse = data[verseIndex];
     refEl.textContent = book.name + " " + chapterNum + ":" + verse.num;
     textEl.textContent = "„" + plainVerseText(verse).trim() + "”";
     currentVerseOfDayData = { book, chapterNum, verse };
+    const studyBtn0 = document.getElementById("hero-toggle"); if(studyBtn0) studyBtn0.style.display = "";
+    const readBtn0 = document.getElementById("hero-read-chapter-btn"); if(readBtn0) readBtn0.textContent = "Citește capitolul →";
     heroAccordionBuilt = false; // versetul s-a schimbat — accordeonul trebuie reconstruit
     if(heroAccordion.style.display !== "none") closeHeroAccordion(); // dacă era deschis, îl închidem ca să se reconstruiască la următorul click
   };
@@ -7592,6 +7600,80 @@ function loadVerseOfTheDay(){
   script.src = url;
   document.body.appendChild(script);
 }
+// ---------------------------------------------------------------------
+// Versetul zilei din Haftarot: câte o haftară pe zi (rotație), cu versetul din ea cel mai
+// apropiat de evenimentul zilei (cuvinte comune); dacă altă haftară se potrivește mult mai bine
+// evenimentului, se ia versetul de acolo. Textul vine din indexul de text al Haftarot
+// (search-haftarot.js). Dacă indexul nu se încarcă, rămâne versetul din Geneza 1, ca înainte.
+// ---------------------------------------------------------------------
+let votdHafActive = false;
+const VOTD_STOP = new Set(["dumnez","domnul","israel","pentru","aceast","acestu","aceste","dintre","despre","printr","asupra","impotr","precum","atunci","fiecar","tuturo","inaint","acesta","aceea","devine","fusese","fiind","toate","unde","cand","dupa","intre","alte","sunt","este","sale","unui","unei","altor","care","fost","anul","anului","regele","poporu"]);
+function votdStem(w){
+  return w.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "").slice(0, 6);
+}
+function votdTokens(text){
+  const set = new Set();
+  String(text || "").split(/[^\p{L}\p{N}]+/u).forEach(w => {
+    if(w.length < 6) return;
+    const s = votdStem(w);
+    if(s.length >= 5 && !VOTD_STOP.has(s)) set.add(s);
+  });
+  return set;
+}
+function votdLoadIndex(cb){
+  if(window.SEARCH_HAFTAROT){ cb(); return; }
+  if(document.getElementById("votd-haf-index")){ document.getElementById("votd-haf-index").addEventListener("load", cb); return; }
+  const s = document.createElement("script");
+  s.id = "votd-haf-index";
+  s.src = "search-haftarot.js?v=1";
+  s.onload = cb;
+  document.head.appendChild(s);
+}
+function votdSetFromHaftarah(hint){
+  votdLoadIndex(() => {
+    const idx = window.SEARCH_HAFTAROT;
+    const refEl = document.getElementById("home-verse-ref");
+    const textEl = document.getElementById("home-verse-text");
+    if(!idx || !refEl || !textEl) return;
+    const list = [];
+    Object.keys(idx).forEach(slug => idx[slug].forEach(e => list.push({ slug, chIdx: e[0], title: e[2], verses: e[3] })));
+    if(!list.length) return;
+    const day = dayOfYear(new Date());
+    const base = list[day % list.length]; // haftara zilei
+    const ht = votdTokens(hint);
+    const score = v => { let n = 0; votdTokens(v[1]).forEach(t => { if(ht.has(t)) n++; }); return n; };
+    const okLen = v => v[1].length >= 40 && v[1].length <= 330;
+
+    let pick = null, best = 0;
+    if(ht.size){
+      list.forEach(h => h.verses.forEach(v => { if(!okLen(v)) return; const s = score(v); if(s > best){ best = s; pick = { h, v }; } }));
+    }
+    if(!pick || best < 3){ // potrivire slabă în altă haftară → versetul cel mai apropiat din haftara zilei
+      pick = null;
+      let b2 = 0;
+      base.verses.forEach(v => { if(!okLen(v)) return; const s = ht.size ? score(v) : 0; if(s > b2){ b2 = s; pick = { h: base, v }; } });
+      if(!pick){
+        const pool = base.verses.filter(okLen);
+        const arr = pool.length ? pool : base.verses;
+        const v = arr[(day * 7) % arr.length];
+        pick = { h: base, v };
+      }
+    }
+    const v = pick.v;
+    refEl.textContent = v[0];
+    textEl.textContent = "„" + v[1] + "”";
+    currentVerseOfDayData = { haftarah: { slug: pick.h.slug, chIdx: pick.h.chIdx, vkey: v[2] }, verse: { num: v[2] } };
+    votdHafActive = true;
+    heroAccordionBuilt = false;
+    if(heroAccordion.style.display !== "none") closeHeroAccordion();
+    const studyBtn = document.getElementById("hero-toggle");
+    if(studyBtn) studyBtn.style.display = "none"; // nota de studiu există doar pentru versetele din Geneza
+    const readBtn = document.getElementById("hero-read-chapter-btn");
+    if(readBtn) readBtn.textContent = "Citește haftara →";
+  });
+}
+window.votdSetFromHaftarah = votdSetFromHaftarah;
+
 const VOTD_BACKGROUNDS = [
   "images/votd-bg-1.jpg",
   "images/votd-bg-2.jpg",
@@ -7865,9 +7947,14 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
       const data = await r.json();
       if(my !== loadReq) return;
       renderAll(data);
+      if(window.votdSetFromHaftarah){
+        const m = data.main;
+        window.votdSetFromHaftarah(m ? m.text + " " + (m.story ? m.story.paragraphs.join(" ") : "") : "");
+      }
     } catch(e){
       if(my !== loadReq) return;
       ["events", "births", "deaths"].forEach(s => note(el("history-body-" + s), "Nu am putut obține istoria zilei acum.", true));
+      if(window.votdSetFromHaftarah) window.votdSetFromHaftarah("");
     } finally { clearTimeout(timer); }
   }
 

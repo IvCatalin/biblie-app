@@ -8,6 +8,8 @@
 // de mai jos), apoi cele mai bine documentate (cele cu cele mai multe trimiteri).
 // =====================================================================
 
+const fs = require("fs");
+const path = require("path");
 const MONTHS = ["ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie", "august", "septembrie", "octombrie", "noiembrie", "decembrie"];
 const UA = "DavarAtlas/1.0 (https://biblie-app.onrender.com; ivan_catalin@outlook.com)";
 const TTL_MS = 12 * 3600 * 1000;
@@ -174,45 +176,111 @@ async function fetchStory(links){
   return null;
 }
 
+// --- date selectate în prealabil (vezi tools/build-istoria-*.js) ---
+const DATA_DIR = path.join(__dirname, "data");
+function loadJson(file){
+  try { return JSON.parse(fs.readFileSync(path.join(DATA_DIR, file), "utf8")); } catch(e){ return {}; }
+}
+const CURATED_EVENTS = loadJson("istoria-evenimente.json"); // evenimente iudeo-creștine și neoprotestante, traduse în română
+const CURATED_PEOPLE = loadJson("istoria-persoane.json");   // nașteri și decese din Wikidata (CC0), cu profesii religioase
+const MONTHS_EN = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+function stems(text){
+  const set = new Set();
+  String(text || "").split(/[^\p{L}\p{N}]+/u).forEach(w => {
+    if(w.length < 5) return;
+    set.add(strip(w).replace(/[^a-z0-9]/g, "").slice(0, 6));
+  });
+  return set;
+}
+function sameEvent(a, b){
+  if(String(a.year) !== String(b.year)) return false;
+  const sa = stems(a.text), sb = stems(b.text);
+  for(const s of sa) if(sb.has(s)) return true;
+  return false;
+}
+function nameKey(n){ return strip(String(n || "")).replace(/[^a-z0-9]/g, ""); }
+
 async function build(month, day){
   const pageTitle = day + " " + MONTHS[month - 1];
+  const key = month + "-" + day;
   const url = "https://ro.wikipedia.org/w/api.php?action=parse&prop=wikitext&format=json&formatversion=2&page=" + encodeURIComponent(pageTitle.replace(/ /g, "_"));
-  const j = await getJson(url);
-  const wikitext = j && j.parse && j.parse.wikitext;
-  if(!wikitext) throw new Error("Pagina „" + pageTitle + "” nu are conținut.");
-  const sections = parseSections(wikitext);
+  let sections = {};
+  try {
+    const j = await getJson(url);
+    const wikitext = j && j.parse && j.parse.wikitext;
+    if(wikitext) sections = parseSections(wikitext);
+  } catch(err){
+    // fără Wikipedia în română mergem doar pe datele selectate; dacă nici acelea nu există, eroarea se vede mai jos
+    if(!CURATED_EVENTS[key] && !CURATED_PEOPLE[key]) throw err;
+  }
   const pick = names => { for(const n of names) if(sections[n]) return sections[n]; return []; };
 
-  const events = rank(parseEvents(pick(["Evenimente"])));
-  const births = rank(parsePeople(pick(["Nașteri", "Nasteri"]), "births"));
-  const deaths = rank(parsePeople(pick(["Decese"]), "deaths"));
+  // evenimente: întâi cele selectate (iudeo-creștine, neoprotestante), apoi cele din Wikipedia română
+  const curated = (CURATED_EVENTS[key] || []).map(e => ({
+    year: e.y, yearNum: yearNumber(e.y), text: e.t, links: [], religious: 1, score: 1000 + e.p * 100, curated: true
+  }));
+  const wiki = parseEvents(pick(["Evenimente"])).map(e => Object.assign(e, { score: e.religious * 20 + Math.min(e.weight, 10) }));
+  const all = curated.slice();
+  wiki.forEach(w => { if(!curated.some(c => sameEvent(c, w))) all.push(w); });
+  all.sort((a, b) => (b.score - a.score) || (a.yearNum - b.yearNum));
 
-  let main = null;
-  if(events.length){
-    const e = events[0];
-    const story = await fetchStory(e.links);
-    main = {
-      year: e.year, text: e.text,
-      category: e.religious > 0 ? "Religie" : "Istorie",
-      story
-    };
-    events.shift();
-  }
   const TOP = 10; // doar cele mai importante: evenimentul zilei + 9, câte 10 nașteri și decese
-  const shape = e => ({ year: e.year, text: e.text });
-  const person = p => ({ year: p.year, name: p.name, role: p.role, life: p.life });
+  let main = null;
+  const events = all.slice(0, TOP);
+  if(events.length){
+    const e = events.shift();
+    const story = e.links && e.links.length ? await fetchStory(e.links) : null;
+    main = { year: e.year, text: e.text, category: e.religious > 0 ? "Religie" : "Istorie", story };
+  }
+
+  // persoane: întâi cele din Wikidata (profesii religioase, după notorietate), apoi completare din Wikipedia română
+  function people(kind){
+    const fromData = ((CURATED_PEOPLE[key] || {})[kind] || []).map(p => ({ year: String(p.y), name: p.n, role: p.r || "", life: p.l || "" }));
+    const out = fromData.slice(0, TOP);
+    if(out.length < TOP){
+      const seen = new Set(out.map(p => nameKey(p.name)));
+      const wikiList = rank(parsePeople(pick(kind === "births" ? ["Nașteri", "Nasteri"] : ["Decese"]), kind));
+      for(const p of wikiList){
+        if(out.length >= TOP) break;
+        if(seen.has(nameKey(p.name))) continue;
+        seen.add(nameKey(p.name));
+        out.push({ year: p.year, name: p.name, role: p.role, life: p.life });
+      }
+    }
+    return out;
+  }
+
+  const sources = [{
+    name: "Wikipedia în limba română",
+    license: "CC BY-SA 4.0",
+    url: "https://ro.wikipedia.org/wiki/" + encodeURIComponent(pageTitle.replace(/ /g, "_")),
+    note: "evenimente, nașteri și decese, introducerile articolelor"
+  }];
+  if(curated.length){
+    sources.push({
+      name: "Wikipedia în limba engleză",
+      license: "CC BY-SA 4.0",
+      url: "https://en.wikipedia.org/wiki/" + MONTHS_EN[month - 1] + "_" + day,
+      note: "evenimente din istoria Bisericii și a poporului evreu, alese și traduse în română; datele neoprotestante au fost verificate pe surse separate (organizații și arhive ale confesiunilor)"
+    });
+  }
+  if(CURATED_PEOPLE[key]){
+    sources.push({
+      name: "Wikidata",
+      license: "CC0 (domeniu public)",
+      url: "https://www.wikidata.org",
+      note: "nașteri și comemorări ale unor persoane cu profesii religioase"
+    });
+  }
   return {
     month, day,
     label: pageTitle,
-    sources: [{
-      name: "Wikipedia în limba română",
-      license: "CC BY-SA 4.0",
-      url: "https://ro.wikipedia.org/wiki/" + encodeURIComponent(pageTitle.replace(/ /g, "_"))
-    }],
+    sources,
     main,
-    events: events.slice(0, TOP - 1).map(shape),
-    births: births.slice(0, TOP).map(person),
-    deaths: deaths.slice(0, TOP).map(person)
+    events: events.map(e => ({ year: e.year, text: e.text })),
+    births: people("births"),
+    deaths: people("deaths")
   };
 }
 
