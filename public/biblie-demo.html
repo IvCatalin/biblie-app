@@ -2646,10 +2646,10 @@
   /* „Evenimentul zilei” în stânga, data în dreapta — data în același format ca „Geneza 1:24” */
   .history-kicker-row{
     display:flex;
-    align-items:baseline;
-    justify-content:space-between;
-    gap:10px;
-    margin-bottom:8px;
+    flex-direction:column;
+    align-items:flex-start;
+    gap:3px;
+    margin-bottom:10px;
   }
   .history-kicker{
     font-family:'Inter', sans-serif;
@@ -2664,7 +2664,7 @@
     font-weight:700;
     font-size:13px;
     color:var(--ink);
-    text-align:right;
+    text-align:left;
   }
   /* textul principal — exact ca versetul din „Versetul zilei” */
   .history-title{
