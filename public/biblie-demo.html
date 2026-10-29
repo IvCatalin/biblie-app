@@ -2849,6 +2849,7 @@
     cursor:pointer;
   }
   .search-form-chip b{color:var(--gold); font-weight:700; margin-left:4px;}
+  .search-form-chip.empty{opacity:.45; cursor:default;}
   .search-form-chip.active{background:var(--gold); border-color:var(--gold); color:#3a2c00;}
   .search-form-chip.active b{color:#3a2c00;}
   .search-result{
@@ -6657,15 +6658,28 @@ const SUBFOLDER_CARD_IMAGES = {
 
   // pentru căutare: toate lucrările din Bibliotecă (fără duplicate) și deschiderea
   // unei lucrări la un capitol anume, din afara acestui scope
+  // întoarce { book, group }: group = colecția din care face parte lucrarea (Zohar, Mișna, Flavius Josephus…)
   window.libSearchWorks = function(){
     const out = [], seen = {};
-    (function walk(n){
-      if(Array.isArray(n)){ n.forEach(walk); return; }
-      if(n && typeof n === "object"){
-        if(n.slug){ if(!n.isHeader && !seen[n.slug]){ seen[n.slug] = 1; out.push(n); } return; }
-        Object.keys(n).forEach(k => walk(n[k]));
-      }
-    })(LIBRARY);
+    function add(book, group){
+      if(book && book.slug && !book.isHeader && !seen[book.slug]){ seen[book.slug] = 1; out.push({ book, group }); }
+    }
+    function walkItems(items, folderLabel, nestedLabel){
+      let header = "";
+      (items || []).forEach(e => {
+        if(!e) return;
+        if(e.isHeader){ header = e.name || ""; return; }
+        if(Array.isArray(e.items)){ walkItems(e.items, folderLabel, (e.label || "").split(" — ")[0].trim()); return; }
+        // la Kabbala secțiunile (Zohar, Sefer Ietzira…) sunt colecții separate; la Mișna/Talmud toată colecția e una
+        const group = nestedLabel || (/^Kabbala/.test(folderLabel) && header ? header : folderLabel);
+        add(e, group);
+      });
+    }
+    Object.keys(LIBRARY).forEach(key => {
+      const f = LIBRARY[key];
+      if(Array.isArray(f.books)) walkItems(f.books, f.label || "", "");
+      if(Array.isArray(f.subfolders)) f.subfolders.forEach(s => walkItems(s.items, s.label || "", ""));
+    });
     return out;
   };
   window.openLibraryAt = function(slug, chapterIdx){
@@ -7964,15 +7978,32 @@ function srMarkIn(root, toks){
 
 // text curat + forma normalizată, păstrate pe fiecare verset/comentariu ca să nu se recalculeze la fiecare literă
 const srCache = new WeakMap();
+function srPlain(raw){
+  if(raw.indexOf("<") === -1) return raw.trim();
+  const tpl = document.createElement("template");
+  tpl.innerHTML = raw;
+  tpl.content.querySelectorAll(".footnote, .footnote-marker").forEach(n => n.remove()); // notele de subsol nu fac parte din verset
+  return tpl.content.textContent.replace(/\s+/g, " ").trim();
+}
 function srInfo(obj, rawHtml){
   let info = srCache.get(obj);
   if(!info){
-    const plain = (rawHtml.indexOf("<") !== -1 ? rawHtml.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ") : rawHtml).trim();
+    const plain = srPlain(rawHtml);
     info = { plain, n: srStrip(plain) };
     srCache.set(obj, info);
   }
   return info;
 }
+function srStringInfo(key, text){
+  let info = srStringCache.get(key);
+  if(!info){ info = { plain: text, n: srStrip(text) }; srStringCache.set(key, info); }
+  return info;
+}
+const srStringCache = new Map();
+
+// cărțile Noului Testament (pentru împărțirea VT / NT din secțiunea Biblia)
+const SR_NT = /^(?:Matei|Marcu|Luca|Ioan|Faptele|Romani|[12]\s*Corinteni|Galateni|Efeseni|Filipeni|Coloseni|[12]\s*Tesaloniceni|[12]\s*Timotei|Tit|Filimon|Evrei|Iacov|[12]\s*Petru|[123]\s*Ioan|Iuda|Apocalipsa)\b/i;
+function srTestament(bookName){ return SR_NT.test(bookName) ? "NT" : "VT"; }
 
 function srShortTitle(ch){
   const t = (ch.title || "").trim();
@@ -7980,6 +8011,19 @@ function srShortTitle(ch){
   return "";
 }
 
+// încarcă o singură dată indexul mic de text pentru Haftarot (în loc de fișierele mari cu lexicon)
+let srHaftarotState = "idle"; // idle | loading | ready | failed
+function srLoadHaftarot(){
+  if(srHaftarotState !== "idle") return;
+  srHaftarotState = "loading";
+  const s = document.createElement("script");
+  s.src = "search-haftarot.js?v=1";
+  s.onload = () => { srHaftarotState = "ready"; if(searchInput.value.trim().length >= 2) runSearch(); };
+  s.onerror = () => { srHaftarotState = "failed"; };
+  document.head.appendChild(s);
+}
+
+// sec: "bible" = Biblia (doar textul Torei și al Haftarot), "lib" = Comentarii-Texte (restul arhivei din Diverse)
 function srCollectHits(toks){
   const hits = [];
   const match = info => toks.every(t => {
@@ -7991,23 +8035,17 @@ function srCollectHits(toks){
     return false;
   });
 
-  // 1. capitolul deschis în tab-ul Biblia
+  // 1. comentariile atașate versetelor din capitolul deschis în tab-ul Biblia (Rashi, Ramban, Josephus…)
   if(Array.isArray(VERSES) && VERSES.length){
     const book = getBook(currentBookSlug);
     VERSES.forEach(verse => {
       const baseRef = book.name + " " + currentChapter + ":" + verse.num;
       const baseKey = currentBookSlug + "_" + currentChapter + "_" + verse.num;
-      const vi = srInfo(verse, plainVerseText(verse));
-      if(match(vi)){
-        hits.push({
-          title: "Tora - " + baseRef, plain: vi.plain, html: null, key: baseKey,
-          open: { type: "bible", num: verse.num }
-        });
-      }
       (verse.commentaries || []).forEach((c, ci) => {
         const info = srInfo(c, c.text || "");
         if(match(info)){
           hits.push({
+            sec: "lib", group: "Comentarii din Biblie",
             title: c.author + " - " + baseRef, plain: info.plain, html: c.text, key: baseKey + "_c" + ci,
             open: { type: "bible", num: verse.num }
           });
@@ -8016,9 +8054,11 @@ function srCollectHits(toks){
     });
   }
 
-  // 2. tot ce e încărcat din Bibliotecă (Kabbala, Talmud, apocrife, patristice…)
+  // 2. Biblioteca: Tora (Rosen) → Biblia; restul → Comentarii-Texte, grupat pe lucrare/colecție
   if(typeof window.libSearchWorks === "function"){
-    window.libSearchWorks().forEach(book => {
+    window.libSearchWorks().forEach(({ book, group }) => {
+      if(/^haftarot-/.test(book.slug)) return; // Haftarot se caută în indexul lor mic, mai jos
+      const isTora = /^tora-rosen-/.test(book.slug);
       const work = (book.name_ro || book.name || "").replace(/\s*\([^)]*\)\s*$/g, "").replace(/\s*\([^)]*\)\s*$/g, "").trim();
       (book.chapters || []).forEach((ch, chIdx) => {
         if(!Array.isArray(ch.verses) || !ch.verses.length) return;
@@ -8027,19 +8067,50 @@ function srCollectHits(toks){
           if(typeof v.t !== "string") return;
           const info = srInfo(v, v.t);
           if(!match(info)) return;
+          const key = "lib_" + book.slug + "_" + ch.num + "_" + v.v;
+          if(isTora){
+            hits.push({
+              sec: "bible", testament: srTestament(work),
+              title: work + " " + ch.num + ":" + v.v, plain: info.plain, html: null, key,
+              open: { type: "lib", slug: book.slug, chIdx }
+            });
+            return;
+          }
           const loc = (chTitle ? chTitle + " " : "cap. " + ch.num + ":") + v.v;
           let anchor = "";
           const pre = v.t.match(/^\(([^)]{3,40}\d+:\d+[^)]*)\)/);
           if(pre) anchor = pre[1];
           else if(ch.ref && /[A-Za-zĂÂÎȘȚăâîșț]/.test(ch.ref) && /\d/.test(ch.ref)) anchor = ch.ref;
           hits.push({
+            sec: "lib", group: group || work,
             title: work + ", " + loc + (anchor ? " - " + anchor : ""),
-            plain: info.plain, html: null, key: "lib_" + book.slug + "_" + ch.num + "_" + v.v,
+            plain: info.plain, html: null, key,
             open: { type: "lib", slug: book.slug, chIdx }
           });
         });
       });
     });
+  }
+
+  // 3. Haftarot (text Rosen) → Biblia, din indexul mic de text
+  if(window.SEARCH_HAFTAROT){
+    Object.keys(window.SEARCH_HAFTAROT).forEach(slug => {
+      window.SEARCH_HAFTAROT[slug].forEach(([chIdx, chNum, chTitle, verses]) => {
+        verses.forEach(([ref, text, vkey], vi) => {
+          const info = srStringInfo(slug + "|" + chIdx + "|" + vi, text);
+          if(!match(info)) return;
+          const bookName = ref.replace(/\s*[\d]+:[\d]+.*$/, "").trim();
+          hits.push({
+            sec: "bible", testament: srTestament(bookName),
+            title: ref + " - Haftarah " + chTitle, plain: info.plain, html: null,
+            key: "lib_" + slug + "_" + chNum + "_" + vkey,
+            open: { type: "lib", slug, chIdx }
+          });
+        });
+      });
+    });
+  } else {
+    srLoadHaftarot();
   }
   return hits;
 }
@@ -8178,14 +8249,15 @@ function srBuildCard(hit, toks){
   return card;
 }
 
-let srActiveForm = null;
+let srFilter = null; // „VT” / „NT” la Biblia, numele colecției la Comentarii-Texte
+let srChipsOpen = false; // lista completă de colecții la Comentarii-Texte
 let srSection = "bible"; // "bible" = Biblia, "lib" = Comentarii-Texte (arhiva din Diverse)
 const SR_PAGE = 40;
 
 function runSearch(){
   const query = searchInput.value.trim();
   searchResults.innerHTML = "";
-  if(query.length < 2){ srActiveForm = null; return; }
+  if(query.length < 2){ srFilter = null; return; }
   const toks = srStrip(query).split(/\s+/).filter(Boolean);
   if(!toks.length) return;
 
@@ -8196,26 +8268,23 @@ function runSearch(){
   }
 
   const bySec = {
-    bible: all.filter(h => h.open.type === "bible"),
-    lib: all.filter(h => h.open.type === "lib")
+    bible: all.filter(h => h.sec === "bible"),
+    lib: all.filter(h => h.sec === "lib")
   };
   // dacă secțiunea aleasă n-are nimic, trecem automat la cealaltă
   let sec = srSection;
   if(!bySec[sec].length) sec = (sec === "bible") ? "lib" : "bible";
   const inSec = bySec[sec];
 
-  // formele găsite (cu și fără diacritice) ale primului cuvânt căutat, în secțiunea curentă
-  const forms = new Map();
-  inSec.forEach(h => {
-    const ranges = srRanges(h.plain, [toks[0]]);
-    const seen = new Set();
-    ranges.forEach(r => {
-      const w = srWordAround(h.plain, r[0], r[1]).toLowerCase();
-      if(w && !seen.has(w)){ seen.add(w); forms.set(w, (forms.get(w) || 0) + 1); }
-    });
-    h._forms = seen;
-  });
-  if(srActiveForm && !forms.has(srActiveForm)) srActiveForm = null;
+  // filtrele secțiunii: VT / NT la Biblia, colecțiile (Zohar, Mișna…) la Comentarii-Texte
+  const counts = new Map();
+  if(sec === "bible"){
+    counts.set("VT", 0); counts.set("NT", 0);
+    inSec.forEach(h => counts.set(h.testament, (counts.get(h.testament) || 0) + 1));
+  } else {
+    inSec.forEach(h => counts.set(h.group, (counts.get(h.group) || 0) + 1));
+  }
+  if(srFilter && !counts.get(srFilter)) srFilter = null;
 
   const summary = document.createElement("div");
   summary.className = "search-summary";
@@ -8228,28 +8297,38 @@ function runSearch(){
     const btn = document.createElement("button");
     btn.className = "search-section-btn" + (sec === id ? " active" : "");
     btn.innerHTML = escapeHtml(label) + "<b>" + bySec[id].length + "</b>";
-    btn.addEventListener("click", () => { if(srSection === id && sec === id) return; srSection = id; srActiveForm = null; runSearch(); });
+    btn.addEventListener("click", () => { if(sec === id) return; srSection = id; srFilter = null; runSearch(); });
     seg.appendChild(btn);
   });
   searchResults.appendChild(seg);
 
-  const formsEl = document.createElement("div");
-  formsEl.className = "search-forms";
-  const sorted = Array.from(forms.entries()).sort((a, b) => b[1] - a[1]).slice(0, 12);
-  const typedLower = query.toLowerCase();
-  const showForms = sorted.length > 1 || (sorted.length === 1 && sorted[0][0] !== typedLower);
-  if(showForms){
-    sorted.forEach(([w, n]) => {
+  const chipsEl = document.createElement("div");
+  chipsEl.className = "search-forms";
+  const entries = Array.from(counts.entries());
+  if(sec === "lib") entries.sort((a, b) => b[1] - a[1]);
+  if(entries.length > 1 || sec === "bible"){
+    const LIMIT = 8;
+    // colecția aleasă rămâne mereu vizibilă, chiar dacă nu e printre primele
+    const visible = (srChipsOpen || entries.length <= LIMIT + 1) ? entries
+      : entries.filter(([name], i) => i < LIMIT || name === srFilter);
+    visible.forEach(([name, n]) => {
       const chip = document.createElement("button");
-      chip.className = "search-form-chip" + (srActiveForm === w ? " active" : "");
-      chip.innerHTML = escapeHtml(w) + "<b>" + n + "</b>";
-      chip.addEventListener("click", () => { srActiveForm = (srActiveForm === w) ? null : w; runSearch(); });
-      formsEl.appendChild(chip);
+      chip.className = "search-form-chip" + (srFilter === name ? " active" : "") + (n ? "" : " empty");
+      chip.innerHTML = escapeHtml(name) + "<b>" + n + "</b>";
+      if(n) chip.addEventListener("click", () => { srFilter = (srFilter === name) ? null : name; runSearch(); });
+      chipsEl.appendChild(chip);
     });
-    searchResults.appendChild(formsEl);
+    if(visible.length < entries.length || (srChipsOpen && entries.length > LIMIT + 1)){
+      const tog = document.createElement("button");
+      tog.className = "search-form-chip";
+      tog.textContent = srChipsOpen ? "Mai puține" : "+" + (entries.length - visible.length) + " colecții";
+      tog.addEventListener("click", () => { srChipsOpen = !srChipsOpen; runSearch(); });
+      chipsEl.appendChild(tog);
+    }
+    searchResults.appendChild(chipsEl);
   }
 
-  const shown = srActiveForm ? inSec.filter(h => h._forms.has(srActiveForm)) : inSec;
+  const shown = srFilter ? inSec.filter(h => (sec === "bible" ? h.testament : h.group) === srFilter) : inSec;
 
   const list = document.createElement("div");
   searchResults.appendChild(list);
@@ -8269,6 +8348,7 @@ function runSearch(){
   more.addEventListener("click", renderMore);
   renderMore();
 }
+
 let srTimer = null;
 searchInput.addEventListener("input", () => {
   clearTimeout(srTimer);

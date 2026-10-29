@@ -239,3 +239,10 @@ Niciodată nu presupune că o arhivă nouă e conținut nou.
 - Fișier „nou" retrimis, de fapt identic cu ce exista deja (Heikhalot Rabbati, Rasag, Ramban) — comparat text-cu-text, confirmat 0 diferențe
 - Numerotare diferită între aplicație și sursă pentru același conținut — comparat prin poziție, nu prin cheie
 - Sumă de versete ușor diferită de notele estimative ale sursei — nu-i alarmant dacă componentele se verifică corect
+
+---
+
+## Căutarea (tab Căutare)
+- Secțiunea „Biblia” = doar textul Torei (Rosen) și al Haftarot; „Comentarii-Texte” = restul arhivei din Diverse + comentariile atașate versetelor din Biblia. Nu se amestecă.
+- Haftarot se caută într-un index mic de text, `public/search-haftarot.js`, generat cu `node tools/build-search-haftarot.js`. **Se rulează din nou după orice modificare de text la Haftarot** (altfel căutarea arată textul vechi).
+- Lucrările încărcate la cerere (Zohar, Mișna, Josephus, Eusebiu) intră în căutare doar după ce au fost deschise o dată.
