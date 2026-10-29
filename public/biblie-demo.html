@@ -2583,23 +2583,23 @@
     margin-top:16px;
     padding:16px 18px 16px 18px;
   }
+  .history-head{display:flex; align-items:center; gap:8px; margin-bottom:10px;}
+  .history-head .hero-label{margin-bottom:0;}
   .history-info-btn{
-    position:absolute;
-    top:12px;
-    right:12px;
-    z-index:3;
-    font-family:'Fraunces', serif;
-    font-style:italic;
-    font-weight:700;
-    font-size:15px;
+    position:static;
+    flex-shrink:0;
+    top:auto; right:auto;
+    background:rgba(6,10,28,0.45);
+    border-color:var(--glass-border);
+    color:var(--ink);
   }
   .history-info-btn[aria-expanded="true"]{color:#FFD700; border-color:#FFD700;}
   .history-info .history-sec-inner{
     font-size:12px;
-    line-height:1.55;
-    color:var(--ink-soft);
+    line-height:1.6;
+    color:var(--ink);
   }
-  .history-info.open .history-sec-inner{padding:2px 40px 12px 0;}
+  .history-info.open .history-sec-inner{padding:0 0 10px 0;}
   .history-info a{color:var(--ink); text-decoration:underline;}
   .history-info p{margin:0 0 6px;}
   .history-tabs{display:flex; flex-wrap:wrap; gap:8px;}
@@ -2668,20 +2668,20 @@
   }
   /* textul principal — exact ca versetul din „Versetul zilei” */
   .history-title{
-    font-family:'Fraunces', serif;
-    font-size:17px;
-    line-height:1.4;
-    font-weight:500;
+    font-family:'Inter', sans-serif;
+    font-size:13px;
+    line-height:1.55;
+    font-weight:600;
     color:var(--ink);
-    margin-bottom:12px;
+    margin-bottom:10px;
   }
   .history-cont{
-    font-family:'Fraunces', serif;
-    font-size:17px;
-    line-height:1.4;
+    font-family:'Inter', sans-serif;
+    font-size:13px;
+    line-height:1.55;
     font-weight:500;
     color:var(--ink);
-    margin:0 0 10px;
+    margin:0 0 8px;
   }
   .history-actions{display:flex; align-items:center; gap:8px; margin-bottom:4px;}
   .history-btn{
@@ -2718,7 +2718,8 @@
   }
   .history-list{list-style:none; margin:0; padding:0;}
   .history-list li{
-    font-size:14px;
+    font-family:'Inter', sans-serif;
+    font-size:13px;
     line-height:1.5;
     color:var(--ink);
     padding:7px 0;
@@ -2728,7 +2729,7 @@
   .history-list li[hidden]{display:none;}
   .history-year{font-weight:700; color:#FFD700;}
   .history-person-name{font-weight:600;}
-  .history-person-role{display:block; font-size:13px; color:var(--ink-soft); margin-top:2px;}
+  .history-person-role{display:block; font-size:12px; color:var(--ink-soft); margin-top:2px;}
   .history-more{
     margin-top:8px;
     font-family:'Inter', sans-serif;
@@ -3369,9 +3370,11 @@
 
       <section class="hero-verse-card history-card" id="history-card" aria-labelledby="history-label">
         <div class="hero-pattern"></div>
-        <button type="button" class="hero-menu-btn history-info-btn" id="history-info-btn" aria-label="Despre sursele datelor" aria-expanded="false" aria-controls="history-info">i</button>
         <div class="hero-content">
-          <div class="hero-label" id="history-label">Istoria zilei</div>
+          <div class="history-head">
+            <button type="button" class="info-btn history-info-btn" id="history-info-btn" aria-label="Sursele datelor" aria-expanded="false" aria-controls="history-info">ⓘ</button>
+            <div class="hero-label" id="history-label">Istoria zilei</div>
+          </div>
           <div class="history-sec history-info" id="history-info" role="region" aria-label="Sursele datelor"><div class="history-sec-inner" id="history-info-body"></div></div>
           <div class="history-tabs" role="group" aria-label="Categorii istorice">
             <button type="button" class="history-tab" id="history-tab-events" data-sec="events" aria-expanded="false" aria-controls="history-sec-events">Evenimente <span class="history-chev" aria-hidden="true">▾</span></button>
@@ -7913,15 +7916,7 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
   function renderInfo(data){
     const body = el("history-info-body");
     body.textContent = "";
-    body.appendChild(mk("p", "", "Datele vin din surse deschise, folosite cu atribuirea cerută de licență:"));
-    (data.sources || []).forEach(s => {
-      const p = mk("p");
-      const a = mk("a", "", s.name);
-      a.href = s.url; a.target = "_blank"; a.rel = "noopener";
-      p.appendChild(a);
-      p.appendChild(document.createTextNode(" · " + s.license + (s.note ? " — " + s.note : "")));
-      body.appendChild(p);
-    });
+    (data.sources || []).forEach(s => body.appendChild(mk("p", "", s.name + " - " + s.license)));
   }
 
   function renderAll(data){
@@ -7978,9 +7973,10 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
   // click oriunde în afara conținutului deschis închide secțiunea (și nota despre surse)
   document.addEventListener("click", (e) => {
     if(!open && !infoOpen) return;
-    if(e.target.closest(".history-sec") || e.target.closest(".history-tab") || e.target.closest("#history-info-btn")) return;
+    if(e.target.closest("#history-info-btn")) return;
+    if(infoOpen) setInfo(false); // panoul de surse se închide la orice click
+    if(e.target.closest(".history-sec") || e.target.closest(".history-tab")) return;
     if(open) setOpen(null);
-    if(infoOpen) setInfo(false);
   });
 
   checkDay();

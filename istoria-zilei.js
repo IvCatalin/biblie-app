@@ -138,7 +138,7 @@ function parsePeople(lines, kind){
     role = role.replace(/[\s,;]+$/, "");
     if(!name) return;
     out.push({
-      year: p.year, yearNum: yearNumber(p.year), name, role, life,
+      year: p.year, yearNum: yearNumber(p.year), name, role, life, title: nm ? nm[1].trim() : "",
       religious: religiousScore(role + " " + name),
       weight: articleLinks(p.rest).length
     });
@@ -201,6 +201,33 @@ function sameEvent(a, b){
 }
 function nameKey(n){ return strip(String(n || "")).replace(/[^a-z0-9]/g, ""); }
 
+// câte limbi are Wikipedia pentru un articol = măsură a notorietății (din Wikidata); pentru alegerea celor 2–4 intrări laice
+async function sitelinkCounts(titles){
+  const out = {};
+  const uniq = Array.from(new Set(titles.filter(Boolean)));
+  for(let i = 0; i < uniq.length; i += 45){
+    const chunk = uniq.slice(i, i + 45);
+    try {
+      const j = await getJson("https://www.wikidata.org/w/api.php?action=wbgetentities&sites=rowiki&props=sitelinks&format=json&titles=" + encodeURIComponent(chunk.join("|")));
+      Object.keys(j.entities || {}).forEach(id => {
+        const e = j.entities[id];
+        if(!e || !e.sitelinks || !e.sitelinks.rowiki) return;
+        const n = Object.keys(e.sitelinks).filter(k => /wiki$/.test(k) && k !== "commonswiki" && k !== "specieswiki" && k !== "metawiki").length;
+        out[nameKey(e.sitelinks.rowiki.title)] = n;
+      });
+    } catch(err){ /* fără notorietate: ordinea rămâne cea din pagină */ }
+  }
+  return out;
+}
+
+// 10 intrări: majoritatea iudeo-creștine, plus 2–4 laice dintre cele mai cunoscute
+function compose(religious, secular, total){
+  const target = religious.length >= total - 3 ? 3 : Math.min(4, total - religious.length);
+  const nSec = Math.min(secular.length, target);
+  const nRel = Math.min(religious.length, total - nSec);
+  return religious.slice(0, nRel).concat(secular.slice(0, nSec));
+}
+
 async function build(month, day){
   const pageTitle = day + " " + MONTHS[month - 1];
   const key = month + "-" + day;
@@ -215,19 +242,29 @@ async function build(month, day){
     if(!CURATED_EVENTS[key] && !CURATED_PEOPLE[key]) throw err;
   }
   const pick = names => { for(const n of names) if(sections[n]) return sections[n]; return []; };
+  const TOP = 10; // 10 cele mai importante: ~7 iudeo-creștine și 2–4 laice
 
-  // evenimente: întâi cele selectate (iudeo-creștine, neoprotestante), apoi cele din Wikipedia română
+  // --- evenimente ---
   const curated = (CURATED_EVENTS[key] || []).map(e => ({
     year: e.y, yearNum: yearNumber(e.y), text: e.t, links: [], religious: 1, score: 1000 + e.p * 100, curated: true
   }));
-  const wiki = parseEvents(pick(["Evenimente"])).map(e => Object.assign(e, { score: e.religious * 20 + Math.min(e.weight, 10) }));
-  const all = curated.slice();
-  wiki.forEach(w => { if(!curated.some(c => sameEvent(c, w))) all.push(w); });
-  all.sort((a, b) => (b.score - a.score) || (a.yearNum - b.yearNum));
+  const wiki = parseEvents(pick(["Evenimente"]));
+  const religiousEv = curated.slice();
+  wiki.filter(w => w.religious > 0 && !curated.some(c => sameEvent(c, w)))
+      .forEach(w => religiousEv.push(Object.assign(w, { score: w.religious * 20 + Math.min(w.weight, 10) })));
+  religiousEv.sort((a, b) => (b.score - a.score) || (a.yearNum - b.yearNum));
 
-  const TOP = 10; // doar cele mai importante: evenimentul zilei + 9, câte 10 nașteri și decese
+  // laice: cele ale căror articole există în cele mai multe limbi
+  let secularEv = wiki.filter(w => !(w.religious > 0) && !curated.some(c => sameEvent(c, w)));
+  secularEv.sort((a, b) => b.weight - a.weight);
+  secularEv = secularEv.slice(0, 25);
+  const evFame = await sitelinkCounts(secularEv.map(e => e.links[0]));
+  secularEv.forEach(e => { e.fame = evFame[nameKey(e.links[0])] || 0; });
+  secularEv.sort((a, b) => (b.fame - a.fame) || (b.weight - a.weight));
+  secularEv = secularEv.filter(e => e.fame >= 40 || !Object.keys(evFame).length);
+
+  const events = compose(religiousEv, secularEv, TOP);
   let main = null;
-  const events = all.slice(0, TOP);
   if(events.length){
     // evenimentul zilei: primul din listă; dacă nu e unul major (pondere 3) și nu are articol cu poveste,
     // se ia primul dintre următoarele 3 care are
@@ -235,7 +272,7 @@ async function build(month, day){
     for(let i = 0; i < Math.min(4, events.length); i++){
       const c = events[i];
       const links = c.links || []; // evenimentele selectate nu au articol asociat: povestea vine doar din trimiterile Wikipedia
-      if(links.length){
+      if(links.length && c.religious > 0){
         const s = await fetchStory(links);
         if(s){ idx = i; story = s; break; }
       }
@@ -245,53 +282,38 @@ async function build(month, day){
     main = { year: e.year, text: e.text, category: e.religious > 0 ? "Religie" : "Istorie", story };
   }
 
-  // persoane: întâi cele din Wikidata (profesii religioase, după notorietate), apoi completare din Wikipedia română
-  function people(kind){
-    const fromData = ((CURATED_PEOPLE[key] || {})[kind] || []).map(p => ({ year: String(p.y), name: p.n, role: p.r || "", life: p.l || "" }));
-    const out = fromData.slice(0, TOP);
-    if(out.length < TOP){
-      const seen = new Set(out.map(p => nameKey(p.name)));
-      const wikiList = rank(parsePeople(pick(kind === "births" ? ["Nașteri", "Nasteri"] : ["Decese"]), kind));
-      for(const p of wikiList){
-        if(out.length >= TOP) break;
-        if(seen.has(nameKey(p.name))) continue;
-        seen.add(nameKey(p.name));
-        out.push({ year: p.year, name: p.name, role: p.role, life: p.life });
-      }
-    }
-    return out;
+  // --- persoane: ~7 iudeo-creștine cunoscute (Wikidata) + 2–4 laice foarte cunoscute (Wikipedia română) ---
+  async function people(kind){
+    let rel = ((CURATED_PEOPLE[key] || {})[kind] || []);
+    const known = rel.filter(p => p.s === undefined || p.s >= 25);
+    rel = (known.length >= 5 ? known : rel.filter(p => p.s === undefined || p.s >= 15)).map(p => ({ year: String(p.y), name: p.n, role: p.r || "", life: p.l || "" }));
+    const seen = new Set(rel.map(p => nameKey(p.name)));
+    const wikiList = parsePeople(pick(kind === "births" ? ["Nașteri", "Nasteri"] : ["Decese"]), kind)
+      .filter(p => !(p.religious > 0) && p.title && !seen.has(nameKey(p.name)));
+    wikiList.sort((a, b) => b.weight - a.weight);
+    const cand = wikiList.slice(0, 40);
+    const fame = await sitelinkCounts(cand.map(p => p.title));
+    cand.forEach(p => { p.fame = fame[nameKey(p.title)] || 0; });
+    cand.sort((a, b) => b.fame - a.fame);
+    const sec = cand.filter(p => p.fame >= 50).map(p => ({ year: p.year, name: p.name, role: p.role, life: p.life }));
+    return compose(rel, sec, TOP);
   }
 
-  const sources = [{
-    name: "Wikipedia în limba română",
-    license: "CC BY-SA 4.0",
-    url: "https://ro.wikipedia.org/wiki/" + encodeURIComponent(pageTitle.replace(/ /g, "_")),
-    note: "evenimente, nașteri și decese, introducerile articolelor"
-  }];
-  if(curated.length){
-    sources.push({
-      name: "Wikipedia în limba engleză",
-      license: "CC BY-SA 4.0",
-      url: "https://en.wikipedia.org/wiki/" + MONTHS_EN[month - 1] + "_" + day,
-      note: "evenimente din istoria Bisericii și a poporului evreu, alese și traduse în română; datele neoprotestante au fost verificate pe surse separate (organizații și arhive ale confesiunilor)"
-    });
-  }
-  if(CURATED_PEOPLE[key]){
-    sources.push({
-      name: "Wikidata",
-      license: "CC0 (domeniu public)",
-      url: "https://www.wikidata.org",
-      note: "nașteri și comemorări ale unor persoane cu profesii religioase"
-    });
-  }
+  const births = await people("births");
+  const deaths = await people("deaths");
+
+  // surse: doar numele scurt și licența
+  const sources = [{ name: "Wikipedia", license: "CC BY-SA 4.0", url: "https://ro.wikipedia.org/wiki/" + encodeURIComponent(pageTitle.replace(/ /g, "_")) }];
+  if(curated.length) sources[0].url = "https://en.wikipedia.org/wiki/" + MONTHS_EN[month - 1] + "_" + day;
+  if(CURATED_PEOPLE[key]) sources.push({ name: "Wikidata", license: "CC0", url: "https://www.wikidata.org" });
   return {
     month, day,
     label: pageTitle,
     sources,
     main,
     events: events.map(e => ({ year: e.year, text: e.text })),
-    births: people("births"),
-    deaths: people("deaths")
+    births,
+    deaths
   };
 }
 

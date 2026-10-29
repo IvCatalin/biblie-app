@@ -42,7 +42,7 @@ const OTHER_RELIGIONS = ["Q432","Q748","Q9089","Q9232","Q9316","Q9598","Q812767"
 function occList(){ return Object.keys(OCC).map(q => "wd:" + q).join(" "); }
 
 async function sparql(q){
-  for(let i = 0; i < 3; i++){
+  for(let i = 0; i < 6; i++){
     try {
       const ctrl = new AbortController();
       const t = setTimeout(() => ctrl.abort(), 110000);
@@ -53,7 +53,7 @@ async function sparql(q){
       if(r.ok) return (await r.json()).results.bindings;
       console.error("  HTTP", r.status);
     } catch(e){ console.error("  eroare", e.message); }
-    await new Promise(r => setTimeout(r, 4000));
+    await new Promise(r => setTimeout(r, 12000));
   }
   throw new Error("interogare eșuată");
 }
@@ -67,7 +67,7 @@ function query(month, kind){
 WHERE {
   VALUES ?occ { ${occList()} }
   ?p wdt:P106 ?occ ; wdt:${main} ?dt ; wikibase:sitelinks ?sl .
-  FILTER(?sl >= 8)
+  FILTER(?sl >= 20)
   FILTER(MONTH(?dt) = ${month})
   OPTIONAL { ?p wdt:P140 ?rel }
   OPTIONAL { ?p rdfs:label ?ro FILTER(LANG(?ro)="ro") }
@@ -116,7 +116,7 @@ function candidates(rows, kind){
   });
   Object.keys(byDay).forEach(k => {
     const seen = new Set();
-    byDay[k] = byDay[k].sort((a, b) => b.s - a.s).filter(p => { const id = p.n + p.y; if(seen.has(id)) return false; seen.add(id); return true; }).slice(0, 30);
+    byDay[k] = byDay[k].sort((a, b) => b.s - a.s).filter(p => { const id = p.n + p.y; if(seen.has(id)) return false; seen.add(id); return true; }).slice(0, 14);
   });
   return byDay;
 }
@@ -161,7 +161,7 @@ function candidates(rows, kind){
         if(p.relAdj && !new RegExp(p.relAdj.split(" ")[0], "i").test(role)) role += " " + p.relAdj;
         if(inf.country) role += " din " + inf.country;
         const life = inf.oy ? ((kind === "births" ? "d. " : "n. ") + inf.oy) : "";
-        return { y: p.y, n: p.n, r: role, l: life };
+        return { y: p.y, n: p.n, r: role, l: life, s: p.sl };
       });
       if(list.length){ out[k] = out[k] || {}; out[k][kind] = list; }
     });
