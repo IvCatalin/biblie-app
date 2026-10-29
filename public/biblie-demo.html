@@ -2583,8 +2583,23 @@
     margin-top:16px;
     padding:16px 18px 16px 18px;
   }
-  .history-head{display:flex; align-items:center; gap:8px; margin-bottom:10px;}
-  .history-head .hero-label{margin-bottom:0;}
+  .history-head{display:flex; align-items:baseline; flex-wrap:wrap; column-gap:8px; row-gap:2px; margin-bottom:10px; padding-right:40px;}
+  .history-head .hero-label{margin-bottom:0; white-space:nowrap;}
+  .history-head .hero-label::after{content:" -";}
+  .history-head-date{
+    font-family:'Inter', sans-serif;
+    font-weight:700;
+    font-size:13px;
+    color:var(--ink);
+    white-space:nowrap;
+  }
+  .history-event-date{
+    font-family:'Inter', sans-serif;
+    font-weight:700;
+    font-size:12.5px;
+    color:#FFD700;
+    margin:-4px 0 10px;
+  }
   .history-info-btn{
     position:absolute;
     top:12px; right:12px;
@@ -3386,6 +3401,7 @@
         <div class="hero-content">
           <div class="history-head">
             <div class="hero-label" id="history-label">Istoria zilei</div>
+            <div class="history-head-date" id="history-head-date"></div>
           </div>
           <div class="history-tabs" role="group" aria-label="Categorii istorice">
             <button type="button" class="history-tab" id="history-tab-events" data-sec="events" aria-expanded="false" aria-controls="history-sec-events">Evenimente <span class="history-chev" aria-hidden="true">▾</span></button>
@@ -7746,9 +7762,10 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
     return n;
   }
   function now(){ const n = new Date(); return { m: n.getMonth() + 1, d: n.getDate(), y: n.getFullYear(), w: n.getDay() }; }
+  function capMonth(m){ const s = LUNI_H[m - 1]; return s.charAt(0).toUpperCase() + s.slice(1); }
   function dateText(){
     const t = now();
-    return t.d + " " + LUNI_H[t.m - 1] + " · " + ZILE_H[t.w] + " · " + t.y;
+    return t.d + " " + capMonth(t.m) + " · " + ZILE_H[t.w] + " · " + t.y;
   }
 
   function applyBackground(){
@@ -7831,83 +7848,69 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
     body.textContent = "";
     const main = data.main;
     if(!main && !data.events.length){ note(body, "Nu am găsit evenimente pentru această zi."); return; }
-    body.appendChild(kickerRow("⭐ Evenimentul zilei", true));
+    body.appendChild(kickerRow("⭐ Evenimentul zilei", false));
 
+    const t = now();
     if(main){
+      // titlu → „29 Octombrie 1948” → povestea (tot textul, la vedere) → „Citește mai mult” cu celelalte evenimente din aceeași zi
       body.appendChild(mk("div", "history-title", main.text));
-
-      const hasMore = (main.story && main.story.paragraphs.length) || data.events.length;
-      const story = mk("div", "history-sec history-story");
-      story.id = "history-story";
-      const inner = mk("div", "history-sec-inner");
-      story.appendChild(inner);
+      body.appendChild(mk("div", "history-event-date", t.d + " " + capMonth(t.m) + " " + main.year));
       if(main.story){
-        // continuarea textului, fără să repete propoziția de mai sus
-        main.story.paragraphs.forEach(p => inner.appendChild(mk("p", "history-cont", p)));
-        const src = mk("p", "history-par-source");
-        src.appendChild(document.createTextNode("Articol: "));
-        const a = mk("a", "", main.story.source.title);
-        a.href = main.story.source.url; a.target = "_blank"; a.rel = "noopener";
-        src.appendChild(a);
-        inner.appendChild(src);
+        main.story.paragraphs.forEach(p => body.appendChild(mk("p", "history-cont", p)));
       }
-      if(data.events.length){
-        inner.appendChild(mk("div", "history-subhead", "Alte evenimente din această zi"));
-        const ul = makeList(data.events, eventItem);
-        inner.appendChild(ul);
-        const more = mk("button", "history-more");
-        more.type = "button";
-        more.setAttribute("aria-controls", "history-story");
-        inner.appendChild(more);
-        toggleList(ul, more, "Vezi toate evenimentele", "Arată mai puține");
-      }
-
-      const actions = mk("div", "history-actions");
-      if(hasMore){
-        const readBtn = mk("button", "history-btn");
-        readBtn.type = "button";
-        readBtn.setAttribute("aria-controls", "history-story");
-        readBtn.setAttribute("aria-expanded", "false");
-        readBtn.textContent = "Citește mai mult ⌄";
-        readBtn.addEventListener("click", () => {
-          const opening = !story.classList.contains("open");
-          story.classList.toggle("open", opening);
-          readBtn.setAttribute("aria-expanded", opening ? "true" : "false");
-          readBtn.textContent = opening ? "Citește mai puțin ⌃" : "Citește mai mult ⌄";
-        });
-        actions.appendChild(readBtn);
-      }
-      const heart = mk("button", "history-btn history-heart");
-      heart.type = "button";
-      heart.setAttribute("aria-label", "Salvează evenimentul zilei");
-      heart.innerHTML = HEART;
-      const likeKey = "hist-like-" + dayKey;
-      let liked = false;
-      try { liked = localStorage.getItem(likeKey) === "1"; } catch(e){}
-      heart.setAttribute("aria-pressed", liked ? "true" : "false");
-      heart.addEventListener("click", () => {
-        liked = !liked;
-        heart.setAttribute("aria-pressed", liked ? "true" : "false");
-        try { localStorage.setItem(likeKey, liked ? "1" : "0"); } catch(e){}
-      });
-      actions.appendChild(heart);
-      body.appendChild(actions);
-      body.appendChild(story);
     } else {
-      const ul = makeList(data.events, eventItem);
-      body.appendChild(ul);
-      const more = mk("button", "history-more");
-      more.type = "button";
-      body.appendChild(more);
-      toggleList(ul, more, "Vezi toate evenimentele", "Arată mai puține");
+      body.appendChild(mk("div", "history-event-date", t.d + " " + capMonth(t.m)));
     }
+
+    const others = mk("div", "history-sec history-story");
+    others.id = "history-story";
+    const inner = mk("div", "history-sec-inner");
+    others.appendChild(inner);
+    if(data.events.length){
+      inner.appendChild(mk("div", "history-subhead", "Alte evenimente din această zi"));
+      const ul = mk("ul", "history-list");
+      data.events.forEach(e => ul.appendChild(eventItem(e)));
+      inner.appendChild(ul);
+    }
+
+    const actions = mk("div", "history-actions");
+    if(data.events.length){
+      const readBtn = mk("button", "history-btn");
+      readBtn.type = "button";
+      readBtn.setAttribute("aria-controls", "history-story");
+      readBtn.setAttribute("aria-expanded", "false");
+      readBtn.textContent = "Citește mai mult ⌄";
+      readBtn.addEventListener("click", () => {
+        const opening = !others.classList.contains("open");
+        others.classList.toggle("open", opening);
+        readBtn.setAttribute("aria-expanded", opening ? "true" : "false");
+        readBtn.textContent = opening ? "Citește mai puțin ⌃" : "Citește mai mult ⌄";
+      });
+      actions.appendChild(readBtn);
+    }
+    const heart = mk("button", "history-btn history-heart");
+    heart.type = "button";
+    heart.setAttribute("aria-label", "Salvează evenimentul zilei");
+    heart.innerHTML = HEART;
+    const likeKey = "hist-like-" + dayKey;
+    let liked = false;
+    try { liked = localStorage.getItem(likeKey) === "1"; } catch(e){}
+    heart.setAttribute("aria-pressed", liked ? "true" : "false");
+    heart.addEventListener("click", () => {
+      liked = !liked;
+      heart.setAttribute("aria-pressed", liked ? "true" : "false");
+      try { localStorage.setItem(likeKey, liked ? "1" : "0"); } catch(e){}
+    });
+    actions.appendChild(heart);
+    body.appendChild(actions);
+    body.appendChild(others);
   }
 
   function renderPeople(secId, list, kicker, moreLabel, emptyText){
     const body = el("history-body-" + secId);
     body.textContent = "";
     if(!list.length){ note(body, emptyText); return; }
-    body.appendChild(kickerRow(kicker, true));
+    body.appendChild(kickerRow(kicker, false));
     const ul = makeList(list, p => {
       const li = mk("li");
       li.appendChild(mk("span", "history-year", p.year));
@@ -7968,6 +7971,7 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
     const key = t.m + "-" + t.d;
     if(key === dayKey) return;
     dayKey = key;
+    el("history-head-date").textContent = dateText();
     applyBackground();
     setOpen("events");
     setInfo(false);
