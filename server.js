@@ -114,6 +114,23 @@ app.post("/api/tts", async (req, res) => {
   }
 });
 
+// Căutare în toată arhiva din Diverse (inclusiv capitolele încărcate la cerere).
+// Parametri: q (cuvântul), group (colecția, opțional), offset, limit.
+const searchIndex = require("./search-index");
+app.get("/api/search", async (req, res) => {
+  try {
+    const q = String(req.query.q || "").slice(0, 120);
+    const group = String(req.query.group || "");
+    const offset = Math.max(0, parseInt(req.query.offset, 10) || 0);
+    const limit = Math.min(100, Math.max(0, parseInt(req.query.limit, 10) || 0));
+    res.set("Cache-Control", "no-store");
+    res.json(await searchIndex.search(q, group, offset, limit));
+  } catch (err) {
+    console.error("Eroare căutare:", err);
+    res.status(500).json({ error: "Căutarea a eșuat." });
+  }
+});
+
 app.get("/api/health", (req, res) => {
   res.json({ ok: true, hasKey: !!process.env.OPENAI_API_KEY });
 });
@@ -122,4 +139,5 @@ app.listen(PORT, () => {
   console.log(`\nServer pornit pe portul ${PORT}`);
   console.log(`Aplicația: http://localhost:${PORT}/biblie-demo.html`);
   console.log(`Verificare rapidă: http://localhost:${PORT}/api/health\n`);
+  searchIndex.ensureIndex().catch(err => console.error("Indexul de căutare nu s-a putut construi:", err));
 });

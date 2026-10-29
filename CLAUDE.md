@@ -245,4 +245,5 @@ Niciodată nu presupune că o arhivă nouă e conținut nou.
 ## Căutarea (tab Căutare)
 - Secțiunea „Biblia” = doar textul Torei (Rosen) și al Haftarot; „Comentarii-Texte” = restul arhivei din Diverse + comentariile atașate versetelor din Biblia. Nu se amestecă.
 - Haftarot se caută într-un index mic de text, `public/search-haftarot.js`, generat cu `node tools/build-search-haftarot.js`. **Se rulează din nou după orice modificare de text la Haftarot** (altfel căutarea arată textul vechi).
-- Lucrările încărcate la cerere (Zohar, Mișna, Josephus, Eusebiu) intră în căutare doar după ce au fost deschise o dată.
+- „Comentarii-Texte” se caută pe server (`/api/search`, modulul `search-index.js`), care indexează la pornire toată arhiva din Diverse, inclusiv capitolele încărcate la cerere (Zohar, Mișna, Josephus, Eusebiu). Indexul se reconstruiește la fiecare repornire/deploy, deci nu cere nicio regenerare. Fără server, aplicația caută doar în ce e deja încărcat.
+- Numărul de capitol afișat în cititor e cel real din sursă (`libChNum`), nu poziția: Marcion începe la cap. 5, Dialogul Mântuitorului la 120.
