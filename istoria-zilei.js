@@ -252,6 +252,12 @@ async function build(month, day){
   const religiousEv = curated.slice();
   wiki.filter(w => w.religious > 0 && !curated.some(c => sameEvent(c, w)))
       .forEach(w => religiousEv.push(Object.assign(w, { score: w.religious * 20 + Math.min(w.weight, 10) })));
+  // fără evenimentele centrate pe clerul catolic (papi, cardinali, preoți); rămân istoria protestantă, iudaică, a Bibliei și a sinoadelor ecumenice
+  const CATH_EV = /(\bPapa\b|\bPapei\b|\bpapal|cardinal|\bpreot|iezuit|Vatican|catolic|\bepiscop|arhiepiscop|\bbul[ăa]\b|enciclic)/i;
+  const KEEP_EV = /(protestan|Reform|Luther|Calvin|Zwingli|Knox|baptist|metodist|Wesley|evanghelic|adventist|penticostal|anabaptist|puritan|hughenot|anglican|Biblia|Biblie|Bibliei|evrei|evreiesc|Holocaust|Ierusalim|Israel|pastor|misionar|Niceea|Calcedon|Efes|ecumenic|Crăciun|Paște)/i;
+  for(let i = religiousEv.length - 1; i >= 0; i--){
+    if(CATH_EV.test(religiousEv[i].text) && !KEEP_EV.test(religiousEv[i].text)) religiousEv.splice(i, 1);
+  }
   religiousEv.sort((a, b) => (b.score - a.score) || (a.yearNum - b.yearNum));
 
   // laice: cele ale căror articole există în cele mai multe limbi
@@ -282,27 +288,37 @@ async function build(month, day){
     main = { year: e.year, text: e.text, category: e.religious > 0 ? "Religie" : "Istorie", story };
   }
 
-  // --- persoane: ~7 iudeo-creștine cunoscute (Wikidata) + 2–4 laice foarte cunoscute (Wikipedia română) ---
+  // --- persoane: mișcarea protestantă/neoprotestantă (Wikidata) + figuri laice istorice foarte cunoscute (Wikipedia română) ---
+  // Nu se completează cu nume necunoscute: dacă ziua are puține persoane relevante, lista rămâne scurtă.
+  const SEC_OK = /(rege|regin[ăa]|împărat|țar|sultan|șah|principe|prinț|președinte|prim-ministru|cancelar|conducător|lider|general|savant|fizician|matematician|astronom|chimist|inventator|filozof|filosof|scriitor|poet|dramaturg|compozitor|pictor|sculptor|explorator|navigator|revoluționar|economist|biolog|naturalist|arhitect)/i;
+  const SEC_NO = /(actor|actri[țt][ăa]|cânt[ăa]re[țt]|interpret|regizor|fotbalist|jucător|sportiv|model\b|prezentator|comedian|rapper|muzician|chitarist|baterist|dansator|manechin|cineast|producător|politician)/i;
+  const CATH_OR_ORTH = /(catolic|cardinal|papă|ortodox|iezuit|Vatican)/i;
   async function people(kind){
-    let rel = ((CURATED_PEOPLE[key] || {})[kind] || []);
-    // personalități din istoria iudeo-creștină: papi, Părinți ai Bisericii, reformatori, pastori și misionari cunoscuți, rabini.
-    // Preoții și cardinalii catolici obișnuiți se omit, în afară de papi sau de cei cu notorietate foarte mare.
-    const isPope = p => /^Papa\b/i.test(p.n) || /papă/.test(p.r || "");
-    const plainCatholic = p => /preot catolic|cardinal|cleric/.test(p.r || "") &&
-      !/(reformator|pastor|rabin|misionar|evanghel|ortodox|luteran|reformat|anglican|baptist|metodist|prezbiterian|teolog|episcop|patriarh|sfânt)/.test(p.r || "");
-    rel = rel.filter(p => isPope(p) || !plainCatholic(p) || (p.s || 0) >= 70);
-    const known = rel.filter(p => p.s === undefined || p.s >= 30);
-    rel = (known.length >= 5 ? known : rel.filter(p => p.s === undefined || p.s >= 15)).map(p => ({ year: String(p.y), name: p.n, role: p.r || "", life: p.l || "" }));
+    const list = ((CURATED_PEOPLE[key] || {})[kind] || []);
+    const wikiAll = parsePeople(pick(kind === "births" ? ["Nașteri", "Nasteri"] : ["Decese"]), kind);
+    const wikiByName = new Map(wikiAll.map(p => [nameKey(p.name), p]));
+    const rel = [], moved = [];
+    list.forEach(p => {
+      if(/^Papa\b/i.test(p.n) || CATH_OR_ORTH.test(p.r || "")) return; // fără catolici, ortodocși, papi
+      if(p.s !== undefined && p.s < 30) return; // doar nume cunoscute
+      const w = wikiByName.get(nameKey(p.n));
+      // dacă Wikipedia îl descrie ca laic (ex. scriitor), nu e figură religioasă: poate intra la cele laice
+      if(w && !(w.religious > 0) && !/(pastor|predicator|reformator|evanghelist|misionar|episcop|rabin)/i.test(w.role || "")){ moved.push(w); return; }
+      rel.push({ year: String(p.y), name: p.n, role: p.r || "", life: p.l || "" });
+    });
     const seen = new Set(rel.map(p => nameKey(p.name)));
-    const wikiList = parsePeople(pick(kind === "births" ? ["Nașteri", "Nasteri"] : ["Decese"]), kind)
-      .filter(p => !(p.religious > 0) && p.title && !seen.has(nameKey(p.name)));
-    wikiList.sort((a, b) => b.weight - a.weight);
-    const cand = wikiList.slice(0, 40);
+    const secPool = wikiAll.filter(p => !seen.has(nameKey(p.name)) && p.title && !(p.religious > 0) &&
+      SEC_OK.test(p.role || "") && !SEC_NO.test(p.role || "") && !CATH_OR_ORTH.test(p.role || "") && p.yearNum <= 1950);
+    moved.forEach(w => { if(!secPool.includes(w) && !SEC_NO.test(w.role || "") && w.yearNum <= 1950) secPool.push(w); });
+    secPool.sort((a, b) => b.weight - a.weight);
+    const cand = secPool.slice(0, 40);
     const fame = await sitelinkCounts(cand.map(p => p.title));
     cand.forEach(p => { p.fame = fame[nameKey(p.title)] || 0; });
     cand.sort((a, b) => b.fame - a.fame);
-    const sec = cand.filter(p => p.fame >= 50).map(p => ({ year: p.year, name: p.name, role: p.role, life: p.life }));
-    return compose(rel, sec, TOP);
+    const sec = cand.filter(p => p.fame >= 90).map(p => ({ year: p.year, name: p.name, role: p.role, life: p.life }));
+    const nSec = Math.min(sec.length, rel.length >= 7 ? 3 : 4);
+    const nRel = Math.min(rel.length, TOP - nSec);
+    return rel.slice(0, nRel).concat(sec.slice(0, nSec));
   }
 
   const births = await people("births");

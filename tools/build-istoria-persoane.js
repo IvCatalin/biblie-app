@@ -41,6 +41,24 @@ const OTHER_RELIGIONS = ["Q432","Q748","Q9089","Q9232","Q9316","Q9598","Q812767"
 
 function occList(){ return Object.keys(OCC).map(q => "wd:" + q).join(" "); }
 
+// rezultatele fiecărei luni se păstrează pe disc (temporar), ca o întrerupere să nu ia totul de la capăt;
+// dacă o lună întreagă expiră, se cere în trei bucăți de zile
+const os = require("os");
+const CACHE = path.join(os.tmpdir(), "davar-persoane-cache");
+fs.mkdirSync(CACHE, { recursive: true });
+async function rowsFor(m, kind){
+  const f = path.join(CACHE, kind + "-" + m + ".json");
+  if(fs.existsSync(f)) return JSON.parse(fs.readFileSync(f, "utf8"));
+  let rows;
+  try { rows = await sparql(query(m, kind, 1, 31)); }
+  catch(e){
+    rows = [];
+    for(const [a, b] of [[1, 10], [11, 20], [21, 31]]) rows = rows.concat(await sparql(query(m, kind, a, b)));
+  }
+  fs.writeFileSync(f, JSON.stringify(rows));
+  return rows;
+}
+
 async function sparql(q){
   for(let i = 0; i < 6; i++){
     try {
@@ -59,7 +77,7 @@ async function sparql(q){
 }
 
 // trecerea 1: pe lună, interogare ușoară (fără precizia datei și fără țară, ca să nu depășească timpul limită)
-function query(month, kind){
+function query(month, kind, dFrom, dTo){
   const main = kind === "births" ? "P569" : "P570";
   return `SELECT ?p ?en ?ro ?dt ?sl
   (GROUP_CONCAT(DISTINCT STRAFTER(STR(?occ),"entity/"); separator=",") AS ?occs)
@@ -68,7 +86,7 @@ WHERE {
   VALUES ?occ { ${occList()} }
   ?p wdt:P106 ?occ ; wdt:${main} ?dt ; wikibase:sitelinks ?sl .
   FILTER(?sl >= 20)
-  FILTER(MONTH(?dt) = ${month})
+  FILTER(MONTH(?dt) = ${month} && DAY(?dt) >= ${dFrom || 1} && DAY(?dt) <= ${dTo || 31})
   OPTIONAL { ?p wdt:P140 ?rel }
   OPTIONAL { ?p rdfs:label ?ro FILTER(LANG(?ro)="ro") }
   OPTIONAL { ?p rdfs:label ?en FILTER(LANG(?en)="en") }
@@ -88,12 +106,23 @@ function query2(ids, kind){
 } GROUP BY ?p ?prec`;
 }
 
+const PROT_OCC = new Set(["Q152002","Q352507","Q1423891","Q114797862","Q1381391","Q763779","Q30107072","Q432386","Q219477","Q24262584","Q13424456","Q19829990","Q16961626"]);
+const JEW_OCC = new Set(["Q133485","Q2796156"]);
+const PROT_REL = new Set(["Q93191","Q483978","Q104319","Q685812","Q494890","Q194253","Q33203","Q165580","Q110223","Q159318","Q193664","Q170208","Q75809","Q101849","Q178169","Q6423963","Q23540"]);
+const CATH_ORTH_REL = new Set(["Q1841","Q9592","Q35032"]);
+
 function candidates(rows, kind){
   const byDay = {};
   rows.forEach(r => {
     const occs = (r.occs.value || "").split(",").filter(Boolean);
     const rels = (r.rels ? r.rels.value : "").split(",").filter(Boolean);
     if(rels.some(x => OTHER_RELIGIONS.indexOf(x) !== -1)) return; // alte religii
+    const hasProt = rels.some(x => PROT_REL.has(x));
+    const catOrth = rels.some(x => CATH_ORTH_REL.has(x));
+    const protOcc = occs.some(o => PROT_OCC.has(o));
+    const jewOcc = occs.some(o => JEW_OCC.has(o));
+    // doar: protestanți/neoprotestanți (după confesiune sau după profesie, dacă nu sunt catolici/ortodocși) și rabini cunoscuți
+    if(!(hasProt || (protOcc && !catOrth) || (jewOcc && parseInt(r.sl.value, 10) >= 60))) return;
     const strict = occs.some(o => STRICT.has(o));
     const jcRel = rels.some(x => JC.has(x));
     const sl = parseInt(r.sl.value, 10);
@@ -108,10 +137,15 @@ function candidates(rows, kind){
     rels.forEach(x => { if(REL[x]){ bonus = Math.max(bonus, REL[x][1]); if(!relAdj && REL[x][0]) relAdj = REL[x][0]; } });
     const terms = [];
     occs.forEach(o => { const t = OCC[o]; if(t && terms.indexOf(t) === -1) terms.push(t); });
-    const dayKey = (dt.getUTCMonth() + 1) + "-" + dt.getUTCDate();
+    let kd = dt;
+    if(year < 1582){ // datele vechi se știu în calendar iulian; Wikidata le exportă în calendar gregorian
+      const shift = Math.floor(year / 100) - Math.floor(year / 400) - 2;
+      kd = new Date(dt.getTime() - shift * 86400000);
+    }
+    const dayKey = (kd.getUTCMonth() + 1) + "-" + kd.getUTCDate();
     (byDay[dayKey] = byDay[dayKey] || []).push({
       id: r.p.value.replace("http://www.wikidata.org/entity/", ""), y: year, n: name, terms, relAdj, sl,
-      s: sl + bonus + (strict ? 8 : 0), day1: dt.getUTCDate() === 1
+      s: sl + bonus + (strict ? 8 : 0), day1: kd.getUTCDate() === 1
     });
   });
   Object.keys(byDay).forEach(k => {
@@ -126,8 +160,9 @@ function candidates(rows, kind){
   for(const kind of ["births", "deaths"]){
     for(let m = 1; m <= 12; m++){
       const t0 = Date.now();
-      const rows = await sparql(query(m, kind));
-      Object.assign(pool[kind], candidates(rows, kind));
+      const rows = await rowsFor(m, kind);
+      const part = candidates(rows, kind);
+      Object.keys(part).forEach(k => { pool[kind][k] = (pool[kind][k] || []).concat(part[k]).sort((a, b) => b.s - a.s).slice(0, 14); });
       console.log(kind, "luna", m, "-", rows.length, "rânduri,", Math.round((Date.now() - t0) / 1000) + "s");
     }
   }
@@ -138,7 +173,8 @@ function candidates(rows, kind){
     const ids = [];
     Object.keys(pool[kind]).forEach(k => pool[kind][k].forEach(p => { if(ids.indexOf(p.id) === -1) ids.push(p.id); }));
     for(let i = 0; i < ids.length; i += 120){
-      const rows = await sparql(query2(ids.slice(i, i + 120), kind));
+      let rows = [];
+      try { rows = await sparql(query2(ids.slice(i, i + 120), kind)); } catch(e){ console.error("lot sărit", i); }
       rows.forEach(r => {
         const id = r.p.value.replace("http://www.wikidata.org/entity/", "");
         info[kind][id] = { prec: r.prec ? parseInt(r.prec.value, 10) : null, country: r.country ? r.country.value : "", oy: r.oy ? parseInt(r.oy.value, 10) : null };
