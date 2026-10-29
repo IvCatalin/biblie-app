@@ -229,8 +229,19 @@ async function build(month, day){
   let main = null;
   const events = all.slice(0, TOP);
   if(events.length){
-    const e = events.shift();
-    const story = e.links && e.links.length ? await fetchStory(e.links) : null;
+    // evenimentul zilei: primul din listă; dacă nu e unul major (pondere 3) și nu are articol cu poveste,
+    // se ia primul dintre următoarele 3 care are
+    let idx = 0, story = null;
+    for(let i = 0; i < Math.min(4, events.length); i++){
+      const c = events[i];
+      const links = c.links || []; // evenimentele selectate nu au articol asociat: povestea vine doar din trimiterile Wikipedia
+      if(links.length){
+        const s = await fetchStory(links);
+        if(s){ idx = i; story = s; break; }
+      }
+      if(i === 0 && c.score >= 1300) break; // eveniment major selectat: rămâne chiar fără poveste
+    }
+    const e = events.splice(idx, 1)[0];
     main = { year: e.year, text: e.text, category: e.religious > 0 ? "Religie" : "Istorie", story };
   }
 

@@ -249,5 +249,6 @@ Niciodată nu presupune că o arhivă nouă e conținut nou.
 - Numărul de capitol afișat în cititor e cel real din sursă (`libChNum`), nu poziția: Marcion începe la cap. 5, Dialogul Mântuitorului la 120.
 
 ## Istoria zilei (panou în Acasă)
-- Date de pe server: `/api/istoria-zilei?m=&d=` (`istoria-zilei.js`), din paginile de zi ale Wikipedia în limba română (CC BY-SA 4.0 — atribuirea apare în panou, nu se scoate). Nu se scriu evenimente de mână.
+- Date de pe server: `/api/istoria-zilei?m=&d=` (`istoria-zilei.js`). Surse (atribuirea apare în iconița „i” a panoului, nu se scoate): evenimente selectate din Wikipedia engleză, traduse în română, în `data/evenimente-src/` (se refac cu `node tools/build-istoria-evenimente.js` → `data/istoria-evenimente.json`); nașteri/decese din Wikidata (CC0) în `data/istoria-persoane.json` (`node tools/build-istoria-persoane.js`, durează ~40 min); completare din paginile de zi ale Wikipedia în română (CC BY-SA 4.0). Evenimentele neoprotestante din `neoprotestante.json` au fost verificate pe surse web; nu se adaugă date neverificate.
+- Versetul zilei vine din Haftarot (o haftară pe zi, versetul cel mai apropiat de evenimentul zilei), din `public/search-haftarot.js`; fără acest fișier se întoarce la Geneza 1.
 - Ordinea: întâi cele cu cuvinte-cheie creștine/iudaice (lista `RELIGIOUS`), apoi cele mai bine documentate; evenimentul zilei = primul din listă. „Povestea zilei” = introducerea articolului Wikipedia la care trimite evenimentul.
