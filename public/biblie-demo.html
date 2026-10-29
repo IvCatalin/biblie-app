@@ -2586,22 +2586,32 @@
   .history-head{display:flex; align-items:center; gap:8px; margin-bottom:10px;}
   .history-head .hero-label{margin-bottom:0;}
   .history-info-btn{
-    position:static;
-    flex-shrink:0;
-    top:auto; right:auto;
+    position:absolute;
+    top:12px; right:12px;
+    z-index:4;
     background:rgba(6,10,28,0.45);
     border-color:var(--glass-border);
     color:var(--ink);
   }
   .history-info-btn[aria-expanded="true"]{color:#FFD700; border-color:#FFD700;}
-  .history-info .history-sec-inner{
+  .history-info{
+    display:none;
+    position:absolute;
+    top:44px; right:12px;
+    z-index:6;
+    background:rgba(10,18,38,0.97);
+    border:1px solid var(--glass-border);
+    border-radius:12px;
+    padding:10px 14px;
     font-size:12px;
     line-height:1.6;
     color:var(--ink);
+    box-shadow:0 10px 28px rgba(0,0,0,0.45);
+    white-space:nowrap;
+    font-family:'Inter', sans-serif;
   }
-  .history-info.open .history-sec-inner{padding:0 0 10px 0;}
-  .history-info a{color:var(--ink); text-decoration:underline;}
-  .history-info p{margin:0 0 6px;}
+  .history-info.open{display:block;}
+  .history-info p{margin:0;}
   .history-tabs{display:flex; flex-wrap:wrap; gap:8px;}
   .history-tab{
     font-family:'Inter', sans-serif;
@@ -2642,7 +2652,6 @@
   }
   .history-sec-inner{overflow:hidden; min-height:0;}
   .history-sec.open .history-sec-inner{padding-top:14px;}
-  .history-info.open .history-sec-inner{padding-top:0;}
   /* „Evenimentul zilei” în stânga, data în dreapta — data în același format ca „Geneza 1:24” */
   .history-kicker-row{
     display:flex;
@@ -2658,6 +2667,7 @@
     letter-spacing:0.14em;
     text-transform:uppercase;
     color:#FFD700;
+    white-space:nowrap;
   }
   .history-date{
     font-family:'Inter', sans-serif;
@@ -2665,6 +2675,7 @@
     font-size:13px;
     color:var(--ink);
     text-align:left;
+    white-space:nowrap;
   }
   /* textul principal — exact ca versetul din „Versetul zilei” */
   .history-title{
@@ -3370,12 +3381,12 @@
 
       <section class="hero-verse-card history-card" id="history-card" aria-labelledby="history-label">
         <div class="hero-pattern"></div>
+        <button type="button" class="info-btn history-info-btn" id="history-info-btn" aria-label="Sursele datelor" aria-expanded="false" aria-controls="history-info">ⓘ</button>
+        <div class="history-info" id="history-info" role="dialog" aria-label="Sursele datelor"><div id="history-info-body"></div></div>
         <div class="hero-content">
           <div class="history-head">
-            <button type="button" class="info-btn history-info-btn" id="history-info-btn" aria-label="Sursele datelor" aria-expanded="false" aria-controls="history-info">ⓘ</button>
             <div class="hero-label" id="history-label">Istoria zilei</div>
           </div>
-          <div class="history-sec history-info" id="history-info" role="region" aria-label="Sursele datelor"><div class="history-sec-inner" id="history-info-body"></div></div>
           <div class="history-tabs" role="group" aria-label="Categorii istorice">
             <button type="button" class="history-tab" id="history-tab-events" data-sec="events" aria-expanded="false" aria-controls="history-sec-events">Evenimente <span class="history-chev" aria-hidden="true">▾</span></button>
             <button type="button" class="history-tab" id="history-tab-births" data-sec="births" aria-expanded="false" aria-controls="history-sec-births">Zile de naștere <span class="history-chev" aria-hidden="true">▾</span></button>
