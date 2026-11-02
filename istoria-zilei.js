@@ -183,6 +183,10 @@ function loadJson(file){
 }
 const CURATED_EVENTS = loadJson("istoria-evenimente.json"); // evenimente iudeo-creștine și neoprotestante, traduse în română
 const CURATED_PEOPLE = loadJson("istoria-persoane.json");   // nașteri și decese din Wikidata (CC0), cu profesii religioase
+const EXTRA_PEOPLE = loadJson("istoria-persoane-extra.json");   // listă lărgită (prag de notorietate mai mic), folosită ca rezervă
+const LAICI_PEOPLE = loadJson("istoria-persoane-laici.json");   // figuri laice istorice (Wikidata), rezervă
+const CHURCH_PEOPLE = loadJson("istoria-biserica.json");        // apostoli, evangheliști, părinți ai Bisericii (zile liturgice)
+const STORIES = loadJson("istoria-povesti.json");               // evenimentul zilei: rezumat + 3–4 propoziții
 const MONTHS_EN = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
 function stems(text){
@@ -271,7 +275,11 @@ async function build(month, day){
 
   const events = compose(religiousEv, secularEv, TOP);
   let main = null;
-  if(events.length){
+  const written = STORIES[key]; // evenimentul zilei scris: rezumat (o propoziție) + 3–4 propoziții de poveste
+  if(written && written.s && written.x){
+    main = { year: String(written.y), text: written.s, category: "Religie", story: { paragraphs: [written.x] } };
+    for(let i = events.length - 1; i >= 0; i--){ if(sameEvent({ year: written.y, text: written.s }, events[i])) events.splice(i, 1); }
+  } else if(events.length){
     // evenimentul zilei: primul din listă; dacă nu e unul major (pondere 3) și nu are articol cu poveste,
     // se ia primul dintre următoarele 3 care are
     let idx = 0, story = null;
@@ -293,21 +301,37 @@ async function build(month, day){
   const SEC_OK = /(rege|regin[ăa]|împărat|țar|sultan|șah|principe|prinț|președinte|prim-ministru|cancelar|conducător|lider|general|savant|fizician|matematician|astronom|chimist|inventator|filozof|filosof|scriitor|poet|dramaturg|compozitor|pictor|sculptor|explorator|navigator|revoluționar|economist|biolog|naturalist|arhitect)/i;
   const SEC_NO = /(actor|actri[țt][ăa]|cânt[ăa]re[țt]|interpret|regizor|fotbalist|jucător|sportiv|model\b|prezentator|comedian|rapper|muzician|chitarist|baterist|dansator|manechin|cineast|producător|politician)/i;
   const CATH_OR_ORTH = /(catolic|cardinal|papă|ortodox|iezuit|Vatican)/i;
+  // neoprotestanți (baptiști, penticostali, adventiști, evanghelici, metodiști, frați etc.) vs. protestanți istorici (luterani, anglicani, reformați)
+  const NEO = /(baptist|penticostal|adventist|evanghelic|evanghelist|metodist|frați|quaker|misionar|predicator|anabaptist|menonit|morav|mesianic|televangelist)/i;
+  const MAINLINE = /(luteran|anglican|reformat|prezbiterian|protestant)/i;
+  const numYear = y => { const m = String(y).match(/\d+/); return m ? parseInt(m[0], 10) : 0; };
   async function people(kind){
-    const list = ((CURATED_PEOPLE[key] || {})[kind] || []);
     const wikiAll = parsePeople(pick(kind === "births" ? ["Nașteri", "Nasteri"] : ["Decese"]), kind);
     const wikiByName = new Map(wikiAll.map(p => [nameKey(p.name), p]));
-    const rel = [], moved = [];
-    list.forEach(p => {
-      const protestant = /(luteran|reformat|protestant|anglican|baptist|metodist|prezbiterian|evanghel|penticostal|adventist|reformator|pastor)/i.test(p.r || "");
+    const rel = [], moved = [], seenRel = new Set();
+    const addRel = (p, from) => {
+      const protestant = /(luteran|reformat|protestant|anglican|baptist|metodist|prezbiterian|evanghel|penticostal|adventist|reformator|pastor|frați|misionar)/i.test(p.r || "");
       if(/^Papa\b/i.test(p.n) || (CATH_OR_ORTH.test(p.r || "") && !protestant)) return; // fără catolici, ortodocși, papi
-      if(protestant) p.r = (p.r || "").replace(/preot catolic,?\s*/i, "").replace(/\s+catolic\b/i, ""); // „preot catolic luteran” → „luteran”
-      if(p.s !== undefined && p.s < 30) return; // doar nume cunoscute
+      if(/preot catolic|catolic/i.test(p.r || "") && !protestant) return;
+      if(protestant) p.r = (p.r || "").replace(/preot catolic,?\s*/i, "").replace(/\s+catolic\b/i, "");
+      if(from === "main" && p.s !== undefined && p.s < 30) return; // lista principală: doar nume cunoscute
+      const id = nameKey(p.n) + p.y;
+      if(seenRel.has(id)) return;
+      seenRel.add(id);
       const w = wikiByName.get(nameKey(p.n));
       // dacă Wikipedia îl descrie ca laic (ex. scriitor), nu e figură religioasă: poate intra la cele laice
       if(w && !(w.religious > 0) && !/(pastor|predicator|reformator|evanghelist|misionar|episcop|rabin)/i.test(w.role || "")){ moved.push(w); return; }
-      rel.push({ year: String(p.y), name: p.n, role: p.r || "", life: p.l || "" });
-    });
+      rel.push({ year: String(p.y), name: p.n, role: p.r || "", life: p.l || "", s: p.s || 0 });
+    };
+    ((CURATED_PEOPLE[key] || {})[kind] || []).forEach(p => addRel(p, "main"));
+    ((EXTRA_PEOPLE[key] || {})[kind] || []).forEach(p => addRel(p, "extra"));
+    const neo = rel.filter(p => NEO.test(p.role) || !MAINLINE.test(p.role)).sort((a, b) => b.s - a.s);
+    const mainline = rel.filter(p => !neo.includes(p)).sort((a, b) => b.s - a.s);
+
+    // biserica timpurie: apostoli, evangheliști, părinți ai Bisericii — doar la comemorări
+    const early = kind === "deaths" ? ((CHURCH_PEOPLE[key] || []).map(p => ({ year: String(p.y), name: p.n, role: p.r, life: "", s: p.s || 0 }))) : [];
+
+    // laici: Wikipedia în română (foarte cunoscuți) + figuri laice din Wikidata
     const seen = new Set(rel.map(p => nameKey(p.name)));
     const secPool = wikiAll.filter(p => !seen.has(nameKey(p.name)) && p.title && !(p.religious > 0) &&
       SEC_OK.test(p.role || "") && !SEC_NO.test(p.role || "") && !CATH_OR_ORTH.test(p.role || "") && p.yearNum <= 1950);
@@ -317,10 +341,25 @@ async function build(month, day){
     const fame = await sitelinkCounts(cand.map(p => p.title));
     cand.forEach(p => { p.fame = fame[nameKey(p.title)] || 0; });
     cand.sort((a, b) => b.fame - a.fame);
-    const sec = cand.filter(p => p.fame >= 90).map(p => ({ year: p.year, name: p.name, role: p.role, life: p.life }));
-    const nSec = Math.min(sec.length, rel.length >= 7 ? 3 : 4);
-    const nRel = Math.min(rel.length, TOP - nSec);
-    return rel.slice(0, nRel).concat(sec.slice(0, nSec));
+    const sec = cand.filter(p => p.fame >= 90).map(p => ({ year: p.year, name: p.name, role: p.role, life: p.life, s: p.fame }));
+    ((LAICI_PEOPLE[key] || {})[kind] || []).forEach(p => {
+      const id = nameKey(p.n);
+      if(seen.has(id) || sec.some(x => nameKey(x.name) === id) || SEC_NO.test(p.r || "") || CATH_OR_ORTH.test(p.r || "")) return;
+      sec.push({ year: String(p.y), name: p.n, role: p.r, life: "", s: p.s });
+    });
+    sec.sort((a, b) => b.s - a.s);
+
+    // compunere: amestec de epoci și confesiuni, până la 10; luterani/anglicani/reformați cel mult 2
+    const out = [], used = new Set();
+    const take = (list, n) => { let c = 0; for(const p of list){ if(out.length >= TOP || c >= n) break; const id = nameKey(p.name) + p.year; if(used.has(id)) continue; used.add(id); out.push(p); c++; } };
+    const groups = [neo.slice(), early.slice(), sec.slice(), mainline.slice()];
+    const caps = [5, 3, 3, 2];
+    // întâi câte unul din fiecare grup (ca primele rânduri să acopere epoci și confesiuni diferite), apoi completăm până la limite
+    groups.forEach(g => take(g, 1));
+    groups.forEach((g, i) => take(g, caps[i] - 1));
+    // dacă ziua are puține persoane, relaxăm limitele (în ordinea: neoprotestanți, biserică timpurie, laici, istorici)
+    [0, 1, 2, 3].forEach(i => take(groups[i], 10));
+    return out.map(p => ({ year: p.year, name: p.name, role: p.role, life: p.life }));
   }
 
   const births = await people("births");

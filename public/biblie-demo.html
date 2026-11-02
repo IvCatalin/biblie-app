@@ -2652,6 +2652,7 @@
   }
   .history-chev{display:inline-block; transition:transform .25s;}
   .history-tab[aria-expanded="true"] .history-chev{transform:rotate(180deg);}
+  .history-tab[hidden]{display:none;}
   .history-tab:focus-visible,
   .history-btn:focus-visible,
   .history-more:focus-visible,
@@ -4141,6 +4142,7 @@
   </div>
 </div>
 
+<script src="citate.js?v=1"></script>
 <script>
 
 // =====================================================================
@@ -6258,6 +6260,7 @@ function switchTab(name){
   bottomTabBtns.forEach(btn => btn.classList.toggle("active", btn.dataset.tab === name));
   window.scrollTo({ top: 0 });
   if(typeof updateChapterNavFloat === "function") updateChapterNavFloat();
+  if(name === "acasa" && typeof window.historyShowDefault === "function") window.historyShowDefault();
 }
 
 bottomTabBtns.forEach(btn => {
@@ -7694,6 +7697,7 @@ function votdSetFromHaftarah(hint){
     const v = pick.v;
     refEl.textContent = v[0];
     textEl.textContent = "„" + v[1] + "”";
+    if(window.quoteForContext) window.quoteForContext((hint || "") + " " + v[1]); // citatul se potrivește cu istoria zilei și cu versetul
     currentVerseOfDayData = { haftarah: { slug: pick.h.slug, chIdx: pick.h.chIdx, vkey: v[2] }, verse: { num: v[2] } };
     votdHafActive = true;
     heroAccordionBuilt = false;
@@ -7854,7 +7858,7 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
 
     const t = now();
     if(main){
-      // titlu → „29 Octombrie 1948” → povestea (tot textul, la vedere) → „Citește mai mult” cu celelalte evenimente din aceeași zi
+      // rezumatul (o propoziție) → „29 Octombrie 1948” → povestea (3–4 propoziții, la vedere) → „Alte evenimente” din aceeași zi
       body.appendChild(mk("div", "history-title", main.text));
       body.appendChild(mk("div", "history-event-date", t.d + " " + capMonth(t.m) + " " + main.year));
       if(main.story){
@@ -7881,12 +7885,12 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
       readBtn.type = "button";
       readBtn.setAttribute("aria-controls", "history-story");
       readBtn.setAttribute("aria-expanded", "false");
-      readBtn.textContent = "Citește mai mult ⌄";
+      readBtn.textContent = "Alte evenimente ⌄";
       readBtn.addEventListener("click", () => {
         const opening = !others.classList.contains("open");
         others.classList.toggle("open", opening);
         readBtn.setAttribute("aria-expanded", opening ? "true" : "false");
-        readBtn.textContent = opening ? "Citește mai puțin ⌃" : "Citește mai mult ⌄";
+        readBtn.textContent = opening ? "Alte evenimente ⌃" : "Alte evenimente ⌄";
       });
       actions.appendChild(readBtn);
     }
@@ -7911,7 +7915,9 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
   function renderPeople(secId, list, kicker, moreLabel, emptyText){
     const body = el("history-body-" + secId);
     body.textContent = "";
-    if(!list.length){ note(body, emptyText); return; }
+    const tabBtn = el("history-tab-" + secId);
+    tabBtn.hidden = !list.length;
+    if(!list.length){ body.textContent = ""; if(open === secId) setOpen("events"); return; }
     body.appendChild(kickerRow(kicker, false));
     const ul = makeList(list, p => {
       const li = mk("li");
@@ -7989,6 +7995,7 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
   document.addEventListener("click", (e) => {
     if(!open && !infoOpen) return;
     if(e.target.closest("#history-info-btn")) return;
+    if(!e.target.closest("#tab-acasa")) return; // bara de jos, alte file etc. nu închid secțiunea
     if(infoOpen) setInfo(false); // panoul de surse se închide la orice click
     if(!open) return;
     if(e.target.closest(".history-tab")) return; // butoanele de secțiune își fac singure treaba
@@ -7999,9 +8006,15 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
     setOpen(null); // oriunde altundeva (și pe text), secțiunea se închide; la derulare nu se declanșează niciun click
   });
 
+  // la revenirea în Acasă sau în aplicație, „Evenimente” e din nou deschis, ca textul să se poată citi direct
+  window.historyShowDefault = function(){ setOpen("events"); setInfo(false); };
   checkDay();
   setInterval(checkDay, 30000);
-  document.addEventListener("visibilitychange", () => { if(document.visibilityState === "visible") checkDay(); });
+  document.addEventListener("visibilitychange", () => {
+    if(document.visibilityState !== "visible") return;
+    checkDay();
+    window.historyShowDefault();
+  });
 })();
 
 
@@ -9087,27 +9100,77 @@ function updateClock(){
 updateClock();
 setInterval(updateClock, 15000);
 
-// Citat creștin de inspirație — se schimbă automat în fiecare zi (rotație după ziua din an)
-const CITATE = [
-  { text: "Nu-ți fie niciodată teamă să încredințezi un viitor necunoscut unui Dumnezeu cunoscut.", author: "Corrie ten Boom" },
-  { text: "Credința înseamnă să faci primul pas chiar și când nu vezi toată scara.", author: "Martin Luther King Jr." },
-  { text: "Dumnezeu nu caută oameni cu credință mare, ci oameni gata să-L urmeze.", author: "Hudson Taylor" },
-  { text: "Casa mea e în Cer. Doar trec prin lumea asta.", author: "Billy Graham" },
-  { text: "Târziu Te-am iubit, Frumusețe atât de veche și atât de nouă.", author: "Fericitul Augustin" },
-  { text: "Trebuie să fim gata să ne lăsăm întrerupți de Dumnezeu.", author: "Dietrich Bonhoeffer" },
-  { text: "Prin stăruință, melcul a ajuns la arcă.", author: "Charles Spurgeon" },
-  { text: "Nimic să nu te tulbure, nimic să nu te sperie. Toate trec; Dumnezeu nu Se schimbă.", author: "Tereza de Ávila" },
-  { text: "Fă tot binele pe care poți, prin toate mijloacele pe care poți, în toate felurile pe care poți.", author: "John Wesley" },
-  { text: "Știu că Dumnezeu nu-mi va da nimic ce nu pot duce. Doar mi-aș dori să nu aibă atâta încredere în mine.", author: "Maica Tereza" }
+// Citatul zilei — din public/citate.js (180 de citate creștine). Se alege după tema versetului și a istoriei zilei;
+// un citat nu se repetă pe același dispozitiv în 150 de zile.
+const CITATE_REZERVA = [
+  { text: "Fii mai atent la un grăunte de credință decât la o tonă de entuziasm.", author: "Charles Spurgeon", t: ["credinta"] },
+  { text: "Toți uriașii lui Dumnezeu au fost oameni slabi, care au făcut lucruri mari pentru Dumnezeu pentru că au socotit că El este cu ei.", author: "Hudson Taylor", t: ["credinta"] }
 ];
-function updateQuote(){
-  const now = new Date();
-  const start = new Date(now.getFullYear(), 0, 0);
-  const dayOfYear = Math.floor((now - start) / 86400000);
-  const q = CITATE[dayOfYear % CITATE.length];
-  const quoteEl = document.getElementById("home-quote");
-  quoteEl.innerHTML = "„" + q.text + "”" + '<span class="home-quote-ref">' + q.author + "</span>";
+const QUOTE_THEMES = {
+  credinta: ["credint", "increde", "crede", "credin"], rugaciune: ["rugaciun", "ruga", "rugat"], har: ["har ", "harul", "iert", "mantuir", "indreptat"],
+  misiune: ["misionar", "misiun", "convert", "trimis"], evanghelizare: ["evanghel", "predic", "vestea", "cruciada"],
+  suferinta: ["suferin", "martir", "persecut", "necaz", "prigon", "ucis", "executa", "omorat", "ghetou", "holocaust", "mort"],
+  speranta: ["sperant", "viitor", "inviere", "invie"], iubire: ["iubire", "dragoste", "iubi", "milostiv", "caritate"],
+  scriptura: ["biblie", "biblic", "scriptur", "traducer", "tiparit", "tipar"], curaj: ["curaj", "indrazn", "impotriva", "rezist", "proces", "condamn"],
+  slujire: ["slujb", "slujire", "spital", "scoala", "orfelin", "ajutor", "societate", "fundat", "intemeiat", "intemeiaz"],
+  umilinta: ["umil", "smerit"], libertate: ["libertate", "aboli", "sclav", "eliberar", "drepturi", "liber"], pocainta: ["pocain", "indulgent", "mustrare"],
+  unitate: ["unitate", "ecumenic", "conferint", "alianta", "adunare", "uniune", "unire"], munca: ["lucrare", "munca", "lucra"],
+  bucurie: ["bucur", "veselie", "cant", "imn"], recunostinta: ["multumir", "recunostin"], ascultare: ["ascult", "supus", "porunc"],
+  adevar: ["adevar", "dogma", "sinod", "conciliu", "erezie", "crez", "marturisire"], pace: ["pace", "tratat", "armistitiu", "acord", "pacific"],
+  biserica: ["biseric", "congregat", "denominat", "sinod", "adunari"], reforma: ["reforma", "luther", "calvin", "protestan", "teze", "worms", "augsburg"],
+  craciun: ["craciun", "nasterea", "betleem", "iesle"], darnicie: ["darnic", "milostenie", "daruri", "ofrand"], vesnicie: ["vesnic", "cer ", "ceruri", "imparatia"],
+  vegherea: ["vegh", "trezi", "pregatit"]
+};
+function quoteStrip(s){ return " " + String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase() + " "; }
+function quoteThemeCounts(ctx){
+  const n = quoteStrip(ctx), out = {};
+  Object.keys(QUOTE_THEMES).forEach(th => {
+    let c = 0;
+    QUOTE_THEMES[th].forEach(k => { let i = n.indexOf(k); while(i !== -1){ c++; i = n.indexOf(k, i + k.length); } });
+    if(c) out[th] = c;
+  });
+  return out;
 }
+function quoteDayNumber(){ const d = new Date(); return Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 86400000); }
+function quoteRender(q){
+  const quoteEl = document.getElementById("home-quote");
+  if(!quoteEl) return;
+  quoteEl.textContent = "";
+  quoteEl.appendChild(document.createTextNode("„" + q.text + "”"));
+  const ref = document.createElement("span");
+  ref.className = "home-quote-ref";
+  ref.textContent = q.author;
+  quoteEl.appendChild(ref);
+}
+function quoteForContext(ctx){
+  const pool = (window.CITATE_DAVAR && window.CITATE_DAVAR.length) ? window.CITATE_DAVAR : CITATE_REZERVA;
+  const day = quoteDayNumber();
+  let st = {};
+  try { st = JSON.parse(localStorage.getItem("davar-citat") || "{}") || {}; } catch(e){ st = {}; }
+  st.last = st.last || {};
+  // aceeași zi, aceeași alegere (dacă a fost deja făcută cu contextul zilei)
+  if(st.day === day && st.matched && pool[st.idx]){ quoteRender(pool[st.idx]); return; }
+  if(st.day === day && !ctx && pool[st.idx]){ quoteRender(pool[st.idx]); return; }
+  const counts = ctx ? quoteThemeCounts(ctx) : {};
+  const recent = new Set();
+  Object.keys(st.last).forEach(i => { if(day - st.last[i] < 150 && Number(i) !== st.idx) recent.add(Number(i)); });
+  if(st.day === day && typeof st.idx === "number") delete st.last[st.idx]; // înlocuim alegerea provizorie de azi
+  let best = -1, bestScore = -1;
+  for(let k = 0; k < pool.length; k++){
+    const i = (k + day * 7) % pool.length; // la scor egal, rotația zilei hotărăște
+    if(recent.has(i) && pool.length > 150) continue;
+    let s = 0;
+    (pool[i].t || []).forEach(t => { s += counts[t] ? 1 + Math.min(counts[t], 3) : 0; });
+    if(s > bestScore){ bestScore = s; best = i; }
+  }
+  if(best < 0) best = day % pool.length;
+  st.day = day; st.idx = best; st.matched = !!ctx; st.last[best] = day;
+  Object.keys(st.last).forEach(i => { if(day - st.last[i] > 200) delete st.last[i]; });
+  try { localStorage.setItem("davar-citat", JSON.stringify(st)); } catch(e){}
+  quoteRender(pool[best]);
+}
+window.quoteForContext = quoteForContext;
+function updateQuote(){ quoteForContext(""); }
 updateQuote();
 
 function initApp(){

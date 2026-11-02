@@ -7,6 +7,8 @@
 const fs = require("fs");
 const path = require("path");
 
+const MIN_SL = parseInt(process.env.MIN_SL || "20", 10); // prag de notorietate (nr. de limbi); mai mic = lista lărgită de rezervă
+const OUT_FILE = process.env.OUT || "istoria-persoane.json";
 const UA = "DavarAtlas/1.0 (https://biblie-app.onrender.com; ivan_catalin@outlook.com)";
 
 // profesii (Wikidata) → cuvânt românesc. Sunt toate profesii creștine/iudaice sau generale-religioase.
@@ -47,7 +49,7 @@ const os = require("os");
 const CACHE = path.join(os.tmpdir(), "davar-persoane-cache");
 fs.mkdirSync(CACHE, { recursive: true });
 async function rowsFor(m, kind){
-  const f = path.join(CACHE, kind + "-" + m + ".json");
+  const f = path.join(CACHE, kind + "-" + m + (MIN_SL === 20 ? "" : "-sl" + MIN_SL) + ".json");
   if(fs.existsSync(f)) return JSON.parse(fs.readFileSync(f, "utf8"));
   let rows;
   try { rows = await sparql(query(m, kind, 1, 31)); }
@@ -85,7 +87,7 @@ function query(month, kind, dFrom, dTo){
 WHERE {
   VALUES ?occ { ${occList()} }
   ?p wdt:P106 ?occ ; wdt:${main} ?dt ; wikibase:sitelinks ?sl .
-  FILTER(?sl >= 20)
+  FILTER(?sl >= ${MIN_SL})
   FILTER(MONTH(?dt) = ${month} && DAY(?dt) >= ${dFrom || 1} && DAY(?dt) <= ${dTo || 31})
   OPTIONAL { ?p wdt:P140 ?rel }
   OPTIONAL { ?p rdfs:label ?ro FILTER(LANG(?ro)="ro") }
@@ -127,7 +129,7 @@ function candidates(rows, kind){
     const jcRel = rels.some(x => JC.has(x));
     const sl = parseInt(r.sl.value, 10);
     // profesiile generale (preot, călugăr, teolog…) se iau doar cu confesiune creștină/iudaică sau notorietate mare
-    if(!strict && !jcRel && sl < 25) return;
+    if(!strict && !jcRel && sl < Math.min(25, MIN_SL)) return;
     const name = (r.ro && r.ro.value) || (r.en && r.en.value);
     if(!name || /^Q\d+$/.test(name)) return;
     const dt = new Date(r.dt.value);
@@ -204,6 +206,6 @@ function candidates(rows, kind){
   }
   const dir = path.join(__dirname, "..", "data");
   fs.mkdirSync(dir, { recursive: true });
-  fs.writeFileSync(path.join(dir, "istoria-persoane.json"), JSON.stringify(out));
-  console.log("Scris data/istoria-persoane.json —", Object.keys(out).length, "zile");
+  fs.writeFileSync(path.join(dir, OUT_FILE), JSON.stringify(out));
+  console.log("Scris data/" + OUT_FILE + " —", Object.keys(out).length, "zile");
 })();
