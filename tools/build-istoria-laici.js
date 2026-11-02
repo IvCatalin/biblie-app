@@ -19,7 +19,7 @@ const OCC = {
   Q593644: ["chimist", "chimistă"], Q864503: ["biolog", "bioloagă"], Q39631: ["medic", "medic"], Q205375: ["inventator", "inventatoare"],
   Q11900058: ["explorator", "exploratoare"], Q201788: ["istoric", "istorică"], Q188094: ["economist", "economistă"],
   Q901: ["savant", "savantă"], Q974144: ["pedagog", "pedagogă"], Q1622272: ["profesor universitar", "profesoară universitară"],
-  Q1234713: ["teolog", "teologă"], Q81096: ["inginer", "inginer"], Q2259451: ["muzician", "muziciană"]
+  Q81096: ["inginer", "inginer"]
 };
 const SKIP = new Set(["Q33999", "Q10800557", "Q937857", "Q2066131", "Q82955", "Q3665646"]); // actor, actor de film, fotbalist, sportiv, politician, baschetbalist
 const MONTH_DAYS = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
@@ -88,7 +88,7 @@ async function rowsFor(occ, kind){
         occs.forEach(o => { if(OCC[o]){ const t = OCC[o][fem ? 1 : 0]; if(terms.indexOf(t) === -1) terms.push(t); } });
         if(!terms.length) return;
         out[key] = out[key] || {};
-        (out[key][kind] = out[key][kind] || []).push({ y: year, n: name, r: terms.slice(0, 2).join(", "), s: parseInt(r.sl.value, 10) });
+        (out[key][kind] = out[key][kind] || []).push({ y: year, n: name, r: terms.slice(0, 2).join(", "), s: parseInt(r.sl.value, 10), i: r.p.value.replace("http://www.wikidata.org/entity/", "") });
       });
       console.log(kind, occ, "-", rows.length, "rânduri");
     }
@@ -96,7 +96,7 @@ async function rowsFor(occ, kind){
   Object.keys(out).forEach(k => ["births", "deaths"].forEach(kind => {
     if(!out[k][kind]) return;
     const seen = new Set();
-    out[k][kind] = out[k][kind].sort((a, b) => b.s - a.s).filter(p => { const id = p.n + p.y; if(seen.has(id)) return false; seen.add(id); return true; }).slice(0, 8);
+    out[k][kind] = out[k][kind].sort((a, b) => b.s - a.s).filter(p => { const id = p.n + p.y; if(seen.has(id)) return false; seen.add(id); return true; }).slice(0, 30);
   }));
   fs.writeFileSync(path.join(__dirname, "..", "data", "istoria-persoane-laici.json"), JSON.stringify(out));
   console.log("Scris data/istoria-persoane-laici.json —", Object.keys(out).length, "zile");

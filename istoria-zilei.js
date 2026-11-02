@@ -304,7 +304,9 @@ async function build(month, day){
   // neoprotestanți (baptiști, penticostali, adventiști, evanghelici, metodiști, frați etc.) vs. protestanți istorici (luterani, anglicani, reformați)
   const NEO = /(baptist|penticostal|adventist|evanghelic|evanghelist|metodist|frați|quaker|misionar|predicator|anabaptist|menonit|morav|mesianic|televangelist)/i;
   const MAINLINE = /(luteran|anglican|reformat|prezbiterian|protestant)/i;
-  const EXCLUDED_NAMES = new Set(["manharonmonis"]); // nume care apar în Wikidata cu „predicator”, dar nu au loc aici
+  // dictatori, conducători comuniști și alte figuri care nu au loc în această listă (indiferent de sursa din care vin)
+  const BAD_PERSON = /(Hitler|Stalin|Mussolini|Goebbels|Himmler|G[öo]ring|Heydrich|Eichmann|Mengele|Mao Zedong|Pol Pot|Ceau[șs]escu|Lenin|Francisco Franco|Saddam|Khomeini|Khamenei|Bin Laden|Trotsk|Engels|Karl Marx|Che Guevara|Dzerjinski|Beria|Kim Il|Kim Jong|Fidel Castro|Napoleon al III)/i;
+  const EXCLUDED_NAMES = new Set(["manharonmonis", "franciscodepina"]); // nume care apar în Wikidata cu „predicator”, dar nu au loc aici
   const numYear =y => { const m = String(y).match(/\d+/); return m ? parseInt(m[0], 10) : 0; };
   async function people(kind){
     const wikiAll = parsePeople(pick(kind === "births" ? ["Nașteri", "Nasteri"] : ["Decese"]), kind);
@@ -320,6 +322,9 @@ async function build(month, day){
       if(/ din (Turcia|Iran|Pakistan|Arabia|Egipt|Irak|Siria|Afganistan|Indonezia|Malaezia|Bangladesh|Algeria|Maroc|Tunisia|Liban|Iordania|Yemen|Kuweit|Qatar)/i.test(p.r || "") &&
           !/(pastor|misionar|evanghel|baptist|penticostal|adventist|metodist|prezbiterian|luteran|reformat|anglican|rabin)/i.test(p.r || "")) return;
       if(EXCLUDED_NAMES.has(nameKey(p.n))) return;
+      // „preot”, „episcop”, „călugăr” fără o confesiune protestantă/neoprotestantă clară: nu se știe dacă e catolic sau ortodox, deci nu se arată
+      if(/^(preot|episcop|arhiepiscop|călugăr|cleric|cardinal|abate)\b/i.test(p.r || "") &&
+          !/(luteran|anglican|reformat|prezbiterian|protestant|baptist|metodist|evanghelic|morav|menonit|quaker|adventist|penticostal|anabaptist)/i.test(p.r || "")) return;
       const id = nameKey(p.n) + p.y;
       if(seenRel.has(id)) return;
       seenRel.add(id);
@@ -356,7 +361,7 @@ async function build(month, day){
 
     // compunere: amestec de epoci și confesiuni, până la 10; luterani/anglicani/reformați cel mult 2
     const out = [], used = new Set();
-    const take = (list, n) => { let c = 0; for(const p of list){ if(out.length >= TOP || c >= n) break; if(/^Papa\b/i.test(p.name)) continue; const id = nameKey(p.name); if(used.has(id)) continue; used.add(id); out.push(p); c++; } };
+    const take = (list, n) => { let c = 0; for(const p of list){ if(out.length >= TOP || c >= n) break; if(/^Papa\b/i.test(p.name) || BAD_PERSON.test(p.name) || !p.role || p.role.length < 4 || (/^\d+$/.test(String(p.year)) && parseInt(p.year, 10) >= 2026)) continue; const id = nameKey(p.name); if(used.has(id)) continue; used.add(id); out.push(p); c++; } };
     const groups = [neo.slice(), early.slice(), sec.slice(), mainline.slice()];
     const caps = [5, 3, 3, 2];
     // întâi câte unul din fiecare grup (ca primele rânduri să acopere epoci și confesiuni diferite), apoi completăm până la limite
@@ -367,8 +372,9 @@ async function build(month, day){
     return out.map(p => ({ year: p.year, name: p.name, role: p.role, life: p.life }));
   }
 
-  const births = await people("births");
   const deaths = await people("deaths");
+  const deathKeys = new Set(deaths.map(p => nameKey(p.name)));
+  const births = (await people("births")).filter(p => !deathKeys.has(nameKey(p.name))); // aceeași persoană nu apare și la nașteri, și la comemorări
 
   // surse: doar numele scurt și licența
   const sources = [{ name: "Wikipedia", license: "CC BY-SA 4.0", url: "https://ro.wikipedia.org/wiki/" + encodeURIComponent(pageTitle.replace(/ /g, "_")) }];

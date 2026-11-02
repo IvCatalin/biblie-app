@@ -199,7 +199,7 @@ function candidates(rows, kind){
         if(p.relAdj && !new RegExp(p.relAdj.split(" ")[0], "i").test(role)) role += " " + p.relAdj;
         if(inf.country) role += " din " + inf.country;
         const life = inf.oy ? ((kind === "births" ? "d. " : "n. ") + inf.oy) : "";
-        return { y: p.y, n: p.n, r: role, l: life, s: p.sl };
+        return { y: p.y, n: p.n, r: role, l: life, s: p.sl, i: p.id };
       });
       if(list.length){ out[k] = out[k] || {}; out[k][kind] = list; }
     });

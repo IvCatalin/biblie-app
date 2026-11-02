@@ -577,7 +577,7 @@
  "10-6": {
   "y": "1536",
   "s": "William Tyndale, traducătorul Bibliei în engleză, este executat la Vilvoorde.",
-  "x": "Tyndale a fost strangulat și apoi ars pe rug, după ce a petrecut mai bine de un an în închisoare. Se spune că ultimele lui cuvinte au fost: „Doamne, deschide ochii regelui Angliei.” Traducerea lui a stat la baza Bibliei King James, iar multe expresii din limba engleză vin de la el. Voia ca și un băiat care mână plugul să cunoască Scriptura."
+  "x": "Tyndale a fost strangulat și apoi ars pe rug, după ce a petrecut mai bine de un an în închisoare. Data exactă nu se știe sigur: izvoarele spun doar că a fost în primele zile din octombrie 1536, iar 6 octombrie este data păstrată de tradiție. Se spune că ultimele lui cuvinte au fost: „Doamne, deschide ochii regelui Angliei.” Traducerea lui a stat la baza Bibliei King James, iar multe expresii din limba engleză vin de la el. Voia ca și un băiat care mână plugul să cunoască Scriptura."
  },
  "10-8": {
   "y": "451",
@@ -713,5 +713,1120 @@
   "y": "1384",
   "s": "John Wycliffe, „luceafărul dimineții Reformei”, moare la Lutterworth.",
   "x": "Wycliffe, profesor la Oxford, a cerut ca Biblia să fie accesibilă tuturor în limba engleză, iar el și colaboratorii lui au început traducerea ei din Vulgata. Urmașii lui, numiți lolarzi, au răspândit învățătura lui. Conciliul de la Konstanz l-a condamnat postum, în 1415, iar în 1428 oasele i-au fost dezgropate și arse. Ideile lui au influențat pe Jan Hus și, prin el, Reforma."
+ },
+ "1-2": {
+  "y": "1776",
+  "s": "Împărăteasa Maria Terezia desființează tortura în teritoriile Habsburgilor.",
+  "x": "Prin modificarea „Constitutio Criminalis Theresiana”, codul penal din 1768, tortura ca mijloc de obținere a mărturisirilor a fost interzisă în statele monarhiei habsburgice. Măsura a venit pe fondul ideilor iluministe despre drepturile omului și despre limitele puterii statului. Mai târziu, fiul ei, Iosif al II-lea, a continuat reformele, între care și un edict de toleranță religioasă pentru protestanți și ortodocși, în 1781."
+ },
+ "1-4": {
+  "y": "1853",
+  "s": "Solomon Northup, răpit și vândut ca sclav, își recapătă libertatea.",
+  "x": "Northup era un om liber din statul New York, care a fost atras în 1841 la Washington și vândut în sclavie în Louisiana. A muncit doisprezece ani pe plantații, până când un tâmplar canadian, Samuel Bass, a trimis scrisori în numele lui. Și-a povestit viața în cartea „Doisprezece ani de sclavie”, publicată în 1853, care a mărit sprijinul pentru mișcarea abolițională."
+ },
+ "1-6": {
+  "y": "1724",
+  "s": "Prima audiție a cantatei lui Bach „Sie werden aus Saba alle kommen” (BWV 65), pentru sărbătoarea Epifaniei.",
+  "x": "Bach, cantor la Leipzig, a compus cantata pentru slujba de Bobotează, când Biserica amintește venirea magilor. Textul pornește de la Isaia 60:6, unde se spune că toți cei din Seba vor veni cu aur și tămâie. Cantata folosește coarne de vânătoare și flaute, ca să sugereze lumea exotică a magilor. A făcut parte din primul său ciclu anual de cantate, scrise în câțiva ani pentru fiecare duminică și sărbătoare a anului bisericesc."
+ },
+ "1-7": {
+  "y": "1610",
+  "s": "Galileo Galilei observă pentru prima dată lunile lui Jupiter.",
+  "x": "Folosind un telescop făcut de el, Galileo a văzut trei „stelute” lângă Jupiter, iar peste câteva nopți a înțeles că sunt corpuri care se învârt în jurul planetei: Io, Europa, Ganymede și Callisto. Observațiile lui, publicate în „Sidereus Nuncius”, au arătat că nu toate corpurile cerești se învârt în jurul Pământului. Descoperirea a susținut modelul lui Copernic și a dus, mai târziu, la conflictul lui Galileo cu autoritățile bisericești."
+ },
+ "1-9": {
+  "y": "1349",
+  "s": "Evreii din Basel sunt arși de vii, învinuiți pe nedrept că ar fi provocat Moartea Neagră.",
+  "x": "În timpul ciumei, care a ucis o parte importantă din populația Europei, în mai multe orașe s-a răspândit zvonul fals că evreii otrăvesc fântânile. La Basel, comunitatea evreiască a fost adunată și ucisă. Papa Clement al VI-lea condamnase încă din 1348 aceste acuzații, arătând că ciuma îi lovea și pe evrei, dar violențele s-au extins în orașe din Germania și Franța."
+ },
+ "1-11": {
+  "y": "532",
+  "s": "Încep revoltele Nika la Constantinopol, cea mai gravă răscoală din istoria orașului.",
+  "x": "O dispută între susținătorii a două echipe de care a degenerat într-o revoltă împotriva împăratului Iustinian I. Mulțimea a incendiat o mare parte din oraș, inclusiv biserica Sfânta Sofia, iar mii de oameni au murit în urma reprimării. Iustinian a hotărât apoi să construiască o nouă catedrală, mult mai mare, care a fost terminată în 537 și rămâne una dintre cele mai cunoscute clădiri ale creștinătății."
+ },
+ "1-12": {
+  "y": "1519",
+  "s": "Împăratul Maximilian I moare, deschizând drumul alegerii lui Carol Quintul.",
+  "x": "Maximilian a fost împărat al Sfântului Imperiu Roman, iar moartea lui a pus în mișcare o competiție între regele Franței și nepotul său, Carol de Habsburg. Principii electori l-au ales pe Carol în iunie 1519, cu ajutorul unor sume mari de bani. Același Carol Quintul avea să-l judece pe Martin Luther la Dieta de la Worms, în 1521, și să conducă un imperiu împărțit de Reformă."
+ },
+ "1-14": {
+  "y": "1814",
+  "s": "Danemarca cedează Norvegia Suediei prin Tratatul de la Kiel.",
+  "x": "Tratatul a încheiat războaiele napoleoniene pentru Danemarca, care fusese aliata lui Napoleon, și a dat Norvegia regelui Suediei, deși norvegienii nu fuseseră întrebați. Reacția a venit în mai 1814: o adunare la Eidsvoll a adoptat constituția Norvegiei, care a declarat Biserica Evanghelică Luterană religie de stat. Constituția a interzis inițial intrarea evreilor în țară, interdicție ridicată în 1851, și pe cea a iezuiților, ridicată abia în 1956."
+ },
+ "1-16": {
+  "y": "1547",
+  "s": "Ivan al IV-lea, numit mai târziu „cel Groaznic”, este încoronat primul țar al Rusiei.",
+  "x": "Încoronarea a avut loc în catedrala Adormirii din Kremlin, în slujba condusă de mitropolitul Macarie al Moscovei. Titlul de țar, de la „cezar”, arăta pretenția Moscovei de a continua tradiția imperială creștină, după căderea Constantinopolului din 1453. Biserica Ortodoxă a avut un rol important în legitimarea noii puteri."
+ },
+ "1-19": {
+  "y": "379",
+  "s": "Împăratul Grațian îl numește pe Teodosiu augustus al Răsăritului, la Sirmium.",
+  "x": "Teodosiu a fost chemat în fruntea Imperiului de Răsărit după moartea lui Valens la Adrianopol, într-o perioadă de mare primejdie. Câțiva ani mai târziu, a emis Edictul de la Tesalonic, în 380, și a convocat Sinodul de la Constantinopol, în 381. În timpul lui, creștinismul niceean a devenit religia oficială a Imperiului Roman."
+ },
+ "1-26": {
+  "y": "1788",
+  "s": "Prima flotă britanică, sub conducerea lui Arthur Phillip, ajunge în golful Port Jackson, unde avea să se nască Sydney.",
+  "x": "Cele unsprezece corăbii aduceau aproximativ 1.400 de oameni, între care mai bine de o mie de condamnați. Printre ei se afla și reverendul Richard Johnson, primul capelan al coloniei, care a ținut în februarie primul serviciu religios. Data de 26 ianuarie este astăzi sărbătoare națională în Australia, dar este privită de mulți aborigeni drept ziua începutului colonizării."
+ },
+ "1-29": {
+  "y": "1861",
+  "s": "Kansas este primit în Uniune ca stat liber, fără sclavie.",
+  "x": "Intrarea lui Kansas în Statele Unite venea după ani de violențe între susținătorii și adversarii sclaviei, numite „Bleeding Kansas”. Predicatorul Henry Ward Beecher chemase la trimiterea de arme către coloniștii antisclavagiști, iar abolitionistul John Brown luptase în Kansas. Admiterea statului a avut loc în preajma izbucnirii Războiului Civil American."
+ },
+ "1-31": {
+  "y": "1865",
+  "s": "Congresul Statelor Unite adoptă al Treisprezecelea Amendament, care interzice sclavia.",
+  "x": "Amendamentul a trecut în Camera Reprezentanților la limită, după campanii în care bisericile și societățile abolitioniste au avut un rol mare. A fost ratificat de numărul necesar de state pe 6 decembrie 1865. Textul interzice sclavia și munca forțată, cu excepția pedepsei pentru infracțiuni, și a schimbat definitiv societatea americană."
+ },
+ "2-1": {
+  "y": "1942",
+  "s": "Vidkun Quisling este numit ministru-președinte al Norvegiei ocupate.",
+  "x": "Conducătorul colaboraționist a încercat să impună o aliniere a școlilor și a bisericii la regimul nazist. În aprilie 1942, mai mulți pastori luterani, în frunte cu episcopul Eivind Berggrav, au renunțat la funcțiile lor de stat, ca să nu se supună. Berggrav a fost arestat, dar rezistența bisericii a rămas una dintre cele mai cunoscute forme de opoziție nonviolentă din Europa ocupată."
+ },
+ "2-2": {
+  "y": "1725",
+  "s": "Prima audiție a cantatei „Mit Fried und Freud ich fahr dahin” (BWV 125), de J. S. Bach, pentru Sărbătoarea Întâmpinării.",
+  "x": "Cantata pornește de la imnul lui Luther, o parafrază a cântării bătrânului Simeon din Evanghelia după Luca: „Acum slobozește pe robul Tău, Stăpâne, în pace...”. Bach a scris-o pentru 2 februarie, ziua în care Biserica amintește aducerea lui Isus la templu. Muzica transmite seninătatea omului care a văzut mântuirea și poate pleca împăcat."
+ },
+ "2-3": {
+  "y": "1862",
+  "s": "Moldova și Țara Românească se unesc formal, creând Principatele Unite Române.",
+  "x": "Parlamentul unic a fost deschis la București, la câteva zile după ce domnitorul Alexandru Ioan Cuza a proclamat unirea deplină a celor două țări. Principatele fuseseră unite în persoana domnitorului din 1859, dar aveau încă guverne și adunări separate. Dezvoltarea statului român a continuat cu reforme precum secularizarea averilor mănăstirești, în 1863, și reforma agrară din 1864."
+ },
+ "2-5": {
+  "y": "1597",
+  "s": "Creștini japonezi sunt executați la Nagasaki din ordinul regentului Toyotomi Hideyoshi.",
+  "x": "Cei douăzeci și șase de bărbați, misionari și laici japonezi, printre ei și băieți, au fost duși pe jos aproape o mie de kilometri până la Nagasaki și crucificați pe un deal. Condamnarea a venit după ce autoritățile au început să vadă în creștinism o amenințare politică. Creștinii japonezi au fost persecutați secole la rând, iar mulți și-au păstrat credința în ascuns."
+ },
+ "2-6": {
+  "y": "1820",
+  "s": "Primii 86 de emigranți afro-americani părăsesc New York-ul pe vasul „Elizabeth”, către coasta Africii de Vest.",
+  "x": "Plecarea a fost organizată de Societatea Americană de Colonizare, înființată în 1816 de personalități care propuneau trimiterea oamenilor liberi de culoare în Africa. Proiectul a fost criticat de mulți abolitioniști și de afro-americani, care considerau America casa lor. Din coloniile fondate acolo s-a născut Liberia, care și-a proclamat independența în 1847."
+ },
+ "2-7": {
+  "y": "1285",
+  "s": "Un sinod ținut la Vlaherne condamnă pe fostul patriarh pro-unionist Ioan al XI-lea Beccos.",
+  "x": "Beccos susținuse unirea cu Roma, încheiată la Lyon în 1274 din motive politice și respinsă de majoritatea clerului și a poporului din Bizanț. După moartea împăratului Mihail al VIII-lea, succesorul său, Andronic al II-lea, a renunțat la unire. Sinodul a confirmat respingerea ei, iar Beccos a fost trimis în exil, ceea ce a adâncit despărțirea dintre Biserica Răsăriteană și cea Apuseană."
+ },
+ "2-8": {
+  "y": "1693",
+  "s": "Colegiul William & Mary primește carta regală, ca al doilea cel mai vechi colegiu din America de Nord britanică.",
+  "x": "Colegiul a fost întemeiat în Virginia, la inițiativa lui James Blair, un cleric anglican, ca să pregătească preoți pentru colonie și să ofere educație tinerilor. A fost mutat la Williamsburg în 1699. Absolvenți ai colegiului au fost, printre alții, trei președinți ai Statelor Unite, între care Thomas Jefferson."
+ },
+ "2-10": {
+  "y": "1306",
+  "s": "Robert Bruce îl ucide pe John Comyn în biserica Greyfriars din Dumfries.",
+  "x": "Crima, săvârșită în fața altarului, a fost un păcat grav, iar Bruce a fost excomunicat. A fost încoronat însă rege al Scoției câteva săptămâni mai târziu, la Scone. Evenimentul a început războiul de independență al Scoției, în care Bruce a învins armata engleză la Bannockburn, în 1314."
+ },
+ "2-12": {
+  "y": "1733",
+  "s": "James Oglethorpe întemeiază colonia Georgia, la Savannah.",
+  "x": "Oglethorpe a obținut carta coloniei în 1732, cu scopul declarat de a oferi o a doua șansă datornicilor și un adăpost pentru protestanții persecutați din Europa. În 1734 au sosit în Georgia protestanți luterani alungați din Salzburg, iar în 1736, John și Charles Wesley au venit ca misionari. Georgia a devenit a treisprezecea colonie britanică din America de Nord."
+ },
+ "2-13": {
+  "y": "1849",
+  "s": "Delegația condusă de mitropolitul Andrei Șaguna îi înmânează împăratului Franz Joseph Memorandumul românilor din Transilvania.",
+  "x": "Șaguna, episcopul ortodox al Transilvaniei, a cerut în numele românilor recunoașterea națiunii lor și drepturi egale în Imperiul Habsburgic, după Revoluția din 1848. A reorganizat Biserica Ortodoxă din Transilvania prin „Statutul organic” din 1868, a înființat școli și a tipărit cărți. Este considerat unul dintre cei mai importanți păstori și organizatori ai românilor ardeleni."
+ },
+ "2-15": {
+  "y": "1852",
+  "s": "Este inaugurată în Helsinki biserica Sfântul Nicolae, azi Catedrala luterană din Helsinki.",
+  "x": "Biserica, proiectată de arhitectul Carl Ludvig Engel, a fost ridicată în stil neoclasic și dedicată țarului Nicolae I al Rusiei, în vremea când Finlanda era mare ducat în Imperiul Rus. După independența țării, în 1917, a devenit catedrala Bisericii Evanghelice Luterane din Finlanda. Este unul dintre cele mai cunoscute simboluri ale orașului."
+ },
+ "2-16": {
+  "y": "1918",
+  "s": "Consiliul Lituaniei proclamă independența țării.",
+  "x": "Cei douăzeci de membri ai consiliului au semnat actul de la Vilnius, pe 16 februarie 1918, în timpul ocupației germane. Independența a fost apărată în războaiele de după Primul Război Mondial, iar Lituania a fost ocupată de Uniunea Sovietică în 1940. Țara și-a redobândit independența în 1990, iar Biserica Catolică a avut un rol important în păstrarea identității naționale."
+ },
+ "2-17": {
+  "y": "1949",
+  "s": "Chaim Weizmann devine primul președinte al Israelului.",
+  "x": "Weizmann, chimist de origine evreiască din Imperiul Rus, fusese un lider al mișcării sioniste și purtase tratative cu britanicii, care au dus la Declarația Balfour din 1917. A fost ales de Knesset, la câteva luni după proclamarea statului. Funcția de președinte este în mare parte ceremonială. A murit în 1952, iar funcția a fost preluată de Yitzhak Ben-Zvi."
+ },
+ "2-19": {
+  "y": "1473",
+  "s": "Se naște Nicolaus Copernic, astronomul care a pus Soarele în centrul sistemului planetar.",
+  "x": "Copernic s-a născut la Toruń, în Polonia, și a studiat la Cracovia și în Italia. A lucrat ca administrator și canonic al catedralei din Frombork. Lucrarea lui, „De revolutionibus orbium coelestium”, a apărut în 1543, în anul morții sale, și a deschis o schimbare majoră în înțelegerea cosmosului. Reformatorii, între care Luther și Melanchthon, au avut reacții diferite față de ideile lui."
+ },
+ "2-20": {
+  "y": "1943",
+  "s": "Revista „Saturday Evening Post” publică prima dintre ilustrațiile „Cele patru libertăți”, de Norman Rockwell.",
+  "x": "Imaginile, create după discursul din 1941 al președintelui Roosevelt, ilustrau libertatea cuvântului, libertatea cultului, libertatea față de nevoie și libertatea față de frică. Pictura despre libertatea cultului arată oameni cu capetele plecate, în rugăciune. Imaginile au fost folosite într-o campanie de strângere de fonduri în timpul războiului, în care au fost vândute titluri de stat de milioane de dolari."
+ },
+ "2-21": {
+  "y": "1613",
+  "s": "Mihail Romanov este ales țar al Rusiei de către Adunarea Țării.",
+  "x": "Adunarea, reunită la Moscova după „Vremea Tulburărilor”, l-a ales pe tânărul Mihail, în vârstă de șaisprezece ani, ca să pună capăt anilor de război civil și de intervenții străine. Alegerea a fost susținută de Biserica Ortodoxă, iar tatăl lui, Filaret, a devenit patriarh al Moscovei. Dinastia Romanov a condus Rusia până în 1917."
+ },
+ "2-25": {
+  "y": "1870",
+  "s": "Hiram Revels devine primul afro-american în Senatul Statelor Unite.",
+  "x": "Revels, născut liber în Carolina de Nord, era pastor al Bisericii Metodiste Episcopale Africane și fusese capelan într-un regiment negru în Războiul Civil. A fost ales de legislativul din Mississippi, pe locul pe care îl ocupase Jefferson Davis. În discursul de intrare, Senatul a dezbătut mult dacă are dreptul la funcție. A slujit un an, apoi a devenit președinte de colegiu."
+ },
+ "2-26": {
+  "y": "1980",
+  "s": "Egiptul și Israelul stabilesc relații diplomatice complete.",
+  "x": "Schimbul de ambasadori a avut loc după tratatul de pace din 1979, semnat la Washington de Anwar Sadat și Menachem Begin, cu medierea președintelui Jimmy Carter. Egiptul a fost prima țară arabă care a recunoscut Israelul. Sadat a fost asasinat în 1981, la câțiva ani după acordul care i-a adus Premiul Nobel pentru Pace, alături de Begin."
+ },
+ "2-28": {
+  "y": "1993",
+  "s": "Agenți federali americani atacă complexul Branch Davidian, de lângă Waco, Texas.",
+  "x": "Gruparea religioasă, condusă de David Koresh, era o ramură desprinsă din Davidieni, care la rândul lor se desprinseseră din Adventiști. Poliția căuta arme ilegale, dar a urmat un asediu de 51 de zile. Pe 19 aprilie 1993, clădirea a luat foc, iar peste șaptezeci de oameni au murit, printre care mulți copii. Evenimentul a stârnit dispute lungi despre limitele intervenției statului față de grupările religioase."
+ },
+ "3-3": {
+  "y": "1918",
+  "s": "Rusia semnează Tratatul de la Brest-Litovsk și iese din Primul Război Mondial.",
+  "x": "Guvernul bolșevic, condus de Lenin, a acceptat condiții grele impuse de Germania, între care pierderea unor teritorii întinse din vest. Retragerea Rusiei a lăsat România, aflată în război de partea Aliaților, izolată pe frontul răsăritean. Câteva săptămâni mai târziu, România a fost forțată să semneze Pacea de la Buftea-București. Tratatul de la Brest-Litovsk a fost anulat după înfrângerea Germaniei, în noiembrie 1918."
+ },
+ "3-4": {
+  "y": "1493",
+  "s": "Cristofor Columb ajunge în portul Lisabona, la întoarcerea din prima sa expediție.",
+  "x": "Columb pornise din Spania în august 1492 și ajunsese în Caraibe pe 12 octombrie. Prima lui călătorie a început o nouă etapă în contactul dintre Europa și continentele americane. În jurnalele sale, Columb scria despre dorința de a răspândi credința creștină printre popoarele pe care le întâlnea, dar întâlnirea a adus și robie, boli și distrugerea unor lumi."
+ },
+ "3-5": {
+  "y": "1946",
+  "s": "Winston Churchill ține, la Fulton, Missouri, discursul despre „Cortina de Fier”.",
+  "x": "Fostul prim-ministru britanic a spus că o cortină de fier a coborât peste continent, de la Marea Baltică până la Marea Adriatică. Discursul a avut loc la Colegiul Westminster, cu președintele Truman în public. A marcat începutul unei dispute politice și ideologice între Occident și blocul sovietic, în care libertatea religiei a fost și ea în joc: în țări ca România, bisericile au suferit persecuții."
+ },
+ "3-6": {
+  "y": "1836",
+  "s": "Bătălia de la Alamo se încheie cu înfrângerea apărătorilor misiunii San Antonio de Valero.",
+  "x": "Aproximativ 200 de texieni au rezistat treisprezece zile în fața unei armate mexicane mult mai mari, conduse de generalul Santa Anna. Toți bărbații din misiune au murit, între ei Davy Crockett și James Bowie. Alamo era o fostă misiune spaniolă, ridicată în secolul al XVIII-lea pentru convertirea și educarea populației locale. Strigătul „Amintiți-vă de Alamo!” a devenit simbolul luptei pentru independența Texasului."
+ },
+ "3-9": {
+  "y": "1841",
+  "s": "Curtea Supremă a Statelor Unite decide, în cazul „Amistad”, că africanii răsculați pe corabie sunt oameni liberi.",
+  "x": "Cei peste cincizeci de africani, răpiți și vânduți ilegal, preluaseră controlul asupra navei „La Amistad”, în 1839. Au fost apărați de avocați abolitioniști, iar fostul președinte John Quincy Adams a pledat în fața Curții. Africanii au fost eliberați și s-au întors în Africa, însoțiți de misionari. Sprijinul pentru ei a dus la întemeierea Asociației Misionare Americane, în 1846."
+ },
+ "3-12": {
+  "y": "1930",
+  "s": "Mahatma Gandhi pornește Marșul Sării, un act de nesupunere civilă nonviolentă.",
+  "x": "Gandhi a mers aproape 400 de kilometri, de la ashramul lui până la mare, ca să facă sare în mod ilegal și să protesteze împotriva taxei britanice. A fost însoțit de zeci de mii de oameni pe parcurs. Principiul nonviolenței i-a inspirat, în deceniile următoare, pe mulți lideri creștini ai drepturilor civile, între care Martin Luther King Jr., care a vizitat India în 1959."
+ },
+ "3-13": {
+  "y": "1943",
+  "s": "Germanii lichidează ghetoul evreiesc din Cracovia.",
+  "x": "Aproximativ două mii de evrei apți de muncă au fost trimiși la lagărul Płaszów, iar alte aproximativ două mii au fost uciși în ghetou sau deportați la Auschwitz. Industriașul german Oskar Schindler, care avea o fabrică în Cracovia, a angajat sute de evrei și i-a ferit de deportare. Filmul „Lista lui Schindler” a făcut cunoscută povestea lui în lumea întreagă."
+ },
+ "3-14": {
+  "y": "1879",
+  "s": "Se naște Albert Einstein, la Ulm, în Germania.",
+  "x": "Einstein provenea dintr-o familie evreiască nepracticantă. A publicat în 1905 teoria relativității restrânse, iar în 1921 a primit Premiul Nobel pentru Fizică. A plecat din Germania în 1933 din cauza regimului nazist și s-a stabilit în Statele Unite. A vorbit adesea despre „religia cosmică” și despre uimirea în fața ordinii universului, iar în 1952 a refuzat propunerea de a deveni președintele Israelului."
+ },
+ "3-15": {
+  "y": "44 î.Hr.",
+  "s": "Iulius Cezar este asasinat la Roma, în „Idele lui Martie”.",
+  "x": "Cezar a fost înjunghiat într-o ședință a Senatului de un grup de senatori, între care Brutus și Cassius. Asasinii sperau să salveze Republica, dar moartea lui a dus la noi războaie civile și, în final, la Imperiul Roman, condus de Augustus. Potrivit lui Suetoniu, evreii din Roma l-au plâns multă vreme, fiindcă Cezar le garantase libertatea de cult."
+ },
+ "3-16": {
+  "y": "1190",
+  "s": "Masacrul evreilor din York, la Clifford's Tower.",
+  "x": "În timp ce regele Richard Inimă de Leu pornea în cruciadă, mulți evrei din York s-au refugiat în turnul regal, ca să scape de o mulție înfuriată. Asediați, mulți și-au luat viața, în loc să cadă în mâinile asediatorilor, iar cei care au ieșit au fost uciși. Evenimentul a fost unul dintre cele mai grave atacuri antievreiești din Anglia medievală și a precedat expulzarea din 1290."
+ },
+ "3-17": {
+  "y": "c. 461",
+  "s": "Patrick, misionarul Irlandei, este amintit la 17 martie.",
+  "x": "Potrivit tradiției, Patrick s-a născut în Britania romană, a fost răpit și dus ca sclav în Irlanda, a evadat, apoi s-a întors ca misionar, ca să le vestească Evanghelia irlandezilor. Din scrierile lui păstrate, „Confesiunea” și o scrisoare, se vede un om cu credință simplă și curajoasă. Data de 17 martie este ziua de pomenire tradițională; anul morții lui nu este sigur."
+ },
+ "3-18": {
+  "y": "1673",
+  "s": "John Berkeley vinde jumătatea sa din New Jersey unor quakeri.",
+  "x": "Cumpărătorii, John Fenwick și Edward Byllynge, erau membri ai Societății Prietenilor, numiți quakeri. Colonia West Jersey a devenit un refugiu pentru quakerii persecutați în Anglia, cu libertate de conștiință, între care William Penn a avut un rol de administrator. În 1681 Penn a primit teritoriul care avea să devină Pennsylvania, o colonie întemeiată pe principiul toleranței religioase."
+ },
+ "3-20": {
+  "y": "1600",
+  "s": "Baia de sânge de la Linköping: cinci nobili suedezi sunt decapitați.",
+  "x": "Execuția a avut loc în Joia Mare, din ordinul ducelui Carol, viitorul rege Carol al IX-lea. Victimele erau susținători ai regelui Sigismund, care era catolic și domnea și în Polonia, în timp ce Suedia devenise luterană. Evenimentul a fost un episod al conflictului dintre cei doi pretendenți la coroană. După el, Suedia a rămas protestantă."
+ },
+ "3-23": {
+  "y": "1775",
+  "s": "Patrick Henry rostește la Richmond discursul „Dă-mi libertatea sau dă-mi moartea!”.",
+  "x": "Discursul a fost ținut în biserica Sfântul Ioan, în fața delegaților Virginiei, care dezbăteau dacă să-și organizeze o miliție împotriva Marii Britanii. Henry a încheiat cu cuvintele: „Nu știu ce cale vor alege alții; cât despre mine, dă-mi libertatea sau dă-mi moartea!” Textul discursului a fost reconstituit de un biograf după mulți ani, dar cuvintele sunt celebre."
+ },
+ "3-24": {
+  "y": "1721",
+  "s": "Johann Sebastian Bach dedică margrafului Christian Ludwig de Brandenburg cele șase concerte, numite azi „Concertele brandenburgice”.",
+  "x": "Bach le-a scris în timp ce lucra la curtea de la Köthen, unde slujise ca maestru de capelă pentru un principe reformat. Margraful nu i-a oferit niciodată postul pe care Bach spera să-l primească, iar partiturile au rămas multă vreme necântate. Astăzi sunt printre cele mai cunoscute lucrări baroce pentru orchestră."
+ },
+ "3-25": {
+  "y": "1965",
+  "s": "Marșul de la Selma la Montgomery se încheie, după patru zile, în fața clădirii legislative din Alabama.",
+  "x": "Mii de oameni, între care mulți pastori, preoți și rabini veniți din toată țara, au mers alături de Martin Luther King Jr. pentru dreptul la vot al afro-americanilor. Cu aproape trei săptămâni mai devreme, la „Duminica sângeroasă”, poliția atacase marșul pe podul Edmund Pettus. În august 1965, președintele Johnson a semnat Legea drepturilor de vot."
+ },
+ "3-26": {
+  "y": "1636",
+  "s": "Este întemeiată Universitatea din Utrecht, în Olanda.",
+  "x": "Universitatea s-a născut dintr-o școală mai veche, într-un oraș cu o puternică tradiție reformată, în Provinciile Unite. A devenit un centru al teologiei calviniste, iar în secolul al XVII-lea l-a avut ca profesor pe Gisbertus Voetius. Este una dintre cele mai mari universități din Europa."
+ },
+ "3-27": {
+  "y": "1918",
+  "s": "Consiliul Național al Basarabiei proclamă unirea cu Regatul României.",
+  "x": "Sfatul Țării, adunarea basarabeană, a votat unirea, cu majoritate de voturi, în timpul unei perioade de haos după prăbușirea Imperiului Rus. Unirea a fost urmată, în noiembrie, de unirea Bucovinei, iar la 1 decembrie 1918, de cea a Transilvaniei. Biserica Ortodoxă a avut un rol în viața comunităților basarabene, iar teritoriul a fost pierdut în 1940, după ultimatumul sovietic."
+ },
+ "3-28": {
+  "y": "1930",
+  "s": "Constantinopolul și Angora primesc oficial numele de Istanbul și Ankara.",
+  "x": "Legea poștală turcă a stabilit folosirea numelor turcești pentru orașe. Istanbul fusese capitala Imperiului Roman de Răsărit și a Imperiului Otoman. Aici se află și astăzi sediul Patriarhiei Ecumenice a Constantinopolului, centrul Bisericii Ortodoxe, în ciuda numărului mic de creștini rămași în oraș."
+ },
+ "3-30": {
+  "y": "1867",
+  "s": "Statele Unite încheie tratatul de cumpărare a Alaskăi de la Rusia.",
+  "x": "Prețul a fost de 7,2 milioane de dolari. Alaska fusese colonizată de ruși, care au adus acolo și misiuni ortodoxe, între care cea condusă de Ioan Veniaminov, mai târziu arhiepiscop și sfânt al Bisericii Ortodoxe. Multe comunități indigene din Alaska au rămas ortodoxe până astăzi, cu biserici cu cupole albastre în sate izolate."
+ },
+ "4-2": {
+  "y": "1725",
+  "s": "Prima audiție a cantatei lui Bach „Bleib bei uns, denn es will Abend werden” (BWV 6), în Leipzig, în Lunea Paștilor.",
+  "x": "Cantata pornește de la povestea ucenicilor din Emaus, din Evanghelia după Luca: „Rămâi cu noi, căci se înserează”. Bach a compus-o pentru slujba din a doua zi de Paști. Ea cuprinde un cor în care bătrânul imn luteran „Ach bleib bei uns, Herr Jesu Christ” este așezat în contrapunct. Cantata a ajuns una dintre cele mai îndrăgite lucrări ale lui."
+ },
+ "4-5": {
+  "y": "1566",
+  "s": "Aproximativ două sute de nobili olandezi îi prezintă regentei Margareta de Parma „Cererea”, cerând oprirea persecuției protestanților.",
+  "x": "Nobilii, între care Hendrik van Brederode, voiau suspendarea Inchiziției și a edictelor împotriva ereziei. Un consilier al regentei i-ar fi numit disprețuitor „cerșetori” („geuzen”), iar nobilii au adoptat numele cu mândrie. Refuzul coroanei spaniole de a ceda a dus la revolta din Țările de Jos și la Războiul de optzeci de ani."
+ },
+ "4-13": {
+  "y": "1743",
+  "s": "Se naște Thomas Jefferson, autorul Declarației de independență a Statelor Unite.",
+  "x": "Thomas Jefferson s-a născut în Virginia, în 1743, și a fost al treilea președinte al Statelor Unite, între 1801 și 1809. Jefferson a redactat în 1777 „Statutul Virginiei pentru libertatea religioasă”, adoptat în 1786, care spunea că nimeni nu poate fi obligat să sprijine o religie și că opiniile religioase nu trebuie să influențeze drepturile civile. Considera această lucrare printre cele mai importante ale vieții lui, alături de Declarație și de întemeierea Universității din Virginia."
+ },
+ "4-14": {
+  "y": "1906",
+  "s": "Are loc prima întrunire a Trezirii de pe Azusa Street, din Los Angeles, care avea să răspândească mișcarea penticostală în lume.",
+  "x": "Predicatorul William J. Seymour, un pastor afro-american al mișcării de sfințire, conducea adunările într-o fostă biserică din strada Azusa. Credincioși de toate rasele, în plină epocă a segregării, s-au rugat împreună, vorbind în limbi și mărturisind vindecări. Veștile s-au răspândit în lume prin misionari, iar mișcarea penticostală numără astăzi sute de milioane de adepți."
+ },
+ "4-15": {
+  "y": "1960",
+  "s": "La Universitatea Shaw din Raleigh, Ella Baker conduce conferința care creează Comitetul Studenților pentru Acțiune Nonviolentă (SNCC).",
+  "x": "Tinerii participanți, mulți dintre ei implicați în protestele pentru drepturile civile, au decis să își coordoneze acțiunile pe baza principiului nonviolenței, preluat din tradiția creștină și din ideile lui Gandhi. SNCC a organizat „Călătoriile libertății” și campania „Vara libertății” din Mississippi. Mulți dintre liderii lui s-au format în biserici baptiste și metodiste din Sud."
+ },
+ "4-20": {
+  "y": "1657",
+  "s": "Evreilor din Noua Amsterdam li se acordă libertatea cultului.",
+  "x": "Guvernatorul Peter Stuyvesant era reformat convins și nu dorea o comunitate evreiască în colonie, dar directorii Companiei Olandeze a Indiilor de Vest i-au cerut să respecte drepturile lor. În anul acela, în Flushing, locuitorii din colonie, între care quakeri persecutați, au semnat o petiție pentru libertatea de conștiință. Evenimentele au pus bazele toleranței religioase în viitorul New York."
+ },
+ "4-21": {
+  "y": "1792",
+  "s": "Tiradentes, conducătorul mișcării pentru independența Braziliei, este spânzurat la Rio de Janeiro.",
+  "x": "Joaquim José da Silva Xavier, numit Tiradentes („cel care scoate dinții”), era un dentist și militar implicat în conspirația „Inconfidência Mineira”. A fost singurul dintre conspiratori care și-a asumat vina și a fost executat. Ceilalți conspiratori au fost exilați. Brazilia a devenit independentă în 1822, iar Tiradentes este erou național."
+ },
+ "4-22": {
+  "y": "1500",
+  "s": "Pedro Álvares Cabral ajunge pe coasta Braziliei și o revendică pentru Portugalia.",
+  "x": "Flota lui Cabral pornise spre India și s-a abătut spre vest. A numit pământul „Ilha de Vera Cruz”. Pe 26 aprilie, la câteva zile după sosire, s-a celebrat acolo prima liturghie, în prezența localnicilor. Cuvântul „Brazilia” vine de la lemnul de culoare roșie, „pau-brasil”, exploatat ulterior."
+ },
+ "4-23": {
+  "y": "1724",
+  "s": "Prima audiție a cantatei lui Bach „Du Hirte Israel, höre” (BWV 104), în duminica Bunului Păstor.",
+  "x": "Cantata se sprijină pe Psalmul 80, în care Dumnezeu este chemat ca Păstor al lui Israel, și pe Evanghelia după Ioan, capitolul 10, despre Păstorul cel bun. Bach a scris-o pentru a doua duminică după Paști, în primul an la Leipzig. Corul de început cere cu stăruință ca Păstorul să asculte, iar muzica evocă blândețea păstorului."
+ },
+ "4-24": {
+  "y": "1916",
+  "s": "Începe Răscoala de Paști din Irlanda, la Dublin.",
+  "x": "Un grup de naționaliști irlandezi a ocupat clădiri din Dublin în Lunea Paștilor și a proclamat Republica Irlandeză. Răscoala a fost înăbușită după o săptămână, iar conducătorii ei au fost executați. După războiul de independență din 1919–1921, în 1922 s-a născut Statul Liber Irlandez. Conflictul dintre catolici și protestanți din nordul insulei a continuat mult mai târziu."
+ },
+ "4-25": {
+  "y": "1945",
+  "s": "Trupe americane și sovietice se întâlnesc la Torgau, pe Elba, tăind în două Germania nazistă.",
+  "x": "Întâlnirea, cunoscută ca „Ziua Elbei”, a avut loc cu câteva zile înaintea sinuciderii lui Hitler. Soldații au stat împreună pe malul râului, într-un moment de bucurie în ultimele zile ale războiului. În curând avea să se încheie un război care costase zeci de milioane de vieți, între care șase milioane de evrei uciși în Holocaust."
+ },
+ "4-26": {
+  "y": "1986",
+  "s": "Are loc catastrofa nucleară de la Cernobîl, în Ucraina.",
+  "x": "Un reactor al centralei a explodat în timpul unui test, iar un nor radioactiv s-a răspândit peste Europa, inclusiv peste România. Zeci de oameni au murit în primele săptămâni, iar peste o sută de mii au fost evacuați. În Biblie, în Apocalipsa 8:11, apare steaua numită „Pelin”, iar cuvântul ucrainean pentru pelin este „cernobîl”, o coincidență care a făcut ca unii să vadă în eveniment un semn."
+ },
+ "4-27": {
+  "y": "1595",
+  "s": "Moaștele Sfântului Sava sunt arse la Belgrad, din ordinul marelui vizir Sinan Pașa.",
+  "x": "Sava, primul arhiepiscop al sârbilor, a obținut în 1219 autocefalia Bisericii Sârbe. Moaștele lui erau cinstite de poporul sârb. Sinan Pașa a poruncit arderea lor, ca represalii pentru o răscoală sârbă în Banat. Gestul nu a micșorat, ci a întărit cinstirea sfântului, iar o biserică mare, Sfântul Sava, a fost ridicată pe locul arderii."
+ },
+ "4-28": {
+  "y": "1945",
+  "s": "Benito Mussolini este capturat și executat de partizani italieni.",
+  "x": "Dictatorul italian, aliat al lui Hitler, încerca să fugă în Elveția împreună cu amanta lui, Clara Petacci, când a fost recunoscut de partizani lângă lacul Como. Trupul lui a fost expus la Milano. Mussolini semnase în 1929 Tratatele de la Lateran cu papa, care au creat Statul Vatican, dar și regimul lui a promulgat legi rasiale antievreiești în 1938."
+ },
+ "4-29": {
+  "y": "1429",
+  "s": "Ioana d'Arc ajunge la Orléans, asediat de englezi.",
+  "x": "Tânăra de șaptesprezece ani, țărancă din Domrémy, spunea că aude voci cerești care o îndemnau să-l ajute pe viitorul rege Carol al VII-lea. La Orléans, armata franceză a ridicat asediul în câteva zile. A fost capturată în 1430 și arsă pe rug la Rouen, în 1431, după un proces pentru erezie, iar în 1456 procesul a fost anulat."
+ },
+ "4-30": {
+  "y": "1598",
+  "s": "Henric al IV-lea al Franței dă Edictul de la Nantes, prin care hughenoții primesc libertatea de conștiință.",
+  "x": "Edictul a fost semnat în aprilie 1598, după treizeci de ani de războaie religioase. Henric, protestant devenit catolic în 1593 ca să-și poată păstra tronul, a recunoscut catolicismul ca religie oficială, dar a garantat protestanților libertate de conștiință, drepturi civile și locuri fortificate. A fost revocat în 1685 de Ludovic al XIV-lea, ceea ce a determinat sute de mii de hughenoți să fugă din Franța."
+ },
+ "5-3": {
+  "y": "1963",
+  "s": "La Birmingham, poliția folosește câini și furtunuri cu apă împotriva copiilor care protestau pașnic.",
+  "x": "Campania lui Martin Luther King Jr. și a pastorului Fred Shuttlesworth împotriva segregării a atras mii de elevi, care au mărșăluit din biserica baptistă din Strada a 16-a. Imaginile cu atacurile asupra copiilor au fost difuzate în toată lumea și au stârnit indignarea publicului american. După câteva zile, orașul a încheiat un acord de desegregare, iar în vara aceea președintele Kennedy a cerut Congresului o lege a drepturilor civile."
+ },
+ "5-4": {
+  "y": "1415",
+  "s": "Conciliul de la Konstanz îl condamnă pe John Wycliffe ca eretic, la treizeci de ani după moartea lui.",
+  "x": "Condamnarea cuprindea zeci de teze din scrierile lui Wycliffe și poruncea ca oasele lui să fie dezgropate. Hotărârea a fost executată abia în 1428, când rămășițele lui au fost scoase din mormânt și arse, iar cenușa aruncată într-un râu. Cu două luni mai târziu, Conciliul avea să-l condamne la moarte pe Jan Hus, influențat de ideile lui."
+ },
+ "5-5": {
+  "y": "1821",
+  "s": "Napoleon Bonaparte moare pe insula Sfânta Elena.",
+  "x": "Fostul împărat murise în exil, după înfrângerea de la Waterloo, la vârsta de 51 de ani. În 1801 încheiase un concordat cu papa, care a reorganizat Biserica Catolică din Franța, iar în 1806 și 1807 a convocat Marele Sanhedrin al evreilor francezi, ca să integreze comunitatea evreiască în noul stat. Cuceririle lui au schimbat harta Europei și au dus la abolirea servituții în multe regiuni."
+ },
+ "5-6": {
+  "y": "1541",
+  "s": "Regele Henric al VIII-lea poruncește ca Biblii în limba engleză să fie păstrate în fiecare biserică.",
+  "x": "„Marea Biblie”, tradusă în mare parte de William Tyndale și revizuită de Myles Coverdale, apăruse în 1539. Proclamația cerea ca fiecare parohie să aibă un exemplar, la îndemâna oamenilor, și să încurajeze citirea ei. A fost un pas important în răspândirea Scripturii în limba oamenilor, deși regele a limitat ulterior accesul unor categorii sociale."
+ },
+ "5-12": {
+  "y": "1364",
+  "s": "Regele Cazimir al III-lea întemeiază Universitatea din Cracovia, azi Universitatea Jagiellonă.",
+  "x": "Este cea mai veche universitate din Polonia. După o pauză, a fost refondată în 1400 de regina Jadviga și de soțul ei, Vladislav Jagello, care au lăsat bunuri pentru susținerea ei. A avut și o facultate de teologie. Printre studenții ei s-a numărat, la sfârșitul secolului al XV-lea, Nicolaus Copernic."
+ },
+ "5-13": {
+  "y": "1940",
+  "s": "Winston Churchill rostește în Camera Comunelor discursul „Sânge, trudă, lacrimi și sudoare”.",
+  "x": "Cu trei zile mai devreme devenise prim-ministru al Marii Britanii, în ziua în care Germania a invadat Țările de Jos. Churchill a spus că nu are altceva de oferit decât sânge, trudă, lacrimi și sudoare și că scopul este victoria, oricât de lungă ar fi calea. Discursul a fost începutul unei conduceri care avea să țină Marea Britanie în luptă împotriva lui Hitler."
+ },
+ "5-17": {
+  "y": "1395",
+  "s": "Bătălia de la Rovine: Mircea cel Bătrân, domnul Țării Românești, înfruntă armata sultanului Baiazid I.",
+  "x": "Mircea, cu o oaste mai mică, a folosit un teren greu pentru cavalerie și a respins o campanie otomană. Domnia lui a durat mai bine de trei decenii, iar el a păstrat autonomia țării sale cu prețul unui tribut. A sprijinit și mănăstirea Cozia, în care este înmormântat. Bătălia a rămas un simbol al apărării țării."
+ },
+ "5-19": {
+  "y": "1536",
+  "s": "Anne Boleyn, a doua soție a regelui Henric al VIII-lea, este executată la Turnul Londrei.",
+  "x": "Anne fusese acuzată de adulter și trădare, într-un proces la care mulți istorici privesc cu îndoială. A fost decapitată cu sabia de un călău adus special din Calais. A susținut gândirea reformatoare și a protejat predicatori evanghelici, între care Hugh Latimer. Fiica ei, Elisabeta I, a devenit regină în 1558 și a așezat Biserica Angliei pe baze protestante."
+ },
+ "5-22": {
+  "y": "1629",
+  "s": "Tratatul de la Lübeck încheie intervenția Danemarcei în Războiul de Treizeci de Ani.",
+  "x": "Regele protestant Christian al IV-lea al Danemarcei fusese înfrânt de armatele imperiale catolice. A primit înapoi teritoriul său, cu condiția să renunțe la sprijinul pentru principii protestanți germani. Împăratul Ferdinand al II-lea emisese în martie Edictul de Restituire, care a cerut întoarcerea unor bunuri bisericești către Biserica Catolică. Războiul a continuat încă aproape două decenii."
+ },
+ "5-26": {
+  "y": "1896",
+  "s": "Nicolae al II-lea este încoronat țar al Rusiei, în catedrala Adormirii din Moscova.",
+  "x": "Ceremonia ortodoxă a inclus ungerea și împărtășirea țarului. După câteva zile, la sărbătorile populare de pe câmpul Hodînka, o busculadă a ucis peste o mie de oameni. Nicolae a fost ultimul țar. A fost executat împreună cu familia în 1918, iar Biserica Ortodoxă Rusă i-a canonizat ca purtători de patimi, în anul 2000."
+ },
+ "5-28": {
+  "y": "1588",
+  "s": "Armada spaniolă pornește din Lisabona spre Anglia.",
+  "x": "Flota, de peste o sută treizeci de corăbii, urma să ia trupele ducelui de Parma din Țările de Jos și să invadeze Anglia protestantă a Elisabetei I. Cu furtunile și cu luptele din Canalul Mânecii, armada a fost înfrântă și a pierdut zeci de vase. Englezii au bătut o medalie cu inscripția „Dumnezeu a suflat și ei au fost risipiți”, în care au văzut o intervenție divină."
+ },
+ "5-31": {
+  "y": "1910",
+  "s": "Se întemeiază Uniunea Africii de Sud.",
+  "x": "Noul stat a reunit coloniile britanice Cap și Natal cu fostele republici bure, Transvaal și Orange. Biserica Reformată Olandeză, majoritară în rândul afrikanerilor, a avut un rol important în viața publică. Pe parcursul secolului XX, unii teologi ai ei au justificat apartheidul, iar alții, între care Beyers Naudé, l-au condamnat deschis."
+ },
+ "6-1": {
+  "y": "1962",
+  "s": "Adolf Eichmann este spânzurat în Israel, după procesul de la Ierusalim.",
+  "x": "Eichmann, un fost ofițer SS, organizase deportarea evreilor către lagărele de exterminare. Fusese capturat în Argentina în 1960 și judecat la Ierusalim în 1961, într-un proces urmărit în lume. A fost singura persoană executată în Israel după o sentință de tribunal civil. Procesul a adus în fața publicului mărturiile supraviețuitorilor Holocaustului și a inspirat cartea Hannei Arendt despre „banalitatea răului”."
+ },
+ "6-2": {
+  "y": "1953",
+  "s": "Elisabeta a II-a este încoronată regină a Marii Britanii în Abația Westminster.",
+  "x": "Slujba a fost condusă de arhiepiscopul de Canterbury, Geoffrey Fisher, după ritualul vechi de secole al încoronărilor engleze. Regina a jurat să mențină religia protestantă reformată și să apere Biserica Angliei. Ceremonia a fost transmisă la televiziune, pentru prima dată pentru o încoronare, și a fost urmărită de milioane de oameni."
+ },
+ "6-5": {
+  "y": "1947",
+  "s": "George Marshall anunță, într-un discurs la Harvard, planul de ajutor economic pentru Europa postbelică.",
+  "x": "„Planul Marshall” a oferit aproximativ 13 miliarde de dolari țărilor europene care au vrut să participe. Uniunea Sovietică a refuzat ajutorul și a determinat statele din blocul estic, între care România, să facă la fel. Planul a ajutat la refacerea Europei de Vest și la întărirea democrațiilor, într-un moment în care foametea și sărăcia amenințau continentul."
+ },
+ "6-7": {
+  "y": "1776",
+  "s": "Richard Henry Lee propune Congresului Continental declararea independenței coloniilor americane.",
+  "x": "Rezoluția spunea că coloniile unite „sunt și au dreptul să fie state libere și independente”. Congresul a numit pe 11 iunie un comitet de cinci membri, între care Thomas Jefferson și John Adams, ca să redacteze declarația. Textul a fost adoptat pe 4 iulie 1776 și vorbește despre drepturi pe care omul le primește de la Creatorul său."
+ },
+ "6-8": {
+  "y": "1968",
+  "s": "James Earl Ray, asasinul lui Martin Luther King Jr., este arestat pe aeroportul Heathrow din Londra.",
+  "x": "Ray evadase din închisoare în 1967 și fugise din Statele Unite după asasinarea lui King, la 4 aprilie 1968. A fost extrădat și, în 1969, a pledat vinovat, primind o pedeapsă de 99 de ani. Familia King a susținut ulterior că ar fi existat o conspirație mai largă. Moștenirea lui King a continuat prin Legea drepturilor civile și prin sărbătoarea națională care îi poartă numele."
+ },
+ "6-10": {
+  "y": "1190",
+  "s": "Frederic Barbarossa se îneacă în râul Saleph, în timpul celei de-a treia cruciade.",
+  "x": "Împăratul Sfântului Imperiu Roman, în vârstă de aproape șaptezeci de ani, conducea una dintre cele mai mari armate de cruciați spre Țara Sfântă. A murit în Anatolia, în timp ce trecea râul. Armata s-a destrămat în mare parte, iar mulți dintre oamenii lui s-au întors acasă. Cruciada a continuat sub regii Richard și Filip al II-lea."
+ },
+ "6-11": {
+  "y": "1963",
+  "s": "Guvernatorul George Wallace blochează intrarea la Universitatea din Alabama, ca să împiedice înscrierea a doi studenți afro-americani.",
+  "x": "Un marshal federal și trupe ale Gărzii Naționale l-au obligat să se retragă, iar cei doi, Vivian Malone și James Hood, s-au înscris. În seara aceea, președintele Kennedy a vorbit la televiziune, numind drepturile civile o chestiune morală „veche ca Scripturile și limpede ca Constituția”. A doua zi, activistul Medgar Evers a fost asasinat la Jackson, Mississippi."
+ },
+ "6-16": {
+  "y": "1976",
+  "s": "Începe Răscoala de la Soweto, în Africa de Sud.",
+  "x": "Mii de elevi au ieșit în stradă ca să protesteze împotriva obligativității limbii afrikaans în școli. Poliția a tras asupra lor, iar fotografia lui Hector Pieterson, de doisprezece ani, purtat de un coleg, a făcut înconjurul lumii. Revolta s-a extins în țară și a atras atenția asupra apartheidului. Mulți lideri religioși, între care arhiepiscopul Desmond Tutu, au vorbit tot mai deschis împotriva regimului."
+ },
+ "6-18": {
+  "y": "1815",
+  "s": "Napoleon este învins la Waterloo, de armatele conduse de ducele de Wellington și de Gebhard von Blücher.",
+  "x": "Înfrângerea a pus capăt celor o sută de zile de după întoarcerea lui din Elba și domniei lui în Franța. Napoleon a fost exilat pe insula Sfânta Elena, unde a murit în 1821. Congresul de la Viena, încheiat în iunie 1815, a refăcut ordinea Europei, iar o perioadă de pace relativă a favorizat lucrarea misionară și societățile biblice."
+ },
+ "6-20": {
+  "y": "1789",
+  "s": "Jurământul din sala de Tenis: deputații Stărilor Generale din Franța jură să nu se despartă până nu dau o constituție țării.",
+  "x": "După ce au fost opriți să intre în sala lor obișnuită, deputații Stării a Treia s-au adunat într-o sală de joc cu mingea. În august, Adunarea a votat Declarația drepturilor omului și ale cetățeanului, care garantează că nimeni nu poate fi tulburat pentru opiniile sale, chiar religioase, atâta timp cât nu perturbă ordinea publică. Jurământul a marcat începutul Revoluției Franceze ca act politic al reprezentanților poporului."
+ },
+ "6-21": {
+  "y": "1848",
+  "s": "Proclamația de la Islaz: începe Revoluția de la 1848 din Țara Românească.",
+  "x": "Documentul, redactat cu contribuția lui Ion Heliade Rădulescu, cerea libertăți civile și politice, egalitate în drepturi, desființarea clăcii și împroprietărirea țăranilor. Proclamația a fost citită în fața mulțimii adunate la Islaz, pe malul Dunării. Revoluția a fost înăbușită în septembrie de trupele otomane și rusești, dar ideile ei au pregătit unirea din 1859."
+ },
+ "6-23": {
+  "y": "1794",
+  "s": "Împărăteasa Ecaterina a II-a a Rusiei le permite evreilor să se stabilească la Kiev.",
+  "x": "Evreii primiseră deja dreptul de a locui în orașele din teritoriile care fuseseră ale Poloniei, în așa-numitul Pale al Așezării, fixat în 1791. Permisiunea de la Kiev a fost un pas în același sistem, care restrângea locurile unde puteau locui evreii. Pale a durat până în 1917, iar evreii din regiune au dezvoltat o cultură bogată, între care mișcarea hasidică."
+ },
+ "6-26": {
+  "y": "1940",
+  "s": "Uniunea Sovietică prezintă României un ultimatum, cerând cedarea Basarabiei și a nordului Bucovinei.",
+  "x": "Ultimatumul se baza pe protocolul secret al pactului Molotov–Ribbentrop din 1939. Guvernul român, fără sprijin extern, a acceptat condițiile, iar retragerea s-a făcut între 28 iunie și 3 iulie. Pierderea teritoriilor, urmată în august de Dictatul de la Viena și în septembrie de cedarea Cadrilaterului, a slăbit mult România și a dus la schimbarea regimului."
+ },
+ "6-27": {
+  "y": "1556",
+  "s": "Treisprezece protestanți, între care două femei, sunt arși pe rug la Stratford, lângă Londra.",
+  "x": "Cei treisprezece, „martirii din Stratford”, au fost arestați pentru refuzul de a participa la slujba catolică în timpul domniei Mariei I. Povestea lor a fost păstrată de John Foxe în „Cartea martirilor”. Un monument la Stratford, în estul Londrei, le amintește de ei. Sub regina Maria au murit pe rug aproximativ trei sute de protestanți."
+ },
+ "6-28": {
+  "y": "1914",
+  "s": "Arhiducele Franz Ferdinand al Austriei și soția sa, Sofia, sunt asasinați la Sarajevo.",
+  "x": "Atentatorul, Gavrilo Princip, un tânăr bosniac, făcea parte dintr-o mișcare care dorea unirea slavilor de sud. Asasinatul a declanșat un lanț de ultimatumuri și mobilizări, și în cursul lunii august a izbucnit Primul Război Mondial. Războiul a distrus imperii, a ucis zeci de milioane de oameni și a pus bazele unor mari schimbări în Europa, între care România Mare."
+ },
+ "6-30": {
+  "y": "1860",
+  "s": "Dezbaterea de la Oxford despre „Originea speciilor” opune pe Thomas Huxley episcopului Samuel Wilberforce.",
+  "x": "Cartea lui Charles Darwin apăruse în noiembrie 1859 și stârnise mari controverse. La o reuniune a Asociației Britanice, la muzeul din Oxford, Wilberforce, un episcop anglican și fiu al lui William Wilberforce, a criticat teoria, iar Huxley i-a răspuns. Dezbaterea a devenit legendară, deși relatările despre ea diferă. Mulți creștini, între care teologi protestanți, au acceptat ulterior evoluția în diferite forme."
+ },
+ "7-3": {
+  "y": "1863",
+  "s": "Se încheie bătălia de la Gettysburg, punctul de cotitură al Războiului Civil American.",
+  "x": "Bătălia, care a durat trei zile, s-a încheiat cu respingerea atacului confederat cunoscut ca „Încărcătura lui Pickett”. Au fost aproximativ cincizeci de mii de victime, cele mai multe din război. Pe 19 noiembrie 1863, președintele Lincoln a ținut la Gettysburg o scurtă cuvântare, în care a spus că națiunea, „sub Dumnezeu”, va avea o nouă naștere a libertății."
+ },
+ "7-4": {
+  "y": "1776",
+  "s": "Congresul Continental adoptă Declarația de independență a Statelor Unite.",
+  "x": "Textul, scris în principal de Thomas Jefferson, afirmă că toți oamenii sunt creați egali și au drepturi pe care le primesc de la Creator. Printre semnatari se afla John Witherspoon, pastor prezbiterian și președinte al colegiului din Princeton. Documentul invocă „Dumnezeul naturii” și „Providența divină” și a influențat mișcări pentru libertate din multe țări."
+ },
+ "7-7": {
+  "y": "1585",
+  "s": "Tratatul de la Nemours anulează toleranța acordată protestanților în Franța.",
+  "x": "Regele Henric al III-lea, sub presiunea Ligii Catolice, a interzis exercitarea cultului protestant și a cerut hughenoților să se convertească sau să plece din țară. Tratatul a dus la „Războiul celor trei Henri”, între regele Henric al III-lea, ducele de Guise și Henric de Navarra, protestantul care avea să devină regele Henric al IV-lea. Tratatul a anulat edictele de pacificare date în favoarea protestanților în anii precedenți."
+ },
+ "7-12": {
+  "y": "1536",
+  "s": "Erasmus din Rotterdam moare la Basel.",
+  "x": "Umanist și teolog, Erasmus a publicat în 1516 prima ediție tipărită a Noului Testament în greacă, „Novum Instrumentum”, folosită de Luther și de Tyndale la traducerile lor. În „Elogiul nebuniei” a satirizat abuzurile din Biserică. Nu s-a alăturat Reformei, dar a fost acuzat de ambele părți, iar se spunea despre el: „Erasmus a ouat oul pe care Luther l-a clocit.”"
+ },
+ "7-13": {
+  "y": "1831",
+  "s": "Regulamentul Organic, o primă lege fundamentală, intră în vigoare în Țara Românească.",
+  "x": "Documentul a fost redactat sub conducerea generalului rus Pavel Kiseliov, în timpul ocupației rusești. A introdus separarea puterilor în stat, adunări și o organizare modernă a administrației. A fost și un pas spre modernizare, dar a consolidat privilegiile boierilor. Un regulament similar a fost adoptat în Moldova în 1832."
+ },
+ "7-15": {
+  "y": "1838",
+  "s": "Ralph Waldo Emerson ține discursul de la Școala de teologie de la Harvard.",
+  "x": "Emerson, fost pastor unitarian, a criticat creștinismul oficial al vremii, care punea accent pe miracole, și a îndemnat studenții să caute o experiență spirituală directă. Discursul a stârnit mari controverse în rândul unitarienilor din Boston; un teolog l-a numit „ultima formă de necredință”. Emerson nu a mai fost invitat la Harvard timp de aproape treizeci de ani."
+ },
+ "7-17": {
+  "y": "1918",
+  "s": "Țarul Nicolae al II-lea și familia lui sunt executați la Ekaterinburg.",
+  "x": "Familia imperială fusese arestată după revoluția din 1917 și mutată în casa Ipatiev, în Urali. În noaptea de 16 spre 17 iulie, bolșevicii i-au ucis pe țar, pe țarină, pe cei cinci copii și pe patru slujitori ai lor. Trupurile au fost ascunse, iar rămășițele au fost găsite abia mult mai târziu. În 1981, Biserica Ortodoxă Rusă din Străinătate i-a canonizat ca martiri, iar în 2000, Biserica din Rusia, ca purtători de patimi."
+ },
+ "7-18": {
+  "y": "1290",
+  "s": "Regele Eduard I al Angliei emite Edictul de Expulzare a evreilor.",
+  "x": "Aproximativ 16.000 de evrei au fost obligați să părăsească Anglia, lăsându-și bunurile. Edictul a venit după decenii de restricții, taxe și acuzații false. Evreii au putut reveni oficial abia în vremea lui Oliver Cromwell, când Conferința de la Whitehall din 1655 a stabilit că nu există nicio lege care să-i împiedice să se întoarcă."
+ },
+ "7-19": {
+  "y": "1553",
+  "s": "Maria Tudor este proclamată regină a Angliei, după cele nouă zile de domnie ale Janei Grey.",
+  "x": "Maria, fiica lui Henric al VIII-lea și a Ecaterinei de Aragon, a fost sprijinită de mulțimea din Londra, deși Edward al VI-lea o exclusese din succesiune ca să împiedice întoarcerea catolicismului. După urcarea pe tron a adus Anglia din nou sub autoritatea papei, iar în domnia ei aproape trei sute de protestanți au fost arși pe rug. A murit în 1558, iar sora ei, Elisabeta I, a restabilit Biserica Angliei."
+ },
+ "7-20": {
+  "y": "1969",
+  "s": "Apollo 11 aterizează pe Lună; Neil Armstrong este primul om care pășește pe suprafața ei.",
+  "x": "Armstrong a spus: „Este un pas mic pentru om, un salt uriaș pentru omenire.” Înainte să iasă, astronautul Buzz Aldrin, prezbiterian, a luat cu el pâine și vin de la biserica lui, a citit un verset din Evanghelia după Ioan, 15:5, făcând în liniște o împărtășanie. NASA a păstrat discreție, după procesul deschis de o activistă atee."
+ },
+ "7-22": {
+  "y": "1946",
+  "s": "Organizația evreiască Irgun aruncă în aer o aripă a hotelului King David din Ierusalim.",
+  "x": "Hotelul găzduia sediul administrației britanice a Palestinei. Au murit nouăzeci și unu de oameni, britanici, arabi și evrei. Atentatul a fost organizat de Irgun, condus atunci de Menachem Begin, care mai târziu a devenit prim-ministru al Israelului. Au existat dispute despre avertismentul dat. Evenimentul a accelerat decizia Marii Britanii de a se retrage din Palestina."
+ },
+ "7-23": {
+  "y": "1914",
+  "s": "Austro-Ungaria trimite Serbiei un ultimatum, după asasinarea arhiducelui Franz Ferdinand.",
+  "x": "Ultimatumul, dat cu un termen de patruzeci și opt de ore, cerea Serbiei lucruri pe care nicio țară suverană nu le putea accepta în întregime. Serbia a acceptat cea mai mare parte a lor, dar Austro-Ungaria a declarat totuși război la 28 iulie. În câteva zile, marile puteri europene au intrat în război, începând Primul Război Mondial."
+ },
+ "7-24": {
+  "y": "1923",
+  "s": "Tratatul de la Lausanne stabilește granițele moderne ale Turciei.",
+  "x": "Tratatul a înlocuit Tratatul de la Sèvres, respins de naționaliștii turci. A prevăzut un schimb de populație între Grecia și Turcia, după criteriul religios: aproximativ un milion și jumătate de creștini ortodocși greci au plecat din Asia Mică, iar circa jumătate de milion de musulmani au plecat din Grecia. Patriarhia Ecumenică a rămas la Istanbul, dar comunitatea ortodoxă din oraș a scăzut mult."
+ },
+ "7-25": {
+  "y": "1593",
+  "s": "Henric al IV-lea al Franței abjură protestantismul la Saint-Denis.",
+  "x": "Regele fusese protestant, conducătorul hughenoților, și moștenise tronul în 1589. Paris-ul rămânea însă catolic și ostil. Se spune că ar fi zis că „Parisul merită o liturghie”, deși vorbele sunt probabil apocrife. A fost încoronat în 1594, iar în 1598 a dat Edictul de la Nantes, care a garantat drepturi protestanților. A fost asasinat în 1610."
+ },
+ "7-26": {
+  "y": "1948",
+  "s": "Președintele Harry Truman semnează Ordinul Executiv 9981, care pune capăt segregării în forțele armate americane.",
+  "x": "Ordinul a cerut „tratament și oportunități egale” pentru toți militarii, fără deosebire de rasă, culoare, religie sau origine națională. Pregătirea lui venise după presiunile liderilor afro-americani, între care A. Philip Randolph, și rapoartele despre violențe față de veterani negri. Desegregarea a avansat treptat, iar în războiul din Coreea s-a generalizat."
+ },
+ "7-27": {
+  "y": "1921",
+  "s": "La Universitatea din Toronto, Frederick Banting și Charles Best demonstrează că insulina reduce nivelul zahărului din sânge.",
+  "x": "Cercetătorii au izolat hormonul și l-au administrat câinilor diabetici. În ianuarie 1922, insulina a salvat primul pacient uman, un băiat de paisprezece ani. Banting și John Macleod au primit Premiul Nobel în 1923. Banting a vândut brevetul pentru un dolar, ca descoperirea să fie accesibilă tuturor."
+ },
+ "7-30": {
+  "y": "1619",
+  "s": "Prima adunare legislativă aleasă din America engleză se întrunește la Jamestown, în Virginia.",
+  "x": "Cei douăzeci și doi de reprezentanți, numiți „burgesses”, s-au întrunit în biserica din Jamestown, după ce au început ședința cu o rugăciune. Adunarea a devenit Camera Burgessilor, primul organ reprezentativ din coloniile americane. La aproximativ o lună după aceea, în august, a sosit în Virginia o navă cu primii africani aduși în colonie."
+ },
+ "7-31": {
+  "y": "1941",
+  "s": "Hermann Göring îi dă lui Reinhard Heydrich însărcinarea de a pregăti „soluția finală a chestiunii evreiești”.",
+  "x": "Scrisoarea, semnată din ordinul lui Hitler, îl însărcina pe Heydrich să pregătească o „soluție completă” pentru evreii din zonele aflate sub controlul german. Ea a pus în mișcare planul organizat de exterminare, discutat în ianuarie 1942 la Wannsee. În total, aproximativ șase milioane de evrei au fost uciși în Holocaust."
+ },
+ "8-1": {
+  "y": "1291",
+  "s": "Data tradițională a întemeierii Confederației Elvețiene.",
+  "x": "Potrivit tradiției, la începutul lui august 1291, reprezentanții a trei cantoane din Elveția centrală, Uri, Schwyz și Unterwalden, au semnat o alianță veșnică, cunoscută ca „Pactul federal”. Ziua de 1 august este sărbătoare națională. Mai târziu, orașe elvețiene precum Zürich și Geneva au devenit centre ale Reformei, prin lucrarea lui Zwingli și a lui Calvin."
+ },
+ "8-2": {
+  "y": "1492",
+  "s": "Termenul de plecare al evreilor din Spania expiră; zeci de mii pleacă în exil.",
+  "x": "Decretul din martie dăduse evreilor patru luni ca să se boteze sau să plece. Între patruzeci de mii și două sute de mii de oameni au luat drumul exilului, spre Portugalia, Africa de Nord, Italia și Imperiul Otoman, unde sultanul Baiazid al II-lea i-a primit. Sefarzii și-au păstrat limba, ladino, și tradițiile, iar mulți au contribuit la viața comunităților unde s-au stabilit."
+ },
+ "8-3": {
+  "y": "1492",
+  "s": "Cristofor Columb pornește din Palos de la Frontera, în Spania, în prima sa expediție.",
+  "x": "Cele trei corăbii, „Santa María”, „Pinta” și „Niña”, aveau în total aproximativ nouăzeci de oameni. În jurnalul lui, Columb a notat că regii Spaniei, în aceeași lună în care el a pornit, i-au alungat pe evrei din regat. Expediția a ajuns în Caraibe pe 12 octombrie."
+ },
+ "8-5": {
+  "y": "1944",
+  "s": "Insurgenții polonezi eliberează lagărul Gęsiówka din Varșovia și 348 de evrei.",
+  "x": "Eliberarea a avut loc în timpul Insurecției din Varșovia, început la 1 august, când armata clandestină poloneză s-a ridicat împotriva ocupației germane. Mulți dintre evreii eliberați s-au alăturat luptătorilor. Insurecția a durat 63 de zile și a fost înăbușită, iar orașul a fost distrus în mare parte."
+ },
+ "8-6": {
+  "y": "1945",
+  "s": "Prima bombă atomică este lansată asupra orașului Hiroshima, în Japonia.",
+  "x": "Explozia a ucis imediat zeci de mii de oameni, iar numărul victimelor, cu cele din lunile următoare, a ajuns la peste o sută de mii. Printre supraviețuitori s-a aflat preotul iezuit Wilhelm Kleinsorge, ale cărui amintiri au fost redate în cartea „Hiroshima”, de John Hersey. Trei zile mai târziu a fost lovit orașul Nagasaki, iar în curând Japonia s-a predat."
+ },
+ "8-7": {
+  "y": "1947",
+  "s": "Expediția „Kon-Tiki”, condusă de Thor Heyerdahl, ajunge la recifurile din Raroia, în Polinezia.",
+  "x": "Șase oameni au străbătut Pacificul timp de 101 de zile pe o plută din lemn de balsa, ca să arate că polinezienii ar fi putut ajunge din America de Sud. Teoria lui Heyerdahl a fost contestată de cercetări genetice ulterioare, dar expediția a rămas o aventură celebră. Cartea și filmul „Kon-Tiki” au fost foarte populare."
+ },
+ "8-8": {
+  "y": "1870",
+  "s": "Republica de la Ploiești: o răscoală radical-liberală împotriva domnitorului Carol I eșuează.",
+  "x": "Un grup de ofițeri și politicieni, conduși de Alexandru Candiano-Popescu, a proclamat republica la Ploiești, în timpul războiului franco-prusian. Mișcarea a fost înăbușită în câteva zile, iar liderii au fost judecați. Carol I a rămas domnitor, iar în 1881 a devenit rege al României."
+ },
+ "8-9": {
+  "y": "1945",
+  "s": "A doua bombă atomică este lansată asupra orașului Nagasaki, în Japonia.",
+  "x": "Bomba a explodat deasupra districtului Urakami, centrul creștinilor catolici din Japonia, a căror istorie începuse în secolul al XVI-lea și continuase în ascuns în timpul persecuțiilor. Catedrala din Urakami a fost distrusă, iar mii de creștini au murit. Medicul Takashi Nagai, el însuși catolic, a scris după război „Clopotele din Nagasaki”, o carte despre credință și pace."
+ },
+ "8-10": {
+  "y": "1913",
+  "s": "Tratatul de la București încheie al Doilea Război Balcanic.",
+  "x": "Au semnat delegați din Bulgaria, România, Serbia, Muntenegru și Grecia. România, care intrase în război împotriva Bulgariei, a primit Dobrogea de Sud, numită Cadrilater. Teritoriul a fost cedat înapoi Bulgariei în 1940, prin Tratatul de la Craiova. Tratatul a fost una dintre etapele care au pregătit izbucnirea Primului Război Mondial."
+ },
+ "8-11": {
+  "y": "1973",
+  "s": "La o petrecere din Bronx, DJ Kool Herc inventează tehnica din care s-a născut muzica hip-hop.",
+  "x": "Clive Campbell, născut în Jamaica, a organizat o petrecere în blocul de la 1520 Sedgwick Avenue și a folosit două discuri ca să prelungească părțile instrumentale. Din această tehnică s-a dezvoltat hip-hopul, o cultură muzicală și artistică care s-a răspândit în lume. Mulți artiști au vorbit despre credință și speranță în versurile lor."
+ },
+ "8-12": {
+  "y": "1099",
+  "s": "Bătălia de la Ascalon: cruciații lui Godefroi de Bouillon înving armata fatimidă.",
+  "x": "Victoria a venit la o lună după cucerirea Ierusalimului. A pus capăt primei cruciade, iar Godefroi a rămas „Apărătorul Sfântului Mormânt” până la moartea sa, în 1100. Cruciadele au adus mari suferințe și evreilor, și musulmanilor, și creștinilor răsăriteni, iar efectele lor au fost lungi."
+ },
+ "8-13": {
+  "y": "1553",
+  "s": "Michael Servetus este arestat la Geneva, ca eretic.",
+  "x": "Medicul și teologul spaniol, căutat de Inchiziție, a fost recunoscut în oraș, într-o duminică, și arestat din ordinul autorităților. Servetus negase doctrina Treimii în lucrarea „Christianismi Restitutio”. Procesul s-a încheiat pe 27 octombrie cu arderea lui pe rug, după ce Calvin a fost de acord cu pedeapsa. Cazul a fost unul dintre cele mai dezbătute în istoria toleranței religioase."
+ },
+ "8-14": {
+  "y": "1941",
+  "s": "Winston Churchill și Franklin Roosevelt semnează Carta Atlanticului.",
+  "x": "Cei doi lideri se întâlniseră pe corăbii, în golful din Newfoundland, între 9 și 12 august, iar textul a fost făcut public pe 14 august. Duminică, 10 august, ei au participat la o slujbă comună pe puntea navei britanice „Prince of Wales”, cu imnuri ca „Onward, Christian Soldiers”. Carta Atlanticului a enunțat principii pentru lumea de după război: dreptul popoarelor de a-și alege guvernarea și libertatea față de frică și de nevoie."
+ },
+ "8-15": {
+  "y": "1907",
+  "s": "Raphael Morgan este hirotonit la Constantinopol, ca primul preot ortodox afro-american.",
+  "x": "Morgan, născut în Jamaica, a fost hirotonit de Patriarhia Ecumenică și a slujit ca misionar în Statele Unite, în Jamaica și în alte părți ale Caraibelor. A ținut slujbe ortodoxe pentru comunități afro-americane și a încercat să unească diferite confesiuni ortodoxe din America. Povestea lui a fost redescoperită de istorici abia în ultimele decenii."
+ },
+ "8-16": {
+  "y": "1570",
+  "s": "Tratatul de la Speyer: Ioan Sigismund Zápolya renunță la titlul de rege al Ungariei și devine principe al Transilvaniei.",
+  "x": "Prin tratatul cu împăratul Maximilian al II-lea, Ioan Sigismund a primit titlul de principe al Transilvaniei. Principatul, aflat sub suzeranitatea otomană, a devenit un stat distinct. În 1568, Dieta de la Turda proclamase libertatea de conștiință, iar Transilvania a ajuns un loc cu o toleranță religioasă neobișnuită pentru acea epocă. Ioan Sigismund a murit în 1571."
+ },
+ "8-18": {
+  "y": "1572",
+  "s": "Henric de Navarra, protestant, se căsătorește cu Margareta de Valois, sora regelui Franței, la Paris.",
+  "x": "Căsătoria avea scopul de a împăca taberele catolică și hughenotă, după ani de războaie religioase. La nuntă au venit mulți nobili protestanți, iar după câteva zile, în noaptea de Sfântul Bartolomeu, mii de hughenoți au fost uciși în Paris și în alte orașe. Henric a scăpat, a fost obligat să treacă la catolicism, apoi a revenit la protestantism și, în 1589, a devenit rege."
+ },
+ "8-19": {
+  "y": "1725",
+  "s": "Prima audiție a cantatei lui Bach „Lobe den Herren, den mächtigen König der Ehren” (BWV 137).",
+  "x": "Cantata se bazează pe imnul scris în 1680 de Joachim Neander, un pastor reformat din Bremen, care a compus imnuri pe versuri din Psalmii 103 și 150. Bach a folosit melodia imnului în toate cele cinci strofe, în diferite forme. Cantata a fost scrisă pentru duminica a douăsprezecea după Sfânta Treime și este o lucrare de laudă."
+ },
+ "8-20": {
+  "y": "1940",
+  "s": "Winston Churchill rostește, în Camera Comunelor, discursul „Puținii”.",
+  "x": "Bătălia Angliei era în plină desfășurare, iar piloții Forțelor Aeriene Regale se luptau cu avioanele germane. Churchill a spus: „Niciodată în istoria conflictelor omenești atât de mulți nu au datorat atât de mult unui număr atât de mic.” Britanicii au rezistat, iar planul german de invazie a fost amânat și apoi abandonat."
+ },
+ "8-21": {
+  "y": "1968",
+  "s": "Nicolae Ceaușescu condamnă public invadarea Cehoslovaciei de către țările Pactului de la Varșovia.",
+  "x": "Discursul a fost ținut în fața unei mulțimi mari, în Piața Palatului din București. România nu a participat la intervenție. Gestul i-a adus lui Ceaușescu mare popularitate în țară și apreciere în Occident, dar regimul a devenit tot mai autoritar în deceniile următoare, iar libertatea religioasă a rămas strict controlată."
+ },
+ "8-25": {
+  "y": "1933",
+  "s": "Germania nazistă și Federația Sionistă din Germania semnează Acordul Haavara.",
+  "x": "Acordul permitea evreilor care emigrau în Palestina să-și transfere o parte din bunuri sub forma unor mărfuri germane. Aproximativ șaizeci de mii de evrei au plecat în acest fel. Acordul a fost criticat atât de unii evrei, care îl vedeau ca o rupere a boicotului împotriva Germaniei naziste, cât și de naziști. A fost valabil până la începutul războiului."
+ },
+ "8-29": {
+  "y": "1526",
+  "s": "Bătălia de la Mohács: otomanii lui Soliman Magnificul îl înving pe regele Ludovic al II-lea al Ungariei.",
+  "x": "Armata sultanului Soliman Magnificul a zdrobit în doar câteva ore oastea maghiară, la Mohács, în sudul Ungariei. Regele, în vârstă de douăzeci de ani, a murit în luptă, iar Ungaria a fost împărțită: o parte a intrat sub stăpânire otomană, alta sub Habsburgi, iar estul a devenit mai târziu Principatul Transilvaniei, aflat sub suzeranitate otomană. În haosul de după Mohács, ideile Reformei s-au răspândit rapid în Ungaria și Transilvania."
+ },
+ "8-30": {
+  "y": "1941",
+  "s": "Acordul de la Tighina stabilește administrarea românească a teritoriului dintre Nistru și Bug, numit Transnistria.",
+  "x": "România ocupase teritoriul, în timpul războiului împotriva Uniunii Sovietice, și l-a administrat până în 1944. Către Transnistria au fost deportați evrei și romi din România, dintre care zeci de mii au murit de frig, foame și boli. Evenimentele sunt o parte dureroasă a istoriei României, recunoscută oficial de stat în 2004."
+ },
+ "8-31": {
+  "y": "1980",
+  "s": "Acordul de la Gdańsk, semnat între muncitorii în grevă și guvernul polonez, duce la întemeierea sindicatului Solidaritatea.",
+  "x": "Greva a pornit de la șantierele navale din Gdańsk, sub conducerea lui Lech Wałęsa. Muncitorii au pus pe poartă imaginea Fecioarei Maria și a papei Ioan Paul al II-lea, ales cu doi ani înainte, a cărui vizită în Polonia din 1979 îi încurajase. Solidaritatea a devenit o mare mișcare socială, care a contribuit la căderea comunismului în Europa."
+ },
+ "9-1": {
+  "y": "1939",
+  "s": "Germania invadează Polonia, începând al Doilea Război Mondial în Europa.",
+  "x": "Atacul a început în zorii zilei de 1 septembrie, iar două zile mai târziu Marea Britanie și Franța au declarat război Germaniei. Polonia a fost invadată și dinspre est de Uniunea Sovietică, pe 17 septembrie. Războiul a durat până în 1945, a costat zeci de milioane de vieți și a adus Holocaustul, în care au fost uciși șase milioane de evrei."
+ },
+ "9-2": {
+  "y": "1666",
+  "s": "Începe Marele Incendiu al Londrei.",
+  "x": "Focul a pornit într-o brutărie din Pudding Lane și s-a extins patru zile, distrugând peste 13.000 de case și 87 de biserici parohiale, între care vechea catedrală Sfântul Paul. Doar câțiva oameni au murit, conform înregistrărilor oficiale. Arhitectul Christopher Wren a primit însărcinarea să reconstruiască orașul, iar noua catedrală Sfântul Paul a fost terminată în 1710."
+ },
+ "9-3": {
+  "y": "1838",
+  "s": "Frederick Douglass scapă din sclavie, îmbrăcat ca marinar, și ajunge la New York.",
+  "x": "Douglass, născut în Maryland, învățase să citească în secret. A fugit cu ajutorul unei femei libere pe care o va lua de soție, Anna Murray, și a devenit unul dintre cei mai importanți abolitioniști, orator și scriitor. În tinerețe s-a convertit la metodism și a predicat în Biserica Metodistă Episcopală Africană Sion. În autobiografia sa a criticat creștinismul fățarnic al stăpânilor de sclavi."
+ },
+ "9-4": {
+  "y": "476",
+  "s": "Data tradițională a căderii Imperiului Roman de Apus: Romulus Augustulus este detronat.",
+  "x": "Ultimul împărat roman din Apus, un băiat de cincisprezece ani, a fost înlăturat de conducătorul germanic Odoacru, care s-a declarat rege al Italiei. Estul, cu capitala la Constantinopol, a continuat să existe încă o mie de ani, ca Imperiul Bizantin. În Apus, în anii de haos, episcopii și mănăstirile au păstrat învățătura și cărțile."
+ },
+ "9-5": {
+  "y": "1774",
+  "s": "Primul Congres Continental se întrunește la Philadelphia, în Carpenters' Hall.",
+  "x": "Reprezentanți ai douăsprezece colonii au discutat răspunsul față de legile impuse de Marea Britanie. Pe 7 septembrie, congresul a început ședința cu o rugăciune ținută de reverendul Jacob Duché, anglican, care a citit Psalmul 35. Din cele două congrese a rezultat, în 1776, Declarația de independență."
+ },
+ "9-7": {
+  "y": "1228",
+  "s": "Împăratul Frederic al II-lea debarcă la Acra, începând cruciada a șasea.",
+  "x": "Frederic fusese excomunicat de papă, deoarece amânase plecarea în cruciadă. A ajuns în Țara Sfântă și a obținut, prin negociere cu sultanul al-Kamil, nu prin luptă, controlul asupra Ierusalimului, Betleemului și Nazaretului, în februarie 1229. Tratatul a stârnit critici atât la creștini, cât și la musulmani."
+ },
+ "9-9": {
+  "y": "1850",
+  "s": "California devine al treizeci și unulea stat american.",
+  "x": "California fusese cedată Statelor Unite de Mexic prin Tratatul de la Guadalupe Hidalgo, în 1848. Intrarea s-a făcut ca stat liber, fără sclavie, prin Compromisul din 1850, care a încercat să calmeze disputa dintre Nord și Sud. Așezările spaniole din California fuseseră înființate în jurul misiunilor, iar goana după aur din 1849 adusese sute de mii de oameni, între care și comunități de evrei, chinezi și mormoni."
+ },
+ "9-10": {
+  "y": "1724",
+  "s": "Prima audiție a cantatei lui Bach „Jesu, der du meine Seele” (BWV 78).",
+  "x": "Cantata, scrisă pentru a paisprezecea duminică după Sfânta Treime, se bazează pe imnul lui Johann Rist, publicat în 1641, în care credinciosul cere ajutor lui Isus. Corul de început folosește o mișcare de „pasacaglia”, în care o linie descendentă se repetă ca un fel de coborâre spre moarte. Alte părți exprimă bucuria încrederii."
+ },
+ "9-11": {
+  "y": "2001",
+  "s": "Atacurile teroriste din Statele Unite ucid aproape trei mii de oameni.",
+  "x": "Patru avioane de linie au fost deturnate de membri ai Al-Qaeda; două au lovit turnurile World Trade Center din New York, unul a lovit Pentagonul, iar al patrulea s-a prăbușit într-un câmp din Pennsylvania. În zilele următoare, bisericile, sinagogile și moscheile s-au umplut de oameni care se rugau, iar liderii religioși ai mai multor credințe au cerut unitate și pace. Atacurile au dus la războaiele din Afganistan și din Irak și la schimbarea politicilor de securitate din multe țări."
+ },
+ "9-12": {
+  "y": "1683",
+  "s": "Bătălia de la Viena: armata creștină condusă de regele Ioan al III-lea Sobieski respinge armata otomană.",
+  "x": "Otomanii înconjuraseră capitala imperiului de aproape două luni. Armata aliată, cu trupe poloneze, germane și austriece, a atacat de pe dealul Kahlenberg. Victoria a oprit înaintarea otomană în Europa centrală și a dus, în anii următori, la eliberarea Ungariei și a Transilvaniei de sub stăpânirea turcă."
+ },
+ "9-13": {
+  "y": "1993",
+  "s": "Yitzhak Rabin și Yasser Arafat se strâng de mână în grădina Casei Albe, după semnarea Acordurilor de la Oslo.",
+  "x": "Acordurile au fost negociate în secret, la Oslo, între reprezentanți ai Israelului și ai Organizației pentru Eliberarea Palestinei. Ele au stabilit un cadru de autonomie palestiniană și o perioadă de negocieri. Rabin a fost asasinat în 1995 de un extremist israelian, iar procesul de pace a rămas în bună parte neterminat."
+ },
+ "9-14": {
+  "y": "1814",
+  "s": "Francis Scott Key scrie versurile imnului american „The Star-Spangled Banner”.",
+  "x": "Key, avocat și credincios episcopal, a văzut cum fortul McHenry din Baltimore a rezistat bombardamentului britanic în noaptea de 13 spre 14 septembrie și a scris poemul. A patra strofă spune: „Și acesta să fie deviza noastră: În Dumnezeu este încrederea noastră.” Imnul a devenit oficial în Statele Unite abia în 1931."
+ },
+ "9-16": {
+  "y": "1620",
+  "s": "Corabia „Mayflower” pornește din Plymouth, în Anglia, cu pelerinii spre America.",
+  "x": "La bord se aflau 102 pasageri, între care separatiști religioși, numiți mai târziu „Părinții Pelerini”, care plecaseră din Anglia ca să se poată închina după conștiința lor. După o călătorie de aproape două luni, au ajuns la Cape Cod în noiembrie. Acolo au semnat Mayflower Compact și au întemeiat colonia Plymouth."
+ },
+ "9-17": {
+  "y": "1577",
+  "s": "Pacea de la Bergerac încheie al șaselea război religios din Franța.",
+  "x": "Regele Henric al III-lea și hughenoții au căzut de acord, iar regele a limitat drepturile protestanților în raport cu edictul de la 1576. Pacea a fost urmată de Edictul de la Poitiers. Războaiele religioase au continuat până în 1598, când Henric al IV-lea a semnat Edictul de la Nantes."
+ },
+ "9-18": {
+  "y": "1988",
+  "s": "La Bologna este semnată Magna Charta Universitatum, care afirmă libertatea și autonomia universităților.",
+  "x": "Documentul a fost semnat cu ocazia aniversării a 900 de ani ai Universității din Bologna, cea mai veche din Europa, de rectorii a 388 de universități. Declarația susține că universitatea trebuie să fie independentă față de puterea politică și economică și să promoveze căutarea adevărului. Universitățile medievale, între care Bologna, Paris și Oxford, s-au născut în mediul bisericesc."
+ },
+ "9-19": {
+  "y": "1946",
+  "s": "La Universitatea din Zürich, Winston Churchill propune crearea unei „Statelor Unite ale Europei”.",
+  "x": "Discursul, ținut la un an după încheierea războiului, cerea împăcarea dintre Franța și Germania și o structură europeană comună. Din acest apel au pornit pașii către Consiliul Europei, înființat în 1949, și către construcția europeană. Lideri creștini ca Robert Schuman, Konrad Adenauer și Alcide De Gasperi au avut un rol important."
+ },
+ "9-21": {
+  "y": "1897",
+  "s": "Ziarul „The Sun” din New York publică editorialul „Da, Virginia, există un Moș Crăciun”.",
+  "x": "Editorialul era răspunsul lui Francis Church la scrisoarea unei fetițe de opt ani, Virginia O'Hanlon, care întrebase dacă este adevărat că există Moș Crăciun. Church a scris că Moș Crăciun există, la fel ca iubirea, generozitatea și devotamentul, care dau sens vieții. Textul este cel mai reprodus editorial din istoria presei americane."
+ },
+ "9-22": {
+  "y": "1692",
+  "s": "Opt persoane sunt spânzurate la Salem, în ultima serie de execuții din procesele pentru vrăjitorie.",
+  "x": "Procesele din Salem Village, Massachusetts, au început în februarie, când câteva fete au acuzat mai multe femei de vrăjitorie. În total, douăzeci de oameni au fost executați. Pastorii puritani, între care Increase Mather, au criticat mai târziu folosirea „probei spectrale”. În 1697, statul a ținut o zi de pocăință, iar judecătorul Samuel Sewall și-a cerut public iertare."
+ },
+ "9-23": {
+  "y": "1961",
+  "s": "Președintele John F. Kennedy îl numește pe Thurgood Marshall judecător la Curtea de Apel federală.",
+  "x": "Marshall fusese avocatul care a pledat în cazul „Brown v. Board of Education”, în 1954, în care Curtea Supremă a declarat neconstituțională segregarea în școlile publice. În 1967, a devenit primul judecător afro-american al Curții Supreme. Mișcarea pentru drepturile civile, pornită din biserici, a lucrat în paralel cu bătăliile din tribunale."
+ },
+ "9-24": {
+  "y": "1890",
+  "s": "Biserica lui Isus Hristos a Sfinților din Zilele din Urmă renunță oficial la poligamie.",
+  "x": "Președintele Wilford Woodruff a publicat „Manifestul”, prin care cerea mormonilor să respecte legea federală. Decizia a venit după ani de presiune guvernamentală, cu arestări și confiscări de bunuri. În 1896, Utah a devenit stat american. Mormonii sunt astăzi una dintre cele mai mari mișcări religioase născute în America."
+ },
+ "9-26": {
+  "y": "1580",
+  "s": "Francis Drake încheie circumnavigația globului, ajungând la Plymouth.",
+  "x": "Drake pornise în 1577 cu cinci corăbii, iar la întoarcere avea una singură, „Golden Hind”. Regina Elisabeta I l-a numit cavaler pe puntea vasului, în aprilie 1581. În timpul expediției, capelanul navei, Francis Fletcher, a ținut slujbe religioase, iar Drake s-a considerat adesea apărător al protestantismului împotriva Spaniei."
+ },
+ "9-27": {
+  "y": "1791",
+  "s": "Adunarea Națională a Franței votează acordarea cetățeniei depline evreilor.",
+  "x": "Prin hotărârea Adunării, evreii din Franța au primit aceleași drepturi cu ceilalți cetățeni, cu condiția să depună jurământul civic. A fost una dintre primele țări europene care a făcut acest pas. Comunitatea evreiască franceză a fost astfel emancipată, iar ideea a influențat și alte țări."
+ },
+ "9-28": {
+  "y": "1066",
+  "s": "Guillaume Cuceritorul debarcă la Pevensey, în sudul Angliei.",
+  "x": "Ducele Normandiei, care pretindea coroana engleză, a ajuns cu o flotă mare și cu o armată. Cu două săptămâni mai târziu, pe 14 octombrie, l-a învins pe regele Harold la Hastings. Cucerirea normandă a schimbat Anglia: biserica a fost reorganizată, iar mănăstirile și catedralele, între care Westminster și Canterbury, au fost reconstruite."
+ },
+ "9-29": {
+  "y": "1724",
+  "s": "Prima audiție a cantatei lui Bach „Herr Gott, dich loben alle wir” (BWV 130), de sărbătoarea Sfântului Mihail.",
+  "x": "Cantata, scrisă pentru ziua Sfântului Mihail și a tuturor îngerilor, se sprijină pe un imn al lui Paul Eber, din secolul al XVI-lea. Orchestra include trei trâmbițe și timpane, ca să evoce armata îngerilor. Bach a scris-o în primul an la Leipzig, în ciclul cantatelor corale."
+ },
+ "10-1": {
+  "y": "1529",
+  "s": "Începe Colocviul de la Marburg, dintre Martin Luther și Huldrych Zwingli.",
+  "x": "Landgraful Filip de Hessa i-a invitat pe cei doi reformatori ca să discute despre Cina Domnului, în speranța unei alianțe protestante. Au căzut de acord în paisprezece din cele cincisprezece puncte, dar nu și asupra prezenței lui Hristos în pâine și vin. Luther a scris pe masă „Aceasta este trupul Meu”, ca să-și susțină poziția. Rămânerea separării a dus la diviziunea dintre tradiția luterană și cea reformată."
+ },
+ "10-3": {
+  "y": "1990",
+  "s": "Germania Răsăriteană se unește cu Germania Federală, punând capăt diviziunii țării.",
+  "x": "Reunificarea a venit la unsprezece luni după căderea Zidului Berlinului. Bisericile evanghelice din Germania de Est avuseseră un rol important: în ele s-au desfășurat rugăciunile pentru pace de la Leipzig și dialogul din timpul „Revoluției pașnice”. 3 octombrie a devenit sărbătoare națională, „Ziua Unității Germane”."
+ },
+ "10-5": {
+  "y": "1938",
+  "s": "Pașapoartele evreilor din Germania sunt invalidate și primesc litera „J”.",
+  "x": "Decretul cerea evreilor să-și predea pașapoartele, care erau apoi marcate cu litera roșie J, de la „Jude”. Măsura a fost cerută și de Elveția, care voia să controleze intrarea evreilor. A îngreunat emigrarea celor care voiau să scape de persecuție. Câteva săptămâni mai târziu a avut loc pogromul din „Noaptea de Cristal”."
+ },
+ "10-7": {
+  "y": "1571",
+  "s": "Bătălia de la Lepanto: flota Ligii Sfinte înfrânge flota otomană.",
+  "x": "Flota aliată, formată din Spania, Veneția și statul papal, sub comanda lui Don Juan de Austria, a învins în golful Patras, în Marea Ionică. Victoria a oprit expansiunea otomană pe mare în Mediterana apuseană. Printre luptători se afla și scriitorul Miguel de Cervantes, care a fost rănit la mână."
+ },
+ "10-10": {
+  "y": "415",
+  "s": "Este inaugurată a doua biserică Sfânta Sofia din Constantinopol.",
+  "x": "Prima Sfântă Sofia, ridicată în 360, fusese distrusă de un incendiu. A doua, construită de împăratul Teodosiu al II-lea, a ars și ea în timpul revoltelor Nika, în 532. Iustinian a construit atunci cea de-a treia, terminată în 537, care a fost timp de aproape o mie de ani catedrala Constantinopolului. Astăzi este moschee."
+ },
+ "10-12": {
+  "y": "1492",
+  "s": "Cristofor Columb ajunge pe o insulă din Bahamas, pe care o numește San Salvador.",
+  "x": "După șaptezeci de zile pe mare, flota lui Columb a văzut țărmul la orele dimineții. Columb a luat în stăpânire insula în numele regilor Spaniei și a numit-o „San Salvador”, adică „Sfântul Mântuitor”. A crezut că a ajuns în Indii. Întâlnirea cu popoarele din America a avut consecințe uriașe și tragice pentru ele."
+ },
+ "10-13": {
+  "y": "1843",
+  "s": "La New York este fondat B'nai B'rith, cea mai veche organizație de servicii evreiești din lume.",
+  "x": "Fondatorii, doisprezece imigranți evrei din Germania, s-au întrunit în cafeneaua lui Sinsheimer, ca să creeze o asociație care să ofere ajutor, solidaritate și activitate culturală. Organizația a sprijinit victimele epidemiilor, a creat spitale și biblioteci, iar mai târziu a luptat împotriva antisemitismului. Numele înseamnă „fiii legământului”."
+ },
+ "10-15": {
+  "y": "1582",
+  "s": "Prima zi a calendarului gregorian în țările catolice: după 4 octombrie urmează 15 octombrie.",
+  "x": "Papa Grigore al XIII-lea a reformat calendarul iulian, care rămăsese în urmă față de anul solar. Zece zile au fost omise. Țările protestante au adoptat calendarul mai târziu: Anglia, în 1752. Bisericile ortodoxe au păstrat mult timp calendarul vechi; în România, calendarul s-a schimbat în 1919, iar Biserica Ortodoxă Română a adoptat calendarul iulian revizuit în 1924."
+ },
+ "10-17": {
+  "y": "1456",
+  "s": "Este înființată Universitatea din Greifswald, în nordul Germaniei.",
+  "x": "A doua cea mai veche universitate din nordul Europei a fost întemeiată cu sprijinul ducelui Wartislaw al IX-lea de Pomerania. În 1539, după Reformă, a devenit o universitate luterană. Printre studenții ei s-a numărat Johannes Bugenhagen, reformatorul Pomeraniei, care a ajutat la organizarea Bisericii Luterane."
+ },
+ "10-18": {
+  "y": "1009",
+  "s": "Biserica Sfântului Mormânt din Ierusalim este distrusă din ordinul califului fatimid al-Hakim.",
+  "x": "Distrugerea a fost totală, cu excepția unor părți ale clădirii. Gestul a stârnit indignare în lumea creștină și a fost considerat unul dintre motivele ulterioare ale cruciadelor. Biserica a fost reconstruită, în mare parte între 1042 și 1048, cu sprijinul împăratului bizantin Constantin al IX-lea Monomahul. Cruciații au refăcut-o în secolul al XII-lea."
+ },
+ "10-20": {
+  "y": "1448",
+  "s": "Se încheie a doua bătălie de la Kosovo, în care otomanii îl înving pe Iancu de Hunedoara.",
+  "x": "Iancu de Hunedoara, voievod al Transilvaniei și regent al Ungariei, condusese o armată creștină spre sud, ca să oprească înaintarea otomană. După trei zile de luptă, oastea a fost învinsă. Cu toate acestea, în 1456 a respins asediul otoman de la Belgrad, victorie care a oprit timp de decenii înaintarea turcilor spre Europa centrală. Clopotele sună la amiază din 1456, în amintirea victoriei de la Belgrad."
+ },
+ "10-21": {
+  "y": "1512",
+  "s": "Martin Luther este primit în senatul facultății de teologie din Wittenberg.",
+  "x": "După doctoratul din 19 octombrie, Luther a preluat catedra de studiul Bibliei, în locul lui Johann von Staupitz, și a ținut cursuri despre Psalmi, Romani, Galateni și Evrei. Studiul Scripturii l-a dus la convingerea că omul este îndreptățit prin credință. Cele 95 de teze, cinci ani mai târziu, au pornit de la această poziție."
+ },
+ "10-23": {
+  "y": "1941",
+  "s": "Germania nazistă interzice evreilor să emigreze din teritoriile ocupate.",
+  "x": "Interdicția a venit în timpul pregătirilor pentru exterminarea sistematică a evreilor europeni. Până atunci, naziștii favorizaseră emigrarea forțată. Cu închiderea granițelor, deportările spre lagărele din Est s-au intensificat. Unii creștini, între care prepozitul Bernhard Lichtenberg, din Berlin, au protestat public, și au fost arestați."
+ },
+ "10-24": {
+  "y": "1648",
+  "s": "Se semnează Pacea Westfalică, care pune capăt Războiului de Treizeci de Ani.",
+  "x": "Tratatele de la Münster și Osnabrück au încheiat treizeci de ani de război, care distrusese mari părți ale Germaniei. Pacea a confirmat principiul din 1555, cuius regio eius religio, și a recunoscut, alături de catolici și luterani, și pe calviniști. A stabilit și un fel de toleranță pentru minoritățile religioase din fiecare stat."
+ },
+ "10-25": {
+  "y": "1415",
+  "s": "Bătălia de la Agincourt: regele Henric al V-lea al Angliei învinge armata franceză.",
+  "x": "Armata engleză, mult mai mică, a învins prin arcașii cu arcuri lungi, pe un teren noroios. După bătălie, regele a poruncit cântarea psalmului „Non nobis Domine” și a „Te Deum”, atribuind victoria lui Dumnezeu. Evenimentul a fost dramatizat de Shakespeare în „Henric al V-lea”."
+ },
+ "10-26": {
+  "y": "899",
+  "s": "Moare Alfred cel Mare, regele Wessexului.",
+  "x": "Alfred a oprit invazia danezilor în Anglia și a întărit regatul. A promovat educația: a adus învățați la curtea lui și a tradus sau a pus să fie traduse în limba engleză lucrări precum „Grija pastorală” a lui Grigore cel Mare și „Consolarea filozofiei” a lui Boethius. Biserica Angliei îl pomenește pe 26 octombrie."
+ },
+ "10-29": {
+  "y": "1941",
+  "s": "Holocaustul: peste 9.000 de evrei sunt împușcați de germani la Fortul al IX-lea din Kaunas.",
+  "x": "Victimele, adulți și copii, fuseseră selectați dintre locuitorii ghetoului din Kaunas, în Lituania. Acțiunea, numită „Marea Acțiune”, a fost una dintre cele mai mari masacre de acest fel din Lituania. Fortul al IX-lea are astăzi un muzeu și un memorial dedicat victimelor Holocaustului."
+ },
+ "10-30": {
+  "y": "1944",
+  "s": "Anne și Margot Frank sunt mutate din Auschwitz în lagărul Bergen-Belsen.",
+  "x": "Surorile fuseseră deportate din Olanda în septembrie 1944, după arestarea familiei, pe 4 august. La Bergen-Belsen, în condiții de foamete, frig și tifos, au murit în lunile februarie sau martie 1945, cu puține săptămâni înainte de eliberarea lagărului. Jurnalul Annei, păstrat de tatăl ei, Otto Frank, a fost publicat în 1947 și este citit în toată lumea."
+ },
+ "11-1": {
+  "y": "1755",
+  "s": "Un cutremur uriaș lovește Lisabona, în ziua de Toți Sfinții.",
+  "x": "Cutremurul, urmat de incendii și de un val uriaș, a distrus aproape tot orașul și a ucis zeci de mii de oameni, în timp ce mulți se aflau în biserici. Evenimentul a declanșat dezbateri în toată Europa despre existența răului și a binelui în lume. Voltaire a scris poemul despre dezastrul de la Lisabona și, mai târziu, romanul „Candid”, iar John Wesley a publicat o predică în care îi chema pe oameni la pocăință."
+ },
+ "11-4": {
+  "y": "1956",
+  "s": "Armata sovietică invadează Budapesta, înăbușind Revoluția maghiară.",
+  "x": "Revolta pornise în octombrie, cu cereri de libertate și de ieșire din Pactul de la Varșovia. Mii de maghiari au murit în lupte, iar peste 200.000 au plecat din țară. Bisericile din Ungaria au fost puse sub un control și mai strict. Cardinalul József Mindszenty, eliberat din închisoare în timpul revoluției, a găsit adăpost în ambasada americană, unde a rămas cincisprezece ani."
+ },
+ "11-5": {
+  "y": "1605",
+  "s": "Complotul prafului de pușcă este descoperit la Londra, înainte de a arunca în aer Parlamentul.",
+  "x": "Un grup de conspiratori catolici, între care Guy Fawkes, pusese butoaie cu pulbere sub clădirea Parlamentului, ca să-l ucidă pe regele protestant Iacob I. Fawkes a fost prins noaptea. După episod, legile împotriva catolicilor au devenit mai aspre, iar în Anglia 5 noiembrie a rămas Noaptea Focurilor, cu rugurile aprinse în amintirea evenimentului."
+ },
+ "11-6": {
+  "y": "1860",
+  "s": "Abraham Lincoln este ales al șaisprezecelea președinte al Statelor Unite.",
+  "x": "Lincoln a câștigat cu aproximativ 40% din voturi, fără niciun vot din multe state sudice. Alegerea lui a declanșat secesiunea statelor din Sud și Războiul Civil. Lincoln nu a fost membru al unei biserici, dar a citit mult Biblia, iar în al doilea său discurs de învestitură, în 1865, a spus despre război că judecățile Domnului sunt adevărate și drepte."
+ },
+ "11-8": {
+  "y": "1901",
+  "s": "„Revoltele Evangheliilor” la Atena: protestele împotriva traducerii Noului Testament în greaca vorbită.",
+  "x": "Traducerea lui Alexandros Pallis, publicată în ziar, a stârnit proteste ale studenților și ale clericilor, care socoteau că textul grecesc original nu trebuie înlocuit. În confruntări au murit opt oameni. Arhiepiscopul Atenei și primul ministru au demisionat. Disputa a arătat legătura puternică dintre limbă, identitate națională și credință."
+ },
+ "11-11": {
+  "y": "1918",
+  "s": "Armistițiul de la Compiègne pune capăt luptelor din Primul Război Mondial.",
+  "x": "Acordul a intrat în vigoare la ora 11 dimineața, pe 11 noiembrie. România reintrase în război cu o zi mai devreme, la presiunea Aliaților, și a obținut apoi unirea tuturor provinciilor românești în statul național. Războiul a ucis circa zece milioane de militari, iar în multe biserici clopotele au bătut la încheierea lui."
+ },
+ "11-12": {
+  "y": "1330",
+  "s": "Bătălia de la Posada: Basarab I înfrânge armata regelui Carol Robert al Ungariei.",
+  "x": "Armata maghiară, atrasă într-un defileu din munții Carpați, a fost atacată de oștenii români de pe versanți. Regele a scăpat cu greu. Victoria a consolidat independența Țării Românești. Basarab a fost primul domnitor cunoscut al țării, iar în timpul urmașilor lui s-a întemeiat Mitropolia Ungrovlahiei, în 1359."
+ },
+ "11-14": {
+  "y": "1922",
+  "s": "BBC începe emisiunile regulate de radio în Marea Britanie.",
+  "x": "Postul, înființat la sfârșitul lui octombrie, a început transmisiunile zilnice din Londra. Primul director general, John Reith, era fiul unui pastor prezbiterian scoțian și a acordat de la început un loc important programelor religioase și educative. BBC a devenit un model pentru radiodifuziunea publică din multe țări."
+ },
+ "11-15": {
+  "y": "1920",
+  "s": "Liga Națiunilor ține prima sa adunare generală, la Geneva.",
+  "x": "Organizația fusese creată după Primul Război Mondial, ca să prevină alte războaie. Statele Unite nu au intrat în Ligă, iar organizația nu a reușit să oprească al Doilea Război Mondial. Geneva a devenit un centru al organizațiilor internaționale, între care Consiliul Mondial al Bisericilor, care are sediul acolo din 1948."
+ },
+ "11-16": {
+  "y": "1532",
+  "s": "Francisco Pizarro îl capturează pe Atahualpa, împăratul incașilor, la Cajamarca.",
+  "x": "Potrivit relatărilor spaniole, un călugăr dominican i-a oferit lui Atahualpa o carte de rugăciuni, iar acesta a aruncat-o, ceea ce a fost folosit ca pretext pentru atac. Spaniolii, mult mai puțini, au ucis mii de însoțitori neînarmați. Atahualpa a fost executat în 1533, iar imperiul incaș a căzut sub stăpânire spaniolă."
+ },
+ "11-17": {
+  "y": "1558",
+  "s": "Elisabeta I devine regină a Angliei, după moartea surorii sale, Maria I.",
+  "x": "Tânăra regină, în vârstă de douăzeci și cinci de ani, a restabilit în 1559 Biserica Angliei prin Actul de Supremație și Actul de Uniformitate. Ea a fost numită „Guvernatoarea Supremă” a Bisericii și a reintrodus Cartea de rugăciuni comune. Domnia ei, de patruzeci și cinci de ani, a adus relativă stabilitate religioasă și o înflorire culturală."
+ },
+ "11-18": {
+  "y": "1978",
+  "s": "Tragedia de la Jonestown: peste 900 de membri ai Templului Poporului mor în Guyana.",
+  "x": "Pastorul Jim Jones, conducătorul grupării, mutase comunitatea în junglă. După ce deputatul american Leo Ryan a venit în vizită și a fost ucis, Jones a poruncit un act colectiv de otrăvire. Au murit 918 persoane, între care aproape trei sute de copii. Episodul a devenit un avertisment despre pericolul conducătorilor religioși care cer ascultare totală."
+ },
+ "11-19": {
+  "y": "1863",
+  "s": "Abraham Lincoln rostește Discursul de la Gettysburg.",
+  "x": "Cuvântarea, de aproximativ două minute, a fost ținută la inaugurarea cimitirului național pentru soldații morți în luna iulie. Lincoln a spus că națiunea, „sub Dumnezeu”, va avea o nouă naștere a libertății și că guvernarea poporului nu va dispărea de pe pământ. Textul, de doar câteva sute de cuvinte, este unul dintre cele mai cunoscute din istoria americană."
+ },
+ "11-20": {
+  "y": "1945",
+  "s": "Începe, la Nürnberg, procesul principalilor criminali de război naziști.",
+  "x": "Douăzeci și doi de inculpați au fost judecați de un tribunal al Aliaților pentru crime împotriva păcii, crime de război și crime împotriva umanității. În octombrie 1946, doisprezece au fost condamnați la moarte. Procesul a stabilit principiul că cei care dau ordine criminale nu pot scăpa de răspundere invocând funcția pe care o aveau."
+ },
+ "11-21": {
+  "y": "1620",
+  "s": "Pelerinii semnează Mayflower Compact, la bordul corăbiei ancorate în apropiere de Cape Cod.",
+  "x": "Patruzeci și unu de bărbați au semnat actul prin care se angajau să formeze o societate guvernată prin legi drepte, la care să se supună. Documentul începe cu cuvintele „În numele lui Dumnezeu, amin”. Mulți dintre pelerini fuseseră persecutați în Anglia pentru credința lor și căutau libertatea de a se închina după conștiință."
+ },
+ "11-22": {
+  "y": "1963",
+  "s": "Președintele John F. Kennedy este asasinat la Dallas.",
+  "x": "Kennedy, primul președinte catolic al Statelor Unite, a fost împușcat în timp ce mergea în mașină deschisă, iar Lee Harvey Oswald a fost arestat. Vicepreședintele Lyndon Johnson a depus jurământul la bordul avionului prezidențial. Moartea lui Kennedy a șocat lumea și a grăbit adoptarea legii drepturilor civile, în iulie 1964."
+ },
+ "11-23": {
+  "y": "1940",
+  "s": "România semnează Pactul Tripartit, alăturându-se Puterilor Axei.",
+  "x": "Mareșalul Ion Antonescu a semnat la Berlin, după ce România pierduse, vara aceea, Basarabia, nordul Bucovinei și nordul Transilvaniei. Țara era guvernată atunci de Statul Național-Legionar, cu participarea Gărzii de Fier. În iunie 1941, România a intrat în război alături de Germania împotriva Uniunii Sovietice, cu urmări tragice pentru evrei, romi și mulți alții."
+ },
+ "11-24": {
+  "y": "1859",
+  "s": "Apare „Originea speciilor”, de Charles Darwin.",
+  "x": "Primele 1.250 de exemplare s-au vândut în prima zi. Darwin a studiat teologia la Cambridge și a fost pregătit să devină pastor. Teoria lui despre selecția naturală a provocat dezbateri aprinse, atât în rândul oamenilor de știință, cât și în cel al teologilor. Unii creștini au respins-o, iar alții au acceptat-o ca pe un mod în care Dumnezeu a lucrat."
+ },
+ "11-26": {
+  "y": "1476",
+  "s": "Vlad Țepeș îl înfrânge pe Basarab Laiotă cel Bătrân și recapătă tronul Țării Românești.",
+  "x": "Vlad al III-lea, supranumit Drácula sau Țepeș, a primit ajutor de la Ștefan cel Mare al Moldovei și de la Ștefan Báthory, principele Transilvaniei. A domnit doar câteva săptămâni, fiind ucis la sfârșitul lunii decembrie. Ștefan cel Mare, sprijinitorul lui, a ridicat zeci de mănăstiri și biserici în Moldova, între care Voroneț și Putna."
+ },
+ "11-27": {
+  "y": "1895",
+  "s": "Alfred Nobel semnează, la Paris, testamentul prin care se înființează Premiile Nobel.",
+  "x": "Inventatorul dinamitei a lăsat cea mai mare parte a averii pentru premii acordate pentru fizică, chimie, medicină, literatură și pace. Primele premii au fost acordate în 1901. Printre laureații Premiului Nobel pentru Pace s-au numărat mulți oameni de credință, între care Albert Schweitzer, Martin Luther King Jr. și Desmond Tutu."
+ },
+ "11-28": {
+  "y": "1660",
+  "s": "La Gresham College din Londra se întemeiază societatea care va deveni Royal Society.",
+  "x": "Doisprezece bărbați, între care Christopher Wren, Robert Boyle și John Wilkins, s-au adunat după o prelegere de-a lui Wren, ca să formeze o societate pentru promovarea științei experimentale. Wilkins era cleric și a devenit episcop, iar Boyle, un creștin credincios, a lăsat prin testament fonduri pentru prelegeri în apărarea creștinismului. Royal Society a fost recunoscută de regele Carol al II-lea în 1662."
+ },
+ "11-30": {
+  "y": "1874",
+  "s": "Se naște Winston Churchill, la Palatul Blenheim, în Anglia.",
+  "x": "Churchill a fost prim-ministru al Marii Britanii în timpul celui de-al Doilea Război Mondial, între 1940 și 1945, și din nou între 1951 și 1955. A primit Premiul Nobel pentru Literatură în 1953. În discursurile din 1940 a descris lupta împotriva lui Hitler ca pe o apărare a civilizației creștine, iar discursurile lui au rămas printre cele mai celebre ale secolului."
+ },
+ "12-1": {
+  "y": "1918",
+  "s": "Adunarea Națională de la Alba Iulia proclamă unirea Transilvaniei cu România.",
+  "x": "Peste o mie de delegați ai românilor din Transilvania, Banat, Crișana și Maramureș au votat Rezoluția Unirii, citită de Vasile Goldiș. Printre cei prezenți s-au numărat episcopi ai ambelor Biserici românești: greco-catolicul Iuliu Hossu și ortodoxul Miron Cristea, mai târziu primul patriarh al României. Ziua de 1 decembrie este astăzi sărbătoarea națională a României."
+ },
+ "12-2": {
+  "y": "1859",
+  "s": "Abolitionistul John Brown este spânzurat la Charles Town, în Virginia.",
+  "x": "Brown condusese în octombrie un atac asupra arsenalului federal de la Harpers Ferry, sperând să declanșeze o răscoală a sclavilor. Era un credincios calvinist convins și a spus în ziua execuției că faptele acestei țări vinovate nu vor fi spălate decât cu sânge. Mulți din Nord, între care scriitori ca Emerson și Thoreau, l-au apărat. Doi ani mai târziu a început Războiul Civil."
+ },
+ "12-3": {
+  "y": "1967",
+  "s": "Prima transplantare de inimă umană este efectuată de chirurgul Christiaan Barnard la Cape Town.",
+  "x": "Pacientul, Louis Washkansky, a trăit optsprezece zile cu inima unei tinere accidentate. Barnard era fiul unui pastor al Bisericii Reformate Olandeze din Africa de Sud. Operația a deschis calea transplantelor de organe, care au salvat de atunci milioane de vieți."
+ },
+ "12-4": {
+  "y": "1110",
+  "s": "Balduin I al Ierusalimului și regele norvegian Sigurd cuceresc orașul Sidon.",
+  "x": "Sigurd I Jorsalfar a plecat din Norvegia cu o flotă și a fost primul rege european care a mers în cruciadă. A ajutat la cucerirea Sidonului, în Liban, după un asediu de aproximativ șase săptămâni. Numele lui, „Jorsalfar”, înseamnă „cel care a mers la Ierusalim”."
+ },
+ "12-5": {
+  "y": "1933",
+  "s": "Prohibiția alcoolului se încheie în Statele Unite, odată cu ratificarea celui de-al Douăzeci și unulea Amendament.",
+  "x": "Interdicția băuturilor alcoolice, în vigoare din 1920, fusese susținută de mișcarea de temperanță, în care au avut un rol mare bisericile baptiste, metodiste și alte confesiuni protestante. Ea a favorizat însă crima organizată și a fost greu de aplicat. Abrogarea ei este singurul caz din istoria americană în care un amendament constituțional a fost anulat de altul."
+ },
+ "12-6": {
+  "y": "1865",
+  "s": "Al Treisprezecelea Amendament, care interzice sclavia, este ratificat de numărul necesar de state.",
+  "x": "Georgia a fost al douăzeci și șaptelea stat care l-a aprobat, ceea ce a asigurat majoritatea de trei sferturi. Amendamentul a fost proclamat în vigoare pe 18 decembrie 1865. Interzicerea sclaviei a fost rezultatul unei lupte de decenii în care au luat parte mulți credincioși, abolitioniști, predicatori și foști sclavi, ca Frederick Douglass."
+ },
+ "12-8": {
+  "y": "1941",
+  "s": "Statele Unite declară război Japoniei, după atacul de la Pearl Harbor.",
+  "x": "Președintele Roosevelt a numit ziua atacului, 7 decembrie, „o zi care va rămâne în infamie”. Congresul a votat declarația de război cu un singur vot împotrivă, cel al reprezentantei Jeannette Rankin, pacifistă. Intrarea Statelor Unite a schimbat cursul războiului, care se extinsese în toată lumea."
+ },
+ "12-9": {
+  "y": "1946",
+  "s": "Începe la Nürnberg „Procesul medicilor”, primul dintre procesele ulterioare împotriva crimelor naziste.",
+  "x": "Au fost judecați douăzeci și trei de medici și funcționari naziști pentru experimentele făcute pe prizonieri din lagăre. Sentința a inclus șapte condamnări la moarte. Din judecata lor a ieșit Codul de la Nürnberg, care cere ca orice cercetare pe oameni să fie făcută cu consimțământul liber al subiectului."
+ },
+ "12-12": {
+  "y": "1941",
+  "s": "Hitler declară, într-o întâlnire cu conducătorii naziști, că va extermina evreii Europei.",
+  "x": "Declarația, notată în jurnalul lui Joseph Goebbels, a venit la o zi după ce Germania declarase război Statelor Unite. Planul a fost organizat în lunile următoare, în conferința de la Wannsee din ianuarie 1942. Holocaustul a ucis aproximativ șase milioane de evrei. Unii creștini, între care Dietrich Bonhoeffer, au ajutat evrei să scape."
+ },
+ "12-13": {
+  "y": "1642",
+  "s": "Exploratorul olandez Abel Tasman zărește coasta Noii Zeelande.",
+  "x": "Tasman, trimis de Compania Olandeză a Indiilor de Est, descoperise cu câteva săptămâni mai devreme insula pe care a numit-o Țara lui Van Diemen, azi Tasmania. A numit noul pământ „Staten Landt”, iar cartografii olandezi i-au dat mai târziu numele „Nieuw Zeeland”. În secolul al XIX-lea, misionari anglicani, metodiști și catolici au ajuns acolo, iar în 1840 a fost semnat Tratatul de la Waitangi."
+ },
+ "12-14": {
+  "y": "1911",
+  "s": "Echipa norvegiană a lui Roald Amundsen ajunge pentru prima dată la Polul Sud.",
+  "x": "Expediția a pornit cu patru sănii și câini și a ajuns cu o lună înaintea englezului Robert Scott. Scott și tovarășii lui au murit pe drumul de întoarcere. Amundsen și-a pregătit foarte atent călătoria, folosind experiența popoarelor arctice cu câinii și cu hainele de blană."
+ },
+ "12-17": {
+  "y": "1903",
+  "s": "Frații Wright zboară pentru prima dată cu un avion cu motor, la Kitty Hawk, în Carolina de Nord.",
+  "x": "Primul zbor, condus de Orville Wright, a durat douăsprezece secunde și a parcurs aproximativ treizeci și șapte de metri. În aceeași zi, frații au făcut încă trei zboruri, cel mai lung, de aproape un minut, cu Wilbur la comenzi. Tatăl lor, Milton Wright, era episcop al Bisericii Fraților Uniți în Hristos."
+ },
+ "12-18": {
+  "y": "1655",
+  "s": "Conferința de la Whitehall se încheie, stabilind că nicio lege nu împiedică întoarcerea evreilor în Anglia.",
+  "x": "Oliver Cromwell convocase conferința, după ce rabinul Menasseh ben Israel din Amsterdam îi ceruse permisiunea ca evreii să se stabilească din nou în Anglia, de unde fuseseră alungați în 1290. Teologii au avut păreri diferite, dar nu au găsit un obstacol legal. În 1656, o comunitate de evrei sefarzi s-a așezat la Londra, iar în 1657 a deschis o sinagogă."
+ },
+ "12-19": {
+  "y": "1843",
+  "s": "Apare la Londra „Poveste de Crăciun”, de Charles Dickens.",
+  "x": "Prima ediție, de 6.000 de exemplare, s-a epuizat până la Crăciun. Povestea lui Ebenezer Scrooge, un om avar care se schimbă după vizita a trei duhuri, a adus înapoi, în societatea victoriană, ideea unui Crăciun al generozității și al grijii față de cei săraci. Cartea a influențat multe obiceiuri de Crăciun din lumea de limbă engleză."
+ },
+ "12-20": {
+  "y": "1860",
+  "s": "Carolina de Sud devine primul stat care se desparte de Uniune.",
+  "x": "Convenția întrunită la Charleston a votat secesiunea cu 169 de voturi la 0. Statul a invocat apărarea sclaviei în declarația sa. Alte state din Sud au urmat, iar în aprilie 1861 a izbucnit Războiul Civil American. Unii pastori sudiști au apărat sclavia pe baza Bibliei, în timp ce alții, mai ales din Nord, au chemat la abolire."
+ },
+ "12-22": {
+  "y": "1989",
+  "s": "Nicolae Ceaușescu este înlăturat de la putere în România, după aproape douăzeci și cinci de ani.",
+  "x": "În ziua precedentă, la un miting în București, mulțimea îl huiduise. Pe 22 decembrie, liderul comunist a fugit cu elicopterul de pe clădirea Comitetului Central, a fost prins și, pe 25 decembrie, judecat și executat împreună cu soția sa. Revoluția a început la Timișoara, pe 16 decembrie, și a costat peste o mie de vieți. După ea, bisericile și-au recăpătat libertatea."
+ },
+ "12-23": {
+  "y": "484",
+  "s": "Se încheie persecuția creștinilor niceeni de către regii vandali ariani din Africa de Nord.",
+  "x": "Regele Hunerik, care a murit în decembrie 484, a persecutat aspru Biserica niceeană, prin exilări și confiscări de biserici. Povestea acestor suferințe a fost păstrată de episcopul Victor de Vita. Urmașul său, Gunthamund, a oprit persecuția, iar episcopii exilați s-au putut întoarce la bisericile lor."
+ },
+ "12-24": {
+  "y": "1818",
+  "s": "Cântecul „Noapte de pace” este cântat prima dată, în biserica Sfântul Nicolae din Oberndorf, Austria.",
+  "x": "Textul fusese scris în 1816 de tânărul preot Joseph Mohr, iar muzica a fost compusă de învățătorul și organistul Franz Xaver Gruber. S-a spus că orga bisericii era stricată, așa că cântecul a fost interpretat cu chitară. A fost tradus în peste trei sute de limbi, iar în 2011 UNESCO l-a inclus în patrimoniul cultural imaterial."
+ },
+ "12-26": {
+  "y": "2004",
+  "s": "Cutremurul din Oceanul Indian provoacă un tsunami care ucide aproximativ 230.000 de oameni.",
+  "x": "Cutremurul, cu magnitudinea de peste 9, a avut loc în largul insulei Sumatra, iar valurile au lovit coastele din mai multe țări, între care Indonezia, Sri Lanka, India și Thailanda. A fost una dintre cele mai mari catastrofe naturale din istoria recentă. Organizațiile creștine, între care Caritas, Crucea Roșie și alte organizații umanitare, au ajutat la reconstrucție."
+ },
+ "12-28": {
+  "y": "1065",
+  "s": "Este sfințită Abația Westminster, ridicată de regele Eduard Confesorul.",
+  "x": "Biserica, în stil romanic, a fost construită ca mănăstire benedictină. Regele, care o finanțase, era prea bolnav ca să participe, și a murit pe 5 ianuarie 1066. Guillaume Cuceritorul a fost încoronat acolo la Crăciunul din 1066, iar de atunci aproape toți monarhii englezi au fost încoronați în Westminster."
+ },
+ "12-29": {
+  "y": "1890",
+  "s": "Masacrul de la Wounded Knee: armata americană ucide aproximativ 250 de lakota.",
+  "x": "Victimele, între care multe femei și copii, făceau parte dintr-un grup condus de Big Foot, care se predase. Gruparea aderase la „Dansul Fantomelor”, o mișcare religioasă care promitea refacerea lumii lor, și care speriase autoritățile. Wounded Knee a fost ultima mare ciocnire a războaielor indiene și a rămas o rană dureroasă în istoria americană."
+ },
+ "12-30": {
+  "y": "1947",
+  "s": "Regele Mihai I al României este obligat să abdice de guvernul comunist, sprijinit de sovietici.",
+  "x": "Mihai urcase pe tron în 1940 și, în august 1944, ordonase arestarea mareșalului Antonescu și ieșirea României din alianța cu Germania. Sub presiunea guvernului Petru Groza, a semnat abdicarea, iar România a fost proclamată republică populară. A trăit în exil și s-a întors în țară după 1989; a murit în 2017. Biserica Ortodoxă și celelalte culte au trecut apoi prin ani grei de persecuții."
  }
 }
