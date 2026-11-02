@@ -8340,12 +8340,12 @@ let currentStreamUrl = null;
 
 const AUDIO_ERROR_MESSAGES = {
   1: "conexiune întreruptă (MEDIA_ERR_ABORTED)",
-  2: "eroare de rețea — serverul postului nu a răspuns (MEDIA_ERR_NETWORK)",
-  3: "fluxul nu poate fi decodat de acest browser (MEDIA_ERR_DECODE)",
-  4: "format sau protocol nesuportat de acest browser (MEDIA_ERR_SRC_NOT_SUPPORTED)"
+  3: "fluxul nu poate fi decodat de acest browser (MEDIA_ERR_DECODE)"
 };
+const RADIO_UNAVAILABLE_MSG = "Postul nu este disponibil momentan. Încearcă mai târziu sau alege alt post.";
 radioAudio.addEventListener("error", () => {
   const code = radioAudio.error ? radioAudio.error.code : null;
+  if(code === 2 || code === 4){ setRadioStatus(RADIO_UNAVAILABLE_MSG); return; }
   const msg = AUDIO_ERROR_MESSAGES[code] || "eroare necunoscută la redare";
   setRadioStatus("eroare: " + msg);
 });
@@ -8416,6 +8416,11 @@ function playStream(url, name){
       updatePlayPauseIcons(true);
       setRadioStatus("live acum");
     }).catch(err => {
+      if(err && err.name === "NotSupportedError"){
+        setRadioStatus(RADIO_UNAVAILABLE_MSG);
+        updateStationButtons();
+        return;
+      }
       setRadioStatus("nu a pornit automat — apasă din nou pe ▶ (" + (err && err.name ? err.name : "eroare browser") + ")");
       updateStationButtons();
     });
