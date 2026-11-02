@@ -304,7 +304,8 @@ async function build(month, day){
   // neoprotestanți (baptiști, penticostali, adventiști, evanghelici, metodiști, frați etc.) vs. protestanți istorici (luterani, anglicani, reformați)
   const NEO = /(baptist|penticostal|adventist|evanghelic|evanghelist|metodist|frați|quaker|misionar|predicator|anabaptist|menonit|morav|mesianic|televangelist)/i;
   const MAINLINE = /(luteran|anglican|reformat|prezbiterian|protestant)/i;
-  const numYear = y => { const m = String(y).match(/\d+/); return m ? parseInt(m[0], 10) : 0; };
+  const EXCLUDED_NAMES = new Set(["manharonmonis"]); // nume care apar în Wikidata cu „predicator”, dar nu au loc aici
+  const numYear =y => { const m = String(y).match(/\d+/); return m ? parseInt(m[0], 10) : 0; };
   async function people(kind){
     const wikiAll = parsePeople(pick(kind === "births" ? ["Nașteri", "Nasteri"] : ["Decese"]), kind);
     const wikiByName = new Map(wikiAll.map(p => [nameKey(p.name), p]));
@@ -315,6 +316,10 @@ async function build(month, day){
       if(/preot catolic|catolic/i.test(p.r || "") && !protestant) return;
       if(protestant) p.r = (p.r || "").replace(/preot catolic,?\s*/i, "").replace(/\s+catolic\b/i, "");
       if(from === "main" && p.s !== undefined && p.s < 30) return; // lista principală: doar nume cunoscute
+      // fără persoane din alte religii: predicatori „generici” din țări majoritar musulmane, dacă nu au un marcaj creștin clar
+      if(/ din (Turcia|Iran|Pakistan|Arabia|Egipt|Irak|Siria|Afganistan|Indonezia|Malaezia|Bangladesh|Algeria|Maroc|Tunisia|Liban|Iordania|Yemen|Kuweit|Qatar)/i.test(p.r || "") &&
+          !/(pastor|misionar|evanghel|baptist|penticostal|adventist|metodist|prezbiterian|luteran|reformat|anglican|rabin)/i.test(p.r || "")) return;
+      if(EXCLUDED_NAMES.has(nameKey(p.n))) return;
       const id = nameKey(p.n) + p.y;
       if(seenRel.has(id)) return;
       seenRel.add(id);
@@ -351,7 +356,7 @@ async function build(month, day){
 
     // compunere: amestec de epoci și confesiuni, până la 10; luterani/anglicani/reformați cel mult 2
     const out = [], used = new Set();
-    const take = (list, n) => { let c = 0; for(const p of list){ if(out.length >= TOP || c >= n) break; const id = nameKey(p.name) + p.year; if(used.has(id)) continue; used.add(id); out.push(p); c++; } };
+    const take = (list, n) => { let c = 0; for(const p of list){ if(out.length >= TOP || c >= n) break; if(/^Papa\b/i.test(p.name)) continue; const id = nameKey(p.name); if(used.has(id)) continue; used.add(id); out.push(p); c++; } };
     const groups = [neo.slice(), early.slice(), sec.slice(), mainline.slice()];
     const caps = [5, 3, 3, 2];
     // întâi câte unul din fiecare grup (ca primele rânduri să acopere epoci și confesiuni diferite), apoi completăm până la limite
