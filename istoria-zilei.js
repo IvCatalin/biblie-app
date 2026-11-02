@@ -299,7 +299,9 @@ async function build(month, day){
     const wikiByName = new Map(wikiAll.map(p => [nameKey(p.name), p]));
     const rel = [], moved = [];
     list.forEach(p => {
-      if(/^Papa\b/i.test(p.n) || CATH_OR_ORTH.test(p.r || "")) return; // fără catolici, ortodocși, papi
+      const protestant = /(luteran|reformat|protestant|anglican|baptist|metodist|prezbiterian|evanghel|penticostal|adventist|reformator|pastor)/i.test(p.r || "");
+      if(/^Papa\b/i.test(p.n) || (CATH_OR_ORTH.test(p.r || "") && !protestant)) return; // fără catolici, ortodocși, papi
+      if(protestant) p.r = (p.r || "").replace(/preot catolic,?\s*/i, "").replace(/\s+catolic\b/i, ""); // „preot catolic luteran” → „luteran”
       if(p.s !== undefined && p.s < 30) return; // doar nume cunoscute
       const w = wikiByName.get(nameKey(p.n));
       // dacă Wikipedia îl descrie ca laic (ex. scriitor), nu e figură religioasă: poate intra la cele laice
