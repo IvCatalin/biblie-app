@@ -1673,6 +1673,24 @@
     color:#16294a;
   }
   .ref-preview-popover.rp-parchment .ref-preview-icon-btn:active{ color:#8a6314; border-color:#8a6314; }
+  /* Sărbători (Românesc/German): textul extins și sursele din panoul ⓘ */
+  .ref-preview-popover .rp-more{
+    font-family:'EB Garamond', serif; font-weight:600; font-size:15.5px; line-height:1.5;
+    color:#3A2614; text-align:left; margin:-6px 0 14px;
+  }
+  .ref-preview-popover .rp-more-btn{
+    font-family:'Inter', sans-serif; font-size:12.5px; font-weight:600; color:#16294a;
+    background:rgba(22,41,74,0.12); border:1px solid rgba(22,41,74,0.35); border-radius:999px;
+    padding:6px 14px; cursor:pointer; margin:0 0 14px;
+  }
+  .ref-preview-popover .rp-src{
+    font-family:'Inter', sans-serif; font-size:11.5px; line-height:1.45; color:#3A2614;
+    background:rgba(22,41,74,0.08); border:1px solid rgba(22,41,74,0.25); border-radius:12px;
+    padding:10px 12px; margin:0 0 14px; text-align:left;
+  }
+  .ref-preview-popover .rp-src-title{ font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:#16294a; margin-bottom:6px; }
+  .ref-preview-popover .rp-src-item{ margin-bottom:5px; }
+  .ref-preview-popover .rp-src-item:last-child{ margin-bottom:0; }
 
   .wp-word{
     font-family:'EB Garamond', 'Fraunces', serif;
@@ -4128,9 +4146,13 @@
     <div class="wp-corner wp-corner-br"><svg viewBox="0 0 120.65779 120.65778"><use href="#wp-corner-ornament"></use></svg></div>
     <div class="ref-preview-title" id="ref-preview-title"></div>
     <div class="ref-preview-text" id="ref-preview-text"></div>
+    <div class="rp-more" id="ref-preview-more" style="display:none;"></div>
+    <button type="button" class="rp-more-btn" id="ref-preview-more-btn" style="display:none;">Citește mai mult ⌄</button>
+    <div class="rp-src" id="ref-preview-src" style="display:none;"></div>
     <div class="ref-preview-footer">
       <button class="ref-preview-go" id="ref-preview-go">→ citește capitolul</button>
       <div class="ref-preview-actions">
+        <button class="ref-preview-icon-btn" id="ref-preview-info" title="Surse" aria-label="Surse" style="display:none;font-size:15px;font-family:Georgia,serif;">ⓘ</button>
         <button class="ref-preview-icon-btn" id="ref-preview-copy" title="Copiază">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v1"/></svg>
         </button>
@@ -4143,6 +4165,7 @@
 </div>
 
 <script src="citate.js?v=2"></script>
+<script src="sarbatori-detalii.js?v=1"></script>
 <script>
 
 // =====================================================================
@@ -5153,7 +5176,7 @@ function showRefPreview(refText, anchorEl, parchment){
     textEl.textContent = "Se \u00eencarc\u0103\u2026";
     pendingRefNav = parsed;
     pendingHaftarahNav = null;
-    popover.classList.add("show");
+    popover.classList.add("show"); rpHolidayReset();
     hideWordPopover();
     const sameChapterNowP = String(currentBookSlug) === String(parsed.book.slug) && Number(currentChapter) === Number(parsed.chapter);
     if(sameChapterNowP && Array.isArray(VERSES) && VERSES.length){
@@ -5189,7 +5212,7 @@ function showRefPreview(refText, anchorEl, parchment){
   textEl.textContent = "Se \u00eencarc\u0103\u2026";
   pendingRefNav = parsed;
   pendingHaftarahNav = null;
-  popover.classList.add("show");
+  popover.classList.add("show"); rpHolidayReset();
   hideWordPopover();
 
   const sameChapterNow = String(currentBookSlug) === String(parsed.book.slug) && Number(currentChapter) === Number(parsed.chapter);
@@ -5218,6 +5241,7 @@ function showRefPreview(refText, anchorEl, parchment){
 
 function hideRefPreview(){
   document.getElementById("ref-preview-popover").classList.remove("show");
+  rpHolidayReset();
 }
 
 // Panoul dedicat pentru o referință de Haftarah (diferit de showRefPreview,
@@ -5299,7 +5323,7 @@ function showHaftarahPreview(match, anchorEl){
   textEl.textContent = hasTarget ? "Se încarcă…" : "";
   pendingRefNav = null;
   pendingHaftarahNav = hasTarget ? match : null;
-  popover.classList.add("show");
+  popover.classList.add("show"); rpHolidayReset();
   hideWordPopover();
   fitPreviewTitleLines(titleEl);
 
@@ -5337,46 +5361,6 @@ const JEWISH_HOLIDAY_INFO = {
   "Tișa BeAv": { nameRo: "9 Av — ziua de post", desc: "9 Av, ziua de post și jale pentru dărâmarea ambelor Temple din Ierusalim și pentru alte tragedii ale istoriei evreiești. Haftara dimineții e plânsul lui Ieremia pentru pustiirea iminentă a cetății.", chapterNum: 17 },
 };
 window.JEWISH_HOLIDAY_INFO = JEWISH_HOLIDAY_INFO; // citit din modulul ES al calendarului (vezi renderCalendarInto)
-
-// Explicații scurte (2-3 propoziții) pentru sărbătorile din calendarul românesc și
-// cel german — fără buton „citește”, doar rezumatul sărbătorii. Cheile sunt
-// exact numele din romanianHolidays()/germanHolidays() ale calendarului.
-const HOLIDAY_INFO_RO = {
-  "Anul Nou": { desc: "Prima zi a anului civil, când se petrece trecerea de la un an la altul, cu urări de bine și bucurie în familie. În tradiția românească, noaptea de Revelion se leagă de obiceiuri precum Plugușorul, Sorcova și urările de la colindători." },
-  "A doua zi de Anul Nou": { desc: "Ziua de 2 ianuarie, zi liberă legală în România, prelungește sărbătoarea Anului Nou. În multe locuri se continuă urările și vizitele la rude și prieteni." },
-  "Boboteaza": { desc: "Boboteaza, sau Epifania, amintește Botezul Domnului Isus în apele Iordanului de către Ioan, când Duhul Sfânt S-a pogorât ca un porumbel și glasul Tatălui a mărturisit despre Fiul. În Biserica Ortodoxă se sfințește apa, iar preoții merg cu crucea să binecuvânteze casele." },
-  "Sf. Ioan Botezătorul": { desc: "Ioan Botezătorul a fost cel care a pregătit calea Domnului, chemând poporul la pocăință și botezându-l pe Isus în Iordan. A doua zi după Bobotează, Biserica Ortodoxă îl sărbătorește și îl cinstește ca ultimul mare profet al Vechiului Testament." },
-  "Unirea Principatelor Române": { desc: "Pe 24 ianuarie 1859, Alexandru Ioan Cuza a fost ales domn atât în Moldova, cât și în Țara Românească, ceea ce a pus bazele statului român modern. Ziua este sărbătoare națională și zi liberă legală, cunoscută și ca Mica Unire." },
-  "Duminica Floriilor": { desc: "Duminica dinaintea Paștelui amintește intrarea lui Isus în Ierusalim, când mulțimea L-a întâmpinat cu ramuri de finic și de măslin, strigând „Osana!”. Începe Săptămâna Mare, ultima săptămână dinaintea Învierii." },
-  "Vinerea Mare": { desc: "Vinerea Mare este ziua în care creștinii își amintesc de răstignirea și moartea lui Isus pe cruce. Este zi de post aspru, de rugăciune și de reculegere, iar în România este și zi liberă legală." },
-  "Paștele": { desc: "Paștele ortodox sărbătorește Învierea lui Isus Hristos din morți, cea mai mare sărbătoare a creștinătății. Data se calculează după calendarul iulian al Paștelui, de aceea poate să difere de Paștele occidental; se salută cu „Hristos a înviat!” și „Adevărat a înviat!”." },
-  "A doua zi de Paști": { desc: "A doua zi de Paști prelungește bucuria Învierii și este zi liberă legală în România. Este o zi a vizitelor în familie, cu masa de sărbătoare, ouă roșii și cozonac." },
-  "Ziua Muncii": { desc: "Pe 1 mai se aduce în fiecare an un omagiu muncitorilor și drepturilor lor. Ziua amintește de grevele din Chicago din 1886, în care muncitorii cereau ziua de lucru de opt ore." },
-  "Înălțarea Domnului (Ziua Eroilor)": { desc: "Înălțarea Domnului se ține la 40 de zile după Paști, în amintirea momentului în care Isus S-a înălțat la cer în fața ucenicilor Săi. În România, aceeași zi este și Ziua Eroilor, în care sunt cinstiți cei care și-au dat viața pentru țară." },
-  "Rusaliile (Pogorârea Sf. Duh)": { desc: "Rusaliile, sau Cincizecimea, se țin la 50 de zile după Paști și amintesc pogorârea Duhului Sfânt peste apostoli, descrisă în Faptele Apostolilor, capitolul 2. Este considerată ziua nașterii Bisericii, iar în tradiția populară bisericile se împodobesc cu ramuri verzi." },
-  "A doua zi de Rusalii": { desc: "Lunea de după Rusalii este închinată Duhului Sfânt, a treia persoană a Sfintei Treimi, a cărui pogorâre a fost sărbătorită în ziua precedentă. Este zi liberă legală în România." },
-  "Ziua Copilului": { desc: "Pe 1 iunie se sărbătorește Ziua Copilului, dedicată drepturilor și bunăstării copiilor din toată lumea. În România este și zi liberă legală, cu activități și daruri pentru cei mici." },
-  "Adormirea Maicii Domnului": { desc: "Pe 15 august, Biserica Ortodoxă cinstește sfârșitul vieții pământești a Mariei, mama lui Isus, și trecerea ei la Dumnezeu. Este cea mai mare sărbătoare mariană a anului și încheie un post de două săptămâni." },
-  "Sf. Andrei": { desc: "Sfântul Apostol Andrei a fost unul dintre cei doisprezece ucenici ai lui Isus, iar tradiția îl numește „Apostolul românilor”, fiind considerat cel care a adus Evanghelia în Dobrogea de azi. Este ocrotitorul României, iar în ajun se țin obiceiuri populare, precum noaptea strigoilor." },
-  "Ziua Națională a României": { desc: "Pe 1 decembrie 1918, adunarea de la Alba Iulia a votat unirea Transilvaniei cu România, desăvârșind statul național unitar. Ziua este sărbătoarea națională a țării, cu parade militare și festivități." },
-  "Crăciunul": { desc: "Crăciunul sărbătorește nașterea lui Isus Hristos la Betleem, pe 25 decembrie, iar Biserica Ortodoxă din România folosește în prezent calendarul iulian revizuit pentru această dată. Este o sărbătoare a familiei, a colindelor, a bradului împodobit și a bunătății față de cei din jur." },
-  "A doua zi de Crăciun": { desc: "A doua zi de Crăciun prelungește bucuria nașterii Domnului și este zi liberă legală în România. Se vizitează rudele și se colindă, iar mulți cinstesc în această zi și pe Sfântul Ștefan, primul martir creștin." }
-};
-const HOLIDAY_INFO_DE = {
-  "Neujahr (Anul Nou)": { desc: "Neujahr este prima zi a anului, sărbătoare legală în toată Germania. Anul vechi se încheie în noaptea de Silvester cu artificii, urări și, tradițional, cu plumb topit „Bleigießen”, iar pe 1 ianuarie oamenii își urează un an bun." },
-  "Karfreitag (Vinerea Mare)": { desc: "Karfreitag amintește răstignirea lui Isus și este una dintre cele mai solemne zile creștine. În Germania este zi liberă legală, iar în multe landuri sunt interzise dansurile și evenimentele zgomotoase („stille Feiertage”)." },
-  "Ostersonntag (Paștele)": { desc: "Paștele sărbătorește Învierea lui Isus din morți. În Germania este însoțit de obiceiuri ca ouăle vopsite, iepurele de Paște, focurile de Paște (Osterfeuer) și vânătoarea de ouă pentru copii; data se calculează după calendarul occidental, în prima duminică după prima lună plină de primăvară." },
-  "Ostermontag (Luni de Paști)": { desc: "Ostermontag este a doua zi de Paști și zi liberă legală în toată Germania. Tradiția populară îl leagă de povestea din Evanghelia după Luca despre ucenicii care L-au întâlnit pe Isus înviat pe drumul spre Emaus, de aceea se fac și plimbări numite „Emmausgang”." },
-  "Tag der Arbeit (Ziua Muncii)": { desc: "Pe 1 mai se sărbătorește Ziua Muncii, zi legală liberă în Germania, când se organizează mitinguri ale sindicatelor. În multe regiuni se ridică și „Maibaum”, stâlpul împodobit al primăverii, iar oamenii ies la plimbare în natură." },
-  "Christi Himmelfahrt (Înălțarea)": { desc: "Christi Himmelfahrt amintește înălțarea lui Isus la cer, la 40 de zile după Paști, și cade mereu într-o zi de joi. În Germania se leagă de „Vatertag” sau „Herrentag”, când mulți bărbați ies în drumeție sau la o excursie cu prietenii." },
-  "Pfingstsonntag (Rusaliile)": { desc: "Pfingsten, sau Rusaliile, amintește pogorârea Duhului Sfânt peste ucenici, la 50 de zile după Paști (Fapte 2). Se consideră ziua nașterii Bisericii și se ține în Germania cu slujbe festive, iar la începutul verii mulți își aleg această perioadă pentru excursii." },
-  "Pfingstmontag (Luni de Rusalii)": { desc: "Pfingstmontag este a doua zi de Rusalii și zi liberă legală în Germania. Multe familii își petrec ziua în natură, la drumeții sau la sărbători populare." },
-  "Tag der Deutschen Einheit (Ziua Unității Germane)": { desc: "Pe 3 octombrie 1990 s-a încheiat reunificarea Germaniei, după căderea Zidului Berlinului din 1989, când Republica Democrată Germană a aderat la Republica Federală. Este sărbătoarea națională a țării, cu festivități oficiale într-un oraș care se schimbă în fiecare an." },
-  "1. Weihnachtstag (Prima zi de Crăciun)": { desc: "Weihnachten sărbătorește nașterea lui Isus Hristos. Germania a dat lumii multe tradiții de Crăciun, precum bradul împodobit, coroana Adventului și piețele de Crăciun (Weihnachtsmärkte); cadourile se deschid de obicei în seara de 24 decembrie." },
-  "2. Weihnachtstag (A doua zi de Crăciun)": { desc: "A doua zi de Crăciun, numită și „Zweiter Weihnachtsfeiertag”, este zi liberă legală în Germania. În tradiția creștină, ziua de 26 decembrie este și sărbătoarea Sfântului Ștefan, primul martir creștin, și este o zi a vizitelor în familie." }
-};
-window.HOLIDAY_INFO_RO = HOLIDAY_INFO_RO;
-window.HOLIDAY_INFO_DE = HOLIDAY_INFO_DE;
 // Previzualizare pentru sărbătorile evreiești din calendar — același panou
 // standard (#ref-preview-popover) folosit la Haftarot/pericope, cu titlul pe
 // linii (nume ebraic / traducere română / referință) și, doar când există un
@@ -5386,7 +5370,7 @@ function showHolidayPreview(name, anchorEl, system){
   const textEl = document.getElementById("ref-preview-text");
   const popover = document.getElementById("ref-preview-popover");
   if(!titleEl || !textEl || !popover) return;
-  const info = (system === "ro" ? HOLIDAY_INFO_RO : system === "de" ? HOLIDAY_INFO_DE : JEWISH_HOLIDAY_INFO)[name];
+  const info = (system === "ro" || system === "de") ? null : JEWISH_HOLIDAY_INFO[name];
 
   popover.classList.add("rp-parchment");
   popover.classList.remove("rp-theme-light", "rp-theme-sepia");
@@ -5407,11 +5391,53 @@ function showHolidayPreview(name, anchorEl, system){
   goBtn.style.display = match ? "" : "none";
   pendingRefNav = null;
   pendingHaftarahNav = match;
-  popover.classList.add("show");
+  popover.classList.add("show"); rpHolidayReset();
+  if(system === "ro" || system === "de") showHolidayDetail(system, name);
   hideWordPopover();
   fitPreviewTitleLines(titleEl);
 }
 window.showHolidayPreview = showHolidayPreview; // apelat din modulul ES al calendarului
+
+// Sărbători românești/germane: rezumat (4 propoziții), „Citește mai mult” cu restul
+// textului și iconița ⓘ cu sursele — texte verificate, în public/sarbatori-detalii.js.
+// Elementele extra se ascund la orice alt panou de referință (vezi rpHolidayReset).
+function rpHolidayReset(){
+  const ids = ["ref-preview-more-btn", "ref-preview-more", "ref-preview-src", "ref-preview-info"];
+  ids.forEach(id => { const el = document.getElementById(id); if(el) el.style.display = "none"; });
+  const btn = document.getElementById("ref-preview-more-btn");
+  if(btn) btn.textContent = "Citește mai mult ⌄";
+}
+function showHolidayDetail(system, name){
+  rpHolidayReset();
+  const det = window.SARBATORI_DETALII && window.SARBATORI_DETALII[system] && window.SARBATORI_DETALII[system][name];
+  if(!det) return false;
+  document.getElementById("ref-preview-text").textContent = det.s;
+  const more = document.getElementById("ref-preview-more");
+  const moreBtn = document.getElementById("ref-preview-more-btn");
+  more.textContent = det.m || "";
+  if(det.m) moreBtn.style.display = "";
+  const src = document.getElementById("ref-preview-src");
+  src.textContent = "";
+  const ttl = document.createElement("div");
+  ttl.className = "rp-src-title";
+  ttl.textContent = "Surse";
+  src.appendChild(ttl);
+  (det.src || []).forEach(s => { const p = document.createElement("div"); p.className = "rp-src-item"; p.textContent = s; src.appendChild(p); });
+  document.getElementById("ref-preview-info").style.display = "";
+  return true;
+}
+document.getElementById("ref-preview-more-btn").addEventListener("click", (e) => {
+  e.stopPropagation();
+  const more = document.getElementById("ref-preview-more");
+  const open = more.style.display === "none";
+  more.style.display = open ? "block" : "none";
+  e.currentTarget.textContent = open ? "Citește mai puțin ⌃" : "Citește mai mult ⌄";
+});
+document.getElementById("ref-preview-info").addEventListener("click", (e) => {
+  e.stopPropagation();
+  const src = document.getElementById("ref-preview-src");
+  src.style.display = src.style.display === "none" ? "block" : "none";
+});
 
 // Închidere la click în afara panoului (la fel ca la panoul de cuvinte/lexicon),
 // pe lângă butonul "✕", care rămâne disponibil.
@@ -5450,7 +5476,9 @@ document.getElementById("ref-preview-close").addEventListener("click", hideRefPr
 
 function refPreviewShareText(){
   const title = document.getElementById("ref-preview-title").textContent;
-  const text = document.getElementById("ref-preview-text").textContent.trim();
+  let text = document.getElementById("ref-preview-text").textContent.trim();
+  const moreEl = document.getElementById("ref-preview-more");
+  if(moreEl && moreEl.style.display === "block") text += " " + moreEl.textContent.trim();
   return text ? ("„" + text + "” — " + title) : title;
 }
 document.getElementById("ref-preview-copy").addEventListener("click", (e) => {
@@ -5521,7 +5549,7 @@ function showRefUnavailable(anchorEl, refText, parchment){
   document.getElementById("ref-preview-go").style.display = "none";
   pendingRefNav = null;
   pendingHaftarahNav = null;
-  popover.classList.add("show");
+  popover.classList.add("show"); rpHolidayReset();
 }
 
 
@@ -9560,10 +9588,12 @@ async function initHebrewCalendar(){
       const dayEl = document.createElement("div");
       dayEl.className = "cal-day" + (cell.otherMonth ? " other-month" : "");
       if(sameDay(cell.date, today)) dayEl.classList.add("today");
-      const hit = holidays.find(h => sameDay(h.date, cell.date));
+      // o zi poate avea mai multe sărbători (ex. A doua zi de Rusalii cade uneori pe 1 iunie, Ziua Copilului)
+      const dayHits = holidays.filter(h => sameDay(h.date, cell.date));
+      const hit = dayHits[0];
       if(hit){
         dayEl.classList.add("has-holiday");
-        if(!cell.otherMonth) monthHolidayHits.push({ date: cell.date, name: hit.name });
+        if(!cell.otherMonth) dayHits.forEach(h => monthHolidayHits.push({ date: cell.date, name: h.name }));
       }
       const num = document.createElement("span");
       num.textContent = cell.day;
