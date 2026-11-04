@@ -29,6 +29,52 @@ const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 app.use(cors());
 app.use(express.json({ limit: "1mb" }));
 
+// Compresie gzip pentru fișierele text (html, js, json, css): pagina principală
+// are ~11 MB și ajunge ~3 MB comprimată. Fără dependențe noi (zlib vine cu Node).
+// Se aplică doar când browserul cere gzip și fișierul există în public/; orice
+// altceva (imagini, API, fișiere inexistente) trece neatins mai departe.
+// Versiunea comprimată se ține în memorie și se refolosește (cheie: fișier +
+// dată + mărime), deci se comprimă o singură dată per versiune a fișierului.
+const fs = require("fs");
+const zlib = require("zlib");
+const PUBLIC_DIR = path.join(__dirname, "public");
+const GZIP_TYPES = { ".html": "text/html; charset=UTF-8", ".js": "application/javascript; charset=UTF-8", ".json": "application/json; charset=UTF-8", ".css": "text/css; charset=UTF-8" };
+const gzCache = new Map();
+app.use((req, res, next) => {
+  if (req.method !== "GET") return next();
+  if (!/\bgzip\b/.test(req.headers["accept-encoding"] || "")) return next();
+  let rel;
+  try { rel = decodeURIComponent(req.path); } catch (e) { return next(); }
+  const type = GZIP_TYPES[path.extname(rel).toLowerCase()];
+  if (!type) return next();
+  const file = path.join(PUBLIC_DIR, rel);
+  if (file.indexOf(PUBLIC_DIR + path.sep) !== 0) return next();
+  fs.stat(file, (err, st) => {
+    if (err || !st.isFile()) return next();
+    const etag = 'W/"gz-' + st.size.toString(16) + "-" + Math.floor(st.mtimeMs).toString(16) + '"';
+    res.setHeader("Vary", "Accept-Encoding");
+    res.setHeader("Cache-Control", "no-cache");
+    res.setHeader("ETag", etag);
+    if (req.headers["if-none-match"] === etag) { res.statusCode = 304; return res.end(); }
+    const cached = gzCache.get(file);
+    const send = (buf) => {
+      res.setHeader("Content-Type", type);
+      res.setHeader("Content-Encoding", "gzip");
+      res.setHeader("Content-Length", buf.length);
+      res.end(buf);
+    };
+    if (cached && cached.etag === etag) return send(cached.buf);
+    fs.readFile(file, (e2, data) => {
+      if (e2) return next();
+      zlib.gzip(data, { level: 6 }, (e3, buf) => {
+        if (e3) return next();
+        gzCache.set(file, { etag, buf });
+        send(buf);
+      });
+    });
+  });
+});
+
 // Servește aplicația (biblie-demo.html, genesis-N.js, images/) direct din acest
 // server — pagina se accesează la adresa de bază.
 //
