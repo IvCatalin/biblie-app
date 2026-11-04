@@ -613,8 +613,15 @@ window.CHAPTER_DATA = [
     "text": "«Să nu vă agitați» (al tirgezu): Bekhor Șor a explicat în sensul de frică, iar Rashbam a explicat în sensul de grijă și teamă; iar Rabbi Yona a explicat „necaz”, în Șaʿare Ṣedeq al său, aproape de începutul lui: să nu vă certați unul cu altul pentru vânzarea mea, spunând unul altuia: tu i-ai pricinuit vânzarea."
    },
    {
-    "author": "Talmudul Babilonian, Taanit 10b:7",
-    "text": "„Să nu vă agitați pe drum!” A spus Rabbi Elʿazar: Le-a spus Iosif fraților săi: Nu vă îndeletniciți cu un lucru de halakhah, ca nu cumva să vă agite drumul."
+    "author": "Talmudul Babilonian, Taanit, cap. 1",
+    "text": "„Să nu vă agitați pe drum!” A spus Rabbi Elʿazar: Le-a spus Iosif fraților săi: Nu vă îndeletniciți cu un lucru de halakhah, ca nu cumva să vă agite drumul.",
+    "src": {
+     "slug": "talmud-taanit",
+     "spec": {
+      "num": 1,
+      "v": 7
+     }
+    }
    }
   ]
  },

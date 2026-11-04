@@ -400,8 +400,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Iuda a văzut-o»: căci își acoperise fața și nu a recunoscut-o; din această pricină a crezut-o prostituată: de vreme ce ședea singură la răspântia drumurilor, a spus: aceasta nu este decât o prostituată; căci dacă nu și-ar fi acoperit fața, ar fi recunoscut-o că este nora lui și nu s-ar fi culcat cu ea. Iar învățătorii noștri, binecuvântată fie amintirea lor: căci își acoperea fața în casa socrului ei și era foarte smerită; iar acum, când ședea la răspântia drumurilor, nu i-a trecut prin minte; de aceea a crezut-o prostituată."
    },
    {
-    "author": "Talmudul Babilonian, Megila 10b:14",
-    "text": "Ca aceasta pe care a spus-o Rabbi Șmuel bar Naḥmani, a spus Rabbi Yonatan: Orice noră care este cuviincioasă în casa socrului ei are parte să iasă din ea împărați și profeți. De unde avem aceasta? De la Tamar, căci este scris: „Și Iuda a văzut-o și a crezut-o prostituată, pentru că își acoperise fața”. Pentru că își acoperise fața, a crezut-o prostituată?"
+    "author": "Talmudul Babilonian, Megila, cap. 1",
+    "text": "Ca aceasta pe care a spus-o Rabbi Șmuel bar Naḥmani, a spus Rabbi Yonatan: Orice noră care este cuviincioasă în casa socrului ei are parte să iasă din ea împărați și profeți. De unde avem aceasta? De la Tamar, căci este scris: „Și Iuda a văzut-o și a crezut-o prostituată, pentru că își acoperise fața”. Pentru că își acoperise fața, a crezut-o prostituată?",
+    "src": {
+     "slug": "talmud-megillah",
+     "spec": {
+      "num": 1,
+      "v": 30
+     }
+    }
    }
   ]
  },

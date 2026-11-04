@@ -143,8 +143,15 @@ window.CHAPTER_DATA = [
     "text": "«Și a fost, când au început oamenii (ha-adam).» Specia omului.<br><br>«Și li s-au născut fiice.» Nu era nevoie să spună aceasta, căci nu este cu putință lumii fără parte bărbătească și fără parte femeiască; ci această povestire a fost despre fiice, pentru că au rătăcit după ele, și ele au pricinuit stricarea pământului, cum povestește mai departe."
    },
    {
-    "author": "Talmudul Babilonian, Megila 10b:5",
-    "text": "„Și a fost în zilele lui Ahașveroș” — a fost Haman. „Și a fost în zilele când judecau judecătorii” — a fost foamete. „Și a fost, când au început oamenii să se înmulțească” — „Și Domnul a văzut că mare era răutatea omului”."
+    "author": "Talmudul Babilonian, Megila, cap. 1",
+    "text": "„Și a fost în zilele lui Ahașveroș” — a fost Haman. „Și a fost în zilele când judecau judecătorii” — a fost foamete. „Și a fost, când au început oamenii să se înmulțească” — „Și Domnul a văzut că mare era răutatea omului”.",
+    "src": {
+     "slug": "talmud-megillah",
+     "spec": {
+      "num": 1,
+      "v": 21
+     }
+    }
    },
    {
     "author": "Zohar, Sifra di-Țeniuta 6:15",
@@ -838,8 +845,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Domnul a văzut.» Când a ajuns sfârșitul pe care li l-a dat, de o sută douăzeci de ani, a văzut că nu și-au îndreptat faptele, ci le-au înrăutățit, și fiecare zi era mai grea decât cea dinainte; aceasta este ce a spus: „doar răutate, toată ziua”. Iar explicația lui „și toată plăsmuirea (yeṣer)”: din cele două înclinații care sunt în inima omului, una bună și una rea, toată era spre rău, și nu era bine în ele. Iar pofta gândului inimii se numește yeṣer pentru că inima plăsmuiește (yoṣer) și lucrează în ea lucrurile, fie spre bine, fie spre rău, ca să le scoată la faptă. Iar motivul pentru care Dumnezeu le-a dat răgaz o sută douăzeci de ani, dacă se vor întoarce, deși știa că nu se vor întoarce: a făcut așa ca omul să învețe de la însușirile Lui și să fie îndelung-răbdător cu păcătosul și să nu se răzbune pe el îndată, deși are puterea în mână; poate se va căi și se va întoarce. Și iată, Dumnezeu Și-a creat lumea ca să fie bună, fie toată, fie cea mai mare parte; iar dacă este toată rea, nu poate dăinui, căci Dumnezeu nu alege decât binele. Și iată, a văzut generația potopului toată rea, în desfrânare și silnicie, care strică rânduiala lumii, iar faptele lor erau împotriva faptelor Lui; și a spus să strice lumea de jos și să lase din ea binele care se găsea în ea – și era doar o fărâmă din ea – ca s-o păstreze pentru viitor; și l-a lăsat în ea pe Noe, pe care l-a găsit bun, și la fel pe fiii lui cu soțiile lor, ca să păstreze sămânța. Iar Lameh, tatăl lui, murise deja cu cinci ani înainte de potop, iar Metusala și-a împlinit anii la venirea potopului și a murit, căci a trăit cinci ani după Lameh, fiul lui. Iată deci că nu a rămas niciun drept în lume, decât Noe și fiii lui."
    },
    {
-    "author": "Talmudul Babilonian, Megila 10b:5",
-    "text": "„Și a fost în zilele lui Ahașveroș” — a fost Haman. „Și a fost în zilele când judecau judecătorii” — a fost foamete. „Și a fost, când au început oamenii să se înmulțească” — „Și Domnul a văzut că mare era răutatea omului”."
+    "author": "Talmudul Babilonian, Megila, cap. 1",
+    "text": "„Și a fost în zilele lui Ahașveroș” — a fost Haman. „Și a fost în zilele când judecau judecătorii” — a fost foamete. „Și a fost, când au început oamenii să se înmulțească” — „Și Domnul a văzut că mare era răutatea omului”.",
+    "src": {
+     "slug": "talmud-megillah",
+     "spec": {
+      "num": 1,
+      "v": 21
+     }
+    }
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",

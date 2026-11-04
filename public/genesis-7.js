@@ -3148,8 +3148,15 @@ window.CHAPTER_DATA = [
     "text": "«Au fost șterse de pe pământ.» A spus „au fost șterse” după ce a spus „a șters”, din pricina omului; adică au fost șterse cu totul, încât nu a rămas din ei nicio amintire și nicio clădire pe care o construiseră, ca să se spună după potop: această clădire a construit-o cutare, care a murit în potop; căci totul a fost șters în apele potopului; nu a rămas decât Noe și cei care erau cu el. Iar învățătorii noștri, binecuvântată fie amintirea lor, au tâlcuit: „«a șters» – în lumea aceasta; «au fost șterse de pe pământ» – pentru lumea care va veni”."
    },
    {
-    "author": "Talmudul Babilonian, Eruvin 18a:19",
-    "text": "Ci la potop, căci este scris: „Și a șters tot ce exista pe fața pământului – de la om la animal” și celelalte."
+    "author": "Talmudul Babilonian, Eruvin, cap. 2",
+    "text": "Ci la potop, căci este scris: „Și a șters tot ce exista pe fața pământului – de la om la animal” și celelalte.",
+    "src": {
+     "slug": "talmud-eruvin",
+     "spec": {
+      "num": 2,
+      "v": 19
+     }
+    }
    }
   ]
  },

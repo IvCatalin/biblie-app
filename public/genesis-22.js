@@ -2758,8 +2758,15 @@ window.CHAPTER_DATA = [
     "text": "«Adonai-Ire»: după ce a spus: „Dumnezeu Își va dezvălui singur mielul”.<br><br>«De unde se spune până astăzi» (ašer yeʾamer ha-yom): ziua aceasta se va povesti pe munte când Domnul se va arăta pe el, când se va zidi pe el altarul și Templul; atunci se va spune și se va povesti ziua aceasta în care l-am înălțat pe fiul meu Isaac ca ardere-de-tot; căci aceasta i s-a spus în profeție: de ce a ales muntele acela, căci fiii lui aveau să aducă acolo jertfe."
    },
    {
-    "author": "Talmudul Babilonian, Pesahim 88a:4",
-    "text": "Ci: nu ca Avraam, despre care este scris „munte”, căci s-a spus: „de unde se spune până astăzi: pe munte Domnul va fi văzut”; și nu ca Isaac, despre care este scris „câmp”, căci s-a spus: „Isaac a ieșit să cugete pe câmp”; ci ca Iacov, care l-a numit „casă”, căci s-a spus: „Și a numit locul acela Betel.”"
+    "author": "Talmudul Babilonian, Pesahim, cap. 8",
+    "text": "Ci: nu ca Avraam, despre care este scris „munte”, căci s-a spus: „de unde se spune până astăzi: pe munte Domnul va fi văzut”; și nu ca Isaac, despre care este scris „câmp”, căci s-a spus: „Isaac a ieșit să cugete pe câmp”; ci ca Iacov, care l-a numit „casă”, căci s-a spus: „Și a numit locul acela Betel.”",
+    "src": {
+     "slug": "talmud-pesachim",
+     "spec": {
+      "num": 8,
+      "v": 4
+     }
+    }
    },
    {
     "author": "Zohar, Itro 3:2",

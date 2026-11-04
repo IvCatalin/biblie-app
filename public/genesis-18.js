@@ -2202,8 +2202,15 @@ window.CHAPTER_DATA = [
     "text": "«Și a râs Sara în sinea ei.» În inima ei a râs și a batjocorit cuvintele îngerului; căci ea nu a socotit că este un înger, ci un profet care a venit să-i vestească, și a batjocorit cuvintele lui.<br><br>«Spunând»: a gândit în inima ei să spună acest lucru; și deși nu a râs cu gura, din pricina cuviinței și a bunei-cuviințe, ci în sinea ei,<br><br>s-a mirat și a spus: «După ce m-am ofilit, oare voi mai avea pielea netedă?»: cum este cu putință să am tinerețe, când eu sunt ofilită, și încă stăpânul meu este bătrân? Iar ʿednah este fragezimea cărnii, ca să fie moale și bună, și să se întoarcă la umezeala ei, și să se întindă zbârciturile pielii. Și îngerul a știut că a râs și i-a spus lui Avram:"
    },
    {
-    "author": "Talmudul Babilonian, Ievamot 65b:9",
-    "text": "În școala lui Rabbi Yișmaʿel s-a învățat: Mare este pacea, căci chiar Sfântul, binecuvântat fie El, a schimbat pentru ea; căci la început este scris: „Și soțul meu este bătrân”, iar la sfârșit este scris: „deși am îmbătrânit”."
+    "author": "Talmudul Babilonian, Ievamot, cap. 6",
+    "text": "În școala lui Rabbi Yișmaʿel s-a învățat: Mare este pacea, căci chiar Sfântul, binecuvântat fie El, a schimbat pentru ea; căci la început este scris: „Și soțul meu este bătrân”, iar la sfârșit este scris: „deși am îmbătrânit”.",
+    "src": {
+     "slug": "talmud-yevamot",
+     "spec": {
+      "num": 6,
+      "v": 9
+     }
+    }
    }
   ]
  },
@@ -2374,8 +2381,15 @@ window.CHAPTER_DATA = [
     "text": "«Domnul i-a spus.» Îngerul se numește cu numele stăpânului său; și la fel în lucrul lui Ghedeon: „Și Domnul i-a spus: «Căci Eu voi fi cu tine»”.<br><br>«Să fie adevărat» (ha-af omnam): oare cu adevărat va fi această minune, că voi naște, deși am îmbătrânit? Și deși nu a răspuns cu acele cuvinte sau vorbe pe care le-a spus ea, a răspuns lucrul pe care ea a gândit să-l spună; căci Scriptura păstrează sensurile și nu păstrează cuvintele. Și nu a avut grijă să răspundă „și soțul meu este bătrân”, căci minunea cea mare va fi la ea, căci bătrâna nu naște după ce i-a încetat sângele, dar sunt bătrâni care nasc."
    },
    {
-    "author": "Talmudul Babilonian, Ievamot 65b:9",
-    "text": "În școala lui Rabbi Yișmaʿel s-a învățat: Mare este pacea, căci chiar Sfântul, binecuvântat fie El, a schimbat pentru ea; căci la început este scris: „Și soțul meu este bătrân”, iar la sfârșit este scris: „deși am îmbătrânit”."
+    "author": "Talmudul Babilonian, Ievamot, cap. 6",
+    "text": "În școala lui Rabbi Yișmaʿel s-a învățat: Mare este pacea, căci chiar Sfântul, binecuvântat fie El, a schimbat pentru ea; căci la început este scris: „Și soțul meu este bătrân”, iar la sfârșit este scris: „deși am îmbătrânit”.",
+    "src": {
+     "slug": "talmud-yevamot",
+     "spec": {
+      "num": 6,
+      "v": 9
+     }
+    }
    },
    {
     "author": "Cartea Jubileelor 16 — context/comparație",
@@ -2559,8 +2573,15 @@ window.CHAPTER_DATA = [
     "text": "«Este oare vreun lucru prea minunat?» Lucrurile ciudate sunt minunate în ochii oamenilor, și este minunat și ascuns de ei cum poate să fie; dar pentru Domnul nu este nimic minunat, căci orice lucru poate face cu cele create și poate întoarce firea când voiește, căci nimic nu este prea minunat pentru El."
    },
    {
-    "author": "Talmudul Babilonian, Roș Hașana 11a:13",
-    "text": "„La Pesaḥ s-a născut Isaac” — de unde știm? Cum este scris: „La soroc mă voi întoarce la tine”. În ce vreme era? Dacă vei spune la Pesaḥ și i-a spus despre ʿAțeret — în cincizeci de zile oare naște? Ci că era la ʿAțeret și i-a spus despre Tișri — tot, în cinci luni oare naște? Ci că era la Sărbătoare și i-a spus despre Nisan."
+    "author": "Talmudul Babilonian, Roș Hașana, cap. 1",
+    "text": "„La Pesaḥ s-a născut Isaac” — de unde știm? Cum este scris: „La soroc mă voi întoarce la tine”. În ce vreme era? Dacă vei spune la Pesaḥ și i-a spus despre ʿAțeret — în cincizeci de zile oare naște? Ci că era la ʿAțeret și i-a spus despre Tișri — tot, în cinci luni oare naște? Ci că era la Sărbătoare și i-a spus despre Nisan.",
+    "src": {
+     "slug": "talmud-rosh-hashanah",
+     "spec": {
+      "num": 1,
+      "v": 13
+     }
+    }
    }
   ]
  },
@@ -2978,8 +2999,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Domnul a spus»: Dumnezeu, care i Se arătase la început, ca să-i facă cunoscut lucrul Sodomei; i-a făcut cunoscut, după ce i-a arătat lucrul îngerilor, în aceeași viziune, lucrul Sodomei."
    },
    {
-    "author": "Talmudul Babilonian, Ioma 38b:7",
-    "text": "I-a spus Ravina unuia dintre rabini, care rânduia aggada înaintea lui: De unde este acest lucru pe care l-au spus rabinii: „pomenirea celui drept, spre binecuvântare”? I-a spus: Căci este scris: „Pomenirea celui drept este spre binecuvântare.” Din Tora, de unde știm? Căci este scris: „Și Domnul a spus: Să ascund Eu oare de Avraam ce sunt pe cale să fac?”, și este scris: „Iar Avraam va fi negreșit un neam mare și puternic.”"
+    "author": "Talmudul Babilonian, Ioma, cap. 3",
+    "text": "I-a spus Ravina unuia dintre rabini, care rânduia aggada înaintea lui: De unde este acest lucru pe care l-au spus rabinii: „pomenirea celui drept, spre binecuvântare”? I-a spus: Căci este scris: „Pomenirea celui drept este spre binecuvântare.” Din Tora, de unde știm? Căci este scris: „Și Domnul a spus: Să ascund Eu oare de Avraam ce sunt pe cale să fac?”, și este scris: „Iar Avraam va fi negreșit un neam mare și puternic.”",
+    "src": {
+     "slug": "talmud-yoma",
+     "spec": {
+      "num": 3,
+      "v": 7
+     }
+    }
    },
    {
     "author": "Zohar, Pekudei 51:66",
@@ -3155,8 +3183,15 @@ window.CHAPTER_DATA = [
     "text": "Și a spus motivul pentru care i l-a făcut cunoscut; căci a spus: „Să ascund Eu oare de Avraam ...”, și cum este cu putință să-i ascund aceasta? Și iată, «va fi negreșit un neam mare și puternic», și cea mai mare parte a lumii se va așeza din sămânța lui; și cum să ascund de el ceea ce fac Eu în lume? Și încă: «și în el vor fi binecuvântate toate neamurile pământului»; și de vreme ce în meritul lui stau ele, iată, el este temelia lumii, și este drept să i-l fac cunoscut. Și încă: căci l-am cunoscut că se teme de Mine și Mă iubește, și știu că fiii lui vor fi ca el; și i-l fac cunoscut pentru ca să le poruncească fiilor lui să păstreze calea Domnului, spre a face dreptate și judecată; căci le va spune: „Păstrați calea Domnului, și vă va fi bine; iar dacă nu veți păstra, va face cu voi dimpotrivă; și tot ce a vorbit despre mine, să facă bine mie și seminței mele după mine, nu va face dacă nu veți păstra calea Lui. Și poate veți spune: «A fost o întâmplare», cum vedem locuri care se scufundă din pricina cutremurului; iată, El mi-a spus înainte de a-i distruge că va distruge Sodoma și Gomora din pricina faptelor lor rele.”"
    },
    {
-    "author": "Talmudul Babilonian, Ioma 38b:7",
-    "text": "I-a spus Ravina unuia dintre rabini, care rânduia aggada înaintea lui: De unde este acest lucru pe care l-au spus rabinii: „pomenirea celui drept, spre binecuvântare”? I-a spus: Căci este scris: „Pomenirea celui drept este spre binecuvântare.” Din Tora, de unde știm? Căci este scris: „Și Domnul a spus: Să ascund Eu oare de Avraam ce sunt pe cale să fac?”, și este scris: „Iar Avraam va fi negreșit un neam mare și puternic.”"
+    "author": "Talmudul Babilonian, Ioma, cap. 3",
+    "text": "I-a spus Ravina unuia dintre rabini, care rânduia aggada înaintea lui: De unde este acest lucru pe care l-au spus rabinii: „pomenirea celui drept, spre binecuvântare”? I-a spus: Căci este scris: „Pomenirea celui drept este spre binecuvântare.” Din Tora, de unde știm? Căci este scris: „Și Domnul a spus: Să ascund Eu oare de Avraam ce sunt pe cale să fac?”, și este scris: „Iar Avraam va fi negreșit un neam mare și puternic.”",
+    "src": {
+     "slug": "talmud-yoma",
+     "spec": {
+      "num": 3,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -3379,8 +3414,15 @@ window.CHAPTER_DATA = [
     "text": "Și a spus «și casei sale» după ce a spus «copiilor săi»: vrea să spună cei din casa lui care nu sunt fiii lui; ca să facă cunoscut că omul este dator să-i călăuzească pe cei din casa lui, deși nu sunt fiii lui, pe calea dreaptă, și să-i silească la aceasta, de vreme ce sunt cei din casa lui și slujitorii lui; cum a spus regele David: „Ochii mei sunt asupra celor credincioși ai țării, ca să locuiască cu mine; cel care umblă pe calea desăvârșită, acela îmi va sluji; nu va locui înăuntrul casei mele cel care face înșelăciune”; și s-a spus despre cel rău: „Un stăpânitor care ascultă la vorba mincinoasă – toți slujitorii lui sunt răi”.<br><br>«Asupra lui Avraam»: vrea să spună, și asupra seminței lui după el."
    },
    {
-    "author": "Talmudul Babilonian, Ioma 38b:10",
-    "text": "Rabbi Elʿazar: Din binecuvântarea celor drepți înveți blestem pentru cei răi, și din blestemul celor răi înveți binecuvântare pentru cei drepți. Din binecuvântarea celor drepți înveți blestem pentru cei răi, căci este scris: „Căci l-am cunoscut că va porunci” și celelalte, și este scris după el: „Și Domnul a spus: Strigătul Sodomei și Gomorei este mare.”"
+    "author": "Talmudul Babilonian, Ioma, cap. 3",
+    "text": "Rabbi Elʿazar: Din binecuvântarea celor drepți înveți blestem pentru cei răi, și din blestemul celor răi înveți binecuvântare pentru cei drepți. Din binecuvântarea celor drepți înveți blestem pentru cei răi, căci este scris: „Căci l-am cunoscut că va porunci” și celelalte, și este scris după el: „Și Domnul a spus: Strigătul Sodomei și Gomorei este mare.”",
+    "src": {
+     "slug": "talmud-yoma",
+     "spec": {
+      "num": 3,
+      "v": 10
+     }
+    }
    },
    {
     "author": "Zohar, Haiei Sara 8:5",
@@ -3573,8 +3615,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Domnul a spus: „Strigătul Sodomei...”»: vrea să spună: am venit să-ți fac cunoscut strigătul Sodomei și Gomorei, căci este mare; și la fel celelalte ale țării celor cinci regi, căci toată se stricase prin păcatele ei; și ea este cuprinsă în țara câmpiei, pe care a pomenit-o mai jos; și la fel a spus Moise, învățătorul nostru: „Sodomei și Gomorei, al Adma și Țeboimului”; și la fel a spus profetul: „Cum să te dau ca Adma, să te fac ca Țeboimul?”. Dar a pomenit Sodoma și Gomora, căci ele sunt capetele acestor regate, iar Sodoma era mama tuturor, cum a spus în Ezechiel: „Sodoma și fiicele ei”.<br><br>Și a explicat «strigătul»: că strigau cei asupriți, fie dintre ei, fie din alte țări, care veneau sau treceau pe acolo, strigau „Silnicie!”, din pricina mulțimii celor asupriți. Și deși făceau alte urâciuni, osânda lor nu a fost pecetluită decât pentru silnicie; căci Dumnezeu nu suferă silnicia (decât) pentru multă vreme, căci ea este pierzarea așezării lumii, cum am văzut de asemenea la oamenii generației potopului.<br><br>«Și păcatul lor», ca silnicia; adică, căci strigătul lor nu este ca silnicia. «Căci păcatul lor este foarte greu»: „mâna celui sărac și a celui nevoiaș nu a întărit-o”; aceasta, pe care o spune în profeția lui Ezechiel, este cuprinsă în strigăt; căci săracii sunt cei care strigă, și flămânzesc, și nu este cine să le frângă pâinea."
    },
    {
-    "author": "Talmudul Babilonian, Ioma 38b:10",
-    "text": "Rabbi Elʿazar: Din binecuvântarea celor drepți înveți blestem pentru cei răi, și din blestemul celor răi înveți binecuvântare pentru cei drepți. Din binecuvântarea celor drepți înveți blestem pentru cei răi, căci este scris: „Căci l-am cunoscut că va porunci” și celelalte, și este scris după el: „Și Domnul a spus: Strigătul Sodomei și Gomorei este mare.”"
+    "author": "Talmudul Babilonian, Ioma, cap. 3",
+    "text": "Rabbi Elʿazar: Din binecuvântarea celor drepți înveți blestem pentru cei răi, și din blestemul celor răi înveți binecuvântare pentru cei drepți. Din binecuvântarea celor drepți înveți blestem pentru cei răi, căci este scris: „Căci l-am cunoscut că va porunci” și celelalte, și este scris după el: „Și Domnul a spus: Strigătul Sodomei și Gomorei este mare.”",
+    "src": {
+     "slug": "talmud-yoma",
+     "spec": {
+      "num": 3,
+      "v": 10
+     }
+    }
    }
   ]
  },

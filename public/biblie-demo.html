@@ -4362,7 +4362,7 @@ function renderVerseSheetTabs(verse){
   const aneAndHistorians = allComments.filter(c => isAneOrHistorian(c.author));
 
   // Țintă „Citește pasajul": lucrarea din Bibliotecă și locul exact (null dacă lucrarea nu e încă disponibilă)
-  const srcOf = (label) => (typeof window.libResolveSource === "function") ? window.libResolveSource(label, currentBookSlug, currentChapter, verse.num) : null;
+  const srcOf = (label, row) => (typeof window.libResolveSource === "function") ? window.libResolveSource(label, currentBookSlug, currentChapter, verse.num, row && row.src) : null;
 
   function wordPreview(plainText, wordLimit){
     const words = plainText.trim().split(/\s+/);
@@ -4422,7 +4422,7 @@ function renderVerseSheetTabs(verse){
     contentEl.innerHTML = "";
     if(vsActiveTab === "comentarii"){
       if(realComments.length){
-        realComments.forEach(c => appendCommentRow(contentEl, c.author, c.text, null, null, srcOf(c.author)));
+        realComments.forEach(c => appendCommentRow(contentEl, c.author, c.text, null, null, srcOf(c.author, c)));
       } else {
         contentEl.innerHTML = "";
       }
@@ -4465,7 +4465,7 @@ function renderVerseSheetTabs(verse){
         label.style.margin = "16px 0 4px";
         label.textContent = "Context istoric, Josephus și apocrife";
         contentEl.appendChild(label);
-        aneAndHistorians.forEach(c => appendCommentRow(contentEl, c.author, c.text, null, null, srcOf(c.author)));
+        aneAndHistorians.forEach(c => appendCommentRow(contentEl, c.author, c.text, null, null, srcOf(c.author, c)));
       }
       if(!hasAny){
         contentEl.innerHTML = "";
@@ -7072,7 +7072,9 @@ const SUBFOLDER_CARD_IMAGES = {
     [/^Apocalipsa lui Moise (\d+)/, "apocalipsa-moise"], [/^Apocalipsa lui Avraam (\d+)/, "apocalipsa-avraam"]
   ];
   // Întoarce { slug, spec } sau null. Lucrările încă nedisponibile (ex. Talmud) nu primesc buton.
-  window.libResolveSource = function(label, bookSlug, chNum, vNum){
+  window.libResolveSource = function(label, bookSlug, chNum, vNum, rowSrc){
+    // rând cu țintă ascunsă (ex. Talmud: eticheta arată „cap. 9”, ținta exactă e în câmpul src)
+    if(rowSrc && rowSrc.slug){ const bk = findLibraryBookBySlug(rowSrc.slug); return (bk && bk.available !== false) ? { slug: rowSrc.slug, spec: rowSrc.spec } : null; }
     label = String(label || "");
     let m, slug = null, spec = null;
     if(bookSlug === "genesis"){
@@ -9311,7 +9313,7 @@ document.addEventListener("visibilitychange", () => { if(document.visibilityStat
 srReset(); // și la pornire, ca să nu rămână textul restaurat de browser
 searchInput.addEventListener("input", () => {
   clearTimeout(srTimer);
-  srTimer = setTimeout(runSearch, 500);
+  srTimer = setTimeout(runSearch, 100);
 });
 
 // Setări — buton spre panoul "despre"

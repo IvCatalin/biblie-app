@@ -383,8 +383,15 @@ window.CHAPTER_DATA = [
     "text": "«Aceștia sunt fiii lui Seir horitul, locuitorii țării»: care fuseseră locuitorii țării de la început, înainte să vină fiii lui Esau și urmașii lui. Iar această povestire a fost ca să facă cunoscut că a Domnului este pământul și tot ce-l umple: îl ia de la unul și îl dă altuia; căci aceștia fuseseră locuitorii țării de la început, iar Dumnezeu i-a izgonit dinaintea lui Esau și a fiilor lui. Iar în midraș: „horitul” – căci miroseau pământul; „locuitorii țării” – căci erau pricepuți în pământ și spuneau: această trestie plină este pentru măslin, această trestie plină este pentru viță."
    },
    {
-    "author": "Talmudul Babilonian, Pesahim 54a:15",
-    "text": "Tâlcuitorii celor grele spuneau: Ana era nelegitim (sau „cu meteahnă”), de aceea a adus pe lume ceva nelegitim (sau „cu meteahnă”); căci s-a spus: „Aceștia sunt fiii lui Seir horitul”, și este scris: „Și aceștia sunt fiii lui Țibeon: Aia și Ana”; ci aceasta învață că Țibeon a intrat la mama lui și a născut din ea pe Ana."
+    "author": "Talmudul Babilonian, Pesahim, cap. 4",
+    "text": "Tâlcuitorii celor grele spuneau: Ana era nelegitim (sau „cu meteahnă”), de aceea a adus pe lume ceva nelegitim (sau „cu meteahnă”); căci s-a spus: „Aceștia sunt fiii lui Seir horitul”, și este scris: „Și aceștia sunt fiii lui Țibeon: Aia și Ana”; ci aceasta învață că Țibeon a intrat la mama lui și a născut din ea pe Ana.",
+    "src": {
+     "slug": "talmud-pesachim",
+     "spec": {
+      "num": 4,
+      "v": 15
+     }
+    }
    }
   ]
  },
@@ -461,8 +468,15 @@ window.CHAPTER_DATA = [
     "text": "«Aia și Ana» (we-ʾAyya wa-ʿAna): vav-ul din we-ʾAyya este de prisos, și este vav-ul care se găsește în Scriptură la începutul cuvintelor, ca „și Avraam și-a ridicat ochii”, „a fost cufundat în somn și carul și calul” și multe ca ele. Iar domnul, tatăl meu, binecuvântată fie amintirea lui, a scris că aceste vav-uri nu sunt de prisos, ci arată un cuvânt lipsă, ca vav-ul din „și Avraam și-a ridicat ochii”, adică: s-a sculat devreme în a treia zi și și-a ridicat ochii. Iar explicația lui „și Aia și Ana”: căci avea alți fii înaintea acestora și nu i-a pomenit, poate nu au avut urmași. Iar acest Ana este un alt Ana, nu cel pomenit mai sus, căci acela era fiul lui Seir, iar acesta fiul lui Țibeon. Iar părerea învățătorilor noștri, binecuvântată fie amintirea lor, este că el era același Ana pomenit; și a obiectat cel care obiectează: dar poate au fost doi Ana? Și a răspuns cel care răspunde: este Ana de la început; și au spus că Țibeon a venit la mama lui și a născut din ea pe Ana; și au spus: Ana era nevrednic și a adus vietăți nevrednice. Iar pe calea sensului simplu, a spus „el este acel Ana” cel cunoscut.<br><br>«Care a descoperit catârii» (ha-yemim): l-au explicat „catâri”; și aceasta este ce a spus „pe când păștea măgarii”: a găsit în mintea lui să împerecheze măgarul cu iapa, ca să vadă ce va ieși din ei, și a ieșit din ei un catâr; sau a împerecheat calul cu măgărița, căci din cele două specii iese catâr sau catâriță. Și au spus învățătorii noștri, binecuvântată fie amintirea lor: oricare are urechile mici, mama lui este iapă și tatăl lui măgar, și oricare are urechile mari, mama lui este măgăriță și tatăl lui cal. Și aceasta a făcut-o împotriva voii lui Dumnezeu, căci Dumnezeu, binecuvântat fie El, a creat făpturile și plantele fiecare după soiul lui; de aceea a oprit amestecurile (kilʾayim). Iar în Bereșit Rabba s-a învățat: focul și amestecurile nu au fost create în cele șase zile ale Creației. Amestecurile, când au fost create? În zilele lui Ana. Focul – pentru cine? Levi a spus: treizeci și șase de ore a slujit lumina aceea: douăsprezece din ajunul Șabatului, în care a fost creat Adam; și când a apus soarele în ajunul Șabatului, Cel Sfânt, binecuvântat fie El, a vrut s-o ascundă și a dat cinste Șabatului; și douăzeci și patru ale Șabatului și douăsprezece ale ajunului Șabatului – iată treizeci și șase. Când a apus soarele la ieșirea Șabatului, Adam cel dintâi a spus: lumea se întunecă în jurul meu; și Cel Sfânt, binecuvântat fie El, i-a pregătit două cărămizi, să le lovească una de alta, și a ieșit din ele foc; și Adam a binecuvântat asupra lui: „și noaptea este lumină în jurul meu”. Aceasta vine după Rabbi Șemuel, care a spus: de ce se binecuvântează asupra focului la ieșirea Șabatului? Pentru că este începutul creării lui. Rabbi Abbahu în numele lui Rabbi Yoḥanan a spus: și la ieșirea Zilei Ispășirii se binecuvântează, pentru că focul s-a odihnit toată acea zi.<br><br>Iar ceea ce a spus „pe când păștea măgarii”: păștea și cai, dar cea mai mare parte a turmei lui erau măgarii; de aceea i-a pomenit. Iar Onkelos, care a tradus ha-yemim gibbaraya („uriașii”), nu i-am cunoscut părerea. Și a pomenit aceste căpetenii ale lui Seir ca să facă cunoscut că, din dragoste pentru Isaac, i-a dat lui Esau moștenirea acestor căpetenii, fiii lui Seir."
    },
    {
-    "author": "Talmudul Babilonian, Pesahim 54a:15",
-    "text": "Tâlcuitorii celor grele spuneau: Ana era nelegitim (sau „cu meteahnă”), de aceea a adus pe lume ceva nelegitim (sau „cu meteahnă”); căci s-a spus: „Aceștia sunt fiii lui Seir horitul”, și este scris: „Și aceștia sunt fiii lui Țibeon: Aia și Ana”; ci aceasta învață că Țibeon a intrat la mama lui și a născut din ea pe Ana."
+    "author": "Talmudul Babilonian, Pesahim, cap. 4",
+    "text": "Tâlcuitorii celor grele spuneau: Ana era nelegitim (sau „cu meteahnă”), de aceea a adus pe lume ceva nelegitim (sau „cu meteahnă”); căci s-a spus: „Aceștia sunt fiii lui Seir horitul”, și este scris: „Și aceștia sunt fiii lui Țibeon: Aia și Ana”; ci aceasta învață că Țibeon a intrat la mama lui și a născut din ea pe Ana.",
+    "src": {
+     "slug": "talmud-pesachim",
+     "spec": {
+      "num": 4,
+      "v": 15
+     }
+    }
    }
   ]
  },

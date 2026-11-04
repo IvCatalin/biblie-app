@@ -70,8 +70,15 @@ window.CHAPTER_DATA = [
   "refs": [],
   "commentaries": [
    {
-    "author": "Talmudul Babilonian, Sanhedrin 38b:14",
-    "text": "A spus Rabbi Yoḥanan: Oriunde minii s-au dedat la erezie, răspunsul lor este alături de ei: „Să facem om în imaginea noastră”, și spune: „Și a creat Dumnezeu pe om în imaginea Sa”; „Hai să coborâm și să le încurcăm acolo limba”, „Și Domnul a coborât să vadă orașul și turnul”; „căci acolo i Se dezvăluise Dumnezeu”, „lui Dumnezeu, care mi-a răspuns în ziua restriștii mele”."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 4",
+    "text": "A spus Rabbi Yoḥanan: Oriunde minii s-au dedat la erezie, răspunsul lor este alături de ei: „Să facem om în imaginea noastră”, și spune: „Și a creat Dumnezeu pe om în imaginea Sa”; „Hai să coborâm și să le încurcăm acolo limba”, „Și Domnul a coborât să vadă orașul și turnul”; „căci acolo i Se dezvăluise Dumnezeu”, „lui Dumnezeu, care mi-a răspuns în ziua restriștii mele”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 4,
+      "v": 14
+     }
+    }
    }
   ]
  },
@@ -178,8 +185,15 @@ window.CHAPTER_DATA = [
     "text": "«Și a construit acolo un altar»: explicația: în casa pe care a construit-o acolo, în locul stelei, cum a spus „va fi”, și cum am explicat, deși nu a pomenit casa.<br><br>«Și a numit locul El-Betel»: îl numise deja Betel, iar acum i-a adăugat El, cum am explicat la El-Elohei-Israel.<br><br>«Căci acolo i Se dezvăluise Dumnezeu» (niglu ʾelav ha-ʾelohim): îngerii pe care i-a văzut pe scară; sau explicația lui ha-ʾelohim este despre Dumnezeu, binecuvântat fie El, și a spus niglu („s-au dezvăluit”) la plural, pe calea cinstirii, cum a spus „să se bucure Israel de Făcătorii lui”, „unde este Dumnezeu, Făcătorii mei” și cele asemenea lor."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 38b:14",
-    "text": "A spus Rabbi Yoḥanan: Oriunde minii s-au dedat la erezie, răspunsul lor este alături de ei: „Să facem om în imaginea noastră”, și spune: „Și a creat Dumnezeu pe om în imaginea Sa”; „Hai să coborâm și să le încurcăm acolo limba”, „Și Domnul a coborât să vadă orașul și turnul”; „căci acolo i Se dezvăluise Dumnezeu”, „lui Dumnezeu, care mi-a răspuns în ziua restriștii mele”."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 4",
+    "text": "A spus Rabbi Yoḥanan: Oriunde minii s-au dedat la erezie, răspunsul lor este alături de ei: „Să facem om în imaginea noastră”, și spune: „Și a creat Dumnezeu pe om în imaginea Sa”; „Hai să coborâm și să le încurcăm acolo limba”, „Și Domnul a coborât să vadă orașul și turnul”; „căci acolo i Se dezvăluise Dumnezeu”, „lui Dumnezeu, care mi-a răspuns în ziua restriștii mele”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 4,
+      "v": 14
+     }
+    }
    }
   ]
  },
@@ -302,8 +316,15 @@ window.CHAPTER_DATA = [
     "text": "«Dumnezeul Atotputernic» (El Šadday): tare, biruitor al nașterilor, cum am explicat la Avraam; căci cele trei mame au fost sterpe, iar El Šadday a biruit nașterile și au născut.<br><br>«Fii roditor și înmulțește-te»: vei rodi și te vei înmulți; și a spus-o despre sămânța lui, cum i-a spus lui Avraam „te voi face foarte roditor”, căci a spus-o despre sămânța lui; dar părinții sunt cei principali, și toate nașterile, până la sfârșit, sunt fiii părinților dintâi; căci Iacov nu a mai avut alt fiu după această vedenie, căci de Beniamin, care s-a născut, mama lui era deja însărcinată.<br><br>«Un neam și o congregație de neamuri»: toți vor fi un singur neam deosebit, cum a spus: „și cine este ca poporul Tău, Israel, un neam unic pe pământ”; iar acest neam va fi o congregație de neamuri, căci vor fi douăsprezece seminții, cu acest fiu care ți se va naște acum. Și toată binecuvântarea cu care l-a binecuvântat pe Avraam l-a binecuvântat pe Iacov, căci el era sămânța aleasă a lui Avraam. Iar în Bereșit Rabba explică versetul despre fiii Rahelei: „neam” – acesta este Beniamin; „și o congregație de neamuri” – aceștia sunt Manase și Efraim; „și regi” – aceștia sunt Saul și Iș-Boșet. Este oare cu putință ca Abner, un om drept, să se fi împotrivit domniei lui David? Ci a tâlcuit un midraș și l-a făcut rege pe Iș-Boșet."
    },
    {
-    "author": "Talmudul Babilonian, Ievamot 65b:5",
-    "text": "Dimpotrivă, „și supuneți-l” înseamnă doi! A spus Rav Naḥman bar Yițḥaq: „Și supune-l” este scris. Rav Yosef a spus: De aici: „Eu sunt Dumnezeul Atotputernic. Fii roditor și înmulțește-te!” — și nu spune „fiți roditori și înmulțiți-vă”."
+    "author": "Talmudul Babilonian, Ievamot, cap. 6",
+    "text": "Dimpotrivă, „și supuneți-l” înseamnă doi! A spus Rav Naḥman bar Yițḥaq: „Și supune-l” este scris. Rav Yosef a spus: De aici: „Eu sunt Dumnezeul Atotputernic. Fii roditor și înmulțește-te!” — și nu spune „fiți roditori și înmulțiți-vă”.",
+    "src": {
+     "slug": "talmud-yevamot",
+     "spec": {
+      "num": 6,
+      "v": 5
+     }
+    }
    }
   ]
  },

@@ -26,8 +26,15 @@ window.CHAPTER_DATA = [
     "text": "«Iacov a pornit iarăși la drum» (wa-yiśśa Yaʿaqov raglaw): de vreme ce Dumnezeu îi făgăduise și îi arătase această vedenie mare, s-a bucurat și și-a ridicat picioarele cu ușurință și a mers bucuros și cu inima bună; căci la început mergea cu picioare slăbite, ca un om care fuge trist din casa tatălui său; dar nu fugea în grabă, ca unul care fuge de sabie, căci nu se temea de sabia fratelui său cât timp tatăl său era în viață.<br><br>«Și a mers către țara răsăritenilor»: căci țara este la răsărit de Țara lui Israel, iar orașul de lângă hotarul țării Canaan este Haran, cum am scris; dar a spus pe scurt „către țara răsăritenilor”, că a ieșit din țara Canaan spre țara răsăritenilor; și fiind aproape de Haran, a văzut o fântână pe câmp."
    },
    {
-    "author": "Talmudul Babilonian, Megila 10b:10",
-    "text": "Dar iată, este scris: „Și a fost în anul optzeci și patru sute”! Și iată, este scris: „Și a fost – când a văzut-o Iacov pe Rahela”! Și iată, este scris: „Și a fost seară și a fost dimineață: o zi”! Și iată, este a doua, și iată, este a treia, și iată, sunt multe!"
+    "author": "Talmudul Babilonian, Megila, cap. 1",
+    "text": "Dar iată, este scris: „Și a fost în anul optzeci și patru sute”! Și iată, este scris: „Și a fost – când a văzut-o Iacov pe Rahela”! Și iată, este scris: „Și a fost seară și a fost dimineață: o zi”! Și iată, este a doua, și iată, este a treia, și iată, sunt multe!",
+    "src": {
+     "slug": "talmud-megillah",
+     "spec": {
+      "num": 1,
+      "v": 26
+     }
+    }
    }
   ]
  },
@@ -250,8 +257,15 @@ window.CHAPTER_DATA = [
     "text": "«Și a rostogolit piatra»: împreună cu cei trei păstori care erau acolo, sau el singur; și aceasta i-a venit din binecuvântarea lui Dumnezeu, care i-a dat putere în plus."
    },
    {
-    "author": "Talmudul Babilonian, Megila 10b:10",
-    "text": "Dar iată, este scris: „Și a fost în anul optzeci și patru sute”! Și iată, este scris: „Și a fost – când a văzut-o Iacov pe Rahela”! Și iată, este scris: „Și a fost seară și a fost dimineață: o zi”! Și iată, este a doua, și iată, este a treia, și iată, sunt multe!"
+    "author": "Talmudul Babilonian, Megila, cap. 1",
+    "text": "Dar iată, este scris: „Și a fost în anul optzeci și patru sute”! Și iată, este scris: „Și a fost – când a văzut-o Iacov pe Rahela”! Și iată, este scris: „Și a fost seară și a fost dimineață: o zi”! Și iată, este a doua, și iată, este a treia, și iată, sunt multe!",
+    "src": {
+     "slug": "talmud-megillah",
+     "spec": {
+      "num": 1,
+      "v": 26
+     }
+    }
    }
   ]
  },

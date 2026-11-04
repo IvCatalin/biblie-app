@@ -182,8 +182,15 @@ window.CHAPTER_DATA = [
     "text": "«Și a fost, după aceste lucruri»: după un timp în care Iosif era mare și cinstit în casa egipteanului și ședea în siguranță, a ajuns la el lucrul cu soția lui Potifar; și totul a fost o pricinuire spre binele lui și spre binele tatălui și al fraților lui; și deși a fost greu la început, a fost spre bine la sfârșit; și la fel păcatul paharnicului și visul lui Faraon – totul a fost o pricinuire de la Dumnezeu, binecuvântat fie El, ca prin aceasta să se ridice Iosif la mărire. Și această povestire a fost scrisă ca să facă cunoscută pricina lucrurilor, și dacă i se întâmplă omului vreo întâmplare, să se încreadă în Dumnezeu. Și a fost scrisă de asemenea ca să facă cunoscută dreptatea lui Iosif, și ca omul să învețe de la el să-și stăpânească înclinația și să păstreze credința față de cel care se încrede în el, oricine ar fi, și să nu-l înșele."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 3a:8",
-    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -206,8 +213,15 @@ window.CHAPTER_DATA = [
     "text": "«El a refuzat»: este lămurit."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 3a:8",
-    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -242,8 +256,15 @@ window.CHAPTER_DATA = [
     "text": "«Nu este nimeni mai mare în casa aceasta decât mine»: cine este mai mare decât mine? Și cum să-l înșel, când el mi-a făcut toată cinstea aceasta?<br><br>«În afară de tine, căci tu ești soția lui»: iar aceasta sprijină cuvintele midrașului pe care le-am scris. Sau se poate să-l fi oprit lămurit și să-l fi avertizat cu privire la soția lui, pentru că era frumos la înfățișare și frumos la privit.<br><br>«Cum pot să fac oare această mare ticăloșie»: să mă culc cu soția lui și să-l înșel; și pe deasupra, că aș păcătui prin aceasta față de Dumnezeu, care le-a poruncit oamenilor despre legăturile oprite, cum am scris în pericopa Bereșit: „și se va alipi de femeia lui”, și nu de femeia semenului său."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 3a:8",
-    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -278,8 +299,15 @@ window.CHAPTER_DATA = [
     "text": "«Să se culce cu ea, să fie cu ea» (liškav eṣlah lihyot ʿimmah): nici măcar să se culce lângă ea în pat, fără apropiere trupească, nu a ascultat-o. Iar în midraș: „să se culce cu ea” în lumea aceasta, „să fie cu ea” în lumea ce va să vină."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 5a:5",
-    "text": "Rabbi Elʿazar spune: Este legat de el ca un câine, căci s-a spus: „iar el nu o asculta să se culce cu ea, să fie cu ea” — să se culce cu ea în lumea aceasta, să fie cu ea în lumea ce va veni."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Rabbi Elʿazar spune: Este legat de el ca un câine, căci s-a spus: „iar el nu o asculta să se culce cu ea, să fie cu ea” — să se culce cu ea în lumea aceasta, să fie cu ea în lumea ce va veni.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 18
+     }
+    }
    }
   ]
  },
@@ -310,8 +338,15 @@ window.CHAPTER_DATA = [
     "text": "«Și a fost în acea zi» (ke-ha-yom ha-zeh): într-o zi ca aceasta, în care a stăruit foarte mult pe lângă el să se culce lângă ea, iar casa era goală de oamenii ei.<br><br>«Să-și facă treaba»: să cerceteze treburile casei, care erau puse asupra lui, și cum a tradus Onkelos."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 3a:8",
-    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -338,8 +373,15 @@ window.CHAPTER_DATA = [
     "text": "«Și ea l-a prins de haină.» Midraș: dacă n-ar fi fost scris despre femeie „inima ei e o cursă, mâinile ei sunt lanțuri”, ar fi prins un om în piață; căci chiar despre cele mai cuviincioase dintre neamuri este scris aici: „Și ea l-a prins de haină, spunând: Culcă-te cu mine!” Și douăsprezece luni l-a ispitit, căci s-a spus: „ea îi vorbea lui Iosif în fiecare zi (yom yom)”, iar yom yom nu este decât douăsprezece luni, căci s-a spus: „din zi în zi și din lună în lună, a douăsprezecea”. Și când venea ea să vorbească, el își pleca capul și își apleca fața spre pământ; iar ea i-a făcut un lucru de fier sub barbă, ca să nu se poată pleca, căci s-a spus: „i-au chinuit picioarele în lanțuri, sufletul lui a intrat în fier”. I-a spus: de ce nu mă asculți? Oare nu sunt o femeie măritată, și nimeni nu știe de noi? I-a spus: chiar și cele nemăritate de-ale voastre ne sunt interzise, cu atât mai mult cele măritate. O pildă: un închinător la idoli care i-a spus unui israelit: vino să mănânci cu mine, și te voi hrăni bine cu carne grasă de porc. I-a spus: neghiobule, chiar și carnea voastră înjunghiată ritual ne este interzisă, cu atât mai mult carnea de porc. Când a văzut așa, i-a spus: dacă nu mă asculți, iată, te voi închide în temniță. I-a spus: „Domnul dezleagă pe cei legați”. Iată, îți voi orbi ochii. I-a spus: „Domnul deschide ochii orbilor”. Iată, îți voi frânge statura. I-a spus: „Domnul îndreaptă pe cei încovoiați”. Iată, te voi face urât tuturor făpturilor. „Domnul iubește pe cei drepți.” Iată, te voi vinde într-o țară îndepărtată. „Domnul păzește pe străini.” Când a văzut așa, a zis să-l închidă în temniță; și dacă n-ar fi fost preoții care l-au judecat spre achitare, cum voi explica în pericopa Va-yiggaș, cu ajutorul lui Dumnezeu, l-ar fi judecat cu toate acestea.<br><br>«Și a fugit și a ieșit afară.» Sfântul, binecuvântat fie El, i-a spus: în meritul lui „și a fugit (va-yanos)”, pe viața ta, marea va fugi dinaintea sicriului tău. Aceasta este ce spune Scriptura: „Marea a văzut și a fugit”: ce a văzut? Sicriul lui Iosif."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 3a:8",
-    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 8
+     }
+    }
    }
   ]
  },

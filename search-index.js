@@ -122,7 +122,7 @@ function build(){
       if(groups.indexOf(g) === -1) groups.push(g);
       const label = chNum(ch, chIdx);
       const t = (ch.title || "").trim();
-      const chTitle = (t && t.length <= 36) ? t : "";
+      const chTitle = (t && t.length <= 36 && !/^Capitolul \d+$/.test(t)) ? t : "";
       // Josephus / Eusebiu: cititorul arată „I, cap. 15” (din titlu), nu numărul secvențial din fișier
       const structured = /^(josephus-(antichitati|razboiul)|eusebiu-istoria)/.test(book.slug) && t.indexOf(" — ") > 0
         ? t.slice(0, t.indexOf(" — ")).replace(/^Cartea\s+/, "") : "";
@@ -130,7 +130,7 @@ function build(){
         if(typeof v.t !== "string") return;
         const text = plain(v.t);
         if(!text) return;
-        const loc = structured ? structured + ":" + v.v : (/Foaia \d+[ab]$/.test(chTitle) ? chTitle + ":" : (chTitle ? chTitle + " " : "cap. " + label + ":")) + v.v;
+        const loc = structured ? structured + ":" + v.v : (chTitle ? chTitle + " " : "cap. " + label + ":") + v.v;
         let anchor = "";
         const pre = v.t.match(/^\(([^)]{3,40}\d+:\d+[^)]*)\)/);
         if(pre) anchor = pre[1];

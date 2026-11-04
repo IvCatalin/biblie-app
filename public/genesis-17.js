@@ -213,8 +213,15 @@ window.CHAPTER_DATA = [
     "text": "«Și a fost, când Avram avea nouăzeci și nouă de ani.» După încă treisprezece ani a amânat să-i poruncească circumcizia, ca să îmbătrânească mai mult și să ajungă la o sută, și minunea să fie mai mare, că va naște când va avea o sută; și ca să arate dragostea lui Avram față de Dumnezeu, să facă tot ce îi va porunci: căci i-a poruncit să-și circumcidă carnea prepuțului când era bătrân, de nouăzeci și nouă de ani, și puterea lui slăbise. Și i-a poruncit să se circumcidă înainte de nașterea lui Isaac, ca Isaac să fie dintr-o sămânță mai curată, prin porunca lui Dumnezeu, care a fost făcută în acel mădular; și ca să mărească minunea, căci circumcizia slăbește mădularul; și a fost minune peste minune: că a născut la o sută, și încă mădularul lui era mai slab decât fusese înainte de circumcizie.<br><br>«Eu sunt Dumnezeul Atotputernic» (El Šaddai). A explicat: tare, biruitor; și la fel spune: „ca vuietul apelor multe, ca glasul Celui Atotputernic, când mergeau”, „ca glasul Dumnezeului Atotputernic când vorbește”. I-a spus: deși soția ta este stearpă și bătrână și nu mai este în stare să nască, și chiar tu ești bătrân și puterea ta este slăbită, căci ai nouăzeci și nouă de ani, și deși vei slăbi încă puterea seminței, Eu biruiesc totul, căci Eu sunt El Šaddai, iar firea și nașterea sunt din mâna Mea, și în mâna Mea este să fac și să schimb după cum voiesc. Și la fel a spus: „M-am arătat lui Avraam... ca Dumnezeul Atotputernic”; căci toți trei aveau soții sterpe și au fost cercetate prin voia lui Dumnezeu, căci Dumnezeu a ascultat rugăciunea celor drepți și a schimbat firea soțiilor lor, și au născut. Iar Šaddai este adjectiv, care ar trebui, în forma lui completă, să fie šadedai, după tiparul „cel care mustră un om, după aceea”.<br><br>«Mergi înaintea Mea» (hithallekh lefanai). După Targumul lui: „slujește înaintea Mea”. A explicat: slujește-Mi cu slujirea pe care ți-o voi porunci; și la fel „înaintea Căruia au mers părinții mei”, „înaintea Căruia am mers”; sensul tuturor este slujirea lui Dumnezeu cu inima și cu fapta, iar rădăcina slujirii este în inimă. Și la fel a spus Ezechia: „cum am umblat înaintea Ta cu adevăr și cu inimă întreagă” – aceasta a spus-o despre slujirea inimii –, și după aceea a spus despre faptă: „și am făcut ce este bine în ochii Tăi”. Și acum Dumnezeu i-a poruncit lui Avram să-I mai adauge o slujire în trupul lui. Căci în inima lui era întreg, și la fel în faptă și în îndreptarea însușirilor și în tot ce îl învață mintea; dar această slujire a trupului pe care i-a poruncit-o, mintea nu o învăța, ci Dumnezeu a voit-o ca să-i fie semn între el și Dumnezeu, ca sămânța lui Avraam, cea avută în vedere, să fie un popor deosebit, și să aibă în carnea lor un semn deosebit. Și poate neamurile lumii nu fac această poruncă, căci nu le-a fost poruncită decât seminției deosebite a lui Avraam, și aceasta este Isaac și sămânța lui cea deosebită de asemenea, care este sămânța lui Iacov; de aceea Dumnezeu i-a poruncit-o înainte să-l nască pe Isaac și înainte să aibă sămânță. Iar cei din neamuri care intră în legământul lui Avraam și în Tora lui Dumnezeu, iată, sunt socotiți sămânța lui Avraam, și iată, sunt din numărul mulțimii de neamuri cărora Avraam le este tată.<br><br>«Și fii integru» (tamim): și prin aceasta vei fi întreg, că va fi un semn în carnea ta pentru Numele Meu, și va fi de asemenea încheierea unui legământ între Mine și tine; căci prin sânge este orice încheiere de legământ. Și i-a spus în mod nehotărât și nu i-a explicat legământul decât la sfârșit, când i-a spus: „Acesta este legământul Meu”; ci i-a spus lucruri pe care le-a înțeles la sfârșit, de ce le-a spus. Și a înțeles la sfârșit, din cuvântul tamim, două lucruri: unul, cum am explicat; iar al doilea, că i-a spus așa: deși îți va lipsi din carne prin acest legământ, nu vei fi lipsit din pricina aceasta, ci vei fi mai integru; căci nu-ți va lipsi un mădular din mădularele tale, ci numai puțină carne din mădular; și prin acea lipsă vei fi integru, ca lipsa să-ți fie semn între tine și Dumnezeu; iar dacă s-ar fi născut așa, nu s-ar recunoaște ca să fie semn; de aceea cel născut circumcis trebuie să i se scurgă o picătură de sânge a legământului, ca să se taie puțin din acea carne, pentru semn și pentru legământ."
    },
    {
-    "author": "Talmudul Babilonian, Hagiga 12a:15",
-    "text": "Și a spus Rav Yehudah, a spus Rav: În ceasul în care a creat Sfântul, binecuvântat fie El, lumea, ea se tot lărgea, ca două ghemuri de urzeală, până când a mustrat-o Sfântul, binecuvântat fie El, și a oprit-o, căci s-a spus: „Stâlpii cerurilor se clatină și se înspăimântă de mustrarea Lui”. Și aceasta este ce a spus Reiș Lakiș: Ce este ce este scris: „Eu sunt Dumnezeul Atotputernic”? Eu sunt Cel care a spus lumii: Destul! A spus Reiș Lakiș: În ceasul în care a creat Sfântul, binecuvântat fie El, marea, ea se tot lărgea, până când a mustrat-o Sfântul, binecuvântat fie El, și a uscat-o, căci s-a spus: „El mustră marea și o usucă, și toate râurile le seacă”."
+    "author": "Talmudul Babilonian, Hagiga, cap. 2",
+    "text": "Și a spus Rav Yehudah, a spus Rav: În ceasul în care a creat Sfântul, binecuvântat fie El, lumea, ea se tot lărgea, ca două ghemuri de urzeală, până când a mustrat-o Sfântul, binecuvântat fie El, și a oprit-o, căci s-a spus: „Stâlpii cerurilor se clatină și se înspăimântă de mustrarea Lui”. Și aceasta este ce a spus Reiș Lakiș: Ce este ce este scris: „Eu sunt Dumnezeul Atotputernic”? Eu sunt Cel care a spus lumii: Destul! A spus Reiș Lakiș: În ceasul în care a creat Sfântul, binecuvântat fie El, marea, ea se tot lărgea, până când a mustrat-o Sfântul, binecuvântat fie El, și a uscat-o, căci s-a spus: „El mustră marea și o usucă, și toate râurile le seacă”.",
+    "src": {
+     "slug": "talmud-chagigah",
+     "spec": {
+      "num": 2,
+      "v": 15
+     }
+    }
    },
    {
     "author": "Zohar, Leh Leha 35:53",
@@ -1265,8 +1272,15 @@ window.CHAPTER_DATA = [
     "text": "«Dumnezeu i-a spus lui Avraam.» După ce a spus „ci numele tău va fi Avraam”, Moise nu a mai scris decât Avraam. Și au spus învățătorii noștri, binecuvântată fie amintirea lor: oricine îi spune lui Avraam „Avram” calcă o interdicție, căci s-a spus: „Numele tău nu se va mai chema”, și calcă o poruncă, căci s-a spus: „ci numele tău va fi Avraam”. Și au obiectat: oare oamenii Marii Adunări nu l-au numit Avram, căci s-a spus: „Tu ești Domnul Dumnezeu, care l-ai ales pe Avram”? Acolo este altceva: încă de când era Avram, l-ai ales. Iar pe calea sensului simplu, acestea nu sunt pe cale de avertizare.<br><br>«Iar tu ... legământul Meu.» Căci cu această condiție îți voi fi Dumnezeu ție și seminției tale după tine și le voi da țara: să păzești tu și ei acest legământ al Meu, cum îți spun; iar tu să-l poruncești fiilor tăi și casei tale după tine."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 59b:1",
-    "text": "Și iată tăierea împrejur, care s-a spus fiilor lui Noe, căci este scris: „Iar tu să păstrezi legământul Meu”, și a fost repetată la Sinai: „Iar în a opta zi, să fie circumcisă” — lui Israel s-a spus, și nu fiilor lui Noe!"
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 7",
+    "text": "Și iată tăierea împrejur, care s-a spus fiilor lui Noe, căci este scris: „Iar tu să păstrezi legământul Meu”, și a fost repetată la Sinai: „Iar în a opta zi, să fie circumcisă” — lui Israel s-a spus, și nu fiilor lui Noe!",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 7,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -2026,8 +2040,15 @@ window.CHAPTER_DATA = [
     "text": "«Iar cel de parte bărbătească necircumcis»: din copiii lui Israel, căci a lor este porunca și pedeapsa. Iar oamenilor casei, despre care a poruncit să fie circumciși, nu le-a poruncit lor, ci porunca este pentru Avraam și pentru sămânța lui, ca să nu fie într-o singură casă două credințe, și să fie un singur popor, deopotrivă în credință și în faptă. Iar dacă acel om al casei nu va voi să fie circumcis, stăpânul lui israelit să-l vândă și să nu-l țină în casa lui necircumcis mai mult de douăsprezece luni, cum au primit învățătorii noștri, binecuvântată fie amintirea lor.<br><br>Și a pomenit: dacă va fi necircumcis, care nu-și va circumcide carnea prepuțului, „acel suflet va fi nimicit”; și aceasta este când a ajuns la vârsta poruncii și tatăl lui nu l-a circumcis: dacă nu se circumcide singur, este vinovat de karet; dar tatăl lui nu este vinovat de karet pentru el, ci a călcat o poruncă pozitivă.<br><br>Yimmol de aici: rădăcina lui este nml, din conjugarea qal, de la u-nemaltem. Iar karet l-au explicat învățătorii noștri, binecuvântată fie amintirea lor: că va muri la jumătatea zilelor lui.<br><br>«A nesocotit legământul Meu.» Legământul care era între Mine și Avraam era și între Mine și el, căci este sămânța lui Avraam; iar el l-a anulat."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 38b:11",
-    "text": "Și a spus Rav Yehudah, a spus Rav: Adam cel dintâi era un min, căci s-a spus: „Și Domnul Dumnezeu l-a strigat pe om și i-a spus: „Unde ești?”” — unde s-a abătut inima ta? Rabbi Yițḥaq a spus: Își trăgea prepuțul; este scris aici: „Iar ei, ca Adam, au călcat legământul”, și este scris acolo: „a nesocotit legământul Meu”."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 4",
+    "text": "Și a spus Rav Yehudah, a spus Rav: Adam cel dintâi era un min, căci s-a spus: „Și Domnul Dumnezeu l-a strigat pe om și i-a spus: „Unde ești?”” — unde s-a abătut inima ta? Rabbi Yițḥaq a spus: Își trăgea prepuțul; este scris aici: „Iar ei, ca Adam, au călcat legământul”, și este scris acolo: „a nesocotit legământul Meu”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 4,
+      "v": 11
+     }
+    }
    }
   ],
   "refs": [

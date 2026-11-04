@@ -38,8 +38,15 @@ window.CHAPTER_DATA = [
     "text": "«Iacov a văzut»: căci i-a văzut pe oamenii țării venind cu grâne și i-a întrebat de unde aduc grânele, iar ei au spus: din Egipt („Mițrayim”); aceasta este ce a spus: „iată, am auzit”.<br><br>«De ce vă faceți remarcați?» (lamma titraʾu): de ce vă arătați că aveți grâne, când ceilalți oameni merg să cumpere grâne, iar voi stați?"
    },
    {
-    "author": "Talmudul Babilonian, Taanit 10b:6",
-    "text": "Dacă a uitat și a mâncat și a băut, să nu se arate înaintea obștii și să nu-și îngăduie desfătări, căci s-a spus: „Și Iacov le-a spus fiilor săi: De ce vă faceți remarcați?” Le-a spus Iacov fiilor săi: Nu vă arătați când sunteți sătui, nici înaintea lui Esau, nici înaintea lui Ismael, ca să nu vă pizmuiască."
+    "author": "Talmudul Babilonian, Taanit, cap. 1",
+    "text": "Dacă a uitat și a mâncat și a băut, să nu se arate înaintea obștii și să nu-și îngăduie desfătări, căci s-a spus: „Și Iacov le-a spus fiilor săi: De ce vă faceți remarcați?” Le-a spus Iacov fiilor săi: Nu vă arătați când sunteți sătui, nici înaintea lui Esau, nici înaintea lui Ismael, ca să nu vă pizmuiască.",
+    "src": {
+     "slug": "talmud-taanit",
+     "spec": {
+      "num": 1,
+      "v": 6
+     }
+    }
    }
   ]
  },

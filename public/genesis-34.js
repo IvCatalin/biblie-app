@@ -570,8 +570,15 @@ window.CHAPTER_DATA = [
     "text": "«În a treia zi, când erau suferinzi»: căci în a treia zi după tăierea împrejur rana este mai grea; de aceea învățătorii noștri, binecuvântată fie amintirea lor, au îngăduit spălarea cu apă caldă încălzită în Șabat, pentru că este primejdie.<br><br>«Doi dintre fiii lui Iacov … și-au luat»: deși toți fuseseră de acord cu aceasta la început, cum a spus „fiii lui Iacov le-au răspuns … cu iscusință”, cu toate acestea s-au reținut, de frica lor de oamenii țării; dar Simeon și Levi au rămas la gândul lor dintâi și nu s-au temut; de aceea a spus „frații Dinei”, căci s-au dat pe ei înșiși.<br><br>«Cu încredere»: ca și cum ar fi fost mulți."
    },
    {
-    "author": "Talmudul Babilonian, Taanit 27b:8",
-    "text": "În prima zi a săptămânii, care este motivul că nu? A spus Rabbi Yoḥanan: Din pricina noṣrim. Rabbi Șmuel bar Naḥmani a spus: Fiindcă este a treia de la creare."
+    "author": "Talmudul Babilonian, Taanit, cap. 4",
+    "text": "În prima zi a săptămânii, care este motivul că nu? A spus Rabbi Yoḥanan: Din pricina noṣrim. Rabbi Șmuel bar Naḥmani a spus: Fiindcă este a treia de la creare.",
+    "src": {
+     "slug": "talmud-taanit",
+     "spec": {
+      "num": 4,
+      "v": 20
+     }
+    }
    }
   ]
  },

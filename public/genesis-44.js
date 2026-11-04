@@ -66,8 +66,15 @@ window.CHAPTER_DATA = [
     "text": "«S-a luminat de dimineață» (ha-boqer ʾor): verb la trecut, din forma paʿul; și la fel „căci mi s-au luminat (ʾoru) ochii”.<br><br>«Lor și măgarilor lor»: cu măgarii lor încărcați, i-a trimis în pace."
    },
    {
-    "author": "Talmudul Babilonian, Pesahim 2a:3",
-    "text": "Se obiectează: „S-a luminat de dimineață și oamenilor li s-a dat drumul” — deci „or” este ziua! Oare este scris „lumina a fost dimineață”? „Dimineața a luminat” este scris, ca cel care spune: dimineața s-a luminat. Și ca la Rav Yehudah, a spus Rav; căci a spus Rav Yehudah, a spus Rav: Întotdeauna să intre omul „când este bine” și să iasă „când este bine”."
+    "author": "Talmudul Babilonian, Pesahim, cap. 1",
+    "text": "Se obiectează: „S-a luminat de dimineață și oamenilor li s-a dat drumul” — deci „or” este ziua! Oare este scris „lumina a fost dimineață”? „Dimineața a luminat” este scris, ca cel care spune: dimineața s-a luminat. Și ca la Rav Yehudah, a spus Rav; căci a spus Rav Yehudah, a spus Rav: Întotdeauna să intre omul „când este bine” și să iasă „când este bine”.",
+    "src": {
+     "slug": "talmud-pesachim",
+     "spec": {
+      "num": 1,
+      "v": 3
+     }
+    }
    }
   ]
  },

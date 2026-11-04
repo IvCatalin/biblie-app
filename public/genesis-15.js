@@ -428,8 +428,15 @@ window.CHAPTER_DATA = [
     "text": "«Stăpâne, Doamne Dumnezeule» (Adonai Elohim). Primul, cu alef și dalet, este nume atribut, iar cel cu yod și he este numele propriu; și atributul vine înaintea numelui, căci atributul este alipit lui, și nu El este alipit atributului, căci El nu este descris pe calea adevărului; iar când vine la El numele înaintea atributului, este pe cale figurată, după limba oamenilor. Iar la celelalte lucruri descrise, cel mai adesea numele vine înaintea atributului, căci întâi vine esența și după aceea vine asupra ei accidentul prin care este descrisă; și nu așa este la Dumnezeu, binecuvântat fie El.<br><br>«Ce îmi poți da Tu?» Nu L-a întrebat despre răsplata lumii ce va să vină, căci știa că o răsplată bună va fi pentru cei drepți în lumea sufletelor, care este lumea ce va să vină; ci L-a întrebat despre răsplata lumii acesteia: căci la ce i-ar folosi tot acel bine și marea bogăție pe care i-a dat-o, iar mâine va muri și străinii îi vor mânca averea și osteneala, căci nu avea un fiu căruia să i-o lase?<br><br>«Fără urmași» (ʿariri): după Targumul lui. Și dacă mă va moșteni fiul casei mele, ce mângâiere voi avea? Căci el nu este sămânța mea, deși este robul meu și împlinește poruncile mele după voia mea; iar Tu mi-ai spus: „ție ți-o voi da și seminției tale”.<br><br>«Iar intendentul casei mele» (u-ven mešeq beti): cel care iese și intră în casa mea. «Este Eliezer din Damasc», și el mă va moșteni, dacă nu voi avea un fiu.<br><br>Mešeq, rădăcina lui este šqq, după tiparul mekhes de la kss; iar sensul lui este de la šoq: adică cel care merge și vine, ca „urs care umblă încolo și încoace” (doḇ šoqeq); și iată, două rădăcini într-un singur sens.<br><br>«Eliezer din Damasc» (Dammeśeq Eliʿezer). Se poate să lipsească yod-ul de apartenență, adică „damascenul”, ca „seminția lui Beniamin” (ševeṭ ha-yemini); și la fel a tradus Onkelos: „damascenul”. Sau se poate ca numele lui să fi fost Damasc când a venit la Avram, iar el l-a numit Eliezer, căci Eliezer este un cuvânt ebraic; și uneori l-a numit cu un nume și uneori cu cele două nume. Și vrea să spună: dacă moștenitorul meu ar fi unul din oamenii familiei mele, nu ar fi atât de rău; dar un om din Damasc să mă moștenească, aceasta este foarte rău; de aceea a repetat lucrul încă o dată și a spus."
    },
    {
-    "author": "Talmudul Babilonian, Taanit 27b:3",
-    "text": "„Iar israeliții din acel mișmar se adună în cetățile lor și citesc din lucrarea creației.” De unde sunt aceste cuvinte? A spus Rabbi Yaʿaqov bar Aḥa, a spus Rav Assi: Dacă n-ar fi fost maʿamadot, n-ar fi dăinuit cerurile și pământul, căci s-a spus: „Și a spus: Stăpâne, Doamne Dumnezeule, prin ce voi ști că o voi moșteni?”"
+    "author": "Talmudul Babilonian, Taanit, cap. 4",
+    "text": "„Iar israeliții din acel mișmar se adună în cetățile lor și citesc din lucrarea creației.” De unde sunt aceste cuvinte? A spus Rabbi Yaʿaqov bar Aḥa, a spus Rav Assi: Dacă n-ar fi fost maʿamadot, n-ar fi dăinuit cerurile și pământul, căci s-a spus: „Și a spus: Stăpâne, Doamne Dumnezeule, prin ce voi ști că o voi moșteni?”",
+    "src": {
+     "slug": "talmud-taanit",
+     "spec": {
+      "num": 4,
+      "v": 15
+     }
+    }
    }
   ]
  },
@@ -1253,8 +1260,15 @@ window.CHAPTER_DATA = [
     "text": "«Prin ce voi ști că o voi moșteni?» A explicat: că o vor moșteni fiii mei; și la fel „pe care l-am luat din mâna amoritului”. Și a explicat „prin ce voi ști”: căci nu se îndoia dacă o vor moșteni fiii lui, căci iată, a spus: „Și Avram a crezut în Domnul”; ci se îndoia dacă o vor moșteni pe veci, căci poate vor păcătui și vor fi exilați din ea; și a întrebat în ce fel va cunoaște moștenirea, cum va fi, ca să i-o arate în profeție, așa cum i-a arătat lucrul înmulțirii seminției lui ca stelele."
    },
    {
-    "author": "Talmudul Babilonian, Taanit 27b:3",
-    "text": "„Iar israeliții din acel mișmar se adună în cetățile lor și citesc din lucrarea creației.” De unde sunt aceste cuvinte? A spus Rabbi Yaʿaqov bar Aḥa, a spus Rav Assi: Dacă n-ar fi fost maʿamadot, n-ar fi dăinuit cerurile și pământul, căci s-a spus: „Și a spus: Stăpâne, Doamne Dumnezeule, prin ce voi ști că o voi moșteni?”"
+    "author": "Talmudul Babilonian, Taanit, cap. 4",
+    "text": "„Iar israeliții din acel mișmar se adună în cetățile lor și citesc din lucrarea creației.” De unde sunt aceste cuvinte? A spus Rabbi Yaʿaqov bar Aḥa, a spus Rav Assi: Dacă n-ar fi fost maʿamadot, n-ar fi dăinuit cerurile și pământul, căci s-a spus: „Și a spus: Stăpâne, Doamne Dumnezeule, prin ce voi ști că o voi moșteni?”",
+    "src": {
+     "slug": "talmud-taanit",
+     "spec": {
+      "num": 4,
+      "v": 15
+     }
+    }
    },
    {
     "author": "Zohar, Ki Tisa 6:10",
@@ -1444,8 +1458,15 @@ window.CHAPTER_DATA = [
     "text": "«Ia pentru Mine.» A explicat: ca să le aduci jertfă înaintea Lui; și prin ele îți voi face aluzie la lucrul așezării lor în țara moștenirii lor și al exilului lor din ea; și prin ele voi încheia cu tine un legământ care nu se va clătina; căci încheierea legământului este pe această cale, cum a spus: „vițelul pe care l-au tăiat în două și au trecut printre bucățile lui”; căci a spus aici: „le-a despicat pe mijloc”.<br><br>Și a pomenit cele trei specii de vite care sunt potrivite pentru jertfă, și a făcut aluzie prin aceasta că, atâta vreme cât vor aduce jertfele cum se cuvine, nu vor fi exilați din țară. Iar „trei”, pe care l-a pomenit la ele, este o aluzie la cele trei exiluri în care fiii lui aveau să fie exilați din țara lor; și despre aceasta s-a spus de asemenea: „și i-ai adăpat cu lacrimi cu măsura întreită”.<br><br>Și spunând „vițea”, a făcut aluzie prin ea la primul exil, care este exilul Egiptului („Mițrayim”), care se numește vițea, cum s-a spus: „o vițea foarte frumoasă este Egiptul”; căci din țara Canaanului, care este țara lor, au fost exilați acolo; și ar fi stăpânit deja în țara lor, dacă nu ar fi fost că nu era împlinit păcatul amoritului.<br><br>«Iezi și berbeci.» A spus-o despre exilul Babelului și al Romei, în care suntem astăzi, care este a patra împărăție. Și deși împărăția Greciei i-a strâmtorat, nu i-a exilat din țara lor; și oricum, în pildă sunt cuprinși, căci ei se numesc țap în visul lui Daniel; și pentru că ei au fost începutul răului lui Israel în al doilea Templu, pilda a fost făcută prin ei; iar romanii i-au nimicit și i-au exilat. Iar berbecul sunt Media și Persia; și pentru că au domnit peste Babel, împărăția lor s-a numit berbec. Și iată, a făcut aluzie la împărăția Babelului și a Persiei: deși au trimis înapoi exilul lor, unii regi dintre ei le-au prelungit exilul și au întârziat construirea Templului și a cetății. Și pe cele două le-a numit la feminin, iar pe al treilea la masculin, pentru binele pe care l-au făcut lui Israel Media și Persia, care se numesc berbec; și încă pentru că nu și-au dat lor înșile puterea și slava, ci lui Dumnezeu, cum a spus Cirus, regele Persiei: „Toate împărățiile pământului mi le-a dat Domnul, Dumnezeul lui Israel”; iar regele Asiriei a spus: „prin puterea mâinii mele am făcut”; și la fel Titus a hulit și a batjocorit. Și l-a numit masculin, așa cum masculul este mai însemnat decât femela; iar cele două au făcut rău lui Israel și nu i-au făcut bine, și s-au fălit cu împărăția lor pentru ei înșiși, și nu au dat lui Dumnezeu puterea și slava; de aceea le-a numit femele.<br><br>«Trei» (mešulleševet): de trei; după Targum: „trei vițele și trei berbeci”; și nu se poate explica „de trei ani”.<br><br>«O turturea și un porumbel tânăr» (gozal). Și nu știm din ce specie de păsări era puiul, căci toate păsările mici se numesc gozal, cum a spus despre puii vulturului: „plutind deasupra puilor săi”; iar Onkelos a tradus: „și un pui de porumbel”; și aceasta este adevărul, căci el este potrivit pentru jertfă; și el este cel sfâșiat și nu sfâșie, și la fel turtureaua; și este între ele o asemănare în fire: femela dintre ele nu se lipește de alt mascul după moartea soțului ei; și la fel Israel în exil, care a fost ca o văduvă în exil din ziua în care soțul ei s-a despărțit de ea, iar El este viu și statornic: nu a slujit altor dumnezei în exil; și deși lungimea exilului este ca și cum nu ar fi nădejde, cu toate acestea: „dacă am fi uitat numele Dumnezeului nostru și ne-am fi întins mâinile spre un dumnezeu străin”. Iar turtureaua și puiul erau o pildă pentru Israel, că vor fi călcați în picioarele neamurilor pentru fărădelegile lor în cea mai mare parte a vremurilor, până va veni Mașiaḥ. Iar Israel este asemănat cu porumbelul, cum s-a spus: „ochii tăi sunt porumbei”, și s-a spus: „porumbița mea, din crăpăturile stâncii”; și la fel sunt asemănați cu turtureaua, cum s-a spus: „nu da fiarei sufletul turturelei tale”."
    },
    {
-    "author": "Talmudul Babilonian, Taanit 27b:4",
-    "text": "A spus Avraam: Stăpân al lumii, poate Israel vor păcătui înaintea Ta — vei face cu ei ca generației potopului și ca generației despărțirii? I-a spus: Nu. A spus înaintea Lui: Stăpân al lumii, fă-mi cunoscut prin ce o voi moșteni. I-a spus: „Ia pentru Mine trei vițele, trei iezi” și celelalte."
+    "author": "Talmudul Babilonian, Taanit, cap. 4",
+    "text": "A spus Avraam: Stăpân al lumii, poate Israel vor păcătui înaintea Ta — vei face cu ei ca generației potopului și ca generației despărțirii? I-a spus: Nu. A spus înaintea Lui: Stăpân al lumii, fă-mi cunoscut prin ce o voi moșteni. I-a spus: „Ia pentru Mine trei vițele, trei iezi” și celelalte.",
+    "src": {
+     "slug": "talmud-taanit",
+     "spec": {
+      "num": 4,
+      "v": 16
+     }
+    }
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",

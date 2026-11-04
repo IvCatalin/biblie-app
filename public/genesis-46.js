@@ -317,8 +317,15 @@ window.CHAPTER_DATA = [
     "text": "«Toate sufletele … erau treizeci și trei»: iar în amănunt nu găsim decât treizeci și doi. Au spus învățătorii noștri, binecuvântată fie amintirea lor, că Iochebed, fiica lui Levi, s-a născut între ziduri; de aceea nu a numărat-o în amănunt, căci s-a născut când au intrat prin zidul din afară și înainte să intre înăuntrul zidului dinăuntru; de aceea a spus „treizeci și trei”; și aceasta este „și fiicele sale”, căci erau două fiice: Dina și Iochebed. Iar înțeleptul Rabbi Avraham ibn Ezra a scris, și la fel a scris domnul, tatăl meu, binecuvântată fie amintirea lui, că Iacov este în socoteala celor șaptezeci, și la fel a spus la început: „Iacov și fiii lui”; iar după explicația lor, sensul lui „și fiicele sale” va fi ca sensul lui „și fiii lui Dan: Hușim”."
    },
    {
-    "author": "Talmudul Babilonian, Sota 12a:14",
-    "text": "„pe o fiică a lui Levi” — este cu putință? Avea o sută treizeci de ani, și o numește „fiică”! Căci a spus Rabbi Ḥama, fiul lui Rabbi Ḥanina: Aceasta este Iochebed, a cărei zămislire a fost pe drum, iar nașterea ei, între ziduri, căci s-a spus: „care i s-a născut lui Levi în Egipt („Mițrayim”)”."
+    "author": "Talmudul Babilonian, Sota, cap. 1",
+    "text": "„pe o fiică a lui Levi” — este cu putință? Avea o sută treizeci de ani, și o numește „fiică”! Căci a spus Rabbi Ḥama, fiul lui Rabbi Ḥanina: Aceasta este Iochebed, a cărei zămislire a fost pe drum, iar nașterea ei, între ziduri, căci s-a spus: „care i s-a născut lui Levi în Egipt („Mițrayim”)”.",
+    "src": {
+     "slug": "talmud-sotah",
+     "spec": {
+      "num": 1,
+      "v": 14
+     }
+    }
    }
   ]
  },

@@ -485,8 +485,15 @@ window.CHAPTER_DATA = [
     "text": "«Iar poporul l-a mutat în orașe»: ca să nu le fie moștenirea în stăpânirea lor dintâi, ci fiecăruia i-a dat moștenire din nou: moștenirea acestuia a dat-o aceluia, ca să se știe că de la Faraon le era moștenirea și că îi dau a cincea parte în fiecare an."
    },
    {
-    "author": "Talmudul Babilonian, Hulin 60b:15",
-    "text": "Asemenea acestuia: „Iar poporul l-a mutat în orașe” — ce iese de aici? Ca să nu-i numească pe frații lui „exilați”."
+    "author": "Talmudul Babilonian, Hulin, cap. 3",
+    "text": "Asemenea acestuia: „Iar poporul l-a mutat în orașe” — ce iese de aici? Ca să nu-i numească pe frații lui „exilați”.",
+    "src": {
+     "slug": "talmud-chullin",
+     "spec": {
+      "num": 3,
+      "v": 28
+     }
+    }
    }
   ]
  },

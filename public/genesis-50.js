@@ -321,8 +321,15 @@ window.CHAPTER_DATA = [
     "text": "«Și au poruncit să i se spună lui Iosif.» Și în viața tatălui lor de ce n-au poruncit? Ci au spus: de ce să trezim ura, căci iată, deja a fost uitată și a trecut? Când s-au întors de la îngroparea tatălui lor și Iosif a trecut pe lângă groapa în care îl aruncaseră frații lui, a spus: Binecuvântat Cel ce mi-a făcut minune în locul acesta. Au spus: încă este ură ascunsă în inima lui. Îndată „au poruncit să i se spună lui Iosif”."
    },
    {
-    "author": "Talmudul Babilonian, Ievamot 65b:7",
-    "text": "Și a spus Rabbi Ilʿa în numele lui Rabbi Elʿazar, fiul lui Rabbi Șimʿon: Îi este îngăduit omului să schimbe ceva de dragul păcii, căci s-a spus: „Tatăl tău a poruncit” și celelalte; „Așa să-i spuneți lui Iosif: Rogu-te, iartă” și celelalte."
+    "author": "Talmudul Babilonian, Ievamot, cap. 6",
+    "text": "Și a spus Rabbi Ilʿa în numele lui Rabbi Elʿazar, fiul lui Rabbi Șimʿon: Îi este îngăduit omului să schimbe ceva de dragul păcii, căci s-a spus: „Tatăl tău a poruncit” și celelalte; „Așa să-i spuneți lui Iosif: Rogu-te, iartă” și celelalte.",
+    "src": {
+     "slug": "talmud-yevamot",
+     "spec": {
+      "num": 6,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -349,8 +356,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Iosif a plâns.» Când l-au pomenit pe tatăl său și dragostea lui, că nu l-a bănuit."
    },
    {
-    "author": "Talmudul Babilonian, Ievamot 65b:7",
-    "text": "Și a spus Rabbi Ilʿa în numele lui Rabbi Elʿazar, fiul lui Rabbi Șimʿon: Îi este îngăduit omului să schimbe ceva de dragul păcii, căci s-a spus: „Tatăl tău a poruncit” și celelalte; „Așa să-i spuneți lui Iosif: Rogu-te, iartă” și celelalte."
+    "author": "Talmudul Babilonian, Ievamot, cap. 6",
+    "text": "Și a spus Rabbi Ilʿa în numele lui Rabbi Elʿazar, fiul lui Rabbi Șimʿon: Îi este îngăduit omului să schimbe ceva de dragul păcii, căci s-a spus: „Tatăl tău a poruncit” și celelalte; „Așa să-i spuneți lui Iosif: Rogu-te, iartă” și celelalte.",
+    "src": {
+     "slug": "talmud-yevamot",
+     "spec": {
+      "num": 6,
+      "v": 7
+     }
+    }
    }
   ]
  },

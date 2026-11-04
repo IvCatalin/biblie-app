@@ -174,8 +174,15 @@ window.CHAPTER_DATA = [
     "text": "Deși identificarea exactă a lui Amrafel cu vreun rege babilonian cunoscut din arhive rămâne dezbătută academic, structura politică descrisă — o coaliție de regi mezopotamieni răsăriteni campanind spre vest, în Canaan — corespunde tiparelor reale de expediții militare documentate în perioada Bronzului Mijlociu."
    },
    {
-    "author": "Talmudul Babilonian, Megila 10b:6",
-    "text": "„Și a fost, când au călătorit dinspre răsărit” — „Haideți să ne construim un oraș”. „Și a fost în zilele lui Amrafel” — „au făcut război”. „Și a fost, pe când era Iosua lângă Ierihon” — „și sabia lui scoasă în mâna lui”. „Și a fost Domnul cu Iosua” — „Și copiii lui Israel au săvârșit o fărădelege”. „Și a fost un om din Ramataim” — „căci pe Ana o iubea, dar Domnul îi închisese pântecele”."
+    "author": "Talmudul Babilonian, Megila, cap. 1",
+    "text": "„Și a fost, când au călătorit dinspre răsărit” — „Haideți să ne construim un oraș”. „Și a fost în zilele lui Amrafel” — „au făcut război”. „Și a fost, pe când era Iosua lângă Ierihon” — „și sabia lui scoasă în mâna lui”. „Și a fost Domnul cu Iosua” — „Și copiii lui Israel au săvârșit o fărădelege”. „Și a fost un om din Ramataim” — „căci pe Ana o iubea, dar Domnul îi închisese pântecele”.",
+    "src": {
+     "slug": "talmud-megillah",
+     "spec": {
+      "num": 1,
+      "v": 22
+     }
+    }
    }
   ]
  },
@@ -394,8 +401,15 @@ window.CHAPTER_DATA = [
     "text": "«Ei au făcut război.» Acum povestește războiul care a fost între ei în valea Sidim, nu războaiele dintâi care au fost între ei, până ce cei patru regi i-au supus pe cei cinci, până ce le-au fost robi."
    },
    {
-    "author": "Talmudul Babilonian, Megila 10b:6",
-    "text": "„Și a fost, când au călătorit dinspre răsărit” — „Haideți să ne construim un oraș”. „Și a fost în zilele lui Amrafel” — „au făcut război”. „Și a fost, pe când era Iosua lângă Ierihon” — „și sabia lui scoasă în mâna lui”. „Și a fost Domnul cu Iosua” — „Și copiii lui Israel au săvârșit o fărădelege”. „Și a fost un om din Ramataim” — „căci pe Ana o iubea, dar Domnul îi închisese pântecele”."
+    "author": "Talmudul Babilonian, Megila, cap. 1",
+    "text": "„Și a fost, când au călătorit dinspre răsărit” — „Haideți să ne construim un oraș”. „Și a fost în zilele lui Amrafel” — „au făcut război”. „Și a fost, pe când era Iosua lângă Ierihon” — „și sabia lui scoasă în mâna lui”. „Și a fost Domnul cu Iosua” — „Și copiii lui Israel au săvârșit o fărădelege”. „Și a fost un om din Ramataim” — „căci pe Ana o iubea, dar Domnul îi închisese pântecele”.",
+    "src": {
+     "slug": "talmud-megillah",
+     "spec": {
+      "num": 1,
+      "v": 22
+     }
+    }
    }
   ]
  },

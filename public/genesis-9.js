@@ -469,8 +469,15 @@ window.CHAPTER_DATA = [
     "text": "«Tot ce mișună, ce este viu.» Lipsește vav-ul de serviciu, ca „soarele, luna”, „Ruben, Simeon” și cele asemenea lor; și este ca și cum ar fi spus: „tot ce mișună și ce este viu”; iar „tot ce mișună” cuprinde toate animalele pământului și pasărea, iar „ce este viu” l-a spus despre pești. Sau explicația va fi fără lipsa vav-ului, iar remeś va fi general pentru toate, căci și peștii mișună în ape, cum a spus: „și toate vietățile care mișună”; și a spus „ce este viu” ca și cum ar fi spus: tot ce mișună, care este suflet viu. «Ca vegetația verde.» Pe care am dat-o primului om; iar rodul pomului este inclus în „vegetația verde”, căci tot ce crește a fost dat omului drept hrană, și generațiilor care au venit după ei până la potop, și nu le-am dat carnea ca s-o mănânce; dar vouă v-am dat-o: cum vegetația verde vă este îngăduită, așa vă va fi îngăduită carnea. Iar „vegetația verde” am explicat-o. Iar învățătorii noștri, binecuvântată fie amintirea lor, au explicat: „ca vegetația verde”, și nu ca verdeața grădinii; de aici că jaful a fost oprit fiilor lui Noe."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 59b:14",
-    "text": "Și când au venit fiii lui Noe, le-a îngăduit, căci s-a spus: „ca vegetația verde, vi le-am dat vouă pe toate”. Aș putea crede că nu se aplică la ea mădularul din cel viu — Scriptura spune: „Dar carne cu sufletul ei, sângele ei, să nu mâncați”. Aș putea crede că și pentru târâtoare — Scriptura spune: „Dar”."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 7",
+    "text": "Și când au venit fiii lui Noe, le-a îngăduit, căci s-a spus: „ca vegetația verde, vi le-am dat vouă pe toate”. Aș putea crede că nu se aplică la ea mădularul din cel viu — Scriptura spune: „Dar carne cu sufletul ei, sângele ei, să nu mâncați”. Aș putea crede că și pentru târâtoare — Scriptura spune: „Dar”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 7,
+      "v": 14
+     }
+    }
    },
    {
     "author": "Zohar, Leh Leha 27:5",
@@ -589,8 +596,15 @@ window.CHAPTER_DATA = [
     "text": "«Dar carne.» Deși v-am dat toată carnea a ceea ce mișună spre mâncare, să nu o mâncați cu sufletul ei, care este sângele ei; adică tot timpul cât carnea este cu sufletul și el este încă viu; ci mai întâi să-l înjunghiați și după aceea să-l mâncați, căci aceasta este o cale a cruzimii: a tăia carne din cel viu și a o mânca. Și se pare că de aceea i-a îngăduit carnea lui Noe, pentru că s-a ostenit cu dobitocul, cu animalul (sau „fiara sălbatică”), cu târâtoarea și cu pasărea ca să le țină în viață în arcă; căci pentru trebuința omului au fost create, fie pentru munca lui, fie pentru hrana lui, numai că nu i s-a îngăduit să le omoare și să le mănânce până la Noe, pentru că s-a ostenit cu ele."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 59b:14",
-    "text": "Și când au venit fiii lui Noe, le-a îngăduit, căci s-a spus: „ca vegetația verde, vi le-am dat vouă pe toate”. Aș putea crede că nu se aplică la ea mădularul din cel viu — Scriptura spune: „Dar carne cu sufletul ei, sângele ei, să nu mâncați”. Aș putea crede că și pentru târâtoare — Scriptura spune: „Dar”."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 7",
+    "text": "Și când au venit fiii lui Noe, le-a îngăduit, căci s-a spus: „ca vegetația verde, vi le-am dat vouă pe toate”. Aș putea crede că nu se aplică la ea mădularul din cel viu — Scriptura spune: „Dar carne cu sufletul ei, sângele ei, să nu mâncați”. Aș putea crede că și pentru târâtoare — Scriptura spune: „Dar”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 7,
+      "v": 14
+     }
+    }
    },
    {
     "author": "Zohar, Vaieșev 5:31",
@@ -1036,8 +1050,15 @@ window.CHAPTER_DATA = [
     "text": "«Iar voi, fiți roditori, înmulțiți-vă.» Și în Bereșit Rabba a spus: „și le-a spus: «Fiți roditori, înmulțiți-vă»” – după ce i-a oprit de la vărsarea sângelui, care este nimicirea lumii acesteia, i-a avertizat asupra rodirii și înmulțirii, pentru așezarea lumii. «Răspândiți-vă» (širṣu). Sensul lui šeriṣah este mulțimea nașterilor, ca târâtoarele (ha-šeraṣim), care sunt multe; și la fel „Iar copiii lui Israel au fost roditori și prolifici”. Și în locul în care a spus la binecuvântarea lui Adam „și umpleți pământul”, a spus aici „răspândiți-vă pe pământ”, și a mai spus „și înmulțiți-vă pe el”; pentru că cei ieșiți din arcă erau puțini, Noe și fiii lui singuri, a îndoit lucrul binecuvântării pentru ei, ca să întărească lucrul, după obicei."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 5a:7",
-    "text": "Adică, dacă n-ar fi păcătuit, n-ar fi născut? Dar iată, este scris: „Iar voi, fiți roditori, înmulțiți-vă”! Până la Sinai. La Sinai, de asemenea, este scris: „Mergi și spune-le: „Întoarceți-vă în corturile voastre!”” — pentru bucuria vremii împreunării."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Adică, dacă n-ar fi păcătuit, n-ar fi născut? Dar iată, este scris: „Iar voi, fiți roditori, înmulțiți-vă”! Până la Sinai. La Sinai, de asemenea, este scris: „Mergi și spune-le: „Întoarceți-vă în corturile voastre!”” — pentru bucuria vremii împreunării.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 20
+     }
+    }
    }
   ]
  },
@@ -1264,8 +1285,15 @@ window.CHAPTER_DATA = [
     "text": "«Iar Eu, iată-Mă, statornicesc.» Vav-ul din „Iar Eu” adaugă la ceea ce a spus: „Iar voi, fiți roditori, înmulțiți-vă”; adică: voi vă veți îndeletnici cu așezarea lumii, iar Eu de asemenea o voi statornici, ca să nu mai fie nimicită așezarea lumii; iar legământul și jurământul sunt cuvântul Lui, care este statornic pe veci: „Dumnezeu nu e om ca să înșele, nici fiu al omului ca să renunțe”."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 38b:11",
-    "text": "Și a spus Rav Yehudah, a spus Rav: Adam cel dintâi era un min, căci s-a spus: „Și Domnul Dumnezeu l-a strigat pe om și i-a spus: „Unde ești?”” — unde s-a abătut inima ta? Rabbi Yițḥaq a spus: Își trăgea prepuțul; este scris aici: „Iar ei, ca Adam, au călcat legământul”, și este scris acolo: „a nesocotit legământul Meu”."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 4",
+    "text": "Și a spus Rav Yehudah, a spus Rav: Adam cel dintâi era un min, căci s-a spus: „Și Domnul Dumnezeu l-a strigat pe om și i-a spus: „Unde ești?”” — unde s-a abătut inima ta? Rabbi Yițḥaq a spus: Își trăgea prepuțul; este scris aici: „Iar ei, ca Adam, au călcat legământul”, și este scris acolo: „a nesocotit legământul Meu”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 4,
+      "v": 11
+     }
+    }
    }
   ]
  },

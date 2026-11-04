@@ -4356,8 +4356,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Domnul»: îngerul se numește cu numele stăpânului său, cum am scris.<br><br>«De la Domnul»: de la Dumnezeu, binecuvântat fie El; aceasta este „din ceruri”, și a explicat: din aerul cel înalt."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 38b:21",
-    "text": "I-a spus un min lui Rabbi Yișmaʿel, fiul lui Rabbi Yose: Este scris: „Și Domnul a făcut să plouă asupra Sodomei și asupra Gomorei pucioasă și foc de la Domnul”; „de la El” ar fi trebuit să spună! I-a spus un spălător: Lasă-l, eu îi voi răspunde, căci este scris: „Și Lameh le-a spus soțiilor lui: „Ada și Țila, ascultați-mi glasul! Soții ale lui Lameh””; „soțiile mele” ar fi trebuit să spună! Ci așa vorbește Scriptura; și aici, de asemenea, așa vorbește Scriptura. I-a spus: De unde ai aceasta? Din lecția lui Rabbi Meir am auzit-o."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 4",
+    "text": "I-a spus un min lui Rabbi Yișmaʿel, fiul lui Rabbi Yose: Este scris: „Și Domnul a făcut să plouă asupra Sodomei și asupra Gomorei pucioasă și foc de la Domnul”; „de la El” ar fi trebuit să spună! I-a spus un spălător: Lasă-l, eu îi voi răspunde, căci este scris: „Și Lameh le-a spus soțiilor lui: „Ada și Țila, ascultați-mi glasul! Soții ale lui Lameh””; „soțiile mele” ar fi trebuit să spună! Ci așa vorbește Scriptura; și aici, de asemenea, așa vorbește Scriptura. I-a spus: De unde ai aceasta? Din lecția lui Rabbi Meir am auzit-o.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 4,
+      "v": 21
+     }
+    }
    },
    {
     "author": "Zohar, Vaiera 18:10",

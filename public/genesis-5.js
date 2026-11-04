@@ -176,8 +176,15 @@ window.CHAPTER_DATA = [
     "text": "«Aceasta este cartea (sefer).» Are sensul de socoteală, căci el numără (sofer) urmașii de la Adam până la Noe; și a început de la crearea lui Adam, și nu i-a pomenit pe Cain și pe Abel, căci Abel nu a avut urmași, iar urmașii lui Cain au pierit, iar din Set s-a păstrat existența. Și a început și a spus: „în ziua în care Dumnezeu a creat omul, după asemănarea lui Dumnezeu l-a făcut”; explicația: în ziua în care l-a creat, în asemănarea îngerului l-a creat, prin sufletul cel de sus pe care l-a pus în el; numai că după aceea a ieșit de la poruncile Lui, căci parte bărbătească și femeiască i-a creat, iar femeia l-a ațâțat, după ațâțarea șarpelui."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 38b:10",
-    "text": "Și aceasta este ce a spus Reiș Lakiș: Ce este ce este scris: „Aceasta este cartea urmașilor lui Adam”? Învață că i-a arătat Sfântul, binecuvântat fie El, fiecare generație cu tâlcuitorii ei, fiecare generație cu înțelepții ei. Când a ajuns la generația lui Rabbi ʿAqiva, s-a bucurat de Tora lui și s-a întristat de moartea lui; a spus: „Și pentru mine, cât de prețioși sunt prietenii Tăi, Dumnezeule”."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 4",
+    "text": "Și aceasta este ce a spus Reiș Lakiș: Ce este ce este scris: „Aceasta este cartea urmașilor lui Adam”? Învață că i-a arătat Sfântul, binecuvântat fie El, fiecare generație cu tâlcuitorii ei, fiecare generație cu înțelepții ei. Când a ajuns la generația lui Rabbi ʿAqiva, s-a bucurat de Tora lui și s-a întristat de moartea lui; a spus: „Și pentru mine, cât de prețioși sunt prietenii Tăi, Dumnezeule”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 4,
+      "v": 10
+     }
+    }
    },
    {
     "author": "Zohar, Bereșit 48:1",
@@ -355,8 +362,15 @@ window.CHAPTER_DATA = [
     "text": "«I-a binecuvântat.» Cum a spus: „Fiți roditori și înmulțiți-vă și umpleți pământul și supuneți-l”; și, dacă le-a dat putere să-i supună pe alții, cu atât mai mult trebuiau să se supună pe ei înșiși.<br><br>«Și le-a pus numele de „om” în ziua în care au fost creați.» În ziua în care au fost creați i-a numit adam, cum a spus: „Să facem om în imaginea noastră”; căci pentru aceasta i-a creat, ca să fie om, și nu dobitoc sau pasăre. Iar femeia se numește adam, căci despre amândoi a spus „Să facem om”, cum a spus „să stăpânească”. Și prin nume i-a deosebit de celelalte vietăți care sunt pe pământ, căci sufletul omului este de sus, numai că în el este o parte din pământ, căci trupul a fost creat din pământ; de aceea, dacă omul se va lăsa tras după firea pământului, iată, este ca și cum ar fi tot din pământ și ca și cum nu ar fi în el o parte de sus. De aceea nu i-a pomenit acum, în povestirea urmașilor lui, pe Cain și pe Abel, pentru că amintirea lor a fost ștearsă, pentru că s-au lăsat trași după firea pământului, iar lumea nu s-a păstrat din ei."
    },
    {
-    "author": "Talmudul Babilonian, Ketubot 8a:9",
-    "text": "Nu; toată lumea ține că a fost o singură întocmire: unul ține că mergem după gând, și unul ține că mergem după faptă; ca aceasta: Rav Yehudah a pus în contradicție: este scris: „Și a creat Dumnezeu pe om în imaginea Sa”, și este scris: „parte bărbătească și femeiască i-a creat”. Cum așa? La început I-a venit în gând să creeze doi, iar la sfârșit a fost creat unul."
+    "author": "Talmudul Babilonian, Ketubot, cap. 1",
+    "text": "Nu; toată lumea ține că a fost o singură întocmire: unul ține că mergem după gând, și unul ține că mergem după faptă; ca aceasta: Rav Yehudah a pus în contradicție: este scris: „Și a creat Dumnezeu pe om în imaginea Sa”, și este scris: „parte bărbătească și femeiască i-a creat”. Cum așa? La început I-a venit în gând să creeze doi, iar la sfârșit a fost creat unul.",
+    "src": {
+     "slug": "talmud-ketubot",
+     "spec": {
+      "num": 1,
+      "v": 23
+     }
+    }
    },
    {
     "author": "Mișna, Ievamot 6:6",

@@ -2022,8 +2022,15 @@ window.CHAPTER_DATA = [
     "text": "«Și și-a întins cortul până la Sodoma.» Și-a întins cortul din loc în loc până ce a ajuns până la Sodoma."
    },
    {
-    "author": "Talmudul Babilonian, Ioma 38b:8",
-    "text": "De unde este acest lucru pe care l-au spus rabinii: „numele celor răi va putrezi”? I-a spus: Căci este scris: „și numele celor răi va putrezi.” Din Tora, de unde știm? Căci este scris: „și-a întins cortul până la Sodoma”, și este scris: „Iar oamenii Sodomei erau foarte răi și păcătoși față de Domnul.”"
+    "author": "Talmudul Babilonian, Ioma, cap. 3",
+    "text": "De unde este acest lucru pe care l-au spus rabinii: „numele celor răi va putrezi”? I-a spus: Căci este scris: „și numele celor răi va putrezi.” Din Tora, de unde știm? Căci este scris: „și-a întins cortul până la Sodoma”, și este scris: „Iar oamenii Sodomei erau foarte răi și păcătoși față de Domnul.”",
+    "src": {
+     "slug": "talmud-yoma",
+     "spec": {
+      "num": 3,
+      "v": 8
+     }
+    }
    },
    {
     "author": "Zohar, Leh Leha 10:22",
@@ -2164,8 +2171,15 @@ window.CHAPTER_DATA = [
     "text": "«Iar oamenii Sodomei erau ... răi»: răi față de Cer și răi față de făpturi; și totul este față de Domnul, căci au călcat poruncile Lui, pe care le-a poruncit lui Adam și lui Noe, și acestea sunt cele șapte porunci, cum am explicat; și între ele idolatria, care este păcat față de Domnul, și între ele jaful, incestul și vărsarea de sânge, care sunt păcat și rău ale omului față de semenul său; și totul este păcat față de Domnul, căci calcă poruncile Lui și disprețuiesc cuvintele Lui. Și a spus „foarte”, căci erau fără frâu în ele, făcând relele în public și fiind obișnuiți cu ele."
    },
    {
-    "author": "Talmudul Babilonian, Ioma 38b:11",
-    "text": "Și din blestemul celor răi înveți binecuvântare pentru cei drepți, căci este scris: „Iar oamenii Sodomei erau răi și păcătoși față de Domnul”, și: „Domnul i-a spus lui Avram după ce Lot se despărțise de el.” Rabbi Elʿazar: Chiar și pentru un singur drept a fost creată lumea, căci s-a spus: „Și Dumnezeu a văzut că lumina este bună”, și „bun” nu este altul decât cel drept, căci s-a spus: „Spuneți despre cel drept că este bun.”"
+    "author": "Talmudul Babilonian, Ioma, cap. 3",
+    "text": "Și din blestemul celor răi înveți binecuvântare pentru cei drepți, căci este scris: „Iar oamenii Sodomei erau răi și păcătoși față de Domnul”, și: „Domnul i-a spus lui Avram după ce Lot se despărțise de el.” Rabbi Elʿazar: Chiar și pentru un singur drept a fost creată lumea, căci s-a spus: „Și Dumnezeu a văzut că lumina este bună”, și „bun” nu este altul decât cel drept, căci s-a spus: „Spuneți despre cel drept că este bun.”",
+    "src": {
+     "slug": "talmud-yoma",
+     "spec": {
+      "num": 3,
+      "v": 11
+     }
+    }
    },
    {
     "author": "Mișna, Sanhedrin 10:3",
@@ -2402,8 +2416,15 @@ window.CHAPTER_DATA = [
     "text": "«Domnul i-a spus lui Avram.» Cât timp Lot era cu el, poate Avram credea că și Lot va avea parte în țară, căci era ruda lui și ieșise cu el, cum i-a spus: „Oare nu-i toată țara în fața ta?” Acum, după ce Lot s-a despărțit de el, i-a spus: Să nu crezi că altul va avea parte în țară, ci ție singur și seminției tale ți-o voi da; și să nu crezi că Lot și seminția lui vor avea parte împreună cu fiii tăi în țară, căci i-ai spus: „dacă o vei lua la stânga, eu o voi lua la dreapta; și dacă o vei lua la dreapta, eu o voi lua la stânga”; ci miazănoaptea și dreapta ție și seminției tale vor fi, și la fel răsăritul și apusul. Și a pus înainte miazănoaptea și miazăzi după cuvintele lui pe care i le-a spus lui Lot; căci lui Lot, pentru că este ruda ta, îi voi da de asemenea moștenire în alt loc, cum a spus: „căci copiilor lui Lot am dat Arul moștenire”."
    },
    {
-    "author": "Talmudul Babilonian, Ioma 38b:11",
-    "text": "Și din blestemul celor răi înveți binecuvântare pentru cei drepți, căci este scris: „Iar oamenii Sodomei erau răi și păcătoși față de Domnul”, și: „Domnul i-a spus lui Avram după ce Lot se despărțise de el.” Rabbi Elʿazar: Chiar și pentru un singur drept a fost creată lumea, căci s-a spus: „Și Dumnezeu a văzut că lumina este bună”, și „bun” nu este altul decât cel drept, căci s-a spus: „Spuneți despre cel drept că este bun.”"
+    "author": "Talmudul Babilonian, Ioma, cap. 3",
+    "text": "Și din blestemul celor răi înveți binecuvântare pentru cei drepți, căci este scris: „Iar oamenii Sodomei erau răi și păcătoși față de Domnul”, și: „Domnul i-a spus lui Avram după ce Lot se despărțise de el.” Rabbi Elʿazar: Chiar și pentru un singur drept a fost creată lumea, căci s-a spus: „Și Dumnezeu a văzut că lumina este bună”, și „bun” nu este altul decât cel drept, căci s-a spus: „Spuneți despre cel drept că este bun.”",
+    "src": {
+     "slug": "talmud-yoma",
+     "spec": {
+      "num": 3,
+      "v": 11
+     }
+    }
    }
   ]
  },

@@ -254,8 +254,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Iacov s-a temut mult și s-a îngrozit»: a dublat lucrul în cuvinte diferite, din mulțimea fricii lui. Iar în Bereșit Rabba: aceasta este frică, și aceasta este strâmtorare? Ci „s-a temut” – să nu fie ucis, „s-a îngrozit” – să nu ucidă.<br><br>«Și și-a împărțit»: a spus Rabbi Ḥiyya: Tora te-a învățat bunul obicei, ca omul să nu-și lase averea într-o singură casă."
    },
    {
-    "author": "Talmudul Babilonian, Berahot 4a:16",
-    "text": "Ca la Rabbi Yaʿaqov bar Idi; căci Rabbi Yaʿaqov bar Idi a pus față în față: Este scris: „Și iată, Eu sunt cu tine și te voi păzi oriunde vei merge”, și este scris: „Și Iacov s-a temut mult.” El a zis: Ca nu cumva păcatul să pricinuiască."
+    "author": "Talmudul Babilonian, Berahot, cap. 1",
+    "text": "Ca la Rabbi Yaʿaqov bar Idi; căci Rabbi Yaʿaqov bar Idi a pus față în față: Este scris: „Și iată, Eu sunt cu tine și te voi păzi oriunde vei merge”, și este scris: „Și Iacov s-a temut mult.” El a zis: Ca nu cumva păcatul să pricinuiască.",
+    "src": {
+     "slug": "talmud-berakhot",
+     "spec": {
+      "num": 1,
+      "v": 96
+     }
+    }
    }
   ]
  },

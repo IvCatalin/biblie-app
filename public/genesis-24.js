@@ -421,8 +421,15 @@ window.CHAPTER_DATA = [
     "text": "«Și a fost, când nu terminase» (wa-yehi hu): și iată, i s-a pregătit cum ceruse: din familia lui Avraam, fiica fiului fratelui său, și că fata era bună și fecioară.<br><br>«Când nu terminase încă de vorbit»: cuvântul era încă în gura lui sau în inima lui; și tot așa „înainte să strige, Eu voi răspunde”."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 29a:5",
-    "text": "pentru inimă, în vin, și semnul tău: „Și vinul înveselește inima omului”; pentru duh (sau „vânt”), în apă, și semnul tău: „și duhul lui Dumnezeu plutea peste fața apelor”; pentru kuda, în bere, și semnul tău: „cu ulciorul pe umăr”."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 2",
+    "text": "pentru inimă, în vin, și semnul tău: „Și vinul înveselește inima omului”; pentru duh (sau „vânt”), în apă, și semnul tău: „și duhul lui Dumnezeu plutea peste fața apelor”; pentru kuda, în bere, și semnul tău: „cu ulciorul pe umăr”.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 2,
+      "v": 5
+     }
+    }
    }
   ]
  },

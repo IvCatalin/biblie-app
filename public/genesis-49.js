@@ -210,8 +210,15 @@ window.CHAPTER_DATA = [
     "text": "«În uneltirea lor» (be-sodam): când s-au sfătuit și s-au adunat în fapta cu Sihem, sufletul meu nu a venit cu ei, și nu au făcut după sfatul meu ceea ce au făcut; și a dublat înțelesul cu cuvinte diferite. Și a spus teḥad („să nu se alăture”) la feminin, căci „onoarea” (kavod) este sufletul.<br><br>«Au omorât un bărbat»: în chip general, ca „și bărbatul lui Israel era strâmtorat” și cele asemenea lui. Și la fel „taur” (šor), ca „căci cavaleria lui Faraon a intrat” și cele asemenea lui. Căci se poate că au luat o parte din vite cu ei și pe o parte le-au schilodit. Și sunt unii care explică ʿiqqeru („au schilodit”) ca „au ucis”. În Rădăcini a scris Rabbi Yaʿaqov ben Elʿazar că acesta este un nume pentru stăpânitor, iar „taur” este căpetenia țării, Hamor; și pentru mărire l-a numit taur, ca „taur întâi-născut”. Sau „taur” (šor) va fi zid, după traducerea lui.<br><br>Și explicația lui «în dorința lor»: ca să-și împlinească dorința și pofta."
    },
    {
-    "author": "Talmudul Babilonian, Megila 9a:15",
-    "text": "„Căci în furia lor au omorât un taur și în dorința lor au smuls o iesle”; „Moise și-a luat soția și fiii și i-a pus călare pe purtătorul de oameni”;"
+    "author": "Talmudul Babilonian, Megila, cap. 1",
+    "text": "„Căci în furia lor au omorât un taur și în dorința lor au smuls o iesle”; „Moise și-a luat soția și fiii și i-a pus călare pe purtătorul de oameni”;",
+    "src": {
+     "slug": "talmud-megillah",
+     "spec": {
+      "num": 1,
+      "v": 15
+     }
+    }
    }
   ]
  },

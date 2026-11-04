@@ -254,8 +254,15 @@ window.CHAPTER_DATA = [
     "text": "«Și a fost, când au călătorit dinspre răsărit» (mi-qedem): de la răsărit (mi-mizraḥ), căci acolo a fost la început locuirea, și acolo a fost creat Adam, căci grădina Edenului este la răsărit; iar Noe, când a ieșit din arcă, s-a dus la locul primei lui locuiri, sau arca era acolo când a ieșit din ea; de asemenea munții Ararat sunt la răsărit. Iar ei, în învoiala lor, au ieșit din acel răsărit și au venit spre apus, până la Babel. Iar valea este un loc șes între munți; este una largă și este una strâmtă; iar acest șes l-au găsit larg și s-au învoit să locuiască acolo, și s-au așezat acolo; și locul acela s-a numit țara Șinear, și ea este cea pomenită mai sus; căci am scris deja că lucrul acela a fost după dezbinare. Și Scriptura nu a povestit de ce s-a numit Șinear; iar învățătorii noștri, binecuvântată fie amintirea lor, au spus: pentru că morții apelor potopului au fost scuturați (nineʿaru) acolo, pentru că este o vale."
    },
    {
-    "author": "Talmudul Babilonian, Megila 10b:6",
-    "text": "„Și a fost, când au călătorit dinspre răsărit” — „Haideți să ne construim un oraș”. „Și a fost în zilele lui Amrafel” — „au făcut război”. „Și a fost, pe când era Iosua lângă Ierihon” — „și sabia lui scoasă în mâna lui”. „Și a fost Domnul cu Iosua” — „Și copiii lui Israel au săvârșit o fărădelege”. „Și a fost un om din Ramataim” — „căci pe Ana o iubea, dar Domnul îi închisese pântecele”."
+    "author": "Talmudul Babilonian, Megila, cap. 1",
+    "text": "„Și a fost, când au călătorit dinspre răsărit” — „Haideți să ne construim un oraș”. „Și a fost în zilele lui Amrafel” — „au făcut război”. „Și a fost, pe când era Iosua lângă Ierihon” — „și sabia lui scoasă în mâna lui”. „Și a fost Domnul cu Iosua” — „Și copiii lui Israel au săvârșit o fărădelege”. „Și a fost un om din Ramataim” — „căci pe Ana o iubea, dar Domnul îi închisese pântecele”.",
+    "src": {
+     "slug": "talmud-megillah",
+     "spec": {
+      "num": 1,
+      "v": 22
+     }
+    }
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -621,8 +628,15 @@ window.CHAPTER_DATA = [
     "text": "«Haideți să ne construim un oraș.» Orașul ca să locuiască, iar turnul ca să privească de acolo în depărtare, să vadă starea vitelor și a dobitoacelor lor; și de asemenea va fi lumină pentru păstori, care își duc vitele la pășune în pustiuri departe de oraș, iar turnul le va fi drept semn și drept însemn, ca să știe să se întoarcă la oraș.<br><br>«Cu vârful în ceruri.» Vrea să spună: ca turnul să fie înalt, ca „cetăți mari și fortificate până la ceruri”, adică în înălțimea văzduhului.<br><br>«Și să ne facem un nume.» Adică: dacă vom avea un loc înalt în acest oraș, fiecare dintre noi va avea un nume, încât dacă va ieși în afara hotarului acestuia, își va aminti de oraș și se va întoarce la el; sau unul dintre cei care ies îi va aminti tovarășului său și se vor întoarce la el. Căci dacă nu vom face așa, poate ne vom împrăștia pe fața întregului pământ, încât cei care ies dintre noi vor uita tovărășia și vor rămâne acolo, în locul în care au mers, și vor locui acolo, acesta la răsărit și acela la apus, acesta la miazănoapte și acela la miazăzi, iar tovărășia noastră se va risipi; vom fi împrăștiați încoace și încolo."
    },
    {
-    "author": "Talmudul Babilonian, Megila 10b:6",
-    "text": "„Și a fost, când au călătorit dinspre răsărit” — „Haideți să ne construim un oraș”. „Și a fost în zilele lui Amrafel” — „au făcut război”. „Și a fost, pe când era Iosua lângă Ierihon” — „și sabia lui scoasă în mâna lui”. „Și a fost Domnul cu Iosua” — „Și copiii lui Israel au săvârșit o fărădelege”. „Și a fost un om din Ramataim” — „căci pe Ana o iubea, dar Domnul îi închisese pântecele”."
+    "author": "Talmudul Babilonian, Megila, cap. 1",
+    "text": "„Și a fost, când au călătorit dinspre răsărit” — „Haideți să ne construim un oraș”. „Și a fost în zilele lui Amrafel” — „au făcut război”. „Și a fost, pe când era Iosua lângă Ierihon” — „și sabia lui scoasă în mâna lui”. „Și a fost Domnul cu Iosua” — „Și copiii lui Israel au săvârșit o fărădelege”. „Și a fost un om din Ramataim” — „căci pe Ana o iubea, dar Domnul îi închisese pântecele”.",
+    "src": {
+     "slug": "talmud-megillah",
+     "spec": {
+      "num": 1,
+      "v": 22
+     }
+    }
    },
    {
     "author": "Zohar, Bereșit 20:6",
@@ -782,8 +796,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Domnul a coborât.» Pentru purtarea de grijă a lui Dumnezeu față de faptele celor de jos, Scriptura numește în acest lucru cu expresia coborârii, și la fel în lucrul Sodomei; pentru că este o coborâre pentru slava Sa să poarte grijă celor de jos; numai că așa a văzut Dumnezeu, binecuvântat fie El, în om, din pricina părtășiei minții care este în el.<br><br>«Să vadă.» Și la fel a spus în lucrul Sodomei: „și voi vedea”. Iar Onkelos a tradus aceasta în sensul răzbunării, iar pe cel al Sodomei în sensul judecății. Iar explicația aici este după sensul lui: să poarte grijă de faptele lor și de gândul lor și să le anuleze; și îl vom mai explica la lucrul Sodomei.<br><br>«Pe care l-au construit»: pe care au început să-l construiască.<br><br>«Fiii omului.» Într-adevăr fii ai omului, care merg după pofta inimii lor și nu se întorc spre lucrarea lui Dumnezeu; căci El a avut în vedere așezarea pământului de la răsărit la apus, iar ei se gândesc să locuiască într-un singur loc de pe pământ și să anuleze voia lui Dumnezeu. Și iată, în lucrul potopului nu a spus expresia coborârii, ci expresia vederii: „Și Domnul a văzut că mare era răutatea omului pe pământ”; pentru că lucrul coborârii este în sensul străduinței de a cerceta lucrul și de a purta grijă de el; iar lucrul potopului era foarte cunoscut și era în toată lumea, iar lucrul Sodomei nu era decât în țara lor și nu era cunoscut tuturor, decât în țara lor și în cele din jurul lor. Și despre toate, Tora a vorbit după limba oamenilor."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 38b:14",
-    "text": "A spus Rabbi Yoḥanan: Oriunde minii s-au dedat la erezie, răspunsul lor este alături de ei: „Să facem om în imaginea noastră”, și spune: „Și a creat Dumnezeu pe om în imaginea Sa”; „Hai să coborâm și să le încurcăm acolo limba”, „Și Domnul a coborât să vadă orașul și turnul”; „căci acolo i Se dezvăluise Dumnezeu”, „lui Dumnezeu, care mi-a răspuns în ziua restriștii mele”."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 4",
+    "text": "A spus Rabbi Yoḥanan: Oriunde minii s-au dedat la erezie, răspunsul lor este alături de ei: „Să facem om în imaginea noastră”, și spune: „Și a creat Dumnezeu pe om în imaginea Sa”; „Hai să coborâm și să le încurcăm acolo limba”, „Și Domnul a coborât să vadă orașul și turnul”; „căci acolo i Se dezvăluise Dumnezeu”, „lui Dumnezeu, care mi-a răspuns în ziua restriștii mele”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 4,
+      "v": 14
+     }
+    }
    },
    {
     "author": "Zohar, Noah 5:5",
@@ -1114,8 +1135,15 @@ window.CHAPTER_DATA = [
     "text": "«Hai.» Am explicat deja cuvântul havah, și nu este decât pe calea pildei, căci Plăsmuitorul nu se sfătuiește cu cel plăsmuit; și la fel a spus profetul: „Cu cine S-a sfătuit, ca să-L lămurească?”. Și la fel a spus „să coborâm și să încurcăm” față de îngeri, care sunt intermediari; și totul este pe calea pildei.<br><br>«Și să încurcăm» (we-navlah). Nun-ul este pentru cei care vorbesc despre ei înșiși; sau nun-ul va fi pentru nifʿal și va fi la feminin, iar sensul lui se referă la limba lor; și după ambele păreri cuvântul este ușor, iar după regulă trebuia să aibă dageș: we-nabbelah, căci rădăcina lui este bll. Iar dacă nun-ul este al celor care vorbesc, dacă este din conjugarea qal, bet-ul este cu ḥolam, iar dacă este din conjugarea hifʿil, bet-ul este cu ṣere.<br><br>«Astfel încât să nu înțeleagă» (lo yišmeʿu): să nu priceapă; și aceasta este auzirea inimii; și la fel „a cărui limbă nu o vei înțelege”. Iar cuvintele, pentru că ies prin buză și prin limbă, se numesc buză și limbă."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 38b:14",
-    "text": "A spus Rabbi Yoḥanan: Oriunde minii s-au dedat la erezie, răspunsul lor este alături de ei: „Să facem om în imaginea noastră”, și spune: „Și a creat Dumnezeu pe om în imaginea Sa”; „Hai să coborâm și să le încurcăm acolo limba”, „Și Domnul a coborât să vadă orașul și turnul”; „căci acolo i Se dezvăluise Dumnezeu”, „lui Dumnezeu, care mi-a răspuns în ziua restriștii mele”."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 4",
+    "text": "A spus Rabbi Yoḥanan: Oriunde minii s-au dedat la erezie, răspunsul lor este alături de ei: „Să facem om în imaginea noastră”, și spune: „Și a creat Dumnezeu pe om în imaginea Sa”; „Hai să coborâm și să le încurcăm acolo limba”, „Și Domnul a coborât să vadă orașul și turnul”; „căci acolo i Se dezvăluise Dumnezeu”, „lui Dumnezeu, care mi-a răspuns în ziua restriștii mele”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 4,
+      "v": 14
+     }
+    }
    }
   ]
  },
@@ -2774,8 +2802,15 @@ window.CHAPTER_DATA = [
   "fidela": "Şi Reu a trăit treizeci şi doi de ani şi a născut pe Serug;",
   "commentaries": [
    {
-    "author": "Talmudul Babilonian, Megila 10b:6",
-    "text": "„Și a fost, când au călătorit dinspre răsărit” — „Haideți să ne construim un oraș”. „Și a fost în zilele lui Amrafel” — „au făcut război”. „Și a fost, pe când era Iosua lângă Ierihon” — „și sabia lui scoasă în mâna lui”. „Și a fost Domnul cu Iosua” — „Și copiii lui Israel au săvârșit o fărădelege”. „Și a fost un om din Ramataim” — „căci pe Ana o iubea, dar Domnul îi închisese pântecele”."
+    "author": "Talmudul Babilonian, Megila, cap. 1",
+    "text": "„Și a fost, când au călătorit dinspre răsărit” — „Haideți să ne construim un oraș”. „Și a fost în zilele lui Amrafel” — „au făcut război”. „Și a fost, pe când era Iosua lângă Ierihon” — „și sabia lui scoasă în mâna lui”. „Și a fost Domnul cu Iosua” — „Și copiii lui Israel au săvârșit o fărădelege”. „Și a fost un om din Ramataim” — „căci pe Ana o iubea, dar Domnul îi închisese pântecele”.",
+    "src": {
+     "slug": "talmud-megillah",
+     "spec": {
+      "num": 1,
+      "v": 22
+     }
+    }
    },
    {
     "author": "Notă structurală",

@@ -62,8 +62,15 @@ window.CHAPTER_DATA = [
     "text": "«Iar el a trecut înaintea lor»: cum se îndură un tată de copii; ca să ajungă la el și să nu ajungă la ei, și să-i lase pe copii; sau să se lupte el și slujitorii lui pentru ei, dacă nu-i va primi împăcarea.<br><br>«De șapte ori»: în Bereșit Rabba, după „căci de șapte ori cade cel drept și se ridică”."
    },
    {
-    "author": "Talmudul Babilonian, Megila 21b:4",
-    "text": "De unde reiese că acest „ʿover” este limbaj de a lua înainte? A spus Rav Naḥman bar Yițḥaq: Căci spune versetul: „Și Ahimaaț a fugit pe drumul câmpiei și l-a întrecut pe Cuși”. Abbaye a spus: De aici: „Iar el a trecut înaintea lor”. Și dacă vrei, spune: de aici: „Și împăratul lor a trecut înaintea lor, și Domnul în fruntea lor”."
+    "author": "Talmudul Babilonian, Megila, cap. 3",
+    "text": "De unde reiese că acest „ʿover” este limbaj de a lua înainte? A spus Rav Naḥman bar Yițḥaq: Căci spune versetul: „Și Ahimaaț a fugit pe drumul câmpiei și l-a întrecut pe Cuși”. Abbaye a spus: De aici: „Iar el a trecut înaintea lor”. Și dacă vrei, spune: de aici: „Și împăratul lor a trecut înaintea lor, și Domnul în fruntea lor”.",
+    "src": {
+     "slug": "talmud-megillah",
+     "spec": {
+      "num": 3,
+      "v": 4
+     }
+    }
    }
   ]
  },

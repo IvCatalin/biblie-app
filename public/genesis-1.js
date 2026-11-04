@@ -163,8 +163,15 @@ window.CHAPTER_DATA = [
     "text": "La început, Dumnezeu a făcut cerul și pământul."
    },
    {
-    "author": "Talmudul Babilonian, Hagiga 12a:16",
-    "text": "Au învățat rabinii: Casa lui Șammai spune: Cerurile au fost create întâi și după aceea a fost creat pământul, căci s-a spus: „La început, când a creat Dumnezeu cerurile și pământul”. Iar Casa lui Hillel spune: Pământul a fost creat întâi și după aceea cerurile, căci s-a spus: „în ziua facerii de către Domnul Dumnezeu a pământului și cerurilor”."
+    "author": "Talmudul Babilonian, Hagiga, cap. 2",
+    "text": "Au învățat rabinii: Casa lui Șammai spune: Cerurile au fost create întâi și după aceea a fost creat pământul, căci s-a spus: „La început, când a creat Dumnezeu cerurile și pământul”. Iar Casa lui Hillel spune: Pământul a fost creat întâi și după aceea cerurile, căci s-a spus: „în ziua facerii de către Domnul Dumnezeu a pământului și cerurilor”.",
+    "src": {
+     "slug": "talmud-chagigah",
+     "spec": {
+      "num": 2,
+      "v": 16
+     }
+    }
    },
    {
     "author": "Zohar, Bereșit 19:3",
@@ -473,8 +480,15 @@ window.CHAPTER_DATA = [
     "text": "Epopeea babiloniană Enuma Eliș povestește creația ca pe urmarea unui război între zei: Marduk o învinge pe zeița-ocean Tiamat și-i sfâșie trupul în două, ca să facă din el cerul și pământul. Nimic asemănător nu se întâmplă în Geneza — nu există niciun adversar, nicio bătălie. „Haos și pustiu” descrie doar o etapă neterminată a lucrării lui Dumnezeu, nu o forță ostilă pe care ar trebui s-o învingă.<br><br>Cât despre „duhul lui Dumnezeu” care plutește deasupra apelor, unii cercetători au propus o legătură cu vânturile stârnite de zeul Anu în aceeași epopee — dar acolo vântul aduce distrugere, în timp ce aici pare mai degrabă un semn de grijă activă, nu de amenințare."
    },
    {
-    "author": "Talmudul Babilonian, Hagiga 12a:6",
-    "text": "Cerurile și pământul — căci este scris: „La început, când a creat Dumnezeu cerurile și pământul”; haosul și pustiul — căci este scris: „și pământul era haos și pustiu”; lumina și întunericul: întunericul — căci este scris: „și întuneric era peste fața adâncului”; lumina — căci este scris: „Dumnezeu a spus: „Să fie lumină!””; duhul și apele — căci este scris: „și duhul lui Dumnezeu plutea peste fața apelor”; măsura zilei și măsura nopții — căci este scris: „Și a fost seară și a fost dimineață: o zi”."
+    "author": "Talmudul Babilonian, Hagiga, cap. 2",
+    "text": "Cerurile și pământul — căci este scris: „La început, când a creat Dumnezeu cerurile și pământul”; haosul și pustiul — căci este scris: „și pământul era haos și pustiu”; lumina și întunericul: întunericul — căci este scris: „și întuneric era peste fața adâncului”; lumina — căci este scris: „Dumnezeu a spus: „Să fie lumină!””; duhul și apele — căci este scris: „și duhul lui Dumnezeu plutea peste fața apelor”; măsura zilei și măsura nopții — căci este scris: „Și a fost seară și a fost dimineață: o zi”.",
+    "src": {
+     "slug": "talmud-chagigah",
+     "spec": {
+      "num": 2,
+      "v": 6
+     }
+    }
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 1",
@@ -660,8 +674,15 @@ window.CHAPTER_DATA = [
     "text": "«Să fie lumină!» Deși luminătorii nu au fost pe firmamentul cerurilor până în ziua a patra, oricum au fost creați în ziua întâi, odată cu sferele cerești; și totul a fost creat într-o singură clipă, dar lucrarea lor nu a ieșit la înfăptuire pe fața lumii decât fiecare în ziua lui. Și nici lumina nu a început să-și trimită scânteile ca să facă să crească plantele pământului și să fie iarbă roditoare de sămânță, până ce Numele nu a spus să fie luminători pe firmamentul cerurilor, ca să lumineze asupra pământului și să-și facă lucrarea în lumea pământească. «Zi.» Cuvântul yom este timpul în care soarele este deasupra pământului, numai el; și la fel: „toată ziua aceea și toată noaptea”. Și uneori cuprinde ziua și noaptea, ca: „Și a fost seară și a fost dimineață: o zi”. Și se spune yom despre timp, ca: „în ziua în care am lovit pe toți întâii-născuți”."
    },
    {
-    "author": "Talmudul Babilonian, Tamid 32a:4",
-    "text": "Le-a spus: Lumina a fost creată întâi sau întunericul? I-au spus: Lucrul acesta nu are dezlegare. Și să-i fi spus: întunericul a fost creat întâi, căci este scris: „și pământul era haos și pustiu, și întuneric”, și apoi: „Dumnezeu a spus: Să fie lumină! Și a fost lumină.”"
+    "author": "Talmudul Babilonian, Tamid, cap. 4",
+    "text": "Le-a spus: Lumina a fost creată întâi sau întunericul? I-au spus: Lucrul acesta nu are dezlegare. Și să-i fi spus: întunericul a fost creat întâi, căci este scris: „și pământul era haos și pustiu, și întuneric”, și apoi: „Dumnezeu a spus: Să fie lumină! Și a fost lumină.”",
+    "src": {
+     "slug": "talmud-tamid",
+     "spec": {
+      "num": 4,
+      "v": 4
+     }
+    }
    },
    {
     "author": "Zohar, Bereșit 5:1",
@@ -898,8 +919,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Dumnezeu a văzut»: a văzut după cunoașterea și înțelepciunea Lui că lumina va fi bună pentru făpturile de jos; și deși și întunericul le este bun, cum am arătat, întunericul nu este un lucru despre care să se spună „bun”, căci întunericul este lipsa luminii; întunericul era deja, iar lumina s-a înnoit peste el, și se cuvine să se spună despre ea „bună”; și binele ei este vădit, ceea ce nu este așa cu întunericul, căci ceea ce este vădit din el este rău. Și a spus despre lumină: „Dulce este lumina și bine este pentru ochi”, și a spus, dimpotrivă, despre întuneric în multe locuri, cum a spus: „și se va uita spre pământ, și iată: întuneric”, și a spus: „căci vine în deșertăciune și pleacă în întuneric”; și peste tot pomenește întunericul spre rău, căci răul lui este vădit și binele lui este ascuns. Și tot așa, orice „că este bine” spus în cele șase zile ale creației este un bine în care nu este rău. Iar motivul pentru care „și a despărțit” vine după „și a văzut”: de vreme ce a văzut că lumina este bună, a văzut că nu se vor numi cu un singur nume, căci una este opusul celeilalte, ca să le despartă prin nume; de aceea este scris după aceea „și a numit”, ca să spună că despărțirea despre care a vorbit nu este decât prin chemarea numelor. Și nu se poate explica „și a despărțit” decât prin chemarea numelor, căci nu se spune despărțire decât între un lucru și alt lucru, iar întunericul nu este un lucru, căci prin lipsa luminii rămâne întunericul; și cum se va spune „despărțire” între ele, când tot lucrul este despre lumină, între a fi și a nu fi? De aceea a spus „și a despărțit Dumnezeu”, și n-a spus „și a despărțit lumina” sau „și a despărțit” fără subiect, încât să se înțeleagă că lumina este cea care desparte, cum a spus la firmament, ci „și a despărțit Dumnezeu”, căci El le-a despărțit prin chemarea numelor, cum a spus după „și a despărțit”: „și a numit”. Iar ceea ce a spus „și pentru a despărți lumina de întuneric”, amândouă sunt un singur lucru, căci ziua este luminătorul cel mare, iar noaptea luminătorul cel mic și stelele, dar ea este întuneric față de lumina zilei; însă în acele trei zile noaptea era întuneric deplin."
    },
    {
-    "author": "Talmudul Babilonian, Hagiga 12a:10",
-    "text": "Și pentru cine a ascuns-o? Pentru cei drepți, în viitorul ce va veni, căci s-a spus: „Și Dumnezeu a văzut că lumina este bună”; și nu este „bun” decât cel drept, căci s-a spus: „Spuneți despre cel drept că este bun”."
+    "author": "Talmudul Babilonian, Hagiga, cap. 2",
+    "text": "Și pentru cine a ascuns-o? Pentru cei drepți, în viitorul ce va veni, căci s-a spus: „Și Dumnezeu a văzut că lumina este bună”; și nu este „bun” decât cel drept, căci s-a spus: „Spuneți despre cel drept că este bun”.",
+    "src": {
+     "slug": "talmud-chagigah",
+     "spec": {
+      "num": 2,
+      "v": 10
+     }
+    }
    },
    {
     "author": "Zohar, Bereșit 5:9",
@@ -1149,8 +1177,15 @@ window.CHAPTER_DATA = [
     "text": "«Iar întunericul l-a numit „noapte”.» Timpul lipsei luminii l-a numit noapte; și, deși nu este un lucru, i se aplică numele, căci și lipsei lucrurilor li se aplică nume, ca: moarte, orbire, nebunie și cele asemenea lor.<br><br>«Seară (ʿerev).» Timpul de după apusul soarelui se numește ʿerev, cu sensul de amestecare și împreunare a lucrurilor, pentru că este timpul întunericului și lucrurile se amestecă, încât omul nu le recunoaște și nu deosebește un lucru de altul; și pentru că seara desparte noaptea de zi, noaptea se numește ʿerev. «Dimineață (boqer).» Începutul zilei se numește boqer, cu sensul de cercetare și deosebire (biqqur), căci dimineața fiecare lucru se deosebește la lumina zilei.<br><br>«O zi.» Și nu a spus „ziua întâi”, pentru că nu este „întâi” fără „al doilea”, iar al doilea încă nu fusese făcut. Sau, cum a scris Rabbi Moșe ibn Ezra: pentru că „unu” este semnul începutului înaintea căruia nu este alt început; și la fel a scris Rabbeinu Baḥya, judecătorul, în cartea Datoriile inimilor, în Poarta unității, capitolul 8."
    },
    {
-    "author": "Talmudul Babilonian, Berahot 2a:8–9",
-    "text": "Tanna-ul se sprijină pe verset, căci este scris: „când te culci și când te scoli”; și așa învață: vremea citirii Șema de la culcare, când este? Din ceasul în care preoții intră să mănânce din terumah lor.<br><br>Și dacă vrei, spune: învață din facerea lumii, căci este scris: „Și a fost seară și a fost dimineață: o zi.”"
+    "author": "Talmudul Babilonian, Berahot, cap. 1",
+    "text": "Tanna-ul se sprijină pe verset, căci este scris: „când te culci și când te scoli”; și așa învață: vremea citirii Șema de la culcare, când este? Din ceasul în care preoții intră să mănânce din terumah lor.<br><br>Și dacă vrei, spune: învață din facerea lumii, căci este scris: „Și a fost seară și a fost dimineață: o zi.”",
+    "src": {
+     "slug": "talmud-berakhot",
+     "spec": {
+      "num": 1,
+      "v": 8
+     }
+    }
    },
    {
     "author": "Zohar, Bereșit 5:10",
@@ -1404,8 +1439,15 @@ window.CHAPTER_DATA = [
     "text": "«Un firmament (raqiaʿ).» Orice lucru care este întins și bătut se numește raqiaʿ, ca: „foi bătute cu ciocanul (riqquʿe paḥim)”; și el este aerul care înconjură tot globul pământesc.<br><br>«În mijlocul apelor»: iar ceea ce a spus „în mijlocul apelor” este pentru că el însuși era în ape.<br><br>«Și să fie despărțitor între ape și ape»: cum a spus: „între apele care sunt sub firmament și apele care sunt deasupra firmamentului”; iar apele de sus sunt ape în putere și devin ape în fapt când ajunge acolo aerul umed care se ridică, și se face ploaie, cum au scris înțelepții cercetării; și din această pricină a fost nevoie de despărțire, ca locul acela care este deasupra firmamentului să rămână în starea în care a rămas după facerea firmamentului, ca să urce în el aerul umed, ca să ude fața pământului deopotrivă, munți și văi, cum a hotărât Dumnezeu în înțelepciunea Lui. Și mă mir de ceea ce a scris rabinul, Rabbeinu Moșe, binecuvântată fie amintirea lui, care a asemănat această despărțire cu despărțirea luminii de întuneric; căci acolo este scris „și a despărțit Dumnezeu”, iar aici firmamentul este cel care desparte, căci unele sunt deasupra lui și altele sub el; și cum a spus că El a despărțit între ele printr-o despărțire naturală, când cel care desparte este firmamentul, iar acolo cel care desparte este Dumnezeu, binecuvântat fie El? Totuși este adevărat ceea ce a spus, că natura lor nu este una, cum ne-a învățat el; și ne-a luminat ochii în aceasta și în multe lucruri în care umblam în întuneric până la venirea cuvântului lui. Și vezi ce au scris învățătorii noștri, binecuvântată fie amintirea lor, în această privință, și înțelege cum s-a potrivit părerea lor cu părerea înțelepților cercetării; și astfel au spus în Bereșit Rabba: „Învățătorii o spun în numele lui Rabbi Ḥanina, Rabbi Yaʿaqov bar Avun în numele lui Rabbi Șemuel bar Naḥman: În ceasul în care Sfântul, binecuvântat fie El, a spus «Să fie un firmament», s-a închegat picătura din mijloc și s-au făcut apele de jos și cerurile cerurilor de sus. Rav a spus: Umede erau cerurile în prima zi, iar în a doua s-au închegat. Rav a spus: «Să fie un firmament» – să se întărească firmamentul. Rabbi Yuda bar Simon: «Să fie un firmament» – să se facă firmamentul ca o foaie bătută, cum spui: «Au bătut plăci subțiri de aur». A spus Rabbi Ḥanina: A ieșit foc de sus și a lins fața firmamentului. Rabbi Yoḥanan, când ajungea la acest verset, «Prin suflarea Lui cerurile s-au înseninat», spunea: Frumos m-a învățat Rabbi Ḥanina. A spus Rabbi Yudan ben Rabbi Șimʿon: Foc a ieșit de sus și a înfierbântat fața firmamentului. A spus Rabbi Tanḥuma: Dacă s-ar fi spus «și între apele care sunt pe firmament», aș fi zis că apele sunt puse pe trupul firmamentului; când spune «care sunt deasupra firmamentului», iată, apele de sus sunt atârnate prin cuvânt. A spus Rabbi Aḥa: Și roadele lor, acestea sunt ploile.” Și au mai spus: „Firmamentul seamănă cu un iaz, iar deasupra iazului este o boltă, și din pricina iazului bolta asudă, și asudă picături groase, și ele coboară în apele sărate și nu se amestecă.” Și au mai spus: „A spus Rabbi Berekhia: Apele de sus nu s-au despărțit de cele de jos decât cu plâns, căci s-a spus: «Din plânsul (mi-bekhi) râurilor le-a zăgăzuit»”; iar ploaia coboară în picături ca plânsul, și aceasta este cum am scris mai sus. Și din tainele acestui lucru este ceea ce au spus, binecuvântată fie amintirea lor: „Care firmament a fost creat în ziua a doua? Rabbi Eliʿezer spune: firmamentul care este deasupra capetelor făpturilor vii (ḥayyot), căci s-a spus: «Și deasupra capetelor făpturii vii era asemănarea unui firmament»”; și după acest lucru, apele care erau deasupra firmamentului erau ceea ce nu este trup."
    },
    {
-    "author": "Talmudul Babilonian, Hagiga 15a:4",
-    "text": "Dacă tot „și duhul lui Dumnezeu plutea peste fața apelor” — când a fost? În ziua întâi; iar despărțirea a fost în ziua a doua, căci este scris: „și să fie despărțitor între ape și ape”! Și cât? A spus Rav Aḥa bar Yaʿaqov: Cât un fir de păr; iar rabinii spun: Ca scândurile unui pod. Mar Zutra, și unii spun Rav Assi, a spus: Ca două mantale întinse una peste alta; și unii spun: Ca două cupe răsturnate una peste alta."
+    "author": "Talmudul Babilonian, Hagiga, cap. 2",
+    "text": "Dacă tot „și duhul lui Dumnezeu plutea peste fața apelor” — când a fost? În ziua întâi; iar despărțirea a fost în ziua a doua, căci este scris: „și să fie despărțitor între ape și ape”! Și cât? A spus Rav Aḥa bar Yaʿaqov: Cât un fir de păr; iar rabinii spun: Ca scândurile unui pod. Mar Zutra, și unii spun Rav Assi, a spus: Ca două mantale întinse una peste alta; și unii spun: Ca două cupe răsturnate una peste alta.",
+    "src": {
+     "slug": "talmud-chagigah",
+     "spec": {
+      "num": 2,
+      "v": 39
+     }
+    }
    },
    {
     "author": "Zohar, Bereșit 6:1",
@@ -2507,8 +2549,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Dumnezeu a numit»: căci până acum nu era potrivit să i se dea nume, de vreme ce nu era descoperit; și cum s-ar da nume unui lucru care nu este simțit? Și tot așa apele adunate le-a numit „mări” (yammim) pentru adâncimea lor. Și deși au fost numite „adânc” (tehom) în versetul al doilea, aceea este vorba lui Moise, învățătorul nostru, adică ceea ce noi numim „adânc”; sau vom spune că tehom este un nume derivat din alt nume, din tohu, căci locul foarte adânc peste care s-au înmulțit apele este ca un tohu („haos”) pentru făpturi, care nu se folosesc de el; căci locul unde sunt foarte multe ape este în marea cea mare, și el este locul rotunjimii pământului, foarte departe de uscat; și este un loc de povârniș și coborâre din pricina rotunjimii pământului; căci înțelepții cercetării au adus dovadă că pământul este rotund ca o sferă, pentru că este în mijlocul unei rotunjimi, care sunt sferele, și nicio formă nu stă în mijlocul altei forme fără să încline spre una dintre laturi, decât forma rotundă; și el, din pricina naturii lui, trebuie să-și aibă locul jos în rotunjime, care este punctul din mijloc; de aceea nu este cu putință să aibă laturi, ci este rotund ca o sferă. Iar locul acela despre care am spus că l-a numit „adânc”, în adevăr nu merg pe el corăbii și nu mișună acolo pești; și se numește „adânc” prin împrumut pentru alte locuri în care au coborât apele; iar yam („mare”) este un nume pentru locul însuși, care nu este derivat din alt nume, și este nume de substanță pentru loc, nu nume de însușire, ca tehom, și ca yabbašah („uscatul”), care este însușire, numit așa din pricina uscăciunii lui; iar ʾereṣ („pământ”) este nume de substanță, nu nume de însușire. Și yam se numește și locul peste care nu este mulțime de ape, adică locurile din mare care nu sunt atât de departe de marginea apei (ha-šefaʿ), căci este un nume care cuprinde toată adunarea apelor de la marginea apei înăuntru; dar tehom este nume deosebit pentru locul cu mulțime de ape.<br><br>Iar când spune yammim („mări”), la plural, a scris înțeleptul Rabbi Yițḥak Israeli că sunt două: cea care înconjoară, care este marea Oceanului, și marea cea mare de miazăzi, numită Serendib.<br><br>Și n-a spus aici „și a despărțit”, pentru că nu este o despărțire deplină; căci lumina și întunericul din pericopa luminătorilor, și tot așa despărțirea firmamentului, sunt despărțire deplină, încât niciodată unul nu ajunge la hotarul celuilalt; dar uscatul și marea nu sunt o despărțire deplină, căci uneori uscatul se face apă, când apele mării ies din locul lor și acoperă o parte din uscat, și tot așa uneori o parte din mare seacă și se face uscat. Iar în Bereșit Rabba: „«A numit-o mări». A spus Rabbi Yose bar Ḥalafta: Oare nu este o singură mare? Ci nu se aseamănă gustul peștelui care urcă de la Acco cu al peștelui care urcă de la Sidon și de mai departe, din Aspamia.”"
    },
    {
-    "author": "Talmudul Babilonian, Șabat 109a:9",
-    "text": "A spus Rabbi Yoḥanan: Nu este greu: aceasta este Rabbi Meir, aceasta este Rabbi Yehudah; căci am învățat: Toate mările sunt ca mikveh, căci s-a spus: „iar adunarea de ape a numit-o mări” — cuvintele lui Rabbi Meir. Rabbi Yehudah spune: Marea cea Mare este ca mikveh; nu s-a spus „mări” decât pentru că sunt în ea multe feluri de mări."
+    "author": "Talmudul Babilonian, Șabat, cap. 14",
+    "text": "A spus Rabbi Yoḥanan: Nu este greu: aceasta este Rabbi Meir, aceasta este Rabbi Yehudah; căci am învățat: Toate mările sunt ca mikveh, căci s-a spus: „iar adunarea de ape a numit-o mări” — cuvintele lui Rabbi Meir. Rabbi Yehudah spune: Marea cea Mare este ca mikveh; nu s-a spus „mări” decât pentru că sunt în ea multe feluri de mări.",
+    "src": {
+     "slug": "talmud-shabbat",
+     "spec": {
+      "num": 14,
+      "v": 9
+     }
+    }
    },
    {
     "author": "Mișna, Mikvaot 5:4",
@@ -2683,8 +2732,15 @@ window.CHAPTER_DATA = [
     "text": "«Să rodească (tadšeʾ).» Explicația lui este: să scoată vegetație; și de aceea a spus: „Și pământul a produs”. Cuvântul tadšeʾ se trage pe sine și încă unul cu el, și astfel este explicația lui: „Să rodească pământul vegetație etc.” și „să rodească pom roditor”.<br><br>«Vegetație (dešeʾ).» Se numește așa la începutul ieșirii ei, iar când crește se numește iarbă (ʿesev); și dešeʾ este începutul lucrării la iarbă, de aceea din el vine un verb, ca din ṣemaḥ, dar din ʿesev nu vine așa. «După soiul său.» Ceea ce îi seamănă, și aceasta este alcătuirea lui.<br><br>«Roditoare de sămânță» (mazriaʿ zeraʿ): și tot așa „să rodească pământul vegetație” (tadšeʾ ha-ʾareṣ dešeʾ): substantivul vine după verbul format din el, pentru o lămurire în plus sau ca să întărească acțiunea, și aceasta este explicația corectă; și tot așa „și David a postit un post”, „se vor rușina cu rușine”, „ca să câștige câștig”, „să plouă ploaie peste ea”, și cele asemenea lor, cum am scris în cartea Mikhlol.<br><br>«Pom roditor» (ʿeṣ peri): „să rodească” se aplică și la pomul roditor, iar explicația lui este „care face rod”, căci iată, la „pământul a produs” n-a pomenit decât „pom care rodește fruct” (ʿoseh peri); iar explicația lui este că pomul face un rod deosebit de el însuși, căci și el rodește, numai că are un nume general deosebit, și acesta este „pom”, iar ceea ce scoate are numele general deosebit „rod”. Iar ceea ce a spus „rodul pământului tău” este pentru că intenția este spre rodul pe care îl scoate pomul, căci pomul nu se mănâncă; și de aceea a legat rodul de pământ și a luat ce este de pe urmă, căci la el este intenția. Și tot așa „spicul nu va da făină”, „ca să scoată pâine din pământ”; și tot așa intenția este spre iarba care se mănâncă, căci ea este rodul pământului. Și se poate explica că în „pom roditor” sunt cuprinse și frunzele, căci și ele rodesc; și le-a pomenit pentru că ele păzesc rodul; și deși ele însele nu sunt hrană pentru oameni, sunt hrană pentru păsări. Și pentru că ele păzesc rodul, au fost cuprinse în cuvântul „rod”, cum se spune în proverb: „Să se roage ciorchinii pentru frunze, căci dacă n-ar fi frunzele, ciorchinii n-ar dăinui.” Și de vreme ce am spus că frunzele sunt cuprinse în cuvântul „rod”, copacii fără rod vor fi cuprinși în „pom care face rod”; căci altfel unde au fost pomeniți copacii fără rod la crearea din ziua a treia? Căci iată, regele David, pacea fie asupra lui, când a pomenit rânduiala lucrării creației în psalmul „Binecuvântează, suflete al meu”, i-a pomenit, cum a spus: „Lângă ele locuiesc păsările cerului, dintre ramuri își dau glasul”, și a spus: „Se satură copacii Domnului, cedrii Libanului pe care i-a sădit” etc. Iată, i-a pomenit pentru folosul păsărilor; iar când spune „dintre ramuri își dau glasul”, vrea să spună că, mâncând din frunze, care sunt ramurile (ʿofaʾim) pe care le-a pomenit, se vor bucura și își vor da glasul de bucurie; și iată, folosul păsărilor este în frunze, iar folosul oamenilor în lemne, ca să facă din ele unelte și grinzi pentru case și să aprindă cu ele foc pentru copt și pentru gătit.<br><br>Și sensul lui „după soiul său” este despre iarbă ca și despre pom, căci la urmă a pomenit „după soiul său”; și la fel, când a spus: „Și pământul a produs”, a pomenit la fiecare „după soiul său”. Dar părerea învățătorilor noștri, binecuvântată fie amintirea lor, nu este așa, căci au spus: „A expus Rabbi Ḥanina bar Papa: versetul acesta, «Slava Domnului să fie în veac», l-a spus căpetenia lumii. În ceasul în care Sfântul, binecuvântat fie El, a spus «după soiul său» despre pomi, plantele au tras o concluzie de la mai mic la mai mare despre ele însele etc.”.<br><br>«Cu sămânța sa în el» (ʾašer zarʿo vo): iarba și rodul au sămânța lor înăuntrul lor, adică sămânța din care iese ceva asemenea lor este înăuntrul lor; căci ierburile au sămânța în ele, în coji, iar cojile învelesc sămânța și o păzesc; și tot așa copacii care dau rod de mâncat, sămânța este înăuntrul rodului; căci cele la care se mănâncă ce este afară și se aruncă ce este înăuntru, ca curmalele, piersicile și cele asemenea lor, cresc din ceea ce este înăuntru; și tot așa cele care au înăuntru sâmburi mici, ca merele, chitrele și cele asemenea lor, cresc din acei sâmburi; și tot așa cele la care se aruncă ce este afară și se mănâncă ce este înăuntru cresc din ceea ce este înăuntru; și tot așa smochinele, la care se mănâncă și ce este înăuntru și ce este afară, cresc din sâmburii mici, care sunt hrană și sunt înăuntrul cojii care se mănâncă. Și aceasta este explicația lui „cu sămânța sa în el”.<br><br>«Pe pământ»: iar ceea ce a spus „pe pământ” vrea să spună: când sămânța aceea cade pe pământ, ea crește. Iar Targumul Ierusalimi: „a cărui sădire este din el și în el, pe pământ”.<br><br>«Și a fost așa»: cum a hotărât Dumnezeu, binecuvântat fie El, pentru el."
    },
    {
-    "author": "Talmudul Babilonian, Roș Hașana 11a:3",
-    "text": "S-a învățat: Rabbi Eliʿezer spune: De unde știm că în Tișri a fost creată lumea? Căci s-a spus: „Și Dumnezeu a spus: Să rodească pământul vegetație: iarbă roditoare de sămânță, pom roditor” — care este luna în care pământul scoate vegetație și pomul este plin de roade? Spune: aceasta este Tișri. Și acel timp era vremea reviʿei, și au coborât ploi și au încolțit, căci s-a spus: „ci un abur se ridica din pământ”."
+    "author": "Talmudul Babilonian, Roș Hașana, cap. 1",
+    "text": "S-a învățat: Rabbi Eliʿezer spune: De unde știm că în Tișri a fost creată lumea? Căci s-a spus: „Și Dumnezeu a spus: Să rodească pământul vegetație: iarbă roditoare de sămânță, pom roditor” — care este luna în care pământul scoate vegetație și pomul este plin de roade? Spune: aceasta este Tișri. Și acel timp era vremea reviʿei, și au coborât ploi și au încolțit, căci s-a spus: „ci un abur se ridica din pământ”.",
+    "src": {
+     "slug": "talmud-rosh-hashanah",
+     "spec": {
+      "num": 1,
+      "v": 3
+     }
+    }
    },
    {
     "author": "Sfântul Vasile cel Mare, Hexaimeron",
@@ -3028,8 +3084,15 @@ window.CHAPTER_DATA = [
     "text": "Și iată, temeiul pentru care s-a poruncit despre amestecuri (kilʾayim) este că din ele se naște un soi nou; iar Tora a spus: „pom roditor care rodește rod, după soiul său”, cum am explicat: „după soiul său” – ceea ce îi seamănă; și prin altoirea a două soiuri de pomi se naște un rod nou. Dar prin amestecul de semințe nu se naște un soi nou, și Tora nu a oprit amestecul de semințe decât din pricina amestecării, ca gard de pază și ca să depărteze de orice fel de amestec, și nu este temeiul poruncii, căci fiecare crește singur; iar gardul de pază nu li s-a poruncit decât lui Israel, și chiar lui Israel nu îi este oprit decât în Țară. Iar omul și fiii lui Noe au fost opriți de la altoirea pomilor și de la împerecherea dobitoacelor, prin care să scoată din ele un al treilea soi, compus din amândouă; de aceea au fost opriți de la aceasta, căci, dacă ar face aceasta, ar fi împotriva lucrării lui Dumnezeu, care le-a creat după soiurile lor, iar ei ar fi cei care îi răstoarnă lucrările. De aceea a trebuit înțeleptul să întrebe despre ceea ce am scris mai sus, că a expus Rabbi Ḥanina bar Papa; și au spus: „A întrebat Ravina: cel care a altoit două plante, după Rabbi Ḥanina bar Papa, ce este? Fiindcă nu este scris la ele «după soiul său», nu este vinovat? Sau poate, fiindcă Sfântul, binecuvântat fie El, a încuviințat prin ele, este ca și cum ar fi scris la ele? Rămâne nedezlegat”.<br><br>«Și Dumnezeu a văzut că este bine.» Deși sunt ierburi care sunt fierbinți, și ele sunt bune, căci, chiar dacă sunt fierbinți la mâncare și la băutură, ele vindecă boli grele ca oblojeală."
    },
    {
-    "author": "Talmudul Babilonian, Hulin 60b:5",
-    "text": "Rav Assi a pus în contradicție: Este scris: „Și pământul a produs vegetație” — în ziua a treia; și este scris: „Și niciun tufiș al câmpului nu era încă pe pământ” — în ajunul Șabatului. Învață că ierburile au ieșit și au stat la deschizătura pământului până a venit Adam cel dintâi și a cerut îndurare pentru ele, și au coborât ploi și au încolțit; ca să te învețe că Sfântul, binecuvântat fie El, dorește rugăciunea celor drepți."
+    "author": "Talmudul Babilonian, Hulin, cap. 3",
+    "text": "Rav Assi a pus în contradicție: Este scris: „Și pământul a produs vegetație” — în ziua a treia; și este scris: „Și niciun tufiș al câmpului nu era încă pe pământ” — în ajunul Șabatului. Învață că ierburile au ieșit și au stat la deschizătura pământului până a venit Adam cel dintâi și a cerut îndurare pentru ele, și au coborât ploi și au încolțit; ca să te învețe că Sfântul, binecuvântat fie El, dorește rugăciunea celor drepți.",
+    "src": {
+     "slug": "talmud-chullin",
+     "spec": {
+      "num": 3,
+      "v": 18
+     }
+    }
    },
    {
     "author": "Zohar, Sifra di-Țeniuta 4:4",
@@ -3485,8 +3548,15 @@ window.CHAPTER_DATA = [
     "text": "Un imn babilonian închinat lui Șamaș, zeul-Soare, îl laudă pentru rolul de a regla anotimpurile și calendarul — dar Șamaș era, în același timp, patronul divinației, al citirii semnelor cerești ca prevestiri ale viitorului. Cuvântul ebraic pentru „semn” (<span class=\"heb-inline\">אוֹת</span>) are, într-adevăr, o rădăcină înrudită cu termenul akkadian folosit pentru augur — dar Tora îl golește de sensul divinatoriu: luminătorii marchează timpul calendaristic, nu prezic soarta oamenilor. E o distincție deliberată față de practicile vecinilor lui Israel, unde citirea cerului era o formă centrală de a afla voia zeilor."
    },
    {
-    "author": "Talmudul Babilonian, Hulin 60b:3",
-    "text": "A spus înaintea Lui: Stăpânul lumii, fiindcă am spus înaintea Ta un lucru cuviincios, să mă micșorez? I-a spus: Du-te și stăpânește ziua și noaptea. I-a spus: Ce mare lucru este? O lumânare la amiază, la ce folosește? I-a spus: Du-te, să numere cu tine Israel zilele și anii. I-a spus: Cu soarele (sau „ziua”), de asemenea, nu este cu putință să nu numere sorocurile, căci este scris: „și să fie ca semne și pentru soroace și pentru zile și ani”. Du-te, să fie numiți cei drepți cu numele tău: Iacov cel mic, Șmuel cel mic, David cel mic."
+    "author": "Talmudul Babilonian, Hulin, cap. 3",
+    "text": "A spus înaintea Lui: Stăpânul lumii, fiindcă am spus înaintea Ta un lucru cuviincios, să mă micșorez? I-a spus: Du-te și stăpânește ziua și noaptea. I-a spus: Ce mare lucru este? O lumânare la amiază, la ce folosește? I-a spus: Du-te, să numere cu tine Israel zilele și anii. I-a spus: Cu soarele (sau „ziua”), de asemenea, nu este cu putință să nu numere sorocurile, căci este scris: „și să fie ca semne și pentru soroace și pentru zile și ani”. Du-te, să fie numiți cei drepți cu numele tău: Iacov cel mic, Șmuel cel mic, David cel mic.",
+    "src": {
+     "slug": "talmud-chullin",
+     "spec": {
+      "num": 3,
+      "v": 16
+     }
+    }
    },
    {
     "author": "Ambrozie al Milanului, Cele șase zile ale creației",
@@ -4034,8 +4104,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Dumnezeu a făcut.» Acum a explicat cum i-a făcut, ca fiecare să lumineze în timpul pe care i l-a hotărât.<br><br>«Mari.» Nu a spus „mari” în trupul lor, căci toate stelele, în afară de steaua Venus, sunt mai mari decât luna, cum au cercetat astronomii; ci a vrut să spună: mari în lumina lor. Iar luna este mai mare în lumina ei decât celelalte stele, în afară de soare, pentru că este aproape de pământ; și i-a numit pe amândoi mari față de celelalte stele, dar dintre amândoi soarele este mai mare, cum a spus: „luminătorul cel mare”; și așa este și la vederea ochiului. Și au cercetat cercetătorii că soarele este mai mare decât luna de o sută șaptezeci de ori; iar luna nu are lumină decât de la soare, căci trupul ei este întunecat; de aceea lumina ei crește și scade după cum se apropie de soare și după cum se depărtează de el; și ea este luminătorul cel mic.<br><br>«Și stelele.» Căci și ele slujesc noaptea și luminează asupra pământului împreună cu lumina lunii, și și fără ea; dar soarele nu luminează noaptea, pentru că este sub pământ, iar luna și stelele nu luminează ziua, căci lumina soarelui, care este mare, le împiedică lumina. Iar stăpânirea este lumina și lucrarea."
    },
    {
-    "author": "Talmudul Babilonian, Hulin 60b:2",
-    "text": "Rabbi Șimʿon ben Pazzi a pus în contradicție: Este scris: „Și Dumnezeu a făcut cei doi luminători mari”, și este scris: „luminătorul cel mare … și luminătorul cel mic”. A spus luna înaintea Sfântului, binecuvântat fie El: Stăpânul lumii, este cu putință ca doi împărați să se folosească de o singură coroană? I-a spus: Du-te și micșorează-te."
+    "author": "Talmudul Babilonian, Hulin, cap. 3",
+    "text": "Rabbi Șimʿon ben Pazzi a pus în contradicție: Este scris: „Și Dumnezeu a făcut cei doi luminători mari”, și este scris: „luminătorul cel mare … și luminătorul cel mic”. A spus luna înaintea Sfântului, binecuvântat fie El: Stăpânul lumii, este cu putință ca doi împărați să se folosească de o singură coroană? I-a spus: Du-te și micșorează-te.",
+    "src": {
+     "slug": "talmud-chullin",
+     "spec": {
+      "num": 3,
+      "v": 15
+     }
+    }
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 1.23",
@@ -4208,8 +4285,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Dumnezeu i-a pus.» A spus „i-a pus” după ce a spus „a făcut”, căci explicația lui „a făcut” este cum am scris; dar explicația lui „i-a pus” este că i-a pus pe firmamentul cerurilor, unde nu fuseseră până în ziua a patra, cum am explicat.<br><br>«Pentru a lumina.» L-am explicat. Iar mai sus, unde a spus „pentru a lumina” singur și „stăpânire” singur, și nu le-a legat, explicația va fi că fiecare dintre ele este despre lumină și despre lucrare; dar aici, unde le-a legat și a spus „și pentru a stăpâni” după „pentru a lumina”, explicația va fi: „pentru a lumina” despre lumină și „pentru a stăpâni” despre lucrare."
    },
    {
-    "author": "Talmudul Babilonian, Hagiga 12b:5",
-    "text": "Reiș Lakiș a spus: Șapte, și acestea sunt: Vilon, Raqiaʿ, Șeḥaqim, Zevul, Maʿon, Makhon, ʿAravot. Vilon nu slujește la nimic, ci intră dimineața și iese seara și înnoiește în fiecare zi lucrarea creației, căci s-a spus: „Cel care întinde cerurile ca o pânză subțire și le desfășoară ca un cort de locuit”. Raqiaʿ — în care soarele și luna, stelele și constelațiile sunt fixate, căci s-a spus: „Și Dumnezeu i-a pus pe firmamentul cerurilor”. Șeḥaqim — în care stau pietre de moară și macină mană pentru cei drepți, căci s-a spus: „Și a poruncit norilor de sus și a deschis ușile cerurilor, și a plouat peste ei mană de mâncat” și celelalte."
+    "author": "Talmudul Babilonian, Hagiga, cap. 2",
+    "text": "Reiș Lakiș a spus: Șapte, și acestea sunt: Vilon, Raqiaʿ, Șeḥaqim, Zevul, Maʿon, Makhon, ʿAravot. Vilon nu slujește la nimic, ci intră dimineața și iese seara și înnoiește în fiecare zi lucrarea creației, căci s-a spus: „Cel care întinde cerurile ca o pânză subțire și le desfășoară ca un cort de locuit”. Raqiaʿ — în care soarele și luna, stelele și constelațiile sunt fixate, căci s-a spus: „Și Dumnezeu i-a pus pe firmamentul cerurilor”. Șeḥaqim — în care stau pietre de moară și macină mană pentru cei drepți, căci s-a spus: „Și a poruncit norilor de sus și a deschis ușile cerurilor, și a plouat peste ei mană de mâncat” și celelalte.",
+    "src": {
+     "slug": "talmud-chagigah",
+     "spec": {
+      "num": 2,
+      "v": 25
+     }
+    }
    },
    {
     "author": "Zohar, Vaișlah 3:15",
@@ -4439,8 +4523,15 @@ window.CHAPTER_DATA = [
     "text": "«Și pentru a stăpâni ziua și noaptea.» Acesta ziua, iar acela noaptea.<br><br>«Și pentru a despărți.» Căci de la vremea răsăritului soarelui este lumina, și ea este ziua; iar de la vremea ieșirii stelelor este întunericul, și el este noaptea; și vremea aceea se numește întuneric, deși sunt în ea luminători, pentru că este întuneric față de lumina zilei."
    },
    {
-    "author": "Talmudul Babilonian, Hulin 26b:18",
-    "text": "A spus Rabbi Zeira: Sărbătoarea care cade în mijlocul săptămânii, spune: „Cel care desparte între sfânt și profan, și între lumină și întuneric, și între Israel și neamuri, și între ziua a șaptea și cele șase zile de lucru.” Care este motivul? Numără șirul despărțirilor."
+    "author": "Talmudul Babilonian, Hulin, cap. 1",
+    "text": "A spus Rabbi Zeira: Sărbătoarea care cade în mijlocul săptămânii, spune: „Cel care desparte între sfânt și profan, și între lumină și întuneric, și între Israel și neamuri, și între ziua a șaptea și cele șase zile de lucru.” Care este motivul? Numără șirul despărțirilor.",
+    "src": {
+     "slug": "talmud-chullin",
+     "spec": {
+      "num": 1,
+      "v": 18
+     }
+    }
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
@@ -4574,8 +4665,15 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
-    "author": "Talmudul Babilonian, Hagiga 12a:8",
-    "text": "Dar lumina a fost creată în ziua întâi? Și iată, este scris: „Și Dumnezeu i-a pus pe firmamentul cerurilor”, și este scris: „Și a fost seară și a fost dimineață: a patra zi”!"
+    "author": "Talmudul Babilonian, Hagiga, cap. 2",
+    "text": "Dar lumina a fost creată în ziua întâi? Și iată, este scris: „Și Dumnezeu i-a pus pe firmamentul cerurilor”, și este scris: „Și a fost seară și a fost dimineață: a patra zi”!",
+    "src": {
+     "slug": "talmud-chagigah",
+     "spec": {
+      "num": 2,
+      "v": 8
+     }
+    }
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
@@ -4849,8 +4947,15 @@ window.CHAPTER_DATA = [
     "text": "În Enuma Eliș, mulțimea de creaturi ale apelor apare într-un context ostil: Tiamat, zeița-ocean, naște o armată de monștri (șerpi veninoși, dragoni, scorpioni-oameni) ca să lupte împotriva zeilor tineri, conduși de Marduk. Vietățile care „mișună” în ape sunt, acolo, o forță de luptă. În Geneza, aceleași ape „mișună” de viață la porunca simplă a lui Dumnezeu — fără dușmănie, fără scop războinic — doar vietăți create, numite bune (v. 21) alături de toate celelalte."
    },
    {
-    "author": "Talmudul Babilonian, Hulin 27b:11",
-    "text": "Și mai mult, l-a întrebat: Un verset spune: „Și Dumnezeu a spus: Să mișune apele de sumedenie de vietăți însuflețite; și zburătoare să zboare” — deci din apă au fost create; și este scris: „Și Domnul Dumnezeu a plăsmuit din pământ toate vietățile câmpului și toate păsările cerurilor” — deci din pământ au fost create."
+    "author": "Talmudul Babilonian, Hulin, cap. 2",
+    "text": "Și mai mult, l-a întrebat: Un verset spune: „Și Dumnezeu a spus: Să mișune apele de sumedenie de vietăți însuflețite; și zburătoare să zboare” — deci din apă au fost create; și este scris: „Și Domnul Dumnezeu a plăsmuit din pământ toate vietățile câmpului și toate păsările cerurilor” — deci din pământ au fost create.",
+    "src": {
+     "slug": "talmud-chullin",
+     "spec": {
+      "num": 2,
+      "v": 11
+     }
+    }
    },
    {
     "author": "Zohar, Sifra di-Țeniuta 4:6",
@@ -5214,8 +5319,15 @@ window.CHAPTER_DATA = [
     "text": "Mitul mesopotamian al lui Labbu vorbește despre un șarpe de mare uriaș, de zeci de leghe lungime, pe care zeii trebuie să-l vâneze și să-l învingă printr-un efort dramatic. În Geneza, monștrii marini nu sunt rivali ai lui Dumnezeu, ci pur și simplu creaturile Lui, create la fel ca toate celelalte, printr-un simplu cuvânt — fără nicio luptă, fără nicio amenințare la adresa ordinii cosmice. E un mod indirect, dar limpede, de a spune că nici cele mai înfricoșătoare ființe din mitologiile vecine nu sunt zei sau puteri cosmice rivale, ci simple animale, supuse aceluiași Creator ca toate celelalte."
    },
    {
-    "author": "Talmudul Babilonian, Bava Batra 74b:5",
-    "text": "„Și Dumnezeu a creat monștrii marini cei mari” — aici au tradus: gazelele mării. Rabbi Yoḥanan a spus: Acesta este leviatanul, șarpele fugar, și leviatanul, șarpele încolăcit, căci s-a spus: „În ziua aceea Domnul va pedepsi cu sabia Lui cea aspră” și celelalte."
+    "author": "Talmudul Babilonian, Bava Batra, cap. 5",
+    "text": "„Și Dumnezeu a creat monștrii marini cei mari” — aici au tradus: gazelele mării. Rabbi Yoḥanan a spus: Acesta este leviatanul, șarpele fugar, și leviatanul, șarpele încolăcit, căci s-a spus: „În ziua aceea Domnul va pedepsi cu sabia Lui cea aspră” și celelalte.",
+    "src": {
+     "slug": "talmud-bava-batra",
+     "spec": {
+      "num": 5,
+      "v": 5
+     }
+    }
    },
    {
     "author": "Zohar, Bo 3:4",
@@ -5506,8 +5618,15 @@ window.CHAPTER_DATA = [
     "text": "«Și le-a binecuvântat Dumnezeu… „Fiți roditoare și înmulțiți-vă și umpleți”.» Imperativ în locul formei cu tav din literele etan, ca: „veți fi roditoare și vă veți înmulți și veți umple”; adică: Eu pun în ele putere ca să fiți roditoare, iar binecuvântarea este ca să se înmulțească mult; și la fel, ele sunt mai multe decât sălbăticiunile uscatului.<br><br>«Apele în mări.» Apele care sunt în mările pomenite, căci în râuri nu sunt atât de multe. Iar rostirea nu este pentru ele cu adevărat, căci ele nu au pricepere, ca să vină la ele rostirea lui Dumnezeu; ci voința lui Dumnezeu a fost în ele, ca și cum le-ar fi spus: fiți așa și așa.<br><br>«Iar zburătoarele să se înmulțească pe pământ.» Deși a fost creată din ape, creșterea și înmulțirea ei vor fi pe pământ."
    },
    {
-    "author": "Talmudul Babilonian, Ketubot 5a:7",
-    "text": "Vino și auzi: Căci a învățat Bar Qappara: Fecioara se mărită în a patra și are împreunare în a cincea, fiindcă s-a spus în ea binecuvântare pentru pești; văduva se mărită în a cincea și are împreunare în a șasea, fiindcă s-a spus în ea binecuvântare pentru om. Motivul este din pricina binecuvântării; dar din pricina răcirii minții nu ne temem."
+    "author": "Talmudul Babilonian, Ketubot, cap. 1",
+    "text": "Vino și auzi: Căci a învățat Bar Qappara: Fecioara se mărită în a patra și are împreunare în a cincea, fiindcă s-a spus în ea binecuvântare pentru pești; văduva se mărită în a cincea și are împreunare în a șasea, fiindcă s-a spus în ea binecuvântare pentru om. Motivul este din pricina binecuvântării; dar din pricina răcirii minții nu ne temem.",
+    "src": {
+     "slug": "talmud-ketubot",
+     "spec": {
+      "num": 1,
+      "v": 7
+     }
+    }
    },
    {
     "author": "Tertulian, Împotriva lui Hermogene 12",
@@ -6267,8 +6386,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Dumnezeu a făcut.» Sensul lui „a făcut” după „Și a fost așa” este că cele ieșite din pământ sunt trei părți, în afară de om: dobitocul, sălbăticiunea și târâtoarea; și Dumnezeu le-a făcut cu o fire astfel încât fiecare parte dintre ele să fie într-un loc anume; de aceea le-a despărțit în verset și a spus: „sălbăticiunile pământului după soiul lor și dobitoacele după soiul lor și toate târâtoarele pământului după soiul lor”. Și a făcut aceasta ca să nu se înmulțească paguba celor vătămătoare dintre ele; și din această pricină nici nu le-a binecuvântat, căci cum să le spună: „Fiți roditoare și înmulțiți-vă și umpleți pământul”, când Dumnezeu nu a vrut ca cele vătămătoare dintre ele să umple pământul, căci ar face rău și ar nimici? Iar înțelepții noștri, binecuvântată fie amintirea lor, au explicat de ce nu le-a binecuvântat: din pricina șarpelui, care avea să fie blestemat.<br><br>«Și dobitoacele.» Care sunt cu omul ca să-i slujească; și acestea sunt vitele, oile, calul, măgarul și cămila.<br><br>«Și sălbăticiunile pământului.» Acestea sunt leul, ursul, leopardul, lupul și cele asemenea lor dintre cele care sfâșie; și le-a făcut astfel încât să nu crească în locul așezărilor, din pricina pagubei lor, cum a spus: „ca nu cumva să fie pustiită țara și să se înmulțească împotriva ta sălbăticiunile câmpului”. Iată deci că sălbăticiunile câmpului nu cresc decât în locul în care nu sunt așezări; și la fel vei găsi în Scriptură: în orice loc unde pomenește pustiirea țării, spune că se vor înmulți acolo sălbăticiunile câmpului.<br><br>«Și târâtoarele pământului.» De asemenea, într-un loc anume, care este în pustiuri, cum a spus: „cu șerpi, șerpi arzători și scorpioni și ținut secetos în care nu este apă”; dar în locul așezărilor se găsesc dintre târâtoare foarte puține, care nu vatămă. Iar remeś are sensul de umblare și mișcare. Vezi cum a rânduit Dumnezeu în înțelepciunea Sa. Iar viermii care se nasc din lucrurile putrede nu sunt pomeniți la creare, nici în general, nici în amănunt, deși au mișcare.<br><br>«Și Dumnezeu a văzut că este bine.» Deși printre ele sunt unele vătămătoare, este în ele mare folos pentru multe lucruri, cum au mărturisit înțelepții încercării: chiar și trupul și grăsimea șerpilor și a vipelor intră în teriac, ca să tragă afară ce este în trup din otrava morții. Și încă: a dat fiecăruia mădularele de care are nevoie: a dat leului și celor asemenea lui uneltele sfâșierii, care sunt dinții și ghearele, împreună cu puterea; și a dat vietăților sfâșiate, care nu sunt în locul așezărilor, ca cerbul, gazela și cerbul lopătar și cele asemenea lor, uneltele alergării și iuțeala, împreună cu frica; și din acestea vei înțelege despre celelalte făpturi. Și totul este înțelepciune de la El, binecuvântat fie; și El este Dumnezeul credincioșiei și nu este nedreptate. Și, deși acestea sfâșie și acelea sunt sfâșiate, El, binecuvântat fie, a pregătit hrana celor sfâșiate în felul potrivit lor, ca și celor care sfâșie în felul potrivit lor; și este o vreme de moarte pentru toate: cele sfâșiate mor de moartea lor proprie, sau moartea prin sfâșiere le este egală, și ea le este o cauză întâmplătoare; și vremea și întâmplarea le ajung pe toate, căci și cele care sfâșie au o cauză întâmplătoare a morții lor: uneori prin om sau prin altă întâmplare le vine vremea morții. Și se poate ca și cele care sfâșie să-și aibă hrana în alte lucruri decât prada, deși cea mai mare parte a hranei lor este din pradă, cum a spus: „Leul piere din lipsă de pradă”, și a spus: „Rage oare leul în pădure fără să aibă pradă?”, și a spus: „și și-a umplut vizuinile cu pradă”, și multe versete ca acestea. Cu toate acestea, în vremea în care nu găsește pradă, mănâncă iarbă sau alte lucruri înainte să moară de foame. Căci, dacă ar fi așa, atunci la creare, când pământul a scos sufletele vii, leul și mielul, leopardul și iada și cele asemenea lor, iată, ar fi lipsit un soi din creare; iar noi vedem că nu a lipsit niciunul. Și la fel, în corabia lui Noe, cele care sfâșie nu au sfâșiat. Și încă: Dumnezeu a dat toată vegetația verde drept hrană celor care sfâșie ca și celor sfâșiate, cum a spus: „Iar pentru toate vietățile pământului”."
    },
    {
-    "author": "Talmudul Babilonian, Nida 22b:21",
-    "text": "Ce înseamnă liber la vită? Dacă vei spune: pentru că este scris: „Și Dumnezeu a făcut sălbăticiunile pământului”, și este scris: „Și Domnul Dumnezeu a plăsmuit din pământ toate vietățile câmpului” — și la monstrul marin este, de asemenea, liber, căci este scris: „și toate târâtoarele pământului”, și este scris: „Și Dumnezeu a creat monștrii marini cei mari”!"
+    "author": "Talmudul Babilonian, Nida, cap. 3",
+    "text": "Ce înseamnă liber la vită? Dacă vei spune: pentru că este scris: „Și Dumnezeu a făcut sălbăticiunile pământului”, și este scris: „Și Domnul Dumnezeu a plăsmuit din pământ toate vietățile câmpului” — și la monstrul marin este, de asemenea, liber, căci este scris: „și toate târâtoarele pământului”, și este scris: „Și Dumnezeu a creat monștrii marini cei mari”!",
+    "src": {
+     "slug": "talmud-niddah",
+     "spec": {
+      "num": 3,
+      "v": 21
+     }
+    }
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
@@ -6616,8 +6742,15 @@ window.CHAPTER_DATA = [
     "text": "În Mesopotamia antică, titlul de „chip al zeului” era, de regulă, rezervat regelui — o formulă de legitimare a puterii regale, nu o descriere a omului obișnuit. Un text egiptean, „Învățătura pentru regele Merikare”, merge puțin mai departe și numește oamenii de rând „turma zeului”, făcuți după chipul lui — dar tot regele rămâne reprezentantul principal, cel care acționează efectiv în numele zeului pe pământ.<br><br>Geneza răstoarnă radical acest tipar: nu doar un rege, ci fiecare om — „parte bărbătească și femeiască” deopotrivă (v. 27) — poartă „chipul lui Dumnezeu”. Într-o lume unde demnitatea de „chip divin” era, de obicei, un privilegiu regesc exclusiv, afirmația din Geneza e aproape revoluționară: fiecare ființă umană primește statutul pe care alte culturi îl rezervau doar conducătorilor."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 38b:14",
-    "text": "A spus Rabbi Yoḥanan: Oriunde minii s-au dedat la erezie, răspunsul lor este alături de ei: „Să facem om în imaginea noastră”, și spune: „Și a creat Dumnezeu pe om în imaginea Sa”; „Hai să coborâm și să le încurcăm acolo limba”, „Și Domnul a coborât să vadă orașul și turnul”; „căci acolo i Se dezvăluise Dumnezeu”, „lui Dumnezeu, care mi-a răspuns în ziua restriștii mele”."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 4",
+    "text": "A spus Rabbi Yoḥanan: Oriunde minii s-au dedat la erezie, răspunsul lor este alături de ei: „Să facem om în imaginea noastră”, și spune: „Și a creat Dumnezeu pe om în imaginea Sa”; „Hai să coborâm și să le încurcăm acolo limba”, „Și Domnul a coborât să vadă orașul și turnul”; „căci acolo i Se dezvăluise Dumnezeu”, „lui Dumnezeu, care mi-a răspuns în ziua restriștii mele”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 4,
+      "v": 14
+     }
+    }
    },
    {
     "author": "Grigorie de Nyssa, Despre facerea omului 6",
@@ -6861,8 +6994,15 @@ window.CHAPTER_DATA = [
     "text": "«Și a creat Dumnezeu pe om în imaginea Sa.» Această creare s-a spus despre suflet, cum a spus „în imaginea Sa”; de aceea a spus „a creat”, ca să deosebească între trup și suflet, căci în povestirea plăsmuirii trupului lui a spus: „Domnul Dumnezeu l-a plăsmuit pe om, țărână din pământ”; căci termenul de plăsmuire (yeṣirah) nu se aplică sufletului, căci el nu este trup, ci termenul de creare. Iar termenul de facere se aplică și la ceea ce nu este trup, și la ceea ce este trup. Iar ceea ce a spus: „și formează duhul omului înăuntrul lui”, a spus-o despre organele trupului care sunt înăuntrul lui, care poartă puterea duhului, ca inima și creierul. Și nu a pomenit aici plăsmuirea trupului, căci în secțiunea „Acestea sunt urmașii cerurilor” o va pomeni din nou, împreună cu alte lucruri pe care a lăsat să nu le pomenească în această secțiune.<br><br>«În imaginea lui Dumnezeu.» Înger; căci imaginea Lui, binecuvântat fie, și imaginea îngerului sunt una, fiindcă totul este intelect separat; numai că în El este o înălțime mare peste orice intelect separat, încât nu este putere în niciun intelect separat în afară de El care să-L cuprindă după adevărul Lui, căci El este cauza, iar ei sunt cei cauzați; El este Creatorul, iar ei sunt creați. De aceea a explicat după ce a spus „în imaginea Sa” și a spus „în imaginea lui Dumnezeu”, adică în asemănarea îngerului (prin sufletul cel de sus pe care l-a pus în el).<br><br>«Parte bărbătească și femeiască i-a creat.» Bărbat împreună cu femeie; iar în altă secțiune va explica cum i-a creat bărbat și femeie."
    },
    {
-    "author": "Talmudul Babilonian, Eruvin 18a:23",
-    "text": "Ca la Rabbi Abbahu; căci Rabbi Abbahu a pus față în față: Este scris: „Parte bărbătească și parte femeiască i-a creat”, și este scris: „în imaginea lui Dumnezeu l-a creat” — la început I-a trecut prin gând să creeze doi, și la urmă n-a fost creat decât unul."
+    "author": "Talmudul Babilonian, Eruvin, cap. 2",
+    "text": "Ca la Rabbi Abbahu; căci Rabbi Abbahu a pus față în față: Este scris: „Parte bărbătească și parte femeiască i-a creat”, și este scris: „în imaginea lui Dumnezeu l-a creat” — la început I-a trecut prin gând să creeze doi, și la urmă n-a fost creat decât unul.",
+    "src": {
+     "slug": "talmud-eruvin",
+     "spec": {
+      "num": 2,
+      "v": 23
+     }
+    }
    },
    {
     "author": "Mișna, Ievamot 6:6",
@@ -7245,8 +7385,15 @@ window.CHAPTER_DATA = [
     "text": "«Fiți roditori și înmulțiți-vă.» Rodirea este nașterea, iar înmulțirea este creșterea. Și, deși este o binecuvântare, cum am explicat la pești, înțelepții noștri, binecuvântată fie amintirea lor, s-au sprijinit pe el că este o poruncă pentru oameni; și au spus: „Bărbatului i s-a poruncit rodirea și înmulțirea, iar femeii nu i s-a poruncit rodirea și înmulțirea”. Iar ceea ce a spus „Fiți roditori și înmulțiți-vă”, după înțelesul lui simplu, este despre amândoi, în privința binecuvântării; iar în privința poruncii, au spus înțelepții noștri, binecuvântată fie amintirea lor, că nu i s-a poruncit decât bărbatului, căci s-a spus „și supuneți-l (ve-khivšuha)”, care este scris fără vav, și au expus din el că este singular, ca ve-khivšah: bărbatului îi este felul să supună, iar femeii nu-i este felul să supună. Și, deși este o neînțelegere în această privință în cuvintele înțelepților noștri, binecuvântată fie amintirea lor, așa s-a stabilit legea: că bărbatului i s-a poruncit, iar femeii nu i s-a poruncit. Și au mai expus din cuvântul ve-khivšah: bărbatul își stăpânește soția, ca să nu iasă la piață. Iar înțelesul simplu al Scripturii este că oamenii vor stăpâni peste făpturile pământului și le vor supune sub puterea lor.<br><br>«Și stăpâniți peste peștii mării.» L-am explicat mai sus.<br><br>«Și peste toate vietățile care mișună pe pământ.» Tot dobitocul, sălbăticiunea și târâtoarea, căci toate mișună pe pământ."
    },
    {
-    "author": "Talmudul Babilonian, Kidușin 35a:1",
-    "text": "Și după Rabbi Yoḥanan ben Beroqa, care spune: Despre amândoi spune: „Și i-a binecuvântat Dumnezeu… Fiți roditori și înmulțiți-vă”, ce este de spus? Pentru că studiul Torei și răscumpărarea fiului sunt două versete care vin la fel, și orice două versete care vin la fel nu învață."
+    "author": "Talmudul Babilonian, Kidușin, cap. 1",
+    "text": "Și după Rabbi Yoḥanan ben Beroqa, care spune: Despre amândoi spune: „Și i-a binecuvântat Dumnezeu… Fiți roditori și înmulțiți-vă”, ce este de spus? Pentru că studiul Torei și răscumpărarea fiului sunt două versete care vin la fel, și orice două versete care vin la fel nu învață.",
+    "src": {
+     "slug": "talmud-kiddushin",
+     "spec": {
+      "num": 1,
+      "v": 12
+     }
+    }
    },
    {
     "author": "Mișna, Ievamot 6:6",
@@ -7569,8 +7716,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Dumnezeu a spus: „Iată, v-am dat”.» Ca: „iată, vă dau”; și la fel: „Câmpul ți l-am dat”, „Dau prețul câmpului”. Sau explicația lui este: când le-am creat, vi le-am dat vouă, căci pentru voi au fost create roadele; și ce este bun din ierburi pentru om, iar celelalte, toată vegetația ierbii, pentru vietăți și pentru zburătoare; și din toate, miezul pentru om, iar cojile pentru vietăți, așa cum omul este miezul lumii de jos.<br><br>«Roditoare de sămânță (zoreaʿ zeraʿ).» Ca mazriaʿ zeraʿ, cum am explicat.<br><br>«Să vă fie vouă drept hrană.» Aceasta, cea pomenită în verset; și nu le-a îngăduit să mănânce carne decât după potop, și nu știu de ce. Și poate pentru că era descoperit și cunoscut înaintea Lui că potopul avea să fie și că Noe avea să salveze cu el celelalte vietăți, și a spus să i le dea lui în schimbul muncii lui cu ele; căci Sfântul, binecuvântat fie El, nu oprește răsplata niciunei făpturi, cu atât mai mult a omului. Și la fel am găsit la Nebucadnețar, căci a spus: „și plată nu a avut”, și i-a dat țara Egiptului („Mițrayim”) în schimbul muncii lui la Tir."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 59b:13",
-    "text": "A spus Rav Yehudah, a spus Rav: Lui Adam cel dintâi nu i s-a îngăduit carnea spre mâncare, căci este scris: „să vă fie vouă drept hrană. Iar pentru toate vietățile pământului” — dar nu vietățile pământului pentru voi."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 7",
+    "text": "A spus Rav Yehudah, a spus Rav: Lui Adam cel dintâi nu i s-a îngăduit carnea spre mâncare, căci este scris: „să vă fie vouă drept hrană. Iar pentru toate vietățile pământului” — dar nu vietățile pământului pentru voi.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 7,
+      "v": 13
+     }
+    }
    },
    {
     "author": "Zohar, Leh Leha 27:4",
@@ -8111,8 +8265,15 @@ window.CHAPTER_DATA = [
     "text": "«Și a văzut Dumnezeu.» A cuprins tot ce făcuse, împreună cu crearea omului, ca să spună despre ele, în general, că este bine; căci toate făpturile de jos s-au desăvârșit odată cu crearea omului, iar fără el nu ar fi avut desăvârșire; de aceea a spus „foarte”. Și iată, după ce Dumnezeu l-a creat pe om, tot ce făcuse Dumnezeu era bine, și fiecare a stat în desăvârșirea potrivită lui. Și, deși lipsa și neființa sunt legate de existența acestei lumi de jos, creată din cele patru elemente, totul este bine, cum a scris marele înțelept, rabinul, Rabbeinu Moșe, binecuvântată fie amintirea lui: „Și iată, foarte bine, încât existența acestei materii de jos, după cum este ea, cu legarea de lipsă care face necesară moartea tuturor trupurilor, toate acestea sunt de asemenea pentru dăinuirea devenirii și pentru continuarea existenței, prin venirea unuia după plecarea celuilalt”. Și de aceea a explicat Rabbi Meir: „și, iată, era foarte bine (tov meʾod)” – „bună este moartea (tov mot)”. Și la fel am găsit: „În Tora lui Rabbi Meir am găsit scris: «și, iată, bună este moartea»”. Iar eu am găsit scris că era scris în Tora care a fost luată în robie la Roma, și ea era ascunsă și pecetluită în sinagoga lui Severus: „și, iată, bună este moartea”. Și au mai spus: „«și, iată, bine» – aceasta este înclinația spre bine; «foarte» – aceasta este înclinația spre rău. Și este oare înclinația spre rău foarte bună? Mă minunez! Ci, dacă nu ar fi înclinația spre rău, omul nu ar construi casă, nu s-ar căsători, nu ar naște copii și nu ar face negoț”; și la fel a spus Solomon: „că aceasta este pizma omului față de aproapele lui”. „Rav Huna a spus: «și, iată, bine» – aceasta este măsura binelui; «foarte bine» – aceasta este măsura suferințelor. Și este oare măsura suferințelor foarte bună? Mă minunez! Ci, prin suferințe, făpturile ajung la viața lumii care vine”; și la fel a spus Solomon: „și calea vieții sunt mustrările care îndreaptă”. „Ieși și vezi care cale îl aduce pe om la viața lumii care vine: zi că aceasta este măsura suferințelor. A spus Rabbi Zeʿira: «și, iată, bine» – aceasta este Grădina Edenului; «foarte» – aceasta este Gheena. Și este oare Gheena foarte bună? Mă minunez! O pildă: un rege care avea o livadă și a adus în ea lucrători și a construit o cămară la intrarea ei; a spus: oricine se arată vrednic în lucrul livezii va intra în cămara lui, și oricine nu se arată vrednic în lucrul livezii nu va intra în cămara lui. Tot așa, oricine adună porunci și fapte bune, iată Grădina Edenului; și oricine nu adună porunci și fapte bune, iată Gheena”. Iată, Grădina Edenului este atât de bună, încât nu va intra acolo rău, cum a spus: „răul nu va locui la Tine”. Și sunt acolo și alte expuneri.<br><br>«Și a fost seară și a fost dimineață: cea de-a șasea zi.» Pentru că în ea s-a încheiat lucrarea creației și în ea a fost creat omul, a spus ha-šiši, cu he-ul care arată ceva cunoscut, adică ziua cunoscută în care lumea a fost plină și desăvârșită cu toate făpturile ei. Și în Bereșit Rabba: a spus Rabbi Yudan: „aceasta este ceasul de prisos, pe care îl adaugă din ziua obișnuită la cea sfântă, și în el s-a încheiat lucrarea lumii; de aceea a scris ha-šiši”."
    },
    {
-    "author": "Talmudul Babilonian, Șabat 88a:6",
-    "text": "A spus Ḥizkiyah: Ce este ce este scris: „Din ceruri ai făcut să se audă judecata; pământul s-a temut și s-a liniștit”? Dacă s-a temut, de ce s-a liniștit; și dacă s-a liniștit, de ce s-a temut? Ci: la început s-a temut și la sfârșit s-a liniștit. Și de ce s-a temut? Ca la Reiș Lakiș; căci a spus Reiș Lakiș: Ce este ce este scris: „Și a fost seară și a fost dimineață: cea de-a șasea zi”? Litera he de prisos, de ce îmi trebuie? Aceasta învață că Sfântul, binecuvântat fie El, a pus o condiție lucrărilor Facerii și le-a spus: Dacă Israel primesc Tora, voi dăinuiți; iar dacă nu, vă întorc la haos și pustiu."
+    "author": "Talmudul Babilonian, Șabat, cap. 9",
+    "text": "A spus Ḥizkiyah: Ce este ce este scris: „Din ceruri ai făcut să se audă judecata; pământul s-a temut și s-a liniștit”? Dacă s-a temut, de ce s-a liniștit; și dacă s-a liniștit, de ce s-a temut? Ci: la început s-a temut și la sfârșit s-a liniștit. Și de ce s-a temut? Ca la Reiș Lakiș; căci a spus Reiș Lakiș: Ce este ce este scris: „Și a fost seară și a fost dimineață: cea de-a șasea zi”? Litera he de prisos, de ce îmi trebuie? Aceasta învață că Sfântul, binecuvântat fie El, a pus o condiție lucrărilor Facerii și le-a spus: Dacă Israel primesc Tora, voi dăinuiți; iar dacă nu, vă întorc la haos și pustiu.",
+    "src": {
+     "slug": "talmud-shabbat",
+     "spec": {
+      "num": 9,
+      "v": 6
+     }
+    }
    },
    {
     "author": "Grigorie de Nazianz, Omilii la Facere 44",

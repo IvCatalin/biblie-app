@@ -161,8 +161,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Domnul Și-a adus aminte de Sara precum spusese»: că a zămislit și a născut la sorocul acela, precum spusese; și pentru că era o minune, a repetat lucrul și l-a spus a treia oară. Și obiceiul Scripturii este ca, la dublarea sensului, să schimbe cuvintele; și tot așa a spus mai întâi „Și-a adus aminte” și după aceea „precum vorbise”."
    },
    {
-    "author": "Talmudul Babilonian, Roș Hașana 11a:17",
-    "text": "„Cercetare” — „cercetare”: este scris despre Ana: „căci Domnul a cercetat-o pe Ana”, și este scris despre Sara: „Și Domnul Și-a adus aminte de Sara”."
+    "author": "Talmudul Babilonian, Roș Hașana, cap. 1",
+    "text": "„Cercetare” — „cercetare”: este scris despre Ana: „căci Domnul a cercetat-o pe Ana”, și este scris despre Sara: „Și Domnul Și-a adus aminte de Sara”.",
+    "src": {
+     "slug": "talmud-rosh-hashanah",
+     "spec": {
+      "num": 1,
+      "v": 17
+     }
+    }
    }
   ]
  },
@@ -1850,8 +1857,15 @@ window.CHAPTER_DATA = [
     "text": "«Pentru tânăr și pentru slujnica ta»: căci știa că și pentru slujnică era rău în ochii lui, care îi slujise atâția ani, cu atât mai mult că avea de la ea un fiu. Și deși nu s-a spus decât „fiind despre fiul său”, l-a pomenit pe fiul lui, căci el este principalul și pentru el se certa cu Sara, nu pentru slujnică; dar Dumnezeu, care îi știa inima, a spus „pentru slujnica ta”.<br><br>«Tot ceea ce îți va spune»: în acest lucru, căci ea spune adevărul, că nu va moșteni împreună cu Isaac. «Căci prin Isaac îți va fi socotită sămânța»: căci ceea ce am spus, „ție și seminției tale”, nu am spus decât despre Isaac, căci el este sămânța aleasă pentru tine."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 59b:10",
-    "text": "Ci de acum, fiii lui Ismael să fie obligați! „căci prin Isaac îți va fi socotită sămânța”."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 7",
+    "text": "Ci de acum, fiii lui Ismael să fie obligați! „căci prin Isaac îți va fi socotită sămânța”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 7,
+      "v": 10
+     }
+    }
    }
   ]
  },
@@ -3880,8 +3894,15 @@ window.CHAPTER_DATA = [
     "text": "«Că nu mă vei înșela» (im tišqor li): sensul lui este „poate”, căci im și ulai au sensuri apropiate: poate îmi vei înșela iubirea ta azi sau mâine, tu sau fiii tăi sau fiii fiilor tăi. «Pe mine sau pe odrasla mea sau pe nepoții mei»: de aceea ți-am cerut jurământ, căci am știut că după jurământ nu vei înșela; și fiii tăi și fiii fiilor tăi se vor teme de jurământul tău și îl vor păzi.<br><br>«Pe mine sau pe odrasla mea sau pe nepoții mei» (li u-l-nini u-l-nekhdi): care sunt trei generații: nin este fiul, nekhed este fiul fiului; și tot așa a spus: „și voi stârpi din Babilon nume și rămășiță, odraslă și urmaș (nin wa-nekhed)”.<br><br>«După bunăvoința pe care am făcut-o»: că ți-am pus țara mea înainte, să locuiești cum vei voi, și te-am cinstit.<br><br>«Și cu țara în care ai locuit ca străin»: adică cu locuitorii ei după mine, să faci de asemenea bunăvoință și bine, tu și fiii tăi după tine, căci ai găsit în ea și în oamenii ei voia ta."
    },
    {
-    "author": "Talmudul Babilonian, Hulin 60b:12",
-    "text": "Din pricină că Abimelec l-a pus să jure pe Avraam: „că nu mă vei înșela pe mine sau pe odrasla mea sau pe nepoții mei”, a spus Sfântul, binecuvântat fie El: Să vină caftoriții și să-i scoată pe aviți, care sunt filisteni, și să vină Israel și să-i scoată pe caftoriți."
+    "author": "Talmudul Babilonian, Hulin, cap. 3",
+    "text": "Din pricină că Abimelec l-a pus să jure pe Avraam: „că nu mă vei înșela pe mine sau pe odrasla mea sau pe nepoții mei”, a spus Sfântul, binecuvântat fie El: Să vină caftoriții și să-i scoată pe aviți, care sunt filisteni, și să vină Israel și să-i scoată pe caftoriți.",
+    "src": {
+     "slug": "talmud-chullin",
+     "spec": {
+      "num": 3,
+      "v": 25
+     }
+    }
    }
   ]
  },

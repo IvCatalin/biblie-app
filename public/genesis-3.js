@@ -1942,8 +1942,15 @@ window.CHAPTER_DATA = [
     "text": "«Și au auzit.» Unii explică „umblând prin grădină”: pe când omul umbla prin grădină, a auzit glasul lui Dumnezeu; dar, de vreme ce a spus „și au auzit”, ar fi trebuit să spună „umblând” la plural. Iar ce este corect este că sensul lui „umblând” este despre glasul Domnului, căci am găsit la el expresia mersului: „glasul ei merge ca al șarpelui”.<br><br>«În adierea zilei (le-ruaḥ ha-yom).» La vremea serii, când se răcorește vântul zilei și suflă; și au recunoscut că glasul era de la Dumnezeu, venind să le vorbească despre păcatul lor, și au simțit lucrul și s-au ascuns printre pomii grădinii, din pricina rușinii pe care o aveau că erau goi; căci, deși își făcuseră șorțuri, acele șorțuri nu le acopereau bine goliciunea. Și, deși știau că nu este cu putință să se ascundă dinaintea Lui, le era rușine, după felul oamenilor, care se rușinează unul de altul, cu atât mai mult cel mic de cel mare. Iar motivul pentru care Dumnezeu i-a făcut să audă înainte de vorbire a fost ca să se adune și să se ascundă printre pomii grădinii în ceasul vorbirii. De asemenea, Tora a învățat purtarea cuviincioasă: ca omul să nu intre la aproapele lui pe neașteptate, ci să facă întâi să se audă un glas sau să bată la ușă, ca nu cumva acela să facă un lucru tainic în casa lui. Iar motivul povestirii „în adierea zilei” este că vântul a dus glasul de departe.<br><br>«Printre pomii (ʿeṣ) grădinii.» În chip general, adică pomii grădinii. Și se rușinau de goliciunea lor și de faptul că încălcaseră porunca lui Dumnezeu."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 38b:2",
-    "text": "A spus Rabbi Yoḥanan bar Ḥanina: Douăsprezece ceasuri are ziua. În ceasul întâi i s-a strâns țărâna; în al doilea s-a făcut o masă fără formă; în al treilea i s-au întins mădularele; în al patrulea i s-a aruncat în el suflarea; în al cincilea a stat pe picioarele lui; în al șaselea a pus nume; în al șaptelea i s-a alăturat Eva; în al optulea s-au urcat în pat doi și au coborât patru; în al nouălea i s-a poruncit să nu mănânce din pom; în al zecelea a păcătuit; în al unsprezecelea a fost judecat; în al doisprezecelea a fost alungat și a plecat, căci s-a spus: „Omul în cinste nu rămâne peste noapte”."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 4",
+    "text": "A spus Rabbi Yoḥanan bar Ḥanina: Douăsprezece ceasuri are ziua. În ceasul întâi i s-a strâns țărâna; în al doilea s-a făcut o masă fără formă; în al treilea i s-au întins mădularele; în al patrulea i s-a aruncat în el suflarea; în al cincilea a stat pe picioarele lui; în al șaselea a pus nume; în al șaptelea i s-a alăturat Eva; în al optulea s-au urcat în pat doi și au coborât patru; în al nouălea i s-a poruncit să nu mănânce din pom; în al zecelea a păcătuit; în al unsprezecelea a fost judecat; în al doisprezecelea a fost alungat și a plecat, căci s-a spus: „Omul în cinste nu rămâne peste noapte”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 4,
+      "v": 2
+     }
+    }
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
@@ -2106,8 +2113,15 @@ window.CHAPTER_DATA = [
     "text": "«Unde ești? (ayekkah).» A spus așa ca deschidere a cuvintelor, ca: „Unde este Abel, fratele tău?”, „Ce ai în mână?”."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin 38b:11",
-    "text": "Și a spus Rav Yehudah, a spus Rav: Adam cel dintâi era un min, căci s-a spus: „Și Domnul Dumnezeu l-a strigat pe om și i-a spus: „Unde ești?”” — unde s-a abătut inima ta? Rabbi Yițḥaq a spus: Își trăgea prepuțul; este scris aici: „Iar ei, ca Adam, au călcat legământul”, și este scris acolo: „a nesocotit legământul Meu”."
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 4",
+    "text": "Și a spus Rav Yehudah, a spus Rav: Adam cel dintâi era un min, căci s-a spus: „Și Domnul Dumnezeu l-a strigat pe om și i-a spus: „Unde ești?”” — unde s-a abătut inima ta? Rabbi Yițḥaq a spus: Își trăgea prepuțul; este scris aici: „Iar ei, ca Adam, au călcat legământul”, și este scris acolo: „a nesocotit legământul Meu”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 4,
+      "v": 11
+     }
+    }
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 2.25",
@@ -3695,8 +3709,15 @@ window.CHAPTER_DATA = [
     "text": "«Voi spori foarte mult (harbah arbeh).» Harbah este infinitiv; iar când vine infinitivul împreună cu verbul, este ca să mărească lucrul.<br><br>«Suferința ta și sarcina ta (ʿiṣṣevonekh ve-heronekh).» Din „cu suferință (be-ʿiṣṣavon) vei mânca din el”, care este trudă și osteneală. Iar înțeleptul Rabbi Avraham a explicat: chinul sângelui fecioriei; iar „sarcina ta”, căci sarcina este grea pentru femeie. Iar domnul, tatăl meu, binecuvântată fie amintirea lui, a explicat „suferința ta” ca greutatea sarcinii, iar „sarcina ta” ca lungimea zilelor sarcinii. «În durere vei naște copii.» La vremea nașterii are durere și suferință mare. Și în expunerile învățătorilor noștri, binecuvântată fie amintirea lor: „«vei naște» – aceasta este durerea nașterii; «copii» – aceasta este durerea creșterii copiilor”. «Și către bărbatul tău îți va fi dorința.» Și, deși vei naște copii cu durere, vei dori încă să te culci cu el.<br><br>«Dorința ta (tešuqatekh).» Pofta ta.<br><br>«Și el va stăpâni peste tine.» Ca să-ți poruncească ce va voi, ca un stăpân unui rob. Și în Bereșit Rabba: „harbah arbeh – oricât de puțin: harbah arbeh – oricât de puțin, la două sute doisprezece zile, trăiește”; și acesta este cel născut la șapte luni. Și au spus despre cel născut la nouă luni: „femeia nu naște decât la două sute șaptezeci și una, sau la două sute șaptezeci și două, sau la două sute șaptezeci și trei de zile”. Și au spus despre dobitocul necurat că naște la douăsprezece luni: „Ḥiyya bar Ada ședea înaintea lui Rav; îi explica, și nu înțelegea; îi explica, și nu înțelegea. I-a spus: De ce nu înțelegi? I-a spus: Pentru că măgărița mea trebuie să nască, și mă tem să nu răcească și să moară. I-a spus: Și ce-ți pasă? Uneori adaugă, uneori scade; când scade, nu scade sub zilele lunii; și când adaugă, nu adaugă peste zilele soarelui. I-a spus: Dar este scris: «Cunoști tu vremea când nasc caprele sălbatice ale stâncii? Numeri tu lunile pe care le împlinesc?». I-a spus: acolo, despre cel mic; iar aici, despre cel mare”."
    },
    {
-    "author": "Talmudul Babilonian, Sota 12a:16",
-    "text": "„Femeia a zămislit și a născut un fiu” — dar iată, era însărcinată cu el de trei luni de la început! A spus Rav Yehudah bar Zevina: Pune nașterea ei alături de zămislirea ei: precum zămislirea ei a fost fără durere, tot așa nașterea ei a fost fără durere. De aici, pentru femeile drepte, că nu au fost cuprinse în osânda Evei."
+    "author": "Talmudul Babilonian, Sota, cap. 1",
+    "text": "„Femeia a zămislit și a născut un fiu” — dar iată, era însărcinată cu el de trei luni de la început! A spus Rav Yehudah bar Zevina: Pune nașterea ei alături de zămislirea ei: precum zămislirea ei a fost fără durere, tot așa nașterea ei a fost fără durere. De aici, pentru femeile drepte, că nu au fost cuprinse în osânda Evei.",
+    "src": {
+     "slug": "talmud-sotah",
+     "spec": {
+      "num": 1,
+      "v": 16
+     }
+    }
    },
    {
     "author": "Zohar, Vaiakhel 42:1",

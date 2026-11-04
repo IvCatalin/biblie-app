@@ -1835,8 +1835,15 @@ window.CHAPTER_DATA = [
     "text": "«Și a fost foamete în țară.» Aceasta este una din încercările cu care Dumnezeu l-a încercat pe Avraam, părintele nostru, și a stat tare în toate, și nu a cârtit după Cel Sfânt, binecuvântat fie El, spunând: ieri mi-a spus „și vor fi binecuvântate în tine toate familiile pământului”, iar astăzi este foamete în țara în care locuiesc, până într-acolo încât trebuie să ies din ea într-alt loc; ci le primea pe toate din dragoste.<br><br>«În Egipt („Mițrayim”).» Căci în Egipt este cel mai adesea belșug, chiar dacă va fi foamete în celelalte țări, pentru că nu se adapă din apa ploii, ci din apa râului, cum a spus: „nu este precum țara Egiptului”. Iar Avraam nu putea îndura foametea, căci vitele lui erau multe și nu găseau pășune; și încă, sufletele casei lui erau multe.<br><br>«Pentru a locui acolo.» Nu ca să se statornicească acolo, ci ca să locuiască acolo ca străin până va trece foametea din țara Canaanului."
    },
    {
-    "author": "Talmudul Babilonian, Bava Kama 60b:6",
-    "text": "Au învățat rabinii: Foamete în cetate — risipește-ți picioarele, căci s-a spus: „Și a fost foamete în țară și Avram a coborât în Egipt („Mițrayim”) pentru a locui acolo”; și spune: „Dacă vom zice: Să intrăm în cetate, foametea este în cetate și vom muri acolo”."
+    "author": "Talmudul Babilonian, Bava Kama, cap. 6",
+    "text": "Au învățat rabinii: Foamete în cetate — risipește-ți picioarele, căci s-a spus: „Și a fost foamete în țară și Avram a coborât în Egipt („Mițrayim”) pentru a locui acolo”; și spune: „Dacă vom zice: Să intrăm în cetate, foametea este în cetate și vom muri acolo”.",
+    "src": {
+     "slug": "talmud-bava-kamma",
+     "spec": {
+      "num": 6,
+      "v": 6
+     }
+    }
    },
    {
     "author": "Zohar, Leh Leha 10:8",

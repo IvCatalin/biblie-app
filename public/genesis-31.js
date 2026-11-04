@@ -900,8 +900,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Iacov s-a mâniat»: pentru că nu l-a crezut și i-a pipăit lucrurile; și deși el îi spusese „verifică singur”, Laban ar fi trebuit să se oprească de la aceasta, din bună-cuviință."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 3a:8",
-    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -924,8 +931,15 @@ window.CHAPTER_DATA = [
     "text": "«Pune-le aici»: rânduiește-ți plângerile și vorba cu mine înaintea fraților mei și a fraților tăi; iar frații lui Iacov sunt păstorii și ceilalți oameni care erau cu el."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 3a:8",
-    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -956,8 +970,15 @@ window.CHAPTER_DATA = [
     "text": "«Nu au avortat»: din binecuvântarea Domnului pentru tine, din pricina mea.<br><br>«Și nici nu am mâncat berbeci din turma ta» (we-ʾeilei ṣonekha lo ʾakhalti): „și din berbecii turmei tale nu am mâncat”, nici măcar unul nu am mâncat; și lipsește mem-ul servil, ca „Elhanan, fiul lui Dodo, Beit Leḥem” – ca mi-Beit Leḥem („din Betleem”); „până când neamul s-a răzbunat, ʾoyvaw” – ca me-ʾoyvaw („pe dușmanii lui”); și cele asemenea lor. Și a spus aceasta pentru că obiceiul păstorilor este să mănânce uneori din carnea turmei lor; a spus el: eu nu am mâncat din turma ta, ci din ale mele am mâncat; și a pomenit berbecii, care sunt mai proști de mâncat decât mieii, și cu toate acestea nu am mâncat din ei; și nu a pomenit femelele, căci de obicei nu le mănâncă."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 3a:8",
-    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -992,8 +1013,15 @@ window.CHAPTER_DATA = [
     "text": "«Ceea ce fusese sfâșiat»: și chiar dacă fusese sfâșiat fără voia mea, de pildă de doi lupi, și nu puteam să-l scap; aceasta este ce a spus „de la mine ai cerut-o”: dacă ți l-aș fi adus, știam că îl vei cere din mâna mea, nu după dreptate.<br><br>«Eu însumi am suportat paguba» (ʾanokhi ʾaḥaṭṭennah): vina era asupra mea, să ți-o plătesc, deși nu eram vinovat și nici nu fusesem neglijent cu ea.<br><br>«Fie că fusese furată ziua»: sau dacă se fura un animal din turmă, fie ziua, fie noaptea, eu ți-l plăteam.<br><br>«Furată ziua» (genuvti yom): yod-ul este adăugat, ca yod-ul din „plină (meleʾati) de judecată”; iar dacă ar fi fost pronume, bet-ul ar fi avut qamaṣ."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 3a:8",
-    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -1016,8 +1044,15 @@ window.CHAPTER_DATA = [
     "text": "«Așa eram: ziua etc.»: pentru că nu voiam să las turma pe seama altui păstor în locul meu, înduram arșița soarelui ziua și gerul noaptea, și de asemenea somnul îmi fugea de pe ochi, fie din pricina frigului, fie pentru că inima mea era îngrijorată pentru turmă, ca nu cumva să vină lupi să sfâșie sau hoți să fure."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 3a:8",
-    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -1044,8 +1079,15 @@ window.CHAPTER_DATA = [
     "text": "«Pentru cele două fiice ale tale»: ceea ce nu este obiceiul lumii să se facă, să muncească pentru o femeie; și tot așa au spus și ele: „căci ne-a vândut”."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 3a:8",
-    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -1080,8 +1122,15 @@ window.CHAPTER_DATA = [
     "text": "«Dumnezeul tatălui meu»: și după aceea a explicat: „Dumnezeul lui Avraam și Acela de care se teme Isaac” (paḥad Yiṣḥaq) „a fost cu mine” – după Targumul lui; și explicația lui este că Iacov spunea „frica lui Isaac” despre legare, că de frica lui de Dumnezeu s-a dat pe sine la înjunghiere. Și se poate explica paḥad Yiṣḥaq: frica lui Iacov pentru Isaac, dacă îl va găsi viu;<br><br>iar explicația lui hayah li („a fost cu mine”) este în două sensuri: unul, dacă nu ar fi fost cu mine Dumnezeul lui Avraam când te-am slujit, „m-ai fi trimis cu mâna goală”; iar celălalt, dacă nu ar fi fost în mine frica pentru Isaac, că mă tem dacă îl voi găsi viu, și din pricina aceasta nu am mai rămas cu tine – căci dacă aș fi rămas mai mult cu tine, m-ai fi trimis cu mâna goală, din mulțimea vicleniilor și înșelătoriilor tale, schimbându-mi plata și răpind ce era al meu; și din frica mea pentru Isaac mi-am grăbit drumul și nu ți-am spus, căci îmi era dor de el, să fiu de față la moartea lui și să-l îngrop.<br><br>«Și a decis astă noapte»: când ți-a spus „Păzește-te, ca nu cumva să vorbești cu Iacov de bine sau de rău”."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 3a:8",
-    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat."
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat.",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -1224,8 +1273,15 @@ window.CHAPTER_DATA = [
     "text": "«A numit-o»: fiecare i-a pus nume în limba lui; Laban, în limba aramaică.<br><br>«Iegar-Sahaduta»: și la fel Targumul la „Babilonul va ajunge mormane”: li-ygarin."
    },
    {
-    "author": "Talmudul Babilonian, Megila 9a:5",
-    "text": "Tefilin și mezuzot, care este motivul? Pentru că este scris despre ele: „Și să fie” — cum sunt, așa să fie. Ce targum pe care l-au scris în Scriptură este acolo? Este bine la Tora: este „Iegar-Sahaduta”; dar aici, ce targum este?"
+    "author": "Talmudul Babilonian, Megila, cap. 1",
+    "text": "Tefilin și mezuzot, care este motivul? Pentru că este scris despre ele: „Și să fie” — cum sunt, așa să fie. Ce targum pe care l-au scris în Scriptură este acolo? Este bine la Tora: este „Iegar-Sahaduta”; dar aici, ce targum este?",
+    "src": {
+     "slug": "talmud-megillah",
+     "spec": {
+      "num": 1,
+      "v": 5
+     }
+    }
    }
   ]
  },

@@ -398,8 +398,15 @@ window.CHAPTER_DATA = [
     "text": "«Și iată, Eu sunt cu tine»: deși tu fugi. „Și te voi păzi oriunde vei merge”: la ducere și la întoarcere.<br><br>«Căci nu te voi părăsi până când nu voi face»: dacă este așa, nu-l va părăsi niciodată, căci făgăduința îi era pentru toate zilele lui, pe veci, și pentru sămânța lui după el.<br><br>«Până când» (ʾašer ʾim): dublare de sens, ca să întărească lucrul, căci i-ar fi fost de ajuns ʾašer sau ʾim."
    },
    {
-    "author": "Talmudul Babilonian, Berahot 4a:16",
-    "text": "Ca la Rabbi Yaʿaqov bar Idi; căci Rabbi Yaʿaqov bar Idi a pus față în față: Este scris: „Și iată, Eu sunt cu tine și te voi păzi oriunde vei merge”, și este scris: „Și Iacov s-a temut mult.” El a zis: Ca nu cumva păcatul să pricinuiască."
+    "author": "Talmudul Babilonian, Berahot, cap. 1",
+    "text": "Ca la Rabbi Yaʿaqov bar Idi; căci Rabbi Yaʿaqov bar Idi a pus față în față: Este scris: „Și iată, Eu sunt cu tine și te voi păzi oriunde vei merge”, și este scris: „Și Iacov s-a temut mult.” El a zis: Ca nu cumva păcatul să pricinuiască.",
+    "src": {
+     "slug": "talmud-berakhot",
+     "spec": {
+      "num": 1,
+      "v": 96
+     }
+    }
    }
   ]
  },
@@ -518,8 +525,15 @@ window.CHAPTER_DATA = [
     "text": "«Dar Luz fusese numele orașului.» Și după numele locului din afara orașului, unde s-a culcat Iacov, s-a numit orașul însuși Betel."
    },
    {
-    "author": "Talmudul Babilonian, Pesahim 88a:4",
-    "text": "Ci: nu ca Avraam, despre care este scris „munte”, căci s-a spus: „de unde se spune până astăzi: pe munte Domnul va fi văzut”; și nu ca Isaac, despre care este scris „câmp”, căci s-a spus: „Isaac a ieșit să cugete pe câmp”; ci ca Iacov, care l-a numit „casă”, căci s-a spus: „Și a numit locul acela Betel.”"
+    "author": "Talmudul Babilonian, Pesahim, cap. 8",
+    "text": "Ci: nu ca Avraam, despre care este scris „munte”, căci s-a spus: „de unde se spune până astăzi: pe munte Domnul va fi văzut”; și nu ca Isaac, despre care este scris „câmp”, căci s-a spus: „Isaac a ieșit să cugete pe câmp”; ci ca Iacov, care l-a numit „casă”, căci s-a spus: „Și a numit locul acela Betel.”",
+    "src": {
+     "slug": "talmud-pesachim",
+     "spec": {
+      "num": 8,
+      "v": 4
+     }
+    }
    }
   ]
  },

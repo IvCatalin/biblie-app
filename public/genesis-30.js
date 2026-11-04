@@ -34,8 +34,15 @@ window.CHAPTER_DATA = [
     "text": "«Rahela a devenit geloasă pe sora ei»: a fost geloasă pentru ce a văzut la sora ei, că i-a născut lui Iacov patru fii, iar ea nu a născut nici măcar unul."
    },
    {
-    "author": "Talmudul Babilonian, Avoda Zara 5a:19",
-    "text": "Orbul — căci este scris: „În locuri întunecoase m-a așezat, ca pe morții de demult”; leprosul — căci este scris: „Rogu-te, să nu fie precum pruncul mort”; și cel care nu are fii — căci este scris: „Dă-mi copii – că dacă nu, sunt moartă!”"
+    "author": "Talmudul Babilonian, Avoda Zara, cap. 1",
+    "text": "Orbul — căci este scris: „În locuri întunecoase m-a așezat, ca pe morții de demult”; leprosul — căci este scris: „Rogu-te, să nu fie precum pruncul mort”; și cel care nu are fii — căci este scris: „Dă-mi copii – că dacă nu, sunt moartă!”",
+    "src": {
+     "slug": "talmud-avodah-zarah",
+     "spec": {
+      "num": 1,
+      "v": 32
+     }
+    }
    }
   ]
  },
@@ -563,8 +570,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Dumnezeu Și-a amintit»: de vreme ce părea uitată, căci toate născuseră, iar ea nu născuse, Dumnezeu a văzut umilința ei și a cercetat-o.<br><br>«A ascultat-o»: toate rugăciunile pe care le rugase; și acum sosise vremea ca Dumnezeu să-i răspundă la rugăciune."
    },
    {
-    "author": "Talmudul Babilonian, Roș Hașana 11a:16",
-    "text": "„În Roș ha-Șanah au fost cercetate Sara, Rahela și Ana” — de unde știm? A spus Rabbi Elʿazar: Vine „cercetare” — „cercetare”, vine „amintire” — „amintire”. Este scris despre Rahela: „Și Dumnezeu Și-a amintit de Rahela”, și este scris despre Ana: „și Domnul Și-a amintit de ea”; și vine „amintire” — „amintire” de la Roș ha-Șanah, căci este scris: „o zi de odihnă, o amintire a sunetului de corn”."
+    "author": "Talmudul Babilonian, Roș Hașana, cap. 1",
+    "text": "„În Roș ha-Șanah au fost cercetate Sara, Rahela și Ana” — de unde știm? A spus Rabbi Elʿazar: Vine „cercetare” — „cercetare”, vine „amintire” — „amintire”. Este scris despre Rahela: „Și Dumnezeu Și-a amintit de Rahela”, și este scris despre Ana: „și Domnul Și-a amintit de ea”; și vine „amintire” — „amintire” de la Roș ha-Șanah, căci este scris: „o zi de odihnă, o amintire a sunetului de corn”.",
+    "src": {
+     "slug": "talmud-rosh-hashanah",
+     "spec": {
+      "num": 1,
+      "v": 16
+     }
+    }
    }
   ]
  },
