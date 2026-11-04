@@ -7045,9 +7045,11 @@ const SUBFOLDER_CARD_IMAGES = {
     if(!slug && (m = label.match(/^Josephus Flavius, Antichitățile Iudaice, Cartea ([IVX]+), cap\. (\d+)/))){
       const n = LIB_ROMAN[m[1]];
       if(n){
+        // capitolul se caută după titlu („Cartea I, cap. 1 — …"), pentru că Cartea I începe cu Prefața
         const vol = findLibraryBookBySlug(n <= 10 ? "josephus-antichitati-cartea1" : "josephus-antichitati-cartea2");
-        const b = vol && (vol.books || []).find(x => x.label === "Cartea " + m[1]);
-        if(vol && b){ slug = vol.slug; spec = { idx: b.idx + (+m[2]) - 1, v: "__first" }; }
+        const pre = "Cartea " + m[1] + ", cap. " + m[2] + " ";
+        const at = vol ? (vol.chapters || []).findIndex(c => String(c.title || "").indexOf(pre) === 0) : -1;
+        if(vol && at >= 0){ slug = vol.slug; spec = { idx: at, v: "__first" }; }
       }
     }
     if(!slug){
