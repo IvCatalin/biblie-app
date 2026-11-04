@@ -80,7 +80,6 @@ function chNum(ch, i){
 
 const lazyCache = new Map();
 function loadLazyFile(rel){
-  if(lazyCache.has(rel)) return lazyCache.get(rel);
   let data = {};
   try {
     const win = {};
@@ -90,7 +89,6 @@ function loadLazyFile(rel){
   } catch(err){
     console.error("[căutare] nu pot citi", rel, err.message);
   }
-  lazyCache.set(rel, data);
   return data;
 }
 

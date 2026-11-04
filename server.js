@@ -156,5 +156,5 @@ app.listen(PORT, () => {
   console.log(`\nServer pornit pe portul ${PORT}`);
   console.log(`Aplicația: http://localhost:${PORT}/biblie-demo.html`);
   console.log(`Verificare rapidă: http://localhost:${PORT}/api/health\n`);
-  searchIndex.ensureIndex().catch(err => console.error("Indexul de căutare nu s-a putut construi:", err));
+  // indexul de căutare se construiește la prima căutare, nu la pornire: serverul pornește ușor și încape în memorie
 });
