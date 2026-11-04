@@ -1081,8 +1081,8 @@ window.CHAPTER_DATA = [
     "text": "«O zi (yom eḥad).» După ordinea de limbaj a pasajului, ar fi trebuit să scrie „prima zi” (yom rișon), cum este scris la celelalte zile: a doua, a treia, a patra. De ce a scris „una” (eḥad)? Pentru că Sfântul, binecuvântat fie El, era singur în lumea Lui, căci îngerii nu au fost creați până în ziua a doua; așa este explicat în Bereșit Rabba."
    },
    {
-    "author": "Talmudul Babilonian (Berahot 2b)",
-    "text": "În lucru: traducerea acestui comentariu urmează."
+    "author": "Talmudul Babilonian, Berahot 2a:8–9",
+    "text": "Tanna-ul se sprijină pe verset, căci este scris: „când te culci și când te scoli”; și așa învață: vremea citirii Șema de la culcare, când este? Din ceasul în care preoții intră să mănânce din terumah lor.<br><br>Și dacă vrei, spune: învață din facerea lumii, căci este scris: „Și a fost seară și a fost dimineață: o zi.”"
    },
    {
     "author": "Ibn Ezra (1089–1167)",
