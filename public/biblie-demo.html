@@ -5067,11 +5067,7 @@ function renderVerses(){
       // versiune alternativă (ex. Fidela) — text simplu, fără tagare pe cuvinte
       p.appendChild(document.createTextNode(verse[currentVersion]));
     } else if(currentVersion !== "rosen"){
-      // versiunea aleasă nu are încă text pentru acest capitol — arătăm Rosen, cu notă
-      const note = document.createElement("span");
-      note.className = "version-fallback-note";
-      note.textContent = "(indisponibil încă în această traducere — se arată Rosen) ";
-      p.appendChild(note);
+      // versiunea aleasă nu are încă text pentru acest capitol — se arată Rosen, fără nicio notă
       verse.tokens.forEach(tok => p.appendChild(document.createTextNode(tok.t)));
     } else {
     verse.tokens.forEach(tok => {
