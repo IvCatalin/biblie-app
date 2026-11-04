@@ -137,7 +137,16 @@ Comentatorii evrei vin primii, înainte de orice altă sursă.
 
 Convenții de etichetare autor: Cartea Jubileelor → „Cartea Jubileelor [N] — comparație" (N = capitolul din Jubilee, nu din Geneza); Josephus → mereu „Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1".
 
-**Audit exact (16 sept. 2026), comentarii per verset**: Geneza 1 = 7,13; Geneza 2 = 4,08; Geneza 3 = 4,33 — Geneza 2 și 3 sunt SUB nivelul Genezei 1, mai ales la Rashi/Ibn Ezra/Ramban/Sforno/Talmud/Kabbala:
+#### Regula nouă (4 nov. 2026): niciun comentariu scris din memorie
+Fiecare rând din „Comentarii" și „Texte" trebuie să aibă una din două forme, nimic altceva:
+- **Textul real, cuvânt cu cuvânt, din lucrarea din Bibliotecă** (Resurse): comentatorii Tanakh (Rashi, Ibn Ezra, Ramban, Sforno, Rashbam, Da'at Zekenim, Radak) = intrarea lor la verset din `public/tanakh/`; Zohar/Mișna = paragraful/mișna citată; Talmud = unitatea din foaia integrată (`public/talmud/`), cea mai relevantă pe verset (una singură); Josephus/Jubilee/Enoh/apocrife = propoziția sau versetul real. Rezumatele scrise de Claude se scot.
+- **„În lucru: traducerea acestui comentariu urmează."**, când lucrarea încă nu există în aplicație (Talmud până vine foaia, Ba'al HaTurim). Dacă sursa nu are comentariu la acel verset (ex. Rashbam 1:1), rândul nu apare.
+- **Butonul „Citește pasajul →"** stă la finalul textului extins al rândului; duce la lucrare, la locul exact, cu bliț de 1 secundă. Rezolvarea țintei e în `libResolveSource` (`biblie-demo.html`) și are nevoie de etichete de forma „Talmudul Babilonian, Hagiga 12a:16", „Zohar, Bereșit 19:3", „Mișna, Ievamot 6:6".
+- Rămân (până se integrează lucrările lor): patristicele, modernii și notele editoriale Davar (Context cultural-istoric, Notă structurală etc.).
+- Notele din lucrări (butonul „note"): doar informație utilă — „Citatul: Carte c:v.", definiții scurte de termeni, identificări reale, corecturi de sens. NU: paralele din margine (Mesorat HaShas), glose ale ediției (Haggahot etc.), variante, abrevieri, parantezele editorului, „pasaj semnalat / înțeles nesigur". Titluri de capitol/foaie curate în română: „Capitolul N", „Foaia 2a" (nu „Pereq N - …", „Daf 2a - …").
+- Oricând se adaugă o lucrare nouă în Bibliotecă, comentariile existente care o citează se leagă de ea (nu se duplică textul).
+
+**Audit exact (16 sept. 2026), comentarii per verset** (istoric; după regula de mai sus cifrele s-au schimbat): Geneza 1 = 7,13; Geneza 2 = 4,08; Geneza 3 = 4,33 — Geneza 2 și 3 sunt SUB nivelul Genezei 1, mai ales la Rashi/Ibn Ezra/Ramban/Sforno/Talmud/Kabbala:
 
 | Sursă | Geneza 1 | Geneza 2 | Geneza 3 |
 |---|---|---|---|
