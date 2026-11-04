@@ -1906,6 +1906,7 @@
   .vs-comment-author{font-family:'Inter', sans-serif; font-weight:500; font-size:14px; color:var(--ink);}
   .vs-comment-main{flex:1; min-width:0;}
   .vs-comment-head{display:flex; align-items:flex-start; justify-content:space-between; gap:8px;}
+  .vs-open-src-wrap{margin-top:10px; text-align:right;}
   .vs-open-src{flex-shrink:0; font-family:'Inter', sans-serif; font-size:11px; font-weight:600; color:var(--gold); background:transparent; border:1px solid var(--gold); border-radius:999px; padding:3px 9px; cursor:pointer; white-space:nowrap; line-height:1.3;}
   .vs-comment-preview{
     font-size:12.5px;
@@ -4383,22 +4384,30 @@ function renderVerseSheetTabs(verse){
       '<div class="vs-comment-main">' +
         '<div class="vs-comment-head">' +
           '<div class="vs-comment-author">' + author + '</div>' +
-          (src ? '<button type="button" class="vs-open-src">Citește pasajul →</button>' : '') +
         '</div>' +
         '<div class="vs-comment-preview">' + preview + '</div>' +
       '</div>' +
       '<span class="vs-comment-chev">›</span>';
-    if(src){
-      row.querySelector(".vs-open-src").addEventListener("click", (e) => {
-        e.stopPropagation();
-        closeVerseSheet();
-        if(typeof window.openLibraryPassage === "function") window.openLibraryPassage(src.slug, src.spec);
-      });
-    }
     const full = document.createElement("div");
     full.className = "vs-comment-full" + (variant ? " vs-row-" + variant : "");
     full.style.display = "none";
     full.innerHTML = htmlText;
+    // „Citește pasajul →" apare la finalul textului extins
+    if(src){
+      const wrap = document.createElement("div");
+      wrap.className = "vs-open-src-wrap";
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "vs-open-src";
+      btn.textContent = "Citește pasajul →";
+      btn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        closeVerseSheet();
+        if(typeof window.openLibraryPassage === "function") window.openLibraryPassage(src.slug, src.spec);
+      });
+      wrap.appendChild(btn);
+      full.appendChild(wrap);
+    }
     row.addEventListener("click", () => {
       const isOpen = full.style.display !== "none";
       contentEl.querySelectorAll(".vs-comment-full").forEach(f => f.style.display = "none");
