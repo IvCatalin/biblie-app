@@ -6550,7 +6550,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Mișna, Ievamot 6:6",
-    "text": "Să nu se oprească omul de la „rodire și înmulțire”, decât dacă are copii. Casa lui Șammai spune: doi băieți. Iar Casa lui Hillel spune: un băiat și o fată, căci s-a spus: (Geneza 5:2) „bărbat și femeie i-a făcut”. A luat o femeie și a stat cu ea zece ani și n-a născut — nu are voie să se oprească. A divorțat-o — îi este permis să se mărite cu altul, iar al doilea are voie să stea cu ea zece ani. Iar dacă a avortat, numără din ceasul în care a avortat. Bărbatul este poruncit să împlinească „rodire și înmulțire”, dar nu femeia. Rabbi Yoḥanan ben Beroqa spune: despre amândoi spune: (Geneza 1:22) „Și i-a binecuvântat Dumnezeu și le-a spus: rodiți și înmulțiți-vă”."
+    "text": "Să nu se oprească omul de la „rodire și înmulțire”, decât dacă are copii. Casa lui Șammai spune: doi băieți. Iar Casa lui Hillel spune: un băiat și o fată, căci s-a spus: (Geneza 5:2) „bărbat și femeie i-a făcut”. A luat o femeie și a stat cu ea zece ani și n-a născut — nu are voie să se oprească. A divorțat-o — îi este permis să se mărite cu altul, iar al doilea are voie să stea cu ea zece ani. Iar dacă a avortat, numără din ceasul în care a avortat. Bărbatul este poruncit să împlinească „rodire și înmulțire”, dar nu femeia. Rabbi Yoḥanan ben Beroqa spune: despre amândoi spune: (Geneza 1:28) „Și i-a binecuvântat Dumnezeu și le-a spus: rodiți și înmulțiți-vă”."
    },
    {
     "author": "Zohar, Bereșit 2:3",
@@ -6918,7 +6918,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Mișna, Ievamot 6:6",
-    "text": "Să nu se oprească omul de la „rodire și înmulțire”, decât dacă are copii. Casa lui Șammai spune: doi băieți. Iar Casa lui Hillel spune: un băiat și o fată, căci s-a spus: (Geneza 5:2) „bărbat și femeie i-a făcut”. A luat o femeie și a stat cu ea zece ani și n-a născut — nu are voie să se oprească. A divorțat-o — îi este permis să se mărite cu altul, iar al doilea are voie să stea cu ea zece ani. Iar dacă a avortat, numără din ceasul în care a avortat. Bărbatul este poruncit să împlinească „rodire și înmulțire”, dar nu femeia. Rabbi Yoḥanan ben Beroqa spune: despre amândoi spune: (Geneza 1:22) „Și i-a binecuvântat Dumnezeu și le-a spus: rodiți și înmulțiți-vă”."
+    "text": "Să nu se oprească omul de la „rodire și înmulțire”, decât dacă are copii. Casa lui Șammai spune: doi băieți. Iar Casa lui Hillel spune: un băiat și o fată, căci s-a spus: (Geneza 5:2) „bărbat și femeie i-a făcut”. A luat o femeie și a stat cu ea zece ani și n-a născut — nu are voie să se oprească. A divorțat-o — îi este permis să se mărite cu altul, iar al doilea are voie să stea cu ea zece ani. Iar dacă a avortat, numără din ceasul în care a avortat. Bărbatul este poruncit să împlinească „rodire și înmulțire”, dar nu femeia. Rabbi Yoḥanan ben Beroqa spune: despre amândoi spune: (Geneza 1:28) „Și i-a binecuvântat Dumnezeu și le-a spus: rodiți și înmulțiți-vă”."
    },
    {
     "author": "Ioan Gură de Aur, Omilii la Facere 10.9",
