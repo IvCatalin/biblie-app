@@ -7503,6 +7503,15 @@ const SUBFOLDER_CARD_IMAGES = {
       }
     })(LIBRARY);
     if(!found) return null;
+    // Listele cu secțiuni (ex. Mișna: ordine + „Lucrări suplimentare despre Avot”) sunt plate,
+    // cu antete (isHeader) între grupuri: dropdown-ul arată doar grupul din care face parte lucrarea.
+    if(found.some(it => it && it.isHeader)){
+      const at = found.findIndex(it => it && it.slug === slug);
+      let from = at, to = at;
+      while(from > 0 && !(found[from - 1] && found[from - 1].isHeader)) from--;
+      while(to < found.length - 1 && !(found[to + 1] && found[to + 1].isHeader)) to++;
+      found = found.slice(from, to + 1);
+    }
     return found.filter(it => it && it.slug && !it.isHeader);
   }
 
