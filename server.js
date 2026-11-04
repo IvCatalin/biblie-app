@@ -163,7 +163,17 @@ app.post("/api/tts", async (req, res) => {
 // Căutare în toată arhiva din Diverse (inclusiv capitolele încărcate la cerere).
 // Parametri: q (cuvântul), group (colecția, opțional), offset, limit.
 const searchIndex = require("./search-index");
-app.get("/api/search", async (req, res) => {
+// Cel mult 20 de căutări pe minut pentru fiecare vizitator (după adresa IP), ca un singur
+// utilizator sau un robot să nu încetinească serverul pentru ceilalți.
+const rateLimit = require("express-rate-limit");
+const searchLimiter = rateLimit({
+  windowMs: 60 * 1000,
+  limit: 20,
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: { error: "Prea multe căutări într-un timp scurt. Încearcă din nou peste un minut." }
+});
+app.get("/api/search", searchLimiter, async (req, res) => {
   try {
     const q = String(req.query.q || "").slice(0, 120);
     const group = String(req.query.group || "");

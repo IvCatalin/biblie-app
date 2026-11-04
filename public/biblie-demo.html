@@ -6780,6 +6780,7 @@ const SUBFOLDER_CARD_IMAGES = {
       chev.className = "lib-book-go";
       chev.textContent = "→";
       item.appendChild(chev);
+      item.dataset.slug = book.slug;
       item.addEventListener("click", () => openReader(book));
       container.appendChild(item);
     }
@@ -7009,6 +7010,46 @@ const SUBFOLDER_CARD_IMAGES = {
     });
     return out;
   };
+  // Deschide Diverse la lista în care se află lucrarea (folder → subfolder → grupul ei desfăcut),
+  // ca după închiderea cititorului utilizatorul să rămână în Diverse, lângă carte.
+  window.libRevealBook = function(slug){
+    function hasBook(items){ return (items || []).some(e => e && !e.isHeader && (e.slug === slug || (e.isSubgroup && hasBook(e.items)))); }
+    function pathTo(items){
+      for(const e of (items || [])){
+        if(!e || e.isHeader) continue;
+        if(e.slug === slug) return [];
+        if(e.isSubgroup && !(e.items || []).some(it => it.books && it.books.length)){ const p = pathTo(e.items); if(p) return [e].concat(p); }
+      }
+      return null;
+    }
+    for(const key of Object.keys(LIBRARY)){
+      const folder = LIBRARY[key];
+      let listItems = null, label = folder.label, note = folder.note, onBack = null;
+      if(folder.isNested && Array.isArray(folder.subfolders)){
+        const sf = folder.subfolders.find(s => hasBook(s.items));
+        if(!sf) continue;
+        currentFolderKey = key; openSubfolderList(folder, key);
+        listItems = sf.items; label = sf.label; note = sf.note; onBack = () => openSubfolderList(folder, key);
+      } else if(Array.isArray(folder.books) && hasBook(folder.books)){
+        currentFolderKey = key; listItems = folder.books;
+      } else continue;
+      openBookListPanel(label, note, listItems, onBack);
+      let items = listItems, cur = { title: label, note, items: listItems, onBack };
+      for(const sub of (pathTo(listItems) || [])){
+        const prev = cur;
+        cur = { title: sub.label, note: sub.note, items: sub.items, onBack: () => openBookListPanel(prev.title, prev.note, prev.items, prev.onBack) };
+        openBookListPanel(cur.title, cur.note, cur.items, cur.onBack);
+      }
+      const row = bookList.querySelector('.lib-book-item[data-slug="' + slug + '"]');
+      if(row){
+        const body = row.closest(".lib-group-body");
+        if(body){ const hd = body.previousElementSibling; body.classList.add("open"); if(hd) hd.classList.add("open"); }
+        row.scrollIntoView({ block: "center" });
+      }
+      return true;
+    }
+    return false;
+  };
   window.openLibraryAt = function(slug, chapterIdx, verse, ms){
     const book = findLibraryBookBySlug(slug);
     if(!book) return;
@@ -7058,7 +7099,7 @@ const SUBFOLDER_CARD_IMAGES = {
         if(vol && at >= 0){ slug = vol.slug; spec = { idx: at, v: "__first" }; }
       }
     }
-    if(!slug && (m = label.match(/^Talmud(?:ul)?(?: Babilonian)?,? \(?([^()\d]+?) (\d+[ab])(?::(\d+))?/)) && LIB_TALMUD_SRC[m[1].trim()]){ slug = "talmud-" + LIB_TALMUD_SRC[m[1].trim()]; spec = { title: "Foaia " + m[2], v: m[3] ? +m[3] : "__first" }; }
+    if(!slug && (m = label.match(/^Talmud(?:ul)?(?: Babilonian)?,? \(?([^()\d]+?) (\d+[ab])(?::(\d+))?/)) && LIB_TALMUD_SRC[m[1].trim()]){ slug = "talmud-" + LIB_TALMUD_SRC[m[1].trim()]; spec = { page: m[2], v: m[3] ? +m[3] : "__first" }; }
     if(!slug){
       for(const [re, s] of LIB_APOC_SRC){
         if((m = label.match(re))){ slug = s; spec = { num: +m[1], v: m[2] ? +m[2] : "__first" }; break; }
@@ -7069,7 +7110,7 @@ const SUBFOLDER_CARD_IMAGES = {
     if(!book || book.available === false) return null;
     // capitolul trebuie să existe (la Zohar titlurile sunt cunoscute din listă); altfel nu arătăm butonul
     if(spec.title && Array.isArray(book.chapters) && book.chapters.length && libPassageIdx(book, spec) < 0) return null;
-    if(Array.isArray(book.pages) && spec.title && book.pages.indexOf(spec.title.replace(/^Foaia /, "")) < 0) return null;
+    if(Array.isArray(book.pages) && spec.page && book.pages.indexOf(spec.page) < 0) return null;
     return { slug, spec };
   };
   function libEnsureLoaded(book, cb){
@@ -7087,6 +7128,7 @@ const SUBFOLDER_CARD_IMAGES = {
   function libPassageIdx(book, spec){
     const chs = book.chapters || [];
     if(spec.idx != null) return spec.idx;
+    if(spec.page){ const re = new RegExp("Foaia " + spec.page + "$"); return chs.findIndex(c => re.test(String(c.title || ""))); }
     if(spec.title){ const t = libNorm(spec.title); return chs.findIndex(c => libNorm(String(c.title || "").split(" - ")[0]) === t); }
     if(spec.num != null) return chs.findIndex(c => c.num === spec.num);
     return 0;
@@ -7489,7 +7531,7 @@ const SUBFOLDER_CARD_IMAGES = {
           const btn = p.querySelector(".lib-note-btn");
           btn.addEventListener("click", (e) => {
             e.stopPropagation();
-            openNoteModal(book.name + " " + libChNum(ch, currentChapterIdx) + ":" + v.v, allNotes);
+            const pg = /Foaia (\d+[ab])$/.exec(String(ch.title || "")); openNoteModal(book.name + " " + (pg ? "Foaia " + pg[1] : libChNum(ch, currentChapterIdx)) + ":" + v.v, allNotes);
           });
         }
         readerBody.appendChild(p);
@@ -9041,6 +9083,8 @@ function srBuildCard(hit, toks){
     open.addEventListener("click", e => {
       e.stopPropagation();
       if(hit.open.type === "lib"){
+        switchTab("diverse");
+        if(typeof window.libRevealBook === "function") window.libRevealBook(hit.open.slug);
         if(typeof window.openLibraryAt === "function") window.openLibraryAt(hit.open.slug, hit.open.chIdx, hit.open.v);
       } else {
         switchTab("biblia");
@@ -9120,7 +9164,10 @@ async function runSearch(){
   // Biblia (Tora + Haftarot) și comentariile atașate versetelor — local; restul arhivei — pe server
   let local = srCollectHits(toks, false);
   let server = null;
-  try { server = await srFetchLib(query, "", 0, 0); } catch(e){ server = null; }
+  try { server = await srFetchLib(query, "", 0, 0); } catch(e){
+    server = null;
+    if(myReq === srReq && /429/.test(String(e && e.message))){ searchResults.innerHTML = '<p style="color:var(--ink-soft); font-style:italic;">Prea multe căutări într-un timp scurt. Încearcă din nou peste un minut.</p>'; return; }
+  }
   if(myReq !== srReq) return;
   if(!server) local = srCollectHits(toks, true); // fără server: doar ce e deja încărcat în aplicație
 
@@ -9264,7 +9311,7 @@ document.addEventListener("visibilitychange", () => { if(document.visibilityStat
 srReset(); // și la pornire, ca să nu rămână textul restaurat de browser
 searchInput.addEventListener("input", () => {
   clearTimeout(srTimer);
-  srTimer = setTimeout(runSearch, 200);
+  srTimer = setTimeout(runSearch, 500);
 });
 
 // Setări — buton spre panoul "despre"

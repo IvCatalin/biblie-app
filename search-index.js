@@ -130,7 +130,7 @@ function build(){
         if(typeof v.t !== "string") return;
         const text = plain(v.t);
         if(!text) return;
-        const loc = structured ? structured + ":" + v.v : (chTitle ? chTitle + " " : "cap. " + label + ":") + v.v;
+        const loc = structured ? structured + ":" + v.v : (/Foaia \d+[ab]$/.test(chTitle) ? chTitle + ":" : (chTitle ? chTitle + " " : "cap. " + label + ":")) + v.v;
         let anchor = "";
         const pre = v.t.match(/^\(([^)]{3,40}\d+:\d+[^)]*)\)/);
         if(pre) anchor = pre[1];
