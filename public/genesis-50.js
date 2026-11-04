@@ -8,7 +8,12 @@ window.CHAPTER_DATA = [
   ],
   "textCompare": [],
   "refs": [],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iosif a căzut»: și la fel frații lui, numai că el a început, după măreția și cinstea lui."
+   }
+  ]
  },
  {
   "num": 2,
@@ -35,6 +40,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
     "text": "«L-au îmbălsămat (va-yaḥanṭu).» I-au îndulcit trupul: după ce au pus în el miresmele amare ca să scoată murdăria din măruntaiele lui, ca să nu se strice au pus apoi în el miresme dulci, ca să răspândească miros bun. Și asemănător: „Smochinul își pârguiește (ḥanṭah) smochinele crude” — și-a îndulcit roadele."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Să-l îmbălsămeze»: adică îl îmbălsămează pe mort cu mirodenii anume, ca să nu se descompună."
    }
   ]
  },
@@ -55,6 +64,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Și l-au jelit egiptenii.» Nu doar pentru cinstea lui Iosif și din porunca lui, ci și din pricina faptului că era Israel, care era vrednic de stăpânire și de cinste regească."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Șaptezeci de zile»: patruzeci ale îmbălsămării și treizeci ale plânsului, pe care le fac pentru orice om mare, cum am găsit la Aaron și la Moise, învățătorul nostru; însă pe acelea le fac după îngropare, dar pentru Iacov, părintele nostru, le-au făcut înainte de îngropare, căci era îmbălsămat; și în toate acele zile egiptenii l-au jelit din cinstire pentru Iosif. Iar după cuvintele învățătorilor noștri, binecuvântată fie amintirea lor, l-au jelit și din cinstire pentru el însuși, pentru că foametea încetase datorită lui."
    }
   ]
  },

@@ -522,6 +522,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«în a treia zi» Căci era o cale de trei zile între ei; „cale de șapte zile”: în toate acele trei zile a mers vestitorul ca să-i dea de știre lui Laban că Iacov plecase în drumul lui; se află că era departe de Laban șase zile, iar în a șaptea l-a ajuns; și am învățat că tot ce a mers Iacov în șase zile a mers Laban într-o zi – cuvintele lui Rashi, din Bereșit Rabba. Și este corect ca Laban să meargă ca un viteaz care aleargă pe cale, căci așa este felul urmăritorilor. Dar calea de trei zile Laban a pus-o între turma lui și turma care era în mâna lui Iacov, nu între cetate și turma lui; ca și cum Laban își păștea turma la răsărit de cetate, iar Iacov la apus de ea, și între ei cale de trei zile. Și iată, Iacov a pornit din cetate, căci acolo erau casa lui, fiii și fiicele lui și tot ce avea, afară de turme; și i s-a dat de veste lui Laban în a treia zi, căci nu băgaseră de seamă în prima zi; și Laban s-a întors la cetatea lui și și-a luat rudele de acolo și l-a urmărit din cetatea lui șapte zile și l-a ajuns în ziua a șaptea. Dar vom spune, după părerea din Bereșit Rabba, că Iacov a pornit din câmpul unde erau turmele, iar Laban și-a luat rudele cu el de la tunsul oilor lui. Iar în Pirqe de-Rabbi Eliezer se pare că Laban s-a întors la cetatea lui și de acolo a luat pe toți vitejii și pe toți oamenii de oaste și l-a urmărit de acolo."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Lui Laban i s-a dat de veste în a treia zi»: l-am explicat."
    }
   ]
  },
@@ -838,6 +842,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "«În samar (ba-kar).» Pernă sau saltea care se pune pe cămilă ca să se așeze pe ea."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«În samarul cămilei» (be-khar ha-gamal): pătura de șa a cămilei."
    }
   ]
  },
@@ -981,7 +989,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Ceea ce fusese sfâșiat»: și chiar dacă fusese sfâșiat fără voia mea, de pildă de doi lupi, și nu puteam să-l scap; aceasta este ce a spus „de la mine ai cerut-o”: dacă ți l-aș fi adus, știam că îl vei cere din mâna mea, nu după dreptate.<br><br>«Eu însumi am suportat paguba» (ʾanokhi ʾaḥaṭṭennah): vina era asupra mea, să ți-o plătesc, deși nu eram vinovat și nici nu fusesem neglijent cu ea.<br><br>«Furată ziua» (genuvti yom): yod-ul este adăugat, ca yod-ul din „plină (meleʾati) de judecată”; iar dacă ar fi fost pronume, bet-ul ar fi avut qamaṣ."
+    "text": "«Ceea ce fusese sfâșiat»: și chiar dacă fusese sfâșiat fără voia mea, de pildă de doi lupi, și nu puteam să-l scap; aceasta este ce a spus „de la mine ai cerut-o”: dacă ți l-aș fi adus, știam că îl vei cere din mâna mea, nu după dreptate.<br><br>«Eu însumi am suportat paguba» (ʾanokhi ʾaḥaṭṭennah): vina era asupra mea, să ți-o plătesc, deși nu eram vinovat și nici nu fusesem neglijent cu ea.<br><br>«Fie că fusese furată ziua»: sau dacă se fura un animal din turmă, fie ziua, fie noaptea, eu ți-l plăteam.<br><br>«Furată ziua» (genuvti yom): yod-ul este adăugat, ca yod-ul din „plină (meleʾati) de judecată”; iar dacă ar fi fost pronume, bet-ul ar fi avut qamaṣ."
    },
    {
     "author": "Talmudul Babilonian, Avoda Zara 3a:8",
@@ -1137,7 +1145,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Și El să fie martor»: lucrul legământului va fi martor între mine și tine; iar mărturia o va explica la sfârșit: „Dacă vei chinui etc.”."
+    "text": "«Așa că acum, hai»: l-am explicat.<br><br>«Și El să fie martor»: lucrul legământului va fi martor între mine și tine; iar mărturia o va explica la sfârșit: „Dacă vei chinui etc.”."
    }
   ]
  },

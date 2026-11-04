@@ -156,6 +156,26 @@ window.CHAPTER_DATA = [
     "text": "«Aceasta este cartea urmașilor lui Adam.» Aceasta este numărătoarea urmașilor lui Adam; și sunt multe midrașuri aggadice.<br><br>«În ziua în care Dumnezeu a creat etc.» Arată că în ziua în care a fost creat a avut urmași."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Aceasta este cartea urmașilor (toledot) lui Adam.» Fiii și fiii fiilor pe care i-a născut. Doar pe el nu l-au născut tată și mamă, ci „după asemănarea lui Dumnezeu” a fost făcut."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Aceasta este cartea urmașilor lui Adam» Fiii pe care îi va aminti în pericopă. Iar după părerea mea, face aluzie la toată Tora, căci toată Tora este cartea urmașilor lui Adam; de aceea a spus aici „cartea”, și n-a spus „și aceștia sunt urmașii lui Adam”, așa cum se spune în celelalte locuri: „Și aceștia sunt urmașii lui Ismael”, „Și aceștia sunt urmașii lui Isaac”, și tot așa toate. Iar sensul lui „în ziua în care Dumnezeu a creat omul” se leagă de ce este înainte: căci începe cu Adam însuși și amintește despre el că a fost creat din nimic; și de aceea a spus: în ziua în care Dumnezeu l-a creat din nimic pe acest om amintit, „după asemănarea lui Dumnezeu l-a făcut”; lămurește că el este lucrarea lui Dumnezeu și după asemănarea lui Dumnezeu. Și a amintit că, așa cum l-a creat pe el din nimic, tot așa a creat-o pe soția lui, și a spus:"
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Aceasta este cartea urmașilor lui Adam.» Aceasta este povestirea urmașilor și a întâmplărilor neamului omenesc.<br><br>«După asemănarea lui Dumnezeu l-a făcut.» Înzestrat cu liberă alegere; de aceea, când generațiile lui L-au mâniat înaintea lui Dumnezeu, binecuvântat fie El, au fost pedepsite."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Aceasta este cartea urmașilor lui Adam.» Că Sfântul, binecuvântat fie El, i-a predat lui Adam cel dintâi chiar și liniatura cărții. Și în Torat Kohanim se conchide: „«Să-ți iubești aproapele ca pe tine însuți» — a spus Rabbi ʿAqiva: acesta este un mare principiu în Tora. Ben ʿAzzai spune: «Aceasta este cartea urmașilor lui Adam» este mai mare.” Explicație: se referă la sfârșitul versetului, „după asemănarea lui Dumnezeu l-a făcut”; căci din versetul lui Rabbi ʿAqiva nu auzim decât: „ce îți este urât ție, nu-i face semenului tău”; și a venit Ben ʿAzzai și a spus că, chiar dacă el nu ține la cinstea sa, trebuie să țină la cinstea semenului său, pentru că vede chipul semenului său și nu-și vede chipul său. Și de aceea a spus că acest verset cuprinde mai mult decât versetul „Să-ți iubești aproapele ca pe tine însuți”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Aceasta este cartea (sefer).» Are sensul de socoteală, căci el numără (sofer) urmașii de la Adam până la Noe; și a început de la crearea lui Adam, și nu i-a pomenit pe Cain și pe Abel, căci Abel nu a avut urmași, iar urmașii lui Cain au pierit, iar din Set s-a păstrat existența. Și a început și a spus: „în ziua în care Dumnezeu a creat omul, după asemănarea lui Dumnezeu l-a făcut”; explicația: în ziua în care l-a creat, în asemănarea îngerului l-a creat, prin sufletul cel de sus pe care l-a pus în el; numai că după aceea a ieșit de la poruncile Lui, căci parte bărbătească și femeiască i-a creat, iar femeia l-a ațâțat, după ațâțarea șarpelui."
+   },
+   {
     "author": "Talmudul Babilonian, Sanhedrin 38b:10",
     "text": "Și aceasta este ce a spus Reiș Lakiș: Ce este ce este scris: „Aceasta este cartea urmașilor lui Adam”? Învață că i-a arătat Sfântul, binecuvântat fie El, fiecare generație cu tâlcuitorii ei, fiecare generație cu înțelepții ei. Când a ajuns la generația lui Rabbi ʿAqiva, s-a bucurat de Tora lui și s-a întristat de moartea lui; a spus: „Și pentru mine, cât de prețioși sunt prietenii Tăi, Dumnezeule”."
    },
@@ -327,6 +347,14 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«i-a binecuvântat» Că a pus în ei puterea de a naște, ca să fie binecuvântați pe veci cu fii și fiice foarte mulți. Și intenția este să spună că nașterile sunt din binecuvântarea lui Dumnezeu; căci ei nu au fost născuți, ci au fost creați din nimic și au fost binecuvântați să facă așa.<br><br>«și le-a pus numele de „om”» Și sensul lui „și le-a pus numele de «om»”: pentru că numele „om” (adam) este general pentru tot neamul omenesc, a amintit că Dumnezeu a numit perechea cea dintâi cu acest nume, pentru că toți sunt în ei în putere; și despre ei spune: „Aceasta este cartea urmașilor lui Adam”. Și a scris Rabbeinu Șerira Gaonul că înțelepții își transmiteau unul altuia cunoașterea fețelor și rânduielile liniilor, unele dintre ele spuse în ordinea versetului „Aceasta este cartea urmașilor lui Adam”, iar altele în ordinea versetului de după el, „Parte bărbătească și parte femeiască i-a creat”; și nu se transmit tainele Torei și misterele decât celui la care se văd semne că este vrednic de aceasta. Acestea sunt cuvintele Gaonului, iar noi nu ne-am învrednicit de ele."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«I-a binecuvântat.» Cum a spus: „Fiți roditori și înmulțiți-vă și umpleți pământul și supuneți-l”; și, dacă le-a dat putere să-i supună pe alții, cu atât mai mult trebuiau să se supună pe ei înșiși.<br><br>«Și le-a pus numele de „om” în ziua în care au fost creați.» În ziua în care au fost creați i-a numit adam, cum a spus: „Să facem om în imaginea noastră”; căci pentru aceasta i-a creat, ca să fie om, și nu dobitoc sau pasăre. Iar femeia se numește adam, căci despre amândoi a spus „Să facem om”, cum a spus „să stăpânească”. Și prin nume i-a deosebit de celelalte vietăți care sunt pe pământ, căci sufletul omului este de sus, numai că în el este o parte din pământ, căci trupul a fost creat din pământ; de aceea, dacă omul se va lăsa tras după firea pământului, iată, este ca și cum ar fi tot din pământ și ca și cum nu ar fi în el o parte de sus. De aceea nu i-a pomenit acum, în povestirea urmașilor lui, pe Cain și pe Abel, pentru că amintirea lor a fost ștearsă, pentru că s-au lăsat trași după firea pământului, iar lumea nu s-a păstrat din ei."
+   },
+   {
     "author": "Talmudul Babilonian, Ketubot 8a:9",
     "text": "Nu; toată lumea ține că a fost o singură întocmire: unul ține că mergem după gând, și unul ține că mergem după faptă; ca aceasta: Rav Yehudah a pus în contradicție: este scris: „Și a creat Dumnezeu pe om în imaginea Sa”, și este scris: „parte bărbătească și femeiască i-a creat”. Cum așa? La început I-a venit în gând să creeze doi, iar la sfârșit a fost creat unul."
    },
@@ -467,6 +495,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«O sută treizeci de ani.» Până atunci s-a ținut departe de femeie."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Și ce sens are să pomenească «i s-a născut… în asemănarea lui, după imaginea lui»? Că Numele a pus în el puterea nașterii, ca să-și scoată chipul, până ce fapta lui se aseamănă cu Cel Preaînalt. Și n-a pomenit aceasta despre Cain și Abel; și n-a pomenit nici câți ani a trăit Cain și de câți ani era când i s-a născut fiul său Enoh, pentru că numele lui Abel a fost șters, și și al lui Cain, în potop. Iar uciderea lui Cain a pomenit-o ca să arate dreptatea Numelui: deși a fost îndelung-răbdător, l-a pedepsit în taină, ca sensul lui „dar nu lasă nepedepsit”."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«i s-a născut un fiu în asemănarea lui, după imaginea lui» Este cunoscut că toți cei născuți din ființele vii sunt după asemănarea celor care îi nasc și după imaginea lor. Dar pentru că omul a fost înălțat în asemănarea și imaginea lui, căci a spus despre el: „după asemănarea lui Dumnezeu l-a făcut”, a lămurit aici că și urmașii lui au fost așa, în aceeași asemănare aleasă. Și n-a spus aceasta despre Cain și Abel, căci n-a vrut să se lungească despre ei, ci a lămurit aceasta despre Set, căci lumea a fost întemeiată (huštat) din el. Sau, pentru că omul a fost creat în desăvârșirea deplină a plăsmuirii, a spus despre Set că a fost ca el în putere și în frumusețe."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«I s-a născut un fiu în asemănarea lui, după imaginea lui.» Căci a fost un drept, dintre cei dintâi; căci nici Abel nu a adus jertfă până ce nu l-a precedat Cain."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a trăit Adam.» Și, după ce a trăit o sută treizeci de ani, a născut în asemănarea lui, după imaginea lui; iar explicația lui este cum am explicat „în imaginea noastră, după asemănarea noastră”, căci Adam era bun și desăvârșit după ce s-a pocăit. Și se poate ca explicația lui „în asemănarea lui” să fie despre asemănarea înfățișării, că îi semăna la chip; iar explicația lui „după imaginea lui”: în priceperea lui și în intelectul lui; căci Adam, deși a păcătuit la început, după ce s-a pocăit și s-a căit de păcatul lui, a fost desăvârșit în intelectul lui. Și se poate să nu fi fost desăvârșit până la o nouă parte a zilelor lui, ca și cum ar fi fost un tânăr până la vremea aceea, cum s-a spus despre zilele lui Mașiaḥ: „căci tânăr va muri cel de o sută de ani”; iar urmașii lui, până la vremea aceea, erau ca tinerii la minte; iar când a fost desăvârșit, a născut un desăvârșit. Și au spus învățătorii noștri, binecuvântată fie amintirea lor: „în toți acei ani în care Adam a fost sub excomunicare, a născut duhuri, demoni și lilin, căci s-a spus: «Și a trăit Adam o sută treizeci de ani și i s-a născut un fiu în asemănarea lui, după imaginea lui» – de aici reiese că până atunci nu a născut după imaginea lui”. Iar Rabbeinu Nissim a scris, în numele lui Rav Șerira, binecuvântată fie amintirea lui, explicația acestui lucru: de vreme ce Sfântul, binecuvântat fie El, l-a blestemat pe Adam, a pus în el un semn, că copiii lui nu îi semănau, ca femeile care nasc făpturi ciudate, cum au spus învățații: „A spus Rav Yehuda, a spus Șemuel: cea care leapădă o făptură în chip de Lilit – mama este necurată de naștere; este un făt, numai că are aripi”. Iar când primul om era sub blestem, nu năștea decât făpturi ciudate, în chip de demoni și lilin, prin urâțenia fețelor și a trupurilor lor; și ele sunt duhuri rele, după cum duhul lui Adam era un duh rău în ceasul în care era blestemat; au ieșit din el duhuri rele, în care era rău și nu era bine. Și la fel este obiceiul oamenilor să-i numească pe cei urâți la chip și pe oamenii răi „demoni”. Iar când Sfântul, binecuvântat fie El, a binevoit și a îndepărtat blestemul primului om, a născut fii care îi semănau la înfățișare frumoasă și cu duh bun; și aceasta este ce s-a spus: „i s-a născut un fiu în asemănarea lui, după imaginea lui”."
    },
    {
     "author": "Zohar, Haiei Sara 8:6",
@@ -635,6 +679,14 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Și au fost zilele lui Adam după ce i s-a născut Set» Din pricina lungimii vieții acestor oameni dintâi, înșiră zilele lor dinainte de a naște și pe cele de după aceea, și le cuprinde pe toate la sfârșit, până la generațiile de după potop. Iar cauza lungimii zilelor lor este că Adam, omul cel dintâi, lucrarea mâinilor Celui Sfânt, binecuvântat fie El, a fost făcut în desăvârșirea deplină, zidit cu putere și cu statură; și chiar după ce s-a hotărât asupra lui să fie muritor, era în firea lui să trăiască multă vreme. Iar când a venit potopul pe pământ, li s-a stricat aerul, și zilele lor au mers scăzând; căci până la potop zilele lor au fost de acea lungime, și unii dintre ei au trăit mai mult decât Adam. Iar Sem, care s-a născut înainte de potop, a trăit șase sute: i-a folosit tăria în care s-a născut și l-a vătămat aerul care s-a stricat. Iar fiii lui, născuți după potop, li s-au scurtat zilele și au coborât la patru sute; și vei vedea că așa a fost la ei până la dezbinare. Iar când a domnit asupra lor schimbarea aerului la dezbinare, li s-au scurtat și mai mult zilele: căci Peleg, în zilele căruia s-a împărțit pământul, a coborât la jumătatea zilelor lor, la două sute de ani. Și se pare că în generațiile lui Avraam, Isaac și Iacov zilele în popor erau de șaptezeci și optzeci de ani, cum a amintit Moise, învățătorul nostru, în rugăciunea lui; dar celor drepți din generațiile lor frica de Domnul le adaugă zile. Căci Faraon s-a mirat de Iacov, iar el i-a vorbit cu laudă despre zilele părinților lui, cum a spus: „și n-au ajuns la zilele anilor vieții părinților mei, în zilele pribegiilor lor”. Și nu este potrivită în ochii mei spusa lui Rav, care a scris în Călăuza celor rătăciți că lungimea anilor a fost numai la acești oameni anume amintiți, iar ceilalți oameni din acele generații aveau anii vieții lor anii firești obișnuiți; și a spus că această noutate a fost la acel om din pricina rânduirii vieții lui și a hranei lui, sau pe calea minunii. Iată, acestea sunt cuvinte de vânt. Și de ce să fie această minune la ei, când ei nu sunt profeți, nici drepți și buni, ca să li se facă o minune? Cu atât mai mult generație după generație. Iar îndreptarea rânduirii vieții și a hranei, cum să le lungească zilele de multe ori mai mult decât tuturor celor din acea generație? Și se poate ca și alții să se fi purtat după acea rânduire bună a vieții, și le-ar fi lungit zilele tuturor sau celor mai mulți dintre ei. Și cum de n-a ajuns înțelepciunea acelei rânduiri bune a vieții la niciunul dintre toți fiii lui Noe după potop? Ci era la ei ceva din înțelepciunea părinților lor, iar ea scădea mereu, generație după generație."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și au fost zilele lui Adam.» Se pare că aceștia pe care i-a pomenit, de la Adam până la Noe, care au trăit fiecare atâția și atâția ani, erau după imagine, cei care s-au născut în imagine și în asemănare; iar ceilalți fii și fiice pe care i-a născut fiecare dintre ei nu erau în imagine și în asemănare și și-au stricat faptele; de aceea au fost șterși în potop. Iar lungimea acestor ani pe care a avut-o fiecare dintre cei pomeniți se poate să fi fost așa și pentru fiii și fiicele pe care i-au născut; și se poate să nu fi fost decât pentru acești pomeniți, pentru că nu alergau după poftele trupului, care scurtează zilele omului. Și se poate de asemenea ca Dumnezeu să fi voit lungimea zilelor lor, ca să aibă răgaz să învețe științele și să le scrie în carte, ca cei care vin după ei să învețe cărțile lor și să le primească cuvintele prin tradiție; căci nu este răgaz în șaptezeci de ani, care sunt cele mai multe zile ale omului de la Avraam, părintele nostru, ca omul să poată învăța științele, dacă nu ar fi găsit rădăcinile științelor scrise de cei vechi în cărțile lor și nu le-ar fi primit de la ei, generație după generație. Iar marele rabin, Rabbi Moșe, binecuvântată fie amintirea lui, a scris că acești indivizi pomeniți sunt singurii care au trăit atât de mult; și așa a scris, în aceste cuvinte: „Ce s-a scris în Tora despre măsura zilelor acelor oameni, eu spun că nu a trăit acele zile decât acel om pomenit singur, iar ceilalți oameni aveau zilele firești obișnuite; iar ciudățenia era numai la acel om, fie din pricini multe în hrana lui și în purtarea lui, fie pe cale de minune, și urmează felul ei”."
+   },
+   {
     "author": "Notă structurală",
     "text": "Prima aplicare a formulei fixe care va structura tot capitolul: „au fost zilele lui X după ce i s-a născut Y, N ani; și i s-au născut fii și fiice.” Această formulă se repetă, cu variații minime de nume și cifre, la fiecare patriarh din genealogie."
    }
@@ -721,6 +773,10 @@ window.CHAPTER_DATA = [
    "Romani 5:12"
   ],
   "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și au fost toate zilele lui Adam.» Faptul că a însumat toate zilele acestora pomeniți, după ce le-a dat în amănunt, este ca să nu greșească scribul; căci, când sunt scrise amănuntul și suma, unul îl adeverește pe celălalt; și la fel s-a scris la numărătoarea copiilor lui Israel în Tora."
+   },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
     "text": "Dar nimeni, comparând viețile celor vechi cu viețile noastre și cu puținii ani pe care îi trăim acum, să nu socotească falsă ce am spus despre ei; și să nu facă din scurtimea vieților noastre de acum un argument că nici ei nu au ajuns la o durată atât de lungă de viață; căci acei vechi erau iubiți de Dumnezeu și [de curând] făcuți de însuși Dumnezeu; și pentru că hrana lor era atunci mai potrivită pentru prelungirea vieții, puteau foarte bine să trăiască un număr atât de mare de ani: și, pe lângă aceasta, Dumnezeu le-a dat o vreme mai lungă de viață din pricina virtuții lor și a bunei folosiri pe care au făcut-o de ea în descoperirile astronomice și geometrice, care nu ar fi dat vremea de a prevesti [perioadele stelelor] dacă nu ar fi trăit șase sute de ani; căci marele an se împlinește în acel interval."
@@ -2674,6 +2730,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Enoh», fiul lui Iared: s-a scris despre el „și Enoh a mers cu Dumnezeu”, ca sensul lui „după Domnul Dumnezeul vostru să mergeți”; și tot așa este scris despre Noe: „cu Dumnezeu mergea Noe”. Iar unii comentatori explică hithallekh Noaḥ ca obișnuință."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Enoh a mers cu Dumnezeu.» A umblat în căile Lui, ca să facă bine altora prin dreptate și mustrare."
    }
   ],
   "fidela": "Şi Enoh a umblat cu Dumnezeu, după ce a născut pe Metusala, trei sute de ani; şi a născut fii şi fiice;",
@@ -2868,6 +2928,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și Enoh a mers.» Era drept, dar ușor de clintit în mintea lui ca să se întoarcă la răutate; de aceea Sfântul, binecuvântat fie El, S-a grăbit și l-a luat și l-a făcut să moară înainte de vremea lui. Și de aceea a schimbat Scriptura la moartea lui, scriind „și nu a mai fost” în lume — ca să-și împlinească anii.<br><br>«Căci l-a luat Dumnezeu.» Înainte de vremea lui, ca în „iată, Eu iau de la tine desfătarea ochilor tăi”."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Căci l-a luat Dumnezeu.» A murit; și tot așa „ia-mi, Te rog, sufletul”, „iată, îți iau desfătarea ochilor tăi”, iar după aceea a lămurit ce a fost: „și soția mea a murit”. Iar la această luare, la Enoh, nu este acolo pomenire de molimă, și nici „și a murit”. Iar sensul este ce este scris în cuvintele lui Asaf: „și după aceea mă vei lua în slavă”; și tot așa în psalmul fiilor lui Core: „dar Dumnezeu îmi va răscumpăra sufletul din mâna Șeolului, căci mă va lua. Sela.” Iar cel înțelept va înțelege."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Enoh a mers cu Dumnezeu.» Ca: „înaintea Căruia au mers părinții mei”; adică și-a pus toată dorința în iubirea lui Dumnezeu și s-a îndeletnicit cu științele și L-a cunoscut pe Creatorul lui, de când a ajuns la șaizeci și cinci de ani; și, cu toate acestea, s-a mai îndeletnicit cu rodirea și înmulțirea. Iar în acei trei sute de ani pe care i-a trăit după aceea, în care a început să se îndeletnicească cu științele și să se străduiască în ele, s-a ostenit în ele până ce trupul s-a scârbit; de aceea Dumnezeu l-a luat la jumătatea zilelor lui. Și aceasta este ce a spus: „și nu a mai fost, căci l-a luat Dumnezeu”. A spus „și nu a mai fost”, căci nu a slăbit și nu a pătimit la vremea morții lui, și nu le-a trecut prin minte celor din generația lui că va muri la jumătatea zilelor lui, ci că va trăi mult, ca ceilalți asemenea lui; și nu și-au dat seama de el până ce a murit; aceasta este ce a spus: „și nu a mai fost”. Și a spus „l-a luat Dumnezeu”, adică i-a luat sufletul și l-a înălțat la cei de sus; și la fel: „după slavă mă vei lua”, „căci mă va lua, sela”; iar sufletul celui rău nu-l ia Dumnezeu, ci coboară în Șeol. Și nu este așa: „Iată, îți iau desfătarea ochilor tăi printr-o lovitură (magefah)”: deși a spus „Iată, iau”, ceea ce ar face să pară că era bună și evlavioasă, cu atât mai mult fiind soția unui profet, cu toate acestea nu era desăvârșită; de aceea a spus „printr-o lovitură”, căci a avut o durere cumplită la vremea morții, și aceasta este magefah; și la fel: „Iar când boul unui om va răni (yiggof) boul aproapelui său și acela va muri”. Iată deci că magefah este o lovitură de moarte, dar este o lovitură năprasnică, fără să fie înainte boală; dar „și piciorul tău nu se va lovi (tiggof)” este o lovitură fără moarte, dar este o lovitură grea. Dar cei desăvârșiți nu au magefah la vremea morții lor. Iar părerea Targumului, și a unor înțelepți, este că pe Enoh și pe Eliyahu i-a adus Dumnezeu vii în Grădina Edenului, cu suflet și carne, și sunt încă acolo vii, mâncând din rodul pomului și slujindu-L pe Domnul, cum era primul om înainte să păcătuiască, și vor fi acolo până în zilele lui Mașiaḥ. Este de întrebat: căci în povestirea acestor urmași, de la Adam până la Noe, a spus „și apoi a murit”, iar în povestirea urmașilor lui Noe nu a spus așa? Și au spus că, pentru că au murit în potop, a spus la aceștia „și apoi a murit”. Iar după părerea noastră, căci cei pomeniți erau drepți și buni, nu a murit niciunul dintre ei în potop, ci urmașii lor, care nu erau buni; iar toți aceștia au murit înainte de potop, cum se găsește din socoteala zilelor lor. Iar ce este corect: pentru că anii lor erau foarte lungi, a spus despre ei „și apoi a murit”, adică au trăit toți acești ani și au născut urmași, și după aceea au murit; dar în povestirea urmașilor de la Noe până la Avraam, viețile lor nu erau atât de lungi peste măsură, și nu a spus despre ei „și apoi a murit”."
    },
    {
     "author": "Bereshit Rabbah 25:1 (Midraș clasic)",
@@ -3354,6 +3422,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«I s-a născut un fiu.» Din care a fost zidită lumea."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Și i s-a născut un fiu.» Și nu este scris „și i s-a născut Noe”, ca la ceilalți: este o aluzie că din el va fi zidită lumea; căci toată lumea a fost nimicită în zilele potopului, iar el și fiii lui au rămas. Altă explicație: Metusala cel drept i-a dat sfat să nu se grăbească să-i pună nume, pentru că oamenii generației erau vrăjitori și l-ar fi vrăjit dacă i-ar fi știut numele."
    }
   ]
  },
@@ -3522,6 +3594,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Acesta ne va aduce odihnă (zeh yenaḥamenu).» Ne va ușura (yanaḥ mimmennu) truda mâinilor noastre. Până să vină Noe, ei nu aveau unelte de arat, iar el le-a pregătit; și pământul scotea spini și ciulini când semănau grâu, din pricina blestemului lui Adam cel dintâi, iar în zilele lui Noe s-a liniștit (naḥah). Aceasta este „ne va aduce odihnă”. Iar dacă nu îl explici așa, sensul cuvântului nu se potrivește cu numele, și ar trebui să-l numești Menaḥem."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar sensul lui «acesta ne va mângâia (yenaḥamenu) de lucrarea noastră»: că a știut prin Adam, care era profet, că prin acest născut pământul va trăi; sau au văzut aceasta pe calea înțelepciunii; și așa a fost: prin el lumea a dăinuit; și el a fost și „om al pământului”, căci așa este scris. Și se poate și să i se fi pus numele Noe ca Ierubaal, după ce a lucrat pământul și i-a mers bine; iar noaḥ („odihnă”) este opusul suferinței. Iar sensul: „acesta ne va mângâia, și ne vom odihni de truda mâinilor noastre”; și mângâierea este și odihnă de suferința inimii. Căci evreii păstrează sensurile, și nu cuvintele; iar martorul: Ierubeșet și Ierubaal. Iar cei care întreabă cine era soția lui Cain și a lui Set – ce sens are această întrebare? Căci este scris despre Adam: „și i s-au născut fii și fiice”, și tot așa toți."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Acesta ne va aduce odihnă (yenaḥamenu).» S-a rugat ca acesta să ne aducă mângâiere, procurând odihnă de la faptele lor; căci cuvântul Noaḥ arată odihnă, ca: „și s-au odihnit (ve-noaḥ) de dușmanii lor”."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Acesta ne va aduce odihnă (yenaḥamenu).» Și dacă vei spune: de vreme ce au spus „mare profet a fost Eber, care și-a numit fiul Peleg”, de ce nu se spune „mare profet a fost Lameh, care și-a numit fiul Noe”? Și a răspuns Rashbam: acesta a fost primul dintre cei născuți după moartea lui Adam, și de aceea l-a numit Noe, căci a spus: fie voia ca acesta să îndrepte strâmbătatea aceluia. Iar yenaḥamenu este expresie de rugăciune, yanaḥ mimmennu, adică să ne facă ușurare și mulțumire; dar acolo nu se potrivește să se spună expresie de rugăciune, ci expresie de profeție. Sau se poate spune: înainte să se nască Noe."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și el i-a pus numele Noe (Noaḥ), spunând: „Acesta ne va aduce odihnă (yenaḥamenu)”.» Au spus învățătorii noștri, binecuvântată fie amintirea lor: „nici expunerea nu este după nume, nici numele nu este după expunere; ar fi trebuit să spună fie «Noaḥ – acesta ne va odihni (yaniḥenu)», fie «Naḥman – acesta ne va mângâia (yenaḥamenu)»”. Adevărat este aceasta; numai că odihna de necaz este mângâierea, și sunt apropiate în sens, iar limba sfântă nu este cu de-amănuntul în aceasta, la punerea numelor; ca Șemuel: „căci de la Domnul l-am cerut (šeʾiltiw)”, iar după expunere ar fi fost Șaʾul, numai că este apropiat în sens; și, de asemenea, în numele Șemuel este cuprins lucrul mai deplin, căci este în el „cerut de la Dumnezeu (šaʾul me-El)”; și la fel Yaʿbeṣ, din ʿoṣev („durere”), și cele asemenea lui. Și au spus învățătorii noștri, binecuvântată fie amintirea lor: „mare profet a fost Lameh, căci a spus la nașterea fiului său: «Acesta ne va aduce odihnă»; cum a știut aceasta? Ci era profet”. Și care a fost ușurarea și odihna pe care a făcut-o Noe în lume? Au spus: căci, până nu a venit Noe în lume, nu aveau unelte de arat și se osteneau cu mâinile lor, cu sapa și cu dalta, ca să are și să semene; când a venit Noe, care era om al pământului, și a cugetat în mintea lui să ușureze munca pământului, a alcătuit unelte de arat și a arat cu boii și cu măgarii, iar oamenii lumii au învățat de la el. Iată deci că el a ușurat munca pământului, și aceasta este mângâierea și ușurarea; de aceea a spus „de la lucrarea noastră”, și aceasta este munca pământului, ca: „de la lucrul lui, de pe câmp”; și, deși orice muncă este cuprinsă în maʿaśeh, de cele mai multe ori se aplică la lucrul pământului. «Și de la truda mâinilor noastre.» De la ceea ce eram trudiți și osteniți cu mâinile noastre. «Pe care l-a blestemat Domnul.» Cum i-a spus lui Adam: „blestemat este pământul din pricina ta; cu suferință vei mânca din el”; și, cu toate acestea, și după Noe lucrarea lui este cu suferință, numai că el a ușurat, prin înțelepciunea lui, truda și suferința. Iar după calea înțelesului simplu, ceea ce a spus Lameh, „Acesta ne va aduce odihnă”, nu a spus-o pe cale de profeție, ci l-a numit Noaḥ ca semn și pe cale de binecuvântare și de rugăciune, cum Rahela și-a numit fiul Iosif, spunând: „Fie ca Domnul să-mi adauge încă un fiu!”. Iar Moise, învățătorul nostru, a scris, din gura Puterii, povestirea numelor acestor oameni, de la Adam până la Noe, și numărul anilor lor, ca să întărească în mâinile noastre, noi, moștenitorii Torei lui, înnoirea lumii, și ca fiecare generație să știe vremea înnoirii lumii, când a fost."
    },
    {
     "author": "Zohar, Teruma 78:7",
@@ -3782,6 +3870,10 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Și au fost toate zilele lui Lameh.» Învățătorul Rabbi Șemuel, fiul învățătorului Rabbi Meir, binecuvântată fie amintirea dreptului, a obiectat: de ce trebuie să numărăm anii celor nelegiuiți scriși în pericopă? Și a răspuns: căci așa este felul profeților, unul după altul, ca să se cunoască numărul anilor de la crearea lumii până la zilele lor. Căci din anii și numărul lor scrise aici, și din numărul anilor generațiilor scrise până la Moise, învățătorul nostru, și din numărul robiei Egiptului („Mițrayim”), cum este scris: „Iar locuirea fiilor lui Israel, cât au locuit în țara Egiptului” etc., și din numărul celor patruzeci de ani cât au fost în pustiu, am învățat numărul anilor de la crearea lumii până au intrat Israel în Țară. Și deja este explicat în Profeți numărul anilor de la ieșirea din Egipt până la zidirea Templului întâi și de la zidirea lui până la distrugerea lui. Și din cuvintele lui Daniel am învățat numărul anilor de la distrugerea Templului întâi până la distrugerea Templului al doilea. Și a scris despre aceasta: „Șaptezeci de săptămâni au fost hotărâte asupra poporului tău”. Explicație: șaptezeci ai exilului Babilonului și patru sute douăzeci cât a stat Templul al doilea; iată aici de șapte ori șaptezeci de ani, și aceasta înseamnă „șaptezeci de săptămâni”."
+   },
+   {
     "author": "Descoperire din verificarea directă a Pentateuhului Samaritean (Standardul Davar)",
     "text": "Și la Lameh: total samaritean 653 de ani (53 + 600), față de 777 în Textul Masoretic — o diferență de 124 de ani. Per total, cronologia samariteană a genealogiei din acest capitol e sistematic mai scurtă decât cea masoretică la ultimii trei patriarhi (Iared, Matusalem, Lameh), mutând semnificativ data calculată a Potopului mai devreme."
    }
@@ -3923,6 +4015,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Atunci când Noe avea cinci sute de ani.» A zis Rabbi Yudan: Ce motiv este că toate generațiile au avut urmași la o sută de ani, iar acesta la cinci sute? A zis Sfântul, binecuvântat fie El: Dacă ei sunt răi, vor pieri în ape, și va fi rău pentru acest drept; iar dacă sunt drepți, va trebui să-l trudesc să facă multe arce. De aceea i-a închis izvorul și nu a avut urmași până la cinci sute de ani, ca Iafet, cel mai mare dintre fiii lui, să nu fie vrednic de pedepse înainte de potop, căci este scris: „căci tânărul va muri la o sută de ani” — vrednic de pedeapsă în viitor; și tot așa înainte de darea Torei.<br><br>«Sem, Ham și Iafet.» Oare nu Iafet este cel mai mare? Ci mai întâi îl tâlcuiești pe cel care este drept și s-a născut circumcis și din care avea să iasă Avraam etc., în Bereșit Rabba."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a fost, atunci când Noe avea cinci sute de ani.» Nu știm de ce a întârziat atât de mult să nască, căci iată, cei care au fost înaintea lui au născut la o sută de ani, sau mai puțin, sau mai mult. Și, după cum se pare, cei dintâi, cum am scris, nu alergau după pofte și nu se apropiau de femeie decât la o sută de ani, sau mai puțin, sau puțin mai mult, iar intenția lor era doar să-și lase sămânță, și nu pentru pofta cărnii; și știau, după firea generațiilor lor și după dreptatea faptelor lor, că vor trăi mulți ani; și când ajungeau la o sută, sau aproape, se apropiau de femeie și nășteau; iar cel dintâi le era asemenea prin faptele lor cele bune; de aceea i-a pomenit Scriptura, și numărul zilelor lor. Iar Noe, pentru că a văzut că generația lui era rea, nu voia să se apropie de femeie, ca nu cumva să nască fii care să fie răi, așa cum generația lui era rea și mincinoasă, până ce a avut cinci sute de ani; și s-a apropiat de femeie și a născut – poate i s-a spus prin profeție – și a născut trei fii, care erau buni, numai că Ham nu era desăvârșit ca frații lui. Și Noe nu a născut fiice. Și în Bereșit Rabba: „A spus Sfântul, binecuvântat fie El: dacă sunt răi, nu vreau să piară fiii lui Noe în ape; iar dacă sunt drepți, nu-l voi obosi să facă multe corăbii; și Sfântul, binecuvântat fie El, i-a oprit izvorul, și nu a născut până ce a avut cinci sute de ani. Iar Rabbi Neḥemya a spus, în numele lui Rabbi Eliʿezer, fiul lui Rabbi Yose Galileeanul: chiar și Iafet, care era cel mare, când va veni potopul, nu va avea o sută de ani și nu va fi vrednic de pedepse”.<br><br>«Lui Noe i s-au născut Sem, Ham și Iafet.» Părerea învățătorilor noștri, binecuvântată fie amintirea lor, este că Iafet este cel mare; și au învățat aceasta din ce a spus: „Sem avea o sută de ani când i s-a născut Arpacșad, la doi ani după potop”; iar dacă Sem ar fi fost cel mare, iată, ar fi avut o sută la un an după potop. Să socotim: copilul s-a născut în anul cinci sute unu al lui Noe, din pricina zilelor sarcinii, căci, când avea cinci sute de ani, s-a apropiat de soția lui și ea a rămas însărcinată; iar potopul a fost în anul șase sute al lui Noe. Și iată, Sem, la venirea potopului, avea o sută de ani fără un an, iar după potop avea o sută; și cum a spus „la doi ani după potop”? Ci Iafet era cel mare; și la fel a spus: „fratele lui Iafet cel mare”. Și, deși învățătorii noștri, binecuvântată fie amintirea lor, au spus așa, este de mirare: cum a scris, în orice loc unde i-a pomenit pe toți trei, „Sem, Ham și Iafet”, ceea ce înseamnă că Sem era cel mare și Iafet cel mic? Iar ce a spus „la doi ani după potop” înseamnă după începutul potopului; și Sem avea atunci o sută de ani fără un an, cum am scris; iar când a trecut potopul, avea o sută de ani; și era un an după potop și începutul anului al doilea, și l-a socotit ca doi ani, dar nu l-a socotit la o sută, pentru că nu se împlinise."
    }
   ]
  }

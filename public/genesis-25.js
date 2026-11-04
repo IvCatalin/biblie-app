@@ -222,7 +222,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Și fiii săi, Isaac și Ismael, l-au îngropat»: căci erau mai mari și mai cinstiți decât ceilalți și îi erau iubiți; de aceea s-au îngrijit de el, deși erau acolo fiii Cheturei; sau este posibil că i-a trimis în timpul vieții lui, cum i-a trimis pe fiii concubinelor.<br><br>«În peștera» (el meʿarat), «în câmpul» (el sedeh): adică bi-mʿarat, bi-sdeh; și tot așa „iar în (el) chivot să pui Mărturia”, ca u-va-aron; și cele asemenea lor sunt multe."
+    "text": "«Și fiii săi, Isaac și Ismael, l-au îngropat»: căci erau mai mari și mai cinstiți decât ceilalți și îi erau iubiți; de aceea s-au îngrijit de el, deși erau acolo fiii Cheturei; sau este posibil că i-a trimis în timpul vieții lui, cum i-a trimis pe fiii concubinelor.<br><br>«În peștera» (el meʿarat), «în câmpul» (el sedeh): adică bi-mʿarat, bi-sdeh; și tot așa „iar în (el) chivot să pui Mărturia”, ca u-va-aron; și cele asemenea lor sunt multe.<br><br>«Care este față în față cu Mamre»: l-am explicat."
    }
   ]
  },

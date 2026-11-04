@@ -604,6 +604,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "«Haideți să-l omorâm.» Expresie de chemare a oamenilor. Și tot așa: „Haideți să-l vindem ismaeliților”. Și tot așa: hava na; „Haideți să ne purtăm cu înțelepciune”. Și tot așa: „Vedeți, Eu pun înaintea voastră astăzi”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și acum, haideți»: sens de îndemn, cum am explicat."
    }
   ]
  },
@@ -755,7 +759,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Balsam» (ṣori): a explicat Rabban Șimon ben Gamliel: ṣori nu este altceva decât rășina care picură din arborii qeṭaf, și se numește în limba străină balsami. Iar loṭ („lotus”) l-au explicat în Bereșit Rabba: mašṭekhi."
+    "text": "«Lotus» (nekhoʾt): în Bereșit Rabba au explicat că este ceară.<br><br>«Balsam» (ṣori): a explicat Rabban Șimon ben Gamliel: ṣori nu este altceva decât rășina care picură din arborii qeṭaf, și se numește în limba străină balsami. Iar loṭ („lotus”) l-au explicat în Bereșit Rabba: mašṭekhi."
    }
   ]
  },
@@ -787,7 +791,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Dacă îl vom omorî»: dar oare nu-i oprise deja Ruben să-l omoare? Ci le-a spus: ce vom face cu el? Dacă îl vom lăsa în groapă, va muri acolo, și iată, este ca și cum l-am fi omorât.<br><br>«Și-i vom acoperi sângele»: după targumul lui: „și vom acoperi asupra sângelui lui”, adică vom ascunde moartea lui de tatăl nostru."
+    "text": "«Care este câștigul»: după Targumul lui.<br><br>«Dacă îl vom omorî»: dar oare nu-i oprise deja Ruben să-l omoare? Ci le-a spus: ce vom face cu el? Dacă îl vom lăsa în groapă, va muri acolo, și iată, este ca și cum l-am fi omorât.<br><br>«Și-i vom acoperi sângele»: după targumul lui: „și vom acoperi asupra sângelui lui”, adică vom ascunde moartea lui de tatăl nostru."
    }
   ]
  },
@@ -815,7 +819,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Dar mâna noastră să nu se ridice asupra lui»: să-i pricinuim moartea; iar dacă îl vom vinde, nu va muri."
+    "text": "«Haideți»: l-am explicat.<br><br>«Dar mâna noastră să nu se ridice asupra lui»: să-i pricinuim moartea; iar dacă îl vom vinde, nu va muri."
    }
   ]
  },
@@ -1068,6 +1072,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "«Iar medaniții l-au vândut în Egipt („Mițrayim”).» Medan și Madian și Ismael erau frați, iar medaniții și ismaeliții sunt unul, după sensul simplu; de aceea spune că medaniții l-au vândut și ismaeliții l-au coborât acolo, căci amândoi sunt unul, după sensul simplu."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar medaniții»: i-am explicat.<br><br>«Căpetenia călăilor»: după Targumul lui."
    }
   ]
  }

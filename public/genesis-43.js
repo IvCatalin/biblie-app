@@ -276,7 +276,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Iar eu, precum am fost îndoliat, așa sunt îndoliat» (ka-ʾašer šakholti šakhalti): pentru că a dublat lucrul, a repetat cuvintele, după obicei: cel dintâi din forma paʿul, iar al doilea din forma paʿal. Și a spus: iar eu ce pot face dacă i se va întâmpla o întâmplare unuia dintre voi? Precum am fost îndoliat de Iosif, sunt îndoliat de unul dintre voi căruia i se va întâmpla o întâmplare."
+    "text": "«Ca să vi-l trimită»: să-l lase liber din închisoare.<br><br>«Iar eu, precum am fost îndoliat, așa sunt îndoliat» (ka-ʾašer šakholti šakhalti): pentru că a dublat lucrul, a repetat cuvintele, după obicei: cel dintâi din forma paʿul, iar al doilea din forma paʿal. Și a spus: iar eu ce pot face dacă i se va întâmpla o întâmplare unuia dintre voi? Precum am fost îndoliat de Iosif, sunt îndoliat de unul dintre voi căruia i se va întâmpla o întâmplare."
    }
   ]
  },
@@ -648,6 +648,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Și a plâns acolo.» Căci s-a gândit la necazul tatălui său și al fraților săi."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«I se trezise» (nikhmeru): după Targumul lui."
    }
   ]
  },

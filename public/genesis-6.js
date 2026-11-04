@@ -131,6 +131,18 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar cuvântul heḥel („au început”) vine din teḥillah, și este din conjugarea hifil.<br><br>«Să se înmulțească (la-rov).» Infinitiv."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Și a fost, când au început oamenii să se înmulțească pe fața pământului» După ce Scriptura i-a amintit pe Noe și pe fiii lui și a voit să înceapă chestiunea potopului, a spus că îndată ce au început oamenii să se înmulțească, au început să păcătuiască, și au stăruit în păcatul lor multe zile, până când Noe a avut patru sute optzeci de ani; și atunci Cel Sfânt, binecuvântat fie El, a hotărât asupra lor ca duhul Lui să nu mai sălășluiască în ei pe veci, dar le va mai lungi anii, până li se va umple măsura; căci așa este judecata lui Dumnezeu."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a fost, când au început oamenii (ha-adam).» Specia omului.<br><br>«Și li s-au născut fiice.» Nu era nevoie să spună aceasta, căci nu este cu putință lumii fără parte bărbătească și fără parte femeiască; ci această povestire a fost despre fiice, pentru că au rătăcit după ele, și ele au pricinuit stricarea pământului, cum povestește mai departe."
+   },
+   {
     "author": "Talmudul Babilonian, Megila 10b:5",
     "text": "„Și a fost în zilele lui Ahașveroș” — a fost Haman. „Și a fost în zilele când judecau judecătorii” — a fost foamete. „Și a fost, când au început oamenii să se înmulțească” — „Și Domnul a văzut că mare era răutatea omului”."
    },
@@ -264,6 +276,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Fiii conducătorilor (bene ha-Elohim).» Fiii căpeteniilor și ai judecătorilor. Altă explicație: bene ha-Elohim sunt căpeteniile care merg în solia Celui Atotprezent; și ei se amestecau cu ele. Orice „Elohim” din Scriptură înseamnă stăpânire, și aceasta va dovedi: „iar tu îi vei fi lui drept Elohim”, „vezi, te-am pus Elohim”.<br><br>«Că erau frumoase (tovot).» A zis Rabbi Yudan: este scris ṭovat la singular: când o împodobeau pe una ca să intre sub baldachinul nunții, intra un mare și se culca primul cu ea.<br><br>«Dintre oricine și-au ales.» Chiar și femeie măritată, chiar și bărbatul și animalul."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Fiii conducătorilor (benei ha-Elohim).» Fiii judecătorilor, care făceau pe pământ judecata lui Dumnezeu. Iar unii spun că ha-Elohim în acest loc este sfânt, iar fiii sunt sfinții care sunt pe pământ, ca sensul lui „fii sunteți”. Iar unii spun că benei ha-Elohim sunt fiii lui Set, iar fiicele oamenilor sunt fiicele familiei lui Cain. Iar ce este drept în ochii mei este că benei ha-Elohim, cei care cunoșteau cunoașterea Celui Preaînalt, și-au ales soții după cum era rânduiala cerurilor, fiecare potrivită fiecăruia, iar nașterile erau ca nașterile; de aceea au ieșit din ei viteji. Și se poate să fi luat femeile și cu sila."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«fiii conducătorilor» „Fiii prinților și ai judecătorilor” – cuvintele lui Rashi, și așa este în Bereșit Rabba. Dacă este așa, Scriptura povestește că judecătorii, care trebuiau să facă judecata, fiii lor făceau jaful pe față și nu era nimeni care să-i oprească.<br><br>«că fiicele oamenilor erau frumoase» „Că (ki) erau frumoase” – ca „Dacă (ki) vei vedea măgarul dușmanului tău”, „Dacă (ki) se întâmplă să găsești un cuib de pasăre înaintea ta”: când erau frumoase, le luau de soții cu sila. Și Scriptura a povestit jaful și a mai spus „dintre oricine și-au ales”, ca să le cuprindă și pe cele măritate cu alții. Dar Scriptura n-a amintit lămurit oprirea lor și pedeapsa nu a fost hotărâtă asupra lor decât pentru jaf, pentru că este un lucru priceput de minte, care nu are nevoie de Tora."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Fiii conducătorilor (bene ha-Elohim) au văzut.» Fiii judecătorilor, ai celor mari și ai conducătorilor țărilor, căci ei se numesc Elohim, ca: „Să nu hulești un judecător (Elohim)” și cele asemenea lui; și la fel a tradus Onkelos: „fiii celor mari”; iar expunerea despre ʿUzza și ʿAzaʾel este depărtată. Și în Bereșit Rabba: „Rabbi Șimon ben Yoḥai îl blestema pe oricine îi numea «fiii lui Dumnezeu». A învățat Rabbi Șimon ben Yoḥai: orice destrăbălare care nu vine de la cei mari nu este destrăbălare”. Și au mai spus: „De ce îi numește bene ha-Elohim? Rabbi Ḥanina și Reiș Lakiș spun amândoi: pentru că au trăit multe zile fără durere și fără suferințe. Rav Huna a spus în numele lui Rabbi Yose: au trăit multe zile ca să se îndeletnicească cu anotimpurile, cu socotelile și cu constelațiile”; și acesta este motivul pe care l-am scris mai sus despre lungimea anilor oamenilor pomeniți.<br><br>«Fiicele oamenilor.» Fiicele mulțimii oamenilor slabi, care nu aveau putere să le stea împotrivă; și, când fiii celor mari vedeau fiicele săracilor, că erau bune, adică frumoase la chip și la înfățișare, le asupreau și le luau pe oricare își alegeau dintre toate femeile și pe cele care le plăceau, fie că erau libere, fie măritate cu un bărbat; căci cel care era mai mare decât aproapele lui îl asuprea pe aproapele lui, și nu era cine să scape din mâna lor. Iar adam se spune despre cei mici și slabi, căci a spus: „și fiii oamenilor (bene adam), și fiii bărbaților (bene iš)”: bene adam – cei mici; bene iš – cei mari. Și în Sifre au explicat așa: dacă fiii judecătorilor apucau femei din piețe și le chinuiau, cu atât mai mult ceilalți oameni. Iar înțeleptul Rabbi Avraham ibn Ezra a explicat bene ha-Elohim: că cunoșteau știința Celui Preaînalt și își alegeau femeia a cărei rânduială a cerurilor se potrivea fiecăruia dintre ei, iar urmașii erau după urmași; de aceea au ieșit din ei viteji. Și se poate să fi luat femeile și cu sila.<br><br>«Că… erau frumoase (tovot).» A spus Rabbi Yudan: ṭavat este scris, căci o împodobeau (meṭayyevin) și o găteau pe cea pe care o aduceau sub baldachinul nunții, iar cel mare intra și o cunoștea întâi; aceasta este ce este scris: ki ṭovat hennah – acestea sunt fecioarele.<br><br>«Și și-au luat soții.» Acestea sunt femeile măritate.<br><br>«Dintre oricine și-au ales.» Aceasta este partea bărbătească și dobitocul."
    },
    {
     "author": "Talmudul Babilonian",
@@ -431,6 +455,30 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Duhul Meu nu va sălășlui (lo yadon).» Nu se va plânge și nu se va certa duhul Meu în privința Mea din pricina omului,<br><br>«Veșnic (le-ʿolam).» Pentru multe zile. Iată, duhul Meu se judecă înăuntrul Meu: dacă să distrugă sau dacă să se îndure; această ceartă nu va fi în duhul Meu pentru totdeauna, adică pentru multe zile.<br><br>«Căci și el este trup (be-șaggam hu vasar).» Ca be-șe-gam, adică: pentru că și aceasta este în el, că este trup, și totuși nu se pleacă înaintea Mea; și ce ar fi dacă ar fi foc sau un lucru tare? Asemenea lui: „până m-am ridicat (șaqqamti), Debora”, ca „că m-am ridicat”; și tot așa „că (șa-) Tu vorbești cu mine”, ca „că Tu”; și tot așa be-șaggam, ca „în aceea că și”.<br><br>«Zilele lui vor fi etc.» Până la o sută douăzeci de ani voi fi îndelung răbdător cu ei, iar dacă nu se vor întoarce, voi aduce asupra lor potop. Și dacă vei spune: de la nașterea lui Iafet până la potop nu sunt decât o sută de ani — nu există „mai devreme” și „mai târziu” în Tora: hotărârea fusese deja luată cu douăzeci de ani înainte ca Noe să aibă urmași; și așa am găsit în Seder ʿOlam. Sunt multe midrașuri aggadice la „nu va sălășlui”, dar aceasta este lămurirea înțelesului simplu."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Duhul Meu nu va sălășlui (lo yadon).» Unii spun că este ca „și și-a pus sabia înapoi în teacă (nedanah)”, căci trupul este pentru duh ca o teacă; iar martorul: „mi s-a mâhnit duhul”. Doar că atunci yadon ar fi o altă rădăcină, ca „dacă i se va urca până la ceruri înălțimea (siʾo)”, care este din verbele cu ʿayin de odihnă; și ca el naśa, și multe altele. Iar unii spun că forma lui este ca „și se întoarce (we-yašov) țărâna”, și este din rădăcina din („judecată”), căci duhul este judecător în trup.<br><br>«Căci și el (be-šaggam).» Šin este ca în še-kakhah; și va fi sensul lui: nu va rămâne duhul Meu, care era de la Mine – și tot așa a spus Eclesiastul: „și duhul se întoarce la Dumnezeu, care l-a dat” –, ci duhul omului singur, din pricina acestei silnicii; și încă, pentru că omul este carne, și el ajunge până la o vreme, și se micșorează când cel făcut îl biruie pe cel care face.<br><br>«Și zilele lui vor fi.» Unii spun că aceasta este măsura oricărui om; și dacă am găsit mai mult, tot așa am găsit și mai puțin, dar vorbește despre cei mai mulți. Dar aceasta nu este adevărat, căci iată, Sem a trăit șase sute de ani, și toate generațiile de după el au trăit mulți ani, iar în zilele lui Peleg s-au împuținat anii, iar din zilele lui David până azi, șaptezeci sau optzeci de ani. Iar adevărul este ce a spus traducătorul arameic: că i-a dat omului un termen; ca sensul lui „încă patruzeci de zile”: dacă se vor întoarce, vor scăpa, iar dacă nu se vor întoarce, vor muri. Și nu-ți pune inima la numărul „și Noe era de cinci sute de ani”, căci nu este „înainte” și „după” în Tora. Și iată, este scris „și Terah a murit în Haran”, iar după el „și Domnul i-a spus lui Avram: «Pleacă din țara ta»”, iar noi știm că Terah n-a murit până ce Isaac a fost de treizeci și cinci de ani; și multe ca el."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«căci și el este trup» Be-šaggam este ca be-še-gam, cu segol. Iar Rashi a explicat: „pentru că și aceasta este în el, că este trup, și totuși nu se supune înaintea Mea; și ce-ar fi dacă ar fi foc sau un lucru tare?” Și în această explicație nu este nici gust, nici miros. Iar Rabbi Avraham a explicat că spune: Duhul Meu nu va sta în om pe veci din pricina acestui jaf, și încă pentru că omul este trup și va ajunge la o vreme și va lipsi; și iată, este ca gam be-še-hu basar („și pentru că el este trup”). Dar ce nevoie este de această pricină? Căci este știut că ei sunt trup și moartea a fost hotărâtă asupra lor: „Căci țărână ești și în țărână te vei întoarce”. Iar ce este corect în ochii mei: că spune: Duhul Meu nu va sta în om pe veci, pentru că și omul este trup, ca toată făptura care se târăște pe pământ, dintre păsări, dobitoace și fiare sălbatice, și nu este vrednic să fie duhul lui Dumnezeu înăuntrul lui. Și chestiunea este să spună că Dumnezeu l-a făcut pe om drept, ca să fie ca îngerii slujitori prin sufletul pe care l-a pus în el; și iată, el s-a luat după trup și după poftele trupești, s-a asemănat cu vitele care pier. Și de aceea duhul lui Dumnezeu nu va mai sălășlui înăuntrul lui, căci el este trupesc, nu dumnezeiesc; dar le va lungi vremea, dacă se vor întoarce. Și iată, aceasta este ca sensul lui „Și Și-a amintit că ei sunt trup, un suflu care trece și nu se mai întoarce”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Duhul Meu nu va sălășlui (lo yadon) veșnic în om, căci și el este trup.» Nu se cuvine să fie veșnic ceartă (madon) înaintea Mea și prilej de a deschide gura ca să se împotrivească și să spună că, deși omul merită o pedeapsă mare pentru răzvrătirea lui, fiindcă este în imagine și asemănare, totuși se cuvine de asemenea să fie compătimit, fiindcă el este de asemenea trup, care îndeamnă la păcat, nu doar imagine și asemănare.<br><br>«Zilele lui vor fi.» Va avea vreme pentru pocăință.<br><br>«O sută douăzeci de ani.» Căci în acest timp Noe făcea arca și îi mustra și îi avertiza, după cuvintele învățătorilor noștri, binecuvântată fie amintirea lor."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Nu va sălășlui (lo yadon) etc.» Să cântăresc judecata lor, dacă să-i șterg sau să nu-i șterg; „be-šaggam”: și ei sunt de rând și scăzuți și sunt carne, și cu toate acestea jefuiesc și asupresc; de aceea negreșit îi voi șterge."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Duhul Meu nu va sălășlui veșnic în om.» Când sufletul lor se va urca sus, nu li-l voi mai întoarce. Altă explicație: nu voi mai crea suflet pentru om.<br><br>«Căci și el (be-šaggam) este trup.» Este o prescurtare (noṭariqon) pentru Moise: valoarea numerică a unuia este ca valoarea numerică a celuilalt.<br><br>«Zilele lui vor fi etc.» Zilele lui Moise. Și mi se pare că așa se explică versetul: „Duhul Meu nu va sălășlui în om” până va veni Moise, care va avea pornirea cea bună, adică o inimă de carne, cum este scris: „și vă voi da o inimă de carne (basar)”; și aceasta este „căci și el este trup (basar)”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar Domnul a spus: „Duhul Meu nu va sălășlui (lo yadon) veșnic în om”.» A spus în inima Lui, sau i-a spus lui Noe. Iar cuvântul lo yadon l-a explicat domnul, tatăl meu, binecuvântată fie amintirea lui, din „stârnește ceartă (madon)”; adică duhul Meu cel de sus, pe care l-am suflat în om, nu va mai fi în ceartă pururi cu trupul, căci trupul se lasă tras după pofta dobitoacelor; și aceasta, întrucât este carne, iar în firea cărnii sunt înfipte și întipărite poftele; le voi da răgaz o sută douăzeci de ani: dacă se vor întoarce prin pocăință; iar dacă nu, îi voi nimici din lume. Și l-au mai explicat din sensul lui „și și-a pus sabia în teacă (nedanah)”, a cărui explicație este teaca sabiei; iar cuvântul yadon ar fi trebuit să aibă dageș pentru lipsa nun-ului, numai că a venit în el vocala lungă în locul dageș-ului, cum a venit în cuvântul „Iacov a fiert (va-yazed) o tocană”. Iar explicația: duhul nu va fi în teaca lui, care este trupul, ci îl voi scoate din el și voi nimici duhul și trupul. Și în Bereșit Rabba: „A spus Rabbi Yișmaʿel, fiul lui Rabbi Yose: a spus Sfântul, binecuvântat fie El: nu Îmi dau duhul în ceasul în care dau răsplata drepților. Rabbi Yannai și Rabbi Șimon ben Lakiș spun amândoi: nu este Gheena în viitorul ce va să vină, ci este o zi care îi arde pe cei răi. Rabbi Yehuda, fiul lui Rabbi Ilai, a spus: nici zi, nici Gheena, ci este un foc care va ieși din trupul celor răi și îi va arde, cum s-a spus: «Zămisliți fân, nașteți paie; duhul vostru este un foc care vă va mistui»”. Și am mai scris un lucru despre Gheena la versetul „Și a văzut Dumnezeu tot ce făcuse și, iată, era foarte bine”. „A spus Rabbi Yehuda, fiul lui Rabbi Ilai: lo yadon ruḥi – aceste generații (duhuri) nu vor fi judecate înaintea Mea pe veci. Rav Huna a spus în numele lui Rav Aḥa: lo yadon – în ceasul în care voi întoarce duhul în teaca lui, nu voi întoarce aceste duhuri în tecile lor”. Și au mai spus: „generația potopului nu are parte de lumea care vine și nu va fi judecată, căci s-a spus «Duhul Meu nu va sălășlui (lo yadon) veșnic în om» – nici duh, nici judecată (din)”.<br><br>«Căci și el (be-šagam).» Șin-ul este cu pataḥ, ca: „până ce m-am ridicat (šaqqamti), eu, Debora”; iar explicația: întrucât și el este trup; adică de ce nu va sălășlui duhul Meu în om pe veci? Pentru că și el este trup, ca dobitoacele; căci, deși în el este un duh de sus, iată, și el este trup, iar trupul trage duhul spre poftele lui; de aceea îi voi da acestui om răgaz o sută douăzeci de ani: dacă se va întoarce, bine – îi voi păstra în lume; iar dacă nu, îi voi nimici din lume. Aceasta este explicația lui. «Zilele lui.» Zilele pe care i le voi da ca răgaz; iar motivul celor o sută douăzeci nu îl știm, ci așa a fost voia Creatorului."
    }
   ],
   "fidela": "Şi DOMNUL a spus: Duhul meu nu se va lupta întotdeauna cu omul, căci el este de asemenea şi carne; totuşi zilele lui vor fi o sută douăzeci de ani.",
@@ -614,6 +662,22 @@ window.CHAPTER_DATA = [
     "text": "«Nefilimii.» Numiți așa pentru că au căzut (nafelu) și au făcut lumea să cadă; iar în limba ebraică este cuvânt pentru „uriași”.<br><br>«În acele zile.» În zilele generației lui Enoș și ale fiilor lui Cain.<br><br>«Și chiar și după aceea.» Deși au văzut pieirea generației lui Enoș, când a urcat Oceanul și a înecat o treime din lume, generația potopului nu s-a smerit ca să învețe de la ei.<br><br>«Veneau.» Ele nășteau uriași asemenea lor.<br><br>«Puternicii.» Pentru a se răscula împotriva Celui Atotprezent.<br><br>«Oameni cu renume (anșe ha-șem).» Cei care au fost numiți cu numele Irad, Mehuiael, Metușael, numiți după pieire: că au fost șterși (nimḥu) și slăbiți (hutașu). Altă explicație: oameni ai pustiirii (șimamon), care au pustiit lumea."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar explicația lui nefilim: că inima celui care îi vede cade (yippol), căci se minunează de înălțimea staturii lor.<br><br>Iar sensul lui «și chiar și după aceea»: după potop; și iată, fiii lui Anac erau la început din familia benei ha-Elohim."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Nefilimii» „Pentru că au căzut (nafelu) și au făcut lumea să cadă (hippilu)” – cuvintele lui Rashi, și este în Bereșit Rabba. Iar cunoscătorii limbii au spus că se numesc așa pentru că inima omului cade (yippol) în el de frica lor; și tot așa emimii.<br><br>«în acele zile» „În zilele generației lui Enoș, și chiar și după aceea, deși au văzut nimicirea generației lui Enoș, când a urcat Oceanul și a înecat o treime din lume, și nu s-au supus ca să învețe de la ei” – cuvintele lui Rashi. Iar Rabbi Avraham a explicat: și după potop, căci fiii lui Anak erau din familia fiilor lui Dumnezeu; și dacă este așa, fie soțiile fiilor lui Noe erau din seminția lor și ei le semănau, fie el este de acord cu spusa care tâlcuiește despre Og că a scăpat din potop, și adaugă el că au scăpat și alții împreună cu el. Iar ce este corect în ochii mei: că Adam și soția lui sunt numiți fiii lui Dumnezeu (bene ha-elohim), pentru că erau lucrarea mâinilor Lui și El este tatăl lor; nu au alt tată în afară de El. Și el a născut mulți fii, cum este scris: „și i s-au născut fii și fiice”. Și acești oameni, născuți cei dintâi dintr-un tată și o mamă, erau într-o mare desăvârșire de înălțime și de tărie, căci s-au născut după asemănarea tatălui lor, cum este scris despre Set: „i s-a născut un fiu în asemănarea lui, după imaginea lui”. Și se poate ca toți fiii celor dintâi, Adam, Set, Enoș, să fie numiți fiii lui Dumnezeu, căci acești trei oameni erau după asemănarea lui Dumnezeu; și atunci s-a început slujirea idolilor și a început să vină asupra oamenilor slăbiciune și moleșeală. Și așa au spus în Bereșit Rabba: „Aceasta este cartea urmașilor lui Adam” – și cei dintâi nu sunt urmași? Și ce sunt? Ființe dumnezeiești. L-au întrebat înaintea lui Abba Kohen Bardala: Adam, Set, Enoș – și el a tăcut. Le-a spus: Până aici, după chip și după asemănare; de aici înainte, Chenan – certăreți. Iar când omul a început să se înmulțească și li s-au născut fiicele, aceștia, fiii celor dintâi, în tăria lor și în mărimea poftei lor, își alegeau femeile frumoase, înalte la statură și sănătoase. Și a povestit mai întâi că le luau de soții pe calea jafului, iar după aceea a povestit că veneau pe calea desfrânării la fiicele omului, care nu erau de aceeași treaptă; și lucrul nu se știa până nu le nășteau copii, și își dădeau seama că nu sunt din fiii celorlalți oameni, ci li s-au născut acestor fii ai lui Dumnezeu, căci sunt foarte mari; dar ei sunt mai prejos (nofelim) decât părinții lor în înălțime și în putere, după limbajul lui „nu sunt mai prejos (nofel) decât voi”. Iar ei sunt puternici față de ceilalți oameni. Și a spus că aceasta a fost în generațiile cele dintâi, care erau numite „fiii lui Dumnezeu” pentru că erau în desăvârșirea deplină, că nășteau din fiicele omului nefilimi; și chiar și după aceea, căci nefilimii înșiși nășteau nefilimi din ei. Iar explicația lui „de odinioară” (ʾašer me-ʿolam) este că oamenii de după potop, când vedeau oameni puternici, îi aminteau pe aceștia și spuneau: Au fost deja, din vremuri vechi, înaintea noastră, oameni mai puternici decât aceștia. Și au fost „oameni cu renume” în toate generațiile de după aceea. Și acesta este un sens simplu potrivit în această pericopă. Dar midrașul pe care îl are Rabbi Eliezer cel Mare în capitolele lui, despre îngerii care au căzut din locul sfințeniei lor din ceruri, și care este amintit în Ghemara, în tratatul Yoma, este cel mai potrivit dintre toate cu limbajul Scripturii; numai că este nevoie să se lungească asupra tainei acelei chestiuni."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Nefilimii erau pe pământ în acele zile.» Pe care Dumnezeu, binecuvântat fie El, le-a hotărât pentru ei ca vreme pentru pocăință. «Și chiar și după aceea»: căci nu s-au întors deloc."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Nefilimii.» Acest verset, prin sensul lui, este legat de cel de sus, care a spus „dintre oricine și-au ales”; iar după aceea a povestit ce a spus Dumnezeu: nu le voi da mult răgaz. Nefilimii sunt uriașii; și se numesc nefilim pentru că sunt foarte înalți față de măsura celorlalți oameni; iar motivul este că cel care îi vede cade (yippol) de prea multă uimire și spaimă; și la fel: „Dar muntele care cade (nofel) se surpă”. A spus că în acele zile erau pe pământ oameni cu statura foarte mare; iar cauza este cum am scris despre lungimea zilelor celor pomeniți, care erau puțini: la fel nefilimii erau puțini, prin prisosul măsurii trupului lor, și ei se numesc nefilim și ʿanaqim.<br><br>«Și chiar și după aceea, pe când fiii conducătorilor veneau la fiicele omului.» Explicația lui: și chiar și după aceea, când s-au înmulțit fiii celor mari și cunoșteau fiicele oamenilor pe care și le alegeau, cu atât mai mult erau pe pământ nefilimi, căci le vedeau frumoase la înfățișare și cu statură înaltă; iar nefilimii erau dintre fiii celor mari, și, când cunoșteau femei asemenea lor, cei născuți din ele erau și ei asemenea lor, în fel și în mărime. «Ei fiind puternicii de odinioară (me-ʿolam).» Adică sunt pomeniți în gura generațiilor care au venit după ei, că aceștia erau puternicii din vremea veche; aceasta este me-ʿolam. «Oameni cu renume.» Care aveau nume în gura generațiilor care au venit după ei. Iar după potop, cei rămași au văzut că este rău în ochii Domnului urmărirea poftelor și purtarea trupurilor după plăceri, înmulțirea împreunării și mărirea trupurilor în măsura lor și în lungimea zilelor lor, dacă aceasta era prin purtarea hranei lor; și au împuținat poftele și acele purtări, până ce s-au împuținat anii oamenilor după potop și mergeau scăzând, pentru că le-a devenit obicei și fire purtarea celor dintâi; și s-au împuținat zilele și s-au împuținat măsurile trupurilor, până ce nu a mai rămas din ei niciun trup în vremea în care au venit Israel în Țară, și nu s-au găsit din ei decât copiii lui ʿAnaq în Hevron; și au spus că nu erau decât patru; iar în zilele lui David, copiii lui Rafa în Gat; iar despre ʿOg, regele Basanului, s-a spus: „el rămăsese din restul refaimilor”. Și se poate ca aceia care s-au găsit să-și fi purtat trupul după felul celor dintâi, dinainte de potop; și se poate să fi trăit multe zile, așa cum li s-au lungit trupurile."
+   },
+   {
     "author": "1 Enoh 7 — context/comparație",
     "text": "Atunci uriașii s-au întors împotriva lor și au mâncat pe oameni."
    }
@@ -766,6 +830,14 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Că mare era răutatea omului.» În trecut.<br><br>«Și că toată plăsmuirea gândurilor inimii sale.» În viitor, căci nu ascultau de cel care îi mustra și nu era nădejde să se întoarcă."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Domnul a văzut.» Când a ajuns sfârșitul pe care li l-a dat, de o sută douăzeci de ani, a văzut că nu și-au îndreptat faptele, ci le-au înrăutățit, și fiecare zi era mai grea decât cea dinainte; aceasta este ce a spus: „doar răutate, toată ziua”. Iar explicația lui „și toată plăsmuirea (yeṣer)”: din cele două înclinații care sunt în inima omului, una bună și una rea, toată era spre rău, și nu era bine în ele. Iar pofta gândului inimii se numește yeṣer pentru că inima plăsmuiește (yoṣer) și lucrează în ea lucrurile, fie spre bine, fie spre rău, ca să le scoată la faptă. Iar motivul pentru care Dumnezeu le-a dat răgaz o sută douăzeci de ani, dacă se vor întoarce, deși știa că nu se vor întoarce: a făcut așa ca omul să învețe de la însușirile Lui și să fie îndelung-răbdător cu păcătosul și să nu se răzbune pe el îndată, deși are puterea în mână; poate se va căi și se va întoarce. Și iată, Dumnezeu Și-a creat lumea ca să fie bună, fie toată, fie cea mai mare parte; iar dacă este toată rea, nu poate dăinui, căci Dumnezeu nu alege decât binele. Și iată, a văzut generația potopului toată rea, în desfrânare și silnicie, care strică rânduiala lumii, iar faptele lor erau împotriva faptelor Lui; și a spus să strice lumea de jos și să lase din ea binele care se găsea în ea – și era doar o fărâmă din ea – ca s-o păstreze pentru viitor; și l-a lăsat în ea pe Noe, pe care l-a găsit bun, și la fel pe fiii lui cu soțiile lor, ca să păstreze sămânța. Iar Lameh, tatăl lui, murise deja cu cinci ani înainte de potop, iar Metusala și-a împlinit anii la venirea potopului și a murit, căci a trăit cinci ani după Lameh, fiul lui. Iată deci că nu a rămas niciun drept în lume, decât Noe și fiii lui."
+   },
+   {
     "author": "Talmudul Babilonian, Megila 10b:5",
     "text": "„Și a fost în zilele lui Ahașveroș” — a fost Haman. „Și a fost în zilele când judecau judecătorii” — a fost foamete. „Și a fost, când au început oamenii să se înmulțească” — „Și Domnul a văzut că mare era răutatea omului”."
    },
@@ -839,6 +911,30 @@ window.CHAPTER_DATA = [
    }
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Și Domnul a regretat (va-yinnaḥem) că l-a făcut.» A fost o mângâiere (neḥamah) înaintea Lui că l-a creat între cei de jos; căci dacă ar fi fost dintre cei de sus, i-ar fi răsculat.<br><br>«S-a întristat (va-yitʿaṣṣev).» Omul a întristat inima Celui Atotprezent: i-a trecut prin gând Celui Atotprezent să-l întristeze — aceasta este traducerea lui Onkelos. Altă explicație: va-yinnaḥem — s-a schimbat gândul Celui Atotprezent de la atributul îndurării la atributul judecății: I-a trecut prin gând ce să facă cu omul pe care l-a făcut pe pământ. Și tot așa orice cuvânt de niḥum din Scriptură înseamnă a se sfătui cu sine ce să facă: „nici fiu al omului, ca să se răzgândească (ve-yitneḥam)”; „și Se va îndura (yitneḥam) de slujitorii Săi”; „și Domnul S-a răzgândit (va-yinnaḥem) în privința răului”; „Îmi pare rău (niḥamti) că l-am făcut rege” — toate înseamnă un alt gând.<br><br>«Și S-a întristat în inima Sa.» A jelit pieirea lucrării mâinilor Sale, ca în „regele s-a întristat pentru fiul său”. Și aceasta am scris-o ca răspuns ereticilor: un neevreu l-a întrebat pe Rabbi Yehoșua ben Qorḥa și i-a zis: Nu recunoașteți voi că Sfântul, binecuvântat fie El, vede ce va fi? I-a zis: Da. I-a zis: Dar iată, este scris „și S-a întristat în inima Sa”! I-a zis: Ți s-a născut vreodată un fiu? I-a zis: Da. I-a zis: Și ce ai făcut? I-a zis: M-am bucurat și i-am făcut pe toți să se bucure. I-a zis: Și nu știai că sfârșitul lui este să moară? I-a zis: În ceasul bucuriei — bucurie, în ceasul jelirii — jelire. I-a zis: Așa este lucrarea Sfântului, binecuvântat fie El: deși era descoperit înaintea Lui că sfârșitul lor este să păcătuiască și să piară, nu S-a reținut să-i creeze, de dragul drepților care aveau să se ridice din ei."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și Domnul a regretat (wa-yyinnaḥem).» Se știe că „El nu este om, ca să-I pară rău”; ci Tora a vorbit în limba oamenilor; căci cel care strică ce a făcut va părea că I-a părut rău.<br><br>Iar sensul lui «și S-a întristat în inima Sa»: opusul lui „să se bucure Domnul de lucrările Sale”; căci este bine în ochii Lui ca făpturile Sale să primească bunătățile Lui. Iar unii spun că wa-yyinnaḥem este ca „se mângâie cu gândul la tine, ca să te omoare”, și îl explică „și a hotărât”; și au spus că „inima Lui” este profetul. Dar dacă ar fi fost așa, nu ar fi fost după „și S-a întristat” cuvântul el („către”). Și unde am găsit că profetul se numește „inimă”?"
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Și Domnul a regretat … și S-a întristat în inima Sa» Tora a vorbit după limbajul oamenilor. Iar chestiunea este că s-au răzvrătit și au întristat duhul Lui cel sfânt prin fărădelegile lor. Iar chestiunea lui „în inima Sa” (ʾel libbo) este că nu a spus aceasta unui profet trimis la ei; și tot așa este limbajul pentru ceva cugetat, ca în „să vorbesc în sinea mea”, și altele. Iar în Bereșit Rabba au spus despre aceasta un lucru însemnat, în pilda pe care au adus-o despre misit și arhitect; și aceasta este o mare taină care nu a fost dată să fie scrisă. Iar cel care o cunoaște va pricepe de ce a spus aici Numele unic, iar în toată pericopa și în chestiunea potopului, numele Dumnezeu (Elohim)."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și S-a întristat în inima Sa.» Căci nu dorește moartea celui ce moare; și, dimpotrivă, „se va bucura Domnul de lucrările Sale”."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Și S-a întristat în inima Sa.» A spus Rabbi Aḥa bar Rabbi Ḥanina: când Cel binecuvântat Și-a văzut lumea nimicită, ca să zicem așa, a șezut și a jelit. Altă explicație: se referă la om: nu a jelit decât pentru inima omului, în care a pus aluatul din frământătură, și a zis: Eu sunt Cel care l-am pus, Eu sunt Cel care l-am făcut, și știu că pornirea inimii omului este rea."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Domnul a regretat.» Ceea ce a spus „a regretat” – Tora a vorbit în limba oamenilor; căci, după adevăr, „nu este om ca să-I pară rău”, căci nu este schimbare de voință la El, binecuvântat fie și înălțat.<br><br>«Și S-a întristat în inima Sa.» Și aceasta este tot pe cale de pildă, căci înaintea Lui nu este, după adevăr, nici bucurie, nici întristare, și nu se schimbă de la o însușire la alta; iar opusul lui „S-a întristat” este „să se bucure Domnul de lucrările Sale”. Și totul este pe cale de pildă: căci, așa cum omul se bucură de lucrul care este drept în ochii lui și se întristează de lucrul care este rău în ochii lui, așa a fost povestirea despre Dumnezeu, binecuvântat fie, și este pe cale de transfer; iar bucuria și întristarea omului sunt în inimă; de aceea a spus, pe cale de pildă, despre Dumnezeu, binecuvântat fie, „în inima Sa”. Și în Bereșit Rabba: „Un neevreu l-a întrebat pe Rabbi Yehoșua ben Qorḥa; i-a spus: Nu spuneți voi că Sfântul, binecuvântat fie El, vede ce se va naște? I-a spus: Da. I-a spus: Dar este scris: «a regretat… și S-a întristat în inima Sa»? I-a spus: Ți s-a născut vreodată un fiu? I-a spus: Da. I-a spus: Ce ai făcut? I-a spus: M-am bucurat și i-am bucurat pe toți. I-a spus: Și nu știai că sfârșitul lui este să moară? I-a spus: În ceasul bucuriei – bucurie, iar în ceasul jelirii – jelire. I-a spus: Tot așa este fapta înaintea Sfântului, binecuvântat fie El; căci a spus Rabbi Yehoșua ben Levi: șapte zile a jelit Sfântul, binecuvântat fie El, asupra lumii Sale înainte să aducă potopul asupra lumii, căci s-a spus: «Și a fost, după cele șapte zile, că apele potopului…» etc. Și care este sensul lui «S-a întristat în inima Sa»? Și întristarea nu este decât jelire, cum spui: «căci regele se întristează pentru fiul său»”.<br><br>Iar ceea ce a spus „pe pământ” – căci se știe că pe pământ l-a făcut pe om – ci vrea să spună: pe pământ, amestecat cu cele născute din pământ, înclinând după alcătuirea trupului lui, care este tot pământesc; dar nu așa asemănarea omului de sus, care este în imaginea lui Dumnezeu; de aceea nu I-a părut rău de Noe și de cei asemenea lui."
+   },
    {
     "author": "Talmudul Babilonian",
     "text": "În lucru: traducerea acestui comentariu urmează."
@@ -1065,6 +1161,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și Domnul a spus: Voi șterge omul.» El este țărână, iar Eu voi aduce asupra lui ape și îl voi șterge; de aceea s-a spus cuvântul „a șterge”.<br><br>«De la om până la animal.» Și ele își pervertiseră calea. Altă explicație: totul a fost creat de dragul omului, și de vreme ce el piere, ce nevoie mai este de acestea?<br><br>«Căci am ajuns să regret că i-am făcut.» M-am gândit ce să fac pentru că i-am făcut."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și a spus» – în inima Lui; sau o spunere către îngeri; iar unii spun: către Noe. Iar ce este drept în ochii mei este că este legat de „inima Sa”, scris mai sus."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Voi șterge omul.» Rashi a explicat: omul este țărână; voi aduce apă asupra lui și îl voi șterge — din faptul că este scrisă o exprimare de ștergere, și nu este scris „voi nimici” sau „voi stârpi”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Domnul a spus.» A spus în inima Lui, sau i-a spus lui Noe.<br><br>«Voi șterge omul pe care l-am creat.» Omul, dar nu orice om, căci au rămas Noe și fiii lui. Și în Bereșit Rabba: „De ce cu ape? A spus Rabbi Berekhya: oare nu l-am creat pe om din țărână? Cine dizolvă țărâna? Oare nu apele?”. «De la om până la animal.» Și în „animal” este cuprinsă și sălbăticiunea; iar târâtoarele sunt cele mai mici dintre vietăți, cum am explicat. Și de ce au fost șterse dobitoacele, sălbăticiunile, târâtoarele și păsările? Pentru că toate au fost create pentru om; și, dacă nu este om, ce nevoie este de ele? Și încă: de vreme ce apele erau pe fața pământului, dobitoacele, sălbăticiunile și păsările nu ar fi putut scăpa decât prin minune; iar purtarea de grijă a lui Dumnezeu asupra lor nu este decât asupra speciei, iar specia nu a fost ștearsă, căci i-a poruncit lui Noe despre păstrarea ei. Iar dacă vei spune: de ce a fost potopul pe fața întregului pământ? Să fi fost în locul de așezare al oamenilor! Dacă ar fi fost așa, oamenii ar fi fugit de ape într-un loc unde nu erau ape; de aceea a acoperit și munții, ca oamenii să nu urce pe munții înalți ca să scape acolo. Iar unii dintre învățătorii noștri au spus că și sălbăticiunile, dobitoacele și păsările și-au stricat felul cu ce nu era de felul lor, iar Dumnezeu le-a creat fiecare după soiul ei; și iată, au lucrat împotriva lucrării lui Dumnezeu. Iar unii dintre ei au spus ca motivul dintâi pe care l-am scris: „A spus Sfântul, binecuvântat fie El: oare am creat dobitocul și sălbăticiunea decât pentru om? Și, dacă nu este om, dobitocul ce rost are?”."
    }
   ]
  },
@@ -1157,6 +1265,22 @@ window.CHAPTER_DATA = [
    }
   ],
   "commentaries": [
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Bunăvoință (ḥen).» Din rădăcina îndurării, și din ea teḥinnah („rugăminte”); iar forma lui este ca qeṣ, și amândouă sunt din verbele cu radicală dublă. Iar sensul găsirii bunăvoinței este ca „niciun ochi nu s-a îndurat de tine”."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Dar Noe a găsit bunăvoință în ochii Domnului» Și sensul lui „Dar Noe a găsit bunăvoință în ochii Domnului” este că toate faptele lui erau înaintea Lui frumoase și plăcute; și tot așa „căci ai găsit bunăvoință în ochii Mei și te-am cunoscut pe nume”, ca în „a făcut ca el să capete bunăvoință în ochii căpeteniei temniței”, „Și Estera găsea bunăvoință în ochii tuturor celor ce o vedeau”. Și a amintit aceasta față în față cu ce a spus despre generația lui, că toate faptele lor erau spre întristare înaintea Lui, binecuvântat fie; iar despre el a spus că era spre bunăvoință în ochii Lui. Iar după aceea a povestit de ce era bun înaintea lui Dumnezeu: pentru că era un om drept, integru. S-a încheiat pericopa Bereșit."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Dar Noe a găsit bunăvoință.» Ca să-i salveze și pe fiii lui și pe fiicele lui; nu pentru că era vrednic de aceasta, ci din bunăvoință l-a învrednicit Dumnezeu, binecuvântat fie El, de aceasta, cum a spus: „și acești trei oameni ar fi în mijlocul ei, Noe, Daniel și Iov… viu sunt Eu, nici fii, nici fiice nu vor salva, ei singuri vor fi salvați”. Și aceasta pentru că nu au învățat generația lor să-L cunoască pe Domnul, ca Avraam, Moise, Samuel și alții, cum au spus înțelepții noștri, binecuvântată fie amintirea lor: „Elam”, adică Daniel și tovarășii lui, „a fost învrednicit să învețe și nu a fost învrednicit să învețe pe alții.” Și tot așa Noe, deși a mustrat faptele care strică rânduiala cetăților, nu i-a învățat să-L cunoască pe Dumnezeu, binecuvântat fie El, și să umble în căile Lui, deși el era drept și integru în cugetare și în faptă. Căci, într-adevăr, dreptul care se desăvârșește doar pe sine este vrednic să se salveze doar pe sine; dar cel care îi desăvârșește și pe alții este vrednic să-i salveze și pe alții, căci în aceasta este nădejdea că îi va întoarce la pocăință, cum au spus înțelepții noștri, binecuvântată fie amintirea lor: „Dacă ai văzut un învățat care a păcătuit ziua, nu cugeta rău despre el noaptea, căci sigur s-a pocăit.” S-a încheiat pericopa Bereșit."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Dar Noe a găsit bunăvoință în ochii Domnului.» A făcut fapte bune, prin care a găsit bunăvoință în ochii Domnului; și la fel s-a spus despre Moise, învățătorul nostru, pacea fie asupra lui: „căci ai găsit bunăvoință în ochii Mei”. Și în Bereșit Rabba: „A spus Rabbi Abba bar Kahana: «căci am ajuns să regret că i-am făcut» – și Noe? Mă minunez! Ci chiar și Noe, care a rămas dintre ei, nu era vrednic, ci doar că a găsit bunăvoință în ochii Domnului”."
+   },
    {
     "author": "Zohar, Noah 1:9",
     "text": "Și taina (altă lecțiune: aceasta) a totului: «cu Dumnezeu a umblat Noaḥ» — exact, că nu s-a despărțit de El niciodată. Și ca să fie el pe pământ după chipul de sus: om ṭadiq, Yesod al lumii. Berit al păcii, pacea lumii. «Om al pământului» cu adevărat. Și de aceea (Geneza 6:8) «și Noaḥ a găsit ḥen în ochii Domnului»."
@@ -1289,6 +1413,34 @@ window.CHAPTER_DATA = [
    "Ezechiel 14:14"
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Aceștia sunt urmașii lui Noe – Noe era un om drept.» De vreme ce l-a pomenit, Scriptura vorbește despre el spre lauda lui, cum s-a spus: „pomenirea dreptului este spre binecuvântare”. Altă explicație: te învață că principalii urmași ai drepților sunt faptele bune.<br><br>«În generațiile sale.» Sunt dintre învățătorii noștri care îl tâlcuiesc spre laudă: cu atât mai mult, dacă ar fi fost într-o generație de drepți, ar fi fost și mai drept. Și sunt care îl tâlcuiesc spre ocară: după generația lui era drept, dar dacă ar fi fost în generația lui Avraam, n-ar fi fost socotit nimic.<br><br>«Cu Dumnezeu mergea Noe.» Iar despre Avraam spune: „înaintea Căruia am mers”? Noe avea nevoie de un sprijin care să-l susțină, dar Avraam se întărea și mergea în dreptatea lui de la sine.<br><br>«Mergea (hithallekh).» Este timp trecut. Și aceasta este folosirea limbii: forma grea (hitpael) slujește pentru viitor și pentru trecut în aceeași formă: „Ridică-te, cutreieră (hithallekh)” — pentru viitor; hithallekh Noaḥ — pentru trecut. „Roagă-te (hitpallel) pentru slujitorii tăi” — pentru viitor; „și va veni și se va ruga (ve-hitpallel) spre casa aceasta” — formă de trecut, dar vav-ul de la început a întors-o spre viitor."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Aceștia sunt urmașii (toledot).» Ca „întâmplările”, ca sensul lui „ce va naște (yeled) o zi”; și ca el „acestea sunt urmașii lui Iacov”.<br><br>«Un om drept.» În faptele lui.<br><br>«Integru (tamim)» în inima lui. Iar tamim este adjectiv, din verbele cu radicală dublă, și el este ca tam.<br><br>Iar sensul lui «în generațiile sale»: în generația lui, în vremea potopului, și în generațiile care au fost după el; căci el a trăit până ce Avraam a fost de cincizeci și opt de ani; iar semnul este: Avraam, părintele nostru, era de NḤ ani când a murit Noe."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Aceștia sunt urmașii lui Noe» Sensul lui l-au explicat ca întâmplările lui, ca în sensul lui „ce va naște o zi”, și face aluzie la toată pericopa. Și nu este corect în ochii mei, căci întâmplările omului nu sunt urmașii lui. Ci ce este corect este că este după înțelesul lui, ca „Și aceștia sunt urmașii fiilor lui Noe”, „Și aceștia sunt urmașii lui Ismael”. Spune: aceștia sunt urmașii lui Noe: Sem, Ham și Iafet. Dar a reluat „Lui Noe i s-au născut”, pentru că a întrerupt și a spus: „Noe era un om drept, integru”, ca să facă cunoscut de ce i-a poruncit despre arcă. Și deși spusese deja mai sus: „Și a fost, atunci când Noe avea cinci sute de ani, că lui Noe i s-au născut Sem, Ham și Iafet”, a revenit să-i amintească încă o dată, ca să spună că nu a fost ca toți părinții lui, care nășteau fiice și fii. Și acesta este sensul lui „trei fii”: căci le amintește numărul ca să spună că numai acești trei au fost urmașii lui și au fost salvați prin meritul lui, și din aceștia s-a răspândit tot pământul.<br><br>«Noe era un om drept, integru» Scriptura amintește că era nevinovat și desăvârșit în dreptatea lui, ca să facă cunoscut că se cuvenea să fie salvat de potop, căci nu avea deloc pedeapsă, pentru că era integru în dreptate. Căci cel drept (ṣaddiq) este cel nevinovat la judecată, opusul celui nelegiuit, cum a spus: „să se dea dreptate celui drept și să fie condamnat cel nelegiuit”; și tot așa „Și Tu ești drept în tot ce a venit asupra noastră, căci ai lucrat cu adevăr”; și tot așa „cu dreptate (be-ṣedeq) să-ți judeci aproapele”. Dar la Avraam, despre care a spus „spre a face dreptate (ṣedaqa) și judecată (mišpaṭ)”, l-a lăudat pentru dreptate (ṣedeq), care este judecata, și pentru îndurare, care este ṣedaqa. Iar Rabbi Avraham a spus: drept în faptele lui, integru în inima lui; și este scris: „Desăvârșit (tamim) erai în căile tale”. Și după ce a spus că era un om drept, căci nu era un om al jafului și care își pervertea calea, ca cei vinovați din generația lui, a spus că mergea cu Numele cel slăvit, ca să se teamă numai de El; nu era amăgit să se ia după cei care cercetează cerurile și după ghicitor și cititor în stele, cu atât mai mult după idoli, și nu-i asculta deloc, ci numai de Nume era lipit mereu și mergea pe calea pe care a ales-o Numele sau pe care îl învăța, căci era profet. Și aceasta este ca sensul lui „După Domnul, Dumnezeul vostru, să mergeți și de El să vă temeți”, care este spus despre îndepărtarea celui care profețește ca să slujească idolilor și dă un semn sau o minune, cum voi explica; și voi mai aminti aceasta la versetul „mergi înaintea Mea și fii integru”: dacă va fi integru în cunoștințe cu Mine. Și iată, pentru că Noe era drept și nu se cuvenea să fie pedepsit, se cuvenea ca și fiii lui și casa lui să fie salvați prin meritul lui; căci ar fi fost o pedeapsă asupra lui dacă urmașii lui ar fi fost nimiciți. Sau va spune că el era un drept desăvârșit și că și fiii lui și casa lui erau drepți, căci el i-a învățat, după chestiunea care este scrisă: „Căci l-am cunoscut că va porunci copiilor săi și casei sale”.<br><br>«în generațiile sale» „Sunt dintre învățătorii noștri care l-au tâlcuit spre bine: cu atât mai mult dacă ar fi fost într-o generație de drepți; și sunt care îl tâlcuiesc spre ocară” – cuvintele lui Rashi. Iar ce este corect în ochii mei, după sensul simplu, este că sensul lui este să spună că numai el era drept în acele generații: nu era în generațiile lui drept și integru în afară de el. Și tot așa „căci pe tine te-am văzut drept înaintea Mea în generația aceasta”: că nu era altul în generație vrednic să fie salvat. Și a spus „în generațiile sale”, căci multe generații trecuseră de când se pervertiseră și nu era niciun drept pe pământ afară de el. Și să nu te încurce cuvântul învățătorilor noștri despre Metusala, căci Scriptura nu povestește decât că nu era niciun drept vrednic să fie salvat de potop din toate acele generații."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Aceștia sunt urmașii lui Noe.» Întâmplările lui și cei născuți în zilele lui.<br><br>«Drept.» În faptă.<br><br>«Integru.» În cele ale minții.<br><br>«În generațiile sale.» După generațiile sale; și acestea erau o parte din generația lui Metusala, a lui Lameh și a lui însuși, și generațiile pe care le-au născut cei din generația lui în șase sute de ani.<br><br>«Cu Dumnezeu mergea Noe.» A umblat în căile Lui, ca să facă bine altora, și i-a mustrat pe cei din generația lui, după cuvintele învățătorilor noștri, binecuvântată fie amintirea lor. Și tot așa a scris despre el Berosus Caldeeanul."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Aceștia sunt urmașii lui Noe.» Fiii fiilor lui."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Aceștia sunt urmașii lui Noe – Noe.» Noe a fost plăcut (naḥ) celor de sus, plăcut celor de jos. Și oricui i se repetă numele, este știut că este drept, ca „Avraam, Avraam”. Și se ridică o dificultate în Yerușalmi: dar oare nu este scris „Terah, Terah”? Și se răspunde: aceasta spune că Terah s-a pocăit.<br><br>«Un om.» Rabbi Tanḥuma a deschis: „Rodul celui drept este un pom al vieții”. În ceasul în care omul pleacă din lume fără fii, este mâhnit și rușinat pentru că n-a ridicat generații. Sfântul, binecuvântat fie El, îi spune: ai rodul Torei în care te-ai ostenit, căci este scris despre ea: „Rodul celui drept este un pom al vieții” — nu este scris aici „fiii lui”, ci „pom al vieții”, și aceasta este Tora, care se numește „pom al vieții”. Și acest verset dovedește la fel: „Aceștia sunt urmașii lui Noe” — „un om drept”; nu este scris aici „aceștia sunt urmașii lui Noe: Sem, Ham și Iafet”, ci „un om drept”. Și au spus învățătorii noștri, binecuvântată fie amintirea lor: Noe nu a murit până nu a văzut toată lumea întreagă în așezarea ei și a văzut șaptezeci de neamuri ieșind din coapsele lui; și dintre toate, nu a fost pomenită decât dreptatea lui, căci s-a spus: „un om drept, integru”. Se află în Bereșit Rabba, capitolul 30, secțiunea 7, că oricine despre care s-a spus „integru” (tamim), este știut că anii lui s-au împlinit după măsura lui șapte. Și Rabbi Yițḥak bar Avraham a explicat că anii lui merg în multipli de șapte, cum găsim la Avraam, pacea fie asupra lui, care a trăit o sută șaptezeci și cinci de ani. Iar Noe a trăit nouă sute cincizeci de ani, și aceștia sunt cu cinci ani peste multiplii de șapte. Se poate spune că trebuie socotit din ceasul în care s-a spus despre el „integru”, adică atunci când Domnul, binecuvântat fie El, a spus să facă arca, iar el s-a ocupat de ea o sută douăzeci de ani; și trei sute cincizeci de ani a trăit Noe după potop: iată, ai patru sute șaptezeci. Scoate anul potopului, care nu se socotește, pentru că în el s-au schimbat rânduielile creației; iar cei rămași merg în multipli de șapte.<br><br>«Era (hayah).» Oriunde se spune despre cineva „era”, acela a văzut o lume nouă și i-a hrănit pe alții: Noe, Iosif, Moise, Iov — despre toți se spune „era”, și la toți vei găsi aceste două lucruri."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Aceștia sunt urmașii (toledot) lui Noe.» Explicația lui toledot: întâmplările care l-au întâmpinat în privința potopului și după el; și la fel „Aceștia sunt urmașii lui Iacov”; căci întâmplările sunt cele născute de zile; și la fel a spus: „căci nu știi ce va naște o zi”.<br><br>Noe de trei ori într-un singur verset – și ar fi trebuit să se oprească la unul? Au spus că aceasta este pe calea eleganței limbii sfinte; și la fel Israel de cinci ori într-un singur verset.<br><br>«Drept.» Căci faptele lui erau în dreptate, spre deosebire de oamenii generației lui, care erau oameni ai silniciei.<br><br>«Integru.» Desăvârșit, fără nicio meteahnă; iar în midraș: că s-a născut circumcis.<br><br>«În generațiile sale.» Printre oamenii generației lui și în generațiile care au venit după potop; căci Noe a trăit multe zile și a ajuns, în viața lui, multe generații; căci Avraam, părintele nostru, avea cincizeci și opt de ani când a murit Noe; iar semnul: Avraam, părintele nostru, avea naḥ („cincizeci și opt”) când a murit Noaḥ. Iar în Bereșit Rabba: „«în generațiile sale» – în trei generații: în generația lui Enoș, în generația potopului și în generația împrăștierii”.<br><br>«Cu Dumnezeu mergea Noe.» Era lipit de El, și toate căile lui erau pentru Numele Lui; și aceasta era o mare putere a intelectului lui, care a biruit firea lui; căci el era într-o generație de oameni răi și silnici și nu a învățat din faptele lor, și nu s-a retras nimeni în slujirea lui Dumnezeu, decât el singur."
+   },
    {
     "author": "Talmudul Babilonian",
     "text": "În lucru: traducerea acestui comentariu urmează."
@@ -1436,6 +1588,18 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Sem, Ham și Iafet» Mi se pare că Iafet este cel mai mare, căci s-a spus: „fratele lui Iafet cel mare”; și tot așa îi numără după urmașii lor: întâi „Fiii lui Iafet”. Iar Ham este cel mai mic dintre toți, cum a spus: „și a știut ce îi făcuse fiul său cel mic”. Dar l-a pus întâi pe Sem pentru treapta lui, și l-a amintit pe Ham după el, căci așa s-au născut; și iată, Iafet a fost pus la urmă. Și Scriptura n-a vrut să spună „Sem și Iafet și Ham”, căci atunci toți ar fi fost amintiți nu după ordinea nașterii lor, iar Iafet nu are o treaptă pentru care să se anuleze ordinea din pricina lui; dar pe Sem l-a pus întâi pentru treapta lui, deși este pus la urmă în povestirea urmașilor. Și tot așa „Fiii lui Avraam: Isaac și Ismael”, și tot așa „și i-am dat lui Isaac pe Iacov și pe Esau”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Lui Noe i s-au născut.» De când a început să-i mustre pe cei din generația lui, a fost învrednicit de fii."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Lui Noe i s-au născut.» Și pomenise deja mai sus fiii pe care i-a născut; dar i-a pomenit aici, după ce a spus „mergea Noe”, ca să arate că, așa cum el se îndeletnicea cu slujirea lui Dumnezeu, așa i-a învățat și i-a obișnuit pe fiii pe care i-a născut să se abată de la căile celor răi și să-L slujească pe Domnul și să se lipească de El; căci, dacă nu ar fi fost așa, nu ar fi fost salvați din potop, deși el era drept, cum a spus în cartea lui Ezechiel: „și ar fi acești trei bărbați în mijlocul ei, Noe, Daniel și Iov”, și a spus: „nu ar salva nici fii, nici fiice”; și Noe ar fi fost salvat numai cu soția lui, iar ei au lăsat sămânță după potop."
+   },
+   {
     "author": "Zohar, Noah 10:1",
     "text": "„Și Noaḥ a născut trei fii” etc. A zis Rabbi Ḥiyya lui Rabbi Yehudah: Vino și îți voi spune cuvinte pe care le-am auzit despre aceasta. O pildă: un om care a băgat în pântecele femeii (altă versiune: rodul pântecelui ei) o singură dată, și ies doi sau trei fii; (fiecare) unul se deosebește de altul în căile lui și în faptele lui: acesta drept, acesta nelegiuit și acesta de mijloc. Tot așa și aici: trei noduri ale duhului merg și plutesc și se cuprind în trei lumi."
    }
@@ -1547,6 +1711,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«S-a pervertit (va-tiššaḥet).» Este cuvânt pentru desfrâu și idolatrie, ca în „ca nu cumva să vă pervertiți (tașḥitun)” și „căci toată firea își pervertise calea” etc.<br><br>«Și s-a umplut pământul de jaf.» De jefuire."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și pământul s-a pervertit.» Sensul: oamenii pământului; și tot așa „o țară, când va păcătui împotriva Mea”, „și tot pământul a venit”.<br><br>Iar unii spun că sensul lui «înaintea lui Dumnezeu» este: pe față. Iar alții au spus că sensul este că s-au pervertit în ascuns și în lucruri acoperite, pe care nu le știa decât Numele. Iar cel mai apropiat după mine este că Tora a vorbit în limba oamenilor, pe calea pe care o vor înțelege ascultătorii, ca un rob care face o fărădelege înaintea stăpânului lui și nu se teme de el. Iar cei care spun că ha-Elohim în acest loc nu este sfânt n-au spus nimic.<br><br>«De jaf (ḥamas).» Prin tâlhărie și asuprire, și prin luarea femeilor cu sila."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar pământul s-a pervertit.» Oamenii pământului; și la fel: „și s-a umplut țara de ei”, și asemenea lui sunt multe.<br><br>«Înaintea lui Dumnezeu.» Ca să facă cunoscut că El poartă de grijă celor de jos în chip general și uneori în chip particular; și iată, specia s-a stricat – aceasta este „s-a umplut” –, iar Dumnezeu a văzut și a spus să o șteargă, cum a spus: „înaintea lui Dumnezeu”."
    },
    {
     "author": "Zohar, Noah 21:6",
@@ -1671,6 +1843,26 @@ window.CHAPTER_DATA = [
    }
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Căci toată firea își pervertise.» Chiar și animalul, fiara și pasărea se împreunau cu cele care nu erau de soiul lor."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar ce au spus înaintașii noștri, binecuvântată fie amintirea lor, că sensul lui „toată firea își pervertise calea” este că nicio viețuitoare n-a păzit calea nașterii ei și a strâmbat cărarea cea sădită și cunoscută – este drept. Și cât de cinstit este midrașul pe care l-au tâlcuit: că s-au stricat prin ape, iar Numele i-a judecat prin ape; și cum apele lor erau de sus și de jos, așa au fost apele cu care i-a nimicit."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«căci toată firea își pervertise calea pe pământ» Dacă vom explica „toată firea” după înțelesul lui și vom spune că și dobitocul, și fiara sălbatică, și pasărea și-au pervertit calea, împerechindu-se cu cele care nu sunt din specia lor, cum a explicat Rashi, vom spune că „s-a umplut pământul de jaf” din pricina lor nu este din pricina tuturor, ci din pricina unora dintre ei, și a povestit numai pedeapsa omului. Sau vom spune că nici în aceasta nu și-au păzit firea, și orice dobitoc sfâșia și orice pasăre răpea, și iată, și ei făceau jaf. Iar pe calea sensului simplu, „toată firea” este tot omul. Iar mai jos explică „toată firea în care este suflare de viață” și „din tot ce e viu, din toată firea”: orice viețuitoare cu trup. Dar aici „toată firea” este tot omul; și tot așa „va veni toată făptura (kol basar) să se închine înaintea Mea”, și tot așa „dacă un trup (basar) va avea … pe pielea sa”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și iată, era pervertit.» De la sine; căci, chiar fără pedeapsă, era pe calea pieirii, prin pervertirea căii lor, care strică nașterea, și prin jaful care strică cetățile, ca în: „și cele ce macină făină”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Căci toată firea (kol basar) își pervertise.» Iar explicația lui „căci toată firea își pervertise”: oamenii; și la fel: „și toată făptura (kol basar) să binecuvânteze”, „va veni toată făptura”. Iar dacă este după cuvintele învățătorilor noștri, binecuvântată fie amintirea lor, și celelalte vietăți sunt cuprinse, cum am scris.<br><br>«Calea.» Calea nașterii ei, care este cum a spus: „și se va alipi de femeia lui”, cum am explicat."
+   },
    {
     "author": "Talmudul Babilonian",
     "text": "În lucru: traducerea acestui comentariu urmează."
@@ -1843,6 +2035,26 @@ window.CHAPTER_DATA = [
    "Geneza 4:23-24"
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Sfârșitul întregii firi.» Oriunde găsești desfrâu și idolatrie, vine în lume androlomusia și îi ucide pe buni și pe răi.<br><br>«Căci s-a umplut pământul de jaf.» Hotărârea judecății lor nu a fost pecetluită decât pentru jefuire.<br><br>«Cu pământul (et ha-areṣ).» Ca „din pământ”. Și asemănător lui: „când voi ieși din oraș (et ha-ʿir)” — din oraș; „s-a îmbolnăvit de (et) picioarele lui” — de la picioarele lui. Altă explicație: et ha-areṣ — împreună cu pământul, căci chiar și trei palme din adâncimea plugului au fost șterse și nimicite."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Sfârșitul întregii firi (kol baśar).» Este trupul.<br><br>Iar sensul lui «vine»: a ajuns sfârșitul nenorocirii lor.<br><br>«Laolaltă cu pământul (et ha-areṣ).» De pe pământ; și tot așa „când voi ieși din (et) cetate”; sau „cu”, ca „cu (et) Iacov, fiecare cu casa lui”. Iar ce este drept în ochii mei este că cuvântul mašḥitam („îi distrug”) se trage pe sine și pe altul împreună cu el; și tot așa „Dumnezeu oștirilor”, „tronul Tău, Dumnezeule”; și iată, așa este: „și iată-Mă, îi distrug și distrug pământul”."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«s-a umplut pământul de jaf» Ḥamas („jaf”) este tâlhăria și asuprirea. Și i-a dat lui Noe pricina prin jaf și n-a amintit pervertirea căii, căci jaful este păcatul cunoscut și vădit. Iar învățătorii noștri au spus că din pricina lui a fost pecetluită osânda lor. Iar sensul este că el este o poruncă priceput de minte, pentru care nu au nevoie de un profet care să-i avertizeze; și încă, el este rău față de Ceruri și față de făpturi. Și iată, i-a făcut cunoscut lui Noe păcatul pentru care a venit sfârșitul, a sosit ceasul (ha-ṣefira).<br><br>«și iată-Mă, sunt pe cale să-i distrug laolaltă cu pământul» „Et ha-areṣ este ca min ha-areṣ («din pământ»); și tot așa «Când voi ieși din (et) oraș», «s-a îmbolnăvit de (et) picioare». Altă explicație: et ha-areṣ – împreună cu pământul, căci chiar și trei palme din adâncimea plugului s-au topit” – cuvintele lui Rashi, din Bereșit Rabba. Iar Rabbi Avraham a spus că cuvântul „să-i distrug” (mašḥitam) se trage pe sine și încă unul cu el: și iată-Mă, îi distrug pe ei și distrug pământul. Iar pe calea adevărului, este ca „cerurile și pământul” (et ha-šamayim we-et ha-areṣ), căci pământul va fi în distrugere, căci prin distrugerea pământului ei sunt distruși, și iată, ei sunt distruși în lumea ce va veni, ca în „și S-a întristat în inima Sa”. Și la aceasta au făcut aluzie în Bereșit Rabba: Pildă despre fiul unui stăpân care avea o doică: de câte ori greșea fiul, doica lui era pedepsită etc."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Sfârșitul întregii firi.» Pe care l-am hotărât pentru ei, o vreme de o sută douăzeci de ani.<br><br>«Vine înaintea Mea.» Pe care l-am rânduit pentru ei spre pocăință.<br><br>«Căci s-a umplut pământul de jaf din pricina lor.» Căci toți se jefuiesc unul pe altul: stăpânii îl jefuiesc pe arendaș cu forța, iar arendașul îi jefuiește pe stăpâni prin înșelăciune, astfel încât pământul își dă toate roadele jefuitorilor.<br><br>«Și iată-Mă, sunt pe cale să-i distrug laolaltă cu pământul.» Îi voi distruge împreună cu pământul, căci voi strica alcătuirea pământului și a aerului, prin înclinarea sferei soarelui, pe care a înclinat-o de la ecuator de la potop încoace, cum a explicat El, binecuvântat fie, în răspunsul Lui către Iov. Și de aceea s-au micșorat anii vieții neamului omenesc îndată după potop, căci alcătuirile și roadele nu mai erau în desăvârșirea lor de la început. Și de aceea i s-a îngăduit neamului omenesc să mănânce viețuitoare după potop."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Dumnezeu i-a spus lui Noe: „Sfârșitul întregii firi”.» A ajuns sfârșitul lor, ca să-i nimicesc din lume; sau sfârșitul pe care l-am dat este ei, cum am scris; și iată, nu s-au întors, ci s-au stricat și mai mult.<br><br>«Vine înaintea Mea.» L-am explicat: a ajuns înaintea Mea, ca: „căci răutatea lor s-a suit înaintea Mea”; adică sfârșitul, care este răsplata faptei rele, care a venit înaintea Mea, a ajuns; și iată, sensul lui „vine” este pentru sfârșit și pentru fapta rea.<br><br>«Căci s-a umplut pământul de jaf din pricina lor.» Iar sensul lui „din pricina lor” este legat de „vine înaintea Mea”, adică a venit înaintea Mea din pricina faptei de silnicie, pe care au făcut-o mare. Și au spus învățătorii noștri, binecuvântată fie amintirea lor: „vino și vezi cât de mare este puterea silniciei; căci iată, generația potopului a încălcat totul, și osânda lor nu a fost pecetluită decât din pricina silniciei”.<br><br>«Sunt pe cale să-i distrug.» De vreme ce și-au stricat calea pe pământ, peste care i-am pus să fie stăpâni, iată, îi distrug de pe el.<br><br>«Laolaltă cu pământul (et ha-areṣ).» Et este ca min („de pe”); și la fel: „Când voi ieși din (et) oraș”, „Au ieșit din (et) oraș” și cele asemenea lor. Sau explicația: împreună cu pământul; căci, de vreme ce l-au acoperit apele, iată, a fost stricat și s-a întors la haos și pustiu. Iar învățătorii noștri, binecuvântată fie amintirea lor, au explicat că trei palme din adâncimea plugului au fost șterse și au fost tulburate."
+   },
    {
     "author": "Talmudul Babilonian",
     "text": "În lucru: traducerea acestui comentariu urmează."
@@ -2049,6 +2261,22 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Rashi (1040–1105)",
+    "text": "«Fă pentru tine o arcă.» Multă ușurare și salvare sunt înaintea Lui; și de ce l-a trudit cu această construcție? Ca să-l vadă oamenii generației potopului ocupându-se de ea o sută douăzeci de ani și să-l întrebe: Ce este aceasta pentru tine? Iar el să le spună: Sfântul, binecuvântat fie El, va aduce potop asupra lumii — poate se vor întoarce.<br><br>«Lemn de gofer.» Așa este numele lui. Și de ce din acest soi? După gofrit („pucioasă”), cu care s-a hotărât asupra lor să fie șterși.<br><br>«Încăperi (qinnim).» Locuințe și locuințe pentru fiecare animal și fiară.<br><br>«Cu smoală (ba-kofer).» Zift în limba aramaică; și am găsit în Talmud kofra (zift) la coșulețul lui Moise. Pentru că acolo apele erau liniștite, i-a ajuns lut pe dinăuntru și zift pe dinafară; și, în plus, ca să nu simtă acel drept mirosul urât al ziftului. Dar aici, din cauza puterii apelor, a ziftuit-o pe dinăuntru și pe dinafară."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Gofer.» Numele unui lemn ușor pe fața apelor, și nu are pereche în Scriptură.<br><br>«Încăperi (qinnim).» Ca să fie fiecare viețuitoare, pasăre și dobitoc, „bărbatul și femeia lui”, adică parte bărbătească și parte femeiască, singuri.<br><br>Și i-a pus numele tevah („arcă”), și nu sefinah („corabie”), căci nu este după forma unei corăbii și nu are vâsle.<br><br>«Și să o acoperi (we-khafarta).» Unii spun că este din rădăcina kapporet („capac”), iar sensul este acoperire prin ungere. Iar unii spun că kofer este ca smoala. Iar unii spun că este pe pământ un lut din țărână, și el lipește și ține ca smoala. Iar unii spun că este ceea ce se numește în limba lui Ismael, prin schimbarea lui kaf în qof. Iar ce este drept este că cuvântul we-khafarta vine din rădăcina lui ba-kofer.<br><br>«Pe dinăuntru (mi-bayit).» Ca „înăuntru”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Fă pentru tine o arcă.» În vremea hotărâtă pentru ei, ca să vadă și să se întoarcă."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Fă pentru tine.» Pentru voia ta, ca să fii salvat în ea de apele potopului, și celelalte vietăți cu tine.<br><br>«Gofer.» Este un lemn ușor pe fața apelor; iar Targumul lui Onkelos: qaṭrom, și este din soiurile de cedri.<br><br>«Încăperi (qinnim).» Locuințe despărțite, ca cuiburile (qinne) păsărilor; și la fel fac oamenii pentru porumbei multe cuiburi despărțite; și la fel a poruncit Dumnezeu lui Noe să facă multe locuințe, ca fiecare soi să locuiască deosebit.<br><br>«Și să o acoperi (ve-khafarta).» Din sensul lui kofer, care este smoala; și la fel în expunerile învățătorilor noștri, binecuvântată fie amintirea lor: „smoală – kufra”.<br><br>«Pe dinăuntru și pe dinafară.» Ca, dacă se va desface ce este pe dinafară din pricina tăriei apelor, să rămână ce este pe dinăuntru."
+   },
+   {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Epopeea lui Ghilgameș (tăblița XI) conține o poveste a potopului izbitor de asemănătoare: zeul Ea îl avertizează pe Uta-napiști să construiască o corabie, cu dimensiuni precise date, unsă cu smoală, pentru a supraviețui unui potop trimis de zei. Diferă totuși semnificativ forma corăbiei — la Ghilgameș, un cub perfect (dimensiuni egale pe toate laturile), în timp ce arca lui Noe are proporții alungite (300×50×30 coți) mult mai apropiate de o construcție navigabilă reală. Detaliul practic al smoalei (v.14) apare identic în ambele texte."
    }
@@ -2198,7 +2426,16 @@ window.CHAPTER_DATA = [
   "refs": [
    "1 Petru 3:20"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Astfel să o faci.» Sensul lui: și aceasta este măsura pe care o vei face. Și iată, înălțimea ei este a zecea parte din lungimea ei, ca să plutească pe fața apelor și să n-o răstoarne vântul."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Astfel să o faci.» Măsura și alcătuirea în care să o faci este aceasta; iar zeh, la masculin, îl spune despre măsură. Și i-a poruncit să facă arca cu lățimea o șesime din lungime și înălțimea o zecime din lungime; și la această măsură va sta pe ape drept și nu se va răsturna dintr-o parte în alta. Și în Bereșit Rabba: „Tora a învățat purtarea cuviincioasă: că, dacă omul va face o corabie, să-i facă lățimea o șesime din lungime și înălțimea o zecime”."
+   }
+  ]
  },
  {
   "num": 16,
@@ -2373,6 +2610,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Fereastră (ṣohar).» Unii spun: o fereastră; alții spun: o piatră prețioasă care le dădea lumină.<br><br>«Și să o termini la un cot de sus.» Acoperișul ei este în pantă și urcă până când este îngust sus și rămâne de un cot, ca apele să se scurgă în jos de o parte și de alta.<br><br>«S-o pui pe latura ei.» Ca să nu cadă ploile în ea.<br><br>«Cu punte de jos, a doua și a treia.» Trei etaje unul peste altul: cele de sus pentru oameni, cele din mijloc pentru locuința animalelor, cele de jos pentru gunoi."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Fereastră (ṣohar).» Locul prin care intră lumina; și este din rădăcina ṣohorayim („amiază”); și ea se face sus, după rânduială. Și după ce sus avea un cot în lungime, avea în lățime a șasea parte de cot; și iată, arca era ca un triunghi, cu vârful ascuțit, și tot așa colțurile ei; de aceea nu se răstoarnă. Iar ușa era într-o parte, și urca la ea cu o scară. Și am știut că arca era foarte mare; și se poate și ca statura lui Noe să fi fost mai mare decât statura noastră, căci cotul este după măsura lui. Și se poate să fi fost, după cum este împărțită în trei, înălțimea celor de jos zece coți. Iar unii spun că erau mai multe, iar Scriptura a luat-o pe o cale scurtă.<br><br>«De jos (taḥtiyyim).» Adjectiv, și tot așa šeniyyim, și tot așa šelišim. Iar cei care întreabă de ce n-a spus u-šelišiyyim – „ochi au, dar nu văd”. Oare nu văd că salaḥ, qaššat, gannav sunt adjective, și nagid, paqid, ḥasid, ḥakham și navon sunt adjective, și fiecare cuvânt este după forma și rânduiala lui? Iar forma lui šelišim este ca forma lui negidim, ḥasidim; căci singularul este šališ, ca ḥasid. Sau se poate ca yod din šeniyyim să se slujească pe sine și pe cuvântul šelišim împreună cu el. Poate se va liniști mintea celor care întreabă."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Pe latura ei (be-ṣiddah).» Pe latura lățimii ei; căci ea este numită ṣad, iar marginea lungimii este numită ṣelaʿ.<br><br>«De jos.» Cele obișnuite la corăbii.<br><br>«A doua și a treia.» Asemenea celor de jos obișnuite."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Și la un cot etc.» Explicație: ca ploile să nu zăbovească pe ea și să nu putrezească arca. Și dacă vei spune: de vreme ce lățimea ei este de un cot, vor zăbovi — de aceea Rabbi Yosef Qara a explicat că se referă la „Fereastră să-i faci arcei”, adică acea fereastră să fie lângă cotul de la acoperiș."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Fereastră (ṣohar).» Din rădăcina lui ṣohorayim („amiază”), adică să-i facă o fereastră prin care să intre lumina după ce se va sfârși ploaia și se vor împuțina apele, cum a spus: „că Noe a deschis fereastra arcei pe care o făcuse”. Și unii dintre învățătorii noștri, binecuvântată fie amintirea lor, au spus că avea o piatră prețioasă care lumina ca amiaza; și aceasta este ce a spus: „ṣohar să-i faci”; iar expresia „să faci” este împotriva acestei explicații. Și, într-adevăr, Noe a pregătit untdelemn pentru candelă, când și-a pregătit toate cele de trebuință; iar această fereastră era sus.<br><br>«Și să o termini la un cot de sus.» Că era înclinată și urca până ce nu era sus, în lungime și în lățime, decât un cot, ca ploile care coboară pe arcă să coboare repede, fără întârziere.<br><br>«Iar intrarea arcei.» Prin care au intrat și au ieșit; și au astupat acea intrare după ce au intrat și au deschis-o când au ieșit.<br><br>«De jos (taḥtiyyim).» Yod-ul scris este yod-ul de relație, iar yod-ul pluralului a căzut din scriere, ca ʿavadim nokhrim și cele asemenea lor. Și în Bereșit Rabba: „cele de jos – pentru gunoi; cele de-a doua – pentru el și pentru fiii lui și pentru cele curate; iar cele de sus – pentru cele necurate. Iar unii împart: cele de jos – pentru cele necurate; cele de-a doua – pentru el și pentru fiii lui și pentru cele curate; iar cele de sus – pentru gunoi. Cum făcea? Ci avea un fel de trapă (qaṭarqeṭin), și le deschidea din lateral”."
    }
   ]
  },
@@ -2540,6 +2793,22 @@ window.CHAPTER_DATA = [
     "text": "«Iar Eu, iată-Mă, sunt pe cale să aduc.» Iată, sunt gata să fiu de acord cu aceia care M-au îndemnat și au zis înaintea Mea demult: „Ce este omul, ca să-Ți amintești de el?”.<br><br>«Potopul (mabbul).» Care a nimicit (bilah) totul, care a încurcat (bilbel) totul, care a dus (hovil) totul de la cel înalt la cel jos. Și aceasta este expresia lui Onkelos, care a tradus ṭofana, căci a înecat totul și l-a adus în Babel, care este adânc; de aceea se numește Șinear, pentru că acolo au fost scuturați (nenaʿaru) toți morții potopului."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Iar Eu.» Despre cuvântul mabbul („potop”) unii spun că dageșul stă în locul lui nun cel înghițit, ca mabbuaʿ („izvor”), și este din rădăcina „pământul jelește, se veștejește (navlah)”. Iar unii spun că este din rădăcina „amestecată (belulah) cu untdelemn”, și ar fi trebuit să fie după forma lui maslul; și ca el ha-maśśor („ferăstrăul”); iar ḥolam și šuruq se schimbă între ele.<br><br>Iar sensul lui «potopul de ape (ha-mabbul mayim)»: este o cale scurtă, și așa este: „potopul, potop de ape”; și tot așa „din ziua în care a fost întemeiată (le-min ha-yom hiwwasdah)”, al cărei sens este „din ziua, ziua în care a fost întemeiată”."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Iar Eu, iată-Mă, sunt pe cale să aduc potopul» „Iată-Mă, sunt de acord cu cei care au spus înaintea Mea: «Ce este omul, ca să-Ți amintești de el?»” – cuvintele lui Rashi, din Bereșit Rabba. Și eu mă mir: cum este de acord cu ei, când El le lasă o rămășiță, spre o mare scăpare, în Noe și fiii lui și în orice ființă vie, ca să le înmulțească seminția ca nisipul? Poate este un acord cu părerea lor, întrucât nu Se va îndura de ei. Iar după adevăr, „Iar Eu” (wa-ʾani) este ca „vă voi disciplina, chiar și Eu”, și tot așa „Cât despre Mine (ʾani), iată legământul Meu cu tine”, „Iar Eu – acesta este legământul Meu”. Spune: chiar și Eu, mâna Mea va fi asupra lor, pentru că au pervertit pământul. Și de aceea a spus: „Acesta este semnul legământului pe care Eu îl pun”; „El rănește, și mâinile Lui vindecă”. Iar cel înțelept va înțelege."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Iar Eu, iată-Mă, sunt pe cale să aduc potopul (ha-mabbul).» Tu vei termina arca, iar Eu îndată voi aduce potopul. Și acesta este un cuvânt al căderii și al pieirii, ca în: „orice hoit (nevelah)”. A spus: Eu voi aduce căderea și pieirea despre care am spus când am zis: „și iată-Mă, sunt pe cale să-i distrug laolaltă cu pământul”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar Eu… potopul de ape (ha-mabbul mayim).» Lipsește cuvântul de care atârnă: ha-mabbul – mabbul de ape, ca „chivotul legământului (ha-aron ha-berit)” și cele asemenea lui. Iar rădăcina lui mabbul este din naval; și la fel: „și burdufurile (nivle) cerurilor cine le răstoarnă?”, a căror explicație este ploile cerurilor; iar rădăcina cuvântului are sensul de cădere, ca: „care își scutură (novelet) frunza”, pentru că cad din ceruri și se varsă pe pământ. Iar mabbul este un nume de însușire pentru ploaie, iar gešem este un nume propriu; de aceea se poate spune mabbul despre orice lucru care cade din ceruri, ca zăpada, focul și grindina, dacă coboară mult; de aceea a spus „potopul de ape”, și nu a spus „ploaie de ape”. «Sub ceruri.» Și, dacă nu ar fi spus „tot ceea ce este pe pământ”, aș fi înțeles chiar și peștii; de aceea a explicat și a spus „tot ceea ce este pe pământ”, iar explicația: pe uscat; căci nu s-a hotărât osânda asupra peștilor care sunt în mare, căci nu sunt cu oamenii pe uscat, și nici nu și-au stricat calea, după părerea învățătorilor noștri, binecuvântată fie amintirea lor."
+   },
+   {
     "author": "Zohar, Noah 19:1",
     "text": "«Și Eu, iată, aduc potopul de ape pe pământ.» Rabbi Yehudah a deschis (Numeri 20:13): «acestea sunt apele Merivah, unde s-au certat fiii lui Israel cu Domnul și S-a sfințit în ei». Și oare în alt loc nu s-au certat fiii lui Israel cu Domnul? Ce e deosebit aici că zice «acestea sunt apele Merivah» și nu altele? Ci aceste ape ale Merivah erau cu adevărat, că au dat putere și tărie stăpânilor judecății ca să se întărească. Pentru că sunt ape dulci și sunt ape amare. Sunt ape limpezi și sunt ape tulburi. Sunt ape de pace și sunt ape de ceartă. Și de aceea «acestea sunt apele Merivah unde s-au certat fiii lui Israel cu Domnul» — că au atras asupra lor pe cine nu trebuia și s-au întinat în el; acesta e ce e scris «și S-a sfințit în ei»."
    }
@@ -2679,6 +2948,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Dar voi statornici legământul Meu.» Era nevoie de un legământ pentru fructe, ca să nu putrezească și să nu mucegăiască, și ca să nu-l ucidă răii generației.<br><br>«Tu, și fiii tăi, și soția ta.» Bărbații separat și femeile separat; de aici, că le-a fost interzisă împreunarea."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Dar voi statornici legământul Meu.» Ca semn că Numele i-a jurat că nu va muri, el și fiii lui, în potop, chiar dacă nu se găsește lămurit la început, cum am găsit în Deuteronomul: „să trimitem oameni înaintea noastră”. Iar cuvântul wa-haqimoti: că Îmi voi împlini jurământul. Iar cel mai apropiat după mine este că acest legământ este aluzie la curcubeu. Iar sensul lui berit este învoială și lucru pe care l-au ales doi; și este din rădăcina „alegeți-vă (beru) un om”; iar cuvântul este la fel în stare construită și în formă absolută; și tot așa ševit („captivitatea”) lui Iacov și „fiicele lui în captivitate (ba-ševit)”. Iar unii spun că berit este un hotar tăiat."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Dar voi statornici legământul Meu cu tine» A spus Rabbi Avraham: ca semn că Numele i-a jurat că nu va muri în potop, nici el, nici fiii lui, deși nu a fost scris lămurit mai înainte, așa cum am găsit în Deuteronomul: „Să trimitem oameni înaintea noastră”. Iar cuvântul wa-haqimoti („voi statornici”): că voi împlini jurământul Meu. Iar mai aproape pentru mine este că acest legământ face aluzie la curcubeu. Iar sensul lui berit („legământ”) este învoială și un lucru pe care l-au ales doi, din rădăcina lui „alegeți-vă (beru lakhem)”; iar cuvântul este la fel în starea construită și în cea absolută, și tot așa ševit Yaʿaqov, u-venotav ba-ševit. Și unii spun că berit este un hotar tăiat. Toate acestea sunt cuvintele lui. Iar mai corect pe calea sensului simplu este că chestiunea lui „Dar voi statornici legământul Meu” este a spune: în vremea în care va veni potopul, va fi un legământ statornic cu tine, ca să intri în arcă, tu și casa ta, și câte doi din toată firea, ca să-i ții în viață; adică să trăiți acolo și să rămâneți ca să ieșiți de acolo la viață. Iar legământul este cuvântul Numelui, când hotărăște spunând, fără condiție și fără rezervă, și împlinește. Și a amintit legământul și a amintit că va fi statornic; și este ca limbajul lui „au întărit și au primit iudeii asupra lor și asupra urmașilor lor”, adică au primit asupra lor un lucru ca să fie statornic. Iar pe calea adevărului, legământul este din veșnicie, iar cuvântul este derivat din „La început a creat (bara) Dumnezeu”; și iată, beriti („legământul Meu”) este ca beriʾati („creația Mea”), iar cuvântul este ca în starea construită, căci este alipit lumilor care au fost înaintea noastră. Poruncește ca el să se ridice și să fie cu cel drept; și tot așa „Iar Eu, iată-Mă, statornicesc legământul Meu cu voi”, „Legământul Meu a fost cu el”. Iar cel înțelept va înțelege."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Dar voi statornici legământul Meu.» După potop."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Dar voi statornici legământul Meu cu tine.» Legământul pe care îl închei cu tine, că vei fi salvat de apele potopului, tu și tot ce este cu tine, îl voi împlini pentru tine.<br><br>«Și vei intra în arcă», despre care ți-am spus că veți fi salvați în ea de apele potopului.<br><br>«Tu, și fiii tăi.» De aici au făcut aluzie învățătorii noștri, binecuvântată fie amintirea lor, că Noe și fiii lui nu s-au împreunat în arcă, căci Scriptura i-a despărțit la intrarea lor în arcă, spunând: „tu, și fiii tăi, și soția ta, și soțiile fiilor tăi”. Și la fel i se cuvenea să se îngrijoreze și să se întristeze pentru stricarea lumii și să nu se îndeletnicească cu pofta trupului, ci doar cu hrana, ca să trăiască."
    }
   ]
  },
@@ -2802,6 +3087,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Iar din tot ce e viu.» Chiar și demonii.<br><br>«Două din fiecare.» Din cel mai puțin dintre ele, nu mai puțin de două: unul de parte bărbătească și unul de parte femeiască."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Și după ce a spus „două”, a lămurit că vor fi parte bărbătească și parte femeiască; și după ce a spus general „din tot ce e viu, din toată firea”, a detaliat după aceea: „din orice pasăre după soiul ei, și din orice animal după soiul lui, din orice târâtoare a pământului”. Acesta este general pentru viețuitoarele câmpului; și tot așa cel mic și cel mare, care este născut din parte bărbătească și parte femeiască; și sunt excluși toți cei născuți fără împreunarea a doi. Și tot așa viețuitoarele apelor, căci și peștele se numește „carne” (baśar); iar martorul este ce a spus Moise: „și Tu ai spus: «Carne le voi da»… oi și boi… sau toți peștii mării…”.<br><br>Iar cuvântul «să aduci în arcă» este poruncă pentru Noe să nu le părăsească, ci să le aducă cu el, ca să păstreze în viață sămânța fiecărei specii."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«din toată firea» etc. Este știut că fiarele sălbatice sunt foarte multe, iar unele dintre ele foarte mari, ca elefanții și bivolii sălbatici (reʾemim) și altele; iar târâtoarea care se târăște pe pământ este foarte multă; și din păsările cerului sunt multe specii fără număr, și cum au spus învățătorii noștri: o sută douăzeci de specii de păsări necurate sunt în răsărit, și toate sunt din specia aya; iar păsările curate nu au număr. Și iată, ar trebui să aducă din toate, ca să nască pe cele ca ele; și când vei strânge pentru toate hrana pe care o mănâncă pe un an întreg, această arcă nu le-ar cuprinde, nici zece ca ea. Ci este o minune: puținul a cuprins multul. Și dacă vei spune: ar fi făcut-o mică și s-ar fi sprijinit pe această minune – Numele, binecuvântat fie, a socotit potrivit s-o facă mare, ca s-o vadă oamenii din generația lui și să se mire de ea și să povestească despre ea și să vorbească despre chestiunea potopului și despre adunarea dobitoacelor, a fiarelor sălbatice și a păsărilor în ea; poate se vor pocăi. Și încă, au făcut-o mare ca să micșoreze minunea; căci așa este calea în toate minunile din Tora sau din Profeți: să se facă ce este în mâna omului să facă, iar restul va fi în mâna Cerurilor. Și să nu te lași amăgit să spui că erau trei sute de coți după coții unui om ca Noe, și el era mare; căci, dacă este așa, și oamenii erau mari, și fiarele sălbatice și păsările din acele generații erau mari, până când lumea a fost lovită prin potop. Și încă, coții aceștia sunt coții Torei.<br><br>«să aduci în arcă pentru a le păstra în viață cu tine» I-a poruncit să se îndeletnicească cu ele și să le ajute el la intrarea lor în arcă și să se străduiască pentru ele ca să trăiască, așa cum se străduiește pentru sufletul lui."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Iar din tot ce e viu.» Rashi a explicat: ca să-i cuprindă pe demoni. Și se găsește în Bereșit Rabba că Minciuna (Șiqra) a vrut să intre în arcă. Noe i-a spus: du-te și caută-ți pereche, pentru că toți cei care intră sunt bărbat și femeie. S-a dus și a găsit-o pe Paguba (Paḥta), care este pusă peste oameni ca să-i păgubească și să le împuțineze avutul. I-a spus: te măriți cu mine? I-a spus: ce-mi dai dacă mă mărit cu tine? I-a spus: tot ce voi câștiga, ea va lua. Îndată au intrat în arcă. Și aceasta este ce spun oamenii: ce adună Minciuna, Paguba ia. Mesaggel („adună”) este din exprimarea segullah („comoară”)."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar din tot ce e viu, din toată firea.» Din cele de pe uscat.<br><br>«Două din fiecare.» Adică să fie perechi; și după aceea a explicat perechile și a spus: „parte bărbătească și parte femeiască să fie”. «Să aduci în arcă.» După ce vor veni de la sine înaintea arcei, tu să le bagi în arcă. Și cum vor veni de la sine? Că Dumnezeu le va trezi duhul să vină la arcă, așa cum vin, prin puterea închipuirii, la locul de pășune când vor să mănânce și la locul apei când vor să bea.<br><br>«Pentru a le păstra în viață cu tine.» Că le vei pregăti hrana zi de zi."
    }
   ]
  },
@@ -2953,6 +3254,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Din orice pasăre după soiul ei.» Acelea care s-au ținut de soiul lor și nu și-au pervertit calea; și au venit de la sine, iar tot ce primea arca a adus înăuntru."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar cuvântul «să vină la tine»: că ele vor veni de la sine, și nu se va osteni să le caute în insule și să vâneze toate soiurile de păsări. Și a poruncit să pregătească feluri de mâncare pentru toți. Iar cei rătăciți la duh întreabă ce a mâncat orice pasăre răpitoare și orice fiară, ca leul, care nu trăiește decât din carne. Dar aceasta nu este o întrebare, căci cine nu găsește carne mănâncă iarbă și rod de pom, când îi este foame. Și tot așa midrașul că este printre dobitoace unul mare, care paște o mie de munți – este bun de auzit pentru urechi; și tot așa o pasăre care acoperă lumina soarelui cu aripile ei – are o taină și nu este după înțelesul ei. Iar Numele i-a poruncit lui Noe să facă arca cu multe zile înainte de venirea potopului; și când s-au apropiat zilele, Numele cel cinstit i-a poruncit ca Noe să meargă, el și casa lui, în arcă; și din pricina trebuinței jertfei, Numele cel cinstit a poruncit să ia din dobitocul curat și din pasărea curată șapte părți bărbătești și șapte femeiești."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«două din fiecare să vină la tine ca să fie ținute în viață» L-a înștiințat că vor veni la el de la sine, două câte două, și nu va trebui să le vâneze prin munți și prin insule, iar el le va aduce în arcă după aceea. Iar la faptă a lămurit că au venit parte bărbătească și parte femeiască. Și aceasta a fost cuprinsă în ele. După aceea i-a poruncit să ia din fiecare dobitoc curat câte șapte (šivʿa šivʿa), iar despre acestea n-a spus că vor veni la el, ci că el le va lua; căci cele care veneau ca să fie salvate și să aibă sămânță vie veneau de la sine, dar cele care veneau ca să fie aduse ca arderi-de-tot, n-a hotărât să vină de la sine ca să fie înjunghiate, ci Noe le-a luat. Căci porunca de câte șapte a fost ca Noe să poată aduce din ele jertfă. Iar sensul lui „curat”: Cel Sfânt, binecuvântat fie El, i-a lămurit semnele curăției, dar Scriptura scurtează, spunând „curat” după Tora. Iar Rashi a scris: „pe cel care va fi curat pentru Israel; învață că Noe a învățat Tora”. Și iată, de aici reiese că pentru jertfele fiilor lui Noe nu au fost potrivite decât dobitocul curat și pasărea curată; și tot așa a spus despre Abel: „din întâii născuți ai turmelor lui și din cele mai de seamă oi”. Dar toate speciile curate sunt potrivite pentru ei, cum este scris: „și a luat din fiecare animal curat și din fiecare pasăre curată și a înălțat arderi-de-tot pe altar”. Iar lui Israel i-a adăugat în poruncă ca toate jertfele lor să fie din vite mari și din oi, din turturele și din pui de porumbel. Iar sensul lui „De asemenea, din păsările cerului” este: cele curate, căci Scriptura se leagă de ce este mai sus."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Din orice pasăre după soiul ei.» Din toate soiurile păsării.<br><br>Și la fel „și din orice animal după soiul lui”; și în el este cuprinsă și sălbăticiunea, căci sălbăticiunea este cuprinsă în animal și animalul este cuprins în sălbăticiune.<br><br>«Să vină.» Vor veni la tine de la sine, înaintea arcei, iar tu să le bagi.<br><br>«Ca să fie ținute în viață.» L-am explicat."
    }
   ]
  },
@@ -3058,7 +3371,16 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 1:29-30"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Iar tu.» Acum «ia-ți din toată mâncarea»: mâncăruri deosebite pentru specii deosebite."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar tu, ia-ți.» De vreme ce vor veni la tine ca să le ții în viață, trebuie să pregătești din toată mâncarea, pentru nevoia ta și pentru nevoia lor; iar mâncarea este fructele, semințele și ierburile; și chiar și fiarele care sfâșie vor mânca la fel ca celelalte, și nu au mâncat carne, cum nu au mâncat la începutul creării, cum am scris la versetul „Și Dumnezeu a făcut sălbăticiunile pământului după soiul lor”."
+   }
+  ]
  },
  {
   "num": 22,
@@ -3172,6 +3494,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și Noe a făcut.» Aceasta este construcția arcei."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Și Noe a făcut întocmai cum îi poruncise Dumnezeu» Că a făcut arca și a strâns hrana. Iar calea Scripturii este să spună „a făcut” și „așa a făcut”, ca să lămurească faptul că n-a lăsat să cadă niciun lucru din tot ce i s-a poruncit."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Noe a făcut.» A făcut arca întocmai cum îi poruncise Dumnezeu: în lungimea ei, în lățimea ei și în înălțimea ei, și în încăperi, și în hrana pe care a pus-o înăuntrul ei; așa a făcut totul, cum îi poruncise Dumnezeu."
    }
   ],
   "fidela": "Astfel a făcut Noe, conform cu tot ceea ce Dumnezeu i-a poruncit, astfel a făcut el.",

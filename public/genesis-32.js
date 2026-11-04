@@ -16,6 +16,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Și i-a binecuvântat.» Deja au spus: „Să nu fie binecuvântarea unui om de rând ușoară în ochii tăi.” Însă a povestit binecuvântarea lui Laban pentru fiicele lui ca să arate că binecuvântarea tatălui, care este pentru copiii lui din tot sufletul, se cuvine fără îndoială să se așeze mai mult, prin însușirea imaginii lui Dumnezeu din cel care binecuvântează, cum a spus: „pentru ca sufletul meu să te binecuvânteze”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Laban s-a trezit dis-de-dimineață»: este lămurit."
    }
   ]
  },
@@ -44,6 +48,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "«L-au întâlnit.» Ca să-l păzească, cum este scris: „Și iată, Eu sunt cu tine”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și îngerii lui Dumnezeu l-au întâlnit»: Dumnezeu i-a trimis îngeri ca să-l încredințeze pe drum."
    }
   ]
  },
@@ -280,6 +288,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "«Va supraviețui (li-feleṭah).» Căci taberele erau departe una de alta, și dacă ar fi văzut pedeapsa, ar fi fugit.<br><br>«Una din tabere (ha-maḥaneh ha-aḥat).» Este formă feminină, cum este scris: „De-ar tăbărî (taḥaneh) împotriva mea o tabără”.<br><br>«Rămasă (ha-nišʾar).» Formă masculină. Am găsit multe cuvinte când la masculin, când la feminin; ca „Soarele răsărea (yaṣa) asupra pământului” și „și soarele a bătut (va-takh)”; „vânt de furtună care împlinește (ʿośah) cuvântul Lui” și „și un vânt a venit de dincolo de pustiu și a lovit (va-yiggaʿ) cele patru colțuri ale casei”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a spus»: este lămurit.<br><br>«Tabăra» (ha-maḥaneh): cuvântul este și masculin, și feminin."
    }
   ]
  },
@@ -523,7 +535,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Și lăsați loc» (we-rewaḥ tasimu): în Bereșit Rabba: ce înseamnă „și lăsați loc”? A spus Iacov înaintea Celui Sfânt, binecuvântat fie El: „Stăpânul lumii, dacă vei aduce suferință asupra fiilor mei, dă-le răgaz între necaz și necaz.”"
+    "text": "«Și le-a dat»: este lămurit.<br><br>«Și lăsați loc» (we-rewaḥ tasimu): în Bereșit Rabba: ce înseamnă „și lăsați loc”? A spus Iacov înaintea Celui Sfânt, binecuvântat fie El: „Stăpânul lumii, dacă vei aduce suferință asupra fiilor mei, dă-le răgaz între necaz și necaz.”"
    }
   ]
  },

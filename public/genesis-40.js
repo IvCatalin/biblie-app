@@ -460,7 +460,12 @@ window.CHAPTER_DATA = [
   ],
   "textCompare": [],
   "refs": [],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar în coșul»: este lămurit."
+   }
+  ]
  },
  {
   "num": 18,

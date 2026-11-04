@@ -172,6 +172,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Iată, ziua este încă lungă.» Dreptul disprețuiește nedreptatea și față de alții, cum a spus: „Urâciune pentru drepți este omul nedrept.”"
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«El a spus»: este lămurit."
    }
   ]
  },
@@ -696,7 +700,12 @@ window.CHAPTER_DATA = [
   ],
   "textCompare": [],
   "refs": [],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar el i-a dat-o»: Laban, cum spusese."
+   }
+  ]
  },
  {
   "num": 29,
@@ -814,6 +823,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Că sunt disprețuită.» Și, în schimbul urii pricinuite de bănuială, mi l-a dat și pe acesta."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Căci Domnul a auzit»: a ascultat rugăciunea mea și cererea mea de îndurare."
    }
   ]
  },

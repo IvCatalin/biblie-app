@@ -80,6 +80,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "«Căci ție și seminției tale etc.» Și pentru că i-am dat lui și seminției lui țara aceasta, i-am poruncit să iasă din țara lui și din locul lui natal, cum este scris acolo: „către țara pe care ți-o voi arăta”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Locuiește în țara aceasta; ție și seminției tale»: le-am explicat."
    }
   ]
  },
@@ -152,6 +156,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Și Isaac s-a așezat în Gherar.» A făcut cum i-a poruncit Numele."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Isaac s-a așezat»: a primit porunca pe care i-o dăduse Dumnezeu."
    }
   ]
  },
@@ -176,6 +184,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«și el a spus: „Este sora mea”» Iar despre fii nu l-au întrebat, căci ar spune că sunt fiii lui dintr-o altă soție."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Au întrebat despre soția lui»: din pricina soției lui l-au întrebat; și la fel „spune despre mine” și multe asemenea lor; și ne-am întins deja la explicarea acestui lucru."
    }
   ]
  },
@@ -444,6 +456,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "«Cu care le numise tatăl său.» Ca nimeni să nu le poată contesta."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Care fuseseră săpate» (ʾašer ḥaferu): de slujitorii tatălui său.<br><br>«Cu aceleași nume»: ca să rămână în stăpânirea lor dintâi."
    }
   ]
  },
@@ -760,7 +776,12 @@ window.CHAPTER_DATA = [
   ],
   "textCompare": [],
   "refs": [],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar Isaac i-a condus»: i-a însoțit pe drum cât cere însoțirea cuvenită."
+   }
+  ]
  },
  {
   "num": 32,

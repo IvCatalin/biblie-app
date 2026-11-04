@@ -132,6 +132,18 @@ window.CHAPTER_DATA = [
     "text": "«Avram a urcat etc.… către miazăzi (ha-negbah).» Ca să vină în sudul țării lui Israel, cum a spus mai sus: „a pornit din loc în loc către miazăzi”, spre muntele Moria. Și oricum, când merge din Egipt („Mițrayim”) spre țara Canaanului, merge de la sud la nord, căci țara Egiptului este la sudul țării lui Israel, cum se dovedește în capitolele despre călătorii și despre hotarele țării."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar gramatica lui «a urcat (wa-yyaʿal)» am explicat-o în Cartea Temeliei."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«el și soția lui și tot ceea ce era al lui» Și sensul lui „el și soția lui și tot ceea ce era al lui”: ca să facă cunoscut că nu i-au răpit nimic din toate darurile cele mari pe care i le dăduseră din cauza Sarei, ca ea să fie a regelui, și nu au spus: „Ne-ai înșelat, și darul este din greșeală”; și aceasta este o faptă a minunii."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Avram a urcat ... și tot ceea ce era al lui»: că nu i-a lipsit nimic. «Și Lot împreună cu el»: deși s-a săturat în Egipt („Mițrayim”), nu a voit să se despartă de Avraam."
+   },
+   {
     "author": "Zohar, Leh Leha 15:5",
     "text": "A zis Rabbi Aba: tot aceasta de ce i s-a întâmplat lui Avraham, și pentru ce trebuia? Ci ca să se mărească numele lui Avraham și al Sarei în lume; că chiar în Egipt („Mițrayim”), care sunt vrăjitorii lumii și nimeni nu putea să se salveze de ei, s-a mărit Avraham și s-a înălțat sus; acesta e ce e scris «și s-a suit Avram din Egipt» — unde? «spre Neghev»."
    }
@@ -255,6 +267,22 @@ window.CHAPTER_DATA = [
    "Geneza 24:35"
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Foarte încărcat (kaved meʾod).» Încărcat cu poveri."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și Avram era foarte încărcat (kaved).» Că avea multă avere (kevudah); iar cine are așa ceva are mișcarea grea. Oare nu vezi că kavod („cinstea”) vine din rădăcina „greutatea (koved) pietrei”, iar qalon („ocara”) din rădăcina „ușor (qal) de picioare”? Iar el era stăpân peste multe turme, și avea și mult argint și aur."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și Avram era foarte încărcat de vite.» Și a trebuit să meargă încet, deși dorea să se întoarcă repede la locul altarului, ca să priceapă și să învețe ca mai înainte; și de aceea:"
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Avram era foarte încărcat.» El era încărcat din partea vitelor lui și a avuției lui, care era multă și foarte grea; și la fel „ca un stejar căruia i se veștejește frunza”: din partea frunzelor lui, care se veștejesc, spune despre stejar că se veștejește; și la fel „cu hainele sfâșiate, cu barba rasă” și cele asemenea lor."
+   },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Bogăția lui Avram descrisă aici (vite, argint, aur) reflectă exact darurile primite de la Faraon la finalul capitolului anterior (12:16) — textul leagă explicit belșugul actual de episodul din Egipt."
@@ -437,6 +465,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«A continuat în călătoriile sale.» Când s-a întors din Egipt („Mițrayim”) în țara Canaanului, mergea și înnopta în hanurile în care înnoptase la mersul lui spre Egipt; te învață bunele rânduieli: omul să nu-și schimbe hanul. Altă explicație: la întoarcerea lui și-a plătit datoriile.<br><br>«De la miazăzi (mi-negev).» Țara Egiptului este la sudul țării Canaanului."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«În călătoriile sale.» Că a făcut multe popasuri când s-a întors din partea de miazăzi la Betel, care este la miazănoapte; și a venit la locul altarului ca să-I mulțumească Numelui că a venit în pace."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«A continuat în călătoriile sale.» Care sunt călătoriile păstorilor, care merg din loc în loc când se termină pășunea din locul dintâi."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«A continuat în călătoriile sale»: călătorie după călătorie, câte puțin, pentru că era foarte încărcat de vite; și a mers pe drumul miazăzilor; aceasta este ceea ce a explicat: „de la miazăzi”, căci din partea miazăzilor erau călătoriile lui; și a mers până la Betel, până la locul unde fusese cortul său, și acesta este muntele. «Înainte»: cum a spus: „și și-a ridicat cortul”."
    }
   ]
  },
@@ -574,6 +614,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Pe care îl făcuse acolo la început.» „Și acolo Avram L-a chemat pe Domnul pe nume” atunci, la început. Și se poate spune și: a chemat acolo acum pe nume pe Domnul."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«La locul altarului.» A mai adăugat să lămurească, ca să facă cunoscut că nu și-a ridicat cortul în alt loc pe acel munte, ci chiar în locul în care făcuse altarul la început; și toate acestea ca să facă cunoscut că se cuvine omului să-și statornicească un loc pentru rugăciunea lui și pentru slujirea lui față de Domnul, căci inima lui este mai pregătită în locul cu care este obișnuit. «Și acolo ... L-a chemat»: încă o dată, pe Domnul pe nume."
    }
   ]
  },
@@ -694,6 +738,18 @@ window.CHAPTER_DATA = [
    "Geneza 12:5"
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Care mergea cu Avram.» Cine a pricinuit ca el să aibă aceasta? Mersul lui cu Avram."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și corturi (ohalim).» După părerea mea, singularul este după forma lui qodeš, și el este cel care se găsește; iar pluralul: ki ba-ohalim, ca „din lucrurile sfinte (ba-qodašim) să nu mănânce”; iar ohel, cu ḥolam între alef și waw, este singular, ca goral, chiar dacă nu se găsește."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar Lot ... avea și el.» „Și ... și el”, ca să adauge la ceea ce a spus: „Și Avram era foarte încărcat”.<br><br>«Care mergea cu Avram.» Ca să facă cunoscut că în meritul lui Avram avea acel bine, pentru că mergea cu el și asculta de el.<br><br>«Și corturi.» Ca să facă cunoscut că avea multe bunuri mișcătoare și mulți oameni ai casei, și avea nevoie de multe corturi. Iar cuvântul we-ʾohalim este cu ḥolam la alef, și la fel „fiecare la corturile lui”, „și Isahar, în corturile tale”. Iar după tiparul lui ʾohel, alef-ul ar fi trebuit să fie cu qamaṣ ḥaṭuf, ca de la qodeš – qodašim, de la ḥodeš – ḥodašim; și la fel vine „în corturi (ba-ʾohalim) să locuiți”, „cei ce locuiesc în corturi”. Poate acesta, în care alef-ul vine cu ḥolam, este după tiparul gozal, tolaʿ."
+   },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Menționarea explicită a bogăției lui Lot (turme, cirezi, corturi) pregătește motivul practic al despărțirii care urmează — un detaliu economic, nu doar relațional, tipic pentru gestionarea păstoritului nomad în regiune."
@@ -820,6 +876,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și țara nu-i putea susține (ve-lo naśa).» Nu putea ajunge pășunea pentru vitele lor. Și este o exprimare scurtă, la care trebuie adăugat ceva, ca: „și pășunea țării nu-i putea susține”; de aceea a scris ve-lo naśa la masculin."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Împreună (yaḥdaw).» Cuvânt pentru doi și pentru mai mulți: „și tot poporul a răspuns împreună (yaḥdaw)”; și este un cuvânt neobișnuit, iar explicația lui nu este ca yaḥad, ci ca yaḥid."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și țara nu-i putea susține.» Pășunea țării nu era îndestulătoare pentru amândoi; de aceea:"
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și țara nu-i putea susține» (we-lo naśaʾ). Țara vine la masculin; și ca el: „țara a fost întunecată” (neʿtam ereṣ).<br><br>«Să locuiască împreună.» Căci le era strâmt acolo locul de pășune, ca să-și pască vitele împreună cu vitele oamenilor țării, căci avuția lor era multă; de aceea era ceartă între păstorii lor: aceștia spuneau: noi ne vom paște vitele, și aceia spuneau: noi ne vom paște vitele; și locul le era strâmt, și se strâmtorau unii pe alții."
    }
   ]
  },
@@ -972,6 +1040,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și a fost ceartă.» Pentru că păstorii lui Lot erau răi și își pășteau vitele în câmpurile altora, iar păstorii lui Avram îi mustrau pentru jaf; iar ei ziceau: Țara a fost dată lui Avram, iar el nu are moștenitor, iar Lot este moștenitorul lui, și aceasta nu este jaf. Iar Scriptura spune: „iar canaanitul și perizitul locuiau atunci în țară”, iar Avram încă nu fusese învrednicit de ea."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar sensul lui «iar canaanitul și perizitul»: ca păstorii lui. Și se poate ca perizitul să fie dintre fiii lui Canaan, și să fie unul dintre cei pomeniți, și să aibă două nume, cum am găsit două nume pentru fiul lui Samuel, și tot așa pentru tatăl tatălui său."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Și a fost ceartă» Rashi a scris: „Pentru că păstorii lui Lot își pășteau vitele în câmpurile altora, iar păstorii lui Avram îi mustrau pentru jaf, iar ei spuneau: Țara i-a fost dată lui Avram, iar el nu are moștenitor, și Lot este moștenitorul lui, și aceasta nu este jaf; iar Scriptura a spus: «iar canaanitul și perizitul locuiau atunci în țară», și Avram încă nu avea dreptul asupra ei”; și este midrașul învățătorilor noștri. Dar eu mă mir, căci darul care i s-a spus lui Avram a fost pentru seminția lui, căci s-a spus mai sus: „Seminției tale îi voi da această țară”; și cum îl va moșteni Lot? Poate păstorii au auzit de dar și au greșit, iar Scriptura spune că nici a lui Lot, nici a lui Avram nu este acum. Și după aceasta, ce a spus mai întâi, că averea lor era mare, înseamnă că, din cauza averii multe, țara nu-i putea susține, și păstorii lui Lot au fost nevoiți să-și ducă vitele în câmpuri care aveau stăpâni; și aceasta a fost cauza certei. Iar pe calea sensului simplu, cearta a fost pentru pășune, căci țara nu-i putea susține; și când vitele lui Avram pășteau în luncă, păstorii lui Lot veneau în hotarul lor și pășteau acolo. Și iată, Avram și Lot erau străini și locuitori vremelnici în țară, iar Avram s-a temut ca nu cumva canaanitul și perizitul, locuitorul țării, să audă de mulțimea vitelor lor și să-i izgonească, sau să-i lovească cu ascuțișul sabiei și să le ia vitele și averea; căci așezarea în țară era acum a lor, nu a lui Avram. Și acesta este sensul lui „iar canaanitul și perizitul”: că a amintit că erau multe popoare care locuiau în țara aceea, iar ele și vitele lor erau fără număr, și țara nu-i putea susține și pe Avram și pe Lot. Iar din cuvântul „atunci” mi se pare că popoarele erau în țară, în zilele acelea, locuitori în corturi și cu vite: unii dintre ei se adunau la un oraș și pășunau acolo un an sau doi, și călătoreau de acolo spre alt hotar, pe care nu-l pășunaseră; și așa fac mereu, după obiceiul fiilor lui Chedar. Iar canaanitul și perizitul erau atunci în țara de miazăzi, iar în celălalt an vin acolo iebusitul și amoritul."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și a fost ceartă între păstorii turmelor lui Avram și păstorii turmelor lui Lot.» Era între ei ceartă ca să se vadă cine va fi dat la o parte dinaintea cui din pășunea pe care o vor găsi.<br><br>«Iar canaanitul și perizitul locuiau atunci în țară.» Și de aceea cearta dintre doi frați străini le făcea să miroasă urât numele în ochii locuitorilor; căci, când este ceartă între frații străini, locuitorii îi vor socoti oameni certăreți și vor trage concluzia cu atât mai mult în privința lor înșiși."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar canaanitul.» L-am explicat; și a adăugat aici „și perizitul”, căci și perizitul locuia în această țară, unde erau Betel și Ai."
    }
   ]
  },
@@ -1124,6 +1208,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Rude apropiate (anașim aḥim).» Rude; iar midrașul aggadei: se asemănau la chip."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Între mine și tine.» În viitor, când unul dintre noi va alege o pășune.<br><br>«Să nu fie, rogu-te, ceartă.» Încât s-o vrea și tovarășul lui.<br><br>«Și între păstorii mei și păstorii tăi.» Acum, cât locuim aici."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Între mine și tine.» Căci, dacă se vor certa păstorii noștri, nu se poate să nu ne certăm noi."
    },
    {
     "author": "Zohar, Leh Leha 10:20",
@@ -1280,6 +1372,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Dacă o vei lua la stânga, eu o voi lua la dreapta.» Oriunde te vei așeza, nu mă voi depărta de tine și îți voi sta drept scut și ajutor. Și în cele din urmă a avut nevoie de el, cum s-a spus: „Și când a auzit Avram că a fost luat captiv fratele său” etc.<br><br>«Eu o voi lua la dreapta (ve-eimenah).» Mă voi îndrepta spre dreapta, ca ve-asmʾilah — mă voi îndrepta spre stânga. Și dacă vei spune că trebuia vocalizat ve-eiminah, așa am găsit în alt loc: „dacă este cineva care să se abată la dreapta (le-hemin)”, și nu este vocalizat le-heimin."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Eu o voi lua la dreapta (we-ʾeymina).» Din rădăcina yamin („dreapta”).<br><br>Și se vede alef-ul din śemol („stânga”), și nu știm dacă este din rădăcină, căci lipsește din cuvântul ha-śemali, ca ha-yemini."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Oare nu-i toată țara în fața ta?» Căci, într-adevăr, tu vei alege locul pe care îl vei vrea.<br><br>«De aceea desparte-te, rogu-te, de mine.» Desparte-te tu spre partea pe care o vei alege, iar eu voi călători în partea opusă.<br><br>«Dacă o vei lua la stânga.» Dacă vei alege să cauți o pășune în partea stângă.<br><br>«Eu o voi lua la dreapta.» Eu o voi căuta în partea dreaptă."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Oare nu-i toată țara în fața ta?» Ca în fața mea; căci în orice loc în care vei fi, oamenii lor nu te vor ucide și nu-ți vor face rău, căci ajutorul lui Dumnezeu va fi cu tine, din pricina mea și pentru că ai mers pe căile mele, să-L cunoști pe Creator.<br><br>«Desparte-te, rogu-te, de mine.» Căci din pricina mea ești în această țară, și tu se cuvine să te desparți de mine, și nu eu de tine, căci eu sunt cel de căpetenie, iar tu ești alipit mie, și mie îmi este alegerea; și încă îți spun că sufletul meu este larg, și cu atât mai mult fratelui meu îi voi da alegerea.<br><br>«Dacă o vei lua la stânga, eu o voi lua la dreapta»: dacă vrei tu să mergi spre miazănoaptea țării, eu voi fi la miazăzi țării, în această parte în care suntem astăzi; căci era la miazăzi țării lui Israel, cum a spus: „din loc în loc către miazăzi” și „A continuat în călătoriile sale, de la miazăzi”.<br><br>«Și dacă o vei lua la dreapta»: și dacă vrei tu să rămâi în aceasta, care este miazăzi, eu mă voi da la o parte dinaintea ta și voi merge spre miazănoaptea țării."
    }
   ]
  },
@@ -1526,6 +1630,22 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Rashi (1040–1105)",
+    "text": "«Era complet irigată.» Un ținut cu pâraie de apă.<br><br>«Înainte ca Domnul să distrugă Sodoma și Gomora.» Așa era acea câmpie.<br><br>«Precum grădina Domnului.» Pentru copaci.<br><br>«Precum țara Egiptului („Mițrayim”).» Pentru semănături.<br><br>«Până la Țoar (boʾakha Ṣoʿar).» Până la Țoar. Iar midrașul aggadei o tâlcuiește spre ocară: pentru că erau cufundați în desfrâu, Lot și-a ales locuința în vecinătatea lor."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Câmpia (kikkar) Iordanului.» Loc de plante; iar kaf este dublat, sau lipsește din kar nirḥav („pășune largă”); și tot așa bat ʿayin („lumina ochiului”), din be-vavat ʿeino.<br><br>«Irigată (mašqeh).» Masculin după feminin; și tot așa „îl va mânca un foc neaprins de suflare (tokhlehu eš lo nuppaḥ)”.<br><br>«Înainte ca Domnul să distrugă (lifnei šaḥet).» Înainte să nimicească; și este infinitiv din conjugarea grea, cu dageș."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«precum grădina Domnului, precum țara Egiptului („Mițrayim”)» Spune că toată țara câmpiei este udată cu piciorul din Iordan, în felul în care se face în grădina Domnului, despre care s-a spus: „Și un fluviu iese din Eden ca să ude grădina”, și în felul în care este în țara Egiptului, despre care s-a spus: „și o udai cu piciorul, ca pe o grădină de zarzavat”. Și a amintit cele două locuri: a spus „precum grădina Domnului”, căci locul cel bun dintre cele de jos este așa, tot udat; și a amintit „precum țara Egiptului”, un loc cunoscut pentru pășune. Iar învățătorii noștri au spus: „precum grădina Domnului” – pentru copaci; „precum țara Egiptului” – pentru semințe. Vor să explice că în câmpie sunt râuri mari, care udă copacii grădinilor, ca grădina Domnului, și în ea sunt canale (yeʾorim), ca în țara Egiptului, care udă grădina de zarzavat. Și Lot a ales aceasta pentru sine, căci țara care este udată așa este departe de secetă și bună pentru pășune."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Lot și-a ridicat ochii»: de pe muntele care era acolo, căci pe munte locuiau, cum a spus; și și-a ridicat de acolo ochii, căci era un loc înalt, ca să vadă țara înaintea lui; și a văzut toată câmpia Iordanului, care era o țară pentru vite, căci era complet irigată; și a spus kullah („toată”) după ce a spus kol („toată”), ca să mărească lucrul; și la fel „toți regii neamurilor, toți”.<br><br>«Câmpia» (kikkar): după Targumul lui, „șes”. Și această câmpie era aproape de țara Sodomei și a Gomorei, cum a spus: „și toată câmpia”; și țara era, înainte de a fi fost schimbată, ca grădina Domnului, și aceasta este grădina Edenului, pe care o udau cele patru râuri; sau ca țara Egiptului („Mițrayim”), pe care râul o udă toată.<br><br>«Până la Țoar» (boʾakha Ṣoʿar). He-ul este ca he-ul din „care stătea aici (ʿimmekhah) cu tine” și altele. Iar kaf-ul nu este adăugat, cum au socotit; și la fel kaf-ul din ʿerkekha, ha-ʿerkekha; căci kaf-ul din boʾakha este al persoanei a doua, ca orice kaf care se găsește, și vorbește către cel care cunoaște locul; și la fel ʿerkekha vorbește către preot. Și a spus: până la Țoar locul era irigat."
+   },
+   {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Comparația câmpiei Iordanului cu „grădina DOMNULUI” și cu „țara Egiptului” (ambele cunoscute pentru irigare abundentă) sugerează o fertilitate excepțională a zonei înainte de distrugerea Sodomei — o descriere geografică plauzibilă pentru valea sudică a Iordanului dinaintea vreunui cataclism."
    }
@@ -1694,6 +1814,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Câmpia (kikkar).» Șesul, ca în Targumul lui.<br><br>«Dinspre răsărit (mi-qedem).» A plecat de lângă Avram și s-a dus la apusul lui Avram; se găsește că a călătorit de la răsărit spre apus. Iar midrașul aggadei: s-a îndepărtat de Cel dintâi (qadmon) al lumii; a zis: nu vreau nici pe Avram, nici pe Dumnezeul lui."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și Lot a plecat dinspre răsărit.» Căci Sodoma este la apus de Betel."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și Lot a ales pentru sine toată câmpia Iordanului.» A ales tot acel loc, ca să poată el singur și păstorii lui să caute în el pășune, iar Avraam și păstorii lui să nu poată acolo.<br><br>«Și Lot a plecat dinspre răsărit.» Nu a călătorit la dreapta și nici la stânga, adică miazănoapte și miazăzi, ci a călătorit de la răsărit spre apus, ca să se îndepărteze de Avraam, a cărui așezare era în răsăritul Țării lui Israel, aproape de Ai, unde au urcat seminții, când au intrat în țară prima dată, venind de dincolo de Iordan, dinspre răsărit.<br><br>«Și s-au despărțit unul de altul.» Nu doar în pășune, ci și în locuința lor."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Lot a ales pentru sine.» Unul dintre locurile care erau în toată câmpia, căci toate locurile din toată câmpia erau bune.<br><br>«Și Lot a plecat dinspre răsărit» (mi-qedem): spre răsărit de locul în care era, căci Iordanul este la răsărit de țara Canaanului; adică călătoriile lui erau din partea răsăritului; și la fel „A continuat în călătoriile sale, de la miazăzi ... până la Betel”, cum am explicat. Și acesta este sensul mem-ului.<br><br>«Și s-au despărțit unul de altul.» Dar Lot este cel care s-a despărțit de Avram, cum i-a spus: „Desparte-te, rogu-te, de mine”; și cum a spus „unul de altul”? Ci, după ce a plecat Lot, erau despărțiți unul de altul, căci locul dintre ei era depărtat; căci, cât timp erau împreună, se strâmtorau unul pe altul; iar când a plecat Lot, iată, fiecare s-a despărțit de tovarășul său: Avram în țara Canaanului, în orice loc pe care l-a ales; și la fel Lot a locuit în orașele câmpiei, un timp în acesta și un timp în acela, și a călătorit din loc în loc până ce a ajuns în orașul Sodoma, și acolo și-a statornicit locuința; și deși erau răi și păcătoși, nu s-a îngrijit de oamenii locului, căci locul era drept în ochii lui, iar el era atât de tare în credință și în dreptate, încât nu a învățat din faptele lor."
    }
   ]
  },
@@ -1874,6 +2006,22 @@ window.CHAPTER_DATA = [
     "text": "«Și și-a întins cortul.» A întins corturi pentru păstorii lui și pentru vitele lui până la Sodoma."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și și-a întins cortul (wa-yeʾehal).» Și-a întins corturile."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Avram s-a așezat în țara Canaanului» Și sensul lui „Avram s-a așezat în țara Canaanului”: în restul țării Canaanului, în toată, căci nu va sta într-un singur loc, ci în toată țara Canaanului va locui ca străin; iar Lot s-a așezat într-un singur loc din ea, în orașele câmpiei, căci orașele câmpiei fac parte din țara Canaanului. Și sensul lui „în orașele câmpiei”: o dată în acesta și o dată în acela, din cauza mulțimii vitelor. Și acesta este sensul lui „Și Lot a ales pentru sine toată câmpia Iordanului”: că s-a învoit cu Avram ca acesta să nu vină în toată câmpia."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Avram s-a așezat în țara Canaanului.» Deși Sodoma și cetățile ei surori sunt din hotarul canaanitului, oricum locuitorii țării nu erau canaaniți atunci. A spus, așadar, că Avram a ales să locuiască în acea parte a țării în care locuiau fiii lui Canaan, care nu erau atât de răi ca oamenii Sodomei, și nu s-a apropiat deloc de hotarul Sodomei."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și și-a întins cortul până la Sodoma.» Și-a întins cortul din loc în loc până ce a ajuns până la Sodoma."
+   },
+   {
     "author": "Talmudul Babilonian, Ioma 38b:8",
     "text": "De unde este acest lucru pe care l-au spus rabinii: „numele celor răi va putrezi”? I-a spus: Căci este scris: „și numele celor răi va putrezi.” Din Tora, de unde știm? Căci este scris: „și-a întins cortul până la Sodoma”, și este scris: „Iar oamenii Sodomei erau foarte răi și păcătoși față de Domnul.”"
    },
@@ -2002,6 +2150,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Iar oamenii Sodomei erau răi.» Și cu toate acestea, Lot nu s-a reținut să locuiască cu ei. Iar învățătorii noștri au învățat de aici: „iar numele celor răi va putrezi”.<br><br>«Răi.» În trupul lor.<br><br>«Și păcătoși.» În averea lor.<br><br>«Față de Domnul, foarte.» Își cunoșteau Stăpânul și aveau de gând să se răscoale împotriva Lui."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Răi» – față de oameni; și Ezechiel a lămurit aceasta: „și mâna celui sărac și a celui lipsit n-au întărit-o”."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Iar oamenii Sodomei erau foarte răi și păcătoși» Și sensul lui „Iar oamenii Sodomei erau… răi și păcătoși”: Scriptura îl învinuiește pe Lot că nu s-a ferit să locuiască împreună cu ei, după cuvintele lui Rashi. Și mai vorbește în favoarea dreptului, că sorțul lui nu a căzut în locul unde este răutatea, căci toiagul răutății nu se va odihni peste sorțul celor drepți. Și toate orașele câmpiei erau rele și foarte păcătoase față de Domnul, căci de aceea au fost nimicite, deși toți fiii Canaanului erau oameni cu orori mari, căci așa este scris."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar oamenii Sodomei erau ... răi»: răi față de Cer și răi față de făpturi; și totul este față de Domnul, căci au călcat poruncile Lui, pe care le-a poruncit lui Adam și lui Noe, și acestea sunt cele șapte porunci, cum am explicat; și între ele idolatria, care este păcat față de Domnul, și între ele jaful, incestul și vărsarea de sânge, care sunt păcat și rău ale omului față de semenul său; și totul este păcat față de Domnul, căci calcă poruncile Lui și disprețuiesc cuvintele Lui. Și a spus „foarte”, căci erau fără frâu în ele, făcând relele în public și fiind obișnuiți cu ele."
    },
    {
     "author": "Talmudul Babilonian, Ioma 38b:11",
@@ -2234,6 +2394,14 @@ window.CHAPTER_DATA = [
     "text": "«După ce Lot se despărțise.» Tot timpul cât cel rău era cu el, cuvântul divin se despărțea de el."
    },
    {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«După ce Lot se despărțise de el.» Și nu a spus aceasta când Lot era cu el, ca nu cumva, prin cinstea lui, Lot și păstorii lui să se mândrească și să se trufească și să se încumete să jefuiască."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Domnul i-a spus lui Avram.» Cât timp Lot era cu el, poate Avram credea că și Lot va avea parte în țară, căci era ruda lui și ieșise cu el, cum i-a spus: „Oare nu-i toată țara în fața ta?” Acum, după ce Lot s-a despărțit de el, i-a spus: Să nu crezi că altul va avea parte în țară, ci ție singur și seminției tale ți-o voi da; și să nu crezi că Lot și seminția lui vor avea parte împreună cu fiii tăi în țară, căci i-ai spus: „dacă o vei lua la stânga, eu o voi lua la dreapta; și dacă o vei lua la dreapta, eu o voi lua la stânga”; ci miazănoaptea și dreapta ție și seminției tale vor fi, și la fel răsăritul și apusul. Și a pus înainte miazănoaptea și miazăzi după cuvintele lui pe care i le-a spus lui Lot; căci lui Lot, pentru că este ruda ta, îi voi da de asemenea moștenire în alt loc, cum a spus: „căci copiilor lui Lot am dat Arul moștenire”."
+   },
+   {
     "author": "Talmudul Babilonian, Ioma 38b:11",
     "text": "Și din blestemul celor răi înveți binecuvântare pentru cei drepți, căci este scris: „Iar oamenii Sodomei erau răi și păcătoși față de Domnul”, și: „Domnul i-a spus lui Avram după ce Lot se despărțise de el.” Rabbi Elʿazar: Chiar și pentru un singur drept a fost creată lumea, căci s-a spus: „Și Dumnezeu a văzut că lumina este bună”, și „bun” nu este altul decât cel drept, căci s-a spus: „Spuneți despre cel drept că este bun.”"
    }
@@ -2359,6 +2527,14 @@ window.CHAPTER_DATA = [
    "Fapte 7:5"
   ],
   "commentaries": [
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Ție ți-o voi da.» Prin cuvânt; și tot așa „și să le pună pe capul țapului”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Căci toată țara.» Deși el nu o vedea toată, i-a spus să privească spre cele patru vânturi ale ei; și, așa cum este ea toată, cu hotarele ei, așa i-o va da; și la fel i-a spus lui Moise: „și privește țara”, adică o parte din ea, și iată, este ca și cum ar fi văzut-o toată; și la fel „pe care o vezi”: că vezi o parte din ea, ție ți-o voi da toată; adică ție ți-o dau de acum, căci este un dar pentru tine; deși este în stăpânirea neamurilor, este a ta, și de la tine o vor moșteni fiii tăi și vor alunga neamurile din ea.<br><br>«În veci.» Căci, deși vor fi exilați din ea, în cele din urmă se vor întoarce la ea."
+   },
    {
     "author": "Zohar, Vaiera 11:5",
     "text": "Vino și vezi: «și Domnul a zis: oare voi acoperi de Avraham». A zis Rabbi Yehudah: Sfântul, binecuvântat fie El, a dat tot pământul lui Avraham ca să-i fie moștenire de moștenire în veac, că e scris «că tot pământul pe care îl vezi, ție ți-l voi da» etc. Și e scris «ridică-ți, rogu-te, ochii și vezi». Și după aceea Sfântul, binecuvântat fie El, a trebuit să smulgă locurile acestea. A zis Sfântul, binecuvântat fie El: deja am dat pământul lui Avraham, și el e tată tuturor, că e scris «că tată a mulțime de neamuri te-am pus». Și nu mi se cuvine să lovesc fii și să nu fac cunoscut tatălui lor, pe care l-am chemat Avraham, iubitul Meu. Și de aceea a trebuit să-i facă cunoscut; de aceea (a zis) «și Domnul a zis: oare voi acoperi de Avraham ceea ce Eu fac»."
@@ -2516,6 +2692,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Astfel încât dacă va putea număra cineva.» Așa cum nu este cu putință ca țărâna să fie numărată, tot așa seminția ta nu va fi numărată."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Îți voi face seminția ca țărâna pământului.» Pe calea exagerării; și la fel „ca nisipul mării”, „ca stelele cerului”. Iar în midraș: i-a asemănat cu țărâna și i-a asemănat cu stelele cerului: în vremea în care nu fac voia Celui Atotprezent, vor fi ca țărâna, spre călcare în picioare; iar în vremea în care fac voia Celui Atotprezent, ca stelele, spre înălțime.<br><br>«Și seminția ta va putea fi numărată.» Dacă va fi aceasta, va fi și aceea, iar dacă nu, nu; adică: așa cum aceasta nu este cu putință, tot așa și aceea; și la fel „Își poate schimba etiopianul pielea...?” „... și voi ați putea face binele”."
    }
   ]
  },
@@ -2633,7 +2813,20 @@ window.CHAPTER_DATA = [
    "Deuteronom 11:24",
    "Iosua 1:3"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Ridică-te, cutreieră prin țară în lungul și în latul ei» Se poate că aceasta este o îngăduință, după voia lui; i-a spus: oriunde vei voi să mergi în țară, du-te, căci Eu voi fi cu tine și te voi păzi de răul neamurilor, „căci ție ți-o voi da”, adică a ta va fi. Iar dacă este o poruncă, să meargă prin ea, în toată lungimea și lățimea ei, ca să ia în stăpânire darul lui, cum am explicat, nu i s-a poruncit să facă aceasta îndată; și iată, a făcut așa, căci acum era la răsărit, iar după aceea a mers în țara filistenilor, care este la apus; și iată, a împlinit porunca în viața lui. Iar sensul lui „ție… și seminției tale” este: ca să iei în stăpânire darul de acum, ca s-o lași moștenire seminției tale, cum au spus învățătorii noștri: este o moștenire pentru ei de la părinții lor. Iar pe calea sensului simplu, se poate că va fi stăpân peste ea și prinț al lui Dumnezeu în mijlocul ei, în orice loc va merge în țara aceea."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Căci ție ți-o voi da.» Căci și în zilele tale vei fi în ochii locuitorilor un prinț al lui Dumnezeu și un om cu vază."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«În lungul ... ei»: de la răsărit la apus. «Și în latul ei»: de la miazănoapte la miazăzi."
+   }
+  ]
  },
  {
   "num": 18,
@@ -2797,6 +2990,22 @@ window.CHAPTER_DATA = [
    "Geneza 35:27"
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Mamre.» Este numele unui om."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Și aici a lămurit că «câmpiile lui Mamre» sunt în Hebron."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și Avram și-a întins cortul.» A făcut și a rânduit corturile turmelor lui încoace și încolo.<br><br>«Și a venit să locuiască în câmpiile lui Mamre.» Iar el, după aceea, a venit și și-a statornicit locuința în câmpiile lui Mamre."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Avram și-a întins cortul.» Și-a mutat de acolo cortul și și-a întins cortul din loc în loc până ce a venit și a locuit în câmpiile lui Mamre; și aceasta nu este Elon More, pe care l-a pomenit mai sus, căci acela era alt șes, iar numele stăpânului locului era More; iar acestea erau două câmpii sau mai multe, ale unui om numit Mamre, fratele lui Eșcol și fratele lui Aner.<br><br>«Care sunt în Hebron»: în hotarul Hebronului.<br><br>«Și a construit acolo un altar Domnului.» Căci chema acolo oamenii la Numele Domnului, la locul altarului pe care l-a construit; și în orice loc în care își statornicea locul, construia un altar și chema Numele Domnului."
+   },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Hebron, unde Avram se stabilește acum, e printre cele mai vechi orașe continuu locuite din regiune, iar Mamre (identificat cu situl actual Ramat el-Khalil) rămâne un loc central pentru toată povestea patriarhilor — aici va fi cumpărat mai târziu și mormântul familiei (cap. 23)."

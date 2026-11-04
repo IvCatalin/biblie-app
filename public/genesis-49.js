@@ -279,7 +279,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Iuda – frații tăi te vor lăuda» (yoduka): pentru regalitate; căci regalitatea pe care am luat-o de la Ruben ți-am dat-o ție, și frații tăi îți vor recunoaște regalitatea, cum s-a spus: „Și toate triburile lui Israel au venit la David, la Hebron”, ca să-l facă rege pe David. Și în Bereșit Rabba: când a văzut Iuda că i-a pomenit lui Ruben păcatul lui, și lui Simeon și Levi păcatul lor, s-a temut Iuda ca nu cumva să-i pomenească fapta cu Tamar; a început să-l cheme: „Iuda – frații tăi te vor lăuda”, ca să fii rege peste ei.<br><br>«Fiii tatălui tău ți se vor prosterna»: când te vor vedea izbutind, ți se vor prosterna și vor spune că ție ți se cuvine regalitatea. Iar Isaac i-a spus lui Iacov „fiii mamei tale”, căci nu avusese altă soție decât pe Rebeca; iar Iacov i-a spus lui Iuda „fiii tatălui tău”, pentru că avea patru soții, și toți fiii erau fiii unui singur tată."
+    "text": "«Iuda – frații tăi te vor lăuda» (yoduka): pentru regalitate; căci regalitatea pe care am luat-o de la Ruben ți-am dat-o ție, și frații tăi îți vor recunoaște regalitatea, cum s-a spus: „Și toate triburile lui Israel au venit la David, la Hebron”, ca să-l facă rege pe David. Și în Bereșit Rabba: când a văzut Iuda că i-a pomenit lui Ruben păcatul lui, și lui Simeon și Levi păcatul lor, s-a temut Iuda ca nu cumva să-i pomenească fapta cu Tamar; a început să-l cheme: „Iuda – frații tăi te vor lăuda”, ca să fii rege peste ei.<br><br>«Mâna ta este pe grumazul dușmanilor tăi»: acesta este David, care i-a biruit pe toți dușmanii lui în război; și la fel a spus: „Pe dușmanii mei Tu mi i-ai dat cu spatele (ʿoref)”.<br><br>«Fiii tatălui tău ți se vor prosterna»: când te vor vedea izbutind, ți se vor prosterna și vor spune că ție ți se cuvine regalitatea. Iar Isaac i-a spus lui Iacov „fiii mamei tale”, căci nu avusese altă soție decât pe Rebeca; iar Iacov i-a spus lui Iuda „fiii tatălui tău”, pentru că avea patru soții, și toți fiii erau fiii unui singur tată."
    }
   ]
  },
@@ -975,7 +975,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Toate acestea sunt triburile lui Israel, douăsprezece»: a spus aceasta pentru că Iosif era două triburi; cu toate acestea nu erau decât douăsprezece la împărțirea țării, căci Levi nu a luat parte în țară; și iată douăsprezece triburi.<br><br>«Pe fiecare după binecuvântarea sa»: cu binecuvântarea care avea să vină asupra fiecăruia i-a binecuvântat."
+    "text": "«Toate acestea sunt triburile lui Israel, douăsprezece»: a spus aceasta pentru că Iosif era două triburi; cu toate acestea nu erau decât douăsprezece la împărțirea țării, căci Levi nu a luat parte în țară; și iată douăsprezece triburi.<br><br>«Și aceasta este ceea ce le-a vorbit tatăl lor»: „aceasta” sunt cele ce aveau să vină, sau profeția.<br><br>«Și i-a binecuvântat»: când și-a încheiat cuvintele despre ceea ce avea să li se întâmple, i-a binecuvântat; și n-a pomenit binecuvântarea cu care i-a binecuvântat, ci a spus „pe fiecare după binecuvântarea sa”: cu binecuvântarea care avea să vină asupra fiecăruia i-a binecuvântat."
    }
   ]
  },
@@ -1000,6 +1000,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«Îngropați-mă cu părinții mei» „El avotai: împreună cu părinții mei” – cuvintele lui Rashi. Dar n-a explicat el ha-meʿara („în peștera”), care nu este „împreună cu”. Și se poate ca limbajul versetului acestuia să fie prescurtat: îngropați-mă și duceți-mă la părinții mei, la peșteră; căci așa a spus: „iar tu să mă duci din Egipt („Mițrayim”)”, și „Fiii lui l-au dus”. Și se poate ca el să slujească în multe feluri: „Îngropați-mă împreună cu părinții mei”, ca „Să nu iei pe o femeie și pe sora ei”, adică împreună cu sora ei; el ha-meʿara – „în peștera”, ca „iar în chivot să pui Mărturia”, „iată, el s-a ascuns între bagaje”; și tot așa: „Și după aceasta, Avraam a îngropat-o” etc. „în peștera”. Iar Rabbi Avraham a spus că sensul lui „Îngropați-mă cu părinții mei” este că vor merge cu Iosif. Iar Iacov n-avea nevoie de aceasta; dar le-a poruncit tuturor acum să-l îngroape în peșteră, precum îl pusese pe Iosif să jure, căci s-a temut că poate Faraon nu-i va da voie lui Iosif să iasă din țară, ca să nu zăbovească în țara lui; și oare nu vezi că Iosif a trebuit să se roage de casa lui Faraon ca să ceară pentru el de la Faraon să meargă? Iar el a răspuns: „precum te-a pus să juri”, căci, din pricina jurământului, se va învoi cu aceasta."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și le-a poruncit»: după ce i-a binecuvântat, le-a poruncit să-l îngroape în mormântul părinților lui; deși îi poruncise lui Iosif aceasta, le-a poruncit și celorlalți fii ai lui, ca toți să fie sârguincioși la îngroparea lui.<br><br>«Cu părinții mei» (ʾel ʾavotai): ca „împreună cu părinții mei”; și la fel: „Să nu iei o femeie împreună cu (ʾel) sora ei”.<br><br>«În peștera» (ʾel ha-meʿarah): ca „în peșteră”; „iar în (ʾel) chivot să pui Mărturia”, ca „în chivot”."
    }
   ]
  },
@@ -1024,6 +1028,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
     "text": "«În peșteră.» Sensul simplu: îngropați-mă în peșteră. Și dacă vei spune: erau multe câmpuri și multe peșteri, și nu vei ști în care, de aceea s-a spus: „care este în câmpul Macpela”. Și dacă vei spune: poate vor protesta împotriva voastră, Scriptura spune: „pe care a cumpărat-o Avraam”. Și dacă vei spune: poate n-a cumpărat-o de la un om care avea putere s-o vândă, Scriptura spune: „de la Efron hititul”, care era căpetenia țării. Și dacă vei spune: poate a vândut-o pentru semănat acolo și nu-i vor lăsa să facă acolo cimitir, Scriptura spune: „ca posesiune funerară”. Și dacă vei spune: poate acea cumpărare n-a avut luare în stăpânire (ḥazaqah), căci n-au luat-o în stăpânire, Scriptura spune: „Acolo l-au îngropat pe Avraam”. Și dacă vei spune: poate pentru că a vândut-o Efron, care era căpetenia țării, poporul n-a putut să protesteze împotriva lui, dar a vândut-o fără voia lor, și poate acum vor protesta împotriva noastră, Scriptura spune: „de la fiii lui Het”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«În peștera»: iar motivul pentru care a pomenit peste tot cumpărarea am scris în pericopa „Și au fost anii vieții Sarei”."
    }
   ]
  },
@@ -1040,6 +1048,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«acolo i-au îngropat pe Isaac» Iar sensul lui „acolo i-au îngropat pe Isaac” – că n-a spus „am îngropat” – este pentru că Esau fusese cu el la îngroparea tatălui lor, și nu vrea acum să-l amintească; și încă, ca să nu fie nevoie acum să lungească spunând „acolo l-am îngropat pe Isaac, și acolo au îngropat-o pe Rebeca, soția lui”, căci el n-a fost la îngroparea mamei lui. Și le-a amintit în porunca lui peștera și pe cei îngropați în ea, ca să mărească locul, ca să se grăbească să-l îngroape acolo. Și a spus „pe care a cumpărat-o Avraam cu câmpul… ca posesiune funerară” ca să facă cunoscut că Avraam a poruncit ca locul acela să le fie loc de îngropare, ca posesiune veșnică. Dar mai jos, când a spus „și l-au îngropat în peștera din câmpul Macpela, pe care îl cumpărase Avraam… ca posesiune funerară”, Scriptura a vrut să facă aluzie că în Iacov s-a desăvârșit intenția celui drept, căci pentru ei trei a cumpărat-o, și nu va mai fi îngropat în ea niciun om; și de aceea Iosif n-a poruncit să-l îngroape în peșteră cu părinții lui. Și am văzut în Mekhilta lui Rabbi Șimon ben Yoḥai că Iosif le-a spus: „Și când mă veți urca, îngropați-mă în orice loc veți vrea; am primit prin tradiție că eu nu intru în îngroparea părinților, căci nu intră în mormântul părinților decât trei părinți și trei mame, căci s-a spus: Acolo i-au îngropat pe Avraam etc.; și spune: «În mormântul meu, pe care mi l-am săpat» – în mine se încheie”. Și se poate că le-a făcut aluzie spunând „și acolo am îngropat-o pe Lea”, că el pusese deja stăpânire pe peșteră; și a spus aceasta împotriva lui Esau, ca să nu conteste el și fiii lui îngroparea lui, pretinzând că peștera este a lui, căci el este întâiul-născut și el este cel cuvenit să fie îngropat cu părinții lui; și, deși s-a dus în altă țară, l-ar fi purtat de acolo, cum l-au purtat fiii lui pe Iacov, căci ar vrea să fie îngropat cu părinții lui cei sfinți și să se unească cu ei în îngropare; iar dacă va fi îngropat acolo Esau, nu va fi îngropat acolo Iacov, căci două familii nu au un singur loc de îngropare. Și aceasta este de asemenea ce a spus: „În mormântul meu, pe care mi l-am săpat” – că își săpase deja mormântul, ca să pună stăpânire pe el. Și acesta este sensul lui „Și au urcat cu el și care și călăreți”, căci știa obrăznicia lui Esau și a fiilor lui. Și așa a fost faptul; căci am găsit în cartea cronicilor lui Yosef ben Gurion și în alte cărți de antichități că a venit Țefo, fiul lui Elifaz, fiul lui Esau, și a făcut ceartă cu ei pentru aceasta, până ce s-au rânduit la război; și mâna lui Iosif a biruit, și l-au prins împreună cu cei mai aleși din cetele lui și i-au adus în Egipt („Mițrayim”); și a stat acolo în închisoare toate zilele lui Iosif, și a fugit de acolo la moartea lui și s-a dus în țara Campania și a domnit peste Chitim, în Roma; și la urmă a fost făcut rege peste toată țara Italiei; și el este cel care a domnit întâi peste Roma, și el este cel care a zidit templul cel dintâi și cel mai mare dintre cele zidite în Roma. Și de asemenea învățătorii noștri au amintit din acest lucru, de cearta lui Esau pentru peșteră. Iar versetul care spune aici „Și s-a întors Iosif în Egipt – el și frații lui și toți cei care urcaseră cu el ca să-și îngroape tatăl – după ce și-a îngropat tatăl” vine să facă aluzie că n-a murit niciunul dintre ei nici în război, nici pe drum, căci le-a stat în ajutor meritul profetului și meritul lui Iosif, care urcaseră cu el. Iar Iosif n-a poruncit, cum a poruncit tatăl lui, să-l poarte acum la mormântul lui, în țară, căci casa lui Faraon nu-l va lăsa, căci este spre cinstea lor; și încă, dacă vor merge cu el frații lui și casa tatălui lui, oamenii țării le vor jefui și le vor fura tot ce au; și nu este cale de cinste să-l ducă acolo alții.<br><br>«Și Iosif le-a spus fraților săi: „Eu mor”» – căci frații lui erau vii, căci au trăit mai multe zile decât el, cum vezi la Levi. Și a spus: „Apoi Iosif i-a pus pe copiii lui Israel să jure”, căci, văzând că frații lui sunt bătrâni, i-a pus să jure pe toți fiii lor și toată casa tatălui său să le poruncească și fiilor fiilor lor pentru vremea mântuirii, căci toți cunoșteau exilul."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Acolo i-au îngropat»: Isaac și Ismael.<br><br>«I-au îngropat pe Isaac»: și n-a spus „l-am îngropat”, deși el și Esau l-au îngropat, pentru că n-a voit să se asocieze cu Esau, care era nelegiuit."
    }
   ]
  },
@@ -1083,6 +1095,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
     "text": "«Și-a tras picioarele pe pat.» Pentru că le scosese afară când a vrut să-i binecuvânteze pe fiii lui Iosif, cum este scris: „Și Israel și-a adunat forțele și a șezut pe pat”; și când a terminat să-i binecuvânteze, le-a băgat în pat."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și-a tras picioarele pe pat»: căci, cât vorbea cu ei, se întărea și ședea pe pat, cu picioarele afară din pat; iar când a terminat de vorbit, și-a strâns picioarele în pat și s-a culcat pe pat.<br><br>«Și s-a stins»: așa este la moartea celor drepți, o moarte ușoară, fără suferință. Și există o interpretare: pentru că nu a spus „și a murit”, au spus: „Iacov, părintele nostru, nu a murit”; iar la Moise s-a spus „și a murit”, și au spus în interpretare: „Învățătorul nostru nu a murit”; și este adevărat, căci cei drepți nu mor.<br><br>«Și a fost adăugat la poporul său»: l-am explicat."
    }
   ]
  }

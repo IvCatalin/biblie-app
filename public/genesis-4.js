@@ -216,8 +216,16 @@ window.CHAPTER_DATA = [
     "text": "«Iar omul a cunoscut-o.» Lucrul acesta se petrecuse deja mai înainte, înainte să păcătuiască și să fie izgonit din grădina Edenului; și tot așa sarcina și nașterea. Căci dacă ar fi scris „și a cunoscut omul” (va-yedaʿ adam), s-ar fi înțeles că după ce a fost izgonit a avut copii.<br><br>«Cain (Qayin).» După cuvântul „am dobândit” (qaniti).<br><br>«Cu ajutorul Domnului (et Adonai).» Ca „împreună cu (ʿim) Domnul”: când m-a creat pe mine și pe bărbatul meu, El singur ne-a creat; dar la acesta suntem părtași cu El.<br><br>«Pe Cain… pe fratele său, pe Abel.» Cei trei et sunt cuvinte de cuprindere; ne învață că o geamănă s-a născut cu Cain, iar cu Abel s-au născut două. De aceea s-a spus „și iarăși a născut”."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Iar omul.» Când a văzut că nu va trăi veșnic cu trupul lui însuși, a fost nevoit să facă să trăiască specia; de aceea ea a spus „am dobândit un om cu ajutorul Domnului”; și nu este acolo pomenire a cuvântului Elohim. Căci iată, se găsește pe pământ în specie așa cum este sus în ființele înseși. Iar cuvântul „bun” este general – și tot așa este scris „și Dumnezeu a văzut tot ce făcuse, și iată, era foarte bun” –, iar „rău” este parțial."
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«și ea a zămislit și l-a născut pe Cain» Sensul lui este: și a născut un fiu și i-a pus numele Cain, căci a spus: „Am dobândit (qaniti) un om cu ajutorul Domnului”; și tot așa „și l-a născut pe Enoh”, și multe în pericopă și în alte locuri. „Cu ajutorul (et) Domnului – cu Domnul: când m-a creat pe mine și pe bărbatul meu, El singur ne-a creat, dar în acesta suntem părtași cu El” – cuvintele lui Rashi. Iar ce este corect pentru mine: că a spus: acest fiu îmi va fi o dobândire pentru Domnul, căci, când vom muri, va fi în locul nostru ca să-L slujească pe Creatorul său. Și aceasta este și părerea lui Onkelos, care a spus „dinaintea Domnului”; și ca el „și să fie arătată (et) preotului”, adică preotului; „Și David s-a apropiat de (et) popor”, adică de popor. Sau „et ha-Șem” poate fi ca în „Enoh a mers cu Dumnezeu”; „cu Dumnezeu mergea Noe”. Și l-a numit pe unul cu numele „dobândire”, iar pe al doilea Abel, căci dobândirea omului se aseamănă cu o suflare (hevel); și n-a vrut să lămurească aceasta, de aceea nu s-a scris motivul la numele celui de-al doilea. Iar taina primită prin tradiție în privința lui Abel este foarte mare."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar omul a cunoscut-o pe Eva, soția sa.» De vreme ce i se născuse puterea poftei, și soției lui de asemenea, a cunoscut-o, și ea a zămislit, și după aceea a născut, la șapte luni sau la nouă. Și nu este dovadă din aceasta că a zămislit și a născut într-o singură zi, după cuvintele midrașului, căci iată, la Sara a spus la fel: „Și Sara a zămislit și i-a născut”.<br><br>«Și l-a născut pe Cain.» A născut un fiu căruia i-a pus numele Qayin, pentru că a spus: „Am dobândit (qaniti) un om cu ajutorul Domnului”; și, deși sunt două rădăcini, cu același sens. Învățătorii noștri, binecuvântată fie amintirea lor, au explicat „Am dobândit un om cu ajutorul Domnului”: am adus în lume un om a cărui creare nu a fost ca a unuia dintre noi, și l-am dobândit împreună cu Numele, căci El a pus în el partea Lui, căci a suflat în el suflare. Iar „am dobândit” este ca sensul lui „Creatorul (qoneh) cerurilor și pământului”, adică cel care a adus lumea la existență; și și-a atribuit sieși fapta, pentru că ea este temeiul aducerii pruncului la existență, iar în pântecele ei a fost plăsmuit și a crescut până a ieșit. Și nu a pomenit decât Numele propriu singur, și nu a pomenit Elohim împreună cu el, căci zidirea lumii s-a desăvârșit odată cu nașterea lui Cain; căci după ce făpturile au început să nască pentru lume, lumea, de aici înainte, merge, crește și se înmulțește după mersul lumii, cum a spus: „pe care o crease Dumnezeu spre a fi făcută”; iar despre zidirea lumii s-a pomenit Elohim, cum am explicat; și de aici înainte se pomenește uneori Numele cel slăvit, alteori Elohim, iar în puține locuri amândouă împreună, și totul are un motiv. Iar înțeleptul Rabbi Avraham ibn Ezra a scris despre aceasta: „și nu este acolo pomenit cuvântul Elohim, căci iată, se găsește în specie, așa cum este sus în substanțe”; și cât de bună este explicația lui pentru cel care înțelege!"
    },
    {
     "author": "Zohar, Idra Raba 47:1",
@@ -416,6 +424,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Și Abel a devenit păstor de turme.» Care era o îndeletnicire a înțelepciunii mai mult decât îndeletnicirea lucrării pământului.<br><br>«Iar Cain era lucrător al pământului.» Și astfel fiecare dintre ei a adus din ce îi venea la îndemână."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și iarăși a născut: pe fratele său, pe Abel.» Spunând „Și iarăși a născut”, și nu spunând „și a zămislit din nou și a născut un fiu”, este un sprijin pentru cuvintele învățătorilor noștri, binecuvântată fie amintirea lor, care au spus că Cain și Abel s-au născut gemeni, căci s-a spus „Și iarăși a născut” – adăugare la naștere, și nu adăugare la sarcină; și au mai spus că fiecare dintre ei s-a născut cu sora lui geamănă cu el. Și la fel au spus învățătorii noștri, binecuvântată fie amintirea lor: trei minuni s-au făcut în aceeași zi: în aceeași zi au fost creați, în aceeași zi s-au împreunat, în aceeași zi au scos urmași. A spus Rabbi Yehoșua ben Qorḥa: au urcat în pat doi și au coborât șapte: Cain și geamăna lui, și Abel și cele două gemene ale lui. Și nu a pomenit de ce l-a numit Abel, după cum nu s-au scris motivele numelor celorlalți urmași, de la Set până la Noe. Și poate l-a numit Abel în sensul lui „Numai deșertăciune (hevel) sunt fiii oamenilor, minciună fiii omului”, căci nu rămân într-o singură stare; și dacă are un bine, se curmă repede, așa cum au văzut ea și bărbatul ei, când erau în bine în grădină și au fost izgoniți de acolo spre trudă și osteneală; și ca amintire a acestui lucru l-au numit Abel, ea și bărbatul ei.<br><br>«Și Abel a devenit păstor de turme, iar Cain era lucrător al pământului.» Când au crescut, s-au împărțit în îndeletnicirile lor, pentru nevoile vieții lor: acesta era păstor de turme, ca să mănânce laptele și ca să tundă oile, ca să facă din lâna lor haine; căci nu mâncau carne, pentru că Dumnezeu nu le dăduse omului și soției lui să mănânce decât iarba și rodul pomului, sau pâine după multă osteneală, cum am scris; și la fel s-au obișnuit cu aceasta toate generațiile până la potop, când Dumnezeu i-a dat lui Noe să mănânce carne, căci i-a spus: „Tot ce mișună, ce este viu, să vă fie drept hrană”."
    }
   ]
  },
@@ -560,6 +572,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«După o vreme» – în care Cain lucrase pământul – a adus prinosul la locul pe care îl hotărâse pentru rugăciunea lui. Și nu sunt drepte în ochii mei cuvintele celor care spun că prinosul l-a adus tatălui său. Iar pentru că este scris „din întâii născuți ai turmelor lui”, este un sprijin că Cain n-a adus din primele roade."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Cain a adus din rodul pământului un prinos Domnului» „Și Abel a adus și el”: acești oameni au înțeles o mare taină a jertfelor și a prinoaselor, și tot așa Noe. Iar învățătorii noștri au spus că și Adam, omul cel dintâi, a adus un taur ca jertfă. Și aceasta va astupa gura celor care tulbură în privința sensului jertfelor. Și voi mai face aluzie în aceasta la un temei mare în voia Celui Sfânt, binecuvântat fie El."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Un prinos (minḥah).» Expresie de dar, de la rădăcina lui „du (neḥeh) poporul”. Adică: dacă faci bine, încât să nu faci păcate decât puține, „vei ridica” (seʾet): vei putea să-ți porți păcatele, și nu se vor îngreuna păcatele tale asupra ta."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«După o vreme (mi-qeṣ yamim).» De la vremea în care a început să lucreze pământul, după un timp, i-au adus un prinos Domnului; și nu a pomenit câte zile. Și se poate explica yamim ca un an, ca: „un an de zile (yamim) să fie dreptul ei de răscumpărare”; adică, după un an de când lucra pământul, I-a adus, din ce îi scosese pământul, un prinos, în locul pe care i-l hotărâse Adam pentru rugăciune și pentru jertfă, și la fel fiii lui cu el; căci, după cum se pare, Adam a adus jertfă Domnului din rodul pământului, din oi și din vite, și aceasta este calea mulțumirii către Dumnezeu, deși Scriptura nu a pomenit nimic din aceasta. Și la fel au spus învățătorii noștri, binecuvântată fie amintirea lor: „taurul pe care l-a jertfit primul om avea un singur corn în frunte, căci s-a spus: «cu coarne (maqrin) și cu copite despicate»”. Iar fiii lui au învățat de la el și au adus fiecare din munca cu care se îndeletnicea, și ca să-I mulțumească lui Dumnezeu pentru binele pe care i l-a dat în munca lui. Și a spus „din rodul”, și nu a pomenit din ce rod, și s-ar părea că era din cel mai prost; sau, după ce a mâncat el, a adus din ce îi rămăsese înainte; și toate acestea sunt pe cale de dispreț; de aceea nu a fost primită jertfa lui. Și nici nu a adus din primele roade, căci, dacă ar fi adus, ar fi spus așa cum a spus la Abel; de aceea nu a fost primită jertfa lui. Iar în midraș: sămânță de in a adus; de aceea au fost oprite amestecurile la haine, ca să nu se amestece ce este din prinosul lui Cain cu ce este din prinosul lui Abel."
    },
    {
     "author": "Zohar, Tețave 4:1",
@@ -740,8 +764,24 @@ window.CHAPTER_DATA = [
   "fidela": "Şi Abel, de asemenea, a adus din întâii născuţi ai turmei sale şi din grăsimea lor. Şi DOMNUL s-a uitat cu plăcere la Abel şi la darul său.",
   "commentaries": [
    {
+    "author": "Rashi (1040–1105)",
+    "text": "«S-a îndreptat (va-yyișaʿ).» S-a întors spre el. Și tot așa „iar spre prinosul lui nu S-a îndreptat (lo șaʿah)” — nu S-a întors; și tot așa „și nu se va îndrepta (ve-lo yișʿeh)” — nu se va întoarce; și tot așa „întoarce-Ți privirea (șeʿeh) de la el” — întoarce-Te de la el.<br><br>«S-a îndreptat.» A coborât foc și a mistuit prinosul lui."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«S-a îndreptat (wa-yyišaʿ).» După forma lui wa-yyiḥar le-Qayin; iar sensul lui este ca „a primit”; iar cel mai apropiat de el este „întoarceți-vă privirea (šeʿu) de la mine”, după calea tainei jertfei. Și se poate să fi coborât focul și să fi prefăcut în cenușă prinosul lui Abel, și nu prinosul lui Cain. Iar după părerea mea, anul întreg se numește yamim („zile”); și tot așa este scris: „zile (yamim) va fi răscumpărarea lui”, pentru că zilele se întorc în lungime sau în scurtime cum erau la început. Și tot așa „din zile în zile (mi-yamim yamimah)”; iar explicația lui „doi ani de zile (šenatayim yamim)” este doi ani întregi; iar dacă s-ar fi scris doar šenatayim, s-ar putea să nu fie întregi, de la zi la zi. Și tot așa „o lună de zile”, că luna se întoarce cum era. De aceea am spus în explicația lui Daniel că „zile: o mie două sute nouăzeci” sunt zile, și nu ani, pentru că sunt în număr."
+   },
+   {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Spre Abel și spre prinosul lui.» Căci Abel, cel care aducea, era plăcut, și prinosul lui era de asemenea plăcut, căci era din specia potrivită pentru a fi plăcută."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Și Domnul S-a îndreptat spre Abel și spre prinosul lui.» De aici este un răspuns pentru ereticii care tăgăduiesc lumea care va veni: căci prin ce S-a îndreptat spre el, de vreme ce a fost ucis îndată? Ci fără voia ta trebuie să spui că i-a primit jertfa și l-a făcut vrednic de lumea care va veni."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar Abel a adus și el.» Înainte de Cain sau după el; iar dacă a fost înainte, expresia „și el” este despre povestire, nu despre faptă.<br><br>«Din întâii născuți ai turmelor lui și din cele mai de seamă oi (u-me-ḥelvehen).» Acesta a adus cu cinste din întâii născuți, înainte să se folosească el de cele născute, de lapte și de lână; și a adus de asemenea din cele grase dintre ele, ca în Targum: „și din cele grase ale lor”; iar meḥelvehen va fi un adjectiv pe cântarul lui malkehen; și meḥelvehen este fără yod-ul pluralului în scriere. Și nu a pomenit dacă a zidit altar sau nu, cum a spus la Noe: „Și Noe a construit un altar Domnului”. Și mi se pare că nu a înjunghiat jertfa, ci a lăsat-o vie, legată în acel loc hotărât pentru el, ca să coboare asupra ei foc din cer ca s-o mistuie, cum se făcea jertfei tatălui lui; căci nu înjunghiau, pentru că nu mâncau carne. Și în Bereșit Rabba: „Abel a jertfit fără jupuire și tăiere în bucăți, iar de atunci înainte, cu jupuire și tăiere în bucăți”. Și mai este o neînțelegere în privința jertfei lui Abel în expunerile învățătorilor noștri, binecuvântată fie amintirea lor: unii spun că a adus ardere-de-tot, iar alții spun că a adus jertfe de pace (šelamim). Și dovada pentru cuvintele celui care spune jertfe de pace: me-ḥelvehen – o jertfă din care se aduc grăsimile; dar arderea-de-tot era toată ars întreg; iar după cuvintele lui, restul l-a lăsat vietăților și păsărilor, căci el nu l-a mâncat, pentru că nu mâncau carne. Iar dovada pentru cuvintele celui care spune ardere-de-tot: căci este scris: „ea fiind arderea-de-tot” – un lucru pe care fiii lui Noe îl aduceau; iar meḥelvehen va fi ca în Targumul lui: „din cele grase ale lor”.<br><br>«Și Domnul S-a îndreptat spre Abel și spre prinosul lui.» Voința lui Dumnezeu a fost spre Abel, căci a văzut că intenția lui era bună; și la fel voința Lui a fost spre prinosul lui, care era cinstit și vrednic de adus."
    },
    {
     "author": "Ioan Gură de Aur (cca. 347–407), Omilii la Facere, Omilia 18",
@@ -898,6 +938,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Iar spre Cain și spre prinosul lui nu S-a îndreptat.» Nu S-a îndreptat spre Cain, cel care aducea, căci nu era plăcut, și de asemenea nici spre prinosul lui, căci nu era potrivit pentru a fi plăcut.<br><br>«Și Cain s-a mâniat.» În gelozia lui față de fratele său, care era plăcut.<br><br>«Și fața i s-a posomorât.» De rușine, căci Dumnezeu l-a făcut să fie rușinat în nădejdea lui și nu l-a primit."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar spre Cain și spre prinosul lui nu S-a îndreptat.» Voința lui Dumnezeu nu a fost spre Cain, căci intenția lui nu era bună; și nici voința Lui nu a fost spre prinosul lui, căci era disprețuit. Și cum a știut aceasta? Căci prinosul lui Abel a fost mistuit și s-a coborât asupra lui foc din cer, dar nu s-a întâmplat așa prinosului lui Cain; și din pricina aceasta Cain s-a mâniat și fața i s-a posomorât: s-a mâniat în inima lui, iar fața i s-a posomorât, ca a unui om care este rușinat și umilit."
    }
   ],
   "fidela": "Dar la Cain şi la darul său nu s-a uitat cu plăcere. Şi Cain s-a înfuriat tare şi i s-a posomorât faţa.",
@@ -1028,6 +1072,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«De ce te-ai mâniat?» De ce ai fost gelos pe fratele tău, ca și cum ai fi îngrijorat pentru că am primit jertfa lui cu bunăvoință? Iată, aceasta nu a fost o voie simplă sau nedreaptă.<br><br>«Și de ce ți s-a posomorât fața?» Căci, când pentru o stricăciune există o oarecare îndreptare, nu se cuvine să te întristezi pentru ce a trecut, ci se cuvine să te străduiești să dobândești îndreptarea pentru viitor."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Domnul i-a spus.» Vorbirea a fost cu el ca să-l mustre și să-l așeze pe calea cea bună și ca să-l învețe calea pocăinței, pe el și generațiile care vin, căci păcătosul are ispășire dacă se întoarce cu pocăință deplină."
    }
   ]
  },
@@ -1224,6 +1272,14 @@ window.CHAPTER_DATA = [
     "text": "«Sigur, dacă faci bine.» Cu tine însuți, și te vei strădui să fii și tu plăcut.<br><br>«Vei fi iertat (se'et).» Înălțimea treptei și înălțarea stau culcate înaintea ta și sunt pregătite să fie ale tale.<br><br>«Dar dacă nu te îndrepți, păcatul te pândește.» De asemenea păcatul este pregătit înaintea ta, căci vei adăuga la păcatul tău fărădelege, căci acesta este obiceiul îndemnului rău.<br><br>«Și spre tine este dorința lui.» Căci te vei întoarce spre el ca să-i împlinești poftele, cum au spus înțelepții noștri, binecuvântată fie amintirea lor: „Îndemnul omului se întărește asupra lui în fiecare zi.”<br><br>«Dar tu îl poți stăpâni.» În mâna ta este să te ridici împotriva lui prin imaginea lui Dumnezeu, cum au spus acolo: „Și dacă Cel Sfânt, binecuvântat fie El, nu l-ar ajuta, nu l-ar putea birui, căci s-a spus: «Domnul nu-l va lăsa în mâna lui».”"
    },
    {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Dar dacă nu te îndrepți.» La ușa păcatului tău vei fi culcat; adică: dacă vei face multe păcate, vei fi culcat sub păcat și sub nelegiuire, încât nu le vei putea purta și îndura."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Sigur, dacă faci bine, vei fi iertat (seʾet).» Dacă îți vei face bune inima și faptele, vei avea seʾet, adică ispășire și iertare, ca: „care iartă (nośeʾ) păcatul”. Iar înțeleptul Rabbi Avraham ibn Ezra a explicat seʾet cu sensul de ridicare: pentru că a spus că i s-a posomorât fața, Dumnezeu i-a spus: dacă vei face bine, îți vei ridica fața în locul faptului că i-a căzut; sau: Îmi voi ridica fața spre tine. Și în Bereșit Rabba: „dacă faci bine – seʾet, binecuvântare; iar dacă nu faci bine – seʾet, blestem. Altă explicație: dacă faci bine – seʾet: îți iert toate nelegiuirile; iar dacă nu faci bine – păcatul acelui om este plin și preaplin. Rabbi Berekhya în numele lui Rabbi Șimon bar Ḥama a spus: «Ferice de cel căruia i s-a iertat (nesuy) fărădelegea, căruia i s-a acoperit păcatul» – ferice de omul care este mai înalt decât păcatul lui și decât fărădelegea lui, și nu fărădelegea lui mai înaltă decât el”.<br><br>«Păcatul te pândește (la-petaḥ ḥaṭṭat roveṣ).» La ușa ta va fi păcatul pândind, încât te vei poticni de el pururi, la ieșirea și la intrarea ta; adică nelegiuirea care este cu tine – te vei poticni de ea pururi, ca și cum o piatră de poticnire ar fi fixată la ușa ta, încât te vei poticni de ea pururi, la ieșirea și la intrarea ta. Iar spunând despre ḥaṭṭat, la masculin, roveṣ, înseamnă: acest lucru care pricinuiește păcatul, și acesta este înclinația spre rău; și el este șarpele, și el este Satan. Și în Bereșit Rabba: „nu este scris aici rovaṣat, ci roveṣ: la început slab ca o femeie, iar la urmă se întărește ca un viteaz”.<br><br>«Și spre tine este dorința lui.» Că va dori pururi spre tine, te va rătăci și va pofti să te facă să te poticnești.<br><br>Tešuqato are sensul de poftă și dorință; și la fel: „și către bărbatul tău îți va fi dorința (tešuqatekh)”. «Dar tu îl poți stăpâni.»<br><br>El te va stăpâni și te va face să te poticnești, dacă nu îl vei îndepărta de la tine; iar dacă vei voi, tu îl vei stăpâni și îl vei supune înaintea ta. Și prin aceasta i-a arătat puterea dată prin alegere, cum a spus Moise, învățătorul nostru, pacea fie asupra lui: „Privește, ți-am pus înaintea ta astăzi viața și binele, și moartea și răul… Să alegi viața”."
+   },
+   {
     "author": "Talmudul Babilonian",
     "text": "În lucru: traducerea acestui comentariu urmează."
    }
@@ -1397,6 +1453,18 @@ window.CHAPTER_DATA = [
     "text": "«Și Cain a vorbit fratelui său Abel» Și sensul lui „Și Cain a vorbit fratelui său Abel”: „că a intrat cu el în cuvinte de ceartă și de dispută, ca să se năpustească asupra lui și să-l ucidă” – cuvintele lui Rashi. Iar Rabbi Avraham a spus că mai aproape este că i-a spus toate mustrările cu care l-a mustrat Domnul. Iar după părerea mea, este legat de „Și a fost, când erau pe câmp”: căci i-a spus: Să ieșim la câmp, și l-a ucis acolo în ascuns. Și se poate că a urmărit, ucigându-l, ca lumea să fie clădită din el, căci a gândit că tatăl său nu va mai avea alți urmași; și s-a temut, de asemenea, ca nu cumva temelia clădirii lumii să fie din fratele său, al cărui prinos fusese primit."
    },
    {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și Cain a vorbit fratelui său Abel.» Că s-a mâniat și i s-a posomorât fața din pricina fratelui său.<br><br>«Și a fost, când erau pe câmp.» Nu în fața tatălui lor și a mamei lor.<br><br>«Cain s-a ridicat.» Fără ceartă dinainte atunci, ca: „și îl pândește și se ridică asupra lui”."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Și Cain a vorbit fratelui său Abel.» Explicație: că i-a povestit cuvintele Sfântului, binecuvântat fie El, și ce i-a spus, și i-a arătat că i-a fost foarte greu că nu S-a îndreptat spre el ca spre Abel; iar Abel s-a bucurat, „și Cain s-a ridicat asupra fratelui său Abel și l-a omorât” din gelozia lui. Și în numele lui Rabbi Yosef Qara am auzit: „Și Cain a vorbit” etc.: căci la început Abel se temea de Cain din pricina mâniei lui și se păzea de el; iar când Cel binecuvântat i-a spus: „Sigur, dacă faci bine, vei fi iertat”, îndată „Cain a vorbit fratelui său Abel”, adică i-a spus că Sfântul, binecuvântat fie El, S-a împăcat cu el și mânia Lui s-a întors de la el. Și de atunci încolo Abel a crezut că mintea lui se răcorise deja, și nu s-a mai ferit de el să meargă cu el."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Cain a vorbit fratelui său Abel.» Se pare că nu s-a pocăit și nu s-a căit în mintea lui, căci a cugetat să facă un rău mare și și-a ucis fratele.<br><br>Iar explicația lui „Și Cain a vorbit” este că i-a spus mustrările cu care l-a mustrat Dumnezeu și i-a spus: „Tu mi-ai pricinuit aceasta”, și altele asemenea; și a adăugat mânie și supărare. Și nu s-a ridicat asupra lui înaintea tatălui său, de frica tatălui său, ci a păstrat-o în el până ce au fost amândoi împreună pe câmp, acesta ca să-și pască oile, iar acela ca să-și lucreze pământul; și atunci Cain s-a certat cu fratele său, din mânia pe care o avea asupra lui din pricina pizmei, și s-a ridicat asupra lui și l-a omorât.<br><br>Iar el („către”) este ca ʿal („asupra”); și la fel: „și pe munți (el he-harim) nu a mâncat” și cele asemenea lui. Și în Bereșit Rabba: „«Și Cain a vorbit fratelui său Abel» – despre ce se judecau? Au spus: Vino să împărțim lumea; unul a luat pământurile, iar celălalt a luat lucrurile mișcătoare. Acesta a spus: pământul pe care stai este al meu; iar acela a spus: ce porți pe tine este al meu. Acesta a spus: dezbracă-te; iar acela a spus: zboară! Din pricina aceasta: «Cain s-a ridicat asupra fratelui său Abel și l-a omorât». Yehuda bar Ami a spus: pentru prima Eva se judecau. A spus Rabbi Aibo: prima Eva se întorsese în țărâna ei; și despre ce se judecau? A spus Rav Huna: o geamănă în plus s-a născut cu Abel; acesta a spus: eu o iau, căci eu sunt întâiul-născut; iar acela a spus: eu o iau, căci s-a născut cu mine”. Și trebuie cugetat la aceste lucruri, și vom mai scrie despre ele în sensul ascuns. Iar în Targumul Ierușalmi: „Și Cain i-a spus lui Abel, fratele său: Scoală-te și vino să ieșim la câmp. Și a fost, când au ieșit amândoi la câmp, Cain a răspuns și i-a spus lui Abel: Nu este judecată și nu este judecător și nu este altă lume și nu este răsplată bună pentru cei drepți și nici pedeapsă pentru cei răi, și nu cu milă a fost creată lumea și nu cu milă este condusă; de ce a fost primită jertfa ta de la tine cu bunăvoință, iar de la mine nu a fost primită cu bunăvoință? Abel a răspuns și i-a spus lui Cain: Este judecată și este judecător și este altă lume, și este acolo răsplată bună pentru cei drepți și pedeapsă pentru cei răi, și cu milă a fost creată lumea și cu milă este condusă, dar după rodul faptelor bune este condusă; și pentru că faptele mele au fost mai drepte decât ale tale, a fost primită jertfa mea de la mine cu bunăvoință, iar de la tine nu a fost primită cu bunăvoință. Și se certau amândoi la câmp, și Cain s-a ridicat asupra lui Abel, fratele său, și l-a ucis”."
+   },
+   {
     "author": "Zohar, Pekudei 21:30",
     "text": "Și după ce au păcătuit Adam și femeia, și a venit șarpele asupra Ḥavei și a aruncat în ea întinăciune, Ḥavah l-a născut pe Qayin; și chipul lui era chipul de sus (167a) și de jos, din taina întinăciunii celeilalte părți și din partea de jos. Și de aceea el a fost cel dintâi care a făcut moarte în lume, fiindcă partea lui a pricinuit-o. Calea șarpelui este să stea la pândă ca să ucidă; acela care vine din el ia calea lui și merge. Și de aceea este scris (Geneza 4:8): «Și a fost, când erau în câmp, Qayin s-a ridicat împotriva lui Hevel, fratele lui, și l-a ucis». (Bereshit 51b.)"
    }
@@ -1554,8 +1622,16 @@ window.CHAPTER_DATA = [
     "text": "«Unde este Abel, fratele tău?» Ca să intre cu el în vorbă cu blândețe; poate se va întoarce și va zice: Eu l-am omorât și am păcătuit față de Tine.<br><br>«Nu știu.» A ajuns ca unul care înșală știința Celui de Sus.<br><br>«Sunt eu oare păzitorul fratelui meu?» Este o întrebare de mirare; și tot așa orice he vocalizat cu ḥataf pataḥ."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar sensul lui ʾei („unde”) este ca ayyeh; iar cuvântul eifoh este compus din două cuvinte."
+   },
+   {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Unde este Abel, fratele tău?» În ce loc l-ai îngropat? Și aceasta a spus-o ca să se întoarcă, căci nu dorește moartea celui ce moare.<br><br>«Nu știu!» A crezut că întrebarea era: ce s-a întâmplat cu el, pentru că nu Îl căutase pe Domnul ca să dobândească profeție sau bunăvoință, ca mai înainte; căci Cain credea că Dumnezeu, binecuvântat fie El, nu cunoaște lucrurile în amănunt, decât la cei care se alipesc de El."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Domnul i-a spus.» A venit la el vorbirea ca să-i facă cunoscut că omul nu se poate ascunde de El, și toate treburile oamenilor sunt descoperite înaintea Lui; iar Cain a gândit să se ascundă de El, cum se ascunsese de tatăl său, căci îl omorâse pe câmp, într-un loc unde nu era om; și de asemenea a venit la el vorbirea ca să-i facă cunoscută pedeapsa pentru fărădelegea lui. Iar ceea ce i-a spus, „Unde este Abel, fratele tău?”, este ca deschidere a cuvintelor, cum i-a spus omului „Unde ești?” și i-a spus lui Moise, învățătorul nostru, „Ce ai în mână?” și cele asemenea lor. Iar faptul că Cain I-a răspuns „Nu știu” este pentru că încă se îndoia de cunoașterea Creatorului în treburile oamenilor; pentru că i-a spus „Unde este Abel, fratele tău?” și nu i-a spus „De ce l-ai omorât pe Abel, fratele tău?”, Cain a gândit că nu știe, și a tăgăduit și a spus: „Nu știu! Sunt eu oare păzitorul fratelui meu?” El merge la munca lui și eu merg la munca mea; și sunt eu oare păzitorul lui în orice loc în care merge cu oile lui? Dar Adam nu a tăgăduit, căci știa că Dumnezeu cunoaște toate cuvintele oamenilor; și, deși a început cu el într-o exprimare de îndoială și i-a spus „Unde ești?”, știa că totul este descoperit înaintea Lui, binecuvântat fie, și întrebarea nu a fost decât ca deschidere a cuvintelor; și nu s-a ascuns decât de rușine."
    }
   ],
   "fidela": "Şi DOMNUL i-a spus lui Cain: Unde este Abel, fratele tău? Iar el a spus: Nu ştiu; sunt eu păzitorul fratelui meu?",
@@ -1706,6 +1782,14 @@ window.CHAPTER_DATA = [
     "text": "«Sângele fratelui tău (deme aḥikha).» Sângele lui și sângele urmașilor lui. Altă explicație: pentru că i-a făcut multe răni, căci nu știa pe unde iese sufletul lui."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Strigă către Mine (ṣoʿaqim elai).» Nu este legat de „glasul”; și tot așa „glasul iubitului meu! Iată, el vine” – „vine” se întoarce la „iubitul meu”, cum am explicat în Cântarea cântărilor. Iar sensul este că a auzit strigătul sângelui lui, care a fost vărsat pe pământ. Iar Traducătorul a spus aceasta despre fiii lui, pe care era în puterea lui să-i nască."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Domnul a spus: „Glasul sângelui (deme) fratelui tău”.» Sângele fratelui tău, pe care l-ai vărsat, strigă către Mine din pământ, și glasul lui l-am auzit; și aceasta este pe cale de pildă: din pământul pe care ai vărsat sângele fratelui tău. Iar pluralul deme este ca alte plurale, ca: „sângele lui este asupra lui (damaw bo)”, „sângele lor este asupra lor (demehem bam)” și cele asemenea lor; și se spune la singular și la plural: la singular pentru că este unul, iar la plural pentru că cele patru umori sunt amestecate în el. Iar părerea Traducătorului este că a spus la plural despre fiii lui care aveau să iasă din el, căci a tradus: „glasul sângelui semințiilor care aveau să iasă din fratele tău”. Iar Abel încă nu născuse; sau nu își cunoscuse soția, ca și Cain, care nu și-a cunoscut soția decât după fapta aceasta; sau o cunoscuse și ea nu născuse."
+   },
+   {
     "author": "Mișna, Sanhedrin 4:5",
     "text": "Cum se înfricoșează martorii — martorii în judecăți de suflete? Îi aduceau înăuntru și îi înfricoșau: „Poate veți spune din presupunere, din zvon, «martor din gura unui martor», «din gura unui om vrednic de încredere am auzit»; sau poate nu știți că la sfârșit vă vom cerceta cu cercetare și cu anchetă. Să știți că nu sunt ca judecățile de bani judecățile de suflete. La judecățile de bani, omul dă bani și i se face ispășire; la judecățile de suflete, sângele lui și sângele urmașilor lui atârnă de el până la sfârșitul lumii. Căci așa am găsit la Qayin, care și-a ucis fratele, căci s-a spus: (Geneza 4:10) «sângiurile fratelui tău strigă» — nu spune «sângele fratelui tău», ci «sângiurile fratelui tău» — sângele lui și sângele urmașilor lui. Alt lucru: «sângiurile fratelui tău» — căci sângele lui era aruncat pe lemne și pe pietre. De aceea a fost creat omul singur, ca să te învețe că oricine nimicește un suflet din Israel, Scriptura îi socotește ca și cum ar fi nimicit o lume plină; și oricine păstrează un suflet din Israel, Scriptura îi socotește ca și cum ar fi păstrat o lume plină. Și pentru pacea făpturilor, ca omul să nu-i spună semenului său: «Tatăl meu este mai mare decât tatăl tău»; și ca ereticii (minim) să nu spună: «Multe stăpâniri sunt în ceruri»; și ca să vestească măreția Celui Sfânt, binecuvântat fie El: căci omul bate multe monede cu o singură pecete și toate seamănă una cu alta, iar Regele regilor regilor, Cel Sfânt, binecuvântat fie El, a bătut pe fiecare om cu pecetea omului dintâi, și niciunul dintre ei nu seamănă cu semenul său. De aceea fiecare este dator să spună: «Pentru mine a fost creată lumea.» Și poate veți spune: «Ce avem noi cu necazul acesta?» Oare nu s-a spus deja: (Leviticul 5:1) «și el este martor, sau a văzut, sau a știut; dacă nu va spune» etc. Și poate veți spune: «Ce avem noi să ne facem vinovați de sângele acestuia?» Oare nu s-a spus deja: (Proverbele 11:10) «La pieirea celor răi este cântare de bucurie».”"
    }
@@ -1851,8 +1935,20 @@ window.CHAPTER_DATA = [
     "text": "«Blestemat ești, mai mult decât pământul.» Mai mult decât fusese ea deja blestemată pentru vina ei; și în aceasta ea a adăugat la păcat,<br><br>«Care și-a deschis larg gura ca să ia sângele fratelui tău etc.» Iar Eu îi adaug blestem în privința ta: „nu-ți va mai da vigoarea lui”."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și acum, blestemat ești, mai mult decât pământul (min ha-adamah).» Că îi va veni lipsă din partea pământului pe care îl va semăna și îl va sădi, căci el era lucrător al pământului; iar pământul nu va mai da seceriș și rod, și va trebui să meargă într-o țară îndepărtată de locul lui Adam, tatăl lui, care este aproape de grădină; și nu se va liniști într-un loc, ci va rătăci."
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«blestemat ești, mai mult decât pământul» „Mai mult decât a fost blestemat el deja, pentru nelegiuirea lui; și și în aceasta a adăugat să păcătuiască, prin faptul că și-a deschis gura; și iată, Eu adaug pentru el un blestem: «nu-ți va mai da vigoarea lui»” – cuvintele lui Rashi. Și nu este corect, căci aici nu a blestemat pământul din pricina lui, ca la tatăl lui, ci a spus că el va fi blestemat de la pământ, și a lămurit blestemul: că nu-i va mai da vigoarea lui și că va fi rătăcitor și pribeag pe el. Și a spus: „Când vei lucra pământul”: căci în tot ce te vei trudi cu el ca să-l lucrezi cum se cuvine, cu aratul și cu săpatul și cu orice lucrare a câmpului, și îl vei semăna cum se cuvine, nu-ți va mai da vigoarea lui, ci vei semăna mult și vei aduna puțin. Și acesta este blestemul, ca în sensul lui „și voi blestema binecuvântările voastre”. Și a spus așa potrivit meșteșugului lui, căci el era lucrător al pământului, și iată, a blestemat lucrările lui. Și acesta este sensul lui „nu-ți va mai da vigoarea lui”: că nu-ți va mai da vigoarea lui, cum a făcut până acum, când îl lucrai. Și așa a explicat Rabbi Avraham. Și se poate că l-a blestemat de la pământ, ca el să nu-i dea de la sine vigoarea lui: smochinul și vița să nu-și dea bogăția în moșia lui, iar pomul câmpului să nu-i dea rodul lui; și a mai spus apoi: și când îl vei lucra, ca să arezi și să semeni, nu-ți va mai da vigoarea lui ca la început. Și iată, acestea sunt două blesteme în meșteșugul lui; iar al treilea: să fie rătăcitor și pribeag pe el. Și sensul este că inima lui nu se va odihni și nu se va liniști să stea într-un singur loc pe el, ci va fi pribeag pe veci, căci pedeapsa ucigașilor este exilul. Iar sensul lui „care și-a deschis larg gura” este a spune: Tu l-ai ucis pe fratele tău și i-ai acoperit sângele în pământ, iar Eu voi hotărî asupra lui să-și descopere sângele vărsat și să nu-i mai acopere pe cei uciși pe el; căci va fi pedepsit din pricina ta și în tot ce vei acoperi în el, cum sunt semănatul și sădirea. Și aceasta este pedeapsa oricărei vărsări de sânge pe pământ, după chestiunea care este scrisă: „căci sângele întinează țara”; iar întinarea țării este un blestem în roadele ei, după chestiunea „de când se venea la o grămadă de douăzeci, și erau zece; se venea la teasc ca să scoată cincizeci de măsuri, și erau douăzeci”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Blestemat ești, mai mult decât pământul.» Blestemat și lipsit de binele pământului.<br><br>«Care și-a deschis larg gura.» Căci te-ai folosit de el ca să acoperi uciderea fratelui tău, și, în schimbul acesteia, nu te vei mai folosi de el cum te-ai folosit mai înainte pentru nevoile vieții tale. Și nu a fost nevoie să explice pedeapsa ucigașului, căci judecata este lămurită în fire pentru orice vătămător: cum a făcut, așa i se va face."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și acum, blestemat ești, mai mult decât pământul (min ha-adamah).» Și în versetul care vine după el va explica blestemul; adică: din pământ îți va veni blestemul, căci nu-ți va mai da vigoarea lui.<br><br>«Care și-a deschis larg gura.» Căci sângele a fost înghițit în pământ; și la fel s-a spus: „Pământule, nu-mi acoperi sângele”,: „pe stânca goală l-a pus etc., ca să nu fie acoperit”."
    }
   ],
   "fidela": "Şi acum eşti blestemat de pe pământul care şi-a deschis gura să primească sângele fratelui tău din mâna ta.",
@@ -2016,6 +2112,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Rătăcitor și pribeag.» Nu ai îngăduința să locuiești într-un singur loc."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și pribeag (wa-nad).» Unii spun că wa-nad vine din „bocire”, ca „să-l compătimească (la-nud lo)”. Iar după părerea mea, nad este fratele lui naʿ („rătăcitor”), și ca el „iată, aș fugi departe, pribegind (nedod)”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«El nu-ți va mai da vigoarea lui.» Deși era blestemat de când a păcătuit Adam, acum a adăugat la blestem din pricina lui Cain; și a spus: chiar și ce era obișnuit să scoată după blestemul lui Adam nu va mai da, aici, ci mai puțin decât era obișnuit. Și se poate ca acest blestem să fi fost numai pentru Cain, sau pentru Cain și pentru seminția lui după el, și chiar pentru seminția lui Set, până la Noe. Și în expunerile învățătorilor noștri, binecuvântată fie amintirea lor: „Rabbi Eliʿezer spune: ție nu-ți dă, dar altora le dă; Rabbi Yose ben Ḥalafta a spus: nici ție, nici altora”. Și se pare că numai pentru el a fost blestemul; de aceea a legat blestemul de el și a spus: „blestemat ești, mai mult decât pământul”; dar la Adam, unde blestemul era pentru generații, a legat blestemul de pământ și a spus: „blestemat este pământul din pricina ta”.<br><br>«Rătăcitor și pribeag vei fi pe pământ.» Acesta este un alt blestem, și este numai pentru el. I-a spus că nu va putea sta într-un singur loc, ci Dumnezeu îi va pune în inimă să se gândească la blestemul pământului în roadele lui și să spună: „Voi merge în alt loc și voi semăna acolo; poate pământul îmi va da acolo vigoarea lui”; și tot așa, din loc în loc, în toate zilele vieții lui. Și nu l-a omorât după judecata oricărui ucigaș cu voie, pentru ca lumea să nu rămână pustie de oameni, căci Cain încă nu născuse, iar Adam nu avea să mai nască până la o sută treizeci de ani; de aceea nu l-a omorât, ci a hotărât asupra lui, afară de blestemul pământului, una dintre judecățile ucigașului, și aceasta este surghiunul, când i-a spus: „Rătăcitor și pribeag vei fi”. Iar „rătăcitor și pribeag” este o repetare a sensului în cuvinte deosebite, ca întărire. Și în expunerile învățătorilor noștri, binecuvântată fie amintirea lor: „«oricine îl ucide pe Cain» – nu ca judecata ucigașilor este judecata lui Cain: Cain a ucis și nu avea de la cine să învețe; de aici înainte, oricine ucide va fi ucis”. Și se poate de asemenea că a fost fără voie, căci piatra, sau ce era asemenea ei, cu care l-a lovit, nu a gândit că va muri de lovitura aceea, căci încă nu văzuse om ucis și nu a gândit că ar fi în ea destul ca să omoare; de aceea l-au judecat cu judecata celui care ucide fără voie, care este surghiunul, și i-a spus: „Rătăcitor și pribeag vei fi”. Și în Bereșit Rabba: naʿ – să se clatine din locul în care era; și nad – să nu aibă locuință în niciun loc, ci să-și clatine trupul ca un om beat; de îndată ce s-a pocăit, i-au scăzut unul dintre ele, cum a spus: „și s-a așezat în ținutul Nod (nod), la răsărit de Eden”, și nu a spus naʿ."
    }
   ]
  },
@@ -2140,12 +2244,20 @@ window.CHAPTER_DATA = [
     "text": "«Oare este păcatul meu prea mare ca să fie îndurat?» Ca întrebare: Tu porți pe cei de sus și pe cei de jos, iar păcatul meu nu este cu putință să-l porți?."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Oare este păcatul meu prea mare ca să fie îndurat? (gadol ʿawoni minneśo)» Explicația, după părerea tuturor comentatorilor, este că și-a mărturisit păcatul, iar explicația lui neśo are sensul de „a ierta”, ca „cel care poartă nelegiuirea”. Iar după părerea mea, evreii numesc urmarea (ʿeqev) „plată”, iar pedeapsa cea rea care vine din pricina nelegiuirii – ḥaṭṭat; și tot așa „căci nu s-a umplut nelegiuirea amoritului”, „nu te va ajunge nicio nelegiuire”, „și mare a fost nelegiuirea fiicei poporului meu”. Iar sensul este: această pedeapsă este mare, nu o pot îndura; iar versetul care vine după el arată adevărul acestei explicații.<br><br>Iar explicația lui «și-a deschis larg (paṣtah)»: a deschis; și tot așa „deșertăciune își deschide (yifṣeh) gura”."
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«Oare este păcatul meu prea mare ca să fie îndurat?» „Cu mirare: Tu porți pe cei de sus și pe cei de jos, iar păcatul meu nu se poate purta?” – cuvintele lui Rashi, din Bereșit Rabba. Iar ce este corect după sensul simplu este că aceasta este o mărturisire: a spus adevărul, că păcatul meu este prea mare ca să fie iertat, și drept ești Tu, Doamne, și drepte sunt judecățile Tale, deși m-ai pedepsit foarte mult. Și iată, m-ai izgonit astăzi de pe fața pământului: căci, fiind rătăcitor și pribeag și neputând să stau într-un singur loc, iată, sunt izgonit de pe pământ și nu am loc de odihnă; și de dinaintea Ta mă voi ascunde, căci nu voi putea să stau înaintea Ta ca să mă rog sau să aduc jertfă și prinos, căci mi-e rușine și sunt umilit, căci port ocara tinereții mele. Dar ce să fac, căci oricine mă găsește mă va omorî, iar Tu, în îndurarea Ta cea mare, nu m-ai osândit la moarte. Și chestiunea este că a spus înaintea Lui: Iată, păcatul meu este mare și ai înmulțit asupra mea pedeapsa, dar păzește-mă să nu fiu pedepsit mai mult decât m-ai osândit; căci, pentru că voi fi rătăcitor și pribeag și nu-mi voi construi casă și îngrădituri nicăieri, mă vor omorî fiarele sălbatice, căci umbra Ta s-a îndepărtat de la mine. A recunoscut că omul nu este ocrotit și nu scapă prin puterea lui, ci numai prin paza Celui Preaînalt asupra lui."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Oare este păcatul meu prea mare ca să fie îndurat?» După ce a văzut că Dumnezeu, binecuvântat fie El, veghează în chip desăvârșit asupra lucrurilor în amănunt, a crezut că El știe fără îndoială că nu se întoarce de la păcatul lui fiindcă se căiește, ci doar din pricina pedepsei; și aceasta după stăruința cu care Dumnezeu, binecuvântat fie El, îl îndemnase să se pocăiască, iar el s-a împotrivit. Și prin aceasta a spus că pentru păcatul lui nu mai era nădejdea unei pocăințe care să ispășească și să-l ocrotească de pedeapsa cu care fusese pedepsit acum; ca în cazul lui Saul cu privire la Amalec, când i-a spus lui Samuel: „Am păcătuit”, după stăruința și îndemnul cu care Samuel îl îndemnase să se întoarcă de la păcatul lui, și a fost pedepsit, cum s-a spus: „și El te-a lepădat ca să nu mai fii rege”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Cain i-a spus Domnului: „Oare este păcatul meu prea mare ca să fie îndurat?”» Prea mare este pedeapsa mea ca s-o pot purta; și la fel: „căci păcatul (ʿawon) amoritului nu este împlinit până atunci”. Și se pare din aceasta că s-a pocăit și s-a căit de păcatul lui și era ca unul care cere de la Dumnezeu să-i ușureze pedeapsa. Iar Onkelos a tradus: „prea mare este vina mea ca să fie iertată”, explicându-l pe calea mirării."
    }
   ],
   "fidela": "Şi Cain a spus DOMNULUI: Pedeapsa mea este mai mare decât o pot purta.",
@@ -2306,6 +2418,18 @@ window.CHAPTER_DATA = [
    "Psalmul 51:11"
   ],
   "commentaries": [
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar sensul lui «și de fața Ta voi fi ascuns»: că este un loc care primește putere și în care se vede puterea Numelui, deși totul este plin de slava Lui."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Oricine mă găsește, mă va omorî!» Și pedeapsa va fi mult mai mare decât ai hotărât."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iată, m-ai izgonit astăzi de pe fața pământului.» Acesta este pământul Edenului, aproape de grădină, căci acolo erau tatăl lui și mama lui, cum a spus: „ca să lucreze pământul din care fusese luat”, cum am explicat.<br><br>«dar voi putea fi eu oare ascuns dinaintea Ta?» (u-mi-panekha esater) Căci Te-ai mâniat pe mine și Ți-ai ascuns fața și purtarea Ta de grijă de mine și m-ai lăsat de izbeliște tuturor; și, când voi fi rătăcitor și pribeag pe pământ, oricine mă va găsi mă va omorî, după ce Ți-ai luat purtarea de grijă de la mine și nu mă vei păzi; și, când voi fi rătăcitor și pribeag, mă vor omorî fiarele sălbatice. Și în Bereșit Rabba: „ieri l-ai izgonit pe tata, și astăzi m-ai izgonit pe mine; oare dinaintea Ta mă voi ascunde? Mă minunez!”."
+   },
    {
     "author": "Zohar, Vaișlah 28:2",
     "text": "Ci aceștia despre care a zis versetul «care a aflat yemim în pustiu»: «yemim» e scris. Aceștia erau făpturi deosebite. Că atunci când a fost alungat Qayin de pe fața pământului, precum e scris (Geneza 4:14): «iată, m-ai alungat astăzi de pe fața pământului și de la fața Ta mă voi ascunde», și e scris: «și a locuit în țara Nod»; și au statornicit-o."
@@ -2472,6 +2596,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«Și Domnul i-a pus lui Cain un semn» Și n-a spus „și Domnul i-a dat (wa-yitten) un semn” sau „a făcut (wa-yaʿaś)”; arată că i-a pus semnul statornic, ca să fie cu el mereu. Poate că, atunci când călătorea dintr-un loc în altul, avea un semn de la Domnul, care îi arăta drumul pe care să meargă, și prin aceasta știa că nu i se va întâmpla nicio nenorocire pe acel drum. Și în Bereșit Rabba au spus ceva asemănător: Rabbi Abba a spus: I-a dat un câine. Căci, pentru că frica lui era de fiarele sălbatice, i-a dat pe una dintre ele, ca să meargă înaintea lui; iar spre locul în care se întorcea câinele să meargă, știa că acolo i-a poruncit Domnul și nu va fi ucis acolo. Înțelepții au amintit în aceasta un semn disprețuit, cum i se cuvenea; dar intenția este că semnul era cu el mereu, ca să-i arate înainte drumul pe care să meargă, căci așa este sensul cuvântului „a pus” (wa-yasem)."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Oricine îl ucide pe Cain va fi răzbunat înșeptit (šivʿatayim).» Eu spun oricui este gata să-l ucidă pe Cain că Eu hotărăsc ca răzbunarea pentru păcatul lui să fie de șapte ori câte două ori; căci cel gata să ucidă este numit ucigaș, cum a spus: „și Efraim să-și scoată fiii la ucigaș”. Și cuvântul šivʿatayim arată de șapte ori câte două ori, ca: „și dacă este găsit, va plăti înșeptit (šivʿatayim)”. A hotărât, așadar, că pentru această ucidere, care a fost sângele fratelui său și jumătate sau o treime din neamul omenesc, răzbunarea să fie ca pentru un ucigaș de șapte ori îndoit, în acest fel: ca timp de șase generații să fie rătăcitor și pribeag, care este o viață rea ca moartea sau mai rea decât ea, cum a spus: „Nu-i ucide, ca nu cumva să uite poporul meu; risipește-i prin puterea Ta”; iar la sfârșit să fie ucis în a șaptea generație, cum i s-a întâmplat prin Lameh, după cum a venit în tradiție."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«De aceea, oricine îl ucide pe Cain.» Sensul simplu al versetului este acesta: pentru că lui Cain îi era teamă că va fi ucis, Sfântul, binecuvântat fie El, i-a spus: oricine îl ucide pe Cain — după șapte Mă voi răzbuna pe ucigașul lui. Și după aceasta, așa se explică versetul de mai jos: „Și Lameh le-a spus soțiilor lui”: Lameh se tânguia pentru sine: „căci am ucis un bărbat pentru rana mea” — acesta este Cain, care era mare de statură și băiat în ani. „Pentru rana mea”, „pentru vânătaia mea”, adică: spre durerea mea și spre moartea mea; căci Sfântul, binecuvântat fie El, a spus: „oricine îl ucide pe Cain va fi răzbunat înșeptit”, iar „Lameh de șaptezeci și șapte de ori”. Și dacă este așa, chiar dacă Lameh ar naște șaptezeci și șapte de fii, toți vor muri pentru acea nelegiuire."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Domnul i-a spus: „De aceea, oricine îl ucide pe Cain va fi răzbunat înșeptit”.» Așa am hotărât: oricine îl va omorî, Îmi voi lua răzbunarea pentru el de la acela de multe ori, fie fiară rea, fie om. Iar numărul șapte se aplică mulțimii lucrului, ca: „înșeptit pentru păcatele voastre”, „de șapte ori cade cel drept și se ridică”; iar când este dublat, ca šivʿatayim, mulțimea va fi îndoită; iar răzbunările cele multe sunt boli felurite, una după alta, și după aceea moartea. Și în Bereșit Rabba: „«de aceea» – pentru că te-ai temut de Mine, îți lungesc încă șapte generații”; iar Onkelos a tradus: „la șapte generații se va lua plata de la el”; adică, cum au spus în midraș, că i se va amâna nelegiuirea până la șapte generații; și l-a omorât Lameh, care era a șasea generație de la el și a șaptea de la Adam.<br><br>«Și Domnul i-a pus lui Cain un semn.» I-a pus un semn în inima lui, adică i-a întărit inima, ca să nu se teamă că îl va lovi oricine îl întâlnește; și a pus frica de el în inima fiarelor și a oamenilor care veneau după el, ca să nu-l lovească. Și vom mai scrie expunerea pe care au făcut-o despre aceasta."
    }
   ],
   "fidela": "Şi DOMNUL i-a spus: De aceea, oricine ucide pe Cain, răzbunare va fi asupra lui de şapte ori. Şi DOMNUL a pus un semn pe Cain, ca nu cumva cineva, găsindu-l, să îl ucidă.",
@@ -2633,8 +2769,16 @@ window.CHAPTER_DATA = [
     "text": "«Și Cain a ieșit.» A ieșit cu smerenie prefăcută, ca unul care înșală știința Celui de Sus.<br><br>«În ținutul Nod.» În ținutul în care rătăcesc (nadim) toți cei exilați.<br><br>«La răsărit de Eden.» Acolo fusese exilat tatăl său când a fost izgonit din grădina Edenului, cum s-a spus: „și a așezat la răsărit de Grădina Edenului” paza drumului de intrare în grădină; de aici se poate învăța că Adam era acolo. Și am găsit că partea de răsărit primește pretutindeni pe ucigași, cum s-a spus: „Atunci Moise a despărțit” etc., „spre răsăritul soarelui”. Altă explicație: «în ținutul Nod» — în orice loc în care mergea, pământul se cutremura sub el, iar făpturile ziceau: Feriți-vă de el, acesta este cel care și-a ucis fratele."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«În ținutul Nod.» L-au numit așa pentru că era rătăcitor și pribeag (naʿ wa-nad).<br><br>«La răsărit de Eden (qidmat ʿEden).» Răsăritul Edenului; și el este la miazănoapte de grădină."
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«Și Cain a ieșit de dinaintea Domnului» Și sensul lui „Și Cain a ieșit de dinaintea Domnului”: că nu a mai stat înaintea Lui niciodată, după sensul a ceea ce a spus: „și de dinaintea Ta mă voi ascunde”. Iar sensul lui „și s-a așezat în ținutul Nod”: că n-a mers prin toată lumea, ci s-a așezat în acel ținut, rătăcind (noded) mereu, fără să se odihnească deloc în vreun loc din el; și a fost numit „ținutul Nod” după el, pe veci."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Cain a ieșit de dinaintea Domnului.» Din locul care era înaintea Domnului, și acesta este grădina și pământul apropiat de ea, care era loc sfânt al Șechinei și loc al profeției, căci în acel loc vorbea duhul sfințeniei cu Adam și cu soția lui și cu fiii lor. «Și s-a așezat în ținutul Nod.» Rătăcea (nad) din loc în loc, până s-a așezat la răsăritul Edenului, departe de locul în care erau tatăl lui și mama lui; și nici acolo nu și-a găsit odihnă, căci deja se hotărâse asupra lui să fie rătăcitor și pribeag în toate zilele lui; numai că cea mai mare parte a șederii lui era în acel loc, care este răsăritul Edenului; iar soția lui și fiii lui locuiau acolo pururi, iar el pribegea; și au numit acel loc ținutul Nod, pentru că pribegea într-acolo, la locul soției lui și al fiilor lui, și de acolo pleca și se întorcea."
    }
   ],
   "fidela": "Şi Cain a ieşit din faţa DOMNULUI şi a locuit în ţara Nod, la est de Eden.",
@@ -2869,8 +3013,20 @@ window.CHAPTER_DATA = [
   "fidela": "Şi Cain a cunoscut-o pe soţia sa şi ea a rămas însărcinată şi a născut pe Enoh; şi a zidit o cetate şi a pus numele cetăţii după numele fiului său, Enoh.",
   "commentaries": [
    {
+    "author": "Rashi (1040–1105)",
+    "text": "«El construia un oraș și a dat nume orașului după numele fiului său, Enoh.» Spre amintirea fiului său, Enoh."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și a dat nume orașului… Enoh» – ca Samaria (Șomron), după numele lui Șemer; și tot așa Egipt („Mițrayim”)."
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«El construia un oraș și a dat nume orașului după numele fiului său, Enoh» Și sensul lui „El construia un oraș și a dat nume orașului după numele fiului său, Enoh”: că la început credea că va fi fără copii din pricina nelegiuirii lui, iar după ce i s-a născut un urmaș, a început să construiască un oraș, ca fiul lui să locuiască în el. Și pentru că el este blestemat și lucrările lui nu vor izbuti, l-a numit „Enoh”, ca să arate că nu l-a construit pentru sine, căci el nu are oraș și locuință pe pământ, pentru că este rătăcitor și pribeag; ci construcția va fi pentru Enoh, ca și cum Enoh l-ar fi construit pentru sine. Și pentru că n-a spus „și a construit un oraș”, așa cum se spune „și a construit Ninive”, „Și fiii lui Gad au construit Divon”, arată că toate zilele lui a construit orașul: căci lucrările lui sunt blestemate, construia puțin, cu trudă și osteneală, și rătăcea și pribegea din acel loc, și se întorcea acolo și construia puțin, și nu-și făcea căile să izbutească. Iar urmașii lui Cain și faptele lui au fost scrise ca să se facă cunoscut că Domnul este îndelung răbdător și l-a îngăduit, căci a născut fii și fiii fiilor; și a amintit că a pedepsit păcatul părinților asupra copiilor și urmașii lui au fost nimiciți. Iar învățătorii noștri au spus că a trăit mulți ani și a murit în potop și nu și-a coborât căruntețile în pace în Șeol, ci a văzut nimicirea lui și a tuturor urmașilor lui împreună cu el. Și mai aproape este că urmașii lui nu au fost decât șase generații până la potop, iar în urmașii lui Set au fost două generații mai mult; sau că nu era nevoie să povestească despre ei, iar despre aceștia a povestit ca să se facă cunoscut cine au fost cei care au început construirea orașelor și păstoritul turmelor și știința cântării și lucrul metalelor. Și a scris mustrarea lui Lameh către soțiile lui, ca să arate că el a născut, dar fiii lui au fost nimiciți înainte de a naște."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«El construia un oraș.» În vremea în care i s-a născut un fiu, el construia un oraș pentru locuința lui și locuința fiilor lui și a generațiilor care veneau după el; și aceasta era la răsăritul Edenului; de aceea a pus orașului numele fiului său, pentru că i se născuse fiul în vremea în care construia orașul."
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -3064,6 +3220,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și lui Irad i s-a născut (yalad).» Este loc unde Scriptura spune despre bărbat holid și este loc unde spune yalad, căci „nașterea” are două sensuri: nașterea femeii, în laʿaz naistre, și sămânța urmașilor bărbatului, în laʿaz engendrer. Când spune holid, la forma cauzativă, vorbește despre nașterea femeii: cutare a făcut-o pe soția lui să-i nască un fiu sau o fiică. Când spune yalad, vorbește despre sămânța bărbatului."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și Lameh» – al șaselea de la Cain și al șaptelea de la Adam."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«I s-a născut etc.» Primul, Meḥuyaʾel, cu vav și yod; iar al doilea, Meḥiyyaʾel, cu doi yod: primul vocalizat cu qameṣ și cu dageș, iar al doilea nu se citește; și la fel „Ieremia, fiul lui Șelemya”. Și toate aceste nume le puneau după întâmplare, căci așa era obiceiul generațiilor dintâi; și în unele locuri motivul este scris, iar în altele nu este scris. Și sunt expuneri despre aceste nume."
    }
   ]
  },
@@ -3216,6 +3380,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Iar Lameh și-a luat.» Nu era nevoie să explice toate acestea, ci ca să ne învețe din sfârșitul pasajului că Sfântul, binecuvântat fie El, Și-a împlinit făgăduința pe care o spusese: „Cain va fi răzbunat înșeptit”. S-a ridicat Lameh, după ce a născut fii și a făcut a șaptea generație, și l-a ucis pe Cain; aceasta este ce a spus: „căci am ucis un bărbat pentru rana mea” etc.<br><br>«Două soții.» Așa era obiceiul generației potopului: una pentru rodire și înmulțire și una pentru împreunare. Cea pentru împreunare o făcea să bea un pahar de sterilitate, ca să rămână stearpă, și o împodobea ca pe o mireasă și o hrănea cu delicatese; iar tovarășa ei era disprețuită și jelea ca o văduvă. Aceasta este ce a explicat Iov: „pe cea stearpă, care nu naște, o pasc, iar văduvei nu-i fac bine”, cum se explică în aggada din capitolul Ḥeleq.<br><br>«Ada.» Ea era cea pentru rodire și înmulțire; numită așa pentru că era disprețuită de el și îndepărtată de lângă el. ʿAdah este traducerea aramaică a lui „îndepărtată” (surah).<br><br>«Țila.» Ea era cea pentru împreunare; numită așa pentru că ședea mereu la umbra lui (be-ṣillo). Acestea sunt cuvinte de aggada din Bereșit Rabba."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar sensul lui «Ada și Țila»: nu-ți pune inima să asculți cuvintele Gaonului despre nume; căci chiar dacă am ști toată limba sfântă, de unde am putea ști toate întâmplările, ca sensul numelor Moise și Isahar?"
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Și numele celei de-a doua era Țila.» Rashi a explicat că obiceiul lor era să ia două soții: una pentru împreunare și una pentru rodire și înmulțire; iar celei pentru împreunare îi dădeau să bea un pahar de sterilitate. Și a explicat că Țila era cea pentru împreunare. Și mi se pare dificil, căci este scris după aceea: „Iar Țila l-a născut și ea”. Și se poate spune că de aceea este scris „și ea”, adică: chiar și Țila, care fusese aleasă pentru împreunare, a născut, și nu i-a folosit paharul de sterilitate."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar Lameh și-a luat două soții.» Se pare că cei dintâi nu luau două soții, iar el a început și și-a luat două soții; de aceea se certau și erau potrivnice una alteia, și a trebuit să le mustre și să le înfricoșeze că le va omorî dacă nu se vor liniști."
    }
   ],
   "fidela": "Şi Lameh şi-a luat două soţii: numele uneia era Ada şi numele celeilalte, Ţila.",
@@ -3391,6 +3567,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Strămoșul celor ce trăiesc în cort și cresc vite.» El a fost primul dintre păstorii de vite în pustiuri, care locuiesc în corturi: o lună aici și o lună acolo, pentru pășunea turmei lui; și când se isprăvea pășunea într-un loc, mergea și își înfigea cortul în alt loc. Iar midrașul aggadei: zidea case pentru idolatrie, cum spui: „idolul geloziei care stârnește gelozia (ha-maqneh)”; și tot așa fratele lui mânuia lira și fluierul ca să cânte pentru idolatrie."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar explicația lui avi („strămoșul”): întâiul; și ca el av, și aviv. Și niciodată nu se pune în stare construită decât cu yod; și fratele lui este aḥ."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Al celor ce trăiesc în cort și cresc vite.» Păstor de oi."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«El a fost strămoșul (avi) celor ce trăiesc în cort și cresc vite.» Avi înseamnă cel dintâi, așa cum tatăl este înaintea fiului. Și explicația lui „ce trăiesc în cort” este: pentru păscutul vitelor; adică a mers departe ca să-și mâne vitele în pustiuri și locuia acolo în cort; iar cei dintâi, care au fost înaintea lui, nu își pășteau vitele decât aproape de orașul lor. Și explicația lui u-miqneh este: păstor de vite; și la fel „vinul este batjocoritor”, adică cel care bea vinul. Sau explicația vav-ului va fi „împreună cu”, adică: cel ce locuiește în cort împreună cu vitele; și la fel: „iar Iosif era în Egipt („Mițrayim”)” – împreună cu Iosif, care era în Egipt, erau șaptezeci."
    }
   ]
  },
@@ -3528,7 +3716,16 @@ window.CHAPTER_DATA = [
   "refs": [
    "Psalmul 150:3-4"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Lira și fluierul.» Feluri de instrumente de cântare; și aceasta este o mare înțelepciune."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«El a fost strămoșul tuturor celor ce mânuiesc (tofes) lira și fluierul.» El a fost cel dintâi în științele cântării. Și a spus-o cu termenul de apucare, pentru că acel meșteșug stă în apucarea coardelor lirei și ale fluierului cu mâna stângă, după măsura pe care a arătat-o acea știință."
+   }
+  ]
  },
  {
   "num": 22,
@@ -3707,8 +3904,20 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Rashi (1040–1105)",
+    "text": "«Tubal-Cain.» Tubal a meșteșugului lui Cain. Tubal vine de la cuvântul tavlin („condiment”): a condimentat și a desăvârșit meșteșugul lui Cain, făcând arme pentru ucigași.<br><br>«Care ascuțea toate uneltele de făurit aramă și fier.» Ascuțea meșteșugul aramei și al fierului, ca în „își ascute (yilṭoș) ochii asupra mea”. Ḥoreș nu este substantiv („meșteșugar”), ci verb la participiu („cel care lucrează”), căci este vocalizat cu qameṣ qaṭan și accentul lui este pe silaba de la urmă; adică: ascuțea și lustruia toate uneltele meșteșugului aramei și fierului.<br><br>«Naama.» Ea era soția lui Noe."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Care ascuțea (loṭeš).» Ca „cel care ascute”; și ca el „ca să-și ascută (li-ṭoš) fiecare fierul plugului”."
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«care ascuțea toate uneltele de făurit aramă și fier» Înțelesul lui este: el ascuțea și făurea toată arama și fierul; vrea să spună că el ascuțea și făurea orice lucrare de aramă și fier. Și ca el este „orice nelegiuire iartă și primește binele”. Iar după părerea lui Onkelos, este legat de versetele dinainte: el a fost tatăl celor care ascut, al tuturor celor care făuresc aramă și fier.<br><br>«Și sora lui Tubal-Cain era Naama» Ca și cum ar spune: și i s-a născut o soră, și numele ei era Naama. Și tot așa „iar sora lui Lotan era Timna”, „și pe Miriam, sora lor”, „și numele surorii lui era Maaca”. Iar în Bereșit Rabba: Unii spun că ea a fost soția lui Noe; și de ce o numeau Naama? Pentru că faptele ei erau frumoase și plăcute (neʿimim). Au vrut să spună că avea un nume în acele generații, căci era dreaptă și a născut drepți, și de aceea o amintește Scriptura. Și dacă este așa, i-a rămas lui Cain o mică amintire în lume. Iar dacă vom spune că nu este femeia din care Noe i-a născut pe cei trei fii ai lui, atunci nu are rost să fie amintită. Și alt midraș al învățătorilor noștri: că ea este femeia foarte frumoasă după care s-au rătăcit fiii lui Dumnezeu, și ea este cea la care se face aluzie în versetul „fiii conducătorilor au văzut că fiicele oamenilor”, cum este amintit în Pirqe de-Rabbi Eliezer. Iar alții au spus că ea a fost soția lui Șamdon, mama lui Așmedai, și din ea s-au născut demonii; căci așa se găsește numele ei în scrierile despre folosirea demonilor. Iar Scriptura face aluzie și scurtează în astfel de lucruri ascunse."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar Țila l-a născut și ea.» „Și ea” (gam) – ca să adauge la fiii Adei, care au apucat fiecare un meșteșug după firea lui și l-au dorit și s-au deprins în el; a spus: și Țila a născut și ea un fiu, care a apucat un alt meșteșug. Și poate au avut alți fii, dar i-a pomenit pe cei care au descoperit fiecare acele meșteșuguri în lume. Și l-a numit cu două nume, Tubal-Cain; se poate ca, atunci când l-a născut, să-l fi numit Tubal, iar Cain să fi murit în vremea aceea, și i-a alăturat numele lui la numele lui dintâi, ca amintire a lui Cain.<br><br>Iar spunând „care ascuțea toate uneltele de făurit aramă și fier”, și nu a spus „strămoșul”, cum a pomenit la ceilalți pomeniți, se poate că cei care au fost înaintea lui s-au îndeletnicit și ei cu meșteșugul aramei și al fierului și făceau din ele unelte pentru folosința lor, dar nu știau ca el; iar el a înnoit ascuțirea și frumusețea lucrării și desăvârșirea ei la fier și aramă. Iar leṭišah este ca: „ca să-și ascută (li-lṭoš) brăzdarul”, căci uneltele le aveau, și mergeau în țara filistenilor ca să le ascută, pentru că nu se găsea fierar la ei. Iar ḥoreš este substantiv, ca: „și să taie pietre (u-va-ḥarošet even)”, numai că acesta este pe alt cântar, și este pe cântarul lui šoreq: „iar restul (ha-yoter) l-am nimicit”, „iar voi să vă ridicați din pândă”.<br><br>«Și sora lui Tubal-Cain era Naama.» Învățăm că nu avea un frate, ca Iabal, ci avea o soră, și numele ei era Naama. Iar în midraș: că era soția lui Noe, și a fost numită Naʿamah pentru că faptele ei erau frumoase și plăcute (neʿimim). Și această povestire a fost ca să arate că meșteșugurile și lucrările nu erau în firea oamenilor plăsmuiți la început, în general, încât să știe prin mintea lor toate lucrările și științele, ci în firea celor născuți în parte, la vremea plăsmuirii; căci în fiecare este o fire deosebită de la vremea plăsmuirii, întipărită într-o știință și într-un meșteșug mai mult decât în altul; și o dorește când crește, și, deprinzându-se în el, îl cunoaște cu ușurință și repede, mai mult decât altul; și fiecare după firea lui și după deprinderea lui."
    }
   ],
   "fidela": "Şi Ţila, de asemenea, a născut pe Tubal-Cain, instructor al fiecărui meşteşugar în aramă şi fier; şi sora lui Tubal-Cain a fost Naama.",
@@ -3946,8 +4155,20 @@ window.CHAPTER_DATA = [
     "text": "«Ascultați-mi glasul.» Căci ele se îndepărtau de el și nu mai voiau să se împreuneze cu el, pentru că îl ucisese pe Cain și pe Tubal-Cain, fiul lui. Căci Lameh era orb, iar Tubal-Cain îl conducea; și l-a văzut pe Cain și i s-a părut ca o fiară și i-a spus tatălui său să tragă cu arcul, și l-a ucis. Și când a aflat că era Cain, străbunicul lui, a bătut palmă de palmă și l-a prins pe fiul lui între ele și l-a ucis. Și soțiile lui se îndepărtau de el, iar el le îmbuna.<br><br>«Ascultați-mi glasul.» Ca să mă ascultați în privința împreunării. Oare bărbatul pe care l-am ucis, pentru rana mea a fost ucis? Oare eu l-am rănit cu voia, ca rana să fie numită după numele meu? Și băiatul pe care l-am ucis, pentru vânătaia mea (le-ḥabburati) a fost ucis? Adică prin mâna mea? — ca întrebare; oare nu fără voie am făcut-o, și nu cu voia? Nu aceasta este rana mea și nu aceasta este vânătaia mea.<br><br>«Rana (pesaʿ).» Lovitură de sabie sau de săgeată, în laʿaz macadure."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Și să știi că „și Lameh a spus” este pus mai târziu în pericopă; și deja am pomenit două ca ele; și ca el „și omul a luat un inel de aur”, și tot așa „spune-le fiilor lui Israel: «Voi sunteți un popor cu cerbicea tare»”, și tot așa „și m-am rugat”. Iar sensul este cum au spus înțelepții noștri: că Ada și Țila s-au ferit, căci s-au temut să nască fii, pentru că ar fi a șaptea generație de la Cain și ar fi omorâți sau ar muri; și de aceea Lameh le-a spus soțiilor lui: „Eu sunt cu adevărat al șaptelea; și dacă mă va răni un om care este mare, sau un copil îmi va face vânătaie, atunci l-am ucis.” Iar cuvântul haragti („am ucis”) este în locul lui eherog („voi ucide”); și ca el „am dat prețul câmpului”, „pe care l-am luat din mâna amoritului”, și multe ca ele.<br><br>«Dacă de șapte ori va fi răzbunat Cain, Lameh de șaptezeci și șapte de ori.» Pentru că el a ucis cu bună știință, iar eu n-am ucis. Iar sensul este că le-a spus soțiilor lui că deja s-a anulat hotărârea asupra lui Cain. Și cu adevărat, fiii lui Lameh și toată sămânța lui au murit în potop, și nu i-a rămas lui Cain nume, din pricina silniciei față de fratele lui."
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«Și Lameh le-a spus soțiilor lui» Comentatorii s-au sprijinit în chestiunea acestui verset pe părerea lui Onkelos, care a explicat „De aceea, oricine îl ucide pe Cain va fi răzbunat înșeptit” astfel: că după șapte generații se va răzbuna pe el, și nu acum, căci Domnul a fost îndelung răbdător cu el. Și iată, soțiile lui Lameh se temeau să nască fii, pentru că ar fi fost a șaptea generație de la Cain; iar el și-a mângâiat soțiile, că Domnul îi va mai îngădui șaptezeci și șapte, căci se va ruga înaintea Lui, căci El este îndelung răbdător și Se va îndura de el. Sau era un raționament de la mai ușor la mai greu (qal wa-ḥomer) prostesc, după midrașul pe care l-a amintit Rashi. Și dacă este așa, va spune: De aceea, oricine îl ucide pe Cain, după șapte generații se va răzbuna pe el, și nu în zilele lui. Și aceasta este traducerea lui Onkelos: „oricine îl ucide pe Cain, după șapte generații i se va cere socoteală de la el”. Și dacă este așa, s-ar fi cuvenit ca „Și Lameh le-a spus soțiilor lui” să fie pus înainte. Iar după părerea mea, sensul lui „înșeptit” (šivʿatayim) nu este „după șapte generații”, căci acest cuvânt nu se spune despre șapte lucruri despărțite, ci numai despre îndoirea unui singur lucru de șapte ori, ca în „curățit de șapte ori”, „va plăti de șapte ori”, „și lumina soarelui va fi de șapte ori”: îndoit și înmulțit în șapte părți. Ci explicația lui „oricine îl ucide pe Cain” este după sensul ei simplu: că Domnul a spus: De aceea, oricine îl va ucide pe Cain, înșeptit se va răzbuna pe el, căci îl voi pedepsi pe cel care îl ucide de șapte ori pentru păcatul lui; căci Eu i-am făgăduit lui Cain că nu va fi ucis, pentru frica lui de Mine și pentru mărturisirea lui înaintea Mea. Dar chestiunea lui Lameh cu soțiile lui nu a amintit-o Scriptura lămurit. Și putem spune, de asemenea, că se temeau de pedeapsă, ca nu cumva Lameh să fie ucis pentru nelegiuirea tatălui său; căci Domnul nu i-a spus lui Cain „te-am iertat”, ci doar că nu va fi ucis, dar Își va încasa datoria de la urmașii lui, și nu știau când; și așa a și fost lucrul. Iar Lameh le-a mângâiat, spunând că Domnul Se va îndura de el, așa cum S-a îndurat de Cain, căci el este curat cu mâinile față de el, și se va ruga și el înaintea Lui, și îi va asculta rugăciunea. Dar ce mi se pare în ochii mei este că Lameh a fost un om foarte înțelept în orice lucrare iscusită: l-a învățat pe fiul său cel întâi născut chestiunea păstoritului, după firile vitelor; l-a învățat pe al doilea știința cântării; și l-a învățat pe al treilea să ascută și să facă săbii și sulițe și lănci și toate armele de război. Iar soțiile lui se temeau ca nu cumva să fie pedepsit, pentru că adusese sabia și omorul în lume; și iată, el ține în mâna lui fapta părinților lui, căci el este fiul ucigașului celui dintâi, și a creat nimicitorul ca să distrugă. Iar el le-a spus: Eu n-am ucis un om prin răni, nici un copil prin vânătăi, cum a făcut Cain, și Domnul nu mă va pedepsi, ci mă va păzi de omor mai mult decât pe el. Și a amintit aceasta ca să spună că nu cu sabia și cu sulița poate omul ucide prin răni și vânătăi, care omoară cu o moarte mai rea decât sabia; iar sabia nu pricinuiește omorul, și cel care o face nu are păcat."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Ascultați-mi glasul, soții ale lui Lameh.» Strigând: vai mie, durere!<br><br>«Vorba mea.» Ca să-mi povestesc suferința.<br><br>«Am ucis un bărbat pentru rana mea.» Am rănit chiar trupul meu, căci cel ucis era tatăl meu; «și un băiat pentru vânătaia mea»: căci vânătaia a fost chiar în trupul meu, prin aceea că cel ucis era fiul meu."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Lameh le-a spus soțiilor lui.» Au spus învățătorii noștri, binecuvântată fie amintirea lor, că le-a cerut împreunare, iar ele nu au voit, căci se temeau de potop, despre care spuneau că va veni; au spus: „Să naștem pentru blestem? Mâine vine potopul și mătură totul”. Le-a spus: „Nu va veni asupra mea și asupra seminției mele, căci eu sunt curat și nu este în mine nelegiuire; și chiar dacă aș ucide un bărbat sau un copil, Domnul m-ar ierta – atât de multe sunt meritele mele; căci iată, Cain a ucis și i s-a amânat până la șapte generații, deși era păcătos înainte de ucidere, cum am văzut în privința jertfei, și la fel era păcătos în alte lucruri; și, cu toate acestea, Dumnezeu i-a amânat până la șapte generații; cu atât mai mult mie, care sunt nevinovat, dacă îmi va veni în mână ucidere, cum i-a venit lui în mână, să-mi amâne mai mult decât i-a amânat lui”. Și acesta este „șaptezeci și șapte”. Și unii dintre ei au spus că Lameh era orb și era vânător, și îl conducea un copil la câmp ca să vâneze; și, când copilul vedea o fiară, îi spunea: „Trage cu arcul tău spre cutare loc, căci am văzut în el o fiară”, iar el trăgea. Iar Cain – unii dintre învățătorii noștri au spus că semnul pe care i l-a dat a fost că i-a ieșit un corn în frunte, și era rătăcitor și pribeag pe câmp; și, când l-a văzut copilul de departe, a gândit că este o fiară, din pricina cornului pe care îl avea, și i-a spus lui Lameh: „Trage!”; și a tras, și săgeata i-a intrat în inimă și a murit. Când a ajuns la el, copilul i-a spus: „Om este cel pe care l-ai ucis, iar din pricina cornului care era în fruntea lui am gândit că este o fiară”. A spus Lameh: „Acesta este Cain, străbunicul meu”; a luat copilul și l-a izbit de pământ, și a murit. De aceea a spus: „am ucis un bărbat pentru rana mea și un băiat pentru vânătaia mea”, adică: nu vă temeți dacă am ucis, căci Cain, străbunicul meu, a ucis cu voie, și i s-a amânat șapte generații; cu atât mai mult, eu, care am ucis fără voie, mi se va amâna mai mult și mai mult. Și au mai spus: „Rabbi Yaʿaqov bar Idi a întrebat înaintea lui Rabbi Yoḥanan: dacă «bărbat», de ce «copil»? Și dacă «copil», de ce «bărbat»? I-a spus: bărbat după fapte și copil după ani”. Și se poate explica și altfel: că cele două soții ale lui se certau, căci nu era obiceiul, până la Lameh, să se ia două soții, și se pizmuiau una pe alta, căci așa este obiceiul a două soții ale unui singur bărbat; de aceea au fost numite una pentru alta ṣarot („rivale”): „și rivala ei o supăra”, căci erau potrivnice una alteia. Și le-a spus Lameh, care le-a văzut certându-se: „Acum vă voi omorî, dacă vă veți certa, și nu mă voi teme de pedeapsă; căci, dacă voi ucide un bărbat sau un copil, Dumnezeu îmi va amâna, căci iată, i-a amânat lui Cain, străbunicul meu; și de șapte ori îmi va amâna mie, care sunt mai bun decât el, mai mult și mai mult”. Și aceasta este ce a spus: de șapte ori, și șaptezeci și șapte; pentru că a pomenit la Cain numărul șapte, le-a pomenit și el, șaptezeci și șapte – zece săptimi, adică de zece ori îmi va amâna mai mult decât lui, și încă șapte. Iar după explicația noastră, pe care am explicat-o mai sus, că „Cain va fi răzbunat înșeptit”, adică multe răzbunări se vor lua de la cel care îl va ucide, explicația lui va fi așa: dacă Dumnezeu a spus despre cel care îl va ucide pe Cain că va fi răzbunat înșeptit, deși el a ucis, cu atât mai mult pentru mine, care sunt mai bun decât el: dacă voi ucide pe cel care mă mânie, nu mă va omorî pentru aceasta, iar de la cel care mă va omorî se vor lua răzbunări de șaptezeci și șapte de ori. Iar peṣaʿ, care este o lovitură care a scos sânge, l-a pomenit la bărbat, care nu moare de o vânătaie, de cele mai multe ori; iar ḥabburah, care este o lovitură care nu scoate sânge – de aceea a pomenit vânătaia la copil, care moare uneori de o vânătaie. Iar haragti este ca „voi ucide”, cum am explicat: dacă voi ucide; și multe sunt ca el. Sau explicația lui: dacă un bărbat m-ar răni, l-aș ucide; sau un copil, dacă mi-ar face o vânătaie. Și, după explicația dintâi, yod-ul din le-fiṣʿi și le-ḥabburati este despre cel care face, iar după explicația a doua, despre cel căruia i se face, ca: „Și Dumnezeu este Regele meu din vechime” – despre cel căruia i se face.<br><br>«Soții ale lui Lameh.» Ca: „Iar lui Moise i-a spus: „Urcă-te la Domnul””, „dar pentru om nu s-a găsit ajutor pe potriva lui”, „și pe Iefta și pe Samuel”."
    },
    {
     "author": "Talmudul Babilonian, Sanhedrin 38b:21",
@@ -4066,6 +4287,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Dacă de șapte ori este răzbunat Cain.» Lui Cain, care a ucis cu voia, i s-a amânat până la șapte generații; mie, care am ucis fără voie, nu cu atât mai mult mi se vor amâna multe de câte șapte?<br><br>«Șaptezeci și șapte.» A luat pentru sine expresia „multe de câte șapte”; așa a tâlcuit Rabbi Tanḥuma. Iar după midrașul Bereșit Rabba, Lameh nu a ucis pe nimeni, iar soțiile lui se îndepărtau de el după ce își împliniseră rodirea și înmulțirea, pentru că se hotărâse decretul ca urmașii lui Cain să fie nimiciți după șapte generații. Ele au zis: De ce să naștem spre pieire? Mâine vine potopul și mătură totul. Iar el le zice: Oare am ucis un bărbat pentru rana mea? Oare eu l-am ucis pe Abel, care era bărbat la statură și băiat la ani, ca urmașii mei să fie nimiciți pentru acea vină? Dacă lui Cain, care a ucis, i s-a amânat șapte generații, mie, care n-am ucis, nu cu atât mai mult mi se vor amâna multe de câte șapte? Și aceasta este o concluzie de la ușor la greu (qal va-ḥomer) a nebuniei: dacă este așa, Sfântul, binecuvântat fie El, nu Își mai încasează datoria și nu Își mai împlinește cuvântul."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Lameh de șaptezeci și șapte de ori!» Căci suferința pe care o voi suferi pentru aceasta în toate zilele mele va fi mult mai mare decât suferința pe care a suferit-o Cain fiind rătăcitor și pribeag; și aceasta pentru că Lameh a suferit în toate zilele lui, căci l-a ucis pe Cain, străbunul lui, și pe Tubal-Cain, fiul lui, după cum a venit în tradiție."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Dacă de șapte ori este răzbunat Cain.» Este explicat în versetul dinaintea lui. Și această povestire a fost ca să facă cunoscut că din vechime era credința oamenilor în purtarea de grijă a lui Dumnezeu față de cele de jos: răsplătește cu bine pe cei buni și cu rău pe cei răi, și uneori este îndelung-răbdător cu unul mai mult decât cu altul."
    }
   ],
   "fidela": "Dacă va fi răzbunat Cain de şapte ori, cu adevărat, Lameh de şaptezeci şi şapte de ori."
@@ -4318,6 +4547,14 @@ window.CHAPTER_DATA = [
     "text": "«Și Adam a cunoscut-o etc.» Lameh a venit la Adam cel dintâi și s-a plâns de soțiile lui. El le-a zis: Oare vouă vă revine să cântăriți hotărârea Celui Atotprezent? Voi faceți-vă porunca, iar El va face ce este al Lui. Ele i-au zis: Îndreaptă-te mai întâi pe tine: oare nu te-ai despărțit de soția ta de o sută treizeci de ani, de când a fost hotărâtă moartea din pricina ta? Îndată: „Și Adam a cunoscut-o” etc. Și ce înseamnă „din nou”? Ca să ne învețe că i s-a adăugat poftă peste pofta lui."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar sensul lui «în locul lui Abel»: în locul lui."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Adam a cunoscut-o din nou pe soția sa.» Aceasta a fost după o sută treizeci de ani, cum este scris mai jos; și în acei o sută treizeci de ani nu a născut, căci nu a cunoscut-o, din pricina pedepsei pe care i-o pricinuise; și s-a despărțit de ea o sută treizeci de ani.<br><br>«Dumnezeu mi-a dat (šat) un alt urmaș.» Căci a spus: „Dumnezeu mi-a dat (šat) un alt urmaș”, de aceea i-a pus numele Set; și la fel a spus Traducătorul: „căci a spus”.<br><br>«Căci Cain l-a ucis», și nu a rămas sămânță de la el; iar Domnul mi l-a plătit în locul lui, ca să lase sămânță; de aceea a spus: „Iar lui Set, și lui, i s-a născut un fiu”, că a lăsat sămânță. Iar explicația lui gam („și lui”): așa cum ea a născut un fiu, așa fiul ei a născut un fiu, și a fost o sămânță statornică. Iar din seminția lui Cain nu a povestit mai departe de fiii lui Lameh, pentru că sămânța nu s-a păstrat, căci au fost șterși în potop; iar Noe era din Set, cum povestește mai departe."
+   },
+   {
     "author": "Cartea Jubileelor 4 — context/comparație",
     "text": "Și Adam și soția lui l-au jelit pe Abel patru săptămâni de ani, și în anul al patrulea al săptămânii a cincea s-au veselit, și Adam a cunoscut iarăși pe soția sa, și ea i-a născut un fiu, și el i-a pus numele Set; căci a zis: Dumnezeu ne-a ridicat o a doua sămânță pe pământ în locul lui Abel, căci Cain l-a ucis."
    }
@@ -4524,6 +4761,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "Iar gramatica lui huḥal („a început”): din verbele cu radicală dublă; și dacă ḥet n-ar fi din gâtlej, ar fi primit dageș; și este din rădăcina teḥillah („început”), iar sensul este că au început să se roage. Iar dacă ar fi din ḥillul („pângărire”), „Numele” ar fi fost alipit de cuvânt."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Atunci a început să fie chemat Domnul pe nume.» Atunci au început cei drepți ai generației să propovăduiască mulțimilor Numele Domnului, ca în: „și a chemat acolo Numele Domnului, Dumnezeul veșnic”; căci au trebuit să răstoarne părerile închinătorilor la stele și la idoli, care au început atunci, după cuvintele înțelepților noștri, binecuvântată fie amintirea lor."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Atunci a început (huḥal) să fie chemat Domnul pe nume.» Explicație: să se jure strâmb; din exprimarea „să nu-și profaneze (yaḥel) cuvântul”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar lui Set, și lui, i s-a născut un fiu.» A spus „și lui”, căci, așa cum Adam a născut un fiu bun, în asemănarea lui, după imaginea lui, și Set a născut un fiu în asemănarea lui, după imaginea lui.<br><br>«Atunci a început (huḥal) să fie chemat Domnul pe nume.» Unii explică huḥal cu sensul de pângărire (ḥillul), iar alții îl explică cu sensul de început. Iar în Targumul lui Onkelos am găsit două versiuni; este o versiune: „atunci, în zilele lui, au început oamenii să se roage în Numele Domnului”, care explică lucrul „atunci a început” cu sensul de început: că în zilele lui au început oamenii să cheme Numele Domnului, adică să se roage Lui în vremea strâmtorării lor și ca să le împlinească nevoile; căci până în zilele lui Enoș nu era părerea lor că rugăciunea le folosește, căci ce s-a hotărât s-a hotărât și nu se întoarce. Iar după ce am văzut în expunerile învățătorilor noștri, binecuvântată fie amintirea lor, și la fel este părerea celor mai mulți oameni, că în zilele lui Enoș oamenii au rătăcit după închinarea la idoli, explicația va fi că atunci au început oamenii să numească stelele și constelațiile cu Numele Domnului; adică lor le slujeau și se rugau, căci era părerea lor că ele sunt mijlocitoare între Dumnezeu și celelalte făpturi ale Lui, și, pentru mărimea lor și pentru ele însele, sunt vrednice să li se slujească, iar ele vor face să izbutească lucrarea celui care le slujește, căci ele sunt conducătoarele lumii de jos. Iar dacă este cu sensul de pângărire, explicația va fi că chemarea Numelui Domnului a fost pângărită atunci, și au asociat cu El făpturile de sus, cele puternice; și de la vremea aceea s-a răspândit acea credință, și și părțile acelei slujiri: unii și-au ales slujirea soarelui, alții slujirea lunii, alții cutare stea, alții cutare stea, până ce s-a răspândit acea credință în mulțimea cetăților, încât slujeau chipurilor de lemn și de piatră, care nu văd și nu aud, nu mănâncă și nu miros. Iar Targumul Ierușalmi: „Iar lui Set, numai lui, i s-a născut un fiu și i-a pus numele Enoș; în zilele lui, iată, au început oamenii să slujească o slujire străină și să-i numească cu numele Cuvântului Domnului”. Iar spunând „numai lui”, înseamnă că numai lui i s-a păstrat sămânța, și nu lui Cain și lui Abel; dar este de mirare cum a făcut din adăugare restrângere.: „«și i-a pus numele Enoș» – l-au întrebat înaintea lui Abba Kohen Bardala: Adam, Set, Enoș – și tace? Le-a spus: până aici, în imagine și în asemănare; de aici înainte, generațiile s-au stricat și au fost create kentauri”."
    }
   ],
   "fidela": "Şi lui Set, de asemenea, i s-a născut un fiu şi i-a pus numele Enos: atunci au început oamenii să cheme numele DOMNULUI.",

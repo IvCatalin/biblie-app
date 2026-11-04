@@ -324,6 +324,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Fiecare după tălmăcirea visului său.» L-am explicat deja."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Fiecare după tălmăcirea visului său»: l-am explicat."
    }
   ]
  },
@@ -539,7 +543,12 @@ window.CHAPTER_DATA = [
   ],
   "textCompare": [],
   "refs": [],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Cele costelive» (ha-raqqot): cu reș, ca „slabe la carne” (raqqot basar), pe care l-am explicat."
+   }
+  ]
  },
  {
   "num": 21,
@@ -1264,7 +1273,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Și a pus hrana în orașe»: căci hambarele le-a făcut în orașe, și nu în sate; iar ce strângea din cincimi de pe câmpurile satelor punea în hambarele din orașe."
+    "text": "«Iosif a adunat toată hrana»: l-am explicat.<br><br>«Și a pus hrana în orașe»: căci hambarele le-a făcut în orașe, și nu în sate; iar ce strângea din cincimi de pe câmpurile satelor punea în hambarele din orașe."
    }
   ]
  },

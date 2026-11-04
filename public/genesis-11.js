@@ -95,6 +95,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«O singură limbă (śafah eḥat).» Cu pataḥ mic sub alef când este în formă absolută; iar dacă este în stare construită, vine cu pataḥ mare; iar în Cartea Gramaticii am lămurit de ce lipsește un dalet. Iar Împrăștierea, după cum se vede din cântărirea minții, a fost la o sută de ani după potop. Iar s-a numit Peleg pentru că în vremea nașterii lui s-a împărțit (niflegah) pământul, ca traducerea arameică pentru „jumătate”; și ca el palgei mayim („pâraiele de apă”), care sunt părțile apelor în care se împarte fluviul. Și tot așa I-Cabod, și Emanuel, care este fiul profetului. Iar cuvintele Seder Olam sunt drepte, și pe el ne sprijinim; și dacă așa, Avraam era dintre ziditorii turnului. Și nu te mira că Noe și Sem erau acolo, căci Sem n-a murit până ce Iacov, părintele nostru, a fost de cincizeci de ani și mai mult. Iar sensul lui śafah eḥat: o singură limbă. Iar cel mai apropiat după mine este că era limba sfântă; iar numele Adam, Eva, Cain, și Set și Peleg sunt martori.<br><br>Iar sensul lui «cuvinte aceleași (devarim aḥadim)»: pentru că se găsesc astăzi în orice limbă cuvinte pe care nu le înțeleg toți oamenii limbii, iar în acele zile cuvintele înțeleptului și ale nebunului erau aceleași; iar aḥadim este plural, din rădăcina eḥad."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Tot pământul avea.» Toți locuitorii pământului erau de o singură limbă (safah), adică toți vorbeau o singură limbă (lašon), și aceasta este limba sfântă, cum am scris.<br><br>«Și un scop unic» (u-devarim aḥadim). Aveau o singură învoială; și la fel: „ca să lupte cu Iosua, cu o singură gură”, adică cu o singură învoială. Iar învoiala lor era să meargă pe pământ și să-și caute un loc larg, și să locuiască acolo toți și să nu se împrăștie încoace și încolo, când vor fi un popor mult. Și aceasta a fost la trei sute patruzeci de ani după potop. În această învoială a lor, după cum se pare, nu erau acolo Noe și fiii lui, Sem, Eber și Iafet, căci erau înțelepți și drepți; și într-adevăr erau mulți înțelepți în generație, căci înțelepciunile, cum am scris, au fost alcătuite în acele vremuri, odată cu lungimea anilor acelor oameni deosebiți; iar cărțile înțelepciunilor pe care le-au alcătuit până la potop erau în mâna lui Noe și a fiilor lui. De asemenea Noe, care a trăit zile lungi, și la fel Sem, fiul lui, nu se poate să nu fi alcătuit cărți de înțelepciune. De asemenea Avraam, părintele nostru, era atunci, în generația dezbinării, în vârstă de patruzeci și cinci de ani, și într-adevăr era un mare înțelept, și la patruzeci de ani și-a cunoscut Creatorul, după cuvintele unora dintre învățătorii noștri, binecuvântată fie amintirea lor, iar după cuvintele altora dintre ei, la trei ani. Și nu era părerea tuturor înțelepților acelei generații că Dumnezeu a creat pământul decât ca să-l așeze în întregime sau în cea mai mare parte; și știau de asemenea că, înmulțindu-se oamenii, nu-i va cuprinde un singur loc, ca valea Babelului sau unul mai mare decât ea; dacă este așa, acea învoială era deșartă în ochii înțelepților acelei generații, numai că fără voia lor s-au plecat după cei mulți, care nu erau înțelepți, ca să construiască orașul și turnul. Și pentru că toți vorbeau o singură limbă, erau mai aproape de a fi într-o singură învoială. Iar în Bereșit Rabba: s-au gândit la idolatrie; au spus: Nu este în puterea Lui să-Și aleagă pentru Sine cele de sus; veniți să facem război cu El.<br><br>Aceasta este „și un turn cu vârful în ceruri”. Și aceasta nu este după sensul ei simplu, căci nu erau proști să facă un război adevărat; ci războiul acesta a fost în credință, să slujească altuia în afară de El; și când s-au împrăștiat, învoiala lor s-a anulat."
    }
   ]
  },
@@ -229,6 +233,26 @@ window.CHAPTER_DATA = [
    "Geneza 10:10"
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Când au călătorit dinspre răsărit.» Căci locuiau acolo, cum este scris mai sus: „Reședința lor s-a întins” etc., „muntele de la răsărit”; și au plecat de acolo ca să cerceteze un loc care să-i cuprindă pe toți, și n-au găsit decât Șinear."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar ce a spus Scriptura, «când au călătorit dinspre răsărit», este semn că munții Ararat sunt la răsărit.<br><br>Iar sensul lui «au găsit o vale»: că au căutat un loc bun pentru a zidi o cetate, până au găsit această vale. Iar explicația lui biqʿah: o câmpie netedă, opusul crestelor; și tot așa „ca dobitocul care coboară în vale”. Și se poate să fie între munți, ca și cum s-ar fi despicat (nivqeʿu) în mijloc."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«când au călătorit dinspre răsărit» Rashi a explicat că locuiau acolo, cum este scris mai sus: „Reședința lor s-a întins de la Meșa venind către Sefar, muntele de la răsărit”, și au călătorit de acolo ca să-și caute un loc care să-i cuprindă, și n-au găsit decât Șinear. Dar aceasta nu este corect, căci numai despre urmașii lui Sem s-a spus aceasta; și de ce să le atribuie lor dezbinarea, când fiii lui Iafet și fiii lui Ham erau mai mulți decât ei? Și apoi, reședința lor în țările lor era de la Meșa până la muntele de la răsărit, iar dezbinarea a fost înainte de a fi reședința lor; căci fiii lui Iafet nu au venit din insulele mării în valea din țara Șinear, ci la dezbinare Numele i-a împrăștiat pe fața întregului pământ, și atunci au fost așezați în țările lor, după neamurile lor. Iar Rabbi Avraham a explicat că munții Ararat sunt la răsărit; și bine a spus, căci ei sunt la răsărit, aproape de Asur, cum s-a spus: „iar ei au scăpat în țara Ararat”; și Noe, când a coborât de pe munte, s-a așezat în țările acelea, el și urmașii lui; și când s-au înmulțit, au călătorit de acolo spre această vale. Iar oamenii dezbinării, după cuvintele învățătorilor noștri, erau răzvrătiți împotriva Creatorului lor; iar cei care urmăresc sensul simplu spun că gândul lor nu era decât să fie împreună, uniți, căci Scriptura a spus gândul lor: „ca nu cumva să fim împrăștiați”, și nu a povestit despre ei alt lucru. Dar dacă ar fi după cuvintele lor, ar fi fost proști: căci cum ar fi de ajuns un singur oraș și un singur turn pentru toți fiii lumii? Sau poate gândeau că nu vor fi roditori și nu se vor înmulți? Și sămânța celor răi va fi nimicită. Dar cel care cunoaște explicația lui „nume” (šem) va înțelege intenția lor din ce au spus: „și să ne facem un nume”, și va ști cât de mare era măsura pe care plănuiau s-o facă la turn, și va înțelege tot lucrul: căci au gândit un gând rău, iar pedeapsa care a venit asupra lor, de a-i despărți în limbi și în țări, a fost măsură pentru măsură, căci tăiau lăstarii. Și iată, păcatul lor seamănă cu păcatul tatălui lor; și poate de aceea au tâlcuit: „pe care l-au construit fiii omului” – a spus Rabbi Berekhia: Ce, fii de măgari, fii de cămile? Ci fiii lui Adam cel dintâi etc. Și ia aminte că în toată povestea potopului a amintit „Dumnezeu”, iar în toată povestea dezbinării a amintit Numele unic; căci potopul a fost pentru stricarea pământului, iar dezbinarea pentru că au tăiat lăstarii, și iată, ei sunt pedepsiți prin Numele Lui cel mare. Și acesta este sensul coborârii; și tot așa la măsura Sodomei. Iar cel înțelept va înțelege."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Când au călătorit dinspre răsărit.» După obiceiul păstorilor, care călătoresc din loc în loc ca să găsească o pășune potrivită."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a fost, când au călătorit dinspre răsărit» (mi-qedem): de la răsărit (mi-mizraḥ), căci acolo a fost la început locuirea, și acolo a fost creat Adam, căci grădina Edenului este la răsărit; iar Noe, când a ieșit din arcă, s-a dus la locul primei lui locuiri, sau arca era acolo când a ieșit din ea; de asemenea munții Ararat sunt la răsărit. Iar ei, în învoiala lor, au ieșit din acel răsărit și au venit spre apus, până la Babel. Iar valea este un loc șes între munți; este una largă și este una strâmtă; iar acest șes l-au găsit larg și s-au învoit să locuiască acolo, și s-au așezat acolo; și locul acela s-a numit țara Șinear, și ea este cea pomenită mai sus; căci am scris deja că lucrul acela a fost după dezbinare. Și Scriptura nu a povestit de ce s-a numit Șinear; iar învățătorii noștri, binecuvântată fie amintirea lor, au spus: pentru că morții apelor potopului au fost scuturați (nineʿaru) acolo, pentru că este o vale."
+   },
    {
     "author": "Talmudul Babilonian, Megila 10b:6",
     "text": "„Și a fost, când au călătorit dinspre răsărit” — „Haideți să ne construim un oraș”. „Și a fost în zilele lui Amrafel” — „au făcut război”. „Și a fost, pe când era Iosua lângă Ierihon” — „și sabia lui scoasă în mâna lui”. „Și a fost Domnul cu Iosua” — „Și copiii lui Israel au săvârșit o fărădelege”. „Și a fost un om din Ramataim” — „căci pe Ana o iubea, dar Domnul îi închisese pântecele”."
@@ -398,6 +422,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Unul altuia.» Un neam altui neam: Mițraim lui Cuș, și Cuș lui Put, și Put lui Canaan.<br><br>«Haideți (havah).» Pregătiți-vă. Orice havah este cuvânt pentru pregătire: se pregătesc și se unesc pentru o lucrare, pentru un sfat sau pentru o povară. Havah — pregătiți-vă, în laʿaz apareiller.<br><br>«Cărămizi.» Căci nu sunt pietre în Babel, care este o vale.<br><br>«Și să le ardem în foc.» Așa se fac cărămizile, care se numesc în laʿaz tieules: se ard în cuptor.<br><br>«Drept mortar.» Ca să tencuiască zidul."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Să facem cărămizi (nilbenah).» Din rădăcina levenim („cărămizi”); și deși pluralul este cu mem, sunt cuvinte feminine, ca našim și pilagšim. Și iată, au ars cărămizile până s-au întărit; și aceasta este zidirea cea tare, care nu se topește nici în apă, nici în foc.<br><br>«Și cărămida le-a servit drept piatră.» În loc de piatră.<br><br>«Iar smoala (ha-ḥemar).» În loc de lut; și explicația lui este după înțelesul lui în limba lui Ismael. Iar acești ziditori ai turnului nu erau proști, ca să creadă că vor urca la ceruri; și nici nu se temeau de potop, căci Noe și fiii lui, cărora Numele le jurase, erau acolo, și toți ascultau de ei, căci erau fiii lor. Și iată, Scriptura a descoperit dorința lor și capătul gândului lor: să zidească o cetate mare pentru locuința lor și să zidească un turn înalt, ca să le fie semn, nume și laudă, ca să cunoască locul cetății cei care merg afară, ca păstorii de vite; și să le rămână numele după ei, toate zilele turnului. Și aceasta este ce a spus Scriptura: „și să ne facem un nume”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Haideți să facem cărămizi.» Ca să construiască case și țarcuri pentru turme; și acesta a fost sfatul oamenilor de rând din mulțime în această privință, cum a spus: «și și-au spus unul altuia»."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Haideți» (havah). Acest cuvânt s-a obișnuit pentru sfat sau ajutor ca să facă lucrul despre care s-a spus, și nu este o poruncă propriu-zisă, ci în sensul unui infinitiv sau al unui substantiv; de aceea cuvântul vine și pentru feminin, și pentru plural.<br><br>«Să facem cărămizi» (nilbenah levenim). Adaos de lămurire, ca: „și David a postit post”, și cele asemenea lor; și la fel „să le ardem în foc” (nisrefah li-srefah). Iar în acea vale nu este piatră; de aceea toată construcția lor este din cărămizi; iar cărămizile le fac din lut, și după aceea le ard în cuptor.<br><br>«Și cărămida le-a servit drept piatră» (le-aven). Vine cu qamaṣ la zaqef qaṭon, și la fel „și acestea sunt urmașii lui Pereț”, „el va fi sclavul meu” (ʿaved) și cele asemenea lor. Și cărămida le-a servit pentru construcție în loc de piatră, căci nu sunt pietre în Babel.<br><br>«Iar smoala le-a servit drept mortar.» Ḥemar este lut frământat, țărână cu apă, iar ḥomer este cel frământat din var și nisip cu apă; și acolo nu aveau pietre ca să le ardă pentru var, și le-a servit pentru construcții ḥemar în loc de ḥomer."
    }
   ],
   "refs": [
@@ -569,6 +605,22 @@ window.CHAPTER_DATA = [
     "text": "«Ca nu cumva să fim împrăștiați.» Ca să nu aducă asupra noastră vreo lovitură care să ne împrăștie de aici."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar cuvântul havah („haideți”) este ca tenah („dă”), iar rădăcina lui este yhv; iar martorul: „aruncă-ți asupra Domnului povara (yehavkha)”. Și pentru că se vorbește mult cu el, îl vei găsi tot așa la plural: „haideți (havah) să ne purtăm cu înțelepciune”, și la feminin: „lasă-mă (havah na) să intru la tine”.<br><br>Și nu te mira de cuvântul «cu vârful în ceruri», căci iată, așa a vorbit Moise: „cetăți mari și întărite până la ceruri”. Iar acești ziditori au văzut în sfatul lor să nu se despartă, dar Numele n-a sfătuit așa, iar ei nu știau."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Ei au spus: Haideți să ne construim un oraș.» Acesta a fost sfatul căpeteniilor generației, ca să-l facă rege pe Nimrod peste tot neamul omenesc.<br><br>«Și un turn cu vârful în ceruri și să ne facem un nume.» Să facem acolo o închinare la idoli, care să fie în turn, și să iasă în tot neamul omenesc vestea înălțimii locului ei și a mărimii cetății ei, astfel încât să fie socotită Dumnezeul dumnezeilor la toți oamenii și pe ea s-o caute toți. Iar intenția în aceasta era ca regele acelei cetăți să domnească peste tot neamul omenesc, fiindcă acolo avea să fie căutarea tuturor."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Haideți să ne construim un oraș.» După sensul simplu, cu ce a păcătuit generația dispersării? Dacă pentru că au spus „cu vârful în ceruri”, iată, este scris: „cetăți mari și întărite până la ceruri”. Ci pentru că Sfântul, binecuvântat fie El, le poruncise „Fiți roditori și înmulțiți-vă și umpleți pământul”, iar ei și-au ales un loc ca să locuiască acolo și au spus „ca nu cumva să fim împrăștiați”. De aceea i-a împrăștiat de acolo prin hotărârea Lui."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Haideți să ne construim un oraș.» Orașul ca să locuiască, iar turnul ca să privească de acolo în depărtare, să vadă starea vitelor și a dobitoacelor lor; și de asemenea va fi lumină pentru păstori, care își duc vitele la pășune în pustiuri departe de oraș, iar turnul le va fi drept semn și drept însemn, ca să știe să se întoarcă la oraș.<br><br>«Cu vârful în ceruri.» Vrea să spună: ca turnul să fie înalt, ca „cetăți mari și fortificate până la ceruri”, adică în înălțimea văzduhului.<br><br>«Și să ne facem un nume.» Adică: dacă vom avea un loc înalt în acest oraș, fiecare dintre noi va avea un nume, încât dacă va ieși în afara hotarului acestuia, își va aminti de oraș și se va întoarce la el; sau unul dintre cei care ies îi va aminti tovarășului său și se vor întoarce la el. Căci dacă nu vom face așa, poate ne vom împrăștia pe fața întregului pământ, încât cei care ies dintre noi vor uita tovărășia și vor rămâne acolo, în locul în care au mers, și vor locui acolo, acesta la răsărit și acela la apus, acesta la miazănoapte și acela la miazăzi, iar tovărășia noastră se va risipi; vom fi împrăștiați încoace și încolo."
+   },
+   {
     "author": "Talmudul Babilonian, Megila 10b:6",
     "text": "„Și a fost, când au călătorit dinspre răsărit” — „Haideți să ne construim un oraș”. „Și a fost în zilele lui Amrafel” — „au făcut război”. „Și a fost, pe când era Iosua lângă Ierihon” — „și sabia lui scoasă în mâna lui”. „Și a fost Domnul cu Iosua” — „Și copiii lui Israel au săvârșit o fărădelege”. „Și a fost un om din Ramataim” — „căci pe Ana o iubea, dar Domnul îi închisese pântecele”."
    },
@@ -716,6 +768,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și Domnul a coborât să vadă.» Nu avea nevoie de aceasta; ci a venit să-i învețe pe judecători să nu-l osândească pe cel judecat până nu vor vedea și nu vor înțelege. Midrașul lui Rabbi Tanḥuma.<br><br>«Fiii omului (bene ha-adam).» Dar fiii cui altcuiva? Oare fiii măgarilor și ai cămilelor? Ci fiii lui Adam cel dintâi, care a tăgăduit binele și a zis: „femeia pe care mi-ai dat-o să fie cu mine”. Și aceștia au tăgăduit binele, răsculându-se împotriva Celui care i-a copleșit cu bine și i-a salvat din potop."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar cuvântul «și Domnul a coborât»: pentru că toate faptele celor de jos atârnă de puterea celor de sus, și din ceruri sunt cântărite toate faptele; de aceea Numele este numit „Cel care călărește pe ceruri”, „Cel care locuiește în ceruri”; iar după limba oamenilor a spus Scriptura „și a coborât”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și Domnul a coborât să vadă.» Iată, expresia coborârii ca să vadă se spune despre Dumnezeu, binecuvântat fie El, când lucrul nu este atunci vrednic de pedeapsă, ci din pricina stricăciunii care va urma din el la sfârșitul lucrului; ca la fiul neascultător și răzvrătit, despre care au spus: „Tora a coborât la sfârșitul gândului lui.” Și tot așa a fost în cazul Sodomei, despre care a scris: „Voi coborî, rogu-Mă, să văd.” Căci, într-adevăr, răutatea lor nu era atunci mai mare decât a celorlalte neamuri, încât să fie pedepsiți în lumea aceasta, decât în privința cruzimii față de săracii poporului, din care urma o stricăciune desăvârșită la sfârșit, cum a spus: „Iată, aceasta a fost fărădelegea Sodomei, sora ta… și mâna săracului și a nevoiașului nu a întărit-o.” Și tot așa a fost pedeapsa Israelului când au fost exilați, cum a spus: „voi vedea care le va fi sfârșitul”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Domnul a coborât.» Pentru purtarea de grijă a lui Dumnezeu față de faptele celor de jos, Scriptura numește în acest lucru cu expresia coborârii, și la fel în lucrul Sodomei; pentru că este o coborâre pentru slava Sa să poarte grijă celor de jos; numai că așa a văzut Dumnezeu, binecuvântat fie El, în om, din pricina părtășiei minții care este în el.<br><br>«Să vadă.» Și la fel a spus în lucrul Sodomei: „și voi vedea”. Iar Onkelos a tradus aceasta în sensul răzbunării, iar pe cel al Sodomei în sensul judecății. Iar explicația aici este după sensul lui: să poarte grijă de faptele lor și de gândul lor și să le anuleze; și îl vom mai explica la lucrul Sodomei.<br><br>«Pe care l-au construit»: pe care au început să-l construiască.<br><br>«Fiii omului.» Într-adevăr fii ai omului, care merg după pofta inimii lor și nu se întorc spre lucrarea lui Dumnezeu; căci El a avut în vedere așezarea pământului de la răsărit la apus, iar ei se gândesc să locuiască într-un singur loc de pe pământ și să anuleze voia lui Dumnezeu. Și iată, în lucrul potopului nu a spus expresia coborârii, ci expresia vederii: „Și Domnul a văzut că mare era răutatea omului pe pământ”; pentru că lucrul coborârii este în sensul străduinței de a cerceta lucrul și de a purta grijă de el; iar lucrul potopului era foarte cunoscut și era în toată lumea, iar lucrul Sodomei nu era decât în țara lor și nu era cunoscut tuturor, decât în țara lor și în cele din jurul lor. Și despre toate, Tora a vorbit după limba oamenilor."
    },
    {
     "author": "Talmudul Babilonian, Sanhedrin 38b:14",
@@ -890,6 +954,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Iată, ei sunt un singur popor.» Tot acest bine este cu ei: că sunt un singur popor și au o singură limbă toți — și aceasta au început să facă!<br><br>«Încep (haḥillam).» Ca amram, ʿasotam: ei încep să facă.<br><br>«Să nu le fie deci zădărnicit… să facă?» Ca întrebare. Yibbaṣer este cuvânt pentru împiedicare, ca în Targumul lui; și asemănător lui: „zădărnicește (yivṣor) duhul căpeteniilor”."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și Domnul a spus: „Iată, ei sunt un singur popor.”» Acest cuvânt l-a spus îngerilor, și aceasta a fost înainte de „și a coborât”; iar sensul lui: a coborât pentru că a spus așa.<br><br>«Un singur popor.» Că au o singură credință (dat); căci prin schimbarea credințelor se înnoiesc gelozia și ura, și tot așa prin schimbarea limbii; de aceea a poruncit împăratul Mediei și Persiei: „și să vorbească în limba poporului său”.<br><br>Iar he din haḥillam („încep”) a primit pataḥ mare din pricina lui ḥet, care este după el; și tot așa haḥillōti.<br><br>Iar cuvântul yibbaṣer („să fie zădărnicit”) este ca yimmaneʿ („va fi oprit”); și ca el „cetăți întărite (beṣurot)”. Iar acesta este sensul: dacă îi voi lăsa, vor crede că pot face tot ce doresc.<br><br>Iar cuvântul yazemu („își propun”) este ca zamemu, și sunt două rădăcini."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Iată, ei sunt un singur popor.» Căci, într-adevăr, zădărnicirea care strică sfaturile și oprește gândurile este dezbinarea care se întâmplă între ei, fie din pricina religiilor, fie din pricina limbilor. Și iată, aceștia erau un singur popor în privința religiei, căci toți erau de acord cu credința oamenilor Sabeei; și, cu aceasta, toți erau de acord și în limbă.<br><br>«Și asta încep să facă.» Și de asemenea s-a aflat acum la toți acest început pe care l-au făcut cu acordul tuturor.<br><br>«Și acum, să nu le fie deci zădărnicit.» Dacă este așa, nu este nimic care să-i oprească să-și împlinească intenția, și acea închinare la stele pe care o vor alege va fi generală pentru tot neamul omenesc, și niciunul dintre ei nu se va întoarce să-L cunoască pe Creator, binecuvântat fie El, și să înțeleagă că El este Plăsmuitorul tuturor. Iar dimpotrivă se va întâmpla când va fi dezbinare în privința dumnezeului străin, căci fiecare dintre ele va crede că există un Dumnezeu al dumnezeilor, cu a cărui voie sunt de acord toate dumnezeirile, și prin El se desăvârșește rânduiala lor și rânduiala existenței, cum a spus: „căci de la răsăritul soarelui până la apusul lui, mare este Numele Meu între neamuri”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Domnul a spus.» Îngerilor.<br><br>«Iată, ei sunt un singur popor»: că au o singură învoială, ca „și vom fi un singur popor”.<br><br>«Și au o singură limbă»: căci prin aceasta s-a statornicit în învoiala lor, pentru că toți vorbesc o singură limbă.<br><br>«Să nu le fie ... zădărnicit»: și nu le va fi oprit.<br><br>«Tot ceea ce își propun să facă»: dacă nu-i vom opri să facă. Yazemu, în sensul gândului; iar yazam și zaʿam sunt de un singur sens."
    }
   ]
  },
@@ -1030,6 +1106,14 @@ window.CHAPTER_DATA = [
     "text": "«Hai să coborâm.» S-a sfătuit cu curtea Sa de judecată, din prea marea Lui smerenie.<br><br>«Hai (havah).» Măsură pentru măsură: ei au zis „haideți să ne construim”, iar El le-a măsurat în aceeași măsură și a zis „hai să coborâm”.<br><br>«Și să le încurcăm (ve-navlah).» Și să încurcăm; nun-ul slujește la plural, iar he-ul de la sfârșit este de prisos, ca he-ul din neredah.<br><br>«Să nu înțeleagă.» Acesta cere o cărămidă, iar acela aduce lut; iar acesta se ridică asupra lui și îi sparge capul."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Hai să coborâm.» Vorbirea Numelui cu îngerii.<br><br>Iar despre cuvântul «și să le încurcăm acolo limba (we-navlah)», toți gramaticienii spun că este din conjugarea nifal; și ca el „și duhul Egiptului („Mițrayim”) se va goli (we-navqah)”, și tot așa „jelește, se veștejește (navlah)”. Dar aceasta este departe: căci ce sens ar avea „să coborâm, și limba lor se va încurca”, când limba lor nu s-a încurcat din pricina coborârii? Ci we-navlah este ca we-naʿaśeh („și să facem”); iar dovada este că a spus la sfârșit: „căci acolo a încurcat (balal) Domnul”. Și aceasta este gramatica lui: este din conjugarea hifil, și ar fi trebuit să fie întreg: we-navlilah; iar prin înghițirea dublării: we-navellah, după forma lui „și să aducem înapoi (we-nasebbah) chivotul Domnului”; iar prin lipsa dublării: we-navlah šam. Și frumos au tradus Bătrânii: „și voi încurca” în loc de „și să încurcăm”. Iar dacă ar fi fost după cuvintele gramaticienilor, de ce ar fi lipsit nun? Iar unii spun că li s-a schimbat inima, să se urască unul pe altul, și fiecare a înnoit o limbă. Iar unii spun că Cel care îl învață pe om cunoaștere i-a făcut să uite cunoașterea limbii lor. Iar ce este drept în ochii mei este că s-au risipit de acolo; și după ce s-au risipit, Nimrod a domnit peste Babel și s-au ridicat alți împărați; iar după multe zile, când a murit prima generație, s-a uitat limba cea dintâi. Iar Numele i-a risipit, și aceasta a fost bine pentru ei; și tot așa a spus: „și umpleți pământul”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Hai.» Am explicat deja cuvântul havah, și nu este decât pe calea pildei, căci Plăsmuitorul nu se sfătuiește cu cel plăsmuit; și la fel a spus profetul: „Cu cine S-a sfătuit, ca să-L lămurească?”. Și la fel a spus „să coborâm și să încurcăm” față de îngeri, care sunt intermediari; și totul este pe calea pildei.<br><br>«Și să încurcăm» (we-navlah). Nun-ul este pentru cei care vorbesc despre ei înșiși; sau nun-ul va fi pentru nifʿal și va fi la feminin, iar sensul lui se referă la limba lor; și după ambele păreri cuvântul este ușor, iar după regulă trebuia să aibă dageș: we-nabbelah, căci rădăcina lui este bll. Iar dacă nun-ul este al celor care vorbesc, dacă este din conjugarea qal, bet-ul este cu ḥolam, iar dacă este din conjugarea hifʿil, bet-ul este cu ṣere.<br><br>«Astfel încât să nu înțeleagă» (lo yišmeʿu): să nu priceapă; și aceasta este auzirea inimii; și la fel „a cărui limbă nu o vei înțelege”. Iar cuvintele, pentru că ies prin buză și prin limbă, se numesc buză și limbă."
+   },
+   {
     "author": "Talmudul Babilonian, Sanhedrin 38b:14",
     "text": "A spus Rabbi Yoḥanan: Oriunde minii s-au dedat la erezie, răspunsul lor este alături de ei: „Să facem om în imaginea noastră”, și spune: „Și a creat Dumnezeu pe om în imaginea Sa”; „Hai să coborâm și să le încurcăm acolo limba”, „Și Domnul a coborât să vadă orașul și turnul”; „căci acolo i Se dezvăluise Dumnezeu”, „lui Dumnezeu, care mi-a răspuns în ziua restriștii mele”."
    }
@@ -1138,6 +1222,18 @@ window.CHAPTER_DATA = [
    "Geneza 10:25,32"
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Și Domnul i-a împrăștiat de acolo.» În lumea aceasta. Ceea ce au zis, „ca nu cumva să fim împrăștiați”, s-a împlinit asupra lor. Aceasta este ce a spus Solomon: „ce se teme cel rău, aceea îl va ajunge”."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar sensul lui «și s-au oprit din a mai construi orașul»: din a-l desăvârși; căci deja zidiseră o parte din cetate și o parte din turn, căci așa este scris: „pe care l-au construit fiii omului”. Sau va fi explicația lui „pe care l-au construit fiii omului”: în gândul lor; și tot așa „și a luptat împotriva lui Israel”, despre Balac. Iar prima este dreaptă în ochii mei."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Domnul i-a împrăștiat.» Prin aceea că le-a încurcat limba i-a împrăștiat; căci, de vreme ce nu înțelegea unul limba tovarășului său, învoiala lor s-a anulat și nu au putut construi; și fiecare ceată dintre ei, care era de o singură limbă, a mers într-o parte, și au așezat lumea de la răsăritul soarelui până la apusul lui, puțin câte puțin, după cum mergeau înmulțindu-se. Iar în lărgimea pământului s-au așezat mai mult spre partea de miazănoapte, pentru că acea parte este mai potrivit de temperată decât partea de miazăzi; căci în partea de miazăzi, din pricina mulțimii căldurii ei, oamenii nu pot locui în cea mai mare parte a ei, ci numai într-o mică parte, spre linia ecuatorului.<br><br>«Și s-au oprit din a mai construi orașul»: cu atât mai mult turnul. Dar orașul l-au construit mai mic decât cum îl începuseră, căci o ceată dintre ei a rămas acolo; dar s-au oprit să-l construiască mare, cum începuseră; iar pe cel pe care l-au construit l-au numit Babel, căci acolo a încurcat Domnul limba întregului pământ și de acolo s-au împărțit limbile; cât timp erau acolo împreună, erau încurcate și amestecate."
+   },
    {
     "author": "Talmudul Babilonian",
     "text": "În lucru: traducerea acestui comentariu urmează."
@@ -1282,6 +1378,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și de acolo i-a împrăștiat.» Ne învață că nu au parte de lumea viitoare. Și care faptă este mai grea: a generației potopului sau a generației despărțirii? Aceia nu și-au întins mâna împotriva Celui care este Rădăcina, iar aceștia și-au întins mâna împotriva Rădăcinii, ca să lupte cu El; și aceia au fost înecați, iar aceștia nu au pierit din lume? Ci generația potopului erau jefuitori și era ceartă între ei, de aceea au pierit; iar aceștia se purtau cu dragoste și prietenie între ei, cum s-a spus: „o singură limbă și un scop unic”. Ai învățat că urâtă este cearta și mare este pacea."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Babel» – două cuvinte, iar alef lipsește; și tot așa begad și bamah."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și de acolo i-a împrăștiat.» I-a împrăștiat pe cei mai mulți, căci s-au împărțit în șaptezeci de limbi, iar o singură limbă a rămas acolo; și pentru că acolo a fost încurcătura, a numit numele orașului Babel. Și cel care l-a numit a fost cineva dintre ei care vorbea limba sfântă (și el a fost cel dintâi), căci Bavel și balal sunt limba sfântă. Și ar fi trebuit să spună Balal, de la balal; ce este Bavel? Ci cuvântul este compus din două cuvinte, ca să lămurească prin el mai mult lucrul, căci sensul lui este ba bal, adică: le-a venit încurcătura din ceruri; iar bal este un nume cu completarea lui balal, ca qen de la qanan și ḥen de la ḥanan și cele asemenea lor.<br><br>«Limba întregului pământ.» Toate neamurile pământului, a căror limbă s-a împărțit acolo, erau amestecate.<br><br>«Și de acolo i-a împrăștiat.» După ce erau de o singură limbă, Domnul i-a împrăștiat, cum am explicat."
    },
    {
     "author": "Talmudul Babilonian",
@@ -1438,6 +1542,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Sem avea o sută de ani.» Când i s-a născut Arpacșad, la doi ani după potop."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar explicația lui «la doi ani» este la versetul „fratele lui Iafet cel mare”. Și se poate ca Peleg să fi fost numit cu acest nume în ziua în care a fost adunat; căci Sem a trăit cinci sute de ani după potop, și Arpacșad patru sute treizeci și opt de ani, și Șelah, fiul lui, patru sute treizeci și trei, și Eber, fiul lui, patru sute șaizeci și patru; și iată, toate zilele lui Peleg au fost două sute treizeci și nouă de ani, și iată, ele sunt jumătate din zilele părinților lui; și Reu, fiul lui, a trăit după el ca numărul anilor lui Peleg, și Serug aproape de ei. Și aceasta este regula: nu este după Peleg nimeni care să fi trăit două sute treizeci și nouă de ani ca Peleg, decât fiul lui singur. Iar unii spun că ziditorii turnului erau șaptezeci, și de aceea s-au risipit în șaptezeci de limbi; și când îi numeri pe fiii lui Sem, și pe fiii lui Iafet, și pe fiii lui Ham, îi vei găsi șaptezeci. Dar aceasta nu este dreaptă, căci explicația lui caftoriți și patrusiți nu este doi oameni; și încă, nu i-a adus în număr pe Noe și pe fiii lui. Iar după părerea lui Seder Olam, ziditorii turnului ar fi mii și zeci de mii."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«La doi ani după potop.» Am explicat deja aceasta în Cartea Genezei, la versetul „Și a trăit Noe”. Și deși a pomenit urmașii lui Sem mai sus, împreună cu urmașii fraților lui, i-a repetat pentru ordinea urmașilor de la el până la Avraam, părintele nostru; de aceea nu a pomenit dintre fiii lui Sem decât pe Arpacșad, pentru că din urmașii lui a ieșit Avraam, părintele nostru. Și a fost povestirea „la doi ani după potop” pentru că, din povestirea „Sem avea o sută de ani”, nu am fi știut când s-a născut Arpacșad, căci s-au născut întâi Elam și Asur. Și am scris deja că povestirea anilor celor pomeniți, de la Adam până la Noe și de la Noe până la Avraam, este ca să se cunoască din ei numărul anilor de la creația lumii; și totul este ca să facă cunoscută înnoirea lumii."
    }
   ]
  },
@@ -1569,6 +1681,10 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Şi Sem a trăit, după ce a născut pe Arpacşad, cinci sute de ani; şi a născut fii şi fiice.",
   "commentaries": [
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și i s-au născut fii și fiice.» Nu a amintit la niciunul din aceste zece generații «și a murit», cum a amintit la acele zece generații de la Adam până la Noe; căci aceia au murit toți înainte de a fi subiectul povestirii urmărite atunci, adică potopul. Dar aceștia erau toți vii în vremea în care a început subiectul povestirii urmărite aici, adică strădania lui Avraam, părintele nostru, mai mult decât a tuturor drepților generațiilor de dinaintea lui, de a chema Numele Domnului, ca să facă cunoscute oamenilor faptele Lui puternice și slava strălucirii domniei Lui, și să-i atragă cu funiile iubirii de bunătate, ca să-L slujească umăr la umăr."
+   },
    {
     "author": "Notă structurală",
     "text": "Genealogia lui Șem reia, aproape identic ca formulă, structura din Geneza 5 — dar cu o diferență cronologică majoră: vârstele scad dramatic aici față de patriarhii antediluvieni, un tipar remarcat des de cercetători ca reflectând o scădere treptată a longevității umane după Potop."
@@ -3430,7 +3546,12 @@ window.CHAPTER_DATA = [
    "1 Cronici 1:26",
    "Iosua 24:2"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar Avram s-a născut în locul numit Ur Casdim; și ca el „de aceea, în Urim (be-urim) slăviți-L pe Domnul”. Iar cel mai apropiat este că avea alt nume, căci casdiții sunt dintre fiii lui Nahor, fratele lui Avram; doar că Moise a scris numele cunoscut în zilele lui. Iar martorul că acolo s-a născut Avram: că acolo a murit Haran, fratele lui, și este scris „în țara sa natală”. Și se poate ca focul (ur) să-l fi făcut casdiții în locul pomenit, și s-a numit așa, ca „Cel care are foc (ur) în Sion”."
+   }
+  ]
  },
  {
   "num": 27,
@@ -3604,7 +3725,12 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 12:1-5"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și aceștia sunt urmașii lui Terah.» Și i-am pomenit deja în versetul dinaintea lui, și nu a adăugat decât urmașii lui Lot; ci vine să pomenească întâmplările care l-au atins, căci și ele se numesc urmași (toledot); și a început cu urmașii fiilor; iar ceea ce l-a atins este moartea fiului său în timpul vieții lui, ieșirea lui din Ur Casdim și moartea lui în Haran.<br><br>«Iar lui Haran i s-a născut Lot.» Și nu a pomenit urmașii lui Nahor, căci nu a născut decât după legarea lui Isaac; și a pomenit urmașii lui Haran pentru că Lot, fiul lui, a ieșit împreună cu Avraam."
+   }
+  ]
  },
  {
   "num": 28,
@@ -3752,6 +3878,22 @@ window.CHAPTER_DATA = [
    "Neemia 9:7"
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Înaintea (ʿal pene) tatălui său Terah.» În timpul vieții tatălui său. Iar midrașul aggadei spune că a murit din pricina tatălui său: căci Terah s-a plâns împotriva lui Avram, fiul său, înaintea lui Nimrod, pentru că îi sfărâmase idolii, iar Nimrod l-a aruncat în cuptorul de foc. Iar Haran stătea și zicea în inima lui: Dacă Avram învinge, eu sunt de partea lui; și dacă Nimrod învinge, eu sunt de partea lui. Și când Avram a fost salvat, i-au zis lui Haran: De partea cui ești? Haran le-a zis: Eu sunt de partea lui Avram. L-au aruncat în cuptorul de foc și a ars; și aceasta este Ur Casdim („focul caldeenilor”). Iar Menaḥem a explicat ur — vale; și tot așa „în văi (ba-urim) slăviți-L pe Domnul”, și tot așa „vizuina (meʾurat) viperei”: orice gaură, crăpătură sau adâncitură se numește ur."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar sensul lui «înaintea (ʿal penei)»: în fața tatălui său; că a murit în timp ce tatăl lui vedea; și ca el „în fața (ʿal penei) lui Aaron, tatăl lor”."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«înaintea tatălui său Terah, în țara sa natală» Rashi a scris, după cuvintele învățătorilor noștri: Terah s-a plâns de fiul său Avram înaintea lui Nimrod, pentru sfărâmarea idolilor lui, iar acesta l-a aruncat în cuptor; și Haran stătea și spunea: dacă Avram învinge, sunt de partea lui, iar dacă Nimrod învinge, sunt de partea lui. Și când Avram a fost salvat, i-au spus: De partea cui ești? Le-a spus: Sunt de partea lui Avram. L-au aruncat în cuptor și a ars; și acesta este Ur Casdim. Iar Menahem a explicat: ur – vale; și tot așa: „De aceea, be-urim slăviți-L pe Domnul”, și tot așa: „vizuina (meʾurat) viperei”: orice gaură și crăpătură adâncă se numește ur. Dar lucrul pe care l-au primit prin tradiție învățătorii noștri în aceasta este adevărul, și eu îl lămuresc. Avraam, tatăl nostru, nu s-a născut în țara caldeenilor (Casdim), căci părinții lui erau fii ai lui Sem, iar caldeenii și toată țara Șinear sunt țări ale fiilor lui Ham; și Scriptura a spus: „și i-a dat de veste lui Avram evreul”, nu „caldeeanul”; și este scris: „Dincolo de Râu au locuit părinții voștri din vechime, Terah, tatăl lui Avraam și tatăl lui Nahor”, iar cuvântul „din vechime” arată că de acolo erau urmașii lui de atunci; și este scris: „Și l-am luat pe tatăl vostru, pe Avraam, de dincolo de Râu”. Și dovadă pentru lucru: Nahor era în Haran; iar dacă locul lui Terah ar fi fost Ur Casdim, în țara Șinear, și Scriptura a povestit că, la ieșirea lui din Ur Casdim, nu l-a luat cu el decât pe Avram, fiul său, și pe Lot, fiul lui Haran, fiul fiului său, și pe Sarai, nora sa, atunci Nahor ar fi rămas în țara caldeenilor. Dar, de fapt, țara lor natală este țara Aram, dincolo de Râu, și ea este moștenirea părinților lui din vechime; și Scriptura spune despre fiii lui Sem: „Reședința lor s-a întins de la Meșa venind către Sefar, muntele de la răsărit”, și acesta este un nume general, cum este scris: „în țările lor, după neamurile lor”; și este scris: „Din Aram m-a adus Balac, regele Moabului, din munții de la răsărit”. Și iată, el și părinții lui sunt din țara aceea din vechime. Și am găsit în Talmud că Avraam a fost închis în Cuta; iar orașul acesta nu este în țara caldeenilor, căci este scris: „Și regele lui Asur a adus din Babilon, din Cuta, din Ava și din Hamat”, și este scris: „Și oamenii din Babilon au făcut Sucot-Benot, iar oamenii din Cut au făcut Nergal”. Dar se pare că este un oraș dincolo de Râu, în țara Aram-Naharaim, căci Haran este acolo un oraș în țara Aram-Naharaim, cum este scris: „și s-a dus la Aram-Naharaim, la orașul lui Nahor”, care este Haran. Și apoi am cercetat și am aflat, din spusele multor ucenici care erau locuitori ai țării aceleia, că Cuta este un oraș mare între Haran și Asur, departe de ținutul Babilonului, iar între ea și Haran sunt cam șase zile; dar ea este cuprinsă în „dincolo de Râu”, pentru că se află între Aram-Naharaim și râul Eufrat, hotarul țării lui Israel, și Hidechel, care curge la răsăritul lui Asur. Și iată, Terah i-a născut pe fiii lui cei mari, Avraam și Nahor, dincolo de Râu, țara părinților lui, și s-a dus cu Avraam, fiul lui, în țara caldeenilor, și acolo i s-a născut fiul cel mic, Haran; iar Nahor, fiul lui, a rămas dincolo de Râu, în orașul Haran, fie că s-a născut în orașul acela, fie că s-a așezat în el venind din Cuta. Și acesta este sensul lui „în țara sa natală, în Ur Casdim”: căci acolo era locul de naștere numai al lui Haran. Și lucrul acesta primit prin tradiție se găsește și în cartea celor vechi dintre neamuri, cum a scris Rav în Călăuza celor rătăciți: căci au amintit în cartea „Lucrarea agricultorilor egipteni” că Avram, care s-a născut în Cuta, s-a împotrivit părerii mulțimii, care se închina soarelui, și regele l-a pus în temniță; și a fost cu ei în dispute multe zile acolo; după aceea regele s-a temut ca nu cumva să-i strice țara și să-i abată pe oameni de la credința lor, și l-a izgonit la marginea țării Canaanului, după ce i-a luat toată averea. Și iată, oricum ar fi, în locul acela din țara caldeenilor i s-a făcut o minune lui Avraam, tatăl nostru: fie o minune ascunsă, că Numele a pus în inima acelui rege să-l salveze și să nu-l omoare, și l-a scos din temniță ca să se ducă în calea lui; fie o minune vestită, că l-au aruncat în cuptorul de foc și a fost salvat, după cuvintele învățătorilor noștri. Și să nu te amăgească Rabbi Avraham cu obiecțiile lui, care spune că Scriptura nu a povestit această minune; căci îți voi mai da un motiv și o dovadă în aceasta și în cele asemenea ei. Dar neamurile acelea nu au amintit-o în cartea lor, pentru că erau împotriva părerii lui și socoteau minunea lui o faptă de vrăjitorie, ca în cazul lui Moise, învățătorul nostru, cu egiptenii, la începutul faptelor lui. Și de aceea Scriptura nu a mai amintit această minune: căci ar fi trebuit să amintească cuvintele celor care se împotriveau lui, cum a amintit cuvintele magilor Egiptului („Mițrayim”), iar cuvintele lui Avraam cu ei nu au fost lămurite cum au fost lămurite la sfârșit cuvintele lui Moise, învățătorul nostru. Și aceasta este ce a spus Scriptura: „Eu sunt Domnul care te-a scos din Ur-Casdim ca să-ți dau țara aceasta s-o moștenești”; căci cuvântul „te-a scos” (hoṣeʾtikha) arată o minune: căci nu a spus „care te-a luat (leqaḥtikha) din Ur Casdim”, ci a spus „te-a scos” (hoṣeʾtikha), că l-a scos ca pe un întemnițat din închisoare, ca: „care te-am scos din țara Egiptului”. Și a spus „ca să-ți dau țara aceasta s-o moștenești”, căci din clipa în care l-a scos din Ur Casdim, voia Lui, înălțat fie El, a fost să-l facă mare și să-i dea țara aceea. Iar Terah, tatăl lui, și Avraam aveau în inima lor, din ziua aceea în care a fost salvat, să se ducă în țara Canaanului, ca să se depărteze de țara caldeenilor de frica regelui; căci Haran le era aproape, și un singur popor și o singură limbă la toți, căci limba aramaică era a amândurora; și au voit să meargă la un popor a cărui limbă regele acela și poporul lui nu o înțeleg. Și acesta este sensul lui „și au ieșit împreună cu ei din Ur Casdim, ca să meargă către țara Canaanului; și au ajuns până în Haran”, unde erau familiile și părinții lor din vechime; și s-au așezat între ei și au zăbovit acolo multe zile; și acolo i s-a poruncit lui Avraam să facă ce îi venise în gând, să meargă în țara Canaanului; și și-a lăsat tatăl, care a murit acolo, în Haran, țara lui, iar el a mers cu soția lui și cu Lot, fiul fratelui lui, în țara Canaanului. Și aceasta este ce a spus Scriptura: „Și l-am luat pe tatăl vostru, pe Avraam, de dincolo de Râu și l-am purtat prin toată țara Canaanului”: căci dincolo de Râu i s-a poruncit aceasta, și de acolo l-a luat și l-a purtat prin toată țara Canaanului. Și iată, după părerea învățătorilor noștri, Ur Casdim va fi după sensul simplu, din limbajul: „m-am încălzit, am văzut focul (ur)”; și au spus „și au ieșit împreună cu ei din Ur Casdim”, deși Terah nu a ieșit din cuptor, dar Avram este cel principal; sau locul se numește așa din cauza minunii, ca: „Și în Tavera, și în Masa, și în Kivrot-Hataava”, și altele; și Scriptura face aluzie că, la ieșirea lui Avram din cuptor, au fugit toți de acolo. Iar explicația lui „be-urim slăviți-L pe Domnul”, după părerea mea, este după cuvintele lor: căci ei sunt munții înalți unde se fac focuri (urot) și se înalță semnale de foc, ca să se vestească repede noutățile în depărtări, cum a spus: „în insulele mării, numele Domnului, Dumnezeul lui Israel”; iar sensul este că vor vesti în toată lumea minunea și lucrul uimitor făcut pentru ei, spre slava Numelui. Și tot așa „vizuina (meʾurat) viperei” este gaura ei, unde este focul (ur) ei și căldura ei cea mare, cum o numește „șaraf” („arzătoare”). Și am văzut în midrașul „Scoală-te, luminează-te”: „De aceea, be-urim slăviți-L pe Domnul” – cu ce Îl slăvesc? Rabbi Abba bar Kahana a spus: cu aceste felinare (panasia), adică precum candelele care se aprind în sinagogi în orice loc, chiar și în insulele mării, spre slava Numelui. Iată că fac din be-urim un cuvânt pentru foc, după sensul simplu."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a murit Haran înaintea tatălui său Terah»: în timpul vieții lui; și la fel „și au murit Nadab și Abihu înaintea tatălui lor, Aaron”.<br><br>Și a spus «în țara sa natală», pentru că Terah, tatăl lui, nu a murit în țara lui natală, ci în Haran. Și aceasta a fost pricina pentru care Lot a ieșit din țară împreună cu Terah, bunicul lui.<br><br>«În Ur Casdim»: care astăzi se numește Ur Casdim, căci în acea vreme nu se născuse Chesed, ca fiii lui să fie numiți caldeeni.<br><br>«Ur.» Explicația lui: vale sau adânc; și la fel „de aceea, în văi (ba-urim), dați slavă Domnului”. Iar părerea învățătorilor noștri, binecuvântată fie amintirea lor, în aceasta este cunoscută: că au explicat ur – foc; și dacă este așa, cetatea aceea s-a numit Ur după minunea care i s-a făcut acolo lui Avraam, părintele nostru, căci Nimrod l-a aruncat în cuptorul de foc, și Dumnezeu l-a salvat de el."
+   },
    {
     "author": "Zohar, Leh Leha 4:1",
     "text": "«Și a zis Domnul lui Avram.» Ce e scris mai sus (Geneza 11:28): «și a murit Haran înaintea lui Teraḥ, tatăl său» etc. Ce e deosebit aici? Ci până în ziua aceea nu era om care să moară în viața tatălui său afară de acesta; și când a fost aruncat Avram în foc, a fost ucis Haran; și de aceea au ieșit de acolo. Cine l-a ucis pe Haran? Ci de îndată ce l-au aruncat pe Avraham în focul kasdeilor, s-a descoperit asupra lui Sfântul, binecuvântat fie El, și l-a salvat; și era Haran, fratele său, stând acolo. Au zis kasdeii: din pricina meritului lui Haran a fost salvat; îndată a ieșit o flacără de foc și l-a ars pe Haran; acesta e ce e scris «și a murit Haran înaintea lui Teraḥ, tatăl său». Și sunt care zic: sămânța lui Teraḥ — focul nu stăpânește în ea; dar să-l aruncăm pe Haran în foc, și dacă nu s-a ars vom ști cu adevărat că focul nu stăpânește în sămânța sa; îndată l-au aruncat pe Haran în foc și s-a ars, și era Teraḥ, tatăl său, stând acolo; acesta e ce e scris «și a murit Haran înaintea lui Teraḥ, tatăl său». În ziua aceea au știut toate neamurile și limbile că nu l-a salvat pe Avraham decât Sfântul, binecuvântat fie El, care e Unicul lumii; și își aduceau fiii la locașul lui Avraham și îi ziceau: te-am văzut că te încrezi în Sfântul, binecuvântat fie El, care e Stăpânul lumii; învață-i pe fiii noștri din calea ta pe care o știi; și asupra lor a zis versetul (Psalmul 47:10) «voievozii popoarelor s-au adunat, poporul Dumnezeului lui Avraham»."
@@ -3951,6 +4093,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Isca (Yiskah).» Aceasta este Sarai: numită așa pentru că vedea (sokhah) prin duhul sfințeniei și pentru că toți priveau (sokhin) la frumusețea ei. Și, în plus, Yiskah este cuvânt pentru domnie (nesikhut), așa cum Sarah este cuvânt pentru stăpânire (srarah)."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Și a pomenit numele soției lui Nahor ca să facă cunoscută genealogia Rebecăi, a Rahelei și a Leei. Iar înaintașii noștri, binecuvântată fie amintirea lor, au spus că Isca este Sara; iar dacă este tradiție, o primim. Iar cei care spun că Avraam era sterp, și nu Sara, au spus opusul Scripturii; iar martorul este Ismael, fiul lui, și fiii Cheturei. Iar cei care spun că Sara era sora lui Avraam – acest sens nu este drept în ochii mei; căci dacă ar fi fost așa, Scriptura ar fi spus: „și Terah l-a luat pe Avraam, fiul lui, și pe Sarai, fiica lui, soția lui Avram, fiul lui”; și de asemenea, dacă ar fi fost sora lui Lot, Scriptura ar fi spus: „și pe Sarai, fiica fiului său”, cum a scris despre Lot. Și se poate ca Nahor, fiul lui, să fi mers întâi la Haran, sau să fi venit după tatăl lui. Iar ce este drept în ochii mei este că pericopa „Pleacă” (Lekh lekha), pe care Numele i-a spus-o lui Avram, este înainte de acest verset, care este „și Terah a luat”; și ca el este în Tora: „în întâi ale lunii a doua, în anul al doilea”, iar după aceea „în luna întâi a anului al doilea”. Iar martorul este că Scriptura a spus „ca să meargă spre țara Canaan”; iar când Terah a venit la Haran, locul a fost drept în ochii lui, și a locuit acolo și a murit; și nu este „înainte” și „după” în Tora."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Avram și Nahor și-au luat» (wa-yiqqaḥ) – ca „Și a venit Moise cu Aaron” (wa-yavoʾ). Și a pomenit numele soțiilor lor pentru cinstea lui Avram, și pentru că Dumnezeu a schimbat numele Sarai în Sara; și din Milca a fost de asemenea Rebeca, care a fost soția lui Isaac.<br><br>«Fiica lui Haran, tatăl Milcăi și tatăl Iscăi.» A spus „tatăl” după ce a spus „fiica”, pentru că a spus mai sus „iar lui Haran i s-a născut Lot”, și s-ar fi putut crede că nu avea altă sămânță; a spus că era de asemenea tatăl Milcăi și tatăl Iscăi. Iar învățătorii noștri, binecuvântată fie amintirea lor, au explicat că Isca este Sara; și așa se pare din ceea ce a spus Avraam: „sora mea, fiica tatălui meu”; dacă este așa, Sarai era fiica lui Haran. Numai că este de mirare de ce a spus „fiica lui Haran” și nu a spus „fiicele lui Haran”. Poate Sarai era fiica fiicei lui Terah; și deși nu a pomenit că Terah avea fiice, poate avea."
    }
   ]
  },
@@ -4030,6 +4180,14 @@ window.CHAPTER_DATA = [
    "Geneza 18:11-12"
   ],
   "commentaries": [
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Iar Sarai era stearpă.» Mi-e greu: „nu avea copil” — la ce-mi trebuie? Și se poate spune că trebuia să spună că nu avea nici măcar locul pe unde iese copilul, cum spunem: Avraam și Sara erau ṭumṭum și au fost deschiși, căci s-a spus: „Priviți la stânca din care ați fost tăiați și la groapa fântânii din care ați fost săpați”. Altă explicație: nu avea acum, dar va avea după o vreme, cum spunem: „Și Sara a zămislit și a născut”; și asemănător cu aceasta: „Iar orice nu are aripioare și solzi” — tâlcuim în tratatul Ḥullin: nu are acum, dar îi vor crește după o vreme."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar Sarai era stearpă.» A povestit că Sarai era stearpă și nu a născut decât printr-o minune pe care Dumnezeu a făcut-o cu Avraam, o minune în minune: căci era stearpă și a născut, și încă era de nouăzeci de ani când a născut. Dar Milca, deși a stat multe zile fără să nască, nu era stearpă și era în stare să aibă copii, numai că a stat din pricina unei boli întâmplătoare, nu din fire.<br><br>«Nu avea copil.» Cât timp era în Ur Casdim nu avea, dar în țara lui Canaan a avut; și aceasta este ceea ce i-a spus Dumnezeu lui Avraam, când i-a spus: „Pleacă din țara ta ... și te voi face un neam mare”: acolo te voi face un neam mare. Walad este un substantiv după tiparul ḥakham."
+   },
    {
     "author": "Zohar, Vaera 22:1",
     "text": "Rabbi Yose și Rabbi Ḥiyya mergeau pe drum. A zis Rabbi Yose lui Rabbi Ḥiyya: de ce taci? Iată, drumul nu se rânduiește decât în cuvintele Torei. S-a tras Rabbi Ḥiyya și a plâns. A deschis și a zis (Geneza 11:30): «și era Sarai stearpă, nu avea copil». Vai de aceasta, vai de vremea aceea când a născut Hagar pe Yișmael."
@@ -4338,6 +4496,18 @@ window.CHAPTER_DATA = [
     "text": "«Și au ieșit împreună cu ei.» Și au ieșit Terah și Avram împreună cu Lot și Sarai."
    },
    {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«și au ieșit împreună cu ei din Ur Casdim» Pentru că Avram era mai onorat decât tatăl lui, iar cei care mergeau mergeau după sfatul lui și din cauza lui, Scriptura a spus „și au ieșit împreună cu ei”, deși a spus „Terah i-a luat”; dar Lot și Sarai au mers cu ei din cauza lui Avram, căci și după ce Avram s-a despărțit de tatăl lui, au mers cu el."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Ca să meargă către țara Canaanului.» Care era pregătită să pricinuiască treptele în cele ale minții și plăcută mai mult decât toate țările, cum a spus: „o țară de care Domnul, Dumnezeul tău, Se îngrijește”; și aerul ei nu a fost vătămat de ploaia potopului ca aerul tuturor celorlalte țări, cum a spus: „nu a fost plouată în ziua mâniei”. Și deja au spus înțelepții noștri, binecuvântată fie amintirea lor: „Aerul Țării lui Israel face înțelept.”"
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Terah i-a luat.» După ce Dumnezeu i-a spus lui Avram: „Pleacă”, și Avram i-a spus lui Terah, tatăl său, în numele lui Dumnezeu, că Dumnezeu i-a poruncit să iasă din țară, el s-a învoit cu cuvântul fiului său și a ieșit cu el; și după ce s-a învoit să iasă, a atârnat de el esențialul faptei, căci el este tatăl, iar cei care ies sunt fiii lui. Iar Nahor nu a voit să iasă din acea țară. Și Terah l-a luat pe Lot cu el, pentru că tatăl lui nu era viu, iar el se sprijinea pe el; și l-a luat cu el, ca să fie cu el, după cum va fi acolo.<br><br>«Și au ieșit împreună cu ei.» Aici a atârnat ieșirea de Avram, căci el era cel de căpetenie, căci lui i-a fost porunca (și, într-adevăr, soția lui cu el); și au ieșit Terah și fiul fiului său, și robii și roabele lor, împreună cu Avram și cu soția lui; și aceasta este ceea ce a spus: „împreună cu ei”.<br><br>«Ca să meargă către țara Canaanului.» Și iată, Dumnezeu nu i-a spus lui Avram să meargă în țara Canaanului, ci „către țara pe care ți-o voi arăta”; numai că, ieșind Avram din Ur Casdim și din acea țară, care este țara lui Aram, va da mai întâi de țara Canaanului; și Avram a știut că, atunci când va fi în țara Canaanului, Dumnezeu îi va spune dacă este țara despre care i-a spus sau alta.<br><br>«Și s-au așezat acolo.» Căci Terah, deși a ieșit ca să meargă în țara Canaanului, când a ajuns la Haran nu s-a îndurat să iasă din țara lui de tot, și s-a așezat în Haran, care este la hotar și aproape de țara Canaanului, ca să fie aproape de Avram; și a locuit acolo până când a murit, iar Avram s-a dus în țara Canaanului, după porunca lui Dumnezeu asupra lui. Iar faptul că a spus „soția fiului său Avram” după ce a spus „și pe nora sa Sarai”: căci cu dragoste și de bunăvoie a ieșit din țară cu soțul ei, ca să facă voia lui Dumnezeu, nu că soțul ei a silit-o, ci cu toată inima ei a mers după soțul ei, la locul pe care i l-a spus Dumnezeu, deși nu știa dacă acea țară este bună sau rea; căci soția lui Avram era în credința lui Dumnezeu, să creadă tot ce îi va spune în numele lui Dumnezeu și să facă voia Lui."
+   },
+   {
     "author": "Zohar, Leh Leha 4:2",
     "text": "Vino și vezi: ce e scris «și a luat Teraḥ pe Avram, fiul său, și pe Lot, fiul lui Haran» etc. «Și au ieșit cu ei din Ur Kasdim.» «Și au ieșit cu ei» — «cu el» ar fi trebuit. Căci e scris «și a luat Teraḥ» etc.; ce e «și au ieșit cu ei»? Ci Teraḥ și Lot cu Avraham și Sarah au ieșit, că ei erau temeiul ca să iasă din mijlocul acelor vinovați; că de îndată ce a văzut Teraḥ că Avraham, fiul său, a fost salvat din mijlocul focului, s-a întors să facă voința lui Avraham; și de aceea «și au ieșit cu ei» Teraḥ și Lot."
    }
@@ -4467,6 +4637,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«și a murit Terah în Haran» „Când a ieșit Avram, mai rămăseseră mulți din anii lui Terah; și de ce a pus Scriptura moartea lui Terah înaintea ieșirii lui Avram? Ca să nu fie lucrul cunoscut tuturor și să spună: Avram nu a împlinit cinstirea tatălui, căci l-a lăsat bătrân și a plecat; de aceea l-a numit mort. Și apoi, căci cei răi în viața lor sunt numiți morți” – cuvintele lui Rashi; și în Bereșit Rabba este așa. Dar eu mă mir de cuvintele lor, căci acesta este obiceiul întregii Scripturi: să povestească viața tatălui și că l-a născut pe fiu, și moartea lui, și după aceea începe povestea fiului; în toate generațiile așa au procedat Scripturile. Și Noe însuși, iată, în zilele lui Avram era încă viu, iar Sem, fiul lui, a fost viu în toate zilele lui Avraam. Și se poate că au ajuns la acest midraș pentru că Scriptura a schimbat la Terah ordinea întregii pericope: căci la Sem și la urmașii lui, la toți, Scriptura nu a amintit moartea și nici nu a recapitulat anii, iar aici a reluat ordinea dintâi, a celor cu ani mulți, de la Adam până la Noe, și a recapitulat: „Și au fost zilele lui Terah… și a murit”; și a adăugat să amintească și locul morții, care a fost în Haran, locul pe care îl amintise pentru Avraam; și de aceea au tâlcuit că toate acestea sunt ca să se pară, fără cercetare, că Avraam era acolo cu el. Și apoi, pentru că începuse deja povestea lui Avraam și povestise că a ieșit cu tatăl lui din Ur Casdim ca să meargă în țara Canaanului, le-a fost greu că nu a rânduit viața și moartea lui în ordine, ca să o scrie la vremea ei. Iar ce au mai spus: „La început tâlcuiești că cei răi în viața lor se numesc morți” – de asemenea e de mirare în ochii mei, căci deja au tâlcuit, din versetul: „Iar tu te vei duce în pace la părinții tăi”, că l-a vestit că tatăl lui are parte de lumea ce va veni. Și poate intenția lor este că a făcut pocăință în ceasul morții, dar zilele lui au fost toate în răutate și era numit mort. Iar cuvintele lui Rashi: te învață că Terah a făcut pocăință în ceasul morții. Sau poate are parte de lumea ce va veni, cum au spus înțelepții noștri, binecuvântată fie amintirea lor, prin meritul fiului lui; și aceasta este vestea, pe care el nu o știa până nu a fost vestit despre aceasta, când i-a spus „Iar tu te vei duce în pace la părinții tăi”. Și tot așa am găsit în midraș: Toate lemnele sunt potrivite, afară de cele de măslin și de viță, pentru că untdelemnul și vinul se aduc pe altar: fructele au salvat copacii; și tot așa găsim la Avraam, că l-a salvat pe Terah, căci s-a spus: „Iar tu te vei duce în pace la părinții tăi”. S-a încheiat pericopa Noaḥ."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și a murit Terah în Haran.» Și nu s-a străduit să dobândească ceea ce intenționaseră să dobândească când au plecat din Ur Casdim, și nu a venit deloc la Avraam când era în țara Canaanului și chema acolo Numele Domnului, cu toată măreția numelui lui de atunci. Și dimpotrivă a făcut Lot o vreme; și de aceea a fost învrednicit el și seminția lui de o parte din darurile lui Avraam, iar ceilalți urmași ai lui Terah, rude cu Avraam ca el sau mai apropiate, nu au fost învredniciți de aceasta."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și au fost zilele lui Terah.» Iată, zilele lui Terah au fost două sute cinci ani, iar când s-a născut Avram el avea șaptezeci de ani; iată, când a murit Terah, Avram avea o sută treizeci și cinci de ani. Iar în Seder ʿOlam: Avraam, părintele nostru, l-a îngropat pe Terah, tatăl său, cu doi ani înainte de moartea Sarei. Și așa a fost, căci când a murit Sara, Avraam, părintele nostru, avea o sută treizeci și șapte de ani, căci era cu zece ani mai mare decât Sara; iată, Terah a murit cu doi ani înainte de moartea Sarei.<br><br>«Și a murit Terah în Haran.» Ca să facă cunoscut că nu și-a părăsit idolii și nu a ieșit din locul lui decât din dragoste pentru fiul său, nu că și-a schimbat credința și a ieșit din dragoste pentru Dumnezeu; căci iată, a zăbovit în Haran până a murit acolo; iar dacă s-ar fi pocăit și și-ar fi părăsit idolii și s-ar fi întors la slujirea lui Dumnezeu și la credința Lui, după ce și-a pierdut fiul, ar fi intrat, după calea lui, în țara Canaanului, după porunca lui Dumnezeu către fiul său, și nu ar fi zăbovit în Haran. Și se poate să fi păzit celelalte porunci ale fiilor lui Noe, căci Avraam, părintele nostru, îl călăuzea pe calea dreaptă cu toată puterea lui; dar în slujirea altor dumnezei erau scufundate acele generații și nu se puteau despărți de ea decât cu greu, iar acea slujire Terah nu a părăsit-o; și iată, profetul Iosua a mărturisit despre el și a spus: „Dincolo de Râu au locuit părinții voștri din vechime, Terah, tatăl lui Avraam și tatăl lui Nahor, și au slujit altor dumnezei”; iar dacă ar fi fost un om pocăit, nu ar fi spus așa despre el. Iar nun-ul din me-Ḥaran este întors, și au tâlcuit în el că face cunoscut că în aprinderea (ḥaron) mâniei lui Dumnezeu l-a omorât, pentru că nu s-a pocăit; și este un alt midraș, că s-a pocăit, din ceea ce este scris: „Iar tu te vei duce în pace la părinții tăi”."
    }
   ]
  }

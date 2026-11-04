@@ -146,12 +146,32 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
-    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
-    "text": "Deși identificarea exactă a lui Amrafel cu vreun rege babilonian cunoscut din arhive rămâne dezbătută academic, structura politică descrisă — o coaliție de regi mezopotamieni răsăriteni campanind spre vest, în Canaan — corespunde tiparelor reale de expediții militare documentate în perioada Bronzului Mijlociu."
+    "author": "Rashi (1040–1105)",
+    "text": "«Amrafel.» Acesta este Nimrod, care i-a zis (amar) lui Avraam: Cazi (pol) în cuptorul de foc.<br><br>«Regele Goimului (melekh goyim).» Este un loc numit Goyim („neamuri”), pentru că se adunaseră acolo din mai multe neamuri și locuri și au făcut rege peste ei un om, iar numele lui era Tidal."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Regele Goimului (melekh goyim).» Numele unei țări, ca Elam, căci „Susa, capitala” era un palat în mijlocul ei; sau „împăratul neamurilor (goyim)”, dar nu le-a pomenit. Iar sensul este că sunt altele decât cele din Șinear și semenii lor."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«Și a fost în zilele lui Amrafel regele Șinearului» Această întâmplare i s-a întâmplat lui Avraam ca să arate că patru împărății se vor ridica să stăpânească lumea, iar la sfârșit fiii lui le vor birui, și vor cădea toate în mâna lor, și vor aduce înapoi pe toți captivii lor și averea lor. Și cel dintâi dintre ei a fost regele Babilonului, căci așa este viitorul, cum este scris: „Tu ești capul de aur”. Și poate „Elasar” este numele unui oraș în Media sau în Persia; iar „Elam”: în orașul acela a domnit regele Greciei, el este primul rege, și de acolo s-a întins împărăția lui, când l-a biruit pe Darius; și au amintit deja aceasta învățătorii noștri: Rabbi Yose spune: Șase ani au domnit în Elam și după aceea s-a întins împărăția lor în toată lumea. Iar „regele Goimului” este regele care domnește peste popoare diferite, care l-au pus peste ei căpetenie și conducător: aluzie la regele Romei, care domnește peste o cetate adunată din multe popoare, Chitim și Edom și celelalte neamuri. Și așa au spus în Bereșit Rabba: A spus Rabbi Avin: Precum a deschis cu patru împărății, tot așa nu încheie decât cu patru împărății etc. Și acolo mai este: „Și a fost în zilele lui Amrafel regele Șinearului” – acesta este Babilonul; „Arioh, regele Elasarului” – aceasta este Media; „Chedorlaomer, regele Elamului” – aceasta este Grecia; „și Tidal, regele Goimului” – aceasta este împărăția Edomului, care strânge recruți (ṭironya) din toate neamurile lumii."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și a fost în zilele lui Amrafel, regele Șinearului.» Care era vestit ca rege mare în generația lui și și după aceea; iată, în zilele lui s-au ridicat Arioh, Chedorlaomer și Tidal și s-au războit cu Bera și cu tovarășii lui. Și după aceea:"
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Arioh, regele Elasarului (Ellasar).» De aici este o aluzie la ce au spus înțelepții noștri, binecuvântată fie amintirea lor: halakha este după Șmuel în pricinile de drept și după Rav în interdicții. Arioh este Șmuel, și este numit Arioh pentru că halakha este după el în pricinile de drept; căci arioh este o exprimare de domnie, ca „nici rege (rikha), nici fiu de rege”. Și așa se explică: Arioh este rege, ella sar, adică: afară de ce este interzis, căci halakha este după Rav."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a fost în zilele lui Amrafel.» În acele vremuri în care erau acești regi, fiecare în locul lui, au fost aceste războaie, pe care le povestește mai departe; și la fel „Și a fost în zilele lui Ahașveroș” și cele asemenea lui. Și această povestire a fost scrisă în Tora ca să facă cunoscută dreptatea inimii lui Avram față de Dumnezeu, încrezându-se în El din toată inima, căci cu puțini oameni a urmărit patru regi; ca să facă cunoscut că se cuvine omului să se dea pe sine într-un loc de primejdie ca să-și salveze ruda, cum a făcut Avraam, părintele nostru. «Chedorlaomer»: un singur cuvânt. «Regele Goimului»: un loc al cărui nume este Goim, pentru că acel loc a fost așezat de popoare adunate de ici și de colo."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Deși identificarea exactă a lui Amrafel cu vreun rege babilonian cunoscut din arhive rămâne dezbătută academic, structura politică descrisă — o coaliție de regi mezopotamieni răsăriteni campanind spre vest, în Canaan — corespunde tiparelor reale de expediții militare documentate în perioada Bronzului Mijlociu."
    },
    {
     "author": "Talmudul Babilonian, Megila 10b:6",
@@ -366,6 +386,14 @@ window.CHAPTER_DATA = [
     "text": "«Bera.» Rău (raʿ) față de Cer și rău față de oameni.<br><br>«Birșa.» Care s-a înălțat prin răutate (be-reșaʿ).<br><br>«Șineab.» Care Îl urăște (sone) pe Tatăl (av) său din ceruri.<br><br>«Șemeber.» Și-a pus (sam) aripi (ever) ca să zboare și să sară și să se răscoale împotriva Sfântului, binecuvântat fie El.<br><br>«Bela.» Este numele orașului."
    },
    {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«și cu regele Belei» Și sensul lui „și cu regele Belei”: pentru că domnea peste un oraș mic, cu puțini oameni în el, și nu avea nume pe fața ulițelor."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Ei au făcut război.» Acum povestește războiul care a fost între ei în valea Sidim, nu războaiele dintâi care au fost între ei, până ce cei patru regi i-au supus pe cei cinci, până ce le-au fost robi."
+   },
+   {
     "author": "Talmudul Babilonian, Megila 10b:6",
     "text": "„Și a fost, când au călătorit dinspre răsărit” — „Haideți să ne construim un oraș”. „Și a fost în zilele lui Amrafel” — „au făcut război”. „Și a fost, pe când era Iosua lângă Ierihon” — „și sabia lui scoasă în mâna lui”. „Și a fost Domnul cu Iosua” — „Și copiii lui Israel au săvârșit o fărădelege”. „Și a fost un om din Ramataim” — „căci pe Ana o iubea, dar Domnul îi închisese pântecele”."
    }
@@ -477,6 +505,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Valea Sidim.» Așa este numele ei, pentru că erau în ea multe câmpuri (sadot).<br><br>«Adică la Marea Sărată.» După o vreme, marea s-a revărsat în ea și s-a făcut Marea Sărată. Iar midrașul aggadei spune că s-au despicat stâncile din jurul ei și s-au revărsat râuri în ea."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«S-au strâns laolaltă (ḥaveru).» Din conjugarea ușoară.<br><br>«Sidim (ha-śiddim).» Ca „și să le tencuiești (we-śadta) cu var (ba-śid)”; și ca „și-mi pui picioarele în butuci (ba-sad)”; ca pat – pittim.<br><br>«Valea (ʿemeq).» Se trage pe sine și pe altul împreună cu el, ca „nu (al) mă mustra în mânia Ta”; și tot așa este: „valea Mării Sărate”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Toți aceștia.» Amrafel și cele două tabere care s-au războit.<br><br>«S-au strâns laolaltă la valea Sidim.» Și au făcut o învoială; și de atunci cei cinci regi erau cei asupriți în război."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Toți aceștia»: cei patru cu cei cinci.<br><br>«La valea» (el ʿemeq): ca „în valea” (be-ʿemeq); și la fel „iar în chivot să pui Mărturia” (el ha-aron).<br><br>«Sidim» (ha-śiddim): după Targumul lui, „câmpiile”. Iar dageș-ul este pentru lipsa dublării, căci se găsește în două rădăcini: śadeh și śadot, de la śdh și śdd: „Iacov își va grăpa (yeśadded) câmpul”.<br><br>«Adică la Marea Sărată.» Acea vale era aproape de Marea Sărată, sau ea însăși a devenit după aceea mare; și ea este cea care se numește astăzi Marea Sărată, și este hotarul țării lui Israel, cum este scris la hotare."
    }
   ]
  },
@@ -597,6 +637,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Doisprezece ani l-au slujit.» Acești cinci regi pe Chedorlaomer."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar sensul lui «și în al treisprezecelea (u-šeloš ʿeśreh)»: în al treisprezecelea; ca „căci în șase zile a făcut Domnul”. Iar autorul Seder Olam i-a adunat împreună, iar cunoașterea lui este mai largă decât cunoașterea noastră."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«L-au slujit pe Chedorlaomer.» Prin învoiala pe care au făcut-o acolo, doisprezece ani, iar după aceea s-au răsculat."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Doisprezece ani l-au slujit»: că îi erau robi, aducători de dar.<br><br>«Și în al treisprezecelea an» (u-šeloš ʿeśreh šanah). Explicația: și în anul al treisprezecelea.<br><br>«S-au răsculat»: s-au răsculat împotriva lui și nu i-au mai adus dar. Iar Chedorlaomer era capul celor trei regi."
    }
   ]
  },
@@ -788,6 +840,22 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Rashi (1040–1105)",
+    "text": "«Iar în al paisprezecelea an.» De la răscoala lor.<br><br>«A venit Chedorlaomer.» Pentru că el era stăpânul lucrului, a intrat în partea cea groasă a grinzii.<br><br>«Și regii.» Aceștia sunt cei trei regi.<br><br>«Pe zuziți.» Aceștia sunt zamzumiții."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Refaimiții.» Că oricui îi vede îi moare inima, și se socotește dintre refaim, care sunt morți.<br><br>«Emimii.» Că este de la ei groază (ʾeimah)."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și regii care erau cu el.» Care fuseseră cu el la învoiala din valea Sidim, și între ei Amrafel.<br><br>«Și i-au lovit pe refaimiți… pe zuziți… pe emimi.» Care erau toți supușii celor cinci regi și s-au războit pentru ei; și prin aceasta a făcut cunoscut că cei cinci regi erau mari, și a făcut cunoscută vitejia celor patru regi care i-au biruit; și din aceasta se cunoaște mărimea vitejiei lui Avraam, iscusința lui în război și bunătatea lui față de fratele său, că s-a dăruit pe sine ca să-i biruie și să-l salveze de sabia gurii lor pe fiul fratelui său și averea lui, și din dinții lor a smuls prada, mai mult decât a cerut, prin îndurarea Domnului față de el."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Pe refaimiți la Așterot-Karnaim»: i-au lovit pe uriașii care erau în Așterot-Karnaim; iar acest loc este între doi munți mari, și de aceea s-a numit Karnaim („coarne”). Și l-au pomenit deja învățătorii noștri, binecuvântată fie amintirea lor. Iar aceste locuri pe care le-a pomenit sunt aproape de țara Sodomei și a Gomorei; poate erau în ajutorul lor, de aceea i-au lovit Chedorlaomer și regii care erau cu el."
+   },
+   {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Refaimiții, zuziții și emimii sunt popoare pre-israelite menționate și în Deuteronom (2:10-11, 20-21) ca locuitori vechi ai regiunii Transiordaniei, cunoscuți tradițional pentru statură impunătoare — detaliile etnografice din acest capitol au valoare istorică independentă de restul narațiunii patriarhale."
    }
@@ -910,6 +978,22 @@ window.CHAPTER_DATA = [
    "Deuteronom 2:12,22"
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«La munții lor (be-hararam).» La muntele lor.<br><br>«Până la câmpia Paran (El Paran).» Ca în Targumul lui: „câmpie”. Iar eu spun că el nu este cuvânt pentru „câmpie”, ci câmpia lui Paran se numește El, a lui Mamre se numește Elone, a Iordanului se numește Kikkar, a lui Șitim se numește Avel — „Avel ha-Șittim” —, și tot așa Baʿal Gad: numele ei este Baʿal. Și toate sunt traduse „câmpie”, dar fiecare își are numele lui.<br><br>«Lângă (ʿal) deșert.» Lângă deșert, ca în „și lângă el (ʿalav), seminția lui Manase”."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«La munții lor (be-hararam).» Din conjugarea cu dageș, ca be-dabberam; iar explicația: când urcau pe muntele Seir."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«câmpia Paran (El Paran)» „„El Paran” – după traducerea lui: mișor Paran („câmpia Paran”). Iar eu spun că el nu înseamnă câmpie, ci câmpia lui Paran se numește El, și a lui Mamre se numește Elonei, și a Iordanului se numește Kikar, și a lui Șitim se numește Avel; și toate sunt traduse mișra („câmpie”), și fiecare își are numele lui” – cuvintele lui Rashi. Dar dacă ar fi așa, Onkelos le-ar fi tradus după numele lor, Ela de-Paran, Elone de-Mamre, după obiceiul lui la nume; și cine i-a spus că, în multele acelea locuri, toate sunt câmpie, și nu munți înalți? Iar „Mamre” este numele omului amorit, fratele lui Eșcol și fratele lui Aner, aliații lui Avram, și locul acela era al lui, cum a spus: „câmpiile (elone) lui Mamre, amoritul”, cum am explicat. Dar El Paran este un loc de terebinți (elim), ca: „căci vă vor face de rușine terebinții (elim) pe care i-ați dorit”; iar Elonei este un loc de stejari (alonim), ca: „ca terebintul și ca stejarul (alon)”;: „stejari (allonim) din Basan”. Iar obiceiul este ca ei să fie plantați în câmpie, înaintea cetăților, ca să fie pentru oraș ca un loc deschis (migraș). Și tot așa traduce el Alon-Bahut: mișor bekhuta („câmpia plângerii”); dar acolo nu este numele propriu al locului, ci este numele stejarului plantat acolo, cum este explicat: „sub stejar (taḥat ha-alon)”; numai că el urmărește sensul, nu cuvintele. Iar Targumul Ierusalimitean a spus la El Paran și la Elonei-Mamre „mișra” („câmpie”), ca Onkelos, și a spus la Alon-Bahut belut bekhuta („stejarul plângerii”), căci Alon-Bahut este la el numele unui copac, nu al unui loc; iar Onkelos a socotit că este numele unui loc, căci erau în el mulți stejari, ca Elonei-Mamre, și de aceea a spus „stejarul” (ha-alon). Și iată, toate sunt nume descriptive. Dar kikar ha-Yarden („câmpia Iordanului”) este expresie pentru câmpie propriu-zisă, căci așa se numește în limba sfântă locul în care râurile se întind în goana apelor care curg și năvălesc acolo; și de aceea a spus: „și nu te opri nicăieri în toată câmpia (kikar); fugi la munte”. Și tot așa: „pășune (kar) largă”;: „pășunile (karim) s-au îmbrăcat cu turme, iar văile se învelesc cu grâu”. Uneori dublează cuvântul și uneori scot dublarea, ca: „bat ʿayin” („lumina ochiului”), și multe altele. Și se numesc tot cu numele acesta și solii iuți: „ale karilor și ale alergătorilor”;: „căpeteniile peste sute și karii”. Și tot așa: „și pe dromaderi (kirkarot)” – nume pentru cămilele iuți, pe care le-au amintit în Talmud: gamla parḥa („cămila zburătoare”); și din aceasta vine mekharkher („sărind”), cu dublare. Iar Avel Hașitim, și tot așa Avel-Mehola, l-au tradus mișor („câmpie”): este locul pustiit, în care nu este nici plantație, nici clădire, căci cuvântul este la ei expresie pentru pustiire și pârjol, ca: „a făcut să jelească (wa-yaʾavel) meterezul și zidul”;: „mustul jelește (avel), vița lâncezește”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și pe horiți la munții lor, Seir.» Și i-au lovit pe horiți pe muntele lor, și acesta este muntele Seir, cum a spus: „Aceștia sunt fiii lui Seir horitul”. Be-hararam: substantiv, singularul este harar, după tiparul ereṣ, gefen; iar dacă ar fi infinitiv din cel cu dageș, cum spun unii dintre comentatori, he-ul ar fi fost cu qamaṣ, și iată, este cu pataḥ; și la fel a tradus Onkelos: „în munții lui Seir”. «Câmpia Paran» (El Paran): după Targum, „șesul Paran”."
+   },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Muntele Seir, teritoriul horiților la acea vreme, avea să devină mai târziu teritoriul edomiților (descendenții lui Esau) — capitolul oferă astfel un instantaneu al populației regiunii cu multe generații înainte de cucerirea ei de către urmașii lui Avram."
@@ -1093,6 +1177,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Ein-Mișpat, adică Cades.» După viitor: căci Moise și Aaron aveau să fie judecați (lehiśśafeṭ) acolo în privința acelui izvor (ʿayin), și aceasta este apa Meriba. Iar Onkelos l-a tradus după înțelesul simplu: locul unde se adunau oamenii ținutului pentru orice judecată.<br><br>«Teritoriul amalekitului.» Amalec încă nu se născuse; a fost numit după viitor.<br><br>«În Hațațon-Tamar.» Acesta este Ein-Ghedi; versetul este explicit în Cronici, la Iehoșafat."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«la Ein-Mișpat» „„Ein-Mișpat” – după cele ce vor fi: că Moise și Aaron aveau să fie judecați acolo pentru treburile acelui izvor (ʿayin)” – cuvintele lui Rashi, din cuvintele agadei. Dar n-am înțeles aceasta: căci Cades acesta este Cades-Barnea, căci este la „câmpia Paran care este lângă deșert”, și de acolo au fost trimise iscoadele în anul al doilea, căci s-a spus: „în deșertul Paran, la Cades”, și este scris: „și am ajuns până la Cades-Barnea… și ați spus: «Să trimitem oameni înaintea noastră»”; și acolo au locuit Israel multe zile. Dar Cades, unde a fost judecata celor drepți, este în deșertul Țin, unde au venit în anul al patruzecilea, căci s-a spus: „Copiii lui Israel, toată obștea, au ajuns în deșertul Țin în luna întâi și poporul s-a așezat în Cades”, și restul pericopei. Poate midrașul este numai pe nume: aluzie a Scripturii că acest nume, Cades, va fi Ein-Mișpat. Iar Onkelos a spus mișor pelug dina, și nu știu ce este; poate este din expresia: „pâraie (pelagim), izvoare de ape”;: „Cine a despicat un șuvoi (peleg) pentru puhoi?”; și tot așa în limba înțelepților: pelago šel yam („adâncul mării”). Va spune că în câmpia aceea era izvorul judecății și adâncul dreptului; căci era o câmpie frumoasă, pregătită pentru regi: acolo stăteau ca să judece toate neamurile din țările acelea.<br><br>«tot teritoriul amalekitului» „Amalec încă nu se născuse, și a fost numit după cele ce vor fi” – cuvintele lui Rashi. Și nu știu dacă vrea să spună că Moise, învățătorul nostru, a numit locul cu numele cu care se numea în zilele lui – și dacă e așa, nu este aici un lucru viitor – sau ce este acest viitor: că neamurile vor profeți să numească locul așa. Iar formularea din Bereșit Rabba: Amalec încă nu se născuse, și tu spui „tot teritoriul amalekitului”? Ci „vestește de la început sfârșitul”. Și aceasta este calea midrașului lor în multe locuri; și la râurile grădinii Edenului au spus în acest fel, iar intenția lor este să spună că, din vremea ieșirii râurilor, s-a spus că râul curge la răsăritul țării care avea să fie a lui Asur. Dar ce este corect în ochii mei la „teritoriul amalekitului”: că era în zilele de demult un om de vază dintre fiii horitului, locuitorul țării, care stăpânea peste locul acela, și numele lui era Amalec; iar Elifaz, întâiul născut al lui Esau, și-a numit fiul după numele omului aceluia; și poate era din familia Timnei, mama lui, și a stăpânit și el în locul acela și a fost acolo căpetenie peste ei."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«S-au întors și au venit.» După ce au năvălit asupra acestor locuri până la deșert, s-au întors spre țara Sodomei și au venit la Ein-Mișpat. Era cunoscut la ei de ce s-a numit așa, ca celelalte locuri, care toate au fost numite după un lucru cunoscut la ei. Și este un midraș că s-a numit așa pentru că Moise și Aaron aveau să fie judecați pentru apa acelui izvor, și aceasta este apa Merivei.<br><br>«Tot teritoriul amalekitului» (śedeh). O câmpie mare, cu cetăți construite în ea, se numește śadeh; și la fel „câmpia Edomului” și „câmpia Moabului”. Și a spus „amalekitului”, căci, când a scris Moise, învățătorul nostru, aceasta, Amalec se născuse deja și urmașii lui se înmulțiseră, căci a ieșit la război împotriva lui Israel la ieșirea lor din Egipt („Mițrayim”); și nu s-a numit aceasta după sfârșitul lui."
    }
   ]
  },
@@ -1284,6 +1376,10 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și s-au războit cu ei.» Acești cinci, care au ieșit, s-au războit cu ei, căci socoteau să-i biruiască; poate au fost ajutați de un alt popor, căci de aceea s-au răsculat împotriva lor; iar aceia nu erau decât cei patru pomeniți; de aceea a spus din nou „împotriva lui Chedorlaomer”; căci a spus deja „cu ei”: ce nevoie era să mai spună „împotriva lui Chedorlaomer”? Ci vine să spună că acești cinci au fost ajutați de un alt popor, iar aceia nu erau decât cei patru pe care i-a pomenit, și cu toate acestea i-au biruit; căci de la Domnul a fost, ca Avraam să-și facă un nume în acel război, cum i-a făgăduit și i-a spus: „îți voi mări numele”; și ca să arate lumii dreptatea lui Avraam și încrederea lui în Dumnezeu din toată inima: căci ei au biruit cinci regi, și cu toate acestea el i-a urmărit cu puțin popor; și despre el și despre cei asemenea lui s-a spus: „iar cel care se încrede în Domnul va fi pus la adăpost”. Și ca să mărească fapta încă, a adăugat și a spus: „patru regi împotriva celor cinci”."
+   },
+   {
     "author": "Notă structurală",
     "text": "Repetiția aproape identică a listei celor cinci regi (deja enumerați la v.2) accentuează stilistic dimensiunea confruntării — un tipar narativ frecvent în textele antice ale Orientului Apropiat pentru relatările de bătălii, care subliniază simetria: patru regi răsăriteni împotriva a cinci regi locali."
    }
@@ -1448,6 +1544,14 @@ window.CHAPTER_DATA = [
    "Geneza 14:1-2"
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Patru regi etc.» Și cu toate acestea, cei mai puțini au învins, ca să-ți facă cunoscut că erau viteji; și cu toate acestea, Avraam nu s-a reținut să-i urmărească."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Împotriva (et) lui Chedorlaomer.» Ca „cu”."
+   },
    {
     "author": "Notă structurală",
     "text": "Numărul patru contra cinci, explicit la finalul versetului, pregătește dramatic disproporția: deși cei cinci regi locali sunt mai numeroși, sunt înfrânți — motiv pentru care intervenția ulterioară a lui Avram, cu doar 318 oameni, împotriva acelorași patru regi victorioși, apare cu atât mai remarcabilă."
@@ -1642,6 +1746,26 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Rashi (1040–1105)",
+    "text": "«Puțuri de smoală.» Erau acolo multe puțuri, din care se lua pământ pentru lutul de construcție. Iar midrașul aggadei: lutul era frământat în ele, și s-a făcut o minune pentru regele Sodomei, că a ieșit de acolo. Căci erau printre neamuri unii care nu credeau că Avraam fusese salvat din Ur Casdim, din cuptorul de foc; și când acesta a ieșit din smoală, au crezut în Avram în urmă.<br><br>«Către munte (herah).» Spre un munte au fugit. Herah ca le-har („la un munte”); orice cuvânt care are nevoie de lamed la început, i se pune he la sfârșit. Și este o deosebire între herah și ha-herah: he-ul de la sfârșitul cuvântului stă în locul lamed-ului de la început, dar nu stă în locul unui lamed vocalizat cu pataḥ. Iată, herah este ca le-har sau ca el har („la un munte”), și nu lămurește la care munte, ci fiecare a fugit la muntele pe care l-a găsit întâi. Iar când pune he la început, scriind ha-herah sau ha-midbarah, înțelesul lui este ca el ha-har sau ca la-har („la muntele”), și se înțelege: la acel munte cunoscut și lămurit în pasaj."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Puțuri (beʾerot).» Beʾer în toată Scriptura este fântână care izvorăște; iar acesta este schimbat din pricina stării construite.<br><br>«Și au căzut în ele.» Cu voia lor, ca să scape; și tot așa „și a căzut pe fața lui”.<br><br>«Au fugit către munte (herah).» Spre munte au fugit; și este un cuvânt neobișnuit."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«puțuri de smoală (beʾerot beʾerot ḥemar)» „Multe puțuri erau acolo, din care se lua pământ pentru lutul construcției. Iar midrașul agada: că lutul era frământat în ele, și s-a făcut minune regelui Sodomei, că a ieșit de acolo; pentru că erau între neamuri unii care nu credeau că Avram fusese salvat din cuptorul de foc, iar când a ieșit acesta din lut, au crezut în Avram retroactiv” – cuvintele lui Rashi. Și nu este îndoială că explicația lui beʾerot ḥemar este: puțuri în care este noroi și lut, cum este scris: „și în groapă nu era apă, ci noroi, și Ieremia s-a afundat în noroi”, și este scris: „M-a scos din groapa pieirii, din noroiul mlaștinii”. Și se poate că a ieșit de acolo cum se cuvine, fără minune. Dar eu mă mir de acest midraș agada: căci neamurile care nu credeau că Cel Sfânt, binecuvântat fie El, i-a făcut minune lui Avraam, văzând minunea regelui Sodomei, nu vor adăuga credință în Cel Sfânt, binecuvântat fie El, căci regele Sodomei era închinător la idoli; și iată, minunea lui fie va întări mâinile închinătorilor la idoli, fie îi va face să creadă că toate minunile sunt prin vrăjitorii sau întâmplare dintr-o posibilitate îndepărtată; și minunea lui va pune îndoială în inima celor care cred în minunea lui Avraam. Și poate vor explica „Iar regele Sodomei i-a ieșit în întâmpinare” că a ieșit din groapă când Avraam a trecut pe lângă el, căci i s-a făcut minune spre cinstea lui Avraam, ca să-i iasă în întâmpinare spre cinstea lui și ca să-l binecuvânteze; și se poate că Avraam, la întoarcerea lui, s-a uitat în groapa aceea, căci voia să-i salveze pe regi și să le dea înapoi averea; și iată, minunea s-a făcut prin el; iar dacă i s-a făcut regelui Sodomei minune spre cinstea lui Avraam, cu atât mai mult trebuie să se creadă că i se va face minune lui Avraam, ca să-i salveze sufletul de la moarte. Și vom spune că regele Gomorei murise deja când Avraam a trecut pe lângă el, sau că a căzut într-o altă groapă, căci „acolo” (šamma) face aluzie la vale."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Regii din Sodoma… au fugit.» Și astfel s-a lămurit că Avraam nu s-a încrezut să fie ajutat de ei.<br><br>«Iar restul au fugit către munte.» Cei trei regi care rămăseseră."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Puțuri» (beʾerot). S-a schimbat în starea construită și nu s-a schimbat în starea construită: „fântânile de apă” (beʾerot ha-mayim).<br><br>«De smoală» (ḥemar): este lutul.<br><br>«Regii din Sodoma ... au fugit.» Iar ceilalți regi au fugit către munte; aceasta este ceea ce a spus: „iar restul”. Poate erau mai iuți decât acești doi, care nu au avut putere să fugă la munte și au fugit în vale cât au putut fugi; și, fugind înspăimântați, nu s-au păzit de puțuri și au căzut în ele; și nu au murit, ci s-au scufundat în lut, și i-au scos după aceea. Și poate pricina pentru care nu au murit acolo a fost ca să vadă minunea pe care Dumnezeu i-a făcut-o lui Avraam, pentru că îl iubea. «Către munte» (herah): ca „spre munte” (el ha-har); căci he-ul adăugat la sfârșitul lui arată lamed-ul de la începutul lui, ca la celelalte nume; și he-ul vine cu segol, ca selah."
+   },
+   {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Gropile de smoală naturală (bitum) din valea Sidim sunt un detaliu geologic real — regiunea Mării Moarte era cunoscută în antichitate pentru zăcămintele de bitum, exploatate comercial de-a lungul istoriei, confirmând acuratețea geografică a relatării."
    }
@@ -1763,7 +1887,12 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 12:5"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Apoi au luat toată averea Sodomei și Gomorei.» Căci valea Sidim este în hotarul lor, și acolo a fost războiul; dar Adma, Țeboim și Bela nu erau din acea parte. Și au luat toată averea Sodomei și Gomorei din aceste cetăți și din satele lor; iar avuția cuprinde bunurile mișcătoare și vitele.<br><br>«Și toată hrana lor»: pe care o aveau în case, și poporul pe care l-au luat prizonier."
+   }
+  ]
  },
  {
   "num": 12,
@@ -1913,6 +2042,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Căci el locuia în Sodoma.» Cine i-a pricinuit aceasta? Locuirea lui în Sodoma."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Căci el locuia.» Și el locuia în ziua aceea în Sodoma."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și l-au luat pe Lot, fiul fratelui lui Avram.» S-au străduit să-l ia prizonier pe Lot pentru că era fiul fratelui lui Avram, căci îi cunoșteau bogăția și se așteptau ca Avram să-l răscumpere cu mare avere."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Căci el locuia în Sodoma.» Cum a spus mai sus: „și și-a întins cortul până la Sodoma”; și încă locuia acolo când a fost acest război."
    }
   ]
  },
@@ -2132,6 +2273,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Fugarul a venit.» După înțelesul simplu, acesta este Og, care a scăpat din război. Și aceasta este ce este scris: „căci numai Og a rămas din restul refaimiților”; și acesta este „a rămas”: că nu l-au ucis Amrafel și tovarășii lui când i-au lovit pe refaimiți la Așterot-Karnaim. Iar midrașul Bereșit Rabba: acesta este Og, care a scăpat din generația potopului; și aceasta este „din restul refaimiților”, cum s-a spus: „Nefilimii erau pe pământ” etc.. Și avea de gând ca Avram să fie ucis și el să o ia pe Sarai.<br><br>«Evreul (ha-ʿivri).» Care venise de dincolo (me-ʿever) de râu.<br><br>«Care aveau legământ cu Avram.» Care încheiaseră legământ cu el."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar explicația lui «fugarul (ha-palit)»: cel care a fugit și a scăpat dintre oamenii Sodomei; și tot așa „a venit la mine fugarul din Ierusalim”. Și este și o cale a midrașului."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«I-a dat de veste lui Avram evreul.» Nu că fugarul știa că Avraam era rudă cu Lot, ci doar știa că el ținea la credințele lui Eber, ca el.<br><br>«Iar el locuia în câmpiile lui Mamre.» De aceea au urcat cu el la război Aner, Eșcol și Mamre, cum a spus: „Aner, Eșcol și Mamre – ei își vor lua partea”."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Fugarul (ha-palit) a venit.» Acesta este Mihail. Și de ce este numit „fugar”? Căci, când Sfântul, binecuvântat fie El, l-a doborât pe Samael și ceata lui, acela l-a apucat de aripi ca să-l doboare cu el, iar Sfântul, binecuvântat fie El, l-a scăpat (pilṭo) din mâna lui. Și despre el a spus Ezechiel: „a venit la mine fugarul din Ierusalim”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Fugarul a venit.» După ce a scăpat din robie, a venit și i-a povestit lui Avram despre fiul fratelui său, care fusese luat prizonier.<br><br>«Evreul» (ha-ʿivri): din urmașii lui Eber; și toți își trăgeau neamul din el; dar Avraam și seminția lui s-au deosebit prin neam, căci la ei a rămas limba lui Eber, iar ceilalți dintre fiii lui și fiii fiilor lui au ținut în mâna lor limba aramaică și s-au numit arameeni, ca Laban arameul și alții; iar seminția lui Avraam, care este a lui Iacov, s-au numit evrei.<br><br>«Iar el locuia»: adică locuia cu acești frați, și erau cei care aveau legământ cu el și l-au ajutat; iar el locuia în țara unuia dintre frați, și acesta este Mamre."
    }
   ]
  },
@@ -2301,6 +2458,22 @@ window.CHAPTER_DATA = [
     "text": "«Și-a înarmat (va-yareq).» Ca în Targumul lui: „și a pregătit”. Și tot așa „și voi trage (va-hariqoti) sabia după voi” — Mă voi înarma cu sabia Mea împotriva voastră; și tot așa „voi trage (ariq) sabia mea”; și tot așa „și scoate (ve-hareq) lancea și securea”.<br><br>«Discipolii (ḥanikhav).» Este scris ḥanikho („discipolul său”) (altă versiune: se citește). Acesta este Eliezer, pe care l-a deprins (ḥanakh) cu poruncile. Și este cuvânt pentru începutul intrării omului sau a unei unelte în meșteșugul în care va sta, ca în „deprinde (ḥanokh) pe copil”, „inaugurarea (ḥanukkat) altarului”, „inaugurarea casei”; iar în laʿaz se numește enseigner.<br><br>«Cei trei sute optsprezece etc.» Învățătorii noștri au spus: era numai Eliezer, și acesta este numărul gematriei numelui lui.<br><br>«Până la Dan.» Acolo i-a slăbit puterea, căci a văzut că fiii lui aveau să așeze acolo un vițel."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și-a înarmat (wa-yyareq).» Că le-a dat arme de război, ca sensul lui „și scoate (we-hareq) sulița”; iar unii spun: a scoate sabia din teaca ei, ca sensul lui „pe pământ o golesc (yariqu)”, „își goleau (meriqim) sacii”; și tot așa este și pentru suliță.<br><br>«Discipolii (ḥanikhav).» Că i-a deprins (ḥanakham) de multe ori la război, chiar dacă nu este pomenit. Iar socoteala literelor lui Eliezer este pe calea midrașului; căci Scriptura nu vorbește prin gematrie, căci oricine vrea poate scoate orice nume spre bine și spre rău; ci numele este după înțelesul lui."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și a pornit în urmărire până la Dan.» În fugă, ca să vină asupra lor pe neașteptate."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Și-a înarmat (va-yareq) discipolii etc.» Căci Avraam le-a spus: noi ieșim la război; cine este omul care se teme de păcatele pe care le are în mână, să se ducă și să se întoarcă acasă. Când au auzit aceasta, s-au dus și s-au întors, și nu a rămas cu Avraam decât Eliezer, slujitorul lui. Sfântul, binecuvântat fie El, i-a spus lui Avraam: te-au părăsit toți; pe viața ta, îi dau lui Eliezer putere cât tuturor. Și numărul literelor lui Eliezer ajunge la numărul trei sute optsprezece; și așa se conchide în capitolul 4 din Nedarim. Și se mai conchide: „Și-a înarmat (va-yareq) discipolii” — Rav a spus: că i-a făcut să strălucească (horiqan) în Tora; iar Șmuel a spus: că i-a făcut să strălucească în aur. Explicație: pentru ca inima lor să nu se aplece decât spre salvarea de suflete."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Că îi fusese luat prizonier fratele»: ruda lui; iar fiii fraților, iată, sunt ca frații, cum a spus: „căci suntem rude apropiate”.<br><br>«Și-a înarmat» (wa-yareq): le-a dat arme de război; și este verb tranzitiv spre al treilea. Iar „și scoate sulița” (we-hareq ḥanit) și „își vor scoate săbiile” (we-heriqu ḥarvotam) sunt tranzitive spre al doilea.<br><br>«Discipolii» (ḥanikhaw): adjectiv, după tiparul śeridaw, peliṭaw: ucenicii lui, tinerii pe care i-a învățat calea adevărului, să-L slujească pe Domnul; de la „deprinde-l pe copil” (ḥanokh la-naʿar).<br><br>«Născuți în casa sa»: care s-au născut în casa lui din sufletele pe care le făcuseră în Haran și în țara Canaanului; și erau trei sute optsprezece. Iar în midraș: numai pe Eliezer l-a luat cu el, iar valoarea literelor lui este 318. Și dacă este așa, ce va fi „născuți în casa sa”? Dacă nu vrea să spună „și cei născuți în casa sa”.<br><br>«Și a pornit în urmărire până la Dan»: după numele de la urmă; căci, când a scris Moise, învățătorul nostru, aceasta, încă nu se numea așa, ci se numea Leșem; iar când l-au cucerit fiii lui Dan, l-au numit Dan, după numele lui Dan, tatăl lor. Și se poate că era un loc care se numea în acele zile Dan."
+   },
+   {
     "author": "Zohar, Leh Leha 10:24",
     "text": "Ce e scris: «și a auzit Avram că a fost luat fratele său». «Și a auzit Avram» — aceasta e neșamah care a rămas în curățenie în trup. «Că a fost luat fratele său» — acesta e yețer ha-ra care a fost luat între acei vinovați în vinovății multe. «Și a înarmat pe ucenicii săi, născuți în casa sa» — aceștia sunt drepții care se ostenește în Tora, care sunt mădularele trupului, sprinteni să meargă cu el; optsprezece și trei sute — acestea sunt 248 de mădulare ale trupului, și șaptezeci, taina neșamah-ei care iese de acolo. În totul s-a pregătit să meargă acolo către acei vinovați ca să-i întoarcă de la vinovățiile lor."
    }
@@ -2441,6 +2614,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și s-a împărțit împotriva lor.» După înțelesul simplu, versetul este inversat: „și s-a împărțit, el și slujitorii lui, împotriva lor, noaptea”, ca obiceiul urmăritorilor, care se despart după cei urmăriți, când fug unul încoace și altul încolo.<br><br>«Noaptea.» Adică: după ce s-a întunecat, nu s-a reținut să-i urmărească. Iar midrașul aggadei: noaptea s-a împărțit: în prima ei jumătate i s-a făcut o minune, iar a doua jumătate a fost păstrată și a venit pentru miezul nopții în Egipt („Mițrayim”).<br><br>«Până la Hoba.» Nu este un loc numit Hoba; ci Dan este numit Hoba („vinovăție”), după idolatria care avea să fie acolo."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Și s-a împărțit împotriva lor, noaptea» Rashi a scris: „După sensul lui simplu: după felul urmăritorilor, care se împart după cei care fug de ei, când fug unul încoace și altul încolo. «Noaptea» – adică după ce s-a întunecat, nu s-a oprit să-i urmărească.” Dar ce este corect: că i-a urmărit ziua până la Dan, cu toată tabăra lui; iar când s-a lăsat noaptea asupra lor și nu vedea pe ce drum fug, i-a împărțit pe oamenii lui și pe slujitorii lui în două sau trei cete și a luat o parte cu el, și i-au urmărit pe toate drumurile și i-au lovit până la Hoba, care este la miazănoapte de Damasc, și s-a întors de la urmărirea lor. Iar ordinea cuvintelor este: „Și s-a împărțit împotriva lor, el și slujitorii lui, noaptea”.<br><br>«i-a urmărit până la Hoba care este la miazănoapte de Damasc» Este cunoscut că este o distanță mare de la Elonei-Mamre, care este în Hebron, în țara lui Iuda, până la Damasc, care este în afara țării; dacă e așa, i-a urmărit multe zile, până i-a scos din țară, căci ei se întorceau spre Babilon, țara lor; sau a fost o minune mare, cum au tâlcuit învățătorii noștri: „pe cărare, cu picioarele lui nu va veni”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și s-a împărțit împotriva lor.» Ca șiretlic, ca să creadă că s-au ridicat toate împrejurimile asupra lor, cum au crezut arameii când au spus: „Iată, regele lui Israel a tocmit împotriva noastră”.<br><br>«Noaptea.» Și aceasta era din șiretlicul lui, ca să nu vadă că erau puțini, cum a sfătuit Ahitofel când a spus: „și voi urmări pe David la noapte”.<br><br>«Și i-a lovit.» O lovitură care îi împingea la fugă.<br><br>«Și i-a urmărit.» Căci începutul căderii este fuga."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Și i-a lovit și i-a urmărit.» Tanḥuma: oare urmărește cineva pe cei uciși? Ci Avraam urmărea, iar Sfântul, binecuvântat fie El, ucidea."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și s-a împărțit împotriva lor, noaptea»: când s-a împărțit noaptea asupra lor, adică la miezul nopții, ca să-i ajungă; și a venit asupra lor fără veste, el și slujitorii lui, care sunt discipolii lui. Iar faptul că a spus „s-a împărțit împotriva lor” și nu a spus „și a fost la miezul nopții”: vrea să spună că noaptea s-a împărțit asupra lor; căci până la miezul nopții acești patru regi mergeau fără grijă, iar de la miezul nopții încolo fugeau ca să-și scape viața, când a venit asupra lor Avraam și i-a ajuns și i-a lovit; iar pe cei care fugeau i-a urmărit până la locul numit Hoba, și acesta este la miazănoapte de Damasc; și lovea pe cine ajungea, iar ei fugeau ca să-și scape viața și au lăsat toată avuția și poporul. Iar Avraam s-a întors de la Hoba, de la a-i mai urmări, și a adus înapoi toată avuția."
    }
   ]
  },
@@ -2574,7 +2763,16 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 13:11"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și femeile.» Ale lui Lot, pe care ar fi trebuit să le răscumpere.<br><br>«Și poporul.» Prizonierii dintre oamenii Sodomei; și pe aceștia i-a cerut regele Sodomei de la Avraam, când a spus: „Dă-mi oamenii.”"
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și femeile și poporul»: pe care i-au luat prizonieri; pe toți i-a adus înapoi, ca să facă cunoscut că nu au omorât pe nimeni dintre prizonieri."
+   }
+  ]
  },
  {
   "num": 17,
@@ -2764,6 +2962,14 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Rashi (1040–1105)",
+    "text": "«Valea Șave.» Așa este numele ei; ca în Targumul lui: „la câmpia deschisă” — curată de copaci și de orice piedică.<br><br>«Valea regelui.» Locul ristei regelui: o ristă, adică treizeci de prăjini, care era pusă deoparte pentru rege, ca să se joace acolo. Iar midrașul aggadei: „valea Șave” — căci acolo s-au pus de acord (hișvu) toate neamurile și l-au făcut rege peste ele pe Avraam, „căpetenie a lui Dumnezeu” și conducător."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«În valea Șave.» Locul acela era un loc de alergare a cailor, pentru că era neted, nici nu urca, nici nu cobora. Și se numea valea regelui pentru că regele și călăreții lui își încercau acolo caii la alergare. Iar Onkelos a tradus Šaweh: „Mefana”, adică era gol: nu erau acolo pietre, nici copaci, nici ierburi. Și a tradus „valea regelui”: „Bet Risa de-Malka”; iar risul este de treizeci de prăjini, cu prăjina de măsură, iar prăjina este de șase coți, cu cotul de șase palme; și aceasta este măsura alergării cailor."
+   },
+   {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "„Valea regelui” (Emek HaMelekh) e menționată din nou mult mai târziu, la 2 Samuel 18:18, ca locul unde Absalom și-a ridicat un monument — o continuitate geografică remarcabilă între epoca patriarhilor și epoca regilor unificați ai Israelului."
    }
@@ -2919,6 +3125,30 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Iar Melhisedec.» Midrașul aggadei: acesta este Sem, fiul lui Noe.<br><br>«Pâine și vin.» Așa se face celor obosiți de război; și i-a arătat că nu are nimic în inima lui împotriva lui, pentru că îi ucisese pe fiii lui. Iar midrașul aggadei: i-a făcut aluzie la ofrandele de făină și la libațiile pe care aveau să le aducă acolo fiii lui."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Iar Melhisedec.» S-a numit așa pentru că era rege peste locul dreptății (ṣedeq); iar unii spun că el este Sem.<br><br>«Salemului.» Este Ierusalimul; iar martorul: „și cortul Lui a fost în Salem”.<br><br>«El fiind preot (kohen).» După cuvintele traducătorului arameic; și tot așa orice kohen; iar martorul: „și să-Mi fie preoți (we-khihanu li)”. Iar explicația lui „după rânduiala (ʿal divrati) lui Melhisedec” este în Cartea Psalmilor. Căci a vorbit cum se cuvine și a făcut frumos că l-a binecuvântat pe Avram întâi, pentru că s-a oferit de bunăvoie să-i salveze pe cei care fuseseră luați prizonieri, iar după aceea a spus „și binecuvântat”, pe Numele care l-a ajutat și i-a dat pe dușmanii lui în mâna lui."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Iar Melhisedec, regele Salemului» Este Ierusalimul, după cum s-a spus: „Și cortul Lui a fost în Salem”; iar regele lui se numește și în zilele lui Iosua „Adoni-Țedec”; căci de atunci știau neamurile că locul acela este cel mai ales dintre locuri, în mijlocul lumii locuite, sau știau prin tradiție înălțimea lui: că este îndreptat spre Templul de sus, unde este Prezența divină (Șekhina) a Celui Sfânt, binecuvântat fie El, care se numește Țedek („dreptate”). Și în Bereșit Rabba: locul acesta îi îndreptățește pe locuitorii lui: Melhisedec, Adoni-Țedec; Ierusalimul se numește Țedek, căci s-a spus: „dreptatea (ṣedeq) locuia în ea”.<br><br>«el fiind preot al Dumnezeului Preaînalt» Și a amintit „el fiind preot al Dumnezeului Preaînalt” ca să facă cunoscut că Avraam nu ar fi dat zeciuială unui preot al altor dumnezei; ci, pentru că știa despre el că este preot al Dumnezeului Preaînalt, i-a dat zeciuiala spre cinstea Numelui. Și aluzia pentru Avraam din aceasta: că acolo va fi casa lui Dumnezeu, și acolo seminția lui va scoate zeciuiala și darul ridicat (teruma), și acolo Îl vor binecuvânta pe Domnul. Și după părerea învățătorilor noștri, care spun că Melhisedec este Sem, fiul lui Noe, el a plecat din țara lui la Ierusalim ca să-L slujească acolo pe Domnul, și le era preot al Dumnezeului Preaînalt, căci era fratele cel onorat al tatălui lor; căci Ierusalimul este din hotarul canaanitului din vechime. Iar Rashi a scris mai sus: „«iar canaanitul era atunci în țară» – mergea și cucerea țara lui Israel de la seminția lui Sem, strămoșul lui Avraam, căci în partea lui Sem căzuse când Noe a împărțit țara între fiii lui, căci s-a spus: «Iar Melhisedec, regele Salemului»”. Dar aceasta nu este corect, căci „hotarul canaanitului… din Sidon” cuprinde toată țara lui Israel, iar hotarul fiilor lui Sem este la răsărit, de la Meșa, departe de țara lui Israel. Dar dacă Noe a împărțit țările între fiii lui și i-a dat lui Sem țara lui Israel, aceasta a fost ca „cel care își împarte averea prin gura lui”, și fiii lui Canaan au locuit în ea până când Numele o va da moștenire seminției iubitului Său, cum am amintit deja.<br><br>«el fiind preot al Dumnezeului Preaînalt» Pentru că la toate popoarele erau preoți care slujeau îngerilor, numiți elim („puteri”), după cum s-a spus: „Cine-I ca Tine între puternici (elim), Doamne?”, Cel Sfânt, binecuvântat fie El, se numește „Dumnezeul Preaînalt” (El ʿElyon); iar sensul lui este: Cel puternic, înalt peste toți cei înalți, ca: „Este în puterea (le-el) mâinii mele”. Iar Melhisedec nu a amintit Numele, dar Avraam a spus: „Domnul, Dumnezeul Preaînalt”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«A adus pâine și vin.» Pentru cei obosiți, care se întorceau din război.<br><br>«El fiind preot.» Și lui i se cuvenea să binecuvânteze."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Iar Melhisedec, regele Salemului.» De aceea a întrerupt între „Iar regele Sodomei i-a ieșit” și „Regele Sodomei i-a spus” și a scris între ele „Iar Melhisedec, regele Salemului, a adus pâine și vin”: ca să ne învețe că Avraam i-a răspuns adevărul regelui Sodomei când i-a spus „Departe de mine! Numai ceea ce au mâncat tinerii”; căci a spus „au mâncat tinerii” și n-a spus „am mâncat”, căci el mâncase din ale lui Melhisedec."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Iar Melhisedec.» Căci este obiceiul să se scoată pentru cei care vin de la război, care sunt obosiți, flămânzi și însetați. Altă explicație: pâinea și vinul sunt o aluzie la darurile de făină și la libații; căci la început el era preot, cum s-a spus: „el fiind preot al Dumnezeului Preaînalt”, și și-a pierdut preoția pentru că a pus binecuvântarea lui Avraam înaintea binecuvântării Sfântului, binecuvântat fie El. Aceasta este ce este scris: „Domnul a jurat și nu-I va părea rău … după cuvântul meu (divrati), Melhisedec”, adică după vorbirea lui Melhisedec. Și aceasta este ce este scris: „el fiind preot” — el este preot, dar sămânța lui nu este preot. Așa se conchide în Nedarim."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar Melhisedec, regele Salemului»: acesta este Ierusalimul; și la fel este scris: „și în Salem a fost coliba Lui”. Iar regii Ierusalimului se numeau Malki-Țedek, de la Adoni-Țedek; și la fel este scris în cartea lui Iosua: „Adoni-Țedek, regele Ierusalimului”; căci Ierusalimul este locul dreptății și al păcii; nu va suferi nedreptatea, silnicia și fapta urâciunii vreme îndelungată; de aceea îi varsă pe păcătoșii care locuiesc în el, cum a spus: „Să nu vă verse țara pentru că ați pângărit-o, precum a vărsat pe neamul care era înaintea voastră”, și a spus: „dumnezeii străini de țara”; căci este în dreptul liniei ecuatorului, și văzduhul lui este temperat; și la fel a spus: „frumos ca înălțime, bucuria întregului pământ”. Și au spus în midraș că Melhisedec este Sem, fiul lui Noe.<br><br>«A adus pâine și vin.» Pentru că veneau de la război obosiți, a adus pâine și vin.<br><br>«El fiind preot al Dumnezeului Preaînalt»: nu al stelelor și al constelațiilor, ci numai Dumnezeului Preaînalt Îi slujea și Îl cinstea, ca Avraam și cei alipiți lui."
    },
    {
     "author": "Talmudul Babilonian",
@@ -3090,6 +3320,18 @@ window.CHAPTER_DATA = [
     "text": "«Creatorul (qoneh) cerurilor și pământului.» Ca în „Cel ce a făcut cerurile și pământul”; prin facerea lor le-a dobândit (qanan), ca să fie ale Lui."
    },
    {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Creatorul cerurilor și pământului» Rashi a scris: „Qone („Creator”) este ca ʿośe („Făcător”): prin facerea lor, le-a dobândit ca să fie ale Lui”. Și acestea sunt două explicații. Și poate lucrul este așa: că expresia „dobândire” (qinyan) vine în sensul facerii; și tot așa: „Căci Tu ai făcut (qanita) rărunchii mei”, căci dublează: „m-ai țesut în pântecele mamei mele”; și tot așa: „Oare nu este El Tatăl tău, Creatorul tău (qanekha)? El te-a creat (ʿasekha) și ți-a dat formă!”; căci limba spune „dobândire” pentru facere, și invers: „pe care le făcuseră (ʿasu) în Haran” – le dobândiseră; „și din ceea ce era al tatălui nostru a agonisit (ʿasa)”. Dar ce este corect este ce a mai spus: „le-a dobândit ca să fie ale Lui”; căci tot ce este al omului se numește dobândirea lui (qinyano), iar turmele se numesc miqne („avere”), pentru că sunt partea principală a averii omului. Iar în limba înțelepților: cel care ridică un lucru găsit pentru prietenul lui – prietenul lui l-a dobândit; privirea asupra unui lucru fără stăpân dobândește; curtea omului dobândește pentru el fără știrea lui; și tot așa în orice loc vine la ei în locul dreptului de stăpânire, adică este al lui. Și la aceasta s-a gândit Onkelos, care a tradus de-qinyaneh („al cărui sunt”), și nu a spus „care a dobândit”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«El l-a binecuvântat și a spus: Binecuvântat este Avram de către Dumnezeul Preaînalt.» Mai întâi l-a binecuvântat, și după aceea a spus: iată, chiar fără binecuvântarea mea, Avram este binecuvântat de Dumnezeul Preaînalt, cum a spus: „și te voi binecuvânta”.<br><br>«Creatorul (qoneh) cerurilor și pământului.» Cerurile și pământul sunt o dobândire (qinyan) a Lui, ca să facă în ele după voia Lui; căci El nu este pentru ele o cauză naturală, cum au crezut unii dintre cercetători, ci El este pentru ele un făcător prin voință și lucrează în ele după voia Lui."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Creatorul» (qoneh). Nu este în sensul de a cumpăra de la altul, ci este ca și cum ar fi spus: Făcătorul sau Cel care aduce în ființă; și la fel „Am dobândit un om” (qaniti), cum am explicat."
+   },
+   {
     "author": "Talmudul Babilonian",
     "text": "În lucru: traducerea acestui comentariu urmează."
    },
@@ -3249,6 +3491,22 @@ window.CHAPTER_DATA = [
     "text": "«Care i-a predat (miggen).» Care i-a dat în mână; și tot așa „cum să te predau (amaggenkha), Israele?”.<br><br>«Și i-a dat.» Avraam i-a dat zeciuială din tot ce avea, pentru că era preot."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Care i-a predat (miggen).» Ca „a dat”; și tot așa „o cunună strălucitoare îți va da (temaggenekka)”; iar mem este din rădăcină. Iar Avram a scos zeciuiala pentru cinstea Numelui, și n-a găsit om vrednic să i-o dea, ca Melhisedec."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Și i-a dat zeciuială din toate» Avraam nu a voit să ia pentru sine nici un fir de ață, nici o curea de încălțăminte, dar a pus deoparte partea Celui de Sus, ca s-o dea preotului. Iar regele Sodomei a ieșit în întâmpinarea lui Avraam în valea Șave, ca să-l cinstească, și a mers cu el până la Salem, unde Melhisedec a adus pâine și vin pentru oamenii care erau cu el; și regele Sodomei nu i-a cerut nimic; dar când a văzut dărnicia inimii lui și dreptatea lui, că a dat zeciuiala, atunci a cerut și el sufletele, ca dar de milostenie. Iar Avraam s-a încrezut în Dumnezeul lui că îi va da bogăție și avere și cinste, și n-a voit să ia nimic de la el; și i-a dat înapoi toată averea Sodomei, care era a lui, și toată averea Gomorei, ca s-o dea înapoi stăpânilor ei; căci în toate i-a cerut sufletele, și în toate argumentul lui era: ca să nu spună „ei l-au îmbogățit pe Avram”. Iar celelalte locuri amintite le loviseră cu ascuțișul sabiei și nu luaseră din orașele regilor decât averea Sodomei și a Gomorei; căci, pentru că le pieriseră regii, orașele lor rămăseseră părăsite. Și se poate că acesta este ce a spus: „dacă… fie și un fir de ață sau o curea de încălțăminte” va rămâne în mâna mea din toată averea care a venit la mine de la voi toți, „sau dacă voi lua din orice care este al tău” – din averea ta, pe care mi-ai dat-o tu."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și binecuvântat este Dumnezeul Preaînalt.» Această lucrare pe care a făcut-o, de a-l face pe Avraam să-și biruie dușmanii, este o binecuvântare pentru El, binecuvântat fie, căci prin ea Se bucură de lucrările Sale, la pieirea celor răi și la veselia celor drepți, ca în: „lăudați-L, toate popoarele… căci mare este față de noi bunătatea Lui”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și binecuvântat este Dumnezeul Preaînalt.» A repetat în aceasta Numele, spunând „Dumnezeul Preaînalt”; și Avram de asemenea a jurat pe acest Nume, ca să scoată din inima celor care îi auzeau, care slujeau altor dumnezei, și că nu este de slujit decât Domnului singur, iar El este mai presus de toți cei de sus și Stăpânul celor de jos și al celor de sus.<br><br>«Care i-a predat pe dușmanii tăi» (miggen ṣarekha): i-a dat în mâinile tale; și la fel „cum să te dau, Israele?” (ʾamaggenkha). Și a spus „dușmanii tăi”, deși ei nu erau oameni ai războiului lui și nu avea nimic cu ei: de vreme ce au luat prizonier pe fiul fratelui său și avuția lui, iată, ei sunt dușmanii lui; căci Avram avea un nume, iar Lot era cunoscut că este fiul fratelui său, și nu l-au lăsat din dragoste pentru Avram.<br><br>«Și i-a dat zeciuială din toate.» Comentatorii au explicat că Avram i-a dat lui Melhisedec zeciuială din vitele și din avuția pe care le-a salvat, pentru că era preot al Dumnezeului Preaînalt. Iar domnul, tatăl meu, binecuvântată fie amintirea lui, a explicat că Melhisedec i-a dat lui Avraam, ca plată a lui, zeciuiala după lege; căci regele Sodomei i-a spus lui Avram: „Dă-mi mie sufletele, iar averea ia-o pentru tine”, iar Avraam a spus: „dacă am luat fie și un fir de ață sau o curea de încălțăminte”; Melhisedec i-a spus lui Avraam: După lege poți să iei zeciuiala din toate și să nu iei nimic de la regele Sodomei, căci a ta este zeciuiala după lege; căci oricine salvează banii tovarășului său, zeciuiala este a lui, pentru că s-a ostenit să-i salveze. Și corectă este explicația, căci este de mirare, după părerea comentatorilor, cum ar fi dat Avram din ale regelui Sodomei lui Melhisedec: el nu a voit să ia pentru sine, și să dea altora? Aceasta nu este cu putință."
+   },
+   {
     "author": "Zohar, Leh Leha 24:7",
     "text": "«Binecuvântat e Avram» — precum zicem «binecuvântat ești Tu». «Al El Elyon» — YHVH (Domnul) Elohim-ul nostru. «Stăpân al cerurilor și al pământului» — Împăratul lumii. Și versetul acesta e taina binecuvântărilor. «Și l-a binecuvântat» de jos sus. «Și binecuvântat e El Elyon» de sus jos. «Și i-a dat zeciuială din tot» — să se lipească de locul unde s-a legat legătura jos."
    }
@@ -3385,6 +3643,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Dă-mi mie sufletele.» Din prizonierii mei pe care i-ai salvat, dă-mi înapoi numai trupurile."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Regele Sodomei i-a spus.» După explicația domnului, tatăl meu, binecuvântată fie amintirea lui, explicația lui este: și spusese deja, înainte ca Melhisedec să spună că zeciuiala este a lui Avram."
    }
   ]
  },
@@ -3562,6 +3824,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Îmi ridic (harimoti) mâna.» Cuvânt de jurământ: îmi ridic mâna către Dumnezeul Preaînalt. Și tot așa „Pe Mine Însumi am jurat (nișbaʿti)” — jur; și tot așa „dau (natatti) prețul câmpului, ia-l de la mine” — îți dau prețul câmpului, ia-l de la mine."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Îmi ridic mâna.» Jurământ; ca „căci Îmi ridic mâna spre ceruri”.<br><br>Iar sensul lui «Dumnezeul Preaînalt»: căci iată, am jurat pe Numele cu care m-a binecuvântat acest preot."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Îmi ridic mâna (harimoti yadi) către Domnul» „Expresie de jurământ: ridic mâna către Dumnezeul Preaînalt; și tot așa „Pe Mine Însumi am jurat (nišbaʿti)” – jur” – cuvintele lui Rashi. Și tot așa am găsit în Sifre: găsim la toți cei drepți că își pun înclinația sub jurământ să nu facă; la Avraam el spune: „Îmi ridic mâna către Domnul”. Și iată, este ca expresia: „și și-a ridicat dreapta și stânga spre ceruri și a jurat pe Cel ce trăiește veșnic”. Iar Onkelos a spus: arimit yedi bi-ṣlo qodam Adonai („mi-am ridicat mâinile în rugăciune înaintea Domnului”); va spune: m-am rugat Domnului, cu palmele întinse spre ceruri: dacă voi lua din orice care este al tău – adică: așa să-mi facă Dumnezeu și încă mai mult, dacă voi lua. Dar ce este corect în ochii mei: a spus „Îmi ridic mâna către Domnul” ca să fie lucru sfințit și închinat (ḥerem) înaintea Lui, dacă voi lua din orice care este al tău; căci darurile sfințite se numesc așa, „ridicarea mâinii” (terumat yad), ca în: „Toți cei care au înălțat o donație de argint și aramă”, și: „fiecare bărbat care a ridicat o ofrandă de aur pentru Domnul”. Și a spus așa pentru că dăduse din ea zeciuială; căci tot ce ar lua din tot ce este al lui va fi donație (teruma) pentru Domnul și nu se va folosi de nimic din ea. Iar în Bereșit Rabba: le-a făcut donație (teruma), cum spui: „să ridicați din ea donația pentru Domnul”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Îmi ridic mâna» (harimoti): iată, ridic; și la fel „Dau prețul câmpului” (natatti). Cu ridicarea mâinii este jurământul; și la fel „și și-a ridicat dreapta și stânga spre ceruri și a jurat”; și uneori nu se pomenește jurământul, ci numai ridicarea mâinii, ca „pe care Mi-am ridicat mâna”."
    }
   ]
  },
@@ -3727,8 +4001,16 @@ window.CHAPTER_DATA = [
     "text": "«Dacă… fie și un fir de ață sau o curea de încălțăminte.» Voi opri pentru mine din pradă.<br><br>«Sau dacă voi lua din orice care este al tău.» Și dacă vei spune să-mi dai răsplată din vistieriile tale, nu voi lua.<br><br>«Ca să nu spui etc.» Căci Sfântul, binecuvântat fie El, mi-a făgăduit să mă îmbogățească, cum s-a spus: „și te voi binecuvânta” etc."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Dacă… un fir de ață (mi-ḥuṭ).» Cu care se coase orice haină.<br><br>«O curea (śerokh).» Pielea care leagă încălțămintea."
+   },
+   {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Dacă (im) am luat fie și un fir de ață sau o curea de încălțăminte.» Orice im din Scriptură, când nu vine după el partea care urmează condiției, va sta în locul cuvântului „că nu”. A spus, așadar: am ridicat mâna mea că nu pot să-ți dau nici un fir de ață, nici o curea de încălțăminte, căci nu am nimic în mână, și că nu voi lua din orice care este al tău. Și tot așa: „dacă (im) vor vedea țara”: că nu vor vedea; „dacă voi veți intra”: că nu veți intra; „viu este Domnul, dacă va fi omorât”: că nu va fi omorât; „viu este Domnul, înaintea căruia stau, dacă voi lua”: că nu voi lua; și multe altele."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Sau dacă voi lua.» Sensul vav-ului: vrea să spună „dacă am luat și dacă voi lua”."
    }
   ]
  },
@@ -3894,6 +4176,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Tinerii.» Slujitorii mei care au mers cu mine; și, în plus, „Aner, Eșcol și Mamre” etc. Deși slujitorii mei au intrat în război, cum s-a spus: „el și slujitorii lui… și i-a lovit”, iar Aner și tovarășii lui au stat lângă bagaje ca să le păzească, chiar și așa ei își vor lua partea. Și de la el a învățat David, care a zis: „Partea celui care coboară la luptă și partea celui care stă lângă bagaje: împreună să o împartă”. Și de aceea s-a spus: „și a fost din ziua aceea înainte (va-maʿlah): a pus-o drept lege și rânduială”, și nu s-a spus „și de atunci încolo”, pentru că legea fusese dată deja în zilele lui Avram."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Departe de mine (bilʿadai).» Ce au luat, adică ce au mâncat robii lui."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Departe de mine (bilʿadai)!» Tu ai spus: „Dă-mi oamenii.” Fără mine îl poți lua, căci eu nu țin deloc la el.<br><br>«Numai ceea ce au mâncat tinerii și partea oamenilor.» Numai aceasta voi lua din tot ce este al tău: cheltuiala care s-a făcut cu mâncarea tinerilor; și voi lua de asemenea partea oamenilor care au mers cu mine.<br><br>«Aner, Eșcol și Mamre – ei își vor lua partea.» Și nu le voi da eu parte și nici nu voi lua parte pentru ei, ci își vor lua singuri, ca niște căpetenii."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Departe de mine» (bilʿaday). Yod-ul este de plural și nu este sufix; și vine văzut, fără mem, ca yod, ca „și cu șezutul descoperit” (wa-ḥaśufay šet), „și țesătorii de pânză albă” (we-ʾorgim ḥoray) și cele asemenea lor. Iar înțeleptul Rabbi Avraham a explicat că yod-ul este sufix, adică: numai fără mine să ia, și aceasta este ceea ce au mâncat tinerii. «Tinerii»: aceștia sunt discipolii lui, născuți în casa lui, și ei nu vor avea decât ceea ce au mâncat. «Și partea oamenilor»: căci eu nu am dreptul să las partea lor, căci ei s-au ostenit în aceasta și se cuvine să ia din prada pe care au salvat-o partea lor cuvenită, după obicei și după lege."
    }
   ]
  }

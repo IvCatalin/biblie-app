@@ -204,6 +204,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Și acestea sunt numele… Iacov și fiii lui.» Cei vrednici dintre toți aceștia să fie socotit fiecare dintre ei și cunoscut cu nume personal sunt doar Iacov și fiii lui, cum a spus: „și Aaron le va purta numele înaintea Domnului”; dar celelalte șaptezeci de suflete, deși erau drepți, n-au urcat la treapta acestora."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Iacov și fiii lui.» Iacov intră în socoteala celor șaptezeci de suflete, cum se dovedește mai jos, după sensul simplu."
    }
   ]
  },
@@ -497,6 +501,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
     "text": "«Toate sufletele casei lui Iacov venite în Egipt („Mițrayim”) sunt șaptezeci.» Explicație: împreună cu Iacov; și începutul pericopei dovedește așa, căci este scris: „Și acestea sunt numele” etc., ca să facă cunoscut că Iacov este din număr cu fiii lui și este inclus cu fiii Leei; căci în enumerarea lor nu sunt decât treizeci și doi, iar Scriptura îi numără treizeci și trei, cu Iacov, pentru că el este din primul număr, și de la el a început să numere numărul de șaptezeci. Și așa este sensul simplu al versetului: „Toate sufletele casei lui Iacov venite în Egipt” — dacă vrei să le știi numărul, numără-l și pe Iacov, și le vei găsi șaptezeci. Iar după ce am explicat mai sus, nu este nevoie să spunem că Iacov este din număr, căci Sfântul, binecuvântat fie El, S-a numărat cu ei și întregește numărul."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Venite» (ha-baʾah): cu accentul pe silaba dinainte (milʿel), căci este verb la trecut, și explicația lui este „care a venit”.<br><br>«În Egipt» (Miṣraymah): ei n-au venit, la venirea lor, în cetatea Egiptului, ci în Goșen; adică „în Egipt” înseamnă în țara Egiptului, iar Goșenul este cuprins în ea."
    }
   ]
  },

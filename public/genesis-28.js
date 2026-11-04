@@ -367,7 +367,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Se vor binecuvânta prin tine»: pentru tine și pentru sămânța ta vor fi binecuvântate toate familiile; căci prin aceea că vor face poruncile lui Dumnezeu și vor recunoaște că numai El este Domnul lumii este dăinuirea lumii, și pentru el lumea stă în picioare."
+    "text": "«Și va fi seminția ta; și te vei răspândi»: tu și seminția ta.<br><br>«Se vor binecuvânta prin tine»: pentru tine și pentru sămânța ta vor fi binecuvântate toate familiile; căci prin aceea că vor face poruncile lui Dumnezeu și vor recunoaște că numai El este Domnul lumii este dăinuirea lumii, și pentru el lumea stă în picioare."
    }
   ]
  },

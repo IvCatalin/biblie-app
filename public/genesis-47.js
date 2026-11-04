@@ -682,7 +682,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Și s-au apropiat»: că a simțit în sine că moartea lui este aproape, căci mare era slăbiciunea lui din pricina mulței osteneli și a mulțimii necazurilor care îl ajunseseră; și s-a temut ca nu cumva să-l ajungă moartea pe neașteptate, și i-a poruncit lui Iosif să-l ducă din Egipt („Mițrayim”) și să-l îngroape în mormintele părinților săi.<br><br>«Milă și adevăr»: adevărul este că este dator să-și îngroape tatăl; iar mila este că îl vor duce din Egipt în țara Canaanului ca să-l îngroape acolo."
+    "text": "«Și s-au apropiat»: că a simțit în sine că moartea lui este aproape, căci mare era slăbiciunea lui din pricina mulței osteneli și a mulțimii necazurilor care îl ajunseseră; și s-a temut ca nu cumva să-l ajungă moartea pe neașteptate, și i-a poruncit lui Iosif să-l ducă din Egipt („Mițrayim”) și să-l îngroape în mormintele părinților săi.<br><br>«Pune-ți, te rog, mâna sub coapsa mea»: l-am explicat în pericopa „Și au fost anii vieții Sarei”.<br><br>«Milă și adevăr»: adevărul este că este dator să-și îngroape tatăl; iar mila este că îl vor duce din Egipt în țara Canaanului ca să-l îngroape acolo."
    }
   ]
  },

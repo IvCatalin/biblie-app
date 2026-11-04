@@ -204,7 +204,12 @@ window.CHAPTER_DATA = [
   ],
   "textCompare": [],
   "refs": [],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și acum»: „Du-te, te rog, la turmă”, la turma pe care o aveau."
+   }
+  ]
  },
  {
   "num": 9,
@@ -757,7 +762,12 @@ window.CHAPTER_DATA = [
   ],
   "textCompare": [],
   "refs": [],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a făcut și el»: este lămurit."
+   }
+  ]
  },
  {
   "num": 32,

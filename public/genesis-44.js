@@ -63,7 +63,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«S-a luminat de dimineață» (ha-boqer ʾor): verb la trecut, din forma paʿul; și la fel „căci mi s-au luminat (ʾoru) ochii”."
+    "text": "«S-a luminat de dimineață» (ha-boqer ʾor): verb la trecut, din forma paʿul; și la fel „căci mi s-au luminat (ʾoru) ochii”.<br><br>«Lor și măgarilor lor»: cu măgarii lor încărcați, i-a trimis în pace."
    },
    {
     "author": "Talmudul Babilonian, Pesahim 2a:3",

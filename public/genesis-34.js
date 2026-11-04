@@ -322,6 +322,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Căci este o insultă pentru noi.» Căci s-ar părea că nu este între cei circumciși un om potrivit ca să ne încuscrim cu el."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Căci este o insultă pentru noi»: să ne încuscrim cu oameni necircumciși, iar noi suntem circumciși."
    }
   ]
  },
@@ -338,6 +342,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Ne vom învoi (neʾot) cu voi.» Ne vom învoi cu voi; exprimare ca „și s-au învoit (va-yeʾotu)”.<br><br>«Să fie circumcis (le-himmol).» Să fie circumcis. Nu este exprimare activă, ci exprimare pasivă."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Ne vom învoi» (neʾot): vom consimți."
    }
   ]
  },
@@ -378,6 +386,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«O vom lua pe fiica noastră.» Deși ea este acum în casa voastră, o vom lua de la voi.<br><br>«Și vom pleca.» Cu toată bogăția noastră, ca să nu vă folosiți de ea."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«O vom lua pe fiica noastră»: cum am explicat."
    }
   ]
  },
@@ -413,6 +425,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "«N-a zăbovit (ve-loʾ eḥar).» Din rădăcina „să nu zăbovești (loʾ teʾaḥer)”, care este conjugarea grea, ca teššabber.<br><br>«Iar el era cel mai de seamă.» Și l-au ascultat."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și tânărul n-a zăbovit să facă lucrul»: să-i adune pe oamenii orașului său și să vorbească cu ei.<br><br>«Iar el era cel mai de seamă»: și avea putere s-o facă, căci oamenii orașului său îl cinsteau."
    }
   ]
  },
@@ -501,6 +517,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«Turmele lor și averile lor și toate dobitoacele lor» Iar sensul lui „Turmele lor și averile lor și toate dobitoacele lor”: animalele care sunt în cirezi, pe câmp, se numesc „turme” (miqne), pentru că ele sunt averea de căpetenie a omului, fie necurate, fie curate, cum este scris: „iată, mâna Domnului este asupra turmelor tale care sunt pe câmp: pe cai, pe măgari, pe cămile, pe cirezi și pe turme”; iar cele care nu sunt în turmă, ca animalele singure în casă, nu se numesc „turme” și intră în cuprinsul lui „și toate dobitoacele lor”; sau este o dublare a expresiei pentru întărire, adică: și toate dobitoacele lor, care sunt foarte multe."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Turmele lor»: este lămurit."
    }
   ]
  },

@@ -159,7 +159,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Dumnezeu m-a judecat» (danani): m-a pus la judecata Lui cu sora mea, și a văzut că și eu sunt vrednică de fii ca ea; și pentru că a pomenit judecata, a pomenit numele Elohim („Dumnezeu”), a cărui explicație este „judecător”.<br><br>«Și mi-a dat un fiu»: căci îl socotesc ca și cum ar fi fiul meu, de vreme ce este de la slujnica mea."
+    "text": "«Dumnezeu m-a judecat» (danani): m-a pus la judecata Lui cu sora mea, și a văzut că și eu sunt vrednică de fii ca ea; și pentru că a pomenit judecata, a pomenit numele Elohim („Dumnezeu”), a cărui explicație este „judecător”.<br><br>«Și mi-a și auzit glasul»: căci m-am rugat înaintea Lui pentru aceasta; și chiar dacă nu eram vrednică de aceasta, mi-a auzit glasul.<br><br>«Și mi-a dat un fiu»: căci îl socotesc ca și cum ar fi fiul meu, de vreme ce este de la slujnica mea."
    }
   ]
  },

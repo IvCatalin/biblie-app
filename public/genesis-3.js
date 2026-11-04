@@ -335,6 +335,10 @@ window.CHAPTER_DATA = [
     "text": "«Iar șarpele.» El este Satana, el este îndemnul rău, mult în pagubă și puțin în a fi văzut. Căci un lucru este numit cu numele a ceva asemănător lui, așa cum regele este numit leu, cum a spus: „S-a ridicat leul din desișul lui”; și sunt numiți dușmanii care vatămă șerpi, vipere pentru care nu este descântec, cum a spus: „Iată, trimit asupra voastră șerpi, vipere etc.” Și în acest fel a numit în acest loc îndemnul rău, care face să păcătuiască, șarpe, fiindcă este asemenea șarpelui, al cărui folos în existență este foarte mic, iar paguba lui mare, cu puțina lui arătare. Și deja au spus înțelepții noștri, binecuvântată fie amintirea lor, că Samael călărea pe el; și aceasta înseamnă că puterea poftitoare, care face să păcătuiască, face aceasta prin mijlocirea puterii imaginative, care îi aduce închipuirile plăcerilor materiale, care abat de la calea desăvârșirii urmărite de Dumnezeu, binecuvântat fie El. Căci, într-adevăr, puterea poftitoare, împreună cu închipuirile plăcerilor care îi sunt aduse, sunt la îndemâna puterilor trupești care lucrează și fac să dea greș intenția și voia lui Dumnezeu, binecuvântat fie El, când puterea intelectuală nu se ridică împotriva lor și nu se împotrivește lor, cum au spus înțelepții noștri, binecuvântată fie amintirea lor: „Ochiul și inima sunt cei doi mijlocitori ai păcatului”; despre care a avertizat spunând: „și să nu umblați după inima voastră și după ochii voștri”.<br><br>«Era mai dibaci decât orice vietate a câmpului.» Căci puterea imaginativă, care aduce chipurile plăcerilor la puterea poftitoare, era mai puternică în ei decât era în celelalte viețuitoare, cum au spus: „Oricine este mai mare decât semenul său, îndemnul lui este mai mare decât al lui.”<br><br>«El i-a spus femeii.» Căci mintea ei slabă s-a lenevit să cugete și nu s-a ridicat împotriva închipuirii mincinoase; și atunci puterea ei imaginativă și-a închipuit că, într-adevăr, «oare chiar a spus Dumnezeu»: adică, deși a spus Dumnezeu: „să nu mâncați din Pomul Cunoașterii, ca nu cumva să muriți”, oricum aceasta nu se va adeveri. Și astfel a spus că, atunci când șarpele, adică închipuirea, a început să pună o asemenea îndoială, iată că femeia, cu mintea ei slabă, a spus:"
    },
    {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar șarpele era mai dibaci decât orice vietate a câmpului pe care o făcuse Domnul Dumnezeu.» Este de întrebat despre vorbirea șarpelui către femeie: cum a fost? Și, dacă a fost pe cale de minune, ca vorbirea măgăriței către Balaam, de ce nu a spus „Domnul a deschis gura șarpelui”, cum a spus: „Domnul a deschis gura măgăriței”? Iar dacă este după cuvintele lui Rabbi Saadia, care a scris că nu a vorbit nici șarpele, nici măgărița, ci un înger a vorbit în locul lor, de ce a fost blestemat șarpele? Și încă: cum ar fi ademenit îngerul pe femeie să încalce porunca lui Dumnezeu? Și încă: ce treabă are aici șarpele, și de ce a spus „Iar șarpele era dibaci”, de vreme ce el nu a vorbit? Iar dacă vom spune că îngerul a venit ca să încerce femeia, dacă va încălca porunca Domnului, ce a păcătuit șarpele în aceasta? Și de ce nu a venit îngerul la om, căci porunca lui Dumnezeu nu fusese dată femeii, deși omul i-a spus femeii porunca lui Dumnezeu? Și lucrul acesta este foarte încurcat după sensul descoperit, dar după sensul ascuns lucrul este lămurit, cum vom explica în caietul pe care îl vom scrie separat despre sensul ascuns. Și din sensul ascuns este ceea ce au scris învățătorii noștri, binecuvântată fie amintirea lor, despre aceasta: că șarpele era mare cât o cămilă și Samael călărea pe el, iar Sfântul, binecuvântat fie El, râde de cămilă și de călărețul ei; și înțelege una din alta, căci cât de prețioasă este această pildă în cuvintele lor! Și au mai spus: „când a venit șarpele la Eva, a aruncat în ea murdărie; Israel, care au stat la muntele Sinai, murdăria lor a încetat; neamurile lumii, care nu au stat la muntele Sinai, murdăria lor nu a încetat”; și toate acestea sunt potrivite pentru cel care înțelege. Iar noi nu vom lămuri aici pilda, ca să nu descoperim ce este ascuns, cum ne-au avertizat învățătorii noștri, binecuvântată fie amintirea lor, despre aceasta, cum am scris; dar vom scrie aluziile, cum au făcut ei aluzie, și cel care înțelege va înțelege. Și unii spun că șarpele nu a vorbit, ci prin șuierat i-a făcut aluzie femeii, iar femeia a recunoscut aluzia șarpelui și a știut că aceasta voia să spună; dar este departe ca femeia să înțeleagă aceste lucruri prin aluzii; și încă: dacă femeia a înțeles aluziile șarpelui, cum a înțeles el răspunsul femeii? Iar înțeleptul Rabbi Avraham ibn Ezra a scris că șarpele vorbea și umbla cu statura dreaptă, iar Numele pusese în el priceperea omului; și iată, versetul a mărturisit că era mai dibaci decât orice vietate a câmpului, numai că nu ca omul; și la fel este părerea învățătorilor noștri, binecuvântată fie amintirea lor. Și este de mirat, după explicația acestui înțelept, cum la vremea creării nu l-a deosebit de dobitoace și de sălbăticiuni, cum l-a deosebit pe om, despre care a spus: „Să facem om în imaginea noastră”? Și încă: când l-a blestemat pe șarpe și i-a spus „pe pântecele tău vei merge și țărână vei mânca”, cum de nu a spus „și de pricepere vei fi lipsit”, căci acesta este blestemul cel mare, și cum de nu l-a pomenit? Iar ceea ce este cel mai aproape din tot ce am scris este că vorbirea șarpelui a fost pe cale de minune, ca să încerce prin ea femeia; și, deși nu a spus „Domnul a deschis gura șarpelui”, cum a spus la măgărița lui Balaam, este pentru că în aceasta este un mare lucru ascuns, și el este esențialul pentru cei care înțeleg cunoașterea. Și încă este de întrebat: de ce a fost blestemat șarpele, de vreme ce Dumnezeu i-a pus cuvântul în gură? Și se poate explica că șarpele a cugetat cu viclenie să-l pizmuiască pe om, iar Dumnezeu, care îi cunoștea gândul, l-a lăsat și i-a pus cuvântul în gură, după cum au spus: „cel care vine să se întineze, i se deschide”; și încă, pentru ca oamenii să știe că pe drept a fost pedepsit.<br><br>«Era dibaci (ʿarum).» Înțelept. Iar cel care are sensul de înțelepciune este cu șuruq, iar cel care are sensul de gol este cu ḥolam. Și la fel pluralul care are sensul de înțelepciune are mem-ul moale, ca: „gândurile celor vicleni (ʿarumim)”, iar cel care are sensul de gol are mem-ul cu dageș, ca: „și hainele celor goi (ʿarummim) le dezbraci”. Iar ceea ce a spus „era dibaci” înseamnă înțelept și dibaci prin puterea închipuirii, care este a dobitocului, cum spun despre vulpe că este dibace și plină de vicleșuguri; și aceasta este prin puterea închipuirii, nu prin puterea intelectului, căci puterea intelectului nu este la cele de jos, ci numai la om. Iar șarpele era dibaci și plin de vicleșuguri mai mult decât vulpea, cum a spus: „decât orice vietate a câmpului”. Și nu a pomenit dobitocul, pentru că vietățile câmpului au mai multă viclenie decât dobitoacele mari; și, cu toate acestea, șarpele era mai dibaci decât ele, și nu mai trebuie spus decât dobitoacele. Iar ceea ce a spus „pe care o făcuse Domnul Dumnezeu” înseamnă: deși le-a făcut pe toate dintr-o singură materie, a pus în ele întâietate uneia asupra celeilalte, una în viclenie și alta în putere, după cum a văzut Dumnezeu în înțelepciunea Lui, care nu poate fi cuprinsă.<br><br>«El i-a spus femeii», și nu i-a spus omului: femeia este mai aproape de a se lăsa ademenită decât bărbatul, căci mintea ei este ușoară. «Oare chiar (af ki) a spus Dumnezeu.» Spunând af, care arată un adaos la cuvintele care au fost înainte, se pare că au fost alte cuvinte înainte, între Eva și șarpe. Și pare că Eva i-a spus șarpelui despre cinstea pe care le-a făcut-o Dumnezeu, că i-a așezat în Grădina Edenului; i-a spus șarpele: „Eu văd că Sfântul, binecuvântat fie El, vă urăște, deși v-a înălțat mai mult decât celelalte făpturi, căci nu vă face cutare și cutare înălțime; și cu atât mai mult că v-a spus să nu mâncați din toți pomii grădinii; prin aceasta puteți recunoaște că vă urăște și că nu sunteți de preț în ochii Lui, cum spui tu”. Iar Scriptura a lăsat începutul cuvintelor și a luat sfârșitul lor; și așa este obiceiul Scripturii în multe locuri, ca ceea ce au spus iscoadele către Iosua: „Căci Domnul a dat în mâinile noastre toată țara”, iar cuvântul ki nu este început de vorbire. Și explicația lui af: cu atât mai mult, ca: „cu atât mai mult celor ce locuiesc în case de lut”, „cu atât mai puțin eu i-aș răspunde”, „cu atât mai puțin casa aceasta pe care am zidit-o”. Și șarpele nu a pomenit Numele cel slăvit; iar înțeleptul Rabbi Avraham ibn Ezra a scris că nu-l cunoștea; iar după explicația noastră, că vorbirea lui a fost pe cale de minune, Dumnezeu nu i-a pus în gură acest Nume slăvit, căci nu se cuvine ca un dobitoc sau o sălbăticiune să-l rostească, din pricina cinstei Numelui, care este deosebit numai pentru El; și la fel femeia nu l-a pomenit. Iar ceea ce a spus șarpele, „din niciun pom al grădinii”, a spus-o din viclenia lui; deși el nu auzise aceasta de la femeie în cuvintele dinainte, a spus așa, ca și cum i-ar fi spus: ce folos aveți că v-a așezat în Grădina Edenului, de vreme ce v-a oprit să mâncați din toți pomii grădinii?"
+   },
+   {
     "author": "Zohar, Tazria 21:1",
     "text": "Am învățat: când șarpele (puternic) începe să se descopere, se retrag stâlpii și zidirile și trec, și vine șarpele puternic și aruncă murdărie, și atunci se află Sanctuarul întinat. Care Sanctuar? Cum s-a învățat (Leviticul 14:34): «Și voi pune rană de țaraʿat într-o casă din țara stăpânirii voastre.» Și este scris (Geneza 3:1): «Și șarpele era mai viclean decât toate fiarele câmpului pe care le făcuse Domnul Dumnezeu, și a zis femeii.» «Femeii» însăși, căci locul Sanctuarului este prins în ea; și aceasta este «a întinat Sanctuarul Domnului» din cauza păcatelor lui, pentru că s-a descoperit șarpele puternic."
    },
@@ -539,6 +543,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Din rodul pomilor grădinii putem mânca.» Și nu avem nevoie să intrăm în primejdia mâncării dintr-un pom despre care Dumnezeu, binecuvântat fie El, ne-a spus că, mâncând din el, vom muri. Însă închipuirea s-a întărit să-I atribuie lui Dumnezeu, binecuvântat fie El, Doamne ferește, gelozie și minciună, și și-a închipuit că a oprit acel rod ca să nu dobândească prin el folosul de a fi ca Dumnezeu, și că nu va pricinui moartea deloc. Și astfel i-a spus femeii:"
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și femeia i-a spus.» Nu este așa cum spui tu, căci nu ne-a oprit de la toți pomii grădinii, ci de la un singur pom, care este în mijlocul grădinii, despre care ne-a spus: „Să nu mâncați din el și nici să nu vă atingeți de el, ca nu cumva să muriți”; și spre binele nostru ni l-a oprit, ca să nu murim; poate este în firea pomului ca rodul lui să-l omoare pe cel care mănâncă din el. Iar ceea ce a spus ea, pen, care are sensul de „poate” și „ar putea”, pe când Dumnezeu i-a spus omului că va muri negreșit dacă va mânca din el, cum a spus: „în ziua în care vei mânca din el vei muri negreșit” – expresia pen a spus-o în legătură cu „nici să nu vă atingeți de el”, pe care l-a adăugat de la ea: a spus că atât de mult ne-a iubit, încât ne-a oprit chiar și atingerea, ca nu cumva să ajungem de la atingere la mâncare și să murim. Sau explicația lui este „ca să nu muriți”, ca: „să nu cumva să-l întorci pe fiul meu acolo”, a cărui explicație este „să nu-l întorci”; „ca nu cumva să vorbești cu Iacov” – „să nu vorbești”."
    },
    {
     "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.32",
@@ -909,6 +917,10 @@ window.CHAPTER_DATA = [
     "text": "«Negreșit că nu veți muri; căci Dumnezeu știe că, în ziua în care veți mânca din el, vi se vor deschide ochii.» Nu a oprit acel rod deloc de teama morții, ci pentru că El știe că, mâncându-l, veți dobândi un adaos de cunoaștere și astfel veți fi ca Dumnezeu, desăvârșiți în știință."
    },
    {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Șarpele i-a spus.» A spus șarpele, în viclenia lui: „Negreșit că nu veți muri”; nu este așa cum spui tu, că din dragoste pentru voi vi l-a oprit, ca să nu muriți mâncându-l, căci nu veți muri; ci v-a înfricoșat cu moartea, ca să vă păziți mai mult de el; dar vi l-a oprit pentru că nu vrea înălțarea voastră mai mult decât ce v-a dat."
+   },
+   {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Și șarpele a zis femeii: Nu veți muri nicidecum; căci Dumnezeu știe că în ziua în care veți mânca din el vi se vor deschide ochii, și veți fi ca dumnezeii, și veți cunoaște binele și răul."
    },
@@ -1096,6 +1108,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Și veți fi asemenea lui Dumnezeu.» Ca îngerii."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Căci Dumnezeu știe că… ochii vi se vor deschide.» Ochii inimii voastre. «Și veți fi asemenea lui Dumnezeu.» Ca îngerii. «Cunoscând binele și răul.» Această expresie a auzit-o șarpele de la femeie în cuvintele dinainte; și am explicat deja „binele și răul” în versetul „dar din Pomul Cunoașterii”."
    },
    {
     "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.36",
@@ -1430,6 +1446,10 @@ window.CHAPTER_DATA = [
     "text": "«Și femeia a văzut că pomul este bun de mâncat.» A recunoscut că era plăcut la mâncare, datorită firii locului și a aerului lui și a mirosului rodului.<br><br>«Și că pomul este de dorit pentru înțelepciune.» Căci deja spusese Dumnezeu, binecuvântat fie El, că el este Pomul Cunoașterii.<br><br>«Și soțului ei cu ea.» Inima lui s-a lăsat ademenită de cuvintele ei, pentru că era soțul ei și pentru că era cu ea."
    },
    {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și femeia a văzut.» A crezut cuvintele șarpelui și a văzut în inima ei că pomul este bun de mâncat și că este o desfătare pentru ochi, cum a spus în versetul „a făcut să răsară”: „orice pom plăcut la vedere și bun drept hrană”; și iată, el este ca toți pomii grădinii la mâncare și la vedere; căci, de vreme ce este plăcut la vedere, ca celelalte soiuri dintre toți pomii grădinii, la fel este bun de mâncat ca ei; dacă este așa, de ce să murim dacă vom mânca din el? Și adevărat a spus șarpele, că pomul este de dorit pentru înțelepciune, cum a spus: „ochii vi se vor deschide și veți fi asemenea lui Dumnezeu, cunoscând binele și răul”. «Și a luat din fructul său și a mâncat», și după aceea i-a dat soțului ei, care era într-unul din locurile grădinii; și i-a dus din rodul pomului și i-a făcut cunoscute cuvintele șarpelui, și au mâncat din el împreună; aceasta este ce a spus: „cu ea”. Iată, femeia a mâncat de două ori, iar omul o dată; și înțelege aceasta. Iar învățătorii noștri, binecuvântată fie amintirea lor, au expus cuvântul gam („și”) ca adaos, și au spus că a dat să mănânce din el vietăților și păsărilor; și trebuie cugetat la aceasta."
+   },
+   {
     "author": "Zohar, Vaiehi 28:6",
     "text": "(Geneza 3:6): «și a văzut femeia că pomul e bun de mâncare și că e poftă pentru ochi». Vino, vezi că fiii omului nu se uită și nu știu și nu bagă de seamă. În ceasul când a creat Sfântul, binecuvântat fie El, pe Adam și l-a cinstit cu cinste de sus, a cerut de la el să se lipească de El, ca să se afle unul singur, și cu inima una, și în locul lipirii una, care nu se schimbă și nu se întoarce în veci. În legătura aceea una, în care totul se leagă. Aceasta e ce e scris (Geneza 2:9): «și pomul vieții în mijlocul grădinii»."
    },
@@ -1637,6 +1657,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Și li s-au deschis ochii amândurora.» Și-au pus inima la tot ce este plăcut și desfătare, chiar dacă vatămă; căci luarea-aminte și atenția la un lucru se numesc deschiderea ochiului, cum a spus: „Și asupra acestuia Ți-ai deschis ochii.”<br><br>«Și au cunoscut că sunt goi.» Au cunoscut că se cuvine să acopere locul goliciunii, fiindcă de acum înainte cea mai mare parte a lucrării lui avea să fie îndreptată spre o plăcere respingătoare și vătămătoare."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și li s-au deschis ochii amândurora.» Ochii inimii lor; și aceasta este ce a spus: „și au cunoscut”, și nu a spus „și au văzut”, căci ceea ce au văzut acum este ceea ce văzuseră la început; ci, după ce au mâncat din rodul pomului, s-a născut în ei pofta împreunării, și mădularul împreunării s-a întărit de poftă; și le era rușine că un mădular din trupul lor ieșea de sub stăpânirea lor; și aceasta este măsură pentru măsură, căci ei ieșiseră de sub stăpânirea lui Dumnezeu și de la poruncile Lui. Și încă: lucrul împreunării este un lucru urât și scârbos, dacă nu ar fi în el nevoia de a lăsa sămânța; și din pricina aceasta s-au rușinat unul de altul, și și de Dumnezeu, căci s-au ascuns de El.<br><br>«Goi (ʿerummim).» Scris cu yod de prelungire.<br><br>«Și au cusut o frunză de smochin.» Pentru că frunzele de smochin sunt late, le-au cusut una de alta până au făcut din ele șorțuri ca să-și acopere goliciunea. Sunt dintre expunerile învățătorilor noștri, binecuvântată fie amintirea lor, care au spus că pomul din care au mâncat era smochin, și cu pomul acela prin care s-au stricat au vrut să se îndrepteze, ca să-și acopere goliciunea. Iar alții spun că era grâu, căci pruncul nu are nicio pricepere până nu mănâncă grâne. Și unii spun că era etrog, căci s-a spus: „și a mâncat din pom” – înseamnă că pomul și rodul au același gust, iar la etrog gustul pomului și al rodului sunt la fel. Rabbi Yehuda, fiul lui Rabbi Simon, a spus în numele lui Rabbi Yehoșua ben Levi: „Doamne ferește! Sfântul, binecuvântat fie El, nu a descoperit acel pom niciunui om și nici nu-l va descoperi. Vezi ce este scris: «să ucizi și femeia, și animalul»; dacă omul a păcătuit, animalul ce păcat are? Ca să nu treacă animalul prin piață și să spună: acesta este cel din pricina căruia a fost ucis cu pietre cutare. Și dacă pentru cinstea urmașilor lui a avut Sfântul, binecuvântat fie El, milă, pentru cinstea lui cu atât mai mult”. Iar noi nu știm. Iar înțeleptul Rabbi Avraham ibn Ezra, binecuvântată fie amintirea lui, a scris că i se pare că erau doi pomi în mijlocul grădinii și că nu sunt în alt loc pe fața pământului. Iar învățătorii noștri, binecuvântată fie amintirea lor, au explicat pe cale de pildă: teʾenah („smochin”), din „căuta un prilej (toʾanah)”."
    },
    {
     "author": "Zohar, Bereșit 44:16",
@@ -1898,12 +1922,24 @@ window.CHAPTER_DATA = [
     "text": "«Și au auzit.» Sunt multe midrașuri aggadice, iar învățătorii noștri le-au rânduit deja la locul lor în Bereșit Rabba și în celelalte midrașuri. Eu nu am venit decât pentru sensul simplu al Scripturii și pentru aggada care lămurește cuvintele Scripturii, fiecare cuvânt la locul lui. «Au auzit.» Ce au auzit? Au auzit sunetul Sfântului, binecuvântat fie El, care umbla prin grădină.<br><br>«În adierea zilei (le-ruaḥ ha-yom).» Spre acea parte (ruaḥ) în care vine soarele, și aceasta este cea de apus, căci spre seară soarele este la apus. Iar ei au păcătuit în ceasul al zecelea."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și au auzit.» «Umblând prin grădină» – este sunetul Numelui. Și aceasta a fost aproape de seară, în vremea când suflă vântul zilei. Și am găsit sunet pentru mers, ca „glasul ei merge ca al șarpelui”, „sunetul șofarului mergea și se întărea foarte”. Iar Rabbi Yona, gramaticianul spaniol, spune că sensul este: „iar omul umbla prin grădină”. Tot el a spus că explicația lui „în ziua în care vei mânca din el” este o mie de ani, pe calea midrașului. Iar alții au spus că în ziua a șasea a fost creat și în ziua a șasea a murit. Iar alții au spus: atunci vei fi vinovat de moarte. Iar alții au spus că există moarte ca pedeapsă, ca „căci fiu al morții este omul care a făcut aceasta”. Iar alții au spus: de atunci vei începe să mori; și au adus dovadă de la prunc. Iar ce este drept în ochii mei este ce au spus înaintașii: că a făcut pocăință, ca sensul lui „într-o clipă voi vorbi”."
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«Și au auzit sunetul Domnului Dumnezeu umblând prin grădină în adierea zilei» Au spus: Rabbi Ḥilfai a spus: Am auzit că există mers pentru glas, căci s-a spus: „Și au auzit glasul Domnului Dumnezeu umblând prin grădină”. Și așa a scris Rav în Călăuza celor rătăciți. Și aceasta este și părerea lui Rabbi Avraham, că „umblând” se referă la glas, ca în „Glasul ei ca al șarpelui va merge”. Și el a spus că sensul lui „în adierea zilei” este că au auzit glasul spre seară. Și a amintit în numele lui Rabbi Yona că sensul este: și omul umbla prin grădină în adierea zilei. Iar după părerea mea, sensul lui „umblând prin grădina Edenului” este ca sensul lui „Și voi merge în mijlocul vostru”; „Domnul a plecat, când a isprăvit de vorbit lui Avraam”; „Voi merge, Mă voi întoarce la locul Meu”. Și aceasta este chestiunea descoperirii Șechinei în acel loc sau a retragerii ei din locul în care se descoperise. Iar sensul lui „în adierea (le-ruaḥ) zilei” este că, atunci când se descoperă Șechina, vine un vânt mare și puternic, după chestiunea care s-a spus: „Și iată, Domnul trecea, și un vânt mare și puternic despica munții și sfărâma stâncile înaintea Domnului”; și tot așa „și a zburat pe aripile vântului”; și este scris în Iov: „Și Domnul i-a răspuns lui Iov din vârtej”. Și de aceea a spus aici că au auzit glasul Domnului, că s-a descoperit Șechina în grădină ca apropiindu-se de ei, în adierea zilei; căci vântul Domnului a suflat în grădină ca vântul zilelor, nu un vânt mare și puternic, ca în vedenia celorlalte profeții, ca să nu se teamă și să nu se înspăimânte. Și a spus că, totuși, s-au ascuns din pricina goliciunii lor. Și în Bereșit Rabba au spus de asemenea: Rabbi Abba bar Kahana a spus: Nu este scris aici „mergând” (mehallekh), ci „umblând” (mithallekh): sărea și urca. Iată, Rabbi Abba l-a făcut după limbajul lui „Domnul a plecat”, cum am explicat noi despre cuvântul „mers”; numai că el a explicat versetul despre retragerea Șechinei, care sălășluia în grădina Edenului și s-a retras din ea prin păcatul lui Adam, după chestiunea „Voi merge, Mă voi întoarce la locul Meu”. Iar noi îl explicăm despre descoperirea Șechinei în acel loc, și aceasta este explicația corectă și potrivită în verset."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Umblând prin grădină.» Încoace și încolo, după scopul urmărit, ca: „cutreieră țara” și „au umblat de la un neam la altul”.<br><br>«În adierea zilei (le-ruaḥ ha-yom).» După voia (le-raṣon) zilei, ca să facă lucrurile plăcute în acea zi, cum a făcut în celelalte zile ale creației și cum a făcut în acea zi înainte de păcatul lor.<br><br>«Și s-au ascuns.» Cum a spus: „ca să nu vadă la tine ceva necuviincios”."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Și au auzit sunetul Domnului Dumnezeu umblând prin grădină în adierea zilei.» Din explicația lui la Exodul 14:30 se pare că el explică „umblând” ca Rav Ḥalfai în Bereșit Rabbah 19:12, că se întoarce la glasul Lui."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și au auzit.» Unii explică „umblând prin grădină”: pe când omul umbla prin grădină, a auzit glasul lui Dumnezeu; dar, de vreme ce a spus „și au auzit”, ar fi trebuit să spună „umblând” la plural. Iar ce este corect este că sensul lui „umblând” este despre glasul Domnului, căci am găsit la el expresia mersului: „glasul ei merge ca al șarpelui”.<br><br>«În adierea zilei (le-ruaḥ ha-yom).» La vremea serii, când se răcorește vântul zilei și suflă; și au recunoscut că glasul era de la Dumnezeu, venind să le vorbească despre păcatul lor, și au simțit lucrul și s-au ascuns printre pomii grădinii, din pricina rușinii pe care o aveau că erau goi; căci, deși își făcuseră șorțuri, acele șorțuri nu le acopereau bine goliciunea. Și, deși știau că nu este cu putință să se ascundă dinaintea Lui, le era rușine, după felul oamenilor, care se rușinează unul de altul, cu atât mai mult cel mic de cel mare. Iar motivul pentru care Dumnezeu i-a făcut să audă înainte de vorbire a fost ca să se adune și să se ascundă printre pomii grădinii în ceasul vorbirii. De asemenea, Tora a învățat purtarea cuviincioasă: ca omul să nu intre la aproapele lui pe neașteptate, ci să facă întâi să se audă un glas sau să bată la ușă, ca nu cumva acela să facă un lucru tainic în casa lui. Iar motivul povestirii „în adierea zilei” este că vântul a dus glasul de departe.<br><br>«Printre pomii (ʿeṣ) grădinii.» În chip general, adică pomii grădinii. Și se rușinau de goliciunea lor și de faptul că încălcaseră porunca lui Dumnezeu."
    },
    {
     "author": "Talmudul Babilonian, Sanhedrin 38b:2",
@@ -2058,8 +2094,16 @@ window.CHAPTER_DATA = [
     "text": "«Unde ești?» Știa unde este, ci aceasta ca să intre cu el în vorbă, ca să nu se tulbure când va răspunde, dacă l-ar fi pedepsit deodată. Și tot așa la Cain: i-a zis „Unde este Abel, fratele tău?”; și tot așa la Balaam: „Cine sunt bărbații aceștia de la tine?” — ca să intre cu ei în vorbă; și tot așa la Ezechia, cu solii lui Merodac-Baladan."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și l-a strigat.» Sensul lui «unde ești?» (ayyekkah) este deschiderea cuvintelor; și tot așa „unde este Abel, fratele tău?”, și iată, Cain a tăgăduit, iar Numele i-a răspuns: „glasul sângelui fratelui tău strigă”."
+   },
+   {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Unde ești?» Căci nu te arăți în grădină ca altădată, de vreme ce acum te-ai ascuns și nu ai făcut așa mai înainte."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Unde ești? (ayekkah).» A spus așa ca deschidere a cuvintelor, ca: „Unde este Abel, fratele tău?”, „Ce ai în mână?”."
    },
    {
     "author": "Talmudul Babilonian, Sanhedrin 38b:11",
@@ -2287,6 +2331,10 @@ window.CHAPTER_DATA = [
     "text": "«Și m-am temut.» Cum s-a întâmplat cu Israelul după păcatul lor, cum a spus: „și s-au temut să se apropie de el”."
    },
    {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Gol (ʿerom).» Scris cu yod de prelungire; și la fel „că ești gol”."
+   },
+   {
     "author": "Efrem Sirul, Comentariu la Facere 2.27.1-2",
     "text": "În loc să mărturisească ce făcuse, ceea ce l-ar fi ajutat, a istorisit ce i se făcuse lui, ceea ce nu l-a ajutat deloc. Adam, din nou, n-a mărturisit greșeala lui și a dat vina pe femeie."
    },
@@ -2464,8 +2512,24 @@ window.CHAPTER_DATA = [
     "text": "«Cine ți-a spus?» De unde să știi tu ce rușine este în a sta gol?<br><br>«Ai mâncat oare din pomul…?» Este o întrebare plină de mirare."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Să nu (le-vilti).» Cu lamed are sensul „ca să nu”, iar fără lamed are sensul „doar”, „numai”.<br><br>«Să mănânci (akhol) din el.» Infinitiv; și tot așa „ca să nu-I păzești (le-vilti šemor) poruncile”."
+   },
+   {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Cine ți-a spus?» Cunoașterea binelui și a răului.<br><br>«Că ești gol.» Încât din pricina aceasta să se cuvină să te acoperi."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Oare din pomul (ha-min)?» He de întrebare cu mirare, care se adeverește."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Oare din pomul (Ha-min ha-ʿeṣ).» Se află în Midraș: „Eu am zis să te spânzur pe un copac, iar acum el va fi pus deoparte și păstrat pentru Haman, ca să fie spânzurat pe el.” Citește în el: Haman — ha-ʿeṣ („copacul”)."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Ai mâncat oare din pomul (ha-min ha-ʿeṣ).» He-ul este ca he-ul din „Ai ucis (ha-raṣaḥta)”; iar întrebarea este ca să audă răspunsul, căci lucrul este cunoscut înaintea lui Dumnezeu, binecuvântat fie."
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
@@ -2631,12 +2695,24 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Rashi (1040–1105)",
+    "text": "«Pe care mi-ai dat-o cu mine.» Aici a tăgăduit binefacerea."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Pe care mi-ai dat-o cu mine.» Tu ai dat-o pe cea care mi-a dat. Iar sensul lui «cu mine» (ʿimmadi): în grădină; și este ca ʿimmi, însă nu l-am găsit decât la persoana întâi singular.<br><br>«Și am mâncat (wa-okhel).» Alef este semnul persoanei întâi, iar litera de odihnă ascunsă care este după el stă în locul lui alef din rădăcină; și vine cu qamaṣ mic pentru că este sfârșit de verset; și nu se poate să vină waw cu qamaṣ împreună cu verbul, căci totdeauna este cu șwa."
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«Femeia pe care mi-ai dat-o cu mine» Și sensul lui „Femeia pe care mi-ai dat-o cu mine”: adică femeia pe care Tu, în slava Ta, mi-ai dat-o ca ajutor, ea mi-a dat din pom; și credeam că tot ce îmi va spune îmi va fi spre ajutor și spre folos. Și aceasta este ceea ce a spus în pedeapsa lui: „Pentru că ai ascultat de glasul soției tale”, căci nu se cuvenea să încalci porunca Mea pentru sfatul ei. Iar învățătorii noștri îl numesc pentru aceasta nerecunoscător; vor să explice că i-a răspuns: Tu mi-ai pricinuit această poticnire, căci mi-ai dat o femeie ca ajutor, iar ea m-a sfătuit să fac rău."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Ea.» Pe care ai dat-o ca ajutor și spre folos.<br><br>«Ea mi-a dat din pom.» Și a fost o piatră de poticnire; și prin aceasta și-a atribuit vina Creatorului său, în locul pocăinței care i s-ar fi cuvenit, cum a făcut David spunându-i lui Natan: „Am păcătuit.”"
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Omul a spus: „Femeia pe care mi-ai dat-o cu mine”.» Adică: Tu mi-ai pricinuit aceasta, că mi-ai dat o asemenea femeie, care m-a ațâțat să mănânc din el."
    },
    {
     "author": "Zohar, Kedoșim 9:1",
@@ -2831,12 +2907,20 @@ window.CHAPTER_DATA = [
     "text": "«M-a înșelat (hișșiʾani).» M-a amăgit, ca în „Ezechia să nu vă amăgească”."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«M-a înșelat (hiššiʾani).» M-a amăgit."
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«Ce ai făcut?» Și sensul lui „Ce ai făcut?”: că ai încălcat porunca Mea. Căci femeia era cuprinsă în avertismentul dat lui Adam, pentru că era în acea vreme os din oasele lui; și tot așa este cuprinsă în pedeapsa lui. Și nu a spus femeii „și ai mâncat din pom”, căci ea a fost pedepsită pentru mâncarea ei și pentru sfatul ei, așa cum a fost pedepsit șarpele; și de aceea a spus ea: „Șarpele m-a înșelat și am mâncat”, căci pedeapsa cea mare este pentru mâncare. Și iată, de aici putem învăța pedeapsa pentru cei care îl fac pe om să păcătuiască într-un lucru, așa cum ne-au învățat învățătorii noștri din versetul „și înaintea orbului să nu pui piedică”."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Ce ai făcut?» A spus aceasta ca s-o trezească și pe ea la pocăință, căci nu dorește moartea celui ce moare, ci să se întoarcă."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Șarpele m-a înșelat.» Dacă eu l-am înșelat pe om, șarpele m-a înșelat de asemenea, iar Tu ai creat pe acel înșelător."
    },
    {
     "author": "Ambrozie al Milanului, Despre Paradis 14.71-15.73",
@@ -3065,8 +3149,20 @@ window.CHAPTER_DATA = [
     "text": "«Pentru că ai făcut aceasta.» De aici: nu se caută apărare pentru ademenitor. Căci dacă l-ar fi întrebat: „De ce ai făcut aceasta?”, ar fi avut ce să răspundă: Cuvintele Învățătorului și cuvintele ucenicului — pe cuvintele cui se ascultă?.<br><br>«Mai mult decât toate dobitoacele și decât toate vietățile câmpului.» Dacă a fost blestemat mai mult decât dobitoacele, cu atât mai mult decât vietățile câmpului! Învățătorii noștri au așezat acest midraș în tratatul Bekhorot, ca să învețe că zilele sarcinii șarpelui sunt de șapte ani.<br><br>«Pe pântecul tău să umbli.» Picioare avea, și i-au fost tăiate."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Blestemat» – pentru șarpe: că viața lui va fi scurtă; iar ce este drept este că va fi lipsit în mersul lui.<br><br>«Pe pântecul tău (geḥonekha).» Pieptul; și nu știm dacă nun este din rădăcină, ca în adon, sau adăugat, ca în zadon. Iar cel care spune că s-a numit așa pentru suflarea pe care o scoate din el – aceasta este pe calea midrașului; și tot așa au spus despre Ghihon, și despre Pison, din rădăcina „căci veți sălta (tafušu)”, și despre Perat, din rădăcina „fiți roditori (peru) și înmulțiți-vă”. Și iată, fluviul cel mare, el este Hidechel: a stat înaintea lor și n-au putut trece; și spun că sunt două cuvinte: că apele sunt ascuțite (ḥaddim) și ușoare (qallim)."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«mai mult decât toate dobitoacele și decât toate vietățile câmpului» Rabbi Yehoșua a dedus din acest verset că șarpele naște la șapte ani, și au cercetat și au găsit că așa este lucrul. Căci midrașurile Scripturii și aluziile lor sunt primite prin tradiție, și în ele au taine adânci despre firea făpturilor și despre orice lucru, cum am amintit în introducerea mea."
+   },
+   {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Blestemat ești tu, mai mult decât toate.» Să-și dobândească poftele și nevoile cu suferință și cu lipsă de plăcere, mai mult decât toate celelalte viețuitoare, cum au spus: „Ai văzut vreodată un animal sau o pasăre care să aibă un meșteșug? Și ele se hrănesc fără suferință.” Și a explicat aceasta spunând: «pe pântecul tău să umbli»: să-ți dobândești hrana cu suferință, cum au spus: „căci mi-am stricat faptele și mi-am păgubit traiul”; și au spus: „Câte osteneli s-a ostenit Adam, omul dintâi, până să mănânce pâine!”<br><br>«Și țărână să mănânci.» Să nu dobândești plăcerea pe care ai avut-o înainte de păcat în mâncare, în băutură și în împreunare, cum s-a întâmplat cu Israelul în păcatul lor, cum au spus: „Curăția a luat gustul și mirosul, iar zeciuielile au luat grăsimea grâului.”"
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Domnul Dumnezeu i-a spus șarpelui: „Pentru că ai făcut aceasta”.» El nu avea răspuns și nicio pretenție; căci omul și soția lui, deși pretenția lor era slabă, aveau o oarecare pretenție, dar șarpele nu avea deloc pretenție; de aceea l-a blestemat îndată și nu a așteptat să-i răspundă, căci știa că nu are nimic de răspuns, iar el a vorbit împotriva poruncii lui Dumnezeu și a înșelat-o pe femeie, iar el nu avea niciun folos din aceasta; și aceasta este ce a spus Scriptura: „și nu are niciun folos cel cu limba”. Iar învățătorii noștri, binecuvântată fie amintirea lor, au spus că avea ce să pretindă, dar Dumnezeu nu l-a așteptat, pentru că era ațâțător; și au învățat că nu se pledează pentru ațâțător. Și ce avea să pretindă? „Cuvintele învățătorului și cuvintele ucenicului – de cuvintele cui se ascultă?” Iar eu spun că aceasta nu era o pretenție decât ca să-l facă vinovat pe om, dar ca să se scutească pe sine de ațâțare nu avea pretenție.<br><br>«Blestemat ești tu.» Ca să-i lipsească picioarele, pe care le avea la început; căci orice expresie de blestem (meʾerah) are sensul de lipsă, iar binecuvântarea, dimpotrivă, este adăugare de bine. Și l-a blestemat întâi pe șarpe, căci el a fost cauza pentru femeie și pentru om. Iar învățătorii noștri, binecuvântată fie amintirea lor, au învățat din aceasta că la blestem se începe de la cel mai mic. Iar ei, binecuvântată fie amintirea lor, au spus: „S-a învățat: dobitocul mare curat naște la nouă luni; dobitocul mare necurat, la douăsprezece luni; dobitocul mic curat, la cinci luni; iar câinele, la cincizeci de zile; pisica, la cincizeci și două de zile; porcul, la șaizeci de zile; iar nevăstuica, la șaptezeci de zile; cerbul și vulpea, la șase luni; și toate celelalte târâtoare, la șase luni; iar leul, ursul, leopardul, elefantul, maimuța și qippof-ul, la trei ani; iar șarpele, la șapte ani; iar vipera, la șaptezeci de ani”. Și au mai spus: „câinele, ca o sălbăticiune necurată, naște la cincizeci de zile, iar dobitocul mare necurat, la douăsprezece luni; și este scris: «blestemat ești tu, mai mult decât toate dobitoacele și decât toate vietățile câmpului» – precum dobitocul este blestemat mai mult decât sălbăticiunea de șapte ori, așa șarpele este blestemat mai mult decât dobitocul de șapte ori”.<br><br>«Pe pântecul tău (geḥonkha) să umbli.» Ca în Targumul lui: „pe pântecul tău (meʿakh)”; și la fel Targumul pentru „Orice se târăște pe pântec (gaḥon)”: „ce merge pe pântecul lui”. Adică: că merge culcat la pământ, pe pântecul lui; și asemănător lui în cuvintele învățătorilor noștri, binecuvântată fie amintirea lor: „Femeia ta e scundă? Apleacă-te (geḥin) și șoptește-i” – adică: coboară-te până la ea și sfătuiește-te cu ea. Și au spus învățătorii noștri, binecuvântată fie amintirea lor, că la început șarpele umbla cu statura dreaptă, ca omul; și pentru că s-a mândrit cu aceasta, Sfântul, binecuvântat fie El, i-a plătit măsură pentru măsură, ca să meargă pe pântecul lui.<br><br>«Și țărână să mănânci în toate zilele vieții tale.» Măsură pentru măsură: tu l-ai pizmuit pe om pentru că el mânca din pomii Grădinii Edenului și ai cugetat viclenie ca să-l faci să păcătuiască prin mâncare; vei fi pedepsit să mănânci ce este mai de jos dintre toate lucrurile, și aceasta este țărâna. Iar dacă vei spune: iată, blestemul lui i se socotește binecuvântare, căci hrana lui îi este la îndemână în orice loc? Au spus învățătorii noștri, binecuvântată fie amintirea lor: „A spus Rabbi Ḥalfai: nu țărână din orice parte, ci despică și coboară până ajunge la stâncă sau la pământ neîncercat, și smulge vine și mănâncă”. Iată, după cuvintele lor, că nici țărâna nu o mănâncă decât cu multă osteneală.<br><br>Iar ceea ce a spus „în toate zilele vieții tale” este ca să arate că și în zilele lui Mașiaḥ va mânca țărână, cum a spus: „iar șarpele – țărâna îi va fi pâinea”. Iar explicația lui „în toate zilele vieții tale”: în toate zilele, pe vecie, adică tot timpul cât specia șarpelui este pe pământ."
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
@@ -3333,12 +3429,20 @@ window.CHAPTER_DATA = [
     "text": "«Și ură voi pune.» Tu nu ai urmărit decât ca Adam să moară când va mânca el întâi, iar tu s-o iei pe Eva. Și nu ai venit să vorbești cu Eva întâi decât pentru că femeile se lasă ușor ademenite și știu să-și ademenească bărbații. De aceea: „ură voi pune”.<br><br>«Îți va strivi (yeșufkha).» Te va zdrobi, ca în „l-am pisat”, iar Targumul lui este: ve-șafit yateh.<br><br>«Iar tu îi vei mușca (teșufennu) călcâiul.» Nu vei avea statură și îl vei mușca de călcâi, și chiar de acolo îl vei omorî. Cuvântul teșufennu este ca în „suflă (nașaf) peste ei”: când șarpele vine să muște, suflă ca un fel de șuierat. Și pentru că un cuvânt se potrivește cu celălalt, este scris cuvântul „suflare” la amândoi."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și ură.» «El îți va strivi capul»: sămânța ei te va lovi în cap; și tot așa „cel care mă zdrobește (yešufeni) în furtună”; oare nu vezi aceasta din ce este scris după el? Iar bet lipsește, ca bet-ul care se găsește în „casa Domnului”.<br><br>«Călcâiul.» Este piciorul; iar dacă capul este primul, acesta este ultimul; și tot așa „călcâiele (ʿiqqevei) apelor”."
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«iar tu îi vei mușca călcâiul» Și sensul lui „iar tu îi vei mușca (tešufennu) călcâiul”: că omul va avea întâietate asupra ta în dușmănie, căci el îți va strivi (yešufkha) capul, iar tu nu-l vei mușca decât în călcâiul lui, și el îți va zdrobi creierul acolo."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Și ură voi pune.» Ca ea să fie respingătoare în ochii puterii imaginative, chiar a ei proprii, cum au spus: „Femeia este un burduf plin de murdărie, iar gura ei plină de sânge.” Și aceasta se va închipui atât la bărbat, cât și la femeie.<br><br>«Și între seminția ta și seminția ei.» Aceasta nu va fi doar între Adam și Eva.<br><br>«El îți va strivi capul.» Puterea imaginativă va micșora plăcerea la începutul dobândirii ei, prin aceea că își va închipui și își va înfățișa teama de pagubă în felul plăcerii, în măsura ei și în rânduiala ei.<br><br>«Iar tu îi vei mușca călcâiul.» Căci cel poftitor, când se întărește, va naște paguba la sfârșitul plăcerii."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și ură voi pune.» Tu te-ai arătat că o iubești și ai gândit, după cuvintele tale, să o sfătuiești din iubire; Eu voi preface iubirea în ură. «Și între seminția ta și seminția ei.» Nu a spus aici „în toate zilele vieții tale”, căci ura va înceta în zilele lui Mașiaḥ, cum a spus: „și pruncul de țâță se va juca la gaura aspidei”. «El îți va strivi capul.» Când te va găsi, te va lovi pururi în cap, când te va putea birui. «Iar tu îi vei mușca călcâiul.» Căci vei merge pe pântec și nu-l vei putea birui decât la călcâi, pe care îl vei lovi cu mușcătura. Yešufkha, tešufennu – au sensul de lovitură și zdrobire; și la fel: „El, care mă zdrobește (yešufeni) într-o vijelie”. Și în sensul ascuns se expune toate acestea."
    },
    {
     "author": "Zohar, Mișpatim 18:18",
@@ -3571,12 +3675,24 @@ window.CHAPTER_DATA = [
     "text": "«Suferința ta.» Aceasta este durerea creșterii copiilor.<br><br>«Și sarcina ta.» Aceasta este durerea sarcinii.<br><br>«În durere vei naște copii.» Aceasta este durerea nașterii.<br><br>«Și către bărbatul tău îți va fi dorința.» Pentru împreunare. Și cu toate acestea nu vei avea îndrăzneala să i-o ceri cu gura, ci „el va stăpâni peste tine”: totul de la el, și nu de la tine.<br><br>«Dorința ta.» Pofta ta, ca în „suflet doritor (nefeș șoqeqah)”."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Voi spori foarte mult (harbah arbeh).» Infinitiv.<br><br>«Suferința ta.» În vremea chinuirii, la ieșirea sângelui fecioriei.<br><br>«Și sarcina ta (we-heronekh).» Nun este adăugat; căci sarcina este grea pentru femeie, și tot așa nașterea.<br><br>«Dorința ta.» Ascultarea ta; iar sensul este că vei asculta tot ce-ți va porunci, căci ești în stăpânirea lui, să-i faci voia."
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«și către bărbatul tău îți va fi dorința» „Pentru împreunare; și cu toate acestea nu ai obrăznicia să i-o ceri cu gura, ci el va stăpâni peste tine: totul de la el, și nu de la tine” – cuvintele lui Rashi. Și nu este corect, căci aceasta este o laudă la femeie, cum au spus: și aceasta este o însușire frumoasă la femei. Iar Rabbi Avraham a spus: „și către bărbatul tău îți va fi dorința (tešuqatekh)” – ascultarea ta; iar sensul este că vei asculta de tot ce îți va porunci, căci tu ești în stăpânirea lui, ca să faci voia lui. Dar n-am găsit cuvântul tešuqa decât despre poftă și dorință. Iar ce este corect în ochii mei: că a pedepsit-o să tânjească foarte mult după bărbatul ei și să nu-i pese de suferința sarcinii și a nașterii, iar el o va ține ca pe o slujnică. Și nu este obiceiul ca robul să tânjească să-și dobândească un stăpân, ci fuge de el de bunăvoie. Și iată, aceasta este măsură pentru măsură: căci ea i-a dat și bărbatului ei și el a mâncat la porunca ei, iar pedeapsa ei este că ea nu va mai porunci asupra lui, ci el va porunci asupra ei toată voia lui."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Voi spori foarte mult suferința ta.» Sângele menstruației, care este numit „necurăția suferinței ei”, căci într-adevăr ea este atunci toată ziua suferindă.<br><br>«Și sarcina ta.» Dimpotrivă față de ce era înainte de păcat, cum au spus: „În aceeași zi au fost creați, în aceeași zi s-au împreunat, în aceeași zi au adus pe lume urmași.” Și tot așa au spus că va fi în viitor, cum au spus: „În viitor femeia va naște în fiecare zi.” Și aceasta pentru că, într-adevăr, Israelul va fi plăcut înaintea lui Dumnezeu, binecuvântat fie El, cum a fost Adam, omul dintâi, înainte de păcatul lui.<br><br>«În durere vei naște copii.» Îi vei crește cu suferință mai mult decât celelalte viețuitoare. Căci, într-adevăr, cuvântul „naștere” se spune despre creștere, cum a spus: „cei cinci fii ai lui Mical, fiica lui Saul, pe care i-a născut lui Adriel, fiul lui Barzilai, meholatitul”."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Femeii i-a spus etc.» Rabbi Șlomo ben Rabbi Moșe a explicat: să fii în suferință și în trudă toate zilele tale. Și dacă vei spune: ce-mi pasă, am multe slujnice care să mă slujească — de aceea se spune: „și sarcina ta”: fără voia ta vei fi însărcinată. Și dacă vei spune: voi naște cu ușurință — de aceea se spune: „în durere vei naște copii”. Și dacă vei spune: mă voi păzi să nu mă împreunez cu bărbatul meu — de aceea se spune: „și către bărbatul tău îți va fi dorința”. Și dacă vei spune: îmi voi înfrâna pornirea și nu mă voi împreuna cu el — de aceea se spune: „și el va stăpâni peste tine”: fără voia ta te vei împreuna cu el.<br><br>«Și el va stăpâni peste tine.» Spunem în Bereșit Rabba: „S-ar putea crede că este o stăpânire din toate părțile; de aceea se spune: «Să nu iei în gaj piatra de moară de jos sau piatra de moară de sus».” Și Rabbi Yițḥak a explicat: s-ar putea crede că este o stăpânire din toate părțile, încât să aibă dreptul să-și ia soția zălog; de aceea se spune: „Să nu iei în gaj piatra de moară de jos sau piatra de moară de sus”. Iar femeia este numită „piatră de moară”, cum este scris: „și măcina în închisoare”, cum se tâlcuiește în Sotah; și este scris: „să macine soția mea pentru altul”. Iar în Yerușalmi acest verset este tradus: „Să nu luați zălog piatra de moară de jos și piatra de moară de sus, căci ele sunt cele de trebuință ale vieții; și să nu legați mirese și miri, căci oricine face acestea este ca unul care tăgăduiește lumea care va veni.” Și explicația lui „să nu legați mirese și miri”: dacă s-a logodit cu o femeie, să nu o lase să stea părăsită (ʿagunah) în logodnă vreme îndelungată."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Voi spori foarte mult (harbah arbeh).» Harbah este infinitiv; iar când vine infinitivul împreună cu verbul, este ca să mărească lucrul.<br><br>«Suferința ta și sarcina ta (ʿiṣṣevonekh ve-heronekh).» Din „cu suferință (be-ʿiṣṣavon) vei mânca din el”, care este trudă și osteneală. Iar înțeleptul Rabbi Avraham a explicat: chinul sângelui fecioriei; iar „sarcina ta”, căci sarcina este grea pentru femeie. Iar domnul, tatăl meu, binecuvântată fie amintirea lui, a explicat „suferința ta” ca greutatea sarcinii, iar „sarcina ta” ca lungimea zilelor sarcinii. «În durere vei naște copii.» La vremea nașterii are durere și suferință mare. Și în expunerile învățătorilor noștri, binecuvântată fie amintirea lor: „«vei naște» – aceasta este durerea nașterii; «copii» – aceasta este durerea creșterii copiilor”. «Și către bărbatul tău îți va fi dorința.» Și, deși vei naște copii cu durere, vei dori încă să te culci cu el.<br><br>«Dorința ta (tešuqatekh).» Pofta ta.<br><br>«Și el va stăpâni peste tine.» Ca să-ți poruncească ce va voi, ca un stăpân unui rob. Și în Bereșit Rabba: „harbah arbeh – oricât de puțin: harbah arbeh – oricât de puțin, la două sute doisprezece zile, trăiește”; și acesta este cel născut la șapte luni. Și au spus despre cel născut la nouă luni: „femeia nu naște decât la două sute șaptezeci și una, sau la două sute șaptezeci și două, sau la două sute șaptezeci și trei de zile”. Și au spus despre dobitocul necurat că naște la douăsprezece luni: „Ḥiyya bar Ada ședea înaintea lui Rav; îi explica, și nu înțelegea; îi explica, și nu înțelegea. I-a spus: De ce nu înțelegi? I-a spus: Pentru că măgărița mea trebuie să nască, și mă tem să nu răcească și să moară. I-a spus: Și ce-ți pasă? Uneori adaugă, uneori scade; când scade, nu scade sub zilele lunii; și când adaugă, nu adaugă peste zilele soarelui. I-a spus: Dar este scris: «Cunoști tu vremea când nasc caprele sălbatice ale stâncii? Numeri tu lunile pe care le împlinesc?». I-a spus: acolo, despre cel mic; iar aici, despre cel mare”."
    },
    {
     "author": "Talmudul Babilonian, Sota 12a:16",
@@ -3830,8 +3946,20 @@ window.CHAPTER_DATA = [
     "text": "«Blestemat este pământul din pricina ta.» Îți va aduce lucruri blestemate, ca muștele, puricii și furnicile. Este ca pilda celui care apucă un drum rău, iar oamenii blestemă sânii la care a supt."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Iar lui Adam.» «Blestemat este pământul»: că nu va scoate roadă multă.<br><br>«Cu suferință vei mânca din el.» Vei mânca roada lui; și aceasta este o cale scurtă; și tot așa „și să fie dintre cei care mănâncă la masa ta”."
+   },
+   {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Pentru că ai ascultat de glasul soției tale.» Când I-a atribuit lui Dumnezeu, binecuvântat fie El, minciună și gelozie.<br><br>«Și ai mâncat din pomul.» Încât te-ai împotrivit și te-ai făcut vinovat de moarte, așa cum a fost avertizarea. Iată, pentru că ai ascultat și ai primit părerea ei, să-L socotești pe Domnul rătăcit, «blestemat este pământul»: să nu-ți mai dea puterea lui fără lucrare. Și pentru că te-ai împotrivit și ai călcat porunca Mea:"
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Blestemat este pământul din pricina ta (ba-ʿavurekha).» Explicație: în pofta ta; din exprimarea „ʿavur ha-areṣ”, cum spune după aceea: „Și spini și ciulini”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Din pomul.» Din rodul pomului, căci rodul este din pom.<br><br>«Blestemat este pământul.» Lipsit de bine, încât nu-ți va scoate nimic după rânduiala lui; căci vei semăna și nu vei secera cât se cuvine, căci cele mai multe dintre grăunțele seminței se vor strica în pământ, încât nu vor răsări. Și în Bereșit Rabba: „blestemat este pământul – că îți scoate lucruri blestemate, ca țânțari, purici și muște”.<br><br>«Cu suferință vei mânca din el.» Că va trebui să lucrezi pământul ca să-i mănânci roadele; iar până acum mâncai fără trudă roadele pomilor grădinii; iar ceea ce a spus „ca s-o lucreze și s-o păzească” nu cerea decât o muncă ușoară, dar de acum înainte este nevoie de muncă grea, cum a spus: „Cu sudoarea feței tale vei mânca pâine”.<br><br>«Vei mânca din el (tokhalennah).» Vei mânca roadele lui; și la fel: „printre cei ce mănâncă din mesele tale”, adică pâinea meselor tale; „și fiecare va mânca via lui și fiecare smochinul lui”, adică rodul viei lui și rodul smochinului lui; și cele asemenea lor sunt multe, cum am scris în cartea Mikhlol, în cartea întâi, în partea de gramatică din ea.<br><br>«În toate zilele vieții tale.» Cât timp specia omului trăiește pe fața pământului."
    },
    {
     "author": "Zohar, Toldot 19:10",
@@ -4053,6 +4181,10 @@ window.CHAPTER_DATA = [
     "text": "«Și spini.» Mare; iar mai mic decât el este dardar; și el singur este „dar”, căci fratele lui lipsește.<br><br>Iar sensul lui «cu suferință»: să deschizi, să grăpezi și să semeni; și încă un rău bolnăvicios: că va răsări spin în mijlocul roadei.<br><br>Iar sensul lui «iarba câmpului»: este pâinea; căci în grădina Edenului hrana lui era din rodul pomului."
    },
    {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și spini și ciulini.» În locul seminței îți va face să răsară spini și ciulini, care lovesc vegetația grânelor care iese lângă ei.<br><br>«Și vei mânca iarba câmpului.» Vei mânca iarba câmpului, în loc să mănânci roadele pomilor grădinii."
+   },
+   {
     "author": "Tertulian, Despre cunună 14.3",
     "text": "La ce fel de cunună, vă întreb, S-a supus Iisus Hristos pentru mântuirea amândurora sexelor? El, Care e capul bărbatului, slava femeii și mirele Bisericii — ce fel de cunună? A fost făcută din spini și ciulini. Ei stăteau ca simbol al păcatelor pe care solul trupului le-a adus pentru noi, dar pe care puterea crucii le-a înlăturat, tocind orice bold al morții, de vreme ce capul Domnului a purtat durerea ei."
    },
@@ -4248,6 +4380,14 @@ window.CHAPTER_DATA = [
     "text": "«Și în țărână te vei întoarce.» Cum te-am încredințat, când ți-am poruncit și am spus: „în ziua în care vei mânca din el, negreșit vei muri”, că vei fi pregătit pentru moarte la sfârșit."
    },
    {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Cu sudoarea feței tale.» Se găsește în cartea lui Rabbi Yehuda he-Ḥasid că acest blestem nu se împlinește decât la lucrătorii pământului, și nu la regi și căpetenii. Dar „în durere vei naște copii” se împlinește la toate femeile. Și pentru că femeia a păcătuit și l-a făcut și pe altul să păcătuiască, de aceea blestemul ei este mai mare."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Cu sudoarea feței (appekha) tale vei mânca pâine.» Dacă vei vrea să mănânci pâine, o vei mânca cu osteneală grea, până ce va ieși de pe fața ta sudoare de prea multă osteneală. Și, deși tot trupul asudă la osteneală, a pomenit fața, căci pe ea se vede sudoarea; și încă: fața nu asudă decât la prea multă osteneală; și a pomenit appayim („nările”) în general pentru față, căci de pe ele picură sudoarea când omul asudă. Și omul trebuie să se ostenească cu multe munci înainte să mănânce pâine: să are și să semene, să sape și să plivească, să secere și să treiere, să vânture și să aleagă, să macine și să cearnă, să frământe și să coacă.<br><br>«Până te vei întoarce în pământ.» Căci, după ce te-ai lăsat tras spre elementul pământului, din care ai fost luat, și nu te-ai lăsat tras spre elementul cel de sus, ai arătat că țărână ești și în țărână te vei întoarce – asemănarea ta; nu va rămâne după tine elementul cel de sus. Și a pomenit elementul țărânii dintre celelalte elemente pentru că cea mai mare parte a elementului trupului, și oasele, care țin trupul, sunt reci și uscate, ca țărâna."
+   },
+   {
     "author": "Zohar, Pekudei 61:1",
     "text": "(Altă versiune: Fericiți sunt drepții, care cunosc căile sfinte ca să meargă pe ele, ca să nu meargă după acel șarpe rău, partea cealaltă, necurată, și se despart de el și nu se lasă ademeniți după el; fericiți sunt ei în lumea aceasta, fericiți sunt ei în lumea ce va să vină.) (Geneza 2:7): «Și Domnul Dumnezeu l-a plăsmuit pe om, țărână din pământ». Țărână este, și nu lut. Țărână este, și se va întoarce în țărână, precum spui (Geneza 3:19): «căci țărână ești și în țărână te vei întoarce». (Altă versiune: după ce a păcătuit, a devenit hrană pentru șarpe, și de aceea etc.) După ce a păcătuit; și de aceea este scris despre șarpe: «și țărână vei mânca în toate zilele vieții tale». Țărâna aceasta este omul, precum este scris: «căci țărână ești» etc. Și de aceea este scris «țărână», și nu este scris «pământ», nici «lut»; și este scris (Isaia 65:25): «și șarpelui țărâna îi va fi hrana»."
    },
@@ -4426,8 +4566,16 @@ window.CHAPTER_DATA = [
     "text": "«Omul i-a pus… numele.» Scriptura s-a întors la subiectul ei dintâi: „Și omul a pus nume”; și nu l-a întrerupt decât ca să te învețe că prin punerea numelor i s-a dat Eva ca pereche, cum este scris: „dar pentru om nu s-a găsit ajutor pe potriva lui”; de aceea: „a făcut să cadă un somn profund”. Și pentru că a scris „erau goi”, a alăturat de el pasajul despre șarpe, ca să te înștiințeze că, din pricină că i-a văzut goliciunea ei și i-a văzut ocupându-se cu împreunarea, a poftit-o și a venit asupra lor cu gând viclean și cu înșelăciune.<br><br>«Eva (Ḥavvah).» Se potrivește cu cuvântul ḥayyah („a da viață”), căci dă viață pruncilor ei, așa cum ai spune „ce are (hoveh) omul”, cu sensul de hayah („a fi”)."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«A pus numele… Eva (Ḥawwah).» Waw și yod se schimbă între ele; și tot așa „iată, mâna Domnului este (hoyah)”, „și tu le vei fi (howeh) rege”. Și nu a numit-o cu yod, căci ce deosebire ar fi între numele ei și numele viețuitoarelor (ḥayyot)?<br><br>«Mama a tot ce este viu.» Dintre oameni."
+   },
+   {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Eva (ḥavvah).» Care trebuie să dea viață și să crească copiii în păcatul ei.<br><br>«Căci ea era mama a tot ce este viu.» Deși aceasta se întâmplă și cu celelalte femei, oricum ea singură poartă acest nume, căci ea a fost prima dintre toate."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Omul i-a pus… numele.» Când a fost adusă înaintea lui, i-a pus nume, cum a pus nume dobitocului, sălbăticiunii și păsării; iar acest nume pe care i l-a pus este numele propriu al ei, căci numele general îl pomenise deja, spunând: „Aceasta se va numi femeie”. Și se poate explica că după ce au mâncat din Pomul Cunoașterii i-a pus acest nume, pentru că prin mâncarea acelui rod s-a înnoit în ei pofta împreunării și au știut că vor naște; de aceea a spus „mama a tot ce este viu (ḥay)”. Iar explicația lui ḥay este: vorbitor; și la fel: „și toată făptura (kol basar) să binecuvânteze”, „va veni toată făptura”, și nu este decât despre oameni. Și au spus că a numit-o Ḥawwah, și nu ḥayyah cu yod, ca să o deosebească de vietățile (ḥayyot) câmpului."
    },
    {
     "author": "Zohar, Teruma 16:11",
@@ -4584,8 +4732,16 @@ window.CHAPTER_DATA = [
     "text": "«Haine de piele.» Unii spun că la început erau os și carne, iar acum a crescut piele peste ele. Iar unii spun: haine pentru pielea lor. Iar alții spun că este un dobitoc cu chip de om, și Numele a poruncit și pielea lui a fost jupuită. Dar nu avem de căutat în aceasta, ci să credem că Numele a făcut omului și femeii lui haine de piele; și cine poate rosti faptele Lui puternice, și cine poate povesti lucrările Lui și minunile Lui? Iar măreția Lui nu se poate cerceta."
    },
    {
-    "author": "Sforno (c. 1475–1550)",
+    "author": "Sforno (cca. 1475–1550)",
     "text": "«Și le-a făcut haine de piele.» Fără strădania omului, ca în cele ce vor fi în viitor, cum au spus: „În viitor Țara lui Israel va scoate turte și haine de lână fină.”<br><br>«Și i-a îmbrăcat.» Ca să nu-i izgonească goi, ca nu cumva, îmbrăcându-se apoi prin strădania lor, să creadă că și-au adăugat o treaptă."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Haine (kotnot) de piele și i-a îmbrăcat.» Tunici ca să îmbrace tot trupul."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Domnul Dumnezeu le-a făcut lui Adam și soției lui haine de piele și i-a îmbrăcat.» Nu este de întrebat cum a făcut Dumnezeu aceste haine, căci aceasta nu este o minune mai mare decât toate făpturile pe care le-a creat. Iar cel care spune în midraș că hainele erau o piele care s-a format pe carnea lor, pe care încă nu o aveau – cum ar fi fost îmbrăcați prin aceasta și cum le-ar fi fost acoperită goliciunea prin aceasta? Și unii spun că din pielea șarpelui, pe care a jupuit-o Dumnezeu, le-a făcut haine; și unii spun că a jertfit un dobitoc sau două și s-a jupuit pielea lor, iar ei și-au făcut din ele haine după alcătuirea mădularelor lor. Dar nu este nevoie de toate acestea, căci Dumnezeu a poruncit și au fost create, ca tablele. Iar învățătorii noștri, binecuvântată fie amintirea lor, au spus: „Haine de piele – Rav și Șemuel: unul a spus: un lucru care vine din piele; iar celălalt a spus: un lucru de care se bucură pielea; și ce este? In”; și încă: că sunt dintre lucrurile care au fost create în amurg. Și au spus învățătorii noștri, binecuvântată fie amintirea lor: „A expus Rabbi Simlai: Tora – începutul ei este facerea de bine, iar sfârșitul ei este facerea de bine; începutul ei: «Și Domnul Dumnezeu le-a făcut lui Adam și soției lui haine de piele și i-a îmbrăcat», iar sfârșitul ei: «Și l-a îngropat acolo, în depresiune»”."
    },
    {
     "author": "Zohar, Bo 7:1",
@@ -4852,12 +5008,20 @@ window.CHAPTER_DATA = [
     "text": "«A devenit ca unul dintre noi (ke-aḥad mimmennu).» Iată, el este singur între cei de jos, cum Eu sunt singur între cei de sus. Și care este singurătatea lui? Să cunoască binele și răul, ceea ce nu este așa la dobitoace și la vietățile câmpului.<br><br>«Și acum, nu cumva să-și întindă mâna.» Iar dacă va trăi veșnic, iată, va fi aproape să rătăcească făpturile după el și să spună că și el este dumnezeu. Sunt și midrașuri aggadice, dar ele nu se potrivesc cu sensul ei simplu."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și a spus.» Când eḥad va fi cu pataḥ mic, va avea accent, iar sensul lui este în formă absolută (mukheret); iar dacă va fi cu pataḥ mare, va fi în stare construită, și tot așa „ca unul (ke-aḥad) din semințiile lui Israel”. De aceea nu se poate, după gramatica limbii, ca explicația lui să fie „ca unul”; și ce sens ar avea? Iar autorul accentelor ar fi trebuit să lege mimmennu de ladaʿat.<br><br>Iar explicația lui mimmennu este la plural, ca „niciun om dintre noi (mimmennu)”. Și deja am lămurit în Cartea Temeliei de ce primește dageș nun-ul pluralului; iar oamenii Răsăritului, care îl citesc fără dageș, greșesc. Iar sensul versetului este ca „și veți fi asemenea lui Dumnezeu, cunoscând binele și răul”. Sau explicația este după gândul lui. Și nu te mira de cuvântul mimmennu, căci ca el sunt „să facem om”, „în imaginea noastră”, „haidem să coborâm”; și aceasta este vorbirea Numelui cu îngerii."
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«și acum, nu cumva să-și întindă mâna» Cel Sfânt, binecuvântat fie El, a voit ca hotărârea Lui despre moartea omului să se împlinească; iar dacă ar mânca din Pomul Vieții, care a fost creat ca să dea celor care mănâncă din el viață veșnică, hotărârea s-ar anula: fie n-ar muri deloc, fie ziua lui n-ar veni la vremea hotărâtă asupra lui și asupra urmașilor lui. Și iată, acum, când avea alegere, a păzit acest pom de el; căci la început nu făcea decât ce i se poruncea și nu mânca din el, pentru că nu avea nevoie. Și să știi și să crezi că grădina Edenului este pe pământ și în ea sunt Pomul Vieții și Pomul Cunoașterii, și de acolo iese fluviul și se desparte în patru brațe, care ni se arată; căci Eufratul este în țara noastră și în hotarul nostru, iar Pison este Nilul Egiptului („Mițrayim”), după cuvintele celor dintâi. Dar, așa cum ele sunt pe pământ, tot așa sunt în ceruri lucruri care se numesc așa, și ele sunt temelia acestora, cum au spus: „Regele m-a adus în cămările lui” – învață că Cel Sfânt, binecuvântat fie El, îi va arăta lui Israel comorile înălțimii, cămările care sunt în ceruri. Altă explicație: „Regele m-a adus în cămările lui” – acestea sunt cămările grădinii Edenului. De aici au spus: ca lucrarea firmamentului este lucrarea grădinii Edenului, iar fluviile corespund celor patru tabere din înălțime, și de acolo se trage puterea împărățiilor de pe pământ, cum este scris: „asupra oștirii celor de sus, în înălțime, și asupra regilor pământului, pe pământ”. Așa au spus în Bereșit Rabba: „patru brațe” – acestea sunt patru împărății; „numele celui dintâi este Pison” – aceasta este Babilonul etc. Iar lucrurile numite sus Pomul Vieții și Pomul Cunoașterii, taina lor este înaltă și înălțată; și omul a păcătuit prin rodul Pomului Cunoașterii, cel de jos și cel de sus, în faptă și în gând. Și dacă pomul era bun pentru om de mâncat și de dorit pentru el spre înțelepciune, de ce i l-a oprit? Iar Dumnezeu este Cel bun și Cel care face bine; nu oprește binele celor care umblă în neprihănire. Și șarpele nu are astăzi suflet care vorbește; iar dacă l-ar fi avut la început, ar fi amintit în blestemul lui că gura i se va muți, căci acesta ar fi fost pentru el blestemul cel mai greu dintre toate. Dar toate aceste lucruri sunt îndoite: cel descoperit și cel pecetluit din ele sunt adevăr. Și în Bereșit Rabba: altă explicație: „ca s-o lucreze și s-o păzească” – acestea sunt jertfele, căci s-a spus: „Îl veți sluji pe Dumnezeu pe muntele acesta”; și aceasta este ce este scris: „să aveți grijă să o aduceți pentru Mine la sorocul ei”. Au făcut aluzie că jertfele fac să încolțească și să crească Pomul Vieții și Pomul Cunoașterii și toți pomii grădinii Edenului, și ele sunt lucrarea și paza lor. Iar Rabbi Avraham tăgăduiește ce au spus, că Pison este Nilul, pentru că îl găsește ieșind din muntele tămâiei și de aceea crește în zilele verii. Dar sunt cunoscute multe fluvii care ies din izvor și curg mult, și după aceea intră în adâncurile pământului cale de multe zile, și țâșnesc și izvorăsc sub unul dintre munți, într-un loc depărtat."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Precum Cel Unic dintre noi, cunoscând binele și răul.» El cunoaște binele și răul, fiind în imaginea Noastră; iar dacă va fi veșnic în această stare, iată, va alerga în toate zilele după ce este plăcut și va arunca înapoia spatelui său orice dobândire intelectuală și orice faptă bună, și nu va dobândi fericirea spirituală urmărită de Dumnezeu, binecuvântat fie El, prin imaginea Lui și asemănarea Lui."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Domnul Dumnezeu a spus etc. precum Cel Unic dintre noi.» S-a asociat pe Sine, binecuvântat fie, cu îngerii, cum a spus: „în imaginea noastră, după asemănarea noastră”.<br><br>«Cunoscând binele și răul.» Am explicat deja cunoașterea binelui și a răului, ca îngerii, în versetul „dar din Pomul Cunoașterii”. Și în Bereșit Rabba: „A expus Rabbi Pappos: «ca unul dintre noi» – ca unul dintre îngerii slujitori. I-a spus Rabbi Akiva: Ajunge, Pappos! Ci cum împlinesc eu «ca unul dintre noi»? Că Sfântul, binecuvântat fie El, i-a pus înainte două căi, calea vieții și calea cealaltă; a lăsat viața și și-a ales calea cealaltă. Rabbi Berekhya în numele lui Rabbi Yoḥanan: tot timpul cât omul a fost singur, a fost unul; și de îndată ce i s-a luat coasta, îndată «cunoscând binele și răul»”. Iar părerea Traducătorului este ca părerea lui Rabbi Akiva, căci a tradus: „a fost unic în lume, ca să cunoască binele și răul”.<br><br>«Precum Cel Unic (ke-aḥad) dintre noi.» A venit pataḥ deplin, chiar și fără stare construită; iar Înțeleptul a spus că, după calea gramaticii, nu este cu putință. «Cunoscând binele și răul.» Căci Dumnezeu i-a dat alegerea.<br><br>«Și acum, nu cumva să-și întindă mâna.» Și iată, la început nu l-a oprit de la Pomul Vieții, ci i-a poruncit să mănânce din el, cum am explicat, căci este cuprins în „toți pomii grădinii”; și tot timpul cât va mânca din Pomul Vieții își va lungi viața, până va trăi ani mai lungi decât a trăit. Dar, încălcând porunca lui Dumnezeu și mâncând din pomul de la care îl oprise, pedeapsa lui a fost moartea înainte de vremea hotărâtă pentru el de la început; de aceea nu a vrut să rămână în grădină, ca nu cumva să-și întindă mâna și să ia și să mănânce și din Pomul Vieții, cum a mâncat din Pomul Cunoașterii, și să trăiască multă vreme; căci așa este firea rodului acelui pom: să întărească firea omului și să-i lungească viața. Și, de vreme ce a încălcat porunca, își va primi pedeapsa, ca să i se scurteze zilele; și se cuvenea să fie izgonit din grădină pentru aceasta, ca să nu mănânce din Pomul Vieții. Și a explicat „și din Pomul”, așa cum a mâncat din Pomul Cunoașterii: căci dacă îl las în grădină și îi poruncesc să nu mănânce din Pomul Vieții, va încălca porunca Mea, cum a încălcat-o mâncând din Pomul Cunoașterii. Iar explicația lui „veșnic (le-ʿolam)”: timp lung, ca: „și el să-i slujească veșnic (le-ʿolam)”. Și în sensul ascuns se va explica mai departe."
    },
    {
     "author": "Zohar, Vaiera 6:22",
@@ -5056,6 +5220,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Și l-a izgonit.» A poruncit să plece de acolo, ca: „ca să-i trimită grabnic din țară”.<br><br>«Pământul din care fusese luat.» Ca acel loc și aerul lui să fie potrivite pentru alcătuirea lui, pentru hrana lui și pentru nevoile lui mai mult decât celelalte părți ale pământului."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«L-a izgonit (va-yešalleḥehu).» Aceasta este o trimitere de izgonire, ca: „Izgonește-i dinaintea Mea” și cele asemenea lor.<br><br>«Ca să lucreze pământul.» De vreme ce nu a vrut munca ușoară, pe când era în grădină și mânca roadele pomilor fără osteneală, și a încălcat porunca, a ieșit afară din grădină și va lucra pământul cu muncă grea, cum a spus: „cu suferință vei mânca din el”. «Din care fusese luat.» Locul din care fusese luat când l-a adus în Grădina Edenului; sau explicația lui este: din care fusese creat, ca în Targumul lui: „din care fusese creat”; și el a mărturisit despre sine că de acolo a fost luat, din partea de țărână, nu din partea de sus care este în el."
    },
    {
     "author": "Zohar, Beșalah 16:8",
@@ -5266,8 +5434,20 @@ window.CHAPTER_DATA = [
     "text": "«La răsărit de Grădina Edenului.» În partea de răsărit a grădinii Edenului, în afara grădinii.<br><br>«Heruvimii.» Îngeri nimicitori.<br><br>«Flacăra (lahaṭ) sabiei rotitoare.» Și are un tăiș (lahaṭ), ca să-l înspăimânte, ca să nu mai intre în grădină. Targumul pentru lahaṭ este șenan, ca în „a scos un ascuțiș (șenana)”; iar în laʿaz: lame. Sunt și midrașuri aggadice, dar eu nu vin decât pentru sensul simplu."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«La răsărit (mi-qedem).» Explicația: dinspre răsărit. Și să știi că tot ce am găsit scris este adevărat, și așa a fost, și nu este îndoială în aceasta; și are o taină: căci din lumina minții a ieșit dorința, iar din al doilea, cel care urcă în sus; căci mișcările dorinței sunt înainte. Și frunza de smochin este semn; iar al treilea se numește cu numele cercetării, căci la început este putere fără faptă. Iar cel care înțelege această taină va înțelege cum se desparte fluviul, și ce este taina grădinii Edenului și a hainelor de piele. Și această taină arată și că este în om putința de a trăi veșnic; iar cel înțelept va înțelege că acesta este tot omul."
+   },
+   {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«L-a alungat pe om.» Ca să nu se mai întoarcă acolo, nici el, nici seminția lui.<br><br>«Și a așezat.» Atunci, înainte ca ei să iasă.<br><br>«Ca să păzească drumul către Pomul Vieții.» Ca să nu se abată, când ies, spre drumul acelui pom și să mănânce din el."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Flacăra sabiei.» Aceasta este Gheena, care se rotește (ha-mithapekhet) din fierbinte în rece și din rece în fierbinte peste cei răi."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«L-a alungat pe om.» Când l-a alungat pe om, cum a spus „l-a izgonit”, a așezat la răsărit de Grădina Edenului heruvimii; „la răsărit (mi-qedem)” – explicația: dinspre răsărit; se poate ca intrarea grădinii să fi fost la răsărit, de aceea a așezat în acea parte heruvimii. Și aceasta a fost într-o vedenie: că se vedeau acolo heruvimi, ca să-l înfricoșeze pe om să nu se întoarcă în grădină; aceasta este „ca să păzească drumul către Pomul Vieții”. «Și flacăra sabiei rotitoare.» Ca să-l înfricoșeze și mai mult; și, pentru că lucrul era într-o vedenie, a spus „flacăra sabiei” și nu a spus „sabia”; iar flacăra nu este trup, ci vedenie; și flacăra este ce înfricoșează, cu atât mai mult când se rotește, cum a spus: „când voi flutura sabia Mea înaintea lor”. Și încă: i-a făcut acest lucru ca omul să se căiască și să se întoarcă prin pocăință; și a pus asupra lui păzitori, ca să nu intre acolo, pentru ca să se rușineze de la sine și să se căiască că a păcătuit; și din aceasta l-au învățat calea pocăinței. Și, după ce s-a pocăit, acea vedenie a dispărut, și uneori s-a întors în grădină, iar alteori lucra pământul din care fusese luat. Și vom mai scrie toate aceste lucruri pe calea sensului ascuns. Iar în Bereșit Rabba: „«și flacăra sabiei» – după «slujitorii Lui, foc arzător (loheṭ)»: uneori bărbați, uneori femei, uneori duhuri, uneori îngeri”."
    },
    {
     "author": "Efrem Sirul, Imnuri despre Paradis 2.1",

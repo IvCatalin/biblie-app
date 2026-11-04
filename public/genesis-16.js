@@ -134,6 +134,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«O slujnică egipteană.» Era fiica lui Faraon. Când a văzut minunile care i s-au făcut Sarei, a zis: Mai bine să fie fiica mea slujnică în casa aceasta decât stăpână în altă casă."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar Sarai, soția lui Avram, nu îi născuse», cum a spus: „Iar Sarai era stearpă”. Vrea să spună: de vreme ce Sarai a văzut că nu i-a născut lui Avram, iar el avea optzeci și cinci de ani și ea șaptezeci și cinci, a socotit că nu mai are nădejde; a spus: iată, Dumnezeu i-a spus lui Avraam că îi va da sămânță care va moșteni țara, iar de la mine nu va mai fi sămânța, căci sunt bătrână; iar fiul pe care îl va avea dintr-o altă femeie va fi al lui; mai bine pentru mine să-i dau slujnica mea de soție; poate voi fi zidită prin ea, și îmi va fi ca fiul meu; și este mai bine pentru mine decât să aibă un fiu dintr-o altă femeie.<br><br>«Și ea avea o slujnică egipteană»: căci, dacă ar fi fost canaanită, nu ar fi luat-o ca roabă a ei. Și i-a pomenit numele pentru cinstea lui Avraam."
    }
   ]
  },
@@ -354,12 +358,28 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
-    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
-    "text": "Practica soției care oferă propria slujnică soțului pentru a avea urmași, în cazul sterilității, e atestată direct în contracte de căsătorie mesopotamiene reale (ex. tăblițele de la Nuzi, sec. XV î.Hr.) — Sarai urmează o normă juridică documentată a epocii, nu o inovație personală."
+    "author": "Rashi (1040–1105)",
+    "text": "«Poate că voi fi zidită prin ea.» Te învață despre cel care nu are copii că nu este zidit, ci dărâmat.<br><br>«Voi fi zidită prin ea.» Prin meritul de a-mi aduce rivala în casa mea.<br><br>«De glasul Sarei.» De duhul sfințeniei care era în ea."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Poate că voi fi zidită (ibbaneh).» Din rădăcina lui ben („fiu”). Și se mai poate ca fiul să fie ca o clădire (binyan), iar tatăl ca temelia; iar lui ben îi lipsește he; și tot așa kol ḥai: adjectiv sau verb la trecut.<br><br>«Și Avram a ascultat.» I-a spus: da."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«Și Avram a ascultat de glasul Sarei» Scriptura n-a spus „și a făcut așa”, ci a spus că a ascultat de glasul Sarei; face aluzie că, deși Avram dorea foarte mult copii, n-a făcut aceasta fără încuviințarea Sarei; și nici acum n-a avut intenția să fie el zidit prin Agar și sămânța lui să fie din ea, ci toată intenția lui a fost să facă voia Sarei, ca ea să fie zidită prin ea: să aibă mulțumire sufletească de fiii slujnicei ei, sau un merit prin care ea va avea parte de copii pentru aceasta, după cuvintele învățătorilor noștri. Și a mai spus „Și Sarai… a luat”, ca să facă cunoscut că Avram nu s-a grăbit la lucru până ce Sarai n-a luat-o și n-a dat-o la sânul lui. Și Scriptura a amintit „Sarai, soția lui Avram” și „soțului ei Avram”, ca să facă aluzie că Sara nu și-a pierdut nădejdea de la Avram și nu s-a îndepărtat de lângă el, căci ea este soția lui și el este soțul ei; dar a voit ca și Agar să fie soția lui; și de aceea a spus „de soție”: ca să nu fie ca o concubină, ci ca o femeie măritată cu el. Și toate acestea sunt buna-cuviință a Sarei și cinstea cu care se poartă față de soțul ei."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Iată, Domnul m-a oprit să nasc.» Deși a spus că îți va da sămânță, cum a spus: „Seminției tale îi voi da țara aceasta”, nu a spus că vei avea acea sămânță de la mine.<br><br>«Poate că voi fi zidită prin ea.» Poate gelozia pentru o rivală îmi va trezi puterea la lucrările ei și se va întări să dobândească sămânța.<br><br>«De glasul Sarei.» Inima lui a înclinat să creadă că părerea ei era adevărată; de aceea i-a primit cuvintele, nu ca să se desfăteze în împreunarea cu femeia."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Domnul m-a oprit să nasc»: de vreme ce până acum m-a oprit să-ți nasc, nu mai am nădejde să ai de la mine, căci sunt bătrână.<br><br>«Voi fi zidită» (ʾibbaneh). Fiul se numește ben pentru că el este zidirea (binyan) tatălui și a mamei. A spus: dacă vei avea un fiu de la slujnica mea, îl voi socoti ca și cum ar fi fiul meu, și îmi va fi ca un fiu.<br><br>«Și Avram a ascultat»: ca să spună că lucrul a fost drept în ochii lui; și nu a așteptat în aceasta cuvântul lui Dumnezeu, căci a socotit că, de vreme ce Sara încetase să nască, ceea ce Dumnezeu îi făgăduise, să-i dea sămânță, va fi de la Agar; și, de vreme ce lucrul era drept în ochii Sarei, era drept și în ochii lui. Iar Avraam nu s-a rugat pentru Sara, cum a făcut Isaac; sau s-a rugat și nu i s-a răspuns, căci Dumnezeu a vrut să-Și arate în ea minunile, din dragoste pentru Avraam, ca să nască la nouăzeci de ani."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Practica soției care oferă propria slujnică soțului pentru a avea urmași, în cazul sterilității, e atestată direct în contracte de căsătorie mesopotamiene reale (ex. tăblițele de la Nuzi, sec. XV î.Hr.) — Sarai urmează o normă juridică documentată a epocii, nu o inovație personală."
    },
    {
     "author": "Zohar, Vaera 22:2",
@@ -627,6 +647,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și Sarai… a luat-o.» A luat-o prin cuvinte: Ferice de tine, că ai fost învrednicită să te lipești de un trup atât de sfânt.<br><br>«La capătul a zece ani.» Este termenul fixat pentru o femeie: bărbatul care a stat zece ani cu soția lui și ea nu i-a născut, este dator să ia alta.<br><br>«De ședere a lui Avram etc.» Arată că șederea în afara țării nu i se socotește în număr, pentru că nu i s-a spus „și te voi face un neam mare” până nu va veni în țara lui Israel."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«La capătul a zece ani.» Înaintașii noștri, binecuvântată fie amintirea lor, au transmis că omul să nu rămână cu soția lui mai mult de zece ani dacă ea nu naște; iar acest verset este ca un sprijin (asmakhta), și este bine."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«la capătul a zece ani» Este termenul fixat pentru o femeie care a stat cu bărbatul ei zece ani și n-a născut: el este obligat să ia alta.<br><br>«de ședere a lui Avram în țara Canaanului» „Ne spune că șederea în afara Țării nu i se socotește în număr, pentru că nu i s-a spus «Și te voi face un neam mare» până ce n-a venit în Țara lui Israel” – cuvintele lui Rashi. Iar motivul acesta nu este bun: căci este o halahă hotărâtă că șederea în afara Țării nu se socotește pentru niciun om din lume, iar Mișna pe care am învățat-o despre aceasta este pentru orice om; și dacă ar fi fost din pricina acestei făgăduințe făcute lui Avram, s-ar fi socotit pentru ceilalți oameni. Și au greșit în ea deja și unii dintre comentatori, cu o altă greșeală: au spus că pentru cel care locuiește în afara Țării nu este legea să divorțeze de femeia care a stat cu el zece ani și n-a născut, nici să ia alta. Dar lucrul nu este așa; ci intenția este să spună că, dacă un om a fost cu soția lui în afara Țării cinci sau zece ani și au venit în Țara lui Israel, li se dă un termen de zece ani din vremea venirii lor în Țară: poate, prin meritul Țării, vor fi zidiți. Și așa au făcut Avraam și Sara: au socotit din vremea venirii lor acolo."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«La capătul a zece ani.» A spus că, de când s-au așezat în țara Canaanului, a mai așteptat zece ani, căci a socotit că acolo îi va da lui Avraam un fiu de la ea; căci așa i-a spus: „Pleacă din țara ta”, și după aceea: „Și te voi face un neam mare”. De vreme ce a zăbovit zece ani și nu a născut, a spus: sunt deja bătrână, nu mai este nădejde să aibă un fiu de la mine; îi voi da slujnica mea. Și au spus învățătorii noștri, binecuvântată fie amintirea lor: dacă a luat o femeie și a zăbovit cu ea zece ani și nu a născut, nu îi este îngăduit să înceteze; ci s-o lase să plece și să-i dea ketubba; poate nu a avut meritul să fie zidit prin ea. Și deși nu este o dovadă pentru lucru, este o aluzie la lucru: „la capătul a zece ani de ședere a lui Avram în țara Canaanului”, ca să te învețe că locuirea în afara Țării nu i se socotește în număr; și aceasta din motivul pe care l-am pomenit."
    }
   ]
  },
@@ -778,6 +810,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«El a venit la Agar și ea a zămislit.» De la prima împreunare.<br><br>«Și stăpâna ei a decăzut în ochii ei.» A zis: Sarai aceasta, cea ascunsă nu este ca cea arătată: se arată ca și cum ar fi dreaptă, dar nu este dreaptă, căci n-a fost învrednicită să rămână însărcinată în toți acești ani, iar eu am zămislit de la prima împreunare."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și a decăzut (wa-tteqal).» Litera nerostită ascunsă, care este între litera slujitoare și litera rădăcinii, ține locul dageșului dat pentru înghițirea literei dublate; și este din conjugarea nifal."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și stăpâna ei a decăzut în ochii ei.» A socotit că, de vreme ce sămânța lui Avraam va fi de la ea, ea va fi stăpână, și nu se mai îngrijea de porunca Sarei, stăpâna ei, la ceea ce îi va porunci."
    }
   ]
  },
@@ -999,6 +1039,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Nedreptatea ce mi se face e asupra ta!» Nedreptatea care mi se face, asupra ta arunc pedeapsa. Când te-ai rugat Sfântului, binecuvântat fie El: „ce îmi poți da… când eu mă duc fără urmași”, te-ai rugat numai pentru tine; ar fi trebuit să te rogi pentru amândoi, și aș fi fost cercetată împreună cu tine. Și, în plus, îmi răpești cuvintele, căci auzi ocara mea și taci.<br><br>«Eu mi-am dat slujnica etc.… între mine și tine (u-venekha).» Orice benekha din Scriptură este scris defectiv, iar acesta este plin; citește-l u-vanekha („și fiii tăi”), căci ea a aruncat deochi asupra sarcinii Agarei, iar aceasta și-a lepădat sarcina. Aceasta este de ce îngerul îi spune Agarei: „Iată, vei zămisli” — oare nu zămislise deja, iar el o vestește că va zămisli? Ci ne învață că și-a lepădat prima sarcină."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Nedreptatea ce mi se face e asupra ta!» Căci ar fi trebuit s-o certi, după ce ea, femeia ta, mă disprețuiește pentru că a zămislit de la tine."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Nedreptatea ce mi se face e asupra ta!» Nedreptatea pe care o îndur de la slujnica mea este asupra ta, căci eu am avut în vedere binele tău când ți-am dat-o, ca să ai sămânță de la ea; iar acum am decăzut în ochii ei, iar tu nu te îngrijești și nu o pedepsești; iar eu, pentru cinstea ta, nu vreau s-o stăpânesc cu asprime.<br><br>«Să judece Domnul.» Și au spus învățătorii noștri, binecuvântată fie amintirea lor: oricine îl dă pe tovarășul său în judecată este pedepsit primul, căci este scris: „și Avraam a venit s-o elogieze pe Sara și s-o plângă”. Iar aceasta au spus-o despre lucruri pentru care nu este de strigat nedreptate, ca acesta; căci Avraam, chiar dacă ar fi știut aceasta cu adevărat, ar fi pedepsit-o și ea nu ar fi primit; căci este departe ca Avraam să tacă la necinstirea Sarei, soția lui, cu atât mai mult din partea slujnicei ei, deși îi fusese dată de soție.<br><br>«Între mine și tine» (u-venekha): scris plin, cu yod între nun și kaf; căci așa vine cuvântul bein, uneori fără plural și uneori cu yod-ul pluralului; și la fel „între voi și el”. Și este în el un midraș: că Sara și-a pus ochii pe sarcina ei și ea a pierdut acea sarcină; și dacă este așa, nu este după regulă să fie plin, ci defectiv."
    }
   ]
  },
@@ -1192,6 +1240,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Sarai a prigonit-o.» O subjuga cu asprime."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Sarai a prigonit-o și ea a fugit dinaintea ei» A păcătuit mama noastră prin această prigonire, și tot așa și Avraam, lăsând-o să facă așa; și Domnul a auzit suferința ei și i-a dat un fiu care va fi un măgar sălbatic de om, ca să prigonească sămânța lui Avraam și a Sarei cu tot felul de prigoniri."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Slujnica ta este în mâna ta.» Căci nu este eliberată de tine.<br><br>«Sarai a prigonit-o.» Ca să recunoască faptul că este roabă și să nu-și mai disprețuiască stăpâna."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iată, slujnica ta este în mâna ta.» Deși s-a culcat la sânul meu, este slujnica ta ca la început, și ai dreptul asupra ei s-o stăpânești cu asprime, dacă îți va face ceva necuviincios; căci este slujnica ta și stăpânirea asupra ei este în mâna ta; și nu va primi de la mine cum va primi de la tine; și iată, îmi iert cinstea mea pentru tine.<br><br>«Sarai a prigonit-o»: a făcut cu ea prea mult și a pus-o la muncă silnică; se poate să o fi bătut și să o fi blestemat, iar ea nu a putut îndura și a fugit dinaintea ei. Și Sara nu s-a purtat în aceasta după măsura bunei-cuviințe și nici după măsura evlaviei: nu după buna-cuviință, căci, deși Avraam își ierta cinstea pentru ea și i-a spus „fă-i ce este bine în ochii tăi”, se cuvenea ca ea să-și tragă mâna pentru cinstea lui și să nu o prigonească; și nu după măsura evlaviei și a sufletului bun, căci nu se cuvine omului să facă tot ce poate față de ceea ce este sub mâna lui; și a spus înțeleptul: Cât de frumoasă este iertarea în vremea puterii! Iar ceea ce a făcut Sarai nu a fost bun în ochii lui Dumnezeu, cum i-a spus îngerul Agarei: „căci Domnul ți-a auzit durerea”, și i-a dat binecuvântare în locul durerii ei. Iar Avram nu a oprit-o pe Sarai să o prigonească, deși era rău în ochii lui, de dragul păcii casei. Și la fel această povestire a fost scrisă în Tora ca omul să dobândească din ea însușirile bune și să le îndepărteze pe cele rele."
    }
   ]
  },
@@ -1354,6 +1414,18 @@ window.CHAPTER_DATA = [
    "Geneza 25:18"
   ],
   "commentaries": [
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și a găsit-o (wa-yimṣaʾah).» Cuvânt neobișnuit, căci regula este ca wa-yisnaʾeha."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Un înger al Domnului a găsit-o.» A găsit-o pregătită pentru vedenii dumnezeiești, și astfel i s-a arătat.<br><br>«La un izvor de apă.» Rugându-se, cum a lămurit spunând: „căci Domnul a auzit suferința ta”.<br><br>«La izvorul (ʿayin).» La răspântia drumului; și când sunt două drumuri, ele sunt numite ʿeinayim, iar locul de început al celor două drumuri este numit petaḥ ʿeinayim, și acesta este ceea ce la învățătorii noștri, binecuvântată fie amintirea lor, se numește „răspântie de drumuri”.<br><br>«Pe drumul către Șur.» Acesta este Hagra, cum a tradus Onkelos, și este o cetate la hotarul Țării lui Israel sau în afara ei, cum au spus înțelepții noștri, binecuvântată fie amintirea lor, în Gittin. A făcut cunoscut că avea de gând să iasă atunci din Țara lui Israel."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«La un izvor de apă.» După ce a spus „la un izvor de apă”, a spus „la izvorul”, ca să explice; adică: la care izvor a găsit-o îngerul Domnului? La izvorul care este pe drumul către Șur; adică se întorcea în Egipt („Mițrayim”), țara ei natală, căci Șur este în fața Egiptului."
+   },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Drumul spre Șur ducea către Egipt, prin nordul Peninsulei Sinai — alegerea traseului de fugă al lui Hagar sugerează intenția ei de a se întoarce în țara natală, o cale realistă pentru o egipteancă aflată în dificultate."
@@ -1522,6 +1594,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«De unde ai venit?» De unde vii? Știa, dar a întrebat ca să-i dea o deschidere ca să intre în vorbă cu ea. Iar expresia ei mi-zeh: Unde este locul despre care vei spune: de aici (mi-zeh) vin?"
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«De unde (ei mi-zeh).» Ca ayyeh („unde”); și tot așa „unde (ei) este Abel?”. Iar sensul lui mi-zeh este „loc”, ca și cum ar fi spus: de unde, din ce loc, ai venit?<br><br>«Fug (boraḥat).» Reș are pataḥ din cauza literei guturale care este după el; și tot așa „fuge (boraḥat) toată cetatea”, „și ea, ca și cum ar înflori (ke-foraḥat)”, „cu lopata (ba-raḥat) și cu furca”; și tot așa „care a cunoscut (yodaʿat) bărbat”, din cauza literelor guturale, care sunt alef, ḥet, he, ʿayin; și aceasta este regula limbii, „nu este străin cu noi”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«De unde ai venit și încotro te îndrepți?» Adică: privește și vezi din ce loc ai plecat; căci erai într-un loc sfânt și în casa celor drepți, și iată, mergi în afara Țării lui Israel, spre un loc necurat și la oameni răi.<br><br>«Fug.» Nu merg spre un loc anume, ales de mine, ci am ieșit ca să fug."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a spus» (wa-yoʾmar): vine cu pataḥ la reviʿa, ca la pauză, căci reviʿa are în unele locuri obiceiul pauzei; și pentru că sensul lui în sine vine așa, căci nu este legat de ceea ce vine după el, ci de ceea ce a pomenit; și la fel orice wa-yoʾmar.<br><br>«Agar, slujnica Sarei.» A fost chemată cu numele ei și cu titlul ei; adică: iată, tu ești slujnica Sarei, cum de ești aici? «De unde ai venit»: adică, locul din care ai venit, unde este? «Și încotro» vrei să mergi?<br><br>«Fug» (boraḥat): cu pataḥ la reș, la sfârșit de verset, nu după obicei."
    }
   ]
  },
@@ -1659,6 +1743,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și un înger… i-a spus etc.» La fiecare spusă i-a fost trimis un alt înger; de aceea se spune „înger” la fiecare spusă."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Întoarce-te la stăpâna ta și supune-te sub mâna ei» I-a poruncit să se întoarcă și să primească asupra ei stăpânirea stăpânei ei; a făcut aluzie că nu va ieși liberă de sub ea, căci fiii Sarei vor stăpâni asupra seminției ei pentru totdeauna."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și supune-te (ve-hitʿanni).» Ca să arate pentru viitor, în felul lui „aruncă și aruncă” (yarah va-yor), căci așa a rânduit regele."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și... i-a spus.» A spus de trei ori „i-a spus”; așa este obiceiul Scripturii în unele locuri, și vine așa ca să întărească spunerea, cum am scris multe în cartea Mikhlol, în partea de gramatică a ei. Și se poate, după cele trei lucruri pe care i le-a spus, să fi spus „i-a spus” la fiecare lucru. Și este un midraș că Dumnezeu i-a trimis trei îngeri, unul după altul; și au spus: Dacă slujnicelor patriarhilor li s-a arătat îngerul de trei și de patru ori, iar nouă nici măcar o dată!.<br><br>«Și supune-te» (we-hitʿanni): îndură asuprirea cu care te va asupri; căci spre binele tău va fi să locuiești cu Avraam, căci în meritul lui sămânța ta va fi foarte multă."
    }
   ]
  },
@@ -1780,7 +1876,12 @@ window.CHAPTER_DATA = [
    "Geneza 25:12-16",
    "Geneza 17:20"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Îți voi înmulți foarte mult»: îngerul este trimisul lui Dumnezeu și vorbește în numele Lui cuvintele ca și cum el le-ar fi spus.<br><br>«Nu va putea fi numărată de multă ce este»: pe calea exagerării și a hiperbolei."
+   }
+  ]
  },
  {
   "num": 11,
@@ -1987,6 +2088,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Iată, ai zămislit (harah).» Când te vei întoarce, vei zămisli, ca „iată, vei zămisli (harah)” de la soția lui Manoah.<br><br>«Și vei naște (ve-yaladt) un fiu.» Ca ve-yoledet; și asemănător lui: „tu, care locuiești (yașavt) în Liban, care îți faci cuibul (mequnnant) în cedri”.<br><br>«Și îi vei pune numele.» Este poruncă, cum spune bărbatului: „și îi vei pune numele Isaac”."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Iată-te (hinnakh).» La feminin; căci hen este particulă, ca ʿim, iar forma lui este ca ʿimmakh („cu tine”).<br><br>«Ismael.» Cu alef ascuns, ca să fie mai ușor pentru limbă."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«și îi vei pune numele Ismael» Îngerul a făcut cunoscut Agarei că numele lui va fi Ismael, în felul lui: „Iată, un fiu se va naște casei lui David, Iosia îi va fi numele”; și i-a spus că ea îl va numi așa și își va aminti că Dumnezeu a auzit suferința ei. Iar Avraam l-a numit așa de la sine, ca Dumnezeu (El) să audă și să-i răspundă; sau că s-a odihnit asupra lui duhul sfințeniei, după cuvintele lui Rashi; și l-a numit Ismael, căci Dumnezeu a auzit suferința mamei lui, după cuvântul îngerului. Dar ce este corect în ochii mei: îngerul i-a poruncit Agarei să-l numească așa, iar ea s-a temut, fiind concubină, să pună nume fiului stăpânului ei, și i-a descoperit lui lucrul, iar Avram a împlinit cuvântul Domnului; dar Scriptura n-a avut nevoie să lungească despre aceasta."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iată, ai zămislit.» I-a spus aceasta ca deschidere a cuvintelor, căci ea știa deja că a zămislit, cum a spus: „și ea a văzut că a zămislit”; iar vestea pe care i-a vestit-o este: „și vei naște un fiu”. We-yaladt: au spus că este compus din we-yaladt, care este verb la trecut, și din we-yoladt, care este participiu; iar sensul compunerii: we-yaladt, care este verb la trecut, este întors spre viitor din pricina vav-ului, pentru că este viitor, căci încă nu născuse; și a compus cu el yoladt, căci i-a spus: precum știi că ești însărcinată, așa să știi cu adevărat că vei naște un fiu, ca și cum l-ai naște acum. Și sunt unii care spun că acest cuvânt este dintr-un verb asemănător cu cel cvadrilateral.<br><br>«Și îi vei pune numele» (we-qaraʾt): tav-ul este pentru persoana a doua feminin prezentă. „Și... va veni peste voi” (we-qaraʾt etkhem): tav-ul este pentru feminin, ca he-ul din we-qaraʾah.<br><br>«Durerea» (ʾel ʿonyekh): la ceea ce ai strigat din mijlocul durerii tale. Și am avut nevoie de această explicație pentru că a spus „a auzit”, și nu a spus „a văzut”. Și se poate explica după Targumul lui: „rugăciunea ta”; și explicația lui ʿonyekh va fi: strigătul tău, ca „și Iov a răspuns” (wa-yaʿan Iyyov) (cel dintâi), „și șacalii vor striga (we-ʿanah) în palatele lui”, „și să răspunzi și să spui” și cele asemenea lor."
    }
   ]
  },
@@ -2155,6 +2268,22 @@ window.CHAPTER_DATA = [
     "text": "«Un măgar sălbatic de om (pere adam).» Iubitor de pustiuri, ca să vâneze fiare, cum este scris: „și a locuit în deșert și a devenit arcaș”.<br><br>«Mâna lui împotriva tuturor.» Tâlhar.<br><br>«Și mâna tuturor împotriva lui.» Toți îl urăsc și se războiesc cu el.<br><br>«Și asupra tuturor fraților lui va sălășlui.» Căci seminția lui va fi mare."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Un măgar sălbatic de om (pere adam).» Liber între oameni, cu sensul din „cine a lăsat liber măgarul sălbatic (pere)?”. Iar sensul este că nu-l va stăpâni un străin din familia lui. Și unii spun: pere și adam, ca „soarele, luna au stat în locuința lor”; și pentru că este pere, „mâna lui împotriva tuturor”; și pentru că este adam, „și mâna tuturor împotriva lui”. Iar ce este drept în ochii mei: va fi între oameni ca un măgar sălbatic, care îi va învinge pe toți prin puterea lui, și după aceea „mâna tuturor împotriva lui”. Și așa este explicat în Daniel, căci ea este fiara a patra.<br><br>«Și asupra tuturor fraților lui.» Care sunt fiii Cheturei; și așa este scris: „în fața tuturor fraților săi s-a așezat (nafal)”. Și tot așa, fiii Madianului sunt din fiii Cheturei, și sunt numiți ismaeliți în Tora și în cartea Judecătorii."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«un măgar sălbatic de om» Cuvintele lui Rashi: „Iubitor de pustiuri, ca să vâneze animale (sau „fiare sălbatice”), cum este scris: «a locuit în deșert și a ajuns arcaș»; «mâna lui împotriva tuturor» – tâlhar; «și mâna tuturor împotriva lui» – toți îl urăsc și se iau la harță cu el”. Dar ce este corect: pere adam este în legătură gramaticală, adică va fi un om sălbatic (ish pere), deprins cu pustia, ieșind la lucrul lui, căutând dis-de-dimineață prada, și va sfâșia pe toți și toți îl vor sfâșia; iar lucrul privește sămânța lui, care va crește și vor avea războaie cu toate popoarele. Iar Rabbi Avraham a spus: «mâna lui împotriva tuturor» – că la început va birui toate neamurile, iar după aceea «mâna tuturor împotriva lui» – că va fi biruit la sfârșit; «și asupra tuturor fraților lui va sălășlui» – care sunt fiii Cheturei – că sămânța lui va fi mai mare decât a lor."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Un măgar sălbatic (pere) de om.» Pere este măgarul sălbatic. A spus că va fi măgar în alcătuirea lui din partea mamei egiptene, cum a spus despre egipteni: „a căror carne este carne de măgari”; și că va fi măgar sălbatic, fiindcă va locui în pustiu, cum a spus: „și a crescut și a locuit în pustiu”; și că va fi om din partea tatălui său, cum au spus înțelepții noștri, binecuvântată fie amintirea lor, că Ismael s-a pocăit."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și el va fi»: el și sămânța lui.<br><br>«Un măgar sălbatic de om»: om al pustiului, ca măgarul sălbatic; căci cei mai mulți dintre ei locuiesc în corturi în pustiuri; și la fel a spus: „ca un arab în pustiu”; iar arabii sunt ismaeliți.<br><br>«Mâna lui împotriva tuturor.» Pentru că va fi om al pustiului, își va întinde mâna asupra tuturor vecinilor lui, și de asemenea vecinii lui asupra lui; și cu toate acestea nu va fugi dinaintea lor, ci va locui în fața lor; și la fel a spus: „în fața tuturor fraților săi s-a așezat”; iar vecinii lui sunt frații lui."
+   },
+   {
     "author": "Zohar, Itro 23:17",
     "text": "A zis: care este? I-au zis (Geneza 16:12): «și el va fi un om sălbatic». Și sfârșitul versetului voim să-l cunoaștem. Că e scris: «și pe fața tuturor fraților lui va locui». Ce înseamnă «pe fața tuturor fraților lui»? Că lămurirea a tot versetul o știm, și aceasta nu o știm, că sfârșitul versetului nu se vede ca începutul lui."
    }
@@ -2299,6 +2428,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«El-Roi.» După forma lui ʿoni din „a văzut suferința (raʾah ʿoni)”, cu sensul de „Dumnezeul vederii (El marʾeh)”.<br><br>«Și aici (ha-gam halom).» Ca „acum”; dar corect este că e ca „aici”; și tot așa „a mai venit aici (halom) vreun om?”. Iar sensul: oare și aici am văzut îngerul Numelui, după ce Numele a văzut în suferința mea? Căci El vede (roi) mereu."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Agar a pus numele Domnului.» Iată, chemarea Numelui Domnului este rugăciunea în care este lauda Celui Sfânt, binecuvântat fie El, în gândul celui care se roagă sau în cuvintele lui, cum au spus înțelepții noștri, binecuvântată fie amintirea lor: „Totdeauna omul să rânduiască lauda Locului, și după aceea să se roage”; căci prin aceasta cel care se roagă se va îndrepta spre Dumnezeu, binecuvântat fie El, ca în: „Îl am pe Domnul totdeauna înaintea mea”; și tot așa: „am chemat Numele Tău, Doamne”; și tot așa: „și Samuel, între cei care cheamă Numele Lui”; și tot așa: „căci Numele Domnului îl voi chema”. A spus, așadar, că, atunci când s-a rugat, a rânduit lauda lui Dumnezeu, binecuvântat fie El, care îi vorbise, spunând: „Tu ești Dumnezeul care vede (El-Roi)”: Tu ești Dumnezeul vederii în orice loc, nu doar în casa lui Avraam, cum au spus înțelepții noștri, binecuvântată fie amintirea lor: „Toate porțile au fost încuiate, în afară de porțile nedreptății (onaʾah).”"
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Agar a pus numele.» L-a numit El Roʾi, căci i-a spus în fața lui, după despărțirea cu care s-a despărțit de ea: „Tu ești El Roʾi”; căci la început credea că este un om; căci nu credea că un om poate vedea un înger, cum a spus Manoah: „Vom muri negreșit, căci L-am văzut pe Dumnezeu”; iar când a văzut că s-a despărțit de ea într-o clipă și nu l-a mai văzut, a știut că este un înger, și a spus: un înger care se poate vedea am văzut, adică un înger pe care omul îl poate vedea. Roʾi, după tiparul ʿoni, domi, ṣori.<br><br>«Căci a spus»: a spus în inima ei: prin aceasta recunosc și știu că este un înger; căci un om, după ce se desparte de altul, îl vede după el, după cât ajunge ochiul lui; dar eu nu am văzut nici măcar aici; în locul meu nu am văzut după el, când s-a despărțit de mine, pe acesta pe care l-am văzut, adică pe acesta care mi s-a arătat; și eu l-am văzut și într-o clipă s-a acoperit de la mine, în locul meu; aceasta nu este decât un înger.<br><br>Roʾi: cel care mă vede."
    }
   ]
  },
@@ -2406,6 +2543,18 @@ window.CHAPTER_DATA = [
    "Geneza 24:62"
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Beer-Lahai-Roi.» Ca în Targumul lui."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Beer-Lahai-Roi.» Pentru cel care va fi viu în anul următor, cu sensul din „așa, pentru cel viu (ko le-ḥai)”; căci în fiecare an ismaeliții țineau sărbătoare la această fântână; și chiar astăzi se numește Beer Zemum."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«De aceea, fântâna s-a numit.» Cel care a numit a numit acea fântână, unde i s-a arătat îngerul Agarei, Beer-Lahai-Roi, după motivul pe care l-a spus Agar: „Tu ești El Roʾi”. Îngerul este viu în veci, de aceea a spus La-ḥai („a Celui viu”); iar această fântână este izvorul pe care l-a pomenit mai sus.<br><br>«Iată, ea este între Cades și Bered.» A dat un semn pentru această fântână, unde este, pentru ca, atunci când omul o va vedea, să dea laudă Celui Atotprezent, care i-a ales pe cei drepți; căci, din dragoste pentru Avraam, a trimis un înger chiar slujnicei lui, deși nu mergea în trebuința lui. Iar Bered este Șur, pe care l-a pomenit mai sus; și avea două nume, de aceea le-a pomenit pe amândouă; și la fel Onkelos le-a tradus pe amândouă: „Ḥagra”."
+   },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Localizarea fântânii „între Kadeș și Bered” plasează evenimentul în nordul Peninsulei Sinai — aceeași regiune generală unde Hagar și Ismael vor fi trimiși din nou mai târziu (Geneza 21), sugerând o legătură geografică continuă cu acest loc de-a lungul vieții ei."
@@ -2599,6 +2748,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și Avram i-a pus numele etc.» Deși Avram nu auzise cuvintele îngerului, care spusese „și îi vei pune numele Ismael”, a sălășluit asupra lui duhul sfințeniei și l-a numit Ismael."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Avram i-a pus numele fiului său pe care îl născuse Agar – Ismael.» Căci din partea amândurora i se cuvenea acest nume: din partea lui Avraam, care s-a rugat pentru el după aceea, și i s-a spus: „iar cu privire la Ismael, te-am ascultat (šemaʿtikha)”; și din partea Agarei, după cuvântul îngerului."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Avram i-a pus numele.» Deși îngerul i-a spus Agarei că ea îl va numi Ismael, ea i-a spus lui Avraam; și ea l-a numit Ismael, și Avraam de asemenea l-a numit așa, cum i-a spus ea în numele îngerului; și la fel am văzut la Set, că Adam și Eva l-au numit Set; și am văzut că tatăl numește cu un nume și mama cu alt nume, cum a spus că Rahela l-a numit pe fiul ei cel mic Ben-Oni, iar tatăl lui l-a numit Beniamin."
    }
   ]
  },
@@ -2719,6 +2876,14 @@ window.CHAPTER_DATA = [
    "Geneza 17:1,24-25"
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Iar Avram avea optzeci și șase de ani etc.» S-a scris spre lauda lui Ismael, ca să facă cunoscut că avea treisprezece ani când a fost circumcis și nu s-a împotrivit."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar Avram.» I-a pomenit anii ca să facă cunoscut că în același an în care Sarai i-a dat-o pe Agar lui Avram, ea a zămislit și a născut; căci nu a zăbovit să rămână însărcinată și să nască, ca să bucure repede inima lui Avram cu acest fiu; căci Avram avea șaptezeci și cinci de ani când a ieșit din Haran, și zece ani a locuit în țara Canaanului: iată optzeci și cinci; și la sfârșitul anului al zecelea i-a dat-o, căci s-a spus „la capătul”, ca „La capătul a șapte ani să faci scutirea datoriilor”, iar al șaptelea an scutește la sfârșitul lui; iată, la începutul anului al optzeci și șaselea al lui Avram i-a dat-o, și ea a zămislit și a născut în același an."
+   },
    {
     "author": "Notă structurală",
     "text": "Vârsta precisă a lui Avram (86 de ani) la nașterea lui Ismael, comparată cu cea de 100 de ani la nașterea lui Isaac (Geneza 21:5), stabilește un interval de paisprezece ani între cei doi fii — un detaliu cronologic important pentru înțelegerea relației și rivalității ulterioare dintre frați."

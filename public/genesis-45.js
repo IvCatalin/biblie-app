@@ -84,6 +84,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
     "text": "«Dar frații săi nu i-au putut răspunde.» Rabbi Yosef Qara a explicat: credeau și nu credeau. Credeau, căci își pomenise numele, Iosif; și nu credeau: în trecut „Iosif a fost vândut ca sclav, i-au chinuit picioarele în lanțuri”, iar acum este stăpânitor peste toată țara Egiptului („Mițrayim”)."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Iosif le-a spus»: după ce s-a oprit din plâns, le-a spus: „Eu sunt Iosif.”<br><br>«Rămăseseră consternați»: pentru că îl vânduseră, s-au rușinat și s-au tulburat."
    }
   ]
  },

@@ -324,6 +324,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Și seminției tale după tine îi voi da țara.» La sfârșitul zilelor voi da seminției tale tot globul pământului, nu doar Țara lui Israel, cum a spus: „și te vei răspândi spre apus, spre răsărit, spre miazănoapte și spre miazăzi”, și cum a spus: „și va doborî pe toți fiii lui Set”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar țara; ție ți-o voi da»: de acum.<br><br>«Și seminției tale după tine îi voi da țara»: căci ei o vor moșteni și vor locui în ea."
    }
   ]
  },
@@ -626,7 +630,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Întâiul-născut al lui Iacov – Ruben»: deși a păcătuit și i s-a luat dreptul de întâi-născut pentru păcatul lui, l-a numit întâi-născut. A spus Rabbi Simon: greu este înaintea Celui Sfânt, binecuvântat fie El, să strâmbe lanțul genealogiei, căci s-a spus: „întâiul-născut al lui Iacov – Ruben”; spune deci: dreptul de întâi-născut la avere i s-a luat, dar nu i s-a luat dreptul de întâi-născut în genealogie. Rabbi Yiṣḥaq a spus: chiar și în ceasul stricăciunii lui, genealogia nu se socotește decât după Ruben."
+    "text": "«Fiii Leei»: după ce s-a născut Beniamin, i-a numărat.<br><br>«Întâiul-născut al lui Iacov – Ruben»: deși a păcătuit și i s-a luat dreptul de întâi-născut pentru păcatul lui, l-a numit întâi-născut. A spus Rabbi Simon: greu este înaintea Celui Sfânt, binecuvântat fie El, să strâmbe lanțul genealogiei, căci s-a spus: „întâiul-născut al lui Iacov – Ruben”; spune deci: dreptul de întâi-născut la avere i s-a luat, dar nu i s-a luat dreptul de întâi-născut în genealogie. Rabbi Yiṣḥaq a spus: chiar și în ceasul stricăciunii lui, genealogia nu se socotește decât după Ruben."
    }
   ]
  },

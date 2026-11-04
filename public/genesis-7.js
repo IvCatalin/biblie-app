@@ -162,6 +162,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Pe tine te-am văzut drept.» Și nu s-a spus „drept, integru”; de aici, că se spune o parte din lauda omului în fața lui, iar toată lauda lui nu în fața lui."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Și Domnul i-a spus lui Noe» Numele l-a înștiințat că prin însușirea îndurării îl va scăpa pe el și casa lui și va păstra în viață din ei o sămânță pentru generații. Și acesta este sensul lui „ca să li se țină în viață sămânța pe fața întregului pământ”, căci la început a spus „pentru a le păstra în viață cu tine”. Și i-a făcut acum aluzie, prin însușirea îndurării, la jertfă, ca să-l înștiințeze că Se va uita la jertfa lui și prin meritul jertfei lui va ține lumea și ea nu va mai fi nimicită de apele potopului. Și de aceea amintește aici Numele unic, căci în toată chestiunea jertfelor nu amintește „Dumnezeu” (Elohim), cum voi aminti când voi ajunge acolo, cu ajutorul Numelui.<br><br>«Vino în arcă, tu și toată casa ta» Noe a făcut arca cu multe zile înainte de potop, iar când s-a apropiat vremea potopului, în luna a doua, în ziua a zecea a lunii, i-a poruncit din nou să intre el și toată casa lui în arcă. Aceasta este ce îi spusese mai întâi: „tu, și fiii tăi, și soția ta, și soțiile fiilor tăi”. Și l-a înștiințat că numai prin meritul lui vor fi salvați, căci n-a spus „pe voi v-am văzut drepți înaintea Mea”. Și i-a poruncit să ia el și să aducă din dobitocul curat și din pasărea curată câte șapte, și i-a făcut cunoscută ziua potopului, în care să intre în arcă. Și așa a făcut, căci „Chiar în această zi, a venit … Noe”. Și acesta este sensul lui „de dinaintea apelor potopului”. Iar Rashi a scris: „Și Noe era dintre cei puțini în credință și nu a intrat în arcă până nu l-au împins apele”. Iar limbajul din Bereșit Rabba: Era lipsit de credință; dacă nu i-ar fi ajuns apele până la glezne, n-ar fi intrat în arcă. Dacă este așa, va spune că n-a intrat acolo până nu s-au învârtoșat apele și au acoperit fața întregului pământ și a văzut că se va îneca."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Căci pe tine te-am văzut drept.» Nu casa ta; de aceea „tu și toată casa ta”, căci numai din pricina ta îi voi salva."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Domnul i-a spus lui Noe.» I-a spus să intre în arcă înainte de venirea potopului.<br><br>«Căci pe tine te-am văzut drept înaintea Mea.» Și ți se cuvine să scapi, tu și toată casa ta, de potop, ca să așezi iarăși lumea."
    }
   ]
  },
@@ -313,6 +325,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Curat.» Care avea să fie curat pentru Israel; am învățat că Noe a studiat Tora.<br><br>«Câte șapte perechi (șivʿah șivʿah).» Ca să aducă din ele jertfă când va ieși."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Curat.» Căci toate erau atunci potrivite pentru a fi aduse ca jertfă, cum au amintit învățătorii noștri, binecuvântată fie amintirea lor; și tot așa prin însușirea hranei lui, dimpotrivă față de „și să vă necurățiți prin ele”."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Din fiecare dobitoc curat.» Rashi a explicat: care avea să fie curat pentru Israel; am învățat că Noe a învățat Tora. Și este de mirare din ce spunem în Zevaḥim, capitolul Parat ḥaṭṭat: „De unde știa? Tot ce primea arca era curat, și tot ce nu primea arca era necurat” — reiese că nu știa decât prin primirea arcei. Și unii explică că nu se poate dovedi că a învățat Tora decât din faptul că, la ieșirea din arcă, nu a adus jertfă decât din cele curate. Și nici aceasta nu pare limpede, căci a înțeles aceasta din ce i-a spus Cel binecuvântat, să aducă dintre ele câte șapte; căci așa a explicat Rashi la „și a luat din fiecare animal curat”: „Noe a spus: Sfântul, binecuvântat fie El, nu mi-a poruncit să aduc din acestea câte șapte decât ca să aduc din ele jertfă.” De aceea mi se pare că Noe a învățat Tora, cum a explicat Rashi. Iar ce spune în Zevaḥim, „de unde știa”, nu se referă la cele curate și necurate, căci la aceasta nu ar fi răspuns nimic cu „tot ce primea arca era curat”, de vreme ce arca a primit și necurate, cel puțin două din fiecare — afară numai dacă nu explicăm: tot ce primea arca peste două era curat. Ci se referă la versetul „din orice pasăre după soiul ei”, unde Rashi a explicat: din acelea care s-au lipit de soiul lor; și despre aceasta a întrebat: de unde știa Noe? Și răspunde: „tot ce primea arca era curat” — explicație: care s-au lipit de soiul lor; „și tot ce nu primea arca era necurat” — explicație: care s-au lipit de ce nu era de soiul lor. Iar „curat” și „necurat” se potrivesc la desfrânare, căci este scris: „Să nu vă pângăriți (tittammeʾu) prin niciuna din acestea”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Din fiecare dobitoc curat să-ți iei.» Când vor veni înaintea arcei, să le bagi cu tine. Și aceasta nu i-a spus-o de la început, ci doar să le aducă în arcă două câte două, parte bărbătească și parte femeiască; iar acum i-a spus să aducă din cel curat câte șapte perechi, iar din cel necurat o pereche, adică un mascul și femela sa, sau două perechi. Și cum a cunoscut Noe pe cel curat și pe cel care nu este curat? Se poate că Dumnezeu i-a spus semnele curăției, ca să aducă din ele jertfă când va ieși din arcă; sau vom spune: de vreme ce Dumnezeu i-a spus câte șapte din cel curat, iar ele au venit la arcă de la sine, cum am scris, pe acelea pe care Noe le-a văzut că au venit câte șapte, a știut că sunt curate. Dar această explicație nu ajunge pentru păsări, dacă au venit câte șapte, atât cele necurate, cât și cele curate; și în orice caz trebuie să explicăm că Cel Sfânt, binecuvântat fie El, i-a dat lui Noe semnele curăției, atât la dobitoc, cât și la pasăre; afară doar dacă vom spune că nu au venit câte șapte decât din pasărea curată, ca și dobitocul curat, iar ce a spus: „De asemenea, din păsările cerului, câte șapte perechi” înseamnă câte șapte din cea curată, și s-a bizuit pe ce a spus „curat”; de aceea a spus „de asemenea”. Iar faptul că a spus să vină câte șapte din cele curate și câte două din cele necurate nu a fost numai ca să facă jertfă când va ieși Noe din arcă, căci, dacă ar fi așa, i-ar fi ajuns mai puțin de șapte; căci nu am văzut ca Noe să fi adus jertfă decât o dată, iar dacă ar fi adus mai mult, ar fi putut aduce din cele născute din ele după un an sau după doi ani sau mai mult; ci pentru că Dumnezeu a vrut să lase din cel curat câte șapte, ca să mănânce din ele Noe și fiii lui care vor veni după ei; căci a înmulțit soiurile celor curate, pentru că voia să-i îngăduie carnea spre mâncare, ceea ce nu îngăduise omului de dinaintea lui. Și deși nu i-a oprit nicio carne din cele necurate, cum a spus: „toată carnea care este vie să vă fie drept hrană”, până ce a oprit-o copiilor lui Israel cei sfinți, totuși, după fire, cele curate sunt mai bune pentru hrana oamenilor decât cele necurate; și cel mai adesea oamenii din celelalte neamuri nu mănâncă din cele necurate decât din pricina foamei. De aceea trebuia să lase din dobitoacele curate mai mult decât din cele necurate, ca să mănânce din ele și să țină în viață sămânța; deși Scriptura nu a spus decât „ca să li se țină în viață sămânța”, pentru că lucrul de căpetenie este ținerea în viață, ca generațiile care vor veni după Noe și fiii lui să-și găsească din ele cele de trebuință. Și nu trebuie întrebat de ce câte șapte și nu câte șase, nici câte opt sau mai multe; căci Dumnezeu a văzut în înțelepciunea Lui că sunt de trebuință șapte și că vor ajunge, iar mai multe arca nu le-ar fi încăput.<br><br>«Mascul și femela sa (iš ve-išto).» Explicația: parte bărbătească și parte femeiască; și a spus iš ve-išto („un bărbat și soția lui”) în chip de împrumut. Iar când perechile sunt egale într-o singură însușire, spune išah el aḥotah („o femeie către sora ei”); iar când nu sunt egale într-o singură însușire și sunt potrivite să se împerecheze una cu alta, ca partea bărbătească și partea femeiască, spune iš ve-išto. Iar faptul că a spus „și din fiecare dobitoc care nu este curat” și nu a spus „necurat”: așa este calea în multe locuri; și la fel: „care nu e curat”, „căci nu este curat”, „ce nu este bine a făcut”, „nu este bună vestea”, „și să nimicească neamuri nu puține” și cele asemenea lor; o dată vorbește prin afirmare și o dată prin negare, și totul este una. Iar învățătorii noștri, binecuvântată fie amintirea lor, au învățat de aici că omul să nu scoată din gura lui un cuvânt urât, și au spus: totdeauna să vorbească omul în grai de cinste."
    }
   ]
  },
@@ -450,6 +474,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«De asemenea, din păsările cerului etc.» Scriptura vorbește despre cele curate; și se învață ce este nelămurit din ce este lămurit."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«De asemenea, din păsările cerului.» L-am explicat la versetul dinaintea lui. Iar explicația lui „pe fața întregului pământ” este cum am explicat la versetul „Și Dumnezeu a făcut sălbăticiunile pământului”: că locurile lor sunt împărțite pe fața întregului pământ."
    }
   ]
  },
@@ -589,6 +617,14 @@ window.CHAPTER_DATA = [
     "text": "«Căci peste încă șapte zile.» Acestea sunt cele șapte zile de jale pentru Metusala cel drept, căci Sfântul, binecuvântat fie El, a avut grijă de cinstea lui și a amânat pedeapsa. Ieși și socotește anii lui Metusala și vei găsi că ei se încheie în anul al șase sutelea din viața lui Noe.<br><br>«Căci peste încă.» Ce înseamnă „încă”? Acesta este un răgaz după alt răgaz, adăugat la cei o sută douăzeci de ani.<br><br>«Patruzeci de zile.» Corespunzător formării pruncului, pentru că s-au stricat și L-au trudit pe Creatorul lor să plăsmuiască chipul bastarzilor."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Căci peste încă șapte zile.» Căci în ziua a șaptea va ploua, până la sfârșitul a patruzeci de zile; și iată, aceasta a fost în a zecea zi a lunii a doua. Iar la sfârșitul celor patruzeci de zile de la început, cel din mijloc se întoarce în față; și aceasta este o taină.<br><br>Iar cuvântul ha-yequm („ceea ce există”) nu l-am găsit decât în această pericopă. Iar rădăcina lui este din verbele a căror primă radicală nu este întreagă, după forma lui keruv; iar unii spun că este din verbele cu ʿayin de odihnă, și este inversat, ca „ceartă-Te, Doamne (rivah), cu cei care se ceartă cu mine (yerivai)”. Iar cuvântul yequm este general pentru tot ce este viu pe pământ."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Căci peste încă șapte zile.» I-a poruncit să intre în arcă cu șapte zile înainte de a aduce potopul, ca să pregătească locul de ședere al dobitoacelor și al sălbăticiunilor, fiecare soi în încăperea lui, și să bage hrana pentru fiecare soi cât timp arca este deschisă. Iar în expunerile învățătorilor noștri, binecuvântată fie amintirea lor: că Metusala a murit în acel timp, iar Dumnezeu a amânat șapte zile, ca să se îndeletnicească cu jelirea lui Metusala în aceste șapte zile, pentru că era drept și se cuvenea să fie jelit; iar obiceiul jelirii era de șapte zile. Și este adevărat că zilele lui Metusala s-au împlinit la venirea potopului, cum am scris.<br><br>«Eu voi trimite ploaie.» Și nu a pomenit țâșnirea adâncului, căci este știut că, atunci când se înmulțește ploaia, țâșnesc izvoarele care erau ascunse sub pământ înainte de venirea ploii; căci mulțimea ploii va umezi pământul, care este uscat și strâns și stă împotriva izvoarelor adâncului; iar când va veni ploaia peste el, va umezi pământul și îi va despărți părțile care erau strânse, iar apa izvoarelor ascunse, care era ținută sub pământul uscat, va răzbate când el se umezește și se desface, și se vor întinde pe fața pământului, cum era la începutul creării. Și aceasta nu era împotriva firii, că s-au ridicat apele, a căror fire este să coboare și să nu urce; căci, întorcându-se la ce erau la începutul creării, când erau pe fața pământului, se întorc la firea lor; căci, prin firea lor, apele sunt deasupra pământului, fiindcă sunt mai ușoare decât pământul; iar când au fost ascunse sub pământ, aceasta a fost împotriva firii, prin voia Creatorului, care întoarce firile când vrea. Și deși, întorcându-se la firea lor, urcă, căci iată, erau sub pământ, totuși, când pământul se înmoaie din pricina ploii, coboară și se amestecă în ape; și iată, apele sunt deasupra pământului de la sine și se întind, iar apele de jos le împing pe cele de sus, și apele se învârtoșează peste pământ.<br><br>«Tot ceea ce există (ha-yequm).» Este un nume general pentru tot ce este pe fața pământului dintre vietăți; iar rădăcina lui este qum, iar yod-ul este adăugat, ca yod-ul din „Luptă-Te, Doamne, cu cei care se luptă cu mine (yeriv)”. Iar spunând „tot ceea ce există”, înțelege ce este pe uscat, care a rămas pe fața pământului; nu peștii, nici ce era în arcă."
+   },
+   {
     "author": "Zohar, Noah 9:1",
     "text": "„Căci peste încă șapte zile voi face să plouă pe pământ patruzeci de zile și patruzeci de nopți” etc. Rabbi Yehudah a zis: Aceste patruzeci de zile și patruzeci de nopți, care este rostul lor? Ci patruzeci de zile ca să-i lovească pe nelegiuiții lumii; și este scris: (Deuteronomul 25:3) „Patruzeci de lovituri să-i dea, să nu adauge” – în dreptul celor patru laturi ale lumii, câte zece pentru fiecare. Pentru că omul a fost creat din cele patru laturi ale lumii. Și de aceea: „și voi șterge toată ființa”. Și trebuiau patruzeci ca să fie lovită și ștearsă lumea."
    }
@@ -700,6 +736,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și Noe a făcut.» Aceasta este intrarea lui în arcă."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și Noe a făcut» cum îi poruncise, și a venit cu casa lui aproape de arcă."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Noe a făcut.» Că a intrat în arcă, el și casa lui, și a băgat cu el dobitocul, sălbăticiunea, târâtoarea și pasărea, cum a spus: „Și Noe… a venit” etc."
    }
   ]
  },
@@ -820,6 +864,14 @@ window.CHAPTER_DATA = [
    "Geneza 5:32"
   ],
   "commentaries": [
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Și potopul a fost.» Este de întrebat: prin ce se deosebește, de a adus Sfântul, binecuvântat fie El, potop mai degrabă decât alte pedepse? Învățătorii noștri, binecuvântată fie amintirea lor, au spus: cu apă clocotită au stricat și cu apă clocotită au fost judecați. Totuși, lucrul poate fi asemănat cu un rege care a construit o locuință frumoasă pentru o ceată de orbi și a poruncit să fie hrăniți din belșug. Și ori de câte ori regele trecea pe acolo, ei stăteau în picioare, se plecau înaintea regelui și îl lăudau cu glas tare. Odată, regele le-a auzit glasul și a spus: ce este glasul acesta în urechile mele? I-au spus: sunt orbii pe care ai poruncit să fie hrăniți acolo; și așa fac de fiecare dată când aud glasul cailor tăi. A spus: dacă m-ar vedea, cu atât mai mult m-ar lăuda! Îndată a poruncit să fie mutați înapoi și să fie puși în locul lor oameni care văd și să fie hrăniți ca orbii. Iar oamenii aceia, când s-au văzut în desfătare, li s-a semețit inima; și când îl vedeau pe rege trecând, îl blestemau și spuneau: vai de acesta, care ne-a închis aici! Altă dată le-a auzit glasul și a întrebat: ce spun ei? I-au spus: te blestemă și nu fac ca orbii pe care i-ai mutat înapoi. Regele a poruncit să fie uciși. Tot așa lumea: la început era toată ape, care nu văd și nu aud, și cu toate acestea Îl preamăreau pe Sfântul, binecuvântat fie El, căci s-a spus: „Râurile și-au înălțat, Doamne” etc. Sfântul, binecuvântat fie El, a spus: dacă aș crea un om, care aude și vede, câte preamăriri și câte laude Mi-ar aduce! Îndată Cel binecuvântat a poruncit: „Să se adune apele… și să se arate uscatul”, și a creat în el omul în locul apelor; și le-a revărsat bunătate: semănau pământul și le rodea pentru patruzeci de ani. Și din prea multă bunătate s-au răzvrătit împotriva Sfântului, binecuvântat fie El. Sfântul, binecuvântat fie El, le-a auzit răzvrătirea și a poruncit apelor să vină asupra lor și să-i înece. De la învățătorul meu, care a auzit din gura lui Rabbi Natan Ofniel."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Noe avea șase sute de ani.» A povestit despre el câți ani avea când a venit în arcă din pricina potopului care a fost; iar vav-ul din ve-ha-mabbul este în locul lui kaʾašer („când”), ca: „dacă nu se vor sătura, și vor petrece noaptea (va-yalinu)”, „și cu buze de cântări de bucurie va lăuda gura mea”; iar sensul: Noe avea șase sute de ani când a fost potopul pe pământ.<br><br>«Potopul a fost ape (ve-ha-mabbul hayah mayim).» Mabbul de ape; iar ha-mabbul pe care l-a pomenit stă în locul a două."
+   },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Vârsta lui Noe (600 de ani) la declanșarea Potopului, deși enormă din perspectivă modernă, se încadrează în tiparul genealogiei antediluviene deja discutat la Geneza 5 — comparabilă, ca ordine de mărime, cu domniile regilor sumerieni dinaintea potopului lor legendar."
@@ -949,6 +1001,18 @@ window.CHAPTER_DATA = [
     "text": "«Și Noe – și fiii lui.» Bărbații separat și femeile separat, pentru că le-a fost interzisă împreunarea, deoarece lumea era în suferință.<br><br>«De dinaintea apelor potopului.» Și Noe era dintre cei puțin credincioși: credea și nu credea că va veni potopul, și nu a intrat în arcă până nu l-au împins apele."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«De dinaintea apelor potopului.» De frica apelor potopului. Și iată, în acele șapte zile au venit de la sine multe din dobitocul curat, și tot așa din pasărea curată și din celelalte; și orice târâtoare, parte bărbătească și parte femeiască, au venit."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Și Noe – și fiii lui.» Rashi a explicat: bărbații separat și femeile separat, pentru că în toate zilele potopului le-a fost interzisă împreunarea, după Midrașul în care Sfântul, binecuvântat fie El, a spus: Eu îngrop, Eu dărâm, iar tu construiești? Așteaptă până va trece mânia."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Noe… a venit» etc. Cu șapte zile a intrat înainte de venirea potopului; acesta este.<br><br>«De dinaintea apelor potopului.» Și a intrat înainte de venirea lor. Și nu cunoaștem motivul cuvintelor celui care spune în midraș că și Noe era dintre cei mici în credință; căci iată, Scriptura mărturisește despre el că era drept, integru, și a făcut întocmai cum îi poruncise Domnul."
+   },
+   {
     "author": "Zohar, Noah 26:1",
     "text": "«Și a venit Noaḥ și fiii săi și femeia sa și femeile fiilor săi cu el.» Rabbi Ḥiyya a deschis și a zis (Ieremia 23:24): «dacă se va ascunde omul în locuri tăinuite, oare Eu nu-l voi vedea? zice Domnul». Câți sunt fiii omului cu inima astupată, cu ochii închiși, care nu iau aminte și nu știu slava Stăpânului lor, despre Care e scris «oare nu cerul și pământul Eu le umplu». Cum vor fiii omului să se ascundă de vinovățiile lor și zic «cine ne vede și cine ne știe». Și e scris (Isaia 29:15) «și vor fi în întuneric faptele lor». Unde se vor tăinui dinaintea Lui."
    }
@@ -1056,7 +1120,16 @@ window.CHAPTER_DATA = [
   "refs": [
    "Levitic 11:1-47"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Dintre dobitoacele curate și dintre dobitoacele care nu sunt curate» „două câte două au venit la Noe”. Rashi a explicat: „toate au fost egale în acest număr: cel puțin erau două”. Iar alții au spus că explicația lui „două câte două” este perechi, ca să spună că veneau parte bărbătească și parte femeiască împreună. Iar după părerea mea, așa a fost: au venit din toate câte două, parte bărbătească și parte femeiască, de la sine, iar Noe a adăugat să aducă din cele curate șase perechi; căci cele care veneau ca să fie salvate au venit de la sine, iar pentru cele trebuincioase jertfei s-a trudit el în poruncă, căci așa i se spusese. Iar sensul lui „Și Noe a făcut întocmai cum îi poruncise Domnul” – au spus în Bereșit Rabba: aceasta este că a pregătit să aducă înăuntru dobitoace, fiare sălbatice și păsări; adică pe cele curate, după care s-a trudit el și le-a luat în casa lui. Iar versetul care a spus a treia oară „precum îi poruncise Dumnezeu lui Noe” este ca să spună că a făcut cum i-a poruncit la intrarea în arcă; căci se leagă de ce este mai sus, cu „a venit Noe”, ca să spună că au venit Noe și fiii lui și soția lui și soțiile fiilor lui în arcă, și din dobitoace și păsări și târâtoare, două câte două, care au venit la el în arcă; și toate au venit cu el, că au intrat în arcă de dinaintea apelor potopului, precum îi poruncise Dumnezeu. Și a revenit și a lămurit luna și ziua în care a venit potopul și cum a venit, și a spus că chiar în acea zi a venit Noe în arcă și cu el toată făptura vie, nu înainte de aceasta."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Dintre dobitoacele.» Este lămurit."
+   }
+  ]
  },
  {
   "num": 9,
@@ -1164,6 +1237,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Două câte două.» Toate s-au potrivit la acest număr: din cele mai puține erau două.<br><br>«Au venit la Noe.» De la sine."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Două câte două.» Perechi; iar perechile sunt parte bărbătească și parte femeiască. «Au venit la Noe.» Ele au venit de la sine la Noe, în arcă, iar el le-a băgat, cum îi poruncise despre ele."
    }
   ]
  },
@@ -1270,6 +1347,10 @@ window.CHAPTER_DATA = [
    "Geneza 7:4"
   ],
   "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a fost, după cele șapte zile.» La sfârșitul celor șapte pe care i le dăduse Dumnezeu ca răgaz: „căci peste încă șapte zile”."
+   },
    {
     "author": "Zohar, Vaikra 31:1",
     "text": "(Leviticul 5:23) «Și va fi că, dacă a păcătuit și s-a făcut vinovat, să întoarcă lucrul răpit» etc. Rabbi Yose a zis (Isaia 54:9): «Căci ca apele lui Noaḥ este aceasta pentru Mine, când am jurat că apele lui Noaḥ nu vor mai trece.» Acest verset este greu. Este scris (Geneza 7): «Și apele potopului au fost pe pământ», și este scris (Geneza 9:11): «Și nu va mai fi stârpită orice făptură prin apele potopului.» «Apele potopului» este scris, și nu «apele lui Noaḥ», iar aici este scris «Căci apele lui Noaḥ este aceasta pentru Mine». «Aceasta (zot) pentru Mine» — «acestea (hem) pentru Mine» ar fi trebuit să fie."
@@ -1422,6 +1503,18 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Rashi (1040–1105)",
+    "text": "«În luna a doua.» Rabbi Eliʿezer spune: aceasta este Marḥeșvan; Rabbi Yehoșua spune: aceasta este Iyar.<br><br>«Au țâșnit.» Ca să-și scoată apele.<br><br>«Adâncului celui mare (tehom rabbah).» Măsură pentru măsură: ei au păcătuit cu „mare (rabbah) era răutatea omului” și au fost loviți cu „adâncul cel mare”."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Au țâșnit toate izvoarele adâncului celui mare (maʿyenot tehom rabbah).» Maʿyenot este în stare construită, căci nu există maʿyenot în formă absolută.<br><br>«Adâncul (tehom).» Cuvânt masculin și feminin, și tot așa „adâncul a înălțat-o (romemathu)”. Și n-a pomenit râurile, căci din izvoare ies. Iar când au țâșnit apele peste el și s-au deschis ferestrele cămărilor din ceruri și au coborât apele, pământul s-a tulburat și nu mai era nimic care să despartă ziua de noapte; iar martorul este că a spus: „ziua și noaptea nu vor înceta”. Iar când au încetat apele cerurilor, atunci a știut Noe că au trecut patruzeci de zile și patruzeci de nopți, căci Numele i-a descoperit această taină.<br><br>«Și zăgazurile (wa-arubbot).» Ca „iată, Domnul face zăgazuri în ceruri”; iar cămara și fereastra sunt după limba oamenilor și după rânduiala lor. Iar unii spun că alef este din rădăcină, ca kevudot; iar unii spun că alef este adăugat, ca în „o monedă (ʾagorat) de argint”, și sunt din verbele cu radicală dublă. Iar în ziua a șaptesprezecea, când a început potopul, Noe și casa lui au intrat în arcă și au adus în ea viețuitoarea, dobitocul, târâtoarea și pasărea. Iar cuvântul ṣippor este un nume general pentru tot ce are aripă. Iar minunea este că au venit toate de la sine, două câte două."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«În cel de-al șase sutelea an» etc. Dar a pomenit deja mai sus și a spus: „Și Noe avea șase sute de ani”? Ci nu a pomenit luna și a câta zi din lună; iar în acest verset a pomenit „în luna a doua”. Și acest lucru este o dispută în expunerile învățătorilor noștri, binecuvântată fie amintirea lor: Rabbi Eliʿezer spune: în Tișri a fost creată lumea; „în luna a doua” – aceasta este Marḥeșvan. Rabbi Yehoșua spune: în Nisan a fost creată lumea; „în luna a doua” – aceasta este Iyar. Iar Yonatan a hotărât după cuvintele lui Rabbi Eliʿezer, căci a tradus „în luna Etanim”: „în luna pe care cei de demult o numeau luna întâi, iar acum este luna a șaptea”. Și se pare că cei de demult, de la crearea lumii până atunci, numeau luna Tișri luna întâi a anului, căci în ea a fost creată lumea; iar de când a ieșit Israel din Egipt („Mițrayim”), Nisan a fost numită pentru Israel luna întâi, iar Tișri luna a șaptea; căci așa este scris: „Această lună să fie pentru voi începutul lunilor”; după ce a spus „pentru voi”, se vede că pentru celelalte neamuri Nisan nu era începutul lunilor.<br><br>«Au țâșnit.» Au început să țâșnească și să iasă; căci întâi au coborât ploi multe chiar în ziua aceea, iar după ce au început să coboare, pământul a început să se umezească și izvoarele să țâșnească chiar în ziua aceea; și zi de zi sporea umezeala în pământ, iar apele ieșeau pe fața pământului, până când s-au împlinit zilele ploii; au țâșnit toate izvoarele, iar apele se întăreau să iasă zi de zi, până la o sută cincizeci de zile.<br><br>«Adâncului celui mare (tehom rabbah).» Este la feminin; și la fel: „adâncul l-a înălțat (tehom romematehu)”; și este și la masculin: „adânc către adânc strigă (tehom el tehom qore)”.<br><br>«Iar zăgazurile cerurilor au fost deschise.» Vav-ul din va-arubbot are explicația „după”, adică: după ce zăgazurile cerurilor au fost deschise, izvoarele, cum am scris mai sus la versetul „căci peste încă șapte zile”; iar asemenea acestui vav este vav-ul din „Tu Te-ai mâniat, și noi am păcătuit”, adică după ce am păcătuit Te-ai mâniat pe noi; „și el dormea adânc, și era istovit”; „apoi a coborât (va-yered) de la îndeplinirea ritualului”; „omul puternic moare și slăbește”; cum am scris în cartea de gramatică, din cartea Mikhlol, la folosirea literelor. Iar pentru mulțimea ploilor a spus „zăgazuri”, ca și cum cerurile s-ar fi deschis în multe zăgazuri; și la fel a spus: „iată, Domnul face zăgazuri în ceruri; oare va fi acest lucru?”."
+   },
+   {
     "author": "Talmudul Babilonian",
     "text": "În lucru: traducerea acestui comentariu urmează."
    },
@@ -1524,6 +1617,18 @@ window.CHAPTER_DATA = [
    "Iov 38:37"
   ],
   "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Și a fost ploaie pe pământ.» Iar mai departe spune „și a fost potopul”? Ci când le-a coborât, le-a coborât cu îndurare, ca, dacă se vor întoarce, să fie ploi de binecuvântare; când nu s-au întors, s-au făcut potop.<br><br>«Patruzeci de zile etc.» Prima zi nu intră în socoteală, pentru că noaptea ei nu este cu ea, căci este scris „în ziua aceasta au țâșnit toate izvoarele”. Se găsește că cele patruzeci de zile se încheie pe 28 Kislev, după Rabbi Eliʿezer, căci lunile se socotesc în ordinea lor, una plină și una lipsă: iată douăsprezece din Marḥeșvan și douăzeci și opt din Kislev."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Patruzeci de zile.» Rashi a explicat: prima zi nu intră în socoteală, pentru că noaptea ei nu este cu ea, căci este scris: „în ziua aceasta, au țâșnit toate izvoarele”; și se găsește că cele patruzeci de zile s-au încheiat la 28 Kislev. Și nu mi se pare limpede, căci el însuși a scris la „o sută cincizeci de zile”: „și aceasta este întâi Sivan. Cum așa? La 27 Kislev au încetat ploile”. De aceea mi se pare că prima zi intră în socoteală, și ploile au început din seara nopții primei zile; căci din „în ziua aceasta” nu este nicio dovadă, de vreme ce în multe locuri „în ziua” și „în ziua aceasta” înseamnă din noaptea dinaintea ei, ca „în ziua a șaptea”, și tot așa „Să nu faceți nicio muncă în această zi anume”. Și după aceasta, cele patruzeci de zile s-au încheiat la 27 Kislev. Și așa am găsit în Seder ʿOlam, și acestea sunt cuvintele lui: „«În ziua aceasta au țâșnit toate izvoarele adâncului celui mare… Și a fost ploaie pe pământ». Până când? Până la 27 Kislev. «Și apele s-au învârtoșat… o sută cincizeci de zile». Până când? Până la întâi Sivan” etc. Și dacă este așa, fără voie el socotește că prima zi intră în socoteală."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a fost ploaie.» Cum a spus Dumnezeu, așa a fost: patruzeci de zile și patruzeci de nopți."
+   },
    {
     "author": "Zohar, Toldot 6:3",
     "text": "A zis Rabbi Yose: în ceasul acela în care e pregătit Sfântul, binecuvântat fie El, să învie morții, și iată sfârșitul tuturor (variantă: necazurilor / vechilor) adâncurilor (variantă: vechi) va fi în patruzeci. Și a decretat legământ (Deuteronomul 25:3): «patruzeci îl va lovi, nu va adăuga». Sfârșitul umblării lui Israel în pustie — în anul al patruzecilea. Patruzeci de ani înainte de învierea trupului așteaptă nishma pentru el în Țara lui Israel. În anul al patruzecilea se vor scula trupurile din țărână. În patruzeci e cuprinsă ploaia; acesta e ce e scris (Geneza 7:12): «și a fost ploaia pe pământ patruzeci de zile», și e scris (Geneza 8:6): «și a fost la capătul a patruzeci de zile și a deschis Noaḥ». Timpul răscumpărării lui Israel e în anul al patruzecilea. Și în cincizeci vine așezarea lumii, care e yovel. Întoarcerea nishmei la trup — în anul al patruzecilea, că a așteptat pentru el în Țara lui Israel. Acesta e ce e scris: «și a fost Yițḥak fiu de patruzeci de ani» — că a așteptat trupul. «Când a luat pe Rivqa» — la intrarea ei în trupul pregătit ei. În ceasul acela, la intrarea ei în el, nu e pofta lor și dorința lor decât să se desfăteze din zivul Șekhinei și să se hrănească din zivul ei; acesta e ce e scris (Cântarea cântărilor 1:2): «să mă sărute din sărutările gurii lui». A zis Rabbi Aba: «să mă sărute» — să mă hrănească, că nu e hrana lor decât să se desfăteze și să se hrănească din zivul de sus. A zis Rabbi Yose: sfârșitul versetului dovedește, că e scris (Cântarea cântărilor 1:2): «că bune sunt iubirile Tale mai presus de vin»."
@@ -1696,6 +1801,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Chiar în această zi.» Scriptura te învață că oamenii generației lui spuneau: Dacă îl vom vedea intrând în arcă, o vom sparge și îl vom ucide. A zis Sfântul, binecuvântat fie El: Eu îl voi face să intre sub ochii tuturor, și vom vedea al cui cuvânt va rămâne în picioare."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Chiar în această zi.» În ziua a șaptesprezecea a lunii, pe care a pomenit-o, chiar în ziua aceea a intrat în arcă. Dar iată, a spus mai sus că a intrat la începutul celor șapte; și cum spune acum că a intrat la sfârșitul celor șapte, care este 17 Marḥeșvan? Iar ce se pare de aici este că el a intrat la începutul celor șapte, cum îi poruncise Dumnezeu, cu toți cei care intrau în arcă, și a început să-și rânduiască locul de ședere și locul de ședere al celor care veneau cu el; iar în aceste șapte zile, omul, dobitocul și pasărea ieșeau și intrau și pășteau pe uscat, aproape de arcă, și între timp se răcoreau în aerul lumii; căci le ajungea să fie închiși în arcă zilele în care vor avea nevoie din pricina apelor potopului. Iar în ziua a șaptea, care era 17 Marḥeșvan, a intrat înainte de venirea ploii; și, de vreme ce au intrat toți și Noe a închis intrarea arcei și fereastra pe care o făcuse sus, apele potopului au venit chiar în ziua aceea."
    }
   ]
  },
@@ -1833,6 +1942,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Fiecare pasăre cu fiecare fel de aripă.» Este o construcție legată: pasăre a oricărui fel de aripă — ca să cuprindă și lăcustele. (Kanaf este cuvânt pentru „pană”, ca în „și să o despice cu aripile ei”, căci chiar și penele ei se aduc pe altar; și aici: pasăre de orice înfățișare a penelor.)"
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Ei… fiecare pasăre (kol ṣippor) cu fiecare fel de aripă (kol kanaf).» Iar „fiecare pasăre (kol ha-ʿof)”, pe care a spus-o, este un nume general pentru tot ce este viu și zboară; și a explicat mai departe și a spus kol ṣippor, și acesta este un nume general pentru toate păsările mari, curate și necurate; și a explicat mai departe și a spus kol kanaf, chiar și zburătoarele mici, ca soiurile de lăcuste, viespea, musca și cele asemenea lor. Iar explicația lui kol kanaf: tot ce are aripă; sau este un nume de însușire."
    }
   ]
  },
@@ -1938,7 +2051,16 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 6:20"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Au venit la Noe în arcă» Și sensul lui „Au venit la Noe în arcă” este a face cunoscut că nu s-au adunat deloc la el și n-au venit până chiar în acea zi în care a fost ploaia și a intrat el în arcă; căci Dumnezeu a poruncit, și duhul Lui le-a adunat într-o clipă."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Au venit… două câte două.» Perechi. Așa cum au venit la prima venire, așa au venit la a doua venire; niciunul dintre ele nu a lipsit, nici nu a plecat în pustie, nici nu s-a amestecat altul cu ele."
+   }
+  ]
  },
  {
   "num": 16,
@@ -2046,6 +2168,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și Domnul a închis arca în urma lui (beʿado).» L-a ocrotit, ca să nu o spargă: a înconjurat arca cu urși și lei, iar ei îi ucideau pe ei. Iar înțelesul simplu al versetului: a închis în fața lui dinspre ape. Și tot așa orice beʿad din Scriptură înseamnă „în fața, față de”: „pentru (beʿad) orice pântec”; „în urma ta (baʿadekh) și în urma fiilor tăi”; „piele pentru (beʿad) piele”; „scut în jurul meu (baʿadi)”; „roagă-te pentru (beʿad) slujitorii tăi” — față de slujitorii tăi."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și cele care au venit, parte bărbătească și parte femeiască.» Sensul lui: cele care au venit în arcă.<br><br>Iar sensul lui «și Domnul a închis arca în urma lui (beʿado)»: este spre laudă, căci închiderea în această vreme este mai bună decât deschiderea; iar în altă vreme este spre ocară: „închide peste un om”, „și Dumnezeu l-a îngrădit”; iar martorul este începutul versetului. Și iată, a închis ușa, iar Numele l-a ajutat ca să nu se deschidă niciun loc în arcă, căci îndată ar fi murit toți. Și deja s-a scris „și a fost ploaia pe pământ patruzeci de zile și patruzeci de nopți”; dacă așa, ce sens are „și a fost potopul pe pământ patruzeci de zile”? Și așa este explicația lui: când a fost potopul patruzeci de zile pe pământ, apele s-au înmulțit și au ridicat arca, și s-a înălțat de pe pământ; și acesta este un semn că până la patruzeci de zile nu s-a mișcat din locul ei."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Și cele care au venit – parte bărbătească și parte femeiască din tot ceea ce este viu – au venit» Și sensul lui „Și cele care au venit – parte bărbătească și parte femeiască din tot ceea ce este viu – au venit” este că cele care au venit înăuntrul arcei au fost parte bărbătească și parte femeiască, căci Noe le-a adus înăuntru așa; și de aceea a spus „așa cum îi poruncise Dumnezeu”, căci el avea poruncă să le aducă înăuntru. Iar părerea lui Rabbi Avraham este că „Și Noe – și fiii lui, și soția lui și soțiile fiilor lui împreună cu el – a venit în arcă” nu înseamnă că au intrat înăuntrul ei, ci că au venit toți la el în ziua a zecea a lunii a doua, căci casa lui era aproape de arcă; iar sensul lui „de dinaintea apelor potopului” este de frica apelor potopului; iar după cele șapte zile au fost apele potopului și s-au adunat toți în arcă și a închis ușa și fereastra. Și cuvintele lui nu sunt corecte. Și se poate ca „Și Noe a făcut întocmai cum îi poruncise Domnul. Și Noe avea șase sute de ani”, și versetele până la „În cel de-al șase sutelea an”, să nu povestească o faptă; ci „Și Noe a făcut întocmai cum îi poruncise” cuprinde toată chestiunea. Spune că a făcut întocmai cum i s-a poruncit, n-a lăsat să cadă niciun lucru din toată chestiunea: a făcut arca, a strâns hrana și a luat din dobitocul și din pasărea curate câte șapte în ziua în care i-a poruncit. Și când a avut șase sute de ani și potopul a coborât pe pământ, a venit cu casa lui și cu dobitoacele curate și cu toată făptura vie în arcă, așa cum îi poruncise Dumnezeu. Iar după aceea a povestit fapta: „Și a fost, după cele șapte zile”, „În cel de-al șase sutelea an”, și a încheiat chestiunea."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Așa cum îi poruncise Dumnezeu.» Să așeze fiecare soi în încăperea lui.<br><br>«Și Domnul a închis arca în urma lui.» L-a ocrotit, ca să nu se deschidă în arcă nici măcar o gaură, de tăria ploilor multe, care au fost patruzeci de zile."
    }
   ]
  },
@@ -2222,6 +2356,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și ea s-a înălțat de pe pământ.» Era cufundată în ape unsprezece coți, ca o corabie încărcată, care este cufundată în parte în apă; iar versetele următoare o vor dovedi."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Potopul a fost patruzeci de zile.» Zi și noapte, cum a pomenit; iar noaptea este cuprinsă în zi, ca: „Și a fost seară și a fost dimineață: o zi” și cele asemenea lui.<br><br>«Apele au crescut.» Și când s-au înmulțit apele, care au fost patruzeci de zile, și apele izvoarelor, care s-au învârtoșat și ele, au avut putere să ridice arca, astfel încât să plutească pe fața apelor; căci până ce nu s-au învârtoșat apele era grea și nu se putea înălța de pe pământ, până ce s-au înmulțit și au ridicat arca, și a plutit pe fața apelor."
    }
   ]
  },
@@ -2345,6 +2483,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și apele s-au învârtoșat.» De la sine."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Și apele s-au învârtoșat» Și sensul lui „Și apele s-au învârtoșat (wa-yigberu)”, „și apele s-au învârtoșat (gaveru)”: că s-au înmulțit foarte mult; căci pentru înmulțirea mare limba folosește cuvântul gevura („putere”). Și tot așa „și fărădelegile lor, că s-au înmulțit (yitgabbaru)”: s-au înmulțit foarte mult; „mare (gavar) este îndurarea Lui față de cei ce se tem de El”: s-a mărit; și tot așa „iar dacă sunt în putere (bi-gvurot), optzeci de ani”: într-o înmulțire mare. Și se poate ca sensul lui wa-yigberu să fie că veneau năvalnic și dezrădăcinau copacii și surpau clădirile; căci puterii (koaḥ) i se spune gevura, pentru că puterea stă în tărie. Și tot așa „chiar s-au întărit (gaveru) în putere”; „și va întări (we-higbir) legământul pentru cei mulți o săptămână”: îl va statornici în tărie. Iar limbajul înțelepților: „puterea (gevurat) ploilor”, pentru că ele coboară cu putere. Și se poate ca de aici să fie și „iar dacă sunt în putere (bi-gvurot), optzeci de ani”: că dacă oasele și trupul lui au fost tari și el este un om puternic, va trăi optzeci. Și dacă este așa, explicația lui „s-au învârtoșat pe pământ” va fi că erau toate în puterea lor, chiar și asupra munților înalți, și îi spălau."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și arca a plutit.» Prin împingerea revărsării care venea de jos."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și apele s-au învârtoșat.» Acest verset vine să adauge la înmulțirea apelor, căci „s-au învârtoșat” este mai mult decât „au crescut”; și a spus „s-au învârtoșat” după „au crescut” ca să facă cunoscut că învârtoșarea era în mulțime, nu doar în tărie. Și la început apele au ridicat-o de pe pământ; când apele s-au învârtoșat mai mult, au purtat-o încoace și încolo."
    }
   ]
  },
@@ -2495,6 +2645,14 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Foarte mult (meʾod meʾod).» De două ori, căci nu este ceva mai mult decât el. Și tot așa: după ce a spus „și toți munții cei înalți au fost acoperiți”, de ce au spus „și munții au fost acoperiți”? Și așa este explicația: orice munte înalt a fost acoperit de ape, iar cu cincisprezece coți au fost acoperiți munții pomeniți. Iar noi credem cuvintele Dumnezeului nostru și lăsăm deșertăciunile oamenilor, care spun despre un munte înalt că este în împărăția Greciei."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și apele s-au învârtoșat.» Și acesta vine să adauge mai mult; de aceea a spus „foarte mult (meʾod meʾod)”. Și sunt aici două înmulțiri: căci întâi a spus „au crescut”, și a spus meʾod împreună cu „au crescut”; iar în acest verset a spus meʾod împreună cu „s-au învârtoșat”, iar învârtoșarea este mai mult decât creșterea; și a mai spus meʾod meʾod, ca să adauge și mai mult adaosul: că au fost acoperiți toți munții cei înalți."
+   },
+   {
     "author": "Zohar, Bereșit 20:6",
     "text": "Giborim (vitejii), al treilea fel: despre ei s-a spus: „aceștia sunt vitejii” etc. „oamenii cu nume”. Și ei sunt din partea acelora despre care s-a spus (Geneza 11:4): „Haidem să ne zidim o cetate și să ne facem un nume.” Și zidesc sinagogi și case de învățătură și pun în ele un sul al Torei și o coroană pe capul lui, și nu pentru Numele Domnului, ci ca să-și facă un nume. Aceasta este ceea ce este scris: „și să ne facem un nume.” Și partea cealaltă se întărește asupra lui Israel, care sunt ca țărâna pământului, și îi jefuiesc, și lucrarea se strică. Și despre ei s-a spus (Geneza 7:19): „Și apele au crescut foarte, foarte mult peste pământ.”"
    },
@@ -2610,6 +2768,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Cincisprezece coți deasupra.» Deasupra înălțimii tuturor munților, după ce apele au ajuns la nivelul vârfurilor munților."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Cincisprezece.» A explicat cât s-au înălțat apele deasupra munților; și a mai spus „și munții au fost acoperiți”, adică chiar și cei înalți dintre ei, cam cincisprezece coți deasupra."
    }
   ]
  },
@@ -2743,7 +2905,16 @@ window.CHAPTER_DATA = [
   "refs": [
    "Iov 22:15-17"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar explicația lui «și s-a stins (wa-yyigwaʿ)»: și deja se stinsese; și sunt multe în Tora, ca „și m-am rugat”; și tot așa „și a plouat peste ei mană”, după explicația cea adevărată.<br><br>Iar cuvântul wa-yyigwaʿ este moarte; și la explicația lui „și și-a dat duhul și a murit” îți voi lămuri aceasta. Și iată, îți este limpede că cuvântul remeś („care mișună”) este general pentru pasăre, pentru dobitoc, pentru sălbăticiune, pentru târâtoarea care este mică, și pentru om. Și se poate ca „tot ce avea suflare de duh de viață în nări” să se întoarcă la om, căci n-am găsit nešamah („suflare”) afară de suflarea omului. Și mulți au spus că se numește așa pentru că este din ceruri (šamayim); iar dacă sunt două rădăcini, se găsește ca el."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și s-a stins» etc. «Și toți oamenii.» A spus „și toți oamenii” la urmă, adică: chiar și omul, care are minte și iscusință ca să se păzească de rău; și chiar dacă ar fi urcat pe munții cei înalți, nu le-ar fi folosit iscusința lor, căci apele s-au învârtoșat cincisprezece coți deasupra munților. Și a spus „toți”, că apele i-au acoperit chiar și pe uriași, care se ridicaseră pe munții cei înalți, și s-au înecat în ele. Iar stingerea (gviʿah) este moarte repede, fără nicio zăbavă; și așa este cel care se îneacă în ape."
+   }
+  ]
  },
  {
   "num": 22,
@@ -2837,6 +3008,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Suflare de viață (nișmat ruaḥ ḥayyim).» Suflarea unui duh de viață.<br><br>«Din tot ceea ce era pe uscat.» Dar nu peștii care sunt în mare."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Tot ce avea suflare de viață (nišmat ruaḥ ḥayyim) în nări.» Amândouă, nišmat și ruaḥ, sunt în starea construită, ca și cum ar fi spus nišmat ḥayyim și ruaḥ ḥayyim; și la fel, construit după construit: „aleșii și cei mai buni ai Libanului”, „numărul recensământului poporului”, „râurile, pâraiele de miere și de smântână” și cele asemenea lor. Și a spus nišmat ḥayyim despre om, iar ruaḥ ḥayyim despre celelalte vietăți; căci nešamah nu o spune decât despre om.<br><br>«Pe uscat.» Dar peștii din mare nu au murit; căci în ape este creșterea lor, și, mai mult, nu sunt cu omul pe uscat, ca să moară din pricina lui. Iar ce a spus despre pustiirea țării: „și chiar și peștii mării vor pieri”, și a mai spus: „voi nimici păsările cerului și peștii mării” – acolo s-a spus în chip de exagerare; sau, chiar dacă lucrul ar fi fost după înțelesul lui, acolo vorbește despre o țară anume; și, dacă au murit peștii din acea mare care este aproape de acea țară, nu au murit în alte mări, și nu a pierit acel soi; dar la potop, care a fost pustiirea întregului pământ, dacă ar fi murit toți peștii care erau în toate mările, iată, acel soi ar fi pierit din lume. Iar Dumnezeu, binecuvântat fie El, nu a găsit cu cale să strice toată lumea și să o întoarcă la haos și pustiu, nici să creeze o lume nouă; căci iată, a lăsat din fiecare soi și a spus să le țină în viață cu Noe în arcă; iar pentru pești nu era cale să fie ținuți în viață și să fie lăsați din ei cu Noe în arcă, căci nu trăiesc decât în ape. «A șters (va-yimaḥ).» Din conjugarea simplă, din maḥah, după forma lui „Și Domnul S-a îndreptat (va-yišaʿ)”, din šaʿah; și este verb tranzitiv; iar explicația: că Dumnezeu a șters cu apele potopului tot ce exista."
    },
    {
     "author": "Zohar, Vaigaș 2:9",
@@ -2953,6 +3128,26 @@ window.CHAPTER_DATA = [
     "text": "«Și a șters (va-yimaḥ).» Este o formă de „și a făcut”, și nu de „și a fost făcut”; și este din aceeași categorie ca va-yifen, va-yiven: orice cuvânt care se termină în he, ca banah, maḥah, qanah, când i se pune vav și yod la început, este vocalizat cu ḥiriq sub yod.<br><br>«Nu a rămas decât (akh) Noe.» Numai Noe; acesta este înțelesul simplu. Iar midrașul: gemea și scuipa sânge de trudă pentru animale și fiare. Și unii spun că a întârziat cu hrana leului, și acesta l-a mușcat; și despre el s-a spus: „Iată, dreptul este răsplătit pe pământ”."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Au fost șterse de pe pământ.» Le-a fost șters numele de pe pământ, căci nu au sămânță; și a rămas doar Noe singur și cei care erau cu el. Și iată, acesta este un răspuns desăvârșit pentru cei lipsiți de cunoaștere dintre frații noștri, care spun că potopul n-a fost pe tot pământul."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Și a șters Dumnezeu tot ce exista pe fața pământului» După ce a spus „Și s-a stins toată firea” și a spus „din tot ceea ce era pe uscat a murit”, a adăugat să spună „Și a șters”: că trupurile au fost șterse și au devenit apă, după chestiunea lui „și să le șteargă în apele amare”; căci apele erau clocotite, după cuvintele învățătorilor noștri. Dar, dacă este așa, peștii ar fi murit. Și poate a fost cum au spus în Bereșit Rabba: „din tot ceea ce era pe uscat” – nu și peștii din mare; iar unii spun: și ei erau cuprinși în cei care piereau, numai că au fugit în Ocean; și în orice caz peștii au fost salvați. Și amândouă aceste păreri sunt cu putință: căci se poate ca apele clocotite ale potopului să se fi amestecat în mări și să fi încălzit numai partea de sus a mării, iar peștii să fi coborât în adâncurile adâncimilor și să fi trăit acolo; sau, după cuvintele celor care spun, că peștii din mările dinăuntrul uscatului, care erau aproape de Ocean, au fugit acolo când au simțit clocotirea apelor și au fost salvați de ele acolo. Și chiar dacă ar fi murit toți, iată, cea mai mare parte a peștilor este în Ocean, iar acolo potopul nu a coborât, cum s-a spus: „Și a fost ploaie pe pământ”; și de acolo s-au întors peștii după potop, căci din mare ies toate mările și acolo se întorc ele să meargă. Și pe scurt, peștii au fost salvați, căci iată, n-a intrat niciunul dintre ei în arcă ca să li se țină în viață sămânța; și s-a spus la legământ: „Iar Eu, iată-Mă, statornicesc legământul Meu cu voi … și cu fiecare vietate care este cu voi – din păsări, din dobitoace și din toate sălbăticiunile pământului care sunt cu voi – din toate care au ieșit din arcă”, și n-a amintit peștii mării.<br><br>«au fost șterse de pe pământ» Au explicat repetiția ca să spună că s-a uitat amintirea lor, căci nu mai au sămânță. Dar ce nevoie este să se spună aceasta, după ce muriseră toți? Poate din pricina păsărilor și a unor târâtoare: ca să spună că nu le-au rămas ouă în vreun copac sau sub pământ, căci toate au fost șterse. Și se poate ca înțelesul versetului să fie: „Și a șters tot ce exista pe fața pământului”, căci de la om la animal, la târâtoare și la păsările cerurilor, au fost șterse de pe pământ și nu a rămas decât Noe. Iar învățătorii noștri au tâlcuit: „Și a șters” – în lumea aceasta; „au fost șterse de pe pământ” – din lumea ce va veni. Au făcut pământul amintit aici „pământul celor vii”; și am făcut deja aluzie la taina lui."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și a șters tot ce exista.» Din viețuitoare, nu ierburi și plante, cum a lămurit spunând: «de la om la animal, la târâtoare și la păsările cerurilor».<br><br>«Au fost șterse de pe pământ.» Nume și rămășiță, odraslă și urmaș."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Și nu a rămas decât Noe (ak Noaḥ).» Se găsește în numele lui Rabbi Yehuda he-Ḥasid: de aici este o aluzie la Og, care a scăpat din potop: ak Noaḥ are valoarea numerică a lui Og."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Au fost șterse de pe pământ.» A spus „au fost șterse” după ce a spus „a șters”, din pricina omului; adică au fost șterse cu totul, încât nu a rămas din ei nicio amintire și nicio clădire pe care o construiseră, ca să se spună după potop: această clădire a construit-o cutare, care a murit în potop; căci totul a fost șters în apele potopului; nu a rămas decât Noe și cei care erau cu el. Iar învățătorii noștri, binecuvântată fie amintirea lor, au tâlcuit: „«a șters» – în lumea aceasta; «au fost șterse de pe pământ» – pentru lumea care va veni”."
+   },
+   {
     "author": "Talmudul Babilonian, Eruvin 18a:19",
     "text": "Ci la potop, căci este scris: „Și a șters tot ce exista pe fața pământului – de la om la animal” și celelalte."
    }
@@ -3046,6 +3241,19 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 8:3"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și apele s-au învârtoșat… o sută cincizeci de zile.» Pentru că izvoarele țâșniseră; și era și ploaie, care cădea o zi și se oprea o zi; căci explicația lui „Eu voi trimite ploaie (amṭir)” este „necontenit, fără oprire”; iar martorul este că a spus: „și ploaia a fost oprită”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și apele s-au învârtoșat etc. o sută cincizeci de zile.» Din ziua începerii ploii s-au învârtoșat până la împlinirea a o sută cincizeci de zile; de la începutul ploii, care a fost în a șaptesprezecea zi a lunii a doua, și s-au împlinit în a șaptesprezecea zi a lunii a șaptea, căci cele o sută cincizeci de zile au fost cinci luni întregi; și atunci s-a oprit arca, căci nu mai era nicio revărsare care s-o împingă. Căci, într-adevăr, din ziua începerii ploii a început revărsarea de jos, cum a spus: „s-au rupt toate izvoarele adâncului celui mare”; însă arca nu a început să meargă pe fața apelor până ce apele nu au fost atât de înalte încât arca să se ridice deasupra pământului. Și când s-au împlinit zilele ploii, a rămas doar revărsarea de jos, care a continuat până la împlinirea a o sută cincizeci de zile; și atunci, când s-a potolit revărsarea care împingea arca, arca s-a oprit."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și apele s-au învârtoșat.» A povestit cât a fost învârtoșarea apelor; și au fost o sută cincizeci de zile. Iar toate acestea, lucrurile povestite, Moise, învățătorul nostru, pacea fie asupra lui, le-a știut prin duhul sfințeniei; nu că Noe ar fi știut câte zile s-au învârtoșat apele și le-ar fi transmis generațiilor care au venit; deși a știut suma celor patruzeci, când s-au împlinit zilele ploii, (deși) pentru că a crezut în Dumnezeu, care i-a spus: „Eu voi trimite ploaie pe pământ patruzeci de zile și patruzeci de nopți”, iar el a simțit ziua în care s-au împlinit zilele ploii, căci, când cădeau pe arcă, într-adevăr le simțea. Dar avem de întrebat cum a știut numărul zilelor, căci iată, nu era nici zi, nici noapte; și chiar dacă ar fi fost, el nu vedea și nu știa înăuntrul arcei, căci era toată închisă; și cum a știut patruzeci de zile pentru scăderea apelor și de trei ori câte șapte zile, când a trimis corbul și porumbelul? Și avem de spus că Noe era înțelept în știința astrelor și a măsurii și și-a pregătit uneltele pentru orele zilei și ale nopții, cum fac meșterii acelei arte, și știu prin ele orele zilei și ale nopții, chiar dacă nu văd soarele și stelele. Și, într-adevăr, avea înăuntrul arcei candele aprinse, aprinse zi și noapte, și la lumina lor făcea ce trebuia să facă și hrănea sălbăticiunile, dobitoacele și păsările. Iar aceste o sută cincizeci de zile au fost după cele patruzeci; și iată, cele patruzeci s-au împlinit la 29 Kislev, căci de la 17 Marḥeșvan până la 29 Kislev sunt patruzeci de zile; iar cele o sută cincizeci de zile s-au împlinit la 1 Sivan, căci de la 29 Kislev până la 1 Sivan sunt o sută cincizeci de zile, care sunt cinci luni după lunile soarelui, fiecare lună de treizeci de zile."
+   }
+  ]
  }
 ];

@@ -620,6 +620,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "«Că Iosif îi înțelegea (šomeaʿ).» Înțelegea.<br><br>«Căci.» Până acum.<br><br>«Între ei era tălmaciul.» Ca și cum n-ar fi înțeles limba lor."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Căci între ei era tălmaciul»: l-am explicat."
    }
   ]
  },
@@ -813,6 +817,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Și pentru foametea caselor voastre.» Nevoia."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și pentru foametea caselor voastre»: adică „și grânele pentru foametea caselor voastre”, cum l-am explicat."
    }
   ]
  },

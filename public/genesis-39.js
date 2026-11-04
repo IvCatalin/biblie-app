@@ -202,6 +202,10 @@ window.CHAPTER_DATA = [
     "text": "«El a refuzat și i-a spus soției stăpânului său» Scriptura a povestit că a refuzat să facă voia ei, deși ea era stăpâna lui, soția stăpânului său, iar el se temea de ea; căci de Numele se temea mai mult; și acesta este sensul lui „soției stăpânului său”."
    },
    {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«El a refuzat»: este lămurit."
+   },
+   {
     "author": "Talmudul Babilonian, Avoda Zara 3a:8",
     "text": "Le-a spus Sfântul, binecuvântat fie El: Dintre voi să vină și să mărturisească despre Israel că au împlinit Tora întreagă. Să vină Nimrod și să mărturisească despre Avraam că n-a slujit ʿavodah zarah; să vină Laban și să mărturisească despre Iacov că n-a fost bănuit de jaf; să vină soția lui Poti-Fera și să mărturisească despre Iosif că n-a fost bănuit de păcat."
    }

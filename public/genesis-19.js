@@ -247,6 +247,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Cei doi (șene).» Unul ca să distrugă Sodoma și unul ca să-l salveze pe Lot; și acesta este același care venise să-l vindece pe Avraam. Iar al treilea, care venise s-o vestească pe Sara, de îndată ce și-a făcut solia, a plecat.<br><br>«Îngeri.» Iar mai sus i-a numit „oameni”? Când Prezența (Șechina) era cu ei, i-a numit oameni. Altă explicație: la Avraam, a cărui putere era mare și la care îngerii erau obișnuiți ca oamenii, i-a numit oameni; iar la Lot i-a numit îngeri.<br><br>«Seara.» Oare atât de mult au zăbovit îngerii de la Hebron la Sodoma? Ci erau îngeri ai îndurării și așteptau: poate va putea Avraam să găsească apărare pentru ei.<br><br>«Iar Lot stătea (yoșev) la poarta Sodomei.» Este scris yașav: în ziua aceea îl numiseră judecător peste ei.<br><br>«Lot a văzut etc.» Din casa lui Avraam învățase să caute oaspeți."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar explicația lui «seara»: la Pesahul din Egipt („Mițrayim”).<br><br>«Cu fața (appayim).» Până când și-a pus nasul (appav) la pământ; și acestea sunt nările, care sunt înalte pe față."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Cei doi îngeri au ajuns la Sodoma seara.» Deși au ajuns acolo fără întârziere, cum au spus: „Gabriel în două, Mihail într-unul”, și tot așa a arătat mai sus spunând „și au mers către Sodoma”, oricum nu au intrat în Sodoma până seara, când deja se încheiaseră argumentele lui Avraam, apărătorul, și se încheiase judecata.<br><br>«S-a ridicat să-i întâmpine.» Ca nu cumva să înnopteze în piață, cum era obiceiul atunci în celelalte cetăți, când nu era cineva care să primească oaspeți, iar cei răi ai cetății să le facă rău.<br><br>«Și s-a prosternat cu fața la pământ.» Căci înfățișarea lor era fără îndoială înfricoșătoare."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Cei doi îngeri au ajuns la Sodoma etc.» El le-a spus: de ce ați venit? I-au spus: „Căci suntem pe cale să distrugem”; căci au zis în inima lor: dacă îi vom spune lui Lot „ieși din loc” și nu-i vom dezvălui motivul, nu ne va asculta. Și pentru că au dezvăluit tainele Sfântului, binecuvântat fie El, Cel binecuvântat i-a judecat și au fost alungați din incinta Lui o sută treizeci și opt de ani, deși intenția lor era spre bine; căci îngerii sunt judecați pentru un lucru ușor, din pricina înțelepciunii prisositoare din ei; cum găsim la Mețațron: „l-au scos afară și l-au lovit cu șaizeci de bice de foc”, pentru că știa ce este în inima omului etc. Iar rabinul Rabbi Yehuda he-Ḥasid a spus motivul pentru care sus se dau șaizeci de lovituri, iar tribunalul de jos dă patruzeci fără una: pentru că jos se pedepsește de la vârsta de treisprezece ani, și se dau patruzeci fără una, de trei ori treisprezece; iar sus nu se pedepsește decât de la vârsta de douăzeci de ani, și de aceea se dau șaizeci, care sunt de trei ori douăzeci."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Cei doi îngeri au ajuns»: ei sunt cei doi oameni pe care i-a pomenit. Și au spus învățătorii noștri, binecuvântată fie amintirea lor: de ce îi numește oameni la Avraam și îngeri la Lot? Și au spus: Avraam, a cărui putere era bună etc., și cum am scris și am explicat mai sus.<br><br>«Lot a văzut, s-a ridicat să-i întâmpine»: a învățat găzduirea de la Avraam, părintele nostru."
    }
   ]
  },
@@ -494,6 +510,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Iată, domnii mei (hinneh na adonai).» Iată, voi sunteți domni pentru mine, de vreme ce ați trecut pe la mine. Altă explicație: iată, trebuie să luați aminte la acești răi, ca să nu vă recunoască; și acesta este un sfat bun.<br><br>«Abateți-vă, vă rog.» Ocoliți drumul spre casa mea, pe un drum întortocheat, ca să nu se cunoască că intrați acolo; de aceea s-a spus „abateți-vă”.<br><br>«Înnoptați și spălați-vă picioarele.» Oare obiceiul oamenilor este să înnopteze întâi și după aceea să se spele? Și, în plus, iată, Avraam le zisese întâi „spălați-vă picioarele”? Ci așa a zis Lot: dacă, atunci când vor veni oamenii Sodomei, vor vedea că și-au spălat deja picioarele, vor aduce învinuiri împotriva mea și vor zice: Au trecut deja două sau trei zile de când au venit în casa ta și nu ne-ai făcut cunoscut. De aceea a zis: mai bine să zăbovească aici cu praful picioarelor lor, ca să pară că au venit acum. De aceea a zis: înnoptați întâi, și după aceea spălați-vă.<br><br>«Iar ei au spus: Nu.» Iar lui Avraam i-au zis „așa să faci”. De aici, că se refuză celui mic, dar nu se refuză celui mare.<br><br>«Ci (ki) pe stradă vom înnopta.» Iată, ki slujește în sensul „ci”, căci au zis: Nu ne vom abate spre casa ta, ci în piața orașului vom înnopta."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Iată, domnii mei (adonai).» „Domnii mei (rabbotai)”, vorbire profană. Iar când vei găsi cuvântul sur („abate-te”) și după el mem, este după sensul lui; iar dacă după el vine el („spre”), cu alef vocalizat cu pataḥ mic, sensul lui este că se abate din locul lui și merge la cel care cheamă sau la locul spre care este chemat, ca „abate-te la mine”.<br><br>«Iar ei au spus: Nu.» Dacă nu ne vei sili; iar acest cuvânt (wa-yifṣar) înseamnă mulțime de cuvinte, cu sensul de împăciuiri; și tot așa „și nelegiuirea și terafimii sunt încăpățânarea (hafṣar)”."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Iată, domnii mei» Cuvintele lui Rashi: „Iată, voi sunteți stăpâni pentru mine, după ce ați trecut pe la mine”. Dar ce este corect este că este o expresie de rugăminte: Domnii mei, iată, vă rog, casa slujitorului vostru; abateți-vă, vă rog, la mine. Iar cuvântul „abateți-vă” (suru) este ca „abate-te, șezi aici”, „Abate-te, domnul meu, abate-te la mine, nu te teme”.<br><br>«apoi treziți-vă devreme și mergeți pe drumul vostru» Iar sensul lui „apoi treziți-vă devreme și mergeți pe drumul vostru” este să le spună să nu zăbovească în cetate după dimineață, căci știa de chestiunea oamenilor cetății și de răutatea lor, dar socotea că în lumina dimineții o vor face; sau i-a văzut ca pe niște călători, care nu vor zăbovi în cetate, și a spus „apoi treziți-vă devreme și mergeți pe drumul vostru”, dacă vreți."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Nu, ci pe stradă vom înnopta (ki ba-reḥov nalin).» Ci pe stradă vom înnopta."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iată» (hinneh na): segol, din pricina dageșului din nun.<br><br>«Domnii mei» (adonay), cu pataḥ, expresie profană; căci socotea că sunt oameni mari, iar înfățișarea lor era înfricoșătoare, încât i s-au părut de la început îngeri; iar dacă este în viziune, este după sensul lui simplu.<br><br>«Înnoptați»: de înnoptare aveau nevoie, căci veniseră seara.<br><br>«Și spălați-vă» (we-raḥaṣu): reș-ul cu pataḥ, căci este imperativ; și explicația lui este cum am explicat la Avraam. Iar spălarea picioarelor este ceea ce se pregătește oaspetelui mai întâi; și nu le-a spus despre mâncare și despre culcare.<br><br>«Apoi treziți-vă devreme»: și dacă vreți, vă veți trezi devreme și veți merge pe drumul vostru, cum le-a spus Avraam: „apoi veți trece mai departe”.<br><br>«Iar ei au spus: „Nu”»: de aici au învățat învățătorii noștri, binecuvântată fie amintirea lor: nu se refuză celui mare; căci iată, lui Avraam i-au spus: „Așa să faci, precum ai vorbit”.<br><br>«Ci pe stradă vom înnopta»: în piața orașului, și nu vom fi găzduiți la vreun om din oraș."
    }
   ]
  },
@@ -645,6 +677,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și ei s-au abătut către el.» Au ocolit drumul spre casa lui.<br><br>«Și a copt azime.» Era Pesaḥ."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«El a insistat mult pe lângă ei» Lot a avut merit prin insistența lui pe lângă ei, și avea o dorință bună în primirea oaspeților; iar ei refuzau, ca să-i dea merit; și de aceea l-au ascultat la sfârșit; căci la început nu voiau să vină în casa lui, pentru că nu este un drept desăvârșit. Iar învățătorii noștri au spus: „Se refuză celui mic, dar nu se refuză celui mare”; și dacă este așa, va fi după calea bunei-cuviințe a oamenilor."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Un ospăț (mišteh).» Un ospăț statornic cu vin, fiindcă vinul îi era drag, cum a dovedit sfârșitul lui despre începutul lui. Dar Avraam nu a făcut ospăț decât în ziua în care a fost înțărcat Isaac, pentru cei mari ai generației, care erau obișnuiți cu aceasta la vremea bucuriei lor, cum au spus înțelepții noștri, binecuvântată fie amintirea lor: „Înaintea celor care beau vin – vin.”"
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«El a insistat mult pe lângă ei»: le-a spus multe cuvinte și rugăminți, până ce s-au abătut către el și au venit cu el în casa lui. Iar Onkelos a tradus „și a stăruit cu putere asupra lor”, adică i-a ținut până ce s-au abătut către el, în casa lui.<br><br>«Și el a făcut un ospăț pentru ei»: pentru că era noapte, nu avea răgaz să taie și să pregătească mâncăruri, ci le-a făcut un ospăț și le-a copt azime, ca să nu aștepte până ce dospește aluatul; și ce a putut pregăti repede a pregătit. Și aceasta este din buna purtare: să pregătească oaspetelui care vine ceea ce poate pregăti repede, căci el este obosit și are nevoie să mănânce și să bea; de aceea a fost scrisă această povestire.<br><br>«Și au mâncat»: dacă în viziune, este după sensul lui simplu; iar dacă în stare de veghe și în mod simțit, i s-a părut că au mâncat și au băut, căci mâncarea și băutura cea compusă s-a întors simplă, fiecare lucru la elementul lui dintâi; și aceasta este ca o faptă de minune."
    }
   ]
  },
@@ -838,6 +882,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Nu se culcaseră încă și oamenii orașului, oamenii Sodomei.» Așa este tâlcuit în Bereșit Rabba: „nu se culcaseră încă”, iar „oamenii orașului” erau în gura îngerilor: căci îl întrebau pe Lot ce fel sunt ei și faptele lor, iar el le spunea: cei mai mulți sunt răi. Încă vorbeau despre ei, și „oamenii Sodomei” etc. Iar înțelesul simplu al versetului: și oamenii orașului, oameni ai răutății, au înconjurat casa; pentru că erau răi, sunt numiți „oamenii Sodomei”, cum a spus Scriptura: „Iar oamenii Sodomei erau foarte răi și păcătoși”.<br><br>«Tot poporul din toate colțurile (mi-qaṣeh).» De la un capăt al orașului până la celălalt capăt; căci niciunul dintre ei nu i-a oprit, căci nici măcar un singur drept nu era printre ei."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«S-au adunat în jurul (nasabbu).» Din conjugarea nifal.<br><br>«Tot poporul din toate colțurile.» Cei care nu erau aproape de casă."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Tot poporul din toate colțurile.» Ca să facă cunoscut că nici măcar unul din cei zece despre care a vorbit Avraam nu s-a aflat între ei."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Oamenii orașului, oamenii Sodomei»: a spus „oamenii Sodomei” după ce a spus „oamenii orașului”, și era cunoscut că orașul în care veniseră este Sodoma? Ci vrea să spună: au arătat prin faptele lor că erau oameni ai Sodomei, despre care s-a spus: „Iar oamenii Sodomei erau foarte răi și păcătoși față de Domnul”.<br><br>«De la tânăr la bătrân»: bătrânii erau răi ca tinerii și flăcăii, și toți au venit la casa lui Lot. «Din toate colțurile» (mi-qaṣeh): ale orașului; căci, din mulțimea răutății lor, au tăiat drumul din locul lor, încât niciun oaspete nu trecea pe la ei; și acum, că au venit la el, era un lucru nou pentru ei și era rău în ochii lor, încât s-a adunat tot orașul ca să le facă rău. Și aceasta este din marea uimire a mulțimii răutății lor, până unde a ajuns răutatea lor; și a fost scris toate acestea ca oamenii lumii să recunoască dreaptă judecata asupra lor."
    }
   ]
  },
@@ -990,6 +1046,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Ca să-i cunoaștem.» Prin împreunare bărbătească, ca în „care nu au cunoscut bărbat”."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Ca să-i cunoaștem.» Eufemism pentru culcare."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«ca să-i cunoaștem» Intenția lor era să stârpească piciorul dintre ei, după cuvintele învățătorilor noștri; căci socoteau că, pentru bunătatea țării lor, care este ca grădina Domnului, vor veni acolo mulți, iar ei urau milostenia. Dar Lot, prin bogăția și averea lui, a venit la ei; sau le-a cerut voie, sau l-au primit pentru cinstea lui Avraam. Iar Scriptura mărturisește că aceasta era intenția lor, căci s-a spus: „Iată, aceasta a fost nelegiuirea Sodomei, sora ta: trufie, belșug de pâine și liniște tihnită avea ea și fiicele ei, dar mâna săracului și a nevoiașului n-a întărit-o”; iar ce a spus: „foarte răi și păcătoși față de Domnul” este că Îl mâniau și se răzvrăteau în tihna lor și în asuprirea nevoiașilor; și aceasta este ce a spus: „Și s-au trufit și au făcut urâciune înaintea Mea, și le-am îndepărtat când am văzut”. Iar după părerea învățătorilor noștri, erau în ei toate năravurile rele; dar judecata lor a fost pecetluită pentru acea nelegiuire, pentru că n-au întărit mâna săracului și a nevoiașului, căci erau statornici în acea nelegiuire mai mult decât în toate; și de asemenea, deși toate popoarele fac milostenii cu semenii lor și cu săracii lor, n-a fost între toate neamurile ca Sodoma în cruzime. Și să știi că judecata Sodomei a fost pentru înălțimea Țării lui Israel, căci ea este parte din moștenirea Domnului și nu suferă oameni ai urâciunilor; și, după cum va vărsa întregul neam din pricina urâciunilor lor, a luat-o înainte și a vărsat acest popor, care erau mai răi decât toți față de Cer și față de făpturi; iar cerurile și pământul s-au pustiit din pricina lor, și țara a fost nimicită fără vindecare pe veci, pentru că s-au trufit din pricina bunătății ei; iar Cel Sfânt, binecuvântat fie El, a văzut ca aceasta să fie un semn pentru fiii răzvrătirii, pentru Israel, care urmau s-o moștenească, cum i-a avertizat: „Pucioasă și sare, vâlvătaie în toată țara… ca prăpădul Sodomei și Gomorei, al Adma și Țeboimului, pe care Domnul le-a prăpădit în furia Sa și în mânia Sa”; căci sunt între popoare unii foarte răi și păcătoși, și nu le-a făcut așa; ci totul a fost pentru înălțimea acestei țări, căci acolo este Templul Domnului. Și voi mai lămuri aceasta în pericopa Aḥare Mot, dacă mă va ține în viață Cel care omoară și dă viață."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Ca să-i cunoaștem.» Culcare cu bărbat. Și tot așa la concubina din Ghiva."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Ca să-i cunoaștem»: cine sunt, și cum nu s-au temut să vină în orașul nostru, oameni bărbați; vrea să spună că au zis să-i omoare; ca „ca să-l cunoaștem” de la concubina din Ghibeea, și cum a spus omul când a povestit fapta: „pe mine s-au gândit să mă omoare”. Și unii explică cunoașterea ca culcare cu un bărbat."
    }
   ]
  },
@@ -1092,7 +1164,16 @@ window.CHAPTER_DATA = [
   "refs": [
    "Judecători 19:23"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«La intrare (ha-pitḥah).» La intrare (el ha-petaḥ). Tav din delet („ușă”) este semn de feminin, și se găsește și lipsind."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«A închis ușa în spatele lui»: a închis zăvorul care era înăuntru; sau Lot a închis pe dinafară."
+   }
+  ]
  },
  {
   "num": 7,
@@ -1180,7 +1261,12 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 29:4"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Vă rog» (al na): vă rog, nu le faceți rău acestor oameni, căci voi sunteți frații mei și vecinii mei, și pentru cinstea mea lăsați-i."
+   }
+  ]
  },
  {
   "num": 8,
@@ -1402,8 +1488,24 @@ window.CHAPTER_DATA = [
     "text": "«Acelor (ha-el).» Ca ha-elleh („acestor”).<br><br>«Căci de aceea au venit.» Căci acest bine să-l faceți spre cinstea mea, pentru că au venit sub umbra acoperișului meu. Targumul: „sub umbra grinzii mele”; traducerea aramaică a cuvântului qorah („grindă”) este șaruta."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Care nu au cunoscut (yadʿu) bărbat.» Pluralul masculin și cel feminin, la verbul la trecut, sunt la fel, fără adăugire, cu waw.<br><br>«Acelor (ha-el).» Ca ha-elleh; iar Gaonul a spus că a zis așa din pricina celui de-al treilea, care nu venise. Dar acest motiv este îndepărtat, căci amândouă formele le vei găsi și în limba aramaică."
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«le voi scoate afară la voi» Din lauda acestui om am ajuns la ocara lui: că se trudea mult pentru oaspeții lui, ca să-i salveze, pentru că veniseră sub umbra acoperișului lui; dar să-i împace pe oamenii cetății lăsându-și fiicele în voia lor – aceasta nu este decât răutatea inimii: că lucrul desfrânării cu femeile nu era îndepărtat în ochii lui și nu socotea, după părerea lui, că le face fiicelor lui o mare silnicie. De aceea au spus învățătorii noștri: „După felul lumii, un om își dă viața pentru fiicele lui și pentru soția lui, și ucide sau este ucis; iar acesta își dă fiicele ca să-și bată joc de ele. I-a spus Cel Sfânt, binecuvântat fie El: Pentru tine le păstrezi”. Și iată, Lot se temea pentru ei, căci socotea că sunt oameni; dar când i-au lovit cu orbire pe oamenii cetății și i-au spus „Căci suntem pe cale să distrugem locul acesta… așa că Domnul ne-a trimis să îl distrugem”, atunci i-a recunoscut și a crezut, ca să facă tot ce i-au poruncit. Și să știi și să înțelegi că chestiunea concubinei din Gibea, deși se aseamănă cu chestiunea aceasta, nu este ca ea în răutate: căci acei ticăloși n-aveau de gând să stârpească piciorul din locul lor, ci erau cufundați în desfrânare și au voit și culcarea cu bărbatul oaspete; iar când i-au scos concubina lui, s-au împăcat cu ea. Iar bătrânul, care le-a spus „Iată, fiica mea fecioară și concubina lui; le voi scoate, vă rog, și faceți-le ce este bine în ochii voștri”, știa că nu vor dori fiica lui și nu-i vor face rău; și de aceea n-au voit să-l asculte; iar când a scos-o pe concubina lui singură, au tăcut de la el. Iar omul, stăpânul casei, și de asemenea oaspetele, toți voiau să-l salveze pe om prin concubina lui, căci era concubină, nu femeie măritată, și deja se prostituase față de el. Și la acea spărtură nu erau încă toți oamenii cetății, ca în Sodoma, despre care s-a spus „de la tânăr la bătrân, tot poporul din toate colțurile”; dar la Gibea s-a spus „și iată, oamenii cetății, oameni, fii ai lui Belial” – o parte din ei, care erau căpetenii și puternici în cetate, cum a spus omul: „Și s-au ridicat împotriva mea stăpânii Gibei”; și de aceea ceilalți nu i-au oprit. Și iată, căpeteniile întregului popor, din toate semințiile lui Israel, au voit să facă un gard mare în acest lucru, să-i omoare, căci s-a spus: „Și acum, dați-i pe oamenii aceia, fiii lui Belial, care sunt în Gibea, și să-i omorâm”. Și este un lucru limpede că nu erau vinovați de moarte după legea Torei, căci n-au făcut altă faptă decât silirea concubinei desfrânate, și n-au avut intenția să o omoare, și nici n-a murit în mâna lor: „și au lăsat-o să plece când se iveau zorii”, iar ea a mers de la ei la casa stăpânului ei, și după aceea a murit; poate s-a slăbit din pricina mulțimii culcărilor și a răcit la intrare până la lumină și a murit acolo. Dar pentru că doreau și spuneau să facă o mârșăvie ca oamenii Sodomei, semințiile au văzut să facă un gard pentru Tora, ca să nu se facă și să nu se spună așa în Israel, cum au spus „și să stârpim răul din Israel”. Și această judecată este din ce au spus învățătorii noștri: „Curtea de judecată bate și pedepsește nu după Tora; nu ca să încalce cuvintele Torei, ci ca să facă un gard pentru Tora”. Iar seminția lui Beniamin n-a fost de acord cu acest lucru, căci nu era în ei vinovăție de moarte pentru silirea concubinei; și poate fiii lui Beniamin s-au mai supărat și pentru că nu trimiseseră la ei de la început și făcuseră hotărârea fără știrea lor. Iar după părerea mea, aceasta a fost pedeapsa lui Israel, să fie bătuți la început: pentru că războiul nu era făcut după lege, iar gardul însuși era îndatorirea seminției lui Beniamin să-l facă, și nu a lor; căci este poruncă pentru seminție să-și judece seminția. Și iată, amândouă taberele erau vrednice să fie pedepsite: căci Beniamin făcea rău, nepăsându-i să-i îndrepte pe cei răi și nici să-i mustre deloc; iar Israel făcea război nu după lege, și nici n-a întrebat gura Domnului în aceasta, ci au spus „Cine se va sui pentru noi întâi la război împotriva fiilor lui Beniamin?”; căci de la sine au hotărât războiul cu orice preț; și tot așa n-au întrebat despre biruință – „dacă îi vei da în mâna mea” –, căci s-au încrezut în brațul de carne, fiindcă erau foarte mulți: căci acum erau ca de zece ori cât ei și mai mult; și n-au întrebat decât „Cine se va sui pentru noi întâi”, iar aceasta este ca o tragere la sorți între ei: poate fiecare seminție spunea „nu mă voi sui eu întâi”, sau spunea „eu întâi”. Iar Cel Sfânt, binecuvântat fie El, a răspuns după întrebarea lor: „Iuda întâi”, ca să spună că Iuda este în frunte totdeauna, căci pe Iuda l-a ales Domnul drept conducător; și de aceea n-a spus „Iuda se va sui”, ca în celelalte locuri, căci nu le-a dat voie, dar nici nu i-a oprit și nu le-a spus „nu vă suiți și nu luptați”, din pricina pedepsei lui Beniamin. Și iată, Numele a mers cu amândoi după întâmplare (be-qeri) și i-a lăsat întâmplărilor; iar fiii lui Beniamin erau viteji, și cetățile lor întărite, și au nimicit din Israel, care se încredeau în brațul de carne; și au adăugat pedeapsă peste pedeapsa lor, căci le-ar fi fost de ajuns să-i alunge pe Israel de la Gibea, iar ei i-au lovit spre nimicire, cu dușmănie veșnică, și au doborât dintre ei un popor mare și puternic, douăzeci și două de mii. Și iată, Israel, când au fost loviți cu o lovitură mare, și-au cunoscut greșeala: că au făcut război cu frații lor fără voia Celui de Sus și nu după legea Torei; și de aceea au întrebat în ziua a doua: „Să mă apropii iarăși de luptă cu fiii lui Beniamin, fratele meu?”, și au amintit acum frăția, ca să întrebe dacă le oprește războiul; iar Numele le-a dat voie acum, în ziua a doua, și a spus „Suiți-vă împotriva lui”, căci acum le era îngăduit să ceară sângele vărsat al fraților lor; iar ei n-au întrebat despre biruință, căci încă se încredeau în mulțimea lor, să biruiască cu orice preț; iar Numele nu le-a lămurit decât că războiul le este îngăduit; și pentru că încă nu le fusese ispășită pedeapsa dintâi, au căzut dintre ei și în ziua a doua optsprezece mii. Iar în ziua a treia au hotărât post, „au postit și au plâns înaintea Domnului” și au adus arderi de tot, ca să ispășească gândurile inimii, prin care se încrezuseră în brațul lor; și au adus jertfe de pace, iar acestea erau jertfe de mulțumire, căci s-au văzut pe ei înșiși ca și cum toți ar fi fost scăpați din sabia lui Beniamin; și aceasta este legea tuturor celor scăpați: să aducă jertfă de mulțumire, ca lucrul care s-a spus: „Să aducă jertfe de mulțumire și să-I povestească faptele cu cântare”; și este scris: „Și acum mi se va înălța capul peste dușmanii mei din jurul meu, și voi jertfi în cortul Lui jertfe de strigăte de bucurie; voi cânta și voi lăuda pe Domnul”. Și iată, au fost, în cele două zile, morții din Israel patruzeci de mii; iar din Beniamin au căzut la sfârșit douăzeci și cinci de mii de oameni viteji, iar „din cetate, de la oameni… până la tot ce s-a găsit”, mulți; și este posibil să fi fost cincisprezece mii, între bărbați, femei și copii; și a fost pedeapsa celor două tabere deopotrivă. Și cât de cinstite sunt cuvintele învățătorilor noștri, că mânia a fost pentru chipul cioplit al lui Mica: „A spus Cel Sfânt, binecuvântat fie El: Pentru cinstea Mea n-ați protestat; pentru cinstea unui om de carne și sânge ați protestat” – adică: pentru cinstea Mea n-ați protestat față de cei vinovați de moarte, care își întind mâna împotriva Temeiului; pentru cinstea unui om de carne și sânge ați protestat mai mult decât cere dreptul strict. Și de aceea a zădărnicit sfatul celor două tabere și le-a întărit inima, și n-au amintit legământul de frați; iar după faptă s-au căit, cum s-a spus: „Și poporul a venit la Betel și au șezut acolo până seara înaintea lui Dumnezeu și au plâns cu plâns mare și au spus: De ce, Doamne, Dumnezeul lui Israel, s-a întâmplat aceasta în Israel, ca să lipsească astăzi o seminție din Israel?”; căci și-au cunoscut greșeala și pedeapsa. Și iată, în treacăt, am explicat chestiunea lor, care nu este lămurită, și am amintit cauzele ei."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Le voi scoate afară la voi.» A crezut că se vor ridica cei care luaseră de soție pe fiicele lui și se va ridica o zarvă între ei."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Căci de aceea (ki ʿal ken).» Pentru că (ʿal ašer) au venit."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iată» (hinneh na): a explicat „acum”; adică: iată, acum, ca să vă potoliți pornirile, care sunt să-i omorâți pe oameni, iată, vă voi da pe cele două fiice ale mele, și potoliți-vă pornirile cu ele, și le veți necinsti, căci încă nu au cunoscut bărbat, sau le veți omorî; aceasta este ceea ce a spus „după cum este bine în ochii voștri”. «Să nu le faceți nimic»: să nu le faceți nimic rău. «Căci de aceea au venit»: căci pentru că au venit să înnopteze sub umbra acoperișului meu, veți avea milă de cinstea mea; căci mai bine îmi este să le necinstiți pe fiicele mele, sau să le omorâți dacă vreți, decât să faceți ceva rău acestor oameni."
    }
   ]
  },
@@ -1640,6 +1742,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Ei au spus: Dă-te la o parte (geș halʾah)!» Apropie-te mai încolo; adică: apropie-te spre margini și depărtează-te de noi. Și tot așa orice halʾah din Scriptură este cuvânt pentru depărtare, ca în „împrăștie mai încolo (halʾah)”, „iată, săgețile sunt dincolo de tine (va-halʾah)”; geș halʾah — trage-te mai încolo, în laʿaz tretiez-vous; și este un cuvânt de mustrare, ca să spună: Nu ne pasă de tine. Și asemănător lui: „stai deoparte, nu te apropia de mine”; și tot așa „fă-mi loc (gešah li), ca să locuiesc” — trage-te în lături pentru mine, ca să șed lângă tine. Tu ești apărătorul oaspeților? Cum te-a lăsat inima? Pentru că le-a vorbit despre fete, i-au zis „dă-te la o parte”, cuvânt blând; iar pentru că era apărătorul oaspeților: „Acesta a venit să stea ca străin” — un om străin, singur ești între noi, care ai venit să locuiești ca străin, „și mai și judecă” — și te-ai făcut mustrătorul nostru?<br><br>«Ușa (ha-delet).» Ea este cea care se rotește ca să închidă și să deschidă."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Și l-au îmbrâncit pe om, pe Lot» Nu am găsit acest cuvânt decât în cuvinte de rugăminte; dacă este așa, vom explica aceasta: că l-au rugat mult să le deschidă ușa, iar când n-a voit să facă așa, s-au apropiat să o spargă; sau că stătea în fața ușii și nu-i lăsa să se apropie de ea, iar ei l-au rugat mult să se dea la o parte dinaintea lor, căci nu voiau să-l lovească; și acesta este sensul lui „Dă-te la o parte”: să se ducă în alt loc."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Dă-te la o parte!» De la intrare, și vom sparge ușa.<br><br>«Acesta (ha-eḥad) a venit să stea ca străin.» Oare mai este măcar unul care să facă așa?"
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Dă-te la o parte (gaš halʾah)!» Cum este scris: „Ține-te deoparte (qerav elekha), nu te atinge de mine, căci sunt mai sfânt decât tine”: apropie-te spre partea de dincolo. Adică: fugi de lângă noi.<br><br>«A venit să stea ca străin (la-gur).» Lot era străin în Sodoma.<br><br>«Îți vom face și mai mult rău decât lor.» Mai mult decât lor îți vom face rău."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Dă-te la o parte» (geš halʾah): du-te într-alt loc, departe de el, adică: îndepărtează-te de la noi.<br><br>«Decât lor»: mai mult decât le vom face rău lor.<br><br>«Și l-au îmbrâncit» (wa-yifṣeru): au vorbit mult împotriva lui cuvinte foarte rele. Iar Onkelos a tradus „și au stăruit cu putere”, vrea să spună că l-au apucat ca să-l îndepărteze de dinaintea ușii, ca să intre.<br><br>«Și s-au apropiat să spargă ușa»: căci era închisă."
    }
   ]
  },
@@ -1784,7 +1902,12 @@ window.CHAPTER_DATA = [
   "refs": [
    "Isaia 5:8"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și au închis ușa.» Ca să se ostenească să găsească intrarea și să-și facă de cunoscut mărimea răutății lor."
+   }
+  ]
  },
  {
   "num": 11,
@@ -1949,6 +2072,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Intrarea (petaḥ).» Ea este golul prin care se intră și se iese.<br><br>«Cu orbire (ba-sanverim).» Lovitură de orbire.<br><br>«De la mic la mare.» Cei mici au început întâi în păcat, cum s-a spus: „de la tânăr la bătrân”; de aceea pedeapsa a început de la ei."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Cu orbire (ba-sanwerim).» Cuvânt de patru litere, iar perechea lui este în fapta lui Elisei; iar explicația lui este întunecarea ochiului și a inimii."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și ei au încercat zadarnic să găsească intrarea.» Deși erau loviți cu orbire, s-au ostenit să găsească intrarea ca să spargă ușa, cum au spus înțelepții noștri, binecuvântată fie amintirea lor: „Cei răi, chiar dacă stau la poarta Gheenei, nu se întorc la pocăință.”"
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Cu orbire (ba-sanverim).» Lovitură de orbire și de încremenire.<br><br>«Și au încercat zadarnic (va-yilʾu).» Explicația lui: n-au mai putut găsi intrarea. N-au căutat intrarea. Și tot așa: „Și egiptenii se vor osteni (ve-nilʾu) să bea apă din Nil”: nu vor putea să bea, de vreme ce era sângele; și tot așa dovedește la sfârșit: „și nu puteau să bea din apele Nilului”. Și în câteva locuri exprimarea nilʾu este dublată, ca: „Sunt ostenit (nilʾeti) să țin, nu pot”. Și tot așa: „Și va fi, când se va vedea că Moab s-a ostenit (nilʾah) pe înălțimi și va veni la sanctuarul lui să se roage, și nu va putea”. Și tot așa: „Dacă s-ar încerca un cuvânt către tine, te-ai osteni (tilʾeh)? Dar cine poate opri cuvintele?”. Adică: pentru că Sfântul, binecuvântat fie El, te-a încercat cu suferințe, ești ostenit, adică nu poți să taci; și ai gândit în inima ta și ai spus: „Dar cine poate opri cuvintele?”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar pe oamenii»: îngerii i-au lovit pe oamenii Sodomei care erau la intrarea casei.<br><br>«Cu orbire» (ba-sanwerim): a explicat: cu orbire; și este un cuvânt notariqon: sane reʾiyah („urăște vederea”)."
    }
   ]
  },
@@ -2111,6 +2250,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Pe cine mai ai aici?» Înțelesul simplu al versetului: pe cine mai ai în orașul acesta, în afară de soția ta și de fiicele tale care sunt în casă?<br><br>«Ginere, fiii tăi, fiicele tale.» Și dacă ai un ginere, sau fii și fiice, scoate-i din loc.<br><br>«Fiii tăi.» Fiii fiicelor tale măritate. Iar midrașul: „încă” — de vreme ce fac o asemenea ticăloșie, ce deschidere a gurii (peh) mai ai ca să găsești apărare pentru ei? Căci toată noaptea vorbise bine despre ei. Citește în el: mi lekha peh („cine îți este gură?”)."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Pe cine mai ai aici.» Dacă ai un ginere.<br><br>«Fiii tăi.» Sau gineri care sunt ca fiii tăi și ca fiicele tale. Și iată aici o obiecție împotriva celui care spune că unul a mers ca să-l salveze pe Lot: căci iată, amândoi i-au vorbit; și încă: „căci suntem pe cale să distrugem”. De asemenea, cel singur cu care a vorbit Lot după aceea, căruia i-a spus „și mare Ți-a fost mila”, el a spus: „căci nu pot face nimic”."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«ginere, fiii tăi, fiicele tale» Cuvintele lui Rashi: „Pe cine mai ai în cetate, în afară de soția ta și de fiicele tale care sunt în casă? Dacă ai un ginere sau fii și fiice, scoate-i din loc”. Și dacă este așa, cuvântul lor va fi în felul oamenilor, căci el nu avea fii, ci doar fiice. Iar Rabbi Avraham a spus: „ginere, fiii tăi” – gineri care sunt ca fiii tăi. Și este posibil să fi avut fii mari, însurați, și a vorbit mai întâi cu ginerii lui, căci socotea că fiii lui îl vor asculta; iar când ginerii lui au râs de el și vorbele dintre ei s-au lungit, zorii s-au ivit, iar îngerii nu l-au lăsat să-i ia decât pe cei care se aflau cu el în casă. Și iată, meritul lui Lot ar fi salvat fii și fiice și gineri – nu cum socotise Avraam, că va omorî pe cel drept împreună cu cel ticălos; și este limpede că îngerii cunoșteau în aceasta gândul Celui Preaînalt, căci și Țoar a scăpat prin rugăciunea lui. Și este posibil ca aceasta să fi fost pentru cinstea găzduirii, căci este o cale de bună-cuviință pentru trimiși să-și salveze gazda și tot ce are, cum au făcut trimișii lui Iosua, care au salvat și toată familia gazdei lor.: Lot, pentru că l-a cinstit pe înger, i s-a dat ascultare."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Pe cine mai ai aici?» Mai ai rude în oraș, în afară de aceștia care sunt în casă?"
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Pe cine mai ai aici» (ʿod mi lekha fo): ca „pe cine mai ai încă aici”.<br><br>«Fiii tăi»: fiii fiicelor tale, căci nu avea fii; căci dacă ar fi avut, ar fi fost cu el în casă, iar dacă ar fi fost în oraș, ar fi spus, cum a spus „Lot a ieșit și a vorbit cu ginerii lui, care luaseră pe fiicele lui”; ci aceasta ne învață că nu avea fii.<br><br>«Și pe oricine ai în oraș»: vite, sau argint și aur și haine.<br><br>«Scoate-i din locul acesta»: nu numai din oraș, ci și din tot locul."
    }
   ]
  },
@@ -2260,7 +2415,16 @@ window.CHAPTER_DATA = [
    "Geneza 18:20-21",
    "2 Petru 2:6-9"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Și ne-a trimis (va-yešalleḥenu).» Conjugarea cu dagheș. Și deși la orice trimitere a trimișilor și a celor care se întorc este scris va-yišlaḥ, în conjugarea slabă (rafe), la aceștia a scris conjugarea cu dagheș, pentru că este o trimitere de distrugere, cum este scris: „Și dinte de fiare voi trimite (ašallaḥ) asupra lor”; „a trimis (yešallaḥ) asupra lor roiuri (ʿarov)”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Căci mare este strigătul contra lor» (ṣaʿaqatam): strigătul celor asupriți care strigă împotriva lor; căci pronumele vine cu cel care face și cu cel asupra căruia se face; ca „și îi voi bucura în casa Mea de rugăciune”, cu cel asupra căruia se face; „am auzit rugăciunea ta”, cu cel care face.<br><br>«Să îl distrugem»: să distrugem orașul, căci orașul este cuprins în locul pe care l-a pomenit."
+   }
+  ]
  },
  {
   "num": 14,
@@ -2493,6 +2657,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Care luaseră pe fiicele lui (loqḥei).» Avea alte două fiice, care au murit în Sodoma; iar mărturia: „care se găsesc aici”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Lot a ieșit.» După ce ei s-au ostenit și au plecat."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Care luaseră pe fiicele lui»: care erau cei ce luaseră pe fiicele lui, care le luaseră deja. Și nu a spus că a vorbit cu fiicele lui, căci femeile se lasă trase după părerea soților lor."
    }
   ]
  },
@@ -2686,6 +2858,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«L-au îndemnat (va-yaʾiṣu).» Ca în Targumul lui: „și l-au zorit” — l-au grăbit.<br><br>«Care se găsesc aici.» Care îți sunt la îndemână în casă, ca să le salvezi. Există un midraș, dar aceasta este așezarea versetului.<br><br>«Să fii nimicit (tissafeh).» Să fii mistuit, ca „până se va mistui (tom) toată generația”, tradus în aramaică „până va pieri (de-saf) toată generația”."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și pe când (u-khemo).» Iar Rabbi Yona, gramaticianul spaniol, a spus că nu este cu putință să spui u-khemo ʿalah ha-šaḥar; dar a uitat „și se vor înmulți cum s-au înmulțit (we-ravu kemo ravu)”.<br><br>«L-au îndemnat (wa-yaʾiṣu).» Ca „l-au strâmtorat (wa-yaṣiqu)”; ca „îi zoreau (aṣim), spunând”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Îngerii l-au îndemnat.» Pentru ca pedeapsa lor să fie la răsăritul soarelui, dumnezeul lor cel mare, cum au spus înțelepții noștri, binecuvântată fie amintirea lor: „În ceasul în care soarele răsare și toți regii răsăritului și ai apusului își pun coroanele pe cap și se închină soarelui, îndată El Se mânie.”"
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Și pe când se iveau zorii.» S-a scris acest verset pentru că scrie mai departe: „Soarele răsărea asupra pământului și Lot a ajuns în Țoar”: ca să facă cunoscut că atât de mult l-au așteptat îngerii, din pricina dragostei pentru Avraam."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și pe când se iveau zorii»: și la vremea când s-au ivit zorii.<br><br>«Îngerii l-au îndemnat»: l-au zorit. Aici i-a numit îngeri, pentru că au făcut o faptă de îngeri: să-l salveze pe Lot și să distrugă tot locul. «Care se găsesc aici»: cu tine în casă."
    }
   ]
  },
@@ -2894,6 +3082,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Dar el a zăbovit.» Ca să-și salveze averea.<br><br>«I-au apucat.» Unul dintre ei era trimis să-l salveze, iar tovarășul lui să răstoarne Sodoma; de aceea s-a spus „a spus: Fugi”, și nu s-a spus „au spus”."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Și mă mir de explicația pe care a compus-o Ben Efraim, care a spus că wa-yitmahmah („a zăbovit”) este din rădăcina lui mah („ce”); dar iată, a uitat că amândoi he au mappiq. Ci este cuvânt de întârziere, rădăcina lui are trei litere, iar prima radicală este dublată.<br><br>«I-au apucat (wa-yaḥaziqu).» Arată că se temea și nu avea putere să fugă."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«oamenii i-au apucat» Rabbi Avraham a spus că „i-au apucat” lămurește că se temea și nu avea putere să fugă. Dar ce este corect este că este ca „Egiptul („Mițrayim”) zorea poporul, grăbindu-se să îi scoată din țară”; și aici îi trăgeau cu putere, grăbindu-se să-i scoată.<br><br>«în mila Domnului pentru el» Nu prin meritul lui, ci doar în mila lui Dumnezeu și în îndurarea Lui cea mare. Sau va spune că l-au apucat grăbindu-se să-i scoată cât încă era mila asupra lui, ca nu cumva să iasă mânia dinaintea Domnului și să-l nimicească."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«În mila Domnului pentru el.» Deși prin meritul lui Avraam era scăpat, cum a spus: „Dumnezeu Și-a amintit de Avraam; și l-a scos pe Lot din mijlocul prăpădului”, iată, de vreme ce întârzia și zăbovea după avertizarea îngerilor, se cuvenea să fie nimicit; dar a fost milă de el, căci zăbovirea lui nu era din răzvrătire și nici din necredincioșie, ci din lene și dintr-un suflet tulburat."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Dar el a zăbovit»: încă zăbovea, ca și cum i-ar fi fost milă de averea lui pe care o lăsa; de aceea au întârziat până s-au ivit zorii; și nu l-au lăsat să ia în mâna lui nimic, deși îi spuseseră „și pe oricine ai”.<br><br>«Așa că oamenii i-au apucat mâna, mâna soției lui»: ca să scape cu viață. Și aici i-a numit oameni, pentru că au făcut o faptă de oameni, să-i apuce de mână, ca și cum ar fi fost trup.<br><br>«În mila Domnului pentru el»: din pricina lui Avraam s-au grăbit să-l scoată și să-l salveze, deși sosise vremea prăpădului.<br><br>«L-au scos și l-au condus»: pe el, pe soția lui și pe fiicele lui."
    }
   ]
  },
@@ -3074,6 +3278,26 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Fugi ca să-ți salvezi viața!» Îți ajunge să salvezi suflete; nu-ți fie milă de avere.<br><br>«Nu te uita în urma ta.» Tu ai făcut rău împreună cu ei, și prin meritul lui Avraam ești salvat; nu ești vrednic să vezi pedeapsa lor în timp ce tu ești salvat.<br><br>«În toată câmpia.» Câmpia Iordanului.<br><br>«Fugi la munte.» Fugi la Avraam, care locuiește la munte, cum s-a spus: „De acolo s-a mutat la munte”; și chiar acum locuia acolo, cum s-a spus: „la locul unde fusese cortul său înainte”. Și deși este scris „Și Avram și-a întins cortul” etc., avea multe corturi și ele se întindeau până la Hebron.<br><br>«Fugi (himmaleṭ).» Cuvânt pentru alunecare (sau „scăpare”); și tot așa orice himmaleṭ din Scriptură, în laʿaz esmucier. Și tot așa „și a născut (ve-himliṭah) un băiat”, căci fătul alunecă din pântece; „ca o pasăre a scăpat (nimleṭah)”; „n-au putut descărca (malleṭ) povara” — să lepede povara excrementelor din măruntaiele lor."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Iar cuvântul «când îi scoteau (ke-hoṣiʾam)» este infinitiv; și nu este ca „ca să-i scoată (le-hoṣiʾam) din țara Egiptului („Mițrayim”)”; iar mem este semnul celor care fac acțiunea, și aceștia sunt îngerii, iar cu ei sunt cei care fac.<br><br>«Nu te uita în urma ta.» Tu și tot ce este al tău; și tot așa „să nu mănânci din el”."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Nu te uita în urma ta și nu te opri nicăieri în toată câmpia» Rânduiala Scripturii este: „nu te opri nicăieri în toată câmpia”, și „nu te uita în urma ta” după ce vei fi scăpat; căci până ce Lot nu va fi pe munte, nu va coborî asupra lor răul; și de aceea a spus: „Însă nu pot să fug la munte, ca nu cumva răul să se prindă de mine” cât sunt în câmpie, căci tu nu-mi vei da răgaz decât puțin, cum ai spus: „Grăbește-te, fugi”. Iar Rabbi Avraham a spus: „Nu te uita în urma ta” – tu și toți ai tăi; și tot așa „să nu mănânci din el”. Și ce nevoie este de aceasta? Iar pedeapsa aici nu este pentru că vor încălca avertismentul îngerului, ci el i-a avertizat din știința lui că îi va ajunge pedeapsa prin acea privire; și l-a avertizat pe Lot ca să-i dea merit, iar oricine aude și se păzește își salvează sufletul. Iar despre oprirea privirii, Rashi a spus: „Tu ai făcut rău împreună cu ei, iar prin meritul lui Avraam ești salvat; nu ai voie să vezi pedeapsa lor”. Și mai este în aceasta un lucru: căci privirea în aerul ciumei și în toate bolile care se lipesc strică foarte mult și le lipește, și tot așa gândul la ele; și de aceea omul lepros este închis și „singur să locuiască”; și tot așa cei mușcați de animale (sau „fiare sălbatice”) turbate, ca de câinele turbat și altele: când văd apa și orice priveliște, văd în ele chipul celui care i-a vătămat, și înnebunesc și mor, cum au spus în tratatul Yoma, și au amintit-o oamenii științei naturii. Și de aceea soția lui Lot a devenit un stâlp de sare: căci lovitura a venit prin gândul ei, când a văzut pucioasa și sarea care coborau asupra lor din ceruri, și s-a lipit de ea. Și sunt aproape să spun că, atunci când Domnul a distrus aceste cetăți, îngerul nimicitor stătea între pământ și ceruri, văzut în văpaia focului, ca în chestiunea îngerului nimicitor pe care l-a văzut David; și de aceea le-a oprit privirea. Iar în Pirqe de-Rabbi Eliezer, ca lucrul acesta, au spus: „Le-au spus: Nu vă uitați înapoia voastră, căci Prezența Celui Sfânt, binecuvântat fie El, a coborât ca să plouă asupra Sodomei și asupra Gomorei pucioasă și foc. Edit, soția lui Lot, i s-a făcut milă de fiicele ei, măritate în Sodoma, și s-a uitat înapoia ei să vadă dacă merg după ea; și a văzut spatele Prezenței divine și a devenit un stâlp de sare”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Nu te uita în urma ta.» Căci răul se va întinde până la tine, ca și cum ar merge după tine, și nu-ți va face rău; dar, dacă vei zăbovi ca să privești, se va lipi de tine, cum s-a întâmplat cu soția lui, cum a spus: „și s-a făcut stâlp de sare”."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Nu te uita în urma ta.» Din pricina durerii pentru ginerii tăi care sunt în oraș. Și mai mult, căci cel care se uită înapoi zăbovește pe drum. De asemenea, ca să nu privească la îngeri și la faptele lor fără nevoie, cum este scris: „Vom muri negreșit, căci pe Dumnezeu L-am văzut”; și tot așa la Iacov: „L-am văzut pe Dumnezeu față în față și viața mi-a fost cruțată”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a fost, când îi scoteau afară»: în timp ce îl scoteau, îl înștiințau să se grăbească și să scape.<br><br>«Îngerul a spus»: îngerul care venise să-l salveze, deși erau amândoi ca unul.<br><br>«Nu te uita în urma ta»: i-au spus aceasta ca să nu zăbovească uitându-se în urma lui, ca să vadă dacă orașul a fost prăpădit; de aceea l-au avertizat despre aceasta.<br><br>«În toată câmpia»: căci toate orașele câmpiei au fost prăpădite.<br><br>«Ca nu cumva să fii nimicit»: împreună cu ei, dacă te vei opri; căci nu avem cum să te salvăm din mijlocul prăpădului după ce va începe prăpădul, căci într-o clipă au fost prăpădite toate orașele, cum a spus: „care a fost răsturnată ca într-o clipă”."
    }
   ]
  },
@@ -3166,6 +3390,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Nu, rogu-Te, Stăpâne (Adonai).» Învățătorii noștri au spus că acest Nume este sfânt, căci se spune în el „că mi-ai păstrat sufletul în viață” — Cel care are în mâna Sa puterea să omoare și să facă viu. Iar Targumul lui: „Te rog acum, Doamne”.<br><br>«Nu, rogu-Te.» Nu-mi spuneți să fug la munte.<br><br>«Rogu-Te (na).» Cuvânt de rugăminte."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Nu, rogu-Te, Stăpâne (adonai).» Profan, și are qamaṣ pentru că este la sfârșit de verset. Iar Rabbi Șemuel Spaniolul, ha-Naghid, binecuvântată fie amintirea lui, a spus că al na este din rădăcina lui hoʾil („a voi”); iar după părerea mea este ca „nu așa”: când i-au spus „fugi la munte”, a răspuns: „Nu așa, domnii mei.”"
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Nu, rogu-Te» (al na): vă rog să nu mă siliți să urc la munte, căci nu voi putea să-mi grăbesc pașii atât de mult.<br><br>«Stăpâne» (Adonai): expresie profană, și are qamaṣ din pricina pauzei; și așa a tradus Onkelos: „te rog acum, stăpânul meu”. Iar învățătorii noștri, binecuvântată fie amintirea lor, au spus: toți Adonai scriși la Avraam sunt sfinți, cei scriși la Lot sunt profani, afară de acesta, care este sfânt, căci iată, i-a spus să-i păstreze viața Celui care are în mâna Lui să omoare și să facă viu. Iar cuvintele lor sunt de mirare; căci iată, a spus „Lot le-a spus”, la plural; iar îngerul are de asemenea în mâna lui să omoare și să facă viu, prin trimiterea lui Dumnezeu, și chiar profeții, ca Ilie și Elisei."
    }
   ]
  },
@@ -3387,6 +3619,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Ca nu cumva răul să se prindă de mine.» Când eram printre oamenii Sodomei, Sfântul, binecuvântat fie El, vedea faptele mele și faptele oamenilor orașului, și păream drept și vrednic să fiu salvat; iar când voi veni lângă un drept, sunt ca un rău. Și tot așa i-a zis văduva din Sarepta lui Ilie: „ai venit la mine ca să-mi aduci aminte vina”: până nu veneai la mine, Sfântul, binecuvântat fie El, vedea faptele mele și faptele poporului meu, și eram dreaptă între ei; iar de când ai venit la mine, după faptele tale, eu sunt rea."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "Și a spus unuia dintre ei: «slujitorul Tău», pentru că l-a socotit în ochii lui că este cel mai mare; căci și între îngeri sunt căpetenii. Iar tav din mot („a muri”) este înghițit în tav din wa-matti („și să mor”), căci tav și yod sunt semnul singularului la verbe; și a fost așa din pricina unirii a doi tav. Și tot așa „îl vei putea distruge și tăia (we-kharat)”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iată, slujitorul Tău a găsit bunăvoință în ochii Tăi»: i-a spus aceluia care îi spusese „Fugi ca să-ți salvezi viața”, care venise să-l salveze. Iar adevărul este că amândoi erau la salvare și la distrugere, numai că acela care vorbea era mai mare decât tovarășul lui; căci iată, el, care se străduia să-l salveze, a spus „să nu distrug orașul” și a spus „căci nu pot face nimic”.<br><br>«Să se prindă de mine» (tidbaqani): pataḥ în qof în locul unui ṣere."
    }
   ]
  },
@@ -3540,6 +3780,18 @@ window.CHAPTER_DATA = [
     "text": "«Acest oraș este destul de aproape.» Locuirea lui este aproape, adică a fost locuit de curând; de aceea încă nu i s-a umplut măsura. Și cât de aproape? De la generația despărțirii, când s-au despărțit oamenii și au început să se așeze fiecare în locul lui; și aceasta a fost în anul morții lui Peleg, iar de atunci până aici sunt cincizeci și doi de ani, căci Peleg a murit în anul patruzeci și opt al lui Avraam. Cum? Peleg a trăit, după ce i s-a născut Reu, două sute nouă ani; scade din ei treizeci și doi, când s-a născut Serug; și de la Serug până s-a născut Nahor, treizeci — iată șaizeci și doi; și de la Nahor până s-a născut Terah, douăzeci și nouă — iată nouăzeci și unu; și de acolo până s-a născut Avraam, șaptezeci — iată o sută șaizeci și unu; adaugă-le patruzeci și opt — iată două sute nouă. Și acel an a fost anul despărțirii. Iar când a fost distrusă Sodoma, Avraam avea nouăzeci și nouă de ani; iată, de la generația despărțirii până aici, cincizeci și doi de ani. Iar Țoar a fost locuit cu un an după locuirea Sodomei și a tovarășelor ei; aceasta este ce s-a spus: „voi fugi, rogu-Te (na)” — na are valoarea numerică cincizeci și unu.<br><br>«Nu este oare mic (miṣʿar)?» Oare nu sunt păcatele lui puține, și poți să-l lași?<br><br>«Și sufletul meu va rămâne în viață!» Acesta este midrașul lui. Iar înțelesul simplu al versetului: oare nu este un oraș mic, și oamenii din el sunt puțini? Nu trebuie să Te superi dacă îl lași; „și sufletul meu va rămâne în viață” în el."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Mic (miṣʿar).» Mic, din rădăcina lui ṣaʿir („mic”); și este adjectiv al substantivului și vine fără semn de feminin, ca šegal („regina”)."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Nu este oare mic (miṣʿar)?» Poporul lui este puțin, și poți să-l lași acum, căci nu sunt în el mulți păcătoși."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Acest oraș este destul de aproape»: aproape ca să fug acolo.<br><br>«Și este mic» (miṣʿar): este un oraș mic și sunt puțini oameni în el; și deși sunt răi, puțini sunt. Și din pricina lui i-a salvat de la prăpăd.<br><br>«Și sufletul meu va rămâne în viață»: împreună cu ei.<br><br>«Voi fugi, rogu-Te» (immalṭah na): milraʿ, accentul pe ṭet; immalṭah na we-ereh, milʿel, accentul pe mem.<br><br>«Nu este oare mic?»: s-a întors încă o dată să pomenească micimea lui, ca unul care îl roagă să-l salveze. Iar învățătorii noștri, binecuvântată fie amintirea lor, au explicat: miṣʿar, „puțin”, căci de curând fusese locuit și nelegiuirile lui nu sunt multe. Și au spus: locuirea Țoarului nu fusese decât de cincizeci și unu de ani, după socoteala lui „na” în gematria."
+   },
+   {
     "author": "Zohar, Addenda, volumul I 16:5",
     "text": "Iar Loṭ — el este Satan, el este înclinația rea, „șezând la poarta Sodomei”, căci acolo este casa lui, cum este scris (Geneza 4:7): „păcatul pândește la ușă”. Și se unește cu oamenii și îi rătăcește, până ce îi coboară în groapa pieirii; și el de asemenea este judecat cu ei, pentru că i-a rătăcit, și coboară până la Țoar (suferința) ghehinomului. Și aceasta este (Geneza 19:20): „iată, cetatea aceasta este aproape ca să fug acolo”. Ucigașul — acesta este Esav, vărsătorul de sânge, și ea este din Țoar. Și deși coboară și este judecat acolo, cu toate acestea dorința și pofta lui este să se întoarcă și să-i rătăcească pe alții. Și aceasta este (Geneza 19:30): „și Loṭ a urcat din Țoar”."
    }
@@ -3665,6 +3917,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și în legătură cu lucrul acesta.» Nu-ți ajunge că tu ești salvat, ci și tot orașul îl voi salva datorită ție.<br><br>«Să nu distrug (hofki).» Nu distrug; ca „până la venirea (boʾi) mea”, „după ce m-a văzut (roʾi)”, „de câte ori vorbesc (dabberi) de el”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și îngerul i-a spus: „Iată, ți-am dat ascultare”» (wa-yoʾmer elaw hinneh nasaʾti faneykha): se vede din aceasta că, atunci când Cel Sfânt, binecuvântat fie El, trimite un înger, le dă voie să adauge sau să scadă puțin din trimiterea lor, după cum vor vedea și vor înțelege, căci ei sunt înzestrați cu minte."
    }
   ]
  },
@@ -3799,6 +4055,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Căci nu pot face nimic.» Aceasta a fost pedeapsa îngerilor, pentru că au zis „căci suntem pe cale să distrugem” și au atribuit lucrul lor înșiși; de aceea nu s-au mișcat de acolo până nu au fost siliți să spună că lucrul nu este în puterea lor.<br><br>«Căci nu pot.» La singular; de aici înveți că unul răstoarnă și unul salvează, căci nu sunt trimiși doi îngeri pentru un singur lucru.<br><br>«De aceea el a pus orașului numele Țoar.» După „și este mic (miṣʿar)”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Căci nu pot»: căci așa mi s-a poruncit, să nu prăpădesc până ce nu vei fi salvat.<br><br>«El a pus ... numele»: cel care a pus numele orașului Țoar; căci Bela fusese numele lui la început."
    }
   ]
  },
@@ -3915,7 +4175,12 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 19:15"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Lot a ajuns în Țoar»: și îndată ce a ajuns în Țoar, îngerul a făcut să plouă, prin trimiterea lui Dumnezeu."
+   }
+  ]
  },
  {
   "num": 24,
@@ -4071,6 +4336,26 @@ window.CHAPTER_DATA = [
     "text": "«Și Domnul.» Oriunde se spune „și Domnul” (va-YHVH), înseamnă El și curtea Lui de judecată.<br><br>«A făcut să plouă asupra Sodomei.» La revărsatul zorilor, cum s-a spus „și pe când se iveau zorii”: ceasul în care luna stă pe firmament împreună cu soarele. Pentru că unii dintre ei se închinau soarelui, iar alții lunii, a zis Sfântul, binecuvântat fie El: Dacă îi voi pedepsi ziua, închinătorii lunii vor zice: Dacă ar fi fost noaptea, când stăpânește luna, n-am fi fost distruși. Și dacă îi voi pedepsi noaptea, închinătorii soarelui vor zice: Dacă ar fi fost ziua, când stăpânește soarele, n-am fi fost distruși. De aceea este scris „pe când se iveau zorii”: i-a pedepsit în ceasul în care stăpânesc și soarele și luna.<br><br>«A făcut să plouă pucioasă și foc.» La început a fost ploaie, și s-a făcut pucioasă și foc.<br><br>«De la Domnul.» Așa obișnuiesc versetele să vorbească, ca „soții ale lui Lameh”, și Lameh nu a zis „soțiile mele”; și tot așa a zis David: „Luați cu voi pe slujitorii stăpânului vostru”, și nu a zis „pe slujitorii mei”; și tot așa Ahașveroș a zis „în numele regelui”, și nu a zis „în numele meu”. Și aici a zis „de la Domnul”, și nu a zis „de la Mine”.<br><br>«Din ceruri.» Aceasta este ce a spus Scriptura: „căci prin ele judecă popoarele” etc.: când vine să pedepsească făpturile, aduce asupra lor foc din ceruri, cum a făcut Sodomei; iar când vine să coboare mana din ceruri: „Iată, vă voi trimite ca ploaia pâine din ceruri”."
    },
    {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«De la Domnul.» Exprimare elegantă, iar sensul este „de la El”; și tot așa vei găsi într-un singur verset de cinci ori „copiii lui Israel”."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Și Domnul a făcut să plouă asupra Sodomei» A scris Rashi: „Oriunde se spune «Și Domnul», este El și curtea Lui de judecată. «De la Domnul» – și n-a scris «de la El»; este felul versetelor să vorbească așa: «Soții ale lui Lameh», și n-a spus «soțiile mele»; și David a spus: «Luați cu voi pe slujitorii stăpânului vostru», și n-a spus «pe slujitorii mei»; și Ahașveroș: «scrieți în numele regelui», și n-a spus «în numele meu»”. Iar eu mă mir de Rav, binecuvântată fie amintirea lui, care a scris din aggadot păreri diferite și le pune laolaltă; căci aceasta este o controversă în Bereșit Rabba, și acolo mai este o a treia părere: „Abba Ḥalfi bar Samqai, în numele lui Rabbi Yehuda bar Simon: «Și Domnul a făcut să plouă asupra Sodomei» – acesta este Gabriel; «de la Domnul, din ceruri» – acesta este Cel Sfânt, binecuvântat fie El. A spus Rabbi Elazar: oriunde se spune «Și Domnul», este El și curtea Lui de judecată. A spus Rabbi Yiṣḥaq: în Tora, în Profeți și în Scrieri am găsit că omul de rând își amintește numele de două ori; în Tora: «Și Lameh le-a spus soțiilor lui» etc.”. Iată, acestea sunt trei păreri în controversă în acest lucru: căci Rabbi Yehuda bar Simon a atribuit primul nume lui Gabriel, care este trimisul spre nimicire, iar trimisul este numit cu numele celui care îl trimite; iar Rabbi Elazar a spus că El și curtea Lui de judecată au căzut de acord asupra judecății și de la El a venit; iar Rabbi Yiṣḥaq a spus că este felul limbii. Iar dacă ai înțeles ce am scris mai sus, vei ști intenția lor în „El și curtea Lui de judecată”, iar sensul simplu al Scripturii va fi limpede înaintea ta; și tot așa „Și Domnul a spus”, „să păstreze calea Domnului… pentru ca Domnul să aducă”, căci n-a spus „să păstreze calea Mea, pentru ca Eu să aduc”; și tot așa a spus: „căci mare este strigătul contra lor înaintea Domnului, așa că Domnul ne-a trimis”; și tot așa „Și a fost, când a distrus Dumnezeu” etc.."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«De la Domnul, din ceruri.» Nu că a ridicat nori de la marginea pământului astfel încât să umble prin aer, cum se întâmplă în fire cu fulgerele și cu pietrele de foc."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Și Domnul a făcut să plouă.» Îngerul Gabriel.<br><br>«De la Domnul.» Șekhinah însăși. Și tot așa este în Bereșit Rabbah și în Tanḥuma."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și Domnul»: îngerul se numește cu numele stăpânului său, cum am scris.<br><br>«De la Domnul»: de la Dumnezeu, binecuvântat fie El; aceasta este „din ceruri”, și a explicat: din aerul cel înalt."
+   },
+   {
     "author": "Talmudul Babilonian, Sanhedrin 38b:21",
     "text": "I-a spus un min lui Rabbi Yișmaʿel, fiul lui Rabbi Yose: Este scris: „Și Domnul a făcut să plouă asupra Sodomei și asupra Gomorei pucioasă și foc de la Domnul”; „de la El” ar fi trebuit să spună! I-a spus un spălător: Lasă-l, eu îi voi răspunde, căci este scris: „Și Lameh le-a spus soțiilor lui: „Ada și Țila, ascultați-mi glasul! Soții ale lui Lameh””; „soțiile mele” ar fi trebuit să spună! Ci așa vorbește Scriptura; și aici, de asemenea, așa vorbește Scriptura. I-a spus: De unde ai aceasta? Din lecția lui Rabbi Meir am auzit-o."
    },
@@ -4214,6 +4499,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și a prăpădit acele orașe etc.» Toate patru stăteau pe o singură stâncă, și le-a răsturnat de sus în jos, cum s-a spus: „în cremene Și-a întins mâna” etc.."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Și vegetația pământului.» Copacii au fost arși."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și a prăpădit (va-yahafokh).» Căci acel pământ și locuitorii lui s-au prefăcut în firea pucioasei și a focului, cum „le-a prefăcut apele în sânge”; și în ele s-a prefăcut în firea sării acea rouă care se ridicase înainte de răsărit, cum a spus: „pucioasă și sare, tot pământul ei este ars”, după rânduiala oricărei umezeli fără gust amestecate cu părți arse."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a prăpădit»: i-a întors din bine în rău. Și la început era o țară de vite, toată irigată, un loc ale cărui pietre sunt safir și are pulberi de aur, o țară din care iese pâine, iar dedesubtul ei a fost răsturnată ca de foc; căci Dumnezeu a făcut să plouă peste ea pucioasă și foc și a ars și a dărâmat toate orașele și ce era în ele, om și vită, și vegetația pământului; și tot pământul a ajuns arsură, încât nu a mai răsărit; aceasta este prăpădul. Și de asemenea aerul ei a fost ars, încât nicio pasăre nu a mai zburat peste el, cum a spus: „cărarea pe care n-a cunoscut-o pasărea de pradă și pe care n-a văzut-o ochiul șoimului, pe care n-au călcat-o fiarele mândre, pe care n-a trecut leul”."
    }
   ]
  },
@@ -4337,6 +4634,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Iar soția lui… s-a uitat din spatele lui.» Soția lui Lot.<br><br>«Și s-a prefăcut într-un stâlp de sare.» Cu sare a păcătuit și cu sare a fost pedepsită. Lot i-a zis: Dă puțină sare acestor oaspeți. Ea i-a zis: Și acest obicei rău vii să-l aduci în locul acesta?."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Din spatele lui.» Din spatele lui Lot.<br><br>«Stâlp (neṣiv).» Cu sensul de maṣṣevah („stâlp”), căci oasele ei au fost arse în pucioasă și a fost cu sare; căci așa este scris: „pucioasă și sare… ca prăpădul Sodomei”. Și acest verset arată că și Țoar a scăpat; tot așa a spus și îngerul."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«din spatele lui» Din spatele lui Lot, care mergea în urma lor, adunându-i pe toți ai casei lui, zorindu-i să scape."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar soția lui... s-a uitat din spatele lui»: soția lui, care era în spatele lui Lot, s-a uitat în urma ei, căci era puțin credincioasă, și s-a uitat dacă orașul a fost prăpădit sau nu, deși auzise avertismentul îngerului către Lot. Și a scris acest verset după „și a prăpădit”, căci toți locuitorii orașelor așa erau: unii dintre ei stâlp de sare și alții stâlp de pucioasă; și deși nu s-a pomenit sarea la ploaie, cu pucioasa era sare; căci așa a spus Scriptura: „Pucioasă și sare, vâlvătaie în toată țara”, și a spus „ca prăpădul Sodomei...”.<br><br>«Un stâlp de sare» (neṣiv melaḥ): ca un morman de sare. Și a spus neṣiv ca să spună că, precum stătea în picioare (niṣṣevah) când s-a uitat în urma ei, așa s-a făcut sare în statura ei."
    }
   ]
  },
@@ -4453,7 +4762,16 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 18:22"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Către locul unde stătuse înaintea Domnului.» Către locul unde îi condusese pe îngeri, căci acolo fusese asupra lui mâna Domnului; și aceasta pentru că se gândea să ceară îndurare pentru ei, după ce nu le găsise merit prin judecată."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Către locul unde stătuse»: cum a spus „iar Avraam încă stătea înaintea Domnului”; și acesta este locul în care s-au despărțit de el îngerii în viziune. Iar învățătorii noștri, binecuvântată fie amintirea lor, s-au sprijinit pe aceasta că Avraam a rânduit rugăciunea de dimineață, căci este scris „s-a sculat dis-de-dimineață”, și nu este „stare” decât rugăciune, căci este scris: „și Fineas s-a ridicat și a judecat” (wa-yaʿamod Fineas wa-yefallel). Și a explicat că a învățat pe oameni că se cuvine omului să se roage dimineața și să-I mulțumească lui Dumnezeu pentru lumină și să se roage înainte de a ieși la treburile lui. Și încă s-au sprijinit pe aceasta că se cuvine omului să-și statornicească un loc pentru rugăciunea lui, căci s-a spus: „către locul unde stătuse”."
+   }
+  ]
  },
  {
   "num": 28,
@@ -4659,6 +4977,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Fumul (qiṭor).» Un stâlp de fum, în laʿaz torche.<br><br>«Furnalul (ha-kivšan).» O groapă în care se ard pietrele pentru var; și tot așa orice kivšan din Tora."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Precum fumul (ke-qiṭor).» Ca fumul, din rădăcina lui qeṭoret („tămâie”).<br><br>«Furnal (kivšan).» Loc de foc care arde neîncetat."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și a privit.» O privire de vrăjmășie pentru mulțimea răutății lor.<br><br>«S-a uitat și iată, fumul pământului se ridica.» Și astfel a văzut că nu mai era de ce să se roage pentru ei."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Și a privit.» Ca să știe dacă s-au aflat acolo zece și au fost salvați, sau nu."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Fumul pământului» (qiṭor ha-areṣ): fum de la arderea cu care a ars pământul.<br><br>«Furnal» (kivšan): acela în care se ard pietrele pentru var sau în care se ard vasele de lut."
    }
   ]
  },
@@ -4909,6 +5243,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Dumnezeu Și-a amintit de Avraam.» Care este amintirea lui Avraam în privința lui Lot? Și-a amintit că Lot știa că Sara era soția lui Avraam și auzise că Avraam a zis în Egipt („Mițrayim”) despre Sara „este sora mea”, și nu a dat pe față lucrul, căci îi era milă de el; de aceea și Sfântul, binecuvântat fie El, a avut milă de el."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Unde locuise (bahen).» Într-unul dintre ele; și tot așa „și a fost îngropat în cetățile Galaadului”, „mânzul asinelor”, „să fie arși în foc, și el, și ele”."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Dumnezeu Și-a amintit de Avraam; și l-a scos pe Lot» Sensul acestui verset este că Lot s-a purtat cu bunătate față de cel drept, mergând cu el să cutreiere prin țară oriunde mergea; și aceasta este ce s-a spus: „și Lot a plecat cu el”, căci pentru tovărășia lui a mers; și de aceea a avut un merit, ca să fie salvat prin meritul lui Avraam, căci pentru el locuia ca străin în Sodoma, iar dacă n-ar fi fost Avraam, ar fi fost încă în Haran, cu neamul lui; și nu se cuvenea să vină asupra lui răul din pricina lui Avraam, care a ieșit la porunca Stăpânului său. Și tot acesta a fost lucrul pentru care Avraam și-a pus viața în palmă ca să-i urmărească pe regi pentru el."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Din mijlocul prăpădului, când a prăpădit orașele.» Fiindcă a fost scăpat prin meritul lui Avraam din mijlocul prăpădului, în timp ce Dumnezeu, binecuvântat fie El, prăpădea orașele, înainte ca Lot să iasă din toată câmpia; și de aceasta nu ar fi fost vrednic în niciun fel, după ce nu a scăpat înainte de începutul pedepsei, din lenea lui, cum a spus: „dar el a zăbovit”. De aceea s-a temut să se așeze în Țoar, căci a crezut că prăpădul va aștepta și cu Țoarul până va scăpa el din el, prin meritul lui Avraam, iar după ieșirea lui de acolo prăpădul se va întinde și asupra Țoarului."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a fost, când a distrus»: a spus aceasta după ce a spus „s-a sculat dis-de-dimineață” și „a privit”, ca să facă cunoscut că în meritul lui Avraam l-a salvat Dumnezeu pe Lot; căci deși era drept, nu era atât de drept încât să fie salvat în meritul lui, dacă nu ar fi fost meritul lui Avraam. Iar acum, când privea peste Sodoma și Gomora, ca să nu-i cadă inima din pricina lui Lot, fiul fratelui său, Domnul i-a făcut cunoscut că va fi salvat.<br><br>«Din mijlocul prăpădului»: înainte să vină prăpădul.<br><br>«Când a prăpădit orașele»: la vremea când a voit să prăpădească; căci iată, îngerul i-a spus: „căci nu pot face nimic până când nu vei fi ajuns acolo”."
    }
   ]
  },
@@ -5085,6 +5435,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Căci se temea să se așeze în Țoar.» Pentru că era aproape de Sodoma."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«căci se temea să se așeze în Țoar» A scris Rashi: „pentru că era aproape de Sodoma”. Dar nu este așa; ci pentru că era dintre locurile asupra cărora fusese hotărâtă nimicirea, iar prin rugămintea lui Lot îngerul a lăsat-o, pentru că nu putea să fugă la munte în ziua aceea; a socotit în inima lui că nu-i va mai da răgaz, după ce are vreme îndelungată să fugă la munte. Și de aceea a spus fiica lui „și nu există niciun om pe pământ”, căci socotea că, la ieșirea tatălui ei de acolo, Țoarul a fost distrus."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și s-a așezat la munte.» Căci a crezut că prăpădul se va întinde în toată câmpia, până la munte, cum a arătat îngerul spunând: „fugi la munte”."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Căci se temea să se așeze în Țoar.» Căci îngerul nu l-a lăsat acolo decât pentru că nu avea răgaz să scape la munte; iar acum, că avea răgaz, a împlinit cuvintele îngerului, să locuiască la munte: poate va răsturna orașul."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Lot a urcat»: după ce a avut răgaz și fusese deja distrus ceea ce era de distrus, a ieșit din Țoar, pentru că erau răi, și s-a temut ca nu cumva focul Domnului să mai ardă încă între ei.<br><br>Și a urcat de acolo «și s-a așezat la munte»: acesta este muntele despre care îi spusese îngerul: „fugi la munte, ca nu cumva să fii nimicit”.<br><br>«Și a locuit într-o peșteră» care era în munte."
    }
   ]
  },
@@ -5275,6 +5641,30 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Tatăl nostru este bătrân.» Și dacă nu acum, atunci când? Poate va muri sau va înceta să aibă urmași.<br><br>«Și nu există niciun om pe pământ.» Credeau că toată lumea a fost distrusă, ca în generația potopului."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Cea întâi-născută a spus.» Se poate că el avusese o altă soție, care murise mai înainte; iar fiicele au gândit că focul și pucioasa au fost pe tot pământul, ca potopul de ape."
+   },
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«Cea întâi-născută a spus» Rabbi Avraham a spus: este posibil să fi avut o altă soție, care a murit la început. Dar nu este nevoie: căci „cea întâi-născută” (ha-bekhira) este opusul lui „cea tânără” (ṣeʿira); orice mai mare între frați se numește „întâi-născut”, iar orice mai mic decât el, „tânăr” față de el; iar rodul dintâi al anului se numește „primele roade” (bikkurim); și tot așa „întâii-născuți ai săracilor” – cei dintâi în sărăcie, care sunt cei mai săraci dintre săraci; și tot așa „cu întâiul lui născut îi va pune temelia și cu cel mai tânăr îi va așeza porțile”; și tot așa a tradus Onkelos: „cea mai mare”."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Tatăl nostru este bătrân.» Și nu se va încumeta să pribegească departe, într-o altă țară.<br><br>«Și nu există niciun om pe pământ care să vină la noi.» Nu este niciun om în acest ținut potrivit să vină la noi «după obiceiul întregului pământ», căci obiceiul este ca femeia să nu se mărite decât cu cel vrednic de ea."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Și nu există niciun om pe pământ.» Credeau că lumea a fost răsturnată, că a adus un potop de foc."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Și nu există niciun om pe pământ care să vină la noi.» Rabbi Avraham ibn Ezra, binecuvântată fie amintirea lui, a explicat: nu există pe pământ niciun om vrednic să vină la noi, căci se socoteau de neam ales."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și a spus ...: „Tatăl nostru este bătrân”»: și nu mai este nădejde să ia o femeie și să aibă fii; și dacă noi vom muri fără sămânță, iată, nu va rămâne nicio amintire de la tatăl nostru; și dacă vei spune: „Să ne luăm soți și să avem sămânță”, nu se va găsi.<br><br>«Și nu există niciun om pe pământ care să vină la noi»: cei mai mulți dintre comentatori au explicat că au socotit că tot pământul a fost ca Sodoma și Gomora, încât nu a mai rămas bărbat și femeie pe pământ; și aceasta este departe, căci iată, ele ieșiseră din Țoar, care nu a fost prăpădit, și la fel trebuiau să socotească că și restul pământului nu a fost prăpădit; și de asemenea auziseră de la tatăl lor că Sodoma și Gomora au fost prăpădite din pricina răutății locuitorilor lor. Și bun este ceea ce am auzit în numele lui Yosef Qara: că cea întâi-născută a spus: „Nu se va găsi un om care să vrea să ne ia de soții, căci vor spune: «Ele sunt din oamenii prăpădului, și nu se cuvine să te unești cu ele».”"
    }
   ]
  },
@@ -5422,7 +5812,16 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 9:21"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«ca să dăm viață la urmași de la tatăl nostru» Iar sensul lui „ca să dăm viață la urmași de la tatăl nostru” este cu „poate”: căci au spus: Să facem noi fapta care ni se cuvine, căci Dumnezeu Se va îndura, și vom naște băiat și fată, și lumea va dăinui din ei, căci „lumea se zidește cu bunătate”; și nu degeaba ne-a salvat Domnul. Și iată, erau sfioase și n-au voit să-i spună tatălui lor să le ia de soții, căci fiului lui Noe îi este îngăduită fiica lui; sau că lucrul era foarte urât în ochii generațiilor acelora și nu se făcuse niciodată așa. Și tot așa învățătorii noștri, în aggadot, îl ocărăsc foarte mult pe Lot."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Haide» (lekhah): am explicat deja că cuvintele lekhah, lekhu, havah sunt lucru de înțelegere și de ajutor al unuia de la tovarășul lui; de aceea nu se păstrează în ele singular și plural, masculin și feminin, căci sunt ca un substantiv.<br><br>«Să-i dăm tatălui nostru să bea vin»: adică până ce se va îmbăta și nu va ști ce face, «și să ne culcăm cu el»; căci cu știință nu s-ar fi culcat cu fiicele lui; departe de creșterea tatălui nostru să facă un lucru de nelegiuire. Și ne-a făcut cunoscut în această povestire că și cei care nu sunt fiii Torei se depărtează de aceste urâciuni; cu atât mai mult fiii Torei, cărora li se cuvine să se depărteze de ele. Și toată această povestire a fost scrisă ca să facă cunoscute generațiile lui Amon și Moab, căci din fiii lui Lot au fost aceste două neamuri; iar Dumnezeu le-a dat o țară de moștenire din dragoste pentru Avraam, părintele nostru, căci Lot era fiul fratelui său și crescut în casa lui; și l-a oprit pe Israel să nu-i asedieze și să nu se lupte cu ei, căci nu a dat din țara lor nici cât o urmă de talpă, căci fiilor lui Lot le-a dat-o ca moștenire. «Ca să dăm viață la urmași de la tatăl nostru»: căci cel care nu lasă sămânță, iată, este mort, dacă nu lasă după el un lucru prin care să i se pomenească numele."
+   }
+  ]
  },
  {
   "num": 33,
@@ -5600,6 +5999,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«I-au dat… să bea etc.» Li s-a pregătit vin în peșteră, ca să iasă din ele două neamuri.<br><br>«Și s-a culcat cu tatăl ei.» Iar la cea tânără este scris „s-a culcat cu el”? Cea tânără, pentru că nu ea a început desfrâul, ci sora ei a învățat-o, Scriptura a cruțat-o și nu și-a lămurit rușinea; dar cea întâi-născută, care a început desfrâul, Scriptura a dat-o în vileag în mod lămurit.<br><br>«Nici când ea s-a sculat (u-ve-qumah).» Cuvântul din relatarea despre cea întâi-născută are un punct, ca să spună că atunci când s-a sculat el a știut, și totuși nu s-a păzit în noaptea a doua să nu bea. A zis Rabbi Levi: Oricine este aprins de pofta nestăpânită a desfrâului, la urmă este hrănit cu propria lui carne."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Când ea s-a culcat (be-šikhbah).» Infinitiv, chiar dacă este cu ḥiriq; și tot așa „când vă voi tăia (be-šivri)”."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«I-au dat... să bea... în noaptea aceea» (ba-laylah hu): cu lipsa lui he al articolului din adjectiv; și la fel „carul nou” (et ha-ʿagalah ḥadašah), „mielul unul” (et ha-keves eḥad), „capul unul” (ha-roš eḥad), și cele asemenea lor.<br><br>«Și el nu a știut»: nici când s-a sculat de lângă el nu a simțit-o, din mulțimea beției lui. Și a scris aceasta ca să facă cunoscut că, dacă ar fi simțit-o când s-a sculat, s-ar fi certat cu ele, cum s-au pornit să facă o asemenea urâciune. «Și când ea s-a sculat» (u-v-qumah): cu punct pe waw. Și este un midraș: când s-a culcat nu a știut, dar când s-a sculat a știut; și cu toate acestea nu s-a ferit a doua noapte să se îmbete."
    }
   ]
  },
@@ -5761,7 +6168,12 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 19:33"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Noaptea trecută» (emeš): noaptea care a trecut se numește emeš."
+   }
+  ]
  },
  {
   "num": 35,
@@ -5907,7 +6319,12 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 19:33"
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și când ea s-a sculat» (u-v-qumah): fără waw."
+   }
+  ]
  },
  {
   "num": 36,
@@ -6001,6 +6418,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și… au zămislit etc.» Deși femeia nu rămâne însărcinată de la prima împreunare, acestea s-au stăpânit și și-au scos goliciunea în afară, și au rămas însărcinate de la prima împreunare."
+   },
+   {
+    "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
+    "text": "«Și … au zămislit.» Rashi a explicat: deși femeia nu rămâne însărcinată din prima împreunare, acestea s-au stăpânit și și-au scos ʿervatan („goliciunea lor”). Avem lecțiunea ʿedutan („mărturia lor”) în Bereșit Rabba, explicație: fecioria lor; și dovada este din Bereșit Rabba: „Dar acestea sunt semnele fecioriei fiicei mele” — ʿedut bitti („mărturia fiicei mele”). Și nu avem lecțiunea cu reș, cum spune lumea."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Au zămislit»: din acea unire au zămislit; ca să facă cunoscut că nu au mai continuat să se culce cu el, căci nu au urmărit decât să lase sămânță."
    }
   ]
  },
@@ -6139,6 +6564,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Moab.» Aceasta, care nu era sfioasă, a lămurit că fiul este de la tatăl ei (me-av); dar cea tânără l-a numit cu exprimare cuviincioasă (Ben-Ami, „fiul poporului meu”), și a primit răsplată în zilele lui Moise, căci s-a spus despre fiii lui Amon: „să nu te războiești cu ei” — în general; iar despre Moab nu l-a avertizat decât să nu se lupte cu ei, dar să-i necăjească i-a îngăduit."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Moab.» Ca me-av („de la tată”).<br><br>Iar sensul lui «până astăzi»: că nu s-a amestecat cu ei un neam străin; sau: acest lucru este cunoscut până astăzi."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Și i-a pus numele Moab… și i-a pus numele Ben-Ami.» Ca să arate că nu au zămislit de la un om nevrednic.<br><br>«El este părintele Moabului… el este părintele fiilor lui Amon.» Care au moștenit o țară; căci, pentru că intenția femeilor era plăcută, seminția lor a devenit două neamuri care l-au moștenit pe Avraam în parte, cum au spus: „În toate căile tale cunoaște-L”, chiar și pentru un lucru care este fărădelege."
+   },
+   {
+    "author": "Rashbam (cca. 1085–1158)",
+    "text": "«Până astăzi.» În zilele lui Moise. Și tot așa orice „până astăzi”: până în zilele scriitorului care a scris lucrul."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Moab»: adică, de la tată (me-av) am avut acest fiu.<br><br>«Părintele Moabului»: părintele neamului care se numește Moab până astăzi."
    }
   ]
  },
@@ -6288,6 +6729,10 @@ window.CHAPTER_DATA = [
    "2 Cronici 20:1"
   ],
   "commentaries": [
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Ben-Ami»: adică, din familia mea (ʿammi) am avut acest fiu; și aceasta era mai cuviincioasă decât cea întâi-născută, căci nu a dezvăluit că este de la tatăl ei. «Amoniților» (bene ʿAmmon): poporul se numește fiii lui Amon."
+   },
    {
     "author": "Cartea Jubileelor 16 — context/comparație",
     "text": "Și iată, s-a poruncit și s-a săpat despre toată sămânța lui, pe tablele cerești, să-i ia și să-i stârpească, și să facă judecată asupra lor ca judecata Sodomei, și să nu lase sămânță a omului pe pământ în ziua osândei."

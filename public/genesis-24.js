@@ -236,6 +236,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
     "text": "«Vei fi absolvit de jurământul acesta (zot) al meu.» Zot („acesta”) înseamnă restrângere: să spună că de jurământul „ci înspre țara mea și înspre locul meu natal să mergi” vei fi absolvit, dar de jurământul „că nu vei lua o soție pentru fiul meu” nu vei fi absolvit. Și după aceasta trebuie spus că Aner, Eșcol și Mamre nu erau canaaniți.<br><br>«Însă pe fiul meu să nu cumva să-l întorci acolo.» Și deși el nu venise niciodată acolo, se potrivește și la Isaac exprimarea de „întoarcere”, din pricina lui Eliezer, care mergea cu el, și pentru care ar fi fost o întoarcere deplină, căci fusese deja acolo. Și tot așa la Rut moabita, „care s-a întors cu Naomi din câmpiile Moabului”: deși Rut nu fusese niciodată acolo, o numește cu exprimarea „întoarcere”, din pricina lui Naomi, care mergea cu ea."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Iar dacă»: este lămurit."
    }
   ]
  },
@@ -256,6 +260,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashbam (cca. 1085–1158)",
     "text": "«În legătură cu acest lucru.» Despre condiția pe care i-a explicat-o Avraam."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și și-a pus»: este lămurit."
    }
   ]
  },
@@ -446,7 +454,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Și-a umplut ulciorul și a urcat»: că a scos din izvor un ulcior plin, iar apele erau aproape de fața pământului; de aceea l-a numit „izvor” și „fântână”. Și există un midraș că apele s-au urcat în întâmpinarea ei, pentru că a spus „și-a umplut” și nu a spus „a scos apă”. Și iată, în privința Agarei spune: „și a mers și a umplut burduful de apă”."
+    "text": "«Și niciun bărbat nu o cunoscuse»: nici măcar pe cale nefirească.<br><br>«Și-a umplut ulciorul și a urcat»: că a scos din izvor un ulcior plin, iar apele erau aproape de fața pământului; de aceea l-a numit „izvor” și „fântână”. Și există un midraș că apele s-au urcat în întâmpinarea ei, pentru că a spus „și-a umplut” și nu a spus „a scos apă”. Și iată, în privința Agarei spune: „și a mers și a umplut burduful de apă”."
    }
   ]
  },
@@ -574,7 +582,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Iar omul era uimit de ea»: se mira de ea, că o vedea făcând cu sârguință, și încă tăcea față de ea, ca să nu o întrebe a cui fiică este, până ce cămilele vor termina de băut."
+    "text": "«Iar omul era uimit de ea»: se mira de ea, că o vedea făcând cu sârguință, și încă tăcea față de ea, ca să nu o întrebe a cui fiică este, până ce cămilele vor termina de băut.<br><br>«Dacă Domnul i-a făcut reușită»: dacă ea este fiică de oameni de bine și din familia lui Avraam, sau nu."
    }
   ]
  },
@@ -614,7 +622,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«A luat»: ca să i-l dea după ce o va întreba a cui fiică este; și dacă este din familia lui Avraam, i-l va da; și așa a fost la povestirea lucrurilor: căci mai întâi a întrebat-o și după aceea i-a dat."
+    "text": "«A luat»: ca să i-l dea după ce o va întreba a cui fiică este; și dacă este din familia lui Avraam, i-l va da; și așa a fost la povestirea lucrurilor: căci mai întâi a întrebat-o și după aceea i-a dat.<br><br>«Beka»: o jumătate de siclu; și i l-a pus în nas, cum a povestit, și tot așa i-a pus cele două brățări pe mâini.<br><br>«Zece sicli de aur»: după Targumul lui."
    }
   ]
  },
@@ -663,6 +671,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Sunt fiica lui Betuel.» I-a răspuns la prima întrebare întâi și la ultima la urmă."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Ea i-a spus»: la prima întrebare i-a răspuns; iar Milca și Nahor erau cunoscuți, de aceea i-a spus toate acestea."
    }
   ]
  },
@@ -1240,6 +1252,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Ia-o și du-te.» Chiar și fără învoirea noastră.<br><br>«După cum a vorbit Domnul.» Că a hotărât „fiica lui cutare pentru cutare”, căci iată, a dat un semn al voii Lui în aceasta."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«După cum a vorbit Domnul»: căci El a rânduit-o pentru tine, cum ai cerut."
    }
   ]
  },
@@ -1304,6 +1320,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Au înnoptat.» Orice „înnoptare” din Scriptură este înnoptarea unei singure nopți."
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Au mâncat»: este lămurit."
    }
   ]
  },
@@ -1451,7 +1471,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«Au binecuvântat-o»: când au ajuns la locul însoțirii și au voit să se despartă de ea, au binecuvântat-o, după obiceiul lumii.<br><br>«Să devii» (hayi): he-ul cu ševa și pataḥ.<br><br>«Mii de miriade» (le-alfei revavah): mii care să ajungă la miriadă, care este zece mii, și mai mult; ci miriada este numărul mare.<br><br>«Iar seminția ta să moștenească»: li s-a nimerit binecuvântarea cu care îngerul îl binecuvântase pe Avraam în ziua legării."
+    "text": "«Au binecuvântat-o»: când au ajuns la locul însoțirii și au voit să se despartă de ea, au binecuvântat-o, după obiceiul lumii.<br><br>«Să devii» (hayi): he-ul cu ševa și pataḥ.<br><br>«Mii de miriade» (le-alfei revavah): mii care să ajungă la miriadă, care este zece mii, și mai mult; ci miriada este numărul mare.<br><br>«Iar seminția ta să moștenească»: li s-a nimerit binecuvântarea cu care îngerul îl binecuvântase pe Avraam în ziua legării.<br><br>«Poarta vrăjmașilor ei»: l-am explicat."
    }
   ]
  },
