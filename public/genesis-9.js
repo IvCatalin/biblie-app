@@ -1,3882 +1,3853 @@
 window.CHAPTER_DATA = [
-  {
-    "num": 1,
-    "tokens": [
-      {
-        "t": "Dumnezeu",
-        "w": "Dumnezeu",
-        "heb": "אֱלֹהִים",
-        "translit": "Elohim",
-        "strong": "H430",
-        "pos": "substantiv",
-        "greek": "ὁ Θεὸς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Dumnezeu."
-      },
-      {
-        "t": " i-a "
-      },
-      {
-        "t": "binecuvântat",
-        "w": "binecuvântat",
-        "heb": "וַיְבָרֶךְ",
-        "translit": "vayevarekh",
-        "strong": "H1288",
-        "pos": "verb",
-        "greek": "εὐλόγησεν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "i-a binecuvântat."
-      },
-      {
-        "t": " pe "
-      },
-      {
-        "t": "Noe",
-        "w": "Noe",
-        "heb": "נֹחַ",
-        "translit": "Noach",
-        "strong": "H5146",
-        "pos": "nume propriu",
-        "greek": "τὸν Νῶε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Noe."
-      },
-      {
-        "t": " și pe "
-      },
-      {
-        "t": "fiii",
-        "w": "fiii",
-        "heb": "בָּנָיו",
-        "translit": "banav",
-        "strong": "H1121",
-        "pos": "substantiv",
-        "greek": "τοὺς υἱοὺς αὐτοῦ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "fiii lui."
-      },
-      {
-        "t": " lui și le-a "
-      },
-      {
-        "t": "spus",
-        "w": "spus",
-        "heb": "וַיֹּאמֶר",
-        "translit": "vayomer",
-        "strong": "H559",
-        "pos": "verb",
-        "greek": "εἶπεν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "le-a spus."
-      },
-      {
-        "t": ": „"
-      },
-      {
-        "t": "Fiți roditori",
-        "w": "Fiți roditori",
-        "heb": "פְּרוּ",
-        "translit": "peru",
-        "strong": "H6509",
-        "pos": "verb, imperativ",
-        "greek": "αὐξάνεσθε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "fiți roditori."
-      },
-      {
-        "t": ", "
-      },
-      {
-        "t": "înmulțiți-vă",
-        "w": "înmulțiți-vă",
-        "heb": "וּרְבוּ",
-        "translit": "urevu",
-        "strong": "H7235",
-        "pos": "verb, imperativ",
-        "greek": "πληθύνεσθε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "înmulțiți-vă."
-      },
-      {
-        "t": " și "
-      },
-      {
-        "t": "umpleți",
-        "w": "umpleți",
-        "heb": "וּמִלְאוּ",
-        "translit": "umil'u",
-        "strong": "H4390",
-        "pos": "verb, imperativ",
-        "greek": "πληρώσατε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "umpleți."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "pământul",
-        "w": "pământul",
-        "heb": "הָאָרֶץ",
-        "translit": "ha'arets",
-        "strong": "H776",
-        "pos": "substantiv",
-        "greek": "τὴν γῆν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "pământul."
-      },
-      {
-        "t": "."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַיְבָרֶךְ אֱלֹהִים אֶת־נֹחַ וְאֶת־בָּנָיו וַיֹּאמֶר לָהֶם פְּרוּ וּרְבוּ וּמִלְאוּ אֶת־הָאָרֶץ",
-        "translation": "„Dumnezeu i-a binecuvântat pe Noe și pe fiii lui și le-a spus: „Fiți roditori, înmulțiți-vă și umpleți pământul.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "Καὶ ηὐλόγησεν ὁ Θεὸς τὸν Νῶε καὶ τοὺς υἱοὺς αὐτοῦ καὶ εἶπεν αὐτοῖς Αὐξάνεσθε καὶ πληθύνεσθε καὶ πληρώσατε τὴν γῆν καὶ κατακυριεύσατε αὐτῆς.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ויברך אלהים את נח ואת בניו ויאמר להם פרו ורבו ומלאו את הארץ",
-        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
-        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi Dumnezeu a binecuvântat pe Noe şi pe fiii lui şi le-a spus: Fiţi roditori şi înmulţiţi-vă şi umpleţi pământul.",
-    "refs": [
-      "Geneza 1:28"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Notează reluarea exactă a binecuvântării date lui Adam (Geneza 1:28), acum lui Noe — o a doua „origine” a omenirii, dar cu o diferență importantă adăugată la v.2: acum frica animalelor față de om înlocuiește armonia originală din Eden."
-      }
-    ]
-  },
-  {
-    "num": 2,
-    "tokens": [
-      {
-        "t": "Iar "
-      },
-      {
-        "t": "teama",
-        "w": "teama",
-        "heb": "וּמוֹרַאֲכֶם",
-        "translit": "umora'akhem",
-        "strong": "H4172",
-        "pos": "substantiv",
-        "greek": "ὁ τρόμος ὑμῶν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "teama voastră."
-      },
-      {
-        "t": " de voi și "
-      },
-      {
-        "t": "groaza",
-        "w": "groaza",
-        "heb": "וְחִתְּכֶם",
-        "translit": "vechitkhem",
-        "strong": "H2851",
-        "pos": "substantiv",
-        "greek": "ὁ φόβος ὑμῶν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "groaza voastră."
-      },
-      {
-        "t": " de voi să fie peste toate "
-      },
-      {
-        "t": "animalele",
-        "w": "animalele",
-        "heb": "חַיַּת",
-        "translit": "chayat",
-        "strong": "H2416",
-        "pos": "substantiv",
-        "greek": "τὰ θηρία",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "animalele."
-      },
-      {
-        "t": " pământului și peste toate "
-      },
-      {
-        "t": "păsările",
-        "w": "păsările",
-        "heb": "עוֹף",
-        "translit": "of",
-        "strong": "H5775",
-        "pos": "substantiv",
-        "greek": "τὰ πετεινὰ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "păsările."
-      },
-      {
-        "t": " cerurilor, în toate cele care "
-      },
-      {
-        "t": "mișună",
-        "w": "mișună",
-        "heb": "תִּרְמֹשׂ",
-        "translit": "tirmos",
-        "strong": "H7430",
-        "pos": "verb",
-        "greek": "κινεῖται",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "mișună."
-      },
-      {
-        "t": " pe pământ și în toți "
-      },
-      {
-        "t": "peștii",
-        "w": "peștii",
-        "heb": "דְּגֵי",
-        "translit": "degei",
-        "strong": "H1709",
-        "pos": "substantiv",
-        "greek": "τοὺς ἰχθύας",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "peștii."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "mărilor",
-        "w": "mărilor",
-        "heb": "הַיָּם",
-        "translit": "hayam",
-        "strong": "H3220",
-        "pos": "substantiv",
-        "greek": "τῆς θαλάσσης",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "mărilor."
-      },
-      {
-        "t": ": în "
-      },
-      {
-        "t": "mâna",
-        "w": "mâna",
-        "heb": "יֶדְכֶם",
-        "translit": "yedkhem",
-        "strong": "H3027",
-        "pos": "substantiv cu sufix",
-        "greek": "τὰς χεῖρας ὑμῶν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "mâna voastră."
-      },
-      {
-        "t": " voastră sunt "
-      },
-      {
-        "t": "date",
-        "w": "date",
-        "heb": "נִתָּנוּ",
-        "translit": "nitanu",
-        "strong": "H5414",
-        "pos": "verb (pasiv)",
-        "greek": "δέδονται",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "date."
-      },
-      {
-        "t": "."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וּמוֹרַאֲכֶם וְחִתְּכֶם יִהְיֶה עַל כָּל־חַיַּת הָאָרֶץ וְעַל כָּל־עוֹף הַשָּׁמָיִם בְּכֹל אֲשֶׁר תִּרְמֹשׂ הָאֲדָמָה וּבְכָל־דְּגֵי הַיָּם בְּיֶדְכֶם נִתָּנוּ",
-        "translation": "„Iar teama de voi și groaza de voi să fie peste toate animalele pământului și peste toate păsările cerurilor, în toate cele care mișună pe pământ și în toți peștii mărilor: în mâna voastră sunt date.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ ὁ τρόμος ὑμῶν καὶ ὁ φόβος ἔσται ἐπὶ πᾶσιν τοῖς θηρίοις τῆς γῆς καὶ ἐπὶ πάντα τὰ ὄρνεα τοῦ οὐρανοῦ καὶ ἐπὶ πάντα τὰ κινούμενα ἐπὶ τῆς γῆς καὶ ἐπὶ πάντας τοὺς ἰχθύας τῆς θαλάσσης· ὑπὸ χεῖρας ὑμῖν δέδωκα.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ומראכם וחתתכם יהיה על כל חית הארץ ועל כל עוף השמים ובכל אשר תרמש האדמה ובכל דגי הים בידכם נתתיו",
-        "translation": "Diferență reală, confirmată: ומראכם וחתתכם יהיה על כל חית הארץ ועל כל עוף השמים ובכל אשר תרמש האדמה ובכל דגי הים בידכם נתתיו — „And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth [upon] the earth, and upon all the fishes of the sea; into your hand are they delivered.”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi teama de voi şi groaza de voi va fi peste fiecare fiară a pământului şi peste fiecare pasăre a cerului, peste tot ce mişcă pe pământ şi peste toţi peştii mării; în mâna voastră sunt ele predate.",
-    "refs": [
-      "Psalmul 8:6-8",
-      "Geneza 1:26"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "„Teama și groaza” impuse acum asupra animalelor sunt înțelese de Rashi ca o consecință directă a permisiunii de la v.3 (mâncarea cărnii) — înainte de Potop, omul nu avea voie să mănânce carne, iar animalele nu se temeau de el."
-      }
-    ]
-  },
-  {
-    "num": 3,
-    "tokens": [
-      {
-        "t": "Tot ce "
-      },
-      {
-        "t": "mișună",
-        "w": "mișună",
-        "heb": "רֶמֶשׂ",
-        "translit": "remes",
-        "strong": "H7431",
-        "pos": "substantiv",
-        "greek": "ἑρπετόν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "mișună."
-      },
-      {
-        "t": ", ce este "
-      },
-      {
-        "t": "viu",
-        "w": "viu",
-        "heb": "חַי",
-        "translit": "chai",
-        "strong": "H2416",
-        "pos": "adjectiv",
-        "greek": "ζῶν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "viu."
-      },
-      {
-        "t": ", să vă fie drept "
-      },
-      {
-        "t": "hrană",
-        "w": "hrană",
-        "heb": "לְאָכְלָה",
-        "translit": "le'akhlah",
-        "strong": "H402",
-        "pos": "substantiv",
-        "greek": "βρῶσιν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "hrană."
-      },
-      {
-        "t": "; ca "
-      },
-      {
-        "t": "vegetația",
-        "w": "vegetația",
-        "heb": "יֶרֶק",
-        "translit": "yerek",
-        "strong": "H3418",
-        "pos": "substantiv",
-        "greek": "χλωρὸν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "vegetația."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "verde",
-        "w": "verde",
-        "heb": "עֵשֶׂב",
-        "translit": "esev",
-        "strong": "H6212",
-        "pos": "substantiv",
-        "greek": "χόρτον",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "verde."
-      },
-      {
-        "t": ", vi le-am "
-      },
-      {
-        "t": "dat",
-        "w": "dat",
-        "heb": "נָתַתִּי",
-        "translit": "natati",
-        "strong": "H5414",
-        "pos": "verb",
-        "greek": "δέδωκα",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "le-am dat."
-      },
-      {
-        "t": " vouă pe toate."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "כָּל־רֶמֶשׂ אֲשֶׁר הוּא־חַי לָכֶם יִהְיֶה לְאָכְלָה כְּיֶרֶק עֵשֶׂב נָתַתִּי לָכֶם אֶת־כֹּל",
-        "translation": "„Tot ce mișună, ce este viu, să vă fie drept hrană; ca vegetația verde, vi le-am dat vouă pe toate.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ πᾶν ἑρπετόν, ὅ ἐστιν ζῶν, ὑμῖν ἔσται εἰς βρῶσιν· ὡς λάχανα χόρτου δέδωκα ὑμῖν τὰ πάντα.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "כל רמש אשר הוא חי לכם יהיה לאכלה כירק עשב נתתי לכם את הכל",
-        "translation": "Diferență reală, confirmată: כל רמש אשר הוא חי לכם יהיה לאכלה כירק עשב נתתי לכם את הכל — „Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Tot ce mişcă şi trăieşte va fi mâncare pentru voi; precum planta verde, v-am dat toate lucrurile.",
-    "refs": [
-      "Geneza 1:29"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Prima permisiune explicită de a mânca și carne, nu doar plante — Rashi notează contrastul cu Geneza 1:29, unde hrana dată lui Adam era strict vegetală; abia acum, după Potop, se extinde dieta umană."
-      },
-      {
-        "author": "Zohar, Leh Leha 27:5",
-        "text": "Și după aceea a venit Noaḥ și a văzut că trupul s-a zidit din locul yețer ha-ra; a adus o jertfă precum a adus Adam. Ce e scris (Geneza 8:21): «și a mirosit Domnul mirosul de odihnă» etc. «Că yețer-ul inimii omului e rău din tinerețea sa.» A zis Sfântul, binecuvântat fie El: de aici înainte, de vreme ce trupul s-a absorbit din acel yețer ha-ra, să se desfăteze trupul precum i se cuvine; să mănânce carne. «Ca iarba verde v-am dat totul»."
-      }
-    ]
-  },
-  {
-    "num": 4,
-    "tokens": [
-      {
-        "t": "Dar "
-      },
-      {
-        "t": "carne",
-        "w": "carne",
-        "heb": "בָּשָׂר",
-        "translit": "basar",
-        "strong": "H1320",
-        "pos": "substantiv",
-        "greek": "κρέας",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "carne."
-      },
-      {
-        "t": " cu "
-      },
-      {
-        "t": "sufletul",
-        "w": "sufletul",
-        "heb": "נַפְשׁוֹ",
-        "translit": "nafsho",
-        "strong": "H5315",
-        "pos": "substantiv",
-        "greek": "ψυχῇ αὐτοῦ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "sufletul ei."
-      },
-      {
-        "t": " ei, "
-      },
-      {
-        "t": "sângele",
-        "w": "sângele",
-        "heb": "דָמוֹ",
-        "translit": "damo",
-        "strong": "H1818",
-        "pos": "substantiv",
-        "greek": "αἷμα",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "sângele."
-      },
-      {
-        "t": " ei, să nu "
-      },
-      {
-        "t": "mâncați",
-        "w": "mâncați",
-        "heb": "תֹאכֵלוּ",
-        "translit": "tokhelu",
-        "strong": "H398",
-        "pos": "verb",
-        "greek": "φάγεσθε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "să mâncați."
-      },
-      {
-        "t": "."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "אַךְ־בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ",
-        "translation": "„Dar carne cu sufletul ei, sângele ei, să nu mâncați.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "πλὴν κρέας ἐν αἵματι ψυχῆς οὐ φάγεσθε.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "אך בשר בנפשו דמו לא תאכלו",
-        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
-        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Dar carnea cu viaţa din ea, ceea ce este sângele din ea, să nu mâncaţi.",
-    "refs": [
-      "Faptele Apostolilor 15:20",
-      "Levitic 17:10-14"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Interdicția de a mânca „carne cu sufletul ei” (sângele) e explicată de Rashi ca interzicerea consumului de carne dintr-un animal viu — o practică păgână veche, aici explicit interzisă chiar din prima poruncă alimentară dată omenirii de după Potop."
-      },
-      {
-        "author": "Talmud Babilonian, Sanhedrin 56a-59a",
-        "text": "Acest verset e sursa textuală standard pentru interdicția „ever min ha-chai” (a nu mânca dintr-un animal viu), a doua dintre cele șapte legi noahide enumerate și dezbătute pe larg în tratatul Sanhedrin — obligatorii, conform tradiției rabinice, pentru toată omenirea, nu doar pentru poporul evreu."
-      },
-      {
-        "author": "Zohar, Vaieșev 5:31",
-        "text": "«Și a adus Yosef bârfa lor rea.» Iată au statornicit-o, că zicea tatălui său asupra lor că mâncau mădular din dobitoace când ele sunt vii. «Și a adus Yosef bârfa lor rea.» Și oare aceștia, în numărare, erau fiii slujnicelor? Cum îi disprețuiau pe ei fiii lui Leʾah? Și cum mâncau mădular din viu și treceau peste porunca Stăpânului lor? Că iată a poruncit asupra fiilor lui Noaḥ porunca aceasta, precum zici (Geneza 9:4): «numai carne în sufletul ei, sângele ei, să nu mâncați». Și ei o mâncau și treceau peste porunca Stăpânului lor. Ci Yosef zicea; și asupra aceasta a fost pedepsit."
-      }
-    ]
-  },
-  {
-    "num": 5,
-    "tokens": [
-      {
-        "t": "Și chiar "
-      },
-      {
-        "t": "sângele",
-        "w": "sângele",
-        "heb": "דִּמְכֶם",
-        "translit": "dimkhem",
-        "strong": "H1818",
-        "pos": "substantiv cu sufix",
-        "greek": "τὸ αἷμα ὑμῶν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "sângele vostru."
-      },
-      {
-        "t": " vostru, al "
-      },
-      {
-        "t": "sufletelor",
-        "w": "sufletelor",
-        "heb": "לְנַפְשֹׁתֵיכֶם",
-        "translit": "lenafshoteikhem",
-        "strong": "H5315",
-        "pos": "substantiv",
-        "greek": "τῶν ψυχῶν ὑμῶν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "sufletelor voastre."
-      },
-      {
-        "t": " voastre, îl voi "
-      },
-      {
-        "t": "cere",
-        "w": "cere",
-        "heb": "אֶדְרֹשׁ",
-        "translit": "edrosh",
-        "strong": "H1875",
-        "pos": "verb",
-        "greek": "ἐκζητήσω",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "voi cere."
-      },
-      {
-        "t": ", de la toate "
-      },
-      {
-        "t": "animalele",
-        "w": "animalele",
-        "heb": "חַיָּה",
-        "translit": "chayah",
-        "strong": "H2416",
-        "pos": "substantiv",
-        "greek": "θηρίων",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "animalele."
-      },
-      {
-        "t": " îl voi cere; și de la "
-      },
-      {
-        "t": "om",
-        "w": "om",
-        "heb": "הָאָדָם",
-        "translit": "ha'adam",
-        "strong": "H120",
-        "pos": "substantiv",
-        "greek": "τοῦ ἀνθρώπου",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "om."
-      },
-      {
-        "t": ", de la "
-      },
-      {
-        "t": "oricine",
-        "w": "oricine",
-        "heb": "אִישׁ",
-        "translit": "ish",
-        "strong": "H376",
-        "pos": "substantiv",
-        "greek": "ἀνδρὸς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "oricine."
-      },
-      {
-        "t": ", voi cere "
-      },
-      {
-        "t": "sufletul",
-        "w": "sufletul",
-        "heb": "נֶפֶשׁ",
-        "translit": "nefesh",
-        "strong": "H5315",
-        "pos": "substantiv",
-        "greek": "τὴν ψυχὴν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "sufletul."
-      },
-      {
-        "t": " omului pentru cel al "
-      },
-      {
-        "t": "fratelui",
-        "w": "fratelui",
-        "heb": "אָחִיו",
-        "translit": "achiv",
-        "strong": "H251",
-        "pos": "substantiv cu sufix",
-        "greek": "τοῦ ἀδελφοῦ αὐτοῦ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "fratelui lui."
-      },
-      {
-        "t": " lui."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וְאַךְ אֶת־דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ מִיַּד כָּל־חַיָּה אֶדְרְשֶׁנּוּ וּמִיַּד הָאָדָם מִיַּד אִישׁ אָחִיו אֶדְרֹשׁ אֶת־נֶפֶשׁ הָאָדָם",
-        "translation": "„Și chiar sângele vostru, al sufletelor voastre, îl voi cere, de la toate animalele îl voi cere; și de la om, de la oricine, voi cere sufletul omului pentru cel al fratelui lui.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ γὰρ τὸ ὑμέτερον αἷμα τῶν ψυχῶν ὑμῶν ἐκζητήσω, ἐκ χειρὸς πάντων τῶν θηρίων ἐκζητήσω αὐτὸ καὶ ἐκ χειρὸς ἀνθρώπου ἀδελφοῦ ἐκζητήσω τὴν ψυχὴν τοῦ ἀνθρώπου.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ואת דמכם לנפשתיכם אדרש מיד כל חי אדרשנו מיד האדם מיד איש ואחיו אדרש את נפש האדם",
-        "translation": "Diferență reală, confirmată: ואת דמכם לנפשתיכם אדרש מיד כל חי אדרשנו מיד האדם מיד איש ואחיו אדרש את נפש האדם — „And surely your blood of your life will I require; at the hand of every beast will I require it, and at the hand of man; and at the hand of every man's brother will I require the life of man.”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi cu adevărat sângele vostru, al vieţilor voastre, îl voi cere, din mâna fiecărei fiare îl voi cere şi din mâna omului, din mâna fiecărui frate al omului voi cere viaţa omului.",
-    "refs": [
-      "Geneza 4:10",
-      "Exod 21:28"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "„De la toate animalele îl voi cere” — Rashi citează o tradiție conform căreia un animal care ucide un om urma să fie el însuși judecat, o idee reluată mai târziu în Exod 21:28 (boul care împunge)."
-      }
-    ]
-  },
-  {
-    "num": 6,
-    "tokens": [
-      {
-        "t": "Cine "
-      },
-      {
-        "t": "varsă",
-        "w": "varsă",
-        "heb": "שֹׁפֵךְ",
-        "translit": "shofekh",
-        "strong": "H8210",
-        "pos": "verb, participiu",
-        "greek": "ἐκχέῃ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "varsă."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "sângele",
-        "w": "sângele",
-        "heb": "דַּם",
-        "translit": "dam",
-        "strong": "H1818",
-        "pos": "substantiv",
-        "greek": "αἷμα",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "sângele."
-      },
-      {
-        "t": " omului, de către om îi va fi "
-      },
-      {
-        "t": "vărsat",
-        "w": "vărsat",
-        "heb": "יִשָּׁפֵךְ",
-        "translit": "yishafekh",
-        "strong": "H8210",
-        "pos": "verb (pasiv)",
-        "greek": "ἐκχυθήσεται",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "va fi vărsat."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "sângele",
-        "w": "sângele",
-        "heb": "דָּמוֹ",
-        "translit": "damo",
-        "strong": "H1818",
-        "pos": "substantiv cu sufix",
-        "greek": "τὸ αἷμα αὐτοῦ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "sângele lui."
-      },
-      {
-        "t": "; căci în "
-      },
-      {
-        "t": "imaginea",
-        "w": "imaginea",
-        "heb": "בְּצֶלֶם",
-        "translit": "betselem",
-        "strong": "H6754",
-        "pos": "substantiv",
-        "greek": "κατ᾿ εἰκόνα",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "în imaginea."
-      },
-      {
-        "t": " lui Dumnezeu l-a "
-      },
-      {
-        "t": "făcut",
-        "w": "făcut",
-        "heb": "עָשָׂה",
-        "translit": "asah",
-        "strong": "H6213",
-        "pos": "verb",
-        "greek": "ἐποίησα",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "l-a făcut."
-      },
-      {
-        "t": " pe om."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ כִּי בְּצֶלֶם אֱלֹהִים עָשָׂה אֶת־הָאָדָם",
-        "translation": "„Cine varsă sângele omului, de către om îi va fi vărsat sângele; căci în imaginea lui Dumnezeu l-a făcut pe om.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "ὁ ἐκχέων αἷμα ἀνθρώπου ἀντὶ τοῦ αἵματος αὐτοῦ ἐκχυθήσεται, ὅτι ἐν εἰκόνι Θεοῦ ἐποίησα τὸν ἄνθρωπον.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "שפך דם האדם באדם דמו ישפך כי בצלם אלהים עשה את האדם",
-        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
-        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Oricine varsă sângele omului, prin om să fie vărsat sângele lui, pentru că după chipul lui Dumnezeu l-a făcut pe om.",
-    "refs": [
-      "Geneza 1:27",
-      "Exod 21:12",
-      "Matei 26:52"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Prima instituire explicită a pedepsei capitale pentru omor — Rashi leagă direct pedeapsa de motivul teologic („căci în imaginea lui Dumnezeu l-a făcut pe om”): a ucide un om înseamnă a ataca, simbolic, chipul lui Dumnezeu însuși."
-      },
-      {
-        "author": "Talmud Babilonian, Sanhedrin 56a-59a",
-        "text": "Interdicția vărsării de sânge uman e discutată în același pasaj ca fiind cea dintâi și cea mai gravă dintre legile noahide — Sanhedrin explică motivarea explicită oferită chiar în text („căci în imaginea lui Dumnezeu l-a făcut pe om”): valoarea vieții umane derivă direct din statutul de purtător al chipului divin, nu dintr-o convenție socială."
-      },
-      {
-        "author": "Zohar, Noah 33:1",
-        "text": "«Și teama de voi și groaza voastră va fi.» De aici înainte veți avea chipuri de fii de om, căci la început nu erau chipuri de fii de om. Vino și vezi: la început e scris (Geneza 9:6) «în tzelem al lui Dumnezeu a făcut pe om». Și e scris (Geneza 5:1) «în asemănarea lui Dumnezeu l-a făcut». De îndată ce au greșit, s-au schimbat chipurile lor de la acel chip de sus și s-au întors să se teamă dinaintea fiarelor câmpului."
-      },
-      {
-        "author": "Cartea Jubileelor 6-7 — context/comparație",
-        "text": "Jubilee reia și amplifică această lege de mai multe ori, cu o insistență absentă din Geneza — semn al centralității ei în teologia cărții. La 6:7-8 apare aproape identic: „carne cu viața ei, cu sângele, să nu mâncați... cine varsă sângele omului, prin om să i se verse sângele.” Cartea adaugă apoi (7:20-28) o predică întreagă pusă în gura lui Noe către fiii săi, explicând retrospectiv cauza Potopului („din pricina acestor trei lucruri a venit potopul... desfrânarea Veghetorilor... vărsarea de sânge... și tot gândul oamenilor își închipuiau deșertăciune și rău neîncetat”) și avertizându-i explicit pe urmașii lui să nu verse sânge — un material didactic complet absent din textul biblic, dar care explică de ce anume legea aceasta primește loc de frunte imediat după Potop. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 7)\" title=\"Citește capitolul\">→</button>"
-      }
-    ]
-  },
-  {
-    "num": 7,
-    "tokens": [
-      {
-        "t": "Iar voi, "
-      },
-      {
-        "t": "fiți roditori",
-        "w": "fiți roditori",
-        "heb": "פְּרוּ",
-        "translit": "peru",
-        "strong": "H6509",
-        "pos": "verb, imperativ",
-        "greek": "αὐξάνεσθε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "fiți roditori."
-      },
-      {
-        "t": ", "
-      },
-      {
-        "t": "înmulțiți-vă",
-        "w": "înmulțiți-vă",
-        "heb": "וּרְבוּ",
-        "translit": "urevu",
-        "strong": "H7235",
-        "pos": "verb, imperativ",
-        "greek": "πληθύνεσθε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "înmulțiți-vă."
-      },
-      {
-        "t": ", "
-      },
-      {
-        "t": "răspândiți-vă",
-        "w": "răspândiți-vă",
-        "heb": "שִׁרְצוּ",
-        "translit": "shirtsu",
-        "strong": "H8317",
-        "pos": "verb, imperativ",
-        "greek": "πληρώσατε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "răspândiți-vă."
-      },
-      {
-        "t": " pe "
-      },
-      {
-        "t": "pământ",
-        "w": "pământ",
-        "heb": "בָאָרֶץ",
-        "translit": "va'arets",
-        "strong": "H776",
-        "pos": "substantiv",
-        "greek": "τὴν γῆν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "pe pământ."
-      },
-      {
-        "t": " și "
-      },
-      {
-        "t": "înmulțiți-vă",
-        "w": "înmulțiți-vă",
-        "heb": "וּרְבוּ",
-        "translit": "urevu",
-        "strong": "H7235",
-        "pos": "verb, imperativ",
-        "greek": "πληθύνεσθε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "înmulțiți-vă."
-      },
-      {
-        "t": " pe el.”"
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וְאַתֶּם פְּרוּ וּרְבוּ שִׁרְצוּ בָאָרֶץ וּרְבוּ־בָהּ",
-        "translation": "„Iar voi, fiți roditori, înmulțiți-vă, răspândiți-vă pe pământ și înmulțiți-vă pe el.”” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "ὑμεῖς δὲ αὐξάνεσθε καὶ πληθύνεσθε καὶ πληρώσατε τὴν γῆν καὶ πληθύνεσθε ἐπ᾿ αὐτῆς.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ואתם פרו ורבו ושרצו בארץ ורבו בה",
-        "translation": "Diferență reală, confirmată: ואתם פרו ורבו ושרצו בארץ ורבו בה — „And you, be ye fruitful, and multiply; and bring forth abundantly in the earth, and multiply therein.”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi voi fiţi roditori şi înmulţiţi-vă, naşteţi abundent pe pământ şi înmulţiţi-vă pe acesta.",
-    "refs": [
-      "Geneza 9:1",
-      "Geneza 1:28"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Repetiția poruncii de la v.1 („fiți roditori, înmulțiți-vă”), acum cu verbe suplimentare de răspândire, subliniază urgența repopulării pământului după distrugerea Potopului."
-      }
-    ]
-  },
-  {
-    "num": 8,
-    "tokens": [
-      {
-        "t": "Și "
-      },
-      {
-        "t": "Dumnezeu",
-        "w": "Dumnezeu",
-        "heb": "אֱלֹהִים",
-        "translit": "Elohim",
-        "strong": "H430",
-        "pos": "substantiv",
-        "greek": "ὁ Θεὸς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Dumnezeu."
-      },
-      {
-        "t": " le-a "
-      },
-      {
-        "t": "spus",
-        "w": "spus",
-        "heb": "וַיֹּאמֶר",
-        "translit": "vayomer",
-        "strong": "H559",
-        "pos": "verb",
-        "greek": "εἶπεν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "le-a spus."
-      },
-      {
-        "t": " lui "
-      },
-      {
-        "t": "Noe",
-        "w": "Noe",
-        "heb": "נֹחַ",
-        "translit": "Noach",
-        "strong": "H5146",
-        "pos": "nume propriu",
-        "greek": "Νῶε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Noe."
-      },
-      {
-        "t": " și "
-      },
-      {
-        "t": "fiilor",
-        "w": "fiilor",
-        "heb": "בָנָיו",
-        "translit": "vanav",
-        "strong": "H1121",
-        "pos": "substantiv cu sufix",
-        "greek": "τοῖς υἱοῖς αὐτοῦ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "fiilor lui."
-      },
-      {
-        "t": " lui cu el, "
-      },
-      {
-        "t": "astfel",
-        "w": "astfel",
-        "heb": "לֵאמֹר",
-        "translit": "lemor",
-        "strong": "H559",
-        "pos": "verb",
-        "greek": "λέγων",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "astfel."
-      },
-      {
-        "t": ":"
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַיֹּאמֶר אֱלֹהִים אֶל־נֹחַ וְאֶל־בָּנָיו אִתּוֹ לֵאמֹר",
-        "translation": "„Și Dumnezeu le-a spus lui Noe și fiilor lui cu el, astfel:” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "Καὶ εἶπεν ὁ Θεὸς τῷ Νῶε καὶ τοῖς υἱοῖς αὐτοῦ μετ᾿ αὐτοῦ λέγων",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ויאמר אלהים אל נח ואל בניו אתו לאמר",
-        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
-        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi Dumnezeu i-a vorbit lui Noe şi fiilor lui cu el, spunând:",
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Introducerea explicită a discursului („astfel”) marchează începutul primului legământ divin formal din Tora — un moment solemn, distinct de simplele porunci sau binecuvântări anterioare."
-      }
-    ],
-    "refs": [
-      "Geneza 6:18"
-    ]
-  },
-  {
-    "num": 9,
-    "tokens": [
-      {
-        "t": "„Iar "
-      },
-      {
-        "t": "Eu",
-        "w": "Eu",
-        "heb": "וַאֲנִי",
-        "translit": "va'ani",
-        "strong": "H589",
-        "pos": "pronume",
-        "greek": "ἐγὼ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Eu."
-      },
-      {
-        "t": ", iată-Mă, "
-      },
-      {
-        "t": "statornicesc",
-        "w": "statornicesc",
-        "heb": "מֵקִים",
-        "translit": "mekim",
-        "strong": "H6965",
-        "pos": "verb",
-        "greek": "ἀνίστημι",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "statornicesc."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "legământul",
-        "w": "legământul",
-        "heb": "בְּרִיתִי",
-        "translit": "beriti",
-        "strong": "H1285",
-        "pos": "substantiv",
-        "greek": "τὴν διαθήκην μου",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "legământul Meu."
-      },
-      {
-        "t": " Meu cu voi și cu "
-      },
-      {
-        "t": "seminția",
-        "w": "seminția",
-        "heb": "זַרְעֲכֶם",
-        "translit": "zar'akhem",
-        "strong": "H2233",
-        "pos": "substantiv",
-        "greek": "τῷ σπέρματι ὑμῶν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "seminția voastră."
-      },
-      {
-        "t": " voastră după voi,"
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַאֲנִי הִנְנִי מֵקִים אֶת־בְּרִיתִי אִתְּכֶם וְאֶת־זַרְעֲכֶם אַחֲרֵיכֶם",
-        "translation": "„„Iar Eu, iată-Mă, statornicesc legământul Meu cu voi și cu seminția voastră după voi,” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "Ἐγὼ ἰδοὺ ἀνίστημι τὴν διαθήκην μου ὑμῖν καὶ τῷ σπέρματι ὑμῶν μεθ᾿ ὑμᾶς",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ואני הנני מקים את בריתי אתכם ואת זרעכם אחריכם",
-        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
-        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi eu, iată, întemeiez legământul meu cu voi şi cu sămânţa voastră după voi;",
-    "refs": [
-      "Geneza 6:18"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "„Iată-Mă, statornicesc legământul Meu” — Rashi notează formula solemnă de deschidere, folosită rar în Tora, care marchează un legământ divin de mare importanță, adresat de data aceasta nu unui singur om, ci întregii omeniri și întregii creații."
-      },
-      {
-        "author": "Ramban / Nahmanide (1194–1270)",
-        "text": "Notează universalitatea acestui legământ — spre deosebire de legămintele ulterioare (cu Avraham, apoi cu Israel la Sinai), cel de aici include explicit „fiecare vietate”, nu doar omenirea, făcându-l cel mai larg legământ divin din toată Tora, cuprinzând întreaga creație vie."
-      }
-    ]
-  },
-  {
-    "num": 10,
-    "tokens": [
-      {
-        "t": "și cu fiecare "
-      },
-      {
-        "t": "vietate",
-        "w": "vietate",
-        "heb": "נֶפֶשׁ",
-        "translit": "nefesh",
-        "strong": "H5315",
-        "pos": "substantiv",
-        "greek": "ψυχῆς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "vietate."
-      },
-      {
-        "t": " care este cu voi – din "
-      },
-      {
-        "t": "păsări",
-        "w": "păsări",
-        "heb": "בָּעוֹף",
-        "translit": "ba'of",
-        "strong": "H5775",
-        "pos": "substantiv",
-        "greek": "τῶν πετεινῶν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "păsări."
-      },
-      {
-        "t": ", din "
-      },
-      {
-        "t": "dobitoace",
-        "w": "dobitoace",
-        "heb": "בַבְּהֵמָה",
-        "translit": "vabehemah",
-        "strong": "H929",
-        "pos": "substantiv",
-        "greek": "τῶν κτηνῶν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "dobitoace."
-      },
-      {
-        "t": " și din toate "
-      },
-      {
-        "t": "sălbăticiunile",
-        "w": "sălbăticiunile",
-        "heb": "חַיַּת",
-        "translit": "chayat",
-        "strong": "H2416",
-        "pos": "substantiv",
-        "greek": "τῶν θηρίων",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "sălbăticiunile."
-      },
-      {
-        "t": " pământului care sunt cu voi – din toate care au "
-      },
-      {
-        "t": "ieșit",
-        "w": "ieșit",
-        "heb": "יֹצְאֵי",
-        "translit": "yots'ei",
-        "strong": "H3318",
-        "pos": "verb, participiu",
-        "greek": "ἐξελθόντων",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "au ieșit."
-      },
-      {
-        "t": " din "
-      },
-      {
-        "t": "arcă",
-        "w": "arcă",
-        "heb": "הַתֵּבָה",
-        "translit": "hatevah",
-        "strong": "H8392",
-        "pos": "substantiv",
-        "greek": "τῆς κιβωτοῦ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "arcă."
-      },
-      {
-        "t": ", [chiar] și cu fiecare "
-      },
-      {
-        "t": "sălbăticiune",
-        "w": "sălbăticiune",
-        "heb": "חַיַּת",
-        "translit": "chayat",
-        "strong": "H2416",
-        "pos": "substantiv",
-        "greek": "θηρίου",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "sălbăticiune."
-      },
-      {
-        "t": "."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וְאֵת כָּל־נֶפֶשׁ הַחַיָּה אֲשֶׁר אִתְּכֶם בָּעוֹף בַּבְּהֵמָה וּבְכָל־חַיַּת הָאָרֶץ אִתְּכֶם מִכֹּל יֹצְאֵי הַתֵּבָה לְכֹל חַיַּת הָאָרֶץ",
-        "translation": "„și cu fiecare vietate care este cu voi – din păsări, din dobitoace și din toate sălbăticiunile pământului care sunt cu voi – din toate care au ieșit din arcă, [chiar] și cu fiecare sălbăticiune.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ πάσῃ ψυχῇ τῇ ζώσῃ μεθ᾿ ὑμῶν ἀπὸ ὀρνέων καὶ ἀπὸ κτηνῶν καὶ πᾶσι τοῖς θηρίοις τῆς γῆς, ὅσα μεθ᾿ ὑμῶν, ἀπὸ πάντων τῶν ἐξελθόντων ἐκ τῆς κιβωτοῦ.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ואת כל נפש החיה אשר אתכם בעוף ובבהמה ובכל חית הארץ אתכם מכל יצאי התבה לכל חית הארץ",
-        "translation": "Diferență reală, confirmată: ואת כל נפש החיה אשר אתכם בעוף ובבהמה ובכל חית הארץ אתכם מכל יצאי התבה לכל חית הארץ — „And with every living creature that [is] with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi cu fiecare creatură vie care este cu voi, dintre păsări, dintre vite şi dintre fiecare fiară a pământului cu voi, de la tot ceea ce iese afară din arcă, până la fiecare fiară a pământului.",
-    "commentaries": [
-      {
-        "author": "Context cultural-istoric (Orientul Apropiat Antic)",
-        "text": "Legământul cu toate animalele, nu doar cu omul, e un element remarcat de cercetători ca fiind neobișnuit pentru textele legale din Orientul Apropiat Antic, unde legămintele divine erau de regulă exclusiv antropocentrice."
-      }
-    ],
-    "refs": [
-      "Geneza 8:17"
-    ]
-  },
-  {
-    "num": 11,
-    "tokens": [
-      {
-        "t": "Voi "
-      },
-      {
-        "t": "statornici",
-        "w": "statornici",
-        "heb": "וַהֲקִמֹתִי",
-        "translit": "vahakimoti",
-        "strong": "H6965",
-        "pos": "verb",
-        "greek": "στήσω",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "voi statornici."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "legământul",
-        "w": "legământul",
-        "heb": "בְּרִיתִי",
-        "translit": "beriti",
-        "strong": "H1285",
-        "pos": "substantiv cu sufix",
-        "greek": "τὴν διαθήκην μου",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "legământul Meu."
-      },
-      {
-        "t": " Meu cu voi: "
-      },
-      {
-        "t": "niciodată",
-        "w": "niciodată",
-        "heb": "וְלֹא",
-        "translit": "velo",
-        "strong": "H3808",
-        "pos": "particulă negativă",
-        "greek": "οὐκ ἔτι",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "niciodată."
-      },
-      {
-        "t": " nu va mai fi "
-      },
-      {
-        "t": "distrus",
-        "w": "distrus",
-        "heb": "יִכָּרֵת",
-        "translit": "yikaret",
-        "strong": "H3772",
-        "pos": "verb (pasiv)",
-        "greek": "ἀποθανεῖται",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "va fi distrus, nimicit."
-      },
-      {
-        "t": " tot ceea ce este "
-      },
-      {
-        "t": "viu",
-        "w": "viu",
-        "heb": "כָּל־בָּשָׂר",
-        "translit": "kol basar",
-        "strong": "H1320",
-        "pos": "substantiv",
-        "greek": "πᾶσα σὰρξ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "tot ceea ce este viu."
-      },
-      {
-        "t": " de către "
-      },
-      {
-        "t": "apele",
-        "w": "apele",
-        "heb": "מֵי",
-        "translit": "mei",
-        "strong": "H4325",
-        "pos": "substantiv",
-        "greek": "τοῦ ὕδατος",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "apele."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "potopului",
-        "w": "potopului",
-        "heb": "הַמַּבּוּל",
-        "translit": "hamabul",
-        "strong": "H3999",
-        "pos": "substantiv",
-        "greek": "τοῦ κατακλυσμοῦ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "potopului."
-      },
-      {
-        "t": " și nu va mai fi "
-      },
-      {
-        "t": "potop",
-        "w": "potop",
-        "heb": "מַבּוּל",
-        "translit": "mabul",
-        "strong": "H3999",
-        "pos": "substantiv",
-        "greek": "κατακλυσμὸς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "potop."
-      },
-      {
-        "t": " ca să "
-      },
-      {
-        "t": "nimicească",
-        "w": "nimicească",
-        "heb": "לְשַׁחֵת",
-        "translit": "leshachet",
-        "strong": "H7843",
-        "pos": "verb",
-        "greek": "καταφθεῖραι",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "să nimicească."
-      },
-      {
-        "t": " pământul.”"
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַהֲקִמֹתִי אֶת־בְּרִיתִי אִתְּכֶם וְלֹא־יִכָּרֵת כָּל־בָּשָׂר עוֹד מִמֵּי הַמַּבּוּל וְלֹא־יִהְיֶה עוֹד מַבּוּל לְשַׁחֵת הָאָרֶץ",
-        "translation": "„Voi statornici legământul Meu cu voi: niciodată nu va mai fi distrus tot ceea ce este viu de către apele potopului și nu va mai fi potop ca să nimicească pământul.”” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ στήσω τὴν διαθήκην μου πρὸς ὑμᾶς, καὶ οὐκ ἀποθανεῖται πᾶσα σὰρξ ἔτι ἀπὸ τοῦ ὕδατος τοῦ κατακλυσμοῦ, καὶ οὐκ ἔσται ἔτι κατακλυσμὸς ὕδατος τοῦ καταφθεῖραι πᾶσαν τὴν γῆν.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "והקמתי את בריתי אתכם ולא יכרת עוד כל בשר ממי המבול ולא יהיה עוד המבול להשחית הארץ",
-        "translation": "Diferență reală, confirmată: והקמתי את בריתי אתכם ולא יכרת עוד כל בשר ממי המבול ולא יהיה עוד המבול להשחית הארץ — „And I will establish my covenant with you; neither shall all flesh moreover be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi voi întemeia legământul meu cu voi şi nici nu va mai fi toată făptura stârpită vreodată prin apele unui potop, nici nu va mai fi vreodată un potop să distrugă pământul.",
-    "refs": [
-      "Isaia 54:9",
-      "2 Petru 3:6-7"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Repetarea explicită „niciodată... nu va mai fi potop” subliniază caracterul absolut, necondiționat al acestei promisiuni — spre deosebire de alte legăminte din Tora, care depind de ascultarea omului, acesta e garantat necondiționat."
-      },
-      {
-        "author": "Zohar, Vaiera 27:9",
-        "text": "Rabbi Yehudah fiul lui Rabbi Elʿazar a întrebat pe Rabbi Ḥizqiyah; i-a zis: morții pe care e pregătit Sfântul, binecuvântat fie El, să-i învie — de ce nu le dă neșamah-ul lor în locul în care au fost îngropați acolo și să vină să trăiască în pământul lui Israel? I-a zis: a jurat Sfântul, binecuvântat fie El, să zidească Ierusalimul și să nu se mai dărâme în veacuri. Că a zis Rabbi Ieremia: e pregătit Sfântul, binecuvântat fie El, să înnoiască lumea Sa și să zidească Ierusalimul și să-l pogoare zidit de sus (altă versiune: zidire), ca să nu se dărâme; și a jurat că nu va mai fi izgonită Keneset Israel, și a jurat că nu se va dărâma zidirea Ierusalimului, că e zis (Isaia 62:4): «nu ți se va mai zice «părăsită» și țării tale nu i se va mai zice «pustiire»». […]"
-      }
-    ]
-  },
-  {
-    "num": 12,
-    "tokens": [
-      {
-        "t": "Și "
-      },
-      {
-        "t": "Dumnezeu",
-        "w": "Dumnezeu",
-        "heb": "אֱלֹהִים",
-        "translit": "Elohim",
-        "strong": "H430",
-        "pos": "substantiv",
-        "greek": "ὁ Θεὸς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Dumnezeu."
-      },
-      {
-        "t": " a "
-      },
-      {
-        "t": "spus",
-        "w": "spus",
-        "heb": "וַיֹּאמֶר",
-        "translit": "vayomer",
-        "strong": "H559",
-        "pos": "verb",
-        "greek": "εἶπεν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "a spus."
-      },
-      {
-        "t": ": „Acesta este "
-      },
-      {
-        "t": "semnul",
-        "w": "semnul",
-        "heb": "אוֹת",
-        "translit": "ot",
-        "strong": "H226",
-        "pos": "substantiv",
-        "greek": "τὸ σημεῖον",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "semnul."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "legământului",
-        "w": "legământului",
-        "heb": "הַבְּרִית",
-        "translit": "habrit",
-        "strong": "H1285",
-        "pos": "substantiv, cu articol",
-        "greek": "τῆς διαθήκης",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "legământului."
-      },
-      {
-        "t": " pe care Eu îl "
-      },
-      {
-        "t": "pun",
-        "w": "pun",
-        "heb": "נֹתֵן",
-        "translit": "noten",
-        "strong": "H5414",
-        "pos": "verb, participiu",
-        "greek": "δίδωμι",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "pun."
-      },
-      {
-        "t": " între Mine și voi și orice "
-      },
-      {
-        "t": "ființă",
-        "w": "ființă",
-        "heb": "נֶפֶשׁ",
-        "translit": "nefesh",
-        "strong": "H5315",
-        "pos": "substantiv",
-        "greek": "ψυχῆς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "ființă."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "vie",
-        "w": "vie",
-        "heb": "חַיָּה",
-        "translit": "chayah",
-        "strong": "H2416",
-        "pos": "adjectiv",
-        "greek": "ζώσης",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "vie."
-      },
-      {
-        "t": " care este cu voi, peste "
-      },
-      {
-        "t": "generații",
-        "w": "generații",
-        "heb": "דֹרֹת",
-        "translit": "dorot",
-        "strong": "H1755",
-        "pos": "substantiv",
-        "greek": "γενεὰς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "generații."
-      },
-      {
-        "t": ", "
-      },
-      {
-        "t": "veșnic",
-        "w": "veșnic",
-        "heb": "עוֹלָם",
-        "translit": "olam",
-        "strong": "H5769",
-        "pos": "substantiv",
-        "greek": "αἰωνίους",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "veșnic."
-      },
-      {
-        "t": ":"
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַיֹּאמֶר אֱלֹהִים זֹאת אוֹת־הַבְּרִית אֲשֶׁר־אֲנִי נֹתֵן בֵּינִי וּבֵינֵיכֶם וּבֵין כָּל־נֶפֶשׁ חַיָּה אֲשֶׁר אִתְּכֶם לְדֹרֹת עוֹלָם",
-        "translation": "„Și Dumnezeu a spus: „Acesta este semnul legământului pe care Eu îl pun între Mine și voi și orice ființă vie care este cu voi, peste generații, veșnic:” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ εἶπεν Κύριος ὁ Θεὸς πρὸς Νῶε Τοῦτο τὸ σημεῖον τῆς διαθήκης, ὃ ἐγὼ δίδωμι ἀνὰ μέσον ἐμοῦ καὶ ὑμῶν καὶ ἀνὰ μέσον πάσης ψυχῆς ζώσης, ἥ ἐστιν μεθ᾿ ὑμῶν, εἰς γενεὰς αἰωνίους·",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ויאמר אלהים זאת אות הברית אשר אני נתן ביני ובינכם ובין כל נפש החיה אשר אתכם לדרות עולם",
-        "translation": "Diferență reală, confirmată: ויאמר אלהים זאת אות הברית אשר אני נתן ביני ובינכם ובין כל נפש החיה אשר אתכם לדרות עולם — „And God said, This [is] the token of the covenant which I make between me and you and every living creature that [is] with you, for perpetual generations;”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi Dumnezeu a spus: Acesta este semnul legământului pe care îl fac între mine şi voi şi fiecare creatură vie care este cu voi, pentru generaţii pentru totdeauna:",
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "„Semnul legământului” (curcubeul) e explicat de Rashi ca un semn cu funcție dublă — vizibil omului ca asigurare, dar și „reamintire” pentru Dumnezeu Însuși, o antropomorfizare intenționată a textului pentru a comunica ideea de legământ etern, garantat."
-      }
-    ],
-    "refs": [
-      "Geneza 17:11"
-    ]
-  },
-  {
-    "num": 13,
-    "tokens": [
-      {
-        "t": "Curcubeul",
-        "w": "Curcubeul",
-        "heb": "קַשְׁתִּי",
-        "translit": "kashti",
-        "strong": "H7198",
-        "pos": "substantiv",
-        "greek": "τὸ τόξον μου",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "curcubeul Meu."
-      },
-      {
-        "t": " Meu l-am "
-      },
-      {
-        "t": "pus",
-        "w": "pus",
-        "heb": "נָתַתִּי",
-        "translit": "natati",
-        "strong": "H5414",
-        "pos": "verb",
-        "greek": "τίθημι",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "l-am pus."
-      },
-      {
-        "t": " în "
-      },
-      {
-        "t": "nor",
-        "w": "nor",
-        "heb": "בֶּעָנָן",
-        "translit": "be'anan",
-        "strong": "H6051",
-        "pos": "substantiv",
-        "greek": "τῇ νεφέλῃ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "în nor."
-      },
-      {
-        "t": " și "
-      },
-      {
-        "t": "el",
-        "w": "el",
-        "heb": "הוּא",
-        "translit": "hu",
-        "strong": "H1931",
-        "pos": "pronume",
-        "greek": "αὐτὸ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "el."
-      },
-      {
-        "t": " va fi "
-      },
-      {
-        "t": "semn",
-        "w": "semn",
-        "heb": "לְאוֹת",
-        "translit": "le'ot",
-        "strong": "H226",
-        "pos": "substantiv",
-        "greek": "εἰς σημεῖον",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "semn."
-      },
-      {
-        "t": " al "
-      },
-      {
-        "t": "legământului",
-        "w": "legământului",
-        "heb": "בְּרִית",
-        "translit": "brit",
-        "strong": "H1285",
-        "pos": "substantiv",
-        "greek": "διαθήκης",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "legământului."
-      },
-      {
-        "t": " între Mine și "
-      },
-      {
-        "t": "pământ",
-        "w": "pământ",
-        "heb": "הָאָרֶץ",
-        "translit": "ha'arets",
-        "strong": "H776",
-        "pos": "substantiv",
-        "greek": "τῆς γῆς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "pământ."
-      },
-      {
-        "t": "."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "אֶת־קַשְׁתִּי נָתַתִּי בֶּעָנָן וְהָיְתָה לְאוֹת בְּרִית בֵּינִי וּבֵין הָאָרֶץ",
-        "translation": "„Curcubeul Meu l-am pus în nor și el va fi semn al legământului între Mine și pământ.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "τὸ τόξον μου τίθημι ἐν τῇ νεφέλῃ, καὶ ἔσται εἰς σημεῖον διαθήκης ἀνὰ μέσον ἐμοῦ καὶ τῆς γῆς.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "את קשתי נתתי בענן והיתה לאות ברית ביני ובין הארץ",
-        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
-        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Eu aşez curcubeul meu în nor şi acesta va fi ca semn al unui legământ între mine şi pământ.",
-    "refs": [
-      "Apocalipsa 4:3",
-      "Ezechiel 1:28"
-    ],
-    "commentaries": [
-      {
-        "author": "Context cultural-istoric (Orientul Apropiat Antic)",
-        "text": "Curcubeul ca „arc” (קֶשֶׁת, același cuvânt ca arma de război) e interpretat de unii comentatori ca simbolul unei arme divine „agățate”, întoarse cu vârful spre cer, nu spre pământ — un gest simbolic de încetare a ostilității divine față de omenire."
-      },
-      {
-        "author": "Ibn Ezra (1089–1167)",
-        "text": "Discută dacă curcubeul a existat fizic și înainte de Potop (fiind doar acum investit cu semnificație de semn) sau dacă fenomenul optic însuși apare pentru prima dată acum — Ibn Ezra înclină spre prima variantă, pe considerente de fizică a luminii și a norilor, deja valabile înainte de distrugerea antediluviană."
-      }
-    ]
-  },
-  {
-    "num": 14,
-    "tokens": [
-      {
-        "t": "Și "
-      },
-      {
-        "t": "va fi",
-        "w": "va fi",
-        "heb": "וְהָיָה",
-        "translit": "vehayah",
-        "strong": "H1961",
-        "pos": "verb",
-        "greek": "ἔσται",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "va fi."
-      },
-      {
-        "t": ", când voi "
-      },
-      {
-        "t": "înnora",
-        "w": "înnora",
-        "heb": "בְּעַנְנִי",
-        "translit": "be'anni",
-        "strong": "H6049",
-        "pos": "verb",
-        "greek": "ὅταν συννεφῶ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "voi înnora."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "pământul",
-        "w": "pământul",
-        "heb": "עָנָן",
-        "translit": "anan",
-        "strong": "H6051",
-        "pos": "substantiv",
-        "greek": "νεφέλας",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "pământul."
-      },
-      {
-        "t": " cu un "
-      },
-      {
-        "t": "nor",
-        "w": "nor",
-        "heb": "עָנָן",
-        "translit": "anan",
-        "strong": "H6051",
-        "pos": "substantiv",
-        "greek": "νεφέλας",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "nor."
-      },
-      {
-        "t": ", "
-      },
-      {
-        "t": "curcubeul",
-        "w": "curcubeul",
-        "heb": "הַקֶּשֶׁת",
-        "translit": "hakeshet",
-        "strong": "H7198",
-        "pos": "substantiv",
-        "greek": "τὸ τόξον",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "curcubeul."
-      },
-      {
-        "t": " se va "
-      },
-      {
-        "t": "arăta",
-        "w": "arăta",
-        "heb": "וְנִרְאֲתָה",
-        "translit": "venir'atah",
-        "strong": "H7200",
-        "pos": "verb",
-        "greek": "ὀφθήσεται",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "se va arăta."
-      },
-      {
-        "t": " în nor,"
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וְהָיָה בְּעַנְנִי עָנָן עַל־הָאָרֶץ וְנִרְאֲתָה הַקֶּשֶׁת בֶּעָנָן",
-        "translation": "„Și va fi, când voi înnora pământul cu un nor, curcubeul se va arăta în nor,” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ ἔσται ἐν τῷ συννεφεῖν με νεφέλας ἐπὶ τὴν γῆν ὀφθήσεται τὸ τόξον μου ἐν τῇ νεφέλῃ,",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "והיה בענני ענן על הארץ ונראתה הקשת בענן",
-        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
-        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi se va întâmpla, când aduc un nor peste pământ, că se va vedea curcubeul în nor:",
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Condiționarea explicită („când voi înnora pământul... curcubeul se va arăta”) leagă semnul vizibil direct de condiția meteorologică ce ar fi putut, altfel, evoca teama de un nou potop."
-      }
-    ],
-    "refs": [
-      "Geneza 9:16"
-    ]
-  },
-  {
-    "num": 15,
-    "tokens": [
-      {
-        "t": "și Îmi voi "
-      },
-      {
-        "t": "aminti",
-        "w": "aminti",
-        "heb": "וְזָכַרְתִּי",
-        "translit": "vezakharti",
-        "strong": "H2142",
-        "pos": "verb",
-        "greek": "μνησθήσομαι",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Îmi voi aminti."
-      },
-      {
-        "t": " de "
-      },
-      {
-        "t": "legământul",
-        "w": "legământul",
-        "heb": "בְּרִיתִי",
-        "translit": "beriti",
-        "strong": "H1285",
-        "pos": "substantiv cu sufix",
-        "greek": "τῆς διαθήκης μου",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "legământul Meu."
-      },
-      {
-        "t": " Meu între Mine și voi și tot ceea ce este "
-      },
-      {
-        "t": "viu",
-        "w": "viu",
-        "heb": "חַי",
-        "translit": "chai",
-        "strong": "H2416",
-        "pos": "adjectiv",
-        "greek": "ζώσης",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "viu."
-      },
-      {
-        "t": " din toată "
-      },
-      {
-        "t": "firea",
-        "w": "firea",
-        "heb": "בָּשָׂר",
-        "translit": "basar",
-        "strong": "H1320",
-        "pos": "substantiv",
-        "greek": "σαρκί",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "firea."
-      },
-      {
-        "t": ", și "
-      },
-      {
-        "t": "apele",
-        "w": "apele",
-        "heb": "הַמַּיִם",
-        "translit": "hamayim",
-        "strong": "H4325",
-        "pos": "substantiv",
-        "greek": "τὸ ὕδωρ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "apele."
-      },
-      {
-        "t": " nu vor mai "
-      },
-      {
-        "t": "deveni",
-        "w": "deveni",
-        "heb": "יִהְיֶה",
-        "translit": "yihyeh",
-        "strong": "H1961",
-        "pos": "verb",
-        "greek": "ἔσται",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "vor deveni."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "potop",
-        "w": "potop",
-        "heb": "לְמַבּוּל",
-        "translit": "lemabul",
-        "strong": "H3999",
-        "pos": "substantiv",
-        "greek": "εἰς κατακλυσμὸν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "potop."
-      },
-      {
-        "t": " să "
-      },
-      {
-        "t": "distrugă",
-        "w": "distrugă",
-        "heb": "לְשַׁחֵת",
-        "translit": "leshachet",
-        "strong": "H7843",
-        "pos": "verb",
-        "greek": "ἐξαλεῖψαι",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "să distrugă."
-      },
-      {
-        "t": " toată firea."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וְזָכַרְתִּי אֶת־בְּרִיתִי אֲשֶׁר בֵּינִי וּבֵינֵיכֶם וּבֵין כָּל־נֶפֶשׁ חַיָּה בְּכָל־בָּשָׂר וְלֹא־יִהְיֶה עוֹד הַמַּיִם לְמַבּוּל לְשַׁחֵת כָּל־בָּשָׂר",
-        "translation": "„și Îmi voi aminti de legământul Meu între Mine și voi și tot ceea ce este viu din toată firea, și apele nu vor mai deveni potop să distrugă toată firea.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ μνησθήσομαι τῆς διαθήκης μου, ἥ ἐστιν ἀνὰ μέσον ἐμοῦ καὶ ὑμῶν καὶ ἀνὰ μέσον πάσης ψυχῆς ζώσης ἐν πάσῃ σαρκί, καὶ οὐκ ἔσται ἔτι τὸ ὕδωρ εἰς κατακλυσμὸν ὥστε ἐξαλεῖψαι πᾶσαν σάρκα.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "וזכרתי את בריתי אשר ביני ובינכם ובין כל נפש החיה אשר אתכם בכל בשר ולא יהיה עוד המים למבול להשחית כל בשר",
-        "translation": "Diferență reală, confirmată: וזכרתי את בריתי אשר ביני ובינכם ובין כל נפש החיה אשר אתכם בכל בשר ולא יהיה עוד המים למבול להשחית כל בשר — „And I will remember my covenant, which [is] between me and you and every living creature that with you in all flesh; and the waters shall no more become a flood to destroy all flesh.”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi îmi voi aminti de legământul meu, care este între mine şi voi şi fiecare creatură vie a toată făptura; şi apele nu vor mai deveni un potop ca să nimicească toată făptura.",
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Repetiția triplă a promisiunii („nu va mai fi potop”, v.11, 15, 16) subliniază, spune Rashi, caracterul irevocabil al acestui legământ — spre deosebire de alte legăminte biblice ulterioare, condiționate de comportamentul omului."
-      }
-    ],
-    "refs": [
-      "Geneza 8:21"
-    ]
-  },
-  {
-    "num": 16,
-    "tokens": [
-      {
-        "t": "Curcubeul",
-        "w": "Curcubeul",
-        "heb": "הַקֶּשֶׁת",
-        "translit": "hakeshet",
-        "strong": "H7198",
-        "pos": "substantiv, cu articol",
-        "greek": "τὸ τόξον",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "curcubeul."
-      },
-      {
-        "t": " va fi în "
-      },
-      {
-        "t": "nor",
-        "w": "nor",
-        "heb": "בֶּעָנָן",
-        "translit": "be'anan",
-        "strong": "H6051",
-        "pos": "substantiv",
-        "greek": "τῇ νεφέλῃ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "nor."
-      },
-      {
-        "t": " și îl voi "
-      },
-      {
-        "t": "vedea",
-        "w": "vedea",
-        "heb": "וּרְאִיתִיהָ",
-        "translit": "ur'itiha",
-        "strong": "H7200",
-        "pos": "verb, cu sufix",
-        "greek": "ὄψομαι αὐτὸ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "îl voi vedea."
-      },
-      {
-        "t": " pentru a-Mi "
-      },
-      {
-        "t": "aduce aminte",
-        "w": "aduce aminte",
-        "heb": "לִזְכֹּר",
-        "translit": "lizkor",
-        "strong": "H2142",
-        "pos": "verb",
-        "greek": "μνησθῆναι",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "să-Mi aduc aminte."
-      },
-      {
-        "t": " de "
-      },
-      {
-        "t": "legământul",
-        "w": "legământul",
-        "heb": "בְּרִית",
-        "translit": "brit",
-        "strong": "H1285",
-        "pos": "substantiv",
-        "greek": "διαθήκης",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "legământul."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "veșnic",
-        "w": "veșnic",
-        "heb": "עוֹלָם",
-        "translit": "olam",
-        "strong": "H5769",
-        "pos": "substantiv",
-        "greek": "αἰωνίου",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "veșnic."
-      },
-      {
-        "t": " între Dumnezeu și tot ce este viu din toată firea de pe pământ.”"
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וְהָיְתָה הַקֶּשֶׁת בֶּעָנָן וּרְאִיתִיהָ לִזְכֹּר בְּרִית עוֹלָם בֵּין אֱלֹהִים וּבֵין כָּל־נֶפֶשׁ חַיָּה בְּכָל־בָּשָׂר אֲשֶׁר עַל־הָאָרֶץ",
-        "translation": "„Curcubeul va fi în nor și îl voi vedea pentru a-Mi aduce aminte de legământul veșnic între Dumnezeu și tot ce este viu din toată firea de pe pământ.”” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ ἔσται τὸ τόξον μου ἐν τῇ νεφέλῃ, καὶ ὄψομαι τοῦ μνησθῆναι διαθήκην αἰώνιον ἀνὰ μέσον ἐμοῦ καὶ ἀνὰ μέσον πάσης ψυχῆς ζώσης ἐν πάσῃ σαρκί, ἥ ἐστιν ἐπὶ τῆς γῆς.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "והיתה הקשת בענן וראיתה לאזכרה ברית עולם בין אלהים ובין כל נפש החיה בכל בשר אשר על הארץ",
-        "translation": "Diferență reală, confirmată: והיתה הקשת בענן וראיתה לאזכרה ברית עולם בין אלהים ובין כל נפש החיה בכל בשר אשר על הארץ — „And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that [is] upon the earth.”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi curcubeul va fi în nor şi îl voi privi, ca să îmi amintesc de legământul veşnic dintre Dumnezeu şi fiecare creatură vie, a toată făptura, care este pe pământ.",
-    "refs": [
-      "Geneza 9:12"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Formularea „Îl voi vedea” (nu „îl veți vedea voi”) — Rashi notează perspectiva divină a versetului: semnul e pentru amintirea lui Dumnezeu Însuși, o antropomorfizare care comunică ideea de legământ ireversibil, nu doar o asigurare pentru om."
-      }
-    ]
-  },
-  {
-    "num": 17,
-    "tokens": [
-      {
-        "t": "Dumnezeu",
-        "w": "Dumnezeu",
-        "heb": "אֱלֹהִים",
-        "translit": "Elohim",
-        "strong": "H430",
-        "pos": "substantiv",
-        "greek": "ὁ Θεὸς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Dumnezeu."
-      },
-      {
-        "t": " i-a spus lui "
-      },
-      {
-        "t": "Noe",
-        "w": "Noe",
-        "heb": "נֹחַ",
-        "translit": "Noach",
-        "strong": "H5146",
-        "pos": "nume propriu",
-        "greek": "Νῶε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Noe."
-      },
-      {
-        "t": ": „Acesta este "
-      },
-      {
-        "t": "semnul",
-        "w": "semnul",
-        "heb": "אוֹת",
-        "translit": "ot",
-        "strong": "H226",
-        "pos": "substantiv",
-        "greek": "τὸ σημεῖον",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "semnul."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "legământului",
-        "w": "legământului",
-        "heb": "הַבְּרִית",
-        "translit": "habrit",
-        "strong": "H1285",
-        "pos": "substantiv, cu articol",
-        "greek": "τῆς διαθήκης",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "legământului."
-      },
-      {
-        "t": " pe care l-am "
-      },
-      {
-        "t": "statornicit",
-        "w": "statornicit",
-        "heb": "הֲקִמֹתִי",
-        "translit": "hakimoti",
-        "strong": "H6965",
-        "pos": "verb",
-        "greek": "ἔστησα",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "l-am statornicit."
-      },
-      {
-        "t": " între Mine și toată "
-      },
-      {
-        "t": "firea",
-        "w": "firea",
-        "heb": "בָּשָׂר",
-        "translit": "basar",
-        "strong": "H1320",
-        "pos": "substantiv",
-        "greek": "σαρκὸς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "firea."
-      },
-      {
-        "t": " care este pe pământ.”"
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַיֹּאמֶר אֱלֹהִים אֶל־נֹחַ זֹאת אוֹת־הַבְּרִית אֲשֶׁר הֲקִמֹתִי בֵּינִי וּבֵין כָּל־בָּשָׂר אֲשֶׁר עַל־הָאָרֶץ",
-        "translation": "„Dumnezeu i-a spus lui Noe: „Acesta este semnul legământului pe care l-am statornicit între Mine și toată firea care este pe pământ.”” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ εἶπεν ὁ Θεὸς τῷ Νῶε Τοῦτο τὸ σημεῖον τῆς διαθήκης, ἧς διεθέμην ἀνὰ μέσον ἐμοῦ καὶ ἀνὰ μέσον πάσης σαρκός, ἥ ἐστιν ἐπὶ τῆς γῆς.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ויאמר אלהים אל נח זאת אות הברית אשר הקמתי ביני ובין כל בשר אשר על הארץ",
-        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
-        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi Dumnezeu i-a spus lui Noe: Acesta este semnul legământului, pe care l-am întemeiat între mine şi toată făptura care este pe pământ.",
-    "refs": [
-      "Geneza 17:11"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Repetarea „acesta este semnul legământului” (identică cu v.12) încheie simetric secțiunea despre curcubeu, confirmând explicit lui Noe promisiunea făcută."
-      }
-    ]
-  },
-  {
-    "num": 18,
-    "tokens": [
-      {
-        "t": "Și "
-      },
-      {
-        "t": "fiii",
-        "w": "fiii",
-        "heb": "בְנֵי",
-        "translit": "venei",
-        "strong": "H1121",
-        "pos": "substantiv, stare construită",
-        "greek": "οἱ υἱοὶ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "fiii."
-      },
-      {
-        "t": " lui "
-      },
-      {
-        "t": "Noe",
-        "w": "Noe",
-        "heb": "נֹחַ",
-        "translit": "Noach",
-        "strong": "H5146",
-        "pos": "nume propriu",
-        "greek": "Νῶε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Noe."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "ieșiți",
-        "w": "ieșiți",
-        "heb": "הַיֹּצְאִים",
-        "translit": "hayots'im",
-        "strong": "H3318",
-        "pos": "verb, participiu",
-        "greek": "οἱ ἐξελθόντες",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "ieșiți."
-      },
-      {
-        "t": " din arcă au fost "
-      },
-      {
-        "t": "Șem",
-        "w": "Șem",
-        "heb": "שֵׁם",
-        "translit": "Shem",
-        "strong": "H8035",
-        "pos": "nume propriu",
-        "greek": "Σήμ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Șem."
-      },
-      {
-        "t": ", "
-      },
-      {
-        "t": "Ham",
-        "w": "Ham",
-        "heb": "וְחָם",
-        "translit": "vecham",
-        "strong": "H2526",
-        "pos": "nume propriu",
-        "greek": "Χάμ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Ham."
-      },
-      {
-        "t": " și "
-      },
-      {
-        "t": "Iafet",
-        "w": "Iafet",
-        "heb": "וָיָפֶת",
-        "translit": "vayafet",
-        "strong": "H3315",
-        "pos": "nume propriu",
-        "greek": "Ιάφεθ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Iafet."
-      },
-      {
-        "t": "; iar "
-      },
-      {
-        "t": "Ham",
-        "w": "Ham",
-        "heb": "וְחָם",
-        "translit": "vecham",
-        "strong": "H2526",
-        "pos": "nume propriu",
-        "greek": "Χὰμ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Ham."
-      },
-      {
-        "t": " este "
-      },
-      {
-        "t": "tatăl",
-        "w": "tatăl",
-        "heb": "אֲבִי",
-        "translit": "avi",
-        "strong": "H1",
-        "pos": "substantiv, stare construită",
-        "greek": "πατὴρ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "tatăl."
-      },
-      {
-        "t": " lui "
-      },
-      {
-        "t": "Canaan",
-        "w": "Canaan",
-        "heb": "כְּנָעַן",
-        "translit": "Kena'an",
-        "strong": "H3667",
-        "pos": "nume propriu",
-        "greek": "Χανάαν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Canaan."
-      },
-      {
-        "t": "."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַיִּהְיוּ בְנֵי־נֹחַ הַיֹּצְאִים מִן־הַתֵּבָה שֵׁם וְחָם וָיָפֶת וְחָם הוּא אֲבִי כְנָעַן",
-        "translation": "„Și fiii lui Noe ieșiți din arcă au fost Șem, Ham și Iafet; iar Ham este tatăl lui Canaan.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "Ἦσαν δὲ οἱ υἱοὶ Νῶε οἱ ἐξελθόντες ἐκ τῆς κιβωτοῦ Σήμ, Χάμ, Ιάφεθ· Χὰμ ἦν πατὴρ Χανάαν.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ויהיו בני נח היוצאים מן התבה שם חם ויפת וחם הוא אבי כנען",
-        "translation": "Diferență reală, confirmată: ויהיו בני נח היוצאים מן התבה שם חם ויפת וחם הוא אבי כנען — „And the sons of Noah, that went forth of the ark, were Shem, Ham, and Japheth: and Ham [is] the father of Canaan.”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi fiii lui Noe, care au ieşit din arcă, au fost Sem şi Ham şi Iafet; şi Ham este tatăl lui Canaan.",
-    "refs": [
-      "Geneza 5:32",
-      "Geneza 10:6"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Menționarea timpurie a lui Canaan („Ham este tatăl lui Canaan”) pregătește deliberat blestemul de mai târziu (v.25) — Tora introduce personajul înainte de evenimentul care-i va determina soarta."
-      }
-    ]
-  },
-  {
-    "num": 19,
-    "tokens": [
-      {
-        "t": "Aceștia "
-      },
-      {
-        "t": "trei",
-        "w": "trei",
-        "heb": "שְׁלֹשָׁה",
-        "translit": "shloshah",
-        "strong": "H7969",
-        "pos": "numeral",
-        "greek": "τρεῖς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "trei."
-      },
-      {
-        "t": " sunt "
-      },
-      {
-        "t": "fiii",
-        "w": "fiii",
-        "heb": "בְּנֵי",
-        "translit": "benei",
-        "strong": "H1121",
-        "pos": "substantiv",
-        "greek": "οἱ υἱοὶ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "fiii."
-      },
-      {
-        "t": " lui "
-      },
-      {
-        "t": "Noe",
-        "w": "Noe",
-        "heb": "נֹחַ",
-        "translit": "Noach",
-        "strong": "H5146",
-        "pos": "nume propriu",
-        "greek": "Νῶε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Noe."
-      },
-      {
-        "t": " și de la aceștia s-au "
-      },
-      {
-        "t": "răspândit",
-        "w": "răspândit",
-        "heb": "נָפְצָה",
-        "translit": "nafetsah",
-        "strong": "H5310",
-        "pos": "verb",
-        "greek": "διεσπάρησαν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "s-au răspândit."
-      },
-      {
-        "t": " [oameni pe] tot "
-      },
-      {
-        "t": "pământul",
-        "w": "pământul",
-        "heb": "הָאָרֶץ",
-        "translit": "ha'arets",
-        "strong": "H776",
-        "pos": "substantiv",
-        "greek": "τὴν γῆν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "pământul."
-      },
-      {
-        "t": "."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "שְׁלֹשָׁה אֵלֶּה בְּנֵי־נֹחַ וּמֵאֵלֶּה נָפְצָה כָל־הָאָרֶץ",
-        "translation": "„Aceștia trei sunt fiii lui Noe și de la aceștia s-au răspândit [oameni pe] tot pământul.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "τρεῖς οὗτοί εἰσιν οἱ υἱοὶ Νῶε· ἀπὸ τούτων διεσπάρησαν ἐπὶ πᾶσαν τὴν γῆν.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "שלשה אלה בני נח מאלה נפצה כל הארץ",
-        "translation": "Diferență reală, confirmată: שלשה אלה בני נח מאלה נפצה כל הארץ — „These [are] the three sons of Noah: of them was the whole earth overspread.”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Aceştia sunt cei trei fii ai lui Noe şi din ei a fost acoperit întregul pământ.",
-    "refs": [
-      "Geneza 10:1-32"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "„Din aceștia s-au răspândit [oameni pe] tot pământul” anticipează tabelul detaliat al națiunilor din capitolul 10, care va enumera explicit descendenții fiecăruia dintre cei trei fii ai lui Noe."
-      },
-      {
-        "author": "Zohar, Noah 1:11",
-        "text": "Vino și vezi: Noaḥ era sortit din ziua în care a fost creată lumea să fie în teva într-o unire și să intre în ea; și până nu s-au unit laolaltă lumea nu era cum se cuvine. După aceea ce e scris (Geneza 9:19): «și din aceștia s-a risipit tot pământul»? Ce e «s-a risipit»? Precum zici (Geneza 2:10) «și de acolo se desparte». Că de acolo s-a aflat despărțire și s-au risipit nașterile în toate laturile."
-      }
-    ]
-  },
-  {
-    "num": 20,
-    "tokens": [
-      {
-        "t": "Noe",
-        "w": "Noe",
-        "heb": "נֹחַ",
-        "translit": "Noach",
-        "strong": "H5146",
-        "pos": "nume propriu",
-        "greek": "Νῶε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Noe."
-      },
-      {
-        "t": ", "
-      },
-      {
-        "t": "omul",
-        "w": "omul",
-        "heb": "אִישׁ",
-        "translit": "ish",
-        "strong": "H376",
-        "pos": "substantiv",
-        "greek": "ἄνθρωπος",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "omul."
-      },
-      {
-        "t": " pământului, s-a "
-      },
-      {
-        "t": "înjosit",
-        "w": "înjosit",
-        "heb": "וַיָּחֶל",
-        "translit": "vayachel",
-        "strong": "H2490",
-        "pos": "verb",
-        "greek": "ἤρξατο",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "s-a înjosit."
-      },
-      {
-        "t": " și a "
-      },
-      {
-        "t": "plantat",
-        "w": "plantat",
-        "heb": "וַיִּטַּע",
-        "translit": "vayita",
-        "strong": "H5193",
-        "pos": "verb",
-        "greek": "ἐφύτευσεν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "a plantat."
-      },
-      {
-        "t": " o "
-      },
-      {
-        "t": "vie",
-        "w": "vie",
-        "heb": "כָּרֶם",
-        "translit": "kerem",
-        "strong": "H3754",
-        "pos": "substantiv",
-        "greek": "ἀμπελῶνα",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "vie."
-      },
-      {
-        "t": "."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַיָּחֶל נֹחַ אִישׁ הָאֲדָמָה וַיִּטַּע כָּרֶם",
-        "translation": "„Noe, omul pământului, s-a înjosit și a plantat o vie.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "Καὶ ἤρξατο Νῶε ἄνθρωπος γεωργὸς γῆς καὶ ἐφύτευσεν ἀμπελῶνα.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ויחל נח איש האדמה ויטע כרם",
-        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
-        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi Noe a început a fi agricultor şi a sădit o vie;",
-    "refs": [
-      "Geneza 3:17-19"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Discută pe larg ambiguitatea verbului „vayachel” — tradus aici „s-a înjosit”, dar cu sens literal de „a început” — sugerând că Noe ar fi fost primul care a plantat o vie, un act cu potențial dublu: binecuvântare (vinul, folosit la jertfe) sau cădere (beția care urmează imediat)."
-      },
-      {
-        "author": "Sforno (cca. 1475–1550)",
-        "text": "Interpretează „s-a înjosit” ca legat direct de faptul că Noe a fost prima persoană care a plantat o vie și a produs vin — o inovație tehnologică pe care Sforno o citește ca dovadă a rolului lui Noe de restaurator al civilizației agricole, chiar dacă urmată de o cădere morală personală."
-      },
-      {
-        "author": "Zohar, Vaikra 31:8",
-        "text": "De aici a zis Rabbi Yose: ce este ce este scris (Geneza 9): «Și Noaḥ, omul pământului, a început (va-yaḥel)»? «Va-yaḥel» — precum ai spus (Numeri 30:3): «să nu-și pângărească (lo yaḥel) cuvântul» — căci a devenit profan (ḥol). «Omul pământului» — căci pentru el au fost stârpiți fiii lumii, pentru că nu a cerut îndurare pentru ei. Altă explicație: «omul (Bereșit 58b) pământului» — căci pentru el a dăinuit pământul după ce au fost stârpiți cei dintâi, căci este scris: «Nu voi mai blestema pământul din pricina omului» etc."
-      }
-    ]
-  },
-  {
-    "num": 21,
-    "tokens": [
-      {
-        "t": "Și a "
-      },
-      {
-        "t": "băut",
-        "w": "băut",
-        "heb": "וַיֵּשְׁתְּ",
-        "translit": "vayesht",
-        "strong": "H8354",
-        "pos": "verb",
-        "greek": "ἔπιεν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "a băut."
-      },
-      {
-        "t": " din "
-      },
-      {
-        "t": "vin",
-        "w": "vin",
-        "heb": "הַיַּיִן",
-        "translit": "hayayin",
-        "strong": "H3196",
-        "pos": "substantiv",
-        "greek": "τοῦ οἴνου",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "vin."
-      },
-      {
-        "t": " și s-a "
-      },
-      {
-        "t": "îmbătat",
-        "w": "îmbătat",
-        "heb": "וַיִּשְׁכָּר",
-        "translit": "vayishkar",
-        "strong": "H7937",
-        "pos": "verb",
-        "greek": "ἐμεθύσθη",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "s-a îmbătat."
-      },
-      {
-        "t": " și s-a "
-      },
-      {
-        "t": "dezgolit",
-        "w": "dezgolit",
-        "heb": "וַיִּתְגַּל",
-        "translit": "vayitgal",
-        "strong": "H1540",
-        "pos": "verb",
-        "greek": "ἐγυμνώθη",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "s-a dezgolit."
-      },
-      {
-        "t": " înăuntrul "
-      },
-      {
-        "t": "cortului",
-        "w": "cortului",
-        "heb": "אָהֳלֹה",
-        "translit": "aholoh",
-        "strong": "H168",
-        "pos": "substantiv",
-        "greek": "τῷ οἴκῳ αὐτοῦ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "cortului lui."
-      },
-      {
-        "t": " său."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַיֵּשְׁתְּ מִן־הַיַּיִן וַיִּשְׁכָּר וַיִּתְגַּל בְּתוֹךְ אָהֳלֹה",
-        "translation": "„Și a băut din vin și s-a îmbătat și s-a dezgolit înăuntrul cortului său.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ ἔπιεν ἐκ τοῦ οἴνου καὶ ἐμεθύσθη καὶ ἐγυμνώθη ἐν τῷ οἴκῳ αὐτοῦ.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "וישת מן היין וישכר ויתגל בתוך אהלו",
-        "translation": "Diferență reală, confirmată: וישת מן היין וישכר ויתגל בתוך אהלו — „And he drank of the wine, and was drunken; and he was uncovered within his tent.”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi a băut din vin şi s-a îmbătat şi s-a dezgolit înăuntrul cortului său.",
-    "refs": [
-      "Efeseni 5:18",
-      "Proverbele 20:1"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Notează consecința neprevăzută a primei vinificații din istorie — beția lui Noe, care duce direct la incidentul rușinos ce urmează; o tradiție vede în asta un avertisment timpuriu despre pericolele consumului excesiv de vin."
-      },
-      {
-        "author": "Zohar, Noah 13:10",
-        "text": "Și mai mult: după aceea au continuat să păcătuiască și să meargă după yețer ha-ra ca la început. Și Tora sfântă, care este Pomul vieții, Cel Sfânt, binecuvântat fie El, încă nu o coborâse pe pământ. Și mai mult: el însuși l-a tras pe șarpe în lume după aceea, căci este scris: „Și a băut din vin și s-a îmbătat și s-a descoperit în mijlocul cortului său”; și iată s-a explicat."
-      }
-    ]
-  },
-  {
-    "num": 22,
-    "tokens": [
-      {
-        "t": "Ham",
-        "w": "Ham",
-        "heb": "חָם",
-        "translit": "Cham",
-        "strong": "H2526",
-        "pos": "nume propriu",
-        "greek": "Χὰμ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Ham."
-      },
-      {
-        "t": ", "
-      },
-      {
-        "t": "tatăl",
-        "w": "tatăl",
-        "heb": "אֲבִי",
-        "translit": "avi",
-        "strong": "H1",
-        "pos": "substantiv, stare construită",
-        "greek": "ὁ πατὴρ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "tatăl."
-      },
-      {
-        "t": " lui "
-      },
-      {
-        "t": "Canaan",
-        "w": "Canaan",
-        "heb": "כְנַעַן",
-        "translit": "Kena'an",
-        "strong": "H3667",
-        "pos": "nume propriu",
-        "greek": "Χανάαν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Canaan."
-      },
-      {
-        "t": ", a "
-      },
-      {
-        "t": "văzut",
-        "w": "văzut",
-        "heb": "וַיַּרְא",
-        "translit": "vayar",
-        "strong": "H7200",
-        "pos": "verb",
-        "greek": "εἶδεν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "a văzut."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "goliciunea",
-        "w": "goliciunea",
-        "heb": "עֶרְוַת",
-        "translit": "ervat",
-        "strong": "H6172",
-        "pos": "substantiv, stare construită",
-        "greek": "τὴν γύμνωσιν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "goliciunea."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "tatălui",
-        "w": "tatălui",
-        "heb": "אָבִיו",
-        "translit": "aviv",
-        "strong": "H1",
-        "pos": "substantiv cu sufix",
-        "greek": "τοῦ πατρὸς αὐτοῦ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "tatălui lui."
-      },
-      {
-        "t": " său și le-a "
-      },
-      {
-        "t": "povestit",
-        "w": "povestit",
-        "heb": "וַיַּגֵּד",
-        "translit": "vayaged",
-        "strong": "H5046",
-        "pos": "verb",
-        "greek": "ἀνήγγειλεν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "le-a povestit."
-      },
-      {
-        "t": " celor doi "
-      },
-      {
-        "t": "frați",
-        "w": "frați",
-        "heb": "אֶחָיו",
-        "translit": "echav",
-        "strong": "H251",
-        "pos": "substantiv, plural cu sufix",
-        "greek": "τοῖς δυσὶν ἀδελφοῖς αὐτοῦ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "fraților lui."
-      },
-      {
-        "t": " ai săi, afară."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַיַּרְא חָם אֲבִי כְנַעַן אֵת עֶרְוַת אָבִיו וַיַּגֵּד לִשְׁנֵי־אֶחָיו בַּחוּץ",
-        "translation": "„Ham, tatăl lui Canaan, a văzut goliciunea tatălui său și le-a povestit celor doi frați ai săi, afară.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ εἶδεν Χὰμ ὁ πατὴρ Χανάαν τὴν γύμνωσιν τοῦ πατρὸς αὐτοῦ καὶ ἐξελθὼν ἀνήγγειλεν τοῖς δυσὶν ἀδελφοῖς αὐτοῦ ἔξω.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "וירא חם אבי כנען את ערות אביו ויגד לשני אחיו בחוץ",
-        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
-        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi Ham, tatăl lui Canaan, a văzut goliciunea tatălui său şi a spus celor doi fraţi ai săi de afară.",
-    "refs": [
-      "Levitic 18:6-8"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Fapta exactă a lui Ham rămâne disputată în tradiția rabinică — unii înțeleg doar „a văzut și a povestit” literal (o lipsă gravă de respect filial), alții citesc în spatele textului o faptă mult mai gravă (o tradiție minoritară vorbește chiar de castrare sau abuz), datorită severității neobișnuite a blestemului care urmează."
-      }
-    ]
-  },
-  {
-    "num": 23,
-    "tokens": [
-      {
-        "t": "Iar "
-      },
-      {
-        "t": "Șem",
-        "w": "Șem",
-        "heb": "שֵׁם",
-        "translit": "Shem",
-        "strong": "H8035",
-        "pos": "nume propriu",
-        "greek": "Σήμ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Șem."
-      },
-      {
-        "t": " și "
-      },
-      {
-        "t": "Iafet",
-        "w": "Iafet",
-        "heb": "וָיֶפֶת",
-        "translit": "vayafet",
-        "strong": "H3315",
-        "pos": "nume propriu",
-        "greek": "Ιάφεθ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Iafet."
-      },
-      {
-        "t": " au "
-      },
-      {
-        "t": "luat",
-        "w": "luat",
-        "heb": "וַיִּקְחוּ",
-        "translit": "vayikchu",
-        "strong": "H3947",
-        "pos": "verb",
-        "greek": "ἔλαβον",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "au luat."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "haina",
-        "w": "haina",
-        "heb": "הַשִּׂמְלָה",
-        "translit": "hasimlah",
-        "strong": "H8071",
-        "pos": "substantiv, cu articol",
-        "greek": "τὸ ἱμάτιον",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "haina."
-      },
-      {
-        "t": " și au pus-o pe "
-      },
-      {
-        "t": "umerii",
-        "w": "umerii",
-        "heb": "שְׁכֶם",
-        "translit": "shekhem",
-        "strong": "H7926",
-        "pos": "substantiv",
-        "greek": "τῷ ὤμῳ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "umerii."
-      },
-      {
-        "t": " amândurora și au "
-      },
-      {
-        "t": "mers îndărăt",
-        "w": "mers îndărăt",
-        "heb": "וַיֵּלְכוּ אֲחֹרַנִּית",
-        "translit": "vayelkhu achoranit",
-        "strong": "H1980",
-        "pos": "verb",
-        "greek": "ὀπισθοφανῶς ἐπορεύθησαν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "au mers îndărăt."
-      },
-      {
-        "t": " și au "
-      },
-      {
-        "t": "acoperit",
-        "w": "acoperit",
-        "heb": "וַיְכַסּוּ",
-        "translit": "vayekhasu",
-        "strong": "H3680",
-        "pos": "verb",
-        "greek": "συνεκάλυψαν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "au acoperit."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "goliciunea",
-        "w": "goliciunea",
-        "heb": "עֶרְוַת",
-        "translit": "ervat",
-        "strong": "H6172",
-        "pos": "substantiv, stare construită",
-        "greek": "τὴν γύμνωσιν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "goliciunea."
-      },
-      {
-        "t": " tatălui lor; iar "
-      },
-      {
-        "t": "fețele",
-        "w": "fețele",
-        "heb": "פְנֵיהֶם",
-        "translit": "peneihem",
-        "strong": "H6440",
-        "pos": "substantiv cu sufix",
-        "greek": "τὰ πρόσωπα αὐτῶν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "fețele lor."
-      },
-      {
-        "t": " lor erau "
-      },
-      {
-        "t": "întoarse îndărăt",
-        "w": "întoarse îndărăt",
-        "heb": "אֲחֹרַנִּית",
-        "translit": "achoranit",
-        "strong": "H322",
-        "pos": "adverb",
-        "greek": "ὀπισθοφανῶς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "întoarse îndărăt."
-      },
-      {
-        "t": " și goliciunea tatălui lor nu au "
-      },
-      {
-        "t": "văzut-o",
-        "w": "văzut-o",
-        "heb": "רָאוּ",
-        "translit": "ra'u",
-        "strong": "H7200",
-        "pos": "verb",
-        "greek": "εἶδον",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "au văzut-o."
-      },
-      {
-        "t": "."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַיִּקַּח שֵׁם וָיֶפֶת אֶת־הַשִּׂמְלָה וַיָּשִׂימוּ עַל־שְׁכֶם שְׁנֵיהֶם וַיֵּלְכוּ אֲחֹרַנִּית וַיְכַסּוּ אֵת עֶרְוַת אֲבִיהֶם וּפְנֵיהֶם אֲחֹרַנִּית וְעֶרְוַת אֲבִיהֶם לֹא רָאוּ",
-        "translation": "„Iar Șem și Iafet au luat haina și au pus-o pe umerii amândurora și au mers îndărăt și au acoperit goliciunea tatălui lor; iar fețele lor erau întoarse îndărăt și goliciunea tatălui lor nu au văzut-o.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ λαβόντες Σὴμ καὶ Ιάφεθ τὸ ἱμάτιον ἐπέθεντο ἐπὶ τὰ δύο νῶτα αὐτῶν καὶ ἐπορεύθησαν ὀπισθοφανῶς καὶ συνεκάλυψαν τὴν γύμνωσιν τοῦ πατρὸς αὐτῶν, καὶ τὸ πρόσωπον αὐτῶν ὀπισθοφανές, καὶ τὴν γύμνωσιν τοῦ πατρὸς αὐτῶν οὐκ εἶδον.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ויקח שם ויפת את השמלה וישמו על שכם שניהם וילכו אחרנית ויכסו את ערות אביהם ופניהם אחרנית וערות אביהם לא ראו",
-        "translation": "Diferență reală, confirmată: ויקח שם ויפת את השמלה וישמו על שכם שניהם וילכו אחרנית ויכסו את ערות אביהם ופניהם אחרנית וערות אביהם לא ראו — „And Shem and Japheth took a garment, and laid [it] upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces [were] backward, and they saw not their father's nakedness.”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi Sem şi Iafet au luat o haină şi au pus-o peste amândoi umerii lor şi au mers cu spatele şi au acoperit goliciunea tatălui lor şi feţele lor erau întoarse şi nu au văzut goliciunea tatălui lor.",
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Contrastul dintre purtarea lui Ham (care doar privește și povestește) și cea a lui Șem și Iafet (care acoperă activ, cu fața întoarsă, refuzând să vadă) structurează întregul episod ca o lecție despre respectul cuvenit unui părinte, indiferent de starea lui."
-      }
-    ],
-    "refs": [
-      "Levitic 19:32"
-    ]
-  },
-  {
-    "num": 24,
-    "tokens": [
-      {
-        "t": "Noe",
-        "w": "Noe",
-        "heb": "נֹחַ",
-        "translit": "Noach",
-        "strong": "H5146",
-        "pos": "nume propriu",
-        "greek": "Νῶε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Noe."
-      },
-      {
-        "t": " s-a "
-      },
-      {
-        "t": "trezit",
-        "w": "trezit",
-        "heb": "וַיִּיקֶץ",
-        "translit": "vayikets",
-        "strong": "H3364",
-        "pos": "verb",
-        "greek": "ἐξένηψεν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "s-a trezit."
-      },
-      {
-        "t": " din "
-      },
-      {
-        "t": "vinul",
-        "w": "vinul",
-        "heb": "מִיֵּינוֹ",
-        "translit": "miyeino",
-        "strong": "H3196",
-        "pos": "substantiv cu sufix",
-        "greek": "τοῦ οἴνου αὐτοῦ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "vinul lui."
-      },
-      {
-        "t": " său și a "
-      },
-      {
-        "t": "știut",
-        "w": "știut",
-        "heb": "וַיֵּדַע",
-        "translit": "vayeda",
-        "strong": "H3045",
-        "pos": "verb",
-        "greek": "ἔγνω",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "a știut."
-      },
-      {
-        "t": " ce îi "
-      },
-      {
-        "t": "făcuse",
-        "w": "făcuse",
-        "heb": "עָשָׂה",
-        "translit": "asah",
-        "strong": "H6213",
-        "pos": "verb",
-        "greek": "ἐποίησεν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "îi făcuse."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "fiul",
-        "w": "fiul",
-        "heb": "בְּנוֹ",
-        "translit": "beno",
-        "strong": "H1121",
-        "pos": "substantiv cu sufix",
-        "greek": "ὁ υἱὸς αὐτοῦ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "fiul lui."
-      },
-      {
-        "t": " său cel "
-      },
-      {
-        "t": "mic",
-        "w": "mic",
-        "heb": "הַקָּטָן",
-        "translit": "hakatan",
-        "strong": "H6996",
-        "pos": "adjectiv, cu articol",
-        "greek": "ὁ νεώτερος",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "mic, mai tânăr."
-      },
-      {
-        "t": "."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַיִּיקֶץ נֹחַ מִיֵּינוֹ וַיֵּדַע אֵת אֲשֶׁר־עָשָׂה לוֹ בְּנוֹ הַקָּטָן",
-        "translation": "„Noe s-a trezit din vinul său și a știut ce îi făcuse fiul său cel mic.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "ἐξένηψεν δὲ Νῶε ἀπὸ τοῦ οἴνου καὶ ἔγνω ὅσα ἐποίησεν αὐτῷ ὁ υἱὸς αὐτοῦ ὁ νεώτερος,",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ויקץ נח מיינו וידע את אשר עשה לו בנו הקטן",
-        "translation": "Diferență reală, confirmată: ויקץ נח מיינו וידע את אשר עשה לו בנו הקטן — „And Noah awoke from his wine, and knew what his younger son had done unto him.”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi Noe s-a trezit din beţia vinului său şi a cunoscut ceea ce fiul său mai tânăr i-a făcut.",
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "„Fiul său cel mic” — Rashi discută identitatea exactă (Ham sau, după unele tradiții, nepotul Canaan însuși), dat fiind că blestemul de la v.25 cade asupra lui Canaan, nu direct asupra lui Ham."
-      }
-    ],
-    "refs": [
-      "Geneza 9:22"
-    ]
-  },
-  {
-    "num": 25,
-    "tokens": [
-      {
-        "t": "Și a "
-      },
-      {
-        "t": "spus",
-        "w": "spus",
-        "heb": "וַיֹּאמֶר",
-        "translit": "vayomer",
-        "strong": "H559",
-        "pos": "verb",
-        "greek": "εἶπεν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "a spus."
-      },
-      {
-        "t": ": „"
-      },
-      {
-        "t": "Blestemat",
-        "w": "Blestemat",
-        "heb": "אָרוּר",
-        "translit": "arur",
-        "strong": "H779",
-        "pos": "adjectiv",
-        "greek": "ἐπικατάρατος",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "blestemat."
-      },
-      {
-        "t": " să fie "
-      },
-      {
-        "t": "Canaan",
-        "w": "Canaan",
-        "heb": "כְּנָעַן",
-        "translit": "Kena'an",
-        "strong": "H3667",
-        "pos": "nume propriu",
-        "greek": "Χανάαν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Canaan."
-      },
-      {
-        "t": "; un "
-      },
-      {
-        "t": "sclav",
-        "w": "sclav",
-        "heb": "עֶבֶד",
-        "translit": "eved",
-        "strong": "H5650",
-        "pos": "substantiv",
-        "greek": "παῖς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "sclav."
-      },
-      {
-        "t": " al "
-      },
-      {
-        "t": "sclavilor",
-        "w": "sclavilor",
-        "heb": "עֲבָדִים",
-        "translit": "avadim",
-        "strong": "H5650",
-        "pos": "substantiv, plural",
-        "greek": "δούλων",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "sclavilor."
-      },
-      {
-        "t": " să fie pentru "
-      },
-      {
-        "t": "frații",
-        "w": "frații",
-        "heb": "לְאֶחָיו",
-        "translit": "le'echav",
-        "strong": "H251",
-        "pos": "substantiv, plural cu sufix",
-        "greek": "τοῖς ἀδελφοῖς αὐτοῦ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "frații lui."
-      },
-      {
-        "t": " săi.”"
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַיֹּאמֶר אָרוּר כְּנָעַן עֶבֶד עֲבָדִים יִהְיֶה לְאֶחָיו",
-        "translation": "„Și a spus: „Blestemat să fie Canaan; un sclav al sclavilor să fie pentru frații săi.”” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ εἶπεν Ἐπικατάρατος Χανάαν· παῖς οἰκέτης ἔσται τοῖς ἀδελφοῖς αὐτοῦ.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ויאמר ארור כנען עבד עבדים יהיה לאחיו",
-        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
-        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi a spus: Blestemat fie Canaan, un servitor al servitorilor va fi el fraţilor săi.",
-    "refs": [
-      "Iosua 9:23"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Blestemul cade asupra lui Canaan, nu asupra lui Ham însuși — o problemă discutată intens de comentatori: o explicație clasică e că Ham fusese deja binecuvântat de Dumnezeu (v.1), deci nu putea fi blestemat direct; blestemul trece, în schimb, asupra celei de-a patra generații (Canaan)."
-      },
-      {
-        "author": "Ramban / Nahmanide (1194–1270)",
-        "text": "Discută dificultatea morală centrală a pasajului: de ce e blestemat Canaan, fiul lui Ham, și nu Ham însuși, care a comis fapta? Ramban citează tradiția conform căreia Ham fusese deja binecuvântat implicit (ca fiu al lui Noe, la v.1), iar blestemul nu putea anula direct o binecuvântare anterioară, motiv pentru care s-a extins simbolic asupra descendenței sale."
-      },
-      {
-        "author": "Zohar, Noah 36:9",
-        "text": "Și de aceea e scris (Geneza 9:25) «și a zis: blestemat e Kenaan; rob al robilor va fi fraților săi». Că el a adus blesteme asupra lumii. Și la naḥaș ce e scris (Geneza 3:14): «blestemat ești dintre tot dobitocul». Aceasta e ce e scris «rob al robilor». Și de aceea e scris «Șem, Ḥam și Yafet». Aceștia trei sunt fiii lui Noaḥ cei ieșiți din teva, precum am zis."
-      },
-      {
-        "author": "Cartea Jubileelor 7 — context/comparație",
-        "text": "Formula exactă a blestemului apare identic în Jubilee: „Noe s-a deșteptat din somnul său și a cunoscut tot ce-i făcuse fiul său cel mai tânăr, și și-a blestemat fiul și a zis: Blestemat să fie Canaan; rob înrobit să fie el fraților săi” (7:10). Cartea adaugă însă un episod absent din Geneza: reacția lui Ham la aflarea blestemului — „Ham a cunoscut că tatăl său blestemase pe fiul său cel mai tânăr, și i-a părut rău că i-a blestemat fiul, și s-a despărțit de tatăl său, el și fiii lui cu el: Cuș, și Mițraim, și Put, și Canaan” (7:13). Separarea fizică a lui Ham de Noe, motivată explicit de regretul față de blestem, oferă un fundal narativ pentru împrăștierea ulterioară a neamurilor din capitolul 10, complet netratat de textul biblic. <button class=\"commentary-lib-go\" onclick=\"window.openLibraryCitation('jubileele', 7)\" title=\"Citește capitolul\">→</button>"
-      }
-    ]
-  },
-  {
-    "num": 26,
-    "tokens": [
-      {
-        "t": "Și a "
-      },
-      {
-        "t": "spus",
-        "w": "spus",
-        "heb": "וַיֹּאמֶר",
-        "translit": "vayomer",
-        "strong": "H559",
-        "pos": "verb",
-        "greek": "εἶπεν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "a spus."
-      },
-      {
-        "t": ": „"
-      },
-      {
-        "t": "Binecuvântat",
-        "w": "Binecuvântat",
-        "heb": "בָּרוּךְ",
-        "translit": "barukh",
-        "strong": "H1288",
-        "pos": "adjectiv",
-        "greek": "εὐλογητὸς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "binecuvântat."
-      },
-      {
-        "t": " fie "
-      },
-      {
-        "t": "DOMNUL",
-        "w": "DOMNUL",
-        "heb": "יְהוָה",
-        "translit": "YHVH",
-        "strong": "H3068",
-        "pos": "substantiv",
-        "greek": "Κύριος",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "DOMNUL."
-      },
-      {
-        "t": ", "
-      },
-      {
-        "t": "Dumnezeul",
-        "w": "Dumnezeul",
-        "heb": "אֱלֹהֵי",
-        "translit": "Elohei",
-        "strong": "H430",
-        "pos": "substantiv, stare construită",
-        "greek": "ὁ Θεὸς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Dumnezeul."
-      },
-      {
-        "t": " lui "
-      },
-      {
-        "t": "Șem",
-        "w": "Șem",
-        "heb": "שֵׁם",
-        "translit": "Shem",
-        "strong": "H8035",
-        "pos": "nume propriu",
-        "greek": "Σήμ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Șem."
-      },
-      {
-        "t": "; și "
-      },
-      {
-        "t": "Canaan",
-        "w": "Canaan",
-        "heb": "כְּנַעַן",
-        "translit": "Kena'an",
-        "strong": "H3667",
-        "pos": "nume propriu",
-        "greek": "Χανάαν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Canaan."
-      },
-      {
-        "t": " să le fie "
-      },
-      {
-        "t": "sclav",
-        "w": "sclav",
-        "heb": "עֶבֶד",
-        "translit": "eved",
-        "strong": "H5650",
-        "pos": "substantiv",
-        "greek": "παῖς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "sclav."
-      },
-      {
-        "t": "."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַיֹּאמֶר בָּרוּךְ יְהוָה אֱלֹהֵי שֵׁם וִיהִי כְנַעַן עֶבֶד לָמוֹ",
-        "translation": "„Și a spus: „Binecuvântat fie DOMNUL, Dumnezeul lui Șem; și Canaan să le fie sclav.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ εἶπεν Εὐλογητὸς Κύριος ὁ Θεὸς τοῦ Σήμ, καὶ ἔσται Χανάαν παῖς αὐτοῦ.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ויאמר ברוך יהוה אלהי שם ויהי כנען עבד למו",
-        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
-        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi a spus: Binecuvântat fie DOMNUL Dumnezeul lui Sem; şi Canaan va fi servitorul lui.",
-    "refs": [
-      "Geneza 11:10-26"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Formula neobișnuită — „Binecuvântat fie DOMNUL, Dumnezeul lui Șem”, nu direct „binecuvântat fie Șem” — e explicată de Rashi ca o binecuvântare indirectă, mai mare: Șem va avea privilegiul ca Dumnezeu să fie recunoscut, în mod special, drept „Dumnezeul lui”, anticipând linia israelită care va descinde din el."
-      }
-    ]
-  },
-  {
-    "num": 27,
-    "tokens": [
-      {
-        "t": "Dumnezeu",
-        "w": "Dumnezeu",
-        "heb": "אֱלֹהִים",
-        "translit": "Elohim",
-        "strong": "H430",
-        "pos": "substantiv",
-        "greek": "ὁ Θεὸς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Dumnezeu."
-      },
-      {
-        "t": " să îl "
-      },
-      {
-        "t": "mărească",
-        "w": "mărească",
-        "heb": "יַפְתְּ",
-        "translit": "yaft",
-        "strong": "H6601",
-        "pos": "verb",
-        "greek": "πλατύναι",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "să-l mărească."
-      },
-      {
-        "t": " pe "
-      },
-      {
-        "t": "Iafet",
-        "w": "Iafet",
-        "heb": "לְיֶפֶת",
-        "translit": "leyefet",
-        "strong": "H3315",
-        "pos": "nume propriu",
-        "greek": "τῷ Ιάφεθ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "pe Iafet."
-      },
-      {
-        "t": " și el să "
-      },
-      {
-        "t": "locuiască",
-        "w": "locuiască",
-        "heb": "וְיִשְׁכֹּן",
-        "translit": "veyishkon",
-        "strong": "H7931",
-        "pos": "verb",
-        "greek": "κατοικησάτω",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "să locuiască."
-      },
-      {
-        "t": " în "
-      },
-      {
-        "t": "corturile",
-        "w": "corturile",
-        "heb": "בְּאָהֳלֵי",
-        "translit": "be'oholei",
-        "strong": "H168",
-        "pos": "substantiv, stare construită",
-        "greek": "τοῖς οἴκοις",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "corturile."
-      },
-      {
-        "t": " lui "
-      },
-      {
-        "t": "Șem",
-        "w": "Șem",
-        "heb": "שֵׁם",
-        "translit": "Shem",
-        "strong": "H8035",
-        "pos": "nume propriu",
-        "greek": "Σήμ",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Șem."
-      },
-      {
-        "t": "; iar "
-      },
-      {
-        "t": "Canaan",
-        "w": "Canaan",
-        "heb": "וּכְנַעַן",
-        "translit": "ukhena'an",
-        "strong": "H3667",
-        "pos": "nume propriu",
-        "greek": "Χανάαν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Canaan."
-      },
-      {
-        "t": " să le fie "
-      },
-      {
-        "t": "sclav",
-        "w": "sclav",
-        "heb": "עֶבֶד",
-        "translit": "eved",
-        "strong": "H5650",
-        "pos": "substantiv",
-        "greek": "παῖς",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "sclav."
-      },
-      {
-        "t": ".”"
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "יַפְתְּ אֱלֹהִים לְיֶפֶת וְיִשְׁכֹּן בְּאָהֳלֵי־שֵׁם וִיהִי כְנַעַן עֶבֶד לָמוֹ",
-        "translation": "„Dumnezeu să îl mărească pe Iafet și el să locuiască în corturile lui Șem; iar Canaan să le fie sclav.”” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "πλατύναι ὁ Θεὸς τῷ Ιάφεθ καὶ κατοικησάτω ἐν τοῖς οἴκοις τοῦ Σήμ, καὶ γενηθήτω Χανάαν παῖς αὐτῶν.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "יפת אלהים ליפת וישכן באהלי שם ויהי כנען עבד למו",
-        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
-        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Dumnezeu va lărgi pe Iafet şi va locui în corturile lui Sem şi Canaan va fi servitorul lui.",
-    "refs": [
-      "Efeseni 2:13-14"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Jocul de cuvinte dintre numele „Iafet” (יֶפֶת) și verbul „yaft” (să-l mărească, de la aceeași rădăcină, יפה/פתה) leagă direct numele profetic al fiului de binecuvântarea primită."
-      }
-    ]
-  },
-  {
-    "num": 28,
-    "tokens": [
-      {
-        "t": "Noe",
-        "w": "Noe",
-        "heb": "נֹחַ",
-        "translit": "Noach",
-        "strong": "H5146",
-        "pos": "nume propriu",
-        "greek": "Νῶε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Noe."
-      },
-      {
-        "t": " a "
-      },
-      {
-        "t": "[mai] trăit",
-        "w": "[mai] trăit",
-        "heb": "וַיְחִי",
-        "translit": "vayechi",
-        "strong": "H2421",
-        "pos": "verb",
-        "greek": "ἔζησεν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "a mai trăit."
-      },
-      {
-        "t": " după "
-      },
-      {
-        "t": "potop",
-        "w": "potop",
-        "heb": "הַמַּבּוּל",
-        "translit": "hamabul",
-        "strong": "H3999",
-        "pos": "substantiv",
-        "greek": "τὸν κατακλυσμὸν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "potop."
-      },
-      {
-        "t": " "
-      },
-      {
-        "t": "trei sute cincizeci de ani",
-        "w": "trei sute cincizeci de ani",
-        "heb": "שְׁלֹשׁ מֵאוֹת שָׁנָה וַחֲמִשִּׁים שָׁנָה",
-        "translit": "shlosh me'ot shanah vachamishim shanah",
-        "strong": "H7969",
-        "pos": "numeral",
-        "greek": "τριακόσια πεντήκοντα ἔτη",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "trei sute cincizeci de ani."
-      },
-      {
-        "t": "."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַיְחִי־נֹחַ אַחַר הַמַּבּוּל שְׁלֹשׁ מֵאוֹת שָׁנָה וַחֲמִשִּׁים שָׁנָה",
-        "translation": "„Noe a [mai] trăit după potop trei sute cincizeci de ani.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "Ἔζησεν δὲ Νῶε μετὰ τὸν κατακλυσμὸν τριακόσια πεντήκοντα ἔτη.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ויחי נח אחרי המבול שלש מאות שנה וחמשים שנה",
-        "translation": "Diferență reală, confirmată: ויחי נח אחרי המבול שלש מאות שנה וחמשים שנה — „And Noah lived after the flood three hundred and fifty years.”",
-        "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi Noe a trăit după potop trei sute cincizeci de ani.",
-    "refs": [
-      "Geneza 5:32"
-    ],
-    "commentaries": [
-      {
-        "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 6",
-        "text": "Josephus confirmă aceeași cronologie — Noe trăind încă multă vreme după Potop — și discută pe larg genealogia popoarelor descinse din cei trei fii ai lui Noe, temă pe care o va relua în detaliu în comentariul la capitolul 10."
-      }
-    ]
-  },
-  {
-    "num": 29,
-    "tokens": [
-      {
-        "t": "Toate "
-      },
-      {
-        "t": "zilele",
-        "w": "zilele",
-        "heb": "יְמֵי",
-        "translit": "yemei",
-        "strong": "H3117",
-        "pos": "substantiv",
-        "greek": "αἱ ἡμέραι",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "zilele."
-      },
-      {
-        "t": " lui "
-      },
-      {
-        "t": "Noe",
-        "w": "Noe",
-        "heb": "נֹחַ",
-        "translit": "Noach",
-        "strong": "H5146",
-        "pos": "nume propriu",
-        "greek": "Νῶε",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "Noe."
-      },
-      {
-        "t": " au fost "
-      },
-      {
-        "t": "nouă sute cincizeci de ani",
-        "w": "nouă sute cincizeci de ani",
-        "heb": "תְּשַׁע מֵאוֹת שָׁנָה וַחֲמִשִּׁים שָׁנָה",
-        "translit": "tesha me'ot shanah vachamishim shanah",
-        "strong": "H8672",
-        "pos": "numeral",
-        "greek": "ἐννακόσια πεντήκοντα ἔτη",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "nouă sute cincizeci de ani."
-      },
-      {
-        "t": " și a "
-      },
-      {
-        "t": "murit",
-        "w": "murit",
-        "heb": "וַיָּמֹת",
-        "translit": "vayamot",
-        "strong": "H4191",
-        "pos": "verb",
-        "greek": "ἀπέθανεν",
-        "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-        "def_ro": "a murit."
-      },
-      {
-        "t": "."
-      }
-    ],
-    "textCompare": [
-      {
-        "source": "Textul Masoretic (ebraică)",
-        "original": "וַיִּהְיוּ כָּל־יְמֵי־נֹחַ תְּשַׁע מֵאוֹת שָׁנָה וַחֲמִשִּׁים שָׁנָה וַיָּמֹת",
-        "translation": "„Toate zilele lui Noe au fost nouă sute cincizeci de ani și a murit.” — traducerea rabinului Rosen.",
-        "note": ""
-      },
-      {
-        "source": "Septuaginta (greacă)",
-        "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Νῶε ἐννακόσια πεντήκοντα ἔτη, καὶ ἀπέθανεν.",
-        "greek": true,
-        "translation": "",
-        "note": ""
-      },
-      {
-        "source": "Pentateuhul Samaritean",
-        "original": "ויהיו כל ימי נח תשע מאות שנה וחמשים שנה וימת",
-        "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
-        "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
-      }
-    ],
-    "fidela": "Şi toate zilele lui Noe au fost nouă sute cincizeci de ani; şi a murit.",
-    "refs": [
-      "Geneza 5:5"
-    ],
-    "commentaries": [
-      {
-        "author": "Rashi (1040–1105)",
-        "text": "Cei 950 de ani ai lui Noe încheie simetric genealogia deschisă la Geneza 5 — a doua cea mai lungă viață din toată Tora, după Matusalem (969 de ani), marcând sfârșitul generației care a experimentat direct Potopul."
-      }
-    ]
-  }
+ {
+  "num": 1,
+  "tokens": [
+   {
+    "t": "Dumnezeu",
+    "w": "Dumnezeu",
+    "heb": "אֱלֹהִים",
+    "translit": "Elohim",
+    "strong": "H430",
+    "pos": "substantiv",
+    "greek": "ὁ Θεὸς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Dumnezeu."
+   },
+   {
+    "t": " i-a "
+   },
+   {
+    "t": "binecuvântat",
+    "w": "binecuvântat",
+    "heb": "וַיְבָרֶךְ",
+    "translit": "vayevarekh",
+    "strong": "H1288",
+    "pos": "verb",
+    "greek": "εὐλόγησεν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "i-a binecuvântat."
+   },
+   {
+    "t": " pe "
+   },
+   {
+    "t": "Noe",
+    "w": "Noe",
+    "heb": "נֹחַ",
+    "translit": "Noach",
+    "strong": "H5146",
+    "pos": "nume propriu",
+    "greek": "τὸν Νῶε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Noe."
+   },
+   {
+    "t": " și pe "
+   },
+   {
+    "t": "fiii",
+    "w": "fiii",
+    "heb": "בָּנָיו",
+    "translit": "banav",
+    "strong": "H1121",
+    "pos": "substantiv",
+    "greek": "τοὺς υἱοὺς αὐτοῦ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "fiii lui."
+   },
+   {
+    "t": " lui și le-a "
+   },
+   {
+    "t": "spus",
+    "w": "spus",
+    "heb": "וַיֹּאמֶר",
+    "translit": "vayomer",
+    "strong": "H559",
+    "pos": "verb",
+    "greek": "εἶπεν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "le-a spus."
+   },
+   {
+    "t": ": „"
+   },
+   {
+    "t": "Fiți roditori",
+    "w": "Fiți roditori",
+    "heb": "פְּרוּ",
+    "translit": "peru",
+    "strong": "H6509",
+    "pos": "verb, imperativ",
+    "greek": "αὐξάνεσθε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "fiți roditori."
+   },
+   {
+    "t": ", "
+   },
+   {
+    "t": "înmulțiți-vă",
+    "w": "înmulțiți-vă",
+    "heb": "וּרְבוּ",
+    "translit": "urevu",
+    "strong": "H7235",
+    "pos": "verb, imperativ",
+    "greek": "πληθύνεσθε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "înmulțiți-vă."
+   },
+   {
+    "t": " și "
+   },
+   {
+    "t": "umpleți",
+    "w": "umpleți",
+    "heb": "וּמִלְאוּ",
+    "translit": "umil'u",
+    "strong": "H4390",
+    "pos": "verb, imperativ",
+    "greek": "πληρώσατε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "umpleți."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "pământul",
+    "w": "pământul",
+    "heb": "הָאָרֶץ",
+    "translit": "ha'arets",
+    "strong": "H776",
+    "pos": "substantiv",
+    "greek": "τὴν γῆν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "pământul."
+   },
+   {
+    "t": "."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַיְבָרֶךְ אֱלֹהִים אֶת־נֹחַ וְאֶת־בָּנָיו וַיֹּאמֶר לָהֶם פְּרוּ וּרְבוּ וּמִלְאוּ אֶת־הָאָרֶץ",
+    "translation": "„Dumnezeu i-a binecuvântat pe Noe și pe fiii lui și le-a spus: „Fiți roditori, înmulțiți-vă și umpleți pământul.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "Καὶ ηὐλόγησεν ὁ Θεὸς τὸν Νῶε καὶ τοὺς υἱοὺς αὐτοῦ καὶ εἶπεν αὐτοῖς Αὐξάνεσθε καὶ πληθύνεσθε καὶ πληρώσατε τὴν γῆν καὶ κατακυριεύσατε αὐτῆς.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ויברך אלהים את נח ואת בניו ויאמר להם פרו ורבו ומלאו את הארץ",
+    "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+    "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi Dumnezeu a binecuvântat pe Noe şi pe fiii lui şi le-a spus: Fiţi roditori şi înmulţiţi-vă şi umpleţi pământul.",
+  "refs": [
+   "Geneza 1:28"
+  ],
+  "commentaries": []
+ },
+ {
+  "num": 2,
+  "tokens": [
+   {
+    "t": "Iar "
+   },
+   {
+    "t": "teama",
+    "w": "teama",
+    "heb": "וּמוֹרַאֲכֶם",
+    "translit": "umora'akhem",
+    "strong": "H4172",
+    "pos": "substantiv",
+    "greek": "ὁ τρόμος ὑμῶν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "teama voastră."
+   },
+   {
+    "t": " de voi și "
+   },
+   {
+    "t": "groaza",
+    "w": "groaza",
+    "heb": "וְחִתְּכֶם",
+    "translit": "vechitkhem",
+    "strong": "H2851",
+    "pos": "substantiv",
+    "greek": "ὁ φόβος ὑμῶν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "groaza voastră."
+   },
+   {
+    "t": " de voi să fie peste toate "
+   },
+   {
+    "t": "animalele",
+    "w": "animalele",
+    "heb": "חַיַּת",
+    "translit": "chayat",
+    "strong": "H2416",
+    "pos": "substantiv",
+    "greek": "τὰ θηρία",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "animalele."
+   },
+   {
+    "t": " pământului și peste toate "
+   },
+   {
+    "t": "păsările",
+    "w": "păsările",
+    "heb": "עוֹף",
+    "translit": "of",
+    "strong": "H5775",
+    "pos": "substantiv",
+    "greek": "τὰ πετεινὰ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "păsările."
+   },
+   {
+    "t": " cerurilor, în toate cele care "
+   },
+   {
+    "t": "mișună",
+    "w": "mișună",
+    "heb": "תִּרְמֹשׂ",
+    "translit": "tirmos",
+    "strong": "H7430",
+    "pos": "verb",
+    "greek": "κινεῖται",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "mișună."
+   },
+   {
+    "t": " pe pământ și în toți "
+   },
+   {
+    "t": "peștii",
+    "w": "peștii",
+    "heb": "דְּגֵי",
+    "translit": "degei",
+    "strong": "H1709",
+    "pos": "substantiv",
+    "greek": "τοὺς ἰχθύας",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "peștii."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "mărilor",
+    "w": "mărilor",
+    "heb": "הַיָּם",
+    "translit": "hayam",
+    "strong": "H3220",
+    "pos": "substantiv",
+    "greek": "τῆς θαλάσσης",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "mărilor."
+   },
+   {
+    "t": ": în "
+   },
+   {
+    "t": "mâna",
+    "w": "mâna",
+    "heb": "יֶדְכֶם",
+    "translit": "yedkhem",
+    "strong": "H3027",
+    "pos": "substantiv cu sufix",
+    "greek": "τὰς χεῖρας ὑμῶν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "mâna voastră."
+   },
+   {
+    "t": " voastră sunt "
+   },
+   {
+    "t": "date",
+    "w": "date",
+    "heb": "נִתָּנוּ",
+    "translit": "nitanu",
+    "strong": "H5414",
+    "pos": "verb (pasiv)",
+    "greek": "δέδονται",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "date."
+   },
+   {
+    "t": "."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וּמוֹרַאֲכֶם וְחִתְּכֶם יִהְיֶה עַל כָּל־חַיַּת הָאָרֶץ וְעַל כָּל־עוֹף הַשָּׁמָיִם בְּכֹל אֲשֶׁר תִּרְמֹשׂ הָאֲדָמָה וּבְכָל־דְּגֵי הַיָּם בְּיֶדְכֶם נִתָּנוּ",
+    "translation": "„Iar teama de voi și groaza de voi să fie peste toate animalele pământului și peste toate păsările cerurilor, în toate cele care mișună pe pământ și în toți peștii mărilor: în mâna voastră sunt date.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ ὁ τρόμος ὑμῶν καὶ ὁ φόβος ἔσται ἐπὶ πᾶσιν τοῖς θηρίοις τῆς γῆς καὶ ἐπὶ πάντα τὰ ὄρνεα τοῦ οὐρανοῦ καὶ ἐπὶ πάντα τὰ κινούμενα ἐπὶ τῆς γῆς καὶ ἐπὶ πάντας τοὺς ἰχθύας τῆς θαλάσσης· ὑπὸ χεῖρας ὑμῖν δέδωκα.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ומראכם וחתתכם יהיה על כל חית הארץ ועל כל עוף השמים ובכל אשר תרמש האדמה ובכל דגי הים בידכם נתתיו",
+    "translation": "Diferență reală, confirmată: ומראכם וחתתכם יהיה על כל חית הארץ ועל כל עוף השמים ובכל אשר תרמש האדמה ובכל דגי הים בידכם נתתיו — „And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth [upon] the earth, and upon all the fishes of the sea; into your hand are they delivered.”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi teama de voi şi groaza de voi va fi peste fiecare fiară a pământului şi peste fiecare pasăre a cerului, peste tot ce mişcă pe pământ şi peste toţi peştii mării; în mâna voastră sunt ele predate.",
+  "refs": [
+   "Psalmul 8:6-8",
+   "Geneza 1:26"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Și groaza de voi (ve-ḥittekhem).» Și spaima de voi, ca în „vedeți o spaimă (ḥatat)”. Iar aggada îl ia drept cuvânt pentru viață (ḥayyut): cât timp un prunc de o zi este viu, nu trebuie să-l păzești de șoareci; Og, regele Basanului, dacă a murit, trebuie păzit de șoareci, cum s-a spus: „teama de voi și groaza de voi să fie” — când va fi teama de voi asupra fiarelor? Cât timp sunteți vii."
+   }
+  ]
+ },
+ {
+  "num": 3,
+  "tokens": [
+   {
+    "t": "Tot ce "
+   },
+   {
+    "t": "mișună",
+    "w": "mișună",
+    "heb": "רֶמֶשׂ",
+    "translit": "remes",
+    "strong": "H7431",
+    "pos": "substantiv",
+    "greek": "ἑρπετόν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "mișună."
+   },
+   {
+    "t": ", ce este "
+   },
+   {
+    "t": "viu",
+    "w": "viu",
+    "heb": "חַי",
+    "translit": "chai",
+    "strong": "H2416",
+    "pos": "adjectiv",
+    "greek": "ζῶν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "viu."
+   },
+   {
+    "t": ", să vă fie drept "
+   },
+   {
+    "t": "hrană",
+    "w": "hrană",
+    "heb": "לְאָכְלָה",
+    "translit": "le'akhlah",
+    "strong": "H402",
+    "pos": "substantiv",
+    "greek": "βρῶσιν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "hrană."
+   },
+   {
+    "t": "; ca "
+   },
+   {
+    "t": "vegetația",
+    "w": "vegetația",
+    "heb": "יֶרֶק",
+    "translit": "yerek",
+    "strong": "H3418",
+    "pos": "substantiv",
+    "greek": "χλωρὸν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "vegetația."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "verde",
+    "w": "verde",
+    "heb": "עֵשֶׂב",
+    "translit": "esev",
+    "strong": "H6212",
+    "pos": "substantiv",
+    "greek": "χόρτον",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "verde."
+   },
+   {
+    "t": ", vi le-am "
+   },
+   {
+    "t": "dat",
+    "w": "dat",
+    "heb": "נָתַתִּי",
+    "translit": "natati",
+    "strong": "H5414",
+    "pos": "verb",
+    "greek": "δέδωκα",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "le-am dat."
+   },
+   {
+    "t": " vouă pe toate."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "כָּל־רֶמֶשׂ אֲשֶׁר הוּא־חַי לָכֶם יִהְיֶה לְאָכְלָה כְּיֶרֶק עֵשֶׂב נָתַתִּי לָכֶם אֶת־כֹּל",
+    "translation": "„Tot ce mișună, ce este viu, să vă fie drept hrană; ca vegetația verde, vi le-am dat vouă pe toate.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ πᾶν ἑρπετόν, ὅ ἐστιν ζῶν, ὑμῖν ἔσται εἰς βρῶσιν· ὡς λάχανα χόρτου δέδωκα ὑμῖν τὰ πάντα.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "כל רמש אשר הוא חי לכם יהיה לאכלה כירק עשב נתתי לכם את הכל",
+    "translation": "Diferență reală, confirmată: כל רמש אשר הוא חי לכם יהיה לאכלה כירק עשב נתתי לכם את הכל — „Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Tot ce mişcă şi trăieşte va fi mâncare pentru voi; precum planta verde, v-am dat toate lucrurile.",
+  "refs": [
+   "Geneza 1:29"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Să vă fie drept hrană.» Căci lui Adam cel dintâi nu i-am îngăduit carne, ci numai verdeața ierbii; iar vouă, ca verdeața ierbii pe care am lăsat-o în stăpânirea lui Adam cel dintâi, v-am dat totul."
+   },
+   {
+    "author": "Talmudul Babilonian, Sanhedrin 59b:14",
+    "text": "Și când au venit fiii lui Noe, le-a îngăduit, căci s-a spus: „ca vegetația verde, vi le-am dat vouă pe toate”. Aș putea crede că nu se aplică la ea mădularul din cel viu — Scriptura spune: „Dar carne cu sufletul ei, sângele ei, să nu mâncați”. Aș putea crede că și pentru târâtoare — Scriptura spune: „Dar”."
+   },
+   {
+    "author": "Zohar, Leh Leha 27:5",
+    "text": "Și după aceea a venit Noaḥ și a văzut că trupul s-a zidit din locul yețer ha-ra; a adus o jertfă precum a adus Adam. Ce e scris (Geneza 8:21): «și a mirosit Domnul mirosul de odihnă» etc. «Că yețer-ul inimii omului e rău din tinerețea sa.» A zis Sfântul, binecuvântat fie El: de aici înainte, de vreme ce trupul s-a absorbit din acel yețer ha-ra, să se desfăteze trupul precum i se cuvine; să mănânce carne. «Ca iarba verde v-am dat totul»."
+   }
+  ]
+ },
+ {
+  "num": 4,
+  "tokens": [
+   {
+    "t": "Dar "
+   },
+   {
+    "t": "carne",
+    "w": "carne",
+    "heb": "בָּשָׂר",
+    "translit": "basar",
+    "strong": "H1320",
+    "pos": "substantiv",
+    "greek": "κρέας",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "carne."
+   },
+   {
+    "t": " cu "
+   },
+   {
+    "t": "sufletul",
+    "w": "sufletul",
+    "heb": "נַפְשׁוֹ",
+    "translit": "nafsho",
+    "strong": "H5315",
+    "pos": "substantiv",
+    "greek": "ψυχῇ αὐτοῦ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "sufletul ei."
+   },
+   {
+    "t": " ei, "
+   },
+   {
+    "t": "sângele",
+    "w": "sângele",
+    "heb": "דָמוֹ",
+    "translit": "damo",
+    "strong": "H1818",
+    "pos": "substantiv",
+    "greek": "αἷμα",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "sângele."
+   },
+   {
+    "t": " ei, să nu "
+   },
+   {
+    "t": "mâncați",
+    "w": "mâncați",
+    "heb": "תֹאכֵלוּ",
+    "translit": "tokhelu",
+    "strong": "H398",
+    "pos": "verb",
+    "greek": "φάγεσθε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "să mâncați."
+   },
+   {
+    "t": "."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "אַךְ־בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ",
+    "translation": "„Dar carne cu sufletul ei, sângele ei, să nu mâncați.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "πλὴν κρέας ἐν αἵματι ψυχῆς οὐ φάγεσθε.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "אך בשר בנפשו דמו לא תאכלו",
+    "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+    "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Dar carnea cu viaţa din ea, ceea ce este sângele din ea, să nu mâncaţi.",
+  "refs": [
+   "Faptele Apostolilor 15:20",
+   "Levitic 17:10-14"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Carne cu sufletul ei.» Le-a interzis mădularul luat de la un animal viu; adică: cât timp sufletul lui este în el, să nu mâncați carnea.<br><br>«Cu sufletul ei, sângele ei.» Cât timp sufletul lui este în el.<br><br>«Carne cu sufletul ei… să nu mâncați.» Iată mădularul de la animalul viu; și de asemenea „cu sufletul ei, sângele ei, să nu mâncați” — iată sângele de la animalul viu."
+   },
+   {
+    "author": "Talmudul Babilonian, Sanhedrin 59b:14",
+    "text": "Și când au venit fiii lui Noe, le-a îngăduit, căci s-a spus: „ca vegetația verde, vi le-am dat vouă pe toate”. Aș putea crede că nu se aplică la ea mădularul din cel viu — Scriptura spune: „Dar carne cu sufletul ei, sângele ei, să nu mâncați”. Aș putea crede că și pentru târâtoare — Scriptura spune: „Dar”."
+   },
+   {
+    "author": "Zohar, Vaieșev 5:31",
+    "text": "«Și a adus Yosef bârfa lor rea.» Iată au statornicit-o, că zicea tatălui său asupra lor că mâncau mădular din dobitoace când ele sunt vii. «Și a adus Yosef bârfa lor rea.» Și oare aceștia, în numărare, erau fiii slujnicelor? Cum îi disprețuiau pe ei fiii lui Leʾah? Și cum mâncau mădular din viu și treceau peste porunca Stăpânului lor? Că iată a poruncit asupra fiilor lui Noaḥ porunca aceasta, precum zici (Geneza 9:4): «numai carne în sufletul ei, sângele ei, să nu mâncați». Și ei o mâncau și treceau peste porunca Stăpânului lor. Ci Yosef zicea; și asupra aceasta a fost pedepsit."
+   }
+  ]
+ },
+ {
+  "num": 5,
+  "tokens": [
+   {
+    "t": "Și chiar "
+   },
+   {
+    "t": "sângele",
+    "w": "sângele",
+    "heb": "דִּמְכֶם",
+    "translit": "dimkhem",
+    "strong": "H1818",
+    "pos": "substantiv cu sufix",
+    "greek": "τὸ αἷμα ὑμῶν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "sângele vostru."
+   },
+   {
+    "t": " vostru, al "
+   },
+   {
+    "t": "sufletelor",
+    "w": "sufletelor",
+    "heb": "לְנַפְשֹׁתֵיכֶם",
+    "translit": "lenafshoteikhem",
+    "strong": "H5315",
+    "pos": "substantiv",
+    "greek": "τῶν ψυχῶν ὑμῶν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "sufletelor voastre."
+   },
+   {
+    "t": " voastre, îl voi "
+   },
+   {
+    "t": "cere",
+    "w": "cere",
+    "heb": "אֶדְרֹשׁ",
+    "translit": "edrosh",
+    "strong": "H1875",
+    "pos": "verb",
+    "greek": "ἐκζητήσω",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "voi cere."
+   },
+   {
+    "t": ", de la toate "
+   },
+   {
+    "t": "animalele",
+    "w": "animalele",
+    "heb": "חַיָּה",
+    "translit": "chayah",
+    "strong": "H2416",
+    "pos": "substantiv",
+    "greek": "θηρίων",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "animalele."
+   },
+   {
+    "t": " îl voi cere; și de la "
+   },
+   {
+    "t": "om",
+    "w": "om",
+    "heb": "הָאָדָם",
+    "translit": "ha'adam",
+    "strong": "H120",
+    "pos": "substantiv",
+    "greek": "τοῦ ἀνθρώπου",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "om."
+   },
+   {
+    "t": ", de la "
+   },
+   {
+    "t": "oricine",
+    "w": "oricine",
+    "heb": "אִישׁ",
+    "translit": "ish",
+    "strong": "H376",
+    "pos": "substantiv",
+    "greek": "ἀνδρὸς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "oricine."
+   },
+   {
+    "t": ", voi cere "
+   },
+   {
+    "t": "sufletul",
+    "w": "sufletul",
+    "heb": "נֶפֶשׁ",
+    "translit": "nefesh",
+    "strong": "H5315",
+    "pos": "substantiv",
+    "greek": "τὴν ψυχὴν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "sufletul."
+   },
+   {
+    "t": " omului pentru cel al "
+   },
+   {
+    "t": "fratelui",
+    "w": "fratelui",
+    "heb": "אָחִיו",
+    "translit": "achiv",
+    "strong": "H251",
+    "pos": "substantiv cu sufix",
+    "greek": "τοῦ ἀδελφοῦ αὐτοῦ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "fratelui lui."
+   },
+   {
+    "t": " lui."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וְאַךְ אֶת־דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ מִיַּד כָּל־חַיָּה אֶדְרְשֶׁנּוּ וּמִיַּד הָאָדָם מִיַּד אִישׁ אָחִיו אֶדְרֹשׁ אֶת־נֶפֶשׁ הָאָדָם",
+    "translation": "„Și chiar sângele vostru, al sufletelor voastre, îl voi cere, de la toate animalele îl voi cere; și de la om, de la oricine, voi cere sufletul omului pentru cel al fratelui lui.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ γὰρ τὸ ὑμέτερον αἷμα τῶν ψυχῶν ὑμῶν ἐκζητήσω, ἐκ χειρὸς πάντων τῶν θηρίων ἐκζητήσω αὐτὸ καὶ ἐκ χειρὸς ἀνθρώπου ἀδελφοῦ ἐκζητήσω τὴν ψυχὴν τοῦ ἀνθρώπου.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ואת דמכם לנפשתיכם אדרש מיד כל חי אדרשנו מיד האדם מיד איש ואחיו אדרש את נפש האדם",
+    "translation": "Diferență reală, confirmată: ואת דמכם לנפשתיכם אדרש מיד כל חי אדרשנו מיד האדם מיד איש ואחיו אדרש את נפש האדם — „And surely your blood of your life will I require; at the hand of every beast will I require it, and at the hand of man; and at the hand of every man's brother will I require the life of man.”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi cu adevărat sângele vostru, al vieţilor voastre, îl voi cere, din mâna fiecărei fiare îl voi cere şi din mâna omului, din mâna fiecărui frate al omului voi cere viaţa omului.",
+  "refs": [
+   "Geneza 4:10",
+   "Exod 21:28"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Și chiar sângele vostru.» Deși v-am îngăduit să luați viața animalului, sângele vostru îl voi cere de la cel care își varsă singur sângele.<br><br>«Al sufletelor voastre.» Chiar și de la cel care se sugrumă singur, deși nu a ieșit sânge din el.<br><br>«De la toate animalele.» Pentru că generația potopului a păcătuit și au fost lăsați pradă fiarelor rele, ca să le stăpânească, cum s-a spus: „este asemenea dobitoacelor, care pier”; de aceea a fost nevoie să le avertizeze pe fiare în privința lor.<br><br>«Și de la om.» De la cel care ucide cu voia și nu sunt martori — Eu voi cere.<br><br>«De la oricine, … pentru cel al fratelui lui (mi-yad iș aḥiv).» Care îi este iubit ca un frate și l-a ucis fără voie: Eu voi cere, dacă nu va pleca în exil și nu va cere iertare pentru vina lui. Căci și cel care a ucis fără voie are nevoie de ispășire; și dacă nu sunt martori care să-l oblige la exil, iar el nu se smerește, Sfântul, binecuvântat fie El, cere de la el, cum au tâlcuit învățătorii noștri „și Dumnezeu a lăsat să cadă în mâna lui” — în tratatul Makkot: Sfântul, binecuvântat fie El, îi aduce la același han etc."
+   }
+  ]
+ },
+ {
+  "num": 6,
+  "tokens": [
+   {
+    "t": "Cine "
+   },
+   {
+    "t": "varsă",
+    "w": "varsă",
+    "heb": "שֹׁפֵךְ",
+    "translit": "shofekh",
+    "strong": "H8210",
+    "pos": "verb, participiu",
+    "greek": "ἐκχέῃ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "varsă."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "sângele",
+    "w": "sângele",
+    "heb": "דַּם",
+    "translit": "dam",
+    "strong": "H1818",
+    "pos": "substantiv",
+    "greek": "αἷμα",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "sângele."
+   },
+   {
+    "t": " omului, de către om îi va fi "
+   },
+   {
+    "t": "vărsat",
+    "w": "vărsat",
+    "heb": "יִשָּׁפֵךְ",
+    "translit": "yishafekh",
+    "strong": "H8210",
+    "pos": "verb (pasiv)",
+    "greek": "ἐκχυθήσεται",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "va fi vărsat."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "sângele",
+    "w": "sângele",
+    "heb": "דָּמוֹ",
+    "translit": "damo",
+    "strong": "H1818",
+    "pos": "substantiv cu sufix",
+    "greek": "τὸ αἷμα αὐτοῦ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "sângele lui."
+   },
+   {
+    "t": "; căci în "
+   },
+   {
+    "t": "imaginea",
+    "w": "imaginea",
+    "heb": "בְּצֶלֶם",
+    "translit": "betselem",
+    "strong": "H6754",
+    "pos": "substantiv",
+    "greek": "κατ᾿ εἰκόνα",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "în imaginea."
+   },
+   {
+    "t": " lui Dumnezeu l-a "
+   },
+   {
+    "t": "făcut",
+    "w": "făcut",
+    "heb": "עָשָׂה",
+    "translit": "asah",
+    "strong": "H6213",
+    "pos": "verb",
+    "greek": "ἐποίησα",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "l-a făcut."
+   },
+   {
+    "t": " pe om."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ כִּי בְּצֶלֶם אֱלֹהִים עָשָׂה אֶת־הָאָדָם",
+    "translation": "„Cine varsă sângele omului, de către om îi va fi vărsat sângele; căci în imaginea lui Dumnezeu l-a făcut pe om.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "ὁ ἐκχέων αἷμα ἀνθρώπου ἀντὶ τοῦ αἵματος αὐτοῦ ἐκχυθήσεται, ὅτι ἐν εἰκόνι Θεοῦ ἐποίησα τὸν ἄνθρωπον.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "שפך דם האדם באדם דמו ישפך כי בצלם אלהים עשה את האדם",
+    "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+    "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Oricine varsă sângele omului, prin om să fie vărsat sângele lui, pentru că după chipul lui Dumnezeu l-a făcut pe om.",
+  "refs": [
+   "Geneza 1:27",
+   "Exod 21:12",
+   "Matei 26:52"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«De către om îi va fi vărsat sângele.» Dacă sunt martori, voi să-l omorâți. De ce? „Căci în imaginea lui Dumnezeu” etc.<br><br>«L-a făcut pe om.» Acesta este un verset eliptic și ar trebui să fie: „Cel care l-a făcut pe om l-a făcut”; și sunt multe asemenea în Scriptură."
+   },
+   {
+    "author": "Talmudul Babilonian",
+    "text": "În lucru: traducerea acestui comentariu urmează."
+   },
+   {
+    "author": "Zohar, Noah 33:1",
+    "text": "«Și teama de voi și groaza voastră va fi.» De aici înainte veți avea chipuri de fii de om, căci la început nu erau chipuri de fii de om. Vino și vezi: la început e scris (Geneza 9:6) «în tzelem al lui Dumnezeu a făcut pe om». Și e scris (Geneza 5:1) «în asemănarea lui Dumnezeu l-a făcut». De îndată ce au greșit, s-au schimbat chipurile lor de la acel chip de sus și s-au întors să se teamă dinaintea fiarelor câmpului."
+   }
+  ]
+ },
+ {
+  "num": 7,
+  "tokens": [
+   {
+    "t": "Iar voi, "
+   },
+   {
+    "t": "fiți roditori",
+    "w": "fiți roditori",
+    "heb": "פְּרוּ",
+    "translit": "peru",
+    "strong": "H6509",
+    "pos": "verb, imperativ",
+    "greek": "αὐξάνεσθε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "fiți roditori."
+   },
+   {
+    "t": ", "
+   },
+   {
+    "t": "înmulțiți-vă",
+    "w": "înmulțiți-vă",
+    "heb": "וּרְבוּ",
+    "translit": "urevu",
+    "strong": "H7235",
+    "pos": "verb, imperativ",
+    "greek": "πληθύνεσθε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "înmulțiți-vă."
+   },
+   {
+    "t": ", "
+   },
+   {
+    "t": "răspândiți-vă",
+    "w": "răspândiți-vă",
+    "heb": "שִׁרְצוּ",
+    "translit": "shirtsu",
+    "strong": "H8317",
+    "pos": "verb, imperativ",
+    "greek": "πληρώσατε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "răspândiți-vă."
+   },
+   {
+    "t": " pe "
+   },
+   {
+    "t": "pământ",
+    "w": "pământ",
+    "heb": "בָאָרֶץ",
+    "translit": "va'arets",
+    "strong": "H776",
+    "pos": "substantiv",
+    "greek": "τὴν γῆν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "pe pământ."
+   },
+   {
+    "t": " și "
+   },
+   {
+    "t": "înmulțiți-vă",
+    "w": "înmulțiți-vă",
+    "heb": "וּרְבוּ",
+    "translit": "urevu",
+    "strong": "H7235",
+    "pos": "verb, imperativ",
+    "greek": "πληθύνεσθε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "înmulțiți-vă."
+   },
+   {
+    "t": " pe el.”"
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וְאַתֶּם פְּרוּ וּרְבוּ שִׁרְצוּ בָאָרֶץ וּרְבוּ־בָהּ",
+    "translation": "„Iar voi, fiți roditori, înmulțiți-vă, răspândiți-vă pe pământ și înmulțiți-vă pe el.”” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "ὑμεῖς δὲ αὐξάνεσθε καὶ πληθύνεσθε καὶ πληρώσατε τὴν γῆν καὶ πληθύνεσθε ἐπ᾿ αὐτῆς.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ואתם פרו ורבו ושרצו בארץ ורבו בה",
+    "translation": "Diferență reală, confirmată: ואתם פרו ורבו ושרצו בארץ ורבו בה — „And you, be ye fruitful, and multiply; and bring forth abundantly in the earth, and multiply therein.”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi voi fiţi roditori şi înmulţiţi-vă, naşteţi abundent pe pământ şi înmulţiţi-vă pe acesta.",
+  "refs": [
+   "Geneza 9:1",
+   "Geneza 1:28"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Iar voi, fiți roditori, înmulțiți-vă.» După înțelesul simplu, prima dată a fost spre binecuvântare, iar aici este poruncă. Iar după midraș, ca să-l asemene pe cel care nu se ocupă cu rodirea și înmulțirea cu cel care varsă sânge."
+   },
+   {
+    "author": "Talmudul Babilonian, Avoda Zara 5a:7",
+    "text": "Adică, dacă n-ar fi păcătuit, n-ar fi născut? Dar iată, este scris: „Iar voi, fiți roditori, înmulțiți-vă”! Până la Sinai. La Sinai, de asemenea, este scris: „Mergi și spune-le: „Întoarceți-vă în corturile voastre!”” — pentru bucuria vremii împreunării."
+   }
+  ]
+ },
+ {
+  "num": 8,
+  "tokens": [
+   {
+    "t": "Și "
+   },
+   {
+    "t": "Dumnezeu",
+    "w": "Dumnezeu",
+    "heb": "אֱלֹהִים",
+    "translit": "Elohim",
+    "strong": "H430",
+    "pos": "substantiv",
+    "greek": "ὁ Θεὸς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Dumnezeu."
+   },
+   {
+    "t": " le-a "
+   },
+   {
+    "t": "spus",
+    "w": "spus",
+    "heb": "וַיֹּאמֶר",
+    "translit": "vayomer",
+    "strong": "H559",
+    "pos": "verb",
+    "greek": "εἶπεν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "le-a spus."
+   },
+   {
+    "t": " lui "
+   },
+   {
+    "t": "Noe",
+    "w": "Noe",
+    "heb": "נֹחַ",
+    "translit": "Noach",
+    "strong": "H5146",
+    "pos": "nume propriu",
+    "greek": "Νῶε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Noe."
+   },
+   {
+    "t": " și "
+   },
+   {
+    "t": "fiilor",
+    "w": "fiilor",
+    "heb": "בָנָיו",
+    "translit": "vanav",
+    "strong": "H1121",
+    "pos": "substantiv cu sufix",
+    "greek": "τοῖς υἱοῖς αὐτοῦ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "fiilor lui."
+   },
+   {
+    "t": " lui cu el, "
+   },
+   {
+    "t": "astfel",
+    "w": "astfel",
+    "heb": "לֵאמֹר",
+    "translit": "lemor",
+    "strong": "H559",
+    "pos": "verb",
+    "greek": "λέγων",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "astfel."
+   },
+   {
+    "t": ":"
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַיֹּאמֶר אֱלֹהִים אֶל־נֹחַ וְאֶל־בָּנָיו אִתּוֹ לֵאמֹר",
+    "translation": "„Și Dumnezeu le-a spus lui Noe și fiilor lui cu el, astfel:” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "Καὶ εἶπεν ὁ Θεὸς τῷ Νῶε καὶ τοῖς υἱοῖς αὐτοῦ μετ᾿ αὐτοῦ λέγων",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ויאמר אלהים אל נח ואל בניו אתו לאמר",
+    "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+    "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi Dumnezeu i-a vorbit lui Noe şi fiilor lui cu el, spunând:",
+  "commentaries": [],
+  "refs": [
+   "Geneza 6:18"
+  ]
+ },
+ {
+  "num": 9,
+  "tokens": [
+   {
+    "t": "„Iar "
+   },
+   {
+    "t": "Eu",
+    "w": "Eu",
+    "heb": "וַאֲנִי",
+    "translit": "va'ani",
+    "strong": "H589",
+    "pos": "pronume",
+    "greek": "ἐγὼ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Eu."
+   },
+   {
+    "t": ", iată-Mă, "
+   },
+   {
+    "t": "statornicesc",
+    "w": "statornicesc",
+    "heb": "מֵקִים",
+    "translit": "mekim",
+    "strong": "H6965",
+    "pos": "verb",
+    "greek": "ἀνίστημι",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "statornicesc."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "legământul",
+    "w": "legământul",
+    "heb": "בְּרִיתִי",
+    "translit": "beriti",
+    "strong": "H1285",
+    "pos": "substantiv",
+    "greek": "τὴν διαθήκην μου",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "legământul Meu."
+   },
+   {
+    "t": " Meu cu voi și cu "
+   },
+   {
+    "t": "seminția",
+    "w": "seminția",
+    "heb": "זַרְעֲכֶם",
+    "translit": "zar'akhem",
+    "strong": "H2233",
+    "pos": "substantiv",
+    "greek": "τῷ σπέρματι ὑμῶν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "seminția voastră."
+   },
+   {
+    "t": " voastră după voi,"
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַאֲנִי הִנְנִי מֵקִים אֶת־בְּרִיתִי אִתְּכֶם וְאֶת־זַרְעֲכֶם אַחֲרֵיכֶם",
+    "translation": "„„Iar Eu, iată-Mă, statornicesc legământul Meu cu voi și cu seminția voastră după voi,” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "Ἐγὼ ἰδοὺ ἀνίστημι τὴν διαθήκην μου ὑμῖν καὶ τῷ σπέρματι ὑμῶν μεθ᾿ ὑμᾶς",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ואני הנני מקים את בריתי אתכם ואת זרעכם אחריכם",
+    "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+    "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi eu, iată, întemeiez legământul meu cu voi şi cu sămânţa voastră după voi;",
+  "refs": [
+   "Geneza 6:18"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Iar Eu, iată-Mă.» Sunt de acord cu tine. Căci Noe se îngrijora să se ocupe cu rodirea și înmulțirea, până când Sfântul, binecuvântat fie El, i-a făgăduit că nu va mai distruge lumea; și așa a făcut. Iar la urmă i-a zis: Iată, sunt de acord să fac o statornicire și o întărire a legământului pentru făgăduința Mea și îți voi da un semn."
+   },
+   {
+    "author": "Talmudul Babilonian, Sanhedrin 38b:11",
+    "text": "Și a spus Rav Yehudah, a spus Rav: Adam cel dintâi era un min, căci s-a spus: „Și Domnul Dumnezeu l-a strigat pe om și i-a spus: „Unde ești?”” — unde s-a abătut inima ta? Rabbi Yițḥaq a spus: Își trăgea prepuțul; este scris aici: „Iar ei, ca Adam, au călcat legământul”, și este scris acolo: „a nesocotit legământul Meu”."
+   }
+  ]
+ },
+ {
+  "num": 10,
+  "tokens": [
+   {
+    "t": "și cu fiecare "
+   },
+   {
+    "t": "vietate",
+    "w": "vietate",
+    "heb": "נֶפֶשׁ",
+    "translit": "nefesh",
+    "strong": "H5315",
+    "pos": "substantiv",
+    "greek": "ψυχῆς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "vietate."
+   },
+   {
+    "t": " care este cu voi – din "
+   },
+   {
+    "t": "păsări",
+    "w": "păsări",
+    "heb": "בָּעוֹף",
+    "translit": "ba'of",
+    "strong": "H5775",
+    "pos": "substantiv",
+    "greek": "τῶν πετεινῶν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "păsări."
+   },
+   {
+    "t": ", din "
+   },
+   {
+    "t": "dobitoace",
+    "w": "dobitoace",
+    "heb": "בַבְּהֵמָה",
+    "translit": "vabehemah",
+    "strong": "H929",
+    "pos": "substantiv",
+    "greek": "τῶν κτηνῶν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "dobitoace."
+   },
+   {
+    "t": " și din toate "
+   },
+   {
+    "t": "sălbăticiunile",
+    "w": "sălbăticiunile",
+    "heb": "חַיַּת",
+    "translit": "chayat",
+    "strong": "H2416",
+    "pos": "substantiv",
+    "greek": "τῶν θηρίων",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "sălbăticiunile."
+   },
+   {
+    "t": " pământului care sunt cu voi – din toate care au "
+   },
+   {
+    "t": "ieșit",
+    "w": "ieșit",
+    "heb": "יֹצְאֵי",
+    "translit": "yots'ei",
+    "strong": "H3318",
+    "pos": "verb, participiu",
+    "greek": "ἐξελθόντων",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "au ieșit."
+   },
+   {
+    "t": " din "
+   },
+   {
+    "t": "arcă",
+    "w": "arcă",
+    "heb": "הַתֵּבָה",
+    "translit": "hatevah",
+    "strong": "H8392",
+    "pos": "substantiv",
+    "greek": "τῆς κιβωτοῦ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "arcă."
+   },
+   {
+    "t": ", [chiar] și cu fiecare "
+   },
+   {
+    "t": "sălbăticiune",
+    "w": "sălbăticiune",
+    "heb": "חַיַּת",
+    "translit": "chayat",
+    "strong": "H2416",
+    "pos": "substantiv",
+    "greek": "θηρίου",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "sălbăticiune."
+   },
+   {
+    "t": "."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וְאֵת כָּל־נֶפֶשׁ הַחַיָּה אֲשֶׁר אִתְּכֶם בָּעוֹף בַּבְּהֵמָה וּבְכָל־חַיַּת הָאָרֶץ אִתְּכֶם מִכֹּל יֹצְאֵי הַתֵּבָה לְכֹל חַיַּת הָאָרֶץ",
+    "translation": "„și cu fiecare vietate care este cu voi – din păsări, din dobitoace și din toate sălbăticiunile pământului care sunt cu voi – din toate care au ieșit din arcă, [chiar] și cu fiecare sălbăticiune.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ πάσῃ ψυχῇ τῇ ζώσῃ μεθ᾿ ὑμῶν ἀπὸ ὀρνέων καὶ ἀπὸ κτηνῶν καὶ πᾶσι τοῖς θηρίοις τῆς γῆς, ὅσα μεθ᾿ ὑμῶν, ἀπὸ πάντων τῶν ἐξελθόντων ἐκ τῆς κιβωτοῦ.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ואת כל נפש החיה אשר אתכם בעוף ובבהמה ובכל חית הארץ אתכם מכל יצאי התבה לכל חית הארץ",
+    "translation": "Diferență reală, confirmată: ואת כל נפש החיה אשר אתכם בעוף ובבהמה ובכל חית הארץ אתכם מכל יצאי התבה לכל חית הארץ — „And with every living creature that [is] with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi cu fiecare creatură vie care este cu voi, dintre păsări, dintre vite şi dintre fiecare fiară a pământului cu voi, de la tot ceea ce iese afară din arcă, până la fiecare fiară a pământului.",
+  "commentaries": [
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Legământul cu toate animalele, nu doar cu omul, e un element remarcat de cercetători ca fiind neobișnuit pentru textele legale din Orientul Apropiat Antic, unde legămintele divine erau de regulă exclusiv antropocentrice."
+   }
+  ],
+  "refs": [
+   "Geneza 8:17"
+  ]
+ },
+ {
+  "num": 11,
+  "tokens": [
+   {
+    "t": "Voi "
+   },
+   {
+    "t": "statornici",
+    "w": "statornici",
+    "heb": "וַהֲקִמֹתִי",
+    "translit": "vahakimoti",
+    "strong": "H6965",
+    "pos": "verb",
+    "greek": "στήσω",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "voi statornici."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "legământul",
+    "w": "legământul",
+    "heb": "בְּרִיתִי",
+    "translit": "beriti",
+    "strong": "H1285",
+    "pos": "substantiv cu sufix",
+    "greek": "τὴν διαθήκην μου",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "legământul Meu."
+   },
+   {
+    "t": " Meu cu voi: "
+   },
+   {
+    "t": "niciodată",
+    "w": "niciodată",
+    "heb": "וְלֹא",
+    "translit": "velo",
+    "strong": "H3808",
+    "pos": "particulă negativă",
+    "greek": "οὐκ ἔτι",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "niciodată."
+   },
+   {
+    "t": " nu va mai fi "
+   },
+   {
+    "t": "distrus",
+    "w": "distrus",
+    "heb": "יִכָּרֵת",
+    "translit": "yikaret",
+    "strong": "H3772",
+    "pos": "verb (pasiv)",
+    "greek": "ἀποθανεῖται",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "va fi distrus, nimicit."
+   },
+   {
+    "t": " tot ceea ce este "
+   },
+   {
+    "t": "viu",
+    "w": "viu",
+    "heb": "כָּל־בָּשָׂר",
+    "translit": "kol basar",
+    "strong": "H1320",
+    "pos": "substantiv",
+    "greek": "πᾶσα σὰρξ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "tot ceea ce este viu."
+   },
+   {
+    "t": " de către "
+   },
+   {
+    "t": "apele",
+    "w": "apele",
+    "heb": "מֵי",
+    "translit": "mei",
+    "strong": "H4325",
+    "pos": "substantiv",
+    "greek": "τοῦ ὕδατος",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "apele."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "potopului",
+    "w": "potopului",
+    "heb": "הַמַּבּוּל",
+    "translit": "hamabul",
+    "strong": "H3999",
+    "pos": "substantiv",
+    "greek": "τοῦ κατακλυσμοῦ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "potopului."
+   },
+   {
+    "t": " și nu va mai fi "
+   },
+   {
+    "t": "potop",
+    "w": "potop",
+    "heb": "מַבּוּל",
+    "translit": "mabul",
+    "strong": "H3999",
+    "pos": "substantiv",
+    "greek": "κατακλυσμὸς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "potop."
+   },
+   {
+    "t": " ca să "
+   },
+   {
+    "t": "nimicească",
+    "w": "nimicească",
+    "heb": "לְשַׁחֵת",
+    "translit": "leshachet",
+    "strong": "H7843",
+    "pos": "verb",
+    "greek": "καταφθεῖραι",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "să nimicească."
+   },
+   {
+    "t": " pământul.”"
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַהֲקִמֹתִי אֶת־בְּרִיתִי אִתְּכֶם וְלֹא־יִכָּרֵת כָּל־בָּשָׂר עוֹד מִמֵּי הַמַּבּוּל וְלֹא־יִהְיֶה עוֹד מַבּוּל לְשַׁחֵת הָאָרֶץ",
+    "translation": "„Voi statornici legământul Meu cu voi: niciodată nu va mai fi distrus tot ceea ce este viu de către apele potopului și nu va mai fi potop ca să nimicească pământul.”” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ στήσω τὴν διαθήκην μου πρὸς ὑμᾶς, καὶ οὐκ ἀποθανεῖται πᾶσα σὰρξ ἔτι ἀπὸ τοῦ ὕδατος τοῦ κατακλυσμοῦ, καὶ οὐκ ἔσται ἔτι κατακλυσμὸς ὕδατος τοῦ καταφθεῖραι πᾶσαν τὴν γῆν.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "והקמתי את בריתי אתכם ולא יכרת עוד כל בשר ממי המבול ולא יהיה עוד המבול להשחית הארץ",
+    "translation": "Diferență reală, confirmată: והקמתי את בריתי אתכם ולא יכרת עוד כל בשר ממי המבול ולא יהיה עוד המבול להשחית הארץ — „And I will establish my covenant with you; neither shall all flesh moreover be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi voi întemeia legământul meu cu voi şi nici nu va mai fi toată făptura stârpită vreodată prin apele unui potop, nici nu va mai fi vreodată un potop să distrugă pământul.",
+  "refs": [
+   "Isaia 54:9",
+   "2 Petru 3:6-7"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Voi statornici.» Voi face o statornicire pentru legământul Meu. Și care este statornicirea lui? Semnul curcubeului, cum încheie și continuă."
+   },
+   {
+    "author": "Zohar, Vaiera 27:9",
+    "text": "Rabbi Yehudah fiul lui Rabbi Elʿazar a întrebat pe Rabbi Ḥizqiyah; i-a zis: morții pe care e pregătit Sfântul, binecuvântat fie El, să-i învie — de ce nu le dă neșamah-ul lor în locul în care au fost îngropați acolo și să vină să trăiască în pământul lui Israel? I-a zis: a jurat Sfântul, binecuvântat fie El, să zidească Ierusalimul și să nu se mai dărâme în veacuri. Că a zis Rabbi Ieremia: e pregătit Sfântul, binecuvântat fie El, să înnoiască lumea Sa și să zidească Ierusalimul și să-l pogoare zidit de sus (altă versiune: zidire), ca să nu se dărâme; și a jurat că nu va mai fi izgonită Keneset Israel, și a jurat că nu se va dărâma zidirea Ierusalimului, că e zis (Isaia 62:4): «nu ți se va mai zice «părăsită» și țării tale nu i se va mai zice «pustiire»». Și în tot locul unde găsești «lo lo», e jurământ; acesta e ce e scris (Geneza 9:11): «și nu se va mai stinge tot trupul de apele potopului și nu va mai fi potop» etc. și e scris (Isaia 54:9): «pe care am jurat că nu vor trece apele lui Noaḥ». De aici că «lo lo» e jurământ. Și din nu auzi da. Și e pregătit Sfântul, binecuvântat fie El, să țină lumea Sa o ținere ca să nu fie izgonită Keneset Israel și să nu se dărâme zidirea Templului; de aceea nu-și primesc neșamah decât într-un loc ținut în veacuri, ca să fie neșamah ținută în trup în veacuri; și aceasta e ce e scris «cel rămas în Țion și cel lăsat în Ierusalim, sfânt se va zice lui» etc."
+   }
+  ]
+ },
+ {
+  "num": 12,
+  "tokens": [
+   {
+    "t": "Și "
+   },
+   {
+    "t": "Dumnezeu",
+    "w": "Dumnezeu",
+    "heb": "אֱלֹהִים",
+    "translit": "Elohim",
+    "strong": "H430",
+    "pos": "substantiv",
+    "greek": "ὁ Θεὸς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Dumnezeu."
+   },
+   {
+    "t": " a "
+   },
+   {
+    "t": "spus",
+    "w": "spus",
+    "heb": "וַיֹּאמֶר",
+    "translit": "vayomer",
+    "strong": "H559",
+    "pos": "verb",
+    "greek": "εἶπεν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "a spus."
+   },
+   {
+    "t": ": „Acesta este "
+   },
+   {
+    "t": "semnul",
+    "w": "semnul",
+    "heb": "אוֹת",
+    "translit": "ot",
+    "strong": "H226",
+    "pos": "substantiv",
+    "greek": "τὸ σημεῖον",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "semnul."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "legământului",
+    "w": "legământului",
+    "heb": "הַבְּרִית",
+    "translit": "habrit",
+    "strong": "H1285",
+    "pos": "substantiv, cu articol",
+    "greek": "τῆς διαθήκης",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "legământului."
+   },
+   {
+    "t": " pe care Eu îl "
+   },
+   {
+    "t": "pun",
+    "w": "pun",
+    "heb": "נֹתֵן",
+    "translit": "noten",
+    "strong": "H5414",
+    "pos": "verb, participiu",
+    "greek": "δίδωμι",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "pun."
+   },
+   {
+    "t": " între Mine și voi și orice "
+   },
+   {
+    "t": "ființă",
+    "w": "ființă",
+    "heb": "נֶפֶשׁ",
+    "translit": "nefesh",
+    "strong": "H5315",
+    "pos": "substantiv",
+    "greek": "ψυχῆς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "ființă."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "vie",
+    "w": "vie",
+    "heb": "חַיָּה",
+    "translit": "chayah",
+    "strong": "H2416",
+    "pos": "adjectiv",
+    "greek": "ζώσης",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "vie."
+   },
+   {
+    "t": " care este cu voi, peste "
+   },
+   {
+    "t": "generații",
+    "w": "generații",
+    "heb": "דֹרֹת",
+    "translit": "dorot",
+    "strong": "H1755",
+    "pos": "substantiv",
+    "greek": "γενεὰς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "generații."
+   },
+   {
+    "t": ", "
+   },
+   {
+    "t": "veșnic",
+    "w": "veșnic",
+    "heb": "עוֹלָם",
+    "translit": "olam",
+    "strong": "H5769",
+    "pos": "substantiv",
+    "greek": "αἰωνίους",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "veșnic."
+   },
+   {
+    "t": ":"
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַיֹּאמֶר אֱלֹהִים זֹאת אוֹת־הַבְּרִית אֲשֶׁר־אֲנִי נֹתֵן בֵּינִי וּבֵינֵיכֶם וּבֵין כָּל־נֶפֶשׁ חַיָּה אֲשֶׁר אִתְּכֶם לְדֹרֹת עוֹלָם",
+    "translation": "„Și Dumnezeu a spus: „Acesta este semnul legământului pe care Eu îl pun între Mine și voi și orice ființă vie care este cu voi, peste generații, veșnic:” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ εἶπεν Κύριος ὁ Θεὸς πρὸς Νῶε Τοῦτο τὸ σημεῖον τῆς διαθήκης, ὃ ἐγὼ δίδωμι ἀνὰ μέσον ἐμοῦ καὶ ὑμῶν καὶ ἀνὰ μέσον πάσης ψυχῆς ζώσης, ἥ ἐστιν μεθ᾿ ὑμῶν, εἰς γενεὰς αἰωνίους·",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ויאמר אלהים זאת אות הברית אשר אני נתן ביני ובינכם ובין כל נפש החיה אשר אתכם לדרות עולם",
+    "translation": "Diferență reală, confirmată: ויאמר אלהים זאת אות הברית אשר אני נתן ביני ובינכם ובין כל נפש החיה אשר אתכם לדרות עולם — „And God said, This [is] the token of the covenant which I make between me and you and every living creature that [is] with you, for perpetual generations;”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi Dumnezeu a spus: Acesta este semnul legământului pe care îl fac între mine şi voi şi fiecare creatură vie care este cu voi, pentru generaţii pentru totdeauna:",
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Peste generații, veșnic (le-dorot ʿolam).» Este scris defectiv, pentru că sunt generații care nu au avut nevoie de semn, deoarece erau drepți desăvârșiți, ca generația lui Ezechia, regele lui Iuda, și generația lui Rabbi Șimʿon ben Yoḥai."
+   }
+  ],
+  "refs": [
+   "Geneza 17:11"
+  ]
+ },
+ {
+  "num": 13,
+  "tokens": [
+   {
+    "t": "Curcubeul",
+    "w": "Curcubeul",
+    "heb": "קַשְׁתִּי",
+    "translit": "kashti",
+    "strong": "H7198",
+    "pos": "substantiv",
+    "greek": "τὸ τόξον μου",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "curcubeul Meu."
+   },
+   {
+    "t": " Meu l-am "
+   },
+   {
+    "t": "pus",
+    "w": "pus",
+    "heb": "נָתַתִּי",
+    "translit": "natati",
+    "strong": "H5414",
+    "pos": "verb",
+    "greek": "τίθημι",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "l-am pus."
+   },
+   {
+    "t": " în "
+   },
+   {
+    "t": "nor",
+    "w": "nor",
+    "heb": "בֶּעָנָן",
+    "translit": "be'anan",
+    "strong": "H6051",
+    "pos": "substantiv",
+    "greek": "τῇ νεφέλῃ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "în nor."
+   },
+   {
+    "t": " și "
+   },
+   {
+    "t": "el",
+    "w": "el",
+    "heb": "הוּא",
+    "translit": "hu",
+    "strong": "H1931",
+    "pos": "pronume",
+    "greek": "αὐτὸ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "el."
+   },
+   {
+    "t": " va fi "
+   },
+   {
+    "t": "semn",
+    "w": "semn",
+    "heb": "לְאוֹת",
+    "translit": "le'ot",
+    "strong": "H226",
+    "pos": "substantiv",
+    "greek": "εἰς σημεῖον",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "semn."
+   },
+   {
+    "t": " al "
+   },
+   {
+    "t": "legământului",
+    "w": "legământului",
+    "heb": "בְּרִית",
+    "translit": "brit",
+    "strong": "H1285",
+    "pos": "substantiv",
+    "greek": "διαθήκης",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "legământului."
+   },
+   {
+    "t": " între Mine și "
+   },
+   {
+    "t": "pământ",
+    "w": "pământ",
+    "heb": "הָאָרֶץ",
+    "translit": "ha'arets",
+    "strong": "H776",
+    "pos": "substantiv",
+    "greek": "τῆς γῆς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "pământ."
+   },
+   {
+    "t": "."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "אֶת־קַשְׁתִּי נָתַתִּי בֶּעָנָן וְהָיְתָה לְאוֹת בְּרִית בֵּינִי וּבֵין הָאָרֶץ",
+    "translation": "„Curcubeul Meu l-am pus în nor și el va fi semn al legământului între Mine și pământ.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "τὸ τόξον μου τίθημι ἐν τῇ νεφέλῃ, καὶ ἔσται εἰς σημεῖον διαθήκης ἀνὰ μέσον ἐμοῦ καὶ τῆς γῆς.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "את קשתי נתתי בענן והיתה לאות ברית ביני ובין הארץ",
+    "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+    "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Eu aşez curcubeul meu în nor şi acesta va fi ca semn al unui legământ între mine şi pământ.",
+  "refs": [
+   "Apocalipsa 4:3",
+   "Ezechiel 1:28"
+  ],
+  "commentaries": [
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Curcubeul ca „arc” (קֶשֶׁת, același cuvânt ca arma de război) e interpretat de unii comentatori ca simbolul unei arme divine „agățate”, întoarse cu vârful spre cer, nu spre pământ — un gest simbolic de încetare a ostilității divine față de omenire."
+   },
+   {
+    "author": "Ibn Ezra (1089–1167)",
+    "text": "«Curcubeul Meu.» Iată, am pus acum curcubeul în nor; și explicația lui nu este cum a spus Gaonul, că era de la început."
+   }
+  ]
+ },
+ {
+  "num": 14,
+  "tokens": [
+   {
+    "t": "Și "
+   },
+   {
+    "t": "va fi",
+    "w": "va fi",
+    "heb": "וְהָיָה",
+    "translit": "vehayah",
+    "strong": "H1961",
+    "pos": "verb",
+    "greek": "ἔσται",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "va fi."
+   },
+   {
+    "t": ", când voi "
+   },
+   {
+    "t": "înnora",
+    "w": "înnora",
+    "heb": "בְּעַנְנִי",
+    "translit": "be'anni",
+    "strong": "H6049",
+    "pos": "verb",
+    "greek": "ὅταν συννεφῶ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "voi înnora."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "pământul",
+    "w": "pământul",
+    "heb": "עָנָן",
+    "translit": "anan",
+    "strong": "H6051",
+    "pos": "substantiv",
+    "greek": "νεφέλας",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "pământul."
+   },
+   {
+    "t": " cu un "
+   },
+   {
+    "t": "nor",
+    "w": "nor",
+    "heb": "עָנָן",
+    "translit": "anan",
+    "strong": "H6051",
+    "pos": "substantiv",
+    "greek": "νεφέλας",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "nor."
+   },
+   {
+    "t": ", "
+   },
+   {
+    "t": "curcubeul",
+    "w": "curcubeul",
+    "heb": "הַקֶּשֶׁת",
+    "translit": "hakeshet",
+    "strong": "H7198",
+    "pos": "substantiv",
+    "greek": "τὸ τόξον",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "curcubeul."
+   },
+   {
+    "t": " se va "
+   },
+   {
+    "t": "arăta",
+    "w": "arăta",
+    "heb": "וְנִרְאֲתָה",
+    "translit": "venir'atah",
+    "strong": "H7200",
+    "pos": "verb",
+    "greek": "ὀφθήσεται",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "se va arăta."
+   },
+   {
+    "t": " în nor,"
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וְהָיָה בְּעַנְנִי עָנָן עַל־הָאָרֶץ וְנִרְאֲתָה הַקֶּשֶׁת בֶּעָנָן",
+    "translation": "„Și va fi, când voi înnora pământul cu un nor, curcubeul se va arăta în nor,” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ ἔσται ἐν τῷ συννεφεῖν με νεφέλας ἐπὶ τὴν γῆν ὀφθήσεται τὸ τόξον μου ἐν τῇ νεφέλῃ,",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "והיה בענני ענן על הארץ ונראתה הקשת בענן",
+    "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+    "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi se va întâmpla, când aduc un nor peste pământ, că se va vedea curcubeul în nor:",
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Când voi înnora pământul cu un nor.» Când Îmi va trece prin gând să aduc întuneric și pieire asupra lumii."
+   }
+  ],
+  "refs": [
+   "Geneza 9:16"
+  ]
+ },
+ {
+  "num": 15,
+  "tokens": [
+   {
+    "t": "și Îmi voi "
+   },
+   {
+    "t": "aminti",
+    "w": "aminti",
+    "heb": "וְזָכַרְתִּי",
+    "translit": "vezakharti",
+    "strong": "H2142",
+    "pos": "verb",
+    "greek": "μνησθήσομαι",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Îmi voi aminti."
+   },
+   {
+    "t": " de "
+   },
+   {
+    "t": "legământul",
+    "w": "legământul",
+    "heb": "בְּרִיתִי",
+    "translit": "beriti",
+    "strong": "H1285",
+    "pos": "substantiv cu sufix",
+    "greek": "τῆς διαθήκης μου",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "legământul Meu."
+   },
+   {
+    "t": " Meu între Mine și voi și tot ceea ce este "
+   },
+   {
+    "t": "viu",
+    "w": "viu",
+    "heb": "חַי",
+    "translit": "chai",
+    "strong": "H2416",
+    "pos": "adjectiv",
+    "greek": "ζώσης",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "viu."
+   },
+   {
+    "t": " din toată "
+   },
+   {
+    "t": "firea",
+    "w": "firea",
+    "heb": "בָּשָׂר",
+    "translit": "basar",
+    "strong": "H1320",
+    "pos": "substantiv",
+    "greek": "σαρκί",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "firea."
+   },
+   {
+    "t": ", și "
+   },
+   {
+    "t": "apele",
+    "w": "apele",
+    "heb": "הַמַּיִם",
+    "translit": "hamayim",
+    "strong": "H4325",
+    "pos": "substantiv",
+    "greek": "τὸ ὕδωρ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "apele."
+   },
+   {
+    "t": " nu vor mai "
+   },
+   {
+    "t": "deveni",
+    "w": "deveni",
+    "heb": "יִהְיֶה",
+    "translit": "yihyeh",
+    "strong": "H1961",
+    "pos": "verb",
+    "greek": "ἔσται",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "vor deveni."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "potop",
+    "w": "potop",
+    "heb": "לְמַבּוּל",
+    "translit": "lemabul",
+    "strong": "H3999",
+    "pos": "substantiv",
+    "greek": "εἰς κατακλυσμὸν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "potop."
+   },
+   {
+    "t": " să "
+   },
+   {
+    "t": "distrugă",
+    "w": "distrugă",
+    "heb": "לְשַׁחֵת",
+    "translit": "leshachet",
+    "strong": "H7843",
+    "pos": "verb",
+    "greek": "ἐξαλεῖψαι",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "să distrugă."
+   },
+   {
+    "t": " toată firea."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וְזָכַרְתִּי אֶת־בְּרִיתִי אֲשֶׁר בֵּינִי וּבֵינֵיכֶם וּבֵין כָּל־נֶפֶשׁ חַיָּה בְּכָל־בָּשָׂר וְלֹא־יִהְיֶה עוֹד הַמַּיִם לְמַבּוּל לְשַׁחֵת כָּל־בָּשָׂר",
+    "translation": "„și Îmi voi aminti de legământul Meu între Mine și voi și tot ceea ce este viu din toată firea, și apele nu vor mai deveni potop să distrugă toată firea.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ μνησθήσομαι τῆς διαθήκης μου, ἥ ἐστιν ἀνὰ μέσον ἐμοῦ καὶ ὑμῶν καὶ ἀνὰ μέσον πάσης ψυχῆς ζώσης ἐν πάσῃ σαρκί, καὶ οὐκ ἔσται ἔτι τὸ ὕδωρ εἰς κατακλυσμὸν ὥστε ἐξαλεῖψαι πᾶσαν σάρκα.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "וזכרתי את בריתי אשר ביני ובינכם ובין כל נפש החיה אשר אתכם בכל בשר ולא יהיה עוד המים למבול להשחית כל בשר",
+    "translation": "Diferență reală, confirmată: וזכרתי את בריתי אשר ביני ובינכם ובין כל נפש החיה אשר אתכם בכל בשר ולא יהיה עוד המים למבול להשחית כל בשר — „And I will remember my covenant, which [is] between me and you and every living creature that with you in all flesh; and the waters shall no more become a flood to destroy all flesh.”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi îmi voi aminti de legământul meu, care este între mine şi voi şi fiecare creatură vie a toată făptura; şi apele nu vor mai deveni un potop ca să nimicească toată făptura.",
+  "commentaries": [],
+  "refs": [
+   "Geneza 8:21"
+  ]
+ },
+ {
+  "num": 16,
+  "tokens": [
+   {
+    "t": "Curcubeul",
+    "w": "Curcubeul",
+    "heb": "הַקֶּשֶׁת",
+    "translit": "hakeshet",
+    "strong": "H7198",
+    "pos": "substantiv, cu articol",
+    "greek": "τὸ τόξον",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "curcubeul."
+   },
+   {
+    "t": " va fi în "
+   },
+   {
+    "t": "nor",
+    "w": "nor",
+    "heb": "בֶּעָנָן",
+    "translit": "be'anan",
+    "strong": "H6051",
+    "pos": "substantiv",
+    "greek": "τῇ νεφέλῃ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "nor."
+   },
+   {
+    "t": " și îl voi "
+   },
+   {
+    "t": "vedea",
+    "w": "vedea",
+    "heb": "וּרְאִיתִיהָ",
+    "translit": "ur'itiha",
+    "strong": "H7200",
+    "pos": "verb, cu sufix",
+    "greek": "ὄψομαι αὐτὸ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "îl voi vedea."
+   },
+   {
+    "t": " pentru a-Mi "
+   },
+   {
+    "t": "aduce aminte",
+    "w": "aduce aminte",
+    "heb": "לִזְכֹּר",
+    "translit": "lizkor",
+    "strong": "H2142",
+    "pos": "verb",
+    "greek": "μνησθῆναι",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "să-Mi aduc aminte."
+   },
+   {
+    "t": " de "
+   },
+   {
+    "t": "legământul",
+    "w": "legământul",
+    "heb": "בְּרִית",
+    "translit": "brit",
+    "strong": "H1285",
+    "pos": "substantiv",
+    "greek": "διαθήκης",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "legământul."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "veșnic",
+    "w": "veșnic",
+    "heb": "עוֹלָם",
+    "translit": "olam",
+    "strong": "H5769",
+    "pos": "substantiv",
+    "greek": "αἰωνίου",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "veșnic."
+   },
+   {
+    "t": " între Dumnezeu și tot ce este viu din toată firea de pe pământ.”"
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וְהָיְתָה הַקֶּשֶׁת בֶּעָנָן וּרְאִיתִיהָ לִזְכֹּר בְּרִית עוֹלָם בֵּין אֱלֹהִים וּבֵין כָּל־נֶפֶשׁ חַיָּה בְּכָל־בָּשָׂר אֲשֶׁר עַל־הָאָרֶץ",
+    "translation": "„Curcubeul va fi în nor și îl voi vedea pentru a-Mi aduce aminte de legământul veșnic între Dumnezeu și tot ce este viu din toată firea de pe pământ.”” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ ἔσται τὸ τόξον μου ἐν τῇ νεφέλῃ, καὶ ὄψομαι τοῦ μνησθῆναι διαθήκην αἰώνιον ἀνὰ μέσον ἐμοῦ καὶ ἀνὰ μέσον πάσης ψυχῆς ζώσης ἐν πάσῃ σαρκί, ἥ ἐστιν ἐπὶ τῆς γῆς.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "והיתה הקשת בענן וראיתה לאזכרה ברית עולם בין אלהים ובין כל נפש החיה בכל בשר אשר על הארץ",
+    "translation": "Diferență reală, confirmată: והיתה הקשת בענן וראיתה לאזכרה ברית עולם בין אלהים ובין כל נפש החיה בכל בשר אשר על הארץ — „And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that [is] upon the earth.”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi curcubeul va fi în nor şi îl voi privi, ca să îmi amintesc de legământul veşnic dintre Dumnezeu şi fiecare creatură vie, a toată făptura, care este pe pământ.",
+  "refs": [
+   "Geneza 9:12"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Între Dumnezeu și tot ce este viu.» Între atributul judecății de sus și voi. Căci ar fi trebuit să scrie „între Mine și tot ce este viu”; ci aceasta este tâlcuirea lui: când va veni atributul judecății să vă acuze, ca să vă osândească, voi vedea semnul și Îmi voi aminti."
+   }
+  ]
+ },
+ {
+  "num": 17,
+  "tokens": [
+   {
+    "t": "Dumnezeu",
+    "w": "Dumnezeu",
+    "heb": "אֱלֹהִים",
+    "translit": "Elohim",
+    "strong": "H430",
+    "pos": "substantiv",
+    "greek": "ὁ Θεὸς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Dumnezeu."
+   },
+   {
+    "t": " i-a spus lui "
+   },
+   {
+    "t": "Noe",
+    "w": "Noe",
+    "heb": "נֹחַ",
+    "translit": "Noach",
+    "strong": "H5146",
+    "pos": "nume propriu",
+    "greek": "Νῶε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Noe."
+   },
+   {
+    "t": ": „Acesta este "
+   },
+   {
+    "t": "semnul",
+    "w": "semnul",
+    "heb": "אוֹת",
+    "translit": "ot",
+    "strong": "H226",
+    "pos": "substantiv",
+    "greek": "τὸ σημεῖον",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "semnul."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "legământului",
+    "w": "legământului",
+    "heb": "הַבְּרִית",
+    "translit": "habrit",
+    "strong": "H1285",
+    "pos": "substantiv, cu articol",
+    "greek": "τῆς διαθήκης",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "legământului."
+   },
+   {
+    "t": " pe care l-am "
+   },
+   {
+    "t": "statornicit",
+    "w": "statornicit",
+    "heb": "הֲקִמֹתִי",
+    "translit": "hakimoti",
+    "strong": "H6965",
+    "pos": "verb",
+    "greek": "ἔστησα",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "l-am statornicit."
+   },
+   {
+    "t": " între Mine și toată "
+   },
+   {
+    "t": "firea",
+    "w": "firea",
+    "heb": "בָּשָׂר",
+    "translit": "basar",
+    "strong": "H1320",
+    "pos": "substantiv",
+    "greek": "σαρκὸς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "firea."
+   },
+   {
+    "t": " care este pe pământ.”"
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַיֹּאמֶר אֱלֹהִים אֶל־נֹחַ זֹאת אוֹת־הַבְּרִית אֲשֶׁר הֲקִמֹתִי בֵּינִי וּבֵין כָּל־בָּשָׂר אֲשֶׁר עַל־הָאָרֶץ",
+    "translation": "„Dumnezeu i-a spus lui Noe: „Acesta este semnul legământului pe care l-am statornicit între Mine și toată firea care este pe pământ.”” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ εἶπεν ὁ Θεὸς τῷ Νῶε Τοῦτο τὸ σημεῖον τῆς διαθήκης, ἧς διεθέμην ἀνὰ μέσον ἐμοῦ καὶ ἀνὰ μέσον πάσης σαρκός, ἥ ἐστιν ἐπὶ τῆς γῆς.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ויאמר אלהים אל נח זאת אות הברית אשר הקמתי ביני ובין כל בשר אשר על הארץ",
+    "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+    "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi Dumnezeu i-a spus lui Noe: Acesta este semnul legământului, pe care l-am întemeiat între mine şi toată făptura care este pe pământ.",
+  "refs": [
+   "Geneza 17:11"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Acesta este semnul legământului.» I-a arătat curcubeul și i-a zis: Iată semnul despre care am vorbit."
+   }
+  ]
+ },
+ {
+  "num": 18,
+  "tokens": [
+   {
+    "t": "Și "
+   },
+   {
+    "t": "fiii",
+    "w": "fiii",
+    "heb": "בְנֵי",
+    "translit": "venei",
+    "strong": "H1121",
+    "pos": "substantiv, stare construită",
+    "greek": "οἱ υἱοὶ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "fiii."
+   },
+   {
+    "t": " lui "
+   },
+   {
+    "t": "Noe",
+    "w": "Noe",
+    "heb": "נֹחַ",
+    "translit": "Noach",
+    "strong": "H5146",
+    "pos": "nume propriu",
+    "greek": "Νῶε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Noe."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "ieșiți",
+    "w": "ieșiți",
+    "heb": "הַיֹּצְאִים",
+    "translit": "hayots'im",
+    "strong": "H3318",
+    "pos": "verb, participiu",
+    "greek": "οἱ ἐξελθόντες",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "ieșiți."
+   },
+   {
+    "t": " din arcă au fost "
+   },
+   {
+    "t": "Șem",
+    "w": "Șem",
+    "heb": "שֵׁם",
+    "translit": "Shem",
+    "strong": "H8035",
+    "pos": "nume propriu",
+    "greek": "Σήμ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Șem."
+   },
+   {
+    "t": ", "
+   },
+   {
+    "t": "Ham",
+    "w": "Ham",
+    "heb": "וְחָם",
+    "translit": "vecham",
+    "strong": "H2526",
+    "pos": "nume propriu",
+    "greek": "Χάμ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Ham."
+   },
+   {
+    "t": " și "
+   },
+   {
+    "t": "Iafet",
+    "w": "Iafet",
+    "heb": "וָיָפֶת",
+    "translit": "vayafet",
+    "strong": "H3315",
+    "pos": "nume propriu",
+    "greek": "Ιάφεθ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Iafet."
+   },
+   {
+    "t": "; iar "
+   },
+   {
+    "t": "Ham",
+    "w": "Ham",
+    "heb": "וְחָם",
+    "translit": "vecham",
+    "strong": "H2526",
+    "pos": "nume propriu",
+    "greek": "Χὰμ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Ham."
+   },
+   {
+    "t": " este "
+   },
+   {
+    "t": "tatăl",
+    "w": "tatăl",
+    "heb": "אֲבִי",
+    "translit": "avi",
+    "strong": "H1",
+    "pos": "substantiv, stare construită",
+    "greek": "πατὴρ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "tatăl."
+   },
+   {
+    "t": " lui "
+   },
+   {
+    "t": "Canaan",
+    "w": "Canaan",
+    "heb": "כְּנָעַן",
+    "translit": "Kena'an",
+    "strong": "H3667",
+    "pos": "nume propriu",
+    "greek": "Χανάαν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Canaan."
+   },
+   {
+    "t": "."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַיִּהְיוּ בְנֵי־נֹחַ הַיֹּצְאִים מִן־הַתֵּבָה שֵׁם וְחָם וָיָפֶת וְחָם הוּא אֲבִי כְנָעַן",
+    "translation": "„Și fiii lui Noe ieșiți din arcă au fost Șem, Ham și Iafet; iar Ham este tatăl lui Canaan.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "Ἦσαν δὲ οἱ υἱοὶ Νῶε οἱ ἐξελθόντες ἐκ τῆς κιβωτοῦ Σήμ, Χάμ, Ιάφεθ· Χὰμ ἦν πατὴρ Χανάαν.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ויהיו בני נח היוצאים מן התבה שם חם ויפת וחם הוא אבי כנען",
+    "translation": "Diferență reală, confirmată: ויהיו בני נח היוצאים מן התבה שם חם ויפת וחם הוא אבי כנען — „And the sons of Noah, that went forth of the ark, were Shem, Ham, and Japheth: and Ham [is] the father of Canaan.”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi fiii lui Noe, care au ieşit din arcă, au fost Sem şi Ham şi Iafet; şi Ham este tatăl lui Canaan.",
+  "refs": [
+   "Geneza 5:32",
+   "Geneza 10:6"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Iar Ham este tatăl lui Canaan.» De ce a fost nevoie să o spună aici? Pentru că pasajul se ocupă și ajunge la beția lui Noe, în care Ham a greșit, și din pricina lui a fost blestemat Canaan; și încă nu a scris urmașii lui Ham și nu știam că Canaan era fiul lui. De aceea a fost nevoie să spună aici: „iar Ham este tatăl lui Canaan”."
+   }
+  ]
+ },
+ {
+  "num": 19,
+  "tokens": [
+   {
+    "t": "Aceștia "
+   },
+   {
+    "t": "trei",
+    "w": "trei",
+    "heb": "שְׁלֹשָׁה",
+    "translit": "shloshah",
+    "strong": "H7969",
+    "pos": "numeral",
+    "greek": "τρεῖς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "trei."
+   },
+   {
+    "t": " sunt "
+   },
+   {
+    "t": "fiii",
+    "w": "fiii",
+    "heb": "בְּנֵי",
+    "translit": "benei",
+    "strong": "H1121",
+    "pos": "substantiv",
+    "greek": "οἱ υἱοὶ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "fiii."
+   },
+   {
+    "t": " lui "
+   },
+   {
+    "t": "Noe",
+    "w": "Noe",
+    "heb": "נֹחַ",
+    "translit": "Noach",
+    "strong": "H5146",
+    "pos": "nume propriu",
+    "greek": "Νῶε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Noe."
+   },
+   {
+    "t": " și de la aceștia s-au "
+   },
+   {
+    "t": "răspândit",
+    "w": "răspândit",
+    "heb": "נָפְצָה",
+    "translit": "nafetsah",
+    "strong": "H5310",
+    "pos": "verb",
+    "greek": "διεσπάρησαν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "s-au răspândit."
+   },
+   {
+    "t": " [oameni pe] tot "
+   },
+   {
+    "t": "pământul",
+    "w": "pământul",
+    "heb": "הָאָרֶץ",
+    "translit": "ha'arets",
+    "strong": "H776",
+    "pos": "substantiv",
+    "greek": "τὴν γῆν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "pământul."
+   },
+   {
+    "t": "."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "שְׁלֹשָׁה אֵלֶּה בְּנֵי־נֹחַ וּמֵאֵלֶּה נָפְצָה כָל־הָאָרֶץ",
+    "translation": "„Aceștia trei sunt fiii lui Noe și de la aceștia s-au răspândit [oameni pe] tot pământul.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "τρεῖς οὗτοί εἰσιν οἱ υἱοὶ Νῶε· ἀπὸ τούτων διεσπάρησαν ἐπὶ πᾶσαν τὴν γῆν.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "שלשה אלה בני נח מאלה נפצה כל הארץ",
+    "translation": "Diferență reală, confirmată: שלשה אלה בני נח מאלה נפצה כל הארץ — „These [are] the three sons of Noah: of them was the whole earth overspread.”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Aceştia sunt cei trei fii ai lui Noe şi din ei a fost acoperit întregul pământ.",
+  "refs": [
+   "Geneza 10:1-32"
+  ],
+  "commentaries": [
+   {
+    "author": "Zohar, Noah 1:11",
+    "text": "Vino și vezi: Noaḥ era sortit din ziua în care a fost creată lumea să fie în teva într-o unire și să intre în ea; și până nu s-au unit laolaltă lumea nu era cum se cuvine. După aceea ce e scris (Geneza 9:19): «și din aceștia s-a risipit tot pământul»? Ce e «s-a risipit»? Precum zici (Geneza 2:10) «și de acolo se desparte». Că de acolo s-a aflat despărțire și s-au risipit nașterile în toate laturile."
+   }
+  ]
+ },
+ {
+  "num": 20,
+  "tokens": [
+   {
+    "t": "Noe",
+    "w": "Noe",
+    "heb": "נֹחַ",
+    "translit": "Noach",
+    "strong": "H5146",
+    "pos": "nume propriu",
+    "greek": "Νῶε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Noe."
+   },
+   {
+    "t": ", "
+   },
+   {
+    "t": "omul",
+    "w": "omul",
+    "heb": "אִישׁ",
+    "translit": "ish",
+    "strong": "H376",
+    "pos": "substantiv",
+    "greek": "ἄνθρωπος",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "omul."
+   },
+   {
+    "t": " pământului, s-a "
+   },
+   {
+    "t": "înjosit",
+    "w": "înjosit",
+    "heb": "וַיָּחֶל",
+    "translit": "vayachel",
+    "strong": "H2490",
+    "pos": "verb",
+    "greek": "ἤρξατο",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "s-a înjosit."
+   },
+   {
+    "t": " și a "
+   },
+   {
+    "t": "plantat",
+    "w": "plantat",
+    "heb": "וַיִּטַּע",
+    "translit": "vayita",
+    "strong": "H5193",
+    "pos": "verb",
+    "greek": "ἐφύτευσεν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "a plantat."
+   },
+   {
+    "t": " o "
+   },
+   {
+    "t": "vie",
+    "w": "vie",
+    "heb": "כָּרֶם",
+    "translit": "kerem",
+    "strong": "H3754",
+    "pos": "substantiv",
+    "greek": "ἀμπελῶνα",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "vie."
+   },
+   {
+    "t": "."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַיָּחֶל נֹחַ אִישׁ הָאֲדָמָה וַיִּטַּע כָּרֶם",
+    "translation": "„Noe, omul pământului, s-a înjosit și a plantat o vie.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "Καὶ ἤρξατο Νῶε ἄνθρωπος γεωργὸς γῆς καὶ ἐφύτευσεν ἀμπελῶνα.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ויחל נח איש האדמה ויטע כרם",
+    "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+    "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi Noe a început a fi agricultor şi a sădit o vie;",
+  "refs": [
+   "Geneza 3:17-19"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«S-a înjosit (va-yaḥel).» S-a făcut profan (ḥullin), căci ar fi trebuit să se ocupe mai întâi cu o altă plantare.<br><br>«Omul pământului.» Stăpânul pământului, ca în „omul (iș) Naomei”.<br><br>«Și a plantat o vie.» Când a intrat în arcă, a luat cu el vițe și butași de smochin."
+   },
+   {
+    "author": "Sforno (cca. 1475–1550)",
+    "text": "«Noe s-a înjosit (va-yaḥel).» A început (heḥel) cu o faptă necuvenită; și de aceea au urmat din aceasta fapte care nu se fac. Căci, într-adevăr, o mică stricăciune la început pricinuiește una mare la sfârșit, cum se întâmplă în științe cu greșeala de la început. Și chiar aceasta a arătat când a spus: „și poporul a început (va-yaḥel) să se dedea la desfrânare”."
+   },
+   {
+    "author": "Zohar, Vaikra 31:8",
+    "text": "De aici a zis Rabbi Yose: ce este ce este scris (Geneza 9): «Și Noaḥ, omul pământului, a început (va-yaḥel)»? «Va-yaḥel» — precum ai spus (Numeri 30:3): «să nu-și pângărească (lo yaḥel) cuvântul» — căci a devenit profan (ḥol). «Omul pământului» — căci pentru el au fost stârpiți fiii lumii, pentru că nu a cerut îndurare pentru ei. Altă explicație: «omul (Bereșit 58b) pământului» — căci pentru el a dăinuit pământul după ce au fost stârpiți cei dintâi, căci este scris: «Nu voi mai blestema pământul din pricina omului» etc."
+   }
+  ]
+ },
+ {
+  "num": 21,
+  "tokens": [
+   {
+    "t": "Și a "
+   },
+   {
+    "t": "băut",
+    "w": "băut",
+    "heb": "וַיֵּשְׁתְּ",
+    "translit": "vayesht",
+    "strong": "H8354",
+    "pos": "verb",
+    "greek": "ἔπιεν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "a băut."
+   },
+   {
+    "t": " din "
+   },
+   {
+    "t": "vin",
+    "w": "vin",
+    "heb": "הַיַּיִן",
+    "translit": "hayayin",
+    "strong": "H3196",
+    "pos": "substantiv",
+    "greek": "τοῦ οἴνου",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "vin."
+   },
+   {
+    "t": " și s-a "
+   },
+   {
+    "t": "îmbătat",
+    "w": "îmbătat",
+    "heb": "וַיִּשְׁכָּר",
+    "translit": "vayishkar",
+    "strong": "H7937",
+    "pos": "verb",
+    "greek": "ἐμεθύσθη",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "s-a îmbătat."
+   },
+   {
+    "t": " și s-a "
+   },
+   {
+    "t": "dezgolit",
+    "w": "dezgolit",
+    "heb": "וַיִּתְגַּל",
+    "translit": "vayitgal",
+    "strong": "H1540",
+    "pos": "verb",
+    "greek": "ἐγυμνώθη",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "s-a dezgolit."
+   },
+   {
+    "t": " înăuntrul "
+   },
+   {
+    "t": "cortului",
+    "w": "cortului",
+    "heb": "אָהֳלֹה",
+    "translit": "aholoh",
+    "strong": "H168",
+    "pos": "substantiv",
+    "greek": "τῷ οἴκῳ αὐτοῦ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "cortului lui."
+   },
+   {
+    "t": " său."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַיֵּשְׁתְּ מִן־הַיַּיִן וַיִּשְׁכָּר וַיִּתְגַּל בְּתוֹךְ אָהֳלֹה",
+    "translation": "„Și a băut din vin și s-a îmbătat și s-a dezgolit înăuntrul cortului său.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ ἔπιεν ἐκ τοῦ οἴνου καὶ ἐμεθύσθη καὶ ἐγυμνώθη ἐν τῷ οἴκῳ αὐτοῦ.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "וישת מן היין וישכר ויתגל בתוך אהלו",
+    "translation": "Diferență reală, confirmată: וישת מן היין וישכר ויתגל בתוך אהלו — „And he drank of the wine, and was drunken; and he was uncovered within his tent.”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi a băut din vin şi s-a îmbătat şi s-a dezgolit înăuntrul cortului său.",
+  "refs": [
+   "Efeseni 5:18",
+   "Proverbele 20:1"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Și s-a dezgolit (va-yitgal).» Este formă reflexivă.<br><br>«Cortului său (ohoh).» Este scris ohoh, aluzie la cele zece seminții, care au fost numite după Samaria, numită Ohola, și care au fost exilate din pricina vinului, cum s-a spus: „cei care beau vin din potire”."
+   },
+   {
+    "author": "Zohar, Noah 13:10",
+    "text": "Și mai mult: după aceea au continuat să păcătuiască și să meargă după yețer ha-ra ca la început. Și Tora sfântă, care este Pomul vieții, Cel Sfânt, binecuvântat fie El, încă nu o coborâse pe pământ. Și mai mult: el însuși l-a tras pe șarpe în lume după aceea, căci este scris: „Și a băut din vin și s-a îmbătat și s-a descoperit în mijlocul cortului său”; și iată s-a explicat."
+   }
+  ]
+ },
+ {
+  "num": 22,
+  "tokens": [
+   {
+    "t": "Ham",
+    "w": "Ham",
+    "heb": "חָם",
+    "translit": "Cham",
+    "strong": "H2526",
+    "pos": "nume propriu",
+    "greek": "Χὰμ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Ham."
+   },
+   {
+    "t": ", "
+   },
+   {
+    "t": "tatăl",
+    "w": "tatăl",
+    "heb": "אֲבִי",
+    "translit": "avi",
+    "strong": "H1",
+    "pos": "substantiv, stare construită",
+    "greek": "ὁ πατὴρ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "tatăl."
+   },
+   {
+    "t": " lui "
+   },
+   {
+    "t": "Canaan",
+    "w": "Canaan",
+    "heb": "כְנַעַן",
+    "translit": "Kena'an",
+    "strong": "H3667",
+    "pos": "nume propriu",
+    "greek": "Χανάαν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Canaan."
+   },
+   {
+    "t": ", a "
+   },
+   {
+    "t": "văzut",
+    "w": "văzut",
+    "heb": "וַיַּרְא",
+    "translit": "vayar",
+    "strong": "H7200",
+    "pos": "verb",
+    "greek": "εἶδεν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "a văzut."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "goliciunea",
+    "w": "goliciunea",
+    "heb": "עֶרְוַת",
+    "translit": "ervat",
+    "strong": "H6172",
+    "pos": "substantiv, stare construită",
+    "greek": "τὴν γύμνωσιν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "goliciunea."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "tatălui",
+    "w": "tatălui",
+    "heb": "אָבִיו",
+    "translit": "aviv",
+    "strong": "H1",
+    "pos": "substantiv cu sufix",
+    "greek": "τοῦ πατρὸς αὐτοῦ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "tatălui lui."
+   },
+   {
+    "t": " său și le-a "
+   },
+   {
+    "t": "povestit",
+    "w": "povestit",
+    "heb": "וַיַּגֵּד",
+    "translit": "vayaged",
+    "strong": "H5046",
+    "pos": "verb",
+    "greek": "ἀνήγγειλεν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "le-a povestit."
+   },
+   {
+    "t": " celor doi "
+   },
+   {
+    "t": "frați",
+    "w": "frați",
+    "heb": "אֶחָיו",
+    "translit": "echav",
+    "strong": "H251",
+    "pos": "substantiv, plural cu sufix",
+    "greek": "τοῖς δυσὶν ἀδελφοῖς αὐτοῦ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "fraților lui."
+   },
+   {
+    "t": " ai săi, afară."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַיַּרְא חָם אֲבִי כְנַעַן אֵת עֶרְוַת אָבִיו וַיַּגֵּד לִשְׁנֵי־אֶחָיו בַּחוּץ",
+    "translation": "„Ham, tatăl lui Canaan, a văzut goliciunea tatălui său și le-a povestit celor doi frați ai săi, afară.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ εἶδεν Χὰμ ὁ πατὴρ Χανάαν τὴν γύμνωσιν τοῦ πατρὸς αὐτοῦ καὶ ἐξελθὼν ἀνήγγειλεν τοῖς δυσὶν ἀδελφοῖς αὐτοῦ ἔξω.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "וירא חם אבי כנען את ערות אביו ויגד לשני אחיו בחוץ",
+    "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+    "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi Ham, tatăl lui Canaan, a văzut goliciunea tatălui său şi a spus celor doi fraţi ai săi de afară.",
+  "refs": [
+   "Levitic 18:6-8"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Ham, tatăl lui Canaan, a văzut.» Unii dintre învățătorii noștri spun: Canaan a văzut și i-a spus tatălui său; de aceea a fost pomenit în legătură cu lucrul acesta și a fost blestemat.<br><br>«A văzut goliciunea tatălui său.» Unii spun că l-a castrat, alții spun că l-a pângărit."
+   }
+  ]
+ },
+ {
+  "num": 23,
+  "tokens": [
+   {
+    "t": "Iar "
+   },
+   {
+    "t": "Șem",
+    "w": "Șem",
+    "heb": "שֵׁם",
+    "translit": "Shem",
+    "strong": "H8035",
+    "pos": "nume propriu",
+    "greek": "Σήμ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Șem."
+   },
+   {
+    "t": " și "
+   },
+   {
+    "t": "Iafet",
+    "w": "Iafet",
+    "heb": "וָיֶפֶת",
+    "translit": "vayafet",
+    "strong": "H3315",
+    "pos": "nume propriu",
+    "greek": "Ιάφεθ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Iafet."
+   },
+   {
+    "t": " au "
+   },
+   {
+    "t": "luat",
+    "w": "luat",
+    "heb": "וַיִּקְחוּ",
+    "translit": "vayikchu",
+    "strong": "H3947",
+    "pos": "verb",
+    "greek": "ἔλαβον",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "au luat."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "haina",
+    "w": "haina",
+    "heb": "הַשִּׂמְלָה",
+    "translit": "hasimlah",
+    "strong": "H8071",
+    "pos": "substantiv, cu articol",
+    "greek": "τὸ ἱμάτιον",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "haina."
+   },
+   {
+    "t": " și au pus-o pe "
+   },
+   {
+    "t": "umerii",
+    "w": "umerii",
+    "heb": "שְׁכֶם",
+    "translit": "shekhem",
+    "strong": "H7926",
+    "pos": "substantiv",
+    "greek": "τῷ ὤμῳ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "umerii."
+   },
+   {
+    "t": " amândurora și au "
+   },
+   {
+    "t": "mers îndărăt",
+    "w": "mers îndărăt",
+    "heb": "וַיֵּלְכוּ אֲחֹרַנִּית",
+    "translit": "vayelkhu achoranit",
+    "strong": "H1980",
+    "pos": "verb",
+    "greek": "ὀπισθοφανῶς ἐπορεύθησαν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "au mers îndărăt."
+   },
+   {
+    "t": " și au "
+   },
+   {
+    "t": "acoperit",
+    "w": "acoperit",
+    "heb": "וַיְכַסּוּ",
+    "translit": "vayekhasu",
+    "strong": "H3680",
+    "pos": "verb",
+    "greek": "συνεκάλυψαν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "au acoperit."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "goliciunea",
+    "w": "goliciunea",
+    "heb": "עֶרְוַת",
+    "translit": "ervat",
+    "strong": "H6172",
+    "pos": "substantiv, stare construită",
+    "greek": "τὴν γύμνωσιν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "goliciunea."
+   },
+   {
+    "t": " tatălui lor; iar "
+   },
+   {
+    "t": "fețele",
+    "w": "fețele",
+    "heb": "פְנֵיהֶם",
+    "translit": "peneihem",
+    "strong": "H6440",
+    "pos": "substantiv cu sufix",
+    "greek": "τὰ πρόσωπα αὐτῶν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "fețele lor."
+   },
+   {
+    "t": " lor erau "
+   },
+   {
+    "t": "întoarse îndărăt",
+    "w": "întoarse îndărăt",
+    "heb": "אֲחֹרַנִּית",
+    "translit": "achoranit",
+    "strong": "H322",
+    "pos": "adverb",
+    "greek": "ὀπισθοφανῶς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "întoarse îndărăt."
+   },
+   {
+    "t": " și goliciunea tatălui lor nu au "
+   },
+   {
+    "t": "văzut-o",
+    "w": "văzut-o",
+    "heb": "רָאוּ",
+    "translit": "ra'u",
+    "strong": "H7200",
+    "pos": "verb",
+    "greek": "εἶδον",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "au văzut-o."
+   },
+   {
+    "t": "."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַיִּקַּח שֵׁם וָיֶפֶת אֶת־הַשִּׂמְלָה וַיָּשִׂימוּ עַל־שְׁכֶם שְׁנֵיהֶם וַיֵּלְכוּ אֲחֹרַנִּית וַיְכַסּוּ אֵת עֶרְוַת אֲבִיהֶם וּפְנֵיהֶם אֲחֹרַנִּית וְעֶרְוַת אֲבִיהֶם לֹא רָאוּ",
+    "translation": "„Iar Șem și Iafet au luat haina și au pus-o pe umerii amândurora și au mers îndărăt și au acoperit goliciunea tatălui lor; iar fețele lor erau întoarse îndărăt și goliciunea tatălui lor nu au văzut-o.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ λαβόντες Σὴμ καὶ Ιάφεθ τὸ ἱμάτιον ἐπέθεντο ἐπὶ τὰ δύο νῶτα αὐτῶν καὶ ἐπορεύθησαν ὀπισθοφανῶς καὶ συνεκάλυψαν τὴν γύμνωσιν τοῦ πατρὸς αὐτῶν, καὶ τὸ πρόσωπον αὐτῶν ὀπισθοφανές, καὶ τὴν γύμνωσιν τοῦ πατρὸς αὐτῶν οὐκ εἶδον.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ויקח שם ויפת את השמלה וישמו על שכם שניהם וילכו אחרנית ויכסו את ערות אביהם ופניהם אחרנית וערות אביהם לא ראו",
+    "translation": "Diferență reală, confirmată: ויקח שם ויפת את השמלה וישמו על שכם שניהם וילכו אחרנית ויכסו את ערות אביהם ופניהם אחרנית וערות אביהם לא ראו — „And Shem and Japheth took a garment, and laid [it] upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces [were] backward, and they saw not their father's nakedness.”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi Sem şi Iafet au luat o haină şi au pus-o peste amândoi umerii lor şi au mers cu spatele şi au acoperit goliciunea tatălui lor şi feţele lor erau întoarse şi nu au văzut goliciunea tatălui lor.",
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Iar Sem și Iafet au luat.» Nu este scris „au luat” la plural, ci „a luat” la singular: te învață despre Sem că s-a străduit pentru poruncă mai mult decât Iafet; de aceea fiii lui au fost învredniciți de veșmântul cu ciucuri (ṭallit cu ṣiṣit). Iar Iafet a fost învrednicit de îngropare pentru fiii lui, cum s-a spus: „îi voi da lui Gog un loc acolo, un mormânt”. Iar despre Ham, care și-a batjocorit tatăl, s-a spus în urmașii lui: „așa îi va duce regele Asiriei pe captivii Egiptului („Mițrayim”) și pe exilații din Cuș, tineri și bătrâni, goi și desculți, cu șezutul descoperit” etc..<br><br>«Iar fețele lor erau întoarse îndărăt.» De ce s-a spus a doua oară? Ne învață că atunci când s-au apropiat de el și au trebuit să se întoarcă ca să-l acopere, și-au întors fețele îndărăt."
+   }
+  ],
+  "refs": [
+   "Levitic 19:32"
+  ]
+ },
+ {
+  "num": 24,
+  "tokens": [
+   {
+    "t": "Noe",
+    "w": "Noe",
+    "heb": "נֹחַ",
+    "translit": "Noach",
+    "strong": "H5146",
+    "pos": "nume propriu",
+    "greek": "Νῶε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Noe."
+   },
+   {
+    "t": " s-a "
+   },
+   {
+    "t": "trezit",
+    "w": "trezit",
+    "heb": "וַיִּיקֶץ",
+    "translit": "vayikets",
+    "strong": "H3364",
+    "pos": "verb",
+    "greek": "ἐξένηψεν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "s-a trezit."
+   },
+   {
+    "t": " din "
+   },
+   {
+    "t": "vinul",
+    "w": "vinul",
+    "heb": "מִיֵּינוֹ",
+    "translit": "miyeino",
+    "strong": "H3196",
+    "pos": "substantiv cu sufix",
+    "greek": "τοῦ οἴνου αὐτοῦ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "vinul lui."
+   },
+   {
+    "t": " său și a "
+   },
+   {
+    "t": "știut",
+    "w": "știut",
+    "heb": "וַיֵּדַע",
+    "translit": "vayeda",
+    "strong": "H3045",
+    "pos": "verb",
+    "greek": "ἔγνω",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "a știut."
+   },
+   {
+    "t": " ce îi "
+   },
+   {
+    "t": "făcuse",
+    "w": "făcuse",
+    "heb": "עָשָׂה",
+    "translit": "asah",
+    "strong": "H6213",
+    "pos": "verb",
+    "greek": "ἐποίησεν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "îi făcuse."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "fiul",
+    "w": "fiul",
+    "heb": "בְּנוֹ",
+    "translit": "beno",
+    "strong": "H1121",
+    "pos": "substantiv cu sufix",
+    "greek": "ὁ υἱὸς αὐτοῦ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "fiul lui."
+   },
+   {
+    "t": " său cel "
+   },
+   {
+    "t": "mic",
+    "w": "mic",
+    "heb": "הַקָּטָן",
+    "translit": "hakatan",
+    "strong": "H6996",
+    "pos": "adjectiv, cu articol",
+    "greek": "ὁ νεώτερος",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "mic, mai tânăr."
+   },
+   {
+    "t": "."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַיִּיקֶץ נֹחַ מִיֵּינוֹ וַיֵּדַע אֵת אֲשֶׁר־עָשָׂה לוֹ בְּנוֹ הַקָּטָן",
+    "translation": "„Noe s-a trezit din vinul său și a știut ce îi făcuse fiul său cel mic.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "ἐξένηψεν δὲ Νῶε ἀπὸ τοῦ οἴνου καὶ ἔγνω ὅσα ἐποίησεν αὐτῷ ὁ υἱὸς αὐτοῦ ὁ νεώτερος,",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ויקץ נח מיינו וידע את אשר עשה לו בנו הקטן",
+    "translation": "Diferență reală, confirmată: ויקץ נח מיינו וידע את אשר עשה לו בנו הקטן — „And Noah awoke from his wine, and knew what his younger son had done unto him.”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi Noe s-a trezit din beţia vinului său şi a cunoscut ceea ce fiul său mai tânăr i-a făcut.",
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Fiul său cel mic.» Cel nevrednic și disprețuit, ca în „iată, te-am făcut mic între neamuri, disprețuit între oameni”."
+   }
+  ],
+  "refs": [
+   "Geneza 9:22"
+  ]
+ },
+ {
+  "num": 25,
+  "tokens": [
+   {
+    "t": "Și a "
+   },
+   {
+    "t": "spus",
+    "w": "spus",
+    "heb": "וַיֹּאמֶר",
+    "translit": "vayomer",
+    "strong": "H559",
+    "pos": "verb",
+    "greek": "εἶπεν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "a spus."
+   },
+   {
+    "t": ": „"
+   },
+   {
+    "t": "Blestemat",
+    "w": "Blestemat",
+    "heb": "אָרוּר",
+    "translit": "arur",
+    "strong": "H779",
+    "pos": "adjectiv",
+    "greek": "ἐπικατάρατος",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "blestemat."
+   },
+   {
+    "t": " să fie "
+   },
+   {
+    "t": "Canaan",
+    "w": "Canaan",
+    "heb": "כְּנָעַן",
+    "translit": "Kena'an",
+    "strong": "H3667",
+    "pos": "nume propriu",
+    "greek": "Χανάαν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Canaan."
+   },
+   {
+    "t": "; un "
+   },
+   {
+    "t": "sclav",
+    "w": "sclav",
+    "heb": "עֶבֶד",
+    "translit": "eved",
+    "strong": "H5650",
+    "pos": "substantiv",
+    "greek": "παῖς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "sclav."
+   },
+   {
+    "t": " al "
+   },
+   {
+    "t": "sclavilor",
+    "w": "sclavilor",
+    "heb": "עֲבָדִים",
+    "translit": "avadim",
+    "strong": "H5650",
+    "pos": "substantiv, plural",
+    "greek": "δούλων",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "sclavilor."
+   },
+   {
+    "t": " să fie pentru "
+   },
+   {
+    "t": "frații",
+    "w": "frații",
+    "heb": "לְאֶחָיו",
+    "translit": "le'echav",
+    "strong": "H251",
+    "pos": "substantiv, plural cu sufix",
+    "greek": "τοῖς ἀδελφοῖς αὐτοῦ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "frații lui."
+   },
+   {
+    "t": " săi.”"
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַיֹּאמֶר אָרוּר כְּנָעַן עֶבֶד עֲבָדִים יִהְיֶה לְאֶחָיו",
+    "translation": "„Și a spus: „Blestemat să fie Canaan; un sclav al sclavilor să fie pentru frații săi.”” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ εἶπεν Ἐπικατάρατος Χανάαν· παῖς οἰκέτης ἔσται τοῖς ἀδελφοῖς αὐτοῦ.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ויאמר ארור כנען עבד עבדים יהיה לאחיו",
+    "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+    "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi a spus: Blestemat fie Canaan, un servitor al servitorilor va fi el fraţilor săi.",
+  "refs": [
+   "Iosua 9:23"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Blestemat să fie Canaan.» Tu ai pricinuit să nu mai am un al patrulea fiu care să-mi slujească; blestemat să fie fiul tău, al patrulea, ca să slujească urmașilor acestor mari, asupra cărora de acum a căzut povara slujirii mele. Și ce a văzut Ham de l-a castrat? Le-a spus fraților lui: Adam cel dintâi avea doi fii, și unul l-a ucis pe celălalt pentru moștenirea lumii; iar tatăl nostru are trei fii și încă mai cere un al patrulea fiu."
+   },
+   {
+    "author": "Zohar, Noah 36:9",
+    "text": "Și de aceea e scris (Geneza 9:25) «și a zis: blestemat e Kenaan; rob al robilor va fi fraților săi». Că el a adus blesteme asupra lumii. Și la naḥaș ce e scris (Geneza 3:14): «blestemat ești dintre tot dobitocul». Aceasta e ce e scris «rob al robilor». Și de aceea e scris «Șem, Ḥam și Yafet». Aceștia trei sunt fiii lui Noaḥ cei ieșiți din teva, precum am zis."
+   },
+   {
+    "author": "Cartea Jubileelor 7 — context/comparație",
+    "text": "Și Noe s-a deșteptat din somnul său și a cunoscut tot ce-i făcuse fiul său cel mai tânăr, și și-a blestemat fiul și a zis: Blestemat să fie Canaan; rob înrobit să fie el fraților săi."
+   }
+  ]
+ },
+ {
+  "num": 26,
+  "tokens": [
+   {
+    "t": "Și a "
+   },
+   {
+    "t": "spus",
+    "w": "spus",
+    "heb": "וַיֹּאמֶר",
+    "translit": "vayomer",
+    "strong": "H559",
+    "pos": "verb",
+    "greek": "εἶπεν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "a spus."
+   },
+   {
+    "t": ": „"
+   },
+   {
+    "t": "Binecuvântat",
+    "w": "Binecuvântat",
+    "heb": "בָּרוּךְ",
+    "translit": "barukh",
+    "strong": "H1288",
+    "pos": "adjectiv",
+    "greek": "εὐλογητὸς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "binecuvântat."
+   },
+   {
+    "t": " fie "
+   },
+   {
+    "t": "DOMNUL",
+    "w": "DOMNUL",
+    "heb": "יְהוָה",
+    "translit": "YHVH",
+    "strong": "H3068",
+    "pos": "substantiv",
+    "greek": "Κύριος",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "DOMNUL."
+   },
+   {
+    "t": ", "
+   },
+   {
+    "t": "Dumnezeul",
+    "w": "Dumnezeul",
+    "heb": "אֱלֹהֵי",
+    "translit": "Elohei",
+    "strong": "H430",
+    "pos": "substantiv, stare construită",
+    "greek": "ὁ Θεὸς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Dumnezeul."
+   },
+   {
+    "t": " lui "
+   },
+   {
+    "t": "Șem",
+    "w": "Șem",
+    "heb": "שֵׁם",
+    "translit": "Shem",
+    "strong": "H8035",
+    "pos": "nume propriu",
+    "greek": "Σήμ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Șem."
+   },
+   {
+    "t": "; și "
+   },
+   {
+    "t": "Canaan",
+    "w": "Canaan",
+    "heb": "כְּנַעַן",
+    "translit": "Kena'an",
+    "strong": "H3667",
+    "pos": "nume propriu",
+    "greek": "Χανάαν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Canaan."
+   },
+   {
+    "t": " să le fie "
+   },
+   {
+    "t": "sclav",
+    "w": "sclav",
+    "heb": "עֶבֶד",
+    "translit": "eved",
+    "strong": "H5650",
+    "pos": "substantiv",
+    "greek": "παῖς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "sclav."
+   },
+   {
+    "t": "."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַיֹּאמֶר בָּרוּךְ יְהוָה אֱלֹהֵי שֵׁם וִיהִי כְנַעַן עֶבֶד לָמוֹ",
+    "translation": "„Și a spus: „Binecuvântat fie DOMNUL, Dumnezeul lui Șem; și Canaan să le fie sclav.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ εἶπεν Εὐλογητὸς Κύριος ὁ Θεὸς τοῦ Σήμ, καὶ ἔσται Χανάαν παῖς αὐτοῦ.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ויאמר ברוך יהוה אלהי שם ויהי כנען עבד למו",
+    "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+    "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi a spus: Binecuvântat fie DOMNUL Dumnezeul lui Sem; şi Canaan va fi servitorul lui.",
+  "refs": [
+   "Geneza 11:10-26"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Binecuvântat fie Domnul, Dumnezeul lui Sem.» Care avea să-Și păzească făgăduința față de urmașii lui, să le dea țara Canaanului.<br><br>«Să le fie (vi-yhi).» Canaan să le fie tributar, slujitor."
+   }
+  ]
+ },
+ {
+  "num": 27,
+  "tokens": [
+   {
+    "t": "Dumnezeu",
+    "w": "Dumnezeu",
+    "heb": "אֱלֹהִים",
+    "translit": "Elohim",
+    "strong": "H430",
+    "pos": "substantiv",
+    "greek": "ὁ Θεὸς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Dumnezeu."
+   },
+   {
+    "t": " să îl "
+   },
+   {
+    "t": "mărească",
+    "w": "mărească",
+    "heb": "יַפְתְּ",
+    "translit": "yaft",
+    "strong": "H6601",
+    "pos": "verb",
+    "greek": "πλατύναι",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "să-l mărească."
+   },
+   {
+    "t": " pe "
+   },
+   {
+    "t": "Iafet",
+    "w": "Iafet",
+    "heb": "לְיֶפֶת",
+    "translit": "leyefet",
+    "strong": "H3315",
+    "pos": "nume propriu",
+    "greek": "τῷ Ιάφεθ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "pe Iafet."
+   },
+   {
+    "t": " și el să "
+   },
+   {
+    "t": "locuiască",
+    "w": "locuiască",
+    "heb": "וְיִשְׁכֹּן",
+    "translit": "veyishkon",
+    "strong": "H7931",
+    "pos": "verb",
+    "greek": "κατοικησάτω",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "să locuiască."
+   },
+   {
+    "t": " în "
+   },
+   {
+    "t": "corturile",
+    "w": "corturile",
+    "heb": "בְּאָהֳלֵי",
+    "translit": "be'oholei",
+    "strong": "H168",
+    "pos": "substantiv, stare construită",
+    "greek": "τοῖς οἴκοις",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "corturile."
+   },
+   {
+    "t": " lui "
+   },
+   {
+    "t": "Șem",
+    "w": "Șem",
+    "heb": "שֵׁם",
+    "translit": "Shem",
+    "strong": "H8035",
+    "pos": "nume propriu",
+    "greek": "Σήμ",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Șem."
+   },
+   {
+    "t": "; iar "
+   },
+   {
+    "t": "Canaan",
+    "w": "Canaan",
+    "heb": "וּכְנַעַן",
+    "translit": "ukhena'an",
+    "strong": "H3667",
+    "pos": "nume propriu",
+    "greek": "Χανάαν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Canaan."
+   },
+   {
+    "t": " să le fie "
+   },
+   {
+    "t": "sclav",
+    "w": "sclav",
+    "heb": "עֶבֶד",
+    "translit": "eved",
+    "strong": "H5650",
+    "pos": "substantiv",
+    "greek": "παῖς",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "sclav."
+   },
+   {
+    "t": ".”"
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "יַפְתְּ אֱלֹהִים לְיֶפֶת וְיִשְׁכֹּן בְּאָהֳלֵי־שֵׁם וִיהִי כְנַעַן עֶבֶד לָמוֹ",
+    "translation": "„Dumnezeu să îl mărească pe Iafet și el să locuiască în corturile lui Șem; iar Canaan să le fie sclav.”” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "πλατύναι ὁ Θεὸς τῷ Ιάφεθ καὶ κατοικησάτω ἐν τοῖς οἴκοις τοῦ Σήμ, καὶ γενηθήτω Χανάαν παῖς αὐτῶν.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "יפת אלהים ליפת וישכן באהלי שם ויהי כנען עבד למו",
+    "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+    "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Dumnezeu va lărgi pe Iafet şi va locui în corturile lui Sem şi Canaan va fi servitorul lui.",
+  "refs": [
+   "Efeseni 2:13-14"
+  ],
+  "commentaries": [
+   {
+    "author": "Rashi (1040–1105)",
+    "text": "«Dumnezeu să îl mărească pe Iafet (yaft).» Onkelos traduce yaftei: să-l lărgească.<br><br>«Și el să locuiască în corturile lui Sem.» Să-Și facă să sălășluiască Prezența (Șechina) în Israel. Iar tâlcuirea înțelepților: deși Dumnezeu l-a mărit pe Iafet — căci Cirus, care era dintre fiii lui Iafet, a zidit al doilea Templu —, Prezența nu a sălășluit în el. Și unde a sălășluit? În primul Templu, pe care l-a zidit Solomon, care era dintre fiii lui Sem.<br><br>«Iar Canaan să le fie sclav.» Chiar și după ce fiii lui Sem vor fi exilați, li se vor vinde sclavi dintre fiii lui Canaan."
+   }
+  ]
+ },
+ {
+  "num": 28,
+  "tokens": [
+   {
+    "t": "Noe",
+    "w": "Noe",
+    "heb": "נֹחַ",
+    "translit": "Noach",
+    "strong": "H5146",
+    "pos": "nume propriu",
+    "greek": "Νῶε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Noe."
+   },
+   {
+    "t": " a "
+   },
+   {
+    "t": "[mai] trăit",
+    "w": "[mai] trăit",
+    "heb": "וַיְחִי",
+    "translit": "vayechi",
+    "strong": "H2421",
+    "pos": "verb",
+    "greek": "ἔζησεν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "a mai trăit."
+   },
+   {
+    "t": " după "
+   },
+   {
+    "t": "potop",
+    "w": "potop",
+    "heb": "הַמַּבּוּל",
+    "translit": "hamabul",
+    "strong": "H3999",
+    "pos": "substantiv",
+    "greek": "τὸν κατακλυσμὸν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "potop."
+   },
+   {
+    "t": " "
+   },
+   {
+    "t": "trei sute cincizeci de ani",
+    "w": "trei sute cincizeci de ani",
+    "heb": "שְׁלֹשׁ מֵאוֹת שָׁנָה וַחֲמִשִּׁים שָׁנָה",
+    "translit": "shlosh me'ot shanah vachamishim shanah",
+    "strong": "H7969",
+    "pos": "numeral",
+    "greek": "τριακόσια πεντήκοντα ἔτη",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "trei sute cincizeci de ani."
+   },
+   {
+    "t": "."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַיְחִי־נֹחַ אַחַר הַמַּבּוּל שְׁלֹשׁ מֵאוֹת שָׁנָה וַחֲמִשִּׁים שָׁנָה",
+    "translation": "„Noe a [mai] trăit după potop trei sute cincizeci de ani.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "Ἔζησεν δὲ Νῶε μετὰ τὸν κατακλυσμὸν τριακόσια πεντήκοντα ἔτη.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ויחי נח אחרי המבול שלש מאות שנה וחמשים שנה",
+    "translation": "Diferență reală, confirmată: ויחי נח אחרי המבול שלש מאות שנה וחמשים שנה — „And Noah lived after the flood three hundred and fifty years.”",
+    "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi Noe a trăit după potop trei sute cincizeci de ani.",
+  "refs": [
+   "Geneza 5:32"
+  ],
+  "commentaries": []
+ },
+ {
+  "num": 29,
+  "tokens": [
+   {
+    "t": "Toate "
+   },
+   {
+    "t": "zilele",
+    "w": "zilele",
+    "heb": "יְמֵי",
+    "translit": "yemei",
+    "strong": "H3117",
+    "pos": "substantiv",
+    "greek": "αἱ ἡμέραι",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "zilele."
+   },
+   {
+    "t": " lui "
+   },
+   {
+    "t": "Noe",
+    "w": "Noe",
+    "heb": "נֹחַ",
+    "translit": "Noach",
+    "strong": "H5146",
+    "pos": "nume propriu",
+    "greek": "Νῶε",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "Noe."
+   },
+   {
+    "t": " au fost "
+   },
+   {
+    "t": "nouă sute cincizeci de ani",
+    "w": "nouă sute cincizeci de ani",
+    "heb": "תְּשַׁע מֵאוֹת שָׁנָה וַחֲמִשִּׁים שָׁנָה",
+    "translit": "tesha me'ot shanah vachamishim shanah",
+    "strong": "H8672",
+    "pos": "numeral",
+    "greek": "ἐννακόσια πεντήκοντα ἔτη",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "nouă sute cincizeci de ani."
+   },
+   {
+    "t": " și a "
+   },
+   {
+    "t": "murit",
+    "w": "murit",
+    "heb": "וַיָּמֹת",
+    "translit": "vayamot",
+    "strong": "H4191",
+    "pos": "verb",
+    "greek": "ἀπέθανεν",
+    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
+    "def_ro": "a murit."
+   },
+   {
+    "t": "."
+   }
+  ],
+  "textCompare": [
+   {
+    "source": "Textul Masoretic (ebraică)",
+    "original": "וַיִּהְיוּ כָּל־יְמֵי־נֹחַ תְּשַׁע מֵאוֹת שָׁנָה וַחֲמִשִּׁים שָׁנָה וַיָּמֹת",
+    "translation": "„Toate zilele lui Noe au fost nouă sute cincizeci de ani și a murit.” — traducerea rabinului Rosen.",
+    "note": ""
+   },
+   {
+    "source": "Septuaginta (greacă)",
+    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Νῶε ἐννακόσια πεντήκοντα ἔτη, καὶ ἀπέθανεν.",
+    "greek": true,
+    "translation": "",
+    "note": ""
+   },
+   {
+    "source": "Pentateuhul Samaritean",
+    "original": "ויהיו כל ימי נח תשע מאות שנה וחמשים שנה וימת",
+    "translation": "Conținutul e identic cu Textul Masoretic la acest verset — fără variante.",
+    "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
+   }
+  ],
+  "fidela": "Şi toate zilele lui Noe au fost nouă sute cincizeci de ani; şi a murit.",
+  "refs": [
+   "Geneza 5:5"
+  ],
+  "commentaries": []
+ }
 ];

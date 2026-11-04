@@ -175,15 +175,19 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Notează o particularitate gramaticală: „vayechulu” (au fost isprăvite) e la o formă pasivă specială, în care subiectul gramatical rămâne nerostit — comparabilă cu expresia „toți munții au fost acoperiți” [de la potop]. Explică și de ce „oceanul” nu e menționat separat: e deja inclus în „pământ”, cele două formând, gramatical, o singură unitate în text."
+    "text": "«Și astfel au fost isprăvite (wa-ykhullu).» Din conjugarea în care nu este pomenit numele făptuitorului, iar forma lui este ca „și au fost acoperiți (wa-ykhussu) toți munții”; iar sensul lui este „au fost desăvârșite”. Iar marea este cuprinsă în pământ, căci sunt ca un singur mănunchi."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
-    "text": "Explică „toată oștirea lor”: „oștirea pământului” sunt viețuitoarele, târâtoarele, peștii și toată vegetația, precum și omul; „oștirea cerurilor” sunt cei doi luminători și stelele, ca în Deuteronom 4:19 („să nu-ți ridici ochii spre ceruri și să vezi soarele, luna și stelele, toată oștirea cerurilor”). Include în această categorie și inteligențele despărțite — îngerii —, ca în 1 Împărați 22:19 și Isaia 24:21, unde „oștirea celor de sus” e cercetată de Domnul în înălțime. Aici, spune Ramban, se ascunde o aluzie la crearea îngerilor chiar în lucrarea creației — iar sufletele omului sunt, la rândul lor, o „oștire a cerurilor”."
+    "text": "«și toată oștirea lor.» „Oștirea pământului” sunt cele amintite: sălbăticiunea, târâtoarea, peștii și tot ce crește, și omul; iar „oștirea cerurilor” sunt cei doi luminători și stelele amintite, ca în „și ca nu cumva să îți ridici ochii spre cer și să vezi soarele, luna și stelele, toată oștirea cerurilor”; și va cuprinde și intelectele separate, ca în „L-am văzut pe Domnul șezând pe tronul Său și toată oștirea cerurilor stând lângă El” etc.; și tot așa „Domnul va cerceta oștirea înălțimii în înălțime”. Și iată, aici este o aluzie la formarea îngerilor în lucrarea creației; și tot așa sufletele omului sunt oștirea cerurilor."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Citește „au fost isprăvite” nu ca simplă încetare, ci ca atingere a scopului final pentru care exista, în întregul ei, lumea creată."
+    "text": "«Și astfel au fost isprăvite.» Prin atingerea scopului existenței în ansamblul ei."
+   },
+   {
+    "author": "Talmudul Babilonian, Roș Hașana 11a:6",
+    "text": "Iar celălalt — iată, este scris și „pom roditor”! Acela, ca la Rabbi Yehoșuaʿ ben Levi; căci a spus Rabbi Yehoșuaʿ ben Levi: Toate lucrările Facerii au fost create în statura lor deplină, au fost create cu știința lor, au fost create după voia lor (sau „în frumusețea lor”), căci s-a spus: „Și astfel au fost isprăvite cerurile și pământul și toată oștirea lor” — nu citi „oștirea lor”, ci „voia lor”."
    },
    {
     "author": "Zohar, Pekudei 5:8",
@@ -396,15 +400,19 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Se oprește la o problemă aparent simplă: dacă Dumnezeu a încheiat lucrarea „în ziua a șaptea”, înseamnă că a mai lucrat și în acea zi? Rashi răspunde: Dumnezeu a creat, chiar în ultima clipă a zilei a șasea, ceva ce omul nu-l poate percepe cu simțurile — <span class=\"heb-inline\">מְנוּחָה</span> („odihna” însăși) — astfel încât „lucrarea” încheiată exact la începutul zilei a șaptea a fost odihna. E un joc fin de cuvinte: chiar „odihna” devine ultimul act de creație."
+    "text": "«Și a isprăvit Dumnezeu în ziua a șaptea.» Rabbi Șimʿon spune: Omul de carne și sânge, care nu își cunoaște vremurile și clipele, trebuie să adauge din cel obișnuit la cel sfânt. Sfântul, binecuvântat fie El, care Își cunoaște vremurile și clipele, a intrat în ea cât un fir de păr, și pare ca și cum ar fi isprăvit în ea, în chiar ziua aceea. Altă explicație: ce îi lipsea lumii? Odihna. A venit Șabatul, a venit odihna; s-a sfârșit și s-a încheiat lucrarea."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Discută litera <span class=\"heb-inline\">כ</span> din formula „ziua a șaptea”: unii înțelepți spun că fiecare zi ar fi fost o creație separată, încheiată abia atunci — explicație pe care Ibn Ezra o respinge ca „searbădă”. Preferă o lectură gramaticală: „lucrarea Sa pe care o făcuse” privește ziua a șasea, dinaintea Sabatului, iar „S-a oprit... de la toată lucrarea Sa” înseamnă de la toate făpturile pe care le crease — nu de la o muncă încă neterminată."
+    "text": "«Și a isprăvit Dumnezeu în ziua a șaptea.» Unii spun că zilele sunt create, și prin crearea zilei a șaptea s-a desăvârșit lucrarea; dar această explicație este fără gust. Iar alții spun că există un bet al cărui sens este „înainte”, ca „să nu legi gura boului când treieră (be-dišo)”, „însă în ziua cea dintâi (ba-yom ha-rišon) să îndepărtați aluatul”. Dar de ce această strâmtorare? Căci sfârșirea lucrării nu este o lucrare făcută, ca și cum ar fi spus că n-a făcut nicio lucrare; și tot așa este explicația lui wa-ykhal și a lui wa-yišbot.<br><br>Iar sensul lui «munca Sa pe care o făcuse»: în ziua a șasea, înainte de ziua Șabatului.<br><br>Iar sensul lui «și S-a oprit în ziua a șaptea de la toată munca Sa»: de la toate creaturile pe care le-a creat."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Explică „a isprăvit... în ziua a șaptea” ca referindu-se la chiar clipa nedespărțită, de neîmpărțit, care deschide timpul viitor și nu mai aparține celui trecut — clipa în care, spun înțelepții, Dumnezeu „a intrat” cât un fir de păr. Toată acea zi, adaugă el, s-a deosebit de primele șase tocmai prin faptul odihnei."
+    "text": "«Și a isprăvit Dumnezeu în ziua a șaptea.» La începutul zilei a șaptea, care este clipa indivizibilă, care este începutul timpului viitor și nu este o parte din el; cum au spus înțelepții noștri, binecuvântată fie amintirea lor: „A intrat în ea cât un fir de păr.”<br><br>«Și S-a oprit în ziua a șaptea.» Toată acea zi a fost despărțită de primele șase zile în privința opririi."
+   },
+   {
+    "author": "Talmudul Babilonian, Megila 9a:13",
+    "text": "„Și a isprăvit în ziua a șasea și S-a oprit în ziua a șaptea”; „Parte bărbătească și femeiască l-a creat” — și n-au scris „i-a creat”;"
    },
    {
     "author": "Zohar, Pekudei 5:8",
@@ -658,23 +666,27 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Explică separat: „a binecuvântat-o” cu mana, care cădea în fiecare zi a săptămânii câte un omer de cap, dar vinerea dublu, iar sâmbăta deloc — „a sfințit-o” prin faptul că mana nu cădea deloc în acea zi, deși textul vorbește, de fapt, despre un eveniment viitor (mana din pustie). Iar „pe care o crease Dumnezeu ca s-o facă” arată că lucrarea cuvenită Șabatului a fost dublată și făcută în ziua a șasea."
+    "text": "«Și a binecuvântat… și a sfințit-o.» L-a binecuvântat prin mană, căci în toate zilele săptămânii cobora pentru ei câte un omer de cap, iar în a șasea, pâine îndoită; și l-a sfințit prin mană, căci nu cobora deloc în Șabat. Versetul este scris cu privire la viitor.<br><br>«Pe care o crease Dumnezeu spre a fi făcută.» Lucrarea care se cuvenea să fie făcută în Șabat a făcut-o îndoit în a șasea, cum se explică în Bereșit Rabba."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Explică separat: „binecuvântare” înseamnă aici un spor de bine — în acea zi se înnoiește în trupuri puterea de-a se înmulți, iar în suflete, puterea de-a înțelege. „A sfințit-o” înseamnă că nu s-a făcut în ea nicio lucrare, ca-n celelalte zile; iar „lucrarea pe care o crease Dumnezeu ca s-o facă” privește rădăcinile puse în fiecare specie, prin care fiecare își poate reproduce semenii."
+    "text": "«Și a binecuvântat Dumnezeu.» Explicația binecuvântării este adăugare de bine; iar în această zi se înnoiește în trupuri chipul puterii în nașteri, iar în suflete puterea cunoașterii și a minții.<br><br>«Și a sfințit-o.» Că nu s-a făcut în ea lucrare, ca în celelalte zile.<br><br>Iar explicația lui «pe care o crease Dumnezeu spre a fi făcută (laʿaśot)»: rădăcinile din toate soiurile, în care a pus putere să facă chipul lor. Iar cel care explică laʿaśot în loc de ʿaśah, și ʿaśah în loc de baraʾ – nu este așa după părerea mea. Iar Gaonul a spus că binecuvântarea zilei și sfințirea ei se întorc asupra celor care o păzesc, ca să fie binecuvântați și sfinți."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
-    "text": "Discută sensul exact al „binecuvântării” zilei a șaptea, citând mai multe opinii: Rashi (citând Midrașul) spune că binecuvântarea a fost mana, care cade dublu vinerea, dar nu sâmbăta — o binecuvântare împlinită abia mult mai târziu, în pustie. Ibn Ezra înțelege binecuvântarea ca un spor de putere dat trupului și minții tuturor celor ce se odihnesc în ziua aceea. Ramban însuși adaugă o a treia variantă: ziua de Șabat e chiar izvorul tuturor binecuvântărilor, temelia lumii, iar „sfințirea” ei înseamnă că din ea se trage tot ce e sfânt."
+    "text": "«Și a binecuvântat … și a sfințit-o.» L-a binecuvântat prin mană și l-a sfințit prin mană, iar versetul este scris cu privire la viitor – cuvintele lui Rabbeinu Șelomo, din Bereșit Rabba. Iar în numele Gaonului Rav Saadia au spus că binecuvântarea și sfințirea sunt asupra celor care îl păzesc, ca să fie binecuvântați și sfințiți. Dar înțelesul versetului nu este că vorbește despre viitor. Iar Rabbi Avraham a spus că binecuvântarea este o adăugare de bine, care se înnoiește: trupurilor – un spor de putere în naștere, iar sufletului – un spor de înțelegere; și „a sfințit-o” – că n-a făcut în ea lucrare ca în celelalte zile. Și cuvântul lui în aceasta este corect pentru cei care cred în el, căci aceasta nu se percepe prin simțuri de către oameni. Iar adevărul este că binecuvântarea zilei de Șabat este izvorul binecuvântărilor, și el este temelia lumii; „și a sfințit-o”, căci trage din sfințenie. Și dacă vei înțelege acest cuvânt al meu, vei ști ce au spus în Bereșit Rabba: pentru că nu are pereche, și ce au mai spus: Adunarea lui Israel va fi perechea ta; și vei pricepe că în Șabat este cu adevărat un suflet în plus.<br><br>«pe care o crease Dumnezeu spre a fi făcută.» Lucrarea care ar fi trebuit să fie făcută în Șabat a făcut-o îndoit în a șasea, cum se explică în Bereșit Rabba – cuvintele lui Rashi. Dar Rabbi Avraham a spus, după sensul simplu, că lucrarea Lui sunt „rădăcinile tuturor speciilor, în care a pus puterea de a face asemenea lor”. Iar mie mi se pare că explicația lui este că S-a oprit de la toată lucrarea Sa, pe care a creat-o ca ceva din nimic, ca să facă din ea toate lucrările amintite în cele șase zile. Și iată, a spus că S-a oprit de la creare și de la facere: de la crearea pe care a creat-o în ziua întâi și de la facerea pe care a făcut-o în celelalte zile. Și se poate ca „spre a fi făcută” (laʿaśot) să se lege de ce este mai sus: căci în ea S-a oprit de la toată lucrarea Sa, pe care o crease, de a mai face; și asemenea lui: „până s-a oprit din socotit”; „și s-au oprit din a mai construi orașul”; „Feriți-vă de a urca pe munte”; „și nu s-au abătut de la porunca regelui”; și multe asemenea. Și să știi că mai este cuprins în cuvântul laʿaśot că cele șase zile ale creației sunt toate zilele lumii, căci dăinuirea ei va fi de șase mii de ani; căci de aceea au spus: Ziua Celui Sfânt, binecuvântat fie El, este o mie de ani. Și iată, în primele două zile lumea era toată apă și nu s-a desăvârșit în ele nimic, iar ele sunt o aluzie la primele două mii de ani, în care nu era nimeni care să cheme Numele Domnului; și așa au spus: două mii de ani de haos (tohu). Dar a fost creată în ziua întâi lumina, în dreptul miei de ani a zilelor lui Adam, care era lumina lumii, cunoscându-și Creatorul; și poate Enoș (sau „omenirea”) n-a slujit idolilor până ce n-a murit Adam cel dintâi. În ziua a doua: „Să fie un firmament … și să fie despărțitor”, căci în ea au fost despărțiți Noe și fiii lui, cei drepți, de cei răi, care au fost judecați prin ape. În ziua a treia s-a arătat uscatul și a încolțit și a făcut roade: aceasta este a treia mie, care începe când Avraam era de patruzeci și opt de ani; „Atunci a început să fie chemat Domnul pe nume”; și a încolțit odrasla dreptății, căci a atras pe mulți să-L cunoască pe Domnul, cum au tâlcuit: „și sufletele pe care le făcuseră în Haran”; „că va porunci copiilor săi și casei sale după el să păstreze calea Domnului spre a face dreptate și judecată”; și lucrul a crescut până ce urmașii lui au primit Tora la Sinai și s-a zidit Casa în ziua aceea, și atunci s-au împlinit toate poruncile, care sunt roadele lumii. Și să știi că, din vremea amurgului, se socotește ca ziua de mâine; și de aceea chestiunea fiecărei zile începe puțin înaintea ei, așa cum Avraam s-a născut în a doua mie; și tot așa vei vedea în fiecare zi. Iar ziua a patra, în care au fost creați luminătorii, cel mare și cel mic, și stelele – ziua ei face aluzie la a patra mie: ea a început când Prima Casă era zidită de șaptezeci și doi de ani și ține până după a Doua Casă, o sută șaptezeci și doi de ani. Și iată, în ziua aceasta tuturor copiilor lui Israel le-a fost lumină, căci slava Domnului a umplut Casa Domnului, și lumina lui Israel era focul de pe altar, care stătea culcat acolo ca un leu, mâncând jertfele; iar după aceea lumina lor s-a micșorat și au fost exilați, cum lipsește luna la nașterea ei; și le-a răsărit în toate zilele celei de-a Doua Case, iar focul de pe altar stătea culcat ca un câine; și cei doi luminători au apus la seara zilei, și Casa a fost dărâmată. Ziua a cincea – „Să mișune apele de vietăți însuflețite; și zburătoare să zboare deasupra pământului” – face aluzie la a cincea mie, care începe la o sută șaptezeci și doi de ani după dărâmarea Casei; căci în ea vor stăpâni neamurile, iar omul va fi făcut ca peștii mării, ca târâtoarea care n-are stăpân; pe toți îi scoate cu undița, îi târăște în năvodul lui și îi adună în plasa lui, și nu este nimeni care să-L caute pe Domnul. În ziua a șasea, dimineața: „Pământul să scoată la iveală vietăți, fiecare după soiul său: dobitoc, târâtoare și sălbăticiune a pământului, după soiul său”, iar crearea lor a fost înainte de răsăritul soarelui, cum este scris: „Răsare soarele, ele se strâng și se culcă în vizuinile lor”; și atunci a fost creat omul în imaginea lui Dumnezeu, și aceasta este vremea stăpânirii lui, cum s-a spus: „Iese omul la lucrul lui și la munca lui până seara”. Și aceasta este a șasea mie, căci la începutul ei vor stăpâni sălbăticiunile, care sunt împărățiile care nu L-au cunoscut pe Domnul; iar după a zecea parte a ei, cât măsura răsăritului soarelui față de zi, va veni Răscumpărătorul, despre care s-a spus: „și tronul lui ca soarele înaintea Mea”. Acesta este Fiul lui David, făcut în imaginea lui Dumnezeu, cum este scris: „Și iată, cu norii cerurilor venea unul ca un fiu al omului și a ajuns până la Cel Îmbătrânit de zile și l-au apropiat înaintea Lui. Și i s-a dat stăpânire și cinste și împărăție”. Și aceasta va fi la o sută optsprezece după cinci mii, ca să se împlinească cuvântul Domnului din gura lui Daniel: „Și din vremea când va fi îndepărtată jertfa necurmată și va fi pusă urâciunea pustiitoare: o mie două sute nouăzeci de zile”. Și se vede, din schimbarea zilelor, de la mișunatul apelor și de la zburătoare la sălbăticiunea pământului, că la începutul celei de-a șasea mii se va înnoi împărăția unui neam stăpânitor, „înfricoșătoare și foarte puternică”, și mai apropiată de adevăr decât cele dintâi. Ziua a șaptea, Șabatul, face aluzie la lumea ce va veni, care este toată Șabat și odihnă pentru viața veșnică. Și Dumnezeu să ne păzească în toate zilele și să pună partea noastră cu slujitorii Săi cei desăvârșiți."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Citește binecuvântarea ca îndreptată spre toate zilele de Șabat viitoare: fiecare va fi mai pregătită decât zilele obișnuite, înzestrată cu un „suflet în plus” care se bucură de lumina vieții — de aceea, spun înțelepții, „când se sfârșește Șabatul, vai, sufletul acela în plus se pierde”."
+    "text": "«Și a binecuvântat Dumnezeu ziua a șaptea.» A binecuvântat fiecare zi a șaptea din viitor, ca să fie mai pregătită decât celelalte zile, printr-un suflet în plus, ca să fie luminată cu lumina vieții; cum au spus: „Îndată ce s-a odihnit, vai, s-a pierdut sufletul în plus.”"
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "Notează ordinea neobișnuită a ultimelor cuvinte ale versetului — „pe care o crease Dumnezeu spre a fi făcută” (nu doar „pe care o făcuse”): înțelege asta ca declarând scopul creației din cele șase zile — ca, de atunci încolo, fiecare specie să-și continue urmașii, potrivit felului ei."
+    "text": "«Și a binecuvântat.» Binecuvântarea este adăugare de bine; iar ziua Șabatului este adăugată în binele sufletului, care are în această zi odihnă de îndeletnicirile lumii acesteia și se poate îndeletnici cu înțelepciunea și cu cuvintele lui Dumnezeu. Iar Dumnezeu a binecuvântat-o și a sfințit-o când a poruncit copiilor lui Israel să se odihnească în ea și să o sfințească.<br><br>«Și a sfințit-o.» Ca să fie sfântă și deosebită de celelalte zile, pentru că în ea se odihnesc copiii lui Israel; și iată, ea este un semn între ei și Dumnezeu că ei sunt sfinți, păzind Șabatul, care este o mărturie despre înnoirea lumii, și ca să facă cunoscut întregii lumi că lumea nu este din veșnicie, căci Dumnezeu, binecuvântat fie, a înnoit-o în șase zile și S-a odihnit în a șaptea. De asemenea, au spus că este un pește în mare care nu înoată în ziua Șabatului, ci se odihnește toată ziua, sprijinit de uscat sau de o stâncă. Iar înțelepții noștri, binecuvântată fie amintirea lor, au spus despre râul Sambation că în toate zilele săptămânii trage pietre și nisip, iar în ziua Șabatului se odihnește; de aceea îl numesc Sambation. Și la fel au spus: „L-a întrebat Turnus Rufus cel rău pe Rabbi Akiva, în ziua Șabatului, și i-a spus: Ce este o zi mai mult decât alte zile? I-a spus: Și ce este un om mai mult decât alți oameni? etc. I-a spus: De unde știi? I-a spus: râul Sambation va dovedi, căci trage pietre în toate zilele săptămânii, iar în Șabat se odihnește. I-a spus: La ceva care trage mă duci!”. Iată deci că Dumnezeu, binecuvântat fie, a pus în făpturile Lui un semn pentru ziua Șabatului, ca lumea să cunoască prin el înnoirea lumii. Iar învățătorii noștri, binecuvântată fie amintirea lor, au explicat de asemenea „a binecuvântat și a sfințit”: a binecuvântat-o și a sfințit-o prin mană; a binecuvântat-o, căci în ziua a șasea cobora pâine pentru două zile; și a sfințit-o, căci nu cobora mană în Șabat.<br><br>«Pe care o crease Dumnezeu spre a fi făcută.» Spre a fi făcută de aici înainte: El le-a creat în cele șase zile ale creației, ca ele să facă de aici înainte, fiecare soi, urmașii lui, după cum sunt."
+   },
+   {
+    "author": "Talmudul Babilonian, Taanit 26a:7",
+    "text": "În prima zi: „La început” și „Să fie un firmament”; în a doua: „Să fie un firmament” și „Să se adune apele”; în a treia: „Să se adune apele” și „Să fie luminători”; în a patra: „Să fie luminători” și „Să mișune apele”; în a cincea: „Să mișune apele” și „Pământul să scoată”; în a șasea: „Pământul să scoată” și „Și astfel au fost isprăvite cerurile”."
    },
    {
     "author": "Zohar, Itro 27:1",
@@ -922,15 +934,19 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Explică <span class=\"heb-inline\">בְּהִבָּרְאָם</span> („când au fost create”) printr-un joc pe litere: cuvântul ascunde, spun înțelepții, „cu heh le-a creat” — cele două lumi (aceasta și cea viitoare) fiind create cu cele două litere ale Numelui divin (Isaia 26:4, „Domnul, stânca veacurilor”). Lumea aceasta a fost creată cu litera <span class=\"heb-inline\">ה</span>: așa cum heh e deschisă în partea de jos, lumea de-acum e deschisă celor ce se întorc prin pocăință — dar tot pe acolo, jos, coboară și cei răi. Lumea viitoare, în schimb, a fost creată cu <span class=\"heb-inline\">י</span>, litera cea mai mică — semn că drepții ei vor fi puțini la număr."
+    "text": "«Acestea.» Cele spuse mai sus.<br><br>«Istoriile cerurilor și pământului la crearea lor, în ziua facerii de către Domnul.» Te învață că toate au fost create în ziua întâi. Altă explicație: be-hibbaraʾm („la crearea lor”) — be-he beraʾam („cu he i-a creat”), cum se spune: „căci prin Yah (be-Yah), Domnul este Stânca (ṣur) veacurilor” — cu aceste două litere ale Numelui a făurit două lumi. Și te învață aici că lumea aceasta a fost creată cu he, ca aluzie că vor coborî jos ca să vadă groapa, ca acest he, care este închis din toate părțile și deschis jos, ca să se coboare pe acolo."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
-    "text": "Povestește „urmașii” cerului și pământului prin ploaie și creștere — cerurile dau roua și ploaia lor, pământul dă rodul său, iar acestea susțin toată viața. De-abia acum, spune Ramban, poate apărea Numele „Domnul Dumnezeu” (nu doar „Dumnezeu”, ca până aici), ca în Isaia 66:2 și în cuvântul lui Iov: „cine dintre toate acestea nu știe că mâna Domnului a făcut asta?” (Iov 12:9)."
+    "text": "«Acestea sunt istoriile cerurilor și pământului la crearea lor.» Va povesti istoriile cerurilor și pământului prin ploaie și prin creștere, așa cum au fost create și făcute după rânduiala lor; căci cerurile își vor da roua și ploaia, iar pământul își va da rodul, și ele sunt dăinuirea a tot ce e viu. Și a făcut aluzie, în be-hibbareʾam („la crearea lor”), la ceea ce au spus: be-he bereʾam („prin he i-a creat”); și din această pricină n-a amintit până aici decât cuvântul Elohim. Și se explică în Scriptură: „Și toate acestea mâna Mea le-a făcut”; și tot așa a spus Iov: „Cine nu știe, din toate acestea, că mâna Domnului a făcut aceasta?”. Dacă este așa, „în ziua facerii de către Domnul Dumnezeu” face aluzie la cuvântul bereșit, cum am spus."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Citește „urmașii” ca desemnând plantele și viețuitoarele deja pomenite: de la creație încoace, ele poartă în ele puteri prin care nasc și pier alte forme asemenea lor. „În ziua în care Domnul Dumnezeu a făcut pământ și cer” înseamnă, pentru el, ziua în care a rânduit guvernarea statornică a pământului din ceruri — de-abia atunci e numit „Domnul Dumnezeu”, Cel ce rânduiește neîncetat existența."
+    "text": "«Acestea sunt istoriile cerurilor și pământului la crearea lor.» Aceste plante și viețuitoare despre care am vorbit erau istoriile (tolodot) cerurilor și pământului, prin puterea care se afla în ele din clipa în care au fost create; căci de atunci s-au aflat în ele puteri care lucrează și care primesc lucrarea, pentru ființarea celor care iau ființă și pier; cum au spus: „«cerurile»: ca să includă urmașii lor; «și pământul»: ca să includă urmașii lui”. Însă ele au ieșit la act<br><br>«În ziua facerii de către Domnul Dumnezeu a pământului și cerurilor.» În ziua în care a rânduit conducerea pământului și a urmașilor lui de către ceruri, într-o rânduială statornică, și aceasta a fost după cele șase zile ale creației; și atunci a fost numit „Domnul Dumnezeu”, care, prin rânduiala Lui, face statornică ființarea."
+   },
+   {
+    "author": "Talmudul Babilonian, Hagiga 12a:16",
+    "text": "Au învățat rabinii: Casa lui Șammai spune: Cerurile au fost create întâi și după aceea a fost creat pământul, căci s-a spus: „La început, când a creat Dumnezeu cerurile și pământul”. Iar Casa lui Hillel spune: Pământul a fost creat întâi și după aceea cerurile, căci s-a spus: „în ziua facerii de către Domnul Dumnezeu a pământului și cerurilor”."
    },
    {
     "author": "Zohar, Bereșit 19:1",
@@ -1297,15 +1313,19 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Explică absența ploii printr-un motiv surprinzător: plantele erau create în potențial, gata sub pământ (v. 1:11-12), dar n-au ieșit la iveală pentru că nu exista încă om care să se roage pentru ploaie — recunoștința și rugăciunea omului, spune Rashi, sunt parte din motivul pentru care Dumnezeu trimite ploaia. Abia când omul e creat (v. 7) și înțelege nevoia de ploaie, pământul primește umezeala necesară."
+    "text": "«Nu era încă pe pământ.» Orice ṭerem din Scriptură înseamnă „încă nu”, și nu înseamnă „înainte de”; și nu se conjugă ca să spui hiṭrim, așa cum se spune hiqdim („a făcut înainte”). Versetul acesta dovedește, și încă unul: „încă nu vă temeți”, adică încă nu vă temeți. Și pe acesta să-l explici așa: încă nu era pe pământ, când s-a încheiat crearea lumii în a șasea, înainte să fie creat omul; „și nicio iarbă a câmpului nu încolțise încă” — încă nu încolțise. Iar în a treia, unde este scris „Să rodească pământul”, nu ieșiseră, ci stăteau la deschizătura pământului până în ziua a șasea.<br><br>«Pentru că nu dăduse ploaie.» Și care este pricina că nu dăduse ploaie? Pentru că „om nu era să muncească pământul”, și nu era nimeni care să recunoască binele ploilor. Iar când a venit omul și a știut că ele sunt de trebuință lumii, s-a rugat pentru ele, și au coborât, și au răsărit pomii și verdețurile.<br><br>«Domnul Dumnezeu.» Domnul (YHVH) este Numele Lui; Dumnezeu (Elohim), pentru că El este stăpânitor și judecător peste toate. Și așa este explicația aceasta în orice loc, după sensul ei simplu: Domnul, care este Dumnezeu."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Explică „tot copăcelul câmpului” ca desemnând, de fapt, un pom — comparabil cu „printre copăcei zbiară” (Iov 30:7) — și crede că se referă anume la pomul roditor, de vreme ce omul însuși e asemuit adesea, în Scriptură, cu un pom."
+    "text": "«Și niciun tufiș (śiaḥ).» Pom; și tot așa „printre tufișuri (śiḥim) răgesc”; iar după părerea mea este pom roditor, pentru că omul a fost asemănat cu un pom; și iată: śiaḥ, și niv, și seʿif, și bad, și amir, și sarʿappah."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Explică „nu era încă pe pământ” prin distincția putere/act: la creație, plantele existau doar în potență, nu încă în fapt — de aceea „tot copăcelul câmpului” nu era încă pe pământ, și „toată iarba câmpului” nu încolțise încă."
+    "text": "«Nu era încă pe pământ.» Însă motivul este că, la crearea lor, se aflau în potență și nu în act, astfel încât niciun tufiș al câmpului nu era încă pe pământ, și tot așa nicio iarbă a câmpului nu încolțise încă.<br><br>«Pentru că nu dăduse ploaie.» Astfel încât materia nu era pregătită desăvârșit pentru aceasta, din lipsa ploii și a lucrării pământului."
+   },
+   {
+    "author": "Talmudul Babilonian, Hulin 60b:5",
+    "text": "Rav Assi a pus în contradicție: Este scris: „Și pământul a produs vegetație” — în ziua a treia; și este scris: „Și niciun tufiș al câmpului nu era încă pe pământ” — în ajunul Șabatului. Învață că ierburile au ieșit și au stat la deschizătura pământului până a venit Adam cel dintâi și a cerut îndurare pentru ele, și au coborât ploi și au încolțit; ca să te învețe că Sfântul, binecuvântat fie El, dorește rugăciunea celor drepți."
    },
    {
     "author": "Zohar, Bereșit 21:2",
@@ -1531,15 +1551,19 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Explică rolul aburului în vederea creării omului: a ridicat apa din adânc și a înmuiat țărâna, pregătind-o pentru plămădire — ca un brutar care toarnă mai întâi apă și abia apoi frământă aluatul. Tot așa, spune Rashi, mai întâi „a udat”, și abia apoi „a plămădit” (v. 7)."
+    "text": "«Ci un abur se ridica.» Cu privire la crearea omului: a ridicat adâncul și a adăpat norii, ca să înmoaie țărâna, și a fost creat omul. Ca frământătorul acesta, care pune apă și după aceea frământă aluatul — tot așa și aici: „adăpa”, și după aceea „a plăsmuit”."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Explică „abur” ca fiind, propriu-zis, „fum” — folosit și în expresia „ziua nenorocirii lor”, unde o zi rea e numită „zi de nor și negură”. Crede că aburul s-a ridicat din pământ prin puterea luminătorilor, udând și făcând să crească pământul — deși Saadia Gaon citea versetul altfel, negativ: „niciun abur nu se ridica din pământ”."
+    "text": "«Ci un abur (we-ed).» Ca fumul; și ca el „ziua nenorocirii (eidam) lor”, căci ziua cea rea se numește „zi de nor și de negură”. Iar sensul este că s-a ridicat un abur din pământ prin puterea luminătorilor și a adăpat pământul și l-a făcut să răsară. Iar Gaonul a spus că explicația lui este „și nici abur nu se ridica din pământ”."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Explică norul de abur ca fiind, de fapt, o rouă binecuvântată — parte a rânduielii firești, puse acum în mișcare: ea a udat pământul îndeajuns cât să rodească și să crească vegetația, fără ploaie și fără lucrarea omului."
+    "text": "«Ci un abur se ridica din pământ și adăpa.» Iar „în ziua facerii”, când le-a rânduit într-o rânduială statornică, un abur s-a ridicat din pământ, care a fost rouă spre binecuvântare, care a udat pământul și l-a făcut să nască și să încolțească, fără ploaie și fără lucrarea pământului."
+   },
+   {
+    "author": "Talmudul Babilonian, Roș Hașana 11a:3",
+    "text": "S-a învățat: Rabbi Eliʿezer spune: De unde știm că în Tișri a fost creată lumea? Căci s-a spus: „Și Dumnezeu a spus: Să rodească pământul vegetație: iarbă roditoare de sămânță, pom roditor” — care este luna în care pământul scoate vegetație și pomul este plin de roade? Spune: aceasta este Tișri. Și acel timp era vremea reviʿei, și au coborât ploi și au încolțit, căci s-a spus: „ci un abur se ridica din pământ”."
    },
    {
     "author": "Zohar, Bereșit 42:6",
@@ -1751,19 +1775,23 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Explică de unde a fost luat țărâna: din tot pământul, din toate cele patru direcții — pentru ca, oriunde ar muri un om, pământul de acolo să-l poată primi la înmormântare. O altă tradiție citată de Rashi: țărâna ar fi fost luată chiar din locul unde avea să fie, mai târziu, altarul (Exod 20) — „poate va sluji ca ispășire pentru el, și va putea sta [în picioare]”."
+    "text": "«L-a plăsmuit (va-yyiṣer).» Două plăsmuiri: o plăsmuire pentru lumea aceasta și o plăsmuire pentru învierea morților. Dar la vită, care nu va sta la judecată, nu este scris la plăsmuirea ei cu doi yod.<br><br>«Țărână din pământ.» A adunat țărâna lui din tot pământul, din cele patru vânturi, pentru ca, în orice loc în care va muri, acolo pământul să-l primească spre îngropare. Altă explicație: a luat țărâna lui din locul despre care s-a spus: „Un altar de pământ să Îmi faci” — o, de-ar fi pentru el ispășire, ca să poată dăinui!<br><br>«A insuflat în nările sale.» L-a făcut din cei de jos și din cei de sus: trupul din cei de jos și suflarea (neșamah) din cei de sus. Căci în ziua întâi au fost create cerurile și pământul; în a doua a creat întinderea pentru cei de sus; în a treia, „să se arate uscatul”, pentru cei de jos; în a patra a creat luminătorii pentru cei de sus; în a cincea, „să mișune apele”, pentru cei de jos. A trebuit ca în a șasea să creeze în ea din cei de sus și din cei de jos; iar dacă nu, ar fi fost gelozie în lucrarea creației, ca unii să fie mai mulți decât alții prin crearea unei zile.<br><br>«Suflet viu.» Și vita, și animalul (sau „fiara sălbatică”) au fost numite „suflet viu”, dar acesta al omului este cel mai viu dintre toate, căci i s-au adăugat cunoștință și vorbire."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Explică „în nările lui”: prin ele omul trăiește, scoțând afară aerul cald încălzit de inimă și aducând înăuntru aer proaspăt — o observație aproape fiziologică despre respirație."
+    "text": "«L-a plăsmuit (wa-yyiṣer).» Prin puterea luminătorilor. Iar wa-yyiṣer este dintre verbele a căror primă radicală este yod, din conjugarea ușoară, ca „și Noe s-a trezit (wa-yyiqeṣ)”.<br><br>Iar sensul lui «în nările sale»: că prin ele trăiește omul, căci ele scot aerul cald din căldura inimii și aduc alt aer.<br><br>Iar sensul lui «suflet viu»: că a mers îndată, ca viețuitoarele, și nu ca pruncii."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
-    "text": "Ramban vede în această frază taina și rădăcina sufletului: Scriptura folosește aici Numele deplin al lui Dumnezeu și spune că El Însuși „a suflat în nările lui suflare de viață” — arătând că sufletul omului nu vine din elemente, ca „sufletul mișcării” pomenit mai devreme la pești și vietăți, și nici dintr-un lanț de emanații ale unor inteligențe despărțite, ci este chiar duhul Numelui celui mare, „din gura Lui”, cunoaștere și înțelegere, ca în Iov 32:8: „suflarea Celui Atotputernic le dă pricepere”.<br><br>Discută păreri diferite despre alcătuirea sufletului omenesc — unii vorbesc de trei suflete distincte (vegetal, al mișcării, rațional), alții (ca Maimonide) de un singur suflet cu trei puteri. Citit simplu, versetul spune că Dumnezeu îl plăsmuise pe om din țărână, ca un bulgăre inert, iar apoi a suflat în el suflarea de viață, astfel încât omul „s-a întors” să fie „suflet viu”, mișcător ca animalele și peștii numiți așa mai devreme. Onkelos traduce însă „duh grăitor” — sugerând că sufletul rațional suflat acum i-a dat omului tocmai puterea vorbirii; Ramban sprijină asta cu o povestire din Talmud (Sanhedrin 65b), despre un om creat prin taine cabalistice, care nu putea vorbi, semn că-i lipsea tocmai acest duh."
+    "text": "«și a insuflat în nările sale suflare de viață.» Versetul acesta ne face aluzie la înălțimea sufletului, la temelia lui și la taina lui, căci a amintit la el Numele deplin și a spus că El a suflat în nările sale suflare de viață, ca să facă cunoscut că nu a venit în el din elemente, cum a făcut aluzie la sufletul mișcării, și nici prin înlănțuire de la intelectele separate; ci el este duhul Numelui celui mare: „din gura Lui sunt cunoașterea și priceperea”; căci cel care suflă în nările altuia dă în el din suflarea lui. Și aceasta este ce s-a spus: „și suflarea Celui Atotputernic îi face să priceapă”, căci el este din temelia Priceperii, pe calea adevărului și a credinței. Și aceasta este spusa lor în Sifre: Jurămintele de abținere sunt ca cel ce jură pe viața regelui; jurămintele – ca cel ce jură pe regele însuși; deși nu este dovadă pentru lucru, este o amintire pentru lucru: „Viu este Domnul și viu este sufletul tău” etc.. Iar în midrașul lui Rabbi Neḥunya ben ha-Qana: Ce este wa-yinnafaš? Ne învață că ziua de Șabat ține în viață toate sufletele, cum s-a spus: wa-yinnafaš. Și de aici vei înțelege „cuvântul jurământului lui Dumnezeu”; și cel înțelept va înțelege. Și să știi că cei ce se înțelepțesc prin cercetare s-au împărțit în privința omului. Unii dintre ei spun că în om sunt trei suflete: sufletul creșterii, ca la plantă – sau spune, la acesta, puterea creșterii –; și în el este mai departe sufletul mișcării, pe care Scriptura l-a amintit la pești și la sălbăticiune și la tot ce se mișcă pe pământ; iar al treilea este sufletul cugetător. Iar alții dintre ei spun că acest suflet care este în om, din gura Celui Preaînalt, are în el aceste trei puteri, și numai el este unic. Iar versetul acesta, după înțelesul lui, face aluzie la aceasta, căci spune că Numele l-a plăsmuit pe om, țărână din pământ, și zăcea ca un bulgăre, ca o piatră neînsuflețită, iar Cel Sfânt, binecuvântat fie El, a suflat în nările lui suflare de viață, și atunci omul a devenit „suflet viu”, care se mișcă prin el ca sălbăticiunile și peștii, despre care a spus: „Să mișune apele de vietăți însuflețite (nefeš ḥayya)” și „Pământul să scoată la iveală vietăți (nefeš ḥayya)”. Și acesta este sensul lui le-nefeš ḥayya („suflet viu”), adică omul a devenit un suflet în care este viață, după ce fusese un ciob printre cioburile pământului; căci litera lamed vine la prefaceri, ca în „se va preface în sânge (le-dam), pe uscat”; „și el a devenit șarpe (le-naḥaš)”; „și a făcut din mare uscat (le-ḥarava)”. Dar Onkelos a spus: we-hawat be-Adam le-ruaḥ memallela („și a fost în om duh vorbitor”); se vede că părerea lui este ca a celor care spun că sunt suflete diferite, iar acest suflet cugetător, pe care Numele l-a suflat în nările lui, a devenit în el suflet vorbitor. Și așa mi se pare și din părerea învățătorilor noștri, din ceea ce au spus: Rava a creat un om și l-a trimis înaintea lui Rabbi Zeira; acesta îi vorbea, și el nu-i răspundea; a spus: Ești de la tovarăși; întoarce-te în țărâna ta. Iar în Vayiqra Rabba: A spus Rabbi Avin: În ceasul în care omul doarme, trupul îi spune sufletului (nešama), sufletul (nešama) îi spune sufletului (nefeš), iar sufletul (nefeš) îi spune îngerului. Și tot așa „duhul lui și suflarea lui le-ar strânge la Sine” arată, după înțelesul lui, că sunt două. Și dacă este așa, Scriptura spune: „Domnul Dumnezeu l-a plăsmuit pe om” – o plăsmuire a mișcării, căci omul a fost plăsmuit, adică ființă cu mișcare; căci plăsmuirea este viața și simțirea din ei, care este omul, nu hotarul țărânii; și cum a spus: „Și Domnul Dumnezeu a plăsmuit din pământ toate vietățile câmpului și toate păsările cerurilor și le-a adus la om”. Și după ce l-a plăsmuit cu simțire, a suflat în nările lui suflare de viață din gura Celui Preaînalt, ca să adauge acest suflet la plăsmuirea amintită, și omul a devenit tot suflet viu; căci prin acest suflet va înțelege și va vorbi și prin el va face orice faptă, iar toate sufletele și puterile lor vor fi ale lui. Și acest lamed este lamed-ul posesiunii, ca în „domnul meu, rege, al tău (lekha) sunt eu și tot ce am”; „la cel care a cumpărat-o (la-qone) și la urmașii lui”; „al Tău (lekha) sunt eu, mântuiește-mă”; sau va spune că a devenit tot suflet viu și s-a prefăcut în alt om, căci toate plăsmuirile lui erau acum ale acestui suflet."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Sforno subliniază că, spre deosebire de celelalte viețuitoare, plăsmuirea omului a cerut un procedeu aparte: pentru el, Dumnezeu a ales anume o parte aleasă, „de cinste”, din țărâna pământului. Suflarea de viață i-a dat un suflet pregătit să primească chipul lui Dumnezeu — dar, subliniază Sforno, omul a rămas doar „viu”, nu încă „grăitor”, până când avea să fie creat, mai departe, după chip și asemănare (v. 1:26-27)."
+    "text": "«Domnul Dumnezeu l-a plăsmuit.» Însă pentru ființarea viețuitoarelor aceasta nu a fost îndestulătoare, ci plăsmuirea făcută de Plăsmuitorul, binecuvântat fie El, a fost în feluri schimbătoare; și aceasta pentru că, pentru plăsmuirea omului, a ales țărână din pământ, o parte aleasă din el.<br><br>«Și a insuflat în nările sale suflare de viață.» Un suflet vital, pregătit să primească imaginea lui Dumnezeu, cum a spus: „și suflarea Celui Atotputernic le dă pricepere”. Oricum, „și omul a devenit suflet viu”: cu toate acestea, era doar viu, nevorbitor, până ce a fost creat în imagine și asemănare."
+   },
+   {
+    "author": "Talmudul Babilonian, Sanhedrin 39a:7",
+    "text": "I-a spus împăratul lui Rabban Gamliel: Cel care a creat munții nu a creat vântul, căci s-a spus: „Căci iată, Cel care plăsmuiește munții și creează vântul”. Ci de acum, la om, despre care este scris „a creat” și „a plăsmuit”, tot așa: cel care l-a creat pe acesta nu l-a creat pe acesta?"
    },
    {
     "author": "Zohar, Toldot 5:1",
@@ -1775,7 +1803,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Josephus explică etimologia numelui „Adam”: „Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă «roșu», pentru că a fost plăsmuit din pământ roșu — căci din acest fel este pământul virgin, adevărat.” O explicație extra-biblică, dar veche și larg citată, a numelui legat de culoarea lutului/pământului din care a fost plăsmuit."
+    "text": "Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă cel roșu, pentru că a fost alcătuit din pământ roșu, frământat laolaltă; căci de acest fel este pământul fecioresc și adevărat."
    },
    {
     "author": "Grigorie de Nazianz, Imnuri dogmatice 7",
@@ -2006,15 +2034,19 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Explică <span class=\"heb-inline\">מִקֶּדֶם</span> („dinspre răsărit”): grădina a fost sădită la răsăritul Edenului. Rashi observă și o problemă de ordine: dacă omul fusese deja creat (1:27), de ce se vorbește iarăși despre plăsmuirea lui? Răspunde printr-o regulă de interpretare rabinică: un verset general, urmat de o „faptă”, e doar detalierea celui dintâi — „a creat Dumnezeu pe om” (1:27) e afirmația generală, iar „a plăsmuit Domnul Dumnezeu...” (2:7 și urm.) e amănuntul ei, nu o a doua creare."
+    "text": "«La răsărit.» În răsăritul Edenului a sădit grădina. Iar dacă vei zice: iată, deja a scris „Și a creat Dumnezeu pe om” etc. — am văzut în baraita lui Rabbi Eliʿezer, fiul lui Rabbi Yose ha-Gelili, despre cele 32 de reguli prin care se tâlcuiește Tora, și aceasta este una dintre ele: un general urmat de o faptă este particularul celui dintâi. „Și a creat Dumnezeu pe om” — acesta este generalul; a lăsat nelămurit din ce a fost creat și a lăsat nelămurite faptele lui. Apoi a revenit și a explicat: „Domnul Dumnezeu l-a plăsmuit” etc., a făcut să răsară pentru el grădina Edenului, l-a așezat în grădina Edenului și a făcut să cadă asupra lui un somn profund. Cel ce aude crede că este o altă faptă, dar nu este decât particularul celei dintâi. Și tot așa la vite: a revenit și a scris: „Domnul Dumnezeu a plăsmuit” etc. „din pământ toate vietățile câmpului”, ca să explice „și le-a adus la om ca să le pună nume”, și ca să învețe despre păsări că au fost create din mâl."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
-    "text": "Ramban explică „a sădit” nu ca aducere a unor pomi din altă parte, ci ca poruncă dată exact acelui loc să rodească într-o rânduială aleasă, ca un strat de grădină, spre deosebire de restul pământului, unde vegetația a crescut fără ordine anume (v. 1:11). Pomii Edenului, adaugă el, au fost rânduiți să rodească veșnic, fără să îmbătrânească și fără să aibă nevoie de plugar — căci, după alungarea omului, cine i-ar fi lucrat? „Să o lucreze și s-o păzească” (v. 15) privește, deci, straturile de grâne, ierburi și mirodenii pe care omul avea să le semene el însuși în grădină, nu pomii înșiși."
+    "text": "«Domnul Dumnezeu a plantat o grădină în Eden, la răsărit.» Rashi a explicat: la răsăritul Edenului a sădit grădina. Iar Onkelos a tradus mi-le-qadmin („de la început”), și așa au spus în Bereșit Rabba, și aceasta este corect. Și nu este sensul lui „a plantat” că a adus copacii din alt loc și i-a sădit acolo, căci din locul acela i-a făcut să crească, cum s-a spus: „Și Domnul Dumnezeu a făcut să răsară” etc. Ci chestiunea lui „Domnul Dumnezeu a plantat” este să spună că erau sădirea Domnului: căci, înainte de a hotărî asupra pământului „Să rodească pământul vegetație”, a hotărât în locul acela să fie acolo o grădină și a spus: „Aici va fi copacul cutare și aici copacul cutare”, ca un strat de răsaduri; și nu a fost ca în celelalte locuri ale pământului, unde a spus: „Să rodească pământul vegetație … pom roditor”, și l-a făcut să crească fără ordine. Și iată, despre copacii grădinii Eden a hotărât să facă ramuri și să poarte rod pe veci; nu va îmbătrâni în pământ rădăcina lor și nu va muri în țărână trunchiul lor; nu au nevoie de lucrător și de curățitor; căci dacă ar fi avut nevoie de lucrare, după ce a fost alungat omul de acolo, cine i-ar fi lucrat? Și acesta este și sensul lui „Domnul Dumnezeu a plantat”: că erau sădirile Lui, lucrarea mâinilor Lui, și dăinuie pe veci, cum s-a spus: „frunza lui nu se va veșteji și rodul lui nu se va sfârși” etc., „căci apele lui ies din Sanctuar”. Dacă este așa, care este sensul lui „l-a așezat în grădina Edenului, ca s-o lucreze și s-o păzească”? Că l-a așezat acolo ca să-și semene grâu și feluri de cereale și orice iarbă care face sămânță, și straturi de mirodenii, și să secere, să culeagă și să mănânce după voia lui. Și acesta este sensul lui „ca s-o lucreze și s-o păzească”: să lucreze pământul grădinii, straturile pe care le va face acolo; căci grădina, adică copacii, nu sunt lucrați. Și se poate că a numit grădina la feminin, ca în „și ca o grădină (ganna) care face să răsară semănăturile ei”; „și sădiți grădini (gannot)”. Iar învățătorii noștri au luat seama la aceasta și au spus în Bereșit Rabba: „s-o lucreze și s-o păzească” – acestea sunt jertfele, cum s-a spus: „Îl veți sluji pe Dumnezeu”; aceasta este ce este scris: „să aveți grijă (tišmeru) să o aduceți pentru Mine la sorocul ei”. Iar intenția lor în aceasta este să spună că plantele și toate viețuitoarele au nevoie de puterile dintâi – altă versiune: cele de sus – și de la ele le vine creșterea, iar prin jertfe va fi atragerea binecuvântării către cei de sus, și de la ei către plantele grădinii Eden, și din ele vor fi și vor trăi pe veci, prin ploi de bunăvoință și binecuvântare, prin care vor crește; cum au spus: „Se satură copacii Domnului, cedrii Libanului pe care i-a sădit” – a spus Rabbi Ḥanina: se satură viața lor, se satură apele lor, se satură sădirile lor; căci „viața lor” sunt temeliile lor de sus, iar „apele lor” – vistieria Lui cea bună, care coboară ploaia, iar „sădirile lor” – puterea lor în ceruri, cum au spus: Nu ai niciun fir de iarbă jos care să nu aibă pe firmament o constelație care îl lovește și îi spune: Crește!, cum s-a spus: „Cunoști tu legile cerurilor? Pui tu stăpânirea lor pe pământ?”"
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Sforno leagă plăsmuirea din v. 7 direct de sădirea grădinii: după ce l-a plăsmuit pe om în acel chip ales, Dumnezeu l-a așezat într-un loc pregătit anume să primească chipul divin și lucrările lui raționale, prin aerul și hrana potrivite acolo."
+    "text": "«Pe omul pe care îl plăsmuise.» După ce l-a plăsmuit în acel fel ales pe care l-a amintit, l-a așezat acolo, ca acela să fie un loc pregătit pentru primirea imaginii lui Dumnezeu și pentru lucrările ei intelectuale, prin aer și prin hrană."
+   },
+   {
+    "author": "Talmudul Babilonian, Pesahim 54a:10",
+    "text": "Grădina Edenului, căci este scris: „Domnul Dumnezeu a plantat o grădină în Eden, la răsărit”; Gheena, căci este scris: „Căci Tofetul este pregătit de ieri.”"
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -2260,19 +2292,19 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Explică „pomul cunoștinței” printr-o observație gramaticală: forma cere, după părerea lui, un cuvânt subînțeles — „cunoștința binelui și răului” — la fel cum alte perechi asemănătoare din Scriptură subînțeleg o legătură similară între cele două cuvinte alăturate."
+    "text": "«Și Domnul Dumnezeu a făcut să răsară.» Iar în vremea când a făcut să răsară orice pom din pământ, așa a răsărit și în grădină; și încă, în mijlocul ei, doi pomi.<br><br>«Și Pomul Cunoașterii.» După părerea mea trebuie adăugat „cunoașterea”, ca să fie așa: „și pomul cunoașterii (ha-daʿat), cunoașterea binelui și răului”; căci cum ar fi în stare construită, când este determinat de la început? Și tot așa ha-aron ha-berit, we-ha-nevuʾah ʿOded ha-navi, și multe ca acestea."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
-    "text": "Discută și respinge o interpretare veche, potrivit căreia rodul Pomului Cunoașterii ar fi „dat naștere” dorinței sexuale (de aceea, spun unii, și-au acoperit goliciunea abia după ce au mâncat din el). Ramban consideră asta greșită: „cunoașterea binelui și răului” dobândită prin mâncarea din pom nu înseamnă instinct sexual, ci capacitatea de a alege liber între bine și rău — o calitate morală nouă, nu una biologică. Înainte de a mânca, spune el, Adam și Eva acționau „din fire”, ca cerurile și corpurile cerești, fără voință proprie de a alege binele sau răul."
+    "text": "«și Pomul Vieții în mijlocul grădinii și Pomul Cunoașterii Binelui și Răului.» Pentru că Scriptura a spus: „și Pomul Vieții în mijlocul grădinii”, și n-a spus „în grădină”, și apoi a spus: „Dar din rodul pomului care este în mijlocul grădinii, Dumnezeu a spus: Să nu mâncați din el”, unde nu l-a amintit și nu l-a făcut cunoscut cu alt nume, vom spune, după sensul simplu, că este un loc cunoscut în grădină, care este la mijloc; și de aceea a tradus Onkelos: bi-mṣiʿut ginneta („în mijlocul grădinii”). Și iată, după cuvintele lui, Pomul Vieții și Pomul Cunoașterii erau amândoi la mijloc; și dacă este așa, vom spune că este ca și cum ai face în mijlocul grădinii un strat îngrădit și în el acești doi copaci, și acest mijloc va fi un mijloc larg; căci despre mijlocul exact au spus deja că nimeni nu cunoaște adevărul punctului în afară de Numele singur. Iar Pomul Vieții este un copac al cărui rod dă celor ce îl mănâncă viață lungă. „Și Pomul Cunoașterii Binelui și Răului” – au spus comentatorii că rodul lui stârnea pofta împreunării, și de aceea și-au acoperit goliciunea după ce au mâncat din el; și au adus pentru el ceva asemănător în această expresie: cuvântul lui Barzilai din Galaad: „Mai deosebesc eu binele de rău?”, căci încetase la el acea poftă. Și nu este corect după mine, pentru că a spus: „și veți fi asemenea lui Dumnezeu, cunoscând binele și răul”. Și dacă vei spune că l-a mințit, iată: „Și Domnul Dumnezeu a spus: Iată, omul a devenit precum Cel Unic dintre noi, cunoscând binele și răul”; și au spus deja: Trei au spus adevărul și au pierit din lume, și aceștia sunt: șarpele, iscoadele și Doeg edomitul din Beerot. Iar ceea ce este frumos în ochii mei este că omul făcea prin firea lui ce se cuvine să facă, potrivit naturii, așa cum fac cerurile și toată oștirea lor, lucrători ai adevărului, a căror lucrare este adevăr, și nu-și schimbă rânduiala, și nu au în faptele lor iubire sau ură; iar rodul acestui copac stârnea voința și dorința, ca cei ce îl mănâncă să aleagă un lucru sau opusul lui, spre bine sau spre rău; și de aceea s-a numit „Pomul Cunoașterii Binelui și Răului”, căci „cunoaștere” (daʿat) se spune în limba noastră despre voință, ca în expresia lor: n-au învățat aceasta decât când gândul lui (daʿato) este să se întoarcă, și când gândul lui este să-l golească; iar în limba Scripturii: „ce este omul, ca să-l cunoști?” – să-l dorești și să-l vrei; „Te voi cunoaște pe nume” – te-am ales dintre toți oamenii. Și tot așa cuvântul lui Barzilai: „Mai deosebesc eu binele de rău?”, căci pierise la el puterea gândirii, nu mai alegea un lucru și nici nu se scârbea de el, și mânca fără să guste și asculta fără să se desfete de cântec. Și iată, în vremea aceasta nu era între Adam și soția lui împreunarea din poftă, ci în vremea nașterii se uneau și nășteau; și de aceea toate mădularele erau în ochii lor ca fața și mâinile, și nu se rușinau de ele. Și iată, după ce a mâncat din copac, a fost în mâna lui alegerea, și în voia lui să facă rău sau bine, fie pentru sine, fie pentru alții; și aceasta este o însușire dumnezeiască dintr-o parte, și rea pentru om, întrucât are prin ea înclinație și poftă. Și poate Scriptura a țintit la această chestiune când a spus: „Dumnezeu l-a făcut pe om drept, dar ei au căutat multe socoteli”: „dreptatea” este că se ține de o singură cale dreaptă, iar „au căutat multe socoteli” – că își caută fapte schimbătoare, prin alegere din partea lui. Și când i-a poruncit Cel Sfânt, binecuvântat fie El, despre copac, să nu mănânce din el, nu i-a făcut cunoscut că în el este această însușire, ci i-a spus simplu: „din rodul pomului care este în mijlocul grădinii”, adică cel cunoscut prin poziția lui la mijloc, să nu mănânci din el; și aceasta este spusa femeii către șarpe. Iar versetul care a spus: „dar din Pomul Cunoașterii Binelui și Răului, să nu mănânci din el” – Scriptura ni l-a amintit nouă cu numele lui."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Sforno leagă cei doi pomi de facultățile omului: „pomul vieții” aduce belșug fără trudă, iar priveliștea „plăcută la vedere” pregătește inima să primească înțelepciunea (ca la 1 Samuel 16:23, unde muzica lui David pregătea venirea Duhului peste Saul); „pomul cunoștinței” trezește în om grija pentru bine și rău, ca într-o rudenie apropiată — de aceea „a cunoaște” înseamnă aici a alege ce e plăcut chiar dacă dăunează, sau a respinge ce nu-i plăcut chiar dacă folosește."
+    "text": "«A făcut să răsară.» Hrana lui, fără trudă.<br><br>«Plăcut la vedere.» Care înveselește și lărgește inima, ca să-l pregătească pentru primirea revărsării intelectuale, cum a spus: „Și a fost, când cânta cântărețul, că mâna Domnului a fost peste el.”<br><br>«Pomul Cunoașterii (daʿat).» Care îndeamnă să-ți pui inima la bine și la rău; și din aceasta este „Omul a cunoscut-o (yadaʿ)”: și-a pus inima la ea; și din aceasta ruda este numită modaʿ, cum a spus: „o rudă (modaʿ) a soțului ei”, căci obiceiul lui este să-și pună inima la nevoile rudei lui, cum a spus: „iar fratele se naște pentru vremea de necaz”.<br><br>«Binelui și Răului.» Să aleagă ceea ce este plăcut, chiar dacă vatămă, și să disprețuiască ceea ce nu este plăcut, chiar dacă folosește."
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Grădina era udată de un singur fluviu care își poartă apele de jur împrejurul pământului și se împarte în patru brațe. Din el curge Phison (ceea ce înseamnă „mulțime”) înspre India; Eufratul se cheamă Phora, având sensul de „revărsare” sau „floare”; Tigris sau Diglath se traduce prin „îngust și repede”. În sfârșit, Geon, care curge de-a lungul Egiptului, înseamnă „din răsărit mânându-și apele spre noi”; grecii îl numesc Nil."
+    "text": "Numele Eufrat, sau Frat, înseamnă fie o risipire, fie o floare; prin Tiris, sau Diglat, se înțelege ceea ce este iute, cu îngustime; iar Gheon curge prin Egipt și înseamnă ceea ce se ridică dinspre răsărit, pe care grecii îl numesc Nil."
    },
    {
     "author": "Grigorie de Nazianz, Cuvântări teologice 29.20",
@@ -2479,11 +2511,11 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Notează că, înainte ca omul să fi fost creat, râul uda deja grădina în toate direcțiile — cuvântul „căpetenii” (roșim) vine de la aceeași rădăcină ca „la căpătâiul vostru”, cu sensul de parte de frunte, de cinste."
+    "text": "«Și un fluviu.» Și înainte să fie creat omul, fluviul uda grădina în toate părțile.<br><br>Iar alef din cuvântul rašim („brațe”) este din rădăcină, și se vede în cuvântul meraʾašotekhem; iar sensul lui este ce este cinstit, capul."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Vede în acest râu semnul unei rodnicii fără trudă: grădina era udată fără nevoia ploilor și fără osteneala lucrării omului."
+    "text": "«Și un fluviu iese din Eden.» Fără truda ploilor și fără lucrarea omului."
    },
    {
     "author": "Zohar, Bereșit 21:18",
@@ -2715,19 +2747,19 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Identifică Pișon cu Nilul Egiptului: numele ar veni de la faptul că apele lui „se înmulțesc” și cresc, udând pământul — sau, după o altă explicație, de la inul cultivat pe malurile lui, ca în Isaia 19:9, despre „lucrătorii inului” egipteni."
+    "text": "«Pison.» Acesta este Nilul, râul Egiptului („Mițrayim”). Și pentru că apele lui sunt binecuvântate și cresc și udă pământul, se numește Pison, ca în „călăreții lui se răspândesc (u-fașu)”. Altă explicație: Pison, pentru că face să crească inul (piștan), cum se spune despre Egipt: „cei ce lucrează inul”."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Discută identificarea Pișonului: citează pe Saadia Gaon, care-l socotea Nilul Egiptului, și aduce argumente geografice — dar recunoaște cinstit că traducerea numelor de țări, popoare și pietre din Tora rămâne adesea nesigură, „fără nicio tradiție sigură” de sprijin."
+    "text": "«Numele celui dintâi.» A spus Gaonul că Pison este Fluviul Egiptului („Mițrayim”). Și se știe că Ghihon este aproape de Țara lui Israel, căci așa este scris: „și coborâți-l la Ghihon”, și el vine din partea de răsărit-miazăzi; și tot așa Eufratul, și el este capătul hotarului țării în partea de răsărit. Iar comentatorii au spus că Hidechel este celălalt fluviu, care trece pe la Bagdad împreună cu fluviul Eufrat; dacă așa, iată, toți trei sunt la răsărit. Iar Fluviul Egiptului iese din Muntele Lunii, departe de linia ecuatorului, în partea de miazăzi; iar dovada este creșterea lui vara. Și am știut că grădina Edenului este sub linia ecuatorului, unde ziua nu se lungește și nu se scurtează în toate zilele anului; iar cei goi la minte s-au mirat cum se poate aceasta, dar sunt pentru ele dovezi desăvârșite, fără îndoială. Dacă așa, Pison coboară spre partea de miazăzi-apus, și după aceea se întoarce pe calea de miazănoapte. Și nu este nicio dovadă despre Pison că este Fluviul, decât că el a tradus Havila după trebuința lui, căci nu are tradiție; și tot așa a făcut cu familiile, și cu țările, și cu viețuitoarele, și cu păsările, și cu pietrele. Poate că le-a văzut în vis! Și deja a greșit în unele dintre ele, cum voi explica la locul lor; dacă așa, nu ne vom sprijini pe visele lui. Poate că a făcut așa pentru cinstea Numelui, pentru că a tradus Tora în limba lui Ismael și în scrierea lor, ca să nu spună că sunt în Tora cuvinte pe care nu le știm. Iar aurul l-a pomenit pentru cinstea fluviului care iese din grădină."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
-    "text": "Adaugă că țara Havila cu aur nu e cea amintită mai târziu lângă Egipt (25:18), ci una „la răsăritul răsăritului”; bdelium și onixul pomenite alături de aur arată doar bogăția obișnuită a albiilor de râu, unde se găsesc adesea aur, argint sau pietre prețioase laolaltă. Urmând pe Rashi, pe Saadia Gaon și pe Zohar, identifică Pișon cu Nilul, care înconjoară Havila și se varsă, prin Alexandria, în Marea cea Mare."
+    "text": "«ținutul Havila, unde se află aurul.» Ca să lămurească faptul că nu este Havila Egiptului („Mițrayim”), despre care a spus: „Și au locuit de la Havila până la Șur”, căci aceasta este răsăritul răsăritului. Și a mai amintit acolo bdeliumul, spre lauda râului, căci în nisipul din el și pe malul lui se găsește acel aur bun, bdeliumul și onixul; căci așa se găsește în râuri: în unele se găsește aur, iar în unele se găsește argint; și tot așa bdeliumul și pietrele prețioase se găsesc, cele mai multe, în râuri. Iar după părerea celor dintâi, Pison este Nilul Egiptului: înconjoară tot acest ținut Havila și vine de acolo peste fața întregului ținut al Egiptului, până se varsă în Marea cea Mare, la Alexandria Egiptului."
    },
    {
     "author": "Sforno (c. 1475–1550)",
-    "text": "Explică de ce Tora insistă să descrie amănunțit fluviul Pișon și ținutul Havila, deși necunoscute cititorului: mărimea și bogăția lor (aurul, cristalul, onixul) sunt chiar dovada indirectă a măreției grădinii pe care o udă — Tora descrie grădina Edenului prin reflecția ei asupra ținuturilor din jur, pe care cititorul chiar le putea verifica."
+    "text": "«Numele celui dintâi este Pison.» A făcut cunoscută lauda fluviului care udă grădina, necunoscut nouă, prin aceea că a făcut cunoscute fluviile care se despart din el, cunoscute la noi pentru laudă, prin mărimea lor, prin bunătatea apelor lor și prin bunătatea roadelor lor."
    },
    {
     "author": "Zohar, Leh Leha 12:1",
@@ -2927,7 +2959,7 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Despre bdelium: citează opinia unui înțelept, care îl vede ca pietricele rotunde, mici, ieșite din ape — cu care se compară și mana în text — iar onixul, ca piatră prețioasă, albă, strălucitoare; recunoaște însă, cinstit, că identitatea exactă a ambelor nu se mai cunoaște azi cu siguranță."
+    "text": "«Iar aurul.» A spus Gaonul că bedolaḥ sunt pietrele mici rotunde care ies din ape, care sunt subțiri, și că a asemănat mana cu ele; dar Scriptura a spus aceasta doar despre înfățișarea manei. Și a spus că šoham este o piatră scumpă albă, și ea este strălucitoare; iar noi nu știm."
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
@@ -3134,7 +3166,7 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Explică Ghihon prin sunetul apelor: numele ar veni de la aceeași rădăcină ca „a împunge, a răsuna” — un râu care merge zgomotos, cu vuiet mare."
+    "text": "«Ghihon.» Pentru că mergea și vuia, iar vuietul lui era foarte mare, ca în „când un bou va împunge (yiggaḥ)”: că împunge și merge și vuiește."
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
@@ -3357,11 +3389,11 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Explică etimologic cele două nume: Hidekel, „ale cărui ape sunt iuți și ușoare”; Eufrat, „ale cărui ape rodesc și înmulțesc”, întăresc omul — deși Cuș și Așur încă nu existau când s-a întâmplat aceasta, textul le numește după cum aveau să fie cunoscute mai târziu. „Înaintea Așurului” înseamnă la răsăritul lui; iar „el este Eufratul” arată că, dintre toate cele patru, acesta e cel mai de seamă, numit mereu, mai târziu, în legătură cu Țara lui Israel."
+    "text": "«Hidechel.» Pentru că apele lui sunt ascuțite (ḥaddin) și ușoare (qallin).<br><br>«Eufrat (Perat).» Pentru că apele lui se înmulțesc (parin) și cresc și îl însănătoșesc pe om. «Cuș și Asiria.» Încă nu existau, iar Scriptura a scris cu privire la viitor.<br><br>«La răsăritul Asiriei (qidmat Asur).» La răsăritul Asiriei.<br><br>«Este Eufrat.» Cel mai însemnat dintre toate, cel pomenit în legătură cu Țara lui Israel."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Explică gramatical „înaintea Așurului”, apoi observă un fapt notabil: de la primul verset al capitolului până la „a face” (v. 4), textul folosise doar „Elohim” — abia acum I se alătură Numele sfânt și înfricoșat. Adaugă că locul din care a fost luată țărâna lui Adam era aproape de grădina Edenului, unii socotind chiar că acel pământ ar fi Țara lui Israel."
+    "text": "Iar explicația lui qidmat Aššur: taw din qidmat stă în locul lui he; iar diferența dintre el și qedem este că he din qedmah stă în locul lui el („spre”), care este vocalizat cu pataḥ mic; și tot așa „și Avram a coborât miṣraymah”, ca el Miṣrayim („spre Egipt („Mițrayim”)”). Și iată, qidmat Aššur înseamnă „spre răsăritul Asiriei”. Și să știi că, de la primul verset până la „spre a fi făcută”, Scriptura a pomenit Elohim, iar după aceea Numele cel cinstit și înfricoșat împreună cu el. Și cât de scumpe sunt cuvintele înaintașilor noștri, binecuvântată fie amintirea lor, care au spus: „S-a chemat un Nume deplin asupra unei lumi depline”; căci nu era acolo o putere care să primească acest Nume. Iar în pericopa We-elleh šemot voi explica taina Numelui și dacă este în stare construită, dacă mă va ajuta Numele. Și să știi că locul pământului din care a fost creat Adam este aproape de grădina Edenului; căci unii spun că pământul acela este Țara lui Israel, dar iată, au uitat „și a fost, când au pornit de la răsărit”."
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 2.6",
@@ -3507,11 +3539,11 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Explică „s-o lucreze” ca însemnând, concret, să aducă apă pentru grădină, iar „s-o păzească” ca protecție față de animale, ca să nu intre și s-o strice. Respinge o altă interpretare, care citește „lucrarea” ca împlinirea poruncii de a nu mânca din pom — argumentând că o „poruncă” nu poate fi numită „lucrare”."
+    "text": "«În grădina (be-gan).» Cuvânt masculin și feminin, și tot așa pluralul lui: gannim, gannot. Iar cei care spun că „ca s-o lucreze și s-o păzească” se întoarce la pământ – cum se poate să lucrezi și să păzești un loc mare dintr-un loc mic? Iar după ce a păcătuit, l-a scos ca să lucreze pământul; deci lucra deja pământul? Ci explicația lui „ca s-o lucreze” este despre grădină, din roadele căreia mânca; iar după ce a păcătuit, s-a întors să mănânce iarba câmpului, și aceasta este pâinea.<br><br>Iar sensul lui «ca s-o lucreze» este să ude grădina, «și s-o păzească» – de toate viețuitoarele, ca să nu intre acolo și s-o murdărească. Iar unii spun că așa este explicația lui: să slujească (laʿavod) porunca Lui; dar porunca nu se lucrează."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Citește „s-o lucreze” ca lucrarea prin care omul își susține chiar suflarea de viață primită la plăsmuire, iar „s-o păzească” ca ferirea de „topirea” umezelii firești, mistuite mereu de căldura naturală a trupului — acele roade alese înnoiau necontenit ce se pierdea, ferindu-l de stricăciune."
+    "text": "«Ca s-o lucreze.» Ca să lucreze suflarea de viață, cum a spus: „și a insuflat în nările sale suflare de viață”.<br><br>«Și s-o păzească.» Ca să nu piară prin topirea umezelii rădăcinale, care se topește prin căldura naturală; și aceasta pentru că acele roade alese nășteau totdeauna în locul umezelii topite, fără putrezire."
    },
    {
     "author": "Zohar, Mikeț 9:11",
@@ -3723,15 +3755,11 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Notează o observație de stil: după ce zice „porunca” într-o formă pozitivă („din orice pom... vei mânca”), textul arată că orice poruncă pozitivă, dusă la capăt, cuprinde și interdicția contrarului — „deși ți-am îngăduit rodul pomilor din grădină, [nu vei mânca] din rodul pomului cunoștinței”."
+    "text": "«I-a poruncit.» Cuvântul de poruncă împreună cu ʿal este pentru porunca de interdicție, și tot așa „și norilor le voi porunci (aṣawweh ʿal)”. Deși ți-am îngăduit rodul pomilor grădinii, să nu mănânci din rodul pomului cunoașterii."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Leagă „vei mânca” de schimbarea vremurilor arătată prin mișcarea aștrilor, ca în expresia „își coace rodul la vremea lunilor sale” — belșugul grădinii urma, deci, un ritm firesc, nu unul haotic."
-   },
-   {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Dumnezeu le-a poruncit lui Adam și femeii lui să mănânce roadele culese din oricare alt pom, în afară de cel al cunoașterii, prezicându-le că, dacă se vor atinge de el, vor fi sorțiți pieirii."
+    "text": "«Din toți pomii grădinii.» După schimbarea vremurilor, în aspectele stelelor, cum a spus: „în fiecare lună va da roade timpurii”."
    },
    {
     "author": "Grigorie de Nazianz, A doua cuvântare la Paști 8",
@@ -3870,15 +3898,15 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Se întreabă de ce apare cuvântul „din el”, de vreme ce „nu vei mânca din pomul cunoștinței” spusese deja destul — răspunde că-i doar o precizare suplimentară. Adaugă o observație mai adâncă: Adam nu era lipsit de cunoaștere înainte de a mânca din pom — dovadă că a dat nume tuturor animalelor și păsărilor, potrivit firii fiecăreia, semn de mare înțelepciune; îi lipsea doar cunoașterea unui singur lucru, „binele și răul” laolaltă, într-un singur act."
+    "text": "Iar după ce a spus „din pomul cunoașterii… să nu mănânci”, ce nevoie este de cuvântul «din el» (mimmennu)? Ci a adăugat ca să lămurească; și tot așa „și a deschis și l-a văzut, pe copil”. Sau sensul lui este „nici măcar puțin din el”. Iar gramatica lui mimmennu o vei găsi în Cartea Temeliei. Și să știi că Adam era plin de cunoaștere, căci Numele nu poruncește celui care nu are cunoaștere; doar cunoașterea binelui și răului, într-un singur lucru, nu o știa. Oare nu vezi că a pus nume tuturor dobitoacelor și păsărilor, după firea fiecăruia? Și iată, mare înțelept era; și dacă n-ar fi fost așa, Numele nu Și-ar fi adus creaturile la el, ca să vadă cum le va numi, știind despre el că este neștiutor. Și Numele i-a arătat și pomul cunoașterii, căci iată, femeia lui știa că este în mijlocul grădinii."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
-    "text": "Discută pe larg „în ziua în care vei mânca din el, vei muri negreșit”: nu înseamnă că avea să moară chiar în acea zi, ci că devenea, din acel moment, „fiu al morții” — supus pedepsei, la fel cum „în ziua ieșirii tale... vei ști sigur că vei muri” (1 Împărați 2:42) nu înseamnă moarte imediată, ci răspundere pentru moarte. Respinge părerea filozofilor naturii, după care omul ar fi fost muritor din capul locului, prin simpla lui alcătuire trupească; urmează, în schimb, pe înțelepți (Șabat 55b): de n-ar fi păcătuit, omul n-ar fi murit niciodată, căci sufletul cel de sus și voia divină care-l însoțeau de la plăsmuire l-ar fi ținut viu pe veci — abia păcatul a adus stricăciunea și moartea."
+    "text": "«să nu mănânci din el.» Din rod; ne avertizează că pomul nu se mănâncă; și tot așa a spus mai jos: „din rodul pomului care este în mijlocul grădinii”; și asemenea lui: „și mâncați fiecare din via lui și fiecare din smochinul lui”; și tot așa „cu suferință vei mânca din el” – vei mânca rodul lui.<br><br>«căci în ziua în care vei mânca din el vei muri negreșit.» În vremea în care vei mânca din el vei fi vrednic de moarte; și asemenea lui: „în ziua în care vei ieși și vei merge încoace sau încolo, să știi bine că vei muri negreșit”; căci intenția nu este că va muri îndată, chiar în ziua aceea, și intenția nu este numai cunoașterea, că va ști că va muri, căci cei vii știu toți că vor muri; ci intenția este că, în vremea în care va ieși, va fi vinovat de moarte față de rege, iar el îl va omorî când va voi. Și „Dar să nu vină să privească la învelirea sfințeniei, ca să nu moară”, „și să nu comită păcat cu ea și să moară din pricina lui, căci a pângărit-o” – chestiunea lor nu este decât că vor fi vinovați de moarte și vor muri pentru acest păcat al lor. Iar după părerea oamenilor naturii, omul era sortit morții de la începutul plăsmuirii, pentru că este compus; dar a hotărât acum că, dacă va păcătui, va muri pentru păcatul lui, după felul celor vinovați de moarte prin mâna Cerului pentru încălcări, ca străinul (sau „laicul”) care mănâncă teruma, cel ce a băut vin și cel căruia îi lipsesc veșmintele când a slujit, și alții, unde intenția este că vor muri pentru păcatul lor înainte de a le veni ziua. Și de aceea a spus în pedeapsă: „până te vei întoarce în pământ, căci din el ai fost luat. Căci țărână ești și în țărână te vei întoarce” – prin firea ta. Și apoi, de la început mânca din rodul pomului și din sămânța pământului; dacă este așa, era în el topire și pricina ființării și a pieirii. Iar după părerea învățătorilor noștri, dacă n-ar fi păcătuit, n-ar fi murit niciodată, căci sufletul de sus îi dă viață pe veci, iar voința dumnezeiască, care era în el în vremea plăsmuirii, va fi lipită de el mereu și îl va ține pe veci, cum am explicat la cuvintele „Și Dumnezeu a văzut că este bine”. Și să știi că alcătuirea din părți nu arată pieirea decât după părerea celor mici în credință, care spun că creația este prin necesitate; dar după părerea oamenilor credinței, care spun că lumea este înnoită printr-o voință dumnezeiască simplă, și dăinuirea va fi în ea pe veci, câte zile ține voința; și acesta este adevărul limpede. Dacă este așa, „căci în ziua în care vei mânca din el vei muri negreșit”: atunci vei fi vrednic de moarte, nu vei dăinui pe veci prin voința Mea. Iar mâncarea era pentru el, de la început, spre desfătare; și se poate ca roadele grădinii Eden să se absoarbă în mădulare ca mana și să-i țină pe cei ce le mănâncă. Iar când a hotărât asupra lui: „și vei mânca iarba câmpului” și cu sudoarea feței lui va mânca pâinea pământului, aceasta a fost pricina pieirii, căci țărână este, și țărână va mânca, și în țărână se va întoarce."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Precizează „din el”: rodul oprit e cel „din mijlocul grădinii”, aproape de pomul vieții amintit mai sus — cele două stând alături ca o pildă vie a cuvântului „viața și moartea le-am pus înaintea ta” (Deuteronom 30:19)."
+    "text": "«Dar din Pomul etc.» Care este în mijlocul grădinii, aproape de Pomul Vieții, pe care l-a amintit mai sus, cum a spus: „și Pomul Vieții în mijlocul grădinii”, în felul lui „viața și moartea am pus înaintea ta”."
    },
    {
     "author": "Zohar, Behar 11:2",
@@ -3886,7 +3914,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Viața lui Adam și Eva 32 — comparație",
-    "text": "Adam însuși repovestește porunca, mai târziu, fiilor săi: „Când ne-a făcut Dumnezeu, pe mine și pe mama voastră, și ne-a așezat în rai... a pus o oprire asupra noastră despre pomul cunoștinței binelui și răului, care este în mijlocul raiului” — adăugând un detaliu absent din Geneza: Dumnezeu ar fi împărțit raiul între ei, dând lui Adam partea de răsărit și de miazănoapte, iar Evei partea de miazăzi și de apus."
+    "text": "Și Adam a răspuns și a zis: Ascultați-mă, fiii mei. Când ne-a făcut Dumnezeu, pe mine și pe mama voastră, și ne-a așezat în rai și ne-a dat orice pom care face rod să mâncăm, a pus o oprire asupra noastră despre pomul cunoștinței binelui și răului, care este în mijlocul raiului; (zicând)"
    },
    {
     "author": "Chiril al Ierusalimului, Cateheza 13:31",
@@ -4086,19 +4114,19 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Explică expresia dublă din <span class=\"heb-inline\">עֵזֶר כְּנֶגְדּוֹ</span> („ajutor pe potriva lui”): dacă bărbatul e vrednic, femeia îi este „ajutor”; dacă nu e vrednic, ea îi stă „împotrivă” — de aceea nota traducătorului la acest cuvânt oferă și varianta „împotriva lui”. Expresia conține, deci, o ambiguitate intenționată despre cum poate arăta relația."
+    "text": "«Nu este bine ca omul să fie etc.» Ca să nu se zică: sunt două stăpâniri — Sfântul, binecuvântat fie El, este singur între cei de sus și nu are pereche, iar acesta este singur între cei de jos și nu are pereche.<br><br>«Un ajutor pe potriva lui (ʿezer ke-negdo).» Dacă este vrednic — ajutor; dacă nu este vrednic — împotriva lui (ke-negdo), ca să se lupte cu el."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Notează, la „ajutor”, o legătură cu Eclesiastul: „mai buni sunt doi decât unul” (4:9) — ideea că binele unei ființe se împlinește în tovărășie, nu în singurătate."
+    "text": "«A spus.» Sensul: «nu este bine» pentru om.<br><br>Iar «ajutor» – ca sensul lui „mai bine doi decât unul”."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
-    "text": "Discută o tradiție talmudică după care omul ar fi fost creat inițial cu „două fețe”, bărbat și femeie uniți, tocmai ca să existe firesc puterea de a naște — „ajutorul” de care e vorba fiind, deci, cea de-a doua față, menită să-i stea „în față”, despărțită apoi de el, ca s-o poată vedea și alege s-o unească din nou cu sine, după voie. „Nu e bine” înseamnă aici, ca și la ziua a doua a creației (unde lipsește refrenul „era bine”), că starea de unime nu putea dăinui așa cum era."
+    "text": "«Nu este bine ca omul să fie singur.» Nu pare că omul a fost creat ca să fie singur în lume și să nu nască, căci toate cele create, parte bărbătească și parte femeiască din orice făptură, au fost create ca să ridice sămânță; și chiar iarba și pomul au sămânța în ele. Dar se poate spune că a fost după cuvintele celui care spune că au fost creați cu două fețe, și au fost făcuți astfel încât să fie în ei o fire care aduce, prin mădularele nașterii, de la bărbat la femeie putere de naștere – sau spune: sămânță, după disputa cunoscută despre zămislire –; iar fața a doua era un ajutor pentru cea dintâi în nașterea lui. Și a văzut Cel Sfânt, binecuvântat fie El, că este bine ca ajutorul să stea în fața lui, și el să-l vadă și să se despartă de el și să se unească cu el după voia lui; și aceasta este ce a spus: „îi voi face un ajutor pe potriva lui (kenegdo)”. Iar sensul lui „nu este bine”: că nu se va spune despre el „că este bine” când este singur, căci nu va dăinui așa; în lucrarea creației, „binele” este dăinuirea, cum am explicat la rostirea „Și Dumnezeu a văzut că este bine”."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Explică „pe potriva lui” prin imaginea talerelor unei balanțe: doi care se cumpănesc exact la fel stau unul în fața celuilalt, pe o linie dreaptă — precum, spun înțelepții, Moise „cântărea cât tot Israelul”. Dar, adaugă Sforno, ajutorul nu putea fi întru totul „pe potriva” lui, altfel niciunul n-ar fi avut temei să-i slujească celuilalt."
+    "text": "«Nu este bine ca omul să fie singur.» Nu se va atinge binele scopului urmărit în asemănarea lui și în imaginea lui, dacă va trebui să se ocupe el însuși de nevoile vieții lui.<br><br>«Un ajutor pe potriva lui (ʿezer ke-negdo).» Un ajutor care să fie ca și egal cu el în imagine și asemănare; căci aceasta îi este necesar în cunoașterea nevoilor lui și în procurarea lor la vremea lor. Și a spus ke-negdo, căci ceea ce intră într-un taler al cântarului față de alt lucru, când îi este egal în greutate, va fi în fața lui, în linie dreaptă; dar când cele două lucruri cântărite nu sunt egale, unul urcă și celălalt coboară, și nu vor fi unul în fața celuilalt în linie dreaptă; și în acest fel au spus înțelepții noștri, binecuvântată fie amintirea lor: Moise este cântărit față în față (ke-neged) cu tot Israelul. Însă nu se cuvenea ca ajutorul să-i fie cu totul egal, căci atunci nu s-ar fi cuvenit ca unul dintre ei să-l slujească și să-l servească pe celălalt."
    },
    {
     "author": "Zohar, Bereșit 25:8",
@@ -4110,7 +4138,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Cartea Jubileelor 3 — comparație",
-    "text": "Cartea Jubileelor 3:3 pune neaflarea unui ajutor potrivit direct în legătură cu cele cinci zile în care Adam a văzut trecând prin fața lui toate fiarele, pe perechi, „parte bărbătească și parte femeiască” — o precizare temporală (cinci zile întregi de observație) absentă din formularea mai succintă a Genezei."
+    "text": "Și în aceste cinci zile Adam a văzut pe toate acestea, parte bărbătească și parte femeiască, după tot felul care era pe pământ, dar era singur și n-a găsit un ajutor potrivit pentru el."
    },
    {
     "author": "Tertulian, Împotriva lui Marcion 2.4",
@@ -4421,15 +4449,19 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Explică de ce animalele și păsările sunt plăsmuite din nou aici, deși vorbise deja de crearea lor: aici Scriptura precizează că păsările au fost create din pământ mocirlos, nu doar din ape — și mai învață că, chiar în ziua plăsmuirii lor, au fost aduse la om ca să le dea nume. „Orice suflet viu căruia omul i-a pus nume — acela i-a rămas numele pentru totdeauna”."
+    "text": "«A plăsmuit din pământ.» Această plăsmuire este facerea spusă mai sus: „Dumnezeu a făcut sălbăticiunile pământului” etc. Ci a venit să explice că păsările au fost create din mâl, pentru că mai sus a spus că au fost create din ape, iar aici a spus că au fost create din pământ. Și, mai mult, te învață aici că în ceasul plăsmuirii lor, îndată, în chiar ziua aceea, le-a adus la om ca să le pună nume. Iar în cuvintele aggadei, plăsmuirea aceasta (yeṣirah) înseamnă stăpânire și supunere, ca în „când vei asedia (tațur) un oraș”: că le-a supus sub mâna omului.<br><br>«Și oricum avea să numească omul fiecare vietate (nefeș ḥayyah) etc.» Schimbă-i ordinea cuvintelor și explică-l: orice vietate căreia omul îi va pune nume, acela este numele lui pentru totdeauna."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Face o observație gramaticală despre particula „lui” din „pe care i-l va da omul”, arătând că se leagă și de fraza următoare — o construcție care adaugă claritate, nu ambiguitate, sensului versetului."
+    "text": "Iar lamed din «cum le va numi (yiqra lo) omul» se trage pe sine și pe altul împreună cu el. Și tot așa este: „și oricum avea să numească (lo) omul, ca suflet viu”, căci în el este o adăugare de lămurire, ca „și a deschis și l-a văzut”, și multe ca el."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Explică de ce vietățile sunt aduse la om: ca să înțeleagă el însuși că are nevoie de o făptură nouă, de vreme ce niciuna dintre cele existente nu i se potrivea ca ajutor. Numele pe care le-a dat fiecăreia le-a arătat firea proprie, adică sufletul prin care fiecare există în chip real — „suflet viu” a rămas, astfel, numele ei pentru totdeauna."
+    "text": "«Și Domnul Dumnezeu a plăsmuit din pământ toate vietățile câmpului.» Le-a dat desăvârșirea formei simțitoare, pentru care nu era îndestulătoare atunci puterea cerească fără o putere a seminței care s-o ajute.<br><br>«Și le-a adus la om.» Ca să recunoască faptul că avea nevoie de o ființă nouă, căci între viețuitoare nu era nimic potrivit ca să-l slujească.<br><br>«Ca să vadă cum le va numi.» Ca să vadă și să cugete ce nume se cuvine fiecăruia dintre ele, după lucrarea proprie formei lui.<br><br>«Vietate (nefeš ḥayyah), așa îi rămânea numele.» Iată, numele lui arăta forma viețuitoarei numite cu acel nume, care este sufletul ei, prin care ea există în act."
+   },
+   {
+    "author": "Talmudul Babilonian, Nida 22b:21",
+    "text": "Ce înseamnă liber la vită? Dacă vei spune: pentru că este scris: „Și Dumnezeu a făcut sălbăticiunile pământului”, și este scris: „Și Domnul Dumnezeu a plăsmuit din pământ toate vietățile câmpului” — și la monstrul marin este, de asemenea, liber, căci este scris: „și toate târâtoarele pământului”, și este scris: „Și Dumnezeu a creat monștrii marini cei mari”!"
    },
    {
     "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.20",
@@ -4624,12 +4656,12 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
-    "author": "Rashi (1040–1105) — citat direct în comentariul real al lui Ramban la acest verset",
-    "text": "Leagă acest verset de procesiunea de numire a animalelor: fiecare vietate a trecut prin fața lui Adam în perechea ei (mascul-femelă), iar el a observat că singur, dintre toate creaturile, el nu avea o pereche corespunzătoare — de-abia atunci a înțeles pe deplin sensul cuvintelor „nu este bine ca omul să fie singur” (v. 18)."
+    "author": "Ramban / Nahmanide (1194–1270)",
+    "text": "«dar pentru om nu s-a găsit ajutor pe potriva lui.» Cuvintele lui Rashi: când le-a adus, le-a adus înaintea lui parte bărbătească și parte femeiască; a spus: Toți au pereche, iar eu n-am pereche; îndată: „Și Domnul Dumnezeu a făcut să cadă un somn profund asupra omului”. Și bine a explicat, căci, de vreme ce a introdus versetele numirii în mijlocul vorbirii despre ajutor, aceasta o impune. Iar numirea, după părerea comentatorilor, este după sensul simplu: să fie fiecăruia un nume al lui, ca să fie cunoscuți și recunoscuți de urmașii lui prin numele pe care li le va pune, căci va fi numele lui pe veci. Și iată, Cel Sfânt, binecuvântat fie El, când a voit să-i facă ajutorul, atunci le-a adus înaintea lui, căci trebuia să i le aducă în perechi, ca să pună nume și femelelor lor; căci pe unele le-a numit cu un singur nume, iar altele sunt deosebite, ca šor și para („bou” și „vacă”), tayiš și ʿez („țap” și „capră”), keves și raḥel („berbec” și „oaie”), și altele. Și când le-a văzut împerecheate una cu alta, le-a poftit, iar când n-a găsit printre ele ajutor pentru sine, s-a întristat și a adormit; iar Dumnezeu a făcut să cadă asupra lui un somn profund, ca să nu simtă scoaterea coastei din trupul lui. Iar după părerea mea, numirea este ajutorul, și chestiunea este că Cel Sfânt, binecuvântat fie El, a adus toate vietățile câmpului și toate păsările cerurilor înaintea lui Adam, iar el le-a recunoscut firea și le-a pus nume, adică numele potrivit lor după firile lor; și prin nume s-a lămurit care este potrivit să fie ajutor pentru celălalt, adică cele potrivite să nască una din alta. Și chiar dacă vom crede că numele sunt prin convenție, nu firești, vom spune că numirea este deosebirea speciilor; căci au trecut înaintea lui parte bărbătească și parte femeiască, și a cercetat firea lor, care dintre ele este ajutor pentru celălalt, adică cel care naște din el, și a făcut cunoscut aceasta prin nume; căci animalele mici le-a numit cu un nume, pentru că toate sunt ajutor una pentru alta în naștere, că nasc una din alta, iar pe cele mari cu alt nume, iar sălbăticiunea cu alt nume, căci nu nasc o specie din alta; și tot așa toate. Și n-a găsit printre toate una care să fie prin firea ei ajutor pentru el și să fie numită cu numele lui; căci numirea este deosebirea speciilor și despărțirea puterilor lor una de alta, cum am explicat mai sus. Și nu este chestiunea că ar fi fost în mâna omului să găsească printre ele un ajutor pentru sine, căci au fost create în firea lor; ci, dacă ar fi văzut că firea lui se potrivește cu una dintre specii și ar fi ales-o, Cel Sfânt, binecuvântat fie El, i-ar fi întocmit firea către el, cum a făcut cu coasta, și n-ar fi fost nevoie s-o zidească cu o zidire nouă. Și acesta este sensul lui „oricum avea să numească omul fiecare vietate, așa îi rămânea numele”, adică acela va fi numele ei, căci Cel Sfânt, binecuvântat fie El, va întări în ea acel nume, în felul pe care l-am explicat. Iar ce este corect în ochii mei este că nu a fost voia înaintea Lui, binecuvântat fie, să-i ia coasta până ce Adam nu va ști că printre făpturi nu este ajutor pentru el și nu va dori să aibă un ajutor ca ele; și din această pricină trebuia să ia de la el una din coastele lui. Și acesta este sensul lui „dar pentru om nu s-a găsit ajutor pe potriva lui”, adică pentru numele omului nu s-a găsit un ajutor potrivit să fie în fața lui și să fie numit cu numele lui, ca să nască din el. Și nu este nevoie aici de cuvintele comentatorilor, care au spus că aici vine numele în locul pronumelui – „și pentru el nu s-a găsit ajutor pe potriva lui” –, ca în „soții ale lui Lameh” și „și pe Iefta și pe Samuel”. Și aceasta este ce a spus: „De data aceasta”, adică de data aceasta am găsit un ajutor pentru mine, pe care nu l-am găsit până acum la celelalte specii, căci ea este „os din oasele mele și carne din carnea mea” și se cuvine să fie numită chiar cu numele meu, căci vom naște unul din altul. Și în cuvântul „aceasta” (zot) este o taină care va fi cunoscută din cuvintele noastre la pericopa Ve-zot ha-berakha, dacă Stânca mea mă va binecuvânta să ajung acolo; și de aceea a repetat: „căci din bărbat a fost luată aceasta”; și înțelege."
    },
    {
-    "author": "Ramban / Nahmanide (1194–1270)",
-    "text": "Dezvoltă pe larg legătura dintre „numirea” animalelor (v. 19-20) și căutarea unui „ajutor potrivit”: când Adam dă nume fiecărei vietăți, el le observă, de fapt, natura, și înțelege astfel care perechi sunt „potrivite” una pentru cealaltă, spre procreare. Trecând în revistă toate animalele, perechi-perechi, Adam își dă seama treptat că el singur n-are o pereche corespunzătoare — de-abia atunci apare tristețea care duce la somnul adânc. Citează și pe Rashi: „Fiecare avea o pereche, dar eu n-aveam pereche."
+    "author": "Talmudul Babilonian, Hulin 27b:12",
+    "text": "I-a spus: Din mâl au fost create. A văzut pe ucenicii lui că se uitau unul la altul. Le-a spus: Vi se pare greu că l-am respins pe dușmanul meu cu un pai? Din apă au fost create; și de ce le-a adus la om? Ca să le pună nume."
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 2.9",
@@ -4902,19 +4934,19 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Explică „din coastele lui” ca „dintr-o parte a lui” — confirmând tradiția că omul fusese creat inițial cu „două fețe”, unite. „A închis” privește locul tăieturii, iar somnul adânc a fost trimis tocmai ca omul să nu vadă bucata de carne din care fusese plăsmuită femeia și să se rușineze de ea."
+    "text": "«Din coastele sale.» Din laturile sale, ca în „pentru a doua latură (u-le-ṣelaʿ) a Tabernacolului”. Aceasta este ce au spus: cu două fețe au fost creați.<br><br>«A închis.» Locul tăieturii.<br><br>«Și el a dormit… și a luat.» Ca să nu vadă bucata de carne din care a fost creată, ca să nu fie disprețuită de el."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Notează gramatical că „adormenit adânc” e mai mult decât somn obișnuit și mai mult decât ațipeală; iar „una dintre coastele lui” arată că avea două, ca la „cealaltă latură a Cortului” — cuvântul „coastă” fiind, în ebraică, de genul feminin, cu sensul de bază „parte, latură”."
+    "text": "«A făcut să cadă (wa-yappel).» Din conjugarea grea adăugată; și tot așa „și Avram i-a adus înapoi (wa-yyašev)”.<br><br>«Un somn profund (tardemah).» Mai mult decât šenah, iar šenah mai mult decât tenumah; iar taw este adăugat.<br><br>«Una din coastele sale.» Două laturi erau, ca în „și pentru a doua latură (ṣelaʿ) a Cortului”; iar cuvântul ṣelaʿ este feminin, iar sensul lui este „latură”.<br><br>«La locul ei (taḥtennah).» Locul ei; și este singular, iar nun este adăugat; iar taḥteiha este plural; și tot așa taḥtenni și taḥtai."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Explică somnul adânc ca ferire de frică și durere, iar alegerea unei coaste ca fiind firească: de vreme ce Dumnezeu alesese deja, pentru trupul omului, partea cea mai aleasă a țărânei, era potrivit ca și femeia — asemănătoare lui aproape întru totul — să fie plăsmuită tot dintr-o parte a acelei materii deja alese, o singură coastă de-a lui."
+    "text": "«Și Domnul Dumnezeu a făcut să cadă un somn profund asupra omului.» Ca să nu se teamă și să nu sufere.<br><br>«Și a luat una din coastele sale.» Pentru că adunase deja țărâna lui și alesese tot ce era mai bun și se cuvenea să fie materie pentru forma lui vitală; de aceea, când a voit să plăsmuiască forma femeii, care este aproape asemenea lui, se cuvenea să ia o parte din materia lui, și aceasta este una din coastele lui."
    },
    {
-    "author": "Talmud Babilonian, Eruvin 18b / Berakhot 61b",
-    "text": "O tradiție discutată în Talmud (Eruvin 18b, Berakhot 61b) înțelege „a luat una din coastele/laturile lui” într-un mod neobișnuit: la origine, omul ar fi fost creat cu două fețe/laturi unite într-o singură ființă (parte bărbătească și parte femeiască, contopite), iar Dumnezeu, la acest verset, „despică” acea ființă unică în doi indivizi separați — Adam și Eva — mai degrabă decât să construiască o ființă nouă din nimic. Tradiția rămâne una dintre mai multe explicații rabinice posibile pentru cuvântul ambiguu „tsela”, discutat deja și la nivel lingvistic în comentariul de mai sus."
+    "author": "Talmudul Babilonian, Sanhedrin 39a:2",
+    "text": "I-a spus împăratul lui Rabban Gamliel: Dumnezeul vostru este hoț, căci este scris: „Și Domnul Dumnezeu a făcut să cadă un somn profund asupra omului și el a dormit”. I-a spus fiica lui: Lasă-l, căci eu îi voi răspunde. I-a spus: Dă-mi un duce. I-a spus: De ce îți trebuie? Tâlhari au venit asupra noastră noaptea și au luat de la noi un ulcior de argint și ne-au lăsat un ulcior de aur. I-a spus: O, de-ar veni asupra noastră în fiecare zi! Și n-a fost bine pentru Adam cel dintâi că i-au luat o coastă și i-au dat o roabă care să-l slujească?"
    },
    {
     "author": "Zohar, Bereșit 26:4",
@@ -4922,7 +4954,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Cartea Jubileelor 3 — comparație",
-    "text": "Cartea Jubileelor 3:4-5 confirmă aproape identic secvența biblică: „Domnul ne-a zis: Nu este bine ca omul să fie singur... Domnul Dumnezeul nostru a adus asupra lui un somn adânc, și el a adormit, și El a luat pentru femeie o coastă dintre coastele lui.” Particularitate a cărții: naratorul e un înger, care vorbește la persoana întâi plural („ne-a zis”), nu Dumnezeu direct ca în Geneza."
+    "text": "Și Domnul ne-a zis: Nu este bine ca omul să fie singur; să-i facem un ajutor potrivit pentru el. Și Domnul Dumnezeul nostru a adus asupra lui un somn adânc, și el a adormit, și El a luat pentru femeie o coastă dintre coastele lui, și coasta aceasta a fost obârșia femeii dintre coastele lui, și a zidit carnea în locul ei, și a zidit femeia."
    },
    {
     "author": "Ambrozie al Milanului, Despre Paradis",
@@ -5068,15 +5100,19 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Explică „a zidit” prin imaginea unei construcții: largă la bază, îngustă sus, ca un hambar de grâu, gândită anume pentru nașterea pruncilor, ca pereții să nu fie apăsați de povară. „Pentru a fi femeie” înseamnă, spune Rashi, ca ea să devină femeie — la fel cum „a făcut Ghedeon [aurul] efod” (Judecători 8:27) înseamnă „ca să devină efod”."
+    "text": "«A zidit (va-yyiven).» Ca o clădire: lată jos și îngustă sus, ca să poată purta pruncul; ca un hambar de grâu, care este lat jos și îngust sus, ca să nu apese greutatea lui pe pereții lui.<br><br>«A zidit coasta… într-o femeie.» Ca să fie femeie, ca în „Ghedeon l-a făcut efod”, adică să fie efod."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Se întreabă dacă femeia a fost zidită chiar acolo, lângă om, sau afară din grădină și adusă apoi la el — textul, spune Ibn Ezra, redă mai degrabă gândul lui Adam la trezire: a înțeles că fusese adusă la el, așa cum îi fuseseră aduse și animalele, și a simțit că o parte din carnea lui, coasta, lipsea, iar o carne nouă îi fusese alăturată."
+    "text": "«A zidit (wa-yyiven).» Din conjugarea grea și din conjugarea ușoară, ca wa-yyifen, wa-yyiqeṣ.<br><br>«Și a adus-o.» A socotit, când s-a trezit și a văzut-o, că a fost adusă la el, cum au fost aduse dobitoacele, iar Scriptura a vorbit după gândul lui; și tot așa „iar oamenii au alergat după ei”. Sau a fost zidită afară din grădină și după aceea a fost adusă la el; și când s-a uitat, a știut că a fost tăiată din el, căci una dintre laturile lui, cu carnea ei, nu mai era, și a simțit că i s-a adus o altă carne."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Explică zidirea coastei ca dăruire a formei și însușirilor omului: femeia se deosebește de el doar prin organele trupești — deosebire prin care se măsoară, mai mult sau mai puțin, desăvârșirea fiecăruia."
+    "text": "«Și Domnul Dumnezeu a zidit coasta într-o femeie.» Ca ea să aibă forma bărbatului și însușirile lui, și să fie deosebită de el doar prin uneltele trupești, prin care va fi deosebire între ei în posibilitatea desăvârșirii, mai mult sau mai puțin."
+   },
+   {
+    "author": "Talmudul Babilonian, Eruvin 18a:27",
+    "text": "Ca la Rabbi Șimʿon ben Menasya; căci a tâlcuit Rabbi Șimʿon ben Menasya: „Și Domnul Dumnezeu a zidit coasta” — aceasta învață că Sfântul, binecuvântat fie El, a împletit-o pe Eva și a adus-o la Adam cel dintâi; căci în cetățile mării, împletitura o numesc „zidire”."
    },
    {
     "author": "Zohar, Vaikra 45:3",
@@ -5330,23 +5366,23 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "„De data aceasta” arată, spune Rashi, că Adam încercase mai întâi împerecherea cu fiecare animal și vietate, fără să-și afle liniștea, până a venit, în sfârșit, la Eva. Iar „i se va zice femeie, căci din bărbat a fost luată” e un joc de cuvinte în ebraică, între <span class=\"heb-inline\">אִישׁ</span> (ish) și <span class=\"heb-inline\">אִשָּׁה</span> (isha) — dovadă, spune el, că lumea a fost creată chiar în limba sfântă."
+    "text": "«De data aceasta.» Te învață că Adam s-a împreunat cu toate vitele și animalele (sau „fiarele sălbatice”), și mintea lui nu și-a aflat liniștea cu ele.<br><br>«Aceasta se va numi femeie (ișșah), căci din bărbat (iș) a fost luată etc.» Un cuvânt care se potrivește cu alt cuvânt; de aici vedem că lumea a fost creată în limba sfântă."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "Explică „de data aceasta” ca „am găsit, în sfârșit, un ajutor pe potriva mea, ca mine, căci din mine a fost luată” — și adaugă, în treacăt, că povestea Lilit, cunoscută din alte tradiții, ține de tălmăcire homiletică, nu de sensul literal al textului."
+    "text": "«Și omul a spus.» Atunci a spus: «de data aceasta» am găsit un ajutor pe potriva mea, ca mine, căci era din mine. Iar cuvântul despre Lilit este midraș.<br><br>«Aceasta (le-zoʾt).» Pentru aceasta; și tot așa „spune despre mine (imri li): «Este fratele meu.»”<br><br>Iar dageșul din šin al lui iššah este în locul lui yod cel tăcut și ascuns care este în iš; și se poate ca pricina rostirii lui iššah cu dageș, și nu slab, să fie ca să nu se amestece cu išah („bărbatul ei”), adică soțul ei, căci uneori lipsesc semnul din he. Iar našim vine din enoš și anašim.<br><br>Iar sensul lui «se va numi»: după numele.<br><br>Iar qof din «a fost luată (luqoḥah) aceasta» n-a primit dageș, ca să-i fie ușor limbii; și este din conjugarea grea, chiar dacă nu se găsește.<br><br>Iar sensul lui „și vor fi un singur trup”: ca și cum ar fi; sau că se vor asemăna cu cum erau. Iar unii spun că vor naște pe altul, dar aceasta este îndepărtat."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Subliniază unicitatea acestei „prime dăți”: doar Eva a fost, cu adevărat, „os din oasele” și „carne din carnea” lui Adam — toate femeile de mai târziu vor purta același nume, „femeie”, deși nu vor mai fi luate, la propriu, din trupul bărbatului lor; Eva rămâne, în acest sens, „cea dintâi dintre toate”."
+    "text": "«Aceasta.» Această femeie.<br><br>«De data aceasta.» De data aceasta, ea este os din oasele mele și carne din carnea mea; căci nu va fi așa nicio femeie a omului în viitor.<br><br>«Aceasta (le-zoʾt).» Pentru orice femeie a omului în viitor.<br><br>«Se va numi femeie (iššah).» Deși nu va fi o parte a bărbatului.<br><br>«Căci din bărbat (iš) a fost luată aceasta.» Cea dintâi dintre toate."
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Josephus notează și numele femeii: „O femeie se numește, în limba ebraică, Issa; dar numele acestei femei a fost Eva, ceea ce înseamnă [mama a tot ce este viu / cea care dă viață].” Confirmă astfel, dintr-o sursă independentă de Tora, aceeași legătură etimologică pe care o explică și Rashi mai târziu, la Geneza 3:20."
+    "text": "Femeia se numește în limba ebraică Issa; dar numele acestei femei a fost Eva, ceea ce înseamnă mama tuturor celor vii."
    },
    {
     "author": "Cartea Jubileelor 3 — comparație",
-    "text": "Cartea Jubileelor 3:6-7 redă aproape cuvânt cu cuvânt exclamația lui Adam: „Aceasta este acum os din oasele mele și carne din carnea mea... de aceea va lăsa omul pe tatăl său și pe mama sa, și se va lipi de soția sa, și vor fi un singur trup.”"
+    "text": "Și l-a deșteptat pe Adam din somnul lui, și deșteptându-se s-a sculat în ziua a șasea, și El i-a adus-o, și el a cunoscut-o, și i-a zis: Aceasta este acum os din oasele mele și carne din carnea mea; se va chema soția mea, pentru că a fost luată din bărbatul ei. De aceea vor fi bărbatul și femeia una, și de aceea va lăsa omul pe tatăl său și pe mama sa, și se va lipi de soția sa, și vor fi un singur trup."
    },
    {
     "author": "Tertulian, Despre învierea trupului",
@@ -5550,16 +5586,12 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
-    "author": "Rashi (1040–1105) — citat direct în comentariul real al lui Ramban la acest verset",
-    "text": "Explică „vor fi un singur trup”: copilul e format din amândoi părinții, și astfel trupul lor devine, prin el, „un singur trup”."
-   },
-   {
     "author": "Ramban / Nahmanide (1194–1270)",
-    "text": "Nu e de acord cu explicația lui Rashi, care leagă „un singur trup” strict de copilul rezultat din unire (fizic „un singur trup” din amândoi). Ramban propune o citire diferită: spre deosebire de animale, care doar se împerechează și se despart, omul „se alipește” de soția lui într-un fel permanent — o apropiere care rămâne, nu doar un act trecător. Aduce ca argumente alte expresii biblice unde „carne” înseamnă rudenie apropiată (Facerea 37:27, Levitic 18:6) — soția devine, prin căsătorie, mai aproape de bărbat decât părinții lui înșiși."
+    "text": "«De aceea bărbatul va părăsi pe tatăl lui și pe mama lui și se va alipi de femeia lui» etc. Duhul sfințeniei spune aceasta, ca să oprească fiilor lui Noe legăturile interzise.<br><br>«și vor fi un singur trup.» Copilul este format prin amândoi, și acolo carnea lor devine una – cuvintele lui Rashi. Dar nu este în aceasta un temei, căci și dobitocul și sălbăticiunea vor fi un singur trup în puii lor. Iar ce este corect în ochii mei este că dobitocul și sălbăticiunea nu au alipire de femelele lor, ci masculul vine la orice femelă pe care o găsește, și își văd de drum; și din această pricină a spus Scriptura că, pentru că femela omului era os din oasele lui și carne din carnea lui, s-a alipit de ea și era la sânul lui ca trupul lui, și o dorește să fie mereu cu el; și cum a fost aceasta la Adam, a fost pusă firea lui în urmașii lui, ca masculii dintre ei să fie alipiți de soțiile lor, părăsindu-și tatăl și mama și văzându-și soțiile ca și cum ar fi cu ei un singur trup. Și tot așa: „căci este fratele nostru, carnea noastră”; „de vreo rudă a lui apropiată”: rudele din familie sunt numite šeʾer baśar („rudă de carne”). Și iată, va părăsi ruda tatălui lui și a mamei lui și apropierea lor, și va vedea că soția lui îi este mai apropiată decât ei."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Leagă porunca de faptul că Eva fusese plăsmuită să-i semene omului cât mai mult cu putință: la fel, orice bărbat trebuie să caute o soție „pe potriva lui”, chiar dacă asta cere să-și lase părinții — căci alipirea adevărată există doar între asemenea, îndreptați spre același gând. „Vor fi un singur trup” înseamnă că amândoi urmăresc, în toate faptele lor, desăvârșirea rânduită la crearea omului, ca și cum ar fi, împreună, o singură ființă."
+    "text": "«De aceea.» De vreme ce, în aceasta dintâi, Dumnezeu, binecuvântat fie El, a urmărit ca ea să fie asemenea bărbatului cât este cu putință, până acolo încât a plăsmuit-o din trupul lui,<br><br>«Bărbatul va părăsi pe tatăl lui și pe mama lui și se va alipi de femeia lui.» Se cuvine ca omul să se străduiască să ia o femeie potrivită pentru el și vrednică să se alipească de el, chiar dacă va trebui să-și părăsească tatăl și mama; căci nu va fi alipire adevărată între cei neasemenea, ci va fi doar între cei asemenea, căci atunci vor fi îndreptați spre un singur gând.<br><br>«Și vor fi un singur trup.» Îndreptat, în toate lucrările, spre atingerea desăvârșirii urmărite în plăsmuirea omului, ca și cum amândoi ar fi o singură ființă."
    },
    {
     "author": "Zohar, Vaiețe 7:1",
@@ -5727,11 +5759,11 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "Explică absența rușinii prin lipsa completă, la acel moment, a poftei rele (<span class=\"heb-inline\">יֵצֶר הָרָע</span>) sau a cunoașterii distincției dintre bine și rău — noțiunea de „gol” nu avea încă asocierea cu rușinea pe care o va căpăta imediat după episodul din capitolul 3. Notează și legătura fonetică dintre „arumim” (goi) aici și „arum” (viclean) la primul verset al capitolului următor — o punte deliberată între cele două capitole."
+    "text": "«Și nu se rușinau.» Căci nu cunoșteau calea pudoarei, ca să deosebească între bine și rău; și, deși i se dăduse cunoștință ca să pună nume, nu i se dăduse înclinația rea, până când a mâncat din pom; atunci a intrat în el înclinația rea și a cunoscut ce deosebire este între bine și rău."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "Explică lipsa rușinii prin scopul curat al tuturor faptelor lor: nimic nu urmărea decât voia Creatorului, nu plăceri stricăcioase — până și unirea trupească le era ca mâncarea sau băutura, un act simplu, îndestulător. De aceea, spune el, mădularele acelea le erau la fel de firești ca pentru noi gura, fața sau mâinile."
+    "text": "«Erau goi și nu se rușinau.» Căci atunci toate lucrările lor și toate mădularele lor erau doar pentru a face voia Creatorului lor, nu deloc pentru a dobândi plăceri trecătoare; astfel încât actul împreunării era la ei ca actul mâncării și al băuturii care îndestulează; și astfel, starea acelor mădulare era la ei ca starea gurii, a feței și a mâinilor la noi."
    },
    {
     "author": "Zohar, Țav 5:13",
@@ -5739,7 +5771,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Cartea Jubileelor 3 — comparație",
-    "text": "Cartea Jubileelor 3:16 plasează starea de goliciune fără rușine în timpul celor șapte ani de muncă în grădină, înainte de cădere — „era gol și nu știa, și nu se rușina” — coerent cu Geneza 2:25, dar integrat de Jubilee într-o cronologie proprie de șapte ani petrecuți în Eden, absentă din textul biblic."
+    "text": "Și a lucrat grădina, și era gol și nu știa, și nu se rușina, și a apărat grădina de păsări, și de fiare, și de vite, și i-a cules rodul, și a mâncat, și a pus deoparte rămășița pentru el și pentru soția lui."
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 2.14.2",
