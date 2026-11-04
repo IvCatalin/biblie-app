@@ -1904,6 +1904,9 @@
   }
   .vs-comment-row:last-of-type{border-bottom:none;}
   .vs-comment-author{font-family:'Inter', sans-serif; font-weight:500; font-size:14px; color:var(--ink);}
+  .vs-comment-main{flex:1; min-width:0;}
+  .vs-comment-head{display:flex; align-items:flex-start; justify-content:space-between; gap:8px;}
+  .vs-open-src{flex-shrink:0; font-family:'Inter', sans-serif; font-size:11px; font-weight:600; color:var(--gold); background:transparent; border:1px solid var(--gold); border-radius:999px; padding:3px 9px; cursor:pointer; white-space:nowrap; line-height:1.3;}
   .vs-comment-preview{
     font-size:12.5px;
     color:var(--ink-soft);
@@ -3028,6 +3031,7 @@
     100%{background:rgba(255,215,0,0); box-shadow:0 0 0 6px rgba(255,215,0,0);}
   }
   .verse-flash{animation:verseFlash 2s ease-out; border-radius:6px;}
+  .verse-flash-1s{animation:verseFlash 1s ease-out; border-radius:6px;}
   .search-summary{
     font-family:'Inter', sans-serif;
     font-size:12.5px;
@@ -4167,6 +4171,7 @@
 
 <script src="citate.js?v=2"></script>
 <script src="sarbatori-detalii.js?v=1"></script>
+<script src="tanakh/index.js?v=1"></script>
 <script>
 
 // =====================================================================
@@ -4355,13 +4360,16 @@ function renderVerseSheetTabs(verse){
   const realComments = allComments.filter(c => !isAneOrHistorian(c.author));
   const aneAndHistorians = allComments.filter(c => isAneOrHistorian(c.author));
 
+  // Țintă „Citește pasajul": lucrarea din Bibliotecă și locul exact (null dacă lucrarea nu e încă disponibilă)
+  const srcOf = (label) => (typeof window.libResolveSource === "function") ? window.libResolveSource(label, currentBookSlug, currentChapter, verse.num) : null;
+
   function wordPreview(plainText, wordLimit){
     const words = plainText.trim().split(/\s+/);
     if(words.length <= wordLimit) return plainText.trim();
     return words.slice(0, wordLimit).join(" ") + " …mai mult";
   }
 
-  function appendCommentRow(container, author, htmlText, customPreview, variant){
+  function appendCommentRow(container, author, htmlText, customPreview, variant, src){
     let preview;
     if(customPreview){
       preview = customPreview;
@@ -4372,11 +4380,21 @@ function renderVerseSheetTabs(verse){
     const row = document.createElement("div");
     row.className = "vs-comment-row" + (variant ? " vs-row-" + variant : "");
     row.innerHTML =
-      '<div>' +
-        '<div class="vs-comment-author">' + author + '</div>' +
+      '<div class="vs-comment-main">' +
+        '<div class="vs-comment-head">' +
+          '<div class="vs-comment-author">' + author + '</div>' +
+          (src ? '<button type="button" class="vs-open-src">Citește pasajul →</button>' : '') +
+        '</div>' +
         '<div class="vs-comment-preview">' + preview + '</div>' +
       '</div>' +
       '<span class="vs-comment-chev">›</span>';
+    if(src){
+      row.querySelector(".vs-open-src").addEventListener("click", (e) => {
+        e.stopPropagation();
+        closeVerseSheet();
+        if(typeof window.openLibraryPassage === "function") window.openLibraryPassage(src.slug, src.spec);
+      });
+    }
     const full = document.createElement("div");
     full.className = "vs-comment-full" + (variant ? " vs-row-" + variant : "");
     full.style.display = "none";
@@ -4395,7 +4413,7 @@ function renderVerseSheetTabs(verse){
     contentEl.innerHTML = "";
     if(vsActiveTab === "comentarii"){
       if(realComments.length){
-        realComments.forEach(c => appendCommentRow(contentEl, c.author, c.text));
+        realComments.forEach(c => appendCommentRow(contentEl, c.author, c.text, null, null, srcOf(c.author)));
       } else {
         contentEl.innerHTML = "";
       }
@@ -4428,7 +4446,7 @@ function renderVerseSheetTabs(verse){
           if(c.original && !isPlaceholderOriginal){
             html += `<div class="orig-block${c.greek ? ' greek' : ''}">${c.original}</div>`;
           }
-          appendCommentRow(contentEl, c.source, html, lead, "textcompare");
+          appendCommentRow(contentEl, c.source, html, lead, "textcompare", srcOf(c.source));
         });
       }
       if(aneAndHistorians.length){
@@ -4438,7 +4456,7 @@ function renderVerseSheetTabs(verse){
         label.style.margin = "16px 0 4px";
         label.textContent = "Context istoric, Josephus și apocrife";
         contentEl.appendChild(label);
-        aneAndHistorians.forEach(c => appendCommentRow(contentEl, c.author, c.text));
+        aneAndHistorians.forEach(c => appendCommentRow(contentEl, c.author, c.text, null, null, srcOf(c.author)));
       }
       if(!hasAny){
         contentEl.innerHTML = "";
@@ -6986,11 +7004,91 @@ const SUBFOLDER_CARD_IMAGES = {
     });
     return out;
   };
-  window.openLibraryAt = function(slug, chapterIdx, verse){
+  window.openLibraryAt = function(slug, chapterIdx, verse, ms){
     const book = findLibraryBookBySlug(slug);
     if(!book) return;
-    libPendingFocus = (verse !== undefined && verse !== null && verse !== "") ? { slug, idx: chapterIdx | 0, v: verse } : null;
+    libPendingFocus = (verse !== undefined && verse !== null && verse !== "") ? { slug, idx: chapterIdx | 0, v: verse, ms: ms || 0 } : null;
     openReaderAtChapter(book, chapterIdx | 0);
+  };
+
+  // ---- „Citește pasajul": din comentariile unui verset spre lucrarea din Bibliotecă, la locul citat ----
+  function libNorm(s){ return String(s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim(); }
+  const LIB_TANAKH_SRC = [
+    [/^Rashi\b(?!.*citat direct)/, "rashi"], [/^Ibn Ezra/, "ibnezra"], [/^Ramban/, "ramban"], [/^Sforno/, "sforno"],
+    [/^Rashbam/, "rashbam"], [/^Da'at Zekenim/, "daat"], [/^Radak/, "radak"]
+  ];
+  const LIB_MISHNA_SRC = { "Ievamot": "yevamot", "Sanhedrin": "sanhedrin", "Mikvaot": "mikvaot", "Sota": "sotah", "Eduiot": "eduyot", "Bava Kama": "bava-kamma" };
+  const LIB_ROMAN = { I:1, II:2, III:3, IV:4, V:5, VI:6, VII:7, VIII:8, IX:9, X:10, XI:11, XII:12, XIII:13, XIV:14, XV:15, XVI:16, XVII:17, XVIII:18, XIX:19, XX:20 };
+  const LIB_APOC_SRC = [
+    [/^Cartea Jubileelor (\d+)/, "jubileele"], [/^1 Enoh (\d+)/, "1-enoh"], [/^Viața lui Adam și Eva (\d+)/, "viata-adam-eva"],
+    [/^4 Ezdra (\d+)(?::(\d+))?/, "4-ezdra"], [/^2 Baruh (\d+)(?::(\d+))?/, "2-baruh"],
+    [/^Apocalipsa lui Moise (\d+)/, "apocalipsa-moise"], [/^Apocalipsa lui Avraam (\d+)/, "apocalipsa-avraam"]
+  ];
+  // Întoarce { slug, spec } sau null. Lucrările încă nedisponibile (ex. Talmud) nu primesc buton.
+  window.libResolveSource = function(label, bookSlug, chNum, vNum){
+    label = String(label || "");
+    let m, slug = null, spec = null;
+    if(bookSlug === "genesis"){
+      for(const [re, k] of LIB_TANAKH_SRC){
+        if(re.test(label)){
+          const s = "tanakh-genesis-comentatori-" + k;
+          const idx = window.TANAKH_GEN_INDEX && window.TANAKH_GEN_INDEX[s];
+          if(idx && idx[chNum] && idx[chNum].indexOf(vNum) >= 0){ slug = s; spec = { num: chNum, v: vNum }; }
+          break;
+        }
+      }
+      if(!slug && /Samaritean/i.test(label) && !/Descoperire/i.test(label)){ slug = "sp-geneza"; spec = { num: chNum, v: vNum }; }
+    }
+    if(!slug && (m = label.match(/^Zohar, (Sifra di-Țeniuta|Idra Raba|Idra Zuta) (\d+):(\d+)/))){ slug = m[1] === "Sifra di-Țeniuta" ? "kab-zo-sifra-ditzniuta" : (m[1] === "Idra Raba" ? "kab-zo-idra-raba" : "kab-zo-idra-zuta"); spec = { num: +m[2], v: +m[3] }; }
+    if(!slug && (m = label.match(/^Zohar, (.+?) (\d+:\d+)\s*$/))){ slug = "kab-zo-zohar"; spec = { title: m[1], v: m[2] }; }
+    if(!slug && (m = label.match(/^Mi[șs]na, (.+?) (\d+):(\d+)/)) && LIB_MISHNA_SRC[m[1]]){ slug = "mishna-" + LIB_MISHNA_SRC[m[1]]; spec = { num: +m[2], v: +m[3] }; }
+    if(!slug && (m = label.match(/^Josephus Flavius, Antichitățile Iudaice, Cartea ([IVX]+), cap\. (\d+)/))){
+      const n = LIB_ROMAN[m[1]];
+      if(n){
+        const vol = findLibraryBookBySlug(n <= 10 ? "josephus-antichitati-cartea1" : "josephus-antichitati-cartea2");
+        const b = vol && (vol.books || []).find(x => x.label === "Cartea " + m[1]);
+        if(vol && b){ slug = vol.slug; spec = { idx: b.idx + (+m[2]) - 1, v: "__first" }; }
+      }
+    }
+    if(!slug){
+      for(const [re, s] of LIB_APOC_SRC){
+        if((m = label.match(re))){ slug = s; spec = { num: +m[1], v: m[2] ? +m[2] : "__first" }; break; }
+      }
+    }
+    if(!slug) return null;
+    const book = findLibraryBookBySlug(slug);
+    if(!book || book.available === false) return null;
+    // capitolul trebuie să existe (la Zohar titlurile sunt cunoscute din listă); altfel nu arătăm butonul
+    if(spec.title && Array.isArray(book.chapters) && book.chapters.length && libPassageIdx(book, spec) < 0) return null;
+    return { slug, spec };
+  };
+  function libEnsureLoaded(book, cb){
+    if(!book.lazySrc || book._lazyLoaded || (book.chapters && book.chapters.length)){ cb(); return; }
+    const s = document.createElement("script");
+    s.src = book.lazySrc;
+    s.onload = () => {
+      const d = (window.LIB_LAZY || {})[book.slug];
+      if(d && Array.isArray(d.chapters) && d.chapters.length){ book.chapters = d.chapters; book._lazyLoaded = true; }
+      cb();
+    };
+    s.onerror = () => cb();
+    document.head.appendChild(s);
+  }
+  function libPassageIdx(book, spec){
+    const chs = book.chapters || [];
+    if(spec.idx != null) return spec.idx;
+    if(spec.title){ const t = libNorm(spec.title); return chs.findIndex(c => libNorm(String(c.title || "").split(" - ")[0]) === t); }
+    if(spec.num != null) return chs.findIndex(c => c.num === spec.num);
+    return 0;
+  }
+  window.openLibraryPassage = function(slug, spec){
+    const book = findLibraryBookBySlug(slug);
+    if(!book) return;
+    libEnsureLoaded(book, () => {
+      let idx = libPassageIdx(book, spec);
+      if(idx < 0) idx = 0;
+      window.openLibraryAt(slug, idx, spec.v, 1000);
+    });
   };
 
   // ---- info ediție (iconița ⓘ din cititor) ----
@@ -7256,14 +7354,15 @@ const SUBFOLDER_CARD_IMAGES = {
     const f = libPendingFocus;
     if(!f || !currentBook || currentBook.slug !== f.slug || currentChapterIdx !== f.idx) return;
     libPendingFocus = null;
-    const el = readerBody.querySelector('[data-v="' + String(f.v).replace(/"/g, '\\"') + '"]');
+    const el = f.v === "__first" ? readerBody.querySelector(".lib-verse[data-v]") : readerBody.querySelector('[data-v="' + String(f.v).replace(/"/g, '\\"') + '"]');
     if(!el) return;
+    const cls = f.ms ? "verse-flash-1s" : "verse-flash";
     requestAnimationFrame(() => requestAnimationFrame(() => {
       el.scrollIntoView({ block: "center" });
-      el.classList.remove("verse-flash");
+      el.classList.remove(cls);
       void el.offsetWidth;
-      el.classList.add("verse-flash");
-      setTimeout(() => el.classList.remove("verse-flash"), 2200);
+      el.classList.add(cls);
+      setTimeout(() => el.classList.remove(cls), f.ms ? f.ms + 100 : 2200);
     }));
   }
   function renderChapter(){
