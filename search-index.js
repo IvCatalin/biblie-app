@@ -96,13 +96,14 @@ let ENTRIES = null;
 let GROUP_ORDER = [];
 let building = null;
 
-function build(){
+async function build(){
   const t0 = Date.now();
   const LIBRARY = readLibrary();
   const entries = [];
   const groups = [];
-  listWorks(LIBRARY).forEach(({ book, group }) => {
-    if(/^tora-rosen-/.test(book.slug) || /^haftarot-/.test(book.slug)) return; // secțiunea „Biblia”
+  for(const { book, group } of listWorks(LIBRARY)){
+    await new Promise(r => setImmediate(r)); // între lucrări serverul poate răspunde la alte cereri (nu se mai blochează)
+    if(/^tora-rosen-/.test(book.slug) || /^haftarot-/.test(book.slug)) continue; // secțiunea „Biblia”
     const work = (book.name_ro || book.name || "").replace(/\s*\([^)]*\)\s*$/g, "").replace(/\s*\([^)]*\)\s*$/g, "").trim();
     // lucrări încărcate întregi la cerere (ex. Mișna): capitolele vin din fișierul lazySrc
     let chapters = book.chapters || [];
@@ -145,7 +146,7 @@ function build(){
         });
       });
     });
-  });
+  }
   ENTRIES = entries;
   GROUP_ORDER = groups;
   console.log(`[căutare] index gata: ${entries.length} versete, ${groups.length} colecții, ${Date.now() - t0} ms`);
@@ -154,9 +155,7 @@ function build(){
 function ensureIndex(){
   if(ENTRIES) return Promise.resolve();
   if(!building){
-    building = new Promise((resolve, reject) => {
-      setImmediate(() => { try { build(); resolve(); } catch(err){ building = null; reject(err); } });
-    });
+    building = build().catch(err => { building = null; throw err; });
   }
   return building;
 }
