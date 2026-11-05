@@ -36,7 +36,7 @@ Regula fermă din tot documentul rămâne valabilă aici la fel: **niciodată nu
 ## STATUSUL CURENT AL APLICAȚIEI
 
 ### Fișiere de bază
-- `biblie-demo.html` — fișierul principal, ~8.8MB, ultima versiune livrată e cea corectă
+- `public/biblie-demo.html` — fișierul principal, ~0,5 MB (din 5 nov. 2026); datele bibliotecii (`const LIBRARY = …`, ~11 MB) NU mai sunt în el, ci în `public/library-data.js`, încărcat cu `defer` din HTML (`library-data.js?v=N`: **se crește N la orice schimbare de date**, ca browserele să nu țină versiunea veche). Motiv: pagina de 11,8 MB (3,4 MB comprimată) se descărca și se parsa înainte de primul ecran și se vedea scurt o aplicație goală, înghețată (fals placeholder: „Citat”, „Geneza 1:1”); acum HTML-ul are 0,12 MB comprimat. Un ecran de pornire (`#boot-cover`, logo DAVAR) acoperă pagina până scriptul principal a terminat și `LIBRARY` e încărcat (`window.__mainReady`), cu siguranță de 8 s. Toate uneltele (`tools/*`, `search-index.js`) citesc `LIBRARY` din `library-data.js`, nu din HTML.
 - `manifest.json` — separat, în `public/`, lângă html
 - `public/images/` — 53+ fișiere (poze de fundal, iconițe)
 - `genesis-1.js`, `genesis-2.js`, `genesis-3.js` — singurele capitole cu lexicon Strong's+BDB și panou „Dicționar biblic" (`dict_ro`) integrate până acum, la nivelul complet al Standardului Davar (vezi mai jos)
@@ -170,8 +170,8 @@ De completat retroactiv la Geneza 2-3 când arhiva Talmud/Kabbala/comentatori e 
 
 ### 6. Validare tehnică — obligatorie la fiecare livrare
 1. DOCTYPE intact — verificat, nu presupus (a existat un incident real de corupere)
-2. `node --check` pe fiecare bloc `<script>` din fișier (există exact 2 în `biblie-demo.html`)
-3. Numărul de sloguri neschimbat — acum 386 (numărat cu regex-ul `"slug":"…"`, toate aparițiile; 5 nov. 2026), dacă nu se adaugă/șterge intenționat o lucrare (caz în care crește/scade cu exact 1 per lucrare, nu mai mult)
+2. `node --check` (sau `vm.Script`) pe fiecare script clasic inline din `biblie-demo.html` (acum: ecranul de pornire, scriptul principal; plus un modul) și pe `library-data.js`
+3. Numărul de sloguri neschimbat — acum 386 (numărat cu regex-ul `"slug":"…"`, toate aparițiile, în `library-data.js` (380) + `biblie-demo.html` (6); 5 nov. 2026), dacă nu se adaugă/șterge intenționat o lucrare (caz în care crește/scade cu exact 1 per lucrare, nu mai mult)
 4. Cifre exacte arătate, nu aproximări — câte versete, câte comentarii, ce lipsește și de ce
 
 ---
@@ -272,7 +272,7 @@ Niciodată nu presupune că o arhivă nouă e conținut nou.
 
 ### Pasul 7 — Validare tehnică, obligatorie
 1. DOCTYPE intact
-2. `node --check` pe fiecare `<script>` (exact 2)
+2. `node --check` pe scripturile inline și pe `library-data.js`
 3. Numărul de sloguri — 386 (vezi mai sus), sau +1 exact per lucrare nouă
 4. Verifică punctual: `meta`, `available: true`, numărul de capitole/versete — printează explicit, nu presupune
 

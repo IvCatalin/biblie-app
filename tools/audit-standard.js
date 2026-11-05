@@ -1,7 +1,7 @@
 // Audit Standardul Davar pe capitolele Genezei 1–23: text de bază vs Rosen, panou lexical, comparație texte, trimiteri, comentarii.
 const fs = require('fs');
 const P = 'C:/Users/ivcatali/biblie-app/public/';
-const html = fs.readFileSync(P + 'biblie-demo.html', 'utf8');
+const html = fs.readFileSync(P + 'library-data.js', 'utf8');
 const i0 = html.indexOf('const LIBRARY = ') + 16;
 const L = JSON.parse(html.slice(i0, html.indexOf('\n', i0)).trim().replace(/;$/, ''));
 const rosen = L.arhivaRabinica.subfolders[0].items[0];
