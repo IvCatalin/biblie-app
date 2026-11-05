@@ -213,5 +213,13 @@ app.listen(PORT, () => {
   console.log(`Aplicația: http://localhost:${PORT}/biblie-demo.html`);
   console.log(`Verificare rapidă: http://localhost:${PORT}/api/health\n`);
   // indexul de căutare se construiește la ~20 s după pornire (pe bucăți, fără să blocheze serverul): pornirea rămâne ușoară, iar prima căutare nu mai așteaptă
-  setTimeout(() => searchIndex.ensureIndex().catch(err => console.error("Indexul de căutare nu s-a putut construi:", err)), 20000);
+  // „Istoria zilei” se pregătește dinainte (altfel primul vizitor al zilei aștepta ~2 s): azi și mâine, la pornire și apoi zilnic
+  const warmDays = () => {
+    const ro = (offset) => { const d = new Date(Date.now() + offset * 86400000); const p = new Intl.DateTimeFormat("en-GB", { timeZone: "Europe/Bucharest", day: "numeric", month: "numeric" }).formatToParts(d); return [Number(p.find(x => x.type === "month").value), Number(p.find(x => x.type === "day").value)]; };
+    [0, 1].forEach((off, i) => setTimeout(() => { const [m, d] = ro(off); istoriaZilei.getDay(m, d).catch(() => {}); }, 3000 + i * 4000));
+  };
+  warmDays();
+  setInterval(warmDays, 6 * 3600 * 1000);
+  // indexul de căutare se construiește la ~90 s după pornire (pe bucăți): ocupă procesorul serverului câteva zeci de secunde și ar încetini pagina vizitatorilor din primele minute
+  setTimeout(() => searchIndex.ensureIndex().catch(err => console.error("Indexul de căutare nu s-a putut construi:", err)), 90000);
 });

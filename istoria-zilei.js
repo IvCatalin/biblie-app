@@ -12,7 +12,7 @@ const fs = require("fs");
 const path = require("path");
 const MONTHS = ["ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie", "august", "septembrie", "octombrie", "noiembrie", "decembrie"];
 const UA = "DavarAtlas/1.0 (https://biblie-app.onrender.com; ivan_catalin@outlook.com)";
-const TTL_MS = 12 * 3600 * 1000;
+const TTL_MS = 30 * 3600 * 1000;
 const cache = new Map();
 
 function strip(s){ return s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase(); }

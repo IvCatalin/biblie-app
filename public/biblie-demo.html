@@ -14,6 +14,18 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="application-name" content="Biblia Davar">
 <link rel="manifest" href="manifest.json?v=8">
+<!-- iPhone: imaginea de pornire (DAVAR logo, întreagă) o afișează sistemul de la apăsarea iconiței până se desenează prima pagină (în locul ecranului alb). Se citește la adăugarea aplicației pe ecranul principal. -->
+<link rel="apple-touch-startup-image" media="(device-width: 440px) and (device-height: 956px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="images/startup/startup-1320x2868.jpg">
+<link rel="apple-touch-startup-image" media="(device-width: 402px) and (device-height: 874px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="images/startup/startup-1206x2622.jpg">
+<link rel="apple-touch-startup-image" media="(device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="images/startup/startup-1290x2796.jpg">
+<link rel="apple-touch-startup-image" media="(device-width: 393px) and (device-height: 852px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="images/startup/startup-1179x2556.jpg">
+<link rel="apple-touch-startup-image" media="(device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="images/startup/startup-1284x2778.jpg">
+<link rel="apple-touch-startup-image" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="images/startup/startup-1170x2532.jpg">
+<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="images/startup/startup-1125x2436.jpg">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="images/startup/startup-1242x2688.jpg">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="images/startup/startup-828x1792.jpg">
+<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="images/startup/startup-1242x2208.jpg">
+<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="images/startup/startup-750x1334.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600;700&family=Noto+Sans+Hebrew:wght@400;600&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600;700&family=Noto+Sans+Hebrew:wght@400;600&display=swap" rel="stylesheet"></noscript>
@@ -36,7 +48,7 @@
     --glass-bg-strong: rgba(255,255,255,0.17);
     --glass-border: rgba(255,255,255,0.24);
     --glass-blur: blur(24px);
-    --header-bg-image: url('images/header-bg-main.jpg?v=1');
+    --header-bg-image: url('images/header-bg-main.jpg?v=2');
   }
   *{box-sizing:border-box; -webkit-tap-highlight-color:transparent;}
   html{background:var(--parchment); color-scheme:dark; height:100%;}
@@ -114,7 +126,7 @@
     min-height: 150px;
   }
   #tab-diverse > header{
-    background-image: url('images/header-bg-diverse.jpg?v=5');
+    background-image: url('images/header-bg-diverse.jpg?v=6');
   }
   #tab-biblia > header,
   #tab-diverse > header,
@@ -8238,6 +8250,8 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
     const my = ++loadReq;
     const t = now();
     setLoading();
+    // versetul zilei (din lista curată) nu mai așteaptă răspunsul serverului pentru istoria zilei
+    if(window.votdSetFromHaftarah && typeof votdHafActive !== "undefined" && !votdHafActive) window.votdSetFromHaftarah("");
     const ctrl = new AbortController();
     const timer = setTimeout(() => ctrl.abort(), 20000);
     try {
@@ -8246,9 +8260,9 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
       const data = await r.json();
       if(my !== loadReq) return;
       renderAll(data);
-      if(window.votdSetFromHaftarah){
+      if(window.quoteForContext){ // doar citatul se potrivește cu istoria zilei; versetul rămâne cel ales deja
         const m = data.main;
-        window.votdSetFromHaftarah(m ? m.text + " " + (m.story ? m.story.paragraphs.join(" ") : "") : "");
+        window.quoteForContext((m ? m.text + " " + (m.story ? m.story.paragraphs.join(" ") : "") : "") + " " + ((document.getElementById("home-verse-text") || {}).textContent || ""));
       }
     } catch(e){
       if(my !== loadReq) return;
