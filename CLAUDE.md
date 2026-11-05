@@ -159,10 +159,18 @@ Fiecare rând din „Comentarii" și „Texte" trebuie să aibă una din două f
 
 De completat retroactiv la Geneza 2-3 când arhiva Talmud/Kabbala/comentatori e disponibilă pentru verificare.
 
+#### Reguli noi, 5 nov. 2026 (se adaugă la cele 6 secțiuni)
+- **Text de bază = exact Rosen din Bibliotecă.** La fiecare capitol se compară textul versetelor (tokenii lipiți) cu textul Rosen din , cuvânt cu cuvânt, inclusiv punctuația finală. Notele de subsol Rosen au uneori etichete  interioare: se elimină prin numărare de etichete (nu cu prima ); aceeași regulă în  și în cititor. Geneza 1–23: verificat, 0 diferențe.
+- **Talmud: cititorul nu arată foi.** Fiecare tratat se arată pe capitole reale („Capitolul 9”, din împărțirea Sefaria), cu unitățile numerotate în ordine; foile apar doar în „i” (câmpul ). Un rând de Talmud în Comentarii are eticheta „Talmudul Babilonian, Șabat, cap. 9”, iar ținta butonului „Citește pasajul” stă în câmpul ascuns  al rândului. Nicio etichetă nu conține „Foaia”, „Daf” sau numere de foaie.
+- **Tora completă în Biblia (5 nov. 2026):** , , , ,  există cu text Rosen; Geneza 24–50 au și comentarii reale (7 comentatori + Talmud din paginile integrate). Le lipsesc încă panoul lexical, comparația de texte, trimiterile TSK și Fidela: NU sunt la nivelul complet al standardului.
+- **Numerotare Rosen/ebraică ≠ EDC100** la 20 de capitole (Geneza 31–32; Exodul 7–8, 20–22; Leviticul 5–6; Numeri 16–17, 29–30; Deuteronom 5, 12–13, 22–23, 28–29). Nerezolvat: se aliniază doar după decizia utilizatorului (verificat pe ebiblia, 5 nov.).
+- **Căutare:** indexul se construiește pe bucăți, la ~20 s după pornire; limită de 60 de căutări pe minut pe vizitator; fișierele text sunt servite gzip. Pe Render Starter (512 MB) indexul ocupă ~330 MB: orice text nou mare trebuie testat pentru memorie ( cu , RSS sub ~400 MB) înainte de push.
+- Procesul de lucru la un capitol nou: (1) text Rosen exact; (2) panou lexical complet ( la fiecare cuvânt tagat; ținta de ~9,9 cuvinte pe verset e un ghid, nu se fragmentează); (3) comparație de texte la fiecare verset; (4) trimiteri TSK 5–6 pe verset; (5) rânduri de comentarii reale,  și  „în lucru” până vin; (6) validare tehnică.
+
 ### 6. Validare tehnică — obligatorie la fiecare livrare
 1. DOCTYPE intact — verificat, nu presupus (a existat un incident real de corupere)
 2. `node --check` pe fiecare bloc `<script>` din fișier (există exact 2 în `biblie-demo.html`)
-3. Numărul de sloguri neschimbat — trebuie 362, dacă nu se adaugă/șterge intenționat o lucrare (caz în care crește/scade cu exact 1 per lucrare, nu mai mult)
+3. Numărul de sloguri neschimbat — acum 386 (numărat cu regex-ul `"slug":"…"`, toate aparițiile; 5 nov. 2026), dacă nu se adaugă/șterge intenționat o lucrare (caz în care crește/scade cu exact 1 per lucrare, nu mai mult)
 4. Cifre exacte arătate, nu aproximări — câte versete, câte comentarii, ce lipsește și de ce
 
 ---
@@ -233,7 +241,7 @@ Niciodată nu presupune că o arhivă nouă e conținut nou.
 ### Pasul 7 — Validare tehnică, obligatorie
 1. DOCTYPE intact
 2. `node --check` pe fiecare `<script>` (exact 2)
-3. Numărul de sloguri — 362, sau +1 exact per lucrare nouă
+3. Numărul de sloguri — 386 (vezi mai sus), sau +1 exact per lucrare nouă
 4. Verifică punctual: `meta`, `available: true`, numărul de capitole/versete — printează explicit, nu presupune
 
 ### Ce NU se face niciodată
