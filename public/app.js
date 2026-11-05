@@ -3838,7 +3838,7 @@ function applyVerseOfDayBackground(){
 }
 applyVerseOfDayBackground();
 
-loadVerseOfTheDay();
+setTimeout(() => { if(!votdHafActive) loadVerseOfTheDay(); }, 2500); // rezervă: doar dacă versetul zilei din lista curată nu a sosit
 
 // Reprogramare automată la fiecare miezul nopții local — dacă tab-ul rămâne
 // deschis mai multe zile, versetul zilei tot se schimbă, nu rămâne blocat
@@ -5294,10 +5294,8 @@ function initApp(){
 }
 
 initApp();
-// Ecranul de pornire dispare abia când conținutul de pe acasă e încărcat: versetul zilei, istoria zilei și pericopa săptămânii (nu doar scheletul). Plasă de siguranță: 4 s.
-window.__homeNeeds = { votd: 1, hist: 1, peri: 1 };
-window.__homeDone = function(k){ if(window.__homeNeeds && window.__homeNeeds[k]){ delete window.__homeNeeds[k]; if(!Object.keys(window.__homeNeeds).length) window.__mainReady = true; } };
-setTimeout(() => { window.__mainReady = true; }, 4000);
+// Interfața acasă e construită: ecranul de pornire dispare acum. Versetul zilei, istoria zilei și pericopa se completează apoi, fiecare când îi vin datele (din memoria telefonului: în câteva sute de milisecunde).
+window.__mainReady = true;
 
 // Datele bibliotecii (library-data.js, ~11 MB) NU se cer la pornire: ar concura cu primul ecran. Se încarcă după ce acasă e gata (în pauză),
 // sau imediat ce e nevoie (Diverse, foaia de verset). După încărcare, imaginile cardurilor din Diverse se pregătesc în fundal.
