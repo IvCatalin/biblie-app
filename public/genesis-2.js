@@ -2073,7 +2073,7 @@ window.CHAPTER_DATA = [
     "t": " îl "
    },
    {
-    "t": "plăsmuise",
+    "t": "plăsmuise.",
     "w": "plăsmuise",
     "heb": "יָצָר",
     "translit": "yatsar",
@@ -2347,7 +2347,7 @@ window.CHAPTER_DATA = [
     "t": " și "
    },
    {
-    "t": "Pomul Cunoașterii Binelui și Răului",
+    "t": "Pomul Cunoașterii Binelui și Răului.",
     "w": "Pomul Cunoașterii Binelui și Răului",
     "heb": "עֵץ הַדַּעַת טוֹב וָרָע",
     "translit": "Ets HaDaat Tov VaRa",
@@ -2576,7 +2576,7 @@ window.CHAPTER_DATA = [
     "t": " "
    },
    {
-    "t": "patru brațe",
+    "t": "patru brațe.",
     "w": "patru brațe",
     "heb": "אַרְבָּעָה רָאשִׁים",
     "translit": "arba'ah rashim",
@@ -2815,7 +2815,7 @@ window.CHAPTER_DATA = [
     "t": " "
    },
    {
-    "t": "aurul",
+    "t": "aurul.",
     "w": "aurul",
     "heb": "הַזָּהָב",
     "translit": "hazahav",
@@ -3027,7 +3027,7 @@ window.CHAPTER_DATA = [
     "t": " și "
    },
    {
-    "t": "piatra onix",
+    "t": "piatra onix.",
     "w": "piatra onix",
     "heb": "אֶבֶן הַשֹּׁהַם",
     "translit": "even hashoham",
@@ -3242,7 +3242,7 @@ window.CHAPTER_DATA = [
     "t": " "
    },
    {
-    "t": "Cuș",
+    "t": "Cuș.",
     "w": "Cuș",
     "heb": "כּוּשׁ",
     "translit": "Kush",
@@ -3466,7 +3466,7 @@ window.CHAPTER_DATA = [
     "t": " este "
    },
    {
-    "t": "Eufrat",
+    "t": "Eufrat.",
     "w": "Eufrat",
     "heb": "פְּרָת",
     "translit": "Perat",
@@ -3650,7 +3650,7 @@ window.CHAPTER_DATA = [
     "t": " și "
    },
    {
-    "t": "s-o păzească",
+    "t": "s-o păzească.",
     "w": "s-o păzească",
     "heb": "וּלְשָׁמְרָהּ",
     "translit": "uleshomrah",
@@ -3845,7 +3845,7 @@ window.CHAPTER_DATA = [
     "t": " "
    },
    {
-    "t": "poți mânca",
+    "t": "poți mânca,",
     "w": "poți mânca",
     "heb": "אָכֹל תֹּאכֵל",
     "translit": "akhol tokhel",
@@ -5775,7 +5775,7 @@ window.CHAPTER_DATA = [
     "t": " "
    },
    {
-    "t": "un singur trup",
+    "t": "un singur trup.",
     "w": "un singur trup",
     "heb": "בָּשָׂר אֶחָד",
     "translit": "basar echad",
@@ -5962,7 +5962,7 @@ window.CHAPTER_DATA = [
     "t": ", și nu se "
    },
    {
-    "t": "rușinau",
+    "t": "rușinau.",
     "w": "rușinau",
     "heb": "יִתְבֹּשָׁשׁוּ",
     "translit": "yitboshashu",

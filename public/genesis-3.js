@@ -310,7 +310,10 @@ window.CHAPTER_DATA = [
     "dict_ro": "Gan, „grădină”, loc îngrădit și ocrotit — la Geneza 3, grădina Edenului devine scena atât a ispitei, cât și a judecății: Adam și Eva se ascund „în mijlocul pomilor grădinii” (3:8), apoi sunt alungați din ea (3:23-24)."
    },
    {
-    "t": "?»”"
+    "t": "»?"
+   },
+   {
+    "t": "”"
    }
   ],
   "refs": [
@@ -499,7 +502,7 @@ window.CHAPTER_DATA = [
     "t": " "
    },
    {
-    "t": "putem mânca",
+    "t": "putem mânca.",
     "w": "putem mânca",
     "heb": "נֹאכֵל",
     "translit": "nokhel",
@@ -727,7 +730,7 @@ window.CHAPTER_DATA = [
     "t": " de el, ca nu cumva să "
    },
    {
-    "t": "muriți",
+    "t": "muriți.»”",
     "w": "muriți",
     "heb": "תְּמֻתוּן",
     "translit": "temutun",
@@ -1028,22 +1031,7 @@ window.CHAPTER_DATA = [
     "dict_ro": "Verbul paqach, „a deschide (ochii)” — la Geneza 3:5, 7, verb tehnic pentru deschiderea ochilor, folosit și pentru vindecarea orbilor (Isaia 35:5) — aici, ironic, o „deschidere” care aduce nu vedere adevărată, ci conștiința rușinii."
    },
    {
-    "t": ", și veți fi "
-   },
-   {
-    "t": "asemenea",
-    "w": "asemenea",
-    "heb": "כֵּאלֹהִים",
-    "translit": "ke'Elohim",
-    "strong": "H430",
-    "pos": "substantiv",
-    "greek": "ὡς θεοί",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def": "ca Dumnezeu.",
-    "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
-    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
-    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate.",
-    "dict_ro": "Elohim, „Dumnezeu” — la Geneza 3, șarpele Îl numește doar „Elohim” (3:1, 5), fără Numele propriu YHVH folosit de restul textului, o observație pe care unii comentatori o leagă de distanțarea și necunoașterea reală a lui Dumnezeu pe care o sugerează vorbirea șarpelui."
+    "t": " și veți fi asemenea lui Dumnezeu"
    },
    {
     "t": ", "
@@ -1631,7 +1619,7 @@ window.CHAPTER_DATA = [
     "t": " "
    },
    {
-    "t": "șorțuri",
+    "t": "șorțuri.",
     "w": "șorțuri",
     "heb": "חֲגֹרֹת",
     "translit": "chagorot",
@@ -2092,7 +2080,7 @@ window.CHAPTER_DATA = [
     "dict_ro": "Koh, particulă adverbială „așa, aici”, cu sens variabil după context."
    },
    {
-    "t": "?"
+    "t": "?”"
    }
   ],
   "commentaries": [
@@ -3673,6 +3661,9 @@ window.CHAPTER_DATA = [
     "def_ro": "a stăpâni, a cârmui.",
     "greek_def_ro": "— (redat prin construcții grecești variate.)",
     "dict_ro": "Verbul mashal, „a stăpâni, a cârmui” — la Geneza 3:16, în judecata asupra femeii: „el (soțul) va stăpâni peste tine”, verset larg discutat în teologia privind relațiile dintre soți după cădere, față de rânduiala inițială de egalitate din capitolul 2."
+   },
+   {
+    "t": " peste tine.”"
    }
   ],
   "refs": [
@@ -4567,7 +4558,7 @@ window.CHAPTER_DATA = [
     "t": " a tot ce este "
    },
    {
-    "t": "viu",
+    "t": "viu.",
     "w": "viu",
     "heb": "חָי",
     "translit": "chai",
@@ -4729,7 +4720,7 @@ window.CHAPTER_DATA = [
     "t": " și i-a "
    },
    {
-    "t": "îmbrăcat",
+    "t": "îmbrăcat.",
     "w": "îmbrăcat",
     "heb": "וַיַּלְבִּשֵׁם",
     "translit": "vayalbishem",
@@ -5009,7 +5000,7 @@ window.CHAPTER_DATA = [
     "t": " "
    },
    {
-    "t": "veșnic",
+    "t": "veșnic!”",
     "w": "veșnic",
     "heb": "לְעֹלָם",
     "translit": "le'olam",

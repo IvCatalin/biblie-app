@@ -2152,11 +2152,7 @@ window.CHAPTER_DATA = [
     "t": " "
    },
    {
-    "t": "[singur]",
-    "editorial": true
-   },
-   {
-    "t": " și "
+    "t": "și "
    },
    {
     "t": "să se arate",
@@ -5050,7 +5046,7 @@ window.CHAPTER_DATA = [
     "t": " "
    },
    {
-    "t": "monștrii marini cei mari,",
+    "t": "monștrii marini cei mari",
     "w": "monștrii marini",
     "heb": "הַתַּנִּינִם",
     "translit": "hataninim",
@@ -5063,24 +5059,6 @@ window.CHAPTER_DATA = [
     "def_ro": "monstru marin sau de uscat — șarpe de mare sau șacal.",
     "greek_def_ro": "κῆτος (ketos) — fiară de mare, monstru marin.",
     "dict_ro": "Tannin, cuvânt tradus adesea „monștri marini”, denumește în alte locuri ale Bibliei șerpi mari sau crocodilul (Ieșirea 7:9-12; Iezechiel 29:3). În poezia biblică mai târzie, Leviatanul și Rahab, monștri ai haosului marin din mitologiile vecine, sunt înfățișați ca simple creaturi supuse lui Dumnezeu, nu ca puteri rivale (Psalmul 74:13-14; Isaia 27:1) — o polemică tăcută împotriva miturilor păgâne ale creației."
-   },
-   {
-    "t": " "
-   },
-   {
-    "t": "mari",
-    "w": "mari",
-    "heb": "הַגְּדֹלִים",
-    "translit": "hagdolim",
-    "strong": "H1419",
-    "pos": "adjectiv, plural cu articol",
-    "greek": "μέγας (megas)",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
-    "def": "great (in any sense); hence, older; also insolent",
-    "bdb": "גָּדוֹל 622 adj. great (1) in magnitude and extent (2) in number (3) in intensity (4) in sound, loud (5) in age (6) in importance (7) in phrases (8) cstr. (9) as subst. concr. do great things (10) † as subst. neut. greatness of arm",
-    "def_ro": "mare — în orice sens; de aici, „mai în vârstă”; sau, la figurat, „îngâmfat”.",
-    "greek_def_ro": "μέγας (megas) — mare.",
-    "dict_ro": "Gadol, „mare”, folosit la ziua a patra pentru cei doi „luminători mari” (soarele și luna), spre deosebire de stele, pomenite doar în treacăt — o insistență remarcată de comentatori ca polemică față de cultele astrale vecine, care închinau stelelor aceeași cinste."
    },
    {
     "t": " și "
@@ -7575,24 +7553,6 @@ window.CHAPTER_DATA = [
    },
    {
     "t": " care este pe "
-   },
-   {
-    "t": "sămânță",
-    "w": "sămânță",
-    "heb": "זֶרַע",
-    "translit": "zera",
-    "strong": "H2233",
-    "pos": "substantiv",
-    "greek": "σπέρμα (sperma)",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
-    "def": "seed; figuratively, fruit, plant, sowing-time, posterity",
-    "bdb": "זֶ֫רַע n.m. sowing, seed, offspring (1) lit.: (a) a sowing (b) sowing as regularly recurring at its season (2) seed (3) seed = semen virile (4) seed = offspring (5) seed as marked by moral quality = persons (or community) of such a quality",
-    "def_ro": "sămânță — literal sau, la figurat, rod, urmași, vreme de semănat.",
-    "greek_def_ro": "σπέρμα (sperma) — sămânță.",
-    "dict_ro": "Zera, „sămânță”, e un cuvânt-cheie în toată Geneza, ducând mai departe firul făgăduinței: „sămânța ta” va fi vrăjmașă șarpelui (Geneza 3:15), iar mai târziu „sămânța” lui Avraam va fi înmulțită ca stelele cerului (Geneza 15:5)."
-   },
-   {
-    "t": " "
    },
    {
     "t": "fața",

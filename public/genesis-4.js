@@ -901,7 +901,7 @@ window.CHAPTER_DATA = [
     "t": " i s-a "
    },
    {
-    "t": "posomorât",
+    "t": "posomorât.",
     "w": "posomorât",
     "heb": "וַיִּפְּלוּ",
     "translit": "vayiplu",
@@ -1221,7 +1221,7 @@ window.CHAPTER_DATA = [
     "t": " îl poți "
    },
    {
-    "t": "stăpâni",
+    "t": "stăpâni.”",
     "w": "stăpâni",
     "heb": "תִּמְשָׁל",
     "translit": "timshol",
@@ -1402,7 +1402,7 @@ window.CHAPTER_DATA = [
     "t": " asupra fratelui său Abel și l-a "
    },
    {
-    "t": "omorât",
+    "t": "omorât.",
     "w": "omorât",
     "heb": "וַיַּהַרְגֵהוּ",
     "translit": "vayahargehu",
@@ -1815,19 +1815,7 @@ window.CHAPTER_DATA = [
     "dict_ro": "Rădăcina arar, „a blestema” — aceeași rădăcină ca blestemul șarpelui și al pământului la Geneza 3:14, 17; de această dată, pentru prima oară, blestemul cade direct asupra unei persoane, nu doar asupra unei circumstanțe a ei — Cain e „mai blestemat” decât fusese pământul însuși."
    },
    {
-    "t": " ești "
-   },
-   {
-    "t": "tu",
-    "w": "tu",
-    "heb": "אַתָּה",
-    "translit": "atah",
-    "strong": "H859",
-    "pos": "pronume",
-    "greek": "σὺ",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tu.",
-    "dict_ro": "Pronumele atah, „tu” — folosit separat pentru accent, subliniind responsabilitatea personală: nu împrejurările, nu fratele, ci Cain însuși are puterea de a stăpâni impulsul care-l pândește."
+    "t": " ești"
    },
    {
     "t": ", mai mult decât "
@@ -2205,7 +2193,7 @@ window.CHAPTER_DATA = [
     "t": " ca să fie "
    },
    {
-    "t": "îndurat",
+    "t": "îndurat?",
     "w": "îndurat",
     "heb": "מִנְּשֹׂא",
     "translit": "minneso",
@@ -3179,7 +3167,7 @@ window.CHAPTER_DATA = [
     "t": " i s-a născut "
    },
    {
-    "t": "Lameh",
+    "t": "Lameh.",
     "w": "Lameh",
     "heb": "לָמֶךְ",
     "translit": "Lamekh",
@@ -3343,7 +3331,7 @@ window.CHAPTER_DATA = [
     "t": " era "
    },
    {
-    "t": "Țila",
+    "t": "Țila.",
     "w": "Țila",
     "heb": "צִלָּה",
     "translit": "Tsilah",
@@ -3679,7 +3667,7 @@ window.CHAPTER_DATA = [
     "t": " și "
    },
    {
-    "t": "fluierul",
+    "t": "fluierul.",
     "w": "fluierul",
     "heb": "עוּגָב",
     "translit": "ugav",
@@ -3869,7 +3857,7 @@ window.CHAPTER_DATA = [
     "t": " lui Tuval Cain era "
    },
    {
-    "t": "Naama",
+    "t": "Naama.",
     "w": "Naama",
     "heb": "נַעֲמָה",
     "translit": "Na'amah",
@@ -4264,6 +4252,9 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "de șaptezeci și șapte.",
     "dict_ro": "Shiv'im veshiv'ah, „șaptezeci și șapte” — hiperbolă poetică ce depășește cu mult „de șapte ori” promis lui Cain (4:15); Rashi și Ramban citesc versetul diferit — unii ca pe o laudă sfidătoare și needificatoare a violenței (un „argument absurd” după cum îl numește Rashi, citând Midrash Bereșit Rabbah), alții ca pe o încercare sinceră a lui Lameh de a-și liniști soțiile temătoare, arătând că el, spre deosebire de Cain, n-a ucis cu premeditare."
+   },
+   {
+    "t": " [de ori]!”"
    }
   ],
   "textCompare": [

@@ -1564,7 +1564,7 @@ window.CHAPTER_DATA = [
     "t": " și "
    },
    {
-    "t": "Iafet",
+    "t": "Iafet.",
     "w": "Iafet",
     "heb": "יָפֶת",
     "translit": "Yafet",
