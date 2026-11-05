@@ -1884,14 +1884,14 @@
     font-family:'Inter', sans-serif;
     font-size:13px;
     font-weight:600;
-    color:var(--ink-soft);
+    color:var(--title-gold);
     background:none;
     border:none;
     border-bottom:2px solid transparent;
     padding:8px 4px;
     cursor:pointer;
   }
-  .vs-tab.active{color:var(--ink); border-bottom-color:var(--gold);}
+  .vs-tab.active{color:var(--title-gold); border-bottom-color:var(--title-gold); font-weight:700;}
   .vs-tab-content{padding:10px 0 4px;}
   .vs-comment-row{
     display:flex;
@@ -4355,7 +4355,8 @@ function renderVerseSheetTabs(verse){
 
   // "Context literar-istoric" și "Istorici" (Josephus etc.) sunt azi comentarii
   // ca oricare altele, dar aparțin conceptual tab-ului Texte, nu Comentarii.
-  const isAneOrHistorian = (author) => /istoric|josephus|flavius|jubileelor|apocrif|adam.*eva/i.test(author || "");
+  // regula: tot ce vine din Diverse ca text (Josephus, Jubilee, Enoh, Cartea Dreptului, Apocalipsa lui Moise, 4 Ezdra, Baruh, Sibiline, deuterocanonice etc.) poartă eticheta „… — comparație" și merge în Texte
+  const isAneOrHistorian = (author) => /istoric|josephus|flavius|jubileelor|apocrif|adam.*eva/i.test(author || "") || /—\s*(context\/)?comparație\s*$/i.test(author || "");
 
   const allComments = (verse.commentaries || []);
   const realComments = allComments.filter(c => !isAneOrHistorian(c.author));
@@ -4463,7 +4464,7 @@ function renderVerseSheetTabs(verse){
         const label = document.createElement("div");
         label.className = "lib-section-title";
         label.style.margin = "16px 0 4px";
-        label.textContent = "Context istoric, Josephus și apocrife";
+        label.textContent = "Context istoric, Josephus, apocrife și pseudepigrafe";
         contentEl.appendChild(label);
         aneAndHistorians.forEach(c => appendCommentRow(contentEl, c.author, c.text, null, null, srcOf(c.author, c)));
       }
