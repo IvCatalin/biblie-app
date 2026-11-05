@@ -1,7 +1,7 @@
 // node show-units.js slug cap v1,v2,...  → textul întreg al unităților
 const fs = require('fs');
 const P = 'C:/Users/ivcatali/biblie-app/public/';
-const html = fs.readFileSync(P + 'library-data.js', 'utf8');
+const html = fs.readFileSync(P + 'biblie-demo.html', 'utf8');
 const i0 = html.indexOf('const LIBRARY = ') + 16;
 const L = JSON.parse(html.slice(i0, html.indexOf('\n', i0)).trim().replace(/;$/, ''));
 const [slug, cap, vs] = process.argv.slice(2);

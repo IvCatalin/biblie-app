@@ -48,10 +48,10 @@ function plain(t){
 
 // scoate obiectul LIBRARY din pagină (aceeași sursă ca aplicația)
 function readLibrary(){
-  const html = fs.readFileSync(path.join(PUB, "library-data.js"), "utf8");
+  const html = fs.readFileSync(path.join(PUB, "biblie-demo.html"), "utf8");
   const marker = "const LIBRARY = ";
   const i = html.indexOf(marker);
-  if(i < 0) throw new Error("LIBRARY nu a fost găsit în library-data.js");
+  if(i < 0) throw new Error("LIBRARY nu a fost găsit în biblie-demo.html");
   const s = html.indexOf("{", i);
   let depth = 0, inStr = false, esc = false, e = s;
   for(; e < html.length; e++){
