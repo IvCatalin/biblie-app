@@ -7887,6 +7887,8 @@ function loadVerseOfTheDay(){
 // (search-haftarot.js). Dacă indexul nu se încarcă, rămâne versetul din Geneza 1, ca înainte.
 // ---------------------------------------------------------------------
 let votdHafActive = false;
+// Versetele zilei: doar versete de încurajare, bucurie, mângâiere și înălțare, alese manual din Haftarot (referințe exacte). Nu se mai alege orice verset după cuvintele evenimentului zilei.
+const VOTD_CURATED = new Set(["Isaia 40:1","Isaia 40:11","Isaia 40:26","Isaia 40:29","Isaia 40:31","Isaia 41:10","Isaia 41:13","Isaia 42:6","Isaia 42:10","Isaia 42:16","Isaia 43:1","Isaia 43:2","Isaia 43:4","Isaia 43:5","Isaia 44:3","Isaia 44:22","Isaia 44:23","Isaia 49:15","Isaia 49:16","Isaia 51:3","Isaia 51:12","Isaia 52:7","Isaia 52:9","Isaia 54:10","Isaia 54:13","Isaia 54:14","Isaia 54:17","Isaia 55:1","Isaia 55:3","Isaia 55:6","Isaia 55:7","Isaia 55:8","Isaia 55:9","Isaia 55:10","Isaia 55:11","Isaia 55:12","Isaia 57:15","Isaia 57:18","Isaia 57:19","Isaia 58:8","Isaia 58:9","Isaia 58:10","Isaia 58:11","Isaia 60:1","Isaia 60:2","Isaia 60:5","Isaia 60:15","Isaia 60:19","Isaia 61:10","Isaia 62:3","Isaia 62:4","Isaia 62:5","Isaia 63:7","Isaia 63:9","Isaia 66:10","Isaia 66:13","Isaia 12:2","Isaia 12:3","Isaia 12:4","Isaia 12:5","Isaia 12:6","Isaia 9:6","Isaia 11:2","Isaia 11:9","Isaia 27:6","Isaia 6:3","Isaia 1:18","Ieremia 1:5","Ieremia 1:8","Ieremia 1:19","Ieremia 17:7","Ieremia 17:8","Ieremia 17:14","Ieremia 31:3","Ieremia 31:4","Ieremia 31:12","Ieremia 31:13","Ieremia 31:14","Ieremia 31:16","Ieremia 46:27","Osea 14:5","Osea 14:6","Osea 14:7","Osea 14:8","Ioel 2:21","Ioel 2:23","Ioel 2:24","Ioel 2:25","Ioel 2:26","Amos 9:13","Amos 9:14","Amos 9:15","Mica 7:18","Mica 7:19","Mica 6:8","Habacuc 3:18","Habacuc 3:19","Zaharia 4:6","Maleahi 3:10","Maleahi 3:12","Iosua 1:5","Iosua 1:9","2 Samuel 22:2","2 Samuel 22:3","2 Samuel 22:29","2 Samuel 22:31","2 Samuel 22:33","2 Samuel 22:34","2 Samuel 22:47","1 Samuel 2:1","1 Samuel 2:2","1 Samuel 2:8","1 Împărați 8:56","1 Împărați 8:57","Ezechiel 36:26","Ezechiel 36:28","Ezechiel 37:14","Judecători 5:3"]);
 const VOTD_STOP = new Set(["dumnez","domnul","israel","pentru","aceast","acestu","aceste","dintre","despre","printr","asupra","impotr","precum","atunci","fiecar","tuturo","inaint","acesta","aceea","devine","fusese","fiind","toate","unde","cand","dupa","intre","alte","sunt","este","sale","unui","unei","altor","care","fost","anul","anului","regele","poporu"]);
 function votdStem(w){
   return w.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "").slice(0, 6);
@@ -7915,30 +7917,15 @@ function votdSetFromHaftarah(hint){
     const refEl = document.getElementById("home-verse-ref");
     const textEl = document.getElementById("home-verse-text");
     if(!idx || !refEl || !textEl) return;
-    const list = [];
-    Object.keys(idx).forEach(slug => idx[slug].forEach(e => list.push({ slug, chIdx: e[0], title: e[2], verses: e[3] })));
-    if(!list.length) return;
+    const pool = [];
+    Object.keys(idx).forEach(slug => idx[slug].forEach(e => e[3].forEach(v => { if(VOTD_CURATED.has(v[0])) pool.push({ h: { slug, chIdx: e[0], title: e[2] }, v }); })));
+    if(!pool.length) return;
     const day = dayOfYear(new Date());
-    const base = list[day % list.length]; // haftara zilei
+    // versetul zilei = un verset încurajator din lista curată; dacă unul se potrivește clar cu evenimentul zilei, se alege acela, altfel urmează rotația pe zile
     const ht = votdTokens(hint);
     const score = v => { let n = 0; votdTokens(v[1]).forEach(t => { if(ht.has(t)) n++; }); return n; };
-    const okLen = v => v[1].length >= 40 && v[1].length <= 330;
-
-    let pick = null, best = 0;
-    if(ht.size){
-      list.forEach(h => h.verses.forEach(v => { if(!okLen(v)) return; const s = score(v); if(s > best){ best = s; pick = { h, v }; } }));
-    }
-    if(!pick || best < 3){ // potrivire slabă în altă haftară → versetul cel mai apropiat din haftara zilei
-      pick = null;
-      let b2 = 0;
-      base.verses.forEach(v => { if(!okLen(v)) return; const s = ht.size ? score(v) : 0; if(s > b2){ b2 = s; pick = { h: base, v }; } });
-      if(!pick){
-        const pool = base.verses.filter(okLen);
-        const arr = pool.length ? pool : base.verses;
-        const v = arr[(day * 7) % arr.length];
-        pick = { h: base, v };
-      }
-    }
+    let pick = pool[day % pool.length], best = 0;
+    if(ht.size) pool.forEach(p => { const s = score(p.v); if(s > best){ best = s; if(s >= 2) pick = p; } });
     const v = pick.v;
     refEl.textContent = v[0];
     textEl.textContent = "„" + v[1] + "”";

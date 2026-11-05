@@ -3788,6 +3788,17 @@ window.CHAPTER_DATA = [
       "v": 1
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și în ziua aceea s-a închis gura tuturor fiarelor, și a vitelor, și a păsărilor, și a tot ce umblă, și a tot ce se mișcă, încât nu au mai putut vorbi; căci toate vorbiseră una cu alta cu o singură buză și cu o singură limbă.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 28
+     }
+    }
    }
   ],
   "textCompare": [
