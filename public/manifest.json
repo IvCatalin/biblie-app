@@ -4,7 +4,7 @@
   "description": "Davar — Scripturile vieții veșnice. Studiu biblic în română: text, lexic ebraic, comentarii și context istoric.",
   "start_url": "/biblie-demo.html",
   "display": "standalone",
-  "background_color": "#101f3c",
+  "background_color": "#0a1226",
   "theme_color": "#101f3c",
   "icons": [
     {
