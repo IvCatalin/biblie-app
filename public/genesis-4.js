@@ -14,8 +14,10 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Ἀδάμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "omul.",
-    "dict_ro": "Ha-adam, „omul”, cu articol hotărât — aceeași formă generică folosită la Geneza 2-3, aici pentru ultima dată înainte ca la 4:25 textul să treacă la Adam ca nume propriu, fără articol. Trecerea marchează simbolic ieșirea din Eden: „omul” generic devine, treptat, un individ cu nume și genealogie proprie."
+    "def_ro": "om, omenire — propriu-zis, „roșiatic”; folosit pentru un singur om sau pentru neamul omenesc întreg.",
+    "dict_ro": "Ha-adam, „omul”, cu articol hotărât — aceeași formă generică folosită la Geneza 2-3, aici pentru ultima dată înainte ca la 4:25 textul să treacă la Adam ca nume propriu, fără articol. Trecerea marchează simbolic ieșirea din Eden: „omul” generic devine, treptat, un individ cu nume și genealogie proprie.",
+    "greek_def_ro": "ἄνθρωπος (anthropos) — om, ființă omenească.",
+    "diff_ro": "Ebraica are cuvântul comun „omul” (ha-adam, cu articol); greaca îl redă ca nume propriu, „Adam”."
    },
    {
     "t": " a "
@@ -29,8 +31,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔγνω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a cunoscut.",
-    "dict_ro": "Verbul yada, „a ști, a cunoaște” — folosit aici (ca și la 4:17 și 4:25) ca eufemism biblic obișnuit pentru unirea trupească dintre soț și soție, aceeași rădăcină ca la „pomul cunoașterii binelui și răului” din Geneza 2-3. Ebraica biblică nu separă cunoașterea intelectuală de intimitatea trupească — a „cunoaște” pe cineva înseamnă o legătură profundă, nu doar informație."
+    "def_ro": "a ști, a cunoaște — aceeași rădăcină ca în „pomul cunoașterii” de la capitolul anterior.",
+    "dict_ro": "Verbul yada, „a ști, a cunoaște” — folosit aici (ca și la 4:17 și 4:25) ca eufemism biblic obișnuit pentru unirea trupească dintre soț și soție, aceeași rădăcină ca la „pomul cunoașterii binelui și răului” din Geneza 2-3. Ebraica biblică nu separă cunoașterea intelectuală de intimitatea trupească — a „cunoaște” pe cineva înseamnă o legătură profundă, nu doar informație.",
+    "greek_def_ro": "γινώσκω (ginōskō) — a cunoaște; în sens biblic, și a cunoaște în împreunarea conjugală."
    },
    {
     "t": " pe "
@@ -44,8 +47,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Εὔαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Eva.",
-    "dict_ro": "Chavah, Eva — nume explicat chiar în text la Geneza 3:20, din rădăcina chayah, „a trăi”, pentru că „ea a fost mama tuturor celor vii”. Aici, la 4:1, e prima ei apariție ca mamă efectivă, împlinind numele primit cu un capitol înainte."
+    "def_ro": "Eva — nume propriu, înrudit cu rădăcina „a trăi”; înseamnă „viață” sau „cea vie”.",
+    "dict_ro": "Chavah, Eva — nume explicat chiar în text la Geneza 3:20, din rădăcina chayah, „a trăi”, pentru că „ea a fost mama tuturor celor vii”. Aici, la 4:1, e prima ei apariție ca mamă efectivă, împlinind numele primit cu un capitol înainte.",
+    "greek_def_ro": "Εὔα (Eua) — Eva, nume propriu (la acuzativ)."
    },
    {
     "t": ", "
@@ -59,8 +63,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν γυναῖκα αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "soția lui.",
-    "dict_ro": "Ishah, „femeie, soție” — aceeași rădăcină legată prin joc de cuvinte de ish, „bărbat” (Geneza 2:23). La Geneza 4, Eva e numită mereu „soția lui” în relație cu Adam, nu cu numele propriu, semn al perspectivei genealogice a capitolului."
+    "def_ro": "femeie, soție — înrudit ca sunet (nu neapărat ca etimologie) cu „ish”, bărbat — un joc de cuvinte ebraic reflectat chiar în text, la Geneza 2:23.",
+    "dict_ro": "Ishah, „femeie, soție” — aceeași rădăcină legată prin joc de cuvinte de ish, „bărbat” (Geneza 2:23). La Geneza 4, Eva e numită mereu „soția lui” în relație cu Adam, nu cu numele propriu, semn al perspectivei genealogice a capitolului.",
+    "greek_def_ro": "γυνή (gynē) — femeie, soție; „soția lui”."
    },
    {
     "t": " sa, și "
@@ -74,8 +79,9 @@ window.CHAPTER_DATA = [
     "pos": "pronume",
     "greek": "αὕτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ea.",
-    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25)."
+    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
+    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25).",
+    "greek_def_ro": "αὐτός (autos) — el, ea, acela."
    },
    {
     "t": " a "
@@ -89,8 +95,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "συνέλαβεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zămislit.",
-    "dict_ro": "Rădăcina harah, „a zămisli, a rămâne însărcinată” — verb obișnuit pentru începutul sarcinii, folosit constant în genealogiile biblice; aici deschide formula standard „a zămislit și a născut”, repetată identic la 4:17."
+    "def_ro": "a zămisli, a rămâne însărcinată — se spune despre femeie; folosit și figurat.",
+    "dict_ro": "Rădăcina harah, „a zămisli, a rămâne însărcinată” — verb obișnuit pentru începutul sarcinii, folosit constant în genealogiile biblice; aici deschide formula standard „a zămislit și a născut”, repetată identic la 4:17.",
+    "greek_def_ro": "συλλαμβάνω (syllambanō) — a prinde, a zămisli."
    },
    {
     "t": " și l-a "
@@ -104,8 +111,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔτεκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-a născut.",
-    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș."
+    "def_ro": "a naște, a da naștere.",
+    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș.",
+    "greek_def_ro": "τίκτω (tiktō) — a naște."
    },
    {
     "t": " pe "
@@ -119,8 +127,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Κάιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Cain.",
-    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare."
+    "def_ro": "Cain — nume propriu, primul fiu al lui Adam și al Evei; același cuvânt înseamnă „suliță”, iar în text sună ca verbul qanah, „a dobândi”; mai târziu numește și o seminție (cheniții).",
+    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare.",
+    "greek_def_ro": "Κάϊν (Kain) — Cain, nume propriu."
    },
    {
     "t": " și a "
@@ -134,8 +143,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a spus.",
-    "dict_ro": "Rădăcina amar, „a zice, a spune” — verbul de bază pentru vorbire directă în ebraica biblică, introducând aici primele cuvinte rostite vreodată de o ființă umană în textul biblic (Eva, la nașterea lui Cain)."
+    "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+    "dict_ro": "Rădăcina amar, „a zice, a spune” — verbul de bază pentru vorbire directă în ebraica biblică; în Geneza 4 introduce, pe rând, cuvintele Evei, ale lui Dumnezeu, ale lui Cain și ale lui Lameh.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": ": „Am "
@@ -149,8 +159,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκτησάμην",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "am dobândit.",
-    "dict_ro": "Verbul qanah, „a dobândi, a câștiga, a achiziționa” — aceeași rădăcină ca numele Kayin/Cain, făcând explicit jocul de cuvinte: Eva „dobândește” (kaniti) un „Kayin”. Rădăcina apare și în „Proverbe” 4:7 cu sensul de „a dobândi înțelepciune”, extinzând ideea de posesie dincolo de sfera materială."
+    "def_ro": "a dobândi, a agonisi, a cumpăra; în unele locuri, a crea, a face — de aici numele Cain, „dobândit”.",
+    "dict_ro": "Verbul qanah, „a dobândi, a câștiga, a achiziționa” — aceeași rădăcină ca numele Kayin/Cain, făcând explicit jocul de cuvinte: Eva „dobândește” (kaniti) un „Kayin”. Rădăcina apare și în „Proverbe” 4:7 cu sensul de „a dobândi înțelepciune”, extinzând ideea de posesie dincolo de sfera materială.",
+    "greek_def_ro": "κτάομαι (ktaomai) — a dobândi, a agonisi."
    },
    {
     "t": " un "
@@ -164,8 +175,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἄνθρωπον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om.",
-    "dict_ro": "Ish, „bărbat, om” — folosit aici de Eva pentru noul-născut, nu adam (omul generic) sau yeled (copil), un cuvânt neobișnuit de matur pentru un prunc, pe care unii comentatori îl citesc ca semn al speranței ei că acest fiu va fi cel prezis să calce în picioare capul șarpelui (Geneza 3:15)."
+    "def_ro": "bărbat, soț, om.",
+    "dict_ro": "Ish, „bărbat, om” — folosit aici de Eva pentru noul-născut, nu adam (omul generic) sau yeled (copil), un cuvânt neobișnuit de matur pentru un prunc, pe care unii comentatori îl citesc ca semn al speranței ei că acest fiu va fi cel prezis să calce în picioare capul șarpelui (Geneza 3:15).",
+    "greek_def_ro": "ἄνθρωπος (anthrōpos) — om, ființă omenească."
    },
    {
     "t": " cu [ajutorul] "
@@ -179,8 +191,10 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τοῦ Θεοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNULUI.",
-    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă."
+    "def_ro": "DOMNUL Dumnezeu — combinația Numelui propriu al lui Dumnezeu (Tetragrama YHVH, tradusă tradițional „DOMNUL”, cu majuscule) cu Elohim. Apare prima dată aici, la Geneza 2, marcând trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”, la capitolul 1) la relatarea mai personală a creării omului.",
+    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă.",
+    "greek_def_ro": "Θεός (Theos) — Dumnezeu (la genitiv: „prin Dumnezeu”).",
+    "diff_ro": "Numele propriu al lui Dumnezeu (YHWH) este redat prin „Dumnezeu” (Theos), nu prin „Domnul” (Kyrios), cum face de obicei Septuaginta; iar particula ebraică „et” este redată prin „prin” (dia): sensul înclină spre „cu ajutorul lui Dumnezeu”, nu spre formularea ebraică mai îndrăzneață, „împreună cu Domnul”."
    },
    {
     "t": ".”"
@@ -322,8 +336,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "προσέθηκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "iarăși.",
-    "dict_ro": "Rădăcina yasaf, „a adăuga, a continua” — aici la forma „a mai [născut]”, indicând o a doua naștere după Cain; aceeași rădăcină, la forma intensivă, revine simbolic la Geneza 4:25, unde Dumnezeu „adaugă” un alt urmaș în locul lui Abel."
+    "def_ro": "a adăuga, a spori; adesea cu sens adverbial: „a face din nou, a continua să facă”.",
+    "dict_ro": "Rădăcina yasaf, „a adăuga, a continua” — aici la forma „a mai [născut]”, indicând o a doua naștere după Cain; aceeași rădăcină, la forma intensivă, revine simbolic la Geneza 4:25, unde Dumnezeu „adaugă” un alt urmaș în locul lui Abel.",
+    "greek_def_ro": "προστίθημι (prostithēmi) — a adăuga, a face încă o dată."
    },
    {
     "t": " a "
@@ -337,8 +352,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "τεκεῖν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a născut.",
-    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș."
+    "def_ro": "a naște, a da naștere.",
+    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș.",
+    "greek_def_ro": "τίκτω (tiktō) — a naște (la infinitiv)."
    },
    {
     "t": ": pe "
@@ -352,8 +368,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸν ἀδελφὸν αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fratele lui.",
-    "dict_ro": "Ach, „frate” — cuvântul-cheie al întregului capitol, repetat de șapte ori (4:2, 8 de două ori, 9 de două ori, 10, 11), țesând tema centrală a fratricidului: relația frățească distrusă e amintită insistent, verset după verset, până la întrebarea retorică a lui Cain „Sunt eu oare păzitorul fratelui meu?”"
+    "def_ro": "frate — în sens propriu, dar și al rudeniei largi sau al înrudirii prin asemănare.",
+    "dict_ro": "Ach, „frate” — cuvântul-cheie al întregului capitol, repetat de șapte ori (4:2, 8 de două ori, 9 de două ori, 10, 11), țesând tema centrală a fratricidului: relația frățească distrusă e amintită insistent, verset după verset, până la întrebarea retorică a lui Cain „Sunt eu oare păzitorul fratelui meu?”",
+    "greek_def_ro": "ἀδελφός (adelphos) — frate; „fratele lui”."
    },
    {
     "t": " său, pe "
@@ -367,8 +384,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ἅβελ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Abel.",
-    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare."
+    "def_ro": "Abel — nume propriu; același cuvânt înseamnă „suflare, abur, deșertăciune”.",
+    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
+    "greek_def_ro": "Ἅβελ (Abel) — Abel, nume propriu."
    },
    {
     "t": "; și Abel a "
@@ -382,8 +400,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐγένετο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a devenit.",
-    "dict_ro": "Rădăcina hayah, „a fi, a deveni” — verbul de bază al existenței în ebraică, folosit aici pentru a introduce ocupațiile celor doi frați: unul „devine” păstor, celălalt „este” lucrător al pământului, o distincție subtilă de nuanță pe care unii comentatori o leagă de alegerea liberă a lui Abel față de moștenirea impusă a lui Cain."
+    "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+    "dict_ro": "Rădăcina hayah, „a fi, a deveni” — verbul de bază al existenței în ebraică, folosit aici pentru a introduce ocupațiile celor doi frați: unul „devine” păstor, celălalt „este” lucrător al pământului, o distincție subtilă de nuanță pe care unii comentatori o leagă de alegerea liberă a lui Abel față de moștenirea impusă a lui Cain.",
+    "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
    },
    {
     "t": " "
@@ -397,8 +416,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ποιμὴν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "păstor.",
-    "dict_ro": "Ro'eh, „păstor” — aceeași rădăcină ca în titlul mesianic și regesc folosit mai târziu pentru David și pentru Dumnezeu Însuși („DOMNUL e păstorul meu”, Psalmul 23). Abel e primul păstor din Biblie, deschizând o lungă tradiție a patriarhilor și profeților crescuți la turmă."
+    "def_ro": "a paște, a păstori; despre om: a fi păstor, a conduce; în general, a purta de grijă.",
+    "dict_ro": "Ro'eh, „păstor” — aceeași rădăcină ca în titlul mesianic și regesc folosit mai târziu pentru David și pentru Dumnezeu Însuși („DOMNUL e păstorul meu”, Psalmul 23). Abel e primul păstor din Biblie, deschizând o lungă tradiție a patriarhilor și profeților crescuți la turmă.",
+    "greek_def_ro": "ποιμήν (poimēn) — păstor."
    },
    {
     "t": " de "
@@ -412,8 +432,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "προβάτων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "turme.",
-    "dict_ro": "Tson, „turmă, oi și capre” — termen colectiv generic pentru micile animale domestice, folosit constant în toată Tora pentru economia pastorală a patriarhilor."
+    "def_ro": "turmă de oi și de capre; figurat, poporul văzut ca o turmă.",
+    "dict_ro": "Tson, „turmă, oi și capre” — termen colectiv generic pentru micile animale domestice, folosit constant în toată Tora pentru economia pastorală a patriarhilor.",
+    "greek_def_ro": "πρόβατον (probaton) — oaie, turmă de oi."
    },
    {
     "t": ", iar "
@@ -427,8 +448,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Κάιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Cain.",
-    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare."
+    "def_ro": "Cain — nume propriu, primul fiu al lui Adam și al Evei; același cuvânt înseamnă „suliță”, iar în text sună ca verbul qanah, „a dobândi”; mai târziu numește și o seminție (cheniții).",
+    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare.",
+    "greek_def_ro": "Κάϊν (Kain) — Cain, nume propriu."
    },
    {
     "t": " era "
@@ -442,8 +464,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐργαζόμενος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lucrător.",
-    "dict_ro": "Rădăcina avad, „a lucra, a sluji” — aceeași rădăcină ca avodah, „muncă, cult, slujire”, folosită și pentru porunca dată lui Adam în Eden „să lucreze și să păzească” grădina (Geneza 2:15). Cain moștenește literal ocupația tatălui său, dar pe un pământ acum blestemat (Geneza 3:17)."
+    "def_ro": "a lucra, a munci, a sluji; și, la figurat, a se închina — a sluji lui Dumnezeu.",
+    "dict_ro": "Rădăcina avad, „a lucra, a sluji” — aceeași rădăcină ca avodah, „muncă, cult, slujire”, folosită și pentru porunca dată lui Adam în Eden „să lucreze și să păzească” grădina (Geneza 2:15). Cain moștenește literal ocupația tatălui său, dar pe un pământ acum blestemat (Geneza 3:17).",
+    "greek_def_ro": "ἐργάζομαι (ergazomai) — a lucra, a munci (aici: cel care lucrează pământul)."
    },
    {
     "t": " al "
@@ -457,8 +480,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν γῆν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământului.",
-    "dict_ro": "Adamah, „pământ, țărână, sol arabil” — aceeași rădăcină ca numele lui Adam însuși, subliniind legătura strânsă dintre om și pământul din care a fost format (Geneza 2:7). La Geneza 4, adamah devine un personaj aproape activ: e blestemată (3:17), își „deschide gura” să înghită sângele lui Abel (4:11) și refuză să-și mai dea rodul lui Cain (4:12)."
+    "def_ro": "sol, pământ arabil — de la culoarea lui roșiatică (aceeași rădăcină ca numele „Adam”).",
+    "dict_ro": "Adamah, „pământ, țărână, sol arabil” — aceeași rădăcină ca numele lui Adam însuși, subliniind legătura strânsă dintre om și pământul din care a fost format (Geneza 2:7). La Geneza 4, adamah devine un personaj aproape activ: e blestemată (3:17), își „deschide gura” să înghită sângele lui Abel (4:11) și refuză să-și mai dea rodul lui Cain (4:12).",
+    "greek_def_ro": "— (LXX îl redă simplu γῆ, „pământ”, la fel ca H776.)"
    },
    {
     "t": "."
@@ -568,7 +592,8 @@ window.CHAPTER_DATA = [
     "greek": "μεθ᾿ ἡμέρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "după o vreme.",
-    "dict_ro": "Expresia mikets yamim, literal „la capătul zilelor”, adică „după o vreme” — formulă temporală vagă, obișnuită în naratologia biblică pentru a marca trecerea unei perioade nespecificate înainte de un eveniment important."
+    "dict_ro": "Expresia mikets yamim, literal „la capătul zilelor”, adică „după o vreme” — formulă temporală vagă, obișnuită în naratologia biblică pentru a marca trecerea unei perioade nespecificate înainte de un eveniment important.",
+    "greek_def_ro": "μετά (meta) + ἡμέρα (hēmera) — după zile, după un timp."
    },
    {
     "t": ", "
@@ -582,8 +607,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Κάϊν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Cain.",
-    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare."
+    "def_ro": "Cain — nume propriu, primul fiu al lui Adam și al Evei; același cuvânt înseamnă „suliță”, iar în text sună ca verbul qanah, „a dobândi”; mai târziu numește și o seminție (cheniții).",
+    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare.",
+    "greek_def_ro": "Κάϊν (Kain) — Cain, nume propriu."
    },
    {
     "t": " a "
@@ -597,8 +623,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἤνεγκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a adus.",
-    "dict_ro": "Rădăcina bo, „a veni, a aduce” — la forma cauzativă, „a aduce”, verbul standard pentru aducerea unui dar sau a unei jertfe la locul de cult, folosit identic pentru ofrandele ambilor frați (4:3-4), subliniind că amândoi au adus, dar numai unul a fost primit."
+    "def_ro": "a veni, a intra; la forma cauzativă, a aduce.",
+    "dict_ro": "Rădăcina bo, „a veni, a aduce” — la forma cauzativă, „a aduce”, verbul standard pentru aducerea unui dar sau a unei jertfe la locul de cult, folosit identic pentru ofrandele ambilor frați (4:3-4), subliniind că amândoi au adus, dar numai unul a fost primit.",
+    "greek_def_ro": "φέρω (pherō) — a aduce, a purta."
    },
    {
     "t": " din "
@@ -612,8 +639,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀπὸ τῶν καρπῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "din rodul.",
-    "dict_ro": "Peri, „rod, fruct” — termen general pentru orice produs al pământului, fără să precizeze ce anume a adus Cain; Rashi citează o tradiție (nu certă) că ar fi fost dintre cele mai proaste roade, poate chiar semințe de in, spre deosebire de „cele mai de seamă” oi alese explicit de Abel (4:4)."
+    "def_ro": "rod, fruct — literal sau la figurat.",
+    "dict_ro": "Peri, „rod, fruct” — termen general pentru orice produs al pământului, fără să precizeze ce anume a adus Cain; Rashi citează o tradiție (nu certă) că ar fi fost dintre cele mai proaste roade, poate chiar semințe de in, spre deosebire de „cele mai de seamă” oi alese explicit de Abel (4:4).",
+    "greek_def_ro": "καρπός (karpos) — rod, roadă; „din roade”."
    },
    {
     "t": " "
@@ -627,8 +655,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῆς γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământului.",
-    "dict_ro": "Adamah, „pământ, țărână, sol arabil” — aceeași rădăcină ca numele lui Adam însuși, subliniind legătura strânsă dintre om și pământul din care a fost format (Geneza 2:7). La Geneza 4, adamah devine un personaj aproape activ: e blestemată (3:17), își „deschide gura” să înghită sângele lui Abel (4:11) și refuză să-și mai dea rodul lui Cain (4:12)."
+    "def_ro": "sol, pământ arabil — de la culoarea lui roșiatică (aceeași rădăcină ca numele „Adam”).",
+    "dict_ro": "Adamah, „pământ, țărână, sol arabil” — aceeași rădăcină ca numele lui Adam însuși, subliniind legătura strânsă dintre om și pământul din care a fost format (Geneza 2:7). La Geneza 4, adamah devine un personaj aproape activ: e blestemată (3:17), își „deschide gura” să înghită sângele lui Abel (4:11) și refuză să-și mai dea rodul lui Cain (4:12).",
+    "greek_def_ro": "— (LXX îl redă simplu γῆ, „pământ”, la fel ca H776.)"
    },
    {
     "t": " un "
@@ -642,8 +671,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "θυσίαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "prinos.",
-    "dict_ro": "Minchah, „prinos, dar” — termen tehnic folosit mai târziu în Levitic special pentru jertfa de grâu (spre deosebire de zevach, jertfa de animal), dar aici, înainte de a se cristaliza acest sens tehnic, acoperă deopotrivă darul de rod al lui Cain și darul de animale al lui Abel — cel mai vechi cuvânt biblic pentru o ofrandă adusă lui Dumnezeu."
+    "def_ro": "dar, ofrandă; în limbajul jertfelor, darul de roade sau de făină, fără sânge, adus de bunăvoie.",
+    "dict_ro": "Minchah, „prinos, dar” — termen tehnic folosit mai târziu în Levitic special pentru jertfa de grâu (spre deosebire de zevach, jertfa de animal), dar aici, înainte de a se cristaliza acest sens tehnic, acoperă deopotrivă darul de rod al lui Cain și darul de animale al lui Abel — cel mai vechi cuvânt biblic pentru o ofrandă adusă lui Dumnezeu.",
+    "greek_def_ro": "θυσία (thysia) — jertfă, sacrificiu."
    },
    {
     "t": " "
@@ -657,8 +687,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῷ Κυρίῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNULUI.",
-    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă."
+    "def_ro": "DOMNUL Dumnezeu — combinația Numelui propriu al lui Dumnezeu (Tetragrama YHVH, tradusă tradițional „DOMNUL”, cu majuscule) cu Elohim. Apare prima dată aici, la Geneza 2, marcând trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”, la capitolul 1) la relatarea mai personală a creării omului.",
+    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă.",
+    "greek_def_ro": "Κύριος (Kyrios) — Domnul (la dativ: „Domnului”)."
    },
    {
     "t": "."
@@ -778,8 +809,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "καὶ Ἅβελ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Abel.",
-    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare."
+    "def_ro": "Abel — nume propriu; același cuvânt înseamnă „suflare, abur, deșertăciune”.",
+    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
+    "greek_def_ro": "καί (kai) + Ἅβελ (Abel) — și Abel."
    },
    {
     "t": " a "
@@ -793,8 +825,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἤνεγκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a adus.",
-    "dict_ro": "Rădăcina bo, „a veni, a aduce” — la forma cauzativă, „a aduce”, verbul standard pentru aducerea unui dar sau a unei jertfe la locul de cult, folosit identic pentru ofrandele ambilor frați (4:3-4), subliniind că amândoi au adus, dar numai unul a fost primit."
+    "def_ro": "a veni, a intra; la forma cauzativă, a aduce.",
+    "dict_ro": "Rădăcina bo, „a veni, a aduce” — la forma cauzativă, „a aduce”, verbul standard pentru aducerea unui dar sau a unei jertfe la locul de cult, folosit identic pentru ofrandele ambilor frați (4:3-4), subliniind că amândoi au adus, dar numai unul a fost primit.",
+    "greek_def_ro": "φέρω (pherō) — a aduce, a purta."
    },
    {
     "t": " și "
@@ -808,8 +841,9 @@ window.CHAPTER_DATA = [
     "pos": "pronume",
     "greek": "καὶ αὐτὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "și el.",
-    "dict_ro": "Particula gam, „și, de asemenea”, combinată cu hu, „el” — „și el a adus”, subliniind explicit paralelismul dintre cei doi frați: amândoi au adus un dar, dar numai calitatea și starea sufletească din spatele darului au făcut diferența."
+    "def_ro": "de asemenea, și, chiar; adesea repetat: „și … și …”.",
+    "dict_ro": "Particula gam, „și, de asemenea”, combinată cu hu, „el” — „și el a adus”, subliniind explicit paralelismul dintre cei doi frați: amândoi au adus un dar, dar numai calitatea și starea sufletească din spatele darului au făcut diferența.",
+    "greek_def_ro": "καί (kai) + αὐτός (autos) — și el, și acesta."
    },
    {
     "t": " din "
@@ -824,7 +858,8 @@ window.CHAPTER_DATA = [
     "greek": "τῶν πρωτοτόκων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "din întâii născuți.",
-    "dict_ro": "Bekhorot, „întâii născuți” — plural de la bekhor, termen tehnic central în Tora (dreptul de întâi-născut, răscumpărarea întâilor născuți în Exod). Aici arată grija specială a lui Abel: nu doar animale oarecare, ci primele și cele mai bune din fătarea turmei."
+    "dict_ro": "Bekhorot, „întâii născuți” — plural de la bekhor, termen tehnic central în Tora (dreptul de întâi-născut, răscumpărarea întâilor născuți în Exod). Aici arată grija specială a lui Abel: nu doar animale oarecare, ci primele și cele mai bune din fătarea turmei.",
+    "greek_def_ro": "πρωτότοκος (prōtotokos) — întâi născut."
    },
    {
     "t": " ai "
@@ -839,7 +874,8 @@ window.CHAPTER_DATA = [
     "greek": "τῶν προβάτων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "turmelor lui.",
-    "dict_ro": "Tson, „turmă, oi și capre” — termen colectiv generic pentru micile animale domestice, folosit constant în toată Tora pentru economia pastorală a patriarhilor."
+    "dict_ro": "Tson, „turmă, oi și capre” — termen colectiv generic pentru micile animale domestice, folosit constant în toată Tora pentru economia pastorală a patriarhilor.",
+    "greek_def_ro": "πρόβατον (probaton) — oaie, turmă de oi."
    },
    {
     "t": " lui și din cele mai de seamă [oi]. Și "
@@ -853,8 +889,10 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Θεὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNUL.",
-    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă."
+    "def_ro": "DOMNUL Dumnezeu — combinația Numelui propriu al lui Dumnezeu (Tetragrama YHVH, tradusă tradițional „DOMNUL”, cu majuscule) cu Elohim. Apare prima dată aici, la Geneza 2, marcând trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”, la capitolul 1) la relatarea mai personală a creării omului.",
+    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă.",
+    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+    "diff_ro": "Numele propriu al lui Dumnezeu (YHWH) este redat aici prin „Dumnezeu” (Theos), nu prin „Domnul” (Kyrios), cum face de obicei Septuaginta; se pierde accentul pe Numele personal."
    },
    {
     "t": " S-a "
@@ -869,7 +907,8 @@ window.CHAPTER_DATA = [
     "greek": "ἐπεῖδεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "S-a îndreptat.",
-    "dict_ro": "Rădăcina sha'ah, „a privi cu bunăvoință, a se întoarce spre” — verb rar, folosit de două ori în acest pasaj (4:4 pozitiv, spre Abel; 4:5 negativ, „nu S-a îndreptat” spre Cain), fără să se precizeze explicit cum anume S-a arătat acceptarea — poate prin foc coborât din cer, sugerează o tradiție midrashică citată de Rashi."
+    "dict_ro": "Rădăcina sha'ah, „a privi cu bunăvoință, a se întoarce spre” — verb rar, folosit de două ori în acest pasaj (4:4 pozitiv, spre Abel; 4:5 negativ, „nu S-a îndreptat” spre Cain), fără să se precizeze explicit cum anume S-a arătat acceptarea — poate prin foc coborât din cer, sugerează o tradiție midrashică citată de Rashi.",
+    "greek_def_ro": "ἐφοράω (ephoraō) — a privi spre, a Se uita cu bunăvoință."
    },
    {
     "t": " spre "
@@ -883,8 +922,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ἅβελ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Abel.",
-    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare."
+    "def_ro": "Abel — nume propriu; același cuvânt înseamnă „suflare, abur, deșertăciune”.",
+    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
+    "greek_def_ro": "Ἅβελ (Abel) — Abel, nume propriu."
    },
    {
     "t": " și spre "
@@ -899,7 +939,8 @@ window.CHAPTER_DATA = [
     "greek": "τοῖς δώροις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "prinosul lui.",
-    "dict_ro": "Minchah, „prinos, dar” — termen tehnic folosit mai târziu în Levitic special pentru jertfa de grâu (spre deosebire de zevach, jertfa de animal), dar aici, înainte de a se cristaliza acest sens tehnic, acoperă deopotrivă darul de rod al lui Cain și darul de animale al lui Abel — cel mai vechi cuvânt biblic pentru o ofrandă adusă lui Dumnezeu."
+    "dict_ro": "Minchah, „prinos, dar” — termen tehnic folosit mai târziu în Levitic special pentru jertfa de grâu (spre deosebire de zevach, jertfa de animal), dar aici, înainte de a se cristaliza acest sens tehnic, acoperă deopotrivă darul de rod al lui Cain și darul de animale al lui Abel — cel mai vechi cuvânt biblic pentru o ofrandă adusă lui Dumnezeu.",
+    "greek_def_ro": "δῶρον (dōron) — dar, ofrandă."
    },
    {
     "t": " lui,"
@@ -1009,8 +1050,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Κάϊν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Cain.",
-    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare."
+    "def_ro": "Cain — nume propriu, primul fiu al lui Adam și al Evei; același cuvânt înseamnă „suliță”, iar în text sună ca verbul qanah, „a dobândi”; mai târziu numește și o seminție (cheniții).",
+    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare.",
+    "greek_def_ro": "Κάϊν (Kain) — Cain, nume propriu."
    },
    {
     "t": " și spre "
@@ -1025,7 +1067,8 @@ window.CHAPTER_DATA = [
     "greek": "ταῖς θυσίαις αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "prinosul lui.",
-    "dict_ro": "Minchah, „prinos, dar” — termen tehnic folosit mai târziu în Levitic special pentru jertfa de grâu (spre deosebire de zevach, jertfa de animal), dar aici, înainte de a se cristaliza acest sens tehnic, acoperă deopotrivă darul de rod al lui Cain și darul de animale al lui Abel — cel mai vechi cuvânt biblic pentru o ofrandă adusă lui Dumnezeu."
+    "dict_ro": "Minchah, „prinos, dar” — termen tehnic folosit mai târziu în Levitic special pentru jertfa de grâu (spre deosebire de zevach, jertfa de animal), dar aici, înainte de a se cristaliza acest sens tehnic, acoperă deopotrivă darul de rod al lui Cain și darul de animale al lui Abel — cel mai vechi cuvânt biblic pentru o ofrandă adusă lui Dumnezeu.",
+    "greek_def_ro": "θυσία (thysia) — jertfă; „jertfele lui”."
    },
    {
     "t": " lui nu "
@@ -1040,7 +1083,8 @@ window.CHAPTER_DATA = [
     "greek": "οὐ προσέσχεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "nu S-a îndreptat.",
-    "dict_ro": "Rădăcina sha'ah, „a privi cu bunăvoință, a se întoarce spre” — verb rar, folosit de două ori în acest pasaj (4:4 pozitiv, spre Abel; 4:5 negativ, „nu S-a îndreptat” spre Cain), fără să se precizeze explicit cum anume S-a arătat acceptarea — poate prin foc coborât din cer, sugerează o tradiție midrashică citată de Rashi."
+    "dict_ro": "Rădăcina sha'ah, „a privi cu bunăvoință, a se întoarce spre” — verb rar, folosit de două ori în acest pasaj (4:4 pozitiv, spre Abel; 4:5 negativ, „nu S-a îndreptat” spre Cain), fără să se precizeze explicit cum anume S-a arătat acceptarea — poate prin foc coborât din cer, sugerează o tradiție midrashică citată de Rashi.",
+    "greek_def_ro": "οὐ (ou) + προσέχω (prosechō) — nu a luat aminte, nu a dat atenție."
    },
    {
     "t": "; și "
@@ -1054,8 +1098,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Κάϊν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Cain.",
-    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare."
+    "def_ro": "Cain — nume propriu, primul fiu al lui Adam și al Evei; același cuvânt înseamnă „suliță”, iar în text sună ca verbul qanah, „a dobândi”; mai târziu numește și o seminție (cheniții).",
+    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare.",
+    "greek_def_ro": "Κάϊν (Kain) — Cain, nume propriu."
    },
    {
     "t": " s-a "
@@ -1069,8 +1114,10 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐλύπησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a mâniat.",
-    "dict_ro": "Rădăcina charah, „a arde, a se aprinde” — imaginea de bază e a unui foc care se aprinde; mânia, în ebraică, „arde” literal. Aceeași rădăcină descrie mânia lui Dumnezeu în multe locuri din Tora, arătând că textul tratează furia lui Cain ca pe o forță periculoasă, mistuitoare."
+    "def_ro": "a se aprinde, a arde; figurat: a se aprinde de mânie, de râvnă sau de gelozie.",
+    "dict_ro": "Rădăcina charah, „a arde, a se aprinde” — imaginea de bază e a unui foc care se aprinde; mânia, în ebraică, „arde” literal. Aceeași rădăcină descrie mânia lui Dumnezeu în multe locuri din Tora, arătând că textul tratează furia lui Cain ca pe o forță periculoasă, mistuitoare.",
+    "greek_def_ro": "λυπέω (lypeō) — a întrista, a mâhni.",
+    "diff_ro": "Ebraica spune că Cain „s-a aprins de mânie” (wayyiḥar); greaca spune că l-a „întristat” (elypēsen): accentul trece de la mânie la mâhnire."
    },
    {
     "t": " "
@@ -1084,8 +1131,9 @@ window.CHAPTER_DATA = [
     "pos": "adverb",
     "greek": "λίαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cumplit.",
-    "dict_ro": "Me'od, „foarte, cumplit” — particulă de intensitate, aici accentuând gravitatea mâniei lui Cain: nu doar „s-a mâniat”, ci „s-a mâniat foarte tare”, pregătind cititorul pentru gravitatea celor ce urmează."
+    "def_ro": "foarte, peste măsură, din cale-afară; întărește ce stă înaintea lui.",
+    "dict_ro": "Me'od, „foarte, cumplit” — particulă de intensitate, aici accentuând gravitatea mâniei lui Cain: nu doar „s-a mâniat”, ci „s-a mâniat foarte tare”, pregătind cititorul pentru gravitatea celor ce urmează.",
+    "greek_def_ro": "λίαν (lian) — foarte, peste măsură."
    },
    {
     "t": " și "
@@ -1099,8 +1147,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῷ προσώπῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fața lui.",
-    "dict_ro": "Panim, „față” — cuvânt care înseamnă și „prezență” (de unde teologia biblică a „Feței lui Dumnezeu”); fața posomorâtă a lui Cain (4:5-6) anticipează tragic expresia de la 4:14, unde el însuși va fi izgonit „de pe fața pământului” și „dinaintea feței” lui Dumnezeu."
+    "def_ro": "față — propriu-zis, partea care se întoarce spre cineva; folosită în foarte multe construcții, uneori ca prepoziție („înaintea”).",
+    "dict_ro": "Panim, „față” — cuvânt care înseamnă și „prezență” (de unde teologia biblică a „Feței lui Dumnezeu”); fața posomorâtă a lui Cain (4:5-6) anticipează tragic expresia de la 4:14, unde el însuși va fi izgonit „de pe fața pământului” și „dinaintea feței” lui Dumnezeu.",
+    "greek_def_ro": "πρόσωπον (prosōpon) — față, chip (la dativ)."
    },
    {
     "t": " i s-a "
@@ -1115,7 +1164,8 @@ window.CHAPTER_DATA = [
     "greek": "συνέπεσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "i s-a posomorât.",
-    "dict_ro": "Rădăcina nafal, „a cădea” — expresia „i-au căzut fața” e un idiom ebraic pentru posomorâre, rușine sau deznădejde, imaginea unei fețe care se „prăbușește” în jos sub greutatea emoției, opusă imaginii feței „ridicate” din răspunsul lui Dumnezeu la 4:7 (sa'et, „înălțare, iertare”)."
+    "dict_ro": "Rădăcina nafal, „a cădea” — expresia „i-au căzut fața” e un idiom ebraic pentru posomorâre, rușine sau deznădejde, imaginea unei fețe care se „prăbușește” în jos sub greutatea emoției, opusă imaginii feței „ridicate” din răspunsul lui Dumnezeu la 4:7 (sa'et, „înălțare, iertare”).",
+    "greek_def_ro": "συμπίπτω (sympiptō) — a se prăbuși, a cădea laolaltă (despre față: a se posomorî)."
    }
   ],
   "textCompare": [
@@ -1214,8 +1264,10 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Θεὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNUL.",
-    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă."
+    "def_ro": "DOMNUL Dumnezeu — combinația Numelui propriu al lui Dumnezeu (Tetragrama YHVH, tradusă tradițional „DOMNUL”, cu majuscule) cu Elohim. Apare prima dată aici, la Geneza 2, marcând trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”, la capitolul 1) la relatarea mai personală a creării omului.",
+    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă.",
+    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+    "diff_ro": "Numele propriu al lui Dumnezeu (YHWH) este redat aici prin „Dumnezeu” (Theos), nu prin „Domnul” (Kyrios), cum face de obicei Septuaginta; se pierde accentul pe Numele personal."
    },
    {
     "t": " i-a "
@@ -1229,8 +1281,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a spus.",
-    "dict_ro": "Rădăcina amar, „a zice, a spune” — verbul de bază pentru vorbire directă în ebraica biblică, introducând aici primele cuvinte rostite vreodată de o ființă umană în textul biblic (Eva, la nașterea lui Cain)."
+    "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+    "dict_ro": "Rădăcina amar, „a zice, a spune” — verbul de bază pentru vorbire directă în ebraica biblică; în Geneza 4 introduce, pe rând, cuvintele Evei, ale lui Dumnezeu, ale lui Cain și ale lui Lameh.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": " lui "
@@ -1244,8 +1297,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Κάιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Cain.",
-    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare."
+    "def_ro": "Cain — nume propriu, primul fiu al lui Adam și al Evei; același cuvânt înseamnă „suliță”, iar în text sună ca verbul qanah, „a dobândi”; mai târziu numește și o seminție (cheniții).",
+    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare.",
+    "greek_def_ro": "Κάϊν (Kain) — Cain, nume propriu."
    },
    {
     "t": ": „De ce te-ai "
@@ -1260,7 +1314,9 @@ window.CHAPTER_DATA = [
     "greek": "περίλυπος ἐγένου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "te-ai mâniat.",
-    "dict_ro": "Rădăcina charah, „a arde, a se aprinde” — imaginea de bază e a unui foc care se aprinde; mânia, în ebraică, „arde” literal. Aceeași rădăcină descrie mânia lui Dumnezeu în multe locuri din Tora, arătând că textul tratează furia lui Cain ca pe o forță periculoasă, mistuitoare."
+    "dict_ro": "Rădăcina charah, „a arde, a se aprinde” — imaginea de bază e a unui foc care se aprinde; mânia, în ebraică, „arde” literal. Aceeași rădăcină descrie mânia lui Dumnezeu în multe locuri din Tora, arătând că textul tratează furia lui Cain ca pe o forță periculoasă, mistuitoare.",
+    "greek_def_ro": "περίλυπος (perilypos) — foarte întristat + γίνομαι (ginomai) — a deveni: „te-ai făcut foarte întristat”.",
+    "diff_ro": "Ebraica întreabă „de ce te-ai mâniat?” (ḥarah lak); greaca întreabă „de ce te-ai făcut foarte întristat?” (perilypos egenou): mânia ebraică devine întristare."
    },
    {
     "t": " și de ce ți s-a "
@@ -1275,7 +1331,8 @@ window.CHAPTER_DATA = [
     "greek": "συνέπεσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "ți s-a posomorât.",
-    "dict_ro": "Rădăcina nafal, „a cădea” — expresia „i-au căzut fața” e un idiom ebraic pentru posomorâre, rușine sau deznădejde, imaginea unei fețe care se „prăbușește” în jos sub greutatea emoției, opusă imaginii feței „ridicate” din răspunsul lui Dumnezeu la 4:7 (sa'et, „înălțare, iertare”)."
+    "dict_ro": "Rădăcina nafal, „a cădea” — expresia „i-au căzut fața” e un idiom ebraic pentru posomorâre, rușine sau deznădejde, imaginea unei fețe care se „prăbușește” în jos sub greutatea emoției, opusă imaginii feței „ridicate” din răspunsul lui Dumnezeu la 4:7 (sa'et, „înălțare, iertare”).",
+    "greek_def_ro": "συμπίπτω (sympiptō) — a se prăbuși, a cădea laolaltă (despre față: a se posomorî)."
    },
    {
     "t": " "
@@ -1289,8 +1346,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸ πρόσωπόν σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fața ta.",
-    "dict_ro": "Panim, „față” — cuvânt care înseamnă și „prezență” (de unde teologia biblică a „Feței lui Dumnezeu”); fața posomorâtă a lui Cain (4:5-6) anticipează tragic expresia de la 4:14, unde el însuși va fi izgonit „de pe fața pământului” și „dinaintea feței” lui Dumnezeu."
+    "def_ro": "față — propriu-zis, partea care se întoarce spre cineva; folosită în foarte multe construcții, uneori ca prepoziție („înaintea”).",
+    "dict_ro": "Panim, „față” — cuvânt care înseamnă și „prezență” (de unde teologia biblică a „Feței lui Dumnezeu”); fața posomorâtă a lui Cain (4:5-6) anticipează tragic expresia de la 4:14, unde el însuși va fi izgonit „de pe fața pământului” și „dinaintea feței” lui Dumnezeu.",
+    "greek_def_ro": "πρόσωπον (prosōpon) — față; „fața ta”."
    },
    {
     "t": "?"
@@ -1380,8 +1438,10 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "προσενέγκῃς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "faci.",
-    "dict_ro": "Rădăcina yatav, „a face bine” — la forma cauzativă, „a face bine, a te purta bine”; întrebarea retorică a lui Dumnezeu („dacă faci bine, vei fi iertat”) pune responsabilitatea moral-liberă direct pe umerii lui Cain, înainte de fapta ireversibilă care urmează."
+    "def_ro": "a fi bun, a face bine, a izbândi; la forma cauzativă, a face cum se cuvine, a face bine ceva.",
+    "dict_ro": "Rădăcina yatav, „a face bine” — la forma cauzativă, „a face bine, a te purta bine”; întrebarea retorică a lui Dumnezeu („dacă faci bine, vei fi iertat”) pune responsabilitatea moral-liberă direct pe umerii lui Cain, înainte de fapta ireversibilă care urmează.",
+    "greek_def_ro": "προσφέρω (prospherō) — a aduce înainte, a aduce ca ofrandă.",
+    "diff_ro": "Ebraica spune „dacă faci bine”; greaca înțelege versetul ca pe o regulă a jertfei: „dacă ai adus drept (prosenenkēs)”. Tot versetul 7 are în greacă un sens diferit și mai obscur."
    },
    {
     "t": " "
@@ -1395,8 +1455,10 @@ window.CHAPTER_DATA = [
     "pos": "adverb",
     "greek": "ὀρθῶς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "bine.",
-    "dict_ro": "Rădăcina yatav, „a face bine” — la forma cauzativă, „a face bine, a te purta bine”; întrebarea retorică a lui Dumnezeu („dacă faci bine, vei fi iertat”) pune responsabilitatea moral-liberă direct pe umerii lui Cain, înainte de fapta ireversibilă care urmează."
+    "def_ro": "a fi bun, a face bine, a izbândi; la forma cauzativă, a face cum se cuvine, a face bine ceva.",
+    "dict_ro": "Rădăcina yatav, „a face bine” — la forma cauzativă, „a face bine, a te purta bine”; întrebarea retorică a lui Dumnezeu („dacă faci bine, vei fi iertat”) pune responsabilitatea moral-liberă direct pe umerii lui Cain, înainte de fapta ireversibilă care urmează.",
+    "greek_def_ro": "ὀρθῶς (orthōs) — drept, cum se cuvine.",
+    "diff_ro": "Ebraica: „bine” (heitev); greaca: „drept, cum se cuvine” (orthōs), cu privire la felul în care a fost adusă jertfa."
    },
    {
     "t": ", vei fi "
@@ -1410,8 +1472,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὀρθῶς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "iertat.",
-    "dict_ro": "Rădăcina nasa, „a ridica, a purta” — cuvânt cu dublu sens, discutat mult de comentatori: „iertare” (a ridica vina) sau „ridicarea feței” (demnitate, statutul de întâi-născut), în opoziție directă cu fețele căzute din 4:5-6. Ibn Ezra și Ramban preferă a doua lectură: dacă Cain va face bine, își va recăpăta demnitatea de întâi-născut pe care acum a pierdut-o prin rușine."
+    "def_ro": "a ridica, a purta, a lua asupra sa; de aici și „a ierta” (a lua vina asupra sa).",
+    "dict_ro": "Rădăcina nasa, „a ridica, a purta” — cuvânt cu dublu sens, discutat mult de comentatori: „iertare” (a ridica vina) sau „ridicarea feței” (demnitate, statutul de întâi-născut), în opoziție directă cu fețele căzute din 4:5-6. Ibn Ezra și Ramban preferă a doua lectură: dacă Cain va face bine, își va recăpăta demnitatea de întâi-născut pe care acum a pierdut-o prin rușine.",
+    "greek_def_ro": "ὀρθῶς (orthōs) — drept, cum se cuvine."
    },
    {
     "t": ". Dar dacă nu "
@@ -1425,8 +1488,10 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "διέλῃς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "te îndrepți.",
-    "dict_ro": "Rădăcina yatav, „a face bine” — la forma cauzativă, „a face bine, a te purta bine”; întrebarea retorică a lui Dumnezeu („dacă faci bine, vei fi iertat”) pune responsabilitatea moral-liberă direct pe umerii lui Cain, înainte de fapta ireversibilă care urmează."
+    "def_ro": "a fi bun, a face bine, a izbândi; la forma cauzativă, a face cum se cuvine, a face bine ceva.",
+    "dict_ro": "Rădăcina yatav, „a face bine” — la forma cauzativă, „a face bine, a te purta bine”; întrebarea retorică a lui Dumnezeu („dacă faci bine, vei fi iertat”) pune responsabilitatea moral-liberă direct pe umerii lui Cain, înainte de fapta ireversibilă care urmează.",
+    "greek_def_ro": "διαιρέω (diaireō) — a împărți, a despărți.",
+    "diff_ro": "Ebraica repetă „a face bine”; greaca spune „dacă n-ai împărțit drept” (dielēs), adică dacă n-ai despărțit jertfa cum se cuvine."
    },
    {
     "t": ", "
@@ -1440,8 +1505,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἡ ἁμαρτία",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "păcatul.",
-    "dict_ro": "Chatat, „păcat” — de la rădăcina chata, „a rata ținta”, imagine împrumutată din arhitectură militară: păcatul e o săgeată care nu-și atinge scopul. Aici cuvântul e personificat aproape ca o ființă vie, „la ușă” gata să sară."
+    "def_ro": "păcat, greșeală; și pedeapsa sau jertfa pentru păcat; în Geneza 4:7 păcatul apare personificat, ca o făptură care pândește.",
+    "dict_ro": "Chatat, „păcat” — de la rădăcina chata, „a rata ținta”, imagine împrumutată din arhitectură militară: păcatul e o săgeată care nu-și atinge scopul. Aici cuvântul e personificat aproape ca o ființă vie, „la ușă” gata să sară.",
+    "greek_def_ro": "ἁμαρτία (hamartia) — păcat, greșeală."
    },
    {
     "t": " te "
@@ -1455,8 +1521,10 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἁμαρτίαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pândește.",
-    "dict_ro": "Rădăcina ravats, „a se culca, a pândi” — verb folosit de obicei pentru animale culcate sau la pândă (o fiară care se odihnește dar rămâne gata de atac); imaginea lui Dumnezeu descrie păcatul ca pe o fiară ghemuită la ușa lui Cain, gata să sară asupra lui."
+    "def_ro": "a se culca, a sta ghemuit (despre un animal), a sta la pândă.",
+    "dict_ro": "Rădăcina ravats, „a se culca, a pândi” — verb folosit de obicei pentru animale culcate sau la pândă (o fiară care se odihnește dar rămâne gata de atac); imaginea lui Dumnezeu descrie păcatul ca pe o fiară ghemuită la ușa lui Cain, gata să sară asupra lui.",
+    "greek_def_ro": "ἁμαρτία (hamartia) — păcat, greșeală (la acuzativ).",
+    "diff_ro": "Ebraica: „păcatul stă la pândă la ușă” (rovetz); greaca: „ai păcătuit (hēmartes), liniștește-te”: păcatul nu mai e o făptură care pândește, ci o faptă deja săvârșită."
    },
    {
     "t": "; și spre "
@@ -1470,8 +1538,9 @@ window.CHAPTER_DATA = [
     "pos": "prepoziție",
     "greek": "αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "spre tine.",
-    "dict_ro": "Prepoziția el, „spre, către” — aici introduce ținta „dorinței” păcatului, o formulare identică gramatical cu Geneza 3:16 („dorința ta va fi spre soțul tău”), ecou intenționat: la fel cum femeia tânjește după soț, păcatul tânjește să-l stăpânească pe Cain."
+    "def_ro": "spre, către, la; arată direcția sau apropierea.",
+    "dict_ro": "Prepoziția el, „spre, către” — aici introduce ținta „dorinței” păcatului, o formulare identică gramatical cu Geneza 3:16 („dorința ta va fi spre soțul tău”), ecou intenționat: la fel cum femeia tânjește după soț, păcatul tânjește să-l stăpânească pe Cain.",
+    "greek_def_ro": "αὐτός (autos) — el, ea, acela."
    },
    {
     "t": " este "
@@ -1485,8 +1554,10 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἡ ἀποστροφὴ αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "dorința lui.",
-    "dict_ro": "Teshukah, „dorință, poftă” — cuvânt rarisim în toată Biblia ebraică, apărând doar de trei ori: aici, la Geneza 3:16 (dorința femeii față de soț) și în Cântarea Cântărilor 7:11 (dorința iubitului). Ecoul dintre 3:16 și 4:7 e deliberat: la fel cum bărbatul e chemat să stăpânească impulsul soției fără s-o zdrobească, Cain e chemat să stăpânească păcatul fără să i se predea."
+    "def_ro": "dorință, poftă, atracție — cuvânt rar, apare doar de trei ori în toată Biblia.",
+    "dict_ro": "Teshukah, „dorință, poftă” — cuvânt rarisim în toată Biblia ebraică, apărând doar de trei ori: aici, la Geneza 3:16 (dorința femeii față de soț) și în Cântarea Cântărilor 7:11 (dorința iubitului). Ecoul dintre 3:16 și 4:7 e deliberat: la fel cum bărbatul e chemat să stăpânească impulsul soției fără s-o zdrobească, Cain e chemat să stăpânească păcatul fără să i se predea.",
+    "greek_def_ro": "ἀποστροφή (apostrophē) — întoarcere, supunere, înclinare; „întoarcerea lui”.",
+    "diff_ro": "Ebraica: „spre tine este dorința lui” (teshuqah); greaca: „spre tine este întoarcerea lui” (apostrophē), adică supunerea sau întoarcerea fratelui, nu dorința."
    },
    {
     "t": " lui, dar "
@@ -1500,8 +1571,9 @@ window.CHAPTER_DATA = [
     "pos": "pronume",
     "greek": "σὺ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tu.",
-    "dict_ro": "Pronumele atah, „tu” — folosit separat pentru accent, subliniind responsabilitatea personală: nu împrejurările, nu fratele, ci Cain însuși are puterea de a stăpâni impulsul care-l pândește."
+    "def_ro": "tu — pronume personal, persoana a doua singular.",
+    "dict_ro": "Pronumele atah, „tu” — folosit separat pentru accent, subliniind responsabilitatea personală: nu împrejurările, nu fratele, ci Cain însuși are puterea de a stăpâni impulsul care-l pândește.",
+    "greek_def_ro": "σύ (sy) — tu."
    },
    {
     "t": " îl poți "
@@ -1515,8 +1587,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἄρξεις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vei stăpâni.",
-    "dict_ro": "Rădăcina mashal, „a stăpâni, a domni” — exact aceeași rădăcină și formă gramaticală ca la Geneza 3:16 („el va stăpâni peste tine”), o legătură textuală clară: capacitatea de stăpânire cerută soțului față de dorința femeii e acum cerută lui Cain față de dorința păcatului."
+    "def_ro": "a stăpâni, a cârmui.",
+    "dict_ro": "Rădăcina mashal, „a stăpâni, a domni” — exact aceeași rădăcină și formă gramaticală ca la Geneza 3:16 („el va stăpâni peste tine”), o legătură textuală clară: capacitatea de stăpânire cerută soțului față de dorința femeii e acum cerută lui Cain față de dorința păcatului.",
+    "greek_def_ro": "ἄρχω (archō) — a stăpâni, a conduce."
    }
   ],
   "textCompare": [
@@ -1619,8 +1692,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Κάϊν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Cain.",
-    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare."
+    "def_ro": "Cain — nume propriu, primul fiu al lui Adam și al Evei; același cuvânt înseamnă „suliță”, iar în text sună ca verbul qanah, „a dobândi”; mai târziu numește și o seminție (cheniții).",
+    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare.",
+    "greek_def_ro": "Κάϊν (Kain) — Cain, nume propriu."
    },
    {
     "t": " a "
@@ -1634,8 +1708,10 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a vorbit.",
-    "dict_ro": "Rădăcina amar, „a zice, a spune” — verbul de bază pentru vorbire directă în ebraica biblică, introducând aici primele cuvinte rostite vreodată de o ființă umană în textul biblic (Eva, la nașterea lui Cain)."
+    "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+    "dict_ro": "Rădăcina amar, „a zice, a spune” — verbul de bază pentru vorbire directă în ebraica biblică; în Geneza 4 introduce, pe rând, cuvintele Evei, ale lui Dumnezeu, ale lui Cain și ale lui Lameh.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi.",
+    "diff_ro": "Ebraica spune „Cain a zis fratelui său Abel” și nu urmează nicio spusă; greaca adaugă ce a zis: „Să ieșim la câmp” (Diēlthōmen eis to pedion), o propoziție absentă din textul masoretic actual."
    },
    {
     "t": " "
@@ -1650,7 +1726,8 @@ window.CHAPTER_DATA = [
     "greek": "τὸν ἀδελφὸν αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "fratelui lui.",
-    "dict_ro": "Ach, „frate” — cuvântul-cheie al întregului capitol, repetat de șapte ori (4:2, 8 de două ori, 9 de două ori, 10, 11), țesând tema centrală a fratricidului: relația frățească distrusă e amintită insistent, verset după verset, până la întrebarea retorică a lui Cain „Sunt eu oare păzitorul fratelui meu?”"
+    "dict_ro": "Ach, „frate” — cuvântul-cheie al întregului capitol, repetat de șapte ori (4:2, 8 de două ori, 9 de două ori, 10, 11), țesând tema centrală a fratricidului: relația frățească distrusă e amintită insistent, verset după verset, până la întrebarea retorică a lui Cain „Sunt eu oare păzitorul fratelui meu?”",
+    "greek_def_ro": "ἀδελφός (adelphos) — frate; „fratele lui”."
    },
    {
     "t": " său "
@@ -1664,8 +1741,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ἅβελ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Abel.",
-    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare."
+    "def_ro": "Abel — nume propriu; același cuvânt înseamnă „suflare, abur, deșertăciune”.",
+    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
+    "greek_def_ro": "Ἅβελ (Abel) — Abel, nume propriu."
    },
    {
     "t": ". Și a "
@@ -1679,8 +1757,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐγένετο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fost.",
-    "dict_ro": "Rădăcina hayah, „a fi, a deveni” — verbul de bază al existenței în ebraică, folosit aici pentru a introduce ocupațiile celor doi frați: unul „devine” păstor, celălalt „este” lucrător al pământului, o distincție subtilă de nuanță pe care unii comentatori o leagă de alegerea liberă a lui Abel față de moștenirea impusă a lui Cain."
+    "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+    "dict_ro": "Rădăcina hayah, „a fi, a deveni” — verbul de bază al existenței în ebraică, folosit aici pentru a introduce ocupațiile celor doi frați: unul „devine” păstor, celălalt „este” lucrător al pământului, o distincție subtilă de nuanță pe care unii comentatori o leagă de alegerea liberă a lui Abel față de moștenirea impusă a lui Cain.",
+    "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
    },
    {
     "t": ", când erau pe "
@@ -1694,8 +1773,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῷ πεδίῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "câmp.",
-    "dict_ro": "Sadeh, „câmp” — spațiu deschis, în afara ochilor părinților, subliniat de Sforno ca detaliu relevant: crima se petrece departe de martori, într-un loc ales, nu întâmplător."
+    "def_ro": "câmp, ogor, țarină; prin extindere, țară, ținut.",
+    "dict_ro": "Sadeh, „câmp” — spațiu deschis, în afara ochilor părinților, subliniat de Sforno ca detaliu relevant: crima se petrece departe de martori, într-un loc ales, nu întâmplător.",
+    "greek_def_ro": "πεδίον (pedion) — câmpie, câmp."
    },
    {
     "t": ": Cain s-a "
@@ -1709,8 +1789,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀνέστη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a ridicat.",
-    "dict_ro": "Rădăcina qum, „a se ridica, a se scula” — verb obișnuit pentru mișcare fizică, dar folosit adesea în Biblie și pentru „a se ridica împotriva” cuiva (a ataca); ambiguitatea gramaticală ascunde, până la ultimul cuvânt al versetului, intenția ucigașă a lui Cain."
+    "def_ro": "a se ridica, a se scula; a porni, a se ridica împotriva cuiva.",
+    "dict_ro": "Rădăcina qum, „a se ridica, a se scula” — verb obișnuit pentru mișcare fizică, dar folosit adesea în Biblie și pentru „a se ridica împotriva” cuiva (a ataca); ambiguitatea gramaticală ascunde, până la ultimul cuvânt al versetului, intenția ucigașă a lui Cain.",
+    "greek_def_ro": "ἀνίστημι (anistēmi) — a se ridica."
    },
    {
     "t": " asupra fratelui său Abel și l-a "
@@ -1724,8 +1805,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπέκτεινεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-a omorât.",
-    "dict_ro": "Rădăcina harag, „a ucide” — verbul standard pentru omor în ebraica biblică, distinct de ratsach (omor ilegal/crimă, folosit în Cele Zece Porunci) și de shachat (înjunghiere rituală). Cain devine, cu acest verb, primul ucigaș din istoria omenirii — și, tragic, victima lui e propriul frate."
+    "def_ro": "a ucide, a omorî.",
+    "dict_ro": "Rădăcina harag, „a ucide” — verbul standard pentru omor în ebraica biblică, distinct de ratsach (omor ilegal/crimă, folosit în Cele Zece Porunci) și de shachat (înjunghiere rituală). Cain devine, cu acest verb, primul ucigaș din istoria omenirii — și, tragic, victima lui e propriul frate.",
+    "greek_def_ro": "ἀποκτείνω (apokteinō) — a ucide."
    }
   ],
   "textCompare": [
@@ -1877,8 +1959,10 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Θεὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNUL.",
-    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă."
+    "def_ro": "DOMNUL Dumnezeu — combinația Numelui propriu al lui Dumnezeu (Tetragrama YHVH, tradusă tradițional „DOMNUL”, cu majuscule) cu Elohim. Apare prima dată aici, la Geneza 2, marcând trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”, la capitolul 1) la relatarea mai personală a creării omului.",
+    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă.",
+    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+    "diff_ro": "Numele propriu al lui Dumnezeu (YHWH) este redat aici prin „Dumnezeu” (Theos), nu prin „Domnul” (Kyrios), cum face de obicei Septuaginta; se pierde accentul pe Numele personal."
    },
    {
     "t": " i-a spus lui "
@@ -1892,8 +1976,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Κάϊν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Cain.",
-    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare."
+    "def_ro": "Cain — nume propriu, primul fiu al lui Adam și al Evei; același cuvânt înseamnă „suliță”, iar în text sună ca verbul qanah, „a dobândi”; mai târziu numește și o seminție (cheniții).",
+    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare.",
+    "greek_def_ro": "Κάϊν (Kain) — Cain, nume propriu."
    },
    {
     "t": ": „Unde este "
@@ -1907,8 +1992,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ἅβελ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Abel.",
-    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare."
+    "def_ro": "Abel — nume propriu; același cuvânt înseamnă „suflare, abur, deșertăciune”.",
+    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
+    "greek_def_ro": "Ἅβελ (Abel) — Abel, nume propriu."
    },
    {
     "t": ", "
@@ -1922,8 +2008,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ ἀδελφός σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fratele tău.",
-    "dict_ro": "Ach, „frate” — cuvântul-cheie al întregului capitol, repetat de șapte ori (4:2, 8 de două ori, 9 de două ori, 10, 11), țesând tema centrală a fratricidului: relația frățească distrusă e amintită insistent, verset după verset, până la întrebarea retorică a lui Cain „Sunt eu oare păzitorul fratelui meu?”"
+    "def_ro": "frate — în sens propriu, dar și al rudeniei largi sau al înrudirii prin asemănare.",
+    "dict_ro": "Ach, „frate” — cuvântul-cheie al întregului capitol, repetat de șapte ori (4:2, 8 de două ori, 9 de două ori, 10, 11), țesând tema centrală a fratricidului: relația frățească distrusă e amintită insistent, verset după verset, până la întrebarea retorică a lui Cain „Sunt eu oare păzitorul fratelui meu?”",
+    "greek_def_ro": "ἀδελφός (adelphos) — frate; „fratele tău”."
    },
    {
     "t": " tău?” "
@@ -1937,8 +2024,9 @@ window.CHAPTER_DATA = [
     "pos": "pronume",
     "greek": "ὁ δὲ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "el.",
-    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25)."
+    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
+    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25).",
+    "greek_def_ro": "ὁ δέ (ho de) — iar el."
    },
    {
     "t": " a "
@@ -1952,8 +2040,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a spus.",
-    "dict_ro": "Rădăcina amar, „a zice, a spune” — verbul de bază pentru vorbire directă în ebraica biblică, introducând aici primele cuvinte rostite vreodată de o ființă umană în textul biblic (Eva, la nașterea lui Cain)."
+    "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+    "dict_ro": "Rădăcina amar, „a zice, a spune” — verbul de bază pentru vorbire directă în ebraica biblică; în Geneza 4 introduce, pe rând, cuvintele Evei, ale lui Dumnezeu, ale lui Cain și ale lui Lameh.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": ": „Nu "
@@ -1967,8 +2056,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "οἶδα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "știu.",
-    "dict_ro": "Verbul yada, „a ști, a cunoaște” — folosit aici (ca și la 4:17 și 4:25) ca eufemism biblic obișnuit pentru unirea trupească dintre soț și soție, aceeași rădăcină ca la „pomul cunoașterii binelui și răului” din Geneza 2-3. Ebraica biblică nu separă cunoașterea intelectuală de intimitatea trupească — a „cunoaște” pe cineva înseamnă o legătură profundă, nu doar informație."
+    "def_ro": "a ști, a cunoaște — aceeași rădăcină ca în „pomul cunoașterii” de la capitolul anterior.",
+    "dict_ro": "Verbul yada, „a ști, a cunoaște” — folosit aici (ca și la 4:17 și 4:25) ca eufemism biblic obișnuit pentru unirea trupească dintre soț și soție, aceeași rădăcină ca la „pomul cunoașterii binelui și răului” din Geneza 2-3. Ebraica biblică nu separă cunoașterea intelectuală de intimitatea trupească — a „cunoaște” pe cineva înseamnă o legătură profundă, nu doar informație.",
+    "greek_def_ro": "οἶδα (oida) — a ști."
    },
    {
     "t": "! Sunt eu oare "
@@ -1982,8 +2072,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "φύλαξ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "păzitorul.",
-    "dict_ro": "Rădăcina shamar, „a păzi, a veghea” — aceeași rădăcină din porunca dată lui Adam „să păzească” grădina Edenului (Geneza 2:15); răspunsul sfidător al lui Cain („Sunt eu oare păzitorul fratelui meu?”) răstoarnă ironic o responsabilitate pe care omul o avea deja, din capitolul anterior, față de lumea încredințată lui."
+    "def_ro": "a păzi, a păstra, a ține — o poruncă sau un loc.",
+    "dict_ro": "Rădăcina shamar, „a păzi, a veghea” — aceeași rădăcină din porunca dată lui Adam „să păzească” grădina Edenului (Geneza 2:15); răspunsul sfidător al lui Cain („Sunt eu oare păzitorul fratelui meu?”) răstoarnă ironic o responsabilitate pe care omul o avea deja, din capitolul anterior, față de lumea încredințată lui.",
+    "greek_def_ro": "φύλαξ (phylax) — străjer, păzitor."
    },
    {
     "t": " fratelui meu?”"
@@ -2084,8 +2175,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a spus.",
-    "dict_ro": "Rădăcina amar, „a zice, a spune” — verbul de bază pentru vorbire directă în ebraica biblică, introducând aici primele cuvinte rostite vreodată de o ființă umană în textul biblic (Eva, la nașterea lui Cain)."
+    "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+    "dict_ro": "Rădăcina amar, „a zice, a spune” — verbul de bază pentru vorbire directă în ebraica biblică; în Geneza 4 introduce, pe rând, cuvintele Evei, ale lui Dumnezeu, ale lui Cain și ale lui Lameh.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": ": „Ce-ai "
@@ -2099,8 +2191,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐποίησας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ai făcut.",
-    "dict_ro": "Rădăcina asah, „a face” — verb general de acțiune, aici în întrebarea retorică divină „Ce-ai făcut?”, ecou direct al întrebării adresate lui Adam și Evei după păcatul din grădină (Geneza 3:13), semn că Dumnezeu urmează același tipar de confruntare morală — întrebare înainte de sentință."
+    "def_ro": "a face, a lucra — în sensul cel mai larg și cu aplicații foarte variate.",
+    "dict_ro": "Rădăcina asah, „a face” — verb general de acțiune, aici în întrebarea retorică divină „Ce-ai făcut?”, ecou direct al întrebării adresate lui Adam și Evei după păcatul din grădină (Geneza 3:13), semn că Dumnezeu urmează același tipar de confruntare morală — întrebare înainte de sentință.",
+    "greek_def_ro": "ποιέω (poieo) — a face."
    },
    {
     "t": "? "
@@ -2114,8 +2207,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "φωνὴ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "glasul.",
-    "dict_ro": "Qol, „glas, sunet” — cuvântul „glasul sângelui” personifică sângele vărsat ca pe o voce care strigă, imagine reluată la Evrei 12:24 („sângele stropirii, care vorbește mai bine decât cel al lui Abel”) și în Apocalipsa 6:10 (sufletele martirilor care strigă de sub altar)."
+    "def_ro": "glas, voce, sunet, zgomot.",
+    "dict_ro": "Qol, „glas, sunet” — cuvântul „glasul sângelui” personifică sângele vărsat ca pe o voce care strigă, imagine reluată la Evrei 12:24 („sângele stropirii, care vorbește mai bine decât cel al lui Abel”) și în Apocalipsa 6:10 (sufletele martirilor care strigă de sub altar).",
+    "greek_def_ro": "φωνή (phōnē) — glas, sunet."
    },
    {
     "t": " "
@@ -2129,8 +2223,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "αἵματος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sângelui.",
-    "dict_ro": "Dam, „sânge” — la forma de plural demei, literal „sângurile”, formă neobișnuită pe care Rashi o citește ca aluzie la faptul că sângele lui Abel a fost vărsat prin multe răni, sau, într-o lectură mai largă, la sângele tuturor urmașilor pe care Abel nu a mai apucat să-i aibă — o viață curmată înseamnă, simbolic, mai multe vieți pierdute."
+    "def_ro": "sânge; sângele vărsat, de unde „vină de sânge”, ucidere.",
+    "dict_ro": "Dam, „sânge” — la forma de plural demei, literal „sângurile”, formă neobișnuită pe care Rashi o citește ca aluzie la faptul că sângele lui Abel a fost vărsat prin multe răni, sau, într-o lectură mai largă, la sângele tuturor urmașilor pe care Abel nu a mai apucat să-i aibă — o viață curmată înseamnă, simbolic, mai multe vieți pierdute.",
+    "greek_def_ro": "αἷμα (haima) — sânge (la genitiv)."
    },
    {
     "t": " "
@@ -2145,7 +2240,8 @@ window.CHAPTER_DATA = [
     "greek": "τοῦ ἀδελφοῦ σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "fratelui tău.",
-    "dict_ro": "Ach, „frate” — cuvântul-cheie al întregului capitol, repetat de șapte ori (4:2, 8 de două ori, 9 de două ori, 10, 11), țesând tema centrală a fratricidului: relația frățească distrusă e amintită insistent, verset după verset, până la întrebarea retorică a lui Cain „Sunt eu oare păzitorul fratelui meu?”"
+    "dict_ro": "Ach, „frate” — cuvântul-cheie al întregului capitol, repetat de șapte ori (4:2, 8 de două ori, 9 de două ori, 10, 11), țesând tema centrală a fratricidului: relația frățească distrusă e amintită insistent, verset după verset, până la întrebarea retorică a lui Cain „Sunt eu oare păzitorul fratelui meu?”",
+    "greek_def_ro": "ἀδελφός (adelphos) — frate; „al fratelui tău”."
    },
    {
     "t": " tău "
@@ -2159,8 +2255,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "βοᾷ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "strigă.",
-    "dict_ro": "Rădăcina tsa'aq, „a striga” — termen tehnic pentru strigătul de durere sau nedreptate care cere intervenție divină, aceeași rădăcină ca strigătul israeliților din robia egipteană (Exodul 2:23) — primul „strigăt care ajunge la Dumnezeu” din Biblie e al sângelui unui frate ucis."
+    "def_ro": "a striga (după ajutor), a se văita; strigătul celui nedreptățit.",
+    "dict_ro": "Rădăcina tsa'aq, „a striga” — termen tehnic pentru strigătul de durere sau nedreptate care cere intervenție divină, aceeași rădăcină ca strigătul israeliților din robia egipteană (Exodul 2:23) — primul „strigăt care ajunge la Dumnezeu” din Biblie e al sângelui unui frate ucis.",
+    "greek_def_ro": "βοάω (boaō) — a striga, a chema cu glas tare."
    },
    {
     "t": " către Mine din "
@@ -2174,8 +2271,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῆς γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământ.",
-    "dict_ro": "Adamah, „pământ, țărână, sol arabil” — aceeași rădăcină ca numele lui Adam însuși, subliniind legătura strânsă dintre om și pământul din care a fost format (Geneza 2:7). La Geneza 4, adamah devine un personaj aproape activ: e blestemată (3:17), își „deschide gura” să înghită sângele lui Abel (4:11) și refuză să-și mai dea rodul lui Cain (4:12)."
+    "def_ro": "sol, pământ arabil — de la culoarea lui roșiatică (aceeași rădăcină ca numele „Adam”).",
+    "dict_ro": "Adamah, „pământ, țărână, sol arabil” — aceeași rădăcină ca numele lui Adam însuși, subliniind legătura strânsă dintre om și pământul din care a fost format (Geneza 2:7). La Geneza 4, adamah devine un personaj aproape activ: e blestemată (3:17), își „deschide gura” să înghită sângele lui Abel (4:11) și refuză să-și mai dea rodul lui Cain (4:12).",
+    "greek_def_ro": "— (LXX îl redă simplu γῆ, „pământ”, la fel ca H776.)"
    },
    {
     "t": ".”"
@@ -2287,8 +2385,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "ἐπικατάρατος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "blestemat.",
-    "dict_ro": "Rădăcina arar, „a blestema” — aceeași rădăcină ca blestemul șarpelui și al pământului la Geneza 3:14, 17; de această dată, pentru prima oară, blestemul cade direct asupra unei persoane, nu doar asupra unei circumstanțe a ei — Cain e „mai blestemat” decât fusese pământul însuși."
+    "def_ro": "a blestema, a osândi cu blestem.",
+    "dict_ro": "Rădăcina arar, „a blestema” — aceeași rădăcină ca blestemul șarpelui și al pământului la Geneza 3:14, 17; de această dată, pentru prima oară, blestemul cade direct asupra unei persoane, nu doar asupra unei circumstanțe a ei — Cain e „mai blestemat” decât fusese pământul însuși.",
+    "greek_def_ro": "ἐπικατάρατος (epikataratos) — blestemat."
    },
    {
     "t": " ești"
@@ -2305,8 +2404,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῆς γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământul.",
-    "dict_ro": "Adamah, „pământ, țărână, sol arabil” — aceeași rădăcină ca numele lui Adam însuși, subliniind legătura strânsă dintre om și pământul din care a fost format (Geneza 2:7). La Geneza 4, adamah devine un personaj aproape activ: e blestemată (3:17), își „deschide gura” să înghită sângele lui Abel (4:11) și refuză să-și mai dea rodul lui Cain (4:12)."
+    "def_ro": "sol, pământ arabil — de la culoarea lui roșiatică (aceeași rădăcină ca numele „Adam”).",
+    "dict_ro": "Adamah, „pământ, țărână, sol arabil” — aceeași rădăcină ca numele lui Adam însuși, subliniind legătura strânsă dintre om și pământul din care a fost format (Geneza 2:7). La Geneza 4, adamah devine un personaj aproape activ: e blestemată (3:17), își „deschide gura” să înghită sângele lui Abel (4:11) și refuză să-și mai dea rodul lui Cain (4:12).",
+    "greek_def_ro": "— (LXX îl redă simplu γῆ, „pământ”, la fel ca H776.)"
    },
    {
     "t": " care și-a "
@@ -2321,7 +2421,8 @@ window.CHAPTER_DATA = [
     "greek": "ἔχανεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "și-a deschis larg.",
-    "dict_ro": "Rădăcina patsah, „a deschide larg (gura)” — verb intens, folosit de obicei pentru fiare sălbatice sau pentru Șeol/locul morților care „își deschide gura” să înghită (cf. Numeri 16:30, Isaia 5:14); pământul e descris aici aproape ca o fiară care a înghițit sângele nevinovat."
+    "dict_ro": "Rădăcina patsah, „a deschide larg (gura)” — verb intens, folosit de obicei pentru fiare sălbatice sau pentru Șeol/locul morților care „își deschide gura” să înghită (cf. Numeri 16:30, Isaia 5:14); pământul e descris aici aproape ca o fiară care a înghițit sângele nevinovat.",
+    "greek_def_ro": "χάσκω (chaskō) — a deschide larg (gura), a căsca."
    },
    {
     "t": " "
@@ -2335,8 +2436,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸ στόμα αὐτῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "gura ei.",
-    "dict_ro": "Peh, „gură” — imagine antropomorfă puternică: pământul are „gură” și „bea” sângele, participant activ, nu doar loc pasiv al crimei."
+    "def_ro": "gură; și ce seamănă cu o gură: margine, deschizătură.",
+    "dict_ro": "Peh, „gură” — imagine antropomorfă puternică: pământul are „gură” și „bea” sângele, participant activ, nu doar loc pasiv al crimei.",
+    "greek_def_ro": "στόμα (stoma) — gură; „gura ei”."
    },
    {
     "t": " ca să ia "
@@ -2350,8 +2452,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸ αἷμα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sângele.",
-    "dict_ro": "Dam, „sânge” — la forma de plural demei, literal „sângurile”, formă neobișnuită pe care Rashi o citește ca aluzie la faptul că sângele lui Abel a fost vărsat prin multe răni, sau, într-o lectură mai largă, la sângele tuturor urmașilor pe care Abel nu a mai apucat să-i aibă — o viață curmată înseamnă, simbolic, mai multe vieți pierdute."
+    "def_ro": "sânge; sângele vărsat, de unde „vină de sânge”, ucidere.",
+    "dict_ro": "Dam, „sânge” — la forma de plural demei, literal „sângurile”, formă neobișnuită pe care Rashi o citește ca aluzie la faptul că sângele lui Abel a fost vărsat prin multe răni, sau, într-o lectură mai largă, la sângele tuturor urmașilor pe care Abel nu a mai apucat să-i aibă — o viață curmată înseamnă, simbolic, mai multe vieți pierdute.",
+    "greek_def_ro": "αἷμα (haima) — sânge."
    },
    {
     "t": " fratelui tău din "
@@ -2365,8 +2468,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῆς χειρός σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mâna ta.",
-    "dict_ro": "Yad, „mână” — sursă a violenței, „din mâna ta”, dar și, mai general în ebraică, simbol al puterii și acțiunii personale; sângele a fost vărsat direct „din mâna” lui Cain, nu printr-un intermediar."
+    "def_ro": "mână; la figurat, putere.",
+    "dict_ro": "Yad, „mână” — sursă a violenței, „din mâna ta”, dar și, mai general în ebraică, simbol al puterii și acțiunii personale; sângele a fost vărsat direct „din mâna” lui Cain, nu printr-un intermediar.",
+    "greek_def_ro": "χείρ (cheir) — mână; „din mâna ta”."
    },
    {
     "t": " ta."
@@ -2475,8 +2579,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐργᾷ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vei lucra.",
-    "dict_ro": "Rădăcina avad, „a lucra, a sluji” — aceeași rădăcină ca avodah, „muncă, cult, slujire”, folosită și pentru porunca dată lui Adam în Eden „să lucreze și să păzească” grădina (Geneza 2:15). Cain moștenește literal ocupația tatălui său, dar pe un pământ acum blestemat (Geneza 3:17)."
+    "def_ro": "a lucra, a munci, a sluji; și, la figurat, a se închina — a sluji lui Dumnezeu.",
+    "dict_ro": "Rădăcina avad, „a lucra, a sluji” — aceeași rădăcină ca avodah, „muncă, cult, slujire”, folosită și pentru porunca dată lui Adam în Eden „să lucreze și să păzească” grădina (Geneza 2:15). Cain moștenește literal ocupația tatălui său, dar pe un pământ acum blestemat (Geneza 3:17).",
+    "greek_def_ro": "ἐργάζομαι (ergazomai) — a lucra; „vei lucra”."
    },
    {
     "t": " "
@@ -2490,8 +2595,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν γῆν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământul.",
-    "dict_ro": "Adamah, „pământ, țărână, sol arabil” — aceeași rădăcină ca numele lui Adam însuși, subliniind legătura strânsă dintre om și pământul din care a fost format (Geneza 2:7). La Geneza 4, adamah devine un personaj aproape activ: e blestemată (3:17), își „deschide gura” să înghită sângele lui Abel (4:11) și refuză să-și mai dea rodul lui Cain (4:12)."
+    "def_ro": "sol, pământ arabil — de la culoarea lui roșiatică (aceeași rădăcină ca numele „Adam”).",
+    "dict_ro": "Adamah, „pământ, țărână, sol arabil” — aceeași rădăcină ca numele lui Adam însuși, subliniind legătura strânsă dintre om și pământul din care a fost format (Geneza 2:7). La Geneza 4, adamah devine un personaj aproape activ: e blestemată (3:17), își „deschide gura” să înghită sângele lui Abel (4:11) și refuză să-și mai dea rodul lui Cain (4:12).",
+    "greek_def_ro": "— (LXX îl redă simplu γῆ, „pământ”, la fel ca H776.)"
    },
    {
     "t": ", "
@@ -2505,8 +2611,9 @@ window.CHAPTER_DATA = [
     "pos": "pronume",
     "greek": "αὕτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "el.",
-    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25)."
+    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
+    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25).",
+    "greek_def_ro": "αὐτός (autos) — el, ea, acela."
    },
    {
     "t": " nu-ți va mai "
@@ -2520,8 +2627,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "δοῦναί",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "va da.",
-    "dict_ro": "Rădăcina natan, „a da” — aici la forma negativă, pământul „nu-ți va mai da” rodul, ecoul direct al blestemului asupra lui Adam de la Geneza 3:17-19, agravat: dacă Adam trebuia să muncească din greu pentru rod, Cain nu va mai primi deloc rod, oricât ar munci."
+    "def_ro": "a da — folosit cu sensul cel mai larg (a pune, a face, a îngădui etc.).",
+    "dict_ro": "Rădăcina natan, „a da” — aici la forma negativă, pământul „nu-ți va mai da” rodul, ecoul direct al blestemului asupra lui Adam de la Geneza 3:17-19, agravat: dacă Adam trebuia să muncească din greu pentru rod, Cain nu va mai primi deloc rod, oricât ar munci.",
+    "greek_def_ro": "δίδωμι (didōmi) — a da."
    },
    {
     "t": " "
@@ -2535,8 +2643,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν ἰσχὺν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vigoarea.",
-    "dict_ro": "Koach, „putere, vigoare” — termen folosit adesea pentru forța fizică sau roditoare; „vigoarea” pământului aici înseamnă capacitatea lui de a produce recoltă, acum retrasă lui Cain ca pedeapsă directă legată de unealta crimei (sângele vărsat pe pământ)."
+    "def_ro": "putere, vigoare, tărie; și rodul puterii (roada pământului).",
+    "dict_ro": "Koach, „putere, vigoare” — termen folosit adesea pentru forța fizică sau roditoare; „vigoarea” pământului aici înseamnă capacitatea lui de a produce recoltă, acum retrasă lui Cain ca pedeapsă directă legată de unealta crimei (sângele vărsat pe pământ).",
+    "greek_def_ro": "ἰσχύς (ischys) — putere, tărie."
    },
    {
     "t": " lui. "
@@ -2550,8 +2659,10 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "στένων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "rătăcitor.",
-    "dict_ro": "Rădăcina nua, „a se clătina, a rătăci” — mișcare fără țintă fixă, instabilitate; combinată cu rădăcina următoare (nad) formează expresia idiomatică „rătăcitor și pribeag”, care va da și numele ținutului unde se stabilește Cain: Nod (4:16)."
+    "def_ro": "a se clătina, a rătăci fără odihnă.",
+    "dict_ro": "Rădăcina nua, „a se clătina, a rătăci” — mișcare fără țintă fixă, instabilitate; combinată cu rădăcina următoare (nad) formează expresia idiomatică „rătăcitor și pribeag”, care va da și numele ținutului unde se stabilește Cain: Nod (4:16).",
+    "greek_def_ro": "στένω (stenō) — a geme, a suspina.",
+    "diff_ro": "Ebraica: „rătăcitor” (nā), mișcare fără odihnă; greaca: „gemând” (stenōn), accent pe starea lăuntrică, nu pe rătăcirea fizică."
    },
    {
     "t": " și "
@@ -2565,8 +2676,10 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "τρέμων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pribeag.",
-    "dict_ro": "Rădăcina nud, „a pribegi, a se clătina din loc în loc” — aceeași rădăcină de la care derivă numele ținutului Nod (4:16); Cain devine, prin blestem, un exilat perpetuu, incapabil să se așeze definitiv nicăieri — ironie amară, căci el va fi și primul care va încerca să construiască o cetate permanentă (4:17)."
+    "def_ro": "a pribegi, a fugi, a rătăci; de aici nad, „pribeag”.",
+    "dict_ro": "Rădăcina nud, „a pribegi, a se clătina din loc în loc” — aceeași rădăcină de la care derivă numele ținutului Nod (4:16); Cain devine, prin blestem, un exilat perpetuu, incapabil să se așeze definitiv nicăieri — ironie amară, căci el va fi și primul care va încerca să construiască o cetate permanentă (4:17).",
+    "greek_def_ro": "τρέμω (tremō) — a tremura.",
+    "diff_ro": "Ebraica: „pribeag” (nād); greaca: „tremurând” (tremōn), frică și neliniște, în loc de fuga fizică."
    },
    {
     "t": " vei fi pe "
@@ -2580,8 +2693,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῆς γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pe pământ.",
-    "dict_ro": "Erets, „pământ, țară” — termen mai larg decât adamah (solul arabil): aici desemnează întreaga lume ca spațiu al pribegiei lui Cain, nu doar câmpul pe care-l lucra."
+    "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+    "dict_ro": "Erets, „pământ, țară” — termen mai larg decât adamah (solul arabil): aici desemnează întreaga lume ca spațiu al pribegiei lui Cain, nu doar câmpul pe care-l lucra.",
+    "greek_def_ro": "γῆ (ge) — pământ, țară."
    },
    {
     "t": "."
@@ -2685,8 +2799,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Κάϊν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Cain.",
-    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare."
+    "def_ro": "Cain — nume propriu, primul fiu al lui Adam și al Evei; același cuvânt înseamnă „suliță”, iar în text sună ca verbul qanah, „a dobândi”; mai târziu numește și o seminție (cheniții).",
+    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare.",
+    "greek_def_ro": "Κάϊν (Kain) — Cain, nume propriu."
    },
    {
     "t": " i-a "
@@ -2700,8 +2815,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a spus.",
-    "dict_ro": "Rădăcina amar, „a zice, a spune” — verbul de bază pentru vorbire directă în ebraica biblică, introducând aici primele cuvinte rostite vreodată de o ființă umană în textul biblic (Eva, la nașterea lui Cain)."
+    "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+    "dict_ro": "Rădăcina amar, „a zice, a spune” — verbul de bază pentru vorbire directă în ebraica biblică; în Geneza 4 introduce, pe rând, cuvintele Evei, ale lui Dumnezeu, ale lui Cain și ale lui Lameh.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": " "
@@ -2715,8 +2831,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πρὸς τὸν Κύριον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNULUI.",
-    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă."
+    "def_ro": "DOMNUL Dumnezeu — combinația Numelui propriu al lui Dumnezeu (Tetragrama YHVH, tradusă tradițional „DOMNUL”, cu majuscule) cu Elohim. Apare prima dată aici, la Geneza 2, marcând trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”, la capitolul 1) la relatarea mai personală a creării omului.",
+    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă.",
+    "greek_def_ro": "πρός (pros) + Κύριος (Kyrios) — către Domnul."
    },
    {
     "t": ": „Oare este "
@@ -2730,8 +2847,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἡ αἰτία μου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "păcatul meu.",
-    "dict_ro": "Avon, „vină, păcat, pedeapsă” — cuvânt cu sens dublu remarcat de Ibn Ezra: poate însemna atât „nelegiuirea” în sine, cât și „pedeapsa” care decurge din ea (ca la Geneza 19:15, „pedeapsa cetății”). Ambiguitatea explică de ce traducerile variază între „păcatul meu e prea mare ca să fie iertat” și „pedeapsa mea e prea mare ca s-o pot purta” — Ramban citește versetul ca pe o mărturisire sinceră, nu ca pe o plângere."
+    "def_ro": "nelegiuire, vină și pedeapsa ei; în Geneza 4:13 poate însemna atât vina, cât și pedeapsa.",
+    "dict_ro": "Avon, „vină, păcat, pedeapsă” — cuvânt cu sens dublu remarcat de Ibn Ezra: poate însemna atât „nelegiuirea” în sine, cât și „pedeapsa” care decurge din ea (ca la Geneza 19:15, „pedeapsa cetății”). Ambiguitatea explică de ce traducerile variază între „păcatul meu e prea mare ca să fie iertat” și „pedeapsa mea e prea mare ca s-o pot purta” — Ramban citește versetul ca pe o mărturisire sinceră, nu ca pe o plângere.",
+    "greek_def_ro": "αἰτία (aitia) — pricină, vină; „vina mea”."
    },
    {
     "t": " meu prea "
@@ -2745,8 +2863,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "μείζων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mare.",
-    "dict_ro": "Gadol, „mare” — adjectiv simplu de intensitate, dar plasat aici într-o întrebare aproape retorică (citită de Rashi cu mirare: „tu ceri socoteală de la ceruri și pământ, iar vina ta nu poate fi cerută?”), adâncind tensiunea dintre gravitatea faptei și limitele iertării."
+    "def_ro": "mare — în orice sens; de aici, „mai în vârstă”; sau, la figurat, „îngâmfat”.",
+    "dict_ro": "Gadol, „mare” — adjectiv simplu de intensitate, dar plasat aici într-o întrebare aproape retorică (citită de Rashi cu mirare: „tu ceri socoteală de la ceruri și pământ, iar vina ta nu poate fi cerută?”), adâncind tensiunea dintre gravitatea faptei și limitele iertării.",
+    "greek_def_ro": "μέγας (megas) — mare; μείζων — mai mare."
    },
    {
     "t": " ca să fie "
@@ -2761,7 +2880,9 @@ window.CHAPTER_DATA = [
     "greek": "τοῦ ἀφεθῆναί",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "ca să fie iertat.",
-    "dict_ro": "Rădăcina nasa, „a ridica, a purta” — cuvânt cu dublu sens, discutat mult de comentatori: „iertare” (a ridica vina) sau „ridicarea feței” (demnitate, statutul de întâi-născut), în opoziție directă cu fețele căzute din 4:5-6. Ibn Ezra și Ramban preferă a doua lectură: dacă Cain va face bine, își va recăpăta demnitatea de întâi-născut pe care acum a pierdut-o prin rușine."
+    "dict_ro": "Rădăcina nasa, „a ridica, a purta” — cuvânt cu dublu sens, discutat mult de comentatori: „iertare” (a ridica vina) sau „ridicarea feței” (demnitate, statutul de întâi-născut), în opoziție directă cu fețele căzute din 4:5-6. Ibn Ezra și Ramban preferă a doua lectură: dacă Cain va face bine, își va recăpăta demnitatea de întâi-născut pe care acum a pierdut-o prin rușine.",
+    "greek_def_ro": "ἀφίημι (aphiēmi) — a lăsa, a ierta; „ca să fie iertată”.",
+    "diff_ro": "Ebraica (minnesō) poate însemna „de purtat” sau „de iertat”; greaca alege sensul „iertare”: „mai mare decât să poată fi iertată” (tou aphethēnai)."
    }
   ],
   "textCompare": [
@@ -2862,7 +2983,8 @@ window.CHAPTER_DATA = [
     "greek": "ἐκβέβληκάς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "m-ai izgonit.",
-    "dict_ro": "Rădăcina garash, „a izgoni, a alunga” — același verb folosit pentru izgonirea lui Adam și a Evei din Eden (Geneza 3:24); Cain repetă, la o generație distanță, exilul părinților săi, de data asta nu dintr-o grădină, ci de pe fața întregului pământ locuit."
+    "dict_ro": "Rădăcina garash, „a izgoni, a alunga” — același verb folosit pentru izgonirea lui Adam și a Evei din Eden (Geneza 3:24); Cain repetă, la o generație distanță, exilul părinților săi, de data asta nu dintr-o grădină, ci de pe fața întregului pământ locuit.",
+    "greek_def_ro": "ἐκβάλλω (ekballō) — a izgoni, a scoate afară."
    },
    {
     "t": " "
@@ -2876,8 +2998,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "σήμερον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "astăzi.",
-    "dict_ro": "Yom, „zi” — aici „astăzi”, subliniind bruschețea și imediatețea pedepsei: exilul lui Cain nu e o amenințare pentru viitor, ci începe chiar în clipa rostirii sentinței."
+    "def_ro": "zi — literal (de la răsărit la apus, sau de la un apus la altul) sau, la figurat, orice interval de timp definit.",
+    "dict_ro": "Yom, „zi” — aici „astăzi”, subliniind bruschețea și imediatețea pedepsei: exilul lui Cain nu e o amenințare pentru viitor, ci începe chiar în clipa rostirii sentinței.",
+    "greek_def_ro": "σήμερον (sēmeron) — astăzi."
    },
    {
     "t": " de pe "
@@ -2891,8 +3014,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "προσώπου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fața.",
-    "dict_ro": "Panim, „față” — cuvânt care înseamnă și „prezență” (de unde teologia biblică a „Feței lui Dumnezeu”); fața posomorâtă a lui Cain (4:5-6) anticipează tragic expresia de la 4:14, unde el însuși va fi izgonit „de pe fața pământului” și „dinaintea feței” lui Dumnezeu."
+    "def_ro": "față — propriu-zis, partea care se întoarce spre cineva; folosită în foarte multe construcții, uneori ca prepoziție („înaintea”).",
+    "dict_ro": "Panim, „față” — cuvânt care înseamnă și „prezență” (de unde teologia biblică a „Feței lui Dumnezeu”); fața posomorâtă a lui Cain (4:5-6) anticipează tragic expresia de la 4:14, unde el însuși va fi izgonit „de pe fața pământului” și „dinaintea feței” lui Dumnezeu.",
+    "greek_def_ro": "πρόσωπον (prosōpon) — față (la genitiv)."
    },
    {
     "t": " pământului – [dar] voi putea fi eu oare "
@@ -2907,7 +3031,8 @@ window.CHAPTER_DATA = [
     "greek": "κρυβήσομαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "voi fi ascuns.",
-    "dict_ro": "Rădăcina satar, „a ascunde” — rădăcina din spatele expresiei teologice hastarat panim, „ascunderea Feței [lui Dumnezeu]”, folosită în toată literatura rabinică pentru absența resimțită a prezenței divine; teama lui Cain nu e doar de exil geografic, ci de pierderea relației cu Dumnezeu Însuși."
+    "dict_ro": "Rădăcina satar, „a ascunde” — rădăcina din spatele expresiei teologice hastarat panim, „ascunderea Feței [lui Dumnezeu]”, folosită în toată literatura rabinică pentru absența resimțită a prezenței divine; teama lui Cain nu e doar de exil geografic, ci de pierderea relației cu Dumnezeu Însuși.",
+    "greek_def_ro": "κρύπτω (kryptō) — a ascunde; „voi fi ascuns”."
    },
    {
     "t": " dinaintea Ta? Voi fi "
@@ -2921,8 +3046,10 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "στένων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "rătăcitor.",
-    "dict_ro": "Rădăcina nua, „a se clătina, a rătăci” — mișcare fără țintă fixă, instabilitate; combinată cu rădăcina următoare (nad) formează expresia idiomatică „rătăcitor și pribeag”, care va da și numele ținutului unde se stabilește Cain: Nod (4:16)."
+    "def_ro": "a se clătina, a rătăci fără odihnă.",
+    "dict_ro": "Rădăcina nua, „a se clătina, a rătăci” — mișcare fără țintă fixă, instabilitate; combinată cu rădăcina următoare (nad) formează expresia idiomatică „rătăcitor și pribeag”, care va da și numele ținutului unde se stabilește Cain: Nod (4:16).",
+    "greek_def_ro": "στένω (stenō) — a geme, a suspina.",
+    "diff_ro": "Ebraica: „rătăcitor” (nā), mișcare fără odihnă; greaca: „gemând” (stenōn), accent pe starea lăuntrică."
    },
    {
     "t": " și "
@@ -2936,8 +3063,10 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "τρέμων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pribeag.",
-    "dict_ro": "Rădăcina nud, „a pribegi, a se clătina din loc în loc” — aceeași rădăcină de la care derivă numele ținutului Nod (4:16); Cain devine, prin blestem, un exilat perpetuu, incapabil să se așeze definitiv nicăieri — ironie amară, căci el va fi și primul care va încerca să construiască o cetate permanentă (4:17)."
+    "def_ro": "a pribegi, a fugi, a rătăci; de aici nad, „pribeag”.",
+    "dict_ro": "Rădăcina nud, „a pribegi, a se clătina din loc în loc” — aceeași rădăcină de la care derivă numele ținutului Nod (4:16); Cain devine, prin blestem, un exilat perpetuu, incapabil să se așeze definitiv nicăieri — ironie amară, căci el va fi și primul care va încerca să construiască o cetate permanentă (4:17).",
+    "greek_def_ro": "τρέμω (tremō) — a tremura.",
+    "diff_ro": "Ebraica: „pribeag” (nād); greaca: „tremurând” (tremōn), frică și neliniște."
    },
    {
     "t": " pe pământ; oricine mă "
@@ -2951,8 +3080,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εὑρίσκων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mă găsește.",
-    "dict_ro": "Rădăcina matsa, „a găsi, a întâlni” — la participiu, „cel care mă găsește”, teama lui Cain de răzbunare din partea oricui l-ar întâlni; Ramban observă că, în afară de părinți, omenirea abia începuse să existe — teama arată fie o cunoaștere implicită a urmașilor viitori ai lui Adam, fie o frică exagerată, mai degrabă simbolică."
+    "def_ro": "a găsi, a afla.",
+    "dict_ro": "Rădăcina matsa, „a găsi, a întâlni” — la participiu, „cel care mă găsește”, teama lui Cain de răzbunare din partea oricui l-ar întâlni; Ramban observă că, în afară de părinți, omenirea abia începuse să existe — teama arată fie o cunoaștere implicită a urmașilor viitori ai lui Adam, fie o frică exagerată, mai degrabă simbolică.",
+    "greek_def_ro": "εὑρίσκω (heuriskō) — a găsi; „cel care găsește”."
    },
    {
     "t": ", mă va "
@@ -2966,8 +3096,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀποκτενεῖ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mă va omorî.",
-    "dict_ro": "Rădăcina harag, „a ucide” — verbul standard pentru omor în ebraica biblică, distinct de ratsach (omor ilegal/crimă, folosit în Cele Zece Porunci) și de shachat (înjunghiere rituală). Cain devine, cu acest verb, primul ucigaș din istoria omenirii — și, tragic, victima lui e propriul frate."
+    "def_ro": "a ucide, a omorî.",
+    "dict_ro": "Rădăcina harag, „a ucide” — verbul standard pentru omor în ebraica biblică, distinct de ratsach (omor ilegal/crimă, folosit în Cele Zece Porunci) și de shachat (înjunghiere rituală). Cain devine, cu acest verb, primul ucigaș din istoria omenirii — și, tragic, victima lui e propriul frate.",
+    "greek_def_ro": "ἀποκτείνω (apokteinō) — a ucide; „va ucide”."
    },
    {
     "t": "!”"
@@ -3065,8 +3196,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀποκτείνας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ucide.",
-    "dict_ro": "Rădăcina harag, „a ucide” — verbul standard pentru omor în ebraica biblică, distinct de ratsach (omor ilegal/crimă, folosit în Cele Zece Porunci) și de shachat (înjunghiere rituală). Cain devine, cu acest verb, primul ucigaș din istoria omenirii — și, tragic, victima lui e propriul frate."
+    "def_ro": "a ucide, a omorî.",
+    "dict_ro": "Rădăcina harag, „a ucide” — verbul standard pentru omor în ebraica biblică, distinct de ratsach (omor ilegal/crimă, folosit în Cele Zece Porunci) și de shachat (înjunghiere rituală). Cain devine, cu acest verb, primul ucigaș din istoria omenirii — și, tragic, victima lui e propriul frate.",
+    "greek_def_ro": "ἀποκτείνω (apokteinō) — a ucide; „cel care ucide”."
    },
    {
     "t": " pe "
@@ -3080,8 +3212,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Κάϊν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Cain.",
-    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare."
+    "def_ro": "Cain — nume propriu, primul fiu al lui Adam și al Evei; același cuvânt înseamnă „suliță”, iar în text sună ca verbul qanah, „a dobândi”; mai târziu numește și o seminție (cheniții).",
+    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare.",
+    "greek_def_ro": "Κάϊν (Kain) — Cain, nume propriu."
    },
    {
     "t": " va fi "
@@ -3096,7 +3229,8 @@ window.CHAPTER_DATA = [
     "greek": "ἐκδικηθήσεται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "va fi răzbunat.",
-    "dict_ro": "Rădăcina naqam, „a răzbuna” — termen juridic pentru dreptatea restaurată prin pedeapsă; folosit aici pasiv, „va fi răzbunat”, garanție divină că orice violență împotriva lui Cain va atrage o pedeapsă și mai mare, nu o soluție la nedreptatea deja comisă."
+    "dict_ro": "Rădăcina naqam, „a răzbuna” — termen juridic pentru dreptatea restaurată prin pedeapsă; folosit aici pasiv, „va fi răzbunat”, garanție divină că orice violență împotriva lui Cain va atrage o pedeapsă și mai mare, nu o soluție la nedreptatea deja comisă.",
+    "greek_def_ro": "ἐκδικέω (ekdikeō) — a răzbuna; „va fi răzbunat”."
    },
    {
     "t": " "
@@ -3111,7 +3245,8 @@ window.CHAPTER_DATA = [
     "greek": "ἑπτάκις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "de șapte ori.",
-    "dict_ro": "Shiv'atayim, „de șapte ori, înșeptit” — formă intensivă a numărului șapte, simbol biblic al plinătății/desăvârșirii; garanția divină a răzbunării „înșeptite” pentru Cain va fi parodiată tragic de Lameh la 4:24, care își revendică o răzbunare de „șaptezeci de ori șapte ori”."
+    "dict_ro": "Shiv'atayim, „de șapte ori, înșeptit” — formă intensivă a numărului șapte, simbol biblic al plinătății/desăvârșirii; garanția divină a răzbunării „înșeptite” pentru Cain va fi parodiată tragic de Lameh la 4:24, care își revendică o răzbunare de „șaptezeci de ori șapte ori”.",
+    "greek_def_ro": "ἑπτάκις (heptakis) — de șapte ori."
    },
    {
     "t": ".” Și DOMNUL i-a "
@@ -3125,8 +3260,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔθετο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a pus.",
-    "dict_ro": "Rădăcina sim, „a pune, a așeza” — verb obișnuit, dar Ramban observă alegerea lui specifică aici (nu natan, „a da”, cum ar fi fost mai firesc): sugerează un semn permanent, „pus” asupra lui Cain ca să rămână cu el mereu, nu un dar trecător oferit o singură dată."
+    "def_ro": "a pune, a așeza.",
+    "dict_ro": "Rădăcina sim, „a pune, a așeza” — verb obișnuit, dar Ramban observă alegerea lui specifică aici (nu natan, „a da”, cum ar fi fost mai firesc): sugerează un semn permanent, „pus” asupra lui Cain ca să rămână cu el mereu, nu un dar trecător oferit o singură dată.",
+    "greek_def_ro": "τίθημι (tithemi) — a pune."
    },
    {
     "t": " lui Cain un "
@@ -3140,8 +3276,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "σημεῖον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "semn.",
-    "dict_ro": "Ot, „semn” — același cuvânt ca pentru curcubeul dat lui Noe (Geneza 9:12-13) sau semnele minunilor din Exod; natura exactă a semnului lui Cain nu e precizată în text, iar tradiția rabinică oferă mai multe variante (o literă pe frunte, o coarnă, un câine protector) — un caz clasic în care textul biblic rămâne intenționat vag."
+    "def_ro": "semn — un steag, un far, un monument, o prevestire, o dovadă.",
+    "dict_ro": "Ot, „semn” — același cuvânt ca pentru curcubeul dat lui Noe (Geneza 9:12-13) sau semnele minunilor din Exod; natura exactă a semnului lui Cain nu e precizată în text, iar tradiția rabinică oferă mai multe variante (o literă pe frunte, o coarnă, un câine protector) — un caz clasic în care textul biblic rămâne intenționat vag.",
+    "greek_def_ro": "σημεῖον (sēmeion) — semn."
    },
    {
     "t": ", pentru ca să nu îl "
@@ -3156,7 +3293,8 @@ window.CHAPTER_DATA = [
     "greek": "ἀνελεῖν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "să-l doboare.",
-    "dict_ro": "Rădăcina nakhah, „a lovi, a doborî” — verb obișnuit pentru atac violent; semnul lui Cain nu-l face nevătămabil, ci descurajează pe oricine ar vrea să-l lovească, garantând nu imunitate, ci protecție prin amenințarea răzbunării înșeptite."
+    "dict_ro": "Rădăcina nakhah, „a lovi, a doborî” — verb obișnuit pentru atac violent; semnul lui Cain nu-l face nevătămabil, ci descurajează pe oricine ar vrea să-l lovească, garantând nu imunitate, ci protecție prin amenințarea răzbunării înșeptite.",
+    "greek_def_ro": "ἀναιρέω (anaireō) — a ridica, a ucide."
    },
    {
     "t": " oricine îl "
@@ -3171,7 +3309,8 @@ window.CHAPTER_DATA = [
     "greek": "εὑρίσκων αὐτόν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "îl întâlnește.",
-    "dict_ro": "Rădăcina matsa, „a găsi, a întâlni” — la participiu, „cel care mă găsește”, teama lui Cain de răzbunare din partea oricui l-ar întâlni; Ramban observă că, în afară de părinți, omenirea abia începuse să existe — teama arată fie o cunoaștere implicită a urmașilor viitori ai lui Adam, fie o frică exagerată, mai degrabă simbolică."
+    "dict_ro": "Rădăcina matsa, „a găsi, a întâlni” — la participiu, „cel care mă găsește”, teama lui Cain de răzbunare din partea oricui l-ar întâlni; Ramban observă că, în afară de părinți, omenirea abia începuse să existe — teama arată fie o cunoaștere implicită a urmașilor viitori ai lui Adam, fie o frică exagerată, mai degrabă simbolică.",
+    "greek_def_ro": "εὑρίσκω (heuriskō) — a găsi; „cel care îl găsește”."
    },
    {
     "t": "."
@@ -3281,8 +3420,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Κάϊν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Cain.",
-    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare."
+    "def_ro": "Cain — nume propriu, primul fiu al lui Adam și al Evei; același cuvânt înseamnă „suliță”, iar în text sună ca verbul qanah, „a dobândi”; mai târziu numește și o seminție (cheniții).",
+    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare.",
+    "greek_def_ro": "Κάϊν (Kain) — Cain, nume propriu."
    },
    {
     "t": " a "
@@ -3296,8 +3436,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξῆλθεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a ieșit.",
-    "dict_ro": "Rădăcina yatsa, „a ieși” — Rashi observă alegerea verbului: Cain „iese” în supunere smerită, nu în sfidare, ca unul care acceptă sentința primită, spre deosebire de tonul plângăreț al versetelor anterioare."
+    "def_ro": "a scoate, a ieși — verb de mișcare cu aplicații foarte variate.",
+    "dict_ro": "Rădăcina yatsa, „a ieși” — Rashi observă alegerea verbului: Cain „iese” în supunere smerită, nu în sfidare, ca unul care acceptă sentința primită, spre deosebire de tonul plângăreț al versetelor anterioare.",
+    "greek_def_ro": "ἐξέρχομαι (exerchomai) — a ieși."
    },
    {
     "t": " de dinaintea "
@@ -3311,8 +3452,10 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τοῦ Θεοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNULUI.",
-    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă."
+    "def_ro": "DOMNUL Dumnezeu — combinația Numelui propriu al lui Dumnezeu (Tetragrama YHVH, tradusă tradițional „DOMNUL”, cu majuscule) cu Elohim. Apare prima dată aici, la Geneza 2, marcând trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”, la capitolul 1) la relatarea mai personală a creării omului.",
+    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă.",
+    "greek_def_ro": "Θεός (Theos) — Dumnezeu (la genitiv: „prin Dumnezeu”).",
+    "diff_ro": "Numele propriu al lui Dumnezeu (YHWH) este redat aici prin „Dumnezeu” (Theos), nu prin „Domnul” (Kyrios), cum face de obicei Septuaginta; se pierde accentul pe Numele personal."
    },
    {
     "t": " și s-a "
@@ -3326,8 +3469,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ᾤκησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a așezat.",
-    "dict_ro": "Rădăcina yashav, „a locui, a se așeza” — aici în ciudată tensiune cu blestemul „rătăcitor și pribeag” din 4:12: Cain se „așează” totuși într-un loc, ținutul Nod, deși condamnarea lui rămâne una de neliniște perpetuă mai degrabă decât de mișcare fizică neîntreruptă."
+    "def_ro": "a sta jos, a locui, a rămâne; la forma cauzativă, a așeza.",
+    "dict_ro": "Rădăcina yashav, „a locui, a se așeza” — aici în ciudată tensiune cu blestemul „rătăcitor și pribeag” din 4:12: Cain se „așează” totuși într-un loc, ținutul Nod, deși condamnarea lui rămâne una de neliniște perpetuă mai degrabă decât de mișcare fizică neîntreruptă.",
+    "greek_def_ro": "οἰκέω (oikeō) — a locui."
    },
    {
     "t": " în "
@@ -3341,8 +3485,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "γῇ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ținutul.",
-    "dict_ro": "Erets, „pământ, țară” — termen mai larg decât adamah (solul arabil): aici desemnează întreaga lume ca spațiu al pribegiei lui Cain, nu doar câmpul pe care-l lucra."
+    "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+    "dict_ro": "Erets, „pământ, țară” — termen mai larg decât adamah (solul arabil): aici desemnează întreaga lume ca spațiu al pribegiei lui Cain, nu doar câmpul pe care-l lucra.",
+    "greek_def_ro": "γῆ (gē) — pământ, țară."
    },
    {
     "t": " "
@@ -3356,8 +3501,10 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ναίδ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Nod.",
-    "dict_ro": "Nod — numele ținutului unde se stabilește Cain, derivat direct din rădăcina nud, „a pribegi” (folosită deja la 4:12, 14), practic „Țara Pribegiei”: un nume-blestem, nu o localizare geografică precisă."
+    "def_ro": "Nod — numele unei țări, „pribegie, rătăcire”; același cuvânt ca nad, „pribeag”.",
+    "dict_ro": "Nod — numele ținutului unde se stabilește Cain, derivat direct din rădăcina nud, „a pribegi” (folosită deja la 4:12, 14), practic „Țara Pribegiei”: un nume-blestem, nu o localizare geografică precisă.",
+    "greek_def_ro": "Ναίδ (Naid) — Naid, nume propriu: forma grecească a numelui „Nod”.",
+    "diff_ro": "Numele ebraic Nod (de la nād, „pribeag”) pare să fie transliterat în greacă „Naid”; jocul de cuvinte cu „pribeag” din versetele 12 și 14 nu se mai simte."
    },
    {
     "t": ", la "
@@ -3371,8 +3518,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "κατέναντι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "răsărit.",
-    "dict_ro": "Qidmat, „la răsărit de” — direcția estică apare constant în Geneza ca marcă a distanțării de prezența divină și de Eden: Adam și Eva sunt izgoniți spre est (3:24), Cain se așează la est de Eden, iar mai târziu turnul Babel va fi construit tot „dinspre răsărit” (11:2)."
+    "def_ro": "răsărit, partea de răsărit.",
+    "dict_ro": "Qidmat, „la răsărit de” — direcția estică apare constant în Geneza ca marcă a distanțării de prezența divină și de Eden: Adam și Eva sunt izgoniți spre est (3:24), Cain se așează la est de Eden, iar mai târziu turnul Babel va fi construit tot „dinspre răsărit” (11:2).",
+    "greek_def_ro": "κατέναντι (katenanti) — în fața, înaintea."
    },
    {
     "t": " de "
@@ -3386,8 +3534,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ἐδέμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Eden.",
-    "dict_ro": "Eden — grădina primordială, acum doar un punct de referință geografică pentru exilul lui Cain, care se așează „la răsărit” de ea — nu în Eden, nici măcar aproape de intrarea păzită de heruvimi (3:24), ci vizibil, ireversibil, în afara ei."
+    "def_ro": "Eden — nume propriu; posibil înrudit cu o rădăcină ce înseamnă „desfătare, plăcere”.",
+    "dict_ro": "Eden — grădina primordială, acum doar un punct de referință geografică pentru exilul lui Cain, care se așează „la răsărit” de ea — nu în Eden, nici măcar aproape de intrarea păzită de heruvimi (3:24), ci vizibil, ireversibil, în afara ei.",
+    "greek_def_ro": "Ἐδέμ (Edem) — Eden."
    },
    {
     "t": "."
@@ -3492,8 +3641,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Κάϊν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Cain.",
-    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare."
+    "def_ro": "Cain — nume propriu, primul fiu al lui Adam și al Evei; același cuvânt înseamnă „suliță”, iar în text sună ca verbul qanah, „a dobândi”; mai târziu numește și o seminție (cheniții).",
+    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare.",
+    "greek_def_ro": "Κάϊν (Kain) — Cain, nume propriu."
    },
    {
     "t": " a "
@@ -3508,7 +3658,8 @@ window.CHAPTER_DATA = [
     "greek": "ἔγνω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "a cunoscut-o.",
-    "dict_ro": "Verbul yada, „a ști, a cunoaște” — folosit aici (ca și la 4:17 și 4:25) ca eufemism biblic obișnuit pentru unirea trupească dintre soț și soție, aceeași rădăcină ca la „pomul cunoașterii binelui și răului” din Geneza 2-3. Ebraica biblică nu separă cunoașterea intelectuală de intimitatea trupească — a „cunoaște” pe cineva înseamnă o legătură profundă, nu doar informație."
+    "dict_ro": "Verbul yada, „a ști, a cunoaște” — folosit aici (ca și la 4:17 și 4:25) ca eufemism biblic obișnuit pentru unirea trupească dintre soț și soție, aceeași rădăcină ca la „pomul cunoașterii binelui și răului” din Geneza 2-3. Ebraica biblică nu separă cunoașterea intelectuală de intimitatea trupească — a „cunoaște” pe cineva înseamnă o legătură profundă, nu doar informație.",
+    "greek_def_ro": "γινώσκω (ginōskō) — a cunoaște; în sens biblic, și a cunoaște în împreunarea conjugală."
    },
    {
     "t": " pe "
@@ -3522,8 +3673,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "γυναῖκα αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "soția lui.",
-    "dict_ro": "Ishah, „femeie, soție” — aceeași rădăcină legată prin joc de cuvinte de ish, „bărbat” (Geneza 2:23). La Geneza 4, Eva e numită mereu „soția lui” în relație cu Adam, nu cu numele propriu, semn al perspectivei genealogice a capitolului."
+    "def_ro": "femeie, soție — înrudit ca sunet (nu neapărat ca etimologie) cu „ish”, bărbat — un joc de cuvinte ebraic reflectat chiar în text, la Geneza 2:23.",
+    "dict_ro": "Ishah, „femeie, soție” — aceeași rădăcină legată prin joc de cuvinte de ish, „bărbat” (Geneza 2:23). La Geneza 4, Eva e numită mereu „soția lui” în relație cu Adam, nu cu numele propriu, semn al perspectivei genealogice a capitolului.",
+    "greek_def_ro": "γυνή (gynē) — femeie, soție; „soția lui”."
    },
    {
     "t": " sa, iar "
@@ -3537,8 +3689,9 @@ window.CHAPTER_DATA = [
     "pos": "pronume",
     "greek": "αὕτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ea.",
-    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25)."
+    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
+    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25).",
+    "greek_def_ro": "αὐτός (autos) — el, ea, acela."
    },
    {
     "t": " a "
@@ -3552,8 +3705,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "συνέλαβεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zămislit.",
-    "dict_ro": "Rădăcina harah, „a zămisli, a rămâne însărcinată” — verb obișnuit pentru începutul sarcinii, folosit constant în genealogiile biblice; aici deschide formula standard „a zămislit și a născut”, repetată identic la 4:17."
+    "def_ro": "a zămisli, a rămâne însărcinată — se spune despre femeie; folosit și figurat.",
+    "dict_ro": "Rădăcina harah, „a zămisli, a rămâne însărcinată” — verb obișnuit pentru începutul sarcinii, folosit constant în genealogiile biblice; aici deschide formula standard „a zămislit și a născut”, repetată identic la 4:17.",
+    "greek_def_ro": "συλλαμβάνω (syllambanō) — a prinde, a zămisli."
    },
    {
     "t": " și l-a "
@@ -3567,8 +3721,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔτεκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-a născut.",
-    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș."
+    "def_ro": "a naște, a da naștere.",
+    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș.",
+    "greek_def_ro": "τίκτω (tiktō) — a naște."
    },
    {
     "t": " pe "
@@ -3582,8 +3737,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ενωχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Enoh.",
-    "dict_ro": "Chanokh, Enoh — nume din rădăcina chanakh, „a dedica, a inaugura” (aceeași rădăcină ca Hanuka și chinuch, „educație”); ironia numelui e remarcată de comentatori: Cain, condamnat la pribegie perpetuă, alege să „dedice” un oraș — prima încercare umană de permanență vine tocmai din partea celui blestemat să nu se poată așeza nicăieri."
+    "def_ro": "Enoh — nume propriu, „închinat, inițiat”; îl poartă fiul lui Cain și, mai târziu, Enoh din linia lui Set.",
+    "dict_ro": "Chanokh, Enoh — nume din rădăcina chanakh, „a dedica, a inaugura” (aceeași rădăcină ca Hanuka și chinuch, „educație”); ironia numelui e remarcată de comentatori: Cain, condamnat la pribegie perpetuă, alege să „dedice” un oraș — prima încercare umană de permanență vine tocmai din partea celui blestemat să nu se poată așeza nicăieri.",
+    "greek_def_ro": "Ἑνώχ (Henōch) — Enoh, nume propriu."
    },
    {
     "t": ". "
@@ -3597,8 +3753,9 @@ window.CHAPTER_DATA = [
     "pos": "pronume",
     "greek": "αὐτὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "el.",
-    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25)."
+    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
+    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25).",
+    "greek_def_ro": "αὐτός (autos) — el, ea, acela."
    },
    {
     "t": " "
@@ -3612,8 +3769,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ᾠκοδόμει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "construia.",
-    "dict_ro": "Rădăcina banah, „a construi” — din aceeași rădăcină ca ben, „fiu” (a construi o casă/familie și a avea fii sunt idei înrudite lingvistic în ebraică); Ramban notează forma verbală continuă a textului (nu „a construit”, ci „era tot construind”), sugerând un proces lung, dificil, nu o clădire ridicată dintr-o dată — poate reflectând blestemul care-i împiedică orice lucrare să prospere ușor."
+    "def_ro": "a zidi, a construi — verbul obișnuit pentru „a ridica o casă”, ales aici, neobișnuit, pentru crearea femeii.",
+    "dict_ro": "Rădăcina banah, „a construi” — din aceeași rădăcină ca ben, „fiu” (a construi o casă/familie și a avea fii sunt idei înrudite lingvistic în ebraică); Ramban notează forma verbală continuă a textului (nu „a construit”, ci „era tot construind”), sugerând un proces lung, dificil, nu o clădire ridicată dintr-o dată — poate reflectând blestemul care-i împiedică orice lucrare să prospere ușor.",
+    "greek_def_ro": "οἰκοδομέω (oikodomeō) — a zidi, a construi."
    },
    {
     "t": " un "
@@ -3627,8 +3785,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πόλιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "oraș.",
-    "dict_ro": "Ir, „cetate, oraș” — prima cetate din istoria biblică, fondată nu de un patriarh binecuvântat, ci de primul ucigaș; contrastul teologic (civilizația urbană își are originea în umbra fratricidului) revine mai târziu la Babel (Geneza 11)."
+    "def_ro": "cetate, oraș; loc întărit și păzit.",
+    "dict_ro": "Ir, „cetate, oraș” — prima cetate din istoria biblică, fondată nu de un patriarh binecuvântat, ci de primul ucigaș; contrastul teologic (civilizația urbană își are originea în umbra fratricidului) revine mai târziu la Babel (Geneza 11).",
+    "greek_def_ro": "πόλις (polis) — cetate, oraș."
    },
    {
     "t": " și a "
@@ -3642,8 +3801,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκάλεσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a dat.",
-    "dict_ro": "Rădăcina qara, „a chema, a numi, a striga” — verb central pentru actul de numire în tot Geneza, revenind la finalul capitolului (4:26) pentru „a chema” Numele DOMNULUI — de la numirea unui oraș după un fiu, la invocarea publică a lui Dumnezeu, capitolul se închide cu același verb cu care a debutat, la nașterea lui Cain."
+    "def_ro": "a chema, a striga, a numi — propriu-zis, a te adresa cuiva pe nume.",
+    "dict_ro": "Rădăcina qara, „a chema, a numi, a striga” — verb central pentru actul de numire în tot Geneza, revenind la finalul capitolului (4:26) pentru „a chema” Numele DOMNULUI — de la numirea unui oraș după un fiu, la invocarea publică a lui Dumnezeu, capitolul se închide cu același verb cu care a debutat, la nașterea lui Cain.",
+    "greek_def_ro": "καλέω (kaleo) — a chema, a numi."
    },
    {
     "t": " "
@@ -3657,8 +3817,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸ ὄνομα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "nume.",
-    "dict_ro": "Shem, „nume” — în ebraica biblică, numele nu e doar etichetă, ci poartă identitate și destin; capitolul 4 e structurat aproape integral în jurul numirii — al fiilor, al cetății, al invocării Numelui divin la final."
+    "def_ro": "nume; și ce face un om cunoscut: renume, cinste, autoritate.",
+    "dict_ro": "Shem, „nume” — în ebraica biblică, numele nu e doar etichetă, ci poartă identitate și destin; capitolul 4 e structurat aproape integral în jurul numirii — al fiilor, al cetății, al invocării Numelui divin la final.",
+    "greek_def_ro": "ὄνομα (onoma) — nume."
    },
    {
     "t": " orașului după numele fiului său, "
@@ -3672,8 +3833,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ενωχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Enoh.",
-    "dict_ro": "Chanokh, Enoh — nume din rădăcina chanakh, „a dedica, a inaugura” (aceeași rădăcină ca Hanuka și chinuch, „educație”); ironia numelui e remarcată de comentatori: Cain, condamnat la pribegie perpetuă, alege să „dedice” un oraș — prima încercare umană de permanență vine tocmai din partea celui blestemat să nu se poată așeza nicăieri."
+    "def_ro": "Enoh — nume propriu, „închinat, inițiat”; îl poartă fiul lui Cain și, mai târziu, Enoh din linia lui Set.",
+    "dict_ro": "Chanokh, Enoh — nume din rădăcina chanakh, „a dedica, a inaugura” (aceeași rădăcină ca Hanuka și chinuch, „educație”); ironia numelui e remarcată de comentatori: Cain, condamnat la pribegie perpetuă, alege să „dedice” un oraș — prima încercare umană de permanență vine tocmai din partea celui blestemat să nu se poată așeza nicăieri.",
+    "greek_def_ro": "Ἑνώχ (Henōch) — Enoh, nume propriu."
    },
    {
     "t": "."
@@ -3797,8 +3959,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Ενωχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Enoh.",
-    "dict_ro": "Chanokh, Enoh — nume din rădăcina chanakh, „a dedica, a inaugura” (aceeași rădăcină ca Hanuka și chinuch, „educație”); ironia numelui e remarcată de comentatori: Cain, condamnat la pribegie perpetuă, alege să „dedice” un oraș — prima încercare umană de permanență vine tocmai din partea celui blestemat să nu se poată așeza nicăieri."
+    "def_ro": "Enoh — nume propriu, „închinat, inițiat”; îl poartă fiul lui Cain și, mai târziu, Enoh din linia lui Set.",
+    "dict_ro": "Chanokh, Enoh — nume din rădăcina chanakh, „a dedica, a inaugura” (aceeași rădăcină ca Hanuka și chinuch, „educație”); ironia numelui e remarcată de comentatori: Cain, condamnat la pribegie perpetuă, alege să „dedice” un oraș — prima încercare umană de permanență vine tocmai din partea celui blestemat să nu se poată așeza nicăieri.",
+    "greek_def_ro": "Ἑνώχ (Henōch) — Enoh (la dativ)."
    },
    {
     "t": " i s-a "
@@ -3813,7 +3976,8 @@ window.CHAPTER_DATA = [
     "greek": "ἐγεννήθη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "i s-a născut.",
-    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș."
+    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș.",
+    "greek_def_ro": "γεννάω (gennaō) — a naște; „s-a născut”."
    },
    {
     "t": " "
@@ -3827,8 +3991,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Γαιδάδ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Irad.",
-    "dict_ro": "Irad — al doilea din genealogia lui Cain, nume de etimologie nesigură, posibil legat de „cetate” (ir) sau de un termen pentru „fugar”, ecou tematic al pribegiei tatălui-strămoș Cain."
+    "def_ro": "Irad — nume propriu, nepotul lui Cain.",
+    "dict_ro": "Irad — al doilea din genealogia lui Cain, nume de etimologie nesigură, posibil legat de „cetate” (ir) sau de un termen pentru „fugar”, ecou tematic al pribegiei tatălui-strămoș Cain.",
+    "greek_def_ro": "Γαιδάδ (Gaidad) — Gaidad, forma grecească a numelui „Irad”."
    },
    {
     "t": "; și lui "
@@ -3842,8 +4007,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Γαιδὰδ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Irad.",
-    "dict_ro": "Irad — al doilea din genealogia lui Cain, nume de etimologie nesigură, posibil legat de „cetate” (ir) sau de un termen pentru „fugar”, ecou tematic al pribegiei tatălui-strămoș Cain."
+    "def_ro": "Irad — nume propriu, nepotul lui Cain.",
+    "dict_ro": "Irad — al doilea din genealogia lui Cain, nume de etimologie nesigură, posibil legat de „cetate” (ir) sau de un termen pentru „fugar”, ecou tematic al pribegiei tatălui-strămoș Cain.",
+    "greek_def_ro": "Γαιδάδ (Gaidad) — Gaidad, forma grecească a numelui „Irad”."
    },
    {
     "t": " i s-a "
@@ -3858,7 +4024,8 @@ window.CHAPTER_DATA = [
     "greek": "ἐγέννησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "i s-a născut.",
-    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș."
+    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș.",
+    "greek_def_ro": "γεννάω (gennaō) — a naște, a zămisli."
    },
    {
     "t": " "
@@ -3872,8 +4039,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Μαιήλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Mehuiael.",
-    "dict_ro": "Mehuiael — al treilea din genealogia lui Cain; unii comentatori leagă numele de rădăcina machah, „a șterge, a nimici”, împreună cu El, „Dumnezeu” — posibil „Dumnezeu șterge/nimicește”, în ton cu istoria violentă a acestei linii genealogice."
+    "def_ro": "Mehuiael — nume propriu, în linia lui Cain.",
+    "dict_ro": "Mehuiael — al treilea din genealogia lui Cain; unii comentatori leagă numele de rădăcina machah, „a șterge, a nimici”, împreună cu El, „Dumnezeu” — posibil „Dumnezeu șterge/nimicește”, în ton cu istoria violentă a acestei linii genealogice.",
+    "greek_def_ro": "Μαιήλ (Maiēl) — Maiel, forma grecească a numelui „Mehuiael”."
    },
    {
     "t": "; și lui "
@@ -3887,8 +4055,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Μαιήλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Mehuiael.",
-    "dict_ro": "Mehuiael — al treilea din genealogia lui Cain; unii comentatori leagă numele de rădăcina machah, „a șterge, a nimici”, împreună cu El, „Dumnezeu” — posibil „Dumnezeu șterge/nimicește”, în ton cu istoria violentă a acestei linii genealogice."
+    "def_ro": "Mehuiael — nume propriu, în linia lui Cain.",
+    "dict_ro": "Mehuiael — al treilea din genealogia lui Cain; unii comentatori leagă numele de rădăcina machah, „a șterge, a nimici”, împreună cu El, „Dumnezeu” — posibil „Dumnezeu șterge/nimicește”, în ton cu istoria violentă a acestei linii genealogice.",
+    "greek_def_ro": "Μαιήλ (Maiēl) — Maiel, forma grecească a numelui „Mehuiael”."
    },
    {
     "t": " i s-a născut "
@@ -3902,8 +4071,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Μαθουσάλα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Metușael.",
-    "dict_ro": "Metușael — al patrulea din genealogia lui Cain, nume paralel structural cu Metușelah din linia lui Șet (Geneza 5:21), una dintre multele corespondențe aproape simetrice între cele două genealogii — a lui Cain (cap. 4) și a lui Șet (cap. 5) — remarcate de comentatori ca un contrast deliberat între cele două „semințe” ale omenirii."
+    "def_ro": "Metușael — nume propriu, în linia lui Cain.",
+    "dict_ro": "Metușael — al patrulea din genealogia lui Cain, nume paralel structural cu Metușelah din linia lui Șet (Geneza 5:21), una dintre multele corespondențe aproape simetrice între cele două genealogii — a lui Cain (cap. 4) și a lui Șet (cap. 5) — remarcate de comentatori ca un contrast deliberat între cele două „semințe” ale omenirii.",
+    "greek_def_ro": "Μαθουσάλα (Mathousala) — Matusala, forma grecească a numelui „Metușael”."
    },
    {
     "t": "; și lui "
@@ -3917,8 +4087,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Μαθουσάλα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Metușael.",
-    "dict_ro": "Metușael — al patrulea din genealogia lui Cain, nume paralel structural cu Metușelah din linia lui Șet (Geneza 5:21), una dintre multele corespondențe aproape simetrice între cele două genealogii — a lui Cain (cap. 4) și a lui Șet (cap. 5) — remarcate de comentatori ca un contrast deliberat între cele două „semințe” ale omenirii."
+    "def_ro": "Metușael — nume propriu, în linia lui Cain.",
+    "dict_ro": "Metușael — al patrulea din genealogia lui Cain, nume paralel structural cu Metușelah din linia lui Șet (Geneza 5:21), una dintre multele corespondențe aproape simetrice între cele două genealogii — a lui Cain (cap. 4) și a lui Șet (cap. 5) — remarcate de comentatori ca un contrast deliberat între cele două „semințe” ale omenirii.",
+    "greek_def_ro": "Μαθουσάλα (Mathousala) — Matusala, forma grecească a numelui „Metușael”."
    },
    {
     "t": " i s-a născut "
@@ -3932,8 +4103,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Λαμεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Lameh.",
-    "dict_ro": "Lamekh, Lameh — al cincilea din genealogia lui Cain, etimologie nesigură (posibil legată de un termen pentru „tânăr puternic” sau „cel ce coboară/răstoarnă”); e primul poligam din Biblie și autorul primului poem consemnat (4:23-24), un „cântec al sabiei” tulburător de violent."
+    "def_ro": "Lameh — nume propriu; îl poartă doi oameni dinainte de potop: unul din linia lui Cain, altul din linia lui Set (tatăl lui Noe).",
+    "dict_ro": "Lamekh, Lameh — al cincilea din genealogia lui Cain, etimologie nesigură (posibil legată de un termen pentru „tânăr puternic” sau „cel ce coboară/răstoarnă”); e primul poligam din Biblie și autorul primului poem consemnat (4:23-24), un „cântec al sabiei” tulburător de violent.",
+    "greek_def_ro": "Λάμεχ (Lamech) — Lameh, nume propriu."
    }
   ],
   "textCompare": [
@@ -4016,8 +4188,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Λαμεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Lameh.",
-    "dict_ro": "Lamekh, Lameh — al cincilea din genealogia lui Cain, etimologie nesigură (posibil legată de un termen pentru „tânăr puternic” sau „cel ce coboară/răstoarnă”); e primul poligam din Biblie și autorul primului poem consemnat (4:23-24), un „cântec al sabiei” tulburător de violent."
+    "def_ro": "Lameh — nume propriu; îl poartă doi oameni dinainte de potop: unul din linia lui Cain, altul din linia lui Set (tatăl lui Noe).",
+    "dict_ro": "Lamekh, Lameh — al cincilea din genealogia lui Cain, etimologie nesigură (posibil legată de un termen pentru „tânăr puternic” sau „cel ce coboară/răstoarnă”); e primul poligam din Biblie și autorul primului poem consemnat (4:23-24), un „cântec al sabiei” tulburător de violent.",
+    "greek_def_ro": "Λάμεχ (Lamech) — Lameh, nume propriu."
    },
    {
     "t": " și-a "
@@ -4031,8 +4204,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔλαβεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "și-a luat.",
-    "dict_ro": "Rădăcina laqach, „a lua” — verb obișnuit pentru căsătorie în ebraica biblică; Lameh e primul bărbat despre care se spune explicit că „a luat” mai mult de o soție, rupând modelul monogam al lui Adam și Eva."
+    "def_ro": "a lua, a apuca.",
+    "dict_ro": "Rădăcina laqach, „a lua” — verb obișnuit pentru căsătorie în ebraica biblică; Lameh e primul bărbat despre care se spune explicit că „a luat” mai mult de o soție, rupând modelul monogam al lui Adam și Eva.",
+    "greek_def_ro": "λαμβάνω (lambano) — a lua."
    },
    {
     "t": " "
@@ -4046,8 +4220,9 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "δύο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "două.",
-    "dict_ro": "Shtei, „două” — numărul soțiilor lui Lameh, detaliu remarcat de comentatori ca prima abatere explicită de la modelul unei singure soții stabilit la Geneza 2:24."
+    "def_ro": "doi — și, ca numeral ordinal, „îndoit”.",
+    "dict_ro": "Shtei, „două” — numărul soțiilor lui Lameh, detaliu remarcat de comentatori ca prima abatere explicită de la modelul unei singure soții stabilit la Geneza 2:24.",
+    "greek_def_ro": "δύο (dyo) — doi, două."
    },
    {
     "t": " "
@@ -4061,8 +4236,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "γυναῖκας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "soții.",
-    "dict_ro": "Ishah, „femeie, soție” — aceeași rădăcină legată prin joc de cuvinte de ish, „bărbat” (Geneza 2:23). La Geneza 4, Eva e numită mereu „soția lui” în relație cu Adam, nu cu numele propriu, semn al perspectivei genealogice a capitolului."
+    "def_ro": "femeie, soție — înrudit ca sunet (nu neapărat ca etimologie) cu „ish”, bărbat — un joc de cuvinte ebraic reflectat chiar în text, la Geneza 2:23.",
+    "dict_ro": "Ishah, „femeie, soție” — aceeași rădăcină legată prin joc de cuvinte de ish, „bărbat” (Geneza 2:23). La Geneza 4, Eva e numită mereu „soția lui” în relație cu Adam, nu cu numele propriu, semn al perspectivei genealogice a capitolului.",
+    "greek_def_ro": "γυνή (gynē) — femeie, soție (la plural)."
    },
    {
     "t": ": numele "
@@ -4076,8 +4252,9 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "μιᾷ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "uneia.",
-    "dict_ro": "Ha'achat, „una [dintre ele]” — folosit pentru a introduce prima soție numită, Ada, distingând-o de cea de-a doua."
+    "def_ro": "numeral: unu, un singur.",
+    "dict_ro": "Ha'achat, „una [dintre ele]” — folosit pentru a introduce prima soție numită, Ada, distingând-o de cea de-a doua.",
+    "greek_def_ro": "εἷς (heis) — unul, una."
    },
    {
     "t": " era "
@@ -4091,8 +4268,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ἀδά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Ada.",
-    "dict_ro": "Adah, Ada — prima soție a lui Lameh, nume din rădăcina adah, „a împodobi” sau, după alți comentatori, legat de adah, „a trece, a se retrage” — Rashi citează o tradiție midrashică conform căreia ea era soția „pentru procreare”, cinstită și îngrijită."
+    "def_ro": "Ada — nume de femeie, prima soție a lui Lameh.",
+    "dict_ro": "Adah, Ada — prima soție a lui Lameh, nume din rădăcina adah, „a împodobi” sau, după alți comentatori, legat de adah, „a trece, a se retrage” — Rashi citează o tradiție midrashică conform căreia ea era soția „pentru procreare”, cinstită și îngrijită.",
+    "greek_def_ro": "Ἀδά (Ada) — Ada, nume propriu."
    },
    {
     "t": " și numele "
@@ -4107,7 +4285,8 @@ window.CHAPTER_DATA = [
     "greek": "δευτέρᾳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "celei de-a doua.",
-    "dict_ro": "Hashenit, „cea de-a doua” — desemnează pe Țila ca a doua soție, confirmând explicit poligamia lui Lameh."
+    "dict_ro": "Hashenit, „cea de-a doua” — desemnează pe Țila ca a doua soție, confirmând explicit poligamia lui Lameh.",
+    "greek_def_ro": "δεύτερος (deuteros) — al doilea, a doua."
    },
    {
     "t": " era "
@@ -4121,8 +4300,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σελλά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Țila.",
-    "dict_ro": "Tsilah, Țila — a doua soție a lui Lameh, nume din rădăcina tsel, „umbră”; tradiția midrashică citată de Rashi o leagă de ideea „celei care stă mereu în umbra lui” — soția ținută doar pentru plăcere, nu pentru procreare, conform aceleiași tradiții (care nu poate fi confirmată direct din text, doar dedusă din numele copiilor menționați mai jos)."
+    "def_ro": "Țila — nume de femeie, a doua soție a lui Lameh.",
+    "dict_ro": "Tsilah, Țila — a doua soție a lui Lameh, nume din rădăcina tsel, „umbră”; tradiția midrashică citată de Rashi o leagă de ideea „celei care stă mereu în umbra lui” — soția ținută doar pentru plăcere, nu pentru procreare, conform aceleiași tradiții (care nu poate fi confirmată direct din text, doar dedusă din numele copiilor menționați mai jos).",
+    "greek_def_ro": "Σελλά (Sella) — Sela, forma grecească a numelui „Țila”."
    }
   ],
   "textCompare": [
@@ -4199,8 +4379,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ἀδά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Ada.",
-    "dict_ro": "Adah, Ada — prima soție a lui Lameh, nume din rădăcina adah, „a împodobi” sau, după alți comentatori, legat de adah, „a trece, a se retrage” — Rashi citează o tradiție midrashică conform căreia ea era soția „pentru procreare”, cinstită și îngrijită."
+    "def_ro": "Ada — nume de femeie, prima soție a lui Lameh.",
+    "dict_ro": "Adah, Ada — prima soție a lui Lameh, nume din rădăcina adah, „a împodobi” sau, după alți comentatori, legat de adah, „a trece, a se retrage” — Rashi citează o tradiție midrashică conform căreia ea era soția „pentru procreare”, cinstită și îngrijită.",
+    "greek_def_ro": "Ἀδά (Ada) — Ada, nume propriu."
    },
    {
     "t": " l-a "
@@ -4214,8 +4395,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔτεκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-a născut.",
-    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș."
+    "def_ro": "a naște, a da naștere.",
+    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș.",
+    "greek_def_ro": "τίκτω (tiktō) — a naște."
    },
    {
     "t": " pe "
@@ -4229,8 +4411,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ιωβελ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Iaval.",
-    "dict_ro": "Yaval, Iaval — fiul Adei, „strămoșul celor ce trăiesc în cort și cresc vite”, nume înrudit posibil cu yovel („a mâna, a conduce” turme) — primul păstor nomad menționat explicit ca întemeietor al unui mod de viață, nu doar ca individ (spre deosebire de Abel, la 4:2)."
+    "def_ro": "Iaval — nume propriu, fiul lui Lameh și al Adei, strămoșul celor ce locuiesc în corturi.",
+    "dict_ro": "Yaval, Iaval — fiul Adei, „strămoșul celor ce trăiesc în cort și cresc vite”, nume înrudit posibil cu yovel („a mâna, a conduce” turme) — primul păstor nomad menționat explicit ca întemeietor al unui mod de viață, nu doar ca individ (spre deosebire de Abel, la 4:2).",
+    "greek_def_ro": "Ἰωβήλ (Iōbēl) — Iobel, forma grecească a numelui „Iaval”."
    },
    {
     "t": "; "
@@ -4244,8 +4427,9 @@ window.CHAPTER_DATA = [
     "pos": "pronume",
     "greek": "οὗτος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "el.",
-    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25)."
+    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
+    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25).",
+    "greek_def_ro": "αὐτός (autos) — el, ea, acela."
    },
    {
     "t": " a fost "
@@ -4259,8 +4443,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πατὴρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "strămoșul.",
-    "dict_ro": "Av, „tată, strămoș” — aici cu sensul de „întemeietor, primul din categoria sa”, nu tată biologic literal al unei întregi profesii, ci figura simbolică a începutului unei tradiții (a păstoritului nomad, a muzicii, a metalurgiei) — un tipar structural repetat de trei ori în acest pasaj (4:20, 21, 22)."
+    "def_ro": "particulă gramaticală, aici cu sensul de „către, spre” — apare fără o formă ebraică de sine stătătoare afișată, fiind legată de cuvântul următor.",
+    "dict_ro": "Av, „tată, strămoș” — aici cu sensul de „întemeietor, primul din categoria sa”, nu tată biologic literal al unei întregi profesii, ci figura simbolică a începutului unei tradiții (a păstoritului nomad, a muzicii, a metalurgiei) — un tipar structural repetat de trei ori în acest pasaj (4:20, 21, 22).",
+    "greek_def_ro": "πατήρ (patēr) — tată, strămoș."
    },
    {
     "t": " celor ce "
@@ -4274,8 +4459,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "οἰκούντων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "trăiesc.",
-    "dict_ro": "Rădăcina yashav, „a locui, a se așeza” — aici în ciudată tensiune cu blestemul „rătăcitor și pribeag” din 4:12: Cain se „așează” totuși într-un loc, ținutul Nod, deși condamnarea lui rămâne una de neliniște perpetuă mai degrabă decât de mișcare fizică neîntreruptă."
+    "def_ro": "a sta jos, a locui, a rămâne; la forma cauzativă, a așeza.",
+    "dict_ro": "Rădăcina yashav, „a locui, a se așeza” — aici în ciudată tensiune cu blestemul „rătăcitor și pribeag” din 4:12: Cain se „așează” totuși într-un loc, ținutul Nod, deși condamnarea lui rămâne una de neliniște perpetuă mai degrabă decât de mișcare fizică neîntreruptă.",
+    "greek_def_ro": "οἰκέω (oikeō) — a locui; „cei care locuiesc”."
    },
    {
     "t": " în "
@@ -4289,8 +4475,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "σκηναῖς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cort.",
-    "dict_ro": "Ohel, „cort” — locuință mobilă, marcă a vieții nomade pastorale, opusă cetății construite de Cain (4:17); contrastul dintre „cetate” și „cort” revine simbolic în toată Tora (patriarhii locuiesc în corturi, spre deosebire de popoarele urbanizate din jur)."
+    "def_ro": "cort; locuința păstorilor nomazi.",
+    "dict_ro": "Ohel, „cort” — locuință mobilă, marcă a vieții nomade pastorale, opusă cetății construite de Cain (4:17); contrastul dintre „cetate” și „cort” revine simbolic în toată Tora (patriarhii locuiesc în corturi, spre deosebire de popoarele urbanizate din jur).",
+    "greek_def_ro": "σκηνή (skēnē) — cort."
    },
    {
     "t": " și "
@@ -4304,8 +4491,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "κτηνοτρόφων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cresc.",
-    "dict_ro": "Miqneh, „turmă, avuție în vite” — din aceeași rădăcină ca qanah, „a dobândi” (rădăcina numelui lui Cain însuși!); vitele erau principala formă de avuție în lumea antică — un ecou lingvistic indirect, dar remarcat de comentatori, între „dobândirea” inițială a lui Cain (kaniti, 4:1) și „avuția” urmașilor săi."
+    "def_ro": "turmă, vite; avere în vite.",
+    "dict_ro": "Miqneh, „turmă, avuție în vite” — din aceeași rădăcină ca qanah, „a dobândi” (rădăcina numelui lui Cain însuși!); vitele erau principala formă de avuție în lumea antică — un ecou lingvistic indirect, dar remarcat de comentatori, între „dobândirea” inițială a lui Cain (kaniti, 4:1) și „avuția” urmașilor săi.",
+    "greek_def_ro": "κτηνοτρόφος (ktēnotrophos) — crescător de vite."
    },
    {
     "t": " "
@@ -4319,8 +4507,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "κτηνοτρόφων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vite.",
-    "dict_ro": "Miqneh, „turmă, avuție în vite” — din aceeași rădăcină ca qanah, „a dobândi” (rădăcina numelui lui Cain însuși!); vitele erau principala formă de avuție în lumea antică — un ecou lingvistic indirect, dar remarcat de comentatori, între „dobândirea” inițială a lui Cain (kaniti, 4:1) și „avuția” urmașilor săi."
+    "def_ro": "turmă, vite; avere în vite.",
+    "dict_ro": "Miqneh, „turmă, avuție în vite” — din aceeași rădăcină ca qanah, „a dobândi” (rădăcina numelui lui Cain însuși!); vitele erau principala formă de avuție în lumea antică — un ecou lingvistic indirect, dar remarcat de comentatori, între „dobândirea” inițială a lui Cain (kaniti, 4:1) și „avuția” urmașilor săi.",
+    "greek_def_ro": "κτηνοτρόφος (ktēnotrophos) — crescător de vite."
    },
    {
     "t": "."
@@ -4406,8 +4595,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὄνομα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "numele.",
-    "dict_ro": "Shem, „nume” — în ebraica biblică, numele nu e doar etichetă, ci poartă identitate și destin; capitolul 4 e structurat aproape integral în jurul numirii — al fiilor, al cetății, al invocării Numelui divin la final."
+    "def_ro": "nume; și ce face un om cunoscut: renume, cinste, autoritate.",
+    "dict_ro": "Shem, „nume” — în ebraica biblică, numele nu e doar etichetă, ci poartă identitate și destin; capitolul 4 e structurat aproape integral în jurul numirii — al fiilor, al cetății, al invocării Numelui divin la final.",
+    "greek_def_ro": "ὄνομα (onoma) — nume."
    },
    {
     "t": " "
@@ -4422,7 +4612,8 @@ window.CHAPTER_DATA = [
     "greek": "τῷ ἀδελφῷ αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "fratelui lui.",
-    "dict_ro": "Ach, „frate” — cuvântul-cheie al întregului capitol, repetat de șapte ori (4:2, 8 de două ori, 9 de două ori, 10, 11), țesând tema centrală a fratricidului: relația frățească distrusă e amintită insistent, verset după verset, până la întrebarea retorică a lui Cain „Sunt eu oare păzitorul fratelui meu?”"
+    "dict_ro": "Ach, „frate” — cuvântul-cheie al întregului capitol, repetat de șapte ori (4:2, 8 de două ori, 9 de două ori, 10, 11), țesând tema centrală a fratricidului: relația frățească distrusă e amintită insistent, verset după verset, până la întrebarea retorică a lui Cain „Sunt eu oare păzitorul fratelui meu?”",
+    "greek_def_ro": "ἀδελφός (adelphos) — frate; „fratelui lui”."
    },
    {
     "t": " său era "
@@ -4436,8 +4627,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ιουβαλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Iuval.",
-    "dict_ro": "Yuval, Iuval — al doilea fiu al Adei, „strămoșul tuturor celor ce mânuiesc lira și fluierul”, nume aproape identic cu yovel, cornul de berbec folosit pentru a vesti anul jubiliar (Levitic 25) — o legătură sonoră remarcată de comentatori între numele întemeietorului muzicii și primul instrument muzical biblic explicit, cornul ceremonial."
+    "def_ro": "Iuval — nume propriu, fratele lui Iaval, strămoșul muzicanților.",
+    "dict_ro": "Yuval, Iuval — al doilea fiu al Adei, „strămoșul tuturor celor ce mânuiesc lira și fluierul”, nume aproape identic cu yovel, cornul de berbec folosit pentru a vesti anul jubiliar (Levitic 25) — o legătură sonoră remarcată de comentatori între numele întemeietorului muzicii și primul instrument muzical biblic explicit, cornul ceremonial.",
+    "greek_def_ro": "Ἰουβάλ (Ioubal) — Iubal, nume propriu."
    },
    {
     "t": "; "
@@ -4451,8 +4643,9 @@ window.CHAPTER_DATA = [
     "pos": "pronume",
     "greek": "οὗτος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "el.",
-    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25)."
+    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
+    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25).",
+    "greek_def_ro": "αὐτός (autos) — el, ea, acela."
    },
    {
     "t": " a fost strămoșul tuturor celor ce "
@@ -4466,8 +4659,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κατέδειξεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mânuiesc.",
-    "dict_ro": "Rădăcina tafas, „a apuca, a mânui” — verb concret pentru folosirea unei unelte sau a unui instrument, aici primul strămoș consemnat al muzicienilor instrumentiști din istoria biblică."
+    "def_ro": "a apuca, a prinde, a mânui; despre meșteșug: a stăpâni, a mânui un instrument.",
+    "dict_ro": "Rădăcina tafas, „a apuca, a mânui” — verb concret pentru folosirea unei unelte sau a unui instrument, aici primul strămoș consemnat al muzicienilor instrumentiști din istoria biblică.",
+    "greek_def_ro": "καταδείκνυμι (katadeiknymi) — a arăta, a face cunoscut (aici: a născoci)."
    },
    {
     "t": " "
@@ -4481,8 +4675,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "κιθάραν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lira.",
-    "dict_ro": "Kinor, „liră, harpă” — instrument cu coarde, cel mai frecvent menționat în toată Biblia (celebru din Psalmul 137, „ne-am atârnat harpele în sălcii”); tradiția atribuie și regelui David virtuozitate la acest instrument."
+    "def_ro": "liră, harpă — instrument cu coarde.",
+    "dict_ro": "Kinor, „liră, harpă” — instrument cu coarde, cel mai frecvent menționat în toată Biblia (celebru din Psalmul 137, „ne-am atârnat harpele în sălcii”); tradiția atribuie și regelui David virtuozitate la acest instrument.",
+    "greek_def_ro": "κιθάρα (kithara) — chitară, liră."
    },
    {
     "t": " și "
@@ -4496,8 +4691,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὄργανα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fluierul.",
-    "dict_ro": "Ugav, „fluier, instrument de suflat” — pereche a lirei în lista instrumentelor muzicale biblice, împreună formând categoria completă coarde/suflat a muzicii vechi israelite."
+    "def_ro": "instrument de suflat (fluier, nai).",
+    "dict_ro": "Ugav, „fluier, instrument de suflat” — pereche a lirei în lista instrumentelor muzicale biblice, împreună formând categoria completă coarde/suflat a muzicii vechi israelite.",
+    "greek_def_ro": "ὄργανον (organon) — unealtă, instrument muzical."
    }
   ],
   "textCompare": [
@@ -4568,8 +4764,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σελλά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Țila.",
-    "dict_ro": "Tsilah, Țila — a doua soție a lui Lameh, nume din rădăcina tsel, „umbră”; tradiția midrashică citată de Rashi o leagă de ideea „celei care stă mereu în umbra lui” — soția ținută doar pentru plăcere, nu pentru procreare, conform aceleiași tradiții (care nu poate fi confirmată direct din text, doar dedusă din numele copiilor menționați mai jos)."
+    "def_ro": "Țila — nume de femeie, a doua soție a lui Lameh.",
+    "dict_ro": "Tsilah, Țila — a doua soție a lui Lameh, nume din rădăcina tsel, „umbră”; tradiția midrashică citată de Rashi o leagă de ideea „celei care stă mereu în umbra lui” — soția ținută doar pentru plăcere, nu pentru procreare, conform aceleiași tradiții (care nu poate fi confirmată direct din text, doar dedusă din numele copiilor menționați mai jos).",
+    "greek_def_ro": "Σελλά (Sella) — Sela, forma grecească a numelui „Țila”."
    },
    {
     "t": " l-a "
@@ -4583,8 +4780,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔτεκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-a născut.",
-    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș."
+    "def_ro": "a naște, a da naștere.",
+    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș.",
+    "greek_def_ro": "τίκτω (tiktō) — a naște."
    },
    {
     "t": " și "
@@ -4598,8 +4796,9 @@ window.CHAPTER_DATA = [
     "pos": "pronume",
     "greek": "καὶ αὐτή",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "și ea.",
-    "dict_ro": "Particula gam, „și, de asemenea”, combinată cu hu, „el” — „și el a adus”, subliniind explicit paralelismul dintre cei doi frați: amândoi au adus un dar, dar numai calitatea și starea sufletească din spatele darului au făcut diferența."
+    "def_ro": "de asemenea, și, chiar; adesea repetat: „și … și …”.",
+    "dict_ro": "Particula gam, „și, de asemenea”, combinată cu hu, „el” — „și el a adus”, subliniind explicit paralelismul dintre cei doi frați: amândoi au adus un dar, dar numai calitatea și starea sufletească din spatele darului au făcut diferența.",
+    "greek_def_ro": "καί (kai) + αὐτός (autos) — și ea."
    },
    {
     "t": " pe "
@@ -4613,8 +4812,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Θοβέλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Tuval Cain.",
-    "dict_ro": "Tuval Kayin — fiul Țilei, „care ascuțea toate uneltele de făurit aramă și fier”; Rashi leagă numele de rădăcina tavel, „a condimenta/perfecționa” un meșteșug, citind numele ca „el a perfecționat meșteșugul lui Cain” — o continuare simbolică, peste generații, a liniei strămoșului ucigaș, acum specializată în producerea armelor."
+    "def_ro": "Tuval-Cain — nume propriu, fiul lui Lameh și al Țilei, făurar.",
+    "dict_ro": "Tuval Kayin — fiul Țilei, „care ascuțea toate uneltele de făurit aramă și fier”; Rashi leagă numele de rădăcina tavel, „a condimenta/perfecționa” un meșteșug, citind numele ca „el a perfecționat meșteșugul lui Cain” — o continuare simbolică, peste generații, a liniei strămoșului ucigaș, acum specializată în producerea armelor.",
+    "greek_def_ro": "Θόβελ (Thobel) — Tobel, forma grecească a numelui „Tuval-Cain”."
    },
    {
     "t": ", care "
@@ -4628,8 +4828,10 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "σφυροκόπος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ascuțea.",
-    "dict_ro": "Rădăcina latash, „a ascuți, a șlefui” — verb tehnic pentru prelucrarea metalului, aici primul meșteșugar metalurgic explicit menționat în Biblie, strămoșul simbolic al fierarilor."
+    "def_ro": "a ascuți, a lovi cu ciocanul ca să dea formă.",
+    "dict_ro": "Rădăcina latash, „a ascuți, a șlefui” — verb tehnic pentru prelucrarea metalului, aici primul meșteșugar metalurgic explicit menționat în Biblie, strămoșul simbolic al fierarilor.",
+    "greek_def_ro": "σφυροκόπος (sphyrokopos) — făurar care lucrează cu ciocanul.",
+    "diff_ro": "Ebraica: „cel ce ascuțește” (lōṭēš); greaca: „ciocănitor” (sphyrokopos), același meșteșug văzut din partea ciocănitului."
    },
    {
     "t": " toate "
@@ -4643,8 +4845,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "χαλκεὺς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "uneltele.",
-    "dict_ro": "Choresh, „lucrător, meșteșugar [în metal]” — de la rădăcina charash, „a prelucra, a grava”; termenul acoperă orice meșteșugar priceput, aici specific pentru prelucrarea metalelor."
+    "def_ro": "meșteșugar, făurar, meșter într-un material.",
+    "dict_ro": "Choresh, „lucrător, meșteșugar [în metal]” — de la rădăcina charash, „a prelucra, a grava”; termenul acoperă orice meșteșugar priceput, aici specific pentru prelucrarea metalelor.",
+    "greek_def_ro": "χαλκεύς (chalkeus) — făurar, fierar în aramă."
    },
    {
     "t": " de făurit "
@@ -4658,8 +4861,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "χαλκοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "aramă.",
-    "dict_ro": "Nechoshet, „aramă, bronz” — metal folosit din cele mai vechi timpuri pentru unelte și arme; mențiunea sa alături de fier aici, într-o genealogie de dinaintea Potopului, ridică întrebări cronologice pe care comentatorii clasici nu le abordează direct, tratând textul ca pe o relatare simbolică a începuturilor meșteșugului, nu ca pe un manual arheologic."
+    "def_ro": "aramă, bronz; și lucruri făcute din aramă.",
+    "dict_ro": "Nechoshet, „aramă, bronz” — metal folosit din cele mai vechi timpuri pentru unelte și arme; mențiunea sa alături de fier aici, într-o genealogie de dinaintea Potopului, ridică întrebări cronologice pe care comentatorii clasici nu le abordează direct, tratând textul ca pe o relatare simbolică a începuturilor meșteșugului, nu ca pe un manual arheologic.",
+    "greek_def_ro": "χαλκός (chalkos) — aramă, bronz."
    },
    {
     "t": " și "
@@ -4673,8 +4877,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "σιδήρου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fier.",
-    "dict_ro": "Barzel, „fier” — metal considerat în arheologie ca fiind stăpânit tehnologic mult mai târziu decât bronzul; prezența sa aici, în genealogia antediluviană a lui Cain, e tratată de comentatorii clasici ca parte firească a narațiunii despre „primele” realizări ale omenirii, fără explicații tehnice suplimentare."
+    "def_ro": "fier; unealtă de fier.",
+    "dict_ro": "Barzel, „fier” — metal considerat în arheologie ca fiind stăpânit tehnologic mult mai târziu decât bronzul; prezența sa aici, în genealogia antediluviană a lui Cain, e tratată de comentatorii clasici ca parte firească a narațiunii despre „primele” realizări ale omenirii, fără explicații tehnice suplimentare.",
+    "greek_def_ro": "σίδηρος (sidēros) — fier."
    },
    {
     "t": ". Și "
@@ -4688,8 +4893,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀδελφὴ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sora.",
-    "dict_ro": "Achot, „soră” — introduce-o pe Naama ca soră a lui Tuval-Cain, ultimul nume menționat în genealogia lui Cain, încheind lista cu o femeie, spre deosebire de restul genealogiei axate pe fii."
+    "def_ro": "soră — în sens propriu și în sens larg, de rudă apropiată.",
+    "dict_ro": "Achot, „soră” — introduce-o pe Naama ca soră a lui Tuval-Cain, ultimul nume menționat în genealogia lui Cain, încheind lista cu o femeie, spre deosebire de restul genealogiei axate pe fii.",
+    "greek_def_ro": "ἀδελφή (adelphē) — soră."
    },
    {
     "t": " lui Tuval Cain era "
@@ -4703,8 +4909,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Νοεμά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Naama.",
-    "dict_ro": "Na'amah, Naama — singura femeie numită explicit în genealogia lui Cain, nume din rădăcina na'em, „plăcut, frumos”. Ramban citează mai multe tradiții midrashice contradictorii despre identitatea ei: soția lui Noe, sau, într-o tradiție mai târzie citată din literatura cabalistică, o figură legată de tradițiile despre îngerii căzuți — niciuna confirmabilă direct din text."
+    "def_ro": "Naama — nume de femeie, fiica lui Lameh și a Țilei; înseamnă „plăcută, dulce”.",
+    "dict_ro": "Na'amah, Naama — singura femeie numită explicit în genealogia lui Cain, nume din rădăcina na'em, „plăcut, frumos”. Ramban citează mai multe tradiții midrashice contradictorii despre identitatea ei: soția lui Noe, sau, într-o tradiție mai târzie citată din literatura cabalistică, o figură legată de tradițiile despre îngerii căzuți — niciuna confirmabilă direct din text.",
+    "greek_def_ro": "Νοεμά (Noema) — Noema, forma grecească a numelui „Naama”."
    }
   ],
   "textCompare": [
@@ -4794,8 +5001,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Λαμεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Lameh.",
-    "dict_ro": "Lamekh, Lameh — al cincilea din genealogia lui Cain, etimologie nesigură (posibil legată de un termen pentru „tânăr puternic” sau „cel ce coboară/răstoarnă”); e primul poligam din Biblie și autorul primului poem consemnat (4:23-24), un „cântec al sabiei” tulburător de violent."
+    "def_ro": "Lameh — nume propriu; îl poartă doi oameni dinainte de potop: unul din linia lui Cain, altul din linia lui Set (tatăl lui Noe).",
+    "dict_ro": "Lamekh, Lameh — al cincilea din genealogia lui Cain, etimologie nesigură (posibil legată de un termen pentru „tânăr puternic” sau „cel ce coboară/răstoarnă”); e primul poligam din Biblie și autorul primului poem consemnat (4:23-24), un „cântec al sabiei” tulburător de violent.",
+    "greek_def_ro": "Λάμεχ (Lamech) — Lameh, nume propriu."
    },
    {
     "t": " le-a "
@@ -4809,8 +5017,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "le-a spus.",
-    "dict_ro": "Rădăcina amar, „a zice, a spune” — verbul de bază pentru vorbire directă în ebraica biblică, introducând aici primele cuvinte rostite vreodată de o ființă umană în textul biblic (Eva, la nașterea lui Cain)."
+    "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+    "dict_ro": "Rădăcina amar, „a zice, a spune” — verbul de bază pentru vorbire directă în ebraica biblică; în Geneza 4 introduce, pe rând, cuvintele Evei, ale lui Dumnezeu, ale lui Cain și ale lui Lameh.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": " soțiilor lui: „"
@@ -4824,8 +5033,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ἀδά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Ada.",
-    "dict_ro": "Adah, Ada — prima soție a lui Lameh, nume din rădăcina adah, „a împodobi” sau, după alți comentatori, legat de adah, „a trece, a se retrage” — Rashi citează o tradiție midrashică conform căreia ea era soția „pentru procreare”, cinstită și îngrijită."
+    "def_ro": "Ada — nume de femeie, prima soție a lui Lameh.",
+    "dict_ro": "Adah, Ada — prima soție a lui Lameh, nume din rădăcina adah, „a împodobi” sau, după alți comentatori, legat de adah, „a trece, a se retrage” — Rashi citează o tradiție midrashică conform căreia ea era soția „pentru procreare”, cinstită și îngrijită.",
+    "greek_def_ro": "Ἀδά (Ada) — Ada, nume propriu."
    },
    {
     "t": " și "
@@ -4839,8 +5049,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σελλά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Țila.",
-    "dict_ro": "Tsilah, Țila — a doua soție a lui Lameh, nume din rădăcina tsel, „umbră”; tradiția midrashică citată de Rashi o leagă de ideea „celei care stă mereu în umbra lui” — soția ținută doar pentru plăcere, nu pentru procreare, conform aceleiași tradiții (care nu poate fi confirmată direct din text, doar dedusă din numele copiilor menționați mai jos)."
+    "def_ro": "Țila — nume de femeie, a doua soție a lui Lameh.",
+    "dict_ro": "Tsilah, Țila — a doua soție a lui Lameh, nume din rădăcina tsel, „umbră”; tradiția midrashică citată de Rashi o leagă de ideea „celei care stă mereu în umbra lui” — soția ținută doar pentru plăcere, nu pentru procreare, conform aceleiași tradiții (care nu poate fi confirmată direct din text, doar dedusă din numele copiilor menționați mai jos).",
+    "greek_def_ro": "Σελλά (Sella) — Sela, forma grecească a numelui „Țila”."
    },
    {
     "t": ", "
@@ -4854,8 +5065,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀκούσατε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ascultați.",
-    "dict_ro": "Rădăcina shama, „a asculta, a auzi” — la imperativ, deschide primul poem consemnat din Biblie (4:23-24), „cântecul sabiei” al lui Lameh, structurat în paralelism poetic clasic ebraic."
+    "def_ro": "a auzi, a asculta; prin extindere, a se supune prin ascultare.",
+    "dict_ro": "Rădăcina shama, „a asculta, a auzi” — la imperativ, deschide primul poem consemnat din Biblie (4:23-24), „cântecul sabiei” al lui Lameh, structurat în paralelism poetic clasic ebraic.",
+    "greek_def_ro": "ἀκούω (akouō) — a auzi, a asculta."
    },
    {
     "t": " "
@@ -4869,8 +5081,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῆς φωνῆς μου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "glasul meu.",
-    "dict_ro": "Qol, „glas, sunet” — cuvântul „glasul sângelui” personifică sângele vărsat ca pe o voce care strigă, imagine reluată la Evrei 12:24 („sângele stropirii, care vorbește mai bine decât cel al lui Abel”) și în Apocalipsa 6:10 (sufletele martirilor care strigă de sub altar)."
+    "def_ro": "glas, voce, sunet, zgomot.",
+    "dict_ro": "Qol, „glas, sunet” — cuvântul „glasul sângelui” personifică sângele vărsat ca pe o voce care strigă, imagine reluată la Evrei 12:24 („sângele stropirii, care vorbește mai bine decât cel al lui Abel”) și în Apocalipsa 6:10 (sufletele martirilor care strigă de sub altar).",
+    "greek_def_ro": "φωνή (phōnē) — glas; „glasul meu”."
    },
    {
     "t": "! Soții ale lui Lameh, "
@@ -4884,8 +5097,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐνωτίσασθέ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "plecați.",
-    "dict_ro": "Rădăcina azan, „a pleca urechea, a asculta atent” — paralelă poetică cu shama din primul verset al cântecului, formă tipică a paralelismului sinonimic din poezia ebraică veche."
+    "def_ro": "a asculta, a pleca urechea (din ozen, „ureche”).",
+    "dict_ro": "Rădăcina azan, „a pleca urechea, a asculta atent” — paralelă poetică cu shama din primul verset al cântecului, formă tipică a paralelismului sinonimic din poezia ebraică veche.",
+    "greek_def_ro": "ἐνωτίζομαι (enōtizomai) — a pleca urechea, a lua aminte."
    },
    {
     "t": " urechea la "
@@ -4899,8 +5113,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τοὺς λόγους μου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vorba mea.",
-    "dict_ro": "Imrah, „vorbă, cuvânt, spusă” — termen poetic pentru discurs, folosit adesea în psalmi și poezie profetică; aici introduce conținutul „cântecului sabiei” al lui Lameh."
+    "def_ro": "cuvânt, vorbă, rostire.",
+    "dict_ro": "Imrah, „vorbă, cuvânt, spusă” — termen poetic pentru discurs, folosit adesea în psalmi și poezie profetică; aici introduce conținutul „cântecului sabiei” al lui Lameh.",
+    "greek_def_ro": "λόγος (logos) — cuvânt; „cuvintele mele”."
    },
    {
     "t": " mea, căci am "
@@ -4914,8 +5129,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπέκτεινα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "am ucis.",
-    "dict_ro": "Rădăcina harag, „a ucide” — verbul standard pentru omor în ebraica biblică, distinct de ratsach (omor ilegal/crimă, folosit în Cele Zece Porunci) și de shachat (înjunghiere rituală). Cain devine, cu acest verb, primul ucigaș din istoria omenirii — și, tragic, victima lui e propriul frate."
+    "def_ro": "a ucide, a omorî.",
+    "dict_ro": "Rădăcina harag, „a ucide” — verbul standard pentru omor în ebraica biblică, distinct de ratsach (omor ilegal/crimă, folosit în Cele Zece Porunci) și de shachat (înjunghiere rituală). Cain devine, cu acest verb, primul ucigaș din istoria omenirii — și, tragic, victima lui e propriul frate.",
+    "greek_def_ro": "ἀποκτείνω (apokteinō) — a ucide; „am ucis”."
    },
    {
     "t": " un "
@@ -4929,8 +5145,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἄνδρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "bărbat.",
-    "dict_ro": "Ish, „bărbat, om” — folosit aici de Eva pentru noul-născut, nu adam (omul generic) sau yeled (copil), un cuvânt neobișnuit de matur pentru un prunc, pe care unii comentatori îl citesc ca semn al speranței ei că acest fiu va fi cel prezis să calce în picioare capul șarpelui (Geneza 3:15)."
+    "def_ro": "bărbat, soț, om.",
+    "dict_ro": "Ish, „bărbat, om” — folosit aici de Eva pentru noul-născut, nu adam (omul generic) sau yeled (copil), un cuvânt neobișnuit de matur pentru un prunc, pe care unii comentatori îl citesc ca semn al speranței ei că acest fiu va fi cel prezis să calce în picioare capul șarpelui (Geneza 3:15).",
+    "greek_def_ro": "ἀνήρ (anēr) — bărbat."
    },
    {
     "t": " pentru "
@@ -4944,8 +5161,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τραῦμα ἐμοὶ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "rana mea.",
-    "dict_ro": "Petsa, „rană” — rana pe care Lameh pretinde că a primit-o, motivul (neclar în text) pentru uciderea „unui bărbat”; tradiția midrashică citată de Rashi identifică victima cu însuși Cain, ucis din greșeală de Lameh, orb, ghidat greșit de fiul său Tuval-Cain."
+    "def_ro": "rană, lovitură cu urmă.",
+    "dict_ro": "Petsa, „rană” — rana pe care Lameh pretinde că a primit-o, motivul (neclar în text) pentru uciderea „unui bărbat”; tradiția midrashică citată de Rashi identifică victima cu însuși Cain, ucis din greșeală de Lameh, orb, ghidat greșit de fiul său Tuval-Cain.",
+    "greek_def_ro": "τραῦμα (trauma) — rană; „pentru rana mea”."
    },
    {
     "t": " mea și un "
@@ -4959,8 +5177,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "νεανίσκον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "băiat.",
-    "dict_ro": "Yeled, „copil, băiat” — al doilea ucis menționat de Lameh, „un băiat pentru vânătaia mea”; aceeași tradiție midrashică îl identifică, printr-o poveste tragică, cu Tuval-Cain însuși, ucis din greșeală de tatăl său imediat după ce acesta realizează că l-a ucis pe Cain."
+    "def_ro": "copil, băiat; cel născut.",
+    "dict_ro": "Yeled, „copil, băiat” — al doilea ucis menționat de Lameh, „un băiat pentru vânătaia mea”; aceeași tradiție midrashică îl identifică, printr-o poveste tragică, cu Tuval-Cain însuși, ucis din greșeală de tatăl său imediat după ce acesta realizează că l-a ucis pe Cain.",
+    "greek_def_ro": "νεανίσκος (neaniskos) — tânăr, flăcău."
    },
    {
     "t": " pentru "
@@ -4975,7 +5194,8 @@ window.CHAPTER_DATA = [
     "greek": "μώλωπα ἐμοὶ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "vânătaia mea.",
-    "dict_ro": "Chaburah, „vânătaie, rană” — paralelă poetică cu petsa din primul stih al versetului, întărind prin repetiție imaginea violenței revendicate de Lameh."
+    "dict_ro": "Chaburah, „vânătaie, rană” — paralelă poetică cu petsa din primul stih al versetului, întărind prin repetiție imaginea violenței revendicate de Lameh.",
+    "greek_def_ro": "μώλωψ (mōlōps) — vânătaie, urmă de lovitură; „pentru vânătaia mea”."
    },
    {
     "t": " mea."
@@ -5089,7 +5309,8 @@ window.CHAPTER_DATA = [
     "greek": "ἑπτάκις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "de șapte ori.",
-    "dict_ro": "Shiv'atayim, „de șapte ori, înșeptit” — formă intensivă a numărului șapte, simbol biblic al plinătății/desăvârșirii; garanția divină a răzbunării „înșeptite” pentru Cain va fi parodiată tragic de Lameh la 4:24, care își revendică o răzbunare de „șaptezeci de ori șapte ori”."
+    "dict_ro": "Shiv'atayim, „de șapte ori, înșeptit” — formă intensivă a numărului șapte, simbol biblic al plinătății/desăvârșirii; garanția divină a răzbunării „înșeptite” pentru Cain va fi parodiată tragic de Lameh la 4:24, care își revendică o răzbunare de „șaptezeci de ori șapte ori”.",
+    "greek_def_ro": "ἑπτάκις (heptakis) — de șapte ori."
    },
    {
     "t": " este "
@@ -5104,7 +5325,8 @@ window.CHAPTER_DATA = [
     "greek": "ἐκδεδίκηται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "este răzbunat.",
-    "dict_ro": "Rădăcina naqam, „a răzbuna” — termen juridic pentru dreptatea restaurată prin pedeapsă; folosit aici pasiv, „va fi răzbunat”, garanție divină că orice violență împotriva lui Cain va atrage o pedeapsă și mai mare, nu o soluție la nedreptatea deja comisă."
+    "dict_ro": "Rădăcina naqam, „a răzbuna” — termen juridic pentru dreptatea restaurată prin pedeapsă; folosit aici pasiv, „va fi răzbunat”, garanție divină că orice violență împotriva lui Cain va atrage o pedeapsă și mai mare, nu o soluție la nedreptatea deja comisă.",
+    "greek_def_ro": "ἐκδικέω (ekdikeō) — a răzbuna; „a fost răzbunat”."
    },
    {
     "t": " "
@@ -5118,8 +5340,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "ἐκ Κάιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Cain.",
-    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare."
+    "def_ro": "Cain — nume propriu, primul fiu al lui Adam și al Evei; același cuvânt înseamnă „suliță”, iar în text sună ca verbul qanah, „a dobândi”; mai târziu numește și o seminție (cheniții).",
+    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare.",
+    "greek_def_ro": "ἐκ (ek) + Κάϊν (Kain) — din Cain, pentru Cain."
    },
    {
     "t": ", "
@@ -5133,8 +5356,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "ἐκ δὲ Λάμεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Lameh.",
-    "dict_ro": "Lamekh, Lameh — al cincilea din genealogia lui Cain, etimologie nesigură (posibil legată de un termen pentru „tânăr puternic” sau „cel ce coboară/răstoarnă”); e primul poligam din Biblie și autorul primului poem consemnat (4:23-24), un „cântec al sabiei” tulburător de violent."
+    "def_ro": "Lameh — nume propriu; îl poartă doi oameni dinainte de potop: unul din linia lui Cain, altul din linia lui Set (tatăl lui Noe).",
+    "dict_ro": "Lamekh, Lameh — al cincilea din genealogia lui Cain, etimologie nesigură (posibil legată de un termen pentru „tânăr puternic” sau „cel ce coboară/răstoarnă”); e primul poligam din Biblie și autorul primului poem consemnat (4:23-24), un „cântec al sabiei” tulburător de violent.",
+    "greek_def_ro": "ἐκ (ek) + Λάμεχ (Lamech) — iar pentru Lameh."
    },
    {
     "t": " de "
@@ -5149,7 +5373,8 @@ window.CHAPTER_DATA = [
     "greek": "ἑβδομηκοντάκις ἑπτά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "de șaptezeci și șapte.",
-    "dict_ro": "Shiv'im veshiv'ah, „șaptezeci și șapte” — hiperbolă poetică ce depășește cu mult „de șapte ori” promis lui Cain (4:15); Rashi și Ramban citesc versetul diferit — unii ca pe o laudă sfidătoare și needificatoare a violenței (un „argument absurd” după cum îl numește Rashi, citând Midrash Bereșit Rabbah), alții ca pe o încercare sinceră a lui Lameh de a-și liniști soțiile temătoare, arătând că el, spre deosebire de Cain, n-a ucis cu premeditare."
+    "dict_ro": "Shiv'im veshiv'ah, „șaptezeci și șapte” — hiperbolă poetică ce depășește cu mult „de șapte ori” promis lui Cain (4:15); Rashi și Ramban citesc versetul diferit — unii ca pe o laudă sfidătoare și needificatoare a violenței (un „argument absurd” după cum îl numește Rashi, citând Midrash Bereșit Rabbah), alții ca pe o încercare sinceră a lui Lameh de a-și liniști soțiile temătoare, arătând că el, spre deosebire de Cain, n-a ucis cu premeditare.",
+    "greek_def_ro": "ἑβδομηκοντάκις (hebdomēkontakis) — de șaptezeci de ori + ἑπτά (hepta) — șapte."
    },
    {
     "t": " [de ori]!”"
@@ -5231,8 +5456,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ἀδὰμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Adam.",
-    "dict_ro": "Adam — de această dată nume propriu, fără articolul hotărât folosit constant până acum (ha-adam, „omul”); tranziția lingvistică de la „omul” generic la Adam ca individ istoric se încheie definitiv aici, la 4:25, după ce fusese pregătită treptat încă din Geneza 2-3."
+    "def_ro": "Adam — aici cu prepoziția „lui”.",
+    "dict_ro": "Adam — de această dată nume propriu, fără articolul hotărât folosit constant până acum (ha-adam, „omul”); tranziția lingvistică de la „omul” generic la Adam ca individ istoric se încheie definitiv aici, la 4:25, după ce fusese pregătită treptat încă din Geneza 2-3.",
+    "greek_def_ro": "Ἀδάμ (Adam) — Adam, nume propriu."
    },
    {
     "t": " a "
@@ -5247,7 +5473,8 @@ window.CHAPTER_DATA = [
     "greek": "ἔγνω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "a cunoscut-o.",
-    "dict_ro": "Verbul yada, „a ști, a cunoaște” — folosit aici (ca și la 4:17 și 4:25) ca eufemism biblic obișnuit pentru unirea trupească dintre soț și soție, aceeași rădăcină ca la „pomul cunoașterii binelui și răului” din Geneza 2-3. Ebraica biblică nu separă cunoașterea intelectuală de intimitatea trupească — a „cunoaște” pe cineva înseamnă o legătură profundă, nu doar informație."
+    "dict_ro": "Verbul yada, „a ști, a cunoaște” — folosit aici (ca și la 4:17 și 4:25) ca eufemism biblic obișnuit pentru unirea trupească dintre soț și soție, aceeași rădăcină ca la „pomul cunoașterii binelui și răului” din Geneza 2-3. Ebraica biblică nu separă cunoașterea intelectuală de intimitatea trupească — a „cunoaște” pe cineva înseamnă o legătură profundă, nu doar informație.",
+    "greek_def_ro": "γινώσκω (ginōskō) — a cunoaște; în sens biblic, și a cunoaște în împreunarea conjugală."
    },
    {
     "t": " din nou pe "
@@ -5261,8 +5488,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "γυναῖκα αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "soția lui.",
-    "dict_ro": "Ishah, „femeie, soție” — aceeași rădăcină legată prin joc de cuvinte de ish, „bărbat” (Geneza 2:23). La Geneza 4, Eva e numită mereu „soția lui” în relație cu Adam, nu cu numele propriu, semn al perspectivei genealogice a capitolului."
+    "def_ro": "femeie, soție — înrudit ca sunet (nu neapărat ca etimologie) cu „ish”, bărbat — un joc de cuvinte ebraic reflectat chiar în text, la Geneza 2:23.",
+    "dict_ro": "Ishah, „femeie, soție” — aceeași rădăcină legată prin joc de cuvinte de ish, „bărbat” (Geneza 2:23). La Geneza 4, Eva e numită mereu „soția lui” în relație cu Adam, nu cu numele propriu, semn al perspectivei genealogice a capitolului.",
+    "greek_def_ro": "γυνή (gynē) — femeie, soție; „soția lui”."
    },
    {
     "t": " sa și "
@@ -5276,8 +5504,9 @@ window.CHAPTER_DATA = [
     "pos": "pronume",
     "greek": "αὕτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ea.",
-    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25)."
+    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
+    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25).",
+    "greek_def_ro": "αὐτός (autos) — el, ea, acela."
    },
    {
     "t": " a "
@@ -5291,8 +5520,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔτεκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a născut.",
-    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș."
+    "def_ro": "a naște, a da naștere.",
+    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș.",
+    "greek_def_ro": "τίκτω (tiktō) — a naște."
    },
    {
     "t": " un "
@@ -5306,8 +5536,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "υἱόν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiu.",
-    "dict_ro": "Ben, „fiu” — cuvânt de bază pentru genealogie, aici pentru Șet (4:25) și pentru fiul lui Șet, Enoș (4:26), închizând capitolul cu formula genealogică ce va structura tot Geneza 5."
+    "def_ro": "fiu; și, în sens larg, nepot, urmaș, membru al unui neam sau al unei categorii.",
+    "dict_ro": "Ben, „fiu” — cuvânt de bază pentru genealogie, aici pentru Șet (4:25) și pentru fiul lui Șet, Enoș (4:26), închizând capitolul cu formula genealogică ce va structura tot Geneza 5.",
+    "greek_def_ro": "υἱός (huios) — fiu."
    },
    {
     "t": " și l-a "
@@ -5321,8 +5552,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπωνόμασεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-a numit.",
-    "dict_ro": "Rădăcina qara, „a chema, a numi, a striga” — verb central pentru actul de numire în tot Geneza, revenind la finalul capitolului (4:26) pentru „a chema” Numele DOMNULUI — de la numirea unui oraș după un fiu, la invocarea publică a lui Dumnezeu, capitolul se închide cu același verb cu care a debutat, la nașterea lui Cain."
+    "def_ro": "a chema, a striga, a numi — propriu-zis, a te adresa cuiva pe nume.",
+    "dict_ro": "Rădăcina qara, „a chema, a numi, a striga” — verb central pentru actul de numire în tot Geneza, revenind la finalul capitolului (4:26) pentru „a chema” Numele DOMNULUI — de la numirea unui oraș după un fiu, la invocarea publică a lui Dumnezeu, capitolul se închide cu același verb cu care a debutat, la nașterea lui Cain.",
+    "greek_def_ro": "ἐπονομάζω (eponomazō) — a numi, a pune nume."
    },
    {
     "t": " "
@@ -5336,8 +5568,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σήθ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Șet.",
-    "dict_ro": "Shet, Șet — nume explicat chiar în text, din rădăcina shat, „a pune, a așeza”: „Dumnezeu mi-a pus/dat un alt urmaș în locul lui Abel”. Șet devine, prin acest nume-program, purtătorul liniei binecuvântate care va continua prin Enoș, Enoh, Noe, până la Avraam."
+    "def_ro": "Set — nume propriu, al treilea fiu al lui Adam; înseamnă „pus, rânduit”.",
+    "dict_ro": "Shet, Șet — nume explicat chiar în text, din rădăcina shat, „a pune, a așeza”: „Dumnezeu mi-a pus/dat un alt urmaș în locul lui Abel”. Șet devine, prin acest nume-program, purtătorul liniei binecuvântate care va continua prin Enoș, Enoh, Noe, până la Avraam.",
+    "greek_def_ro": "Σήθ (Sēth) — Set, nume propriu."
    },
    {
     "t": ", căci [a spus]: „"
@@ -5351,8 +5584,10 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Θεός",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeu.",
-    "dict_ro": "Elohim — numele divin generic, „Dumnezeu”, revenind aici după ce tot capitolul 4 folosise aproape exclusiv Tetragrama YHVH; unii comentatori leagă schimbarea de context — Elohim, numele legat de atributul justiției și al ordinii creației, potrivit pentru actul de „a pune” un nou început pentru omenire după catastrofa morală a fratricidului."
+    "def_ro": "Dumnezeu — formă gramaticală de plural, dar folosită (mai ales cu articol) pentru Dumnezeul cel unic și suprem; rar, ca plural adevărat, „dumnezei” sau, prin extindere, „judecători”.",
+    "dict_ro": "Elohim — numele divin generic, „Dumnezeu”, revenind aici după ce tot capitolul 4 folosise aproape exclusiv Tetragrama YHVH; unii comentatori leagă schimbarea de context — Elohim, numele legat de atributul justiției și al ordinii creației, potrivit pentru actul de „a pune” un nou început pentru omenire după catastrofa morală a fratricidului.",
+    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+    "diff_ro": "Forma ebraică e gramatical plurală (sufixul -im), fapt discutat mult de comentatori ca „plural al maiestății”; greaca redă simplu, la singular, fără să păstreze această particularitate."
    },
    {
     "t": " mi-a "
@@ -5367,7 +5602,9 @@ window.CHAPTER_DATA = [
     "greek": "ἐξανέστησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "a pus, a dat.",
-    "dict_ro": "Rădăcina shat, „a pune, a așeza” — aceeași rădăcină ca numele Șet, explicat chiar în text: Dumnezeu „a pus/a dat” un urmaș, etimologie transparentă rar întâlnită atât de direct în Geneza."
+    "dict_ro": "Rădăcina shat, „a pune, a așeza” — aceeași rădăcină ca numele Șet, explicat chiar în text: Dumnezeu „a pus/a dat” un urmaș, etimologie transparentă rar întâlnită atât de direct în Geneza.",
+    "greek_def_ro": "ἐξανίστημι (exanistēmi) — a ridica, a face să se nască.",
+    "diff_ro": "Ebraica: „mi-a pus” (shat), joc de cuvinte cu numele Șet; greaca: „a ridicat” (exanestēsen), alt verb, și jocul de cuvinte cu numele se pierde."
    },
    {
     "t": " un "
@@ -5381,8 +5618,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "ἕτερον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "alt.",
-    "dict_ro": "Acher, „alt, diferit” — subliniază că Șet nu e o simplă reluare sau înlocuire mecanică a lui Abel, ci un „alt” urmaș, o nouă direcție pentru linia binecuvântată, distinctă atât de Cain, cât și de fratele ucis."
+    "def_ro": "altul, un alt; după, următor.",
+    "dict_ro": "Acher, „alt, diferit” — subliniază că Șet nu e o simplă reluare sau înlocuire mecanică a lui Abel, ci un „alt” urmaș, o nouă direcție pentru linia binecuvântată, distinctă atât de Cain, cât și de fratele ucis.",
+    "greek_def_ro": "ἕτερος (heteros) — altul, un alt."
    },
    {
     "t": " urmaș în locul lui "
@@ -5396,8 +5634,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ἅβελ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Abel.",
-    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare."
+    "def_ro": "Abel — nume propriu; același cuvânt înseamnă „suflare, abur, deșertăciune”.",
+    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
+    "greek_def_ro": "Ἅβελ (Abel) — Abel, nume propriu."
    },
    {
     "t": ", căci "
@@ -5411,8 +5650,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Κάϊν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Cain.",
-    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare."
+    "def_ro": "Cain — nume propriu, primul fiu al lui Adam și al Evei; același cuvânt înseamnă „suliță”, iar în text sună ca verbul qanah, „a dobândi”; mai târziu numește și o seminție (cheniții).",
+    "dict_ro": "Kayin, Cain — numele explicat chiar în text prin joc de cuvinte cu verbul următor, kaniti, „am dobândit”, din rădăcina qanah, „a dobândi, a achiziționa”. Rashi citează o tradiție care vede în asta o mândrie a Evei, aproape o egalare cu Dumnezeu Însuși în actul creării unei vieți noi — prima naștere umană devenind astfel și ocazia primei lăudăroșenii legate de procreare.",
+    "greek_def_ro": "Κάϊν (Kain) — Cain, nume propriu."
    },
    {
     "t": " l-a "
@@ -5426,8 +5666,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπέκτεινεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-a ucis.",
-    "dict_ro": "Rădăcina harag, „a ucide” — verbul standard pentru omor în ebraica biblică, distinct de ratsach (omor ilegal/crimă, folosit în Cele Zece Porunci) și de shachat (înjunghiere rituală). Cain devine, cu acest verb, primul ucigaș din istoria omenirii — și, tragic, victima lui e propriul frate."
+    "def_ro": "a ucide, a omorî.",
+    "dict_ro": "Rădăcina harag, „a ucide” — verbul standard pentru omor în ebraica biblică, distinct de ratsach (omor ilegal/crimă, folosit în Cele Zece Porunci) și de shachat (înjunghiere rituală). Cain devine, cu acest verb, primul ucigaș din istoria omenirii — și, tragic, victima lui e propriul frate.",
+    "greek_def_ro": "ἀποκτείνω (apokteinō) — a ucide."
    },
    {
     "t": ".”"
@@ -5546,8 +5787,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Σήθ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Șet.",
-    "dict_ro": "Shet, Șet — nume explicat chiar în text, din rădăcina shat, „a pune, a așeza”: „Dumnezeu mi-a pus/dat un alt urmaș în locul lui Abel”. Șet devine, prin acest nume-program, purtătorul liniei binecuvântate care va continua prin Enoș, Enoh, Noe, până la Avraam."
+    "def_ro": "Set — nume propriu, al treilea fiu al lui Adam; înseamnă „pus, rânduit”.",
+    "dict_ro": "Shet, Șet — nume explicat chiar în text, din rădăcina shat, „a pune, a așeza”: „Dumnezeu mi-a pus/dat un alt urmaș în locul lui Abel”. Șet devine, prin acest nume-program, purtătorul liniei binecuvântate care va continua prin Enoș, Enoh, Noe, până la Avraam.",
+    "greek_def_ro": "Σήθ (Sēth) — Set (la dativ)."
    },
    {
     "t": ", și "
@@ -5561,8 +5803,9 @@ window.CHAPTER_DATA = [
     "pos": "pronume",
     "greek": "καὶ αὐτῷ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui.",
-    "dict_ro": "Particula gam, „și, de asemenea”, combinată cu hu, „el” — „și el a adus”, subliniind explicit paralelismul dintre cei doi frați: amândoi au adus un dar, dar numai calitatea și starea sufletească din spatele darului au făcut diferența."
+    "def_ro": "de asemenea, și, chiar; adesea repetat: „și … și …”.",
+    "dict_ro": "Particula gam, „și, de asemenea”, combinată cu hu, „el” — „și el a adus”, subliniind explicit paralelismul dintre cei doi frați: amândoi au adus un dar, dar numai calitatea și starea sufletească din spatele darului au făcut diferența.",
+    "greek_def_ro": "καί (kai) + αὐτός (autos) — și lui."
    },
    {
     "t": ", i s-a "
@@ -5577,7 +5820,8 @@ window.CHAPTER_DATA = [
     "greek": "ἐγένετο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "i s-a născut.",
-    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș."
+    "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș.",
+    "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi."
    },
    {
     "t": " un "
@@ -5591,8 +5835,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "υἱός",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiu.",
-    "dict_ro": "Ben, „fiu” — cuvânt de bază pentru genealogie, aici pentru Șet (4:25) și pentru fiul lui Șet, Enoș (4:26), închizând capitolul cu formula genealogică ce va structura tot Geneza 5."
+    "def_ro": "fiu; și, în sens larg, nepot, urmaș, membru al unui neam sau al unei categorii.",
+    "dict_ro": "Ben, „fiu” — cuvânt de bază pentru genealogie, aici pentru Șet (4:25) și pentru fiul lui Șet, Enoș (4:26), închizând capitolul cu formula genealogică ce va structura tot Geneza 5.",
+    "greek_def_ro": "υἱός (huios) — fiu."
    },
    {
     "t": " și i-a "
@@ -5606,8 +5851,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπωνόμασεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a pus.",
-    "dict_ro": "Rădăcina qara, „a chema, a numi, a striga” — verb central pentru actul de numire în tot Geneza, revenind la finalul capitolului (4:26) pentru „a chema” Numele DOMNULUI — de la numirea unui oraș după un fiu, la invocarea publică a lui Dumnezeu, capitolul se închide cu același verb cu care a debutat, la nașterea lui Cain."
+    "def_ro": "a chema, a striga, a numi — propriu-zis, a te adresa cuiva pe nume.",
+    "dict_ro": "Rădăcina qara, „a chema, a numi, a striga” — verb central pentru actul de numire în tot Geneza, revenind la finalul capitolului (4:26) pentru „a chema” Numele DOMNULUI — de la numirea unui oraș după un fiu, la invocarea publică a lui Dumnezeu, capitolul se închide cu același verb cu care a debutat, la nașterea lui Cain.",
+    "greek_def_ro": "ἐπονομάζω (eponomazō) — a numi, a pune nume."
    },
    {
     "t": " "
@@ -5621,8 +5867,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸ ὄνομα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "numele.",
-    "dict_ro": "Shem, „nume” — în ebraica biblică, numele nu e doar etichetă, ci poartă identitate și destin; capitolul 4 e structurat aproape integral în jurul numirii — al fiilor, al cetății, al invocării Numelui divin la final."
+    "def_ro": "nume; și ce face un om cunoscut: renume, cinste, autoritate.",
+    "dict_ro": "Shem, „nume” — în ebraica biblică, numele nu e doar etichetă, ci poartă identitate și destin; capitolul 4 e structurat aproape integral în jurul numirii — al fiilor, al cetății, al invocării Numelui divin la final.",
+    "greek_def_ro": "ὄνομα (onoma) — nume."
    },
    {
     "t": " "
@@ -5636,8 +5883,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ἐνώς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Enoș.",
-    "dict_ro": "Enosh, Enoș — al doilea cuvânt ebraic pentru „om” (după adam), din rădăcina anash, „a fi slab, fragil, bolnav” — spre deosebire de adam (legat de pământ/roșu) sau ish (bărbat matur, forță), enosh accentuează fragilitatea și muritudinea omului. Numele deschide simbolic o generație conștientă de propria slăbiciune, care „începe să cheme Numele DOMNULUI” (4:26)."
+    "def_ro": "Enoș — nume propriu, fiul lui Set; același cuvânt înseamnă „om muritor, om”.",
+    "dict_ro": "Enosh, Enoș — al doilea cuvânt ebraic pentru „om” (după adam), din rădăcina anash, „a fi slab, fragil, bolnav” — spre deosebire de adam (legat de pământ/roșu) sau ish (bărbat matur, forță), enosh accentuează fragilitatea și muritudinea omului. Numele deschide simbolic o generație conștientă de propria slăbiciune, care „începe să cheme Numele DOMNULUI” (4:26).",
+    "greek_def_ro": "Ἐνώς (Enōs) — Enos, nume propriu."
    },
    {
     "t": ". Atunci a "
@@ -5651,8 +5899,10 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἤλπισεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a început.",
-    "dict_ro": "Rădăcina chalal — cu dublu sens posibil, remarcat de comentatorii clasici ca o dispută reală: „a începe” (huchal, de la o rădăcină înrudită) sau „a profana” (chalal, „a pângări”). Rashi citește versetul negativ — începutul idolatriei, oamenii numind idolii cu Numele divin; Ibn Ezra și Targumul Onkelos citesc pozitiv — începutul rugăciunii publice, prima invocare colectivă a lui Dumnezeu pe nume. Ambele lecturi rămân în tensiune productivă până azi în tradiția evreiască."
+    "def_ro": "a străpunge, a începe; la forma cauzativă, a deschide, a începe; în alte forme, a spurca.",
+    "dict_ro": "Rădăcina chalal — cu dublu sens posibil, remarcat de comentatorii clasici ca o dispută reală: „a începe” (huchal, de la o rădăcină înrudită) sau „a profana” (chalal, „a pângări”). Rashi citește versetul negativ — începutul idolatriei, oamenii numind idolii cu Numele divin; Ibn Ezra și Targumul Onkelos citesc pozitiv — începutul rugăciunii publice, prima invocare colectivă a lui Dumnezeu pe nume. Ambele lecturi rămân în tensiune productivă până azi în tradiția evreiască.",
+    "greek_def_ro": "ἐλπίζω (elpizō) — a nădăjdui, a spera.",
+    "diff_ro": "Ebraica (huḥal) e înțeleasă de obicei „s-a început”; greaca spune „a nădăjduit” (ēlpisen): oamenii „au nădăjduit” să cheme numele Domnului, nu „s-a început” chemarea."
    },
    {
     "t": " să fie "
@@ -5666,8 +5916,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπικαλεῖσθαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "chemat.",
-    "dict_ro": "Rădăcina qara, „a chema, a numi, a striga” — verb central pentru actul de numire în tot Geneza, revenind la finalul capitolului (4:26) pentru „a chema” Numele DOMNULUI — de la numirea unui oraș după un fiu, la invocarea publică a lui Dumnezeu, capitolul se închide cu același verb cu care a debutat, la nașterea lui Cain."
+    "def_ro": "a chema, a striga, a numi — propriu-zis, a te adresa cuiva pe nume.",
+    "dict_ro": "Rădăcina qara, „a chema, a numi, a striga” — verb central pentru actul de numire în tot Geneza, revenind la finalul capitolului (4:26) pentru „a chema” Numele DOMNULUI — de la numirea unui oraș după un fiu, la invocarea publică a lui Dumnezeu, capitolul se închide cu același verb cu care a debutat, la nașterea lui Cain.",
+    "greek_def_ro": "ἐπικαλέω (epikaleō) — a chema, a invoca."
    },
    {
     "t": " "
@@ -5681,8 +5932,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸ ὄνομα Κυρίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNUL.",
-    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă."
+    "def_ro": "DOMNUL Dumnezeu — combinația Numelui propriu al lui Dumnezeu (Tetragrama YHVH, tradusă tradițional „DOMNUL”, cu majuscule) cu Elohim. Apare prima dată aici, la Geneza 2, marcând trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”, la capitolul 1) la relatarea mai personală a creării omului.",
+    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL”. Spre deosebire de Geneza 2-3, unde apare mereu combinat cu Elohim („YHVH Elohim”), la Geneza 4 apare singur, marcând relația personală, morală, dintre Dumnezeu și om în lumea de după Eden — DOMNUL vorbește direct cu Cain, îi cere socoteală, îl ascultă.",
+    "greek_def_ro": "ὄνομα (onoma) — nume + Κύριος (Kyrios) — Domnul; „numele Domnului”."
    },
    {
     "t": " pe "
@@ -5696,8 +5948,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸ ὄνομα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pe nume.",
-    "dict_ro": "Shem, „nume” — în ebraica biblică, numele nu e doar etichetă, ci poartă identitate și destin; capitolul 4 e structurat aproape integral în jurul numirii — al fiilor, al cetății, al invocării Numelui divin la final."
+    "def_ro": "nume; și ce face un om cunoscut: renume, cinste, autoritate.",
+    "dict_ro": "Shem, „nume” — în ebraica biblică, numele nu e doar etichetă, ci poartă identitate și destin; capitolul 4 e structurat aproape integral în jurul numirii — al fiilor, al cetății, al invocării Numelui divin la final.",
+    "greek_def_ro": "ὄνομα (onoma) — nume."
    },
    {
     "t": "."
