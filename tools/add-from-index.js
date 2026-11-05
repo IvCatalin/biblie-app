@@ -4,7 +4,7 @@ const fs = require('fs');
 const WRITE = process.argv.includes('--write'), LIST = process.argv.includes('--list');
 const chapters = (process.argv.find(a => /^--ch=/.test(a)) || '--ch=1,2,3').slice(5).split(',').map(Number);
 const P = 'C:/Users/ivcatali/biblie-app/public/';
-const html = fs.readFileSync(P + 'biblie-demo.html', 'utf8');
+const html = fs.readFileSync(P + 'library-data.js', 'utf8');
 const i0 = html.indexOf('const LIBRARY = ') + 16;
 const L = JSON.parse(html.slice(i0, html.indexOf('\n', i0)).trim().replace(/;$/, ''));
 const plain = (t) => String(t).replace(/<sup class="footnote-marker">[^<]*<\/sup>\s*<i class="footnote">[\s\S]*?<\/i>/g, '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
