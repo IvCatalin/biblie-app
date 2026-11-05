@@ -5312,14 +5312,7 @@ window.libLoad = function(cb){
   if("requestIdleCallback" in window) requestIdleCallback(go, { timeout: 2500 }); else setTimeout(go, 1500);
 })();
 
-// Service worker: pornire din memoria telefonului. Când apare o versiune nouă (după o actualizare), pagina se reîncarcă o singură dată, doar în primele secunde după deschidere.
+// Service worker: pornire din memoria telefonului. O versiune nouă se aplică la următoarea deschidere (fără reîncărcare automată: pe telefon producea un fulger alb).
 if("serviceWorker" in navigator){
   window.addEventListener("load", () => { navigator.serviceWorker.register("sw.js").catch(() => {}); });
-  let swReloadTimer = null;
-  navigator.serviceWorker.addEventListener("message", (e) => {
-    if(!e.data || e.data.type !== "davar-update") return;
-    if(performance.now() > 20000 || sessionStorage.getItem("davar-sw-reloaded")) return; // mai târziu: se aplică la următoarea deschidere
-    clearTimeout(swReloadTimer);
-    swReloadTimer = setTimeout(() => { try { sessionStorage.setItem("davar-sw-reloaded", "1"); } catch(err){} location.reload(); }, 2500);
-  });
 }
