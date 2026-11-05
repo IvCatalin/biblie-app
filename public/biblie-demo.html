@@ -4348,10 +4348,12 @@ function openVerseSheet(verse, verseEl, ctx){
 // pentru accesul de bază pe verset; sertarul (drawer) rămâne folosit doar
 // de trimiterile/referințele care sar direct la alt verset.
 let vsActiveTab = "comentarii";
+// la „Citește pasajul →” se ține minte unde era cititorul (verset, tab, rândul deschis), ca „înapoi” din carte să readucă lista de comentarii/texte
+let vsPendingRestore = null;
 function renderVerseSheetTabs(verse){
   const tabsEl = document.getElementById("vs-tabs");
   const contentEl = document.getElementById("vs-tab-content");
-  vsActiveTab = "comentarii";
+  vsActiveTab = (vsPendingRestore && vsPendingRestore.tab) || "comentarii";
 
   // "Context literar-istoric" și "Istorici" (Josephus etc.) sunt azi comentarii
   // ca oricare altele, dar aparțin conceptual tab-ului Texte, nu Comentarii.
@@ -4403,6 +4405,8 @@ function renderVerseSheetTabs(verse){
       btn.textContent = "Citește pasajul →";
       btn.addEventListener("click", (e) => {
         e.stopPropagation();
+        window.libReturnCtx = { slug: currentBookSlug, chapter: currentChapter, verseNum: verse.num, tab: vsActiveTab, row: Array.prototype.indexOf.call(contentEl.querySelectorAll(".vs-comment-row"), row) };
+        window.libReturnArmed = true;
         closeVerseSheet();
         if(typeof window.openLibraryPassage === "function") window.openLibraryPassage(src.slug, src.spec);
       });
@@ -4484,6 +4488,11 @@ function renderVerseSheetTabs(verse){
     };
   });
   renderTabContent();
+  if(vsPendingRestore){
+    const r = contentEl.querySelectorAll(".vs-comment-row")[vsPendingRestore.row];
+    vsPendingRestore = null;
+    if(r){ r.click(); setTimeout(() => { try { r.scrollIntoView({ block: "center" }); } catch(e){} }, 60); }
+  }
 }
 function closeVerseSheet(){
   verseSheet.classList.remove("show");
@@ -4491,6 +4500,22 @@ function closeVerseSheet(){
   verseSheetPanel.classList.remove("show");
   unlockBodyScroll();
 }
+// Din cititorul bibliotecii, după „Citește pasajul →”: „înapoi” readuce foaia de verset (același tab, același rând deschis). Întoarce true dacă a readus-o.
+window.libReturnToVerseSheet = function(){
+  const c = window.libReturnCtx; window.libReturnCtx = null; window.libReturnArmed = false;
+  if(!c) return false;
+  const open = () => {
+    const v = Array.isArray(VERSES) ? VERSES.find(x => x.num === c.verseNum) : null;
+    if(!v) return;
+    vsPendingRestore = { tab: c.tab, row: c.row };
+    openVerseSheet(v, document.querySelector('.verse[data-num="' + c.verseNum + '"]'));
+  };
+  if(currentBookSlug === c.slug && currentChapter === c.chapter && Array.isArray(VERSES) && VERSES.length){ open(); return true; }
+  currentBookSlug = c.slug;
+  loadChapterThenOpenVerse(c.chapter, c.verseNum);
+  setTimeout(open, 600);
+  return true;
+};
 verseSheetBackdrop.addEventListener("click", closeVerseSheet);
 const verseSheetCloseBtn = document.getElementById("verse-sheet-close");
 if(verseSheetCloseBtn) verseSheetCloseBtn.addEventListener("click", closeVerseSheet);
@@ -6904,8 +6929,8 @@ const SUBFOLDER_CARD_IMAGES = {
     readerModal.classList.remove("show");
     closeReaderChapterDropdown();
   }
-  readerClose.addEventListener("click", closeReader);
-  window.closeLibReaderForNav = function(){ closeReader(); if(typeof closeFolderPanel === "function") closeFolderPanel(); };
+  readerClose.addEventListener("click", () => { closeReader(); if(typeof window.libReturnToVerseSheet === "function") window.libReturnToVerseSheet(); });
+  window.closeLibReaderForNav = function(){ window.libReturnCtx = null; closeReader(); if(typeof closeFolderPanel === "function") closeFolderPanel(); };
   window.openHaftarahAt = function(book, idx){
     currentFolderKey = null;
     lastBookListState = null;
@@ -6916,9 +6941,10 @@ const SUBFOLDER_CARD_IMAGES = {
     libApplyTextPrefs();
     renderChapter();
   };
-  readerBackdrop.addEventListener("click", closeReader);
+  readerBackdrop.addEventListener("click", () => { closeReader(); if(typeof window.libReturnToVerseSheet === "function") window.libReturnToVerseSheet(); });
   readerBack.addEventListener("click", () => {
     closeReader();
+    if(typeof window.libReturnToVerseSheet === "function" && window.libReturnToVerseSheet()) return; // venit din „Citește pasajul” → înapoi la comentarii/texte
     if(haftarahBackTarget){
       const target = haftarahBackTarget;
       haftarahBackTarget = null;
@@ -7052,6 +7078,7 @@ const SUBFOLDER_CARD_IMAGES = {
     return false;
   };
   window.openLibraryAt = function(slug, chapterIdx, verse, ms){
+    if(window.libReturnArmed) window.libReturnArmed = false; else window.libReturnCtx = null; // doar „Citește pasajul” din foaia de verset păstrează calea de întoarcere; căutarea etc. rămân ca înainte
     const book = findLibraryBookBySlug(slug);
     if(!book) return;
     libPendingFocus = (verse !== undefined && verse !== null && verse !== "") ? { slug, idx: chapterIdx | 0, v: verse, ms: ms || 0 } : null;
