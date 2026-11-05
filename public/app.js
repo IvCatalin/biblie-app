@@ -5295,7 +5295,15 @@ function initApp(){
 
 initApp();
 // Interfața acasă e construită: ecranul de pornire dispare acum. Versetul zilei, istoria zilei și pericopa se completează apoi, fiecare când îi vin datele (din memoria telefonului: în câteva sute de milisecunde).
-window.__mainReady = true;
+// Imaginea de pornire ține până când INTERFAȚA e încărcată vizual: imaginile de fundal (antet, ceață, fundalul versetului zilei) și iconițele din bara de jos sunt gata și desenate. Datele din secțiuni se completează apoi. Plasă de siguranță: 3 s.
+(function(){
+  const urls = ["images/header-bg-main.jpg?v=1", "images/app-bg-fog-mountains.jpg"];
+  try { urls.push(VOTD_BACKGROUNDS[dayOfYear(new Date()) % VOTD_BACKGROUNDS.length]); } catch(e){}
+  const pend = urls.map(u => new Promise(res => { const im = new Image(); im.onload = im.onerror = () => res(); im.src = u; }));
+  document.querySelectorAll(".bottom-tabs img").forEach(im => { if(!im.complete) pend.push(new Promise(res => { im.addEventListener("load", res); im.addEventListener("error", res); })); });
+  Promise.all(pend).then(() => requestAnimationFrame(() => requestAnimationFrame(() => { window.__mainReady = true; })));
+  setTimeout(() => { window.__mainReady = true; }, 3000);
+})();
 
 // Datele bibliotecii (library-data.js, ~11 MB) NU se cer la pornire: ar concura cu primul ecran. Se încarcă după ce acasă e gata (în pauză),
 // sau imediat ce e nevoie (Diverse, foaia de verset). După încărcare, imaginile cardurilor din Diverse se pregătesc în fundal.
