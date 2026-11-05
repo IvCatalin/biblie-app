@@ -203,7 +203,7 @@ Tot ce trebuie pentru un capitol de Geneză e deja în repo. Dacă ceva pare că
 6. Validare: `node --check`, DOCTYPE, sloguri (386), `valid.js` 0 ținte lipsă, scan de fraze interzise cu deschiderea fiecărei potriviri, captură Playwright la un verset cu rânduri noi.
 7. Commit (fără `de-procesat/`, `acbooks.json.tmp`, `public/images/_preview48.png`, `package-lock.json`), push, raport cu cifre.
 
-**Stare (5 nov. 2026):** Geneza 1–3 = Tanakh 12/12, Diverse din index + hărți narative, TSK completat, `dict_ro` și comparații 100%. Geneza 4: lexicon + comparații există; lipsesc trimiteri (1,2/verset) și comentariile Diverse/creștine; Geneza 5–23 nu au `dict_ro`.
+**Stare (5 nov. 2026):** Geneza 1–4 = Tanakh 12/12, Diverse din index + hărți narative, TSK completat, `dict_ro` și comparații 100%; Geneza 4 are și Părinți/moderni traduși din `tora-openchristiandata` (`tools/g4-ocd-data.js`, aplicat cu `tools/apply-ocd.js`; candidați cu `tools/ocd-candidates.js`/`tools/ocd-dump.js`). Talmudul rămâne „În lucru” (Grok). Geneza 5–23 nu au `dict_ro`.
 
 ---
 
