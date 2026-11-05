@@ -3300,9 +3300,6 @@
 <script defer src="https://cloud.umami.is/script.js" data-website-id="24de0c9d-c5ea-4ff6-b741-2dc3e0c35fd6"></script>
 </head>
 <body>
-<!-- ecran de pornire: acoperă pagina cât timp scripturile nu au terminat, ca să nu se vadă o aplicație goală și înghețată; dispare singur la încărcare -->
-<div id="boot-cover" style="position:fixed;inset:0;z-index:99999;background:#182b4d;display:flex;align-items:center;justify-content:center;transition:opacity .3s ease;"><img src="images/splash-logo.jpg" alt="DAVAR" style="width:min(62vw,300px);height:auto;border-radius:24px;"></div>
-<script>(function(){var c=document.getElementById("boot-cover");function hide(){if(!c)return;c.style.opacity="0";c.style.pointerEvents="none";setTimeout(function(){if(c.parentNode)c.parentNode.removeChild(c);c=null;},350);}var t=setInterval(function(){if(window.__mainReady&&typeof LIBRARY!=="undefined"){clearInterval(t);hide();}},80);setTimeout(function(){clearInterval(t);hide();},8000);})();</script>
 <div id="splash-screen-DISABLED" style="display:none;">
   <div class="splash-logo-wrap">
     <img src="images/splash-logo.jpg" alt="DAVAR" class="splash-logo-img">
@@ -4176,7 +4173,43 @@
 <script src="citate.js?v=2"></script>
 <script src="sarbatori-detalii.js?v=1"></script>
 <script src="tanakh/index.js?v=1"></script>
-<script src="library-data.js?v=1" defer></script>
+<!-- imaginile cardurilor din Diverse se cer ÎNAINTEA datelor bibliotecii, ca să nu aștepte după ele -->
+<link rel="preload" as="image" href="images/category-arhivarabinica.jpg">
+<link rel="preload" as="image" href="images/category-canonic.jpg">
+<link rel="preload" as="image" href="images/category-deuterocanonic.jpg">
+<link rel="preload" as="image" href="images/category-pseudepigraf.jpg">
+<link rel="preload" as="image" href="images/category-apocrifent.jpg">
+<link rel="preload" as="image" href="images/category-patristice.jpg">
+<link rel="preload" as="image" href="images/subfolder-arhivarabinica-1.jpg">
+<link rel="preload" as="image" href="images/subfolder-arhivarabinica-2.jpg">
+<link rel="preload" as="image" href="images/subfolder-arhivarabinica-3.jpg">
+<link rel="preload" as="image" href="images/subfolder-arhivarabinica-4.jpg">
+<link rel="preload" as="image" href="images/subfolder-arhivarabinica-5.jpg">
+<link rel="preload" as="image" href="images/subfolder-arhivarabinica-6.jpg">
+<link rel="preload" as="image" href="images/subfolder-deuterocanonic-1.jpg">
+<link rel="preload" as="image" href="images/subfolder-deuterocanonic-2.jpg">
+<link rel="preload" as="image" href="images/subfolder-deuterocanonic-3.jpg">
+<link rel="preload" as="image" href="images/subfolder-deuterocanonic-4.jpg">
+<link rel="preload" as="image" href="images/subfolder-deuterocanonic-5.jpg">
+<link rel="preload" as="image" href="images/subfolder-deuterocanonic-6.jpg">
+<link rel="preload" as="image" href="images/subfolder-pseudepigraf-1.jpg">
+<link rel="preload" as="image" href="images/subfolder-pseudepigraf-2.jpg">
+<link rel="preload" as="image" href="images/subfolder-pseudepigraf-3.jpg">
+<link rel="preload" as="image" href="images/subfolder-pseudepigraf-4.jpg">
+<link rel="preload" as="image" href="images/subfolder-pseudepigraf-5.jpg">
+<link rel="preload" as="image" href="images/subfolder-pseudepigraf-6.jpg">
+<link rel="preload" as="image" href="images/subfolder-pseudepigraf-7.jpg">
+<link rel="preload" as="image" href="images/subfolder-apocrifent-1.jpg">
+<link rel="preload" as="image" href="images/subfolder-apocrifent-2.jpg">
+<link rel="preload" as="image" href="images/subfolder-apocrifent-3.jpg">
+<link rel="preload" as="image" href="images/subfolder-apocrifent-5.jpg">
+<link rel="preload" as="image" href="images/subfolder-patristice-1.jpg">
+<link rel="preload" as="image" href="images/subfolder-patristice-2.jpg">
+<link rel="preload" as="image" href="images/subfolder-patristice-3.jpg">
+<link rel="preload" as="image" href="images/subfolder-patristice-4.jpg">
+<link rel="preload" as="image" href="images/subfolder-canonic-1.jpg">
+<link rel="preload" as="image" href="images/subfolder-canonic-2.jpg">
+<script src="library-data.js?v=1" defer fetchpriority="low"></script>
 <script>
 
 // =====================================================================
@@ -6579,6 +6612,12 @@ const SUBFOLDER_CARD_IMAGES = {
   };
 
   // ---- build folder grid (6 image cards, order fixed) ----
+  const LIB_SKELETON = {"arhivaRabinica":{"label":"ARHIVĂ RABINICĂ","note":"","isNested":true,"subfolders":[{"label":"Tora - Textul Masoretic","note":"Traducere Rosen, 2023, licență CC-BY-NC."},{"label":"Pentateuhul Samaritean","note":"Text critic academic (Schorch, ed. 2018)."},{"label":"Talmud Babilonian","note":""},{"label":"Mișna","note":""},{"label":"Kabbala","note":""},{"label":"Tanakh - Tora/Neviim/Ketuvim - comentarii","note":""}]},"deuterocanonic":{"label":"DEUTEROCANONIC","note":"","isNested":true,"subfolders":[{"label":"Narațiuni istorice","note":""},{"label":"Cărți de înțelepciune","note":""},{"label":"Scrieri profetice","note":""},{"label":"Cărțile Macabeilor","note":""},{"label":"Adaosuri la Estera și Daniel","note":""},{"label":"Alte texte (tradiție ortodoxă)","note":""}]},"pseudepigraf":{"label":"APOCRIFE VT","note":"","panelTitle":"Apocrife VT (Pseudepigraf)","isNested":true,"subfolders":[{"label":"Ciclul lui Enoh și Jubileele","note":""},{"label":"Testamentele celor 12 Patriarhi","note":"Ultimele cuvinte atribuite fiecăruia dintre fiii lui Iacov, cu îndemnuri morale și viziuni despre urmași. Sec. II î.Hr. – II d.Hr."},{"label":"Vieți și înălțări ale patriarhilor","note":""},{"label":"Apocalipse","note":""},{"label":"Psalmi și ode","note":""},{"label":"Narațiuni înțelepte și istorice","note":""},{"label":"Oracole","note":""}]},"apocrifeNT":{"label":"APOCRIFE NT","note":"","isNested":true,"subfolders":[{"label":"Evanghelii","note":""},{"label":"Scrieri Gnostice","note":"Texte gnostice sau gnostic-adiacente din primele secole creștine."},{"label":"Fapte apostolice","note":""},{"label":"Apocalipse","note":""}]},"patristice":{"label":"SCRIERI PATRISTICE / ISTORICE","note":"","isNested":true,"subfolders":[{"label":"Istorici","note":""},{"label":"Părinți Apostolici","note":""},{"label":"Apologeți și Părinți timpurii","note":""},{"label":"Părinți clasici","note":""}]}};
+  // așteaptă datele bibliotecii (library-data.js), dacă încă nu au sosit
+  function libWhenReady(fn){
+    if(typeof LIBRARY !== "undefined"){ fn(); return; }
+    const t = setInterval(() => { if(typeof LIBRARY !== "undefined"){ clearInterval(t); fn(); } }, 80);
+  }
   const CATEGORY_ORDER = ["arhivaRabinica","patristice","canonic","deuterocanonic","pseudepigraf","apocrifeNT"];
   const CATEGORY_LABELS = { arhivaRabinica: "ARHIVĂ RABINICĂ", patristice: "SCRIERI PATRISTICE / ISTORICE", canonic: "CANONIC", deuterocanonic: "DEUTEROCANONIC", pseudepigraf: "APOCRIFE VT", apocrifeNT: "APOCRIFE NT" };
   CATEGORY_ORDER.forEach(key => {
@@ -6589,11 +6628,17 @@ const SUBFOLDER_CARD_IMAGES = {
     img.alt = CATEGORY_LABELS[key];
     tile.appendChild(img);
     tile.addEventListener("click", () => {
-      const folder = libData()[key];
-      if(!folder) return;
-      if(folder.isNested) openSubfolderList(folder, key);
-      else if(key === "canonic") { currentFolderKey = key; openCanonicCards(folder); }
-      else { currentFolderKey = key; openBookListPanel(folder.panelTitle || folder.label, folder.note, folder.books, null); }
+      // datele bibliotecii vin din library-data.js; dacă încă nu au sosit (telefon lent, primele secunde), se așteaptă și se deschide imediat ce ajung
+      const open = () => {
+        const folder = libData()[key];
+        if(!folder) return;
+        if(folder.isNested) openSubfolderList(folder, key);
+        else if(key === "canonic") { currentFolderKey = key; openCanonicCards(folder); }
+        else { currentFolderKey = key; openBookListPanel(folder.panelTitle || folder.label, folder.note, folder.books, null); }
+      };
+      if(typeof LIBRARY !== "undefined") open();
+      else if(LIB_SKELETON[key]) openSubfolderList(LIB_SKELETON[key], key); // cardurile apar instant din schelet; cărțile se deschid când sosește biblioteca
+      else libWhenReady(open);
     });
     folderGrid.appendChild(tile);
   });
@@ -6689,7 +6734,11 @@ const SUBFOLDER_CARD_IMAGES = {
       imgIdx++;
       tile.appendChild(img);
       tile.addEventListener("click", () => {
-        openBookListPanel(sf.label, sf.note, sf.items, () => openSubfolderList(folder, key));
+        // din schelet (înainte să sosească biblioteca) lipsește lista de cărți: se ia din datele complete, când există
+        libWhenReady(() => {
+          const full = ((libData()[key] || {}).subfolders || []).find(s => s.label === sf.label) || sf;
+          openBookListPanel(sf.label, sf.note, full.items, () => openSubfolderList(folder, key));
+        });
       });
       grid.appendChild(tile);
     });
@@ -9914,7 +9963,6 @@ async function initHebrewCalendar(){
 })();
 
 initHebrewCalendar();
-window.__mainReady = true; // scriptul principal a terminat: ecranul de pornire poate dispărea
 </script>
 
 </body>
