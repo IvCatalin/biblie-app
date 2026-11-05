@@ -6495,7 +6495,7 @@ function wireToggle(btnId, bodyId, openLabel, closeLabel){
     document.head.appendChild(s);
   };
   function libWhenReady(fn){ if(typeof LIBRARY !== "undefined"){ fn(); return; } window.libLoad(); const t = setInterval(() => { if(typeof LIBRARY !== "undefined"){ clearInterval(t); fn(); } }, 80); }
-  (function(){ const go = () => window.libLoad(); if("requestIdleCallback" in window) requestIdleCallback(go, { timeout: 2500 }); else setTimeout(go, 1500); })();
+  (function(){ const go = () => window.libLoad(); setTimeout(() => { if("requestIdleCallback" in window) requestIdleCallback(go, { timeout: 3000 }); else go(); }, 4000); })(); // biblioteca se cere abia după 4 s de la pornire, ca să nu concureze cu imaginile și cu primul ecran
 
   const ICONS = {
     book: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5.5c2-1 5-1 8 .5v13c-3-1.5-6-1.5-8-.5z"/><path d="M20 5.5c-2-1-5-1-8 .5v13c3-1.5 6-1.5 8-.5z"/></svg>',
@@ -6588,6 +6588,7 @@ const SUBFOLDER_CARD_IMAGES = {
   };
 
   // ---- build folder grid (6 image cards, order fixed) ----
+  const LIB_SKELETON = {"arhivaRabinica":{"label":"ARHIVĂ RABINICĂ","note":"","isNested":true,"subfolders":[{"label":"Tora - Textul Masoretic","note":"Traducere Rosen, 2023, licență CC-BY-NC."},{"label":"Pentateuhul Samaritean","note":"Text critic academic (Schorch, ed. 2018)."},{"label":"Talmud Babilonian","note":""},{"label":"Mișna","note":""},{"label":"Kabbala","note":""},{"label":"Tanakh - Tora/Neviim/Ketuvim - comentarii","note":""}]},"deuterocanonic":{"label":"DEUTEROCANONIC","note":"","isNested":true,"subfolders":[{"label":"Narațiuni istorice","note":""},{"label":"Cărți de înțelepciune","note":""},{"label":"Scrieri profetice","note":""},{"label":"Cărțile Macabeilor","note":""},{"label":"Adaosuri la Estera și Daniel","note":""},{"label":"Alte texte (tradiție ortodoxă)","note":""}]},"pseudepigraf":{"label":"APOCRIFE VT","note":"","panelTitle":"Apocrife VT (Pseudepigraf)","isNested":true,"subfolders":[{"label":"Ciclul lui Enoh și Jubileele","note":""},{"label":"Testamentele celor 12 Patriarhi","note":"Ultimele cuvinte atribuite fiecăruia dintre fiii lui Iacov, cu îndemnuri morale și viziuni despre urmași. Sec. II î.Hr. – II d.Hr."},{"label":"Vieți și înălțări ale patriarhilor","note":""},{"label":"Apocalipse","note":""},{"label":"Psalmi și ode","note":""},{"label":"Narațiuni înțelepte și istorice","note":""},{"label":"Oracole","note":""}]},"apocrifeNT":{"label":"APOCRIFE NT","note":"","isNested":true,"subfolders":[{"label":"Evanghelii","note":""},{"label":"Scrieri Gnostice","note":"Texte gnostice sau gnostic-adiacente din primele secole creștine."},{"label":"Fapte apostolice","note":""},{"label":"Apocalipse","note":""}]},"patristice":{"label":"SCRIERI PATRISTICE / ISTORICE","note":"","isNested":true,"subfolders":[{"label":"Istorici","note":""},{"label":"Părinți Apostolici","note":""},{"label":"Apologeți și Părinți timpurii","note":""},{"label":"Părinți clasici","note":""}]}};
   const CATEGORY_ORDER = ["arhivaRabinica","patristice","canonic","deuterocanonic","pseudepigraf","apocrifeNT"];
   const CATEGORY_LABELS = { arhivaRabinica: "ARHIVĂ RABINICĂ", patristice: "SCRIERI PATRISTICE / ISTORICE", canonic: "CANONIC", deuterocanonic: "DEUTEROCANONIC", pseudepigraf: "APOCRIFE VT", apocrifeNT: "APOCRIFE NT" };
   CATEGORY_ORDER.forEach(key => {
@@ -6597,13 +6598,17 @@ const SUBFOLDER_CARD_IMAGES = {
     img.src = CATEGORY_CARD_IMAGES[key];
     img.alt = CATEGORY_LABELS[key];
     tile.appendChild(img);
-    tile.addEventListener("click", () => libWhenReady(() => {
+    tile.addEventListener("click", () => {
+      // cardurile apar instant din schelet; cărțile se deschid când sosește biblioteca
+      if(typeof LIBRARY === "undefined" && LIB_SKELETON[key]){ openSubfolderList(LIB_SKELETON[key], key); return; }
+      libWhenReady(() => {
       const folder = libData()[key];
       if(!folder) return;
       if(folder.isNested) openSubfolderList(folder, key);
       else if(key === "canonic") { currentFolderKey = key; openCanonicCards(folder); }
       else { currentFolderKey = key; openBookListPanel(folder.panelTitle || folder.label, folder.note, folder.books, null); }
-    }));
+      });
+    });
     folderGrid.appendChild(tile);
   });
 
@@ -6698,7 +6703,11 @@ const SUBFOLDER_CARD_IMAGES = {
       imgIdx++;
       tile.appendChild(img);
       tile.addEventListener("click", () => {
-        openBookListPanel(sf.label, sf.note, sf.items, () => openSubfolderList(folder, key));
+        // din schelet (înainte să sosească biblioteca) lipsește lista de cărți: se ia din datele complete, când există
+        libWhenReady(() => {
+          const full = ((libData()[key] || {}).subfolders || []).find(s => s.label === sf.label) || sf;
+          openBookListPanel(sf.label, sf.note, full.items, () => openSubfolderList(folder, key));
+        });
       });
       grid.appendChild(tile);
     });
