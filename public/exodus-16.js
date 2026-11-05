@@ -157,7 +157,7 @@ window.CHAPTER_DATA = [
   "num": 15,
   "tokens": [
    {
-    "t": "Copiii lui Israel au văzut și și-au spus unul altuia: „Ce-i asta?, adică „mana este” sau „ce este?””, căci n-au știut ce este. Moise le-a spus: „Aceasta este pâinea pe care v-a dat-o DOMNUL drept hrană."
+    "t": "Copiii lui Israel au văzut și și-au spus unul altuia: „Ce-i asta?”, căci n-au știut ce este. Moise le-a spus: „Aceasta este pâinea pe care v-a dat-o DOMNUL drept hrană."
    }
   ],
   "textCompare": [],

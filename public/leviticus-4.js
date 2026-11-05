@@ -25,7 +25,7 @@ window.CHAPTER_DATA = [
   "num": 3,
   "tokens": [
    {
-    "t": "Dacă preotul cel uns) va păcătui, aducând vină asupra poporului, să aducă DOMNULUI, pentru păcatul său pe care l-a comis, un tăuraș fără meteahnă, ca jertfă de păcat."
+    "t": "Dacă preotul cel uns va păcătui, aducând vină asupra poporului, să aducă DOMNULUI, pentru păcatul său pe care l-a comis, un tăuraș fără meteahnă, ca jertfă de păcat."
    }
   ],
   "textCompare": [],

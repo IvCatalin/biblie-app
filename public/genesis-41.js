@@ -1089,7 +1089,7 @@ window.CHAPTER_DATA = [
   "num": 43,
   "tokens": [
    {
-    "t": "Și l-a urcat în al doilea car al său și au proclamat înaintea lui: „Îngenunchiați!”, cuvânt cu sens incert Și l-a pus peste toată țara Egiptului."
+    "t": "Și l-a urcat în al doilea car al său și au proclamat înaintea lui: „Îngenunchiați!” Și l-a pus peste toată țara Egiptului."
    }
   ],
   "textCompare": [],

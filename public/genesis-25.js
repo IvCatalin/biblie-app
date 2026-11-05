@@ -792,7 +792,7 @@ window.CHAPTER_DATA = [
   "num": 30,
   "tokens": [
    {
-    "t": "Esav i-a spus lui Iacov: „Dă-mi să înghit din [mâncarea] aia roșie, căci sunt epuizat” – de aceea i s-a pus numele Edom („roșu”)."
+    "t": "Esav i-a spus lui Iacov: „Dă-mi să înghit din [mâncarea] aia roșie, căci sunt epuizat” – de aceea i s-a pus numele Edom."
    }
   ],
   "textCompare": [],

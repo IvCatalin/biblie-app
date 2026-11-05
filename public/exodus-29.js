@@ -36,7 +36,7 @@ window.CHAPTER_DATA = [
   "num": 4,
   "tokens": [
    {
-    "t": "Iar pe Aaron și pe fiii săi să-i aduci aproape de intrarea Cortului Întâlnirii și să-i cufunzi în apă), pentru purificare."
+    "t": "Iar pe Aaron și pe fiii săi să-i aduci aproape de intrarea Cortului Întâlnirii și să-i cufunzi în apă."
    }
   ],
   "textCompare": [],
@@ -355,7 +355,7 @@ window.CHAPTER_DATA = [
   "num": 33,
   "tokens": [
    {
-    "t": "Să le mănânce cei care au primit iertare prin ele, ca să fie învestiți [și] să fie sfințiți; dar un laic (preot) să nu mănânce, căci sunt sfinte."
+    "t": "Să le mănânce cei care au primit iertare prin ele, ca să fie învestiți [și] să fie sfințiți; dar un laic să nu mănânce, căci sunt sfinte."
    }
   ],
   "textCompare": [],

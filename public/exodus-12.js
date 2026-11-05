@@ -25,7 +25,7 @@ window.CHAPTER_DATA = [
   "num": 3,
   "tokens": [
    {
-    "t": "Vorbiți întregii obști a lui Israel, spunând: «În cea de-a zecea [zi] a acestei luni, fiecare om să ia pentru sine câte un miel sau ied se poate referi atât la un miel cât și la un ied, ambele fiind acceptabile ca ofrandă. pentru fiecare familie, câte un miel sau ied pentru fiecare casă."
+    "t": "Vorbiți întregii obști a lui Israel, spunând: «În cea de-a zecea [zi] a acestei luni, fiecare om să ia pentru sine câte un miel sau ied pentru fiecare familie, câte un miel sau ied pentru fiecare casă."
    }
   ],
   "textCompare": [],
@@ -58,7 +58,7 @@ window.CHAPTER_DATA = [
   "num": 6,
   "tokens": [
    {
-    "t": "Să fie al vostru spre păstrare până în a paisprezecea zi a acestei luni; și întreaga adunare a obștii lui Israel să-l taie pe înserat – lit: „între seri” desemnează perioada dintre amiază și apusul soarelui. Jertfa era adusă în ajun de Pesah, către finalul acestei perioade, chiar înainte de apus.."
+    "t": "Să fie al vostru spre păstrare până în a paisprezecea zi a acestei luni; și întreaga adunare a obștii lui Israel să-l taie pe înserat."
    }
   ],
   "textCompare": [],
@@ -113,7 +113,7 @@ window.CHAPTER_DATA = [
   "num": 11,
   "tokens": [
    {
-    "t": "Și așa să îl mâncați: [cu] mijlocul vostru încins, încălțămintea voastră în picioare și toiagul vostru în mână. Și să-l mâncați în grabă – este [jertfă de] Paște, adică Paștele Evreiesc, sărbătoarea eliberării din robia egipteană pentru DOMNUL."
+    "t": "Și așa să îl mâncați: [cu] mijlocul vostru încins, încălțămintea voastră în picioare și toiagul vostru în mână. Și să-l mâncați în grabă – este [jertfă de] Paște pentru DOMNUL."
    }
   ],
   "textCompare": [],
@@ -168,7 +168,7 @@ window.CHAPTER_DATA = [
   "num": 16,
   "tokens": [
    {
-    "t": "Iar în prima zi să fie o convocare sfântă și în ziua a șaptea să fie pentru voi o convocare sfântă. Nicio muncă, fără corespondent în română, desemnează 39 de categorii de activități și derivatele lor, interzise evreilor de Șabat și sărbători. să nu fie făcută în aceste [zile], ci numai ceea ce [urmează] să fie mâncat de către fiecare persoană, doar atât să fie făcut pentru voi."
+    "t": "Iar în prima zi să fie o convocare sfântă și în ziua a șaptea să fie pentru voi o convocare sfântă. Nicio muncă să nu fie făcută în aceste [zile], ci numai ceea ce [urmează] să fie mâncat de către fiecare persoană, doar atât să fie făcut pentru voi."
    }
   ],
   "textCompare": [],

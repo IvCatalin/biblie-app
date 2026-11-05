@@ -7554,12 +7554,24 @@ const SUBFOLDER_CARD_IMAGES = {
 
   // ---- Note explicative pe verset: extrage notele inline (Tora Rosen) și le afișează în iconița de notă ----
   function extractInlineFootnotes(text){
+    // nota de subsol poate conține etichete <i> interioare, deci închiderea se caută cu numărare, nu cu prima </i>
     const notes = [];
-    const cleaned = text.replace(/<sup class="footnote-marker">[^<]*<\/sup>\s*<i class="footnote">([\s\S]*?)<\/i>/g, (m, noteHtml) => {
-      notes.push(noteHtml.replace(/<[^>]+>/g, "").trim());
-      return "";
-    });
-    return { text: cleaned, notes };
+    const marker = /<sup class="footnote-marker">[^<]*<\/sup>\s*<i class="footnote">/g;
+    let out = "", i = 0;
+    for(;;){
+      marker.lastIndex = i;
+      const m = marker.exec(text);
+      if(!m){ out += text.slice(i); break; }
+      out += text.slice(i, m.index);
+      const tag = /<(\/?)i\b[^>]*>/g;
+      tag.lastIndex = m.index + m[0].length;
+      let depth = 1, t, close = -1, closeLen = 0;
+      while((t = tag.exec(text))){ depth += t[1] ? -1 : 1; if(depth === 0){ close = t.index; closeLen = t[0].length; break; } }
+      if(close < 0){ out += text.slice(m.index); break; }
+      notes.push(text.slice(m.index + m[0].length, close).replace(/<[^>]+>/g, "").trim());
+      i = close + closeLen;
+    }
+    return { text: out, notes };
   }
 
   function openNoteModal(ref, notes){

@@ -190,7 +190,7 @@ window.CHAPTER_DATA = [
   "num": 18,
   "tokens": [
    {
-    "t": "Dumnezeu a deturnat poporul pe drumul deșertului, către Marea Trestiilor și copiii lui Israel au urcat înarmați – „cinci”, aluzie la faptul că doar o cincime din evrei au ieșit din Egipt. din țara Egiptului."
+    "t": "Dumnezeu a deturnat poporul pe drumul deșertului, către Marea Trestiilor și copiii lui Israel au urcat înarmați din țara Egiptului."
    }
   ],
   "textCompare": [],

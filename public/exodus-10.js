@@ -201,7 +201,7 @@ window.CHAPTER_DATA = [
   "num": 19,
   "tokens": [
    {
-    "t": "DOMNUL a întors un vânt de la apus, foarte puternic, care a purtat roiul de lăcuste și l-a azvârlit în Marea Trestiilor este de fapt o altă întindere de apă, probabil în apropierea Golfului de Suez, sau la gurile deltei Nilului, sau în sudul Mării Mediterane.. N-a mai rămas nicio lăcustă în tot hotarul Egiptului."
+    "t": "DOMNUL a întors un vânt de la apus, foarte puternic, care a purtat roiul de lăcuste și l-a azvârlit în Marea Trestiilor. N-a mai rămas nicio lăcustă în tot hotarul Egiptului."
    }
   ],
   "textCompare": [],

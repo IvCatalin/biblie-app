@@ -14,7 +14,7 @@ window.CHAPTER_DATA = [
   "num": 2,
   "tokens": [
    {
-    "t": "(lit: „Cele Zece Rostiri”), consacrate sub numele de „Cele Zece Porunci”. Împărțirea în enunțuri este redată aici conform tradiției iudaice și marcată cu numere încadrate între paranteze drepte.„Eu sunt DOMNUL, Dumnezeul tău, care te-am scos din țara Egiptului, din casa robiei."
+    "t": "„Eu sunt DOMNUL, Dumnezeul tău, care te-am scos din țara Egiptului, din casa robiei."
    }
   ],
   "textCompare": [],

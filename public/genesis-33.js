@@ -466,7 +466,7 @@ window.CHAPTER_DATA = [
   "num": 18,
   "tokens": [
    {
-    "t": "Iacov a ajuns teafăr în orașul Sihem, care este în țara Canaanului, venind din Padan-Aram, și și-a așezat tabăra înaintea orașului."
+    "t": "Iacov a ajuns teafăr în orașul Sihem*Ebr: Șehem, care este în țara Canaanului, venind din Padan-Aram, și și-a așezat tabăra înaintea orașului."
    }
   ],
   "textCompare": [],

@@ -223,7 +223,7 @@ window.CHAPTER_DATA = [
   "num": 21,
   "tokens": [
    {
-    "t": "Și Moise a consimțit să locuiască cu omul; și el i-a dat-o lui Moise pe fiica sa Țipora, însemnând „dimineață”."
+    "t": "Și Moise a consimțit să locuiască cu omul; și el i-a dat-o lui Moise pe fiica sa Țipora."
    }
   ],
   "textCompare": [],
@@ -234,7 +234,7 @@ window.CHAPTER_DATA = [
   "num": 22,
   "tokens": [
    {
-    "t": "Ea a născut un fiu și el i-a pus numele Gherșom, adică „străin [am fost] acolo”, căci a spus: „Străin am fost într-o țară străină.”"
+    "t": "Ea a născut un fiu și el i-a pus numele Gherșom, căci a spus: „Străin am fost într-o țară străină.”"
    }
   ],
   "textCompare": [],

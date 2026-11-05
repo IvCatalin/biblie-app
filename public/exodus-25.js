@@ -36,7 +36,7 @@ window.CHAPTER_DATA = [
   "num": 4,
   "tokens": [
    {
-    "t": "și lână turcoaz, un pigment obținut dintr-o specie anume de melc marin, purpurie și cărămizie și in și păr de capră;"
+    "t": "și lână turcoaz, purpurie și cărămizie și in și păr de capră;"
    }
   ],
   "textCompare": [],

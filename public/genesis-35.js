@@ -536,7 +536,7 @@ window.CHAPTER_DATA = [
   "num": 19,
   "tokens": [
    {
-    "t": "Și a murit Rahel și a fost îngropată pe drumul spre Efrat, adică Betleem, însemnând „Casa Pâinii”."
+    "t": "Și a murit Rahel și a fost îngropată pe drumul spre Efrat, adică Betleem."
    }
   ],
   "textCompare": [],

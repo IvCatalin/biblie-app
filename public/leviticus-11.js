@@ -300,7 +300,7 @@ window.CHAPTER_DATA = [
   "num": 28,
   "tokens": [
    {
-    "t": "Iar cel care le cară hoiturile să își spele hainele și este necurat până seara; sunt necurate are conotație dublă: interzise la consum și necurate când sunt moarte. pentru voi."
+    "t": "Iar cel care le cară hoiturile să își spele hainele și este necurat până seara; sunt necurate pentru voi."
    }
   ],
   "textCompare": [],

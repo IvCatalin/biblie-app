@@ -14,7 +14,7 @@ window.CHAPTER_DATA = [
   "num": 2,
   "tokens": [
    {
-    "t": "„Dacă un om va avea pe pielea trupului său o umflătură, sau o erupție, sau o decolorare, care este pe pielea trupului său ca o plagă de lepră, desemnând o manifestare fizică a unei afecțiuni spirituale, fără legătură cu boala contagioasă ononimă, să fie adus la preotul Aaron sau la unul din fiii săi, preoții."
+    "t": "„Dacă un om va avea pe pielea trupului său o umflătură, sau o erupție, sau o decolorare, care este pe pielea trupului său ca o plagă de lepră, să fie adus la preotul Aaron sau la unul din fiii săi, preoții."
    }
   ],
   "textCompare": [],

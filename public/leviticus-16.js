@@ -80,7 +80,7 @@ window.CHAPTER_DATA = [
   "num": 8,
   "tokens": [
    {
-    "t": "Aaron să tragă la sorți cei doi țapi: un sorț „pentru DOMNUL” și un sorț „la Azazel” („putere”) și el („forță”)."
+    "t": "Aaron să tragă la sorți cei doi țapi: un sorț „pentru DOMNUL” și un sorț „la Azazel”."
    }
   ],
   "textCompare": [],

@@ -796,7 +796,7 @@ window.CHAPTER_DATA = [
   "num": 32,
   "tokens": [
    {
-    "t": "Lea a zămislit și a născut un fiu și i-a pus numele Ruben, însemnând „a vedea un fiu”, căci a spus: „Căci DOMNUL mi-a văzut durerea, căci acum soțul meu mă va iubi.”"
+    "t": "Lea a zămislit și a născut un fiu și i-a pus numele Ruben, căci a spus: „Căci DOMNUL mi-a văzut durerea, căci acum soțul meu mă va iubi.”"
    }
   ],
   "textCompare": [],
@@ -828,7 +828,7 @@ window.CHAPTER_DATA = [
   "num": 33,
   "tokens": [
    {
-    "t": "Și a zămislit din nou și a născut un fiu și a spus: „Căci DOMNUL a auzit că sunt disprețuită și mi l-a dat și pe acesta.” Și i-a pus numele Simeon, de la verbul lișmoa („a auzi”)."
+    "t": "Și a zămislit din nou și a născut un fiu și a spus: „Căci DOMNUL a auzit că sunt disprețuită și mi l-a dat și pe acesta.” Și i-a pus numele Simeon."
    }
   ],
   "textCompare": [],
@@ -848,7 +848,7 @@ window.CHAPTER_DATA = [
   "num": 34,
   "tokens": [
    {
-    "t": "Și a zămislit din nou și a născut un fiu și a spus: „De astă dată soțul meu se va atașa de mine, căci i-am născut trei fii.” De aceea i-a pus numele Levi („a acompania”)."
+    "t": "Și a zămislit din nou și a născut un fiu și a spus: „De astă dată soțul meu se va atașa de mine, căci i-am născut trei fii.” De aceea i-a pus numele Levi."
    }
   ],
   "textCompare": [],

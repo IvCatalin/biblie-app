@@ -18,9 +18,27 @@ function strip(s){
 }
 const WORD = /[\p{L}\p{M}\p{N}]/u;
 
+function stripFootnotes(s){
+  // nota de subsol poate conține etichete <i> interioare: se închide prin numărare, nu la prima </i>
+  let out = "", i = 0;
+  const marker = /<sup class="footnote-marker">[^<]*<\/sup>\s*<i class="footnote">/g;
+  for(;;){
+    marker.lastIndex = i;
+    const m = marker.exec(s);
+    if(!m){ out += s.slice(i); break; }
+    out += s.slice(i, m.index);
+    const tag = /<(\/?)i\b[^>]*>/g;
+    tag.lastIndex = m.index + m[0].length;
+    let depth = 1, t, end = -1;
+    while((t = tag.exec(s))){ depth += t[1] ? -1 : 1; if(depth === 0){ end = t.index + t[0].length; break; } }
+    if(end < 0){ out += s.slice(m.index); break; }
+    i = end;
+  }
+  return out;
+}
+
 function plain(t){
-  return String(t || "")
-    .replace(/<sup class="footnote-marker">[^<]*<\/sup>\s*<i class="footnote">[\s\S]*?<\/i>/g, "")
+  return stripFootnotes(String(t || ""))
     .replace(/<i class="footnote">[\s\S]*?<\/i>/g, "")
     .replace(/<sup[^>]*>[\s\S]*?<\/sup>/g, "")
     .replace(/<[^>]+>/g, " ")

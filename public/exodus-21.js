@@ -58,7 +58,7 @@ window.CHAPTER_DATA = [
   "num": 6,
   "tokens": [
    {
-    "t": "atunci stăpânul lui să-l apropie de judecători înseamnă „judecători” sau „tribunal”. și să-l apropie de ușă sau de ușorul [ușii]; și stăpânul său să-i găurească urechea cu o sulă și el să-i slujească veșnic."
+    "t": "atunci stăpânul lui să-l apropie de judecători și să-l apropie de ușă sau de ușorul [ușii]; și stăpânul său să-i găurească urechea cu o sulă și el să-i slujească veșnic."
    }
   ],
   "textCompare": [],

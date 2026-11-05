@@ -146,7 +146,7 @@ window.CHAPTER_DATA = [
   "num": 6,
   "tokens": [
    {
-    "t": "Rahel a spus: „Dumnezeu m-a judecat și mi-a și auzit glasul și mi-a dat un fiu.” De aceea, i-a pus numele Dan („a judeca”)."
+    "t": "Rahel a spus: „Dumnezeu m-a judecat și mi-a și auzit glasul și mi-a dat un fiu.” De aceea, i-a pus numele Dan."
    }
   ],
   "textCompare": [],
@@ -185,7 +185,7 @@ window.CHAPTER_DATA = [
   "num": 8,
   "tokens": [
    {
-    "t": "Și Rahel a spus: „Manevre dumnezeiești am pus la cale cu sora mea [și] chiar am reușit!” De aceea i-a pus numele Naftali („încurcat” sau „răsucit”)."
+    "t": "Și Rahel a spus: „Manevre dumnezeiești am pus la cale cu sora mea [și] chiar am reușit!” De aceea i-a pus numele Naftali."
    }
   ],
   "textCompare": [],
@@ -448,7 +448,7 @@ window.CHAPTER_DATA = [
   "num": 18,
   "tokens": [
    {
-    "t": "Și Lea a spus: „Dumnezeu mi-a dat răsplata pentru că am dat-o pe slujnica mea soțului meu.” Și i-a pus numele Isahar („răsplată”)."
+    "t": "Și Lea a spus: „Dumnezeu mi-a dat răsplata pentru că am dat-o pe slujnica mea soțului meu.” Și i-a pus numele Isahar."
    }
   ],
   "textCompare": [],

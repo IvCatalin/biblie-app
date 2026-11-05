@@ -322,7 +322,7 @@ window.CHAPTER_DATA = [
   "num": 30,
   "tokens": [
    {
-    "t": "Și să pui în pieptarul judecății urim și tumim provine de la rădăcina or – „lumină”, iar tumim de la tamim – „integru”. și ele să fie pe inima lui Aaron când vine înaintea DOMNULUI; și Aaron să poarte judecata copiilor lui Israel pe inima lui, înaintea DOMNULUI, necontenit."
+    "t": "Și să pui în pieptarul judecății urim și tumim și ele să fie pe inima lui Aaron când vine înaintea DOMNULUI; și Aaron să poarte judecata copiilor lui Israel pe inima lui, înaintea DOMNULUI, necontenit."
    }
   ],
   "textCompare": [],

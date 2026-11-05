@@ -157,7 +157,7 @@ window.CHAPTER_DATA = [
   "num": 15,
   "tokens": [
    {
-    "t": "Și i-a mai spus Dumnezeu lui Moise: „Astfel să le spui copiilor lui Israel: «DOMNUL în ritual și Hașem (adică „Numele”) în vorbirea curentă, Dumnezeul părinților voștri, Dumnezeul lui Avraham, Dumnezeul lui Isaac și Dumnezeul lui Iacov, m-a trimis la voi. Acesta este numele Meu veșnic și aceasta este pomenirea Mea din generație în generație.»"
+    "t": "Și i-a mai spus Dumnezeu lui Moise: „Astfel să le spui copiilor lui Israel: «DOMNUL, Dumnezeul părinților voștri, Dumnezeul lui Avraham, Dumnezeul lui Isaac și Dumnezeul lui Iacov, m-a trimis la voi. Acesta este numele Meu veșnic și aceasta este pomenirea Mea din generație în generație.»"
    }
   ],
   "textCompare": [],

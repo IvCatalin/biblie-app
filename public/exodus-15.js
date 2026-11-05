@@ -3,7 +3,7 @@ window.CHAPTER_DATA = [
   "num": 1,
   "tokens": [
    {
-    "t": ", Cântarea de la Mare.Atunci Moise și copiii lui Israel au cântat această cântare DOMNULUI și au spus astfel:„Voi cânta DOMNULUI căci El este preamărit în slavă,pe cal și pe călărețul lui i-a aruncat în mare."
+    "t": "Atunci Moise și copiii lui Israel au cântat această cântare DOMNULUI și au spus astfel:„Voi cânta DOMNULUI căci El este preamărit în slavă,pe cal și pe călărețul lui i-a aruncat în mare."
    }
   ],
   "textCompare": [],
