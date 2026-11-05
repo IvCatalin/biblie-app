@@ -426,7 +426,8 @@ window.CHAPTER_DATA = [
    "Evrei 4:9-10",
    "Geneza 1:31",
    "Exodul 23:12",
-   "Exodul 31:17"
+   "Exodul 31:17",
+   "Exodul 20:11"
   ],
   "commentaries": [
    {
@@ -506,6 +507,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament",
     "text": "Notează o variantă textuală importantă: Septuaginta, Siriaca și Samariteanul citesc aici „ziua a șasea”, nu „a șaptea” — explicabilă, poate, prin asemănarea literelor ebraice vav (șase) și zain (șapte) în vechile manuscrise, unde o simplă confuzie grafică ar fi putut produce diferența."
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "El a zidit cerul și pământul și tot ce a zidit în șase zile, și Dumnezeu a sfințit ziua a șaptea pentru toate lucrările Sale; de aceea a poruncit pentru ea ca oricine face vreo lucrare în ea să moară, și cel ce o pângărește să moară negreșit.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 25
+     }
+    }
    }
   ],
   "textCompare": [
@@ -803,6 +815,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ambrozie al Milanului, Cele șase zile ale creației",
     "text": "El a creat cerul și pământul pe vremea când începeau lunile, de la care se cuvine să se socotească nașterea lumii. Atunci era blânda vreme a primăverii, anotimp potrivit pentru toate. De aceea și anul poartă pecetea unei lumi ce se naște. Ca să arate că zidirea lumii a avut loc primăvara, Scriptura zice: «Luna aceasta să vă fie începutul lunilor; ea să fie pentru voi cea dintâi din lunile anului» — numind luna cea dintâi „vremea primăverii”."
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "Și ne-a dat nouă un semn mare, ziua Sabatului, ca să lucrăm șase zile, iar în ziua a șaptea să ținem Sabatul de toată lucrarea. Și toți îngerii prezenței, și toți îngerii sfințirii — aceste două cete mari — ne-a poruncit să ținem Sabatul cu El, în cer și pe pământ.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 17
+     }
+    }
    }
   ],
   "textCompare": [
@@ -1988,7 +2011,8 @@ window.CHAPTER_DATA = [
    "Psalmul 139:14-15",
    "Isaia 64:8",
    "Geneza 3:19",
-   "Geneza 3:23"
+   "Geneza 3:23",
+   "Psalmul 139:14,15"
   ],
   "commentaries": [
    {
@@ -2109,6 +2133,39 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere 12.15",
     "text": "I-a plăcut iubirii de oameni a lui Dumnezeu să facă din acest lucru creat din pământ un părtaș al firii raționale a sufletului, prin care această viețuitoare s-a arătat aleasă și desăvârșită. «Și a suflat în nările lui suflare de viață» — adică suflarea a dat celui creat din pământ puterea vieții, și astfel s-a alcătuit firea sufletului. De aceea Moise a adăugat: «Și s-a făcut omul suflet viu.» Ce înseamnă «suflet viu»? Un suflet lucrător, care are mădularele trupului ca unelte ale lucrării sale, supuse voinței lui."
+   },
+   {
+    "author": "Cartea Dreptului 1 — comparație",
+    "text": "Și Dumnezeu l-a format pe om din țărână și a suflat în nările lui suflarea vieții, iar omul a devenit un suflet viu înzestrat cu grai.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 1,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 17 — comparație",
+    "text": "Domnul a zidit pe om din pământ și iarăși l-a întors în el.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 17,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "2 Enoh 30 — comparație",
+    "text": "M-am gândit la un cuvânt viclean de spus: am creat pe om din fire nevăzută (duhovnicească) și din fire vizibilă (fizică), din amândouă sunt moartea și viața și chipul lui, el știe vorbirea ca o făptură oarecare, mic în măreție și iarăși mare în micime și l-am așezat pe pământ, un al doilea înger, cinstit, mare și slăvit, și l-am rânduit stăpânitor să domnească pe pământ și să aibă înțelepciunea Mea și nu era niciunul ca el de pe pământ dintre toate făpturile Mele existente. Și i-am rânduit un nume din cele patru părți componente, din răsărit, din apus, din miazăzi, din miazănoapte, și i-am rânduit patru stele deosebite și i-am numit numele Adam și i-am arătat cele două căi, lumina și întunericul și i-am spus:",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 30,
+      "v": 12
+     }
+    }
    }
   ],
   "textCompare": [
@@ -2296,7 +2353,8 @@ window.CHAPTER_DATA = [
    "Ezechiel 28:13",
    "Apocalipsa 2:7",
    "Ezechiel 31:8-9",
-   "Ioel 2:3"
+   "Ioel 2:3",
+   "Ezechiel 31:8,9"
   ],
   "textCompare": [
    {
@@ -2413,6 +2471,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere 13.13",
     "text": "Și când auziți, preaiubiților, că «Dumnezeu a sădit o grădină în Eden, spre răsărit», luați cuvântul «a sădit» într-un sens potrivit lui Dumnezeu — adică El a poruncit să se întâmple aceasta — și, despre fraza următoare, credeți că o grădină a luat ființă în locul arătat de Scriptură."
+   },
+   {
+    "author": "2 Enoh 30 — comparație",
+    "text": "În ziua a treia am poruncit pământului să facă să crească pomi mari și roditori și dealuri și sămânță de semănat și am sădit Raiul și l-am îngrădit și am pus ca (păzitori) înarmați îngeri înflăcărați și astfel am creat înnoirea.",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 30,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -2612,7 +2681,8 @@ window.CHAPTER_DATA = [
    "Geneza 3:22",
    "Ezechiel 31:8-9",
    "Ezechiel 31:16",
-   "Ezechiel 31:18"
+   "Ezechiel 31:18",
+   "Ezechiel 31:8,9,16,18"
   ],
   "textCompare": [
    {
@@ -2871,7 +2941,8 @@ window.CHAPTER_DATA = [
   ],
   "refs": [
    "Apocalipsa 22:1-2",
-   "Psalmul 46:4"
+   "Psalmul 46:4",
+   "Apocalipsa 22:1"
   ],
   "fidela": "Şi un râu ieşea din Eden ca să ude grădina; şi de acolo se împărţea şi se făcea patru capete.",
   "commentaries": [
@@ -3139,7 +3210,8 @@ window.CHAPTER_DATA = [
    "Geneza 10:7",
    "Geneza 10:29",
    "Geneza 25:18",
-   "1 Samuel 15:7"
+   "1 Samuel 15:7",
+   "Geneza 10:7,29"
   ],
   "commentaries": [
    {
@@ -4061,6 +4133,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ieronim, Întrebări ebraice asupra Genezei",
     "text": "(Versetul 15.) Și Domnul Dumnezeu a luat pe om, și l-a pus în grădina desfătării. Căci «desfătare», în ebraică, se numește Eden. De aceea Cei Șaptezeci [Septuaginta] au tradus-o «desfătare»."
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și după ce Adam a împlinit patruzeci de zile în ținutul în care fusese zidit, l-am adus în Grădina Edenului ca s-o lucreze și s-o păzească; iar pe soția lui au adus-o în ziua a optzecea, și după aceasta a intrat ea în Grădina Edenului.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 9
+     }
+    }
    }
   ],
   "textCompare": [
@@ -4221,7 +4304,8 @@ window.CHAPTER_DATA = [
    "1 Samuel 15:22",
    "Geneza 2:9",
    "Geneza 3:1-2",
-   "1 Timotei 4:4"
+   "1 Timotei 4:4",
+   "Geneza 3:1,2"
   ],
   "textCompare": [
    {
@@ -4406,7 +4490,8 @@ window.CHAPTER_DATA = [
    "Geneza 3:1-4",
    "Geneza 2:9",
    "Geneza 3:11",
-   "Geneza 3:17"
+   "Geneza 3:17",
+   "Geneza 3:1-3,11,17,19"
   ],
   "commentaries": [
    {
@@ -4468,6 +4553,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Tertulian, Împotriva lui Marcion 2.4",
     "text": "Vede în avertismentul dinainte un act de bunătate: Dumnezeu a arătat dinainte urmările neascultării tocmai ca necunoașterea primejdiei să nu ducă la nepăsare — un dar al providenței, nu o capcană."
+   },
+   {
+    "author": "2 Enoh 30 — comparație",
+    "text": "Aceasta este bună și aceea rea, ca să învăț dacă are dragoste față de Mine sau ură, ca să fie limpede care din neamul lui Mă iubesc. Căci i-am văzut firea, dar el nu și-a văzut propria fire, de aceea (neputând) să vadă va păcătui mai rău și am zis: După păcat (ce este) decât moartea?",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 30,
+      "v": 14
+     }
+    }
    }
   ],
   "textCompare": [
@@ -4715,6 +4811,39 @@ window.CHAPTER_DATA = [
    {
     "author": "Ambrozie al Milanului, Despre Paradis",
     "text": "Se ridică încă o întrebare, cu privire la spusa Domnului: «Nu e bine ca omul să fie singur.» Recunoașteți, mai întâi, faptul că, atunci când Dumnezeu l-a creat pe om din țărâna pământului, n-a mai adăugat, ca la fiecare din celelalte lucrări ale Sale, «și a văzut Dumnezeu că era bine». Dacă ar fi spus atunci că e bună crearea omului, cealaltă afirmație, «nu e bine», ar fi fost o contradicție. Dar, când a văzut că bărbatul și femeia sunt uniți prin creație, atunci a spus: «Și a văzut Dumnezeu tot ce făcuse, și iată, era foarte bine.» Înțelesul e limpede: crearea deopotrivă a bărbatului și a femeii e socotită bună."
+   },
+   {
+    "author": "Cartea Dreptului 1 — comparație",
+    "text": "Și Domnul a spus: Nu este bine ca omul să fie singur; Eu o să-i fac lui un ajutor potrivit.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 1,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Tovit 8 — comparație",
+    "text": "Tu ai făcut pe Adam și i-ai dat pe Eva, ajutorul lui, și dintr-înșii s-a născut neamul oamenilor. Tu ai zis: Nu este bine să fie omul singur; să-i facem ajutor asemenea lui.",
+    "src": {
+     "slug": "tovit",
+     "spec": {
+      "num": 8,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 1 — comparație",
+    "text": "Apoi, iarăși, a plăsmuit mai târziu o lucrare vie: pe om, după chipul Lui, proaspăt zidit, frumos, asemenea unui zeu, căruia i-a dat locuință în Paradisul nemuritor, unde lucrări alese să-i fie grija. Dar în acel câmp verde al Paradisului era singur; dorea să poarte o convorbire și dorea mult să vadă o altă făptură asemenea lui.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 1,
+      "v": 5
+     }
+    }
    }
   ],
   "textCompare": [
@@ -5011,7 +5140,9 @@ window.CHAPTER_DATA = [
    "Psalmul 8:6-8",
    "Geneza 1:20-26",
    "Geneza 2:22-23",
-   "Geneza 1:28"
+   "Geneza 1:28",
+   "Geneza 1:20-25",
+   "Geneza 2:22,23"
   ],
   "fidela": "Şi din pământ DOMNUL Dumnezeu a format fiecare fiară a câmpului şi fiecare pasăre a cerului şi le-a adus la Adam să vadă cum le va numi; şi oricum a numit Adam fiecare fiinţa vie, acela a fost numele ei.",
   "commentaries": [
@@ -5073,6 +5204,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere 14:20",
     "text": "Numele pe care Adam li le-a pus rămân până în ziua de azi. Astfel a rânduit Dumnezeu ca noi să păstrăm o aducere-aminte statornică a cinstei pe care ființa omenească a primit-o de la început de la Stăpânul tuturor, și să putem atribui răspunderea pierderii ei celui care, prin păcat, a pus capăt brusc autorității sale."
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și în cele șase zile ale săptămânii a doua am adus, după cuvântul lui Dumnezeu, la Adam toate fiarele, și tot vitele, și toate păsările, și tot ce se mișcă pe pământ, și tot ce se mișcă în apă, după felurile lor și după soiurile lor: fiarele în ziua întâi; vitele în ziua a doua; păsările în ziua a treia; tot ce se mișcă pe pământ în ziua a patra; și ce se mișcă în apă în ziua a cincea. Și Adam le-a dat tuturor numele lor, și cum le-a chemat el, așa le-a fost numele.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -5635,6 +5777,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere 15.7",
     "text": "«Dumnezeu a făcut să vină toropeală peste Adam», zice textul, «și a adormit.» N-a fost o simplă toropeală care a venit peste el, nici un somn obișnuit; ci înțeleptul și iscusitul Ziditor al firii noastre avea să-i ia una din coaste. Ca nu cumva această întâmplare să-l facă pe Adam, mai apoi, rău dispus față de făptura formată din coasta lui, și, prin amintirea durerii, să poarte pică acestei ființe la formarea ei, Dumnezeu i-a indus acest fel de somn."
+   },
+   {
+    "author": "Cartea Dreptului 1 — comparație",
+    "text": "Și Domnul a cauzat un somn adânc să cadă peste Adam, și el a dormit, iar El a luat una din coastele lui și a clădit carne în jurul ei și a format-o și a adus-o lui Adam, iar Adam s-a trezit din somnul său și iată o femeie stătea înaintea sa.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 1,
+      "v": 4
+     }
+    }
+   },
+   {
+    "author": "2 Enoh 30 — comparație",
+    "text": "Și am pus somn în el și a adormit. Și am luat din el o coastă și i-am creat o soție, ca moartea să vină la el prin soția lui și am luat ultimul lui cuvânt și i-am numit numele mamă, adică Eva.",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 30,
+      "v": 16
+     }
+    }
    }
   ],
   "fidela": "Şi DOMNUL Dumnezeu a făcut să cadă un somn adânc peste Adam; şi Adam a dormit; şi a luat una din coastele lui şi a închis carnea la loc;"
@@ -5820,6 +5984,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ieronim, Omilii 66",
     "text": "«Dumnezeu a luat o coastă din partea lui Adam și a făcut-o femeie.» Aici Scriptura a spus aedificavit — «a zidit». Ideea de zidire vrea să arate ridicarea unei case mari; de aceea coasta lui Adam, prefăcută în femeie, înseamnă, cu autoritate apostolică, pe Hristos și Biserica. Am auzit despre Adam cel dintâi; să venim acum la Adam al doilea și să vedem cum se zidește Biserica din coasta Lui. Coasta Domnului Mântuitor, atârnând pe cruce, e străpunsă de o suliță, și din ea ies sânge și apă. Vreți să știți cum se zidește Biserica din apă și sânge? Întâi, prin botezul cu apă, se iartă păcatele; apoi, sângele mucenicilor încununează zidirea."
+   },
+   {
+    "author": "Oracolele Sibiline 1 — comparație",
+    "text": "Atunci Dumnezeu i-a deschis coasta și a luat dintr-însa un os și a făcut-o pe frumoasa Eva, soția lui, și a adus-o să locuiască cu el în Paradis. El s-a uitat la ea și o mare uimire i-a cuprins sufletul, bucurându-se deodată să vadă un chip atât de potrivit. Și i-a răspuns cu cuvinte înțelepte, cuvinte care curgeau de la sine; căci Dumnezeu poartă grijă de toate. Și nici pofta nu le întuneca mințile, nici de rușine nu erau îmbrăcați, ci, departe de inimi rele, umblau ca fiarele, cu mădularele goale.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 1,
+      "v": 6
+     }
+    }
    }
   ],
   "textCompare": [
@@ -6052,7 +6227,8 @@ window.CHAPTER_DATA = [
    "Geneza 29:14",
    "Judecători 9:2",
    "2 Samuel 5:1",
-   "2 Samuel 19:13"
+   "2 Samuel 19:13",
+   "Efeseni 5:30"
   ],
   "commentaries": [
    {
@@ -6106,6 +6282,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
     "text": "«Aceasta se va numi Femeie, fiindcă a fost luată din Bărbat.» Și așa cum etimologia latină se potrivește la aceste nume, femeia («mulier») fiind numită de la bărbat («vir»), tot așa se potrivește și în ebraică, limbă în care bărbatul se numește «ish», iar de la acest nume vine cuvântul pentru femeie, «ishah». Dar în tainele lui Hristos și ale Bisericii se potrivește și mai bine faptul că Adam a voit ca femeia creată din trupul lui să-i poarte numele — fiindcă Domnul nostru Iisus Hristos a dat, la fel, Bisericii, pe care a răscumpărat-o cu prețul trupului și sângelui Său, părtășia numelui Său, ca de la Hristos să se numească «creștină»."
+   },
+   {
+    "author": "Cartea Dreptului 1 — comparație",
+    "text": "Și el a spus: Acesta este un os din oasele mele și se va numi femeie, căci aceasta a fost luată din om; iar Adam a numit-o pe ea Eva, căci era mama tuturor celor vii.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 1,
+      "v": 5
+     }
+    }
    }
   ],
   "textCompare": [
@@ -6293,7 +6480,8 @@ window.CHAPTER_DATA = [
    "Marcu 10:7-8",
    "1 Corinteni 6:16",
    "Efeseni 5:31",
-   "Geneza 24:58-59"
+   "Geneza 24:58-59",
+   "Geneza 24:58,59"
   ],
   "commentaries": [
    {
@@ -6343,6 +6531,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.13.19",
     "text": "Scriptura a spus: «Bărbatul își va lăsa tatăl și mama, și se va alipi de soția lui, și vor fi doi într-un singur trup.» Așa se întâmplă, de obicei, în neamul omenesc. Dar mai mult decât atât, totul e o proorocire, și apostolul ne amintește aceasta când zice: «Taina aceasta e mare — vorbesc despre Hristos și despre Biserică.»"
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "De aceea vor fi bărbatul și femeia una, și de aceea va lăsa omul pe tatăl său și pe mama sa, și se va lipi de soția sa, și vor fi un singur trup.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 7
+     }
+    }
    }
   ],
   "textCompare": [
@@ -6575,7 +6774,8 @@ window.CHAPTER_DATA = [
    "Geneza 3:10-11",
    "Exodul 32:25",
    "Psalmul 25:3",
-   "Psalmul 31:17"
+   "Psalmul 31:17",
+   "Geneza 3:7,10,11"
   ],
   "fidela": "Şi ei erau amândoi goi, omul şi soţia sa, şi nu se ruşinau."
  }

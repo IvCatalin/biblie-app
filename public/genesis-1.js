@@ -249,6 +249,61 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 2 — comparație",
     "text": "Și îngerul prezenței a grăit lui Moise după cuvântul Domnului, zicând: Scrie toată istoria zidirii, cum în șase zile Domnul Dumnezeu a isprăvit toate lucrările Sale și tot ce a zidit, și a ținut Sabatul în ziua a șaptea și a sfințit-o pentru toate veacurile, și a rânduit-o ca semn pentru toate lucrările Sale."
+   },
+   {
+    "author": "2 Macabei 7 — comparație",
+    "text": "Te rog, fiule, privește la cer și la pământ și, văzând toate cele din ele, cunoaște că Dumnezeu le-a făcut din cele ce nu erau și că neamul omenesc a ajuns astfel.",
+    "src": {
+     "slug": "2-macabei",
+     "spec": {
+      "num": 7,
+      "v": 28
+     }
+    }
+   },
+   {
+    "author": "4 Ezdra 6 — comparație",
+    "text": "Și am zis: O, Doamne, Tu ai vorbit de la începutul creației, chiar în ziua întâi, și ai spus astfel: Să se facă cerul și pământul; și cuvântul Tău a fost o lucrare desăvârșită.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 6,
+      "v": 38
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 1 — comparație",
+    "text": "Și mai întâi, Dumnezeu îmi poruncește să spun cum a luat ființă lumea. Iar tu, muritorule iscusit, ia seama cu grijă, ca nu cumva să disprețuiești vreodată poruncile mele: cum Regele ceresc, Cel ce a făcut lumea și toate, a zis: «Să fie!» și a fost. Căci El a întemeiat pământul, turnându-l în jurul Tartarului, și a scos la iveală lumina dulce și blândă; a ridicat cerul sus, a întins întinderea albastră a oceanului, a încununat bolta cu oștiri de stele strălucitoare, a împodobit pământul cu plante, a amestecat marea cu râuri și aerul cu aburi topiți și cu nori de apă.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 1,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Rugăciunea lui Manase 1 — comparație",
+    "text": "Cel ce ai făcut cerul și pământul cu toată podoaba lor, Cel ce ai legat marea cu cuvântul poruncii Tale, Cel ce ai închis adâncul și l-ai pecetluit cu numele Tău cel înfricoșător și preamărit,",
+    "src": {
+     "slug": "rugaciunea-manase",
+     "spec": {
+      "num": 1,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "2 Enoh 24 — comparație",
+    "text": "Și m-am închinat Domnului și Domnul mi-a vorbit: Enoh, iubitule, tot (ce) vezi, toate lucrurile care stau încheiate ți le spun chiar de la început, tot ce am creat din neființă și lucrurile vizibile (fizice) din cele nevăzute (duhovnicești). Ascultă, Enoh, și primește aceste cuvinte ale Mele, căci îngerilor Mei nu le-am spus taina Mea și nu le-am spus obârșia lor, nici împărăția Mea fără sfârșit, nici nu au înțeles lucrarea Mea de creație, pe care ți-o spun astăzi. Căci înainte ca toate lucrurile să fie vizibile (fizice), Eu singur umblam printre lucrurile nevăzute (duhovnicești), ca soarele de la răsărit la apus și de la apus la răsărit. Dar chiar și soarele are pace în sine, în timp ce Eu nu găseam pace, pentru că cream toate și m-am gândit să pun temelii și să creez creația vizibilă (fizică).",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 24,
+      "v": 2
+     }
+    }
    }
   ],
   "textCompare": [
@@ -585,6 +640,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Calvin, Comentarii la Facere",
     "text": "Nu voi stărui prea mult asupra acestor doi termeni, תהו (tohu) și בהו (bohu). Evreii îi folosesc când vor să arate ceva gol și amestecat, de nimic. Fără îndoială, Moise îi pune aici în opoziție cu tot ce ține de formă, podoabă și desăvârșirea lumii: dacă am lua acum de la pământ tot ce Dumnezeu a adăugat mai târziu, am rămâne cu acest haos necioplit și fără chip. Septuaginta redă expresia prin ἀκατασκεύαστος — „nevăzut și neîntocmit”."
+   },
+   {
+    "author": "4 Ezdra 6 — comparație",
+    "text": "Și atunci a fost duhul, și întuneric și tăcere erau de toate părțile; sunetul glasului omenesc nu era încă format.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 6,
+      "v": 39
+     }
+    }
    }
   ],
   "textCompare": [
@@ -851,6 +917,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 2 — comparație",
     "text": "Căci în ziua întâi a zidit cerurile care sunt deasupra, și pământul, și apele, și toate duhurile care slujesc înaintea Lui — îngerii prezenței, și îngerii sfințirii, și îngerii duhului focului, și îngerii duhului vânturilor, și îngerii duhului norilor, și ai întunericului, și ai zăpezii, și ai grindinei, și ai brumei, și îngerii glasurilor, și ai tunetului, și ai fulgerului, și îngerii duhurilor frigului și ai căldurii, și ai iernii, și ai primăverii, și ai toamnei, și ai verii, și ai tuturor duhurilor făpturilor Sale care sunt în ceruri și pe pământ; a zidit adâncurile și întunericul, amurgul și noaptea, și lumina, zorile și ziua, pe care le-a pregătit în cunoștința inimii Sale. Și atunci noi am văzut lucrările Lui, și L-am lăudat, și I-am cântat înaintea Lui pentru toate lucrările Lui; căci șapte lucrări mari a zidit El în ziua întâi."
+   },
+   {
+    "author": "4 Ezdra 6 — comparație",
+    "text": "Atunci ai poruncit să iasă o lumină frumoasă din vistieriile Tale, ca lucrarea Ta să se arate.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 6,
+      "v": 40
+     }
+    }
+   },
+   {
+    "author": "2 Enoh 25 — comparație",
+    "text": "Am poruncit în părțile cele mai de jos ca lucrurile vizibile (fizice) să coboare din cele nevăzute (duhovnicești) și Adoil a coborât foarte mare și l-am privit și iată! avea un pântece de lumină mare. Și i-am zis: Desfă-te, Adoil, și să iasă din tine (cele) vizibile (fizice). Și s-a desfăcut și a ieșit o lumină mare. Și Eu (eram) în mijlocul luminii celei mari și, precum se naște lumină din lumină, a ieșit un mare veac și a arătat toată creația, pe care mă gândisem s-o creez. Și am văzut că (era) bine. Și mi-am așezat un tron și m-am așezat pe el și am zis luminii: Du-te de acolo în sus și întărește-te sus deasupra tronului și fii temelie celor mai înalte lucruri.",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 25,
+      "v": 1
+     }
+    }
    }
   ],
   "textCompare": [
@@ -1327,7 +1415,8 @@ window.CHAPTER_DATA = [
    "Ioan 11:9",
    "Geneza 8:22",
    "Psalmul 19:2",
-   "Psalmul 74:16"
+   "Psalmul 74:16",
+   "Psalmul 104:20"
   ],
   "commentaries": [
    {
@@ -1415,6 +1504,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
     "text": "Dar Moise a spus că a fost o zi; pricina căreia aș putea s-o dau chiar și acum; dar pentru că am făgăduit să dau asemenea motive pentru toate lucrurile într-un tratat deosebit, voi amâna explicarea ei până atunci."
+   },
+   {
+    "author": "2 Enoh 27 — comparație",
+    "text": "Și am poruncit să se ia din lumină și întuneric și am zis: Îngroșați-vă și s-a făcut așa și am întins-o cu lumina și s-a făcut apă și am întins-o peste întuneric, sub lumină și apoi am întărit apele, adică prăpastia fără fund și am făcut temelie de lumină în jurul apei și am creat șapte cercuri dinăuntru și am plăsmuit (apa) ca cristalul, umed și uscat, adică precum sticla, (și) înconjurarea apelor și a celorlalte elemente și am arătat fiecăruia dintre ele calea lui și celor șapte stele fiecăreia dintre ele în cerul ei, ca să meargă astfel și am văzut că era bine. Și am despărțit între lumină și între întuneric, adică în mijlocul apei încoace și încolo și am zis luminii să fie ziua și întunericului să fie noaptea și a fost seară și a fost dimineață ziua întâi.",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 27,
+      "v": 1
+     }
+    }
    }
   ],
   "textCompare": [
@@ -1612,7 +1712,8 @@ window.CHAPTER_DATA = [
    "Proverbe 8:27-28",
    "Geneza 1:14",
    "Geneza 1:20",
-   "Geneza 7:11-12"
+   "Geneza 7:11-12",
+   "Geneza 1:14,20"
   ],
   "commentaries": [
    {
@@ -1961,7 +2062,9 @@ window.CHAPTER_DATA = [
    "Proverbe 8:27-29",
    "Iov 26:8",
    "Psalmul 104:10",
-   "Psalmul 148:4"
+   "Psalmul 148:4",
+   "Proverbe 8:28,29",
+   "Eclesiastul 11:3"
   ],
   "commentaries": [
    {
@@ -2034,6 +2137,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Cosmologia antică din tot Orientul Apropiat (inclusiv Egipt și Mesopotamia) concepea cerul ca pe o boltă solidă („tărie”) care ținea în loc o rezervă de ape de deasupra — de unde veneau ploile prin „ferestre” ale cerului (cf. Geneza 7:11, la potop). Aceasta nu e o particularitate biblică, ci imaginea de lume comună epocii, pe care textul o folosește ca vehicul, nu ca învățătură științifică de sine stătătoare."
+   },
+   {
+    "author": "4 Ezdra 6 — comparație",
+    "text": "În ziua a doua ai făcut duhul tăriei și i-ai poruncit să se despartă și să facă o despărțitură între ape, ca o parte să se suie, iar cealaltă să rămână dedesubt.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 6,
+      "v": 41
+     }
+    }
    }
   ],
   "textCompare": [
@@ -2630,6 +2744,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 2 — comparație",
     "text": "Și în ziua a treia a poruncit apelor să treacă de pe fața întregului pământ într-un loc, și uscatul să se arate. Și apele au făcut precum le-a poruncit, și s-au retras de pe fața pământului într-un loc, în afara tăriei acesteia, și uscatul s-a arătat."
+   },
+   {
+    "author": "4 Ezdra 6 — comparație",
+    "text": "În ziua a treia ai poruncit ca apele să se adune în a șaptea parte a pământului: șase părți le-ai uscat și le-ai păstrat, cu gândul ca dintre acestea unele, fiind sădite de Dumnezeu și lucrate, să Îți slujească.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 6,
+      "v": 42
+     }
+    }
    }
   ],
   "textCompare": [
@@ -2947,6 +3072,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Tertulian, Împotriva lui Hermogene 29",
     "text": "Și astfel, când mai apoi ajunge la desăvârșire, încetează să mai fie socotit pustiu, atunci când Dumnezeu zice: «Să dea pământul din sine verdeață, iarbă ce face sămânță, după soiul și asemănarea ei, și pomi roditori ce fac rod, cu sămânța în ei, după soiul lor.»"
+   },
+   {
+    "author": "2 Enoh 28 — comparație",
+    "text": "Și atunci am întărit cercul ceresc și am făcut ca apa de jos, care este sub cer, să se adune într-un singur întreg și ca haosul să devină uscat și a fost așa. Din valuri am creat stânca tare și mare și din stâncă am îngrămădit uscatul și uscatul l-am numit pământ și mijlocul pământului l-am numit abis, adică fără fund, am adunat marea într-un loc și am legat-o laolaltă cu un jug. Și am zis mării: Iată, îți dau hotarele (tale) veșnice și să nu te desprinzi de părțile tale componente. Astfel am întărit firmamentul. Această zi am numit-o ziua mea cea dintâi zidită [Duminica].",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 28,
+      "v": 1
+     }
+    }
    }
   ],
   "textCompare": [
@@ -3069,7 +3205,8 @@ window.CHAPTER_DATA = [
    "Geneza 2:5",
    "Iov 28:5",
    "Psalmul 147:8",
-   "Matei 6:30"
+   "Matei 6:30",
+   "Evrei 6:7"
   ],
   "commentaries": [
    {
@@ -3153,6 +3290,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
     "text": "În ziua a treia a rânduit ca uscatul să se arate, cu însăși marea împrejurul lui; și în aceeași zi a făcut ca plantele și semințele să răsară din pământ."
+   },
+   {
+    "author": "4 Ezdra 6 — comparație",
+    "text": "Căci îndată ce a ieșit cuvântul Tău, lucrarea s-a făcut. Căci îndată a fost rod mare și nenumărat, și multe și felurite desfătări pentru gust, și flori de culoare neschimbătoare, și miresme de miros minunat: și aceasta s-a făcut în ziua a treia.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 6,
+      "v": 43
+     }
+    }
    }
   ],
   "textCompare": [
@@ -3456,7 +3604,8 @@ window.CHAPTER_DATA = [
    "Matei 6:28-30",
    "Isaia 61:11",
    "Marcu 4:28",
-   "Isaia 55:10-11"
+   "Isaia 55:10-11",
+   "Isaia 55:10,11"
   ],
   "commentaries": [
    {
@@ -4027,6 +4176,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Scrisori 55",
     "text": "Toată lumea înțelege că e o mare deosebire între prezicerea astrologică și observarea stelelor ca fenomene ale firii — așa cum fac plugarii și corăbierii, ca să verifice zonele geografice sau să-și îndrepte drumul undeva; ori ca să lămurească vreun punct de învățătură, pomenind câte o stea ca ilustrare folositoare. E, deci, o mare deosebire între aceste obiceiuri practice și superstiția celor ce studiază stelele nu ca să prevadă vremea sau pentru pilde duhovnicești, ci ca să încerce să pătrundă în desfășurarea hotărâtă dinainte a întâmplărilor."
+   },
+   {
+    "author": "4 Ezdra 6 — comparație",
+    "text": "În ziua a patra ai poruncit ca soarele să strălucească, luna să-și dea lumina și stelele să fie în rânduială; și le-ai dat poruncă să slujească omului, care avea să fie făcut.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 6,
+      "v": 45
+     }
+    }
    }
   ],
   "textCompare": [
@@ -4634,6 +4794,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
     "text": "În ziua a patra a împodobit cerul cu soarele, cu luna și cu celelalte stele și le-a rânduit mișcările și cursurile, ca schimbarea anotimpurilor să fie arătată limpede."
+   },
+   {
+    "author": "2 Enoh 30 — comparație",
+    "text": "[Miercuri]. În ziua a patra am poruncit să fie luminători mari pe cercurile cerești. Pe primul cerc, cel mai de sus, am pus stelele, Kruno, și pe al doilea Afrodit, pe al treilea Aris, pe al cincilea Zoues, pe al șaselea Ermis, pe al șaptelea mai mic, luna, și am împodobit-o cu stelele mai mici. Și pe cel de jos am pus soarele pentru luminarea zilei și luna și stelele pentru luminarea nopții. Soarele să meargă după fiecare constelație, douăsprezece, și am rânduit succesiunea lunilor și numele lor și viețile lor, tunetele lor și măsurătorile lor de ore, cum să se succeadă.",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 30,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Odele lui Solomon 16 — comparație",
+    "text": "Și a făcut stelele spre slujba slujirii.",
+    "src": {
+     "slug": "odele-solomon",
+     "spec": {
+      "num": 16,
+      "v": 12
+     }
+    }
    }
   ],
   "textCompare": [
@@ -5452,7 +5634,9 @@ window.CHAPTER_DATA = [
    "Psalmul 104:24-26",
    "Geneza 1:21-22",
    "Geneza 2:19",
-   "Geneza 8:17"
+   "Geneza 8:17",
+   "Geneza 1:22",
+   "Psalmul 104:24,25"
   ],
   "commentaries": [
    {
@@ -5544,6 +5728,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
     "text": "Iar în ziua a cincea a scos la iveală viețuitoarele, atât pe cele care înoată, cât și pe cele care zboară: pe cele dintâi în mare, pe cele din urmă în aer; le-a orânduit și după societate și amestec, pentru înmulțire, ca soiurile lor să crească și să se înmulțească."
+   },
+   {
+    "author": "4 Ezdra 6 — comparație",
+    "text": "În ziua a cincea ai zis celei de-a șaptea părți, unde apele erau adunate, să scoată viețuitoare, păsări și pești: și așa a fost. Căci apa mută și fără viață a scos lucruri vii la porunca lui Dumnezeu, ca toate popoarele să laude lucrările Tale minunate.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 6,
+      "v": 47
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 1 — comparație",
+    "text": "Apoi a mai scos un neam: peștii în mări, păsările pentru vânturile ce suflă, fiarele păroase pentru păduri, balaurii târâtori și hâzi, și toate câte se văd acum. Pe acestea le-a făcut prin cuvântul Lui, și totul s-a săvârșit repede și bine. Căci El a existat singur, născut din Sine, și a privit din cer în jos; și lumea era desăvârșită.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 1,
+      "v": 4
+     }
+    }
    }
   ],
   "textCompare": [
@@ -5910,6 +6116,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 2 — comparație",
     "text": "Și în ziua a cincea a zidit monștri de mare mari în adâncurile apelor, căci acestea au fost cele dintâi lucruri de carne zidite de mâinile Lui, peștii și tot ce se mișcă în ape, și tot ce zboară — păsările și tot felul lor."
+   },
+   {
+    "author": "2 Enoh 30 — comparație",
+    "text": "Apoi a venit seara și a venit dimineața ziua a cincea. [Joi]. În ziua a cincea am poruncit mării să scoată pești și păsări înaripate de multe soiuri și toate animalele care se târăsc pe pământ, mergând pe pământ pe patru picioare și plutind în aer, de parte bărbătească și femeiască, și orice suflet care respiră duhul vieții.",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 30,
+      "v": 7
+     }
+    }
    }
   ],
   "textCompare": [
@@ -6620,7 +6837,8 @@ window.CHAPTER_DATA = [
    "Geneza 6:20",
    "Geneza 7:14",
    "Geneza 8:19",
-   "Iov 38:39-40"
+   "Iov 38:39-40",
+   "Iov 38:39,40"
   ],
   "commentaries": [
    {
@@ -6697,6 +6915,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
     "text": "În ziua a șasea a creat fiarele cu patru picioare și le-a făcut parte bărbătească și parte femeiască; în aceeași zi a întocmit și pe om."
+   },
+   {
+    "author": "4 Ezdra 6 — comparație",
+    "text": "În ziua a șasea ai dat poruncă pământului ca înaintea Ta să scoată fiare, vite și târâtoare;",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 6,
+      "v": 53
+     }
+    }
    }
   ],
   "textCompare": [
@@ -6979,7 +7208,8 @@ window.CHAPTER_DATA = [
    "Psalmul 148:10",
    "Geneza 2:19-20",
    "Iov 12:8-10",
-   "Iov 26:13"
+   "Iov 26:13",
+   "Geneza 2:19,20"
   ],
   "commentaries": [
    {
@@ -7438,6 +7668,72 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 2 — comparație",
     "text": "Și după toate acestea a zidit omul; bărbat și femeie i-a zidit, și i-a dat stăpânire peste tot ce este pe pământ, și în mări, și peste tot ce zboară, și peste fiare, și peste vite, și peste tot ce se mișcă pe pământ, și peste tot pământul; și peste toate acestea i-a dat stăpânire. Și aceste patru feluri le-a zidit în ziua a șasea."
+   },
+   {
+    "author": "Cartea Dreptului 1 — comparație",
+    "text": "Și Dumnezeu a spus: Să facem pe om după chipul nostru, după asemănarea noastră, și Dumnezeu l-a creat pe om după chipul Său.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 1,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Epistola lui Barnaba 6 — comparație",
+    "text": "Căci scriptura zice despre noi, cum zice Fiului; Să facem om după chipul nostru și după asemănarea noastră, și să stăpânească asupra fiarelor pământului și a păsărilor cerului și a peștilor mării. Și Domnul a zis când a văzut frumoasa creație a noastră a oamenilor; Creșteți și vă înmulțiți și umpleți pământul. Cuvintele acestea țin de Fiu.",
+    "src": {
+     "slug": "barnaba",
+     "spec": {
+      "num": 6,
+      "v": 12
+     }
+    }
+   },
+   {
+    "author": "Înțelepciunea lui Solomon 9 — comparație",
+    "text": "Dumnezeule al părinților și Domn al milei, Care ai făcut toate cu cuvântul Tău Și cu înțelepciunea Ta ai întocmit pe om, ca să stăpânească peste făpturile făcute de Tine Și să chivernisească lumea în sfințenie și dreptate și în dreptatea sufletului să judece,",
+    "src": {
+     "slug": "intelepciunea-lui-solomon",
+     "spec": {
+      "num": 9,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "4 Ezdra 6 — comparație",
+    "text": "și după acestea pe Adam, pe care l-ai făcut stăpân peste toate făpturile Tale: din el venim noi toți, și poporul pe care l-ai ales.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 6,
+      "v": 54
+     }
+    }
+   },
+   {
+    "author": "Odele lui Solomon 16 — comparație",
+    "text": "Și a făcut pe om după chipul Său, și i-a dat stăpânire.",
+    "src": {
+     "slug": "odele-solomon",
+     "spec": {
+      "num": 16,
+      "v": 13
+     }
+    }
+   },
+   {
+    "author": "2 Enoh 30 — comparație",
+    "text": "Și a venit seara și a venit dimineața ziua a șasea. [Vineri]. În ziua a șasea am poruncit înțelepciunii Mele să creeze pe om din șapte consistențe: una, carnea lui din pământ; două, sângele lui din rouă; trei, ochii lui din soare; patru, oasele lui din piatră; cinci, inteligența lui din iuțeala îngerilor și din nor; șase, venele lui și părul lui din iarba pământului; șapte, sufletul lui din suflarea Mea și din vânt. Și i-am dat șapte firi: cărnii auzul, ochilor vederea, sufletului mirosul, venelor pipăitul, sângelui gustul, oaselor răbdarea, inteligenței dulceața [desfătarea].",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 30,
+      "v": 9
+     }
+    }
    }
   ],
   "textCompare": [
@@ -7718,6 +8014,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
     "text": "Mai departe, Moise, după ce a trecut ziua a șaptea, începe să vorbească filosofic; și despre alcătuirea omului spune astfel: că Dumnezeu a luat țărână din pământ și a întocmit pe om și a pus în el un duh și un suflet. Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă cel roșu, pentru că a fost alcătuit din pământ roșu, frământat laolaltă; căci de acest fel este pământul fecioresc și adevărat. Dumnezeu a înfățișat, de asemenea, lui Adam viețuitoarele, după ce le făcuse, după soiurile lor, atât parte bărbătească, cât și parte femeiască, iar el le-a dat acele nume cu care ele se numesc și astăzi. Dar când a văzut că Adam nu avea nicio tovarășă femeie, nicio societate, căci nu fusese creată una, și că el se mira de celelalte animale care erau parte bărbătească și parte femeiască, l-a adormit și i-a luat una dintre coaste și din ea a întocmit pe femeie; după care Adam a cunoscut-o când i-a fost adusă și a recunoscut că a fost făcută din el însuși. Femeia se numește în limba ebraică Issa; dar numele acestei femei a fost Eva, ceea ce înseamnă mama tuturor celor vii."
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 17 — comparație",
+    "text": "Domnul a zidit pe om din pământ și iarăși l-a întors în el. Zile numărate și vreme i-a dat și le-a dat stăpânire asupra celor de pe el. După asemănarea Sa i-a îmbrăcat cu tărie și i-a făcut după chipul Său.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 17,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Înțelepciunea lui Solomon 2 — comparație",
+    "text": "Căci Dumnezeu a zidit pe om spre nestricăciune și l-a făcut după chipul veșniciei Sale.",
+    "src": {
+     "slug": "intelepciunea-lui-solomon",
+     "spec": {
+      "num": 2,
+      "v": 23
+     }
+    }
    }
   ],
   "textCompare": [
@@ -8119,8 +8437,26 @@ window.CHAPTER_DATA = [
     "text": "Dacă cineva ar întreba de ce a fost nevoie să i se facă omului un ajutor, răspunsul cel mai probabil pare a fi acela că era pentru nașterea de copii, așa cum pământul e un ajutor pentru sămânță, la producerea unei plante din unirea celor două. Acest scop a fost arătat chiar la crearea dintâi a lumii: «Bărbat și femeie i-a făcut. Și Dumnezeu i-a binecuvântat, și a zis: Creșteți și vă înmulțiți, umpleți pământul și-l stăpâniți.» Acest motiv al creării și unirii bărbatului cu femeia, ca și această binecuvântare, n-a fost desființat după păcatul și pedeapsa omului."
    },
    {
-    "author": "Cartea Jubileelor 2 — comparație",
-    "text": "Și după toate acestea a zidit omul; bărbat și femeie i-a zidit, și i-a dat stăpânire peste tot ce este pe pământ, și în mări, și peste tot ce zboară, și peste fiare, și peste vite, și peste tot ce se mișcă pe pământ, și peste tot pământul; și peste toate acestea i-a dat stăpânire. Și aceste patru feluri le-a zidit în ziua a șasea."
+    "author": "Cartea Dreptului 1 — comparație",
+    "text": "Și Dumnezeu i-a binecuvântat pe ei și i-a numit Adam și Eva în ziua în care El i-a creat pe ei, iar Domnul Dumnezeu a spus: Fiți roditori și înmulțiți-vă și umpleți pământul.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 1,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 17 — comparație",
+    "text": "A pus frica de el asupra a toată făptura și a dat-o să stăpânească fiarele și păsările.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 17,
+      "v": 4
+     }
+    }
    }
   ],
   "textCompare": [
@@ -8950,7 +9286,8 @@ window.CHAPTER_DATA = [
    "Psalmul 104:31",
    "Geneza 1:4",
    "Iov 38:7",
-   "Psalmul 19:1-2"
+   "Psalmul 19:1-2",
+   "Psalmul 19:1,2"
   ],
   "commentaries": [
    {

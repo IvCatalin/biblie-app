@@ -1,0 +1,2960 @@
+{
+ "H3": {
+  "heb": "אֵב",
+  "translit": "ʼêb",
+  "def_ro": "green plant",
+  "bdb_ro": "[אֵב] n.[m.] prospețime, verdeață proaspătă; concret, plural, lăstari verzi „în lăstarii pârâului” [Cânt. Cânt. 6:11]"
+ },
+ "H81": {
+  "heb": "אֲבָקָה",
+  "translit": "ʼăbâqâh",
+  "def_ro": "powder.",
+  "bdb_ro": "[אֲבָקָה sau אַבְקָה] n.f. probabil colectiv [Cânt. Cânt. 3:6] pulberi de negustor = pulberi mirositoare"
+ },
+ "H93": {
+  "heb": "אֱגוֹז",
+  "translit": "ʼĕgôwz",
+  "def_ro": "nut",
+  "bdb_ro": "אֱגוֹז n.[m.] nuci (colectiv)"
+ },
+ "H101": {
+  "heb": "אַגָּן",
+  "translit": "ʼaggân",
+  "def_ro": "bowl (ca pounded afară hollow)",
+  "bdb_ro": "[אַגָּן] n.[m.] blid, lighean (1) lighean folosit în ritual (2) asemănător curbelor trupului (3) figurat, familia lui Eliachim"
+ },
+ "H122": {
+  "heb": "אָדֹם",
+  "translit": "ʼâdôm",
+  "def_ro": "rosy",
+  "bdb_ro": "אָדֹם adj. roșu"
+ },
+ "H134": {
+  "heb": "אֶדֶן",
+  "translit": "ʼeden",
+  "def_ro": "basis (al building, column, etc...)",
+  "bdb_ro": "[אֶ֫דֶן] n.m. [Ex 26:19] piedestal, bază (1) piedestale de argint fin (2) piedestale de pământ pe care erau așezați stâlpii (3) piedestale de metal, socluri în care erau puse cepurile scândurilor și stâlpilor cortului — câte două pentru fiecare scândură și unul pentru fiecare stâlp"
+ },
+ "H157": {
+  "heb": "אָהַב",
+  "translit": "ʼâhab",
+  "def_ro": "a avea affection pentru (sexually sau otherwise)",
+  "bdb_ro": "אָהֵב vb. a iubi. Qal: (1) iubire omenească față de un om (2) mai rar, despre poftă (3) iubire față de Dumnezeu (4) mai ales la participiu (5) despre iubirea divină. Niph. participiu plural: „vrednici de iubit”. Pi.: (1) prieteni (2) iubiți"
+ },
+ "H160": {
+  "heb": "אַהֲבָה",
+  "translit": "ʼahăbâh",
+  "def_ro": "iubire.",
+  "bdb_ro": "אַהֲבָה n.f. dragoste"
+ },
+ "H168": {
+  "heb": "אֹהֶל",
+  "translit": "ʼôhel",
+  "def_ro": "tent (ca clearly conspicuous de la distance)",
+  "bdb_ro": "אֹ֫הֶל n.m. cort (1) cortul nomadului (2) locuință, sălaș (3) cortul sfânt, folosit în închinarea la Dumnezeu"
+ },
+ "H174": {
+  "heb": "אֲהָלִים",
+  "translit": "ʼăhâlîym",
+  "def_ro": "aloe wood (adică sticks)",
+  "bdb_ro": "[אהל] n.[m.] copac mirositor, aloe(?)"
+ },
+ "H176": {
+  "heb": "אוֹ",
+  "translit": "ʼôw",
+  "def_ro": "desire (si asa probabil în Proverbs 31:4); de aici (de cale al alternative) sau, de asemenea dacă",
+  "bdb_ro": "אוֹ conj. sau (1) uneori arătând preferință, aproape „sau mai degrabă” (2) introducând o propoziție, mai ales un caz particular sub un principiu general = „sau dacă” (3) „dacă, din întâmplare” (4) o singură dată, cu jussiv = „cu excepția”"
+ },
+ "H227": {
+  "heb": "אָז",
+  "translit": "ʼâz",
+  "def_ro": "la acela timp sau loc; de asemenea ca conjunction, therefore",
+  "bdb_ro": "אָז adv. în acel timp, atunci — fie exprimând durată, fie începutul unei acțiuni (= „de atunci încolo”) (1) strict temporal (2) exprimând o urmare logică"
+ },
+ "H251": {
+  "heb": "אָח",
+  "translit": "ʼâch",
+  "def_ro": "brother (folosit în cel mai larg sens al literal relationship si metaphorical affinity sau resemblance [like 1])",
+  "bdb_ro": "אָח n.m. frate (1) frate, născut din aceeași mamă (și tată) (2) nedefinit = rudă (3) figurat, despre asemănare (4) în expresia „unul... altul”"
+ },
+ "H259": {
+  "heb": "אֶחָד",
+  "translit": "ʼechâd",
+  "def_ro": "propriu-zis, united, adică unul; sau (ca ordinal) întâi",
+  "bdb_ro": "אֶחָד adj.num. unu (1) unu (2) = fiecare (3) = un anumit (4) = articol nehotărât (5) doar, și (la feminin) o dată (6) unul... altul, unul... celălalt (7) ca numeral ordinal, întâi (8) în combinații"
+ },
+ "H269": {
+  "heb": "אָחוֹת",
+  "translit": "ʼâchôwth",
+  "def_ro": "sister (folosit foarte widely [like 251number 250, corrected a 251], literal si figurat)",
+  "bdb_ro": "אָחוֹת n.f. soră (1) soră (2) = iubită (3) simbol pentru Iuda, Samaria, Sodoma și Ierusalim (4) figurat, despre o legătură strânsă (5) altă"
+ },
+ "H270": {
+  "heb": "אָחַז",
+  "translit": "ʼâchaz",
+  "def_ro": "a apuca (adesea cu accessory idea al holding în possession)",
+  "bdb_ro": "אָחַז vb. a apuca, a pune mâna pe, a lua în stăpânire. Qal: a apuca, a pune mâna pe. Niph.: a fi prins. Pi.: a înconjura, a placa. Hoph.: fixat, prins"
+ },
+ "H310": {
+  "heb": "אַחַר",
+  "translit": "ʼachar",
+  "def_ro": "propriu-zis, hind parte; în general folosit ca adverb sau conjunction, după (în various sensuri)",
+  "bdb_ro": "אַחַר propriu substantiv. partea din spate sau care urmează (1) adverb (a) de loc, în spate (b) de timp, după aceea (2) prepoziție (a) de loc, în spatele, după (b) de timp, după (3) conjuncție, după aceea"
+ },
+ "H349": {
+  "heb": "אֵיךְ",
+  "translit": "ʼêyk",
+  "def_ro": "how? sau how!; de asemenea unde",
+  "bdb_ro": "אֵיךְ adv. (1) interogativ, cum? (2) ca exclamație, cum!"
+ },
+ "H354": {
+  "heb": "אַיָּל",
+  "translit": "ʼayâl",
+  "def_ro": "stag sau male deer",
+  "bdb_ro": "אַיָּל n.[m.] (f. [Ps 42:2]) cerb, cerb bărbat"
+ },
+ "H355": {
+  "heb": "אַיָּלָה",
+  "translit": "ʼayâlâh",
+  "def_ro": "doe sau female deer",
+  "bdb_ro": "אַיָּלָה n.f. cerboaică, căprioară"
+ },
+ "H366": {
+  "heb": "אָיֹם",
+  "translit": "ʼâyôm",
+  "def_ro": "frightful",
+  "bdb_ro": "אָיֹם adj. cumplit, înfricoșător"
+ },
+ "H369": {
+  "heb": "אַיִן",
+  "translit": "ʼayin",
+  "def_ro": "nonentity; în general folosit ca negative particle",
+  "bdb_ro": "אַ֫יִן, אָ֑֫יִן construct. אֵין substantiv. propriu, nimic, nu-ființă (1) la nimic, ca nimic (2) la forma construct, foarte des ca particulă de negație, „nu este”, „nu sunt”, „nu era”, „nu erau” (3) „nu este pentru...”, cu substantiv sau pronume, „nu are” etc. (4) în propoziții circumstanțiale (5) cu infinitiv și „le”, „aceasta nu-i pentru a...” (6) cu prefixe"
+ },
+ "H376": {
+  "heb": "אִישׁ",
+  "translit": "ʼîysh",
+  "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si în such cases frequently nu expressed în translation)",
+  "bdb_ro": "אִישׁ n.m. om (= vir, bărbat)"
+ },
+ "H398": {
+  "heb": "אָכַל",
+  "translit": "ʼâkal",
+  "def_ro": "a mânca (literal sau figurat)",
+  "bdb_ro": "אָכַל vb. a mânca. Qal: (1) a mânca, subiect uman (2) despre fiare, păsări etc., a mânca, a devora (3) figurat, despre foc, a devora, a mistui (4) despre sabie, a devora, a ucide (5) în general, a devora, a mistui, a nimici (6) figurat, despre asuprire, a devora pe sărac. Niph.: (1) a fi mâncat de om (2) a fi devorat de foc, mistuit (3) a fi risipit, nimicit, despre carne. Pu.: a fi mistuit. Hiph.: (1) a face să mănânce, a hrăni cu (2) a face să devoreze, obiect sabia"
+ },
+ "H408": {
+  "heb": "אַל",
+  "translit": "ʼal",
+  "def_ro": "nu ( qualified negation, folosit ca deprecative); once (Job 24:25) ca substantiv, nothing",
+  "bdb_ro": "אַל adv. de negație, care nu neagă un fapt în mod obiectiv, ci exprimă subiectiv o dorință — arătând astfel dezaprobare sau interdicție"
+ },
+ "H413": {
+  "heb": "אֵל",
+  "translit": "ʼêl",
+  "def_ro": "aproape, cu sau printre; adesea în general, a",
+  "bdb_ro": "אֶל (aproape mereu urmat de Makkeph), prepoziție care arată mișcare spre sau direcție înspre (fie fizică, fie mentală) (1) mișcare spre sau către o persoană sau un loc (2) unde limita e chiar atinsă, „în” (3) direcție spre orice (4) unde mișcarea sau direcția arătată de context are caracter ostil, „împotriva” (5) uneori capătă din context sensul de „pe lângă” (6) figurat, „cu privire la”, „referitor la”, „din pricina” (7) despre o regulă sau normă, „conform cu” (rar) (8) exprimând prezența într-un loc, „împotriva”, „la”, „lângă” (9) alăturat altor prepoziții, combină cu ele ideea de mișcare sau direcție spre"
+ },
+ "H505": {
+  "heb": "אֶלֶף",
+  "translit": "ʼeleph",
+  "def_ro": "de aici ( ox's head ființă întâi letter al alphabet, si acesta eventually folosit ca numeral) thousand",
+  "bdb_ro": "אֶ֫לֶף n.m. mie"
+ },
+ "H517": {
+  "heb": "אֵם",
+  "translit": "ʼêm",
+  "def_ro": "mother (ca bond al family); în larg sens (amândouă literal si figurat [like father])",
+  "bdb_ro": "אֵם n.f. mamă (1) propriu, mamă (a unui om) (2) figurat, despre Debora, care poartă grijă de poporul ei (3) despre animale, mamă (femelă) (4) = punct de plecare sau despărțire"
+ },
+ "H518": {
+  "heb": "אִם",
+  "translit": "ʼim",
+  "def_ro": "folosit foarte widely ca demonstrative, lo!; interrogative, dacă?; sau conditional, dacă, although; de asemenea Oh acela!, cand; de aici, ca negative, nu",
+  "bdb_ro": "אִם conj. (1) particulă condițională, dacă (2) particulă interogativă"
+ },
+ "H542": {
+  "heb": "אָמָן",
+  "translit": "ʼâmân",
+  "def_ro": "expert",
+  "bdb_ro": "אָמָּן n.m. meșter iscusit, artist [Cânt. Cânt. 7:2]"
+ },
+ "H549": {
+  "heb": "אֲמָנָה",
+  "translit": "ʼĂmânâh",
+  "def_ro": "Amanah, munte aproape Damascus",
+  "bdb_ro": "אֲמָנָה n.pr.fl. (1) râu ce curge din Antiliban în câmpia Damascului [2 Regi 5:12] (2) regiunea din care izvorăște [Cânt. Cânt. 4:8]"
+ },
+ "H559": {
+  "heb": "אָמַר",
+  "translit": "ʼâmar",
+  "def_ro": "a zice (folosit cu mare latitude)",
+  "bdb_ro": "אָמַר vb. a rosti, a zice. Qal: (1) a zice (2) a zice în inimă (= a gândi) (3) a făgădui (4) a porunci (mai ales târziu). Niph.: a fi zis, spus. Hiph.: a declara, a mărturisi (propriu, a face să declare). Hithp.: a se purta cu mândrie, a se lăuda"
+ },
+ "H575": {
+  "heb": "אָן",
+  "translit": "ʼân",
+  "def_ro": "unde?; de aici, whither?, cand?; de asemenea hither si thither",
+  "bdb_ro": "אָן adv. unde? sau spre unde?"
+ },
+ "H589": {
+  "heb": "אֲנִי",
+  "translit": "ʼănîy",
+  "def_ro": "I",
+  "bdb_ro": "אֲנִי, אָ֑נִי pron. 1s. comm. eu"
+ },
+ "H631": {
+  "heb": "אָסַר",
+  "translit": "ʼâçar",
+  "def_ro": "a yoke sau hitch; de analogy, a prinde în orice sens, a join lupta",
+  "bdb_ro": "[אָסַר] vb. a lega, a strânge, a întemnița. Qal: (1) a lega, pentru siguranță (2) a lega, a înhăma (3) a lega cu funii (4) a încinge (rar și târziu) (5) a începe o luptă, a ataca (6) figurat, despre obligația unui jurământ sau legământ. Niph.: a fi legat, întemnițat. Pu.: a fi luat prizonier"
+ },
+ "H637": {
+  "heb": "אַף",
+  "translit": "ʼaph",
+  "def_ro": "sens accession (folosit ca adverb sau conjunction); de asemenea sau yea; adversatively though",
+  "bdb_ro": "אַף conj. care arată adăugare, mai ales despre ceva mai important, „și încă”, „da”"
+ },
+ "H639": {
+  "heb": "אַף",
+  "translit": "ʼaph",
+  "def_ro": "propriu-zis, nose sau nostril; de aici, face, si occasionally persoana; de asemenea (de la rapid breathing în passion) ire",
+  "bdb_ro": "אַף n.m. nară, nas, față, mânie (1) nară, ca organ al respirației (2) în Daniel, față (3) cel mai adesea, mânie"
+ },
+ "H650": {
+  "heb": "אָפִיק",
+  "translit": "ʼâphîyq",
+  "def_ro": "propriu-zis, containing, adică tube; de asemenea bed sau valley al stream; de asemenea tare lucru sau hero",
+  "bdb_ro": "[אָפִיק] n.m. albie (ca ceva ce ține, mărginește apa; poetic)"
+ },
+ "H668": {
+  "heb": "אַפִּרְיוֹן",
+  "translit": "ʼappiryôwn",
+  "def_ro": "palanquin",
+  "bdb_ro": "אַפִּרְיוֹן n.[m.] lectică, targă acoperită, palanchin [Cânt. Cânt. 3:9]"
+ },
+ "H676": {
+  "heb": "אֶצְבַּע",
+  "translit": "ʼetsbaʻ",
+  "def_ro": "ceva a sieze cu, adică finger; de analogy, toe",
+  "bdb_ro": "אֶצְבַּע n.f. deget"
+ },
+ "H713": {
+  "heb": "אַרְגָּמָן",
+  "translit": "ʼargâmân",
+  "def_ro": "purple ( color sau dyed stuff)",
+  "bdb_ro": "אַרְגָּמָן n.[m.] purpuriu, roșu-purpuriu, adică fir și pânză purpurie"
+ },
+ "H717": {
+  "heb": "אָרָה",
+  "translit": "ʼârâh",
+  "def_ro": "a pluck",
+  "bdb_ro": "[אָרָה] vb. a culege, a aduna"
+ },
+ "H730": {
+  "heb": "אֶרֶז",
+  "translit": "ʼerez",
+  "def_ro": "cedar pom (de la tenacity al al sau roots)",
+  "bdb_ro": "אֶ֫רֶז n.m. cedru (1) cedrul, ca arbore (2) lemn de cedru, folosit la construcție (3) lemn de cedru folosit la curățire"
+ },
+ "H738": {
+  "heb": "אֲרִי",
+  "translit": "ʼărîy",
+  "def_ro": "lion",
+  "bdb_ro": "אֲרִי n.m. leu"
+ },
+ "H776": {
+  "heb": "אֶרֶץ",
+  "translit": "ʼerets",
+  "def_ro": "pământ (la mare, sau partitively țară)",
+  "bdb_ro": "אֶרֶץ substantiv feminin (rar masculin). pământ, țară (1) (a) pământ, tot pământul (opus unei părți) (b) pământ, opus cerului (c) pământ = locuitorii pământului (2) țară"
+ },
+ "H784": {
+  "heb": "אֵשׁ",
+  "translit": "ʼêsh",
+  "def_ro": "foc (literal sau figurat)",
+  "bdb_ro": "אֵשׁ n.f. foc (1) foc, incendiu (2) foc supranatural (3) foc pentru gătit, fript, pârjolit (4) mai ales, focul de pe altar (5) figurat, mânia lui YHWH (6) în diverse combinații"
+ },
+ "H802": {
+  "heb": "אִשָּׁה",
+  "translit": "ʼishshâh",
+  "def_ro": "femeie",
+  "bdb_ro": "אִשָּׁה n.f. femeie, soție, ființă de parte femeiască (1) femeie (2) soție (3) femelă la animale (4) cu sens distributiv și reciproc, fiecare femeie față de vecina ei; fiecare una"
+ },
+ "H809": {
+  "heb": "אֲשִׁישָׁה",
+  "translit": "ʼăshîyshâh",
+  "def_ro": "ceva closely pressed împreună, adică cake al raisins sau alt comfits",
+  "bdb_ro": "אֲשִׁישָׁה n.f. turtă (presată) de stafide [Isaia 16:7]"
+ },
+ "H811": {
+  "heb": "אֶשְׁכּוֹל",
+  "translit": "ʼeshkôwl",
+  "def_ro": "bunch al grapes sau alt rod",
+  "bdb_ro": "אֶשְׁכּוֹל n.m. ciorchine (1) ciorchine de struguri (2) ciorchine de flori de hena"
+ },
+ "H833": {
+  "heb": "אָשַׁר",
+  "translit": "ʼâshar",
+  "def_ro": "a fi drept (folosit în cel mai larg sens, în special a fi level, drept, happy); figurat, a merge forward, fi honest, prosper",
+  "bdb_ro": "[אָשַׁר] vb. a merge drept, a înainta. Qal: a merge drept pe calea înțelegerii. Pi.: (1) intensiv, a merge drept înainte, a înainta (2) cauzativ, a călăuzi (3) a îndrepta, a face drept (4) a numi fericit, a ferici. Pu.: (1) a fi călăuzit (2) a fi făcut fericit, ferice"
+ },
+ "H834": {
+  "heb": "אֲשֶׁר",
+  "translit": "ʼăsher",
+  "def_ro": "care, care, ce, acela; de asemenea (ca adverb si conjunction) cand, unde, how, pentru ca, în order acela, etc...",
+  "bdb_ro": "אֲשֶׁר particulă relativă, semnul relației, care leagă o propoziție introdusă de ea de propoziția antecedentă"
+ },
+ "H853": {
+  "heb": "אֵת",
+  "translit": "ʼêth",
+  "def_ro": "propriu-zis, self (dar în general folosit a point afară mai definitely object al verb sau preposition, chiar sau namely)",
+  "bdb_ro": "אֵת semnul acuzativului, adăugat de regulă doar înaintea substantivelor hotărâte"
+ },
+ "H854": {
+  "heb": "אֵת",
+  "translit": "ʼêth",
+  "def_ro": "propriu-zis, nearness (folosit numai ca preposition sau adverb), aproape; de aici, în general, cu, de, la, printre, etc...",
+  "bdb_ro": "אֵת prepoziție care arată apropierea (1) tovărășie, împreună cu (2) despre locuri (3) „et p” arată mai ales (a) în stăpânirea sau păstrarea cuiva (b) în cunoștința sau amintirea cuiva (4) „me'et” = de la apropierea cu"
+ },
+ "H859": {
+  "heb": "אַתָּה",
+  "translit": "ʼattâh",
+  "def_ro": "tu si ție, sau (plural) ye si you",
+  "bdb_ro": "אַתָּ֫ה, אָ֑תָּה pron. 2s. m. tu"
+ },
+ "H875": {
+  "heb": "בְּאֵר",
+  "translit": "bᵉʼêr",
+  "def_ro": "pit; în special bine",
+  "bdb_ro": "בְּאֵר n.f. [Gen 26:21] fântână, groapă (1) fântână, adesea săpată (2) groapă (3) ca nume de loc: (a) popas al Israelului în pustie (b) la 8 mile nord de Eleutheropolis"
+ },
+ "H935": {
+  "heb": "בּוֹא",
+  "translit": "bôwʼ",
+  "def_ro": "a merge sau veni (în larg felurime al aplicații)",
+  "bdb_ro": "בּוֹא vb. a intra, a veni, a merge înăuntru, a merge. Qal: (1) a intra (2) a veni, a se apropia, a sosi (3) a merge, adică a umbla, a se asocia cu (4) a merge de la vorbitor, dar cu limita mișcării dată. Hiph.: (1) a face să intre, a aduce înăuntru (2) a face să vină, a aduce, a apropia etc. Hoph.: (a) a fi adus înăuntru (b) a fi adus (c) a fi introdus, pus"
+ },
+ "H936": {
+  "heb": "בּוּז",
+  "translit": "bûwz",
+  "def_ro": "a disrespect",
+  "bdb_ro": "[בּוּז] vb. a disprețui"
+ },
+ "H977": {
+  "heb": "בָּחַר",
+  "translit": "bâchar",
+  "def_ro": "propriu-zis, a încerca, adică (de implicatie) select",
+  "bdb_ro": "בָּחַר vb. a alege. Qal: (1) cu „be” (a) alegere divină (b) alegerea omului (2) cu „asher” (a) alegere divină (b) alegerea omului (3) cu acuzativ și „le”, a alege pe cineva sau ceva pentru (4) cu acuzativ și „min”, a alege, a selecta din (5) acuzativ (a) alegere divină (b) alegerea omului (6) cu „al”, „de aceea ai ales mai degrabă decât suferința” (7) cu „le” al acuzativului, ales (8) a încerca, a pune la probă. Niph.: a fi ales. Pu.: ales, selectat"
+ },
+ "H990": {
+  "heb": "בֶּטֶן",
+  "translit": "beṭen",
+  "def_ro": "belly, în special womb; de asemenea bosom sau trup al anything",
+  "bdb_ro": "בֶּ֫טֶן n.f. pântece, trup, mitru"
+ },
+ "H996": {
+  "heb": "בֵּין",
+  "translit": "bêyn",
+  "def_ro": "între (repeated înainte fiecare substantiv, adesea cu alt particles); de asemenea ca conjunction, either...sau",
+  "bdb_ro": "בַּ֫יִן substantiv. propriu, interval, spațiu între (1) aproape întotdeauna (cu excepția dualului) ca prepoziție, „în intervalul”, „între” (2) la dual, spațiul dintre două oștiri"
+ },
+ "H1004": {
+  "heb": "בַּיִת",
+  "translit": "bayith",
+  "def_ro": "casa (în greatest variation al aplicații, în special family, etc...)",
+  "bdb_ro": "בַּ֫יִת n.m. casă"
+ },
+ "H1121": {
+  "heb": "בֵּן",
+  "translit": "bên",
+  "def_ro": "fiu (ca builder al family nume), în cel mai larg sens (al literal si figurat relationship, including grandson, subiect, neam, quality sau condition, etc..., (ca tată sau brother), etc...)",
+  "bdb_ro": "בֵּן n.m. fiu (1) fiu, copil de parte bărbătească, născut din femeie (2) copii (de parte bărbătească și femeiască) (3) tinerețe, tineri bărbați (4) pui de animal (5) mlădițe ale unei plante (6) figurat, despre lucruri neînsuflețite: scântei, stele, săgeți (7) (a) membru al unei bresle, ordin sau clase (b) despre animale, pui al unei turme (8) „fiu al...” ca expresie relativă, urmată de un cuvânt ce arată o calitate, o caracteristică etc. (9) expresie relativă despre vârstă"
+ },
+ "H1129": {
+  "heb": "בָּנָה",
+  "translit": "bânâh",
+  "def_ro": "a build (literal si figurat)",
+  "bdb_ro": "בָּנָה vb. a zidi, a construi. Qal: a zidi. Niph.: (1) (a) a fi zidit (b) a fi rezidit (2) (a) (figurat) despre restaurarea celor izgoniți, = a fi întemeiat (b) întemeiat, făcut statornic"
+ },
+ "H1157": {
+  "heb": "בְּעַד",
+  "translit": "bᵉʻad",
+  "def_ro": "în sus a sau peste împotriva; în general la, beside, printre, behind, pentru, etc...",
+  "bdb_ro": "בַּ֫עַד substantiv. propriu, despărțire, cu genitiv, în despărțire de; în uz, prepoziție: departe de, în spatele, în jurul, în numele"
+ },
+ "H1174": {
+  "heb": "בַּעַל הָמוֹן",
+  "translit": "Baʻal Hâmôwn",
+  "def_ro": "Baal-Hamon, loc în Palestine",
+  "bdb_ro": "בַ֫עַל הָמוֹן n.pr.loc. (stăpânul belșugului) [Cânt. Cânt. 8:11]"
+ },
+ "H1245": {
+  "heb": "בָּקַשׁ",
+  "translit": "bâqash",
+  "def_ro": "a search afară (de orice method, în special în worship sau prayer); de implicatie, a strive după",
+  "bdb_ro": "[בָּקַשׁ] vb. a căuta. Pi.: (1) a căuta ca să găsești (2) a căuta ca să obții (3) a căuta fața (cuiva) (4) a dori, a cere (5) (a) a pretinde, a cere ferm (b) a cere echivalentul sau pedeapsa pentru (6) (târziu) a întreba, a cere. Pu.: a fi căutat"
+ },
+ "H1249": {
+  "heb": "בַּר",
+  "translit": "bar",
+  "def_ro": "beloved; de asemenea pure, empty",
+  "bdb_ro": "בַּר adj. curat, limpede (1) curat, limpede (2) curat (3) poate adverb, sărut curat, ca omagiu sincer"
+ },
+ "H1266": {
+  "heb": "בְּרוֹת",
+  "translit": "bᵉrôwth",
+  "def_ro": "cypress (sau some elastic pom)",
+  "bdb_ro": "[בְּרוֹת] n.m. (același sens ca rădăcina „chiparos”) [Cânt. Cânt. 1:17]; se referă la un umbrar de copaci ca locuință a lor"
+ },
+ "H1272": {
+  "heb": "בָּרַח",
+  "translit": "bârach",
+  "def_ro": "a bolt, adică figurat, a flee suddenly",
+  "bdb_ro": "בָּרַח vb. a trece prin, a fugi. Qal: (1) a trece sau a pătrunde prin, despre un zăvor (2) a fugi (3) a fugi = a se grăbi, a veni repede. Hiph.: (1) a face să treacă prin (2) a face să fugă, a pune pe fugă"
+ },
+ "H1295": {
+  "heb": "בְּרֵכָה",
+  "translit": "bᵉrêkâh",
+  "def_ro": "reservoir (la care camels kneel ca resting-loc)",
+  "bdb_ro": "בְּרֵכָה n.f. eleșteu, iaz"
+ },
+ "H1313": {
+  "heb": "בָּשָׂם",
+  "translit": "bâsâm",
+  "def_ro": "balsam plant",
+  "bdb_ro": "בֹּ֫שֶׂם n.m. mirodenie, balsam, arbore de balsam"
+ },
+ "H1314": {
+  "heb": "בֶּשֶׂם",
+  "translit": "besem",
+  "def_ro": "fragrance; de implicatie, spicery; de asemenea balsam plant",
+  "bdb_ro": "בֹּ֫שֶׂם n.m. mirodenie, balsam, arbore de balsam"
+ },
+ "H1323": {
+  "heb": "בַּת",
+  "translit": "bath",
+  "def_ro": "fiica (folosit în acelasi larg sens ca alt terms al relationship, literal si figurat)",
+  "bdb_ro": "בַּת n.f. fiică (1) fiică, copil de parte femeiască (2) tinere femei, femei (3) cu numele unei cetăți, țări sau popor, personificare poetică a acelei cetăți sau a locuitorilor ei (4) la plural = sate, după numele unei cetăți (5) în expresii ce arată caracter, calitate etc. (6) struț (7) figurat (8) despre viță de vie = ramură (9) ca expresie relativă"
+ },
+ "H1336": {
+  "heb": "בֶּתֶר",
+  "translit": "Bether",
+  "def_ro": "Bether, (craggy) loc în Palestine",
+  "bdb_ro": "[בֶ֫תֶר] n.m. parte, bucată (1) totdeauna despre jumătățile de animale tăiate în două la încheierea legămintelor (2) munți tăiați, adică munți despicați"
+ },
+ "H1337": {
+  "heb": "בַּת רַבִּים",
+  "translit": "Bath Rabbîym",
+  "def_ro": "fiica (adică cetate) al Rabbah",
+  "bdb_ro": "בַּת־רַבִּים n.pr.loc. (fiica mulțimilor) numele dat cetății populate a Hesbonului, sau porții ei, [Cânt. Cânt. 7:5]"
+ },
+ "H1368": {
+  "heb": "גִּבּוֹר",
+  "translit": "gibbôwr",
+  "def_ro": "puternic; de implicatie, warrior, tyrant",
+  "bdb_ro": "גִּבּוֹר adj. tare, puternic"
+ },
+ "H1389": {
+  "heb": "גִּבְעָה",
+  "translit": "gibʻâh",
+  "def_ro": "hillock",
+  "bdb_ro": "גִּבְעָה n.f. deal"
+ },
+ "H1429": {
+  "heb": "גְּדִיָּה",
+  "translit": "gᵉdîyâh",
+  "def_ro": "tânăr female goat",
+  "bdb_ro": "[גְּדִיָּה] n.f. numai plural, iezi [Cânt. Cânt. 1:8]"
+ },
+ "H1523": {
+  "heb": "גִּיל",
+  "translit": "gîyl",
+  "def_ro": "propriu-zis, a spin round (sub influence al orice violent emotion), adică de obicei rejoice, sau (ca cringing) fear",
+  "bdb_ro": "[גִּיל] vb. a se bucura (propriu, a se învârti sau a fi zguduit de veselie). Qal: (1) a se bucura (2) a tremura"
+ },
+ "H1530": {
+  "heb": "גַּל",
+  "translit": "gal",
+  "def_ro": "ceva rolled, adică heap al piatră sau dung (plural ruins), de analogy, spring al apa (plural waves)",
+  "bdb_ro": "גַּל n.m. grămadă, val (1) grămadă de pietre (2) valuri, talazuri (poetic) (3) izvor"
+ },
+ "H1550": {
+  "heb": "גָּלִיל",
+  "translit": "gâlîyl",
+  "def_ro": "valve al folding door (ca turning); de asemenea ring (ca round)",
+  "bdb_ro": "[גָּלִיל] adj. rotitor, pliant (= care se învârte)"
+ },
+ "H1568": {
+  "heb": "גִּלְעָד",
+  "translit": "Gilʻâd",
+  "def_ro": "Gilad, region East al Jordan; de asemenea nume al three Israelites",
+  "bdb_ro": "גִּלְעָד n.pr.loc. lanț muntos sau ținut deluros, țară și cetate, la răsărit de Iordan (1) teritoriul la sud de Iaboc (2) Galaadul de nord (3) mai general, tot Galaadul (4) numele unei cetăți (5) al israeliților care locuiesc la răsărit de Iordan (ca întreg) (6) tratat ca nume propriu de bărbat"
+ },
+ "H1570": {
+  "heb": "גָּלַשׁ",
+  "translit": "gâlash",
+  "def_ro": "probabil a caper (ca goat)",
+  "bdb_ro": "[גָּלַשׁ] vb. a ședea, a ședea sus, poate și a se odihni întins"
+ },
+ "H1571": {
+  "heb": "גַּם",
+  "translit": "gam",
+  "def_ro": "propriu-zis, assemblage; folosit numai adverbially de asemenea, chiar, yea, though; adesea repeated ca correl. amândouă...si",
+  "bdb_ro": "גַּם adv. care arată adăugare, de asemenea, mai mult, da"
+ },
+ "H1588": {
+  "heb": "גַּן",
+  "translit": "gan",
+  "def_ro": "garden (ca fenced)",
+  "bdb_ro": "גַּן n.m. & f. incintă, grădină"
+ },
+ "H1594": {
+  "heb": "גִּנָּה",
+  "translit": "ginnâh",
+  "def_ro": "garden.",
+  "bdb_ro": "גַּנָּה n.f. grădină — grădină, livadă"
+ },
+ "H1612": {
+  "heb": "גֶּפֶן",
+  "translit": "gephen",
+  "def_ro": "vine (ca twining), în special grape",
+  "bdb_ro": "גֶּ֫פֶן n.f. viță"
+ },
+ "H1653": {
+  "heb": "גֶּשֶׁם",
+  "translit": "geshem",
+  "def_ro": "shower",
+  "bdb_ro": "גֶּ֫שֶׁם n.m. ploaie, aversă"
+ },
+ "H1680": {
+  "heb": "דָּבַב",
+  "translit": "dâbab",
+  "def_ro": "a move slowly, adică glide",
+  "bdb_ro": "[דָּבַב] vb. a se mișca ușor, a aluneca, a curge peste [Cânt. Cânt. 7:10]"
+ },
+ "H1696": {
+  "heb": "דָבַר",
+  "translit": "dâbar",
+  "def_ro": "poate propriu-zis, a arrange; dar folosit figurat (al words), a vorbi; rar (în destructive sens) a subdue",
+  "bdb_ro": "[דָבַר] vb. a vorbi (sensul original nesigur). Qal: a vorbi. Niph.: sens reciproc, a vorbi unul cu altul, a discuta. Pi.: a vorbi. Pu.: în ziua când ea poate fi vorbită pentru [căsătorie]. Hithp.: a vorbi acest cuvânt. Hiph.: fie conduce subiectul, fie îl pune pe fugă, figurat, pentru a supune"
+ },
+ "H1706": {
+  "heb": "דְּבַשׁ",
+  "translit": "dᵉbash",
+  "def_ro": "honey (de la al sau stickiness); de analogy, syrup",
+  "bdb_ro": "דְּבַשׁ n.m. miere"
+ },
+ "H1713": {
+  "heb": "דָּגַל",
+  "translit": "dâgal",
+  "def_ro": "a flaunt, adică raise flag; figurat, a fi conspicuous",
+  "bdb_ro": "[דָּגַל] vb. a privi, a lua aminte [Cânt. Cânt. 5:10]"
+ },
+ "H1714": {
+  "heb": "דֶּגֶל",
+  "translit": "degel",
+  "def_ro": "flag",
+  "bdb_ro": "[דֶּ֫גֶל] n.m. steag, flamură"
+ },
+ "H1730": {
+  "heb": "דּוֹד",
+  "translit": "dôwd",
+  "def_ro": "(figurat) a iubire; de implicatie, iubire-token, lover, friend; în special uncle",
+  "bdb_ro": "דּוֹד n.m. iubit, dragoste (la plural), unchi"
+ },
+ "H1732": {
+  "heb": "דָּוִד",
+  "translit": "Dâvid",
+  "def_ro": "David, youngest fiu al Jesse",
+  "bdb_ro": "דָּוִד, דָּוִיד n.pr.m. David"
+ },
+ "H1736": {
+  "heb": "דּוּדַי",
+  "translit": "dûwday",
+  "def_ro": "boiler sau basket; de asemenea mandrake (ca aphrodisiac)",
+  "bdb_ro": "[דּוּדַי] n.m. mandragoră — pe lângă דּוּדָאֵי, vase, coșuri, vezi דּוּד"
+ },
+ "H1801": {
+  "heb": "דָּלַג",
+  "translit": "dâlag",
+  "def_ro": "a spring",
+  "bdb_ro": "[דָּלַג] vb. a sări. Qal: a sări. Pi.: a sări, a sări peste"
+ },
+ "H1803": {
+  "heb": "דַּלָּה",
+  "translit": "dallâh",
+  "def_ro": "propriu-zis, ceva dangling, adică slobod thread sau hair; figurat, indigent",
+  "bdb_ro": "דַּלָּה n.f. colectiv. păr, ciucur"
+ },
+ "H1817": {
+  "heb": "דֶּלֶת",
+  "translit": "deleth",
+  "def_ro": "ceva swinging, adică valve al door",
+  "bdb_ro": "[דָּל] n.[m.] ușă, numai figurat: [Ps 141:3]"
+ },
+ "H1819": {
+  "heb": "דָּמָה",
+  "translit": "dâmâh",
+  "def_ro": "a compara; de implicatie, a resemble, liken, consider",
+  "bdb_ro": "דָּמָה vb. a fi asemenea, a semăna. Qal: a fi asemenea, a semăna. Pi.: a asemăna, a compara; a-și închipui, a gândi, a plănui (1) a asemăna, adică a socoti ca fiind la fel, a compara (2) a-și închipui, a-și forma o idee, a plănui. Hithp.: a se face sau a deveni asemenea"
+ },
+ "H1834": {
+  "heb": "דַּמֶּשֶׂק",
+  "translit": "Dammeseq",
+  "def_ro": "Damascus, cetate al Syria",
+  "bdb_ro": "דַּמֶּ֫שֶׂק n.pr.loc. Damasc"
+ },
+ "H1849": {
+  "heb": "דָּפַק",
+  "translit": "dâphaq",
+  "def_ro": "a knock; de analogy, a press severely",
+  "bdb_ro": "[דָּפַק] vb. a bate, a ciocăni. Qal: a bate (mânând, a mâna cu asprime sau cruzime). Hithp.: a bate cu putere (a se istovi bătând) la ușă"
+ },
+ "H1931": {
+  "heb": "הוּא",
+  "translit": "hûwʼ",
+  "def_ro": "he (she sau it); numai expressed cand emphatic sau fără verb; de asemenea (intensively) self, sau (în special cu article) acelasi; sometimes (ca demonstrative) acesta sau acela; occasionally (instead al copula) ca sau sunt",
+  "bdb_ro": "הוּא m. הִיא f., pronume persoana a 3-a singular. el, ea, folosit și (la ambele genuri) pentru neutru „aceasta” (1) emfatic, el (ea, aceasta) (2) reia subiectul cu accent (3) unde pronumele urmează predicatul, poziția lui îi dă accentul minim, exprimând subiectul cât mai clar cu putință (4) anticipează subiectul (5) ca predicat emfatic, despre Dumnezeu (6) în sens neutru, „aceea” (7) cu articol: de regulă când e legat de un substantiv definit deja de articol"
+ },
+ "H1952": {
+  "heb": "הוֹן",
+  "translit": "hôwn",
+  "def_ro": "wealth; de implicatie, enough",
+  "bdb_ro": "הוֹן n.m. avuție, îndestulare (poetic, aproape numai în literatura de Înțelepciune, mai ales Pilde)"
+ },
+ "H1961": {
+  "heb": "הָיָה",
+  "translit": "hâyâh",
+  "def_ro": "a exist, adică fi sau deveni, veni a pasiv (totdeauna emphatic, si nu mere copula sau auxiliary)",
+  "bdb_ro": "הָיָה vb. a se întâmpla, a avea loc, a deveni, a fi. Qal: (I) (1) (a) a se întâmpla (b) a avea loc, a veni, a se petrece (2) mai ales și foarte des, a veni, a se petrece (II) a lua ființă, a deveni (1) (a) absolut, în povestire vie, a se ridica, a apărea, a veni (b) urmat de prepoziție (2) a deveni (a) urmat de substantiv predicativ (b) urmat de adjectiv predicativ (c) a deveni ca (d)-(g) diverse construcții cu „le” (h) a ajunge proprietatea cuiva (III) a fi (adesea cu ideea subînțeleasă de a deveni) (1) a exista, a fi în ființă (2) a rămâne, a dăinui, a continua (3) cu un cuvânt de loc, a fi într-un loc, a fi situat, a sta (4) ca legătură, unind subiectul cu predicatul (5) conjugare perifrastică. Niph.: (1) a fi făcut, adus la ființă, sau a se întâmpla (2) a fi făcut, terminat, dus la capăt"
+ },
+ "H1980": {
+  "heb": "הָלַךְ",
+  "translit": "hâlak",
+  "def_ro": "a umbla (în mare felurime al aplicații, literal si figurat)",
+  "bdb_ro": "הָלַךְ vb. a merge, a veni, a umbla. Qal: (I) propriu (1) despre persoane (2) și despre animale (3) despre lucrurile neînsuflețite (4) infinitivul absolut e adesea folosit în diverse construcții care intensifică sau prelungesc sensul, arătând acțiune continuă (5) în combinație cu alte forme verbale (II) figurat: (1) a pleca, a muri (2) a trăi („a umbla”), în general (3) despre viața morală și religioasă (4) alte folosiri figurate. Pi. (mai ales poetic și târziu): (1) a umbla în sau cu mulțimea (2) a umbla de colo-colo = a trăi (3) a pleca, a se duce cu totul (4) figurat, despre felul vieții, al faptei. Hithp.: a umbla, a se mișca încoace și încolo. Hiph.: (1) a conduce, a aduce (2) a duce departe (3) a purta, a aduce (4) figurat, despre influența asupra caracterului (5) a face să umble, să curgă, să plece, să se retragă"
+ },
+ "H1984": {
+  "heb": "הָלַל",
+  "translit": "hâlal",
+  "def_ro": "a fi clear (orig. al sound, dar de obicei al color); a shine; de aici, a face arăta, a boast; si astfel a fi (clamorously) foolish; a rave; causatively, a celebrate; de asemenea a stultify",
+  "bdb_ro": "[הָלַל] vb. a străluci. Qal: „când candela Lui a strălucit peste capul meu” — figurat, despre bunăvoința lui Dumnezeu. Hiph.: a face să strălucească lumina"
+ },
+ "H1992": {
+  "heb": "הֵם",
+  "translit": "hêm",
+  "def_ro": "ei (numai folosit cand emphatic)",
+  "bdb_ro": "הֵ֫מָּה, הֵם pron. 3pl. masc. ei — fără o deosebire clară de folosire între cele două forme, cu excepția, probabil, că forma mai lungă sau mai scurtă se potrivea mai bine ritmului unor propoziții anume"
+ },
+ "H1993": {
+  "heb": "הָמָה",
+  "translit": "hâmâh",
+  "def_ro": "a face loud sound (ca English 'hum'); de implicatie, a fi în mare commotion sau tumult, a rage, război, moan, clamor",
+  "bdb_ro": "[הָמָה] vb. a murmura, a mârâi, a răcni, a fi gălăgios. Qal: (1) a mârâi ca un câine (2) a murmura, figurat despre suflet în deznădejde (3) a răcni, despre valuri (4) a fi în frământare, agitație (5) a fi gălăgios, tulburat"
+ },
+ "H2005": {
+  "heb": "הֵן",
+  "translit": "hên",
+  "def_ro": "lo!; de asemenea (ca expressing surprise) dacă",
+  "bdb_ro": "הֵן demonstr.adv. sau interj. iată! folosit mai puțin des decât הִנֵּה, și în proză mai ales limitat la a atrage atenția asupra unui fapt pe baza căruia se va lua o acțiune, sau o concluzie"
+ },
+ "H2009": {
+  "heb": "הִנֵּה",
+  "translit": "hinnêh",
+  "def_ro": "lo!",
+  "bdb_ro": "הִנֵּה demonstr.particulă. iată!"
+ },
+ "H2022": {
+  "heb": "הַר",
+  "translit": "har",
+  "def_ro": "munte sau range al hills (sometimes folosit figurat)",
+  "bdb_ro": "הַר n.m. munte, deal, ținut deluros (1) munte, deal (2) ținut deluros, regiune muntoasă"
+ },
+ "H2029": {
+  "heb": "הָרָה",
+  "translit": "hârâh",
+  "def_ro": "a fi (sau deveni) pregnant, conceive (literal sau figurat)",
+  "bdb_ro": "הָרָה vb. a zămisli, a rămâne însărcinată. Qal: (1) propriu, a zămisli, a rămâne însărcinată (2) la figurat. Pu.: „omul a fost zămislit”. Po.: a zămisli, a plănui, a urzi"
+ },
+ "H2042": {
+  "heb": "הָרָר",
+  "translit": "hârâr",
+  "def_ro": "munte",
+  "bdb_ro": "הַר n.m. munte, deal, ținut deluros (1) munte, deal (2) ținut deluros, regiune muntoasă"
+ },
+ "H2063": {
+  "heb": "זֹאת",
+  "translit": "zôʼth",
+  "def_ro": "acesta (adesea folosit adverb)",
+  "bdb_ro": "זֶה pron.demonstr. și adv.; fem. זֹאת; acesta, aici (1) singur (2) în apoziție cu un substantiv (3) mai des ca predicat (4) e atașat enclitic, aproape ca un adverb, la unele cuvinte, mai ales pronume interogative, pentru a da directețe și forță, aducând întrebarea sau afirmația în strânsă legătură cu vorbitorul (5) în poezie, ca pronume relativ (rar) (6) cu prefixe (în sensuri speciale)"
+ },
+ "H2088": {
+  "heb": "זֶה",
+  "translit": "zeh",
+  "def_ro": "masculin demonstrative pronoun, acesta sau acela",
+  "bdb_ro": "זֶה — aceeași rădăcină ca H2063"
+ },
+ "H2091": {
+  "heb": "זָהָב",
+  "translit": "zâhâb",
+  "def_ro": "aur, figurat, ceva aur-colored (adică yellow), ca untdelemn, clear sky",
+  "bdb_ro": "זָהָב n.m. aur (1) = minereu de aur, aur în stare brută (2) aur ca avuție (3) aur ca pradă de război (4) aur ca marfă (5) aur ca dar de preț (6) aur ca material (7) aur descris după sursa lui (8) aur definit prin diverse adjective (9) ca măsură de greutate și valoare (10) = untdelemn auriu, după culoare (11) adesea numit împreună cu argintul (12) principalele verbe folosite cu el"
+ },
+ "H2142": {
+  "heb": "זָכַר",
+  "translit": "zâkar",
+  "def_ro": "propriu-zis, a semn (asa ca a fi recunoscut), adică a aminti; de implicatie, a pomeni; a fi male",
+  "bdb_ro": "זָכַר vb. a-și aduce aminte. Qal: (I) subiect uman (1) a-și aminti, de obicei ca afectând simțământul, gândul sau fapta prezentă (2) a-și aminti de persoane (3) a-și aminti de YHWH (4) a se gândi la ceva prezent sau viitor (5) a ține minte o zi, a o sărbători (6) a-și aminti, cu pomenirea unui lucru (II) subiect Dumnezeu (1) a-și aminti de oameni (2) a-și aminti necazul sau devotamentul slujitorilor Săi (3) a-și aminti legământul, mila Sa (4) a-și aminti păcatele. Niph.: (1) a fi adus aminte (de obicei cu negație) (2) a nu mai fi pomenit = a nu mai exista (3) a fi pomenit, despre zile ce trebuie sărbătorite. Hiph.: (1) a face să-și amintească (2) a face să fie pomenit (3) a menționa (4) a înregistra (5) despre jertfă, a face pomenire"
+ },
+ "H2159": {
+  "heb": "זָמִיר",
+  "translit": "zâmîyr",
+  "def_ro": "twig (ca pruned)",
+  "bdb_ro": "זָמִיר n.[m.] curățare, tundere (a viei) — numai [Cânt. Cânt. 2:12]"
+ },
+ "H2220": {
+  "heb": "זְרוֹעַ",
+  "translit": "zᵉrôwaʻ",
+  "def_ro": "arm (ca stretched afară), sau (al animale) foreleg; figurat, force",
+  "bdb_ro": "זְרוֹעַ, זְרֹעַ n.f. și (rar) m. braț, umăr, putere (1) braț (2) braț, ca simbol al puterii (3) la plural, forțe, politice și militare (4) umărul animalului jertfit, ce revine preotului"
+ },
+ "H2254": {
+  "heb": "חָבַל",
+  "translit": "châbal",
+  "def_ro": "a înfășura strâns (ca funie), adică a lega; în special, de zălog; figurat, a strâmba, nimici; de asemenea a zvârcoli în pain (în special al parturition)",
+  "bdb_ro": "[חָבַל] vb. a lega, a lua zălog. Qal: (1) a lega (2) a lega, luând zălog. Niph.: viitor: a se face zălog pentru el. Pi.: a se zvârcoli, a se răsuci, de aici a avea durerile nașterii"
+ },
+ "H2261": {
+  "heb": "חֲבַצֶּלֶת",
+  "translit": "chăbatstseleth",
+  "def_ro": "probabil meadow-saffron",
+  "bdb_ro": "חֲבַצֶּלֶת n.f. brândușă de pajiște sau șofran"
+ },
+ "H2263": {
+  "heb": "חָבַק",
+  "translit": "châbaq",
+  "def_ro": "a clasp ( mâini sau în embrace)",
+  "bdb_ro": "[חָבַק] vb. a strânge, a îmbrățișa. Qal: a îmbrățișa. Pi.: a îmbrățișa"
+ },
+ "H2270": {
+  "heb": "חָבֵר",
+  "translit": "châbêr",
+  "def_ro": "associate",
+  "bdb_ro": "חָבֵר adj. și n.m. unit, tovarăș, prieten (1) unit (2) tovarăș, semen (3) însoțitor la un anumit timp"
+ },
+ "H2288": {
+  "heb": "חֲגָו",
+  "translit": "chăgâv",
+  "def_ro": "rift în rocks",
+  "bdb_ro": "[חֲגָוִים] n.m.pl. locuri de ascunziș, refugii"
+ },
+ "H2315": {
+  "heb": "חֶדֶר",
+  "translit": "cheder",
+  "def_ro": "apartment (de obicei literal)",
+  "bdb_ro": "חֶ֫דֶר n.m. cameră, odaie"
+ },
+ "H2319": {
+  "heb": "חָדָשׁ",
+  "translit": "châdâsh",
+  "def_ro": "nou",
+  "bdb_ro": "חָדָשׁ adj. nou"
+ },
+ "H2336": {
+  "heb": "חוֹחַ",
+  "translit": "chôwach",
+  "def_ro": "thorn; de analogy, ring pentru nose",
+  "bdb_ro": "חוֹחַ n.m. 1. spin, mărăcine. 2. cârlig, inel, cătușă"
+ },
+ "H2339": {
+  "heb": "חוּט",
+  "translit": "chûwṭ",
+  "def_ro": "string; de implicatie, measuring tape",
+  "bdb_ro": "חוּט n.m. fir, sfoară, linie"
+ },
+ "H2346": {
+  "heb": "חוֹמָה",
+  "translit": "chôwmâh",
+  "def_ro": "wall al protection",
+  "bdb_ro": "חוֹמָה n.f. zid (ca ocrotire) (1) de obicei, termen pentru zidul unei cetăți (2) zidul unei clădiri (3) figurat, despre apele Mării Roșii"
+ },
+ "H2351": {
+  "heb": "חוּץ",
+  "translit": "chûwts",
+  "def_ro": "propriu-zis, separate de wall, adică outside, outdoors",
+  "bdb_ro": "חוּץ n.[m.] afară, uneori, mai ales la plural, în mod specific, uliță"
+ },
+ "H2356": {
+  "heb": "חוֹר",
+  "translit": "chôwr",
+  "def_ro": "cavity, socket, den",
+  "bdb_ro": "חֹר, חוֹר n.[m.] gaură"
+ },
+ "H2368": {
+  "heb": "חוֹתָם",
+  "translit": "chôwthâm",
+  "def_ro": "signature-ring",
+  "bdb_ro": "חֹתָם, חוֹתָם n.m. sigiliu, inel de sigiliu"
+ },
+ "H2372": {
+  "heb": "חָזָה",
+  "translit": "châzâh",
+  "def_ro": "a gaze la; mintal a perceive, contemplate (cu plăcere); în special, a avea vision al",
+  "bdb_ro": "חָזָה vb. (aproape numai poetic) a vedea, a privi. Qal: (1) a vedea, a privi (2) a vedea ca văzător, în stare de extaz (3) a vedea, a percepe"
+ },
+ "H2406": {
+  "heb": "חִטָּה",
+  "translit": "chiṭṭâh",
+  "def_ro": "wheat, dacă grain sau plant",
+  "bdb_ro": "חִטָּה n.f. grâu"
+ },
+ "H2416": {
+  "heb": "חַי",
+  "translit": "chay",
+  "def_ro": "alive; de aici, raw (carne); fresh (plant, apa, an), tare; de asemenea (ca substantiv, în special în feminin singular si masculin plural) viață (sau living lucru), dacă literal sau figurat",
+  "bdb_ro": "חַי adj. viu, în viață (1) despre Dumnezeu, ca Cel Viu, izvor al vieții (2) despre om (3) despre animale (4) animale și om (5) despre vegetație, ca spinii, verzi (6) despre apă, proaspătă (7) plin de viață, activ (8) înviorător"
+ },
+ "H2441": {
+  "heb": "חֵךְ",
+  "translit": "chêk",
+  "def_ro": "propriu-zis, palate sau inside al mouth; de aici, mouth itself (ca organ al speech, taste si kissing)",
+  "bdb_ro": "חֵךְ n.m. cerul gurii, tavanul gurii, gingii"
+ },
+ "H2461": {
+  "heb": "חָלָב",
+  "translit": "châlâb",
+  "def_ro": "milk (ca richness al kine)",
+  "bdb_ro": "חָלָב n.m. lapte"
+ },
+ "H2470": {
+  "heb": "חָלָה",
+  "translit": "châlâh",
+  "def_ro": "propriu-zis, a fi rubbed sau worn; de aici (figurat) a fi weak, sick, afflicted; sau (causatively) a grieve, face sick; de asemenea a stroke (în flattering), ruga",
+  "bdb_ro": "חָלָה vb. a fi slab, bolnav. Qal: (1) a fi sau a deveni slab (2) a se îmbolnăvi. Niph.: (1) a se osteni peste măsură (2) a fi făcut bolnav. Pi.: a îmbolnăvi. Hithp.: a se preface bolnav. Hiph.: (1) a face dureroasă lovitura (2) a îmbolnăvi (3) a se îmbolnăvi. Hoph.: a face bolnav = rănit"
+ },
+ "H2474": {
+  "heb": "חַלּוֹן",
+  "translit": "challôwn",
+  "def_ro": "window (ca perforated)",
+  "bdb_ro": "חַלּוֹן n.m. și f. fereastră"
+ },
+ "H2481": {
+  "heb": "חֲלִי",
+  "translit": "chălîy",
+  "def_ro": "trinket (ca polished)",
+  "bdb_ro": "חֲלִי n.m. podoabă"
+ },
+ "H2498": {
+  "heb": "חָלַף",
+  "translit": "châlaph",
+  "def_ro": "propriu-zis, a slide de, adică (de implicatie) a hasten departe, pasiv pe, spring sus, pierce sau change",
+  "bdb_ro": "חָלַף vb. a trece pe sau departe, a trece prin (mai ales poetic). Qal: (1) a trece repede (2) a se stinge (3) despre iarbă, a odrăsli iar (4) tranzitiv, a trece prin, a străpunge; a depăși, a călca. Pi.: a schimba. Hiph.: (1) a schimba (2) a arăta noutate"
+ },
+ "H2530": {
+  "heb": "חָמַד",
+  "translit": "châmad",
+  "def_ro": "a delight în",
+  "bdb_ro": "חָמַד vb. a dori, a-și găsi plăcerea în. Qal: a dori. Niph.: de dorit. Pi.: a se desfăta din plin"
+ },
+ "H2535": {
+  "heb": "חַמָּה",
+  "translit": "chammâh",
+  "def_ro": "heat; de implicatie, sun",
+  "bdb_ro": "חַמָּה n.f. căldură, soare (poetic)"
+ },
+ "H2542": {
+  "heb": "חַמּוּק",
+  "translit": "chammûwq",
+  "def_ro": "wrapping, adică drawers",
+  "bdb_ro": "[חַמּוּק] n.m. curbură, rotunjime [Cânt. Cânt. 7:2]"
+ },
+ "H2559": {
+  "heb": "חָמַק",
+  "translit": "châmaq",
+  "def_ro": "propriu-zis, a înfășura; de aici, a pleca (adică întoarce despre)",
+  "bdb_ro": "חָמַק vb. a se întoarce departe (intranzitiv). Qal: și iubitul meu se întorsese departe, trecuse mai departe. Hithp.: a se întoarce încoace și încolo"
+ },
+ "H2590": {
+  "heb": "חָנַט",
+  "translit": "chânaṭ",
+  "def_ro": "a spice; de implicatie, a embalm; de asemenea a ripen",
+  "bdb_ro": "חָנַט vb. a mirodenii, a face parfumat, a îmbălsăma"
+ },
+ "H2637": {
+  "heb": "חָסֵר",
+  "translit": "châçêr",
+  "def_ro": "a lack; de implicatie, a fail, want, lessen",
+  "bdb_ro": "חָסֵר vb. a-i lipsi, a avea nevoie, a fi lipsit, a scădea. Qal: (1) a-i lipsi (2) a fi lipsit (3) a se micșora, a scădea. Pi.: a face să-i lipsească. Hiph.: a face să-i lipsească, a slăbi"
+ },
+ "H2654": {
+  "heb": "חָפֵץ",
+  "translit": "châphêts",
+  "def_ro": "propriu-zis, a incline a; de implicatie (literal dar rar) a bend; figurat, a fi pleased cu, desire",
+  "bdb_ro": "חָפֵץ vb. a-și găsi plăcerea în"
+ },
+ "H2719": {
+  "heb": "חֶרֶב",
+  "translit": "chereb",
+  "def_ro": "drought; de asemenea cutting instrument (de la al sau destructive effect), ca knife, sabie, sau alt sharp implement",
+  "bdb_ro": "חֶ֫רֶב n.f. sabie (ca armă)"
+ },
+ "H2737": {
+  "heb": "חָרוּז",
+  "translit": "chârûwz",
+  "def_ro": "propriu-zis, pierced, adică bead al pearl, gems sau jewels (ca strung)",
+  "bdb_ro": "[חָרוּז] n.[m.] șirag de mărgele, numai plural [Cânt. Cânt. 1:10]"
+ },
+ "H2762": {
+  "heb": "חֶרֶךְ",
+  "translit": "cherek",
+  "def_ro": "propriu-zis, net, adică (de analogy) lattice",
+  "bdb_ro": "חֲרַכִּים n.[m.]pl. zăbrele sau altă deschizătură prin care se poate privi — numai [Cânt. Cânt. 2:9]"
+ },
+ "H2768": {
+  "heb": "חֶרְמוֹן",
+  "translit": "Chermôwn",
+  "def_ro": "Chermon, sui al Palestine",
+  "bdb_ro": "חֶרְמוֹן n.pr.mont. Hermon (muntele sfânt)"
+ },
+ "H2787": {
+  "heb": "חָרַר",
+  "translit": "chârar",
+  "def_ro": "a glow, adică literal (a topi, burn, dry sus) sau figurat (a arăta sau incite passion)",
+  "bdb_ro": "[חָרַר] vb. a fi fierbinte, pârjolit, a arde. Qal: (1) a fi fierbinte, pârjolit (2) a arde = a fi ars (3) a arde, despre oasele bolnavilor în friguri. Niph.: (1) a fi pârjolit (2) a arde; a fi uscat. Pilp.: a stârni ceartă"
+ },
+ "H2809": {
+  "heb": "חֶשְׁבּוֹן",
+  "translit": "Cheshbôwn",
+  "def_ro": "Cheshbon, loc East al Jordan",
+  "bdb_ro": "חֶשְׁבּוֹן n.pr.loc. cetate a lui Sihon, împăratul amoriților"
+ },
+ "H2856": {
+  "heb": "חָתַם",
+  "translit": "châtham",
+  "def_ro": "a închis sus; în special a seal",
+  "bdb_ro": "חָתַם vb. a pecetlui, a pune pecete, a pecetlui sus. Qal: (1) a pecetlui, a-și pune pecetea, ca mărturie (2) a pecetlui sus, a închide prin pecetluire. Niph.: era scris și pecetluit. Pi.: propriu, „în ziua aceea își pun pecetea”, adică, potrivit celor mai mulți, se închid ei înșiși. Hiph.: sau i-a arătat curgerea trupul (organul genital) lui, oprită din pricina scurgerii lui"
+ },
+ "H2861": {
+  "heb": "חֲתֻנָּה",
+  "translit": "chăthunnâh",
+  "def_ro": "wedding",
+  "bdb_ro": "[חֲתֻנָּה] n.f. căsătorie, nuntă — numai [Cânt. Cânt. 3:11]"
+ },
+ "H2895": {
+  "heb": "טוֹב",
+  "translit": "ṭôwb",
+  "def_ro": "a fi (transitively, face sau face) bun (sau bine) în cel mai larg sens",
+  "bdb_ro": "טוֹב vb. a fi plăcut, bun. Qal: (1) a fi plăcut, desfătător (2) a fi vesel, bucuros (3) despre rang, poziție, pretenție: ești oare tu într-adevăr mai bun decât Balac? (4) a fi bine cu, bun pentru (5) a fi plăcut. Hiph.: a face bine, a lucra drept"
+ },
+ "H2896": {
+  "heb": "טוֹב",
+  "translit": "ṭôwb",
+  "def_ro": "bun (ca adjective) în cel mai larg sens; folosit tot așa ca substantiv, amândouă în masculin si feminin, singular si plural (bun, bun sau bun lucru, bun om sau femeie; bun, goods sau bun lucruri, bun men sau women), de asemenea ca adverb (bine)",
+  "bdb_ro": "טוֹב adj. plăcut, agreabil, bun (1) plăcut simțurilor (2) plăcut firii mai înalte, dând fericire, prosperitate (3) bun, excelent (4) bun, bogat, de preț (5) bun, potrivit, cuvenit (6) cu „min” comparativ = mai bun (7) despre firea simțuală, vesel, fericit, prosper (8) despre firea intelectuală, bună pricepere (9) bun, binevoitor (10) bun (etic), drept"
+ },
+ "H2918": {
+  "heb": "טִירָה",
+  "translit": "ṭîyrâh",
+  "def_ro": "wall; de aici, fortress sau hamlet",
+  "bdb_ro": "[טִירָה] n.f. tabără, întăritură"
+ },
+ "H2919": {
+  "heb": "טַל",
+  "translit": "ṭal",
+  "def_ro": "dew (ca covering vegetation)",
+  "bdb_ro": "טַל n.m. negură de noapte, rouă"
+ },
+ "H2936": {
+  "heb": "טָנַף",
+  "translit": "ṭânaph",
+  "def_ro": "a soil",
+  "bdb_ro": "[טָנַף] vb. a murdări, a păta — Pi. [Cânt. Cânt. 5:3]"
+ },
+ "H3027": {
+  "heb": "יָד",
+  "translit": "yâd",
+  "def_ro": "mână ( deschis unul [indicating power, means, direction, etc..], în distinction de la 3709, closed unul); folosit (ca substantiv, adverb, etc...) în mare felurime al aplicații, amândouă literal si figurat, amândouă proximate si remote [ca follows]",
+  "bdb_ro": "יָד n.f. mână (1) mână (2) figurat = tărie, putere (3) figurat = latură (4) folosit în sensuri speciale, tehnice: semn, monument; parte, fracțiune; dată, repetiție; osii; piedestale; cepuri pe scândurile cortului; mână (arătând, chemând) (5) „yad” cu prepoziții"
+ },
+ "H3045": {
+  "heb": "יָדַע",
+  "translit": "yâdaʻ",
+  "def_ro": "a cunoaste (propriu-zis, a ascertain de seeing); folosit în mare felurime al sensuri, figurat, literal, euphemistically si inferentially (including observation, care, recognition; si causatively, instruction, designation, punishment, etc...)",
+  "bdb_ro": "יָדַע vb. a cunoaște. Qal: (1) a cunoaște, a învăța (2) a percepe (3) a percepe și a vedea, a afla, a discerne (4) a deosebi, a distinge (5) a cunoaște prin experiență (6) a recunoaște, a mărturisi (7) a lua aminte (8) a nu cunoaște = a nu aștepta (9) a cunoaște o persoană, a fi cunoscut cu (10) a cunoaște o persoană trupește (11) a ști cum să facă un lucru, a fi priceput în (12) absolut, a avea cunoștință, a fi înțelept. Niph.: (1) a fi făcut cunoscut (2) a se face cunoscut (3) a fi perceput (4) a fi învățat. Hiph.: a face cunoscut, a vesti. Hithp.: a se face cunoscut"
+ },
+ "H3050": {
+  "heb": "יָהּ",
+  "translit": "Yâhh",
+  "def_ro": "Jah, sacred nume",
+  "bdb_ro": "יָהּ n.pr.dei. formă scurtă de la YHWH, apare prima dată în poeme vechi"
+ },
+ "H3117": {
+  "heb": "יוֹם",
+  "translit": "yôwm",
+  "def_ro": "zi (ca warm hours), dacă literal (de la sunrise a sunset, sau de la unul sunset a next), sau figurat ( space al timp defined de associated term), (adesea folosit adverb)",
+  "bdb_ro": "יוֹם n.m. zi (1) zi, opusă nopții (2) zi ca diviziune a timpului (3) „ziua lui YHWH”, mai ales ca timp al venirii Lui în judecată (4) la plural, zilele cuiva (5) Zile (6) „yom” = timp (7) expresii"
+ },
+ "H3123": {
+  "heb": "יוֹנָה",
+  "translit": "yôwnâh",
+  "def_ro": "dove (apparently de la warmth al al lor mating)",
+  "bdb_ro": "יוֹנָה n.f. porumbel"
+ },
+ "H3196": {
+  "heb": "יַיִן",
+  "translit": "yayin",
+  "def_ro": "vin (ca fermented); de implicatie, intoxication",
+  "bdb_ro": "יַ֫יִן n.m. vin"
+ },
+ "H3201": {
+  "heb": "יָכֹל",
+  "translit": "yâkôl",
+  "def_ro": "a fi able, literal (can, could) sau morally (may, might)",
+  "bdb_ro": "יָכֹל, יָכוֹל vb. a fi în stare, a avea putere, a birui, a răbda. Qal: (1) a fi în stare să facă un lucru, fie putere fizică, morală, sau dependentă de o autoritate din afară (2) a birui (3) absolut, a avea putere, numai cu negație"
+ },
+ "H3205": {
+  "heb": "יָלַד",
+  "translit": "yâlad",
+  "def_ro": "a bear tânăr; causatively, a beget; medically, a act ca midwife; în special, a arăta lineage",
+  "bdb_ro": "יָלַד vb. a naște, a zămisli. Qal: (1) a naște, a aduce pe lume (2) mai rar, a zămisli (3) despre ambii părinți. Niph.: a se naște. Pi.: a ajuta la naștere, ca moașă. Hiph.: (1) a zămisli (un tată, un copil) (2) a naște. Hoph.: ziua nașterii cuiva"
+ },
+ "H3212": {
+  "heb": "יָלַךְ",
+  "translit": "yâlak",
+  "def_ro": "a umbla (literal sau figurat); causatively, a carry (în various sensuri)",
+  "bdb_ro": "הָלַךְ — vezi rădăcina „a merge” (H1980), formă folosită ca variantă la viitor/imperativ"
+ },
+ "H3225": {
+  "heb": "יָמִין",
+  "translit": "yâmîyn",
+  "def_ro": "drept mână sau parte (leg, eye) al persoana sau alt object (ca stronger si mai dexterous); locally, south",
+  "bdb_ro": "יָמִין n.f. mâna dreaptă (1) mâna dreaptă (2) despre poziția sau direcția spre dreapta (3) despre alte părți ale trupului (4) = sud, căci atunci când cineva stă cu fața spre răsărit, mâna dreaptă e spre sud"
+ },
+ "H3243": {
+  "heb": "יָנַק",
+  "translit": "yânaq",
+  "def_ro": "a suck; causatively, a da milk",
+  "bdb_ro": "[יָנַק] vb. a suge. Qal: a suge, despre prunc la sânul mamei. Hiph.: a alăpta, a alăpta la sân"
+ },
+ "H3245": {
+  "heb": "יָסַד",
+  "translit": "yâçad",
+  "def_ro": "a pune (literal sau figurat); intensively, a found; reflexively, a sit jos împreună, adică settle, consult",
+  "bdb_ro": "יָסַד vb. a întemeia, a așeza temelia, a fixa. Qal: a întemeia, a așeza temelia. Niph.: (1) a se așeza laolaltă, strâns, a ședea în sfat (2) a fi întemeiat. Pi.: (1) a întemeia (2) a întări. Pu.: a fi întemeiat, a fi pusă temelia. Hoph.: a fi întemeiat"
+ },
+ "H3293": {
+  "heb": "יַעַר",
+  "translit": "yaʻar",
+  "def_ro": "copse al bushes; de aici, forest; de aici, honey în comb (ca hived în trees)",
+  "bdb_ro": "יַ֫עַר n.m. pădure, desiș"
+ },
+ "H3302": {
+  "heb": "יָפָה",
+  "translit": "yâphâh",
+  "def_ro": "propriu-zis, a fi bright, adică (de implicatie) beautiful",
+  "bdb_ro": "[יָפָה] vb. a fi frumos. Qal: a fi frumos. Pi.: a înfrumuseța idolul. Hithp.: a se înfrumuseța"
+ },
+ "H3303": {
+  "heb": "יָפֶה",
+  "translit": "yâpheh",
+  "def_ro": "beautiful (literal sau figurat)",
+  "bdb_ro": "יָפֶה adj. frumos, chipeș"
+ },
+ "H3318": {
+  "heb": "יָצָא",
+  "translit": "yâtsâʼ",
+  "def_ro": "a merge (causatively, aduce) afară, în mare felurime al aplicații, literal si figurat, direct si proxim.",
+  "bdb_ro": "יָצָא vb. a ieși sau a veni afară. Qal: (1) a ieși dintr-un loc (2) a merge înainte, dinaintea unei persoane (3) în sensuri tehnice (4) despre fugă (5) a pleca (6) despre lucruri neînsuflețite (7) cu accent pe ideea de origine, izvor (8) despre copii, ieșind din coapsele tatălui (9) a merge înainte spre un loc, spre ceva, cu referire la scop sau rezultat. Hiph.: (1) a face să iasă, a scoate afară, a conduce afară (2) figurat, a scoate din necaz (3) a scoate afară animale (4) obiect neînsuflețit (5) subiect YHWH, a scoate din. Hoph.: a fi adus înainte"
+ },
+ "H3381": {
+  "heb": "יָרַד",
+  "translit": "yârad",
+  "def_ro": "a descend (literal, a merge downwards; sau conventionally a lower region, ca shore, boundary, enemy, etc...; sau figurat, a cădea); causatively, a aduce jos (în tot above aplicații)",
+  "bdb_ro": "יָרַד vb. a veni sau a merge jos, a coborî. Qal: (1) a veni sau a merge jos (2) a merge de la munte în câmpie, la luptă (3) a merge jos la aria de treierat (4) a merge jos din Palestina în Egipt (5) din Ierusalim, de la altar (6) = a se scufunda, în apă (7) a merge jos în Șeol (8) figurat, a coborî în lacrimi (9) = a fi doborât la pământ. Hiph.: (1) a face să vină sau să meargă jos, a coborî (2) a trimite ploaie jos (3) a doborî la aria de treierat (4) a coborî în Șeol (5) a lua jos (de pe car) (6) a lăsa jos. Hoph.: a fi coborât, a fi luat jos"
+ },
+ "H3389": {
+  "heb": "יְרוּשָׁלִַ͏ם",
+  "translit": "Yᵉrûwshâlaim",
+  "def_ro": "Jerushalaim sau Jerushalem, capital cetate al Palestine",
+  "bdb_ro": "יְרוּשָׁלִַ֫͏ם, יְרוּשָׁלַ֫יִם n.pr.loc. Ierusalim"
+ },
+ "H3407": {
+  "heb": "יְרִיעָה",
+  "translit": "yᵉrîyʻâh",
+  "def_ro": "hanging (ca tremulous)",
+  "bdb_ro": "יְרִיעָה n.f. covor de cort, perdea"
+ },
+ "H3409": {
+  "heb": "יָרֵךְ",
+  "translit": "yârêk",
+  "def_ro": "thigh (de la al sau fleshy softness); de euphemistically generative parts; figurat, shank, flank, parte",
+  "bdb_ro": "יָרֵךְ n.f. coapsă, șold, latură, temelie"
+ },
+ "H3427": {
+  "heb": "יָשַׁב",
+  "translit": "yâshab",
+  "def_ro": "propriu-zis, a sit jos (în special ca judecător. în ambush, în quiet); de implicatie, a dwell, a remain; causatively, a settle, a marry",
+  "bdb_ro": "יָשַׁב vb. a ședea, a rămâne, a locui. Qal: (1) a ședea (2) a ședea jos (3) a ședea = a fi pus, ca o bijuterie (4) a rămâne, a sta, a zăbovi (5) a locui, a-și avea locuința (6) despre o țară sau cetate, a fi așezată, figurat, a fi locuită. Niph.: a fi locuită, despre o țară. Hiph.: (1) a face să șadă (2) a face să locuiască (3) a face cetăți să fie locuite (4) a căsători (propriu, a da locuință). Hoph.: „veți fi făcuți să locuiți singuri în mijlocul țării”"
+ },
+ "H3462": {
+  "heb": "יָשֵׁן",
+  "translit": "yâshên",
+  "def_ro": "propriu-zis, a fi slack sau languid, adică (de implicatie) sleep (figurat, a die); de asemenea a crește vechi, stale sau inveterate",
+  "bdb_ro": "[יָשֵׁן] vb. a dormi. Qal: a dormi, a adormi, a fi adormit. Niph.: numai cu sensul derivat de a deveni inactiv sau staționar. Pi.: cauzativ, „l-a adormit”"
+ },
+ "H3463": {
+  "heb": "יָשֵׁן",
+  "translit": "yâshên",
+  "def_ro": "sleepy",
+  "bdb_ro": "יָשֵׁן adj. dormind"
+ },
+ "H3465": {
+  "heb": "יָשָׁן",
+  "translit": "yâshân",
+  "def_ro": "vechi",
+  "bdb_ro": "יָשָׁן adj. vechi (la origine, se pare, ofilit, moale, ca o plantă fără viață, cu vârful atârnând jos, ca și cum ar dormi)"
+ },
+ "H3478": {
+  "heb": "יִשְׂרָאֵל",
+  "translit": "Yisrâʼêl",
+  "def_ro": "he va stăpâni ca dumnezeu; Jisraël, symbolical nume al Jacob; de asemenea (typically) al al lui posterity",
+  "bdb_ro": "יִשְׂרָאֵל n.pr.m. et gentilic. Israel (Dumnezeu stăruie, perseverează) (1) al doilea nume al lui Iacov (2) nume gentilic al neamului evreu"
+ },
+ "H3518": {
+  "heb": "כָּבָה",
+  "translit": "kâbâh",
+  "def_ro": "a expire sau (causatively) a extinguish (foc, lumină, anger)",
+  "bdb_ro": "[כָּבָה] vb. a fi stins, a se stinge, despre foc sau candelă. Qal: a fi stins. Pi.: a stinge"
+ },
+ "H3588": {
+  "heb": "כִּי",
+  "translit": "kîy",
+  "def_ro": "(de implicatie) foarte widely folosit ca relative conjunction sau adverb (ca below); adesea largely modified de alt particles annexed",
+  "bdb_ro": "כִּי conj. că, căci, când (1) că (2) despre timp, când, în trecut (3) în rest, are o forță apropiată de „dacă”, deși de obicei arată un caz mai probabil să se întâmple (4) când sau dacă, cu sens concesiv, adică deși (5) căci, deoarece"
+ },
+ "H3602": {
+  "heb": "כָּכָה",
+  "translit": "kâkâh",
+  "def_ro": "just asa, referring a previous sau următor context",
+  "bdb_ro": "כָּ֫כָה adv. astfel"
+ },
+ "H3605": {
+  "heb": "כֹּל",
+  "translit": "kôl",
+  "def_ro": "propriu-zis, tot; de aici, tot, orice sau fiecare (în singular numai, dar adesea în plural sens)",
+  "bdb_ro": "כֹּל n.m. tot, toate (1) cu genitivul următor, tot al, redat adesea prin „orice” sau „fiecare” (2) absolut: fără articol, tot; cu articol, fie limitat de context la lucrurile amintite, fie în sens mai larg, tot, a toată omenirea sau a tuturor lucrurilor vii, universul"
+ },
+ "H3618": {
+  "heb": "כַּלָּה",
+  "translit": "kallâh",
+  "def_ro": "bride (ca dacă perfect); de aici, son's așație",
+  "bdb_ro": "כַּלָה n.f. noră, mireasă"
+ },
+ "H3644": {
+  "heb": "כְּמוֹ",
+  "translit": "kᵉmôw",
+  "def_ro": "ca, astfel, asa",
+  "bdb_ro": "כְּמוֹ adv. și conj. ca, precum, când (propriu, formă întărită a lui „ca”)"
+ },
+ "H3651": {
+  "heb": "כֵּן",
+  "translit": "kên",
+  "def_ro": "propriu-zis, pune cinstit; de aici (figurat ca adjective) just; dar de obicei (ca adverb sau conjunction) rightly sau asa (în various aplicații a fel, timp si relation; adesea cu alt particles)",
+  "bdb_ro": "כֵּן adj. drept, adevărat, cinstit (1) drept (2) adevărat, real (3) la plural, concret, oameni cinstiți"
+ },
+ "H3701": {
+  "heb": "כֶּסֶף",
+  "translit": "keçeph",
+  "def_ro": "argint (de la al sau pale color); de implicatie, money",
+  "bdb_ro": "כֶּ֫סֶף n.m. argint, bani (1) = minereu de argint, argint în stare brută (2) argint strălucitor (3) argint ca avuție (4) ca pradă de război (5) ca marfă (6) ca dar de preț (7) ca material (8) ca măsură de greutate și valoare (9) în diverse expresii"
+ },
+ "H3709": {
+  "heb": "כַּף",
+  "translit": "kaph",
+  "def_ro": "hollow mână sau palm (asa al paw al animal, al sole, si chiar al bowl al dish sau sling, handle al bolt, leaves al palm-pom); figurat, power",
+  "bdb_ro": "כַּף n.f. scobitura sau partea plată a mâinii, palmă, talpa piciorului, mână"
+ },
+ "H3723": {
+  "heb": "כָּפָר",
+  "translit": "kâphâr",
+  "def_ro": "village (ca protected de walls)",
+  "bdb_ro": "[כָּפָר] n.m. sat — singular construct, satul amoniților [Ios 18:24]"
+ },
+ "H3724": {
+  "heb": "כֹּפֶר",
+  "translit": "kôpher",
+  "def_ro": "propriu-zis, cover, adică (literal) village (ca covered în); (în special) bitumen (ca folosit pentru coating), si henna plant (ca folosit pentru dyeing); figurat, redemption-price",
+  "bdb_ro": "כֹּפֶר n.m. prețul vieții, răscumpărare"
+ },
+ "H3750": {
+  "heb": "כַּרְכֹּם",
+  "translit": "karkôm",
+  "def_ro": "crocus",
+  "bdb_ro": "כַּרְכֹּם n.[m.] șofran [Cânt. Cânt. 4:14]"
+ },
+ "H3754": {
+  "heb": "כֶּרֶם",
+  "translit": "kerem",
+  "def_ro": "garden sau vineyard",
+  "bdb_ro": "כֶּרֶם n.m. (f.) vie"
+ },
+ "H3760": {
+  "heb": "כַּרְמֶל",
+  "translit": "Karmel",
+  "def_ro": "Karmel, nume al hill si al town în Palestine",
+  "bdb_ro": "כַּרְמֶל n.pr.mont. et urb. Carmel (1) munte-promontoriu pe Mediterană, cu povârnișuri roditoare (2) cetate, 3 ore la sud de Hebron"
+ },
+ "H3796": {
+  "heb": "כֹּתֶל",
+  "translit": "kôthel",
+  "def_ro": "wall (ca gathering inmates)",
+  "bdb_ro": "[כֹּ֫תֶל] n.[m.] zid de casă — numai cu sufix [Cânt. Cânt. 2:9]"
+ },
+ "H3800": {
+  "heb": "כֶּתֶם",
+  "translit": "kethem",
+  "def_ro": "propriu-zis, ceva carved afară, adică ore; de aici, aur (pure ca originally mined)",
+  "bdb_ro": "כֶּ֫תֶם n.m. aur, poetic și târziu"
+ },
+ "H3801": {
+  "heb": "כְּתֹנֶת",
+  "translit": "kᵉthôneth",
+  "def_ro": "shirt",
+  "bdb_ro": "כֻּתֹּ֫נֶת, כְּתֹ֫נֶת n.f. tunică"
+ },
+ "H3808": {
+  "heb": "לֹא",
+  "translit": "lôʼ",
+  "def_ro": "nu ( simple sau absolut. negation); de implicatie, no; adesea folosit cu alt particles",
+  "bdb_ro": "לֹא, לוֹא adv. nu"
+ },
+ "H3820": {
+  "heb": "לֵב",
+  "translit": "lêb",
+  "def_ro": "inimă; de asemenea folosit (figurat) foarte widely pentru feelings, va si chiar intellect; tot așa pentru centre al anything",
+  "bdb_ro": "לֵב n.m. (f.) omul lăuntric, minte, voință, inimă (I) rareori despre lucruri, în mijlocul mării (II) despre oameni (1) omul lăuntric, în contrast cu cel din afară (2) sufletul, cuprinzând mintea, simțămintele și voința (3) referire la minte (4) la înclinații și hotărâri ale voinței (5) la conștiință (6) pentru omul însuși (7) loc al poftelor (8) loc al emoțiilor și patimilor (9) loc al curajului"
+ },
+ "H3823": {
+  "heb": "לָבַב",
+  "translit": "lâbab",
+  "def_ro": "propriu-zis, a fi enclosed (ca dacă cu fat); de implicatie (ca denominative de la 3824); a unheart; adică (în bun sens) strămuta (cu iubire), sau (în bad sens) stultify; a face cakes",
+  "bdb_ro": "[לבב] vb. denominal. Niph. a prinde minte. Pi.: a încuraja"
+ },
+ "H3828": {
+  "heb": "לְבוֹנָה",
+  "translit": "lᵉbôwnâh",
+  "def_ro": "frankincense (de la al sau whiteness sau poate acela al al sau smoke)",
+  "bdb_ro": "לְבֹנָה, לְבוֹנָה n.f. tămâie"
+ },
+ "H3842": {
+  "heb": "לְבָנָה",
+  "translit": "lᵉbânâh",
+  "def_ro": "propriu-zis, () white, adică moon",
+  "bdb_ro": "לְבָנָה n.f. lună, poetic"
+ },
+ "H3844": {
+  "heb": "לְבָנוֹן",
+  "translit": "Lᵉbânôwn",
+  "def_ro": "Lebanon, munte range în Palestine",
+  "bdb_ro": "לְבָנוֹן n.pr.mont. Liban"
+ },
+ "H3847": {
+  "heb": "לָבַשׁ",
+  "translit": "lâbash",
+  "def_ro": "propriu-zis, înfășura around, adică (de implicatie) a pune pe garment sau clothe (sine, sau another), literal sau figurat",
+  "bdb_ro": "לָבֵשׁ, לָבַשׁ vb. a pune pe (un veșmânt), a purta, a îmbrăca, a fi îmbrăcat. Qal: (1) propriu, a-și pune veșmântul, a purta (2) figurat, a se îmbrăca cu (3) și duhul lui YHWH s-a îmbrăcat cu Ghedeon. Hiph.: a îmbrăca, a înveșmânta cu"
+ },
+ "H3871": {
+  "heb": "לוּחַ",
+  "translit": "lûwach",
+  "def_ro": "probabil sens a glisten; tablet (ca polished), al piatră, wood sau metal",
+  "bdb_ro": "לוּחַ n.m. tăbliță, scândură sau placă (1) mai ales tăblițele de piatră pe care erau scrise cele zece porunci (2) scânduri de lemn; grinzi (3) plăci de metal pe piedestalele lighenelor din templul lui Solomon"
+ },
+ "H3885": {
+  "heb": "לוּן",
+  "translit": "lûwn",
+  "def_ro": "a opri (de obicei peste night); de implicatie, a stay permanently; de aici (în bad sens) a fi obstinate (în special în words, a complain)",
+  "bdb_ro": "לוּן, לִין vb. a găzdui, a petrece noaptea, figurat a rămâne. Qal: (1) a găzdui, a petrece noaptea (2) figurat, a rămâne, a dăinui. Hiph.: a face să se odihnească, a găzdui. Hithpalp.: a locui, a se așeza, despre vultur"
+ },
+ "H3895": {
+  "heb": "לְחִי",
+  "translit": "lᵉchîy",
+  "def_ro": "cheek (de la al sau fleshiness); de aici, jaw-bone",
+  "bdb_ro": "לְחִי n.m. falcă, obraz (1) falca, osul falcii, al animalului (2) obrazul, al omului"
+ },
+ "H3915": {
+  "heb": "לַיִל",
+  "translit": "layil",
+  "def_ro": "propriu-zis, răsuci (departe al lumină), adică night; figurat, adversity",
+  "bdb_ro": "לַ֫יְלָה, לַ֫יִל n.m. noapte"
+ },
+ "H3925": {
+  "heb": "לָמַד",
+  "translit": "lâmad",
+  "def_ro": "propriu-zis, a goad, adică (de implicatie) a teach ( rod ființă Oriental incentive)",
+  "bdb_ro": "לָמַד vb. a se deprinde în, a învăța. Qal: a învăța ceva. Piel: a învăța pe altul. Pual: deprins; învățat"
+ },
+ "H3950": {
+  "heb": "לָקַט",
+  "translit": "lâqaṭ",
+  "def_ro": "propriu-zis, a pick sus, adică (în general) a gather; în special, a glean",
+  "bdb_ro": "[לָקַט] vb. a culege sau a strânge, mai ales a spicui. Qal: (1) a culege, a strânge (2) mai ales a spicui. Pi.: (1) a strânge, a aduna (2) figurat, a strânge bani (3) a spicui. Hithp.: „și s-au adunat la Iefta niște oameni de nimic”"
+ },
+ "H3956": {
+  "heb": "לָשׁוֹן",
+  "translit": "lâshôwn",
+  "def_ro": "tongue (al om sau animale), folosit literal (ca instrument al licking, eating, sau speech), si figurat (speech, ingot, fork al flame, cove al apa)",
+  "bdb_ro": "לָשׁוֹן n.m. și (mai des) f. limbă (1) limba oamenilor (2) = limbaj (3) limba animalelor (4) limbă de foc (5) = pană (în formă de limbă) de aur (6) = golf (în formă de limbă) al mării"
+ },
+ "H3967": {
+  "heb": "מֵאָה",
+  "translit": "mêʼâh",
+  "def_ro": "hundred; de asemenea ca multiplicative si fraction",
+  "bdb_ro": "מֵאָה n.f. sută (1) ca număr simplu (2) ca parte a unui număr mai mare (3) a suta parte"
+ },
+ "H3971": {
+  "heb": "מאוּם",
+  "translit": "mʼûwm",
+  "def_ro": "blemish (trupește sau morally)",
+  "bdb_ro": "מאוּם n.m. cusur, meteahnă"
+ },
+ "H4022": {
+  "heb": "מֶגֶד",
+  "translit": "meged",
+  "def_ro": "propriu-zis, distinguished lucru; de aici ceva valuable, ca product sau rod",
+  "bdb_ro": "מֶ֫גֶד n.m. lucru ales, prisos"
+ },
+ "H4026": {
+  "heb": "מִגְדָּל",
+  "translit": "migdâl",
+  "def_ro": "tower (de la al sau size sau height); de analogy, rostrum; figurat, (pyramidal) bed al flowers",
+  "bdb_ro": "מִגְדָּל n.m. turn (1) turn (2) platformă înălțată, amvon de lemn (3) strat înălțat"
+ },
+ "H4043": {
+  "heb": "מָגֵן",
+  "translit": "mâgên",
+  "def_ro": "shield (adică small unul sau buckler); figurat, protector; de asemenea scaly hide al crocodile",
+  "bdb_ro": "מָגֵן n.m. & f. scut"
+ },
+ "H4057": {
+  "heb": "מִדְבָּר",
+  "translit": "midbâr",
+  "def_ro": "pășune (adică deschis field, whither cattle sunt driven); de implicatie, desert; de asemenea speech (including al sau organs)",
+  "bdb_ro": "[מִדְבָּר] n.m. gură, ca organ al vorbirii, [Cânt. Cânt. 4:3]"
+ },
+ "H4095": {
+  "heb": "מַדְרֵגָה",
+  "translit": "madrêgâh",
+  "def_ro": "propriu-zis, step; de implicatie, steep sau inaccessible loc",
+  "bdb_ro": "מַדְרֵגָה n.f. loc abrupt, povârniș"
+ },
+ "H4100": {
+  "heb": "מָה",
+  "translit": "mâh",
+  "def_ro": "propriu-zis, interrogative ce? (including how? why? cand?); dar de asemenea exclamation, ce! (including how!), sau indefinitely ce (including whatever, si chiar relatively, acela care); adesea folosit cu prefixes în various adverbial sau conjunctive sensuri",
+  "bdb_ro": "מָה, מַה pron.interog. și nehotărât. ce? cum? ceva (1) interogativ, ce? (2) folosit adverbial (3) pronume nehotărât (4) cu prepoziții"
+ },
+ "H4194": {
+  "heb": "מָוֶת",
+  "translit": "mâveth",
+  "def_ro": "moarte (natural sau violent); concretely, dead, al lor loc sau state (hades); figurat, pestilence, ruin",
+  "bdb_ro": "מָ֫וֶת n.m. moarte (1) moarte, opusă vieții (2) moarte prin violență (3) starea morții sau locul morții"
+ },
+ "H4197": {
+  "heb": "מֶזֶג",
+  "translit": "mezeg",
+  "def_ro": "tempered vin",
+  "bdb_ro": "[מֶ֫זֶג] n.m. amestec, adică vin amestecat [Cânt. Cânt. 7:3]"
+ },
+ "H4246": {
+  "heb": "מְחֹלָה",
+  "translit": "mᵉchôlâh",
+  "def_ro": "dance",
+  "bdb_ro": "[מְחוֹלָה] n.f. dans"
+ },
+ "H4261": {
+  "heb": "מַחְמָד",
+  "translit": "machmâd",
+  "def_ro": "delightful; de aici, delight, adică object al affection sau desire",
+  "bdb_ro": "מַחְמָד n.m. dorință, lucru dorit"
+ },
+ "H4264": {
+  "heb": "מַחֲנֶה",
+  "translit": "machăneh",
+  "def_ro": "encampment (al travellers sau troops); de aici, oaste, dacă literal (al soldiers) sau figurat (al dancers, angels, cattle, locusts, stars; sau chiar sacred courts)",
+  "bdb_ro": "מַחֲנֶה n.m. și f. tabără, așezare (1) tabără, locul de așezare (2) tabără a unei oștiri înarmate (3) (a) cei ce tăbărăsc (b) ceată, trup de oameni (c) oaste"
+ },
+ "H4296": {
+  "heb": "מִטָּה",
+  "translit": "miṭṭâh",
+  "def_ro": "bed (ca extended) pentru sleeping sau eating; de analogy, sofa, litter sau bier",
+  "bdb_ro": "מִטָּה n.f. pat, culcuș (loc de odihnă)"
+ },
+ "H4310": {
+  "heb": "מִי",
+  "translit": "mîy",
+  "def_ro": "care? (occasionally, de peculiar idiom, al lucruri); de asemenea (indefinitely) whoever; adesea folosit în oblique construction cu prefix sau suffix",
+  "bdb_ro": "מִי pron.interog. cine? despre persoane (1) rar folosit despre lucruri (2) „al cui” (3) în întrebare indirectă (4) „cine dintre...?” (5) forme întărite ale întrebării (6) diverse folosiri retorice (7) poate fi uneori redat prin „oricine”"
+ },
+ "H4325": {
+  "heb": "מַיִם",
+  "translit": "mayim",
+  "def_ro": "apa; figurat, juice; de euphemism, urine, semen",
+  "bdb_ro": "מַ֫יִם n.m. numai plural. ape, apă"
+ },
+ "H4339": {
+  "heb": "מֵישָׁר",
+  "translit": "mêyshâr",
+  "def_ro": "evenness, adică (figurat) belșug sau concord; de asemenea straightness, adică (figurat) rectitude (numai în plural cu singular sens; adesea adverbially)",
+  "bdb_ro": "[מֵישָׁר] n.m. netezime, dreptate, echitate"
+ },
+ "H4390": {
+  "heb": "מָלֵא",
+  "translit": "mâlêʼ",
+  "def_ro": "a fill sau (intransitiv) fi full al, în larg application (literal si figurat)",
+  "bdb_ro": "מָלֵא vb. a fi plin, a umple. Qal: (1) a fi plin, cu acuzativul materialului (2) tranzitiv, a umple. Niph.: (1) a fi umplut (2) a fi împlinit, terminat. Pi.: (1) a umple (2) a împlini, a înfăptui, a încheia o săptămână, un an, o zi. Hithp.: „se strâng laolaltă împotriva mea”"
+ },
+ "H4402": {
+  "heb": "מִלֵּאת",
+  "translit": "millêʼth",
+  "def_ro": "fulness, adică (concretely) plump socket (al eye)",
+  "bdb_ro": "מִלֵּאת n.f. nesigur; numai [Cânt. Cânt. 5:12], despre ochii iubitului; montură, poate mai bine margine, muchie"
+ },
+ "H4421": {
+  "heb": "מִלְחָמָה",
+  "translit": "milchâmâh",
+  "def_ro": "lupta (adică engagement); în general, război (adică război-fare)",
+  "bdb_ro": "מִלְחָמָה n.f. luptă, război"
+ },
+ "H4428": {
+  "heb": "מֶלֶךְ",
+  "translit": "melek",
+  "def_ro": "împărat",
+  "bdb_ro": "מֶ֫לֶךְ n.m. împărat"
+ },
+ "H4436": {
+  "heb": "מַלְכָּה",
+  "translit": "malkâh",
+  "def_ro": "queen",
+  "bdb_ro": "מַלְכָּה n.f. împărăteasă"
+ },
+ "H4477": {
+  "heb": "מַמְתַּק",
+  "translit": "mamtaq",
+  "def_ro": "ceva sweet (literal sau figurat)",
+  "bdb_ro": "מַמְתַֿקִּים n.[m.]pl. dulceață = lucruri dulci"
+ },
+ "H4480": {
+  "heb": "מִן",
+  "translit": "min",
+  "def_ro": "propriu-zis, parte al; de aici (prepositionally), de la sau afară al în many sensuri",
+  "bdb_ro": "מִן־, מִ prepoziție care exprimă despărțire, de aici afară din, de la, din pricina, de pe, de vreme ce, deasupra, decât, așa încât nu (1) cu verbe ce exprimă despărțire, de la, împotriva (2) uneori ideea de despărțire, departe de la (3) despre poziție, de pe (4) afară din (5) sens partitiv (6) despre timp: punctul de plecare, de la, de când; perioada care urmează unei limite, după; spre, până la (7) în comparații, dincolo, deasupra (8) prefixat unui infinitiv, cu forță cauzală, din pricina, prin; sau după verbe de oprire, de vreme ce, după (9) o dată, ca și conjuncție, „că” (10) în cuvinte compuse"
+ },
+ "H4514": {
+  "heb": "מַנְעוּל",
+  "translit": "manʻûwl",
+  "def_ro": "bolt",
+  "bdb_ro": "מַנְעוּל n.[m.] zăvor — absolut [Cânt. Cânt. 5:5], al ușii casei"
+ },
+ "H4524": {
+  "heb": "מֵסַב",
+  "translit": "mêçab",
+  "def_ro": "divan (ca enclosing room); abstractly (adverbial) around",
+  "bdb_ro": "מֵסַב n.[m.] cel ce înconjoară, sau e în jur"
+ },
+ "H4557": {
+  "heb": "מִסְפָּר",
+  "translit": "miçpâr",
+  "def_ro": "number, definite (arithmetical) sau indefinite (mare, innumerable; small, few); de asemenea (abstractly) narration",
+  "bdb_ro": "מִסְפָּר n.m. număr, socoteală"
+ },
+ "H4578": {
+  "heb": "מֵעֶה",
+  "translit": "mêʻeh",
+  "def_ro": "folosit numai în plural intestines, sau (collectively) abdomen, figurat, sympathy; de implicatie, vest; de extension stomach, uterus (sau al men, seat al generation), inimă (figurat)",
+  "bdb_ro": "[מֵעֶה] n.m. numai la plural, organele interne, măruntaiele (intestine, pântece), pântece"
+ },
+ "H4585": {
+  "heb": "מְעוֹנָה",
+  "translit": "mᵉʻôwnâh",
+  "def_ro": "den, habitation, (dwelling) loc, refuge.",
+  "bdb_ro": "מְעֹנָה n.f. (1) vizuină, bârlog al fiarelor sălbatice (2) figurat, Dumnezeul cel vechi e loc de locuit (pentru poporul Lui)"
+ },
+ "H4592": {
+  "heb": "מְעַט",
+  "translit": "mᵉʻaṭ",
+  "def_ro": "little sau few (adesea adverbial sau comparative)",
+  "bdb_ro": "מְעַט substantiv. puțin, puținătate, câțiva"
+ },
+ "H4599": {
+  "heb": "מַעְיָן",
+  "translit": "maʻyân",
+  "def_ro": "fountain (de asemenea collectively), figurat, source (al satisfaction)",
+  "bdb_ro": "מַעְיָן n.m. izvor"
+ },
+ "H4639": {
+  "heb": "מַעֲשֶׂה",
+  "translit": "maʻăseh",
+  "def_ro": "acțiune (bun sau bad); în general, transaction; abstractly, activity; de implicatie, product (în special, poem) sau (în general) property",
+  "bdb_ro": "מַעֲשֶׂה n.m. faptă, lucrare"
+ },
+ "H4672": {
+  "heb": "מָצָא",
+  "translit": "mâtsâʼ",
+  "def_ro": "propriu-zis, a veni înainte a, adică apărea sau exist; transitively, a attain, adică find sau acquire; figurat, a surveni, întâlni sau fi de față",
+  "bdb_ro": "מָצָא vb. a ajunge la, a găsi. Qal: (1) a găsi (2) a afla (3) = a da peste, a nimeri peste (4) expresii demne de remarcat. Niph.: pasiv, a fi găsit. Hiph.: (1) a face să găsească (2) a face să dea peste, să vină (3) a face să întâlnească (4) a înfățișa"
+ },
+ "H4753": {
+  "heb": "מֹר",
+  "translit": "môr",
+  "def_ro": "myrrh (ca distilling în drops, si de asemenea ca bitter)",
+  "bdb_ro": "מֹר, מוֹר n.m. [Cânt. Cânt. 6:5] smirnă (de la gustul amar)"
+ },
+ "H4758": {
+  "heb": "מַרְאֶה",
+  "translit": "marʼeh",
+  "def_ro": "view ( act al seeing); de asemenea appearance ( lucru seen), dacă (real) shape (în special dacă handsome, comeliness; adesea plural looks), sau (mental) vision",
+  "bdb_ro": "מַרְאֶה n.m. vedere, înfățișare, vedenie (1) fenomen, priveliște; înfățișare; vedere, vedenie (2) în general, ceea ce e văzut (3) mai ales (supranatural) vedenie (4) puterea de a vedea (și de a se bucura de ea), târziu"
+ },
+ "H4817": {
+  "heb": "מֶרְכָּב",
+  "translit": "merkâb",
+  "def_ro": "chariot; de asemenea seat (în vehicle)",
+  "bdb_ro": "מֶרְכָּב n.m. car, scaun de călărie (propriu, loc de călărie)"
+ },
+ "H4818": {
+  "heb": "מֶרְכָּבָה",
+  "translit": "merkâbâh",
+  "def_ro": "chariot",
+  "bdb_ro": "מֶרְכָּבָה n.f. car"
+ },
+ "H4840": {
+  "heb": "מֶרְקָח",
+  "translit": "merqâch",
+  "def_ro": "spicy herb",
+  "bdb_ro": "[מֶרְקָח] n.[m.] mirodenie, parfum (al obrajilor); plural [Cânt. Cânt. 5:13]"
+ },
+ "H4900": {
+  "heb": "מָשַׁךְ",
+  "translit": "mâshak",
+  "def_ro": "a trage, folosit în mare felurime al aplicații (including a sow, a sound, a prolong, a develop, a march, a remove, a delay, a fi tall, etc...)",
+  "bdb_ro": "מָשַׁךְ vb. a trage, a târî. Qal: (1) a trage și a scoate afară (2) a trage arcul (3) a înainta, a mărșălui (4) a trage afară un sunet (5) a trage afară, a prelungi, a continua (6) a duce sămânța la semănat (7) (târziu) a înveseli, a atrage, a plăcea. Niph.: „nu vor fi prelungite” (zilele Babilonului); „nu va fi amânat”"
+ },
+ "H4904": {
+  "heb": "מִשְׁכָּב",
+  "translit": "mishkâb",
+  "def_ro": "bed (figurat, bier); abstractly, sleep; de euphemism, carnal intercourse",
+  "bdb_ro": "מִשְׁכָּב n.m. locul culcării, culcuș; actul culcării"
+ },
+ "H4908": {
+  "heb": "מִשְׁכָּן",
+  "translit": "mishkân",
+  "def_ro": "residence (including shepherd's hut, lair al animale, figurat, grave; de asemenea templu); în special, Tabernacle (propriu-zis, al sau wooden walls)",
+  "bdb_ro": "מִשְׁכָּן n.m. loc de locuit, „cortul întâlnirii”"
+ },
+ "H4966": {
+  "heb": "מָתוֹק",
+  "translit": "mâthôwq",
+  "def_ro": "sweet",
+  "bdb_ro": "מָתוֹק adj. dulce, și n.[m.] dulceață"
+ },
+ "H4994": {
+  "heb": "נָא",
+  "translit": "nâʼ",
+  "def_ro": "'I pray', 'now', sau 'then'; added mai ales a verbs (în Imperative sau Future), sau a interjections, occasionally a adverb sau conjunction",
+  "bdb_ro": "נָא particulă de rugăminte sau îndemn: „te rog”, „acum” (enclitică)"
+ },
+ "H4998": {
+  "heb": "נָאָה",
+  "translit": "nâʼâh",
+  "def_ro": "propriu-zis, a fi la home, adică (de implicatie) a fi plăcut (sau suitable), adică beautiful",
+  "bdb_ro": "[נָאָה] vb. numai Pi'lel, a fi plăcut, potrivit"
+ },
+ "H5000": {
+  "heb": "נָאוֶה",
+  "translit": "nâʼveh",
+  "def_ro": "suitable, sau beautiful",
+  "bdb_ro": "נָאוֶה adj. plăcut, potrivit"
+ },
+ "H5046": {
+  "heb": "נָגַד",
+  "translit": "nâgad",
+  "def_ro": "propriu-zis, a front, adică sta boldly afară opposite; de implicatie (causatively), a manifest; figurat, a announce (totdeauna de cuvânt al mouth a unul de față); în special, a expose, predict, explain, praise",
+  "bdb_ro": "[נָגַד] vb. a fi văzut de departe. Hiph.: a vesti, a spune. Hoph.: a fi vestit, anunțat, raportat"
+ },
+ "H5048": {
+  "heb": "נֶגֶד",
+  "translit": "neged",
+  "def_ro": "front, adică parte opposite; în special counterpart, sau mate; de obicei (adverbial, în special cu preposition) peste împotriva sau înainte",
+  "bdb_ro": "נֶ֫גֶד substantiv. ceea ce e văzut de departe sau în față, mereu ca adverb sau prepoziție, „în fața”, „în văzul”, „opus la”"
+ },
+ "H5060": {
+  "heb": "נָגַע",
+  "translit": "nâgaʻ",
+  "def_ro": "propriu-zis, a atinge, adică lay mână asupra (pentru orice purpose; euphemistically, a lie cu femeie); de implicatie, a reach (figurat, a arrive, acquire); violently, a lovi (punish, defeat, nimici, etc...)",
+  "bdb_ro": "נָגַע vb. a atinge, a ajunge, a lovi. Qal: (1) a atinge (2) despre YHWH atingând pământul, munții etc. (3) aproape = a lovi, pasiv, lovit (4) a atinge = a vătăma (5) a ajunge, a se întinde la. Niph.: a fi lovit, învins în luptă. Pi.: a lovi cu lepră. Pu.: a fi lovit de boli. Hiph.: a face să atingă; a ajunge, a sosi"
+ },
+ "H5081": {
+  "heb": "נָדִיב",
+  "translit": "nâdîyb",
+  "def_ro": "propriu-zis, voluntary, adică generous; de aici, magnanimous; ca substantiv, grandee (sometimes tyrant)",
+  "bdb_ro": "נָדִיב adj. și n.m. înclinat, darnic, ales (1) îndemnat, înclinat, binevoitor (2) ales, de neam, în rang (3) ales la minte și caracter"
+ },
+ "H5090": {
+  "heb": "נָהַג",
+  "translit": "nâhag",
+  "def_ro": "a drive înainte ( persoana, animal sau chariot), adică conduce, carry departe; reflexively, a proceed (adică impel sau călăuzi sine); de asemenea (de la panting induced de effort), a sigh",
+  "bdb_ro": "נָהַג vb. a mâna, a călăuzi. Qal: (1) a mâna (2) figurat, „inima mea purtându-se cu înțelepciune”. Pi.: (1) a mâna departe, a duce departe (2) a mâna, a călăuzi (3) a face să mâne"
+ },
+ "H5104": {
+  "heb": "נָהָר",
+  "translit": "nâhâr",
+  "def_ro": "stream (including mare; expectation Nile, Euphrates, etc...); figurat, belșug",
+  "bdb_ro": "נָהָר n.m. curs de apă, râu"
+ },
+ "H5127": {
+  "heb": "נוּס",
+  "translit": "nûwç",
+  "def_ro": "a flit, adică vanish departe (subside, escape; causatively, chase, impel, izbăvi)",
+  "bdb_ro": "נוּס vb. a fugi, a scăpa. Qal: (1) a fugi (2) a scăpa (3) a lua fuga, a pleca, a dispărea (4) a zbura la un atac, călare. Po'lel: suflarea lui YHWH îl mână spre el. Hiph.: (1) a pune pe fugă (2) a mâna în grabă spre un loc sigur (3) a face să dispară, a ascunde"
+ },
+ "H5132": {
+  "heb": "נוּץ",
+  "translit": "nûwts",
+  "def_ro": "propriu-zis, a flash; de asemenea, a fly departe (de la quickness al motion)",
+  "bdb_ro": "[נָצָה] vb. a zbura(?) — numai Qal perfect 3 plural [Plâng. 4:15] (despre exilații fără casă); text foarte nesigur"
+ },
+ "H5140": {
+  "heb": "נָזַל",
+  "translit": "nâzal",
+  "def_ro": "a drip, sau shed de trickling",
+  "bdb_ro": "[נָזַל] vb. a curge, a picura, a se prelinge, a se scurge (poetic). Qal: (1) a curge (2) a se scurge. Hiph.: a face să curgă"
+ },
+ "H5158": {
+  "heb": "נַחַל",
+  "translit": "nachal",
+  "def_ro": "stream, în special winter torrent; (de implicatie) (narrow) valley (în care brook runs); de asemenea shaft (al mine)",
+  "bdb_ro": "נַ֫חַל n.m. torent, vale de torent, uedi"
+ },
+ "H5197": {
+  "heb": "נָטַף",
+  "translit": "nâṭaph",
+  "def_ro": "a ooze, adică distil gradually; de implicatie, a cădea în drops; figurat, a vorbi de inspiration",
+  "bdb_ro": "[נָטַף] vb. a picura, a curge picătură cu picătură. Qal: a picura, a curge. Hiph.: (1) a picura (2) despre vorbire, mai ales proorocie"
+ },
+ "H5201": {
+  "heb": "נָטַר",
+  "translit": "nâṭar",
+  "def_ro": "a străjui; figurat, a cherish (anger)",
+  "bdb_ro": "[נָטַר] vb. a ține. Qal: (1) a ține, a păstra (2) a păzi, a veghea"
+ },
+ "H5221": {
+  "heb": "נָכָה",
+  "translit": "nâkâh",
+  "def_ro": "a lovi (lightly sau severely, literal sau figurat)",
+  "bdb_ro": "[נָכָה] vb. a lovi (nu la Qal). Niph.: „va fi lovit [de armă în luptă] și va muri”. Pu.: loviți la pământ de grindină. Hiph.: (1) a lovi (cu o singură lovitură) (2) a lovi în mod repetat, a bate un om (3) a bate din palme (4) a împunge în oală; a lovi rădăcini (5) a lovi ca să rănească (6) a lovi, despre soare (7) a lovi de moarte (8) a ataca și nimici o ceată (9) despre Dumnezeu, a lovi cu ciumă, a pedepsi; a nimici palate. Hoph.: a fi lovit"
+ },
+ "H5246": {
+  "heb": "נָמֵר",
+  "translit": "nâmêr",
+  "def_ro": "leopard (de la al sau stripes)",
+  "bdb_ro": "נָמֵר n.m. leopard"
+ },
+ "H5273": {
+  "heb": "נָעִים",
+  "translit": "nâʻîym",
+  "def_ro": "delightful (objective sau subjective, literal sau figurat)",
+  "bdb_ro": "נָעִים adj. plăcut, desfătător (poetic)"
+ },
+ "H5274": {
+  "heb": "נָעַל",
+  "translit": "nâʻal",
+  "def_ro": "propriu-zis, a prinde sus, adică cu bar sau cord; de aici, a sandal, adică furnish cu slippers",
+  "bdb_ro": "נָעַל vb. a bara, a zăvorî, a încuia"
+ },
+ "H5275": {
+  "heb": "נַעַל",
+  "translit": "naʻal",
+  "def_ro": "propriu-zis, sandal tongue; de extension sandal sau slipper (sometimes ca symbol al occupancy, refusal a marry, sau al ceva valueless)",
+  "bdb_ro": "נַ֫עַל n.f. sanda, încălțăminte"
+ },
+ "H5276": {
+  "heb": "נָעֵם",
+  "translit": "nâʻêm",
+  "def_ro": "a fi agreabil (literal sau figurat)",
+  "bdb_ro": "[נָעֵם] vb. a fi plăcut, desfătător, minunat; numai câteva atestări: despre țară, „e desfătătoare”; despre un prieten drag, „mi-ai fost foarte drag”; despre frumusețea fizică, „cât ești de frumoasă!”; despre cunoaștere, va fi desfătare"
+ },
+ "H5315": {
+  "heb": "נֶפֶשׁ",
+  "translit": "nephesh",
+  "def_ro": "propriu-zis, breathing creature, adică animal al (abstractly) vitality; folosit foarte widely în literal, accommodated sau figurat sens (bodily sau mental)",
+  "bdb_ro": "נֶ֫פֶשׁ n.f. suflet, ființă vie, viață, sine, persoană, dorință, poftă, simțire, patimă (1) cel ce respiră, ființa care respiră (2) ajunge să însemne ființă vie (3) sens specific (4) ca parte esențială a omului îl reprezintă pe om însuși (5) = loc al poftelor (6) = loc al emoțiilor și patimilor (7) folosit uneori pentru fapte ale minții (8) pentru fapte ale voinței, sens nesigur (9) = caracter, și mai nesigur (10) în Deuteronom"
+ },
+ "H5317": {
+  "heb": "נֹפֶת",
+  "translit": "nôpheth",
+  "def_ro": "dripping adică al honey (de la comb)",
+  "bdb_ro": "נֹ֫פֶת n.m. miere ce curge, miere din fagure"
+ },
+ "H5339": {
+  "heb": "נִצָּן",
+  "translit": "nitstsân",
+  "def_ro": "blossom",
+  "bdb_ro": "[נִצָּן] n.[m.] (același sens ca rădăcina asemănătoare), numai plural [Cânt. Cânt. 2:12]"
+ },
+ "H5351": {
+  "heb": "נְקֻדָּה",
+  "translit": "nᵉquddâh",
+  "def_ro": "boss",
+  "bdb_ro": "[נְקֻדָּה] n.f. punct, sau picătură — numai plural construct [Cânt. Cânt. 1:11]"
+ },
+ "H5373": {
+  "heb": "נֵרְדְּ",
+  "translit": "nêrd",
+  "def_ro": "nard, aromatic",
+  "bdb_ro": "נֵרְדְּ n.m. nard, plantă mirositoare din India (prin Persia)"
+ },
+ "H5375": {
+  "heb": "נָשָׂא",
+  "translit": "nâsâʼ",
+  "def_ro": "a lift, în mare felurime al aplicații, literal si figurat, absolut si relative",
+  "bdb_ro": "נָשָׂא vb. a ridica, a purta, a lua. Qal: (1) a ridica sus (2) a purta, a duce (3) a lua, a lua departe. Niph.: (1) a fi ridicat sus (2) a se ridica pe sine = a se scula, despre YHWH (3) a fi purtat, dus (4) a fi luat departe. Pi.: (1) a ridica sus = a înălța (2) figurat = a dori, a tânji (3) a purta necontenit (4) a lua departe. Hithp.: a se înălța pe sine. Hiph.: (1) a face pe cineva să poarte nelegiuirea (2) a face să aducă"
+ },
+ "H5390": {
+  "heb": "נְשִׁיקָה",
+  "translit": "nᵉshîyqâh",
+  "def_ro": "kiss",
+  "bdb_ro": "[נְשִׁיקָה] n.f. sărut"
+ },
+ "H5401": {
+  "heb": "נָשַׁק",
+  "translit": "nâshaq",
+  "def_ro": "a kiss, literal sau figurat (atinge); de asemenea (ca mode al attachment), a echipa cu weapons",
+  "bdb_ro": "נָשַׁק vb. a săruta. Qal: a săruta. Pi.: a săruta. Hiph.: despre aripile heruvimilor, atingându-se ușor una de alta"
+ },
+ "H5414": {
+  "heb": "נָתַן",
+  "translit": "nâthan",
+  "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc...)",
+  "bdb_ro": "נָתַן vb. a da, a pune, a așeza. Qal: (1) a da (2) a pune, a așeza (3) a face, a constitui. Niph.: (1) a fi dat (2) a fi pus, așezat. Hoph.: (1) a fi dat, dăruit; a fi dat cuiva de soție (2) a fi pus deasupra"
+ },
+ "H5437": {
+  "heb": "סָבַב",
+  "translit": "çâbab",
+  "def_ro": "a revolve, surround, sau border; folosit în various aplicații, literal si figurat",
+  "bdb_ro": "סָבַב vb. a se întoarce în jur, a merge împrejur, a înconjura. Qal: (1) a se întoarce, intranzitiv (2) a mărșălui împrejur (3) a ocoli, a mărgini (4) a face un ocol (5) a înconjura, a cuprinde. Niph.: (1) a se strânge în jurul (2) a se întoarce dintr-un drum drept (3) despre hotar, a se întoarce spre (4) pasiv, a fi trecut sub puterea cuiva. Pi.: a schimba înfățișarea unui lucru. Hiph.: (1) a întoarce, a face să se întoarcă (2) a aduce peste, o supunere (3) a întoarce, schimbând numele (4) a face să meargă împrejur (5) a înconjura cu un zid. Hoph.: (1) a fi întors, despre roata carului (2) înconjurat, despre pietre prețioase"
+ },
+ "H5439": {
+  "heb": "סָבִיב",
+  "translit": "çâbîyb",
+  "def_ro": "(ca substantiv) circle, neighbour, sau environs; dar mai ales (ca adverb, cu sau fără preposition) around",
+  "bdb_ro": "סָבִיב substantiv., folosit mai ales ca adverb și prepoziție, „de jur împrejur”, „în cerc”"
+ },
+ "H5469": {
+  "heb": "סַהַר",
+  "translit": "çahar",
+  "def_ro": "roundness",
+  "bdb_ro": "סַ֫הַר n.[m.] rotunjime [Cânt. Cânt. 7:2]"
+ },
+ "H5473": {
+  "heb": "סוּג",
+  "translit": "çûwg",
+  "def_ro": "a hem în, adică lega",
+  "bdb_ro": "[סוּג, שׂוּג] vb. a împrejmui. Qal: [Cânt. Cânt. 7:3] grămada ta de grâu, împrejmuită cu crini. Pilp. intensiv: [Isaia 17:11] tu o împrejmuiești cu grijă"
+ },
+ "H5484": {
+  "heb": "סוּסָה",
+  "translit": "çûwçâh",
+  "def_ro": "mare",
+  "bdb_ro": "[סוּסָה] n.f. iapă — cu sufix [Cânt. Cânt. 1:9]"
+ },
+ "H5553": {
+  "heb": "סֶלַע",
+  "translit": "çelaʻ",
+  "def_ro": "craggy rock, literal sau figurat ( fortress)",
+  "bdb_ro": "סֶ֫לַע n.m. stâncă, faleză"
+ },
+ "H5563": {
+  "heb": "סְמָדַר",
+  "translit": "çᵉmâdar",
+  "def_ro": "vine blossom; folosit de asemenea adverbially, abloom",
+  "bdb_ro": "[סְמַדֵר?], סְמָדַ֖֔ר, סְמָדִ֑ר n.m. floarea viței de vie"
+ },
+ "H5564": {
+  "heb": "סָמַךְ",
+  "translit": "çâmak",
+  "def_ro": "a propriu-zis (literal sau figurat); reflexively, a lean asupra sau lua hold al (în favorable sau unfavorable sens)",
+  "bdb_ro": "סָמַךְ vb. a se sprijini, a pune, a se odihni, a susține. Qal: (1) a-și pune mâna pe (2) intranzitiv, mânia ta s-a odihnit asupra mea (3) a sprijini, a susține, a ține. Niph.: reflexiv, a se sprijini, a se rezema. Pi.: „susține-mă (înviorează-mă) cu turte de stafide”"
+ },
+ "H5577": {
+  "heb": "סַנְסִן",
+  "translit": "çançin",
+  "def_ro": "twig (ca tapering)",
+  "bdb_ro": "[סַנְסִנִּים] n.[m.]pl. tulpina-ramură a curmalului — cu sufix [Cânt. Cânt. 7:9]"
+ },
+ "H5601": {
+  "heb": "סַפִּיר",
+  "translit": "çappîyr",
+  "def_ro": "gem (poate folosit pentru scratching alt substances), probabil sapphire",
+  "bdb_ro": "סַפִּיר n.[m.] safir, poate și lapislazuli"
+ },
+ "H5638": {
+  "heb": "סְתָו",
+  "translit": "çᵉthâv",
+  "def_ro": "winter (ca dark season)",
+  "bdb_ro": "סתו, סְתָיו n.m. iarnă [Cânt. Cânt. 2:11]"
+ },
+ "H5643": {
+  "heb": "סֵתֶר",
+  "translit": "çêther",
+  "def_ro": "cover (în bun sau bad, literal sau figurat sens)",
+  "bdb_ro": "סֵ֫תֶר n.[m.] acoperitoare, loc de ascunziș, taină"
+ },
+ "H5674": {
+  "heb": "עָבַר",
+  "translit": "ʻâbar",
+  "def_ro": "a cross peste; folosit foarte widely al orice transition (literal sau figurat; transitive, intransitive, intensive, causative); în special, a cover (în copulation)",
+  "bdb_ro": "עָבַר vb. a trece peste, prin, pe lângă, a trece departe. Qal: (1) a trece peste (2) a trece dincolo (3) a trece prin, a străbate (4) a trece de-a lungul, pe lângă (5) despre biciul pedepsei (6) a fi trecut, despre timp (7) a trece din mână în mână (8) a trece pe, a merge înainte (9) a trece departe. Niph.: un șuvoi care nu poate fi vadit. Pi.: (1) a face pe cineva să treacă un râu (2) a face ceva să treacă (3) a închina copiii unui dumnezeu păgân (4) a face să treacă prin sau pe lângă (5) a face săgeata să treacă dincolo (6) a face să treacă sub toiag, la numărătoare (7) a lua departe. Hiph.: (1) a face să treacă peste, a aduce peste (2) a face să treacă cu lanțuri de aur"
+ },
+ "H5704": {
+  "heb": "עַד",
+  "translit": "ʻad",
+  "def_ro": "ca far (sau long, sau much) ca, dacă al space (chiar unto) sau timp (during, while, until) sau degree (equally cu)",
+  "bdb_ro": "עַד, עֲדֵי prepoziție ca departe cât, chiar la, sus la, până, în timp ce (I) prepoziție: despre spațiu; despre timp; despre grad (II) conjuncție: până; în timp ce; despre grad, astfel încât chiar (rar) (III) formă întărită pentru „ad”"
+ },
+ "H5739": {
+  "heb": "עֵדֶר",
+  "translit": "ʻêder",
+  "def_ro": "înțelegere, adică muster (al animale)",
+  "bdb_ro": "עֵ֫דֶר n.m. turmă, cireadă"
+ },
+ "H5782": {
+  "heb": "עוּר",
+  "translit": "ʻûwr",
+  "def_ro": "a wake (literal sau figurat)",
+  "bdb_ro": "[עוּר] vb. a se trezi, a se scula. Qal: a se trezi la faptă. Niph.: a fi trezit; a fi stârnit la faptă. Pō'l.: a trezi, a stârni la faptă. Hiph.: (1) a trezi (2) sens declarativ sau demonstrativ, a lucra treaz, a fi de veghe"
+ },
+ "H5794": {
+  "heb": "עַז",
+  "translit": "ʻaz",
+  "def_ro": "tare, vehement, harsh",
+  "bdb_ro": "עַז adj. tare, puternic, aspru"
+ },
+ "H5795": {
+  "heb": "עֵז",
+  "translit": "ʻêz",
+  "def_ro": "she-goat (ca tare), dar masculin în plural (care de asemenea este folosit elliptically pentru goat's hair)",
+  "bdb_ro": "עֵז n.f. capră"
+ },
+ "H5844": {
+  "heb": "עָטָה",
+  "translit": "ʻâṭâh",
+  "def_ro": "a înfășura, adică cover, veil, clothe, sau roll",
+  "bdb_ro": "עָטָה vb. a se înveli, a se acoperi. Qal: (1) a se înveli, a se acoperi cu ceva. Hiph.: „ai învelit rușinea peste el”"
+ },
+ "H5849": {
+  "heb": "עָטַר",
+  "translit": "ʻâṭar",
+  "def_ro": "a encircle (pentru attack sau protection); în special a crown (literal sau figurat)",
+  "bdb_ro": "[עָטַר] vb. a înconjura"
+ },
+ "H5850": {
+  "heb": "עֲטָרָה",
+  "translit": "ʻăṭârâh",
+  "def_ro": "crown",
+  "bdb_ro": "עֲטָרָה n.f. cunună, coroană (1) a chipului idolesc (2) de argint și aur (3) figurat, de cinste"
+ },
+ "H5869": {
+  "heb": "עַיִן",
+  "translit": "ʻayin",
+  "def_ro": "eye (literal sau figurat); de analogy, fountain (ca eye al landscape)",
+  "bdb_ro": "עַ֫יִן n.f. ochi (1) propriu, ca organ fizic (2) ochii ca arătând însușiri sufletești; pofta ochilor, urâciunile ochilor (3) figurat, despre însușiri sufletești și trupești (4) sensuri transferate: suprafața văzută a pământului; înfățișare; sclipire, licărire (5) alte expresii: ochi pentru ochi; ochi la ochi; în prezența, sub privirea; despre o afacere; pe frunte"
+ },
+ "H5872": {
+  "heb": "עֵין גֶּדִי",
+  "translit": "ʻÊyn Gedîy",
+  "def_ro": "En-Gedi, loc în Palestine",
+  "bdb_ro": "עֵין גֶּ֫דִי n.pr.loc. En-Ghedi"
+ },
+ "H5892": {
+  "heb": "עִיר",
+  "translit": "ʻîyr",
+  "def_ro": "cetate ( loc guarded de waking sau veghea) în cel mai larg sens (chiar al mere encampment sau post)",
+  "bdb_ro": "עִיר n.[m.] agitație; de groază; de mânie"
+ },
+ "H5921": {
+  "heb": "עַל",
+  "translit": "ʻal",
+  "def_ro": "above, peste, asupra, sau împotriva (yet totdeauna în acesta last relation cu downward aspect) în mare felurime al aplicații",
+  "bdb_ro": "עַל, עָ֑ל (I) substantiv. înălțime (II) ca prepoziție, asupra, și de aici pe temeiul, potrivit cu, din pricina, în numele, cu privire la, lângă, pe lângă, împreună cu, dincolo, deasupra, peste, de, spre, la, împotriva — prepoziție cu foarte multe nuanțe de sens, folosită mai ales pentru a arăta ceva ce apasă sau se sprijină pe altceva, fie literal (o haină purtată, o povară impusă), fie figurat (o datorie, o poruncă), și de aici, prin extindere, exces, întâietate, adăugare, întindere peste ceva fără atingere, alăturare sau apropiere, mișcare, precum și diverse combinații cu alte particule; ca și conjuncție: „pentru că”, „deși”"
+ },
+ "H5927": {
+  "heb": "עָלָה",
+  "translit": "ʻâlâh",
+  "def_ro": "a urca, intransitiv (fi înalt) sau activ (sui); folosit în mare felurime al sensuri, principal si secondary, literal si figurat",
+  "bdb_ro": "עָלָה vb. a se sui, a se ridica, a urca. Qal: (1) despre persoane, a se sui, a urca (2) a se sui, în relații personale (3) despre animale, a se sui (4) despre vegetație, a răsări, a crește (5) despre fenomene naturale, a se ridica (6) despre lucruri neînsuflețite (7) despre gânduri (8) a se sui înaintea lui Dumnezeu, trufie (9) a se sui, a se întinde, despre un hotar (10) a întrece. Niph.: (1) a fi adus sus, luat sus; a se ridica de la (2) a fi înălțat, despre Dumnezeu. Hiph.: (1) a aduce sus persoane, animale (2) a face să se suie (3) mintal (4) a aduce dar, zeciuială (5) a preamări (6) a face să se suie în flacără, a aduce jertfă. Hoph.: (1) a fi dus departe (2) a fi luat sus, introdus (3) a fi adus jertfă. Hithp.: a se înălța pe sine"
+ },
+ "H5959": {
+  "heb": "עַלְמָה",
+  "translit": "ʻalmâh",
+  "def_ro": "lass (ca veiled sau private)",
+  "bdb_ro": "עַלְמָה n.f. tânără femeie (coaptă sexual; fecioară sau proaspăt măritată)"
+ },
+ "H5968": {
+  "heb": "עָלַף",
+  "translit": "ʻâlaph",
+  "def_ro": "a veil sau cover; figurat, a fi languid",
+  "bdb_ro": "[עָלַף] vb. a acoperi. Pu.: acoperit, încrustat. Hithp.: a se înveli; = a leșina"
+ },
+ "H5971": {
+  "heb": "עַם",
+  "translit": "ʻam",
+  "def_ro": "popor (ca congregated unit); în special, seminție (ca those al Israel); de aici (collectively) troops sau attendants; figurat, flock",
+  "bdb_ro": "עַם, עָם n.m. popor (1) popor, neam (2) = unități mai mici (3) = poporul de rând (4) popor în general, persoane (5) în diverse expresii"
+ },
+ "H5973": {
+  "heb": "עִם",
+  "translit": "ʻim",
+  "def_ro": "adverb sau preposition, cu (adică în conjunction cu), în varied aplicații; în special, equally cu; adesea cu prepositional prefix (si atunci de obicei unrepresented în English)",
+  "bdb_ro": "עִם prepoziție cu (1) despre însoțire și tovărășie; ajutor; fapte săvârșite împreună; dacă fapta e o luptă sau întrecere, cu sens de „împotriva”; purtarea față de o persoană; soarta comună; egalitate sau asemănare; timp, cât timp (2) despre loc, aproape de, lângă (3) despre persoane, în casa, familia sau slujba cuiva; în stăpânirea, paza sau grija cuiva; „beside” = cu excepția; cu = prietenos cu (4) idiomatic, un gând sau scop prezent cu cineva (5) figurat, împreună cu = în ciuda"
+ },
+ "H5975": {
+  "heb": "עָמַד",
+  "translit": "ʻâmad",
+  "def_ro": "a sta, în various relations (literal si figurat, intransitive si transitive)",
+  "bdb_ro": "עָמַד a-și lua locul, a sta. Qal: (1) a-și lua locul, a sta în picioare (2) a ieși înainte (3) a-și lua poziția împotriva (4) a se înfățișa înainte (5) a fi slujitor al (6) a sta departe (7) a sta tăcut (8) a sta implorator (9) a sta, despre picior sau apă (10) a se opri, a înceta să se miște (11) a fi nelucrător (12) a fi cu luare-aminte (13) a zăbovi, a rămâne, a continua, a dăinui, a răbda, a fi statornic, a stărui (14) a face să stea, a-și ține poziția (15) a sta drept (16) a se ridica, a se ivi, a veni pe scenă; a se ridica ca vrăjmaș. Hiph.: (1) a așeza, a pune (2) a face să stea ferm, sus (3) a înfățișa pe cineva înaintea împăratului (4) a numi. Hoph.: a fi înfățișat"
+ },
+ "H5982": {
+  "heb": "עַמּוּד",
+  "translit": "ʻammûwd",
+  "def_ro": "column (ca standing); de asemenea sta, adică platform",
+  "bdb_ro": "עַמּוּד, עַמֻּד n.m. stâlp, coloană"
+ },
+ "H6010": {
+  "heb": "עֵמֶק",
+  "translit": "ʻêmeq",
+  "def_ro": "vale (adică larg depression)",
+  "bdb_ro": "עֵ֫מֶק n.m. vale (propriu, adâncire, adâncime)"
+ },
+ "H6030": {
+  "heb": "עָנָה",
+  "translit": "ʻânâh",
+  "def_ro": "propriu-zis, a eye sau (în general) a heed, adică pay attention; de implicatie, a respond; de extension a begin a vorbi; în special a sing, shout, testify, announce",
+  "bdb_ro": "[עוּן] vb. a locui"
+ },
+ "H6060": {
+  "heb": "עָנָק",
+  "translit": "ʻânâq",
+  "def_ro": "necklace (ca dacă strangling)",
+  "bdb_ro": "עֲנָק n.[m.] gât, numai ca epitet gentilic, oameni cu gâtul lung (înalți), vechi popor uriaș din preajma Hebronului și din Filistia"
+ },
+ "H6071": {
+  "heb": "עָסִיס",
+  "translit": "ʻâçîyç",
+  "def_ro": "must sau fresh grape-juice (ca just trodden afară)",
+  "bdb_ro": "עָסִיס n.m. vin dulce (propriu, suc stors)"
+ },
+ "H6082": {
+  "heb": "עֹפֶר",
+  "translit": "ʻôpher",
+  "def_ro": "fawn (de la dusty color)",
+  "bdb_ro": "עֹ֫פֶר n.m. cerb tânăr, căprior"
+ },
+ "H6086": {
+  "heb": "עֵץ",
+  "translit": "ʻêts",
+  "def_ro": "pom (de la al sau firmness); de aici, wood (plural sticks)",
+  "bdb_ro": "עֵץ n.m. copac, copaci, lemn (1) (a) copac în picioare (b) colectiv, copaci (2) despre bucăți sau obiecte de lemn"
+ },
+ "H6119": {
+  "heb": "עָקֵב",
+  "translit": "ʻâqêb",
+  "def_ro": "heel (ca protuberant); de aici, track; figurat, rear (al oaste)",
+  "bdb_ro": "עָקֵב n.m. călcâi, urmă, partea din spate"
+ },
+ "H6156": {
+  "heb": "עָרֵב",
+  "translit": "ʻârêb",
+  "def_ro": "plăcut",
+  "bdb_ro": "עָרֵב adj. dulce, plăcut"
+ },
+ "H6158": {
+  "heb": "עֹרֵב",
+  "translit": "ʻôrêb",
+  "def_ro": "raven (de la al sau dusky hue)",
+  "bdb_ro": "עֹרֵב n.m. corb"
+ },
+ "H6170": {
+  "heb": "עֲרוּגָה",
+  "translit": "ʻărûwgâh",
+  "def_ro": "ceva piled sus (ca dacă (figurat) raised de mental aspiration), adică paterre",
+  "bdb_ro": "[עֲרוּגָה] n.f. terasă de grădină sau strat de flori"
+ },
+ "H6194": {
+  "heb": "עָרֵם",
+  "translit": "ʻârêm",
+  "def_ro": "heap; în special, sheaf",
+  "bdb_ro": "עֲרֵמָה n.f. grămadă"
+ },
+ "H6210": {
+  "heb": "עֶרֶשׂ",
+  "translit": "ʻeres",
+  "def_ro": "couch (propriu-zis, cu canopy)",
+  "bdb_ro": "עֶ֫רֶשׂ n.f. pat, divan"
+ },
+ "H6213": {
+  "heb": "עָשָׂה",
+  "translit": "ʻâsâh",
+  "def_ro": "a face sau face, în broadest sens si cel mai larg application",
+  "bdb_ro": "עָשָׂה vb. a face. Qal: (I) (1) a face (2) a se purta cu (3) „a face bunătate cu” (4) absolut, a lucra cu efect (II) (1) a face (2) a produce, a da roadă (3) a pregăti, mai ales gătirea hranei (4) a aduce jertfă (5) a lua aminte la, a pune în ordine (6) a păzi, a sărbători un praznic (7) a dobândi avere (8) a numi preoți (9) a înfăptui izbăvirea lucrată de YHWH (10) a folosi (11) a petrece zilele vieții. Niph.: (1) a fi făcut (2) a fi produs din viță; a fi pregătit, hrana; a fi adus ca jertfă; a fi păzit, paștele; a fi folosit"
+ },
+ "H6227": {
+  "heb": "עָשָׁן",
+  "translit": "ʻâshân",
+  "def_ro": "smoke, literal sau figurat (vapor, dust, anger)",
+  "bdb_ro": "עָשָׁן fum"
+ },
+ "H6247": {
+  "heb": "עֶשֶׁת",
+  "translit": "ʻesheth",
+  "def_ro": "fabric",
+  "bdb_ro": "עֶ֫שֶׁת n.[m.] placă — construct [Cânt. Cânt. 5:14]"
+ },
+ "H6256": {
+  "heb": "עֵת",
+  "translit": "ʻêth",
+  "def_ro": "timp, în special (adverb cu preposition) now, cand, etc...",
+  "bdb_ro": "עֵת n.f. timp (1) timpul unui eveniment (2) (a) = timpul obișnuit (b) timp potrivit, cuvenit (c) timp rânduit (d) ca nesigur (3) = experiență, soartă (4) întâmplare, prilej"
+ },
+ "H6291": {
+  "heb": "פַּג",
+  "translit": "pag",
+  "def_ro": "crude; unripe figurat",
+  "bdb_ro": "[פַּגָּה] n.f. smochină timpurie — plural, cu sufix [Cânt. Cânt. 2:13]"
+ },
+ "H6310": {
+  "heb": "פֶּה",
+  "translit": "peh",
+  "def_ro": "mouth (ca means al blowing), dacă literal sau figurat (particularly speech); în special edge, portion sau parte; adverbially (cu preposition) according a",
+  "bdb_ro": "פֶּה n.m. gură (1) gură, ca organ omenesc, de mâncat și băut; organ extern (2) mai des, ca organ al vorbirii, la om; ca și pentru râs, gâfâit; despre Dumnezeu; despre idoli; despre instrumente muzicale = sunet (3) la animale; de aici tăișul sabiei (4) gură = deschizătură, orificiu (5) capăt; porție (6) cu prepoziții"
+ },
+ "H6315": {
+  "heb": "פּוּחַ",
+  "translit": "pûwach",
+  "def_ro": "a puff, adică blow cu breath sau air; de aici, a fan (ca breeze), a utter, a kindle ( foc), a scoff",
+  "bdb_ro": "[פּוּחַ] vb. a răsufla, a sufla. Qal: până ce ziua răsuflă, adică se răcorește. Hiph.: (1) a face grădina să răspândească mireasmă (2) a pufni, a fornăi împotriva; cu focul mâniei mele voi sufla împotriva ta; a stârni, a aprinde o cetate; a pufni = a gâfâi după ceva (3) a răsufla afară, a rosti"
+ },
+ "H6337": {
+  "heb": "פָּז",
+  "translit": "pâz",
+  "def_ro": "pure (aur); de aici, aur itself (ca refined)",
+  "bdb_ro": "פַּז n.m. aur curățat, curat"
+ },
+ "H6343": {
+  "heb": "פַּחַד",
+  "translit": "pachad",
+  "def_ro": "(sudden) alarm (propriu-zis, object feared, de implicatie, feeling)",
+  "bdb_ro": "פַּ֫חַד n.m. groază (1) groază (2) = obiectul groazei (3) ca desemnare a unei divinități"
+ },
+ "H6370": {
+  "heb": "פִּילֶגֶשׁ",
+  "translit": "pîylegesh",
+  "def_ro": "concubine; de asemenea (masculin) paramour",
+  "bdb_ro": "פִּלֶ֫גֶשׁ, פִּילֶ֫גֶשׁ n.f. țiitoare (1) țiitoare (2) fie = amantă, fie stare de concubinaj"
+ },
+ "H6400": {
+  "heb": "פֶּלַח",
+  "translit": "pelach",
+  "def_ro": "slice",
+  "bdb_ro": "פֶּ֫לַח n.f. jumătate, piatră de moară"
+ },
+ "H6437": {
+  "heb": "פָּנָה",
+  "translit": "pânâh",
+  "def_ro": "a întoarce; de implicatie, a face, adică apărea, look, etc...",
+  "bdb_ro": "פָּנָה vb. a se întoarce. Qal: (1) a se întoarce spre; a se întoarce de la; a se întoarce și a face un lucru; a se abate; a se apropia (2) a se întoarce și a privi; despre lucruri neînsuflețite, a se arăta; figurat, a privi cu luare-aminte, a socoti; a privi, a aștepta; a lua în seamă. Hiph.: (1) a întoarce (2) a arăta semne de întoarcere. Hoph.: „întoarceți-vă înapoi!”"
+ },
+ "H6440": {
+  "heb": "פָּנִים",
+  "translit": "pânîym",
+  "def_ro": "face (ca parte acela turns); folosit în mare felurime al aplicații (literal si figurat); de asemenea (cu prepositional prefix) ca preposition (înainte, etc...)",
+  "bdb_ro": "[פָּנֶה], pl. פָּנִים n.m. față, și de asemenea fețe (I) (1) față, fețe (2) prezență, persoană; tehnic, a vedea fața cuiva, adică a te înfățișa înaintea lui (3) fața serafimilor (4) fața animalelor (5) fața (= suprafața) pământului (6) ca adverb de loc, înainte (7) alte expresii (II) cu prepoziții"
+ },
+ "H6471": {
+  "heb": "פַּעַם",
+  "translit": "paʻam",
+  "def_ro": "stroke, literal sau figurat (în various aplicații, ca follow)",
+  "bdb_ro": "פַּ֫עַם n.f. bătaie, pas, nicovală, dată"
+ },
+ "H6481": {
+  "heb": "פָּצַע",
+  "translit": "pâtsaʻ",
+  "def_ro": "a split, adică wound",
+  "bdb_ro": "[פָּצַע] vb. a vătăma, a răni prin lovire"
+ },
+ "H6508": {
+  "heb": "פַּרְדֵּס",
+  "translit": "pardêç",
+  "def_ro": "park",
+  "bdb_ro": "פַּרְדֵּס n.[m.] livadă, parc"
+ },
+ "H6524": {
+  "heb": "פָּרַח",
+  "translit": "pârach",
+  "def_ro": "a sparge înainte ca bud, adică bloom; în general, a spread; în special, a fly (ca extending wings); figurat, a flourish",
+  "bdb_ro": "פָּרַח vb. a înmuguri, a odrăsli, a răsări. Qal: a înmuguri, a odrăsli, a scoate lăstari, despre viță. Hiph.: (1) a face să înmugurească sau să odrăslească (2) a arăta muguri, lăstari, despre un copac"
+ },
+ "H6529": {
+  "heb": "פְּרִי",
+  "translit": "pᵉrîy",
+  "def_ro": "rod (literal sau figurat)",
+  "bdb_ro": "פְּרִי n.m. rod (1) rodul pământului, roadă în general (2) = urmași, rodul pântecelui (3) figurat, rodul faptelor, adică urmările lor"
+ },
+ "H6547": {
+  "heb": "פַּרְעֹה",
+  "translit": "Parʻôh",
+  "def_ro": "Paroh, general title al Egyptian împărați",
+  "bdb_ro": "פַּרְעֹה n.m. Faraon, titlu al împăraților egipteni"
+ },
+ "H6584": {
+  "heb": "פָּשַׁט",
+  "translit": "pâshaṭ",
+  "def_ro": "a spread afară (adică deploy în hostile array); de analogy, a despuia (adică unclothe, plunder, flay, etc...)",
+  "bdb_ro": "פָּשַׁט vb. a dezbrăca, a face un atac. Qal: (1) a-și scoate veșmântul (2) a-și părăsi adăpostul, adică a face un atac. Pi.: a dezbrăca pe cel ucis. Hiph.: (1) a dezbrăca pe cineva de veșmânt (2) a dezbrăca (3) a jupui. Hithp.: și-a dezbrăcat veșmântul"
+ },
+ "H6605": {
+  "heb": "פָּתַח",
+  "translit": "pâthach",
+  "def_ro": "a deschis larg (literal sau figurat); în special, a loosen, begin, plough, carve",
+  "bdb_ro": "פָּתַח vb. a deschide. Qal: a deschide sacul. Niph.: a fi deschis. Pi.: (1) a elibera, adică a dezlega, cămilele (2) a slăbi (și a scoate) pânza de sac (3) a deschide porți, uși. Hithp.: „dezleagă-ți lanțurile de la gât”"
+ },
+ "H6607": {
+  "heb": "פֶּתַח",
+  "translit": "pethach",
+  "def_ro": "opening (literal), adică door (poartă) sau entrance cale",
+  "bdb_ro": "פֶּ֫תַח n.m. deschizătură, ușă, intrare"
+ },
+ "H6629": {
+  "heb": "צֹאן",
+  "translit": "tsôʼn",
+  "def_ro": "collective nume pentru flock (al sheep sau goats); de asemenea figurat (al men)",
+  "bdb_ro": "צֹאן n.colectiv.f. vite mărunte, oi și capre, turmă, turme"
+ },
+ "H6643": {
+  "heb": "צְבִי",
+  "translit": "tsᵉbîy",
+  "def_ro": "splendor (ca conspicuous)",
+  "bdb_ro": "צְבִי n.m. frumusețe, cinste"
+ },
+ "H6646": {
+  "heb": "צְבִיָּה",
+  "translit": "tsᵉbîyâh",
+  "def_ro": "female gazelle",
+  "bdb_ro": "צְבִיָּה n.f. (același sens ca rădăcina asemănătoare)"
+ },
+ "H6672": {
+  "heb": "צֹהַר",
+  "translit": "tsôhar",
+  "def_ro": "lumină (adică window); dual double lumină, adică noon",
+  "bdb_ro": "[צֹ֫הַר] n.[m.] numai plural, amiază"
+ },
+ "H6677": {
+  "heb": "צַוָּאר",
+  "translit": "tsavvâʼr",
+  "def_ro": "înapoi al neck (ca acela pe care burdens sunt bound)",
+  "bdb_ro": "צַוָּאר n.m. gât, ceafa"
+ },
+ "H6692": {
+  "heb": "צוּץ",
+  "translit": "tsûwts",
+  "def_ro": "a twinkle, adică glance; de analogy, a blossom (figurat, flourish)",
+  "bdb_ro": "[צוּץ, צִיץ] vb. 1. a înflori. 2. a străluci, a sclipi. Qal: (1) a înflori (2) a străluci, a licări. Hiph.: scoate flori"
+ },
+ "H6696": {
+  "heb": "צוּר",
+  "translit": "tsûwr",
+  "def_ro": "a cramp, adică închide (în many aplicații, literal si figurat, formative sau hostile)",
+  "bdb_ro": "צוּר vb. a îngrădi, a lega, a împresura"
+ },
+ "H6703": {
+  "heb": "צַח",
+  "translit": "tsach",
+  "def_ro": "dazzling, adică sunny, bright, (figurat) evident",
+  "bdb_ro": "צַח adj. orbitor, strălucitor, limpede"
+ },
+ "H6726": {
+  "heb": "צִיּוֹן",
+  "translit": "Tsîyôwn",
+  "def_ro": "Tsijon (ca permanent capital), munte al Jerusalem",
+  "bdb_ro": "צִיּוֹן n.pr.loc. Sion"
+ },
+ "H6738": {
+  "heb": "צֵל",
+  "translit": "tsêl",
+  "def_ro": "shade, dacă literal sau figurat",
+  "bdb_ro": "צֵל n.m. umbră"
+ },
+ "H6752": {
+  "heb": "צֵלֶל",
+  "translit": "tsêlel",
+  "def_ro": "shade",
+  "bdb_ro": "צֵל n.m. umbră"
+ },
+ "H6777": {
+  "heb": "צַמָּה",
+  "translit": "tsammâh",
+  "def_ro": "veil",
+  "bdb_ro": "צַמָּה n.f. vălul femeii"
+ },
+ "H6822": {
+  "heb": "צָפָה",
+  "translit": "tsâphâh",
+  "def_ro": "propriu-zis, a lean forward, adică a peer în distance; de implicatie, a observa, await",
+  "bdb_ro": "[צָפָה] vb. a privi afară sau în jur, a iscodi, a veghea. Qal: a veghea; în rest ca substantiv, străjer. Pi.: a veghea (îndeaproape); participiu ca substantiv = străjer"
+ },
+ "H6828": {
+  "heb": "צָפוֹן",
+  "translit": "tsâphôwn",
+  "def_ro": "propriu-zis, hidden, adică dark; folosit numai al north ca quarter (gloomy si unknown)",
+  "bdb_ro": "צָפוֹן n.f. nord (ca ascuns, întunecat)"
+ },
+ "H6845": {
+  "heb": "צָפַן",
+  "translit": "tsâphan",
+  "def_ro": "a hide (de covering peste); de implicatie, a hoard sau reserve; figurat a deny; în special (favorably) a ocroti, (unfavorably) a lurk",
+  "bdb_ro": "צָפַן vb. a ascunde, a strânge ca vistierie. Qal: (1) tranzitiv, a ascunde (2) intranzitiv, a sta ascuns, a pândi. Niph.: a fi ascuns dinaintea. Hiph.: a ascunde"
+ },
+ "H6872": {
+  "heb": "צְרוֹר",
+  "translit": "tsᵉrôwr",
+  "def_ro": "parcel (ca packed sus); de asemenea kernel sau particle (ca dacă package)",
+  "bdb_ro": "צְרוֹר n.m. legătură, pachet, pungă, sac (propriu, ceva legat, adică ceva strâns/legat)"
+ },
+ "H6938": {
+  "heb": "קֵדָר",
+  "translit": "Qêdâr",
+  "def_ro": "Kedar, fiu al Ishmael; de asemenea (collectively) Bedouin (ca al lui urmași sau representatives)",
+  "bdb_ro": "קֵדָר n.pr.gentilic. (întunecat la piele? cu corturi negre?) (1) seminție de nomazi în pustia arabă (2) strămoșul lor, fiu al lui Ismael"
+ },
+ "H6963": {
+  "heb": "קוֹל",
+  "translit": "qôwl",
+  "def_ro": "voice sau sound",
+  "bdb_ro": "קוֹל n.m. sunet, glas"
+ },
+ "H6965": {
+  "heb": "קוּם",
+  "translit": "qûwm",
+  "def_ro": "a rise (în various aplicații, literal, figurat, intensive si causative)",
+  "bdb_ro": "לֵב קָמָי probabil târziu Atbaș [Ier 51:1]"
+ },
+ "H6967": {
+  "heb": "קוֹמָה",
+  "translit": "qôwmâh",
+  "def_ro": "height",
+  "bdb_ro": "קוֹמָה, קֹמָה n.f. înălțime"
+ },
+ "H6977": {
+  "heb": "קְוֻצָּה",
+  "translit": "qᵉvutstsâh",
+  "def_ro": "forelock (ca shorn)",
+  "bdb_ro": "[קְוֻצּוֹת] n.f.pl. bucle de păr"
+ },
+ "H6982": {
+  "heb": "קוֹרָה",
+  "translit": "qôwrâh",
+  "def_ro": "rafter (forming trenches ca it erau); de implicatie, roof",
+  "bdb_ro": "קוֹרָה n.f. grindă, bârnă (propriu, lucru ce se întâlnește, se potrivește cu altul)"
+ },
+ "H6996": {
+  "heb": "קָטָן",
+  "translit": "qâṭân",
+  "def_ro": "abbreviated, adică diminutive, literal (în quantity, size sau number) sau figurat (în age sau importance)",
+  "bdb_ro": "קָטָן adj. mic, tânăr, neînsemnat"
+ },
+ "H6999": {
+  "heb": "קָטַר",
+  "translit": "qâṭar",
+  "def_ro": "a smoke, adică întoarce în fragrance de foc (în special ca act al worship)",
+  "bdb_ro": "[קָטַר] vb. denominal. Pi. Hiph. a face jertfele să fumege, a le trimite sus în fum. Pi.: a face jertfele să fumege, a le aduce prin ardere. Pu.: afumat cu smirnă. Hiph.: (1) a face jertfele să fumege (2) a face tămâia să fumege, a aduce tămâie (3) a face să fumege asupra. Hoph.: a fi făcut să fumege ca jertfă"
+ },
+ "H7068": {
+  "heb": "קִנְאָה",
+  "translit": "qinʼâh",
+  "def_ro": "jealousy sau envy",
+  "bdb_ro": "קִנְאָה n.f. ardoare, râvnă, gelozie"
+ },
+ "H7070": {
+  "heb": "קָנֶה",
+  "translit": "qâneh",
+  "def_ro": "reed (ca erect); de resemblance rod (în special pentru measuring), shaft, tube, stem, radius (al arm), beam (al steelyard)",
+  "bdb_ro": "קָנֶה n.m. tulpină, trestie (1) tulpina grânelor (2) plantă de apă, trestie (3) calamus, trestie aromată (4) sensuri derivate: toiag de măsurat; unitate de măsură, o trestie (de 6 coți); brațul cântarului; tija sfeșnicului; ramurile lui; încheietura umărului"
+ },
+ "H7076": {
+  "heb": "קִנָּמוֹן",
+  "translit": "qinnâmôwn",
+  "def_ro": "cinnamon bark (ca în cinstit rolls)",
+  "bdb_ro": "קִנָּמוֹן n.m. scorțișoară (probabil cuvânt străin, venit cu marfa din răsăritul îndepărtat)"
+ },
+ "H7092": {
+  "heb": "קָפַץ",
+  "translit": "qâphats",
+  "def_ro": "a trage împreună, adică închis; de implicatie, a leap (de contracting limbs); în special, a die (de la gathering sus feet)",
+  "bdb_ro": "קָפַץ vb. a strânge laolaltă, a închide. Qal: a închide. Niph.: s-au strâns unul spre altul, despre încleștarea din moarte. Pi.: sărind (adică strângând trupul în mod repetat, în salturi) peste dealuri"
+ },
+ "H7094": {
+  "heb": "קָצַב",
+  "translit": "qâtsab",
+  "def_ro": "a clip, sau (în general) chop",
+  "bdb_ro": "[קָצַב] vb. a tăia afară, a tunde(?)"
+ },
+ "H7121": {
+  "heb": "קָרָא",
+  "translit": "qârâʼ",
+  "def_ro": "a call afară a (adică propriu-zis, address de nume, dar folosit în larg felurime al aplicații)",
+  "bdb_ro": "קָרָא vb. a chema, a proclama, a citi. Qal: (1) a chema, a striga, a rosti cu glas tare; a chema (2) a chema pe cineva (3) a proclama (4) a citi cu glas tare; a citi pentru sine (5) a chema, a convoca (6) a chema = a numi. Niph.: (1) reflexiv (2) pasiv, a fi chemat. Pu.: a fi chemat"
+ },
+ "H7181": {
+  "heb": "קָשַׁב",
+  "translit": "qâshab",
+  "def_ro": "a prick sus ears, adică hearken",
+  "bdb_ro": "[קָשַׁב] vb. a apleca, a lua aminte, cu urechile. Qal [Isaia 32:3]. Hiph.: a da atenție"
+ },
+ "H7186": {
+  "heb": "קָשֶׁה",
+  "translit": "qâsheh",
+  "def_ro": "severe (în various aplicații)",
+  "bdb_ro": "קָשֶׁה adj. tare, aspru"
+ },
+ "H7200": {
+  "heb": "רָאָה",
+  "translit": "râʼâh",
+  "def_ro": "a vedea, literal sau figurat (în numerous aplicații, direct si implied, transitive, intransitive si causative)",
+  "bdb_ro": "רָאָה vb. a vedea. Qal: (1) a vedea; a vedea cu acuzativul lucrului (2) a vedea cu un scop mai precis (3) a vedea, ca să afle (4) absolut, a vedea, a avea puterea vederii (5) a vedea = a percepe (6) a privi, a vedea, prin voință directă (7) despre observația mintală (8) a privi înăuntru, de aici a privi la, cu interes. Niph.: (1) a se arăta (2) a fi văzut (3) a fi vizibil. Hiph.: (1) a face pe cineva să vadă ceva, a arăta; a face să treacă prin ceva (2) a face să privească cu luare-aminte. Hoph.: (1) a fi făcut să vadă, a i se arăta (2) a fi arătat cuiva"
+ },
+ "H7218": {
+  "heb": "רֹאשׁ",
+  "translit": "rôʼsh",
+  "def_ro": "head (ca most easily shaken), dacă literal sau figurat (în many aplicații, al loc, timp, rank, itc.)",
+  "bdb_ro": "רֹאשׁ n.m. (1) cap, al ființei omenești; capul animalelor (2) vârf; înălțime, a stelelor (3) cap = căpetenie (om, cetate, neam, loc); cap = mare preot; capul unei familii (4) cap = față, locul căpeteniei; despre timp, începutul unei străji de noapte; izvoarele unui râu (5) căpetenie, cel mai bun, dintre mirodenii (6) cap = diviziune a unei oști (7) = sumă, mai ales „a lua suma”, a socoti (8) alte expresii"
+ },
+ "H7227": {
+  "heb": "רַב",
+  "translit": "rab",
+  "def_ro": "abundant (în quantity, size, age, number, rank, quality)",
+  "bdb_ro": "רַב adj. mult, mulți, mare (1) (adesea opus lui „puțin”): mult; mai ales despre colective, numeros; la plural, mulți; „rav” ca substantiv colectiv, persoane; comparativ cu „min” = mai numeros decât; „rav” = îndestulător, destul; ca adverb, mult, peste măsură (2) mai rar, mare"
+ },
+ "H7233": {
+  "heb": "רְבָבָה",
+  "translit": "rᵉbâbâh",
+  "def_ro": "abundance (în number), adică (în special) myriad (dacă definite sau indefinite)",
+  "bdb_ro": "רְבָבָה n.f. mulțime, miriadă, zece mii"
+ },
+ "H7257": {
+  "heb": "רָבַץ",
+  "translit": "râbats",
+  "def_ro": "a crouch (pe tot four legs folded, ca recumbent animal); de implicatie, a recline, repose, brood, lurk, imbed",
+  "bdb_ro": "רָבַץ vb. a se întinde, a se culca, a sta întins. Qal: a se culca, a sta întins. Hiph.: a face să se culce, sau să stea întins"
+ },
+ "H7272": {
+  "heb": "רֶגֶל",
+  "translit": "regel",
+  "def_ro": "foot (ca folosit în walking); de implicatie, step; de euphemistically pudenda",
+  "bdb_ro": "רֶ֫גֶל n.f. picior (1) picior (2) de trei ori (picioare, pași)"
+ },
+ "H7289": {
+  "heb": "רָדִיד",
+  "translit": "râdîyd",
+  "def_ro": "veil (ca expanded)",
+  "bdb_ro": "[רְדִיד] n.[m.] înveliș larg, sau văl mare"
+ },
+ "H7292": {
+  "heb": "רָהַב",
+  "translit": "râhab",
+  "def_ro": "a urge severely, adică (figurat) importune, embolden, capture, act insolently",
+  "bdb_ro": "[רָהַב] vb. a se purta furtunos, cu îngâmfare zgomotoasă. Qal: a se năpusti împotriva. Hiph.: despre ochi, nesigur: mă tulbură"
+ },
+ "H7298": {
+  "heb": "רַהַט",
+  "translit": "rahaṭ",
+  "def_ro": "channel sau watering-box; de resemblance ringlet al hair (ca forming parallel lines)",
+  "bdb_ro": "[רַ֫הַט] n.[m.] jgheab (unde se adună apa?); pentru adăpat vitele"
+ },
+ "H7323": {
+  "heb": "רוּץ",
+  "translit": "rûwts",
+  "def_ro": "a run (pentru whatever reason, în special a rush)",
+  "bdb_ro": "רוּץ vb. a alerga. Qal: (1) a alerga (2) (a) la plural, alergători (propriu, cei ce aleargă înainte) (b) alergător = curier (regal, sol, târziu). Pō'lēl: aleargă cu iuțeală, țâșnesc. Hiph.: a face să alerge"
+ },
+ "H7324": {
+  "heb": "רוּק",
+  "translit": "rûwq",
+  "def_ro": "a turna afară (literal sau figurat), adică empty",
+  "bdb_ro": "[רִיק] vb. Hiph. a goli, a deșerta. (1) a goli vase (2) a turna afară sau jos, ploaie (3) a scoate afară (adică a trage) sabia. Hoph.: a fi golit din vas"
+ },
+ "H7339": {
+  "heb": "רְחֹב",
+  "translit": "rᵉchôb",
+  "def_ro": "width, adică (concretely) avenue sau area",
+  "bdb_ro": "רְחוֹב n.f. loc larg, deschis, piață"
+ },
+ "H7351": {
+  "heb": "רְחִיט",
+  "translit": "rᵉchîyṭ",
+  "def_ro": "panel (ca resembling trough)",
+  "bdb_ro": "[רָהִיט] n.m.colectiv. căpriori? scânduri? (ca fâșii ce merg între grinzi?) — cu sufix [Cânt. Cânt. 1:17]"
+ },
+ "H7353": {
+  "heb": "רָחֵל",
+  "translit": "râchêl",
+  "def_ro": "ewe [ females fiind predominant element al a flock] (ca bun traveller)",
+  "bdb_ro": "רָחֵל n.f. oaie"
+ },
+ "H7364": {
+  "heb": "רָחַץ",
+  "translit": "râchats",
+  "def_ro": "a lave ( tot sau parte al lucru)",
+  "bdb_ro": "רָחַץ vb. a spăla, a spăla de, a se scălda. Qal: (1) tranzitiv, a spăla (cu apă) (2) intranzitiv, a se spăla, a se scălda. Pu.: a fi spălat. Hithp.: „dacă m-aș fi spălat cu zăpadă”"
+ },
+ "H7367": {
+  "heb": "רַחְצָה",
+  "translit": "rachtsâh",
+  "def_ro": "bathing loc",
+  "bdb_ro": "רַחְצָה n.f. (același sens ca rădăcina asemănătoare, propriu) despre oi"
+ },
+ "H7381": {
+  "heb": "רֵיחַ",
+  "translit": "rêyach",
+  "def_ro": "odor (ca dacă blown)",
+  "bdb_ro": "רֵיחַ n.m. miros, aromă (propriu, suflare)"
+ },
+ "H7393": {
+  "heb": "רֶכֶב",
+  "translit": "rekeb",
+  "def_ro": "vehicle; de implicatie, team; de extension, cavalry; de analogy rider, adică upper millstone",
+  "bdb_ro": "רֶ֫כֶב n.m. car de luptă, caretă, piatră de moară; pare-se și călăreți"
+ },
+ "H7402": {
+  "heb": "רָכַל",
+  "translit": "râkal",
+  "def_ro": "a travel pentru trading",
+  "bdb_ro": "[רָכַל] vb. probabil, a umbla împrejur, de la unul la altul"
+ },
+ "H7416": {
+  "heb": "רִמּוֹן",
+  "translit": "rimmôwn",
+  "def_ro": "pomegranate, pom (de la al sau cinstit growth) sau rod (de asemenea artificial ornament)",
+  "bdb_ro": "רִמּוֹן n.m. rodie (cuvânt străin, de origine îndoielnică)"
+ },
+ "H7447": {
+  "heb": "רָסִיס",
+  "translit": "râçîyç",
+  "def_ro": "propriu-zis, dripping a pieces, adică ruin; de asemenea dew-drop",
+  "bdb_ro": "[רָסִיס] n.[m.] picătură (de rouă) — plural construct [Cânt. Cânt. 5:2]"
+ },
+ "H7453": {
+  "heb": "רֵעַ",
+  "translit": "rêaʻ",
+  "def_ro": "associate (mai sau mai puțîn închis)",
+  "bdb_ro": "רֵעַ n.m. prieten, tovarăș, semen"
+ },
+ "H7462": {
+  "heb": "רָעָה",
+  "translit": "râʻâh",
+  "def_ro": "a tend flock; adică pășune it; intransitiv, a graze (literal sau figurat); în general a stăpâni; de extension, a associate cu (ca friend)",
+  "bdb_ro": "בֵּית־עֵ֫קֶד הָרֹעִים posibil n.pr.loc. (casa de adunare a păstorilor) [2 Regi 10:12]"
+ },
+ "H7474": {
+  "heb": "רַעְיָה",
+  "translit": "raʻyâh",
+  "def_ro": "female associate",
+  "bdb_ro": "[רַעְיָה] n.f. tovarășă"
+ },
+ "H7488": {
+  "heb": "רַעֲנָן",
+  "translit": "raʻănân",
+  "def_ro": "verdant; de analogy, nou; figurat, prosperous",
+  "bdb_ro": "[רָעַן] vb. numai Pa'lel a fi sau a crește îmbelșugat, proaspăt, verde — [Iov 15:32]"
+ },
+ "H7502": {
+  "heb": "רָפַד",
+  "translit": "râphad",
+  "def_ro": "a spread ( bed); de implicatie, a refresh",
+  "bdb_ro": "[רָפַד] vb. a întinde. Qal: el (crocodilul) întinde sania de treierat peste noroi (lasă urme pe el cu solzii lui). Pi.: apoi (a întinde afară orice sprijin, de aici) a mă sprijini cu mere"
+ },
+ "H7503": {
+  "heb": "רָפָה",
+  "translit": "râphâh",
+  "def_ro": "a slacken (în many aplicații, literal sau figurat)",
+  "bdb_ro": "רָפָה vb. a se lăsa, a slăbi. Qal: (1) a se lăsa jos (2) a se lăsa, a cădea (3) a slăbi, a se domoli, a scădea (4) a slăbi, a se retrage. Niph.: leneș. Pi. (cauzativ): a lăsa aripile să cadă. Hiph. (cauzativ): (1) a lăsa să cadă (2) a lăsa să plece (3) a se abține. Hithp.: te-ai arătat molatic"
+ },
+ "H7507": {
+  "heb": "רְפִידָה",
+  "translit": "rᵉphîydâh",
+  "def_ro": "railing (ca spread along)",
+  "bdb_ro": "[רְפִידָה] n.f. poate sprijin, adică spătar, sau braț, al lecticii; cu sufix [Cânt. Cânt. 3:10]"
+ },
+ "H7514": {
+  "heb": "רָפַק",
+  "translit": "râphaq",
+  "def_ro": "a recline",
+  "bdb_ro": "[רָפַק] vb. Hithp. a se sprijini, a se rezema [Cânt. Cânt. 8:5]"
+ },
+ "H7528": {
+  "heb": "רָצַף",
+  "translit": "râtsaph",
+  "def_ro": "a tessellate, adică embroider (ca dacă cu bright stones)",
+  "bdb_ro": "[רָצַף] vb. a potrivi împreună, a monta — Qal [Cânt. Cânt. 3:10]"
+ },
+ "H7541": {
+  "heb": "רַקָּה",
+  "translit": "raqqâh",
+  "def_ro": "propriu-zis, thinness, adică parte al head",
+  "bdb_ro": "רַקָּה n.f. tâmpla (capului)"
+ },
+ "H7544": {
+  "heb": "רֶקַח",
+  "translit": "reqach",
+  "def_ro": "propriu-zis, perfumery, adică (de implicatie) spicery (pentru flavor)",
+  "bdb_ro": "רֶ֫קַח n.[m.] mirodenie [Cânt. Cânt. 8:2]"
+ },
+ "H7565": {
+  "heb": "רֶשֶׁף",
+  "translit": "resheph",
+  "def_ro": "live coal; de analogy lightning; figurat, arrow, (ca flashing prin air); în special, fever",
+  "bdb_ro": "רֶ֫שֶׁף n.m. flacără, fulger de foc"
+ },
+ "H7585": {
+  "heb": "שְׁאוֹל",
+  "translit": "shᵉʼôwl",
+  "def_ro": "hades sau world al dead (ca dacă subterranean retreat), including al sau accessories si inmates",
+  "bdb_ro": "שְׁאוֹל, שְׁאֹל n.f. Șeol, lumea de dincolo (rădăcină nesigură; poate loc al întrebării)"
+ },
+ "H7650": {
+  "heb": "שָׁבַע",
+  "translit": "shâbaʻ",
+  "def_ro": "a seven sine, adică swear (ca dacă de repeating declaration seven times)",
+  "bdb_ro": "[שָׁבַע] vb. a jura (probabil, la origine, „a se lega prin șapte lucruri”). Qal participiu pasiv: cei legați cu jurăminte. Niph.: a jura, a face jurământ. Hiph.: (1) a face pe cineva să jure, subiect întotdeauna un om (2) a pune sub jurământ"
+ },
+ "H7688": {
+  "heb": "שָׁגַח",
+  "translit": "shâgach",
+  "def_ro": "a peep, adică glance sharply la",
+  "bdb_ro": "[שָׁגַח] vb. Hiph. a privi țintă"
+ },
+ "H7699": {
+  "heb": "שַׁד",
+  "translit": "shad",
+  "def_ro": "breast al femeie sau animal (ca bulging)",
+  "bdb_ro": "[שַׁד] n.m. sân de femeie"
+ },
+ "H7704": {
+  "heb": "שָׂדֶה",
+  "translit": "sâdeh",
+  "def_ro": "field (ca flat)",
+  "bdb_ro": "שָׂדַי n.m. câmp, țară (1) câmp cultivat (2) sălaș al fiarelor sălbatice (3) câmpie, opus muntelui (4) țară, opusă mării"
+ },
+ "H7725": {
+  "heb": "שׁוּב",
+  "translit": "shûwb",
+  "def_ro": "a întoarce înapoi (de aici, departe) transitively sau intransitiv, literal sau figurat (nu necessarily cu idea al return a starting point); în general a retreat; adesea adverbial, again",
+  "bdb_ro": "שׁוּב vb. a se întoarce înapoi, a se întoarce. Qal: (1) a se întoarce înapoi (2) a se întoarce, a veni sau a merge înapoi (3) mai ales, a se întoarce către (4) despre moarte; despre înviere din morți (5) figurat, despre relații omenești: a se întoarce la o căpetenie; a se schimba; a recurge la; a se întoarce la o stare fizică; a-și schimba cursul acțiunii (6) figurat, mai ales despre relații duhovnicești: a se lepăda de Dumnezeu; a Se întoarce departe (despre YHWH); a se întoarce la Dumnezeu, a se pocăi; a se întoarce de la rău; despre YHWH arătând bunăvoință (7) despre lucruri neînsuflețite (8) arată repetare (9) tranzitiv. Pō'l.: (1) a aduce înapoi (2) figurat, a restabili, a înviora; a repara (3) a conduce departe, ademenitor (4) a se lepăda. Hiph.: a face să se întoarcă, a aduce înapoi: a aduce înapoi în robie; a pune înapoi; a trage înapoi; a da înapoi, a restabili; a renunța; a da în plată, ca răsplată; a aduce pe cineva înapoi de la moarte; a aduce înapoi inima; a înviora; a aduce înapoi cuvintele poporului; a aduce înapoi în răzbunare asupra; a plăti ca răsplată; a respinge, a înfrânge; a întoarce fața departe sau spre; a se întoarce împotriva; a lua în considerare; a arăta întoarcere departe de idoli; a răsturna, a revoca. Hoph.: banii mei au fost întorși"
+ },
+ "H7759": {
+  "heb": "שׁוּלַמִּית",
+  "translit": "Shûwlammîyth",
+  "def_ro": "peaceful (cu article totdeauna prefixed, making it pet nume); Shulammith, epithet al Solomon's queen",
+  "bdb_ro": "שׁוּלַמִּית de obicei tâlcuit ca adjectiv gentilic feminin, Șulamita"
+ },
+ "H7760": {
+  "heb": "שׂוּם",
+  "translit": "sûwm",
+  "def_ro": "a pune (folosit în mare felurime al aplicații, literal, figurat, inferentially, si elliptically)",
+  "bdb_ro": "שׂוּם, שִׂים vb. a pune, a așeza. Qal: (1) a pune, a așeza într-un loc; a pune ceva pe; a rândui; a pune, cu „între” (2) a pune, a îndrepta (3) a pune, a rândui la un loc; a întemeia o lege, o rânduială, un neam; a numi (ca stăpânitor); a alcătui, a face; a hotărî, a fixa hotare (4) a pune, a rândui la un post; a pune în poziție, pâinea sfântă, sabia, drugii; a pune sus altare; a semăna grâu; a fixa înfățișarea (5) a face un lucru, sau o persoană, pentru, a preface în; a face, a alcătui; a duce la capăt; a numi, a da. Hiph.: „îl voi face semn”. Hoph.: „s-a pus înaintea lui”"
+ },
+ "H7776": {
+  "heb": "שׁוּעָל",
+  "translit": "shûwʻâl",
+  "def_ro": "jackal (ca burrower)",
+  "bdb_ro": "שׁוּעָל n.m. vulpe, poate și șacal"
+ },
+ "H7784": {
+  "heb": "שׁוּק",
+  "translit": "shûwq",
+  "def_ro": "street (ca run peste)",
+  "bdb_ro": "שׁוּק n.m. uliță"
+ },
+ "H7785": {
+  "heb": "שׁוֹק",
+  "translit": "shôwq",
+  "def_ro": "(lower) leg (ca runner)",
+  "bdb_ro": "שׁוֹק n.[f.] picior, coapsă"
+ },
+ "H7789": {
+  "heb": "שׁוּר",
+  "translit": "shûwr",
+  "def_ro": "a spy afară, adică (în general) survey, (pentru rau) lurk pentru, (pentru bun) care pentru",
+  "bdb_ro": "[שׁוּר] vb. a privi, a lua aminte (1) a privi (2) a lua aminte cu veghere (3) a pândi pe ascuns, a sta la pândă"
+ },
+ "H7799": {
+  "heb": "שׁוּשַׁן",
+  "translit": "shûwshan",
+  "def_ro": "lily (de la al sau whiteness), ca flower al architectural ornament; de asemenea (drept) trumpet (de la tubular shape)",
+  "bdb_ro": "שׁוּשַׁן, שׁוֹשָׁ֑ן n.m. שׁוֹשַׁנָּה n.f. de obicei crin, probabil orice floare asemănătoare crinului"
+ },
+ "H7805": {
+  "heb": "שָׁזַף",
+  "translit": "shâzaph",
+  "def_ro": "a tan (de sunburning); figurat (ca dacă de piercing ray) a scan",
+  "bdb_ro": "[שָׁזַף] vb. a prinde privirea, a privi la (cu ochiul)"
+ },
+ "H7837": {
+  "heb": "שַׁחַר",
+  "translit": "shachar",
+  "def_ro": "dawn (literal, figurat sau adverbial)",
+  "bdb_ro": "שַׁ֫חַר n.m. zori"
+ },
+ "H7838": {
+  "heb": "שָׁחֹר",
+  "translit": "shâchôr",
+  "def_ro": "propriu-zis, dusky, dar de asemenea (absol.) jetty",
+  "bdb_ro": "שָׁחֹר adj. negru"
+ },
+ "H7840": {
+  "heb": "שְׁחַרְחֹרֶת",
+  "translit": "shᵉcharchôreth",
+  "def_ro": "swarthy",
+  "bdb_ro": "[שְׁחַרְחֹר] adj. negricios — feminin [Cânt. Cânt. 1:6]"
+ },
+ "H7857": {
+  "heb": "שָׁטַף",
+  "translit": "shâṭaph",
+  "def_ro": "a gush; de implicatie, a inundate, cleanse; de analogy, a gallop, conquer",
+  "bdb_ro": "שָׁטַף vb. a se revărsa, a spăla sau a clăti. Qal: (1) a se revărsa (2) a curge (3) propriu, a spăla sau a clăti. Niph.: a fi clătit afară. Pu.: va fi frecat și clătit"
+ },
+ "H7892": {
+  "heb": "שִׁיר",
+  "translit": "shîyr",
+  "def_ro": "song; abstractly, singing",
+  "bdb_ro": "שִׁיר n.m. cântare"
+ },
+ "H7909": {
+  "heb": "שַׁכּוּל",
+  "translit": "shakkûwl",
+  "def_ro": "bereaved",
+  "bdb_ro": "שַׁכּוּל adj. lipsit, jefuit de copii"
+ },
+ "H7925": {
+  "heb": "שָׁכַם",
+  "translit": "shâkam",
+  "def_ro": "literal, a load sus (pe înapoi al om sau beast), adică a start early în morning",
+  "bdb_ro": "[שָׁכַם] vb. Hiph. denominal. a porni, a se scula devreme"
+ },
+ "H7937": {
+  "heb": "שָׁכַר",
+  "translit": "shâkar",
+  "def_ro": "a deveni tipsy; în qualified sens, a satiate cu stimulating drink sau (figurat) influence",
+  "bdb_ro": "[שָׁכַר] vb. a fi sau a deveni beat. Qal: a se îmbăta. Pi.: a îmbăta. Hiph.: la fel, adică a face pe prinți neputincioși. Hithp.: „până când te vei arăta beat?”"
+ },
+ "H7957": {
+  "heb": "שַׁלְהֶבֶת",
+  "translit": "shalhebeth",
+  "def_ro": "flare al foc",
+  "bdb_ro": "שַׁלְהֶ֫בֶת n.f. flacără"
+ },
+ "H7965": {
+  "heb": "שָׁלוֹם",
+  "translit": "shâlôwm",
+  "def_ro": "safe, adică (figurat) bine, happy, friendly; de asemenea (abstractly) welfare, adică health, belșug, pace",
+  "bdb_ro": "שָׁלוֹם n.m. întregire, sănătate, bunăstare, pace (1) întregime în număr (2) siguranță, sănătate a trupului (3) bunăstare, sănătate, prosperitate (4) pace, liniște, tihnă, mulțumire (5) pace, prietenie (6) pace de la război (7) ca adjectiv, cei aflați în pace cu el"
+ },
+ "H7971": {
+  "heb": "שָׁלַח",
+  "translit": "shâlach",
+  "def_ro": "a trimite departe, pentru, sau afară (în mare felurime al aplicații)",
+  "bdb_ro": "שָׁלַח vb. a trimite. Qal: (1) a trimite, subiect om (2) a trimite, subiect YHWH (3) a întinde, mai ales mâna (4) rareori, a trimite departe, subiect om (5) a slobozi. Niph.: scrisorile au fost trimise. Pi.: (1) a trimite departe (2) a trimite departe, subiect YHWH; a da peste; a arunca afară; a trimite afară, înainte (3) a slobozi, a pune liber (4) a scoate lăstari, ramuri (5) a lăsa jos (6) a trage. Pu.: a fi trimis departe; a fi trimisă departe, despre soția divorțată; a fi împins(?). Hiph.: „și eu (YHWH) voi trimite”"
+ },
+ "H7973": {
+  "heb": "שֶׁלַח",
+  "translit": "shelach",
+  "def_ro": "missile al attack, adică spear; de asemenea (figurat) shoot al growth; adică branch",
+  "bdb_ro": "שֶׁ֫לַח n.[m.] proiectil, armă, mlădiță (târziu)"
+ },
+ "H7982": {
+  "heb": "שֶׁלֶט",
+  "translit": "sheleṭ",
+  "def_ro": "probabil shield (ca controlling, adică protecting persoana)",
+  "bdb_ro": "[שֶׁ֫לֶט] n.m. scut(?)"
+ },
+ "H8008": {
+  "heb": "שַׂלְמָה",
+  "translit": "salmâh",
+  "def_ro": "dress",
+  "bdb_ro": "שַׂלְמָה n.f. — vezi „simlah”, veșmânt: veșmânt de deasupra"
+ },
+ "H8010": {
+  "heb": "שְׁלֹמֹה",
+  "translit": "Shᵉlômôh",
+  "def_ro": "Shelomah, David's successor",
+  "bdb_ro": "שְׁלֹמֹה n.pr.m. Solomon"
+ },
+ "H8033": {
+  "heb": "שָׁם",
+  "translit": "shâm",
+  "def_ro": "there (transferring a timp) atunci; adesea thither, sau thence",
+  "bdb_ro": "שָׁם adv. acolo, într-acolo"
+ },
+ "H8034": {
+  "heb": "שֵׁם",
+  "translit": "shêm",
+  "def_ro": "appellation, ca semn sau memorial al individuality; de implicatie honor, authority, character",
+  "bdb_ro": "שֵׁם n.m. nume (rădăcină necunoscută) (1) al unui râu, al fiarelor, al unei cetăți, desemnarea lui exactă (2) de obicei, al unei persoane; = renume; dând omului un fel de viață de dincolo de mormânt, mai ales prin fiii lui (3) nume, ca desemnare a lui Dumnezeu (4) despre dumnezei falși, folosire oprită (5) = amintire, monument"
+ },
+ "H8040": {
+  "heb": "שְׂמֹאול",
+  "translit": "sᵉmôʼwl",
+  "def_ro": "propriu-zis, dark (ca enveloped), adică north; de aici (de orientation), left mână",
+  "bdb_ro": "שְׂמֹאל, שְׂמֹאול n.[m.] stânga (rădăcină nesigură) (1) stânga, ținutul din stânga (2) mâna stângă (3) = nord (fiind în stânga cuiva ce stă cu fața spre răsărit)"
+ },
+ "H8055": {
+  "heb": "שָׂמַח",
+  "translit": "sâmach",
+  "def_ro": "probabil a brighten sus, adică (figurat) fi (causatively, face) blithe sau gleesome",
+  "bdb_ro": "שָׂמַח, שָׂמִ֑חַ vb. a se bucura, a fi vesel. Qal: (1) în viața de zi cu zi (2) a se bucura religios; subiect YHWH. Pi.: a face să se bucure, a înveseli. Hiph.: la fel ca Pi."
+ },
+ "H8057": {
+  "heb": "שִׂמְחָה",
+  "translit": "simchâh",
+  "def_ro": "blithesomeness sau glee, (religious sau festival)",
+  "bdb_ro": "שִׂמְחָה n.f. bucurie, veselie, voioșie"
+ },
+ "H8081": {
+  "heb": "שֶׁמֶן",
+  "translit": "shemen",
+  "def_ro": "grease, în special liquid (ca de la olive, adesea perfumed); figurat, richness",
+  "bdb_ro": "שֶׁ֫מֶן n.m. grăsime, untdelemn"
+ },
+ "H8084": {
+  "heb": "שְׁמֹנִים",
+  "translit": "shᵉmônîym",
+  "def_ro": "eighty, de asemenea eightieth",
+  "bdb_ro": "שְׁמֹנִים n.pl.indecl. optzeci"
+ },
+ "H8085": {
+  "heb": "שָׁמַע",
+  "translit": "shâmaʻ",
+  "def_ro": "a auzi intelligently (adesea cu implicatie al attention, obedience, etc...; causatively, a tell, etc...)",
+  "bdb_ro": "שָׁמַע vb. a auzi. Qal: (1) subiect om (2) YHWH (Dumnezeu) ca subiect. Niph.: (1) a fi auzit, despre glas, sunet (2) a fi auzit despre (3) a fi luat în seamă, ascultat (4) a li se acorda o ascultare binevoitoare glasului lor. Pi.: a făcut poporul să audă. Hiph.: (1) despre om (2) YHWH ca subiect"
+ },
+ "H8104": {
+  "heb": "שָׁמַר",
+  "translit": "shâmar",
+  "def_ro": "propriu-zis, a gard despre (ca cu spini), adică străjui; în general, a ocroti, îngriji a, etc...",
+  "bdb_ro": "שָׁמַר vb. a păzi, a veghea, a păstra. Qal: (1) a păzi, a avea grijă de; a păzi, a sta de strajă la prizonieri; a veghea pentru, a aștepta pentru; a lua aminte (2) a păstra, a ține deoparte hrană; a înfrâna (3) a păzi, a sărbători; a ține sabatul; alte îndatoriri; a urma îndrumările prudenței, dreptății, bunătății, înțelepciunii (4) uneori YHWH ca subiect (5) a păstra săptămânile secerișului. Niph.: (1) a fi cu luare-aminte (2) a se păzi, a se abține (3) a fi păzit, ocrotit. Pi.: cei ce iau aminte la deșertăciunile mincinoase. Hithp.: m-am păzit de"
+ },
+ "H8121": {
+  "heb": "שֶׁמֶשׁ",
+  "translit": "shemesh",
+  "def_ro": "sun; de implicatie, east; figurat, ray, adică (architectural) notched battlement",
+  "bdb_ro": "שֶׁ֫מֶשׁ n.f. et m. soare (1) soare (2) despre direcție: spre răsăritul soarelui = răsărit (3) obiect de închinare (4) alte expresii (5) turlă, ca strălucitoare, lucitoare"
+ },
+ "H8127": {
+  "heb": "שֵׁן",
+  "translit": "shên",
+  "def_ro": "tooth (ca sharp); în special ivory; figurat, cliff",
+  "bdb_ro": "שֵׁן n.f. dinte, fildeș"
+ },
+ "H8144": {
+  "heb": "שָׁנִי",
+  "translit": "shânîy",
+  "def_ro": "crimson, propriu-zis, insect sau al sau color, de asemenea stuff dyed cu it",
+  "bdb_ro": "שָׁנִי n.[m.] purpuriu (propriu, „coccus ilicis”, care se prinde de frunzele și crenguțele stejarului de cocenilă; trupul uscat al femelei dă materia colorantă)"
+ },
+ "H8147": {
+  "heb": "שְׁנַיִם",
+  "translit": "shᵉnayim",
+  "def_ro": "two; de asemenea (ca ordinal) twofold",
+  "bdb_ro": "שְׁנַ֫יִם, שְׁתַּיִם n.m. et f. du. doi"
+ },
+ "H8149": {
+  "heb": "שְׁנִיר",
+  "translit": "Shᵉnîyr",
+  "def_ro": "Shenir sau Senir, summit al Lebanon",
+  "bdb_ro": "שְׂנִיר n.pr.mont. numele amorit al Hermonului"
+ },
+ "H8179": {
+  "heb": "שַׁעַר",
+  "translit": "shaʻar",
+  "def_ro": "opening, adică door sau poartă",
+  "bdb_ro": "שַׁ֫עַר n.m. poartă"
+ },
+ "H8181": {
+  "heb": "שֵׂעָר",
+  "translit": "sêʻâr",
+  "def_ro": "hair (ca dacă tossed sau bristling)",
+  "bdb_ro": "שֵׂעָר n.m. păr"
+ },
+ "H8193": {
+  "heb": "שָׂפָה",
+  "translit": "sâphâh",
+  "def_ro": "lip (ca natural boundary); de implicatie, language; de analogy, margin (al vessel, apa, cloth, etc...)",
+  "bdb_ro": "שָׂפָה n.f. buză, vorbire, margine (1) buză (2) limbă, grai (3) margine: țărmul mării; malul râului"
+ },
+ "H8248": {
+  "heb": "שָׁקָה",
+  "translit": "shâqâh",
+  "def_ro": "a quaff, adică (causatively) a irrigate sau furnish potion a",
+  "bdb_ro": "[שָׁקָה] vb. Hiph. a face să bea apă, a da să bea. Hiph.: (1) a uda, a iriga pământul (2) a adăpa, a da să bea. Pu.: măduva oaselor lui e udată (înviorată, întărită)"
+ },
+ "H8259": {
+  "heb": "שָׁקַף",
+  "translit": "shâqaph",
+  "def_ro": "propriu-zis, a lean afară (al window), adică (de implicatie) peep sau gaze (passively, fi spectacle)",
+  "bdb_ro": "[שָׁקַף] vb. Niph. Hiph. a se apleca peste, a privi în jos și afară. Niph.: a se apleca peste (și a privi), a privi în jos. Hiph.: a privi în jos"
+ },
+ "H8289": {
+  "heb": "שָׁרוֹן",
+  "translit": "Shârôwn",
+  "def_ro": "Sharon, nume al loc în Palestine",
+  "bdb_ro": "שָׁרוֹן n.pr.loc. Șaron (1) (cu articol), numele câmpiei de coastă de la Iafo spre nord, vestită pentru rodnicie (2) regiune la răsărit de Iordan"
+ },
+ "H8326": {
+  "heb": "שֹׁרֶר",
+  "translit": "shôrer",
+  "def_ro": "umbilical cord, adică (de extension) bodice",
+  "bdb_ro": "[שֹׁר] n.[m.] cordonul ombilical"
+ },
+ "H8336": {
+  "heb": "שֵׁשׁ",
+  "translit": "shêsh",
+  "def_ro": "bleached stuff, adică white linen sau (de analogy) marble",
+  "bdb_ro": "שֵׁשׁ n.m. idem [șiș]; material de pavaj"
+ },
+ "H8346": {
+  "heb": "שִׁשִּׁים",
+  "translit": "shishshîym",
+  "def_ro": "sixty",
+  "bdb_ro": "שִׁשִּׁים n.indecl. șaizeci"
+ },
+ "H8354": {
+  "heb": "שָׁתָה",
+  "translit": "shâthâh",
+  "def_ro": "a imbibe (literal sau figurat)",
+  "bdb_ro": "שָׁתָה vb. a bea. Qal: (majoritatea aparițiilor). Niph.: „tot ce poate fi băut”"
+ },
+ "H8380": {
+  "heb": "תָּאוֹם",
+  "translit": "tâʼôwm",
+  "def_ro": "twin (în plural numai), literal sau figurat",
+  "bdb_ro": "[תּוֹאָם] n.m. geamăn"
+ },
+ "H8382": {
+  "heb": "תָּאַם",
+  "translit": "tâʼam",
+  "def_ro": "a fi (causatively, face) twinned, adică (figurat) duplicate sau (architectural) jointed",
+  "bdb_ro": "[תָּאַם] vb. denominal. a fi îndoit. Qal, Hiph.: a naște gemeni"
+ },
+ "H8384": {
+  "heb": "תְּאֵן",
+  "translit": "tᵉʼên",
+  "def_ro": "figurat (pom sau rod)",
+  "bdb_ro": "תְּאֵנָה n.f. smochin, (apoi) smochină"
+ },
+ "H8432": {
+  "heb": "תָּוֶךְ",
+  "translit": "tâvek",
+  "def_ro": "bisection, adică (de implicatie) centre",
+  "bdb_ro": "תָּ֫וֶךְ substantiv. mijloc"
+ },
+ "H8447": {
+  "heb": "תּוֹר",
+  "translit": "tôwr",
+  "def_ro": "succession, adică string sau (abstractly) order",
+  "bdb_ro": "תּוֹר, תֹּר n.m. împletitură, întoarcere"
+ },
+ "H8449": {
+  "heb": "תּוֹר",
+  "translit": "tôwr",
+  "def_ro": "ring-dove, adesea (figurat) ca term al endearment",
+  "bdb_ro": "תֹּר, תּוֹר n.f. (m.) turturea"
+ },
+ "H8478": {
+  "heb": "תַּחַת",
+  "translit": "tachath",
+  "def_ro": "bottom (ca depressed); numai adverbially, below (adesea cu prepositional prefix underneath), în lieu al, etc...",
+  "bdb_ro": "תַּחַת n.[m.] partea de dedesubt, de aici ca adverb la acuzativ și prepoziție, dedesubt, mai jos, în locul"
+ },
+ "H8486": {
+  "heb": "תֵּימָן",
+  "translit": "têymân",
+  "def_ro": "south (ca ființă pe drept mână al persoana facing east)",
+  "bdb_ro": "תֵּימָן n.f. sud, vânt de sud, mai ales poetic"
+ },
+ "H8490": {
+  "heb": "תִּימָרָה",
+  "translit": "tîymârâh",
+  "def_ro": "column, adică cloud",
+  "bdb_ro": "[תִּימָרָה] n.f. coloană (ca de palmier), care se lățește la vârf"
+ },
+ "H8518": {
+  "heb": "תָּלָה",
+  "translit": "tâlâh",
+  "def_ro": "a suspend (în special a gibbet)",
+  "bdb_ro": "תָּלָה vb. a spânzura, a atârna. Qal: a atârna. Niph.: prinții au fost spânzurați de mâinile lor. Pi.: a atârna, spre a fi arătat"
+ },
+ "H8530": {
+  "heb": "תַּלְפִּיָּה",
+  "translit": "talpîyâh",
+  "def_ro": "ceva tall, adică (plural collective) slenderness",
+  "bdb_ro": "תַּלְפִּיָּוֹת n.f.pl. lucruri fatale, exitiale"
+ },
+ "H8534": {
+  "heb": "תַּלְתַּל",
+  "translit": "taltal",
+  "def_ro": "trailing bough (ca pendulous)",
+  "bdb_ro": "תַּלְתַּלִּים n.f.(?) plural, ca figurat despre buclele femeii, sens nesigur [Cânt. Cânt. 5:11]"
+ },
+ "H8535": {
+  "heb": "תָּם",
+  "translit": "tâm",
+  "def_ro": "complete; de obicei (morally) pious; în special, gentle, dear",
+  "bdb_ro": "תָּם adj. întreg (1) întreg, desăvârșit (2) sănătos, întreg la minte (3) desăvârșit, curat din punct de vedere moral, cu neprihănire"
+ },
+ "H8558": {
+  "heb": "תָּמָר",
+  "translit": "tâmâr",
+  "def_ro": "palm pom",
+  "bdb_ro": "תָּמָר n.m. palmier, curmal"
+ },
+ "H8588": {
+  "heb": "תַּעֲנוּג",
+  "translit": "taʻănûwg",
+  "def_ro": "luxury",
+  "bdb_ro": "תַּעֲנוּג n.[m.] gingășie, desfătare, plăcere aleasă"
+ },
+ "H8598": {
+  "heb": "תַּפּוּחַ",
+  "translit": "tappûwach",
+  "def_ro": "apple (de la al sau fragrance), adică rod sau pom (probabil includ. others al pome order, ca quince, orange, etc...)",
+  "bdb_ro": "תַּפּוּחַ n.[m.] măr, pom de măr"
+ },
+ "H8656": {
+  "heb": "תִּרְצָה",
+  "translit": "Tirtsâh",
+  "def_ro": "Tirtsah, loc în Palestine; de asemenea Israelitess",
+  "bdb_ro": "תִּרְצָה n.pr.f. et loc. (plăcere, frumusețe) (1) f. fiica lui Țelofhad din Galaad (2) loc. veche cetate canaanită"
+ },
+ "H8658": {
+  "heb": "תַּרְשִׁישׁ",
+  "translit": "tarshîysh",
+  "def_ro": "gem, poate topaz",
+  "bdb_ro": "תַּרְשִׁישׁ n.m. piatră prețioasă, poate jasp galben, sau altă piatră de culoarea aurului"
+ },
+ "H8669": {
+  "heb": "תְּשׁוּקָה",
+  "translit": "tᵉshûwqâh",
+  "def_ro": "longing",
+  "bdb_ro": "[תְּשׁוּקָה] n.f. dorință, poftă"
+ }
+}

@@ -176,6 +176,37 @@ De completat retroactiv la Geneza 2-3 când arhiva Talmud/Kabbala/comentatori e 
 
 ---
 
+## SURSE, UNELTE ȘI DOCUMENTE — locuri fixe în repo (nu se mai cer utilizatorului, nu se mai caută)
+
+Tot ce trebuie pentru un capitol de Geneză e deja în repo. Dacă ceva pare că lipsește, se caută întâi aici; utilizatorul se întreabă doar dacă lipsește de tot.
+
+| Ce | Unde (în repo) | Note |
+|---|---|---|
+| Text de bază Rosen | `LIBRARY` din `public/biblie-demo.html` (`tora-rosen-*`) | note de subsol cu `<i>` interior: se elimină prin numărare de etichete |
+| Lexicon Strong's+BDB tradus (câmpurile `heb, translit, def_ro, bdb_ro`, cheie `H####`) | `sources/lexicon-ro/{tora,istorice,poetic,profeti,ketuvim}/*.json` (din `lexicon-vt-complet-corectat-FINAL.zip`) | Sursă openscriptures/HebrewLexicon (CC BY 4.0). `def_ro` din panou = definiția verificată; NU se copiază orbește (pot fi reziduuri englezești: audit `the/and/of/with/from` = 0). `bdb`/`bdb_ro` nu se afișează |
+| Dicționare biblice (pentru `dict_ro`) | `tora-openchristiandata/dictionaries/` (Easton, Smith, Hitchcock, Torrey; indexuri `*-torah-index.json`) | `dict_ro` = proză 2–4 propoziții în stilul Geneza 1–3, doar la cuvinte-cheie reale; dacă nu e nimic util, se sare |
+| Comentarii creștine/moderne + Sfinți Părinți | `tora-openchristiandata/commentaries/` (Adam Clarke, Calvin, JFB, John Gill, Keil-Delitzsch, Matthew Henry, Wesley) și `church_fathers_filtered/` (Ambrozie, Augustin, Vasile, Beda, Clement, Chiril, Efrem, Eusebiu, Grigorie, Hipolit, Irineu, Isidor, Ieronim, Gură de Aur, Iustin, Metodiu, Origen, Filon, Tertulian, Teodoret, Josephus, Jubilee) | engleză CC0; se aleg ~4 relevante pe verset, se traduc integral în română, se verifică contaminarea (cazul Gill/Chalmers); README-ul folderului |
+| Trimiteri TSK | `sources/tsk/tskxref.txt` (`carte cap verset sort cuvânt refs`), numerotare identică cu EDC100 | `node tools/fill-refs.js --ch=N [--write]` completează la 6 pe verset, în ordinea TSK, doar unde TSK are mai multe; verset fără intrare TSK rămâne onest cu ce are |
+| Comentatori Tanakh (12) | `public/tanakh/` + `TANAKH_GEN_INDEX` | `node tools/add-tanakh-more.js --ch=N [--write]`; ordine: Rashi, Targum Onkelos, Targum Ionatan, Ibn Ezra, Ramban, Sforno, Rashbam, Da'at, Radak, Chizkuni, Bekhor Shor, Or HaChaim |
+| Diverse → Geneza (index pe 50 de capitole) | `data/geneza-diverse-index.md` / `.json` | `node tools/index-diverse-geneza.js`; refă după orice lucrare nouă în Bibliotecă |
+| Rânduri din Diverse la un capitol | `node tools/add-from-index.js --ch=N [--write]` (unități care citează versetul la început; Talmud 1/verset, Mișna 1) + hărți manuale pentru lucrările narative paralele (`tools/add-narrative-g12.js` pentru Geneza 1–2, `tools/add-diverse-g3.js` pentru Geneza 3: Apocalipsa lui Moise, Viața lui Adam și Eva, Cartea Dreptului, Jubilee, 2 Enoh, 4 Ezdra, Sibiline, Sirah, Înțelepciunea, Odele, Barnaba, Tovit etc.) | pentru un capitol nou se face o hartă la fel, citind unitățile cu `node tools/show-units.js <slug> <cap> <v1,v2>`; textul real, fără rezumat |
+| Audit pe capitol | `node tools/audit-standard.js [N]` | cifre: cuvinte tagate/verset, `dict_ro` lipsă, comparații, trimiteri, comentarii; „text ≠ Rosen" poate fi fals-pozitiv (verificare cu balansare de etichete) |
+| Documente de standard / instrucțiuni Grok | `sources/docs/STANDARD-GENEZA-1-pasi.md`, `sources/docs/instructiuni-grok-lexicon.md`; mesajele către Grok la `de-procesat/` | |
+| Verificare vizuală | Playwright/Chromium local (nu extensia Chrome), server `PORT=3333 OPENAI_API_KEY=test node --max-old-space-size=320 server.js`; `valid.js`-ul de butoane verifică toate țintele `Citește pasajul` | țintă: 0 lipsă |
+
+### Procedura completă pe capitol de Geneză (în ordine; nu se trece la capitolul următor până nu e 100%)
+1. Text de bază = Rosen exact (verificare cu balansare de etichete).
+2. Panou lexical: `def_ro` din `sources/lexicon-ro` verificat, `greek_def_ro`/`diff_ro` doar unde e diferență reală, `dict_ro` din dicționare la cuvintele-cheie, ~9,9 cuvinte/verset ca ghid.
+3. `textCompare` (Masoretic/Septuaginta/Samaritean) la fiecare verset.
+4. Trimiteri: `tools/fill-refs.js` (țintă 5–6; unde TSK n-are, se lasă onest).
+5. Comentarii, în ordinea: (a) cei 12 comentatori Tanakh (`add-tanakh-more`), (b) Talmud 1/verset din foile integrate (restul „În lucru" până vine Grok), Mișna, Zohar, Bahir, Kabbala (din index), (c) lucrările narative/apocrife din Diverse (hartă pe capitol), (d) Sfinți Părinți + moderni din `tora-openchristiandata`, traduși integral. Același text nu apare la două versete.
+6. Validare: `node --check`, DOCTYPE, sloguri (386), `valid.js` 0 ținte lipsă, scan de fraze interzise cu deschiderea fiecărei potriviri, captură Playwright la un verset cu rânduri noi.
+7. Commit (fără `de-procesat/`, `acbooks.json.tmp`, `public/images/_preview48.png`, `package-lock.json`), push, raport cu cifre.
+
+**Stare (5 nov. 2026):** Geneza 1–3 = Tanakh 12/12, Diverse din index + hărți narative, TSK completat, `dict_ro` și comparații 100%. Geneza 4: lexicon + comparații există; lipsesc trimiteri (1,2/verset) și comentariile Diverse/creștine; Geneza 5–23 nu au `dict_ro`.
+
+---
+
 ## Reguli ferme suplimentare, valabile mereu
 - Audit complet din 3 în 3 capitole — verificare încrucișată a tot ce s-a livrat până atunci, nu doar a capitolului curent
 - Niciodată conținut inventat — dacă o sursă tace, se spune explicit
