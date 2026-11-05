@@ -7061,7 +7061,8 @@ const SUBFOLDER_CARD_IMAGES = {
   function libNorm(s){ return String(s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim(); }
   const LIB_TANAKH_SRC = [
     [/^Rashi\b(?!.*citat direct)/, "rashi"], [/^Ibn Ezra/, "ibnezra"], [/^Ramban/, "ramban"], [/^Sforno/, "sforno"],
-    [/^Rashbam/, "rashbam"], [/^Da'at Zekenim/, "daat"], [/^Radak/, "radak"]
+    [/^Rashbam/, "rashbam"], [/^Da'at Zekenim/, "daat"], [/^Radak/, "radak"],
+    [/^Targum Onkelos/, "onkelos"], [/^Targum Ionatan/, "ionatan"], [/^Chizkuni/, "chizkuni"], [/^Bekhor Shor/, "bekhorshor"], [/^Or HaChaim/, "orhachaim"]
   ];
   const LIB_MISHNA_SRC = { "Ievamot": "yevamot", "Sanhedrin": "sanhedrin", "Mikvaot": "mikvaot", "Sota": "sotah", "Eduiot": "eduyot", "Bava Kama": "bava-kamma" };
   const LIB_TALMUD_SRC = {"Berahot":"berakhot","Șabat":"shabbat","Eruvin":"eruvin","Pesahim":"pesachim","Ioma":"yoma","Suca":"sukkah","Roș Hașana":"rosh-hashanah","Taanit":"taanit","Megila":"megillah","Hagiga":"chagigah","Ievamot":"yevamot","Ketubot":"ketubot","Nazir":"nazir","Sota":"sotah","Ghitin":"gittin","Kidușin":"kiddushin","Bava Kama":"bava-kamma","Bava Batra":"bava-batra","Sanhedrin":"sanhedrin","Avoda Zara":"avodah-zarah","Hulin":"chullin","Arahin":"arakhin","Tamid":"tamid","Nida":"niddah","Berakhot":"berakhot","Chagigah":"chagigah"};
