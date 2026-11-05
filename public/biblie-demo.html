@@ -4251,11 +4251,12 @@ async function initHebrewCalendar(){
     const t = parshaEn ? window.translateParasha(parshaEn) : window.translateLeyningHoliday(holidayEn || "");
     window.setHebrewTitleWithMeaning(nameEl, t.name, t.meaning);
     renderPericopeRefs(torahRo, haftarahRo, t);
-    if(!parshaEn){ if(typeof window.renderEssaysForParasha === "function") window.renderEssaysForParasha("-"); return; }
+    if(!parshaEn){ if(typeof window.renderEssaysForParasha === "function") window.renderEssaysForParasha("-"); window.__homeDone && window.__homeDone("peri"); return; }
     const nameSlug = parshaEn.join("-").toLowerCase().replace(/'/g, "").replace(/\s+/g, "-");
     const tryRenderEssays = () => {
       if(typeof window.renderEssaysForParasha === "function" && window.parashotEssaysLoaded){
         window.renderEssaysForParasha(nameSlug);
+        window.__homeDone && window.__homeDone("peri");
       } else {
         setTimeout(tryRenderEssays, 150);
       }
@@ -4269,6 +4270,7 @@ async function initHebrewCalendar(){
     if(!p){
       nameEl.textContent = "";
       renderPericopeRefs("", "");
+      window.__homeDone && window.__homeDone("peri");
       return;
     }
     renderReading(shabbat, p.en || null, p.holiday || null, p.ref, p.haftara);
@@ -4283,6 +4285,7 @@ async function initHebrewCalendar(){
   }
 
   let HebrewCalendar, Location, HDate, getLeyningOnDate;
+  renderFallbackPericope(); // pericopa se desenează imediat din tabelul local; când sosește @hebcal de pe CDN, se rafinează
   try{
     const core = await withTimeout(import("https://cdn.jsdelivr.net/npm/@hebcal/core/+esm"), 3500);
     const leyning = await withTimeout(import("https://cdn.jsdelivr.net/npm/@hebcal/leyning/+esm"), 3500);

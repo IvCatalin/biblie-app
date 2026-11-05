@@ -3793,10 +3793,10 @@ function votdSetFromHaftarah(hint){
     const idx = window.SEARCH_HAFTAROT;
     const refEl = document.getElementById("home-verse-ref");
     const textEl = document.getElementById("home-verse-text");
-    if(!idx || !refEl || !textEl) return;
+    if(!idx || !refEl || !textEl){ window.__homeDone && window.__homeDone("votd"); return; }
     const pool = [];
     Object.keys(idx).forEach(slug => idx[slug].forEach(e => e[3].forEach(v => { if(VOTD_CURATED.has(v[0])) pool.push({ h: { slug, chIdx: e[0], title: e[2] }, v }); })));
-    if(!pool.length) return;
+    if(!pool.length){ window.__homeDone && window.__homeDone("votd"); return; }
     const day = dayOfYear(new Date());
     // versetul zilei = un verset încurajator din lista curată; dacă unul se potrivește clar cu evenimentul zilei, se alege acela, altfel urmează rotația pe zile
     const ht = votdTokens(hint);
@@ -3815,6 +3815,7 @@ function votdSetFromHaftarah(hint){
     if(studyBtn) studyBtn.style.display = "none"; // nota de studiu există doar pentru versetele din Geneza
     const readBtn = document.getElementById("hero-read-chapter-btn");
     if(readBtn) readBtn.textContent = "Citește haftara →";
+    window.__homeDone && window.__homeDone("votd");
   });
 }
 window.votdSetFromHaftarah = votdSetFromHaftarah;
@@ -4079,7 +4080,7 @@ scheduleNextMidnightRun(() => { loadVerseOfTheDay(); applyVerseOfDayBackground()
       if(my !== loadReq) return;
       ["events", "births", "deaths"].forEach(s => note(el("history-body-" + s), "Nu am putut obține istoria zilei acum.", true));
       if(window.votdSetFromHaftarah) window.votdSetFromHaftarah("");
-    } finally { clearTimeout(timer); }
+    } finally { clearTimeout(timer); window.__homeDone && window.__homeDone("hist"); }
   }
 
   // la schimbarea zilei: conținut nou, liste restrânse
@@ -5293,7 +5294,10 @@ function initApp(){
 }
 
 initApp();
-window.__mainReady = true; // aplicația (acasă) e construită: ecranul de pornire poate dispărea
+// Ecranul de pornire dispare abia când conținutul de pe acasă e încărcat: versetul zilei, istoria zilei și pericopa săptămânii (nu doar scheletul). Plasă de siguranță: 4 s.
+window.__homeNeeds = { votd: 1, hist: 1, peri: 1 };
+window.__homeDone = function(k){ if(window.__homeNeeds && window.__homeNeeds[k]){ delete window.__homeNeeds[k]; if(!Object.keys(window.__homeNeeds).length) window.__mainReady = true; } };
+setTimeout(() => { window.__mainReady = true; }, 4000);
 
 // Datele bibliotecii (library-data.js, ~11 MB) NU se cer la pornire: ar concura cu primul ecran. Se încarcă după ce acasă e gata (în pauză),
 // sau imediat ce e nevoie (Diverse, foaia de verset). După încărcare, imaginile cardurilor din Diverse se pregătesc în fundal.
