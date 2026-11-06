@@ -6089,6 +6089,7 @@ window.reopenHaftarahList = function(book){
 };
 
 function loadChapter(n){
+  window.__ch1 = true; // orice capitol cerut explicit anulează încărcarea întârziată a Genezei 1 (ensureFirstChapter)
   const book = getBook(currentBookSlug);
   if(n < 1 || n > book.chapters) return;
   if(typeof stopTts === "function") stopTts(); // schimbarea capitolului oprește orice sesiune audio
