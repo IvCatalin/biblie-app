@@ -16,6 +16,11 @@
 <link rel="manifest" href="manifest.json?v=8">
 <link rel="preload" as="image" href="images/header-bg-main.jpg?v=2">
 <link rel="preload" as="image" href="images/app-bg-fog-mountains.jpg">
+<link rel="preload" as="image" href="images/dock-acasa.png">
+<link rel="preload" as="image" href="images/dock-biblia.png">
+<link rel="preload" as="image" href="images/dock-diverse.png">
+<link rel="preload" as="image" href="images/dock-radio.png">
+<link rel="preload" as="image" href="images/dock-setari.png">
 <script>/* pozele de fundal ale cardurilor „Versetul zilei” și „Istoria zilei” se cer din primul moment (aceeași alegere ca în applyVerseOfDayBackground/applyBackground) */(function(){var n=Math.floor((new Date()-new Date(new Date().getFullYear(),0,0))/86400000),B=["images/votd-bg-1.jpg","images/votd-bg-2.jpg","images/votd-bg-3.jpg","images/votd-bg-4.jpg"];window.__cardBg=[B[n%4],B[(n+1)%4]];window.__cardBg.forEach(function(u){var l=document.createElement("link");l.rel="preload";l.as="image";l.href=u;document.head.appendChild(l);});window.__setCardBg=function(id,u){var c=document.getElementById(id);if(c){c.style.backgroundImage="linear-gradient(180deg, rgba(6,10,28,0.35) 0%, rgba(6,10,28,0.6) 100%), url('"+u+"')";c.style.backgroundSize="cover";c.style.backgroundPosition="center";}};})();</script>
 <!-- iPhone: imaginea de pornire (DAVAR logo, întreagă) o afișează sistemul de la apăsarea iconiței până se desenează prima pagină (în locul ecranului alb). Se citește la adăugarea aplicației pe ecranul principal. -->
 <link rel="apple-touch-startup-image" media="(device-width: 440px) and (device-height: 956px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="images/startup/startup-1320x2868.jpg">
@@ -9962,6 +9967,7 @@ async function initHebrewCalendar(){
 
 initHebrewCalendar();
 </script>
-<script>window.afterUI(function(){var m=document.getElementById("deferred-module"),s=document.createElement("script");s.type="module";s.textContent=m.textContent;document.body.appendChild(s);}); // calendarul evreiesc și pericopa se încarcă ultimele, după interfață</script>
+<script>window.afterUI(function(){["header-bg-diverse.jpg?v=6","category-canonic.jpg","category-arhivarabinica.jpg","category-patristice.jpg","category-deuterocanonic.jpg","category-pseudepigraf.jpg","category-apocrifent.jpg"].forEach(function(n){var i=new Image();i.src="images/"+n;if(i.decode)i.decode().catch(function(){});});}); // imaginile din Diverse (antet + carduri) se pregătesc după interfață, ca tab-ul să se deschidă instant
+window.afterUI(function(){var m=document.getElementById("deferred-module"),s=document.createElement("script");s.type="module";s.textContent=m.textContent;document.body.appendChild(s);}); // calendarul evreiesc și pericopa se încarcă ultimele, după interfață</script>
 </body>
 </html>
