@@ -309,7 +309,7 @@ window.CHAPTER_DATA = [
     "text": "Am dobândit un om de la Domnul — Cain, קין, înseamnă „dobândire”; de aceea Eva spune קנתי kanithi, am dobândit, am agonisit un om, את יהוה eth Yehovah, pe Domnul. Este nespus de greu de aflat în ce înțeles a folosit Eva aceste cuvinte, care au fost tălmăcite tot atât de felurit pe cât au fost înțelese. Cei mai mulți tâlcuitori cred că Eva își închipuia că Cain este sămânța făgăduită care avea să zdrobească capul șarpelui. Această tâlcuire pare cu adevărat prea rafinată pentru acea vreme. Este foarte probabil că ea n-a vrut să spună mai mult decât să recunoască faptul că doar prin binecuvântarea deosebită a lui Dumnezeu a putut zămisli și naște un fiu și că avea acum o nădejde întemeiată că neamul omenesc va fi continuat pe pământ. Dacă n-ar fi fost sub insuflare dumnezeiască, n-ar fi putut să-și numească fiul (chiar presupunând că era sămânța făgăduită) Iehova; iar că nu era sub o astfel de insuflare o dovedește destul greșeala ei, căci Cain, departe de a fi Mesia, era din cel rău; 1 Ioan 3:12. Putem deci presupune că את יהוה eth Yehovah, Domnul, este o formă eliptică de exprimare pentru מאת יהוה meeth Yehovah, De la Domnul, adică prin binecuvântarea dumnezeiască."
    }
   ],
-  "fidela": "Şi Adam a cunoscut-o pe Eva, soţia lui, şi ea a rămas însărcinată şi a născut pe Cain şi a spus: Am primit un bărbat de la DOMNUL."
+  "fidela": "Și Adam a cunoscut-o pe Eva, soția lui, și ea a rămas însărcinată și a născut pe Cain și a spus: Am primit un bărbat de la DOMNUL."
  },
  {
   "num": 2,
@@ -375,7 +375,7 @@ window.CHAPTER_DATA = [
     "greek": "Ἅβελ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Abel — nume propriu; același cuvânt înseamnă „suflare, abur, deșertăciune”.",
-    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
+    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Ecleziastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
     "greek_def_ro": "Ἅβελ (Abel) — Abel, nume propriu."
    },
    {
@@ -499,7 +499,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "Şi ea a mai născut pe fratele lui, Abel. Şi Abel era păzitor de oi, dar Cain era lucrător al pământului.",
+  "fidela": "Și ea a mai născut pe fratele lui, Abel. Și Abel era păzitor de oi, dar Cain era lucrător al pământului.",
   "refs": [
    "Evrei 11:4",
    "Geneza 30:29-31",
@@ -775,7 +775,7 @@ window.CHAPTER_DATA = [
     "text": "„cu timpul” — ebraică: „la sfârșitul zilelor”, probabil în sabat.<br><br>„a adus un dar Domnului” — Amândoi au arătat, prin însuși actul aducerii, credința lor în existența lui Dumnezeu și în drepturile Lui la cinstirea și închinarea lor; și dacă felul darului ar fi fost lăsat la alegerea lor, ce ar fi fost mai firesc decât ca unul să aducă „din roadele pământului”, iar celălalt „din întâii născuți ai turmei sale și din grăsimea lor” [Gen 4:4]."
    }
   ],
-  "fidela": "Şi s-a întâmplat că, după un timp, Cain a adus un dar DOMNULUI, din rodul pământului.",
+  "fidela": "Și s-a întâmplat că, după un timp, Cain a adus un dar DOMNULUI, din rodul pământului.",
   "refs": [
    "Levitic 2:1",
    "1 Împărați 17:7",
@@ -800,7 +800,7 @@ window.CHAPTER_DATA = [
     "greek": "καὶ Ἅβελ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Abel — nume propriu; același cuvânt înseamnă „suflare, abur, deșertăciune”.",
-    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
+    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Ecleziastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
     "greek_def_ro": "καί (kai) + Ἅβελ (Abel) — și Abel."
    },
    {
@@ -913,7 +913,7 @@ window.CHAPTER_DATA = [
     "greek": "Ἅβελ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Abel — nume propriu; același cuvânt înseamnă „suflare, abur, deșertăciune”.",
-    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
+    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Ecleziastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
     "greek_def_ro": "Ἅβελ (Abel) — Abel, nume propriu."
    },
    {
@@ -965,7 +965,7 @@ window.CHAPTER_DATA = [
    "Evrei 9:22",
    "1 Petru 1:19,20"
   ],
-  "fidela": "Şi Abel, de asemenea, a adus din întâii născuţi ai turmei sale şi din grăsimea lor. Şi DOMNUL s-a uitat cu plăcere la Abel şi la darul său.",
+  "fidela": "Și Abel, de asemenea, a adus din întâii născuți ai turmei sale și din grăsimea lor. Și DOMNUL s-a uitat cu plăcere la Abel și la darul său.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -1232,7 +1232,7 @@ window.CHAPTER_DATA = [
     "text": "Erau două pricini ale supărării lui: nu doar că el singur fusese respins, ci și că darul fratelui său fusese primit."
    }
   ],
-  "fidela": "Dar la Cain şi la darul său nu s-a uitat cu plăcere. Şi Cain s-a înfuriat tare şi i s-a posomorât faţa.",
+  "fidela": "Dar la Cain și la darul său nu s-a uitat cu plăcere. Și Cain s-a înfuriat tare și i s-a posomorât fața.",
   "refs": [
    "1 Ioan 3:12",
    "Numeri 16:15",
@@ -1365,7 +1365,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real."
    }
   ],
-  "fidela": "Şi DOMNUL i-a spus lui Cain: De ce te-ai înfuriat? Şi de ce ţi s-a posomorât faţa?",
+  "fidela": "Și DOMNUL i-a spus lui Cain: De ce te-ai înfuriat? Și de ce ți s-a posomorât fața?",
   "refs": [
    "Iacov 1:19-20",
    "1 Cronici 13:11-13",
@@ -1658,7 +1658,7 @@ window.CHAPTER_DATA = [
     "text": "Dacă faci bine, nu vei fi primit? — Fie: 1. Dacă ai fi făcut bine, ca fratele tău, ai fi fost primit ca el. Dumnezeu nu are părtinire; deci, dacă nu găsim primire la El, vina este numai a noastră. Aceasta va îndreptăți pe Dumnezeu în pierderea păcătoșilor și le va agrava pieirea. Nu este niciun păcătos osândit în iad care, dacă ar fi făcut bine, așa cum ar fi putut, să nu fi fost un sfânt proslăvit în cer. Curând orice gură va fi astupată cu aceasta. Sau: 2. Dacă acum faci bine: dacă te pocăiești de păcatul tău, îți îndrepți inima și viața și îți aduci jertfa într-un chip mai bun, tot vei fi primit. Vezi cât de devreme a fost propovăduită Evanghelia și binele ei oferit aici chiar unuia dintre cei mai mari păcătoși.<br><br>Îi pune în față moartea și un blestem; dar, dacă nu bine — Fiindcă n-ai făcut bine, n-ai adus cu credință și în chip drept, păcatul stă la ușă — adică numai păcatul îți împiedică primirea. Toate acestea socotite, Cain n-avea niciun motiv să se mânie pe fratele său, ci numai pe sine. Spre tine va fi dorința lui — El va rămâne față de tine ca un frate mai mic, iar tu, ca întâi născut, vei stăpâni peste el ca și până acum. Primirea darului lui Abel nu a trecut dreptul de întâi născut asupra lui (de care Cain era gelos) și nu a pus asupra lui acea cinste și putere despre care se spune că îi aparține, Gen 49:3."
    }
   ],
-  "fidela": "Dacă faci bine, nu vei fi acceptat? Iar dacă nu faci bine, păcatul pândeşte la uşă. Şi dorinţa lui se ţine de tine, dar tu să stăpâneşti peste el.",
+  "fidela": "Dacă faci bine, nu vei fi acceptat? Iar dacă nu faci bine, păcatul pândește la ușă. Și dorința lui se ține de tine, dar tu să stăpânești peste el.",
   "refs": [
    "1 Petru 5:8-9",
    "Iacov 4:7",
@@ -1733,7 +1733,7 @@ window.CHAPTER_DATA = [
     "greek": "Ἅβελ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Abel — nume propriu; același cuvânt înseamnă „suflare, abur, deșertăciune”.",
-    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
+    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Ecleziastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
     "greek_def_ro": "Ἅβελ (Abel) — Abel, nume propriu."
    },
    {
@@ -1936,7 +1936,7 @@ window.CHAPTER_DATA = [
     "text": "Și Cain a vorbit cu fratele său Abel — Parafrastul haldeu adaugă că Cain, în vreme ce vorbeau, susținea că nu există judecată viitoare și că, atunci când Abel a vorbit în apărarea adevărului, Cain a luat acest prilej să se arunce asupra lui. Scriptura ne spune pricina pentru care l-a ucis: pentru că faptele lui erau rele, iar ale fratelui său drepte; astfel s-a arătat el copil al diavolului, fiind dușman a toată dreptatea. Observă: cel dintâi care moare este un sfânt, cel dintâi care a mers în mormânt a mers în cer. Dumnezeu a vrut să-Și asigure Sieși pârga, întâiul născut al morților, cel care a deschis întâi pântecele către o altă lume."
    }
   ],
-  "fidela": "Iar Cain a vorbit cu Abel, fratele său, şi a fost aşa: când erau ei pe câmp, Cain s-a ridicat împotriva lui Abel, fratele său, şi l-a ucis."
+  "fidela": "Iar Cain a vorbit cu Abel, fratele său, și a fost așa: când erau ei pe câmp, Cain s-a ridicat împotriva lui Abel, fratele său, și l-a ucis."
  },
  {
   "num": 9,
@@ -1984,7 +1984,7 @@ window.CHAPTER_DATA = [
     "greek": "Ἅβελ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Abel — nume propriu; același cuvânt înseamnă „suflare, abur, deșertăciune”.",
-    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
+    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Ecleziastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
     "greek_def_ro": "Ἅβελ (Abel) — Abel, nume propriu."
    },
    {
@@ -2131,7 +2131,7 @@ window.CHAPTER_DATA = [
     "text": "Și Domnul i-a zis lui Cain: Unde este fratele tău Abel? — Dumnezeu îl știa vinovat; totuși îl întreabă ca să tragă de la el o mărturisire a faptei sale; căci cei ce vor să fie îndreptățiți înaintea lui Dumnezeu trebuie să se învinuiască ei înșiși. Iar el a zis: Nu știu — Astfel în Cain diavolul a fost și ucigaș, și mincinos de la început. Sunt eu păzitorul fratelui meu? — Sigur, este destul de mare ca să aibă grijă de el însuși și nici nu m-am însărcinat vreodată cu paza lui. Nu ești Tu păzitorul lui? Dacă lipsește, vina să fie asupra Ta, și nu asupra mea, care nu m-am însărcinat niciodată să-l păzesc."
    }
   ],
-  "fidela": "Şi DOMNUL i-a spus lui Cain: Unde este Abel, fratele tău? Iar el a spus: Nu ştiu; sunt eu păzitorul fratelui meu?",
+  "fidela": "Și DOMNUL i-a spus lui Cain: Unde este Abel, fratele tău? Iar el a spus: Nu știu; sunt eu păzitorul fratelui meu?",
   "refs": [
    "Ioan 8:44",
    "Geneza 3:9-11",
@@ -2535,7 +2535,7 @@ window.CHAPTER_DATA = [
     "text": "Acum deci ești blestemat de pe pământ, care și-a deschis gura să primească sângele fratelui tău din mâna ta. Numește pământ Biserica, căci nu un alt pământ își deschide gura să guste în taină sângele lui Hristos, care a fost vărsat de mâinile poporului iudeu. Asupra acestei Biserici același popor este blestemat: cu cât ea se lipește mai strâns de dragostea Creatorului ei, cu atât mai grav înțelege ea că este blestemat neamul care I se împotrivește, chiar dacă el, în mândria lui, se laudă încă drept deosebit binecuvântat."
    }
   ],
-  "fidela": "Şi acum eşti blestemat de pe pământul care şi-a deschis gura să primească sângele fratelui tău din mâna ta.",
+  "fidela": "Și acum ești blestemat de pe pământul care și-a deschis gura să primească sângele fratelui tău din mâna ta.",
   "refs": [
    "Geneza 3:17",
    "Geneza 4:14",
@@ -2693,7 +2693,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "Când lucrezi pământul, acesta nu îţi va mai da de aici înainte puterea lui; un fugar şi un rătăcitor vei fi pe pământ.",
+  "fidela": "Când lucrezi pământul, acesta nu îți va mai da de aici înainte puterea lui; un fugar și un rătăcitor vei fi pe pământ.",
   "refs": [
    "Levitic 26:20",
    "Geneza 3:17,18",
@@ -2931,7 +2931,7 @@ window.CHAPTER_DATA = [
     "text": "Nelegiuirea mea e mai mare decât să pot merita iertare. Iată, mă izgonești astăzi de la fața Ta și voi fi ascuns de fața Ta și de fața pământului și voi fi rătăcitor și fugar pe pământ. Sunt izgonit, zice, din fața Ta, și, conștiința crimei mele neîndurând însăși lumina, voi fi ascuns ca să stau în taină. Sau, desigur, mă izgonești de pe fața pământului, adică în nicio parte a pământurilor, între niciun locuitor al acestei lumi, să nu mi se îngăduie să rămân în siguranță și liber, și ascuns totodată de fața Ta, ca să nu mai fiu vrednic s-o văd, ceea ce până astăzi, privind-o adesea și auzind glasul Tău, trăiam mai fericit."
    }
   ],
-  "fidela": "Şi Cain a spus DOMNULUI: Pedeapsa mea este mai mare decât o pot purta.",
+  "fidela": "Și Cain a spus DOMNULUI: Pedeapsa mea este mai mare decât o pot purta.",
   "refs": [
    "Psalmul 51:3-5",
    "Iov 15:22",
@@ -3096,7 +3096,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "Iată, tu m-ai alungat astăzi de pe faţa pământului şi de la faţa ta voi fi ascuns şi voi fi un fugar şi un rătăcitor pe pământ şi se va întâmpla că oricine mă găseşte mă va ucide.",
+  "fidela": "Iată, tu m-ai alungat astăzi de pe fața pământului și de la fața ta voi fi ascuns și voi fi un fugar și un rătăcitor pe pământ și se va întâmpla că oricine mă găsește mă va ucide.",
   "refs": [
    "Psalmul 51:11",
    "Iov 15:20-24",
@@ -3366,7 +3366,7 @@ window.CHAPTER_DATA = [
     "text": "„oricine l-ar ucide pe Cain” — Printr-un act deosebit de îngăduință dumnezeiască, viața lui Cain urma să fie cruțată în starea atunci mică a neamului omenesc.<br><br>„a pus un semn” — nu vreun semn vizibil sau o pecete pe fruntea lui, ci un semn sau o dovadă de încredințare că viața lui va fi păstrată. Se crede, după cei mai buni scriitori, că acest semn a fost o sălbăticie de înfățișare care l-a făcut obiect al groazei și ocolirii universale."
    }
   ],
-  "fidela": "Şi DOMNUL i-a spus: De aceea, oricine ucide pe Cain, răzbunare va fi asupra lui de şapte ori. Şi DOMNUL a pus un semn pe Cain, ca nu cumva cineva, găsindu-l, să îl ucidă.",
+  "fidela": "Și DOMNUL i-a spus: De aceea, oricine ucide pe Cain, răzbunare va fi asupra lui de șapte ori. Și DOMNUL a pus un semn pe Cain, ca nu cumva cineva, găsindu-l, să îl ucidă.",
   "refs": [
    "Romani 12:19",
    "1 Împărați 16:7",
@@ -3587,7 +3587,7 @@ window.CHAPTER_DATA = [
     "text": "Țara Nod se numește astfel pentru că era țara în care Cain rătăcea în frică și tremur. Dar țara a primit și un al doilea blestem, când Dumnezeu a spus: „Când vei lucra pământul, el nu-ți va mai da puterea lui.”"
    }
   ],
-  "fidela": "Şi Cain a ieşit din faţa DOMNULUI şi a locuit în ţara Nod, la est de Eden.",
+  "fidela": "Și Cain a ieșit din fața DOMNULUI și a locuit în țara Nod, la est de Eden.",
   "refs": [
    "Iov 2:7",
    "Iov 1:12",
@@ -3813,7 +3813,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "Şi Cain a cunoscut-o pe soţia sa şi ea a rămas însărcinată şi a născut pe Enoh; şi a zidit o cetate şi a pus numele cetăţii după numele fiului său, Enoh.",
+  "fidela": "Și Cain a cunoscut-o pe soția sa și ea a rămas însărcinată și a născut pe Enoh; și a zidit o cetate și a pus numele cetății după numele fiului său, Enoh.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -3890,7 +3890,7 @@ window.CHAPTER_DATA = [
    "Geneza 4:1",
    "Geneza 5:18,22",
    "Geneza 11:4",
-   "Eclesiastul 2:4-11",
+   "Ecleziastul 2:4-11",
    "Daniel 4:30",
    "Luca 17:28,29"
   ]
@@ -4080,7 +4080,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "Şi lui Enoh i s-a născut Irad; şi Irad a născut pe Mehuiael; şi Mehuiael a născut pe Metuşael; şi Metuşael a născut pe Lameh.",
+  "fidela": "Și lui Enoh i s-a născut Irad; și Irad a născut pe Mehuiael; și Mehuiael a născut pe Metușael; și Metușael a născut pe Lameh.",
   "refs": [
    "1 Cronici 1:1-4",
    "Geneza 5:21",
@@ -4311,7 +4311,7 @@ window.CHAPTER_DATA = [
     "text": "„Lameh și-a luat două neveste” — Aceasta este cea dintâi încălcare a legii căsătoriei de care avem știre, iar practica poligamiei, ca toate celelalte încălcări ale rânduielilor lui Dumnezeu, a fost o sursă bogată de stricăciune și nenorocire."
    }
   ],
-  "fidela": "Şi Lameh şi-a luat două soţii: numele uneia era Ada şi numele celeilalte, Ţila.",
+  "fidela": "Și Lameh și-a luat două soții: numele uneia era Ada și numele celeilalte, Țila.",
   "refs": [
    "Matei 19:4-6",
    "Geneza 2:18,24",
@@ -4487,7 +4487,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real."
    }
   ],
-  "fidela": "Şi Ada a născut pe Iabal: el a fost tatăl celor ce locuiesc în corturi şi au vite.",
+  "fidela": "Și Ada a născut pe Iabal: el a fost tatăl celor ce locuiesc în corturi și au vite.",
   "refs": [
    "Geneza 9:20",
    "Geneza 4:21",
@@ -4669,7 +4669,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "Şi numele fratelui său era Iubal: el a fost tatăl tuturor celor ce mânuiesc harpa şi instrumentul de suflat.",
+  "fidela": "Și numele fratelui său era Iubal: el a fost tatăl tuturor celor ce mânuiesc harpa și instrumentul de suflat.",
   "refs": [
    "Psalmul 150:3-4",
    "Romani 4:11,12",
@@ -4928,7 +4928,7 @@ window.CHAPTER_DATA = [
     }
    }
   ],
-  "fidela": "Şi Ţila, de asemenea, a născut pe Tubal-Cain, instructor al fiecărui meşteşugar în aramă şi fier; şi sora lui Tubal-Cain a fost Naama.",
+  "fidela": "Și Țila, de asemenea, a născut pe Tubal-Cain, instructor al fiecărui meșteșugar în aramă și fier; și sora lui Tubal-Cain a fost Naama.",
   "refs": [
    "Isaia 2:4",
    "Geneza 4:1",
@@ -5239,7 +5239,7 @@ window.CHAPTER_DATA = [
     "text": "Acest pasaj este nespus de obscur. Nu știm pe cine a ucis, nici cu ce prilej; nici ce temei avea să fie atât de încrezător în ocrotirea dumnezeiască."
    }
   ],
-  "fidela": "Şi Lameh a spus soţiilor lui, Ada şi Ţila: Auziţi vocea mea, voi soţiile lui Lameh, daţi ascultare la vorbirea mea: pentru că am ucis un om pentru rănirea mea şi un tânăr pentru vânătaia mea.",
+  "fidela": "Și Lameh a spus soțiilor lui, Ada și Țila: Auziți vocea mea, voi soțiile lui Lameh, dați ascultare la vorbirea mea: pentru că am ucis un om pentru rănirea mea și un tânăr pentru vânătaia mea.",
   "refs": [
    "Geneza 4:24",
    "Numeri 23:18"
@@ -5391,7 +5391,7 @@ window.CHAPTER_DATA = [
     "text": "„Lameh a zis nevestelor sale” — Această vorbire este în formă poetică, probabil fragmentul unui poem vechi, transmis până în vremea lui Moise. Pare să arate că Lameh ucisese un om în apărare de sine, iar rostul ei este să-și asigure nevestele, prin păstrarea lui Cain, că un omor neintenționat, cum era al lui, nu putea fi în nicio primejdie."
    }
   ],
-  "fidela": "Dacă va fi răzbunat Cain de şapte ori, cu adevărat, Lameh de şaptezeci şi şapte de ori."
+  "fidela": "Dacă va fi răzbunat Cain de șapte ori, cu adevărat, Lameh de șaptezeci și șapte de ori."
  },
  {
   "num": 25,
@@ -5577,7 +5577,7 @@ window.CHAPTER_DATA = [
     "greek": "Ἅβελ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Abel — nume propriu; același cuvânt înseamnă „suflare, abur, deșertăciune”.",
-    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Eclesiastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
+    "dict_ro": "Hevel, Abel — nume care înseamnă literal „suflare, abur, deșertăciune”, aceeași rădăcină ca „hevel havalim”, „deșertăciunea deșertăciunilor” din Ecleziastul 1:2. Numele pare să prevestească scurtimea vieții lui: Abel dispare din poveste la fel de repede și de tăcut cum dispare o suflare.",
     "greek_def_ro": "Ἅβελ (Abel) — Abel, nume propriu."
    },
    {
@@ -5644,7 +5644,7 @@ window.CHAPTER_DATA = [
    "Luca 3:38",
    "Geneza 4:1-3,8,10,11"
   ],
-  "fidela": "Şi Adam a cunoscut-o din nou pe soţia lui şi ea a născut un fiu şi i-a pus numele Set: Pentru că Dumnezeu, a spus ea, mi-a rânduit o altă sămânţă în locul lui Abel, pe care l-a ucis Cain.",
+  "fidela": "Și Adam a cunoscut-o din nou pe soția lui și ea a născut un fiu și i-a pus numele Set: Pentru că Dumnezeu, a spus ea, mi-a rânduit o altă sămânță în locul lui Abel, pe care l-a ucis Cain.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -5985,7 +5985,7 @@ window.CHAPTER_DATA = [
     "text": "(Versetul 26) Și i-a pus numele Enos: acesta a nădăjduit să cheme numele Domnului Dumnezeu. Precum Adam se tâlcuiește „om”, așa și Enos, după felurimea limbii ebraice, se numește „om” sau „bărbat”. Și e frumos că, având acest cuvânt, se scrie despre el: „Atunci a fost începutul chemării numelui Domnului Dumnezeu”: deși mulți evrei tâlcuiesc altfel, că în acel timp s-au făcut întâi idoli în numele Domnului și după asemănarea Lui."
    }
   ],
-  "fidela": "Şi lui Set, de asemenea, i s-a născut un fiu şi i-a pus numele Enos: atunci au început oamenii să cheme numele DOMNULUI.",
+  "fidela": "Și lui Set, de asemenea, i s-a născut un fiu și i-a pus numele Enos: atunci au început oamenii să cheme numele DOMNULUI.",
   "refs": [
    "Facerea 5:6",
    "Geneza 4:1",

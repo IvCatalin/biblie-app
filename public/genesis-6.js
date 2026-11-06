@@ -104,7 +104,7 @@ window.CHAPTER_DATA = [
     "t": " –"
    }
   ],
-  "fidela": "Şi s-a întâmplat, pe când oamenii au început a se înmulţi pe faţa pământului şi li s-au născut fiice,",
+  "fidela": "Și s-a întâmplat, pe când oamenii au început a se înmulți pe fața pământului și li s-au născut fiice,",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -313,7 +313,7 @@ window.CHAPTER_DATA = [
     "text": "Interpretarea „fiii lui Dumnezeu” = îngeri căzuți nu a fost doar o poziție izolată — a fost citirea dominantă în primele secole creștine, susținută explicit de Justin Martirul, Clement din Alexandria, Origen, Irineu și **Tertulian** (toți „Părinți ante-niceeni”), alături de istoricii evrei Josephus și Filon și de istoricul creștin Eusebiu din Cezareea. Abia mai târziu, începând cu Iulius Africanul (sec. III) și mai ales cu Augustin (sec. IV-V), s-a impus în Apus citirea alternativă — „fiii lui Dumnezeu” ca linia dreaptă a lui Șet, iar „fiicele oamenilor” ca femei din linia lui Cain — cea pe care o urmează, în mare, și Rashi mai târziu (v. comentariul de mai sus)."
    }
   ],
-  "fidela": "Că fiii lui Dumnezeu au văzut că fiicele oamenilor erau frumoase şi şi-au luat soţii din toate pe care le-au ales.",
+  "fidela": "Că fiii lui Dumnezeu au văzut că fiicele oamenilor erau frumoase și și-au luat soții din toate pe care le-au ales.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -465,7 +465,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "«Duhul Meu nu va sălășlui (lo yadon).» Unii spun că este ca „și și-a pus sabia înapoi în teacă (nedanah)”, căci trupul este pentru duh ca o teacă; iar martorul: „mi s-a mâhnit duhul”. Doar că atunci yadon ar fi o altă rădăcină, ca „dacă i se va urca până la ceruri înălțimea (siʾo)”, care este din verbele cu ʿayin de odihnă; și ca el naśa, și multe altele. Iar unii spun că forma lui este ca „și se întoarce (we-yašov) țărâna”, și este din rădăcina din („judecată”), căci duhul este judecător în trup.<br><br>«Căci și el (be-šaggam).» Šin este ca în še-kakhah; și va fi sensul lui: nu va rămâne duhul Meu, care era de la Mine – și tot așa a spus Eclesiastul: „și duhul se întoarce la Dumnezeu, care l-a dat” –, ci duhul omului singur, din pricina acestei silnicii; și încă, pentru că omul este carne, și el ajunge până la o vreme, și se micșorează când cel făcut îl biruie pe cel care face.<br><br>«Și zilele lui vor fi.» Unii spun că aceasta este măsura oricărui om; și dacă am găsit mai mult, tot așa am găsit și mai puțin, dar vorbește despre cei mai mulți. Dar aceasta nu este adevărat, căci iată, Sem a trăit șase sute de ani, și toate generațiile de după el au trăit mulți ani, iar în zilele lui Peleg s-au împuținat anii, iar din zilele lui David până azi, șaptezeci sau optzeci de ani. Iar adevărul este ce a spus traducătorul arameic: că i-a dat omului un termen; ca sensul lui „încă patruzeci de zile”: dacă se vor întoarce, vor scăpa, iar dacă nu se vor întoarce, vor muri. Și nu-ți pune inima la numărul „și Noe era de cinci sute de ani”, căci nu este „înainte” și „după” în Tora. Și iată, este scris „și Terah a murit în Haran”, iar după el „și Domnul i-a spus lui Avram: «Pleacă din țara ta»”, iar noi știm că Terah n-a murit până ce Isaac a fost de treizeci și cinci de ani; și multe ca el."
+    "text": "«Duhul Meu nu va sălășlui (lo yadon).» Unii spun că este ca „și și-a pus sabia înapoi în teacă (nedanah)”, căci trupul este pentru duh ca o teacă; iar martorul: „mi s-a mâhnit duhul”. Doar că atunci yadon ar fi o altă rădăcină, ca „dacă i se va urca până la ceruri înălțimea (siʾo)”, care este din verbele cu ʿayin de odihnă; și ca el naśa, și multe altele. Iar unii spun că forma lui este ca „și se întoarce (we-yašov) țărâna”, și este din rădăcina din („judecată”), căci duhul este judecător în trup.<br><br>«Căci și el (be-šaggam).» Šin este ca în še-kakhah; și va fi sensul lui: nu va rămâne duhul Meu, care era de la Mine – și tot așa a spus Ecleziastul: „și duhul se întoarce la Dumnezeu, care l-a dat” –, ci duhul omului singur, din pricina acestei silnicii; și încă, pentru că omul este carne, și el ajunge până la o vreme, și se micșorează când cel făcut îl biruie pe cel care face.<br><br>«Și zilele lui vor fi.» Unii spun că aceasta este măsura oricărui om; și dacă am găsit mai mult, tot așa am găsit și mai puțin, dar vorbește despre cei mai mulți. Dar aceasta nu este adevărat, căci iată, Sem a trăit șase sute de ani, și toate generațiile de după el au trăit mulți ani, iar în zilele lui Peleg s-au împuținat anii, iar din zilele lui David până azi, șaptezeci sau optzeci de ani. Iar adevărul este ce a spus traducătorul arameic: că i-a dat omului un termen; ca sensul lui „încă patruzeci de zile”: dacă se vor întoarce, vor scăpa, iar dacă nu se vor întoarce, vor muri. Și nu-ți pune inima la numărul „și Noe era de cinci sute de ani”, căci nu este „înainte” și „după” în Tora. Și iată, este scris „și Terah a murit în Haran”, iar după el „și Domnul i-a spus lui Avram: «Pleacă din țara ta»”, iar noi știm că Terah n-a murit până ce Isaac a fost de treizeci și cinci de ani; și multe ca el."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
@@ -488,7 +488,7 @@ window.CHAPTER_DATA = [
     "text": "«Iar Domnul a spus: „Duhul Meu nu va sălășlui (lo yadon) veșnic în om”.» A spus în inima Lui, sau i-a spus lui Noe. Iar cuvântul lo yadon l-a explicat domnul, tatăl meu, binecuvântată fie amintirea lui, din „stârnește ceartă (madon)”; adică duhul Meu cel de sus, pe care l-am suflat în om, nu va mai fi în ceartă pururi cu trupul, căci trupul se lasă tras după pofta dobitoacelor; și aceasta, întrucât este carne, iar în firea cărnii sunt înfipte și întipărite poftele; le voi da răgaz o sută douăzeci de ani: dacă se vor întoarce prin pocăință; iar dacă nu, îi voi nimici din lume. Și l-au mai explicat din sensul lui „și și-a pus sabia în teacă (nedanah)”, a cărui explicație este teaca sabiei; iar cuvântul yadon ar fi trebuit să aibă dageș pentru lipsa nun-ului, numai că a venit în el vocala lungă în locul dageș-ului, cum a venit în cuvântul „Iacov a fiert (va-yazed) o tocană”. Iar explicația: duhul nu va fi în teaca lui, care este trupul, ci îl voi scoate din el și voi nimici duhul și trupul. Și în Bereșit Rabba: „A spus Rabbi Yișmaʿel, fiul lui Rabbi Yose: a spus Sfântul, binecuvântat fie El: nu Îmi dau duhul în ceasul în care dau răsplata drepților. Rabbi Yannai și Rabbi Șimon ben Lakiș spun amândoi: nu este Gheena în viitorul ce va să vină, ci este o zi care îi arde pe cei răi. Rabbi Yehuda, fiul lui Rabbi Ilai, a spus: nici zi, nici Gheena, ci este un foc care va ieși din trupul celor răi și îi va arde, cum s-a spus: «Zămisliți fân, nașteți paie; duhul vostru este un foc care vă va mistui»”. Și am mai scris un lucru despre Gheena la versetul „Și a văzut Dumnezeu tot ce făcuse și, iată, era foarte bine”. „A spus Rabbi Yehuda, fiul lui Rabbi Ilai: lo yadon ruḥi – aceste generații (duhuri) nu vor fi judecate înaintea Mea pe veci. Rav Huna a spus în numele lui Rav Aḥa: lo yadon – în ceasul în care voi întoarce duhul în teaca lui, nu voi întoarce aceste duhuri în tecile lor”. Și au mai spus: „generația potopului nu are parte de lumea care vine și nu va fi judecată, căci s-a spus «Duhul Meu nu va sălășlui (lo yadon) veșnic în om» – nici duh, nici judecată (din)”.<br><br>«Căci și el (be-šagam).» Șin-ul este cu pataḥ, ca: „până ce m-am ridicat (šaqqamti), eu, Debora”; iar explicația: întrucât și el este trup; adică de ce nu va sălășlui duhul Meu în om pe veci? Pentru că și el este trup, ca dobitoacele; căci, deși în el este un duh de sus, iată, și el este trup, iar trupul trage duhul spre poftele lui; de aceea îi voi da acestui om răgaz o sută douăzeci de ani: dacă se va întoarce, bine – îi voi păstra în lume; iar dacă nu, îi voi nimici din lume. Aceasta este explicația lui. «Zilele lui.» Zilele pe care i le voi da ca răgaz; iar motivul celor o sută douăzeci nu îl știm, ci așa a fost voia Creatorului."
    }
   ],
-  "fidela": "Şi DOMNUL a spus: Duhul meu nu se va lupta întotdeauna cu omul, căci el este de asemenea şi carne; totuşi zilele lui vor fi o sută douăzeci de ani.",
+  "fidela": "Și DOMNUL a spus: Duhul meu nu se va lupta întotdeauna cu omul, căci el este de asemenea și carne; totuși zilele lui vor fi o sută douăzeci de ani.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -638,7 +638,7 @@ window.CHAPTER_DATA = [
     "def_ro": "renume."
    }
   ],
-  "fidela": "Erau uriaşi pe pământ în acele zile şi, de asemenea, după aceea, când fiii lui Dumnezeu au intrat la fiicele oamenilor şi ele le-au născut copii, aceştia au fost războinicii, care au fost în vechime oameni de renume.",
+  "fidela": "Erau uriași pe pământ în acele zile și, de asemenea, după aceea, când fiii lui Dumnezeu au intrat la fiicele oamenilor și ele le-au născut copii, aceștia au fost războinicii, care au fost în vechime oameni de renume.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -809,7 +809,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Dumnezeu a văzut că stricăciunea omului era mare pe pământ şi că fiecare imaginaţie a gândurilor inimii sale era numai facere de rău continuă.",
+  "fidela": "Și Dumnezeu a văzut că stricăciunea omului era mare pe pământ și că fiecare imaginație a gândurilor inimii sale era numai facere de rău continuă.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -958,7 +958,7 @@ window.CHAPTER_DATA = [
     "text": "Este scris (Geneza 6:6): «Și Domnul S-a căit că a făcut pe om pe pământ» — ca să excludă pe Adam de sus, care nu era pe pământ. «Și Domnul S-a căit» — aceasta s-a spus despre Zeʿir Anpin. «Și S-a întristat (vayitʿațev) în inima Lui» — nu s-a spus «a întristat» (vayaʿațev), ci «vayitʿațev» — El S-a întristat, căci de El atârnă lucrul; ca să excludă pe Cel Care nu S-a întristat. «Către inima Lui (el libo)» — nu este scris «în inima Lui», ci «către inima Lui» — ca cel care se întristează (și se plânge) Stăpânului său, căci a arătat aceasta inimii tuturor inimilor."
    }
   ],
-  "fidela": "Şi aceasta l-a făcut pe DOMNUL să se pocăiască pentru că a făcut pe om pe pământ şi l-a mâhnit în inima lui.",
+  "fidela": "Și aceasta l-a făcut pe DOMNUL să se pocăiască pentru că a făcut pe om pe pământ și l-a mâhnit în inima lui.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -1145,7 +1145,7 @@ window.CHAPTER_DATA = [
     "t": ".”"
    }
   ],
-  "fidela": "Şi DOMNUL a spus: Voi nimici de pe faţa pământului pe omul pe care l-am creat, deopotrivă om şi animal şi târâtoarea şi păsările cerului, fiindcă aceasta mă face să mă pocăiesc că i-am făcut.",
+  "fidela": "Și DOMNUL a spus: Voi nimici de pe fața pământului pe omul pe care l-am creat, deopotrivă om și animal și târâtoarea și păsările cerului, fiindcă aceasta mă face să mă pocăiesc că i-am făcut.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -1464,7 +1464,7 @@ window.CHAPTER_DATA = [
     "text": "Spre deosebire de Uta-napiști din Ghilgameș, ales pe criterii neclare/arbitrare de zeul Ea, Noe este ales explicit pentru caracterul lui moral — „om drept, integru” — o distincție teologică importantă remarcată constant de cercetători care compară cele două tradiții narative."
    }
   ],
-  "fidela": "Acestea sunt generaţiile lui Noe: Noe a fost un bărbat drept şi desăvârşit în generaţiile lui şi Noe a umblat cu Dumnezeu.",
+  "fidela": "Acestea sunt generațiile lui Noe: Noe a fost un bărbat drept și desăvârșit în generațiile lui și Noe a umblat cu Dumnezeu.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -1575,7 +1575,7 @@ window.CHAPTER_DATA = [
     "def_ro": "Iafet."
    }
   ],
-  "fidela": "Şi Noe a născut trei fii: Sem, Ham şi Iafet.",
+  "fidela": "Și Noe a născut trei fii: Sem, Ham și Iafet.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -1696,7 +1696,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi pământul era corupt înaintea lui Dumnezeu şi pământul era umplut de violenţă.",
+  "fidela": "Și pământul era corupt înaintea lui Dumnezeu și pământul era umplut de violență.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -1886,7 +1886,7 @@ window.CHAPTER_DATA = [
     "text": "„Și Elohim (Dumnezeu) a văzut pământul, și iată era stricat.” De ce era stricat? Pentru că „orice făptură își stricase calea”, cum s-a spus. Rabbi Ḥiyya a deschis versetul și a zis: (Iona 3:10) „Și Elohim a văzut faptele lor, că s-au întors de la calea lor cea rea.” Vino și vezi: în ceasul în care oamenii sunt drepți și păzesc poruncile Torei, atunci pământul se întărește și toată bucuria se află în el. Care este motivul? Pentru că Șekhinah sălășluiește pe pământ, și atunci toți, cei de sus și cei de jos, sunt în bucurie. Și când oamenii își strică căile și nu păzesc poruncile Torei și păcătuiesc înaintea Stăpânului lor, atunci, ca să zicem așa, o împing pe Șekhinah din lume, și pământul rămâne stricat. Căci Șekhinah este împinsă și nu sălășluiește pe el, și atunci se strică. Care este motivul că se strică? Pentru că un alt duh sălășluiește pe el, care strică lumea. Și de aceea spunem că Israel dă tărie lui Elohim, căci ei țin lumea. Elohim – aceasta este Șekhinah."
    }
   ],
-  "fidela": "Şi Dumnezeu a privit peste pământ şi, iată, acesta era corupt, pentru că toată făptura şi-a corupt calea pe pământ.",
+  "fidela": "Și Dumnezeu a privit peste pământ și, iată, acesta era corupt, pentru că toată făptura și-a corupt calea pe pământ.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -2078,7 +2078,7 @@ window.CHAPTER_DATA = [
     "text": "Și omul care este drept este el însuși jertfă pentru ispășire. Iar altul, care nu este drept, nu este jertfă, pentru că are în el un cusur, căci este scris: (Leviticul 22) „căci nu va fi primit” etc. Și de aceea ṭadiqii sunt ispășirea lumii și sunt jertfa în lume (până aici). Vino și vezi: „Și Dumnezeu i-a zis lui Noaḥ: Sfârșitul oricărei făpturi a venit înaintea Mea” – ca să ia îngăduință să întunece fețele oamenilor lumii. Și de aceea: „iată, Eu îi voi nimici împreună cu pământul”. (Și de aceea: „Fă-ți o arcă din lemn de gofer”, ca să scapi în ea, și el să nu poată stăpâni asupra ta. Rabbi Ḥiyya și Rabbi Yose mergeau pe drum; a zis unul:) Este scris: „Și Noaḥ a făcut întocmai cum i-a poruncit Domnul.”"
    }
   ],
-  "fidela": "Şi Dumnezeu i-a spus lui Noe: Sfârşitul a toată făptura a ajuns înaintea mea, fiindcă pământul este umplut cu violenţă prin ei; şi, iată, îi voi nimici împreună cu pământul.",
+  "fidela": "Și Dumnezeu i-a spus lui Noe: Sfârșitul a toată făptura a ajuns înaintea mea, fiindcă pământul este umplut cu violență prin ei; și, iată, îi voi nimici împreună cu pământul.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -2248,7 +2248,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Fă-ţi o arcă din lemn de gofer, să faci camere în arcă şi să o smoleşti pe dinăuntru şi pe dinafară cu smoală.",
+  "fidela": "Fă-ți o arcă din lemn de gofer, să faci camere în arcă și să o smolești pe dinăuntru și pe dinafară cu smoală.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -2415,7 +2415,7 @@ window.CHAPTER_DATA = [
     "t": " ei."
    }
   ],
-  "fidela": "Şi acesta este modelul după care să o faci: Lungimea arcei să fie de trei sute de coţi, lăţimea acesteia cincizeci de coţi şi înălţimea acesteia treizeci de coţi.",
+  "fidela": "Și acesta este modelul după care să o faci: Lungimea arcei să fie de trei sute de coți, lățimea acesteia cincizeci de coți și înălțimea acesteia treizeci de coți.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -2595,7 +2595,7 @@ window.CHAPTER_DATA = [
     "t": " să o faci."
    }
   ],
-  "fidela": "Să faci arcei o fereastră, deasupra, să o termini la un cot de la acoperiş, şi uşa arcei să o aşezi în latura arcei; să faci arca cu trei nivele: cel de jos, al doilea şi al treilea.",
+  "fidela": "Să faci arcei o fereastră, deasupra, să o termini la un cot de la acoperiș, și ușa arcei să o așezi în latura arcei; să faci arca cu trei nivele: cel de jos, al doilea și al treilea.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -2776,7 +2776,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi iată, eu, chiar eu, voi aduce un potop de ape peste pământ, pentru a nimici toată făptura de sub cer, în care este suflarea vieţii şi fiecare lucru care este pe pământ va muri.",
+  "fidela": "Și iată, eu, chiar eu, voi aduce un potop de ape peste pământ, pentru a nimici toată făptura de sub cer, în care este suflarea vieții și fiecare lucru care este pe pământ va muri.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -2936,7 +2936,7 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 9:9-11"
   ],
-  "fidela": "Dar cu tine îmi voi întemeia legământul meu; şi să intri în arcă, tu şi fiii tăi şi soţia ta şi soţiile fiilor tăi cu tine.",
+  "fidela": "Dar cu tine îmi voi întemeia legământul meu; și să intri în arcă, tu și fiii tăi și soția ta și soțiile fiilor tăi cu tine.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -3072,7 +3072,7 @@ window.CHAPTER_DATA = [
     "t": " să fie."
    }
   ],
-  "fidela": "Şi din fiecare vieţuitoare de orice făptură, două din fiecare soi, să aduci în arcă, pentru a le ţine în viaţă cu tine; să fie parte bărbătească şi parte femeiască.",
+  "fidela": "Și din fiecare viețuitoare de orice făptură, două din fiecare soi, să aduci în arcă, pentru a le ține în viață cu tine; să fie parte bărbătească și parte femeiască.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -3239,7 +3239,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Din păsări, după felul lor, şi din vite, după felul lor, şi din fiecare târâtoare a pământului, după felul ei, două din fiecare soi vor veni la tine, pentru a le ţine în viaţă.",
+  "fidela": "Din păsări, după felul lor, și din vite, după felul lor, și din fiecare târâtoare a pământului, după felul ei, două din fiecare soi vor veni la tine, pentru a le ține în viață.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -3360,7 +3360,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi ia la tine din toată mâncarea care se mănâncă şi strânge-o la tine şi va fi mâncare pentru tine şi pentru ele.",
+  "fidela": "Și ia la tine din toată mâncarea care se mănâncă și strânge-o la tine și va fi mâncare pentru tine și pentru ele.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",

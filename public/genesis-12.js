@@ -164,7 +164,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi DOMNUL i-a spus lui Avram: Ieşi din ţara ta şi din rudenia ta şi din casa tatălui tău, spre o ţară pe care ţi-o voi arăta;",
+  "fidela": "Și DOMNUL i-a spus lui Avram: Ieși din țara ta și din rudenia ta și din casa tatălui tău, spre o țară pe care ți-o voi arăta;",
   "refs": [
    "Faptele Apostolilor 7:3",
    "Evrei 11:8"
@@ -322,7 +322,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi te voi face o naţiune mare şi te voi binecuvânta şi îţi voi face numele mare; şi vei fi o binecuvântare;",
+  "fidela": "Și te voi face o națiune mare și te voi binecuvânta și îți voi face numele mare; și vei fi o binecuvântare;",
   "refs": [
    "Geneza 18:18",
    "Geneza 17:6"
@@ -494,7 +494,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi îi voi binecuvânta pe cei ce te binecuvântează şi îl voi blestema pe cel ce te blestemă; şi în tine vor fi binecuvântate toate familiile pământului.",
+  "fidela": "Și îi voi binecuvânta pe cei ce te binecuvântează și îl voi blestema pe cel ce te blestemă; și în tine vor fi binecuvântate toate familiile pământului.",
   "refs": [
    "Numeri 24:9",
    "Galateni 3:8",
@@ -695,7 +695,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Astfel Avram a plecat, aşa cum DOMNUL îi vorbise; şi Lot a mers cu el; şi Avram era în vârstă de şaptezeci şi cinci de ani când a ieşit din Haran.",
+  "fidela": "Astfel Avram a plecat, așa cum DOMNUL îi vorbise; și Lot a mers cu el; și Avram era în vârstă de șaptezeci și cinci de ani când a ieșit din Haran.",
   "refs": [
    "Evrei 11:8"
   ],
@@ -949,7 +949,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avram a luat pe Sarai, soţia sa, şi pe Lot, fiul fratelui său, şi toate averile pe care le adunaseră şi sufletele pe care le dobândiseră în Haran; şi au ieşit ca să meargă în ţara lui Canaan; şi au ajuns în ţara lui Canaan.",
+  "fidela": "Și Avram a luat pe Sarai, soția sa, și pe Lot, fiul fratelui său, și toate averile pe care le adunaseră și sufletele pe care le dobândiseră în Haran; și au ieșit ca să meargă în țara lui Canaan; și au ajuns în țara lui Canaan.",
   "refs": [
    "Geneza 11:31"
   ],
@@ -1095,7 +1095,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avram a trecut prin ţară până la locul Sihem, până la câmpia lui More. Şi canaanitul era atunci în ţară.",
+  "fidela": "Și Avram a trecut prin țară până la locul Sihem, până la câmpia lui More. Și canaanitul era atunci în țară.",
   "refs": [
    "Ioan 4:5",
    "Geneza 33:18"
@@ -1310,7 +1310,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi DOMNUL i s-a arătat lui Avram şi a spus: Seminţiei tale îi voi da această ţară; şi acolo a zidit un altar DOMNULUI, care i se arătase.",
+  "fidela": "Și DOMNUL i s-a arătat lui Avram și a spus: Seminției tale îi voi da această țară; și acolo a zidit un altar DOMNULUI, care i se arătase.",
   "refs": [
    "Geneza 17:8",
    "Geneza 13:15",
@@ -1517,7 +1517,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi de acolo s-a mutat spre un munte, la răsărit de Betel, şi şi-a întins cortul, având Betelul la vest şi Ai la răsărit; şi acolo a zidit un altar DOMNULUI şi a chemat numele DOMNULUI.",
+  "fidela": "Și de acolo s-a mutat spre un munte, la răsărit de Betel, și și-a întins cortul, având Betelul la vest și Ai la răsărit; și acolo a zidit un altar DOMNULUI și a chemat numele DOMNULUI.",
   "refs": [
    "Geneza 13:3-4"
   ],
@@ -1636,7 +1636,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avram a călătorit, mergând mereu spre sud.",
+  "fidela": "Și Avram a călătorit, mergând mereu spre sud.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -1808,7 +1808,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a fost o foamete în ţară; şi Avram a coborât în Egipt ca să locuiască acolo, pentru că foametea era mare în ţară.",
+  "fidela": "Și a fost o foamete în țară; și Avram a coborât în Egipt ca să locuiască acolo, pentru că foametea era mare în țară.",
   "refs": [
    "Geneza 26:1",
    "Geneza 43:1"
@@ -1991,7 +1991,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi s-a întâmplat, când era aproape să intre în Egipt, că i-a spus lui Sarai, soţia lui: Iată acum, ştiu că eşti o femeie frumoasă la vedere;",
+  "fidela": "Și s-a întâmplat, când era aproape să intre în Egipt, că i-a spus lui Sarai, soția lui: Iată acum, știu că ești o femeie frumoasă la vedere;",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -2138,7 +2138,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "De aceea se va întâmpla, când egiptenii te vor vedea, că vor spune: Aceasta este soţia lui; şi mă vor ucide, iar pe tine te vor lăsa în viaţă.",
+  "fidela": "De aceea se va întâmpla, când egiptenii te vor vedea, că vor spune: Aceasta este soția lui; și mă vor ucide, iar pe tine te vor lăsa în viață.",
   "refs": [
    "Geneza 26:7",
    "Geneza 20:11"
@@ -2266,7 +2266,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Spune, te rog, că eşti sora mea, ca să îmi meargă bine datorită ţie şi sufletul meu să trăiască datorită ţie.",
+  "fidela": "Spune, te rog, că ești sora mea, ca să îmi meargă bine datorită ție și sufletul meu să trăiască datorită ție.",
   "refs": [
    "Geneza 26:7",
    "Geneza 20:5,13"
@@ -2434,7 +2434,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi s-a întâmplat, că atunci când Avram a ajuns în Egipt, egiptenii au privit-o pe femeie, că era foarte frumoasă.",
+  "fidela": "Și s-a întâmplat, că atunci când Avram a ajuns în Egipt, egiptenii au privit-o pe femeie, că era foarte frumoasă.",
   "refs": [
    "Geneza 39:7",
    "Matei 5:28"
@@ -2608,7 +2608,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Prinţii lui Faraon de asemenea au văzut-o şi au lăudat-o înaintea lui Faraon; şi femeia a fost luată în casa lui Faraon.",
+  "fidela": "Prinții lui Faraon de asemenea au văzut-o și au lăudat-o înaintea lui Faraon; și femeia a fost luată în casa lui Faraon.",
   "refs": [
    "Geneza 20:2"
   ],
@@ -2807,7 +2807,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi el s-a purtat bine cu Avram din cauza ei; şi el avea oi şi boi şi măgari şi servitori şi servitoare şi măgăriţe şi cămile.",
+  "fidela": "Și el s-a purtat bine cu Avram din cauza ei; și el avea oi și boi și măgari și servitori și servitoare și măgărițe și cămile.",
   "refs": [
    "Geneza 20:14"
   ],
@@ -2966,7 +2966,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi DOMNUL l-a lovit pe Faraon şi casa lui cu urgii mari, din cauza lui Sarai, soţia lui Avram.",
+  "fidela": "Și DOMNUL l-a lovit pe Faraon și casa lui cu urgii mari, din cauza lui Sarai, soția lui Avram.",
   "refs": [
    "Psalmul 105:14",
    "Geneza 20:18",
@@ -3118,7 +3118,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Faraon l-a chemat pe Avram şi a spus: Ce este aceasta ce mi-ai făcut? De ce nu mi-ai spus că ea este soţia ta?",
+  "fidela": "Și Faraon l-a chemat pe Avram și a spus: Ce este aceasta ce mi-ai făcut? De ce nu mi-ai spus că ea este soția ta?",
   "refs": [
    "Geneza 20:9"
   ],
@@ -3263,7 +3263,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "De ce ai spus: Ea este sora mea? Astfel că am luat-o de soţie; acum, de aceea, iată soţia ta, ia-o şi pleacă.",
+  "fidela": "De ce ai spus: Ea este sora mea? Astfel că am luat-o de soție; acum, de aceea, iată soția ta, ia-o și pleacă.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -3416,7 +3416,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Faraon a poruncit oamenilor săi cu privire la el; şi l-au condus, pe el şi pe soţia lui şi tot ce avea.",
+  "fidela": "Și Faraon a poruncit oamenilor săi cu privire la el; și l-au condus, pe el și pe soția lui și tot ce avea.",
   "refs": [
    "Geneza 13:1"
   ],

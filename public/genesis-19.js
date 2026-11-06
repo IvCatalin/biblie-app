@@ -237,7 +237,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi cei doi îngeri au venit la Sodoma seara; şi Lot şedea la poarta Sodomei; şi Lot, văzându-i, s-a ridicat să îi întâmpine şi s-a plecat cu faţa la pământ,",
+  "fidela": "Și cei doi îngeri au venit la Sodoma seara; și Lot ședea la poarta Sodomei; și Lot, văzându-i, s-a ridicat să îi întâmpine și s-a plecat cu fața la pământ,",
   "refs": [
    "Evrei 13:2",
    "Geneza 18:22",
@@ -502,7 +502,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a spus: Iată acum, domnii mei, întoarceţi-vă, vă rog, în casa servitorului vostru şi rămâneţi toată noaptea şi spălaţi-vă picioarele şi vă veţi trezi devreme şi vă veţi continua drumul. Iar ei au spus: Nu, ci vom sta toată noaptea în stradă.",
+  "fidela": "Și a spus: Iată acum, domnii mei, întoarceți-vă, vă rog, în casa servitorului vostru și rămâneți toată noaptea și spălați-vă picioarele și vă veți trezi devreme și vă veți continua drumul. Iar ei au spus: Nu, ci vom sta toată noaptea în stradă.",
   "refs": [
    "Geneza 18:4-5"
   ],
@@ -669,7 +669,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi el a stăruit mult de ei; şi s-au întors la el şi au intrat în casa lui; şi le-a făcut un ospăţ şi a copt azime şi au mâncat.",
+  "fidela": "Și el a stăruit mult de ei; și s-au întors la el și au intrat în casa lui; și le-a făcut un ospăț și a copt azime și au mâncat.",
   "refs": [
    "Exod 12:39"
   ],
@@ -874,7 +874,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Dar înainte să se culce, oamenii cetăţii, oamenii Sodomei, au înconjurat casa, deopotrivă tânăr şi bătrân, tot poporul din fiecare parte,",
+  "fidela": "Dar înainte să se culce, oamenii cetății, oamenii Sodomei, au înconjurat casa, deopotrivă tânăr și bătrân, tot poporul din fiecare parte,",
   "refs": [
    "Isaia 3:9"
   ],
@@ -1037,7 +1037,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi l-au chemat pe Lot şi i-au spus: Unde sunt bărbaţii care au intrat la tine în noaptea aceasta? Scoate-i afară la noi, ca să îi cunoaştem.",
+  "fidela": "Și l-au chemat pe Lot și i-au spus: Unde sunt bărbații care au intrat la tine în noaptea aceasta? Scoate-i afară la noi, ca să îi cunoaștem.",
   "refs": [
    "Judecători 19:22",
    "Romani 1:26-27"
@@ -1160,7 +1160,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Lot a ieşit la ei în uşă şi a închis uşa după el,",
+  "fidela": "Și Lot a ieșit la ei în ușă și a închis ușa după el,",
   "refs": [
    "Judecători 19:23"
   ],
@@ -1257,7 +1257,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a spus: Vă rog, fraţii mei, nu faceţi aşa stricăciune.",
+  "fidela": "Și a spus: Vă rog, frații mei, nu faceți așa stricăciune.",
   "refs": [
    "Geneza 29:4"
   ],
@@ -1478,7 +1478,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Iată acum, am două fiice care nu au cunoscut bărbat; lăsaţi-mă, vă rog, să vi le aduc afară şi faceţi-le cum este bine în ochii voştri; numai acestor bărbaţi să nu le faceţi nimic, pentru că din această cauză au intrat sub umbra acoperişului meu.",
+  "fidela": "Iată acum, am două fiice care nu au cunoscut bărbat; lăsați-mă, vă rog, să vi le aduc afară și faceți-le cum este bine în ochii voștri; numai acestor bărbați să nu le faceți nimic, pentru că din această cauză au intrat sub umbra acoperișului meu.",
   "refs": [
    "Judecători 19:24"
   ],
@@ -1733,7 +1733,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Iar ei au spus: Dă-te înapoi. Şi au spus din nou: Acest tip a intrat să locuiască printre noi şi el va tot face pe judecătorul; acum ne vom purta mai rău cu tine decât cu ei. Şi au apăsat tare pe bărbatul, pe Lot, şi s-au apropiat să spargă uşa.",
+  "fidela": "Iar ei au spus: Dă-te înapoi. Și au spus din nou: Acest tip a intrat să locuiască printre noi și el va tot face pe judecătorul; acum ne vom purta mai rău cu tine decât cu ei. Și au apăsat tare pe bărbatul, pe Lot, și s-au apropiat să spargă ușa.",
   "refs": [
    "Exod 2:14",
    "Luca 12:14"
@@ -1898,7 +1898,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Dar bărbaţii şi-au întins mâna şi l-au tras pe Lot în casă la ei şi au închis uşa.",
+  "fidela": "Dar bărbații și-au întins mâna și l-au tras pe Lot în casă la ei și au închis ușa.",
   "refs": [
    "Isaia 5:8"
   ],
@@ -2063,7 +2063,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi au lovit cu orbire pe bărbaţii care erau la uşa casei, deopotrivă mic şi mare, aşa că au obosit încercând să găsească uşa.",
+  "fidela": "Și au lovit cu orbire pe bărbații care erau la ușa casei, deopotrivă mic și mare, așa că au obosit încercând să găsească ușa.",
   "refs": [
    "2 Împărați 6:18",
    "Fapte 13:11"
@@ -2242,7 +2242,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi bărbaţii i-au spus lui Lot: Mai ai pe altcineva aici? Ginere şi fiii tăi şi fiicele tale şi orice ai în cetate, scoate-i afară din acest loc,",
+  "fidela": "Și bărbații i-au spus lui Lot: Mai ai pe altcineva aici? Ginere și fiii tăi și fiicele tale și orice ai în cetate, scoate-i afară din acest loc,",
   "refs": [
    "Geneza 19:14"
   ],
@@ -2409,7 +2409,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Fiindcă vom nimici acest loc, pentru că strigătul lor a crescut mare înaintea feţei DOMNULUI; şi DOMNUL ne-a trimis să îl nimicim.",
+  "fidela": "Fiindcă vom nimici acest loc, pentru că strigătul lor a crescut mare înaintea feței DOMNULUI; și DOMNUL ne-a trimis să îl nimicim.",
   "refs": [
    "Iezechiel 16:49-50",
    "Geneza 18:20-21",
@@ -2645,7 +2645,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Lot a ieşit şi a vorbit cu ginerii săi, care se căsătoriseră cu fiicele lui, şi a spus: Ridicaţi-vă, ieşiţi din acest loc, pentru că DOMNUL va nimici această cetate. Dar el li s-a părut ginerilor lui ca unul care glumeşte.",
+  "fidela": "Și Lot a ieșit și a vorbit cu ginerii săi, care se căsătoriseră cu fiicele lui, și a spus: Ridicați-vă, ieșiți din acest loc, pentru că DOMNUL va nimici această cetate. Dar el li s-a părut ginerilor lui ca unul care glumește.",
   "refs": [
    "Luca 17:28-29"
   ],
@@ -2850,7 +2850,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi când s-au ivit zorii, atunci îngerii l-au grăbit pe Lot, spunând: Ridică-te, ia-ţi soţia şi cele două fiice ale tale, care sunt aici, ca nu cumva să fii mistuit în nelegiuirea cetăţii.",
+  "fidela": "Și când s-au ivit zorii, atunci îngerii l-au grăbit pe Lot, spunând: Ridică-te, ia-ți soția și cele două fiice ale tale, care sunt aici, ca nu cumva să fii mistuit în nelegiuirea cetății.",
   "refs": [
    "Geneza 19:12-13"
   ],
@@ -3073,7 +3073,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi în timp ce el întârzia, bărbaţii l-au apucat de mână şi de mâna soţiei lui şi de mâna celor două fiice ale lui, DOMNUL fiind milostiv cu el; şi l-au scos şi l-au pus în afara cetăţii.",
+  "fidela": "Și în timp ce el întârzia, bărbații l-au apucat de mână și de mâna soției lui și de mâna celor două fiice ale lui, DOMNUL fiind milostiv cu el; și l-au scos și l-au pus în afara cetății.",
   "refs": [
    "2 Petru 2:7",
    "Geneza 6:8"
@@ -3269,7 +3269,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi s-a întâmplat, după ce i-au scos afară, că a spus: Scapă-ţi viaţa; nu te uita înapoi, nici nu sta în tot câmpul; scapă la munte, ca nu cumva să fii mistuit.",
+  "fidela": "Și s-a întâmplat, după ce i-au scos afară, că a spus: Scapă-ți viața; nu te uita înapoi, nici nu sta în tot câmpul; scapă la munte, ca nu cumva să fii mistuit.",
   "refs": [
    "Matei 24:16-18",
    "Luca 17:31-32"
@@ -3382,7 +3382,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Iar Lot le-a spus: Nu aşa, te rog, Domnul meu,",
+  "fidela": "Iar Lot le-a spus: Nu așa, te rog, Domnul meu,",
   "refs": [
    "Geneza 18:30,32"
   ],
@@ -3611,7 +3611,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Iată acum, servitorul tău a găsit har în ochii tăi şi ţi-ai mărit mila pe care ai arătat-o faţă de mine, salvându-mi viaţa; şi eu nu pot scăpa la munte, ca nu cumva un rău să mă ajungă şi să mor,",
+  "fidela": "Iată acum, servitorul tău a găsit har în ochii tăi și ți-ai mărit mila pe care ai arătat-o față de mine, salvându-mi viața; și eu nu pot scăpa la munte, ca nu cumva un rău să mă ajungă și să mor,",
   "refs": [
    "Geneza 19:16"
   ],
@@ -3770,7 +3770,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Iată acum, această cetate este aproape ca să fug acolo, şi este mică; lasă-mă, te rog, să scap acolo, (nu este ea mică?) şi sufletul meu va trăi.",
+  "fidela": "Iată acum, această cetate este aproape ca să fug acolo, și este mică; lasă-mă, te rog, să scap acolo, (nu este ea mică?) și sufletul meu va trăi.",
   "refs": [
    "Geneza 13:10"
   ],
@@ -3909,7 +3909,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Iar el i-a spus: Iată, te-am ascultat de asemenea şi cu privire la acest lucru, ca să nu răstorn această cetate, pentru care ai vorbit.",
+  "fidela": "Iar el i-a spus: Iată, te-am ascultat de asemenea și cu privire la acest lucru, ca să nu răstorn această cetate, pentru care ai vorbit.",
   "refs": [
    "Geneza 19:19"
   ],
@@ -4047,7 +4047,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Grăbeşte-te, scapă acolo, pentru că nu pot face nimic până nu ajungi acolo. De aceea numele cetăţii s-a chemat Ţoar.",
+  "fidela": "Grăbește-te, scapă acolo, pentru că nu pot face nimic până nu ajungi acolo. De aceea numele cetății s-a chemat Țoar.",
   "refs": [
    "Geneza 19:20"
   ],
@@ -4171,7 +4171,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Soarele a răsărit peste pământ când Lot a intrat în Ţoar.",
+  "fidela": "Soarele a răsărit peste pământ când Lot a intrat în Țoar.",
   "refs": [
    "Geneza 19:15"
   ],
@@ -4322,7 +4322,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Atunci DOMNUL a plouat peste Sodoma şi peste Gomora pucioasă şi foc de la DOMNUL, din cer,",
+  "fidela": "Atunci DOMNUL a plouat peste Sodoma și peste Gomora pucioasă și foc de la DOMNUL, din cer,",
   "refs": [
    "Isaia 13:19",
    "2 Petru 2:6",
@@ -4498,7 +4498,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a nimicit acele cetăţi şi tot câmpul şi pe toţi locuitorii cetăţilor şi ce creştea pe pământ.",
+  "fidela": "Și a nimicit acele cetăți și tot câmpul și pe toți locuitorii cetăților și ce creștea pe pământ.",
   "refs": [
    "Geneza 13:10"
   ],
@@ -4633,7 +4633,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Dar soţia lui s-a uitat înapoi din spatele lui şi a devenit un stâlp de sare.",
+  "fidela": "Dar soția lui s-a uitat înapoi din spatele lui și a devenit un stâlp de sare.",
   "refs": [
    "Luca 17:32"
   ],
@@ -4765,7 +4765,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avraam s-a sculat devreme dimineaţa la locul unde stătuse înaintea DOMNULUI,",
+  "fidela": "Și Avraam s-a sculat devreme dimineața la locul unde stătuse înaintea DOMNULUI,",
   "refs": [
    "Geneza 18:22"
   ],
@@ -4976,7 +4976,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi s-a uitat spre Sodoma şi Gomora şi spre tot ţinutul câmpiei şi a privit şi, iată, fumul ţării se ridica precum fumul unui cuptor.",
+  "fidela": "Și s-a uitat spre Sodoma și Gomora și spre tot ținutul câmpiei și a privit și, iată, fumul țării se ridica precum fumul unui cuptor.",
   "refs": [
    "Apocalipsa 9:2"
   ],
@@ -5241,7 +5241,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi s-a întâmplat, când Dumnezeu a nimicit cetăţile câmpiei, că Dumnezeu şi-a adus aminte de Avraam şi l-a trimis pe Lot afară din mijlocul nimicirii, când a răsturnat cetăţile în care locuise Lot.",
+  "fidela": "Și s-a întâmplat, când Dumnezeu a nimicit cetățile câmpiei, că Dumnezeu și-a adus aminte de Avraam și l-a trimis pe Lot afară din mijlocul nimicirii, când a răsturnat cetățile în care locuise Lot.",
   "refs": [
    "Geneza 8:1",
    "Geneza 18:23-32"
@@ -5434,7 +5434,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Lot s-a urcat din Ţoar şi a locuit în munte, şi cele două fiice ale lui cu el; pentru că se temea să locuiască în Ţoar; şi a locuit într-o peşteră, el şi cele două fiice ale lui.",
+  "fidela": "Și Lot s-a urcat din Țoar și a locuit în munte, și cele două fiice ale lui cu el; pentru că se temea să locuiască în Țoar; și a locuit într-o peșteră, el și cele două fiice ale lui.",
   "refs": [
    "Geneza 19:17,19"
   ],
@@ -5640,7 +5640,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi cea întâi-născută i-a spus celei mai tinere: Tatăl nostru este bătrân şi nu este niciun bărbat pe pământ care să intre la noi după obiceiul întregului pământ.",
+  "fidela": "Și cea întâi-născută i-a spus celei mai tinere: Tatăl nostru este bătrân și nu este niciun bărbat pe pământ care să intre la noi după obiceiul întregului pământ.",
   "refs": [
    "Geneza 38:8-9"
   ],
@@ -5815,7 +5815,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Vino, să îi dăm tatălui nostru să bea vin şi să ne culcăm cu el, ca să păstrăm sămânţa de la tatăl nostru.",
+  "fidela": "Vino, să îi dăm tatălui nostru să bea vin și să ne culcăm cu el, ca să păstrăm sămânța de la tatăl nostru.",
   "refs": [
    "Geneza 9:21"
   ],
@@ -5998,7 +5998,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi i-au dat tatălui lor să bea vin în acea noapte; şi cea întâi-născută a intrat şi s-a culcat cu tatăl ei; iar el nu a ştiut când s-a culcat ea, nici când s-a sculat.",
+  "fidela": "Și i-au dat tatălui lor să bea vin în acea noapte; și cea întâi-născută a intrat și s-a culcat cu tatăl ei; iar el nu a știut când s-a culcat ea, nici când s-a sculat.",
   "refs": [
    "Geneza 9:21"
   ],
@@ -6171,7 +6171,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi s-a întâmplat a doua zi, că cea întâi-născută i-a spus celei mai tinere: Iată, m-am culcat noaptea trecută cu tatăl meu; să îi dăm să bea vin în noaptea aceasta de asemenea; şi du-te tu şi culcă-te cu el, ca să păstrăm sămânţa de la tatăl nostru.",
+  "fidela": "Și s-a întâmplat a doua zi, că cea întâi-născută i-a spus celei mai tinere: Iată, m-am culcat noaptea trecută cu tatăl meu; să îi dăm să bea vin în noaptea aceasta de asemenea; și du-te tu și culcă-te cu el, ca să păstrăm sămânța de la tatăl nostru.",
   "refs": [
    "Geneza 19:33"
   ],
@@ -6322,7 +6322,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi i-au dat tatălui lor să bea vin în noaptea aceea de asemenea; şi cea mai tânără s-a sculat şi s-a culcat cu el; iar el nu a ştiut când s-a culcat ea, nici când s-a sculat.",
+  "fidela": "Și i-au dat tatălui lor să bea vin în noaptea aceea de asemenea; și cea mai tânără s-a sculat și s-a culcat cu el; iar el nu a știut când s-a culcat ea, nici când s-a sculat.",
   "refs": [
    "Geneza 19:33"
   ],
@@ -6562,7 +6562,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi cea întâi-născută a născut un fiu şi i-a pus numele Moab; el este tatăl moabiţilor până în această zi.",
+  "fidela": "Și cea întâi-născută a născut un fiu și i-a pus numele Moab; el este tatăl moabiților până în această zi.",
   "refs": [
    "Rut 1:4",
    "Deuteronom 2:9"
@@ -6730,7 +6730,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi cea mai tânără, ea de asemenea a născut un fiu şi i-a pus numele Ben-Ami; el este tatăl copiilor lui Amon până în această zi.",
+  "fidela": "Și cea mai tânără, ea de asemenea a născut un fiu și i-a pus numele Ben-Ami; el este tatăl copiilor lui Amon până în această zi.",
   "refs": [
    "Deuteronom 2:19",
    "2 Cronici 20:1"

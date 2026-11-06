@@ -181,7 +181,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "După aceste lucruri, cuvântul DOMNULUI a venit la Avram într-o viziune, spunând: Nu te teme Avrame, eu sunt scutul tău şi răsplata ta peste măsură de mare.",
+  "fidela": "După aceste lucruri, cuvântul DOMNULUI a venit la Avram într-o viziune, spunând: Nu te teme Avrame, eu sunt scutul tău și răsplata ta peste măsură de mare.",
   "refs": [
    "Deuteronom 33:29",
    "Geneza 26:24",
@@ -401,7 +401,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avram a spus: Doamne DUMNEZEULE, ce îmi vei da, văzând că mă duc fără copii, iar administratorul casei mele este acest Eliezer din Damasc?",
+  "fidela": "Și Avram a spus: Doamne DUMNEZEULE, ce îmi vei da, văzând că mă duc fără copii, iar administratorul casei mele este acest Eliezer din Damasc?",
   "refs": [
    "Fapte 7:5",
    "Geneza 24:2"
@@ -552,7 +552,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avram a spus: Iată, nu mi-ai dat nicio sămânţă şi, iată, unul născut în casa mea este moştenitorul meu.",
+  "fidela": "Și Avram a spus: Iată, nu mi-ai dat nicio sămânță și, iată, unul născut în casa mea este moștenitorul meu.",
   "refs": [
    "Geneza 14:14"
   ],
@@ -683,7 +683,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi, iată, cuvântul DOMNULUI a venit la el, spunând: Nu acesta va fi moştenitorul tău, ci cel ce va ieşi din propriile tale adâncuri va fi moştenitorul tău.",
+  "fidela": "Și, iată, cuvântul DOMNULUI a venit la el, spunând: Nu acesta va fi moștenitorul tău, ci cel ce va ieși din propriile tale adâncuri va fi moștenitorul tău.",
   "refs": [
    "2 Samuel 16:11",
    "2 Samuel 7:12"
@@ -861,7 +861,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi l-a dus afară şi a spus: Priveşte acum spre cer şi numără stelele, dacă eşti în stare să le numeri; şi i-a spus: Astfel va fi sămânţa ta.",
+  "fidela": "Și l-a dus afară și a spus: Privește acum spre cer și numără stelele, dacă ești în stare să le numeri; și i-a spus: Astfel va fi sămânța ta.",
   "refs": [
    "Psalmul 147:4",
    "Ieremia 33:22",
@@ -1126,7 +1126,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi i-a spus: Eu sunt DOMNUL care te-a scos din cetatea Ur a caldeilor, ca să îţi dau această ţară să o moşteneşti.",
+  "fidela": "Și i-a spus: Eu sunt DOMNUL care te-a scos din cetatea Ur a caldeilor, ca să îți dau această țară să o moștenești.",
   "refs": [
    "Geneza 12:1",
    "Neemia 9:7",
@@ -1249,7 +1249,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Iar el a spus: Doamne DUMNEZEULE, prin ce voi cunoaşte că o voi moşteni?",
+  "fidela": "Iar el a spus: Doamne DUMNEZEULE, prin ce voi cunoaște că o voi moșteni?",
   "commentaries": [
    {
     "author": "Sforno (cca. 1475–1550)",
@@ -1432,7 +1432,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi i-a spus: Ia pentru mine o viţea de trei ani şi o capră de trei ani şi un berbec de trei ani şi o turturea şi un porumbel tânăr.",
+  "fidela": "Și i-a spus: Ia pentru mine o vițea de trei ani și o capră de trei ani și un berbec de trei ani și o turturea și un porumbel tânăr.",
   "refs": [
    "Geneza 22:13"
   ],
@@ -1600,7 +1600,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a luat toate acestea şi le-a despicat prin mijloc şi a pus fiecare bucată una în faţa celeilalte; dar păsările nu le-a despicat.",
+  "fidela": "Și a luat toate acestea și le-a despicat prin mijloc și a pus fiecare bucată una în fața celeilalte; dar păsările nu le-a despicat.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -1730,7 +1730,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi când păsările de pradă au coborât peste stârvuri, Avram le-a alungat.",
+  "fidela": "Și când păsările de pradă au coborât peste stârvuri, Avram le-a alungat.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -1923,7 +1923,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi când soarele apunea, un somn adânc a căzut peste Avram; şi, iată, o groază şi un mare întuneric au căzut peste el.",
+  "fidela": "Și când soarele apunea, un somn adânc a căzut peste Avram; și, iată, o groază și un mare întuneric au căzut peste el.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -2123,7 +2123,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi i-a spus lui Avram: Să ştii cu siguranţă că sămânţa ta va fi străină într-o ţară care nu este a lor şi îi vor face robi şi îi vor chinui patru sute de ani;",
+  "fidela": "Și i-a spus lui Avram: Să știi cu siguranță că sămânța ta va fi străină într-o țară care nu este a lor și îi vor face robi și îi vor chinui patru sute de ani;",
   "refs": [
    "Fapte 7:6",
    "Exod 1:11-14",
@@ -2272,7 +2272,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi de asemenea acel neam, căruia îi vor sluji, îl voi judeca eu; şi după aceea vor ieşi cu mari bogăţii.",
+  "fidela": "Și de asemenea acel neam, căruia îi vor sluji, îl voi judeca eu; și după aceea vor ieși cu mari bogății.",
   "refs": [
    "Exod 3:20-22",
    "Exod 12:35-36"
@@ -2416,7 +2416,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Iar tu vei merge la părinţii tăi în pace; vei fi îngropat la o bătrâneţe bună.",
+  "fidela": "Iar tu vei merge la părinții tăi în pace; vei fi îngropat la o bătrânețe bună.",
   "refs": [
    "Geneza 25:8"
   ],
@@ -2551,7 +2551,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Dar în a patra generaţie se vor întoarce aici, căci nelegiuirea amoriţilor nu este încă deplină.",
+  "fidela": "Dar în a patra generație se vor întoarce aici, căci nelegiuirea amoriților nu este încă deplină.",
   "refs": [
    "Numeri 32:13",
    "Exod 12:40"
@@ -2741,7 +2741,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi s-a întâmplat, când soarele a apus şi era întuneric, că, iată, un cuptor fumegând şi o flacără de foc care a trecut printre acele bucăţi.",
+  "fidela": "Și s-a întâmplat, când soarele a apus și era întuneric, că, iată, un cuptor fumegând și o flacără de foc care a trecut printre acele bucăți.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -2974,7 +2974,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "În aceeaşi zi DOMNUL a făcut un legământ cu Avram, spunând: Seminţiei tale i-am dat această ţară, de la râul Egiptului până la marele râu, râul Eufrat,",
+  "fidela": "În aceeași zi DOMNUL a făcut un legământ cu Avram, spunând: Seminției tale i-am dat această țară, de la râul Egiptului până la marele râu, râul Eufrat,",
   "refs": [
    "Exod 23:31",
    "Deuteronom 1:7",
@@ -3072,7 +3072,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Pe cheniţi şi pe cheniziţi şi pe cadmoniţi,",
+  "fidela": "Pe cheniți și pe cheniziți și pe cadmoniți,",
   "refs": [
    "Numeri 24:21-22"
   ],
@@ -3169,7 +3169,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi pe hitiţi şi pe periziţi şi pe refaimi,",
+  "fidela": "Și pe hitiți și pe periziți și pe refaimi,",
   "refs": [
    "Deuteronom 7:1"
   ],
@@ -3276,7 +3276,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi pe amoriţi şi pe canaaniţi şi pe ghirgasiţi şi pe iebusiţi.",
+  "fidela": "Și pe amoriți și pe canaaniți și pe ghirgasiți și pe iebusiți.",
   "refs": [
    "Exod 3:8,17",
    "Exod 23:23"

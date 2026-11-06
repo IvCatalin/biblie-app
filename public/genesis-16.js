@@ -125,7 +125,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Sarai, soţia lui Avram, nu îi năştea copii; şi ea avea o servitoare, o egipteancă, al cărei nume era Hagar.",
+  "fidela": "Și Sarai, soția lui Avram, nu îi năștea copii; și ea avea o servitoare, o egipteancă, al cărei nume era Hagar.",
   "refs": [
    "Geneza 11:30",
    "Galateni 4:24"
@@ -351,7 +351,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Sarai i-a spus lui Avram: Iată acum, DOMNUL m-a oprit să nasc; te rog, intră la servitoarea mea; poate voi obţine copii prin ea. Şi Avram a dat ascultare la vocea lui Sarai.",
+  "fidela": "Și Sarai i-a spus lui Avram: Iată acum, DOMNUL m-a oprit să nasc; te rog, intră la servitoarea mea; poate voi obține copii prin ea. Și Avram a dat ascultare la vocea lui Sarai.",
   "refs": [
    "Geneza 20:18",
    "Geneza 30:3"
@@ -639,7 +639,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Sarai, soţia lui Avram, a luat-o pe Hagar egipteanca, servitoarea ei, după ce Avram locuise zece ani în ţara lui Canaan, şi i-a dat-o soţului ei Avram, ca să îi fie soţie.",
+  "fidela": "Și Sarai, soția lui Avram, a luat-o pe Hagar egipteanca, servitoarea ei, după ce Avram locuise zece ani în țara lui Canaan, și i-a dat-o soțului ei Avram, ca să îi fie soție.",
   "refs": [
    "Geneza 12:5"
   ],
@@ -802,7 +802,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi el a intrat la Hagar şi ea a rămas însărcinată; şi când a văzut că a rămas însărcinată, stăpâna ei a fost dispreţuită în ochii ei.",
+  "fidela": "Și el a intrat la Hagar și ea a rămas însărcinată; și când a văzut că a rămas însărcinată, stăpâna ei a fost disprețuită în ochii ei.",
   "refs": [
    "1 Samuel 1:6"
   ],
@@ -1031,7 +1031,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Sarai i-a spus lui Avram: Nedreptatea mea fie asupra ta; eu ţi-am dat servitoarea mea în sân şi când a văzut că a rămas însărcinată, m-a dispreţuit în ochii ei; DOMNUL să judece între mine şi tine.",
+  "fidela": "Și Sarai i-a spus lui Avram: Nedreptatea mea fie asupra ta; eu ți-am dat servitoarea mea în sân și când a văzut că a rămas însărcinată, m-a disprețuit în ochii ei; DOMNUL să judece între mine și tine.",
   "refs": [
    "Geneza 31:53"
   ],
@@ -1232,7 +1232,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Dar Avram i-a spus lui Sarai: Iată, servitoarea ta este în mâna ta; fă-i ce este bine în ochii tăi. Şi când Sarai a chinuit-o, ea a fugit dinaintea feţei ei.",
+  "fidela": "Dar Avram i-a spus lui Sarai: Iată, servitoarea ta este în mâna ta; fă-i ce este bine în ochii tăi. Și când Sarai a chinuit-o, ea a fugit dinaintea feței ei.",
   "refs": [
    "Exod 1:11-14"
   ],
@@ -1409,7 +1409,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi îngerul DOMNULUI a găsit-o lângă un izvor de apă în pustiu, la izvorul de pe calea spre Şur.",
+  "fidela": "Și îngerul DOMNULUI a găsit-o lângă un izvor de apă în pustiu, la izvorul de pe calea spre Șur.",
   "refs": [
    "Geneza 25:18"
   ],
@@ -1586,7 +1586,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a spus: Hagar, servitoarea lui Sarai, de unde vii? Şi unde mergi? Iar ea a spus: Fug de la faţa stăpânei mele Sarai.",
+  "fidela": "Și a spus: Hagar, servitoarea lui Sarai, de unde vii? Și unde mergi? Iar ea a spus: Fug de la fața stăpânei mele Sarai.",
   "refs": [
    "Geneza 3:9"
   ],
@@ -1735,7 +1735,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi îngerul DOMNULUI i-a spus: Întoarce-te la stăpâna ta şi supune-te sub mâinile ei.",
+  "fidela": "Și îngerul DOMNULUI i-a spus: Întoarce-te la stăpâna ta și supune-te sub mâinile ei.",
   "refs": [
    "1 Petru 2:18"
   ],
@@ -1870,7 +1870,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi îngerul DOMNULUI i-a spus: Voi înmulţi sămânţa ta peste măsură, încât nu va putea fi numărată din cauza mulţimii ei.",
+  "fidela": "Și îngerul DOMNULUI i-a spus: Voi înmulți sămânța ta peste măsură, încât nu va putea fi numărată din cauza mulțimii ei.",
   "refs": [
    "Geneza 21:18",
    "Geneza 25:12-16",
@@ -2079,7 +2079,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi îngerul DOMNULUI i-a spus: Iată, eşti însărcinată şi vei naşte un fiu şi îi vei pune numele Ismael, pentru că DOMNUL a auzit necazul tău.",
+  "fidela": "Și îngerul DOMNULUI i-a spus: Iată, ești însărcinată și vei naște un fiu și îi vei pune numele Ismael, pentru că DOMNUL a auzit necazul tău.",
   "refs": [
    "Luca 1:13,31",
    "Matei 1:21"
@@ -2257,7 +2257,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi el va fi un om sălbatic, mâna lui va fi împotriva fiecărui om şi mâna fiecărui om împotriva lui şi va locui în faţa tuturor fraţilor săi.",
+  "fidela": "Și el va fi un om sălbatic, mâna lui va fi împotriva fiecărui om și mâna fiecărui om împotriva lui și va locui în fața tuturor fraților săi.",
   "refs": [
    "Geneza 21:20",
    "Geneza 25:18"
@@ -2415,7 +2415,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi ea a chemat numele DOMNULUI care i-a vorbit: Tu, Dumnezeu, mă vezi, pentru că ea a spus: Nu am privit de asemenea aici spatele celui care mă vede?",
+  "fidela": "Și ea a chemat numele DOMNULUI care i-a vorbit: Tu, Dumnezeu, mă vezi, pentru că ea a spus: Nu am privit de asemenea aici spatele celui care mă vede?",
   "refs": [
    "Exod 33:20",
    "Geneza 32:30"
@@ -2537,7 +2537,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "De aceea fântâna a fost numită Beerlahairoi; iată, este între Cades şi Bered.",
+  "fidela": "De aceea fântâna a fost numită Beerlahairoi; iată, este între Cades și Bered.",
   "refs": [
    "Geneza 25:11",
    "Geneza 24:62"
@@ -2740,7 +2740,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Hagar a născut lui Avram un fiu şi Avram a pus fiului său, pe care Hagar l-a născut, numele Ismael.",
+  "fidela": "Și Hagar a născut lui Avram un fiu și Avram a pus fiului său, pe care Hagar l-a născut, numele Ismael.",
   "refs": [
    "Galateni 4:22"
   ],
@@ -2871,7 +2871,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avram era în vârstă de optzeci şi şase de ani când Hagar i-a născut pe Ismael lui Avram.",
+  "fidela": "Și Avram era în vârstă de optzeci și șase de ani când Hagar i-a născut pe Ismael lui Avram.",
   "refs": [
    "Geneza 17:1,24-25"
   ],

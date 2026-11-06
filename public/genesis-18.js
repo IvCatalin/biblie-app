@@ -150,7 +150,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi DOMNUL i s-a arătat lângă câmpia lui Mamre, în timp ce el şedea la uşa cortului, în arşiţa zilei.",
+  "fidela": "Și DOMNUL i s-a arătat lângă câmpia lui Mamre, în timp ce el ședea la ușa cortului, în arșița zilei.",
   "refs": [
    "Geneza 13:18",
    "Evrei 13:2"
@@ -382,7 +382,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi el şi-a ridicat ochii şi a privit şi, iată, trei bărbaţi stăteau lângă el; şi când i-a văzut, a alergat să îi întâmpine de la uşa cortului şi s-a plecat până la pământ,",
+  "fidela": "Și el și-a ridicat ochii și a privit și, iată, trei bărbați stăteau lângă el; și când i-a văzut, a alergat să îi întâmpine de la ușa cortului și s-a plecat până la pământ,",
   "refs": [
    "Geneza 19:1"
   ],
@@ -535,7 +535,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a spus: Domnul meu, dacă acum am găsit favoare în ochii tăi, nu trece, te rog, de la servitorul tău,",
+  "fidela": "Și a spus: Domnul meu, dacă acum am găsit favoare în ochii tăi, nu trece, te rog, de la servitorul tău,",
   "refs": [
    "Judecători 13:15",
    "Judecători 6:18",
@@ -672,7 +672,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Să se aducă puţină apă, te rog, şi spălaţi-vă picioarele şi odihniţi-vă sub copac,",
+  "fidela": "Să se aducă puțină apă, te rog, și spălați-vă picioarele și odihniți-vă sub copac,",
   "refs": [
    "Ioan 13:5",
    "Geneza 24:32"
@@ -870,7 +870,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi voi aduce o bucată de pâine şi întăriţi-vă inima; după aceea puteţi merge mai departe, fiindcă de aceea aţi venit la servitorul vostru. Iar ei au spus: Fă precum ai spus.",
+  "fidela": "Și voi aduce o bucată de pâine și întăriți-vă inima; după aceea puteți merge mai departe, fiindcă de aceea ați venit la servitorul vostru. Iar ei au spus: Fă precum ai spus.",
   "refs": [
    "Judecători 19:5"
   ],
@@ -1094,7 +1094,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avraam s-a grăbit în cort la Sara şi a spus: Grăbeşte-te, pregăteşte repede trei măsuri de făină fină, frământă şi fă turte pe vatră.",
+  "fidela": "Și Avraam s-a grăbit în cort la Sara și a spus: Grăbește-te, pregătește repede trei măsuri de făină fină, frământă și fă turte pe vatră.",
   "refs": [
    "Geneza 19:3"
   ],
@@ -1303,7 +1303,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avraam a alergat la cireadă şi a luat un viţel fraged şi bun şi l-a dat unui tânăr, iar el s-a grăbit să îl pregătească.",
+  "fidela": "Și Avraam a alergat la cireadă și a luat un vițel fraged și bun și l-a dat unui tânăr, iar el s-a grăbit să îl pregătească.",
   "refs": [
    "Geneza 27:9"
   ],
@@ -1508,7 +1508,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a luat unt şi lapte şi viţelul pe care îl pregătise şi l-a pus înaintea lor; şi el a stat lângă ei sub copac şi au mâncat.",
+  "fidela": "Și a luat unt și lapte și vițelul pe care îl pregătise și l-a pus înaintea lor; și el a stat lângă ei sub copac și au mâncat.",
   "refs": [
    "Levitic 11:3"
   ],
@@ -1629,7 +1629,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi i-au spus: Unde este Sara, soţia ta? Iar el a spus: Iată, în cort.",
+  "fidela": "Și i-au spus: Unde este Sara, soția ta? Iar el a spus: Iată, în cort.",
   "refs": [
    "Geneza 24:67"
   ],
@@ -1834,7 +1834,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi el a spus: Cu siguranţă mă voi întoarce la tine conform timpului vieţii; şi, iată, Sara, soţia ta, va avea un fiu. Şi Sara a auzit aceasta la uşa cortului, care era în spatele lui.",
+  "fidela": "Și el a spus: Cu siguranță mă voi întoarce la tine conform timpului vieții; și, iată, Sara, soția ta, va avea un fiu. Și Sara a auzit aceasta la ușa cortului, care era în spatele lui.",
   "refs": [
    "Geneza 21:2",
    "Geneza 17:19,21",
@@ -2021,7 +2021,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avraam şi Sara erau bătrâni şi înaintaţi în vârstă; şi Sarei încetase să îi mai fie după felul femeilor.",
+  "fidela": "Și Avraam și Sara erau bătrâni și înaintați în vârstă; și Sarei încetase să îi mai fie după felul femeilor.",
   "refs": [
    "Geneza 17:17",
    "Evrei 11:11-12"
@@ -2351,7 +2351,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi DOMNUL i-a spus lui Avraam: De ce a râs Sara, spunând: Voi naşte eu cu adevărat, fiind bătrână?",
+  "fidela": "Și DOMNUL i-a spus lui Avraam: De ce a râs Sara, spunând: Voi naște eu cu adevărat, fiind bătrână?",
   "refs": [
    "Geneza 18:12"
   ],
@@ -2537,7 +2537,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Este ceva prea greu pentru DOMNUL? La timpul rânduit mă voi întoarce la tine, conform timpului vieţii, şi Sara va avea un fiu.",
+  "fidela": "Este ceva prea greu pentru DOMNUL? La timpul rânduit mă voi întoarce la tine, conform timpului vieții, și Sara va avea un fiu.",
   "refs": [
    "Luca 1:37",
    "Numeri 11:23",
@@ -2847,7 +2847,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi oamenii s-au ridicat de acolo şi au privit spre Sodoma: şi Avraam a mers cu ei să îi conducă pe cale.",
+  "fidela": "Și oamenii s-au ridicat de acolo și au privit spre Sodoma: și Avraam a mers cu ei să îi conducă pe cale.",
   "refs": [
    "Geneza 19:1"
   ],
@@ -2968,7 +2968,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi DOMNUL a spus: Voi ascunde eu de Avraam ceea ce fac,",
+  "fidela": "Și DOMNUL a spus: Voi ascunde eu de Avraam ceea ce fac,",
   "refs": [
    "Amos 3:7",
    "Ioan 15:15"
@@ -3155,7 +3155,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Văzând că Avraam cu adevărat va deveni o naţiune mare şi puternică şi toate naţiunile pământului vor fi binecuvântate în el?",
+  "fidela": "Văzând că Avraam cu adevărat va deveni o națiune mare și puternică și toate națiunile pământului vor fi binecuvântate în el?",
   "refs": [
    "Galateni 3:8",
    "Geneza 12:3",
@@ -3391,7 +3391,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Pentru că îl cunosc că va porunci copiilor săi şi casei lui după el şi ei vor ţine calea DOMNULUI, pentru a face dreptate şi judecată, ca DOMNUL să aducă peste Avraam ceea ce a vorbit despre el.",
+  "fidela": "Pentru că îl cunosc că va porunci copiilor săi și casei lui după el și ei vor ține calea DOMNULUI, pentru a face dreptate și judecată, ca DOMNUL să aducă peste Avraam ceea ce a vorbit despre el.",
   "refs": [
    "Efeseni 6:4",
    "Deuteronom 4:9-10"
@@ -3426,7 +3426,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Zohar, Haiei Sara 8:5",
-    "text": "Că așa sunt căile Sfântului, binecuvântat fie El: dă avuție omului — de ce? Ca să hrănească pe săraci și să facă poruncile Lui. Nu face aceasta și se mândrește (și dacă s-a descoperit în el) în avuția aceea — în ea va fi lovit, precum e scris (Eclesiastul 5:12) «avuție păstrată stăpânului ei spre răul lui». Îi dă fii — de ce? Ca să-i învețe căile Sfântului, binecuvântat fie El, și să păzească poruncile Lui, precum s-a zis la Avraham (Geneza 18:19) «că l-am cunoscut, ca să poruncească fiilor săi și casei sale după el, și să păzească calea Domnului, să facă tzedaka» etc. Nu face aceasta și se mândrește în ei — în ei e lovit, precum e scris (Iov 18:19) «nu are odraslă și nu are nepot în poporul său» etc. Și tot după chipul acesta, când dă Sfântul, binecuvântat fie El, din frumusețea cea bună de sus a lui Adam ha-Rishon lor — de ce? Ca să păzească poruncile Lui și să facă voia Lui; nu au făcut așa, ci s-au mândrit în ea. În ea au fost loviți, în frumusețea aceasta."
+    "text": "Că așa sunt căile Sfântului, binecuvântat fie El: dă avuție omului — de ce? Ca să hrănească pe săraci și să facă poruncile Lui. Nu face aceasta și se mândrește (și dacă s-a descoperit în el) în avuția aceea — în ea va fi lovit, precum e scris (Ecleziastul 5:12) «avuție păstrată stăpânului ei spre răul lui». Îi dă fii — de ce? Ca să-i învețe căile Sfântului, binecuvântat fie El, și să păzească poruncile Lui, precum s-a zis la Avraham (Geneza 18:19) «că l-am cunoscut, ca să poruncească fiilor săi și casei sale după el, și să păzească calea Domnului, să facă tzedaka» etc. Nu face aceasta și se mândrește în ei — în ei e lovit, precum e scris (Iov 18:19) «nu are odraslă și nu are nepot în poporul său» etc. Și tot după chipul acesta, când dă Sfântul, binecuvântat fie El, din frumusețea cea bună de sus a lui Adam ha-Rishon lor — de ce? Ca să păzească poruncile Lui și să facă voia Lui; nu au făcut așa, ci s-au mândrit în ea. În ea au fost loviți, în frumusețea aceasta."
    }
   ]
  },
@@ -3584,7 +3584,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi DOMNUL a spus: Pentru că strigătul Sodomei şi Gomorei este mare şi pentru că păcatul lor este foarte apăsător,",
+  "fidela": "Și DOMNUL a spus: Pentru că strigătul Sodomei și Gomorei este mare și pentru că păcatul lor este foarte apăsător,",
   "refs": [
    "Geneza 19:13",
    "Geneza 13:13"
@@ -3753,7 +3753,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Voi coborî acum şi voi vedea dacă au făcut în întregime conform cu strigătul ei, ce a venit până la mine; şi dacă nu, voi şti.",
+  "fidela": "Voi coborî acum și voi vedea dacă au făcut în întregime conform cu strigătul ei, ce a venit până la mine; și dacă nu, voi ști.",
   "refs": [
    "Geneza 11:5"
   ],
@@ -3903,7 +3903,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi bărbaţii şi-au întors feţele de acolo şi au mers spre Sodoma, dar Avraam mai stătea încă în picioare înaintea DOMNULUI.",
+  "fidela": "Și bărbații și-au întors fețele de acolo și au mers spre Sodoma, dar Avraam mai stătea încă în picioare înaintea DOMNULUI.",
   "refs": [
    "Geneza 19:1"
   ],
@@ -4035,7 +4035,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avraam s-a apropiat şi a spus: Vei nimici tu de asemenea pe cel drept împreună cu cel stricat?",
+  "fidela": "Și Avraam s-a apropiat și a spus: Vei nimici tu de asemenea pe cel drept împreună cu cel stricat?",
   "refs": [
    "Geneza 19:24"
   ],
@@ -4192,7 +4192,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Poate sunt cincizeci de drepţi înăuntrul cetăţii; vei nimici tu de asemenea şi nu vei cruţa locul pentru cei cincizeci de drepţi care sunt în el?",
+  "fidela": "Poate sunt cincizeci de drepți înăuntrul cetății; vei nimici tu de asemenea și nu vei cruța locul pentru cei cincizeci de drepți care sunt în el?",
   "refs": [
    "Geneza 18:26"
   ],
@@ -4613,7 +4613,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Iar DOMNUL a spus: Dacă găsesc în Sodoma cincizeci de drepţi înăuntrul cetăţii, atunci voi cruţa tot acel loc din cauza lor.",
+  "fidela": "Iar DOMNUL a spus: Dacă găsesc în Sodoma cincizeci de drepți înăuntrul cetății, atunci voi cruța tot acel loc din cauza lor.",
   "refs": [
    "Ieremia 5:1"
   ],
@@ -4784,7 +4784,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avraam a răspuns şi a zis: Iată acum, cutez să vorbesc Domnului, eu, care sunt ţărână şi cenuşă.",
+  "fidela": "Și Avraam a răspuns și a zis: Iată acum, cutez să vorbesc Domnului, eu, care sunt țărână și cenușă.",
   "refs": [
    "Geneza 3:19",
    "Iov 30:19",
@@ -4967,7 +4967,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Poate vor lipsi cinci din cei cincizeci de drepţi; vei nimici toată cetatea din cauza lipsei a cinci? Iar el a spus: Dacă găsesc acolo patruzeci şi cinci, nu o voi nimici.",
+  "fidela": "Poate vor lipsi cinci din cei cincizeci de drepți; vei nimici toată cetatea din cauza lipsei a cinci? Iar el a spus: Dacă găsesc acolo patruzeci și cinci, nu o voi nimici.",
   "refs": [
    "Geneza 18:24"
   ],
@@ -5124,7 +5124,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi i-a vorbit din nou şi a spus: Poate se vor găsi acolo patruzeci. Iar el a spus: Nu o voi face din cauza celor patruzeci.",
+  "fidela": "Și i-a vorbit din nou și a spus: Poate se vor găsi acolo patruzeci. Iar el a spus: Nu o voi face din cauza celor patruzeci.",
   "refs": [
    "Geneza 18:28"
   ],
@@ -5297,7 +5297,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi el a spus: Să nu se mânie Domnul şi voi vorbi: Poate se vor găsi acolo treizeci. Iar el a spus: Nu o voi face dacă găsesc treizeci acolo.",
+  "fidela": "Și el a spus: Să nu se mânie Domnul și voi vorbi: Poate se vor găsi acolo treizeci. Iar el a spus: Nu o voi face dacă găsesc treizeci acolo.",
   "refs": [
    "Geneza 18:29"
   ],
@@ -5466,7 +5466,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi el a spus: Iată acum, am cutezat să vorbesc Domnului: Poate se vor găsi acolo douăzeci. Iar el a spus: Nu o voi nimici din cauza celor douăzeci.",
+  "fidela": "Și el a spus: Iată acum, am cutezat să vorbesc Domnului: Poate se vor găsi acolo douăzeci. Iar el a spus: Nu o voi nimici din cauza celor douăzeci.",
   "refs": [
    "Geneza 18:30"
   ],
@@ -5653,7 +5653,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi el a spus: Să nu se mânie Domnul şi voi vorbi doar de această dată: Poate se vor găsi acolo zece. Iar el a spus: Nu o voi nimici din cauza celor zece.",
+  "fidela": "Și el a spus: Să nu se mânie Domnul și voi vorbi doar de această dată: Poate se vor găsi acolo zece. Iar el a spus: Nu o voi nimici din cauza celor zece.",
   "refs": [
    "Geneza 19:22"
   ],
@@ -5809,7 +5809,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi DOMNUL a plecat, imediat ce a terminat de vorbit cu Avraam; şi Avraam s-a întors la locul lui.",
+  "fidela": "Și DOMNUL a plecat, imediat ce a terminat de vorbit cu Avraam; și Avraam s-a întors la locul lui.",
   "refs": [
    "Geneza 17:22"
   ],

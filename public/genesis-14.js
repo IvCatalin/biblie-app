@@ -139,7 +139,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi s-a întâmplat, în zilele lui Amrafel, împăratul Şinarului, Arioc, împăratul Elasarului, Chedorlaomer, împăratul Elamului, şi Tideal, împăratul naţiunilor,",
+  "fidela": "Și s-a întâmplat, în zilele lui Amrafel, împăratul Șinarului, Arioc, împăratul Elasarului, Chedorlaomer, împăratul Elamului, și Tideal, împăratul națiunilor,",
   "refs": [
    "Geneza 10:10",
    "Geneza 11:2"
@@ -382,7 +382,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Că aceştia au făcut război cu Bera, împăratul Sodomei, şi cu Birşa, împăratul Gomorei, Şinab, împăratul Admei, şi Şemeeber, împăratul Ţeboimului, şi împăratul Belei, care este Ţoar.",
+  "fidela": "Că aceștia au făcut război cu Bera, împăratul Sodomei, și cu Birșa, împăratul Gomorei, Șinab, împăratul Admei, și Șemeeber, împăratul Țeboimului, și împăratul Belei, care este Țoar.",
   "refs": [
    "Geneza 13:10",
    "Geneza 19:22"
@@ -511,7 +511,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Toţi aceştia s-au unit în valea lui Sidim, care este marea sărată.",
+  "fidela": "Toți aceștia s-au unit în valea lui Sidim, care este marea sărată.",
   "refs": [
    "Geneza 19:24-25"
   ],
@@ -643,7 +643,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Doisprezece ani i-au servit lui Chedorlaomer şi în al treisprezecelea an s-au răzvrătit.",
+  "fidela": "Doisprezece ani i-au servit lui Chedorlaomer și în al treisprezecelea an s-au răzvrătit.",
   "refs": [
    "Geneza 9:26"
   ],
@@ -848,7 +848,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi în al paisprezecelea an a venit Chedorlaomer şi împăraţii care erau cu el şi au lovit pe refaimi în Aşterot-Carnaim şi pe zuzimi în Ham şi pe emimi în câmpia Chiriataimului,",
+  "fidela": "Și în al paisprezecelea an a venit Chedorlaomer și împărații care erau cu el și au lovit pe refaimi în Așterot-Carnaim și pe zuzimi în Ham și pe emimi în câmpia Chiriataimului,",
   "refs": [
    "Deuteronom 2:10-11,20-21"
   ],
@@ -987,7 +987,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi pe horiţi în muntele lor Seir, până la câmpia Paran, care este lângă pustiu.",
+  "fidela": "Și pe horiți în muntele lor Seir, până la câmpia Paran, care este lângă pustiu.",
   "refs": [
    "Deuteronom 2:12,22"
   ],
@@ -1182,7 +1182,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi s-au întors şi au venit la En-Mişpat, care este Cades, şi au lovit toată ţara amaleciţilor şi de asemenea pe amoriţi, care locuiau în Haţaţon-Tamar.",
+  "fidela": "Și s-au întors și au venit la En-Mișpat, care este Cades, și au lovit toată țara amaleciților și de asemenea pe amoriți, care locuiau în Hațațon-Tamar.",
   "refs": [
    "Numeri 13:26",
    "Numeri 20:1"
@@ -1384,7 +1384,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi împăratul Sodomei a ieşit şi împăratul Gomorei şi împăratul Admei şi împăratul Ţeboimului şi împăratul Belei (aceeaşi este Ţoar) şi s-au aşezat la bătaie cu ei în valea lui Sidim,",
+  "fidela": "Și împăratul Sodomei a ieșit și împăratul Gomorei și împăratul Admei și împăratul Țeboimului și împăratul Belei (aceeași este Țoar) și s-au așezat la bătaie cu ei în valea lui Sidim,",
   "refs": [
    "Geneza 13:10"
   ],
@@ -1553,7 +1553,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Cu Chedorlaomer, împăratul Elamului, şi cu Tideal, împăratul naţiunilor, şi cu Amrafel, împăratul Şinarului, şi cu Arioc, împăratul Elasarului; patru împăraţi cu cinci.",
+  "fidela": "Cu Chedorlaomer, împăratul Elamului, și cu Tideal, împăratul națiunilor, și cu Amrafel, împăratul Șinarului, și cu Arioc, împăratul Elasarului; patru împărați cu cinci.",
   "refs": [
    "Geneza 14:1-2"
   ],
@@ -1754,7 +1754,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi valea lui Sidim era plină de gropi cu smoală; şi împăraţii Sodomei şi Gomorei au fugit şi au căzut acolo şi cei care au rămas au fugit la munte.",
+  "fidela": "Și valea lui Sidim era plină de gropi cu smoală; și împărații Sodomei și Gomorei au fugit și au căzut acolo și cei care au rămas au fugit la munte.",
   "refs": [
    "Geneza 19:17-19"
   ],
@@ -1897,7 +1897,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi au luat toate averile Sodomei şi Gomorei şi toată mâncarea lor şi au plecat.",
+  "fidela": "Și au luat toate averile Sodomei și Gomorei și toată mâncarea lor și au plecat.",
   "refs": [
    "Geneza 12:5"
   ],
@@ -2048,7 +2048,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi l-au luat pe Lot, fiul fratelui lui Avram, care locuia în Sodoma, şi averile lui, şi au plecat.",
+  "fidela": "Și l-au luat pe Lot, fiul fratelui lui Avram, care locuia în Sodoma, și averile lui, și au plecat.",
   "refs": [
    "Geneza 13:12"
   ],
@@ -2278,7 +2278,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a venit unul care scăpase şi i-a spus lui Avram evreul, fiindcă el locuia în câmpia lui Mamre amoritul, fratele lui Eşcol şi fratele lui Aner, şi aceştia erau aliaţi cu Avram.",
+  "fidela": "Și a venit unul care scăpase și i-a spus lui Avram evreul, fiindcă el locuia în câmpia lui Mamre amoritul, fratele lui Eșcol și fratele lui Aner, și aceștia erau aliați cu Avram.",
   "refs": [
    "Fapte 7:2",
    "Geneza 13:18"
@@ -2460,7 +2460,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi când Avram a auzit că fratele lui fusese luat captiv, şi-a înarmat servitorii instruiţi, născuţi în casa lui, trei sute optsprezece, şi i-a urmărit până la Dan.",
+  "fidela": "Și când Avram a auzit că fratele lui fusese luat captiv, și-a înarmat servitorii instruiți, născuți în casa lui, trei sute optsprezece, și i-a urmărit până la Dan.",
   "refs": [
    "Geneza 15:2-3",
    "Judecători 18:29",
@@ -2619,7 +2619,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi s-a împărţit împotriva lor, noaptea, el şi servitorii lui, şi i-a lovit şi i-a urmărit până la Hoba, care este la stânga Damascului.",
+  "fidela": "Și s-a împărțit împotriva lor, noaptea, el și servitorii lui, și i-a lovit și i-a urmărit până la Hoba, care este la stânga Damascului.",
   "refs": [
    "2 Samuel 8:5",
    "Judecători 4:16"
@@ -2773,7 +2773,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a adus înapoi toate averile şi de asemenea a adus înapoi pe fratele său Lot şi averile lui, şi femeile de asemenea şi poporul.",
+  "fidela": "Și a adus înapoi toate averile și de asemenea a adus înapoi pe fratele său Lot și averile lui, și femeile de asemenea și poporul.",
   "refs": [
    "Geneza 13:11"
   ],
@@ -2970,7 +2970,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi împăratul Sodomei a ieşit să îl întâlnească, după ce s-a întors de la înfrângerea lui Chedorlaomer şi a împăraţilor care erau cu el, la valea lui Şave, care este valea împăratului.",
+  "fidela": "Și împăratul Sodomei a ieșit să îl întâlnească, după ce s-a întors de la înfrângerea lui Chedorlaomer și a împăraților care erau cu el, la valea lui Șave, care este valea împăratului.",
   "refs": [
    "2 Samuel 18:18"
   ],
@@ -3129,7 +3129,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Melchisedec, împăratul Salemului, a adus afară pâine şi vin; şi el era preotul Dumnezeului cel preaînalt.",
+  "fidela": "Și Melchisedec, împăratul Salemului, a adus afară pâine și vin; și el era preotul Dumnezeului cel preaînalt.",
   "refs": [
    "Matei 26:26",
    "Psalmul 76:2",
@@ -3324,7 +3324,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi l-a binecuvântat şi a spus: Binecuvântat fie Avram de Dumnezeul cel preaînalt, întemeietorul cerului şi al pământului,",
+  "fidela": "Și l-a binecuvântat și a spus: Binecuvântat fie Avram de Dumnezeul cel preaînalt, întemeietorul cerului și al pământului,",
   "refs": [
    "Geneza 24:3"
   ],
@@ -3495,7 +3495,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi binecuvântat fie Dumnezeul cel preaînalt, care a dat pe duşmanii tăi în mâna ta. Şi el i-a dat zeciuială din tot.",
+  "fidela": "Și binecuvântat fie Dumnezeul cel preaînalt, care a dat pe dușmanii tăi în mâna ta. Și el i-a dat zeciuială din tot.",
   "refs": [
    "Evrei 7:2,4"
   ],
@@ -3649,7 +3649,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi împăratul Sodomei i-a spus lui Avram: Dă-mi sufletele şi ia averile pentru tine.",
+  "fidela": "Și împăratul Sodomei i-a spus lui Avram: Dă-mi sufletele și ia averile pentru tine.",
   "refs": [
    "Geneza 14:11"
   ],
@@ -3829,7 +3829,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avram i-a spus împăratului Sodomei: Mi-am ridicat mâna către DOMNUL, Dumnezeul cel preaînalt, întemeietorul cerului şi al pământului,",
+  "fidela": "Și Avram i-a spus împăratului Sodomei: Mi-am ridicat mâna către DOMNUL, Dumnezeul cel preaînalt, întemeietorul cerului și al pământului,",
   "refs": [
    "Evrei 6:13-14",
    "Geneza 21:23"
@@ -4005,7 +4005,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Că nu voi lua nici un fir de aţă, nici un şiret de sanda, nici ceva care este al tău, ca nu cumva să spui: Eu l-am îmbogăţit pe Avram;",
+  "fidela": "Că nu voi lua nici un fir de ață, nici un șiret de sanda, nici ceva care este al tău, ca nu cumva să spui: Eu l-am îmbogățit pe Avram;",
   "refs": [
    "Ester 9:15-16"
   ],
@@ -4182,7 +4182,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "În afară de ceea ce au mâncat tinerii şi partea oamenilor care au mers cu mine, Aner, Eşcol şi Mamre; ei să îşi ia partea lor.",
+  "fidela": "În afară de ceea ce au mâncat tinerii și partea oamenilor care au mers cu mine, Aner, Eșcol și Mamre; ei să își ia partea lor.",
   "refs": [
    "Geneza 18:8"
   ],

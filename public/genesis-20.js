@@ -162,7 +162,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avraam a călătorit de acolo spre ţara de sud şi a locuit între Cades şi Şur şi a locuit temporar în Gherar.",
+  "fidela": "Și Avraam a călătorit de acolo spre țara de sud și a locuit între Cades și Șur și a locuit temporar în Gherar.",
   "refs": [
    "Geneza 16:7,14",
    "Geneza 12:9"
@@ -336,7 +336,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avraam a spus despre Sara, soţia sa: Ea este sora mea. Şi Abimelec, împăratul Gherarului, a trimis şi a luat-o pe Sara.",
+  "fidela": "Și Avraam a spus despre Sara, soția sa: Ea este sora mea. Și Abimelec, împăratul Gherarului, a trimis și a luat-o pe Sara.",
   "refs": [
    "Geneza 12:11-13",
    "Geneza 26:7"
@@ -539,7 +539,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Dar Dumnezeu a venit la Abimelec într-un vis, noaptea, şi i-a spus: Iată, eşti un om mort din cauza femeii pe care ai luat-o, pentru că ea este soţia unui bărbat.",
+  "fidela": "Dar Dumnezeu a venit la Abimelec într-un vis, noaptea, și i-a spus: Iată, ești un om mort din cauza femeii pe care ai luat-o, pentru că ea este soția unui bărbat.",
   "refs": [
    "Geneza 31:24",
    "Levitic 18:20"
@@ -685,7 +685,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Dar Abimelec nu se apropiase de ea; şi a spus: Doamne, vei ucide de asemenea o naţiune dreaptă?",
+  "fidela": "Dar Abimelec nu se apropiase de ea; și a spus: Doamne, vei ucide de asemenea o națiune dreaptă?",
   "refs": [
    "Geneza 18:23,25"
   ],
@@ -866,7 +866,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Nu mi-a spus el: Ea este sora mea? Şi ea, chiar ea însăşi mi-a spus: El este fratele meu; în integritatea inimii mele şi în nevinovăţia mâinilor mele am făcut aceasta.",
+  "fidela": "Nu mi-a spus el: Ea este sora mea? Și ea, chiar ea însăși mi-a spus: El este fratele meu; în integritatea inimii mele și în nevinovăția mâinilor mele am făcut aceasta.",
   "refs": [
    "Geneza 20:11-13"
   ],
@@ -1060,7 +1060,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Dumnezeu i-a spus în vis: Da, ştiu că ai făcut aceasta în integritatea inimii tale; căci de asemenea eu te-am reţinut de la a păcătui împotriva mea, de aceea nu te-am lăsat să o atingi.",
+  "fidela": "Și Dumnezeu i-a spus în vis: Da, știu că ai făcut aceasta în integritatea inimii tale; căci de asemenea eu te-am reținut de la a păcătui împotriva mea, de aceea nu te-am lăsat să o atingi.",
   "refs": [
    "Geneza 31:7"
   ],
@@ -1237,7 +1237,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "De aceea acum dă înapoi bărbatului soţia lui, pentru că el este profet şi se va ruga pentru tine şi vei trăi; iar dacă nu o dai înapoi, să ştii că vei muri negreşit, tu şi tot ce este al tău.",
+  "fidela": "De aceea acum dă înapoi bărbatului soția lui, pentru că el este profet și se va ruga pentru tine și vei trăi; iar dacă nu o dai înapoi, să știi că vei muri negreșit, tu și tot ce este al tău.",
   "refs": [
    "Geneza 18:17-19",
    "Psalmul 105:15",
@@ -1448,7 +1448,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "De aceea Abimelec s-a sculat devreme dimineaţa şi a chemat pe toţi servitorii săi şi a spus toate aceste lucruri în urechile lor; şi bărbaţii s-au temut foarte mult.",
+  "fidela": "De aceea Abimelec s-a sculat devreme dimineața și a chemat pe toți servitorii săi și a spus toate aceste lucruri în urechile lor; și bărbații s-au temut foarte mult.",
   "refs": [
    "Geneza 20:2"
   ],
@@ -1666,7 +1666,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Atunci Abimelec l-a chemat pe Avraam şi i-a spus: Ce ne-ai făcut? Şi cu ce am păcătuit împotriva ta, că ai adus asupra mea şi asupra împărăţiei mele un mare păcat? Mi-ai făcut fapte ce nu trebuiau făcute.",
+  "fidela": "Atunci Abimelec l-a chemat pe Avraam și i-a spus: Ce ne-ai făcut? Și cu ce am păcătuit împotriva ta, că ai adus asupra mea și asupra împărăției mele un mare păcat? Mi-ai făcut fapte ce nu trebuiau făcute.",
   "refs": [
    "Geneza 12:18",
    "Geneza 26:10"
@@ -1802,7 +1802,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Abimelec i-a spus lui Avraam: Ce ai văzut, de ai făcut acest lucru?",
+  "fidela": "Și Abimelec i-a spus lui Avraam: Ce ai văzut, de ai făcut acest lucru?",
   "refs": [
    "Geneza 20:9"
   ],
@@ -1953,7 +1953,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avraam a spus: Pentru că am gândit: Cu siguranţă că nu este teamă de Dumnezeu în acest loc; şi mă vor ucide din cauza soţiei mele.",
+  "fidela": "Și Avraam a spus: Pentru că am gândit: Cu siguranță că nu este teamă de Dumnezeu în acest loc; și mă vor ucide din cauza soției mele.",
   "refs": [
    "Geneza 22:12"
   ],
@@ -2102,7 +2102,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi de asemenea într-adevăr ea este sora mea, fiica tatălui meu, dar nu fiica mamei mele; şi ea a devenit soţia mea.",
+  "fidela": "Și de asemenea într-adevăr ea este sora mea, fiica tatălui meu, dar nu fiica mamei mele; și ea a devenit soția mea.",
   "refs": [
    "Geneza 11:29"
   ],
@@ -2319,7 +2319,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi s-a întâmplat, când Dumnezeu m-a făcut să rătăcesc din casa tatălui meu, că i-am spus: Aceasta este bunătatea pe care mi-o vei arăta; în fiecare loc unde vom ajunge, spune despre mine: El este fratele meu.",
+  "fidela": "Și s-a întâmplat, când Dumnezeu m-a făcut să rătăcesc din casa tatălui meu, că i-am spus: Aceasta este bunătatea pe care mi-o vei arăta; în fiecare loc unde vom ajunge, spune despre mine: El este fratele meu.",
   "refs": [
    "Geneza 12:11-13",
    "Geneza 12:1"
@@ -2512,7 +2512,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Abimelec a luat oi şi boi şi servitori şi servitoare şi i le-a dat lui Avraam şi i-a înapoiat pe Sara, soţia lui.",
+  "fidela": "Și Abimelec a luat oi și boi și servitori și servitoare și i le-a dat lui Avraam și i-a înapoiat pe Sara, soția lui.",
   "refs": [
    "Geneza 12:16"
   ],
@@ -2653,7 +2653,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Abimelec a spus: Iată, ţara mea este înaintea ta; locuieşte unde îţi place.",
+  "fidela": "Și Abimelec a spus: Iată, țara mea este înaintea ta; locuiește unde îți place.",
   "refs": [
    "Geneza 13:9"
   ],
@@ -2850,7 +2850,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Iar Sarei i-a spus: Iată, i-am dat fratelui tău o mie de arginţi; iată, el îţi este acoperământ al ochilor, pentru toţi cei ce sunt cu tine şi cu toţii; astfel a fost mustrată.",
+  "fidela": "Iar Sarei i-a spus: Iată, i-am dat fratelui tău o mie de arginți; iată, el îți este acoperământ al ochilor, pentru toți cei ce sunt cu tine și cu toții; astfel a fost mustrată.",
   "refs": [
    "Geneza 24:65"
   ],
@@ -3039,7 +3039,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Astfel Avraam s-a rugat lui Dumnezeu; şi Dumnezeu l-a vindecat pe Abimelec şi pe soţia lui şi pe servitoarele lui; şi au născut copii.",
+  "fidela": "Astfel Avraam s-a rugat lui Dumnezeu; și Dumnezeu l-a vindecat pe Abimelec și pe soția lui și pe servitoarele lui; și au născut copii.",
   "refs": [
    "Iov 42:8-10"
   ],
@@ -3204,7 +3204,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Pentru că DOMNUL închisese cu totul fiecare pântece din casa lui Abimelec, din cauza Sarei, soţia lui Avraam.",
+  "fidela": "Pentru că DOMNUL închisese cu totul fiecare pântece din casa lui Abimelec, din cauza Sarei, soția lui Avraam.",
   "refs": [
    "Geneza 12:17"
   ],

@@ -153,7 +153,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi DOMNUL i-a spus lui Noe: Intră tu şi toată casa ta în arcă, fiindcă pe tine te-am văzut drept înaintea mea în această generaţie.",
+  "fidela": "Și DOMNUL i-a spus lui Noe: Intră tu și toată casa ta în arcă, fiindcă pe tine te-am văzut drept înaintea mea în această generație.",
   "refs": [
    "Evrei 11:7",
    "2 Petru 2:5"
@@ -317,7 +317,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Din fiecare fiară curată să iei la tine câte şapte, mascul şi femela lui, şi din fiarele care nu sunt curate câte două, mascul şi femela lui.",
+  "fidela": "Din fiecare fiară curată să iei la tine câte șapte, mascul și femela lui, și din fiarele care nu sunt curate câte două, mascul și femela lui.",
   "refs": [
    "Levitic 11"
   ],
@@ -466,7 +466,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "De asemenea din păsările cerului câte şapte, mascul şi femelă, ca să ţină sămânţa vie pe faţa întregului pământ.",
+  "fidela": "De asemenea din păsările cerului câte șapte, mascul și femelă, ca să țină sămânța vie pe fața întregului pământ.",
   "refs": [
    "Geneza 1:22"
   ],
@@ -607,7 +607,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018)."
    }
   ],
-  "fidela": "Căci peste şapte zile voi trimite ploaie pe pământ patruzeci de zile şi patruzeci de nopţi şi voi şterge de pe faţa pământului fiecare vieţuitoare pe care am făcut-o.",
+  "fidela": "Căci peste șapte zile voi trimite ploaie pe pământ patruzeci de zile și patruzeci de nopți și voi șterge de pe fața pământului fiecare viețuitoare pe care am făcut-o.",
   "refs": [
    "Geneza 6:17"
   ],
@@ -728,7 +728,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018)."
    }
   ],
-  "fidela": "Şi Noe a făcut conform cu tot ce i-a poruncit DOMNUL.",
+  "fidela": "Și Noe a făcut conform cu tot ce i-a poruncit DOMNUL.",
   "refs": [
    "Geneza 6:22"
   ],
@@ -859,7 +859,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018)."
    }
   ],
-  "fidela": "Şi Noe era în vârstă de şase sute de ani când potopul de ape a venit pe pământ.",
+  "fidela": "Și Noe era în vârstă de șase sute de ani când potopul de ape a venit pe pământ.",
   "refs": [
    "Geneza 5:32"
   ],
@@ -990,7 +990,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018)."
    }
   ],
-  "fidela": "Şi Noe a intrat în arcă şi fiii lui şi soţia lui şi soţiile fiilor lui cu el, din cauza apelor potopului.",
+  "fidela": "Și Noe a intrat în arcă și fiii lui și soția lui și soțiile fiilor lui cu el, din cauza apelor potopului.",
   "refs": [
    "Luca 17:26-27",
    "Matei 24:38"
@@ -1116,7 +1116,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Din fiarele curate şi din fiarele care nu sunt curate şi din păsări şi din tot ce se târăşte pe pământ,",
+  "fidela": "Din fiarele curate și din fiarele care nu sunt curate și din păsări și din tot ce se târăște pe pământ,",
   "refs": [
    "Levitic 11:1-47"
   ],
@@ -1229,7 +1229,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Au intrat câte două la Noe în arcă, mascul şi femelă, aşa cum Dumnezeu poruncise lui Noe.",
+  "fidela": "Au intrat câte două la Noe în arcă, mascul și femelă, așa cum Dumnezeu poruncise lui Noe.",
   "refs": [
    "Geneza 6:19-20"
   ],
@@ -1342,7 +1342,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018)."
    }
   ],
-  "fidela": "Şi s-a întâmplat, după şapte zile, că apele potopului au fost pe pământ.",
+  "fidela": "Și s-a întâmplat, după șapte zile, că apele potopului au fost pe pământ.",
   "refs": [
    "Geneza 7:4"
   ],
@@ -1497,7 +1497,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "În anul şase sute al vieţii lui Noe, în luna a doua, în a şaptesprezecea zi a lunii, în aceeaşi zi au fost rupte toate fântânile marelui adânc şi ferestrele cerului au fost deschise.",
+  "fidela": "În anul șase sute al vieții lui Noe, în luna a doua, în a șaptesprezecea zi a lunii, în aceeași zi au fost rupte toate fântânile marelui adânc și ferestrele cerului au fost deschise.",
   "refs": [
    "Geneza 8:2"
   ],
@@ -1612,7 +1612,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018)."
    }
   ],
-  "fidela": "Şi ploaia a fost pe pământ patruzeci de zile şi patruzeci de nopţi.",
+  "fidela": "Și ploaia a fost pe pământ patruzeci de zile și patruzeci de nopți.",
   "refs": [
    "Iov 38:37"
   ],
@@ -1793,7 +1793,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "În aceeaşi zi a intrat Noe şi Sem şi Ham şi Iafet, fiii lui Noe, şi soţia lui Noe şi cele trei soţii ale fiilor lui cu ei, în arcă;",
+  "fidela": "În aceeași zi a intrat Noe și Sem și Ham și Iafet, fiii lui Noe, și soția lui Noe și cele trei soții ale fiilor lui cu ei, în arcă;",
   "refs": [
    "Geneza 6:18"
   ],
@@ -1934,7 +1934,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Ei şi fiecare fiară după felul ei şi fiecare vită după felul ei şi fiecare târâtoare care se târăşte pe pământ după felul ei şi fiecare pasăre după felul ei, fiecare pasăre de fiecare fel de aripă.",
+  "fidela": "Ei și fiecare fiară după felul ei și fiecare vită după felul ei și fiecare târâtoare care se târăște pe pământ după felul ei și fiecare pasăre după felul ei, fiecare pasăre de fiecare fel de aripă.",
   "refs": [
    "Geneza 1:21-25"
   ],
@@ -2047,7 +2047,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi au intrat la Noe în arcă, câte două din toată făptura care are suflare de viaţă.",
+  "fidela": "Și au intrat la Noe în arcă, câte două din toată făptura care are suflare de viață.",
   "refs": [
    "Geneza 6:20"
   ],
@@ -2160,7 +2160,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi cele ce au intrat, au intrat mascul şi femelă din toată făptura, aşa cum Dumnezeu îi poruncise; şi DOMNUL l-a închis înăuntru.",
+  "fidela": "Și cele ce au intrat, au intrat mascul și femelă din toată făptura, așa cum Dumnezeu îi poruncise; și DOMNUL l-a închis înăuntru.",
   "refs": [
    "Geneza 6:16"
   ],
@@ -2348,7 +2348,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018)."
    }
   ],
-  "fidela": "Şi potopul a fost patruzeci de zile pe pământ; şi apele au crescut şi au ridicat arca şi ea s-a înălţat deasupra pământului.",
+  "fidela": "Și potopul a fost patruzeci de zile pe pământ; și apele au crescut și au ridicat arca și ea s-a înălțat deasupra pământului.",
   "refs": [
    "Psalmul 104:26"
   ],
@@ -2475,7 +2475,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018)."
    }
   ],
-  "fidela": "Şi apele au biruit şi au crescut mult pe pământ; şi arca umbla pe faţa apelor.",
+  "fidela": "Și apele au biruit și au crescut mult pe pământ; și arca umbla pe fața apelor.",
   "refs": [
    "Psalmul 69:1-2"
   ],
@@ -2638,7 +2638,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi apele au biruit peste măsură de mult pe pământ; şi toţi munţii înalţi care erau sub întregul cer au fost acoperiţi.",
+  "fidela": "Și apele au biruit peste măsură de mult pe pământ; și toți munții înalți care erau sub întregul cer au fost acoperiți.",
   "refs": [
    "2 Petru 3:6",
    "Psalmul 104:6"
@@ -2760,7 +2760,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018)."
    }
   ],
-  "fidela": "Cincisprezece coţi mai sus au biruit apele; şi munţii au fost acoperiţi.",
+  "fidela": "Cincisprezece coți mai sus au biruit apele; și munții au fost acoperiți.",
   "refs": [
    "Geneza 8:5"
   ],
@@ -2901,7 +2901,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018)."
    }
   ],
-  "fidela": "Şi a murit toată făptura care se mişca pe pământ, deopotrivă pasăre şi vită şi fiară şi fiecare târâtoare care se târăşte pe pământ şi fiecare om;",
+  "fidela": "Și a murit toată făptura care se mișca pe pământ, deopotrivă pasăre și vită și fiară și fiecare târâtoare care se târăște pe pământ și fiecare om;",
   "refs": [
    "Iov 22:15-17"
   ],
@@ -3000,7 +3000,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018)."
    }
   ],
-  "fidela": "Tot ce era pe uscat, în ale cărui nări era suflarea vieţii, a murit.",
+  "fidela": "Tot ce era pe uscat, în ale cărui nări era suflarea vieții, a murit.",
   "refs": [
    "Geneza 2:7"
   ],
@@ -3117,7 +3117,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a fost şters fiecare lucru viu care era pe faţa pământului, deopotrivă om şi vită şi târâtoare şi pasăre a cerului; şi au fost şterse de pe pământ; şi doar Noe a rămas în viaţă şi cei ce erau cu el în arcă.",
+  "fidela": "Și a fost șters fiecare lucru viu care era pe fața pământului, deopotrivă om și vită și târâtoare și pasăre a cerului; și au fost șterse de pe pământ; și doar Noe a rămas în viață și cei ce erau cu el în arcă.",
   "refs": [
    "Matei 24:39",
    "1 Petru 3:20"
@@ -3244,7 +3244,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018)."
    }
   ],
-  "fidela": "Şi apele au biruit pe pământ o sută cincizeci de zile.",
+  "fidela": "Și apele au biruit pe pământ o sută cincizeci de zile.",
   "refs": [
    "Geneza 8:3"
   ],

@@ -122,7 +122,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avram a urcat din Egipt, el şi soţia lui şi tot ce avea şi Lot cu el, spre sud.",
+  "fidela": "Și Avram a urcat din Egipt, el și soția lui și tot ce avea și Lot cu el, spre sud.",
   "refs": [
    "Geneza 12:9-10"
   ],
@@ -261,7 +261,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avram era foarte bogat în vite, în argint şi în aur.",
+  "fidela": "Și Avram era foarte bogat în vite, în argint și în aur.",
   "refs": [
    "Geneza 26:13-14",
    "Geneza 24:35"
@@ -457,7 +457,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a mers în călătoriile sale de la sud până la Betel, până la locul unde fusese cortul lui la început, între Betel şi Ai,",
+  "fidela": "Și a mers în călătoriile sale de la sud până la Betel, până la locul unde fusese cortul lui la început, între Betel și Ai,",
   "refs": [
    "Geneza 12:8"
   ],
@@ -606,7 +606,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Până la locul altarului pe care îl făcuse acolo la început; şi acolo Avram a chemat numele DOMNULUI.",
+  "fidela": "Până la locul altarului pe care îl făcuse acolo la început; și acolo Avram a chemat numele DOMNULUI.",
   "refs": [
    "Geneza 12:7-8"
   ],
@@ -733,7 +733,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi de asemenea Lot, care mergea cu Avram, avea turme şi cirezi şi corturi.",
+  "fidela": "Și de asemenea Lot, care mergea cu Avram, avea turme și cirezi și corturi.",
   "refs": [
    "Geneza 12:5"
   ],
@@ -868,7 +868,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi ţara nu îi putea susţine, ca să locuiască împreună, pentru că averea lor era mare, astfel că nu puteau locui împreună.",
+  "fidela": "Și țara nu îi putea susține, ca să locuiască împreună, pentru că averea lor era mare, astfel că nu puteau locui împreună.",
   "refs": [
    "Geneza 36:7"
   ],
@@ -1031,7 +1031,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a fost o ceartă între păstorii vitelor lui Avram şi păstorii vitelor lui Lot; şi canaanitul şi perizitul locuiau atunci în ţară.",
+  "fidela": "Și a fost o ceartă între păstorii vitelor lui Avram și păstorii vitelor lui Lot; și canaanitul și perizitul locuiau atunci în țară.",
   "refs": [
    "Geneza 34:30",
    "Geneza 12:6"
@@ -1199,7 +1199,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avram i-a spus lui Lot: Să nu fie, te rog, ceartă între mine şi tine şi între păstorii mei şi păstorii tăi; căci suntem fraţi.",
+  "fidela": "Și Avram i-a spus lui Lot: Să nu fie, te rog, ceartă între mine și tine și între păstorii mei și păstorii tăi; căci suntem frați.",
   "refs": [
    "Geneza 45:24",
    "Filipeni 4:2-3"
@@ -1363,7 +1363,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Nu este oare toată ţara înaintea ta? Te rog, desparte-te de mine; dacă tu vei merge la stânga, atunci eu voi merge la dreapta; sau dacă tu vei merge la dreapta, atunci eu voi merge la stânga.",
+  "fidela": "Nu este oare toată țara înaintea ta? Te rog, desparte-te de mine; dacă tu vei merge la stânga, atunci eu voi merge la dreapta; sau dacă tu vei merge la dreapta, atunci eu voi merge la stânga.",
   "refs": [
    "Geneza 20:15",
    "Geneza 34:10"
@@ -1622,7 +1622,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Lot şi-a ridicat ochii şi a privit toată câmpia Iordanului, că era bine udată peste tot, înainte ca DOMNUL să distrugă Sodoma şi Gomora, ca grădina DOMNULUI, ca ţara Egiptului, cum mergi spre Ţoar.",
+  "fidela": "Și Lot și-a ridicat ochii și a privit toată câmpia Iordanului, că era bine udată peste tot, înainte ca DOMNUL să distrugă Sodoma și Gomora, ca grădina DOMNULUI, ca țara Egiptului, cum mergi spre Țoar.",
   "refs": [
    "Geneza 2:10",
    "Geneza 19:24-25",
@@ -1805,7 +1805,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Atunci Lot şi-a ales toată câmpia Iordanului; şi Lot a călătorit spre est şi s-au despărţit unul de altul.",
+  "fidela": "Atunci Lot și-a ales toată câmpia Iordanului; și Lot a călătorit spre est și s-au despărțit unul de altul.",
   "refs": [
    "Geneza 14:12",
    "Geneza 19:1"
@@ -1994,7 +1994,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Avram a locuit în ţara lui Canaan şi Lot a locuit în cetăţile câmpiei şi şi-a întins cortul spre Sodoma.",
+  "fidela": "Avram a locuit în țara lui Canaan și Lot a locuit în cetățile câmpiei și și-a întins cortul spre Sodoma.",
   "refs": [
    "2 Petru 2:7-8",
    "Geneza 14:12",
@@ -2147,7 +2147,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Dar oamenii Sodomei erau răi şi mari păcătoşi înaintea DOMNULUI.",
+  "fidela": "Dar oamenii Sodomei erau răi și mari păcătoși înaintea DOMNULUI.",
   "refs": [
    "Ezechiel 16:49-50",
    "Geneza 19:4-9",
@@ -2398,7 +2398,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi DOMNUL i-a spus lui Avram, după ce Lot s-a despărţit de el: Ridică-ţi acum ochii şi priveşte din locul unde eşti, spre nord şi spre sud şi spre est şi spre vest;",
+  "fidela": "Și DOMNUL i-a spus lui Avram, după ce Lot s-a despărțit de el: Ridică-ți acum ochii și privește din locul unde ești, spre nord și spre sud și spre est și spre vest;",
   "refs": [
    "Geneza 28:14"
   ],
@@ -2540,7 +2540,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Căci toată ţara pe care o vezi, ţie ţi-o voi da şi seminţiei tale pentru totdeauna.",
+  "fidela": "Căci toată țara pe care o vezi, ție ți-o voi da și seminției tale pentru totdeauna.",
   "refs": [
    "Geneza 17:8",
    "Geneza 12:7",
@@ -2702,7 +2702,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi voi face sămânţa ta ca praful pământului, astfel încât dacă un om poate număra praful pământului, atunci sămânţa ta de asemenea va fi numărată.",
+  "fidela": "Și voi face sămânța ta ca praful pământului, astfel încât dacă un om poate număra praful pământului, atunci sămânța ta de asemenea va fi numărată.",
   "refs": [
    "Geneza 22:17",
    "Geneza 28:14",
@@ -2829,7 +2829,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Ridică-te, străbate ţara în lungul şi în latul ei; căci ţie ţi-o voi da.",
+  "fidela": "Ridică-te, străbate țara în lungul și în latul ei; căci ție ți-o voi da.",
   "refs": [
    "Deuteronom 11:24",
    "Iosua 1:3"
@@ -3003,7 +3003,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Atunci Avram şi-a mutat cortul şi a venit şi a locuit în câmpia lui Mamre, care este în Hebron şi a zidit acolo un altar DOMNULUI.",
+  "fidela": "Atunci Avram și-a mutat cortul și a venit și a locuit în câmpia lui Mamre, care este în Hebron și a zidit acolo un altar DOMNULUI.",
   "refs": [
    "Geneza 23:2,19",
    "Geneza 18:1",

@@ -83,7 +83,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi tot pământul avea o singură limbă şi acelaşi grai.",
+  "fidela": "Și tot pământul avea o singură limbă și același grai.",
   "refs": [
    "Geneza 10:5,20,31"
   ],
@@ -228,7 +228,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi s-a întâmplat, pe când călătoreau dinspre est, că au găsit o câmpie în ţara Şinar; şi au locuit acolo.",
+  "fidela": "Și s-a întâmplat, pe când călătoreau dinspre est, că au găsit o câmpie în țara Șinar; și au locuit acolo.",
   "refs": [
    "Geneza 10:10"
   ],
@@ -424,7 +424,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi şi-au spus unul altuia: Haideţi să facem cărămizi şi să le ardem temeinic. Şi au avut cărămidă în loc de piatră şi smoală au avut în loc de mortar.",
+  "fidela": "Și și-au spus unul altuia: Haideți să facem cărămizi și să le ardem temeinic. Și au avut cărămidă în loc de piatră și smoală au avut în loc de mortar.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -601,7 +601,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi au spus: Haideţi să ne zidim o cetate şi un turn, al cărui vârf să ajungă la cer; şi să ne facem un nume, ca nu cumva să fim împrăştiaţi pe faţa întregului pământ.",
+  "fidela": "Și au spus: Haideți să ne zidim o cetate și un turn, al cărui vârf să ajungă la cer; și să ne facem un nume, ca nu cumva să fim împrăștiați pe fața întregului pământ.",
   "refs": [
    "Deuteronom 1:28",
    "Geneza 3:5"
@@ -774,7 +774,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi DOMNUL a coborât să vadă cetatea şi turnul, pe care copiii oamenilor le-au zidit.",
+  "fidela": "Și DOMNUL a coborât să vadă cetatea și turnul, pe care copiii oamenilor le-au zidit.",
   "refs": [
    "Geneza 18:21"
   ],
@@ -966,7 +966,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi DOMNUL a spus: Iată, poporul este unul şi toţi au o singură limbă; şi acesta a început să facă; şi acum nimic nu îi va opri de la ceea ce şi-au propus să facă.",
+  "fidela": "Și DOMNUL a spus: Iată, poporul este unul și toți au o singură limbă; și acesta a început să facă; și acum nimic nu îi va opri de la ceea ce și-au propus să facă.",
   "refs": [
    "Faptele Apostolilor 17:26",
    "Geneza 9:19"
@@ -1116,7 +1116,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Haideţi, să coborâm şi acolo să le încurcăm limba, ca ei să nu mai înţeleagă limba unul altuia.",
+  "fidela": "Haideți, să coborâm și acolo să le încurcăm limba, ca ei să nu mai înțeleagă limba unul altuia.",
   "refs": [
    "Geneza 1:26",
    "Faptele Apostolilor 2:4-6"
@@ -1245,7 +1245,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Astfel DOMNUL i-a împrăştiat de acolo peste faţa întregului pământ; şi au încetat să zidească cetatea.",
+  "fidela": "Astfel DOMNUL i-a împrăștiat de acolo peste fața întregului pământ; și au încetat să zidească cetatea.",
   "refs": [
    "Geneza 10:25,32"
   ],
@@ -1398,7 +1398,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "De aceea i s-a pus numele Babel, pentru că acolo DOMNUL a încurcat limba întregului pământ; şi de acolo DOMNUL i-a împrăştiat peste faţa întregului pământ.",
+  "fidela": "De aceea i s-a pus numele Babel, pentru că acolo DOMNUL a încurcat limba întregului pământ; și de acolo DOMNUL i-a împrăștiat peste fața întregului pământ.",
   "refs": [
    "1 Corinteni 14:2,11"
   ],
@@ -1561,7 +1561,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Acestea sunt generaţiile lui Sem: Sem era în vârstă de o sută de ani şi a născut pe Arpacşad, la doi ani după potop;",
+  "fidela": "Acestea sunt generațiile lui Sem: Sem era în vârstă de o sută de ani și a născut pe Arpacșad, la doi ani după potop;",
   "refs": [
    "1 Cronici 1:17",
    "Geneza 10:22"
@@ -1707,7 +1707,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Sem a trăit, după ce a născut pe Arpacşad, cinci sute de ani; şi a născut fii şi fiice.",
+  "fidela": "Și Sem a trăit, după ce a născut pe Arpacșad, cinci sute de ani; și a născut fii și fiice.",
   "commentaries": [
    {
     "author": "Sforno (cca. 1475–1550)",
@@ -1820,7 +1820,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Arpacşad a trăit treizeci şi cinci de ani şi a născut pe Şelah;",
+  "fidela": "Și Arpacșad a trăit treizeci și cinci de ani și a născut pe Șelah;",
   "commentaries": [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -1957,7 +1957,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Arpacşad a trăit, după ce a născut pe Şelah, patru sute trei ani; şi a născut fii şi fiice.",
+  "fidela": "Și Arpacșad a trăit, după ce a născut pe Șelah, patru sute trei ani; și a născut fii și fiice.",
   "commentaries": [
    {
     "author": "Notă structurală",
@@ -2066,7 +2066,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Şelah a trăit treizeci de ani şi a născut pe Eber;",
+  "fidela": "Și Șelah a trăit treizeci de ani și a născut pe Eber;",
   "commentaries": [
    {
     "author": "Notă structurală",
@@ -2203,7 +2203,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Şelah a trăit, după ce a născut pe Eber, patru sute trei ani; şi a născut fii şi fiice.",
+  "fidela": "Și Șelah a trăit, după ce a născut pe Eber, patru sute trei ani; și a născut fii și fiice.",
   "commentaries": [
    {
     "author": "Notă structurală",
@@ -2312,7 +2312,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Eber a trăit treizeci şi patru de ani şi a născut pe Peleg;",
+  "fidela": "Și Eber a trăit treizeci și patru de ani și a născut pe Peleg;",
   "commentaries": [],
   "refs": [
    "1 Cronici 1:19"
@@ -2444,7 +2444,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Eber a trăit, după ce a născut pe Peleg, patru sute treizeci de ani; şi a născut fii şi fiice.",
+  "fidela": "Și Eber a trăit, după ce a născut pe Peleg, patru sute treizeci de ani; și a născut fii și fiice.",
   "commentaries": [
    {
     "author": "Notă structurală",
@@ -2553,7 +2553,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Peleg a trăit treizeci de ani şi a născut pe Reu;",
+  "fidela": "Și Peleg a trăit treizeci de ani și a născut pe Reu;",
   "commentaries": [
    {
     "author": "Notă structurală",
@@ -2690,7 +2690,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Peleg a trăit, după ce a născut pe Reu, două sute nouă ani; şi a născut fii şi fiice.",
+  "fidela": "Și Peleg a trăit, după ce a născut pe Reu, două sute nouă ani; și a născut fii și fiice.",
   "commentaries": [
    {
     "author": "Notă structurală",
@@ -2799,7 +2799,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Reu a trăit treizeci şi doi de ani şi a născut pe Serug;",
+  "fidela": "Și Reu a trăit treizeci și doi de ani și a născut pe Serug;",
   "commentaries": [
    {
     "author": "Talmudul Babilonian, Megila, cap. 1",
@@ -2947,7 +2947,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Reu a trăit, după ce a născut pe Serug, două sute şapte ani; şi a născut fii şi fiice.",
+  "fidela": "Și Reu a trăit, după ce a născut pe Serug, două sute șapte ani; și a născut fii și fiice.",
   "refs": [
    "Luca 3:35"
   ],
@@ -3056,7 +3056,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Serug a trăit treizeci de ani şi a născut pe Nahor;",
+  "fidela": "Și Serug a trăit treizeci de ani și a născut pe Nahor;",
   "commentaries": [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -3193,7 +3193,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Serug a trăit, după ce a născut pe Nahor, două sute de ani; şi a născut fii şi fiice.",
+  "fidela": "Și Serug a trăit, după ce a născut pe Nahor, două sute de ani; și a născut fii și fiice.",
   "commentaries": [
    {
     "author": "Notă structurală",
@@ -3302,7 +3302,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Nahor a trăit douăzeci şi nouă de ani şi a născut pe Terah;",
+  "fidela": "Și Nahor a trăit douăzeci și nouă de ani și a născut pe Terah;",
   "refs": [
    "Luca 3:34"
   ],
@@ -3439,7 +3439,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Nahor a trăit, după ce a născut pe Terah, o sută nouăsprezece ani; şi a născut fii şi fiice.",
+  "fidela": "Și Nahor a trăit, după ce a născut pe Terah, o sută nouăsprezece ani; și a născut fii și fiice.",
   "commentaries": [
    {
     "author": "Notă structurală",
@@ -3576,7 +3576,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Terah a trăit şaptezeci de ani şi a născut pe Avram, Nahor şi Haran.",
+  "fidela": "Și Terah a trăit șaptezeci de ani și a născut pe Avram, Nahor și Haran.",
   "refs": [
    "1 Cronici 1:26",
    "Iosua 24:2"
@@ -3756,7 +3756,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi acestea sunt generaţiile lui Terah: Terah a născut pe Avram, pe Nahor, şi pe Haran şi Haran a născut pe Lot.",
+  "fidela": "Și acestea sunt generațiile lui Terah: Terah a născut pe Avram, pe Nahor, și pe Haran și Haran a născut pe Lot.",
   "refs": [
    "Geneza 12:1-5"
   ],
@@ -3907,7 +3907,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Haran a murit înaintea tatălui său, Terah, în ţara naşterii sale, în Urul caldeilor.",
+  "fidela": "Și Haran a murit înaintea tatălui său, Terah, în țara nașterii sale, în Urul caldeilor.",
   "refs": [
    "Faptele Apostolilor 7:4",
    "Neemia 9:7"
@@ -4118,7 +4118,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avram şi Nahor şi-au luat soţii: numele soţiei lui Avram era Sarai şi numele soţiei lui Nahor, Milca, fiica lui Haran, tatăl Milcăi şi tatăl Iscăi.",
+  "fidela": "Și Avram și Nahor și-au luat soții: numele soției lui Avram era Sarai și numele soției lui Nahor, Milca, fiica lui Haran, tatăl Milcăi și tatăl Iscăi.",
   "refs": [
    "Geneza 17:15",
    "Geneza 22:20",
@@ -4520,7 +4520,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Terah a luat pe Avram, fiul său, şi pe Lot, fiul lui Haran, fiul fiului său, şi pe Sarai, nora lui, soţia fiului său, Avram, şi a ieşit împreună cu ei din Urul caldeilor, ca să meargă în ţara lui Canaan; şi au venit la Haran şi au locuit acolo.",
+  "fidela": "Și Terah a luat pe Avram, fiul său, și pe Lot, fiul lui Haran, fiul fiului său, și pe Sarai, nora lui, soția fiului său, Avram, și a ieșit împreună cu ei din Urul caldeilor, ca să meargă în țara lui Canaan; și au venit la Haran și au locuit acolo.",
   "refs": [
    "Geneza 12:1",
    "Neemia 9:7"
@@ -4660,7 +4660,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi zilele lui Terah au fost două sute cinci ani; şi Terah a murit în Haran.",
+  "fidela": "Și zilele lui Terah au fost două sute cinci ani; și Terah a murit în Haran.",
   "refs": [
    "Faptele Apostolilor 7:4"
   ],

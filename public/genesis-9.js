@@ -150,7 +150,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Dumnezeu a binecuvântat pe Noe şi pe fiii lui şi le-a spus: Fiţi roditori şi înmulţiţi-vă şi umpleţi pământul.",
+  "fidela": "Și Dumnezeu a binecuvântat pe Noe și pe fiii lui și le-a spus: Fiți roditori și înmulțiți-vă și umpleți pământul.",
   "refs": [
    "Geneza 1:28"
   ],
@@ -315,7 +315,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi teama de voi şi groaza de voi va fi peste fiecare fiară a pământului şi peste fiecare pasăre a cerului, peste tot ce mişcă pe pământ şi peste toţi peştii mării; în mâna voastră sunt ele predate.",
+  "fidela": "Și teama de voi și groaza de voi va fi peste fiecare fiară a pământului și peste fiecare pasăre a cerului, peste tot ce mișcă pe pământ și peste toți peștii mării; în mâna voastră sunt ele predate.",
   "refs": [
    "Psalmul 8:6-8",
    "Geneza 1:26"
@@ -447,7 +447,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Tot ce mişcă şi trăieşte va fi mâncare pentru voi; precum planta verde, v-am dat toate lucrurile.",
+  "fidela": "Tot ce mișcă și trăiește va fi mâncare pentru voi; precum planta verde, v-am dat toate lucrurile.",
   "refs": [
    "Geneza 1:29"
   ],
@@ -569,7 +569,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Dar carnea cu viaţa din ea, ceea ce este sângele din ea, să nu mâncaţi.",
+  "fidela": "Dar carnea cu viața din ea, ceea ce este sângele din ea, să nu mâncați.",
   "refs": [
    "Faptele Apostolilor 15:20",
    "Levitic 17:10-14"
@@ -752,7 +752,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi cu adevărat sângele vostru, al vieţilor voastre, îl voi cere, din mâna fiecărei fiare îl voi cere şi din mâna omului, din mâna fiecărui frate al omului voi cere viaţa omului.",
+  "fidela": "Și cu adevărat sângele vostru, al vieților voastre, îl voi cere, din mâna fiecărei fiare îl voi cere și din mâna omului, din mâna fiecărui frate al omului voi cere viața omului.",
   "refs": [
    "Geneza 4:10",
    "Exod 21:28"
@@ -1027,7 +1027,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi voi fiţi roditori şi înmulţiţi-vă, naşteţi abundent pe pământ şi înmulţiţi-vă pe acesta.",
+  "fidela": "Și voi fiți roditori și înmulțiți-vă, nașteți abundent pe pământ și înmulțiți-vă pe acesta.",
   "refs": [
    "Geneza 9:1",
    "Geneza 1:28"
@@ -1160,7 +1160,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Dumnezeu i-a vorbit lui Noe şi fiilor lui cu el, spunând:",
+  "fidela": "Și Dumnezeu i-a vorbit lui Noe și fiilor lui cu el, spunând:",
   "commentaries": [
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -1263,7 +1263,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi eu, iată, întemeiez legământul meu cu voi şi cu sămânţa voastră după voi;",
+  "fidela": "Și eu, iată, întemeiez legământul meu cu voi și cu sămânța voastră după voi;",
   "refs": [
    "Geneza 6:18"
   ],
@@ -1423,7 +1423,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi cu fiecare creatură vie care este cu voi, dintre păsări, dintre vite şi dintre fiecare fiară a pământului cu voi, de la tot ceea ce iese afară din arcă, până la fiecare fiară a pământului.",
+  "fidela": "Și cu fiecare creatură vie care este cu voi, dintre păsări, dintre vite și dintre fiecare fiară a pământului cu voi, de la tot ceea ce iese afară din arcă, până la fiecare fiară a pământului.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -1596,7 +1596,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi voi întemeia legământul meu cu voi şi nici nu va mai fi toată făptura stârpită vreodată prin apele unui potop, nici nu va mai fi vreodată un potop să distrugă pământul.",
+  "fidela": "Și voi întemeia legământul meu cu voi și nici nu va mai fi toată făptura stârpită vreodată prin apele unui potop, nici nu va mai fi vreodată un potop să distrugă pământul.",
   "refs": [
    "Isaia 54:9",
    "2 Petru 3:6-7"
@@ -1778,7 +1778,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Dumnezeu a spus: Acesta este semnul legământului pe care îl fac între mine şi voi şi fiecare creatură vie care este cu voi, pentru generaţii pentru totdeauna:",
+  "fidela": "Și Dumnezeu a spus: Acesta este semnul legământului pe care îl fac între mine și voi și fiecare creatură vie care este cu voi, pentru generații pentru totdeauna:",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -1924,7 +1924,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Eu aşez curcubeul meu în nor şi acesta va fi ca semn al unui legământ între mine şi pământ.",
+  "fidela": "Eu așez curcubeul meu în nor și acesta va fi ca semn al unui legământ între mine și pământ.",
   "refs": [
    "Apocalipsa 4:3",
    "Ezechiel 1:28"
@@ -2060,7 +2060,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi se va întâmpla, când aduc un nor peste pământ, că se va vedea curcubeul în nor:",
+  "fidela": "Și se va întâmpla, când aduc un nor peste pământ, că se va vedea curcubeul în nor:",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -2223,7 +2223,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi îmi voi aminti de legământul meu, care este între mine şi voi şi fiecare creatură vie a toată făptura; şi apele nu vor mai deveni un potop ca să nimicească toată făptura.",
+  "fidela": "Și îmi voi aminti de legământul meu, care este între mine și voi și fiecare creatură vie a toată făptura; și apele nu vor mai deveni un potop ca să nimicească toată făptura.",
   "commentaries": [
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -2347,7 +2347,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi curcubeul va fi în nor şi îl voi privi, ca să îmi amintesc de legământul veşnic dintre Dumnezeu şi fiecare creatură vie, a toată făptura, care este pe pământ.",
+  "fidela": "Și curcubeul va fi în nor și îl voi privi, ca să îmi amintesc de legământul veșnic dintre Dumnezeu și fiecare creatură vie, a toată făptura, care este pe pământ.",
   "refs": [
    "Geneza 9:12"
   ],
@@ -2479,7 +2479,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Dumnezeu i-a spus lui Noe: Acesta este semnul legământului, pe care l-am întemeiat între mine şi toată făptura care este pe pământ.",
+  "fidela": "Și Dumnezeu i-a spus lui Noe: Acesta este semnul legământului, pe care l-am întemeiat între mine și toată făptura care este pe pământ.",
   "refs": [
    "Geneza 17:11"
   ],
@@ -2656,7 +2656,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi fiii lui Noe, care au ieşit din arcă, au fost Sem şi Ham şi Iafet; şi Ham este tatăl lui Canaan.",
+  "fidela": "Și fiii lui Noe, care au ieșit din arcă, au fost Sem și Ham și Iafet; și Ham este tatăl lui Canaan.",
   "refs": [
    "Geneza 5:32",
    "Geneza 10:6"
@@ -2782,7 +2782,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Aceştia sunt cei trei fii ai lui Noe şi din ei a fost acoperit întregul pământ.",
+  "fidela": "Aceștia sunt cei trei fii ai lui Noe și din ei a fost acoperit întregul pământ.",
   "refs": [
    "Geneza 10:1-32"
   ],
@@ -2896,7 +2896,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Noe a început a fi agricultor şi a sădit o vie;",
+  "fidela": "Și Noe a început a fi agricultor și a sădit o vie;",
   "refs": [
    "Geneza 3:17-19"
   ],
@@ -3025,7 +3025,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a băut din vin şi s-a îmbătat şi s-a dezgolit înăuntrul cortului său.",
+  "fidela": "Și a băut din vin și s-a îmbătat și s-a dezgolit înăuntrul cortului său.",
   "refs": [
    "Efeseni 5:18",
    "Proverbele 20:1"
@@ -3186,7 +3186,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Ham, tatăl lui Canaan, a văzut goliciunea tatălui său şi a spus celor doi fraţi ai săi de afară.",
+  "fidela": "Și Ham, tatăl lui Canaan, a văzut goliciunea tatălui său și a spus celor doi frați ai săi de afară.",
   "refs": [
    "Levitic 18:6-8"
   ],
@@ -3387,7 +3387,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Sem şi Iafet au luat o haină şi au pus-o peste amândoi umerii lor şi au mers cu spatele şi au acoperit goliciunea tatălui lor şi feţele lor erau întoarse şi nu au văzut goliciunea tatălui lor.",
+  "fidela": "Și Sem și Iafet au luat o haină și au pus-o peste amândoi umerii lor și au mers cu spatele și au acoperit goliciunea tatălui lor și fețele lor erau întoarse și nu au văzut goliciunea tatălui lor.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -3533,7 +3533,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Noe s-a trezit din beţia vinului său şi a cunoscut ceea ce fiul său mai tânăr i-a făcut.",
+  "fidela": "Și Noe s-a trezit din beția vinului său și a cunoscut ceea ce fiul său mai tânăr i-a făcut.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -3668,7 +3668,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a spus: Blestemat fie Canaan, un servitor al servitorilor va fi el fraţilor săi.",
+  "fidela": "Și a spus: Blestemat fie Canaan, un servitor al servitorilor va fi el fraților săi.",
   "refs": [
    "Iosua 9:23"
   ],
@@ -3829,7 +3829,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a spus: Binecuvântat fie DOMNUL Dumnezeul lui Sem; şi Canaan va fi servitorul lui.",
+  "fidela": "Și a spus: Binecuvântat fie DOMNUL Dumnezeul lui Sem; și Canaan va fi servitorul lui.",
   "refs": [
    "Geneza 11:10-26"
   ],
@@ -3993,7 +3993,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Dumnezeu va lărgi pe Iafet şi va locui în corturile lui Sem şi Canaan va fi servitorul lui.",
+  "fidela": "Dumnezeu va lărgi pe Iafet și va locui în corturile lui Sem și Canaan va fi servitorul lui.",
   "refs": [
    "Efeseni 2:13-14"
   ],
@@ -4097,7 +4097,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Noe a trăit după potop trei sute cincizeci de ani.",
+  "fidela": "Și Noe a trăit după potop trei sute cincizeci de ani.",
   "refs": [
    "Geneza 5:32"
   ],
@@ -4192,7 +4192,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi toate zilele lui Noe au fost nouă sute cincizeci de ani; şi a murit.",
+  "fidela": "Și toate zilele lui Noe au fost nouă sute cincizeci de ani; și a murit.",
   "refs": [
    "Geneza 5:5"
   ],

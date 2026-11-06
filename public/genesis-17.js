@@ -181,7 +181,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi când Avram era în vârstă de nouăzeci şi nouă de ani, DOMNUL i s-a arătat lui Avram şi i-a spus: Eu sunt Dumnezeul Atotputernic; umblă înaintea mea şi fii desăvârşit.",
+  "fidela": "Și când Avram era în vârstă de nouăzeci și nouă de ani, DOMNUL i s-a arătat lui Avram și i-a spus: Eu sunt Dumnezeul Atotputernic; umblă înaintea mea și fii desăvârșit.",
   "refs": [
    "Geneza 12:1-3",
    "Deuteronom 18:13",
@@ -313,7 +313,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi voi face un legământ între mine şi tine şi te voi înmulţi peste măsură de mult.",
+  "fidela": "Și voi face un legământ între mine și tine și te voi înmulți peste măsură de mult.",
   "refs": [
    "Geneza 13:16",
    "Geneza 15:5"
@@ -431,7 +431,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avram a căzut cu faţa la pământ şi Dumnezeu a vorbit cu el, spunând:",
+  "fidela": "Și Avram a căzut cu fața la pământ și Dumnezeu a vorbit cu el, spunând:",
   "refs": [
    "Geneza 15:12"
   ],
@@ -538,7 +538,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Cât despre mine, iată, legământul meu este cu tine şi vei fi tată al multor naţiuni.",
+  "fidela": "Cât despre mine, iată, legământul meu este cu tine și vei fi tată al multor națiuni.",
   "refs": [
    "Romani 4:17"
   ],
@@ -683,7 +683,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi numele tău nu va mai fi chemat Avram, ci numele tău va fi Avraam; căci te-am făcut tată al multor naţiuni.",
+  "fidela": "Și numele tău nu va mai fi chemat Avram, ci numele tău va fi Avraam; căci te-am făcut tată al multor națiuni.",
   "refs": [
    "Neemia 9:7",
    "1 Cronici 1:27"
@@ -809,7 +809,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi te voi face foarte roditor şi te voi face naţiuni şi împăraţi vor ieşi din tine.",
+  "fidela": "Și te voi face foarte roditor și te voi face națiuni și împărați vor ieși din tine.",
   "refs": [
    "Matei 1:6",
    "Geneza 35:11"
@@ -941,7 +941,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi voi întemeia legământul meu între mine şi tine şi sămânţa ta după tine în generaţiile lor, ca legământ veşnic, ca să fiu Dumnezeu ţie şi seminţei tale după tine.",
+  "fidela": "Și voi întemeia legământul meu între mine și tine și sămânța ta după tine în generațiile lor, ca legământ veșnic, ca să fiu Dumnezeu ție și seminței tale după tine.",
   "refs": [
    "Geneza 15:18",
    "Galateni 3:16",
@@ -1106,7 +1106,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi îţi voi da ţie şi seminţei tale după tine, ţara în care eşti străin, toată ţara lui Canaan, ca stăpânire veşnică; şi voi fi Dumnezeul lor.",
+  "fidela": "Și îți voi da ție și seminței tale după tine, țara în care ești străin, toată țara lui Canaan, ca stăpânire veșnică; și voi fi Dumnezeul lor.",
   "refs": [
    "Fapte 7:5",
    "Geneza 13:15",
@@ -1250,7 +1250,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Dumnezeu i-a spus lui Avraam: Tu de aceea vei ţine legământul meu, tu şi sămânţa ta după tine în generaţiile lor.",
+  "fidela": "Și Dumnezeu i-a spus lui Avraam: Tu de aceea vei ține legământul meu, tu și sămânța ta după tine în generațiile lor.",
   "refs": [
    "Psalmul 105:8-10"
   ],
@@ -1368,7 +1368,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Acesta este legământul meu pe care îl veţi ţine, între mine şi voi şi sămânţa ta după tine: Fiecare parte bărbătească dintre voi să fie circumcisă.",
+  "fidela": "Acesta este legământul meu pe care îl veți ține, între mine și voi și sămânța ta după tine: Fiecare parte bărbătească dintre voi să fie circumcisă.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -1672,7 +1672,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi cel de opt zile va fi circumcis între voi, fiecare parte bărbătească în generaţiile voastre, cel născut în casă sau cumpărat cu bani de la orice străin, care nu este din sămânţa ta.",
+  "fidela": "Și cel de opt zile va fi circumcis între voi, fiecare parte bărbătească în generațiile voastre, cel născut în casă sau cumpărat cu bani de la orice străin, care nu este din sămânța ta.",
   "refs": [
    "Luca 1:59",
    "Filipeni 3:5",
@@ -1834,7 +1834,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Cel născut în casa ta şi cel cumpărat cu banii tăi trebuie neapărat să fie circumcis; şi legământul meu va fi în carnea voastră ca legământ veşnic.",
+  "fidela": "Cel născut în casa ta și cel cumpărat cu banii tăi trebuie neapărat să fie circumcis; și legământul meu va fi în carnea voastră ca legământ veșnic.",
   "refs": [
    "Ioan 7:22"
   ],
@@ -2021,7 +2021,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi partea bărbătească necircumcisă, a cărei carne a prepuţului nu este circumcisă, acel suflet va fi stârpit din poporul său; el a rupt legământul meu.",
+  "fidela": "Și partea bărbătească necircumcisă, a cărei carne a prepuțului nu este circumcisă, acel suflet va fi stârpit din poporul său; el a rupt legământul meu.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -2193,7 +2193,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Dumnezeu i-a spus lui Avraam: Cât despre Sarai, soţia ta, nu îi vei mai spune numele Sarai, ci Sara va fi numele ei.",
+  "fidela": "Și Dumnezeu i-a spus lui Avraam: Cât despre Sarai, soția ta, nu îi vei mai spune numele Sarai, ci Sara va fi numele ei.",
   "refs": [
    "Geneza 17:5"
   ],
@@ -2320,7 +2320,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi o voi binecuvânta şi de asemenea îţi voi da un fiu din ea; da, o voi binecuvânta şi ea va fi mamă de naţiuni; împăraţi de popoare vor fi din ea.",
+  "fidela": "Și o voi binecuvânta și de asemenea îți voi da un fiu din ea; da, o voi binecuvânta și ea va fi mamă de națiuni; împărați de popoare vor fi din ea.",
   "refs": [
    "Geneza 18:10"
   ],
@@ -2522,7 +2522,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Atunci Avraam a căzut cu faţa la pământ şi a râs şi a spus în inima lui: Se va naşte un fiu celui ce este în vârstă de o sută de ani? Şi va naşte Sara, care este în vârstă de nouăzeci de ani?",
+  "fidela": "Atunci Avraam a căzut cu fața la pământ și a râs și a spus în inima lui: Se va naște un fiu celui ce este în vârstă de o sută de ani? Și va naște Sara, care este în vârstă de nouăzeci de ani?",
   "refs": [
    "Geneza 21:6",
    "Romani 4:19",
@@ -2663,7 +2663,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avraam i-a spus lui Dumnezeu: O, de ar trăi Ismael înaintea ta!",
+  "fidela": "Și Avraam i-a spus lui Dumnezeu: O, de ar trăi Ismael înaintea ta!",
   "refs": [
    "Geneza 16:11"
   ],
@@ -2868,7 +2868,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Dumnezeu a spus: Sara, soţia ta, într-adevăr îţi va naşte un fiu; şi vei chema numele lui Isaac; şi voi întemeia legământul meu cu el ca legământ veşnic şi cu sămânţa lui după el.",
+  "fidela": "Și Dumnezeu a spus: Sara, soția ta, într-adevăr îți va naște un fiu; și vei chema numele lui Isaac; și voi întemeia legământul meu cu el ca legământ veșnic și cu sămânța lui după el.",
   "refs": [
    "Geneza 21:2-3",
    "Geneza 18:14",
@@ -3057,7 +3057,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi cât despre Ismael, te-am ascultat; iată, l-am binecuvântat şi îl voi face roditor şi îl voi înmulţi peste măsură de mult; doisprezece prinţi va naşte, şi îl voi face o naţiune mare.",
+  "fidela": "Și cât despre Ismael, te-am ascultat; iată, l-am binecuvântat și îl voi face roditor și îl voi înmulți peste măsură de mult; doisprezece prinți va naște, și îl voi face o națiune mare.",
   "refs": [
    "Geneza 16:10",
    "Geneza 25:12-16",
@@ -3200,7 +3200,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Dar legământul meu îl voi întemeia cu Isaac, pe care ţi-l va naşte Sara la timpul acesta, în anul următor.",
+  "fidela": "Dar legământul meu îl voi întemeia cu Isaac, pe care ți-l va naște Sara la timpul acesta, în anul următor.",
   "refs": [
    "Geneza 21:2",
    "Geneza 18:10,14"
@@ -3318,7 +3318,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a terminat de vorbit cu el şi Dumnezeu s-a urcat de la Avraam.",
+  "fidela": "Și a terminat de vorbit cu el și Dumnezeu s-a urcat de la Avraam.",
   "refs": [
    "Geneza 18:33"
   ],
@@ -3576,7 +3576,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avraam a luat pe Ismael, fiul său, şi pe toţi cei născuţi în casa lui şi pe toţi cei cumpăraţi cu banii lui, fiecare parte bărbătească printre oamenii casei lui Avraam, şi a circumcis carnea prepuţului lor în chiar aceeaşi zi, precum îi spusese Dumnezeu.",
+  "fidela": "Și Avraam a luat pe Ismael, fiul său, și pe toți cei născuți în casa lui și pe toți cei cumpărați cu banii lui, fiecare parte bărbătească printre oamenii casei lui Avraam, și a circumcis carnea prepuțului lor în chiar aceeași zi, precum îi spusese Dumnezeu.",
   "refs": [
    "Geneza 17:12-13"
   ],
@@ -3693,7 +3693,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Avraam era în vârstă de nouăzeci şi nouă de ani când carnea prepuţului său a fost circumcisă.",
+  "fidela": "Și Avraam era în vârstă de nouăzeci și nouă de ani când carnea prepuțului său a fost circumcisă.",
   "refs": [
    "Romani 4:19"
   ],
@@ -3806,7 +3806,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Ismael, fiul său, era în vârstă de treisprezece ani când carnea prepuţului său a fost circumcisă.",
+  "fidela": "Și Ismael, fiul său, era în vârstă de treisprezece ani când carnea prepuțului său a fost circumcisă.",
   "refs": [
    "Geneza 16:16"
   ],
@@ -3923,7 +3923,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "În aceeaşi zi au fost circumcişi Avraam şi Ismael, fiul său.",
+  "fidela": "În aceeași zi au fost circumciși Avraam și Ismael, fiul său.",
   "refs": [
    "Geneza 17:23-24"
   ],
@@ -4076,7 +4076,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi toţi oamenii casei lui, cei născuţi în casă şi cei cumpăraţi cu bani de la străin, au fost circumcişi împreună cu el.",
+  "fidela": "Și toți oamenii casei lui, cei născuți în casă și cei cumpărați cu bani de la străin, au fost circumciși împreună cu el.",
   "refs": [
    "Geneza 14:14"
   ],

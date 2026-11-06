@@ -219,7 +219,7 @@ window.CHAPTER_DATA = [
     "text": "Și toată oștirea lor. Cuvântul «oaste» înseamnă, propriu-zis, o armată, alcătuită din mai multe cete de ostași sub căpeteniile lor; și pare aplicat aici, cu multă eleganță, diferitelor trupuri cerești ale sistemului nostru, așezate de înțelepciunea dumnezeiască sub influența soarelui. Din traducerea Septuagintei acestui loc, «tot alaiul lor» (πᾶς ὁ κόσμος αὐτῶν), aflăm adevăratul înțeles al cuvântului κόσμος, tradus de obicei prin «lume», care înseamnă un întreg împodobit sau rânduit."
    }
   ],
-  "fidela": "Astfel au fost terminate cerurile şi pământul şi toată oştirea lor."
+  "fidela": "Astfel au fost terminate cerurile și pământul și toată oștirea lor."
  },
  {
   "num": 2,
@@ -519,7 +519,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "Şi în ziua a şaptea Dumnezeu şi-a terminat lucrarea pe care o făcuse; şi în ziua a şaptea s-a odihnit de toată lucrarea lui pe care o făcuse."
+  "fidela": "Și în ziua a șaptea Dumnezeu și-a terminat lucrarea pe care o făcuse; și în ziua a șaptea s-a odihnit de toată lucrarea lui pe care o făcuse."
  },
  {
   "num": 3,
@@ -827,7 +827,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real."
    }
   ],
-  "fidela": "Şi Dumnezeu a binecuvântat ziua a şaptea şi a sfinţit-o, pentru că în aceasta s-a odihnit de toată lucrarea sa, pe care Dumnezeu a creat-o şi a făcut-o."
+  "fidela": "Și Dumnezeu a binecuvântat ziua a șaptea și a sfințit-o, pentru că în aceasta s-a odihnit de toată lucrarea sa, pe care Dumnezeu a creat-o și a făcut-o."
  },
  {
   "num": 4,
@@ -1164,7 +1164,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "Acestea sunt generaţiile cerurilor şi ale pământului când au fost create, în ziua în care DOMNUL Dumnezeu a făcut pământul şi cerurile,"
+  "fidela": "Acestea sunt generațiile cerurilor și ale pământului când au fost create, în ziua în care DOMNUL Dumnezeu a făcut pământul și cerurile,"
  },
  {
   "num": 5,
@@ -1579,7 +1579,7 @@ window.CHAPTER_DATA = [
    "Psalmul 65:9-11",
    "Psalmul 135:7"
   ],
-  "fidela": "Şi fiecare verdeaţă a câmpului, înainte ca aceasta să fi fost în pământ, şi fiecare verdeaţă a câmpului înainte de a fi încolţit, pentru că DOMNUL Dumnezeu nu făcuse să plouă peste pământ şi nu era om să are pământul."
+  "fidela": "Și fiecare verdeață a câmpului, înainte ca aceasta să fi fost în pământ, și fiecare verdeață a câmpului înainte de a fi încolțit, pentru că DOMNUL Dumnezeu nu făcuse să plouă peste pământ și nu era om să are pământul."
  },
  {
   "num": 6,
@@ -1749,7 +1749,7 @@ window.CHAPTER_DATA = [
   "refs": [
    "Iov 36:27-28"
   ],
-  "fidela": "Ci un abur se ridica din pământ şi uda toată suprafaţa pământului.",
+  "fidela": "Ci un abur se ridica din pământ și uda toată suprafața pământului.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -2169,7 +2169,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "Şi DOMNUL Dumnezeu l-a format pe om din ţărâna pământului şi i-a suflat în nări suflarea vieţii şi omul a devenit un suflet viu."
+  "fidela": "Și DOMNUL Dumnezeu l-a format pe om din țărâna pământului și i-a suflat în nări suflarea vieții și omul a devenit un suflet viu."
  },
  {
   "num": 8,
@@ -2357,7 +2357,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real."
    }
   ],
-  "fidela": "Şi DOMNUL Dumnezeu a sădit o grădină înspre est, în Eden, şi acolo a pus pe omul pe care l-a format.",
+  "fidela": "Și DOMNUL Dumnezeu a sădit o grădină înspre est, în Eden, și acolo a pus pe omul pe care l-a format.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -2740,7 +2740,7 @@ window.CHAPTER_DATA = [
     "text": "Și a scos Domnul Dumnezeu din pământ tot pomul plăcut la vedere și bun la mâncare: pomul vieții, în mijlocul grădinii, și pomul cunoașterii binelui și răului. Trebuia neapărat repetat aici, ca să putem înțelege firea locului Paradisului — mai ales fiindcă era nevoie de o mențiune specială a pomului vieții și a pomului cunoașterii binelui și răului: în unul era semnul ascultării datorate de om, în celălalt taina vieții veșnice, pe care avea s-o merite tocmai prin această ascultare. Pomul vieții se numea așa fiindcă avea puterea, primită dumnezeiește, ca oricine mânca din el să aibă trupul întărit cu o sănătate statornică — dar aceasta era totodată și chipul unei taine duhovnicești, al Domnului nostru Iisus Hristos."
    }
   ],
-  "fidela": "Şi din pământ DOMNUL Dumnezeu a făcut să încolţească fiecare pom care este plăcut la vedere şi bun pentru mâncare şi pomul vieţii, de asemenea, în mijlocul grădinii şi pomul cunoaşterii binelui şi răului."
+  "fidela": "Și din pământ DOMNUL Dumnezeu a făcut să încolțească fiecare pom care este plăcut la vedere și bun pentru mâncare și pomul vieții, de asemenea, în mijlocul grădinii și pomul cunoașterii binelui și răului."
  },
  {
   "num": 10,
@@ -2924,7 +2924,7 @@ window.CHAPTER_DATA = [
    "Psalmul 46:4",
    "Apocalipsa 22:1"
   ],
-  "fidela": "Şi un râu ieşea din Eden ca să ude grădina; şi de acolo se împărţea şi se făcea patru capete.",
+  "fidela": "Și un râu ieșea din Eden ca să ude grădina; și de acolo se împărțea și se făcea patru capete.",
   "commentaries": [
    {
     "author": "Targum Onkelos",
@@ -3251,7 +3251,7 @@ window.CHAPTER_DATA = [
     "text": "«Râul», ni se spune, «se desparte în patru brațe.» Numele unuia e Pișon, care înconjoară tot pământul Havilei, unde e aur. Al doilea râu se numește Ghihon; acesta înconjoară tot pământul Etiopiei. Al treilea râu se numește Tigru, care curge pe lângă asirieni. Iar al patrulea râu e Eufratul. Pișon — așa numit de evrei, dar numit de greci Gange — curge spre India. Ghihon e fluviul Nil, care înconjoară pământul Egiptului sau al Etiopiei. Pământul cuprins între Tigru și Eufrat se numește Mesopotamia, fiindcă viețuiește între aceste două fluvii."
    }
   ],
-  "fidela": "Numele întâiului este Pison: acesta este cel ce înconjoară întreaga ţară Havila, unde este aur."
+  "fidela": "Numele întâiului este Pison: acesta este cel ce înconjoară întreaga țară Havila, unde este aur."
  },
  {
   "num": 12,
@@ -3424,7 +3424,7 @@ window.CHAPTER_DATA = [
    "Iov 28:16",
    "Ezechiel 28:13"
   ],
-  "fidela": "Şi aurul acelei ţări este bun: acolo este bedelium şi piatra de onix.",
+  "fidela": "Și aurul acelei țări este bun: acolo este bedelium și piatra de onix.",
   "commentaries": [
    {
     "author": "Targum Onkelos",
@@ -3647,7 +3647,7 @@ window.CHAPTER_DATA = [
    "Geneza 10:6",
    "Isaia 11:11"
   ],
-  "fidela": "Şi numele celui de al doilea râu este Ghihon: acesta este cel ce înconjoară întreaga ţară a Etiopiei.",
+  "fidela": "Și numele celui de al doilea râu este Ghihon: acesta este cel ce înconjoară întreaga țară a Etiopiei.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -3882,7 +3882,7 @@ window.CHAPTER_DATA = [
    "Geneza 15:18",
    "Deuteronomul 1:7"
   ],
-  "fidela": "Şi numele celui de al treilea râu este Hidechel: acesta este cel ce merge spre estul Asiriei. Şi al patrulea râu este Eufratul.",
+  "fidela": "Și numele celui de al treilea râu este Hidechel: acesta este cel ce merge spre estul Asiriei. Și al patrulea râu este Eufratul.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -4153,7 +4153,7 @@ window.CHAPTER_DATA = [
    "Psalmul 128:2",
    "Efeseni 4:28"
   ],
-  "fidela": "Şi DOMNUL Dumnezeu l-a luat pe om şi l-a pus în grădina Edenului, să o lucreze şi să o păzească."
+  "fidela": "Și DOMNUL Dumnezeu l-a luat pe om și l-a pus în grădina Edenului, să o lucreze și să o păzească."
  },
  {
   "num": 16,
@@ -4307,7 +4307,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real."
    }
   ],
-  "fidela": "Şi DOMNUL Dumnezeu i-a poruncit omului, spunând: Din orice pom din grădină poţi mânca în voie,",
+  "fidela": "Și DOMNUL Dumnezeu i-a poruncit omului, spunând: Din orice pom din grădină poți mânca în voie,",
   "commentaries": [
    {
     "author": "Targum Onkelos",
@@ -4555,7 +4555,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real."
    }
   ],
-  "fidela": "Dar din pomul cunoaşterii binelui şi răului să nu mănânci, căci în ziua în care vei mânca din el, vei muri negreşit."
+  "fidela": "Dar din pomul cunoașterii binelui și răului să nu mănânci, căci în ziua în care vei mânca din el, vei muri negreșit."
  },
  {
   "num": 18,
@@ -4835,7 +4835,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real."
    }
   ],
-  "fidela": "Şi DOMNUL Dumnezeu a spus: Nu este bine ca omul să fie singur; îi voi face un ajutor potrivit lui."
+  "fidela": "Și DOMNUL Dumnezeu a spus: Nu este bine ca omul să fie singur; îi voi face un ajutor potrivit lui."
  },
  {
   "num": 19,
@@ -5112,7 +5112,7 @@ window.CHAPTER_DATA = [
    "Geneza 1:20-25",
    "Geneza 2:22,23"
   ],
-  "fidela": "Şi din pământ DOMNUL Dumnezeu a format fiecare fiară a câmpului şi fiecare pasăre a cerului şi le-a adus la Adam să vadă cum le va numi; şi oricum a numit Adam fiecare fiinţa vie, acela a fost numele ei.",
+  "fidela": "Și din pământ DOMNUL Dumnezeu a format fiecare fiară a câmpului și fiecare pasăre a cerului și le-a adus la Adam să vadă cum le va numi; și oricum a numit Adam fiecare ființa vie, acela a fost numele ei.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -5450,7 +5450,7 @@ window.CHAPTER_DATA = [
   "refs": [
    "1 Corinteni 11:9"
   ],
-  "fidela": "Şi Adam a dat nume tuturor vitelor şi tuturor păsărilor cerului şi fiecărei fiare a câmpului, dar pentru Adam nu s-a găsit un ajutor potrivit pentru el."
+  "fidela": "Și Adam a dat nume tuturor vitelor și tuturor păsărilor cerului și fiecărei fiare a câmpului, dar pentru Adam nu s-a găsit un ajutor potrivit pentru el."
  },
  {
   "num": 21,
@@ -5760,7 +5760,7 @@ window.CHAPTER_DATA = [
     }
    }
   ],
-  "fidela": "Şi DOMNUL Dumnezeu a făcut să cadă un somn adânc peste Adam; şi Adam a dormit; şi a luat una din coastele lui şi a închis carnea la loc;"
+  "fidela": "Și DOMNUL Dumnezeu a făcut să cadă un somn adânc peste Adam; și Adam a dormit; și a luat una din coastele lui și a închis carnea la loc;"
  },
  {
   "num": 22,
@@ -5985,7 +5985,7 @@ window.CHAPTER_DATA = [
    "Proverbe 18:22",
    "Proverbe 19:14"
   ],
-  "fidela": "Şi din coasta pe care DOMNUL Dumnezeu a luat-o de la om, a făcut o femeie şi a adus-o la om."
+  "fidela": "Și din coasta pe care DOMNUL Dumnezeu a luat-o de la om, a făcut o femeie și a adus-o la om."
  },
  {
   "num": 23,
@@ -6275,7 +6275,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "Şi Adam a spus: Aceasta este acum os din oasele mele şi carne din carnea mea; ea se va chema femeie, pentru că a fost luată din bărbat."
+  "fidela": "Și Adam a spus: Aceasta este acum os din oasele mele și carne din carnea mea; ea se va chema femeie, pentru că a fost luată din bărbat."
  },
  {
   "num": 24,
@@ -6524,7 +6524,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "De aceea un bărbat va lăsa pe tatăl său şi pe mama sa şi se va lipi de soţia sa şi cei doi vor fi un singur trup."
+  "fidela": "De aceea un bărbat va lăsa pe tatăl său și pe mama sa și se va lipi de soția sa și cei doi vor fi un singur trup."
  },
  {
   "num": 25,
@@ -6737,6 +6737,6 @@ window.CHAPTER_DATA = [
    "Psalmul 31:17",
    "Geneza 3:7,10,11"
   ],
-  "fidela": "Şi ei erau amândoi goi, omul şi soţia sa, şi nu se ruşinau."
+  "fidela": "Și ei erau amândoi goi, omul și soția sa, și nu se rușinau."
  }
 ];

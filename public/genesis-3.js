@@ -387,7 +387,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Efrem Sirul, Imnuri despre Paradis 3.4-5",
-    "text": "Șarpele nu putea să intre în Paradis, căci nici animal, nici pasăre nu avea voie să se apropie de ținutul dinafară al Paradisului, și Adam trebuia să iasă să le întâmpine; astfel șarpele, cu vicleșug, a aflat, întrebând-o pe Eva, firea Paradisului, ce era și cum era rânduit. Când cel blestemat a aflat cum slava acelui cort dinăuntru, ca într-un sanctuar, le era ascunsă, și că Pomul Cunoașterii, îmbrăcat cu o oprelişte, slujea drept văl pentru sanctuar, a înțeles că rodul lui era cheia dreptății care avea să deschidă ochii celor îndrăzneți și să le aducă mare mustrare de cuget."
+    "text": "Șarpele nu putea să intre în Paradis, căci nici animal, nici pasăre nu avea voie să se apropie de ținutul dinafară al Paradisului, și Adam trebuia să iasă să le întâmpine; astfel șarpele, cu vicleșug, a aflat, întrebând-o pe Eva, firea Paradisului, ce era și cum era rânduit. Când cel blestemat a aflat cum slava acelui cort dinăuntru, ca într-un sanctuar, le era ascunsă, și că Pomul Cunoașterii, îmbrăcat cu o opreliște, slujea drept văl pentru sanctuar, a înțeles că rodul lui era cheia dreptății care avea să deschidă ochii celor îndrăzneți și să le aducă mare mustrare de cuget."
    },
    {
     "author": "Ieronim, Întrebări ebraice asupra Genezei",
@@ -478,7 +478,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real."
    }
   ],
-  "fidela": "Acum şarpele era mai viclean decât orice fiară a câmpului pe care DOMNUL Dumnezeu a făcut-o. Şi a spus femeii: Oare a spus Dumnezeu: Să nu mâncaţi din fiecare pom al grădinii?"
+  "fidela": "Acum șarpele era mai viclean decât orice fiară a câmpului pe care DOMNUL Dumnezeu a făcut-o. Și a spus femeii: Oare a spus Dumnezeu: Să nu mâncați din fiecare pom al grădinii?"
  },
  {
   "num": 2,
@@ -628,7 +628,7 @@ window.CHAPTER_DATA = [
    "Geneza 2:16-17",
    "Psalmul 58:4"
   ],
-  "fidela": "Şi femeia a spus şarpelui: Putem să mâncăm din rodul pomilor grădinii,",
+  "fidela": "Și femeia a spus șarpelui: Putem să mâncăm din rodul pomilor grădinii,",
   "commentaries": [
    {
     "author": "Targum Onkelos",
@@ -924,7 +924,7 @@ window.CHAPTER_DATA = [
    "Geneza 2:16,17",
    "Exodul 19:12,13"
   ],
-  "fidela": "Dar din rodul pomului care este în mijlocul grădinii, Dumnezeu a spus: Să nu mâncaţi din el, nici să nu îl atingeţi, ca nu cumva să muriţi."
+  "fidela": "Dar din rodul pomului care este în mijlocul grădinii, Dumnezeu a spus: Să nu mâncați din el, nici să nu îl atingeți, ca nu cumva să muriți."
  },
  {
   "num": 4,
@@ -1044,7 +1044,7 @@ window.CHAPTER_DATA = [
    "2 Împărați 1:6",
    "2 Împărați 1:16"
   ],
-  "fidela": "Şi şarpele a spus femeii: Nu veţi muri nicidecum;",
+  "fidela": "Și șarpele a spus femeii: Nu veți muri nicidecum;",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -1343,7 +1343,7 @@ window.CHAPTER_DATA = [
    "Ieremia 14:13,14",
    "Ieremia 28:2,3"
   ],
-  "fidela": "Fiindcă Dumnezeu ştie că în ziua în care voi mâncaţi din acesta, atunci ochii voştri vor fi deschişi şi veţi fi ca dumnezei, cunoscând binele şi răul."
+  "fidela": "Fiindcă Dumnezeu știe că în ziua în care voi mâncați din acesta, atunci ochii voștri vor fi deschiși și veți fi ca dumnezei, cunoscând binele și răul."
  },
  {
   "num": 6,
@@ -1787,7 +1787,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "Şi când femeia a văzut că pomul era bun pentru mâncare şi că era plăcut ochilor şi un pom de dorit să facă pe cineva înţelept, ea a luat din rodul lui şi a mâncat şi a dat de asemenea soţului ei care era cu ea şi a mâncat şi el."
+  "fidela": "Și când femeia a văzut că pomul era bun pentru mâncare și că era plăcut ochilor și un pom de dorit să facă pe cineva înțelept, ea a luat din rodul lui și a mâncat și a dat de asemenea soțului ei care era cu ea și a mâncat și el."
  },
  {
   "num": 7,
@@ -2053,7 +2053,7 @@ window.CHAPTER_DATA = [
    "Geneza 3:10-11",
    "Geneza 3:10,11"
   ],
-  "fidela": "Şi li s-au deschis ochii la amândoi şi au ştiut că erau goi; şi au cusut frunze de smochin laolaltă şi şi-au făcut şorţuri."
+  "fidela": "Și li s-au deschis ochii la amândoi și au știut că erau goi; și au cusut frunze de smochin laolaltă și și-au făcut șorțuri."
  },
  {
   "num": 8,
@@ -2375,7 +2375,7 @@ window.CHAPTER_DATA = [
    "Iov 38:1",
    "Iov 34:21,22"
   ],
-  "fidela": "Şi au auzit vocea DOMNULUI Dumnezeu umblând în grădină în răcoarea zilei; şi Adam şi soţia lui s-au ascuns de la faţa DOMNULUI Dumnezeu, printre pomii grădinii."
+  "fidela": "Și au auzit vocea DOMNULUI Dumnezeu umblând în grădină în răcoarea zilei; și Adam și soția lui s-au ascuns de la fața DOMNULUI Dumnezeu, printre pomii grădinii."
  },
  {
   "num": 9,
@@ -2566,7 +2566,7 @@ window.CHAPTER_DATA = [
    "Iosua 7:17-19",
    "Geneza 18:20,21"
   ],
-  "fidela": "Şi DOMNUL Dumnezeu l-a chemat pe Adam şi i-a spus: Unde eşti?"
+  "fidela": "Și DOMNUL Dumnezeu l-a chemat pe Adam și i-a spus: Unde ești?"
  },
  {
   "num": 10,
@@ -2729,7 +2729,7 @@ window.CHAPTER_DATA = [
    "Psalmul 119:120",
    "Isaia 33:14"
   ],
-  "fidela": "Iar el a spus: Am auzit vocea ta în grădină şi m-am temut, pentru că eram gol; şi m-am ascuns.",
+  "fidela": "Iar el a spus: Am auzit vocea ta în grădină și m-am temut, pentru că eram gol; și m-am ascuns.",
   "commentaries": [
    {
     "author": "Targum Onkelos",
@@ -2926,7 +2926,7 @@ window.CHAPTER_DATA = [
    "Psalmul 50:21",
    "Romani 3:20"
   ],
-  "fidela": "Iar el a spus: Cine ţi-a spus că erai gol? Ai mâncat din pomul din care ţi-am poruncit să nu mănânci?",
+  "fidela": "Iar el a spus: Cine ți-a spus că erai gol? Ai mâncat din pomul din care ți-am poruncit să nu mănânci?",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -3239,7 +3239,7 @@ window.CHAPTER_DATA = [
    "1 Samuel 15:20-24",
    "Iov 31:33"
   ],
-  "fidela": "Şi omul a spus: Femeia pe care mi-ai dat-o să fie cu mine, ea mi-a dat din pom şi eu am mâncat."
+  "fidela": "Și omul a spus: Femeia pe care mi-ai dat-o să fie cu mine, ea mi-a dat din pom și eu am mâncat."
  },
  {
   "num": 13,
@@ -3379,7 +3379,7 @@ window.CHAPTER_DATA = [
    "2 Samuel 12:9-12",
    "Ioan 18:35"
   ],
-  "fidela": "Şi DOMNUL Dumnezeu a spus femeii: Ce este aceasta ce ai făcut? Şi femeia a spus: Şarpele m-a înşelat şi eu am mâncat.",
+  "fidela": "Și DOMNUL Dumnezeu a spus femeii: Ce este aceasta ce ai făcut? Și femeia a spus: Șarpele m-a înșelat și eu am mâncat.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -3789,7 +3789,7 @@ window.CHAPTER_DATA = [
    "Leviticul 20:25",
    "Psalmul 72:9"
   ],
-  "fidela": "Şi DOMNUL Dumnezeu a spus şarpelui: Pentru că ai făcut aceasta, eşti blestemat mai mult decât toate vitele şi mai mult decât fiecare fiară a câmpului; pe pântecele tău vei merge şi ţărână vei mânca toate zilele vieţii tale."
+  "fidela": "Și DOMNUL Dumnezeu a spus șarpelui: Pentru că ai făcut aceasta, ești blestemat mai mult decât toate vitele și mai mult decât fiecare fiară a câmpului; pe pântecele tău vei merge și țărână vei mânca toate zilele vieții tale."
  },
  {
   "num": 15,
@@ -4107,7 +4107,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real."
    }
   ],
-  "fidela": "Şi voi pune duşmănie între tine şi femeie şi între sămânţa ta şi sămânţa ei; el îţi va răni capul, iar tu îi vei răni călcâiul."
+  "fidela": "Și voi pune dușmănie între tine și femeie și între sămânța ta și sămânța ei; el îți va răni capul, iar tu îi vei răni călcâiul."
  },
  {
   "num": 16,
@@ -4417,7 +4417,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "Femeii i-a spus: Mult îţi voi înmulţi tristeţea şi însărcinarea ta, cu tristeţe vei naşte copii şi dorinţa ta va fi spre soţul tău şi el va stăpâni peste tine."
+  "fidela": "Femeii i-a spus: Mult îți voi înmulți tristețea și însărcinarea ta, cu tristețe vei naște copii și dorința ta va fi spre soțul tău și el va stăpâni peste tine."
  },
  {
   "num": 17,
@@ -4740,7 +4740,7 @@ window.CHAPTER_DATA = [
    "1 Samuel 15:23,24",
    "Matei 25:26,27,45"
   ],
-  "fidela": "Şi lui Adam i-a spus: Pentru că ai dat ascultare vocii soţiei tale şi ai mâncat din pomul din care ţi-am poruncit, zicând: Să nu mănânci din el, blestemat este pământul din cauza ta; în tristeţe vei mânca din el toate zilele vieţii tale;"
+  "fidela": "Și lui Adam i-a spus: Pentru că ai dat ascultare vocii soției tale și ai mâncat din pomul din care ți-am poruncit, zicând: Să nu mănânci din el, blestemat este pământul din cauza ta; în tristețe vei mânca din el toate zilele vieții tale;"
  },
  {
   "num": 18,
@@ -4897,7 +4897,7 @@ window.CHAPTER_DATA = [
    "Proverbe 24:31",
    "Isaia 5:6"
   ],
-  "fidela": "Spini şi ciulini îţi va aduce şi vei mânca verdeaţa câmpului;",
+  "fidela": "Spini și ciulini îți va aduce și vei mânca verdeața câmpului;",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -5110,8 +5110,8 @@ window.CHAPTER_DATA = [
   ],
   "refs": [
    "Romani 5:12",
-   "Eclesiastul 1:3",
-   "Eclesiastul 1:13",
+   "Ecleziastul 1:3",
+   "Ecleziastul 1:13",
    "Efeseni 4:28",
    "1 Tesaloniceni 2:9",
    "2 Tesaloniceni 3:10"
@@ -5214,7 +5214,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "În sudoarea feţei tale vei mânca pâine, până te vei întoarce în pământ, pentru că din el ai fost luat: căci ţărână eşti şi în ţărână te vei întoarce."
+  "fidela": "În sudoarea feței tale vei mânca pâine, până te vei întoarce în pământ, pentru că din el ai fost luat: căci țărână ești și în țărână te vei întoarce."
  },
  {
   "num": 20,
@@ -5440,7 +5440,7 @@ window.CHAPTER_DATA = [
    "Geneza 16:11",
    "Geneza 29:32-35"
   ],
-  "fidela": "Şi Adam i-a dat soţiei sale numele Eva, pentru că ea a fost mama tuturor celor vii."
+  "fidela": "Și Adam i-a dat soției sale numele Eva, pentru că ea a fost mama tuturor celor vii."
  },
  {
   "num": 21,
@@ -5618,7 +5618,7 @@ window.CHAPTER_DATA = [
    "2 Corinteni 5:2-3",
    "2 Corinteni 5:2,3,21"
   ],
-  "fidela": "Lui Adam şi soţiei lui, de asemenea, DOMNUL Dumnezeu le-a făcut haine de piei şi i-a îmbrăcat."
+  "fidela": "Lui Adam și soției lui, de asemenea, DOMNUL Dumnezeu le-a făcut haine de piei și i-a îmbrăcat."
  },
  {
   "num": 22,
@@ -5920,7 +5920,7 @@ window.CHAPTER_DATA = [
    "Geneza 11:6,7",
    "Isaia 19:12,13"
   ],
-  "fidela": "Şi DOMNUL Dumnezeu a spus: Iată, omul a devenit ca unul dintre noi, să cunoască binele şi răul. Şi acum, ca nu cumva să îşi întindă mâna şi să ia de asemenea din pomul vieţii şi să mănânce şi să trăiască pentru totdeauna,"
+  "fidela": "Și DOMNUL Dumnezeu a spus: Iată, omul a devenit ca unul dintre noi, să cunoască binele și răul. Și acum, ca nu cumva să își întindă mâna și să ia de asemenea din pomul vieții și să mănânce și să trăiască pentru totdeauna,"
  },
  {
   "num": 23,
@@ -6413,6 +6413,6 @@ window.CHAPTER_DATA = [
    "Exodul 25:2,20,22",
    "1 Samuel 4:4"
   ],
-  "fidela": "Astfel l-a alungat afară pe om şi a aşezat la est de grădina Edenului nişte heruvimi şi o sabie arzând care se întorcea în fiecare parte, pentru a păzi calea pomului vieţii."
+  "fidela": "Astfel l-a alungat afară pe om și a așezat la est de grădina Edenului niște heruvimi și o sabie arzând care se întorcea în fiecare parte, pentru a păzi calea pomului vieții."
  }
 ];

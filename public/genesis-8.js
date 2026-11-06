@@ -220,7 +220,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Dumnezeu şi-a adus aminte de Noe şi de fiecare vieţuitoare şi de toate vitele care erau cu el în arcă; şi Dumnezeu a făcut să treacă un vânt peste pământ şi apele s-au retras;",
+  "fidela": "Și Dumnezeu și-a adus aminte de Noe și de fiecare viețuitoare și de toate vitele care erau cu el în arcă; și Dumnezeu a făcut să treacă un vânt peste pământ și apele s-au retras;",
   "refs": [
    "Exod 14:21",
    "Geneza 6:18"
@@ -389,7 +389,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "De asemenea fântânile adâncului şi ferestrele cerului au fost închise şi ploaia din cer a fost oprită;",
+  "fidela": "De asemenea fântânile adâncului și ferestrele cerului au fost închise și ploaia din cer a fost oprită;",
   "refs": [
    "Geneza 7:11"
   ],
@@ -548,7 +548,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi apele se retrăgeau de pe pământ continuu şi după ce s-au sfârşit o sută cincizeci de zile, apele s-au împuţinat.",
+  "fidela": "Și apele se retrăgeau de pe pământ continuu și după ce s-au sfârșit o sută cincizeci de zile, apele s-au împuținat.",
   "refs": [
    "Geneza 7:24"
   ],
@@ -697,7 +697,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi arca s-a aşezat în a şaptea lună, în a şaptesprezecea zi a lunii, pe munţii Ararat.",
+  "fidela": "Și arca s-a așezat în a șaptea lună, în a șaptesprezecea zi a lunii, pe munții Ararat.",
   "refs": [
    "Geneza 7:19-20"
   ],
@@ -861,7 +861,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi apele au scăzut continuu până în luna a zecea: în luna a zecea, în prima zi a lunii, s-au văzut vârfurile munţilor.",
+  "fidela": "Și apele au scăzut continuu până în luna a zecea: în luna a zecea, în prima zi a lunii, s-au văzut vârfurile munților.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -1039,7 +1039,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi s-a întâmplat, după ce s-au sfârşit patruzeci de zile, că Noe a deschis fereastra arcei pe care o făcuse,",
+  "fidela": "Și s-a întâmplat, după ce s-au sfârșit patruzeci de zile, că Noe a deschis fereastra arcei pe care o făcuse,",
   "refs": [
    "Geneza 6:16"
   ],
@@ -1194,7 +1194,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a trimis înainte un corb, care a ieşit şi a mers încolo şi încoace, până când au secat apele de pe pământ.",
+  "fidela": "Și a trimis înainte un corb, care a ieșit și a mers încolo și încoace, până când au secat apele de pe pământ.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -1339,7 +1339,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "De asemenea a trimis de la el un porumbel, să vadă dacă apele s-au retras de pe faţa pământului;",
+  "fidela": "De asemenea a trimis de la el un porumbel, să vadă dacă apele s-au retras de pe fața pământului;",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -1564,7 +1564,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Dar porumbelul nu a găsit odihnă pentru talpa piciorului său şi s-a întors la el în arcă, pentru că apele erau pe faţa întregului pământ; atunci a întins mâna şi l-a luat şi l-a dus la el în arcă.",
+  "fidela": "Dar porumbelul nu a găsit odihnă pentru talpa piciorului său și s-a întors la el în arcă, pentru că apele erau pe fața întregului pământ; atunci a întins mâna și l-a luat și l-a dus la el în arcă.",
   "refs": [
    "Isaia 34:11"
   ],
@@ -1677,7 +1677,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a mai stat alte şapte zile şi din nou a trimis porumbelul afară din arcă;",
+  "fidela": "Și a mai stat alte șapte zile și din nou a trimis porumbelul afară din arcă;",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -1847,7 +1847,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi porumbelul a venit la el seara şi, iată, în ciocul lui era o frunză de măslin proaspăt ruptă, aşa că Noe a cunoscut că apele s-au retras de pe pământ.",
+  "fidela": "Și porumbelul a venit la el seara și, iată, în ciocul lui era o frunză de măslin proaspăt ruptă, așa că Noe a cunoscut că apele s-au retras de pe pământ.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -1986,7 +1986,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi a mai stat alte şapte zile şi a trimis porumbelul, care nu s-a mai întors la el.",
+  "fidela": "Și a mai stat alte șapte zile și a trimis porumbelul, care nu s-a mai întors la el.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -2243,7 +2243,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi s-a întâmplat în anul şase sute şi unu, în prima lună, în prima zi a lunii, apele au secat de pe pământ; şi Noe a ridicat acoperişul arcei şi a privit şi, iată, faţa pământului era uscată.",
+  "fidela": "Și s-a întâmplat în anul șase sute și unu, în prima lună, în prima zi a lunii, apele au secat de pe pământ; și Noe a ridicat acoperișul arcei și a privit și, iată, fața pământului era uscată.",
   "refs": [
    "Geneza 7:11",
    "Geneza 7:6"
@@ -2365,7 +2365,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi în a doua lună, în a douăzeci şi şaptea zi a lunii, pământul a fost uscat.",
+  "fidela": "Și în a doua lună, în a douăzeci și șaptea zi a lunii, pământul a fost uscat.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -2461,7 +2461,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Dumnezeu i-a vorbit lui Noe, spunând:",
+  "fidela": "Și Dumnezeu i-a vorbit lui Noe, spunând:",
   "commentaries": [
    {
     "author": "Rashbam (cca. 1085–1158)",
@@ -2598,7 +2598,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Ieşi din arcă, tu şi soţia ta şi fiii tăi şi soţiile fiilor tăi cu tine.",
+  "fidela": "Ieși din arcă, tu și soția ta și fiii tăi și soțiile fiilor tăi cu tine.",
   "refs": [
    "Geneza 7:1"
   ],
@@ -2795,7 +2795,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Scoate împreună cu tine fiecare vieţuitoare care este cu tine, a toată făptura, deopotrivă pasăre şi vită şi fiecare târâtoare care se târăşte pe pământ, ca acestea să nască abundent pe pământ şi să fie roditoare şi să se înmulţească pe pământ.",
+  "fidela": "Scoate împreună cu tine fiecare viețuitoare care este cu tine, a toată făptura, deopotrivă pasăre și vită și fiecare târâtoare care se târăște pe pământ, ca acestea să nască abundent pe pământ și să fie roditoare și să se înmulțească pe pământ.",
   "refs": [
    "Geneza 1:22",
    "Geneza 9:1"
@@ -2927,7 +2927,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Noe a ieşit şi fiii lui şi soţia lui şi soţiile fiilor lui cu el;",
+  "fidela": "Și Noe a ieșit și fiii lui și soția lui și soțiile fiilor lui cu el;",
   "commentaries": [
    {
     "author": "Radak (cca. 1160–1235)",
@@ -3078,7 +3078,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Fiecare fiară, fiecare târâtoare şi fiecare pasăre şi orice se târăşte pe pământ, după felurile lor, au ieşit afară din arcă.",
+  "fidela": "Fiecare fiară, fiecare târâtoare și fiecare pasăre și orice se târăște pe pământ, după felurile lor, au ieșit afară din arcă.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -3325,7 +3325,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Noe a zidit un altar DOMNULUI şi a luat din fiecare fiară curată şi din fiecare pasăre curată şi a adus ofrande arse pe altar.",
+  "fidela": "Și Noe a zidit un altar DOMNULUI și a luat din fiecare fiară curată și din fiecare pasăre curată și a adus ofrande arse pe altar.",
   "refs": [
    "Geneza 6:20",
    "Levitic 1:9"
@@ -3555,7 +3555,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi DOMNUL a mirosit o aromă dulce şi DOMNUL a spus în inima sa: Nu voi mai blestema din nou pământul vreodată din cauza omului, pentru că imaginaţia inimii omului este facere de rău din tinereţea lui, nici nu voi mai lovi din nou vreodată fiecare vieţuitoare, aşa cum am făcut.",
+  "fidela": "Și DOMNUL a mirosit o aromă dulce și DOMNUL a spus în inima sa: Nu voi mai blestema din nou pământul vreodată din cauza omului, pentru că imaginația inimii omului este facere de rău din tinerețea lui, nici nu voi mai lovi din nou vreodată fiecare viețuitoare, așa cum am făcut.",
   "refs": [
    "Geneza 6:5",
    "Efeseni 5:2",
@@ -3766,7 +3766,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Cât timp pământul rămâne, semănatul şi seceratul şi frig şi arşiţă şi vară şi iarnă şi zi şi noapte nu vor înceta.",
+  "fidela": "Cât timp pământul rămâne, semănatul și seceratul și frig și arșiță și vară și iarnă și zi și noapte nu vor înceta.",
   "refs": [
    "Ieremia 33:25",
    "Ieremia 33:20",

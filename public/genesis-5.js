@@ -250,7 +250,7 @@ window.CHAPTER_DATA = [
     "text": "Titlul din Fac 5:1 sună astfel: „Aceasta este cartea (sepher) urmașilor (tholedoth) lui Adam.” Despre tholedoth, vezi Fac 2:4. Sepher este o scriere de sine stătătoare, fie că e alcătuită dintr-o singură foaie sau din mai multe, ca, de exemplu, „cartea de despărțire” din Deut 24:1, Deut 24:3. Adăugarea propoziției „în ziua în care a creat Dumnezeu pe om” și a celor ce urmează este asemănătoare cu cea din Fac 2:4; creația este pomenită din nou ca punct de plecare, pentru că toată dezvoltarea și istoria omenirii își are acolo rădăcina."
    }
   ],
-  "fidela": "Aceasta este cartea generaţiilor lui Adam. În ziua în care Dumnezeu a creat om, după asemănarea lui Dumnezeu l-a făcut.",
+  "fidela": "Aceasta este cartea generațiilor lui Adam. În ziua în care Dumnezeu a creat om, după asemănarea lui Dumnezeu l-a făcut.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -392,7 +392,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Parte bărbătească şi parte femeiască i-a creat şi i-a binecuvântat şi le-a pus numele lor, Adam, în ziua în care au fost creaţi.",
+  "fidela": "Parte bărbătească și parte femeiască i-a creat și i-a binecuvântat și le-a pus numele lor, Adam, în ziua în care au fost creați.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -716,7 +716,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
-  "fidela": "Şi Adam a trăit o sută treizeci de ani şi a născut un fiu în propria lui asemănare, după chipul lui, şi i-a pus numele Set;",
+  "fidela": "Și Adam a trăit o sută treizeci de ani și a născut un fiu în propria lui asemănare, după chipul lui, și i-a pus numele Set;",
   "refs": [
    "Luca 3:38",
    "Iov 14:4",
@@ -846,7 +846,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi zilele lui Adam, după ce a născut pe Set, au fost de opt sute de ani; şi a născut fii şi fiice;",
+  "fidela": "Și zilele lui Adam, după ce a născut pe Set, au fost de opt sute de ani; și a născut fii și fiice;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -1050,7 +1050,7 @@ window.CHAPTER_DATA = [
     "text": "În ziua în care a mâncat Adam fructul oprit, a devenit muritor, a început să moară; toată viața lui de după aceea n-a fost decât o viață pierdută, osândită, ba chiar o viață care se istovea, se stingea; nu era numai ca un osândit cu sentința rostită, ci ca unul deja răstignit, care moare încet și treptat."
    }
   ],
-  "fidela": "Şi toate zilele pe care Adam le-a trăit au fost nouă sute treizeci de ani; şi a murit.",
+  "fidela": "Și toate zilele pe care Adam le-a trăit au fost nouă sute treizeci de ani; și a murit.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -1161,7 +1161,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Set a trăit o sută cinci ani şi a născut pe Enos;",
+  "fidela": "Și Set a trăit o sută cinci ani și a născut pe Enos;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -1315,7 +1315,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Set a trăit, după ce a născut pe Enos, opt sute şapte ani; şi a născut fii şi fiice;",
+  "fidela": "Și Set a trăit, după ce a născut pe Enos, opt sute șapte ani; și a născut fii și fiice;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -1422,7 +1422,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi toate zilele lui Set au fost nouă sute doisprezece ani; şi a murit.",
+  "fidela": "Și toate zilele lui Set au fost nouă sute doisprezece ani; și a murit.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -1550,7 +1550,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Enos a trăit nouăzeci de ani şi a născut pe Cainan;",
+  "fidela": "Și Enos a trăit nouăzeci de ani și a născut pe Cainan;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -1720,7 +1720,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Enos a trăit, după ce a născut pe Cainan, opt sute cincisprezece ani; şi a născut fii şi fiice;",
+  "fidela": "Și Enos a trăit, după ce a născut pe Cainan, opt sute cincisprezece ani; și a născut fii și fiice;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -1827,7 +1827,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi toate zilele lui Enos au fost nouă sute cinci ani; şi a murit.",
+  "fidela": "Și toate zilele lui Enos au fost nouă sute cinci ani; și a murit.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -1951,7 +1951,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Cainan a trăit şaptezeci de ani şi a născut pe Mahalaleel;",
+  "fidela": "Și Cainan a trăit șaptezeci de ani și a născut pe Mahalaleel;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -2119,7 +2119,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Cainan a trăit, după ce a născut pe Mahalaleel, opt sute patruzeci de ani; şi a născut fii şi fiice;",
+  "fidela": "Și Cainan a trăit, după ce a născut pe Mahalaleel, opt sute patruzeci de ani; și a născut fii și fiice;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -2226,7 +2226,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi toate zilele lui Cainan au fost nouă sute zece ani; şi a murit.",
+  "fidela": "Și toate zilele lui Cainan au fost nouă sute zece ani; și a murit.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -2350,7 +2350,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Mahalaleel a trăit şaizeci şi cinci de ani şi a născut pe Iared;",
+  "fidela": "Și Mahalaleel a trăit șaizeci și cinci de ani și a născut pe Iared;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -2529,7 +2529,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Mahalaleel a trăit, după ce a născut pe Iared, opt sute treizeci de ani; şi a născut fii şi fiice;",
+  "fidela": "Și Mahalaleel a trăit, după ce a născut pe Iared, opt sute treizeci de ani; și a născut fii și fiice;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -2636,7 +2636,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi toate zilele lui Mahalaleel au fost opt sute nouăzeci şi cinci de ani; şi a murit.",
+  "fidela": "Și toate zilele lui Mahalaleel au fost opt sute nouăzeci și cinci de ani; și a murit.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -2759,7 +2759,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Iared a trăit o sută şaizeci şi doi de ani şi a născut pe Enoh;",
+  "fidela": "Și Iared a trăit o sută șaizeci și doi de ani și a născut pe Enoh;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -2937,7 +2937,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Iared a trăit după ce a născut pe Enoh, opt sute de ani; şi a născut fii şi fiice;",
+  "fidela": "Și Iared a trăit după ce a născut pe Enoh, opt sute de ani; și a născut fii și fiice;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -3044,7 +3044,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi toate zilele lui Iared au fost nouă sute şaizeci şi doi de ani; şi a murit.",
+  "fidela": "Și toate zilele lui Iared au fost nouă sute șaizeci și doi de ani; și a murit.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -3172,7 +3172,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Enoh a trăit şaizeci şi cinci de ani şi a născut pe Metusala;",
+  "fidela": "Și Enoh a trăit șaizeci și cinci de ani și a născut pe Metusala;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -3389,7 +3389,7 @@ window.CHAPTER_DATA = [
     }
    }
   ],
-  "fidela": "Şi Enoh a umblat cu Dumnezeu, după ce a născut pe Metusala, trei sute de ani; şi a născut fii şi fiice;",
+  "fidela": "Și Enoh a umblat cu Dumnezeu, după ce a născut pe Metusala, trei sute de ani; și a născut fii și fiice;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -3475,7 +3475,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi toate zilele lui Enoh au fost trei sute şaizeci şi cinci de ani;",
+  "fidela": "Și toate zilele lui Enoh au fost trei sute șaizeci și cinci de ani;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -3754,7 +3754,7 @@ window.CHAPTER_DATA = [
     "text": "(86) Ce înseamnă expresia: „N-a fost găsit, pentru că Dumnezeu l-a strămutat”? (Fac 5:24). Mai întâi, sfârșitul oamenilor virtuoși și sfinți nu este moartea, ci o strămutare și o mutare și o apropiere de un alt loc de locuit. În al doilea rând, în acest caz s-a petrecut ceva minunat; căci s-a presupus că a fost răpit în așa fel încât să fie nevăzut, și de aceea nu a fost găsit: și o dovadă a aceasta este că a fost căutat ca nevăzut, nu doar ca unul răpit din fața lor, căci strămutarea într-un alt loc nu este nimic altceva decât așezarea cuiva într-o altă situație; dar aici se sugerează că a fost strămutat dintr-un loc vizibil, perceptibil prin simțurile din afară, într-o idee necorporală, înțeleasă numai de minte. Această milă a fost dată și marelui proroc, căci și mormântul lui n-a fost cunoscut de nimeni. Și în afară de acești doi a mai fost unul, Ilie, care s-a înălțat de la lucrurile pământului la cer, după arătarea dumnezeiască ce i s-a înfățișat atunci, și care astfel a urmat lucrurile mai înalte sau, ca să vorbim cu mai exactă potrivire, a fost ridicat la cer."
    }
   ],
-  "fidela": "Şi Enoh a umblat cu Dumnezeu: şi nu a mai fost, pentru că Dumnezeu l-a luat.",
+  "fidela": "Și Enoh a umblat cu Dumnezeu: și nu a mai fost, pentru că Dumnezeu l-a luat.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -3865,7 +3865,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Metusala a trăit o sută optzeci şi şapte de ani şi a născut pe Lameh;",
+  "fidela": "Și Metusala a trăit o sută optzeci și șapte de ani și a născut pe Lameh;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -4057,7 +4057,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Metusala a trăit, după ce a născut pe Lameh, şapte sute optzeci şi doi de ani; şi a născut fii şi fiice;",
+  "fidela": "Și Metusala a trăit, după ce a născut pe Lameh, șapte sute optzeci și doi de ani; și a născut fii și fiice;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -4200,7 +4200,7 @@ window.CHAPTER_DATA = [
     }
    }
   ],
-  "fidela": "Şi toate zilele lui Metusala au fost nouă sute şaizeci şi nouă de ani; şi a murit.",
+  "fidela": "Și toate zilele lui Metusala au fost nouă sute șaizeci și nouă de ani; și a murit.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -4314,7 +4314,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Lameh a trăit o sută optzeci şi doi de ani şi a născut un fiu;",
+  "fidela": "Și Lameh a trăit o sută optzeci și doi de ani și a născut un fiu;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -4648,7 +4648,7 @@ window.CHAPTER_DATA = [
     "text": "Urcând prin treptele locuințelor [din corabia zidită de Noe în timpul potopului], se ajunge la Noe însuși, al cărui nume înseamnă odihnă sau drept, care este Iisus Hristos. Căci ceea ce spune tatăl său, Lameh, nu se potrivește vechiului Noe. Căci „acesta”, zice el, „ne va da odihnă de ostenelile și de întristările mâinilor noastre și de pământul pe care l-a blestemat Domnul Dumnezeu.” Cum va fi adevărat că vechiul Noe a dat odihnă acelui Lameh sau acelui popor care atunci erau cuprinși pe pământuri? Cum e încetare a ostenelilor și a întristărilor în vremea lui Noe? Numai Iisus a dat odihnă omenirii și a izbăvit pământul de blestemul cu care l-a blestemat Domnul Dumnezeu."
    }
   ],
-  "fidela": "Şi i-a pus numele Noe, spunând: Acesta ne va mângâia pentru lucrarea noastră şi osteneala mâinilor noastre, din cauza pământului pe care Dumnezeu l-a blestemat.",
+  "fidela": "Și i-a pus numele Noe, spunând: Acesta ne va mângâia pentru lucrarea noastră și osteneala mâinilor noastre, din cauza pământului pe care Dumnezeu l-a blestemat.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -4799,7 +4799,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi Lameh a trăit, după ce a născut pe Noe, cinci sute nouăzeci şi cinci de ani; şi a născut fii şi fiice;",
+  "fidela": "Și Lameh a trăit, după ce a născut pe Noe, cinci sute nouăzeci și cinci de ani; și a născut fii și fiice;",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -4918,7 +4918,7 @@ window.CHAPTER_DATA = [
     "t": "."
    }
   ],
-  "fidela": "Şi toate zilele lui Lameh au fost şapte sute şaptezeci şi şapte de ani; şi a murit.",
+  "fidela": "Și toate zilele lui Lameh au fost șapte sute șaptezeci și șapte de ani; și a murit.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
@@ -5100,7 +5100,7 @@ window.CHAPTER_DATA = [
    "Geneza 7:13",
    "Geneza 9:18,19,22-27"
   ],
-  "fidela": "Şi Noe a fost în vârstă de cinci sute de ani; şi Noe a născut pe Sem, Ham şi Iafet.",
+  "fidela": "Și Noe a fost în vârstă de cinci sute de ani; și Noe a născut pe Sem, Ham și Iafet.",
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",

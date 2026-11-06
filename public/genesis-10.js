@@ -153,7 +153,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi acestea sunt generaţiile fiilor lui Noe: Sem, Ham şi Iafet; şi lor li s-au născut fii după potop.",
+  "fidela": "Și acestea sunt generațiile fiilor lui Noe: Sem, Ham și Iafet; și lor li s-au născut fii după potop.",
   "refs": [
    "Geneza 9:18-19",
    "1 Cronici 1:5-23"
@@ -309,7 +309,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Fiii lui Iafet: Gomer şi Magog şi Madai şi Iavan şi Tubal şi Meşec şi Tiras.",
+  "fidela": "Fiii lui Iafet: Gomer și Magog și Madai și Iavan și Tubal și Meșec și Tiras.",
   "refs": [
    "1 Cronici 1:5",
    "Ezechiel 38:2-6"
@@ -417,7 +417,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi fiii lui Gomer: Aşchenaz şi Rifat şi Togarma.",
+  "fidela": "Și fiii lui Gomer: Așchenaz și Rifat și Togarma.",
   "refs": [
    "Ieremia 51:27"
   ],
@@ -530,7 +530,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi fiii lui Iavan: Elişa şi Tarşiş, Chitim şi Dodanim.",
+  "fidela": "Și fiii lui Iavan: Elișa și Tarșiș, Chitim și Dodanim.",
   "refs": [
    "Ezechiel 27:13"
   ],
@@ -675,7 +675,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Prin aceştia au fost împărţite insulele neamurilor în ţările lor, fiecare după limba lui, după familiile lor, în naţiunile lor.",
+  "fidela": "Prin aceștia au fost împărțite insulele neamurilor în țările lor, fiecare după limba lui, după familiile lor, în națiunile lor.",
   "refs": [
    "Geneza 9:19"
   ],
@@ -788,7 +788,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi fiii lui Ham: Cuş şi Miţraim şi Put şi Canaan.",
+  "fidela": "Și fiii lui Ham: Cuș și Mițraim și Put și Canaan.",
   "refs": [
    "1 Cronici 1:8"
   ],
@@ -961,7 +961,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi fiii lui Cuş: Seba şi Havila şi Sabta şi Raema şi Sabteca; şi fiii lui Raema: Şeba şi Dedan.",
+  "fidela": "Și fiii lui Cuș: Seba și Havila și Sabta și Raema și Sabteca; și fiii lui Raema: Șeba și Dedan.",
   "commentaries": [
    {
     "author": "Ramban / Nahmanide (1194–1270)",
@@ -1097,7 +1097,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Cuş a născut pe Nimrod; el a început să fie puternic pe pământ.",
+  "fidela": "Și Cuș a născut pe Nimrod; el a început să fie puternic pe pământ.",
   "refs": [
    "Mica 5:6",
    "1 Cronici 1:10"
@@ -1384,7 +1384,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi începutul împărăţiei sale a fost Babel şi Erec şi Acad şi Calne, în ţara Şinar.",
+  "fidela": "Și începutul împărăției sale a fost Babel și Erec și Acad și Calne, în țara Șinar.",
   "refs": [
    "Mica 5:6",
    "Geneza 11:2-9"
@@ -1523,7 +1523,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Din acea ţară a ieşit Aşur şi a zidit Ninive şi cetatea Rehobot şi Calah,",
+  "fidela": "Din acea țară a ieșit Așur și a zidit Ninive și cetatea Rehobot și Calah,",
   "refs": [
    "Iona 3:3",
    "Geneza 11:9"
@@ -1663,7 +1663,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Resen, între Ninive şi Calah; aceasta este o cetate mare.",
+  "fidela": "Și Resen, între Ninive și Calah; aceasta este o cetate mare.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -1798,7 +1798,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Miţraim a născut pe ludimi şi pe anamimi şi pe lehabimi şi pe naftuhimi,",
+  "fidela": "Și Mițraim a născut pe ludimi și pe anamimi și pe lehabimi și pe naftuhimi,",
   "refs": [
    "1 Cronici 1:11-12"
   ],
@@ -1923,7 +1923,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi pe patrusimi şi pe casluhimi (din care au ieşit filistenii) şi pe caftorimi.",
+  "fidela": "Și pe patrusimi și pe casluhimi (din care au ieșit filistenii) și pe caftorimi.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -2055,7 +2055,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Canaan a născut pe Sidon, întâiul său născut, şi pe Het,",
+  "fidela": "Și Canaan a născut pe Sidon, întâiul său născut, și pe Het,",
   "refs": [
    "Geneza 9:18"
   ],
@@ -2144,7 +2144,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi pe iebusiţi şi pe amoriţi şi pe ghirgasiţi,",
+  "fidela": "Și pe iebusiți și pe amoriți și pe ghirgasiți,",
   "commentaries": [
    {
     "author": "Radak (cca. 1160–1235)",
@@ -2230,7 +2230,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi pe hiviţi şi pe archiţi şi pe siniţi,",
+  "fidela": "Și pe hiviți și pe archiți și pe siniți,",
   "refs": [
    "Deuteronom 7:1"
   ],
@@ -2353,7 +2353,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi pe arvadiţi şi pe ţemariţi şi pe hamatiţi; şi după aceea s-au împrăştiat familiile canaaniţilor.",
+  "fidela": "Și pe arvadiți și pe țemariți și pe hamatiți; și după aceea s-au împrăștiat familiile canaaniților.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -2550,7 +2550,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi hotarul canaaniţilor era de la Sidon, cum vii spre Gherar, până la Gaza; cum vii spre Sodoma şi Gomora şi Adma şi Ţeboim, până la Laşa.",
+  "fidela": "Și hotarul canaaniților era de la Sidon, cum vii spre Gherar, până la Gaza; cum vii spre Sodoma și Gomora și Adma și Țeboim, până la Lașa.",
   "refs": [
    "Geneza 13:10",
    "Geneza 19:24-25"
@@ -2700,7 +2700,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Aceştia sunt fiii lui Ham, după familiile lor, după limbile lor, în ţările lor, în naţiunile lor.",
+  "fidela": "Aceștia sunt fiii lui Ham, după familiile lor, după limbile lor, în țările lor, în națiunile lor.",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -2849,7 +2849,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi lui Sem, tatăl tuturor copiilor lui Eber, fratele mai mare al lui Iafet, i s-au născut şi lui fii.",
+  "fidela": "Și lui Sem, tatăl tuturor copiilor lui Eber, fratele mai mare al lui Iafet, i s-au născut și lui fii.",
   "refs": [
    "Luca 3:36"
   ],
@@ -2988,7 +2988,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Fiii lui Sem: Elam şi Aşur şi Arpacşad şi Lud şi Aram.",
+  "fidela": "Fiii lui Sem: Elam și Așur și Arpacșad și Lud și Aram.",
   "refs": [
    "1 Cronici 1:17"
   ],
@@ -3097,7 +3097,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi fiii lui Aram: Uţ şi Hul şi Gheter şi Maş.",
+  "fidela": "Și fiii lui Aram: Uț și Hul și Gheter și Maș.",
   "refs": [
    "Iov 1:1"
   ],
@@ -3224,7 +3224,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Arpacşad a născut pe Şelah; şi Şelah a născut pe Eber.",
+  "fidela": "Și Arpacșad a născut pe Șelah; și Șelah a născut pe Eber.",
   "commentaries": [],
   "refs": [
    "Luca 3:35-36"
@@ -3398,7 +3398,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi lui Eber i s-au născut doi fii: numele unuia era Peleg, pentru că în zilele lui a fost împărţit pământul; şi numele fratelui său era Ioctan.",
+  "fidela": "Și lui Eber i s-au născut doi fii: numele unuia era Peleg, pentru că în zilele lui a fost împărțit pământul; și numele fratelui său era Ioctan.",
   "refs": [
    "1 Cronici 1:19",
    "Geneza 11:16-19"
@@ -3538,7 +3538,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi Ioctan a născut pe Almodad şi pe Şelef şi pe Haţarmavet şi pe Iarah,",
+  "fidela": "Și Ioctan a născut pe Almodad și pe Șelef și pe Hațarmavet și pe Iarah,",
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
@@ -3624,7 +3624,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi pe Hadoram şi pe Uzal şi pe Dikla,",
+  "fidela": "Și pe Hadoram și pe Uzal și pe Dikla,",
   "commentaries": [
    {
     "author": "Notă structurală",
@@ -3702,7 +3702,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi pe Obal şi pe Abimael şi pe Şeba,",
+  "fidela": "Și pe Obal și pe Abimael și pe Șeba,",
   "commentaries": [
    {
     "author": "Notă structurală",
@@ -3822,7 +3822,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi pe Ofir şi pe Havila şi pe Iobab; toţi aceştia au fost fiii lui Ioctan.",
+  "fidela": "Și pe Ofir și pe Havila și pe Iobab; toți aceștia au fost fiii lui Ioctan.",
   "commentaries": [
    {
     "author": "Radak (cca. 1160–1235)",
@@ -3947,7 +3947,7 @@ window.CHAPTER_DATA = [
     "note": "Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Şi reşedinţa lor era de la Meşa, cum vii spre Sefar, muntele de la răsărit.",
+  "fidela": "Și reședința lor era de la Meșa, cum vii spre Sefar, muntele de la răsărit.",
   "commentaries": [
    {
     "author": "Radak (cca. 1160–1235)",
@@ -4088,7 +4088,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Aceştia sunt fiii lui Sem, după familiile lor, după limbile lor, în ţările lor, după naţiunile lor.",
+  "fidela": "Aceștia sunt fiii lui Sem, după familiile lor, după limbile lor, în țările lor, după națiunile lor.",
   "refs": [
    "Geneza 11:10-26"
   ],
@@ -4253,7 +4253,7 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "fidela": "Acestea sunt familiile fiilor lui Noe, după generaţiile lor, în naţiunile lor; şi de la aceştia au fost separate naţiunile pe pământ după potop.",
+  "fidela": "Acestea sunt familiile fiilor lui Noe, după generațiile lor, în națiunile lor; și de la aceștia au fost separate națiunile pe pământ după potop.",
   "refs": [
    "Faptele Apostolilor 17:26",
    "Geneza 9:19"
