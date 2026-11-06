@@ -1,0 +1,32 @@
+// Geneza 12: forma greacă/ebraică a etichetelor = exact cea din verset (Rahlfs / Sefaria).
+const NG = { greek: null, greek_def_ro: null };
+const G = (greek, extra = {}) => ({ greek, greek_def_ro: null, ...extra });
+module.exports = [
+  [1, { w: 'arăta' }, G('δείξω')],
+  [2, { w: 'binecuvântare' }, G('εὐλογητός')],
+  [4, { w: 'șaptezeci și cinci de ani' }, G('ἐτῶν ἑβδομήκοντα πέντε')],
+  [4, { w: 'ieșit' }, G('ἐξῆλθεν')],
+  [5, { w: 'soția' }, G('γυναῖκα')],
+  [5, { w: 'sufletele' }, G('πᾶσαν ψυχήν')],
+  [6, { w: 'canaanitul' }, G('Χαναναῖοι')],
+  [6, { w: 'țară' }, G('τὴν γῆν')],
+  [8, { w: 'răsărit', greek: 'κατὰ ἀνατολὰς' }, G('κατ᾿ ἀνατολὰς')],
+  [8, { w: 'nume' }, G('ὀνόματι')],
+  [9, { w: 'către' }, G('πορευθεὶς')],
+  [9, { w: 'miazăzi' }, G('ἐν τῇ ἐρήμῳ')],
+  [10, { w: 'țară' }, G('τῆς γῆς')],
+  [11, { w: 'ajungă' }, { heb: 'הִקְרִיב' }],
+  [11, { w: 'Egipt' }, { heb: 'מִצְרָיְמָה' }],
+  [11, { w: 'frumoasă' }, G('εὐπρόσωπος')],
+  [11, { w: 'înfățișare' }, { ...NG, diff_ro: 'Septuaginta redă „frumoasă la înfățișare” (יְפַת־מַרְאֶה) printr-un singur cuvânt, εὐπρόσωπος, „cu față frumoasă”; „înfățișarea” (מַרְאֶה) nu are cuvânt aparte.' }],
+  [12, { w: 'vedea', heb: 'וְרָאוּ' }, { heb: 'יִרְאוּ', ...G('ἴδωσίν') }],
+  [14, { w: 'venirea' }, G('εἰσῆλθεν')],
+  [14, { w: 'Avram' }, G('Αβραμ')],
+  [15, { w: 'femeia' }, { ...NG, diff_ro: 'Septuaginta nu are aici un cuvânt pentru „femeia” (הָאִשָּׁה): subiectul vine din verbul „au dus-o” (εἰσήγαγον αὐτὴν).' }],
+  [15, { w: 'luată' }, G('εἰσήγαγον')],
+  [16, { w: 'Avram' }, G('Αβραμ')],
+  [18, { w: 'chemat' }, G('καλέσας')],
+  [20, { w: 'poruncit' }, G('ἐνετείλατο')],
+  [20, { w: 'oamenilor' }, G('ἀνδράσιν')],
+  [20, { w: 'escortat' }, G('συμπροπέμψαι')],
+];
