@@ -2421,7 +2421,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "După aceasta, în ziua a doua, a așezat cerul deasupra întregii lumi și l-a despărțit de celelalte părți și a hotărât ca el să stea singur. A pus de asemenea în jurul lui un [firmament] cristalin și l-a alcătuit într-un chip potrivit cu pământul și l-a făcut apt să dea umezeală și ploaie și să aducă folosul rouălor."
+    "text": "După aceasta, în ziua a doua, a așezat cerul deasupra întregii lumi și l-a despărțit de celelalte părți și a hotărât ca el să stea singur. A pus de asemenea în jurul lui un [firmament] cristalin și l-a alcătuit într-un chip potrivit cu pământul și l-a făcut apt să dea umezeală și ploaie și să aducă folosul rourilor."
    }
   ],
   "textCompare": [
