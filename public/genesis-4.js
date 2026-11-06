@@ -12,11 +12,11 @@ window.CHAPTER_DATA = [
     "translit": "ha'adam",
     "strong": "H120",
     "pos": "substantiv",
-    "greek": "ὁ Ἀδάμ",
+    "greek": "Ἀδάμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "om, omenire — propriu-zis, „roșiatic”; folosit pentru un singur om sau pentru neamul omenesc întreg.",
     "dict_ro": "Ha-adam, „omul”, cu articol hotărât — aceeași formă generică folosită la Geneza 2-3, aici pentru ultima dată înainte ca la 4:25 textul să treacă la Adam ca nume propriu, fără articol. Trecerea marchează simbolic ieșirea din Eden: „omul” generic devine, treptat, un individ cu nume și genealogie proprie.",
-    "greek_def_ro": "ἄνθρωπος (anthropos) — om, ființă omenească.",
+    "greek_def_ro": "Ἀδάμ (Adam) — Adam, omul.",
     "diff_ro": "Ebraica are cuvântul comun „omul” (ha-adam, cu articol); greaca îl redă ca nume propriu, „Adam”."
    },
    {
@@ -71,17 +71,7 @@ window.CHAPTER_DATA = [
     "t": " sa, și "
    },
    {
-    "t": "ea",
-    "w": "ea",
-    "heb": "הִיא",
-    "translit": "hi",
-    "strong": "H1931",
-    "pos": "pronume",
-    "greek": "αὕτη",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
-    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25).",
-    "greek_def_ro": "αὐτός (autos) — el, ea, acela."
+    "t": "ea"
    },
    {
     "t": " a "
@@ -93,11 +83,11 @@ window.CHAPTER_DATA = [
     "translit": "vatahar",
     "strong": "H2029",
     "pos": "verb",
-    "greek": "συνέλαβεν",
+    "greek": "συλλαβοῦσα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "a zămisli, a rămâne însărcinată — se spune despre femeie; folosit și figurat.",
     "dict_ro": "Rădăcina harah, „a zămisli, a rămâne însărcinată” — verb obișnuit pentru începutul sarcinii, folosit constant în genealogiile biblice; aici deschide formula standard „a zămislit și a născut”, repetată identic la 4:17.",
-    "greek_def_ro": "συλλαμβάνω (syllambanō) — a prinde, a zămisli."
+    "greek_def_ro": "συλλαμβάνω (syllambano) — a prinde, a zămisli (aici participiu: „zămislind”)."
    },
    {
     "t": " și l-a "
@@ -1449,10 +1439,10 @@ window.CHAPTER_DATA = [
    {
     "t": "bine",
     "w": "bine",
-    "heb": "הֵיטֵב",
-    "translit": "heitev",
+    "heb": "תֵּיטִיב",
+    "translit": "teitiv",
     "strong": "H3190",
-    "pos": "adverb",
+    "pos": "verb (hifil)",
     "greek": "ὀρθῶς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "a fi bun, a face bine, a izbândi; la forma cauzativă, a face cum se cuvine, a face bine ceva.",
@@ -1503,11 +1493,12 @@ window.CHAPTER_DATA = [
     "translit": "chatat",
     "strong": "H2403",
     "pos": "substantiv",
-    "greek": "ἡ ἁμαρτία",
+    "greek": "ἥμαρτες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "păcat, greșeală; și pedeapsa sau jertfa pentru păcat; în Geneza 4:7 păcatul apare personificat, ca o făptură care pândește.",
     "dict_ro": "Chatat, „păcat” — de la rădăcina chata, „a rata ținta”, imagine împrumutată din arhitectură militară: păcatul e o săgeată care nu-și atinge scopul. Aici cuvântul e personificat aproape ca o ființă vie, „la ușă” gata să sară.",
-    "greek_def_ro": "ἁμαρτία (hamartia) — păcat, greșeală."
+    "greek_def_ro": "ἁμαρτάνω (hamartano) — a păcătui (aici: „ai păcătuit”).",
+    "diff_ro": "Ebraicul חַטָּאת este un substantiv („păcatul”); Septuaginta are verbul ἥμαρτες („ai păcătuit”)."
    },
    {
     "t": " te "
@@ -1519,11 +1510,11 @@ window.CHAPTER_DATA = [
     "translit": "rovets",
     "strong": "H7257",
     "pos": "verb",
-    "greek": "ἁμαρτίαν",
+    "greek": "ἡσύχασον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "a se culca, a sta ghemuit (despre un animal), a sta la pândă.",
     "dict_ro": "Rădăcina ravats, „a se culca, a pândi” — verb folosit de obicei pentru animale culcate sau la pândă (o fiară care se odihnește dar rămâne gata de atac); imaginea lui Dumnezeu descrie păcatul ca pe o fiară ghemuită la ușa lui Cain, gata să sară asupra lui.",
-    "greek_def_ro": "ἁμαρτία (hamartia) — păcat, greșeală (la acuzativ).",
+    "greek_def_ro": "ἡσυχάζω (hesychazo) — a se liniști, a sta liniștit (aici imperativ: „liniștește-te”).",
     "diff_ro": "Ebraica: „păcatul stă la pândă la ușă” (rovetz); greaca: „ai păcătuit (hēmartes), liniștește-te”: păcatul nu mai e o făptură care pândește, ci o faptă deja săvârșită."
    },
    {
@@ -2016,17 +2007,7 @@ window.CHAPTER_DATA = [
     "t": " tău?” "
    },
    {
-    "t": "El",
-    "w": "El",
-    "heb": "הוּא",
-    "translit": "hu",
-    "strong": "H1931",
-    "pos": "pronume",
-    "greek": "ὁ δὲ",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
-    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25).",
-    "greek_def_ro": "ὁ δέ (ho de) — iar el."
+    "t": "El"
    },
    {
     "t": " a "
@@ -2054,11 +2035,11 @@ window.CHAPTER_DATA = [
     "translit": "yadati",
     "strong": "H3045",
     "pos": "verb",
-    "greek": "οἶδα",
+    "greek": "γινώσκω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "a ști, a cunoaște — aceeași rădăcină ca în „pomul cunoașterii” de la capitolul anterior.",
     "dict_ro": "Verbul yada, „a ști, a cunoaște” — folosit aici (ca și la 4:17 și 4:25) ca eufemism biblic obișnuit pentru unirea trupească dintre soț și soție, aceeași rădăcină ca la „pomul cunoașterii binelui și răului” din Geneza 2-3. Ebraica biblică nu separă cunoașterea intelectuală de intimitatea trupească — a „cunoaște” pe cineva înseamnă o legătură profundă, nu doar informație.",
-    "greek_def_ro": "οἶδα (oida) — a ști."
+    "greek_def_ro": "γινώσκω (ginosko) — a cunoaște, a ști."
    },
    {
     "t": "! Sunt eu oare "
@@ -2603,17 +2584,7 @@ window.CHAPTER_DATA = [
     "t": ", "
    },
    {
-    "t": "el",
-    "w": "el",
-    "heb": "הִיא",
-    "translit": "hi",
-    "strong": "H1931",
-    "pos": "pronume",
-    "greek": "αὕτη",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
-    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25).",
-    "greek_def_ro": "αὐτός (autos) — el, ea, acela."
+    "t": "el"
    },
    {
     "t": " nu-ți va mai "
@@ -2894,7 +2865,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ εἶπεν Κάιν πρὸς τὸν Κύριον τὸν Θεόν Μείζων ἡ αἰτία μου τοῦ ἀφεθῆναί με.",
+    "original": "καὶ εἶπεν Κάιν πρὸς τὸν Κύριον Μείζων ἡ αἰτία μου τοῦ ἀφεθῆναί με.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -2980,7 +2951,7 @@ window.CHAPTER_DATA = [
     "translit": "gerashta",
     "strong": "H1644",
     "pos": "verb",
-    "greek": "ἐκβέβληκάς",
+    "greek": "ἐκβάλλεις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "m-ai izgonit.",
     "dict_ro": "Rădăcina garash, „a izgoni, a alunga” — același verb folosit pentru izgonirea lui Adam și a Evei din Eden (Geneza 3:24); Cain repetă, la o generație distanță, exilul părinților săi, de data asta nu dintr-o grădină, ci de pe fața întregului pământ locuit.",
@@ -3226,11 +3197,11 @@ window.CHAPTER_DATA = [
     "translit": "yukam",
     "strong": "H5358",
     "pos": "verb",
-    "greek": "ἐκδικηθήσεται",
+    "greek": "ἐκδικούμενα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "va fi răzbunat.",
     "dict_ro": "Rădăcina naqam, „a răzbuna” — termen juridic pentru dreptatea restaurată prin pedeapsă; folosit aici pasiv, „va fi răzbunat”, garanție divină că orice violență împotriva lui Cain va atrage o pedeapsă și mai mare, nu o soluție la nedreptatea deja comisă.",
-    "greek_def_ro": "ἐκδικέω (ekdikeō) — a răzbuna; „va fi răzbunat”."
+    "greek_def_ro": "ἐκδικέω (ekdikeo) — a răzbuna (aici participiu: „răzbunate”)."
    },
    {
     "t": " "
@@ -3242,11 +3213,11 @@ window.CHAPTER_DATA = [
     "translit": "shiv'atayim",
     "strong": "H7659",
     "pos": "adverb",
-    "greek": "ἑπτάκις",
+    "greek": "ἑπτὰ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "de șapte ori.",
     "dict_ro": "Shiv'atayim, „de șapte ori, înșeptit” — formă intensivă a numărului șapte, simbol biblic al plinătății/desăvârșirii; garanția divină a răzbunării „înșeptite” pentru Cain va fi parodiată tragic de Lameh la 4:24, care își revendică o răzbunare de „șaptezeci de ori șapte ori”.",
-    "greek_def_ro": "ἑπτάκις (heptakis) — de șapte ori."
+    "greek_def_ro": "ἑπτά (hepta) — șapte."
    },
    {
     "t": ".” Și DOMNUL i-a "
@@ -3306,11 +3277,11 @@ window.CHAPTER_DATA = [
     "translit": "motso",
     "strong": "H4672",
     "pos": "verb",
-    "greek": "εὑρίσκων αὐτόν",
+    "greek": "εὑρίσκοντα αὐτόν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "îl întâlnește.",
     "dict_ro": "Rădăcina matsa, „a găsi, a întâlni” — la participiu, „cel care mă găsește”, teama lui Cain de răzbunare din partea oricui l-ar întâlni; Ramban observă că, în afară de părinți, omenirea abia începuse să existe — teama arată fie o cunoaștere implicită a urmașilor viitori ai lui Adam, fie o frică exagerată, mai degrabă simbolică.",
-    "greek_def_ro": "εὑρίσκω (heuriskō) — a găsi; „cel care îl găsește”."
+    "greek_def_ro": "εὑρίσκω (heurisko) — a găsi („pe cel care îl găsește”)."
    },
    {
     "t": "."
@@ -3551,7 +3522,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἐξῆλθεν Κάιν ἀπὸ προσώπου τοῦ Θεοῦ καὶ ᾤκησεν ἐν γῇ Ναὶδ κατέναντι Ἐδέμ.",
+    "original": "ἐξῆλθεν δὲ Κάιν ἀπὸ προσώπου τοῦ Θεοῦ καὶ ᾤκησεν ἐν γῇ Ναὶδ κατέναντι Ἐδέμ.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -3681,17 +3652,7 @@ window.CHAPTER_DATA = [
     "t": " sa, iar "
    },
    {
-    "t": "ea",
-    "w": "ea",
-    "heb": "הִיא",
-    "translit": "hi",
-    "strong": "H1931",
-    "pos": "pronume",
-    "greek": "αὕτη",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
-    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25).",
-    "greek_def_ro": "αὐτός (autos) — el, ea, acela."
+    "t": "ea"
    },
    {
     "t": " a "
@@ -3703,11 +3664,11 @@ window.CHAPTER_DATA = [
     "translit": "vatahar",
     "strong": "H2029",
     "pos": "verb",
-    "greek": "συνέλαβεν",
+    "greek": "συλλαβοῦσα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "a zămisli, a rămâne însărcinată — se spune despre femeie; folosit și figurat.",
     "dict_ro": "Rădăcina harah, „a zămisli, a rămâne însărcinată” — verb obișnuit pentru începutul sarcinii, folosit constant în genealogiile biblice; aici deschide formula standard „a zămislit și a născut”, repetată identic la 4:17.",
-    "greek_def_ro": "συλλαμβάνω (syllambanō) — a prinde, a zămisli."
+    "greek_def_ro": "συλλαμβάνω (syllambano) — a prinde, a zămisli (aici participiu: „zămislind”)."
    },
    {
     "t": " și l-a "
@@ -3745,17 +3706,7 @@ window.CHAPTER_DATA = [
     "t": ". "
    },
    {
-    "t": "El",
-    "w": "El",
-    "heb": "הוּא",
-    "translit": "hu",
-    "strong": "H1931",
-    "pos": "pronume",
-    "greek": "αὐτὸς",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
-    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25).",
-    "greek_def_ro": "αὐτός (autos) — el, ea, acela."
+    "t": "El"
    },
    {
     "t": " "
@@ -3767,11 +3718,11 @@ window.CHAPTER_DATA = [
     "translit": "boneh",
     "strong": "H1129",
     "pos": "verb",
-    "greek": "ᾠκοδόμει",
+    "greek": "οἰκοδομῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "a zidi, a construi — verbul obișnuit pentru „a ridica o casă”, ales aici, neobișnuit, pentru crearea femeii.",
     "dict_ro": "Rădăcina banah, „a construi” — din aceeași rădăcină ca ben, „fiu” (a construi o casă/familie și a avea fii sunt idei înrudite lingvistic în ebraică); Ramban notează forma verbală continuă a textului (nu „a construit”, ci „era tot construind”), sugerând un proces lung, dificil, nu o clădire ridicată dintr-o dată — poate reflectând blestemul care-i împiedică orice lucrare să prospere ușor.",
-    "greek_def_ro": "οἰκοδομέω (oikodomeō) — a zidi, a construi."
+    "greek_def_ro": "οἰκοδομέω (oikodomeo) — a zidi, a construi (aici participiu: „zidind”)."
    },
    {
     "t": " un "
@@ -3799,11 +3750,11 @@ window.CHAPTER_DATA = [
     "translit": "vayikra",
     "strong": "H7121",
     "pos": "verb",
-    "greek": "ἐκάλεσεν",
+    "greek": "ἐπωνόμασεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "a chema, a striga, a numi — propriu-zis, a te adresa cuiva pe nume.",
     "dict_ro": "Rădăcina qara, „a chema, a numi, a striga” — verb central pentru actul de numire în tot Geneza, revenind la finalul capitolului (4:26) pentru „a chema” Numele DOMNULUI — de la numirea unui oraș după un fiu, la invocarea publică a lui Dumnezeu, capitolul se închide cu același verb cu care a debutat, la nașterea lui Cain.",
-    "greek_def_ro": "καλέω (kaleo) — a chema, a numi."
+    "greek_def_ro": "ἐπονομάζω (eponomazo) — a pune nume, a numi."
    },
    {
     "t": " "
@@ -3815,11 +3766,11 @@ window.CHAPTER_DATA = [
     "translit": "shem",
     "strong": "H8034",
     "pos": "substantiv",
-    "greek": "τὸ ὄνομα",
+    "greek": "ἐπὶ τῷ ὀνόματι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "nume; și ce face un om cunoscut: renume, cinste, autoritate.",
     "dict_ro": "Shem, „nume” — în ebraica biblică, numele nu e doar etichetă, ci poartă identitate și destin; capitolul 4 e structurat aproape integral în jurul numirii — al fiilor, al cetății, al invocării Numelui divin la final.",
-    "greek_def_ro": "ὄνομα (onoma) — nume."
+    "greek_def_ro": "ὄνομα (onoma) — nume (ἐπὶ τῷ ὀνόματι: „după numele”)."
    },
    {
     "t": " orașului după numele fiului său, "
@@ -3973,11 +3924,11 @@ window.CHAPTER_DATA = [
     "translit": "vayivaled",
     "strong": "H3205",
     "pos": "verb",
-    "greek": "ἐγεννήθη",
+    "greek": "ἐγενήθη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "i s-a născut.",
     "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș.",
-    "greek_def_ro": "γεννάω (gennaō) — a naște; „s-a născut”."
+    "greek_def_ro": "γίνομαι (ginomai) — a deveni, a se naște (aici: „s-a născut”)."
    },
    {
     "t": " "
@@ -4021,11 +3972,11 @@ window.CHAPTER_DATA = [
     "translit": "yalad",
     "strong": "H3205",
     "pos": "verb",
-    "greek": "ἐγέννησεν",
+    "greek": "ἐγενήθη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "i s-a născut.",
     "dict_ro": "Rădăcina yalad, „a naște” — una dintre cele mai frecvente rădăcini din Geneza, temelia întregului limbaj genealogic al cărții (toledot, „nașteri/generații”). Capitolul 4 o folosește de nouă ori, țesând firul unei singure familii de la Cain la Enoș.",
-    "greek_def_ro": "γεννάω (gennaō) — a naște, a zămisli."
+    "greek_def_ro": "γίνομαι (ginomai) — a deveni, a se naște (aici: „s-a născut”)."
    },
    {
     "t": " "
@@ -4111,13 +4062,13 @@ window.CHAPTER_DATA = [
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
-    "original": "וַיִּוָּלֵד לַחֲנוֹךְ אֶת־עִירָד וְעִירָד יָלַד אֶת־מְחוּיָאֵל וּמְחִיּיָאֵל יָלַד אֶת־מְתוּשָׁאֵל וּמְתוּשָׁאֵל יָלַד אֶת־לָמֶךְ",
+    "original": "וַיִּוָּלֵד לַחֲנוֹךְ אֶת־עִירָד וְעִירָד יָלַד אֶת־מְחוּיָאֵל וּמְחִיָּיאֵל יָלַד אֶת־מְתוּשָׁאֵל וּמְתוּשָׁאֵל יָלַד אֶת־לָמֶךְ",
     "translation": "„Lui Enoh i s-a născut Irad; și lui Irad i s-a născut Mehuiael; și lui Mehuiael i s-a născut Metușael; și lui Metușael i s-a născut Lameh” — traducerea rabinului Rosen.",
     "note": ""
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "ἐγεννήθη δὲ τῷ Ἐνὼχ ὁ Γαιδάδ, καὶ Γαιδὰδ ἐγέννησεν τὸν Μαιήλ, καὶ Μαιὴλ ἐγέννησεν τὸν Μαθουσάλα, καὶ Μαθουσάλα ἐγέννησεν τὸν Λάμεχ.",
+    "original": "ἐγενήθη δὲ τῷ Ἐνὼχ Γαιδάδ, καὶ Γαιδὰδ ἐγέννησεν τὸν Μαιήλ, καὶ Μαιὴλ ἐγέννησεν τὸν Μαθουσάλα, καὶ Μαθουσάλα ἐγέννησεν τὸν Λάμεχ.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -4657,11 +4608,11 @@ window.CHAPTER_DATA = [
     "translit": "tofes",
     "strong": "H8610",
     "pos": "verb",
-    "greek": "κατέδειξεν",
+    "greek": "καταδείξας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "a apuca, a prinde, a mânui; despre meșteșug: a stăpâni, a mânui un instrument.",
     "dict_ro": "Rădăcina tafas, „a apuca, a mânui” — verb concret pentru folosirea unei unelte sau a unui instrument, aici primul strămoș consemnat al muzicienilor instrumentiști din istoria biblică.",
-    "greek_def_ro": "καταδείκνυμι (katadeiknymi) — a arăta, a face cunoscut (aici: a născoci)."
+    "greek_def_ro": "καταδείκνυμι (katadeiknymi) — a arăta, a face cunoscut (aici participiu: „cel ce a arătat”)."
    },
    {
     "t": " "
@@ -4673,11 +4624,11 @@ window.CHAPTER_DATA = [
     "translit": "kinor",
     "strong": "H3658",
     "pos": "substantiv",
-    "greek": "κιθάραν",
+    "greek": "ψαλτήριον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "liră, harpă — instrument cu coarde.",
     "dict_ro": "Kinor, „liră, harpă” — instrument cu coarde, cel mai frecvent menționat în toată Biblia (celebru din Psalmul 137, „ne-am atârnat harpele în sălcii”); tradiția atribuie și regelui David virtuozitate la acest instrument.",
-    "greek_def_ro": "κιθάρα (kithara) — chitară, liră."
+    "greek_def_ro": "ψαλτήριον (psalterion) — instrument cu coarde, psalterion."
    },
    {
     "t": " și "
@@ -4689,11 +4640,12 @@ window.CHAPTER_DATA = [
     "translit": "ugav",
     "strong": "H5748",
     "pos": "substantiv",
-    "greek": "ὄργανα",
+    "greek": "κιθάραν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "instrument de suflat (fluier, nai).",
     "dict_ro": "Ugav, „fluier, instrument de suflat” — pereche a lirei în lista instrumentelor muzicale biblice, împreună formând categoria completă coarde/suflat a muzicii vechi israelite.",
-    "greek_def_ro": "ὄργανον (organon) — unealtă, instrument muzical."
+    "greek_def_ro": "κιθάρα (kithara) — chitară, liră.",
+    "diff_ro": "Septuaginta (Rahlfs) are „psalterion și liră” (ψαλτήριον καὶ κιθάραν) acolo unde ebraica are „liră și fluier” (כִּנּוֹר וְעוּגָב); instrumentele nu se suprapun cuvânt cu cuvânt."
    }
   ],
   "textCompare": [
@@ -4705,7 +4657,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ὄνομα τῷ ἀδελφῷ αὐτοῦ Ἰουβάλ· οὗτος ἦν ὁ καταδείξας κιθάραν καὶ ὄργανον.",
+    "original": "καὶ ὄνομα τῷ ἀδελφῷ αὐτοῦ Ἰουβάλ· οὗτος ἦν ὁ καταδείξας ψαλτήριον καὶ κιθάραν.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -4839,13 +4791,13 @@ window.CHAPTER_DATA = [
    {
     "t": "uneltele",
     "w": "uneltele",
-    "heb": "כֹּרֵשׁ",
-    "translit": "koresh",
-    "strong": "H2794",
-    "pos": "substantiv",
+    "heb": "חֹרֵשׁ",
+    "translit": "choresh",
+    "strong": "H2790",
+    "pos": "participiu (substantiv)",
     "greek": "χαλκεὺς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "meșteșugar, făurar, meșter într-un material.",
+    "def_ro": "a grava, a ara, a prelucra cu unelte; la participiu: meșteșugar, făurar.",
     "dict_ro": "Choresh, „lucrător, meșteșugar [în metal]” — de la rădăcina charash, „a prelucra, a grava”; termenul acoperă orice meșteșugar priceput, aici specific pentru prelucrarea metalelor.",
     "greek_def_ro": "χαλκεύς (chalkeus) — făurar, fierar în aramă."
    },
@@ -5079,7 +5031,7 @@ window.CHAPTER_DATA = [
     "translit": "koli",
     "strong": "H6963",
     "pos": "substantiv",
-    "greek": "τῆς φωνῆς μου",
+    "greek": "τῆς φωνῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "glas, voce, sunet, zgomot.",
     "dict_ro": "Qol, „glas, sunet” — cuvântul „glasul sângelui” personifică sângele vărsat ca pe o voce care strigă, imagine reluată la Evrei 12:24 („sângele stropirii, care vorbește mai bine decât cel al lui Abel”) și în Apocalipsa 6:10 (sufletele martirilor care strigă de sub altar).",
@@ -5111,7 +5063,7 @@ window.CHAPTER_DATA = [
     "translit": "imrati",
     "strong": "H565",
     "pos": "substantiv",
-    "greek": "τοὺς λόγους μου",
+    "greek": "τοὺς λόγους",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "cuvânt, vorbă, rostire.",
     "dict_ro": "Imrah, „vorbă, cuvânt, spusă” — termen poetic pentru discurs, folosit adesea în psalmi și poezie profetică; aici introduce conținutul „cântecului sabiei” al lui Lameh.",
@@ -5496,17 +5448,7 @@ window.CHAPTER_DATA = [
     "t": " sa și "
    },
    {
-    "t": "ea",
-    "w": "ea",
-    "heb": "הִיא",
-    "translit": "hi",
-    "strong": "H1931",
-    "pos": "pronume",
-    "greek": "αὕτη",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
-    "dict_ro": "Pronumele hi, „ea” — în ebraică, subiectul gramatical rămâne adesea implicit în verb, iar acest pronume separat apare de obicei pentru accent sau claritate, aici marcând reluarea acțiunii Evei după fiecare naștere (4:1, 4:17, 4:25).",
-    "greek_def_ro": "αὐτός (autos) — el, ea, acela."
+    "t": "ea"
    },
    {
     "t": " a "
@@ -5801,11 +5743,12 @@ window.CHAPTER_DATA = [
     "translit": "gam hu",
     "strong": "H1571",
     "pos": "pronume",
-    "greek": "καὶ αὐτῷ",
+    "greek": "καὶ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "de asemenea, și, chiar; adesea repetat: „și … și …”.",
-    "dict_ro": "Particula gam, „și, de asemenea”, combinată cu hu, „el” — „și el a adus”, subliniind explicit paralelismul dintre cei doi frați: amândoi au adus un dar, dar numai calitatea și starea sufletească din spatele darului au făcut diferența.",
-    "greek_def_ro": "καί (kai) + αὐτός (autos) — și lui."
+    "dict_ro": "Gam hu, „și el”: întărește paralelismul cu linia lui Cain, ale cărei nașteri tocmai au fost înșirate; și Set, ca și Cain, are urmași.",
+    "greek_def_ro": "καί (kai) — și.",
+    "diff_ro": "Septuaginta nu redă pronumele הוּא („el”): „și lui Set i s-a născut un fiu”, fără „și el”."
    },
    {
     "t": ", i s-a "

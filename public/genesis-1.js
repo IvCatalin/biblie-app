@@ -1821,16 +1821,16 @@ window.CHAPTER_DATA = [
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
-    "original": "וַיֹּאמֶר אֱלֹהִים יְהִי רָקִיעַ בְּתוֹךְ הַמַּיִם וִיהִי מַבְדִּיל בֵּין מַיִם לָמָיִם",
+    "original": "וַיֹּאמֶר אֱלֹהִים יְהִי רָקִיעַ בְּתוֹךְ הַמָּיִם וִיהִי מַבְדִּיל בֵּין מַיִם לָמָיִם",
     "translation": "„Și Dumnezeu a spus: «Să fie un firmament în mijlocul apelor și să fie despărțitor între ape și ape!»” — traducerea rabinului Rosen.",
     "note": ""
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ εἶπεν ὁ Θεός Γενηθήτω στερέωμα ἐν μέσῳ τοῦ ὕδατος καὶ ἔστω διαχωρίζον ἀνὰ μέσον ὕδατος καὶ ὕδατος.",
+    "original": "καὶ εἶπεν ὁ Θεός Γενηθήτω στερέωμα ἐν μέσῳ τοῦ ὕδατος καὶ ἔστω διαχωρίζον ἀνὰ μέσον ὕδατος καὶ ὕδατος. καὶ ἐγένετο οὕτως.",
     "greek": true,
-    "translation": "„Și a zis Dumnezeu: «Să se facă o tărie în mijlocul apei și să despartă între apă și apă!»”",
-    "note": "στερέωμα (stereoma, „tărie, întăritură”) redă רָקִיעַ printr-un cuvânt care insistă pe soliditate — de aici, prin latinescul firmamentum, vine chiar cuvântul românesc „firmament”."
+    "translation": "„Și a zis Dumnezeu: «Să se facă o tărie în mijlocul apei și să despartă între apă și apă!» Și a fost așa.”",
+    "note": "στερέωμα (stereoma, „tărie, întăritură”) redă רָקִיעַ printr-un cuvânt care insistă pe soliditate — de aici, prin latinescul firmamentum, vine chiar cuvântul românesc „firmament”. Septuaginta adaugă la sfârșitul versetului „Și a fost așa”, formulă care în textul masoretic apare doar la versetul 7."
    },
    {
     "source": "Pentateuhul Samaritean",
@@ -1949,7 +1949,7 @@ window.CHAPTER_DATA = [
     "bdb": "תַּחַת n.[m.] the under part, hence as adv. accus. and prep. underneath, below, instead of",
     "def_ro": "dedesubt — propriu-zis, „apăsat, coborât”; folosit doar ca adverb sau prepoziție: dedesubtul, în locul cuiva.",
     "greek_def_ro": "— (LXX nu redă acest cuvânt printr-un termen grecesc de sine stătător aici; sensul e purtat de construcția frazei.)",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Tachat, „sub, dedesubt, în locul”, e o prepoziție foarte frecventă. În Geneza 1:7 desparte apele de sub tărie de cele de deasupra ei; în alte locuri înseamnă „în locul cuiva”, ca în Geneza 4:25 („în locul lui Abel”), pornind de la ideea de „ceea ce se află dedesubt”."
    },
    {
     "t": " "
@@ -2551,13 +2551,14 @@ window.CHAPTER_DATA = [
     "translit": "makom",
     "strong": "H4725",
     "pos": "substantiv",
-    "greek": "τόπος (topos, „loc”)",
+    "greek": "συναγωγή (synagoge, „adunare”)",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "properly, a standing, i.e. a spot; but used widely of a locality (general or specific); also (figuratively) of a condition (of body or mind)",
     "bdb": "מָקוֹם, מָקֹם 399 n.m. standing-place, place (1) (a) standing-place (b) station, where soldiers are placed (c) post, office (2) (a) place where a thing belongs (b) esp. place of human abode of י׳’s abode (3) place (4) in gen. place, locality, spot (5) (a) space, room (b) space, distance, between (6) region, quarter, direction (7) peculiar uses",
     "def_ro": "loc — propriu-zis, locul unde stai; folosit larg pentru orice loc, dar și, la figurat, pentru o stare a trupului sau a minții.",
-    "greek_def_ro": "τόπος (topos) — loc.",
-    "dict_ro": "Maqom, „loc”, arată propriu-zis locul unde cineva stă, dar ajunge folosit și pentru starea trupului sau a minții. În literatura rabinică târzie, „Ha-Maqom” („Locul”) devine chiar un nume dat lui Dumnezeu — Cel care e „locul lumii”, dar pe care lumea nu-l cuprinde."
+    "greek_def_ro": "συναγωγή (synagoge) — adunare (în ebraică „loc”, aici: „într-o singură adunare”).",
+    "dict_ro": "Maqom, „loc”, arată propriu-zis locul unde cineva stă, dar ajunge folosit și pentru starea trupului sau a minții. În literatura rabinică târzie, „Ha-Maqom” („Locul”) devine chiar un nume dat lui Dumnezeu — Cel care e „locul lumii”, dar pe care lumea nu-l cuprinde.",
+    "diff_ro": "Ebraicul מָקוֹם („loc”) e redat în greacă prin συναγωγήν („adunare”): „într-o singură adunare”."
    },
    {
     "t": " "
@@ -2766,10 +2767,10 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ εἶπεν ὁ Θεός Συναχθήτω τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς συναγωγὴν μίαν, καὶ ὀφθήτω ἡ ξηρά· καὶ ἐγένετο οὕτως.",
+    "original": "καὶ εἶπεν ὁ Θεός Συναχθήτω τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς συναγωγὴν μίαν, καὶ ὀφθήτω ἡ ξηρά· καὶ ἐγένετο οὕτως. καὶ συνήχθη τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς τὰς συναγωγὰς αὐτῶν καὶ ὤφθη ἡ ξηρά.",
     "greek": true,
-    "translation": "„Și a zis Dumnezeu: «Să se adune apa de sub cer într-o singură adunare și să se arate uscatul!» Și a fost așa.”",
-    "note": "Traducere aproape cuvânt cu cuvânt identică cu textul ebraic."
+    "translation": "„Și a zis Dumnezeu: «Să se adune apa de sub cer într-o singură adunare și să se arate uscatul!» Și a fost așa. Și s-a adunat apa de sub cer în adunările ei și s-a arătat uscatul.”",
+    "note": "Septuaginta are în plus, după „Și a fost așa”, o frază fără corespondent în textul masoretic: „Și s-a adunat apa de sub cer în adunările ei și s-a arătat uscatul”, care repetă porunca."
    },
    {
     "source": "Pentateuhul Samaritean",
@@ -2866,13 +2867,14 @@ window.CHAPTER_DATA = [
     "translit": "ulemikveh",
     "strong": "H4723",
     "pos": "substantiv, stare construită",
-    "greek": "συναγωγή (synagoge, „adunare”)",
+    "greek": "σύστημα (systema, „grup, masă”)",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "something waited for, i.e. confidence (objective or subjective); also a collection, i.e. (of water) a pond, or (of men and horses) a caravan or drove",
     "bdb": "קֹוֶה, or קֹוֵא n.pr.terr. Ḳuë in Cilicia",
     "def_ro": "adunare, strângere laolaltă — al apelor, un iaz sau o baltă; la figurat, „nădejde, încredere”.",
-    "greek_def_ro": "συναγωγή (synagoge) — adunare (cuvântul din care vine „sinagogă”).",
-    "dict_ro": "Miqveh, „adunare (de ape)”, vine de la aceeași rădăcină ca verbul qavah („a se aduna”). Cuvântul ajunge termen tehnic în legea rituală pentru bazinul de apă folosit la curățire (mikveh), o continuitate simbolică remarcată în tradiția evreiască: apele adunate la creație devin model al apelor de curățire."
+    "greek_def_ro": "σύστημα (systema) — grup, masă, ansamblu (aici: „mase de ape”).",
+    "dict_ro": "Miqveh, „adunare (de ape)”, vine de la aceeași rădăcină ca verbul qavah („a se aduna”). Cuvântul ajunge termen tehnic în legea rituală pentru bazinul de apă folosit la curățire (mikveh), o continuitate simbolică remarcată în tradiția evreiască: apele adunate la creație devin model al apelor de curățire.",
+    "diff_ro": "Ebraicul מִקְוֵה („adunare de ape”) e redat prin συστήματα („mase, grupări de ape”); în versetul 9, pentru „loc”, greaca are συναγωγήν."
    },
    {
     "t": " de "
@@ -3185,8 +3187,8 @@ window.CHAPTER_DATA = [
    {
     "t": "soiul",
     "w": "soiul",
-    "heb": "מִין",
-    "translit": "min",
+    "heb": "לְמִינוֹ",
+    "translit": "lemino",
     "strong": "H4327",
     "greek": "γένος (genos)",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
@@ -3194,7 +3196,7 @@ window.CHAPTER_DATA = [
     "bdb": "[מִין] n.[m.] kind, species",
     "def_ro": "soi, fel, specie.",
     "greek_def_ro": "γένος (genos) — neam, fel, specie.",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Min, „fel, soi, specie”, apare mai ales cu sufix („după felul lui”, leminehu): în povestea creației (Geneza 1), la Noe (Geneza 6–7) și în listele de animale curate și necurate (Levitic 11, Deuteronom 14). Cuvântul spune că plantele și animalele se înmulțesc „după felul lor”, fiecare după rânduiala primită la creație."
    },
    {
     "t": " său, cu sămânța sa în el pe pământ!” Și a fost așa."
@@ -3357,13 +3359,14 @@ window.CHAPTER_DATA = [
     "translit": "vatotse",
     "strong": "H3318",
     "pos": "verb (hifil, timpul trecut narativ)",
-    "greek": "ἐξάγω (exago, „a scoate”)",
+    "greek": "ἐκφέρω (ekphero, „a scoate afară”)",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "to go (causatively, bring) out, in a great variety of applications, literally and figuratively, direct and proxim.",
     "bdb": "יָצָא 1068 vb. go or come out Qal (1) go or come out or forth (a) from (מִן) a place (b) go forth from (the presence of) a person (c) in technical senses (d) of flight, involving escape (e) depart (f) of inanimate things (g) with especial emphasis on idea of origin, source (h) of children as going forth from loins (of father) (2) (a) go forth to a place (b) go forward, proceed to or toward something (c) come or go forth, with esp. ref. to purpose or result (3) of combinations Hiph. (1) cause to go or come out, bring out, lead out (2) fig. obj. persons, bring out of (מִן) distress, etc. (3) bring out animals (4) inanimate obj. (5) fig. subj. י׳, bring forth from (מִן) Hoph. be brought forth",
     "def_ro": "a scoate, a ieși — verb de mișcare cu aplicații foarte variate.",
-    "greek_def_ro": "ἐξάγω (exago) — a scoate afară.",
-    "dict_ro": "Verbul yatsa, „a ieși, a scoate”, unul dintre cele mai frecvente verbe de mișcare din ebraică. La Geneza 1:24, pământul primește porunca să „scoată” viețuitoare — aceeași rădăcină descrie mai târziu ieșirea lui Israel din Egipt (yetsiat Mitsrayim), cel mai important eveniment de eliberare din toată Biblia evreiască."
+    "greek_def_ro": "ἐκφέρω (ekphero) — a scoate afară, a da (roade).",
+    "dict_ro": "Verbul yatsa, „a ieși, a scoate”, unul dintre cele mai frecvente verbe de mișcare din ebraică. La Geneza 1:24, pământul primește porunca să „scoată” viețuitoare — aceeași rădăcină descrie mai târziu ieșirea lui Israel din Egipt (yetsiat Mitsrayim), cel mai important eveniment de eliberare din toată Biblia evreiască.",
+    "diff_ro": "Greaca folosește ἐξήνεγκεν (de la ἐκφέρω, „a scoate afară”), nu verbul ἐξάγω din versetul 24."
    },
    {
     "t": " "
@@ -3451,7 +3454,7 @@ window.CHAPTER_DATA = [
     "bdb": "[מִין] n.[m.] kind, species",
     "def_ro": "soi, fel, specie.",
     "greek_def_ro": "γένος (genos) — neam, fel, specie.",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Min, „fel, soi, specie”, apare mai ales cu sufix („după felul lui”, leminehu): în povestea creației (Geneza 1), la Noe (Geneza 6–7) și în listele de animale curate și necurate (Levitic 11, Deuteronom 14). Cuvântul spune că plantele și animalele se înmulțesc „după felul lor”, fiecare după rânduiala primită la creație."
    },
    {
     "t": " său, și "
@@ -3541,7 +3544,7 @@ window.CHAPTER_DATA = [
     "bdb": "[מִין] n.[m.] kind, species",
     "def_ro": "soi, fel, specie.",
     "greek_def_ro": "γένος (genos) — neam, fel, specie.",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Min, „fel, soi, specie”, apare mai ales cu sufix („după felul lui”, leminehu): în povestea creației (Geneza 1), la Noe (Geneza 6–7) și în listele de animale curate și necurate (Levitic 11, Deuteronom 14). Cuvântul spune că plantele și animalele se înmulțesc „după felul lor”, fiecare după rânduiala primită la creație."
    },
    {
     "t": " său. Și "
@@ -4243,13 +4246,14 @@ window.CHAPTER_DATA = [
     "translit": "limeorot",
     "strong": "H3974",
     "pos": "substantiv (cu prefixul לְ, „ca/pentru”)",
-    "greek": "φωστήρ (phoster)",
+    "greek": "φαῦσις (phausis, „luminare”)",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "properly, a luminous body or luminary, i.e. (abstractly) light (as an element); figuratively, brightness, i.e.cheerfulness; specifically, a chandelier",
     "bdb": "מָאוֹר n.m. luminary",
     "def_ro": "trup luminos, luminător — propriu-zis lumină ca element; la figurat, strălucire, bucurie; și, mai târziu, sfeșnic.",
-    "greek_def_ro": "φωστήρ (phoster) — luminător.",
-    "dict_ro": "Maor, „luminător”, deosebit de or („lumină” ca element, creată în ziua întâi), arată trupul care poartă și răspândește lumina — soarele, luna, stelele, create abia în ziua a patra. Distincția aceasta, remarcată de comentatorii evrei, arată că lumina zilei întâi nu vine, în text, de la soare."
+    "greek_def_ro": "φαῦσις (phausis) — luminare, strălucire (εἰς φαῦσιν: „spre luminare”).",
+    "dict_ro": "Maor, „luminător”, deosebit de or („lumină” ca element, creată în ziua întâi), arată trupul care poartă și răspândește lumina — soarele, luna, stelele, create abia în ziua a patra. Distincția aceasta, remarcată de comentatorii evrei, arată că lumina zilei întâi nu vine, în text, de la soare.",
+    "diff_ro": "Septuaginta redă „luminători” prin εἰς φαῦσιν („spre luminare”); cuvântul φωστῆρες („luminători”) apare în versetul 14."
    },
    {
     "t": " pe "
@@ -4644,13 +4648,14 @@ window.CHAPTER_DATA = [
     "translit": "hakaton",
     "strong": "H6996",
     "pos": "adjectiv, cu articol",
-    "greek": "μικρός (mikros, „mic”)",
+    "greek": "ἐλάσσων (elasson, „mai mic”)",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "abbreviated, i.e. diminutive, literally (in quantity, size or number) or figuratively (in age or importance)",
     "bdb": "קָטָן adj. small, young, unimportant",
     "def_ro": "mic — literal (ca mărime sau număr) sau la figurat (ca vârstă sau însemnătate).",
-    "greek_def_ro": "μικρός (mikros) — mic.",
-    "dict_ro": "Qaton, „mic”, folosit la Geneza 1:16 pentru „luminătorul cel mic” (luna), în contrast cu „luminătorul cel mare” (soarele) — singura descriere de mărime relativă dată luminătorilor cerești în tot capitolul."
+    "greek_def_ro": "ἐλάσσων (elasson) — mai mic, mai puțin.",
+    "dict_ro": "Qaton, „mic”, folosit la Geneza 1:16 pentru „luminătorul cel mic” (luna), în contrast cu „luminătorul cel mare” (soarele) — singura descriere de mărime relativă dată luminătorilor cerești în tot capitolul.",
+    "diff_ro": "Greaca folosește comparativul τὸν ἐλάσσω („cel mai mic”), nu simplu „mic”."
    },
    {
     "t": " pentru "
@@ -5585,13 +5590,12 @@ window.CHAPTER_DATA = [
     "translit": "penei",
     "strong": "H6440",
     "pos": "substantiv (stare construită)",
-    "greek": "πρόσωπον (prosopon, „față”)",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "the face (as the part that turns); used in a great variety of applications (literally and figuratively); also (with prepositional prefix) as a preposition (before, etc.)",
     "bdb": "[פָּנֶה], pl. פָּנִים 2123 n.m. face, also faces (1) face, faces (2) (a) presence, person (b) technically, see one's face, i.e. appear before one, in one's presence (3) face of seraphim (4) face of animals (5) face (= surface) of ground (6) as adv.loc. before (7) for other phrases with prepositions",
     "def_ro": "față — propriu-zis, partea care se întoarce spre cineva; folosită în foarte multe construcții, uneori ca prepoziție („înaintea”).",
-    "greek_def_ro": "πρόσωπον (prosopon) — față, chip.",
-    "dict_ro": "Panim, „față”, folosit numai la plural în ebraică, arată partea care se întoarce spre cineva sau ceva. La Geneza 1:2, Duhul lui Dumnezeu plutea „pe fața apelor” — o expresie care revine des în Vechiul Testament pentru suprafața unui lucru."
+    "dict_ro": "Panim, „față”, folosit numai la plural în ebraică, arată partea care se întoarce spre cineva sau ceva. La Geneza 1:2, Duhul lui Dumnezeu plutea „pe fața apelor” — o expresie care revine des în Vechiul Testament pentru suprafața unui lucru.",
+    "diff_ro": "Septuaginta nu are un cuvânt pentru „fața” (פְּנֵי): expresia ebraică e redată prin prepoziția κατά („după, pe lângă”) — „κατὰ τὸ στερέωμα τοῦ οὐρανοῦ”."
    },
    {
     "t": " "
@@ -5761,10 +5765,10 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ εἶπεν ὁ Θεός Ἐξαγαγέτω τὰ ὕδατα ἑρπετὰ ψυχῶν ζωσῶν καὶ πετεινὰ πετόμενα ἐπὶ τῆς γῆς κατὰ τὸ στερέωμα τοῦ οὐρανοῦ.",
+    "original": "καὶ εἶπεν ὁ Θεός Ἐξαγαγέτω τὰ ὕδατα ἑρπετὰ ψυχῶν ζωσῶν καὶ πετεινὰ πετόμενα ἐπὶ τῆς γῆς κατὰ τὸ στερέωμα τοῦ οὐρανοῦ. καὶ ἐγένετο οὕτως.",
     "greek": true,
-    "translation": "„Și a zis Dumnezeu: «Să scoată apele târâtoare de suflete vii și păsări zburătoare deasupra pământului, după firmamentul cerului.»”",
-    "note": "LXX „ἑρπετά” („târâtoare”) e mai general decât ebraicul „șerets” (mișunare/roire), termen aplicat de obicei vietăților mărunte și numeroase."
+    "translation": "„Și a zis Dumnezeu: «Să scoată apele târâtoare de suflete vii și păsări zburătoare deasupra pământului, după firmamentul cerului.» Și a fost așa.”",
+    "note": "LXX „ἑρπετά” („târâtoare”) e mai general decât ebraicul „șerets” (mișunare/roire), termen aplicat de obicei vietăților mărunte și numeroase. Septuaginta adaugă la sfârșit „Și a fost așa”, formulă pe care textul masoretic n-o are la acest verset."
    },
    {
     "source": "Pentateuhul Samaritean",
@@ -5923,7 +5927,7 @@ window.CHAPTER_DATA = [
     "bdb": "[מִין] n.[m.] kind, species",
     "def_ro": "soi, fel, specie.",
     "greek_def_ro": "γένος (genos) — neam, fel, specie.",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Min, „fel, soi, specie”, apare mai ales cu sufix („după felul lui”, leminehu): în povestea creației (Geneza 1), la Noe (Geneza 6–7) și în listele de animale curate și necurate (Levitic 11, Deuteronom 14). Cuvântul spune că plantele și animalele se înmulțesc „după felul lor”, fiecare după rânduiala primită la creație."
    },
    {
     "t": " lor; și orice "
@@ -5977,7 +5981,7 @@ window.CHAPTER_DATA = [
     "bdb": "[מִין] n.[m.] kind, species",
     "def_ro": "soi, fel, specie.",
     "greek_def_ro": "γένος (genos) — neam, fel, specie.",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Min, „fel, soi, specie”, apare mai ales cu sufix („după felul lui”, leminehu): în povestea creației (Geneza 1), la Noe (Geneza 6–7) și în listele de animale curate și necurate (Levitic 11, Deuteronom 14). Cuvântul spune că plantele și animalele se înmulțesc „după felul lor”, fiecare după rânduiala primită la creație."
    },
    {
     "t": " ei. Și "
@@ -6703,7 +6707,7 @@ window.CHAPTER_DATA = [
     "bdb": "[מִין] n.[m.] kind, species",
     "def_ro": "soi, fel, specie.",
     "greek_def_ro": "γένος (genos) — neam, fel, specie.",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Min, „fel, soi, specie”, apare mai ales cu sufix („după felul lui”, leminehu): în povestea creației (Geneza 1), la Noe (Geneza 6–7) și în listele de animale curate și necurate (Levitic 11, Deuteronom 14). Cuvântul spune că plantele și animalele se înmulțesc „după felul lor”, fiecare după rânduiala primită la creație."
    },
    {
     "t": " său: "
@@ -6715,13 +6719,14 @@ window.CHAPTER_DATA = [
     "translit": "behemah",
     "strong": "H929",
     "pos": "substantiv",
-    "greek": "κτῆνος (ktenos)",
+    "greek": "τετράπους (tetrapous, „cu patru picioare”)",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "properly, a dumb beast; especially any large quadruped or animal (often collective)",
     "bdb": "בְּהֵמָה 187 n.f. beast, animal, cattle (1) of living creatures other than man (2) opp. also to wild beasts (3) rarely of wild beasts, esp. carnivora",
     "def_ro": "vită, dobitoc — propriu-zis, „fiară mută”; mai ales patruped mare, adesea la colectiv.",
-    "greek_def_ro": "κτῆνος (ktenos) — vită, dobitoc de povară (de aici „animal domestic”).",
-    "dict_ro": "Behemah, „vită, dobitoc”, vine de la o rădăcină ce sugerează „fiară mută” — termen colectiv pentru animalele mari, mai ales cele domestice, spre deosebire de „fiara câmpului” (chayat ha-sadeh), animalele sălbatice."
+    "greek_def_ro": "τετράπους (tetrapous) — cu patru picioare, patruped.",
+    "dict_ro": "Behemah, „vită, dobitoc”, vine de la o rădăcină ce sugerează „fiară mută” — termen colectiv pentru animalele mari, mai ales cele domestice, spre deosebire de „fiara câmpului” (chayat ha-sadeh), animalele sălbatice.",
+    "diff_ro": "În acest verset Septuaginta redă בְּהֵמָה („dobitoc”) prin τετράποδα („patrupede”), nu prin κτήνη, cuvântul obișnuit pentru „dobitoace”, folosit în versetul 25."
    },
    {
     "t": " "
@@ -6757,7 +6762,7 @@ window.CHAPTER_DATA = [
     "bdb": "חַי adj. alive, living (1) (a) of God, as the living one, the fountain of life (b) of man (c) of animals, alive, living (d) animals and man (e) (dub.) of vegetation, as thorns, green (f) of water, fresh (2) (dub.) lively, active (3) reviving",
     "def_ro": "viu — de aici, „crud” (despre carne), „proaspăt” (despre plantă, apă, an), „puternic”; ca substantiv, viață sau ființă vie.",
     "greek_def_ro": "θηρίον (therion) — fiară, animal sălbatic.",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Chayah, „viețuitoare, fiară”, vine din rădăcina chai, „viu”. În Geneza 1 desemnează mai ales animalele sălbatice („chayat ha-arets”, fiarele pământului), deosebite de dobitoacele domestice (behemah) și de târâtoare (remes), cele trei categorii de vietăți ale uscatului. Același cuvânt, ca „viață, ființă vie”, stă în „nefesh chayah”, „suflet viu” (Geneza 2:7)."
    },
    {
     "t": " a "
@@ -6793,7 +6798,7 @@ window.CHAPTER_DATA = [
     "bdb": "[מִין] n.[m.] kind, species",
     "def_ro": "soi, fel, specie.",
     "greek_def_ro": "γένος (genos) — neam, fel, specie.",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Min, „fel, soi, specie”, apare mai ales cu sufix („după felul lui”, leminehu): în povestea creației (Geneza 1), la Noe (Geneza 6–7) și în listele de animale curate și necurate (Levitic 11, Deuteronom 14). Cuvântul spune că plantele și animalele se înmulțesc „după felul lor”, fiecare după rânduiala primită la creație."
    },
    {
     "t": " său!” Și "
@@ -7005,7 +7010,7 @@ window.CHAPTER_DATA = [
     "bdb": "חַי adj. alive, living (1) (a) of God, as the living one, the fountain of life (b) of man (c) of animals, alive, living (d) animals and man (e) (dub.) of vegetation, as thorns, green (f) of water, fresh (2) (dub.) lively, active (3) reviving",
     "def_ro": "viu — de aici, „crud” (despre carne), „proaspăt” (despre plantă, apă, an), „puternic”; ca substantiv, viață sau ființă vie.",
     "greek_def_ro": "θηρίον (therion) — fiară, animal sălbatic.",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Chayah, „viețuitoare, fiară”, vine din rădăcina chai, „viu”. În Geneza 1 desemnează mai ales animalele sălbatice („chayat ha-arets”, fiarele pământului), deosebite de dobitoacele domestice (behemah) și de târâtoare (remes), cele trei categorii de vietăți ale uscatului. Același cuvânt, ca „viață, ființă vie”, stă în „nefesh chayah”, „suflet viu” (Geneza 2:7)."
    },
    {
     "t": " "
@@ -7041,7 +7046,7 @@ window.CHAPTER_DATA = [
     "bdb": "[מִין] n.[m.] kind, species",
     "def_ro": "soi, fel, specie.",
     "greek_def_ro": "γένος (genos) — neam, fel, specie.",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Min, „fel, soi, specie”, apare mai ales cu sufix („după felul lui”, leminehu): în povestea creației (Geneza 1), la Noe (Geneza 6–7) și în listele de animale curate și necurate (Levitic 11, Deuteronom 14). Cuvântul spune că plantele și animalele se înmulțesc „după felul lor”, fiecare după rânduiala primită la creație."
    },
    {
     "t": " lor și "
@@ -7077,7 +7082,7 @@ window.CHAPTER_DATA = [
     "bdb": "[מִין] n.[m.] kind, species",
     "def_ro": "soi, fel, specie.",
     "greek_def_ro": "γένος (genos) — neam, fel, specie.",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Min, „fel, soi, specie”, apare mai ales cu sufix („după felul lui”, leminehu): în povestea creației (Geneza 1), la Noe (Geneza 6–7) și în listele de animale curate și necurate (Levitic 11, Deuteronom 14). Cuvântul spune că plantele și animalele se înmulțesc „după felul lor”, fiecare după rânduiala primită la creație."
    },
    {
     "t": " lor și "
@@ -7145,7 +7150,7 @@ window.CHAPTER_DATA = [
     "bdb": "[מִין] n.[m.] kind, species",
     "def_ro": "soi, fel, specie.",
     "greek_def_ro": "γένος (genos) — neam, fel, specie.",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Min, „fel, soi, specie”, apare mai ales cu sufix („după felul lui”, leminehu): în povestea creației (Geneza 1), la Noe (Geneza 6–7) și în listele de animale curate și necurate (Levitic 11, Deuteronom 14). Cuvântul spune că plantele și animalele se înmulțesc „după felul lor”, fiecare după rânduiala primită la creație."
    },
    {
     "t": " lor. Și "
@@ -7269,7 +7274,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἐποίησεν ὁ Θεὸς τὰ θηρία τῆς γῆς κατὰ γένος καὶ τὰ κτήνη κατὰ γένος αὐτῶν καὶ πάντα τὰ ἑρπετὰ τῆς γῆς κατὰ γένος αὐτῶν· καὶ εἶδεν ὁ Θεὸς ὅτι καλά.",
+    "original": "καὶ ἐποίησεν ὁ Θεὸς τὰ θηρία τῆς γῆς κατὰ γένος καὶ τὰ κτήνη κατὰ γένος καὶ πάντα τὰ ἑρπετὰ τῆς γῆς κατὰ γένος αὐτῶν· καὶ εἶδεν ὁ Θεὸς ὅτι καλά.",
     "greek": true,
     "translation": "„Și a făcut Dumnezeu fiarele pământului după fel și dobitoacele după felul lor și toate târâtoarele pământului după felul lor; și a văzut Dumnezeu că sunt bune.”",
     "note": "LXX pune adjectivul „bune” la plural (καλά) — acordat cu toate categoriile de vietăți enumerate, spre deosebire de ebraică, unde „bine” (טוֹב) rămâne la forma neschimbată, ca o concluzie generală."
@@ -7739,15 +7744,15 @@ window.CHAPTER_DATA = [
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
-    "original": "וַיֹּאמֶר אֱלֹהִים נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ כִּדְמוּתֵנוּ",
+    "original": "וַיֹּאמֶר אֱלֹהִים נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ כִּדְמוּתֵנוּ וְיִרְדּוּ בִדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבַבְּהֵמָה וּבְכָל־הָאָרֶץ וּבְכָל־הָרֶמֶשׂ הָרֹמֵשׂ עַל־הָאָרֶץ",
     "translation": "„Și Dumnezeu a spus: «Să facem om în imaginea noastră, după asemănarea noastră!»” — traducerea rabinului Rosen.",
     "note": ""
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ εἶπεν ὁ Θεός Ποιήσωμεν ἄνθρωπον κατ᾿ εἰκόνα ἡμετέραν καὶ καθ᾿ ὁμοίωσιν.",
+    "original": "καὶ εἶπεν ὁ Θεός Ποιήσωμεν ἄνθρωπον κατ᾿ εἰκόνα ἡμετέραν καὶ καθ᾿ ὁμοίωσιν, καὶ ἀρχέτωσαν τῶν ἰχθύων τῆς θαλάσσης καὶ τῶν πετεινῶν τοῦ οὐρανοῦ καὶ τῶν κτηνῶν καὶ πάσης τῆς γῆς καὶ πάντων τῶν ἑρπετῶν τῶν ἑρπόντων ἐπὶ τῆς γῆς.",
     "greek": true,
-    "translation": "„Și a zis Dumnezeu: «Să facem om după chipul nostru și după asemănare!»”",
+    "translation": "„Și a zis Dumnezeu: «Să facem om după chipul nostru și după asemănare, și să stăpânească peste peștii mării și peste păsările cerului și peste dobitoace și peste tot pământul și peste toate târâtoarele care se târăsc pe pământ!»”",
     "note": "εἰκών (eikon, „icoană, chip”) și ὁμοίωσις (homoiosis, „asemănare”) au devenit, prin acest verset, termeni-cheie în teologia creștină ulterioară."
    },
    {
@@ -8326,13 +8331,12 @@ window.CHAPTER_DATA = [
     "translit": "chayah",
     "strong": "H2416",
     "pos": "substantiv",
-    "greek": "ζῷον (zoon, „viețuitoare”)",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "alive; hence, raw (flesh); fresh (plant, water, year), strong; also (as noun, especially in the feminine singular and masculine plural) life (or living thing), whether literally or figuratively",
     "bdb": "חַי adj. alive, living (1) (a) of God, as the living one, the fountain of life (b) of man (c) of animals, alive, living (d) animals and man (e) (dub.) of vegetation, as thorns, green (f) of water, fresh (2) (dub.) lively, active (3) reviving",
     "def_ro": "viu — de aici, „crud” (despre carne), „proaspăt” (despre plantă, apă, an), „puternic”; ca substantiv, viață sau ființă vie.",
-    "greek_def_ro": "θηρίον (therion) — fiară, animal sălbatic.",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Chayah, „viețuitoare, fiară”, vine din rădăcina chai, „viu”. În Geneza 1 desemnează mai ales animalele sălbatice („chayat ha-arets”, fiarele pământului), deosebite de dobitoacele domestice (behemah) și de târâtoare (remes), cele trei categorii de vietăți ale uscatului. Același cuvânt, ca „viață, ființă vie”, stă în „nefesh chayah”, „suflet viu” (Geneza 2:7).",
+    "diff_ro": "Septuaginta nu are un cuvânt pentru „vietățile” (חַיָּה) în acest verset: enumeră „dobitoacele, tot pământul și toate târâtoarele”."
    },
    {
     "t": " care "
@@ -8468,9 +8472,9 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ηὐλόγησεν αὐτοὺς ὁ Θεὸς λέγων Αὐξάνεσθε καὶ πληθύνεσθε καὶ πληρώσατε τὴν γῆν καὶ κατακυριεύσατε αὐτῆς καὶ ἄρχετε τῶν ἰχθύων τῆς θαλάσσης καὶ τῶν πετεινῶν τοῦ οὐρανοῦ καὶ πάντων τῶν κτηνῶν καὶ πάσης τῆς γῆς.",
+    "original": "καὶ ηὐλόγησεν αὐτοὺς ὁ Θεὸς λέγων Αὐξάνεσθε καὶ πληθύνεσθε καὶ πληρώσατε τὴν γῆν καὶ κατακυριεύσατε αὐτῆς καὶ ἄρχετε τῶν ἰχθύων τῆς θαλάσσης καὶ τῶν πετεινῶν τοῦ οὐρανοῦ καὶ πάντων τῶν κτηνῶν καὶ πάσης τῆς γῆς καὶ πάντων τῶν ἑρπετῶν τῶν ἑρπόντων ἐπὶ τῆς γῆς.",
     "greek": true,
-    "translation": "„Și i-a binecuvântat Dumnezeu, zicând: «Creșteți și vă înmulțiți și umpleți pământul și-l stăpâniți și domniți peste peștii mării și peste păsările cerului și peste toate dobitoacele și peste tot pământul.»”",
+    "translation": "„Și i-a binecuvântat Dumnezeu, zicând: «Creșteți și vă înmulțiți și umpleți pământul și-l stăpâniți și domniți peste peștii mării și peste păsările cerului și peste toate dobitoacele și peste tot pământul și peste toate târâtoarele care se târăsc pe pământ.»”",
     "note": "κατακυριεύσατε („stăpâniți deplin”) e o formă intensivă, întărită — traduce כִּבְשֻׁהָ cu un verb și mai puternic decât simplul „a domni”."
    },
    {
@@ -8622,13 +8626,12 @@ window.CHAPTER_DATA = [
     "translit": "penei",
     "strong": "H6440",
     "pos": "substantiv, stare construită",
-    "greek": "πρόσωπον (prosopon)",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "the face (as the part that turns); used in a great variety of applications (literally and figuratively); also (with prepositional prefix) as a preposition (before, etc.)",
     "bdb": "[פָּנֶה], pl. פָּנִים 2123 n.m. face, also faces (1) face, faces (2) (a) presence, person (b) technically, see one's face, i.e. appear before one, in one's presence (3) face of seraphim (4) face of animals (5) face (= surface) of ground (6) as adv.loc. before (7) for other phrases with prepositions",
     "def_ro": "față — propriu-zis, partea care se întoarce spre cineva; folosită în foarte multe construcții, uneori ca prepoziție („înaintea”).",
-    "greek_def_ro": "πρόσωπον (prosopon) — față, chip.",
-    "dict_ro": "Panim, „față”, folosit numai la plural în ebraică, arată partea care se întoarce spre cineva sau ceva. La Geneza 1:2, Duhul lui Dumnezeu plutea „pe fața apelor” — o expresie care revine des în Vechiul Testament pentru suprafața unui lucru."
+    "dict_ro": "Panim, „față”, folosit numai la plural în ebraică, arată partea care se întoarce spre cineva sau ceva. La Geneza 1:2, Duhul lui Dumnezeu plutea „pe fața apelor” — o expresie care revine des în Vechiul Testament pentru suprafața unui lucru.",
+    "diff_ro": "Septuaginta spune „deasupra întregului pământ” (ἐπάνω πάσης τῆς γῆς), fără un cuvânt pentru „fața” (פְּנֵי)."
    },
    {
     "t": " întregului "
@@ -8830,7 +8833,7 @@ window.CHAPTER_DATA = [
     "bdb": "חַי adj. alive, living (1) (a) of God, as the living one, the fountain of life (b) of man (c) of animals, alive, living (d) animals and man (e) (dub.) of vegetation, as thorns, green (f) of water, fresh (2) (dub.) lively, active (3) reviving",
     "def_ro": "viu — de aici, „crud” (despre carne), „proaspăt” (despre plantă, apă, an), „puternic”; ca substantiv, viață sau ființă vie.",
     "greek_def_ro": "θηρίον (therion) — fiară, animal sălbatic.",
-    "dict_ro": "Vezi mai sus."
+    "dict_ro": "Chayah, „viețuitoare, fiară”, vine din rădăcina chai, „viu”. În Geneza 1 desemnează mai ales animalele sălbatice („chayat ha-arets”, fiarele pământului), deosebite de dobitoacele domestice (behemah) și de târâtoare (remes), cele trei categorii de vietăți ale uscatului. Același cuvânt, ca „viață, ființă vie”, stă în „nefesh chayah”, „suflet viu” (Geneza 2:7)."
    },
    {
     "t": " "
@@ -9043,7 +9046,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ πᾶσι τοῖς θηρίοις τῆς γῆς καὶ πᾶσι τοῖς πετεινοῖς τοῦ οὐρανοῦ καὶ παντὶ ἑρπετῷ ἕρποντι ἐπὶ τῆς γῆς, ὃ ἔχει ἐν ἑαυτῷ ψυχὴν ζωῆς, πάντα χόρτον χλωρὸν εἰς βρῶσιν· καὶ ἐγένετο οὕτως.",
+    "original": "καὶ πᾶσι τοῖς θηρίοις τῆς γῆς καὶ πᾶσι τοῖς πετεινοῖς τοῦ οὐρανοῦ καὶ παντὶ ἑρπετῷ τῷ ἕρποντι ἐπὶ τῆς γῆς, ὃ ἔχει ἐν ἑαυτῷ ψυχὴν ζωῆς, πάντα χόρτον χλωρὸν εἰς βρῶσιν· καὶ ἐγένετο οὕτως.",
     "greek": true,
     "translation": "„Și tuturor fiarelor pământului și tuturor păsărilor cerului și oricărei târâtoare ce se târăște pe pământ, care are în ea suflet de viață, [le-am dat] toată iarba verde ca hrană; și a fost așa.”",
     "note": ""

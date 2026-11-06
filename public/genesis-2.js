@@ -6,35 +6,13 @@ window.CHAPTER_DATA = [
     "t": "Și "
    },
    {
-    "t": "[astfel]",
-    "w": "astfel",
-    "heb": "כֵּן",
-    "translit": "ken",
-    "strong": "H3651",
-    "pos": "adverb",
-    "greek": "οὕτως",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def": "astfel.",
-    "def_ro": "așa, astfel — propriu-zis „drept, în picioare”; de aici, la figurat, „drept, corect” sau, ca adverb, „așa”.",
-    "greek_def_ro": "οὕτως (houtos) — așa, astfel.",
-    "dict_ro": "Ken, „așa”, vine de la o rădăcină însemnând „a sta drept, a fi ferm”. La Geneza 2:24, „de aceea” (al ken) leagă unirea bărbatului și femeii de porunca originară a creației."
+    "t": "[astfel]"
    },
    {
     "t": " au "
    },
    {
-    "t": "fost",
-    "w": "fost",
-    "heb": "הָיָה",
-    "translit": "hayah",
-    "strong": "H1961",
-    "pos": "verb",
-    "greek": "ἦσαν",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def": "au fost.",
-    "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
-    "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi.",
-    "dict_ro": "Verbul hayah, „a fi, a exista, a deveni” — la Geneza 2:7, omul „a devenit” suflet viu abia după ce Dumnezeu a suflat în el suflare de viață, nu prin simpla plăsmuire din țărână."
+    "t": "fost"
    },
    {
     "t": " "
@@ -556,7 +534,7 @@ window.CHAPTER_DATA = [
     "translit": "vayevarekh",
     "strong": "H1288",
     "pos": "verb",
-    "greek": "εὐλόγησεν",
+    "greek": "ηὐλόγησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "binecuvântat.",
     "def_ro": "a binecuvânta — propriu-zis, a îngenunchea; de aici, a binecuvânta pe Dumnezeu (ca act de închinare) sau pe om (ca binefacere); prin eufemism, chiar și „a blestema”.",
@@ -693,12 +671,12 @@ window.CHAPTER_DATA = [
     "translit": "bara",
     "strong": "H1254",
     "pos": "verb",
-    "greek": "ἔκτισεν",
+    "greek": "ἤρξατο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "crease.",
     "def_ro": "a crea (absolut, din nimic); în alte contexte: a tăia, a alege, a modela, a hrăni.",
-    "greek_def_ro": "ποιέω / κτίζω (poieo / ktizo) — a face, a alcătui / a întemeia, a zidi.",
-    "diff_ro": "Verbul ebraic ברא are în Vechiul Testament subiect exclusiv divin și poartă ideea de creație din nimic; verbul grecesc ποιέω folosit de LXX aici înseamnă mai general „a face, a alcătui” — o nuanță mai slabă decât originalul ebraic.",
+    "greek_def_ro": "ἄρχω (archo) — a începe (la mediu: „a început”).",
+    "diff_ro": "Septuaginta nu redă „a crea” prin ποιέω sau κτίζω, ci prin ἤρξατο, „a început”: „pe care Dumnezeu a început să le facă”. Verbul ebraic ברא, cu subiect numai divin, nu are aici un corespondent direct în greacă.",
     "dict_ro": "Verbul bara, „a crea”, apare în Vechiul Testament numai cu Dumnezeu drept subiect. La Geneza 2:4, formula „în ziua când a făcut Domnul Dumnezeu pământul și cerul” reia, la trecut, lucrarea creației povestite pe larg la capitolul 1."
    },
    {
@@ -1001,12 +979,13 @@ window.CHAPTER_DATA = [
     "translit": "Adonai Elohim",
     "strong": "H3068",
     "pos": "substantiv+substantiv",
-    "greek": "Κύριος ὁ Θεός",
+    "greek": "ὁ Θεός",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "DOMNUL Dumnezeu.",
     "def_ro": "DOMNUL Dumnezeu — combinația Numelui propriu al lui Dumnezeu (Tetragrama YHVH, tradusă tradițional „DOMNUL”, cu majuscule) cu Elohim. Apare prima dată aici, la Geneza 2, marcând trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”, la capitolul 1) la relatarea mai personală a creării omului.",
-    "greek_def_ro": "Κύριος ὁ Θεός (Kyrios ho Theos) — Domnul Dumnezeu.",
-    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL” cu majuscule. La Geneza 2, unit cu Elohim în combinația „YHVH Elohim” (DOMNUL Dumnezeu), marchează trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”) la relatarea mai personală a creării omului — evreii evită din evlavie rostirea acestui Nume, citindu-l Adonai."
+    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL” cu majuscule. La Geneza 2, unit cu Elohim în combinația „YHVH Elohim” (DOMNUL Dumnezeu), marchează trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”) la relatarea mai personală a creării omului — evreii evită din evlavie rostirea acestui Nume, citindu-l Adonai.",
+    "diff_ro": "Septuaginta are aici doar ὁ Θεός („Dumnezeu”), fără „Domnul”: numele YHVH, pus în ebraică lângă Elohim, nu apare în greacă la acest verset."
    },
    {
     "t": " a "
@@ -1235,7 +1214,7 @@ window.CHAPTER_DATA = [
     "translit": "hasadeh",
     "strong": "H7704",
     "pos": "substantiv",
-    "greek": "τοῦ ἀγροῦ",
+    "greek": "ἀγροῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "câmpului.",
     "def_ro": "câmp, ogor, țarină; prin extindere, țară, ținut.",
@@ -1388,12 +1367,13 @@ window.CHAPTER_DATA = [
     "translit": "Adonai Elohim",
     "strong": "H3068",
     "pos": "substantiv+substantiv",
-    "greek": "Κύριος ὁ Θεός",
+    "greek": "ὁ Θεός",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "DOMNUL Dumnezeu.",
     "def_ro": "DOMNUL Dumnezeu — combinația Numelui propriu al lui Dumnezeu (Tetragrama YHVH, tradusă tradițional „DOMNUL”, cu majuscule) cu Elohim. Apare prima dată aici, la Geneza 2, marcând trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”, la capitolul 1) la relatarea mai personală a creării omului.",
-    "greek_def_ro": "Κύριος ὁ Θεός (Kyrios ho Theos) — Domnul Dumnezeu.",
-    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL” cu majuscule. La Geneza 2, unit cu Elohim în combinația „YHVH Elohim” (DOMNUL Dumnezeu), marchează trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”) la relatarea mai personală a creării omului — evreii evită din evlavie rostirea acestui Nume, citindu-l Adonai."
+    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL” cu majuscule. La Geneza 2, unit cu Elohim în combinația „YHVH Elohim” (DOMNUL Dumnezeu), marchează trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”) la relatarea mai personală a creării omului — evreii evită din evlavie rostirea acestui Nume, citindu-l Adonai.",
+    "diff_ro": "Septuaginta are aici doar ὁ Θεός („Dumnezeu”), fără „Domnul”: numele YHVH, pus în ebraică lângă Elohim, nu apare în greacă la acest verset."
    },
    {
     "t": " nu "
@@ -2668,12 +2648,13 @@ window.CHAPTER_DATA = [
     "translit": "Ets HaDaat Tov VaRa",
     "strong": "H1847",
     "pos": "substantiv",
-    "greek": "τὸ ξύλον τοῦ γινώσκειν καλὸν καὶ πονηρόν",
+    "greek": "τὸ ξύλον τοῦ εἰδέναι γνωστὸν καλοῦ καὶ πονηροῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "Pomul Cunoașterii.",
     "def_ro": "cunoaștere, știință — de la verbul „a cunoaște”. Aici, în „Pomul Cunoașterii binelui și răului”.",
-    "greek_def_ro": "γινώσκειν (ginoskein) — a cunoaște (infinitiv, în expresia „pomul cunoașterii”).",
-    "dict_ro": "Daat, „cunoaștere”, de la verbul yada („a cunoaște”). „Pomul cunoștinței binelui și răului” (Geneza 2:9, 17) a stârnit multă discuție: nu doar cunoaștere intelectuală, ci experiența directă, prin alegere, a binelui și răului — o cunoaștere pe care omul urma s-o primească de la Dumnezeu, nu s-o smulgă singur."
+    "greek_def_ro": "εἰδέναι (eidenai) — a ști (infinitiv); γνωστός (gnostos) — cunoscut, ce poate fi cunoscut.",
+    "dict_ro": "Daat, „cunoaștere”, de la verbul yada („a cunoaște”). „Pomul cunoștinței binelui și răului” (Geneza 2:9, 17) a stârnit multă discuție: nu doar cunoaștere intelectuală, ci experiența directă, prin alegere, a binelui și răului — o cunoaștere pe care omul urma s-o primească de la Dumnezeu, nu s-o smulgă singur.",
+    "diff_ro": "Septuaginta citește aici „pomul de a ști cunoscutul binelui și al răului”, cu γνωστόν („cunoscut”) în plus față de ebraicul „pomul cunoașterii binelui și răului”; la 2:17 formularea greacă e „pomul de a cunoaște binele și răul”."
    }
   ],
   "refs": [
@@ -2893,12 +2874,11 @@ window.CHAPTER_DATA = [
     "translit": "vehayah",
     "strong": "H1961",
     "pos": "verb",
-    "greek": "γίνεται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "devine.",
     "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
-    "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi.",
-    "dict_ro": "Verbul hayah, „a fi, a exista, a deveni” — la Geneza 2:7, omul „a devenit” suflet viu abia după ce Dumnezeu a suflat în el suflare de viață, nu prin simpla plăsmuire din țărână."
+    "dict_ro": "Verbul hayah, „a fi, a exista, a deveni” — la Geneza 2:7, omul „a devenit” suflet viu abia după ce Dumnezeu a suflat în el suflare de viață, nu prin simpla plăsmuire din țărână.",
+    "diff_ro": "Septuaginta nu are un verb corespunzător lui וְהָיָה („și devine”): „de acolo se desparte în patru începuturi” (ἀφορίζεται εἰς τέσσαρας ἀρχάς)."
    },
    {
     "t": " "
@@ -3282,11 +3262,11 @@ window.CHAPTER_DATA = [
    {
     "t": "aurul",
     "w": "aurul",
-    "heb": "וּזֲהַב",
+    "heb": "וּזְהַב",
     "translit": "uzehav",
     "strong": "H2091",
     "pos": "substantiv",
-    "greek": "τὸ χρυσίον",
+    "greek": "χρυσίον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "aurul.",
     "def_ro": "aur.",
@@ -3418,7 +3398,7 @@ window.CHAPTER_DATA = [
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
-    "original": "וּזֲהַב הָאָרֶץ הַהִוא טוֹב שָׁם הַבְּדֹלַח וְאֶבֶן הַשֹּׁהַם",
+    "original": "וּזְהַב הָאָרֶץ הַהִוא טוֹב שָׁם הַבְּדֹלַח וְאֶבֶן הַשֹּׁהַם",
     "translation": "„Iar aurul acelui ținut este bun; acolo există și cristalul și piatra onix” — traducerea rabinului Rosen.",
     "note": ""
    },
@@ -4031,12 +4011,11 @@ window.CHAPTER_DATA = [
     "translit": "Eden",
     "strong": "H5731",
     "pos": "nume propriu",
-    "greek": "Ἐδέμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "Edenului.",
     "def_ro": "Eden — nume propriu; posibil înrudit cu o rădăcină ce înseamnă „desfătare, plăcere”.",
-    "greek_def_ro": "Ἐδέμ (Edem) — Eden.",
-    "dict_ro": "Numele înseamnă „desfătare, plăcere”. Grădina în care au locuit primii oameni (Geneza 2:8-17) — niciun loc geografic din Biblie n-a stârnit mai multe discuții privind așezarea lui exactă: a fost căutat în Armenia, lângă Marea Caspică, în Media, lângă Damasc, în Arabia de sud și în Babilonia. Cel mai probabil se află undeva de-a lungul marilor fluvii Tigru și Eufrat, în „țara Șinear”, adică Babilonia. Septuaginta traduce cuvântul prin „Paradis”."
+    "dict_ro": "Numele înseamnă „desfătare, plăcere”. Grădina în care au locuit primii oameni (Geneza 2:8-17) — niciun loc geografic din Biblie n-a stârnit mai multe discuții privind așezarea lui exactă: a fost căutat în Armenia, lângă Marea Caspică, în Media, lângă Damasc, în Arabia de sud și în Babilonia. Cel mai probabil se află undeva de-a lungul marilor fluvii Tigru și Eufrat, în „țara Șinear”, adică Babilonia. Septuaginta traduce cuvântul prin „Paradis”.",
+    "diff_ro": "În Septuaginta numele Eden lipsește la acest verset: grădina e numită simplu „paradisul” (ἐν τῷ παραδείσῳ)."
    },
    {
     "t": ", ca "
@@ -4385,10 +4364,10 @@ window.CHAPTER_DATA = [
    {
     "t": "din",
     "w": "din",
-    "heb": "מִן",
-    "translit": "min",
+    "heb": "וּמֵ-",
+    "translit": "u-min",
     "strong": "H4480",
-    "pos": "prepoziție",
+    "pos": "prepoziție (prefix)",
     "greek": "ἀπὸ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "din.",
@@ -4440,7 +4419,7 @@ window.CHAPTER_DATA = [
     "translit": "beyom",
     "strong": "H3117",
     "pos": "substantiv",
-    "greek": "ᾗ ἡμέρᾳ",
+    "greek": "ἡμέρᾳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "ziua.",
     "def_ro": "zi — literal (de la răsărit la apus, sau de la un apus la altul) sau, la figurat, orice interval de timp definit.",
@@ -4451,18 +4430,7 @@ window.CHAPTER_DATA = [
     "t": " în "
    },
    {
-    "t": "care",
-    "w": "care",
-    "heb": "אֲשֶׁר",
-    "translit": "asher",
-    "strong": "H834",
-    "pos": "pronume relativ",
-    "greek": "ᾗ",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def": "în care.",
-    "def_ro": "care, ce, cel ce — pronume relativ; folosit și ca adverb sau conjuncție: când, unde, cum, pentru că, ca să.",
-    "greek_def_ro": "ὅς (hos) — care.",
-    "dict_ro": "Asher, particula relativă „care, ce”, una dintre cele mai frecvente din ebraica biblică, folosită și ca adverb sau conjuncție cu sensuri variate."
+    "t": "care"
    },
    {
     "t": " vei mânca din el "
@@ -4849,7 +4817,7 @@ window.CHAPTER_DATA = [
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
-    "original": "וַיֹּאמֶר יְהוָה אֱלֹהִים לֹא־טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ אֶעֱשֶׂהּ־לּוֹ עֵזֶר כְּנֶגְדּוֹ",
+    "original": "וַיֹּאמֶר יְהוָה אֱלֹהִים לֹא־טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ אֶעֱשֶׂה־לּוֹ עֵזֶר כְּנֶגְדּוֹ",
     "translation": "„DOMNUL Dumnezeu a spus: „Nu este bine ca omul să fie singur, îi voi face un ajutor pe potriva lui.”” — traducerea rabinului Rosen.",
     "note": ""
    },
@@ -5118,13 +5086,13 @@ window.CHAPTER_DATA = [
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
-    "original": "וַיִּצֶר יְהוָה אֱלֹהִים מִן־הָאֲדָמָה כָּל־חַיַּת הַשָּׂדֶה וְאֵת כָּל־עוֹף הַשָּׁמַיִם וַיָּבֵא אֶל־הָאָדָם לִרְאוֹת מַה־יִּקְרָא־לוֹ",
+    "original": "וַיִּצֶר יְהוָה אֱלֹהִים מִן־הָאֲדָמָה כָּל־חַיַּת הַשָּׂדֶה וְאֵת כָּל־עוֹף הַשָּׁמַיִם וַיָּבֵא אֶל־הָאָדָם לִרְאוֹת מַה־יִּקְרָא־לוֹ וְכֹל אֲשֶׁר יִקְרָא־לוֹ הָאָדָם נֶפֶשׁ חַיָּה הוּא שְׁמוֹ",
     "translation": "„Și DOMNUL Dumnezeu a plăsmuit din pământ toate vietățile câmpului și toate păsările cerurilor și le-a adus la om ca să vadă cum le va numi pe fiecare; și oricum avea să numească omul fiecare vietate, așa îi rămânea numele.” — traducerea rabinului Rosen.",
     "note": ""
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἔπλασεν ὁ Θεὸς ἔτι ἐκ τῆς γῆς πάντα τὰ θηρία τοῦ ἀγροῦ καὶ πάντα τὰ πετεινὰ τοῦ οὐρανοῦ, καὶ ἤγαγεν αὐτὰ πρὸς τὸν Ἀδὰμ ἰδεῖν τί καλέσει αὐτά.",
+    "original": "καὶ ἔπλασεν ὁ Θεὸς ἔτι ἐκ τῆς γῆς πάντα τὰ θηρία τοῦ ἀγροῦ καὶ πάντα τὰ πετεινὰ τοῦ οὐρανοῦ, καὶ ἤγαγεν αὐτὰ πρὸς τὸν Ἀδὰμ ἰδεῖν τί καλέσει αὐτά, καὶ πᾶν ὃ ἐὰν ἐκάλεσεν αὐτὸ Ἀδὰμ ψυχὴν ζῶσαν, τοῦτο ὄνομα αὐτοῦ.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -5231,12 +5199,13 @@ window.CHAPTER_DATA = [
     "translit": "ha'adam",
     "strong": "H120",
     "pos": "substantiv",
-    "greek": "ὁ Ἀδάμ",
+    "greek": "Ἀδάμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "omul.",
     "def_ro": "om, omenire — propriu-zis, „roșiatic”; folosit pentru un singur om sau pentru neamul omenesc întreg.",
-    "greek_def_ro": "ἄνθρωπος (anthropos) — om, ființă omenească.",
-    "dict_ro": "Adam, „om”, vine de la o rădăcină legată de culoarea roșiatică — aceeași ca la adamah („pământ”). La Geneza 2:7 jocul de cuvinte e explicit: omul (adam) e plăsmuit din țărâna pământului (adamah). Cuvântul devine, mai apoi, atât numele propriu al primului om, cât și denumirea generică pentru omenire."
+    "greek_def_ro": "Ἀδάμ (Adam) — Adam, omul.",
+    "dict_ro": "Adam, „om”, vine de la o rădăcină legată de culoarea roșiatică — aceeași ca la adamah („pământ”). La Geneza 2:7 jocul de cuvinte e explicit: omul (adam) e plăsmuit din țărâna pământului (adamah). Cuvântul devine, mai apoi, atât numele propriu al primului om, cât și denumirea generică pentru omenire.",
+    "diff_ro": "Ebraica are cuvântul comun „omul” (ha-adam, cu articol); greaca îl redă ca nume propriu, „Adam”."
    },
    {
     "t": " a "
@@ -5384,12 +5353,13 @@ window.CHAPTER_DATA = [
     "translit": "kenegdo",
     "strong": "H5048",
     "pos": "prepoziție",
-    "greek": "κατ᾿ αὐτόν",
+    "greek": "ὅμοιος αὐτῷ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "potriva.",
     "def_ro": "în fața, potrivit cu, corespunzător — aceeași rădăcină ca la „ajutor potrivit lui” de mai sus.",
-    "greek_def_ro": "κατ' αὐτόν (kat' auton) — potrivit lui.",
-    "dict_ro": "Neged, „în fața, potrivit cu”, aceeași rădăcină ca în expresia „ezer kenegdo” („ajutor pe potriva lui”, Geneza 2:18, 20) — un ajutor care stă „în fața” omului, ca pereche potrivită, nu ca subordonat."
+    "greek_def_ro": "ὅμοιος (homoios) — asemenea, la fel; „asemenea lui”.",
+    "dict_ro": "Neged, „în fața, potrivit cu”, aceeași rădăcină ca în expresia „ezer kenegdo” („ajutor pe potriva lui”, Geneza 2:18, 20) — un ajutor care stă „în fața” omului, ca pereche potrivită, nu ca subordonat.",
+    "diff_ro": "Pentru „potrivit lui” (כְּנֶגְדּוֹ) Septuaginta are aici ὅμοιος αὐτῷ, „asemenea lui”; la 2:18 același cuvânt ebraic e redat prin κατ᾿ αὐτόν."
    },
    {
     "t": " lui."
@@ -5465,7 +5435,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἐκάλεσεν Ἀδὰμ ὀνόματα πᾶσι τοῖς κτήνεσιν καὶ πᾶσι τοῖς πετεινοῖς τοῦ οὐρανοῦ καὶ πᾶσι τοῖς θηρίοις τοῦ ἀγροῦ, τῷ δὲ Ἀδὰμ οὐχ εὑρέθη βοηθὸς ὅμοιος αὐτῷ.",
+    "original": "καὶ ἐκάλεσεν Ἀδὰμ ὀνόματα πᾶσιν τοῖς κτήνεσιν καὶ πᾶσι τοῖς πετεινοῖς τοῦ οὐρανοῦ καὶ πᾶσι τοῖς θηρίοις τοῦ ἀγροῦ, τῷ δὲ Ἀδὰμ οὐχ εὑρέθη βοηθὸς ὅμοιος αὐτῷ.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -5541,18 +5511,7 @@ window.CHAPTER_DATA = [
     "t": " și "
    },
    {
-    "t": "el",
-    "w": "el",
-    "heb": "הוּא",
-    "translit": "hu",
-    "strong": "H1931",
-    "pos": "pronume",
-    "greek": "αὐτός",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def": "el.",
-    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
-    "greek_def_ro": "αὐτός (autos) — el, ea, acela.",
-    "dict_ro": "Pronume personal persoana a treia, „el, ea, acesta”, folosit la Geneza 2:11 pentru a arăta râul (Pison) care înconjoară ținutul Havila."
+    "t": "el"
    },
    {
     "t": " a "
@@ -6298,7 +6257,7 @@ window.CHAPTER_DATA = [
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
-    "original": "וַיֹּאמֶר הָאָדָם זֹאת הַפַּעַם עֶצֶם מֵעֲצָמַי וּבָשָׂר מִבְּשָׂרִי לְזֹאת יִקָּרֵא אִשָּׁה כִּי מֵאִישׁ לֻקְּחָה־זֹּאת",
+    "original": "וַיֹּאמֶר הָאָדָם זֹאת הַפַּעַם עֶצֶם מֵעֲצָמַי וּבָשָׂר מִבְּשָׂרִי לְזֹאת יִקָּרֵא אִשָּׁה כִּי מֵאִישׁ לֻקֳחָה־זֹּאת",
     "translation": "„Și omul a spus: „De data aceasta, este os din oasele mele și carne din carnea mea. Aceasta se va numi femeie, căci din bărbat a fost luată aceasta.”” — traducerea rabinului Rosen.",
     "note": ""
    },
@@ -6631,12 +6590,13 @@ window.CHAPTER_DATA = [
     "translit": "ha'adam",
     "strong": "H120",
     "pos": "substantiv",
-    "greek": "ὁ Ἀδάμ",
+    "greek": "Ἀδάμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "omul.",
     "def_ro": "om, omenire — propriu-zis, „roșiatic”; folosit pentru un singur om sau pentru neamul omenesc întreg.",
-    "greek_def_ro": "ἄνθρωπος (anthropos) — om, ființă omenească.",
-    "dict_ro": "Adam, „om”, vine de la o rădăcină legată de culoarea roșiatică — aceeași ca la adamah („pământ”). La Geneza 2:7 jocul de cuvinte e explicit: omul (adam) e plăsmuit din țărâna pământului (adamah). Cuvântul devine, mai apoi, atât numele propriu al primului om, cât și denumirea generică pentru omenire."
+    "greek_def_ro": "Ἀδάμ (Adam) — Adam, omul.",
+    "dict_ro": "Adam, „om”, vine de la o rădăcină legată de culoarea roșiatică — aceeași ca la adamah („pământ”). La Geneza 2:7 jocul de cuvinte e explicit: omul (adam) e plăsmuit din țărâna pământului (adamah). Cuvântul devine, mai apoi, atât numele propriu al primului om, cât și denumirea generică pentru omenire.",
+    "diff_ro": "Ebraica are cuvântul comun „omul” (ha-adam, cu articol); greaca îl redă ca nume propriu, „Adam”."
    },
    {
     "t": " și "

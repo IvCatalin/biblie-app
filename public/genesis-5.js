@@ -856,7 +856,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἐγένοντο αἱ ἡμέραι Ἀδὰμ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Σὴθ ἑπτακόσια ἔτη, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.",
+    "original": "ἐγένοντο δὲ αἱ ἡμέραι Ἀδὰμ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Σὴθ ἑπτακόσια ἔτη, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.",
     "greek": true,
     "translation": "",
     "note": "700, nu 800 — exact compensația care păstrează totalul identic la v.5 (230+700=930, ca și 130+800=930)."
@@ -1118,7 +1118,7 @@ window.CHAPTER_DATA = [
     "translit": "chamesh shanim ume'at shanah",
     "strong": "H2568",
     "pos": "numeral",
-    "greek": "διακόσια πέντε ἔτη",
+    "greek": "διακόσια καὶ πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "o sută cinci ani.",
     "greek_def_ro": "διακόσια (diakosia), πέντε (pente) — două sute cinci ani.",
@@ -1171,7 +1171,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "Ἔζησεν δὲ Σὴθ διακόσια πέντε ἔτη, καὶ ἐγέννησεν τὸν Ἐνώς.",
+    "original": "Ἔζησεν δὲ Σὴθ διακόσια καὶ πέντε ἔτη, καὶ ἐγέννησεν τὸν Ἐνώς.",
     "greek": true,
     "translation": "",
     "note": "205, nu 105."
@@ -1240,7 +1240,7 @@ window.CHAPTER_DATA = [
     "translit": "sheva shanim ushmoneh me'ot shanah",
     "strong": "H7651",
     "pos": "numeral",
-    "greek": "ἑπτακόσια ἑπτὰ ἔτη",
+    "greek": "ἑπτακόσια καὶ ἑπτὰ ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "opt sute șapte ani.",
     "greek_def_ro": "ἑπτακόσια (heptakosia), ἑπτά (hepta) — șapte sute șapte ani.",
@@ -1325,7 +1325,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἔζησεν Σὴθ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Ἐνὼς ἑπτακόσια ἑπτὰ ἔτη, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.",
+    "original": "καὶ ἔζησεν Σὴθ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Ἐνὼς ἑπτακόσια καὶ ἑπτὰ ἔτη, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.",
     "greek": true,
     "translation": "",
     "note": "707, nu 807 — totalul rămâne 912 (205+707=912, ca 105+807=912)."
@@ -1396,10 +1396,10 @@ window.CHAPTER_DATA = [
     "translit": "shteim esreh shanah ut'sha me'ot shanah",
     "strong": "H8147",
     "pos": "numeral",
-    "greek": "ἐννακόσια δέκα δύο ἔτη",
+    "greek": "ἐννακόσια καὶ δώδεκα ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "nouă sute doisprezece ani.",
-    "greek_def_ro": "ἐννακόσια (ennakosia), δέκα (deka), δύο (dyo) — nouă sute doisprezece ani.",
+    "greek_def_ro": "ἐννακόσια (ennakosia), δώδεκα (dodeka) — nouă sute doisprezece ani.",
     "dict_ro": "Șet moare în anul 1042 (în Septuaginta, 1142) de la creație."
    },
    {
@@ -1432,7 +1432,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Σὴθ ἐννακόσια δέκα δύο ἔτη, καὶ ἀπέθανεν.",
+    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Σὴθ ἐννακόσια καὶ δώδεκα ἔτη, καὶ ἀπέθανεν.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -1645,7 +1645,7 @@ window.CHAPTER_DATA = [
     "translit": "chamesh esreh shanah ushmoneh me'ot shanah",
     "strong": "H2568",
     "pos": "numeral",
-    "greek": "ἑπτακόσια δέκα πέντε ἔτη",
+    "greek": "ἑπτακόσια καὶ δέκα πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "opt sute cincisprezece ani.",
     "greek_def_ro": "ἑπτακόσια (heptakosia), δέκα (deka), πέντε (pente) — șapte sute cincisprezece ani.",
@@ -1730,7 +1730,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἔζησεν Ἐνὼς μετὰ τὸ γεννῆσαι αὐτὸν τὸν Καϊνὰν ἑπτακόσια δέκα πέντε ἔτη, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.",
+    "original": "καὶ ἔζησεν Ἐνὼς μετὰ τὸ γεννῆσαι αὐτὸν τὸν Καϊνὰν ἑπτακόσια καὶ δέκα πέντε ἔτη, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.",
     "greek": true,
     "translation": "",
     "note": "715, nu 815 — total rămâne 905."
@@ -1801,7 +1801,7 @@ window.CHAPTER_DATA = [
     "translit": "chamesh shanim ut'sha me'ot shanah",
     "strong": "H2568",
     "pos": "numeral",
-    "greek": "ἐννακόσια πέντε ἔτη",
+    "greek": "ἐννακόσια καὶ πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "nouă sute cinci ani.",
     "greek_def_ro": "ἐννακόσια (ennakosia), πέντε (pente) — nouă sute cinci ani.",
@@ -1837,7 +1837,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Ἐνὼς ἐννακόσια πέντε ἔτη, καὶ ἀπέθανεν.",
+    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Ἐνὼς ἐννακόσια καὶ πέντε ἔτη, καὶ ἀπέθανεν.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -2044,7 +2044,7 @@ window.CHAPTER_DATA = [
     "translit": "arba'im shanah ushmoneh me'ot shanah",
     "strong": "H705",
     "pos": "numeral",
-    "greek": "ἑπτακόσια τεσσαράκοντα ἔτη",
+    "greek": "ἑπτακόσια καὶ τεσσαράκοντα ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "opt sute patruzeci de ani.",
     "greek_def_ro": "ἑπτακόσια (heptakosia), τεσσαράκοντα (tessarakonta) — șapte sute patruzeci de ani.",
@@ -2129,7 +2129,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἔζησεν Καϊνὰν μετὰ τὸ γεννῆσαι αὐτὸν τὸν Μαλελεὴλ ἑπτακόσια τεσσαράκοντα ἔτη, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.",
+    "original": "καὶ ἔζησεν Καϊνὰν μετὰ τὸ γεννῆσαι αὐτὸν τὸν Μαλελεὴλ ἑπτακόσια καὶ τεσσαράκοντα ἔτη, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.",
     "greek": true,
     "translation": "",
     "note": "740, nu 840 — total rămâne 910."
@@ -2200,7 +2200,7 @@ window.CHAPTER_DATA = [
     "translit": "eser shanim ut'sha me'ot shanah",
     "strong": "H6235",
     "pos": "numeral",
-    "greek": "ἐννακόσια δέκα ἔτη",
+    "greek": "ἐννακόσια καὶ δέκα ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "nouă sute zece ani.",
     "greek_def_ro": "ἐννακόσια (ennakosia), δέκα (deka) — nouă sute zece ani.",
@@ -2236,7 +2236,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Καϊνὰν ἐννακόσια δέκα ἔτη, καὶ ἀπέθανεν.",
+    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Καϊνὰν ἐννακόσια καὶ δέκα ἔτη, καὶ ἀπέθανεν.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -2307,7 +2307,7 @@ window.CHAPTER_DATA = [
     "translit": "chamesh shanim veshishim shanah",
     "strong": "H2568",
     "pos": "numeral",
-    "greek": "ἑκατὸν ἑξήκοντα πέντε ἔτη",
+    "greek": "ἑκατὸν καὶ ἑξήκοντα πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "șaizeci și cinci de ani.",
     "greek_def_ro": "ἑκατόν (hekaton), ἑξήκοντα (hexēkonta), πέντε (pente) — o sută șaizeci și cinci de ani.",
@@ -2360,7 +2360,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἔζησεν Μαλελεὴλ ἑκατὸν ἑξήκοντα πέντε ἔτη, καὶ ἐγέννησεν τὸν Ἰάρεδ.",
+    "original": "καὶ ἔζησεν Μαλελεὴλ ἑκατὸν καὶ ἑξήκοντα πέντε ἔτη, καὶ ἐγέννησεν τὸν Ἰάρεδ.",
     "greek": true,
     "translation": "",
     "note": "165, nu 65."
@@ -2454,7 +2454,7 @@ window.CHAPTER_DATA = [
     "translit": "shloshim shanah ushmoneh me'ot shanah",
     "strong": "H7970",
     "pos": "numeral",
-    "greek": "ἑπτακόσια τριάκοντα ἔτη",
+    "greek": "ἑπτακόσια καὶ τριάκοντα ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "opt sute treizeci de ani.",
     "greek_def_ro": "ἑπτακόσια (heptakosia), τριάκοντα (triakonta) — șapte sute treizeci de ani.",
@@ -2539,7 +2539,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἔζησεν Μαλελεὴλ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Ἰάρεδ ἑπτακόσια τριάκοντα ἔτη, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.",
+    "original": "καὶ ἔζησεν Μαλελεὴλ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Ἰάρεδ ἑπτακόσια καὶ τριάκοντα ἔτη, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.",
     "greek": true,
     "translation": "",
     "note": "730, nu 830 — total rămâne 895."
@@ -2610,7 +2610,7 @@ window.CHAPTER_DATA = [
     "translit": "chamesh vetish'im shanah ushmoneh me'ot shanah",
     "strong": "H2568",
     "pos": "numeral",
-    "greek": "ὀκτακόσια ἐνενήκοντα πέντε ἔτη",
+    "greek": "ὀκτακόσια καὶ ἐνενήκοντα πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "opt sute nouăzeci și cinci de ani.",
     "greek_def_ro": "ὀκτακόσια (oktakosia), ἐνενήκοντα (enenēkonta), πέντε (pente) — opt sute nouăzeci și cinci de ani.",
@@ -2646,7 +2646,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Μαλελεὴλ ὀκτακόσια ἐνενήκοντα πέντε ἔτη, καὶ ἀπέθανεν.",
+    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Μαλελεὴλ ὀκτακόσια καὶ ἐνενήκοντα πέντε ἔτη, καὶ ἀπέθανεν.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -2717,7 +2717,7 @@ window.CHAPTER_DATA = [
     "translit": "shtayim veshishim shanah ume'at shanah",
     "strong": "H8147",
     "pos": "numeral",
-    "greek": "ἑκατὸν ἑξήκοντα δύο ἔτη",
+    "greek": "ἑκατὸν καὶ ἑξήκοντα δύο ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "o sută șaizeci și doi de ani.",
     "greek_def_ro": "ἑκατόν (hekaton), ἑξήκοντα (hexēkonta), δύο (dyo) — o sută șaizeci și doi de ani.",
@@ -2769,7 +2769,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἔζησεν Ἰάρεδ ἑκατὸν ἑξήκοντα δύο ἔτη, καὶ ἐγέννησεν τὸν Ενωχ.",
+    "original": "καὶ ἔζησεν Ἰάρεδ ἑκατὸν καὶ ἑξήκοντα δύο ἔτη, καὶ ἐγέννησεν τὸν Ενωχ.",
     "greek": true,
     "translation": "",
     "note": "162 — unul dintre puținele versete unde Septuaginta se potrivește exact cu Textul Masoretic, fără nicio diferență."
@@ -3018,7 +3018,7 @@ window.CHAPTER_DATA = [
     "translit": "shtayim veshishim shanah ut'sha me'ot shanah",
     "strong": "H8147",
     "pos": "numeral",
-    "greek": "ἐννακόσια ἑξήκοντα δύο ἔτη",
+    "greek": "ἐννακόσια καὶ ἑξήκοντα δύο ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "nouă sute șaizeci și doi de ani.",
     "greek_def_ro": "ἐννακόσια (ennakosia), ἑξήκοντα (hexēkonta), δύο (dyo) — nouă sute șaizeci și doi de ani.",
@@ -3054,7 +3054,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Ἰάρεδ ἐννακόσια ἑξήκοντα δύο ἔτη, καὶ ἀπέθανεν.",
+    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Ἰάρεδ ἐννακόσια καὶ ἑξήκοντα δύο ἔτη, καὶ ἀπέθανεν.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -3129,7 +3129,7 @@ window.CHAPTER_DATA = [
     "translit": "chamesh veshishim shanah",
     "strong": "H2568",
     "pos": "numeral",
-    "greek": "ἑκατὸν ἑξήκοντα πέντε ἔτη",
+    "greek": "ἑκατὸν καὶ ἑξήκοντα πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "șaizeci și cinci de ani.",
     "greek_def_ro": "ἑκατόν (hekaton), ἑξήκοντα (hexēkonta), πέντε (pente) — o sută șaizeci și cinci de ani.",
@@ -3182,7 +3182,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἔζησεν Ενωχ ἑκατὸν ἑξήκοντα πέντε ἔτη, καὶ ἐγέννησεν τὸν Μαθουσάλα.",
+    "original": "καὶ ἔζησεν Ενωχ ἑκατὸν καὶ ἑξήκοντα πέντε ἔτη, καὶ ἐγέννησεν τὸν Μαθουσάλα.",
     "greek": true,
     "translation": "",
     "note": "165, nu 65 — aceeași diferență de „100 de ani” ca la ceilalți patriarhi."
@@ -3399,7 +3399,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ εὐηρέστησεν Ενωχ τῷ Θεῷ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Μαθουσάλα διακόσια ἔτη, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.",
+    "original": "εὐηρέστησεν δὲ Ενωχ τῷ Θεῷ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Μαθουσάλα διακόσια ἔτη, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.",
     "greek": true,
     "translation": "",
     "note": "200, nu 300 — total rămâne 365, identic în ambele tradiții."
@@ -3822,7 +3822,7 @@ window.CHAPTER_DATA = [
     "translit": "sheva ushmonim shanah ume'at shanah",
     "strong": "H7651",
     "pos": "numeral",
-    "greek": "ἑκατὸν ἑξήκοντα ἑπτὰ ἔτη",
+    "greek": "ἑκατὸν καὶ ἑξήκοντα ἑπτὰ ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "o sută optzeci și șapte de ani.",
     "greek_def_ro": "ἑκατόν (hekaton), ἑξήκοντα (hexēkonta), ἑπτά (hepta) — o sută șaizeci și șapte de ani.",
@@ -3875,7 +3875,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἔζησεν Μαθουσάλα ἑκατὸν ἑξήκοντα ἑπτὰ ἔτη, καὶ ἐγέννησεν τὸν Λάμεχ.",
+    "original": "καὶ ἔζησεν Μαθουσάλα ἑκατὸν καὶ ἑξήκοντα ἑπτὰ ἔτη, καὶ ἐγέννησεν τὸν Λάμεχ.",
     "greek": true,
     "translation": "",
     "note": "Cea mai faimoasă diferență din tot capitolul: LXX are 167, nu 187 — spre deosebire de restul patriarhilor (unde LXX ADAUGĂ 100 de ani), aici scade cu 20. Combinația exactă de cifre din unele manuscrise LXX ar plasa moartea lui Matusalem la 14 ani DUPĂ Potop — o problemă binecunoscută, discutată intens de cercetători, unii susținând că manuscrisul original LXX avea de fapt 187 (ca și TM), iar 167 ar fi o eroare de copiere foarte veche."
@@ -4149,7 +4149,7 @@ window.CHAPTER_DATA = [
     "translit": "tesha veshishim shanah ut'sha me'ot shanah",
     "strong": "H8672",
     "pos": "numeral",
-    "greek": "ἐννακόσια ἑξήκοντα ἐννέα ἔτη",
+    "greek": "ἐννακόσια καὶ ἑξήκοντα ἐννέα ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "nouă sute șaizeci și nouă de ani.",
     "greek_def_ro": "ἐννακόσια (ennakosia), ἑξήκοντα (hexēkonta), ἐννέα (ennea) — nouă sute șaizeci și nouă de ani.",
@@ -4210,7 +4210,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Μαθουσάλα, ἃς ἔζησεν, ἐννακόσια ἑξήκοντα ἐννέα ἔτη, καὶ ἀπέθανεν.",
+    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Μαθουσάλα, ἃς ἔζησεν, ἐννακόσια καὶ ἑξήκοντα ἐννέα ἔτη, καὶ ἀπέθανεν.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -4756,7 +4756,7 @@ window.CHAPTER_DATA = [
     "translit": "chamesh vetish'im shanah vachamesh me'ot shanah",
     "strong": "H2568",
     "pos": "numeral",
-    "greek": "πεντακόσια ἑξήκοντα πέντε ἔτη",
+    "greek": "πεντακόσια καὶ ἑξήκοντα πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "cinci sute nouăzeci și cinci de ani.",
     "greek_def_ro": "πεντακόσια (pentakosia), ἑξήκοντα (hexēkonta), πέντε (pente) — cinci sute șaizeci și cinci de ani.",
@@ -4809,7 +4809,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἔζησεν Λάμεχ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Νῶε πεντακόσια ἑξήκοντα πέντε ἔτη, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.",
+    "original": "καὶ ἔζησεν Λάμεχ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Νῶε πεντακόσια καὶ ἑξήκοντα πέντε ἔτη, καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.",
     "greek": true,
     "translation": "",
     "note": "565, nu 595."
@@ -4891,7 +4891,7 @@ window.CHAPTER_DATA = [
     "translit": "sheva veshiv'im shanah ushva me'ot shanah",
     "strong": "H7651",
     "pos": "numeral",
-    "greek": "ἑπτακόσια πεντήκοντα τρία ἔτη",
+    "greek": "ἑπτακόσια καὶ πεντήκοντα τρία ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "șapte sute șaptezeci și șapte de ani.",
     "greek_def_ro": "ἑπτακόσια (heptakosia), πεντήκοντα (pentēkonta), τρία (tria) — șapte sute cincizeci și trei de ani.",
@@ -4928,7 +4928,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Λάμεχ ἑπτακόσια πεντήκοντα τρία ἔτη, καὶ ἀπέθανεν.",
+    "original": "καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Λάμεχ ἑπτακόσια καὶ πεντήκοντα τρία ἔτη, καὶ ἀπέθανεν.",
     "greek": true,
     "translation": "",
     "note": "753, nu 777 — singurul patriarh din tot capitolul unde TOTALUL diferă real între cele două tradiții (188+565=753, față de 182+595=777) — o diferență de 24 de ani, unică în tot capitolul."
@@ -5110,7 +5110,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἦν Νῶε ἐτῶν πεντακοσίων, καὶ ἐγέννησεν Νῶε τὸν Σήμ, τὸν Χάμ, τὸν Ιάφεθ.",
+    "original": "καὶ ἦν Νῶε ἐτῶν πεντακοσίων, καὶ ἐγέννησεν Νῶε τρεῖς υἱούς, τὸν Σήμ, τὸν Χάμ, τὸν Ιάφεθ.",
     "greek": true,
     "translation": "",
     "note": "500 — identic în ambele tradiții."

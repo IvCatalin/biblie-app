@@ -97,12 +97,13 @@ window.CHAPTER_DATA = [
     "translit": "hasadeh",
     "strong": "H7704",
     "pos": "substantiv",
-    "greek": "τοῦ ἀγροῦ",
+    "greek": "ἐπὶ τῆς γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "câmpului.",
     "def_ro": "câmp, ogor, țarină; prin extindere, țară, ținut.",
-    "greek_def_ro": "ἀγρός (agros) — câmp, ogor.",
-    "dict_ro": "Sadeh, „câmp, ogor” — la Geneza 3:1, șarpele era mai șiret decât toate fiarele „câmpului”; la 3:18, omul va mânca „iarba câmpului”, spațiul deschis, netulburat de grădină."
+    "greek_def_ro": "γῆ (ge) — pământ.",
+    "dict_ro": "Sadeh, „câmp, ogor” — la Geneza 3:1, șarpele era mai șiret decât toate fiarele „câmpului”; la 3:18, omul va mânca „iarba câmpului”, spațiul deschis, netulburat de grădină.",
+    "diff_ro": "Septuaginta spune „fiarele de pe pământ” (τῶν θηρίων τῶν ἐπὶ τῆς γῆς), nu „fiarele câmpului” ca în ebraică."
    },
    {
     "t": " pe "
@@ -159,18 +160,7 @@ window.CHAPTER_DATA = [
     "t": ". "
    },
    {
-    "t": "El",
-    "w": "El",
-    "heb": "הוּא",
-    "translit": "hu",
-    "strong": "H1931",
-    "pos": "pronume",
-    "greek": "οὗτος",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def": "el.",
-    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
-    "greek_def_ro": "αὐτός (autos) — el, ea, acela.",
-    "dict_ro": "Hu, pronume personal „el”, persoana a treia singular — la Geneza 3:15, referindu-se la sămânța femeii, care „îți va zdrobi capul”, un pronume masculin singular pe care tradiția creștină l-a citit mesianic."
+    "t": "El"
    },
    {
     "t": " i-a "
@@ -302,7 +292,7 @@ window.CHAPTER_DATA = [
     "translit": "hagan",
     "strong": "H1588",
     "pos": "substantiv",
-    "greek": "τοῦ παραδείσου",
+    "greek": "τῷ παραδείσῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "grădinii.",
     "def_ro": "grădină — loc îngrădit, ocrotit.",
@@ -554,7 +544,7 @@ window.CHAPTER_DATA = [
     "translit": "miperi",
     "strong": "H6529",
     "pos": "substantiv",
-    "greek": "τοῦ καρποῦ",
+    "greek": "καρποῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "din rodul.",
     "def_ro": "rod, fruct — literal sau la figurat.",
@@ -1144,11 +1134,11 @@ window.CHAPTER_DATA = [
     "translit": "yodea",
     "strong": "H3045",
     "pos": "verb",
-    "greek": "οἶδεν",
+    "greek": "ᾔδει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "știe.",
     "def_ro": "a ști, a cunoaște — aceeași rădăcină ca în „pomul cunoașterii” de la capitolul anterior.",
-    "greek_def_ro": "οἶδα (oida) — a ști.",
+    "greek_def_ro": "οἶδα (oida) — a ști (aici la imperfect: „știa”).",
     "dict_ro": "Verbul yada, „a ști, a cunoaște”, aceeași rădăcină ca în „pomul cunoașterii” de la capitolul anterior — la Geneza 3:5, 7, 22, cunoașterea binelui și răului e centrul întregii ispite și al judecății care urmează."
    },
    {
@@ -1161,7 +1151,7 @@ window.CHAPTER_DATA = [
     "translit": "beyom",
     "strong": "H3117",
     "pos": "substantiv",
-    "greek": "ᾗ ἡμέρᾳ",
+    "greek": "ἡμέρᾳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "ziua.",
     "def_ro": "zi — literal (de la răsărit la apus, sau de la un apus la altul) sau, la figurat, orice interval de timp definit.",
@@ -1504,11 +1494,11 @@ window.CHAPTER_DATA = [
     "translit": "lehaskil",
     "strong": "H7919",
     "pos": "verb",
-    "greek": "τοῦ συνιέναι",
+    "greek": "τοῦ κατανοῆσαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "pentru înțelepciune.",
     "def_ro": "a fi înțelept, a înțelege, a lucra cu chibzuință.",
-    "greek_def_ro": "συνιέναι (synienai) — a înțelege.",
+    "greek_def_ro": "κατανοέω (katanoeo) — a observa, a înțelege deplin (infinitiv).",
     "dict_ro": "Verbul sakhal, „a fi înțelept, a înțelege, a lucra cu chibzuință” — la Geneza 3:6, pomul era de dorit „ca să dea pricepere” (lehaskil), ultima dintre cele trei calități care au ispitit-o pe Eva."
    },
    {
@@ -1521,11 +1511,11 @@ window.CHAPTER_DATA = [
     "translit": "vatikach",
     "strong": "H3947",
     "pos": "verb",
-    "greek": "ἔλαβεν",
+    "greek": "λαβοῦσα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "a luat.",
     "def_ro": "a lua, a apuca.",
-    "greek_def_ro": "λαμβάνω (lambano) — a lua.",
+    "greek_def_ro": "λαμβάνω (lambano) — a lua (aici participiu: „luând”).",
     "dict_ro": "Verbul laqach, „a lua, a apuca” — la Geneza 3:6, Eva „a luat” din rodul pomului și a mâncat, verbul central al actului căderii."
    },
    {
@@ -1600,18 +1590,7 @@ window.CHAPTER_DATA = [
     "t": " ei cu ea și "
    },
    {
-    "t": "el",
-    "w": "el",
-    "heb": "הוּא",
-    "translit": "hu",
-    "strong": "H1931",
-    "pos": "pronume",
-    "greek": "αὐτὸς",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def": "el.",
-    "def_ro": "pronume personal, persoana a treia singular: el, ea, acesta, aceeași.",
-    "greek_def_ro": "αὐτός (autos) — el, ea, acela.",
-    "dict_ro": "Hu, pronume personal „el”, persoana a treia singular — la Geneza 3:15, referindu-se la sămânța femeii, care „îți va zdrobi capul”, un pronume masculin singular pe care tradiția creștină l-a citit mesianic."
+    "t": "el"
    },
    {
     "t": " a mâncat."
@@ -2192,12 +2171,13 @@ window.CHAPTER_DATA = [
     "translit": "ha'adam",
     "strong": "H120",
     "pos": "substantiv",
-    "greek": "ὁ Ἀδάμ",
+    "greek": "Ἀδάμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "omul.",
     "def_ro": "om, omenire — propriu-zis, „roșiatic”; folosit pentru un singur om sau pentru neamul omenesc întreg.",
-    "greek_def_ro": "ἄνθρωπος (anthropos) — om, ființă omenească.",
-    "dict_ro": "Adam, „om”, cu articol hotărât la Geneza 3 (ha-adam, „omul”) — deosebit de folosirea ca nume propriu, care apare fără articol. Trecerea de la „omul” la numele propriu Adam se face treptat în text, finalizată abia la Geneza 4:25."
+    "greek_def_ro": "Ἀδάμ (Adam) — Adam, omul.",
+    "dict_ro": "Adam, „om”, cu articol hotărât la Geneza 3 (ha-adam, „omul”) — deosebit de folosirea ca nume propriu, care apare fără articol. Trecerea de la „omul” la numele propriu Adam se face treptat în text, finalizată abia la Geneza 4:25.",
+    "diff_ro": "Ebraica are cuvântul comun „omul” (ha-adam, cu articol); greaca îl redă ca nume propriu, „Adam”."
    },
    {
     "t": " și "
@@ -2595,18 +2575,7 @@ window.CHAPTER_DATA = [
     "t": "Și "
    },
    {
-    "t": "[omul]",
-    "w": "omul",
-    "heb": "הָאָדָם",
-    "translit": "ha'adam",
-    "strong": "H120",
-    "pos": "substantiv",
-    "greek": "ὁ Ἀδάμ",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def": "omul.",
-    "def_ro": "om, omenire — propriu-zis, „roșiatic”; folosit pentru un singur om sau pentru neamul omenesc întreg.",
-    "greek_def_ro": "ἄνθρωπος (anthropos) — om, ființă omenească.",
-    "dict_ro": "Adam, „om”, cu articol hotărât la Geneza 3 (ha-adam, „omul”) — deosebit de folosirea ca nume propriu, care apare fără articol. Trecerea de la „omul” la numele propriu Adam se face treptat în text, finalizată abia la Geneza 4:25."
+    "t": "[omul]"
    },
    {
     "t": " a "
@@ -2822,18 +2791,7 @@ window.CHAPTER_DATA = [
     "t": "Și "
    },
    {
-    "t": "[DOMNUL Dumnezeu]",
-    "w": "DOMNUL Dumnezeu",
-    "heb": "יְהוָה אֱלֹהִים",
-    "translit": "Adonai Elohim",
-    "strong": "H3068",
-    "pos": "substantiv",
-    "greek": "Κύριος ὁ Θεός",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def": "DOMNUL Dumnezeu.",
-    "def_ro": "DOMNUL Dumnezeu — combinația Numelui propriu al lui Dumnezeu (Tetragrama YHVH, tradusă tradițional „DOMNUL”, cu majuscule) cu Elohim. Apare prima dată aici, la Geneza 2, marcând trecerea de la relatarea cosmică a creației (unde apare doar „Elohim”, la capitolul 1) la relatarea mai personală a creării omului.",
-    "greek_def_ro": "Κύριος ὁ Θεός (Kyrios ho Theos) — Domnul Dumnezeu.",
-    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus tradițional „DOMNUL” — la Geneza 3, unit constant cu Elohim în combinația „YHVH Elohim” (folosită de narator), spre deosebire de șarpe, care rostește doar „Elohim” — o distincție remarcată de comentatori ca semn al distanței șarpelui față de relația personală cu Dumnezeu."
+    "t": "[DOMNUL Dumnezeu]"
    },
    {
     "t": " a "
@@ -2950,7 +2908,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ εἶπεν αὐτῷ Τίς ἀνήγγειλέν σοι ὅτι γυμνὸς εἶ, εἰ μὴ ἀπὸ τοῦ ξύλου, οὗ ἐνετειλάμην σοι τούτου μόνου μὴ φαγεῖν ἀπ᾿ αὐτοῦ, ἔφαγες;",
+    "original": "καὶ εἶπεν αὐτῷ Τίς ἀνήγγειλέν σοι ὅτι γυμνὸς εἶ, μὴ ἀπὸ τοῦ ξύλου, οὗ ἐνετειλάμην σοι τούτου μόνου μὴ φαγεῖν ἀπ᾿ αὐτοῦ, ἔφαγες;",
     "greek": true,
     "translation": "",
     "note": ""
@@ -3634,12 +3592,13 @@ window.CHAPTER_DATA = [
     "translit": "gechonkha",
     "strong": "H1512",
     "pos": "substantiv",
-    "greek": "τοῦ στήθους",
+    "greek": "τῷ στήθει σου καὶ τῇ κοιλίᾳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "pântecul tău.",
     "def_ro": "pântece, burtă — partea de jos a trupului pe care se târăște șarpele.",
-    "greek_def_ro": "τὸ στῆθος (to stethos) — piept/pântece.",
-    "dict_ro": "Gachon, „pântece, burtă”, cuvânt rar — la Geneza 3:14, șarpele e osândit să se târască „pe pântecele tău”, imagine a înjosirii, spre deosebire de statura anterioară presupusă de unii comentatori evrei."
+    "greek_def_ro": "τὸ στῆθος (to stethos) — piept; ἡ κοιλία (he koilia) — pântece.",
+    "dict_ro": "Gachon, „pântece, burtă”, cuvânt rar — la Geneza 3:14, șarpele e osândit să se târască „pe pântecele tău”, imagine a înjosirii, spre deosebire de statura anterioară presupusă de unii comentatori evrei.",
+    "diff_ro": "Septuaginta are două cuvinte, „pe pieptul tău și pe pântece” (ἐπὶ τῷ στήθει σου καὶ τῇ κοιλίᾳ), acolo unde ebraica are unul singur, גָּחוֹן („pântece”)."
    },
    {
     "t": " tău să "
@@ -4558,12 +4517,11 @@ window.CHAPTER_DATA = [
     "translit": "lemor",
     "strong": "H559",
     "pos": "verb",
-    "greek": "λέγων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "spunând.",
     "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
-    "greek_def_ro": "λέγω (lego) — a spune, a vorbi.",
-    "dict_ro": "Verbul amar, „a zice, a spune” — dialogul din Geneza 3 e structurat aproape în întregime prin acest verb: șarpele zice, femeia zice, Dumnezeu zice, marcând treptat mișcarea de la ispită la cădere la judecată."
+    "dict_ro": "Verbul amar, „a zice, a spune” — dialogul din Geneza 3 e structurat aproape în întregime prin acest verb: șarpele zice, femeia zice, Dumnezeu zice, marcând treptat mișcarea de la ispită la cădere la judecată.",
+    "diff_ro": "Septuaginta nu redă ebraicul לֵאמֹר („spunând”)."
    },
    {
     "t": ": «Nu "
@@ -5058,7 +5016,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "întoarcerea ta.",
     "def_ro": "a se întoarce, a reveni.",
-    "greek_def_ro": "ἀποστρέφω (apostrepho) — a (se) întoarce.",
+    "greek_def_ro": "ἀποστρέφω (apostrepho) — a (se) întoarce (aici infinitiv: „până la întoarcerea ta”).",
     "dict_ro": "Verbul shuv, „a se întoarce, a reveni” — la Geneza 3:19, omul se va întoarce (tashuv) în pământul din care fusese luat — verbul care leagă începutul și sfârșitul existenței omenești în cadrul căderii."
    },
    {
@@ -5139,11 +5097,11 @@ window.CHAPTER_DATA = [
     "translit": "tashuv",
     "strong": "H7725",
     "pos": "verb",
-    "greek": "ἀποστραφήσῃ",
+    "greek": "ἀποστρέψαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "te vei întoarce.",
     "def_ro": "a se întoarce, a reveni.",
-    "greek_def_ro": "ἀποστρέφω (apostrepho) — a (se) întoarce.",
+    "greek_def_ro": "ἀποστρέφω (apostrepho) — a (se) întoarce (aici infinitiv: „până la întoarcerea ta”).",
     "dict_ro": "Verbul shuv, „a se întoarce, a reveni” — la Geneza 3:19, omul se va întoarce (tashuv) în pământul din care fusese luat — verbul care leagă începutul și sfârșitul existenței omenești în cadrul căderii."
    },
    {
@@ -5268,12 +5226,13 @@ window.CHAPTER_DATA = [
     "translit": "ha'adam",
     "strong": "H120",
     "pos": "substantiv",
-    "greek": "ὁ Ἀδάμ",
+    "greek": "Ἀδάμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "omul.",
     "def_ro": "om, omenire — propriu-zis, „roșiatic”; folosit pentru un singur om sau pentru neamul omenesc întreg.",
-    "greek_def_ro": "ἄνθρωπος (anthropos) — om, ființă omenească.",
-    "dict_ro": "Adam, „om”, cu articol hotărât la Geneza 3 (ha-adam, „omul”) — deosebit de folosirea ca nume propriu, care apare fără articol. Trecerea de la „omul” la numele propriu Adam se face treptat în text, finalizată abia la Geneza 4:25."
+    "greek_def_ro": "Ἀδάμ (Adam) — Adam, omul.",
+    "dict_ro": "Adam, „om”, cu articol hotărât la Geneza 3 (ha-adam, „omul”) — deosebit de folosirea ca nume propriu, care apare fără articol. Trecerea de la „omul” la numele propriu Adam se face treptat în text, finalizată abia la Geneza 4:25.",
+    "diff_ro": "Ebraica are cuvântul comun „omul” (ha-adam, cu articol); greaca îl redă ca nume propriu, „Adam”."
    },
    {
     "t": " i-a "
@@ -5674,12 +5633,13 @@ window.CHAPTER_DATA = [
     "translit": "ha'adam",
     "strong": "H120",
     "pos": "substantiv",
-    "greek": "ὁ Ἀδάμ",
+    "greek": "Ἀδάμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "omul.",
     "def_ro": "om, omenire — propriu-zis, „roșiatic”; folosit pentru un singur om sau pentru neamul omenesc întreg.",
-    "greek_def_ro": "ἄνθρωπος (anthropos) — om, ființă omenească.",
-    "dict_ro": "Adam, „om”, cu articol hotărât la Geneza 3 (ha-adam, „omul”) — deosebit de folosirea ca nume propriu, care apare fără articol. Trecerea de la „omul” la numele propriu Adam se face treptat în text, finalizată abia la Geneza 4:25."
+    "greek_def_ro": "Ἀδάμ (Adam) — Adam, omul.",
+    "dict_ro": "Adam, „om”, cu articol hotărât la Geneza 3 (ha-adam, „omul”) — deosebit de folosirea ca nume propriu, care apare fără articol. Trecerea de la „omul” la numele propriu Adam se face treptat în text, finalizată abia la Geneza 4:25.",
+    "diff_ro": "Ebraica are cuvântul comun „omul” (ha-adam, cu articol); greaca îl redă ca nume propriu, „Adam”."
    },
    {
     "t": " a "
