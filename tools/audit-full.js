@@ -8,6 +8,7 @@ const heClean = s => String(s).replace(/<[^>]*>/g, ' ').replace(/&[a-z]+;/g, ' '
 const cons = s => String(s).replace(/<[^>]*>/g, '').replace(/&[a-z]+;/g, '').replace(/\{[^}]*\}/g, '').replace(/[^א-ת]/g, '').replace(/[ךםןףץ]/g, c => ({ ך: 'כ', ם: 'מ', ן: 'נ', ף: 'פ', ץ: 'צ' }[c]));
 const hk = s => String(s).replace(/[־\-]/g, ' ').replace(/[֑-ׇ]/g, '').replace(/\s+/g, ' ').trim();
 const LX = JSON.parse(fs.readFileSync('data/ref-lxx-rahlfs-gen.json', 'utf8')), HE = JSON.parse(fs.readFileSync('data/ref-mt-sefaria-gen.json', 'utf8'));
+for (const kk of Object.keys(HE)) HE[kk] = HE[kk].replace(/<sup[^>]*>[^<]*<\/sup>\s*<i class="footnote">[\s\S]*?<\/i>/g, '');
 const SP = JSON.parse(fs.readFileSync('Pentateuch Samaritean/samaritan_pentateuch.json', 'utf8')).books[0].chapters;
 const lib = fs.readFileSync('public/library-data.js', 'utf8'); const i0 = lib.indexOf('const LIBRARY = ') + 16;
 const rosen = JSON.parse(lib.slice(i0, lib.indexOf('\n', i0)).trim().replace(/;$/, '')).arhivaRabinica.subfolders[0].items[0];
