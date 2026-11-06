@@ -41,6 +41,10 @@ Regula fermă din tot documentul rămâne valabilă aici la fel: **niciodată nu
 - `public/images/` — 53+ fișiere (poze de fundal, iconițe)
 - `genesis-1.js`, `genesis-2.js`, `genesis-3.js` — singurele capitole cu lexicon Strong's+BDB și panou „Dicționar biblic" (`dict_ro`) integrate până acum, la nivelul complet al Standardului Davar (vezi mai jos)
 
+### Pornire rapidă (6 nov. 2026, pașii 5–10)
+- O cerere către server costă ~0,6 s (originea Render e departe; Cloudflare nu memorează HTML). Deci `server.js` dă pagina HTML cu `max-age=300, stale-while-revalidate=1 săptămână` și scripturile cu `?v=` cu `max-age=1 zi`: la redeschidere pagina vine din memoria telefonului, fără rețea. **La orice schimbare de conținut într-un script cu `?v=` (citate.js, sarbatori-detalii.js, tanakh/index.js, library-data.js, search-haftarot.js) se crește `?v=`**; după un deploy, schimbarea HTML se vede la a doua deschidere.
+- Pagina: fundal închis din prima clipă; acoperire cu imaginea DAVAR doar în browser (NU în aplicația instalată: acolo e imaginea sistemului, altfel apar două imagini), dispare când apar versetul+citatul+antetul sau la 1,2 s; `window.afterUI(fn)` rulează lucruri după interfață: istoria zilei (evenimente/nașteri/comemorări) și modulul hebcal (calendar + pericopa, `<script type="text/plain" id="deferred-module">`); versetul zilei vine din `VOTD_MINI` în pagină (generat din search-haftarot.js pentru lista `VOTD_CURATED`; se reface dacă se schimbă lista sau textul Haftarot); Geneza 1 se încarcă după Acasă (`ensureFirstChapter`).
+
 ### Siglă/iconițe — gata
 Fundal albastru deschis, DAVAR auriu, flacără completă, aplicată la toate 4 dimensiunile de iconiță + `manifest.json`, cu `?v=8` pentru cache-busting. Dacă se schimbă din nou: nu se taie niciodată din imagine — dacă nu-i deja pătrată, se extinde fundalul lateral (gradient continuat), nu se decupează flacăra. Verifică vizual la 48px înainte de livrare.
 

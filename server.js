@@ -27,6 +27,7 @@ if (!process.env.OPENAI_API_KEY) {
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 app.use(cors());
+app.use((req, res, next) => { if(req.method === "GET" && req.path === "/") req.url = "/biblie-demo.html" + (req.url.slice(1) || ""); next(); }); // adresa de bază servește pagina direct, fără redirecționare (încă 0,6 s)
 app.use(express.json({ limit: "1mb" }));
 
 // Compresie gzip pentru fișierele text (html, js, json, css): pagina principală
@@ -40,6 +41,14 @@ const zlib = require("zlib");
 const PUBLIC_DIR = path.join(__dirname, "public");
 const GZIP_TYPES = { ".html": "text/html; charset=UTF-8", ".js": "application/javascript; charset=UTF-8", ".json": "application/json; charset=UTF-8", ".css": "text/css; charset=UTF-8" };
 const gzCache = new Map();
+// Pornirea rapidă: fiecare cerere către server costă ~0,6 s (originea e departe de telefon), deci pagina și scripturile cu ?v= se țin în memoria telefonului.
+// Pagina: 5 min proaspătă, apoi se afișează instant versiunea salvată și se reînnoiește în fundal (Chrome/Android); la o actualizare se vede la a doua deschidere.
+// Scripturile cu ?v= (citate, sarbatori-detalii, tanakh/index, library-data, search-haftarot): 1 zi + reînnoire în fundal; la schimbarea conținutului se crește ?v=.
+function cacheFor(req, ext){
+  if(ext === ".html") return "public, max-age=300, stale-while-revalidate=604800";
+  if(ext === ".js" && req.query && req.query.v) return "public, max-age=86400, stale-while-revalidate=604800";
+  return "no-cache";
+}
 app.use((req, res, next) => {
   if (req.method !== "GET") return next();
   if (!/\bgzip\b/.test(req.headers["accept-encoding"] || "")) return next();
@@ -53,7 +62,7 @@ app.use((req, res, next) => {
     if (err || !st.isFile()) return next();
     const etag = 'W/"gz-' + st.size.toString(16) + "-" + Math.floor(st.mtimeMs).toString(16) + '"';
     res.setHeader("Vary", "Accept-Encoding");
-    res.setHeader("Cache-Control", "no-cache");
+    res.setHeader("Cache-Control", cacheFor(req, path.extname(rel).toLowerCase()));
     res.setHeader("ETag", etag);
     if (req.headers["if-none-match"] === etag) { res.statusCode = 304; return res.end(); }
     const cached = gzCache.get(file);
@@ -88,6 +97,8 @@ app.use(express.static(path.join(__dirname, "public"), {
   setHeaders: (res, filePath) => {
     if (filePath.includes(path.join("public", "images"))) {
       res.setHeader("Cache-Control", "public, max-age=2592000, immutable"); // 30 zile
+    } else if(filePath.endsWith(".html")) {
+      res.setHeader("Cache-Control", "public, max-age=300, stale-while-revalidate=604800");
     } else {
       res.setHeader("Cache-Control", "no-cache");
     }
