@@ -3313,15 +3313,13 @@
 <script defer src="https://cloud.umami.is/script.js" data-website-id="24de0c9d-c5ea-4ff6-b741-2dc3e0c35fd6"></script>
 
 <style>
-.lib-conf{display:flex;align-items:flex-start;gap:8px;margin:8px 12px 0;padding:8px 10px;border:1px solid rgba(240,196,25,.55);border-radius:12px;background:rgba(240,196,25,.10);color:#f3e6b0;font:600 12.5px/1.4 Inter,system-ui,sans-serif;}
-.lib-conf[hidden]{display:none;}
-.lib-conf-text a{color:#f0c419;text-decoration:underline;}
-.lib-conf-x{margin-left:auto;background:none;border:0;color:#f3e6b0;font-size:14px;padding:0 2px;cursor:pointer;}
-.lib-reader-modal:not(.lib-reader-inline).show::after{content:"";position:absolute;inset:0;pointer-events:none;z-index:6;background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='170'><text x='120' y='90' text-anchor='middle' transform='rotate(-28 120 85)' font-family='sans-serif' font-size='15' font-weight='700' letter-spacing='3' fill='rgba(150,150,150,0.10)'>DAVAR · CONFIDENȚIAL</text></svg>") repeat;}
-.lib-reader-modal.lib-blur .lib-reader-body{filter:blur(18px);}
-#lib-shield{position:fixed;inset:0;z-index:200;display:none;align-items:center;justify-content:center;padding:30px;text-align:center;background:rgba(10,18,38,.96);color:#f0c419;font:700 17px/1.5 Inter,system-ui,sans-serif;}
+#lib-shield{position:fixed;inset:0;z-index:300;display:none;flex-direction:column;align-items:center;justify-content:flex-start;padding:90px 28px 0;text-align:center;background:#f2f2f4;color:#3b3b40;font:500 17px/1.45 -apple-system,Inter,system-ui,sans-serif;}
 #lib-shield.show{display:flex;}
-.info-panel.over-reader{z-index:95;}.info-backdrop.over-reader{z-index:94;}
+#lib-shield .sh-ico{font-size:38px;margin-bottom:14px;}
+#lib-shield .sh-box{margin-top:46vh;width:min(300px,86vw);background:#e4e4e7;border-radius:14px;overflow:hidden;box-shadow:0 8px 30px rgba(0,0,0,.18);}
+#lib-shield .sh-t{padding:16px 16px 4px;font-weight:700;font-size:16px;color:#1d1d1f;}
+#lib-shield .sh-m{padding:0 16px 14px;font-size:13.5px;color:#3b3b40;}
+#lib-shield .sh-ok{display:block;width:100%;border:0;border-top:1px solid #c7c7cc;background:none;padding:12px;font:600 17px -apple-system,Inter,system-ui,sans-serif;color:#0a64d6;cursor:pointer;}
 @media print{#lib-reader-modal{display:none!important;}}
 </style>
 </head>
@@ -3578,7 +3576,6 @@
       <button class="lib-reader-info" id="lib-reader-info" title="Detalii ediție">ⓘ</button>
       <button class="lib-reader-x" id="lib-reader-close" title="Închide">✕</button>
     </div>
-    <div class="lib-conf" id="lib-conf" hidden><span class="lib-conf-lock">🔒</span><span class="lib-conf-text"><b>Conținut confidențial.</b> Textele din Bibliotecă sunt protejate: copierea și capturile de ecran nu sunt permise. <a href="#" id="lib-conf-link">Citește politica de confidențialitate</a></span><button class="lib-conf-x" id="lib-conf-x" aria-label="Închide mesajul">✕</button></div>
     <div class="lib-reader-body" id="lib-reader-body"></div>
     <div class="lib-reader-nav">
       <button id="lib-reader-prev" class="chapter-nav-btn-inline" aria-label="Capitolul anterior">‹</button>
@@ -9989,17 +9986,14 @@ async function initHebrewCalendar(){
 
 initHebrewCalendar();
 </script>
-<div id="lib-shield"></div>
-<script>/* Protecția textelor din Bibliotecă (cititorul). Un site nu poate bloca tehnic capturile de pe telefon: aici sunt mesajul de confidențialitate, filigranul, estomparea la ieșirea din aplicație și blocarea scurtăturilor de pe calculator. */(function(){var m=document.getElementById("lib-reader-modal"),box=document.getElementById("lib-conf"),lnk=document.getElementById("lib-conf-link"),xb=document.getElementById("lib-conf-x"),sh=document.getElementById("lib-shield");if(!m||!box)return;var was=false,dismissed=false;function active(){return m.classList.contains("show")&&!m.classList.contains("lib-reader-inline");}
-new MutationObserver(function(){var a=active();if(a&&!was)dismissed=false;box.hidden=!a||dismissed;if(!a&&m.classList.contains("lib-blur"))m.classList.remove("lib-blur");was=a;}).observe(m,{attributes:true,attributeFilter:["class"]});
-xb.addEventListener("click",function(){dismissed=true;box.hidden=true;});
-lnk.addEventListener("click",function(e){e.preventDefault();var p=document.getElementById("info-panel"),b=document.getElementById("info-backdrop");p.classList.add("over-reader");b.classList.add("over-reader");openInfoPanel();var body=document.getElementById("info-privacy-body"),tg=document.getElementById("info-privacy-toggle");if(body&&body.style.display==="none")tg.click();setTimeout(function(){tg.scrollIntoView({block:"start",behavior:"smooth"});},300);});
-new MutationObserver(function(){var p=document.getElementById("info-panel");if(!p.classList.contains("show")&&p.classList.contains("over-reader")){p.classList.remove("over-reader");document.getElementById("info-backdrop").classList.remove("over-reader");}}).observe(document.getElementById("info-panel"),{attributes:true,attributeFilter:["class"]});
-function blur(on){var want=on&&active();if(m.classList.contains("lib-blur")!==want)m.classList.toggle("lib-blur",want);}
-document.addEventListener("visibilitychange",function(){blur(document.visibilityState==="hidden");});window.addEventListener("blur",function(){blur(true);});window.addEventListener("focus",function(){blur(false);});window.addEventListener("pagehide",function(){blur(true);});window.addEventListener("pageshow",function(){blur(false);});
-var t;function shield(){if(!active())return;sh.textContent="🔒 Conținut confidențial — capturile de ecran nu sunt permise.";sh.classList.add("show");clearTimeout(t);t=setTimeout(function(){sh.classList.remove("show");},3000);}
-document.addEventListener("keydown",function(e){var k=(e.key||"").toLowerCase();if(!active())return;if(e.key==="PrintScreen"||((e.metaKey||e.ctrlKey)&&e.shiftKey&&(k==="s"||k==="3"||k==="4"||k==="5"))){shield();try{navigator.clipboard.writeText("");}catch(x){}}});
-document.addEventListener("keyup",function(e){if(e.key==="PrintScreen"){shield();try{navigator.clipboard.writeText("");}catch(x){}}});})();</script>
+<div id="lib-shield"><div class="sh-ico">🔒</div><div>Captura sau înregistrarea ecranului nu este permisă.</div><div class="sh-box"><div class="sh-t">Acțiune nepermisă</div><div class="sh-m">Capturile de ecran și înregistrarea ecranului nu sunt permise pentru textele din Bibliotecă.</div><button class="sh-ok" id="lib-shield-ok">OK</button></div></div>
+<script>/* Textele din Bibliotecă: la o captură/înregistrare detectabilă sau la ieșirea din aplicație, ecranul devine alb cu mesaj. Un site nu poate detecta o captură făcută cu butoanele telefonului; asta e posibil doar într-o aplicație nativă. */(function(){var m=document.getElementById("lib-reader-modal"),sh=document.getElementById("lib-shield"),ok=document.getElementById("lib-shield-ok");if(!m||!sh)return;function active(){return m.classList.contains("show")&&!m.classList.contains("lib-reader-inline");}
+var sticky=false;function show(isSticky){if(!active())return;sh.classList.add("show");if(isSticky)sticky=true;}function hide(){sticky=false;sh.classList.remove("show");}
+ok.addEventListener("click",hide);
+document.addEventListener("visibilitychange",function(){if(document.visibilityState==="hidden")show(false);else if(!sticky)hide();});window.addEventListener("blur",function(){show(false);});window.addEventListener("focus",function(){if(!sticky)hide();});window.addEventListener("pagehide",function(){show(false);});window.addEventListener("pageshow",function(){if(!sticky)hide();});
+function key(e){var k=(e.key||"").toLowerCase();if(!active())return;if(e.key==="PrintScreen"||((e.metaKey||e.ctrlKey)&&e.shiftKey&&(k==="s"||k==="3"||k==="4"||k==="5"))){show(true);try{navigator.clipboard.writeText("");}catch(x){}}}
+document.addEventListener("keydown",key);document.addEventListener("keyup",function(e){if(e.key==="PrintScreen")key(e);});
+new MutationObserver(function(){if(!active()&&sh.classList.contains("show"))hide();}).observe(m,{attributes:true,attributeFilter:["class"]});})();</script>
 <script>window.afterUI(function(){document.querySelectorAll("img[data-src]").forEach(function(i){i.src=i.getAttribute("data-src");});}); // logo-urile posturilor radio se încarcă după interfață
 window.afterUI(function(){var L=["header-bg-diverse.jpg?v=6","category-canonic.jpg","category-arhivarabinica.jpg","category-patristice.jpg","category-deuterocanonic.jpg","category-pseudepigraf.jpg","category-apocrifent.jpg","subfolder-apocrifent-1.jpg","subfolder-apocrifent-2.jpg","subfolder-apocrifent-3.jpg","subfolder-apocrifent-4.jpg","subfolder-apocrifent-5.jpg","subfolder-arhivarabinica-1.jpg","subfolder-arhivarabinica-2.jpg","subfolder-arhivarabinica-3.jpg","subfolder-arhivarabinica-4.jpg","subfolder-arhivarabinica-5.jpg","subfolder-arhivarabinica-6.jpg","subfolder-canonic-1.jpg","subfolder-canonic-2.jpg","subfolder-deuterocanonic-1.jpg","subfolder-deuterocanonic-2.jpg","subfolder-deuterocanonic-3.jpg","subfolder-deuterocanonic-4.jpg","subfolder-deuterocanonic-5.jpg","subfolder-deuterocanonic-6.jpg","subfolder-patristice-1.jpg","subfolder-patristice-2.jpg","subfolder-patristice-3.jpg","subfolder-patristice-4.jpg","subfolder-pseudepigraf-1.jpg","subfolder-pseudepigraf-2.jpg","subfolder-pseudepigraf-3.jpg","subfolder-pseudepigraf-4.jpg","subfolder-pseudepigraf-5.jpg","subfolder-pseudepigraf-6.jpg","subfolder-pseudepigraf-7.jpg"],k=0;function go(){if(k>=L.length)return;var i=new Image();i.onload=i.onerror=go;i.src="images/"+L[k++];if(i.decode)i.decode().catch(function(){});}go();go();}); // imaginile din Diverse (antet, carduri, imaginile fiecărui folder) se pregătesc după interfață, câte 2 deodată, ca tab-urile și folderele să se deschidă instant
 window.afterUI(function(){var m=document.getElementById("deferred-module"),s=document.createElement("script");s.type="module";s.textContent=m.textContent;document.body.appendChild(s);}); // calendarul evreiesc și pericopa se încarcă ultimele, după interfață</script>
