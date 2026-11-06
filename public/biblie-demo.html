@@ -3312,6 +3312,9 @@
 <script defer src="https://cloud.umami.is/script.js" data-website-id="24de0c9d-c5ea-4ff6-b741-2dc3e0c35fd6"></script>
 </head>
 <body>
+<!-- imaginea DAVAR acoperă pagina până apar datele din Acasă (max ~1,5 s) -->
+<div id="boot-cover" style="position:fixed;inset:0;z-index:99999;background:radial-gradient(ellipse 58% 34% at 50% 50%,#1f4fa3 0%,#14336f 38%,#0a1226 78%),#0a1226;transition:opacity .25s ease;"><div style="position:absolute;left:50%;top:50%;width:min(100vw,100vh);height:min(100vw,100vh);transform:translate(-50%,-50%);background:url(images/davar-splash.jpg?v=1) center/100% 100% no-repeat;-webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 7%,#000 93%,transparent 100%);mask-image:linear-gradient(to bottom,transparent 0,#000 7%,#000 93%,transparent 100%);"></div></div>
+<script>(function(){var c=document.getElementById("boot-cover"),t0=Date.now();function done(){if(!c)return;var x=c;c=null;x.style.opacity="0";x.style.pointerEvents="none";setTimeout(function(){if(x.parentNode)x.parentNode.removeChild(x);},300);}function ready(){var v=document.getElementById("home-verse-text"),q=document.getElementById("home-quote");return v&&v.textContent.length>5&&q&&q.textContent.length>5;}var t=setInterval(function(){if(ready()||performance.now()>1200){clearInterval(t);done();}},30);})();</script>
 <div id="splash-screen-DISABLED" style="display:none;">
   <div class="splash-logo-wrap">
     <img src="images/splash-logo.jpg" alt="DAVAR" class="splash-logo-img">
