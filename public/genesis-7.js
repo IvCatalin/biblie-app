@@ -1908,7 +1908,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῆς ἀβύσσου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
-    "def_ro": "adâncului — aceeași rădăcină ca la Geneza 1:2.",
+    "def_ro": "adânc, apa originară de la început; același cuvânt ca la 1:2.",
     "greek_def_ro": "ἄβυσσος (abyssos) — adânc (la genitiv: „al adâncului”).",
     "dict_ro": "Tehom, „adânc, apa originară”, același cuvânt ca la 1:2. La 7:11 adâncul se deschide din nou: apele despărțite la creație se întorc peste pământ."
    },
