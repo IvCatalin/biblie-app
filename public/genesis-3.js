@@ -912,7 +912,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ומפרי העץ הזה אשר בתוך הגן אמר אלהים לא תאכלו ממנו ולא תגעו בו פן תמותון — „But of the fruit of the tree this, which in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.”",
+    "translation": "Diferență reală, confirmată: ומפרי העץ הזה אשר בתוך הגן אמר אלהים לא תאכלו ממנו ולא תגעו בו פן תמותון — „Dar din rodul pomului care este în mijlocul grădinii, Dumnezeu a spus: «Să nu mâncați din el și nici să nu vă atingeți de el, ca nu cumva să muriți.»”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -1032,7 +1032,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויאמר הנחש אל האשה לא מות תמותון — „And the serpent said unto the woman, Ye shall not surely die:”",
+    "translation": "Diferență reală, confirmată: ויאמר הנחש אל האשה לא מות תמותון — „Șarpele i-a spus femeii: „Negreșit că nu veți muri;”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -1783,7 +1783,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ותרא האשה כי טוב העץ למאכל וכי תאוה הוא לעינים ונחמד העץ להשכיל ותקח מפריו ותאכל ותתן גם לאישה עמה ויאכלו — „And when the woman saw that the tree [was] good for food, and that it [was] pleasant to the eyes, and a tree to be desired to make [one] wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.”",
+    "translation": "Diferență reală, confirmată: ותרא האשה כי טוב העץ למאכל וכי תאוה הוא לעינים ונחמד העץ להשכיל ותקח מפריו ותאכל ותתן גם לאישה עמה ויאכלו — „Și femeia a văzut că pomul este bun de mâncat și că este o desfătare pentru ochi și că pomul este de dorit ca să dea pricepere; a luat din rodul lui și a mâncat, și a dat și bărbatului ei care era cu ea, și au mâncat.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -1890,7 +1890,7 @@ window.CHAPTER_DATA = [
     "greek": "φύλλα συκῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "frunză de smochin.",
-    "def_ro": "smochin.",
+    "def_ro": "smochin, smochinul — pomul ale cărui frunze au acoperit goliciunea lor (3:7).",
     "greek_def_ro": "συκῆ (syke) — smochin.",
     "dict_ro": "Teenah, „smochin” — la Geneza 3:7, Adam și Eva își cos laolaltă frunze de smochin ca să-și facă șorțuri, prima încercare omenească de a-și acoperi rușinea."
    },
@@ -2041,7 +2041,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ותפקחנה עיני שניהם וידעו כי ערמים הם ויתפארו עלי תאנה ויעשו להם חגרות — „And the eyes of them both were opened, and they knew that they [were] naked; and they sewed fig leaves together, and made themselves aprons.”",
+    "translation": "Diferență reală, confirmată: ותפקחנה עיני שניהם וידעו כי ערמים הם ויתפארו עלי תאנה ויעשו להם חגרות — „Și li s-au deschis ochii amândurora și au cunoscut că sunt goi; și au cusut o frunză de smochin și și-au făcut șorțuri.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2324,7 +2324,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 2.24",
-    "text": "Nu doar prin răbdarea arătată a voit Dumnezeu să-i ajute; a voit să-i și binefacă prin sunetul pașilor Săi. Dumnezeu a dat pașilor Săi tăcuți un sunet, ca Adam și Eva să fie pregătiți, la acel sunet, să se roage înaintea Celui ce făcea sunetul."
+    "text": "Nu doar prin răbdarea arătată a voit Dumnezeu să-i ajute; a voit să le și facă bine prin sunetul pașilor Săi. Dumnezeu a dat pașilor Săi tăcuți un sunet, ca Adam și Eva să fie pregătiți, la acel sunet, să se roage înaintea Celui ce făcea sunetul."
    },
    {
     "author": "Ieronim, Omilia 1 (la Psalmul 1)",
@@ -2363,7 +2363,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: וישמעו את קול יהוה אלהים מתהלך בגן לרוח היום ויתחבא אדם ואשתו מפני יהוה אלהים בתוך עץ הגן — „And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.”",
+    "translation": "Diferență reală, confirmată: וישמעו את קול יהוה אלהים מתהלך בגן לרוח היום ויתחבא אדם ואשתו מפני יהוה אלהים בתוך עץ הגן — „Și au auzit sunetul DOMNULUI Dumnezeu umblând prin grădină în adierea zilei și omul și soția lui s-au ascuns dinaintea DOMNULUI Dumnezeu printre pomii grădinii.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2444,7 +2444,7 @@ window.CHAPTER_DATA = [
     "greek": "Ποῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "unde.",
-    "def_ro": "unde?",
+    "def_ro": "unde? — particulă interogativă (3:9; 4:9).",
     "greek_def_ro": "ποῦ (pou) — unde.",
     "dict_ro": "Ayyeh, „unde?”, particulă interogativă — la Geneza 3:9, prima întrebare pusă de Dumnezeu omului după cădere: „Adame, unde ești?” — nu din neștiință, ci ca o chemare la conștiință și mărturisire, potrivit interpretării tradiționale evreiești."
    },
@@ -2717,7 +2717,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויאמר את קולך שמעתי בגן ואירא כי ערום אנכי ואחבא — „And he said, I heard thy voice in the garden, and I was afraid, because I [was] naked; and I hid myself.”",
+    "translation": "Diferență reală, confirmată: ויאמר את קולך שמעתי בגן ואירא כי ערום אנכי ואחבא — „Și [omul] a spus: „Ți-am auzit sunetul în grădină și m-am temut pentru că sunt gol și m-am ascuns.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2916,7 +2916,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויאמר מי הגיד לך כי ערום אתה המן העץ אשר צויתיך לבלתי אכל ממנו אכלת — „And he said, Who told thee that thou [wast] naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?”",
+    "translation": "Diferență reală, confirmată: ויאמר מי הגיד לך כי ערום אתה המן העץ אשר צויתיך לבלתי אכל ממנו אכלת — „Și [DOMNUL Dumnezeu] a spus: „Cine ți-a spus că ești gol? Ai mâncat oare din pomul din care îți poruncisem să nu mănânci?”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3227,7 +3227,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויאמר האדם האשה אשר נתתה עמדי היא נתנה לי מן העץ ואכל — „And the man said, The woman whom thou gavest [to be] with me, she gave me of the tree, and I did eat.”",
+    "translation": "Diferență reală, confirmată: ויאמר האדם האשה אשר נתתה עמדי היא נתנה לי מן העץ ואכל — „Omul a spus: „Femeia pe care mi-ai dat-o cu mine – ea mi-a dat din pom și am mâncat.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3367,7 +3367,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויאמר יהוה אלהים לאשה מה זאת עשיתי ותאמר האשה הנחש השיני ואכל — „And the LORD God said unto the woman, What [is] this [that] thou hast done? And the woman said, The serpent beguiled me, and I did eat.”",
+    "translation": "Diferență reală, confirmată: ויאמר יהוה אלהים לאשה מה זאת עשיתי ותאמר האשה הנחש השיני ואכל — „Și DOMNUL Dumnezeu i-a spus femeii: „Ce ai făcut?” Și femeia a spus: „Șarpele m-a înșelat și am mâncat.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3597,7 +3597,7 @@ window.CHAPTER_DATA = [
     "def": "pântecul tău.",
     "def_ro": "pântece, burtă — partea de jos a trupului pe care se târăște șarpele.",
     "greek_def_ro": "τὸ στῆθος (to stethos) — piept; ἡ κοιλία (he koilia) — pântece.",
-    "dict_ro": "Gachon, „pântece, burtă”, cuvânt rar — la Geneza 3:14, șarpele e osândit să se târască „pe pântecele tău”, imagine a înjosirii, spre deosebire de statura anterioară presupusă de unii comentatori evrei.",
+    "dict_ro": "Gachon, „pântece, burtă”, cuvânt rar — la 3:14 șarpele e osândit să se târască „pe pântecele tău”, imagine a înjosirii, spre deosebire de starea lui de dinainte, în care unii comentatori evrei îl văd mergând drept.",
     "diff_ro": "Septuaginta are două cuvinte, „pe pieptul tău și pe pântece” (ἐπὶ τῷ στήθει σου καὶ τῇ κοιλίᾳ), acolo unde ebraica are unul singur, גָּחוֹן („pântece”)."
    },
    {
@@ -4413,7 +4413,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ואל האשה אמר הרבה ארבה עצבוניך והריוניך בעצבון תלדי בנים ואל אישיך תשוקתיך והוא ימשל ביך — „And to the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire [shall be] to thy husband, and he shall rule over thee.”",
+    "translation": "Diferență reală, confirmată: ואל האשה אמר הרבה ארבה עצבוניך והריוניך בעצבון תלדי בנים ואל אישיך תשוקתיך והוא ימשל ביך — „Femeii i-a spus: „Voi spori foarte mult suferința ta și sarcina ta; în durere vei naște copii și către bărbatul tău îți va fi dorința și el va stăpâni peste tine.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -4964,7 +4964,7 @@ window.CHAPTER_DATA = [
     "greek": "ἐν ἱδρῶτι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "cu sudoarea.",
-    "def_ro": "sudoare.",
+    "def_ro": "sudoare, transpirație — la 3:19, truda omului pentru pâine.",
     "greek_def_ro": "ἱδρώς (hidros) — sudoare.",
     "dict_ro": "Zeah, „sudoare” — la Geneza 3:19, „în sudoarea feței tale vei mânca pâine”, expresie devenită proverbială pentru truda impusă omului de blestemul pământului."
    },
@@ -5210,7 +5210,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: בזעת אפיך תאכל לחם עד שובך אל האדמה כי ממנה לקחת כי עפר אתה ואל עפרך תשוב — „In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou [art], and unto your dust shalt thou return.”",
+    "translation": "Diferență reală, confirmată: בזעת אפיך תאכל לחם עד שובך אל האדמה כי ממנה לקחת כי עפר אתה ואל עפרך תשוב — „Cu sudoarea feței tale vei mânca pâine până te vei întoarce în pământ, căci din el ai fost luat. Căci țărână ești și în țărână te vei întoarce.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -5264,7 +5264,7 @@ window.CHAPTER_DATA = [
     "greek": "τὸ ὄνομα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "numele.",
-    "def_ro": "nume.",
+    "def_ro": "nume; și ceea ce face un om cunoscut: renume, cinste, autoritate.",
     "greek_def_ro": "ὄνομα (onoma) — nume.",
     "dict_ro": "Shem, „nume” — la Geneza 3:20, Adam dă soției lui numele Eva (Chavah), „pentru că ea a fost mama tuturor celor vii”."
    },
@@ -5316,7 +5316,7 @@ window.CHAPTER_DATA = [
     "greek": "μήτηρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "mama.",
-    "def_ro": "mamă.",
+    "def_ro": "mamă; la 3:20, Eva e numită „mama tuturor celor vii”.",
     "greek_def_ro": "μήτηρ (meter) — mamă.",
     "dict_ro": "Em, „mamă” — la Geneza 3:20, Adam își numește soția Eva (Chavah), „pentru că ea a fost mama tuturor celor vii”, act de credință în făgăduința vieții rostită chiar în mijlocul judecății."
    },
@@ -5428,7 +5428,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויקרא האדם שם אשתו חוה כי היא היתה אם כל חי — „And Adam called his wife's name Eve; because she was the mother of all living.”",
+    "translation": "Diferență reală, confirmată: ויקרא האדם שם אשתו חוה כי היא היתה אם כל חי — „Omul i-a pus soției sale numele Eva*Ebr: Hava, căci ea era mama a tot ce este viu.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -5582,7 +5582,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Fericitul Augustin, Despre Treime 12.11.16",
-    "text": "Adam și Eva, dezbrăcați de haina lor dintâi — a nevinovăției — au meritat, prin muritorimea lor, haine de piele. Căci adevărata cinste a omului e să fie chipul și asemănarea lui Dumnezeu, păstrată numai în legătură cu Cel de Care e întipărită. De aceea, se lipește de Dumnezeu cu atât mai mult, cu cât iubește mai puțin ce e al său. Dar prin dorința de a-și dovedi propria putere, omul, prin voia lui, cade în sine însuși, ca într-un fel de centru înlocuitor."
+    "text": "Adam și Eva, dezbrăcați de haina lor dintâi — a nevinovăției — au meritat, prin condiția lor de muritori, haine de piele. Căci adevărata cinste a omului e să fie chipul și asemănarea lui Dumnezeu, păstrată numai în legătură cu Cel de Care e întipărită. De aceea, se lipește de Dumnezeu cu atât mai mult, cu cât iubește mai puțin ce e al său. Dar prin dorința de a-și dovedi propria putere, omul, prin voia lui, cade în sine însuși, ca într-un fel de centru înlocuitor."
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 2.33.1",
@@ -5606,7 +5606,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויעש יהוה אלהים לאדם ולאשתו כיתנות עור וילבשם — „Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.”",
+    "translation": "Diferență reală, confirmată: ויעש יהוה אלהים לאדם ולאשתו כיתנות עור וילבשם — „Și DOMNUL Dumnezeu le-a făcut lui Adam și soției lui haine de piele și i-a îmbrăcat.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -5908,7 +5908,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויאמר יהוה אלהים הן האדם היה כאחד ממנו לדעת טוב ורע ועתה פן ישלח ידו ולקח גם מעץ החיים ואכל וחי לעולם — „And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:”",
+    "translation": "Diferență reală, confirmată: ויאמר יהוה אלהים הן האדם היה כאחד ממנו לדעת טוב ורע ועתה פן ישלח ידו ולקח גם מעץ החיים ואכל וחי לעולם — „Și DOMNUL Dumnezeu a spus: „Iată, omul a devenit precum Cel Unic dintre noi, cunoscând binele și răul; și acum, nu cumva să-și întindă mâna și să ia și din Pomul Vieții, să mănânce și să trăiască veșnic!”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -6401,7 +6401,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויגרש את האדם וישכן מקדם לגן עדן את הכרובים ואת לחט החרב המתהפכת לשמר את דרך עץ החיים — „So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.”",
+    "translation": "Diferență reală, confirmată: ויגרש את האדם וישכן מקדם לגן עדן את הכרובים ואת לחט החרב המתהפכת לשמר את דרך עץ החיים — „L-a alungat pe om și a așezat la răsărit de Grădina Edenului heruvimii și flacăra sabiei rotitoare, ca să păzească drumul către Pomul Vieții.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],

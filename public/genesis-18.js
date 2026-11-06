@@ -146,7 +146,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וירא אליו יהוה באלוני ממרא והוא ישב פתח האהל כחם היום",
-    "translation": "Diferență reală, confirmată: וירא אליו יהוה באלוני ממרא והוא ישב פתח האהל כחם היום — „And the LORD appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;”",
+    "translation": "Diferență reală, confirmată: וירא אליו יהוה באלוני ממרא והוא ישב פתח האהל כחם היום — „DOMNUL i S-a arătat [lui Avraham] în Elonei-Mamre, [pe când] el ședea la intrarea cortului, în arșița zilei.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -378,7 +378,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישא עיניו וירא והנה שלשה אנושים נצבים עליו וירא וירץ לקראתם מפתח האהל וישתחוי ארצה",
-    "translation": "Diferență reală, confirmată: וישא עיניו וירא והנה שלשה אנושים נצבים עליו וירא וירץ לקראתם מפתח האהל וישתחוי ארצה — „And he lift up his eyes and looked, and, lo, three men stood by him: and when he saw [them], he ran to meet them from the tent door, and bowed himself toward the ground”",
+    "translation": "Diferență reală, confirmată: וישא עיניו וירא והנה שלשה אנושים נצבים עליו וירא וירץ לקראתם מפתח האהל וישתחוי ארצה — „El și-a ridicat ochii și a văzut: și iată, trei oameni stând lângă el. El a văzut și a alergat în întâmpinarea lor din intrarea cortului și s-a prosternat spre pământ.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -531,7 +531,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אדני אם נא מצאתי חן בעיניכם אל נא תעברו מעל עבדכם",
-    "translation": "Diferență reală, confirmată: ויאמר אדני אם נא מצאתי חן בעיניכם אל נא תעברו מעל עבדכם — „And said, My Lord, if now I have found favour in thy sight, pass not away, I pray thee, from thy servant:”",
+    "translation": "Diferență reală, confirmată: ויאמר אדני אם נא מצאתי חן בעיניכם אל נא תעברו מעל עבדכם — „Și a spus: „Stăpâne, dacă am găsit bunăvoință în ochii Tăi, te rog, nu trece pe lângă slujitorul tău.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -668,7 +668,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "יקח נא מעט מים ורחצו רגליכם והשעינו תחת העץ",
-    "translation": "Diferență reală, confirmată: יקח נא מעט מים ורחצו רגליכם והשעינו תחת העץ — „Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree:”",
+    "translation": "Diferență reală, confirmată: יקח נא מעט מים ורחצו רגליכם והשעינו תחת העץ — „Să se ia, te rog, puțină apă și spălați-vă picioarele și rezemați-vă sub copac.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -866,7 +866,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואקח פת לחם וסעדו לבבכם ואחר תעברו כי על כן עברתם על עבדכם ויאמרו כן תעשה כאשר דברת",
-    "translation": "Diferență reală, confirmată: ואקח פת לחם וסעדו לבבכם ואחר תעברו כי על כן עברתם על עבדכם ויאמרו כן תעשה כאשר דברת — „And I will fetch a morsel of bread, and comfort ye your hearts; and after that ye shall pass on: for therefore are ye come to your servant. And they said, So do, as thou hast said.”",
+    "translation": "Diferență reală, confirmată: ואקח פת לחם וסעדו לבבכם ואחר תעברו כי על כן עברתם על עבדכם ויאמרו כן תעשה כאשר דברת — „Și eu voi lua o bucată de pâine și vă veți înviora inima; apoi veți trece [mai departe], căci de asta ați trecut pe la slujitorul vostru”. Ei au spus: „Așa să faci, precum ai vorbit.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1090,7 +1090,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וימהר אברהם האהלה אל שרה ויאמר מהרי שלש סים קמח סלת לושי ועשה עגות",
-    "translation": "Diferență reală, confirmată: וימהר אברהם האהלה אל שרה ויאמר מהרי שלש סים קמח סלת לושי ועשה עגות — „And Abraham hastened into the tent unto Sarah, and said, Make ready quickly three measures of fine meal, knead [it], and make cakes upon the hearth.”",
+    "translation": "Diferență reală, confirmată: וימהר אברהם האהלה אל שרה ויאמר מהרי שלש סים קמח סלת לושי ועשה עגות — „Avraham s-a grăbit către cort, la Sara, și a spus: „Grăbește-te! [Ia] trei măsuri de făină [și trei de] făină fină ! Frământă și fă turte!”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1504,7 +1504,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקח חמאה וחלב ואת בן הבקר אשר עשה ויתן לפניהם והוא עמד עליהם תחת העץ ויאכלו",
-    "translation": "Diferență reală, confirmată: ויקח חמאה וחלב ואת בן הבקר אשר עשה ויתן לפניהם והוא עמד עליהם תחת העץ ויאכלו — „And he took butter, and milk, and the calf which he had dressed, and set [it] before them; and he stood by them under the tree, and they did eat.”",
+    "translation": "Diferență reală, confirmată: ויקח חמאה וחלב ואת בן הבקר אשר עשה ויתן לפניהם והוא עמד עליהם תחת העץ ויאכלו — „Și a luat unt și lapte și tăurașul pe care îl pregătise și [le-]a pus în fața lor; iar el a stat în picioare înaintea lor sub copac și au mâncat.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1830,7 +1830,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר שוב אשוב אליך כעת חיה והנה בן לשרה אשתך ושרה שמעת פתח האהל והיא אחריו",
-    "translation": "Diferență reală, confirmată: ויאמר שוב אשוב אליך כעת חיה והנה בן לשרה אשתך ושרה שמעת פתח האהל והיא אחריו — „And he said, I will certainly return unto thee according to the time of life; and, lo, Sarah thy wife shall have a son. And Sarah heard [it] in the tent door, which [was] behind him.”",
+    "translation": "Diferență reală, confirmată: ויאמר שוב אשוב אליך כעת חיה והנה בן לשרה אשתך ושרה שמעת פתח האהל והיא אחריו — „Și el a spus: „Mă voi întoarce negreșit la tine la anul pe vremea aceasta și iată, Sara, soția ta va avea un fiu.” Iar Sara asculta la intrarea cortului, care era în spatele lui.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2843,7 +2843,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקמו משם האנושים וישקפו על פני סדם ואברהם הלך עמם לשלחם",
-    "translation": "Diferență reală, confirmată: ויקמו משם האנושים וישקפו על פני סדם ואברהם הלך עמם לשלחם — „And the men rose up from thence, and looked toward Sodom: and Abraham went with them to bring them on the way.”",
+    "translation": "Diferență reală, confirmată: ויקמו משם האנושים וישקפו על פני סדם ואברהם הלך עמם לשלחם — „Oamenii s-au ridicat de acolo și s-au uitat înspre Sodoma, iar Avraham a mers cu ei ca să-i conducă.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2964,7 +2964,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהוה אמר המכסה אני מאברהם את אשר אני עשה",
-    "translation": "Diferență reală, confirmată: ויהוה אמר המכסה אני מאברהם את אשר אני עשה — „And the LORD said, Shall I hide from Abraham that thing which I do;”",
+    "translation": "Diferență reală, confirmată: ויהוה אמר המכסה אני מאברהם את אשר אני עשה — „Și DOMNUL a spus: „Să ascund Eu oare de Avraham ce sunt pe cale să fac ?”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3151,7 +3151,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואברהם היו יהיה לגוי גדול ועצום ונברכו בו כל גוי הארץ",
-    "translation": "Diferență reală, confirmată: ואברהם היו יהיה לגוי גדול ועצום ונברכו בו כל גוי הארץ — „Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him?”",
+    "translation": "Diferență reală, confirmată: ואברהם היו יהיה לגוי גדול ועצום ונברכו בו כל גוי הארץ — „Iar Avraham va fi negreșit un neam mare și puternic și în el vor fi binecuvântate toate neamurile pământului.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3387,7 +3387,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "כי ידעתי למען אשר יצוה אברהם את בניו ואת ביתו אחריו ושמרו דרך יהוה לעשות צדקה ומשפט למען הביא יהוה על אברהם את אשר דבר עליו",
-    "translation": "Diferență reală, confirmată: כי ידעתי למען אשר יצוה אברהם את בניו ואת ביתו אחריו ושמרו דרך יהוה לעשות צדקה ומשפט למען הביא יהוה על אברהם את אשר דבר עליו — „For I know, that he will command Abraham with his children and his household after him, and they shall keep the way of the LORD, to do justice and judgment; that the LORD may bring upon Abraham that which he hath spoken of him.”",
+    "translation": "Diferență reală, confirmată: כי ידעתי למען אשר יצוה אברהם את בניו ואת ביתו אחריו ושמרו דרך יהוה לעשות צדקה ומשפט למען הביא יהוה על אברהם את אשר דבר עליו — „Căci l-am cunoscut că va porunci copiilor săi și casei sale după el să păstreze calea DOMNULUI spre a face dreptate și judecată, pentru ca DOMNUL să aducă asupra lui Avraham ceea ce a vorbit despre el.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3580,7 +3580,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר יהוה צעקת סדם ועמרה כי רבה וחטאתם כי כבדה מאד",
-    "translation": "Diferență reală, confirmată: ויאמר יהוה צעקת סדם ועמרה כי רבה וחטאתם כי כבדה מאד — „And the LORD said, Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous;”",
+    "translation": "Diferență reală, confirmată: ויאמר יהוה צעקת סדם ועמרה כי רבה וחטאתם כי כבדה מאד — „Și DOMNUL a spus: „Strigătul Sodomei și Gomorei este mare și păcatul lor este foarte greu.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3749,7 +3749,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ארדה נא ואראה הך צעקתה הבאה אלי עשו כלה ואם לא אדעה",
-    "translation": "Diferență reală, confirmată: ארדה נא ואראה הך צעקתה הבאה אלי עשו כלה ואם לא אדעה — „I will go down now, and see whether they have done altogether according to the cry of it, which is come unto me; and if not, I will know.”",
+    "translation": "Diferență reală, confirmată: ארדה נא ואראה הך צעקתה הבאה אלי עשו כלה ואם לא אדעה — „Voi coborî și voi vedea: dacă au făcut ca strigătul care a ajuns la Mine – distrugere! Iar dacă nu, voi ști.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3899,7 +3899,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויפנו משם האנושים וילכו סדמה ואברהם עודנו עמד לפני יהוה",
-    "translation": "Diferență reală, confirmată: ויפנו משם האנושים וילכו סדמה ואברהם עודנו עמד לפני יהוה — „And the men turned their faces from thence, and went toward Sodom: but Abraham stood yet before the LORD.”",
+    "translation": "Diferență reală, confirmată: ויפנו משם האנושים וילכו סדמה ואברהם עודנו עמד לפני יהוה — „Oamenii s-au îndreptat de acolo și au mers către Sodoma, iar Avraham încă stătea înaintea DOMNULUI.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4188,7 +4188,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "אולי יש חמשים צדיקים בתוך העיר האף תספה ולא תשא למקום למען חמשים הצדקים אשר בקרבה",
-    "translation": "Diferență reală, confirmată: אולי יש חמשים צדיקים בתוך העיר האף תספה ולא תשא למקום למען חמשים הצדקים אשר בקרבה — „Peradventure there be fifty righteous within the city: wilt thou also destroy and not spare the place for the fifty righteous that [are] therein?”",
+    "translation": "Diferență reală, confirmată: אולי יש חמשים צדיקים בתוך העיר האף תספה ולא תשא למקום למען חמשים הצדקים אשר בקרבה — „Poate că sunt cincizeci de drepți în mijlocul orașului... Vei nimici oare și nu vei cruța locul de dragul celor cincizeci de drepți din mijlocul său?”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4401,7 +4401,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "חלילה לך מעשות כדבר הזה להמית צדיק עם רשע והיה כצדיק כרשע חלילה לך השפט כל הארץ לא יעשה משפט",
-    "translation": "Diferență reală, confirmată: חלילה לך מעשות כדבר הזה להמית צדיק עם רשע והיה כצדיק כרשע חלילה לך השפט כל הארץ לא יעשה משפט — „That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?”",
+    "translation": "Diferență reală, confirmată: חלילה לך מעשות כדבר הזה להמית צדיק עם רשע והיה כצדיק כרשע חלילה לך השפט כל הארץ לא יעשה משפט — „Ar fi un sacrilegiu pentru Tine să faci un astfel de lucru, să omori pe cel drept împreună cu cel ticălos, astfel încât cel drept să fie ca ticălosul. Ar fi sacrilegiu pentru Tine! Oare Judecătorul întregului pământ nu va face dreptate?”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4609,7 +4609,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר יהוה אם אמצא בסדם חמשים צדקים בתוך העיר ונשאתי לכל המקום בעבורם",
-    "translation": "Diferență reală, confirmată: ויאמר יהוה אם אמצא בסדם חמשים צדקים בתוך העיר ונשאתי לכל המקום בעבורם — „And the LORD said, If I find in Sodom fifty righteous within the city, then I will spare all the place for their sakes.”",
+    "translation": "Diferență reală, confirmată: ויאמר יהוה אם אמצא בסדם חמשים צדקים בתוך העיר ונשאתי לכל המקום בעבורם — „DOMNUL a spus: „Dacă voi găsi în Sodoma cincizeci de drepți în mijlocul orașului, voi cruța tot locul în meritul lor.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4963,7 +4963,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "אולי יחסרון חמשים הצדקים חמשה התשחית בחמשה את כל העיר ויאמר לא אשחית אם אמצא שם ארבעים וחמשה",
-    "translation": "Diferență reală, confirmată: אולי יחסרון חמשים הצדקים חמשה התשחית בחמשה את כל העיר ויאמר לא אשחית אם אמצא שם ארבעים וחמשה — „Peradventure there shall lack five of the fifty righteous: wilt thou destroy all the city for [lack of] five? And he said, If I find there forty and five, I will not destroy [it].”",
+    "translation": "Diferență reală, confirmată: אולי יחסרון חמשים הצדקים חמשה התשחית בחמשה את כל העיר ויאמר לא אשחית אם אמצא שם ארבעים וחמשה — „Poate că din cei cincizeci de drepți vor lipsi cinci ? Vei distruge tot orașul din pricina celor cinci?” Și El a spus: „Nu voi distruge dacă voi găsi acolo patruzeci și cinci.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -5120,7 +5120,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויסף עוד לדבר אליו ויאמר אליו אולי ימצאון שם ארבעים ויאמר לא אשחית בעבור הארבעים",
-    "translation": "Diferență reală, confirmată: ויסף עוד לדבר אליו ויאמר אליו אולי ימצאון שם ארבעים ויאמר לא אשחית בעבור הארבעים — „And he spake unto him yet again, and said to him, Peradventure there shall be forty found there. And he said, I will not destroy [it] for forty's sake.”",
+    "translation": "Diferență reală, confirmată: ויסף עוד לדבר אליו ויאמר אליו אולי ימצאון שם ארבעים ויאמר לא אשחית בעבור הארבעים — „Iarăși a vorbit și a spus: „Poate se vor găsi acolo patruzeci?” Și El a spus: „Nu voi face [asta], datorită celor patruzeci.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -5293,7 +5293,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אל נא יחר לאדני ואדברה אולי ימצאון שם שלשים ויאמר לא אשחית אם אמצא שם שלשים",
-    "translation": "Diferență reală, confirmată: ויאמר אל נא יחר לאדני ואדברה אולי ימצאון שם שלשים ויאמר לא אשחית אם אמצא שם שלשים — „And he said [unto him], Oh let not the Lord be angry, and I will speak: Peradventure there shall thirty be found there. And he said, I will not destroy [it], if I find thirty there.”",
+    "translation": "Diferență reală, confirmată: ויאמר אל נא יחר לאדני ואדברה אולי ימצאון שם שלשים ויאמר לא אשחית אם אמצא שם שלשים — „Și [Avraham] a spus: „Să nu se mânie Stăpânul meu și voi vorbi: poate se vor găsi acolo treizeci?” Și El a spus: „Nu voi face [asta] dacă voi găsi acolo treizeci.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -5805,7 +5805,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וילך יהוה כאשר כלה לדבר אל אברהם ואברהם שב למקומו",
-    "translation": "Diferență reală, confirmată: וילך יהוה כאשר כלה לדבר אל אברהם ואברהם שב למקומו — „And the LORD went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place.”",
+    "translation": "Diferență reală, confirmată: וילך יהוה כאשר כלה לדבר אל אברהם ואברהם שב למקומו — „DOMNUL a plecat, când a isprăvit de vorbit lui Avraham, iar Avraham s-a întors la locul lui.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

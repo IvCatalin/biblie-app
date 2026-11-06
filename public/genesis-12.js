@@ -318,7 +318,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואעשך לגוי גדול ואברכך ואגדלה שמך והוי ברכה",
-    "translation": "Diferență reală, confirmată: ואעשך לגוי גדול ואברכך ואגדלה שמך והוי ברכה — „And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:”",
+    "translation": "Diferență reală, confirmată: ואעשך לגוי גדול ואברכך ואגדלה שמך והוי ברכה — „Și te voi face un neam mare și te voi binecuvânta, îți voi mări numele și vei fi binecuvântare.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -490,7 +490,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואברך מברכיך ומקלליך אאר ונברכו בך כל משפחות האדמה",
-    "translation": "Diferență reală, confirmată: ואברך מברכיך ומקלליך אאר ונברכו בך כל משפחות האדמה — „And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.”",
+    "translation": "Diferență reală, confirmată: ואברך מברכיך ומקלליך אאר ונברכו בך כל משפחות האדמה — „Îi voi binecuvânta pe cei care te binecuvântează; iar pe cel care te blestemă îl voi blestema; și vor fi binecuvântate în tine toate familiile pământului.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1091,7 +1091,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויעבר אברם בארץ עד מקום שכם עד אלון מורא והכנעני אז בארץ",
-    "translation": "Diferență reală, confirmată: ויעבר אברם בארץ עד מקום שכם עד אלון מורא והכנעני אז בארץ — „And Abram passed through the land unto the place of Sichem, unto the plain of Mora. And the Canaanite [was] then in the land.”",
+    "translation": "Diferență reală, confirmată: ויעבר אברם בארץ עד מקום שכם עד אלון מורא והכנעני אז בארץ — „Avram a trecut prin țară până la locul [numit] Sihem, până la Elon More; iar canaanitul era atunci în țară.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1306,7 +1306,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וירא יהוה אל אברם ויאמר לו לזרעך אתן את הארץ הזאת ויבן שם מזבח ליהוה הנראה אליו",
-    "translation": "Diferență reală, confirmată: וירא יהוה אל אברם ויאמר לו לזרעך אתן את הארץ הזאת ויבן שם מזבח ליהוה הנראה אליו — „And the LORD appeared unto Abram, and said to him, Unto thy seed will I give this land: and there builded he an altar unto the LORD, who appeared unto him.”",
+    "translation": "Diferență reală, confirmată: וירא יהוה אל אברם ויאמר לו לזרעך אתן את הארץ הזאת ויבן שם מזבח ליהוה הנראה אליו — „DOMNUL i s-a arătat lui Avram și a spus: „Seminției tale îi voi da această țară.” Și el a construit acolo un altar DOMNULUI care i se arătase.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1513,7 +1513,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויעתק משם ההרה מקדם לבית אל ויט אהלו בית אל מים והעי מקדם ויבן שם מזבח ליהוה ויקרא בשם יהוה",
-    "translation": "Diferență reală, confirmată: ויעתק משם ההרה מקדם לבית אל ויט אהלו בית אל מים והעי מקדם ויבן שם מזבח ליהוה ויקרא בשם יהוה — „And he removed from thence unto a mountain on the east of Beth-el, and pitched his tent, [having] Beth-el on the west, and Hai on the east: and there he builded an altar unto the LORD, and called upon the name of the LORD.”",
+    "translation": "Diferență reală, confirmată: ויעתק משם ההרה מקדם לבית אל ויט אהלו בית אל מים והעי מקדם ויבן שם מזבח ליהוה ויקרא בשם יהוה — „De acolo s a mutat la munte, la răsărit de Bet-El*Însemnând „casa lui Dumnezeu”, și și-a ridicat cortul, cu Bet-El la apus și Ai la răsărit; și a construit acolo un altar DOMNULUI și L-a chemat pe DOMNUL pe nume.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1632,7 +1632,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויסע אברם הלוך ונסע הנגבה",
-    "translation": "Diferență reală, confirmată: ויסע אברם הלוך ונסע הנגבה — „And Abram journeyed, going on still toward the south.”",
+    "translation": "Diferență reală, confirmată: ויסע אברם הלוך ונסע הנגבה — „Și Avram a pornit din loc în loc către miazăzi*Sau „către Neghev”, o regiune din sudul Canaanului.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1987,7 +1987,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהי כאשר הקריב לבוא מצרימה ויאמר אל שרי אשתו הנה נא ידעתי כי אשה יפת מראה אתי",
-    "translation": "Diferență reală, confirmată: ויהי כאשר הקריב לבוא מצרימה ויאמר אל שרי אשתו הנה נא ידעתי כי אשה יפת מראה אתי — „And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that thou [art] a fair woman to look upon:”",
+    "translation": "Diferență reală, confirmată: ויהי כאשר הקריב לבוא מצרימה ויאמר אל שרי אשתו הנה נא ידעתי כי אשה יפת מראה אתי — „Și a fost – când era pe cale să ajungă în Egipt – că el i-a spus soției sale Sarai: „Iată, știam că ești o femeie frumoasă la înfățișare.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2134,7 +2134,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "והיה כי יראו אתיך המצרים ואמרו אשתו זאת והרגו אתי ואתיך יחיו",
-    "translation": "Diferență reală, confirmată: והיה כי יראו אתיך המצרים ואמרו אשתו זאת והרגו אתי ואתיך יחיו — „Therefore it shall come to pass, when the Egyptians shall see thee, that they shall say, This [is] his wife: and they will kill me, but they will save thee alive.”",
+    "translation": "Diferență reală, confirmată: והיה כי יראו אתיך המצרים ואמרו אשתו זאת והרגו אתי ואתיך יחיו — „Când te vor vedea egiptenii, vor spune: «Aceasta este soția lui»; pe mine mă vor omorî și pe tine te vor lăsa în viață.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2262,7 +2262,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "אמרי נא אחותי אתי למען ייטב לי בעבוריך וחיתה נפשי בגלליך",
-    "translation": "Diferență reală, confirmată: אמרי נא אחותי אתי למען ייטב לי בעבוריך וחיתה נפשי בגלליך — „Say, I pray thee, thou [art] my sister: that it may be well with me for thy sake; and my soul shall live because of thee.”",
+    "translation": "Diferență reală, confirmată: אמרי נא אחותי אתי למען ייטב לי בעבוריך וחיתה נפשי בגלליך — „Spune, rogu-te, că ești sora mea, ca să îmi fie bine datorită ție și sufletul meu să trăiască mulțumită ție.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2430,7 +2430,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהי כבוא אברם מצרימה ויראו המצרים את האשה כי יפה היא מאד",
-    "translation": "Diferență reală, confirmată: ויהי כבוא אברם מצרימה ויראו המצרים את האשה כי יפה היא מאד — „And it came to pass, that, when Abram was come into Egypt, the Egyptians beheld the woman that she [was] very fair.”",
+    "translation": "Diferență reală, confirmată: ויהי כבוא אברם מצרימה ויראו המצרים את האשה כי יפה היא מאד — „Și a fost, la venirea lui Avram în Egipt, că egiptenii au văzut că femeia era foarte frumoasă.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2604,7 +2604,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויראו אתה שרי פרעה ויהללו אתה אל פרעה ותקח האשה ביתה פרעה",
-    "translation": "Diferență reală, confirmată: ויראו אתה שרי פרעה ויהללו אתה אל פרעה ותקח האשה ביתה פרעה — „The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh's house.”",
+    "translation": "Diferență reală, confirmată: ויראו אתה שרי פרעה ויהללו אתה אל פרעה ותקח האשה ביתה פרעה — „Și dregătorii lui Faraon*Ebr: Paro au văzut-o și i-au lăudat-o lui Faraon și femeia a fost luată în casa lui Faraon.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2803,7 +2803,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ולאברם הייטב בעבורה ויהי לו צאן ובקר מקנה כבד מאד עבדים ושפחות וחמרים ואתנות וגמלים",
-    "translation": "Diferență reală, confirmată: ולאברם הייטב בעבורה ויהי לו צאן ובקר מקנה כבד מאד עבדים ושפחות וחמרים ואתנות וגמלים — „And he entreated Abram well for her sake: and his flock and herd was very great, and maidservants, and he asses, and she asses, and camels.”",
+    "translation": "Diferență reală, confirmată: ולאברם הייטב בעבורה ויהי לו צאן ובקר מקנה כבד מאד עבדים ושפחות וחמרים ואתנות וגמלים — „Iar lui Avram, [Faraon] i-a făcut bine datorită ei și el a dobândit turme, cirezi, măgari, sclavi, slujnice, măgărițe și cămile.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3114,7 +3114,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקרא פרעה לאברם ויאמר מה זאת עשית לי למה לא הגדת לי כי אשתך היא",
-    "translation": "Diferență reală, confirmată: ויקרא פרעה לאברם ויאמר מה זאת עשית לי למה לא הגדת לי כי אשתך היא — „And Pharaoh called Abram, and said, What [is] this [that] thou hast done unto me? why didst thou not tell me that she [was] thy wife?”",
+    "translation": "Diferență reală, confirmată: ויקרא פרעה לאברם ויאמר מה זאת עשית לי למה לא הגדת לי כי אשתך היא — „Faraon l-a chemat pe Avram și a spus: „Ce mi-ai făcut? De ce nu mi-ai zis că este soția ta?”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3259,7 +3259,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ולמה אמרת אחותי היא ואקח אתה לי לאשה ועתה הנה אשתך קח ולך",
-    "translation": "Diferență reală, confirmată: ולמה אמרת אחותי היא ואקח אתה לי לאשה ועתה הנה אשתך קח ולך — „And why saidst thou, She [is] my sister? so I might have taken her to me to wife: now therefore behold thy wife, take [her], and go thy way.”",
+    "translation": "Diferență reală, confirmată: ולמה אמרת אחותי היא ואקח אתה לי לאשה ועתה הנה אשתך קח ולך — „De ce ai spus: «Este sora mea», și mi-am luat-o de soție? Și acum, iată-ți soția! Ia-o și pleacă!”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3412,7 +3412,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויצו עליו פרעה אנשים וישלחו אתו ואת אשתו ואת כל אשר לו ולוט עמו",
-    "translation": "Diferență reală, confirmată: ויצו עליו פרעה אנשים וישלחו אתו ואת אשתו ואת כל אשר לו ולוט עמו — „And Pharaoh commanded [his] men concerning him: and they sent him away, and his wife, and all that he had, and Lot with him.”",
+    "translation": "Diferență reală, confirmată: ויצו עליו פרעה אנשים וישלחו אתו ואת אשתו ואת כל אשר לו ולוט עמו — „Și Faraon le-a poruncit oamenilor [săi] în privința lui și l-au escortat pe el, și pe soția lui, și tot ce avea el.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

@@ -107,7 +107,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהיו חיי שרה מאת שנה ועשרים שנה ושבע שנים שני חיי שרה",
-    "translation": "Diferență reală, confirmată: ויהיו חיי שרה מאת שנה ועשרים שנה ושבע שנים שני חיי שרה — „And Sarah was an hundred and seven and twenty years old: [these were] the years of the life of Sarah.”",
+    "translation": "Diferență reală, confirmată: ויהיו חיי שרה מאת שנה ועשרים שנה ושבע שנים שני חיי שרה — „Și a fost viața Sarei o sută douăzeci și șapte de ani – anii vieții Sarei.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -323,7 +323,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותמת שרה בקרית הארבע אל עמק היא חברון בארץ כנען ויבא אברהם לספד לשרה ולבכותה",
-    "translation": "Diferență reală, confirmată: ותמת שרה בקרית הארבע אל עמק היא חברון בארץ כנען ויבא אברהם לספד לשרה ולבכותה — „And Sarah died in Kirjath-arba, which is in the valley; the same [is] Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her.”",
+    "translation": "Diferență reală, confirmată: ותמת שרה בקרית הארבע אל עמק היא חברון בארץ כנען ויבא אברהם לספד לשרה ולבכותה — „Și Sara a murit în Kiriat Arba, adică Hebron, în țara Canaanului; și Avraham a venit s o elogieze pe Sara și s o plângă.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -456,7 +456,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקם אברהם מעל פני מיתו וידבר אל בני חת לאמר",
-    "translation": "Diferență reală, confirmată: ויקם אברהם מעל פני מיתו וידבר אל בני חת לאמר — „And Abraham stood up from before his dead, and spake unto the sons of Heth, saying”",
+    "translation": "Diferență reală, confirmată: ויקם אברהם מעל פני מיתו וידבר אל בני חת לאמר — „Apoi Avraham s-a ridicat de dinaintea moartei sale și a vorbit fiilor lui Het, spunând:”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -600,7 +600,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "גר ותושב אנכי עמכם תנו לי אחזת קבר עמכם ואקברה את מיתי מלפני",
-    "translation": "Diferență reală, confirmată: גר ותושב אנכי עמכם תנו לי אחזת קבר עמכם ואקברה את מיתי מלפני — „I [am] a stranger and a sojourner with you: give me a possession of a buryingplace with you, that I may bury my dead out of my sight.”",
+    "translation": "Diferență reală, confirmată: גר ותושב אנכי עמכם תנו לי אחזת קבר עמכם ואקברה את מיתי מלפני — „„Străin și rezident sunt eu printre voi; dați-mi o posesiune funerară cu voi ca să-mi îngrop moarta de dinaintea mea.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -701,7 +701,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויענו בני חת את אברהם לאמר לא",
-    "translation": "Diferență reală, confirmată: ויענו בני חת את אברהם לאמר לא — „And the children of Heth answered Abraham, saying unto him”",
+    "translation": "Diferență reală, confirmată: ויענו בני חת את אברהם לאמר לא — „Și fiii lui Het i-au răspuns lui Avraham, spunându-i:”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -884,7 +884,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "שמענו אדני נשיא אלהים אתה בתוכנו במבחר קברינו קבר את מיתך איש ממנו את קברו לא יכלה ממך מקבר מיתך",
-    "translation": "Diferență reală, confirmată: שמענו אדני נשיא אלהים אתה בתוכנו במבחר קברינו קבר את מיתך איש ממנו את קברו לא יכלה ממך מקבר מיתך — „Hear us, my lord: thou [art] a mighty prince among us: in the choice of our sepulchres bury thy dead; none of us shall withhold from thee his sepulchre, but that thou mayest bury thy dead.”",
+    "translation": "Diferență reală, confirmată: שמענו אדני נשיא אלהים אתה בתוכנו במבחר קברינו קבר את מיתך איש ממנו את קברו לא יכלה ממך מקבר מיתך — „„Ascultă-ne, domnul meu, prinț al lui Dumnezeu ești tu în mijlocul nostru; în cele mai alese morminte ale noastre îngroapă-ți moarta, nimeni din noi nu va pregeta [să-ți dea] mormântul său ca să-ți îngropi moarta.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1019,7 +1019,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקם אברהם וישתחוי לעם הארץ לבני חת",
-    "translation": "Diferență reală, confirmată: ויקם אברהם וישתחוי לעם הארץ לבני חת — „And Abraham stood up, and bowed himself to the people of the land, [even] to the children of Heth.”",
+    "translation": "Diferență reală, confirmată: ויקם אברהם וישתחוי לעם הארץ לבני חת — „Avraham s-a ridicat și s-a prosternat înaintea poporului țării, fiilor lui Het.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1177,7 +1177,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וידבר אתם לאמר אם ישת נפשכם לקבר את מיתי מלפני שמעוני ופגעו לי בעפרון בן צהר החתי",
-    "translation": "Diferență reală, confirmată: וידבר אתם לאמר אם ישת נפשכם לקבר את מיתי מלפני שמעוני ופגעו לי בעפרון בן צהר החתי — „And he communed with them, saying, If it be your mind that I should bury my dead out of my sight; hear me, and entreat for me to Ephron the son of Zohar, the Hetite”",
+    "translation": "Diferență reală, confirmată: וידבר אתם לאמר אם ישת נפשכם לקבר את מיתי מלפני שמעוני ופגעו לי בעפרון בן צהר החתי — „Și a vorbit cu ei, spunând: „Dacă este [într-adevăr dorința] sufletelor voastre să-mi îngrop moarta de dinaintea mea, ascultați mă și interveniți pentru mine la Efron, fiul lui Țohar,”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1729,7 +1729,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "לא אדני שמעני השדה נתתי לך והמערה אשר בו לך נתתיה לעיני בני עמי נתתיה לך קבר מיתך",
-    "translation": "Diferență reală, confirmată: לא אדני שמעני השדה נתתי לך והמערה אשר בו לך נתתיה לעיני בני עמי נתתיה לך קבר מיתך — „Nay, my lord, hear me: the field give I thee, and the cave that [is] therein, I give it thee; in the presence of the sons of my people give I it thee: bury thy dead.”",
+    "translation": "Diferență reală, confirmată: לא אדני שמעני השדה נתתי לך והמערה אשר בו לך נתתיה לעיני בני עמי נתתיה לך קבר מיתך — „„Nu, domnul meu, ascultă-mă! Câmpul ți l-am dat, și peștera care este pe el ți-am dat-o; sub ochii fiilor poporului meu ți-am dat-o, îngroapă-ți moarta!”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1841,7 +1841,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישתחוי אברהם לפני עם הארץ",
-    "translation": "Diferență reală, confirmată: וישתחוי אברהם לפני עם הארץ — „And Abraham bowed down himself before the people of the land.”",
+    "translation": "Diferență reală, confirmată: וישתחוי אברהם לפני עם הארץ — „Și Avraham s-a prosternat înaintea poporului țării”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2028,7 +2028,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וידבר אל עפרון באזני עם הארץ לאמר אך אם אתה לי שמעני נתתי כסף השדה קח ממני ואקברה את מיתי שם",
-    "translation": "Diferență reală, confirmată: וידבר אל עפרון באזני עם הארץ לאמר אך אם אתה לי שמעני נתתי כסף השדה קח ממני ואקברה את מיתי שם — „And he spake unto Ephron in the audience of the people of the land, saying, But if thou [wilt give it], I pray thee, hear me: I will give thee money for the field; take [it] of me, and I will bury my dead there.”",
+    "translation": "Diferență reală, confirmată: וידבר אל עפרון באזני עם הארץ לאמר אך אם אתה לי שמעני נתתי כסף השדה קח ממני ואקברה את מיתי שם — „și i-a vorbit lui Efron în auzul poporului țării, spunând: „Dacă doar m-ai asculta! Dau prețul câmpului, ia-l de la mine și îmi voi îngropa moarta acolo.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2118,7 +2118,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויען עפרון את אברהם לאמר לא",
-    "translation": "Diferență reală, confirmată: ויען עפרון את אברהם לאמר לא — „And Ephron answered Abraham, saying unto him”",
+    "translation": "Diferență reală, confirmată: ויען עפרון את אברהם לאמר לא — „Efron i-a răspuns lui Avraham, spunându-i:”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2232,7 +2232,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "אדני שמעני ארץ ארבע מאות שקל כסף ביני ובינך מה הוא ואת מיתך קבר",
-    "translation": "Diferență reală, confirmată: אדני שמעני ארץ ארבע מאות שקל כסף ביני ובינך מה הוא ואת מיתך קבר — „My lord, hearken unto me: the land [is worth] four hundred shekels of silver; what [is] that betwixt me and thee? bury therefore thy dead.”",
+    "translation": "Diferență reală, confirmată: אדני שמעני ארץ ארבע מאות שקל כסף ביני ובינך מה הוא ואת מיתך קבר — „„Domnul meu, ascultă mă! [O parcelă de] pământ de patru sute de sicli de argint – ce-i oare aceasta între mine și tine? Îngroapă-ți moarta!”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2482,7 +2482,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישמע אברהם אל עפרון וישקל אברהם לעפרון את הכסף אשר דבר באזני בני חת ארבע מאות שקל כסף עבר לסחר",
-    "translation": "Diferență reală, confirmată: וישמע אברהם אל עפרון וישקל אברהם לעפרון את הכסף אשר דבר באזני בני חת ארבע מאות שקל כסף עבר לסחר — „And Abraham hearkened unto Ephron; and Abraham weighed to Ephron the silver, which he had named in the audience of the sons of Heth, four hundred shekels of silver, current [money] with the merchant.”",
+    "translation": "Diferență reală, confirmată: וישמע אברהם אל עפרון וישקל אברהם לעפרון את הכסף אשר דבר באזני בני חת ארבע מאות שקל כסף עבר לסחר — „Și l-a ascultat Avraham pe Efron și i a cântărit Avraham lui Efron banii despre care vorbise în auzul fiilor lui Het, patru sute de sicli de argint, [monedă] acceptată la negustor.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2663,7 +2663,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקם שדה עפרון אשר במכפלה אשר על פני ממרא השדה והמערה אשר בו וכל העץ אשר בשדה אשר בכל גבולו סביב",
-    "translation": "Diferență reală, confirmată: ויקם שדה עפרון אשר במכפלה אשר על פני ממרא השדה והמערה אשר בו וכל העץ אשר בשדה אשר בכל גבולו סביב — „And the field of Ephron, which [was] in Machpelah, which [was] over before Mamre, the field, and the cave which [was] therein, and all the trees that [were] in the field, that [were] in all the borders round about, were made sure”",
+    "translation": "Diferență reală, confirmată: ויקם שדה עפרון אשר במכפלה אשר על פני ממרא השדה והמערה אשר בו וכל העץ אשר בשדה אשר בכל גבולו סביב — „Și câmpul lui Efron care este în Mahpela, față în față cu Mamre – câmpul, peștera de pe el și toți pomii de pe câmp, în toate hotarele sale de jur împrejur – a fost confirmat”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2977,7 +2977,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואחרי כן קבר אברהם את שרה אשתו אל מערת שדה המכפלה על פני ממרא היא חברון בארץ כנען",
-    "translation": "Diferență reală, confirmată: ואחרי כן קבר אברהם את שרה אשתו אל מערת שדה המכפלה על פני ממרא היא חברון בארץ כנען — „And after this, Abraham buried Sarah his wife in the cave of the field of Machpelah before Mamre: the same [is] Hebron in the land of Canaan.”",
+    "translation": "Diferență reală, confirmată: ואחרי כן קבר אברהם את שרה אשתו אל מערת שדה המכפלה על פני ממרא היא חברון בארץ כנען — „Și după aceasta, Avraham a îngropat-o pe soția sa Sara în peștera din câmpul Mahpela, față în față cu Mamre, adică Hebron, în țara Canaanului.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

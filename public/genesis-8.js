@@ -385,7 +385,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויסכרו מעינות תהום וארבות השמים ויכל הגשם מן השמים",
-    "translation": "Diferență reală, confirmată: ויסכרו מעינות תהום וארבות השמים ויכל הגשם מן השמים — „The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;”",
+    "translation": "Diferență reală, confirmată: ויסכרו מעינות תהום וארבות השמים ויכל הגשם מן השמים — „Izvoarele adâncului și zăgazurile cerurilor au fost stăvilite și ploaia din ceruri a fost oprită.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -544,7 +544,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישבו המים מעל הארץ הלכו ושבו ויחסרו המים מקץ חמשים ומאת יום",
-    "translation": "Diferență reală, confirmată: וישבו המים מעל הארץ הלכו ושבו ויחסרו המים מקץ חמשים ומאת יום — „And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated.”",
+    "translation": "Diferență reală, confirmată: וישבו המים מעל הארץ הלכו ושבו ויחסרו המים מקץ חמשים ומאת יום — „Și apele s-au tot retras de pe pământ, continuu, și la sfârșitul a o sută cincizeci de zile apele s-au împuținat.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -693,7 +693,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותנח התבה בחדש השביעי בשבעה עשר יום לחדש על הרי הררט",
-    "translation": "Diferență reală, confirmată: ותנח התבה בחדש השביעי בשבעה עשר יום לחדש על הרי הררט — „And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Hararat.”",
+    "translation": "Diferență reală, confirmată: ותנח התבה בחדש השביעי בשבעה עשר יום לחדש על הרי הררט — „Și arca s-a oprit în luna a șaptea, în a șaptesprezecea zi a lunii, pe munții Ararat.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -857,7 +857,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "והמים היו הלכו וחסרו עד חדש העשירי בעשירי באחד לחדש נראו ראשי ההרים",
-    "translation": "Diferență reală, confirmată: והמים היו הלכו וחסרו עד חדש העשירי בעשירי באחד לחדש נראו ראשי ההרים — „And the waters decreased continually until tenth month: in the tenth, on the first of the month, were the tops of the mountains seen.”",
+    "translation": "Diferență reală, confirmată: והמים היו הלכו וחסרו עד חדש העשירי בעשירי באחד לחדש נראו ראשי ההרים — „Apele s-au tot împuținat până în luna a zecea; iar în a zecea [lună], în prima [zi] a lunii, s-au zărit vârfurile munților.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1190,7 +1190,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישלח את הערב ויצא יצא ושב עד יבשת המים מעל הארץ",
-    "translation": "Diferență reală, confirmată: וישלח את הערב ויצא יצא ושב עד יבשת המים מעל הארץ — „And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth.”",
+    "translation": "Diferență reală, confirmată: וישלח את הערב ויצא יצא ושב עד יבשת המים מעל הארץ — „și i-a dat drumul corbului, iar el a ieșit [din arcă], tot ducându-se și întorcându-se, până când s-au uscat apele de pe pământ.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1560,7 +1560,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ולא מצא היונה מנוח לכף רגלה ותשב אליו אל התבה כי מים על פני כל הארץ וישלח את ידו ויקחה ויבא אתה אליו אל התבה",
-    "translation": "Diferență reală, confirmată: ולא מצא היונה מנוח לכף רגלה ותשב אליו אל התבה כי מים על פני כל הארץ וישלח את ידו ויקחה ויבא אתה אליו אל התבה — „But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters on the face of the whole earth: then he put forth with his hand, and took her, and pulled her in unto him into the ark.”",
+    "translation": "Diferență reală, confirmată: ולא מצא היונה מנוח לכף רגלה ותשב אליו אל התבה כי מים על פני כל הארץ וישלח את ידו ויקחה ויבא אתה אליו אל התבה — „Dar porumbelul nu a găsit odihnă pentru talpa piciorului său și s-a întors la el, la arcă, căci erau ape pe fața întregului pământ. Și [Noe] a întins mâna și l-a luat și l-a adus la el, la arcă.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1843,7 +1843,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותבא אליו היונה לעת ערב והנה עלי זית טרף בפיה וידע נח כי קלו המים מעל הארץ",
-    "translation": "Diferență reală, confirmată: ותבא אליו היונה לעת ערב והנה עלי זית טרף בפיה וידע נח כי קלו המים מעל הארץ — „And the dove came in to him in the evening; and, lo, in her mouth [was] an olive leaf plucked off: so Noah knew that the waters were abated from off the earth.”",
+    "translation": "Diferență reală, confirmată: ותבא אליו היונה לעת ערב והנה עלי זית טרף בפיה וידע נח כי קלו המים מעל הארץ — „Porumbelul a revenit la el către seară și iată, [avea] o frunză de măslin pe care o rupsese cu ciocul; și Noe a știut că apele s-au retras de pe pământ.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1982,7 +1982,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחל עוד שבעת ימים אחרים וישלח את היונה ולא יספה שובה אליו עוד",
-    "translation": "Diferență reală, confirmată: ויחל עוד שבעת ימים אחרים וישלח את היונה ולא יספה שובה אליו עוד — „And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more.”",
+    "translation": "Diferență reală, confirmată: ויחל עוד שבעת ימים אחרים וישלח את היונה ולא יספה שובה אליו עוד — „Și a așteptat încă șapte zile și a dat drumul porumbelului, iar [porumbelul] nu s-a mai întors la el.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2239,7 +2239,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהי באחת ושש מאות שנה בראישון באחד לחדש חרבו המים מעל הארץ ויסר נח את מכסה התבה וירא והנה חרבו פני האדמה",
-    "translation": "Diferență reală, confirmată: ויהי באחת ושש מאות שנה בראישון באחד לחדש חרבו המים מעל הארץ ויסר נח את מכסה התבה וירא והנה חרבו פני האדמה — „And it came to pass in the six hundredth and first year, in the first [month], the first [day] of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry.”",
+    "translation": "Diferență reală, confirmată: ויהי באחת ושש מאות שנה בראישון באחד לחדש חרבו המים מעל הארץ ויסר נח את מכסה התבה וירא והנה חרבו פני האדמה — „Și a fost în al șase sute unulea an, în prima [lună], în prima [zi] a lunii, că apele s-au zvântat de pe pământ. Noe a dat la o parte acoperământul arcei și s-a uitat și iată, fața pământului se zvântase.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2791,7 +2791,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וכל החיה אשר אתך מכל בשר בעוף ובבהמה ובכל הרמש הרמש על הארץ הוציא אתך ושרצו בארץ ופרו ורבו על הארץ",
-    "translation": "Diferență reală, confirmată: וכל החיה אשר אתך מכל בשר בעוף ובבהמה ובכל הרמש הרמש על הארץ הוציא אתך ושרצו בארץ ופרו ורבו על הארץ — „And every living thing that is with thee, of all flesh, of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth.”",
+    "translation": "Diferență reală, confirmată: וכל החיה אשר אתך מכל בשר בעוף ובבהמה ובכל הרמש הרמש על הארץ הוציא אתך ושרצו בארץ ופרו ורבו על הארץ — „Toate vietățile care sunt cu tine din toată firea – păsări, animale și toate târâtoarele care se târăsc pe pământ – scoate-le cu tine; să mișune pe pământ, să fie roditoare și să se înmulțească pe pământ.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3074,7 +3074,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וכל החיה וכל העוף וכל הרמש הרמש על הארץ למשפחותיהם יצאו מן התבה",
-    "translation": "Diferență reală, confirmată: וכל החיה וכל העוף וכל הרמש הרמש על הארץ למשפחותיהם יצאו מן התבה — „And every beast, and every fowl, every all creeping thing that creepeth upon the earth, after their kinds, went forth out of the ark.”",
+    "translation": "Diferență reală, confirmată: וכל החיה וכל העוף וכל הרמש הרמש על הארץ למשפחותיהם יצאו מן התבה — „Fiecare animal, fiecare târâtoare și fiecare pasăre, tot ce mișună pe pământ, după familiile lor, au ieșit din arcă.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3321,7 +3321,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויבן נח מזבח ליהוה ויקח מכל הבהמה הטהרה ומכל העוף הטהור ויעל עלות במזבח",
-    "translation": "Diferență reală, confirmată: ויבן נח מזבח ליהוה ויקח מכל הבהמה הטהרה ומכל העוף הטהור ויעל עלות במזבח — „And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.”",
+    "translation": "Diferență reală, confirmată: ויבן נח מזבח ליהוה ויקח מכל הבהמה הטהרה ומכל העוף הטהור ויעל עלות במזבח — „Și Noe a construit un altar DOMNULUI și a luat din fiecare animal curat și din fiecare pasăre curată și a înălțat arderi-de-tot pe altar.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3551,7 +3551,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וירח יהוה את ריח הניחח ויאמר יהוה אל לבו לא אוסיף עוד לקלל את האדמה בעבור האדם כי יצר לב האדם רע מנעריו ולא אוסיף עוד להכות את כל חי כאשר עשיתי",
-    "translation": "Diferență reală, confirmată: וירח יהוה את ריח הניחח ויאמר יהוה אל לבו לא אוסיף עוד לקלל את האדמה בעבור האדם כי יצר לב האדם רע מנעריו ולא אוסיף עוד להכות את כל חי כאשר עשיתי — „And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again moreover curse the ground any more for man's sake; for the imagination of man's heart [is] evil from his youth; neither will I again smite any more every thing living, as I have done.”",
+    "translation": "Diferență reală, confirmată: וירח יהוה את ריח הניחח ויאמר יהוה אל לבו לא אוסיף עוד לקלל את האדמה בעבור האדם כי יצר לב האדם רע מנעריו ולא אוסיף עוד להכות את כל חי כאשר עשיתי — „Și DOMNUL a mirosit aroma plăcută și DOMNUL a spus în inima Sa: „Nu voi mai blestema iarăși pământul din pricina omului, căci pornirea inimii omului este răutate, din tinerețea lui; și nu voi mai lovi iarăși tot ce este viu, precum am făcut.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3762,7 +3762,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "עד כל ימי הארץ זרע וקציר קור וחם קיץ וחרף יומם ולילה לא ישבתו",
-    "translation": "Diferență reală, confirmată: עד כל ימי הארץ זרע וקציר קור וחם קיץ וחרף יומם ולילה לא ישבתו — „While the earth remaineth, seedtime and harvest, cold and heat, summer and winter, day and night shall not cease.”",
+    "translation": "Diferență reală, confirmată: עד כל ימי הארץ זרע וקציר קור וחם קיץ וחרף יומם ולילה לא ישבתו — „Atât cât vor mai fi toate zilele pământului, semănatul și culesul, frigul și căldura, vara și iarna, ziua și noaptea nu vor înceta.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

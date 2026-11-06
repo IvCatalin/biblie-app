@@ -385,7 +385,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר קח נא את בנך את יחידך אשר אהבת את יצחק ולך לך אל ארץ המוראה והעלהו שם עלה על אחד ההרים אשר אמר אליך",
-    "translation": "Diferență reală, confirmată: ויאמר קח נא את בנך את יחידך אשר אהבת את יצחק ולך לך אל ארץ המוראה והעלהו שם עלה על אחד ההרים אשר אמר אליך — „And he said, Take now thy son, thine only [son] Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.”",
+    "translation": "Diferență reală, confirmată: ויאמר קח נא את בנך את יחידך אשר אהבת את יצחק ולך לך אל ארץ המוראה והעלהו שם עלה על אחד ההרים אשר אמר אליך — „Și [El] a spus: „Ia-l, rogu-te, pe fiul tău, pe unicul tău [fiu], pe care îl iubești, pe Isaac; și mergi spre ținutul Moria și înalță-l acolo ca ardere-de-tot pe unul dintre munți, pe care ți-l voi spune.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -661,7 +661,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישכם אברהם בבקר ויחבש את חמורו ויקח את שני נעריו אתו ואת יצחק בנו ויבקע עצי העלה ויקם וילך אל המקום אשר אמר לו האלהים",
-    "translation": "Diferență reală, confirmată: וישכם אברהם בבקר ויחבש את חמורו ויקח את שני נעריו אתו ואת יצחק בנו ויבקע עצי העלה ויקם וילך אל המקום אשר אמר לו האלהים — „And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him.”",
+    "translation": "Diferență reală, confirmată: וישכם אברהם בבקר ויחבש את חמורו ויקח את שני נעריו אתו ואת יצחק בנו ויבקע עצי העלה ויקם וילך אל המקום אשר אמר לו האלהים — „Avraham s-a trezit dis-de-dimineață, și-a înșeuat măgarul și a luat cu el pe cei doi tineri ai săi și pe fiul său Isaac și a despicat lemne pentru arderea de tot și s-a sculat și a mers către locul pe care i-l spusese Dumnezeu.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1007,7 +1007,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אברהם אל נעריו שבו לכם פה עם החמור ואני והנער נלכה עד כה ונשתחוי ונשוב אליכם",
-    "translation": "Diferență reală, confirmată: ויאמר אברהם אל נעריו שבו לכם פה עם החמור ואני והנער נלכה עד כה ונשתחוי ונשוב אליכם — „And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you.”",
+    "translation": "Diferență reală, confirmată: ויאמר אברהם אל נעריו שבו לכם פה עם החמור ואני והנער נלכה עד כה ונשתחוי ונשוב אליכם — „Și Avraham le-a spus tinerilor lui: „Stați aici cu măgarul, iar eu și tânărul vom merge până acolo și ne vom prosterna și ne vom întoarce la voi.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1566,7 +1566,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אברהם אלהים יראה לו שה לעלה בני וילכו שניהם יחדו",
-    "translation": "Diferență reală, confirmată: ויאמר אברהם אלהים יראה לו שה לעלה בני וילכו שניהם יחדו — „And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.”",
+    "translation": "Diferență reală, confirmată: ויאמר אברהם אלהים יראה לו שה לעלה בני וילכו שניהם יחדו — „Și Avraham a spus: „Dumnezeu Își va dezvălui singur mielul pentru arderea-de-tot, fiule.” Și au mers amândoi împreună.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2289,7 +2289,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אל תשלח ידך על הנער ואל תעשה לו מאומה כי עתה ידעתי כי ירא אלהים אתה ולא חשכת את בנך את יחידך ממני",
-    "translation": "Diferență reală, confirmată: ויאמר אל תשלח ידך על הנער ואל תעשה לו מאומה כי עתה ידעתי כי ירא אלהים אתה ולא חשכת את בנך את יחידך ממני — „And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only [son] from me.”",
+    "translation": "Diferență reală, confirmată: ויאמר אל תשלח ידך על הנער ואל תעשה לו מאומה כי עתה ידעתי כי ירא אלהים אתה ולא חשכת את בנך את יחידך ממני — „Și [îngerul] a spus: „Nu-ți întinde mâna asupra tânărului și nu-i face nimic, căci acum știu că te temi de Dumnezeu și nu l-ai ținut pe fiul tău, pe unicul tău, departe de Mine.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2537,7 +2537,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישא אברהם את עיניו וירא והנה איל אחד נאחז בסבך בקרניו וילך אברהם ויקח את האיל ויעלהו עלה תחת בנו",
-    "translation": "Diferență reală, confirmată: וישא אברהם את עיניו וירא והנה איל אחד נאחז בסבך בקרניו וילך אברהם ויקח את האיל ויעלהו עלה תחת בנו — „And Abraham lifted up his eyes, and looked, and behold behind [him] a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.”",
+    "translation": "Diferență reală, confirmată: וישא אברהם את עיניו וירא והנה איל אחד נאחז בסבך בקרניו וילך אברהם ויקח את האיל ויעלהו עלה תחת בנו — „Avraham și-a ridicat ochii și a văzut, iată, un berbec prins în desiș cu coarnele. Avraham s-a dus, a luat berbecul și l-a adus ardere-de-tot în locul fiului său.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2725,7 +2725,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקרא אברהם את שם המקום ההוא יהוה יראה אשר יאמר היום בהר יהוה יראה",
-    "translation": "Diferență reală, confirmată: ויקרא אברהם את שם המקום ההוא יהוה יראה אשר יאמר היום בהר יהוה יראה — „And Abraham called the name of that place Jehovah-jireh: as it is said [to] this day, In the mount of the LORD it shall be seen.”",
+    "translation": "Diferență reală, confirmată: ויקרא אברהם את שם המקום ההוא יהוה יראה אשר יאמר היום בהר יהוה יראה — „Și Avraham a pus acelui loc numele ADONAI-Ire*Adică „DOMNUL-Va-Vedea”, de unde se spune [până] astăzi: „pe munte DOMNUL va fi văzut.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3046,7 +3046,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר בי נשבעתי נאם יהוה כי יען אשר עשית את הדבר הזה ולא חשכת את בנך את יחידך ממני",
-    "translation": "Diferență reală, confirmată: ויאמר בי נשבעתי נאם יהוה כי יען אשר עשית את הדבר הזה ולא חשכת את בנך את יחידך ממני — „And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only [son] from me:”",
+    "translation": "Diferență reală, confirmată: ויאמר בי נשבעתי נאם יהוה כי יען אשר עשית את הדבר הזה ולא חשכת את בנך את יחידך ממני — „Și a spus: „Pe Mine Însumi am jurat – rostirea DOMNULUI – că pentru că ai făcut lucrul acesta și nu l-ai cruțat pe fiul tău, pe unicul tău,”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3264,7 +3264,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "כי ברוך אברכך והרבה ארבה את זרעך ככוכבי השמים וכחול אשר על שפת הים ויירש זרעך את שער איביו",
-    "translation": "Diferență reală, confirmată: כי ברוך אברכך והרבה ארבה את זרעך ככוכבי השמים וכחול אשר על שפת הים ויירש זרעך את שער איביו — „That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which [is] upon the sea shore; and thy seed shall possess the gate of his enemies;”",
+    "translation": "Diferență reală, confirmată: כי ברוך אברכך והרבה ארבה את זרעך ככוכבי השמים וכחול אשר על שפת הים ויירש זרעך את שער איביו — „negreșit te voi binecuvânta și negreșit îți voi înmulți seminția ca stelele cerului și ca nisipul care este pe malul mării; și seminția ta va moșteni poarta dușmanilor lor.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3400,7 +3400,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "והתברכו בזרעך כל גוי הארץ עקב אשר שמעת בקולי",
-    "translation": "Diferență reală, confirmată: והתברכו בזרעך כל גוי הארץ עקב אשר שמעת בקולי — „And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.”",
+    "translation": "Diferență reală, confirmată: והתברכו בזרעך כל גוי הארץ עקב אשר שמעת בקולי — „Și toate neamurile pământului se vor binecuvânta prin seminția ta, pentru că ai ascultat de glasul Meu.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3726,7 +3726,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהי אחר הדברים האלה ויגד לאברהם לאמר הנה ילדה מלכה גם היא בנים לנחור אחיך",
-    "translation": "Diferență reală, confirmată: ויהי אחר הדברים האלה ויגד לאברהם לאמר הנה ילדה מלכה גם היא בנים לנחור אחיך — „And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor;”",
+    "translation": "Diferență reală, confirmată: ויהי אחר הדברים האלה ויגד לאברהם לאמר הנה ילדה מלכה גם היא בנים לנחור אחיך — „Și a fost după aceste lucruri, că lui Avraham i s-a vestit, spunând: iată, Milca i-a născut și ea copii fratelui tău Nahor:”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3890,7 +3890,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "את עוץ בכורו ואת בוז אחיו ואת קמואל אבי ארם",
-    "translation": "Diferență reală, confirmată: את עוץ בכורו ואת בוז אחיו ואת קמואל אבי ארם — „Huz his firstborn, and Buz his brother, and Kemuel the father of Aram”",
+    "translation": "Diferență reală, confirmată: את עוץ בכורו ואת בוז אחיו ואת קמואל אבי ארם — „pe Uț, întâiul său născut, și pe Buz, fratele lui, și pe Kemuel, părintele Aramului,”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4003,7 +4003,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואת כשד ואת חזו ואת פילדש ואת ידלף ואת בתואל",
-    "translation": "Diferență reală, confirmată: ואת כשד ואת חזו ואת פילדש ואת ידלף ואת בתואל — „And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel.”",
+    "translation": "Diferență reală, confirmată: ואת כשד ואת חזו ואת פילדש ואת ידלף ואת בתואל — „și pe Kesed și pe Hazo și pe Pildaș și pe Idlaf și pe Betuel.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4315,7 +4315,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ופילגשו ושמה רומה ותלד גם היא את טבח ואת גחם ואת תחש ואת מעכה",
-    "translation": "Diferență reală, confirmată: ופילגשו ושמה רומה ותלד גם היא את טבח ואת גחם ואת תחש ואת מעכה — „And his concubine, whose name [was] Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah.”",
+    "translation": "Diferență reală, confirmată: ופילגשו ושמה רומה ותלד גם היא את טבח ואת גחם ואת תחש ואת מעכה — „Iar concubina lui, al cărei nume era Reuma, i-a născut și ea pe Tevah și pe Gaham și pe Tahaș și pe Maaha.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

@@ -149,7 +149,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואלה תולדת בני נח שם חם ויפת ויולידו להם בנים אחרי המבול",
-    "translation": "Diferență reală, confirmată: ואלה תולדת בני נח שם חם ויפת ויולידו להם בנים אחרי המבול — „Now these [are] the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.”",
+    "translation": "Diferență reală, confirmată: ואלה תולדת בני נח שם חם ויפת ויולידו להם בנים אחרי המבול — „Și aceștia sunt urmașii fiilor lui Noe: Șem, Ham și Iafet; lor li s-au născut copii după potop.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -305,7 +305,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "בני יפת גמר ומגוג מדי ויון תובל מושך ותירס",
-    "translation": "Diferență reală, confirmată: בני יפת גמר ומגוג מדי ויון תובל מושך ותירס — „The sons of Japheth; Gomer, and Magog, Madai, and Javan,Tubal, and Meshech, and Tiras.”",
+    "translation": "Diferență reală, confirmată: בני יפת גמר ומגוג מדי ויון תובל מושך ותירס — „Fiii lui Iafet: Gomer, Magog, Madai, Iavan, Tuval, Meșeh și Tiras.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -413,7 +413,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ובני גמר אשכנז ריפת ותגרמה",
-    "translation": "Diferență reală, confirmată: ובני גמר אשכנז ריפת ותגרמה — „And the sons of Gomer; Ashkenaz, Riphath, and Togarmah.”",
+    "translation": "Diferență reală, confirmată: ובני גמר אשכנז ריפת ותגרמה — „Și fiii lui Gomer: Așkenaz, Rifat și Togarma.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -526,7 +526,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ובני יון אליש תרשיש כתים ורודנים",
-    "translation": "Diferență reală, confirmată: ובני יון אליש תרשיש כתים ורודנים — „And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.”",
+    "translation": "Diferență reală, confirmată: ובני יון אליש תרשיש כתים ורודנים — „Și fiii lui Iavan: Elișa și Tarșiș, Chitim și Rodanim.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -671,7 +671,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "מאלה נפרדו איי הגוים בארצותם איש ללשנו למשפחותם בגויהם",
-    "translation": "Diferență reală, confirmată: מאלה נפרדו איי הגוים בארצותם איש ללשנו למשפחותם בגויהם — „By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.”",
+    "translation": "Diferență reală, confirmată: מאלה נפרדו איי הגוים בארצותם איש ללשנו למשפחותם בגויהם — „Din aceștia s-au despărțit insulele neamurilor pe pământurile lor, fiecare după limba sa, după familiile lor, cu neamurile lor.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -784,7 +784,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ובני חם כוש ומצרים פוט וכנען",
-    "translation": "Diferență reală, confirmată: ובני חם כוש ומצרים פוט וכנען — „And the sons of Ham; Cush, and Mizraim, Phut and Canaan.”",
+    "translation": "Diferență reală, confirmată: ובני חם כוש ומצרים פוט וכנען — „Și fiii lui Ham: Cuș și Mițraim și Put și Canaan.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -957,7 +957,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ובני כוש סבה וחוילה סבתה ורעמה וסבתכה ובני רעמה שבא ודדן",
-    "translation": "Diferență reală, confirmată: ובני כוש סבה וחוילה סבתה ורעמה וסבתכה ובני רעמה שבא ודדן — „And the sons of Cush; Seba and Havilah, Sabtah and Raamah and Sabtechah: and the sons of Raamah; Sheba, and Dedan.”",
+    "translation": "Diferență reală, confirmată: ובני כוש סבה וחוילה סבתה ורעמה וסבתכה ובני רעמה שבא ודדן — „Și fiii lui Cuș: Seva și Havila și Savta și Rama și Savteha. Și fiii lui Rama: Șeva și Dedan.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1093,7 +1093,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וכוש הוליד את נמרוד הוא החל להיות גבור בארץ",
-    "translation": "Diferență reală, confirmată: וכוש הוליד את נמרוד הוא החל להיות גבור בארץ — „And Cush begat Nimrod: he began to be a mighty one in the earth.”",
+    "translation": "Diferență reală, confirmată: וכוש הוליד את נמרוד הוא החל להיות גבור בארץ — „Iar lui Cuș i s-a născut Nimrod. El a început să fie un viteaz pe pământ.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1219,7 +1219,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "הוא היה גבור ציד לפני יהוה על כן יאמר כנמרוד גבור ציד לפני יהוה",
-    "translation": "Diferență reală, confirmată: הוא היה גבור ציד לפני יהוה על כן יאמר כנמרוד גבור ציד לפני יהוה — „He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.”",
+    "translation": "Diferență reală, confirmată: הוא היה גבור ציד לפני יהוה על כן יאמר כנמרוד גבור ציד לפני יהוה — „El a fost vânător viteaz în fața DOMNULUI; de aceea se și spune: „Precum Nimrod, un vânător viteaz în fața DOMNULUI!”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1519,7 +1519,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "מן הארץ ההיא יצא אשור ויבן את נינוה ואת רחבות עיר ואת כלח",
-    "translation": "Diferență reală, confirmată: מן הארץ ההיא יצא אשור ויבן את נינוה ואת רחבות עיר ואת כלח — „Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah”",
+    "translation": "Diferență reală, confirmată: מן הארץ ההיא יצא אשור ויבן את נינוה ואת רחבות עיר ואת כלח — „Din acea țară a ieșit Așur și a construit Ninive, Rehovot-Ir și Calah”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1659,7 +1659,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואת רסן בין נינוה ובין כלח היא העיר הגדלה",
-    "translation": "Diferență reală, confirmată: ואת רסן בין נינוה ובין כלח היא העיר הגדלה — „And Resen between Nineveh and Calah: the same [is] a great city.”",
+    "translation": "Diferență reală, confirmată: ואת רסן בין נינוה ובין כלח היא העיר הגדלה — „și Resen între Ninive și Calah; acesta este orașul cel mare.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1794,7 +1794,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ומצרים ילד את לדים ואת עינמים ואת להבים ואת נפתחים",
-    "translation": "Diferență reală, confirmată: ומצרים ילד את לדים ואת עינמים ואת להבים ואת נפתחים — „And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim”",
+    "translation": "Diferență reală, confirmată: ומצרים ילד את לדים ואת עינמים ואת להבים ואת נפתחים — „Și lui Mițraim i s-au născut ludiții și anamiții și lehaviții și naftuhiții,”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2051,7 +2051,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וכנען ילד את צידון בכורו ואת החת",
-    "translation": "Diferență reală, confirmată: וכנען ילד את צידון בכורו ואת החת — „And Canaan begat Sidon his firstborn, and Heth”",
+    "translation": "Diferență reală, confirmată: וכנען ילד את צידון בכורו ואת החת — „Iar lui Canaan i s-a născut Țidon, întâiul său născut, și Het;”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2226,7 +2226,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואת החוי ואת הערוקי ואת הסיני",
-    "translation": "Diferență reală, confirmată: ואת החוי ואת הערוקי ואת הסיני — „And the Hivite, and the Arkite, and the Sinite”",
+    "translation": "Diferență reală, confirmată: ואת החוי ואת הערוקי ואת הסיני — „și hivitul și arkitul și sinitul;”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2349,7 +2349,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואת הארודי ואת הצמרי ואת החמתי ואחר נפצה משפחת הכנעני",
-    "translation": "Diferență reală, confirmată: ואת הארודי ואת הצמרי ואת החמתי ואחר נפצה משפחת הכנעני — „And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.”",
+    "translation": "Diferență reală, confirmată: ואת הארודי ואת הצמרי ואת החמתי ואחר נפצה משפחת הכנעני — „și arvaditul și țemaritul și hamatitul. Și după aceea s-au răspândit familiile canaanitului.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2546,7 +2546,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהי גבול הכנעני מנהר מצרים עד הנהר הגדול נהר פרת ועד הים האחרון",
-    "translation": "Diferență reală, confirmată: ויהי גבול הכנעני מנהר מצרים עד הנהר הגדול נהר פרת ועד הים האחרון — „And the border of the Canaanites was from river of Egypt, great river Gerat, and until latter waters.”",
+    "translation": "Diferență reală, confirmată: ויהי גבול הכנעני מנהר מצרים עד הנהר הגדול נהר פרת ועד הים האחרון — „Iar hotarul canaanitului s-a întins din Țidon, venind către Gherar, până la Gaza; venind spre Sodoma*Ebr:Sedom și Gomora*Ebr:Amora și Adma și Țevoim, până la Lașa.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2696,7 +2696,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "אלה בני חם למשפחותם ללשנותם בארצותם לגויהם",
-    "translation": "Diferență reală, confirmată: אלה בני חם למשפחותם ללשנותם בארצותם לגויהם — „These [are] the sons of Ham, after their families, after their tongues, in their countries, [and] in their nations.”",
+    "translation": "Diferență reală, confirmată: אלה בני חם למשפחותם ללשנותם בארצותם לגויהם — „Aceștia sunt fiii lui Ham, după familiile lor, după limbile lor, în țările lor, cu neamurile lor.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2984,7 +2984,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "בני שם עילם ואשור וארפכשד ולד וארם",
-    "translation": "Diferență reală, confirmată: בני שם עילם ואשור וארפכשד ולד וארם — „The children of Shem; Elam, and Asshur, and Arphaxad, Lud, and Aram.”",
+    "translation": "Diferență reală, confirmată: בני שם עילם ואשור וארפכשד ולד וארם — „Și fiii lui Șem: Eilam, Așur, Arpacșad, Lud și Aram.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3093,7 +3093,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ובני ארם עוץ וחויל גתר ומשא",
-    "translation": "Diferență reală, confirmată: ובני ארם עוץ וחויל גתר ומשא — „And the children of Aram; Uz, and Hul, Gether, and Mash.”",
+    "translation": "Diferență reală, confirmată: ובני ארם עוץ וחויל גתר ומשא — „Și fiii lui Aram: Uț, Hul, Gheter și Maș.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3394,7 +3394,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ולעבר ילדו שני בנים שם האחד פלג כי בימיו נפלגה הארץ ושם אחיו יקטן",
-    "translation": "Diferență reală, confirmată: ולעבר ילדו שני בנים שם האחד פלג כי בימיו נפלגה הארץ ושם אחיו יקטן — „Unto Eber they were born two sons: the name of one [was] Peleg; for in his days was the earth divided; and his brother's name [was] Joktan.”",
+    "translation": "Diferență reală, confirmată: ולעבר ילדו שני בנים שם האחד פלג כי בימיו נפלגה הארץ ושם אחיו יקטן — „Și lui Ever i s-au născut doi fii: numele celui dintâi era Peleg, fiindcă în zilele lui a fost împărțit pământul; iar numele fratelui său era Ioktan.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3620,7 +3620,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואת אדורם ואת עיזל ואת דקלה",
-    "translation": "Diferență reală, confirmată: ואת אדורם ואת עיזל ואת דקלה — „And Hadoram, and Uzal, and Diklah”",
+    "translation": "Diferență reală, confirmată: ואת אדורם ואת עיזל ואת דקלה — „Hadoram, Uzal și Dikla;”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3698,7 +3698,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואת עיבל ואת אבימאל ואת שבא",
-    "translation": "Diferență reală, confirmată: ואת עיבל ואת אבימאל ואת שבא — „And Obal, and Abimael, and Sheba”",
+    "translation": "Diferență reală, confirmată: ואת עיבל ואת אבימאל ואת שבא — „Oval, Avimael și Șeva;”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3818,7 +3818,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואת אפר ואת חוילה ואת יובב כל אלה בני יקטן",
-    "translation": "Diferență reală, confirmată: ואת אפר ואת חוילה ואת יובב כל אלה בני יקטן — „And Ophir, and Havilah, and Jobab: all these [were] the sons of Joktan.”",
+    "translation": "Diferență reală, confirmată: ואת אפר ואת חוילה ואת יובב כל אלה בני יקטן — „Ofir, Havila și Iovav. Toți aceștia sunt fiii lui Ioktan.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4084,7 +4084,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "אלה בני שם למשפחותם ללשנותם בארצותם לגויהם",
-    "translation": "Diferență reală, confirmată: אלה בני שם למשפחותם ללשנותם בארצותם לגויהם — „These [are] the sons of Shem, after their families, after their tongues, in their lands, after their nations.”",
+    "translation": "Diferență reală, confirmată: אלה בני שם למשפחותם ללשנותם בארצותם לגויהם — „Aceștia sunt fiii lui Șem, după familiile lor, după limbile lor, în țările lor, după neamurile lor.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4249,7 +4249,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "אלה משפחות בני נח לתולדתם בגויהם מאלה נפרדו איי הגוים בארץ אחרי המבול",
-    "translation": "Diferență reală, confirmată: אלה משפחות בני נח לתולדתם בגויהם מאלה נפרדו איי הגוים בארץ אחרי המבול — „These [are] the families of the sons of Noah, after their generations, in their nations: from these were divided the nations in the earth after the flood.”",
+    "translation": "Diferență reală, confirmată: אלה משפחות בני נח לתולדתם בגויהם מאלה נפרדו איי הגוים בארץ אחרי המבול — „Acestea sunt familiile fiilor lui Noe, după generațiile lor, cu neamurile lor; și din aceștia s-au răspândit neamurile pe pământ după potop.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

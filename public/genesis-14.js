@@ -135,7 +135,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהי בימי אמרפל מלך שנער ואריוך מלך אלסר כדר לעמר מלך עילם ותדעל מלך גוים",
-    "translation": "Diferență reală, confirmată: ויהי בימי אמרפל מלך שנער ואריוך מלך אלסר כדר לעמר מלך עילם ותדעל מלך גוים — „And it came to pass in the days of Amraphel king of Shinar, and Arioch king of Ellasar, Chedor Laomer king of Elam, and Tidal king of nations;”",
+    "translation": "Diferență reală, confirmată: ויהי בימי אמרפל מלך שנער ואריוך מלך אלסר כדר לעמר מלך עילם ותדעל מלך גוים — „Și a fost în zilele lui Amrafel regele Șinarului, ale lui Arioh, regele Elasarului, ale lui Chedorlaomer, regele Elamului și ale lui Tidal, regele Goimului.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -378,7 +378,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "עשו מלחמה את ברע מלך סדם ואת ברשע מלך עמרה ושנאב מלך אדמה ושמ אבד מלך צבואים ומלך בלע היא צער",
-    "translation": "Diferență reală, confirmată: עשו מלחמה את ברע מלך סדם ואת ברשע מלך עמרה ושנאב מלך אדמה ושמ אבד מלך צבואים ומלך בלע היא צער — „[That these] made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar.”",
+    "translation": "Diferență reală, confirmată: עשו מלחמה את ברע מלך סדם ואת ברשע מלך עמרה ושנאב מלך אדמה ושמ אבד מלך צבואים ומלך בלע היא צער — „Ei au făcut război cu Bera, regele Sodomei, și cu Birșa, regele Gomorei, [și cu] Șinav, regele Admei și [cu] Șemever, regele Țevoimului, și [cu] regele Belei, adică Țoar.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -639,7 +639,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "שתים עשרה שנה עבדו את כדר לעמר ובשלש עשרה שנה מרדו",
-    "translation": "Diferență reală, confirmată: שתים עשרה שנה עבדו את כדר לעמר ובשלש עשרה שנה מרדו — „Twelve years they served Chedor Laomer, and in the thirteenth year they rebelled.”",
+    "translation": "Diferență reală, confirmată: שתים עשרה שנה עבדו את כדר לעמר ובשלש עשרה שנה מרדו — „Doisprezece ani l-au slujit pe Chedorlaomer și în al treispezecelea an s-au răsculat.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -844,7 +844,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ובארבע עשרה שנה בא כדר לעמר והמלכים אשר אתו ויכו את הרפאים בעשתרות קרנים ואת הזוזים בחם ואת האימים בשבי קריתים",
-    "translation": "Diferență reală, confirmată: ובארבע עשרה שנה בא כדר לעמר והמלכים אשר אתו ויכו את הרפאים בעשתרות קרנים ואת הזוזים בחם ואת האימים בשבי קריתים — „And in the fourteenth year came Chedor Laomer, and the kings that [were] with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim”",
+    "translation": "Diferență reală, confirmată: ובארבע עשרה שנה בא כדר לעמר והמלכים אשר אתו ויכו את הרפאים בעשתרות קרנים ואת הזוזים בחם ואת האימים בשבי קריתים — „Iar în al paisprezecelea an a venit Chedorlaomer și regii care erau cu el și i-au lovit pe refaimiți la Așterot-Karnaim, pe zuziți în Ham, pe emimi la Șave-Kiriataim;”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -983,7 +983,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואת החרי בהררי שעיר עד איל פראן אשר על המדבר",
-    "translation": "Diferență reală, confirmată: ואת החרי בהררי שעיר עד איל פראן אשר על המדבר — „And the Horites in mount Seir, unto El-paran, which [is] by the wilderness.”",
+    "translation": "Diferență reală, confirmată: ואת החרי בהררי שעיר עד איל פראן אשר על המדבר — „și pe horiți la munții lor, Seir, până la câmpia Paran care este lângă deșert.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1178,7 +1178,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישבו ויבאו אל עינ משפט היא קדש ויכו את כל שדה העמלקי וגם את האמרי הישב בחצצונ תמר",
-    "translation": "Diferență reală, confirmată: וישבו ויבאו אל עינ משפט היא קדש ויכו את כל שדה העמלקי וגם את האמרי הישב בחצצונ תמר — „And they returned, and came to En-mishpat, which [is] Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezon-tamar.”",
+    "translation": "Diferență reală, confirmată: וישבו ויבאו אל עינ משפט היא קדש ויכו את כל שדה העמלקי וגם את האמרי הישב בחצצונ תמר — „S-au întors și au venit la Ein-Mișpat, adică la Kadeș; au lovit tot teritoriul amalekitului, precum și pe amoritul ce sălășluia în Hațațon-Tamar.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1380,7 +1380,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויצא מלך סדם ומלך עמרה ומלך אדמה ומלך צבואים ומלך בלע הוא צער ויערכו אתם מלחמה בעמק השדים",
-    "translation": "Diferență reală, confirmată: ויצא מלך סדם ומלך עמרה ומלך אדמה ומלך צבואים ומלך בלע הוא צער ויערכו אתם מלחמה בעמק השדים — „And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same [is] Zoar;) and they joined battle with them in the vale of Siddim;”",
+    "translation": "Diferență reală, confirmată: ויצא מלך סדם ומלך עמרה ומלך אדמה ומלך צבואים ומלך בלע הוא צער ויערכו אתם מלחמה בעמק השדים — „Atunci regele Sodomei a ieșit cu regele Gomorei, regele Admei, regele Țevoimului și regele Belei, adică Țoar, și s-au războit cu ei în valea Sidim,”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1549,7 +1549,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "את כדר לעמר מלך עילם ותדעל מלך גוים אמרפל מלך שנער ואריוך מלך אלסר ארבעה מלכים את החמשה",
-    "translation": "Diferență reală, confirmată: את כדר לעמר מלך עילם ותדעל מלך גוים אמרפל מלך שנער ואריוך מלך אלסר ארבעה מלכים את החמשה — „With Chedor Laomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five.”",
+    "translation": "Diferență reală, confirmată: את כדר לעמר מלך עילם ותדעל מלך גוים אמרפל מלך שנער ואריוך מלך אלסר ארבעה מלכים את החמשה — „împotriva lui Chedorlaomer, regele Elamului, și Tidal, regele Goimului, și Amrafel, regele Șinarului, și Arioh, regele Elasarului – împotriva celor cinci.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1750,7 +1750,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ועמק השדים בארות בארות חימר וינסו מלך סדם ומלך עמרה ויפלו שם והנשארים ההרה נסו",
-    "translation": "Diferență reală, confirmată: ועמק השדים בארות בארות חימר וינסו מלך סדם ומלך עמרה ויפלו שם והנשארים ההרה נסו — „And the vale of Siddim [was full of] slimepits; and the king of Sodom and the king Gomorrah fled, and fell there; and they that remained fled to the mountain.”",
+    "translation": "Diferență reală, confirmată: ועמק השדים בארות בארות חימר וינסו מלך סדם ומלך עמרה ויפלו שם והנשארים ההרה נסו — „Iar valea Sidim era plină de puțuri de smoală. Regii din Sodoma și Gomora au fugit și au căzut în ele, iar restul au fugit către munte.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1893,7 +1893,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקחו את כל רכוש סדם ועמרה ואת כל אכלם וילכו",
-    "translation": "Diferență reală, confirmată: ויקחו את כל רכוש סדם ועמרה ואת כל אכלם וילכו — „And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way.”",
+    "translation": "Diferență reală, confirmată: ויקחו את כל רכוש סדם ועמרה ואת כל אכלם וילכו — „Apoi au luat toată averea Sodomei și Gomorei și toată hrana lor și au plecat.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2044,7 +2044,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקחו את לוט ואת כל רכושו בן אחי אברם וילך והוא ישב בסדם",
-    "translation": "Diferență reală, confirmată: ויקחו את לוט ואת כל רכושו בן אחי אברם וילך והוא ישב בסדם — „And they took Lot, Abram's brother's son, who dwelt in Sodom, and his goods, and departed.”",
+    "translation": "Diferență reală, confirmată: ויקחו את לוט ואת כל רכושו בן אחי אברם וילך והוא ישב בסדם — „Și l-au luat pe Lot, fiul fratelui lui Avram, și averea lui, și au plecat; căci el locuia în Sodoma.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2274,7 +2274,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויבא הפליט ויגד לאברם העברי והוא שכן באלוני ממרא האמרי אחי אשכול ואחי ענרם והם בעלי ברית אברם",
-    "translation": "Diferență reală, confirmată: ויבא הפליט ויגד לאברם העברי והוא שכן באלוני ממרא האמרי אחי אשכול ואחי ענרם והם בעלי ברית אברם — „And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these [were] confederate with Abram.”",
+    "translation": "Diferență reală, confirmată: ויבא הפליט ויגד לאברם העברי והוא שכן באלוני ממרא האמרי אחי אשכול ואחי ענרם והם בעלי ברית אברם — „Fugarul a venit și i-a dat de veste lui Avram evreul; iar el locuia în câmpiile lui Mamre, amoritul, fratele lui Eșcol și fratele lui Aner, care aveau legământ cu Avram.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2456,7 +2456,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישמע אברם כי נשבא אחיו וידק את חניכיו ילידי ביתו שמנה עשר ושלש מאות וירדף עד דן",
-    "translation": "Diferență reală, confirmată: וישמע אברם כי נשבא אחיו וידק את חניכיו ילידי ביתו שמנה עשר ושלש מאות וירדף עד דן — „And when Abram heard that his brother was taken captive, he armed his trained [servants], born in his own house, three hundred and eighteen, and pursued [them] unto Dan.”",
+    "translation": "Diferență reală, confirmată: וישמע אברם כי נשבא אחיו וידק את חניכיו ילידי ביתו שמנה עשר ושלש מאות וירדף עד דן — „Auzind Avram că îi fusese luat prizonier fratele, și-a înarmat discipolii născuți în casa sa, cei trei sute optsprezece, și a pornit în urmărire până la Dan.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2769,7 +2769,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישב את כל הרכוש וגם את לוט אחיו ורכושו השיב וגם את הנשים ואת העם",
-    "translation": "Diferență reală, confirmată: וישב את כל הרכוש וגם את לוט אחיו ורכושו השיב וגם את הנשים ואת העם — „And he brought back all the goods, and also brought again his brother Lot, and goods, and the women also, and the people.”",
+    "translation": "Diferență reală, confirmată: וישב את כל הרכוש וגם את לוט אחיו ורכושו השיב וגם את הנשים ואת העם — „A recuperat toată averea, l-a recuperat și pe fratele său Lot și averea sa, și femeile și poporul.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2966,7 +2966,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויצא מלך סדם לקראתו אחרי שובו מהכות את כדר לעמר ואת המלכים אשר אתו אל עמק השוי הוא עמק המלך",
-    "translation": "Diferență reală, confirmată: ויצא מלך סדם לקראתו אחרי שובו מהכות את כדר לעמר ואת המלכים אשר אתו אל עמק השוי הוא עמק המלך — „And the king of Sodom went out to meet him after his return from the slaughter of Chedor Laomer, and of the kings that [were] with him, at the valley of Shaveh, which [is] the king's dale.”",
+    "translation": "Diferență reală, confirmată: ויצא מלך סדם לקראתו אחרי שובו מהכות את כדר לעמר ואת המלכים אשר אתו אל עמק השוי הוא עמק המלך — „Iar regele Sodomei i-a ieșit în întâmpinare după ce s-a întors după înfrângerea lui Chedorlaomer și a regilor care erau cu el, în valea Șave, care este valea regelui.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3320,7 +3320,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויברך את אברם ויאמר ברוך אברם לאל עליון קנה שמים וארץ",
-    "translation": "Diferență reală, confirmată: ויברך את אברם ויאמר ברוך אברם לאל עליון קנה שמים וארץ — „And he blessed him, and said, Blessed [be] Abram of the most high God, possessor of heaven and earth:”",
+    "translation": "Diferență reală, confirmată: ויברך את אברם ויאמר ברוך אברם לאל עליון קנה שמים וארץ — „El l-a binecuvântat și a spus: „Binecuvântat este Avram de către Dumnezeul Preaînalt, Creatorul cerurilor și pământului.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3645,7 +3645,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר מלך סדם אל אברם תנה לי הנפש והרכוש קח לך",
-    "translation": "Diferență reală, confirmată: ויאמר מלך סדם אל אברם תנה לי הנפש והרכוש קח לך — „And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.”",
+    "translation": "Diferență reală, confirmată: ויאמר מלך סדם אל אברם תנה לי הנפש והרכוש קח לך — „Regele Sodomei i-a spus lui Avram: „Dă-mi mie sufletele, iar averea ia-o pentru tine.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3825,7 +3825,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אברם אל מלך סדם הרמתי את ידי אל האלהים אל עליון קנה שמים וארץ",
-    "translation": "Diferență reală, confirmată: ויאמר אברם אל מלך סדם הרמתי את ידי אל האלהים אל עליון קנה שמים וארץ — „And Abram said to the king of Sodom, I have lift up mine hand unto the God, the most high God, the possessor of heaven and earth”",
+    "translation": "Diferență reală, confirmată: ויאמר אברם אל מלך סדם הרמתי את ידי אל האלהים אל עליון קנה שמים וארץ — „Avram i-a spus regelui Sodomei: „Îmi ridic mâna către DOMNUL, Dumnezeul Preaînalt, Creatorul cerurilor și pământului,”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4001,7 +4001,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "אם מחוט ועד שרוג נעל אם אקח מכל אשר לך ולא תאמר אנכי אעשרתי את אברם",
-    "translation": "Diferență reală, confirmată: אם מחוט ועד שרוג נעל אם אקח מכל אשר לך ולא תאמר אנכי אעשרתי את אברם — „That I will not [take] from a thread even to a shoelatchet, that I will not take any thing that [is] thine, lest thou shouldest say, I have made Abram rich:”",
+    "translation": "Diferență reală, confirmată: אם מחוט ועד שרוג נעל אם אקח מכל אשר לך ולא תאמר אנכי אעשרתי את אברם — „dacă [am luat] fie și un fir de ață sau o curea de încălțăminte, sau dacă voi lua din orice care este al tău! Ca să nu spui: «Eu l-am îmbogățit pe Avram.»”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4178,7 +4178,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "בלעדי רק אשר אכלו הנערים וחלק האנשים אשר הלכו אתי ענרם ואשכול וממרא הם יקחו חלקם",
-    "translation": "Diferență reală, confirmată: בלעדי רק אשר אכלו הנערים וחלק האנשים אשר הלכו אתי ענרם ואשכול וממרא הם יקחו חלקם — „Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.”",
+    "translation": "Diferență reală, confirmată: בלעדי רק אשר אכלו הנערים וחלק האנשים אשר הלכו אתי ענרם ואשכול וממרא הם יקחו חלקם — „Departe de mine! Numai ceea ce au mâncat tinerii și partea oamenilor care au mers cu mine: Aner, Eșcol și Mamre – ei își vor lua partea.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

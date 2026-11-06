@@ -177,7 +177,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהי אברם בן תשעים ותשע שנים וירא יהוה אל אברם ויאמר אליו אני אל שדי התהלך לפני והוי תמים",
-    "translation": "Diferență reală, confirmată: ויהי אברם בן תשעים ותשע שנים וירא יהוה אל אברם ויאמר אליו אני אל שדי התהלך לפני והוי תמים — „And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I [am] the Almighty God; walk before me, and be thou perfect.”",
+    "translation": "Diferență reală, confirmată: ויהי אברם בן תשעים ותשע שנים וירא יהוה אל אברם ויאמר אליו אני אל שדי התהלך לפני והוי תמים — „Și a fost, când Avram avea nouăzeci și nouă de ani, că DOMNUL i S-a arătat lui Avram și i-a spus: „Eu sunt Dumnezeul Atotputernic*Ebr: El Șadai; mergi înaintea Mea și fii integru!”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -309,7 +309,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואתנה בריתי ביני ובינך וארבה אתך במאד מאד",
-    "translation": "Diferență reală, confirmată: ואתנה בריתי ביני ובינך וארבה אתך במאד מאד — „And I will make my covenant between me and thee, and will multiply thee exceedingly.”",
+    "translation": "Diferență reală, confirmată: ואתנה בריתי ביני ובינך וארבה אתך במאד מאד — „Și voi pune legământul Meu între Mine și tine și te voi înmulți nespus.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -534,7 +534,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואני הנה בריתי אתך והיית לאב המון גוים",
-    "translation": "Diferență reală, confirmată: ואני הנה בריתי אתך והיית לאב המון גוים — „As for me, behold, my covenant [is] with thee, and thou shalt be a father of many nations.”",
+    "translation": "Diferență reală, confirmată: ואני הנה בריתי אתך והיית לאב המון גוים — „„[Cât despre] Mine, iată legământul Meu cu tine: vei fi părinte al multor neamuri.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -679,7 +679,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ולא יקרא עוד שמך אברם והיה שמך אברהם כי אב המון גוים נתתיך",
-    "translation": "Diferență reală, confirmată: ולא יקרא עוד שמך אברם והיה שמך אברהם כי אב המון גוים נתתיך — „Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee.”",
+    "translation": "Diferență reală, confirmată: ולא יקרא עוד שמך אברם והיה שמך אברהם כי אב המון גוים נתתיך — „Numele tău nu se va mai chema Avram*Adică „părintele Aramului”, ci numele tău va fi Avraham*Adică „părinte al multe neamuri”, căci ți-am dat să fii tatăl multor neamuri.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -805,7 +805,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "והפריתי אתך במאד מאד ונתתיך לגוים ומלכים ממך יצאו",
-    "translation": "Diferență reală, confirmată: והפריתי אתך במאד מאד ונתתיך לגוים ומלכים ממך יצאו — „And I will make thee exceeding fruitful, and I will make nations of thee, and kings shall come out of thee.”",
+    "translation": "Diferență reală, confirmată: והפריתי אתך במאד מאד ונתתיך לגוים ומלכים ממך יצאו — „Te voi face foarte roditor și voi face din tine neamuri; și regi din tine vor ieși.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1246,7 +1246,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אלהים אל אברהם ואתה את בריתי תשמר אתה וזרעך אחריך לדרותם",
-    "translation": "Diferență reală, confirmată: ויאמר אלהים אל אברהם ואתה את בריתי תשמר אתה וזרעך אחריך לדרותם — „And God said unto Abraham, Thou shalt keep my covenant therefore, thou, and thy seed after thee in their generations.”",
+    "translation": "Diferență reală, confirmată: ויאמר אלהים אל אברהם ואתה את בריתי תשמר אתה וזרעך אחריך לדרותם — „Dumnezeu i-a spus lui Avraham: „Iar tu să păstrezi legământul Meu, tu și seminția ta după tine, peste generațiile lor.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1364,7 +1364,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "זאת בריתי אשר תשמרו ביני ובינכם ובין זרעך אחריך המול לכם כל זכר",
-    "translation": "Diferență reală, confirmată: זאת בריתי אשר תשמרו ביני ובינכם ובין זרעך אחריך המול לכם כל זכר — „This [is] my covenant, which ye shall keep, between me and you and thy seed after thee; Every man child among you shall be circumcised.”",
+    "translation": "Diferență reală, confirmată: זאת בריתי אשר תשמרו ביני ובינכם ובין זרעך אחריך המול לכם כל זכר — „Acesta este legământul Meu pe care să-l păziți între Mine și voi și seminția ta după tine: tot cel de parte bărbătească dintre voi să fie circumcis.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1491,7 +1491,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ונמלתם את בשר ערלתכם והיתה לאות ברית ביני ובינכם",
-    "translation": "Diferență reală, confirmată: ונמלתם את בשר ערלתכם והיתה לאות ברית ביני ובינכם — „And ye shall circumcise the flesh of your foreskin; and it shall be a token of the covenant betwixt me and you.”",
+    "translation": "Diferență reală, confirmată: ונמלתם את בשר ערלתכם והיתה לאות ברית ביני ובינכם — „Să vă circumcideți carnea prepuțului vostru și să fie ca semn al legământului între Mine și voi.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1830,7 +1830,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "המול ימול ילידי ביתך ומקנת כספך והיתה בריתי בבשרכם לברית עולם",
-    "translation": "Diferență reală, confirmată: המול ימול ילידי ביתך ומקנת כספך והיתה בריתי בבשרכם לברית עולם — „They that are born in thy house, and he that is bought with thy money, must needs be circumcised: and my covenant shall be in your flesh for an everlasting covenant.”",
+    "translation": "Diferență reală, confirmată: המול ימול ילידי ביתך ומקנת כספך והיתה בריתי בבשרכם לברית עולם — „Circumcis negreșit să fie cel născut în casa ta și cel cumpărat cu banii tăi; legământul Meu să fie în carnea voastră ca legământ veșnic.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2017,7 +2017,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וערל זכר אשר לא ימול את בשר ערלתו ביום השמיני ונכרתה הנפש ההיא מעמיה את בריתי הפר",
-    "translation": "Diferență reală, confirmată: וערל זכר אשר לא ימול את בשר ערלתו ביום השמיני ונכרתה הנפש ההיא מעמיה את בריתי הפר — „And the uncircumcised man child whose flesh of his foreskin is not circumcised in day the eight, that soul shall be cut off from his people; he hath broken my covenant.”",
+    "translation": "Diferență reală, confirmată: וערל זכר אשר לא ימול את בשר ערלתו ביום השמיני ונכרתה הנפש ההיא מעמיה את בריתי הפר — „Iar cel de parte bărbătească necircumcis, care nu-și va tăia împrejur carnea prepuțului în ziua a opta, sufletul acela va fi stârpit din poporul său: a călcat legământul Meu.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2316,7 +2316,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וברכתי אתה וגם נתתי ממנה לך בן וברכתיו והיתה לגוים ומלכי עמים ממנה יהיו",
-    "translation": "Diferență reală, confirmată: וברכתי אתה וגם נתתי ממנה לך בן וברכתיו והיתה לגוים ומלכי עמים ממנה יהיו — „And I will bless her, and give thee a son also of her: yea, I will bless her, and she shall be [a mother] of nations; and kings of people shall be of her.”",
+    "translation": "Diferență reală, confirmată: וברכתי אתה וגם נתתי ממנה לך בן וברכתיו והיתה לגוים ומלכי עמים ממנה יהיו — „O voi binecuvânta și îți voi și dărui de la ea un fiu; o voi binecuvânta și ea va fi neamuri; regi ai popoarelor vor ieși din ea.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2518,7 +2518,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויפל אברהם על פניו ויצחק ויאמר בלבו הלבן מאת שנה אוליד ואם שרה הבת תשעים שנה תלד",
-    "translation": "Diferență reală, confirmată: ויפל אברהם על פניו ויצחק ויאמר בלבו הלבן מאת שנה אוליד ואם שרה הבת תשעים שנה תלד — „Then Abraham fell upon his face, and laughed, and said in his heart, Shall [a child] be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?”",
+    "translation": "Diferență reală, confirmată: ויפל אברהם על פניו ויצחק ויאמר בלבו הלבן מאת שנה אוליד ואם שרה הבת תשעים שנה תלד — „Avraham a căzut cu fața [la pământ] și a râs și a spus în inima lui: „Oare cuiva de o sută de ani i se va naște [un fiu]? Și oare Sara, o femeie de nouăzeci de ani, va naște?”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2659,7 +2659,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אברהם אל האלהים לוי ישמעאל יחיה לפניך",
-    "translation": "Diferență reală, confirmată: ויאמר אברהם אל האלהים לוי ישמעאל יחיה לפניך — „And Abraham said unto God, O that Ishmael might live before thee!”",
+    "translation": "Diferență reală, confirmată: ויאמר אברהם אל האלהים לוי ישמעאל יחיה לפניך — „Și Avraham I-a spus lui Dumnezeu: „Să trăiască Ișmael înaintea Ta !”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2864,7 +2864,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אלהים אבל הנה שרה אשתך ילדת לך בן וקראת את שמו יצחק והקמתי את בריתי אתו לברית עולם ולזרעו אחריו",
-    "translation": "Diferență reală, confirmată: ויאמר אלהים אבל הנה שרה אשתך ילדת לך בן וקראת את שמו יצחק והקמתי את בריתי אתו לברית עולם ולזרעו אחריו — „And God said, behold â€“ Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an everlasting covenant, and with his seed after him.”",
+    "translation": "Diferență reală, confirmată: ויאמר אלהים אבל הנה שרה אשתך ילדת לך בן וקראת את שמו יצחק והקמתי את בריתי אתו לברית עולם ולזרעו אחריו — „Și Dumnezeu i-a spus: „Și totuși, soția ta Sara îți va naște un fiu și îi vei pune numele Isaac*De la verbul lițhok („a râde”) și voi statornici legământul Meu cu el ca legământ veșnic cu seminția lui după el.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3053,7 +3053,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ולישמעאל שמעתיך הנה ברכתי אתו והפריתי אתו והרביתי אתו במאד מאד שנים עשר נשיאים יוליד ונתתיו לגוי גדול",
-    "translation": "Diferență reală, confirmată: ולישמעאל שמעתיך הנה ברכתי אתו והפריתי אתו והרביתי אתו במאד מאד שנים עשר נשיאים יוליד ונתתיו לגוי גדול — „And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation.”",
+    "translation": "Diferență reală, confirmată: ולישמעאל שמעתיך הנה ברכתי אתו והפריתי אתו והרביתי אתו במאד מאד שנים עשר נשיאים יוליד ונתתיו לגוי גדול — „Cât despre Ișmael, te-am ascultat: iată, l-am binecuvântat, îl voi face roditor și îl voi înmulți foarte mult, doisprezece prinți i se vor naște și îl voi face un neam mare.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3689,7 +3689,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואברהם בן תשעים ותשע שנים בהמלו את בשר ערלתו",
-    "translation": "Diferență reală, confirmată: ואברהם בן תשעים ותשע שנים בהמלו את בשר ערלתו — „And Abraham [was] ninety years old and nine, when he was circumcised in the flesh of his foreskin.”",
+    "translation": "Diferență reală, confirmată: ואברהם בן תשעים ותשע שנים בהמלו את בשר ערלתו — „Și Avraham avea nouăzeci și nouă de ani când a fost circumcis [în] carnea prepuțului său.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3919,7 +3919,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "בעצם היום הזה נמל אברהם וישמעאל בנו",
-    "translation": "Diferență reală, confirmată: בעצם היום הזה נמל אברהם וישמעאל בנו — „In the selfsame day was Abraham circumcised, and Ishmael his son.”",
+    "translation": "Diferență reală, confirmată: בעצם היום הזה נמל אברהם וישמעאל בנו — „Chiar în aceeași zi au fost circumciși Avraham și fiul său Ișmael.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

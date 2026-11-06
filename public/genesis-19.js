@@ -233,7 +233,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויבאו שני המלאכים סדמה בערב ולוט ישב בשער סדם וירא לוט ויקם לקראתם וישתחוי אפים ארצה",
-    "translation": "Diferență reală, confirmată: ויבאו שני המלאכים סדמה בערב ולוט ישב בשער סדם וירא לוט ויקם לקראתם וישתחוי אפים ארצה — „And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing [them] rose up to meet them; and he bowed himself with his face toward the ground;”",
+    "translation": "Diferență reală, confirmată: ויבאו שני המלאכים סדמה בערב ולוט ישב בשער סדם וירא לוט ויקם לקראתם וישתחוי אפים ארצה — „Cei doi îngeri au ajuns la Sodoma seara, iar Lot stătea la poarta Sodomei. Lot a văzut, s-a ridicat să-i întâmpine și s-a prosternat cu fața la pământ.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -498,7 +498,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר הנה נא אדני סורו נא אל בית עבדכם ולינו ורחצו רגליכם והשכמתם והלכתם לדרככם ויאמרו לא כי ברחב נלין",
-    "translation": "Diferență reală, confirmată: ויאמר הנה נא אדני סורו נא אל בית עבדכם ולינו ורחצו רגליכם והשכמתם והלכתם לדרככם ויאמרו לא כי ברחב נלין — „And he said, Behold now, my lords, turn in, I pray you, into your servant's house, and tarry all night, and wash your feet, and ye shall rise up early, and go on your ways. And they said, Nay; but we will abide in the street all night.”",
+    "translation": "Diferență reală, confirmată: ויאמר הנה נא אדני סורו נא אל בית עבדכם ולינו ורחצו רגליכם והשכמתם והלכתם לדרככם ויאמרו לא כי ברחב נלין — „Și a spus: „Iată, domnii mei, abateți-vă, vă rog, spre casa slujitorului vostru, înnoptați și spălați-vă picioarele, apoi treziți-vă devreme și mergeți pe drumul vostru.” Iar ei au spus: „Nu, ci pe stradă vom înnopta.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -870,7 +870,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "טרם ישכבו אנשי העיר אנשי סדם נסבו על הבית מנער ועד זקן כל העם מקצה",
-    "translation": "Diferență reală, confirmată: טרם ישכבו אנשי העיר אנשי סדם נסבו על הבית מנער ועד זקן כל העם מקצה — „But before they lay down, the men of the city, [even] the men of Sodom, compassed the house round, both old and young, all the people from every quarter:”",
+    "translation": "Diferență reală, confirmată: טרם ישכבו אנשי העיר אנשי סדם נסבו על הבית מנער ועד זקן כל העם מקצה — „Nu se culcaseră încă și oamenii orașului, oamenii Sodomei, s-au adunat în jurul casei, de la tânăr la bătrân, tot poporul din [toate] colțurile.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1033,7 +1033,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקראו אל לוט ויאמרו אליו איה האנושים אשר באו אליך הלילה הוציאם אלינו ונדע אתם",
-    "translation": "Diferență reală, confirmată: ויקראו אל לוט ויאמרו אליו איה האנושים אשר באו אליך הלילה הוציאם אלינו ונדע אתם — „And they called unto Lot, and said unto him, Where [are] the men which came in to thee this night? bring them out unto us, that we may know them.”",
+    "translation": "Diferență reală, confirmată: ויקראו אל לוט ויאמרו אליו איה האנושים אשר באו אליך הלילה הוציאם אלינו ונדע אתם — „Ei l-au chemat pe Lot și i-au spus: „Unde sunt oamenii care au venit la tine în noaptea aceasta? Scoate-i la noi ca să-i cunoaștem !”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1156,7 +1156,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויצא אליהם לוט הפתח והדלת סגרו אחריו",
-    "translation": "Diferență reală, confirmată: ויצא אליהם לוט הפתח והדלת סגרו אחריו — „And Lot went out at the door unto them, and shut the door after him”",
+    "translation": "Diferență reală, confirmată: ויצא אליהם לוט הפתח והדלת סגרו אחריו — „Lot a ieșit la ei, la intrare, și a închis ușa în spatele lui.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1253,7 +1253,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אל נא אחי תריעו",
-    "translation": "Diferență reală, confirmată: ויאמר אל נא אחי תריעו — „And said, I pray you, brethren, do not so wickedly.”",
+    "translation": "Diferență reală, confirmată: ויאמר אל נא אחי תריעו — „Și a spus: „Vă rog, frații mei, nu faceți [așa] ticăloșie.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1474,7 +1474,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "הנה נא לי שתי בנות אשר לא ידעו איש הוציא נא אתהן אליכם ועשו להן כטוב בעיניכם רק לאנשים האלה אל תעשו דבר כי על כן באו בצל קורתי",
-    "translation": "Diferență reală, confirmată: הנה נא לי שתי בנות אשר לא ידעו איש הוציא נא אתהן אליכם ועשו להן כטוב בעיניכם רק לאנשים האלה אל תעשו דבר כי על כן באו בצל קורתי — „Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as [is] good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof.”",
+    "translation": "Diferență reală, confirmată: הנה נא לי שתי בנות אשר לא ידעו איש הוציא נא אתהן אליכם ועשו להן כטוב בעיניכם רק לאנשים האלה אל תעשו דבר כי על כן באו בצל קורתי — „Iată, am două fiice care nu au cunoscut bărbat; le voi scoate afară la voi și le veți face după cum este bine în ochii voștri. Dar acelor oameni să nu le faceți nimic, căci de aceea au venit sub umbra acoperișului meu.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1729,7 +1729,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמרו גשה הלאה ויאמרו אחד בא לגור וישפט גם שפט עתה נריע לך מהם ויפצרו באיש בלוט מאד ויגשו לשבר הדלת",
-    "translation": "Diferență reală, confirmată: ויאמרו גשה הלאה ויאמרו אחד בא לגור וישפט גם שפט עתה נריע לך מהם ויפצרו באיש בלוט מאד ויגשו לשבר הדלת — „And they said, Stand back. And they said [again], This one [fellow] came in to sojourn, and he will needs moreover be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, [even] Lot, and came near to break the door.”",
+    "translation": "Diferență reală, confirmată: ויאמרו גשה הלאה ויאמרו אחד בא לגור וישפט גם שפט עתה נריע לך מהם ויפצרו באיש בלוט מאד ויגשו לשבר הדלת — „Ei au spus: „Dă-te la o parte!” Și au spus: „Acesta a venit să stea ca străin și mai și judecă? Acum îți vom face și mai mult rău decât lor!” Și l-au îmbrâncit pe om, pe Lot, și s-au apropiat să spargă ușa.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1894,7 +1894,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישלחו האנושים את ידם ויביאו את לוט אליהם הביתה ואת הדלת סגרו",
-    "translation": "Diferență reală, confirmată: וישלחו האנושים את ידם ויביאו את לוט אליהם הביתה ואת הדלת סגרו — „But the men put forth their hand, and pulled Lot into the house to them, and shut to the door.”",
+    "translation": "Diferență reală, confirmată: וישלחו האנושים את ידם ויביאו את לוט אליהם הביתה ואת הדלת סגרו — „Oamenii [aceia] și-au întins mâna și l-au adus pe Lot la ei, în casă, și au închis ușa.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2238,7 +2238,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמרו המלאכים אל לוט עוד מי לך פה חתן בניך ובנתיך וכל אשר לך בעיר הוציא מן המקום הזה",
-    "translation": "Diferență reală, confirmată: ויאמרו המלאכים אל לוט עוד מי לך פה חתן בניך ובנתיך וכל אשר לך בעיר הוציא מן המקום הזה — „And the messengers said unto Lot, Hast thou here any besides? son-in-law, thy sons, and thy daughters, and whatsoever thou hast in the city, bring [them] out of this place:”",
+    "translation": "Diferență reală, confirmată: ויאמרו המלאכים אל לוט עוד מי לך פה חתן בניך ובנתיך וכל אשר לך בעיר הוציא מן המקום הזה — „Îngerii i-au zis lui Lot: Pe cine mai ai aici? Ginere, fiii tăi, fiicele tale și tot ce ai în cetate, scoate-i din locul acesta!”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2405,7 +2405,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "כי משחיתים אנחנו את המקום הזה כי גדלה צעקתם את פני יהוה וישלחנו יהוה להשחיתה",
-    "translation": "Diferență reală, confirmată: כי משחיתים אנחנו את המקום הזה כי גדלה צעקתם את פני יהוה וישלחנו יהוה להשחיתה — „For we will destroy this place, because the cry of them is waxen great before the face of the LORD; and the LORD hath sent us to destroy it.”",
+    "translation": "Diferență reală, confirmată: כי משחיתים אנחנו את המקום הזה כי גדלה צעקתם את פני יהוה וישלחנו יהוה להשחיתה — „Căci suntem pe cale să distrugem locul acesta, căci mare este strigătul [contra] lor înaintea DOMNULUI, așa că DOMNUL ne-a trimis să îl distrugem.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2846,7 +2846,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וכמו השחר עלה ויאיצו המלאכים בלוט לאמר קום קח את אשתך ואת שתי בנתיך הנמצאות פן תספה בעון העיר",
-    "translation": "Diferență reală, confirmată: וכמו השחר עלה ויאיצו המלאכים בלוט לאמר קום קח את אשתך ואת שתי בנתיך הנמצאות פן תספה בעון העיר — „And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city.”",
+    "translation": "Diferență reală, confirmată: וכמו השחר עלה ויאיצו המלאכים בלוט לאמר קום קח את אשתך ואת שתי בנתיך הנמצאות פן תספה בעון העיר — „Și pe când se iveau zorii, îngerii l-au îndemnat pe Lot, spunând: „Ridică-te, ia-ți soția și pe cele două fiice ale tale care se găsesc [aici], ca nu cumva să fii nimicit din pricina păcatului orașului!”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3069,7 +3069,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויתמהמה ויחזקו האנושים בידו וביד אשתו וביד שתי בנתיו בחמלת יהוה עליו ויוציאהו ויניחהו מחוץ לעיר",
-    "translation": "Diferență reală, confirmată: ויתמהמה ויחזקו האנושים בידו וביד אשתו וביד שתי בנתיו בחמלת יהוה עליו ויוציאהו ויניחהו מחוץ לעיר — „And while he lingered, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the LORD being merciful unto him: and they brought him forth, and set him without the city.”",
+    "translation": "Diferență reală, confirmată: ויתמהמה ויחזקו האנושים בידו וביד אשתו וביד שתי בנתיו בחמלת יהוה עליו ויוציאהו ויניחהו מחוץ לעיר — „Dar el a zăbovit; așa că oamenii i-au apucat mâna, mâna soției lui și mâna celor două fiice ale lui, în mila DOMNULUI pentru el; l-au scos și l-au condus afară din oraș.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3265,7 +3265,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהי כהוציאם אתם החוצה ויאמר המלט על נפשך אל תבט אחריך ואל תעמד בכל הככר ההרה המלט פן תספה",
-    "translation": "Diferență reală, confirmată: ויהי כהוציאם אתם החוצה ויאמר המלט על נפשך אל תבט אחריך ואל תעמד בכל הככר ההרה המלט פן תספה — „And it came to pass, when they had brought them forth abroad, that he said, Escape for thy life; look not behind thee, neither stay thou in all the plain; escape to the mountain, lest thou be consumed.”",
+    "translation": "Diferență reală, confirmată: ויהי כהוציאם אתם החוצה ויאמר המלט על נפשך אל תבט אחריך ואל תעמד בכל הככר ההרה המלט פן תספה — „Și a fost, când îi scoteau afară, că [îngerul] a spus: „Fugi ca să-ți salvezi viața! Nu te uita în urma ta și nu te opri nicăieri în toată câmpia; fugi la munte, ca nu cumva să fii nimicit!”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3378,7 +3378,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר לוט אליהם אל נא אדני",
-    "translation": "Diferență reală, confirmată: ויאמר לוט אליהם אל נא אדני — „And Lot said unto them, Oh, not so, my Lord:”",
+    "translation": "Diferență reală, confirmată: ויאמר לוט אליהם אל נא אדני — „Lot le-a spus: „Nu, rogu-Te, Stăpâne!”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3766,7 +3766,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "הנה נא העיר הזאת קרובה לנוס שמה והיא מצער אמלט נא שמה הלוא מצער היא ותחיה נפשי",
-    "translation": "Diferență reală, confirmată: הנה נא העיר הזאת קרובה לנוס שמה והיא מצער אמלט נא שמה הלוא מצער היא ותחיה נפשי — „Behold now, this city [is] near to flee unto, and it [is] a little one: Oh, let me escape thither, ([is] it not a little one?) and my soul shall live.”",
+    "translation": "Diferență reală, confirmată: הנה נא העיר הזאת קרובה לנוס שמה והיא מצער אמלט נא שמה הלוא מצער היא ותחיה נפשי — „Iată, Te rog, acest oraș este [destul de] aproape ca să scap acolo și este mic; voi fugi, rogu-Te, acolo. Nu este oare mic? Și sufletul meu va rămâne în viață!”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4043,7 +4043,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "מהר המלט שמה כי לא אוכל לעשות דבר עד באכה שמה על כן קרא שם העיר צער",
-    "translation": "Diferență reală, confirmată: מהר המלט שמה כי לא אוכל לעשות דבר עד באכה שמה על כן קרא שם העיר צער — „Haste thee, escape thither; for I cannot do any thing till thou be come thither. Therefore the name of the city was called Zoar.”",
+    "translation": "Diferență reală, confirmată: מהר המלט שמה כי לא אוכל לעשות דבר עד באכה שמה על כן קרא שם העיר צער — „Grăbește-te, fugi acolo, căci nu pot face nimic până când nu vei fi ajuns acolo.” De aceea el a pus orașului numele Țoar.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4494,7 +4494,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהפך את הערים האלה ואת כל הככר ואת כל ישבי הערים וצמח האדמה",
-    "translation": "Diferență reală, confirmată: ויהפך את הערים האלה ואת כל הככר ואת כל ישבי הערים וצמח האדמה — „And he overthrew those cities, and all the plain, and all the inhabitants of the cities, and that which grew upon the ground.”",
+    "translation": "Diferență reală, confirmată: ויהפך את הערים האלה ואת כל הככר ואת כל ישבי הערים וצמח האדמה — „Și a prăpădit acele orașe și toată câmpia și pe toți locuitorii orașelor și vegetația pământului.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4629,7 +4629,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותבט אשתו מאחריו ותהי נצב מלח",
-    "translation": "Diferență reală, confirmată: ותבט אשתו מאחריו ותהי נצב מלח — „But his wife looked back from behind him, and she became a pillar of salt.”",
+    "translation": "Diferență reală, confirmată: ותבט אשתו מאחריו ותהי נצב מלח — „Iar soția lui [Lot] s-a uitat din spatele lui și s-a prefăcut într-un stâlp de sare.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4972,7 +4972,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישקף על פני סדם ועמרה ועל פני כל הארץ הככר וירא והנה עלה קיטור הארץ כקיטור הכבשן",
-    "translation": "Diferență reală, confirmată: וישקף על פני סדם ועמרה ועל פני כל הארץ הככר וירא והנה עלה קיטור הארץ כקיטור הכבשן — „And he looked toward Sodom and Gomorrah, and toward all the land of the plain, and beheld, and, lo, the smoke of the country went up as the smoke of a furnace.”",
+    "translation": "Diferență reală, confirmată: וישקף על פני סדם ועמרה ועל פני כל הארץ הככר וירא והנה עלה קיטור הארץ כקיטור הכבשן — „Și a privit peste Sodoma și Gomora și peste toată întinderea pământului câmpiei; s-a uitat și iată, fumul pământului se ridica precum fumul unui furnal.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -5237,7 +5237,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהי בהשחית אלהים את ערי הככר ויזכר אלהים את אברהם וישלח את לוט מתוך האפכה בהפכו את הערים אשר ישב בהן לוט",
-    "translation": "Diferență reală, confirmată: ויהי בהשחית אלהים את ערי הככר ויזכר אלהים את אברהם וישלח את לוט מתוך האפכה בהפכו את הערים אשר ישב בהן לוט — „And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt.”",
+    "translation": "Diferență reală, confirmată: ויהי בהשחית אלהים את ערי הככר ויזכר אלהים את אברהם וישלח את לוט מתוך האפכה בהפכו את הערים אשר ישב בהן לוט — „Și a fost, când a distrus Dumnezeu orașele câmpiei: Dumnezeu Și-a amintit de Avraham; și l-a scos pe Lot din mijlocul prăpădului, când a prăpădit orașele unde locuise Lot.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -5430,7 +5430,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויעל לוט מצער וישב בהר ושתי בנתיו עמו כי ירא לשבת בצער וישב במערה הוא ושתי בנתיו עמו",
-    "translation": "Diferență reală, confirmată: ויעל לוט מצער וישב בהר ושתי בנתיו עמו כי ירא לשבת בצער וישב במערה הוא ושתי בנתיו עמו — „And Lot went up out of Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he and his two daughters with him.”",
+    "translation": "Diferență reală, confirmată: ויעל לוט מצער וישב בהר ושתי בנתיו עמו כי ירא לשבת בצער וישב במערה הוא ושתי בנתיו עמו — „Lot a urcat din Țoar și s-a așezat la munte cu cele două fiice ale lui, căci se temea să se așeze în Țoar; și a locuit într-o peșteră, el și cele două fiice ale lui.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -5811,7 +5811,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "לכי נשקה את אבינו יין ונשכבה עמו ונחיה מאבינו זרע",
-    "translation": "Diferență reală, confirmată: לכי נשקה את אבינו יין ונשכבה עמו ונחיה מאבינו זרע — „Come, let us make our father drink wine, and we will lie with him, that we may preserve seed of our father.”",
+    "translation": "Diferență reală, confirmată: לכי נשקה את אבינו יין ונשכבה עמו ונחיה מאבינו זרע — „Haide să-i dăm tatălui nostru să bea vin și să ne culcăm cu el, ca să dăm viață la urmași de la tatăl nostru.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -5994,7 +5994,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותשקיהן את אביהן יין בלילה ההוא ותבא הבכירה ותשכב את אביה ולא ידע בשכבה ובקומה",
-    "translation": "Diferență reală, confirmată: ותשקיהן את אביהן יין בלילה ההוא ותבא הבכירה ותשכב את אביה ולא ידע בשכבה ובקומה — „And they made their father drink wine that night: and the firstborn went in, and lay with her father; and he perceived not when she lay down, nor when she arose.”",
+    "translation": "Diferență reală, confirmată: ותשקיהן את אביהן יין בלילה ההוא ותבא הבכירה ותשכב את אביה ולא ידע בשכבה ובקומה — „I-au dat tatălui lor vin să bea în noaptea aceea; cea întâi-născută a venit și s-a culcat cu tatăl ei și el nu a știut nici când ea s-a culcat și nici când s-a sculat.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -6167,7 +6167,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהי ממחרת ותאמר הבכירה אל הצעירה הנה שכבתי אמש את אבי נשקינו יין גם הלילה ובאי שכבי עמו ונחיה מאבינו זרע",
-    "translation": "Diferență reală, confirmată: ויהי ממחרת ותאמר הבכירה אל הצעירה הנה שכבתי אמש את אבי נשקינו יין גם הלילה ובאי שכבי עמו ונחיה מאבינו זרע — „And it came to pass on the morrow, that the firstborn said unto the younger, Behold, I lay yesternight with my father: let us make him drink wine this night also; and go thou in, [and] lie with him, that we may preserve seed of our father.”",
+    "translation": "Diferență reală, confirmată: ויהי ממחרת ותאמר הבכירה אל הצעירה הנה שכבתי אמש את אבי נשקינו יין גם הלילה ובאי שכבי עמו ונחיה מאבינו זרע — „A doua zi, cea întâi-născută i-a spus celei tinere: „Iată, m-am culcat cu tatăl meu noaptea trecută; să-i dăm să bea vin și în noaptea aceasta și vino să te culci cu el, ca să dăm viață la urmași de la tatăl nostru.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -6318,7 +6318,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותשקיהן גם בלילה ההוא את אביהן יין ותקם הצעירה ותשכב עמו ולא ידע בשכבה ובקומה",
-    "translation": "Diferență reală, confirmată: ותשקיהן גם בלילה ההוא את אביהן יין ותקם הצעירה ותשכב עמו ולא ידע בשכבה ובקומה — „And they made their father drink wine that night also: and the younger arose, and lay with him; and he perceived not when she lay down, nor when she arose.”",
+    "translation": "Diferență reală, confirmată: ותשקיהן גם בלילה ההוא את אביהן יין ותקם הצעירה ותשכב עמו ולא ידע בשכבה ובקומה — „I-au dat tatălui lor să bea vin și în noaptea aceea; și cea tânără s-a sculat și s-a culcat cu el și el nu a știut nici când ea s-a culcat și nici când ea s a sculat.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -6413,7 +6413,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותהרנה שתי בנות לוט מאביהן",
-    "translation": "Diferență reală, confirmată: ותהרנה שתי בנות לוט מאביהן — „Thus were both the daughters of Lot with child by their father.”",
+    "translation": "Diferență reală, confirmată: ותהרנה שתי בנות לוט מאביהן — „Și cele două fiice ale lui Lot au zămislit de la tatăl lor.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -6558,7 +6558,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותלד הבכירה בן ותקרא את שמו מואב הוא אבי מואב עד היום",
-    "translation": "Diferență reală, confirmată: ותלד הבכירה בן ותקרא את שמו מואב הוא אבי מואב עד היום — „And the firstborn bare a son, and called his name Moab: the same [is] the father of the Moabites unto this day.”",
+    "translation": "Diferență reală, confirmată: ותלד הבכירה בן ותקרא את שמו מואב הוא אבי מואב עד היום — „Cea mai în vârstă a născut un fiu și i-a pus numele Moab*Adică „de la tatăl meu”; el este părintele Moabului până astăzi.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -6726,7 +6726,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "והצעירה גם היא ילדה בן ותקרא את שמו בנ עמי הוא אבי בני עמון עד היום",
-    "translation": "Diferență reală, confirmată: והצעירה גם היא ילדה בן ותקרא את שמו בנ עמי הוא אבי בני עמון עד היום — „And the younger, she also bare a son, and called his name Ben-ammi: the same [is] the father of the children of Ammon unto this day.”",
+    "translation": "Diferență reală, confirmată: והצעירה גם היא ילדה בן ותקרא את שמו בנ עמי הוא אבי בני עמון עד היום — „Iar cea tânără a născut și ea un fiu și i-a pus numele Ben-Ami*Adică „fiul poporului meu”; el este părintele amoniților până astăzi.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

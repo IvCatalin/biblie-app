@@ -199,10 +199,6 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Zohar, Pekudei 5:8",
-    "text": "Asemenea acesteia (Geneza 2:2): «Și s-au sfârșit cerurile și pământul». Și dacă vei spune: «Și a sfârșit Dumnezeu în ziua a șaptea» — cu adevărat așa este, căci toată lumea, chiar dacă toate lucrările s-au desăvârșit, fiecare în parte, lumea întreagă nu era desăvârșită în dăinuirea ei până ce nu a venit ziua a șaptea; căci când a venit ziua a șaptea, atunci s-au desăvârșit toate lucrările, și Cel Sfânt, binecuvântat fie El, a desăvârșit în ea lumea. Aceasta este ceea ce este scris: «Și a sfârșit Dumnezeu în ziua a șaptea lucrarea Sa pe care a făcut-o». Prin aceasta s-a desăvârșit în dăinuire toată lucrarea pe care a făcut-o, și de aceea: «Și a sfârșit Dumnezeu în ziua a șaptea»."
-   },
-   {
     "author": "Ioan Gură de Aur, Omilii la Facere 10.18",
     "text": "Vedeți, spunând aici că Dumnezeu S-a odihnit de lucrările Sale, Scriptura ne învață că El a încetat să mai creeze, aducând din neființă la ființă, în ziua a șaptea — pe când Hristos, zicând «Tatăl Meu lucrează până acum, și Eu lucrez», ne descoperă purtarea Lui de grijă neîncetată: El numește «lucrare» susținerea făpturilor, dăruirea statorniciei lor și cârmuirea lor prin toată vremea. Căci altfel, cum ar fi dăinuit toate, fără mâna de sus care să călăuzească toate cele văzute, și pe om deopotrivă?"
    },
@@ -515,7 +511,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויכל אלהים ביום הששי מלאכתו אשר עשה וישבת ביום השביעי מכל מלאכתו אשר עשה — „And on the six day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.”",
+    "translation": "Diferență reală, confirmată: ויכל אלהים ביום הששי מלאכתו אשר עשה וישבת ביום השביעי מכל מלאכתו אשר עשה — „Și a isprăvit Dumnezeu în ziua a șasea munca Sa pe care o făcuse și S-a odihnit în ziua a șaptea de toată munca Sa pe care o făcuse.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -956,18 +952,7 @@ window.CHAPTER_DATA = [
     "t": " de "
    },
    {
-    "t": "către",
-    "w": "către",
-    "heb": "-",
-    "translit": "-",
-    "strong": "H1",
-    "pos": "prepoziție",
-    "greek": "-",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def": "către.",
-    "def_ro": "particulă gramaticală, aici cu sensul de „către, spre” — apare fără o formă ebraică de sine stătătoare afișată, fiind legată de cuvântul următor.",
-    "greek_def_ro": "",
-    "dict_ro": "Particulă gramaticală de mișcare, „către, spre”, foarte frecventă în ebraică — aici legată strâns de cuvântul următor, fără o formă proprie vizibilă în text."
+    "t": "către"
    },
    {
     "t": " "
@@ -1160,7 +1145,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: אלה תולדת השמים והארץ בהבראם ביום עשות יהוה אלהים שמים וארץ — „These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made heavens and earth”",
+    "translation": "Diferență reală, confirmată: אלה תולדת השמים והארץ בהבראם ביום עשות יהוה אלהים שמים וארץ — „Acestea sunt istoriile cerurilor și pământului la crearea lor, în ziua în care DOMNUL Dumnezeu a făcut cerurile și pământul.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2165,7 +2150,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויצר יהוה אלהים את האדם עפר מן האדמה ויפח באפיו נשמת חיים ויהי אדם לנפש חיה — „And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.”",
+    "translation": "Diferență reală, confirmată: ויצר יהוה אלהים את האדם עפר מן האדמה ויפח באפיו נשמת חיים ויהי אדם לנפש חיה — „DOMNUL Dumnezeu l-a plăsmuit pe om, țărână din pământ, și a insuflat în nările sale suflare de viață; și omul a devenit suflet viu.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2272,7 +2257,7 @@ window.CHAPTER_DATA = [
     "greek": "ἐκεῖ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "acolo.",
-    "def_ro": "acolo.",
+    "def_ro": "acolo, în acel loc.",
     "greek_def_ro": "ἐκεῖ (ekei) — acolo.",
     "dict_ro": "Sham, „acolo”, adverb de loc, folosit repetat la Geneza 2:8-14 pentru a localiza grădina și cursul râurilor ei."
    },
@@ -2339,7 +2324,7 @@ window.CHAPTER_DATA = [
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
-    "original": "וַיִּטַּע יְהוָה אֱלֹהִים גַּן־בְעֵדֶן מִקֶּדֶם וַיָּשֶׂם שָׁם אֶת־הָאָדָם אֲשֶׁר יָצָר",
+    "original": "וַיִּטַּע יְהוָה אֱלֹהִים גַּן־בְּעֵדֶן מִקֶּדֶם וַיָּשֶׂם שָׁם אֶת־הָאָדָם אֲשֶׁר יָצָר",
     "translation": "„DOMNUL Dumnezeu a plantat o grădină în Eden, la răsărit, și l-a pus acolo pe omul pe care îl plăsmuise.” — traducerea rabinului Rosen.",
     "note": ""
    },
@@ -2682,7 +2667,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויצמח יהוה אלהים מן האדמה את כל עץ נחמד למראה וטוב למאכל ועץ החיים בתוך הגן ועץ הדעת טוב ורע — „And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.”",
+    "translation": "Diferență reală, confirmată: ויצמח יהוה אלהים מן האדמה את כל עץ נחמד למראה וטוב למאכל ועץ החיים בתוך הגן ועץ הדעת טוב ורע — „Și DOMNUL Dumnezeu a făcut să răsară din pământ orice pom plăcut la vedere și bun drept hrană; și Pomul Vieții în mijlocul grădinii și Pomul Cunoașterii Binelui și Răului.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2843,7 +2828,7 @@ window.CHAPTER_DATA = [
     "greek": "ἐκεῖθεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "de acolo.",
-    "def_ro": "acolo.",
+    "def_ro": "acolo, în acel loc.",
     "greek_def_ro": "ἐκεῖ (ekei) — acolo.",
     "dict_ro": "Sham, „acolo”, adverb de loc, folosit repetat la Geneza 2:8-14 pentru a localiza grădina și cursul râurilor ei."
    },
@@ -3160,7 +3145,7 @@ window.CHAPTER_DATA = [
     "greek": "τὸ χρυσίον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "aurul.",
-    "def_ro": "aur.",
+    "def_ro": "aur — metalul prețios al țării Havila (2:11–12).",
     "greek_def_ro": "χρυσίον (chrysion) — aur.",
     "dict_ro": "Zahav, „aur”, pomenit la Geneza 2:11-12 printre bogățiile ținutului Havila — prima mențiune a aurului din Biblie, alături de rășina bdellium și piatra onix."
    }
@@ -3182,7 +3167,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: שם האחד פישון הוא הסובב את כל ארץ החוילה אשר שם הזהב — „The name of the first [is] Pison: that [is] it which compasseth the whole land of Havilah, where [there is] gold;”",
+    "translation": "Diferență reală, confirmată: שם האחד פישון הוא הסובב את כל ארץ החוילה אשר שם הזהב — „Numele celui dintâi este Pișon, cel care înconjoară tot ținutul Havila, unde se află aurul.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3269,7 +3254,7 @@ window.CHAPTER_DATA = [
     "greek": "χρυσίον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "aurul.",
-    "def_ro": "aur.",
+    "def_ro": "aur — metalul prețios al țării Havila (2:11–12).",
     "greek_def_ro": "χρυσίον (chrysion) — aur.",
     "dict_ro": "Zahav, „aur”, pomenit la Geneza 2:11-12 printre bogățiile ținutului Havila — prima mențiune a aurului din Biblie, alături de rășina bdellium și piatra onix."
    },
@@ -3337,7 +3322,7 @@ window.CHAPTER_DATA = [
     "greek": "ἐκεῖ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "acolo.",
-    "def_ro": "acolo.",
+    "def_ro": "acolo, în acel loc.",
     "greek_def_ro": "ἐκεῖ (ekei) — acolo.",
     "dict_ro": "Sham, „acolo”, adverb de loc, folosit repetat la Geneza 2:8-14 pentru a localiza grădina și cursul râurilor ei."
    },
@@ -3412,7 +3397,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: וזהב הארץ ההיא טוב מאד שם הבדלח ואבן השהם — „And the gold of that land is good very: there is bdellium and the onyx stone.”",
+    "translation": "Diferență reală, confirmată: וזהב הארץ ההיא טוב מאד שם הבדלח ואבן השהם — „Iar aurul acelui ținut este bun; acolo există și cristalul și piatra onix.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3870,7 +3855,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ושם הנהר השלישי הדקל הוא ההלך קדמת אשור והנהר הרביעי הוא פרת — „And the name of the third river [is] Hiddekel: that [is] it which goeth toward the east of Assyria. And the fourth river [is] Euphrates.”",
+    "translation": "Diferență reală, confirmată: ושם הנהר השלישי הדקל הוא ההלך קדמת אשור והנהר הרביעי הוא פרת — „Numele celui de-al treilea fluviu este Hidekel, cel care curge la răsăritul Asiriei; iar al patrulea fluviu este Eufrat.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -4142,7 +4127,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויקח יהוה אלהים את האדם ויניחהו בגן עדן לעבדה ולשמרה — „And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.”",
+    "translation": "Diferență reală, confirmată: ויקח יהוה אלהים את האדם ויניחהו בגן עדן לעבדה ולשמרה — „Și DOMNUL Dumnezeu l-a luat pe om și l-a așezat în grădina Edenului, ca s-o lucreze și s-o păzească.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -5075,7 +5060,7 @@ window.CHAPTER_DATA = [
     "greek": "τὸ ὄνομα αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "numele lui.",
-    "def_ro": "nume.",
+    "def_ro": "nume; și ceea ce face un om cunoscut: renume, cinste, autoritate.",
     "greek_def_ro": "ὄνομα (onoma) — nume.",
     "dict_ro": "Shem, „nume”, folosit la Geneza 2:11, 13, 14, 19 pentru numele celor patru râuri și pentru numele date de Adam animalelor — tema numirii, centrală în tot capitolul."
    },
@@ -5100,7 +5085,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויצר יהוה אלהים עוד מן האדמה את כל חית השדה ואת כל עוף השמים ויבא אל האדם לראות מה יקרא לו וכל אשר יקרא לו האדם נפש חיה הוא שמו — „And moreover, out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought unto Adam to see what he would call them: and whatsoever Adam called every living creature, that is the name thereof.”",
+    "translation": "Diferență reală, confirmată: ויצר יהוה אלהים עוד מן האדמה את כל חית השדה ואת כל עוף השמים ויבא אל האדם לראות מה יקרא לו וכל אשר יקרא לו האדם נפש חיה הוא שמו — „Și DOMNUL Dumnezeu a mai plăsmuit din pământ toate vietățile câmpului și toate păsările cerurilor și le-a adus la om ca să vadă cum le va numi; și oricum avea să numească omul fiecare vietate, acela îi era numele.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -5323,7 +5308,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "dar.",
     "def_ro": "particulă gramaticală (conjuncție și prepoziție compuse): „și pentru...”, „dar...”.",
-    "greek_def_ro": "",
+    "greek_def_ro": "δέ (de), ὁ (ho) — iar, dar; τῷ δὲ Ἀδάμ: „dar lui Adam”.",
     "dict_ro": "Particulă gramaticală compusă (waw + le), „și pentru...”, „dar...” — element de legătură, fără intrare lexicală proprie de sine stătătoare."
    },
    {
@@ -5662,7 +5647,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויפל יהוה אלהים תרדמה על האדם ויישן ויקח אחת מצלעתיו ויסגר בשר תחתיה — „And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;”",
+    "translation": "Diferență reală, confirmată: ויפל יהוה אלהים תרדמה על האדם ויישן ויקח אחת מצלעתיו ויסגר בשר תחתיה — „Și DOMNUL Dumnezeu a făcut să cadă un somn profund asupra omului și el a dormit; și a luat una din coastele sale și a închis carnea la locul ei.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -5973,7 +5958,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויבן יהוה אלהים את הצלע אשר לקח מן האדם לאשה ויביאה אל האדם — „And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.”",
+    "translation": "Diferență reală, confirmată: ויבן יהוה אלהים את הצלע אשר לקח מן האדם לאשה ויביאה אל האדם — „Și DOMNUL Dumnezeu a zidit coasta pe care o luase din om într-o femeie și a adus-o la om.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -6271,7 +6256,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויאמר האדם זאת הפעם עצם מעצמי ובשר מבשרי לזאת יקרא אשה כי מאישה לקחה זאת — „And Adam said, This [is] now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.”",
+    "translation": "Diferență reală, confirmată: ויאמר האדם זאת הפעם עצם מעצמי ובשר מבשרי לזאת יקרא אשה כי מאישה לקחה זאת — „Și omul a spus: „De data aceasta, este os din oasele mele și carne din carnea mea. Aceasta se va numi femeie, căci din bărbat a fost luată aceasta.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -6344,9 +6329,9 @@ window.CHAPTER_DATA = [
     "greek": "τὸν πατέρα αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "tatăl lui.",
-    "def_ro": "particulă gramaticală, aici cu sensul de „către, spre” — apare fără o formă ebraică de sine stătătoare afișată, fiind legată de cuvântul următor.",
-    "greek_def_ro": "",
-    "dict_ro": "Particulă gramaticală de mișcare, „către, spre”, foarte frecventă în ebraică — aici legată strâns de cuvântul următor, fără o formă proprie vizibilă în text."
+    "def_ro": "tată; cu sufixul „său”: „tatăl lui”.",
+    "greek_def_ro": "πατήρ (pater) — tată; „tatăl lui”.",
+    "dict_ro": "Av, „tată”, cuvânt de bază al familiei. La 2:24 stă în formula care întemeiază căsătoria: bărbatul „va părăsi pe tatăl său și pe mama sa și se va alipi de femeia lui”."
    },
    {
     "t": " lui și pe "
@@ -6361,7 +6346,7 @@ window.CHAPTER_DATA = [
     "greek": "τὴν μητέρα αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "mama lui.",
-    "def_ro": "mamă.",
+    "def_ro": "mamă; cu sufixul „său”: „mama lui”.",
     "greek_def_ro": "μήτηρ (meter) — mamă.",
     "dict_ro": "Em, „mamă”, apare pentru prima oară în Biblie la Geneza 2:24: „de aceea va lăsa omul pe tatăl său și pe mama sa” — versetul care întemeiază instituția căsătoriei."
    },
@@ -6520,7 +6505,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: על כן יעזב איש את אביו ואת אמו ודבק באשתו והיה משניהם לבשר אחד — „Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be two of them one flesh.”",
+    "translation": "Diferență reală, confirmată: על כן יעזב איש את אביו ואת אמו ודבק באשתו והיה משניהם לבשר אחד — „De aceea bărbatul va părăsi pe tatăl lui și pe mama lui și se va alipi de femeia lui și vor fi un singur trup.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -6725,7 +6710,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויהיו שניהם ערמים אדם ואשתו ולא יתבששו — „And they were both naked, the man and his wife, and were not ashamed.”",
+    "translation": "Diferență reală, confirmată: ויהיו שניהם ערמים אדם ואשתו ולא יתבששו — „Și erau amândoi goi, omul și femeia lui, și nu se rușinau.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],

@@ -1018,7 +1018,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותאמר מי מלל לאברהם היניקה בנים שרה כי ילדתי לו בן לזקניו",
-    "translation": "Diferență reală, confirmată: ותאמר מי מלל לאברהם היניקה בנים שרה כי ילדתי לו בן לזקניו — „And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born him a son in his old age.”",
+    "translation": "Diferență reală, confirmată: ותאמר מי מלל לאברהם היניקה בנים שרה כי ילדתי לו בן לזקניו — „Și a spus: „Cine i a vestit lui Avraham: «Sara va alăpta copii»? Căci i-am născut fiu al bătrâneților lui.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1199,7 +1199,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויגדל הילד ויגמל ויעש אברהם משתה גדול ביום הגמל את יצחק בנו",
-    "translation": "Diferență reală, confirmată: ויגדל הילד ויגמל ויעש אברהם משתה גדול ביום הגמל את יצחק בנו — „And the child grew, and was weaned: and Abraham made a great feast the [same] day that his son Isaac was weaned.”",
+    "translation": "Diferență reală, confirmată: ויגדל הילד ויגמל ויעש אברהם משתה גדול ביום הגמל את יצחק בנו — „Copilul a crescut și a fost înțărcat, și Avraham a făcut un ospăț mare în ziua când a fost înțărcat Isaac.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1507,7 +1507,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותאמר לאברהם גרש את האמה הזאת ואת בנה כי לא יירש בן האמה הזאת עם בני עם יצחק",
-    "translation": "Diferență reală, confirmată: ותאמר לאברהם גרש את האמה הזאת ואת בנה כי לא יירש בן האמה הזאת עם בני עם יצחק — „Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, [even] with Isaac.”",
+    "translation": "Diferență reală, confirmată: ותאמר לאברהם גרש את האמה הזאת ואת בנה כי לא יירש בן האמה הזאת עם בני עם יצחק — „Și i-a spus lui Avraham: „Izgonește-o pe această slujnică și pe fiul ei, căci fiul acestei slujnice nu va moșteni împreună cu fiul meu, cu Isaac.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1599,7 +1599,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וירע הדבר מאד בעיני אברהם על אדות בנו",
-    "translation": "Diferență reală, confirmată: וירע הדבר מאד בעיני אברהם על אדות בנו — „And the thing was very grievous in Abraham's sight because of his son.”",
+    "translation": "Diferență reală, confirmată: וירע הדבר מאד בעיני אברהם על אדות בנו — „Și lucrul l-a mâhnit foarte mult pe Avraham, [fiind] despre fiul său.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1831,7 +1831,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אלהים אל אברהם אל ירע בעיניך על הנער ועל אמתך כל אשר תאמר אליך שרה שמע בקולה כי ביצחק יקרא לך זרע",
-    "translation": "Diferență reală, confirmată: ויאמר אלהים אל אברהם אל ירע בעיניך על הנער ועל אמתך כל אשר תאמר אליך שרה שמע בקולה כי ביצחק יקרא לך זרע — „And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called.”",
+    "translation": "Diferență reală, confirmată: ויאמר אלהים אל אברהם אל ירע בעיניך על הנער ועל אמתך כל אשר תאמר אליך שרה שמע בקולה כי ביצחק יקרא לך זרע — „Dar Dumnezeu i-a spus lui Avraham: „Nu fi mâhnit pentru tânăr și pentru slujnica ta: tot ceea ce îți va spune Sara, ascultă de glasul ei, căci prin Isaac îți va fi socotită sămânța.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1935,7 +1935,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וגם את בן האמה הזאת לגוי גדול אשימנו כי זרעך הוא",
-    "translation": "Diferență reală, confirmată: וגם את בן האמה הזאת לגוי גדול אשימנו כי זרעך הוא — „And also of the son of the bondwoman this will I make a nation great, because he [is] thy seed.”",
+    "translation": "Diferență reală, confirmată: וגם את בן האמה הזאת לגוי גדול אשימנו כי זרעך הוא — „Dar și pe fiul slujnicei îl voi face un neam, căci este din seminția ta.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2358,7 +2358,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויכלו המים מן החמת ותשליך את הילד תחת אחד השחים",
-    "translation": "Diferență reală, confirmată: ויכלו המים מן החמת ותשליך את הילד תחת אחד השחים — „And the water was spent in the bottle, and she cast the child under one of the shrubs.”",
+    "translation": "Diferență reală, confirmată: ויכלו המים מן החמת ותשליך את הילד תחת אחד השחים — „Când apa din burduf s-a terminat, ea a abandonat copilul sub unul dintre tufișuri.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2580,7 +2580,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותלך ותשב לה מנגד הרחקה כמטוי קשת כי אמרה אל אראה במות הילד ותשב מנגד ותשא את קולה ותבך",
-    "translation": "Diferență reală, confirmată: ותלך ותשב לה מנגד הרחקה כמטוי קשת כי אמרה אל אראה במות הילד ותשב מנגד ותשא את קולה ותבך — „And she went, and sat her down over against [him] a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against [him], and lift up her voice, and wept.”",
+    "translation": "Diferență reală, confirmată: ותלך ותשב לה מנגד הרחקה כמטוי קשת כי אמרה אל אראה במות הילד ותשב מנגד ותשא את קולה ותבך — „A mers și s-a așezat departe, la distanță, la câteva aruncături de arc, căci spunea: „Să nu văd moartea copilului!” S-a așezat deoparte, și-a ridicat glasul și a plâns.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2851,7 +2851,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישמע אלהים את קול הנער ויקרא מלאך אלהים אל הגר מן השמים ויאמר לה מלכי הגר אל תיראי כי שמע אלהים את קול הנער באשר הוא שם",
-    "translation": "Diferență reală, confirmată: וישמע אלהים את קול הנער ויקרא מלאך אלהים אל הגר מן השמים ויאמר לה מלכי הגר אל תיראי כי שמע אלהים את קול הנער באשר הוא שם — „And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he [is].”",
+    "translation": "Diferență reală, confirmată: וישמע אלהים את קול הנער ויקרא מלאך אלהים אל הגר מן השמים ויאמר לה מלכי הגר אל תיראי כי שמע אלהים את קול הנער באשר הוא שם — „Dumnezeu a auzit glasul tânărului și un înger al lui Dumnezeu a chemat-o pe Hagar din cer și i-a spus: „Ce ai, Hagar? Nu te teme, căci Dumnezeu [i-]a auzit glasul tânărului de acolo de unde este el.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2996,7 +2996,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "קומי שאי את הנער וחזקי את ידך בו כי לגוי גדול אשימנו",
-    "translation": "Diferență reală, confirmată: קומי שאי את הנער וחזקי את ידך בו כי לגוי גדול אשימנו — „Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation.”",
+    "translation": "Diferență reală, confirmată: קומי שאי את הנער וחזקי את ידך בו כי לגוי גדול אשימנו — „Scoală-te, ridică-l pe tânăr și ține-l de mână, căci îl voi face neam mare.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3313,7 +3313,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהי אלהים את הנער ויגדל וישב במדבר ויהי רבי קשת",
-    "translation": "Diferență reală, confirmată: ויהי אלהים את הנער ויגדל וישב במדבר ויהי רבי קשת — „And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer.”",
+    "translation": "Diferență reală, confirmată: ויהי אלהים את הנער ויגדל וישב במדבר ויהי רבי קשת — „Și Dumnezeu a fost cu tânărul; el a crescut, a locuit în deșert și a ajuns arcaș.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3483,7 +3483,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישב במדבר פראן ותקח לו אמו אשה מארץ מצרים",
-    "translation": "Diferență reală, confirmată: וישב במדבר פראן ותקח לו אמו אשה מארץ מצרים — „And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt.”",
+    "translation": "Diferență reală, confirmată: וישב במדבר פראן ותקח לו אמו אשה מארץ מצרים — „S-a așezat în deșertul Paran și mama lui i-a luat o soție din țara Egiptului.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3655,7 +3655,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהי בעת ההיא ויאמר אבימלך ופי כל שר צבאו אל אברהם לאמר אלהים עמך בכל אשר אתה עשה",
-    "translation": "Diferență reală, confirmată: ויהי בעת ההיא ויאמר אבימלך ופי כל שר צבאו אל אברהם לאמר אלהים עמך בכל אשר אתה עשה — „And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God [is] with thee in all that thou doest:”",
+    "translation": "Diferență reală, confirmată: ויהי בעת ההיא ויאמר אבימלך ופי כל שר צבאו אל אברהם לאמר אלהים עמך בכל אשר אתה עשה — „Și a fost în vremea aceea: Avimeleh, împreună cu Pihol, căpetetenia oștirii lui, i-a spus lui Avraham astfel: „Dumnezeu este cu tine în tot ceea ce faci.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3861,7 +3861,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ועתה השבע לי באלהים הנה אם תשקר לי ולניני ולנגדי וכחסד אשר עשיתי עמך תעשה עמדי ועם הארץ אשר גרת בה",
-    "translation": "Diferență reală, confirmată: ועתה השבע לי באלהים הנה אם תשקר לי ולניני ולנגדי וכחסד אשר עשיתי עמך תעשה עמדי ועם הארץ אשר גרת בה — „Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son's son: [but] according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned.”",
+    "translation": "Diferență reală, confirmată: ועתה השבע לי באלהים הנה אם תשקר לי ולניני ולנגדי וכחסד אשר עשיתי עמך תעשה עמדי ועם הארץ אשר גרת בה — „Și acum, jură-mi pe Dumnezeu, aici, că nu mă vei înșela pe mine sau pe odrasla mea sau pe nepoții mei. După bunăvoința pe care am făcut-o cu tine să faci [și tu] cu mine și cu țara în care ai locuit ca străin.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3972,7 +3972,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אברהם אנכי השבע",
-    "translation": "Diferență reală, confirmată: ויאמר אברהם אנכי השבע — „And Abraham said, I will swear.”",
+    "translation": "Diferență reală, confirmată: ויאמר אברהם אנכי השבע — „Și Avraham i a spus: „Voi jura.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4126,7 +4126,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "והוכיח אברהם את אבימלך על אדות באר המים אשר גזלו עבדי אבימלך",
-    "translation": "Diferență reală, confirmată: והוכיח אברהם את אבימלך על אדות באר המים אשר גזלו עבדי אבימלך — „And Abraham reproved Abimelech because of a well of water, which Abimelech's servants had violently taken away.”",
+    "translation": "Diferență reală, confirmată: והוכיח אברהם את אבימלך על אדות באר המים אשר גזלו עבדי אבימלך — „Apoi Avraham i s-a plâns lui Avimeleh în legătură cu o fântână de apă pe care o capturaseră slujitorii lui Avimeleh.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4532,7 +4532,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויצב אברהם שבע כבשות צאן לבדהן",
-    "translation": "Diferență reală, confirmată: ויצב אברהם שבע כבשות צאן לבדהן — „And Abraham set seven ewe lambs of the flock by themselves.”",
+    "translation": "Diferență reală, confirmată: ויצב אברהם שבע כבשות צאן לבדהן — „Și Avraham a pus deoparte șapte oi din turmă.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4658,7 +4658,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אבימלך אל אברהם מה הנה שבע הכבשות האלה אשר הצבת לבדהן",
-    "translation": "Diferență reală, confirmată: ויאמר אבימלך אל אברהם מה הנה שבע הכבשות האלה אשר הצבת לבדהן — „And Abimelech said unto Abraham, What [mean] these seven ewe lambs which thou hast set by themselves?”",
+    "translation": "Diferență reală, confirmată: ויאמר אבימלך אל אברהם מה הנה שבע הכבשות האלה אשר הצבת לבדהן — „Și Avimeleh i-a spus lui Avraham: „Ce-i cu aceste șapte oi pe care le-ai pus deoparte?”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4808,7 +4808,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אברהם כי את שבע הכבשות תקח מידי בעבור תהיה לי לעדה כי חפרתי את הבאר הזאת",
-    "translation": "Diferență reală, confirmată: ויאמר אברהם כי את שבע הכבשות תקח מידי בעבור תהיה לי לעדה כי חפרתי את הבאר הזאת — „And he said Abraham, For [these] seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well.”",
+    "translation": "Diferență reală, confirmată: ויאמר אברהם כי את שבע הכבשות תקח מידי בעבור תהיה לי לעדה כי חפרתי את הבאר הזאת — „Și [Avraham] a spus: „Căci cele șapte oi [vreau] să le iei din mâna mea, ca să îmi fie ca mărturie că eu sunt cel care am săpat această fântână.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -5268,7 +5268,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויטע אברהם אשל בבאר שבע ויקרא שם בשם יהוה אל עולם",
-    "translation": "Diferență reală, confirmată: ויטע אברהם אשל בבאר שבע ויקרא שם בשם יהוה אל עולם — „And Abraham planted a grove in Beer-sheba, and called there on the name of the LORD, the everlasting God.”",
+    "translation": "Diferență reală, confirmată: ויטע אברהם אשל בבאר שבע ויקרא שם בשם יהוה אל עולם — „Iar [Avraham] a sădit un eșel*Termen ebraic cu sens incert, probabil o abreviere de la ahila șetia velina („hrană, băutură și [loc de] înnoptat”) în Beer-Șeva și a chemat acolo numele DOMNULUI, Dumnezeului lumii.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

@@ -311,7 +311,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ומראכם וחתתכם יהיה על כל חית הארץ ועל כל עוף השמים ובכל אשר תרמש האדמה ובכל דגי הים בידכם נתתיו",
-    "translation": "Diferență reală, confirmată: ומראכם וחתתכם יהיה על כל חית הארץ ועל כל עוף השמים ובכל אשר תרמש האדמה ובכל דגי הים בידכם נתתיו — „And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth [upon] the earth, and upon all the fishes of the sea; into your hand are they delivered.”",
+    "translation": "Diferență reală, confirmată: ומראכם וחתתכם יהיה על כל חית הארץ ועל כל עוף השמים ובכל אשר תרמש האדמה ובכל דגי הים בידכם נתתיו — „Iar teama de voi și groaza de voi să fie peste toate animalele pământului și peste toate păsările cerurilor, în toate cele care mișună pe pământ și în toți peștii mărilor: în mâna voastră sunt date.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -443,7 +443,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "כל רמש אשר הוא חי לכם יהיה לאכלה כירק עשב נתתי לכם את הכל",
-    "translation": "Diferență reală, confirmată: כל רמש אשר הוא חי לכם יהיה לאכלה כירק עשב נתתי לכם את הכל — „Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.”",
+    "translation": "Diferență reală, confirmată: כל רמש אשר הוא חי לכם יהיה לאכלה כירק עשב נתתי לכם את הכל — „Tot ce mișună, ce este viu, să vă fie drept hrană; ca vegetația verde, vi le-am dat vouă pe toate.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -748,7 +748,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואת דמכם לנפשתיכם אדרש מיד כל חי אדרשנו מיד האדם מיד איש ואחיו אדרש את נפש האדם",
-    "translation": "Diferență reală, confirmată: ואת דמכם לנפשתיכם אדרש מיד כל חי אדרשנו מיד האדם מיד איש ואחיו אדרש את נפש האדם — „And surely your blood of your life will I require; at the hand of every beast will I require it, and at the hand of man; and at the hand of every man's brother will I require the life of man.”",
+    "translation": "Diferență reală, confirmată: ואת דמכם לנפשתיכם אדרש מיד כל חי אדרשנו מיד האדם מיד איש ואחיו אדרש את נפש האדם — „Și chiar sângele vostru, al sufletelor voastre, îl voi cere, de la toate animalele îl voi cere; și de la om, de la oricine, voi cere sufletul omului pentru cel al fratelui lui.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1023,7 +1023,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואתם פרו ורבו ושרצו בארץ ורבו בה",
-    "translation": "Diferență reală, confirmată: ואתם פרו ורבו ושרצו בארץ ורבו בה — „And you, be ye fruitful, and multiply; and bring forth abundantly in the earth, and multiply therein.”",
+    "translation": "Diferență reală, confirmată: ואתם פרו ורבו ושרצו בארץ ורבו בה — „Iar voi, fiți roditori, înmulțiți-vă, răspândiți-vă pe pământ și înmulțiți-vă pe el.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1419,7 +1419,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואת כל נפש החיה אשר אתכם בעוף ובבהמה ובכל חית הארץ אתכם מכל יצאי התבה לכל חית הארץ",
-    "translation": "Diferență reală, confirmată: ואת כל נפש החיה אשר אתכם בעוף ובבהמה ובכל חית הארץ אתכם מכל יצאי התבה לכל חית הארץ — „And with every living creature that [is] with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.”",
+    "translation": "Diferență reală, confirmată: ואת כל נפש החיה אשר אתכם בעוף ובבהמה ובכל חית הארץ אתכם מכל יצאי התבה לכל חית הארץ — „și cu fiecare vietate care este cu voi – din păsări, din dobitoace și din toate sălbăticiunile pământului care sunt cu voi – din toate care au ieșit din arcă, [chiar] și cu fiecare sălbăticiune.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1592,7 +1592,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "והקמתי את בריתי אתכם ולא יכרת עוד כל בשר ממי המבול ולא יהיה עוד המבול להשחית הארץ",
-    "translation": "Diferență reală, confirmată: והקמתי את בריתי אתכם ולא יכרת עוד כל בשר ממי המבול ולא יהיה עוד המבול להשחית הארץ — „And I will establish my covenant with you; neither shall all flesh moreover be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.”",
+    "translation": "Diferență reală, confirmată: והקמתי את בריתי אתכם ולא יכרת עוד כל בשר ממי המבול ולא יהיה עוד המבול להשחית הארץ — „Voi statornici legământul Meu cu voi: niciodată nu va mai fi distrus tot ceea ce este viu de către apele potopului și nu va mai fi potop ca să nimicească pământul.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1774,7 +1774,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אלהים זאת אות הברית אשר אני נתן ביני ובינכם ובין כל נפש החיה אשר אתכם לדרות עולם",
-    "translation": "Diferență reală, confirmată: ויאמר אלהים זאת אות הברית אשר אני נתן ביני ובינכם ובין כל נפש החיה אשר אתכם לדרות עולם — „And God said, This [is] the token of the covenant which I make between me and you and every living creature that [is] with you, for perpetual generations;”",
+    "translation": "Diferență reală, confirmată: ויאמר אלהים זאת אות הברית אשר אני נתן ביני ובינכם ובין כל נפש החיה אשר אתכם לדרות עולם — „Și Dumnezeu a spus: „Acesta este semnul legământului pe care Eu îl pun între Mine și voi și orice ființă vie care este cu voi, peste generații, veșnic:”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2219,7 +2219,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וזכרתי את בריתי אשר ביני ובינכם ובין כל נפש החיה אשר אתכם בכל בשר ולא יהיה עוד המים למבול להשחית כל בשר",
-    "translation": "Diferență reală, confirmată: וזכרתי את בריתי אשר ביני ובינכם ובין כל נפש החיה אשר אתכם בכל בשר ולא יהיה עוד המים למבול להשחית כל בשר — „And I will remember my covenant, which [is] between me and you and every living creature that with you in all flesh; and the waters shall no more become a flood to destroy all flesh.”",
+    "translation": "Diferență reală, confirmată: וזכרתי את בריתי אשר ביני ובינכם ובין כל נפש החיה אשר אתכם בכל בשר ולא יהיה עוד המים למבול להשחית כל בשר — „și Îmi voi aminti de legământul Meu între Mine și voi și tot ceea ce este viu din toată firea, și apele nu vor mai deveni potop să distrugă toată firea.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2343,7 +2343,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "והיתה הקשת בענן וראיתה לאזכרה ברית עולם בין אלהים ובין כל נפש החיה בכל בשר אשר על הארץ",
-    "translation": "Diferență reală, confirmată: והיתה הקשת בענן וראיתה לאזכרה ברית עולם בין אלהים ובין כל נפש החיה בכל בשר אשר על הארץ — „And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that [is] upon the earth.”",
+    "translation": "Diferență reală, confirmată: והיתה הקשת בענן וראיתה לאזכרה ברית עולם בין אלהים ובין כל נפש החיה בכל בשר אשר על הארץ — „Curcubeul va fi în nor și îl voi vedea pentru a-Mi aduce aminte de legământul veșnic între Dumnezeu și tot ce este viu din toată firea de pe pământ.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2652,7 +2652,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהיו בני נח היוצאים מן התבה שם חם ויפת וחם הוא אבי כנען",
-    "translation": "Diferență reală, confirmată: ויהיו בני נח היוצאים מן התבה שם חם ויפת וחם הוא אבי כנען — „And the sons of Noah, that went forth of the ark, were Shem, Ham, and Japheth: and Ham [is] the father of Canaan.”",
+    "translation": "Diferență reală, confirmată: ויהיו בני נח היוצאים מן התבה שם חם ויפת וחם הוא אבי כנען — „Și fiii lui Noe ieșiți din arcă au fost Șem, Ham și Iafet; iar Ham este tatăl lui Canaan.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2778,7 +2778,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "שלשה אלה בני נח מאלה נפצה כל הארץ",
-    "translation": "Diferență reală, confirmată: שלשה אלה בני נח מאלה נפצה כל הארץ — „These [are] the three sons of Noah: of them was the whole earth overspread.”",
+    "translation": "Diferență reală, confirmată: שלשה אלה בני נח מאלה נפצה כל הארץ — „Aceștia trei sunt fiii lui Noe și de la aceștia s-au răspândit [oameni pe] tot pământul.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3021,7 +3021,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישת מן היין וישכר ויתגל בתוך אהלו",
-    "translation": "Diferență reală, confirmată: וישת מן היין וישכר ויתגל בתוך אהלו — „And he drank of the wine, and was drunken; and he was uncovered within his tent.”",
+    "translation": "Diferență reală, confirmată: וישת מן היין וישכר ויתגל בתוך אהלו — „Și a băut din vin și s-a îmbătat și s-a dezgolit înăuntrul cortului său.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3383,7 +3383,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקח שם ויפת את השמלה וישמו על שכם שניהם וילכו אחרנית ויכסו את ערות אביהם ופניהם אחרנית וערות אביהם לא ראו",
-    "translation": "Diferență reală, confirmată: ויקח שם ויפת את השמלה וישמו על שכם שניהם וילכו אחרנית ויכסו את ערות אביהם ופניהם אחרנית וערות אביהם לא ראו — „And Shem and Japheth took a garment, and laid [it] upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces [were] backward, and they saw not their father's nakedness.”",
+    "translation": "Diferență reală, confirmată: ויקח שם ויפת את השמלה וישמו על שכם שניהם וילכו אחרנית ויכסו את ערות אביהם ופניהם אחרנית וערות אביהם לא ראו — „Iar Șem și Iafet au luat haina și au pus-o pe umerii amândurora și au mers îndărăt și au acoperit goliciunea tatălui lor; iar fețele lor erau întoarse îndărăt și goliciunea tatălui lor nu au văzut-o.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3529,7 +3529,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקץ נח מיינו וידע את אשר עשה לו בנו הקטן",
-    "translation": "Diferență reală, confirmată: ויקץ נח מיינו וידע את אשר עשה לו בנו הקטן — „And Noah awoke from his wine, and knew what his younger son had done unto him.”",
+    "translation": "Diferență reală, confirmată: ויקץ נח מיינו וידע את אשר עשה לו בנו הקטן — „Noe s-a trezit din vinul său și a știut ce îi făcuse fiul său cel mic.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4093,7 +4093,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי נח אחרי המבול שלש מאות שנה וחמשים שנה",
-    "translation": "Diferență reală, confirmată: ויחי נח אחרי המבול שלש מאות שנה וחמשים שנה — „And Noah lived after the flood three hundred and fifty years.”",
+    "translation": "Diferență reală, confirmată: ויחי נח אחרי המבול שלש מאות שנה וחמשים שנה — „Noe a [mai] trăit după potop trei sute cincizeci de ani.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

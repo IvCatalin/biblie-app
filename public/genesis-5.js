@@ -532,7 +532,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "διακόσια καὶ τριάκοντα ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "o sută treizeci de ani.",
+    "def_ro": "130 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "διακόσια (diakosia), τριάκοντα (triakonta) — două sute treizeci de ani.",
     "diff_ro": "Septuaginta dă aici două sute treizeci de ani (230), nu o sută treizeci de ani (130) ca în textul masoretic.",
     "dict_ro": "Șet se naște în anul 130 (în Septuaginta, 230) de la creație. Anul se obține adunând vârstele patriarhilor la nașterea fiului lor, de la Adam încoace."
@@ -712,7 +712,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי אדם שלשים ומאת שנה ויוליד בדמותו כצלמו ויקרא את שמו שת — „And Adam lived an hundred and thirty years, and begat [a son] in his own likeness, after his image; and called his name Seth:”",
+    "translation": "Diferență reală, confirmată: ויחי אדם שלשים ומאת שנה ויוליד בדמותו כצלמו ויקרא את שמו שת — „Și a trăit Adam o sută treizeci de ani și i s-a născut [un fiu] în asemănarea lui, după imaginea lui; și i-a pus numele Șet.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -805,7 +805,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑπτακόσια ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "opt sute de ani.",
+    "def_ro": "800 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἑπτακόσια (heptakosia) — șapte sute de ani.",
     "diff_ro": "Septuaginta dă aici șapte sute de ani (700), nu opt sute de ani (800) ca în textul masoretic.",
     "dict_ro": "Adam mai trăiește 800 de ani după nașterea lui Șet (în Septuaginta, 700); împreună cu cei 130 de dinainte, face 930 de ani."
@@ -864,7 +864,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויהיו ימי אדם אחרי הולידו את שת שמנה מאות שנה ויוליד בנים ובנות — „And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:”",
+    "translation": "Diferență reală, confirmată: ויהיו ימי אדם אחרי הולידו את שת שמנה מאות שנה ויוליד בנים ובנות — „Și au fost zilele lui Adam după ce i s-a născut Șet opt sute de ani și i s-au născut fii și fiice.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -966,7 +966,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἐννακόσια καὶ τριάκοντα ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "nouă sute treizeci de ani.",
+    "def_ro": "930 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἐννακόσια (ennakosia), τριάκοντα (triakonta) — nouă sute treizeci de ani.",
     "dict_ro": "Adam moare în anul 930 (la fel în Septuaginta) de la creație."
    },
@@ -1120,7 +1120,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "διακόσια καὶ πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "o sută cinci ani.",
+    "def_ro": "105 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "διακόσια (diakosia), πέντε (pente) — două sute cinci ani.",
     "diff_ro": "Septuaginta dă aici două sute cinci ani (205), nu o sută cinci ani (105) ca în textul masoretic.",
     "dict_ro": "Enoș se naște în anul 235 (în Septuaginta, 435) de la creație. Anul se obține adunând vârstele patriarhilor la nașterea fiului lor, de la Adam încoace."
@@ -1155,7 +1155,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Enoș — nume propriu, fiul lui Set; același cuvânt înseamnă „om muritor, om”.",
     "greek_def_ro": "Ἐνώς (Enōs) — Enos, nume propriu.",
-    "dict_ro": "Enosh, Enoș — al doilea cuvânt ebraic pentru „om” (după adam), din rădăcina anash, „a fi slab, fragil, bolnav” — spre deosebire de adam (legat de pământ/roșu) sau ish (bărbat matur, forță), enosh accentuează fragilitatea și muritudinea omului. Numele deschide simbolic o generație conștientă de propria slăbiciune, care „începe să cheme Numele DOMNULUI” (4:26)."
+    "dict_ro": "Enosh, Enoș — al doilea cuvânt ebraic pentru „om” (după adam), din rădăcina anash, „a fi slab, fragil, bolnav” — spre deosebire de adam (legat de pământ/roșu) sau ish (bărbat matur, forță), enosh accentuează fragilitatea și mortalitatea omului. Numele deschide simbolic o generație conștientă de propria slăbiciune, care „începe să cheme Numele DOMNULUI” (4:26)."
    },
    {
     "t": "."
@@ -1179,7 +1179,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי שת חמש שנים ומאת שנה ויוליד את אנוש — „And Seth lived an hundred and five years, and begat Enos:”",
+    "translation": "Diferență reală, confirmată: ויחי שת חמש שנים ומאת שנה ויוליד את אנוש — „Și a trăit Șet o sută cinci ani și i s-a născut Enoș.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -1242,7 +1242,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑπτακόσια καὶ ἑπτὰ ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "opt sute șapte ani.",
+    "def_ro": "807 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἑπτακόσια (heptakosia), ἑπτά (hepta) — șapte sute șapte ani.",
     "diff_ro": "Septuaginta dă aici șapte sute șapte ani (707), nu opt sute șapte ani (807) ca în textul masoretic.",
     "dict_ro": "Șet mai trăiește 807 de ani după nașterea lui Enoș (în Septuaginta, 707); împreună cu cei 105 de dinainte, face 912 de ani."
@@ -1277,7 +1277,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Enoș — nume propriu, fiul lui Set; același cuvânt înseamnă „om muritor, om”.",
     "greek_def_ro": "Ἐνώς (Enōs) — Enoș, nume propriu (la acuzativ).",
-    "dict_ro": "Enosh, Enoș — al doilea cuvânt ebraic pentru „om” (după adam), din rădăcina anash, „a fi slab, fragil, bolnav” — spre deosebire de adam (legat de pământ/roșu) sau ish (bărbat matur, forță), enosh accentuează fragilitatea și muritudinea omului. Numele deschide simbolic o generație conștientă de propria slăbiciune, care „începe să cheme Numele DOMNULUI” (4:26)."
+    "dict_ro": "Enosh, Enoș — al doilea cuvânt ebraic pentru „om” (după adam), din rădăcina anash, „a fi slab, fragil, bolnav” — spre deosebire de adam (legat de pământ/roșu) sau ish (bărbat matur, forță), enosh accentuează fragilitatea și mortalitatea omului. Numele deschide simbolic o generație conștientă de propria slăbiciune, care „începe să cheme Numele DOMNULUI” (4:26)."
    },
    {
     "t": " și i s-au "
@@ -1333,7 +1333,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי שת אחרי הולידו את אנוש שבע שנים ושמנה מאות שנה ויוליד בנים ובנות — „And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:”",
+    "translation": "Diferență reală, confirmată: ויחי שת אחרי הולידו את אנוש שבע שנים ושמנה מאות שנה ויוליד בנים ובנות — „Și a [mai] trăit Șet opt sute șapte ani după ce i s-a născut Enoș și i s-au născut fii și fiice.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -1398,7 +1398,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἐννακόσια καὶ δώδεκα ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "nouă sute doisprezece ani.",
+    "def_ro": "912 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἐννακόσια (ennakosia), δώδεκα (dodeka) — nouă sute doisprezece ani.",
     "dict_ro": "Șet moare în anul 1042 (în Septuaginta, 1142) de la creație."
    },
@@ -1495,7 +1495,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Enoș — nume propriu, fiul lui Set; același cuvânt înseamnă „om muritor, om”.",
     "greek_def_ro": "Ἐνώς (Enōs) — Enos, nume propriu.",
-    "dict_ro": "Enosh, Enoș — al doilea cuvânt ebraic pentru „om” (după adam), din rădăcina anash, „a fi slab, fragil, bolnav” — spre deosebire de adam (legat de pământ/roșu) sau ish (bărbat matur, forță), enosh accentuează fragilitatea și muritudinea omului. Numele deschide simbolic o generație conștientă de propria slăbiciune, care „începe să cheme Numele DOMNULUI” (4:26)."
+    "dict_ro": "Enosh, Enoș — al doilea cuvânt ebraic pentru „om” (după adam), din rădăcina anash, „a fi slab, fragil, bolnav” — spre deosebire de adam (legat de pământ/roșu) sau ish (bărbat matur, forță), enosh accentuează fragilitatea și mortalitatea omului. Numele deschide simbolic o generație conștientă de propria slăbiciune, care „începe să cheme Numele DOMNULUI” (4:26)."
    },
    {
     "t": " "
@@ -1509,7 +1509,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑκατὸν ἐνενήκοντα ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "nouăzeci de ani.",
+    "def_ro": "90 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἑκατόν (hekaton), ἐνενήκοντα (enenēkonta) — o sută nouăzeci de ani.",
     "diff_ro": "Septuaginta dă aici o sută nouăzeci de ani (190), nu nouăzeci de ani (90) ca în textul masoretic.",
     "dict_ro": "Keinan se naște în anul 325 (în Septuaginta, 625) de la creație. Anul se obține adunând vârstele patriarhilor la nașterea fiului lor, de la Adam încoace."
@@ -1568,7 +1568,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי אנוש תשעים שנה ויוליד את קינן — „And Enos lived ninety years, and begat Cainan:”",
+    "translation": "Diferență reală, confirmată: ויחי אנוש תשעים שנה ויוליד את קינן — „Și a trăit Enoș nouăzeci de ani și i s-a născut Keinan.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -1633,7 +1633,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Enoș — nume propriu, fiul lui Set; același cuvânt înseamnă „om muritor, om”.",
     "greek_def_ro": "Ἐνώς (Enōs) — Enoș, nume propriu.",
-    "dict_ro": "Enosh, Enoș — al doilea cuvânt ebraic pentru „om” (după adam), din rădăcina anash, „a fi slab, fragil, bolnav” — spre deosebire de adam (legat de pământ/roșu) sau ish (bărbat matur, forță), enosh accentuează fragilitatea și muritudinea omului. Numele deschide simbolic o generație conștientă de propria slăbiciune, care „începe să cheme Numele DOMNULUI” (4:26)."
+    "dict_ro": "Enosh, Enoș — al doilea cuvânt ebraic pentru „om” (după adam), din rădăcina anash, „a fi slab, fragil, bolnav” — spre deosebire de adam (legat de pământ/roșu) sau ish (bărbat matur, forță), enosh accentuează fragilitatea și mortalitatea omului. Numele deschide simbolic o generație conștientă de propria slăbiciune, care „începe să cheme Numele DOMNULUI” (4:26)."
    },
    {
     "t": " "
@@ -1647,7 +1647,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑπτακόσια καὶ δέκα πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "opt sute cincisprezece ani.",
+    "def_ro": "815 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἑπτακόσια (heptakosia), δέκα (deka), πέντε (pente) — șapte sute cincisprezece ani.",
     "diff_ro": "Septuaginta dă aici șapte sute cincisprezece ani (715), nu opt sute cincisprezece ani (815) ca în textul masoretic.",
     "dict_ro": "Enoș mai trăiește 815 de ani după nașterea lui Keinan (în Septuaginta, 715); împreună cu cei 90 de dinainte, face 905 de ani."
@@ -1738,7 +1738,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי אנוש אחרי הולידו את קינן חמש עשרה שנה ושמנה מאות שנה ויוליד בנים ובנות — „And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:”",
+    "translation": "Diferență reală, confirmată: ויחי אנוש אחרי הולידו את קינן חמש עשרה שנה ושמנה מאות שנה ויוליד בנים ובנות — „Și a [mai] trăit Enoș opt sute cincisprezece ani după ce i s-a născut Keinan și i s-au născut fii și fiice.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -1789,7 +1789,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Enoș — nume propriu, fiul lui Set; același cuvânt înseamnă „om muritor, om”.",
     "greek_def_ro": "Ἐνώς (Enōs) — Enoș, nume propriu.",
-    "dict_ro": "Enosh, Enoș — al doilea cuvânt ebraic pentru „om” (după adam), din rădăcina anash, „a fi slab, fragil, bolnav” — spre deosebire de adam (legat de pământ/roșu) sau ish (bărbat matur, forță), enosh accentuează fragilitatea și muritudinea omului. Numele deschide simbolic o generație conștientă de propria slăbiciune, care „începe să cheme Numele DOMNULUI” (4:26)."
+    "dict_ro": "Enosh, Enoș — al doilea cuvânt ebraic pentru „om” (după adam), din rădăcina anash, „a fi slab, fragil, bolnav” — spre deosebire de adam (legat de pământ/roșu) sau ish (bărbat matur, forță), enosh accentuează fragilitatea și mortalitatea omului. Numele deschide simbolic o generație conștientă de propria slăbiciune, care „începe să cheme Numele DOMNULUI” (4:26)."
    },
    {
     "t": " "
@@ -1803,7 +1803,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἐννακόσια καὶ πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "nouă sute cinci ani.",
+    "def_ro": "905 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἐννακόσια (ennakosia), πέντε (pente) — nouă sute cinci ani.",
     "dict_ro": "Enoș moare în anul 1140 (în Septuaginta, 1340) de la creație."
    },
@@ -1910,7 +1910,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑκατὸν ἑβδομήκοντα ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "șaptezeci de ani.",
+    "def_ro": "70 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἑκατόν (hekaton), ἑβδομήκοντα (hebdomēkonta) — o sută șaptezeci de ani.",
     "diff_ro": "Septuaginta dă aici o sută șaptezeci de ani (170), nu șaptezeci de ani (70) ca în textul masoretic.",
     "dict_ro": "Mahalalel se naște în anul 395 (în Septuaginta, 795) de la creație. Anul se obține adunând vârstele patriarhilor la nașterea fiului lor, de la Adam încoace."
@@ -1969,7 +1969,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי קינן שבעים שנה ויוליד את מהללאל — „And Cainan lived seventy years, and begat Mahalaleel:”",
+    "translation": "Diferență reală, confirmată: ויחי קינן שבעים שנה ויוליד את מהללאל — „Și a trăit Keinan șaptezeci de ani și i s-a născut Mahalalel.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2046,7 +2046,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑπτακόσια καὶ τεσσαράκοντα ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "opt sute patruzeci de ani.",
+    "def_ro": "840 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἑπτακόσια (heptakosia), τεσσαράκοντα (tessarakonta) — șapte sute patruzeci de ani.",
     "diff_ro": "Septuaginta dă aici șapte sute patruzeci de ani (740), nu opt sute patruzeci de ani (840) ca în textul masoretic.",
     "dict_ro": "Keinan mai trăiește 840 de ani după nașterea lui Mahalalel (în Septuaginta, 740); împreună cu cei 70 de dinainte, face 910 de ani."
@@ -2137,7 +2137,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי קינן אחרי הולידו את מהללאל ארבעים שנה ושמנה מאות שנה ויוליד בנים ובנות — „And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:”",
+    "translation": "Diferență reală, confirmată: ויחי קינן אחרי הולידו את מהללאל ארבעים שנה ושמנה מאות שנה ויוליד בנים ובנות — „Și a [mai] trăit Keinan opt sute patruzeci de ani după ce i s-a născut Mahalalel și i s-au născut fii și fiice.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2202,7 +2202,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἐννακόσια καὶ δέκα ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "nouă sute zece ani.",
+    "def_ro": "910 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἐννακόσια (ennakosia), δέκα (deka) — nouă sute zece ani.",
     "dict_ro": "Keinan moare în anul 1235 (în Septuaginta, 1535) de la creație."
    },
@@ -2309,7 +2309,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑκατὸν καὶ ἑξήκοντα πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "șaizeci și cinci de ani.",
+    "def_ro": "65 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἑκατόν (hekaton), ἑξήκοντα (hexēkonta), πέντε (pente) — o sută șaizeci și cinci de ani.",
     "diff_ro": "Septuaginta dă aici o sută șaizeci și cinci de ani (165), nu șaizeci și cinci de ani (65) ca în textul masoretic.",
     "dict_ro": "Iared se naște în anul 460 (în Septuaginta, 960) de la creație. Anul se obține adunând vârstele patriarhilor la nașterea fiului lor, de la Adam încoace."
@@ -2368,7 +2368,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי מהללאל חמש שנים וששים שנה ויוליד את ירד — „And Mahalaleel lived sixty and five years, and begat Jared:”",
+    "translation": "Diferență reală, confirmată: ויחי מהללאל חמש שנים וששים שנה ויוליד את ירד — „Și a trăit Mahalalel șaizeci și cinci de ani și i s-a născut Iared.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2456,7 +2456,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑπτακόσια καὶ τριάκοντα ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "opt sute treizeci de ani.",
+    "def_ro": "830 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἑπτακόσια (heptakosia), τριάκοντα (triakonta) — șapte sute treizeci de ani.",
     "diff_ro": "Septuaginta dă aici șapte sute treizeci de ani (730), nu opt sute treizeci de ani (830) ca în textul masoretic.",
     "dict_ro": "Mahalalel mai trăiește 830 de ani după nașterea lui Iared (în Septuaginta, 730); împreună cu cei 65 de dinainte, face 895 de ani."
@@ -2547,7 +2547,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי מהללאל אחרי הולידו את ירד שלשים שנה ושמנה מאות שנה ויוליד בנים ובנות — „And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:”",
+    "translation": "Diferență reală, confirmată: ויחי מהללאל אחרי הולידו את ירד שלשים שנה ושמנה מאות שנה ויוליד בנים ובנות — „Și a [mai] trăit Mahalalel opt sute treizeci de ani după ce i s-a născut Iared și i s-au născut fii și fiice.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2612,7 +2612,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ὀκτακόσια καὶ ἐνενήκοντα πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "opt sute nouăzeci și cinci de ani.",
+    "def_ro": "895 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ὀκτακόσια (oktakosia), ἐνενήκοντα (enenēkonta), πέντε (pente) — opt sute nouăzeci și cinci de ani.",
     "dict_ro": "Mahalalel moare în anul 1290 (în Septuaginta, 1690) de la creație."
    },
@@ -2719,7 +2719,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑκατὸν καὶ ἑξήκοντα δύο ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "o sută șaizeci și doi de ani.",
+    "def_ro": "162 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἑκατόν (hekaton), ἑξήκοντα (hexēkonta), δύο (dyo) — o sută șaizeci și doi de ani.",
     "dict_ro": "Enoh se naște în anul 622 (în Septuaginta, 1122) de la creație. Anul se obține adunând vârstele patriarhilor la nașterea fiului lor, de la Adam încoace."
    },
@@ -2777,7 +2777,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי ירד שתים וששים שנה ויוליד את חנוך — „And Jared lived sixty and two years, and he begat Enoch:”",
+    "translation": "Diferență reală, confirmată: ויחי ירד שתים וששים שנה ויוליד את חנוך — „Și a trăit Iared șaizeci și doi de ani și i s-a născut Enoh.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2865,7 +2865,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ὀκτακόσια ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "opt sute de ani.",
+    "def_ro": "800 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ὀκτακόσια (oktakosia) — opt sute de ani.",
     "dict_ro": "Iared mai trăiește 800 de ani după nașterea lui Enoh; împreună cu cei 162 de dinainte, face 962 de ani."
    },
@@ -2955,7 +2955,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי ירד אחרי הולידו את חנוך חמש ושמנים שנה ושבע מאות שנה ויוליד בנים ובנות — „And Jared lived after he begat Enoch seven hundred and eighty five years, and begat sons and daughters:”",
+    "translation": "Diferență reală, confirmată: ויחי ירד אחרי הולידו את חנוך חמש ושמנים שנה ושבע מאות שנה ויוליד בנים ובנות — „Și a mai trăit Iared șapte sute optzeci și cinci de ani după ce i s-a născut Enoh și i s-au născut fii și fiice.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3020,7 +3020,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἐννακόσια καὶ ἑξήκοντα δύο ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "nouă sute șaizeci și doi de ani.",
+    "def_ro": "962 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἐννακόσια (ennakosia), ἑξήκοντα (hexēkonta), δύο (dyo) — nouă sute șaizeci și doi de ani.",
     "dict_ro": "Iared moare în anul 1422 (în Septuaginta, 1922) de la creație."
    },
@@ -3062,7 +3062,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויהיו כל ימי ירד שבע וארבעים שנה ושמנה מאות שנה וימת — „And all the days of Jared were eight hundred fourty and seven years: and he died.”",
+    "translation": "Diferență reală, confirmată: ויהיו כל ימי ירד שבע וארבעים שנה ושמנה מאות שנה וימת — „Și au fost toate zilele lui Iared opt sute patruzeci și șapte de ani; și a murit.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3131,7 +3131,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑκατὸν καὶ ἑξήκοντα πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "șaizeci și cinci de ani.",
+    "def_ro": "65 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἑκατόν (hekaton), ἑξήκοντα (hexēkonta), πέντε (pente) — o sută șaizeci și cinci de ani.",
     "diff_ro": "Septuaginta dă aici o sută șaizeci și cinci de ani (165), nu șaizeci și cinci de ani (65) ca în textul masoretic.",
     "dict_ro": "Matusalem se naște în anul 687 (în Septuaginta, 1287) de la creație. Anul se obține adunând vârstele patriarhilor la nașterea fiului lor, de la Adam încoace."
@@ -3190,7 +3190,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי חנוך חמש וששים שנה ויוליד את מתושלח — „And Enoch lived sixty and five years, and begat Methuselah:”",
+    "translation": "Diferență reală, confirmată: ויחי חנוך חמש וששים שנה ויוליד את מתושלח — „Și a trăit Enoh șaizeci și cinci de ani și i s-a născut Matusalem*Ebr: Metușelah.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3276,7 +3276,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "διακόσια ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "trei sute de ani.",
+    "def_ro": "300 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "διακόσια (diakosia) — două sute de ani.",
     "diff_ro": "Septuaginta dă aici două sute de ani (200), nu trei sute de ani (300) ca în textul masoretic.",
     "dict_ro": "Enoh mai trăiește 300 de ani după nașterea lui Matusalem (în Septuaginta, 200); împreună cu cei 65 de dinainte, face 365 de ani."
@@ -3407,7 +3407,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויתהלך חנוך את האלהים אחרי הולידו את מתושלח שלש מאות שנה ויוליד בנים ובנות — „And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:”",
+    "translation": "Diferență reală, confirmată: ויתהלך חנוך את האלהים אחרי הולידו את מתושלח שלש מאות שנה ויוליד בנים ובנות — „Enoh a mers cu Dumnezeu trei sute de ani după ce i s-a născut Matusalem și i s-au născut fii și fiice.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3467,7 +3467,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "τριακόσια ἑξήκοντα πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "trei sute șaizeci și cinci de ani.",
+    "def_ro": "365 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "τριακόσια (triakosia), ἑξήκοντα (hexēkonta), πέντε (pente) — trei sute șaizeci și cinci de ani.",
     "dict_ro": "Viața lui Enoh pe pământ, 365 de ani, se încheie în anul 987 (în Septuaginta, 1487) de la creație, când „l-a luat Dumnezeu” (5:24); e cea mai scurtă viață din capitol."
    },
@@ -3493,7 +3493,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויהיו כל ימי חנוך חמש וששים שנה ושלש מאות שנה — „And all the days of Enoch were three hundred sixty and five years:”",
+    "translation": "Diferență reală, confirmată: ויהיו כל ימי חנוך חמש וששים שנה ושלש מאות שנה — „Și au fost toate zilele lui Enoh trei sute șaizeci și cinci de ani.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3747,7 +3747,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Grigorie de Nazianz, Orații teologice 28.18",
-    "text": "Enoh „a nădăjduit să cheme pe Domnul.” Isprava lui n-a stat în a nădăji cunoașterea, ia seama, ci în a nădăji chemarea Domnului. Enoh a fost „strămutat”, da, dar nu se știe deloc limpede dacă aceasta a fost o urmare sau o condiție a priceperii firii lui Dumnezeu."
+    "text": "Enoh „a nădăjduit să cheme pe Domnul.” Isprava lui n-a stat în a nădăjdui cunoașterea, ia seama, ci în a nădăjdui chemarea Domnului. Enoh a fost „strămutat”, da, dar nu se știe deloc limpede dacă aceasta a fost o urmare sau o condiție a priceperii firii lui Dumnezeu."
    },
    {
     "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I",
@@ -3824,7 +3824,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑκατὸν καὶ ἑξήκοντα ἑπτὰ ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "o sută optzeci și șapte de ani.",
+    "def_ro": "187 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἑκατόν (hekaton), ἑξήκοντα (hexēkonta), ἑπτά (hepta) — o sută șaizeci și șapte de ani.",
     "diff_ro": "Septuaginta dă aici o sută șaizeci și șapte de ani (167), nu o sută optzeci și șapte de ani (187) ca în textul masoretic.",
     "dict_ro": "Lameh se naște în anul 874 (în Septuaginta, 1454) de la creație. Anul se obține adunând vârstele patriarhilor la nașterea fiului lor, de la Adam încoace."
@@ -3883,7 +3883,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי מתושלח שבע וששים שנה ויוליד את למך — „And Methuselah lived an sixty seven years, and begat Lamech:”",
+    "translation": "Diferență reală, confirmată: ויחי מתושלח שבע וששים שנה ויוליד את למך — „Și a trăit Metușelah șaizeci și șapte de ani și i s-a născut Lameh.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3984,7 +3984,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ὀκτακόσια δύο ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "șapte sute optzeci și doi de ani.",
+    "def_ro": "782 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ὀκτακόσια (oktakosia), δύο (dyo) — opt sute doi ani.",
     "diff_ro": "Septuaginta dă aici opt sute doi ani (802), nu șapte sute optzeci și doi de ani (782) ca în textul masoretic.",
     "dict_ro": "Matusalem mai trăiește 782 de ani după nașterea lui Lameh (în Septuaginta, 802); împreună cu cei 187 de dinainte, face 969 de ani."
@@ -4075,7 +4075,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי מתושלח אחרי הולידו את למך שלש וחמשים שנה ושש מאות שנה ויוליד בנים ובנות — „And Methuselah lived after he begat Lamech six hundred fifty and three years, and begat sons and daughters:”",
+    "translation": "Diferență reală, confirmată: ויחי מתושלח אחרי הולידו את למך שלש וחמשים שנה ושש מאות שנה ויוליד בנים ובנות — „Și a mai trăit Metușelah șase sute cincizeci și trei de ani după ce i s-a născut Lameh și i s-au născut fii și fiice.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -4151,7 +4151,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἐννακόσια καὶ ἑξήκοντα ἐννέα ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "nouă sute șaizeci și nouă de ani.",
+    "def_ro": "969 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἐννακόσια (ennakosia), ἑξήκοντα (hexēkonta), ἐννέα (ennea) — nouă sute șaizeci și nouă de ani.",
     "dict_ro": "Matusalem moare în anul 1656 de la creație (în Septuaginta, 2256). După cifrele textului masoretic, acesta e chiar anul potopului (1656, adică Noe la 600 de ani, 7:6); după cifrele Septuagintei, potopul vine în anul 2242, deci Matusalem ar muri la 14 ani după el."
    },
@@ -4218,7 +4218,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויהיו כל ימי מתושלח עשרים שנה ושבע מאות שנה וימת — „And all the days of Methuselah were seven hundred and twenty years: and he died.”",
+    "translation": "Diferență reală, confirmată: ויהיו כל ימי מתושלח עשרים שנה ושבע מאות שנה וימת — „Și au fost toate zilele lui Metușelah șapte sute douăzeci de ani; și a murit.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -4273,7 +4273,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑκατὸν ὀγδοήκοντα ὀκτὼ ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "o sută optzeci și doi de ani.",
+    "def_ro": "182 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἑκατόν (hekaton), ὀγδοήκοντα (ogdoēkonta), ὀκτώ (oktō) — o sută optzeci și opt de ani.",
     "diff_ro": "Septuaginta dă aici o sută optzeci și opt de ani (188), nu o sută optzeci și doi de ani (182) ca în textul masoretic.",
     "dict_ro": "Noe se naște în anul 1056 (în Septuaginta, 1642) de la creație. Anul se obține adunând vârstele patriarhilor la nașterea fiului lor, de la Adam încoace."
@@ -4332,7 +4332,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי למך שלש וחמשים שנה ויוליד בן — „And Lamech lived fifty and three years, and begat a son:”",
+    "translation": "Diferență reală, confirmată: ויחי למך שלש וחמשים שנה ויוליד בן — „Și a trăit Lameh cincizeci și trei de ani și i s-a născut un fiu.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -4666,7 +4666,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויקרא את שמו נח לאמר זה ינחמנו ממעשינו ומעצבון ידינו מן האדמה אשר אררה יהוה — „And he called his name Noah, saying, This [same] shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed.”",
+    "translation": "Diferență reală, confirmată: ויקרא את שמו נח לאמר זה ינחמנו ממעשינו ומעצבון ידינו מן האדמה אשר אררה יהוה — „Și el i-a pus numele Noe*Ebr: Noah, spunând: „Acesta ne va aduce odihnă de la lucrarea noastră și de la truda mâinilor noastre de pe pământul pe care l-a blestemat DOMNUL.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -4758,7 +4758,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "πεντακόσια καὶ ἑξήκοντα πέντε ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cinci sute nouăzeci și cinci de ani.",
+    "def_ro": "595 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "πεντακόσια (pentakosia), ἑξήκοντα (hexēkonta), πέντε (pente) — cinci sute șaizeci și cinci de ani.",
     "diff_ro": "Septuaginta dă aici cinci sute șaizeci și cinci de ani (565), nu cinci sute nouăzeci și cinci de ani (595) ca în textul masoretic.",
     "dict_ro": "Lameh mai trăiește 595 de ani după nașterea lui Noe (în Septuaginta, 565); împreună cu cei 182 de dinainte, face 777 de ani."
@@ -4817,7 +4817,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויחי למך אחרי הולידו את נח שש מאות שנה ויוליד בנים ובנות — „And Lamech lived after he begat Noah six hundred years, and begat sons and daughters:”",
+    "translation": "Diferență reală, confirmată: ויחי למך אחרי הולידו את נח שש מאות שנה ויוליד בנים ובנות — „Și a mai trăit Lameh șase sute de ani după ce i s-a născut Noe și i s-au născut fii și fiice.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -4893,7 +4893,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑπτακόσια καὶ πεντήκοντα τρία ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "șapte sute șaptezeci și șapte de ani.",
+    "def_ro": "777 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "ἑπτακόσια (heptakosia), πεντήκοντα (pentēkonta), τρία (tria) — șapte sute cincizeci și trei de ani.",
     "diff_ro": "Septuaginta dă aici șapte sute cincizeci și trei de ani (753), nu șapte sute șaptezeci și șapte de ani (777) ca în textul masoretic.",
     "dict_ro": "Lameh moare în anul 1651 (în Septuaginta, 2207) de la creație."
@@ -4936,7 +4936,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויהיו כל ימי למך שלש וחמשים שנה ושש מאות שנה וימת — „And all the days of Lamech were six hundred fifty and three years: and he died.”",
+    "translation": "Diferență reală, confirmată: ויהיו כל ימי למך שלש וחמשים שנה ושש מאות שנה וימת — „Și au fost toate zilele lui Lameh șase sute cincizeci și trei de ani; și a murit.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -5020,7 +5020,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἐτῶν πεντακοσίων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cinci sute de ani.",
+    "def_ro": "500 de ani — numeral compus: ebraica îl spune pe părți (unități, zeci, sute, fiecare cu „ani”) și îl adună; aici, anii vieții unui patriarh.",
     "greek_def_ro": "πεντακοσίων (pentakosiōn) — cinci sute de ani.",
     "dict_ro": "Cei trei fii se nasc când Noe are 500 de ani, adică în anul 1556 de la creație (în Septuaginta, anul 2142). Potopul vine când Noe are 600 de ani (7:6): în anul 1656 (în Septuaginta, 2242)."
    },
@@ -5118,7 +5118,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויהי נח בן חמש מאות שנה ויוליד את שם ואת חם ואת יפת — „And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.”",
+    "translation": "Diferență reală, confirmată: ויהי נח בן חמש מאות שנה ויוליד את שם ואת חם ואת יפת — „Și a fost, atunci când Noe avea cinci sute de ani, că lui Noe i s-au născut Șem, Ham și Iafet.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],

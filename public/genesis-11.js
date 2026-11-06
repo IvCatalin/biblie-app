@@ -420,7 +420,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמרו איש אל רעהו הבה נלבנה לבנים ונשרפה לשרפה ותהי להם הלבנה לאבן והחימר היה להם לחימר",
-    "translation": "Diferență reală, confirmată: ויאמרו איש אל רעהו הבה נלבנה לבנים ונשרפה לשרפה ותהי להם הלבנה לאבן והחימר היה להם לחימר — „And they said one to another, Go to, let us make brick, and burn them thoroughly. And they had brick for stone, and slime had they for mortar.”",
+    "translation": "Diferență reală, confirmată: ויאמרו איש אל רעהו הבה נלבנה לבנים ונשרפה לשרפה ותהי להם הלבנה לאבן והחימר היה להם לחימר — „Și și-au spus unul altuia: „Haideți să facem cărămizi și să le ardem în foc.” Și cărămida le-a servit drept piatră, iar smoala le-a servit drept mortar.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -770,7 +770,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וירד יהוה לראות את העיר ואת המגדל אשר בנו בני האדם",
-    "translation": "Diferență reală, confirmată: וירד יהוה לראות את העיר ואת המגדל אשר בנו בני האדם — „And the LORD came down to see the city and the tower, which the children of men builded.”",
+    "translation": "Diferență reală, confirmată: וירד יהוה לראות את העיר ואת המגדל אשר בנו בני האדם — „Și DOMNUL a coborât să vadă orașul și turnul pe care l-au construit fiii omului.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -962,7 +962,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר יהוה הן עם אחד ושפה אחת לכלם וזה החלם לעשות ועתה לא יבצר מהם כל אשר יזמנו לעשות",
-    "translation": "Diferență reală, confirmată: ויאמר יהוה הן עם אחד ושפה אחת לכלם וזה החלם לעשות ועתה לא יבצר מהם כל אשר יזמנו לעשות — „And the LORD said, Behold, the people [is] one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do.”",
+    "translation": "Diferență reală, confirmată: ויאמר יהוה הן עם אחד ושפה אחת לכלם וזה החלם לעשות ועתה לא יבצר מהם כל אשר יזמנו לעשות — „Și DOMNUL a spus: „Iată, ei sunt un singur popor și [au] o singură limbă pentru toți, și asta încep să facă?! Și acum, să nu le fie deci zădărnicit tot ceea ce își propun să facă?”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1112,7 +1112,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "הבה נרדה ונבלה שם שפתים אשר לא ישמע איש את שפת רעהו",
-    "translation": "Diferență reală, confirmată: הבה נרדה ונבלה שם שפתים אשר לא ישמע איש את שפת רעהו — „Go to, let us go down, and there confound their language, that they may not understand one another's speech.”",
+    "translation": "Diferență reală, confirmată: הבה נרדה ונבלה שם שפתים אשר לא ישמע איש את שפת רעהו — „Hai să coborâm și să le încurcăm acolo limba, astfel încât să nu înțeleagă niciunul limba semenului său.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1241,7 +1241,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויפץ יהוה אתם משם על פני כל הארץ ויחדלו לבנות את העיר ואת המגדל",
-    "translation": "Diferență reală, confirmată: ויפץ יהוה אתם משם על פני כל הארץ ויחדלו לבנות את העיר ואת המגדל — „So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city and the tower.”",
+    "translation": "Diferență reală, confirmată: ויפץ יהוה אתם משם על פני כל הארץ ויחדלו לבנות את העיר ואת המגדל — „Și DOMNUL i-a împrăștiat de acolo pe fața întregului pământ; și s-au oprit din a mai construi orașul.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1394,7 +1394,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "על כן קרא שמה בבל כי שם בלל יהוה את שפת כל הארץ ומשם הפיצם יהוה על פני כל הארץ",
-    "translation": "Diferență reală, confirmată: על כן קרא שמה בבל כי שם בלל יהוה את שפת כל הארץ ומשם הפיצם יהוה על פני כל הארץ — „Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth.”",
+    "translation": "Diferență reală, confirmată: על כן קרא שמה בבל כי שם בלל יהוה את שפת כל הארץ ומשם הפיצם יהוה על פני כל הארץ — „De aceea i s-a pus numele Babel*De la „[de acolo] vine confuzie”. În arameică: „poartă către zeu”, căci acolo a încurcat DOMNUL limba întregului pământ și de acolo i-a împrăștiat DOMNUL pe fața întregului pământ.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1557,7 +1557,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "אלה תולדת שם שם בן מאת שנה ויוליד את ארפכשד שנתים אחרי המבול",
-    "translation": "Diferență reală, confirmată: אלה תולדת שם שם בן מאת שנה ויוליד את ארפכשד שנתים אחרי המבול — „These [are] the generations of Shem: Shem [was] an hundred years old, and begat Arphaxad two years after the flood:”",
+    "translation": "Diferență reală, confirmată: אלה תולדת שם שם בן מאת שנה ויוליד את ארפכשד שנתים אחרי המבול — „Aceștia sunt urmașii lui Șem: Șem avea o sută de ani când i s-a născut Arpahșad, la doi ani după potop.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1703,7 +1703,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי שם אחרי הולידו את ארפכשד חמש מאות שנה ויוליד בנים ובנות ויהיו כל ימי שם שש מאות שנה וימת",
-    "translation": "Diferență reală, confirmată: ויחי שם אחרי הולידו את ארפכשד חמש מאות שנה ויוליד בנים ובנות ויהיו כל ימי שם שש מאות שנה וימת — „And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters. And they were all days of Shem six hundred years and he is dying.”",
+    "translation": "Diferență reală, confirmată: ויחי שם אחרי הולידו את ארפכשד חמש מאות שנה ויוליד בנים ובנות ויהיו כל ימי שם שש מאות שנה וימת — „Și a mai trăit Șem cinci sute de ani după ce i s-a născut Arpahșad și i s-au născut fii și fiice; și au fost toate zilele lui Șem șase sute de ani; și a murit.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1816,7 +1816,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וארפכשד חי חמש ושלשים ומאת שנה ויוליד את שלח",
-    "translation": "Diferență reală, confirmată: וארפכשד חי חמש ושלשים ומאת שנה ויוליד את שלח — „And Arphaxad lived five and thirty and one hundred years, and begat Salah:”",
+    "translation": "Diferență reală, confirmată: וארפכשד חי חמש ושלשים ומאת שנה ויוליד את שלח — „Și Arpahșad a trăit o sută treizeci și cinci de ani și i s-a născut Șelah.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1953,7 +1953,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי ארפכשד אחרי הולידו את שלח שלש שנים ושלש מאות שנה ויוליד בנים ובנות ויהיו כל ימי ארפכשד שמנה ושלשים שנה וארבע מאות שנה וימת",
-    "translation": "Diferență reală, confirmată: ויחי ארפכשד אחרי הולידו את שלח שלש שנים ושלש מאות שנה ויוליד בנים ובנות ויהיו כל ימי ארפכשד שמנה ושלשים שנה וארבע מאות שנה וימת — „And Arphaxad lived after he begat Salah three hundred and three years, and begat sons and daughters. And they were all days of Arphaxad eight and thirty years and four hundred years and he is dying.”",
+    "translation": "Diferență reală, confirmată: ויחי ארפכשד אחרי הולידו את שלח שלש שנים ושלש מאות שנה ויוליד בנים ובנות ויהיו כל ימי ארפכשד שמנה ושלשים שנה וארבע מאות שנה וימת — „Și a mai trăit Arpahșad trei sute trei ani după ce i s-a născut Șelah și i s-au născut fii și fiice; și au fost toate zilele lui Arpahșad patru sute treizeci și opt de ani; și a murit.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2062,7 +2062,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי שלח שלשים שנה ומאת שנה ויוליד את עבר",
-    "translation": "Diferență reală, confirmată: ויחי שלח שלשים שנה ומאת שנה ויוליד את עבר — „And lived Salah thirty years and one hundred years, and begat Eber:”",
+    "translation": "Diferență reală, confirmată: ויחי שלח שלשים שנה ומאת שנה ויוליד את עבר — „Și Șelah a trăit o sută treizeci de ani și i s-a născut Ever.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2199,7 +2199,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי שלח אחרי הולידו את עבר שלש שנים ושלש מאות שנה ויוליד בנים ובנות ויהיו כל ימי שלח שלש ושלשים שנה וארבע מאות שנה וימת",
-    "translation": "Diferență reală, confirmată: ויחי שלח אחרי הולידו את עבר שלש שנים ושלש מאות שנה ויוליד בנים ובנות ויהיו כל ימי שלח שלש ושלשים שנה וארבע מאות שנה וימת — „And Salah lived after he begat Eber three hundred and three years, and begat sons and daughters. And they were all days of Salah three and thirty years and four hundred years, and he is dying.”",
+    "translation": "Diferență reală, confirmată: ויחי שלח אחרי הולידו את עבר שלש שנים ושלש מאות שנה ויוליד בנים ובנות ויהיו כל ימי שלח שלש ושלשים שנה וארבע מאות שנה וימת — „Și a mai trăit Șelah trei sute trei ani după ce i s-a născut Ever și i s-au născut fii și fiice; și au fost toate zilele lui Șelah patru sute treizeci și trei de ani; și a murit.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2308,7 +2308,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי עבר ארבע ושלשים ומאת שנה ויוליד את פלג",
-    "translation": "Diferență reală, confirmată: ויחי עבר ארבע ושלשים ומאת שנה ויוליד את פלג — „And Eber lived four and thirty and hundred years, and begat Peleg:”",
+    "translation": "Diferență reală, confirmată: ויחי עבר ארבע ושלשים ומאת שנה ויוליד את פלג — „Și a trăit Ever o sută treizeci și patru de ani și i s-a născut Peleg.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2440,7 +2440,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי עבר אחרי הולידו את פלג שבעים שנה ומאתים שנה ויוליד בנים ובנות ויהיו כל ימי עבר ארבע שנים וארבע מאות שנה וימת",
-    "translation": "Diferență reală, confirmată: ויחי עבר אחרי הולידו את פלג שבעים שנה ומאתים שנה ויוליד בנים ובנות ויהיו כל ימי עבר ארבע שנים וארבע מאות שנה וימת — „And Eber lived after he begat Peleg two hundred and seventy years, and begat sons and daughters. And they were all days of Eber four years and four hundred years, and he is dying.”",
+    "translation": "Diferență reală, confirmată: ויחי עבר אחרי הולידו את פלג שבעים שנה ומאתים שנה ויוליד בנים ובנות ויהיו כל ימי עבר ארבע שנים וארבע מאות שנה וימת — „Și a mai trăit Ever două sute șaptezeci de ani după ce i s-a născut Peleg și i s-au născut fii și fiice; și au fost toate zilele lui Ever patru sute patru ani; și a murit.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2549,7 +2549,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי פלג שלשים שנה ומאת שנה ויוליד את רעו",
-    "translation": "Diferență reală, confirmată: ויחי פלג שלשים שנה ומאת שנה ויוליד את רעו — „And Peleg lived thirty years and hundred years, and begat Reu:”",
+    "translation": "Diferență reală, confirmată: ויחי פלג שלשים שנה ומאת שנה ויוליד את רעו — „Și a trăit Peleg o sută treizeci de ani și i s-a născut Reu.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2686,7 +2686,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי פלג אחרי הולידו את רעו תשע שנים ומאת שנה ויוליד בנים ובנות ויהיו כל ימי פלג תשע ושלשים ומאתים שנה וימת",
-    "translation": "Diferență reală, confirmată: ויחי פלג אחרי הולידו את רעו תשע שנים ומאת שנה ויוליד בנים ובנות ויהיו כל ימי פלג תשע ושלשים ומאתים שנה וימת — „And Peleg lived after he begat Reu hundred and nine years, and begat sons and daughters. And they were all days of Peleg nine and thirty and two hundred years, and he is dying.”",
+    "translation": "Diferență reală, confirmată: ויחי פלג אחרי הולידו את רעו תשע שנים ומאת שנה ויוליד בנים ובנות ויהיו כל ימי פלג תשע ושלשים ומאתים שנה וימת — „Și a mai trăit Peleg o sută nouă ani după ce i s-a născut Reu și i s-au născut fii și fiice; și au fost toate zilele lui Peleg două sute treizeci și nouă de ani; și a murit.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2795,7 +2795,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי רעו שתים ושלשים ומאת שנה ויוליד את שרוג",
-    "translation": "Diferență reală, confirmată: ויחי רעו שתים ושלשים ומאת שנה ויוליד את שרוג — „And Reu lived two and thirty and hundred years, and begat Serug:”",
+    "translation": "Diferență reală, confirmată: ויחי רעו שתים ושלשים ומאת שנה ויוליד את שרוג — „Și a trăit Reu o sută treizeci și doi de ani și i s-a născut Serug.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2943,7 +2943,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי רעו אחרי הולידו את שרוג שבע שנים ומאת שנה ויוליד בנים ובנות ויהיו כל ימי רעו תשע ושלשים ומאתים שנה וימת",
-    "translation": "Diferență reală, confirmată: ויחי רעו אחרי הולידו את שרוג שבע שנים ומאת שנה ויוליד בנים ובנות ויהיו כל ימי רעו תשע ושלשים ומאתים שנה וימת — „And Reu lived after he begat Serug hundred and seven years, and begat sons and daughters. And they were all days of Reu nine and thirty and two hundred years, and he is dying.”",
+    "translation": "Diferență reală, confirmată: ויחי רעו אחרי הולידו את שרוג שבע שנים ומאת שנה ויוליד בנים ובנות ויהיו כל ימי רעו תשע ושלשים ומאתים שנה וימת — „Și a mai trăit Reu o sută șapte ani după ce i s-a născut Serug și i s-au născut fii și fiice; și au fost toate zilele lui Reu două sute treizeci și nouă de ani; și a murit.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3052,7 +3052,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי שרוג שלשים שנה ומאת שנה ויוליד את נחור",
-    "translation": "Diferență reală, confirmată: ויחי שרוג שלשים שנה ומאת שנה ויוליד את נחור — „And Serug lived hundred and thirty years, and begat Nahor:”",
+    "translation": "Diferență reală, confirmată: ויחי שרוג שלשים שנה ומאת שנה ויוליד את נחור — „Și a trăit Serug o sută treizeci de ani și i s-a născut Nahor.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3189,7 +3189,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי שרוג אחרי הולידו את נחור מאת שנה ויוליד בנים ובנות ויהיו כל ימי שרוג שלשים שנה ומאתים שנה וימת",
-    "translation": "Diferență reală, confirmată: ויחי שרוג אחרי הולידו את נחור מאת שנה ויוליד בנים ובנות ויהיו כל ימי שרוג שלשים שנה ומאתים שנה וימת — „And Serug lived after he begat Nahor hundred years, and begat sons and daughters. And they were all days of Serug thirty years and two hundred years, and he is dying.”",
+    "translation": "Diferență reală, confirmată: ויחי שרוג אחרי הולידו את נחור מאת שנה ויוליד בנים ובנות ויהיו כל ימי שרוג שלשים שנה ומאתים שנה וימת — „Și a mai trăit Serug o sută de ani după ce i s-a născut Nahor și i s-au născut fii și fiice; și au fost toate zilele lui Serug două sute treizeci de ani; și a murit.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3298,7 +3298,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי נחור תשע ושבעים שנה ויוליד את תרח",
-    "translation": "Diferență reală, confirmată: ויחי נחור תשע ושבעים שנה ויוליד את תרח — „And Nahor lived nine and seventy years, and begat Terah:”",
+    "translation": "Diferență reală, confirmată: ויחי נחור תשע ושבעים שנה ויוליד את תרח — „Și a trăit Nahor șaptezeci și nouă de ani și i s-a născut Terah.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3435,7 +3435,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי נחור אחרי הולידו את תרח תשע שנים וששים שנה ויוליד בנים ובנות ויהיו כל ימי נחור שמנה וארבעים שנה ומאת שנה וימת",
-    "translation": "Diferență reală, confirmată: ויחי נחור אחרי הולידו את תרח תשע שנים וששים שנה ויוליד בנים ובנות ויהיו כל ימי נחור שמנה וארבעים שנה ומאת שנה וימת — „And Nahor lived after he begat Terah an sixty and nine years, and begat sons and daughters. And they were all days of Nahor eight and forty years and hundred years, and he is dying”",
+    "translation": "Diferență reală, confirmată: ויחי נחור אחרי הולידו את תרח תשע שנים וששים שנה ויוליד בנים ובנות ויהיו כל ימי נחור שמנה וארבעים שנה ומאת שנה וימת — „Și a mai trăit Nahor șaizeci și nouă de ani după ce i s-a născut Terah și i s-au născut fii și fiice; și au fost toate zilele lui Nahor o sută patruzeci și opt de ani; și a murit.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3572,7 +3572,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויחי תרח שבעים שנה ויוליד את אברם ואת נחור ואת הרן",
-    "translation": "Diferență reală, confirmată: ויחי תרח שבעים שנה ויוליד את אברם ואת נחור ואת הרן — „And Terah lived seventy years, and begat Abram, Nahor, and Haran.”",
+    "translation": "Diferență reală, confirmată: ויחי תרח שבעים שנה ויוליד את אברם ואת נחור ואת הרן — „Și a trăit Terah șaptezeci de ani și i s au născut Avram, Nahor și Haran.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3752,7 +3752,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "אלה תולדת תרח תרח הוליד את אברם ואת נחור ואת הרן והרן הוליד את לוט",
-    "translation": "Diferență reală, confirmată: אלה תולדת תרח תרח הוליד את אברם ואת נחור ואת הרן והרן הוליד את לוט — „Now these [are] the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.”",
+    "translation": "Diferență reală, confirmată: אלה תולדת תרח תרח הוליד את אברם ואת נחור ואת הרן והרן הוליד את לוט — „Și aceștia sunt urmașii lui Terah: lui Terah i s-au născut Avram, Nahor și Haran; iar lui Haran i s-a născut Lot.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4516,7 +4516,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקח תרח את אברם בנו ואת לוט בן הרן בן בנו ואת שרי ואת מלכה כלותו אשת אברם ונחור בניו ויוצא אתם מאור כשדים ללכת ארצה כנען ויבאו עד חרן וישבו שם",
-    "translation": "Diferență reală, confirmată: ויקח תרח את אברם בנו ואת לוט בן הרן בן בנו ואת שרי ואת מלכה כלותו אשת אברם ונחור בניו ויוצא אתם מאור כשדים ללכת ארצה כנען ויבאו עד חרן וישבו שם — „And Terah took Abram his son, and Lot the son of Haran his son's son, and Sarai and Milka his daughters-in-law, his son Abram's wife; and Nahor â€“ his son; and he went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.”",
+    "translation": "Diferență reală, confirmată: ויקח תרח את אברם בנו ואת לוט בן הרן בן בנו ואת שרי ואת מלכה כלותו אשת אברם ונחור בניו ויוצא אתם מאור כשדים ללכת ארצה כנען ויבאו עד חרן וישבו שם — „Terah i-a luat pe fiul său Avram și pe Lot, fiul lui Haran, fiul fiului său, și pe Sarai și pe Milca, nurorile sale, soțiile lui Avram și ale lui Nahor, fiii săi, și i-a scos din Ur-Casdim ca să meargă spre țara Canaanului; și au ajuns până la Haran și s-au așezat acolo.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -4656,7 +4656,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהיו ימי תרח חמש שנים וארבעים ומאת שנה וימת תרח בחרן",
-    "translation": "Diferență reală, confirmată: ויהיו ימי תרח חמש שנים וארבעים ומאת שנה וימת תרח בחרן — „And the days of Terah were hundred and forty five years: and Terah died in Haran.”",
+    "translation": "Diferență reală, confirmată: ויהיו ימי תרח חמש שנים וארבעים ומאת שנה וימת תרח בחרן — „Și au fost zilele lui Terah două sute cinci ani și a murit Terah în Haran.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

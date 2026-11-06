@@ -1027,7 +1027,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותאמר שרי אל אברם חמסי עליך אנכי נתתי שפחתי בחיקך ותרא כי הרתה ואקל בעיניה ישפט יהוה ביני ובינך",
-    "translation": "Diferență reală, confirmată: ותאמר שרי אל אברם חמסי עליך אנכי נתתי שפחתי בחיקך ותרא כי הרתה ואקל בעיניה ישפט יהוה ביני ובינך — „And Sarai said unto Abram, My wrong [be] upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the LORD judge between me and thee.”",
+    "translation": "Diferență reală, confirmată: ותאמר שרי אל אברם חמסי עליך אנכי נתתי שפחתי בחיקך ותרא כי הרתה ואקל בעיניה ישפט יהוה ביני ובינך — „Și Sarai i-a spus lui Avram: „Nedreptatea ce mi se face e asupra ta! Eu mi-am dat slujnica la sânul tău, ea a văzut că a zămislit și am decăzut în ochii ei. Să judece DOMNUL între mine și tine!”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1228,7 +1228,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אברם אל שרי הנה שפחתיך בידיך עשה לה הטוב בעיניך ותענה שרי ותברח מפניה",
-    "translation": "Diferență reală, confirmată: ויאמר אברם אל שרי הנה שפחתיך בידיך עשה לה הטוב בעיניך ותענה שרי ותברח מפניה — „But Abram said unto Sarai, Behold, thy maid [is] in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.”",
+    "translation": "Diferență reală, confirmată: ויאמר אברם אל שרי הנה שפחתיך בידיך עשה לה הטוב בעיניך ותענה שרי ותברח מפניה — „Și Avram i-a spus lui Sarai: „Iată, slujnica ta este în mâna ta; fă-i ce este bine în ochii tăi!” Sarai a prigonit-o și ea a fugit dinaintea ei.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1582,7 +1582,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר הגר שפחת שרי אוי מזה באתי ואנה תלכי ותאמר מפני שרי גברתי אנכי ברחת",
-    "translation": "Diferență reală, confirmată: ויאמר הגר שפחת שרי אוי מזה באתי ואנה תלכי ותאמר מפני שרי גברתי אנכי ברחת — „And he said, Hagar, Sarai's maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai.”",
+    "translation": "Diferență reală, confirmată: ויאמר הגר שפחת שרי אוי מזה באתי ואנה תלכי ותאמר מפני שרי גברתי אנכי ברחת — „și a spus: „Hagar, slujnica lui Sarai, de unde ai venit și încotro te îndrepți?” Ea a spus: „Fug dinaintea stăpânei mele Sarai.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1731,7 +1731,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר לה מלאך יהוה שובי אל גברתיך והתעני תחת ידה",
-    "translation": "Diferență reală, confirmată: ויאמר לה מלאך יהוה שובי אל גברתיך והתעני תחת ידה — „And the angel of the LORD said unto her, Return to thy mistress, and submit thyself under her hand.”",
+    "translation": "Diferență reală, confirmată: ויאמר לה מלאך יהוה שובי אל גברתיך והתעני תחת ידה — „Și un înger al DOMNULUI i-a spus: „Întoarce-te la stăpâna ta și supune-te sub mâna ei.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1866,7 +1866,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר לה מלאך יהוה הרבה ארבה את זרעיך ולא יספר מרב",
-    "translation": "Diferență reală, confirmată: ויאמר לה מלאך יהוה הרבה ארבה את זרעיך ולא יספר מרב — „And the angel of the LORD said unto her, I will multiply thy seed exceedingly, that it shall not be numbered for multitude.”",
+    "translation": "Diferență reală, confirmată: ויאמר לה מלאך יהוה הרבה ארבה את זרעיך ולא יספר מרב — „Și un înger al DOMNULUI i-a spus: „Îți voi înmulți foarte mult seminția; nu va putea fi numărată de multă ce este.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2075,7 +2075,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר לה מלאך יהוה הנך הרה וילדת בן וקראת את שמו ישמעאל כי שמע יהוה אל עניך",
-    "translation": "Diferență reală, confirmată: ויאמר לה מלאך יהוה הנך הרה וילדת בן וקראת את שמו ישמעאל כי שמע יהוה אל עניך — „And the angel of the LORD said unto her, Behold, thou [art] with child, and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard thy affliction.”",
+    "translation": "Diferență reală, confirmată: ויאמר לה מלאך יהוה הנך הרה וילדת בן וקראת את שמו ישמעאל כי שמע יהוה אל עניך — „Și un înger al DOMNULUI i-a spus: „Iată, ai zămislit și vei naște un fiu și îi vei pune numele Ișmael*Adică „Dumnezeu a auzit” sau „Dumnezeu a ascultat”, căci DOMNUL ți-a auzit durerea.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2253,7 +2253,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "והוא יהיה פרה אדם ידו בכל ויד כל בו ועל פני כל אחיו ישכן",
-    "translation": "Diferență reală, confirmată: והוא יהיה פרה אדם ידו בכל ויד כל בו ועל פני כל אחיו ישכן — „And he will be a wild man; his hand [will be] against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren.”",
+    "translation": "Diferență reală, confirmată: והוא יהיה פרה אדם ידו בכל ויד כל בו ועל פני כל אחיו ישכן — „Și el va fi un măgar sălbatic de om: mâna lui împotriva tuturor și mâna tuturor împotriva lui; și asupra tuturor fraților lui va sălășlui.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2411,7 +2411,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותקרא שם יהוה הדבר אליה אתה אל ראה כי אמרה הגם הלם ראיתי אחרי ראה",
-    "translation": "Diferență reală, confirmată: ותקרא שם יהוה הדבר אליה אתה אל ראה כי אמרה הגם הלם ראיתי אחרי ראה — „And she called the name of the LORD that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me?”",
+    "translation": "Diferență reală, confirmată: ותקרא שם יהוה הדבר אליה אתה אל ראה כי אמרה הגם הלם ראיתי אחרי ראה — „[Hagar] a pus numele DOMNULUI care îi vorbise Ata-El-Roi*Adică „Tu-Ești-Dumnezeul-Viziunii” sau „Tu-Ești-Dumnezeul-Care-Mă-Vede”, căci a spus: „Am văzut și aici, după ce m-a văzut?”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2533,7 +2533,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "על כן קראה לבאר באר לחי ראה הנה בין קדש ובין ברד",
-    "translation": "Diferență reală, confirmată: על כן קראה לבאר באר לחי ראה הנה בין קדש ובין ברד — „Wherefore the well was called Beer-lahai-roi; behold, [it is] between Kadesh and Bered.”",
+    "translation": "Diferență reală, confirmată: על כן קראה לבאר באר לחי ראה הנה בין קדש ובין ברד — „De aceea, fântâna s-a numit Beer-Lehai-Roi*Adică „Fântâna-Celui-Viu-Ce-Mi-Se-Arată” sau „Fântâna-Celui-Viu-Care-Mă-Vede” – iată, ea este între Kadeș și Bered.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2736,7 +2736,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותלד הגר לאברם בן ויקרא אברם את שם בנו אשר ילדה הגר ישמעאל",
-    "translation": "Diferență reală, confirmată: ותלד הגר לאברם בן ויקרא אברם את שם בנו אשר ילדה הגר ישמעאל — „And Hagar bare Abram a son: and Abram called his son's name, which Hagar bare, Ishmael.”",
+    "translation": "Diferență reală, confirmată: ותלד הגר לאברם בן ויקרא אברם את שם בנו אשר ילדה הגר ישמעאל — „Hagar i-a născut lui Avram un fiu și Avram i-a pus numele fiului său pe care îl născuse Hagar – Ișmael.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

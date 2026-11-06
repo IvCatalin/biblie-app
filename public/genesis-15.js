@@ -177,7 +177,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "אחר הדברים האלה היה דבר יהוה אל אברם במחזה לאמר אל תירא אברם אנכי מגן לך ושכרך ארבה מאד",
-    "translation": "Diferență reală, confirmată: אחר הדברים האלה היה דבר יהוה אל אברם במחזה לאמר אל תירא אברם אנכי מגן לך ושכרך ארבה מאד — „After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I [am] thy shield, [and] thy exceeding increase reward.”",
+    "translation": "Diferență reală, confirmată: אחר הדברים האלה היה דבר יהוה אל אברם במחזה לאמר אל תירא אברם אנכי מגן לך ושכרך ארבה מאד — „După aceste lucruri, a fost cuvântul DOMNULUI către Avram într-o viziune, spunând: „Nu te teme, Avram! Eu sunt pavăză pentru tine; răsplata ta este foarte mare.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -397,7 +397,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אברם אדני יהוה מה תתן לי ואנכי הלך עררי ובן משק ביתי הוא דמשק אליעזר",
-    "translation": "Diferență reală, confirmată: ויאמר אברם אדני יהוה מה תתן לי ואנכי הלך עררי ובן משק ביתי הוא דמשק אליעזר — „And Abram said, Lord GOD, what wilt thou give me, seeing I go childless, and the steward of my house [is] this Eliezer of Damascus?”",
+    "translation": "Diferență reală, confirmată: ויאמר אברם אדני יהוה מה תתן לי ואנכי הלך עררי ובן משק ביתי הוא דמשק אליעזר — „Atunci Avram a spus: „Stăpâne, Doamne DUMNEZEULE*Ebr: ADONAI Elohim, ce îmi poți da [Tu] oare când eu mă duc fără urmași, iar intendentul casei mele este Eliezer din Damasc?”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -548,7 +548,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אברם הן לי לא נתתה זרע והנה בן ביתי יירש אתי",
-    "translation": "Diferență reală, confirmată: ויאמר אברם הן לי לא נתתה זרע והנה בן ביתי יירש אתי — „And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my house is mine heir.”",
+    "translation": "Diferență reală, confirmată: ויאמר אברם הן לי לא נתתה זרע והנה בן ביתי יירש אתי — „Și a spus Avram: „Iată, mie nu mi-ai dat sămânță; și iată, intendentul casei mele mă va moșteni.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -857,7 +857,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויוצא אתו החוצה ויאמר הבט נא השמים וספר הכוכבים אם תוכל לספר אתם ויאמר לו כה יהיה זרעך",
-    "translation": "Diferență reală, confirmată: ויוצא אתו החוצה ויאמר הבט נא השמים וספר הכוכבים אם תוכל לספר אתם ויאמר לו כה יהיה זרעך — „And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be.”",
+    "translation": "Diferență reală, confirmată: ויוצא אתו החוצה ויאמר הבט נא השמים וספר הכוכבים אם תוכל לספר אתם ויאמר לו כה יהיה זרעך — „Apoi l-a scos afară și a spus: „Privește către cer și numără stelele, dacă le vei putea număra!” Și i-a spus: „Așa va fi seminția ta!”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1245,7 +1245,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אדני יהוה במה אדע כי איירשנה",
-    "translation": "Diferență reală, confirmată: ויאמר אדני יהוה במה אדע כי איירשנה — „And he said, Lord GOD, whereby shall I know that I shall inherit it?”",
+    "translation": "Diferență reală, confirmată: ויאמר אדני יהוה במה אדע כי איירשנה — „Și [Avram] a spus: „Stăpâne, Doamne DUMNEZEULE, prin ce voi ști că o voi moșteni?”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1428,7 +1428,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אליו קח לי עגלה משלשת ועז משלשת ואיל משלש ותר וגוזל",
-    "translation": "Diferență reală, confirmată: ויאמר אליו קח לי עגלה משלשת ועז משלשת ואיל משלש ותר וגוזל — „And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon.”",
+    "translation": "Diferență reală, confirmată: ויאמר אליו קח לי עגלה משלשת ועז משלשת ואיל משלש ותר וגוזל — „Și [DOMNUL] i-a spus: „Ia pentru Mine trei vițele*Sau „o vițea de trei ani”. Idem și pentru celelalte animale., trei iezi, trei berbeci, o turturea și un porumbel tânăr.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1596,7 +1596,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקח לו את כל אלה ויבתר אתם בתור ויתן איש את בתרו לקראת רעהו ואת הצפורים לא בתר",
-    "translation": "Diferență reală, confirmată: ויקח לו את כל אלה ויבתר אתם בתור ויתן איש את בתרו לקראת רעהו ואת הצפורים לא בתר — „And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not.”",
+    "translation": "Diferență reală, confirmată: ויקח לו את כל אלה ויבתר אתם בתור ויתן איש את בתרו לקראת רעהו ואת הצפורים לא בתר — „Și [Avram] a luat pentru El toate acestea, le-a despicat pe mijloc și a așezat jumătățile una în fața celeilalte; dar păsările nu le-a despicat.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2268,7 +2268,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וגם את הגוי אשר יעבדו דן אנכי ואחרי כן יצאו ברכוש גדול",
-    "translation": "Diferență reală, confirmată: וגם את הגוי אשר יעבדו דן אנכי ואחרי כן יצאו ברכוש גדול — „And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance.”",
+    "translation": "Diferență reală, confirmată: וגם את הגוי אשר יעבדו דן אנכי ואחרי כן יצאו ברכוש גדול — „Dar chiar pe neamul care îi va subjuga Eu îl voi judeca, apoi [urmașii tăi] vor ieși cu avere mare.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2547,7 +2547,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ודור הרביעי ישוב הנה כי לא שלם עון האמרי עד הנה",
-    "translation": "Diferență reală, confirmată: ודור הרביעי ישוב הנה כי לא שלם עון האמרי עד הנה — „But in the fourth generation they shall come hither again: for the iniquity of the Amorites [is] not yet full.”",
+    "translation": "Diferență reală, confirmată: ודור הרביעי ישוב הנה כי לא שלם עון האמרי עד הנה — „Și a patra generație se va reîntoarce aici, căci păcatul amoritului nu este împlinit până atunci.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2970,7 +2970,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ביום ההוא כרת יהוה את אברם ברית לאמר לזרעך נתתי את הארץ הזאת מנהר מצרים עד הנהר הגדול נהר פרת",
-    "translation": "Diferență reală, confirmată: ביום ההוא כרת יהוה את אברם ברית לאמר לזרעך נתתי את הארץ הזאת מנהר מצרים עד הנהר הגדול נהר פרת — „In the same day the LORD made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates:”",
+    "translation": "Diferență reală, confirmată: ביום ההוא כרת יהוה את אברם ברית לאמר לזרעך נתתי את הארץ הזאת מנהר מצרים עד הנהר הגדול נהר פרת — „În acea zi DOMNUL a făcut legământ cu Avram, spunând: „Seminției tale i-am dat țara aceasta, de la fluviul Egiptului până la fluviul cel mare, fluviul Eufrat:”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3068,7 +3068,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "את הקיני ואת הקנזי ואת הקדמוני",
-    "translation": "Diferență reală, confirmată: את הקיני ואת הקנזי ואת הקדמוני — „The Kenites, and the Kenizzites, and the Kadmonites”",
+    "translation": "Diferență reală, confirmată: את הקיני ואת הקנזי ואת הקדמוני — „pe kenit și pe kenizit și pe kadmonit;”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3272,7 +3272,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ואת האמרי ואת הכנעני ואת הגרגשי ואת החוי ואת היבוסי",
-    "translation": "Diferență reală, confirmată: ואת האמרי ואת הכנעני ואת הגרגשי ואת החוי ואת היבוסי — „And the Amorites, and the Canaanites, and the Girgashites, and the Hivites, and the Jebusites.”",
+    "translation": "Diferență reală, confirmată: ואת האמרי ואת הכנעני ואת הגרגשי ואת החוי ואת היבוסי — „și pe amorit, și pe canaanit, și pe ghirgașit, și pe hivit, și pe iebusit.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

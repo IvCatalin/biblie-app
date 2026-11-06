@@ -495,7 +495,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ותסף ללדת את אחיו את הבל ויהי הבל רעי צאן וקין היה עבד אדמה — „And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.”",
+    "translation": "Diferență reală, confirmată: ותסף ללדת את אחיו את הבל ויהי הבל רעי צאן וקין היה עבד אדמה — „Și iarăși a născut: pe fratele său, pe Abel; și Abel a devenit păstor de turme, iar Cain era lucrător al pământului.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -554,7 +554,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
-    "text": "„A născut încă pe fratele lui, Abel.” Fiindcă ea s-a arătat recunoscătoare pentru nașterea celui dintâi copil și a recunoscut bunătatea de mai înainte, s-a bucurat de norocul celui de-al doilea. Căci Domnul nostru este așa: când arătăm mulțumire pentru binefacerile de mai înainte și recunoaștem pe binefăcător, ne revarsă darurile Lui cu și mai multă largheță. De aceea, pentru că ea a atribuit nașterea lui Dumnezeu, primește un alt copil. Căci nașterea de copii era, de atunci încolo, cea mai mare mângâiere, după ce intrase moartea. Din pricina aceasta, desigur, Dumnezeu cel iubitor de oameni a ușurat de îndată, de la început, asprimea pedepsei lor și a luat de pe moarte chipul înfricoșător, făcându-le parte de înmulțirea copiilor, închipuind astfel, parcă, în această întâmplare o icoană a învierii și asigurând că alții se vor ridica în locul celor căzuți.<br><br>„Abel era păstor de oi, iar Cain lucrător al pământului.” Sfânta Scriptură ne-a învățat îndeletnicirile fiecăruia dintre copii și faptul că, în timp ce unul prefera păstoritul, celălalt lucra pământul."
+    "text": "„A născut încă pe fratele lui, Abel.” Fiindcă ea s-a arătat recunoscătoare pentru nașterea celui dintâi copil și a recunoscut bunătatea de mai înainte, s-a bucurat de norocul celui de-al doilea. Căci Domnul nostru este așa: când arătăm mulțumire pentru binefacerile de mai înainte și recunoaștem pe binefăcător, ne revarsă darurile Lui cu și mai multă larghețe. De aceea, pentru că ea a atribuit nașterea lui Dumnezeu, primește un alt copil. Căci nașterea de copii era, de atunci încolo, cea mai mare mângâiere, după ce intrase moartea. Din pricina aceasta, desigur, Dumnezeu cel iubitor de oameni a ușurat de îndată, de la început, asprimea pedepsei lor și a luat de pe moarte chipul înfricoșător, făcându-le parte de înmulțirea copiilor, închipuind astfel, parcă, în această întâmplare o icoană a învierii și asigurând că alții se vor ridica în locul celor căzuți.<br><br>„Abel era păstor de oi, iar Cain lucrător al pământului.” Sfânta Scriptură ne-a învățat îndeletnicirile fiecăruia dintre copii și faptul că, în timp ce unul prefera păstoritul, celălalt lucra pământul."
    },
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
@@ -953,7 +953,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: והבל הביא גם הוא מבכורות צאנו ומחלביהן וישע יהוה אל הבל ואל מנחתו — „And Abel, he also brought of the firstlings of his flock and of the fats thereof. And the LORD had respect unto Abel and to his offering:”",
+    "translation": "Diferență reală, confirmată: והבל הביא גם הוא מבכורות צאנו ומחלביהן וישע יהוה אל הבל ואל מנחתו — „Iar Abel a adus și el din întâii născuți ai turmelor lui și din cele mai de seamă [oi]. Și DOMNUL S-a îndreptat spre Abel și spre prinosul lui,”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -1600,7 +1600,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: הלוא אם תטיב שאת ואם לא תטיב לפתח חטאת רבץ ואליך תשוקתו ואתה תמשל בו — „If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee [shall be] his desire, and thou shalt rule over him.”",
+    "translation": "Diferență reală, confirmată: הלוא אם תטיב שאת ואם לא תטיב לפתח חטאת רבץ ואליך תשוקתו ואתה תמשל בו — „Sigur, dacă faci bine, vei fi iertat. Dar dacă nu te îndrepți, păcatul te pândește; și spre tine este dorința lui, dar tu îl poți stăpâni.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -1818,7 +1818,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויאמר קין אל הבל אחיו נלכה השדה ויהי בהיותם בשדה ויקם קין אל הבל אחיו ויהרגהו — „And Cain talked with Abel his brother â€“ let's go to the field: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.”",
+    "translation": "Diferență reală, confirmată: ויאמר קין אל הבל אחיו נלכה השדה ויהי בהיותם בשדה ויקם קין אל הבל אחיו ויהרגהו — „Cain a zis fratelui său Abel: Haidem la câmp. Și a fost, când erau pe câmp, că Cain s-a ridicat asupra fratelui său Abel și l-a omorât.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2078,7 +2078,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויאמר יהוה אל קין איה הבל אחיך ויאמר לא ידעתי השמר אחי אנכי — „And the LORD said unto Cain, Where [is] Abel thy brother? And he said, I know not: [Am] I my brother's keeper?”",
+    "translation": "Diferență reală, confirmată: ויאמר יהוה אל קין איה הבל אחיך ויאמר לא ידעתי השמר אחי אנכי — „DOMNUL i-a spus lui Cain: „Unde este Abel, fratele tău?” El a spus: „Nu știu! Sunt eu oare păzitorul fratelui meu?”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2205,7 +2205,7 @@ window.CHAPTER_DATA = [
     "greek": "αἵματος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "sânge; sângele vărsat, de unde „vină de sânge”, ucidere.",
-    "dict_ro": "Dam, „sânge” — la forma de plural demei, literal „sângurile”, formă neobișnuită pe care Rashi o citește ca aluzie la faptul că sângele lui Abel a fost vărsat prin multe răni, sau, într-o lectură mai largă, la sângele tuturor urmașilor pe care Abel nu a mai apucat să-i aibă — o viață curmată înseamnă, simbolic, mai multe vieți pierdute.",
+    "dict_ro": "Dam, „sânge” — la forma de plural demei, literal „sângele” la plural, formă neobișnuită pe care Rashi o citește ca aluzie la faptul că sângele lui Abel a fost vărsat prin multe răni, sau, într-o lectură mai largă, la sângele tuturor urmașilor pe care Abel nu a mai apucat să-i aibă — o viață curmată înseamnă, simbolic, mai multe vieți pierdute.",
     "greek_def_ro": "αἷμα (haima) — sânge (la genitiv)."
    },
    {
@@ -2277,7 +2277,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויאמר מה עשית קול דם אחיך צעק אלי מן האדמה — „And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground.”",
+    "translation": "Diferență reală, confirmată: ויאמר מה עשית קול דם אחיך צעק אלי מן האדמה — „[DOMNUL] a spus: „Ce-ai făcut? Glasul sângelui fratelui tău strigă către Mine din pământ.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2434,7 +2434,7 @@ window.CHAPTER_DATA = [
     "greek": "τὸ αἷμα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "sânge; sângele vărsat, de unde „vină de sânge”, ucidere.",
-    "dict_ro": "Dam, „sânge” — la forma de plural demei, literal „sângurile”, formă neobișnuită pe care Rashi o citește ca aluzie la faptul că sângele lui Abel a fost vărsat prin multe răni, sau, într-o lectură mai largă, la sângele tuturor urmașilor pe care Abel nu a mai apucat să-i aibă — o viață curmată înseamnă, simbolic, mai multe vieți pierdute.",
+    "dict_ro": "Dam, „sânge” — la forma de plural demei, literal „sângele” la plural, formă neobișnuită pe care Rashi o citește ca aluzie la faptul că sângele lui Abel a fost vărsat prin multe răni, sau, într-o lectură mai largă, la sângele tuturor urmașilor pe care Abel nu a mai apucat să-i aibă — o viață curmată înseamnă, simbolic, mai multe vieți pierdute.",
     "greek_def_ro": "αἷμα (haima) — sânge."
    },
    {
@@ -2474,7 +2474,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ועתה ארור אתה מן האדמה אשר פצתה את פיה לקחת את דם אחיך מידך — „And now [art] thou cursed from the earth, which hath opened her mouth to receive thy brother's blood from thy hand;”",
+    "translation": "Diferență reală, confirmată: ועתה ארור אתה מן האדמה אשר פצתה את פיה לקחת את דם אחיך מידך — „Și acum, blestemat ești, mai mult decât pământul care și-a deschis larg gura ca să ia sângele fratelui tău din mâna ta.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2689,7 +2689,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: כי תעבד את האדמה לא תוסיף תת כחה לך נע ונד תהיה בארץ — „When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.”",
+    "translation": "Diferență reală, confirmată: כי תעבד את האדמה לא תוסיף תת כחה לך נע ונד תהיה בארץ — „Când vei lucra pământul, el nu-ți va mai da vigoarea lui. Rătăcitor și pribeag vei fi pe pământ.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3092,7 +3092,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: הן גרשת אתי היום מעל פני האדמה ומפניך אסתיר והייתי נע ונד בארץ והיה כל מצאי יהרגני — „Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, [that] every one that findeth me shall slay me.”",
+    "translation": "Diferență reală, confirmată: הן גרשת אתי היום מעל פני האדמה ומפניך אסתיר והייתי נע ונד בארץ והיה כל מצאי יהרגני — „Iată, m-ai izgonit astăzi de pe fața pământului – [dar] voi putea fi eu oare ascuns dinaintea Ta? Voi fi rătăcitor și pribeag pe pământ; oricine mă găsește, mă va omorî!”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3530,7 +3530,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויצא קין מלפני יהוה וישב בארץ נד קדמת עדן — „And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.”",
+    "translation": "Diferență reală, confirmată: ויצא קין מלפני יהוה וישב בארץ נד קדמת עדן — „Și Cain a ieșit de dinaintea DOMNULUI și s-a așezat în ținutul Nod, la răsărit de Eden.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3809,7 +3809,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: וידע קין את אשתו ותהר ותלד את חנוך ויהי בנה עיר ויקרא את שם העיר כשם בנו חנוך — „And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.”",
+    "translation": "Diferență reală, confirmată: וידע קין את אשתו ותהר ותלד את חנוך ויהי בנה עיר ויקרא את שם העיר כשם בנו חנוך — „Și Cain a cunoscut-o pe soția sa, iar ea a zămislit și l-a născut pe Enoh. El construia un oraș și a dat nume orașului după numele fiului său, Enoh.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -4076,7 +4076,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויולד לחנוך את עירד ועירד ילד את מיהאל ומיהאל ילד את מתושאל ומתושאל ילד את למך — „And unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech.”",
+    "translation": "Diferență reală, confirmată: ויולד לחנוך את עירד ועירד ילד את מיהאל ומיהאל ילד את מתושאל ומתושאל ילד את למך — „Lui Enoh i s-a născut Irad; și lui Irad i s-a născut Mehuiael; și lui Mehuiael i s-a născut Metușael; și lui Metușael i s-a născut Lameh.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -4235,7 +4235,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "δευτέρᾳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "celei de-a doua.",
+    "def_ro": "a doua, al doilea (la feminin: „cea de-a doua”) — numeral ordinal, aici despre a doua soție a lui Lameh.",
     "dict_ro": "Hashenit, „cea de-a doua” — desemnează pe Țila ca a doua soție, confirmând explicit poligamia lui Lameh.",
     "greek_def_ro": "δεύτερος (deuteros) — al doilea, a doua."
    },
@@ -4665,7 +4665,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ושם אחיו יובל הוא היה אבי כל תפש כנר ועגב — „And his brother's name [was] Jubal: he was the father of all such as handle the harp and organ.”",
+    "translation": "Diferență reală, confirmată: ושם אחיו יובל הוא היה אבי כל תפש כנר ועגב — „Iar numele fratelui său era Iuval; el a fost strămoșul tuturor celor ce mânuiesc lira și fluierul.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -4783,7 +4783,7 @@ window.CHAPTER_DATA = [
     "def_ro": "a ascuți, a lovi cu ciocanul ca să dea formă.",
     "dict_ro": "Rădăcina latash, „a ascuți, a șlefui” — verb tehnic pentru prelucrarea metalului, aici primul meșteșugar metalurgic explicit menționat în Biblie, strămoșul simbolic al fierarilor.",
     "greek_def_ro": "σφυροκόπος (sphyrokopos) — făurar care lucrează cu ciocanul.",
-    "diff_ro": "Ebraica: „cel ce ascuțește” (lōṭēš); greaca: „ciocănitor” (sphyrokopos), același meșteșug văzut din partea ciocănitului."
+    "diff_ro": "Ebraica: „cel ce ascute” (lōṭēš); greaca: „cel care bate cu ciocanul” (sphyrokopos), același meșteșug văzut din partea ciocănitului."
    },
    {
     "t": " toate "
@@ -4883,7 +4883,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: וצלה גם היא ילדה את תובל קין לטש כל חרש נחשת וברזל ואחות תובל קין נעמה — „And Zillah, she also bare Tubal-cain, an instructor of every artificer in brass and iron: and the sister of Tubal-cain [was] Naamah.”",
+    "translation": "Diferență reală, confirmată: וצלה גם היא ילדה את תובל קין לטש כל חרש נחשת וברזל ואחות תובל קין נעמה — „Iar Țila l-a născut și ea pe Tuval Cain, care ascuțea toate uneltele de făurit aramă și fier. Și sora lui Tuval Cain era Naama.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -5170,7 +5170,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויאמר למך לנשיו עדה וצלה שמען קולי נשי למך האזינה אמירתי כי איש הרגתי לפצעי וילד לחברתי — „And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.”",
+    "translation": "Diferență reală, confirmată: ויאמר למך לנשיו עדה וצלה שמען קולי נשי למך האזינה אמירתי כי איש הרגתי לפצעי וילד לחברתי — „Și Lameh le-a spus soțiilor lui: „Ada și Țila, ascultați-mi glasul! Soții ale lui Lameh, plecați urechea la vorba mea, căci am ucis un bărbat pentru rana mea și un băiat pentru vânătaia mea.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -5633,7 +5633,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: וידע אדם עוד את אשתו ותלד בן ויקרא את שמו שת כי שת לי אלהים זרע אחר תחת הבל כי הרגו קין — „And Adam knew his wife again; and she bare a son, and he called his name Seth: For God hath appointed me another seed instead of Abel, whom Cain slew.”",
+    "translation": "Diferență reală, confirmată: וידע אדם עוד את אשתו ותלד בן ויקרא את שמו שת כי שת לי אלהים זרע אחר תחת הבל כי הרגו קין — „Și Adam a cunoscut-o din nou pe soția sa și ea a născut un fiu și l-a numit Șet, căci [a spus]: „Dumnezeu mi-a dat un alt urmaș în locul lui Abel, căci Cain l-a ucis.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -5827,7 +5827,7 @@ window.CHAPTER_DATA = [
     "greek": "Ἐνώς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Enoș — nume propriu, fiul lui Set; același cuvânt înseamnă „om muritor, om”.",
-    "dict_ro": "Enosh, Enoș — al doilea cuvânt ebraic pentru „om” (după adam), din rădăcina anash, „a fi slab, fragil, bolnav” — spre deosebire de adam (legat de pământ/roșu) sau ish (bărbat matur, forță), enosh accentuează fragilitatea și muritudinea omului. Numele deschide simbolic o generație conștientă de propria slăbiciune, care „începe să cheme Numele DOMNULUI” (4:26).",
+    "dict_ro": "Enosh, Enoș — al doilea cuvânt ebraic pentru „om” (după adam), din rădăcina anash, „a fi slab, fragil, bolnav” — spre deosebire de adam (legat de pământ/roșu) sau ish (bărbat matur, forță), enosh accentuează fragilitatea și mortalitatea omului. Numele deschide simbolic o generație conștientă de propria slăbiciune, care „începe să cheme Numele DOMNULUI” (4:26).",
     "greek_def_ro": "Ἐνώς (Enōs) — Enos, nume propriu."
    },
    {
@@ -5916,7 +5916,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ולשת גם הוא ילד בן ויקרא את שמו אנוש אז החל לקרא בשם יהוה — „And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD.”",
+    "translation": "Diferență reală, confirmată: ולשת גם הוא ילד בן ויקרא את שמו אנוש אז החל לקרא בשם יהוה — „Iar lui Șet, și lui, i s-a născut un fiu și i-a pus numele Enoș. Atunci a început să fie chemat DOMNUL pe nume.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],

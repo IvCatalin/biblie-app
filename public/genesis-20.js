@@ -158,7 +158,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויסע משם אברהם ארץ הנגב וישב בין קדש ובין שור ויגר בגרר",
-    "translation": "Diferență reală, confirmată: ויסע משם אברהם ארץ הנגב וישב בין קדש ובין שור ויגר בגרר — „And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.”",
+    "translation": "Diferență reală, confirmată: ויסע משם אברהם ארץ הנגב וישב בין קדש ובין שור ויגר בגרר — „Avraham a plecat de acolo către ținutul de miazăzi și s-a așezat între Kadeș și Șur și a locuit ca străin în Gherar.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -332,7 +332,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אברהם אל שרה אשתו אחותי היא וישלח אבימלך מלך גרר ויקח את שרה",
-    "translation": "Diferență reală, confirmată: ויאמר אברהם אל שרה אשתו אחותי היא וישלח אבימלך מלך גרר ויקח את שרה — „And Abraham said of Sarah his wife, She [is] my sister: and Abimelech king of Gerar sent, and took Sarah.”",
+    "translation": "Diferență reală, confirmată: ויאמר אברהם אל שרה אשתו אחותי היא וישלח אבימלך מלך גרר ויקח את שרה — „Și Avraham a spus despre soția sa Sara: „Ea este sora mea.” Și Avimeleh, regele Gherarului, a trimis și a luat-o pe Sara.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -535,7 +535,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויבא אלהים אל אבימלך בחלום הלילה ויאמר לו הנך מת על אדות האשה אשר לקחת והיא בעילת בעל",
-    "translation": "Diferență reală, confirmată: ויבא אלהים אל אבימלך בחלום הלילה ויאמר לו הנך מת על אדות האשה אשר לקחת והיא בעילת בעל — „But God came to Abimelech in a dream by night, and said to him, Behold, thou [art but] a dead man, for case of the woman which thou hast taken; for she [is] a man's wife.”",
+    "translation": "Diferență reală, confirmată: ויבא אלהים אל אבימלך בחלום הלילה ויאמר לו הנך מת על אדות האשה אשר לקחת והיא בעילת בעל — „Dumnezeu a venit la Avimeleh într-un vis, noaptea, și i-a spus: „Iată, ești pe cale să mori din pricina femeii pe care ai luat-o, căci ea este femeie măritată.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -862,7 +862,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "הלוא הוא אמר לי אחותי היא והיא גם אמרה אחי הוא בתם לבבי ובנקיון כפי עשיתי זאת",
-    "translation": "Diferență reală, confirmată: הלוא הוא אמר לי אחותי היא והיא גם אמרה אחי הוא בתם לבבי ובנקיון כפי עשיתי זאת — „Said he not unto me, She [is] my sister? and she, even she herself said, He [is] my brother: in the integrity of my heart and innocency of my hands have I done this.”",
+    "translation": "Diferență reală, confirmată: הלוא הוא אמר לי אחותי היא והיא גם אמרה אחי הוא בתם לבבי ובנקיון כפי עשיתי זאת — „Oare nu mi-a spus chiar el: «Este sora mea»? Și chiar și ea a spus: «Este fratele meu!» În inocența inimii mele și în curățenia palmelor mele am făcut aceasta.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1056,7 +1056,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אליו האלהים בחלום גם אנכי ידעתי כי בתם לבבך עשית זאת ואחשך גם אנכי אתך מחטאה לי על כן לא נתתיך לנגע אליה",
-    "translation": "Diferență reală, confirmată: ויאמר אליו האלהים בחלום גם אנכי ידעתי כי בתם לבבך עשית זאת ואחשך גם אנכי אתך מחטאה לי על כן לא נתתיך לנגע אליה — „And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her.”",
+    "translation": "Diferență reală, confirmată: ויאמר אליו האלהים בחלום גם אנכי ידעתי כי בתם לבבך עשית זאת ואחשך גם אנכי אתך מחטאה לי על כן לא נתתיך לנגע אליה — „Dumnezeu i-a spus în vis: „Și Eu am știut că în inocența inimii tale ai făcut aceasta și chiar Eu te-am împiedicat să păcătuiești față de Mine; de aceea nu te-am lăsat să te atingi de ea.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1233,7 +1233,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ועתה השב את אשת האיש כי נביא הוא ויתפלל בעדך וחיה ואם אינך משיב דע כי מות תמות אתה וכל אשר לך",
-    "translation": "Diferență reală, confirmată: ועתה השב את אשת האיש כי נביא הוא ויתפלל בעדך וחיה ואם אינך משיב דע כי מות תמות אתה וכל אשר לך — „Now therefore restore the man [his] wife; for he [is] a prophet, and he shall pray for thee, and thou shalt live: and if thou restore [her] not, know thou that thou shalt surely die, thou, and all that [are] thine.”",
+    "translation": "Diferență reală, confirmată: ועתה השב את אשת האיש כי נביא הוא ויתפלל בעדך וחיה ואם אינך משיב דע כי מות תמות אתה וכל אשר לך — „Dar acum, dă-i bărbatului soția înapoi, căci el este profet și se va ruga pentru tine și vei trăi. Dar dacă nu o dai înapoi, să știi că vei muri negreșit, tu și tot ce este al tău.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1444,7 +1444,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישכם אבימלך בבקר ויקרא לכל עבדיו וידבר את כל הדברים האלה באזניהם וייראו כל האנשים מאד",
-    "translation": "Diferență reală, confirmată: וישכם אבימלך בבקר ויקרא לכל עבדיו וידבר את כל הדברים האלה באזניהם וייראו כל האנשים מאד — „Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and all the men were sore afraid.”",
+    "translation": "Diferență reală, confirmată: וישכם אבימלך בבקר ויקרא לכל עבדיו וידבר את כל הדברים האלה באזניהם וייראו כל האנשים מאד — „Și Avimeleh s-a trezit dis-de-dimineață, și-a chemat toți slujitorii și a vorbit toate aceste cuvinte în urechile lor; și oamenii s-au temut grozav.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1662,7 +1662,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקרא אבימלך לאברהם ויאמר לו מה עשית לנו ומה חטאתי לך כי הבאת עלי ועל ממלכתי חטאה גדלה מעשים אשר לא יעשון עשית עמדי",
-    "translation": "Diferență reală, confirmată: ויקרא אבימלך לאברהם ויאמר לו מה עשית לנו ומה חטאתי לך כי הבאת עלי ועל ממלכתי חטאה גדלה מעשים אשר לא יעשון עשית עמדי — „Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done.”",
+    "translation": "Diferență reală, confirmată: ויקרא אבימלך לאברהם ויאמר לו מה עשית לנו ומה חטאתי לך כי הבאת עלי ועל ממלכתי חטאה גדלה מעשים אשר לא יעשון עשית עמדי — „Avimeleh l-a chemat pe Avraham și i-a spus: „Ce ne-ai făcut și cu ce ți-am păcătuit, de ai adus asupra mea și asupra regatului meu un mare păcat? Fapte care nu se fac ai făcut cu mine!”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1949,7 +1949,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אברהם כי יראתי כי אמרתי רק אין יראת אלהים במקום הזה והרגוני על דבר אשתי",
-    "translation": "Diferență reală, confirmată: ויאמר אברהם כי יראתי כי אמרתי רק אין יראת אלהים במקום הזה והרגוני על דבר אשתי — „And Abraham said, that I feared because I thought, Surely the fear of God [is] not in this place; and they will slay me for my wife's sake.”",
+    "translation": "Diferență reală, confirmată: ויאמר אברהם כי יראתי כי אמרתי רק אין יראת אלהים במקום הזה והרגוני על דבר אשתי — „Și Avraham a spus: „Pentru că mi-am spus [în sinea mea]: «Nu-i nicio teamă de Dumnezeu în locul acesta! Și mă vor omorî din pricina soției mele.»”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2098,7 +2098,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וגם האמנם אחותי היא בת אבי אך לא בת אמי ותהי לי לאשה",
-    "translation": "Diferență reală, confirmată: וגם האמנם אחותי היא בת אבי אך לא בת אמי ותהי לי לאשה — „And yet indeed she is my sister; she [is] the daughter of my father, but not the daughter of my mother; and she became my wife.”",
+    "translation": "Diferență reală, confirmată: וגם האמנם אחותי היא בת אבי אך לא בת אמי ותהי לי לאשה — „Și în plus, ea este într-adevăr sora mea, fiica tatălui meu, dar nu fiica mamei mele; și mi-a devenit soție.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2315,7 +2315,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהי כאשר התעה אתי אלהים מבית אבי ומארץ מולדתי ואמר לה זה חסדיך אשר תעשין עמדי אל כל המקום אשר נבוא שמה אמרי לי אחי הוא",
-    "translation": "Diferență reală, confirmată: ויהי כאשר התעה אתי אלהים מבית אבי ומארץ מולדתי ואמר לה זה חסדיך אשר תעשין עמדי אל כל המקום אשר נבוא שמה אמרי לי אחי הוא — „And it came to pass, when God caused me to wander from my father's house and from the land of my kindred, that I said unto her, This [is] thy kindness which thou shalt shew unto me; at every place whither we shall come, say of me, He [is] my brother.”",
+    "translation": "Diferență reală, confirmată: ויהי כאשר התעה אתי אלהים מבית אבי ומארץ מולדתי ואמר לה זה חסדיך אשר תעשין עמדי אל כל המקום אשר נבוא שמה אמרי לי אחי הוא — „Și când Dumnezeu m-a făcut să rătăcesc din casa tatălui meu și din țara nașterii mele, i-am zis: Aceasta să fie bunăvoința pe care s-o faci cu mine: în orice loc unde vom ajunge, spune despre mine: Este fratele meu.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2508,7 +2508,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויקח אבימלך אלף כסף וצאן ובקר ועבדים ושפחות ויתן לאברהם וישב לו את שרה אשתו",
-    "translation": "Diferență reală, confirmată: ויקח אבימלך אלף כסף וצאן ובקר ועבדים ושפחות ויתן לאברהם וישב לו את שרה אשתו — „And Abimelech took thousand of silver, and sheep, and oxen, and menservants, and womenservants, and gave [them] unto Abraham, and restored him Sarah his wife.”",
+    "translation": "Diferență reală, confirmată: ויקח אבימלך אלף כסף וצאן ובקר ועבדים ושפחות ויתן לאברהם וישב לו את שרה אשתו — „Avimeleh a luat turme și cirezi, sclavi și slujitoare, și i le-a dat lui Avraham; și i-a înapoiat-o pe Sara, soția lui.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2846,7 +2846,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ולשרה אמר הנה נתתי אלף כסף לאחיך הנה הוא ליך כסות עינים ולכל אשר אתיך ואת הכל ונוכחת",
-    "translation": "Diferență reală, confirmată: ולשרה אמר הנה נתתי אלף כסף לאחיך הנה הוא ליך כסות עינים ולכל אשר אתיך ואת הכל ונוכחת — „And unto Sarah he said, Behold, I have given thy brother a thousand [pieces] of silver: behold, he [is] to thee a covering of the eyes, unto all that [are] with thee, and with all [other]: thus she was reproved.”",
+    "translation": "Diferență reală, confirmată: ולשרה אמר הנה נתתי אלף כסף לאחיך הנה הוא ליך כסות עינים ולכל אשר אתיך ואת הכל ונוכחת — „Iar Sarei i-a spus: „Iată, i-am dat fratelui tău o mie de arginți. Iată, să-ți fie drept voal pentru ochi, pentru toți cei ce sunt cu tine și în fața tuturor să fie dovadă.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3035,7 +3035,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויתפלל אברהם אל האלהים וירפא אלהים את אבימלך ואת אשתו ואמתיו וילדו",
-    "translation": "Diferență reală, confirmată: ויתפלל אברהם אל האלהים וירפא אלהים את אבימלך ואת אשתו ואמתיו וילדו — „So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare [children].”",
+    "translation": "Diferență reală, confirmată: ויתפלל אברהם אל האלהים וירפא אלהים את אבימלך ואת אשתו ואמתיו וילדו — „Iar Avraham s-a rugat la Dumnezeu și Dumnezeu l-a vindecat pe Avimeleh, pe soția lui și pe slujnicele lui și au născut,”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -3200,7 +3200,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "כי עצר עצר אלהים בעד כל רחם לבית אבימלך על דבר שרה אשת אברהם",
-    "translation": "Diferență reală, confirmată: כי עצר עצר אלהים בעד כל רחם לבית אבימלך על דבר שרה אשת אברהם — „For the God had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham's wife.”",
+    "translation": "Diferență reală, confirmată: כי עצר עצר אלהים בעד כל רחם לבית אבימלך על דבר שרה אשת אברהם — „căci DOMNUL închisese deplin orice pântec din casa lui Avimeleh, din pricina Sarei, soția lui Avraham.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

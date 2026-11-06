@@ -1948,8 +1948,9 @@ window.CHAPTER_DATA = [
     "def": "the bottom (as depressed); only adverbially, below (often with prepositional prefix underneath), in lieu of, etc.",
     "bdb": "תַּחַת n.[m.] the under part, hence as adv. accus. and prep. underneath, below, instead of",
     "def_ro": "dedesubt — propriu-zis, „apăsat, coborât”; folosit doar ca adverb sau prepoziție: dedesubtul, în locul cuiva.",
-    "greek_def_ro": "— (LXX nu redă acest cuvânt printr-un termen grecesc de sine stătător aici; sensul e purtat de construcția frazei.)",
-    "dict_ro": "Tachat, „sub, dedesubt, în locul”, e o prepoziție foarte frecventă. În Geneza 1:7 desparte apele de sub tărie de cele de deasupra ei; în alte locuri înseamnă „în locul cuiva”, ca în Geneza 4:25 („în locul lui Abel”), pornind de la ideea de „ceea ce se află dedesubt”."
+    "greek_def_ro": "ὑποκάτω (hypokato) — sub, dedesubt.",
+    "dict_ro": "Tachat, „sub, dedesubt, în locul”, e o prepoziție foarte frecventă. În Geneza 1:7 desparte apele de sub tărie de cele de deasupra ei; în alte locuri înseamnă „în locul cuiva”, ca în Geneza 4:25 („în locul lui Abel”), pornind de la ideea de „ceea ce se află dedesubt”.",
+    "greek": "ὑποκάτω (hypokato, „dedesubt”)"
    },
    {
     "t": " "
@@ -2000,8 +2001,9 @@ window.CHAPTER_DATA = [
     "def": "above, over, upon, or against (yet always in this last relation with a downward aspect) in a great variety of applications",
     "bdb": "עַל, עָ֑ל subst. height As prep. upon, and hence on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against (1) Upon, of the substratum upon which an object in any way rests, or on which an action is performed (a) — of clothing, etc., which any one wears With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it (b) Of what rests heavily upon a person, or is a burden to him (c) Of a duty, payment, care, etc., imposed upon a person, or devolving on him (d) על is used idiom. to give pathos to the expression of an emotion, by emphasizing the person who is its subject, and who, as it were, feels it acting upon him (e) חָיָה עַל to live upon (as upon a foundation or support) (f) Of the ground or basis, on which a thing is done (2) It expresses excess (3) It denotes elevation or pre-eminence (4) It expresses addition (5) It expresses the idea of being extended, or suspended over anything, without however being in contact with it, above, over (6) From the sense of inclining or impending over, על comes to denote contiguity or proximity, Engl. by (or sts. on) (7) In connection with verbs of motion (actual or fig.) (8) By writers of the silver age, על is sts. used with the force of a dative (9) With other particles: As conj. (a) עַל אֲשֶׁר because that (b) עַל כִּי similar in meaning, but less frequent (c) עַל alone: because notwithstanding that, although Compounds: (1) with כְּ (rare and late) (a) as concerning, as upon (b) the like of their deeds is the like of (that which) he will repay (2) מֵעַל from upon, from over, from by",
     "def_ro": "deasupra, peste, asupra, împotriva — prepoziție cu sens foarte larg, dar mereu cu ideea unei apăsări de sus în jos.",
-    "greek_def_ro": "— (redat prin prepoziții grecești diferite după context, nu printr-un singur cuvânt.)",
-    "dict_ro": "Al, „deasupra, peste”, e una dintre cele mai frecvente și mai flexibile prepoziții ebraice, purtând mereu ideea unei apăsări sau întinderi de sus în jos. La ziua a doua arată apele rămase deasupra întinderii cerului, deosebite de cele de dedesubt."
+    "greek_def_ro": "ἐπάνω (epano) — deasupra, mai sus.",
+    "dict_ro": "Al, „deasupra, peste”, e una dintre cele mai frecvente și mai flexibile prepoziții ebraice, purtând mereu ideea unei apăsări sau întinderi de sus în jos. La ziua a doua arată apele rămase deasupra întinderii cerului, deosebite de cele de dedesubt.",
+    "greek": "ἐπάνω (epano, „deasupra”)"
    },
    {
     "t": " "
@@ -3399,8 +3401,9 @@ window.CHAPTER_DATA = [
     "def": "grass (or any tender shoot)",
     "bdb": "עֵ֫שֶׂב n.m. herb, herbage",
     "def_ro": "iarbă, verdeață fragedă.",
-    "greek_def_ro": "— (redat prin același termen ca H1877, βοτάνη.)",
-    "dict_ro": "Esev, „iarbă”, deosebit de deshe (verdeața fragedă) prin faptul că poartă sămânță — a doua categorie de plante din ziua a treia. La Geneza 3:18, tot esev va fi hrana pe care omul o va scoate cu trudă din pământul blestemat."
+    "greek_def_ro": "χόρτος (chortos) — iarbă, verdeață.",
+    "dict_ro": "Esev, „iarbă”, deosebit de deshe (verdeața fragedă) prin faptul că poartă sămânță — a doua categorie de plante din ziua a treia. La Geneza 3:18, tot esev va fi hrana pe care omul o va scoate cu trudă din pământul blestemat.",
+    "greek": "χόρτος (chortos, „iarbă”)"
    },
    {
     "t": " "
@@ -4304,8 +4307,9 @@ window.CHAPTER_DATA = [
     "def": "to be (causative, make) luminous (literally and metaphorically)",
     "bdb": "[אוֹר] 43 vb. be or become light Qal;—become light, shine of sun (esp. in early morn.) Niph.—become lighted up of day-break Hiph.— (1) give light, of sun, moon & stars (2) light up, cause to shine, shine (3) light a lamp (4) lighten, of the eyes (5) make shine, of face of God",
     "def_ro": "a lumina, a face să strălucească — literal sau la figurat.",
-    "greek_def_ro": "— (verb redat prin construcții grecești variate, nu printr-un singur termen fix.)",
-    "dict_ro": "Verbul or, „a lumina”, la forma cauzativă folosită la Geneza 1:15 pentru rostul luminătorilor cerești: să „lumineze” pământul — deosebit de crearea luminii înseși, la ziua întâi, printr-un cuvânt simplu (Geneza 1:3)."
+    "greek_def_ro": "φαίνω (phaino) — a străluci, a lumina.",
+    "dict_ro": "Verbul or, „a lumina”, la forma cauzativă folosită la Geneza 1:15 pentru rostul luminătorilor cerești: să „lumineze” pământul — deosebit de crearea luminii înseși, la ziua întâi, printr-un cuvânt simplu (Geneza 1:3).",
+    "greek": "φαίνω (phaino, „a lumina”)"
    },
    {
     "t": " asupra "
@@ -4881,8 +4885,9 @@ window.CHAPTER_DATA = [
     "def": "to give, used with greatest latitude of application (put, make, etc.)",
     "bdb": "נָתַן 2007 vb. give, put, set Qal 1917 (1) give (2) Put, set (3) Make, constitute Niph. 82 (1) be given (2) Be put, set Hoph. (1) (a) be given, bestowed (b) = be given to one for wife (2) be put upon",
     "def_ro": "a da — folosit cu sensul cel mai larg (a pune, a face, a îngădui etc.).",
-    "greek_def_ro": "— (redat prin verbe grecești diferite după context, nu printr-un singur termen fix.)",
-    "dict_ro": "Verbul natan, „a da”, unul dintre cele mai frecvente verbe din Vechiul Testament, cu sens foarte larg: a pune, a așeza, a îngădui, a dărui. La Geneza 1:29, Dumnezeu „dă” omului toată planta cu sămânță drept hrană — primul dar explicit făcut omului în Scriptură."
+    "greek_def_ro": "τίθημι (tithemi) — a pune, a așeza.",
+    "dict_ro": "Verbul natan, „a da”, unul dintre cele mai frecvente verbe din Vechiul Testament, cu sens foarte larg: a pune, a așeza, a îngădui, a dărui. La Geneza 1:29, Dumnezeu „dă” omului toată planta cu sămânță drept hrană — primul dar explicit făcut omului în Scriptură.",
+    "greek": "τίθημι (tithemi, „a pune”)"
    },
    {
     "t": " pe "
@@ -4933,8 +4938,9 @@ window.CHAPTER_DATA = [
     "def": "to be (causative, make) luminous (literally and metaphorically)",
     "bdb": "[אוֹר] 43 vb. be or become light Qal;—become light, shine of sun (esp. in early morn.) Niph.—become lighted up of day-break Hiph.— (1) give light, of sun, moon & stars (2) light up, cause to shine, shine (3) light a lamp (4) lighten, of the eyes (5) make shine, of face of God",
     "def_ro": "a lumina, a face să strălucească — literal sau la figurat.",
-    "greek_def_ro": "— (verb redat prin construcții grecești variate, nu printr-un singur termen fix.)",
-    "dict_ro": "Verbul or, „a lumina”, la forma cauzativă folosită la Geneza 1:15 pentru rostul luminătorilor cerești: să „lumineze” pământul — deosebit de crearea luminii înseși, la ziua întâi, printr-un cuvânt simplu (Geneza 1:3)."
+    "greek_def_ro": "φαίνω (phaino) — a străluci, a lumina.",
+    "dict_ro": "Verbul or, „a lumina”, la forma cauzativă folosită la Geneza 1:15 pentru rostul luminătorilor cerești: să „lumineze” pământul — deosebit de crearea luminii înseși, la ziua întâi, printr-un cuvânt simplu (Geneza 1:3).",
+    "greek": "φαίνω (phaino, „a lumina”)"
    },
    {
     "t": " asupra "
@@ -5047,8 +5053,9 @@ window.CHAPTER_DATA = [
     "def": "to rule",
     "bdb": "מָשַׁל vb. rule, have dominion, reign Qal (1) human subj., rule, have dominion over (2) of heavenly bodies (3) of God Hiph. cause to rule; exercise dominion",
     "def_ro": "a stăpâni, a cârmui.",
-    "greek_def_ro": "— (redat prin construcții grecești variate.)",
-    "dict_ro": "Verbul mashal, „a stăpâni, a cârmui”, descrie aici rolul rânduit luminătorilor cerești. Aceeași rădăcină va descrie mai târziu autoritatea judecătorilor și a împăraților lui Israel (Judecători 8:22-23)."
+    "greek_def_ro": "ἄρχω (archo) — a stăpâni, a conduce.",
+    "dict_ro": "Verbul mashal, „a stăpâni, a cârmui”, descrie aici rolul rânduit luminătorilor cerești. Aceeași rădăcină va descrie mai târziu autoritatea judecătorilor și a împăraților lui Israel (Judecători 8:22-23).",
+    "greek": "ἄρχω (archo, „a stăpâni”)"
    },
    {
     "t": " "
@@ -5369,8 +5376,9 @@ window.CHAPTER_DATA = [
     "def": "fourth; also (fractionally) a fourth",
     "bdb": "רְבִיעִי m., רְבִיעִית f., adj.num.ordin. fourth",
     "def_ro": "al patrulea — și, ca fracție, „a patra parte”.",
-    "greek_def_ro": "— (redat de LXX prin forma obișnuită τέταρτος, „al patrulea”.)",
-    "dict_ro": "Revii, „al patrulea”, ziua în care sunt create luminătorile cerești — soarele, luna și stelele — puse „în întinderea cerurilor” ca să lumineze pământul și să despartă ziua de noapte, și ca semne pentru vremi hotărâte, zile și ani."
+    "greek_def_ro": "τέταρτος (tetartos) — al patrulea.",
+    "dict_ro": "Revii, „al patrulea”, ziua în care sunt create luminătorile cerești — soarele, luna și stelele — puse „în întinderea cerurilor” ca să lumineze pământul și să despartă ziua de noapte, și ca semne pentru vremi hotărâte, zile și ani.",
+    "greek": "τέταρτος (tetartos, „al patrulea”)"
    },
    {
     "t": " zi."
@@ -7010,7 +7018,8 @@ window.CHAPTER_DATA = [
     "bdb": "חַי adj. alive, living (1) (a) of God, as the living one, the fountain of life (b) of man (c) of animals, alive, living (d) animals and man (e) (dub.) of vegetation, as thorns, green (f) of water, fresh (2) (dub.) lively, active (3) reviving",
     "def_ro": "viu — de aici, „crud” (despre carne), „proaspăt” (despre plantă, apă, an), „puternic”; ca substantiv, viață sau ființă vie.",
     "greek_def_ro": "θηρίον (therion) — fiară, animal sălbatic.",
-    "dict_ro": "Chayah, „viețuitoare, fiară”, vine din rădăcina chai, „viu”. În Geneza 1 desemnează mai ales animalele sălbatice („chayat ha-arets”, fiarele pământului), deosebite de dobitoacele domestice (behemah) și de târâtoare (remes), cele trei categorii de vietăți ale uscatului. Același cuvânt, ca „viață, ființă vie”, stă în „nefesh chayah”, „suflet viu” (Geneza 2:7)."
+    "dict_ro": "Chayah, „viețuitoare, fiară”, vine din rădăcina chai, „viu”. În Geneza 1 desemnează mai ales animalele sălbatice („chayat ha-arets”, fiarele pământului), deosebite de dobitoacele domestice (behemah) și de târâtoare (remes), cele trei categorii de vietăți ale uscatului. Același cuvânt, ca „viață, ființă vie”, stă în „nefesh chayah”, „suflet viu” (Geneza 2:7).",
+    "greek": "θηρίον (therion, „fiară”)"
    },
    {
     "t": " "
@@ -7097,8 +7106,9 @@ window.CHAPTER_DATA = [
     "def": "properly, the whole; hence, all, any or every (in the singular only, but often in a plural sense)",
     "bdb": "כֹּל once כּוֹל n.m. the whole, all (1) with foll. gen. (as usually) the whole of, to be rendered, however, often in our idiom, to avoid stiffness, any or every (2) Absolutely: (a) without the art., all things, all (b) with the art. הַכֹּל where the sense is limited by the context to things (or persons) just mentioned in a wider sense, all, whether of all mankind or of all living things, the universe, or of all the circumstances of life (chiefly late)",
     "def_ro": "tot, întreg — de aici, „tot, orice, fiecare”.",
-    "greek_def_ro": "πᾶς (pas) — tot, fiecare.",
-    "dict_ro": "Kol, „tot, întreg”, unul dintre cele mai frecvente cuvinte ebraice, folosit pentru totalitate în orice context — „toate” viețuitoarele, „tot” pământul, „toată” fapta creației, subliniind universalitatea lucrării lui Dumnezeu."
+    "greek_def_ro": "πᾶς (pas) — tot, toți.",
+    "dict_ro": "Kol, „tot, întreg”, unul dintre cele mai frecvente cuvinte ebraice, folosit pentru totalitate în orice context — „toate” viețuitoarele, „tot” pământul, „toată” fapta creației, subliniind universalitatea lucrării lui Dumnezeu.",
+    "greek": "πᾶς (pas, „tot”)"
    },
    {
     "t": " "
@@ -7131,8 +7141,9 @@ window.CHAPTER_DATA = [
     "def": "soil (from its general redness)",
     "bdb": "אֲדָמָה 224 n.f. ground, land (as tilled) (1) ground (as tilled, yielding sustenance) (2) piece of ground, landed property (3) earth as material substance (4) ground as earth's visible surface (5) land, territory, country (6) whole earth, inhabited earth (7) n. pr. loc. city in Naphtali",
     "def_ro": "sol, pământ arabil — de la culoarea lui roșiatică (aceeași rădăcină ca numele „Adam”).",
-    "greek_def_ro": "— (LXX îl redă simplu γῆ, „pământ”, la fel ca H776.)",
-    "dict_ro": "Adamah, „pământ, sol”, vine de la aceeași rădăcină ca numele lui Adam — o legătură pe care textul o va folosi explicit la Geneza 2:7, unde omul (adam) e format din țărâna pământului (adamah), și la Geneza 3:19, unde se va întoarce în același pământ."
+    "greek_def_ro": "γῆ (ge) — pământ, țară.",
+    "dict_ro": "Adamah, „pământ, sol”, vine de la aceeași rădăcină ca numele lui Adam — o legătură pe care textul o va folosi explicit la Geneza 2:7, unde omul (adam) e format din țărâna pământului (adamah), și la Geneza 3:19, unde se va întoarce în același pământ.",
+    "greek": "γῆ (ge, „pământ”)"
    },
    {
     "t": " după "
@@ -7430,7 +7441,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "fish.",
     "bdb": "דָּגָה n.f. fish",
-    "def_ro": "pește.",
+    "def_ro": "pește — de la rădăcina „a se înmulți”; „peștii mării” sunt locuitorii apelor.",
     "greek_def_ro": "ἰχθύς (ichthys) — pește.",
     "dict_ro": "Dagah, „pește”, colectiv pentru viețuitoarele apei, peste care omul primește stăpânire la Geneza 1:28 — prima dintre cele trei categorii („peștii mării, păsările cerului, orice vietate ce se mișcă pe pământ”) enumerate în porunca de stăpânire."
    },
@@ -7993,10 +8004,6 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Mișna, Ievamot 6:6",
-    "text": "Să nu se oprească omul de la „rodire și înmulțire”, decât dacă are copii. Casa lui Șammai spune: doi băieți. Iar Casa lui Hillel spune: un băiat și o fată, căci s-a spus: (Geneza 5:2) „bărbat și femeie i-a făcut”. A luat o femeie și a stat cu ea zece ani și n-a născut — nu are voie să se oprească. A divorțat-o — îi este permis să se mărite cu altul, iar al doilea are voie să stea cu ea zece ani. Iar dacă a avortat, numără din ceasul în care a avortat. Bărbatul este poruncit să împlinească „rodire și înmulțire”, dar nu femeia. Rabbi Yoḥanan ben Beroqa spune: despre amândoi spune: (Geneza 1:28) „Și i-a binecuvântat Dumnezeu și le-a spus: rodiți și înmulțiți-vă”."
-   },
-   {
     "author": "Zohar, Bereșit 2:3",
     "text": "Zohar, din care au fost create toate zicerile, prin taina întinderii punctului acestui Zohar ascuns. Dacă despre acesta este scris „a creat (bara)”, nu este de mirare că este scris (Geneza 1:27): „Și a creat Dumnezeu pe om după chipul Său.”"
    },
@@ -8263,7 +8270,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "fish.",
     "bdb": "דָּגָה n.f. fish",
-    "def_ro": "pește.",
+    "def_ro": "pește — de la rădăcina „a se înmulți”; „peștii mării” sunt locuitorii apelor.",
     "greek_def_ro": "ἰχθύς (ichthys) — pește.",
     "dict_ro": "Dagah, „pește”, colectiv pentru viețuitoarele apei, peste care omul primește stăpânire la Geneza 1:28 — prima dintre cele trei categorii („peștii mării, păsările cerului, orice vietate ce se mișcă pe pământ”) enumerate în porunca de stăpânire."
    },
@@ -8540,7 +8547,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "lo!",
     "bdb": "הִנֵּה, once הִנֶּה־ [Gn 19:2], demonstr.part. lo!, behold!",
-    "def_ro": "iată!",
+    "def_ro": "iată, uite — particulă care atrage atenția asupra a ceea ce urmează.",
     "greek_def_ro": "ἰδού (idou) — iată!",
     "dict_ro": "Hinneh, „iată”, particulă folosită pentru a atrage atenția asupra a ceva neașteptat sau important — la Geneza 1:29 introduce solemn darul hranei făcut omului și animalelor deopotrivă."
    },
@@ -8701,7 +8708,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "food",
     "bdb": "אָכְלָה 17 n.f. food, eating (1) esp. in phr. (2) devouring, by wild beasts, only fig. of ravaged people (3) consuming, in fire",
-    "def_ro": "hrană.",
+    "def_ro": "hrană, mâncare — de la rădăcina „a mânca”.",
     "greek_def_ro": "βρῶσις (brosis) — hrană, mâncare.",
     "dict_ro": "Oklah, „hrană”, vine de la rădăcina „a mânca” (akhal). La Geneza 1:29-30, atât omul, cât și animalele primesc la creație doar hrană din plante — o observație pe care mulți comentatori o leagă de starea de pace desăvârșită dinainte de cădere, spre deosebire de îngăduința cărnii de după potop (Geneza 9:3)."
    }
@@ -8958,7 +8965,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "food",
     "bdb": "אָכְלָה 17 n.f. food, eating (1) esp. in phr. (2) devouring, by wild beasts, only fig. of ravaged people (3) consuming, in fire",
-    "def_ro": "hrană.",
+    "def_ro": "hrană, mâncare — de la rădăcina „a mânca”.",
     "greek_def_ro": "βρῶσις (brosis) — hrană, mâncare.",
     "dict_ro": "Oklah, „hrană”, vine de la rădăcina „a mânca” (akhal). La Geneza 1:29-30, atât omul, cât și animalele primesc la creație doar hrană din plante — o observație pe care mulți comentatori o leagă de starea de pace desăvârșită dinainte de cădere, spre deosebire de îngăduința cărnii de după potop (Geneza 9:3)."
    },
@@ -9168,7 +9175,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt (vezi comparația de texte a versetului pentru verificarea completă).",
     "def": "lo!",
     "bdb": "הִנֵּה, once הִנֶּה־ [Gn 19:2], demonstr.part. lo!, behold!",
-    "def_ro": "iată!",
+    "def_ro": "iată, uite — particulă care atrage atenția asupra a ceea ce urmează.",
     "greek_def_ro": "ἰδού (idou) — iată!",
     "dict_ro": "Hinneh, „iată”, particulă folosită pentru a atrage atenția asupra a ceva neașteptat sau important — la Geneza 1:29 introduce solemn darul hranei făcut omului și animalelor deopotrivă."
    },

@@ -482,7 +482,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויראו בני האלהים את בנות האדם כי טובות הנה ויקחו להם נשים מכל אשר בחרו — „That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.”",
+    "translation": "Diferență reală, confirmată: ויראו בני האלהים את בנות האדם כי טובות הנה ויקחו להם נשים מכל אשר בחרו — „fiii conducătorilor*Oameni de vază sau judecători au văzut că fiicele oamenilor erau frumoase și și-au luat soții, dintre oricine și-au ales”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ]
@@ -772,7 +772,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויאמר יהוה לא ידון רוחי באדם לעולם בשגם הוא בשר והיו ימיו מאה ועשרים שנה — „And the LORD said, My spirit shall not always strive with man, for that he also [is] flesh: yet his days shall be an hundred and twenty years.”",
+    "translation": "Diferență reală, confirmată: ויאמר יהוה לא ידון רוחי באדם לעולם בשגם הוא בשר והיו ימיו מאה ועשרים שנה — „Iar DOMNUL a spus: „Duhul Meu nu va sălășlui veșnic în om, căci și el este trup; zilele lui vor fi o sută douăzeci de ani.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ]
@@ -942,7 +942,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: והנפלים היו בארץ בימים ההם וגם אחרי כן אשר יבאו בני האלהים אל בנות האדם ויולידו להם הם הגבורים אשר מעולם אנשי השם — „There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare [children] to them, the same [became] mighty men which [were] of old, men of renown.”",
+    "translation": "Diferență reală, confirmată: והנפלים היו בארץ בימים ההם וגם אחרי כן אשר יבאו בני האלהים אל בנות האדם ויולידו להם הם הגבורים אשר מעולם אנשי השם — „Nefilimii*De la nafal („a cădea”). Sensul exact al cuvântului este incert. erau pe pământ în acele zile, și chiar și după aceea, pe când fiii conducătorilor veneau la fiicele omului și ele le nășteau [copii], ei fiind puternicii de odinioară, oameni cu renume”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -1211,7 +1211,8 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "gând, plan, ceea ce se socotește în minte; la plural, „gândurile”.",
-    "dict_ro": "Machshavot, „gânduri, planuri”, vine din chashav, „a socoti, a plănui”. La 6:5, totul ce plănuia inima omului — nu doar fapta — era rău, de aceea textul spune „plăsmuirea gândurilor inimii”."
+    "dict_ro": "Machshavot, „gânduri, planuri”, vine din chashav, „a socoti, a plănui”. La 6:5, totul ce plănuia inima omului — nu doar fapta — era rău, de aceea textul spune „plăsmuirea gândurilor inimii”.",
+    "diff_ro": "Septuaginta nu are un cuvânt pentru „gândurilor” (מַחְשְׁבֹת): verbul διανοεῖται, „cugetă”, preia ideea."
    },
    {
     "t": " "
@@ -1283,7 +1284,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: וירא יהוה כי רבה רעת האדם בארץ וכל יצר מחשבות לבו רק רע כל היום — „And God saw that the wickedness of man [was] great in the earth, and [that] every imagination of the thoughts of his heart [was] only evil continually.”",
+    "translation": "Diferență reală, confirmată: וירא יהוה כי רבה רעת האדם בארץ וכל יצר מחשבות לבו רק רע כל היום — „Și DOMNUL a văzut că mare era răutatea omului pe pământ și că toată plăsmuirea gândurilor inimii sale era doar răutate, toată ziua.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -1734,7 +1735,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויאמר יהוה אמחה את האדם אשר בראתי מעל פני האדמה מאדם עד בהמה עד רמש עד עוף השמים כי נחמתי כי עשיתים — „And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.”",
+    "translation": "Diferență reală, confirmată: ויאמר יהוה אמחה את האדם אשר בראתי מעל פני האדמה מאדם עד בהמה עד רמש עד עוף השמים כי נחמתי כי עשיתים — „Și DOMNUL a spus: „Voi șterge omul pe care l-am creat de pe fața pământului, de la om până la animal, până la târâtoare și până la pasărea cerurilor; căci am ajuns să regret că i-am făcut.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2277,7 +2278,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: אלה תולדת נח נח איש צדיק ותמים היה בדרתיו את האלהים התהלך נח — „These [are] the generations of Noah: Noah was a just man and perfect in his generations, Noah walked with God.”",
+    "translation": "Diferență reală, confirmată: אלה תולדת נח נח איש צדיק ותמים היה בדרתיו את האלהים התהלך נח — „Aceștia sunt urmașii lui Noe – Noe era un om drept, integru în generațiile sale; cu Dumnezeu mergea Noe.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ]
@@ -2400,7 +2401,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויוליד נח שלשה בנים את שם ואת חם ואת יפת — „And Noah begat three sons, Shem, Ham, and Japheth.”",
+    "translation": "Diferență reală, confirmată: ויוליד נח שלשה בנים את שם ואת חם ואת יפת — „Lui Noe i s-au născut trei fii: Șem, Ham și Iafet.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -2946,7 +2947,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "παντὸς ἀνθρώπου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "întregii firi.",
+    "def_ro": "toată firea, tot trupul — expresia kol basar, care cuprinde toate ființele vii.",
     "greek_def_ro": "πᾶς (pas), ἄνθρωπος (anthropos) — al fiecărui om.",
     "dict_ro": "Basar, „carne, trup”, desemnează în ebraică omul în starea lui slabă și muritoare, apoi toate ființele vii cu trup. Expresia „tot trupul” (kol basar), din 6:12–13, 17, 19, cuprinde de aici până la 9:17 toate făpturile vii. La 6:3, „el este trup” spune slăbiciunea omului.",
     "diff_ro": "Septuaginta spune „a fiecărui om” (παντὸς ἀνθρώπου), nu „a întregii firi” (kol basar)."
@@ -3159,7 +3160,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ויאמר אלהים לנח קץ כל בשר בא לפני כי מלאה הארץ חמס מפניהם והנני משחיתים את הארץ — „And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.”",
+    "translation": "Diferență reală, confirmată: ויאמר אלהים לנח קץ כל בשר בא לפני כי מלאה הארץ חמס מפניהם והנני משחיתים את הארץ — „Și Dumnezeu i-a spus lui Noe: „Sfârșitul întregii firi vine înaintea Mea, căci s-a umplut pământul de jaf din pricina lor; și iată-Mă, sunt pe cale să-i distrug laolaltă cu pământul.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ]
@@ -3588,7 +3589,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: וזה אשר תעשה אתה שלש מאות אמה ארך התבה וחמשים אמה רחבה ושלשים אמה קומתה — „And this [is the fashion] which thou shalt make it [of]: The length of the ark [shall be] three hundred cubits, and the breadth of it fifty cubits, and the height of it thirty cubits.”",
+    "translation": "Diferență reală, confirmată: וזה אשר תעשה אתה שלש מאות אמה ארך התבה וחמשים אמה רחבה ושלשים אמה קומתה — „Astfel să o faci: trei sute de coți [să fie] lungimea arcei, cincizeci de coți lățimea ei și treizeci de coți înălțimea ei.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -3806,7 +3807,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: צהר תעשה לתבה ועל אמה תכלנה מלמעלה ופתח התבה בצדה תשים תחתים שנים ושלישים תעשה — „A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; [with] lower, second, and third [stories] shalt thou make it.”",
+    "translation": "Diferență reală, confirmată: צהר תעשה לתבה ועל אמה תכלנה מלמעלה ופתח התבה בצדה תשים תחתים שנים ושלישים תעשה — „Fereastră să-i faci arcei și să o termini la un cot de sus, iar intrarea arcei s-o pui pe latura ei; [cu punte] de jos, a doua și a treia să o faci.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -4033,7 +4034,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: ואני הנני מביא את המבול מים על הארץ להשחית כל בשר אשר בו רוח חיים מתחת השמים כל אשר בארץ יגוע — „And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein [is] the breath of life, from under heaven; [and] every thing that [is] in the earth shall die.”",
+    "translation": "Diferență reală, confirmată: ואני הנני מביא את המבול מים על הארץ להשחית כל בשר אשר בו רוח חיים מתחת השמים כל אשר בארץ יגוע — „Iar Eu, iată-Mă, sunt pe cale să aduc potopul de ape asupra pământului, ca să distrugă toată firea în care este suflu de viață sub ceruri; tot ceea ce este pe pământ se va stinge.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],
@@ -4649,7 +4650,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "(scris cu alfabetul samaritean)",
-    "translation": "Diferență reală, confirmată: והיה מן העוף למינהו ומן הבהמה למינה ומכל אשר רמש על האדמה למיניהם שנים מכל יבאו אליך להחיות — „From fowls after their kind, and of cattle after their kind, of every creeping thing that of the earth after his kind, two of every shall come unto thee, to keep alive.”",
+    "translation": "Diferență reală, confirmată: והיה מן העוף למינהו ומן הבהמה למינה ומכל אשר רמש על האדמה למיניהם שנים מכל יבאו אליך להחיות — „Din [orice] pasăre după soiul ei și din [orice] animal după soiul lui, din orice târâtoare a pământului după soiul ei, două din fiecare să vină la tine ca să fie ținute în viață.”",
     "note": "(Sursă: Schorch, ed., The Samaritan Pentateuch: A Critical editio maior (2018), ms. Chester Beatty 751.)"
    }
   ],

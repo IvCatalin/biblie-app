@@ -453,7 +453,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וילך למסעיו מנגב ועד בית אל עד המקום אשר היה שם אהלו בתחלה בין בית אל ובין העי",
-    "translation": "Diferență reală, confirmată: וילך למסעיו מנגב ועד בית אל עד המקום אשר היה שם אהלו בתחלה בין בית אל ובין העי — „And he went on his journeys from the south even to Beth-el, unto the place where his tent had been at the beginning, between Beth-el and Hai;”",
+    "translation": "Diferență reală, confirmată: וילך למסעיו מנגב ועד בית אל עד המקום אשר היה שם אהלו בתחלה בין בית אל ובין העי — „A continuat în călătoriile sale, de la miazăzi până la Bet-El, până la locul unde fusese cortul său înainte, între Bet-El și Ai,”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -602,7 +602,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "אל מקום המזבח אשר עשה שם בראישונה ויקרא שם אברם בשם יהוה",
-    "translation": "Diferență reală, confirmată: אל מקום המזבח אשר עשה שם בראישונה ויקרא שם אברם בשם יהוה — „Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD.”",
+    "translation": "Diferență reală, confirmată: אל מקום המזבח אשר עשה שם בראישונה ויקרא שם אברם בשם יהוה — „la locul altarului pe care îl făcuse acolo la început; și acolo Avram L-a chemat pe DOMNUL pe nume.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -864,7 +864,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ולא נשאה אתם הארץ לשבת יחדו כי היה רכושם רב ולא יכלו לשבת יחדו",
-    "translation": "Diferență reală, confirmată: ולא נשאה אתם הארץ לשבת יחדו כי היה רכושם רב ולא יכלו לשבת יחדו — „And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together.”",
+    "translation": "Diferență reală, confirmată: ולא נשאה אתם הארץ לשבת יחדו כי היה רכושם רב ולא יכלו לשבת יחדו — „Și țara nu-i putea susține pe amândoi să locuiască împreună, căci averea lor era mare și nu puteau locui împreună.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1027,7 +1027,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהי ריב בין רעי מקנה אברם ובין רעי מקנה לוט והכנעני והפרזי אז ישבים בארץ",
-    "translation": "Diferență reală, confirmată: ויהי ריב בין רעי מקנה אברם ובין רעי מקנה לוט והכנעני והפרזי אז ישבים בארץ — „And there was a strife between the herdmen of Abram's cattle and the herdmen of Lot's cattle: and the Canaanite and the Perizzite dwelled then in the land.”",
+    "translation": "Diferență reală, confirmată: ויהי ריב בין רעי מקנה אברם ובין רעי מקנה לוט והכנעני והפרזי אז ישבים בארץ — „Și a fost ceartă între păstorii turmelor lui Avram și păstorii turmelor lui Lot; iar canaanitul și perizitul locuiau atunci în țară.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1195,7 +1195,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאמר אברם אל לוט אל נא תהיה מריבה ביני ובינך ובין רעי ובין רעיך כי אנשים אחים אנחנו",
-    "translation": "Diferență reală, confirmată: ויאמר אברם אל לוט אל נא תהיה מריבה ביני ובינך ובין רעי ובין רעיך כי אנשים אחים אנחנו — „And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we [be] brethren.”",
+    "translation": "Diferență reală, confirmată: ויאמר אברם אל לוט אל נא תהיה מריבה ביני ובינך ובין רעי ובין רעיך כי אנשים אחים אנחנו — „Și Avram i-a spus lui Lot: „Să nu fie, rogu-te, ceartă între mine și tine și între păstorii mei și păstorii tăi, căci suntem rude apropiate.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1359,7 +1359,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "הלוא כל הארץ לפניך הפרד נא מעלי אם השמאלה והימינה ואם הימינה והשמאלה",
-    "translation": "Diferență reală, confirmată: הלוא כל הארץ לפניך הפרד נא מעלי אם השמאלה והימינה ואם הימינה והשמאלה — „[Is] not the whole land before thee? separate thyself, I pray thee, from me: if [thou wilt take] the left hand, then I will go to the right; or if [thou depart] to the right hand, then I will go to the left.”",
+    "translation": "Diferență reală, confirmată: הלוא כל הארץ לפניך הפרד נא מעלי אם השמאלה והימינה ואם הימינה והשמאלה — „Oare nu-i toată țara în fața ta? Desparte-te, rogu-te, de mine: dacă [o vei lua] la stânga, eu o voi lua la dreapta; și dacă [o vei lua] la dreapta, eu o voi lua la stânga.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -1618,7 +1618,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "וישא לוט את עיניו וירא את כל ככר הירדן כי כלו משקה לפני שחת יהוה את סדם ואת עמרה כגן יהוה כארץ מצרים באכה צערה",
-    "translation": "Diferență reală, confirmată: וישא לוט את עיניו וירא את כל ככר הירדן כי כלו משקה לפני שחת יהוה את סדם ואת עמרה כגן יהוה כארץ מצרים באכה צערה — „And Lot lifted up his eyes, and beheld all the plain of Jordan, that it [was] well watered every where, before the LORD destroyed Sodom and Gomorrah, [even] as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar.”",
+    "translation": "Diferență reală, confirmată: וישא לוט את עיניו וירא את כל ככר הירדן כי כלו משקה לפני שחת יהוה את סדם ואת עמרה כגן יהוה כארץ מצרים באכה צערה — „Lot și-a ridicat ochii și a văzut că toată câmpia Iordanului era complet irigată – înainte ca DOMNUL să distrugă Sodoma și Gomora – precum grădina DOMNULUI, precum țara Egiptului, până la Țoar.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2394,7 +2394,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויהוה אמר אל אברם אחרי הפרד לוט מעמו שא נא עיניך וראה מן המקום אשר אתה שם צפונה ונגבה וקדמה וימה",
-    "translation": "Diferență reală, confirmată: ויהוה אמר אל אברם אחרי הפרד לוט מעמו שא נא עיניך וראה מן המקום אשר אתה שם צפונה ונגבה וקדמה וימה — „And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:”",
+    "translation": "Diferență reală, confirmată: ויהוה אמר אל אברם אחרי הפרד לוט מעמו שא נא עיניך וראה מן המקום אשר אתה שם צפונה ונגבה וקדמה וימה — „DOMNUL i-a spus lui Avram după ce Lot se despărțise de el: „Ridică-ți așadar ochii și privește din locul în care te afli: către miazănoapte, către miazăzi, către răsărit și către apus,”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -2999,7 +2999,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ויאל אברם ויבא וישב באלוני ממרא אשר בחברון ויבן שם מזבח ליהוה",
-    "translation": "Diferență reală, confirmată: ויאל אברם ויבא וישב באלוני ממרא אשר בחברון ויבן שם מזבח ליהוה — „Then Abram removed [his] tent, and came and dwelt in the plain of Mamre, which [is] in Hebron, and built there an altar unto the LORD.”",
+    "translation": "Diferență reală, confirmată: ויאל אברם ויבא וישב באלוני ממרא אשר בחברון ויבן שם מזבח ליהוה — „Și Avram și a întins cortul și a venit să locuiască în câmpiile lui Mamre care sunt în Hebron și a construit acolo un altar DOMNULUI.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
