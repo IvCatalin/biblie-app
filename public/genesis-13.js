@@ -11,7 +11,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 13 el este cel care alege pacea (13:8–9), apoi primește făgăduința țării (13:14–17); încheie capitolul zidind un altar la Hebron (13:18)."
    },
    {
     "t": " a "
@@ -25,7 +27,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀνέβη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a urcat."
+    "def_ro": "a se ridica, a se sui, a crește.",
+    "greek_def_ro": "ἀναβαίνω (anabaino) — a urca („a urcat”).",
+    "dict_ro": "Alah, „a urca, a se sui”: Avram „se urcă” din Egipt (13:1), spre ținutul înalt al Canaanului; acesta e verbul din care vine și „aliyah”, „suire”. Septuaginta spune Ἀνέβη, „a urcat”."
    },
    {
     "t": " din "
@@ -39,7 +43,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "ἐξ Αἰγύπτου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "din Egipt."
+    "def_ro": "Mițraim — fiul lui Ham și numele Egiptului.",
+    "greek_def_ro": "Αἴγυπτος (Aigyptos) — Egipt; „din Egipt”.",
+    "dict_ro": "Mițraim (Mitsrayim): Egiptul; Avram se urcă „din Egipt” (13:1), iar Lot privește câmpia Iordanului „ca țara Egiptului” (13:10): țara irigată de Nil e termenul de comparație al belșugului. Septuaginta spune Αἴγυπτος."
    },
    {
     "t": " – el și "
@@ -53,7 +59,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ἡ γυνὴ αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "soția lui."
+    "def_ro": "femeie, soție; despre animale, „femela”.",
+    "greek_def_ro": "γυνή (gyne) — femeie, soție; „soția lui”.",
+    "dict_ro": "Ishah, „femeie, soție”: Avram se urcă din Egipt „el și soția lui” (13:1); după întâmplarea din capitolul 12, Sarai ajunge înapoi lângă soțul ei, iar textul n-o mai numește pe nume în acest verset."
    },
    {
     "t": " lui și "
@@ -67,7 +75,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πάντα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tot."
+    "def_ro": "cum, întocmai — „potrivit cu tot ce” i-a poruncit.",
+    "dict_ro": "Kol, „tot, întreg”, unul dintre cele mai frecvente cuvinte ebraice, folosit pentru totalitate în orice context — „toate” viețuitoarele, „tot” pământul, „toată” fapta creației, subliniind universalitatea lucrării lui Dumnezeu.",
+    "greek_def_ro": "πᾶς (pas) — tot, fiecare."
    },
    {
     "t": " ceea ce era al lui și "
@@ -81,7 +91,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Λωτ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Lot."
+    "def_ro": "Lot — fiul lui Haran, nepotul lui Avram; numele înseamnă „înfășurat, ascuns”.",
+    "greek_def_ro": "Λωτ (Lot) — Lot, nume propriu.",
+    "dict_ro": "Lot (Lot), „înfășurat, ascuns” (Hitchcock): nepotul lui Avram, care a plecat odată cu el din Haran (12:4); în capitolul 13 are și el turme și corturi (13:5), iar certurile păstorilor îl despart de unchiul său (13:7–11). Septuaginta scrie Λωτ."
    },
    {
     "t": " împreună cu el – către "
@@ -95,7 +107,10 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν ἔρημον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "miazăzi, Neghev."
+    "def_ro": "miazăzi, Negheb — ținutul uscat din sudul Canaanului.",
+    "greek_def_ro": "ἔρημος (eremos) — pustie („în pustie”, aici ținutul sudic, Neghebul).",
+    "dict_ro": "Negheb (Negev), „uscat, sud” (Easton): ținutul din sudul Canaanului, prin care se întoarce Avram din Egipt (13:1, 3); la 13:14 cuvântul spune direcția sud, într-una din cele patru laturi pe care Avram e chemat să le privească.",
+    "diff_ro": "Ebraica spune „spre Neghev”, ținutul sudic al Canaanului; Septuaginta spune „în pustie” (εἰς τὴν ἔρημον), cuvânt care redă Neghebul în Facere 12:9 și 13:1."
    },
    {
     "t": "."
@@ -124,12 +139,25 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și Avram a urcat din Egipt, el și soția lui și tot ce avea și Lot cu el, spre sud.",
   "refs": [
-   "Geneza 12:9-10"
+   "Geneza 12:9-10",
+   "Geneza 12:9-20",
+   "Geneza 20:1",
+   "Geneza 21:33",
+   "Iosua 10:40",
+   "Iosua 18:5"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Avram a urcat etc.… către miazăzi (ha-negbah).» Ca să vină în sudul țării lui Israel, cum a spus mai sus: „a pornit din loc în loc către miazăzi”, spre muntele Moria. Și oricum, când merge din Egipt („Mițrayim”) spre țara Canaanului, merge de la sud la nord, căci țara Egiptului este la sudul țării lui Israel, cum se dovedește în capitolele despre călătorii și despre hotarele țării."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avram a urcat din Egipt („Mițrayim”), el și soția lui și tot ce avea, și Lot cu el, spre sud."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Avram a urcat din Egipt („Mițrayim”), el și soția lui și tot ce era al lui, și Lot cu el, ca să meargă în miazăzi."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -142,6 +170,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Avram a urcat ... și tot ceea ce era al lui»: că nu i-a lipsit nimic. «Și Lot împreună cu el»: deși s-a săturat în Egipt („Mițrayim”), nu a voit să se despartă de Avraam."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și Lot împreună cu el, către miazăzi.» Către acea direcție care era sudul lui la ieșirea din Haran."
    },
    {
     "author": "Zohar, Leh Leha 15:5",
@@ -164,7 +196,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 13 el este cel care alege pacea (13:8–9), apoi primește făgăduința țării (13:14–17); încheie capitolul zidind un altar la Hebron (13:18)."
    },
    {
     "t": " era "
@@ -178,7 +212,9 @@ window.CHAPTER_DATA = [
     "pos": "adverb",
     "greek": "σφόδρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "foarte."
+    "def_ro": "foarte, peste măsură, din cale-afară; întărește ce stă înaintea lui.",
+    "greek_def_ro": "σφόδρα (sphodra) — foarte, tare.",
+    "dict_ro": "Meod, „foarte”: Avram e „foarte încărcat” (13:2), iar oamenii din Sodoma sunt „foarte” păcătoși (13:13): două cuvinte opuse care însoțesc cele două alegeri din capitol, ale lui Avram și ale lui Lot."
    },
    {
     "t": " "
@@ -192,7 +228,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "πλούσιος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "încărcat, bogat."
+    "def_ro": "greu, apăsător; despre foamete, cumplită, copleșitoare.",
+    "greek_def_ro": "πλούσιος (plousios) — bogat.",
+    "dict_ro": "Kaved, „greu, încărcat”: Avram e „încărcat de vite, argint și aur” (13:2), adică bogat; în Septuaginta, πλούσιος, „bogat”. Aceeași rădăcină spune și greutatea foametei din 12:10."
    },
    {
     "t": " de "
@@ -206,7 +244,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "κτήνεσιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vite."
+    "def_ro": "turmă, vite; avere în vite.",
+    "greek_def_ro": "κτῆνος (ktenos) — vită, dobitoc (la dativ plural: „în vite”).",
+    "dict_ro": "Miqneh, „vite, turme”: averea lui Avram în vite (13:2) este cea care, la 13:5–7, face ca pământul să nu-l mai poată purta pe el și pe Lot împreună."
    },
    {
     "t": ", de "
@@ -220,7 +260,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "ἀργυρίῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "argint."
+    "def_ro": "argint; și bani, bani de argint.",
+    "greek_def_ro": "ἀργύριον (argyrion) — argint, bani de argint (la dativ).",
+    "dict_ro": "Kesef, „argint”: cuvântul spune și argintul, și banii; Avram e „încărcat de vite, de argint și de aur” (13:2): bogăția primită în Egipt (12:16) și sporită după aceea."
    },
    {
     "t": " și de "
@@ -234,7 +276,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "χρυσίῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "aur."
+    "def_ro": "aur, metal prețios.",
+    "greek_def_ro": "χρυσίον (chrysion) — aur (la dativ).",
+    "dict_ro": "Zahav, „aur”: aurul apare în capitolul 13 doar la 13:2, în lista averii lui Avram; după Easton, în Biblie aurul e semnul prețuirii și al belșugului."
    },
    {
     "t": "."
@@ -264,12 +308,24 @@ window.CHAPTER_DATA = [
   "fidela": "Și Avram era foarte bogat în vite, în argint și în aur.",
   "refs": [
    "Geneza 26:13-14",
-   "Geneza 24:35"
+   "Geneza 24:35",
+   "Geneza 26:12,13",
+   "Deuteronomul 8:18",
+   "1 Samuel 2:7",
+   "Iov 1:3,10"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Foarte încărcat (kaved meʾod).» Încărcat cu poveri."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avram era foarte bogat în vite, în argint și în aur."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Avram era foarte bogat în vite, în argint și în aur."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -304,7 +360,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπορεύθη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a continuat, a mers."
+    "def_ro": "a merge, a umbla; despre apă, a curge.",
+    "greek_def_ro": "πορεύομαι (poreuomai) — a merge („a mers, a plecat”).",
+    "dict_ro": "Halak, „a merge”: Avram „a mers” pe aceleași drumuri, înapoi spre Betel (13:3); la 13:5 Lot este cel „care mergea cu Avram”, iar la 13:17 Dumnezeu îi poruncește lui Avram: „cutreieră țara”."
    },
    {
     "t": " în "
@@ -318,7 +376,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ὅθεν ἦλθεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "în călătoriile lui."
+    "def_ro": "călătorie, etapă de drum; popasurile unui nomad care își strămută tabăra.",
+    "greek_def_ro": "ὅθεν (hothen), ἔρχομαι (erchomai) — de unde a venit („de unde venise”).",
+    "dict_ro": "Massa, „etapă de drum, popas”: „în călătoriile sale” (13:3) spune drumul în etape al unui păstor nomad, de la sud spre Betel; același cuvânt revine pentru popasurile Israelului în pustie (Numeri 33)."
    },
    {
     "t": " sale, de la "
@@ -326,13 +386,15 @@ window.CHAPTER_DATA = [
    {
     "t": "miazăzi",
     "w": "miazăzi",
-    "heb": "מִנֶּגְבָּה",
+    "heb": "מִנֶּגֶב",
     "translit": "minegbah",
     "strong": "H5045",
     "pos": "substantiv, cu prefix",
-    "greek": "ἐκ τῆς ἐρήμου",
+    "greek": "τὴν ἔρημον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "de la miazăzi."
+    "def_ro": "miazăzi, Negheb — ținutul uscat din sudul Canaanului.",
+    "greek_def_ro": "ἔρημος (eremos) — pustie („în pustie”, aici ținutul sudic, Neghebul).",
+    "dict_ro": "Negheb (Negev), „uscat, sud” (Easton): ținutul din sudul Canaanului, prin care se întoarce Avram din Egipt (13:1, 3); la 13:14 cuvântul spune direcția sud, într-una din cele patru laturi pe care Avram e chemat să le privească."
    },
    {
     "t": " până la "
@@ -346,7 +408,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Βαιθηλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Bet-El."
+    "def_ro": "Bet-El — „casa lui Dumnezeu”.",
+    "greek_def_ro": "Βαιθηλ (Baithel) — Betel, nume propriu.",
+    "dict_ro": "Betel (Beth El), „casa lui Dumnezeu” (Easton): Avram se întoarce la Betel, locul primului său altar între Betel și Ai (12:8), „până la locul unde fusese cortul său la început” (13:3)."
    },
    {
     "t": ", până la "
@@ -358,9 +422,11 @@ window.CHAPTER_DATA = [
     "translit": "hamakom",
     "strong": "H4725",
     "pos": "substantiv, cu articol",
-    "greek": "τὸν τόπον",
+    "greek": "τοῦ τόπου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "locul."
+    "def_ro": "loc — propriu-zis, locul unde stai; folosit larg pentru orice loc, dar și, la figurat, pentru o stare a trupului sau a minții.",
+    "dict_ro": "Maqom, „loc”, arată propriu-zis locul unde cineva stă, dar ajunge folosit și pentru starea trupului sau a minții. În literatura rabinică târzie, „Ha-Maqom” („Locul”) devine chiar un nume dat lui Dumnezeu — Cel care e „locul lumii”, dar pe care lumea nu-l cuprinde.",
+    "greek_def_ro": "τόπος (topos) — loc (la genitiv: „al locului”)."
    },
    {
     "t": " unde "
@@ -374,7 +440,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἦν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fusese."
+    "def_ro": "a fi, a exista, a deveni, a se întâmpla — verb cu sens deplin, nu simplă copulă.",
+    "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi.",
+    "dict_ro": "Verbul hayah, „a fi”: „unde fusese cortul” (13:3) și „i s-a întâmplat” (13:7): verbul leagă întoarcerea lui Avram de ceea ce fusese la început, cu un loc anume."
    },
    {
     "t": " "
@@ -388,7 +456,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ἡ σκηνὴ αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cortul lui."
+    "def_ro": "cort; locuința păstorilor nomazi.",
+    "greek_def_ro": "σκηνή (skene) — cort; „cortul lui”.",
+    "dict_ro": "Ohel, „cort” (Easton): Avram se întoarce la „locul unde fusese cortul” (13:3), iar Lot are și el „corturi” (13:5); cortul spune viața de nomad, fără moșie, și va reveni ca semn în 13:12, 13:18."
    },
    {
     "t": " său "
@@ -402,7 +472,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "τὸ πρότερον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "înainte."
+    "def_ro": "început, la început.",
+    "greek_def_ro": "πρότερος (proteros) — mai înainte („mai înainte, la început”).",
+    "dict_ro": "Techillah, „început”: „la început” (13:3) arată că Avram se întoarce la locul în care își avusese cortul la prima lui oprire între Betel și Ai (12:8); întoarcerea la început, după cădere în Egipt, este mișcarea de pocăință a capitolului."
    },
    {
     "t": ", între "
@@ -416,7 +488,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Βαιθηλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Bet-El."
+    "def_ro": "Bet-El — „casa lui Dumnezeu”.",
+    "greek_def_ro": "Βαιθηλ (Baithel) — Betel, nume propriu.",
+    "dict_ro": "Betel (Beth El), „casa lui Dumnezeu” (Easton): Avram se întoarce la Betel, locul primului său altar între Betel și Ai (12:8), „până la locul unde fusese cortul său la început” (13:3)."
    },
    {
     "t": " și "
@@ -430,7 +504,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, cu articol",
     "greek": "Αγγαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Ai."
+    "def_ro": "Ai — cetate canaanită la răsărit de Betel; numele înseamnă „ruină, movilă”.",
+    "greek_def_ro": "Αγγαι (Angai) — Ai, nume propriu.",
+    "dict_ro": "Ai (Ha-Ai), „ruină, movilă” (Easton): cetate canaanită la răsărit de Betel; Avram se întoarce între Betel și Ai (13:3), unde zidise un altar (12:8). Septuaginta scrie Αγγαι."
    },
    {
     "t": ","
@@ -459,12 +535,21 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și a mers în călătoriile sale de la sud până la Betel, până la locul unde fusese cortul lui la început, între Betel și Ai,",
   "refs": [
-   "Geneza 12:8"
+   "Geneza 12:8",
+   "Geneza 12:6,8,9"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«A continuat în călătoriile sale.» Când s-a întors din Egipt („Mițrayim”) în țara Canaanului, mergea și înnopta în hanurile în care înnoptase la mersul lui spre Egipt; te învață bunele rânduieli: omul să nu-și schimbe hanul. Altă explicație: la întoarcerea lui și-a plătit datoriile.<br><br>«De la miazăzi (mi-negev).» Țara Egiptului este la sudul țării Canaanului."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și a mers din popas în popas, din sud până la Betel, până la locul unde își întinsese cortul la început, între Betel și Ai,"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a mers în călătoriile lui de la miazăzi până la Betel și s-a întors până la locul unde își întinsese cortul la început, între Betel și Ai,"
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -477,6 +562,21 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«A continuat în călătoriile sale»: călătorie după călătorie, câte puțin, pentru că era foarte încărcat de vite; și a mers pe drumul miazăzilor; aceasta este ceea ce a explicat: „de la miazăzi”, căci din partea miazăzilor erau călătoriile lui; și a mers până la Betel, până la locul unde fusese cortul său, și acesta este muntele. «Înainte»: cum a spus: „și și-a ridicat cortul”."
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și Faraon a dat-o înapoi pe Sarai, soția lui Avram, și l-a scos din ținutul Egiptului, și el a mers la locul unde-și întinsese cortul la început, la locul altarului, cu Ai la răsărit și Betel la apus, și a binecuvântat pe Domnul Dumnezeul său, care-l adusese înapoi în pace.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 15
+     }
+    }
+   },
+   {
+    "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
+    "text": "Și s-a întors pe drumul pe care venise, de la miazăzi spre Betel. Căci prin miazăzi ne îndreptăm, desigur, spre Betel prin lumina cunoașterii cerești și, prin insuflarea dragostei dinlăuntru, ne grăbim cu pași dese de fapte bune spre intrarea în casa lui Dumnezeu, pe care o înseamnă Betelul; anume acea casă care, după cuvântul Apostolului, nu este făcută de mână, ci veșnică în ceruri (2 Corinteni 5:1), pe care Proorocul dorea să o vadă când a zis: Doamne, am iubit frumusețea casei Tale și locul sălașului slavei Tale (Psalmul 26:8)."
    }
   ]
  },
@@ -495,7 +595,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τοῦ θυσιαστηρίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "altarului."
+    "def_ro": "altar — loc de jertfă, de la „a junghia, a jertfi”.",
+    "greek_def_ro": "θυσιαστήριον (thysiasterion) — altar (la genitiv: „al altarului”).",
+    "dict_ro": "Mizbeach, „altar” (Easton): Avram se întoarce „la locul altarului pe care îl făcuse la început” (13:4) și zidește unul nou la Hebron (13:18); altarele sunt popasurile credinței lui."
    },
    {
     "t": " pe care îl "
@@ -509,7 +611,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐποίησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "făcuse."
+    "def_ro": "a face, a lucra — în sensul cel mai larg și cu aplicații foarte variate.",
+    "greek_def_ro": "ποιέω (poieo) — a face.",
+    "dict_ro": "Asah, „a face”: Avram se întoarce la altarul pe care „îl făcuse” (13:4); verbul spune lucrarea omului în slujba lui Dumnezeu, spre deosebire de lucrările vitelor și bogăției din versetele alăturate."
    },
    {
     "t": " acolo la "
@@ -521,9 +625,11 @@ window.CHAPTER_DATA = [
     "translit": "varishonah",
     "strong": "H7223",
     "pos": "adjectiv, cu prefix",
-    "greek": "πρῶτον",
+    "greek": "τὴν ἀρχήν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "la început."
+    "def_ro": "întâi, primul; „prima lună”.",
+    "greek_def_ro": "ἀρχή (arche) — început („la început”).",
+    "dict_ro": "Rishon, „întâi, cel dintâi”: „la început” (13:4) arată că Avram se întoarce la primul său altar; același cuvânt stă în Facere 1:1 (reshit) ca punct de pornire."
    },
    {
     "t": "; și acolo "
@@ -537,7 +643,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 13 el este cel care alege pacea (13:8–9), apoi primește făgăduința țării (13:14–17); încheie capitolul zidind un altar la Hebron (13:18)."
    },
    {
     "t": " L-a "
@@ -551,7 +659,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπεκαλέσατο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "L-a chemat."
+    "def_ro": "a chema, a striga, a numi — propriu-zis, a te adresa cuiva pe nume.",
+    "greek_def_ro": "ἐπικαλέω (epikaleo) — a chema; la mediu, „a chemat (în ajutor)”.",
+    "dict_ro": "Qara, „a chema”: Avram „a chemat numele DOMNULUI” (13:4) la altarul de la început: refacerea închinării la locul ei; formula revine la 12:8."
    },
    {
     "t": " pe "
@@ -563,9 +673,11 @@ window.CHAPTER_DATA = [
     "translit": "YHVH",
     "strong": "H3068",
     "pos": "substantiv",
-    "greek": "Κύριον",
+    "greek": "Κυρίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNUL."
+    "def_ro": "DOMNUL — Numele propriu al lui Dumnezeu (Tetragrama YHVH), redat în Biblie „DOMNUL”, cu majuscule.",
+    "greek_def_ro": "κύριος (kyrios) — Domn (la genitiv: „al Domnului”).",
+    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus „DOMNUL”: Avram chemă Numele Lui la altar (13:4), câmpia Iordanului e „ca grădina DOMNULUI” (13:10), oamenii Sodomei sunt păcătoși „față de DOMNUL” (13:13), iar El vorbește lui Avram (13:14). Septuaginta are Κύριος sau ὁ Θεός."
    },
    {
     "t": " pe "
@@ -579,7 +691,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸ ὄνομα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pe nume."
+    "def_ro": "nume; și ceea ce face un om cunoscut: renume, cinste, autoritate.",
+    "greek_def_ro": "ὄνομα (onoma) — nume.",
+    "dict_ro": "Shem, „nume”: „numele DOMNULUI” (13:4) spune ființa lui Dumnezeu chemată în rugăciune; Avram Îl cheamă după nume la același altar de la început."
    },
    {
     "t": "."
@@ -608,7 +722,12 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Până la locul altarului pe care îl făcuse acolo la început; și acolo Avram a chemat numele DOMNULUI.",
   "refs": [
-   "Geneza 12:7-8"
+   "Geneza 12:7-8",
+   "Geneza 13:18",
+   "Geneza 12:7,8",
+   "Geneza 35:1-3",
+   "Psalmul 26:8",
+   "Psalmul 42:1,2"
   ],
   "commentaries": [
    {
@@ -616,8 +735,31 @@ window.CHAPTER_DATA = [
     "text": "«Pe care îl făcuse acolo la început.» „Și acolo Avram L-a chemat pe Domnul pe nume” atunci, la început. Și se poate spune și: a chemat acolo acum pe nume pe Domnul."
    },
    {
+    "author": "Targum Onkelos",
+    "text": "la locul altarului pe care îl făcuse acolo la început; și Avram s-a rugat acolo în numele Domnului."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "la locul altarului pe care îl făcuse acolo la început; și s-a rugat acolo Avram în Numele Domnului."
+   },
+   {
     "author": "Radak (cca. 1160–1235)",
     "text": "«La locul altarului.» A mai adăugat să lămurească, ca să facă cunoscut că nu și-a ridicat cortul în alt loc pe acel munte, ci chiar în locul în care făcuse altarul la început; și toate acestea ca să facă cunoscut că se cuvine omului să-și statornicească un loc pentru rugăciunea lui și pentru slujirea lui față de Domnul, căci inima lui este mai pregătită în locul cu care este obișnuit. «Și acolo ... L-a chemat»: încă o dată, pe Domnul pe nume."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Și acolo Avram L-a chemat pe Domnul pe nume.» Pentru că l-a întors întreg; sau poate este povestire de lucruri: „către locul altarului pe care îl făcuse acolo la început”, „în numele Domnului”; și pare că și aceasta, și aceea există."
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și s-a întâmplat în al patruzeci și unulea jubileu, în anul al treilea al săptămânii întâi, că s-a întors la locul acesta și a adus pe el o jertfă arsă, și a chemat Numele Domnului, și a zis: Tu, Dumnezeule Preaînalt, ești Dumnezeul meu în vecii vecilor.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 16
+     }
+    }
    }
   ]
  },
@@ -630,13 +772,15 @@ window.CHAPTER_DATA = [
    {
     "t": "Lot",
     "w": "Lot",
-    "heb": "וּלְלוֹט",
+    "heb": "לְלוֹט",
     "translit": "uleLot",
     "strong": "H3876",
     "pos": "nume propriu",
-    "greek": "τῷ δὲ Λὼτ",
+    "greek": "Λωτ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Lot."
+    "def_ro": "Lot — fiul lui Haran, nepotul lui Avram; numele înseamnă „înfășurat, ascuns”.",
+    "greek_def_ro": "Λωτ (Lot) — Lot, nume propriu.",
+    "dict_ro": "Lot (Lot), „înfășurat, ascuns” (Hitchcock): nepotul lui Avram, care a plecat odată cu el din Haran (12:4); în capitolul 13 are și el turme și corturi (13:5), iar certurile păstorilor îl despart de unchiul său (13:7–11). Septuaginta scrie Λωτ."
    },
    {
     "t": ", care "
@@ -650,7 +794,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu, cu articol",
     "greek": "συμπορευομένῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "care mergea."
+    "def_ro": "a merge, a umbla; despre apă, a curge.",
+    "greek_def_ro": "συμπορεύομαι (symporeuomai) — a merge împreună; la participiu, „celui ce mergea împreună”.",
+    "dict_ro": "Halak, „a merge”: Avram „a mers” pe aceleași drumuri, înapoi spre Betel (13:3); la 13:5 Lot este cel „care mergea cu Avram”, iar la 13:17 Dumnezeu îi poruncește lui Avram: „cutreieră țara”."
    },
    {
     "t": " cu "
@@ -664,7 +810,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "μετὰ Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cu Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "μετά (meta), Αβραμ (Abram) — împreună cu Avram.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 13 el este cel care alege pacea (13:8–9), apoi primește făgăduința țării (13:14–17); încheie capitolul zidind un altar la Hebron (13:18)."
    },
    {
     "t": ", avea și el "
@@ -678,7 +826,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πρόβατα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "turme."
+    "def_ro": "turmă de oi și de capre; figurat, poporul văzut ca o turmă.",
+    "dict_ro": "Tson, „turmă, oi și capre” — termen colectiv generic pentru micile animale domestice, folosit constant în toată Tora pentru economia pastorală a patriarhilor.",
+    "greek_def_ro": "πρόβατον (probaton) — oaie (la plural: „oi”)."
    },
    {
     "t": ", "
@@ -692,7 +842,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "βόες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cirezi."
+    "def_ro": "vite mari, cireadă, boi și vaci.",
+    "greek_def_ro": "βοῦς (bous) — bou, vită (la plural: „boi, vite”).",
+    "dict_ro": "Baqar, „vite mari, cireadă”: Lot are „oi, vite și corturi” (13:5), averea care îl face pe Lot egal cu Avram și duce la ceartă."
    },
    {
     "t": " și "
@@ -706,7 +858,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "σκηναί",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "corturi."
+    "def_ro": "cort; locuința păstorilor nomazi.",
+    "greek_def_ro": "σκηνή (skene) — cort (la plural: „corturi”).",
+    "dict_ro": "Ohel, „cort” (Easton): Avram se întoarce la „locul unde fusese cortul” (13:3), iar Lot are și el „corturi” (13:5); cortul spune viața de nomad, fără moșie, și va reveni ca semn în 13:12, 13:18."
    },
    {
     "t": "."
@@ -735,12 +889,23 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și de asemenea Lot, care mergea cu Avram, avea turme și cirezi și corturi.",
   "refs": [
-   "Geneza 12:5"
+   "Geneza 12:5",
+   "Geneza 4:20",
+   "Geneza 25:27",
+   "Ieremia 49:29"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Care mergea cu Avram.» Cine a pricinuit ca el să aibă aceasta? Mersul lui cu Avram."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Lot, care mergea cu Avram, avea și el oi și boi și corturi."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și de asemenea Lot, care era călăuzit prin meritul lui Avram, avea oi și boi și corturi."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -771,7 +936,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ἡ γῆ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țara."
+    "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+    "greek_def_ro": "γῆ (ge) — pământ, țară.",
+    "dict_ro": "Erets, „pământ, țară”: „țara nu-i putea purta” (13:6), „canaanitul era atunci în țară” (13:7), „toată țara este înaintea ta” (13:9), țara făgăduită (13:15, 17): cuvântul trece de la loc de ceartă la dar al lui Dumnezeu."
    },
    {
     "t": " nu-i "
@@ -785,7 +952,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐχώρει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "putea susține."
+    "def_ro": "a ridica, a purta; „au ridicat” arca.",
+    "greek_def_ro": "χωρέω (choreo) — a încăpea, a avea loc („încăpea”).",
+    "dict_ro": "Nasa, „a ridica, a purta”: „țara nu-i putea purta” (13:6), Lot „și-a ridicat ochii” (13:10) și Avram „ridică-ți ochii” (13:14): același verb spune încărcătura pământului și privirea; cele două priviri, a lui Lot și a lui Avram, sunt puse față în față."
    },
    {
     "t": " pe amândoi să "
@@ -799,7 +968,9 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "κατοικεῖν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "să locuiască."
+    "def_ro": "a sta jos, a locui, a rămâne; la forma cauzativă, a așeza.",
+    "greek_def_ro": "κατοικέω (katoikeo) — a locui (la infinitiv: „a locui”).",
+    "dict_ro": "Yashav, „a locui, a se așeza”: pământul nu-i poate purta „să locuiască împreună” (13:6), apoi Avram „s-a așezat” în Canaan, iar Lot în orașele câmpiei (13:12): despărțirea e înfățișată ca două locuiri deosebite."
    },
    {
     "t": " împreună, căci "
@@ -813,7 +984,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὰ ὑπάρχοντα αὐτῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "averea lor."
+    "def_ro": "avere, bunuri, tot ce a agonisit cineva.",
+    "greek_def_ro": "ὑπάρχω (hyparcho) — a fi la dispoziție; la participiu, „averile lor”.",
+    "dict_ro": "Rekush, „avere, bunuri”: averea lor era „prea mare” pentru ca pământul să-i poarte (13:6); aceeași avere, câștigată în Egipt și în Haran (12:5, 16), se face pricină de ceartă."
    },
    {
     "t": " lor era "
@@ -827,7 +1000,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "πολλά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mare."
+    "def_ro": "mare, numeros, multă; cu forma feminină, „răutatea este mare”.",
+    "greek_def_ro": "πολύς (polys) — mult (la plural: „multe”).",
+    "dict_ro": "Rav, „mult, mare”: „averea lor era mare” (13:6); cuvântul spune și mulțimea, și puterea; Septuaginta spune πολλά."
    },
    {
     "t": " și nu "
@@ -841,7 +1016,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐδύναντο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "puteau."
+    "def_ro": "a putea, a fi în stare.",
+    "greek_def_ro": "δύναμαι (dynamai) — a putea („puteau”).",
+    "dict_ro": "Yakol, „a putea”: „nu puteau să locuiască împreună” (13:6) e verdictul textului despre averile ce nu mai încăpeau la un loc; în aceeași rădăcină se așază și „dacă poate cineva să numere” (13:16), unde puterea omului se oprește în fața seminției lui Avram."
    },
    {
     "t": " locui împreună."
@@ -870,12 +1047,24 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și țara nu îi putea susține, ca să locuiască împreună, pentru că averea lor era mare, astfel că nu puteau locui împreună.",
   "refs": [
-   "Geneza 36:7"
+   "Geneza 36:7",
+   "Geneza 36:6,7",
+   "Eclesiastul 5:10,11",
+   "Luca 12:17,18",
+   "1 Timotei 6:9"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și țara nu-i putea susține (ve-lo naśa).» Nu putea ajunge pășunea pentru vitele lor. Și este o exprimare scurtă, la care trebuie adăugat ceva, ca: „și pășunea țării nu-i putea susține”; de aceea a scris ve-lo naśa la masculin."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și țara nu-i putea purta ca să locuiască împreună, căci averea lor era mare și nu puteau locui împreună."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și țara nu-i mai putea purta ca să locuiască împreună, căci averile lor erau multe și nu puteau locui împreună."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -888,6 +1077,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și țara nu-i putea susține» (we-lo naśaʾ). Țara vine la masculin; și ca el: „țara a fost întunecată” (neʿtam ereṣ).<br><br>«Să locuiască împreună.» Căci le era strâmt acolo locul de pășune, ca să-și pască vitele împreună cu vitele oamenilor țării, căci avuția lor era multă; de aceea era ceartă între păstorii lor: aceștia spuneau: noi ne vom paște vitele, și aceia spuneau: noi ne vom paște vitele; și locul le era strâmt, și se strâmtorau unii pe alții."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și țara nu-i putea susține.» Am găsit și în alt loc „țara” la masculin: „Toată țara se va preface ca Arava” și „În mânia Domnului oștirilor țara a fost arsă”; iar într-un alt verset, androgin: „Jelește, se veștejește țara”.<br><br>«Căci averea lor era mare.» Iar acest lucru a pricinuit ceartă."
    }
   ]
  },
@@ -906,7 +1099,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "μάχη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ceartă."
+    "def_ro": "ceartă, vrajbă, pricină între oameni.",
+    "greek_def_ro": "μάχη (mache) — luptă, ceartă.",
+    "dict_ro": "Riv, „ceartă, pricină”: păstorii lui Avram și ai lui Lot se ceartă (13:7); Avram cere apoi să nu fie „ceartă” (merivah) între ei (13:8). Septuaginta spune μάχη."
    },
    {
     "t": " între "
@@ -920,7 +1115,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "ποιμένων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "păstorii."
+    "def_ro": "a paște, a păstori; despre om: a fi păstor, a conduce; în general, a purta de grijă.",
+    "dict_ro": "Ra’ah, „a paște, a păstori”: „păstorii” lui Avram și ai lui Lot se ceartă (13:7); în capitolul 13 păstorii sunt cei care se ciocnesc pentru pășuni, înainte ca Avram să curme cearta prin despărțire.",
+    "greek_def_ro": "ποιμήν (poimen) — păstor (la genitiv plural: „ai păstorilor”)."
    },
    {
     "t": " turmelor lui "
@@ -934,7 +1131,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 13 el este cel care alege pacea (13:8–9), apoi primește făgăduința țării (13:14–17); încheie capitolul zidind un altar la Hebron (13:18)."
    },
    {
     "t": " și "
@@ -948,7 +1147,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "ποιμένων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "păstorii."
+    "def_ro": "a paște, a păstori; despre om: a fi păstor, a conduce; în general, a purta de grijă.",
+    "dict_ro": "Ra’ah, „a paște, a păstori”: „păstorii” lui Avram și ai lui Lot se ceartă (13:7); în capitolul 13 păstorii sunt cei care se ciocnesc pentru pășuni, înainte ca Avram să curme cearta prin despărțire.",
+    "greek_def_ro": "ποιμήν (poimen) — păstor (la genitiv plural: „ai păstorilor”)."
    },
    {
     "t": " turmelor lui "
@@ -962,7 +1163,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Λωτ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Lot."
+    "def_ro": "Lot — fiul lui Haran, nepotul lui Avram; numele înseamnă „înfășurat, ascuns”.",
+    "greek_def_ro": "Λωτ (Lot) — Lot, nume propriu.",
+    "dict_ro": "Lot (Lot), „înfășurat, ascuns” (Hitchcock): nepotul lui Avram, care a plecat odată cu el din Haran (12:4); în capitolul 13 are și el turme și corturi (13:5), iar certurile păstorilor îl despart de unchiul său (13:7–11). Septuaginta scrie Λωτ."
    },
    {
     "t": "; iar "
@@ -974,9 +1177,11 @@ window.CHAPTER_DATA = [
     "translit": "vehaKena'ani",
     "strong": "H3669",
     "pos": "nume propriu, cu articol",
-    "greek": "οἱ Χαναναῖοι",
+    "greek": "Χαναναῖοι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "canaanitul."
+    "def_ro": "canaanit — locuitor al ținutului Canaan.",
+    "greek_def_ro": "Χαναναῖος (Chananaios) — canaanit („canaaniții”).",
+    "dict_ro": "Canaanitul (Kenaani): „canaanitul și perizitul erau atunci în țară” (13:7): țara nu era goală, și cearta dintre păstori avea să se vadă pe fața celor din țară, de aceea Avram se grăbește s-o stingă."
    },
    {
     "t": " și "
@@ -990,7 +1195,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, cu articol",
     "greek": "οἱ Φερεζαῖοι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "perizitul."
+    "def_ro": "perizit — neam din Canaan, pomenit alături de canaaniți.",
+    "greek_def_ro": "Φερεζαῖος (Pherezaios) — perizit („perizitul”).",
+    "dict_ro": "Perizitul (Perizzi): neam din Canaan, pomenit alături de canaaniți (13:7; 15:20); textul nu spune nimic mai mult despre el."
    },
    {
     "t": " locuiau atunci în "
@@ -1002,9 +1209,11 @@ window.CHAPTER_DATA = [
     "translit": "ba'arets",
     "strong": "H776",
     "pos": "substantiv",
-    "greek": "τῇ γῇ",
+    "greek": "τὴν γῆν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țară."
+    "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+    "greek_def_ro": "γῆ (ge) — pământ, țară.",
+    "dict_ro": "Erets, „pământ, țară”: „țara nu-i putea purta” (13:6), „canaanitul era atunci în țară” (13:7), „toată țara este înaintea ta” (13:9), țara făgăduită (13:15, 17): cuvântul trece de la loc de ceartă la dar al lui Dumnezeu."
    },
    {
     "t": "."
@@ -1034,12 +1243,24 @@ window.CHAPTER_DATA = [
   "fidela": "Și a fost o ceartă între păstorii vitelor lui Avram și păstorii vitelor lui Lot; și canaanitul și perizitul locuiau atunci în țară.",
   "refs": [
    "Geneza 34:30",
-   "Geneza 12:6"
+   "Geneza 12:6",
+   "Geneza 21:25",
+   "Geneza 26:20",
+   "Exodul 2:17",
+   "1 Corinteni 3:3"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și a fost ceartă.» Pentru că păstorii lui Lot erau răi și își pășteau vitele în câmpurile altora, iar păstorii lui Avram îi mustrau pentru jaf; iar ei ziceau: Țara a fost dată lui Avram, iar el nu are moștenitor, iar Lot este moștenitorul lui, și aceasta nu este jaf. Iar Scriptura spune: „iar canaanitul și perizitul locuiau atunci în țară”, iar Avram încă nu fusese învrednicit de ea."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și a fost ceartă între păstorii vitelor lui Avram și păstorii vitelor lui Lot. Și canaanitul și fereziții locuiau atunci în țară."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și era ceartă între păstorii vitelor lui Avram și păstorii vitelor lui Lot, pentru că păstorilor lui Avram li se poruncise de el: „Nu umblați printre canaaniți și printre periziți, care încă au stăpânire în țară”, și își legau botul animalelor ca să nu mănânce din ce era furat, până ce ajungeau la locul lor de pășune; iar păstorii lui Lot rătăceau și mergeau și pășteau în câmpurile canaaniților și ale periziților, care încă locuiau în țară."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -1056,6 +1277,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Iar canaanitul.» L-am explicat; și a adăugat aici „și perizitul”, căci și perizitul locuia în această țară, unde erau Betel și Ai."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și a fost ceartă între păstorii turmelor lui Avram și păstorii turmelor lui Lot.» Între păstorii turmelor lui Avram și între păstorii turmelor lui Lot; și nu era în mâna lor să-și lărgească locul pentru pășunea turmelor lor, căci „canaanitul și perizitul locuiau atunci în țară”.<br><br>«Locuiau atunci în țară.» „Atunci locuia în țară” – atunci, în zilele lui Avraam."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Iar canaanitul și perizitul locuiau atunci în țară.» Ca să nu te miri: o țară bună ca țara lui Israel nu poate să poarte doi oameni; de aceea s-a spus: căci canaanitul și perizitul erau atunci acolo cu ei."
+   },
+   {
+    "author": "Ioan Gură de Aur, Omilii la Facere",
+    "text": "Vezi cum belșugul averilor lor s-a dovedit a fi o pricină mare a despărțirii, aducând dezbinare, rupându-le buna învoire și desfăcând legătura rudeniei. „S-a ivit ceartă între păstorii lui Avram și păstorii lui Lot. Pe atunci canaaniții și perizeii locuiau în țară.” Vezi cum rudele sunt vinovate de primele semne ale despărțirii. Tot de aici pornesc, neabătut, felurite necazuri: de la vrajba dintre frați. Textul spune, ține minte: „S-a ivit ceartă între păstori.” Ei sunt cei care dau prilejul despărțirii, care rup buna învoire, care dau dovadă de rea voință."
    }
   ]
  },
@@ -1074,7 +1307,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 13 el este cel care alege pacea (13:8–9), apoi primește făgăduința țării (13:14–17); încheie capitolul zidind un altar la Hebron (13:18)."
    },
    {
     "t": " i-a "
@@ -1088,7 +1323,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a spus."
+    "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+    "dict_ro": "Amar, „a spune”: „Avram a zis lui Lot” (13:8) deschide cererea de pace, iar „DOMNUL a zis lui Avram” (13:14) deschide făgăduința, după ce Lot s-a despărțit: cele două cuvinte stau față în față.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": " lui "
@@ -1096,13 +1333,15 @@ window.CHAPTER_DATA = [
    {
     "t": "Lot",
     "w": "Lot",
-    "heb": "לְלוֹט",
+    "heb": "לוֹט",
     "translit": "leLot",
     "strong": "H3876",
     "pos": "nume propriu",
     "greek": "τῷ Λώτ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Lot."
+    "def_ro": "Lot — fiul lui Haran, nepotul lui Avram; numele înseamnă „înfășurat, ascuns”.",
+    "greek_def_ro": "Λώτ (Lot) — Lot, nume propriu (la dativ: „lui Lot”).",
+    "dict_ro": "Lot (Lot), „înfășurat, ascuns” (Hitchcock): nepotul lui Avram, care a plecat odată cu el din Haran (12:4); în capitolul 13 are și el turme și corturi (13:5), iar certurile păstorilor îl despart de unchiul său (13:7–11). Septuaginta scrie Λωτ."
    },
    {
     "t": ": „Să nu fie, "
@@ -1114,9 +1353,10 @@ window.CHAPTER_DATA = [
     "translit": "na",
     "strong": "H4994",
     "pos": "particulă",
-    "greek": "δὴ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "rogu-te."
+    "def_ro": "rogu-te, te rog — particulă care dă cererii un ton de rugăminte.",
+    "diff_ro": "Septuaginta nu are un cuvânt pentru particula na (נָא), „rogu-te”, care îmblânzește porunca; textul grecesc rămâne o poruncă simplă: „Să nu fie ceartă”.",
+    "dict_ro": "Na, „rogu-te”: „să nu fie, rogu-te, ceartă” (13:8) — Avram înmoaie cererea cu rugăminte, deși el e cel mai în vârstă; la 13:9 „desparte-te, rogu-te” are același ton. Septuaginta nu are cuvânt pentru ea."
    },
    {
     "t": ", "
@@ -1128,9 +1368,11 @@ window.CHAPTER_DATA = [
     "translit": "merivah",
     "strong": "H4808",
     "pos": "substantiv",
-    "greek": "διαστολή",
+    "greek": "μάχη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ceartă."
+    "def_ro": "ceartă, vrajbă; din aceeași rădăcină cu riv.",
+    "greek_def_ro": "μάχη (mache) — luptă, ceartă.",
+    "dict_ro": "Meribah, „ceartă”: cuvântul din 13:8 vine din aceeași rădăcină ca riv din 13:7; mai târziu va numi locul din Exod 17:7 și din Numeri 20:13."
    },
    {
     "t": " între mine și tine și între "
@@ -1144,7 +1386,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ποιμένων μου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "păstorii mei."
+    "def_ro": "a paște, a păstori; despre om: a fi păstor, a conduce; în general, a purta de grijă.",
+    "dict_ro": "Ra’ah, „a paște, a păstori”: „păstorii” lui Avram și ai lui Lot se ceartă (13:7); în capitolul 13 păstorii sunt cei care se ciocnesc pentru pășuni, înainte ca Avram să curme cearta prin despărțire.",
+    "greek_def_ro": "ποιμήν (poimen) — păstor; „ai păstorilor mei”."
    },
    {
     "t": " mei și "
@@ -1158,7 +1402,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ποιμένων σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "păstorii tăi."
+    "def_ro": "a paște, a păstori; despre om: a fi păstor, a conduce; în general, a purta de grijă.",
+    "dict_ro": "Ra’ah, „a paște, a păstori”: „păstorii” lui Avram și ai lui Lot se ceartă (13:7); în capitolul 13 păstorii sunt cei care se ciocnesc pentru pășuni, înainte ca Avram să curme cearta prin despărțire.",
+    "greek_def_ro": "ποιμήν (poimen) — păstor; „ai păstorilor tăi”."
    },
    {
     "t": " tăi, căci suntem "
@@ -1172,7 +1418,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, plural",
     "greek": "ἀδελφοί",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "rude apropiate — literal „frați”."
+    "def_ro": "rude apropiate — literal „frați”.",
+    "greek_def_ro": "ἀδελφός (adelphos) — frate (la plural: „frați”).",
+    "dict_ro": "Ach, „frate”: „suntem rude apropiate” (13:8) — Avram îl numește pe Lot „frate”, deși e nepotul lui, pe temeiul legăturii de sânge și al drumului împreună; Septuaginta spune ἀδελφοί."
    },
    {
     "t": "."
@@ -1181,7 +1429,7 @@ window.CHAPTER_DATA = [
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
-    "original": "וַיֹּאמֶר אַבְרָם אֶל־לוֹט אַל־נָא תְהִי מְרִיבָה בֵּינִי וּבֵינֶיךָ וּבֵין רֹעַי וּבֵין רֹעֶיךָ כִּי־אֲנָשִׁים אַחִים אֲנָחְנוּ",
+    "original": "וַיֹּאמֶר אַבְרָם אֶל־לוֹט אַל־נָא תְהִי מְרִיבָה בֵּינִי וּבֵינֶךָ וּבֵין רֹעַי וּבֵין רֹעֶיךָ כִּי־אֲנָשִׁים אַחִים אֲנָחְנוּ",
     "translation": "„Și Avram i-a spus lui Lot: „Să nu fie, rogu-te, ceartă între mine și tine și între păstorii mei și păstorii tăi, căci suntem rude apropiate.” — traducerea rabinului Rosen.",
     "note": ""
    },
@@ -1202,12 +1450,24 @@ window.CHAPTER_DATA = [
   "fidela": "Și Avram i-a spus lui Lot: Să nu fie, te rog, ceartă între mine și tine și între păstorii mei și păstorii tăi; căci suntem frați.",
   "refs": [
    "Geneza 45:24",
-   "Filipeni 4:2-3"
+   "Filipeni 4:2-3",
+   "Proverbe 15:1",
+   "Matei 5:9",
+   "1 Corinteni 6:6,7",
+   "Filipeni 2:14"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Rude apropiate (anașim aḥim).» Rude; iar midrașul aggadei: se asemănau la chip."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avram i-a zis lui Lot: „Să nu fie, te rog, ceartă între mine și tine și între păstorii mei și păstorii tăi, căci suntem oameni frați."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a zis Avram către Lot: „Să nu fie, te rog, ceartă între mine și tine și între păstorii mei și păstorii tăi, căci suntem oameni frați."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
@@ -1216,6 +1476,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Între mine și tine.» Căci, dacă se vor certa păstorii noștri, nu se poate să nu ne certăm noi."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Căci suntem rude apropiate.» Iar lucrul este o rușine, căci vor spune alții: un om și fratele lui nu vor să se sufere, ci se ceartă; ce vor face cu alții? Răi sunt."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Să nu fie, rogu-te, ceartă etc.» Motivul pentru care a spus „între mine și tine” este că i-a făcut cunoscut că sfârșitul ei va fi ca ceartă să fie și între amândoi. Și chiar dacă Lot ar spune: Doamne ferește, nu se va certa cu stăpânul său și măreția lui și lucrul nu va fi, cu toate acestea va recunoaște lucrul care deja este între păstorii lui și păstorii lui Avram, iar aceasta este spusa „și între păstorii mei” etc. Iar spusa „căci suntem oameni frați” se va lămuri pe calea cuvintelor lor, că păstorii lui Lot își trimiteau turmele și le pășunau în alte câmpuri, cu pretenția că țara este a lui Avraam, iar Lot, fiul fratelui lui, o va moșteni, iar aceasta este măsura Scripturii „să nu fie, rogu-te, ceartă între mine” etc. în această spusă „căci suntem oameni frați”.<br><br>Încă se va lămuri pe calea spusei: „Stai și vorbești împotriva fratelui tău, aduci pată fiului mamei tale”, iar strămoșii noștri au explicat pe această cale: „stai împotriva fratelui tău, a fiului mamei tale” – că tu ești cel care vorbește, „aduci pată”, iar aceasta este spusa „căci suntem oameni frați”, explicația: și când va fi cearta și vor fi aduși înaintea judecătorilor țării, care sunt canaanitul și perizitul, cum a spus Scriptura alături, care vor condamna judecătorii țării pe unul din cei doi, defectul se va întoarce și asupra fratelui lui, căci cel care mușcă și cel mușcat sunt pedepsiți, fiind frați.<br><br>Încă va voi: că fiindcă erau frați, nici Lot și nici păstorii lui nu se purtau cu cinstea cuvenită lui Avraam, socotind că nu este deosebire, ceea ce nu este așa dacă Avraam și Lot nu ar fi fost rude, s-ar fi purtat cu cinste față de Avraam din partea înălțimii cinstei lui pe care Dumnezeu a făcut-o mare."
    },
    {
     "author": "Zohar, Leh Leha 10:20",
@@ -1238,7 +1506,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πᾶσα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "toată."
+    "def_ro": "cum, întocmai — „potrivit cu tot ce” i-a poruncit.",
+    "dict_ro": "Kol, „tot, întreg”, unul dintre cele mai frecvente cuvinte ebraice, folosit pentru totalitate în orice context — „toate” viețuitoarele, „tot” pământul, „toată” fapta creației, subliniind universalitatea lucrării lui Dumnezeu.",
+    "greek_def_ro": "πᾶς (pas) — tot, toată."
    },
    {
     "t": " "
@@ -1252,7 +1522,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ἡ γῆ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țara."
+    "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+    "greek_def_ro": "γῆ (ge) — pământ, țară.",
+    "dict_ro": "Erets, „pământ, țară”: „țara nu-i putea purta” (13:6), „canaanitul era atunci în țară” (13:7), „toată țara este înaintea ta” (13:9), țara făgăduită (13:15, 17): cuvântul trece de la loc de ceartă la dar al lui Dumnezeu."
    },
    {
     "t": " în fața ta? "
@@ -1266,7 +1538,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "διαχωρίσθητι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "desparte-te."
+    "def_ro": "a se despărți, a se împărți, a se ramifica.",
+    "greek_def_ro": "διαχωρίζω (diachorizo) — a desparți, a se despărți („desparte-te”).",
+    "dict_ro": "Parad, „a se despărți”: „desparte-te de mine” (13:9), „s-au despărțit” (13:11) și „după ce s-a despărțit Lot” (13:14): verbul care la 10:5, 32 spunea împărțirea neamurilor spune aici o despărțire în pace, dar cu urmări grele."
    },
    {
     "t": ", "
@@ -1278,9 +1552,10 @@ window.CHAPTER_DATA = [
     "translit": "na",
     "strong": "H4994",
     "pos": "particulă",
-    "greek": "δὴ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "rogu-te."
+    "def_ro": "rogu-te, te rog — particulă care dă cererii un ton de rugăminte.",
+    "diff_ro": "Septuaginta nu are cuvânt pentru particula na (נָא), „rogu-te”: „Desparte-te de mine” (διαχωρίσθητι ἀπ᾿ ἐμοῦ) rămâne o cerere fără rugăminte.",
+    "dict_ro": "Na, „rogu-te”: „să nu fie, rogu-te, ceartă” (13:8) — Avram înmoaie cererea cu rugăminte, deși el e cel mai în vârstă; la 13:9 „desparte-te, rogu-te” are același ton. Septuaginta nu are cuvânt pentru ea."
    },
    {
     "t": ", de mine: dacă [o vei lua] la "
@@ -1294,7 +1569,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ἀριστερά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "stânga."
+    "def_ro": "stânga; și nordul, când te întorci spre răsărit.",
+    "greek_def_ro": "ἀριστερός (aristeros) — stâng (la plural neutru: „stânga”).",
+    "dict_ro": "Semol, „stânga”: „dacă stânga, eu la dreapta” (13:9) — Avram îi dă lui Lot alegerea, deși ca unchi ar fi avut dreptul întâietății; când te întorci spre răsărit, stânga e nordul și dreapta e sudul."
    },
    {
     "t": ", eu o voi lua la "
@@ -1308,7 +1585,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "δεξιά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "dreapta."
+    "def_ro": "a merge la dreapta.",
+    "greek_def_ro": "δεξιός (dexios) — drept, dreapta (la plural neutru: „dreapta”).",
+    "dict_ro": "Yamin (verb), „a merge la dreapta”: „eu voi merge la dreapta” (13:9); verbul și substantivul „dreapta” vin din aceeași rădăcină cu numele Biniamin, „fiu al dreptei”."
    },
    {
     "t": "; și dacă [o vei lua] la "
@@ -1322,7 +1601,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "δεξιά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "dreapta."
+    "def_ro": "dreapta; și sudul, când te întorci spre răsărit.",
+    "greek_def_ro": "δεξιός (dexios) — drept, dreapta (la plural neutru: „dreapta”).",
+    "dict_ro": "Yamin, „dreapta”: dreapta este, când privești spre răsărit, sudul; Avram oferă lui Lot să aleagă stânga sau dreapta, iar acesta alege câmpia Iordanului (13:10–11)."
    },
    {
     "t": ", eu o voi lua la "
@@ -1336,7 +1617,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀριστερά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "stânga."
+    "def_ro": "a merge la stânga.",
+    "greek_def_ro": "ἀριστερός (aristeros) — stâng (la plural neutru: „stânga”).",
+    "dict_ro": "Semal (verb), „a merge la stânga”: „eu voi merge la stânga” (13:9), sensul făcut de aceeași rădăcină cu semol, „stânga”; verbul e rar în Biblie; se mai află în Isaia 30:21."
    },
    {
     "t": ".”"
@@ -1366,12 +1649,24 @@ window.CHAPTER_DATA = [
   "fidela": "Nu este oare toată țara înaintea ta? Te rog, desparte-te de mine; dacă tu vei merge la stânga, atunci eu voi merge la dreapta; sau dacă tu vei merge la dreapta, atunci eu voi merge la stânga.",
   "refs": [
    "Geneza 20:15",
-   "Geneza 34:10"
+   "Geneza 34:10",
+   "Psalmul 120:7",
+   "Romani 12:18",
+   "1 Corinteni 6:7",
+   "Evrei 12:14"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Dacă o vei lua la stânga, eu o voi lua la dreapta.» Oriunde te vei așeza, nu mă voi depărta de tine și îți voi sta drept scut și ajutor. Și în cele din urmă a avut nevoie de el, cum s-a spus: „Și când a auzit Avram că a fost luat captiv fratele său” etc.<br><br>«Eu o voi lua la dreapta (ve-eimenah).» Mă voi îndrepta spre dreapta, ca ve-asmʾilah — mă voi îndrepta spre stânga. Și dacă vei spune că trebuia vocalizat ve-eiminah, așa am găsit în alt loc: „dacă este cineva care să se abată la dreapta (le-hemin)”, și nu este vocalizat le-heimin."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Nu este oare toată țara înaintea ta? Desparte-te, te rog, de mine: dacă tu vei merge la nord, eu voi merge la sud; iar dacă tu vei merge la sud, eu voi merge la nord.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Oare nu este toată țara înaintea ta? Desparte-te, te rog, de mine: dacă tu mergi la miazănoapte, eu la miazăzi; dacă tu la miazăzi, eu la miazănoapte.”"
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -1384,6 +1679,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Oare nu-i toată țara în fața ta?» Ca în fața mea; căci în orice loc în care vei fi, oamenii lor nu te vor ucide și nu-ți vor face rău, căci ajutorul lui Dumnezeu va fi cu tine, din pricina mea și pentru că ai mers pe căile mele, să-L cunoști pe Creator.<br><br>«Desparte-te, rogu-te, de mine.» Căci din pricina mea ești în această țară, și tu se cuvine să te desparți de mine, și nu eu de tine, căci eu sunt cel de căpetenie, iar tu ești alipit mie, și mie îmi este alegerea; și încă îți spun că sufletul meu este larg, și cu atât mai mult fratelui meu îi voi da alegerea.<br><br>«Dacă o vei lua la stânga, eu o voi lua la dreapta»: dacă vrei tu să mergi spre miazănoaptea țării, eu voi fi la miazăzi țării, în această parte în care suntem astăzi; căci era la miazăzi țării lui Israel, cum a spus: „din loc în loc către miazăzi” și „A continuat în călătoriile sale, de la miazăzi”.<br><br>«Și dacă o vei lua la dreapta»: și dacă vrei tu să rămâi în aceasta, care este miazăzi, eu mă voi da la o parte dinaintea ta și voi merge spre miazănoaptea țării."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Dacă la stânga, eu o voi lua la dreapta.» Adică: voi fi aproape de tine dacă vei avea nevoie să te ajut, ca în „și Satana stătea la dreapta lui ca să-l acuze”, adică lângă el."
    }
   ]
  },
@@ -1399,7 +1698,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Λωτ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Lot."
+    "def_ro": "Lot — fiul lui Haran, nepotul lui Avram; numele înseamnă „înfășurat, ascuns”.",
+    "greek_def_ro": "Λωτ (Lot) — Lot, nume propriu.",
+    "dict_ro": "Lot (Lot), „înfășurat, ascuns” (Hitchcock): nepotul lui Avram, care a plecat odată cu el din Haran (12:4); în capitolul 13 are și el turme și corturi (13:5), iar certurile păstorilor îl despart de unchiul său (13:7–11). Septuaginta scrie Λωτ."
    },
    {
     "t": " și-a "
@@ -1413,7 +1714,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπάρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "și-a ridicat."
+    "def_ro": "a ridica, a purta; „au ridicat” arca.",
+    "greek_def_ro": "ἐπαίρω (epairo) — a ridica; la participiu, „ridicând”.",
+    "dict_ro": "Nasa, „a ridica, a purta”: „țara nu-i putea purta” (13:6), Lot „și-a ridicat ochii” (13:10) și Avram „ridică-ți ochii” (13:14): același verb spune încărcătura pământului și privirea; cele două priviri, a lui Lot și a lui Avram, sunt puse față în față."
    },
    {
     "t": " "
@@ -1427,7 +1730,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τοὺς ὀφθαλμοὺς αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ochii lui."
+    "def_ro": "ochi; prin asemănare, izvor.",
+    "greek_def_ro": "ὀφθαλμός (ophthalmos) — ochi; „ochii lui”.",
+    "dict_ro": "Ayin, „ochi”: „Lot și-a ridicat ochii” (13:10) și „ridică-ți ochii” (13:14): în ambele cazuri privirea precede alegerea sau făgăduința. Lot privește ce-i place; Avram este chemat de Dumnezeu să privească ce i se dă."
    },
    {
     "t": " și a "
@@ -1441,7 +1746,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶδεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a văzut."
+    "def_ro": "a vedea — literal sau la figurat, în sensuri foarte variate.",
+    "dict_ro": "Raah, „a vedea”: Lot „a văzut” toată câmpia Iordanului (13:10), iar Dumnezeu îi spune lui Avram „privește” (13:14) și „țara pe care o vezi ți-o dau” (13:15): privirea lui Lot alege, privirea lui Avram primește.",
+    "greek_def_ro": "ὁράω (horao) — a vedea."
    },
    {
     "t": " că toată "
@@ -1455,7 +1762,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν περίχωρον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "câmpia."
+    "def_ro": "câmpie rotundă, disc, cerc; aici, câmpia largă a Iordanului.",
+    "greek_def_ro": "περίχωρος (perichoros) — ținut de jur împrejur, împrejurimi („ținutul dimprejur”).",
+    "dict_ro": "Kikkar, „cerc, disc, câmpie rotundă”: „câmpia Iordanului” (13:10–12), câmpia largă din jurul Mării Moarte, unde se aflau cele cinci cetăți (14:2–3); Septuaginta o numește ἡ περίχωρος, „ținutul dimprejur”."
    },
    {
     "t": " "
@@ -1469,7 +1778,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, cu articol",
     "greek": "τοῦ Ιορδάνου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Iordanului."
+    "def_ro": "Iordan — râul care curge de la nord spre sud prin mijlocul țării; numele înseamnă „cel care coboară”.",
+    "greek_def_ro": "Ιορδάνης (Iordanes) — Iordan (la genitiv: „al Iordanului”).",
+    "dict_ro": "Yarden (Iordan), „cel care coboară” (Easton): râul principal al Palestinei, curge de la nord spre sud printr-o vale adâncă; „câmpia Iordanului” (13:10–11) e partea de jos a acestei văi, udată de râu."
    },
    {
     "t": " era complet "
@@ -1483,7 +1794,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv, participiu",
     "greek": "ποτιζομένη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "irigată."
+    "def_ro": "irigat, bine udat; loc cu apă din belșug.",
+    "greek_def_ro": "ποτίζω (potizo) — a uda; la participiu, „udată”.",
+    "dict_ro": "Mashqeh, „loc bine udat”: câmpia Iordanului era „toată udată” (13:10), înainte ca DOMNUL să nimicească Sodoma și Gomora; descrierea ei ca „grădina DOMNULUI” și „țara Egiptului” arată un ținut de belșug."
    },
    {
     "t": " – înainte ca "
@@ -1495,9 +1808,11 @@ window.CHAPTER_DATA = [
     "translit": "YHVH",
     "strong": "H3068",
     "pos": "substantiv",
-    "greek": "ὁ Θεὸς",
+    "greek": "Θεὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNUL."
+    "def_ro": "DOMNUL — Numele propriu al lui Dumnezeu (Tetragrama YHVH), redat în Biblie „DOMNUL”, cu majuscule.",
+    "greek_def_ro": "θεός (theos) — Dumnezeu (la acuzativ).",
+    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus „DOMNUL”: Avram chemă Numele Lui la altar (13:4), câmpia Iordanului e „ca grădina DOMNULUI” (13:10), oamenii Sodomei sunt păcătoși „față de DOMNUL” (13:13), iar El vorbește lui Avram (13:14). Septuaginta are Κύριος sau ὁ Θεός."
    },
    {
     "t": " să "
@@ -1511,7 +1826,9 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "καταστρέψαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "să distrugă."
+    "def_ro": "a strica, a nimici, a pierde; verbul cu sens dublu: a pervertit (despre oameni) și a distruge (despre pedeapsă).",
+    "greek_def_ro": "καταστρέφω (katastrepho) — a nimici, a răsturna („a nimici”).",
+    "dict_ro": "Shachat, „a strica, a nimici”: „înainte de a nimici DOMNUL Sodoma și Gomora” (13:10) anunță dinainte soarta cetăților (19:24–29): privirea lui Lot vede un belșug care va fi pierdut."
    },
    {
     "t": " "
@@ -1525,7 +1842,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σόδομα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sodoma."
+    "def_ro": "Sodoma — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Σόδομα (Sodoma) — Sodoma, nume propriu.",
+    "dict_ro": "Sodoma (Sedom), „arsă” (Easton: „înconjurată de ziduri”): cetate din valea Sidim, aproape de capătul de nord al Mării Moarte; Lot își întinde cortul până la ea (13:12), iar oamenii ei sunt arătați ca foarte păcătoși (13:13). Nimicită prin foc în capitolul 19."
    },
    {
     "t": " și "
@@ -1539,7 +1858,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Γόμορρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Gomora."
+    "def_ro": "Gomora — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Γόμορρα (Gomorra) — Gomora, nume propriu.",
+    "dict_ro": "Gomora (Amorah), „înecare” (Easton): una dintre cele cinci cetăți ale câmpiei, pomenită mereu după Sodoma (10:19; 13:10; 19:24–28); Septuaginta scrie Γόμορρα."
    },
    {
     "t": " – precum "
@@ -1553,7 +1874,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "παράδεισος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "grădina."
+    "def_ro": "grădină — loc îngrădit, ocrotit.",
+    "dict_ro": "Gan, „grădină”, propriu-zis un loc îngrădit și ocrotit — de la aceeași idee vine și numele grecesc „paradeisos” (paradis), împrumutat mai târziu în Septuaginta pentru a traduce „grădina Edenului”.",
+    "greek_def_ro": "παράδεισος (paradeisos) — grădină, parc, paradis."
    },
    {
     "t": " DOMNULUI, precum "
@@ -1567,7 +1890,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "γῆ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țara."
+    "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+    "greek_def_ro": "χοῦς (chous) — țărână, pulbere.",
+    "dict_ro": "Erets, „pământ, țară”: „țara nu-i putea purta” (13:6), „canaanitul era atunci în țară” (13:7), „toată țara este înaintea ta” (13:9), țara făgăduită (13:15, 17): cuvântul trece de la loc de ceartă la dar al lui Dumnezeu."
    },
    {
     "t": " "
@@ -1581,7 +1906,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αἰγύπτου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Egiptului."
+    "def_ro": "Mițraim — fiul lui Ham și numele Egiptului.",
+    "greek_def_ro": "Αἴγυπτος (Aigyptos) — Egipt (la genitiv: „al Egiptului”).",
+    "dict_ro": "Mițraim (Mitsrayim): Egiptul; Avram se urcă „din Egipt” (13:1), iar Lot privește câmpia Iordanului „ca țara Egiptului” (13:10): țara irigată de Nil e termenul de comparație al belșugului. Septuaginta spune Αἴγυπτος."
    },
    {
     "t": ", până la "
@@ -1595,7 +1922,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ζογορα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Țoar."
+    "def_ro": "Țoar — cetate mică la sud-est de Marea Moartă; numele înseamnă „mic”.",
+    "greek_def_ro": "Ζογορα (Zogora) — Țoar, nume propriu.",
+    "dict_ro": "Țoar (Tsoar), „mic” (Easton): cetate la sud-est de Marea Moartă, numită inițial Bela (14:2), unde vor fugi Lot și fiicele sale (19:22–23); „până la Țoar” (13:10) fixează limita de sud a câmpiei."
    },
    {
     "t": "."
@@ -1610,7 +1939,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἐπάρας Λωτ τοὺς ὀφθαλμοὺς αὐτοῦ εἶδεν πᾶσαν τὴν περίχωρον τοῦ Ιορδάνου, ὅτι πᾶσα ἦν ποτιζομένη πρὸ τοῦ καταστρέψαι τὸν Θεὸν Σοδομα καὶ Γομορρα ὡσεὶ ὁ παράδεισος τοῦ Θεοῦ καὶ ὡς ἡ γῆ Αἰγύπτου ἕως ἐλθεῖν εἰς Ζογορα.",
+    "original": "καὶ ἐπάρας Λωτ τοὺς ὀφθαλμοὺς αὐτοῦ εἶδεν πᾶσαν τὴν περίχωρον τοῦ Ιορδάνου, ὅτι πᾶσα ἦν ποτιζομένη πρὸ τοῦ καταστρέψαι τὸν Θεὸν Σοδομα καὶ Γομορρα ὡς ὁ παράδεισος τοῦ Θεοῦ καὶ ὡς ἡ γῆ Αἰγύπτου ἕως ἐλθεῖν εἰς Ζογορα.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -1626,12 +1955,23 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 2:10",
    "Geneza 19:24-25",
-   "Isaia 51:3"
+   "Isaia 51:3",
+   "Geneza 3:6",
+   "Geneza 6:2",
+   "Numeri 32:1-42"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Era complet irigată.» Un ținut cu pâraie de apă.<br><br>«Înainte ca Domnul să distrugă Sodoma și Gomora.» Așa era acea câmpie.<br><br>«Precum grădina Domnului.» Pentru copaci.<br><br>«Precum țara Egiptului („Mițrayim”).» Pentru semănături.<br><br>«Până la Țoar (boʾakha Ṣoʿar).» Până la Țoar. Iar midrașul aggadei o tâlcuiește spre ocară: pentru că erau cufundați în desfrâu, Lot și-a ales locuința în vecinătatea lor."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Lot și-a ridicat ochii și a văzut toată câmpia Iordanului, că era toată un loc udat, înainte ca Domnul să nimicească Sodoma și Gomora, ca grădina Domnului, ca țara Egiptului („Mițrayim”), ajungând până la Țoar."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Lot și-a ridicat ochii spre desfrâu și a văzut toată câmpia Iordanului, că toată era loc udat — înainte ca Domnul să nimicească în mânia Lui Sodoma și Gomora, țara aceea era lăudată pentru pomii ei, ca grădina Domnului, și pentru roadele ei, ca țara Egiptului („Mițrayim”) — până la Țoar."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -1644,6 +1984,25 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Lot și-a ridicat ochii»: de pe muntele care era acolo, căci pe munte locuiau, cum a spus; și și-a ridicat de acolo ochii, căci era un loc înalt, ca să vadă țara înaintea lui; și a văzut toată câmpia Iordanului, care era o țară pentru vite, căci era complet irigată; și a spus kullah („toată”) după ce a spus kol („toată”), ca să mărească lucrul; și la fel „toți regii neamurilor, toți”.<br><br>«Câmpia» (kikkar): după Targumul lui, „șes”. Și această câmpie era aproape de țara Sodomei și a Gomorei, cum a spus: „și toată câmpia”; și țara era, înainte de a fi fost schimbată, ca grădina Domnului, și aceasta este grădina Edenului, pe care o udau cele patru râuri; sau ca țara Egiptului („Mițrayim”), pe care râul o udă toată.<br><br>«Până la Țoar» (boʾakha Ṣoʿar). He-ul este ca he-ul din „care stătea aici (ʿimmekhah) cu tine” și altele. Iar kaf-ul nu este adăugat, cum au socotit; și la fel kaf-ul din ʿerkekha, ha-ʿerkekha; căci kaf-ul din boʾakha este al persoanei a doua, ca orice kaf care se găsește, și vorbește către cel care cunoaște locul; și la fel ʿerkekha vorbește către preot. Și a spus: până la Țoar locul era irigat."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Era complet irigată.» Unii explică: „și a văzut toată câmpia”, pentru că Iordanul adapă toată țara.<br><br>«Precum grădina Domnului.» Care nu are nevoie să fie udată, precum este scris „Un fluviu iese din Eden”; tot așa Egiptul („Mițrayim”), căci Nilul urcă și o adapă."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Precum grădina Domnului.» Căci râurile udă în țara Egiptului („Mițrayim”), căci Nilul udă; așa Iordanul uda acea câmpie până la Țoar.<br><br>«Înainte ca Domnul să distrugă etc.» Adică: Lot a cercetat țara și nu i-a cercetat pe locuitorii țării; de aceea a fost lovit, căci a ieșit de acolo cel din urmă, el și fiicele lui, fără nimic; căci cel care merge să locuiască într-un loc trebuie să cerceteze țara și pe locuitorii ei."
+   },
+   {
+    "author": "Adunarea cea mare 30:5",
+    "text": "Este scris (Geneza 19:13): «căci noi nimicim acest loc.» Și este scris (Geneza 13:10): «înainte ca Domnul să fi nimicit Sedomul și ʿAmora.» Și este scris (Geneza 19:24): «Și Domnul a plouat peste Sedom și peste ʿAmora.» Ci așa am învățat: Nu le este de ajuns celor răi etc., ci întorc măsura milostivirii în măsura judecății.",
+    "src": {
+     "slug": "kab-zo-idra-raba",
+     "spec": {
+      "num": 30,
+      "v": 5
+     }
+    }
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -1666,7 +2025,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Λωτ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Lot."
+    "def_ro": "Lot — fiul lui Haran, nepotul lui Avram; numele înseamnă „înfășurat, ascuns”.",
+    "greek_def_ro": "Λωτ (Lot) — Lot, nume propriu.",
+    "dict_ro": "Lot (Lot), „înfășurat, ascuns” (Hitchcock): nepotul lui Avram, care a plecat odată cu el din Haran (12:4); în capitolul 13 are și el turme și corturi (13:5), iar certurile păstorilor îl despart de unchiul său (13:7–11). Septuaginta scrie Λωτ."
    },
    {
     "t": " a "
@@ -1680,7 +2041,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξελέξατο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a ales."
+    "def_ro": "a alege, a prefera; verbul alegerii, folosit și despre alegerea făcută de Dumnezeu.",
+    "greek_def_ro": "ἐκλέγομαι (eklegomai) — a alege („a ales”).",
+    "dict_ro": "Bachar, „a alege”: „Lot și-a ales” toată câmpia (13:11) — alegerea după aparență; același verb va spune alegerea lui Israel de către Dumnezeu (Deuteronom 7:6)."
    },
    {
     "t": " pentru sine "
@@ -1694,7 +2057,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πᾶσαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "toată."
+    "def_ro": "cum, întocmai — „potrivit cu tot ce” i-a poruncit.",
+    "dict_ro": "Kol, „tot, întreg”, unul dintre cele mai frecvente cuvinte ebraice, folosit pentru totalitate în orice context — „toate” viețuitoarele, „tot” pământul, „toată” fapta creației, subliniind universalitatea lucrării lui Dumnezeu.",
+    "greek_def_ro": "πᾶς (pas) — tot, fiecare."
    },
    {
     "t": " "
@@ -1708,7 +2073,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν περίχωρον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "câmpia."
+    "def_ro": "câmpie rotundă, disc, cerc; aici, câmpia largă a Iordanului.",
+    "greek_def_ro": "περίχωρος (perichoros) — ținut de jur împrejur, împrejurimi („ținutul dimprejur”).",
+    "dict_ro": "Kikkar, „cerc, disc, câmpie rotundă”: „câmpia Iordanului” (13:10–12), câmpia largă din jurul Mării Moarte, unde se aflau cele cinci cetăți (14:2–3); Septuaginta o numește ἡ περίχωρος, „ținutul dimprejur”."
    },
    {
     "t": " "
@@ -1722,7 +2089,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, cu articol",
     "greek": "τοῦ Ιορδάνου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Iordanului."
+    "def_ro": "Iordan — râul care curge de la nord spre sud prin mijlocul țării; numele înseamnă „cel care coboară”.",
+    "greek_def_ro": "Ιορδάνης (Iordanes) — Iordan (la genitiv: „al Iordanului”).",
+    "dict_ro": "Yarden (Iordan), „cel care coboară” (Easton): râul principal al Palestinei, curge de la nord spre sud printr-o vale adâncă; „câmpia Iordanului” (13:10–11) e partea de jos a acestei văi, udată de râu."
    },
    {
     "t": "; și "
@@ -1736,7 +2105,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Λωτ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Lot."
+    "def_ro": "Lot — fiul lui Haran, nepotul lui Avram; numele înseamnă „înfășurat, ascuns”.",
+    "greek_def_ro": "Λωτ (Lot) — Lot, nume propriu.",
+    "dict_ro": "Lot (Lot), „înfășurat, ascuns” (Hitchcock): nepotul lui Avram, care a plecat odată cu el din Haran (12:4); în capitolul 13 are și el turme și corturi (13:5), iar certurile păstorilor îl despart de unchiul său (13:7–11). Septuaginta scrie Λωτ."
    },
    {
     "t": " a "
@@ -1750,7 +2121,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπῆρεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a plecat."
+    "def_ro": "a porni, a se muta, a călători — despre un neam care își strânge corturile și pleacă.",
+    "greek_def_ro": "ἀπαίρω (apairo) — a pleca, a ridica tabăra („a plecat”).",
+    "dict_ro": "Nasa, „a porni, a ridica tabăra”: Lot „a pornit dinspre răsărit” (13:11), verbul care la 11:2 spunea plecarea omenirii spre Șinar și la 12:9 pe cea a lui Avram."
    },
    {
     "t": " dinspre "
@@ -1764,7 +2137,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀπὸ ἀνατολῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "dinspre răsărit."
+    "def_ro": "răsărit; ceea ce e dinainte, vechime.",
+    "greek_def_ro": "ἀνατολή (anatole) — răsărit („dinspre răsărit”).",
+    "dict_ro": "Qedem, „răsărit”: Lot „a pornit dinspre răsărit” (13:11), adică și-a mutat tabăra spre răsărit; același cuvânt la 11:2, unde oamenii „au călătorit dinspre răsărit” spre Șinar; „răsărit” e și una dintre cele patru laturi din 13:14."
    },
    {
     "t": " și s-au "
@@ -1778,7 +2153,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "διεχωρίσθησαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-au despărțit."
+    "def_ro": "a se despărți, a se împărți, a se ramifica.",
+    "greek_def_ro": "διαχωρίζω (diachorizo) — a se despărți („s-au despărțit”).",
+    "dict_ro": "Parad, „a se despărți”: „desparte-te de mine” (13:9), „s-au despărțit” (13:11) și „după ce s-a despărțit Lot” (13:14): verbul care la 10:5, 32 spunea împărțirea neamurilor spune aici o despărțire în pace, dar cu urmări grele."
    },
    {
     "t": " unul de altul."
@@ -1808,12 +2185,24 @@ window.CHAPTER_DATA = [
   "fidela": "Atunci Lot și-a ales toată câmpia Iordanului; și Lot a călătorit spre est și s-au despărțit unul de altul.",
   "refs": [
    "Geneza 14:12",
-   "Geneza 19:1"
+   "Geneza 19:1",
+   "Geneza 19:17",
+   "Geneza 13:9,14",
+   "Psalmul 16:3",
+   "Psalmul 119:63"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Câmpia (kikkar).» Șesul, ca în Targumul lui.<br><br>«Dinspre răsărit (mi-qedem).» A plecat de lângă Avram și s-a dus la apusul lui Avram; se găsește că a călătorit de la răsărit spre apus. Iar midrașul aggadei: s-a îndepărtat de Cel dintâi (qadmon) al lumii; a zis: nu vreau nici pe Avram, nici pe Dumnezeul lui."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Lot și-a ales toată câmpia Iordanului; și Lot a pornit spre răsărit, și s-au despărțit unul de altul."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și și-a ales Lot toată câmpia Iordanului, și Lot a pornit dinspre răsărit, și s-au despărțit unul de altul."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -1826,6 +2215,29 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și Lot a ales pentru sine.» Unul dintre locurile care erau în toată câmpia, căci toate locurile din toată câmpia erau bune.<br><br>«Și Lot a plecat dinspre răsărit» (mi-qedem): spre răsărit de locul în care era, căci Iordanul este la răsărit de țara Canaanului; adică călătoriile lui erau din partea răsăritului; și la fel „A continuat în călătoriile sale, de la miazăzi ... până la Betel”, cum am explicat. Și acesta este sensul mem-ului.<br><br>«Și s-au despărțit unul de altul.» Dar Lot este cel care s-a despărțit de Avram, cum i-a spus: „Desparte-te, rogu-te, de mine”; și cum a spus „unul de altul”? Ci, după ce a plecat Lot, erau despărțiți unul de altul, căci locul dintre ei era depărtat; căci, cât timp erau împreună, se strâmtorau unul pe altul; iar când a plecat Lot, iată, fiecare s-a despărțit de tovarășul său: Avram în țara Canaanului, în orice loc pe care l-a ales; și la fel Lot a locuit în orașele câmpiei, un timp în acesta și un timp în acela, și a călătorit din loc în loc până ce a ajuns în orașul Sodoma, și acolo și-a statornicit locuința; și deși erau răi și păcătoși, nu s-a îngrijit de oamenii locului, căci locul era drept în ochii lui, iar el era atât de tare în credință și în dreptate, încât nu a învățat din faptele lor."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și s-au despărțit unul de altul.» Despărțire mare a fost, și tot așa spune: „Amonitul și moabitul să nu intre” etc."
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și în anul al patrulea al săptămânii acesteia Lot s-a despărțit de el, și Lot a locuit în Sodoma, și oamenii Sodomei erau păcătoși foarte. Și i-a părut rău în inima sa că fiul fratelui său s-a despărțit de el; căci nu avea copii.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 17
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 9",
+    "text": "De îndată ce Avram s-a întors în Canaan, a împărțit țara între el și Lot, din pricina purtării tulburi a păstorilor lor, cu privire la pășunile pe care să-și pască turmele. Totuși, i-a dat lui Lot alegerea, sau îngăduința, să aleagă ce ținuturi vrea să ia; iar el a luat ce a lăsat celălalt, adică pământurile mai joase de la poalele munților; și el însuși a locuit în Hebron, care este o cetate mai veche cu șapte ani decât Tanis din Egipt. Dar Lot a stăpânit țara câmpiei și râul Iordan, nu departe de cetatea Sodoma, care era pe atunci o cetate frumoasă, dar acum este nimicită, prin voia și mânia lui Dumnezeu, pricina căreia o voi arăta la locul ei, mai târziu."
+   },
+   {
+    "author": "Sfântul Ambrozie, Despre Avraam",
+    "text": "Cât de potrivit spune deci Scriptura: „Lot”, adică abatere, „și-a ales”. Într-adevăr, Dumnezeu a pus înaintea noastră binele și răul, ca fiecare să aleagă ce voiește. Să nu alegem deci ceea ce este mai plăcut la prima vedere, ci ceea ce este cu adevărat mai bun, ca, primind puterea de a alege ce este de preferat, să nu ne ridicăm ochii și să ne lăsăm atrași de frumusețea mincinoasă, lăsând ascuns adevărul firii, ca cel ce privește în altă parte."
    }
   ]
  },
@@ -1841,7 +2253,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 13 el este cel care alege pacea (13:8–9), apoi primește făgăduința țării (13:14–17); încheie capitolul zidind un altar la Hebron (13:18)."
    },
    {
     "t": " s-a "
@@ -1855,7 +2269,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κατῴκησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a așezat."
+    "def_ro": "a sta jos, a locui, a rămâne; la forma cauzativă, a așeza.",
+    "greek_def_ro": "κατοικέω (katoikeo) — a locui, a se așeza („s-a așezat”).",
+    "dict_ro": "Yashav, „a locui, a se așeza”: pământul nu-i poate purta „să locuiască împreună” (13:6), apoi Avram „s-a așezat” în Canaan, iar Lot în orașele câmpiei (13:12): despărțirea e înfățișată ca două locuiri deosebite."
    },
    {
     "t": " în "
@@ -1867,9 +2283,11 @@ window.CHAPTER_DATA = [
     "translit": "be'erets",
     "strong": "H776",
     "pos": "substantiv",
-    "greek": "τῇ γῇ",
+    "greek": "γῇ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țara."
+    "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+    "greek_def_ro": "γῆ (gē) — pământ, țară.",
+    "dict_ro": "Erets, „pământ, țară”: „țara nu-i putea purta” (13:6), „canaanitul era atunci în țară” (13:7), „toată țara este înaintea ta” (13:9), țara făgăduită (13:15, 17): cuvântul trece de la loc de ceartă la dar al lui Dumnezeu."
    },
    {
     "t": " "
@@ -1883,7 +2301,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χανααν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Canaanului."
+    "def_ro": "Canaan — fiul lui Ham și strămoșul canaaniților.",
+    "greek_def_ro": "Χανααν (Chanaan) — Canaan, nume propriu.",
+    "dict_ro": "Canaan (Kenaan): Avram „s-a așezat în țara Canaanului” (13:12), în timp ce Lot alege orașele câmpiei; țara Canaanului este cea făgăduită (12:7; 13:15)."
    },
    {
     "t": " și "
@@ -1897,7 +2317,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Λωτ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Lot."
+    "def_ro": "Lot — fiul lui Haran, nepotul lui Avram; numele înseamnă „înfășurat, ascuns”.",
+    "greek_def_ro": "Λωτ (Lot) — Lot, nume propriu.",
+    "dict_ro": "Lot (Lot), „înfășurat, ascuns” (Hitchcock): nepotul lui Avram, care a plecat odată cu el din Haran (12:4); în capitolul 13 are și el turme și corturi (13:5), iar certurile păstorilor îl despart de unchiul său (13:7–11). Septuaginta scrie Λωτ."
    },
    {
     "t": " s-a "
@@ -1911,7 +2333,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κατῴκησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a așezat."
+    "def_ro": "a sta jos, a locui, a rămâne; la forma cauzativă, a așeza.",
+    "greek_def_ro": "κατοικέω (katoikeo) — a locui, a se așeza („s-a așezat”).",
+    "dict_ro": "Yashav, „a locui, a se așeza”: pământul nu-i poate purta „să locuiască împreună” (13:6), apoi Avram „s-a așezat” în Canaan, iar Lot în orașele câmpiei (13:12): despărțirea e înfățișată ca două locuiri deosebite."
    },
    {
     "t": " în "
@@ -1923,9 +2347,11 @@ window.CHAPTER_DATA = [
     "translit": "be'arei",
     "strong": "H5892",
     "pos": "substantiv, stare construită",
-    "greek": "ταῖς πόλεσιν",
+    "greek": "πόλει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "orașele."
+    "def_ro": "cetate, oraș; loc întărit și păzit.",
+    "greek_def_ro": "πόλις (polis) — cetate, oraș (la dativ: „într-o cetate”).",
+    "dict_ro": "Ir, „cetate”: Lot se așază „în orașele câmpiei” (13:12), în cetățile din valea Iordanului, în timp ce Avram rămâne în țara de munte, în corturi; contrastul dintre cetate și cort revine în capitolul 19."
    },
    {
     "t": " câmpiei și și-a "
@@ -1937,23 +2363,17 @@ window.CHAPTER_DATA = [
     "translit": "vaye'ehal",
     "strong": "H167",
     "pos": "verb",
-    "greek": "ἔσκηνεν",
+    "greek": "ἐσκήνωσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "și-a întins."
+    "def_ro": "a-și întinde cortul, a locui în cort.",
+    "greek_def_ro": "σκηνόω (skenoo) — a-și așeza cortul („și-a așezat cortul”).",
+    "dict_ro": "Ahal, „a-și întinde cortul”: Lot „și-a întins cortul până la Sodoma” (13:12) — treptat, de la câmpie spre cetate; Avram „și-a întins cortul” (13:18) la stejarii din Mamre. Același verb, două direcții de drum."
    },
    {
     "t": " "
    },
    {
-    "t": "cortul",
-    "w": "cortul",
-    "heb": "עַד",
-    "translit": "ad",
-    "strong": "H168",
-    "pos": "substantiv",
-    "greek": "τὴν σκηνὴν",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cortul — literal „a cortit”."
+    "t": "cortul"
    },
    {
     "t": " până la "
@@ -1965,9 +2385,11 @@ window.CHAPTER_DATA = [
     "translit": "Sedom",
     "strong": "H5467",
     "pos": "nume propriu",
-    "greek": "Σοδομων",
+    "greek": "Σοδόμοις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sodoma."
+    "def_ro": "Sodoma — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Σόδομα (Sodoma) — Sodoma (la dativ: „în Sodoma”).",
+    "dict_ro": "Sodoma (Sedom), „arsă” (Easton: „înconjurată de ziduri”): cetate din valea Sidim, aproape de capătul de nord al Mării Moarte; Lot își întinde cortul până la ea (13:12), iar oamenii ei sunt arătați ca foarte păcătoși (13:13). Nimicită prin foc în capitolul 19."
    },
    {
     "t": "."
@@ -1998,12 +2420,23 @@ window.CHAPTER_DATA = [
   "refs": [
    "2 Petru 2:7-8",
    "Geneza 14:12",
-   "Geneza 19:1"
+   "Geneza 19:1",
+   "Geneza 19:29",
+   "Psalmul 26:5",
+   "1 Corinteni 15:33"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și și-a întins cortul.» A întins corturi pentru păstorii lui și pentru vitele lui până la Sodoma."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Avram a locuit în țara Canaan, iar Lot a locuit în cetățile câmpiei și și-a întins cortul până la Sodoma."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Avram a locuit în țara Canaanului, iar Lot a locuit în cetățile câmpiei și și-a întins cortul până la Sodoma."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -2020,6 +2453,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și și-a întins cortul până la Sodoma.» Și-a întins cortul din loc în loc până ce a ajuns până la Sodoma."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și și-a întins cortul până la Sodoma.» „Și și-a întins cortul până la Sodoma” și nu în Sodoma, pentru că erau răi și păcătoși, și aceasta este ceea ce s-a spus: „iar Lot stătea la poarta Sodomei”, căci casa lui era la poarta zidului, în afară."
    },
    {
     "author": "Talmudul Babilonian, Ioma, cap. 3",
@@ -2053,7 +2490,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "οἱ δὲ ἄνθρωποι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "oamenii."
+    "def_ro": "bărbat, mascul; despre animale, „masculul”.",
+    "greek_def_ro": "ἄνθρωπος (anthropos) — om, oameni („iar oamenii”).",
+    "dict_ro": "Ish, „bărbat, om”: „oamenii Sodomei” (13:13) sunt bărbații cetății; la 19:4 aceiași bărbați, „tineri și bătrâni, tot poporul”, înconjoară casa lui Lot."
    },
    {
     "t": " "
@@ -2067,7 +2506,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "οἱ ἐν Σοδόμοις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sodomei."
+    "def_ro": "Sodoma — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Σόδομα (Sodoma) — „cei din Sodoma”.",
+    "dict_ro": "Sodoma (Sedom), „arsă” (Easton: „înconjurată de ziduri”): cetate din valea Sidim, aproape de capătul de nord al Mării Moarte; Lot își întinde cortul până la ea (13:12), iar oamenii ei sunt arătați ca foarte păcătoși (13:13). Nimicită prin foc în capitolul 19."
    },
    {
     "t": " erau "
@@ -2081,7 +2522,9 @@ window.CHAPTER_DATA = [
     "pos": "adverb",
     "greek": "σφόδρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "foarte."
+    "def_ro": "foarte, peste măsură, din cale-afară; întărește ce stă înaintea lui.",
+    "greek_def_ro": "σφόδρα (sphodra) — foarte, tare.",
+    "dict_ro": "Meod, „foarte”: Avram e „foarte încărcat” (13:2), iar oamenii din Sodoma sunt „foarte” păcătoși (13:13): două cuvinte opuse care însoțesc cele două alegeri din capitol, ale lui Avram și ale lui Lot."
    },
    {
     "t": " "
@@ -2095,7 +2538,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "πονηροὶ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "răi."
+    "def_ro": "rău, nenorocire, răutate — opusul lui „tov” (bun).",
+    "greek_def_ro": "πονηρός (poneros) — rău, nelegiuit (la plural).",
+    "dict_ro": "Ra, „rău”: oamenii Sodomei sunt „răi și păcătoși” (13:13); același cuvânt spusese, la 6:5, răutatea omului înainte de potop. Septuaginta spune πονηροί."
    },
    {
     "t": " și "
@@ -2109,7 +2554,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "ἁμαρτωλοὶ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "păcătoși."
+    "def_ro": "păcătos, cel care greșește.",
+    "greek_def_ro": "ἁμαρτωλός (hamartolos) — păcătos (la plural).",
+    "dict_ro": "Chatta, „păcătos”: oamenii Sodomei sunt „păcătoși față de DOMNUL” (13:13), formulă care spune păcatul îndreptat împotriva lui Dumnezeu, nu doar împotriva oamenilor. Septuaginta spune ἁμαρτωλοί."
    },
    {
     "t": " față de "
@@ -2121,9 +2568,11 @@ window.CHAPTER_DATA = [
     "translit": "YHVH",
     "strong": "H3068",
     "pos": "substantiv",
-    "greek": "τὸν Θεὸν",
+    "greek": "Θεοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNUL."
+    "def_ro": "DOMNUL — Numele propriu al lui Dumnezeu (Tetragrama YHVH), redat în Biblie „DOMNUL”, cu majuscule.",
+    "greek_def_ro": "θεός (theos) — Dumnezeu (la genitiv).",
+    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus „DOMNUL”: Avram chemă Numele Lui la altar (13:4), câmpia Iordanului e „ca grădina DOMNULUI” (13:10), oamenii Sodomei sunt păcătoși „față de DOMNUL” (13:13), iar El vorbește lui Avram (13:14). Septuaginta are Κύριος sau ὁ Θεός."
    }
   ],
   "textCompare": [
@@ -2151,12 +2600,23 @@ window.CHAPTER_DATA = [
   "refs": [
    "Ezechiel 16:49-50",
    "Geneza 19:4-9",
-   "Geneza 18:20"
+   "Geneza 18:20",
+   "Geneza 15:16",
+   "Geneza 19:4-11",
+   "1 Samuel 15:18"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Iar oamenii Sodomei erau răi.» Și cu toate acestea, Lot nu s-a reținut să locuiască cu ei. Iar învățătorii noștri au învățat de aici: „iar numele celor răi va putrezi”.<br><br>«Răi.» În trupul lor.<br><br>«Și păcătoși.» În averea lor.<br><br>«Față de Domnul, foarte.» Își cunoșteau Stăpânul și aveau de gând să se răscoale împotriva Lui."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și oamenii Sodomei erau răi cu averea lor și păcătoși cu trupurile lor, foarte mult, înaintea Domnului."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și oamenii Sodomei erau răi cu banii lor unul față de altul și păcătoși cu trupul lor, prin dezgolirea goliciunii și prin vărsare de sânge nevinovat și prin slujire străină, și se răzvrăteau foarte mult împotriva Numelui Domnului."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -2171,23 +2631,16 @@ window.CHAPTER_DATA = [
     "text": "«Iar oamenii Sodomei erau ... răi»: răi față de Cer și răi față de făpturi; și totul este față de Domnul, căci au călcat poruncile Lui, pe care le-a poruncit lui Adam și lui Noe, și acestea sunt cele șapte porunci, cum am explicat; și între ele idolatria, care este păcat față de Domnul, și între ele jaful, incestul și vărsarea de sânge, care sunt păcat și rău ale omului față de semenul său; și totul este păcat față de Domnul, căci calcă poruncile Lui și disprețuiesc cuvintele Lui. Și a spus „foarte”, căci erau fără frâu în ele, făcând relele în public și fiind obișnuiți cu ele."
    },
    {
-    "author": "Talmudul Babilonian, Ioma, cap. 3",
-    "text": "Și din blestemul celor răi înveți binecuvântare pentru cei drepți, căci este scris: „Iar oamenii Sodomei erau răi și păcătoși față de Domnul”, și: „Domnul i-a spus lui Avram după ce Lot se despărțise de el.” Rabbi Elʿazar: Chiar și pentru un singur drept a fost creată lumea, căci s-a spus: „Și Dumnezeu a văzut că lumina este bună”, și „bun” nu este altul decât cel drept, căci s-a spus: „Spuneți despre cel drept că este bun.”",
-    "src": {
-     "slug": "talmud-yoma",
-     "spec": {
-      "num": 3,
-      "v": 11
-     }
-    }
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Iar oamenii Sodomei erau foarte răi.» Iar oamenii Sodomei erau răi față de oameni, precum este scris la Ezechiel: „și mâna săracului și a nevoiașului nu a întărit-o”."
    },
    {
     "author": "Mișna, Sanhedrin 10:3",
     "text": "Generația potopului nu are parte de lumea ce va veni și nu se ridică la judecată, căci s-a spus: (Geneza 6:3) „Duhul Meu nu va judeca în om pe vecie” — nici judecată, nici duh. Generația împrăștierii nu are parte de lumea ce va veni, căci s-a spus: (Geneza 11:8) „Și Domnul i-a împrăștiat de acolo pe fața întregului pământ” — „și Domnul i-a împrăștiat” în lumea aceasta, „și de acolo i-a împrăștiat Domnul” în lumea ce va veni. Oamenii din Sedom nu au parte de lumea ce va veni, căci s-a spus: (Geneza 13:13) „Și oamenii din Sedom erau răi și păcătoși înaintea Domnului foarte” — „răi” în lumea aceasta, „și păcătoși” în lumea ce va veni; dar se ridică la judecată. Rabbi Neḥemyah spune: nici aceștia, nici aceia nu se ridică la judecată, căci s-a spus: (Psalmul 1:5) „De aceea nu se vor ridica cei răi la judecată, nici păcătoșii în obștea celor drepți” — „de aceea nu se vor ridica cei răi la judecată”, aceasta este generația potopului; „nici păcătoșii în obștea celor drepți”, aceștia sunt oamenii din Sedom. I-au spus: nu se ridică în obștea celor drepți, dar se ridică în obștea celor răi. Iscoadele nu au parte de lumea ce va veni, căci s-a spus: (Numeri 14:37) „Și au murit oamenii care scoseseră vorbă rea despre țară, prin urgie, înaintea Domnului” — „și au murit” în lumea aceasta, „prin urgie” în lumea ce va veni. Generația pustiului nu are parte de lumea ce va veni și nu se ridică la judecată, căci s-a spus: (Numeri 14:35) „În pustiul acesta se vor sfârși și acolo vor muri”; cuvintele lui Rabbi ʿAqiva. Rabbi Eliʿezer spune: despre ei spune: (Psalmul 50:5) „Adunați-Mi pe credincioșii Mei, care au încheiat legământul Meu prin jertfă.” Obștea lui Qoraḥ nu se va ridica, căci s-a spus: (Numeri 16:33) „Și pământul i-a acoperit” — în lumea aceasta; „și au pierit din mijlocul adunării” — în lumea ce va veni; cuvintele lui Rabbi ʿAqiva. Rabbi Eliʿezer spune: despre ei spune: (1 Samuel 2:6) „Domnul omoară și dă viață, coboară în Șeʾol și ridică.” Cele zece seminții nu se vor întoarce, căci s-a spus: (Deuteronomul 29:27) „și i-a aruncat într-o altă țară, ca în ziua aceasta” — precum ziua aceasta trece și nu se întoarce, tot așa și ei merg și nu se întorc; cuvintele lui Rabbi ʿAqiva. Rabbi Eliʿezer spune: precum ziua se întunecă și se luminează, tot așa cele zece seminții: cum s-a întunecat pentru ele, așa se va lumina pentru ele."
    },
    {
-    "author": "Zohar, Leh Leha 10:22",
-    "text": "De îndată ce se despărțesc unul de altul, ce e scris: «Avram a șezut în țara Kenaan». S-a așezat neșamah în acei drepți, în așezare bună, în pace. «Și Lot a șezut în cetățile ținutului» — acel blestemat, pârâșul, merge să pârască și să se unească în locul vinovaților acolo, că e scris «și și-a întins corturile până la Sedom». Ce e scris după aceea: «și oamenii Sedomului erau răi și păcătoși Domnului foarte». Acolo se odihnește și își pune locuința între ei ca să se unească cu ei, să-i abată și să-i piardă."
+    "author": "Fericitul Ieronim, Întrebări ebraice la Facere",
+    "text": "(Versetul 13) Iar oamenii din Sodoma erau răi și păcătoși înaintea lui Dumnezeu, foarte. Această adăugire, „înaintea lui Dumnezeu”, este de prisos la tâlcuitorii Septuagintei, de vreme ce locuitorii Sodomei erau răi și păcătoși între toți oamenii. Totuși se spune că este păcătos înaintea lui Dumnezeu cel care poate părea drept între oameni, precum se arată în vestirea despre Zaharia și Elisabeta, că amândoi erau drepți înaintea lui Dumnezeu (Luca 1:6). Și în Psaltire se spune: „Nicio ființă vie nu va fi socotită dreaptă înaintea Ta.” (Ps. 142:2)"
    }
   ]
  },
@@ -2201,9 +2654,11 @@ window.CHAPTER_DATA = [
     "translit": "YHVH",
     "strong": "H3068",
     "pos": "substantiv",
-    "greek": "ὁ Θεὸς",
+    "greek": "Θεὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNUL."
+    "def_ro": "DOMNUL — Numele propriu al lui Dumnezeu (Tetragrama YHVH), redat în Biblie „DOMNUL”, cu majuscule.",
+    "greek_def_ro": "θεός (theos) — Dumnezeu.",
+    "dict_ro": "Tetragrama YHVH, Numele propriu al lui Dumnezeu, tradus „DOMNUL”: Avram chemă Numele Lui la altar (13:4), câmpia Iordanului e „ca grădina DOMNULUI” (13:10), oamenii Sodomei sunt păcătoși „față de DOMNUL” (13:13), iar El vorbește lui Avram (13:14). Septuaginta are Κύριος sau ὁ Θεός."
    },
    {
     "t": " i-a "
@@ -2217,7 +2672,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a spus."
+    "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+    "dict_ro": "Amar, „a spune”: „Avram a zis lui Lot” (13:8) deschide cererea de pace, iar „DOMNUL a zis lui Avram” (13:14) deschide făgăduința, după ce Lot s-a despărțit: cele două cuvinte stau față în față.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": " lui "
@@ -2231,7 +2688,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu (la dativ: „lui Avram”).",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 13 el este cel care alege pacea (13:8–9), apoi primește făgăduința țării (13:14–17); încheie capitolul zidind un altar la Hebron (13:18)."
    },
    {
     "t": " după ce "
@@ -2245,7 +2704,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Λωτ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Lot."
+    "def_ro": "Lot — fiul lui Haran, nepotul lui Avram; numele înseamnă „înfășurat, ascuns”.",
+    "greek_def_ro": "Λωτ (Lot) — Lot, nume propriu.",
+    "dict_ro": "Lot (Lot), „înfășurat, ascuns” (Hitchcock): nepotul lui Avram, care a plecat odată cu el din Haran (12:4); în capitolul 13 are și el turme și corturi (13:5), iar certurile păstorilor îl despart de unchiul său (13:7–11). Septuaginta scrie Λωτ."
    },
    {
     "t": " se "
@@ -2259,7 +2720,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "διαχωρισθῆναι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "se despărțise."
+    "def_ro": "a se despărți, a se împărți, a se ramifica.",
+    "greek_def_ro": "διαχωρίζω (diachorizo) — a se despărți (la infinitiv: „a se despărți”).",
+    "dict_ro": "Parad, „a se despărți”: „desparte-te de mine” (13:9), „s-au despărțit” (13:11) și „după ce s-a despărțit Lot” (13:14): verbul care la 10:5, 32 spunea împărțirea neamurilor spune aici o despărțire în pace, dar cu urmări grele."
    },
    {
     "t": " de el: „"
@@ -2273,7 +2736,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "ἀναβλέψας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ridică-ți."
+    "def_ro": "a ridica, a purta; „au ridicat” arca.",
+    "greek_def_ro": "ἀναβλέπω (anablepo) — a ridica ochii; la participiu, „privind în sus”.",
+    "dict_ro": "Nasa, „a ridica, a purta”: „țara nu-i putea purta” (13:6), Lot „și-a ridicat ochii” (13:10) și Avram „ridică-ți ochii” (13:14): același verb spune încărcătura pământului și privirea; cele două priviri, a lui Lot și a lui Avram, sunt puse față în față."
    },
    {
     "t": " așadar "
@@ -2287,7 +2752,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τοῖς ὀφθαλμοῖς σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ochii tăi."
+    "def_ro": "ochi; prin asemănare, izvor.",
+    "greek_def_ro": "ὀφθαλμός (ophthalmos) — ochi; „cu ochii tăi”.",
+    "dict_ro": "Ayin, „ochi”: „Lot și-a ridicat ochii” (13:10) și „ridică-ți ochii” (13:14): în ambele cazuri privirea precede alegerea sau făgăduința. Lot privește ce-i place; Avram este chemat de Dumnezeu să privească ce i se dă."
    },
    {
     "t": " și "
@@ -2301,7 +2768,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "ἰδὲ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "privește."
+    "def_ro": "a vedea — literal sau la figurat, în sensuri foarte variate.",
+    "dict_ro": "Raah, „a vedea”: Lot „a văzut” toată câmpia Iordanului (13:10), iar Dumnezeu îi spune lui Avram „privește” (13:14) și „țara pe care o vezi ți-o dau” (13:15): privirea lui Lot alege, privirea lui Avram primește.",
+    "greek_def_ro": "ὁράω (horao) — a vedea („privește”)."
    },
    {
     "t": " din "
@@ -2315,7 +2784,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τοῦ τόπου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "locul."
+    "def_ro": "loc — propriu-zis, locul unde stai; folosit larg pentru orice loc, dar și, la figurat, pentru o stare a trupului sau a minții.",
+    "dict_ro": "Maqom, „loc”, arată propriu-zis locul unde cineva stă, dar ajunge folosit și pentru starea trupului sau a minții. În literatura rabinică târzie, „Ha-Maqom” („Locul”) devine chiar un nume dat lui Dumnezeu — Cel care e „locul lumii”, dar pe care lumea nu-l cuprinde.",
+    "greek_def_ro": "τόπος (topos) — loc (la genitiv: „al locului”)."
    },
    {
     "t": " în care te afli: către "
@@ -2329,7 +2800,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "βορρᾶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "miazănoapte."
+    "def_ro": "nord, miazănoapte.",
+    "greek_def_ro": "βορρᾶς (borras) — vânt de nord, miazănoapte (la acuzativ).",
+    "dict_ro": "Tsafon, „nord, miazănoapte”: una dintre cele patru laturi (13:14); după lexicoane, cuvântul se leagă de „ascuns”."
    },
    {
     "t": ", către "
@@ -2343,7 +2816,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "λίβα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "miazăzi."
+    "def_ro": "miazăzi, Negheb — ținutul uscat din sudul Canaanului.",
+    "greek_def_ro": "λίψ (lips) — vânt de sud-vest, miazăzi (la acuzativ).",
+    "dict_ro": "Negheb (Negev), „uscat, sud” (Easton): ținutul din sudul Canaanului, prin care se întoarce Avram din Egipt (13:1, 3); la 13:14 cuvântul spune direcția sud, într-una din cele patru laturi pe care Avram e chemat să le privească."
    },
    {
     "t": ", către "
@@ -2357,7 +2832,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀνατολὰς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "răsărit."
+    "def_ro": "răsărit; ceea ce e dinainte, vechime.",
+    "greek_def_ro": "ἀνατολή (anatole) — răsărit (la acuzativ plural).",
+    "dict_ro": "Qedem, „răsărit”: Lot „a pornit dinspre răsărit” (13:11), adică și-a mutat tabăra spre răsărit; același cuvânt la 11:2, unde oamenii „au călătorit dinspre răsărit” spre Șinar; „răsărit” e și una dintre cele patru laturi din 13:14."
    },
    {
     "t": " și către "
@@ -2371,7 +2848,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "θάλασσαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "apus."
+    "def_ro": "mare — o întindere mare de apă; cu articol, Marea Mediterană; uneori un râu mare; prin extindere, „apus” (direcția spre mare).",
+    "greek_def_ro": "θάλασσα (thalassa) — mare, apus (la acuzativ).",
+    "dict_ro": "Yam, „mare, apus”: „apus” (13:14) fiindcă Marea Mare (Mediterana) e la apusul Canaanului; în Septuaginta, θάλασσα."
    },
    {
     "t": ","
@@ -2400,12 +2879,24 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și DOMNUL i-a spus lui Avram, după ce Lot s-a despărțit de el: Ridică-ți acum ochii și privește din locul unde ești, spre nord și spre sud și spre est și spre vest;",
   "refs": [
-   "Geneza 28:14"
+   "Geneza 28:14",
+   "Geneza 13:10",
+   "Isaia 49:18",
+   "Isaia 60:4",
+   "Deuteronomul 3:27"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«După ce Lot se despărțise.» Tot timpul cât cel rău era cu el, cuvântul divin se despărțea de el."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Domnul i-a zis lui Avram, după ce Lot se despărțise de el: „Ridică-ți, te rog, ochii și privește din locul în care ești spre nord și spre sud, spre răsărit și spre apus."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Domnul i-a zis lui Avram, după ce Lot se despărțise de el: „Ridică-ți, te rog, ochii și privește din locul în care ești, spre miazănoapte și spre miazăzi și spre răsărit și spre apus,"
    },
    {
     "author": "Sforno (cca. 1475–1550)",
@@ -2414,6 +2905,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Domnul i-a spus lui Avram.» Cât timp Lot era cu el, poate Avram credea că și Lot va avea parte în țară, căci era ruda lui și ieșise cu el, cum i-a spus: „Oare nu-i toată țara în fața ta?” Acum, după ce Lot s-a despărțit de el, i-a spus: Să nu crezi că altul va avea parte în țară, ci ție singur și seminției tale ți-o voi da; și să nu crezi că Lot și seminția lui vor avea parte împreună cu fiii tăi în țară, căci i-ai spus: „dacă o vei lua la stânga, eu o voi lua la dreapta; și dacă o vei lua la dreapta, eu o voi lua la stânga”; ci miazănoaptea și dreapta ție și seminției tale vor fi, și la fel răsăritul și apusul. Și a pus înainte miazănoaptea și miazăzi după cuvintele lui pe care i le-a spus lui Lot; căci lui Lot, pentru că este ruda ta, îi voi da de asemenea moștenire în alt loc, cum a spus: „căci copiilor lui Lot am dat Arul moștenire”."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Domnul i-a spus lui Avram după ce Lot se despărțise de el.» „Și Domnul a spus”, după ce Lot s-a despărțit de el: Nu ai cugetat bine; dacă ai fi cugetat, ți-ar fi de ajuns cu ceea ce ai împărțit cu Lot.<br><br>«După ce Lot se despărțise de el.» Ca să nu aibă Lot pretenție împotriva lui Avraam: „Eu sunt tovarășul tău și voi avea parte cu tine în țară.”"
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«După ce Lot se despărțise de el.» Pentru că i-a spus lui Lot „iată, toată țara este în fața ta”, adică: nu opresc pentru mine decât locul locuinței mele, ca omul care spune: nu am nimic al meu decât locul locuinței mele, numai atât opresc de la tine; de aceea Sfântul i-a spus: „iată, toată țara este în fața ta; tot ce vezi, ție ți-o voi da”, și să nu spui: chiar dacă este a mea, nu am nevoie decât de locul locuinței mele; toată îți este necesară, căci țărâna pământului nu va ajunge pentru a-ți număra seminția."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Domnul i-a spus etc.» Motivul pentru care nu a început să spună „și Domnul a spus lui Avram după” etc. va fi să spună: fiindcă Scriptura a spus „și Avram i-a spus lui Lot” etc. „desparte-te, rogu-te” etc. și cel rău s-a despărțit de el, Scriptura adaugă să spună că și Domnul stătea și aștepta lucrul, și îndată ce s-a despărțit cel rău, i-a vorbit și i-a arătat țara. Iar aceasta este ce i-a spus: „pe care ți-o voi arăta”, și precum am explicat-o la locul ei.<br><br>«Și privește din locul în care te afli etc.» Motivul pentru care a trebuit să spună „din locul în care te afli” este că aici i-a făcut un miracol uriaș, să poată vedea de la miazănoapte la miazăzi și de la apus la răsărit dintr-un singur loc, fără să aibă nevoie să se învârtă."
    },
    {
     "author": "Talmudul Babilonian, Ioma, cap. 3",
@@ -2425,6 +2928,21 @@ window.CHAPTER_DATA = [
       "v": 11
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "În anul acela, când Lot a fost luat rob, Domnul i-a zis lui Avram, după ce Lot se despărțise de el, în anul al patrulea al săptămânii acesteia: Ridică-ți ochii din locul unde locuiești, spre miazănoapte și spre miazăzi, și spre apus și spre răsărit.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 19
+     }
+    }
+   },
+   {
+    "author": "Fericitul Ieronim, Întrebări ebraice la Facere",
+    "text": "(Versetele 14 și 15.) Ridică-ți ochii și privește din locul în care ești spre miazănoapte, miazăzi, răsărit și apus; căci toată țara pe care o vezi o voi da ție și seminției tale. A pus cele patru laturi ale lumii: răsărit, apus, miazănoapte și miazăzi. Dar ceea ce se citește în toate Scripturile, să fie de ajuns să se spună o dată: că marea este socotită totdeauna a fi spre apus, pentru că ținutul Palestinei este așezat în așa fel încât marea se află în partea de apus."
    }
   ]
  },
@@ -2443,7 +2961,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πᾶσαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "toată."
+    "def_ro": "cum, întocmai — „potrivit cu tot ce” i-a poruncit.",
+    "dict_ro": "Kol, „tot, întreg”, unul dintre cele mai frecvente cuvinte ebraice, folosit pentru totalitate în orice context — „toate” viețuitoarele, „tot” pământul, „toată” fapta creației, subliniind universalitatea lucrării lui Dumnezeu.",
+    "greek_def_ro": "πᾶς (pas) — tot, fiecare."
    },
    {
     "t": " "
@@ -2457,7 +2977,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν γῆν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țara."
+    "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+    "greek_def_ro": "γῆ (ge) — pământ, țară.",
+    "dict_ro": "Erets, „pământ, țară”: „țara nu-i putea purta” (13:6), „canaanitul era atunci în țară” (13:7), „toată țara este înaintea ta” (13:9), țara făgăduită (13:15, 17): cuvântul trece de la loc de ceartă la dar al lui Dumnezeu."
    },
    {
     "t": " pe care o "
@@ -2471,7 +2993,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu",
     "greek": "ὁρᾷς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vezi."
+    "def_ro": "a vedea — literal sau la figurat, în sensuri foarte variate.",
+    "dict_ro": "Raah, „a vedea”: Lot „a văzut” toată câmpia Iordanului (13:10), iar Dumnezeu îi spune lui Avram „privește” (13:14) și „țara pe care o vezi ți-o dau” (13:15): privirea lui Lot alege, privirea lui Avram primește.",
+    "greek_def_ro": "ὁράω (horao) — a vedea („vezi”)."
    },
    {
     "t": ", ție ți-o voi "
@@ -2485,7 +3009,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, cu sufix",
     "greek": "δώσω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "voi da."
+    "def_ro": "a da — folosit cu sensul cel mai larg (a pune, a face, a îngădui etc.).",
+    "greek_def_ro": "δίδωμι (didomi) — a da („voi da”).",
+    "dict_ro": "Natan, „a da”: „ție îți voi da” (13:15, 17) — verbul făgăduinței, de la 12:7; Avram nu primește țara ca o moștenire de acum, ci ca o dăruire făcută lui și seminției lui."
    },
    {
     "t": " și "
@@ -2499,7 +3025,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τῷ σπέρματί σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "seminției tale."
+    "def_ro": "sămânță — literal sau, la figurat, rod, urmași, vreme de semănat.",
+    "greek_def_ro": "σπέρμα (sperma) — sămânță, urmași; „seminției tale”.",
+    "dict_ro": "Zera, „sămânță, urmași”: „seminției tale” (13:15) și „îți voi face seminția” (13:16): făgăduința merge din țară în urmași, până la mulțimea nenumărată."
    },
    {
     "t": " tale, în "
@@ -2513,7 +3041,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "αἰῶνος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "veci."
+    "def_ro": "veșnicie, timp îndelungat, veac.",
+    "greek_def_ro": "αἰών (aion) — veac, veșnicie (la genitiv: „al veacului”).",
+    "dict_ro": "Olam, „veșnicie, timp îndelungat”: „țara... o voi da ție și seminței tale până în veac” (13:15) — dăruire pe veci; Septuaginta spune ἕως τοῦ αἰῶνος."
    },
    {
     "t": "."
@@ -2545,9 +3075,19 @@ window.CHAPTER_DATA = [
    "Geneza 17:8",
    "Geneza 12:7",
    "Geneza 15:18",
-   "Fapte 7:5"
+   "Fapte 7:5",
+   "Geneza 17:7,8",
+   "Geneza 18:18"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Căci toată țara pe care o vezi ți-o voi da ție și urmașilor tăi, pe veci."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "căci toată țara pe care o vezi ți-o voi da ție și fiilor tăi pe veci."
+   },
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Ție ți-o voi da.» Prin cuvânt; și tot așa „și să le pună pe capul țapului”."
@@ -2555,6 +3095,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Căci toată țara.» Deși el nu o vedea toată, i-a spus să privească spre cele patru vânturi ale ei; și, așa cum este ea toată, cu hotarele ei, așa i-o va da; și la fel i-a spus lui Moise: „și privește țara”, adică o parte din ea, și iată, este ca și cum ar fi văzut-o toată; și la fel „pe care o vezi”: că vezi o parte din ea, ție ți-o voi da toată; adică ție ți-o dau de acum, căci este un dar pentru tine; deși este în stăpânirea neamurilor, este a ta, și de la tine o vor moșteni fiii tăi și vor alunga neamurile din ea.<br><br>«În veci.» Căci, deși vor fi exilați din ea, în cele din urmă se vor întoarce la ea."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Căci toată țara pe care o vezi.» „Căci toată țara pe care tu o vezi” – chiar și câmpia Iordanului pe care ai dat-o lui Lot, ție ți-o voi da și seminției tale."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Căci toată țara etc.» Iată, se știe că măsura simțului vederii este limitată în om la ceea ce poate atinge la lumina soarelui, iar aici Domnul i-a făcut un miracol că s-au apropiat marginile țării și el a văzut totul, și prin aceasta a luat în stăpânire toată țara, căci nu ai o luare în stăpânire mai mare decât aceasta, ca stânca să fie mutată din locul ei ca să se apropie înaintea stăpânului țării. Iar acest lucru să nu-ți fie îndepărtat în gând, căci am aflat că țara a sărit către slujitorul lui și s-a împăturit sub fiii lui."
    },
    {
     "author": "Zohar, Vaiera 11:5",
@@ -2577,7 +3125,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ποιήσω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "voi face."
+    "def_ro": "a pune, a așeza, a face.",
+    "greek_def_ro": "ποιέω (poieo) — a face („voi face”).",
+    "dict_ro": "Sim, „a pune, a face”: „îți voi face seminția” (13:16) e verbul așezării într-o stare: Dumnezeu va „pune” seminția lui Avram ca țărâna; Septuaginta spune ποιήσω."
    },
    {
     "t": " "
@@ -2591,7 +3141,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὸ σπέρμα σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "seminția ta."
+    "def_ro": "sămânță — literal sau, la figurat, rod, urmași, vreme de semănat.",
+    "greek_def_ro": "σπέρμα (sperma) — sămânță, urmași; „seminția ta”.",
+    "dict_ro": "Zera, „sămânță, urmași”: „seminției tale” (13:15) și „îți voi face seminția” (13:16): făgăduința merge din țară în urmași, până la mulțimea nenumărată."
    },
    {
     "t": " ca "
@@ -2605,7 +3157,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὡς τὴν ἄμμον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țărâna."
+    "def_ro": "țărână, pulbere, praf.",
+    "greek_def_ro": "ἄμμος (ammos) — nisip; „ca nisipul”.",
+    "dict_ro": "Afar, „țărână, pulbere”: seminția lui Avram va fi „ca țărâna pământului” (13:16); imaginea revine la 28:14, iar la 15:5 va fi ca stelele cerului."
    },
    {
     "t": " "
@@ -2619,7 +3173,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῆς γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământului."
+    "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+    "greek_def_ro": "γῆ (ge) — pământ, țară.",
+    "dict_ro": "Erets, „pământ, țară”: „țara nu-i putea purta” (13:6), „canaanitul era atunci în țară” (13:7), „toată țara este înaintea ta” (13:9), țara făgăduită (13:15, 17): cuvântul trece de la loc de ceartă la dar al lui Dumnezeu."
    },
    {
     "t": ", astfel încât dacă va putea "
@@ -2633,7 +3189,9 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "ἐξαριθμῆσαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "să numere."
+    "def_ro": "a număra, a socoti.",
+    "greek_def_ro": "ἐξαριθμέω (exarithmeo) — a număra („a număra”).",
+    "dict_ro": "Manah, „a număra, a socoti”: „dacă poate cineva să numere țărâna, și seminția ta va fi numărată” (13:16) — mulțime nenumărată prin comparație cu ceva de nenumărat."
    },
    {
     "t": " cineva "
@@ -2647,7 +3205,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν ἄμμον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țărâna."
+    "def_ro": "țărână, pulbere, praf.",
+    "greek_def_ro": "ἄμμος (ammos) — nisip (la acuzativ).",
+    "dict_ro": "Afar, „țărână, pulbere”: seminția lui Avram va fi „ca țărâna pământului” (13:16); imaginea revine la 28:14, iar la 15:5 va fi ca stelele cerului."
    },
    {
     "t": " pământului, și "
@@ -2661,7 +3221,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὸ σπέρμα σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "seminția ta."
+    "def_ro": "sămânță — literal sau, la figurat, rod, urmași, vreme de semănat.",
+    "greek_def_ro": "σπέρμα (sperma) — sămânță, urmași; „seminția ta”.",
+    "dict_ro": "Zera, „sămânță, urmași”: „seminției tale” (13:15) și „îți voi face seminția” (13:16): făgăduința merge din țară în urmași, până la mulțimea nenumărată."
    },
    {
     "t": " ta va putea fi "
@@ -2675,7 +3237,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξαριθμηθήσεται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "va putea fi numărată."
+    "def_ro": "a număra, a socoti.",
+    "greek_def_ro": "ἐξαριθμέω (exarithmeo) — a număra; la pasiv, „va fi numărat”.",
+    "dict_ro": "Manah, „a număra, a socoti”: „dacă poate cineva să numere țărâna, și seminția ta va fi numărată” (13:16) — mulțime nenumărată prin comparație cu ceva de nenumărat."
    },
    {
     "t": "."
@@ -2707,7 +3271,9 @@ window.CHAPTER_DATA = [
    "Geneza 22:17",
    "Geneza 28:14",
    "Romani 4:16-18",
-   "Geneza 15:5"
+   "Geneza 15:5",
+   "Geneza 12:2,3",
+   "Geneza 17:6,16,20"
   ],
   "commentaries": [
    {
@@ -2715,8 +3281,31 @@ window.CHAPTER_DATA = [
     "text": "«Astfel încât dacă va putea număra cineva.» Așa cum nu este cu putință ca țărâna să fie numărată, tot așa seminția ta nu va fi numărată."
    },
    {
+    "author": "Targum Onkelos",
+    "text": "Și voi face pe urmașii tăi mulți ca țărâna pământului; așa cum nu este cu putință omului să numere țărâna pământului, tot așa nici urmașii tăi nu vor putea fi numărați."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și îi voi face pe fiii tăi mulți ca țărâna pământului: așa cum este cu putință ca un om să numere țărâna pământului, tot așa vor putea fi numărați și fiii tăi."
+   },
+   {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Îți voi face seminția ca țărâna pământului.» Pe calea exagerării; și la fel „ca nisipul mării”, „ca stelele cerului”. Iar în midraș: i-a asemănat cu țărâna și i-a asemănat cu stelele cerului: în vremea în care nu fac voia Celui Atotprezent, vor fi ca țărâna, spre călcare în picioare; iar în vremea în care fac voia Celui Atotprezent, ca stelele, spre înălțime.<br><br>«Și seminția ta va putea fi numărată.» Dacă va fi aceasta, va fi și aceea, iar dacă nu, nu; adică: așa cum aceasta nu este cu putință, tot așa și aceea; și la fel „Își poate schimba etiopianul pielea...?” „... și voi ați putea face binele”."
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Căci tot ținutul pe care-l vezi ți-l voi da ție și seminței tale pe veci, și voi face sămânța ta ca nisipul mării: de ar putea un om să numere pulberea pământului, totuși sămânța ta nu se va număra.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 20
+     }
+    }
+   },
+   {
+    "author": "Ioan Gură de Aur, Omilii la Facere",
+    "text": "Apoi, ca nu cumva Avraam să se uite numai la starea lui, la vârsta înaintată și la sterilitatea Sarei, și astfel să-și piardă încrederea în făgăduință, în loc să se încreadă în puterea Celui ce făgăduia, El a spus: „Voi face seminția ta numeroasă ca toate firele de nisip din lume. Dacă poate cineva să numere firele de nisip din lume, și seminția ta va fi numărată.” Fără îndoială, făgăduința depășea firea omenească. Nu numai că făgăduia să-l facă tată, în ciuda atâtor piedici, ci și să întindă darul până la o asemenea mulțime încât să fie asemănată cu toate firele de nisip din lume, iar mulțimea să fie fără număr, voind să arate prin comparație întinderea acestei sporiri minunate."
    }
   ]
  },
@@ -2732,7 +3321,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "ἀναστὰς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ridică-te."
+    "def_ro": "a se ridica, a se scula; a porni, a se ridica împotriva cuiva.",
+    "greek_def_ro": "ἀνίστημι (anistemi) — a se ridica; la participiu, „ridicându-te”.",
+    "dict_ro": "Qum, „a se scula, a se ridica”: Dumnezeu îi poruncește lui Avram „ridică-te, cutreieră țara” (13:17); ordinea poruncilor merge de la privit (13:14) la mers (13:17) și, în fine, la locuit (13:18)."
    },
    {
     "t": ", "
@@ -2746,7 +3337,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "διόδευσον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cutreieră."
+    "def_ro": "a merge, a umbla; despre apă, a curge.",
+    "greek_def_ro": "διοδεύω (diodeuo) — a străbate („străbate”).",
+    "dict_ro": "Halak, „a merge”: Avram „a mers” pe aceleași drumuri, înapoi spre Betel (13:3); la 13:5 Lot este cel „care mergea cu Avram”, iar la 13:17 Dumnezeu îi poruncește lui Avram: „cutreieră țara”."
    },
    {
     "t": " prin "
@@ -2760,7 +3353,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν γῆν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țară."
+    "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+    "greek_def_ro": "γῆ (ge) — pământ, țară.",
+    "dict_ro": "Erets, „pământ, țară”: „țara nu-i putea purta” (13:6), „canaanitul era atunci în țară” (13:7), „toată țara este înaintea ta” (13:9), țara făgăduită (13:15, 17): cuvântul trece de la loc de ceartă la dar al lui Dumnezeu."
    },
    {
     "t": " în "
@@ -2774,7 +3369,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὸ μῆκος αὐτῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lungul ei."
+    "def_ro": "lungime, întindere în lung.",
+    "dict_ro": "Orekh, „lungime”: „cutreieră țara în lung” (13:17) — Avram e chemat să străbată țara pe lungime și pe lățime, ca într-un act de luare în posesie după datină; Septuaginta spune τὸ μῆκος.",
+    "greek_def_ro": "μῆκος (mekos) — lungime; „lungimea ei”."
    },
    {
     "t": " și în "
@@ -2788,7 +3385,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὸ πλάτος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "latul."
+    "def_ro": "lățime, întindere în lat.",
+    "dict_ro": "Rochav, „lățime”: „în lat” (13:17) completează „în lung”: porunca de a cutreiera țara pe toate laturile, în vederea dăruirii ei.",
+    "greek_def_ro": "πλάτος (platos) — lățime."
    },
    {
     "t": " ei, căci ție ți o voi "
@@ -2800,9 +3399,11 @@ window.CHAPTER_DATA = [
     "translit": "etnenah",
     "strong": "H5414",
     "pos": "verb, cu sufix",
-    "greek": "δώσω σοι",
+    "greek": "δώσω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "o voi da ție."
+    "def_ro": "a da — folosit cu sensul cel mai larg (a pune, a face, a îngădui etc.).",
+    "greek_def_ro": "δίδωμι (didomi) — a da („voi da”).",
+    "dict_ro": "Natan, „a da”: „ție îți voi da” (13:15, 17) — verbul făgăduinței, de la 12:7; Avram nu primește țara ca o moștenire de acum, ci ca o dăruire făcută lui și seminției lui."
    },
    {
     "t": ".”"
@@ -2836,6 +3437,14 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Targum Onkelos",
+    "text": "Ridică-te, umblă prin țară în lungul și în latul ei, căci ție ți-o voi da.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Ridică-te, umblă prin țară și ia-o în stăpânire, în lungul și în latul ei, căci ție ți-o voi da.”"
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«Ridică-te, cutreieră prin țară în lungul și în latul ei» Se poate că aceasta este o îngăduință, după voia lui; i-a spus: oriunde vei voi să mergi în țară, du-te, căci Eu voi fi cu tine și te voi păzi de răul neamurilor, „căci ție ți-o voi da”, adică a ta va fi. Iar dacă este o poruncă, să meargă prin ea, în toată lungimea și lățimea ei, ca să ia în stăpânire darul lui, cum am explicat, nu i s-a poruncit să facă aceasta îndată; și iată, a făcut așa, căci acum era la răsărit, iar după aceea a mers în țara filistenilor, care este la apus; și iată, a împlinit porunca în viața lui. Iar sensul lui „ție… și seminției tale” este: ca să iei în stăpânire darul de acum, ca s-o lași moștenire seminției tale, cum au spus învățătorii noștri: este o moștenire pentru ei de la părinții lor. Iar pe calea sensului simplu, se poate că va fi stăpân peste ea și prinț al lui Dumnezeu în mijlocul ei, în orice loc va merge în țara aceea."
    },
@@ -2846,6 +3455,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«În lungul ... ei»: de la răsărit la apus. «Și în latul ei»: de la miazănoapte la miazăzi."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Ridică-te, cutreieră prin țară.» Ca să iei în stăpânire ceva din ea."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Ridică-te, cutreieră prin țară etc.» În capitolul „Ha-mokher et ha-perot”, iar acesta este textul lor: s-a predat: cine a umblat în ea de-a lungul și de-a latul a dobândit în ea locul umblării lui, cuvintele lui Rabbi Eliezer, iar Înțelepții spun: nu a dobândit până nu va lua în stăpânire. Care este motivul lui Rabbi Eliezer? Fiindcă este scris „ridică-te, cutreieră” etc. „în lungul ei” etc., iar rabanii: acolo din pricina iubirii lui Avraam etc., ca să-i fie ușor lui să cucerească înaintea fiilor lui – până aici. Iată, după socoteala lui Rabbi Eliezer, deși a luat în stăpânire prin smulgerea țării și sprijinirea ei înaintea lui, cum am explicat la versetul „căci toată țara” etc., cu toate acestea din ceea ce a spus Scriptura „ridică-te, cutreieră” etc., a venit să învețe Tora că umblarea este luare în stăpânire. Iar după socoteala Înțelepților, că din pricina iubirii etc., luarea în stăpânire a țării în folosul lui Avraam a dobândit-o din dreptul Scripturii de mai sus, și nu se învață din acest verset, căci iubirea lui Avraam este scopul."
    }
   ]
  },
@@ -2864,7 +3481,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 13 el este cel care alege pacea (13:8–9), apoi primește făgăduința țării (13:14–17); încheie capitolul zidind un altar la Hebron (13:18)."
    },
    {
     "t": " și a "
@@ -2878,21 +3497,15 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀποσκηνώσας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "și-a întins."
+    "def_ro": "a-și întinde cortul, a locui în cort.",
+    "greek_def_ro": "ἀποσκηνόω (aposkenoo) — a-și muta cortul („mutându-și cortul”).",
+    "dict_ro": "Ahal, „a-și întinde cortul”: Lot „și-a întins cortul până la Sodoma” (13:12) — treptat, de la câmpie spre cetate; Avram „și-a întins cortul” (13:18) la stejarii din Mamre. Același verb, două direcții de drum."
    },
    {
     "t": " "
    },
    {
-    "t": "cortul",
-    "w": "cortul",
-    "heb": "אֹהֶל",
-    "translit": "ohel",
-    "strong": "H168",
-    "pos": "substantiv",
-    "greek": "τὴν σκηνὴν",
-    "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cortul."
+    "t": "cortul"
    },
    {
     "t": " și a "
@@ -2904,9 +3517,11 @@ window.CHAPTER_DATA = [
     "translit": "vayavo",
     "strong": "H935",
     "pos": "verb",
-    "greek": "ᾤκησεν",
+    "greek": "ἐλθὼν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a venit."
+    "def_ro": "a veni, a intra; la forma cauzativă, a aduce.",
+    "greek_def_ro": "ἔρχομαι (erchomai) — a veni; la participiu, „venind”.",
+    "dict_ro": "Bo, „a veni, a intra”: Avram „a venit” să locuiască la stejarii din Mamre (13:18), după ce a cutreierat țara cum i s-a poruncit; verbul închide drumul început la 12:5."
    },
    {
     "t": " să locuiască în "
@@ -2918,9 +3533,12 @@ window.CHAPTER_DATA = [
     "translit": "be'elonei",
     "strong": "H436",
     "pos": "substantiv, stare construită",
-    "greek": "πρὸς τῇ δρυὶ",
+    "greek": "παρὰ τὴν δρῦν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "câmpiile."
+    "def_ro": "Elon More — „stejarul învățătorului”.",
+    "greek_def_ro": "δρῦς (drys) — stejar; „lângă stejarul”.",
+    "dict_ro": "Elon, „stejar, terebint”: „stejarii lui Mamre” (13:18) sunt copaci mari care dau umbră; Avram își întinde acolo cortul. Septuaginta spune ἡ δρῦς, „stejarul”.",
+    "diff_ro": "Ebraica spune „stejarii (elone) lui Mamre”, la plural; Septuaginta spune „stejarul lui Mamre” (τῇ δρυὶ τῇ Μαμβρη), la singular."
    },
    {
     "t": " lui "
@@ -2932,9 +3550,11 @@ window.CHAPTER_DATA = [
     "translit": "Mamre",
     "strong": "H4471",
     "pos": "nume propriu",
-    "greek": "τῇ Μαμβρη",
+    "greek": "Μαμβρη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Mamre."
+    "def_ro": "Mamre — loc de lângă Hebron cu stejari mari; și numele unui amorit prieten al lui Avram.",
+    "greek_def_ro": "Μαμβρη (Mambre) — Mamre, nume propriu.",
+    "dict_ro": "Mamre (Mamre), „tărie” sau „rebel” (Easton: „bărbăție”): loc de lângă Hebron, numit așa după un amorit prieten al lui Avram (14:13, 24); „stejarii lui Mamre” (13:18) vor fi locul în care Avram va primi pe cei trei oaspeți (18:1)."
    },
    {
     "t": " care sunt în "
@@ -2948,7 +3568,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χεβρων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Hebron."
+    "def_ro": "Hebron — cetate veche din munții lui Iuda, la vreo douăzeci de mile sud de Ierusalim.",
+    "greek_def_ro": "Χεβρων (Chebron) — Hebron, nume propriu.",
+    "dict_ro": "Hebron (Chevron), „comunitate, alianță” (Easton): cetate din munții lui Iuda, la vreo douăzeci de mile sud de Ierusalim, zidită „cu șapte ani înainte de Țoan din Egipt” (Numeri 13:22); Avram își întinde cortul lângă ea (13:18), iar acolo va fi îngropată Sara (23:19)."
    },
    {
     "t": " și a "
@@ -2962,7 +3584,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ᾠκοδόμησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a construit."
+    "def_ro": "a zidi, a construi — aici, a zidi un altar.",
+    "dict_ro": "Banah, „a zidi”: Avram „a zidit un altar” (13:18) la stejarii din Mamre, ca la Sihem și Betel (12:7–8); altarul e semnul recunoștinței pentru făgăduință.",
+    "greek_def_ro": "οἰκοδομέω (oikodomeo) — a zidi."
    },
    {
     "t": " acolo un "
@@ -2976,7 +3600,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "θυσιαστήριον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "altar."
+    "def_ro": "altar — loc de jertfă, de la „a junghia, a jertfi”.",
+    "greek_def_ro": "θυσιαστήριον (thysiasterion) — altar.",
+    "dict_ro": "Mizbeach, „altar” (Easton): Avram se întoarce „la locul altarului pe care îl făcuse la început” (13:4) și zidește unul nou la Hebron (13:18); altarele sunt popasurile credinței lui."
    },
    {
     "t": " DOMNULUI."
@@ -3008,12 +3634,22 @@ window.CHAPTER_DATA = [
    "Geneza 23:2,19",
    "Geneza 18:1",
    "Geneza 14:13",
-   "Geneza 35:27"
+   "Geneza 35:27",
+   "Geneza 23:2",
+   "Geneza 37:14"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Mamre.» Este numele unui om."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avram și-a întins cortul și a venit și a locuit în câmpiile lui Mamre, care sunt la Hebron; și a zidit acolo un altar înaintea Domnului."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Avram și-a întins cortul, tayyirin imur (după altă versiune: mișkoni le-tiri ve-imri), și a venit și s-a așezat în Ḥezu Mamre, care este în Hebron, și a construit acolo un altar înaintea Domnului."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -3026,6 +3662,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și Avram și-a întins cortul.» Și-a mutat de acolo cortul și și-a întins cortul din loc în loc până ce a venit și a locuit în câmpiile lui Mamre; și aceasta nu este Elon More, pe care l-a pomenit mai sus, căci acela era alt șes, iar numele stăpânului locului era More; iar acestea erau două câmpii sau mai multe, ale unui om numit Mamre, fratele lui Eșcol și fratele lui Aner.<br><br>«Care sunt în Hebron»: în hotarul Hebronului.<br><br>«Și a construit acolo un altar Domnului.» Căci chema acolo oamenii la Numele Domnului, la locul altarului pe care l-a construit; și în orice loc în care își statornicea locul, construia un altar și chema Numele Domnului."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Avram și-a întins cortul și a venit să locuiască.» Ar fi trebuit să scrie „Și a venit Avram și și-a întins cortul și s-a așezat”; ci „wa-yeʾehal” de aici nu este limbaj de ridicare de cort, ci limbaj de desfacere de cort. Sunt multe cuvinte în limba sfântă scrise într-un singur înțeles, dar care au două explicații opuse una alteia; de exemplu „și să ridice cenușa” și „să-i faci oalele pentru cenușă” și multe altele. Tot așa și aici „wa-yeʾehal”: „idișa apobolina” în laʿaz, adică: și-a ridicat cortul din locuința lui dintâi care era în țara Canaanului și l-a înfipt la Elonei Mamre."
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
