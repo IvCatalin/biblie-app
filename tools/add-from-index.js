@@ -63,7 +63,7 @@ for (const N of chapters) {
     const hasMishna = x.commentaries.some(c => /^Mi[șs]na/.test(c.author || ''));
     const hasKab = x.commentaries.some(c => c.src && /^kab-/.test(c.src.slug || '') || /^(Zohar|Sefer HaBahir)/.test(c.author || ''));
     const picks = []; const per = {}; cs.forEach(c => { c.key = c.slug + c.cap + ':' + c.v; });
-    for (let i = cs.length - 1; i >= 0; i--) if (usedKeys.has(cs[i].key)) cs.splice(i, 1);
+    if (!RELAXED) for (let i = cs.length - 1; i >= 0; i--) if (usedKeys.has(cs[i].key)) cs.splice(i, 1);
     const bykind = { talmud: [], minor: [], mishna: [], jub: [], other: [] };
     cs.forEach(c => bykind[kind(c.slug)].push(c));
     const sortc = (a, b) => b.r - a.r || plain(a.u.t).length - plain(b.u.t).length; // relevanță, apoi unitatea mai scurtă (mai țintită)

@@ -937,6 +937,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Origen, Fragmente la Facere",
     "text": "Expresia „nu se atinsese” este apăsată, ca și spusa „bine este omului să nu se atingă de femeie”, care înseamnă: chiar în afara unirii trupești, în niciun alt chip, nici să se uite la femeie, nici să se atingă de ea cu patimă. Dumnezeu, desigur, nu i-a îngăduit lui Abimeleh să se atingă de Sara, deși poate și pentru că el avea desăvârșită stăpânire de sine în toate. O asemenea însușire este cu adevărat un dar dumnezeiesc."
+   },
+   {
+    "author": "Cartea Dreptului 20 — comparație",
+    "text": "Acum prin urmare, rege suveran, află ce s-a petrecut noaptea trecută întregului ținut, căci a fost o foarte mare consternare și mare durere și lamentație, iar noi știm că a fost din pricina femeii pe care tu ai luat-o.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 20,
+      "v": 22
+     }
+    }
    }
   ]
  },
@@ -1413,6 +1424,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Zohar, Vaikra 17:1",
     "text": "Rabbi Aḥa a deschis (Geneza 20:3): «Și a venit Elohim (Dumnezeu) la Avimelekh în vis noaptea», și este scris: «Și Elohim i-a zis în vis: Și Eu știu că în curăția inimii tale ai făcut aceasta.» Acest «Și a venit Elohim la Avimelekh» — prin ce se deosebesc popoarele lumii, că «a venit Elohim», iar la Israel nu? (Ci aceasta este taina «altor dumnezei» (elohim aḥerim); și trebuie să știi că Numele Celui Sfânt, binecuvântat fie El, (Isaia 57:15) «Cel înalt și înălțat, care locuiește în veșnicie, și Sfânt este Numele Lui», și El singur este Rege peste tot ce se află, fie sus, fie jos. Și Palatul Lui cel sfânt este întocmit la mijloc, și împrejurul lui sunt șaptezeci de cununi, și din ele s-au tras șaptezeci de căpetenii și au fost rânduite peste cele șaptezeci de popoare ale lumii, ca fiecare să stăpânească peste poporul său și peste țara sa. Iar Cel Sfânt, binecuvântat fie El, a dat lui Israel taina Numelui Său numai lor, și El stăpânește peste Israel și peste Ierusalim, după cum este scris (Daniel 9:19): «Căci Numele Tău este chemat peste cetatea Ta și peste poporul Tău.» Și niciun alt popor nu are parte de Cel Sfânt, binecuvântat fie El, precum este scris (Deuteronomul 24): «Și vor vedea toate popoarele pământului că Numele lui YHVH (Domnul) este chemat peste tine.» Și este scris (Mica 4:5): «Căci toate popoarele umblă fiecare în numele dumnezeului său» etc. Și este scris (Deuteronomul 32): «Căci partea lui YHVH este poporul Său» etc.) Ci așa am învățat: orice «Elohim» de aici era acea putere mare rânduită peste ei; asemenea acesta: «Și a venit Elohim la Bilʿam noaptea» — acea putere care era rânduită peste el."
+   },
+   {
+    "author": "Cartea Dreptului 20 — comparație",
+    "text": "Și Abimelec le-a spus lor, ce este această lucrare pe care voi ați făcut-o spunând că sunteți frate și soră, iar eu am luat-o pe femeia aceasta să îmi fie nevastă?",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 20,
+      "v": 24
+     }
+    }
    }
   ]
  },

@@ -709,6 +709,17 @@ window.CHAPTER_DATA = [
       "v": 3
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și după împlinirea celor șapte ani, pe care i-a împlinit acolo, șapte ani de-a binelea, în luna a doua, în ziua a șaptesprezecea, a venit șarpele și s-a apropiat de femeie, și șarpele a zis femeii: Oare a poruncit Dumnezeu, zicând: Să nu mâncați din tot pomul grădinii?",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 17
+     }
+    }
    }
   ]
  },
@@ -1144,6 +1155,17 @@ window.CHAPTER_DATA = [
       "v": 1
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și ea i-a zis: Din tot rodul pomilor grădinii ne-a zis Dumnezeu: Mâncați; dar din rodul pomului care este în mijlocul grădinii ne-a zis Dumnezeu: Să nu mâncați din el, nici să vă atingeți de el, ca nu cumva să muriți.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 18
+     }
+    }
    }
   ]
  },
@@ -1376,6 +1398,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 18,
       "v": 3
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și șarpele a zis femeii: Nu veți muri nicidecum; căci Dumnezeu știe că în ziua în care veți mânca din el vi se vor deschide ochii, și veți fi ca dumnezeii, și veți cunoaște binele și răul.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 19
      }
     }
    }
@@ -2909,6 +2942,17 @@ window.CHAPTER_DATA = [
     }
    },
    {
+    "author": "Sefer HaBahir, par. 200",
+    "text": "L-au întrebat ucenicii săi: spune-ne întâmplarea, cum a fost. Le-a zis: Samael cel rău s-a legat cu toate oștirile de sus împotriva Stăpânului său, pentru că a zis Sfântul, binecuvântat fie El, «și stăpâniți peste peștele mării și peste pasărea cerurilor». A zis: cum vom putea să-l facem să păcătuiască și să-l alungăm dinaintea Lui? A coborât cu toate oștirile sale și a căutat pe pământ un tovarăș ca el, și a găsit șarpele; și avea chip de cămilă, și a călărit pe el, și s-a dus la femeie. I-a zis (Facerea 3:1) «Chiar că a zis Dumnezeu: din tot pomul grădinii» — dar voi cere mai mult și voi adăuga, ca ea să scadă. A zis: nu ne-a oprit decât de la rodul pomului care e în mijlocul grădinii; a zis Dumnezeu: «să nu mâncați din el și să nu vă atingeți de el, ca nu cumva să muriți». Și a adăugat două lucruri: a zis «și din rodul pomului care e în mijlocul grădinii», și nu s-a zis decât «și din pomul cunoștinței»; și a zis «să nu vă atingeți de el, ca nu cumva să muriți». Ce a făcut Samael cel rău? S-a dus și s-a atins de pom; și pomul striga și zicea: răule, nu te atinge de el, după cum este zis (Psalmi 36:12) «Să nu vină asupra mea picior de mândrie, și mâna celor răi să nu mă clatine»; acolo au căzut lucrătorii fărădelegii, au fost împinși și n-au putut să se ridice. S-a dus și a zis femeii: iată, m-am atins de pom și n-am murit; tot tu atinge-te de el și nu vei muri. S-a dus femeia și s-a atins de pom, și a văzut pe îngerul morții care venea împotriva ei. A zis: vai mie, acum mor, și Sfântul, binecuvântat fie El, face o altă femeie și o dă lui Adam; ci iată, îl voi pricinui să mănânce cu mine: dacă vom muri, vom muri amândoi, și dacă vom trăi, vom trăi amândoi. Și a luat și a mâncat din roadele pomului, și a dat și bărbatului ei. I s-au deschis ochii și i s-au tocit dinții. I-a zis: ce e aceasta ce m-ai hrănit, că mi s-au tocit dinții? Tot astfel s-au tocit dinții tuturor generațiilor. A șezut la judecată adevărată, după cum este zis (Psalmi 9:5) «Judecător drept». L-a chemat pe Adam, îi zice: de ce ai fugit dinaintea Mea? I-a zis: «Glasul Tău l-am auzit în grădină, și mi-au tremurat oasele, și m-am temut, căci sunt gol, și m-am ascuns» (Facerea 3:10) — căci sunt gol de faptele mele, căci sunt gol de porunca mea, căci sunt gol de lucrările mele, după cum este zis (acolo) «căci sunt gol și m-am ascuns». Care era veșmântul lui Adam? Piele de unghie. De vreme ce a mâncat din roadele pomului, a dezbrăcat de pe el pielea de unghie; s-a văzut gol, după cum este zis (acolo 11) «Cine ți-a spus că ești gol?» A zis Adam înaintea Sfântului, binecuvântat fie El: Stăpâne al tuturor lumilor, când eram singur, oare am păcătuit față de Tine? Ci femeia pe care ai adus-o lângă mine, ea m-a abătut de la vorbele Tale, după cum este zis (acolo 12) «femeia pe care mi-ai dat-o cu mine». I-a zis Sfântul, binecuvântat fie El: nu ți-e de ajuns că ai păcătuit, ci l-ai făcut pe Adam să păcătuiască. A zis înaintea Lui: Stăpâne al tuturor lumilor, șarpele m-a ațâțat să păcătuiesc înaintea Ta. A adus pe toți trei și a hotărât asupra lor judecată de nouă blesteme și moarte; și l-a doborât pe Samael cel rău și ceata lui din locul său sfânt, din ceruri; și a tăiat picioarele șarpelui și l-a blestemat dintre tot animalul câmpului și dintre tot dobitocul, și a poruncit asupra lui să-și dezbrace pielea după șapte ani; și Samael a fost pedepsit, că a fost făcut căpetenie al lui Esav cel rău. Spre viitor, când Sfântul, binecuvântat fie El, va smulge împărăția Edomului, degrabă în zilele noastre, îl va smeri întâi, după cum este zis (Isaia 24:21) «Va cerceta Domnul oștirea înălțimii în înălțime». Și zicerea și moartea și pedeapsa — tot aceasta pentru că a adăugat asupra poruncii Sfântului, binecuvântat fie El; și asupra acesteia s-a zis: oricine adaugă, scade. Și Numele să ne lumineze ochii în lumina Torei Sale, și să pună în inima noastră frica de El, și să ne învrednicească de întâmpinarea Lui, Care inimile le luminează, și inima Binah o trezește, și ochii cu strălucire strălucesc.",
+    "src": {
+     "slug": "kab-sefer-habahir",
+     "spec": {
+      "num": 1,
+      "v": 200
+     }
+    }
+   },
+   {
     "author": "Efrem Sirul, Comentariu la Facere 2.27.1-2",
     "text": "În loc să mărturisească ce făcuse, ceea ce l-ar fi ajutat, a istorisit ce i se făcuse lui, ceea ce nu l-a ajutat deloc. Adam, din nou, n-a mărturisit greșeala lui și a dat vina pe femeie."
    },
@@ -3355,6 +3399,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 21,
       "v": 1
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Moise 23 — comparație",
+    "text": "Dumnezeu îi zice: Cine ți-a arătat că ești gol, dacă n-ai părăsit porunca Mea, pe care ți-am dat-o s-o ții?",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 23,
+      "v": 3
      }
     }
    }
@@ -5156,6 +5211,28 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Apocalipsa lui Moise 24 — comparație",
+    "text": "Dumnezeu îi zice lui Adam: De vreme ce ai nesocotit porunca Mea și ai ascultat de soția ta, blestemat este pământul în ostenelile tale.",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 24,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și lui Adam i-a zis: Pentru că ai ascultat de glasul soției tale, și ai mâncat din pomul din care ți-am poruncit să nu mănânci, blestemat să fie pământul din pricina ta: spini și pălămidă îți va odrăsli, și îți vei mânca pâinea în sudoarea feței tale, până te vei întoarce în pământul din care ai fost luat; căci pământ ești, și în pământ te vei întoarce.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 25
+     }
+    }
    }
   ]
  },
@@ -5413,6 +5490,28 @@ window.CHAPTER_DATA = [
       "v": 14
      }
     }
+   },
+   {
+    "author": "Apocalipsa lui Moise 24 — comparație",
+    "text": "Îl vei lucra și nu-și va da puterea: spini și pălămidă vor răsări pentru tine, și în sudoarea feței tale îți vei mânca pâinea.",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 24,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și lui Adam i-a zis: Pentru că ai ascultat de glasul soției tale, și ai mâncat din pomul din care ți-am poruncit să nu mănânci, blestemat să fie pământul din pricina ta: spini și pălămidă îți va odrăsli, și îți vei mânca pâinea în sudoarea feței tale, până te vei întoarce în pământul din care ai fost luat; căci pământ ești, și în pământ te vei întoarce.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 25
+     }
+    }
    }
   ],
   "textCompare": [
@@ -5631,6 +5730,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Priviți precizia Sfintei Scripturi, cum nu trece cu vederea nici acest amănunt, ci ne învață că Adam i-a pus nume și soției sale. «Și-a numit soția Eva, care înseamnă viață», zice textul, «fiindcă ea a fost mama tuturor celor vii» — adică ea e izvorul tuturor celor ce vor veni din ea, rădăcina și temelia neamului viitor."
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și lui Adam i-a zis: Pentru că ai ascultat de glasul soției tale, și ai mâncat din pomul din care ți-am poruncit să nu mănânci, blestemat să fie pământul din pricina ta: spini și pălămidă îți va odrăsli, și îți vei mânca pâinea în sudoarea feței tale, până te vei întoarce în pământul din care ai fost luat; căci pământ ești, și în pământ te vei întoarce.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 25
+     }
+    }
    }
   ],
   "textCompare": [
@@ -6122,6 +6232,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Gill, Expunerea întregii Biblii",
     "text": "Propune, dimpotrivă, o citire serioasă, nu ironică: versetul ar putea descrie starea trecută a omului („omul era ca unul dintre Noi”) — chip al lui Dumnezeu, cap peste toată creația — spre a arăta, prin contrast, cât de mult a pierdut prin păcat."
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și le-a făcut haine de piele, și i-a îmbrăcat, și i-a scos din Grădina Edenului.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 26
+     }
+    }
    }
   ],
   "textCompare": [
@@ -6657,6 +6778,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 18,
       "v": 10
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Iar el a lucrat pământul precum fusese învățat în Grădina Edenului.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 35
      }
     }
    }

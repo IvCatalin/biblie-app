@@ -354,6 +354,17 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 15",
+    "text": "După aceasta, Avraam s-a căsătorit cu Ketura, din care i s-au născut șase fii, oameni curajoși și cu minte ageră: Zambran, Iazar, Madan, Madian, Iosabac și Sus. Fiii lui Sus erau Sabatan și Dadan. Fiii lui Dadan erau Latusim, Asur și Luom. Fiii lui Madian erau Efas, Ofren, Anoh, Ebidas și Eldas. Pentru toți acești fii și nepoți, Avraam a găsit mijlocul de a-i așeza în colonii; și ei au luat în stăpânire Troglodiția și țara Arabiei Fericite, până unde ajunge la Marea Roșie. Se povestește despre acest Ofren că a făcut război împotriva Libiei și a cucerit-o și că nepoții lui, când au locuit-o, au numit-o [după numele lui] Africa. Și, într-adevăr, Alexandru Polihistor dă mărturia lui pentru ceea ce spun eu aici; care vorbește astfel: „Cleodem profetul, numit și Malh, care a scris o Istorie a iudeilor, în acord cu Istoria lui Moise, legiuitorul lor, povestește că i s-au născut lui Avraam mulți fii din Ketura: ba chiar îi numește pe trei dintre ei: Afer, Surim și Iafran. Că din Surim a luat numele țara Asiriei; și că de la ceilalți doi [Afer și Iafran] a luat numele țara Africii, pentru că acești oameni au fost ajutoare ale lui Hercule, când a luptat împotriva Libiei și a lui Anteu; și că Hercule s-a căsătorit cu fiica lui Afra și a avut cu ea un fiu, Diodor; și că Sofon a fost fiul lui, de la care a luat numele acel popor barbar numit sofacieni.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 16,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -583,6 +594,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Așurim, Letușim și Leumim.» „Așurim”: locuitori în tabere, ca în traducerea lui: „mașirin”. „Letușim”: împrăștiați, ca „netușim” pe fața câmpului; nun se schimbă cu lamed."
+   },
+   {
+    "author": "Cartea Dreptului 25 — comparație",
+    "text": "Iar ea i-a născut lui pe Zimran, Iocșan, Medan, Midian, Iișbac, și Șuac, fiind 6 fii. Și copiii lui Zimran erau Abihen, Molic și Marim.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 25,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 15",
+    "text": "După aceasta, Avraam s-a căsătorit cu Ketura, din care i s-au născut șase fii, oameni curajoși și cu minte ageră: Zambran, Iazar, Madan, Madian, Iosabac și Sus. Fiii lui Sus erau Sabatan și Dadan. Fiii lui Dadan erau Latusim, Asur și Luom. Fiii lui Madian erau Efas, Ofren, Anoh, Ebidas și Eldas. Pentru toți acești fii și nepoți, Avraam a găsit mijlocul de a-i așeza în colonii; și ei au luat în stăpânire Troglodiția și țara Arabiei Fericite, până unde ajunge la Marea Roșie. Se povestește despre acest Ofren că a făcut război împotriva Libiei și a cucerit-o și că nepoții lui, când au locuit-o, au numit-o [după numele lui] Africa. Și, într-adevăr, Alexandru Polihistor dă mărturia lui pentru ceea ce spun eu aici; care vorbește astfel: „Cleodem profetul, numit și Malh, care a scris o Istorie a iudeilor, în acord cu Istoria lui Moise, legiuitorul lor, povestește că i s-au născut lui Avraam mulți fii din Ketura: ba chiar îi numește pe trei dintre ei: Afer, Surim și Iafran. Că din Surim a luat numele țara Asiriei; și că de la ceilalți doi [Afer și Iafran] a luat numele țara Africii, pentru că acești oameni au fost ajutoare ale lui Hercule, când a luptat împotriva Libiei și a lui Anteu; și că Hercule s-a căsătorit cu fiica lui Afra și a avut cu ea un fiu, Diodor; și că Sofon a fost fiul lui, de la care a luat numele acel popor barbar numit sofacieni.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 16,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -834,6 +867,17 @@ window.CHAPTER_DATA = [
       "v": 13
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 15",
+    "text": "După aceasta, Avraam s-a căsătorit cu Ketura, din care i s-au născut șase fii, oameni curajoși și cu minte ageră: Zambran, Iazar, Madan, Madian, Iosabac și Sus. Fiii lui Sus erau Sabatan și Dadan. Fiii lui Dadan erau Latusim, Asur și Luom. Fiii lui Madian erau Efas, Ofren, Anoh, Ebidas și Eldas. Pentru toți acești fii și nepoți, Avraam a găsit mijlocul de a-i așeza în colonii; și ei au luat în stăpânire Troglodiția și țara Arabiei Fericite, până unde ajunge la Marea Roșie. Se povestește despre acest Ofren că a făcut război împotriva Libiei și a cucerit-o și că nepoții lui, când au locuit-o, au numit-o [după numele lui] Africa. Și, într-adevăr, Alexandru Polihistor dă mărturia lui pentru ceea ce spun eu aici; care vorbește astfel: „Cleodem profetul, numit și Malh, care a scris o Istorie a iudeilor, în acord cu Istoria lui Moise, legiuitorul lor, povestește că i s-au născut lui Avraam mulți fii din Ketura: ba chiar îi numește pe trei dintre ei: Afer, Surim și Iafran. Că din Surim a luat numele țara Asiriei; și că de la ceilalți doi [Afer și Iafran] a luat numele țara Africii, pentru că acești oameni au fost ajutoare ale lui Hercule, când a luptat împotriva Libiei și a lui Anteu; și că Hercule s-a căsătorit cu fiica lui Afra și a avut cu ea un fiu, Diodor; și că Sofon a fost fiul lui, de la care a luat numele acel popor barbar numit sofacieni.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 16,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -963,6 +1007,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 26,
       "v": 295
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 15",
+    "text": "După aceasta, Avraam s-a căsătorit cu Ketura, din care i s-au născut șase fii, oameni curajoși și cu minte ageră: Zambran, Iazar, Madan, Madian, Iosabac și Sus. Fiii lui Sus erau Sabatan și Dadan. Fiii lui Dadan erau Latusim, Asur și Luom. Fiii lui Madian erau Efas, Ofren, Anoh, Ebidas și Eldas. Pentru toți acești fii și nepoți, Avraam a găsit mijlocul de a-i așeza în colonii; și ei au luat în stăpânire Troglodiția și țara Arabiei Fericite, până unde ajunge la Marea Roșie. Se povestește despre acest Ofren că a făcut război împotriva Libiei și a cucerit-o și că nepoții lui, când au locuit-o, au numit-o [după numele lui] Africa. Și, într-adevăr, Alexandru Polihistor dă mărturia lui pentru ceea ce spun eu aici; care vorbește astfel: „Cleodem profetul, numit și Malh, care a scris o Istorie a iudeilor, în acord cu Istoria lui Moise, legiuitorul lor, povestește că i s-au născut lui Avraam mulți fii din Ketura: ba chiar îi numește pe trei dintre ei: Afer, Surim și Iafran. Că din Surim a luat numele țara Asiriei; și că de la ceilalți doi [Afer și Iafran] a luat numele țara Africii, pentru că acești oameni au fost ajutoare ale lui Hercule, când a luptat împotriva Libiei și a lui Anteu; și că Hercule s-a căsătorit cu fiica lui Afra și a avut cu ea un fiu, Diodor; și că Sofon a fost fiul lui, de la care a luat numele acel popor barbar numit sofacieni.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 16,
+      "v": 1
      }
     }
    }
@@ -1279,6 +1334,17 @@ window.CHAPTER_DATA = [
       "v": 11
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 15",
+    "text": "După aceasta, Avraam s-a căsătorit cu Ketura, din care i s-au născut șase fii, oameni curajoși și cu minte ageră: Zambran, Iazar, Madan, Madian, Iosabac și Sus. Fiii lui Sus erau Sabatan și Dadan. Fiii lui Dadan erau Latusim, Asur și Luom. Fiii lui Madian erau Efas, Ofren, Anoh, Ebidas și Eldas. Pentru toți acești fii și nepoți, Avraam a găsit mijlocul de a-i așeza în colonii; și ei au luat în stăpânire Troglodiția și țara Arabiei Fericite, până unde ajunge la Marea Roșie. Se povestește despre acest Ofren că a făcut război împotriva Libiei și a cucerit-o și că nepoții lui, când au locuit-o, au numit-o [după numele lui] Africa. Și, într-adevăr, Alexandru Polihistor dă mărturia lui pentru ceea ce spun eu aici; care vorbește astfel: „Cleodem profetul, numit și Malh, care a scris o Istorie a iudeilor, în acord cu Istoria lui Moise, legiuitorul lor, povestește că i s-au născut lui Avraam mulți fii din Ketura: ba chiar îi numește pe trei dintre ei: Afer, Surim și Iafran. Că din Surim a luat numele țara Asiriei; și că de la ceilalți doi [Afer și Iafran] a luat numele țara Africii, pentru că acești oameni au fost ajutoare ale lui Hercule, când a luptat împotriva Libiei și a lui Anteu; și că Hercule s-a căsătorit cu fiica lui Afra și a avut cu ea un fiu, Diodor; și că Sofon a fost fiul lui, de la care a luat numele acel popor barbar numit sofacieni.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 16,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -1487,6 +1553,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 27,
       "v": 15
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 19 — comparație",
+    "text": "Și toate zilele vieții Sarei au fost o sută douăzeci și șapte de ani, adică două jubilee și patru săptămâni și un an: acestea sunt zilele anilor vieții Sarei.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 19,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 15",
+    "text": "După aceasta, Avraam s-a căsătorit cu Ketura, din care i s-au născut șase fii, oameni curajoși și cu minte ageră: Zambran, Iazar, Madan, Madian, Iosabac și Sus. Fiii lui Sus erau Sabatan și Dadan. Fiii lui Dadan erau Latusim, Asur și Luom. Fiii lui Madian erau Efas, Ofren, Anoh, Ebidas și Eldas. Pentru toți acești fii și nepoți, Avraam a găsit mijlocul de a-i așeza în colonii; și ei au luat în stăpânire Troglodiția și țara Arabiei Fericite, până unde ajunge la Marea Roșie. Se povestește despre acest Ofren că a făcut război împotriva Libiei și a cucerit-o și că nepoții lui, când au locuit-o, au numit-o [după numele lui] Africa. Și, într-adevăr, Alexandru Polihistor dă mărturia lui pentru ceea ce spun eu aici; care vorbește astfel: „Cleodem profetul, numit și Malh, care a scris o Istorie a iudeilor, în acord cu Istoria lui Moise, legiuitorul lor, povestește că i s-au născut lui Avraam mulți fii din Ketura: ba chiar îi numește pe trei dintre ei: Afer, Surim și Iafran. Că din Surim a luat numele țara Asiriei; și că de la ceilalți doi [Afer și Iafran] a luat numele țara Africii, pentru că acești oameni au fost ajutoare ale lui Hercule, când a luptat împotriva Libiei și a lui Anteu; și că Hercule s-a căsătorit cu fiica lui Afra și a avut cu ea un fiu, Diodor; și că Sofon a fost fiul lui, de la care a luat numele acel popor barbar numit sofacieni.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 16,
+      "v": 1
      }
     }
    }
@@ -4309,6 +4397,17 @@ window.CHAPTER_DATA = [
       "v": 28
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 19 — comparație",
+    "text": "Și în anul al patrulea al ei i-a luat soție fiului său Isaac, și numele ei era Rebeca, sora lui Laban și fiica lui Betuel; și Betuel era fiul Milcăi, care era soția lui Nahor, fratele lui Avraam.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 19,
+      "v": 10
+     }
+    }
    }
   ]
  },
@@ -4607,6 +4706,17 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 25 — comparație",
+    "text": "Și Rebeca fiica lui Betuel, nevasta lui Isaac fiul lui Avraam, a fost stearpă în acele zile, ea nu a avut nici un urmaș; iar Isaac a locuit cu tatăl său în ținutul Canaan; iar Domnul era cu Isaac; și Arpacșad fiul lui Șem fiul lui Noe a murit în acele zile, în anul 48 al vieții lui Isaac, și toate zilele pe care Arpacșad le-a trăit au fost 438 de ani, și el a murit.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 25,
+      "v": 28
+     }
+    }
    }
   ]
  },
@@ -4819,6 +4929,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 26,
       "v": 10
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 26 — comparație",
+    "text": "Și Domnul a auzit rugăciunea lui Isaac fiul lui Avraam, și Domnul a fost înduplecat de el iar Rebeca nevasta sa a zămislit.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 26,
+      "v": 8
      }
     }
    }
@@ -7677,6 +7798,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 24,
       "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 24 — comparație",
+    "text": "Și Iacob a fiert o fiertură de linte, și Esau a venit de la câmp flămând. Și i-a zis lui Iacob, fratele său: Dă-mi din fiertura aceasta roșie. Și Iacob i-a zis: Vinde-mi dreptul tău de întâi născut, și-ți voi da pâine, și și din fiertura aceasta de linte.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 24,
+      "v": 3
      }
     }
    }

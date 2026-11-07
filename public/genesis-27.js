@@ -486,6 +486,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Nu știu ziua morții mele.» Și dacă voi muri, iată ai pierdut totul, căci Iacov, fratele tău, a cumpărat de la tine dreptul de întâi-născut și va lua toată stăpânirea și partea principală a averilor."
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Și în anul al șaptelea al săptămânii acesteia Isaac l-a chemat pe Esau, fiul său cel mai mare, și i-a zis: Am îmbătrânit, fiule, și iată ochii mei s-au întunecat la vedere, și nu știu ziua morții mele.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Dar când a îmbătrânit și nu mai vedea deloc, l-a chemat pe Esau la el și i-a spus că, pe lângă orbirea și boala ochilor lui, chiar adânca lui bătrânețe îl împiedica de la închinarea lui față de Dumnezeu [prin jertfă]; i-a poruncit deci să meargă la vânătoare și, când va fi prins cât de multă vânat va putea, să-i pregătească o cină; ca după aceasta să-I facă rugăciune lui Dumnezeu, ca să-i fie sprijin și ajutor în tot timpul vieții lui; spunând că era nesigur când va muri și că dorea, prin rugăciuni pentru el, să-L facă mai dinainte pe Dumnezeu milostiv față de el.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -756,6 +778,17 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Dar când a îmbătrânit și nu mai vedea deloc, l-a chemat pe Esau la el și i-a spus că, pe lângă orbirea și boala ochilor lui, chiar adânca lui bătrânețe îl împiedica de la închinarea lui față de Dumnezeu [prin jertfă]; i-a poruncit deci să meargă la vânătoare și, când va fi prins cât de multă vânat va putea, să-i pregătească o cină; ca după aceasta să-I facă rugăciune lui Dumnezeu, ca să-i fie sprijin și ajutor în tot timpul vieții lui; spunând că era nesigur când va muri și că dorea, prin rugăciuni pentru el, să-L facă mai dinainte pe Dumnezeu milostiv față de el.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -966,6 +999,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Binecuvântarea rostită de tată pe patul de moarte avea în Orientul Apropiat valoare de testament: unii cercetători au apropiat scena de actele din Nuzi, în care o declarație rostită de părinte în fața martorilor era socotită obligatorie în fața judecătorilor. Părerea e discutată, dar arată de ce binecuvântarea lui Isaac nu mai poate fi luată înapoi (27:33, 37)."
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "La acea vreme Isaac l-a chemat pe Esau fiul său, spunând, Ia te rog armele tale, tolba și arcul tău, ridică-te și mergi la câmp și adu-mi niște vânat, și prepară-mi carne gustoasă și adu-mi-o mie, ca să pot mânca și să te pot binecuvânta înaintea morții mele, căci acum am devenit bătrân și cărunt.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Dar când a îmbătrânit și nu mai vedea deloc, l-a chemat pe Esau la el și i-a spus că, pe lângă orbirea și boala ochilor lui, chiar adânca lui bătrânețe îl împiedica de la închinarea lui față de Dumnezeu [prin jertfă]; i-a poruncit deci să meargă la vânătoare și, când va fi prins cât de multă vânat va putea, să-i pregătească o cină; ca după aceasta să-I facă rugăciune lui Dumnezeu, ca să-i fie sprijin și ajutor în tot timpul vieții lui; spunând că era nesigur când va muri și că dorea, prin rugăciuni pentru el, să-L facă mai dinainte pe Dumnezeu milostiv față de el.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -1229,6 +1284,28 @@ window.CHAPTER_DATA = [
       "v": 3
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Și Rebeca l-a chemat pe Iacob, fiul ei, și i-a zis: Iată, am auzit pe Isaac, tatăl tău, vorbind lui Esau, fratele tău, zicând: Vânează pentru mine, și fă-mi mâncare gustoasă, și adu-mi-o ca să mănânc și să te binecuvântez înaintea Domnului înainte de a muri.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Dar când a îmbătrânit și nu mai vedea deloc, l-a chemat pe Esau la el și i-a spus că, pe lângă orbirea și boala ochilor lui, chiar adânca lui bătrânețe îl împiedica de la închinarea lui față de Dumnezeu [prin jertfă]; i-a poruncit deci să meargă la vânătoare și, când va fi prins cât de multă vânat va putea, să-i pregătească o cină; ca după aceasta să-I facă rugăciune lui Dumnezeu, ca să-i fie sprijin și ajutor în tot timpul vieții lui; spunând că era nesigur când va muri și că dorea, prin rugăciuni pentru el, să-L facă mai dinainte pe Dumnezeu milostiv față de el.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -1479,6 +1556,17 @@ window.CHAPTER_DATA = [
       "v": 6
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Și Rebeca l-a chemat pe Iacob, fiul ei, și i-a zis: Iată, am auzit pe Isaac, tatăl tău, vorbind lui Esau, fratele tău, zicând: Vânează pentru mine, și fă-mi mâncare gustoasă, și adu-mi-o ca să mănânc și să te binecuvântez înaintea Domnului înainte de a muri.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -1707,6 +1795,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Și te voi binecuvânta înaintea Domnului.» Adică: după rostire (ha-dibbur), căci la fiecare binecuvântare cu care te va binecuvânta tatăl tău, Sfântul, binecuvântat fie, va fi de acord prin el; de aceea îți poruncesc să le cauți. Și un exemplu pentru aceasta s-a explicat în pericopa Noe, la Nimrod.<br><br>«Și te voi binecuvânta.» „Ve-avarekhekha” cu kaf, he. „Be-daber”, cu bet."
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Și Rebeca l-a chemat pe Iacob, fiul ei, și i-a zis: Iată, am auzit pe Isaac, tatăl tău, vorbind lui Esau, fratele tău, zicând: Vânează pentru mine, și fă-mi mâncare gustoasă, și adu-mi-o ca să mănânc și să te binecuvântez înaintea Domnului înainte de a muri.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Rebeca a auzit toate cuvintele pe care Isaac le rostise lui Esau, și ea s-a grăbit și l-a chemat pe fiul ei Iacob, spunând, astfel a spus tatăl tău fratelui tău Esau, și astfel am auzit, acum prin urmare grăbește-te și fă ceea ce eu îți voi spune.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -1841,6 +1951,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și acum etc.» Explicația: în ceasul acela să se grăbească să aducă din ce este pregătit iezii de capre.<br><br>«ascultă glasul meu» Explicația: deși în aceste cuvinte este ca o înșelare (ganevat daʿat), totuși trebuie să asculți glasul meu. Explicația: afară de obligația poruncii cinstirii tatălui și mamei, care este poruncă pozitivă, ea este și profetesă, iar despre cuvintele profetului adevărat este scris „de el să asculți”. De aceea a spus „ascultă glasul meu”, și am scris deja că profetul are îndreptățire când spune să calci o poruncă dintre poruncile Torei pentru moment:"
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Și Rebeca l-a chemat pe Iacob, fiul ei, și i-a zis: Iată, am auzit pe Isaac, tatăl tău, vorbind lui Esau, fratele tău, zicând: Vânează pentru mine, și fă-mi mâncare gustoasă, și adu-mi-o ca să mănânc și să te binecuvântez înaintea Domnului înainte de a muri.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Rebeca a auzit toate cuvintele pe care Isaac le rostise lui Esau, și ea s-a grăbit și l-a chemat pe fiul ei Iacob, spunând, astfel a spus tatăl tău fratelui tău Esau, și astfel am auzit, acum prin urmare grăbește-te și fă ceea ce eu îți voi spune.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -2254,6 +2386,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Le vei aduce la tatăl tău și el va mânca.» Ca să te binecuvânteze cu inimă bună, căci Șekhina nu se sălășluiește decât în inimă bună și din bucurie."
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Și acum, fiule, ascultă de glasul meu în ceea ce-ți poruncesc: Du-te la turma ta și adu-mi doi iezi buni de capre, și eu le voi face mâncare gustoasă tatălui tău, cum iubește el, și tu i-o vei aduce tatălui tău ca să mănânce și să te binecuvânteze înaintea Domnului înainte de a muri, și ca tu să fii binecuvântat.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Ridică-te și mergi, te rog, la turmă și adu-mi doi iezi buni din capre, iar eu voi prepara carnea gustoasă pentru tatăl tău, și tu vei aduce carnea gustoasă ca el să poată mânca înainte ca fratele tău să se fi întors de la vânătoare, ca tatăl tău să te poată binecuvânta pe tine.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -2518,6 +2672,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ieronim, Întrebări ebraice la Facere",
     "text": "(Capitolul XXVII, versetul 11) Iată, Esav, fratele meu, este un om păros, iar eu sunt un om neted. Acolo unde se scrie că era păros, în ebraică stă Seir. De aceea, mai târziu, munții Seirului și ținutul în care a locuit au fost numiți Seir: am vorbit despre aceasta mai înainte și mai sus."
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Ridică-te și mergi, te rog, la turmă și adu-mi doi iezi buni din capre, iar eu voi prepara carnea gustoasă pentru tatăl tău, și tu vei aduce carnea gustoasă ca el să poată mânca înainte ca fratele tău să se fi întors de la vânătoare, ca tatăl tău să te poată binecuvânta pe tine.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -2766,6 +2931,28 @@ window.CHAPTER_DATA = [
       "v": 5
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Și tu știi că sunt neted, și Esau, fratele meu, e păros, și voi apărea înaintea ochilor lui ca un făcător de rău, și voi face o faptă pe care nu mi-o poruncise, și se va mânia pe mine, și-mi voi aduce un blestem, nu o binecuvântare.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Ridică-te și mergi, te rog, la turmă și adu-mi doi iezi buni din capre, iar eu voi prepara carnea gustoasă pentru tatăl tău, și tu vei aduce carnea gustoasă ca el să poată mânca înainte ca fratele tău să se fi întors de la vânătoare, ca tatăl tău să te poată binecuvânta pe tine.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -3011,6 +3198,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 26,
       "v": 9
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Ridică-te și mergi, te rog, la turmă și adu-mi doi iezi buni din capre, iar eu voi prepara carnea gustoasă pentru tatăl tău, și tu vei aduce carnea gustoasă ca el să poată mânca înainte ca fratele tău să se fi întors de la vânătoare, ca tatăl tău să te poată binecuvânta pe tine.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 5
      }
     }
    }
@@ -3655,6 +3853,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Și cu pieile iezilor.» De aici se poate învăța cât de deosebit era Esau, căci au pipăit pielea iedului chiar pe dosul mâinii și pe grumaz."
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Și Rebeca a luat hainele cele bune ale lui Esau, fiul ei cel mai mare, care erau la ea în casă, și l-a îmbrăcat pe Iacob, fiul ei cel mai mic, și a pus pieile iezilor pe mâinile lui și pe părțile descoperite ale gâtului său.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 11
+     }
+    }
    }
   ]
  },
@@ -3811,6 +4020,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și a pus mâncărurile gustoase»: și nu a pomenit carnea, căci carnea este cuprinsă în „mâncăruri gustoase”, căci ele erau lucrul de căpetenie pentru el, cum a spus „Și fă-mi mâncăruri gustoase”, ca mâncarea să fie gătită cu feluri de mirodenii bune.<br><br>«Și pâinea»: căci i-a făcut pâine caldă."
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Și Rebeca a luat hainele cele bune ale lui Esau, fiul ei cel mai mare, care erau la ea în casă, și l-a îmbrăcat pe Iacob, fiul ei cel mai mic, și a pus pieile iezilor pe mâinile lui și pe părțile descoperite ale gâtului său.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 11
+     }
+    }
    }
   ]
  },
@@ -3983,6 +4203,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«El a venit»: în odaia în care era culcat; și l-a chemat „Tată!”, căci el nu-l vedea.<br><br>«Iată-mă» (hinneni): cu dageș în amândoi nun-ii.<br><br>«Cine ești tu»: căci, de îndată ce a vorbit și i-a spus „Tată!”, s-a îndoit din pricina glasului lui; de aceea l-a întrebat: „Cine ești tu?”"
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Și Rebeca a luat hainele cele bune ale lui Esau, fiul ei cel mai mare, care erau la ea în casă, și l-a îmbrăcat pe Iacob, fiul ei cel mai mic, și a pus pieile iezilor pe mâinile lui și pe părțile descoperite ale gâtului său.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 11
+     }
+    }
    }
   ]
  },
@@ -5039,6 +5270,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ipolit al Romei, Despre binecuvântările lui Isaac și Iacov",
     "text": "Aceasta înseamnă că Cuvântul, care în Iacov a prefigurat tainele, a devenit și glasul proorocilor, fiindcă El este Cel ce prevestește în ei ce se va întâmpla. Dimpotrivă, mâinile Lui au devenit mâinile lui Esav. Într-adevăr, El [Cuvântul] a fost dat la moarte din pricina păcatelor poporului."
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Și Isaac i-a zis: Apropie-te, ca să te pipăi, fiule, dacă ești fiul meu Esau sau nu.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 16
+     }
+    }
    }
   ]
  },
@@ -5376,6 +5618,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și a spus: Tu ești într-adevăr etc.» Explicația: își dovedește cuvintele că el este Esau, nu întreabă. Iar răspunsul lui Iacov este în limbaj de simplitate: „eu”.<br><br>Încă vrea prin spusa „tu ești”, fiindcă glasul lui arăta că este Iacov, de aceea a intenționat să binecuvânteze trupul care hotărăște că este Esau. Și de aceea a spus „tu ești”, arătând cu degetul spre ceea ce spune simțul pipăitului, și îmbrăca binecuvântările în gândul lui pe cel din fața lui fără nicio gândire cine este. Iar aceasta este spre bine, semn că Iacov a primit binecuvântările cu intenție către el, și deși Isaac se hotărâse să spună și a pomenit pe Esau, totuși în ceasul binecuvântării nu binecuvânta decât pe cel din fața lui."
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Glasul e glasul lui Iacob, dar mâinile sunt mâinile lui Esau, și nu l-a deosebit, pentru că a fost o rânduială din cer să-i ia puterea de a deosebi, și Isaac n-a deosebit, căci mâinile lui erau păroase ca ale lui Esau, fratele său, încât l-a binecuvântat.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 18
+     }
+    }
    }
   ]
  },
@@ -5624,6 +5877,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«I-a adus vin și a băut.» Căci vinul tulbură puțin mintea omului, iar el nu va cerceta dacă este Esau sau nu."
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 3",
+    "text": "Baraita: Șapte părinți au adormit cu cinstea lumii și nu a stăpânit asupra lor putreziciunea și viermele: Avraam, Isaac și Iacov, Amram, tatăl lui Moise, Beniamin, fiul lui Iacov, Isai și Caleb; și unii spun: și David, căci s-a spus: „De aceea mi se bucură inima și mi se veselește slava; chiar și trupul meu se va odihni în siguranță”.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌‌‌​​‌‌ Șapte au intrat de vii în grădina Edenului, iată-i: Serah, căci este scris: „Eu sunt dintre cei pașnici și credincioși ai lui Israel”: eu sunt cea care am întregit numărul celor ce intră în grădina Edenului. Și Bitia, fiica lui Faraon, căci este scris: „a născut pe Iered”: a spus Sfântul, binecuvântat fie El: Nu-l numesc pe Moise decât cu numele cu care l-a numit ea, căci s-a spus: „și Dumnezeu l-a chemat” etc. Aceasta este ce a spus David: „El a trimis de sus, m-a luat, m-a scos din ape mari”. „Căci l-am scos din apă”: a spus Sfântul, binecuvântat fie El: Ea a adus mântuire lui Israel și i-a scos la viață; iată, Eu îți lungesc viața. A spus: Am încheiat legământ cu părinții voștri, iar ei în căile părinților lor; aceasta, care a părăsit domnia și s-a lipit de ei, nu-i voi plăti? Hiram, împăratul Tirului: prin ce a avut merit? Pentru că a făcut un sanctuar cum l-a făcut Moise, căci este scris: „împreună cu toate aceste unelte”. Ce este „cort”? Acesta este Cortul Întâlnirii. Și Ebed-Melec, Etiopianul, care l-a scos pe Ieremia, căci este scris: „Ebed-Melec, Etiopianul, a zis” etc. Eliezer, pentru că l-a slujit pe Avraam. Când? De vreme ce a spus: „aranjează ziua de azi înaintea mea”, și este scris acolo: „Căci Domnul, Dumnezeul tău, mi l-a scos în cale”. Și mai departe, de unde o avem? Căci este scris: „și i-a adus vin”, și spune: „Uite, aroma fiului meu este ca aroma unui câmp pe care l-a binecuvântat Domnul”. Și nepotul lui Rabbi Yehudah ha-Nasi: avem tradiție; și Rabbi Yehoșuaʿ ben Levi: de asemenea avem tradiție. Și Iaebeț, de unde o avem? Căci este scris: „Iaebeț a chemat”, și este scris: „și să fie mâna Ta cu mine”. Și unii o aduc de aici: „și să mă ferești de rău”. De unde o avem că acest rău este moartea? Căci este scris: „căci din pricina răului este luat cel drept”. Și s-a învățat: De n-ar fi relele care vin în lume, cei drepți n-ar fi luați fără vremea lor. Și Iaebeț a cerut pentru sine: „ca să nu fiu întristat”; „și Dumnezeu i-a dat ce ceruse”. S-a sfârșit capitolul.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 3,
+      "v": 25
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Glasul e glasul lui Iacob, dar mâinile sunt mâinile lui Esau, și nu l-a deosebit, pentru că a fost o rânduială din cer să-i ia puterea de a deosebi, și Isaac n-a deosebit, căci mâinile lui erau păroase ca ale lui Esau, fratele său, încât l-a binecuvântat.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 18
+     }
+    }
    }
   ]
  },
@@ -6111,6 +6386,17 @@ window.CHAPTER_DATA = [
     }
    },
    {
+    "author": "Tratatul Kallah Rabbati, cap. 3",
+    "text": "Baraita: Șapte părinți au adormit cu cinstea lumii și nu a stăpânit asupra lor putreziciunea și viermele: Avraam, Isaac și Iacov, Amram, tatăl lui Moise, Beniamin, fiul lui Iacov, Isai și Caleb; și unii spun: și David, căci s-a spus: „De aceea mi se bucură inima și mi se veselește slava; chiar și trupul meu se va odihni în siguranță”.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌‌‌​​‌‌ Șapte au intrat de vii în grădina Edenului, iată-i: Serah, căci este scris: „Eu sunt dintre cei pașnici și credincioși ai lui Israel”: eu sunt cea care am întregit numărul celor ce intră în grădina Edenului. Și Bitia, fiica lui Faraon, căci este scris: „a născut pe Iered”: a spus Sfântul, binecuvântat fie El: Nu-l numesc pe Moise decât cu numele cu care l-a numit ea, căci s-a spus: „și Dumnezeu l-a chemat” etc. Aceasta este ce a spus David: „El a trimis de sus, m-a luat, m-a scos din ape mari”. „Căci l-am scos din apă”: a spus Sfântul, binecuvântat fie El: Ea a adus mântuire lui Israel și i-a scos la viață; iată, Eu îți lungesc viața. A spus: Am încheiat legământ cu părinții voștri, iar ei în căile părinților lor; aceasta, care a părăsit domnia și s-a lipit de ei, nu-i voi plăti? Hiram, împăratul Tirului: prin ce a avut merit? Pentru că a făcut un sanctuar cum l-a făcut Moise, căci este scris: „împreună cu toate aceste unelte”. Ce este „cort”? Acesta este Cortul Întâlnirii. Și Ebed-Melec, Etiopianul, care l-a scos pe Ieremia, căci este scris: „Ebed-Melec, Etiopianul, a zis” etc. Eliezer, pentru că l-a slujit pe Avraam. Când? De vreme ce a spus: „aranjează ziua de azi înaintea mea”, și este scris acolo: „Căci Domnul, Dumnezeul tău, mi l-a scos în cale”. Și mai departe, de unde o avem? Căci este scris: „și i-a adus vin”, și spune: „Uite, aroma fiului meu este ca aroma unui câmp pe care l-a binecuvântat Domnul”. Și nepotul lui Rabbi Yehudah ha-Nasi: avem tradiție; și Rabbi Yehoșuaʿ ben Levi: de asemenea avem tradiție. Și Iaebeț, de unde o avem? Căci este scris: „Iaebeț a chemat”, și este scris: „și să fie mâna Ta cu mine”. Și unii o aduc de aici: „și să mă ferești de rău”. De unde o avem că acest rău este moartea? Căci este scris: „căci din pricina răului este luat cel drept”. Și s-a învățat: De n-ar fi relele care vin în lume, cei drepți n-ar fi luați fără vremea lor. Și Iaebeț a cerut pentru sine: „ca să nu fiu întristat”; „și Dumnezeu i-a dat ce ceruse”. S-a sfârșit capitolul.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 3,
+      "v": 25
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 26 — comparație",
     "text": "Și a mirosit mirosul hainelor lui, și l-a binecuvântat și a zis: Iată, mirosul fiului meu este ca mirosul unui câmp plin pe care l-a binecuvântat Domnul.",
     "src": {
@@ -6366,6 +6652,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Rouă și belșug de grâne și must: binecuvântarea cere ce ținea de viața țărilor cu ploi rare. În epopeea Aqhat din Ugarit, seceta este descrisă drept lipsa „rouei” și a ploii („fără rouă, fără ploaie”), iar fertilitatea câmpului ține de zeul Baal; Geneza pune aceleași daruri pe seama binecuvântării lui Dumnezeu."
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Și a mirosit mirosul hainelor lui, și l-a binecuvântat și a zis: Iată, mirosul fiului meu este ca mirosul unui câmp plin pe care l-a binecuvântat Domnul.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 22
+     }
+    }
    }
   ]
  },
@@ -7484,6 +7781,17 @@ window.CHAPTER_DATA = [
       "v": 27
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Isaac s-a ridicat și a mâncat și a băut, iar inima lui a fost alinată, și l-a binecuvântat pe Iacob, iar Iacob a plecat de la tatăl său. Și imediat ce Isaac binecuvântase pe Iacob și acesta plecase de la el, iată Esau a venit de la vânătoare de la câmp, și el de asemenea a făcut carne gustoasă și a adus-o la tatăl său să mănânce din ea și să îl binecuvânteze.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -8070,6 +8378,17 @@ window.CHAPTER_DATA = [
       "v": 29
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac i-a spus lui Esau, și cine era acela care a luat vânat și mi l-a adus înainte ca tu să vii și pe cine am binecuvântat eu? Și Esau știa că fratele său Iacob făcuse acest lucru, iar mânia lui Esau a fost aprinsă împotriva fratelui său Iacob pentru că el se comportase astfel către el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 9
+     }
+    }
    }
   ]
  },
@@ -8241,6 +8560,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Adam Clarke, Comentariu la Facere",
     "text": "A luat binecuvântarea ta — Această binecuvântare, care era altceva decât dreptul de întâi-născut, pare să cuprindă două părți: 1. Stăpânirea, în general și în cele din urmă, asupra celeilalte părți a familiei; și 2. Faptul de a fi strămoșul Mesiei. Dar prima este spusă mai limpede decât a doua. Vezi nota la Fac. 25:31."
+   },
+   {
+    "author": "Cartea Jubileelor 26 — comparație",
+    "text": "Și s-a întâmplat, când a auzit Esau cuvintele tatălui său Isaac, că a strigat cu un strigăt foarte mare și amar, și a zis tatălui său: Binecuvântează-mă și pe mine, tată.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 26,
+      "v": 29
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac i-a spus lui Esau, și cine era acela care a luat vânat și mi l-a adus înainte ca tu să vii și pe cine am binecuvântat eu? Și Esau știa că fratele său Iacob făcuse acest lucru, iar mânia lui Esau a fost aprinsă împotriva fratelui său Iacob pentru că el se comportase astfel către el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 9
+     }
+    }
    }
   ]
  },
@@ -10415,6 +10756,17 @@ window.CHAPTER_DATA = [
       "v": 1
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Isaac, fiul lui Avraam, era bătrân și înaintat în ani, iar Esau a spus: Acum timpul tatălui meu se apropie ca el să moară, iar când el va muri, îl voi ucide pe fratele meu Iacob.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 22
+     }
+    }
    }
   ]
  },
@@ -10797,6 +11149,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«până se potolește mânia fratelui tău» Explicația: prin trecerea timpului peste întâmplare, furia se răcește de la sine din fierbințeala ei, iar a mai spus „până se va potoli furia fratelui tău”, explicația: căci aceasta nu va folosi singură, ci până se va potoli furia fratelui tău de la tine, explicația: că deși te vor aminti în fața lui, nu i se va aprinde mânia, iar aceasta este spusa „împotriva ta” (mimekha, „de la tine”), atunci este semn că a uitat fapta etc.<br><br>«Apoi voi trimite etc.» Explicația: eu voi trimite după tine când va fi așa, dar tu nu vei veni în niciun chip."
+   },
+   {
+    "author": "Cartea Jubileelor 27 — comparație",
+    "text": "Acum deci, fiule, ascultă de glasul meu, și scoală-te și fugi la Laban, fratele meu, la Haran, și stai la el câteva zile până se va întoarce mânia fratelui tău, și-și va lua mânia de la tine, și va uita tot ce i-ai făcut; atunci voi trimite și te voi aduce de acolo.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 27,
+      "v": 3
+     }
+    }
    }
   ]
  },
@@ -11048,6 +11411,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«De ce să vă pierd pe amândoi în aceeași zi?» Explicația: chiar dacă ar fi ca să moară și el, fie prin mâna ta, fie prin mâna răzbunătorilor sângelui, totuși nu există vindecare pentru zdrobirea ta prin faptul că va muri și el odată cu tine în aceeași zi, și ea nu se îngrijorează niciodată decât de moartea lui Iacov și nu de cea a lui Esau."
+   },
+   {
+    "author": "Cartea Jubileelor 27 — comparație",
+    "text": "Acum deci, fiule, ascultă de glasul meu, și scoală-te și fugi la Laban, fratele meu, la Haran, și stai la el câteva zile până se va întoarce mânia fratelui tău, și-și va lua mânia de la tine, și va uita tot ce i-ai făcut; atunci voi trimite și te voi aduce de acolo.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 27,
+      "v": 3
+     }
+    }
    }
   ]
  },

@@ -21,8 +21,8 @@ const famOf = (c) => { const s = (c.src && c.src.slug) || ''; const a = c.author
 const gaps = {};
 for (let n = 1; n <= N; n++) {
   const D = new Function('window', fs.readFileSync('public/genesis-' + n + '.js', 'utf8') + ';return window;')({}).CHAPTER_DATA;
-  const inCh = new Set(); for (const x of D) for (const c of x.commentaries || []) if (c.src && c.src.spec) inCh.add(c.src.slug + '#' + c.src.spec.num + ':' + c.src.spec.v);
-  const cited = {}; for (const slug in (IDX[n] || {})) for (const u of IDX[n][slug].unitati) { const gv = +u.geneza.split(':')[1]; const f = fam(slug); if (inCh.has(slug + '#' + u.cap + ':' + u.v)) { (cited[gv] = cited[gv] || {})['_ok_' + f] = 1; continue; } (cited[gv] = cited[gv] || {})[f] = (cited[gv][f] || 0) + 1; }
+  const inCh = new Set(); for (const x of D) for (const c of x.commentaries || []) if (c.src && c.src.spec) inCh.add(x.num + '@' + c.src.slug + '#' + c.src.spec.num + ':' + c.src.spec.v);
+  const cited = {}; for (const slug in (IDX[n] || {})) for (const u of IDX[n][slug].unitati) { const gv = +u.geneza.split(':')[1]; const f = fam(slug); if (inCh.has(gv + '@' + slug + '#' + u.cap + ':' + u.v)) { (cited[gv] = cited[gv] || {})['_ok_' + f] = 1; continue; } (cited[gv] = cited[gv] || {})[f] = (cited[gv][f] || 0) + 1; }
   for (const x of D) for (const f of ['talmud', 'mishna', 'kabbala', 'altele']) { if (!(cited[x.num] && cited[x.num][f])) continue; const has = (x.commentaries || []).some(c => famOf(c) === f) || (cited[x.num] && cited[x.num]['_ok_' + f]); if (!has) (gaps[f] = gaps[f] || []).push(n + ':' + x.num); }
 }
 console.log('\nversete cu citări explicite dar fără rând din familie:');

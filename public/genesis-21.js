@@ -473,6 +473,17 @@ window.CHAPTER_DATA = [
       "v": "8"
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
+    "text": "După puțină vreme, Avraam a avut un fiu cu Sara, după cum îi prevestise Dumnezeu, pe care l-a numit Isaac, ceea ce înseamnă Râs. Și, într-adevăr, l-au numit astfel pentru că Sara a râs când Dumnezeu a spus că va naște un fiu, ea neașteptându-se la un asemenea lucru, fiind trecută de vârsta nașterii de copii, căci avea nouăzeci de ani, iar Avraam o sută; astfel că acest fiu li s-a născut amândurora în ultimul an al acestor numere zecimale. Și l-au tăiat împrejur în ziua a opta, și din acel timp iudeii continuă obiceiul de a-și tăia împrejur fiii în acel număr de zile. Dar arabii taie împrejur după al treisprezecelea an, pentru că Ismael, întemeietorul neamului lor, care i s-a născut lui Avraam din țiitoare, a fost tăiat împrejur la acea vârstă; despre care voi da îndată o istorisire deosebită, cu mare exactitate.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 13,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -854,6 +865,17 @@ window.CHAPTER_DATA = [
       "v": 3
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
+    "text": "După puțină vreme, Avraam a avut un fiu cu Sara, după cum îi prevestise Dumnezeu, pe care l-a numit Isaac, ceea ce înseamnă Râs. Și, într-adevăr, l-au numit astfel pentru că Sara a râs când Dumnezeu a spus că va naște un fiu, ea neașteptându-se la un asemenea lucru, fiind trecută de vârsta nașterii de copii, căci avea nouăzeci de ani, iar Avraam o sută; astfel că acest fiu li s-a născut amândurora în ultimul an al acestor numere zecimale. Și l-au tăiat împrejur în ziua a opta, și din acel timp iudeii continuă obiceiul de a-și tăia împrejur fiii în acel număr de zile. Dar arabii taie împrejur după al treisprezecelea an, pentru că Ismael, întemeietorul neamului lor, care i s-a născut lui Avraam din țiitoare, a fost tăiat împrejur la acea vârstă; despre care voi da îndată o istorisire deosebită, cu mare exactitate.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 13,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -979,6 +1001,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 14,
       "v": 16
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Și Avraam a circumcis pe fiul său Isaac la vârsta de 8 zile, precum Dumnezeu îi poruncise lui Avram să facă seminței lui după el; iar Avraam avea 100 de ani, și Sara avea 90 de ani, când Isaac le-a fost născut lor.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
+    "text": "După puțină vreme, Avraam a avut un fiu cu Sara, după cum îi prevestise Dumnezeu, pe care l-a numit Isaac, ceea ce înseamnă Râs. Și, într-adevăr, l-au numit astfel pentru că Sara a râs când Dumnezeu a spus că va naște un fiu, ea neașteptându-se la un asemenea lucru, fiind trecută de vârsta nașterii de copii, căci avea nouăzeci de ani, iar Avraam o sută; astfel că acest fiu li s-a născut amândurora în ultimul an al acestor numere zecimale. Și l-au tăiat împrejur în ziua a opta, și din acel timp iudeii continuă obiceiul de a-și tăia împrejur fiii în acel număr de zile. Dar arabii taie împrejur după al treisprezecelea an, pentru că Ismael, întemeietorul neamului lor, care i s-a născut lui Avraam din țiitoare, a fost tăiat împrejur la acea vârstă; despre care voi da îndată o istorisire deosebită, cu mare exactitate.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 13,
+      "v": 2
      }
     }
    }
@@ -1164,6 +1208,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Talmudul Babilonian",
     "text": "În lucru: traducerea acestui comentariu urmează."
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Și Avraam a circumcis pe fiul său Isaac la vârsta de 8 zile, precum Dumnezeu îi poruncise lui Avram să facă seminței lui după el; iar Avraam avea 100 de ani, și Sara avea 90 de ani, când Isaac le-a fost născut lor.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
+    "text": "După puțină vreme, Avraam a avut un fiu cu Sara, după cum îi prevestise Dumnezeu, pe care l-a numit Isaac, ceea ce înseamnă Râs. Și, într-adevăr, l-au numit astfel pentru că Sara a râs când Dumnezeu a spus că va naște un fiu, ea neașteptându-se la un asemenea lucru, fiind trecută de vârsta nașterii de copii, căci avea nouăzeci de ani, iar Avraam o sută; astfel că acest fiu li s-a născut amândurora în ultimul an al acestor numere zecimale. Și l-au tăiat împrejur în ziua a opta, și din acel timp iudeii continuă obiceiul de a-și tăia împrejur fiii în acel număr de zile. Dar arabii taie împrejur după al treisprezecelea an, pentru că Ismael, întemeietorul neamului lor, care i s-a născut lui Avraam din țiitoare, a fost tăiat împrejur la acea vârstă; despre care voi da îndată o istorisire deosebită, cu mare exactitate.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 13,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -1387,6 +1453,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Zohar, Introducere 18:5",
     "text": "Avraham, odată ce i-a invitat pe mai-marii generației, a coborât acuzatorul și a stat la intrare în chipul unui sărac, și nu era cine să ia aminte la el. Avraham îi slujea pe acei regi și mai-mari. Sara alăpta copiii tuturor, căci nu credeau că ea a născut, ci ziceau: este un copil găsit, și de pe piață l-au adus. De aceea și-au adus copiii cu ei, și Sara i-a luat și i-a alăptat înaintea lor. Aceasta este ceea ce este scris (Geneza 21:7): „Cine i-ar fi spus lui Avraham că Sara va alăpta copii (banim)?” — copii desigur. Iar acel acuzator era la intrare. A zis (Sara): „Dumnezeu mi-a făcut râs.” Îndată a urcat acel acuzator înaintea Celui Sfânt, binecuvântat fie El, și I-a zis: Stăpâne al lumii, Tu ai zis: Avraham, iubitul Meu; (iată Avraham) a făcut masă și nu Ți-a dat nimic, nici săracilor, și nu a adus înaintea Ta nici măcar un porumbel. Și mai mult, ai zis: Sara — iată că râde de Tine."
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Și Avraam a circumcis pe fiul său Isaac la vârsta de 8 zile, precum Dumnezeu îi poruncise lui Avram să facă seminței lui după el; iar Avraam avea 100 de ani, și Sara avea 90 de ani, când Isaac le-a fost născut lor.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
+    "text": "După puțină vreme, Avraam a avut un fiu cu Sara, după cum îi prevestise Dumnezeu, pe care l-a numit Isaac, ceea ce înseamnă Râs. Și, într-adevăr, l-au numit astfel pentru că Sara a râs când Dumnezeu a spus că va naște un fiu, ea neașteptându-se la un asemenea lucru, fiind trecută de vârsta nașterii de copii, căci avea nouăzeci de ani, iar Avraam o sută; astfel că acest fiu li s-a născut amândurora în ultimul an al acestor numere zecimale. Și l-au tăiat împrejur în ziua a opta, și din acel timp iudeii continuă obiceiul de a-și tăia împrejur fiii în acel număr de zile. Dar arabii taie împrejur după al treisprezecelea an, pentru că Ismael, întemeietorul neamului lor, care i s-a născut lui Avraam din țiitoare, a fost tăiat împrejur la acea vârstă; despre care voi da îndată o istorisire deosebită, cu mare exactitate.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 13,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -1651,6 +1739,17 @@ window.CHAPTER_DATA = [
       "v": 7
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
+    "text": "După puțină vreme, Avraam a avut un fiu cu Sara, după cum îi prevestise Dumnezeu, pe care l-a numit Isaac, ceea ce înseamnă Râs. Și, într-adevăr, l-au numit astfel pentru că Sara a râs când Dumnezeu a spus că va naște un fiu, ea neașteptându-se la un asemenea lucru, fiind trecută de vârsta nașterii de copii, căci avea nouăzeci de ani, iar Avraam o sută; astfel că acest fiu li s-a născut amândurora în ultimul an al acestor numere zecimale. Și l-au tăiat împrejur în ziua a opta, și din acel timp iudeii continuă obiceiul de a-și tăia împrejur fiii în acel număr de zile. Dar arabii taie împrejur după al treisprezecelea an, pentru că Ismael, întemeietorul neamului lor, care i s-a născut lui Avraam din țiitoare, a fost tăiat împrejur la acea vârstă; despre care voi da îndată o istorisire deosebită, cu mare exactitate.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 13,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -1876,6 +1975,28 @@ window.CHAPTER_DATA = [
       "v": 29
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și în anul întâi al săptămânii a patra Isaac a fost înțărcat în jubileul acesta, și Avraam a făcut un mare ospăț în luna a treia, în ziua în care a fost înțărcat fiul său Isaac.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Iar ei au venit la Avraam, și au mâncat și au băut la ospățul pe care Avraam l-a făcut în ziua înțărcării lui Isaac.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -2089,6 +2210,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Vechile legi pomeneau cazul fiului unei slujnice: Codul lui Hammurabi (§§170–171) îl socotește moștenitor doar dacă tatăl l-a recunoscut ca fiu, iar la Nuzi un fiu de slujnică putea fi alungat dacă se năștea un fiu firesc. Porunca lui Dumnezeu din 21:12 ține seama de acest obicei, dar întărește purtarea de grijă față de Ișmael."
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și Sara l-a văzut pe Ismael jucând și dănțuind, și pe Avraam bucurându-se cu bucurie mare, și a invidiat pe Ismael, și i-a zis lui Avraam: Izgonește pe roaba aceasta și pe fiul ei; căci fiul roabei acesteia nu va fi moștenitor cu fiul meu Isaac.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -2217,6 +2349,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 17,
       "v": 5
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și Sara l-a văzut pe Ismael jucând și dănțuind, și pe Avraam bucurându-se cu bucurie mare, și a invidiat pe Ismael, și i-a zis lui Avraam: Izgonește pe roaba aceasta și pe fiul ei; căci fiul roabei acesteia nu va fi moștenitor cu fiul meu Isaac.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 4
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Iar Sara a văzut faptul pe care Ismael dorea să îl facă fiului ei Isaac, și a mâhnit-o enorm din pricina fiului ei, și ea a trimis pentru Avraam și i-a spus lui, izgonește-o pe această roabă și pe fiul ei, căci fiul ei nu va fi moștenitor cu fiul meu, căci astfel a căutat să îi facă lui în această zi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 15
      }
     }
    }
@@ -2527,6 +2681,17 @@ window.CHAPTER_DATA = [
       "v": 9
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Iar Sara a văzut faptul pe care Ismael dorea să îl facă fiului ei Isaac, și a mâhnit-o enorm din pricina fiului ei, și ea a trimis pentru Avraam și i-a spus lui, izgonește-o pe această roabă și pe fiul ei, căci fiul ei nu va fi moștenitor cu fiul meu, căci astfel a căutat să îi facă lui în această zi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 15
+     }
+    }
    }
   ]
  },
@@ -2638,6 +2803,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 17,
       "v": 7
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și Dumnezeu i-a zis lui Avraam: Să nu-ți fie greu în ochii tăi din pricina copilului și din pricina roabei; în tot ce ți-a zis Sara, ascultă de cuvintele ei și fă-le; căci în Isaac ți se va chema numele și sămânța.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 6
      }
     }
    }
@@ -3004,6 +3180,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 17,
       "v": 8
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și ea a plecat și a rătăcit în pustia Beerșebei, și apa din burduf s-a sfârșit, și copilul a însetat, și n-a putut să meargă mai departe, și a căzut.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 9
      }
     }
    }
@@ -3952,6 +4139,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Ce iubire de oameni din partea Domnului! Departe de a o ignora [pe Agar] ca pe o slujnică de rând, a binevoit să-i arate o grijă atât de minunată, pentru pricina că făcuse făgăduința patriarhului, iar copilul era al lui. De aceea cuvintele: „Ce este, Agar? Nu te îngrijora: Dumnezeu a auzit strigătul copilului. Ridică-te, ia-l și apucă-l de mână; căci Eu am să-l fac să crească într-un neam puternic.” Nu-ți pierde curajul, spune El, că ești izgonită din casă. El se va bucura de o asemenea purtare de grijă din partea Mea, încât va ajunge un neam puternic, chiar el."
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și un înger al lui Dumnezeu, unul din cei sfinți, i-a zis: De ce plângi, Agar? Scoală-te, ia copilul și ține-l în mâna ta; căci Dumnezeu ți-a auzit glasul și a văzut copilul.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 11
+     }
+    }
    }
   ]
  },
@@ -4586,6 +4784,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 13,
       "v": 4
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și copilul a crescut și a ajuns arcaș, și Dumnezeu era cu el; și mama lui i-a luat o soție dintre fiicele Egiptului.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 13
      }
     }
    }
@@ -5739,6 +5948,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Încheierea unui tratat între doi conducători, cu jertfe, martori și jurământ, este o formă cunoscută în Orientul Apropiat: textele de la Mari și din Alalakh descriu ritualuri asemănătoare. Legământul de la Beer-Șeva dintre Avraam și Avimeleh e un tratat de bună vecinătate, legat de dreptul de a folosi fântâna."
+   },
+   {
+    "author": "Cartea Dreptului 22 — comparație",
+    "text": "Și Abimelec i-a spus lui Avraam, cum Domnul trăiește care a creat tot pământul, eu nu am auzit de acest fapt pe care slujitorii mei l-au făcut slujitorilor tăi până în această zi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 22,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -5882,6 +6102,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 8,
       "v": 23
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 22 — comparație",
+    "text": "Și Abimelec i-a spus lui Avraam, cum Domnul trăiește care a creat tot pământul, eu nu am auzit de acest fapt pe care slujitorii mei l-au făcut slujitorilor tăi până în această zi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 22,
+      "v": 7
      }
     }
    }
@@ -6071,6 +6302,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 21,
       "v": 47
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 22 — comparație",
+    "text": "Și Abimelec i-a spus lui Avraam, cum Domnul trăiește care a creat tot pământul, eu nu am auzit de acest fapt pe care slujitorii mei l-au făcut slujitorilor tăi până în această zi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 22,
+      "v": 7
      }
     }
    }

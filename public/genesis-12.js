@@ -544,6 +544,28 @@ window.CHAPTER_DATA = [
       "v": 9
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 12 — comparație",
+    "text": "Și a isprăvit de vorbit și de rugat, și iată, cuvântul Domnului i-a fost trimis prin mine, zicând: Ieși din țara ta, și din rudenia ta, și din casa tatălui tău, într-o țară pe care ți-o voi arăta, și te voi face un neam mare și numeros.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 12,
+      "v": 22
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "Pleacă din ținutul tău, din locul tău de naștere și de la casa tatălui tău, la ținutul pe care Eu ți l-am arătat ție să ți-l dau ție și copiilor tăi, căci acolo în acel ținut te voi binecuvânta Eu pe tine, și te voi face o mare națiune, și voi face numele tău mare, iar în tine vor fi familiile pământului binecuvântate.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 23
+     }
+    }
    }
   ]
  },
@@ -799,6 +821,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 3,
       "v": 8
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "Pleacă din ținutul tău, din locul tău de naștere și de la casa tatălui tău, la ținutul pe care Eu ți l-am arătat ție să ți-l dau ție și copiilor tăi, căci acolo în acel ținut te voi binecuvânta Eu pe tine, și te voi face o mare națiune, și voi face numele tău mare, iar în tine vor fi familiile pământului binecuvântate.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 23
      }
     }
    }
@@ -1064,6 +1097,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 11,
       "v": 42
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 12 — comparație",
+    "text": "Și te voi binecuvânta, și voi face numele tău mare, și vei fi binecuvântat pe pământ, și în tine vor fi binecuvântate toate familiile pământului, și voi binecuvânta pe cei ce te binecuvântează, și voi blestema pe cei ce te blestemă.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 12,
+      "v": 23
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "Pleacă din ținutul tău, din locul tău de naștere și de la casa tatălui tău, la ținutul pe care Eu ți l-am arătat ție să ți-l dau ție și copiilor tăi, căci acolo în acel ținut te voi binecuvânta Eu pe tine, și te voi face o mare națiune, și voi face numele tău mare, iar în tine vor fi familiile pământului binecuvântate.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 23
      }
     }
    }
@@ -1511,6 +1566,17 @@ window.CHAPTER_DATA = [
       "v": 9
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 12 — comparație",
+    "text": "Și s-a întâmplat în anul al șaptelea al săptămânii a șasea că a vorbit tatălui său, și i-a spus că va pleca din Haran să meargă în ținutul Canaan, să-l vadă și să se întoarcă la el.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 12,
+      "v": 28
+     }
+    }
    }
   ]
  },
@@ -1728,6 +1794,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 11,
       "v": 44
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și Avram a călătorit din Haran, și a luat pe Sarai, soția sa, și pe Lot, fiul fratelui său Haran, în ținutul Canaan, și a venit în Canaan, și a mers la Sihem, și a locuit lângă un stejar înalt.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "Și el a venit în ținutul Canaan conform Cuvântului Domnului către Avram, și el și-a întins cortul și a locuit în câmpia Mamre, și cu el era Lot fiul fratelui său, și toate cele ce îi aparțineau lui.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 27
      }
     }
    }
@@ -2052,6 +2140,17 @@ window.CHAPTER_DATA = [
       "v": 70
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și Avram a călătorit din Haran, și a luat pe Sarai, soția sa, și pe Lot, fiul fratelui său Haran, în ținutul Canaan, și a venit în Canaan, și a mers la Sihem, și a locuit lângă un stejar înalt.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -2360,6 +2459,17 @@ window.CHAPTER_DATA = [
       "v": 8
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "Și Domnul iarăși i-a apărut lui Avram și a spus: Seminței tale voi da Eu acest ținut; și el acolo a construit un altar Domnului care i-a apărut lui, care este încă până în această zi în câmpiile din Mamre.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 28
+     }
+    }
    }
   ]
  },
@@ -2503,6 +2613,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Ieronim, Întrebări ebraice la Facere",
     "text": "(Versetul 9) Și Avram, pornind, a mers în pustie; și a venit foamete peste țară. Și în locul de față, și în multe alte locuri, în ebraică stă „pustie”. De aceea trebuie să luăm seama la aceasta."
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "De acolo a trecut la muntele care este la răsărit de Betel și și-a întins cortul. Betelul era la apus, iar Ai la răsărit. A zidit și acolo un altar Domnului și a chemat Numele Domnului.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 46
+     }
+    }
    }
   ],
   "refs": [
@@ -3062,6 +3183,17 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 14 — comparație",
+    "text": "Și când Ricayon a venit în Egipt el a întrebat pe locuitorii Egiptului referitor la rege, iar locuitorii Egiptului i-au spus lui de obiceiurile regelui Egiptului, căci era atunci obiceiul regelui Egiptului că el pleca de la palatul său regal și era văzut afară doar o zi a anului, iar după aceea regele se întorcea la palatul său să rămână acolo.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 14,
+      "v": 3
+     }
+    }
    }
   ],
   "refs": [
@@ -3263,6 +3395,17 @@ window.CHAPTER_DATA = [
       "v": 6
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 14 — comparație",
+    "text": "Și când Ricayon a venit în Egipt el a întrebat pe locuitorii Egiptului referitor la rege, iar locuitorii Egiptului i-au spus lui de obiceiurile regelui Egiptului, căci era atunci obiceiul regelui Egiptului că el pleca de la palatul său regal și era văzut afară doar o zi a anului, iar după aceea regele se întorcea la palatul său să rămână acolo.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 14,
+      "v": 3
+     }
+    }
    }
   ]
  },
@@ -3454,6 +3597,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Atașamentul față de „sora” soției se întâlnește în unele acte din Nuzi, unde soția putea avea și statut de „soră” prin adopție; cercetătorii discută însă dacă acest obicei explică întâmplarea din Geneza, care o prezintă, ca și în 20:2 și 26:7, ca pe o minciună de teamă, nu ca pe un drept legal."
+   },
+   {
+    "author": "Cartea Dreptului 15 — comparație",
+    "text": "Și Avram a poruncit la fel tuturor celor ce au venit cu ei în Egipt din pricina foametei; de asemenea nepotului său Lot el i-a poruncit, spunând, dacă egiptenii te întreabă pe tine referitor la Sarai, spune că ea este sora lui Avram.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 15,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -3882,6 +4036,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Efrem Sirul, Comentariu la Facere",
     "text": "Avraam a dat un temei omenesc, cum fac oamenii. Totuși, fiindcă Sara socotea că Avraam era cel sterp, a fost luată la palat. [Aceasta s-a întâmplat], întâi, ca să afle că ea era cea stearpă; al doilea, ca să se vadă dragostea ei pentru bărbatul ei, căci nu și-a schimbat [bărbatul] pe un rege, cât timp era străină în țară; și [în sfârșit], ca taina urmașilor ei să fie închipuită în ea. Precum ea n-a iubit împărăția Egiptului, tot așa ei nu vor iubi idolii, usturoiul și cepele Egiptului. Toată casa lui Faraon a fost lovită pentru izbăvirea Sarei. Tot așa va fi lovit tot Egiptul pentru izbăvirea urmașilor ei."
+   },
+   {
+    "author": "Cartea Dreptului 15 — comparație",
+    "text": "Iar ofițerii regelui l-au presat pe Avram, și ei au ajuns la cufăr și l-au deschis cu forța, și au văzut, și iată o frumoasă femeie era în cufăr.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 15,
+      "v": 13
+     }
+    }
    }
   ]
  },

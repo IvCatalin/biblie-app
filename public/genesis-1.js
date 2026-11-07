@@ -658,6 +658,17 @@ window.CHAPTER_DATA = [
       "v": 39
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "Căci în ziua întâi a zidit cerurile care sunt deasupra, și pământul, și apele, și toate duhurile care slujesc înaintea Lui — îngerii prezenței, și îngerii sfințirii, și îngerii duhului focului, și îngerii duhului vânturilor, și îngerii duhului norilor, și ai întunericului, și ai zăpezii, și ai grindinei, și ai brumei, și îngerii glasurilor, și ai tunetului, și ai fulgerului, și îngerii duhurilor frigului și ai căldurii, și ai iernii, și ai primăverii, și ai toamnei, și ai verii, și ai tuturor duhurilor făpturilor Sale care sunt în ceruri și pe pământ; a zidit adâncurile și întunericul, amurgul și noaptea, și lumina, zorile și ziua, pe care le-a pregătit în cunoștința inimii Sale.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 2
+     }
+    }
    }
   ],
   "textCompare": [
@@ -1224,6 +1235,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Matthew Henry, Comentariu la întreaga Biblie",
     "text": "Cea dintâi dintre toate făpturile văzute pe care le-a creat Dumnezeu a fost lumina — nu ca să vadă El Însuși lucrând, căci pentru El întunericul și lumina sunt deopotrivă, ci ca să vedem noi lucrările Lui și slava Lui în ele. Lumina e frumusețea și binecuvântarea cea mare a universului; ca un întâi-născut, ea se aseamănă, dintre toate făpturile văzute, cel mai mult cu marele ei Părinte, în curăție și putere, strălucire și bunătate. Prin vederea ei, să fim călăuziți spre contemplarea plină de credință a Celui ce este lumină, lumină nesfârșită și veșnică, și Tatăl luminilor, Care locuiește într-o lumină de care nu se poate apropia nimeni."
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "Căci în ziua întâi a zidit cerurile care sunt deasupra, și pământul, și apele, și toate duhurile care slujesc înaintea Lui — îngerii prezenței, și îngerii sfințirii, și îngerii duhului focului, și îngerii duhului vânturilor, și îngerii duhului norilor, și ai întunericului, și ai zăpezii, și ai grindinei, și ai brumei, și îngerii glasurilor, și ai tunetului, și ai fulgerului, și îngerii duhurilor frigului și ai căldurii, și ai iernii, și ai primăverii, și ai toamnei, și ai verii, și ai tuturor duhurilor făpturilor Sale care sunt în ceruri și pe pământ; a zidit adâncurile și întunericul, amurgul și noaptea, și lumina, zorile și ziua, pe care le-a pregătit în cunoștința inimii Sale.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 2
+     }
+    }
    }
   ],
   "textCompare": [
@@ -1540,6 +1562,17 @@ window.CHAPTER_DATA = [
      "slug": "2-enoh",
      "spec": {
       "num": 27,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "Căci în ziua întâi a zidit cerurile care sunt deasupra, și pământul, și apele, și toate duhurile care slujesc înaintea Lui — îngerii prezenței, și îngerii sfințirii, și îngerii duhului focului, și îngerii duhului vânturilor, și îngerii duhului norilor, și ai întunericului, și ai zăpezii, și ai grindinei, și ai brumei, și îngerii glasurilor, și ai tunetului, și ai fulgerului, și îngerii duhurilor frigului și ai căldurii, și ai iernii, și ai primăverii, și ai toamnei, și ai verii, și ai tuturor duhurilor făpturilor Sale care sunt în ceruri și pe pământ; a zidit adâncurile și întunericul, amurgul și noaptea, și lumina, zorile și ziua, pe care le-a pregătit în cunoștința inimii Sale.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
       "v": 2
      }
     }
@@ -2178,6 +2211,17 @@ window.CHAPTER_DATA = [
       "v": 41
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "Și în ziua a doua a zidit tăria în mijlocul apelor, și apele s-au despărțit în ziua aceea: jumătate s-au suit deasupra, și jumătate s-au coborât sub tăria care era în mijloc, deasupra feței întregului pământ. Și aceasta a fost singura lucrare pe care a zidit-o Dumnezeu în ziua a doua.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 4
+     }
+    }
    }
   ],
   "textCompare": [
@@ -2448,6 +2492,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Keil și Delitzsch, Comentariu la Vechiul Testament",
     "text": "רקיע (rakia), de la רקע, „a întinde, a lăți”, înseamnă expansum — întinderea aerului care înconjoară pământul ca atmosferă. După înfățișarea ei, e descrisă ca un covor întins deasupra pământului (Psalmul 104:2), o perdea (Isaia 40:22), o lucrare străvezie de safir (Ieșirea 24:10), sau o oglindă turnată (Iov 37:18) — dar nimic din aceste imagini poetice nu îndreptățește ideea că cerurile ar fi fost privite ca o masă solidă."
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "Și în ziua a doua a zidit tăria în mijlocul apelor, și apele s-au despărțit în ziua aceea: jumătate s-au suit deasupra, și jumătate s-au coborât sub tăria care era în mijloc, deasupra feței întregului pământ. Și aceasta a fost singura lucrare pe care a zidit-o Dumnezeu în ziua a doua.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 4
+     }
+    }
    }
   ],
   "textCompare": [
@@ -2780,6 +2835,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 6,
       "v": 42
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "Și în ziua a doua a zidit tăria în mijlocul apelor, și apele s-au despărțit în ziua aceea: jumătate s-au suit deasupra, și jumătate s-au coborât sub tăria care era în mijloc, deasupra feței întregului pământ. Și aceasta a fost singura lucrare pe care a zidit-o Dumnezeu în ziua a doua.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 4
      }
     }
    }
@@ -5290,6 +5356,17 @@ window.CHAPTER_DATA = [
       "v": 10
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "Și în ziua a patra a zidit soarele și luna și stelele, și le-a pus în tăria cerului, ca să lumineze peste tot pământul, și să stăpânească peste zi și peste noapte, și să despartă lumina de întuneric.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 8
+     }
+    }
    }
   ],
   "textCompare": [
@@ -6951,6 +7028,17 @@ window.CHAPTER_DATA = [
     }
    },
    {
+    "author": "Talmudul Babilonian, Taanit, cap. 4",
+    "text": "În prima zi: „La început” și „Să fie un firmament”; în a doua: „Să fie un firmament” și „Să se adune apele”; în a treia: „Să se adune apele” și „Să fie luminători”; în a patra: „Să fie luminători” și „Să mișune apele”; în a cincea: „Să mișune apele” și „Pământul să scoată”; în a șasea: „Pământul să scoată” și „Și astfel au fost isprăvite cerurile”.",
+    "src": {
+     "slug": "talmud-taanit",
+     "spec": {
+      "num": 4,
+      "v": 5
+     }
+    }
+   },
+   {
     "author": "Origen, Omilii la Facere 1.11",
     "text": "În acest text, cred că sunt arătate pornirile omului nostru celui din afară, adică ale omului trupesc și pământesc, prin ceea ce se spune: «Să dea pământul din sine viețuitoare după soiul lor, dobitoace, târâtoare și fiare ale pământului, după soiul lor.» Textul n-a arătat nimic înaripat printre aceste lucruri spuse despre trup, ci doar «dobitoace, târâtoare și fiare ale pământului» — potrivit cu ce spune apostolul, că «în trupul meu nu locuiește nimic bun» și că «înțelepciunea trupului e vrăjmașă lui Dumnezeu»."
    },
@@ -8136,6 +8224,28 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "2 Enoh 30 — comparație",
+    "text": "[Joi]. În ziua a cincea am poruncit mării să scoată pești și păsări înaripate de multe soiuri și toate animalele care se târăsc pe pământ, mergând pe pământ pe patru picioare și plutind în aer, de parte bărbătească și femeiască, și orice suflet care respiră duhul vieții.",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 30,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 1 — comparație",
+    "text": "Și Dumnezeu a spus: Să facem pe om după chipul nostru, după asemănarea noastră, și Dumnezeu l-a creat pe om după chipul Său.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 1,
+      "v": 1
+     }
+    }
    }
   ],
   "textCompare": [
@@ -8567,6 +8677,17 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "2 Enoh 30 — comparație",
+    "text": "[Joi]. În ziua a cincea am poruncit mării să scoată pești și păsări înaripate de multe soiuri și toate animalele care se târăsc pe pământ, mergând pe pământ pe patru picioare și plutind în aer, de parte bărbătească și femeiască, și orice suflet care respiră duhul vieții.",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 30,
+      "v": 8
+     }
+    }
    }
   ],
   "textCompare": [
@@ -8906,6 +9027,17 @@ window.CHAPTER_DATA = [
       "v": 7
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 1 — comparație",
+    "text": "Și Dumnezeu i-a binecuvântat pe ei și i-a numit Adam și Eva în ziua în care El i-a creat pe ei, iar Domnul Dumnezeu a spus: Fiți roditori și înmulțiți-vă și umpleți pământul.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 1,
+      "v": 6
+     }
+    }
    }
   ],
   "textCompare": [
@@ -9152,6 +9284,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
     "text": "Și așa a fost — adică omul avea să stăpânească peste tot ce fusese creat pe uscat sau în ape, și avea să primească putința și puterea de a mânca din roadele pământului, împreună cu păsările cerului și viețuitoarele pământului."
+   },
+   {
+    "author": "Oracolele Sibiline 1 — comparație",
+    "text": "Apoi a mai scos un neam: peștii în mări, păsările pentru vânturile ce suflă, fiarele păroase pentru păduri, balaurii târâtori și hâzi, și toate câte se văd acum. Pe acestea le-a făcut prin cuvântul Lui, și totul s-a săvârșit repede și bine. Căci El a existat singur, născut din Sine, și a privit din cer în jos; și lumea era desăvârșită.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 1,
+      "v": 4
+     }
+    }
    }
   ],
   "textCompare": [

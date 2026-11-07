@@ -346,6 +346,17 @@ window.CHAPTER_DATA = [
       "v": 46
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
+    "text": "Dar Dumnezeu a fost foarte nemulțumit de purtarea lor nerușinată, încât i-a lovit pe acei oameni cu orbire și i-a osândit pe sodomiți la nimicire deplină. Iar Lot, după ce Dumnezeu i-a vestit nimicirea viitoare a sodomiților, a plecat, luând cu el pe soția și pe fiicele lui, care erau două și încă fecioare; căci cei logodiți cu ele erau departe de gândul de a pleca și socoteau că cuvintele lui Lot sunt vorbe de nimic. Dumnezeu a aruncat atunci un trăsnet asupra cetății și a aprins-o cu locuitorii ei; și a pustiit țara printr-o ardere asemănătoare, după cum am spus mai înainte când am scris Războiul iudeilor. Dar soția lui Lot, tot întorcându-se să privească la cetate pe măsură ce se depărta de ea și fiind prea iscoditoare să vadă ce se va întâmpla cu ea, deși Dumnezeu îi interzisese să facă așa, a fost schimbată într-un stâlp de sare; căci eu l-am văzut, și el rămâne și astăzi. El și fiicele lui au fugit într-un loc mic, înconjurat de foc, și s-au așezat în el: se numește și astăzi Țoar, căci acesta este cuvântul pe care îl folosesc evreii pentru un lucru mic. Acolo a dus o viață nenorocită, din pricina lipsei de tovărășie și a lipsei de merinde.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 12,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -3510,6 +3521,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Și pe când se iveau zorii.» Acest verset a fost scris pentru că va spune „Soarele răsărea asupra pământului și Lot a ajuns în Țoar”, ca să ne facă cunoscut că atât l-au așteptat îngerii ca să nimicească orașele din pricina iubirii față de Avraam, părintele nostru. Rabbi Ḥanina a spus: De la ridicarea stâlpului zorilor până la răsăritul soarelui sunt cinci mile, căci este scris „Și pe când se iveau zorii” și este scris „Soarele răsărea asupra pământului și Lot a ajuns în Țoar”, iar de la Sodoma la Țoar sunt cinci mile."
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Și îngerii i-au spus lui Lot: Ridică-te, pleacă din acest loc, tu și tot ce îți aparține ție, ca nu cumva tu să fii consumat în nedreptatea acestui oraș, căci Domnul va distruge acest loc.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 48
+     }
+    }
    }
   ]
  },
@@ -3808,6 +3830,17 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Și îngerii i-au spus lui Lot: Ridică-te, pleacă din acest loc, tu și tot ce îți aparține ție, ca nu cumva tu să fii consumat în nedreptatea acestui oraș, căci Domnul va distruge acest loc.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 48
+     }
+    }
    }
   ]
  },
@@ -4061,6 +4094,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 10,
       "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Și îngerii i-au spus lui Lot: Ridică-te, pleacă din acest loc, tu și tot ce îți aparține ție, ca nu cumva tu să fii consumat în nedreptatea acestui oraș, căci Domnul va distruge acest loc.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 48
      }
     }
    }
@@ -5661,6 +5705,17 @@ window.CHAPTER_DATA = [
     "text": "«Și a prăpădit acele orașe.» De aici se înțelege că răsturnarea Sodomei a precedat moartea Sarei, iar în „Ḥeleq” se înțelege invers, căci s-a învățat acolo: Eliezer, robul lui Avraam, a ajuns în locul Sodomei și voiau să-l urce în pat (puria); el le-a spus: De la ziua morții Sarei nu m-am urcat în pat. Prin urmare se înțelege că moartea Sarei a precedat. Ci se poate spune: ceea ce s-a învățat „Eliezer a ajuns în locul Sodomei” este Țoar, iar Țoar nu a fost răsturnată.<br><br>«Și vegetația pământului.» Rabbi Iehoșua ben Levi a spus: Dacă acum un om ia țărână din pământul Sodomei și o pune în alt strat de grădină, nu încolțește."
    },
    {
+    "author": "Tratatul Kallah Rabbati, cap. 7",
+    "text": "„Cum își cinstește omul” etc. S-a învățat: Mihail a venit să-i vestească Sarei; Gabriel, ca să răstoarne Sodoma; Rafael, ca să-l vindece pe Avraam. Și unii spun: Rafael, ca să-i vestească Sarei și să vindece, căci s-a spus: „și Dumnezeu l-a vindecat”; Mihail și Gabriel, ca să răstoarne Sodoma. Care este motivul primului învățător? „Și a prăpădit acele orașe.” Și care este motivul celor care spun „unii spun”? „Cei doi îngeri au ajuns la Sodoma.” Ce este deosebit la Avraam, că au spus: „Așa să faci”, și ce este deosebit la Lot, că au spus: „Nu, ci pe stradă vom înnopta”? Rabbi Elʿazar a spus: De aici, că se refuză celui mic și nu se refuză celui mare. Au învățat rabanii: În viitorul ce va veni, fiul lui David va fi la mijloc; Adam, Set și Metusala la dreapta lui; Avraam, Moise și Iacov la stânga. Care este motivul că l-a lăsat pe Isaac? Rava a spus: Isaac vine mai presus de ei, căci tot Israelul îi spune: „Căci tu ești tatăl nostru”. De acum, Esau i-ar fi o cinste? Învață a spune: „Căci tu ești tatăl nostru”: fiii sunt ca părintele lor: precum părintele nu a tăgăduit legământul, tot așa fiii care nu au tăgăduit legământul. Și de unde o avem? „te voi face sânge și sângele te va urmări; pentru că n-ai urât sângele”. Și oare Esau ura sângele? Și nu erau toate faptele lui numai în vărsare de sânge, căci s-a spus: „Asemănarea lui este ca a unui leu care dorește să sfâșie și ca a unui pui de leu care stă în ascunzișuri”? Și ce se înțelege? Poate să lovească? Nu: din aceea că este scris „dmynw” și nu este scris „dmywnw”, reiese de aici. S-a sfârșit capitolul „Întotdeauna să fii frumos”.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 7,
+      "v": 5
+     }
+    }
+   },
+   {
     "author": "Cartea Dreptului 19 — comparație",
     "text": "Iar El a răsturnat aceste orașe, tot șesul și toți locuitorii orașelor, și aceea ce creștea pe pământ; iar Ado, nevasta lui Lot, s-a uitat înapoi să vadă distrugerea orașelor, căci compasiunea ei a fost stârnită din pricina fiicelor ei care rămăseseră în Sodoma, căci ele nu au mers cu ea.",
     "src": {
@@ -5864,6 +5919,17 @@ window.CHAPTER_DATA = [
       "v": 33
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Iar El a răsturnat aceste orașe, tot șesul și toți locuitorii orașelor, și aceea ce creștea pe pământ; iar Ado, nevasta lui Lot, s-a uitat înapoi să vadă distrugerea orașelor, căci compasiunea ei a fost stârnită din pricina fiicelor ei care rămăseseră în Sodoma, căci ele nu au mers cu ea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 52
+     }
+    }
    }
   ]
  },
@@ -6013,6 +6079,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Către locul unde stătuse»: cum a spus „iar Avraam încă stătea înaintea Domnului”; și acesta este locul în care s-au despărțit de el îngerii în viziune. Iar învățătorii noștri, binecuvântată fie amintirea lor, s-au sprijinit pe aceasta că Avraam a rânduit rugăciunea de dimineață, căci este scris „s-a sculat dis-de-dimineață”, și nu este „stare” decât rugăciune, căci este scris: „și Fineas s-a ridicat și a judecat” (wa-yaʿamod Fineas wa-yefallel). Și a explicat că a învățat pe oameni că se cuvine omului să se roage dimineața și să-I mulțumească lui Dumnezeu pentru lumină și să se roage înainte de a ieși la treburile lui. Și încă s-au sprijinit pe aceasta că se cuvine omului să-și statornicească un loc pentru rugăciunea lui, căci s-a spus: „către locul unde stătuse”."
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Iar El a răsturnat aceste orașe, tot șesul și toți locuitorii orașelor, și aceea ce creștea pe pământ; iar Ado, nevasta lui Lot, s-a uitat înapoi să vadă distrugerea orașelor, căci compasiunea ei a fost stârnită din pricina fiicelor ei care rămăseseră în Sodoma, căci ele nu au mers cu ea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 52
+     }
+    }
    }
   ]
  },
@@ -6615,6 +6692,17 @@ window.CHAPTER_DATA = [
       "v": 7
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Și Avraam s-a sculat devreme dimineața să vadă ce se făcuseră orașelor Sodomei; iar el a văzut și a privit fumul orașelor ridicându-se precum fumul unui furnal.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 56
+     }
+    }
    }
   ]
  },
@@ -7108,6 +7196,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Și nu există niciun om pe pământ.» Socoteau că această lovitură s-a răspândit în toată lumea, și precum n-a rămas din potop decât Noe și fiii lui, tot așa socoteau că n-a rămas decât Lot și fiicele lui."
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Și Lot cu cele două fiice ale sale au rămas în peșteră, iar ele l-au făcut pe tatăl lor să bea vin, și s-au culcat cu el, căci ele au spus că nu era nici un bărbat pe pământ care putea ridica sămânță din ele, căci ele au crezut că tot pământul a fost distrus.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 57
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
+    "text": "Dar fiicele lui, socotind că tot neamul omenesc fusese nimicit, s-au apropiat de tatăl lor, având grijă totuși să nu fie observate. Au făcut aceasta ca neamul omenesc să nu piară cu totul: și au născut fii; fiul celei mai în vârstă s-a numit Moab, ceea ce înseamnă unul tras din tatăl său; cea mai tânără l-a născut pe Amon, nume care înseamnă unul tras dintr-o rudă. Cel dintâi a fost tatăl moabiților, care sunt și astăzi un neam mare; cel din urmă a fost tatăl amoniților; și amândoi sunt locuitori ai Celesiriei. Și așa a fost plecarea lui Lot dintre sodomiți.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 12,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -7292,6 +7402,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Haide» (lekhah): am explicat deja că cuvintele lekhah, lekhu, havah sunt lucru de înțelegere și de ajutor al unuia de la tovarășul lui; de aceea nu se păstrează în ele singular și plural, masculin și feminin, căci sunt ca un substantiv.<br><br>«Să-i dăm tatălui nostru să bea vin»: adică până ce se va îmbăta și nu va ști ce face, «și să ne culcăm cu el»; căci cu știință nu s-ar fi culcat cu fiicele lui; departe de creșterea tatălui nostru să facă un lucru de nelegiuire. Și ne-a făcut cunoscut în această povestire că și cei care nu sunt fiii Torei se depărtează de aceste urâciuni; cu atât mai mult fiii Torei, cărora li se cuvine să se depărteze de ele. Și toată această povestire a fost scrisă ca să facă cunoscute generațiile lui Amon și Moab, căci din fiii lui Lot au fost aceste două neamuri; iar Dumnezeu le-a dat o țară de moștenire din dragoste pentru Avraam, părintele nostru, căci Lot era fiul fratelui său și crescut în casa lui; și l-a oprit pe Israel să nu-i asedieze și să nu se lupte cu ei, căci nu a dat din țara lor nici cât o urmă de talpă, căci fiilor lui Lot le-a dat-o ca moștenire. «Ca să dăm viață la urmași de la tatăl nostru»: căci cel care nu lasă sămânță, iată, este mort, dacă nu lasă după el un lucru prin care să i se pomenească numele."
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Și Lot cu cele două fiice ale sale au rămas în peșteră, iar ele l-au făcut pe tatăl lor să bea vin, și s-au culcat cu el, căci ele au spus că nu era nici un bărbat pe pământ care putea ridica sămânță din ele, căci ele au crezut că tot pământul a fost distrus.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 57
+     }
+    }
    }
   ]
  },
@@ -7524,6 +7645,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 6,
       "v": 3
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Și Lot cu cele două fiice ale sale au rămas în peșteră, iar ele l-au făcut pe tatăl lor să bea vin, și s-au culcat cu el, căci ele au spus că nu era nici un bărbat pe pământ care putea ridica sămânță din ele, căci ele au crezut că tot pământul a fost distrus.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 57
      }
     }
    }
@@ -7913,6 +8045,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și când ea s-a sculat» (u-v-qumah): fără waw."
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Și ele amândouă s-au culcat cu tatăl lor, și au zămislit și au născut fii, iar cea mai mare l-a numit pe fiul ei Moab, spunând, de la tatăl meu l-am zămislit eu; el este tatăl moabiților până în această zi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 58
+     }
+    }
    }
   ]
  },

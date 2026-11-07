@@ -762,6 +762,17 @@ window.CHAPTER_DATA = [
     "text": "«Și a adus Yosef bârfa lor rea.» Iată au statornicit-o, că zicea tatălui său asupra lor că mâncau mădular din dobitoace când ele sunt vii. «Și a adus Yosef bârfa lor rea.» Și oare aceștia, în numărare, erau fiii slujnicelor? Cum îi disprețuiau pe ei fiii lui Leʾah? Și cum mâncau mădular din viu și treceau peste porunca Stăpânului lor? Că iată a poruncit asupra fiilor lui Noaḥ porunca aceasta, precum zici (Geneza 9:4): «numai carne în sufletul ei, sângele ei, să nu mâncați». Și ei o mâncau și treceau peste porunca Stăpânului lor. Ci Yosef zicea; și asupra aceasta a fost pedepsit."
    },
    {
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 7",
+    "text": "Și când au venit fiii lui Noe, le-a îngăduit, căci s-a spus: „ca vegetația verde, vi le-am dat vouă pe toate”. Aș putea crede că nu se aplică la ea mădularul din cel viu — Scriptura spune: „Dar carne cu sufletul ei, sângele ei, să nu mâncați”. Aș putea crede că și pentru târâtoare — Scriptura spune: „Dar”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 7,
+      "v": 14
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 6 — comparație",
     "text": "Dar carne cu viața ei, cu sângele, să nu mâncați; căci viața oricărui trup este în sânge, ca nu cumva sângele vieților voastre să fie cerut. Din mâna oricărui om, din mâna oricărei fiare, voi cere sângele omului.",
     "src": {
@@ -998,6 +1009,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Efrem Sirul, Comentariu la Facere 6.15.1–2",
     "text": "Dumnezeu cere sângele acum și în viitor. Îl cere acum în cazul unei morți pe care a hotărât-o pentru ucigaș, și, de asemenea, în cazul lapidării cu care trebuie lapidat un taur care împunge. La sfârșit, la vremea învierii, Dumnezeu va cere ca animalele să dea înapoi tot ce au mâncat din carnea omului. Dumnezeu a spus: „Din mâna omului și a fratelui lui voi cere viața omului”, după cum s-a cerut de la Cain răsplata pentru sângele lui Abel, adică „cine varsă sângele omului, prin om să i se verse sângele”."
+   },
+   {
+    "author": "Cartea Jubileelor 6 — comparație",
+    "text": "Dar carne cu viața ei, cu sângele, să nu mâncați; căci viața oricărui trup este în sânge, ca nu cumva sângele vieților voastre să fie cerut. Din mâna oricărui om, din mâna oricărei fiare, voi cere sângele omului.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 6,
+      "v": 7
+     }
+    }
    }
   ]
  },

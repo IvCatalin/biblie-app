@@ -779,6 +779,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și Avram a spus: Iată, mie etc.» Este greu: întâi, cum poate să spună „nu mi-ai dat” etc., oare nu i-a promis deja și i-a spus: „Îți voi face seminția ca țărâna pământului”, și de ce să se îndoiască, Doamne ferește, de cuvintele Domnului? Al doilea, spusa lui „iată, mie”, trebuia să spună „iată, nu mi-ai dat”. Al treilea, trebuie să știm intenția în spusa „și iată, intendentul casei mele mă va moșteni”, după ce nu are sămânță, ce-mi pasă dacă îl moștenește intendentul casei sau altul?<br><br>Însă intenția Scripturii este pe această cale: că fiindcă vestirea sămânței pe care i-a spus-o Domnul a spus „ca țărâna pământului”, iar este cunoscut că cei asemănați cu țărâna pământului sunt oamenii disprețuiți și mărunți, care nu au suflet sfânt, pe calea spusei: „duhul dobitocului, care coboară, el în jos, spre pământ”, și aceștia sunt numiți oamenii pământului (ʿamei ha-aretz), iar cu oameni ca aceștia nu se va umple voința drepților, de aceea a spus Avraam „iată, mie” etc., explicația: un lucru egal pentru mine, nu mi-ai dat sămânță. Și de aceea Domnul i-a răspuns și i-a spus „numără stelele, așa va fi sămânța ta”, iar aceștia sunt drepții asemănați cu stelele, căci este scris: „iar cei care îi fac drepți pe cei mulți – ca stelele”, și prin aceasta s-a liniștit mintea lui. Și să nu-ți fie greu a explica aceasta din spusa rabinilor noștri, binecuvântată fie amintirea lor, care au tâlcuit la versetul „și sămânța ta va fi ca țărâna pământului” pe care Domnul l-a spus lui Iacov, iar acesta este textul lor: „ca țărâna” etc., precum țărâna nu este binecuvântată decât cu apă, așa fiii tăi etc., precum țărâna mistuie vasele de metal etc. – până aici. Iată, asemănarea cu țărâna este spre laudă. Iată, nu au tâlcuit ei, binecuvântată fie amintirea lor, pe calea aceasta spre lauda țărânei decât după ce am aflat că Domnul i-a asemănat cu stelele, iar ai învățat că nu i-a asemănat apoi cu țărâna decât spre lauda țărânei, nu sub aspectul de josnicie, și de aceea vei găsi că nu au tâlcuit așa în primul verset spus lui Avraam, ci în versetul spus lui Iacov după ce lui Avraam i s-a făgăduit „ca stelele”, și de aceea s-a îngrijorat Avraam de prima asemănare „ca țărâna pământului”. Și prin aceasta s-au așezat cele două precizări: de ce nu a fost liniștit Avraam prin prima promisiune, și precizarea spusei „iată, mie”.<br><br>Iar spusa „și iată, intendentul casei mele mă va moșteni” se explică în două feluri: unul, că dacă nu i-ar da decât ca țărâna, mai mult ar alege ca intendentul casei lui să-l moștenească, fiind ucenicul lui drag, decât să-l moștenească un fiu nepotrivit, și am aflat că au făcut asemenea lucru oameni de faptă dintre Israel.<br><br>Iar al doilea pe această cale: că în afară de faptul că se întrista pentru sămânță, se întrista și pentru vorbele intendentului casei, care spunea că el este moștenitorul, iar aceasta este măsura versetului: „și iată”, explicația: pentru moment spune „mă moștenește”, și cum va fi bună, în ziua binelui, inima lui când va auzi cuvintele de la intendentul casei. Și am găsit la Înțelepții noștri că au spus ceva asemănător, anume au explicat că Avraam a cerut să meargă fără copii și să nu aibă fii nepotriviți."
+   },
+   {
+    "author": "Cartea Jubileelor 14 — comparație",
+    "text": "Și el a zis: Doamne, Doamne, ce-mi vei da, de vreme ce plec de aici fără copii, și fiul lui Maseq, fiul roabei mele, este Damesec Eliezer: el va fi moștenitorul meu, și mie nu mi-ai dat sămânță.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 14,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -977,6 +988,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Sfântul Ambrozie, Despre Avraam",
     "text": "Dar dacă cuvintele lui Avraam nu ajung ca să îndrepte, socotește cuvântul lui Dumnezeu, care osândește un asemenea chip de a lăsa moștenirea. „Acesta nu va fi moștenitorul tău”, zice, „ci celălalt, care va ieși din tine, acela te va moșteni.” Cine este acest „celălalt” despre care vorbește? De fapt și Agar a născut un fiu, pe Ismael, dar despre el nu vorbește. Ci vorbește despre sfântul Isaac. De aceea a adăugat: „care va ieși din tine.” Într-adevăr, cel care a ieșit cu adevărat din Avraam este cel născut dintr-o căsătorie legitimă. Dar în Isaac, fiul legitim, putem vedea pe Cel ce este adevăratul fiu legitim, Domnul Iisus, despre care la începutul Evangheliei după Matei citim că este fiul lui Avraam. El a fost adevăratul moștenitor al lui Avraam, aducând slavă urmașilor strămoșului. Prin El, Avraam și-a ridicat privirea spre cer și a înțeles că strălucirea urmașilor lui nu va fi mai puțin luminoasă decât strălucirea stelelor cerului. Precum „o stea se deosebește de alta în strălucire, așa va fi și la învierea morților”, a zis apostolul. Domnul, unind cu învierea Sa oameni pe care moartea obișnuia să-i ascundă în pământ, i-a făcut părtași ai împărăției cerești."
+   },
+   {
+    "author": "Cartea Jubileelor 14 — comparație",
+    "text": "Și el a zis: Doamne, Doamne, ce-mi vei da, de vreme ce plec de aici fără copii, și fiul lui Maseq, fiul roabei mele, este Damesec Eliezer: el va fi moștenitorul meu, și mie nu mi-ai dat sămânță.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 14,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -1642,6 +1664,17 @@ window.CHAPTER_DATA = [
       "v": 7
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 14 — comparație",
+    "text": "Și el a crezut în Domnul, și i s-a socotit ca dreptate.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 14,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -1780,6 +1813,17 @@ window.CHAPTER_DATA = [
     "text": "Așa Israel: sunt fiii Regelui celui sfânt. I-a coborât în Egipt („Mițrayim”). Iar dacă vei spune: În acel timp nu au păcătuit — hotărârea pe care Cel Sfânt, binecuvântat fie El, a hotărât-o între bucățile (dintre jertfă) trebuia să se împlinească; și Cel Sfânt, binecuvântat fie El, a privit la două lucruri: unul din pricina acelui cuvânt pe care l-a spus Avraham (Geneza 15:8): «Prin ce voi ști că o voi moșteni?» — aceasta este pricina și cauza. Dar până ce au ieșit din Egipt nu erau un neam și nu se arătau cum se cuvine."
    },
    {
+    "author": "Talmudul Babilonian, Taanit, cap. 4",
+    "text": "„Iar israeliții din acel mișmar se adună în cetățile lor și citesc din lucrarea creației.” De unde sunt aceste cuvinte? A spus Rabbi Yaʿaqov bar Aḥa, a spus Rav Assi: Dacă n-ar fi fost maʿamadot, n-ar fi dăinuit cerurile și pământul, căci s-a spus: „Și a spus: Stăpâne, Doamne Dumnezeule, prin ce voi ști că o voi moșteni?”",
+    "src": {
+     "slug": "talmud-taanit",
+     "spec": {
+      "num": 4,
+      "v": 15
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 14 — comparație",
     "text": "Și el a zis: Doamne, Doamne, prin ce voi cunoaște că îl voi moșteni?",
     "src": {
@@ -1793,6 +1837,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "Dar el a zis: Doamne Dumnezeule, cum voi ști că o voi stăpâni? Nu trebuie socotit că Avraam ar fi greșit în credință, după ce a crezut în Dumnezeu și i s-a socotit ca dreptate, încât să spună: Doamne Dumnezeule, cum voi ști că o voi stăpâni? Căci nu cere un semn ca să creadă, ca și cum ar fi fost încă necredincios; ci cere să i se dea o oarecare asemănare cu lucrul pe care credea că se va petrece, prin care să se cunoască felul în care se va împlini. De aceea traducerea veche are mai semnificativ: Stăpâne Doamne, după ce voi ști că voi fi moștenitorul ei? Așa cum nu lipsea credința din Fecioara Maria, când a zis: Cum va fi aceasta, de vreme ce nu știu de bărbat? (Luca 1:34). Ea era sigură de ce avea să fie, dar a întrebat despre felul în care se va petrece. Și, după ce a întrebat aceasta, a primit răspuns. În consecință, și aici i s-a dat o asemănare din animale: o vițică, o capră, un berbec și două păsări, o turturică și un porumbel, ca să cunoască prin acestea că ceea ce avea să vină va veni negreșit. Căci urmează:"
+   },
+   {
+    "author": "Cartea Jubileelor 14 — comparație",
+    "text": "Și el a crezut în Domnul, și i s-a socotit ca dreptate.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 14,
+      "v": 6
+     }
+    }
    }
   ],
   "refs": [
@@ -2073,6 +2128,17 @@ window.CHAPTER_DATA = [
      "slug": "apocalipsa-avraam",
      "spec": {
       "num": 12,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 14 — comparație",
+    "text": "Și el a crezut în Domnul, și i s-a socotit ca dreptate.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 14,
       "v": 6
      }
     }
@@ -2457,6 +2523,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Despre cetatea lui Dumnezeu",
     "text": "Păsările care coboară peste stârvurile despicate nu înfățișează nimic bun, ci [mai degrabă] duhurile acestui văzduh, care caută pentru sine ceva de hrană în dezbinarea oamenilor trupești. Dar faptul că Avraam s-a așezat împreună cu ele arată că și în mijlocul acestor dezbinări ale celor trupești, adevărații credincioși vor rămâne până la sfârșit. La apusul soarelui, o mare frică a căzut peste Avraam și o groază de mare întuneric. Aceasta arată că spre sfârșitul acestei lumi credincioșii vor fi într-o mare tulburare și strâmtorare, despre care Domnul a spus în Evanghelie: „Căci atunci va fi mare necaz, cum n-a mai fost de la început.”"
+   },
+   {
+    "author": "Cartea Jubileelor 14 — comparație",
+    "text": "Și a zidit acolo un altar, și le-a jertfit pe toate acestea; și a turnat sângele lor pe altar, și le-a despărțit prin mijloc, și le-a pus unele în fața altora; dar păsările nu le-a despărțit.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 14,
+      "v": 11
+     }
+    }
    }
   ],
   "refs": [
@@ -2707,6 +2784,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Ieronim, Întrebări ebraice la Facere",
     "text": "(Versetul 12) Dar când soarele era să apună, o toropeală adâncă a căzut peste Avram. Cuvântul pentru toropeală adâncă în ebraică este Thardema (), care înseamnă o coborâre, și noi l-am tradus „somn adânc”."
+   },
+   {
+    "author": "Cartea Jubileelor 14 — comparație",
+    "text": "Și a zidit acolo un altar, și le-a jertfit pe toate acestea; și a turnat sângele lor pe altar, și le-a despărțit prin mijloc, și le-a pus unele în fața altora; dar păsările nu le-a despărțit.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 14,
+      "v": 11
+     }
+    }
    }
   ],
   "refs": [
@@ -2979,6 +3067,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 13,
       "v": 2
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 14 — comparație",
+    "text": "Și s-a întâmplat, când a apus soarele, că a căzut o răpire asupra lui Avram, și iată, o groază de întuneric mare a căzut asupra lui, și i s-a zis lui Avram: Să știi negreșit că sămânța ta va fi străină într-un ținut care nu este al lor, și îi vor aduce în robie, și-i vor necăji patru sute de ani.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 14,
+      "v": 13
      }
     }
    }
@@ -3530,6 +3629,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Zohar, Vaiera 24:7",
     "text": "De aceea nu face Sfântul, binecuvântat fie El, judecată în răufăcători până nu s-au desăvârșit în păcatele lor; acesta e ce e scris (Geneza 15:16): «că nu e plin nelegiuirea amoritului până acum». Și e scris (Isaia 27:8): «cu măsură, când o vei alunga, te vei certa cu ea». Și de aceea pâra asupra lui Yehoșua să fie ars în ei, până i-a zis (Zaharia 3:2): «să te mustre Domnul, satane». Cine i-a zis? Acesta e îngerul Domnului (și s-a spus: «și a zis Domnul către satan»)."
+   },
+   {
+    "author": "Mișna, Mărturiile 2:9",
+    "text": "El spunea: tatăl dobândește pentru fiu frumusețea, puterea, bogăția, înțelepciunea, anii și numărul generațiilor dinaintea lui; și acesta este sfârșitul, căci s-a spus (Isaia 41:4): „Cel care cheamă generațiile de la început”; deși s-a spus (Geneza 15:13): „Și îi vor robi și îi vor asupri patru sute de ani”, și s-a spus (Geneza 15:16): „Și a patra generație se va întoarce aici.”",
+    "src": {
+     "slug": "mishna-eduyot",
+     "spec": {
+      "num": 2,
+      "v": 9
+     }
+    }
    },
    {
     "author": "Cartea Jubileelor 14 — comparație",

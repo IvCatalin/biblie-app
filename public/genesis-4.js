@@ -329,6 +329,17 @@ window.CHAPTER_DATA = [
       "v": 3
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 2",
+    "text": "Adam și Eva au avut doi fii: cel mai în vârstă se numea Cain, nume care, tălmăcit, înseamnă o stăpânire; cel mai tânăr era Abel, ceea ce înseamnă întristare. Au avut și fiice. Cei doi frați se bucurau de feluri de viață diferite: căci Abel, cel mai tânăr, era iubitor de dreptate și, crezând că Dumnezeu este de față la toate faptele lui, se deosebea prin virtute; iar îndeletnicirea lui era aceea de păstor. Dar Cain era nu numai foarte stricat în alte privințe, ci era cu totul pornit spre câștig; și el a fost cel dintâi care a născocit arătura pământului. Și-a ucis fratele cu prilejul următor: Hotărâseră să aducă jertfă lui Dumnezeu. Cain a adus roadele pământului și ale muncii lui; dar Abel a adus lapte și cele dintâi roade ale turmelor sale; Dumnezeu însă S-a bucurat mai mult de darul din urmă, fiind cinstit cu ceea ce a crescut firesc, de la sine, decât cu ceea ce era născocirea unui om lacom și dobândit prin silirea pământului; de aceea Cain s-a mâniat foarte tare că Abel a fost preferat de Dumnezeu înaintea lui; și și-a ucis fratele și i-a ascuns trupul mort, crezând că va scăpa de descoperire. Dar Dumnezeu, știind ce se făcuse, a venit la Cain și l-a întrebat ce s-a făcut cu fratele său, pentru că nu-l mai văzuse de multe zile, în timp ce în alte vremuri îi vedea stând de vorbă împreună. Dar Cain era în cumpănă cu sine și nu știa ce răspuns să dea lui Dumnezeu. La început a spus că el însuși nu înțelege ce s-a întâmplat cu dispariția fratelui său; dar când a fost mâniat de Dumnezeu, care îl silea stăruitor, hotărât să afle ce s-a întâmplat, a răspuns că nu era păzitorul sau ocrotitorul fratelui său și nici cel care să observe ce face acesta. Dar, drept răspuns, Dumnezeu l-a dovedit pe Cain că a fost ucigașul fratelui său și a zis: „Mă mir de tine, că nu știi ce s-a făcut cu un om pe care tu însuți l-ai nimicit.” Dumnezeu nu a dat, așadar, asupra lui pedeapsa [cu moartea], din pricina jertfei pe care o adusese și prin care Îl ruga să nu fie fără măsură în mânia Lui față de el; dar l-a făcut blestemat și a amenințat neamul lui până la a șaptea generație. L-a alungat, de asemenea, împreună cu soția lui, din acel pământ. Și când el s-a temut că, rătăcind, va cădea între fiare sălbatice și va pieri astfel, Dumnezeu i-a spus să nu aibă o asemenea bănuială întristătoare și să străbată tot pământul fără teama vreunui rău pe care l-ar putea suferi de la fiare sălbatice; și, punându-i un semn ca să fie cunoscut, i-a poruncit să plece.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 3,
+      "v": 1
+     }
+    }
    }
   ],
   "fidela": "Și Adam a cunoscut-o pe Eva, soția lui, și ea a rămas însărcinată și a născut pe Cain și a spus: Am primit un bărbat de la DOMNUL."
@@ -839,6 +850,17 @@ window.CHAPTER_DATA = [
       "v": 1
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Și a fost în anul 130 al vieții lui Adam pe pământ, că el iarăși a cunoscut-o pe Eva nevasta sa, și ea a zămislit și născut un fiu după asemănarea lui și după chipul lui, și ea l-a numit Set, spunând, deoarece Dumnezeu mi-a desemnat încă o sămânță în locul lui Abel, căci Cain l-a ucis pe el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 1
+     }
+    }
    }
   ],
   "fidela": "Și s-a întâmplat că, după un timp, Cain a adus un dar DOMNULUI, din rodul pământului.",
@@ -1110,6 +1132,17 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Și a fost în anul 130 al vieții lui Adam pe pământ, că el iarăși a cunoscut-o pe Eva nevasta sa, și ea a zămislit și născut un fiu după asemănarea lui și după chipul lui, și ea l-a numit Set, spunând, deoarece Dumnezeu mi-a desemnat încă o sămânță în locul lui Abel, căci Cain l-a ucis pe el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -1329,6 +1362,17 @@ window.CHAPTER_DATA = [
       "v": 3
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Și a fost în anul 130 al vieții lui Adam pe pământ, că el iarăși a cunoscut-o pe Eva nevasta sa, și ea a zămislit și născut un fiu după asemănarea lui și după chipul lui, și ea l-a numit Set, spunând, deoarece Dumnezeu mi-a desemnat încă o sămânță în locul lui Abel, căci Cain l-a ucis pe el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 1
+     }
+    }
    }
   ],
   "fidela": "Dar la Cain și la darul său nu s-a uitat cu plăcere. Și Cain s-a înfuriat tare și i s-a posomorât fața.",
@@ -1509,6 +1553,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
     "text": "Și Domnul i-a zis: De ce te-ai mâniat și de ce ți s-a posomorât fața? Dacă faci bine, nu vei fi primit? Dar dacă nu faci bine, păcatul stă la ușă? De ce, zice, te-ai mâniat și de ce te chinuiești cu pizma față de fratele tău și îți ții ochii plecați la pământ? Dacă faci bine, dacă aduci jertfa ta cu inimă curată, nu vei fi primit, uitându-Se Domnul cu bunăvoință la tine și la jertfa ta? Dar dacă nu faci bine, păcatul stă la ușă, iar având un astfel de portar vei intra și vei ieși mereu cu el alături, în loc să-ți păzească Domnul intrarea și ieșirea, după cum se spune despre înțelepciune: Cine se scoală de dimineață să o caute nu se va osteni, căci o va afla șezând la ușile lui (Înțelepciunea 6:15). Și iarăși: Pentru că ea umblă căutând pe cei vrednici de ea și li se arată cu bunăvoință pe căile lor și îi întâmpină cu toată purtarea ei de grijă (Înțelepciunea 6:17)."
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Și a fost în anul 130 al vieții lui Adam pe pământ, că el iarăși a cunoscut-o pe Eva nevasta sa, și ea a zămislit și născut un fiu după asemănarea lui și după chipul lui, și ea l-a numit Set, spunând, deoarece Dumnezeu mi-a desemnat încă o sămânță în locul lui Abel, căci Cain l-a ucis pe el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -1764,6 +1819,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 4,
       "v": 4
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Și a fost în anul 130 al vieții lui Adam pe pământ, că el iarăși a cunoscut-o pe Eva nevasta sa, și ea a zămislit și născut un fiu după asemănarea lui și după chipul lui, și ea l-a numit Set, spunând, deoarece Dumnezeu mi-a desemnat încă o sămânță în locul lui Abel, căci Cain l-a ucis pe el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 1
      }
     }
    }
@@ -2541,6 +2607,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Origen, Îndemn la mucenicie 50",
     "text": "Știm, de asemenea, că ce s-a spus despre Abel, când a fost ucis de ucigașul nelegiuit Cain, se potrivește tuturor celor al căror sânge a fost vărsat pe nedrept. Să socotim că versetul „Glasul sângelui fratelui tău strigă către Mine din pământ” este spus și despre fiecare dintre mucenici, al căror glas al sângelui strigă către Dumnezeu din pământ."
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Și Domnul a răsplătit răului lui Cain conform nelegiuirii lui, pe care o făcuse fratelui lui Abel, conform Cuvântului Domnului pe care el îl rostise.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 29
+     }
+    }
    }
   ],
   "fidela": "Iar el a spus: Ce ai făcut? Vocea sângelui fratelui tău strigă din pământ către mine."
@@ -5668,6 +5745,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Răzbunarea nemăsurată a lui Lameh („de șaptezeci și șapte de ori”) arată logica vendetei de sânge, pe care legile din Orientul Apropiat o limitau: Codul lui Hammurabi, de pildă, pune în loc pedeapsa măsurată, „ochi pentru ochi”, ca să oprească lanțul răzbunărilor."
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Și el a spus nevestelor sale Ada și Țila: Ascultați vocea mea, o neveste ale lui Lameh, urmați cuvintelor, căci acum v-ați imaginat și ați spus că eu am ucis un om cu rănirile mele, și un copil cu loviturile mele pentru că ei nu au făcut violență, dar cunoașteți cu siguranță că eu sunt bătrân și am părul cărunt, și că ochii mei sunt grei prin vârstă, și eu am făcut acest lucru în necunoștință.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 35
+     }
+    }
    }
   ],
   "fidela": "Dacă va fi răzbunat Cain de șapte ori, cu adevărat, Lameh de șaptezeci și șapte de ori."
@@ -6050,6 +6138,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 4,
       "v": 10
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 4 — comparație",
+    "text": "Și în întâiul an al celui de-al treilea jubileu Cain l-a ucis pe Abel, pentru că Dumnezeu a primit jertfa lui Abel, și n-a primit darul lui Cain.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 4,
+      "v": 2
      }
     }
    }

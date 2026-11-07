@@ -185,6 +185,17 @@ window.CHAPTER_DATA = [
       "v": 7
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 14",
+    "text": "Sara a murit după puțină vreme, trăind o sută douăzeci și șapte de ani. Au îngropat-o în Hebron; canaaniții îngăduindu-le în văzul tuturor un loc de îngropare; bucată de pământ pe care Avraam a cumpărat-o cu patru sute de sicli de la Efron, un locuitor al Hebronului. Și Avraam, și urmașii lui și-au zidit morminte în acel loc.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 15,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -951,6 +962,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Zohar, Haiei Sara 14:6",
     "text": "De îndată ce i-au zis înaintea lui Efron: «ascultă-ne, stăpâne, prinț al lui Dumnezeu ești tu în mijlocul nostru» etc. Ce e scris: «și Efron ședea în mijlocul fiilor lui Ḥet». «A șezut» e scris: de la începutul cuvintelor pe care le-a zis Avraham era acolo. Atunci a zis: «ascultați-mă și mijlociți pentru mine la Efron fiul lui Ẓoḥar, și să-mi dea peștera Makhpela care e a lui» etc. Și dacă vei zice: din pricina cinstei mele mai mult decât a voastră fac, că nu-mi pasă de voi — «în mijlocul vostru»: ca să fiu îngropat între voi, că îmi pasă de voi, ca să nu mă despart de voi."
+   },
+   {
+    "author": "Cartea Dreptului 24 — comparație",
+    "text": "Sunt un străin și un venetic cu voi în ținutul vostru; dați-mi o posesiune de loc de îngropare în ținutul vostru, ca să o pot îngropa pe moartă dinaintea mea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 24,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -1190,6 +1212,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Moartea Sarei a fost prilejul primei dobândiri de pământ de către patriarh. Sfânta Scriptură ne arată în toate cazurile virtutea patriarhului, anume că și-a petrecut tot timpul ca străin și nomad. Și ne pomenește acest din urmă lucru ca să aflăm că omul care se bucura de atât de mult ajutor de sus, care ajunsese atât de vestit și crescuse la o mulțime atât de mare, nu putea numi un loc al lui, spre deosebire de mulți oameni de azi, care își îndreaptă toată luarea-aminte spre dobândirea de pământuri, de orașe întregi și de bogății nespuse. Căci el avea destulă bogăție în gândul lui și nu punea preț pe celelalte. Să ia aminte la aceasta cei care, într-o clipită, își însușesc tot ce își pot închipui și, ca să spunem așa, își întind în toate părțile pofta de câștig. Să-l imite și pe patriarhul care n-avea nici măcar un loc unde să pună rămășițele Sarei, până când, silit de însăși nevoia, a cumpărat ogorul și peștera de la hitiți. Ca dovadă că era de fapt respectat de locuitorii Canaanului, ascultă cuvintele pe care i le-au adresat hitiții: „Tu ești rege între noi, din voia lui Dumnezeu; îngroapă-ți mortul în cele mai bune morminte ale noastre. Căci nimeni dintre noi nu-ți va opri mormântul.”"
+   },
+   {
+    "author": "Cartea Dreptului 24 — comparație",
+    "text": "Sunt un străin și un venetic cu voi în ținutul vostru; dați-mi o posesiune de loc de îngropare în ținutul vostru, ca să o pot îngropa pe moartă dinaintea mea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 24,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -1354,6 +1387,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Avraam s-a ridicat etc. și s-a prosternat etc.» Le-a dezvăluit contrariul vorbelor lor către el, căci nu se socotește pe sine prinț pentru ei, ci în rândul în care ei sunt în cinste mai presus de el."
+   },
+   {
+    "author": "Cartea Dreptului 24 — comparație",
+    "text": "Sunt un străin și un venetic cu voi în ținutul vostru; dați-mi o posesiune de loc de îngropare în ținutul vostru, ca să o pot îngropa pe moartă dinaintea mea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 24,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -1809,6 +1853,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 19,
       "v": 5
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 24 — comparație",
+    "text": "Și Avraam le-a spus lor, dacă sunteți de acord cu aceasta, mergeți și rugați-l pentru mine pe Efron, fiul lui Zocar, cerând ca el să îmi dea peștera din Macpela, care este în capătul terenului său, iar eu o voi cumpăra de la el pentru oricât dorește el pentru ea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 24,
+      "v": 4
      }
     }
    }
@@ -3420,6 +3475,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Unii cercetători au legat tocmai insistența lui Efron să vândă „tot câmpul, cu peștera și cu copacii din el” de legile hitite, în care obligațiile feudale rămâneau în sarcina celui care stăpânea întregul domeniu. Părerea e discutată, dar arată că vânzarea din Geneza 23 respectă formele juridice ale vremii."
+   },
+   {
+    "author": "Cartea Dreptului 24 — comparație",
+    "text": "Iar Efron și toți frații lui au auzit aceasta, și Avraam i-a cântărit lui Efron 400 de shekeli de argint în mâinile lui Efron și în mâinile tuturor fraților lui; și Avraam a scris această tranzacție, și a scris-o și a mărturisit-o cu patru martori.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 24,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -3577,6 +3643,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Sub ochii fiilor lui Het»: sub ochii lor i-a cântărit argintul lui Efron, și sub ochii lor i l-a vândut Efron și i-a făcut un act de cumpărare.<br><br>«Pentru toți cei care veniseră la poarta orașului său»: cu toți cei care veneau la poarta orașului său, care erau acolo în vremea cumpărării. Iar cel dintâi este le-khol, iar cel de pe urmă be-khol; și un singur verset este semn: „pentru toate (le-khol) uneltele Tabernacolului, pentru toată (be-khol) slujba sa”."
+   },
+   {
+    "author": "Cartea Dreptului 24 — comparație",
+    "text": "Iar Efron și toți frații lui au auzit aceasta, și Avraam i-a cântărit lui Efron 400 de shekeli de argint în mâinile lui Efron și în mâinile tuturor fraților lui; și Avraam a scris această tranzacție, și a scris-o și a mărturisit-o cu patru martori.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 24,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -3819,6 +3896,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 24,
       "v": 12
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 19 — comparație",
+    "text": "Și Domnul i-a dat har înaintea tuturor celor ce-l vedeau, și a rugat cu blândețe pe fiii lui Het, și i-au dat ținutul peșterii îndoite în fața Mamre, adică Hebron, pentru patru sute de arginți.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 19,
+      "v": 5
      }
     }
    }

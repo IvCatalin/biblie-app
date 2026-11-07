@@ -492,6 +492,17 @@ window.CHAPTER_DATA = [
       "v": 25
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+    "text": "Mai departe, Moise, după ce a trecut ziua a șaptea, începe să vorbească filosofic; și despre alcătuirea omului spune astfel: că Dumnezeu a luat țărână din pământ și a întocmit pe om și a pus în el un duh și un suflet. Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă cel roșu, pentru că a fost alcătuit din pământ roșu, frământat laolaltă; căci de acest fel este pământul fecioresc și adevărat. Dumnezeu a înfățișat, de asemenea, lui Adam viețuitoarele, după ce le făcuse, după soiurile lor, atât parte bărbătească, cât și parte femeiască, iar el le-a dat acele nume cu care ele se numesc și astăzi. Dar când a văzut că Adam nu avea nicio tovarășă femeie, nicio societate, căci nu fusese creată una, și că el se mira de celelalte animale care erau parte bărbătească și parte femeiască, l-a adormit și i-a luat una dintre coaste și din ea a întocmit pe femeie; după care Adam a cunoscut-o când i-a fost adusă și a recunoscut că a fost făcută din el însuși. Femeia se numește în limba ebraică Issa; dar numele acestei femei a fost Eva, ceea ce înseamnă mama tuturor celor vii.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 2,
+      "v": 2
+     }
+    }
    }
   ],
   "textCompare": [
@@ -855,6 +866,17 @@ window.CHAPTER_DATA = [
       "v": 24
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+    "text": "Mai departe, Moise, după ce a trecut ziua a șaptea, începe să vorbească filosofic; și despre alcătuirea omului spune astfel: că Dumnezeu a luat țărână din pământ și a întocmit pe om și a pus în el un duh și un suflet. Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă cel roșu, pentru că a fost alcătuit din pământ roșu, frământat laolaltă; căci de acest fel este pământul fecioresc și adevărat. Dumnezeu a înfățișat, de asemenea, lui Adam viețuitoarele, după ce le făcuse, după soiurile lor, atât parte bărbătească, cât și parte femeiască, iar el le-a dat acele nume cu care ele se numesc și astăzi. Dar când a văzut că Adam nu avea nicio tovarășă femeie, nicio societate, căci nu fusese creată una, și că el se mira de celelalte animale care erau parte bărbătească și parte femeiască, l-a adormit și i-a luat una dintre coaste și din ea a întocmit pe femeie; după care Adam a cunoscut-o când i-a fost adusă și a recunoscut că a fost făcută din el însuși. Femeia se numește în limba ebraică Issa; dar numele acestei femei a fost Eva, ceea ce înseamnă mama tuturor celor vii.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 2,
+      "v": 2
+     }
+    }
    }
   ],
   "textCompare": [
@@ -1181,6 +1203,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament",
     "text": "Explică etimologia cuvântului englez „Lord” (Domnul): venit din vechiul „hlaford”, literal „cel ce dă pâinea” — un titlu al vechilor nobili care țineau casă deschisă pentru supușii lor. Vede aici o potrivire providențială cu Numele divin: Dumnezeu dă pâinea vieții de-acum, iar mai târziu Hristos avea să fie numit „pâinea vieții” coborâtă din cer."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+    "text": "Mai departe, Moise, după ce a trecut ziua a șaptea, începe să vorbească filosofic; și despre alcătuirea omului spune astfel: că Dumnezeu a luat țărână din pământ și a întocmit pe om și a pus în el un duh și un suflet. Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă cel roșu, pentru că a fost alcătuit din pământ roșu, frământat laolaltă; căci de acest fel este pământul fecioresc și adevărat. Dumnezeu a înfățișat, de asemenea, lui Adam viețuitoarele, după ce le făcuse, după soiurile lor, atât parte bărbătească, cât și parte femeiască, iar el le-a dat acele nume cu care ele se numesc și astăzi. Dar când a văzut că Adam nu avea nicio tovarășă femeie, nicio societate, căci nu fusese creată una, și că el se mira de celelalte animale care erau parte bărbătească și parte femeiască, l-a adormit și i-a luat una dintre coaste și din ea a întocmit pe femeie; după care Adam a cunoscut-o când i-a fost adusă și a recunoscut că a fost făcută din el însuși. Femeia se numește în limba ebraică Issa; dar numele acestei femei a fost Eva, ceea ce înseamnă mama tuturor celor vii.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 2,
+      "v": 2
+     }
+    }
    }
   ],
   "textCompare": [
@@ -1588,6 +1621,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Keil-Delitzsch, Comentariu la Vechiul Testament",
     "text": "Distinge tehnic „câmpul” de „pământul” din capitolul întâi: „câmpul” e doar partea de pământ potrivită lucrării omului, nu tot pământul — de aceea „copăcelul câmpului” și „fiara câmpului” (3:1) sunt categorii mai restrânse decât „toată vegetația pământului” sau „fiara pământului” din Geneza 1."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+    "text": "Mai departe, Moise, după ce a trecut ziua a șaptea, începe să vorbească filosofic; și despre alcătuirea omului spune astfel: că Dumnezeu a luat țărână din pământ și a întocmit pe om și a pus în el un duh și un suflet. Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă cel roșu, pentru că a fost alcătuit din pământ roșu, frământat laolaltă; căci de acest fel este pământul fecioresc și adevărat. Dumnezeu a înfățișat, de asemenea, lui Adam viețuitoarele, după ce le făcuse, după soiurile lor, atât parte bărbătească, cât și parte femeiască, iar el le-a dat acele nume cu care ele se numesc și astăzi. Dar când a văzut că Adam nu avea nicio tovarășă femeie, nicio societate, căci nu fusese creată una, și că el se mira de celelalte animale care erau parte bărbătească și parte femeiască, l-a adormit și i-a luat una dintre coaste și din ea a întocmit pe femeie; după care Adam a cunoscut-o când i-a fost adusă și a recunoscut că a fost făcută din el însuși. Femeia se numește în limba ebraică Issa; dar numele acestei femei a fost Eva, ceea ce înseamnă mama tuturor celor vii.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 2,
+      "v": 2
+     }
+    }
    }
   ],
   "textCompare": [
@@ -1845,6 +1889,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Gill, Expunerea întregii Biblii",
     "text": "Notează o lectură alternativă, susținută de Saadia Gaon: versetul s-ar putea citi negativ — „niciun abur nu se ridica din pământ” — adică pământul întreg fusese acoperit de vegetație în ziua a treia fără nicio adiere de vreme, dovadă și mai puternică a puterii creatoare directe."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+    "text": "Mai departe, Moise, după ce a trecut ziua a șaptea, începe să vorbească filosofic; și despre alcătuirea omului spune astfel: că Dumnezeu a luat țărână din pământ și a întocmit pe om și a pus în el un duh și un suflet. Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă cel roșu, pentru că a fost alcătuit din pământ roșu, frământat laolaltă; căci de acest fel este pământul fecioresc și adevărat. Dumnezeu a înfățișat, de asemenea, lui Adam viețuitoarele, după ce le făcuse, după soiurile lor, atât parte bărbătească, cât și parte femeiască, iar el le-a dat acele nume cu care ele se numesc și astăzi. Dar când a văzut că Adam nu avea nicio tovarășă femeie, nicio societate, căci nu fusese creată una, și că el se mira de celelalte animale care erau parte bărbătească și parte femeiască, l-a adormit și i-a luat una dintre coaste și din ea a întocmit pe femeie; după care Adam a cunoscut-o când i-a fost adusă și a recunoscut că a fost făcută din el însuși. Femeia se numește în limba ebraică Issa; dar numele acestei femei a fost Eva, ceea ce înseamnă mama tuturor celor vii.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 2,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -2135,17 +2190,6 @@ window.CHAPTER_DATA = [
     "text": "Epopeea akkadiană Atrahasis (sec. XVIII î.Hr.) povestește crearea omului dintr-un motiv practic: zeii mai mici, obosiți de muncă, se revoltă, iar zeița Nintu îl plăsmuiește pe om din lut amestecat cu sângele (și, în unele versiuni, saliva) unui zeu jertfit, ca omul să preia munca — „să poarte jugul”. Paralela cu Facerea e izbitoare la nivel de material (lut/țărână + o suflare/element divin), dar diferența de motivație e la fel de importantă: în Atrahasis omul e creat ca sclav care să scutească zeii de muncă; în Geneza, omul e creat din grija lui Dumnezeu și pus într-o grădină pregătită special pentru el (v. 8-9), nu ca simplă forță de muncă exploatată."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă cel roșu, pentru că a fost alcătuit din pământ roșu, frământat laolaltă; căci de acest fel este pământul fecioresc și adevărat.",
-    "src": {
-     "slug": "josephus-antichitati-cartea1",
-     "spec": {
-      "num": 2,
-      "v": 2
-     }
-    }
-   },
-   {
     "author": "Grigorie de Nazianz, Imnuri dogmatice 7",
     "text": "Sufletul e suflarea lui Dumnezeu, o substanță cerească amestecată cu țărâna cea de jos, o lumină îngropată într-o peșteră, dar cu totul dumnezeiască și nestinsă... A grăit, și, luând ceva din pământul proaspăt plăsmuit, mâinile Lui cele nemuritoare au făcut un chip în care a pus ceva din viața Sa proprie. A trimis Duhul Său, o rază din dumnezeirea cea nevăzută."
    },
@@ -2268,6 +2312,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 7,
       "v": 92
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+    "text": "Mai departe, Moise, după ce a trecut ziua a șaptea, începe să vorbească filosofic; și despre alcătuirea omului spune astfel: că Dumnezeu a luat țărână din pământ și a întocmit pe om și a pus în el un duh și un suflet. Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă cel roșu, pentru că a fost alcătuit din pământ roșu, frământat laolaltă; căci de acest fel este pământul fecioresc și adevărat. Dumnezeu a înfățișat, de asemenea, lui Adam viețuitoarele, după ce le făcuse, după soiurile lor, atât parte bărbătească, cât și parte femeiască, iar el le-a dat acele nume cu care ele se numesc și astăzi. Dar când a văzut că Adam nu avea nicio tovarășă femeie, nicio societate, căci nu fusese creată una, și că el se mira de celelalte animale care erau parte bărbătească și parte femeiască, l-a adormit și i-a luat una dintre coaste și din ea a întocmit pe femeie; după care Adam a cunoscut-o când i-a fost adusă și a recunoscut că a fost făcută din el însuși. Femeia se numește în limba ebraică Issa; dar numele acestei femei a fost Eva, ceea ce înseamnă mama tuturor celor vii.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 2,
+      "v": 2
      }
     }
    }
@@ -2900,6 +2955,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 7,
       "v": 93
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 1 — comparație",
+    "text": "Atunci Dumnezeu le-a dat și lor porunci și le-a arătat că nu trebuie să se atingă de pom. Dar șarpele cel hâd i-a dus în ispită prin vicleșug, ca să întâmpine osânda morții și să primească cunoașterea binelui și a răului. Femeia a fost cea dintâi care L-a trădat; ea i-a dat și a hotărât pe nechibzuite să păcătuiască; iar el, ascultând cuvintele femeii, a uitat de Făcătorul nemuritor și a disprețuit poruncile limpezi. De aceea, în loc de bine a primit rău, după fapta lui.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 1,
+      "v": 7
      }
     }
    }
@@ -5632,6 +5698,17 @@ window.CHAPTER_DATA = [
       "v": 4
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și în aceste cinci zile Adam a văzut pe toate acestea, parte bărbătească și parte femeiască, după tot felul care era pe pământ, dar era singur și n-a găsit un ajutor potrivit pentru el.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 3
+     }
+    }
    }
   ],
   "textCompare": [
@@ -6182,6 +6259,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 6,
       "v": 79
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și Domnul Dumnezeul nostru a adus asupra lui un somn adânc, și el a adormit, și El a luat pentru femeie o coastă dintre coastele lui, și coasta aceasta a fost obârșia femeii dintre coastele lui, și a zidit carnea în locul ei, și a zidit femeia.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 5
      }
     }
    }
@@ -6950,6 +7038,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
     "text": "Explică lipsa rușinii prin lipsa oricărei răzvrătiri a trupului împotriva minții: nu exista încă acea „lege a mădularelor” care să lupte împotriva legii minții — urmare directă a păcatului, nu stare inițială."
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "De aceea vor fi bărbatul și femeia una, și de aceea va lăsa omul pe tatăl său și pe mama sa, și se va lipi de soția sa, și vor fi un singur trup.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 7
+     }
+    }
    }
   ],
   "textCompare": [

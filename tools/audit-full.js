@@ -62,7 +62,7 @@ for (const N of process.argv.slice(2).map(Number)) {
     }
     // 6) comentarii
     for (const c of x.commentaries) { comm++; if (BAD.test(c.author)) add(x.num, 'interzis', 'autor: ' + c.author);
-      const k = (c.text || '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim().slice(0, 140); if (k && !/^În lucru/.test(k)) { const kk = c.author.split(/[(,]/)[0].trim() + '|' + k; if (seen[kk]) add(x.num, 'dublu', 'rând dublat: ' + c.author.slice(0, 40)); else seen[kk] = 1; } }
+      const k = (c.text || '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim().slice(0, 140); if (k && !/^În lucru/.test(k)) { const kk = c.author.split(/[(,]/)[0].trim() + '|' + k + (c.src ? '@' + x.num : ''); if (seen[kk]) add(x.num, 'dublu', 'rând dublat: ' + c.author.slice(0, 40)); else seen[kk] = 1; } }
     refs += (x.refs || []).length;
     if (!x.fidela && D.some(y => y.fidela)) add(x.num, 'fidela', 'fără Fidela');
   }

@@ -37,13 +37,14 @@ for (let n = 1; n <= MAXC; n++) { const f = 'public/genesis-' + n + '.js'; GEN[n
 const df = {}; let nv = 0;
 for (const n in GEN) for (const x of GEN[n]) { nv++; x._st = new Set(stems(x.tokens.map(t => t.t).join(''))); x._st.forEach(w => df[w] = (df[w] || 0) + 1); }
 const idf = (w) => Math.log(nv / (1 + (df[w] || 0)));
-const existing = new Set(); for (const n in GEN) for (const x of GEN[n]) for (const c of x.commentaries || []) if (c.text) existing.add(plain(c.text));
+const exv = new Set(); const hasV = (n, num, t) => exv.has(n + ':' + num + '|' + t);
+const existing = new Set(); for (const n in GEN) for (const x of GEN[n]) for (const c of x.commentaries || []) if (c.text) { existing.add(plain(c.text)); exv.add(n + ':' + x.num + '|' + plain(c.text)); }
 const cap = {}; const added = {}; let tot = 0, skipLow = 0, dup = 0; const report = [];
 for (const slug in W) for (const c in W[slug]) {
   if (slug === 'josephus-antichitati-cartea1') continue; // Josephus: potrivire manuală mai jos
   const win = W[slug][c]; const lo = win[0], hi = win.length === 4 ? win[2] : win[1]; const us = units[slug](+c); const MINS = slug === 'jubileele' ? MIN + 4 : MIN; const FORCE = win.length === 4 && win[0] === win[2] && win[1] === win[3];
   const vs = []; for (let n = lo; n <= hi; n++) for (const x of (GEN[n] || [])) { if (win.length === 4 && ((n === lo && x.num < win[1]) || (n === hi && x.num > win[3]))) continue; vs.push({ n, x }); }
-  if (FORCE) { const x0 = vs[0] && vs[0].x; if (!x0) continue; const sc = us.map((u, i) => { let sv = 0, k = 0; for (const w of stems(u.t)) if (x0._st.has(w)) { sv += idf(w); k++; } return { i, sv, k }; }).filter(q => q.k >= 2).sort((a, b) => b.sv - a.sv).slice(0, 3); for (const q of sc) { const u = us[q.i]; const ck = slug + '|' + vs[0].n + ':' + x0.num; cap[ck] = cap[ck] || 0; if (cap[ck] >= 6 || existing.has(u.t)) continue; cap[ck]++; (added[vs[0].n] = added[vs[0].n] || []).push({ x: x0, row: { author: label[slug](+c), text: u.t, src: { slug, spec: { num: +c, v: u.v } } } }); existing.add(u.t); tot++; if (SHOW) report.push('  + ' + slug + ' ' + c + ':' + u.v + ' → Gen ' + vs[0].n + ':' + x0.num + ' (forțat ' + q.sv.toFixed(1) + ') ' + u.t.slice(0, 60)); } continue; }
+  if (FORCE) { const x0 = vs[0] && vs[0].x; if (!x0) continue; const sc = us.map((u, i) => { let sv = 0, k = 0; for (const w of stems(u.t)) if (x0._st.has(w)) { sv += idf(w); k++; } return { i, sv, k }; }).filter(q => q.k >= 2).sort((a, b) => b.sv - a.sv).slice(0, 3); for (const q of sc) { const u = us[q.i]; const ck = slug + '|' + vs[0].n + ':' + x0.num; cap[ck] = cap[ck] || 0; if (cap[ck] >= 6 || hasV(vs[0].n, x0.num, u.t)) continue; cap[ck]++; (added[vs[0].n] = added[vs[0].n] || []).push({ x: x0, row: { author: label[slug](+c), text: u.t, src: { slug, spec: { num: +c, v: u.v } } } }); exv.add(vs[0].n + ':' + x0.num + '|' + u.t); tot++; if (SHOW) report.push('  + ' + slug + ' ' + c + ':' + u.v + ' → Gen ' + vs[0].n + ':' + x0.num + ' (forțat ' + q.sv.toFixed(1) + ') ' + u.t.slice(0, 60)); } continue; }
   // scor unitate x verset
   const S = us.map(u => { const st = stems(u.t); return vs.map(({ x }) => { let s = 0, k = 0; for (const w of st) if (x._st.has(w)) { s += idf(w); k++; } return k >= 4 && s >= MINS ? s : 0; }); });
   // alinierea monotonă (versetul poate primi mai multe unități consecutive; unitățile fără scor se sar)
@@ -57,21 +58,27 @@ for (const slug in W) for (const c in W[slug]) {
   let i = U, j = V; const asg = [];
   while (i > 0 && j > 0) { const f = bk[i][j]; if (f === 'm') { asg.push([i - 1, j - 1]); i--; } else if (f === 'u') i--; else j--; }
   const asgSet = new Set(asg.map(a => a[0]));
-  for (const [ui, vj] of asg.reverse()) {
-    const u = us[ui], { n, x } = vs[vj];
-    if (existing.has(u.t)) { dup++; continue; }
-    (added[n] = added[n] || []).push({ x, row: { author: label[slug](+c), text: u.t, src: { slug, spec: { num: +c, v: u.v } } } }); existing.add(u.t); tot++;
-    if (SHOW) report.push('  + ' + slug + ' ' + c + ':' + u.v + ' → Gen ' + n + ':' + x.num + ' (' + S[ui][vj].toFixed(1) + ') ' + u.t.slice(0, 60));
+  const rawSc = (ui, vj) => { let sv = 0, k = 0; for (const w of stems(us[ui].t)) if (vs[vj].x._st.has(w)) { sv += idf(w); k++; } return { sv, k }; };
+  const list = asg.reverse().sort((p, q) => p[1] - q[1] || p[0] - q[0]);
+  for (let li = 0; li < list.length; li++) {
+    const [ui, vj] = list[li]; const u = us[ui]; const nextV = li + 1 < list.length ? list[li + 1][1] : vs.length; const best = S[ui][vj];
+    let end = vj; while (end + 1 < nextV && end + 1 < vs.length) { const r = rawSc(ui, end + 1); if (r.k >= 2 && r.sv >= 0.35 * best) end++; else break; }
+    if (nextV - end - 1 >= 1 && nextV - end - 1 <= 3 && nextV < vs.length) end = nextV - 1; // golul până la unitatea următoare: unitatea continuă să acopere versetele
+    for (let k = vj; k <= end; k++) { const { n, x } = vs[k]; if (hasV(n, x.num, u.t)) { dup++; continue; }
+      (added[n] = added[n] || []).push({ x, row: { author: label[slug](+c), text: u.t, src: { slug, spec: { num: +c, v: u.v } } } }); exv.add(n + ':' + x.num + '|' + u.t); tot++;
+      if (SHOW) report.push('  + ' + slug + ' ' + c + ':' + u.v + ' → Gen ' + n + ':' + x.num + (k > vj ? ' (acoperit)' : ' (' + S[ui][vj].toFixed(1) + ')') + ' ' + u.t.slice(0, 50)); }
   }
   skipLow += U - asgSet.size;
 }
 // Josephus: potrivire manuală [cap. titlu, unitate, capitol Geneza, verset]
 const JOS = [[1,1,1,1],[1,2,2,2],[1,3,2,8],[1,4,3,1],[2,1,4,1],[2,2,4,17],[2,3,5,5],[3,1,5,6],[3,2,6,9],[3,3,7,11],[3,4,5,3],[3,5,7,12],[3,6,8,4],[3,7,8,20],[3,8,9,11],[3,9,9,29],[4,1,11,1],[4,2,11,4],[4,3,11,4],[5,1,11,8],[6,1,10,2],[6,2,10,6],[6,3,10,1],[6,4,10,22],[6,5,11,26],[7,1,11,31],[7,2,11,28],[8,1,12,10],[8,2,12,11],[8,3,13,1],[9,1,14,1],[10,1,14,14],[10,2,14,17],[10,3,15,1],[10,4,18,1],[11,1,18,20],[11,2,18,17],[11,3,18,23],[11,4,19,1],[11,5,19,31],[12,1,20,1],[12,2,21,2],[12,3,21,9],[12,4,21,21],[13,1,22,2],[13,2,22,3],[13,3,22,9],[13,4,22,12],[14,1,23,1],[15,1,25,1],[16,1,24,2],[16,2,24,17],[16,3,24,32],[17,1,25,8],[18,1,25,21],[18,2,26,1],[18,3,26,12],[18,5,27,1],[18,6,27,6],[18,7,27,30],[18,8,27,46]];
-for (const [cap, un, gn, gv] of JOS) {
-  const slug = 'josephus-antichitati-cartea1'; const u = units[slug](cap).find(q => q.v === un); if (!u) continue; if (existing.has(u.t)) { dup++; continue; }
-  const x = GEN[gn] && GEN[gn].find(q => q.num === gv); if (!x) continue;
-  (added[gn] = added[gn] || []).push({ x, row: { author: label[slug](cap), text: u.t, src: { slug, spec: { num: cap + 1, v: u.v } } } }); existing.add(u.t); tot++;
-  if (SHOW) report.push('  + josephus ' + cap + ':' + un + ' → Gen ' + gn + ':' + gv + ' ' + u.t.slice(0, 60));
+const JS = JOS.slice().sort((p, q) => p[2] - q[2] || p[3] - q[3]);
+for (let ji = 0; ji < JS.length; ji++) {
+  const [cap, un, gn, gv] = JS[ji]; const nx = JS[ji + 1]; let end = gv; if (nx && nx[2] === gn && nx[3] > gv && nx[3] - gv <= 7) end = nx[3] - 1;
+  const slug = 'josephus-antichitati-cartea1'; const u = units[slug](cap).find(q => q.v === un); if (!u) continue;
+  for (let v = gv; v <= end; v++) { const x = GEN[gn] && GEN[gn].find(q => q.num === v); if (!x) continue; if (hasV(gn, v, u.t)) { dup++; continue; }
+    (added[gn] = added[gn] || []).push({ x, row: { author: label[slug](cap), text: u.t, src: { slug, spec: { num: cap + 1, v: u.v } } } }); exv.add(gn + ':' + v + '|' + u.t); tot++;
+    if (SHOW) report.push('  + josephus ' + cap + ':' + un + ' → Gen ' + gn + ':' + v + ' ' + u.t.slice(0, 50)); }
 }
 if (SHOW) console.log(report.join('\n'));
 console.log((WRITE ? 'SCRIS' : 'PROBĂ') + ' | rânduri noi ' + tot + ' | unități nelegate ' + skipLow + ' | existau ' + dup);

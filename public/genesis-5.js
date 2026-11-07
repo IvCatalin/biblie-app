@@ -939,6 +939,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Calvin, Comentariu la Facere",
     "text": "4. Și zilele lui Adam după ce l-a născut pe Set. În numărul anilor înregistrați aici trebuie să luăm seama în special la lunga vreme cât au trăit patriarhii împreună. Căci, de-a lungul a șase veacuri la rând, când familia lui Set se făcuse un popor mare, glasul lui Adam putea răsuna în fiecare zi, ca să înnoiască amintirea creației, a căderii și a pedepsei omului; să mărturisească nădejdea de mântuire care rămăsese după pedeapsă și să povestească judecățile lui Dumnezeu, prin care toți puteau fi învățați. După moartea lui, fiii lui ar fi putut, într-adevăr, să transmită, ca din mână în mână, urmașilor lor ce învățaseră; dar mult mai eficace ar fi învățătura din gura aceluia care fusese el însuși martor ocular al tuturor acestor lucruri. Totuși, atât de uimitoare și chiar de monstruoasă era încăpățânarea de obște, încât nici partea mai sănătoasă a neamului omenesc n-a putut fi ținută în ascultare și în frica de Dumnezeu."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
+    "text": "Căci Set s-a născut când Adam era în al două sute treizecilea an al său, care a trăit nouă sute treizeci de ani. Set l-a născut pe Enos în al două sute cincilea an al său; care, după ce a trăit nouă sute doisprezece ani, a dat conducerea lui Cainan, fiul său, pe care îl avusese în al o sută nouăzecilea an. A trăit nouă sute cinci ani. Cainan, după ce a trăit nouă sute zece ani, l-a avut pe fiul său Malaleel, care s-a născut în al o sută șaptezecilea an al lui. Acest Malaleel, după ce a trăit opt sute nouăzeci și cinci de ani, a murit, lăsând pe fiul său Iared, pe care l-a născut când era în al o sută șaizeci și cincilea an. Acesta a trăit nouă sute șaizeci și doi de ani; și apoi i-a urmat fiul său Enoh, care s-a născut când tatăl său avea o sută șaizeci și doi de ani. Acesta, după ce a trăit trei sute șaizeci și cinci de ani, a plecat și s-a dus la Dumnezeu; de aceea nu au scris moartea lui. Matusala, fiul lui Enoh, care i s-a născut când acesta avea o sută șaizeci și cinci de ani, l-a avut pe Lameh ca fiu când avea o sută optzeci și șapte de ani; căruia i-a dat conducerea, după ce o păstrase nouă sute șaizeci și nouă de ani. Lameh, după ce a condus șapte sute șaptezeci și șapte de ani, l-a pus pe Noe, fiul său, conducător al poporului, care i s-a născut lui Lameh când acesta avea o sută optzeci și doi de ani și a păstrat conducerea nouă sute cincizeci de ani. Acești ani, adunați laolaltă, alcătuiesc suma statornicită mai înainte. Dar nimeni să nu cerceteze morțile acestor oameni; căci ei și-au prelungit viețile laolaltă cu copiii și nepoții lor; ci să ia seama numai la nașterile lor.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 4,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -1257,6 +1268,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 40,
       "v": 4
+     }
+    }
+   },
+   {
+    "author": "Viața lui Adam și Eva 32 — comparație",
+    "text": "Și Adam a răspuns și a zis: Ascultați-mă, fiii mei. Când ne-a făcut Dumnezeu, pe mine și pe mama voastră, și ne-a așezat în rai și ne-a dat orice pom care face rod să mâncăm, a pus o oprire asupra noastră despre pomul cunoștinței binelui și răului, care este în mijlocul raiului; (zicând)",
+    "src": {
+     "slug": "viata-adam-eva",
+     "spec": {
+      "num": 32,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 2",
+    "text": "Iar Adam, care a fost cel dintâi om și făcut din pământ, [căci discursul nostru trebuie să fie acum despre el,] după ce Abel a fost ucis și Cain a fugit din pricina uciderii, a fost grijuliu pentru urmași și a avut o dorință puternică de copii, având el două sute treizeci de ani; după care vreme a mai trăit alți șapte sute și apoi a murit. A avut, într-adevăr, mulți alți copii, dar pe Set în mod deosebit. Cât despre ceilalți, ar fi obositor să-i numesc; mă voi strădui, deci, să dau doar o istorisire a celor care au ieșit din Set. Acest Set, când a fost crescut și a ajuns la acei ani în care putea deosebi ce este bine, a devenit un om virtuos; și, așa cum el însuși era de un caracter ales, a lăsat în urma lui copii care i-au imitat virtuțile. Toți aceștia s-au dovedit a fi de bune dispoziții. Au locuit și ei în aceeași țară, fără neînțelegeri și într-o stare fericită, fără să cadă asupra lor nicio nenorocire, până când au murit. Ei au fost și născocitorii acelui fel deosebit de înțelepciune care se ocupă cu corpurile cerești și cu orânduirea lor. Și, ca născocirile lor să nu se piardă înainte de a fi destul de cunoscute, după prevestirea lui Adam că lumea avea să fie nimicită o dată prin puterea focului și altă dată prin violența și mulțimea apei, au făcut doi stâlpi, unul de cărămidă, altul de piatră: au înscris pe amândoi descoperirile lor, pentru ca, în cazul în care stâlpul de cărămidă ar fi nimicit de potop, stâlpul de piatră să rămână și să arate acele descoperiri oamenilor; și să-i înștiințeze, de asemenea, că mai era un stâlp de cărămidă ridicat de ei. Acesta se află și astăzi în țara Siriadului.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 3,
+      "v": 3
      }
     }
    }
@@ -2780,6 +2813,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Targum Ionatan",
     "text": "Și Mahalaleel a trăit, după ce l-a născut pe Iared, opt sute treizeci de ani; și a născut fii și fiice."
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Și Mahalaleel fiul lui Cainan a trăit 65 de ani și l-a născut pe Iared; iar Iared a trăit 62 de ani și l-a născut pe Enoh.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 37
+     }
+    }
    }
   ]
  },
@@ -4225,6 +4269,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "Matusalem înseamnă „El moare”, „este o trimitere”, adică a potopului, care a venit chiar în anul în care a murit Matusalem. Dacă numele i-a fost dat cu acest înțeles, era o înștiințare dreaptă pentru o lume nepăsătoare, cu mult înainte să vină judecata. Totuși, de remarcat este că cel mai îndelung viețuitor care a fost vreodată purta moartea în numele său, ca să-și aducă aminte că ea vine negreșit, deși vine încet. A trăit nouă sute șaizeci și nouă de ani, cel mai mult pe care citim că a trăit vreodată un om pe pământ, și totuși a murit: cel care trăiește cel mai mult tot trebuie să moară în cele din urmă. Nici tinerețea, nici bătrânețea nu scapă de acest război, căci este sfârșitul tuturor oamenilor: nimeni nu poate pretinde viață prin vechime de drept, nici să facă din aceasta un temei împotriva ordinelor morții. Se crede de obicei că Matusalem a murit puțin înainte de potop; scriitorii evrei spun că cu șapte zile înainte, făcând trimitere la Fac 7:10, și că a fost luat de la răul ce avea să vină."
+   },
+   {
+    "author": "Cartea Dreptului 4 — comparație",
+    "text": "Și Enoh a umblat cu Dumnezeu și nu a mai fost, căci Dumnezeu l-a luat.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 4,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -4660,6 +4715,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 4,
       "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 4 — comparație",
+    "text": "Și toate zilele lui Metusalah au fost 969 de ani și a murit.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 4,
+      "v": 5
      }
     }
    }
@@ -5145,6 +5211,28 @@ window.CHAPTER_DATA = [
       "v": 8
      }
     }
+   },
+   {
+    "author": "1 Enoh 106 — comparație",
+    "text": "Și acum du-te și spune-i lui Lameh că acest fiu care s-a născut este cu adevărat al lui și cheamă-i numele Noe; căci el va fi rămășița voastră, pe care vă veți odihni, și el și fiii lui vor fi mântuiți de distrugerea care va veni pe pământ din pricina tuturor păcatelor și a toată nedreptatea care se va săvârși pe pământ în zilele lui.",
+    "src": {
+     "slug": "1-enoh",
+     "spec": {
+      "num": 106,
+      "v": 18
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 4 — comparație",
+    "text": "Și în al cincisprezecelea jubileu, în săptămâna a treia, Lameh și-a luat soție, și numele ei era Betenos, fiica lui Barakiel, fiica fratelui tatălui său, și în săptămâna aceasta ea i-a născut un fiu, și i-a pus numele Noe, zicând: Acesta mă va mângâia de necazul meu și de toată lucrarea mea, și de pământul pe care l-a blestemat Domnul.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 4,
+      "v": 28
+     }
+    }
    }
   ]
  },
@@ -5270,6 +5358,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 4,
       "v": 9
+     }
+    }
+   },
+   {
+    "author": "1 Enoh 106 — comparație",
+    "text": "Și acum du-te și spune-i lui Lameh că acest fiu care s-a născut este cu adevărat al lui și cheamă-i numele Noe; căci el va fi rămășița voastră, pe care vă veți odihni, și el și fiii lui vor fi mântuiți de distrugerea care va veni pe pământ din pricina tuturor păcatelor și a toată nedreptatea care se va săvârși pe pământ în zilele lui.",
+    "src": {
+     "slug": "1-enoh",
+     "spec": {
+      "num": 106,
+      "v": 18
      }
     }
    }

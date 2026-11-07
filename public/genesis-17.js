@@ -592,6 +592,17 @@ window.CHAPTER_DATA = [
       "v": 5
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 15 — comparație",
+    "text": "Și voi face legământul Meu între Mine și tine, și te voi înmulți foarte.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 15,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -736,6 +747,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 15,
       "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 15 — comparație",
+    "text": "Și voi face legământul Meu între Mine și tine, și te voi înmulți foarte.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 15,
+      "v": 4
      }
     }
    }
@@ -1681,6 +1703,17 @@ window.CHAPTER_DATA = [
       "v": 11
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 15 — comparație",
+    "text": "Și voi da ție și seminței tale după tine ținutul în care ai fost pribeag, ținutul Canaan, ca să-l stăpânești pe veci, și Eu le voi fi Dumnezeu.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 15,
+      "v": 10
+     }
+    }
    }
   ]
  },
@@ -1824,6 +1857,17 @@ window.CHAPTER_DATA = [
      "slug": "eusebiu-istoria",
      "spec": {
       "num": 4,
+      "v": 11
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 15 — comparație",
+    "text": "Și Domnul i-a zis lui Avraam: Iar tu, ține legământul Meu, tu și sămânța ta după tine, și tăiați împrejur tot ce este de parte bărbătească între voi, și tăiați împrejur prepuțurile voastre, și va fi un semn al unui legământ veșnic între Mine și voi.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 15,
       "v": 11
      }
     }
@@ -2002,6 +2046,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Tăierea împrejur nu era o noutate: era cunoscută în Egipt (reprezentări din Saqqara, din mileniul al III-lea î.Hr.) și printre unele popoare vest-semitice, iar filistenii erau, dimpotrivă, numiți „necircumciși”. În Geneza ea capătă un sens aparte: devine semnul legământului dintre Dumnezeu și urmașii lui Avraam."
+   },
+   {
+    "author": "Cartea Jubileelor 15 — comparație",
+    "text": "Și Domnul i-a zis lui Avraam: Iar tu, ține legământul Meu, tu și sămânța ta după tine, și tăiați împrejur tot ce este de parte bărbătească între voi, și tăiați împrejur prepuțurile voastre, și va fi un semn al unui legământ veșnic între Mine și voi.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 15,
+      "v": 11
+     }
+    }
    }
   ]
  },
@@ -2884,6 +2939,17 @@ window.CHAPTER_DATA = [
       "v": 15
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 15 — comparație",
+    "text": "Și cel de parte bărbătească netăiat împrejur, care nu este tăiat împrejur în carnea prepuțului său în ziua a opta, sufletul acela va fi stârpit din poporul său, căci a călcat legământul Meu.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 15,
+      "v": 14
+     }
+    }
    }
   ]
  },
@@ -3512,6 +3578,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 15,
       "v": 18
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 15 — comparație",
+    "text": "Și Avraam a căzut pe fața sa, și s-a bucurat, și a zis în inima sa: I se va naște un fiu celui de o sută de ani, și Sara, care are nouăzeci de ani, va naște?",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 15,
+      "v": 17
      }
     }
    }
@@ -4372,6 +4449,17 @@ window.CHAPTER_DATA = [
       "v": 22
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 15 — comparație",
+    "text": "Dar legământul Meu îl voi întări cu Isaac, pe care ți-l va naște Sara, în zilele acestea, în anul viitor.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 15,
+      "v": 21
+     }
+    }
    }
   ]
  },
@@ -4843,6 +4931,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Să nu socotești că a fost fără rost faptul că Scriptura ne-a arătat vârsta lui; ci a fost ca să înveți din ascultarea omului drept, care a primit cu blândețe durerea, în ciuda extremei lui bătrâneți, din pricina poruncii lui Dumnezeu, și nu numai el, ci și Ismael și toți slujitorii: aceasta a fost pricina pentru care s-au dat vârstele."
+   },
+   {
+    "author": "Cartea Jubileelor 15 — comparație",
+    "text": "Și Avraam a făcut precum îi zisese Dumnezeu, și l-a luat pe Ismael, fiul său, și pe toți cei născuți în casa sa, și pe care-i cumpărase cu banii săi, tot ce era de parte bărbătească în casa sa, și a tăiat împrejur carnea prepuțului lor.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 15,
+      "v": 23
+     }
+    }
    }
   ]
  },
@@ -4982,6 +5081,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Zohar, Itro 23:4",
     "text": "Și sămânța lui Israel se numesc om. Vino, vezi. E scris despre Yișmaʿel (Geneza 16): «și el va fi un om sălbatic». Un om sălbatic, și nu om. Un om sălbatic, pentru că s-a tăiat împrejur. Și începutul omului era în el. Că e scris (Geneza 17:25): «și Yișmaʿel, fiul lui, de treisprezece ani, când i s-a tăiat împrejur carnea prepuțului». Odată ce s-a tăiat împrejur, a intrat în începutul acesta, care se numește «tot». Aceasta este ce e scris (Geneza 16:12): «și el va fi un om sălbatic», și nu om. «Mâna lui în tot»: mâna lui în tot, negreșit, și nu mai mult, pentru că n-a primit poruncile Torei. Începutul era în el, pentru că s-a tăiat împrejur, și nu s-a împlinit în poruncile Torei. Dar sămânța lui Israel, care s-au împlinit în tot, se numesc om, de-a dreptul. Și e scris (Deuteronomul 32:9): «că partea Domnului e poporul Lui, Iaakov, funia moștenirii Lui»."
+   },
+   {
+    "author": "Cartea Jubileelor 15 — comparație",
+    "text": "Și Avraam a făcut precum îi zisese Dumnezeu, și l-a luat pe Ismael, fiul său, și pe toți cei născuți în casa sa, și pe care-i cumpărase cu banii săi, tot ce era de parte bărbătească în casa sa, și a tăiat împrejur carnea prepuțului lor.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 15,
+      "v": 23
+     }
+    }
    }
   ]
  },
@@ -5136,6 +5246,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Chiar în aceeași zi.» În care a vorbit cu el Șechina, a învățat sârguința lui Avraam, părintele nostru.<br><br>«Iar Avraam avea nouăzeci și nouă de ani etc.» Le-a numărat anii ca să învețe că, dacă nu a circumcis la opt zile, se poate circumcide chiar și la o sută de ani, ca Avraam și Ismael; și din faptul că este scris „iar cel necircumcis de parte bărbătească care nu va fi circumcis” etc., că omul este pedepsit prin el însuși, tot așa se poate învăța că cel de opt zile nu este supus pedepsei; iar Locul să circumcidă inimile noastre spre frica Lui.<br><br>Îndură-te de mine, nenorocitul, și adună la cetatea Ta oștirile Tale, și în lumina Domnului să mergem, la încheierea mea a pericopei Lekh Lekha."
+   },
+   {
+    "author": "Cartea Jubileelor 15 — comparație",
+    "text": "Și Avraam a făcut precum îi zisese Dumnezeu, și l-a luat pe Ismael, fiul său, și pe toți cei născuți în casa sa, și pe care-i cumpărase cu banii săi, tot ce era de parte bărbătească în casa sa, și a tăiat împrejur carnea prepuțului lor.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 15,
+      "v": 23
+     }
+    }
    }
   ]
  },
@@ -5303,6 +5424,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Și toți oamenii casei sale.» Versetul de mai sus vorbește despre cei ai lui Avraam, iar acesta vorbește despre toți oamenii casei lui: „cel născut în casă și cel cumpărat cu bani” sunt ai lui Ismael.<br><br>«Au fost circumciși împreună cu el.» Nu este scris „l-au circumcis împreună cu el”, ci „au fost circumciși” – de bunăvoia lor, căci nu i-a silit. Sfârșitul pericopei „Lekh lekha”."
+   },
+   {
+    "author": "Cartea Jubileelor 15 — comparație",
+    "text": "Și în aceeași zi a fost tăiat împrejur Avraam, și toți bărbații casei sale, și cei născuți în casă, și toți cei pe care-i cumpărase cu bani de la fiii străinului, au fost tăiați împrejur cu el.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 15,
+      "v": 24
+     }
+    }
    }
   ]
  }

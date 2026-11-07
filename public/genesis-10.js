@@ -581,6 +581,28 @@ window.CHAPTER_DATA = [
       "v": 3
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 7 — comparație",
+    "text": "Aceștia sunt fiii lui Iafet; Gomer, Magog, Madai, Iavan, Tubal, Meșec și Tiras, șapte fii.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 7,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 6",
+    "text": "Ei erau nepoții lui Noe, în cinstea cărora au fost puse nume neamurilor de către cei care au pus mai întâi stăpânire pe ele. Iafet, fiul lui Noe, a avut șapte fii: ei au locuit astfel încât, începând de la munții Taurus și Amanus, au înaintat de-a lungul Asiei până la râul Tanais și, de-a lungul Europei, până la Cadiz; și, așezându-se pe pământurile pe care le-au găsit și pe care nimeni nu le locuise mai înainte, au numit neamurile cu numele lor. Căci Gomer a întemeiat pe cei pe care grecii îi numesc acum galateni, [gali], dar care se numeau atunci gomeriți. Magog a întemeiat pe cei care de la el s-au numit magogiți, dar care sunt numiți de greci sciți. Cât despre Iavan și Madai, fiii lui Iafet: din Madai au venit madeii, care sunt numiți mezi de către greci; iar din Iavan se trag Ionia și toți grecii. Tobel i-a întemeiat pe tobeliți, care se numesc acum iberi; iar mosochenii au fost întemeiați de Mosoh; acum ei sunt capadocieni. Se mai arată încă un semn al numelui lor străvechi: căci și acum se află între ei o cetate numită Mazaca, care poate să-i înștiințeze pe cei în stare să înțeleagă că astfel se chema odinioară tot neamul. Tiras i-a numit, de asemenea, tirasieni pe cei peste care a domnit; dar grecii au schimbat numele în traci. Și atât de multe au fost țările care i-au avut ca locuitori pe copiii lui Iafet. Dintre cei trei fii ai lui Gomer, Aschanax i-a întemeiat pe aschanaxieni, care sunt numiți acum de greci reghinieni. Tot astfel Rifat i-a întemeiat pe rifeeni, numiți acum paflagonieni; iar Trugrama pe trugrameeni, care, după cum au hotărât grecii, au fost numiți frigieni. Dintre cei trei fii ai lui Iavan, de asemenea, fiul lui Iafet, Elisa a dat numele eliseenilor, care îi erau supuși; ei sunt acum eolienii. Tarsus a dat numele tarsienilor, căci astfel se chema Cilicia din vechime; semnul acestui lucru este că cea mai nobilă cetate pe care o au, și totodată o metropolă, este Tarsul, tau fiind pus prin schimbare în locul lui teta. Cetim a stăpânit insula Cetima: ea se numește acum Cipru; și de aici vine faptul că toate insulele și cea mai mare parte a țărmurilor mării sunt numite Cetim de către evrei: și o singură cetate este în Cipru care a putut să-și păstreze numele; a fost numită Citius de cei care folosesc limba grecilor și nu a scăpat, prin folosirea acelui dialect, de numele de Cetim. Și atâtea neamuri au stăpânit copiii și nepoții lui Iafet. Acum, după ce voi fi spus mai dinainte ceva ce poate grecii nu știu, mă voi întoarce și voi explica ce am lăsat deoparte; căci asemenea nume sunt rostite aici după felul grecilor, spre a le plăcea cititorilor mei; căci limba țării noastre nu le rostește astfel: dar numele, în toate cazurile, au aceeași terminație; căci numele pe care îl rostim aici Noeas este acolo Noe și păstrează în orice caz aceeași terminație.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 7,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -739,6 +761,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "Fiii lui Iavan au fost Elișa, Tarșiș, Chitim și Dodanim. Din ionieni, adică din greci, s-au născut elișii, care se numesc elișiți, de aceea și a cincea limbă a Greciei se numește eoliană, pe care ei o numesc „penten dialecton”. Iosif Flaviu socotește că Tarșiș este Cilicia, spunând că litera „h” a fost pierdută în chip stricat de urmași în „Thar”; de aceea și cetatea lor de scaun se numește Tarsul, vestit pe vremea apostolului Pavel. (Unii socotesc că Tarșiș, de unde se aducea aur lui Solomon, înseamnă ținutul Indiei.) Chitim vine de la Chitim, de la care până azi se numește cetatea Ciprului. Dodanim se tâlcuiește ca rodieni, căci mai bine se citește Rodanim, sau Rodim, cum l-au redat cei șaptezeci de tâlcuitori, și cum a pus-o și traducătorul nostru în cartea numelor ebraice. Căci asemănarea literelor dalet și resh face adesea ca această greșeală să se întâmple la evrei, încât una se citește în locul alteia. Dar Rodos este cea mai mare dintre Cicladele, odinioară cea mai puternică cetate din Marea Ionică, vestită în lupte pe mare și adăpost al tuturor negustorilor, pentru limanul ei foarte sigur."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 6",
+    "text": "Ei erau nepoții lui Noe, în cinstea cărora au fost puse nume neamurilor de către cei care au pus mai întâi stăpânire pe ele. Iafet, fiul lui Noe, a avut șapte fii: ei au locuit astfel încât, începând de la munții Taurus și Amanus, au înaintat de-a lungul Asiei până la râul Tanais și, de-a lungul Europei, până la Cadiz; și, așezându-se pe pământurile pe care le-au găsit și pe care nimeni nu le locuise mai înainte, au numit neamurile cu numele lor. Căci Gomer a întemeiat pe cei pe care grecii îi numesc acum galateni, [gali], dar care se numeau atunci gomeriți. Magog a întemeiat pe cei care de la el s-au numit magogiți, dar care sunt numiți de greci sciți. Cât despre Iavan și Madai, fiii lui Iafet: din Madai au venit madeii, care sunt numiți mezi de către greci; iar din Iavan se trag Ionia și toți grecii. Tobel i-a întemeiat pe tobeliți, care se numesc acum iberi; iar mosochenii au fost întemeiați de Mosoh; acum ei sunt capadocieni. Se mai arată încă un semn al numelui lor străvechi: căci și acum se află între ei o cetate numită Mazaca, care poate să-i înștiințeze pe cei în stare să înțeleagă că astfel se chema odinioară tot neamul. Tiras i-a numit, de asemenea, tirasieni pe cei peste care a domnit; dar grecii au schimbat numele în traci. Și atât de multe au fost țările care i-au avut ca locuitori pe copiii lui Iafet. Dintre cei trei fii ai lui Gomer, Aschanax i-a întemeiat pe aschanaxieni, care sunt numiți acum de greci reghinieni. Tot astfel Rifat i-a întemeiat pe rifeeni, numiți acum paflagonieni; iar Trugrama pe trugrameeni, care, după cum au hotărât grecii, au fost numiți frigieni. Dintre cei trei fii ai lui Iavan, de asemenea, fiul lui Iafet, Elisa a dat numele eliseenilor, care îi erau supuși; ei sunt acum eolienii. Tarsus a dat numele tarsienilor, căci astfel se chema Cilicia din vechime; semnul acestui lucru este că cea mai nobilă cetate pe care o au, și totodată o metropolă, este Tarsul, tau fiind pus prin schimbare în locul lui teta. Cetim a stăpânit insula Cetima: ea se numește acum Cipru; și de aici vine faptul că toate insulele și cea mai mare parte a țărmurilor mării sunt numite Cetim de către evrei: și o singură cetate este în Cipru care a putut să-și păstreze numele; a fost numită Citius de cei care folosesc limba grecilor și nu a scăpat, prin folosirea acelui dialect, de numele de Cetim. Și atâtea neamuri au stăpânit copiii și nepoții lui Iafet. Acum, după ce voi fi spus mai dinainte ceva ce poate grecii nu știu, mă voi întoarce și voi explica ce am lăsat deoparte; căci asemenea nume sunt rostite aici după felul grecilor, spre a le plăcea cititorilor mei; căci limba țării noastre nu le rostește astfel: dar numele, în toate cazurile, au aceeași terminație; căci numele pe care îl rostim aici Noeas este acolo Noe și păstrează în orice caz aceeași terminație.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 7,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -916,6 +949,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 8,
       "v": 10
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 6",
+    "text": "Ei erau nepoții lui Noe, în cinstea cărora au fost puse nume neamurilor de către cei care au pus mai întâi stăpânire pe ele. Iafet, fiul lui Noe, a avut șapte fii: ei au locuit astfel încât, începând de la munții Taurus și Amanus, au înaintat de-a lungul Asiei până la râul Tanais și, de-a lungul Europei, până la Cadiz; și, așezându-se pe pământurile pe care le-au găsit și pe care nimeni nu le locuise mai înainte, au numit neamurile cu numele lor. Căci Gomer a întemeiat pe cei pe care grecii îi numesc acum galateni, [gali], dar care se numeau atunci gomeriți. Magog a întemeiat pe cei care de la el s-au numit magogiți, dar care sunt numiți de greci sciți. Cât despre Iavan și Madai, fiii lui Iafet: din Madai au venit madeii, care sunt numiți mezi de către greci; iar din Iavan se trag Ionia și toți grecii. Tobel i-a întemeiat pe tobeliți, care se numesc acum iberi; iar mosochenii au fost întemeiați de Mosoh; acum ei sunt capadocieni. Se mai arată încă un semn al numelui lor străvechi: căci și acum se află între ei o cetate numită Mazaca, care poate să-i înștiințeze pe cei în stare să înțeleagă că astfel se chema odinioară tot neamul. Tiras i-a numit, de asemenea, tirasieni pe cei peste care a domnit; dar grecii au schimbat numele în traci. Și atât de multe au fost țările care i-au avut ca locuitori pe copiii lui Iafet. Dintre cei trei fii ai lui Gomer, Aschanax i-a întemeiat pe aschanaxieni, care sunt numiți acum de greci reghinieni. Tot astfel Rifat i-a întemeiat pe rifeeni, numiți acum paflagonieni; iar Trugrama pe trugrameeni, care, după cum au hotărât grecii, au fost numiți frigieni. Dintre cei trei fii ai lui Iavan, de asemenea, fiul lui Iafet, Elisa a dat numele eliseenilor, care îi erau supuși; ei sunt acum eolienii. Tarsus a dat numele tarsienilor, căci astfel se chema Cilicia din vechime; semnul acestui lucru este că cea mai nobilă cetate pe care o au, și totodată o metropolă, este Tarsul, tau fiind pus prin schimbare în locul lui teta. Cetim a stăpânit insula Cetima: ea se numește acum Cipru; și de aici vine faptul că toate insulele și cea mai mare parte a țărmurilor mării sunt numite Cetim de către evrei: și o singură cetate este în Cipru care a putut să-și păstreze numele; a fost numită Citius de cei care folosesc limba grecilor și nu a scăpat, prin folosirea acelui dialect, de numele de Cetim. Și atâtea neamuri au stăpânit copiii și nepoții lui Iafet. Acum, după ce voi fi spus mai dinainte ceva ce poate grecii nu știu, mă voi întoarce și voi explica ce am lăsat deoparte; căci asemenea nume sunt rostite aici după felul grecilor, spre a le plăcea cititorilor mei; căci limba țării noastre nu le rostește astfel: dar numele, în toate cazurile, au aceeași terminație; căci numele pe care îl rostim aici Noeas este acolo Noe și păstrează în orice caz aceeași terminație.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 7,
+      "v": 1
      }
     }
    }
@@ -3678,6 +3722,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "Din Șem s-au născut și părinții tuturor fiilor lui Ever, fratele lui Iafet cel mai mare. Îl numește pe Șem fratele lui Iafet, dar nu pomenește că ar fi fratele lui Ham, fiindcă înțelege că cei uniți în credința evlaviei se numesc pe bună dreptate frați; iar pe cel necredincios îl arată înstrăinat de tovărășia frățească a drepților, deși născut din aceiași părinți. Se pare însă că prin această frază se arată că, deși din Șem s-au născut mulți fii care au dat naștere multor popoare, acel neam anume a urmat credința și evlavia lui, care, prin Ever, a coborât la Avraam și la poporul evreu; de aceea sunt numiți pe bună dreptate părinții tuturor fiilor lui Ever. În sfârșit, la zidirea turnului, singură, cum spune Scriptura, limba întregului pământ a rămas în casa lui Ever, care era în acea vreme, după cum se va citi în cele ce urmează, graiul dintâi al neamului omenesc, pe care numele oamenilor din veacul următor îl dovedesc limpede că a fost ebraica, cum e de crezut pe bună dreptate, fiindcă, urmând credința strămoșului său Șem, el s-a ferit împreună cu casa lui de uneltirea lucrării mândre. Nu degeaba a vrut Avraam să fie numit evreu; ci pentru că știa să imite viața acestui Set, a vrut să aibă și să lase numele lui ca poreclă pentru sine și pentru urmașii lui în viitor."
+   },
+   {
+    "author": "Cartea Dreptului 7 — comparație",
+    "text": "Aceștia sunt fiii lui Ham, conform familiilor lor, și numerele lor în acele zile erau de aproape 730 de oameni.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 7,
+      "v": 14
+     }
+    }
    }
   ]
  },
@@ -3848,6 +3903,17 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 6",
+    "text": "Sem, al treilea fiu al lui Noe, a avut cinci fii, care au locuit țara ce începea de la Eufrat și ajungea până la Oceanul Indian. Căci Elam a lăsat în urma lui pe elamiți, strămoșii perșilor. Așur a locuit în cetatea Ninive; și i-a numit pe supușii lui asirieni, care au ajuns cel mai fericit neam, peste toate celelalte. Arfaxad a dat numele arfaxadiților, care sunt numiți acum caldeeni. Aram i-a avut pe arameeni, pe care grecii îi numeau sirieni; după cum Lud i-a întemeiat pe luditi, care sunt numiți acum lidieni. Dintre cei patru fii ai lui Aram, Uț a întemeiat Trahonitida și Damascul: această țară se află între Palestina și Celesiria. Ul a întemeiat Armenia; Gater pe bactrieni; și Mesa pe mesaneni; ea se numește acum Charax Spasini. Sala a fost fiul lui Arfaxad; iar fiul lui a fost Eber, de la care ei au numit la început pe iudei evrei. Eber i-a născut pe Ioctan și pe Peleg: el a fost numit Peleg pentru că s-a născut la risipirea neamurilor în țările lor deosebite; căci Peleg înseamnă la evrei împărțire. Ioctan, unul dintre fiii lui Eber, a avut acești fii: Elmodad, Salef, Asermot, Iera, Adoram, Aizel, Decla, Ebal, Abimael, Sabeu, Ofir, Euilat și Iobab. Aceștia au locuit de la Cofen, un râu indian, și într-o parte a Asiei învecinate cu el. Și aceasta să ajungă cu privire la fiii lui Sem.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 7,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -3972,6 +4038,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și fiii lui Aram.» A început cu cel mic, pentru că a terminat cu el; și nu a pomenit urmașii lui Elam, Asur și Lud, căci nu este nevoie de pomenirea lor; și a pomenit urmașii lui Aram: poate Terah s-a încuscrit cu seminția lui Aram; de aceea Nahor l-a numit pe fiul lui, întâiul născut, Uț, și la fel pe fiul fiului său, Aram. Și Maș: iar în Cronici, Meșec."
+   },
+   {
+    "author": "Cartea Dreptului 7 — comparație",
+    "text": "Și aceștia sunt fiii lui Șem; Elam, Așur, Arpacșad, Lud și Aram, cinci fii; iar fiii lui Elam erau Șușan, Macul și Harmon.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 7,
+      "v": 15
+     }
+    }
    }
   ]
  },
@@ -4117,6 +4194,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 8,
       "v": 5
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 7 — comparație",
+    "text": "Și aceștia sunt fiii lui Șem; Elam, Așur, Arpacșad, Lud și Aram, cinci fii; iar fiii lui Elam erau Șușan, Macul și Harmon.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 7,
+      "v": 15
      }
     }
    }
@@ -4529,6 +4617,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Descendenții lui Ioktan sunt asociați tradițional cu triburile arabe din sudul Peninsulei Arabice (Yemenul de azi), o ramură semitică distinctă de linia care va duce la Avraam prin Peleg."
+   },
+   {
+    "author": "Cartea Dreptului 7 — comparație",
+    "text": "Acestea sunt generațiile lui Șem; Șem a născut pe Arpacșad și Arpacșad a născut pe Șelac, iar Șelac a născut pe Eber, iar lui Eber i s-au născut doi copii, numele unuia era Peleg, căci în zilele lui fiii oamenilor erau împărțiți, iar în zilele din urmă, pământul era împărțit.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 7,
+      "v": 19
+     }
+    }
    }
   ],
   "refs": [
@@ -4618,6 +4717,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Targum Ionatan",
     "text": "și pe Hadoram și pe Uzal și pe Dicla,"
+   },
+   {
+    "author": "Cartea Dreptului 7 — comparație",
+    "text": "Acestea sunt generațiile lui Șem; Șem a născut pe Arpacșad și Arpacșad a născut pe Șelac, iar Șelac a născut pe Eber, iar lui Eber i s-au născut doi copii, numele unuia era Peleg, căci în zilele lui fiii oamenilor erau împărțiți, iar în zilele din urmă, pământul era împărțit.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 7,
+      "v": 19
+     }
+    }
    }
   ],
   "refs": [
@@ -4706,6 +4816,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Targum Ionatan",
     "text": "și pe Obal și pe Abimael și pe Șeba,"
+   },
+   {
+    "author": "Cartea Dreptului 7 — comparație",
+    "text": "Acestea sunt generațiile lui Șem; Șem a născut pe Arpacșad și Arpacșad a născut pe Șelac, iar Șelac a născut pe Eber, iar lui Eber i s-au născut doi copii, numele unuia era Peleg, căci în zilele lui fiii oamenilor erau împărțiți, iar în zilele din urmă, pământul era împărțit.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 7,
+      "v": 19
+     }
+    }
    }
   ],
   "refs": [

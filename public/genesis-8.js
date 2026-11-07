@@ -748,6 +748,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "Apele s-au întors de pe pământ neîncetat — Ebr.: mergeau și se întorceau; o plecare treptată. Căldura soarelui a evaporat mult, și poate peșterile subpământene au sorbit mai mult."
+   },
+   {
+    "author": "Cartea Dreptului 6 — comparație",
+    "text": "S-au închis izvoarele adâncului și stăvilarele cerurilor și ploaia din cer a încetat.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 6,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -3373,6 +3384,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
     "text": "IEȘIREA DIN ARCĂ. (Fac. 8:15–22) Și Dumnezeu a grăit... Ieșiți — Au ieșit în cea mai bună rânduială — mai întâi locuitorii oameni, apoi fiecare specie „după felurile lor” [Fac. 8:19], literal „după familiile lor”, ceea ce arată că fusese o sporire în arcă."
+   },
+   {
+    "author": "Cartea Dreptului 6 — comparație",
+    "text": "În luna a doua, în ziua a 27-a a lunii, pământul era uscat.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 6,
+      "v": 14
+     }
+    }
    }
   ],
   "refs": [
@@ -3565,6 +3587,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 9,
       "v": 4
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 6 — comparație",
+    "text": "Atunci Dumnezeu a vorbit lui Noe, zicând: Ieși din corabie, tu și nevasta ta, fiii tăi și nevestele fiilor tăi împreună cu tine.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 6,
+      "v": 15
      }
     }
    }
@@ -4220,6 +4253,17 @@ window.CHAPTER_DATA = [
       "v": 32
      }
     }
+   },
+   {
+    "author": "Oracolele Sibiline 5 — comparație",
+    "text": "Așa a grăit glasul ceresc, și Noe a ieșit repede, ca de pe un pat, cu îndrăzneală pe pământ, și fiii lui cu el, și soția lui și soțiile lor, și târâtoarele, și păsările, și cu patru picioare; și toate celelalte au ieșit din casa de lemn într-un singur loc. Și apoi a ieșit Noe, cel mai drept dintre oameni, al optulea, după ce a împlinit pe ape de două ori o sută de zile și una; astfel a fost voia marelui Dumnezeu.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 5,
+      "v": 2
+     }
+    }
    }
   ],
   "refs": [
@@ -4554,6 +4598,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 4,
       "v": 7
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 5 — comparație",
+    "text": "Așa a grăit glasul ceresc, și Noe a ieșit repede, ca de pe un pat, cu îndrăzneală pe pământ, și fiii lui cu el, și soția lui și soțiile lor, și târâtoarele, și păsările, și cu patru picioare; și toate celelalte au ieșit din casa de lemn într-un singur loc. Și apoi a ieșit Noe, cel mai drept dintre oameni, al optulea, după ce a împlinit pe ape de două ori o sută de zile și una; astfel a fost voia marelui Dumnezeu.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 5,
+      "v": 2
      }
     }
    }
@@ -5190,6 +5245,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 6,
       "v": 21
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 5 — comparație",
+    "text": "Atunci s-a ridicat iarăși, aprig și puternic, un alt neam, al doilea, de oameni născuți din pământ: Titanii. Erau asemenea la chip cu toții, la înfățișare, mărime și fire; și vorbirea lor era una, cea pe care Dumnezeu o sădise mai înainte în mințile celui dintâi neam. Dar aceștia, cu inimă trufașă împotriva Celui Preaînalt, s-au sfătuit grăbindu-se spre pieire și purtând război împotriva cerului înstelat. Și atunci potopul marelui ocean și-ar fi vărsat apele înfuriate peste ei, dar marele Sabaot l-a oprit și l-a ținut, deși mâniat, căci făgăduise să nu mai aducă iarăși potop peste omenirea rea. Dar după ce a făcut ca fluviul nemărginit al multor ape, val peste val rostogolit încoace și încolo, să înceteze din mânie, marele Dumnezeu care tună de sus, în alte adâncuri ale oceanului, mai puțin adânci, a hotărnicit pământul cu porturi și țărmuri aspre.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 5,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 6 — comparație",
+    "text": "Și Domnul a mirosit mireasma plăcută, și a făcut un legământ cu el, că nu va mai fi potop ca să nimicească pământul; că în toate zilele pământului semănatul și secerișul nu vor înceta nicidecum; frigul și căldura, și vara și iarna, și ziua și noaptea nu-și vor schimba rânduiala, nici nu vor înceta în veac.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 6,
+      "v": 4
      }
     }
    }

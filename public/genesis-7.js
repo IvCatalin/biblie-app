@@ -459,6 +459,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Scrisori 108",
     "text": "Să recunoaștem că arca a prefigurat Biserica. Să fim în ea dobitoacele curate. Totuși să nu refuzăm să îngăduim ca și cele necurate să fie purtate în ea cu noi până la sfârșitul potopului. Erau împreună în arcă, dar nu erau deopotrivă plăcute Domnului ca miros de jertfă, căci după potop Noe a adus jertfă lui Dumnezeu din cele curate, nu din cele necurate. Dar arca n-a fost părăsită înainte de vreme de niciunul dintre cei curați din pricina celor necurați."
+   },
+   {
+    "author": "Cartea Dreptului 5 — comparație",
+    "text": "Domnul a zis lui Noe: Intră în corabie, tu și toată casa ta, căci te-am văzut neprihănit înaintea Mea în neamul acesta.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 5,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -669,6 +680,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 4,
       "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 5 — comparație",
+    "text": "Din toate dobitoacele curate să iei câte șapte perechi, parte bărbătească și parte femeiască; din dobitoacele care nu sunt curate să iei câte o pereche, parte bărbătească și parte femeiască;",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 5,
+      "v": 2
      }
     }
    }
@@ -1043,6 +1065,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Calvin, Comentariu la Facere",
     "text": "5. Și Noe a făcut după tot ce poruncise Domnul. Aceasta nu este o simplă repetare a propoziției de mai înainte; Moise laudă netulburata statornicie a ascultării lui Noe, care păzea toate poruncile lui Dumnezeu; ca și cum ar spune că, în orice privință a binevoit Dumnezeu să-i pună ascultarea la încercare, el a rămas mereu statornic. Și, desigur, nu se cuvine să ascultăm de o poruncă sau de alta a lui Dumnezeu numai, încât, după ce am dat o ascultare incompletă, să ne simțim liberi să ne retragem; căci trebuie să ținem minte cuvântul lui Iacov: „Cel ce a oprit să ucizi a oprit și să furi și să preacurvești” (Iacov 2:11)."
+   },
+   {
+    "author": "Cartea Dreptului 5 — comparație",
+    "text": "Căci după șapte zile voi face să plouă pe pământ 40 de zile și 40 de nopți și voi șterge de pe fața pământului toate făpturile pe care le-am făcut.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 5,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -1210,6 +1243,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Gill, Expunerea Bibliei",
     "text": "Și Noe a intrat, și fiii lui, și soția lui, și soțiile fiilor lui cu el, în arcă... În răstimpul celor șapte zile dintre porunca lui Dumnezeu de a intra în ea și venirea potopului; sau, mai degrabă, în ziua a șaptea, în care a început să plouă; când a văzut că potopul vine, vezi Fac. 7:11. din pricina apelor potopului; de teama lor, ca nu cumva, înainte de a intra în arcă cu familia lui, el și ei să fie luați de ele; sau „de la fața apelor” (r), care începeau acum să se arate și să se întindă; sau, mai degrabă, „înaintea apelor” (s), înainte ca acestea să ajungă la vreo înălțime. (r) „a facie aquarum”, Pagninus, Montanus. (s) „Ante aquas diluvii”, Schmidt."
+   },
+   {
+    "author": "Cartea Dreptului 5 — comparație",
+    "text": "Căci după șapte zile voi face să plouă pe pământ 40 de zile și 40 de nopți și voi șterge de pe fața pământului toate făpturile pe care le-am făcut.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 5,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -2154,6 +2198,28 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 5 — comparație",
+    "text": "Și la luna nouă a lunii a patra izvoarele adâncului celui mare au fost închise, și stăvilarele cerului au fost oprite; și la luna nouă a lunii a șaptea s-au deschis toate gurile adâncurilor pământului, și apa a început să coboare în adâncul de jos.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 5,
+      "v": 29
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 5 — comparație",
+    "text": "Și apele au pierit de pe pământ în săptămâna a cincea, în anul al șaptelea al ei, și în ziua a șaptesprezecea a lunii a doua pământul a fost uscat.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 5,
+      "v": 31
+     }
+    }
    }
   ]
  },
@@ -2879,6 +2945,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 5,
       "v": 15
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 5 — comparație",
+    "text": "Ei și toate fiarele după soiul lor, toate vitele după soiul lor, toate târâtoarele care se târăsc pe pământ după soiul lor, toate păsările după soiul lor, toate păsărelele, tot ce are aripi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 5,
+      "v": 14
      }
     }
    }
@@ -4581,6 +4658,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "Și apele au stăpânit pământul o sută cincizeci de zile. Și acest număr ține de aceeași taină ca numărul cincisprezece, fiindcă șaptezeci se trage din șapte, iar optzeci din opt; unind amândouă numerele, apele au stăpânit pământul o sută cincizeci de zile, arătând și întărind astfel taina botezului în sfințirea omului celui nou, spre ținerea credinței în odihnă și înviere."
+   },
+   {
+    "author": "Oracolele Sibiline 4 — comparație",
+    "text": "Dar, după ce s-a odihnit alte zile, a trimis iarăși porumbelul, ca să afle dacă încetaseră de acum apele multe; și acesta a zburat departe și a coborât pe pământ și, oprindu-se să se odihnească puțin pe pământul umed, s-a întors iarăși la Noe și a adus o ramură de măslin, semnul veștii celei mari. Atunci el s-a umplut de îndrăzneală și de bucurie mare, căci spera să vadă iarăși pământul. Și apoi a trimis îndată o altă pasăre, cu aripi negre; și aceasta, încrezându-se în aripile ei, a zburat de îndată și, ajungând pe pământ, a rămas acolo. Atunci Noe a știut că pământul era foarte aproape. Dar după ce arca a fost aruncată încoace și încolo de valurile furioase, stăpânită prin iscusință dumnezeiască, a plutit peste valurile mării și s-a oprit pe țărmul îngust.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 4,
+      "v": 5
+     }
+    }
    }
   ]
  }

@@ -178,6 +178,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Zohar, Leh Leha 15:5",
     "text": "A zis Rabbi Aba: tot aceasta de ce i s-a întâmplat lui Avraham, și pentru ce trebuia? Ci ca să se mărească numele lui Avraham și al Sarei în lume; că chiar în Egipt („Mițrayim”), care sunt vrăjitorii lumii și nimeni nu putea să se salveze de ei, s-a mărit Avraham și s-a înălțat sus; acesta e ce e scris «și s-a suit Avram din Egipt» — unde? «spre Neghev»."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 8",
+    "text": "De îndată ce Avram s-a întors în Canaan, a împărțit țara între el și Lot, din pricina purtării tulburi a păstorilor lor, cu privire la pășunile pe care să-și pască turmele. Totuși, i-a dat lui Lot alegerea, sau îngăduința, să aleagă ce ținuturi vrea să ia; iar el a luat ce a lăsat celălalt, adică pământurile mai joase de la poalele munților; și el însuși a locuit în Hebron, care este o cetate mai veche cu șapte ani decât Tanis din Egipt. Dar Lot a stăpânit țara câmpiei și râul Iordan, nu departe de cetatea Sodoma, care era pe atunci o cetate frumoasă, dar acum este nimicită, prin voia și mânia lui Dumnezeu, pricina căreia o voi arăta la locul ei, mai târziu.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 9,
+      "v": 3
+     }
+    }
    }
   ]
  },
@@ -342,6 +353,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Bogăția lui Avram descrisă aici (vite, argint, aur) reflectă exact darurile primite de la Faraon la finalul capitolului anterior (12:16) — textul leagă explicit belșugul actual de episodul din Egipt."
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și Avram era foarte slăvit prin averi: oi, și vite, și asini, și cai, și cămile, și robi, și roabe, și argint și aur din belșug. Și Lot, fiul fratelui său, era și el bogat.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 14
+     }
+    }
    }
   ]
  },
@@ -577,6 +599,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "Și s-a întors pe drumul pe care venise, de la miazăzi spre Betel. Căci prin miazăzi ne îndreptăm, desigur, spre Betel prin lumina cunoașterii cerești și, prin insuflarea dragostei dinlăuntru, ne grăbim cu pași dese de fapte bune spre intrarea în casa lui Dumnezeu, pe care o înseamnă Betelul; anume acea casă care, după cuvântul Apostolului, nu este făcută de mână, ci veșnică în ceruri (2 Corinteni 5:1), pe care Proorocul dorea să o vadă când a zis: Doamne, am iubit frumusețea casei Tale și locul sălașului slavei Tale (Psalmul 26:8)."
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și Avram era foarte slăvit prin averi: oi, și vite, și asini, și cai, și cămile, și robi, și roabe, și argint și aur din belșug. Și Lot, fiul fratelui său, era și el bogat.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 14
+     }
+    }
    }
   ]
  },
@@ -760,6 +793,17 @@ window.CHAPTER_DATA = [
       "v": 16
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și Faraon a dat-o înapoi pe Sarai, soția lui Avram, și l-a scos din ținutul Egiptului, și el a mers la locul unde-și întinsese cortul la început, la locul altarului, cu Ai la răsărit și Betel la apus, și a binecuvântat pe Domnul Dumnezeul său, care-l adusese înapoi în pace.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 15
+     }
+    }
    }
   ]
  },
@@ -918,6 +962,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Menționarea explicită a bogăției lui Lot (turme, cirezi, corturi) pregătește motivul practic al despărțirii care urmează — un detaliu economic, nu doar relațional, tipic pentru gestionarea păstoritului nomad în regiune."
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și Faraon a dat-o înapoi pe Sarai, soția lui Avram, și l-a scos din ținutul Egiptului, și el a mers la locul unde-și întinsese cortul la început, la locul altarului, cu Ai la răsărit și Betel la apus, și a binecuvântat pe Domnul Dumnezeul său, care-l adusese înapoi în pace.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 15
+     }
+    }
    }
   ]
  },
@@ -2646,8 +2701,30 @@ window.CHAPTER_DATA = [
     "text": "Generația potopului nu are parte de lumea ce va veni și nu se ridică la judecată, căci s-a spus: (Geneza 6:3) „Duhul Meu nu va judeca în om pe vecie” — nici judecată, nici duh. Generația împrăștierii nu are parte de lumea ce va veni, căci s-a spus: (Geneza 11:8) „Și Domnul i-a împrăștiat de acolo pe fața întregului pământ” — „și Domnul i-a împrăștiat” în lumea aceasta, „și de acolo i-a împrăștiat Domnul” în lumea ce va veni. Oamenii din Sedom nu au parte de lumea ce va veni, căci s-a spus: (Geneza 13:13) „Și oamenii din Sedom erau răi și păcătoși înaintea Domnului foarte” — „răi” în lumea aceasta, „și păcătoși” în lumea ce va veni; dar se ridică la judecată. Rabbi Neḥemyah spune: nici aceștia, nici aceia nu se ridică la judecată, căci s-a spus: (Psalmul 1:5) „De aceea nu se vor ridica cei răi la judecată, nici păcătoșii în obștea celor drepți” — „de aceea nu se vor ridica cei răi la judecată”, aceasta este generația potopului; „nici păcătoșii în obștea celor drepți”, aceștia sunt oamenii din Sedom. I-au spus: nu se ridică în obștea celor drepți, dar se ridică în obștea celor răi. Iscoadele nu au parte de lumea ce va veni, căci s-a spus: (Numeri 14:37) „Și au murit oamenii care scoseseră vorbă rea despre țară, prin urgie, înaintea Domnului” — „și au murit” în lumea aceasta, „prin urgie” în lumea ce va veni. Generația pustiului nu are parte de lumea ce va veni și nu se ridică la judecată, căci s-a spus: (Numeri 14:35) „În pustiul acesta se vor sfârși și acolo vor muri”; cuvintele lui Rabbi ʿAqiva. Rabbi Eliʿezer spune: despre ei spune: (Psalmul 50:5) „Adunați-Mi pe credincioșii Mei, care au încheiat legământul Meu prin jertfă.” Obștea lui Qoraḥ nu se va ridica, căci s-a spus: (Numeri 16:33) „Și pământul i-a acoperit” — în lumea aceasta; „și au pierit din mijlocul adunării” — în lumea ce va veni; cuvintele lui Rabbi ʿAqiva. Rabbi Eliʿezer spune: despre ei spune: (1 Samuel 2:6) „Domnul omoară și dă viață, coboară în Șeʾol și ridică.” Cele zece seminții nu se vor întoarce, căci s-a spus: (Deuteronomul 29:27) „și i-a aruncat într-o altă țară, ca în ziua aceasta” — precum ziua aceasta trece și nu se întoarce, tot așa și ei merg și nu se întorc; cuvintele lui Rabbi ʿAqiva. Rabbi Eliʿezer spune: precum ziua se întunecă și se luminează, tot așa cele zece seminții: cum s-a întunecat pentru ele, așa se va lumina pentru ele."
    },
    {
+    "author": "Talmudul Babilonian, Ioma, cap. 3",
+    "text": "De unde este acest lucru pe care l-au spus rabinii: „numele celor răi va putrezi”? I-a spus: Căci este scris: „și numele celor răi va putrezi.” Din Tora, de unde știm? Căci este scris: „și-a întins cortul până la Sodoma”, și este scris: „Iar oamenii Sodomei erau foarte răi și păcătoși față de Domnul.”",
+    "src": {
+     "slug": "talmud-yoma",
+     "spec": {
+      "num": 3,
+      "v": 8
+     }
+    }
+   },
+   {
     "author": "Fericitul Ieronim, Întrebări ebraice la Facere",
     "text": "(Versetul 13) Iar oamenii din Sodoma erau răi și păcătoși înaintea lui Dumnezeu, foarte. Această adăugire, „înaintea lui Dumnezeu”, este de prisos la tâlcuitorii Septuagintei, de vreme ce locuitorii Sodomei erau răi și păcătoși între toți oamenii. Totuși se spune că este păcătos înaintea lui Dumnezeu cel care poate părea drept între oameni, precum se arată în vestirea despre Zaharia și Elisabeta, că amândoi erau drepți înaintea lui Dumnezeu (Luca 1:6). Și în Psaltire se spune: „Nicio ființă vie nu va fi socotită dreaptă înaintea Ta.” (Ps. 142:2)"
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și în anul al patrulea al săptămânii acesteia Lot s-a despărțit de el, și Lot a locuit în Sodoma, și oamenii Sodomei erau păcătoși foarte.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 17
+     }
+    }
    }
   ]
  },
@@ -3125,6 +3202,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Zohar, Vaiera 11:5",
     "text": "Vino și vezi: «și Domnul a zis: oare voi acoperi de Avraham». A zis Rabbi Yehudah: Sfântul, binecuvântat fie El, a dat tot pământul lui Avraham ca să-i fie moștenire de moștenire în veac, că e scris «că tot pământul pe care îl vezi, ție ți-l voi da» etc. Și e scris «ridică-ți, rogu-te, ochii și vezi». Și după aceea Sfântul, binecuvântat fie El, a trebuit să smulgă locurile acestea. A zis Sfântul, binecuvântat fie El: deja am dat pământul lui Avraham, și el e tată tuturor, că e scris «că tată a mulțime de neamuri te-am pus». Și nu mi se cuvine să lovesc fii și să nu fac cunoscut tatălui lor, pe care l-am chemat Avraham, iubitul Meu. Și de aceea a trebuit să-i facă cunoscut; de aceea (a zis) «și Domnul a zis: oare voi acoperi de Avraham ceea ce Eu fac»."
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Căci tot ținutul pe care-l vezi ți-l voi da ție și seminței tale pe veci, și voi face sămânța ta ca nisipul mării: de ar putea un om să numere pulberea pământului, totuși sămânța ta nu se va număra.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 20
+     }
+    }
    }
   ]
  },
@@ -3699,6 +3787,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Hebron, unde Avram se stabilește acum, e printre cele mai vechi orașe continuu locuite din regiune, iar Mamre (identificat cu situl actual Ramat el-Khalil) rămâne un loc central pentru toată povestea patriarhilor — aici va fi cumpărat mai târziu și mormântul familiei (cap. 23)."
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Scoală-te, umblă prin ținut în lungul lui și în latul lui, și vezi-l tot; căci seminței tale i-l voi da. Și Avram a mers la Hebron și a locuit acolo.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 21
+     }
+    }
    }
   ]
  }

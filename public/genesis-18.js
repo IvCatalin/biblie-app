@@ -902,6 +902,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Să se ia, te rog, puțină apă etc.» Poate că nu a vrut să schimbe de la obiceiul celui care ia oaspeți, care se grăbeau să-și spele picioarele din teama de idolatrie, precum au spus, binecuvântată fie amintirea lor, iar spusa „puțină” este obiceiul lui să spună oaspeților, ca să arate că nu este osteneală mare pentru ei, ca să nu-i facă de rușine.<br><br>Încă va aluziona o chestiune care privește îngerii, să ia puțină apă, care este Tora, și fiindcă Tora are în ea aspectul literal și aspectul lăuntric, iar iată îngerii care au venit în chip de oameni este un trup pe care Domnul l-a creat pentru ei, spiritual, din condensarea aerurilor, și în raport cu esența îngerului se socotește trup și i se atribuie aspectul de picior, precum este cunoscut motivul celor care cunosc harul (ḥen), și le-a aluzionat să ia puțină apă din sensurile literale ale Torei și să-și curețe cu ea picioarele, care este aspectul trupului străin care se cunoaște asupra lor. „Și rezemați-vă sub copac”, care este Tora, care se numește pomul vieții, și de aceea a spus „copacul” cu he al determinării. Încă le-a spus să ia o bucată de pâine, care este aspectul lăuntric al Torei, și să-și sprijine cu ea lăuntrul lor, și aceasta este spusa „inima voastră”. Și a fost precis să spună „bucată de pâine”, o bucată care are în aspectul ei pâine (lehem), care sunt trei Havaya, care sunt aspectul vieții lumilor."
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 7",
+    "text": "Cum își cinstește omul învățătorul? Când amândoi merg pe drum, îl pune la dreapta lui și nu îl pune la stânga lui. Dacă erau trei și înțeleptul între ei, înțeleptul este la mijloc, cel mai mare la dreapta lui și cel mai mic la stânga lui; căci așa am găsit la cei trei îngeri de slujire care au venit la Avraam, părintele nostru: Gabriel, Mihail și Rafael: Gabriel la mijloc, Mihail la dreapta lui și Rafael la stânga lui. Și când au venit la Avraam, a venit Șekhina și a stat deasupra capului lui. Le-a spus: Domnii mei, așteptați-mă până mă despart de Șekhina, căci ea este mai mare decât voi, căci s-a spus: „Și când a sfârșit de vorbit cu el, Dumnezeu s-a ridicat de deasupra lui Avraam”. Și când s-a despărțit Avraam de Șekhina, a venit și s-a prosternat înaintea lor, căci s-a spus: „El a văzut și a alergat în întâmpinarea lor”; i-a adus sub copac și le-a spus: Domnii mei, „Să se ia, te rog, puțină apă” etc., și după aceea: „Și eu voi lua o bucată de pâine și vă veți înviora inima”. Dar Lot ce le-a spus? „înnoptați și spălați-vă picioarele, apoi treziți-vă devreme” etc. Alții spun: Lot nu a spus aceasta decât cu înțelepciunea înțelepților: dacă i-ar vedea spălați pe față, pe mâini și pe picioare, s-ar găsi că îl ucid pe el și pe fiii lui; iar când vor vedea praf pe picioarele lor, vor spune: Nu au venit decât acum de pe drum.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 7,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -1170,6 +1181,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 7,
       "v": 5
+     }
+    }
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 7",
+    "text": "Cum își cinstește omul învățătorul? Când amândoi merg pe drum, îl pune la dreapta lui și nu îl pune la stânga lui. Dacă erau trei și înțeleptul între ei, înțeleptul este la mijloc, cel mai mare la dreapta lui și cel mai mic la stânga lui; căci așa am găsit la cei trei îngeri de slujire care au venit la Avraam, părintele nostru: Gabriel, Mihail și Rafael: Gabriel la mijloc, Mihail la dreapta lui și Rafael la stânga lui. Și când au venit la Avraam, a venit Șekhina și a stat deasupra capului lui. Le-a spus: Domnii mei, așteptați-mă până mă despart de Șekhina, căci ea este mai mare decât voi, căci s-a spus: „Și când a sfârșit de vorbit cu el, Dumnezeu s-a ridicat de deasupra lui Avraam”. Și când s-a despărțit Avraam de Șekhina, a venit și s-a prosternat înaintea lor, căci s-a spus: „El a văzut și a alergat în întâmpinarea lor”; i-a adus sub copac și le-a spus: Domnii mei, „Să se ia, te rog, puțină apă” etc., și după aceea: „Și eu voi lua o bucată de pâine și vă veți înviora inima”. Dar Lot ce le-a spus? „înnoptați și spălați-vă picioarele, apoi treziți-vă devreme” etc. Alții spun: Lot nu a spus aceasta decât cu înțelepciunea înțelepților: dacă i-ar vedea spălați pe față, pe mâini și pe picioare, s-ar găsi că îl ucid pe el și pe fiii lui; iar când vor vedea praf pe picioarele lor, vor spune: Nu au venit decât acum de pe drum.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 7,
+      "v": 2
      }
     }
    }
@@ -2994,6 +3016,17 @@ window.CHAPTER_DATA = [
     "text": "«Domnul i-a spus lui Avraam etc.» Trebuie să știm spusa cuvântului „zeh”. Încă de ce a spus „spunând”. Și toată Scriptura este de prisos, căci nu trebuia să spună decât „de ce a râs”.<br><br>Însă intenția este că am aflat în secțiunea dinainte că și Avraam a râs când Domnul i-a spus vestea sămânței, căci este scris: „Avraam a căzut cu fața la pământ și a râs”, și nu am văzut că Domnul s-ar fi mâniat pentru că a râs Avraam. Și va spune cel care spune: „prin ce s-a deosebit râsul Sarei de râsul lui Avraam?” Și am aflat la Onkelos că a intenționat să dezlege aceasta prin ceea ce a tradus râsul lui Avraam „și s-a bucurat” (we-ḥadi) și râsul Sarei „și a râs” (we-ḥikhat), dar pe cine s-a sprijinit Sfântul, binecuvântat fie, să înțeleagă două explicații diferite într-un singur cuvânt?<br><br>Însă adevărul este că Sfântul, binecuvântat fie, a fost precis în cuvintele Lui, motivul mâniei Lui pe Sara și nu pe Avraam, și vei găsi că Avraam a râs în timpul vestirii, ceea ce nu este așa Sara nu a râs în timpul în care a fost vestită, ci în timpul în care a văzut desfătarea, precum spusa „Și a râs Sara” etc. „după ce m-am ofilit, a fost pentru mine desfătare (ʿednah)”, iată, aceasta arată că nu s-a adeverit la ea făgăduința nașterii până ce a văzut schimbarea, și pentru aceasta s-a mâniat Domnul, și aceasta este spusa Lui „de ce a râs aceasta”, explicația: pentru acest râs mă mânii și nu pentru râsul tău, iar motivul este că acest râs, intenția ei a fost să spună „Să fie adevărat”, care s-a adeverit la ea după fapta că va naște, și aceasta arată că nu a crezut și nu și-a sprijinit mintea pe făgăduința Mea față de ea, căci este un lucru minunat, „Este oare vreun lucru prea minunat pentru Domnul?” etc.<br><br>«Deși am îmbătrânit etc.» Este greu cum scoate Domnul din gura Sa, binecuvântat fie numele Lui, ceea ce nu a fost. Și deși au spus, binecuvântată fie amintirea lor, că de aici se învață că se schimbă pentru pace, totuși, față de înălțimea adevărului Său, binecuvântat fie, căci din El ies adevăruri, nu va vorbi, Doamne ferește, ceea ce nu a fost. Iar după ce am explicat că mânia a fost pentru că nu a crezut că va naște din cauza bătrâneții ei, precum spusa „după ce m-am ofilit”, până ce a văzut că s-a întors la zilele tinereții ei, Domnul este adevăr și cuvintele Lui sunt adevăr. Și a fost precis să spună motivul pentru care s-a mâniat pe ea, că nu a crezut înainte de a se desfăta, și deși Sara a adăugat să spună încă „și domnul meu este bătrân”, aceasta a fost după ce a îndreptățit în făgăduință, căci a avut desfătare, „a râs”, explicația: s-a bucurat, și a spus cântare și laudă Dumnezeului Preaînalt că după ce s-a ofilit a avut desfătare, căci aceasta arată că s-a întors la zilele tinereții ei ca să nască, și a adăugat să mărească bunătatea lui Dumnezeu prin spusa „și domnul meu este bătrân”, și chiar așa minunile lui Dumnezeu au fost înălțate asupra ei, căci este de la sine înțeles că după ce a văzut desfătarea nu va mai ezita în lucru, și nu a spus „și domnul meu este bătrân” decât ca să mulțumească pentru minunile Lui."
    },
    {
+    "author": "Talmudul Babilonian, Ievamot, cap. 6",
+    "text": "În școala lui Rabbi Yișmaʿel s-a învățat: Mare este pacea, căci chiar Sfântul, binecuvântat fie El, a schimbat pentru ea; căci la început este scris: „Și soțul meu este bătrân”, iar la sfârșit este scris: „deși am îmbătrânit”.",
+    "src": {
+     "slug": "talmud-yevamot",
+     "spec": {
+      "num": 6,
+      "v": 9
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 16 — context/comparație",
     "text": "Și Sara a râs, căci a auzit că grăisem cuvintele acestea cu Avraam, și am mustrat-o, și s-a temut, și a tăgăduit că râsese din pricina cuvintelor."
    }
@@ -3745,6 +3778,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Zohar, Pekudei 51:66",
     "text": "Și atunci acest palat se cheamă «Va-Domnul», când este spre bine, precum spui (Exodul 13:21): «și Domnul mergea înaintea lor ziua»; (Geneza 18:17): «și Domnul a zis: Să ascund Eu de Avraham?» Și când se unește Yițḥak cu palatul casei de judecată, care se cheamă «Merit», atunci totul se cheamă «Va-Domnul», ca să-i pedepsească pe cei răi, precum spui (Geneza 19:24): «și Domnul a făcut să plouă peste Sedom» etc. Și totul este într-o singură taină, cum se cuvine."
+   },
+   {
+    "author": "Talmudul Babilonian, Ioma, cap. 3",
+    "text": "I-a spus Ravina unuia dintre rabini, care rânduia aggada înaintea lui: De unde este acest lucru pe care l-au spus rabinii: „pomenirea celui drept, spre binecuvântare”?⁠‌‌​‌‌​‌​​‌​‌‌​‌​​​‌‌​‌​​ I-a spus: Căci este scris: „Pomenirea celui drept este spre binecuvântare.” Din Tora, de unde știm? Căci este scris: „Și Domnul a spus: Să ascund Eu oare de Avraam ce sunt pe cale să fac?”, și este scris: „Iar Avraam va fi negreșit un neam mare și puternic.”",
+    "src": {
+     "slug": "talmud-yoma",
+     "spec": {
+      "num": 3,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
+    "text": "Când Dumnezeu a hotărât astfel cu privire la sodomiți, Avraam, pe când ședea lângă stejarul din Mamre, la ușa cortului său, a văzut trei îngeri; și, socotindu-i străini, s-a sculat, i-a salutat și i-a rugat să primească o ospătare și să rămână la el; la care, după ce au consimțit, a poruncit să se facă îndată turte din făină; și, după ce a înjunghiat un vițel, l-a fript și l-a adus la ei, pe când ședeau sub stejar. Ei au făcut semn că mănâncă; și, pe lângă aceasta, l-au întrebat despre soția lui, Sara, unde era; iar când el a zis că este înăuntru, au spus că vor veni din nou mai târziu și o vor găsi făcută mamă. La care femeia a râs și a zis că este cu neputință să nască copii, de vreme ce are nouăzeci de ani, iar soțul ei o sută. Atunci ei nu s-au mai ascuns, ci au declarat că sunt îngeri ai lui Dumnezeu; și că unul dintre ei era trimis să-i înștiințeze despre copil, iar doi despre nimicirea Sodomei.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 12,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -3958,6 +4013,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 3,
       "v": 7
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
+    "text": "Când Dumnezeu a hotărât astfel cu privire la sodomiți, Avraam, pe când ședea lângă stejarul din Mamre, la ușa cortului său, a văzut trei îngeri; și, socotindu-i străini, s-a sculat, i-a salutat și i-a rugat să primească o ospătare și să rămână la el; la care, după ce au consimțit, a poruncit să se facă îndată turte din făină; și, după ce a înjunghiat un vițel, l-a fript și l-a adus la ei, pe când ședeau sub stejar. Ei au făcut semn că mănâncă; și, pe lângă aceasta, l-au întrebat despre soția lui, Sara, unde era; iar când el a zis că este înăuntru, au spus că vor veni din nou mai târziu și o vor găsi făcută mamă. La care femeia a râs și a zis că este cu neputință să nască copii, de vreme ce are nouăzeci de ani, iar soțul ei o sută. Atunci ei nu s-au mai ascuns, ci au declarat că sunt îngeri ai lui Dumnezeu; și că unul dintre ei era trimis să-i înștiințeze despre copil, iar doi despre nimicirea Sodomei.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 12,
+      "v": 2
      }
     }
    }
@@ -4272,6 +4338,28 @@ window.CHAPTER_DATA = [
       "v": 20
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 16 — comparație",
+    "text": "Și iată, s-a poruncit și s-a săpat despre toată sămânța lui, pe tablele cerești, să-i ia și să-i stârpească, și să facă judecată asupra lor ca judecata Sodomei, și să nu lase sămânță a omului pe pământ în ziua osândei.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 16,
+      "v": 9
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
+    "text": "Când Dumnezeu a hotărât astfel cu privire la sodomiți, Avraam, pe când ședea lângă stejarul din Mamre, la ușa cortului său, a văzut trei îngeri; și, socotindu-i străini, s-a sculat, i-a salutat și i-a rugat să primească o ospătare și să rămână la el; la care, după ce au consimțit, a poruncit să se facă îndată turte din făină; și, după ce a înjunghiat un vițel, l-a fript și l-a adus la ei, pe când ședeau sub stejar. Ei au făcut semn că mănâncă; și, pe lângă aceasta, l-au întrebat despre soția lui, Sara, unde era; iar când el a zis că este înăuntru, au spus că vor veni din nou mai târziu și o vor găsi făcută mamă. La care femeia a râs și a zis că este cu neputință să nască copii, de vreme ce are nouăzeci de ani, iar soțul ei o sută. Atunci ei nu s-au mai ascuns, ci au declarat că sunt îngeri ai lui Dumnezeu; și că unul dintre ei era trimis să-i înștiințeze despre copil, iar doi despre nimicirea Sodomei.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 12,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -4499,6 +4587,17 @@ window.CHAPTER_DATA = [
     "text": "«Și Domnul a spus: Strigătul Sodomei și Gomorei etc.» Motivul spusei „căci”, și nu a fost de ajuns să spună „strigătul Sodomei este mare” etc. „și păcatul lor este greu”. Și de asemenea dublarea spusei „strigătul” „și păcatul lor” – și nu este strigăt decât din păcat. Și de asemenea spusa „foarte greu”, a intenționat să spună că în acel timp toate neamurile îl mâniau și ele prin faptele lor, doar că acestea au făcut peste măsură, de aceea a spus „căci mare”, explicația: motivul mâniei Mele nu este pentru că numai strigătul lor s-a ridicat înaintea Mea, ci căci strigătul lor este mare mai mult decât al tuturor neamurilor. Iar dublarea „strigătul lor” „și păcatul lor” este față de două răutăți: una, că erau răi față de creaturi, precum au spus, binecuvântată fie amintirea lor, și precum fapta lui Ribah, iar a doua, răi față de ceruri, precum s-au dezvăluit faptele lor, că au alergat după păcatul culcării bărbătești cu îngerii în chip de oameni, și a fost nevoie ca Domnul să-i facă cunoscută extremitatea răutății lor, fiindcă sunt lucrarea mâinilor Lui.<br><br>Încă a intenționat Domnul să potolească răceala îngrijorării lui, căci va spune: să ne străduim să salvăm un neam atât de rău? De aceea i-a spus „căci mare” „căci greu” etc., explicația: răutatea este nouă și pentru ea sunt vinovați, iar mai înainte nu erau atât de răi când i-ai salvat."
    },
    {
+    "author": "Talmudul Babilonian, Ioma, cap. 3",
+    "text": "Rabbi Elʿazar: Din binecuvântarea celor drepți înveți blestem pentru cei răi, și din blestemul celor răi înveți binecuvântare pentru cei drepți. Din binecuvântarea celor drepți înveți blestem pentru cei răi, căci este scris: „Căci l-am cunoscut că va porunci” și celelalte, și este scris după el: „Și Domnul a spus: Strigătul Sodomei și Gomorei este mare.”",
+    "src": {
+     "slug": "talmud-yoma",
+     "spec": {
+      "num": 3,
+      "v": 10
+     }
+    }
+   },
+   {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
     "text": "Cam în vremea aceea sodomiții s-au îngâmfat din pricina bogățiilor și a marii lor averi; au ajuns nedrepți față de oameni și nelegiuiți față de Dumnezeu, încât nu-și mai aminteau folosele pe care le primeau de la El: urau pe străini și se pângăreau prin practici sodomitice. Dumnezeu a fost, deci, foarte nemulțumit de ei și a hotărât să-i pedepsească pentru trufia lor, să le răstoarne cetatea și să le pustiască țara, până când nu va mai crește din ea nici plantă, nici rod.",
     "src": {
@@ -4512,6 +4611,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Efrem Sirul, Comentariu la Facere",
     "text": "Nu era că Dumnezeu, Care tocmai spusese: „păcatele lor sunt foarte grele”, n-ar fi știut că au păcătuit. Aceasta era o pildă pentru judecători, ca să nu hotărască dinainte o pricină, chiar pe baza unor zvonuri foarte sigure. Căci, dacă Cel Ce știe toate Și-a pus deoparte cunoașterea ca să nu ia răzbunare fără cunoaștere deplină înaintea judecății, cu cât mai mult trebuie ca ei să-și pună deoparte neștiința și să nu săvârșească judecata înainte ca pricina să fie ascultată."
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Iar omul i-a vorbit judecătorului, zicând, eu te rog domnul meu, astfel omul acesta a făcut, căci eu l-am lovit cu o piatră încât sângele a curs din fruntea lui, iar el nu este dornic să îmi dea plata mea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 20
+     }
+    }
    }
   ]
  },
@@ -4730,6 +4840,28 @@ window.CHAPTER_DATA = [
       "v": 6
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Iar omul i-a vorbit judecătorului, zicând, eu te rog domnul meu, astfel omul acesta a făcut, căci eu l-am lovit cu o piatră încât sângele a curs din fruntea lui, iar el nu este dornic să îmi dea plata mea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 20
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
+    "text": "Cam în vremea aceea sodomiții s-au îngâmfat din pricina bogățiilor și a marii lor averi; au ajuns nedrepți față de oameni și nelegiuiți față de Dumnezeu, încât nu-și mai aminteau folosele pe care le primeau de la El: urau pe străini și se pângăreau prin practici sodomitice. Dumnezeu a fost, deci, foarte nemulțumit de ei și a hotărât să-i pedepsească pentru trufia lor, să le răstoarne cetatea și să le pustiască țara, până când nu va mai crește din ea nici plantă, nici rod.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 12,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -4912,6 +5044,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 19,
       "v": 44
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
+    "text": "Cam în vremea aceea sodomiții s-au îngâmfat din pricina bogățiilor și a marii lor averi; au ajuns nedrepți față de oameni și nelegiuiți față de Dumnezeu, încât nu-și mai aminteau folosele pe care le primeau de la El: urau pe străini și se pângăreau prin practici sodomitice. Dumnezeu a fost, deci, foarte nemulțumit de ei și a hotărât să-i pedepsească pentru trufia lor, să le răstoarne cetatea și să le pustiască țara, până când nu va mai crește din ea nici plantă, nici rod.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 12,
+      "v": 1
      }
     }
    }

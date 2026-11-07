@@ -524,6 +524,28 @@ window.CHAPTER_DATA = [
       "v": 3
      }
     }
+   },
+   {
+    "author": "1 Enoh 15 — comparație",
+    "text": "Pentru ce ați părăsit cerul cel înalt, sfânt și veșnic și v-ați culcat cu femeile și v-ați spurcat cu fiicele oamenilor și ați luat soții și ați făcut precum fac fiii pământului și ați născut fii uriași?",
+    "src": {
+     "slug": "1-enoh",
+     "spec": {
+      "num": 15,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 2 — comparație",
+    "text": "Dar și ei au păcătuit și s-au dat nebuniei; căci, cu fața neînfricată, își batjocoreau părinții și își rușinau mamele; nu-și cunoșteau cunoscuții și își întâmpinau frații cu trădare. Atunci au devenit răi și, înarmați cu coifuri roșii de sânge omenesc, au început și războaie; și peste ei a căzut cea din urmă nenorocire trimisă din cer, care le-a luat grijile vieții, și Hadesul i-a primit. Hades s-a numit locul unde a ajuns mai întâi Adam, după ce a gustat moartea și pământul l-a acoperit din toate părțile. De aceea se zice că toți oamenii născuți din pământ merg în sălașurile Hadesului. Dar toți aceștia, ajunși în Hades, au primit cinste, căci au aparținut primului neam.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 2,
+      "v": 2
+     }
+    }
    }
   ],
   "fidela": "Că fiii lui Dumnezeu au văzut că fiicele oamenilor erau frumoase și și-au luat soții din toate pe care le-au ales.",
@@ -821,6 +843,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "Duhul Meu nu va lupta pururea cu omul — Duhul s-a luptat atunci prin predica lui Noe, 1 Petru 3:19, și prin mustrări lăuntrice, dar în zadar la cei mai mulți; de aceea spune Dumnezeu că nu se va lupta pururea, fiindcă și el este trup — incurabil de stricat și senzual, încât e muncă zadarnică să te lupți cu el. El, adică toți, unul ca și altul; toți s-au cufundat în noroiul trupului. Totuși zilele lui vor fi o sută douăzeci de ani — Atâta vreme voi amâna judecata pe care o merită și le voi da răgaz să o prevină prin pocăință și îndreptare. Dreptatea a zis: Taie-i; dar mila s-a rugat: Doamne, lasă-i și anul acesta; și mila a biruit într-atât, încât s-a obținut un răgaz de o sută douăzeci de ani."
+   },
+   {
+    "author": "Oracolele Sibiline 2 — comparație",
+    "text": "Dar și ei au păcătuit și s-au dat nebuniei; căci, cu fața neînfricată, își batjocoreau părinții și își rușinau mamele; nu-și cunoșteau cunoscuții și își întâmpinau frații cu trădare. Atunci au devenit răi și, înarmați cu coifuri roșii de sânge omenesc, au început și războaie; și peste ei a căzut cea din urmă nenorocire trimisă din cer, care le-a luat grijile vieții, și Hadesul i-a primit. Hades s-a numit locul unde a ajuns mai întâi Adam, după ce a gustat moartea și pământul l-a acoperit din toate părțile. De aceea se zice că toți oamenii născuți din pământ merg în sălașurile Hadesului. Dar toți aceștia, ajunși în Hades, au primit cinste, căci au aparținut primului neam.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 2,
+      "v": 2
+     }
+    }
    }
   ],
   "fidela": "Și DOMNUL a spus: Duhul meu nu se va lupta întotdeauna cu omul, căci el este de asemenea și carne; totuși zilele lui vor fi o sută douăzeci de ani.",
@@ -1479,6 +1512,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 2,
       "v": 51
+     }
+    }
+   },
+   {
+    "author": "Talmudul Babilonian, Meghila, cap. 1",
+    "text": "„Și a fost în zilele lui Ahașveroș” — a fost Haman. „Și a fost în zilele când judecau judecătorii” — a fost foamete. „Și a fost, când au început oamenii să se înmulțească” — „Și Domnul a văzut că mare era răutatea omului”.",
+    "src": {
+     "slug": "talmud-megillah",
+     "spec": {
+      "num": 1,
+      "v": 21
      }
     }
    },
@@ -2435,6 +2479,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 44,
       "v": 17
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
+    "text": "Dumnezeu l-a iubit pe acest om pentru dreptatea lui; totuși, nu numai că i-a osândit pe ceilalți oameni pentru răutatea lor, ci a hotărât să nimicească tot neamul omenesc și să facă un alt neam, curat de răutate; și, scurtându-le viețile și făcând anii lor nu atât de mulți cât trăiseră mai înainte, ci numai o sută douăzeci, a prefăcut uscatul în mare; și astfel au fost nimiciți toți acești oameni: dar numai Noe a fost salvat; căci Dumnezeu i-a sugerat următoarea născocire și cale de scăpare: să facă o corabie cu patru caturi de înălțime, de trei sute de coți lungime, de cincizeci de coți lățime și de treizeci de coți înălțime. Astfel, a intrat în acea corabie el, soția lui, fiii lui și soțiile lor și a pus în ea nu numai alte merinde, spre a le susține nevoile acolo, ci a trimis înăuntru, împreună cu restul, tot felul de viețuitoare, parte bărbătească și parte femeiască, pentru păstrarea soiurilor lor; iar pe unele dintre ele câte șapte. Această corabie avea ziduri tari și un acoperiș și era întărită cu grinzi transversale, astfel încât nu putea fi în niciun fel înecată sau răsturnată de violența apei. Și astfel Noe, împreună cu familia lui, a fost păstrat. El era al zecelea de la Adam, ca fiu al lui Lameh, al cărui tată era Matusala; acesta era fiul lui Enoh, fiul lui Iared; iar Iared era fiul lui Malaleel, care, cu multe dintre surorile sale, erau copiii lui Cainan, fiul lui Enos. Iar Enos era fiul lui Set, fiul lui Adam.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 4,
+      "v": 2
      }
     }
    }
@@ -4536,6 +4591,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "Dar voi statornici legământul Meu cu tine — [1.] Legământul Providenței, că mersul firii va dăinui până la sfârșitul timpului, în ciuda întreruperii pe care i-o va aduce potopul: această făgăduință a fost făcută îndată lui Noe și fiilor lui, Fac. 9:8 și urm.; ei erau ca niște administratori pentru toată această parte a creației, și prin aceasta s-a pus o mare cinste asupra lui și asupra alor lui. Dumnezeu avea să-i fie Dumnezeu, și din seminția lui Dumnezeu avea să-Și ia un popor."
+   },
+   {
+    "author": "1 Enoh 10 — comparație",
+    "text": "«Du-te la Noe și spune-i în numele Meu: «Ascunde-te!» și descoperă-i sfârșitul care se apropie, că tot pământul va pieri și un potop este pe cale să vină asupra întregului pământ și să nimicească tot ce este pe el.",
+    "src": {
+     "slug": "1-enoh",
+     "spec": {
+      "num": 10,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -4948,6 +5014,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 4,
       "v": 29
+     }
+    }
+   },
+   {
+    "author": "1 Enoh 10 — comparație",
+    "text": "Și nici o cerere din partea părinților lor pentru ei nu va fi împlinită, căci ei nădăjduiesc să trăiască o viață veșnică și că fiecare din ei va trăi cinci sute de ani.»",
+    "src": {
+     "slug": "1-enoh",
+     "spec": {
+      "num": 10,
+      "v": 10
      }
     }
    }

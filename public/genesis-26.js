@@ -893,6 +893,17 @@ window.CHAPTER_DATA = [
       "v": 22
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 24 — comparație",
+    "text": "Și în sămânța ta vor fi binecuvântate toate neamurile pământului, pentru că tatăl tău a ascultat de glasul Meu, și a ținut însărcinarea Mea, și poruncile Mele, și legile Mele, și rânduielile Mele, și legământul Meu; și acum ascultă de glasul Meu și locuiește în ținutul acesta.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 24,
+      "v": 11
+     }
+    }
    }
   ]
  },
@@ -1448,6 +1459,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 3,
       "v": "3"
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 24 — comparație",
+    "text": "Și în sămânța ta vor fi binecuvântate toate neamurile pământului, pentru că tatăl tău a ascultat de glasul Meu, și a ținut însărcinarea Mea, și poruncile Mele, și legile Mele, și rânduielile Mele, și legământul Meu; și acum ascultă de glasul Meu și locuiește în ținutul acesta.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 24,
+      "v": 11
      }
     }
    }
@@ -4071,6 +4093,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«și și-a așezat tabăra în valea Gherar» Căci nu a vrut să-și smulgă locuința din țara filistenilor cu totul, pentru că este porunca Regelui, Regele lumii, care a spus „Locuiește în țara aceasta”. Și deși s-ar spune că locul acela nu intra în ceea ce i-a spus Domnul „stabilește-te în țara”, totuși era silit de rege, domnul țării. Și poate că Domnul a făcut astfel ca încercare, că deși Domnul i-a spus „ție și seminției tale vă voi da toate pământurile”, totuși nu l-au lăsat nici măcar să locuiască acolo ca unul dintre popor, dacă nu va avea îndoieli față de Șekhina, și la fel a făcut și cu Avraam."
+   },
+   {
+    "author": "Cartea Jubileelor 24 — comparație",
+    "text": "Și Abimelec i-a zis lui Isaac: Pleacă de la noi, căci ești mult mai tare decât noi; și Isaac a plecat de acolo în anul întâi al săptămânii a șaptea, și a pribegit în văile Gherarului.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 24,
+      "v": 17
+     }
+    }
    }
   ]
  },
@@ -4917,6 +4950,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«A noastră este apa!» Căci de vreme ce ele trăiesc din râul nostru, vin."
+   },
+   {
+    "author": "Cartea Jubileelor 24 — comparație",
+    "text": "Și slujitorii lui Isaac au săpat o fântână în vale, și au găsit apă vie, și păstorii Gherarului s-au certat cu păstorii lui Isaac, zicând: Apa e a noastră; și Isaac a pus fântânii numele „Perversitate”, pentru că fuseseră perverși cu noi.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 24,
+      "v": 19
+     }
+    }
    }
   ]
  },
@@ -5103,6 +5147,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ieronim, Întrebări ebraice la Facere",
     "text": "(Versetul 21.) Și au săpat o altă fântână și s-au certat pentru ea. Și i-a pus numele Dușmănie. Cât despre „dușmănie”: Aquila și Symmachus au tradus-o prin τὴν ἀντικειμένην și ἐναντίωσιν, ceea ce înseamnă „potrivnică” și „contrară”; în ebraică este Satana. De aici înțelegem că Satana se tâlcuiește „cel potrivnic”."
+   },
+   {
+    "author": "Cartea Jubileelor 24 — comparație",
+    "text": "Și slujitorii lui Isaac au săpat o fântână în vale, și au găsit apă vie, și păstorii Gherarului s-au certat cu păstorii lui Isaac, zicând: Apa e a noastră; și Isaac a pus fântânii numele „Perversitate”, pentru că fuseseră perverși cu noi.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 24,
+      "v": 19
+     }
+    }
    }
   ]
  },
@@ -5422,6 +5477,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ieronim, Întrebări ebraice la Facere",
     "text": "(Versetul 22.) Și au săpat o altă fântână și nu s-au mai certat pentru ea: de aceea i-a pus numele Locuri largi; sau, în ebraică, Rehovot, ca să dovedim ce am spus mai sus, că el însuși a zidit cetatea Ninive și locurile ei largi (Facerea 10)."
+   },
+   {
+    "author": "Cartea Jubileelor 24 — comparație",
+    "text": "Și au săpat o a doua fântână, și s-au certat și pentru aceea, și i-a pus numele „Vrăjmășie”. Și s-a sculat de acolo și au săpat altă fântână, și pentru aceea nu s-au certat, și i-a pus numele „Loc”, și Isaac a zis: Acum Domnul ne-a făcut loc, și ne-am înmulțit în ținut.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 24,
+      "v": 20
+     }
+    }
    }
   ]
  },
@@ -5525,6 +5591,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«De acolo s-a urcat la Beer-Șeba.» Este Beer-Șeba unde a stat tatăl lui, și era aproape de Hebron."
+   },
+   {
+    "author": "Cartea Jubileelor 24 — comparație",
+    "text": "Și au săpat o a doua fântână, și s-au certat și pentru aceea, și i-a pus numele „Vrăjmășie”. Și s-a sculat de acolo și au săpat altă fântână, și pentru aceea nu s-au certat, și i-a pus numele „Loc”, și Isaac a zis: Acum Domnul ne-a făcut loc, și ne-am înmulțit în ținut.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 24,
+      "v": 20
+     }
+    }
    }
   ]
  },

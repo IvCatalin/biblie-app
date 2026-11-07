@@ -6122,6 +6122,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Sunt fiica lui Betuel, fiul Milcăi, pe care i l-a născut etc.» Explicația: că tatăl ei este dintre fiii stăpânei și nu din concubină."
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 4",
+    "text": "Baraita: Și stai înaintea bătrânilor și pleacă-ți urechea să asculți cuvintele lor, căci este scris: „pe bătrânii tăi și îți vor spune”; și străduiește-te asupra cuvintelor lor, să răspunzi la cel dintâi întâi și la cel din urmă la urmă. Am învățat acolo: Șapte lucruri sunt la cel necioplit. De ce începe cu cel necioplit? Să fi învățat „înțeleptul”! Și mai mult, a spus „înțeleptul”. Fiindcă vrea să învețe „înțeleptul nu”, să fi învățat „vorbește”. A învățat: laudele înțelepților le rânduiește, iar ale proștilor, pe dos. I-a spus Rav Aḥa lui Rava: De unde, din Tora, „la cel dintâi întâi și la cel din urmă la urmă”? Numărul este de la rabani; și după gândul tău, toate de unde? I-a spus: Eu le spun: Înțeleptul nu vorbește „meḥușei”, căci este scris: „Vorbește tu”; și nu intră în mijlocul cuvintelor înțelepților, căci este scris: „Când a sfârșit Ieremia de vorbit” etc. „toate cuvintele Domnului, Dumnezeului lor” etc.; și nu se grăbește, căci este scris: „Nu te grăbi cu gura ta”; întreabă, căci este scris: „El i-a întrebat de sănătate”; și răspunde, căci este scris: „Și ei au spus: Este sănătos”. Spune la cel dintâi întâi, căci este scris: „A cui fiică ești tu? Spune-mi, te rog! Este oare loc pentru noi să înnoptăm în casa tatălui tău?” etc., și este scris: „Ea i-a spus: Sunt fiica lui Betuel”, și apoi: „Avem la noi nu doar fân și nutreț din belșug”. Și Moise, căci este scris: „Moise a auzit și a fost bine în ochii lui”; și este scris: „căci în Numele Domnului, Dumnezeului nostru, ne-a vorbit”.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 4,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -6282,6 +6293,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Avem la noi nu doar fân și nutreț din belșug, ci și loc de înnoptat.» „Și fân, și nutreț” – pe care nu l-ai cerut; „și loc” – pe care l-ai cerut. „Și” vine să includă nevoia lui și nevoia oamenilor care sunt cu el.<br><br>«Să înnoptați.» „Să înnoptați pe voi înșivă”, ca „ladun”, „lashuv”, „laqum”; ca să spună: nu este niciun han anume în care omul să se găzduiască de obicei, dar el are un loc ca să înnopteze cu el."
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 4",
+    "text": "Baraita: Și stai înaintea bătrânilor și pleacă-ți urechea să asculți cuvintele lor, căci este scris: „pe bătrânii tăi și îți vor spune”; și străduiește-te asupra cuvintelor lor, să răspunzi la cel dintâi întâi și la cel din urmă la urmă. Am învățat acolo: Șapte lucruri sunt la cel necioplit. De ce începe cu cel necioplit? Să fi învățat „înțeleptul”! Și mai mult, a spus „înțeleptul”. Fiindcă vrea să învețe „înțeleptul nu”, să fi învățat „vorbește”. A învățat: laudele înțelepților le rânduiește, iar ale proștilor, pe dos. I-a spus Rav Aḥa lui Rava: De unde, din Tora, „la cel dintâi întâi și la cel din urmă la urmă”? Numărul este de la rabani; și după gândul tău, toate de unde? I-a spus: Eu le spun: Înțeleptul nu vorbește „meḥușei”, căci este scris: „Vorbește tu”; și nu intră în mijlocul cuvintelor înțelepților, căci este scris: „Când a sfârșit Ieremia de vorbit” etc. „toate cuvintele Domnului, Dumnezeului lor” etc.; și nu se grăbește, căci este scris: „Nu te grăbi cu gura ta”; întreabă, căci este scris: „El i-a întrebat de sănătate”; și răspunde, căci este scris: „Și ei au spus: Este sănătos”. Spune la cel dintâi întâi, căci este scris: „A cui fiică ești tu? Spune-mi, te rog! Este oare loc pentru noi să înnoptăm în casa tatălui tău?” etc., și este scris: „Ea i-a spus: Sunt fiica lui Betuel”, și apoi: „Avem la noi nu doar fân și nutreț din belșug”. Și Moise, căci este scris: „Moise a auzit și a fost bine în ochii lui”; și este scris: „căci în Numele Domnului, Dumnezeului nostru, ne-a vorbit”.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 4,
+      "v": 2
+     }
+    }
    }
   ]
  },
