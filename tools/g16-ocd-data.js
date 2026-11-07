@@ -1,0 +1,9 @@
+// Geneza 16: comentarii creștine din tora-openchristiandata, traduse integral în română; nu se rezumă nimic.
+// Se aplică cu `node tools/apply-ocd.js 16 tools/g16-ocd-data.js [--write]`.
+const BEDA = 'Beda Venerabilul, Comentariu la Facere (Hexaemeron)', IER = 'Fericitul Ieronim, Întrebări ebraice la Facere';
+module.exports = [
+  [2, IER, '(Capitolul 16, versetul 2) Iată, Domnul m-a făcut stearpă; intră deci la slujnica mea, poate voi dobândi copii prin ea. Ia seama cu grijă că nașterea copiilor este scrisă în ebraică prin „a zidi”. Căci acolo se citește: Intră la slujnica mea, ca poate să zidesc prin ea. Și vezi ca nu cumva aceasta să fie ceea ce se spune în Exodul: Dumnezeu a binecuvântat moașele, și ele și-au zidit case (Exodul 1:20).'],
+  [7, IER, '(Versetul 7) Și îngerul Domnului a găsit-o lângă un izvor de apă în pustie, lângă izvorul de pe drumul spre Șur. Atunci egipteanca se grăbea pe drumul spre Șur, care duce prin pustie spre Egipt.'],
+  [11, BEDA, 'Iată, a zis, ai zămislit și vei naște un fiu și îi vei pune numele Ismael. Ismael înseamnă „Dumnezeu aude”, iar pricina numelui se lămurește îndată ce se adaugă: pentru că Domnul a auzit necazul tău. Trebuie însă luat seama că el a fost cel dintâi care a primit un nume de la Domnul înainte de a se naște, iar Isaac al doilea, desigur pentru o anumită taină, fiindcă și Testamentul Vechi, înfățișat în Ismael, și cel Nou, înfățișat în Isaac, au fost moștenitori cunoscuți dinainte în alegerea dumnezeiască, înainte de veacuri.'],
+  [12, IER, '(Versetul 12) Acesta va fi un om țărănesc. Mâna lui va fi împotriva tuturor, și mâna tuturor împotriva lui, și va locui în fața tuturor fraților lui. În ebraică, pentru „țărănesc” se scrie Phara (), care înseamnă măgar sălbatic. Aceasta arată că urmașii lui vor locui în pustie, adică saracenii rătăcitori, în ținuturi nesigure, care atacă și sunt atacați de toate neamurile de care se învecinează pustia.'],
+];
