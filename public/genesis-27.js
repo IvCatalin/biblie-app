@@ -11786,6 +11786,17 @@ window.CHAPTER_DATA = [
       "v": 8
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 27 — comparație",
+    "text": "Și Rebeca a intrat și a zis lui Isaac: Mi-e scârbă de viața mea din pricina celor două fiice ale lui Het, pe care și le-a luat Esau de soții; și dacă Iacob își ia soție dintre fiicele ținutului ca acestea, pentru ce mai trăiesc; căci fiicele Canaanului sunt rele.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 27,
+      "v": 8
+     }
+    }
    }
   ]
  }

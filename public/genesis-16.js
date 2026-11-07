@@ -802,6 +802,17 @@ window.CHAPTER_DATA = [
       "v": 23
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 14 — comparație",
+    "text": "Și Sarai l-a sfătuit pe soțul ei Avram, și i-a zis: Intră la Agar, roaba mea egipteancă: poate îți voi zidi sămânță prin ea.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 14,
+      "v": 22
+     }
+    }
    }
   ]
  },

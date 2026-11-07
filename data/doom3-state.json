@@ -135,57 +135,64 @@
  "20": {
   "hash": "1bc5fe55894b255c",
   "data": "2026-11-07",
-  "nume": 63,
-  "translit": 30,
+  "nume": 92,
+  "translit": 15,
   "netriate": []
  },
  "21": {
   "hash": "da36a483933183f7",
   "data": "2026-11-07",
-  "nume": 97,
-  "translit": 28,
+  "nume": 135,
+  "translit": 6,
   "netriate": []
  },
  "22": {
   "hash": "55972928f0f5d23f",
   "data": "2026-11-07",
-  "nume": 109,
-  "translit": 26,
+  "nume": 136,
+  "translit": 10,
   "netriate": []
  },
  "23": {
   "hash": "4b2fe36b93030f9e",
   "data": "2026-11-07",
-  "nume": 60,
-  "translit": 11,
+  "nume": 68,
+  "translit": 6,
   "netriate": []
  },
  "24": {
   "hash": "da5f73fec23dfb74",
   "data": "2026-11-07",
-  "nume": 118,
-  "translit": 37,
+  "nume": 175,
+  "translit": 7,
   "netriate": []
  },
  "25": {
   "hash": "bf11603bdc919247",
   "data": "2026-11-07",
-  "nume": 205,
-  "translit": 30,
+  "nume": 242,
+  "translit": 7,
   "netriate": []
  },
  "26": {
   "hash": "119c2a9daf246439",
   "data": "2026-11-07",
-  "nume": 117,
-  "translit": 29,
+  "nume": 159,
+  "translit": 4,
   "netriate": []
  },
  "27": {
   "hash": "60792446d1d6b50a",
   "data": "2026-11-07",
-  "nume": 155,
-  "translit": 6,
+  "nume": 150,
+  "translit": 8,
+  "netriate": []
+ },
+ "28": {
+  "hash": "bf329ea4f78fa3bd",
+  "data": "2026-11-07",
+  "nume": 144,
+  "translit": 5,
   "netriate": []
  }
 }
