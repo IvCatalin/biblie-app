@@ -1,0 +1,26 @@
+// Geneza 15: forma greacă/ebraică a etichetelor = exact cea din verset (Rahlfs / Sefaria).
+const L = require('./fixlib.js')(15);
+module.exports = [
+  [1, { w: 'Avram', heb: 'אַבְרָם', greek: 'τὸν Αβραμ' }, L(1, '^αβραμ')],
+  [1, { w: 'viziune' }, L(1, 'οραματι')],
+  [2, { w: 'spus' }, L(2, 'λεγει')],
+  [2, { w: 'DUMNEZEULE' }, L(2, 'δεσποτα')],
+  [2, { w: 'mele' }, L(2, 'οικογενους μου')],
+  [3, { w: 'intendentul' }, L(3, 'οικογενης μου')],
+  [4, { w: 'viscerele' }, L(4, 'εκ σου')],
+  [9, { w: 'vițele' }, L(9, 'δαμαλιν')],
+  [9, { w: 'turturea' }, { heb: 'וְתֹר', ...L(9, 'τρυγον') }],
+  [10, { w: 'luat' }, L(10, 'ελαβεν')],
+  [10, { w: 'păsările' }, L(10, 'ορνεα')],
+  [11, { w: 'Păsările' }, L(11, 'ορνεα')],
+  [11, { w: 'gonit' }, L(11, 'συνεκαθισεν', { diff_ro: 'Ebraica spune că Avram „le-a gonit” (וַיַּשֵּׁב) pe păsările de pradă; Septuaginta spune că „s-a așezat împreună cu ele” (συνεκάθισεν αὐτοῖς), citind verbul altfel.' })],
+  [12, { w: 'soarele' }, L(12, 'ηλιου')],
+  [12, { w: 'apună' }, L(12, 'δυσμας')],
+  [12, { w: 'negură' }, L(12, 'σκοτεινος')],
+  [13, { w: 'lor' }, L(13, 'ιδια')],
+  [14, { w: 'neamul' }, L(14, 'εθνος')],
+  [17, { w: 'furnal' }, L(17, 'κλιβανος')],
+  [17, { w: 'fumegând' }, L(17, 'καπνιζομενος')],
+  [17, { w: 'bucăți' }, L(17, 'διχοτομηματων')],
+  [18, { w: 'zi' }, { heb: 'בַּיּוֹם', ...L(18, 'ημερα') }],
+];
