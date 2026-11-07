@@ -102,7 +102,7 @@ window.CHAPTER_DATA = [
   "num": 10,
   "tokens": [
    {
-    "t": "Iar în ziua a opta să ia doi miei fără meteahnă și o mielușea în primul său an de viață, fără meteahnă, și trei zecimi de efa de făină fină, ca prinos frământat cu untdelemn, și un log de untdelemn."
+    "t": "Iar în ziua a opta să ia doi miei fără meteahnă și o mieluță în primul său an de viață, fără meteahnă, și trei zecimi de efa de făină fină, ca prinos frământat cu untdelemn, și un log de untdelemn."
    }
   ],
   "textCompare": [],

@@ -1439,7 +1439,7 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "«Trei vițele (ʿeglah meșulleșet).» Trei viței; aluzie la trei tauri: taurul din Ziua Ispășirii, taurul pentru greșeala nevăzută a obștii și vițeaua căreia i se frânge gâtul.<br><br>«Trei iezi.» Aluzie la țapul adus înăuntru, la țapii jertfelor suplimentare ale sărbătorii și la țapul jertfei pentru păcat a unui singur om.<br><br>«Trei berbeci.» Jertfa de vină sigură, jertfa de vină îndoielnică și mielușeaua jertfei pentru păcat a unui singur om.<br><br>«O turturea și un porumbel tânăr (gozal).» O turturea și un pui de porumbel."
+    "text": "«Trei vițele (ʿeglah meșulleșet).» Trei viței; aluzie la trei tauri: taurul din Ziua Ispășirii, taurul pentru greșeala nevăzută a obștii și vițeaua căreia i se frânge gâtul.<br><br>«Trei iezi.» Aluzie la țapul adus înăuntru, la țapii jertfelor suplimentare ale sărbătorii și la țapul jertfei pentru păcat a unui singur om.<br><br>«Trei berbeci.» Jertfa de vină sigură, jertfa de vină îndoielnică și mieluța jertfei pentru păcat a unui singur om.<br><br>«O turturea și un porumbel tânăr (gozal).» O turturea și un pui de porumbel."
    },
    {
     "author": "Ibn Ezra (1089–1167)",

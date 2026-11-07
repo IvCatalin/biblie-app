@@ -333,7 +333,7 @@ window.CHAPTER_DATA = [
   "num": 31,
   "tokens": [
    {
-    "t": "Șabat de odihnă deplină este pentru voi, și să vă privați pe voi înșivă – un decret veșnic."
+    "t": "Sabat de odihnă deplină este pentru voi, și să vă privați pe voi înșivă – un decret veșnic."
    }
   ],
   "textCompare": [],

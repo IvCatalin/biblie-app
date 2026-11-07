@@ -80,7 +80,7 @@ window.CHAPTER_DATA = [
   "num": 8,
   "tokens": [
    {
-    "t": "Amintește-ți de ziua de Șabat spre a o sfinți."
+    "t": "Amintește-ți de ziua de Sabat spre a o sfinți."
    }
   ],
   "textCompare": [],
@@ -102,7 +102,7 @@ window.CHAPTER_DATA = [
   "num": 10,
   "tokens": [
    {
-    "t": "Dar ziua a șaptea este Șabat pentru DOMNUL, Dumnezeul tău. Să nu faci nicio muncă – tu și fiul tău și fiica ta, sclavul tău și slujnica ta și dobitocul tău și prozelitul tău care este între porțile tale;"
+    "t": "Dar ziua a șaptea este Sabat pentru DOMNUL, Dumnezeul tău. Să nu faci nicio muncă – tu și fiul tău și fiica ta, sclavul tău și slujnica ta și dobitocul tău și prozelitul tău care este între porțile tale;"
    }
   ],
   "textCompare": [],
@@ -113,7 +113,7 @@ window.CHAPTER_DATA = [
   "num": 11,
   "tokens": [
    {
-    "t": "căci în șase zile a făcut DOMNUL cerurile și pământul, marea și tot ce se află în ea și în a șaptea zi S-a odihnit. De aceea a binecuvântat DOMNUL ziua de Șabat și a sfințit-o."
+    "t": "căci în șase zile a făcut DOMNUL cerurile și pământul, marea și tot ce se află în ea și în a șaptea zi S-a odihnit. De aceea a binecuvântat DOMNUL ziua de Sabat și a sfințit-o."
    }
   ],
   "textCompare": [],

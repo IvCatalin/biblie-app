@@ -14,7 +14,7 @@ window.CHAPTER_DATA = [
   "num": 2,
   "tokens": [
    {
-    "t": "Șabaturile Mele să le păstrați și Sanctuarul Meu să îl venerați – Eu sunt DOMNUL."
+    "t": "Sabaturile Mele să le păstrați și Sanctuarul Meu să îl venerați – Eu sunt DOMNUL."
    }
   ],
   "textCompare": [],
@@ -366,7 +366,7 @@ window.CHAPTER_DATA = [
   "num": 34,
   "tokens": [
    {
-    "t": "Atunci se va bucura pământul de Șabaturile lui, în tot timpul pustiirii, cât voi sunteți în țara dușmanilor voștri. Atunci se va odihni pământul și se va bucura de Șabaturile lui."
+    "t": "Atunci se va bucura pământul de Sabaturile lui, în tot timpul pustiirii, cât voi sunteți în țara dușmanilor voștri. Atunci se va odihni pământul și se va bucura de Sabaturile lui."
    }
   ],
   "textCompare": [],
@@ -377,7 +377,7 @@ window.CHAPTER_DATA = [
   "num": 35,
   "tokens": [
    {
-    "t": "În toate zilele pustiirii se va odihni, pentru tot [timpul] cât nu s-a odihnit în Șabaturile voastre, pe vremea când locuiați pe el."
+    "t": "În toate zilele pustiirii se va odihni, pentru tot [timpul] cât nu s-a odihnit în Sabaturile voastre, pe vremea când locuiați pe el."
    }
   ],
   "textCompare": [],
@@ -465,7 +465,7 @@ window.CHAPTER_DATA = [
   "num": 43,
   "tokens": [
    {
-    "t": "Iar țara va rămâne părăsită de ei și se va bucura de Șabaturile ei cât este lipsită de ei; și ei vor trebui să găsească iertare pentru greșeala lor, căci judecățile Mele le-au disprețuit și sufletul lor a respins decretele Mele."
+    "t": "Iar țara va rămâne părăsită de ei și se va bucura de Sabaturile ei cât este lipsită de ei; și ei vor trebui să găsească iertare pentru greșeala lor, căci judecățile Mele le-au disprețuit și sufletul lor a respins decretele Mele."
    }
   ],
   "textCompare": [],

@@ -2799,7 +2799,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Chizkuni (sec. XIII)",
-    "text": "«Și i s-a născut Enoh.» A fost al șaptelea și a fost educat (nitḥannekh) pentru sfințenie, căci găsim că al șaptelea este sfânt, și tot așa este scris despre David: „el este al șaptelea”; acest lucru l-a adus la sfințenie. Și tot așa găsim: dintre cele șapte ceruri – ʿAravot; dintre cele șapte pământuri – Țara lui Israel; dintre cele șapte pustiuri – pustiul Sinai; dintre cele șapte mări – Marea Chineret; dintre cele șapte lumi – lumea a șaptea, care este toată Șabat; dintre cele șapte lămpi – lampa de apus; dintre cele șapte zile – ziua a șaptea; și tot așa Tișrei, anul sabatic și Iubileul."
+    "text": "«Și i s-a născut Enoh.» A fost al șaptelea și a fost educat (nitḥannekh) pentru sfințenie, căci găsim că al șaptelea este sfânt, și tot așa este scris despre David: „el este al șaptelea”; acest lucru l-a adus la sfințenie. Și tot așa găsim: dintre cele șapte ceruri – ʿAravot; dintre cele șapte pământuri – Țara lui Israel; dintre cele șapte pustiuri – pustiul Sinai; dintre cele șapte mări – Marea Chineret; dintre cele șapte lumi – lumea a șaptea, care este toată Sabat; dintre cele șapte lămpi – lampa de apus; dintre cele șapte zile – ziua a șaptea; și tot așa Tișrei, anul sabatic și Iubileul."
    },
    {
     "author": "Cartea Jubileelor 4 — comparație",

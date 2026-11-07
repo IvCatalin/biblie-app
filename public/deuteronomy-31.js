@@ -102,7 +102,7 @@ window.CHAPTER_DATA = [
   "num": 10,
   "tokens": [
    {
-    "t": "Și Moise le-a poruncit, spunând: „La capătul a șapte ani, la sorocul anului șabatic, la Sărbătoarea Colibelor,"
+    "t": "Și Moise le-a poruncit, spunând: „La capătul a șapte ani, la sorocul anului sabatic, la Sărbătoarea Colibelor,"
    }
   ],
   "textCompare": [],

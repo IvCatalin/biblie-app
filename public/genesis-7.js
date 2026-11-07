@@ -2010,7 +2010,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Zohar, Vaiera 30:7",
-    "text": "S-a desăvârșit vav în mijlocul lui zece de șase ori; atunci erau șaizeci ca să se ridice din țărână; și în fiecare șaizeci și șaizeci din acea mie a șasea se întărește he și se suie în treptele sale ca să se întărească. Și în șase sute de ani ai celei de-a șasea se vor deschide porțile ḥokhmah-ei sus și izvoarele ḥokhmah-ei jos, și se va pregăti lumea să intre în a șaptea. Ca omul care se pregătește în ziua a șasea de la apusul soarelui ca să intre în șabat. Tot așa. Și semnul tău (Geneza 7:11): «în anul șase sute al vieții lui Noaḥ» etc. «s-au spart toate izvoarele tehomului celui mare»."
+    "text": "S-a desăvârșit vav în mijlocul lui zece de șase ori; atunci erau șaizeci ca să se ridice din țărână; și în fiecare șaizeci și șaizeci din acea mie a șasea se întărește he și se suie în treptele sale ca să se întărească. Și în șase sute de ani ai celei de-a șasea se vor deschide porțile ḥokhmah-ei sus și izvoarele ḥokhmah-ei jos, și se va pregăti lumea să intre în a șaptea. Ca omul care se pregătește în ziua a șasea de la apusul soarelui ca să intre în sabat. Tot așa. Și semnul tău (Geneza 7:11): «în anul șase sute al vieții lui Noaḥ» etc. «s-au spart toate izvoarele tehomului celui mare»."
    },
    {
     "author": "Cartea Dreptului 5 — comparație",

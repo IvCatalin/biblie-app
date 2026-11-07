@@ -567,7 +567,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Radak (cca. 1160–1235)",
-    "text": "«În a treia zi, când erau suferinzi»: căci în a treia zi după tăierea împrejur rana este mai grea; de aceea învățătorii noștri, binecuvântată fie amintirea lor, au îngăduit spălarea cu apă caldă încălzită în Șabat, pentru că este primejdie.<br><br>«Doi dintre fiii lui Iacov … și-au luat»: deși toți fuseseră de acord cu aceasta la început, cum a spus „fiii lui Iacov le-au răspuns … cu iscusință”, cu toate acestea s-au reținut, de frica lor de oamenii țării; dar Simeon și Levi au rămas la gândul lor dintâi și nu s-au temut; de aceea a spus „frații Dinei”, căci s-au dat pe ei înșiși.<br><br>«Cu încredere»: ca și cum ar fi fost mulți."
+    "text": "«În a treia zi, când erau suferinzi»: căci în a treia zi după tăierea împrejur rana este mai grea; de aceea învățătorii noștri, binecuvântată fie amintirea lor, au îngăduit spălarea cu apă caldă încălzită în Sabat, pentru că este primejdie.<br><br>«Doi dintre fiii lui Iacov … și-au luat»: deși toți fuseseră de acord cu aceasta la început, cum a spus „fiii lui Iacov le-au răspuns … cu iscusință”, cu toate acestea s-au reținut, de frica lor de oamenii țării; dar Simeon și Levi au rămas la gândul lor dintâi și nu s-au temut; de aceea a spus „frații Dinei”, căci s-au dat pe ei înșiși.<br><br>«Cu încredere»: ca și cum ar fi fost mulți."
    },
    {
     "author": "Talmudul Babilonian, Taanit, cap. 4",

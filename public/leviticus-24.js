@@ -80,7 +80,7 @@ window.CHAPTER_DATA = [
   "num": 8,
   "tokens": [
    {
-    "t": "Zi de Șabat după zi de Șabat, să le aranjeze înaintea DOMNULUI, necontenit, de la copiii lui Israel, legământ veșnic."
+    "t": "Zi de Sabat după zi de Sabat, să le aranjeze înaintea DOMNULUI, necontenit, de la copiii lui Israel, legământ veșnic."
    }
   ],
   "textCompare": [],

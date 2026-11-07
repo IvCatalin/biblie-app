@@ -352,7 +352,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Sforno (cca. 1475–1550)",
-    "text": "«Ruben a mers.» Când a văzut că mama lui era întristată pentru că încetase să nască.<br><br>«A găsit mandragore (dudaʾim).» Un fel de iarbă cu miros bun, care pregătește organele seminției pentru naștere, cum au spus înțelepții noștri, binecuvântată fie amintirea lor, despre usturoi, și că de aceea îl mâncau în ajunul Șabatului; și tot așa era felul mandragorelor, sau mai bun decât el, prin aceea că sporesc iubirea împreunării, cum a spus: „acolo îți voi da iubirea mea (dodai)… mandragorele își dau mirosul”. Și prin aceasta ne-a făcut cunoscută dreptatea lui Ruben și înțelepciunea lui, deși avea atunci patru sau cinci ani cel mult."
+    "text": "«Ruben a mers.» Când a văzut că mama lui era întristată pentru că încetase să nască.<br><br>«A găsit mandragore (dudaʾim).» Un fel de iarbă cu miros bun, care pregătește organele seminției pentru naștere, cum au spus înțelepții noștri, binecuvântată fie amintirea lor, despre usturoi, și că de aceea îl mâncau în ajunul Sabatului; și tot așa era felul mandragorelor, sau mai bun decât el, prin aceea că sporesc iubirea împreunării, cum a spus: „acolo îți voi da iubirea mea (dodai)… mandragorele își dau mirosul”. Și prin aceasta ne-a făcut cunoscută dreptatea lui Ruben și înțelepciunea lui, deși avea atunci patru sau cinci ani cel mult."
    },
    {
     "author": "Rashbam (cca. 1085–1158)",

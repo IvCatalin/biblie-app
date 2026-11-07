@@ -245,7 +245,7 @@ window.CHAPTER_DATA = [
   "num": 23,
   "tokens": [
    {
-    "t": "El le-a spus: „Asta e ce a spus DOMNUL: «Mâine este zi de odihnă, un Șabat sfânt pentru DOMNUL. Ceea ce aveți de copt, coaceți, și ceea ce aveți de gătit, gătiți! Și tot ceea ce rămâne, puneți-vă deoparte spre păstrare până dimineață.»”"
+    "t": "El le-a spus: „Asta e ce a spus DOMNUL: «Mâine este zi de odihnă, un Sabat sfânt pentru DOMNUL. Ceea ce aveți de copt, coaceți, și ceea ce aveți de gătit, gătiți! Și tot ceea ce rămâne, puneți-vă deoparte spre păstrare până dimineață.»”"
    }
   ],
   "textCompare": [],
@@ -267,7 +267,7 @@ window.CHAPTER_DATA = [
   "num": 25,
   "tokens": [
    {
-    "t": "Moise a spus: „Mâncați-o astăzi, căci Șabat este astăzi pentru DOMNUL, astăzi n-o veți găsi pe câmp."
+    "t": "Moise a spus: „Mâncați-o astăzi, căci Sabat este astăzi pentru DOMNUL, astăzi n-o veți găsi pe câmp."
    }
   ],
   "textCompare": [],
@@ -278,7 +278,7 @@ window.CHAPTER_DATA = [
   "num": 26,
   "tokens": [
    {
-    "t": "Șase zile să o strângeți, dar în ziua a șaptea este Șabat, nu va fi deloc [mană].”"
+    "t": "Șase zile să o strângeți, dar în ziua a șaptea este Sabat, nu va fi deloc [mană].”"
    }
   ],
   "textCompare": [],
@@ -311,7 +311,7 @@ window.CHAPTER_DATA = [
   "num": 29,
   "tokens": [
    {
-    "t": "Vedeți că DOMNUL v-a dat Șabatul – de aceea El vă dă în ziua a șasea pâine pentru două zile. Fiecare să rămână în locul său. Nimeni să nu iasă din locul său în ziua a șaptea.”"
+    "t": "Vedeți că DOMNUL v-a dat Sabatul – de aceea El vă dă în ziua a șasea pâine pentru două zile. Fiecare să rămână în locul său. Nimeni să nu iasă din locul său în ziua a șaptea.”"
    }
   ],
   "textCompare": [],

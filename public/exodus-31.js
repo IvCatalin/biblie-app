@@ -135,7 +135,7 @@ window.CHAPTER_DATA = [
   "num": 13,
   "tokens": [
    {
-    "t": "„Iar tu, vorbește copiilor lui Israel, spunând: «Dar Șabaturile Mele să le păziți, căci el este un semn între Mine și voi, peste generațiile voastre, ca să se știe că Eu sunt DOMNUL care vă sfințește."
+    "t": "„Iar tu, vorbește copiilor lui Israel, spunând: «Dar Sabaturile Mele să le păziți, căci el este un semn între Mine și voi, peste generațiile voastre, ca să se știe că Eu sunt DOMNUL care vă sfințește."
    }
   ],
   "textCompare": [],
@@ -146,7 +146,7 @@ window.CHAPTER_DATA = [
   "num": 14,
   "tokens": [
    {
-    "t": "Să păziți Șabatul căci el este sfânt pentru voi; cine îl va profana să fie negreșit omorât, căci oricine va face în el muncă, acel suflet va fi nimicit din sânul poporului său."
+    "t": "Să păziți Sabatul căci el este sfânt pentru voi; cine îl va profana să fie negreșit omorât, căci oricine va face în el muncă, acel suflet va fi nimicit din sânul poporului său."
    }
   ],
   "textCompare": [],
@@ -157,7 +157,7 @@ window.CHAPTER_DATA = [
   "num": 15,
   "tokens": [
    {
-    "t": "Șase zile se poate face muncă, iar ziua a șaptea este o zi de odihnă completă, sfântă pentru DOMNUL; oricine face muncă în ziua de Șabat să fie negreșit omorât."
+    "t": "Șase zile se poate face muncă, iar ziua a șaptea este o zi de odihnă completă, sfântă pentru DOMNUL; oricine face muncă în ziua de Sabat să fie negreșit omorât."
    }
   ],
   "textCompare": [],
@@ -168,7 +168,7 @@ window.CHAPTER_DATA = [
   "num": 16,
   "tokens": [
    {
-    "t": "Și să păzească copiii lui Israel Șabatul, înfăptuind Șabatul, peste generațiile lor, legământ veșnic."
+    "t": "Și să păzească copiii lui Israel Sabatul, înfăptuind Sabatul, peste generațiile lor, legământ veșnic."
    }
   ],
   "textCompare": [],

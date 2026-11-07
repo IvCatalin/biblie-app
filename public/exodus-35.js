@@ -25,7 +25,7 @@ window.CHAPTER_DATA = [
   "num": 3,
   "tokens": [
    {
-    "t": "Să nu aprindeți foc în niciunul din sălașurile voastre în ziua de Șabat.”"
+    "t": "Să nu aprindeți foc în niciunul din sălașurile voastre în ziua de Sabat.”"
    }
   ],
   "textCompare": [],

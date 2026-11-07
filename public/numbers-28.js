@@ -91,7 +91,7 @@ window.CHAPTER_DATA = [
   "num": 9,
   "tokens": [
    {
-    "t": "Iar în ziua de Șabat: doi miei în primul an de viață, fără meteahnă, și două zecimi de efa de făină fină, ca prinos, frământată cu untdelemn; și libația ei."
+    "t": "Iar în ziua de Sabat: doi miei în primul an de viață, fără meteahnă, și două zecimi de efa de făină fină, ca prinos, frământată cu untdelemn; și libația ei."
    }
   ],
   "textCompare": [],
@@ -102,7 +102,7 @@ window.CHAPTER_DATA = [
   "num": 10,
   "tokens": [
    {
-    "t": "Arderea-de-tot pentru Șabat, în propriul ei Șabat, în plus față de arderea-de-tot necontenită; și libația ei."
+    "t": "Arderea-de-tot pentru Sabat, în propriul ei Sabat, în plus față de arderea-de-tot necontenită; și libația ei."
    }
   ],
   "textCompare": [],

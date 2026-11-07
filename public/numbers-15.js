@@ -344,7 +344,7 @@ window.CHAPTER_DATA = [
   "num": 32,
   "tokens": [
    {
-    "t": "Copiii lui Israel erau în deșert și au găsit un om care aduna lemne în ziua de Șabat."
+    "t": "Copiii lui Israel erau în deșert și au găsit un om care aduna lemne în ziua de Sabat."
    }
   ],
   "textCompare": [],

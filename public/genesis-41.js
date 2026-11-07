@@ -729,7 +729,7 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Ibn Ezra (1089–1167)",
-    "text": "«Un mare belșug (śavaʿ gadol).» Nume, ca raʿav („foamete”). De aceea greșește cel care spune în rugăciunea de Șabat „u-ve-sovaʿ kilkaltanu” cu vav, căci sovaʿ este infinitiv; iar corect este „u-ve-śavaʿ kilkaltanu”, fără vav."
+    "text": "«Un mare belșug (śavaʿ gadol).» Nume, ca raʿav („foamete”). De aceea greșește cel care spune în rugăciunea de Sabat „u-ve-sovaʿ kilkaltanu” cu vav, căci sovaʿ este infinitiv; iar corect este „u-ve-śavaʿ kilkaltanu”, fără vav."
    },
    {
     "author": "Rashbam (cca. 1085–1158)",

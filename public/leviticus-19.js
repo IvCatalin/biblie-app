@@ -25,7 +25,7 @@ window.CHAPTER_DATA = [
   "num": 3,
   "tokens": [
    {
-    "t": "Fiecare să se teamă de mama lui și de tatăl lui, iar Șabaturile Mele să le păstrați; Eu sunt DOMNUL, Dumnezeul vostru."
+    "t": "Fiecare să se teamă de mama lui și de tatăl lui, iar Sabaturile Mele să le păstrați; Eu sunt DOMNUL, Dumnezeul vostru."
    }
   ],
   "textCompare": [],
@@ -322,7 +322,7 @@ window.CHAPTER_DATA = [
   "num": 30,
   "tokens": [
    {
-    "t": "Șabaturile Mele să le păstrați și Sanctuarul Meu să îl venerați – Eu sunt DOMNUL."
+    "t": "Sabaturile Mele să le păstrați și Sanctuarul Meu să îl venerați – Eu sunt DOMNUL."
    }
   ],
   "textCompare": [],

@@ -14,7 +14,7 @@ window.CHAPTER_DATA = [
   "num": 2,
   "tokens": [
    {
-    "t": "„Vorbește copiilor lui Israel și spune-le: «Când veți veni în țara pe care Eu v-o dau, pământul să se odihnească un Șabat pentru DOMNUL."
+    "t": "„Vorbește copiilor lui Israel și spune-le: «Când veți veni în țara pe care Eu v-o dau, pământul să se odihnească un Sabat pentru DOMNUL."
    }
   ],
   "textCompare": [],
@@ -36,7 +36,7 @@ window.CHAPTER_DATA = [
   "num": 4,
   "tokens": [
    {
-    "t": "Iar în anul al șaptelea să fie un Șabat de odihnă deplină pentru pământ, un Șabat pentru DOMNUL; ogorul tău să nu îl semeni și via ta să nu o tai."
+    "t": "Iar în anul al șaptelea să fie un Sabat de odihnă deplină pentru pământ, un Sabat pentru DOMNUL; ogorul tău să nu îl semeni și via ta să nu o tai."
    }
   ],
   "textCompare": [],
@@ -58,7 +58,7 @@ window.CHAPTER_DATA = [
   "num": 6,
   "tokens": [
    {
-    "t": "[Ce crește de la sine în] Șabatul pământului să vă fie ca hrană: pentru tine, pentru sclavul tău, pentru slujnica ta, pentru lucrătorul tău și pentru rezidentul care locuiesc cu tine."
+    "t": "[Ce crește de la sine în] Sabatul pământului să vă fie ca hrană: pentru tine, pentru sclavul tău, pentru slujnica ta, pentru lucrătorul tău și pentru rezidentul care locuiesc cu tine."
    }
   ],
   "textCompare": [],
@@ -80,7 +80,7 @@ window.CHAPTER_DATA = [
   "num": 8,
   "tokens": [
    {
-    "t": "Să numeri pentru tine șapte cicluri de ani șabatici, șapte ani de șapte ori; zilele anilor celor șapte cicluri de ani să-ți fie patruzeci și nouă de ani."
+    "t": "Să numeri pentru tine șapte cicluri de ani sabatici, șapte ani de șapte ori; zilele anilor celor șapte cicluri de ani să-ți fie patruzeci și nouă de ani."
    }
   ],
   "textCompare": [],

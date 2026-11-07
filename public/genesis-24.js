@@ -1682,7 +1682,7 @@ window.CHAPTER_DATA = [
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
-    "text": "«În cortul mamei sale Sara (ha-ohelah Sarah immo).» A adus-o în cort, și ea a devenit asemenea Sarei, mama lui; adică: iată, ea este Sara, mama lui. Căci tot timpul cât Sara a fost în viață, era o lumânare aprinsă de la o seară de Șabat la cealaltă, binecuvântare în aluat și un nor legat de cort; iar de când a murit, au încetat; iar când a venit Rebeca, s-au întors.<br><br>«După mama sa.» Bunele rânduieli: tot timpul cât mama unui om este în viață, el este legat de ea; iar de când a murit, se mângâie cu soția lui."
+    "text": "«În cortul mamei sale Sara (ha-ohelah Sarah immo).» A adus-o în cort, și ea a devenit asemenea Sarei, mama lui; adică: iată, ea este Sara, mama lui. Căci tot timpul cât Sara a fost în viață, era o lumânare aprinsă de la o seară de Sabat la cealaltă, binecuvântare în aluat și un nor legat de cort; iar de când a murit, au încetat; iar când a venit Rebeca, s-au întors.<br><br>«După mama sa.» Bunele rânduieli: tot timpul cât mama unui om este în viață, el este legat de ea; iar de când a murit, se mângâie cu soția lui."
    },
    {
     "author": "Ibn Ezra (1089–1167)",

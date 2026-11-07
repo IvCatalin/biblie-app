@@ -146,7 +146,7 @@ window.CHAPTER_DATA = [
   "num": 14,
   "tokens": [
    {
-    "t": "Și să aducă ofranda lui pentru DOMNUL: un miel în primul său an de viață, fără meteahnă, ca ardere-de-tot, și o mielușea în primul său an de viață, fără meteahnă, ca jertfă de păcat, și un berbec fără meteahnă, ca jertfă de pace;"
+    "t": "Și să aducă ofranda lui pentru DOMNUL: un miel în primul său an de viață, fără meteahnă, ca ardere-de-tot, și o mieluță în primul său an de viață, fără meteahnă, ca jertfă de păcat, și un berbec fără meteahnă, ca jertfă de pace;"
    }
   ],
   "textCompare": [],

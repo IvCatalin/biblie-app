@@ -124,7 +124,7 @@ window.CHAPTER_DATA = [
   "num": 12,
   "tokens": [
    {
-    "t": "Să păzești ziua de Șabat spre a o sfinți, precum ți-a poruncit DOMNUL, Dumnezeul tău."
+    "t": "Să păzești ziua de Sabat spre a o sfinți, precum ți-a poruncit DOMNUL, Dumnezeul tău."
    }
   ],
   "textCompare": [],
@@ -146,7 +146,7 @@ window.CHAPTER_DATA = [
   "num": 14,
   "tokens": [
    {
-    "t": "Dar ziua a șaptea este Șabat pentru DOMNUL, Dumnezeul tău. Să nu faci nicio muncă – tu, fiul tău, fiica ta, sclavul tău, slujnica ta, boul tău, măgarul tău și toate dobitoacele tale și prozelitul tău care este între porțile tale – pentru ca sclavul tău și slujnica ta să se poată odihni ca și tine."
+    "t": "Dar ziua a șaptea este Sabat pentru DOMNUL, Dumnezeul tău. Să nu faci nicio muncă – tu, fiul tău, fiica ta, sclavul tău, slujnica ta, boul tău, măgarul tău și toate dobitoacele tale și prozelitul tău care este între porțile tale – pentru ca sclavul tău și slujnica ta să se poată odihni ca și tine."
    }
   ],
   "textCompare": [],
@@ -157,7 +157,7 @@ window.CHAPTER_DATA = [
   "num": 15,
   "tokens": [
    {
-    "t": "Amintește-ți că sclav ai fost în țara Egiptului și te-a scos DOMNUL, Dumnezeul tău de acolo, cu mână puternică și cu braț întins. De aceea ți-a poruncit DOMNUL, Dumnezeul tău, să faci ziua Șabatului."
+    "t": "Amintește-ți că sclav ai fost în țara Egiptului și te-a scos DOMNUL, Dumnezeul tău de acolo, cu mână puternică și cu braț întins. De aceea ți-a poruncit DOMNUL, Dumnezeul tău, să faci ziua Sabatului."
    }
   ],
   "textCompare": [],

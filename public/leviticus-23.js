@@ -25,7 +25,7 @@ window.CHAPTER_DATA = [
   "num": 3,
   "tokens": [
    {
-    "t": "Șase zile să fie făcută muncă, dar în ziua a șaptea este un Șabat de odihnă deplină, o convocare sfântă; nicio muncă să nu faceți – el este un Șabat pentru DOMNUL, în toate sălașurile voastre."
+    "t": "Șase zile să fie făcută muncă, dar în ziua a șaptea este un Sabat de odihnă deplină, o convocare sfântă; nicio muncă să nu faceți – el este un Sabat pentru DOMNUL, în toate sălașurile voastre."
    }
   ],
   "textCompare": [],
@@ -344,7 +344,7 @@ window.CHAPTER_DATA = [
   "num": 32,
   "tokens": [
    {
-    "t": "Șabat de odihnă deplină este ea pentru voi; să vă privați pe voi înșivă în cea de-a noua [zi] a lunii, seara – de seara până seara – să vă odihniți în ziua voastră de odihnă.”"
+    "t": "Sabat de odihnă deplină este ea pentru voi; să vă privați pe voi înșivă în cea de-a noua [zi] a lunii, seara – de seara până seara – să vă odihniți în ziua voastră de odihnă.”"
    }
   ],
   "textCompare": [],
@@ -410,7 +410,7 @@ window.CHAPTER_DATA = [
   "num": 38,
   "tokens": [
    {
-    "t": "Pe lângă Șabaturile DOMNULUI, și pe lângă darurile voastre, pe lângă toate promisiunile voastre, și pe lângă toate ofrandele de bunăvoie pe care le veți da DOMNULUI."
+    "t": "Pe lângă Sabaturile DOMNULUI, și pe lângă darurile voastre, pe lângă toate promisiunile voastre, și pe lângă toate ofrandele de bunăvoie pe care le veți da DOMNULUI."
    }
   ],
   "textCompare": [],

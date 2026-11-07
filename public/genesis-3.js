@@ -2014,7 +2014,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Oracolele Sibiline 1 — comparație",
-    "text": "Atunci, cusând frunze de smochin dulce, și-au pregătit unul altuia veșminte și și-au ascuns părțile ascunse, pentru că se rușinau. Dar Cel nemuritor Și-a îndreptat mânia asupra lor și i-a alungat din câmpul nemuritor. Căci le fusese rânduit acum oamenilor să locuiască pe pământ, de vreme ce nu păzise cuvântul lui Dumnezeu, Cel nemuritor, puternic, prea înalt. Atunci au ieșit pe globul roditor, uzi de lacrimi și de suspine, iar Dumnezeu Însuși, Cel nemuritor, a rostit aceste cuvinte vrednice de pomenit: «Creșteți și vă înmulțiți și lucrați pământul cu mână iscusită, ca prin sudoarea muncii voastre să primiți hrană de ajuns.»",
+    "text": "Atunci, cosând frunze de smochin dulce, și-au pregătit unul altuia veșminte și și-au ascuns părțile ascunse, pentru că se rușinau. Dar Cel nemuritor Și-a îndreptat mânia asupra lor și i-a alungat din câmpul nemuritor. Căci le fusese rânduit acum oamenilor să locuiască pe pământ, de vreme ce nu păzise cuvântul lui Dumnezeu, Cel nemuritor, puternic, prea înalt. Atunci au ieșit pe globul roditor, uzi de lacrimi și de suspine, iar Dumnezeu Însuși, Cel nemuritor, a rostit aceste cuvinte vrednice de pomenit: «Creșteți și vă înmulțiți și lucrați pământul cu mână iscusită, ca prin sudoarea muncii voastre să primiți hrană de ajuns.»",
     "src": {
      "slug": "oracolele-sibiline",
      "spec": {
