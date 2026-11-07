@@ -1,0 +1,38 @@
+// Geneza 18: forma greacă/ebraică a etichetelor = exact cea din verset (Rahlfs / Sefaria).
+const L = require('./fixlib.js')(18);
+const NG = { greek: null, greek_def_ro: null };
+const D0 = (t) => ({ ...NG, diff_ro: t });
+module.exports = [
+  [1, { w: 'DOMNUL' }, L(1, 'θεος')],
+  [1, { w: 'intrarea' }, L(1, 'θυρας')],
+  [1, { w: 'zilei' }, L(1, 'μεσημβριας')],
+  [5, { w: 'bucată' }, L(5, 'αρτον')],
+  [5, { w: 'inima' }, D0('Septuaginta nu are un cuvânt pentru „inima” (לִבְּכֶם): „întăriți-vă” e redat prin „mâncați” după pâinea adusă; textul grecesc spune doar „voi lua pâine și veți mânca”.')],
+  [5, { w: 'trecut' }, L(5, 'παρελευσεσθε')],
+  [7, { w: 'vite' }, L(7, 'βοας')],
+  [8, { w: 'fața' }, L(8, '^αυτοις')],
+  [8, { w: 'înaintea' }, L(8, 'παρειστηκει')],
+  [10, { w: 'fiu' }, L(10, 'υιον')],
+  [10, { w: 'intrarea' }, L(10, 'θυρα')],
+  [11, { w: 'Sara' }, L(11, 'σαρρα')],
+  [12, { w: 'ofilit' }, L(12, 'γεγονεν')],
+  [12, { w: 'pielea netedă' }, D0('Septuaginta nu are un cuvânt pentru „plăcerea” (עֶדְנָה): textul grecesc spune doar „încă nu mi s-a întâmplat nimic până acum”.')],
+  [12, { w: 'soțul' }, L(12, 'κυριος μου')],
+  [14, { w: 'viitor' }, L(14, 'ωρας')],
+  [19, { w: 'porunci' }, L(19, 'συνταξει')],
+  [19, { w: 'calea' }, L(19, 'οδους')],
+  [20, { w: 'Strigătul' }, L(20, 'κραυγη')],
+  [21, { w: 'ști' }, L(21, 'γνω')],
+  [24, { w: 'orașului' }, L(24, 'πολει')],
+  [24, { w: 'locul' }, L(24, 'τοπον')],
+  [26, { w: 'orașului' }, L(26, 'πολει')],
+  [28, { w: 'drepți' }, { heb: 'הַצַּדִּיקִם' }],
+  [29, { w: 'face' }, L(29, 'απολεσω')],
+  [30, { w: 'mânie' }, D0('Septuaginta nu are un cuvânt pentru „să nu Te mânii” (אַל־יִחַר): textul grecesc spune doar „Să nu mă iei în nume de rău, Doamne, dacă voi vorbi”.')],
+  [30, { w: 'Stăpânul' }, L(30, 'κυριε')],
+  [30, { w: 'face' }, L(30, 'απολεσω')],
+  [31, { w: 'cutez' }, L(31, 'εχω λαλησαι')],
+  [31, { w: 'Stăpânului' }, L(31, 'κυριον')],
+  [32, { w: 'mânie' }, D0('Septuaginta nu are un cuvânt pentru „să nu Te mânii” (אַל־יִחַר): textul grecesc spune doar „Să nu mă iei în nume de rău, Doamne, dacă voi mai vorbi o dată”.')],
+  [33, { w: 'isprăvit' }, L(33, 'επαυσατο')],
+];
