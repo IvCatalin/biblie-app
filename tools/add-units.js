@@ -15,6 +15,6 @@ for (const a of process.argv.slice(2).filter(a => a.includes('>'))) {
 }
 let n = 0;
 for (const gn in byCh) { const f = 'public/genesis-' + gn + '.js'; const D = new Function('window', fs.readFileSync(f, 'utf8') + ';return window;')({}).CHAPTER_DATA;
-  for (const a of byCh[gn]) { const x = D.find(q => q.num === a.gv); if (!x) { console.log('lipsă verset', gn, a.gv); continue; } if (D.some(y => y.commentaries.some(c => c.text && plain(c.text) === a.row.text))) { console.log('există deja', a.row.author); continue; } x.commentaries.push(a.row); n++; console.log('+ ' + gn + ':' + a.gv + ' ' + a.row.author); }
+  for (const a of byCh[gn]) { const x = D.find(q => q.num === a.gv); if (!x) { console.log('lipsă verset', gn, a.gv); continue; } if (x.commentaries.some(c => c.text && plain(c.text) === a.row.text)) { console.log('există deja', a.row.author); continue; } x.commentaries.push(a.row); n++; console.log('+ ' + gn + ':' + a.gv + ' ' + a.row.author); }
   if (WRITE) fs.writeFileSync(f, 'window.CHAPTER_DATA = ' + JSON.stringify(D, null, 1).replace(/\n/g, '\r\n') + ';\r\n', 'utf8'); }
 console.log((WRITE ? 'SCRIS' : 'PROBĂ') + ' | ' + n);

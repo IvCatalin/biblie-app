@@ -315,6 +315,17 @@ window.CHAPTER_DATA = [
       "v": 5
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Isaac, fiul lui Avraam, a devenit bătrân și avansat în zile, iar ochii săi au devenit grei prin vârstă; erau tulburi și nu puteau vedea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -506,6 +517,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 19,
       "v": 5
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Isaac, fiul lui Avraam, a devenit bătrân și avansat în zile, iar ochii săi au devenit grei prin vârstă; erau tulburi și nu puteau vedea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "La acea vreme Isaac l-a chemat pe Esau fiul său, spunând, Ia te rog armele tale, tolba și arcul tău, ridică-te și mergi la câmp și adu-mi niște vânat, și prepară-mi carne gustoasă și adu-mi-o mie, ca să pot mânca și să te pot binecuvânta înaintea morții mele, căci acum am devenit bătrân și cărunt.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 2
      }
     }
    }
@@ -1817,6 +1850,17 @@ window.CHAPTER_DATA = [
       "v": 4
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -1971,6 +2015,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 29,
       "v": 4
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
      }
     }
    }
@@ -2246,6 +2301,28 @@ window.CHAPTER_DATA = [
       "v": 5
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Rebeca a auzit toate cuvintele pe care Isaac le rostise lui Esau, și ea s-a grăbit și l-a chemat pe fiul ei Iacob, spunând, astfel a spus tatăl tău fratelui tău Esau, și astfel am auzit, acum prin urmare grăbește-te și fă ceea ce eu îți voi spune.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -2406,6 +2483,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 29,
       "v": 5
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Rebeca a auzit toate cuvintele pe care Isaac le rostise lui Esau, și ea s-a grăbit și l-a chemat pe fiul ei Iacob, spunând, astfel a spus tatăl tău fratelui tău Esau, și astfel am auzit, acum prin urmare grăbește-te și fă ceea ce eu îți voi spune.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 4
      }
     }
    }
@@ -2683,6 +2782,17 @@ window.CHAPTER_DATA = [
       "v": 5
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -2953,6 +3063,17 @@ window.CHAPTER_DATA = [
       "v": 5
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -3211,6 +3332,17 @@ window.CHAPTER_DATA = [
       "v": 5
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -3421,6 +3553,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 29,
       "v": 6
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Ridică-te și mergi, te rog, la turmă și adu-mi doi iezi buni din capre, iar eu voi prepara carnea gustoasă pentru tatăl tău, și tu vei aduce carnea gustoasă ca el să poată mânca înainte ca fratele tău să se fi întors de la vânătoare, ca tatăl tău să te poată binecuvânta pe tine.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 5
      }
     }
    }
@@ -3705,6 +3859,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Ieronim, Întrebări ebraice la Facere",
     "text": "(Versetul 15) Și Rebeca a luat hainele fiului ei mai mare, Esav, pe care le dorea mult acasă. Și în acest loc, tradiția evreilor spune că întâii născuți, care împlineau îndatoririle preoților, aveau un veșmânt preoțesc, pe care îl purtau ca să aducă jertfe lui Dumnezeu înainte de alegerea lui Aaron la preoție."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Iacob s-a grăbit și a făcut precum mama sa îi poruncise, și el a făcut carnea gustoasă și a adus-o la tatăl său înainte ca Esau să se fi întors de la vânătoare.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -3862,6 +4038,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 26,
       "v": 11
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Iacob s-a grăbit și a făcut precum mama sa îi poruncise, și el a făcut carnea gustoasă și a adus-o la tatăl său înainte ca Esau să se fi întors de la vânătoare.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 6
      }
     }
    }
@@ -4029,6 +4227,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 26,
       "v": 11
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Iacob s-a grăbit și a făcut precum mama sa îi poruncise, și el a făcut carnea gustoasă și a adus-o la tatăl său înainte ca Esau să se fi întors de la vânătoare.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 6
      }
     }
    }
@@ -4212,6 +4432,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 26,
       "v": 11
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac i-a spus lui Iacob, cine ești tu, fiul meu? Și el a spus, eu sunt întâiul tău născut Esau, am făcut precum mi-ai ordonat, acum prin urmare ridică-te te rog, și mănâncă din vânatul meu, ca sufletul tău să mă poată binecuvânta precum tu mi-ai spus mie.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 7
      }
     }
    }
@@ -4536,6 +4778,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ipolit al Romei, Despre binecuvântările lui Isaac și Iacov",
     "text": "Cuvintele lui Iacov către tatăl său, „Am făcut precum mi-ai spus”, arată că Cuvântul este totdeauna ascultător de Tatăl Său, după cum întărește ce spune în Ezechiel: „Am făcut întocmai cum mi s-a poruncit.”"
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -4771,6 +5024,28 @@ window.CHAPTER_DATA = [
       "v": 14
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac i-a spus lui Iacob, cine ești tu, fiul meu? Și el a spus, eu sunt întâiul tău născut Esau, am făcut precum mi-ai ordonat, acum prin urmare ridică-te te rog, și mănâncă din vânatul meu, ca sufletul tău să mă poată binecuvânta precum tu mi-ai spus mie.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -4997,6 +5272,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 26,
       "v": 16
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac i-a spus lui Iacob, cine ești tu, fiul meu? Și el a spus, eu sunt întâiul tău născut Esau, am făcut precum mi-ai ordonat, acum prin urmare ridică-te te rog, și mănâncă din vânatul meu, ca sufletul tău să mă poată binecuvânta precum tu mi-ai spus mie.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 7
      }
     }
    }
@@ -5281,6 +5578,28 @@ window.CHAPTER_DATA = [
       "v": 16
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac i-a spus lui Iacob, cine ești tu, fiul meu? Și el a spus, eu sunt întâiul tău născut Esau, am făcut precum mi-ai ordonat, acum prin urmare ridică-te te rog, și mănâncă din vânatul meu, ca sufletul tău să mă poată binecuvânta precum tu mi-ai spus mie.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -5471,6 +5790,28 @@ window.CHAPTER_DATA = [
       "v": 18
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac i-a spus lui Iacob, cine ești tu, fiul meu? Și el a spus, eu sunt întâiul tău născut Esau, am făcut precum mi-ai ordonat, acum prin urmare ridică-te te rog, și mănâncă din vânatul meu, ca sufletul tău să mă poată binecuvânta precum tu mi-ai spus mie.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -5627,6 +5968,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 26,
       "v": 18
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac i-a spus lui Iacob, cine ești tu, fiul meu? Și el a spus, eu sunt întâiul tău născut Esau, am făcut precum mi-ai ordonat, acum prin urmare ridică-te te rog, și mănâncă din vânatul meu, ca sufletul tău să mă poată binecuvânta precum tu mi-ai spus mie.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 7
      }
     }
    }
@@ -5899,6 +6262,28 @@ window.CHAPTER_DATA = [
       "v": 18
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Isaac s-a ridicat și a mâncat și a băut, iar inima lui a fost alinată, și l-a binecuvântat pe Iacob, iar Iacob a plecat de la tatăl său. Și imediat ce Isaac binecuvântase pe Iacob și acesta plecase de la el, iată Esau a venit de la vânătoare de la câmp, și el de asemenea a făcut carne gustoasă și a adus-o la tatăl său să mănânce din ea și să îl binecuvânteze.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -6068,6 +6453,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 26,
       "v": 21
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Isaac s-a ridicat și a mâncat și a băut, iar inima lui a fost alinată, și l-a binecuvântat pe Iacob, iar Iacob a plecat de la tatăl său. Și imediat ce Isaac binecuvântase pe Iacob și acesta plecase de la el, iată Esau a venit de la vânătoare de la câmp, și el de asemenea a făcut carne gustoasă și a adus-o la tatăl său să mănânce din ea și să îl binecuvânteze.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 8
      }
     }
    }
@@ -6406,6 +6813,28 @@ window.CHAPTER_DATA = [
       "v": 22
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Isaac s-a ridicat și a mâncat și a băut, iar inima lui a fost alinată, și l-a binecuvântat pe Iacob, iar Iacob a plecat de la tatăl său. Și imediat ce Isaac binecuvântase pe Iacob și acesta plecase de la el, iată Esau a venit de la vânătoare de la câmp, și el de asemenea a făcut carne gustoasă și a adus-o la tatăl său să mănânce din ea și să îl binecuvânteze.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -6661,6 +7090,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 26,
       "v": 22
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Isaac s-a ridicat și a mâncat și a băut, iar inima lui a fost alinată, și l-a binecuvântat pe Iacob, iar Iacob a plecat de la tatăl său. Și imediat ce Isaac binecuvântase pe Iacob și acesta plecase de la el, iată Esau a venit de la vânătoare de la câmp, și el de asemenea a făcut carne gustoasă și a adus-o la tatăl său să mănânce din ea și să îl binecuvânteze.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 8
      }
     }
    }
@@ -7002,6 +7453,28 @@ window.CHAPTER_DATA = [
       "v": 15
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel, Esau a plecat la vânătoare. Dar Rebeca, socotind că se cuvine ca rugăciunea pentru dobândirea bunăvoinței lui Dumnezeu să se facă pentru Iacov, și aceasta fără încuviințarea lui Isaac, i-a poruncit să înjunghie iezi de capră și să pregătească o cină. Iacov a ascultat de mama lui, după toate îndrumările ei. Când cina a fost gata, a luat o piele de capră și și-a pus-o pe braț, ca, din pricina asprimii ei păroase, tatăl lui să creadă că este Esau; căci, fiind gemeni și, în toate celelalte, asemănători, se deosebeau numai în acest lucru. Aceasta s-a făcut de teama lui ca, înainte ca tatăl său să fi făcut rugăciunile sale, să fie prins în fapta lui rea și ca să nu-l întărâte, dimpotrivă, pe tatăl său să-l blesteme. Astfel, a adus cina tatălui său. Isaac l-a socotit a fi Esau. Așa că, nebănuind niciun vicleșug, a mâncat cina și s-a dedicat rugăciunilor și mijlocirilor sale către Dumnezeu; și a zis: „O, Doamne al tuturor veacurilor și Creator al oricărei substanțe; căci Tu ai pus înaintea tatălui meu mare belșug de bunătăți și ai binevoit să-mi dăruiești mie ce am; și ai făgăduit urmașilor mei că vei fi sprijinul lor binevoitor și că le vei da binecuvântări încă și mai mari; Tu, deci, întărește aceste făgăduințe ale Tale și nu mă trece cu vederea din pricina stării mele slabe de acum, din pricina căreia mă rog Ție cu atâta stăruință. Fii milostiv acestui fiu al meu; și păstrează-l și ferește-l de orice lucru rău. Dă-i o viață fericită și stăpânirea atâtor lucruri bune câte poate dărui puterea Ta. Fă-l înfricoșător pentru dușmanii lui și cinstit și iubit între prietenii lui.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Isaac s-a ridicat și a mâncat și a băut, iar inima lui a fost alinată, și l-a binecuvântat pe Iacob, iar Iacob a plecat de la tatăl său. Și imediat ce Isaac binecuvântase pe Iacob și acesta plecase de la el, iată Esau a venit de la vânătoare de la câmp, și el de asemenea a făcut carne gustoasă și a adus-o la tatăl său să mănânce din ea și să îl binecuvânteze.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -7316,6 +7789,17 @@ window.CHAPTER_DATA = [
       "v": 7
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac i-a spus lui Esau, și cine era acela care a luat vânat și mi l-a adus înainte ca tu să vii și pe cine am binecuvântat eu? Și Esau știa că fratele său Iacob făcuse acest lucru, iar mânia lui Esau a fost aprinsă împotriva fratelui său Iacob pentru că el se comportase astfel către el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 9
+     }
+    }
    }
   ]
  },
@@ -7598,6 +8082,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Ipolit al Romei, Despre binecuvântările lui Isaac și Iacov",
     "text": "Mâncărurile lui Esav înseamnă slujirea poporului de sub lege. Fiindcă sunt umflați de mândrie și sunt siguri că se îndreptățesc prin tăierea împrejur, ei aduc ca hrană pe cei dintre neamuri care s-au întors, în timp ce ei înșiși au nevoie de hrană, fiindcă nu pot atinge pâinea cerească."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel s-a rugat Isaac lui Dumnezeu, socotind că rugăciunile lui fuseseră făcute pentru Esau. Abia le terminase, când a venit Esau de la vânătoare. Și când Isaac și-a dat seama de greșeala sa, a tăcut: dar Esau a cerut să i se dea și lui parte de aceeași binecuvântare de la tatăl lui de care avusese parte fratele său; dar tatăl lui a refuzat, pentru că toate rugăciunile lui fuseseră cheltuite pe Iacov: așa că Esau a plâns greșeala. Totuși, tatăl lui, întristat de plânsul lui, a zis că „el se va deosebi în vânătoare și în tăria trupului, în arme și în toate asemenea lucrări; și va dobândi slavă pentru totdeauna din aceste pricini, el și urmașii lui după el; dar tot va sluji fratelui său.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac i-a spus lui Esau, și cine era acela care a luat vânat și mi l-a adus înainte ca tu să vii și pe cine am binecuvântat eu? Și Esau știa că fratele său Iacob făcuse acest lucru, iar mânia lui Esau a fost aprinsă împotriva fratelui său Iacob pentru că el se comportase astfel către el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 9
+     }
+    }
    }
   ]
  },
@@ -7790,6 +8296,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 29,
       "v": 8
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel s-a rugat Isaac lui Dumnezeu, socotind că rugăciunile lui fuseseră făcute pentru Esau. Abia le terminase, când a venit Esau de la vânătoare. Și când Isaac și-a dat seama de greșeala sa, a tăcut: dar Esau a cerut să i se dea și lui parte de aceeași binecuvântare de la tatăl lui de care avusese parte fratele său; dar tatăl lui a refuzat, pentru că toate rugăciunile lui fuseseră cheltuite pe Iacov: așa că Esau a plâns greșeala. Totuși, tatăl lui, întristat de plânsul lui, a zis că „el se va deosebi în vânătoare și în tăria trupului, în arme și în toate asemenea lucrări; și va dobândi slavă pentru totdeauna din aceste pricini, el și urmașii lui după el; dar tot va sluji fratelui său.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac i-a spus lui Esau, și cine era acela care a luat vânat și mi l-a adus înainte ca tu să vii și pe cine am binecuvântat eu? Și Esau știa că fratele său Iacob făcuse acest lucru, iar mânia lui Esau a fost aprinsă împotriva fratelui său Iacob pentru că el se comportase astfel către el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 9
      }
     }
    }
@@ -8125,6 +8653,17 @@ window.CHAPTER_DATA = [
       "v": 9
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel s-a rugat Isaac lui Dumnezeu, socotind că rugăciunile lui fuseseră făcute pentru Esau. Abia le terminase, când a venit Esau de la vânătoare. Și când Isaac și-a dat seama de greșeala sa, a tăcut: dar Esau a cerut să i se dea și lui parte de aceeași binecuvântare de la tatăl lui de care avusese parte fratele său; dar tatăl lui a refuzat, pentru că toate rugăciunile lui fuseseră cheltuite pe Iacov: așa că Esau a plâns greșeala. Totuși, tatăl lui, întristat de plânsul lui, a zis că „el se va deosebi în vânătoare și în tăria trupului, în arme și în toate asemenea lucrări; și va dobândi slavă pentru totdeauna din aceste pricini, el și urmașii lui după el; dar tot va sluji fratelui său.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -8389,6 +8928,28 @@ window.CHAPTER_DATA = [
       "v": 9
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel s-a rugat Isaac lui Dumnezeu, socotind că rugăciunile lui fuseseră făcute pentru Esau. Abia le terminase, când a venit Esau de la vânătoare. Și când Isaac și-a dat seama de greșeala sa, a tăcut: dar Esau a cerut să i se dea și lui parte de aceeași binecuvântare de la tatăl lui de care avusese parte fratele său; dar tatăl lui a refuzat, pentru că toate rugăciunile lui fuseseră cheltuite pe Iacov: așa că Esau a plâns greșeala. Totuși, tatăl lui, întristat de plânsul lui, a zis că „el se va deosebi în vânătoare și în tăria trupului, în arme și în toate asemenea lucrări; și va dobândi slavă pentru totdeauna din aceste pricini, el și urmașii lui după el; dar tot va sluji fratelui său.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Esau a spus, nu este el numit în mod drept Iacob? Căci el m-a suplantat de două ori, el a luat de la mine dreptul meu din naștere iar acum a luat binecuvântarea mea; și Esau a plâns mult; și când Isaac a auzit vocea fiului său Esau plângând, Isaac i-a spus lui Esau, ce pot face eu fiul meu, fratele tău a venit cu subtilitate și a luat binecuvântarea ta; iar Esau îl ura pe fratele său Iacob din pricina binecuvântării pe care tatăl său o dăduse lui, iar mânia sa s-a stârnit mult împotriva lui.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 10
+     }
+    }
    }
   ]
  },
@@ -8580,6 +9141,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 29,
       "v": 9
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel s-a rugat Isaac lui Dumnezeu, socotind că rugăciunile lui fuseseră făcute pentru Esau. Abia le terminase, când a venit Esau de la vânătoare. Și când Isaac și-a dat seama de greșeala sa, a tăcut: dar Esau a cerut să i se dea și lui parte de aceeași binecuvântare de la tatăl lui de care avusese parte fratele său; dar tatăl lui a refuzat, pentru că toate rugăciunile lui fuseseră cheltuite pe Iacov: așa că Esau a plâns greșeala. Totuși, tatăl lui, întristat de plânsul lui, a zis că „el se va deosebi în vânătoare și în tăria trupului, în arme și în toate asemenea lucrări; și va dobândi slavă pentru totdeauna din aceste pricini, el și urmașii lui după el; dar tot va sluji fratelui său.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Esau a spus, nu este el numit în mod drept Iacob? Căci el m-a suplantat de două ori, el a luat de la mine dreptul meu din naștere iar acum a luat binecuvântarea mea; și Esau a plâns mult; și când Isaac a auzit vocea fiului său Esau plângând, Isaac i-a spus lui Esau, ce pot face eu fiul meu, fratele tău a venit cu subtilitate și a luat binecuvântarea ta; iar Esau îl ura pe fratele său Iacob din pricina binecuvântării pe care tatăl său o dăduse lui, iar mânia sa s-a stârnit mult împotriva lui.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 10
      }
     }
    }
@@ -8921,6 +9504,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ieronim, Întrebări ebraice la Facere",
     "text": "(Versetul 36.) Și Esav a zis: Pe bună dreptate i s-a numit numele Iacov: căci m-a păcălit de aceste două ori. Iacov se tâlcuiește „cel ce păcălește”. Și de aceea, fiindcă își înșelase fratele prin iscusință, a făcut aluzie la nume. Așadar, a fost numit Iacov mai înainte, fiindcă apucase în nașterea sa călcâiul fratelui său."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel s-a rugat Isaac lui Dumnezeu, socotind că rugăciunile lui fuseseră făcute pentru Esau. Abia le terminase, când a venit Esau de la vânătoare. Și când Isaac și-a dat seama de greșeala sa, a tăcut: dar Esau a cerut să i se dea și lui parte de aceeași binecuvântare de la tatăl lui de care avusese parte fratele său; dar tatăl lui a refuzat, pentru că toate rugăciunile lui fuseseră cheltuite pe Iacov: așa că Esau a plâns greșeala. Totuși, tatăl lui, întristat de plânsul lui, a zis că „el se va deosebi în vânătoare și în tăria trupului, în arme și în toate asemenea lucrări; și va dobândi slavă pentru totdeauna din aceste pricini, el și urmașii lui după el; dar tot va sluji fratelui său.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -9250,6 +9844,28 @@ window.CHAPTER_DATA = [
       "v": 31
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel s-a rugat Isaac lui Dumnezeu, socotind că rugăciunile lui fuseseră făcute pentru Esau. Abia le terminase, când a venit Esau de la vânătoare. Și când Isaac și-a dat seama de greșeala sa, a tăcut: dar Esau a cerut să i se dea și lui parte de aceeași binecuvântare de la tatăl lui de care avusese parte fratele său; dar tatăl lui a refuzat, pentru că toate rugăciunile lui fuseseră cheltuite pe Iacov: așa că Esau a plâns greșeala. Totuși, tatăl lui, întristat de plânsul lui, a zis că „el se va deosebi în vânătoare și în tăria trupului, în arme și în toate asemenea lucrări; și va dobândi slavă pentru totdeauna din aceste pricini, el și urmașii lui după el; dar tot va sluji fratelui său.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Esau a spus, nu este el numit în mod drept Iacob? Căci el m-a suplantat de două ori, el a luat de la mine dreptul meu din naștere iar acum a luat binecuvântarea mea; și Esau a plâns mult; și când Isaac a auzit vocea fiului său Esau plângând, Isaac i-a spus lui Esau, ce pot face eu fiul meu, fratele tău a venit cu subtilitate și a luat binecuvântarea ta; iar Esau îl ura pe fratele său Iacob din pricina binecuvântării pe care tatăl său o dăduse lui, iar mânia sa s-a stârnit mult împotriva lui.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 10
+     }
+    }
    }
   ]
  },
@@ -9488,6 +10104,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 26,
       "v": 32
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel s-a rugat Isaac lui Dumnezeu, socotind că rugăciunile lui fuseseră făcute pentru Esau. Abia le terminase, când a venit Esau de la vânătoare. Și când Isaac și-a dat seama de greșeala sa, a tăcut: dar Esau a cerut să i se dea și lui parte de aceeași binecuvântare de la tatăl lui de care avusese parte fratele său; dar tatăl lui a refuzat, pentru că toate rugăciunile lui fuseseră cheltuite pe Iacov: așa că Esau a plâns greșeala. Totuși, tatăl lui, întristat de plânsul lui, a zis că „el se va deosebi în vânătoare și în tăria trupului, în arme și în toate asemenea lucrări; și va dobândi slavă pentru totdeauna din aceste pricini, el și urmașii lui după el; dar tot va sluji fratelui său.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Esau a spus, nu este el numit în mod drept Iacob? Căci el m-a suplantat de două ori, el a luat de la mine dreptul meu din naștere iar acum a luat binecuvântarea mea; și Esau a plâns mult; și când Isaac a auzit vocea fiului său Esau plângând, Isaac i-a spus lui Esau, ce pot face eu fiul meu, fratele tău a venit cu subtilitate și a luat binecuvântarea ta; iar Esau îl ura pe fratele său Iacob din pricina binecuvântării pe care tatăl său o dăduse lui, iar mânia sa s-a stârnit mult împotriva lui.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 10
      }
     }
    }
@@ -9774,6 +10412,28 @@ window.CHAPTER_DATA = [
       "v": 33
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel s-a rugat Isaac lui Dumnezeu, socotind că rugăciunile lui fuseseră făcute pentru Esau. Abia le terminase, când a venit Esau de la vânătoare. Și când Isaac și-a dat seama de greșeala sa, a tăcut: dar Esau a cerut să i se dea și lui parte de aceeași binecuvântare de la tatăl lui de care avusese parte fratele său; dar tatăl lui a refuzat, pentru că toate rugăciunile lui fuseseră cheltuite pe Iacov: așa că Esau a plâns greșeala. Totuși, tatăl lui, întristat de plânsul lui, a zis că „el se va deosebi în vânătoare și în tăria trupului, în arme și în toate asemenea lucrări; și va dobândi slavă pentru totdeauna din aceste pricini, el și urmașii lui după el; dar tot va sluji fratelui său.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Esau a spus, nu este el numit în mod drept Iacob? Căci el m-a suplantat de două ori, el a luat de la mine dreptul meu din naștere iar acum a luat binecuvântarea mea; și Esau a plâns mult; și când Isaac a auzit vocea fiului său Esau plângând, Isaac i-a spus lui Esau, ce pot face eu fiul meu, fratele tău a venit cu subtilitate și a luat binecuvântarea ta; iar Esau îl ura pe fratele său Iacob din pricina binecuvântării pe care tatăl său o dăduse lui, iar mânia sa s-a stârnit mult împotriva lui.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 10
+     }
+    }
    }
   ]
  },
@@ -10043,6 +10703,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Edomul, țara urmașilor lui Esav, trăiește în adevăr „prin sabie”: pe vremea regelui Ioram al lui Iuda, Edomul se răzvrătește și „scutură jugul” lui Iuda (2 Regi 8:20–22), așa cum prevestește versetul. Inscripții asiriene pomenesc Edomul (Udumu) printre statele vasale, ceea ce arată o țară mică, dar care știa să-și păstreze o parte din libertate."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Astfel s-a rugat Isaac lui Dumnezeu, socotind că rugăciunile lui fuseseră făcute pentru Esau. Abia le terminase, când a venit Esau de la vânătoare. Și când Isaac și-a dat seama de greșeala sa, a tăcut: dar Esau a cerut să i se dea și lui parte de aceeași binecuvântare de la tatăl lui de care avusese parte fratele său; dar tatăl lui a refuzat, pentru că toate rugăciunile lui fuseseră cheltuite pe Iacov: așa că Esau a plâns greșeala. Totuși, tatăl lui, întristat de plânsul lui, a zis că „el se va deosebi în vânătoare și în tăria trupului, în arme și în toate asemenea lucrări; și va dobândi slavă pentru totdeauna din aceste pricini, el și urmașii lui după el; dar tot va sluji fratelui său.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și Esau a spus, nu este el numit în mod drept Iacob? Căci el m-a suplantat de două ori, el a luat de la mine dreptul meu din naștere iar acum a luat binecuvântarea mea; și Esau a plâns mult; și când Isaac a auzit vocea fiului său Esau plângând, Isaac i-a spus lui Esau, ce pot face eu fiul meu, fratele tău a venit cu subtilitate și a luat binecuvântarea ta; iar Esau îl ura pe fratele său Iacob din pricina binecuvântării pe care tatăl său o dăduse lui, iar mânia sa s-a stârnit mult împotriva lui.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 10
+     }
+    }
    }
   ]
  },
@@ -10395,6 +11077,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 29,
       "v": 22
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Mama l-a scăpat pe Iacov, când s-a temut că fratele lui îi va aduce vreo pedeapsă din pricina greșelii cu rugăciunile lui Isaac; căci l-a convins pe soțul ei să ia pentru Iacov o soție din Mesopotamia, din rudenia ei, Esau fiind deja căsătorit cu Basemat, fiica lui Ismael, fără încuviințarea tatălui său; căci lui Isaac nu-i plăceau canaaniții, așa că dezaproba căsătoriile de mai înainte ale lui Esau, ceea ce l-a făcut pe acesta să o ia de soție pe Basemat, ca să-i facă plăcere; și, într-adevăr, avea o mare dragoste pentru ea.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și când Esau a văzut că Iacob fugise și scăpase de el, și că Iacob în mod viclean obținuse binecuvântarea, atunci Esau s-a mâhnit enorm, și era de asemenea vexat pe tatăl său și pe mama sa și el de asemenea s-a ridicat și a luat pe nevasta sa și a plecat de la tatăl și mama sa la ținutul Seir, iar el a locuit acolo; și Esau a văzut acolo o femeie dintre fiicele lui Het a cărei nume era Bosmat, fiica lui Elon hititul, și el a luat-o de nevastă pe lângă prima sa nevastă, iar Esau a numit-o Ada, spunând că binecuvântarea în acea vreme trecuse de la el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 12
      }
     }
    }
@@ -10767,6 +11471,39 @@ window.CHAPTER_DATA = [
       "v": 22
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Mama l-a scăpat pe Iacov, când s-a temut că fratele lui îi va aduce vreo pedeapsă din pricina greșelii cu rugăciunile lui Isaac; căci l-a convins pe soțul ei să ia pentru Iacov o soție din Mesopotamia, din rudenia ei, Esau fiind deja căsătorit cu Basemat, fiica lui Ismael, fără încuviințarea tatălui său; căci lui Isaac nu-i plăceau canaaniții, așa că dezaproba căsătoriile de mai înainte ale lui Esau, ceea ce l-a făcut pe acesta să o ia de soție pe Basemat, ca să-i facă plăcere; și, într-adevăr, avea o mare dragoste pentru ea.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și când Esau a văzut că Iacob fugise și scăpase de el, și că Iacob în mod viclean obținuse binecuvântarea, atunci Esau s-a mâhnit enorm, și era de asemenea vexat pe tatăl său și pe mama sa și el de asemenea s-a ridicat și a luat pe nevasta sa și a plecat de la tatăl și mama sa la ținutul Seir, iar el a locuit acolo; și Esau a văzut acolo o femeie dintre fiicele lui Het a cărei nume era Bosmat, fiica lui Elon hititul, și el a luat-o de nevastă pe lângă prima sa nevastă, iar Esau a numit-o Ada, spunând că binecuvântarea în acea vreme trecuse de la el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 12
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și aceasta a fost știută de Rebeca, iar ea s-a grăbit și a trimis după Iacob, fiul ei, zicând: Ridică-te, mergi și fugi la Haran, la fratele meu Laban, și rămâi acolo câtva timp, până când mânia fratelui tău se va întoarce de la tine, iar apoi vei veni înapoi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 23
+     }
+    }
    }
   ]
  },
@@ -11010,6 +11747,28 @@ window.CHAPTER_DATA = [
       "v": 8
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Mama l-a scăpat pe Iacov, când s-a temut că fratele lui îi va aduce vreo pedeapsă din pricina greșelii cu rugăciunile lui Isaac; căci l-a convins pe soțul ei să ia pentru Iacov o soție din Mesopotamia, din rudenia ei, Esau fiind deja căsătorit cu Basemat, fiica lui Ismael, fără încuviințarea tatălui său; căci lui Isaac nu-i plăceau canaaniții, așa că dezaproba căsătoriile de mai înainte ale lui Esau, ceea ce l-a făcut pe acesta să o ia de soție pe Basemat, ca să-i facă plăcere; și, într-adevăr, avea o mare dragoste pentru ea.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și când Esau a văzut că Iacob fugise și scăpase de el, și că Iacob în mod viclean obținuse binecuvântarea, atunci Esau s-a mâhnit enorm, și era de asemenea vexat pe tatăl său și pe mama sa și el de asemenea s-a ridicat și a luat pe nevasta sa și a plecat de la tatăl și mama sa la ținutul Seir, iar el a locuit acolo; și Esau a văzut acolo o femeie dintre fiicele lui Het a cărei nume era Bosmat, fiica lui Elon hititul, și el a luat-o de nevastă pe lângă prima sa nevastă, iar Esau a numit-o Ada, spunând că binecuvântarea în acea vreme trecuse de la el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 12
+     }
+    }
    }
   ]
  },
@@ -11158,6 +11917,39 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 27,
       "v": 3
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Mama l-a scăpat pe Iacov, când s-a temut că fratele lui îi va aduce vreo pedeapsă din pricina greșelii cu rugăciunile lui Isaac; căci l-a convins pe soțul ei să ia pentru Iacov o soție din Mesopotamia, din rudenia ei, Esau fiind deja căsătorit cu Basemat, fiica lui Ismael, fără încuviințarea tatălui său; căci lui Isaac nu-i plăceau canaaniții, așa că dezaproba căsătoriile de mai înainte ale lui Esau, ceea ce l-a făcut pe acesta să o ia de soție pe Basemat, ca să-i facă plăcere; și, într-adevăr, avea o mare dragoste pentru ea.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și când Esau a văzut că Iacob fugise și scăpase de el, și că Iacob în mod viclean obținuse binecuvântarea, atunci Esau s-a mâhnit enorm, și era de asemenea vexat pe tatăl său și pe mama sa și el de asemenea s-a ridicat și a luat pe nevasta sa și a plecat de la tatăl și mama sa la ținutul Seir, iar el a locuit acolo; și Esau a văzut acolo o femeie dintre fiicele lui Het a cărei nume era Bosmat, fiica lui Elon hititul, și el a luat-o de nevastă pe lângă prima sa nevastă, iar Esau a numit-o Ada, spunând că binecuvântarea în acea vreme trecuse de la el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 12
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și aceasta a fost știută de Rebeca, iar ea s-a grăbit și a trimis după Iacob, fiul ei, zicând: Ridică-te, mergi și fugi la Haran, la fratele meu Laban, și rămâi acolo câtva timp, până când mânia fratelui tău se va întoarce de la tine, iar apoi vei veni înapoi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 23
      }
     }
    }
@@ -11420,6 +12212,39 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 27,
       "v": 3
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Mama l-a scăpat pe Iacov, când s-a temut că fratele lui îi va aduce vreo pedeapsă din pricina greșelii cu rugăciunile lui Isaac; căci l-a convins pe soțul ei să ia pentru Iacov o soție din Mesopotamia, din rudenia ei, Esau fiind deja căsătorit cu Basemat, fiica lui Ismael, fără încuviințarea tatălui său; căci lui Isaac nu-i plăceau canaaniții, așa că dezaproba căsătoriile de mai înainte ale lui Esau, ceea ce l-a făcut pe acesta să o ia de soție pe Basemat, ca să-i facă plăcere; și, într-adevăr, avea o mare dragoste pentru ea.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și când Esau a văzut că Iacob fugise și scăpase de el, și că Iacob în mod viclean obținuse binecuvântarea, atunci Esau s-a mâhnit enorm, și era de asemenea vexat pe tatăl său și pe mama sa și el de asemenea s-a ridicat și a luat pe nevasta sa și a plecat de la tatăl și mama sa la ținutul Seir, iar el a locuit acolo; și Esau a văzut acolo o femeie dintre fiicele lui Het a cărei nume era Bosmat, fiica lui Elon hititul, și el a luat-o de nevastă pe lângă prima sa nevastă, iar Esau a numit-o Ada, spunând că binecuvântarea în acea vreme trecuse de la el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 12
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și aceasta a fost știută de Rebeca, iar ea s-a grăbit și a trimis după Iacob, fiul ei, zicând: Ridică-te, mergi și fugi la Haran, la fratele meu Laban, și rămâi acolo câtva timp, până când mânia fratelui tău se va întoarce de la tine, iar apoi vei veni înapoi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 23
      }
     }
    }

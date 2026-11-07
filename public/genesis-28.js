@@ -226,6 +226,28 @@ window.CHAPTER_DATA = [
       "v": 8
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Acum, prin urmare, fiul meu, ascultă de vocea mea, de tot ceea ce îți voi porunci, și abține-te de a lua o nevastă dintre fiicele lui Canaan; ridică-te, mergi la Haran, la casa lui Betuel, tatăl mamei tale, și ia-ți o nevastă de acolo, dintre fiicele lui Laban, fratele mamei tale.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 25
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac l-a chemat pe Iacob și i-a spus lui: Nu lua o nevastă din fiicele lui Canaan, căci astfel ne-a poruncit tatăl nostru Avraam nouă, conform Cuvântului Domnului pe care El poruncise lui, zicând: Seminției tale îi voi da acest ținut; dacă tu și copiii tăi păstrați legământul Meu pe care Eu l-am făcut cu tine, atunci Eu voi face de asemenea copiilor tăi ceea ce Eu ți-am vorbit ție, iar Eu nu-i voi părăsi pe ei.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 24
+     }
+    }
    }
   ]
  },
@@ -508,6 +530,28 @@ window.CHAPTER_DATA = [
       "v": 10
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Acum, prin urmare, fiul meu, ascultă de vocea mea, de tot ceea ce îți voi porunci, și abține-te de a lua o nevastă dintre fiicele lui Canaan; ridică-te, mergi la Haran, la casa lui Betuel, tatăl mamei tale, și ia-ți o nevastă de acolo, dintre fiicele lui Laban, fratele mamei tale.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 25
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac l-a chemat pe Iacob și i-a spus lui: Nu lua o nevastă din fiicele lui Canaan, căci astfel ne-a poruncit tatăl nostru Avraam nouă, conform Cuvântului Domnului pe care El poruncise lui, zicând: Seminției tale îi voi da acest ținut; dacă tu și copiii tăi păstrați legământul Meu pe care Eu l-am făcut cu tine, atunci Eu voi face de asemenea copiilor tăi ceea ce Eu ți-am vorbit ție, iar Eu nu-i voi părăsi pe ei.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 24
+     }
+    }
    }
   ]
  },
@@ -689,6 +733,39 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 27,
       "v": 10
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Acum, prin urmare, fiul meu, ascultă de vocea mea, de tot ceea ce îți voi porunci, și abține-te de a lua o nevastă dintre fiicele lui Canaan; ridică-te, mergi la Haran, la casa lui Betuel, tatăl mamei tale, și ia-ți o nevastă de acolo, dintre fiicele lui Laban, fratele mamei tale.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 25
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac l-a chemat pe Iacob și i-a spus lui: Nu lua o nevastă din fiicele lui Canaan, căci astfel ne-a poruncit tatăl nostru Avraam nouă, conform Cuvântului Domnului pe care El poruncise lui, zicând: Seminției tale îi voi da acest ținut; dacă tu și copiii tăi păstrați legământul Meu pe care Eu l-am făcut cu tine, atunci Eu voi face de asemenea copiilor tăi ceea ce Eu ți-am vorbit ție, iar Eu nu-i voi părăsi pe ei.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 24
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și fie ca Dumnezeu să-ți dea, ție și seminției tale, binecuvântarea tatălui tău Avraam, și să te facă roditor și să te înmulțească, ca tu să devii o mulțime de oameni în ținutul în care mergi, iar Dumnezeu să te aducă înapoi în acest ținut, ținutul locuinței tale, cu copii și cu mari bogății, cu bucurie și cu plăcere.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 29
      }
     }
    }
@@ -917,6 +994,39 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Vezi cum îi prevestește acest om bun toate și îi dă lui Iacov un sprijin îndestulător, prin faptul că îi arată dinainte întoarcerea și stăpânirea țării, și nu numai că va crește într-o mulțime, ci că dintre urmașii lui va ieși un sobor de neamuri. Auzind aceasta, tânărul a împlinit voia tatălui său și a plecat în Mesopotamia, la fratele mamei sale, Laban.… Vezi, iubiților, câtă pătrundere a arătat această mamă iubitoare, scăpându-l pe Iacov din primejdie prin găsirea unui pretext cuviincios pentru plecarea lui, fără să arate răutatea lui Esav și fără să descopere tatălui pricina, ci dând fiului sfatul potrivit, ca el, prin frică, să primească ce i s-a spus de ea și să-i înfățișeze tatălui un plan convingător. De aceea omul cel bun a primit cele spuse de ea și l-a trimis pe Iacov la drum, după ce l-a copleșit cu binecuvântările lui."
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Acum, prin urmare, fiul meu, ascultă de vocea mea, de tot ceea ce îți voi porunci, și abține-te de a lua o nevastă dintre fiicele lui Canaan; ridică-te, mergi la Haran, la casa lui Betuel, tatăl mamei tale, și ia-ți o nevastă de acolo, dintre fiicele lui Laban, fratele mamei tale.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 25
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac l-a chemat pe Iacob și i-a spus lui: Nu lua o nevastă din fiicele lui Canaan, căci astfel ne-a poruncit tatăl nostru Avraam nouă, conform Cuvântului Domnului pe care El poruncise lui, zicând: Seminției tale îi voi da acest ținut; dacă tu și copiii tăi păstrați legământul Meu pe care Eu l-am făcut cu tine, atunci Eu voi face de asemenea copiilor tăi ceea ce Eu ți-am vorbit ție, iar Eu nu-i voi părăsi pe ei.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 24
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și fie ca Dumnezeu să-ți dea, ție și seminției tale, binecuvântarea tatălui tău Avraam, și să te facă roditor și să te înmulțească, ca tu să devii o mulțime de oameni în ținutul în care mergi, iar Dumnezeu să te aducă înapoi în acest ținut, ținutul locuinței tale, cu copii și cu mari bogății, cu bucurie și cu plăcere.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 29
+     }
+    }
    }
   ]
  },
@@ -1222,6 +1332,39 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 20,
       "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac l-a chemat pe Iacob și i-a spus lui: Nu lua o nevastă din fiicele lui Canaan, căci astfel ne-a poruncit tatăl nostru Avraam nouă, conform Cuvântului Domnului pe care El poruncise lui, zicând: Seminției tale îi voi da acest ținut; dacă tu și copiii tăi păstrați legământul Meu pe care Eu l-am făcut cu tine, atunci Eu voi face de asemenea copiilor tăi ceea ce Eu ți-am vorbit ție, iar Eu nu-i voi părăsi pe ei.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 24
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și fie ca Dumnezeu să-ți dea, ție și seminției tale, binecuvântarea tatălui tău Avraam, și să te facă roditor și să te înmulțească, ca tu să devii o mulțime de oameni în ținutul în care mergi, iar Dumnezeu să te aducă înapoi în acest ținut, ținutul locuinței tale, cu copii și cu mari bogății, cu bucurie și cu plăcere.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 29
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac a terminat de poruncit și de binecuvântat pe Iacob, și i-a dat lui multe daruri, împreună cu argint și aur, și l-a trimis; iar el a ascultat de tatăl și de mama sa și a plecat pe jos spre Padan-Aram, iar Isaac avea 77 de ani când a ieșit din ținutul Canaan, din Beerșeba.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 30
      }
     }
    }
@@ -1540,6 +1683,50 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Esau a văzut că Isaac îl binecuvântase etc.» Versetul acesta nu are rost (literal „hotărâre”), iar dacă rostul lui este „Și Esau a mers la Ismael”, ar fi fost de ajuns în versetul de după acesta „Iar Esau a văzut că fiicele Canaanului erau rele”.<br><br>Însă intenția Scripturii este să facă cunoscut că Esau a știut despre mersul lui Iacov și drumul lui, că a mers la porunca tatălui și a mamei sale și de asemenea pentru porunca luării unei soții, și de asemenea l-au binecuvântat când l-au trimis, căci din această pricină nu l-au urmărit, deoarece a știut că i se va opri de la mâna lui faptul că merge pentru două porunci: cinstirea tatălui și a mamei și luarea unei soții. Și deși a trimis pe Elifaz, după cum au spus, binecuvântată fie amintirea lor, este cu putință să fi socotit că el învinge pe drum pe Iacov, și fapta părinților o fac fiii care a precedat pe drum pe Israel, și Esau a socotit că tăria lui Elifaz este mai mare decât a lui în privința urmăririi pe drum a lui Iacov și a fiilor lui."
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și fie ca Dumnezeu să-ți dea, ție și seminției tale, binecuvântarea tatălui tău Avraam, și să te facă roditor și să te înmulțească, ca tu să devii o mulțime de oameni în ținutul în care mergi, iar Dumnezeu să te aducă înapoi în acest ținut, ținutul locuinței tale, cu copii și cu mari bogății, cu bucurie și cu plăcere.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 29
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac a terminat de poruncit și de binecuvântat pe Iacob, și i-a dat lui multe daruri, împreună cu argint și aur, și l-a trimis; iar el a ascultat de tatăl și de mama sa și a plecat pe jos spre Padan-Aram, iar Isaac avea 77 de ani când a ieșit din ținutul Canaan, din Beerșeba.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 30
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Soția lui Isaac a rămas însărcinată după moartea lui Avraam; și, când pântecele i s-a îngreuiat foarte tare, Isaac a fost foarte îngrijorat și L-a întrebat pe Dumnezeu; Care a răspuns că Rebeca va naște gemeni; și că două neamuri vor lua numele acestor fii; și că cel care se va arăta al doilea îl va întrece pe cel mai mare. Astfel, ea, într-un timp scurt, după cum prevestise Dumnezeu, a născut gemeni; dintre care cel mai mare era, din cap până în picioare, foarte aspru și păros; iar cel mai tânăr l-a apucat de călcâi când se aflau în nașterea lor. Tatăl l-a iubit pe cel mai mare, care se numea Esau, nume potrivit cu asprimea lui, căci evreii numesc o asemenea asprime păroasă [Esau sau] Seir; dar Iacov, cel mai tânăr, era cel mai iubit de mama lui.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 27 — comparație",
+    "text": "Și Isaac l-a trimis pe Iacob, și a mers în Mesopotamia, la Laban, fiul lui Betuel sirianul, fratele Rebecăi, mama lui Iacob.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 27,
+      "v": 12
+     }
+    }
    }
   ]
  },
@@ -1687,6 +1874,50 @@ window.CHAPTER_DATA = [
    {
     "author": "Targum Ionatan",
     "text": "și că Iacov ascultase de cuvântul tatălui său și de cuvântul mamei sale și se dusese la Padan-Aram."
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Și fie ca Dumnezeu să-ți dea, ție și seminției tale, binecuvântarea tatălui tău Avraam, și să te facă roditor și să te înmulțească, ca tu să devii o mulțime de oameni în ținutul în care mergi, iar Dumnezeu să te aducă înapoi în acest ținut, ținutul locuinței tale, cu copii și cu mari bogății, cu bucurie și cu plăcere.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 29
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 29 — comparație",
+    "text": "Iar Isaac a terminat de poruncit și de binecuvântat pe Iacob, și i-a dat lui multe daruri, împreună cu argint și aur, și l-a trimis; iar el a ascultat de tatăl și de mama sa și a plecat pe jos spre Padan-Aram, iar Isaac avea 77 de ani când a ieșit din ținutul Canaan, din Beerșeba.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 29,
+      "v": 30
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Soția lui Isaac a rămas însărcinată după moartea lui Avraam; și, când pântecele i s-a îngreuiat foarte tare, Isaac a fost foarte îngrijorat și L-a întrebat pe Dumnezeu; Care a răspuns că Rebeca va naște gemeni; și că două neamuri vor lua numele acestor fii; și că cel care se va arăta al doilea îl va întrece pe cel mai mare. Astfel, ea, într-un timp scurt, după cum prevestise Dumnezeu, a născut gemeni; dintre care cel mai mare era, din cap până în picioare, foarte aspru și păros; iar cel mai tânăr l-a apucat de călcâi când se aflau în nașterea lor. Tatăl l-a iubit pe cel mai mare, care se numea Esau, nume potrivit cu asprimea lui, căci evreii numesc o asemenea asprime păroasă [Esau sau] Seir; dar Iacov, cel mai tânăr, era cel mai iubit de mama lui.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 27 — comparație",
+    "text": "Și Isaac l-a trimis pe Iacob, și a mers în Mesopotamia, la Laban, fiul lui Betuel sirianul, fratele Rebecăi, mama lui Iacob.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 27,
+      "v": 12
+     }
+    }
    }
   ]
  },
@@ -1872,6 +2103,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Iar Esau a văzut că fiicele Canaanului erau rele etc.» Scriptura arată că Esau nu a luat în seamă decât din pricina nemulțumirii tatălui său față de ele, dar fără aceasta, în ceea ce privește faptul că sunt de felul răului, nu a luat în seamă, căci sufletul lui nu le uraște. Și din concluzie, de asemenea, știi că motivul că sunt rele în ochii lui Isaac nu a folosit decât ca să nu mai adauge din ele, dar nu ca să le alunge pe cele care erau deja la el. Și poate că toată simțirea lui nu era decât ca nu cumva să se rupă binecuvântările lui din pricina fiilor care i-ar fi din fiicele Canaanului, de aceea a luat dintre fiicele lui Ismael, ca să se împlinească binecuvântările prin fiii care i-ar fi din ele.<br><br>Sfârșitul secțiunii Toledot."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Soția lui Isaac a rămas însărcinată după moartea lui Avraam; și, când pântecele i s-a îngreuiat foarte tare, Isaac a fost foarte îngrijorat și L-a întrebat pe Dumnezeu; Care a răspuns că Rebeca va naște gemeni; și că două neamuri vor lua numele acestor fii; și că cel care se va arăta al doilea îl va întrece pe cel mai mare. Astfel, ea, într-un timp scurt, după cum prevestise Dumnezeu, a născut gemeni; dintre care cel mai mare era, din cap până în picioare, foarte aspru și păros; iar cel mai tânăr l-a apucat de călcâi când se aflau în nașterea lor. Tatăl l-a iubit pe cel mai mare, care se numea Esau, nume potrivit cu asprimea lui, căci evreii numesc o asemenea asprime păroasă [Esau sau] Seir; dar Iacov, cel mai tânăr, era cel mai iubit de mama lui.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 27 — comparație",
+    "text": "Și Isaac l-a trimis pe Iacob, și a mers în Mesopotamia, la Laban, fiul lui Betuel sirianul, fratele Rebecăi, mama lui Iacob.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 27,
+      "v": 12
+     }
+    }
    }
   ]
  },
@@ -2149,6 +2402,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Și Esau a mers la Ismael.» După sensul simplu: la casa lui Ismael, căci acesta se prăpădise deja, căci aceasta a fost când Iacov a mers la Haran, la vârsta de șaptezeci și șapte de ani, căci Iacov a trăit după ce a mers la Laban șaptezeci de ani: douăzeci cât a stat în casa lui Laban, iar Iosif avea șase ani când a ieșit din casa lui Laban, și a fost vândut la șaptesprezece, și paisprezece ani înainte să se nască Iosif, iată treizeci și unu de când a venit la Laban; și după douăzeci și doi de ani de la vânzarea lui, Iacov a mers în Egipt („Mițrayim”) și a trăit șaptesprezece în Egipt, iată șaptezeci; iar Iacov a trăit o sută patruzeci și șapte de ani; se găsește că avea șaptezeci și șapte când a venit la Haran, căci șaptezeci și șaptezeci și șapte sunt o sută patruzeci și șapte; iar când a murit Ismael, Iacov avea numai șaizeci și trei de ani; se găsește că, atunci când a venit la Haran, acesta murise deja de paisprezece ani. Iar învățătorii noștri au explicat „la Ismael” anume, căci atunci era în viață și în acel interval a murit, și acei paisprezece ani a slujit în casa lui Eber, și la șaptezeci și șapte de ani a venit la Haran; și ordinea anilor: Iacov avea șaizeci și patru de ani când a murit Ismael, și la șaptezeci și șapte a venit la Haran, și la optzeci și patru i-a luat în căsătorie pe Rahela și Lea, și la nouăzeci și unu i s-a născut Iosif, și la nouăzeci și șapte a ieșit din Haran, și la o sută opt ani, când a fost vândut Iosif, și la o sută douăzeci, când a murit Isaac, și la o sută treizeci, când a mers în Egipt, și a făcut șaptesprezece în Egipt, iată o sută patruzeci și șapte; iar Iosif avea cincizeci și șase de ani când a murit tatăl său.<br><br>«Binecuvântându-l.» A poruncit asupra lui să nu ia din fiicele Canaanului; din aceasta a văzut și a înțeles că fiicele Canaanului sunt rele și nu este în ele binecuvântare, și a luat-o pe Mahalat, fiica lui Ismael.<br><br>«Pe lângă soțiile lui.» Cu soțiile lui, ca în „stând asupra lui”, cu el, lângă el. Toată această faptă a lui Esau a fost după ce a fugit Iacov, dar a dat la o parte fapta lui Esau, fiind mică, și după aceea explică fapta lui Iacov.<br><br>Dumnezeul meu, dușmanul meu va fi împins și zdrobit, și fărădelegea mea va fi ștearsă și curățată, și de la mine, Dumnezeule, nu Te îndepărta, când voi încheia „Urmașii lui Isaac”."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Soția lui Isaac a rămas însărcinată după moartea lui Avraam; și, când pântecele i s-a îngreuiat foarte tare, Isaac a fost foarte îngrijorat și L-a întrebat pe Dumnezeu; Care a răspuns că Rebeca va naște gemeni; și că două neamuri vor lua numele acestor fii; și că cel care se va arăta al doilea îl va întrece pe cel mai mare. Astfel, ea, într-un timp scurt, după cum prevestise Dumnezeu, a născut gemeni; dintre care cel mai mare era, din cap până în picioare, foarte aspru și păros; iar cel mai tânăr l-a apucat de călcâi când se aflau în nașterea lor. Tatăl l-a iubit pe cel mai mare, care se numea Esau, nume potrivit cu asprimea lui, căci evreii numesc o asemenea asprime păroasă [Esau sau] Seir; dar Iacov, cel mai tânăr, era cel mai iubit de mama lui.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 27 — comparație",
+    "text": "Și Isaac l-a trimis pe Iacob, și a mers în Mesopotamia, la Laban, fiul lui Betuel sirianul, fratele Rebecăi, mama lui Iacob.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 27,
+      "v": 12
+     }
+    }
    }
   ]
  },
@@ -2308,6 +2583,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Iacov a ieșit din Beer-Șeba etc.» Motivul pentru care nu i-a fost de ajuns în informarea despre mersul lui în secțiunea precedentă, căci este scris „Și Iacov a ascultat” etc. „și a mers” etc., să facă cunoscut ce a întâlnit pe drum înainte de a ajunge la ținta lui, și pentru că a făcut pauză în subiect, a revenit să spună „și a ieșit” etc. Dar trebuie să știm de ce a avut nevoie să spună „și a mers” etc. Și mai ales că întâlnirea lui cu locul a fost înainte de a ajunge la Haran, și nu trebuia să pună înainte ce urmează. Încă, de ce a spus „către Haran” (ḥaranah) și nu a spus „la Haran” (le-Ḥaran), și deși au spus, binecuvântată fie amintirea lor, „orice cuvânt” etc., totuși Scriptura se potrivește unui lucru prin schimbarea ei uneori.<br><br>Însă Tora se îndreaptă către a așeza în ordine tot ce a trecut peste Iacov din vremea ieșirii lui. Iar aceasta, la început, spune „Iacov a ieșit” etc., explicația: nu a făcut decât ieșire și nu a fost nevoie să meargă pe picioarele lui, iar cel care merge este Haran, iar aceasta este spusa „și a mers către Haran”, explicația: Haran este cel care a mers din locul lui să-i iasă înainte lui Iacov.<br><br>Încă aluzionează ca să facă cunoscut că atunci când a ieșit Iacov din Beer-Șeba, îndată s-a dus ḥaron (mânia) lui Esau, iar aceasta este spusa „și a mers ḥaranah”.<br><br>Iar după spusele lor, binecuvântată fie amintirea lor, că Esau a trimis pe Elifaz după el etc., vrea prin spusa „și a mers către Haran” să aluzioneze la mersul lui Elifaz după el în mânie. Și poate că de aceea a alăturat lucrului „și a întâlnit locul”, ca să aluzioneze că s-a văzut în necaz și a avut nevoie de rugăciune:"
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Soția lui Isaac a rămas însărcinată după moartea lui Avraam; și, când pântecele i s-a îngreuiat foarte tare, Isaac a fost foarte îngrijorat și L-a întrebat pe Dumnezeu; Care a răspuns că Rebeca va naște gemeni; și că două neamuri vor lua numele acestor fii; și că cel care se va arăta al doilea îl va întrece pe cel mai mare. Astfel, ea, într-un timp scurt, după cum prevestise Dumnezeu, a născut gemeni; dintre care cel mai mare era, din cap până în picioare, foarte aspru și păros; iar cel mai tânăr l-a apucat de călcâi când se aflau în nașterea lor. Tatăl l-a iubit pe cel mai mare, care se numea Esau, nume potrivit cu asprimea lui, căci evreii numesc o asemenea asprime păroasă [Esau sau] Seir; dar Iacov, cel mai tânăr, era cel mai iubit de mama lui.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 30 — comparație",
+    "text": "Și Iacob a mers continuând drumul său către Haran, și a ajuns până la Muntele Moria, și a zăbovit acolo toată noaptea lângă orașul Luz; iar Domnul i-a apărut acolo lui Iacob în acea noapte, iar El i-a spus lui: Eu sunt Domnul Dumnezeul lui Avraam și Dumnezeul lui Isaac tatăl tău; meleagul pe care tu stai Eu îl voi da ție și seminței tale.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 30,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -2627,6 +2924,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note la Facere",
     "text": "Pietrele drept pernă și cerul drept acoperământ! Totuși mângâierea lui în binecuvântarea dumnezeiască și încrederea lui în ocrotirea dumnezeiască îl făceau liniștit, chiar când zăcea astfel lipsit de adăpost: fiind încredințat că Dumnezeul lui îl face să locuiască în liniște, putea să se culce și să doarmă pe o piatră."
+   },
+   {
+    "author": "Cartea Dreptului 30 — comparație",
+    "text": "Și Iacob a mers continuând drumul său către Haran, și a ajuns până la Muntele Moria, și a zăbovit acolo toată noaptea lângă orașul Luz; iar Domnul i-a apărut acolo lui Iacob în acea noapte, iar El i-a spus lui: Eu sunt Domnul Dumnezeul lui Avraam și Dumnezeul lui Isaac tatăl tău; meleagul pe care tu stai Eu îl voi da ție și seminței tale.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 30,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -2952,6 +3260,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Scara („sulam”, cuvânt care apare doar aici) așezată pe pământ, cu vârful în cer, a fost apropiată de turnurile în trepte ale Mesopotamiei (zigurate), ale căror nume, ca „Etemenanki”, „casa temelia cerului și pământului”, vorbesc despre legătura dintre cer și pământ. Părerea e discutată; textul însuși nu vorbește despre un templu, ci despre un loc al întâlnirii cu Dumnezeu, pe care Iacov îl numește „casa lui Dumnezeu” și „poarta cerului” (28:17)."
+   },
+   {
+    "author": "Cartea Dreptului 30 — comparație",
+    "text": "Și Iacob a mers continuând drumul său către Haran, și a ajuns până la Muntele Moria, și a zăbovit acolo toată noaptea lângă orașul Luz; iar Domnul i-a apărut acolo lui Iacob în acea noapte, iar El i-a spus lui: Eu sunt Domnul Dumnezeul lui Avraam și Dumnezeul lui Isaac tatăl tău; meleagul pe care tu stai Eu îl voi da ție și seminței tale.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 30,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -4206,6 +4525,17 @@ window.CHAPTER_DATA = [
       "v": 3
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 30 — comparație",
+    "text": "Și Iacob s-a sculat din somnul său și s-a bucurat mult de viziunea pe care o văzuse; și el a pus numele acelui loc Betel.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 30,
+      "v": 3
+     }
+    }
    }
   ]
  },
@@ -4426,6 +4756,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 27,
       "v": 25
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 30 — comparație",
+    "text": "Și Iacob s-a sculat din somnul său și s-a bucurat mult de viziunea pe care o văzuse; și el a pus numele acelui loc Betel.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 30,
+      "v": 3
      }
     }
    }
@@ -4718,6 +5059,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Stâlpii de piatră ridicați și unși cu untdelemn (matțevot) sunt bine atestați în Canaan: șiruri de stele stau la Ghezer și la Hațor, iar ungerea pietrelor sfinte este pomenită și în afara Bibliei. Mai târziu legea oprește stâlpii cultului canaanit (Deut. 16:22), dar aici gestul lui Iacov este un semn de aducere aminte și de închinare către Domnul."
+   },
+   {
+    "author": "Cartea Dreptului 30 — comparație",
+    "text": "Și Iacob s-a sculat din somnul său și s-a bucurat mult de viziunea pe care o văzuse; și el a pus numele acelui loc Betel.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 30,
+      "v": 3
+     }
+    }
    }
   ]
  },
@@ -4912,6 +5264,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ieronim, Întrebări ebraice la Facere",
     "text": "(Capitolul 28, versetul 19) Și a pus locului aceluia numele Betel, dar mai înainte numele lui fusese Luz. După ce spusese mai sus: Cât de înfricoșător este locul acesta, nu este altceva decât casa lui Dumnezeu, și aceasta este poarta cerului, acum dă locului un nume și îl numește Betel, adică casa lui Dumnezeu. Locul se numise mai înainte Luz, adică nucă sau migdală. Unii cred, așadar, în chip nechibzuit că cuvântul ebraic Ulam este numele unei cetăți, când Ulam înseamnă de fapt „mai înainte”. Prin urmare, rânduirea citirii este aceasta: Și a pus locului aceluia numele Betel, iar mai înainte se numea Luz, cetate. Toate Scripturile vechi sunt pline de cuvântul „ulam” sau „Elam”, care nu înseamnă altceva decât „mai înainte”, „înainte” sau „prag” ori „stâlpi de ușă”."
+   },
+   {
+    "author": "Cartea Dreptului 30 — comparație",
+    "text": "Și Iacob s-a sculat din somnul său și s-a bucurat mult de viziunea pe care o văzuse; și el a pus numele acelui loc Betel.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 30,
+      "v": 3
+     }
+    }
    }
   ]
  },
