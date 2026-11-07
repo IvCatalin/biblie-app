@@ -14,7 +14,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αμαρφαλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Amrafel."
+    "def_ro": "Amrafel — regele Șinarului, aliat al lui Chedorlaomer.",
+    "greek_def_ro": "Αμαρφαλ (Amarphal) — Amrafel, nume propriu.",
+    "dict_ro": "Amrafel (Amraphel), „cel ce vorbește de taine” (Hitchcock): regele Șinarului, aliat al lui Chedorlaomer (14:1, 9); Easton arată că numele a fost pus în legătură cu Hammurabi al Babilonului, fără ca identificarea să fie sigură."
    },
    {
     "t": " regele "
@@ -28,7 +30,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σεννααρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Șinarului."
+    "def_ro": "Șinar — ținutul dintre Tigru și Eufrat (mai târziu Babilonia).",
+    "greek_def_ro": "Σεννααρ (Sennaar) — Șinar, nume propriu.",
+    "dict_ro": "Șinar (Shin’ar), „țara celor două râuri” (Smith): câmpia Tigrului și Eufratului (10:10; 11:2), a cărei regi, Amrafel, se numără printre cei patru care atacă țările din valea Sidim (14:1)."
    },
    {
     "t": ", ale lui "
@@ -42,7 +46,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αριωχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Arioh."
+    "def_ro": "Arioh — regele Elasarului, aliat al lui Chedorlaomer.",
+    "greek_def_ro": "Αριωχ (Arioch) — Arioh, nume propriu.",
+    "dict_ro": "Arioh (Aryoch), „leonin” (Easton): regele Elasarului (14:1, 9); Easton amintește părerea că ar fi Eri-Aku din Larsa, un nume elamit care înseamnă „slujitor al zeului lunii”."
    },
    {
     "t": ", regele "
@@ -56,7 +62,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ελλασαρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Elasarului."
+    "def_ro": "Elasar — ținut din Mesopotamia de sud, domnia lui Arioh.",
+    "greek_def_ro": "Ελλασαρ (Ellasar) — Elasar, nume propriu.",
+    "dict_ro": "Elasar (Ellasar), „stejarul” sau „movila Asiriei” (Easton): ținutul lui Arioh, socotit a fi Larsa, cetate între Ur și Erec, pe malul stâng al Eufratului."
    },
    {
     "t": ", ale lui "
@@ -70,7 +78,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χοδολλογομορ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Chedorlaomer."
+    "def_ro": "Chedorlaomer — regele Elamului, căpetenia aliaților.",
+    "greek_def_ro": "Χοδολλογομορ (Chodollogomor) — Chedorlaomer, nume propriu.",
+    "dict_ro": "Chedorlaomer (Kedorlaomer), „rotunjimea unui snop” (Hitchcock): regele Elamului, căpetenia aliaților (14:1–9); după Easton, numele corespunde lui Khudur-Lagamar din inscripții, iar domnia babiloniană a urmașilor lui se întindea până în Siria."
    },
    {
     "t": ", regele "
@@ -84,7 +94,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αιλαμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Elamului."
+    "def_ro": "Eilam — fiul lui Șem; ținut la răsărit de Babilonia.",
+    "greek_def_ro": "Αιλαμ (Ailam) — Eilam, nume propriu.",
+    "dict_ro": "Elam (Elam), „înălțime” (Easton): ținutul de la răsărit de Babilonia (10:22); regele lui, Chedorlaomer, conduce campania împotriva Sodomei (14:1, 9)."
    },
    {
     "t": " și ale lui "
@@ -98,7 +110,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Θαργαλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Tidal."
+    "def_ro": "Tidal — „regele neamurilor”, aliat al lui Chedorlaomer.",
+    "greek_def_ro": "Θαργαλ (Thargal) — Tidal, nume propriu.",
+    "dict_ro": "Tidal (Tidal), „cel care sparge jugul” (Hitchcock): „regele Goimului” (14:1, 9); Easton îl pune în legătură cu Tudkhula și socotește că Goiim e țara Gutium, la răsărit de Tigru."
    },
    {
     "t": ", regele "
@@ -112,7 +126,10 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "ἐθνῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Goimului — literal „al neamurilor”."
+    "def_ro": "Goimului — literal „al neamurilor”.",
+    "greek_def_ro": "ἔθνος (ethnos) — neam, popor (la genitiv plural: „ale neamurilor”).",
+    "dict_ro": "Goyim, „neamuri”: „regele Goimului” (14:1, 9) poate însemna „regele neamurilor” sau numele unui ținut anume; Easton îl identifică cu ținutul Gutium, la răsărit de Tigru.",
+    "diff_ro": "Ebraica numește aici „Tidal, regele Goimului” (neamurilor); Septuaginta spune „Thargal, regele neamurilor” (Θαργαλ βασιλεὺς ἐθνῶν), traducând numele ținutului."
    },
    {
     "t": "."
@@ -142,12 +159,24 @@ window.CHAPTER_DATA = [
   "fidela": "Și s-a întâmplat, în zilele lui Amrafel, împăratul Șinarului, Arioc, împăratul Elasarului, Chedorlaomer, împăratul Elamului, și Tideal, împăratul națiunilor,",
   "refs": [
    "Geneza 10:10",
-   "Geneza 11:2"
+   "Geneza 11:2",
+   "Isaia 11:11",
+   "Daniel 1:2",
+   "Zaharia 5:11",
+   "Isaia 37:12"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Amrafel.» Acesta este Nimrod, care i-a zis (amar) lui Avraam: Cazi (pol) în cuptorul de foc.<br><br>«Regele Goimului (melekh goyim).» Este un loc numit Goyim („neamuri”), pentru că se adunaseră acolo din mai multe neamuri și locuri și au făcut rege peste ei un om, iar numele lui era Tidal."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și a fost, în zilele lui Amrafel, regele Babilonului, ale lui Arioc, regele lui Elasar, ale lui Chedorlaomer, regele Elamului, și ale lui Tidal, regele neamurilor,"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a fost în zilele lui Amrafel — acesta este Nimrod, care a poruncit să-l arunce pe Avram în foc —, el era regele Pontului; ale lui Arioh, care era înalt între uriași, regele Telasarului; ale lui Chedorlaomer, care era ca un mănunchi legat ce se rostogolește printre snopi, regele Elamului; și ale lui Tidal, înșelător ca vulpea, regele popoarelor care îl ascultau."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -170,6 +199,10 @@ window.CHAPTER_DATA = [
     "text": "«Și a fost în zilele lui Amrafel.» În acele vremuri în care erau acești regi, fiecare în locul lui, au fost aceste războaie, pe care le povestește mai departe; și la fel „Și a fost în zilele lui Ahașveroș” și cele asemenea lui. Și această povestire a fost scrisă în Tora ca să facă cunoscută dreptatea inimii lui Avram față de Dumnezeu, încrezându-se în El din toată inima, căci cu puțini oameni a urmărit patru regi; ca să facă cunoscut că se cuvine omului să se dea pe sine într-un loc de primejdie ca să-și salveze ruda, cum a făcut Avraam, părintele nostru. «Chedorlaomer»: un singur cuvânt. «Regele Goimului»: un loc al cărui nume este Goim, pentru că acel loc a fost așezat de popoare adunate de ici și de colo."
    },
    {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Și a fost în zilele lui etc.» Motivul rânduielii vestirii lucrului: să spună că acești patru regi erau puternici. Ieși și învață ajutorul lui Dumnezeu care a fost cu Avraam, care a nimicit pe cei patru regi la miezul nopții, și celelalte foloase."
+   },
+   {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Deși identificarea exactă a lui Amrafel cu vreun rege babilonian cunoscut din arhive rămâne dezbătută academic, structura politică descrisă — o coaliție de regi mezopotamieni răsăriteni campanind spre vest, în Canaan — corespunde tiparelor reale de expediții militare documentate în perioada Bronzului Mijlociu."
    },
@@ -180,6 +213,17 @@ window.CHAPTER_DATA = [
      "slug": "talmud-megillah",
      "spec": {
       "num": 1,
+      "v": 22
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și în anul acesta a venit Chedorlaomer, regele Elamului, și Amrafel, regele Șinearului, și Arioc, regele Sellasarului, și Tergal, regele neamurilor, și l-a ucis pe regele Gomorei, și regele Sodomei a fugit, și mulți au căzut răniți în valea Siddimului, lângă Marea Sărată.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
       "v": 22
      }
     }
@@ -201,7 +245,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐποίησαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au făcut."
+    "def_ro": "a face, a lucra — în sensul cel mai larg și cu aplicații foarte variate.",
+    "greek_def_ro": "ποιέω (poieo) — a face.",
+    "dict_ro": "Asah, „a face”: „au făcut război” (14:2) — expresia ebraică spune războiul ca lucrare a regilor; Septuaginta spune ἐποίησαν πόλεμον."
    },
    {
     "t": " "
@@ -215,7 +261,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πόλεμον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "război."
+    "def_ro": "luptă (adică engagement); generally, război (adică război-fare).",
+    "greek_def_ro": "πόλεμος (polemos) — război (la acuzativ).",
+    "dict_ro": "Milchamah, „război”: primul război detaliat din Biblie (14:2): patru regi împotriva a cinci; ea pregătește intrarea lui Avram în istoria țării, ca eliberator al lui Lot."
    },
    {
     "t": " cu "
@@ -229,7 +277,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Βαλλα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Bera."
+    "def_ro": "Bera — regele Sodomei.",
+    "greek_def_ro": "Βαλλα (Balla) — Bera, nume propriu.",
+    "dict_ro": "Bera (Bera), „dar” sau „fiu al răului” (Easton): regele Sodomei (14:2, 8, 17, 21), cel care cere de la Avram oamenii, nu averea (14:21)."
    },
    {
     "t": ", regele "
@@ -243,7 +293,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σοδομων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sodomei."
+    "def_ro": "Sodoma — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Σόδομα (Sodoma) — Sodoma, nume propriu (la genitiv).",
+    "dict_ro": "Sodoma (Sedom): cetate din valea Sidim; regele ei fuge în valea smoalei (14:10), iar mai târziu cere lui Avram oamenii rămași (14:21)."
    },
    {
     "t": ", și cu "
@@ -257,7 +309,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Βαρσα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Birșa."
+    "def_ro": "Birșa — regele Gomorei.",
+    "greek_def_ro": "Βαρσα (Barsa) — Birșa, nume propriu.",
+    "dict_ro": "Birșa (Birsha), „fiul răutății” (Easton): regele Gomorei (14:2), care se alătură coaliției celor cinci regi."
    },
    {
     "t": ", regele "
@@ -271,7 +325,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Γομορρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Gomorei."
+    "def_ro": "Gomora — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Γόμορρα (Gomorra) — Gomora, nume propriu (la genitiv: „a Gomorei”).",
+    "dict_ro": "Gomora (Amorah), „înecare” (Easton): una din cele cinci cetăți ale câmpiei; regele ei, Birșa, cade în războiul din 14:2."
    },
    {
     "t": ", [și cu] "
@@ -285,7 +341,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σεννααρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Șinav."
+    "def_ro": "Șinav — regele Admei.",
+    "greek_def_ro": "Σεννααρ (Sennaar) — Șinar, nume propriu.",
+    "dict_ro": "Șinav (Shinav), „răcoare” (Easton): regele Admei (14:2)."
    },
    {
     "t": ", regele "
@@ -299,7 +357,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αδαμα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Admei."
+    "def_ro": "Adma — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Αδαμα (Adama) — Adma, nume propriu.",
+    "dict_ro": "Adma (Admah), „pământ” (Easton): una din cele cinci cetăți; regele ei, Șinav, e între cei cinci regi (14:2)."
    },
    {
     "t": " și [cu] "
@@ -313,7 +373,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Συμοβορ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Șemever."
+    "def_ro": "Șemever — regele Țevoimului.",
+    "greek_def_ro": "Συμοβορ (Symobor) — Șemever, nume propriu.",
+    "dict_ro": "Șemever (Shemever), „înălțându-se” (Easton): regele Țevoimului, care se răzvrătește, e învins și apoi izbăvit de Avram (14:2)."
    },
    {
     "t": ", regele "
@@ -321,13 +383,15 @@ window.CHAPTER_DATA = [
    {
     "t": "Țevoimului",
     "w": "Țevoimului",
-    "heb": "צְבֹיִים",
+    "heb": "צְבוֹיִם",
     "translit": "Tsevoyim",
     "strong": "H6636",
     "pos": "nume propriu",
     "greek": "Σεβωιμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Țevoimului."
+    "def_ro": "Țevoim — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Σεβωιμ (Seboim) — Țevoim, nume propriu.",
+    "dict_ro": "Țevoim (Tsevoyim), „gazelele” (Easton): una din cele cinci cetăți ale câmpiei; regele ei, Șemever, se află între răsculați (14:2, 8)."
    },
    {
     "t": ", și [cu] regele "
@@ -341,7 +405,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Βαλακ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Belei."
+    "def_ro": "Bela — numele cetății Țoar și al regelui ei.",
+    "greek_def_ro": "Βαλακ (Balak) — Bela, nume propriu.",
+    "dict_ro": "Bela (Bela), „înghițit” (Easton): numele cetății de lângă Marea Moartă, numită și Țoar (14:2, 8); singura dintre cele cinci cetăți cruțată, la rugămintea lui Lot (19:20–23)."
    },
    {
     "t": ", adică "
@@ -355,7 +421,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σηγωρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Țoar."
+    "def_ro": "Țoar — cetate mică la sud-est de Marea Moartă; numele înseamnă „mic”.",
+    "greek_def_ro": "Σηγωρ (Segor) — Țoar, nume propriu.",
+    "dict_ro": "Țoar (Tsoar), „mic” (Easton): numele nou al cetății Bela (14:2, 8), la sud-est de Marea Moartă."
    },
    {
     "t": "."
@@ -364,13 +432,13 @@ window.CHAPTER_DATA = [
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
-    "original": "עָשׂוּ מִלְחָמָה אֶת־בֶּרַע מֶלֶךְ סְדֹם וְאֶת־בִּרְשַׁע מֶלֶךְ עֲמֹרָה שִׁנְאָב מֶלֶךְ אַדְמָה וְשֶׁמְאֵבֶר מֶלֶךְ צביים וּמֶלֶךְ בֶּלַע הִיא־צֹעַר",
+    "original": "עָשׂוּ מִלְחָמָה אֶת־בֶּרַע מֶלֶךְ סְדֹם וְאֶת־בִּרְשַׁע מֶלֶךְ עֲמֹרָה שִׁנְאָב מֶלֶךְ אַדְמָה וְשֶׁמְאֵבֶר מֶלֶךְ צְבוֹיִם וּמֶלֶךְ בֶּלַע הִיא־צֹעַר",
     "translation": "„Ei au făcut război cu Bera, regele Sodomei, și cu Birșa, regele Gomorei, [și cu] Șinav, regele Admei și [cu] Șemever, regele Țevoimului, și [cu] regele Belei, adică Țoar.” — traducerea rabinului Rosen.",
     "note": ""
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "ἐποίησαν πόλεμον μετὰ Βαλλα βασιλέως Σοδομων καὶ μετὰ Βαρσα βασιλέως Γομορρας καὶ Σεννααρ βασιλέως Αδαμα καὶ Συμοβορ βασιλέως Σεβωιμ καὶ βασιλέως Βαλακ (αὕτη ἐστὶν Σηγωρ)",
+    "original": "ἐποίησαν πόλεμον μετὰ Βαλλα βασιλέως Σοδομων καὶ μετὰ Βαρσα βασιλέως Γομορρας καὶ Σεννααρ βασιλέως Αδαμα καὶ Συμοβορ βασιλέως Σεβωιμ καὶ βασιλέως Βαλακ αὕτη ἐστὶν Σηγωρ",
     "greek": true,
     "translation": "",
     "note": ""
@@ -385,12 +453,24 @@ window.CHAPTER_DATA = [
   "fidela": "Că aceștia au făcut război cu Bera, împăratul Sodomei, și cu Birșa, împăratul Gomorei, Șinab, împăratul Admei, și Șemeeber, împăratul Țeboimului, și împăratul Belei, care este Țoar.",
   "refs": [
    "Geneza 13:10",
-   "Geneza 19:22"
+   "Geneza 19:22",
+   "Geneza 10:19",
+   "Geneza 19:24",
+   "Isaia 1:9,10",
+   "Deuteronomul 29:23"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Bera.» Rău (raʿ) față de Cer și rău față de oameni.<br><br>«Birșa.» Care s-a înălțat prin răutate (be-reșaʿ).<br><br>«Șineab.» Care Îl urăște (sone) pe Tatăl (av) său din ceruri.<br><br>«Șemeber.» Și-a pus (sam) aripi (ever) ca să zboare și să sară și să se răscoale împotriva Sfântului, binecuvântat fie El.<br><br>«Bela.» Este numele orașului."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "că au pornit război împotriva lui Bera, regele Sodomei, și împotriva lui Birșa, regele Gomorei, a lui Șineab, regele lui Adma, a lui Șemeber, regele lui Țeboim, și a regelui lui Bela, adică Țoar."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Ei au făcut război cu Bera, ale cărui fapte erau în rău, regele Sodomei, și cu Birșa, ale cărui fapte erau în nelegiuire, regele Gomorei, cu Șineab, care își ura chiar și tatăl, regele Adma, și cu Șemeber, care își strica mădularele spre desfrâu, regele Țeboimului, și cu regele cetății ai cărei locuitori au fost înghițiți, aceasta este Țoar."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
@@ -401,15 +481,16 @@ window.CHAPTER_DATA = [
     "text": "«Ei au făcut război.» Acum povestește războiul care a fost între ei în valea Sidim, nu războaiele dintâi care au fost între ei, până ce cei patru regi i-au supus pe cei cinci, până ce le-au fost robi."
    },
    {
-    "author": "Talmudul Babilonian, Megila, cap. 1",
-    "text": "„Și a fost, când au călătorit dinspre răsărit” — „Haideți să ne construim un oraș”. „Și a fost în zilele lui Amrafel” — „au făcut război”. „Și a fost, pe când era Iosua lângă Ierihon” — „și sabia lui scoasă în mâna lui”. „Și a fost Domnul cu Iosua” — „Și copiii lui Israel au săvârșit o fărădelege”. „Și a fost un om din Ramataim” — „căci pe Ana o iubea, dar Domnul îi închisese pântecele”.",
-    "src": {
-     "slug": "talmud-megillah",
-     "spec": {
-      "num": 1,
-      "v": 22
-     }
-    }
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și cu regele Țeboimului.» „Ṣviyim” este scris (ketiv), „ṣvoyim” se citește (qere).<br><br>«Și cu regele Belei, adică Țoar.» „Hi” („aceasta”) este scris cu yod."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Cu Bera.» Birșa (birșa‘), pentru că erau răi și păcătoși, regii lor au fost numiți după nelegiuirea lor, și judecătorii lor la fel, precum este lămurit în „Perek Helek”: Șaqrai și Șaqrurai, Zaifi și Mațlei-Din."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 10",
+    "text": "În vremea aceea, când asirienii aveau stăpânirea peste Asia, poporul Sodomei se afla într-o stare înfloritoare, atât în ce privește bogățiile, cât și numărul tinerilor. Erau cinci regi care cârmuiau treburile acestei țări: Balas, Barsa, Senabar și Sumobor, cu regele din Bela; și fiecare rege își conducea propriile oști: iar asirienii au purtat război împotriva lor și, împărțindu-și oastea în patru părți, au luptat împotriva lor. Fiecare parte a oștirii avea propriul comandant; și când s-a început lupta, asirienii au fost biruitori și au pus un bir asupra regilor sodomiților, care s-au supus acestei robii doisprezece ani; și atâta vreme au continuat să plătească birul lor: dar în anul al treisprezecelea s-au răsculat, și atunci oastea asirienilor a venit asupra lor, sub comandanții lor Amrafel, Arioh, Chedorlaomer și Tidal. Acești regi pustiiseră toată Siria și răsturnaseră seminția uriașilor. Și când au ajuns în fața Sodomei, și-au așezat tabăra în valea numită Gropile de Smoală, căci în vremea aceea erau gropi în acel loc; dar acum, după nimicirea cetății Sodomei, acea vale a devenit Lacul Asfaltit, cum se numește. Totuși, despre acest lac vom vorbi mai îndată. Când sodomiții au început lupta cu asirienii și lupta a fost foarte îndârjită, mulți dintre ei au fost uciși, iar ceilalți au fost duși în robie; între care robi era și Lot, care venise să-i ajute pe sodomiți."
    }
   ]
  },
@@ -428,7 +509,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "συνεφώνησαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-au strâns."
+    "def_ro": "a join (literal sau figurat); în special (de means al spells) a fascinate.",
+    "greek_def_ro": "συμφωνέω (symphoneo) — a se învoi, a cădea de acord („s-au învoit”).",
+    "dict_ro": "Chavar, „a se alătura, a se uni”: regii „s-au strâns” (14:3) în valea Sidim, ca o coaliție militară; verbul spune și legătura de prietenie."
    },
    {
     "t": " laolaltă la "
@@ -442,7 +525,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν φάραγγα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "valea."
+    "def_ro": "vale (adică broad depression).",
+    "greek_def_ro": "φάραγξ (pharanx) — vale adâncă, râpă („valea”).",
+    "dict_ro": "Emeq, „vale, câmpie adâncă”: valea Sidim (14:3, 8, 10) și valea Șave (14:17) sunt locurile luptei și ale întâlnirii cu regele Sodomei."
    },
    {
     "t": " "
@@ -456,7 +541,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, cu articol",
     "greek": "τὴν ἁλυκήν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sidim."
+    "def_ro": "siddim, valley în Palestine.",
+    "greek_def_ro": "ἁλυκός (halykos) — sărat; „(valea) sărată”.",
+    "dict_ro": "Sidim (Siddim), „câmpie cu brazde” sau „câmpie cu locuri de var”: valea în care erau cele cinci cetăți, acum „Marea Sărată” (14:3), adică Marea Moartă."
    },
    {
     "t": ", adică la "
@@ -470,7 +557,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "θάλασσα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Marea."
+    "def_ro": "mare — o întindere mare de apă; cu articol, Marea Mediterană; uneori un râu mare; prin extindere, „apus” (direcția spre mare).",
+    "greek_def_ro": "θάλασσα (thalassa) — mare.",
+    "dict_ro": "Yam, „mare”: „Marea Sărată” (14:3) numește Marea Moartă, locul unde era odinioară valea Sidim; Septuaginta spune „marea sărurilor”."
    },
    {
     "t": " "
@@ -482,9 +571,11 @@ window.CHAPTER_DATA = [
     "translit": "hamelach",
     "strong": "H4417",
     "pos": "substantiv, cu articol",
-    "greek": "ἡ ἁλυκή",
+    "greek": "ἁλυκήν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sărată."
+    "def_ro": "propriu-zis, powder, adică (in special) salt (ca easily pulverized si dissolved).",
+    "greek_def_ro": "ἁλυκός (halykos) — sărat (la acuzativ feminin).",
+    "dict_ro": "Melach, „sare”: „Marea Sărată” (14:3), numele ebraic al Mării Moarte; Septuaginta spune ἡ θάλασσα τῶν ἁλῶν."
    },
    {
     "t": "."
@@ -499,7 +590,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "πάντες οὗτοι συνεφώνησαν ἐπὶ τὴν φάραγγα τὴν ἁλυκήν (αὕτη ἡ θάλασσα τῶν ἁλῶν)",
+    "original": "πάντες οὗτοι συνεφώνησαν ἐπὶ τὴν φάραγγα τὴν ἁλυκήν αὕτη ἡ θάλασσα τῶν ἁλῶν",
     "greek": true,
     "translation": "",
     "note": ""
@@ -513,12 +604,25 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Toți aceștia s-au unit în valea lui Sidim, care este marea sărată.",
   "refs": [
-   "Geneza 19:24-25"
+   "Geneza 19:24-25",
+   "Geneza 19:24",
+   "Numeri 34:12",
+   "Deuteronomul 3:17",
+   "Iosua 3:16",
+   "Psalmul 107:34"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Valea Sidim.» Așa este numele ei, pentru că erau în ea multe câmpuri (sadot).<br><br>«Adică la Marea Sărată.» După o vreme, marea s-a revărsat în ea și s-a făcut Marea Sărată. Iar midrașul aggadei spune că s-au despicat stâncile din jurul ei și s-au revărsat râuri în ea."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Toți aceștia s-au adunat în câmpia câmpurilor, adică locul Mării Sărate."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Toți aceștia s-au unit în câmpia livezilor; acesta este locul care revarsă șuvoaie de ape și le aruncă în Marea Sărată."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -531,6 +635,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Toți aceștia»: cei patru cu cei cinci.<br><br>«La valea» (el ʿemeq): ca „în valea” (be-ʿemeq); și la fel „iar în chivot să pui Mărturia” (el ha-aron).<br><br>«Sidim» (ha-śiddim): după Targumul lui, „câmpiile”. Iar dageș-ul este pentru lipsa dublării, căci se găsește în două rădăcini: śadeh și śadot, de la śdh și śdd: „Iacov își va grăpa (yeśadded) câmpul”.<br><br>«Adică la Marea Sărată.» Acea vale era aproape de Marea Sărată, sau ea însăși a devenit după aceea mare; și ea este cea care se numește astăzi Marea Sărată, și este hotarul țării lui Israel, cum este scris la hotare."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Toți aceștia s-au strâns laolaltă.» „Ḥaveru” înseamnă „s-au alăturat” (nitḥaveru).<br><br>«Adică la Marea Sărată.» Aceasta este Marea Sărată; limbaj masculin."
+   },
+   {
+    "author": "Fericitul Ieronim, Întrebări ebraice la Facere",
+    "text": "(Capitolul 14, versetul 3) Și regele din Bale, adică Segor. Toți aceștia s-au învoit în valea Salsam, adică Marea Moartă. Bale în limba ebraică se numește κατάποσις, adică înghițire. De aceea evreii spun că în alt loc din Scripturi se numește Salisa și că se zice iarăși μόσχον τριετίζουσαν, adică o juncă de trei ani, pentru că a fost într-adevăr înghițită de a treia mișcare a pământului (1 Samuel 9:4; Isaia 15:5). Și din vremea aceea, de când Sodoma, Gomora, Adama și Țeboimul au fost nimicite de focul dumnezeiesc, ea se numește „cea mică”. Într-adevăr, Segor se aplică unui loc mic numit Zoara în limba siriană. Valea Sării, cum se scrie în aceeași carte, în care mai înainte erau puțuri de bitum, după mânia lui Dumnezeu și ploaia de pucioasă s-a prefăcut în Marea Moartă, pe care grecii o numesc λίμνη Ἀσφαλτῖτις, adică lacul de bitum."
    }
   ]
  },
@@ -546,7 +658,9 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "δώδεκα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Doisprezece."
+    "def_ro": "doi — și, ca numeral ordinal, „îndoit”.",
+    "greek_def_ro": "δώδεκα (dodeka) — doisprezece.",
+    "dict_ro": "Shnayim, „doi”: „doisprezece ani” (14:4) spune cât au slujit regii lui Chedorlaomer, înainte de răzvrătirea din anul al treisprezecelea."
    },
    {
     "t": " "
@@ -560,7 +674,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ani."
+    "def_ro": "an — propriu-zis, o rotire a vremii.",
+    "dict_ro": "Shanah, „an”: cei cinci regi au slujit lui Chedorlaomer „doisprezece ani” și s-au răsculat în al treisprezecelea (14:4); anii numără durata supunerii, iar al paisprezecelea este al pedepsei.",
+    "greek_def_ro": "ἔτος (etos) — an (la plural: „ani”)."
    },
    {
     "t": " l-au "
@@ -572,9 +688,11 @@ window.CHAPTER_DATA = [
     "translit": "avdu",
     "strong": "H5647",
     "pos": "verb",
-    "greek": "ἐδούλευσαν",
+    "greek": "ἐδούλευον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-au slujit."
+    "def_ro": "a lucra, a munci, a sluji; și, la figurat, a se închina — a sluji lui Dumnezeu.",
+    "greek_def_ro": "δουλεύω (douleuo) — a sluji („au slujit”).",
+    "dict_ro": "Avad, „a sluji, a lucra”: cei cinci regi „au slujit” (14:4) lui Chedorlaomer, adică i-au plătit tribut; același verb spune și slujirea față de Dumnezeu, ca în „sluji-vei” din Exod."
    },
    {
     "t": " pe "
@@ -588,7 +706,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Χοδολλογομορ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pe Chedorlaomer."
+    "def_ro": "Chedorlaomer — regele Elamului, căpetenia aliaților.",
+    "greek_def_ro": "Χοδολλογομορ (Chodollogomor) — Chedorlaomer, nume propriu (la dativ: „lui Chedorlaomer”).",
+    "dict_ro": "Chedorlaomer (Kedorlaomer), „rotunjimea unui snop” (Hitchcock): regele Elamului, căpetenia aliaților (14:1–9); după Easton, numele corespunde lui Khudur-Lagamar din inscripții, iar domnia babiloniană a urmașilor lui se întindea până în Siria."
    },
    {
     "t": " și în al "
@@ -602,7 +722,9 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "τρισκαιδεκάτῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "treisprezecelea."
+    "def_ro": "trei — numeralul pentru cei trei fii ai lui Noe.",
+    "greek_def_ro": "τρισκαιδέκατος (triskaidekatos) — al treisprezecelea.",
+    "dict_ro": "Shalosh, „trei”: „al treisprezecelea an” (14:4) e anul răzvrătirii; „trei sute zece și opt” (14:14) numără pe oamenii casei lui Avram."
    },
    {
     "t": " an s-au "
@@ -616,7 +738,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπέστησαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-au răsculat."
+    "def_ro": "s-au răsculat.",
+    "greek_def_ro": "ἀφίστημι (aphistemi) — a se depărta, a se răscula („s-au răsculat”).",
+    "dict_ro": "Marad, „a se răzvrăti”: regii „s-au răsculat” (14:4) în anul al treisprezecelea, ceea ce aduce campania pedepsitoare din anul următor."
    },
    {
     "t": "."
@@ -645,12 +769,22 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Doisprezece ani i-au servit lui Chedorlaomer și în al treisprezecelea an s-au răzvrătit.",
   "refs": [
-   "Geneza 9:26"
+   "Geneza 9:26",
+   "Geneza 9:25,26",
+   "Ezechiel 17:15"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Doisprezece ani l-au slujit.» Acești cinci regi pe Chedorlaomer."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Doisprezece ani i-au slujit lui Chedorlaomer, iar în al treisprezecelea an s-au răzvrătit."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Doisprezece ani l-au slujit pe Chedorlaomer, iar în al treisprezecelea an s-au răzvrătit."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -681,7 +815,9 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "τεσσαρεσκαιδεκάτῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "paisprezecelea."
+    "def_ro": "patru; „paisprezecelea” — numeral ordinal în „anul al paisprezecelea”.",
+    "greek_def_ro": "τεσσαρεσκαιδέκατος (tessareskaidekatos) — al paisprezecelea.",
+    "dict_ro": "Arba, „patru”: „al paisprezecelea an” (14:5) este anul expediției lui Chedorlaomer, la un an după răzvrătire."
    },
    {
     "t": " an a "
@@ -695,7 +831,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἦλθεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a venit."
+    "def_ro": "a veni, a intra; la forma cauzativă, a aduce.",
+    "greek_def_ro": "ἔρχομαι (erchomai) — a veni („a ajuns”).",
+    "dict_ro": "Bo, „a veni”: Chedorlaomer „a venit” (14:5), iar fugarul „a venit” (14:13) să-l vestească pe Avram: două sosiri care leagă războiul de povestea lui Avram."
    },
    {
     "t": " "
@@ -709,7 +847,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χοδολλογομορ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Chedorlaomer."
+    "def_ro": "Chedorlaomer — regele Elamului, căpetenia aliaților.",
+    "greek_def_ro": "Χοδολλογομορ (Chodollogomor) — Chedorlaomer, nume propriu.",
+    "dict_ro": "Chedorlaomer (Kedorlaomer), „rotunjimea unui snop” (Hitchcock): regele Elamului, căpetenia aliaților (14:1–9); după Easton, numele corespunde lui Khudur-Lagamar din inscripții, iar domnia babiloniană a urmașilor lui se întindea până în Siria."
    },
    {
     "t": " și "
@@ -723,7 +863,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "οἱ βασιλεῖς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "regii."
+    "def_ro": "rege, împărat.",
+    "greek_def_ro": "βασιλεύς (basileus) — rege („regii”).",
+    "dict_ro": "Melech, „rege”: capitolul 14 pomenește regi numeroși (14:1–24): coaliția celor patru, cei cinci regi ai câmpiei, Melchisedec, regele Salemului; între ei stă Avram, fără titlu, dar cu mai mare putere morală."
    },
    {
     "t": " care erau cu el și i-au "
@@ -737,7 +879,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κατέκοψαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-au lovit."
+    "def_ro": "a lovi, a bate, a nimici.",
+    "dict_ro": "Nakah, „a lovi, a nimici”: Chedorlaomer „a lovit” pe refaimiți, zuziți, emimi (14:5) și ținuturile cele din calea lui (14:7); la 14:17 „înfrângerea” lui Chedorlaomer vine de la Avram, adică același verb se întoarce împotriva celui care îl folosea.",
+    "greek_def_ro": "κατακόπτω (katakopto) — a tăia în bucăți, a nimici („au nimicit”)."
    },
    {
     "t": " pe "
@@ -749,9 +893,11 @@ window.CHAPTER_DATA = [
     "translit": "Refa'im",
     "strong": "H7497",
     "pos": "nume propriu, popor",
-    "greek": "Ραφαιν",
+    "greek": "γίγαντας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "refaimiți."
+    "def_ro": "refaimiți — vechi locuitori ai țării, socotiți uriași.",
+    "greek_def_ro": "γίγας (gigas) — uriaș (la acuzativ plural: „uriași”).",
+    "dict_ro": "Refaim (Rephaim), „uriași, oameni înalți” (Easton): vechii locuitori ai țării, înainte de canaaniți; la 14:5, lovește pe refaimiți la Așterot-Karnaim."
    },
    {
     "t": " la "
@@ -765,7 +911,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ασταρωθ Καρναιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Așterot-Karnaim."
+    "def_ro": "ashteroth-Karnaim, loc East al Jordan.",
+    "greek_def_ro": "Ασταρωθ Καρναιν (Astaroth Karnain) — Așterot-Karnaim, nume de loc.",
+    "dict_ro": "Așterot-Karnaim (Ashteroth Karnaim), „Așterot cu două coarne” (Easton): locul refaimiților (14:5), probabil în Basan, la 28 de mile de Damasc; „cu două coarne” se leagă de semiluna lunii."
    },
    {
     "t": ", pe "
@@ -779,7 +927,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, popor",
     "greek": "ἔθνη ἰσχυρά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "zuziți."
+    "def_ro": "zuzites, aboriginal seminție al Palestine.",
+    "greek_def_ro": "ἔθνος (ethnos), ἰσχυρός (ischyros) — neamuri puternice.",
+    "dict_ro": "Zuzim (Zuzim): neam de uriași lovit de Chedorlaomer în Ham (14:5); Septuaginta redă „neamuri puternice” (ἔθνη ἰσχυρά)."
    },
    {
     "t": " în "
@@ -793,7 +943,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "αὐτοῖς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Ham."
+    "def_ro": "ham, regiune al Palestine.",
+    "greek_def_ro": "αὐτός (autos) — el, ei (la dativ plural: „împreună cu ei”).",
+    "dict_ro": "Ham (Ham), „loc, cetate” (în 14:5): locul în care sunt loviți zuziții, în ținutul de la răsărit de Iordan."
    },
    {
     "t": ", pe "
@@ -805,9 +957,11 @@ window.CHAPTER_DATA = [
     "translit": "Eimim",
     "strong": "H368",
     "pos": "nume propriu, popor",
-    "greek": "Ομμαίοις",
+    "greek": "Ομμαίους",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "emimi."
+    "def_ro": "emim, early Canaanitish (sau Maobitish) seminție.",
+    "greek_def_ro": "Ομμαῖος (Ommaios) — emim, neam de uriași (la acuzativ plural).",
+    "dict_ro": "Emim (Emim), „înfricoșătorii” (Easton): neam războinic de uriași care, în vremea lui Avram, locuia în țara de la răsărit de Iordan, mai târziu Moab (14:5; Deuteronom 2:10)."
    },
    {
     "t": " la "
@@ -821,7 +975,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαυη τῇ πόλει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Șave-Kiriataim."
+    "def_ro": "Șave-Kiriataim — „câmpia celor două cetăți”, locul unde emimii au fost loviți.",
+    "greek_def_ro": "Σαυη (Saue), πόλις (polis) — Șave, cetatea.",
+    "dict_ro": "Șave-Kiriataim (Shaveh Kiryatayim), „câmpia celor două cetăți”: locul unde Chedorlaomer lovește pe emimi (14:5)."
    },
    {
     "t": ";"
@@ -850,12 +1006,25 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și în al paisprezecelea an a venit Chedorlaomer și împărații care erau cu el și au lovit pe refaimi în Așterot-Carnaim și pe zuzimi în Ham și pe emimi în câmpia Chiriataimului,",
   "refs": [
-   "Deuteronom 2:10-11,20-21"
+   "Deuteronom 2:10-11,20-21",
+   "Geneza 15:20",
+   "Deuteronomul 3:11,20,22",
+   "2 Samuel 5:18,22",
+   "2 Samuel 23:13",
+   "1 Cronici 11:15"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Iar în al paisprezecelea an.» De la răscoala lor.<br><br>«A venit Chedorlaomer.» Pentru că el era stăpânul lucrului, a intrat în partea cea groasă a grinzii.<br><br>«Și regii.» Aceștia sunt cei trei regi.<br><br>«Pe zuziți.» Aceștia sunt zamzumiții."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și în al paisprezecelea an a venit Chedorlaomer și regii care erau cu el și i-au lovit pe uriașii din Așterot-Carnaim și pe cei puternici din Hamta și pe cei înfricoșători din Șave-Chiriataim"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și în al paisprezecelea an a venit Chedorlaomer și regii care erau cu el și i-au lovit pe uriașii din Așterot-Karnaim și pe cei puternici din Hamta și pe cei înfricoșători din Șave-Chiriataim,"
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -868,6 +1037,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Pe refaimiți la Așterot-Karnaim»: i-au lovit pe uriașii care erau în Așterot-Karnaim; iar acest loc este între doi munți mari, și de aceea s-a numit Karnaim („coarne”). Și l-au pomenit deja învățătorii noștri, binecuvântată fie amintirea lor. Iar aceste locuri pe care le-a pomenit sunt aproape de țara Sodomei și a Gomorei; poate erau în ajutorul lor, de aceea i-au lovit Chedorlaomer și regii care erau cu el."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Și i-au lovit pe refaimiți etc.» Toate aceste țări erau ale acelor regi care s-au răsculat, și de aceea le-au nimicit."
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -890,7 +1063,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, popor, cu articol",
     "greek": "Χορραίους",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "horiți."
+    "def_ro": "chorite sau aboriginal Idumaean.",
+    "greek_def_ro": "Χορραῖος (Chorraios) — horit (la acuzativ plural: „pe horiți”).",
+    "dict_ro": "Hori (Chori), „locuitori de peșteri” (Easton): neam de troglodiți din Edom, ramură a hivitilor (14:6; 36:20–30), izgonit de urmașii lui Esau."
    },
    {
     "t": " la "
@@ -898,13 +1073,15 @@ window.CHAPTER_DATA = [
    {
     "t": "munții",
     "w": "munții",
-    "heb": "הָרָם",
+    "heb": "בְּהַרְרָם",
     "translit": "haram",
     "strong": "H2022",
     "pos": "substantiv, cu articol",
-    "greek": "τῷ ὄρει",
+    "greek": "ὄρεσιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "munții."
+    "def_ro": "munte, deal; ținut de munte.",
+    "greek_def_ro": "ὄρος (oros) — munte (la dativ plural: „în munți”).",
+    "dict_ro": "Har, „munte”: „în munții lor, Seir” (14:6) numește țara de munte a horiților, ținutul Edomului."
    },
    {
     "t": " lor, "
@@ -918,7 +1095,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σηιρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Seir."
+    "def_ro": "seir, munte al Idumaea si al sau aboriginal occupants, de asemenea unul in Palestine.",
+    "greek_def_ro": "Σηιρ (Seir) — Seir, nume propriu.",
+    "dict_ro": "Seir (Se’ir), „păros, țărănesc”: ținutul de munte al horiților, la sud de Marea Moartă (14:6), unde va locui Esau (36:8)."
    },
    {
     "t": ", până la "
@@ -930,9 +1109,11 @@ window.CHAPTER_DATA = [
     "translit": "eil",
     "strong": "H352",
     "pos": "substantiv",
-    "greek": "τερέμινθον",
+    "greek": "τερεμίνθου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "câmpia."
+    "def_ro": "propriu-zis, strength; de aici, anything tare; in special căpetenie (politically); de asemenea ram (de la al lui strength); pilaster (ca tare support); oak sau alt tare tree.",
+    "greek_def_ro": "τερέμινθος (terebinthos) — terebint (la genitiv: „al terebintului”).",
+    "dict_ro": "Eil (Eil), „stejar, terebint”: „Eil-Paran” (14:6) numește un loc cu un copac mare la marginea pustiei Paran. Septuaginta spune „terebintul Paran” (τερέμινθος)."
    },
    {
     "t": " "
@@ -946,7 +1127,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Φαραν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Paran."
+    "def_ro": "paran, desert al Arabia.",
+    "greek_def_ro": "Φαραν (Pharan) — Paran, nume propriu.",
+    "dict_ro": "Paran (Paran): pustie și ținut din sudul Canaanului (14:6; 21:21), pe unde va rătăci și Ismael."
    },
    {
     "t": " care este lângă "
@@ -958,9 +1141,11 @@ window.CHAPTER_DATA = [
     "translit": "hamidbar",
     "strong": "H4057",
     "pos": "substantiv, cu articol",
-    "greek": "ἡ ἔρημος",
+    "greek": "ἐρήμῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "deșert."
+    "def_ro": "pasture (adică open field, whither cattle sunt driven); de implicație, desert; de asemenea speech (including al sau organs).",
+    "greek_def_ro": "ἔρημος (eremos) — pustie (la dativ).",
+    "dict_ro": "Midbar, „pustie”: expedițiile lui Chedorlaomer ajung „la marginea pustiei” (14:6), cea mai de sud și de răsărit a lor."
    },
    {
     "t": "."
@@ -989,12 +1174,25 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și pe horiți în muntele lor Seir, până la câmpia Paran, care este lângă pustiu.",
   "refs": [
-   "Deuteronom 2:12,22"
+   "Deuteronom 2:12,22",
+   "Geneza 36:8,20-30",
+   "Deuteronomul 2:12,22",
+   "1 Cronici 1:38-42",
+   "Geneza 16:7",
+   "Geneza 21:21"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«La munții lor (be-hararam).» La muntele lor.<br><br>«Până la câmpia Paran (El Paran).» Ca în Targumul lui: „câmpie”. Iar eu spun că el nu este cuvânt pentru „câmpie”, ci câmpia lui Paran se numește El, a lui Mamre se numește Elone, a Iordanului se numește Kikkar, a lui Șitim se numește Avel — „Avel ha-Șittim” —, și tot așa Baʿal Gad: numele ei este Baʿal. Și toate sunt traduse „câmpie”, dar fiecare își are numele lui.<br><br>«Lângă (ʿal) deșert.» Lângă deșert, ca în „și lângă el (ʿalav), seminția lui Manase”."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "și pe horiți în muntele lor, Seir, până la câmpia Paran, care este lângă pustiu."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "și pe horiți, care erau în munții înalți ai Gavlei, până la câmpia Paran, care este lângă marginea pustiului."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -1007,6 +1205,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și pe horiți la munții lor, Seir.» Și i-au lovit pe horiți pe muntele lor, și acesta este muntele Seir, cum a spus: „Aceștia sunt fiii lui Seir horitul”. Be-hararam: substantiv, singularul este harar, după tiparul ereṣ, gefen; iar dacă ar fi infinitiv din cel cu dageș, cum spun unii dintre comentatori, he-ul ar fi fost cu qamaṣ, și iată, este cu pataḥ; și la fel a tradus Onkelos: „în munții lui Seir”. «Câmpia Paran» (El Paran): după Targum, „șesul Paran”."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«La munții lor, Seir.» „Be-hareram” este ca „be-dabram”, adică: în urcarea lor pe muntele Seir.<br><br>«Până la câmpia Paran care este lângă deșert.» Ca în „și să acoperi (ʿal) chivotul” și „iar el stătea lângă (ʿal) cămile, lângă (ʿal) izvor”; tot așa și aici: lângă deșert, și acesta este deșertul popoarelor, unde au umblat Israel patruzeci de ani.<br><br>«Câmpia Paran.» „Eil Paran” înseamnă „câmpia Paran”."
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -1029,7 +1231,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀναστρέψαντες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-au întors."
+    "def_ro": "a se întoarce, a reveni.",
+    "greek_def_ro": "ἀναστρέφω (anastrepho) — a se întoarce; la participiu, „întorcându-se”.",
+    "dict_ro": "Shuv, „a se întoarce”: aliații „s-au întors” (14:7) din sud spre Ein-Mișpat; același verb spune apoi întoarcerea lui Avram cu prada (14:16) și întoarcerea regelui Sodomei (14:17)."
    },
    {
     "t": " și au "
@@ -1041,9 +1245,11 @@ window.CHAPTER_DATA = [
     "translit": "vayavo'u",
     "strong": "H935",
     "pos": "verb",
-    "greek": "ἦλθον",
+    "greek": "ἤλθοσαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au venit."
+    "def_ro": "a veni, a intra; la forma cauzativă, a aduce.",
+    "greek_def_ro": "ἔρχομαι (erchomai) — a veni („au venit”).",
+    "dict_ro": "Bo, „a veni”: Chedorlaomer „a venit” (14:5), iar fugarul „a venit” (14:13) să-l vestească pe Avram: două sosiri care leagă războiul de povestea lui Avram."
    },
    {
     "t": " la "
@@ -1057,7 +1263,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τὴν πηγὴν τῆς κρίσεως",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Ein-Mișpat — literal „izvorul judecății”."
+    "def_ro": "Ein-Mișpat — literal „izvorul judecății”.",
+    "greek_def_ro": "πηγή (pege), κρίσις (krisis) — izvor, judecată: „izvorul judecății”.",
+    "dict_ro": "Ein-Mișpat (En Mishpat), „izvorul judecății”: numele vechi al Cadeșului (14:7); Septuaginta îl traduce „izvorul judecății”."
    },
    {
     "t": ", adică la "
@@ -1071,7 +1279,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Καδης",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Kadeș."
+    "def_ro": "kadesh, loc in Desert.",
+    "greek_def_ro": "Καδης (Kades) — Cadeș, nume propriu.",
+    "dict_ro": "Cadeș (Kadesh), „sfânt” (Easton): loc la hotarul de sud-est al Canaanului, în pustia Țin (14:7); de aici vor fi trimiși iscoadele (Numeri 13)."
    },
    {
     "t": "; au "
@@ -1085,7 +1295,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κατέκοψαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au lovit."
+    "def_ro": "a lovi, a bate, a nimici.",
+    "dict_ro": "Nakah, „a lovi, a nimici”: Chedorlaomer „a lovit” pe refaimiți, zuziți, emimi (14:5) și ținuturile cele din calea lui (14:7); la 14:17 „înfrângerea” lui Chedorlaomer vine de la Avram, adică același verb se întoarce împotriva celui care îl folosea.",
+    "greek_def_ro": "κατακόπτω (katakopto) — a tăia în bucăți, a nimici („au nimicit”)."
    },
    {
     "t": " tot "
@@ -1099,7 +1311,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "πάντας τοὺς ἄρχοντας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "teritoriul."
+    "def_ro": "câmp, ogor, țarină; prin extindere, țară, ținut.",
+    "dict_ro": "Sadeh, „câmp, ținut”: Chedorlaomer a lovit „tot ținutul amalecitului” (14:7), adică întinsul pe care trăia neamul amalecit; Septuaginta spune „pe toți conducătorii Amalecului” (πάντας τοὺς ἄρχοντας Αμαληκ).",
+    "greek_def_ro": "πᾶς (pas), ἄρχων (archon) — toți conducătorii."
    },
    {
     "t": " "
@@ -1113,7 +1327,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, popor, cu articol",
     "greek": "Αμαληκ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "amalekitului."
+    "def_ro": "amalekite (sau collectively Amalekites) sau urmași al Amalek.",
+    "greek_def_ro": "Αμαληκ (Amalek) — Amalec, nume propriu.",
+    "dict_ro": "Amalec (Amaleqi), „neamul din Amalec” (Smith): trib de nomazi dintre dealurile Iudeei și Egipt, bogat în turme (14:7); în acest verset sunt loviți „toate ținuturile amalecitului”."
    },
    {
     "t": ", precum și pe "
@@ -1125,9 +1341,11 @@ window.CHAPTER_DATA = [
     "translit": "ha'emori",
     "strong": "H567",
     "pos": "nume propriu, popor, cu articol",
-    "greek": "τὸν Αμορραῖον",
+    "greek": "Αμορραίους",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "amoritul."
+    "def_ro": "amoritul — neam din Canaan, „muntenii”.",
+    "greek_def_ro": "Ἀμορραῖος (Amorraios) — amorit (la acuzativ plural: „pe amoriți”).",
+    "dict_ro": "Amoritul (Emori), „muntean”: neam din Canaan (10:16); la 14:7 e lovit în Hațațon-Tamar, iar la 14:13 Mamre amoritul e aliatul lui Avram."
    },
    {
     "t": " ce "
@@ -1139,9 +1357,11 @@ window.CHAPTER_DATA = [
     "translit": "hayoshev",
     "strong": "H3427",
     "pos": "verb, participiu, cu articol",
-    "greek": "τὸν κατοικοῦντα",
+    "greek": "κατοικοῦντας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ce sălășluia."
+    "def_ro": "a sta jos, a locui, a rămâne; la forma cauzativă, a așeza.",
+    "greek_def_ro": "κατοικέω (katoikeo) — a locui; la participiu, „cei ce locuiau”.",
+    "dict_ro": "Yashav, „a locui”: „cel ce locuia în Hațațon-Tamar” (14:7) și „Lot locuia în Sodoma” (14:12): cuvântul leagă soarta lui Lot de a cetății lui."
    },
    {
     "t": " în "
@@ -1155,7 +1375,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ασασανθαμαρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Hațațon-Tamar."
+    "def_ro": "chatsetson-tamar, loc în Palestine.",
+    "greek_def_ro": "Ασασανθαμαρ (Asasanthamar) — Hațațon-Tamar, nume propriu.",
+    "dict_ro": "Hațațon-Tamar (Chatsatson Tamar), „tăierea palmierului” (Easton): numele vechi al En-Gedi (14:7; 2 Cronici 20:2)."
    },
    {
     "t": "."
@@ -1170,7 +1392,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἀναστρέψαντες ἦλθον ἐπὶ τὴν πηγὴν τῆς κρίσεως (αὕτη ἐστὶν Καδης) καὶ κατέκοψαν πάντας τοὺς ἄρχοντας Αμαληκ καὶ τοὺς Αμορραίους τοὺς κατοικοῦντας ἐν Ασασανθαμαρ",
+    "original": "καὶ ἀναστρέψαντες ἤλθοσαν ἐπὶ τὴν πηγὴν τῆς κρίσεως αὕτη ἐστὶν Καδης καὶ κατέκοψαν πάντας τοὺς ἄρχοντας Αμαληκ καὶ τοὺς Αμορραίους τοὺς κατοικοῦντας ἐν Ασασανθαμαρ",
     "greek": true,
     "translation": "",
     "note": ""
@@ -1185,12 +1407,24 @@ window.CHAPTER_DATA = [
   "fidela": "Și s-au întors și au venit la En-Mișpat, care este Cades, și au lovit toată țara amaleciților și de asemenea pe amoriți, care locuiau în Hațațon-Tamar.",
   "refs": [
    "Numeri 13:26",
-   "Numeri 20:1"
+   "Numeri 20:1",
+   "Geneza 16:14",
+   "Geneza 20:1",
+   "Deuteronomul 1:19,46",
+   "Geneza 36:12,16"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Ein-Mișpat, adică Cades.» După viitor: căci Moise și Aaron aveau să fie judecați (lehiśśafeṭ) acolo în privința acelui izvor (ʿayin), și aceasta este apa Meriba. Iar Onkelos l-a tradus după înțelesul simplu: locul unde se adunau oamenii ținutului pentru orice judecată.<br><br>«Teritoriul amalekitului.» Amalec încă nu se născuse; a fost numit după viitor.<br><br>«În Hațațon-Tamar.» Acesta este Ein-Ghedi; versetul este explicit în Cronici, la Iehoșafat."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și s-au întors și au venit la câmpia împărțirii judecății, adică Rekam, și au lovit tot ținutul amaleciților și chiar pe amoritul care locuia în Ein-Ghedi."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și s-au întors și au venit la locul unde avea să fie despărțită judecata lui Moise profetul, la izvorul apelor certei, aceasta este Reqam; și au lovit toate câmpurile amalekiților și de asemenea pe amoritul care locuia în Ein-Ghedi."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
@@ -1215,9 +1449,11 @@ window.CHAPTER_DATA = [
     "translit": "melekh",
     "strong": "H4428",
     "pos": "substantiv, stare construită",
-    "greek": "ὁ βασιλεὺς",
+    "greek": "βασιλεὺς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "regele."
+    "def_ro": "rege, împărat.",
+    "greek_def_ro": "βασιλεύς (basileus) — rege.",
+    "dict_ro": "Melech, „rege”: capitolul 14 pomenește regi numeroși (14:1–24): coaliția celor patru, cei cinci regi ai câmpiei, Melchisedec, regele Salemului; între ei stă Avram, fără titlu, dar cu mai mare putere morală."
    },
    {
     "t": " "
@@ -1231,7 +1467,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σοδομων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sodomei."
+    "def_ro": "Sodoma — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Σόδομα (Sodoma) — Sodoma, nume propriu (la genitiv).",
+    "dict_ro": "Sodoma (Sedom): cetate din valea Sidim; regele ei fuge în valea smoalei (14:10), iar mai târziu cere lui Avram oamenii rămași (14:21)."
    },
    {
     "t": " a "
@@ -1245,7 +1483,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξῆλθεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a ieșit."
+    "def_ro": "a scoate, a ieși — verb de mișcare cu aplicații foarte variate.",
+    "greek_def_ro": "ἐξέρχομαι (exerchomai) — a ieși.",
+    "dict_ro": "Yatsa, „a ieși”: regii „au ieșit” la luptă (14:8), iar regele Sodomei „a ieșit în întâmpinare” (14:17); verbul face din război și din întâlnire o ieșire din aceeași cetate."
    },
    {
     "t": " cu regele "
@@ -1259,7 +1499,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Γομορρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Gomorei."
+    "def_ro": "Gomora — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Γόμορρα (Gomorra) — Gomora, nume propriu (la genitiv: „a Gomorei”).",
+    "dict_ro": "Gomora (Amorah), „înecare” (Easton): una din cele cinci cetăți ale câmpiei; regele ei, Birșa, cade în războiul din 14:2."
    },
    {
     "t": ", regele "
@@ -1273,7 +1515,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αδαμα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Admei."
+    "def_ro": "Adma — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Αδαμα (Adama) — Adma, nume propriu.",
+    "dict_ro": "Adma (Admah), „pământ” (Easton): una din cele cinci cetăți; regele ei, Șinav, e între cei cinci regi (14:2)."
    },
    {
     "t": ", regele "
@@ -1281,13 +1525,15 @@ window.CHAPTER_DATA = [
    {
     "t": "Țevoimului",
     "w": "Țevoimului",
-    "heb": "צְבֹיִים",
+    "heb": "צְבוֹיִם",
     "translit": "Tsevoyim",
     "strong": "H6636",
     "pos": "nume propriu",
     "greek": "Σεβωιμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Țevoimului."
+    "def_ro": "Țevoim — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Σεβωιμ (Seboim) — Țevoim, nume propriu.",
+    "dict_ro": "Țevoim (Tsevoyim), „gazelele” (Easton): una din cele cinci cetăți ale câmpiei; regele ei, Șemever, se află între răsculați (14:2, 8)."
    },
    {
     "t": " și regele "
@@ -1301,7 +1547,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Βαλακ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Belei."
+    "def_ro": "Bela — numele cetății Țoar și al regelui ei.",
+    "greek_def_ro": "Βαλακ (Balak) — Bela, nume propriu.",
+    "dict_ro": "Bela (Bela), „înghițit” (Easton): numele cetății de lângă Marea Moartă, numită și Țoar (14:2, 8); singura dintre cele cinci cetăți cruțată, la rugămintea lui Lot (19:20–23)."
    },
    {
     "t": ", adică "
@@ -1315,7 +1563,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σηγωρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Țoar."
+    "def_ro": "Țoar — cetate mică la sud-est de Marea Moartă; numele înseamnă „mic”.",
+    "greek_def_ro": "Σηγωρ (Segor) — Țoar, nume propriu.",
+    "dict_ro": "Țoar (Tsoar), „mic” (Easton): numele nou al cetății Bela (14:2, 8), la sud-est de Marea Moartă."
    },
    {
     "t": ", și s-au "
@@ -1329,7 +1579,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "παρετάξαντο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-au războit."
+    "def_ro": "s-au războit.",
+    "greek_def_ro": "παρατάσσω (paratasso) — a se așeza la luptă („s-au așezat la luptă”).",
+    "dict_ro": "Arach, „a așeza în ordine de luptă”: regii „s-au așezat la luptă” (14:8) în valea Sidim; verbul spune rânduirea oștilor."
    },
    {
     "t": " cu ei în "
@@ -1343,7 +1595,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῇ κοιλάδι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "valea."
+    "def_ro": "vale (adică broad depression).",
+    "greek_def_ro": "κοιλάς (koilas) — vale (la dativ: „în vale”).",
+    "dict_ro": "Emeq, „vale, câmpie adâncă”: valea Sidim (14:3, 8, 10) și valea Șave (14:17) sunt locurile luptei și ale întâlnirii cu regele Sodomei."
    },
    {
     "t": " "
@@ -1357,7 +1611,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, cu articol",
     "greek": "τῇ ἁλυκῇ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sidim."
+    "def_ro": "siddim, valley în Palestine.",
+    "greek_def_ro": "ἁλυκός (halykos) — sărat (la dativ feminin: „cea sărată”).",
+    "dict_ro": "Sidim (Siddim), „câmpie cu brazde” sau „câmpie cu locuri de var”: valea în care erau cele cinci cetăți, acum „Marea Sărată” (14:3), adică Marea Moartă."
    },
    {
     "t": ","
@@ -1366,13 +1622,13 @@ window.CHAPTER_DATA = [
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
-    "original": "וַיֵּצֵא מֶלֶךְ־סְדֹם וּמֶלֶךְ עֲמֹרָה וּמֶלֶךְ אַדְמָה וּמֶלֶךְ צביים וּמֶלֶךְ בֶּלַע הִוא־צֹעַר וַיַּעַרְכוּ אִתָּם מִלְחָמָה בְּעֵמֶק הַשִׂדִּים",
+    "original": "וַיֵּצֵא מֶלֶךְ־סְדֹם וּמֶלֶךְ עֲמֹרָה וּמֶלֶךְ אַדְמָה וּמֶלֶךְ צְבוֹיִם וּמֶלֶךְ בֶּלַע הִוא־צֹעַר וַיַּעַרְכוּ אִתָּם מִלְחָמָה בְּעֵמֶק הַשִּׂדִּים",
     "translation": "„Atunci regele Sodomei a ieșit cu regele Gomorei, regele Admei, regele Țevoimului și regele Belei, adică Țoar, și s-au războit cu ei în valea Sidim,” — traducerea rabinului Rosen.",
     "note": ""
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "ἐξῆλθεν δὲ βασιλεὺς Σοδομων καὶ βασιλεὺς Γομορρας καὶ βασιλεὺς Αδαμα καὶ βασιλεὺς Σεβωιμ καὶ βασιλεὺς Βαλακ (αὕτη ἐστὶν Σηγωρ) καὶ παρετάξαντο αὐτοῖς εἰς πόλεμον ἐν τῇ κοιλάδι τῇ ἁλυκῇ",
+    "original": "ἐξῆλθεν δὲ βασιλεὺς Σοδομων καὶ βασιλεὺς Γομορρας καὶ βασιλεὺς Αδαμα καὶ βασιλεὺς Σεβωιμ καὶ βασιλεὺς Βαλακ αὕτη ἐστὶν Σηγωρ καὶ παρετάξαντο αὐτοῖς εἰς πόλεμον ἐν τῇ κοιλάδι τῇ ἁλυκῇ",
     "greek": true,
     "translation": "",
     "note": ""
@@ -1386,16 +1642,23 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și împăratul Sodomei a ieșit și împăratul Gomorei și împăratul Admei și împăratul Țeboimului și împăratul Belei (aceeași este Țoar) și s-au așezat la bătaie cu ei în valea lui Sidim,",
   "refs": [
-   "Geneza 13:10"
+   "Geneza 13:10",
+   "Geneza 14:2",
+   "Geneza 19:20,22",
+   "Geneza 14:3,10"
   ],
   "commentaries": [
    {
-    "author": "Radak (cca. 1160–1235)",
-    "text": "«Și s-au războit cu ei.» Acești cinci, care au ieșit, s-au războit cu ei, căci socoteau să-i biruiască; poate au fost ajutați de un alt popor, căci de aceea s-au răsculat împotriva lor; iar aceia nu erau decât cei patru pomeniți; de aceea a spus din nou „împotriva lui Chedorlaomer”; căci a spus deja „cu ei”: ce nevoie era să mai spună „împotriva lui Chedorlaomer”? Ci vine să spună că acești cinci au fost ajutați de un alt popor, iar aceia nu erau decât cei patru pe care i-a pomenit, și cu toate acestea i-au biruit; căci de la Domnul a fost, ca Avraam să-și facă un nume în acel război, cum i-a făgăduit și i-a spus: „îți voi mări numele”; și ca să arate lumii dreptatea lui Avraam și încrederea lui în Dumnezeu din toată inima: căci ei au biruit cinci regi, și cu toate acestea el i-a urmărit cu puțin popor; și despre el și despre cei asemenea lui s-a spus: „iar cel care se încrede în Domnul va fi pus la adăpost”. Și ca să mărească fapta încă, a adăugat și a spus: „patru regi împotriva celor cinci”."
+    "author": "Targum Onkelos",
+    "text": "Și a ieșit regele Sodomei și regele Gomorei și regele lui Adma și regele lui Țeboim și regele lui Bela, adică Țoar, și s-au rânduit la luptă împotriva lor în câmpia câmpurilor,"
    },
    {
-    "author": "Notă structurală",
-    "text": "Repetiția aproape identică a listei celor cinci regi (deja enumerați la v.2) accentuează stilistic dimensiunea confruntării — un tipar narativ frecvent în textele antice ale Orientului Apropiat pentru relatările de bătălii, care subliniază simetria: patru regi răsăriteni împotriva a cinci regi locali."
+    "author": "Targum Ionatan",
+    "text": "Și a ieșit regele Sodomei și regele Gomorei și regele Adma și regele Țeboimului și regele cetății ai cărei locuitori au fost înghițiți, aceasta este Țoar, și s-au rânduit împotriva lor în linii de luptă în câmpia livezilor,"
+   },
+   {
+    "author": "Radak (cca. 1160–1235)",
+    "text": "«Și s-au războit cu ei.» Acești cinci, care au ieșit, s-au războit cu ei, căci socoteau să-i biruiască; poate au fost ajutați de un alt popor, căci de aceea s-au răsculat împotriva lor; iar aceia nu erau decât cei patru pomeniți; de aceea a spus din nou „împotriva lui Chedorlaomer”; căci a spus deja „cu ei”: ce nevoie era să mai spună „împotriva lui Chedorlaomer”? Ci vine să spună că acești cinci au fost ajutați de un alt popor, iar aceia nu erau decât cei patru pe care i-a pomenit, și cu toate acestea i-au biruit; căci de la Domnul a fost, ca Avraam să-și facă un nume în acel război, cum i-a făgăduit și i-a spus: „îți voi mări numele”; și ca să arate lumii dreptatea lui Avraam și încrederea lui în Dumnezeu din toată inima: căci ei au biruit cinci regi, și cu toate acestea el i-a urmărit cu puțin popor; și despre el și despre cei asemenea lui s-a spus: „iar cel care se încrede în Domnul va fi pus la adăpost”. Și ca să mărească fapta încă, a adăugat și a spus: „patru regi împotriva celor cinci”."
    }
   ]
  },
@@ -1414,7 +1677,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χοδολλογομορ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Chedorlaomer."
+    "def_ro": "Chedorlaomer — regele Elamului, căpetenia aliaților.",
+    "greek_def_ro": "Χοδολλογομορ (Chodollogomor) — Chedorlaomer, nume propriu.",
+    "dict_ro": "Chedorlaomer (Kedorlaomer), „rotunjimea unui snop” (Hitchcock): regele Elamului, căpetenia aliaților (14:1–9); după Easton, numele corespunde lui Khudur-Lagamar din inscripții, iar domnia babiloniană a urmașilor lui se întindea până în Siria."
    },
    {
     "t": ", regele "
@@ -1428,7 +1693,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αιλαμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Elamului."
+    "def_ro": "Eilam — fiul lui Șem; ținut la răsărit de Babilonia.",
+    "greek_def_ro": "Αιλαμ (Ailam) — Eilam, nume propriu.",
+    "dict_ro": "Elam (Elam), „înălțime” (Easton): ținutul de la răsărit de Babilonia (10:22); regele lui, Chedorlaomer, conduce campania împotriva Sodomei (14:1, 9)."
    },
    {
     "t": ", și "
@@ -1442,7 +1709,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Θαργαλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Tidal."
+    "def_ro": "Tidal — „regele neamurilor”, aliat al lui Chedorlaomer.",
+    "greek_def_ro": "Θαργαλ (Thargal) — Tidal, nume propriu.",
+    "dict_ro": "Tidal (Tidal), „cel care sparge jugul” (Hitchcock): „regele Goimului” (14:1, 9); Easton îl pune în legătură cu Tudkhula și socotește că Goiim e țara Gutium, la răsărit de Tigru."
    },
    {
     "t": ", regele "
@@ -1456,7 +1725,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "ἐθνῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Goimului."
+    "def_ro": "neam, popor; „neamurile” — popoarele pământului.",
+    "greek_def_ro": "ἔθνος (ethnos) — neam, popor (la genitiv plural: „ale neamurilor”).",
+    "dict_ro": "Goyim, „neamuri”: „regele Goimului” (14:1, 9) poate însemna „regele neamurilor” sau numele unui ținut anume; Easton îl identifică cu ținutul Gutium, la răsărit de Tigru."
    },
    {
     "t": ", și "
@@ -1470,7 +1741,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αμαρφαλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Amrafel."
+    "def_ro": "Amrafel — regele Șinarului, aliat al lui Chedorlaomer.",
+    "greek_def_ro": "Αμαρφαλ (Amarphal) — Amrafel, nume propriu.",
+    "dict_ro": "Amrafel (Amraphel), „cel ce vorbește de taine” (Hitchcock): regele Șinarului, aliat al lui Chedorlaomer (14:1, 9); Easton arată că numele a fost pus în legătură cu Hammurabi al Babilonului, fără ca identificarea să fie sigură."
    },
    {
     "t": ", regele "
@@ -1484,7 +1757,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σεννααρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Șinarului."
+    "def_ro": "Șinar — ținutul dintre Tigru și Eufrat (mai târziu Babilonia).",
+    "greek_def_ro": "Σεννααρ (Sennaar) — Șinar, nume propriu.",
+    "dict_ro": "Șinar (Shin’ar), „țara celor două râuri” (Smith): câmpia Tigrului și Eufratului (10:10; 11:2), a cărei regi, Amrafel, se numără printre cei patru care atacă țările din valea Sidim (14:1)."
    },
    {
     "t": ", și "
@@ -1498,7 +1773,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αριωχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Arioh."
+    "def_ro": "Arioh — regele Elasarului, aliat al lui Chedorlaomer.",
+    "greek_def_ro": "Αριωχ (Arioch) — Arioh, nume propriu.",
+    "dict_ro": "Arioh (Aryoch), „leonin” (Easton): regele Elasarului (14:1, 9); Easton amintește părerea că ar fi Eri-Aku din Larsa, un nume elamit care înseamnă „slujitor al zeului lunii”."
    },
    {
     "t": ", regele "
@@ -1512,7 +1789,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ελλασαρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Elasarului."
+    "def_ro": "Elasar — ținut din Mesopotamia de sud, domnia lui Arioh.",
+    "greek_def_ro": "Ελλασαρ (Ellasar) — Elasar, nume propriu.",
+    "dict_ro": "Elasar (Ellasar), „stejarul” sau „movila Asiriei” (Easton): ținutul lui Arioh, socotit a fi Larsa, cetate între Ur și Erec, pe malul stâng al Eufratului."
    },
    {
     "t": " – împotriva celor "
@@ -1526,7 +1805,9 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "πέντε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cinci."
+    "def_ro": "cinci — numeralul 5, aici „cinci regi”.",
+    "greek_def_ro": "πέντε (pente) — cinci.",
+    "dict_ro": "Chamesh, „cinci”: „cinci regi” (14:9) față în față cu patru; Avram, cu trei sute optsprezece oameni, va rupe această socoteală (14:14)."
    },
    {
     "t": "."
@@ -1563,12 +1844,20 @@ window.CHAPTER_DATA = [
     "text": "«Patru regi etc.» Și cu toate acestea, cei mai puțini au învins, ca să-ți facă cunoscut că erau viteji; și cu toate acestea, Avraam nu s-a reținut să-i urmărească."
    },
    {
+    "author": "Targum Onkelos",
+    "text": "împotriva lui Chedorlaomer, regele Elamului, a lui Tidal, regele neamurilor, a lui Amrafel, regele Babilonului, și a lui Arioc, regele lui Elasar: patru regi împotriva a cinci."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "împotriva lui Chedorlaomer, regele Elamului, și a lui Tidal, regele popoarelor care îl ascultau, și a lui Amrafel, regele Pontului, și a lui Arioh, regele Telasarului: patru regi s-au rânduit la luptă împotriva a cinci."
+   },
+   {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Împotriva (et) lui Chedorlaomer.» Ca „cu”."
    },
    {
-    "author": "Notă structurală",
-    "text": "Numărul patru contra cinci, explicit la finalul versetului, pregătește dramatic disproporția: deși cei cinci regi locali sunt mai numeroși, sunt înfrânți — motiv pentru care intervenția ulterioară a lui Avram, cu doar 318 oameni, împotriva acelorași patru regi victorioși, apare cu atât mai remarcabilă."
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Împotriva lui Chedorlaomer.» Pentru că din cauza lui a fost războiul, l-a pomenit acum primul."
    }
   ]
  },
@@ -1587,7 +1876,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "κοιλὰς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "valea."
+    "def_ro": "vale (adică broad depression).",
+    "greek_def_ro": "κοιλάς (koilas) — vale.",
+    "dict_ro": "Emeq, „vale, câmpie adâncă”: valea Sidim (14:3, 8, 10) și valea Șave (14:17) sunt locurile luptei și ale întâlnirii cu regele Sodomei."
    },
    {
     "t": " "
@@ -1601,7 +1892,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, cu articol",
     "greek": "ἡ ἁλυκή",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sidim."
+    "def_ro": "siddim, valley în Palestine.",
+    "greek_def_ro": "ἁλυκός (halykos) — sărat; „(valea) cea sărată”.",
+    "dict_ro": "Sidim (Siddim), „câmpie cu brazde” sau „câmpie cu locuri de var”: valea în care erau cele cinci cetăți, acum „Marea Sărată” (14:3), adică Marea Moartă."
    },
    {
     "t": " era plină de "
@@ -1615,7 +1908,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "φρέατα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "puțuri."
+    "def_ro": "pit; in special well.",
+    "greek_def_ro": "φρέαρ (phrear) — fântână, puț (la plural: „puțuri”).",
+    "dict_ro": "Be’er, „fântână, puț”: „puțuri de smoală” (14:10) — valea Sidim era plină de gropi cu bitum (Easton); în ele cad regii care fug."
    },
    {
     "t": " de "
@@ -1629,7 +1924,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀσφάλτου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "smoală."
+    "def_ro": "smoală, bitum — material negru, lipicios, ieșit din pământ, folosit ca ciment.",
+    "greek_def_ro": "ἄσφαλτος (asphaltos) — asfalt, smoală (la genitiv).",
+    "dict_ro": "Chemar, „smoală, bitum”: valea Sidim era plină de puțuri de smoală (14:10); Easton îl socoate „asfalt” în stare moale (Facere 11:3; Exod 2:3)."
    },
    {
     "t": ". "
@@ -1637,13 +1934,15 @@ window.CHAPTER_DATA = [
    {
     "t": "Regii",
     "w": "Regii",
-    "heb": "מַלְכֵי",
+    "heb": "מֶלֶךְ",
     "translit": "malkhei",
     "strong": "H4428",
     "pos": "substantiv, stare construită",
-    "greek": "οἱ βασιλεῖς",
+    "greek": "βασιλεὺς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Regii."
+    "def_ro": "rege, împărat.",
+    "greek_def_ro": "βασιλεύς (basileus) — rege.",
+    "dict_ro": "Melech, „rege”: capitolul 14 pomenește regi numeroși (14:1–24): coaliția celor patru, cei cinci regi ai câmpiei, Melchisedec, regele Salemului; între ei stă Avram, fără titlu, dar cu mai mare putere morală."
    },
    {
     "t": " din "
@@ -1657,7 +1956,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σοδομων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sodoma."
+    "def_ro": "Sodoma — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Σόδομα (Sodoma) — Sodoma, nume propriu (la genitiv).",
+    "dict_ro": "Sodoma (Sedom): cetate din valea Sidim; regele ei fuge în valea smoalei (14:10), iar mai târziu cere lui Avram oamenii rămași (14:21)."
    },
    {
     "t": " și "
@@ -1671,7 +1972,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Γομορρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Gomora."
+    "def_ro": "Gomora — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Γόμορρα (Gomorra) — Gomora, nume propriu (la genitiv: „a Gomorei”).",
+    "dict_ro": "Gomora (Amorah), „înecare” (Easton): una din cele cinci cetăți ale câmpiei; regele ei, Birșa, cade în războiul din 14:2."
    },
    {
     "t": " au "
@@ -1685,7 +1988,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔφυγον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au fugit."
+    "def_ro": "a flit, adică vanish departe (subside, escape; causatively, chase, impel, deliver).",
+    "greek_def_ro": "φεύγω (pheugo) — a fugi („au fugit”).",
+    "dict_ro": "Nus, „a fugi”: regii Sodomei și Gomorei „au fugit” (14:10) și au căzut în puțuri; verbul spune fuga în luptă."
    },
    {
     "t": " și au "
@@ -1699,7 +2004,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐνέπεσαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au căzut."
+    "def_ro": "a cădea; la forma cauzativă, a face să cadă.",
+    "greek_def_ro": "ἐμπίπτω (empipto) — a cădea în („au căzut”).",
+    "dict_ro": "Nafal, „a cădea”: regii „au căzut” (14:10) în puțurile de smoală; verbul spune și căderea în război."
    },
    {
     "t": " în ele, iar restul au "
@@ -1713,7 +2020,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔφυγον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au fugit."
+    "def_ro": "a flit, adică vanish departe (subside, escape; causatively, chase, impel, deliver).",
+    "greek_def_ro": "φεύγω (pheugo) — a fugi („au fugit”).",
+    "dict_ro": "Nus, „a fugi”: regii Sodomei și Gomorei „au fugit” (14:10) și au căzut în puțuri; verbul spune fuga în luptă."
    },
    {
     "t": " către "
@@ -1727,7 +2036,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν ὀρεινήν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "munte."
+    "def_ro": "munte, deal; ținut de munte.",
+    "greek_def_ro": "ὀρεινός (oreinos) — de munte; „ținutul muntos”.",
+    "dict_ro": "Har, „munte”: „în munții lor, Seir” (14:6) numește țara de munte a horiților, ținutul Edomului."
    },
    {
     "t": "."
@@ -1736,7 +2047,7 @@ window.CHAPTER_DATA = [
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
-    "original": "וְעֵמֶק הַשִׂדִּים בֶּאֱרֹת בֶּאֱרֹת חֵמָר וַיָּנֻסוּ מֶלֶךְ־סְדֹם וַעֲמֹרָה וַיִּפְּלוּ־שָׁמָּה וְהַנִּשְׁאָרִים הֶרָה נָּסוּ",
+    "original": "וְעֵמֶק הַשִּׂדִּים בֶּאֱרֹת בֶּאֱרֹת חֵמָר וַיָּנֻסוּ מֶלֶךְ־סְדֹם וַעֲמֹרָה וַיִּפְּלוּ־שָׁמָּה וְהַנִּשְׁאָרִים הֶרָה נָּסוּ",
     "translation": "„Iar valea Sidim era plină de puțuri de smoală. Regii din Sodoma și Gomora au fugit și au căzut în ele, iar restul au fugit către munte.” — traducerea rabinului Rosen.",
     "note": ""
    },
@@ -1756,12 +2067,25 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și valea lui Sidim era plină de gropi cu smoală; și împărații Sodomei și Gomorei au fugit și au căzut acolo și cei care au rămas au fugit la munte.",
   "refs": [
-   "Geneza 19:17-19"
+   "Geneza 19:17-19",
+   "Geneza 11:3",
+   "Iosua 8:24",
+   "Psalmul 83:10",
+   "Isaia 24:18",
+   "Ieremia 48:44"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Puțuri de smoală.» Erau acolo multe puțuri, din care se lua pământ pentru lutul de construcție. Iar midrașul aggadei: lutul era frământat în ele, și s-a făcut o minune pentru regele Sodomei, că a ieșit de acolo. Căci erau printre neamuri unii care nu credeau că Avraam fusese salvat din Ur Casdim, din cuptorul de foc; și când acesta a ieșit din smoală, au crezut în Avram în urmă.<br><br>«Către munte (herah).» Spre un munte au fugit. Herah ca le-har („la un munte”); orice cuvânt care are nevoie de lamed la început, i se pune he la sfârșit. Și este o deosebire între herah și ha-herah: he-ul de la sfârșitul cuvântului stă în locul lamed-ului de la început, dar nu stă în locul unui lamed vocalizat cu pataḥ. Iată, herah este ca le-har sau ca el har („la un munte”), și nu lămurește la care munte, ci fiecare a fugit la muntele pe care l-a găsit întâi. Iar când pune he la început, scriind ha-herah sau ha-midbarah, înțelesul lui este ca el ha-har sau ca la-har („la muntele”), și se înțelege: la acel munte cunoscut și lămurit în pasaj."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și câmpia câmpurilor era plină de fântâni, fântâni care scoteau smoală; și regii Sodomei și Gomorei au fugit și au căzut acolo, iar cei care au rămas au fugit la munte."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Iar câmpia livezilor era numai gropi pline de smoală; și au fugit regele Sodomei și al Gomorei și au căzut acolo, iar cei care au rămas au fugit la munte."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -1778,6 +2102,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Puțuri» (beʾerot). S-a schimbat în starea construită și nu s-a schimbat în starea construită: „fântânile de apă” (beʾerot ha-mayim).<br><br>«De smoală» (ḥemar): este lutul.<br><br>«Regii din Sodoma ... au fugit.» Iar ceilalți regi au fugit către munte; aceasta este ceea ce a spus: „iar restul”. Poate erau mai iuți decât acești doi, care nu au avut putere să fugă la munte și au fugit în vale cât au putut fugi; și, fugind înspăimântați, nu s-au păzit de puțuri și au căzut în ele; și nu au murit, ci s-au scufundat în lut, și i-au scos după aceea. Și poate pricina pentru care nu au murit acolo a fost ca să vadă minunea pe care Dumnezeu i-a făcut-o lui Avraam, pentru că îl iubea. «Către munte» (herah): ca „spre munte” (el ha-har); căci he-ul adăugat la sfârșitul lui arată lamed-ul de la începutul lui, ca la celelalte nume; și he-ul vine cu segol, ca selah."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Iar valea Sidim era plină de puțuri de smoală.» Rashi: „Midraș Aggada: noroiul ardea în ele, căci este scris «valea ha-șiddim», limbaj de var (șid)”; ca în „și să le tencuiești cu tencuială (ve-śadta … ba-śid)”, cu șin.<br><br>«Puțuri de smoală.» Litera bet este vocalizată cu segol, iar litera alef cu ḥatef segol.<br><br>«Au căzut în ele.» Din voia lor au căzut: au căzut ca să se ascundă acolo, ca să-și scape sufletul; și este limbaj ca în „în fața tuturor fraților săi s-a așezat”, căci puțurile pomenite nu erau pline de noroi umed, ci au fost numite așa pe seama faptului că se scoate din ele pământ ca să se facă noroi."
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -1800,7 +2128,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔλαβον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au luat."
+    "def_ro": "a lua, a apuca, a duce cu sine; folosit și despre luarea cuiva de către Dumnezeu.",
+    "dict_ro": "Laqach, „a lua”: biruitorii „au luat” pe Lot (14:11–12), iar Avram, în 14:23–24, spune: „nu voi lua nimic”: același verb, două purtări.",
+    "greek_def_ro": "λαμβάνω (lambano) — a lua."
    },
    {
     "t": " toată "
@@ -1814,7 +2144,10 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὴν ἵππον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "averea."
+    "def_ro": "avere, bunuri, tot ce a agonisit cineva.",
+    "greek_def_ro": "ἵππος (hippos) — cal; „cavaleria”, adică oștirea călare și prada ei.",
+    "dict_ro": "Rekush, „avere, bunuri”: biruitorii iau „toată averea Sodomei și a Gomorei” (14:11); Avram o aduce apoi înapoi (14:16) și refuză să ia ceva din ea (14:23).",
+    "diff_ro": "Ebraica spune „toată averea Sodomei și a Gomorei”; Septuaginta spune „toată cavaleria” (τὴν ἵππον), adică oștirea călare luată ca pradă."
    },
    {
     "t": " "
@@ -1828,7 +2161,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σοδομων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sodomei."
+    "def_ro": "Sodoma — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Σόδομα (Sodoma) — Sodoma, nume propriu (la genitiv).",
+    "dict_ro": "Sodoma (Sedom): cetate din valea Sidim; regele ei fuge în valea smoalei (14:10), iar mai târziu cere lui Avram oamenii rămași (14:21)."
    },
    {
     "t": " și "
@@ -1842,7 +2177,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Γομορρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Gomorei."
+    "def_ro": "Gomora — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Γόμορρα (Gomorra) — Gomora, nume propriu (la genitiv: „a Gomorei”).",
+    "dict_ro": "Gomora (Amorah), „înecare” (Easton): una din cele cinci cetăți ale câmpiei; regele ei, Birșa, cade în războiul din 14:2."
    },
    {
     "t": " și toată "
@@ -1856,7 +2193,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὰ βρώματα αὐτῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "hrana lor."
+    "def_ro": "mâncare, hrană.",
+    "greek_def_ro": "βρῶμα (broma) — mâncare, hrană; „hrana lor”.",
+    "dict_ro": "Ochel, „mâncare”: biruitorii iau „toată hrana lor” (14:11), adică proviziile cetăților."
    },
    {
     "t": " lor și au "
@@ -1870,7 +2209,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπῆλθον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au plecat."
+    "def_ro": "a merge, a umbla; despre apă, a curge.",
+    "greek_def_ro": "ἀπέρχομαι (aperchomai) — a pleca („au plecat”).",
+    "dict_ro": "Halak, „a merge”: biruitorii „au plecat” (14:11–12) cu prada și cu Lot; același verb spune și drumul oamenilor lui Avram (14:24)."
    },
    {
     "t": "."
@@ -1899,9 +2240,19 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și au luat toate averile Sodomei și Gomorei și toată mâncarea lor și au plecat.",
   "refs": [
-   "Geneza 12:5"
+   "Geneza 12:5",
+   "Geneza 14:16,21",
+   "Deuteronomul 28:31,35,51"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și au luat ca pradă toată averea Sodomei și Gomorei și toată hrana lor și au plecat."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și au luat toată averea Sodomei și a Gomorei și toată hrana lor și au plecat."
+   },
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Apoi au luat toată averea Sodomei și Gomorei.» Căci valea Sidim este în hotarul lor, și acolo a fost războiul; dar Adma, Țeboim și Bela nu erau din acea parte. Și au luat toată averea Sodomei și Gomorei din aceste cetăți și din satele lor; iar avuția cuprinde bunurile mișcătoare și vitele.<br><br>«Și toată hrana lor»: pe care o aveau în case, și poporul pe care l-au luat prizonier."
@@ -1923,7 +2274,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔλαβον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-au luat."
+    "def_ro": "a lua, a apuca, a duce cu sine; folosit și despre luarea cuiva de către Dumnezeu.",
+    "dict_ro": "Laqach, „a lua”: biruitorii „au luat” pe Lot (14:11–12), iar Avram, în 14:23–24, spune: „nu voi lua nimic”: același verb, două purtări.",
+    "greek_def_ro": "λαμβάνω (lambano) — a lua."
    },
    {
     "t": " pe "
@@ -1937,7 +2290,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τὸν Λωτ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pe Lot."
+    "def_ro": "Lot — fiul lui Haran, nepotul lui Avram; numele înseamnă „înfășurat, ascuns”.",
+    "greek_def_ro": "Λωτ (Lot) — Lot, nume propriu (la acuzativ).",
+    "dict_ro": "Lot (Lot), „înfășurat” (Hitchcock): nepotul lui Avram, care locuia în Sodoma (14:12) și e luat rob; Avram pornește să-l scape."
    },
    {
     "t": ", fiul "
@@ -1951,7 +2306,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "υἱὸν τοῦ ἀδελφοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fratelui."
+    "def_ro": "frate — în sens propriu, dar și al rudeniei largi sau al înrudirii prin asemănare.",
+    "greek_def_ro": "υἱός (hyios), ἀδελφός (adelphos) — „fiul fratelui”.",
+    "dict_ro": "Ach, „frate”: Lot e „fiul fratelui lui Avram” (14:12) și, în limbaj de rudenie, „fratele” lui (14:14, 16)."
    },
    {
     "t": " lui "
@@ -1965,7 +2322,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 14 iese din rolul de păstor și devine războinic, apoi preot-binecuvântat de Melchisedec și om de cuvânt care refuză prada."
    },
    {
     "t": ", și "
@@ -1979,7 +2338,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὴν ἀποσκευὴν αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "averea lui."
+    "def_ro": "avere, bunuri, tot ce a agonisit cineva.",
+    "greek_def_ro": "ἀποσκευή (aposkeue) — bagaje, avere mobilă; „bunurile lui”.",
+    "dict_ro": "Rekush, „avere, bunuri”: biruitorii iau „toată averea Sodomei și a Gomorei” (14:11); Avram o aduce apoi înapoi (14:16) și refuză să ia ceva din ea (14:23)."
    },
    {
     "t": " lui, și au "
@@ -1993,7 +2354,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπῴχοντο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au plecat."
+    "def_ro": "a merge, a umbla; despre apă, a curge.",
+    "greek_def_ro": "ἀπόχομαι (apochomai) — a pleca („plecau”).",
+    "dict_ro": "Halak, „a merge”: biruitorii „au plecat” (14:11–12) cu prada și cu Lot; același verb spune și drumul oamenilor lui Avram (14:24)."
    },
    {
     "t": "; căci el "
@@ -2005,9 +2368,11 @@ window.CHAPTER_DATA = [
     "translit": "yoshev",
     "strong": "H3427",
     "pos": "verb, participiu",
-    "greek": "κατῴκει",
+    "greek": "κατοικῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "locuia."
+    "def_ro": "a sta jos, a locui, a rămâne; la forma cauzativă, a așeza.",
+    "greek_def_ro": "κατοικέω (katoikeo) — a locui; la participiu, „locuind”.",
+    "dict_ro": "Yashav, „a locui”: „cel ce locuia în Hațațon-Tamar” (14:7) și „Lot locuia în Sodoma” (14:12): cuvântul leagă soarta lui Lot de a cetății lui."
    },
    {
     "t": " în "
@@ -2021,7 +2386,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σοδόμοις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sodoma."
+    "def_ro": "Sodoma — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Σόδομα (Sodoma) — Sodoma (la dativ: „în Sodoma”).",
+    "dict_ro": "Sodoma (Sedom): cetate din valea Sidim; regele ei fuge în valea smoalei (14:10), iar mai târziu cere lui Avram oamenii rămași (14:21)."
    },
    {
     "t": "."
@@ -2050,12 +2417,25 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și l-au luat pe Lot, fiul fratelui lui Avram, care locuia în Sodoma, și averile lui, și au plecat.",
   "refs": [
-   "Geneza 13:12"
+   "Geneza 13:12",
+   "Geneza 11:27",
+   "Geneza 12:5",
+   "Geneza 13:12,13",
+   "Numeri 16:26",
+   "Iov 9:23"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Căci el locuia în Sodoma.» Cine i-a pricinuit aceasta? Locuirea lui în Sodoma."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și l-au luat ca prizonier pe Lot și averea lui, pe fiul fratelui lui Avram, și au plecat; iar el locuia în Sodoma."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și l-au luat prizonier pe Lot și averea lui, fiul fratelui lui Avram, și au plecat; iar el locuia în Sodoma."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -2068,6 +2448,29 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Căci el locuia în Sodoma.» Cum a spus mai sus: „și și-a întins cortul până la Sodoma”; și încă locuia acolo când a fost acest război."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Căci el locuia în Sodoma.» Locuirea lui în Sodoma, singur, fără rude, i-a pricinuit-o. Altă explicație: de frica certei (sau „a negustorului”) a intrat în cetate."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Au luat etc. pe fiul fratelui lui Avram etc.» Motivul pentru care a trebuit să spună „fiul fratelui lui Avram”, și de asemenea motivul spusei „căci el locuia în Sodoma” fără nevoie, căci știam deja că acolo și-a dobândit locul, va fi să spună că regii știau că acest Lot este fiul fratelui lui Avram și cu toate acestea l-au luat și l-au dus în captivitate, iar Scriptura a dat motivul că nu s-au temut de cinstea lui Avraam, și el era cinstit și înălțat în ochii întregii lumi, anume pentru că locuia în Sodoma, iar aceasta este pe calea spuselor lor, binecuvântată fie amintirea lor: Moab a fost curățit prin Sihon – până aici. Iată că deși Domnul l-a scutit pe Moab din mâna lui Israel, din moment ce s-au aflat în Sihon, le-a fost îngăduit. Tot astfel Lot, deși era fiul fratelui omului păcii lor, cu toate acestea, fiindcă s-a aflat în Sodoma, le-a fost îngăduit. Și prin aceasta am aflat odihnă pentru motivul lui Avraam care nu a chemat la pace pe cei patru regi ca să-l întoarcă pe Lot, iar dacă nu vor face pace, atunci să-i lovească după cum i-a lovit, ci motivul este că le era cunoscut că Lot este fiul fratelui lui Avraam, iar la aceasta a făcut aluzie Scriptura prin spusa „Avram a auzit” etc. „că fratele lui fusese luat prizonier”, explicația: că a fost luat prizonier după ce se știa că era fratele lui Avraam, și prin aceasta au dezvăluit că sunt dușmanii lui Avraam, și de aceea i-a urmărit și i-a lovit.<br><br>Și dacă vei spune: oare dreptatea nu este de partea celor patru regi, care l-au luat din mijlocul cetății care s-a răsculat împotriva lor? Și se poate spune că ce spunem „a fost curățit prin Sihon” este pentru un popor cu care nu avem nici pace, nici război, dar pe oamenii păcii nu îi judecăm să-i luăm captivi, și ieși și învață ce au făcut Israel cu cheniții, cărora li s-a poruncit: „abateți-vă, coborâți din mijlocul amalecitului” etc., și tot așa trebuia să i se poruncească să treacă din mijlocul lor dacă sunt oameni ai păcii cu Avraam."
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și au luat robi Sodoma, și Adam, și Țeboim, și l-au luat rob și pe Lot, fiul fratelui lui Avram, și toată averea lui, și au mers la Dan.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 23
+     }
+    }
+   },
+   {
+    "author": "Ioan Gură de Aur, Omilii la Facere",
+    "text": "Vezi că s-a adeverit ceea ce am spus ieri: Lot, departe de a fi mai bine din pricina alegerii celor mai bune părți, a învățat mai degrabă din experiență să nu-și pună inima în părțile cele mai bune. Căci nu numai că nu i-a venit niciun folos din aceasta, ci a fost chiar dus în robie. A învățat din experiență lecția că era mult mai bine pentru el să se bucure de tovărășia omului drept, decât să fie despărțit de el și să îndure aceste mari încercări, chiar dacă trăia pe cont propriu. Vreau să spun: s-a despărțit de patriarh și socotea că se bucură de mai multă libertate, a avut norocul să se bucure de părțile mai bune și să cunoască mare belșug — și deodată devine captiv, deposedat, fără cămin și fără casă. Scopul a fost să înveți ce mare rău este dezbinarea și ce mare bine este buna învoire, și că nu trebuie să râvnim la întâietate, ci să iubim mai degrabă să stăm pe locul al doilea. „Și au prins pe Lot și bunurile lui”, spune textul, ține minte. Cu cât mai bine era să stea în tovărășia patriarhului și să primească totul de dragul de a nu rupe buna învoire, decât să fie despărțit și, alegând părțile mai bune, să fie îndată înconjurat de primejdii atât de cumplite și să cadă în ghearele barbarilor!"
    }
   ]
  },
@@ -2081,9 +2484,11 @@ window.CHAPTER_DATA = [
     "translit": "hapalit",
     "strong": "H6412",
     "pos": "substantiv, cu articol",
-    "greek": "ὁ ἀνασωθεὶς",
+    "greek": "ἀνασωθέντων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Fugarul."
+    "def_ro": "fugar, cel scăpat din luptă.",
+    "greek_def_ro": "ἀνασῴζω (anasozo) — a scăpa, a fi izbăvit; la participiu, „ai celor scăpați”.",
+    "dict_ro": "Palit, „fugar, cel scăpat”: unul dintre cei scăpați din luptă vine și-l vestește pe Avram (14:13); Septuaginta spune ὁ ἀνασωθείς."
    },
    {
     "t": " a "
@@ -2097,7 +2502,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "παραγενόμενος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a venit."
+    "def_ro": "a veni, a intra; la forma cauzativă, a aduce.",
+    "greek_def_ro": "παραγίνομαι (paraginomai) — a sosi; la participiu, „sosind”.",
+    "dict_ro": "Bo, „a veni”: Chedorlaomer „a venit” (14:5), iar fugarul „a venit” (14:13) să-l vestească pe Avram: două sosiri care leagă războiul de povestea lui Avram."
    },
    {
     "t": " și i-a "
@@ -2111,7 +2518,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπήγγειλεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a dat de veste."
+    "def_ro": "a vesti, a spune, a face cunoscut.",
+    "dict_ro": "Nagad, „a spune, a face cunoscut”: fugarul „i-a dat de veste” lui Avram (14:13); vestea despre Lot pune în mișcare tot restul capitolului.",
+    "greek_def_ro": "ἀπαγγέλλω (apangello) — a vesti („a vestit”)."
    },
    {
     "t": " lui "
@@ -2123,9 +2532,11 @@ window.CHAPTER_DATA = [
     "translit": "le'Avram",
     "strong": "H87",
     "pos": "nume propriu",
-    "greek": "τῷ Αβραμ",
+    "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 14 iese din rolul de păstor și devine războinic, apoi preot-binecuvântat de Melchisedec și om de cuvânt care refuză prada."
    },
    {
     "t": " "
@@ -2139,7 +2550,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv, cu articol",
     "greek": "τῷ περάτῃ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "evreul."
+    "def_ro": "eberite (adică Hebrew) sau urmaș al Eber.",
+    "greek_def_ro": "περάτης (perates) — cel de dincolo, evreu („celui de dincolo de râu”).",
+    "dict_ro": "Ivri, „ebreu” (14:13): prima dată când Avram e numit „evreul”; cuvântul îl leagă de Ever (10:21) și arată că e străin de neamurile din țară."
    },
    {
     "t": "; iar el "
@@ -2153,7 +2566,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu",
     "greek": "κατῴκει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "locuia."
+    "def_ro": "a locui, a sălășlui, a așeza.",
+    "greek_def_ro": "κατοικέω (katoikeo) — a locui („locuia”).",
+    "dict_ro": "Shachan, „a locui, a sălășlui”: Avram sălășluiește „la stejarii lui Mamre” (14:13), loc de așezare provizorie; verbul e înrudit cu shechinah, „locuirea (Prezenței)”."
    },
    {
     "t": " în "
@@ -2167,7 +2582,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "πρὸς τῇ δρυὶ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "câmpiile."
+    "def_ro": "Elon More — „stejarul învățătorului”.",
+    "greek_def_ro": "δρῦς (drys) — stejar; „lângă stejar”.",
+    "dict_ro": "Elon, „stejar”: „stejarii lui Mamre” (14:13), unde Avram își avea tabăra (13:18)."
    },
    {
     "t": " lui "
@@ -2181,7 +2598,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Μαμβρη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Mamre."
+    "def_ro": "Mamre — loc de lângă Hebron cu stejari mari; și numele unui amorit prieten al lui Avram.",
+    "greek_def_ro": "Μαμβρη (Mambre) — Mamre, nume propriu.",
+    "dict_ro": "Mamre (Mamre), „vigoare” (Easton): amorit prieten al lui Avram (14:13, 24) și locul de lângă Hebron cu stejarii în care locuia Avram."
    },
    {
     "t": ", "
@@ -2193,9 +2612,11 @@ window.CHAPTER_DATA = [
     "translit": "ha'emori",
     "strong": "H567",
     "pos": "nume propriu, popor, cu articol",
-    "greek": "τοῦ Αμορραίου",
+    "greek": "Αμορις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "amoritul."
+    "def_ro": "amoritul — neam din Canaan, „muntenii”.",
+    "greek_def_ro": "Αμορις (Amoris) — amoritul, nume de neam.",
+    "dict_ro": "Amoritul (Emori), „muntean”: neam din Canaan (10:16); la 14:7 e lovit în Hațațon-Tamar, iar la 14:13 Mamre amoritul e aliatul lui Avram."
    },
    {
     "t": ", fratele lui "
@@ -2209,7 +2630,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Εσχωλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Eșcol."
+    "def_ro": "eshcol, nume al Amorite, de asemenea al valley în Palestine.",
+    "greek_def_ro": "Εσχωλ (Eschol) — Eșcol, nume propriu.",
+    "dict_ro": "Eșcol (Eshkol), „ciorchine” (Easton): tânăr amorit aliat al lui Avram (14:13, 24); numele se leagă și de valea Eșcol (Numeri 13:23)."
    },
    {
     "t": " și fratele lui "
@@ -2223,7 +2646,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αυναν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Aner."
+    "def_ro": "aner, Amorite, de asemenea loc în Palestine.",
+    "greek_def_ro": "Αυναν (Aunan) — Aner, nume propriu.",
+    "dict_ro": "Aner (Aner), „băiat” (Easton): căpetenie canaanită aliată cu Avram (14:13, 24)."
    },
    {
     "t": ", care aveau "
@@ -2237,7 +2662,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "συνωμόται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "legământ."
+    "def_ro": "master; de aici, husband, sau (figurat) owner (adesea folosit cu another substantiv in modifications al acesta latter sens).",
+    "greek_def_ro": "συνωμότης (synomotes) — cel legat prin jurământ, aliat (la plural: „aliați”).",
+    "dict_ro": "Baal, „stăpân, posesor”: „stăpânii legământului lui Avram” (14:13) înseamnă oamenii legați de el printr-un legământ, adică aliații lui."
    },
    {
     "t": " cu "
@@ -2251,7 +2678,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 14 iese din rolul de păstor și devine războinic, apoi preot-binecuvântat de Melchisedec și om de cuvânt care refuză prada."
    },
    {
     "t": "."
@@ -2281,12 +2710,24 @@ window.CHAPTER_DATA = [
   "fidela": "Și a venit unul care scăpase și i-a spus lui Avram evreul, fiindcă el locuia în câmpia lui Mamre amoritul, fratele lui Eșcol și fratele lui Aner, și aceștia erau aliați cu Avram.",
   "refs": [
    "Fapte 7:2",
-   "Geneza 13:18"
+   "Geneza 13:18",
+   "1 Samuel 4:12",
+   "Iov 1:15",
+   "Geneza 39:14",
+   "Geneza 40:15"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Fugarul a venit.» După înțelesul simplu, acesta este Og, care a scăpat din război. Și aceasta este ce este scris: „căci numai Og a rămas din restul refaimiților”; și acesta este „a rămas”: că nu l-au ucis Amrafel și tovarășii lui când i-au lovit pe refaimiți la Așterot-Karnaim. Iar midrașul Bereșit Rabba: acesta este Og, care a scăpat din generația potopului; și aceasta este „din restul refaimiților”, cum s-a spus: „Nefilimii erau pe pământ” etc.. Și avea de gând ca Avram să fie ucis și el să o ia pe Sarai.<br><br>«Evreul (ha-ʿivri).» Care venise de dincolo (me-ʿever) de râu.<br><br>«Care aveau legământ cu Avram.» Care încheiaseră legământ cu el."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și a venit unul care scăpase și i-a spus lui Avram, evreul; și el locuia în câmpiile lui Mamre, amoritul, fratele lui Eșcol și fratele lui Aner; și ei erau oamenii legământului lui Avram."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a venit Og, care scăpase dintre uriașii care muriseră în potop: călărise pe corabie și era un acoperiș deasupra capului lui, și se hrănea din hrana lui Noe; și nu prin meritul lui a scăpat, ci ca să vadă locuitorii lumii puterea Domnului și să spună: „Oare nu uriașii care au fost odinioară s-au răzvrătit împotriva Stăpânului lumii, și El i-a nimicit de pe pământ?” Și când au făcut război regii aceștia, Og era cu ei; și a zis în inima lui: „Mă voi duce și-i voi spune lui Avram despre Lot, care a fost luat prizonier, și el va veni să-l scape din mâna regilor și va fi dat în mâinile lor.” Și a venit la intrarea zilei de Pesah și l-a găsit făcând turte azime; atunci i-a dat de veste lui Avram evreul. Iar el locuia în Ḥezu Mamre, amoritul, fratele lui Eșcol și fratele lui Aner, iar ei erau aliații lui Avram."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -2303,6 +2744,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Fugarul a venit.» După ce a scăpat din robie, a venit și i-a povestit lui Avram despre fiul fratelui său, care fusese luat prizonier.<br><br>«Evreul» (ha-ʿivri): din urmașii lui Eber; și toți își trăgeau neamul din el; dar Avraam și seminția lui s-au deosebit prin neam, căci la ei a rămas limba lui Eber, iar ceilalți dintre fiii lui și fiii fiilor lui au ținut în mâna lor limba aramaică și s-au numit arameeni, ca Laban arameul și alții; iar seminția lui Avraam, care este a lui Iacov, s-au numit evrei.<br><br>«Iar el locuia»: adică locuia cu acești frați, și erau cei care aveau legământ cu el și l-au ajutat; iar el locuia în țara unuia dintre frați, și acesta este Mamre."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Fugarul a venit.» Rashi: „Acesta este Og, care a scăpat din generația potopului.” Midraș Aggada: Faptul că a trăit atât de mult, din zilele lui Noe până la Moise, încât Moise, învățătorul nostru, pacea să fie asupra lui, l-a omorât, este pentru că avea gândul ca Avraam să fie omorât și el să o ia pe Sara; i-a spus Sfântul, binecuvântat fie: „Pe viața ta, răsplata pașilor tăi o primești – căci trăiești mult în lume; dar pentru că ai gândit să-l omori pe cel drept, pe viața ta, vei vedea mii de mii și zeci de mii de zeci de mii dintre fiii lui, iar sfârșitul acelui om nu este să cadă decât în mâinile lor”, precum este scris „Domnul i-a spus lui Moise: «Nu te teme de el»” etc.; Bereșit Rabba. Ḥazaq: cum a scăpat Og, după cel care spune că locuitorii Țării lui Israel au murit din abur în vremea potopului? Iar în Pesiqta de-Rabbi Eliezer: acesta este Mihail, căci în ceasul în care Sfântul, binecuvântat fie, l-a doborât pe Samael și ceata lui din locul sfințeniei lor, el s-a prins de aripile lui Mihail ca să-l doboare cu el, iar Sfântul, binecuvântat fie, l-a scăpat; de aceea numele lui a fost numit „fugarul”, și despre el a spus Ezechiel: „a venit la mine fugarul”. Iar sensul simplu: un om care a scăpat de la război, iar Scriptura este scurtă, ca în „și a spus lui Iosif”, „și i-au spus lui Iacov” și multe altele.<br><br>«Iar el locuia în câmpiile lui Mamre.» Precum este scris mai sus „a locuit în câmpiile lui Mamre care sunt în Hebron”. Altă explicație: „și el”, fugarul, locuia la Elonei Mamre, de aceea a venit la Avram să-i spună.<br><br>«Care aveau legământ cu Avram.» De aceea au mers cu el, precum este scris „partea oamenilor care au mers cu mine: Aner, Eșcol și Mamre”."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Fugarul a venit.» Care a scăpat de sabie.<br><br>«Și i-a dat de veste lui Avram evreul.» Deși el este de dincolo de râu și în el locuiește ca străin, el stă în câmpiile lui Mamre.<br><br>«Și Mamre, Eșcol și Aner erau aliații lui Avram» și ajutoare, și de aceea îi numără aici, căci l-au ajutat în război, precum este scris: „oamenii care au mers cu mine: Aner, Eșcol și Mamre” etc."
    }
   ]
  },
@@ -2321,7 +2770,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 14 iese din rolul de păstor și devine războinic, apoi preot-binecuvântat de Melchisedec și om de cuvânt care refuză prada."
    },
    {
     "t": " că îi "
@@ -2333,9 +2784,11 @@ window.CHAPTER_DATA = [
     "translit": "nishbah",
     "strong": "H7617",
     "pos": "verb",
-    "greek": "ᾐχμαλωτεύθη",
+    "greek": "ᾐχμαλώτευται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fusese luat prizonier."
+    "def_ro": "a transport in robie.",
+    "greek_def_ro": "αἰχμαλωτεύω (aichmaloteuo) — a lua prizonier („a fost luat prizonier”).",
+    "dict_ro": "Shavah, „a lua prins”: Lot „a fost luat prizonier” (14:14), motivul expediției lui Avram; Septuaginta spune ἠχμαλώτευται."
    },
    {
     "t": " "
@@ -2349,7 +2802,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ὁ ἀδελφὸς αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fratele lui."
+    "def_ro": "frate — în sens propriu, dar și al rudeniei largi sau al înrudirii prin asemănare.",
+    "greek_def_ro": "ἀδελφός (adelphos) — frate; „fratele lui”.",
+    "dict_ro": "Ach, „frate”: Lot e „fiul fratelui lui Avram” (14:12) și, în limbaj de rudenie, „fratele” lui (14:14, 16)."
    },
    {
     "t": ", și-a "
@@ -2363,7 +2818,10 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἠρίθμησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "și-a înarmat."
+    "def_ro": "și-a înarmat.",
+    "greek_def_ro": "ἀριθμέω (arithmeo) — a număra („a numărat”).",
+    "dict_ro": "Ruq, „a goli, a scoate (sabia)”: Avram „și-a înarmat” oamenii (14:14), lit. „a golit” teaca pentru ei; Septuaginta spune ἠρίθμησεν, „a numărat”.",
+    "diff_ro": "Ebraica spune că Avram „și-a golit (sabia) pentru” slujitorii lui, adică i-a înarmat; Septuaginta spune că „i-a numărat” (ἠρίθμησεν)."
    },
    {
     "t": " "
@@ -2377,7 +2835,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τοὺς ἰδίους οἰκογενεῖς αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "discipolii lui."
+    "def_ro": "discipolii lui.",
+    "greek_def_ro": "ἴδιος (idios), οἰκογενής (oikogenes) — slujitorii lui, născuți în casă.",
+    "dict_ro": "Chanich, „ucenic, om format”: cuvânt rar (doar aici); spune pe slujitorii exersați ai casei lui Avram, la numărul de trei sute optsprezece."
    },
    {
     "t": " "
@@ -2391,7 +2851,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "οἰκογενεῖς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "născuți în casa lui."
+    "def_ro": "născuți în casa lui.",
+    "greek_def_ro": "οἰκογενής (oikogenes) — născut în casă (la plural: „născuți în casă”).",
+    "dict_ro": "Yalid, „născut”: „născuți în casa lui” (14:14) sunt robii născuți în gospodăria lui Avram, adică oameni de încredere."
    },
    {
     "t": ", cei "
@@ -2405,7 +2867,9 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "τριακοσίους δέκα καὶ ὀκτώ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "trei sute optsprezece."
+    "def_ro": "trei — numeralul pentru cei trei fii ai lui Noe.",
+    "greek_def_ro": "τριακόσιοι (triakosioi), δέκα (deka), ὀκτώ (okto) — trei sute optsprezece.",
+    "dict_ro": "Shalosh, „trei”: „al treisprezecelea an” (14:4) e anul răzvrătirii; „trei sute zece și opt” (14:14) numără pe oamenii casei lui Avram."
    },
    {
     "t": ", și a "
@@ -2419,7 +2883,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κατεδίωξεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a pornit în urmărire."
+    "def_ro": "a pornit în urmărire.",
+    "greek_def_ro": "καταδιώκω (katadioko) — a urmări („a urmărit”).",
+    "dict_ro": "Radaf, „a urmări”: Avram „a pornit în urmărire” (14:14) și „i-a urmărit” (14:15) până la Hova; verbul spune goana după dușman."
    },
    {
     "t": " până la "
@@ -2433,7 +2899,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Δαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dan."
+    "def_ro": "dan, unul al sons al Jacob; de asemenea seminție descended de la him, si al sau territory; likewise loc in Palestine colonized de them.",
+    "greek_def_ro": "Δαν (Dan) — Dan, nume propriu.",
+    "dict_ro": "Dan (Dan), „judecător” (Easton): loc în nord, la izvoarele Iordanului, unde Avram ajunge din urmă armata (14:14); numele i se va da mai târziu (Judecători 18:29)."
    },
    {
     "t": "."
@@ -2464,12 +2932,23 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 15:2-3",
    "Judecători 18:29",
-   "Geneza 12:5"
+   "Geneza 12:5",
+   "Geneza 11:27-31",
+   "Geneza 13:8",
+   "Proverbe 17:17"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și-a înarmat (va-yareq).» Ca în Targumul lui: „și a pregătit”. Și tot așa „și voi trage (va-hariqoti) sabia după voi” — Mă voi înarma cu sabia Mea împotriva voastră; și tot așa „voi trage (ariq) sabia mea”; și tot așa „și scoate (ve-hareq) lancea și securea”.<br><br>«Discipolii (ḥanikhav).» Este scris ḥanikho („discipolul său”) (altă versiune: se citește). Acesta este Eliezer, pe care l-a deprins (ḥanakh) cu poruncile. Și este cuvânt pentru începutul intrării omului sau a unei unelte în meșteșugul în care va sta, ca în „deprinde (ḥanokh) pe copil”, „inaugurarea (ḥanukkat) altarului”, „inaugurarea casei”; iar în laʿaz se numește enseigner.<br><br>«Cei trei sute optsprezece etc.» Învățătorii noștri au spus: era numai Eliezer, și acesta este numărul gematriei numelui lui.<br><br>«Până la Dan.» Acolo i-a slăbit puterea, căci a văzut că fiii lui aveau să așeze acolo un vițel."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avram a auzit că fratele lui fusese luat prizonier și i-a înarmat pe tinerii lui, născuți în casa lui, trei sute optsprezece, și i-a urmărit până la Dan."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și când a auzit Avram că fratele lui fusese luat prizonier, i-a înarmat pe tinerii pe care îi deprinsese la război, dintre cei crescuți în casa lui; dar ei n-au vrut să meargă cu el, și a ales dintre ei pe Eliezer, fiul lui Nimrod, care era în vitejie cât toți cei trei sute optsprezece; și a urmărit până la Dan."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -2488,8 +2967,27 @@ window.CHAPTER_DATA = [
     "text": "«Că îi fusese luat prizonier fratele»: ruda lui; iar fiii fraților, iată, sunt ca frații, cum a spus: „căci suntem rude apropiate”.<br><br>«Și-a înarmat» (wa-yareq): le-a dat arme de război; și este verb tranzitiv spre al treilea. Iar „și scoate sulița” (we-hareq ḥanit) și „își vor scoate săbiile” (we-heriqu ḥarvotam) sunt tranzitive spre al doilea.<br><br>«Discipolii» (ḥanikhaw): adjectiv, după tiparul śeridaw, peliṭaw: ucenicii lui, tinerii pe care i-a învățat calea adevărului, să-L slujească pe Domnul; de la „deprinde-l pe copil” (ḥanokh la-naʿar).<br><br>«Născuți în casa sa»: care s-au născut în casa lui din sufletele pe care le făcuseră în Haran și în țara Canaanului; și erau trei sute optsprezece. Iar în midraș: numai pe Eliezer l-a luat cu el, iar valoarea literelor lui este 318. Și dacă este așa, ce va fi „născuți în casa sa”? Dacă nu vrea să spună „și cei născuți în casa sa”.<br><br>«Și a pornit în urmărire până la Dan»: după numele de la urmă; căci, când a scris Moise, învățătorul nostru, aceasta, încă nu se numea așa, ci se numea Leșem; iar când l-au cucerit fiii lui Dan, l-au numit Dan, după numele lui Dan, tatăl lor. Și se poate că era un loc care se numea în acele zile Dan."
    },
    {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și-a înarmat discipolii.» Cei care au fost instruiți din nou cu unelte de război.<br><br>«Până la Dan.» Care a fost numit așa în zilele judecătorilor: „Și au numit Lesem «Dan»”."
+   },
+   {
     "author": "Zohar, Leh Leha 10:24",
     "text": "Ce e scris: «și a auzit Avram că a fost luat fratele său». «Și a auzit Avram» — aceasta e neșamah care a rămas în curățenie în trup. «Că a fost luat fratele său» — acesta e yețer ha-ra care a fost luat între acei vinovați în vinovății multe. «Și a înarmat pe ucenicii săi, născuți în casa sa» — aceștia sunt drepții care se ostenește în Tora, care sunt mădularele trupului, sprinteni să meargă cu el; optsprezece și trei sute — acestea sunt 248 de mădulare ale trupului, și șaptezeci, taina neșamah-ei care iese de acolo. În totul s-a pregătit să meargă acolo către acei vinovați ca să-i întoarcă de la vinovățiile lor."
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și unul care scăpase a venit și i-a spus lui Avram că fiul fratelui său fusese luat rob, și Avram și-a înarmat slujitorii casei.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 24
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
+    "text": "Când Avram a auzit de nenorocirea lor, i-a fost îndată teamă pentru Lot, ruda lui, și i-a fost milă de sodomiți, prietenii și vecinii lui; și, socotind că se cuvine să le dea ajutor, nu a întârziat, ci a pornit în grabă și, în noaptea a cincea, a căzut asupra asirienilor, lângă Dan, căci acesta este numele celuilalt izvor al Iordanului; și, înainte ca ei să apuce să se înarmeze, a ucis pe unii pe când erau în paturile lor, înainte de a bănui vreun rău; iar alții, care nu se duseseră încă la culcare, dar erau atât de beți încât nu puteau lupta, au fugit. Avram i-a urmărit până când, în a doua zi, i-a gonit în masă până la Hoba, un loc ce ține de Damasc; și a arătat prin aceasta că biruința nu atârnă de mulțime și de numărul mâinilor, ci că sârguința și curajul ostașilor biruiesc cele mai numeroase mulțimi de oameni, de vreme ce el a câștigat victoria asupra unei oștiri atât de mari cu nu mai mult de trei sute optsprezece dintre slujitorii lui și trei dintre prietenii lui: iar toți cei care au fugit s-au întors acasă fără glorie."
    }
   ]
  },
@@ -2508,7 +3006,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπέπεσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a împărțit."
+    "def_ro": "s-a împărțit.",
+    "greek_def_ro": "ἐπιπίπτω (epipipto) — a se arunca asupra („a căzut peste ei”).",
+    "dict_ro": "Chalaq, „a împărți”: Avram „și-a împărțit” oamenii (14:15) ca să lovească noaptea din mai multe părți."
    },
    {
     "t": " împotriva lor, "
@@ -2520,9 +3020,11 @@ window.CHAPTER_DATA = [
     "translit": "laylah",
     "strong": "H3915",
     "pos": "substantiv",
-    "greek": "νυκτός",
+    "greek": "τὴν νύκτα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "noaptea."
+    "def_ro": "noapte — propriu-zis, „răsucirea” luminii care se stinge; la figurat, nenorocire.",
+    "greek_def_ro": "νύξ (nyx) — noapte (la acuzativ: „noaptea”).",
+    "dict_ro": "Laila, „noapte”: Avram lovește „noaptea” (14:15); lovitura prin surprindere face din trei sute optsprezece oameni o oaste de temut."
    },
    {
     "t": ", el și "
@@ -2536,7 +3038,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "οἱ παῖδες αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "slujitorii lui."
+    "def_ro": "sclav, rob, slujitor.",
+    "greek_def_ro": "παῖς (pais) — slujitor; „slujitorii lui”.",
+    "dict_ro": "Eved, „rob, slujitor”: Avram lovește cu „slujitorii lui” (14:15), oameni din casa lui; același cuvânt ca la 12:16."
    },
    {
     "t": " lui, și i-a "
@@ -2550,7 +3054,9 @@ window.CHAPTER_DATA = [
     "pos": "verb cu sufix",
     "greek": "ἐπάταξεν αὐτούς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a lovit."
+    "def_ro": "a lovi, a bate, a nimici.",
+    "dict_ro": "Nakah, „a lovi, a nimici”: Chedorlaomer „a lovit” pe refaimiți, zuziți, emimi (14:5) și ținuturile cele din calea lui (14:7); la 14:17 „înfrângerea” lui Chedorlaomer vine de la Avram, adică același verb se întoarce împotriva celui care îl folosea.",
+    "greek_def_ro": "πατάσσω (patasso) — a lovi („i-a lovit”)."
    },
    {
     "t": " și i-a "
@@ -2562,9 +3068,11 @@ window.CHAPTER_DATA = [
     "translit": "vayirdefem",
     "strong": "H7291",
     "pos": "verb cu sufix",
-    "greek": "κατεδίωξεν αὐτοὺς",
+    "greek": "ἐδίωξεν αὐτοὺς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a urmărit."
+    "def_ro": "a run după (de obicei cu hostile intent; figurat [of time] gone de).",
+    "greek_def_ro": "διώκω (dioko) — a urmări („i-a urmărit”).",
+    "dict_ro": "Radaf, „a urmări”: Avram „a pornit în urmărire” (14:14) și „i-a urmărit” (14:15) până la Hova; verbul spune goana după dușman."
    },
    {
     "t": " până la "
@@ -2578,7 +3086,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χωβα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Hova."
+    "def_ro": "chobah, loc în Syria.",
+    "greek_def_ro": "Χωβα (Choba) — Hova, nume propriu.",
+    "dict_ro": "Hova (Chovah), „loc de ascunziș” (Easton): loc la nord de Damasc, până unde îi urmărește Avram (14:15)."
    },
    {
     "t": " care este la miazănoapte de "
@@ -2592,7 +3102,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Δαμασκοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Damasc."
+    "def_ro": "damascus, cetate al Syria.",
+    "greek_def_ro": "Δαμασκός (Damaskos) — Damasc (la genitiv).",
+    "dict_ro": "Damasc (Dammesek), „activitate” (Easton): cel mai vechi oraș din Orient, capitala Siriei (14:15), la vreo 133 de mile nord de Ierusalim."
    },
    {
     "t": "."
@@ -2622,12 +3134,24 @@ window.CHAPTER_DATA = [
   "fidela": "Și s-a împărțit împotriva lor, noaptea, el și servitorii lui, și i-a lovit și i-a urmărit până la Hoba, care este la stânga Damascului.",
   "refs": [
    "2 Samuel 8:5",
-   "Judecători 4:16"
+   "Judecători 4:16",
+   "Psalmul 112:5",
+   "Isaia 41:2,3",
+   "Deuteronomul 15:2",
+   "1 Împărați 15:18"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și s-a împărțit împotriva lor.» După înțelesul simplu, versetul este inversat: „și s-a împărțit, el și slujitorii lui, împotriva lor, noaptea”, ca obiceiul urmăritorilor, care se despart după cei urmăriți, când fug unul încoace și altul încolo.<br><br>«Noaptea.» Adică: după ce s-a întunecat, nu s-a reținut să-i urmărească. Iar midrașul aggadei: noaptea s-a împărțit: în prima ei jumătate i s-a făcut o minune, iar a doua jumătate a fost păstrată și a venit pentru miezul nopții în Egipt („Mițrayim”).<br><br>«Până la Hoba.» Nu este un loc numit Hoba; ci Dan este numit Hoba („vinovăție”), după idolatria care avea să fie acolo."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și s-a împărțit împotriva lor noaptea, el și robii lui, și i-a lovit și i-a urmărit până la Hoba, care este la nord de Damasc."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și noaptea s-a împărțit pentru ei pe drum: o jumătate a luptat cu regii, iar cealaltă jumătate a fost păstrată ca să-i lovească pe întâii născuți în Egipt („Mițrayim”); și s-a ridicat el și slujitorii lui și i-a lovit și i-a urmărit pe cei care rămăseseră dintre ei, până ce și-a amintit de păcatul ce avea să fie în Dan, care este la miazănoapte de Damasc."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
@@ -2644,6 +3168,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și s-a împărțit împotriva lor, noaptea»: când s-a împărțit noaptea asupra lor, adică la miezul nopții, ca să-i ajungă; și a venit asupra lor fără veste, el și slujitorii lui, care sunt discipolii lui. Iar faptul că a spus „s-a împărțit împotriva lor” și nu a spus „și a fost la miezul nopții”: vrea să spună că noaptea s-a împărțit asupra lor; căci până la miezul nopții acești patru regi mergeau fără grijă, iar de la miezul nopții încolo fugeau ca să-și scape viața, când a venit asupra lor Avraam și i-a ajuns și i-a lovit; iar pe cei care fugeau i-a urmărit până la locul numit Hoba, și acesta este la miazănoapte de Damasc; și lovea pe cine ajungea, iar ei fugeau ca să-și scape viața și au lăsat toată avuția și poporul. Iar Avraam s-a întors de la Hoba, de la a-i mai urmări, și a adus înapoi toată avuția."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«L-a lovit și i-a urmărit.» A spus Rabbi Tanḥuma: Oare urmărește omul pe cei uciși? Ci Avraam ucide ceea ce urmărește Sfântul, binecuvântat fie: „i-a lovit” Avraam, „și i-a urmărit” Sfântul, binecuvântat fie.<br><br>«Care este la miazănoapte de Damasc.» Și acolo locuiau cei din familia lui Eliezer, precum a tradus Onkelos la „el este Damasc, Eliezer”, și l-au ajutat pe Avraam din pricina lui Eliezer."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Și s-a împărțit împotriva lor noaptea.» Și-a împărțit oastea în două părți noaptea și a pus peste ele două capete și a venit asupra lor din două părți, și războiul a fost pentru ei în față și în spate, și au fugit."
    }
   ]
  },
@@ -2662,7 +3194,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπέστρεψεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a recuperat."
+    "def_ro": "a se întoarce, a reveni.",
+    "greek_def_ro": "ἀποστρέφω (apostrepho) — a întoarce înapoi („a adus înapoi”).",
+    "dict_ro": "Shuv, „a se întoarce”: aliații „s-au întors” (14:7) din sud spre Ein-Mișpat; același verb spune apoi întoarcerea lui Avram cu prada (14:16) și întoarcerea regelui Sodomei (14:17)."
    },
    {
     "t": " toată "
@@ -2676,7 +3210,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν ἵππον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "averea."
+    "def_ro": "avere, bunuri, tot ce a agonisit cineva.",
+    "greek_def_ro": "ἵππος (hippos) — cal; „cavaleria”, adică oștirea călare și prada ei.",
+    "dict_ro": "Rekush, „avere, bunuri”: biruitorii iau „toată averea Sodomei și a Gomorei” (14:11); Avram o aduce apoi înapoi (14:16) și refuză să ia ceva din ea (14:23)."
    },
    {
     "t": ", l-a "
@@ -2690,7 +3226,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπέστρεψεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-a recuperat."
+    "def_ro": "a se întoarce, a reveni.",
+    "greek_def_ro": "ἀποστρέφω (apostrepho) — a întoarce înapoi („a adus înapoi”).",
+    "dict_ro": "Shuv, „a se întoarce”: aliații „s-au întors” (14:7) din sud spre Ein-Mișpat; același verb spune apoi întoarcerea lui Avram cu prada (14:16) și întoarcerea regelui Sodomei (14:17)."
    },
    {
     "t": " și pe fratele său "
@@ -2702,9 +3240,11 @@ window.CHAPTER_DATA = [
     "translit": "Lot",
     "strong": "H3876",
     "pos": "nume propriu",
-    "greek": "τὸν Λωτ",
+    "greek": "Λωτ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Lot."
+    "def_ro": "Lot — fiul lui Haran, nepotul lui Avram; numele înseamnă „înfășurat, ascuns”.",
+    "greek_def_ro": "Λωτ (Lot) — Lot, nume propriu.",
+    "dict_ro": "Lot (Lot), „înfășurat” (Hitchcock): nepotul lui Avram, care locuia în Sodoma (14:12) și e luat rob; Avram pornește să-l scape."
    },
    {
     "t": " și "
@@ -2716,9 +3256,11 @@ window.CHAPTER_DATA = [
     "translit": "rekhusho",
     "strong": "H7399",
     "pos": "substantiv cu sufix",
-    "greek": "τὴν ἀποσκευὴν αὐτοῦ",
+    "greek": "τὰ ὑπάρχοντα αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "averea lui."
+    "def_ro": "avere, bunuri, tot ce a agonisit cineva.",
+    "greek_def_ro": "ὑπάρχω (hyparcho) — a fi la dispoziție; „averile lui”.",
+    "dict_ro": "Rekush, „avere, bunuri”: biruitorii iau „toată averea Sodomei și a Gomorei” (14:11); Avram o aduce apoi înapoi (14:16) și refuză să ia ceva din ea (14:23)."
    },
    {
     "t": " sa, și "
@@ -2732,7 +3274,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὰς γυναῖκας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "femeile."
+    "def_ro": "femeie, soție; despre animale, „femela”.",
+    "greek_def_ro": "γυνή (gyne) — femeie (la acuzativ plural: „femeile”).",
+    "dict_ro": "Ishah, „femeie, soție”: Avram aduce înapoi „femeile și poporul” (14:16), adică pe toți captivii luați de la Sodoma."
    },
    {
     "t": " și "
@@ -2746,7 +3290,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸν λαόν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "poporul."
+    "def_ro": "popor, neam; mulțime de oameni care aparțin laolaltă.",
+    "greek_def_ro": "λαός (laos) — popor („poporul”).",
+    "dict_ro": "Am, „popor”: „poporul” (14:16) numește oamenii luați prinși; Avram îi readuce pe toți, nu doar pe Lot."
    },
    {
     "t": "."
@@ -2761,7 +3307,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἀπέστρεψεν πᾶσαν τὴν ἵππον Σοδομων καὶ Λωτ τὸν ἀδελφὸν αὐτοῦ ἀπέστρεψεν καὶ πάντα τὰ ὑπάρχοντα αὐτοῦ καὶ τὰς γυναῖκας καὶ τὸν λαόν",
+    "original": "καὶ ἀπέστρεψεν πᾶσαν τὴν ἵππον Σοδομων καὶ Λωτ τὸν ἀδελφὸν αὐτοῦ ἀπέστρεψεν καὶ τὰ ὑπάρχοντα αὐτοῦ καὶ τὰς γυναῖκας καὶ τὸν λαόν",
     "greek": true,
     "translation": "",
     "note": ""
@@ -2775,9 +3321,21 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și a adus înapoi toate averile și de asemenea a adus înapoi pe fratele său Lot și averile lui, și femeile de asemenea și poporul.",
   "refs": [
-   "Geneza 13:11"
+   "Geneza 13:11",
+   "Geneza 14:11,12",
+   "Geneza 12:2",
+   "1 Samuel 30:8,18,19",
+   "Isaia 41:2"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și a adus înapoi toată averea; și pe Lot, fiul fratelui său, și averea lui le-a adus înapoi, și pe femei și pe popor."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a adus înapoi toată averea, și de asemenea pe Lot, fratele lui, și averea lui a adus-o înapoi, și de asemenea pe femei și pe popor."
+   },
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Și femeile.» Ale lui Lot, pe care ar fi trebuit să le răscumpere.<br><br>«Și poporul.» Prizonierii dintre oamenii Sodomei; și pe aceștia i-a cerut regele Sodomei de la Avraam, când a spus: „Dă-mi oamenii.”"
@@ -2785,6 +3343,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și femeile și poporul»: pe care i-au luat prizonieri; pe toți i-a adus înapoi, ca să facă cunoscut că nu au omorât pe nimeni dintre prizonieri."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«L-a recuperat și pe fratele său Lot etc.» Deși esența urmăririi lui era pentru el și pe el trebuia să-l pună înainte, Scriptura a făcut cunoscută rânduiala izbânzilor pe calea lui „lo zo af zo” (nu numai aceasta, ci și aceasta): prima – a recuperat averea regilor, izbânda a doua – că l-a recuperat pe Lot și regii nu l-au ars când au văzut că sunt în război cu Avraam, spre răzbunare. Și Scriptura a făcut cunoscut că a dat atenție să recupereze femeile și pruncii pentru cinstea pe care au făcut-o lui Lot."
    }
   ]
  },
@@ -2801,9 +3363,11 @@ window.CHAPTER_DATA = [
     "translit": "melekh",
     "strong": "H4428",
     "pos": "substantiv, stare construită",
-    "greek": "ὁ βασιλεὺς",
+    "greek": "βασιλεὺς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "regele."
+    "def_ro": "rege, împărat.",
+    "greek_def_ro": "βασιλεύς (basileus) — rege.",
+    "dict_ro": "Melech, „rege”: capitolul 14 pomenește regi numeroși (14:1–24): coaliția celor patru, cei cinci regi ai câmpiei, Melchisedec, regele Salemului; între ei stă Avram, fără titlu, dar cu mai mare putere morală."
    },
    {
     "t": " "
@@ -2817,7 +3381,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σοδομων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sodomei."
+    "def_ro": "Sodoma — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Σόδομα (Sodoma) — Sodoma, nume propriu (la genitiv).",
+    "dict_ro": "Sodoma (Sedom): cetate din valea Sidim; regele ei fuge în valea smoalei (14:10), iar mai târziu cere lui Avram oamenii rămași (14:21)."
    },
    {
     "t": " i-a "
@@ -2825,13 +3391,15 @@ window.CHAPTER_DATA = [
    {
     "t": "ieșit în întâmpinare",
     "w": "ieșit în întâmpinare",
-    "heb": "וַיֵּצֵא לִקְרָאתוֹ",
+    "heb": "וַיֵּצֵא",
     "translit": "vayetse likrato",
     "strong": "H3318",
     "pos": "verb",
-    "greek": "ἐξῆλθεν εἰς συνάντησιν αὐτῷ",
+    "greek": "ἐξῆλθεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a ieșit în întâmpinare."
+    "def_ro": "i-a ieșit în întâmpinare.",
+    "greek_def_ro": "ἐξέρχομαι (exerchomai) — a ieși.",
+    "dict_ro": "Yatsa, „a ieși”: regii „au ieșit” la luptă (14:8), iar regele Sodomei „a ieșit în întâmpinare” (14:17); verbul face din război și din întâlnire o ieșire din aceeași cetate."
    },
    {
     "t": " după ce s-a "
@@ -2843,9 +3411,11 @@ window.CHAPTER_DATA = [
     "translit": "shuvo",
     "strong": "H7725",
     "pos": "verb, infinitiv",
-    "greek": "ὑποστρέψαι αὐτὸν",
+    "greek": "ἀναστρέψαι αὐτὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a întors."
+    "def_ro": "a se întoarce, a reveni.",
+    "greek_def_ro": "ἀναστρέφω (anastrepho) — a se întoarce; „după întoarcerea lui”.",
+    "dict_ro": "Shuv, „a se întoarce”: aliații „s-au întors” (14:7) din sud spre Ein-Mișpat; același verb spune apoi întoarcerea lui Avram cu prada (14:16) și întoarcerea regelui Sodomei (14:17)."
    },
    {
     "t": " după "
@@ -2857,9 +3427,11 @@ window.CHAPTER_DATA = [
     "translit": "hakot",
     "strong": "H5221",
     "pos": "verb (infinitiv), cu articol",
-    "greek": "κόψαι",
+    "greek": "κοπῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "înfrângerea."
+    "def_ro": "a lovi, a bate, a nimici.",
+    "dict_ro": "Nakah, „a lovi, a nimici”: Chedorlaomer „a lovit” pe refaimiți, zuziți, emimi (14:5) și ținuturile cele din calea lui (14:7); la 14:17 „înfrângerea” lui Chedorlaomer vine de la Avram, adică același verb se întoarce împotriva celui care îl folosea.",
+    "greek_def_ro": "κοπή (kope) — tăiere, înfrângere (la genitiv)."
    },
    {
     "t": " lui "
@@ -2871,9 +3443,11 @@ window.CHAPTER_DATA = [
     "translit": "Kedorla'omer",
     "strong": "H3540",
     "pos": "nume propriu",
-    "greek": "τὸν Χοδολλογομορ",
+    "greek": "τοῦ Χοδολλογομορ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Chedorlaomer."
+    "def_ro": "Chedorlaomer — regele Elamului, căpetenia aliaților.",
+    "greek_def_ro": "Χοδολλογομορ (Chodollogomor) — Chedorlaomer (la genitiv).",
+    "dict_ro": "Chedorlaomer (Kedorlaomer), „rotunjimea unui snop” (Hitchcock): regele Elamului, căpetenia aliaților (14:1–9); după Easton, numele corespunde lui Khudur-Lagamar din inscripții, iar domnia babiloniană a urmașilor lui se întindea până în Siria."
    },
    {
     "t": " și a "
@@ -2885,9 +3459,11 @@ window.CHAPTER_DATA = [
     "translit": "hamelakhim",
     "strong": "H4428",
     "pos": "substantiv, cu articol",
-    "greek": "τοὺς βασιλεῖς",
+    "greek": "βασιλέων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "regilor."
+    "def_ro": "rege, împărat.",
+    "greek_def_ro": "βασιλεύς (basileus) — rege (la genitiv plural: „ai regilor”).",
+    "dict_ro": "Melech, „rege”: capitolul 14 pomenește regi numeroși (14:1–24): coaliția celor patru, cei cinci regi ai câmpiei, Melchisedec, regele Salemului; între ei stă Avram, fără titlu, dar cu mai mare putere morală."
    },
    {
     "t": " care erau cu el, în "
@@ -2901,7 +3477,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν κοιλάδα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "valea."
+    "def_ro": "vale (adică broad depression).",
+    "greek_def_ro": "κοιλάς (koilas) — vale (la acuzativ).",
+    "dict_ro": "Emeq, „vale, câmpie adâncă”: valea Sidim (14:3, 8, 10) și valea Șave (14:17) sunt locurile luptei și ale întâlnirii cu regele Sodomei."
    },
    {
     "t": " "
@@ -2915,7 +3493,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαυη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Șave."
+    "def_ro": "shaveh, loc în Palestine.",
+    "greek_def_ro": "Σαυη (Saue) — Șave, nume propriu.",
+    "dict_ro": "Șave (Shaveh), „câmpia” (Hitchcock): „valea Șave, adică valea Regelui” (14:17), unde regele Sodomei iese în întâmpinarea lui Avram; mai târziu Absalom își ridică acolo un stâlp (2 Samuel 18:18)."
    },
    {
     "t": ", care este "
@@ -2929,7 +3509,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸ πεδίον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "valea."
+    "def_ro": "vale (adică broad depression).",
+    "greek_def_ro": "πεδίον (pedion) — câmpie („câmpia”).",
+    "dict_ro": "Emeq, „vale, câmpie adâncă”: valea Sidim (14:3, 8, 10) și valea Șave (14:17) sunt locurile luptei și ale întâlnirii cu regele Sodomei."
    },
    {
     "t": " "
@@ -2943,7 +3525,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "βασιλέως",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "regelui."
+    "def_ro": "rege, împărat.",
+    "greek_def_ro": "βασιλεύς (basileus) — rege (la genitiv: „al regelui”).",
+    "dict_ro": "Melech, „rege”: capitolul 14 pomenește regi numeroși (14:1–24): coaliția celor patru, cei cinci regi ai câmpiei, Melchisedec, regele Salemului; între ei stă Avram, fără titlu, dar cu mai mare putere morală."
    },
    {
     "t": "."
@@ -2958,7 +3542,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "ἐξῆλθεν δὲ βασιλεὺς Σοδομων εἰς συνάντησιν αὐτῷ μετὰ τὸ ἀναστρέψαι αὐτὸν ἀπὸ τῆς κοπῆς τοῦ Χοδολλογομορ καὶ τῶν βασιλέων τῶν μετ᾿ αὐτοῦ εἰς τὴν κοιλάδα τὴν Σαυη (τοῦτο ἦν τὸ πεδίον βασιλέως)",
+    "original": "ἐξῆλθεν δὲ βασιλεὺς Σοδομων εἰς συνάντησιν αὐτῷ μετὰ τὸ ἀναστρέψαι αὐτὸν ἀπὸ τῆς κοπῆς τοῦ Χοδολλογομορ καὶ τῶν βασιλέων τῶν μετ᾿ αὐτοῦ εἰς τὴν κοιλάδα τὴν Σαυη τοῦτο ἦν τὸ πεδίον βασιλέως",
     "greek": true,
     "translation": "",
     "note": ""
@@ -2972,7 +3556,11 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și împăratul Sodomei a ieșit să îl întâlnească, după ce s-a întors de la înfrângerea lui Chedorlaomer și a împăraților care erau cu el, la valea lui Șave, care este valea împăratului.",
   "refs": [
-   "2 Samuel 18:18"
+   "2 Samuel 18:18",
+   "1 Samuel 18:6",
+   "Proverbe 14:20",
+   "Proverbe 19:4",
+   "Evrei 7:1"
   ],
   "commentaries": [
    {
@@ -2980,12 +3568,32 @@ window.CHAPTER_DATA = [
     "text": "«Valea Șave.» Așa este numele ei; ca în Targumul lui: „la câmpia deschisă” — curată de copaci și de orice piedică.<br><br>«Valea regelui.» Locul ristei regelui: o ristă, adică treizeci de prăjini, care era pusă deoparte pentru rege, ca să se joace acolo. Iar midrașul aggadei: „valea Șave” — căci acolo s-au pus de acord (hișvu) toate neamurile și l-au făcut rege peste ele pe Avraam, „căpetenie a lui Dumnezeu” și conducător."
    },
    {
+    "author": "Targum Onkelos",
+    "text": "Și regele Sodomei a ieșit în întâmpinarea lui, după ce s-a întors de la lovirea lui Chedorlaomer și a regilor care erau cu el, în câmpia Mifna, adică locul hipodromului regelui."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a ieșit regele Sodomei în întâmpinarea lui, după ce s-a întors de la lovirea lui Chedorlaomer și a regilor care erau cu el, la câmpia Mafna, aceasta este Beit Risa a regelui."
+   },
+   {
     "author": "Radak (cca. 1160–1235)",
     "text": "«În valea Șave.» Locul acela era un loc de alergare a cailor, pentru că era neted, nici nu urca, nici nu cobora. Și se numea valea regelui pentru că regele și călăreții lui își încercau acolo caii la alergare. Iar Onkelos a tradus Šaweh: „Mefana”, adică era gol: nu erau acolo pietre, nici copaci, nici ierburi. Și a tradus „valea regelui”: „Bet Risa de-Malka”; iar risul este de treizeci de prăjini, cu prăjina de măsură, iar prăjina este de șase coți, cu cotul de șase palme; și aceasta este măsura alergării cailor."
    },
    {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Iar regele Sodomei i-a ieșit în întâmpinare.» „Și regele Sodomei a ieșit” din puțurile în care se ascunsese; și tot războiul a fost din pricina lui, căci Scriptura l-a pomenit întâi, pentru că era cel mai mare dintre toți; de aceea a ieșit el singur în întâmpinarea lui Avraam ca să-i vorbească."
+   },
+   {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "„Valea regelui” (Emek HaMelekh) e menționată din nou mult mai târziu, la 2 Samuel 18:18, ca locul unde Absalom și-a ridicat un monument — o continuitate geografică remarcabilă între epoca patriarhilor și epoca regilor unificați ai Israelului."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
+    "text": "Așadar, Avram, după ce i-a salvat pe sodomiții robiți, care fuseseră luați de asirieni, și pe Lot, ruda lui, s-a întors acasă în pace. Regele Sodomei l-a întâmpinat într-un anumit loc, pe care îl numeau Valea Regelui, unde Melhisedec, regele cetății Salem, l-a primit. Acest nume înseamnă regele cel drept: și așa era el, fără îndoială, încât, din această pricină, a fost făcut preot al lui Dumnezeu; totuși, mai târziu au numit Salemul Ierusalim. Acest Melhisedec a dat oștirii lui Avram un ospăț cu inimă primitoare și le-a dat merinde din belșug; iar în timp ce ei ospătau, a început să-l laude și să-L binecuvânteze pe Dumnezeu că a supus pe vrăjmașii lui sub el. Iar când Avram i-a dat a zecea parte din prada sa, el a primit darul: dar regele Sodomei l-a rugat pe Avram să ia prada, însă a stăruit să-i fie înapoiați acei oameni pe care Avram i-a salvat de la asirieni, pentru că îi aparțineau lui. Dar Avram nu a vrut să facă așa; și nu a vrut să tragă din acea pradă alt folos decât ceea ce mâncaseră slujitorii lui; dar a stăruit totuși ca el să dea o parte prietenilor săi care îl ajutaseră în luptă. Cel dintâi dintre ei se numea Eșcol, apoi Ener și Mamre."
+   },
+   {
+    "author": "Ioan Gură de Aur, Omilii la Facere",
+    "text": "Vezi aici, în fiecare întâmplare, cum omul drept se face remarcat și arată tuturor, de fiecare dată, purtarea de grijă a lui Dumnezeu față de el? Acum îl vezi și plin de râvnă să se dovedească învățător al evlaviei pentru sodomiți. „Regele Sodomei”, spune Scriptura, ține minte, „a ieșit înaintea lui la întoarcerea lui din înfrângerea lui Chedorlaomer și a regilor care erau cu el.” Observă întinderea virtuții lui și bucuria ajutorului de la Dumnezeu. Regele iese în întâmpinarea acestui străin, înaintat în vârstă, și îi arată mare cinste. Aflase, vezi, că folosul împărăției nu înseamnă nimic pentru cel care nu are ajutor de sus și că nimic nu poate fi mai tare decât mâna lui Dumnezeu ridicată spre ajutor."
    }
   ]
  },
@@ -3004,7 +3612,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Μελχισεδεκ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Malhițedek — literal „regele cel drept”."
+    "def_ro": "Malhițedek — literal „regele cel drept”.",
+    "greek_def_ro": "Μελχισεδεκ (Melchisedek) — Melchisedec, nume propriu.",
+    "dict_ro": "Malchi-Țedek (Malki Tsedek), „rege al dreptății” (Easton): regele Salemului (14:18), pomenit apoi numai în Psalmul 110:4; Evrei 7 vede în el o preînchipuire a lui Hristos."
    },
    {
     "t": ", regele "
@@ -3018,7 +3628,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαλημ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Șalemului."
+    "def_ro": "shalem, early nume al Jerusalem.",
+    "greek_def_ro": "Σαλημ (Salem) — Salem, nume propriu.",
+    "dict_ro": "Salem (Shalem), „pace” (Easton): se socotește un alt nume al Ierusalimului (14:18; Psalmul 76:2)."
    },
    {
     "t": ", a "
@@ -3032,7 +3644,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξήνεγκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a adus."
+    "def_ro": "a scoate, a ieși — verb de mișcare cu aplicații foarte variate.",
+    "greek_def_ro": "ἐκφέρω (ekphero) — a scoate afară („a scos”).",
+    "dict_ro": "Yatsa, „a ieși”: regii „au ieșit” la luptă (14:8), iar regele Sodomei „a ieșit în întâmpinare” (14:17); verbul face din război și din întâlnire o ieșire din aceeași cetate."
    },
    {
     "t": " "
@@ -3046,7 +3660,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἄρτους",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pâine."
+    "def_ro": "pâine; la figurat, hrană în general.",
+    "greek_def_ro": "ἄρτος (artos) — pâine (la plural: „pâini”).",
+    "dict_ro": "Lechem, „pâine”: Melchisedec scoate „pâine și vin” (14:18) pentru Avram și oamenii lui; gest de ospitalitate și binecuvântare."
    },
    {
     "t": " și "
@@ -3060,7 +3676,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "οἶνον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vin."
+    "def_ro": "vin — băutura obținută din sucul fermentat al strugurilor.",
+    "greek_def_ro": "οἶνος (oinos) — vin (la acuzativ).",
+    "dict_ro": "Yayin, „vin”: „pâine și vin” (14:18) aduse de Melchisedec; vinul, de la 9:21, își reia aici locul de binecuvântare."
    },
    {
     "t": ", el fiind "
@@ -3074,7 +3692,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἱερεὺς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "preot."
+    "def_ro": "literal unul officiating, preot; de asemenea (de courtesy) acting preot (although layman).",
+    "greek_def_ro": "ἱερεύς (hiereus) — preot.",
+    "dict_ro": "Cohen, „preot”: Melchisedec e „preot al Dumnezeului Preaînalt” (14:18), singurul preot pomenit în Facere înainte de legea lui Moise."
    },
    {
     "t": " al "
@@ -3088,7 +3708,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τοῦ Θεοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeului."
+    "def_ro": "strength; ca adjective, puternic; in special Almighty (dar folosit de asemenea al orice deity).",
+    "greek_def_ro": "Θεός (Theos) — Dumnezeu (la genitiv: „prin Dumnezeu”).",
+    "dict_ro": "El, „Dumnezeu”: „Dumnezeul Preaînalt” (14:18–22), El Elyon: numele cu care Melchisedec îl binecuvântează pe Avram, iar Avram, la 14:22, îl identifică cu DOMNUL."
    },
    {
     "t": " "
@@ -3102,7 +3724,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "τοῦ ὑψίστου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Preaînalt — ebr. El-Elion."
+    "def_ro": "Preaînalt — ebr. El-Elion.",
+    "greek_def_ro": "ὕψιστος (hypsistos) — Preaînalt; „al Celui Preaînalt”.",
+    "dict_ro": "Elyon, „Preaînalt”: nume al lui Dumnezeu, „Preaînaltul” (14:18–22), „Cel ce a creat cerul și pământul”; revine în Psalmi și la Daniel."
    },
    {
     "t": "."
@@ -3133,12 +3757,23 @@ window.CHAPTER_DATA = [
   "refs": [
    "Matei 26:26",
    "Psalmul 76:2",
-   "Evrei 7:1-4"
+   "Evrei 7:1-4",
+   "Evrei 7:1,2",
+   "Matei 26:26-29",
+   "Galateni 6:10"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Iar Melhisedec.» Midrașul aggadei: acesta este Sem, fiul lui Noe.<br><br>«Pâine și vin.» Așa se face celor obosiți de război; și i-a arătat că nu are nimic în inima lui împotriva lui, pentru că îi ucisese pe fiii lui. Iar midrașul aggadei: i-a făcut aluzie la ofrandele de făină și la libațiile pe care aveau să le aducă acolo fiii lui."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Malchițedec, regele Ierusalimului, a scos pâine și vin; și el slujea înaintea Dumnezeului Preaînalt."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și regele drept — acesta este Sem, fiul lui Noe —, regele Ierusalimului, a ieșit în întâmpinarea lui Avram și i-a scos pâine și vin; în vremea aceea el slujea înaintea Dumnezeului Preaînalt."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -3165,8 +3800,24 @@ window.CHAPTER_DATA = [
     "text": "«Iar Melhisedec, regele Salemului»: acesta este Ierusalimul; și la fel este scris: „și în Salem a fost coliba Lui”. Iar regii Ierusalimului se numeau Malki-Țedek, de la Adoni-Țedek; și la fel este scris în cartea lui Iosua: „Adoni-Țedek, regele Ierusalimului”; căci Ierusalimul este locul dreptății și al păcii; nu va suferi nedreptatea, silnicia și fapta urâciunii vreme îndelungată; de aceea îi varsă pe păcătoșii care locuiesc în el, cum a spus: „Să nu vă verse țara pentru că ați pângărit-o, precum a vărsat pe neamul care era înaintea voastră”, și a spus: „dumnezeii străini de țara”; căci este în dreptul liniei ecuatorului, și văzduhul lui este temperat; și la fel a spus: „frumos ca înălțime, bucuria întregului pământ”. Și au spus în midraș că Melhisedec este Sem, fiul lui Noe.<br><br>«A adus pâine și vin.» Pentru că veneau de la război obosiți, a adus pâine și vin.<br><br>«El fiind preot al Dumnezeului Preaînalt»: nu al stelelor și al constelațiilor, ci numai Dumnezeului Preaînalt Îi slujea și Îl cinstea, ca Avraam și cei alipiți lui."
    },
    {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«A adus pâine și vin.» După curgerea vorbirii, ar fi trebuit să scrie „Și regele Sodomei i-a spus lui Avram” imediat după „Și regele Sodomei i-a ieșit în întâmpinare”; ci pentru că Avraam avea să spună „dacă am luat fie și un fir de ață sau o curea de încălțăminte”, cei care aud ar spune: Dacă este așa cum spune Avraam, din ce se hrănește el și toți oamenii oștirii lui? Și de aceea a întrerupt și a scris între timp „Iar Melhisedec, regele Salemului, a adus pâine și vin”, ca să ne învețe că adevăr i-a răspuns Avraam regelui Sodomei, „dacă voi lua din tot ce este al tău”; ci s-a bucurat de ale lui Melhisedec. Altă explicație: „Și Melhisedec” a adus pâine și vin care erau netrecute prin dijmuire (tevel), ca să dea Avraam zeciuială din ele; căci am găsit că Avraam era preot, precum a explicat."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«A adus pâine și vin.» În întâmpinarea lui Avram, ca să-i hrănească pe oamenii lui, obosiți de război, precum au făcut Șobi fiul lui Nahaș, Machir fiul lui Amiel și Barzilai pentru David în războiul lui Absalom."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Iar Melhisedec etc.» Rabinii noștri au spus că el este Sem. Iar motivul pentru care a întrerupt cu chestiunea regelui Salemului între ieșirea regelui Sodomei și vestirea cuvintelor lui către Avraam etc. este ca să spună lauda drepților, ce deosebire este între ei și cei răi, căci regele Sodomei a ieșit în întâmpinarea lui Avraam să-i vadă fața cu mâinile goale, deși lui i se cuvenea să întâmpine fața lui Avraam cu dar după mâna regelui, iar cel rău a ieșit cu mâini goale, iar Sem cel drept, fără îndatorire de generozitate, a sfătuit și i-a întâmpinat fața cu pâine și vin.<br><br>Încă va voi, pe calea spuselor lor, binecuvântată fie amintirea lor: a împlinit părintele nostru Avraam chiar și ʿeruvei tavșilin, care sunt rânduieli ale rabinilor. Și de aceea Scriptura ne-a făcut cunoscut că Avraam era prinț și mare și cinstit în ochii tuturor, și când i-a ieșit în întâmpinare regele Sodomei, în mod obișnuit îi va întâmpina fața cu dar de pâine pentru el și slujitorii lui și oamenii lui de război, și din partea că Avraam s-ar fi ferit de mâncarea lor, de pâine din pricina pâinii neamurilor, iar de vin din pricina vinului lor nedefinit, de aceea s-a înțelepțit și s-a străduit regele Sodomei să facă darul mâncării prin mâna unui om de încredere, care este Sem, și din mâna lui Sem în mâna lui Avraam. Și o noutate ne-a făcut cunoscut Scriptura: că chiar și pâinea și vinul, care nu sunt decât de la rabini, Avraam a fost scrupulos, și cu atât mai mult în celelalte lucruri în care este bănuiala unei interdicții din Tora.<br><br>Încă va voi Scriptura să facă cunoscut motivul pentru care i-a venit în gând regelui Sodomei să-i spună lui Avraam „iar averea ia-o pentru tine”, și nu a cerut totul. Pentru aceasta a spus „și regele Sodomei a ieșit în întâmpinarea lui”, iar după ieșirea lui a ieșit regele Salemului etc. „și Avraam i-a dat zeciuială din toate”. Din aceasta a simțit regele Sodomei că aceasta arată că bunurile sunt ale lui, căci nimeni nu dă zeciuială din ceea ce nu este al lui. De aceea a cerut de la el sufletele, iar averea: voi fi de acord cu părerea ta să le iei pentru tine, iar aceasta este spusa „ia-o pentru tine”, și iată aceasta arată că mai avea o pretenție să rețină totul. Și ca să nu intre cu el în dispută a făcut compromis și a spus: dă-mi sufletele, iar averea nu voi coborî cu tine la judecată, ci iată sunt de acord să o iei. Și vezi motivul lucrului în explicația versetului „dă-mi sufletele”.<br><br>«Iar el era preot etc.» Explicația: el este preot, dar sămânța lui nu este preoțească, căci preoția a fost dată lui Avraam, după cum este scris: „Tu ești preot pentru totdeauna”. Iar spusa „ʿal dibrati Melhisedec” – căci el l-a binecuvântat pe Avraam ca să fie preot al Dumnezeului Preaînalt, și de bunăvoie a dat lucrul lui Avraam, după cum voi lămuri.<br><br>Iar spusa „Dumnezeului Preaînalt”, fiindcă ei aveau divinități intermediare, cum este cunoscut celor nechibzuiți, a spus că acesta este preot al Dumnezeului Preaînalt deasupra tuturor divinităților pe care le aveau atunci. Iar rabinii noștri, binecuvântată fie amintirea lor, au spus că pentru păcatul că a pus înainte binecuvântarea lui Avraam față de binecuvântarea Creatorului său i s-a luat preoția, iar după cuvintele lor, binecuvântată fie amintirea lor, spusa „și el era preot” se va explica și ca o micșorare de acolo încolo, că Scriptura l-a micșorat pentru păcatul lui spus în lucru, și deși a pus înainte micșorarea față de păcat, ce înseamnă aceasta, căci Tora a fost scrisă după aceea."
+   },
+   {
     "author": "Talmudul Babilonian",
     "text": "În lucru: traducerea acestui comentariu urmează."
+   },
+   {
+    "author": "Efrem Sirul, Comentariu la Facere",
+    "text": "Acest Melchisedec este Șem, care a ajuns rege prin măreția lui; el era capul a paisprezece neamuri. În plus, „era preot”. Aceasta a primit-o de la Noe, tatăl său, prin dreptul de moștenire. Șem a trăit nu numai până în vremea lui Avraam, cum spune Scriptura, ci până la [vremea lui] Iacov și Esau, nepoții lui Avraam. La el s-a dus Rebeca să întrebe și i s-a spus: „Două neamuri sunt în pântecele tău, iar cel mai mare va sluji celui mai mic.” Rebeca n-ar fi trecut peste soțul ei, care fusese izbăvit la locul înalt, sau peste socrul ei, căruia îi veneau neîncetat descoperiri ale dumnezeirii, ca să meargă drept să întrebe pe Melchisedec, dacă n-ar fi aflat de măreția lui de la Avraam sau de la fiul lui Avraam."
    }
   ]
  },
@@ -3183,9 +3834,11 @@ window.CHAPTER_DATA = [
     "translit": "vayevarkhehu",
     "strong": "H1288",
     "pos": "verb cu sufix",
-    "greek": "εὐλόγησεν αὐτὸν",
+    "greek": "ηὐλόγησεν τὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-a binecuvântat."
+    "def_ro": "a binecuvânta; la forma pasivă, „binecuvântat”: cel peste care se cheamă binecuvântarea.",
+    "greek_def_ro": "εὐλογέω (eulogeo) — a binecuvânta („a binecuvântat pe”).",
+    "dict_ro": "Barak, „a binecuvânta”: Melchisedec îl binecuvântează pe Avram (14:19) și binecuvântează pe Dumnezeu (14:20): binecuvântarea merge în ambele direcții."
    },
    {
     "t": " și a "
@@ -3199,7 +3852,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a spus."
+    "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+    "dict_ro": "Amar, „a spune”: Melchisedec „a zis” binecuvântarea (14:19); regele Sodomei „a zis” cererea (14:21); Avram „a zis” refuzul (14:22): trei cuvinte, trei puteri.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": ": „"
@@ -3213,7 +3868,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "εὐλογημένος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Binecuvântat."
+    "def_ro": "a binecuvânta; la forma pasivă, „binecuvântat”: cel peste care se cheamă binecuvântarea.",
+    "greek_def_ro": "εὐλογέω (eulogeo) — a binecuvânta; la participiu pasiv, „binecuvântat”.",
+    "dict_ro": "Barak, „a binecuvânta”: Melchisedec îl binecuvântează pe Avram (14:19) și binecuvântează pe Dumnezeu (14:20): binecuvântarea merge în ambele direcții."
    },
    {
     "t": " este "
@@ -3227,7 +3884,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 14 iese din rolul de păstor și devine războinic, apoi preot-binecuvântat de Melchisedec și om de cuvânt care refuză prada."
    },
    {
     "t": " de către "
@@ -3241,7 +3900,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῷ Θεῷ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeul."
+    "def_ro": "strength; ca adjective, puternic; in special Almighty (dar folosit de asemenea al orice deity).",
+    "greek_def_ro": "Θεός (Theos) — Dumnezeu (la dativ: „lui Dumnezeu”).",
+    "dict_ro": "El, „Dumnezeu”: „Dumnezeul Preaînalt” (14:18–22), El Elyon: numele cu care Melchisedec îl binecuvântează pe Avram, iar Avram, la 14:22, îl identifică cu DOMNUL."
    },
    {
     "t": " "
@@ -3255,7 +3916,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "τῷ ὑψίστῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Preaînalt."
+    "def_ro": "elevation, adică (adj.) lofty (compar.); ca title, Supreme.",
+    "greek_def_ro": "ὕψιστος (hypsistos) — Preaînalt (la dativ: „de Cel Preaînalt”).",
+    "dict_ro": "Elyon, „Preaînalt”: nume al lui Dumnezeu, „Preaînaltul” (14:18–22), „Cel ce a creat cerul și pământul”; revine în Psalmi și la Daniel."
    },
    {
     "t": ", "
@@ -3269,7 +3932,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu",
     "greek": "ὃς ἔκτισεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Creatorul."
+    "def_ro": "a erect, adică crea; de extension, a procure, in special de purchase (causatively, sell); de implicație a own.",
+    "greek_def_ro": "κτίζω (ktizo) — a crea („Care a creat”).",
+    "dict_ro": "Qanah, „a dobândi, a crea”: Dumnezeu e „Creatorul cerului și al pământului” (14:19, 22); cuvântul spune și stăpânirea dobândită prin creație."
    },
    {
     "t": " "
@@ -3283,7 +3948,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸν οὐρανὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cerurilor."
+    "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
+    "dict_ro": "Shamayim, „ceruri”: Melchisedec și Avram numesc pe Dumnezeu „Creatorul cerurilor și al pământului” (14:19, 22): cerul și pământul spun totul creat, de la El.",
+    "greek_def_ro": "οὐρανός (ouranos) — cer (la acuzativ: „cerul”)."
    },
    {
     "t": " și "
@@ -3297,7 +3964,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν γῆν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământului."
+    "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+    "greek_def_ro": "γῆ (ge) — pământ, țară.",
+    "dict_ro": "Erets, „pământ”: „cer și pământ” (14:19, 22) spune totul creat; Avram jură pe Dumnezeul acesta că nu va lua nimic (14:22–23)."
    },
    {
     "t": "."
@@ -3326,12 +3995,25 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și l-a binecuvântat și a spus: Binecuvântat fie Avram de Dumnezeul cel preaînalt, întemeietorul cerului și al pământului,",
   "refs": [
-   "Geneza 24:3"
+   "Geneza 24:3",
+   "Geneza 27:4,25-29",
+   "Geneza 47:7,10",
+   "Geneza 48:9-16",
+   "Geneza 49:28",
+   "Numeri 6:23-27"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Creatorul (qoneh) cerurilor și pământului.» Ca în „Cel ce a făcut cerurile și pământul”; prin facerea lor le-a dobândit (qanan), ca să fie ale Lui."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și l-a binecuvântat și a zis: „Binecuvântat este Avram de Dumnezeul Preaînalt, a Cărui stăpânire sunt cerurile și pământul."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și l-a binecuvântat și a zis: „Binecuvântat este Avram de la Domnul, Dumnezeul Preaînalt, care, pentru cei drepți, a dobândit cerurile și pământul."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
@@ -3346,12 +4028,35 @@ window.CHAPTER_DATA = [
     "text": "«Creatorul» (qoneh). Nu este în sensul de a cumpăra de la altul, ci este ca și cum ar fi spus: Făcătorul sau Cel care aduce în ființă; și la fel „Am dobândit un om” (qaniti), cum am explicat."
    },
    {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Binecuvântat este Avram de către Dumnezeul Preaînalt.» L-a binecuvântat mai întâi pentru că s-a oferit de bunăvoie să meargă să-și salveze ruda, și după aceea „și binecuvântat este Dumnezeul Preaînalt”, care a fost cu el și i-a dat pe dușmanii lui în mâna lui.<br><br>«Creatorul cerurilor și pământului.» L-a lăudat cu acest limbaj pentru că a văzut în zilele lui lume zidită, pustiită și zidită."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«El l-a binecuvântat și a spus etc.» Trebuie să știm dacă binecuvântarea cu care l-a binecuvântat este cea pomenită în chestiunea „binecuvântat este Avram”, dacă așa, nu trebuia să spună „l-a binecuvântat”, iar mie mi se pare că spusa lui „binecuvântat este Avram” este chiar binecuvântarea lui. Încă ar fi trebuit să spună „l-a binecuvântat spunând: binecuvântat” etc., pe calea spusei: „Și i-a binecuvântat în ziua aceea, spunând” etc.<br><br>Însă intenția este: la început l-a binecuvântat pe Avraam, explicația: o binecuvântare care îl privește pe el, să nu cadă în mâna dușmanilor lui și să-i întărească oastea, care sunt binecuvântări trupești. Și după aceea a spus o altă chestiune, din partea cea de sus vorbește, „binecuvântat este Avram”, iar binecuvântarea lui va fi pentru Dumnezeul Preaînalt, căci el va sluji lui Dumnezeu, și prin el Dumnezeu va fi Creatorul cerurilor și pământului. Și așa a fost, căci prin Avraam Domnul a dat viață veșnică fiilor lui și s-au statornicit cerurile și pământul, și precum au spus, binecuvântată fie amintirea lor, că o condiție a pus Sfântul, binecuvântat fie, lucrării Începutului etc., și precum au spus la versetul: „pământul s-a temut” etc. Iată că dacă nu ar fi fost Avraam, Domnul nu ar avea stăpânirea cerului și a pământului; și înțelege.<br><br>Încă va voi pe această cale „l-a binecuvântat” etc., vine să spună că cele două binecuvântări spuse în cuvintele lui sunt binecuvântări care îl privesc pe Avraam, și chiar binecuvântarea pe care a spus-o „binecuvântat este Dumnezeul Preaînalt, care i-a predat” etc. este binecuvântarea lui Avraam, când Domnul este binecuvântat prin el, „care i-a predat” etc., iar în veci nu a binecuvântat decât binecuvântările pomenite în lucru."
+   },
+   {
     "author": "Talmudul Babilonian",
     "text": "În lucru: traducerea acestui comentariu urmează."
    },
    {
     "author": "Zohar, Leh Leha 24:6",
     "text": "Vino și vezi: binecuvântările le ia lumea aceasta de jos când se unește cu preotul cel mare; atunci «și l-a binecuvântat și a zis: binecuvântat e Avram al El Elyon» — astfel e cu adevărat. După chipul acesta trebuie preotul jos să lege legături și să binecuvinteze locul acesta, ca să se lege de dreapta, ca să se lege două lumi ca una. «Binecuvântat e Avram» — taina cuvântului e pregătirea binecuvântărilor."
+   },
+   {
+    "author": "Talmudul Babilonian, Kallah Rabbati 8:7",
+    "text": "Cinci dobândiri a dobândit Sfântul, binecuvântat fie El, în lumea Lui, și iată-le: Tora, o dobândire; cerul și pământul, o dobândire; Avraam, o dobândire; Israel, o dobândire; Templul, o dobândire. Tora, de unde? Căci s-a spus: „Domnul m-a dobândit la începutul căii Sale”. Cerul și pământul, de unde? Căci s-a spus: „Cerul este scaunul Meu și pământul este așternutul picioarelor Mele” etc. Avraam, de unde? Căci s-a spus: „Binecuvântat este Avram de către Dumnezeul Preaînalt, Creatorul cerurilor și pământului”. Israel, de unde? Căci s-a spus: „până va trece poporul Tău, Doamne, până va trece poporul acesta pe care l-ai dobândit”; și spune: „Sfinților care sunt în țară, ei și cei măreți, în care este toată plăcerea mea”. Și Templul, de unde? Căci s-a spus: „Sanctuarul, Stăpâne, pe care mâinile Tale l-au întemeiat”; și spune: „I-a adus la hotarul sfințeniei Sale, la muntele acesta pe care l-a dobândit dreapta Lui”. Și pe toate Sfântul, binecuvântat fie El, nu le-a creat decât pentru slava Lui, căci s-a spus: „Oricine este chemat cu Numele Meu, pentru slava Mea l-am creat, l-am întocmit, l-am și făcut”; și spune: „Domnul va domni în vecii vecilor!”.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 8,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Ioan Gură de Aur, Omilii la Facere",
+    "text": "Nu numai că l-a binecuvântat, ci a și lăudat pe Dumnezeu. În cuvintele „binecuvântat să fie Avram de Dumnezeul Preaînalt, Care a creat cerul și pământul”, ne-a arătat și puterea lui Dumnezeu, deosebită de făpturile Lui. Dacă El este Dumnezeu, Creatorul cerului și al pământului, cei închinați de oameni nu sunt dumnezei; Scriptura spune, ține minte: „Să piară acei dumnezei care n-au făcut cerul și pământul.” Textul zice: „Binecuvântat să fie Dumnezeu, Care a dat pe dușmanii tăi în mâinile tale.” Observă, te rog, cum nu numai că îl sărbătorește pe omul drept, ci recunoaște și ajutorul lui Dumnezeu. Căci, fără harul de sus, n-ar fi putut birui puterea celor care îl împresurau. „Care a dat pe dușmanii tăi”, spune textul, adică El este cel care a făcut totul, El a făcut neputincioși pe cei tari, El a doborât mulțimile înarmate prin cei fără arme. De acolo vine harul care îți dă o asemenea putere."
    }
   ]
  },
@@ -3370,7 +4075,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "εὐλογητὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "binecuvântat."
+    "def_ro": "a binecuvânta; la forma pasivă, „binecuvântat”: cel peste care se cheamă binecuvântarea.",
+    "greek_def_ro": "εὐλογητός (eulogetos) — binecuvântat.",
+    "dict_ro": "Barak, „a binecuvânta”: Melchisedec îl binecuvântează pe Avram (14:19) și binecuvântează pe Dumnezeu (14:20): binecuvântarea merge în ambele direcții."
    },
    {
     "t": " este "
@@ -3384,7 +4091,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Θεὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeul."
+    "def_ro": "strength; ca adjective, puternic; in special Almighty (dar folosit de asemenea al orice deity).",
+    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+    "dict_ro": "El, „Dumnezeu”: „Dumnezeul Preaînalt” (14:18–22), El Elyon: numele cu care Melchisedec îl binecuvântează pe Avram, iar Avram, la 14:22, îl identifică cu DOMNUL."
    },
    {
     "t": " "
@@ -3398,7 +4107,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "ὁ ὕψιστος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Preaînalt."
+    "def_ro": "elevation, adică (adj.) lofty (compar.); ca title, Supreme.",
+    "greek_def_ro": "ὕψιστος (hypsistos) — Preaînalt („Cel Preaînalt”).",
+    "dict_ro": "Elyon, „Preaînalt”: nume al lui Dumnezeu, „Preaînaltul” (14:18–22), „Cel ce a creat cerul și pământul”; revine în Psalmi și la Daniel."
    },
    {
     "t": ", care i-a "
@@ -3412,7 +4123,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "παρέδωκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a predat."
+    "def_ro": "propriu-zis, a shield; encompass cu; figurat, a izbăvi, a mână safely peste (adică surrender).",
+    "greek_def_ro": "παραδίδωμι (paradidomi) — a da în mână („a dat în mâna ta”).",
+    "dict_ro": "Magen, „scut”: Dumnezeu „a dat pe dușmanii tăi în mâna ta” (14:20) — cuvântul din verb spune a încredința; același radical e al scutului din 15:1."
    },
    {
     "t": " pe "
@@ -3426,7 +4139,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τοὺς ἐχθρούς σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "dușmanii tăi."
+    "def_ro": "dușmanii tăi.",
+    "greek_def_ro": "ἐχθρός (echthros) — dușman; „dușmanii tăi”.",
+    "dict_ro": "Tsar, „dușman, asupritor”: „dușmanii tăi” (14:20) sunt cei patru regi; biruința e arătată ca dar al lui Dumnezeu."
    },
    {
     "t": " tăi în "
@@ -3440,7 +4155,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ὑποχειρίους σοι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mâna ta."
+    "def_ro": "mână; la figurat, putere.",
+    "dict_ro": "Yad, „mână”: „a dat pe dușmanii tăi în mâna ta” (14:20) spune biruința ca dar; Avram „își ridică mâna” la jurământ (14:22): mâna care primește și mâna care jură.",
+    "greek_def_ro": "ὑποχείριος (hypocheirios) — sub mâna cuiva; „în puterea ta”."
    },
    {
     "t": " ta.” Și i-a "
@@ -3454,7 +4171,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔδωκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a dat."
+    "def_ro": "a da — folosit cu sensul cel mai larg (a pune, a face, a îngădui etc.).",
+    "greek_def_ro": "δίδωμι (didomi) — a da („a dat”).",
+    "dict_ro": "Natan, „a da”: Avram „a dat” zeciuiala (14:20), iar regele Sodomei îi cere „dă-mi oamenii” (14:21); două daruri față în față."
    },
    {
     "t": " "
@@ -3468,7 +4187,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "δεκάτην",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "zeciuială."
+    "def_ro": "tenth; în special tithe.",
+    "greek_def_ro": "δεκάτη (dekate) — zeciuială, a zecea parte.",
+    "dict_ro": "Ma’aser, „zeciuială”: Avram dă lui Melchisedec o zecime din toată prada (14:20), prima zeciuială din Biblie; Evrei 7:4–6 o amintește ca semn al preoției lui Melchisedec."
    },
    {
     "t": " din toate."
@@ -3497,12 +4218,25 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Și binecuvântat fie Dumnezeul cel preaînalt, care a dat pe dușmanii tăi în mâna ta. Și el i-a dat zeciuială din tot.",
   "refs": [
-   "Evrei 7:2,4"
+   "Evrei 7:2,4",
+   "Geneza 9:26",
+   "Geneza 24:27",
+   "Psalmul 68:19",
+   "Psalmul 72:17-19",
+   "Psalmul 144:1"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Care i-a predat (miggen).» Care i-a dat în mână; și tot așa „cum să te predau (amaggenkha), Israele?”.<br><br>«Și i-a dat.» Avraam i-a dat zeciuială din tot ce avea, pentru că era preot."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și binecuvântat este Dumnezeul Preaînalt, care i-a dat pe dușmanii tăi în mâna ta.” Și i-a dat zeciuială din toate."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și binecuvântat este Dumnezeul Preaînalt, care i-a făcut pe dușmanii tăi ca un scut care primește lovitura.” Și i-a dat una din zece din tot ce adusese înapoi."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -3521,8 +4255,31 @@ window.CHAPTER_DATA = [
     "text": "«Și binecuvântat este Dumnezeul Preaînalt.» A repetat în aceasta Numele, spunând „Dumnezeul Preaînalt”; și Avram de asemenea a jurat pe acest Nume, ca să scoată din inima celor care îi auzeau, care slujeau altor dumnezei, și că nu este de slujit decât Domnului singur, iar El este mai presus de toți cei de sus și Stăpânul celor de jos și al celor de sus.<br><br>«Care i-a predat pe dușmanii tăi» (miggen ṣarekha): i-a dat în mâinile tale; și la fel „cum să te dau, Israele?” (ʾamaggenkha). Și a spus „dușmanii tăi”, deși ei nu erau oameni ai războiului lui și nu avea nimic cu ei: de vreme ce au luat prizonier pe fiul fratelui său și avuția lui, iată, ei sunt dușmanii lui; căci Avram avea un nume, iar Lot era cunoscut că este fiul fratelui său, și nu l-au lăsat din dragoste pentru Avram.<br><br>«Și i-a dat zeciuială din toate.» Comentatorii au explicat că Avram i-a dat lui Melhisedec zeciuială din vitele și din avuția pe care le-a salvat, pentru că era preot al Dumnezeului Preaînalt. Iar domnul, tatăl meu, binecuvântată fie amintirea lui, a explicat că Melhisedec i-a dat lui Avraam, ca plată a lui, zeciuiala după lege; căci regele Sodomei i-a spus lui Avram: „Dă-mi mie sufletele, iar averea ia-o pentru tine”, iar Avraam a spus: „dacă am luat fie și un fir de ață sau o curea de încălțăminte”; Melhisedec i-a spus lui Avraam: După lege poți să iei zeciuiala din toate și să nu iei nimic de la regele Sodomei, căci a ta este zeciuiala după lege; căci oricine salvează banii tovarășului său, zeciuiala este a lui, pentru că s-a ostenit să-i salveze. Și corectă este explicația, căci este de mirare, după părerea comentatorilor, cum ar fi dat Avram din ale regelui Sodomei lui Melhisedec: el nu a voit să ia pentru sine, și să dea altora? Aceasta nu este cu putință."
    },
    {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și i-a dat zeciuială din toate.» Melhisedec i-a dat lui Avraam zeciuială din toate. Melhisedec a fost îndepărtat de la preoție și aceasta a fost dată lui Avraam, pentru că Avraam L-a precedat pe Sfântul, binecuvântat fie, în binecuvântarea lui, precum este scris „Domnul a jurat și nu Se va căi: Tu ești preot în veci, după cuvântul (sau „după rânduiala”) lui Melhisedec”. Iar dacă vei explica invers, că Avraam a dat lui Melhisedec zeciuială, se află că ai spune că Avraam a reținut pentru sine din pradă, iar el însuși a spus „dacă am luat fie și un fir de ață sau o curea de încălțăminte” etc."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Și i-a dat zeciuială din toate.» Din captivi și din pradă, pentru că era preot al Dumnezeului Preaînalt."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Și binecuvântat este Dumnezeul Preaînalt etc.» Înțelepții noștri de binecuvântată amintire au spus că a fost pedepsit pentru că a întârziat binecuvântarea Domnului și a pus înainte binecuvântarea lui Avraam, și i s-a luat preoția. Și se poate că motivul acolo este că a luat rânduiala faptei, căci Avraam a recunoscut de la sine Creatorul său și s-a străduit în credința Lui, binecuvântat fie, iar lui i se cuvine binecuvântarea, și după aceea a binecuvântat pe Domnul care a găsit plăcere în el, și așa se cuvine să se facă. Și vine să învețe că Sfântul, binecuvântat fie, nu găsește plăcere decât în cel care găsește plăcere în El mai întâi, iar aceasta este spusa „binecuvântat este Avram de către Dumnezeul Preaînalt”, căci el s-a făcut pe sine potrivit să fie slujitor al Dumnezeului Preaînalt, și de aceea „binecuvântat este Dumnezeul Preaînalt, care i-a predat” etc. Iar calea aceasta nu este dreaptă decât la cel binecuvântat mai întâi. Și după aceasta nu a fost pedepsit acolo, ci el însuși i-a dat-o lui Avraam, și precum am explicat la versetul „iar el era preot”. Sau se poate că a fost pedepsit pentru ceea ce se aude din aspectul superficial al spuselor, căci pare că nu a dat atenție să pună robul înaintea stăpânului, deși a avut intenție bună, și am aflat că Domnul pedepsește pentru asemenea lucru în mai multe locuri."
+   },
+   {
     "author": "Zohar, Leh Leha 24:7",
     "text": "«Binecuvântat e Avram» — precum zicem «binecuvântat ești Tu». «Al El Elyon» — YHVH (Domnul) Elohim-ul nostru. «Stăpân al cerurilor și al pământului» — Împăratul lumii. Și versetul acesta e taina binecuvântărilor. «Și l-a binecuvântat» de jos sus. «Și binecuvântat e El Elyon» de sus jos. «Și i-a dat zeciuială din tot» — să se lipească de locul unde s-a legat legătura jos."
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "… pentru Avram, și pentru sămânța lui, a zecea din pârgă Domnului, și Domnul a rânduit-o ca rânduială pe veci, ca s-o dea preoților care slujesc înaintea Lui, ca s-o stăpânească pe veci. Și legii acesteia nu i se pune hotar de zile; căci El a rânduit-o neamurilor pe veci, să dea Domnului a zecea din toate: din sămânță, și din vin, și din untdelemn, și din vite, și din oi. Și a dat-o preoților Săi să mănânce și să bea cu bucurie înaintea Lui.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 25
+     }
+    }
    }
   ]
  },
@@ -3538,7 +4295,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "βασιλεὺς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Regele."
+    "def_ro": "rege, împărat.",
+    "greek_def_ro": "βασιλεύς (basileus) — rege.",
+    "dict_ro": "Melech, „rege”: capitolul 14 pomenește regi numeroși (14:1–24): coaliția celor patru, cei cinci regi ai câmpiei, Melchisedec, regele Salemului; între ei stă Avram, fără titlu, dar cu mai mare putere morală."
    },
    {
     "t": " "
@@ -3552,7 +4311,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σοδομων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sodomei."
+    "def_ro": "Sodoma — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Σόδομα (Sodoma) — Sodoma, nume propriu (la genitiv).",
+    "dict_ro": "Sodoma (Sedom): cetate din valea Sidim; regele ei fuge în valea smoalei (14:10), iar mai târziu cere lui Avram oamenii rămași (14:21)."
    },
    {
     "t": " i-a "
@@ -3566,7 +4327,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a spus."
+    "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+    "dict_ro": "Amar, „a spune”: Melchisedec „a zis” binecuvântarea (14:19); regele Sodomei „a zis” cererea (14:21); Avram „a zis” refuzul (14:22): trei cuvinte, trei puteri.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": " lui "
@@ -3580,7 +4343,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "πρὸς Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "πρός (pros), Αβραμ (Abram) — către Avram.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 14 iese din rolul de păstor și devine războinic, apoi preot-binecuvântat de Melchisedec și om de cuvânt care refuză prada."
    },
    {
     "t": ": „Dă-mi mie "
@@ -3594,7 +4359,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τοὺς ἄνδρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sufletele."
+    "def_ro": "suflet viu — propriu-zis, o ființă care respiră, un animal; folosit foarte larg pentru viață, trup sau minte.",
+    "greek_def_ro": "ἀνήρ (aner) — bărbat (la acuzativ plural: „bărbații”).",
+    "dict_ro": "Nefesh, „suflet, persoană”: regele Sodomei cere „sufletele” (14:21), adică oamenii luați prinși; „averea” o lasă lui Avram."
    },
    {
     "t": ", iar "
@@ -3606,9 +4373,11 @@ window.CHAPTER_DATA = [
     "translit": "harekhush",
     "strong": "H7399",
     "pos": "substantiv, cu articol",
-    "greek": "τὸν ἵππον",
+    "greek": "ἵππον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "averea."
+    "def_ro": "avere, bunuri, tot ce a agonisit cineva.",
+    "greek_def_ro": "ἵππος (hippos) — cal; aici, „cavaleria”, adică prada.",
+    "dict_ro": "Rekush, „avere, bunuri”: biruitorii iau „toată averea Sodomei și a Gomorei” (14:11); Avram o aduce apoi înapoi (14:16) și refuză să ia ceva din ea (14:23)."
    },
    {
     "t": " ia-o pentru "
@@ -3622,7 +4391,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ, cu sufix",
     "greek": "λαβὲ σεαυτῷ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tine."
+    "def_ro": "a lua, a apuca, a duce cu sine; folosit și despre luarea cuiva de către Dumnezeu.",
+    "dict_ro": "Laqach, „a lua”: biruitorii „au luat” pe Lot (14:11–12), iar Avram, în 14:23–24, spune: „nu voi lua nimic”: același verb, două purtări.",
+    "greek_def_ro": "λαμβάνω (lambano) — a lua; „ia pentru tine”."
    },
    {
     "t": ".”"
@@ -3659,8 +4430,35 @@ window.CHAPTER_DATA = [
     "text": "«Dă-mi mie sufletele.» Din prizonierii mei pe care i-ai salvat, dă-mi înapoi numai trupurile."
    },
    {
+    "author": "Targum Onkelos",
+    "text": "Și regele Sodomei i-a zis lui Avram: „Dă-mi sufletele, iar averea (ia-o) ia-ți-o ție.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a zis regele Sodomei către Avram: „Dă-mi sufletele oamenilor din poporul meu pe care le-ai adus înapoi, iar averea ia-o pentru tine.”"
+   },
+   {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Regele Sodomei i-a spus.» După explicația domnului, tatăl meu, binecuvântată fie amintirea lui, explicația lui este: și spusese deja, înainte ca Melhisedec să spună că zeciuiala este a lui Avram."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Regele Sodomei i-a spus.» Când a văzut că a dat zeciuiala, a socotit că el ține totul pentru sine, și de aceea a dat zeciuială din câștigul pe care l-a făcut, și de aceea a spus: „dă-mi mie sufletele”."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Dă-mi mie sufletele, iar averea ia-o etc.» Trebuie să știm pentru ce lucru îi spune „iar averea ia-o pentru tine”, oare nu este luată la el, și nu trebuia să spună decât un lucru pe care îl cere de la el, ca să i-l dea în chip de dar, căci spusa lui „ia-o pentru tine” arată că el are nevoie să fie de acord să o ia, și aceasta este împotriva spusei „dă-mi sufletele”?<br><br>Însă chestiunea se va lămuri pe calea a ceea ce au spus, binecuvântată fie amintirea lor, în capitolul „Ha-gozel u-maʾakhil”, iar acesta este textul lor: au predat rabinii: o caravană care mergea și s-a ridicat asupra ei o ceată și a jefuit-o, și s-a ridicat cineva și a salvat – a salvat pentru mijloc (pentru toți), iar dacă a spus „eu salvez pentru mine” – a salvat pentru sine. Iar Rav Ași explică: când membrii caravanei pot salva prin strâmtorare, de aceea, dacă a salvat fără precizare – pentru mijloc, explicația: fiecare își va recunoaște ce este al lui și îl va lua, și precum a explicat Rashi. Iar dacă a spus „pentru mine salvez” și l-au auzit membrii caravanei și au tăcut, au dezvăluit părerea lor de renunțare și nu s-au riscat pe ei înșiși, iar pentru sine a salvat – până aici. Iar regele Sodomei a socotit că el nu a renunțat și încă stă să salveze și va tocmi cete împotriva lui, iar când a mers Avraam să salveze, deși ar spune că și-a dezvăluit părerea că salvează pentru sine – nu folosește, și trebuie ca regele Sodomei să audă cuvintele lui și să fie de acord, și în afară de aceasta a salvat pentru mijloc și nu va lua decât ce este al lui, care este Lot și averea lui. Și vei găsi că regele Sodomei se ținea într-o treaptă mare, căci au spus în Midraș, iar acesta este textul lor: „și a ieșit regele Sodomei” etc., a început să-și clatine coada: tu ai coborât în cuptorul de foc și ai fost salvat, iar eu am coborât în smoală și am fost salvat – până aici. Iată că s-a ținut pe sine ca stăpân al puterii.<br><br>Și prin aceasta se va lămuri versetul „dă-mi sufletele” etc., explicația: eu, după socoteala mea, am salvat pentru mijloc, căci nu am renunțat și nu mi-ai făcut cunoscut că tu salvezi pentru tine și am tăcut, ci după socoteala ta că dai zeciuială se pare că tu socotești că nu este cu putință să salvez eu nici prin strâmtorare, și prin aceasta nu ai nevoie să-ți dezvălui părerea. De aceea, ca să nu intrăm într-o dispută, vom conveni împreună la un compromis: tu vei lăsa la o parte dreptul tău și vei hotărî în favoarea mea sufletele, iar eu voi lăsa la o parte dreptul meu și voi hotărî pentru tine averea: ia-o pentru tine; și înțelege. Și el era, cel puțin, greșit, căci este din pradă, din salvare, iar Rav Ași nu a deosebit decât în cazul unei cete care a sfâșiat și a plecat, dar în realitatea dinaintea noastră deja au aranjat război și au pierit și nu ai „nu pot salva” aici, căci au fost deja reduși în număr și au renunțat cu siguranță, iar cu pretenție mincinoasă vine cu clătinarea cozii. Și vei găsi că Rav Ași nu a cerut să spună în mod lămurit „pentru mine salvez” decât numai în cazul în care poate salva prin strâmtorare, dar dacă nu poate salva nu are nevoie să spună „pentru mine” etc., și așa explică acolo. Iar dacă așa, deși ar spune după aceea „aș fi putut să salvez” – pretenția lui nu este pretenție, și așa au hotărât Rambam și Rosh.<br><br>Și vei găsi că Înțelepții, binecuvântată fie amintirea lor, au făcut aluzie la acest lucru prin dulceața limbii lor, spunând „își clatină coada”, explicația: că după ce se vede că i s-a luat capul, încă își clatină coada, căci fiind el în toată tăria domniei lui, iar patru regi care erau cu el nu au stat înaintea celor patru regi, cu atât mai mult după coborârea podoabelor lui poate salva. Iată ai învățat că Avraam a salvat pentru sine și a dobândit totul, și de aceea a dat zeciuială din toate, căci deși i-a fost îngăduit regelui Sodomei – omul are voie cu ce este al lui – nu cu zeciuiala, care este a Celui înalt."
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și regele Sodomei a venit la el și s-a plecat înaintea lui, și a zis: Domnul nostru Avram, dă-ne nouă sufletele pe care le-ai izbăvit, iar prada să fie a ta.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 28
+     }
+    }
    }
   ]
  },
@@ -3676,7 +4474,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 14 iese din rolul de păstor și devine războinic, apoi preot-binecuvântat de Melchisedec și om de cuvânt care refuză prada."
    },
    {
     "t": " i-a "
@@ -3690,7 +4490,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a spus."
+    "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+    "dict_ro": "Amar, „a spune”: Melchisedec „a zis” binecuvântarea (14:19); regele Sodomei „a zis” cererea (14:21); Avram „a zis” refuzul (14:22): trei cuvinte, trei puteri.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": " regelui "
@@ -3704,7 +4506,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σοδομων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sodomei."
+    "def_ro": "Sodoma — una din cele cinci cetăți din valea Sidim.",
+    "greek_def_ro": "Σόδομα (Sodoma) — Sodoma, nume propriu (la genitiv).",
+    "dict_ro": "Sodoma (Sedom): cetate din valea Sidim; regele ei fuge în valea smoalei (14:10), iar mai târziu cere lui Avram oamenii rămași (14:21)."
    },
    {
     "t": ": „Îmi "
@@ -3718,7 +4522,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκτενῶ τὴν χεῖρά μου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "îmi ridic mâna — o formulă solemnă de jurământ."
+    "def_ro": "îmi ridic mâna — o formulă solemnă de jurământ.",
+    "greek_def_ro": "ἐκτείνω (ekteino), χείρ (cheir) — „îmi voi întinde mâna”, gest de jurământ.",
+    "dict_ro": "Rum, „a ridica”: „am ridicat mâna mea” (14:22) e gestul jurământului, în fața lui Dumnezeu."
    },
    {
     "t": " către "
@@ -3732,7 +4538,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸν Θεὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNUL."
+    "def_ro": "DOMNUL — Numele propriu al lui Dumnezeu (Tetragrama YHVH), redat în Biblie „DOMNUL”, cu majuscule.",
+    "greek_def_ro": "θεός (theos) — Dumnezeu (la acuzativ).",
+    "dict_ro": "Tetragrama YHVH, „DOMNUL”: Avram îl numește „DOMNUL, Dumnezeul Preaînalt” (14:22), unind numele lui Melchisedec cu Numele propriu al lui Dumnezeu."
    },
    {
     "t": ", "
@@ -3746,7 +4554,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸν ὕψιστον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeul."
+    "def_ro": "strength; ca adjective, puternic; in special Almighty (dar folosit de asemenea al orice deity).",
+    "greek_def_ro": "ὕψιστος (hypsistos) — Preaînalt (la acuzativ: „pe Cel Preaînalt”).",
+    "dict_ro": "El, „Dumnezeu”: „Dumnezeul Preaînalt” (14:18–22), El Elyon: numele cu care Melchisedec îl binecuvântează pe Avram, iar Avram, la 14:22, îl identifică cu DOMNUL."
    },
    {
     "t": " "
@@ -3760,7 +4570,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "ὕψιστον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Preaînalt."
+    "def_ro": "elevation, adică (adj.) lofty (compar.); ca title, Supreme.",
+    "greek_def_ro": "ὕψιστος (hypsistos) — Preaînalt.",
+    "dict_ro": "Elyon, „Preaînalt”: nume al lui Dumnezeu, „Preaînaltul” (14:18–22), „Cel ce a creat cerul și pământul”; revine în Psalmi și la Daniel."
    },
    {
     "t": ", "
@@ -3774,7 +4586,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu",
     "greek": "ὃς ἔκτισεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Creatorul."
+    "def_ro": "a erect, adică crea; de extension, a procure, in special de purchase (causatively, sell); de implicație a own.",
+    "greek_def_ro": "κτίζω (ktizo) — a crea („Care a creat”).",
+    "dict_ro": "Qanah, „a dobândi, a crea”: Dumnezeu e „Creatorul cerului și al pământului” (14:19, 22); cuvântul spune și stăpânirea dobândită prin creație."
    },
    {
     "t": " "
@@ -3788,7 +4602,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸν οὐρανὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cerurilor."
+    "def_ro": "cerul, cerurile — bolta văzută pe care se mișcă norii, dar și tăria mai înaltă unde se rotesc aștrii; formă gramaticală de dual/plural.",
+    "dict_ro": "Shamayim, „ceruri”: Melchisedec și Avram numesc pe Dumnezeu „Creatorul cerurilor și al pământului” (14:19, 22): cerul și pământul spun totul creat, de la El.",
+    "greek_def_ro": "οὐρανός (ouranos) — cer (la acuzativ: „cerul”)."
    },
    {
     "t": " și "
@@ -3802,7 +4618,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν γῆν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământului."
+    "def_ro": "pământul — în sens larg (tot pământul) sau, partitiv, o țară anume.",
+    "greek_def_ro": "γῆ (ge) — pământ, țară.",
+    "dict_ro": "Erets, „pământ”: „cer și pământ” (14:19, 22) spune totul creat; Avram jură pe Dumnezeul acesta că nu va lua nimic (14:22–23)."
    },
    {
     "t": ","
@@ -3832,12 +4650,24 @@ window.CHAPTER_DATA = [
   "fidela": "Și Avram i-a spus împăratului Sodomei: Mi-am ridicat mâna către DOMNUL, Dumnezeul cel preaînalt, întemeietorul cerului și al pământului,",
   "refs": [
    "Evrei 6:13-14",
-   "Geneza 21:23"
+   "Geneza 21:23",
+   "Exodul 6:8",
+   "Deuteronomul 32:40",
+   "Daniel 12:7",
+   "Apocalipsa 10:5,6"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Îmi ridic (harimoti) mâna.» Cuvânt de jurământ: îmi ridic mâna către Dumnezeul Preaînalt. Și tot așa „Pe Mine Însumi am jurat (nișbaʿti)” — jur; și tot așa „dau (natatti) prețul câmpului, ia-l de la mine” — îți dau prețul câmpului, ia-l de la mine."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avram i-a zis regelui Sodomei: „Mi-am ridicat mâna în rugăciune înaintea Domnului, Dumnezeul Preaînalt, a Cărui stăpânire sunt cerurile și pământul,"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a zis Avram către regele Sodomei: „Mi-am ridicat mâna în jurământ înaintea Domnului, Dumnezeul Preaînalt, care, pentru cei drepți, a dobândit prin puterea Lui cerurile și pământul,"
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -3850,6 +4680,40 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Îmi ridic mâna» (harimoti): iată, ridic; și la fel „Dau prețul câmpului” (natatti). Cu ridicarea mâinii este jurământul; și la fel „și și-a ridicat dreapta și stânga spre ceruri și a jurat”; și uneori nu se pomenește jurământul, ci numai ridicarea mâinii, ca „pe care Mi-am ridicat mâna”."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Îmi ridic mâna.» „Haramti yadi” înseamnă „îmi ridic mâna” – limbaj de prezent.<br><br>«Îmi ridic mâna.» „Am ridicat mâna mea” – am separat partea mea pentru Dumnezeul Preaînalt, precum este scris „Și i-a dat zeciuială din toate”, dar mai mult nu voi lua; și aceasta este după metoda lui Rashi."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Avram i-a spus regelui Sodomei etc.» Motivul ridicării mâinii lui este ca să se adeverească la regele Sodomei că nu mai are în gând să se întoarcă asupra lucrului acesta, nici în întregime, nici o parte din el.<br><br>Iar spusa „dacă de la un fir” etc. „și dacă voi lua”: nu trebuia să spună decât „dacă voi lua de la un fir” etc., iar a avut în vedere să spună pe această cale: „mi-am ridicat” etc. „dacă de la un fir” etc. – explicația: aceasta este asupra mea ca prinos ridicat (terumă), dacă am luat de la un fir până” etc. din averea pomenită în lucru, și încă a adăugat că nu va lua în viitor din orice etc., iar aceasta este spusa „și dacă voi lua” etc.<br><br>Încă va voi pe această cale: „mi-am ridicat mâna” – explicația: am dat terumă, pe care o datorez din totul, „dacă de la un fir până” etc., ceea ce datorez după lege. Și ca să nu spui că sunt lacom după bani și cer ce nu este al meu – „și dacă voi lua din orice” etc., dar nu din pricina îngăduinței (sau „a generozității”) voi fura de la Cel înalt ceea ce datorez să-I dau, care este terumă de zeciuială."
+   },
+   {
+    "author": "Zohar Chadash, Lech Lecha 67",
+    "text": "Alt lucru. (Bereșit 14:22) «Am ridicat mâna mea către Domnul, El Elyon etc. dacă dintr-un fir etc.» A zis Ribi Elazar: cei vrednici ție, care sunt răi deplin, care nu s-au întors în teșuvah niciodată, cu jurământ că nu-i voi lua în veac.⁠‌‌​‌‌​‌​​‌​‌‌​‌​​​‌​‌‌‌‌",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 4,
+      "v": 67
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și Avram i-a zis: Ridic mâinile mele către Dumnezeul cel Preaînalt, că de la un fir până la o curea de încălțăminte nu voi lua nimic din ale tale, ca să nu zici: Eu l-am îmbogățit pe Avram; afară numai de ce au mâncat flăcăii, și partea oamenilor care au mers cu mine — Aner, Eșcol și Mamre. Aceștia își vor lua partea.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 29
+     }
+    }
+   },
+   {
+    "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
+    "text": "Dar regele Sodomei a zis lui Avram: „Dă-mi oamenii și ia pentru tine bunurile.” El însă i-a răspuns: „Îmi ridic mâna către Domnul, Dumnezeul Preaînalt, stăpânul cerului și al pământului, că nu voi lua nici un fir, nici o curea de încălțăminte, nimic din ce este al tău, ca nu cumva să zici: «Eu l-am îmbogățit pe Avram».” Trebuie luat seama cu grijă și tras ca pildă de viață morală că Avraam, care, cu adevărat milostiv față de aproapele aflat la nevoie, se pusese pe sine în primejdie ca să-l elibereze pe Lot și, ca om cucernic față de Dumnezeu, a dat zeciuială preotului de la care fusese binecuvântat, el, disprețuitor al banilor, a refuzat să primească ceva din prada pe care o luase, chiar când i-o oferea regele pe care îl învinsese. Iubitor al dreptății, n-a uitat să împartă ostașilor care luptaseră cu el partea lor. Pe bună dreptate, o asemenea conștiință, ca să ajungă mai repede la culmea virtuților, este înălțată mereu prin noi binefaceri ale harului dumnezeiesc. De aceea, după ce acestea s-au petrecut cum se cuvine, el a devenit îndată primitor al darului unei descoperiri cerești și al unei binecuvântări dumnezeiești, care trebuie mai bine cugetate și cercetate prin citirea cărții următoare."
    }
   ]
  },
@@ -3868,7 +4732,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "σπαρτίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fir."
+    "def_ro": "string; de implicație, measuring tape.",
+    "greek_def_ro": "σπαρτίον (spartion) — fir, sfoară (la genitiv).",
+    "dict_ro": "Chut, „fir”: „nici măcar un fir” (14:23) arată că Avram nu ia nimic din prada regelui Sodomei, ca nu cumva să spună că el l-a îmbogățit."
    },
    {
     "t": " de "
@@ -3892,9 +4758,11 @@ window.CHAPTER_DATA = [
     "translit": "sroch",
     "strong": "H8288",
     "pos": "substantiv",
-    "greek": "ἱμάντος",
+    "greek": "σφαιρωτῆρος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "curea."
+    "def_ro": "thong (ca laced sau tied).",
+    "greek_def_ro": "σφαιρωτήρ (sphairoter) — curea de sandală, șiret (la genitiv).",
+    "dict_ro": "Seroch, „curea”: „nici cureaua încălțămintei” (14:23) — cea mai mică bucată; imaginea e a unui lucru fără preț."
    },
    {
     "t": " de "
@@ -3908,7 +4776,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὑποδήματος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "încălțăminte."
+    "def_ro": "propriu-zis, sandal tongue; de extension sandal sau slipper (sometimes ca symbol al occupancy, refusal a marry, sau al ceva valueless).",
+    "greek_def_ro": "ὑπόδημα (hypodema) — încălțăminte, sandală (la genitiv).",
+    "dict_ro": "Na’al, „încălțăminte, sandală”: „cureaua încălțămintei” (14:23) e exemplul lucrului de nimic pe care Avram refuză să-l primească."
    },
    {
     "t": ", sau dacă voi "
@@ -3920,9 +4790,11 @@ window.CHAPTER_DATA = [
     "translit": "ekach",
     "strong": "H3947",
     "pos": "verb",
-    "greek": "λήψομαι",
+    "greek": "λήμψομαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "voi lua."
+    "def_ro": "a lua, a apuca, a duce cu sine; folosit și despre luarea cuiva de către Dumnezeu.",
+    "dict_ro": "Laqach, „a lua”: biruitorii „au luat” pe Lot (14:11–12), iar Avram, în 14:23–24, spune: „nu voi lua nimic”: același verb, două purtări.",
+    "greek_def_ro": "λαμβάνω (lambano) — a lua („voi lua”)."
    },
    {
     "t": " din orice care este al "
@@ -3934,9 +4806,11 @@ window.CHAPTER_DATA = [
     "translit": "lekha",
     "strong": "H0",
     "pos": "pronume",
-    "greek": "σοῦ",
+    "greek": "τῶν σῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tău."
+    "def_ro": "al tău (pronume însoțitor: „ce este al tău”).",
+    "greek_def_ro": "σός (sos) — al tău (la genitiv plural: „din ale tale”).",
+    "dict_ro": "Cuvântul „tău” (14:23): „din tot ce este al tău” spune că Avram nu primește nimic din averea regelui Sodomei, pentru ca nimeni să nu poată spune că el l-a îmbogățit pe Avram."
    },
    {
     "t": "! Ca să nu "
@@ -3950,7 +4824,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἴπῃς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "spui."
+    "def_ro": "a zice, a spune — folosit cu sens foarte larg.",
+    "dict_ro": "Amar, „a spune”: Melchisedec „a zis” binecuvântarea (14:19); regele Sodomei „a zis” cererea (14:21); Avram „a zis” refuzul (14:22): trei cuvinte, trei puteri.",
+    "greek_def_ro": "λέγω (lego) — a spune („să spui”)."
    },
    {
     "t": ": «Eu l-am "
@@ -3964,7 +4840,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπλούτισα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-am îmbogățit."
+    "def_ro": "l-am îmbogățit.",
+    "greek_def_ro": "πλουτίζω (ploutizo) — a îmbogăți („am îmbogățit”).",
+    "dict_ro": "Ashar, „a se îmbogăți”: „eu l-am îmbogățit pe Avram” (14:23) e vorba pe care Avram nu vrea s-o audă din partea regelui Sodomei: bogăția lui vine de la Dumnezeu."
    },
    {
     "t": " pe "
@@ -3978,7 +4856,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τὸν Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pe Avram."
+    "def_ro": "Avram — fiul lui Terah; numele înseamnă „tatăl cel înalt”; mai târziu va deveni Avraam.",
+    "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu (la acuzativ).",
+    "dict_ro": "Avram (Avram), „tatăl cel înalt”: în capitolul 14 iese din rolul de păstor și devine războinic, apoi preot-binecuvântat de Melchisedec și om de cuvânt care refuză prada."
    },
    {
     "t": ".»"
@@ -4007,12 +4887,25 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "Că nu voi lua nici un fir de ață, nici un șiret de sanda, nici ceva care este al tău, ca nu cumva să spui: Eu l-am îmbogățit pe Avram;",
   "refs": [
-   "Ester 9:15-16"
+   "Ester 9:15-16",
+   "1 Împărați 13:8",
+   "2 Împărați 5:16,20",
+   "Estera 9:15,16",
+   "2 Corinteni 11:9-11",
+   "2 Corinteni 12:14"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Dacă… fie și un fir de ață sau o curea de încălțăminte.» Voi opri pentru mine din pradă.<br><br>«Sau dacă voi lua din orice care este al tău.» Și dacă vei spune să-mi dai răsplată din vistieriile tale, nu voi lua.<br><br>«Ca să nu spui etc.» Căci Sfântul, binecuvântat fie El, mi-a făgăduit să mă îmbogățească, cum s-a spus: „și te voi binecuvânta” etc."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "că nu voi lua nici un fir, nici o curea de încălțăminte, nimic din ce este al tău, ca să nu zici: «Eu l-am îmbogățit pe Avram»;"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "că de la un fir și până la cureaua sandalei nu voi lua nimic din tot ce este al tău, ca să nu te lauzi zicând: «Eu l-am îmbogățit pe Avram din ce este al meu»."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -4025,6 +4918,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Sau dacă voi lua.» Sensul vav-ului: vrea să spună „dacă am luat și dacă voi lua”."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Dacă am luat fie și un fir de ață.» Podoabă pentru cap, precum au învățat rabinii noștri „firele de pe capetele fetelor” în tratatul Șabbat: sunt fire de mătase cu care își leagă părul.<br><br>«O curea de încălțăminte.» Podoabă pentru picior. Altă explicație: „dacă de la un fir din care sunt toate hainele” – adică fie lucru mare, fie mic.<br><br>«Sau dacă voi lua din orice care este al tău.» Când am ieșit din casa tatălui meu, Sfântul, binecuvântat fie, mi-a promis să mă îmbogățească; mai bine să nu iau din tot ce este al tău, iar când mă voi îmbogăți, voi atârna bogăția de Cel al cărui sunt bogăția și cinstea."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Dacă am luat fie și un fir de ață sau o curea de încălțăminte.» Să știi că „ața” (haut) este cingătoarea sabiei, adică cea cu care se încinge, ca în „nici nu se va deschide cingătoarea coapselor lui și nu se va rupe cureaua încălțămintei lui”, adică de la sabie până la pinten (esperon, Sporn); și tot așa: „în cingătoarea lui care era pe coapsele lui și în încălțămintea lui care era pe picioarele lui”, despre Ioab."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Ca să nu spui etc.» Și este greu: cum se potrivește să spună că el l-a îmbogățit etc., oare Stăpânul, Domnul oștirilor, nu este scutul dușmanilor lui?<br><br>Însă după cum am explicat în cuvintele regelui Sodomei, căci socotește că bunurile îl privesc pe el, dar este de acord să-i dea averea, cum a spus „iar averea ia-o pentru tine”, de aceea a spus că aceasta o face din partea părerii lui, căci socotește că bunurile sunt ale lui, ca să nu-și umple gura spunând „eu l-am îmbogățit pe Avram”; „mi-am ridicat” etc. „dacă” etc. Și prin aceasta, „să nu spui tu” etc., iar în veci după lege bunurile sunt ale mele pe care mi le-a dat Dumnezeu, și de aceea am dat zeciuială din toate, și precum am dovedit în explicația: „dă-mi sufletele” etc. Și prin aceasta se va preciza spusa „și să nu spui”, căci trebuia să spună „și nu mă voi îmbogăți din ce este al tău”; și înțelege."
+   },
+   {
+    "author": "Ioan Gură de Aur, Omilii la Facere",
+    "text": "Disprețul patriarhului față de bogăția materială era puternic. De ce respinge oferta cu jurământ, prin cuvintele „Îmi ridic mâna să jur înaintea Dumnezeului Preaînalt, Care a creat cerul și pământul”? Vrea să-i dea regelui Sodomei două învățături. Întâi, el este mai presus de darurile oferite de el; și aceasta dă dovadă de mare înțelepciune. Este gata să se arate învățător pentru el în evlavie, ca și cum i-ar spune în atâtea cuvinte: Îl iau ca martor pe Creatorul tuturor că nu voi lua nimic de la tine, ca să ajungi să cunoști pe Dumnezeul peste toate și să nu socotești dumnezei lucrurile făcute de mâini omenești. Acesta este de fapt Făcătorul cerului și al pământului, Care a hotărât cursul acestui război și a fost pricina biruinței. Așa că nu te aștepta să fiu gata să iau ceva din ce mi-ai oferit. Căci nu pentru răsplată mi-am făcut dreptate. Ci, întâi, din dragoste pentru nepotul meu, apoi din însăși firea unui om bun, ca să smulg din ghearele barbarilor oameni răpiți pe nedrept."
    }
   ]
  },
@@ -4043,7 +4952,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔφαγον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au mâncat."
+    "def_ro": "a mânca; la forma pasivă, „a fi mâncat, a se putea mânca”.",
+    "greek_def_ro": "βρώσει φαγῇ (brosei phage) — „cu mâncare vei mânca”, aceeași construcție de accentuare redată și în greacă.",
+    "dict_ro": "Achal, „a mânca”: Avram nu ia nimic, în afară de ce au mâncat tinerii (14:24): hrana oamenilor lui e singura despăgubire."
    },
    {
     "t": " "
@@ -4057,7 +4968,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "οἱ νεανίσκοι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tinerii."
+    "def_ro": "(concretely) boy (ca active), de la age al infancy a adolescence; de implicație, slugă; de asemenea (de interch. al sex), girl (al similar latitude in age).",
+    "greek_def_ro": "νεανίσκος (neaniskos) — tânăr („tinerii”).",
+    "dict_ro": "Na’ar, „tânăr, slujitor”: „tinerii” (14:24) sunt oamenii lui Avram; el cere doar hrana lor."
    },
    {
     "t": " și "
@@ -4069,9 +4982,11 @@ window.CHAPTER_DATA = [
     "translit": "chelek",
     "strong": "H2506",
     "pos": "substantiv",
-    "greek": "ἡ μερὶς",
+    "greek": "μερίδος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "partea."
+    "def_ro": "propriu-zis, smoothness (al tongue); de asemenea allotment.",
+    "greek_def_ro": "μερίς (meris) — parte, porție (la genitiv).",
+    "dict_ro": "Cheleq, „parte”: „partea oamenilor” (14:24) înseamnă partea cuvenită aliaților (Aner, Eșcol, Mamre), pe care Avram nu o oprește."
    },
    {
     "t": " "
@@ -4085,7 +5000,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῶν ἀνδρῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "oamenilor."
+    "def_ro": "bărbat, mascul; despre animale, „masculul”.",
+    "greek_def_ro": "ἀνήρ (aner) — bărbat (la genitiv plural: „ai bărbaților”).",
+    "dict_ro": "Ish, „bărbat, om”: „oamenii care au mers cu mine” (14:24) sunt aliații lui Avram, lăsați să-și ia partea."
    },
    {
     "t": " care au "
@@ -4099,7 +5016,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "πορευθέντων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au mers."
+    "def_ro": "a merge, a umbla; despre apă, a curge.",
+    "greek_def_ro": "πορεύομαι (poreuomai) — a merge; la participiu, „celor ce au mers”.",
+    "dict_ro": "Halak, „a merge”: biruitorii „au plecat” (14:11–12) cu prada și cu Lot; același verb spune și drumul oamenilor lui Avram (14:24)."
    },
    {
     "t": " cu mine: "
@@ -4113,7 +5032,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αυναν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Aner."
+    "def_ro": "aner, Amorite, de asemenea loc în Palestine.",
+    "greek_def_ro": "Αυναν (Aunan) — Aner, nume propriu.",
+    "dict_ro": "Aner (Aner), „băiat” (Easton): căpetenie canaanită aliată cu Avram (14:13, 24)."
    },
    {
     "t": ", "
@@ -4127,7 +5048,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Εσχωλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Eșcol."
+    "def_ro": "eshcol, nume al Amorite, de asemenea al valley în Palestine.",
+    "greek_def_ro": "Εσχωλ (Eschol) — Eșcol, nume propriu.",
+    "dict_ro": "Eșcol (Eshkol), „ciorchine” (Easton): tânăr amorit aliat al lui Avram (14:13, 24); numele se leagă și de valea Eșcol (Numeri 13:23)."
    },
    {
     "t": " și "
@@ -4141,7 +5064,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Μαμβρη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Mamre."
+    "def_ro": "Mamre — loc de lângă Hebron cu stejari mari; și numele unui amorit prieten al lui Avram.",
+    "greek_def_ro": "Μαμβρη (Mambre) — Mamre, nume propriu.",
+    "dict_ro": "Mamre (Mamre), „vigoare” (Easton): amorit prieten al lui Avram (14:13, 24) și locul de lângă Hebron cu stejarii în care locuia Avram."
    },
    {
     "t": " – ei își vor "
@@ -4153,9 +5078,11 @@ window.CHAPTER_DATA = [
     "translit": "yikchu",
     "strong": "H3947",
     "pos": "verb",
-    "greek": "λήψονται",
+    "greek": "λήμψονται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vor lua."
+    "def_ro": "a lua, a apuca, a duce cu sine; folosit și despre luarea cuiva de către Dumnezeu.",
+    "dict_ro": "Laqach, „a lua”: biruitorii „au luat” pe Lot (14:11–12), iar Avram, în 14:23–24, spune: „nu voi lua nimic”: același verb, două purtări.",
+    "greek_def_ro": "λαμβάνω (lambano) — a lua („vor lua”)."
    },
    {
     "t": " partea.”"
@@ -4184,12 +5111,25 @@ window.CHAPTER_DATA = [
   ],
   "fidela": "În afară de ceea ce au mâncat tinerii și partea oamenilor care au mers cu mine, Aner, Eșcol și Mamre; ei să își ia partea lor.",
   "refs": [
-   "Geneza 18:8"
+   "Geneza 18:8",
+   "Proverbe 3:27",
+   "Matei 7:12",
+   "Romani 13:7,8",
+   "1 Corinteni 9:14,15",
+   "1 Timotei 5:18"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Tinerii.» Slujitorii mei care au mers cu mine; și, în plus, „Aner, Eșcol și Mamre” etc. Deși slujitorii mei au intrat în război, cum s-a spus: „el și slujitorii lui… și i-a lovit”, iar Aner și tovarășii lui au stat lângă bagaje ca să le păzească, chiar și așa ei își vor lua partea. Și de la el a învățat David, care a zis: „Partea celui care coboară la luptă și partea celui care stă lângă bagaje: împreună să o împartă”. Și de aceea s-a spus: „și a fost din ziua aceea înainte (va-maʿlah): a pus-o drept lege și rânduială”, și nu s-a spus „și de atunci încolo”, pentru că legea fusese dată deja în zilele lui Avram."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "afară (în afară) de ce au mâncat tinerii și de partea oamenilor care au mers cu mine: Aner, Eșcol și Mamre; ei să-și primească partea lor.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Nu am niciun drept asupra a nimic din țară; în afară de mine, numai ce au mâncat tinerii și partea oamenilor care au mers cu mine, Aner, Eșcol și Mamre: și ei își vor lua partea lor.”"
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -4202,6 +5142,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Departe de mine» (bilʿaday). Yod-ul este de plural și nu este sufix; și vine văzut, fără mem, ca yod, ca „și cu șezutul descoperit” (wa-ḥaśufay šet), „și țesătorii de pânză albă” (we-ʾorgim ḥoray) și cele asemenea lor. Iar înțeleptul Rabbi Avraham a explicat că yod-ul este sufix, adică: numai fără mine să ia, și aceasta este ceea ce au mâncat tinerii. «Tinerii»: aceștia sunt discipolii lui, născuți în casa lui, și ei nu vor avea decât ceea ce au mâncat. «Și partea oamenilor»: căci eu nu am dreptul să las partea lor, căci ei s-au ostenit în aceasta și se cuvine să ia din prada pe care au salvat-o partea lor cuvenită, după obicei și după lege."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Departe de mine!» „Bilʿadai”: litera yod este în plus, ca yod-ul din „zulati” din „în afară de Caleb, fiul lui Iefune”; explicația: Nu voi lua din tot ce este al tău, decât ce au mâncat oamenii oștirii mele."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Ei își vor lua partea etc.» Explicația: nu că ai avea voie și te-ai pune cu ei la măsurători, ci ei au voie să ia ce vor judeca ei, căci aceasta îi privește pe ei. Și prin aceasta i-a arătat că în adevăr bunurile îl privesc pe el, dar s-a temut de vorbă, deși este mincinoasă, cu toate acestea micșorează cinstea lui Avram prin spusa lui."
    }
   ]
  }
