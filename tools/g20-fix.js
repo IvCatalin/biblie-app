@@ -1,0 +1,31 @@
+// Geneza 20: forma greacă/ebraică a etichetelor = exact cea din verset (Rahlfs / Sefaria).
+const L = require('./fixlib.js')(20);
+const D0 = (t) => ({ greek: null, greek_def_ro: null, diff_ro: t });
+module.exports = [
+  [1, { w: 'miazăzi' }, L(1, 'λιβα')],
+  [1, { w: 'așezat' }, L(1, 'ωκησεν')],
+  [3, { w: 'vis' }, L(3, 'υπνω')],
+  [5, { w: 'curățenia' }, L(5, 'καθαρα')],
+  [5, { w: 'palmelor' }, L(5, 'χειρων')],
+  [6, { w: 'vis' }, L(6, 'υπνον')],
+  [6, { w: 'știut' }, L(6, 'εγνων')],
+  [6, { w: 'păcătuiești' }, L(6, 'αμαρτειν')],
+  [6, { w: 'lăsat' }, L(6, 'αφηκα')],
+  [7, { w: 'negreșit' }, L(7, 'αποθανη')],
+  [9, { w: 'Fapte' }, L(9, 'εργον')],
+  [9, { w: 'fac' }, L(9, 'ποιησει')],
+  [10, { w: 'lucrul' }, L(10, 'ενιδων')],
+  [11, { w: 'teamă' }, L(11, 'θεοσεβεια')],
+  [11, { w: 'Dumnezeu' }, D0('Septuaginta redă „teama de Dumnezeu” (יִרְאַת אֱלֹהִים) printr-un singur cuvânt, θεοσέβεια, „cinstirea lui Dumnezeu”; „Dumnezeu” nu are cuvânt aparte.')],
+  [11, { w: 'omorî' }, L(11, 'αποκτενουσιν')],
+  [12, { w: 'fiica' }, D0('Septuaginta nu are „fiica” (בַּת); textul grecesc spune doar „sora mea este din tată”, fără cuvântul „fiică”.')],
+  [12, { w: 'tatălui' }, L(12, 'πατρος')],
+  [12, { w: 'mamei' }, L(12, 'μητρος')],
+  [12, { w: 'soție' }, L(12, 'γυναικα')],
+  [13, { w: 'loc' }, L(13, 'τοπον')],
+  [14, { w: 'Sara' }, L(14, 'σαρραν')],
+  [16, { w: 'drept' }, L(16, 'εσται σοι')],
+  [16, { w: 'voal' }, L(16, 'τιμην')],
+  [16, { w: 'ochi' }, L(16, 'προσωπου σου')],
+  [18, { w: 'casa' }, { heb: 'לְבֵית', ...L(18, 'οικω') }],
+];
