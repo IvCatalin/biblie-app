@@ -1,6 +1,6 @@
 // Scoate dublurile: aceeași unitate din Bibliotecă (src) apărută de mai multe ori în același capitol Geneză — se păstrează varianta cea mai lungă (la egalitate, prima). node tools/dedupe-context.js [--write]
 const fs = require('fs'); const WRITE = process.argv.includes('--write'); let tot = 0;
-for (let n = 1; n <= 26; n++) {
+for (let n = 1; n <= 27; n++) {
   const f = 'public/genesis-' + n + '.js'; if (!fs.existsSync(f)) continue;
   const D = new Function('window', fs.readFileSync(f, 'utf8') + ';return window;')({}).CHAPTER_DATA; let ch = 0; const best = {};
   for (const x of D) for (const c of x.commentaries || []) if (c.src && c.src.spec) { const k = c.src.slug + '#' + c.src.spec.num + ':' + c.src.spec.v; const L = (c.text || '').length; if (!best[k] || L > best[k].L) best[k] = { L, c }; }

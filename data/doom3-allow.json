@@ -365,5 +365,7 @@
  "tofet": "transliterare sau nume străin (ebraică, egipteană, aramaică), nu cuvânt românesc",
  "tofetul": "transliterare sau nume străin (ebraică, egipteană, aramaică), nu cuvânt românesc",
  "ghirgașiți": "etnonim biblic derivat dintr-un nume propriu, fără intrare în DOOM3",
- "necircumciși": "formă flexionară regulată a unui cuvânt din DOOM3 (circumcide)"
+ "necircumciși": "formă flexionară regulată a unui cuvânt din DOOM3 (circumcide)",
+ "dagan": "transliterare (ebraică), nu cuvânt românesc",
+ "canaanitele": "etnonim biblic derivat dintr-un nume propriu, fără intrare în DOOM3"
 }

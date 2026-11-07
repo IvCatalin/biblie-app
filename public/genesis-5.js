@@ -1248,6 +1248,17 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Apocalipsa lui Moise 40 — comparație",
+    "text": "primi un trup tovarăș, până nu va veni la mine pământul care a fost luat și plăsmuit în mine.",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 40,
+      "v": 4
+     }
+    }
    }
   ],
   "fidela": "Și toate zilele pe care Adam le-a trăit au fost nouă sute treizeci de ani; și a murit.",

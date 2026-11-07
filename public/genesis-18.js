@@ -4261,6 +4261,17 @@ window.CHAPTER_DATA = [
       "v": 6
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Iar omul i-a vorbit judecătorului, zicând, eu te rog domnul meu, astfel omul acesta a făcut, căci eu l-am lovit cu o piatră încât sângele a curs din fruntea lui, iar el nu este dornic să îmi dea plata mea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 20
+     }
+    }
    }
   ]
  },

@@ -1,0 +1,17 @@
+// Geneza 27: comentarii creștine din tora-openchristiandata, traduse integral în română; nu se rezumă nimic.
+// Se aplică cu `node tools/apply-ocd.js 27 tools/g27-ocd-data.js [--write]`.
+const IP = 'Ipolit al Romei, Despre binecuvântările lui Isaac și Iacov';
+const JER = 'Ieronim, Întrebări ebraice la Facere';
+const CLARKE = 'Adam Clarke, Comentariu la Facere';
+module.exports = [
+  [11, IP, 'Cât de limpede și-a arătat Iacov aici evlavia!… Și în alte privințe era adevărat ce a spus Iacov, anume: „Fratele meu Esav este un om păros”, adică păcătos, „iar eu sunt un om cu pielea netedă”. Căci prin aceste cuvinte se descoperă firea neprihănită și fără păcat a trupului Domnului.'],
+  [11, JER, '(Capitolul XXVII, versetul 11) Iată, Esav, fratele meu, este un om păros, iar eu sunt un om neted. Acolo unde se scrie că era păros, în ebraică stă Seir. De aceea, mai târziu, munții Seirului și ținutul în care a locuit au fost numiți Seir: am vorbit despre aceasta mai înainte și mai sus.'],
+  [15, IP, 'Faptul că Iacov poartă haina înseamnă că Cuvântul S-a îmbrăcat cu trupul, iar pieile iezilor înfășurate în jurul brațelor lui arată că a primit în Sine toate păcatele noastre, întinzându-Și mâinile și brațele pe cruce, după cum spune chiar Isaia: „El a purtat păcatele noastre și a luat asupra Sa bolile noastre.”'],
+  [15, JER, '(Versetul 15) Și Rebeca a luat hainele fiului ei mai mare, Esav, pe care le dorea mult acasă. Și în acest loc, tradiția evreilor spune că întâii născuți, care împlineau îndatoririle preoților, aveau un veșmânt preoțesc, pe care îl purtau ca să aducă jertfe lui Dumnezeu înainte de alegerea lui Aaron la preoție.'],
+  [19, IP, 'Cuvintele lui Iacov către tatăl său, „Am făcut precum mi-ai spus”, arată că Cuvântul este totdeauna ascultător de Tatăl Său, după cum întărește ce spune în Ezechiel: „Am făcut întocmai cum mi s-a poruncit.”'],
+  [22, IP, 'Aceasta înseamnă că Cuvântul, care în Iacov a prefigurat tainele, a devenit și glasul proorocilor, fiindcă El este Cel ce prevestește în ei ce se va întâmpla. Dimpotrivă, mâinile Lui au devenit mâinile lui Esav. Într-adevăr, El [Cuvântul] a fost dat la moarte din pricina păcatelor poporului.'],
+  [31, IP, 'Mâncărurile lui Esav înseamnă slujirea poporului de sub lege. Fiindcă sunt umflați de mândrie și sunt siguri că se îndreptățesc prin tăierea împrejur, ei aduc ca hrană pe cei dintre neamuri care s-au întors, în timp ce ei înșiși au nevoie de hrană, fiindcă nu pot atinge pâinea cerească.'],
+  [35, IP, 'Faptul că îi spune: „Fratele tău a venit cu viclenie și ți-a luat binecuvântarea” înseamnă, într-un chip care ascunde o taină, că Cuvântul lui Dumnezeu, după întrupare, a trebuit să ia chip de rob. [Astfel], datorită Celui Care a fost necunoscut în neamul Lui, a putut primi binecuvântarea Tatălui și să ne-o dea nouă, celor ce cred în El.'],
+  [35, CLARKE, 'A luat binecuvântarea ta — Această binecuvântare, care era altceva decât dreptul de întâi-născut, pare să cuprindă două părți: 1. Stăpânirea, în general și în cele din urmă, asupra celeilalte părți a familiei; și 2. Faptul de a fi strămoșul Mesiei. Dar prima este spusă mai limpede decât a doua. Vezi nota la Fac. 25:31.'],
+  [36, JER, '(Versetul 36.) Și Esav a zis: Pe bună dreptate i s-a numit numele Iacov: căci m-a păcălit de aceste două ori. Iacov se tâlcuiește „cel ce păcălește”. Și de aceea, fiindcă își înșelase fratele prin iscusință, a făcut aluzie la nume. Așadar, a fost numit Iacov mai înainte, fiindcă apucase în nașterea sa călcâiul fratelui său.']
+];

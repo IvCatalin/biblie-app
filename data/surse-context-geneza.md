@@ -1,12 +1,12 @@
 # Registru surse de context pentru Geneza (Diverse → versete)
 
-Generat cu `node tools/audit-surse.js`. Pentru fiecare lucrare din Bibliotecă (în afara Torei, Talmudului, Mișnei, Kabbalei și comentatorilor Tanakh, care au fluxuri proprii): câte rânduri sunt legate de Geneza 1–26 și câte unități pomenesc personaje/evenimente din aceste capitole (cuvinte-cheie; include și false pozitive).
+Generat cu `node tools/audit-surse.js`. Pentru fiecare lucrare din Bibliotecă (în afara Torei, Talmudului, Mișnei, Kabbalei și comentatorilor Tanakh, care au fluxuri proprii): câte rânduri sunt legate de Geneza 1–27 și câte unități pomenesc personaje/evenimente din aceste capitole (cuvinte-cheie; include și false pozitive).
 
 | Grup | Lucrare | Disponibilă | Rânduri legate | Unități cu cuvinte-cheie |
 |---|---|---|---|---|
 | Apocrife NT și gnostice | Marcion (Apostolikon: Galateni) (`marcion-galateni`) | da | 6 | 13 |
 | Apocrife NT și gnostice | Evanghelia lui Filip (`evanghelia-filip`) | da | 6 | 11 |
-| Apocrife NT și gnostice | Marcion (Apostolikon: Romani) (`marcion-romani`) | da | 4 | 15 |
+| Apocrife NT și gnostice | Marcion (Apostolikon: Romani) (`marcion-romani`) | da | 5 | 15 |
 | Apocrife NT și gnostice | Diagramele ofite (`diagrame-ofite`) | da | 4 | 10 |
 | Apocrife NT și gnostice | Marcion (Evangelion) (`marcion-evangelion`) | da | 3 | 24 |
 | Apocrife NT și gnostice | Apocalipsa lui Pavel (Visio Pauli) (`apocalipsa-pavel`) | da | 3 | 12 |
@@ -45,7 +45,7 @@ Generat cu `node tools/audit-surse.js`. Pentru fiecare lucrare din Bibliotecă (
 | Apocrife NT și gnostice | Evanghelia adevărului (`evanghelia-adevarului`) | da | 0 | 0 |
 | Apocrife NT și gnostice | Faptele lui Pavel și Tecla (`faptele-pavel-tecla`) | da | 0 | 0 |
 | Apocrife NT și gnostice | Apocalipsa lui Toma (`apocalipsa-toma`) | da | 0 | 0 |
-| Deuterocanonice | Înțelepciunea lui Isus Sirah (Ecclesiasticul) (`sirah`) | da | 19 | 18 |
+| Deuterocanonice | Înțelepciunea lui Isus Sirah (Ecclesiasticul) (`sirah`) | da | 20 | 18 |
 | Deuterocanonice | Cartea Înțelepciunii lui Solomon (`intelepciunea-lui-solomon`) | da | 11 | 3 |
 | Deuterocanonice | Tovit (`tovit`) | da | 2 | 13 |
 | Deuterocanonice | 4 Macabei (`4-macabei`) | da | 1 | 10 |
@@ -62,8 +62,8 @@ Generat cu `node tools/audit-surse.js`. Pentru fiecare lucrare din Bibliotecă (
 | Deuterocanonice | Istoria Susanei (`susana`) | da | 0 | 0 |
 | Deuterocanonice | Istoria lui Vil și a Balaurului (`vil-si-balaurul`) | da | 0 | 0 |
 | Deuterocanonice | Psalmul 151 (`psalm-151`) | da | 0 | 0 |
-| Patristice și istorici | Volumul 1 (`josephus-antichitati-cartea1`) | da | 61 | 106 |
-| Patristice și istorici | Clement Romanul — Epistola I către Corinteni (`clement-roman`) | da | 15 | 18 |
+| Patristice și istorici | Volumul 1 (`josephus-antichitati-cartea1`) | da | 65 | 106 |
+| Patristice și istorici | Clement Romanul — Epistola I către Corinteni (`clement-roman`) | da | 16 | 18 |
 | Patristice și istorici | Epistola lui Barnaba (`barnaba`) | da | 6 | 11 |
 | Patristice și istorici | Eusebiu (`eusebiu-istoria`) | da | 3 | 29 |
 | Patristice și istorici | Documentul de la Damasc (Fragmentele Zadokite) (`documentul-damasc`) | da | 3 | 5 |
@@ -90,9 +90,9 @@ Generat cu `node tools/audit-surse.js`. Pentru fiecare lucrare din Bibliotecă (
 | Patristice și istorici | Ioan Gură de Aur — Omilii la Facere (`ioan-gura-de-aur`) | nu | 0 | 0 |
 | Patristice și istorici | Fericitul Augustin — Confesiuni, Cetatea lui Dumnezeu (`augustin`) | nu | 0 | 0 |
 | Patristice și istorici | Ieronim — De Viris Illustribus și altele (`ieronim`) | nu | 0 | 0 |
-| Pseudepigrafe | Cartea Jubileelor (`jubileele`) | da | 285 | 359 |
-| Pseudepigrafe | Cartea Dreptului (Sefer HaYashar) (`cartea-dreptului`) | da | 278 | 1021 |
-| Pseudepigrafe | Apocalipsa lui Moise (`apocalipsa-moise`) | da | 35 | 71 |
+| Pseudepigrafe | Cartea Jubileelor (`jubileele`) | da | 316 | 359 |
+| Pseudepigrafe | Cartea Dreptului (Sefer HaYashar) (`cartea-dreptului`) | da | 291 | 1021 |
+| Pseudepigrafe | Apocalipsa lui Moise (`apocalipsa-moise`) | da | 36 | 71 |
 | Pseudepigrafe | 4 Ezdra (2 Ezdra / Apocalipsa lui Ezra) (`4-ezdra`) | da | 24 | 24 |
 | Pseudepigrafe | Oracolele Sibiline (`oracolele-sibiline`) | da | 22 | 28 |
 | Pseudepigrafe | 2 Enoh (Enoh slavon) (`2-enoh`) | da | 20 | 49 |

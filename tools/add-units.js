@@ -10,7 +10,7 @@ const byCh = {};
 for (const a of process.argv.slice(2).filter(a => a.includes('>'))) {
   const [l, r] = a.split('>'); const [slug, cap, v] = l.split(':'); const [gn, gv] = r.split(':').map(Number);
   const b = book(slug); if (!b) { console.log('lipsă lucrare', slug); continue; } const ch = chapOf(b, +cap); const u = ch && (ch.verses || []).find(x => String(x.v) === String(v)); if (!u) { console.log('lipsă unitate', a); continue; }
-  const text = plain(u.t); const author = slug === 'eusebiu-istoria' ? 'Eusebiu din Cezareea, Istoria bisericească, Cartea I, cap. ' + cap : slug === 'documentul-damasc' ? 'Documentul de la Damasc ' + cap + ':' + v : LAB[slug] ? LAB[slug](+cap) : (b.name_ro || b.name).replace(/\s*\(.*$/, '') + ' ' + cap + ':' + v;
+  const text = plain(u.t); const nm = /^marcion/.test(slug) ? (b.name_ro || b.name).replace(/\s*\((.*)\)$/, ', $1') : (b.name_ro || b.name).replace(/\s*\(.*$/, ''); const CV = /^(clement|barnaba|marcion|evanghelia-|diagrame|heracleon|ptolemeu|faptele|apocalipsa-(petru|pavel|toma)|ignatie|policarp|didahia|pastorul|papias|naaseeni|protoevanghelia|martiriul|testament)/.test(slug); const author = slug === 'eusebiu-istoria' ? 'Eusebiu din Cezareea, Istoria bisericească, Cartea I, cap. ' + cap : slug === 'documentul-damasc' ? 'Documentul de la Damasc ' + cap + ':' + v : LAB[slug] ? LAB[slug](+cap) : CV ? nm + ' ' + cap + ':' + v : nm + ' ' + cap + ' — comparație';
   (byCh[gn] = byCh[gn] || []).push({ gv, row: { author, text, src: { slug, spec: { num: +cap, v: u.v } } } });
 }
 let n = 0;
