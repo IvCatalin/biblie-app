@@ -184,15 +184,22 @@
  "27": {
   "hash": "60792446d1d6b50a",
   "data": "2026-11-07",
-  "nume": 150,
-  "translit": 8,
+  "nume": 154,
+  "translit": 6,
   "netriate": []
  },
  "28": {
   "hash": "bf329ea4f78fa3bd",
   "data": "2026-11-07",
-  "nume": 144,
-  "translit": 5,
+  "nume": 148,
+  "translit": 2,
+  "netriate": []
+ },
+ "29": {
+  "hash": "96c9fbf3cbba57fe",
+  "data": "2026-11-07",
+  "nume": 143,
+  "translit": 2,
   "netriate": []
  }
 }

@@ -248,6 +248,17 @@ window.CHAPTER_DATA = [
       "v": 24
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 19",
+    "text": "Iacov a fost trimis de mama lui în Mesopotamia, ca să se căsătorească cu fiica lui Laban, fratele ei [căsătorie îngăduită de Isaac, din pricina plecării lui față de dorințele soției sale]; și a mers astfel prin țara Canaan; și pentru că ura pe oamenii acelei țări, nu a vrut să găzduiască la niciunul dintre ei, ci și-a luat găzduirea sub cerul liber și și-a pus capul pe o grămadă de pietre pe care le adunase laolaltă. În vremea aceea a văzut în somn o astfel de vedenie stând lângă el: i s-a părut că vede o scară care ajungea de la pământ până la cer și persoane care coborau pe scară și care păreau mai alese decât omenești; și, în cele din urmă, Însuși Dumnezeu stătea deasupra ei și i S-a arătat limpede, Care, chemându-l pe nume, i-a vorbit cu aceste cuvinte:",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 20,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -552,6 +563,17 @@ window.CHAPTER_DATA = [
       "v": 24
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 19",
+    "text": "Iacov a fost trimis de mama lui în Mesopotamia, ca să se căsătorească cu fiica lui Laban, fratele ei [căsătorie îngăduită de Isaac, din pricina plecării lui față de dorințele soției sale]; și a mers astfel prin țara Canaan; și pentru că ura pe oamenii acelei țări, nu a vrut să găzduiască la niciunul dintre ei, ci și-a luat găzduirea sub cerul liber și și-a pus capul pe o grămadă de pietre pe care le adunase laolaltă. În vremea aceea a văzut în somn o astfel de vedenie stând lângă el: i s-a părut că vede o scară care ajungea de la pământ până la cer și persoane care coborau pe scară și care păreau mai alese decât omenești; și, în cele din urmă, Însuși Dumnezeu stătea deasupra ei și i S-a arătat limpede, Care, chemându-l pe nume, i-a vorbit cu aceste cuvinte:",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 20,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -766,6 +788,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 29,
       "v": 29
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 19",
+    "text": "Iacov a fost trimis de mama lui în Mesopotamia, ca să se căsătorească cu fiica lui Laban, fratele ei [căsătorie îngăduită de Isaac, din pricina plecării lui față de dorințele soției sale]; și a mers astfel prin țara Canaan; și pentru că ura pe oamenii acelei țări, nu a vrut să găzduiască la niciunul dintre ei, ci și-a luat găzduirea sub cerul liber și și-a pus capul pe o grămadă de pietre pe care le adunase laolaltă. În vremea aceea a văzut în somn o astfel de vedenie stând lângă el: i s-a părut că vede o scară care ajungea de la pământ până la cer și persoane care coborau pe scară și care păreau mai alese decât omenești; și, în cele din urmă, Însuși Dumnezeu stătea deasupra ei și i S-a arătat limpede, Care, chemându-l pe nume, i-a vorbit cu aceste cuvinte:",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 20,
+      "v": 1
      }
     }
    }
@@ -1025,6 +1058,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 29,
       "v": 29
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 19",
+    "text": "Iacov a fost trimis de mama lui în Mesopotamia, ca să se căsătorească cu fiica lui Laban, fratele ei [căsătorie îngăduită de Isaac, din pricina plecării lui față de dorințele soției sale]; și a mers astfel prin țara Canaan; și pentru că ura pe oamenii acelei țări, nu a vrut să găzduiască la niciunul dintre ei, ci și-a luat găzduirea sub cerul liber și și-a pus capul pe o grămadă de pietre pe care le adunase laolaltă. În vremea aceea a văzut în somn o astfel de vedenie stând lângă el: i s-a părut că vede o scară care ajungea de la pământ până la cer și persoane care coborau pe scară și care păreau mai alese decât omenești; și, în cele din urmă, Însuși Dumnezeu stătea deasupra ei și i S-a arătat limpede, Care, chemându-l pe nume, i-a vorbit cu aceste cuvinte:",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 20,
+      "v": 1
      }
     }
    }
@@ -1707,17 +1751,6 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
-    "text": "Soția lui Isaac a rămas însărcinată după moartea lui Avraam; și, când pântecele i s-a îngreuiat foarte tare, Isaac a fost foarte îngrijorat și L-a întrebat pe Dumnezeu; Care a răspuns că Rebeca va naște gemeni; și că două neamuri vor lua numele acestor fii; și că cel care se va arăta al doilea îl va întrece pe cel mai mare. Astfel, ea, într-un timp scurt, după cum prevestise Dumnezeu, a născut gemeni; dintre care cel mai mare era, din cap până în picioare, foarte aspru și păros; iar cel mai tânăr l-a apucat de călcâi când se aflau în nașterea lor. Tatăl l-a iubit pe cel mai mare, care se numea Esau, nume potrivit cu asprimea lui, căci evreii numesc o asemenea asprime păroasă [Esau sau] Seir; dar Iacov, cel mai tânăr, era cel mai iubit de mama lui.",
-    "src": {
-     "slug": "josephus-antichitati-cartea1",
-     "spec": {
-      "num": 19,
-      "v": 1
-     }
-    }
-   },
-   {
     "author": "Cartea Jubileelor 27 — comparație",
     "text": "Și Isaac l-a trimis pe Iacob, și a mers în Mesopotamia, la Laban, fiul lui Betuel sirianul, fratele Rebecăi, mama lui Iacob.",
     "src": {
@@ -1725,6 +1758,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 27,
       "v": 12
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 19",
+    "text": "Iacov a fost trimis de mama lui în Mesopotamia, ca să se căsătorească cu fiica lui Laban, fratele ei [căsătorie îngăduită de Isaac, din pricina plecării lui față de dorințele soției sale]; și a mers astfel prin țara Canaan; și pentru că ura pe oamenii acelei țări, nu a vrut să găzduiască la niciunul dintre ei, ci și-a luat găzduirea sub cerul liber și și-a pus capul pe o grămadă de pietre pe care le adunase laolaltă. În vremea aceea a văzut în somn o astfel de vedenie stând lângă el: i s-a părut că vede o scară care ajungea de la pământ până la cer și persoane care coborau pe scară și care păreau mai alese decât omenești; și, în cele din urmă, Însuși Dumnezeu stătea deasupra ei și i S-a arătat limpede, Care, chemându-l pe nume, i-a vorbit cu aceste cuvinte:",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 20,
+      "v": 1
      }
     }
    }
@@ -1898,17 +1942,6 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
-    "text": "Soția lui Isaac a rămas însărcinată după moartea lui Avraam; și, când pântecele i s-a îngreuiat foarte tare, Isaac a fost foarte îngrijorat și L-a întrebat pe Dumnezeu; Care a răspuns că Rebeca va naște gemeni; și că două neamuri vor lua numele acestor fii; și că cel care se va arăta al doilea îl va întrece pe cel mai mare. Astfel, ea, într-un timp scurt, după cum prevestise Dumnezeu, a născut gemeni; dintre care cel mai mare era, din cap până în picioare, foarte aspru și păros; iar cel mai tânăr l-a apucat de călcâi când se aflau în nașterea lor. Tatăl l-a iubit pe cel mai mare, care se numea Esau, nume potrivit cu asprimea lui, căci evreii numesc o asemenea asprime păroasă [Esau sau] Seir; dar Iacov, cel mai tânăr, era cel mai iubit de mama lui.",
-    "src": {
-     "slug": "josephus-antichitati-cartea1",
-     "spec": {
-      "num": 19,
-      "v": 1
-     }
-    }
-   },
-   {
     "author": "Cartea Jubileelor 27 — comparație",
     "text": "Și Isaac l-a trimis pe Iacob, și a mers în Mesopotamia, la Laban, fiul lui Betuel sirianul, fratele Rebecăi, mama lui Iacob.",
     "src": {
@@ -1916,6 +1949,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 27,
       "v": 12
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 19",
+    "text": "Iacov a fost trimis de mama lui în Mesopotamia, ca să se căsătorească cu fiica lui Laban, fratele ei [căsătorie îngăduită de Isaac, din pricina plecării lui față de dorințele soției sale]; și a mers astfel prin țara Canaan; și pentru că ura pe oamenii acelei țări, nu a vrut să găzduiască la niciunul dintre ei, ci și-a luat găzduirea sub cerul liber și și-a pus capul pe o grămadă de pietre pe care le adunase laolaltă. În vremea aceea a văzut în somn o astfel de vedenie stând lângă el: i s-a părut că vede o scară care ajungea de la pământ până la cer și persoane care coborau pe scară și care păreau mai alese decât omenești; și, în cele din urmă, Însuși Dumnezeu stătea deasupra ei și i S-a arătat limpede, Care, chemându-l pe nume, i-a vorbit cu aceste cuvinte:",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 20,
+      "v": 1
      }
     }
    }
@@ -2105,17 +2149,6 @@ window.CHAPTER_DATA = [
     "text": "«Iar Esau a văzut că fiicele Canaanului erau rele etc.» Scriptura arată că Esau nu a luat în seamă decât din pricina nemulțumirii tatălui său față de ele, dar fără aceasta, în ceea ce privește faptul că sunt de felul răului, nu a luat în seamă, căci sufletul lui nu le uraște. Și din concluzie, de asemenea, știi că motivul că sunt rele în ochii lui Isaac nu a folosit decât ca să nu mai adauge din ele, dar nu ca să le alunge pe cele care erau deja la el. Și poate că toată simțirea lui nu era decât ca nu cumva să se rupă binecuvântările lui din pricina fiilor care i-ar fi din fiicele Canaanului, de aceea a luat dintre fiicele lui Ismael, ca să se împlinească binecuvântările prin fiii care i-ar fi din ele.<br><br>Sfârșitul secțiunii Toledot."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
-    "text": "Soția lui Isaac a rămas însărcinată după moartea lui Avraam; și, când pântecele i s-a îngreuiat foarte tare, Isaac a fost foarte îngrijorat și L-a întrebat pe Dumnezeu; Care a răspuns că Rebeca va naște gemeni; și că două neamuri vor lua numele acestor fii; și că cel care se va arăta al doilea îl va întrece pe cel mai mare. Astfel, ea, într-un timp scurt, după cum prevestise Dumnezeu, a născut gemeni; dintre care cel mai mare era, din cap până în picioare, foarte aspru și păros; iar cel mai tânăr l-a apucat de călcâi când se aflau în nașterea lor. Tatăl l-a iubit pe cel mai mare, care se numea Esau, nume potrivit cu asprimea lui, căci evreii numesc o asemenea asprime păroasă [Esau sau] Seir; dar Iacov, cel mai tânăr, era cel mai iubit de mama lui.",
-    "src": {
-     "slug": "josephus-antichitati-cartea1",
-     "spec": {
-      "num": 19,
-      "v": 1
-     }
-    }
-   },
-   {
     "author": "Cartea Jubileelor 27 — comparație",
     "text": "Și Isaac l-a trimis pe Iacob, și a mers în Mesopotamia, la Laban, fiul lui Betuel sirianul, fratele Rebecăi, mama lui Iacob.",
     "src": {
@@ -2123,6 +2156,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 27,
       "v": 12
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 19",
+    "text": "Iacov a fost trimis de mama lui în Mesopotamia, ca să se căsătorească cu fiica lui Laban, fratele ei [căsătorie îngăduită de Isaac, din pricina plecării lui față de dorințele soției sale]; și a mers astfel prin țara Canaan; și pentru că ura pe oamenii acelei țări, nu a vrut să găzduiască la niciunul dintre ei, ci și-a luat găzduirea sub cerul liber și și-a pus capul pe o grămadă de pietre pe care le adunase laolaltă. În vremea aceea a văzut în somn o astfel de vedenie stând lângă el: i s-a părut că vede o scară care ajungea de la pământ până la cer și persoane care coborau pe scară și care păreau mai alese decât omenești; și, în cele din urmă, Însuși Dumnezeu stătea deasupra ei și i S-a arătat limpede, Care, chemându-l pe nume, i-a vorbit cu aceste cuvinte:",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 20,
+      "v": 1
      }
     }
    }
@@ -2404,17 +2448,6 @@ window.CHAPTER_DATA = [
     "text": "«Și Esau a mers la Ismael.» După sensul simplu: la casa lui Ismael, căci acesta se prăpădise deja, căci aceasta a fost când Iacov a mers la Haran, la vârsta de șaptezeci și șapte de ani, căci Iacov a trăit după ce a mers la Laban șaptezeci de ani: douăzeci cât a stat în casa lui Laban, iar Iosif avea șase ani când a ieșit din casa lui Laban, și a fost vândut la șaptesprezece, și paisprezece ani înainte să se nască Iosif, iată treizeci și unu de când a venit la Laban; și după douăzeci și doi de ani de la vânzarea lui, Iacov a mers în Egipt („Mițrayim”) și a trăit șaptesprezece în Egipt, iată șaptezeci; iar Iacov a trăit o sută patruzeci și șapte de ani; se găsește că avea șaptezeci și șapte când a venit la Haran, căci șaptezeci și șaptezeci și șapte sunt o sută patruzeci și șapte; iar când a murit Ismael, Iacov avea numai șaizeci și trei de ani; se găsește că, atunci când a venit la Haran, acesta murise deja de paisprezece ani. Iar învățătorii noștri au explicat „la Ismael” anume, căci atunci era în viață și în acel interval a murit, și acei paisprezece ani a slujit în casa lui Eber, și la șaptezeci și șapte de ani a venit la Haran; și ordinea anilor: Iacov avea șaizeci și patru de ani când a murit Ismael, și la șaptezeci și șapte a venit la Haran, și la optzeci și patru i-a luat în căsătorie pe Rahela și Lea, și la nouăzeci și unu i s-a născut Iosif, și la nouăzeci și șapte a ieșit din Haran, și la o sută opt ani, când a fost vândut Iosif, și la o sută douăzeci, când a murit Isaac, și la o sută treizeci, când a mers în Egipt, și a făcut șaptesprezece în Egipt, iată o sută patruzeci și șapte; iar Iosif avea cincizeci și șase de ani când a murit tatăl său.<br><br>«Binecuvântându-l.» A poruncit asupra lui să nu ia din fiicele Canaanului; din aceasta a văzut și a înțeles că fiicele Canaanului sunt rele și nu este în ele binecuvântare, și a luat-o pe Mahalat, fiica lui Ismael.<br><br>«Pe lângă soțiile lui.» Cu soțiile lui, ca în „stând asupra lui”, cu el, lângă el. Toată această faptă a lui Esau a fost după ce a fugit Iacov, dar a dat la o parte fapta lui Esau, fiind mică, și după aceea explică fapta lui Iacov.<br><br>Dumnezeul meu, dușmanul meu va fi împins și zdrobit, și fărădelegea mea va fi ștearsă și curățată, și de la mine, Dumnezeule, nu Te îndepărta, când voi încheia „Urmașii lui Isaac”."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
-    "text": "Soția lui Isaac a rămas însărcinată după moartea lui Avraam; și, când pântecele i s-a îngreuiat foarte tare, Isaac a fost foarte îngrijorat și L-a întrebat pe Dumnezeu; Care a răspuns că Rebeca va naște gemeni; și că două neamuri vor lua numele acestor fii; și că cel care se va arăta al doilea îl va întrece pe cel mai mare. Astfel, ea, într-un timp scurt, după cum prevestise Dumnezeu, a născut gemeni; dintre care cel mai mare era, din cap până în picioare, foarte aspru și păros; iar cel mai tânăr l-a apucat de călcâi când se aflau în nașterea lor. Tatăl l-a iubit pe cel mai mare, care se numea Esau, nume potrivit cu asprimea lui, căci evreii numesc o asemenea asprime păroasă [Esau sau] Seir; dar Iacov, cel mai tânăr, era cel mai iubit de mama lui.",
-    "src": {
-     "slug": "josephus-antichitati-cartea1",
-     "spec": {
-      "num": 19,
-      "v": 1
-     }
-    }
-   },
-   {
     "author": "Cartea Jubileelor 27 — comparație",
     "text": "Și Isaac l-a trimis pe Iacob, și a mers în Mesopotamia, la Laban, fiul lui Betuel sirianul, fratele Rebecăi, mama lui Iacob.",
     "src": {
@@ -2422,6 +2455,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 27,
       "v": 12
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 19",
+    "text": "Iacov a fost trimis de mama lui în Mesopotamia, ca să se căsătorească cu fiica lui Laban, fratele ei [căsătorie îngăduită de Isaac, din pricina plecării lui față de dorințele soției sale]; și a mers astfel prin țara Canaan; și pentru că ura pe oamenii acelei țări, nu a vrut să găzduiască la niciunul dintre ei, ci și-a luat găzduirea sub cerul liber și și-a pus capul pe o grămadă de pietre pe care le adunase laolaltă. În vremea aceea a văzut în somn o astfel de vedenie stând lângă el: i s-a părut că vede o scară care ajungea de la pământ până la cer și persoane care coborau pe scară și care păreau mai alese decât omenești; și, în cele din urmă, Însuși Dumnezeu stătea deasupra ei și i S-a arătat limpede, Care, chemându-l pe nume, i-a vorbit cu aceste cuvinte:",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 20,
+      "v": 1
      }
     }
    }
@@ -2585,23 +2629,23 @@ window.CHAPTER_DATA = [
     "text": "«Iacov a ieșit din Beer-Șeba etc.» Motivul pentru care nu i-a fost de ajuns în informarea despre mersul lui în secțiunea precedentă, căci este scris „Și Iacov a ascultat” etc. „și a mers” etc., să facă cunoscut ce a întâlnit pe drum înainte de a ajunge la ținta lui, și pentru că a făcut pauză în subiect, a revenit să spună „și a ieșit” etc. Dar trebuie să știm de ce a avut nevoie să spună „și a mers” etc. Și mai ales că întâlnirea lui cu locul a fost înainte de a ajunge la Haran, și nu trebuia să pună înainte ce urmează. Încă, de ce a spus „către Haran” (ḥaranah) și nu a spus „la Haran” (le-Ḥaran), și deși au spus, binecuvântată fie amintirea lor, „orice cuvânt” etc., totuși Scriptura se potrivește unui lucru prin schimbarea ei uneori.<br><br>Însă Tora se îndreaptă către a așeza în ordine tot ce a trecut peste Iacov din vremea ieșirii lui. Iar aceasta, la început, spune „Iacov a ieșit” etc., explicația: nu a făcut decât ieșire și nu a fost nevoie să meargă pe picioarele lui, iar cel care merge este Haran, iar aceasta este spusa „și a mers către Haran”, explicația: Haran este cel care a mers din locul lui să-i iasă înainte lui Iacov.<br><br>Încă aluzionează ca să facă cunoscut că atunci când a ieșit Iacov din Beer-Șeba, îndată s-a dus ḥaron (mânia) lui Esau, iar aceasta este spusa „și a mers ḥaranah”.<br><br>Iar după spusele lor, binecuvântată fie amintirea lor, că Esau a trimis pe Elifaz după el etc., vrea prin spusa „și a mers către Haran” să aluzioneze la mersul lui Elifaz după el în mânie. Și poate că de aceea a alăturat lucrului „și a întâlnit locul”, ca să aluzioneze că s-a văzut în necaz și a avut nevoie de rugăciune:"
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
-    "text": "Soția lui Isaac a rămas însărcinată după moartea lui Avraam; și, când pântecele i s-a îngreuiat foarte tare, Isaac a fost foarte îngrijorat și L-a întrebat pe Dumnezeu; Care a răspuns că Rebeca va naște gemeni; și că două neamuri vor lua numele acestor fii; și că cel care se va arăta al doilea îl va întrece pe cel mai mare. Astfel, ea, într-un timp scurt, după cum prevestise Dumnezeu, a născut gemeni; dintre care cel mai mare era, din cap până în picioare, foarte aspru și păros; iar cel mai tânăr l-a apucat de călcâi când se aflau în nașterea lor. Tatăl l-a iubit pe cel mai mare, care se numea Esau, nume potrivit cu asprimea lui, căci evreii numesc o asemenea asprime păroasă [Esau sau] Seir; dar Iacov, cel mai tânăr, era cel mai iubit de mama lui.",
-    "src": {
-     "slug": "josephus-antichitati-cartea1",
-     "spec": {
-      "num": 19,
-      "v": 1
-     }
-    }
-   },
-   {
     "author": "Cartea Dreptului 30 — comparație",
     "text": "Și Iacob a mers continuând drumul său către Haran, și a ajuns până la Muntele Moria, și a zăbovit acolo toată noaptea lângă orașul Luz; iar Domnul i-a apărut acolo lui Iacob în acea noapte, iar El i-a spus lui: Eu sunt Domnul Dumnezeul lui Avraam și Dumnezeul lui Isaac tatăl tău; meleagul pe care tu stai Eu îl voi da ție și seminței tale.",
     "src": {
      "slug": "cartea-dreptului",
      "spec": {
       "num": 30,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 19",
+    "text": "Iacov a fost trimis de mama lui în Mesopotamia, ca să se căsătorească cu fiica lui Laban, fratele ei [căsătorie îngăduită de Isaac, din pricina plecării lui față de dorințele soției sale]; și a mers astfel prin țara Canaan; și pentru că ura pe oamenii acelei țări, nu a vrut să găzduiască la niciunul dintre ei, ci și-a luat găzduirea sub cerul liber și și-a pus capul pe o grămadă de pietre pe care le adunase laolaltă. În vremea aceea a văzut în somn o astfel de vedenie stând lângă el: i s-a părut că vede o scară care ajungea de la pământ până la cer și persoane care coborau pe scară și care păreau mai alese decât omenești; și, în cele din urmă, Însuși Dumnezeu stătea deasupra ei și i S-a arătat limpede, Care, chemându-l pe nume, i-a vorbit cu aceste cuvinte:",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 20,
       "v": 1
      }
     }
