@@ -624,8 +624,15 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 13",
-    "text": "După puțină vreme, Avraam a avut un fiu cu Sara, după cum îi prevestise Dumnezeu, pe care l-a numit Isaac, ceea ce înseamnă Râs. Și, într-adevăr, l-au numit astfel pentru că Sara a râs când Dumnezeu a spus că va naște un fiu, ea neașteptându-se la un asemenea lucru, fiind trecută de vârsta nașterii de copii, căci avea nouăzeci de ani, iar Avraam o sută; astfel că acest fiu li s-a născut amândurora în ultimul an al acestor numere zecimale. Și l-au tăiat împrejur în ziua a opta, și din acel timp iudeii continuă obiceiul de a-și tăia împrejur fiii în acel număr de zile. Dar arabii taie împrejur după al treisprezecelea an, pentru că Ismael, întemeietorul neamului lor, care i s-a născut lui Avraam din țiitoare, a fost tăiat împrejur la acea vârstă; despre care voi da îndată o istorisire deosebită, cu mare exactitate."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
+    "text": "După puțină vreme, Avraam a avut un fiu cu Sara, după cum îi prevestise Dumnezeu, pe care l-a numit Isaac, ceea ce înseamnă Râs. Și, într-adevăr, l-au numit astfel pentru că Sara a râs când Dumnezeu a spus că va naște un fiu, ea neașteptându-se la un asemenea lucru, fiind trecută de vârsta nașterii de copii, căci avea nouăzeci de ani, iar Avraam o sută; astfel că acest fiu li s-a născut amândurora în ultimul an al acestor numere zecimale. Și l-au tăiat împrejur în ziua a opta, și din acel timp iudeii continuă obiceiul de a-și tăia împrejur fiii în acel număr de zile. Dar arabii taie împrejur după al treisprezecelea an, pentru că Ismael, întemeietorul neamului lor, care i s-a născut lui Avraam din țiitoare, a fost tăiat împrejur la acea vârstă; despre care voi da îndată o istorisire deosebită, cu mare exactitate.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 13,
+      "v": 2
+     }
+    }
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
@@ -790,6 +797,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 16,
       "v": 14
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Și Avraam a circumcis pe fiul său Isaac la vârsta de 8 zile, precum Dumnezeu îi poruncise lui Avram să facă seminței lui după el; iar Avraam avea 100 de ani, și Sara avea 90 de ani, când Isaac le-a fost născut lor.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 3
      }
     }
    }
@@ -1545,6 +1563,39 @@ window.CHAPTER_DATA = [
    {
     "author": "Origen, Omilii la Facere",
     "text": "Isaac, spune Scriptura, „a crescut” și s-a întărit; adică bucuria lui Avraam a crescut pe măsură ce privea nu la cele „ce se văd, ci la cele ce nu se văd”. Căci Avraam nu se bucura de cele de față, nici de bogățiile lumii și de treburile veacului. Dar voiești să auzi de ce se bucura Avraam? Ascultă pe Domnul zicând iudeilor: „Avraam, părintele vostru, a dorit să vadă ziua Mea și a văzut-o și s-a bucurat.” Așa, deci, „a crescut Isaac”. Acea viziune a lui Avraam, în care a văzut ziua lui Hristos și nădejdea care este în Hristos, îi sporea bucuriile. Și de-ar da Dumnezeu să te faci și tu Isaac și să fii bucurie maicii tale Biserica!"
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Și copilul a crescut și a fost înțărcat, iar Avraam a făcut un mare ospăț în ziua în care Isaac a fost înțărcat.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 4
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Iar Șem și Eber și toți oamenii de seamă ai ținutului, și Abimelec regele filistenilor, și slujitorii lui, și Picol căpitanul oștii lui, au venit să mânânce și să bea și să se veselească la ospățul pe care Avraam l-a făcut în ziua înțărcării fiului său Isaac.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Iar ei au venit la Avraam, și au mâncat și au băut la ospățul pe care Avraam l-a făcut în ziua înțărcării lui Isaac.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -1746,8 +1797,15 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 13",
-    "text": "Cât despre Sara, ea l-a iubit la început pe Ismael, care se născuse din slujnica ei Agar, cu o dragoste nu mai prejos decât cea pentru propriul ei fiu, căci era crescut ca să urmeze la cârmuire; dar după ce l-a născut ea însăși pe Isaac, nu a mai vrut ca Ismael să fie crescut împreună cu el, ca fiind prea în vârstă pentru el și în stare să-i facă nedreptăți după ce va fi murit tatăl lor; l-a convins, deci, pe Avraam să-l trimită pe el și pe mama lui într-o țară depărtată. La început, el nu a fost de acord cu ceea ce Sara voia cu atâta râvnă și socotea aceasta o dovadă de cea mai mare cruzime, să trimită departe un copil mic și o femeie nepregătiți cu cele de trebuință; dar, în cele din urmă, a consimțit, pentru că Dumnezeu era mulțumit de ce hotărâse Sara: așa că i-a dat pe Ismael mamei sale, ca unul care nu putea încă merge singur; și i-a poruncit ei să ia un burduf cu apă și o pâine și să plece astfel, luând Nevoia drept călăuză. Dar, de îndată ce proviziile ei de trebuință s-au sfârșit, s-a aflat într-o stare rea; și când apa era aproape isprăvită, a așezat copilul mic, care era gata să-și dea sufletul, sub un smochin și a mers mai departe, ca el să moară în timp ce ea lipsea. Dar un înger dumnezeiesc a venit la ea și i-a vorbit de un izvor aflat în apropiere și i-a poruncit să aibă grijă și să crească copilul, pentru că va fi foarte fericită prin păstrarea lui Ismael. Atunci ea și-a luat inima în dinți, în nădejdea celor făgăduite, și, întâlnind niște păstori, prin grija lor a scăpat de necazurile în care se aflase."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
+    "text": "Cât despre Sara, ea l-a iubit la început pe Ismael, care se născuse din slujnica ei Agar, cu o dragoste nu mai prejos decât cea pentru propriul ei fiu, căci era crescut ca să urmeze la cârmuire; dar după ce l-a născut ea însăși pe Isaac, nu a mai vrut ca Ismael să fie crescut împreună cu el, ca fiind prea în vârstă pentru el și în stare să-i facă nedreptăți după ce va fi murit tatăl lor; l-a convins, deci, pe Avraam să-l trimită pe el și pe mama lui într-o țară depărtată. La început, el nu a fost de acord cu ceea ce Sara voia cu atâta râvnă și socotea aceasta o dovadă de cea mai mare cruzime, să trimită departe un copil mic și o femeie nepregătiți cu cele de trebuință; dar, în cele din urmă, a consimțit, pentru că Dumnezeu era mulțumit de ce hotărâse Sara: așa că i-a dat pe Ismael mamei sale, ca unul care nu putea încă merge singur; și i-a poruncit ei să ia un burduf cu apă și o pâine și să plece astfel, luând Nevoia drept călăuză. Dar, de îndată ce proviziile ei de trebuință s-au sfârșit, s-a aflat într-o stare rea; și când apa era aproape isprăvită, a așezat copilul mic, care era gata să-și dea sufletul, sub un smochin și a mers mai departe, ca el să moară în timp ce ea lipsea. Dar un înger dumnezeiesc a venit la ea și i-a vorbit de un izvor aflat în apropiere și i-a poruncit să aibă grijă și să crească copilul, pentru că va fi foarte fericită prin păstrarea lui Ismael. Atunci ea și-a luat inima în dinți, în nădejdea celor făgăduite, și, întâlnind niște păstori, prin grija lor a scăpat de necazurile în care se aflase.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 13,
+      "v": 3
+     }
+    }
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere",
@@ -1939,6 +1997,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Efrem Sirul, Comentariu la Facere",
     "text": "Atunci Sara, care nu arătase pizmă în nicio pricină ce o privea pe ea, a ajuns pizmașă în această pricină privitoare la fiul ei. Nu pizmuia pe Agar, pe care o dăduse bărbatului ei. Fiindcă era vorba de făgăduința lui Dumnezeu, iar fiul concubinei socotea că va fi împreună-moștenitor cu fiul femeii libere, Sara a zis: „Izgonește pe roaba aceasta și pe fiul ei, căci nu este drept ca un fiu de slujnică să aibă vreo moștenire împreună cu fiul făgăduinței, căruia i s-a făgăduit de către Dumnezeu. Nu e bine să te împotrivești lui Dumnezeu și să faci moștenitor pe cel pe care Dumnezeu nu l-a făcut moștenitor.”"
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Iar Sara a văzut faptul pe care Ismael dorea să îl facă fiului ei Isaac, și a mâhnit-o enorm din pricina fiului ei, și ea a trimis pentru Avraam și i-a spus lui, izgonește-o pe această roabă și pe fiul ei, căci fiul ei nu va fi moștenitor cu fiul meu, căci astfel a căutat să îi facă lui în această zi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 15
+     }
+    }
    }
   ]
  },
@@ -3271,6 +3340,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«A mers»: după ce l-a abandonat, a mers și s-a așezat departe de el.<br><br>«Departe» (harḥeq): infinitiv în locul trecutului, adică s-a depărtat de el cam cât o aruncătură de arc, și nu mai mult, ca să nu fie ascuns cu totul de ochii ei.<br><br>«La câteva aruncături de arc» (ki-mṭaḥawe): rădăcina lui este ṭ-ḥ-w-h, și este construit pe calea lui piʿel cu dageș; iar participiile sunt meṭaḥweh, meṭaḥwim, iar în starea construită meṭaḥawe; a explicat: cât măsura cât își încordează arcul cei ce trag cu săgeți, adică cât măsura mersului săgeții; și este posibil ca meṭaḥawe să fie substantiv."
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și mama lui l-a luat și l-a aruncat sub un măslin, și s-a dus și s-a așezat în fața lui, la o aruncătură de arc; căci a zis: Să nu văd moartea copilului meu, și pe când ședea a plâns.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 10
+     }
+    }
    }
   ]
  },
@@ -4396,8 +4476,15 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 13",
-    "text": "Când tânărul a crescut, s-a căsătorit cu o femeie, de neam egipteană, de unde își trăgea ea însăși originea și mama. Din această soție s-au născut lui Ismael doisprezece fii: Nabaiot, Chedar, Abdeel, Mabsam, Idumas, Masmaos, Masaos, Hodad, Teman, Ietur, Nafesus, Cadmas. Aceștia au locuit toată țara de la Eufrat până la Marea Roșie și au numit-o Nabatene. Sunt un neam arab și își numesc triburile după aceștia, atât din pricina propriei lor virtuți, cât și din pricina demnității lui Avraam, părintele lor."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
+    "text": "Când tânărul a crescut, s-a căsătorit cu o femeie, de neam egipteană, de unde își trăgea ea însăși originea și mama. Din această soție s-au născut lui Ismael doisprezece fii: Nabaiot, Chedar, Abdeel, Mabsam, Idumas, Masmaos, Masaos, Hodad, Teman, Ietur, Nafesus, Cadmas. Aceștia au locuit toată țara de la Eufrat până la Marea Roșie și au numit-o Nabatene. Sunt un neam arab și își numesc triburile după aceștia, atât din pricina propriei lor virtuți, cât și din pricina demnității lui Avraam, părintele lor.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 13,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -5355,6 +5442,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și Abimelec a spus: Nu știu cine a făcut lucrul acesta etc. și nici eu etc.» Trebuie să știm de ce a revenit să spună „și nici eu”. Și se vede în precizie încă spusa „nu știu cine a făcut” etc., de ce nu a fost de ajuns să spună „nu știu”, iar lucrul este înțeles că se întoarce la cuvintele lui Avraam?<br><br>Însă intenția este că el știa că i-au jefuit lui Avraam fântâna de apă, dar nu a știut cine și cine sunt jefuitorii. Și de acum va spune Avraam că asupra lui era să caute cine și cine sunt făptuitorii răutății, de aceea a răspuns că și Avraam a făcut nepotrivit că nu a făcut cunoscut lucrul regelui, și stătea și aștepta primirea lui Avraam și atunci i-ar fi făcut dreptate. Și fiindcă Avraam nu l-a socotit, nici el nu a știut, și aceasta este spusa „și nici eu nu am auzit” etc., explicația: nu am căutat să știu și a rămas exclus din cunoaștere până astăzi, când mi-ai făcut cunoscut tu."
+   },
+   {
+    "author": "Cartea Dreptului 22 — comparație",
+    "text": "Și Abimelec i-a spus lui Avraam, cum Domnul trăiește care a creat tot pământul, eu nu am auzit de acest fapt pe care slujitorii mei l-au făcut slujitorilor tăi până în această zi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 22,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -6021,6 +6119,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Căci am săpat această fântână.» Și să nu mi-o fure."
+   },
+   {
+    "author": "Cartea Dreptului 22 — comparație",
+    "text": "Și Avraam a luat șapte miei de oaie și i-a dat lui Abimelec, spunând, ia-i pe aceștia te rog din mâinile mele pentru a putea fi mărturie pentru mine că eu am săpat această fântână.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 22,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -6153,6 +6262,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 16,
       "v": 11
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 22 — comparație",
+    "text": "Și Abimelec a luat cei șapte miei de oaie pe care Avraam îi dăduse lui, căci el de asemenea îi dăduse vite și cirezi din abundență, iar Abimelec i-a jurat lui Avraam referitor la fântână, prin urmare el a numit acea fântână Beerșeba, căci acolo ei amândoi au jurat referitor la ea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 22,
+      "v": 9
      }
     }
    }
@@ -6390,6 +6510,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și Abimelec s-a ridicat»: iar Avraam a rămas acolo cu turma lui o zi sau două sau mai mult, și după aceea s-a întors în țara filistenilor, la casa lui, în Gherar."
+   },
+   {
+    "author": "Cartea Dreptului 22 — comparație",
+    "text": "Și ei amândoi au făcut un legământ la Beerșeba, iar Abimelec s-a ridicat cu Picol căpitanul oștilor sale și al tuturor oamenilor săi, și s-au întors în ținutul filistenilor, iar Avraam și toate cele ce îi aparțineau lui au locuit la Beerșeba, și el a fost în acel ținut mult timp.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 22,
+      "v": 10
+     }
+    }
    }
   ]
  },

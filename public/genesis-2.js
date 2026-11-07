@@ -800,6 +800,39 @@ window.CHAPTER_DATA = [
       "v": 17
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "Și astfel a zidit în ea un semn după care ei să țină Sabatul cu noi în ziua a șaptea, să mănânce și să bea, și să-L binecuvânteze pe Cel ce a zidit toate, precum El a binecuvântat și a sfințit Sieși un popor deosebit mai presus de toate popoarele, și ca ei să țină Sabatul împreună cu noi.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 21
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "Au fost douăzeci și două de capete ale neamului omenesc de la Adam până la Iacob, și douăzeci și două de feluri de lucrare au fost făcute până în ziua a șaptea; aceasta este binecuvântată și sfântă; și cel dintâi de asemenea este binecuvântat și sfânt; și acesta slujește cu acela spre sfințire și binecuvântare.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 23
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "Și Făcătorul tuturor a binecuvântat ziua aceasta, pe care a zidit-o spre binecuvântare, și spre sfințire, și spre slavă, mai presus de toate zilele.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 32
+     }
+    }
    }
   ],
   "textCompare": [
@@ -2081,7 +2114,14 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă cel roșu, pentru că a fost alcătuit din pământ roșu, frământat laolaltă; căci de acest fel este pământul fecioresc și adevărat."
+    "text": "Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă cel roșu, pentru că a fost alcătuit din pământ roșu, frământat laolaltă; căci de acest fel este pământul fecioresc și adevărat.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 2,
+      "v": 2
+     }
+    }
    },
    {
     "author": "Grigorie de Nazianz, Imnuri dogmatice 7",
@@ -2447,6 +2487,17 @@ window.CHAPTER_DATA = [
       "v": 1
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+    "text": "Moise mai spune că Dumnezeu a sădit un paradis în răsărit, înflorit cu tot felul de copaci; și că între ei era pomul vieții și altul al cunoașterii, prin care urma să se cunoască ce este bine și ce este rău; și că, după ce l-a adus pe Adam și pe soția lui în această grădină, le-a poruncit să poarte grijă de plante. Grădina era udată de un singur râu, care înconjura tot pământul și se împărțea în patru părți. Și Fison, care înseamnă mulțime, curgând spre India, își află ieșirea în mare și este numit de greci Gange. Eufratul, ca și Tigrul, coboară în Marea Roșie. Numele Eufrat, sau Frat, înseamnă fie o risipire, fie o floare; prin Tiris, sau Diglat, se înțelege ceea ce este iute, cu îngustime; iar Gheon curge prin Egipt și înseamnă ceea ce se ridică dinspre răsărit, pe care grecii îl numesc Nil.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 2,
+      "v": 3
+     }
+    }
    }
   ]
  },
@@ -2703,10 +2754,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Și a făcut să răsară» – deja făcuse să răsară.<br><br>«Și Pomul Vieții în mijlocul grădinii» – în mijlocul ei.<br><br>«Și Pomul Cunoașterii Binelui și Răului.» Ca Targumul lui: „și pomul din care cel care mănâncă cunoaște binele și răul”."
-   },
-   {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Numele Eufrat, sau Frat, înseamnă fie o risipire, fie o floare; prin Tiris, sau Diglat, se înțelege ceea ce este iute, cu îngustime; iar Gheon curge prin Egipt și înseamnă ceea ce se ridică dinspre răsărit, pe care grecii îl numesc Nil."
    },
    {
     "author": "Grigorie de Nazianz, Cuvântări teologice 29.20",
@@ -5409,6 +5456,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Matthew Henry, Comentariu la întreaga Biblie",
     "text": "Vede în aducerea vietăților la Adam un fel de ceremonie de învestitură: fiecare specie venea, parcă, să-i aducă omagiu noului stăpân, recunoscându-i, prin supunere, autoritatea primită de la Dumnezeu."
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și Domnul ne-a zis: Nu este bine ca omul să fie singur; să-i facem un ajutor potrivit pentru el.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 4
+     }
+    }
    }
   ],
   "textCompare": [
@@ -5741,6 +5799,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 30,
       "v": 16
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și Domnul Dumnezeul nostru a adus asupra lui un somn adânc, și el a adormit, și El a luat pentru femeie o coastă dintre coastele lui, și coasta aceasta a fost obârșia femeii dintre coastele lui, și a zidit carnea în locul ei, și a zidit femeia.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 5
      }
     }
    }
@@ -6208,12 +6277,15 @@ window.CHAPTER_DATA = [
     "text": "«De data aceasta.» Adică: acum a ieșit femeia din bărbat, dar de acum încolo nu este așa, ci bărbatul iese din femeie.<br><br>«De data aceasta, este os din oasele mele.» Rashi: „Ne învață că a venit Adam peste orice dobitoc și viețuitoare și nu i s-a liniștit mintea.” Trebuie spus că ele rămăseseră însărcinate înainte să vină Adam peste ele, căci dacă nu spui așa, ele ar fi rămas sterpe la venirea lui Adam.<br><br>«Os din oasele mele.» Această făptură nu seamănă cu celelalte făpturi, care sunt din pământ, din apă și din noroi; și de ce s-a deosebit? Ci prin aceasta a avut în vedere Sfântul, binecuvântat fie, ca „bărbatul să părăsească pe tatăl lui și pe mama lui și să se alipească de femeia lui”, și atunci „vor fi un singur trup”, adică trupul lui va fi întreg; de aceea el aleargă după ea, căci ea este din el și parcă îi lipsește un mădular; exemplu: „și Tabernacolul să devină un întreg”; dar dobitoacele, viețuitoarele, păsările și celelalte făpturi nu aleargă atât de mult, pentru că nu le lipsește nimic.<br><br>«Aceasta se va numi femeie.» Exemplu: „Dacă va fi o tânără fecioară”.<br><br>«Căci din bărbat a fost luată aceasta.» Dar femelele celorlalte făpturi nu au fost luate din masculi; de aceea nu sunt numite după forma de masculin, ca în „țapi, capre, berbeci, oi, tauri, vaci, măgari, măgărițe”.<br><br>«Căci din bărbat a fost luată.» A ieșit din el nu după calea creștinilor, ca să nu se desfrâneze în așternutul ei cu alți bărbați, ci numai cu soțul legământului ei, care este bărbatul ei, iar ea este coasta lui; și tot așa spune: „și se va alipi de femeia lui”. Rabbi Ḥanina a explicat: bărbat și femeie – dacă au fost vrednici să meargă pe calea dreaptă, fără adulter, Sfântul, binecuvântat fie, este între ei, căci Și-a împărțit Numele și L-a pus între ei; dacă nu au fost vrednici, foc îi mistuie, căci Sfântul, binecuvântat fie, Își retrage Numele dintre ei, și se află „foc și foc”; iar „femeie” are întâietate față de „bărbat”: focul femeii este aspru și se grăbește să mistuie și să pedepsească mai mult decât al bărbatului. Ce motiv? Acesta se alătură: focul femeii se aprinde ușor, căci nu o literă din Nume o întrerupe, ci este unit și se numește „foc”; dar la bărbat literele nu se alătură împreună, căci „yod”-ul din Nume le întrerupe; așa s-a învățat și așa a explicat Rashi în tratatul Sota."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Femeia se numește în limba ebraică Issa; dar numele acestei femei a fost Eva, ceea ce înseamnă mama tuturor celor vii."
-   },
-   {
     "author": "Cartea Jubileelor 3 — comparație",
-    "text": "Și l-a deșteptat pe Adam din somnul lui, și deșteptându-se s-a sculat în ziua a șasea, și El i-a adus-o, și el a cunoscut-o, și i-a zis: Aceasta este acum os din oasele mele și carne din carnea mea; se va chema soția mea, pentru că a fost luată din bărbatul ei. De aceea vor fi bărbatul și femeia una, și de aceea va lăsa omul pe tatăl său și pe mama sa, și se va lipi de soția sa, și vor fi un singur trup."
+    "text": "Și l-a deșteptat pe Adam din somnul lui, și deșteptându-se s-a sculat în ziua a șasea, și El i-a adus-o, și el a cunoscut-o, și i-a zis: Aceasta este acum os din oasele mele și carne din carnea mea; se va chema soția mea, pentru că a fost luată din bărbatul ei. De aceea vor fi bărbatul și femeia una, și de aceea va lăsa omul pe tatăl său și pe mama sa, și se va lipi de soția sa, și vor fi un singur trup.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 6
+     }
+    }
    },
    {
     "author": "Tertulian, Despre învierea trupului",

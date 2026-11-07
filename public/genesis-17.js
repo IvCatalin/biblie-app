@@ -411,6 +411,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Voi pune legământul Meu între Mine și tine.» Căci voi pune un sigiliu în carnea ta, ca să fie semn că ești rob al Meu, și așa „legământul Meu”, după obiceiul robilor care au sigiliu pe hainele lor, ca să arate că sunt robi și supuși stăpânilor lor, după cum se dovedește în Sabat: „robul nu va ieși nici cu sigiliul de la gâtul lui, nici cu sigiliul de pe haina lui” etc.; tot așa și aici Sfântul a pus sigiliul în carnea noastră, că suntem robi ai Lui, într-un loc pe care omul nu poate să îl dezbrace și să-l arunce de pe el.<br><br>«Și te voi înmulți nespus.» Ca să nu spui: poate mă va împiedica să sădesc sămânță; nu doar că nu va împiedica, ci va ajuta, căci uneori prepuțul împiedică sămânța, care nu iese ca o săgeată; iar acum nu va fi acolo nicio împiedicare, și prin aceasta îți voi înmulți foarte seminția."
+   },
+   {
+    "author": "Cartea Jubileelor 15 — comparație",
+    "text": "Și voi face legământul Meu între Mine și tine, și te voi înmulți foarte.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 15,
+      "v": 4
+     }
+    }
    }
   ]
  },

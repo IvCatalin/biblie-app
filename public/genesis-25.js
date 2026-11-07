@@ -156,8 +156,15 @@ window.CHAPTER_DATA = [
     "text": "«Avraam și-a mai luat încă o soție.» „Ve-yosef Avraam vayiqah ishah”: aceasta este Agar; pildă: „Și Domnul a mai vorbit cu mine încă”. Tora a învățat bună-cuviință (derekh eretz) despre un văduv care are fii mari, să nu se însoare până nu se însoară ei; și de aceea este scris „a luat-o pe Rebeca și ea i-a devenit soție”, iar lângă el a pus „Și Avraam a mai luat o soție”.<br><br>«Al cărei nume era Chetura.» Rashi: Aceasta este Agar, și se numește Chetura pentru că faptele ei sunt frumoase ca tămâia (qetoret). Iar dacă vei spune: Doar mai sus, la „și a rătăcit”, Rashi a spus: Ne învață că s-a întors la idolii casei tatălui ei? Ci se poate spune: înainte ca Avraam să se întoarcă și s-o ia a doua oară, a făcut pocăință și s-a numit Chetura pentru aceasta. Iar unii spun: a cerut să se întoarcă la idolii tatălui ei și nu s-a întors. Iar după înțelesul simplu aceasta nu este Agar."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 16",
-    "text": "După aceasta, Avraam s-a căsătorit cu Ketura, din care i s-au născut șase fii, oameni curajoși și cu minte ageră: Zambran, Iazar, Madan, Madian, Iosabac și Sus. Fiii lui Sus erau Sabatan și Dadan. Fiii lui Dadan erau Latusim, Asur și Luom. Fiii lui Madian erau Efas, Ofren, Anoh, Ebidas și Eldas. Pentru toți acești fii și nepoți, Avraam a găsit mijlocul de a-i așeza în colonii; și ei au luat în stăpânire Troglodiția și țara Arabiei Fericite, până unde ajunge la Marea Roșie. Se povestește despre acest Ofren că a făcut război împotriva Libiei și a cucerit-o și că nepoții lui, când au locuit-o, au numit-o [după numele lui] Africa. Și, într-adevăr, Alexandru Polihistor dă mărturia lui pentru ceea ce spun eu aici; care vorbește astfel: „Cleodem profetul, numit și Malh, care a scris o Istorie a iudeilor, în acord cu Istoria lui Moise, legiuitorul lor, povestește că i s-au născut lui Avraam mulți fii din Ketura: ba chiar îi numește pe trei dintre ei: Afer, Surim și Iafran. Că din Surim a luat numele țara Asiriei; și că de la ceilalți doi [Afer și Iafran] a luat numele țara Africii, pentru că acești oameni au fost ajutoare ale lui Hercule, când a luptat împotriva Libiei și a lui Anteu; și că Hercule s-a căsătorit cu fiica lui Afra și a avut cu ea un fiu, Diodor; și că Sofon a fost fiul lui, de la care a luat numele acel popor barbar numit sofacieni.”"
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 15",
+    "text": "După aceasta, Avraam s-a căsătorit cu Ketura, din care i s-au născut șase fii, oameni curajoși și cu minte ageră: Zambran, Iazar, Madan, Madian, Iosabac și Sus. Fiii lui Sus erau Sabatan și Dadan. Fiii lui Dadan erau Latusim, Asur și Luom. Fiii lui Madian erau Efas, Ofren, Anoh, Ebidas și Eldas. Pentru toți acești fii și nepoți, Avraam a găsit mijlocul de a-i așeza în colonii; și ei au luat în stăpânire Troglodiția și țara Arabiei Fericite, până unde ajunge la Marea Roșie. Se povestește despre acest Ofren că a făcut război împotriva Libiei și a cucerit-o și că nepoții lui, când au locuit-o, au numit-o [după numele lui] Africa. Și, într-adevăr, Alexandru Polihistor dă mărturia lui pentru ceea ce spun eu aici; care vorbește astfel: „Cleodem profetul, numit și Malh, care a scris o Istorie a iudeilor, în acord cu Istoria lui Moise, legiuitorul lor, povestește că i s-au născut lui Avraam mulți fii din Ketura: ba chiar îi numește pe trei dintre ei: Afer, Surim și Iafran. Că din Surim a luat numele țara Asiriei; și că de la ceilalți doi [Afer și Iafran] a luat numele țara Africii, pentru că acești oameni au fost ajutoare ale lui Hercule, când a luptat împotriva Libiei și a lui Anteu; și că Hercule s-a căsătorit cu fiica lui Afra și a avut cu ea un fiu, Diodor; și că Sofon a fost fiul lui, de la care a luat numele acel popor barbar numit sofacieni.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 16,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -321,6 +328,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Și ea i i-a născut pe Zimran.» I-a crescut în casa lui, în felul lui „cei cinci fii ai lui Mical, pe care i-a născut lui Adriel”, pe care i-a crescut, căci nu erau deloc fiii ei; căci, într-adevăr, Avraam nu a născut decât pe Isaac și pe Ismael, cum este lămurit în Cronici."
+   },
+   {
+    "author": "Cartea Dreptului 25 — comparație",
+    "text": "Iar ea i-a născut lui pe Zimran, Iocșan, Medan, Midian, Iișbac, și Șuac, fiind 6 fii. Și copiii lui Zimran erau Abihen, Molic și Marim.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 25,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -768,6 +786,39 @@ window.CHAPTER_DATA = [
    {
     "author": "Targum Ionatan",
     "text": "Și fiii lui Madian: Efa și Efer și Enoh și Abida și Eldaa; toți aceștia sunt fiii Cheturei."
+   },
+   {
+    "author": "Cartea Dreptului 25 — comparație",
+    "text": "Și fiii lui Iocsan erau Șeba și Dedan. Iar fiii lui Medan erau Amida, Ioab, Gochi, Elișa și Notac. Iar fiii lui Midian erau Efah, Efer, Canoc, Abida și Eldaah.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 25,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 25 — comparație",
+    "text": "Și acestea sunt numele fiilor lui Midian conform numelor lor în orașele lor, Efah, Efer, Canoc, Abida și Eldaah.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 25,
+      "v": 11
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 25 — comparație",
+    "text": "Și fiii lui Abida erau Cur, Melud, Cheruri, Molci. Iar fiii lui Eldaah erau Micher și Reba și Malchiiah și Gabol. Acestea sunt numele midianiților conform familiilor lor; și după aceea familiile lui Midian s-au răspândit de-a lungul ținutului Midian.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 25,
+      "v": 13
+     }
+    }
    }
   ]
  },
@@ -1202,6 +1253,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Augustin, Despre răbdare",
     "text": "Dacă, așadar, suntem fiii Ierusalimului liber, să înțelegem că unele daruri sunt ale celor dezmoșteniți, iar altele ale moștenitorilor. Căci moștenitori sunt aceia cărora li s-a spus: „Nu ați primit duhul robiei, ca să aveți iarăși frică, ci ați primit duhul înfierii, prin care strigăm: «Ava, Părinte!»”"
+   },
+   {
+    "author": "Cartea Jubileelor 20 — comparație",
+    "text": "Și a dat lui Ismael și fiilor lui, și fiilor Cheturei, daruri, și i-a trimis de la Isaac, fiul său, și i-a dat totul lui Isaac, fiul său.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 20,
+      "v": 11
+     }
+    }
    }
   ]
  },
@@ -1368,6 +1430,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și acestea au fost zilele anilor vieții lui Avraam pe care le-a trăit» A fost exact să spună „care a trăit” după spusa lor, binecuvântată fie amintirea lor, care au spus că i-au lipsit cinci ani înainte de ziua în care a făcut Esau cinci păcate, și de aceea a spus „care a trăit”, explicația: nu anii care i-au fost rânduiți, căci erau mai mulți, ci aceștia sunt ce a trăit.<br><br>Sfârșitul secțiunii Hayei Sara."
+   },
+   {
+    "author": "Cartea Jubileelor 23 — comparație",
+    "text": "Și a trăit trei jubilee și patru săptămâni de ani, o sută șaptezeci și cinci de ani, și a împlinit zilele vieții sale, fiind bătrân și sătul de zile.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 23,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 23 — comparație",
+    "text": "Atunci vor zice: Zilele părinților au fost multe, până la o mie de ani, și au fost bune; dar iată, zilele vieții noastre, dacă un om a trăit multe, sunt șaptezeci de ani, și dacă e tare, optzeci de ani, și acelea rele, și nu este pace în zilele neamului acestuia rău.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 23,
+      "v": 15
+     }
+    }
    }
   ]
  },
@@ -1566,8 +1650,15 @@ window.CHAPTER_DATA = [
     "text": "«Avraam s-a stins.» Rashi: „Gviʿah” (stingere) nu s-a spus decât la cei drepți. Dar nu există generația Potopului? Noi vorbim de „gviʿah” și „asifah” (adăugare la popor); și iată Ismael, la care este scris „gviʿah” și „asifah” — el a făcut pocăință; și Esau a făcut și el pocăință. „Vayigvaʿ” este ieșirea duhului din trup fără suferință și zăbavă. Și în orice „gviʿah” este moarte, dar nu în orice moarte este „gviʿah”; de aceea a scris la Potop „gviʿah”. „Și a fost adăugat la poporul său”: a mers pe căile părinților săi și s-a unit cu ei."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
-    "text": "După puțină vreme, Avraam a murit. A fost un om de o virtute fără seamăn și cinstit de Dumnezeu într-un chip potrivit cu evlavia lui față de El. Toată vremea vieții lui a fost de o sută șaptezeci și cinci de ani și a fost îngropat în Hebron, împreună cu soția lui Sara, de către fiii lor Isaac și Ismael."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 17",
+    "text": "După puțină vreme, Avraam a murit. A fost un om de o virtute fără seamăn și cinstit de Dumnezeu într-un chip potrivit cu evlavia lui față de El. Toată vremea vieții lui a fost de o sută șaptezeci și cinci de ani și a fost îngropat în Hebron, împreună cu soția lui Sara, de către fiii lor Isaac și Ismael.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 18,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -2281,6 +2372,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Și a fost, după moartea lui Avraam.» Rashi: Deși Sfântul, binecuvântat fie, i-a predat lui Avraam binecuvântările etc. Iar dacă vei spune: Doar mai sus, imediat, Rashi a spus: Rabbi Nehemia a spus: Binecuvântarea (de) „diatiqi” etc.? Ci se poate spune: deși Avraam i le-a predat lui Isaac, Avraam nu l-a binecuvântat."
+   },
+   {
+    "author": "Cartea Jubileelor 24 — comparație",
+    "text": "Și s-a întâmplat după moartea lui Avraam că Domnul l-a binecuvântat pe Isaac, fiul său, și s-a sculat din Hebron și a mers și a locuit la Fântâna Vedeniei, în anul întâi al săptămânii a treia a jubileului acestuia, șapte ani.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 24,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -2510,6 +2612,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și aceștia sunt urmașii lui Ismael»: a pomenit urmașii lui Ismael pentru cinstea lui Avraam, pentru că era întâiul lui născut, ca să arate că a avut doisprezece prinți, cum îi spusese Dumnezeu lui Avraam.<br><br>«Pe care Agar... i l-a născut»: iar povestirea „pe care Agar i l-a născut”: căci, deși era fiul slujnicei, Avraam îl iubea pentru că era întâiul lui născut, și Dumnezeu l-a binecuvântat pentru el și l-a făcut să izbutească, cum a spus: „Și Dumnezeu a fost cu tânărul; el a crescut”, și a născut doisprezece prinți."
+   },
+   {
+    "author": "Cartea Dreptului 25 — comparație",
+    "text": "Și acestea sunt generațiile lui Ismael fiul lui Avraam, pe care Agar, slujnica lui Sara i l-a născut lui Avraam.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 25,
+      "v": 14
+     }
+    }
    }
   ]
  },
@@ -2757,6 +2870,39 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«După ordinea nașterii lor» (le-toledotam): după rânduiala nașterilor lor; cum s-au născut i-a pomenit; iar întâiul născut era Nebaiot."
+   },
+   {
+    "author": "Cartea Dreptului 25 — comparație",
+    "text": "Aceștia sunt fiii lui Ismael, și acestea sunt numele lor, fiind 12 prinți conform națiunilor lor; iar familiile lui Ismael apoi s-au răspândit, și Ismael a luat pe copiii săi și toată proprietatea pe care o adunase, împreună cu sufletele casei sale și tot ce îi aparținea lui, și au mers să locuiască unde puteau să găsească un loc.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 25,
+      "v": 19
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 25 — comparație",
+    "text": "Și acestea sunt numele fiilor lui Nebaiot întâiul născut al lui Ismael; Mend, Send și Maion. Iar fiii lui Chedar erau Alion, Chezem, Camad și Eli.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 25,
+      "v": 22
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 25 — comparație",
+    "text": "Și fiii lui Adbeel erau Camad și Iabin; și fiii lui Mibsam erau Obadia, Ebedmelec și Ieuș; acestea sunt familiile copiilor lui Riba, nevasta lui Ismael.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 25,
+      "v": 23
+     }
+    }
    }
   ]
  },
@@ -4089,6 +4235,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Isaac avea patruzeci de ani etc.» Motivul pentru care a fost nevoie să facă cunoscut timpul căsătoriei lui, ceea ce nu s-a procedat așa la Avraam, a venit să dea motiv pentru întârzierea timpului în care a stat Isaac fără căsătorie până ce au trecut patruzeci de ani, și a spus motivul „când a luat-o pe Rebeca” – pentru luarea Rebecăi a stat până la patruzeci de ani, și precum a încheiat „ca soție a sa”, explicația: a lui singură, ea este perechea lui. De aici înveți că înainte de ea nu a avut pereche, și precum am scris în secțiunea precedentă, iar ea era mică, căci s-a născut la legare când a fost potrivit să nască. Și de acum nu este reproș pentru Isaac că a stat până la patruzeci de ani, și de asemenea pentru Avraam care a întârziat până la patruzeci de ani, căci atunci ea avea trei ani după socoteală.<br><br>«Fiica lui Betuel aramitul etc., sora etc.» Motivul pentru care Scriptura a revenit să facă cunoscut aceasta – nu ca să ne facă să auzim a cui fiică este, ci ca să învețe apărare pentru Rebeca, căci spune curând „și Domnul i-a ascultat implorarea” – lui și nu ei, și vine gândul să spună că motivul lucrului este din pricina scăderii Rebecăi, Doamne ferește, căci nu este vrednică să i se asculte de Dumnezeu. De aceea a pus înainte să spună „fiica lui Betuel”, ca să spună că aceasta este cauza pentru care Domnul a ascultat implorarea lui Isaac, căci el este fiul lui Avraam iar ea fiica lui Betuel. Iar a dublat spunând „aramitul din Padan Aram” ca să sublinieze că a intenționat prin „aramitul” să spună „ha-rammai” (înșelătorul), căci dacă ar fi intenționat să-l numească după numele orașului său, iată este spus. Iar intenția în aceasta, din cauză că nu s-a făcut cunoscută nelegiuirea lui în lume, a venit să facă cunoscut că a fost nelegiuit, și prin el nu a fost pregătită rugăciunea Rebecăi ca rugăciunea lui Isaac.<br><br>Iar spusa „sora lui Laban” fără nevoie, și în plus că am știut deja, ci motivul este că a venit să învețe merit pentru Rebeca văzând că a născut un fiu nelegiuit evident, și vei spune cum din pântec binecuvântat a ieșit blestemat, de aceea a spus că aceasta este cauza lucrului, că ea era sora lui Laban aramitul, explicația ha-rammai (înșelătorul), cu adaos de nelegiuit asupra tatălui, și deja au precedat înțelepții noștri de binecuvântată amintire cei mai mulți dintre fii, din motivul cunoscut, și de aceea a ieșit Esau, iar în afară de aceasta urmașii ei ar fi ieșit drepți din ea, căci era o dreaptă desăvârșită, iar martorul este „în fața soției sale”, și au spus înțelepții noștri, binecuvântată fie amintirea lor etc. Și ca să nu spui: dacă așa de ce nu a pus Isaac inima să verifice despre fratele ei, de aceea a încheiat „ca soție a sa”, precum am explicat mai sus, iar fără aceasta nu ar fi luat sora unui nelegiuit.<br><br>Încă a aluzionat prin a face cunoscut „sora lui Laban” după felul spusei lor, binecuvântată fie amintirea lor că motivul pentru care Rebeca a fost stearpă este din pricina binecuvântării lui Laban, ca să nu se vadă că binecuvântarea lui va face faptă bună. De aceea, înainte ca Scriptura să spună că este stearpă, a pus înainte motivul lucrului și a spus „sora lui Laban”, și aceasta a fost cauza pentru care Rebeca a fost făcută stearpă până ce au avut nevoie de rugăciune."
+   },
+   {
+    "author": "Cartea Dreptului 25 — comparație",
+    "text": "Și Rebeca fiica lui Betuel, nevasta lui Isaac fiul lui Avraam, a fost stearpă în acele zile, ea nu a avut nici un urmaș; iar Isaac a locuit cu tatăl său în ținutul Canaan; iar Domnul era cu Isaac; și Arpacșad fiul lui Șem fiul lui Noe a murit în acele zile, în anul 48 al vieții lui Isaac, și toate zilele pe care Arpacșad le-a trăit au fost 438 de ani, și el a murit.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 25,
+      "v": 28
+     }
+    }
    }
   ]
  },
@@ -4332,6 +4489,50 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și Isaac l-a implorat etc.» Motivul pentru care nu a spus „și Isaac a cunoscut” etc., precum a spus „și omul a cunoscut”, „și Elcana a cunoscut” etc., poate că rugăciunea a fost după ce a cunoscut în cele trei zile dintâi, precum au spus, binecuvântată fie amintirea lor că în cele trei zile dintâi să se roage ca să nu se strice, și aceasta a fost rugăciunea lui Isaac."
+   },
+   {
+    "author": "Cartea Dreptului 26 — comparație",
+    "text": "Și Rebeca i-a spus lui Isaac, cu adevărat eu am auzit, domnul meu, că mama ta Sara a fost stearpă în zilele ei până când domnul meu Avraam, tatăl tău, s-a rugat pentru ea iar ea a zămislit de la el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 26,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 26 — comparație",
+    "text": "Și Rebeca i-a spus lui, dar ridică-te acum și tu de asemenea și te roagă, pentru ca Domnul să poată auzi rugăciunea ta și să îmi acorde copii, și Isaac a ascultat de cuvintele nevestei sale, iar Isaac și nevasta sa s-au ridicat și au mers la ținutul Moria să se roage acolo și să caute pe Domnul, și când ei ajunseseră la acel loc Isaac s-a ridicat și s-a rugat la Domnul datorită nevestei sale căci ea era stearpă.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 26,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 26 — comparație",
+    "text": "Și Domnul a auzit rugăciunea lui Isaac fiul lui Avraam, și Domnul a fost înduplecat de el iar Rebeca nevasta sa a zămislit.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 26,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Soția lui Isaac a rămas însărcinată după moartea lui Avraam; și, când pântecele i s-a îngreuiat foarte tare, Isaac a fost foarte îngrijorat și L-a întrebat pe Dumnezeu; Care a răspuns că Rebeca va naște gemeni; și că două neamuri vor lua numele acestor fii; și că cel care se va arăta al doilea îl va întrece pe cel mai mare. Astfel, ea, într-un timp scurt, după cum prevestise Dumnezeu, a născut gemeni; dintre care cel mai mare era, din cap până în picioare, foarte aspru și păros; iar cel mai tânăr l-a apucat de călcâi când se aflau în nașterea lor. Tatăl l-a iubit pe cel mai mare, care se numea Esau, nume potrivit cu asprimea lui, căci evreii numesc o asemenea asprime păroasă [Esau sau] Seir; dar Iacov, cel mai tânăr, era cel mai iubit de mama lui.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -4830,6 +5031,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și Domnul i-a spus etc.» Acest verset s-au înmulțit în el explicațiile, și încă este de dat gust și condiment pe calea luminii drepte, anume că a venit să-i răspundă la teama ei că sarcina ei nu dăinuie din pricina înghesuielii lor mari, și i-a făcut cunoscută cauza înghesuielii cu care se vor înghesui unul pe altul și se vor întări unul peste altul, căci această sarcină se deosebește de orice sarcină din lume, căci orice sarcină care este din doi, cei doi sunt blânzi și firea lor este egală, după cum este spus „gemeni ai căprioarei”, și locuiesc împreună în pântece, ceea ce nu este așa sarcina ta. Iar motivul este că două neamuri sunt în pântecele tău, fiecare dintre ei este aspectul unui neam, și încă este la ei că ei înșiși sunt regi și domnia lor se întinde pentru totdeauna, iar aceasta este spusa „și două popoare”. Și toate acestea nu ar cauza zbaterea în pântece dacă ar fi într-o temperatură, ca firea gemenilor, ci ei se deosebesc de firea gemenilor, căci din pântece însuși nu sunt blânzi unul față de altul și li se schimbă temperamentul și firea, iar aceasta este spusa „din viscerele tale se vor despărți”, și a spus „din viscerele tale” și nu a spus „în viscerele tale”, ca să spună că mereu sunt despărțiți și începutul despărțirii este din viscere, și prin acest lucru este schimbarea minunată, nu din pricina că pântecele ei nu este potrivit sarcinii în care copiii se zbat.<br><br>«Și un popor din plinătatea (mil’om) etc.» Explicația: încă este la ei un lucru care va cauza îndepărtarea pregătirii locuirii împreună, căci fiecare dintre cei doi regi, tăria și întărirea lui este din „plinătatea” (mil’om) celui opus, după felul spusei lor, binecuvântată fie amintirea lor „nu s-a umplut Tirul decât din ruina Ierusalimului”, și de vreme ce fiecare dintre ei vrea căderea tovarășului său ca să crească din el, acesta va îndepărta frăția și împreuna-gemenire.<br><br>«Și cel mare etc.» S-au înmulțit explicațiile în aceasta și nu este lucru îndestulător în adevărul Scripturii. Iar după calea noastră vine pe drept, intenția a venit să spună că în afară de faptul că unul crește prin căderea tovarășului său, mai trebuie ca cel căzut să se robească înaintea celui care crește din el, și nu-i ajunge căderea lui și să-și vadă binele în mâna dușmanului său, ci să-și încovoaie capul ca o trestie față de robul său, și prin aceasta se va întinde îndepărtarea frăției și întărirea urii. Și despre aceasta s-a spus „omul și șarpele nu locuiesc într-un singur coș”. Și aceasta este cauza schimbării sarcinii. Și după această cale spusa „cel mare va sluji celui tânăr” nu înseamnă prin „mare” și „tânăr” anume Iacov sau Esau, ci cel care va fi mare în timpul lui și cel care tânăr în timpul lui, kaftor va-ferah."
+   },
+   {
+    "author": "Cartea Dreptului 26 — comparație",
+    "text": "Și ei toți au întrebat pe Domnul referitor la această chestiune, iar ei i-au adus cuvânt de la Domnul și i-au spus ei, doi copii sunt în pântecele tău, și două națiuni se vor ridica din ei; iar o națiune va fi mai puternică decât cealaltă, și cea mai mare va servi celei mai mici.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 26,
+      "v": 12
+     }
+    }
    }
   ]
  },
@@ -4994,6 +5206,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Și i s-au împlinit zilele să nască.» Nu așa cum socotea ea, ci a venit la vremea când s-au împlinit zilele și la vremea nașterii."
+   },
+   {
+    "author": "Cartea Dreptului 26 — comparație",
+    "text": "Și când zilele ei de a fi izbăvită au fost împlinite, a îngenuncheat jos, și iată erau gemeni în pântecele ei, precum Domnul îi spusese ei.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 26,
+      "v": 13
+     }
+    }
    }
   ]
  },

@@ -2232,8 +2232,15 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 9",
-    "text": "De îndată ce Avram s-a întors în Canaan, a împărțit țara între el și Lot, din pricina purtării tulburi a păstorilor lor, cu privire la pășunile pe care să-și pască turmele. Totuși, i-a dat lui Lot alegerea, sau îngăduința, să aleagă ce ținuturi vrea să ia; iar el a luat ce a lăsat celălalt, adică pământurile mai joase de la poalele munților; și el însuși a locuit în Hebron, care este o cetate mai veche cu șapte ani decât Tanis din Egipt. Dar Lot a stăpânit țara câmpiei și râul Iordan, nu departe de cetatea Sodoma, care era pe atunci o cetate frumoasă, dar acum este nimicită, prin voia și mânia lui Dumnezeu, pricina căreia o voi arăta la locul ei, mai târziu."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 8",
+    "text": "De îndată ce Avram s-a întors în Canaan, a împărțit țara între el și Lot, din pricina purtării tulburi a păstorilor lor, cu privire la pășunile pe care să-și pască turmele. Totuși, i-a dat lui Lot alegerea, sau îngăduința, să aleagă ce ținuturi vrea să ia; iar el a luat ce a lăsat celălalt, adică pământurile mai joase de la poalele munților; și el însuși a locuit în Hebron, care este o cetate mai veche cu șapte ani decât Tanis din Egipt. Dar Lot a stăpânit țara câmpiei și râul Iordan, nu departe de cetatea Sodoma, care era pe atunci o cetate frumoasă, dar acum este nimicită, prin voia și mânia lui Dumnezeu, pricina căreia o voi arăta la locul ei, mai târziu.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 9,
+      "v": 3
+     }
+    }
    },
    {
     "author": "Sfântul Ambrozie, Despre Avraam",
@@ -3463,6 +3470,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Ridică-te, cutreieră prin țară etc.» În capitolul „Ha-mokher et ha-perot”, iar acesta este textul lor: s-a predat: cine a umblat în ea de-a lungul și de-a latul a dobândit în ea locul umblării lui, cuvintele lui Rabbi Eliezer, iar Înțelepții spun: nu a dobândit până nu va lua în stăpânire. Care este motivul lui Rabbi Eliezer? Fiindcă este scris „ridică-te, cutreieră” etc. „în lungul ei” etc., iar rabanii: acolo din pricina iubirii lui Avraam etc., ca să-i fie ușor lui să cucerească înaintea fiilor lui – până aici. Iată, după socoteala lui Rabbi Eliezer, deși a luat în stăpânire prin smulgerea țării și sprijinirea ei înaintea lui, cum am explicat la versetul „căci toată țara” etc., cu toate acestea din ceea ce a spus Scriptura „ridică-te, cutreieră” etc., a venit să învețe Tora că umblarea este luare în stăpânire. Iar după socoteala Înțelepților, că din pricina iubirii etc., luarea în stăpânire a țării în folosul lui Avraam a dobândit-o din dreptul Scripturii de mai sus, și nu se învață din acest verset, căci iubirea lui Avraam este scopul."
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Scoală-te, umblă prin ținut în lungul lui și în latul lui, și vezi-l tot; căci seminței tale i-l voi da. Și Avram a mers la Hebron și a locuit acolo.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 21
+     }
+    }
    }
   ]
  },

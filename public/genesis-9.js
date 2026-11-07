@@ -2079,6 +2079,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Efrem Sirul, Comentariu la Facere 6.13.2",
     "text": "Iar Domnul lui i-a vorbit, voind ca Noe să audă: „Din pricina dreptății tale a fost păstrată o rămășiță și n-a pierit în acel potop care a fost. Și din pricina jertfei tale, care a fost din toată făptura și în numele a toată făptura, nu voi mai aduce niciodată potop peste pământ.” Dumnezeu S-a legat astfel mai dinainte prin această făgăduință, ca, chiar dacă omenirea ar urma necontenit gândurile rele ale înclinației ei, să nu mai aducă niciodată peste ea un potop."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
+    "text": "Când Noe a făcut aceste rugăciuni, Dumnezeu, care iubea pe om pentru dreptatea lui, a dat deplin succes rugăciunilor lui și a spus că nu El a adus nimicirea asupra unei lumi pângărite, ci că ei au suferit acea pedeapsă din pricina propriei lor răutăți; și că nu i-ar fi adus pe oameni în lume dacă ar fi hotărât El însuși să-i nimicească, fiind o dovadă de mai mare înțelepciune să nu le fi dat deloc viața decât, după ce a fost dată, să-i aducă la pieire; „Dar nedreptățile”, a zis El, „pe care le-au făcut față de sfințenia și virtutea Mea M-au silit să aduc această pedeapsă asupra lor. Dar voi înceta pe vremea ce va veni să mai cer asemenea pedepse, urmări ale unei mânii atât de mari, pentru faptele lor rele viitoare și mai ales din pricina rugăciunilor tale. Dar dacă voi trimite vreodată furtuni de ploaie, într-un chip neobișnuit, nu vă înspăimântați de mărimea averselor; căci apa nu va mai acoperi pământul. Totuși, vă cer să vă feriți de vărsarea sângelui oamenilor și să vă păstrați curați de omor; și să-i pedepsiți pe cei care ar săvârși ceva de acest fel. Vă îngădui să vă folosiți de toate celelalte viețuitoare după plăcerea voastră și după cum vă îndeamnă pofta; căci v-am făcut stăpâni peste toate, atât peste cele care umblă pe uscat, cât și peste cele care înoată în ape și peste cele care zboară în ținuturile aerului de sus, afară de sângele lor, căci în el este viața. Dar vă voi da un semn că am încetat mânia Mea prin arcul Meu.” [prin care se înțelege curcubeul, căci ei hotărâseră că acesta era arcul lui Dumnezeu]. Și după ce Dumnezeu a spus și a făgăduit aceasta, a plecat.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 4,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -5405,6 +5416,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Ieronim, Întrebări ebraice la Facere 9:29",
     "text": "(Versetul 29) Și toate zilele lui Noe au fost nouă sute cincizeci de ani. Iată, după potop Noe a trăit trei sute cincizeci de ani. De aici este limpede că o sută douăzeci de ani au fost dați acelei generații, cum am spus mai înainte, pentru pocăință, iar nu pentru statornicirea vieții muritoare."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
+    "text": "Iar Noe, după ce a trăit trei sute cincizeci de ani după Potop și toată vremea aceea fericit, a murit, trăind în număr de nouă sute cincizeci de ani. Dar nimeni, comparând viețile celor vechi cu viețile noastre și cu puținii ani pe care îi trăim acum, să nu socotească falsă ce am spus despre ei; și să nu facă din scurtimea vieților noastre de acum un argument că nici ei nu au ajuns la o durată atât de lungă de viață; căci acei vechi erau iubiți de Dumnezeu și [de curând] făcuți de însuși Dumnezeu; și pentru că hrana lor era atunci mai potrivită pentru prelungirea vieții, puteau foarte bine să trăiască un număr atât de mare de ani: și, pe lângă aceasta, Dumnezeu le-a dat o vreme mai lungă de viață din pricina virtuții lor și a bunei folosiri pe care au făcut-o de ea în descoperirile astronomice și geometrice, care nu ar fi dat vremea de a prevesti [perioadele stelelor] dacă nu ar fi trăit șase sute de ani; căci marele an se împlinește în acel interval. Am ca martori la ceea ce am spus pe toți cei care au scris Antichități, atât dintre greci, cât și dintre barbari; căci chiar Manetho, care a scris Istoria egipteană, și Berosus, care a adunat Monumentele caldeene, și Mochus și Hestieus și, pe lângă aceștia, Ieronim egipteanul și cei care au alcătuit Istoria feniciană, sunt de acord cu ceea ce spun eu aici: Hesiod, de asemenea, și Hecateu, Hellanic și Acusilau; și, pe lângă aceștia, Eforos și Nicolae povestesc că cei vechi au trăit o mie de ani. Dar cât despre aceste lucruri, să se uite fiecare la ele cum socotește de cuviință.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 4,
+      "v": 9
+     }
+    }
    }
   ]
  }

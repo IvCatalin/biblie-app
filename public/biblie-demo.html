@@ -1935,8 +1935,9 @@
     padding:2px 2px 14px;
     border-bottom:1px solid var(--line);
   }
+  .lib-section-title.vs-sec-green{color:#6fcf8e;}
   .vs-row-textcompare .vs-comment-author{
-    color:var(--gold);
+    color:#fff;
     font-weight:700;
     font-size:12.5px;
     letter-spacing:0.04em;
@@ -4470,6 +4471,7 @@ function renderVerseSheetTabs(verse){
         const label = document.createElement("div");
         label.className = "lib-section-title";
         label.style.margin = "4px 0 4px";
+        label.classList.add("vs-sec-green");
         label.textContent = "Comparație texte";
         contentEl.appendChild(label);
         verse.textCompare.forEach(c => {
@@ -4500,6 +4502,7 @@ function renderVerseSheetTabs(verse){
         const label = document.createElement("div");
         label.className = "lib-section-title";
         label.style.margin = "16px 0 4px";
+        label.classList.add("vs-sec-green");
         label.textContent = "Context istoric, Josephus, apocrife și pseudepigrafe";
         contentEl.appendChild(label);
         aneAndHistorians.forEach(c => appendCommentRow(contentEl, c.author, c.text, null, null, srcOf(c.author, c)));

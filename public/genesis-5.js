@@ -239,7 +239,14 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 2",
-    "text": "Ei au fost și născocitorii acelui fel deosebit de înțelepciune care se ocupă cu corpurile cerești și cu orânduirea lor. Și, ca născocirile lor să nu se piardă înainte de a fi destul de cunoscute, după prevestirea lui Adam că lumea avea să fie nimicită o dată prin puterea focului și altă dată prin violența și mulțimea apei, au făcut doi stâlpi, unul de cărămidă, altul de piatră: au înscris pe amândoi descoperirile lor, pentru ca, în cazul în care stâlpul de cărămidă ar fi nimicit de potop, stâlpul de piatră să rămână și să arate acele descoperiri oamenilor; și să-i înștiințeze, de asemenea, că mai era un stâlp de cărămidă ridicat de ei."
+    "text": "Ei au fost și născocitorii acelui fel deosebit de înțelepciune care se ocupă cu corpurile cerești și cu orânduirea lor. Și, ca născocirile lor să nu se piardă înainte de a fi destul de cunoscute, după prevestirea lui Adam că lumea avea să fie nimicită o dată prin puterea focului și altă dată prin violența și mulțimea apei, au făcut doi stâlpi, unul de cărămidă, altul de piatră: au înscris pe amândoi descoperirile lor, pentru ca, în cazul în care stâlpul de cărămidă ar fi nimicit de potop, stâlpul de piatră să rămână și să arate acele descoperiri oamenilor; și să-i înștiințeze, de asemenea, că mai era un stâlp de cărămidă ridicat de ei.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 3,
+      "v": 3
+     }
+    }
    },
    {
     "author": "Fericitul Augustin, Cetatea lui Dumnezeu 15.21",
@@ -248,6 +255,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Keil și Delitzsch, Comentariu la Vechiul Testament",
     "text": "Titlul din Fac 5:1 sună astfel: „Aceasta este cartea (sepher) urmașilor (tholedoth) lui Adam.” Despre tholedoth, vezi Fac 2:4. Sepher este o scriere de sine stătătoare, fie că e alcătuită dintr-o singură foaie sau din mai multe, ca, de exemplu, „cartea de despărțire” din Deut 24:1, Deut 24:3. Adăugarea propoziției „în ziua în care a creat Dumnezeu pe om” și a celor ce urmează este asemănătoare cu cea din Fac 2:4; creația este pomenită din nou ca punct de plecare, pentru că toată dezvoltarea și istoria omenirii își are acolo rădăcina."
+   },
+   {
+    "author": "Cartea Dreptului 3 — comparație",
+    "text": "Și în acel loc toți fiii oamenilor au făcut o mare jale și un mare plânset din pricina lui Adam; prin urmare a devenit un obicei printre fiii oamenilor până în ziua aceasta.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 3,
+      "v": 15
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 3 — comparație",
+    "text": "Și Enoh atunci din nou a ordonat o voce să fie proclamată, spunând, unde este omul care se încântă să cunoască căile Domnului Dumnezeului lui, lăsați-l să vină în această zi la Enoh înainte ca el să fie luat de la noi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 3,
+      "v": 30
+     }
+    }
    }
   ],
   "fidela": "Aceasta este cartea generațiilor lui Adam. În ziua în care Dumnezeu a creat om, după asemănarea lui Dumnezeu l-a făcut.",
@@ -680,7 +709,14 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
-    "text": "Căci Set s-a născut când Adam era în al două sute treizecilea an al său, care a trăit nouă sute treizeci de ani. Set l-a născut pe Enos în al două sute cincilea an al său; care, după ce a trăit nouă sute doisprezece ani, a dat conducerea lui Cainan, fiul său, pe care îl avusese în al o sută nouăzecilea an. A trăit nouă sute cinci ani. Cainan, după ce a trăit nouă sute zece ani, l-a avut pe fiul său Malaleel, care s-a născut în al o sută șaptezecilea an al lui. Acest Malaleel, după ce a trăit opt sute nouăzeci și cinci de ani, a murit, lăsând pe fiul său Iared, pe care l-a născut când era în al o sută șaizeci și cincilea an. Acesta a trăit nouă sute șaizeci și doi de ani; și apoi i-a urmat fiul său Enoh, care s-a născut când tatăl său avea o sută șaizeci și doi de ani. Acesta, după ce a trăit trei sute șaizeci și cinci de ani, a plecat și s-a dus la Dumnezeu; de aceea nu au scris moartea lui. Matusala, fiul lui Enoh, care i s-a născut când acesta avea o sută șaizeci și cinci de ani, l-a avut pe Lameh ca fiu când avea o sută optzeci și șapte de ani; căruia i-a dat conducerea, după ce o păstrase nouă sute șaizeci și nouă de ani. Lameh, după ce a condus șapte sute șaptezeci și șapte de ani, l-a pus pe Noe, fiul său, conducător al poporului, care i s-a născut lui Lameh când acesta avea o sută optzeci și doi de ani și a păstrat conducerea nouă sute cincizeci de ani. Acești ani, adunați laolaltă, alcătuiesc suma statornicită mai înainte. Dar nimeni să nu cerceteze morțile acestor oameni; căci ei și-au prelungit viețile laolaltă cu copiii și nepoții lor; ci să ia seama numai la nașterile lor."
+    "text": "Căci Set s-a născut când Adam era în al două sute treizecilea an al său, care a trăit nouă sute treizeci de ani. Set l-a născut pe Enos în al două sute cincilea an al său; care, după ce a trăit nouă sute doisprezece ani, a dat conducerea lui Cainan, fiul său, pe care îl avusese în al o sută nouăzecilea an. A trăit nouă sute cinci ani. Cainan, după ce a trăit nouă sute zece ani, l-a avut pe fiul său Malaleel, care s-a născut în al o sută șaptezecilea an al lui. Acest Malaleel, după ce a trăit opt sute nouăzeci și cinci de ani, a murit, lăsând pe fiul său Iared, pe care l-a născut când era în al o sută șaizeci și cincilea an. Acesta a trăit nouă sute șaizeci și doi de ani; și apoi i-a urmat fiul său Enoh, care s-a născut când tatăl său avea o sută șaizeci și doi de ani. Acesta, după ce a trăit trei sute șaizeci și cinci de ani, a plecat și s-a dus la Dumnezeu; de aceea nu au scris moartea lui. Matusala, fiul lui Enoh, care i s-a născut când acesta avea o sută șaizeci și cinci de ani, l-a avut pe Lameh ca fiu când avea o sută optzeci și șapte de ani; căruia i-a dat conducerea, după ce o păstrase nouă sute șaizeci și nouă de ani. Lameh, după ce a condus șapte sute șaptezeci și șapte de ani, l-a pus pe Noe, fiul său, conducător al poporului, care i s-a născut lui Lameh când acesta avea o sută optzeci și doi de ani și a păstrat conducerea nouă sute cincizeci de ani. Acești ani, adunați laolaltă, alcătuiesc suma statornicită mai înainte. Dar nimeni să nu cerceteze morțile acestor oameni; căci ei și-au prelungit viețile laolaltă cu copiii și nepoții lor; ci să ia seama numai la nașterile lor.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 4,
+      "v": 4
+     }
+    }
    },
    {
     "author": "Fericitul Ieronim, Întrebări ebraice la Facere",
@@ -1017,7 +1053,14 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
-    "text": "Dar nimeni, comparând viețile celor vechi cu viețile noastre și cu puținii ani pe care îi trăim acum, să nu socotească falsă ce am spus despre ei; și să nu facă din scurtimea vieților noastre de acum un argument că nici ei nu au ajuns la o durată atât de lungă de viață; căci acei vechi erau iubiți de Dumnezeu și [de curând] făcuți de însuși Dumnezeu; și pentru că hrana lor era atunci mai potrivită pentru prelungirea vieții, puteau foarte bine să trăiască un număr atât de mare de ani: și, pe lângă aceasta, Dumnezeu le-a dat o vreme mai lungă de viață din pricina virtuții lor și a bunei folosiri pe care au făcut-o de ea în descoperirile astronomice și geometrice, care nu ar fi dat vremea de a prevesti [perioadele stelelor] dacă nu ar fi trăit șase sute de ani; căci marele an se împlinește în acel interval."
+    "text": "Dar nimeni, comparând viețile celor vechi cu viețile noastre și cu puținii ani pe care îi trăim acum, să nu socotească falsă ce am spus despre ei; și să nu facă din scurtimea vieților noastre de acum un argument că nici ei nu au ajuns la o durată atât de lungă de viață; căci acei vechi erau iubiți de Dumnezeu și [de curând] făcuți de însuși Dumnezeu; și pentru că hrana lor era atunci mai potrivită pentru prelungirea vieții, puteau foarte bine să trăiască un număr atât de mare de ani: și, pe lângă aceasta, Dumnezeu le-a dat o vreme mai lungă de viață din pricina virtuții lor și a bunei folosiri pe care au făcut-o de ea în descoperirile astronomice și geometrice, care nu ar fi dat vremea de a prevesti [perioadele stelelor] dacă nu ar fi trăit șase sute de ani; căci marele an se împlinește în acel interval.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 4,
+      "v": 9
+     }
+    }
    },
    {
     "author": "Cartea Jubileelor 4 — comparație",
@@ -1192,6 +1235,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Targum Onkelos",
     "text": "Și Set a trăit o sută cinci ani și l-a născut pe Enoș."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
+    "text": "Acest neam al lui Set a continuat să-L socotească pe Dumnezeu Domnul universului și să aibă o deplină considerație față de virtute timp de șapte generații; dar, cu vremea, au fost pervertiți și au părăsit rânduielile strămoșilor lor; nu au adus lui Dumnezeu cinstirile care li se rânduiseră și nici nu s-au îngrijit să facă dreptate față de oameni. Dar în măsura râvnei pe care o arătaseră mai înainte pentru virtute, au arătat acum prin faptele lor o răutate îndoită, prin care L-au făcut pe Dumnezeu dușmanul lor. Căci mulți îngeri ai lui Dumnezeu s-au însoțit cu femei și au născut fii care s-au dovedit nedrepți și disprețuitori ai oricărui lucru bun, din pricina încrederii pe care o aveau în propria lor putere; căci tradiția spune că acești oameni au făcut lucruri asemănătoare cu faptele celor pe care grecii îi numesc uriași. Dar Noe era foarte neliniștit de ceea ce făceau ei; și, nemulțumit de purtarea lor, i-a îndemnat să-și schimbe dispozițiile și faptele spre mai bine; dar, văzând că nu i se supun, ci sunt robi ai plăcerilor lor rele, s-a temut că îl vor ucide, împreună cu soția și cu copiii lui și cu cei cu care aceștia se căsătoriseră; și a plecat din acea țară.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 4,
+      "v": 1
+     }
+    }
    }
   ]
  },

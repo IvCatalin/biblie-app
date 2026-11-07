@@ -269,12 +269,30 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
-    "text": "Și Dumnezeu i-a lăudat virtutea și a zis: Nu vei pierde totuși răsplătirile pe care ai meritat să le primești prin asemenea fapte ale tale glorioase. El a răspuns: Și ce folos îmi va fi să am asemenea răsplătiri, când nu am pe nimeni care să se bucure de ele după mine? — căci până atunci era fără copii. Iar Dumnezeu a făgăduit că va avea un fiu și că urmașii lui vor fi foarte numeroși; încât numărul lor va fi ca al stelelor. Când a auzit aceasta, a adus o jertfă lui Dumnezeu, după cum îi poruncise El. Felul jertfei a fost acesta: a luat o vițică de trei ani, o capră de trei ani și un berbec, de asemenea, de trei ani, un turturel și un porumbel; și, cum i s-a poruncit, a despicat pe cele trei dintâi, dar păsările nu le-a despicat. După care, înainte de a-și zidi altarul, unde păsările de pradă zburau de jur împrejur, ca și cum ar fi dorit sânge, un glas dumnezeiesc a venit la el, vestind că vecinii lor vor fi grei pentru urmașii lui, când aceștia vor fi în Egipt, patru sute de ani; în care vreme vor fi chinuiți, dar după aceea își vor birui vrăjmașii, vor cuceri pe canaaniți în război și vor pune stăpânire pe țara lor și pe cetățile lor."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 10",
+    "text": "Și Dumnezeu i-a lăudat virtutea și a zis: Nu vei pierde totuși răsplătirile pe care ai meritat să le primești prin asemenea fapte ale tale glorioase. El a răspuns: Și ce folos îmi va fi să am asemenea răsplătiri, când nu am pe nimeni care să se bucure de ele după mine? — căci până atunci era fără copii. Iar Dumnezeu a făgăduit că va avea un fiu și că urmașii lui vor fi foarte numeroși; încât numărul lor va fi ca al stelelor. Când a auzit aceasta, a adus o jertfă lui Dumnezeu, după cum îi poruncise El. Felul jertfei a fost acesta: a luat o vițică de trei ani, o capră de trei ani și un berbec, de asemenea, de trei ani, un turturel și un porumbel; și, cum i s-a poruncit, a despicat pe cele trei dintâi, dar păsările nu le-a despicat. După care, înainte de a-și zidi altarul, unde păsările de pradă zburau de jur împrejur, ca și cum ar fi dorit sânge, un glas dumnezeiesc a venit la el, vestind că vecinii lor vor fi grei pentru urmașii lui, când aceștia vor fi în Egipt, patru sute de ani; în care vreme vor fi chinuiți, dar după aceea își vor birui vrăjmașii, vor cuceri pe canaaniți în război și vor pune stăpânire pe țara lor și pe cetățile lor.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 11,
+      "v": 3
+     }
+    }
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "După aceste lucruri, cuvântul Domnului a venit către Avram în viziune, zicând: „Nu te teme, Avram, Eu sunt scutul tău; răsplata ta va fi foarte mare.” Binecuvântarea pe care Avraam o primise de la preotul Melchisedec, Domnul însuși o întărește acum. Căci preotul spusese: „Și binecuvântat să fie Dumnezeul Preaînalt, Care a dat pe dușmanii tăi în mâna ta” (Facere 14:20). Domnul zice: „Eu sunt scutul tău.” Preotul spusese: „Binecuvântat să fie Dumnezeul Preaînalt.” Dumnezeu însuși zice: „Și răsplata ta va fi foarte mare.” Prin răsplată înțelege nu numai dragostea pe care o arătase față de fratele său aflat în nevoie, ci și toată evlavia cu care slujise Domnului din toată inima, de când părăsise patria și rudele."
+   },
+   {
+    "author": "Cartea Dreptului 18 — comparație",
+    "text": "Și omul a plâns la cuvântul judecătorului, și i-a spus, nu este așa domnul meu, căci a fost în ziua în care eu i-am dat lui funia și mantaua care era pe asin, pentru a le pune deoparte în casa lui; iar ei amândoi au disputat înaintea judecătorului, unul spunând astfel pricina a fost, iar celălalt declarând opusul.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 18,
+      "v": 35
+     }
+    }
    }
   ]
  },
@@ -1900,6 +1918,28 @@ window.CHAPTER_DATA = [
       "v": 9
      }
     }
+   },
+   {
+    "author": "Apocalipsa lui Avraam 9 — comparație",
+    "text": "Du-te, ia-Mi o juncană de trei ani, și o capră de trei ani, și un berbec de trei ani, și o turturică, și un porumbel, și pregătește-Mi o jertfă curată. Și în jertfa aceasta îți voi pune înainte veacurile",
+    "src": {
+     "slug": "apocalipsa-avraam",
+     "spec": {
+      "num": 9,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Avraam 12 — comparație",
+    "text": "Și am privit înapoi. Și iată, toate jertfele prescrise ne urmau: vițelul, capra, berbecul, turturica și porumbelul.",
+    "src": {
+     "slug": "apocalipsa-avraam",
+     "spec": {
+      "num": 12,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -2085,6 +2125,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 14,
       "v": 11
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Avraam 12 — comparație",
+    "text": "Și mi-a zis: Junghie și taie toate acestea, punând laolaltă cele două jumătăți, una împotriva celeilalte. Dar nu tăia păsările.",
+    "src": {
+     "slug": "apocalipsa-avraam",
+     "spec": {
+      "num": 12,
+      "v": 8
      }
     }
    }

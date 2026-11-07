@@ -179,10 +179,6 @@ window.CHAPTER_DATA = [
     "text": "Popoarele din jurul lui Israel aveau și ele povești despre începuturi. Un text egiptean din Teba vorbește despre zeul Amon care „a rânduit lucrurile la prima ocazie” — o expresie pe care egiptologii n-o citesc ca pe o idee filozofică despre timp, ci ca pe referirea la un eveniment concret, prima dată când ceva s-a întâmplat. Ceva asemănător pare să facă și textul ebraic: „început” nu descrie o veșnicie abstractă dinainte de timp, ci pur și simplu episodul concret care urmează, cele șapte zile ale capitolului.<br><br>Ce diferă radical, însă, e cum se ajunge acolo: în mitologiile vecine, lumea apare de obicei dintr-un conflict între zei; în Geneza, un singur Dumnezeu vorbește, și lumea ascultă, fără nicio luptă."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "La început, Dumnezeu a făcut cerul și pământul."
-   },
-   {
     "author": "Talmudul Babilonian, Hagiga, cap. 2",
     "text": "Au învățat rabinii: Casa lui Șammai spune: Cerurile au fost create întâi și după aceea a fost creat pământul, căci s-a spus: „La început, când a creat Dumnezeu cerurile și pământul”. Iar Casa lui Hillel spune: Pământul a fost creat întâi și după aceea cerurile, căci s-a spus: „în ziua facerii de către Domnul Dumnezeu a pământului și cerurilor”.",
     "src": {
@@ -302,6 +298,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 24,
       "v": 2
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+    "text": "La început, Dumnezeu a făcut cerul și pământul. Dar pământul nu se arăta, ci era acoperit de o întunecime deasupra, iar un vânt se mișca pe fața lui; Dumnezeu a poruncit să fie lumină; și când ea s-a făcut, a cercetat întreaga masă și a despărțit lumina de întuneric; și numele pe care i l-a dat unuia a fost Noapte, iar pe celălalt l-a numit Zi; și a numit începutul luminii și vremea odihnei Seara și Dimineața, și aceasta a fost, într-adevăr, ziua dintâi. Dar Moise a spus că a fost o zi; pricina căreia aș putea s-o dau chiar și acum; dar pentru că am făgăduit să dau asemenea motive pentru toate lucrurile într-un tratat deosebit, voi amâna explicarea ei până atunci. După aceasta, în ziua a doua, a așezat cerul deasupra întregii lumi și l-a despărțit de celelalte părți și a hotărât ca el să stea singur. A pus de asemenea în jurul lui un [firmament] cristalin și l-a alcătuit într-un chip potrivit cu pământul și l-a făcut apt să dea umezeală și ploaie și să aducă folosul rourilor. În ziua a treia a rânduit ca uscatul să se arate, cu însăși marea împrejurul lui; și în aceeași zi a făcut ca plantele și semințele să răsară din pământ. În ziua a patra a împodobit cerul cu soarele, cu luna și cu celelalte stele și le-a rânduit mișcările și cursurile, ca schimbarea anotimpurilor să fie arătată limpede. Iar în ziua a cincea a scos la iveală viețuitoarele, atât pe cele care înoată, cât și pe cele care zboară: pe cele dintâi în mare, pe cele din urmă în aer; le-a orânduit și după societate și amestec, pentru înmulțire, ca soiurile lor să crească și să se înmulțească. În ziua a șasea a creat fiarele cu patru picioare și le-a făcut parte bărbătească și parte femeiască; în aceeași zi a întocmit și pe om. Potrivit acestora, Moise spune că în numai șase zile lumea și tot ce este în ea au fost făcute. Iar ziua a șaptea a fost o odihnă și o ușurare de osteneala unor asemenea lucrări; de aceea sărbătorim și noi în acea zi o odihnă de lucrările noastre și o numim Sabat, cuvânt care înseamnă odihnă în limba ebraică.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 2,
+      "v": 1
      }
     }
    }
@@ -911,12 +918,15 @@ window.CHAPTER_DATA = [
     "text": "Nimic nu poate fi mai măreț decât acest fel de a vorbi. El arată, deodată, o autoritate de netăgăduit și o putere fără margini. Acest pasaj, în traducerea grecească a Septuagintei, i-a atras atenția lui Dionisie Longinus, unul dintre cei mai pătrunzători critici greci care au trăit vreodată, cunoscut pentru tratatul său Despre sublim. Deși păgân, el scrie despre acest loc: «Tot așa și legiuitorul iudeilor — nu un om oarecare —, având o idee dreaptă despre puterea dumnezeiască, a exprimat-o într-un chip vrednic de ea; căci la începutul legilor sale scrie astfel: A zis Dumnezeu — ce anume? Să fie lumină! Și a fost lumină. Să fie pământ! Și a fost pământ.»"
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Dar pământul nu se arăta, ci era acoperit de o întunecime deasupra, iar un vânt se mișca pe fața lui; Dumnezeu a poruncit să fie lumină; și când ea s-a făcut, a cercetat întreaga masă și a despărțit lumina de întuneric; și numele pe care i l-a dat unuia a fost Noapte, iar pe celălalt l-a numit Zi; și a numit începutul luminii și vremea odihnei Seara și Dimineața, și aceasta a fost, într-adevăr, ziua dintâi."
-   },
-   {
     "author": "Cartea Jubileelor 2 — comparație",
-    "text": "Căci în ziua întâi a zidit cerurile care sunt deasupra, și pământul, și apele, și toate duhurile care slujesc înaintea Lui — îngerii prezenței, și îngerii sfințirii, și îngerii duhului focului, și îngerii duhului vânturilor, și îngerii duhului norilor, și ai întunericului, și ai zăpezii, și ai grindinei, și ai brumei, și îngerii glasurilor, și ai tunetului, și ai fulgerului, și îngerii duhurilor frigului și ai căldurii, și ai iernii, și ai primăverii, și ai toamnei, și ai verii, și ai tuturor duhurilor făpturilor Sale care sunt în ceruri și pe pământ; a zidit adâncurile și întunericul, amurgul și noaptea, și lumina, zorile și ziua, pe care le-a pregătit în cunoștința inimii Sale. Și atunci noi am văzut lucrările Lui, și L-am lăudat, și I-am cântat înaintea Lui pentru toate lucrările Lui; căci șapte lucrări mari a zidit El în ziua întâi."
+    "text": "Căci în ziua întâi a zidit cerurile care sunt deasupra, și pământul, și apele, și toate duhurile care slujesc înaintea Lui — îngerii prezenței, și îngerii sfințirii, și îngerii duhului focului, și îngerii duhului vânturilor, și îngerii duhului norilor, și ai întunericului, și ai zăpezii, și ai grindinei, și ai brumei, și îngerii glasurilor, și ai tunetului, și ai fulgerului, și îngerii duhurilor frigului și ai căldurii, și ai iernii, și ai primăverii, și ai toamnei, și ai verii, și ai tuturor duhurilor făpturilor Sale care sunt în ceruri și pe pământ; a zidit adâncurile și întunericul, amurgul și noaptea, și lumina, zorile și ziua, pe care le-a pregătit în cunoștința inimii Sale. Și atunci noi am văzut lucrările Lui, și L-am lăudat, și I-am cântat înaintea Lui pentru toate lucrările Lui; căci șapte lucrări mari a zidit El în ziua întâi.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 2
+     }
+    }
    },
    {
     "author": "4 Ezdra 6 — comparație",
@@ -1500,10 +1510,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
     "text": "Și a fost seară și a fost dimineață, o zi. A fost seară, pe măsură ce lumina scădea treptat, după încheierea răstimpului zilei; și a fost dimineață, pe măsură ce aceeași lumină se întorcea treptat peste pământ și începea o altă zi; și astfel s-a împlinit o zi întreagă, de douăzeci și patru de ceasuri. De aceea Scriptura a preferat să spună «seară și dimineață», nu «noapte și zi», ca să arate că lucrarea luminii celei dintâi se făcea în cerc. S-a cuvenit pe deplin ca ziua ce începe din lumină să se întindă până în dimineața zilei următoare, ca să se dea de înțeles că lucrările Celui ce este lumina cea adevărată, în care nu e nicio umbră, încep din lumină și se împlinesc în lumină."
-   },
-   {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Dar Moise a spus că a fost o zi; pricina căreia aș putea s-o dau chiar și acum; dar pentru că am făgăduit să dau asemenea motive pentru toate lucrurile într-un tratat deosebit, voi amâna explicarea ei până atunci."
    },
    {
     "author": "2 Enoh 27 — comparație",
@@ -2420,10 +2426,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Keil și Delitzsch, Comentariu la Vechiul Testament",
     "text": "רקיע (rakia), de la רקע, „a întinde, a lăți”, înseamnă expansum — întinderea aerului care înconjoară pământul ca atmosferă. După înfățișarea ei, e descrisă ca un covor întins deasupra pământului (Psalmul 104:2), o perdea (Isaia 40:22), o lucrare străvezie de safir (Ieșirea 24:10), sau o oglindă turnată (Iov 37:18) — dar nimic din aceste imagini poetice nu îndreptățește ideea că cerurile ar fi fost privite ca o masă solidă."
-   },
-   {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "După aceasta, în ziua a doua, a așezat cerul deasupra întregii lumi și l-a despărțit de celelalte părți și a hotărât ca el să stea singur. A pus de asemenea în jurul lui un [firmament] cristalin și l-a alcătuit într-un chip potrivit cu pământul și l-a făcut apt să dea umezeală și ploaie și să aducă folosul rourilor."
    }
   ],
   "textCompare": [
@@ -3290,10 +3292,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament",
     "text": "Să dea pământul din sine verdeață, iarbă, pom roditor etc. — în aceste expresii generale sunt cuprinse toate felurile de plante. «Pom roditor» nu trebuie înțeles aici în sensul strâmt în care folosim noi cuvântul; el arată toți pomii, nu doar cei ce rodesc spre folosul oamenilor și al vitelor, ci și cei ce au puterea de a se înmulți prin semințe. Cine poate pătrunde alcătuirea unui singur pom sau a unei singure plante? Rădăcinile, tulpina, fibrele lemnoase, coaja, vasele de sevă, frunzele, florile și roadele — toate sunt tot atâtea taine. Toată iscusința, înțelepciunea și puterea oamenilor și îngerilor laolaltă n-ar putea face un singur bob de grâu."
-   },
-   {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "În ziua a treia a rânduit ca uscatul să se arate, cu însăși marea împrejurul lui; și în aceeași zi a făcut ca plantele și semințele să răsară din pământ."
    },
    {
     "author": "4 Ezdra 6 — comparație",
@@ -4801,10 +4799,6 @@ window.CHAPTER_DATA = [
     "text": "Maniheii întreabă cum se poate ca trupurile cerești — soarele, luna și stelele — să fi fost făcute abia în ziua a patra. Cum ar fi putut trece cele trei zile dinainte fără soare?... Le răspundem că fiecare din cele trei zile dinainte ar fi putut fi socotită după o perioadă la fel de mare ca aceea prin care trece soarele, de la răsărit până se întoarce iarăși la răsărit. Acesta ar fi răspunsul nostru, dacă n-am fi opriți de cuvintele «și a fost seară și a fost dimineață» — de aceea rămânem cu explicația că, în acea vreme, hotarele dintre lucrări se numeau «seară» pentru încheierea lucrării făcute, și «dimineață» pentru începutul celei ce urma. Așa vorbește Scriptura, după asemănarea lucrărilor omenești, care de obicei încep dimineața și se sfârșesc seara."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "În ziua a patra a împodobit cerul cu soarele, cu luna și cu celelalte stele și le-a rânduit mișcările și cursurile, ca schimbarea anotimpurilor să fie arătată limpede."
-   },
-   {
     "author": "2 Enoh 30 — comparație",
     "text": "[Miercuri]. În ziua a patra am poruncit să fie luminători mari pe cercurile cerești. Pe primul cerc, cel mai de sus, am pus stelele, Kruno, și pe al doilea Afrodit, pe al treilea Aris, pe al cincilea Zoues, pe al șaselea Ermis, pe al șaptelea mai mic, luna, și am împodobit-o cu stelele mai mici. Și pe cel de jos am pus soarele pentru luminarea zilei și luna și stelele pentru luminarea nopții. Soarele să meargă după fiecare constelație, douăsprezece, și am rânduit succesiunea lunilor și numele lor și viețile lor, tunetele lor și măsurătorile lor de ore, cum să se succeadă.",
     "src": {
@@ -5263,6 +5257,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
     "text": "Și a văzut Dumnezeu că era bine. Cu rost găsește Sfânta Scriptură, de multe ori, că Dumnezeu a văzut că lucrurile pe care le-a făcut erau bune, ca prin aceasta să fie luminată evlavia credincioșilor; căci nu ține de mintea omenească — care adesea se poticnește chiar și de lucruri bune ale căror pricini și rânduială nu le cunoaște — să judece creația cea văzută și nevăzută, ci mai degrabă să creadă și să se plece, lăudând pe Dumnezeu."
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "Și el desparte lumina de întuneric, și e spre propășire, ca toate să propășească, cele ce odrăslesc și cresc pe pământ. Aceste trei feluri le-a făcut în ziua a patra.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 10
+     }
+    }
    }
   ],
   "textCompare": [
@@ -5413,7 +5418,14 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Cartea Jubileelor 2 — comparație",
-    "text": "Și în ziua a patra a zidit soarele și luna și stelele, și le-a pus în tăria cerului, ca să lumineze peste tot pământul, și să stăpânească peste zi și peste noapte, și să despartă lumina de întuneric. Și Dumnezeu a rânduit soarele să fie un semn mare pe pământ pentru zile, și pentru sabate, și pentru luni, și pentru sărbători, și pentru ani, și pentru sabatele anilor, și pentru jubilee, și pentru toate vremile anilor. Și el desparte lumina de întuneric, și e spre propășire, ca toate să propășească, cele ce odrăslesc și cresc pe pământ. Aceste trei feluri le-a făcut în ziua a patra."
+    "text": "Și în ziua a patra a zidit soarele și luna și stelele, și le-a pus în tăria cerului, ca să lumineze peste tot pământul, și să stăpânească peste zi și peste noapte, și să despartă lumina de întuneric. Și Dumnezeu a rânduit soarele să fie un semn mare pe pământ pentru zile, și pentru sabate, și pentru luni, și pentru sărbători, și pentru ani, și pentru sabatele anilor, și pentru jubilee, și pentru toate vremile anilor. Și el desparte lumina de întuneric, și e spre propășire, ca toate să propășească, cele ce odrăslesc și cresc pe pământ. Aceste trei feluri le-a făcut în ziua a patra.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 8
+     }
+    }
    }
   ],
   "textCompare": [
@@ -5736,10 +5748,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Sfântul Vasile cel Mare, Hexaimeron 8.2",
     "text": "A mai zis Dumnezeu: «Să zboare păsările deasupra pământului, prin tăria cerurilor.» De ce a dat El și viețuitoarelor înaripate obârșia din ape? Fiindcă vietățile zburătoare au, ca să zic așa, o oarecare înrudire cu cele ce înoată. Căci așa cum peștii despică apa, înaintând cu mișcarea înotătoarelor și îndreptându-și întoarcerile prin mișcarea cozii, tot așa și păsările se văd despicând și mișcându-se prin aer cu aripile lor, în același chip."
-   },
-   {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Iar în ziua a cincea a scos la iveală viețuitoarele, atât pe cele care înoată, cât și pe cele care zboară: pe cele dintâi în mare, pe cele din urmă în aer; le-a orânduit și după societate și amestec, pentru înmulțire, ca soiurile lor să crească și să se înmulțească."
    },
    {
     "author": "4 Ezdra 6 — comparație",
@@ -6926,10 +6934,6 @@ window.CHAPTER_DATA = [
     "text": "După ce Moise a vorbit despre crearea vietăților mișcătoare, a păsărilor și a șerpilor de mare din ziua a cincea, s-a întors să scrie despre târâtoare, animale și fiare, create în ziua a șasea, zicând: «Să dea pământul din sine viețuitoare după soiul lor: dobitoace, târâtoare și fiare.» Deși tot pământul mișuna de vietăți târâtoare, totuși dobitoacele și fiarele au fost făcute la hotarul Raiului, ca să locuiască la locul rânduit lui Adam."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "În ziua a șasea a creat fiarele cu patru picioare și le-a făcut parte bărbătească și parte femeiască; în aceeași zi a întocmit și pe om."
-   },
-   {
     "author": "4 Ezdra 6 — comparație",
     "text": "În ziua a șasea ai dat poruncă pământului ca înaintea Ta să scoată fiare, vite și târâtoare;",
     "src": {
@@ -8025,7 +8029,14 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Mai departe, Moise, după ce a trecut ziua a șaptea, începe să vorbească filosofic; și despre alcătuirea omului spune astfel: că Dumnezeu a luat țărână din pământ și a întocmit pe om și a pus în el un duh și un suflet. Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă cel roșu, pentru că a fost alcătuit din pământ roșu, frământat laolaltă; căci de acest fel este pământul fecioresc și adevărat. Dumnezeu a înfățișat, de asemenea, lui Adam viețuitoarele, după ce le făcuse, după soiurile lor, atât parte bărbătească, cât și parte femeiască, iar el le-a dat acele nume cu care ele se numesc și astăzi. Dar când a văzut că Adam nu avea nicio tovarășă femeie, nicio societate, căci nu fusese creată una, și că el se mira de celelalte animale care erau parte bărbătească și parte femeiască, l-a adormit și i-a luat una dintre coaste și din ea a întocmit pe femeie; după care Adam a cunoscut-o când i-a fost adusă și a recunoscut că a fost făcută din el însuși. Femeia se numește în limba ebraică Issa; dar numele acestei femei a fost Eva, ceea ce înseamnă mama tuturor celor vii."
+    "text": "Mai departe, Moise, după ce a trecut ziua a șaptea, începe să vorbească filosofic; și despre alcătuirea omului spune astfel: că Dumnezeu a luat țărână din pământ și a întocmit pe om și a pus în el un duh și un suflet. Acest om a fost numit Adam, ceea ce în limba ebraică înseamnă cel roșu, pentru că a fost alcătuit din pământ roșu, frământat laolaltă; căci de acest fel este pământul fecioresc și adevărat. Dumnezeu a înfățișat, de asemenea, lui Adam viețuitoarele, după ce le făcuse, după soiurile lor, atât parte bărbătească, cât și parte femeiască, iar el le-a dat acele nume cu care ele se numesc și astăzi. Dar când a văzut că Adam nu avea nicio tovarășă femeie, nicio societate, căci nu fusese creată una, și că el se mira de celelalte animale care erau parte bărbătească și parte femeiască, l-a adormit și i-a luat una dintre coaste și din ea a întocmit pe femeie; după care Adam a cunoscut-o când i-a fost adusă și a recunoscut că a fost făcută din el însuși. Femeia se numește în limba ebraică Issa; dar numele acestei femei a fost Eva, ceea ce înseamnă mama tuturor celor vii.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 2,
+      "v": 2
+     }
+    }
    },
    {
     "author": "Înțelepciunea lui Isus Sirah 17 — comparație",
@@ -9370,10 +9381,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere 3.12",
     "text": "Mâna Lui cea atotputernică și înțelepciunea Lui fără margini n-ar fi fost în încurcătură nici dacă ar fi creat totul într-o singură zi. De ce spun «o singură zi»? Chiar și într-o clipă. Dar n-a fost din pricina folosului Său că a adus la ființă tot ce există, de vreme ce, fiind de Sine îndestulat, n-are nevoie de nimic. Ci mai degrabă din bunătatea și iubirea Lui de oameni a creat totul; de aceea a creat lucrurile în șir, și ne-a dat o învățătură limpede despre făpturi prin limba fericitului scriitor, ca să le cunoaștem cu precizie și să nu cădem în rătăcirea celor călăuziți doar de rațiunea omenească."
-   },
-   {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Potrivit acestora, Moise spune că în numai șase zile lumea și tot ce este în ea au fost făcute. Iar ziua a șaptea a fost o odihnă și o ușurare de osteneala unor asemenea lucrări; de aceea sărbătorim și noi în acea zi o odihnă de lucrările noastre și o numim Sabat, cuvânt care înseamnă odihnă în limba ebraică."
    },
    {
     "author": "Cartea Jubileelor 2 — comparație",

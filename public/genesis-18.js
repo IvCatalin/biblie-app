@@ -236,6 +236,17 @@ window.CHAPTER_DATA = [
       "v": 1
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 10",
+    "text": "Avram a locuit lângă stejarul numit Ogyges, — locul ține de Canaan, nu departe de cetatea Hebron. Dar, nemulțumit de sterpiciunea soției sale, L-a rugat pe Dumnezeu să-i dea să aibă urmași bărbați; iar Dumnezeu i-a cerut să aibă bun curaj și a spus că va adăuga la toate celelalte binefaceri pe care i le făcuse, de când l-a scos din Mesopotamia, darul copiilor. Astfel, Sarai, la porunca lui Dumnezeu, a adus în patul lui pe una dintre slujnicele ei, o femeie de neam egiptean, ca să dobândească copii din ea; iar când această slujnică a rămas însărcinată, a triumfat și a îndrăznit să o înfrunte pe Sarai, ca și cum stăpânirea ar fi urmat să ajungă la un fiu care urma să se nască din ea. Dar când Avram a lăsat-o în mâna lui Sarai, ca să o pedepsească, a născocit să fugă, neputând îndura dovezile asprimii lui Sarai față de ea; și L-a rugat pe Dumnezeu să aibă milă de ea. Atunci un înger dumnezeiesc a întâlnit-o, pe când mergea înainte prin pustie, și i-a poruncit să se întoarcă la stăpânul și la stăpâna ei, căci dacă se va supune acelui sfat înțelept, va trăi mai bine de acum înainte; căci pricina pentru care se afla într-o stare atât de nenorocită era că fusese nerecunoscătoare și trufașă față de stăpâna ei. I-a mai spus, de asemenea, că dacă nu va asculta de Dumnezeu și va merge mai departe pe calea ei, va pieri; dar dacă se va întoarce, va deveni mama unui fiu care va domni peste acea țară. Ea a ascultat aceste îndemnuri și s-a întors la stăpânul și la stăpâna ei și a dobândit iertare. După puțină vreme, a născut pe Ismael, ceea ce se poate tălmăci Auzit de Dumnezeu, pentru că Dumnezeu auzise rugăciunea mamei sale.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 11,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -510,8 +521,15 @@ window.CHAPTER_DATA = [
     "text": "Îndată «și și-a ridicat ochii și a văzut, și iată trei oameni stăteau asupra lui». Cine sunt cei trei oameni? Aceștia sunt Avraham, Yițḥak și Iaakov, care stau asupra acestei trepte, și din ei se alăptează (temelia lumii) și se hrănește."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
-    "text": "Când Dumnezeu a hotărât astfel cu privire la sodomiți, Avraam, pe când ședea lângă stejarul din Mamre, la ușa cortului său, a văzut trei îngeri; și, socotindu-i străini, s-a sculat, i-a salutat și i-a rugat să primească o ospătare și să rămână la el; la care, după ce au consimțit, a poruncit să se facă îndată turte din făină; și, după ce a înjunghiat un vițel, l-a fript și l-a adus la ei, pe când ședeau sub stejar. Ei au făcut semn că mănâncă; și, pe lângă aceasta, l-au întrebat despre soția lui, Sara, unde era; iar când el a zis că este înăuntru, au spus că vor veni din nou mai târziu și o vor găsi făcută mamă. La care femeia a râs și a zis că este cu neputință să nască copii, de vreme ce are nouăzeci de ani, iar soțul ei o sută. Atunci ei nu s-au mai ascuns, ci au declarat că sunt îngeri ai lui Dumnezeu; și că unul dintre ei era trimis să-i înștiințeze despre copil, iar doi despre nimicirea Sodomei."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
+    "text": "Când Dumnezeu a hotărât astfel cu privire la sodomiți, Avraam, pe când ședea lângă stejarul din Mamre, la ușa cortului său, a văzut trei îngeri; și, socotindu-i străini, s-a sculat, i-a salutat și i-a rugat să primească o ospătare și să rămână la el; la care, după ce au consimțit, a poruncit să se facă îndată turte din făină; și, după ce a înjunghiat un vițel, l-a fript și l-a adus la ei, pe când ședeau sub stejar. Ei au făcut semn că mănâncă; și, pe lângă aceasta, l-au întrebat despre soția lui, Sara, unde era; iar când el a zis că este înăuntru, au spus că vor veni din nou mai târziu și o vor găsi făcută mamă. La care femeia a râs și a zis că este cu neputință să nască copii, de vreme ce are nouăzeci de ani, iar soțul ei o sută. Atunci ei nu s-au mai ascuns, ci au declarat că sunt îngeri ai lui Dumnezeu; și că unul dintre ei era trimis să-i înștiințeze despre copil, iar doi despre nimicirea Sodomei.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 12,
+      "v": 2
+     }
+    }
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere",
@@ -4173,6 +4191,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Zohar, Haiei Sara 8:5",
     "text": "Că așa sunt căile Sfântului, binecuvântat fie El: dă avuție omului — de ce? Ca să hrănească pe săraci și să facă poruncile Lui. Nu face aceasta și se mândrește (și dacă s-a descoperit în el) în avuția aceea — în ea va fi lovit, precum e scris (Ecleziastul 5:12) «avuție păstrată stăpânului ei spre răul lui». Îi dă fii — de ce? Ca să-i învețe căile Sfântului, binecuvântat fie El, și să păzească poruncile Lui, precum s-a zis la Avraham (Geneza 18:19) «că l-am cunoscut, ca să poruncească fiilor săi și casei sale după el, și să păzească calea Domnului, să facă tzedaka» etc. Nu face aceasta și se mândrește în ei — în ei e lovit, precum e scris (Iov 18:19) «nu are odraslă și nu are nepot în poporul său» etc. Și tot după chipul acesta, când dă Sfântul, binecuvântat fie El, din frumusețea cea bună de sus a lui Adam ha-Rishon lor — de ce? Ca să păzească poruncile Lui și să facă voia Lui; nu au făcut așa, ci s-au mândrit în ea. În ea au fost loviți, în frumusețea aceasta."
+   },
+   {
+    "author": "Cartea Jubileelor 16 — comparație",
+    "text": "Și în luna aceasta Domnul a făcut judecățile Sale asupra Sodomei, și Gomorei, și Țeboimului, și a tot ținutul Iordanului, și le-a ars cu foc și pucioasă, și le-a nimicit până în ziua aceasta, după cum ți-am vestit toate lucrările lor, că sunt răi și păcătoși foarte, și că se pângăresc și se desfrânează în trupul lor, și fac necurăție pe pământ.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 16,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -4400,8 +4429,15 @@ window.CHAPTER_DATA = [
     "text": "«Și Domnul a spus: Strigătul Sodomei și Gomorei etc.» Motivul spusei „căci”, și nu a fost de ajuns să spună „strigătul Sodomei este mare” etc. „și păcatul lor este greu”. Și de asemenea dublarea spusei „strigătul” „și păcatul lor” – și nu este strigăt decât din păcat. Și de asemenea spusa „foarte greu”, a intenționat să spună că în acel timp toate neamurile îl mâniau și ele prin faptele lor, doar că acestea au făcut peste măsură, de aceea a spus „căci mare”, explicația: motivul mâniei Mele nu este pentru că numai strigătul lor s-a ridicat înaintea Mea, ci căci strigătul lor este mare mai mult decât al tuturor neamurilor. Iar dublarea „strigătul lor” „și păcatul lor” este față de două răutăți: una, că erau răi față de creaturi, precum au spus, binecuvântată fie amintirea lor, și precum fapta lui Ribah, iar a doua, răi față de ceruri, precum s-au dezvăluit faptele lor, că au alergat după păcatul culcării bărbătești cu îngerii în chip de oameni, și a fost nevoie ca Domnul să-i facă cunoscută extremitatea răutății lor, fiindcă sunt lucrarea mâinilor Lui.<br><br>Încă a intenționat Domnul să potolească răceala îngrijorării lui, căci va spune: să ne străduim să salvăm un neam atât de rău? De aceea i-a spus „căci mare” „căci greu” etc., explicația: răutatea este nouă și pentru ea sunt vinovați, iar mai înainte nu erau atât de răi când i-ai salvat."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
-    "text": "Cam în vremea aceea sodomiții s-au îngâmfat din pricina bogățiilor și a marii lor averi; au ajuns nedrepți față de oameni și nelegiuiți față de Dumnezeu, încât nu-și mai aminteau folosele pe care le primeau de la El: urau pe străini și se pângăreau prin practici sodomitice. Dumnezeu a fost, deci, foarte nemulțumit de ei și a hotărât să-i pedepsească pentru trufia lor, să le răstoarne cetatea și să le pustiască țara, până când nu va mai crește din ea nici plantă, nici rod."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
+    "text": "Cam în vremea aceea sodomiții s-au îngâmfat din pricina bogățiilor și a marii lor averi; au ajuns nedrepți față de oameni și nelegiuiți față de Dumnezeu, încât nu-și mai aminteau folosele pe care le primeau de la El: urau pe străini și se pângăreau prin practici sodomitice. Dumnezeu a fost, deci, foarte nemulțumit de ei și a hotărât să-i pedepsească pentru trufia lor, să le răstoarne cetatea și să le pustiască țara, până când nu va mai crește din ea nici plantă, nici rod.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 12,
+      "v": 1
+     }
+    }
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere",
@@ -4602,6 +4638,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Apoi, ca să învețe tot neamul omenesc că, deși păcatele lor sunt foarte mari și mărturisite ca atare, nu rostește sentința până nu e vădită dovada, spune: „Cobor să văd dacă faptele lor corespund strigătului care a ajuns la Mine, ca să știu dacă este adevărat sau nu.” Ce se înțelege prin chibzuința acestei expresii? „Cobor să văd dacă faptele lor corespund strigătului care a ajuns la Mine, ca să știu dacă este adevărat sau nu.” Ce se înțelege prin blândețea acestei expresii? „Cobor să văd.” Vreau să zic: Dumnezeul tuturor se mută oare dintr-un loc în altul? Nicidecum! Nu aceasta se înțelege; ci, cum am spus adesea, vrea să ne învețe prin caracterul concret al expresiei că trebuie să punem precizie și că păcătoșii nu sunt osândiți după zvonuri și nici sentința nu se rostește fără dovadă."
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Iar dacă el continua să strige la ei, îi răspundeau lui, spunând, astfel va fi făcut unui om care vine în ținutul nostru.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -4775,6 +4822,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Oamenii s-au îndreptat de acolo»: așa a văzut în viziunea profeției, că a mers cu ei ca să-i conducă cât măsura însoțirii, și s-au despărțit de el; și s-a retras acela care venise să-i vestească Sarei, iar cei doi au mers la Sodoma.<br><br>«Iar Avraam încă stătea»: a spus că viziunea profeției nu se încheiase încă, căci el era încă în ea."
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Și Domnul a fost provocat de aceasta și de toate lucrările orașelor Sodomei, căci ei aveau abundență de mâncare și aveau liniște între ei, și totuși încă nu îngrijeau de sărmani și nevoiași, iar în acele zile faptele lor rele și păcatele lor au devenit mari înaintea Domnului.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 44
+     }
+    }
    }
   ]
  },
@@ -4950,8 +5008,15 @@ window.CHAPTER_DATA = [
     "text": "«Avraam s-a apropiat și a spus: Vei nimici oare pe cel drept etc.» Fiindcă Domnul a spus „dacă după strigătul lor au făcut distrugere”, se înțelege că atunci când va înclina măsura judecății – distrugere pentru toți, și deși sunt printre ei unii drepți, de aceea a spus „vei nimici oare” etc. Și chiar dacă intenția Ta este să spui că vei face un mod de a salva pe cei buni dintre ei, precum ai făcut lui Lot, pe care l-ai scos afară, încă pledez în privința aceasta: poate sunt cincizeci de drepți, vei nimici oare pe cei răi și nu vei cruța de dragul celor cincizeci, și nu vei scoate pe cei răi din mijlocul ei, și aceasta este ce a fost precis să spună „din mijlocul său”. Iar spusa „Ar fi un sacrilegiu pentru Tine” etc. „să omori pe cel drept” este față de prima parte, care a spus „vei nimici oare”, dar partea a doua, în care a cerut să salveze pe cel drept și pe cel rău, nu este decât cerere de îndurare, poate se va încuraja Domnul și nu va ține linia judecății până la ultimul capăt.<br><br>Iar spusa „astfel încât cel drept să fie ca ticălosul”, explicația: când vei omorî pe cel drept va fi, în comparație cu creaturile împreună, cel drept ca cel rău, la o singură treaptă, și nu se vor strădui să se îndreptățească.<br><br>Iar ce a spus a doua oară „Ar fi sacrilegiu pentru Tine” este față de partea a doua: dacă nu va fi de acord să cruțe locul de dragul celor cincizeci și va nimici pe toți cei răi, „ar fi sacrilegiu” etc. Altă explicație, că deja a jurat de trecerea apelor lui Noe, a dezvăluit părerea lui că nu va ține linia judecății până la ultimul capăt. Și cercetează în secțiunea Noe ce am scris în comentariul versetului „Voi statornici”, și de acolo vei pricepe intenția lui Avraam în pledoaria lui."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
-    "text": "Când Avraam a auzit aceasta, s-a întristat pentru sodomiți; s-a ridicat și L-a rugat pe Dumnezeu pentru ei și L-a implorat să nu-i nimicească pe cei drepți împreună cu cei răi. Iar când Dumnezeu i-a răspuns că între sodomiți nu era niciun om bun; căci dacă ar fi fost între ei măcar zece asemenea oameni, nu i-ar fi pedepsit pe niciunul dintre ei pentru păcatele lor, Avraam a tăcut. Iar îngerii au venit la cetatea sodomiților, și Lot i-a rugat să primească o găzduire la el; căci era un om foarte darnic și primitor și unul care învățase să imite bunătatea lui Avraam. Când sodomiții au văzut că tinerii aveau fețe frumoase, și aceasta într-un grad neobișnuit, și că își luau găzduirea la Lot, au hotărât să se bucure ei înșiși de acești băieți frumoși prin forță și violență; iar când Lot i-a îndemnat la cumpătare și să nu ofere nimic necuviincios străinilor, ci să țină seama de găzduirea lor în casa lui, și le-a făgăduit că, dacă înclinările lor nu pot fi stăpânite, își va expune fiicele poftei lor în locul acestor străini, nici așa nu au fost făcuți să se rușineze."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
+    "text": "Când Avraam a auzit aceasta, s-a întristat pentru sodomiți; s-a ridicat și L-a rugat pe Dumnezeu pentru ei și L-a implorat să nu-i nimicească pe cei drepți împreună cu cei răi. Iar când Dumnezeu i-a răspuns că între sodomiți nu era niciun om bun; căci dacă ar fi fost între ei măcar zece asemenea oameni, nu i-ar fi pedepsit pe niciunul dintre ei pentru păcatele lor, Avraam a tăcut. Iar îngerii au venit la cetatea sodomiților, și Lot i-a rugat să primească o găzduire la el; căci era un om foarte darnic și primitor și unul care învățase să imite bunătatea lui Avraam. Când sodomiții au văzut că tinerii aveau fețe frumoase, și aceasta într-un grad neobișnuit, și că își luau găzduirea la Lot, au hotărât să se bucure ei înșiși de acești băieți frumoși prin forță și violență; iar când Lot i-a îndemnat la cumpătare și să nu ofere nimic necuviincios străinilor, ci să țină seama de găzduirea lor în casa lui, și le-a făgăduit că, dacă înclinările lor nu pot fi stăpânite, își va expune fiicele poftei lor în locul acestor străini, nici așa nu au fost făcuți să se rușineze.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 12,
+      "v": 3
+     }
+    }
    }
   ]
  },

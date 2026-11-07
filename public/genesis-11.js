@@ -354,8 +354,15 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 5",
-    "text": "Fiii lui Noe erau trei: Sem, Iafet și Ham, născuți cu o sută de ani înainte de Potop. Aceștia au coborât cei dintâi din munți în câmpii și și-au statornicit acolo locuința; și i-au convins pe alții, care se temeau foarte mult de ținuturile joase din pricina potopului și de aceea se codeau să coboare din locurile mai înalte, să îndrăznească să le urmeze pilda. Câmpia în care au locuit ei mai întâi se numea Șinear. Dumnezeu le-a poruncit, de asemenea, să trimită colonii în depărtare, pentru deplina populare a pământului, ca să nu stârnească răscoale între ei, ci să lucreze o mare parte din pământ și să se bucure de roadele lui într-un chip îmbelșugat. Dar ei erau atât de rău învățați încât nu au ascultat de Dumnezeu; din care pricină au căzut în nenorociri și au fost făcuți să simtă, prin experiență, de ce păcat se făcuseră vinovați: căci, când au înflorit printr-o tinerețe numeroasă, Dumnezeu i-a îndemnat din nou să trimită colonii; dar ei, închipuindu-și că prosperitatea de care se bucurau nu venea din bunăvoința lui Dumnezeu, ci socotind că propria lor putere era pricina potrivită a stării îmbelșugate în care se aflau, nu au ascultat de El. Ba chiar au adăugat la această nesupunere față de voința dumnezeiască bănuiala că li se poruncise să trimită colonii separate tocmai pentru ca, fiind despărțiți unii de alții, să poată fi mai ușor asupriți."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 4",
+    "text": "Fiii lui Noe erau trei: Sem, Iafet și Ham, născuți cu o sută de ani înainte de Potop. Aceștia au coborât cei dintâi din munți în câmpii și și-au statornicit acolo locuința; și i-au convins pe alții, care se temeau foarte mult de ținuturile joase din pricina potopului și de aceea se codeau să coboare din locurile mai înalte, să îndrăznească să le urmeze pilda. Câmpia în care au locuit ei mai întâi se numea Șinear. Dumnezeu le-a poruncit, de asemenea, să trimită colonii în depărtare, pentru deplina populare a pământului, ca să nu stârnească răscoale între ei, ci să lucreze o mare parte din pământ și să se bucure de roadele lui într-un chip îmbelșugat. Dar ei erau atât de rău învățați încât nu au ascultat de Dumnezeu; din care pricină au căzut în nenorociri și au fost făcuți să simtă, prin experiență, de ce păcat se făcuseră vinovați: căci, când au înflorit printr-o tinerețe numeroasă, Dumnezeu i-a îndemnat din nou să trimită colonii; dar ei, închipuindu-și că prosperitatea de care se bucurau nu venea din bunăvoința lui Dumnezeu, ci socotind că propria lor putere era pricina potrivită a stării îmbelșugate în care se aflau, nu au ascultat de El. Ba chiar au adăugat la această nesupunere față de voința dumnezeiască bănuiala că li se poruncise să trimită colonii separate tocmai pentru ca, fiind despărțiți unii de alții, să poată fi mai ușor asupriți.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 5,
+      "v": 1
+     }
+    }
    },
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
@@ -824,8 +831,15 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 5",
-    "text": "Mulțimea era foarte gata să urmeze hotărârea lui Nimrod și să socotească o lașitate să se supună lui Dumnezeu; și au zidit un turn, nepierzând nicio osteneală și neînfrânându-se în niciun grad de la lucrare: și, din pricina mulțimii de mâini întrebuințate la el, a crescut foarte înalt, mai curând decât s-ar fi putut aștepta cineva; dar grosimea lui era atât de mare și era atât de puternic zidit, încât prin aceasta marea lui înălțime părea, la privire, mai mică decât era în realitate. Era zidit din cărămidă arsă, legată laolaltă cu mortar făcut din bitum, ca să nu fie în stare să lase apa să intre. Când Dumnezeu a văzut că ei se poartă atât de nebunește, nu a hotărât să-i nimicească de tot, de vreme ce nu se făcuseră mai înțelepți prin nimicirea păcătoșilor de mai înainte; dar a stârnit o tulburare între ei, punând în ei limbi felurite și făcând ca, din pricina mulțimii acelor limbi, să nu mai poată înțelege unii pe alții. Locul în care au zidit turnul se numește acum Babilon, din pricina încurcării acelei limbi pe care o înțelegeau mai înainte cu ușurință; căci evreii înțeleg prin cuvântul Babel încurcare. Și Sibila pomenește despre acest turn și despre încurcarea limbii, când spune astfel: „Când toți oamenii aveau o singură limbă, unii dintre ei au zidit un turn înalt, ca și cum ar fi vrut să se urce prin el la cer, dar zeii au trimis furtuni de vânt și au răsturnat turnul și i-au dat fiecăruia limba sa deosebită; și din această pricină cetatea s-a numit Babilon.” Iar cât despre câmpia Șinear, în țara Babiloniei, o pomenește Hestieus, când spune astfel: „Dintre preoții care au fost salvați, unii au luat vasele sfinte ale lui Jupiter Enyalius și au venit în Șinear, în Babilonia.”"
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 4",
+    "text": "Mulțimea era foarte gata să urmeze hotărârea lui Nimrod și să socotească o lașitate să se supună lui Dumnezeu; și au zidit un turn, nepierzând nicio osteneală și neînfrânându-se în niciun grad de la lucrare: și, din pricina mulțimii de mâini întrebuințate la el, a crescut foarte înalt, mai curând decât s-ar fi putut aștepta cineva; dar grosimea lui era atât de mare și era atât de puternic zidit, încât prin aceasta marea lui înălțime părea, la privire, mai mică decât era în realitate. Era zidit din cărămidă arsă, legată laolaltă cu mortar făcut din bitum, ca să nu fie în stare să lase apa să intre. Când Dumnezeu a văzut că ei se poartă atât de nebunește, nu a hotărât să-i nimicească de tot, de vreme ce nu se făcuseră mai înțelepți prin nimicirea păcătoșilor de mai înainte; dar a stârnit o tulburare între ei, punând în ei limbi felurite și făcând ca, din pricina mulțimii acelor limbi, să nu mai poată înțelege unii pe alții. Locul în care au zidit turnul se numește acum Babilon, din pricina încurcării acelei limbi pe care o înțelegeau mai înainte cu ușurință; căci evreii înțeleg prin cuvântul Babel încurcare. Și Sibila pomenește despre acest turn și despre încurcarea limbii, când spune astfel: „Când toți oamenii aveau o singură limbă, unii dintre ei au zidit un turn înalt, ca și cum ar fi vrut să se urce prin el la cer, dar zeii au trimis furtuni de vânt și au răsturnat turnul și i-au dat fiecăruia limba sa deosebită; și din această pricină cetatea s-a numit Babilon.” Iar cât despre câmpia Șinear, în țara Babiloniei, o pomenește Hestieus, când spune astfel: „Dintre preoții care au fost salvați, unii au luat vasele sfinte ale lui Jupiter Enyalius și au venit în Șinear, în Babilonia.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 5,
+      "v": 3
+     }
+    }
    },
    {
     "author": "Fericitul Augustin, Despre cetatea lui Dumnezeu",
@@ -1256,6 +1270,17 @@ window.CHAPTER_DATA = [
       "v": 22
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 8 — comparație",
+    "text": "Iar acum domnul și regele nostru, iată noi cu adevărat te-am familiarizat pe tine cu ceea ce noi am văzut referitor la acest copil.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 8,
+      "v": 12
+     }
+    }
    }
   ]
  },
@@ -1630,12 +1655,41 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 6",
-    "text": "După aceasta, au fost risipiți în depărtare din pricina limbilor lor și au ieșit în colonii pretutindeni; și fiecare colonie a pus stăpânire pe pământul pe care l-a găsit și spre care i-a condus Dumnezeu; astfel că întregul continent a fost umplut de ei, atât ținuturile dinăuntru, cât și cele de lângă mare. Au fost unii care au trecut marea cu corăbii și au locuit insulele: iar unele dintre acele neamuri își păstrează și astăzi numele care le-au fost date de întemeietorii lor dintâi; dar altele le-au pierdut și ele, iar altele au primit în ele doar anumite schimbări, ca să fie mai ușor de înțeles pentru locuitori. Iar grecii au fost cei care au devenit autorii unor asemenea schimbări. Căci, când au ajuns puternici în veacurile de mai târziu, și-au însușit slava vechimii; dând neamurilor nume care sunau bine [în greacă], ca să fie mai bine înțelese între ei; și punând peste ele forme de cârmuire plăcute, ca și cum ar fi fost un popor născut din ei înșiși."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 5",
+    "text": "După aceasta, au fost risipiți în depărtare din pricina limbilor lor și au ieșit în colonii pretutindeni; și fiecare colonie a pus stăpânire pe pământul pe care l-a găsit și spre care i-a condus Dumnezeu; astfel că întregul continent a fost umplut de ei, atât ținuturile dinăuntru, cât și cele de lângă mare. Au fost unii care au trecut marea cu corăbii și au locuit insulele: iar unele dintre acele neamuri își păstrează și astăzi numele care le-au fost date de întemeietorii lor dintâi; dar altele le-au pierdut și ele, iar altele au primit în ele doar anumite schimbări, ca să fie mai ușor de înțeles pentru locuitori. Iar grecii au fost cei care au devenit autorii unor asemenea schimbări. Căci, când au ajuns puternici în veacurile de mai târziu, și-au însușit slava vechimii; dând neamurilor nume care sunau bine [în greacă], ca să fie mai bine înțelese între ei; și punând peste ele forme de cârmuire plăcute, ca și cum ar fi fost un popor născut din ei înșiși.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 6,
+      "v": 1
+     }
+    }
    },
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Așa obișnuiește Domnul să facă. Așa a făcut la început și în cazul [celei dintâi] femei. Ea abuzase de starea care i se dăruise și de aceea El a supus-o bărbatului ei. Iarăși, în cazul lui Adam, fiindcă nu și-a tras niciun folos din marea ușurință de care se bucura și din viața în grădină, ci s-a făcut vrednic de pedeapsă prin cădere, Dumnezeu l-a izgonit din grădină și i-a dat o pedeapsă veșnică prin cuvintele: „spini și pălămidă să dea pământul”. Așa și aici, când oamenii, care fuseseră cinstiți cu asemănarea limbii, au folosit pentru rău privilegiul ce li se dăduse, El a pus capăt avântului răutății lor, făcând deosebiri între limbi. „Să încurcăm graiul lor”, zice, „ca să nu mai înțeleagă fiecare limba celuilalt.” Scopul Lui a fost ca, precum asemănarea limbii făcuse ca ei să trăiască împreună, așa deosebirea limbii să aducă risipirea lor."
+   },
+   {
+    "author": "Cartea Dreptului 10 — comparație",
+    "text": "Și fiii oamenilor au construit multe orașe conform familiilor lor, în toate locurile unde ei au mers, și de-a lungul pământului unde Domnul îi împrăștiase.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 10,
+      "v": 4
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 10 — comparație",
+    "text": "Și fiii lui Iafet, fiul lui Noe, au mers și și-au construit orașe în locurile unde erau împrăștiați, și ei au numit toate orașele lor după numele lor, iar fiii lui Iafet erau împărțiți pe fața pământului în multe diviziuni și limbi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 10,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -1843,6 +1897,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Ieronim, Omilii",
     "text": "Precum atunci când oamenii sfinți trăiesc împreună este un mare har și o mare binecuvântare, tot așa adunarea aceea este cea mai rea când păcătoșii locuiesc laolaltă. Cu cât sunt mai mulți păcătoșii la un loc, cu atât sunt mai răi. Într-adevăr, când turnul se zidea împotriva lui Dumnezeu, cei care îl zideau au fost risipiți spre binele lor. Uneltirea era rea. Risipirea a fost de adevărat folos chiar și pentru cei care au fost risipiți."
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "Și l-a numit pe primul Babel, spunând, deoarece Domnul acolo a încurcat limba întregului pământ; iar pe al doilea el l-a numit Erec, deoarece de acolo Dumnezeu i-a dispersat pe ei.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 3
+     }
+    }
    }
   ]
  },
@@ -2037,8 +2102,15 @@ window.CHAPTER_DATA = [
     "text": "«Aceștia sunt urmașii lui Sem.» În orice loc în care s-a spus „aceștia” etc., tot așa și aici: cei dintâi erau răi, ca să se răzvrătească împotriva Sfântului, binecuvântat fie, și s-au dus la pierzare; iar aceștia sunt drepți, și sămânța lor după ei."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 7",
-    "text": "Voi trata acum despre evrei. Fiul lui Peleg, al cărui tată era Eber, a fost Ragau; al cărui fiu a fost Serug, căruia i s-a născut Nahor; fiul acestuia a fost Terah, care a fost tatăl lui Avraam, care a fost, deci, al zecelea de la Noe și s-a născut în al două sute nouăzeci și doilea an după potop; căci Terah l-a născut pe Avram în al șaptezecilea său an. Nahor l-a născut pe Haran când avea o sută douăzeci de ani; Nahor s-a născut lui Serug în al o sută treizeci și doilea an al lui; Ragau l-a avut pe Serug la o sută treizeci de ani; la aceeași vârstă l-a avut și Peleg pe Ragau; Eber l-a născut pe Peleg în al o sută treizeci și patrulea an al lui; el însuși fiind născut de Sala când acesta avea o sută treizeci de ani, pe care Arfaxad l-a avut ca fiu în al o sută treizeci și cincilea an al vârstei lui. Arfaxad a fost fiul lui Sem și s-a născut la doisprezece ani după potop. Avram a avut doi frați, Nahor și Haran: dintre aceștia, Haran a lăsat un fiu, pe Lot, ca și pe Sarai și Milca, fiicele lui; și a murit între caldei, într-o cetate a caldeilor numită Ur; iar mormântul lui se arată până în ziua de azi. Aceștia s-au căsătorit cu nepoatele lor. Nahor s-a căsătorit cu Milca, iar Avram cu Sarai. Terah, urând Caldeea din pricina jalei pentru Haran, au plecat cu toții în Haran din Mesopotamia, unde Terah a murit și a fost îngropat, după ce trăise două sute cinci ani; căci viața omului era deja, treptat, micșorată și devenise mai scurtă decât înainte, până la nașterea lui Moise; după care termenul vieții omenești a fost de o sută douăzeci de ani, Dumnezeu hotărându-l la lungimea pe care a trăit-o Moise. Nahor a avut opt fii cu Milca: Uț și Buz, Chemuel, Chesed, Azau, Feldas, Iadelf și Betuel. Aceștia au fost toți fiii legitimi ai lui Nahor; căci Teba, Gaam, Tahaș și Maaca s-au născut din Reuma, țiitoarea lui: iar Betuel a avut o fiică, Rebeca, și un fiu, Laban."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 6",
+    "text": "Voi trata acum despre evrei. Fiul lui Peleg, al cărui tată era Eber, a fost Ragau; al cărui fiu a fost Serug, căruia i s-a născut Nahor; fiul acestuia a fost Terah, care a fost tatăl lui Avraam, care a fost, deci, al zecelea de la Noe și s-a născut în al două sute nouăzeci și doilea an după potop; căci Terah l-a născut pe Avram în al șaptezecilea său an. Nahor l-a născut pe Haran când avea o sută douăzeci de ani; Nahor s-a născut lui Serug în al o sută treizeci și doilea an al lui; Ragau l-a avut pe Serug la o sută treizeci de ani; la aceeași vârstă l-a avut și Peleg pe Ragau; Eber l-a născut pe Peleg în al o sută treizeci și patrulea an al lui; el însuși fiind născut de Sala când acesta avea o sută treizeci de ani, pe care Arfaxad l-a avut ca fiu în al o sută treizeci și cincilea an al vârstei lui. Arfaxad a fost fiul lui Sem și s-a născut la doisprezece ani după potop. Avram a avut doi frați, Nahor și Haran: dintre aceștia, Haran a lăsat un fiu, pe Lot, ca și pe Sarai și Milca, fiicele lui; și a murit între caldei, într-o cetate a caldeilor numită Ur; iar mormântul lui se arată până în ziua de azi. Aceștia s-au căsătorit cu nepoatele lor. Nahor s-a căsătorit cu Milca, iar Avram cu Sarai. Terah, urând Caldeea din pricina jalei pentru Haran, au plecat cu toții în Haran din Mesopotamia, unde Terah a murit și a fost îngropat, după ce trăise două sute cinci ani; căci viața omului era deja, treptat, micșorată și devenise mai scurtă decât înainte, până la nașterea lui Moise; după care termenul vieții omenești a fost de o sută douăzeci de ani, Dumnezeu hotărându-l la lungimea pe care a trăit-o Moise. Nahor a avut opt fii cu Milca: Uț și Buz, Chemuel, Chesed, Azau, Feldas, Iadelf și Betuel. Aceștia au fost toți fiii legitimi ai lui Nahor; căci Teba, Gaam, Tahaș și Maaca s-au născut din Reuma, țiitoarea lui: iar Betuel a avut o fiică, Rebeca, și un fiu, Laban.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 7,
+      "v": 5
+     }
+    }
    },
    {
     "author": "Fericitul Augustin, Despre cetatea lui Dumnezeu",
@@ -4853,6 +4925,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Ieronim, Întrebări ebraice la Facere",
     "text": "(Capitolul 11, versetul 28) Și Haran a murit înaintea tatălui său, în țara nașterii lui, în ținutul caldeenilor. Cum citim, „în ținutul caldeenilor”; în ebraică scrie „în Ur al caldeenilor”, adică „în focul caldeenilor”. Totuși evreii povestesc cu acest prilej o legendă: că Avraam a fost aruncat în foc fiindcă nu voia să se închine focului pe care îl cinstesc caldeenii și, cu ajutorul lui Dumnezeu, a fost izbăvit și a scăpat din focul idolatriei. Aceasta se scrie în locurile următoare: că Terah a ieșit cu familia sa din ținutul caldeenilor, pentru care în ebraică scrie „din arderea caldeenilor”. Și aceasta este ceea ce se spune acum: Haran a murit în fața tatălui său Terah, în țara nașterii sale, în focul caldeenilor: anume, fiindcă n-a vrut să se închine focului, a fost mistuit de foc. Dar Domnul a grăit mai apoi lui Avraam: Eu sunt Cel Ce te-am scos din focul caldeenilor."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 7",
+    "text": "Berosus îl pomenește pe părintele nostru Avram fără să-l numească, când spune astfel: „În a zecea generație după Potop, era între caldei un om drept și mare și priceput în știința cerească.” Dar Hecateu face mai mult decât să-l pomenească doar; căci a alcătuit și a lăsat în urma lui o carte despre el. Iar Nicolae din Damasc, în cartea a patra a Istoriei sale, spune astfel: „Avram a domnit la Damasc, fiind străin, care a venit cu o oaste din țara de deasupra Babilonului, numită țara caldeilor: dar după multă vreme, s-a ridicat și s-a mutat din acea țară, cu poporul lui, și s-a dus în țara numită atunci țara Canaan, iar acum țara Iudeea, și aceasta când urmașii lui deveniseră o mulțime; despre urmașii lui istorisim noi în altă lucrare. Numele lui Avram este și astăzi vestit în țara Damascului; și se arată acolo un sat numit după el, Locuința lui Avram.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 8,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -5103,6 +5186,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Despre cetatea lui Dumnezeu",
     "text": "„Și Avram și Nahor și-au luat soții: numele soției lui Avram era Sarai; și numele soției lui Nahor, Milca, fiica lui Haran, tatăl Milcăi și tatăl Iscăi.” Se socotește că această Isca este aceeași cu Sarai, soția lui Avraam."
+   },
+   {
+    "author": "Cartea Jubileelor 11 — comparație",
+    "text": "Și a crescut, și a locuit în Ur al caldeilor, aproape de tatăl mamei soției sale, și s-a închinat idolilor, și și-a luat soție în al treizeci și șaselea jubileu, în săptămâna a cincea, în anul întâi al ei, și numele ei era Melka, fiica lui Kaber, fiica fratelui tatălui său.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 11,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -5616,6 +5710,105 @@ window.CHAPTER_DATA = [
       "v": 15
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 9 — comparație",
+    "text": "Și Haran, fiul lui Terah, fratele cel mai mare al lui Avram, a luat o nevastă în acele zile.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 9,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 9 — comparație",
+    "text": "Haran avea 42 de ani când a născut pe Sarai, care era în al zecelea an al vieții lui Avram; iar în acele zile Avram și mama și doica lui au ieșit din peșteră, căci regele și supușii lui uitaseră de treaba cu Avram.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 9,
+      "v": 4
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 10 — comparație",
+    "text": "Și Seir, fiul lui Hur, fiul lui Hivi, fiul lui Canaan, a mers și a găsit o vale vizavi de Muntele Paran, și el a construit un oraș acolo, iar el și cei șapte fii ai săi și casa sa au locuit acolo, și el a numit orașul pe care l-a construit Seir, conform numelui său; care este ținutul Seir până astăzi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 10,
+      "v": 27
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "Și Terah a luat pe Avram fiul său și pe Lot fiul lui Haran, fiul fiului său, și pe Sarai nora sa, nevasta fiului său Avram, și ei au ieșit împreună din Ur din Caldeea, să meargă în ținutul Canaan; și ei au ajuns la Haran, și au locuit acolo.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 37
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 12 — comparație",
+    "text": "Și Terah a fost mult îngrozit în prezența regelui, și el a spus regelui, a fost Haran fiul meu cel mai mare care m-a sfătuit pe mine spre aceasta; iar Haran avea în acele zile în care Avram se născuse 32 de ani.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 12,
+      "v": 16
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 12 — comparație",
+    "text": "Dar Haran nu sfătuise pe tatăl său spre nimic, căci Terah a spus aceasta regelui, pentru a-și izbăvi sufletul său de la rege și se temea mult; iar regele a spus lui Terah, Haran fiul tău care te-a sfătuit pe tine către aceasta va muri prin foc cu Avram; căci sentința morții este asupra lui pentru că s-a răzvrătit împotriva dorinței regelui făcând acest lucru.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 12,
+      "v": 17
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 12 — comparație",
+    "text": "Și când Terah spusese aceasta regelui referitor la Haran fiul său, regele a ordonat ca Haran să fie înhățat cu Avram.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 12,
+      "v": 20
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "Și Terah a luat pe fiul său Avram și pe nepotul lui Lot, fiul lui Haran, și pe Sarai nora sa, nevasta fiului său Avram, și pe toate sufletele casei sale și el a plecat împreună cu ei din Ur Casdim pentru a merge în ținutul Canaan. Și când ei au ajuns până la ținutul lui Haran au rămas acolo, căci era teren extrem de bun pentru pășunat, și de o extindere suficientă pentru aceia care îi acompaniau.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "Ridică-te acum, ia-ți nevasta și toate cele ce îți aparțin și mergi în ținutul Canaan și rămâi acolo, iar Eu acolo îți voi fi ție Dumnezeu, și Eu te voi binecuvânta. Și Avram s-a ridicat și a luat pe nevasta sa și toate cele ce îi aparțineau lui, și el a mers în ținutul Canaan precum Domnul îi spusese. Și Avram avea 50 de ani când el a plecat din Haran.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -5779,6 +5972,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Despre cetatea lui Dumnezeu",
     "text": "La moartea lui Terah în Mesopotamia, unde se spune că a trăit două sute cinci ani, făgăduințele lui Dumnezeu către Avraam încep acum să se lămurească. Așa este scris: „Și zilele lui Terah în Haran au fost două sute cinci ani, și a murit în Haran.” Aceasta nu trebuie înțeleasă ca și cum și-ar fi petrecut acolo toate zilele, ci că acolo și-a împlinit zilele vieții sale, care au fost două sute cinci ani. Altfel nu s-ar ști câți ani a trăit Terah, de vreme ce nu se spune în ce an al vieții lui a venit în Haran. Și este absurd să se creadă că, în acest șir de generații, în care se arată cu grijă câți ani a trăit fiecare, doar vârsta lui n-ar fi fost trecută. Căci, deși unii dintre cei pomeniți de aceeași Scriptură nu au vârsta însemnată, ei nu sunt în acest șir, în care socoteala timpului este arătată neîntrerupt prin moartea părinților și succesiunea fiilor. Căci acest șir, dat în ordine de la Adam la Noe și de la el până la Avraam, nu cuprinde pe nimeni fără numărul anilor vieții sale."
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "Și zilele lui Terah au fost 205 ani, și Terah a murit în Haran.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 38
+     }
+    }
    }
   ]
  }

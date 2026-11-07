@@ -2035,8 +2035,37 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 4",
-    "text": "Această nenorocire s-a întâmplat în anul al șase sutelea al domniei [vârstei] lui Noe, în luna a doua, numită de macedoneni Dius, iar de evrei Marhesvan: căci astfel își rânduiau ei anul în Egipt. Dar Moise a rânduit ca Nisan, care este același cu Xanticus, să fie prima lună pentru sărbătorile lor, pentru că i-a scos din Egipt în acea lună: astfel că această lună începea anul în ceea ce privește toate solemnitățile pe care le păzeau spre cinstirea lui Dumnezeu, deși a păstrat ordinea originală a lunilor în ceea ce privește vânzarea și cumpărarea și alte treburi obișnuite. El spune că acest potop a început în ziua a douăzeci și șaptea [a șaptesprezecea] a lunii mai sus-pomenite; și aceasta a fost la două mii șase sute cincizeci și șase [o mie șase sute cincizeci și șase] de ani de la Adam, primul om; iar timpul este scris în cărțile noastre sfinte, cei care trăiau atunci notând cu mare exactitate atât nașterile, cât și morțile oamenilor ilustri."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
+    "text": "Această nenorocire s-a întâmplat în anul al șase sutelea al domniei [vârstei] lui Noe, în luna a doua, numită de macedoneni Dius, iar de evrei Marhesvan: căci astfel își rânduiau ei anul în Egipt. Dar Moise a rânduit ca Nisan, care este același cu Xanticus, să fie prima lună pentru sărbătorile lor, pentru că i-a scos din Egipt în acea lună: astfel că această lună începea anul în ceea ce privește toate solemnitățile pe care le păzeau spre cinstirea lui Dumnezeu, deși a păstrat ordinea originală a lunilor în ceea ce privește vânzarea și cumpărarea și alte treburi obișnuite. El spune că acest potop a început în ziua a douăzeci și șaptea [a șaptesprezecea] a lunii mai sus-pomenite; și aceasta a fost la două mii șase sute cincizeci și șase [o mie șase sute cincizeci și șase] de ani de la Adam, primul om; iar timpul este scris în cărțile noastre sfinte, cei care trăiau atunci notând cu mare exactitate atât nașterile, cât și morțile oamenilor ilustri.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 4,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 5 — comparație",
+    "text": "Și a intrat în al șaselea an al ei, în luna a doua, de la luna nouă a lunii a doua până în a șaisprezecea; și a intrat, și tot ce i-am adus noi, în corabie, și Domnul a închis-o pe dinafară în seara zilei a șaptesprezecea.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 5,
+      "v": 23
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 5 — comparație",
+    "text": "Și Domnul a deschis șapte stăvilare ale cerului, și gurile izvoarelor adâncului celui mare, șapte guri la număr.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 5,
+      "v": 24
+     }
+    }
    }
   ]
  },
@@ -2203,6 +2232,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament",
     "text": "Ploaia a fost pe pământ — Dr. Lightfoot socotește că ploaia a început în ziua a 18-a a lunii a doua, adică Marheșvan, și că a încetat în ziua a 28-a a lunii a treia, Chislev."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
+    "text": "Când Dumnezeu a dat semnalul și a început să plouă, apa s-a revărsat patruzeci de zile întregi, până când s-a ridicat la cincisprezece coți deasupra pământului; aceasta a fost pricina pentru care nu a fost păstrat un număr mai mare, deoarece nu aveau unde să fugă. Când ploaia a încetat, apa abia a început să scadă după o sută cincizeci de zile, [adică în ziua a șaptesprezecea a lunii a șaptea,] ea încetând să se retragă pentru puțină vreme. După aceea, corabia s-a oprit pe vârful unui munte din Armenia; lucru pe care, când l-a înțeles Noe, a deschis-o; și, văzând un petic mic de pământ împrejurul ei, a rămas liniștit și a prins niște nădejdi vesele de izbăvire. Dar după câteva zile, când apa scăzuse într-un grad mai mare, a trimis un corb, dorind să afle dacă vreo altă parte a pământului rămăsese uscată de ape și dacă ar putea ieși din corabie în siguranță; dar corbul, găsind tot pământul încă inundat, s-a întors la Noe. Și după șapte zile a trimis un porumbel, ca să cunoască starea pământului; care s-a întors la el acoperit de noroi și aducând o ramură de măslin: prin aceasta Noe a aflat că pământul se curățase de potop. Astfel, după ce a mai stat încă șapte zile, a trimis viețuitoarele afară din corabie; și el și familia lui au ieșit, când a adus și jertfă lui Dumnezeu și a ospătat cu tovarășii săi. Totuși, armenii numesc acest loc Apobaterion, Locul Coborârii; căci, corabia fiind salvată în acel loc, rămășițele ei sunt arătate acolo de locuitori până în ziua de azi.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 4,
+      "v": 5
+     }
+    }
    }
   ]
  },

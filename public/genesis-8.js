@@ -962,6 +962,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "Și arca s-a oprit — pe munții Araratului — Sau ai Armeniei, fie că a fost îndreptată nu de prevederea lui Noe, ci de înțeleaptă purtare de grijă a lui Dumnezeu."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
+    "text": "Toți scriitorii de istorii barbare pomenesc acest potop și această corabie; printre care se află Berosus caldeul. Căci, când descrie împrejurările potopului, el continuă astfel: „Se spune că mai este încă o parte din această corabie în Armenia, la muntele cordieilor; și că unii oameni duc cu ei bucăți din bitum, pe care le iau și le folosesc mai ales ca amulete pentru ținerea departe a nenorocirilor.” Ieronim egipteanul, care a scris Antichitățile fenicienilor, Mnaseas și foarte mulți alții pomenesc de același lucru. Ba chiar și Nicolae din Damasc, în a nouăzeci și șasea carte a sa, are o istorisire deosebită despre ele; unde spune astfel: „Este un munte mare în Armenia, deasupra Minyasului, numit Baris, pe care se povestește că mulți care au fugit în vremea Potopului au fost salvați; și că unul care a fost purtat într-o corabie a ajuns la țărm pe vârful lui; și că rămășițele lemnului s-au păstrat multă vreme. Acesta ar putea fi omul despre care a scris Moise, legiuitorul iudeilor.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 4,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -4402,6 +4413,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "Noe a zidit un altar Domnului și, luând din toate animalele și păsările curate, a adus arderi-de-tot pe altar. Fiind om drept și cu adevărat desăvârșit în generațiile lui, după ce a scăpat de o nenorocire atât de mare, a mulțumit îndată Ziditorului, după zidirea altarului, rugându-L totodată ca lumea să nu mai merite să fie lovită de o asemenea ciumă. Și fiindcă se roagă cu evlavie și cucernicie, e socotit curând vrednic de a fi ascultat. Căci urmează:"
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
+    "text": "Dar Noe se temea, fiindcă Dumnezeu hotărâse să nimicească neamul omenesc, ca nu cumva să înece pământul în fiecare an; de aceea a adus arderi-de-tot și L-a rugat pe Dumnezeu ca natura să meargă de acum înainte pe cursul ei orânduit de mai înainte și ca El să nu mai aducă o judecată atât de mare, prin care tot neamul făpturilor să fie în primejdie de nimicire: ci, după ce i-a pedepsit acum pe cei răi, să-i cruțe, din bunătatea Lui, pe cei rămași și pe cei pe care până acum i-a socotit vrednici să fie izbăviți de o nenorocire atât de aspră; căci altfel acești din urmă ar fi mai nenorociți decât cei dintâi și ar fi osândiți la o stare mai rea decât ceilalți, dacă nu li s-ar îngădui să scape cu totul; adică dacă ar fi păstrați pentru un alt potop; în timp ce ar trebui să fie chinuiți de groaza și de priveliștea primului potop și, în plus, să fie nimiciți de un al doilea. L-a rugat, de asemenea, pe Dumnezeu să primească jertfa lui și să dea ca pământul să nu mai sufere vreodată asemenea urmări ale mâniei Lui; ca oamenilor să li se îngăduie să continue cu voie bună lucrarea lui; să zidească cetăți și să trăiască fericiți în ele; și ca să nu fie lipsiți de niciunul dintre acele bunuri de care se bucuraseră înainte de Potop; ci să ajungă la aceeași lungime de zile și la aceeași bătrânețe la care ajunseseră oamenii de demult.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 4,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -5001,6 +5023,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Efrem Sirul, Comentariu la Facere 6.13.3",
     "text": "Și fiindcă în anul acela nu fusese nici sădire, nici seceriș, iar ciclurile anotimpurilor se tulburaseră, Dumnezeu a dat pământului înapoi ceea ce îi fusese luat în mânia Lui. Dumnezeu a zis atunci: „În toate zilele pământului, sădirea și secerișul, frigul și căldura, vara și iarna, ziua și noaptea nu vor înceta de pe pământ.” Căci în tot anul, până s-a uscat pământul, fusese peste ei iarnă, fără vară."
+   },
+   {
+    "author": "Cartea Dreptului 6 — comparație",
+    "text": "Cât va fi pământul, nu va înceta semănatul și seceratul, frigul și căldura, vara și iarna, ziua și noaptea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 6,
+      "v": 21
+     }
+    }
    }
   ]
  }

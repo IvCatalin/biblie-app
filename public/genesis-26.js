@@ -300,6 +300,28 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 24 — comparație",
+    "text": "Și foametea era pe ținut, și Isaac a plecat să coboare în Egipt în anul al doilea al săptămânii acesteia, și a mers la regele filistenilor, la Gherar, la Abimelec.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 24,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Când a fost o foamete în țară, Isaac a hotărât să meargă în Egipt, pământul de acolo fiind bun; dar a mers la Gherar, cum i-a poruncit Dumnezeu. Aici l-a primit regele Abimelec, pentru că Avraam trăise mai înainte cu el și îi fusese prieten. Și, după cum la început s-a purtat cu el foarte bine, tot astfel a fost împiedicat să continue în aceeași dispoziție până la sfârșit, din pizma lui față de el; căci, când a văzut că Dumnezeu era cu Isaac și purta atâta grijă de el, l-a alungat de lângă el. Dar Isaac, văzând cum pizma schimbase firea lui Abimelec, s-a retras într-un loc numit Valea, nu departe de Gherar: și pe când săpa o fântână, păstorii au căzut asupra lui și au început să se certe, ca să împiedice lucrarea; și pentru că el nu dorea să se certe, păstorii au părut să aibă câștig de cauză asupra lui, așa că s-a retras mai departe și a săpat alta; iar când alți păstori ai lui Abimelec au început să-i facă silnicie, a lăsat și pe aceea și s-a retras mai departe, cumpărându-și astfel siguranța prin purtare cu minte și prudență. În cele din urmă, regele i-a dat voie să sape o fântână fără a fi tulburat. A numit această fântână Rehobot, ceea ce înseamnă un spațiu larg; iar dintre fântânile dinainte, una se numea Escon, ceea ce înseamnă ceartă, cealaltă Sitna, al cărei nume înseamnă dușmănie.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -3032,6 +3054,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note la Facere",
     "text": "Isaac a primit însutit — Și se pare că se pune accentul pe vreme: a fost chiar în anul acela, când era foamete în țară; în timp ce alții abia dacă au cules ceva, el a cules atât de din belșug."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 18",
+    "text": "Atunci s-au sporit treburile lui Isaac și erau într-o stare înfloritoare; și aceasta s-a făcut cunoscut prin marile lui bogății. Dar Abimelec, socotind că ele sunt în împotrivire cu el, în timp ce locuirea lor laolaltă îi făcea bănuitori unul față de altul, iar retragerea lui arăta și ea o dușmănie ascunsă, s-a temut că prietenia lui de mai înainte cu Isaac nu-l va ocroti, dacă Isaac s-ar strădui să se răzbune pentru nedreptățile pe care i le făcuse mai înainte; de aceea și-a înnoit prietenia cu el, fiind de față Ficol, unul dintre generalii săi. Și după ce a obținut tot ce dorea, datorită firii bune a lui Isaac, care a preferat prietenia de mai înainte pe care Abimelec o arătase față de el și de tatăl lui mâniei lui de mai târziu împotriva lui, s-a întors acasă.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 19,
+      "v": 3
+     }
+    }
    }
   ]
  },
@@ -4344,6 +4377,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 24,
       "v": 18
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 27 — comparație",
+    "text": "Și la moartea lui Nimrod regatul său a devenit împărțit în multe diviziuni, și toate acele părți peste care domnise Nimrod au fost restaurate respectivilor regi ai ținutului, care le-au recuperat după moartea lui Nimrod, și toți oamenii casei lui Nimrod au fost pentru mult timp înrobiți tuturor celorlalți regi ai ținutului.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 27,
+      "v": 17
      }
     }
    }

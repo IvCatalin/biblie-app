@@ -324,6 +324,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "„Iar Lot, văzându-i”, merge mai departe textul, „s-a ridicat în întâmpinarea lor.” Să bage de seamă aceasta cei care au obiceiul să-i respingă pe oamenii ce-i caută cu cereri de făcut și pricini de pledat și care le arată mare lipsă de omenie. Vreau să spun: vezi cum acest om bun n-a așteptat ca oaspeții să ajungă la el, ci, ca patriarhul, fără să știe cine sunt oaspeții, dar socotind că sunt niște drumeți oarecare, aproape că a sărit de bucurie văzându-i, ca și cum s-ar fi aruncat asupra prăzii sale și nu și-ar fi ratat ținta dorită."
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Iar îngerii s-au ridicat de la ușa cortului lui Avraam, după ce ei mâncaseră și băuseră, și ei au ajuns la Sodoma seara, iar Lot atunci stătea la poarta Sodomei, și când i-a văzut el s-a ridicat să îi întâmpine și s-a plecat jos la pământ.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 46
+     }
+    }
    }
   ]
  },
@@ -3213,6 +3224,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Părea că glumește.» Îl socoteau nebun, căci nu au crezut."
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Și îngerii i-au spus lui Lot: Ridică-te, pleacă din acest loc, tu și tot ce îți aparține ție, ca nu cumva tu să fii consumat în nedreptatea acestui oraș, căci Domnul va distruge acest loc.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 48
+     }
+    }
    }
   ]
  },
@@ -3729,8 +3751,15 @@ window.CHAPTER_DATA = [
     "text": "«Oamenii i-au apucat mâna etc.» Deși unul dintre ei este cel care îl salvează pe Lot, dar celălalt care a venit să răstoarne nu are voie să facă două trimiteri. Este cu putință să spunem că, fiindcă cel care salvează, care este Rafael, este salvatorul, iar Gabriel nu este decât cel care ajută, nu se numește aceasta că face două trimiteri. Iar motivul pentru care Gabriel a ajutat nu este decât din pregătirile nimicirii Sodomei, ca să nu întârzie atâta timp cât Lot era în ea, și Rafael îl oprea să facă ceva până ce a ieșit Lot."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
-    "text": "Dar Dumnezeu a fost foarte nemulțumit de purtarea lor nerușinată, încât i-a lovit pe acei oameni cu orbire și i-a osândit pe sodomiți la nimicire deplină. Iar Lot, după ce Dumnezeu i-a vestit nimicirea viitoare a sodomiților, a plecat, luând cu el pe soția și pe fiicele lui, care erau două și încă fecioare; căci cei logodiți cu ele erau departe de gândul de a pleca și socoteau că cuvintele lui Lot sunt vorbe de nimic. Dumnezeu a aruncat atunci un trăsnet asupra cetății și a aprins-o cu locuitorii ei; și a pustiit țara printr-o ardere asemănătoare, după cum am spus mai înainte când am scris Războiul iudeilor. Dar soția lui Lot, tot întorcându-se să privească la cetate pe măsură ce se depărta de ea și fiind prea iscoditoare să vadă ce se va întâmpla cu ea, deși Dumnezeu îi interzisese să facă așa, a fost schimbată într-un stâlp de sare; căci eu l-am văzut, și el rămâne și astăzi. El și fiicele lui au fugit într-un loc mic, înconjurat de foc, și s-au așezat în el: se numește și astăzi Țoar, căci acesta este cuvântul pe care îl folosesc evreii pentru un lucru mic. Acolo a dus o viață nenorocită, din pricina lipsei de tovărășie și a lipsei de merinde."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
+    "text": "Dar Dumnezeu a fost foarte nemulțumit de purtarea lor nerușinată, încât i-a lovit pe acei oameni cu orbire și i-a osândit pe sodomiți la nimicire deplină. Iar Lot, după ce Dumnezeu i-a vestit nimicirea viitoare a sodomiților, a plecat, luând cu el pe soția și pe fiicele lui, care erau două și încă fecioare; căci cei logodiți cu ele erau departe de gândul de a pleca și socoteau că cuvintele lui Lot sunt vorbe de nimic. Dumnezeu a aruncat atunci un trăsnet asupra cetății și a aprins-o cu locuitorii ei; și a pustiit țara printr-o ardere asemănătoare, după cum am spus mai înainte când am scris Războiul iudeilor. Dar soția lui Lot, tot întorcându-se să privească la cetate pe măsură ce se depărta de ea și fiind prea iscoditoare să vadă ce se va întâmpla cu ea, deși Dumnezeu îi interzisese să facă așa, a fost schimbată într-un stâlp de sare; căci eu l-am văzut, și el rămâne și astăzi. El și fiicele lui au fugit într-un loc mic, înconjurat de foc, și s-au așezat în el: se numește și astăzi Țoar, căci acesta este cuvântul pe care îl folosesc evreii pentru un lucru mic. Acolo a dus o viață nenorocită, din pricina lipsei de tovărășie și a lipsei de merinde.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 12,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -5313,6 +5342,17 @@ window.CHAPTER_DATA = [
       "v": 5
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Atunci Domnul a plouat asupra Sodomei și Gomorei și asupra tuturor acestor orașe pucioasă și foc de la Domnul din cer.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 51
+     }
+    }
    }
   ]
  },
@@ -5490,6 +5530,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Și a prăpădit acele orașe.» De aici se înțelege că răsturnarea Sodomei a precedat moartea Sarei, iar în „Ḥeleq” se înțelege invers, căci s-a învățat acolo: Eliezer, robul lui Avraam, a ajuns în locul Sodomei și voiau să-l urce în pat (puria); el le-a spus: De la ziua morții Sarei nu m-am urcat în pat. Prin urmare se înțelege că moartea Sarei a precedat. Ci se poate spune: ceea ce s-a învățat „Eliezer a ajuns în locul Sodomei” este Țoar, iar Țoar nu a fost răsturnată.<br><br>«Și vegetația pământului.» Rabbi Iehoșua ben Levi a spus: Dacă acum un om ia țărână din pământul Sodomei și o pune în alt strat de grădină, nu încolțește."
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Iar El a răsturnat aceste orașe, tot șesul și toți locuitorii orașelor, și aceea ce creștea pe pământ; iar Ado, nevasta lui Lot, s-a uitat înapoi să vadă distrugerea orașelor, căci compasiunea ei a fost stârnită din pricina fiicelor ei care rămăseseră în Sodoma, căci ele nu au mers cu ea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 52
+     }
+    }
    }
   ]
  },
@@ -6079,6 +6130,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Ieronim, Întrebări ebraice la Facere",
     "text": "(Versetul 28.) Și iată, o flacără se ridica de pe pământ ca aburul unui cuptor. Despre aceasta citim în ebraică: Iată, o ridicare (ἀναθυμίασις) a cuptorului, pe care o putem numi abur, fum sau cenușă."
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Și Avraam s-a sculat devreme dimineața să vadă ce se făcuseră orașelor Sodomei; iar el a văzut și a privit fumul orașelor ridicându-se precum fumul unui furnal.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 56
+     }
+    }
    }
   ]
  },
@@ -6631,6 +6693,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Căci se temea să se așeze în Țoar.» Căci îngerul nu a lăsat-o să fie distrusă; și încă, pentru că Lot n-a avut timp să scape la munte, iar când a avut timp s-a temut ca nu cumva îngerul să răstoarne cetatea."
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Și Lot cu cele două fiice ale sale au rămas în peșteră, iar ele l-au făcut pe tatăl lor să bea vin, și s-au culcat cu el, căci ele au spus că nu era nici un bărbat pe pământ care putea ridica sămânță din ele, căci ele au crezut că tot pământul a fost distrus.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 57
+     }
+    }
    }
   ]
  },
@@ -7487,6 +7560,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Noaptea trecută» (emeš): noaptea care a trecut se numește emeš."
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Și ele amândouă s-au culcat cu tatăl lor, și au zămislit și au născut fii, iar cea mai mare l-a numit pe fiul ei Moab, spunând, de la tatăl meu l-am zămislit eu; el este tatăl moabiților până în această zi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 58
+     }
+    }
    }
   ]
  },
@@ -7797,8 +7881,26 @@ window.CHAPTER_DATA = [
     "text": "«Și cele două fiice ale lui Lot au zămislit.» Rashi: Și-au stăpânit trupurile și au scos mărturia lor. Așa este textul, cu dalet, limbaj de mărturie (ʿedut), și dovada din Bereșit Rabba: „Dar acestea sunt semnele fecioriei fiicei mele” – mărturia fiicei mele. Și nu citim „ʿervatan” (goliciunea lor) cu reș. Și încă, deoarece calea acelui loc este mărturie pentru fecioria lor; și ele desfrânau din alt loc și l-au strivit atât de jos încât au scos fecioria, care este mărturia lor."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
-    "text": "Dar fiicele lui, socotind că tot neamul omenesc fusese nimicit, s-au apropiat de tatăl lor, având grijă totuși să nu fie observate. Au făcut aceasta ca neamul omenesc să nu piară cu totul: și au născut fii; fiul celei mai în vârstă s-a numit Moab, ceea ce înseamnă unul tras din tatăl său; cea mai tânără l-a născut pe Amon, nume care înseamnă unul tras dintr-o rudă. Cel dintâi a fost tatăl moabiților, care sunt și astăzi un neam mare; cel din urmă a fost tatăl amoniților; și amândoi sunt locuitori ai Celesiriei. Și așa a fost plecarea lui Lot dintre sodomiți."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
+    "text": "Dar fiicele lui, socotind că tot neamul omenesc fusese nimicit, s-au apropiat de tatăl lor, având grijă totuși să nu fie observate. Au făcut aceasta ca neamul omenesc să nu piară cu totul: și au născut fii; fiul celei mai în vârstă s-a numit Moab, ceea ce înseamnă unul tras din tatăl său; cea mai tânără l-a născut pe Amon, nume care înseamnă unul tras dintr-o rudă. Cel dintâi a fost tatăl moabiților, care sunt și astăzi un neam mare; cel din urmă a fost tatăl amoniților; și amândoi sunt locuitori ai Celesiriei. Și așa a fost plecarea lui Lot dintre sodomiți.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 12,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 19 — comparație",
+    "text": "Și după aceasta Lot cu cele două fiice ale sale au plecat de acolo, iar el a locuit pe cealaltă parte a Iordanului cu cele două fiice ale sale și cu fiii lor, iar fiii lui Lot au crescut, și au mers și și-au luat neveste din ținutul Canaan, iar ele au zămislit copii și ei erau roditori și s-au înmulțit.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 19,
+      "v": 60
+     }
+    }
    }
   ]
  },

@@ -609,6 +609,17 @@ window.CHAPTER_DATA = [
       "v": 3
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 24 — comparație",
+    "text": "Iar viața lui Sara a fost de 127 de ani, și Sara a murit; și Avraam s-a ridicat dinaintea moartei sale să caute un loc de înmormântare unde să o îngroape pe nevasta sa Sara; și a mers și a vorbit copiilor lui Het, locuitorii ținutului, spunând,",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 24,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -813,6 +824,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 19,
       "v": 4
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 24 — comparație",
+    "text": "Sunt un străin și un venetic cu voi în ținutul vostru; dați-mi o posesiune de loc de îngropare în ținutul vostru, ca să o pot îngropa pe moartă dinaintea mea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 24,
+      "v": 2
      }
     }
    }
@@ -1512,6 +1534,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și a vorbit cu ei etc. Dacă este dorința sufletelor voastre etc.» Se va explica după felul spusei lor, binecuvântată fie amintirea lor, iar acesta este textul lor: Aceștia din casa Capului Exilului nu fac posesie (lo mahzeqi) ben etc. Și au spus motivul că, din cauză că sunt puternici, deși au luat în stăpânire pământul nu le folosește stăpânirea în pământ și li-l scot din mâini.<br><br>Iată, în răspunsul fiilor lui Het au spus „prinț al lui Dumnezeu” etc. „nimeni din noi nu va pregeta să-ți dea mormântul său” etc., în vorbele lor sunt două căi: Prima este că el este mare foarte și puternic, va face dorința și voia lui căci nu este cine să-i protesteze din pricina puterii, și după aceasta nu are lege de posesie în mormânt, iar când mâna lor va ajunge vor evacua mortul din mormântul lui, și aceasta spune că ei nu doresc ca să-și îngroape mortul dinaintea lui decât dacă va face prin forță, și iată el avertizează și stă. Iar calea a doua este în acest fel: „prinț al lui Dumnezeu” etc., explicația: nu ai de ce să te temi de grija legii casei Capului Exilului că posesia lor nu este posesie, căci cazul nu este asemănător, căci motivul casei Capului Exilului este fiindcă sunt bănuiți de jaf și de violență, dar tu ești prinț al lui Dumnezeu, explicația: măreția ta este din pricina meritului dreptății tale și a curăției palmelor tale, și nu este de temut în aceasta, iar posesia ta este posesie căreia nu i se opune pretenție. Și poate că de aceea au intenționat prin spusa lor „ascultă-ne”, explicația: înțelege cuvintele noastre încotro se înclină. De aceea a spus „dacă este dorința sufletelor voastre” etc., explicația: dacă intenția voastră în sensul cuvintelor voastre este că doriți să îngropați etc., „ascultați-mă și fiți voi mijlocitori (sarsorim) între mine și Efron” etc. Dar în afară de aceasta, va înclina lucrul că explicația cuvintelor lor este ca explicația cea dintâi și nu este dorința lor să îngroape etc.:"
+   },
+   {
+    "author": "Cartea Dreptului 24 — comparație",
+    "text": "Și Avraam le-a spus lor, dacă sunteți de acord cu aceasta, mergeți și rugați-l pentru mine pe Efron, fiul lui Zocar, cerând ca el să îmi dea peștera din Macpela, care este în capătul terenului său, iar eu o voi cumpăra de la el pentru oricât dorește el pentru ea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 24,
+      "v": 4
+     }
+    }
    }
   ],
   "refs": [
@@ -1978,6 +2011,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Iar Efron stătea în mijlocul fiilor lui Het.» După exemplul „în mijlocul poporului meu eu locuiesc”."
+   },
+   {
+    "author": "Cartea Dreptului 24 — comparație",
+    "text": "Și Efron a răspuns și i-a spus, iată terenul și peștera sunt înaintea ta, dă orice tu dorești; și Avraam a spus, doar la valoare întreagă o voi cumpăra din mâna ta, și din mâinile acelora care intră pe poarta orașului tău, și din mâna seminței tale pentru totdeauna.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 24,
+      "v": 6
+     }
+    }
    }
   ],
   "refs": [
@@ -3130,6 +3174,17 @@ window.CHAPTER_DATA = [
       "v": 6
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 24 — comparație",
+    "text": "Iar Efron și toți frații lui au auzit aceasta, și Avraam i-a cântărit lui Efron 400 de shekeli de argint în mâinile lui Efron și în mâinile tuturor fraților lui; și Avraam a scris această tranzacție, și a scris-o și a mărturisit-o cu patru martori.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 24,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -3712,8 +3767,37 @@ window.CHAPTER_DATA = [
     "text": "«Și după aceasta etc. a fost confirmat etc.» Trebuie să știm de ce a fost nevoie să spună „și după aceasta”, căci se înțelege din rânduiala lucrurilor că după aceasta a îngropat. Încă de ce a fost nevoie să spună a doua oară „a fost confirmat câmpul”?<br><br>Dar Scriptura intenționează să facă cunoscut că a fost cumpărarea după toate legile dobândirii, iar aceasta este spusa „și după aceasta”, explicația: după ce Avraam i-a cântărit lui Efron prețul peșterii, prin aceasta Efron a ridicat dreptul său de pe pământ, după cum a scris Rambam în capitolul 1 din Legile dobândirii și darului, iar acesta este textul lui: că neevreul din clipa ce a luat banii a ridicat dreptul său, iar israelitul nu a dobândit până ce nu ajunge actul în mâna lui, și se găsesc aceste bunuri ca bunurile pustiului, căci oricine ia în stăpânire în ele a dobândit, până aici. Iată, folosește darea banilor, căci nu a rămas neevreului drept în ea, și de aceea folosește pentru încheierea dobândirii în mâna lui Avraam prin stăpânirea (hazaqa) pe care a luat-o în ea prin faptul că a îngropat în ea pe Sara, dar dacă ar fi îngropat-o pe Sara mai înainte, deși ar fi dat după aceea banii câmpului, nu ar fi dobândit prin darea banilor singură, după cum s-a pomenit, fără stăpânire.<br><br>Și a rămas de știut dacă această stăpânire (hazaqa) se socotește stăpânire în pământul neevreului, și iată a scris Rambam în capitolul 2 din Legile dobândirii și darului, iar acesta este textul lui: Dar în bunuri fără stăpân sau ale străinului (ger), chiar dacă a mâncat roade câțiva ani nu a dobândit nici pomul, nici pământul, până ce face o faptă în trupul pământului etc., cum? Cel care găsește palate în bunurile străinului sau fără stăpân și le-a văruit sau a făcut kiyyer înalt de un cot sau mai mult a dobândit etc., cel care așterne așternuturi a dobândit etc., dacă lua pământ dintr-un loc înalt într-unul jos, iată acesta îndreaptă pământul, dacă l-am văzut aruncând pământul fără grijă, iată acesta este în presupunerea că nu intenționează decât să netezească locul pentru treierat și nu a dobândit, până aici. Și a scris Maggid Mișne: „cel care așterne așternuturi” – explicația: ca să stea pe ele, și iată s-a bucurat de trupul pământului. O altă explicație – cel care așterne așternuturi, că îmbunătățește pământul prin așternerea lor ca văruitul și kiyyur etc. și aceasta este esența, și cu aceasta a fost de acord Rabbenu Ibn Migaș, binecuvântată fie amintirea lui, până aici. Și iată, bine, după prima explicație a Maggidului că oricine se bucură de trupul pământului se numește stăpânire în găsirea bunurilor fără stăpân, vom spune că și în găsirea dinaintea noastră, de vreme ce a îngropat în trupul pământului pe Sara soția lui, se socotește că s-a bucurat de trupul pământului și l-a dobândit, dar după părerea lui Rabbi Ibn Migaș că nu este stăpânire decât dacă va face reparație în trupul pământului ca văruit și kiyyur, dacă așa, îngroparea Sarei nu ajută la stăpânire, și prin ce a dobândit Avraam?<br><br>Și este posibil că atunci când se construiește mormântul, în special construirea mormintelor vechi care construiau loculi (kokhin), și de obicei le văruiesc și fac kiyyur, prin aceasta va fi stăpânirea. Și de acum se va așeza motivul pentru care a repetat Scriptura a doua oară „a fost confirmat câmpul”, ca să spună că după ce Avraam a îngropat etc., prin aceasta s-a încheiat confirmarea câmpului pentru Avraam, iar fără aceasta, deși în privința lui Efron s-a pecetluit hotărârea lui că și-a ridicat dreptul, totuși încă nu se numește al lui Avraam după lege, după cum s-a pomenit, iar după ce a îngropat etc. „a fost confirmat” etc.:"
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 15",
-    "text": "Sara a murit după puțină vreme, trăind o sută douăzeci și șapte de ani. Au îngropat-o în Hebron; canaaniții îngăduindu-le în văzul tuturor un loc de îngropare; bucată de pământ pe care Avraam a cumpărat-o cu patru sute de sicli de la Efron, un locuitor al Hebronului. Și Avraam, și urmașii lui și-au zidit morminte în acel loc."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 14",
+    "text": "Sara a murit după puțină vreme, trăind o sută douăzeci și șapte de ani. Au îngropat-o în Hebron; canaaniții îngăduindu-le în văzul tuturor un loc de îngropare; bucată de pământ pe care Avraam a cumpărat-o cu patru sute de sicli de la Efron, un locuitor al Hebronului. Și Avraam, și urmașii lui și-au zidit morminte în acel loc.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 15,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 24 — comparație",
+    "text": "Și terenul și peștera care era în el și tot acel loc i-au fost făcute sigure lui Avraam și seminței lui după el, de la copiii lui Het; iată este înainte de Mamre în Hebron, care este în ținutul Canaan.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 24,
+      "v": 11
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 24 — comparație",
+    "text": "Și după aceasta Avraam a îngropat pe nevasta sa Sara acolo, iar acel loc și toată suprafața lui i-au devenit lui Avraam și seminței lui ca posesiune de loc de îngropare.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 24,
+      "v": 12
+     }
+    }
    }
   ]
  },

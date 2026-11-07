@@ -397,7 +397,14 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
-    "text": "Dar în măsura râvnei pe care o arătaseră mai înainte pentru virtute, au arătat acum prin faptele lor o răutate îndoită, prin care L-au făcut pe Dumnezeu dușmanul lor. Căci mulți îngeri ai lui Dumnezeu s-au însoțit cu femei și au născut fii care s-au dovedit nedrepți și disprețuitori ai oricărui lucru bun, din pricina încrederii pe care o aveau în propria lor putere; căci tradiția spune că acești oameni au făcut lucruri asemănătoare cu faptele celor pe care grecii îi numesc uriași."
+    "text": "Dar în măsura râvnei pe care o arătaseră mai înainte pentru virtute, au arătat acum prin faptele lor o răutate îndoită, prin care L-au făcut pe Dumnezeu dușmanul lor. Căci mulți îngeri ai lui Dumnezeu s-au însoțit cu femei și au născut fii care s-au dovedit nedrepți și disprețuitori ai oricărui lucru bun, din pricina încrederii pe care o aveau în propria lor putere; căci tradiția spune că acești oameni au făcut lucruri asemănătoare cu faptele celor pe care grecii îi numesc uriași.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 4,
+      "v": 1
+     }
+    }
    },
    {
     "author": "Context patristic timpuriu (Sfinții Părinți din primele secole)",
@@ -738,8 +745,15 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 4",
-    "text": "Dumnezeu l-a iubit pe acest om pentru dreptatea lui; totuși, nu numai că i-a osândit pe ceilalți oameni pentru răutatea lor, ci a hotărât să nimicească tot neamul omenesc și să facă un alt neam, curat de răutate; și, scurtându-le viețile și făcând anii lor nu atât de mulți cât trăiseră mai înainte, ci numai o sută douăzeci, a prefăcut uscatul în mare; și astfel au fost nimiciți toți acești oameni: dar numai Noe a fost salvat; căci Dumnezeu i-a sugerat următoarea născocire și cale de scăpare: să facă o corabie cu patru caturi de înălțime, de trei sute de coți lungime, de cincizeci de coți lățime și de treizeci de coți înălțime. Astfel, a intrat în acea corabie el, soția lui, fiii lui și soțiile lor și a pus în ea nu numai alte merinde, spre a le susține nevoile acolo, ci a trimis înăuntru, împreună cu restul, tot felul de viețuitoare, parte bărbătească și parte femeiască, pentru păstrarea soiurilor lor; iar pe unele dintre ele câte șapte. Această corabie avea ziduri tari și un acoperiș și era întărită cu grinzi transversale, astfel încât nu putea fi în niciun fel înecată sau răsturnată de violența apei. Și astfel Noe, împreună cu familia lui, a fost păstrat. El era al zecelea de la Adam, ca fiu al lui Lameh, al cărui tată era Matusala; acesta era fiul lui Enoh, fiul lui Iared; iar Iared era fiul lui Malaleel, care, cu multe dintre surorile sale, erau copiii lui Cainan, fiul lui Enos. Iar Enos era fiul lui Set, fiul lui Adam."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 3",
+    "text": "Dumnezeu l-a iubit pe acest om pentru dreptatea lui; totuși, nu numai că i-a osândit pe ceilalți oameni pentru răutatea lor, ci a hotărât să nimicească tot neamul omenesc și să facă un alt neam, curat de răutate; și, scurtându-le viețile și făcând anii lor nu atât de mulți cât trăiseră mai înainte, ci numai o sută douăzeci, a prefăcut uscatul în mare; și astfel au fost nimiciți toți acești oameni: dar numai Noe a fost salvat; căci Dumnezeu i-a sugerat următoarea născocire și cale de scăpare: să facă o corabie cu patru caturi de înălțime, de trei sute de coți lungime, de cincizeci de coți lățime și de treizeci de coți înălțime. Astfel, a intrat în acea corabie el, soția lui, fiii lui și soțiile lor și a pus în ea nu numai alte merinde, spre a le susține nevoile acolo, ci a trimis înăuntru, împreună cu restul, tot felul de viețuitoare, parte bărbătească și parte femeiască, pentru păstrarea soiurilor lor; iar pe unele dintre ele câte șapte. Această corabie avea ziduri tari și un acoperiș și era întărită cu grinzi transversale, astfel încât nu putea fi în niciun fel înecată sau răsturnată de violența apei. Și astfel Noe, împreună cu familia lui, a fost păstrat. El era al zecelea de la Adam, ca fiu al lui Lameh, al cărui tată era Matusala; acesta era fiul lui Enoh, fiul lui Iared; iar Iared era fiul lui Malaleel, care, cu multe dintre surorile sale, erau copiii lui Cainan, fiul lui Enos. Iar Enos era fiul lui Set, fiul lui Adam.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 4,
+      "v": 2
+     }
+    }
    },
    {
     "author": "Fericitul Ieronim, Întrebări ebraice la Facere 6:3",

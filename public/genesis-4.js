@@ -563,6 +563,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "Abel înseamnă „deșertăciune”. Numele dat acestui fiu este pus peste tot neamul, Ps 39:5. Orice om, în cea mai bună stare a lui, este deșertăciune; Abel, deșertăciune. El a ales îndeletnicirea care ajuta cel mai mult la contemplare și evlavie, căci acesta a fost privit ca avantajul vieții păstorești. Moise și David au păscut oi și, în singurătățile lor, au vorbit cu Dumnezeu."
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Și a fost în anul 130 al vieții lui Adam pe pământ, că el iarăși a cunoscut-o pe Eva nevasta sa, și ea a zămislit și născut un fiu după asemănarea lui și după chipul lui, și ea l-a numit Set, spunând, deoarece Dumnezeu mi-a desemnat încă o sămânță în locul lui Abel, căci Cain l-a ucis pe el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -1921,7 +1932,14 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 2",
-    "text": "Adam și Eva au avut doi fii: cel mai în vârstă se numea Cain, nume care, tălmăcit, înseamnă o stăpânire; cel mai tânăr era Abel, ceea ce înseamnă întristare. Au avut și fiice. Cei doi frați se bucurau de feluri de viață diferite: căci Abel, cel mai tânăr, era iubitor de dreptate și, crezând că Dumnezeu este de față la toate faptele lui, se deosebea prin virtute; iar îndeletnicirea lui era aceea de păstor. Dar Cain era nu numai foarte stricat în alte privințe, ci era cu totul pornit spre câștig; și el a fost cel dintâi care a născocit arătura pământului. Și-a ucis fratele cu prilejul următor: Hotărâseră să aducă jertfă lui Dumnezeu. Cain a adus roadele pământului și ale muncii lui; dar Abel a adus lapte și cele dintâi roade ale turmelor sale; Dumnezeu însă S-a bucurat mai mult de darul din urmă, fiind cinstit cu ceea ce a crescut firesc, de la sine, decât cu ceea ce era născocirea unui om lacom și dobândit prin silirea pământului; de aceea Cain s-a mâniat foarte tare că Abel a fost preferat de Dumnezeu înaintea lui; și și-a ucis fratele și i-a ascuns trupul mort, crezând că va scăpa de descoperire. Dar Dumnezeu, știind ce se făcuse, a venit la Cain și l-a întrebat ce s-a făcut cu fratele său, pentru că nu-l mai văzuse de multe zile, în timp ce în alte vremuri îi vedea stând de vorbă împreună. Dar Cain era în cumpănă cu sine și nu știa ce răspuns să dea lui Dumnezeu. La început a spus că el însuși nu înțelege ce s-a întâmplat cu dispariția fratelui său; dar când a fost mâniat de Dumnezeu, care îl silea stăruitor, hotărât să afle ce s-a întâmplat, a răspuns că nu era păzitorul sau ocrotitorul fratelui său și nici cel care să observe ce face acesta. Dar, drept răspuns, Dumnezeu l-a dovedit pe Cain că a fost ucigașul fratelui său și a zis: „Mă mir de tine, că nu știi ce s-a făcut cu un om pe care tu însuți l-ai nimicit.” Dumnezeu nu a dat, așadar, asupra lui pedeapsa [cu moartea], din pricina jertfei pe care o adusese și prin care Îl ruga să nu fie fără măsură în mânia Lui față de el; dar l-a făcut blestemat și a amenințat neamul lui până la a șaptea generație. L-a alungat, de asemenea, împreună cu soția lui, din acel pământ. Și când el s-a temut că, rătăcind, va cădea între fiare sălbatice și va pieri astfel, Dumnezeu i-a spus să nu aibă o asemenea bănuială întristătoare și să străbată tot pământul fără teama vreunui rău pe care l-ar putea suferi de la fiare sălbatice; și, punându-i un semn ca să fie cunoscut, i-a poruncit să plece."
+    "text": "Adam și Eva au avut doi fii: cel mai în vârstă se numea Cain, nume care, tălmăcit, înseamnă o stăpânire; cel mai tânăr era Abel, ceea ce înseamnă întristare. Au avut și fiice. Cei doi frați se bucurau de feluri de viață diferite: căci Abel, cel mai tânăr, era iubitor de dreptate și, crezând că Dumnezeu este de față la toate faptele lui, se deosebea prin virtute; iar îndeletnicirea lui era aceea de păstor. Dar Cain era nu numai foarte stricat în alte privințe, ci era cu totul pornit spre câștig; și el a fost cel dintâi care a născocit arătura pământului. Și-a ucis fratele cu prilejul următor: Hotărâseră să aducă jertfă lui Dumnezeu. Cain a adus roadele pământului și ale muncii lui; dar Abel a adus lapte și cele dintâi roade ale turmelor sale; Dumnezeu însă S-a bucurat mai mult de darul din urmă, fiind cinstit cu ceea ce a crescut firesc, de la sine, decât cu ceea ce era născocirea unui om lacom și dobândit prin silirea pământului; de aceea Cain s-a mâniat foarte tare că Abel a fost preferat de Dumnezeu înaintea lui; și și-a ucis fratele și i-a ascuns trupul mort, crezând că va scăpa de descoperire. Dar Dumnezeu, știind ce se făcuse, a venit la Cain și l-a întrebat ce s-a făcut cu fratele său, pentru că nu-l mai văzuse de multe zile, în timp ce în alte vremuri îi vedea stând de vorbă împreună. Dar Cain era în cumpănă cu sine și nu știa ce răspuns să dea lui Dumnezeu. La început a spus că el însuși nu înțelege ce s-a întâmplat cu dispariția fratelui său; dar când a fost mâniat de Dumnezeu, care îl silea stăruitor, hotărât să afle ce s-a întâmplat, a răspuns că nu era păzitorul sau ocrotitorul fratelui său și nici cel care să observe ce face acesta. Dar, drept răspuns, Dumnezeu l-a dovedit pe Cain că a fost ucigașul fratelui său și a zis: „Mă mir de tine, că nu știi ce s-a făcut cu un om pe care tu însuți l-ai nimicit.” Dumnezeu nu a dat, așadar, asupra lui pedeapsa [cu moartea], din pricina jertfei pe care o adusese și prin care Îl ruga să nu fie fără măsură în mânia Lui față de el; dar l-a făcut blestemat și a amenințat neamul lui până la a șaptea generație. L-a alungat, de asemenea, împreună cu soția lui, din acel pământ. Și când el s-a temut că, rătăcind, va cădea între fiare sălbatice și va pieri astfel, Dumnezeu i-a spus să nu aibă o asemenea bănuială întristătoare și să străbată tot pământul fără teama vreunui rău pe care l-ar putea suferi de la fiare sălbatice; și, punându-i un semn ca să fie cunoscut, i-a poruncit să plece.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 3,
+      "v": 1
+     }
+    }
    },
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
@@ -1934,6 +1952,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "Și Cain a vorbit cu fratele său Abel — Parafrastul haldeu adaugă că Cain, în vreme ce vorbeau, susținea că nu există judecată viitoare și că, atunci când Abel a vorbit în apărarea adevărului, Cain a luat acest prilej să se arunce asupra lui. Scriptura ne spune pricina pentru care l-a ucis: pentru că faptele lui erau rele, iar ale fratelui său drepte; astfel s-a arătat el copil al diavolului, fiind dușman a toată dreptatea. Observă: cel dintâi care moare este un sfânt, cel dintâi care a mers în mormânt a mers în cer. Dumnezeu a vrut să-Și asigure Sieși pârga, întâiul născut al morților, cel care a deschis întâi pântecele către o altă lume."
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Și Lameh era bătrân și înaintat în ani, iar ochii lui erau tulburi încât nu putea vedea, iar Tubal Cain, fiul său, îl îndruma, și a fost într-o zi că Lameh a mers la câmp iar Tubal Cain fiul său era cu el, și pe când mergeau în câmp, Cain fiul lui Adam a avansat spre ei; căci Lameh era foarte bătrân și nu putea vedea bine, iar Tubal Cain, fiul său era foarte tânăr.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 26
+     }
+    }
    }
   ],
   "fidela": "Iar Cain a vorbit cu Abel, fratele său, și a fost așa: când erau ei pe câmp, Cain s-a ridicat împotriva lui Abel, fratele său, și l-a ucis."
@@ -2129,6 +2158,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "Și Domnul i-a zis lui Cain: Unde este fratele tău Abel? — Dumnezeu îl știa vinovat; totuși îl întreabă ca să tragă de la el o mărturisire a faptei sale; căci cei ce vor să fie îndreptățiți înaintea lui Dumnezeu trebuie să se învinuiască ei înșiși. Iar el a zis: Nu știu — Astfel în Cain diavolul a fost și ucigaș, și mincinos de la început. Sunt eu păzitorul fratelui meu? — Sigur, este destul de mare ca să aibă grijă de el însuși și nici nu m-am însărcinat vreodată cu paza lui. Nu ești Tu păzitorul lui? Dacă lipsește, vina să fie asupra Ta, și nu asupra mea, care nu m-am însărcinat niciodată să-l păzesc."
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Și Domnul a răsplătit răului lui Cain conform nelegiuirii lui, pe care o făcuse fratelui lui Abel, conform Cuvântului Domnului pe care el îl rostise.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 29
+     }
+    }
    }
   ],
   "fidela": "Și DOMNUL i-a spus lui Cain: Unde este Abel, fratele tău? Iar el a spus: Nu știu; sunt eu păzitorul fratelui meu?",
@@ -3871,7 +3911,14 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 2",
-    "text": "Iar după ce Cain a străbătut multe țări, a zidit, împreună cu soția lui, o cetate numită Nod, care este un loc numit astfel, și acolo și-a statornicit locuința; unde a avut și copii. Totuși, nu a primit pedeapsa lui spre îndreptare, ci spre sporirea răutății lui; căci nu urmărea decât să-și procure tot ce era spre plăcerea trupului său, chiar dacă era silit să fie nedrept față de vecinii săi. Și-a sporit averea casei cu multă bogăție, prin jaf și silnicie; și-a îndemnat cunoscuții să-și procure plăceri și prăzi prin tâlhărie și a ajuns un mare conducător al oamenilor pe căi rele. A adus, de asemenea, o schimbare în felul de simplitate în care trăiseră oamenii mai înainte și a fost autorul măsurilor și al greutăților. Și, deși ei trăiau nevinovat și cu inimă largă cât timp nu știau nimic despre asemenea meșteșuguri, el a prefăcut lumea în viclenie meșteșugită. El a pus cel dintâi hotare pe pământuri; a zidit o cetate și a întărit-o cu ziduri și și-a silit familia să se adune în ea; și a numit acea cetate Enoh, după numele fiului său celui mai mare, Enoh. Iar Iared a fost fiul lui Enoh; al cărui fiu a fost Malaliel; al cărui fiu a fost Matusala; al cărui fiu a fost Lameh; care a avut șaptezeci și șapte de copii cu două soții, Sila și Ada. Dintre copiii avuți cu Ada, unul a fost Iabal: el a ridicat corturi și a iubit viața de păstor. Dar Iubal, născut din aceeași mamă cu el, s-a îndeletnicit cu muzica și a născocit psalterionul și harpa. Iar Tubal, unul dintre copiii lui cu cealaltă soție, a întrecut pe toți oamenii în putere și era foarte priceput și vestit în faptele de război. A dobândit prin acea metodă cele ce țineau de plăcerile trupului și a născocit cel dintâi meșteșugul de a face aramă. Lameh a fost și tatăl unei fiice, al cărei nume era Naama. Și pentru că era atât de priceput în lucrurile descoperirii dumnezeiești, încât știa că va fi pedepsit pentru uciderea fratelui de către Cain, a făcut aceasta cunoscut soțiilor sale. Ba chiar, pe când Adam era încă în viață, s-a întâmplat că urmașii lui Cain au ajuns peste măsură de răi, fiecare, murind pe rând, unul după altul, mai rău decât cel dinainte. Erau de nesuferit în război și porniți în jafuri; și chiar dacă vreunul era încet la omor, tot era îndrăzneț în purtarea lui destrăbălată, în a lucra nedrept și a face nedreptăți pentru câștig."
+    "text": "Iar după ce Cain a străbătut multe țări, a zidit, împreună cu soția lui, o cetate numită Nod, care este un loc numit astfel, și acolo și-a statornicit locuința; unde a avut și copii. Totuși, nu a primit pedeapsa lui spre îndreptare, ci spre sporirea răutății lui; căci nu urmărea decât să-și procure tot ce era spre plăcerea trupului său, chiar dacă era silit să fie nedrept față de vecinii săi. Și-a sporit averea casei cu multă bogăție, prin jaf și silnicie; și-a îndemnat cunoscuții să-și procure plăceri și prăzi prin tâlhărie și a ajuns un mare conducător al oamenilor pe căi rele. A adus, de asemenea, o schimbare în felul de simplitate în care trăiseră oamenii mai înainte și a fost autorul măsurilor și al greutăților. Și, deși ei trăiau nevinovat și cu inimă largă cât timp nu știau nimic despre asemenea meșteșuguri, el a prefăcut lumea în viclenie meșteșugită. El a pus cel dintâi hotare pe pământuri; a zidit o cetate și a întărit-o cu ziduri și și-a silit familia să se adune în ea; și a numit acea cetate Enoh, după numele fiului său celui mai mare, Enoh. Iar Iared a fost fiul lui Enoh; al cărui fiu a fost Malaliel; al cărui fiu a fost Matusala; al cărui fiu a fost Lameh; care a avut șaptezeci și șapte de copii cu două soții, Sila și Ada. Dintre copiii avuți cu Ada, unul a fost Iabal: el a ridicat corturi și a iubit viața de păstor. Dar Iubal, născut din aceeași mamă cu el, s-a îndeletnicit cu muzica și a născocit psalterionul și harpa. Iar Tubal, unul dintre copiii lui cu cealaltă soție, a întrecut pe toți oamenii în putere și era foarte priceput și vestit în faptele de război. A dobândit prin acea metodă cele ce țineau de plăcerile trupului și a născocit cel dintâi meșteșugul de a face aramă. Lameh a fost și tatăl unei fiice, al cărei nume era Naama. Și pentru că era atât de priceput în lucrurile descoperirii dumnezeiești, încât știa că va fi pedepsit pentru uciderea fratelui de către Cain, a făcut aceasta cunoscut soțiilor sale. Ba chiar, pe când Adam era încă în viață, s-a întâmplat că urmașii lui Cain au ajuns peste măsură de răi, fiecare, murind pe rând, unul după altul, mai rău decât cel dinainte. Erau de nesuferit în război și porniți în jafuri; și chiar dacă vreunul era încet la omor, tot era îndrăzneț în purtarea lui destrăbălată, în a lucra nedrept și a face nedreptăți pentru câștig.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 3,
+      "v": 2
+     }
+    }
    },
    {
     "author": "Fericitul Augustin, Cetatea lui Dumnezeu 15.1",
@@ -5237,6 +5284,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "Acest pasaj este nespus de obscur. Nu știm pe cine a ucis, nici cu ce prilej; nici ce temei avea să fie atât de încrezător în ocrotirea dumnezeiască."
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Și el a spus nevestelor sale Ada și Țila: Ascultați vocea mea, o neveste ale lui Lameh, urmați cuvintelor, căci acum v-ați imaginat și ați spus că eu am ucis un om cu rănirile mele, și un copil cu loviturile mele pentru că ei nu au făcut violență, dar cunoașteți cu siguranță că eu sunt bătrân și am părul cărunt, și că ochii mei sunt grei prin vârstă, și eu am făcut acest lucru în necunoștință.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 35
+     }
+    }
    }
   ],
   "fidela": "Și Lameh a spus soțiilor lui, Ada și Țila: Auziți vocea mea, voi soțiile lui Lameh, dați ascultare la vorbirea mea: pentru că am ucis un om pentru rănirea mea și un tânăr pentru vânătaia mea.",
@@ -5698,7 +5756,14 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 2",
-    "text": "Iar Adam, care a fost cel dintâi om și făcut din pământ, [căci discursul nostru trebuie să fie acum despre el,] după ce Abel a fost ucis și Cain a fugit din pricina uciderii, a fost grijuliu pentru urmași și a avut o dorință puternică de copii, având el două sute treizeci de ani; după care vreme a mai trăit alți șapte sute și apoi a murit. A avut, într-adevăr, mulți alți copii, dar pe Set în mod deosebit. Cât despre ceilalți, ar fi obositor să-i numesc; mă voi strădui, deci, să dau doar o istorisire a celor care au ieșit din Set. Acest Set, când a fost crescut și a ajuns la acei ani în care putea deosebi ce este bine, a devenit un om virtuos; și, așa cum el însuși era de un caracter ales, a lăsat în urma lui copii care i-au imitat virtuțile. Toți aceștia s-au dovedit a fi de bune dispoziții. Au locuit și ei în aceeași țară, fără neînțelegeri și într-o stare fericită, fără să cadă asupra lor nicio nenorocire, până când au murit. Ei au fost și născocitorii acelui fel deosebit de înțelepciune care se ocupă cu corpurile cerești și cu orânduirea lor. Și, ca născocirile lor să nu se piardă înainte de a fi destul de cunoscute, după prevestirea lui Adam că lumea avea să fie nimicită o dată prin puterea focului și altă dată prin violența și mulțimea apei, au făcut doi stâlpi, unul de cărămidă, altul de piatră: au înscris pe amândoi descoperirile lor, pentru ca, în cazul în care stâlpul de cărămidă ar fi nimicit de potop, stâlpul de piatră să rămână și să arate acele descoperiri oamenilor; și să-i înștiințeze, de asemenea, că mai era un stâlp de cărămidă ridicat de ei. Acesta se află și astăzi în țara Siriadului."
+    "text": "Iar Adam, care a fost cel dintâi om și făcut din pământ, [căci discursul nostru trebuie să fie acum despre el,] după ce Abel a fost ucis și Cain a fugit din pricina uciderii, a fost grijuliu pentru urmași și a avut o dorință puternică de copii, având el două sute treizeci de ani; după care vreme a mai trăit alți șapte sute și apoi a murit. A avut, într-adevăr, mulți alți copii, dar pe Set în mod deosebit. Cât despre ceilalți, ar fi obositor să-i numesc; mă voi strădui, deci, să dau doar o istorisire a celor care au ieșit din Set. Acest Set, când a fost crescut și a ajuns la acei ani în care putea deosebi ce este bine, a devenit un om virtuos; și, așa cum el însuși era de un caracter ales, a lăsat în urma lui copii care i-au imitat virtuțile. Toți aceștia s-au dovedit a fi de bune dispoziții. Au locuit și ei în aceeași țară, fără neînțelegeri și într-o stare fericită, fără să cadă asupra lor nicio nenorocire, până când au murit. Ei au fost și născocitorii acelui fel deosebit de înțelepciune care se ocupă cu corpurile cerești și cu orânduirea lor. Și, ca născocirile lor să nu se piardă înainte de a fi destul de cunoscute, după prevestirea lui Adam că lumea avea să fie nimicită o dată prin puterea focului și altă dată prin violența și mulțimea apei, au făcut doi stâlpi, unul de cărămidă, altul de piatră: au înscris pe amândoi descoperirile lor, pentru ca, în cazul în care stâlpul de cărămidă ar fi nimicit de potop, stâlpul de piatră să rămână și să arate acele descoperiri oamenilor; și să-i înștiințeze, de asemenea, că mai era un stâlp de cărămidă ridicat de ei. Acesta se află și astăzi în țara Siriadului.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 3,
+      "v": 3
+     }
+    }
    },
    {
     "author": "Fericitul Augustin, Cetatea lui Dumnezeu 15.15",
@@ -5711,6 +5776,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ieronim, Întrebări ebraice asupra Genezei",
     "text": "(Versetul 25) Și i-a pus numele Set. Căci Dumnezeu mi-a rânduit altă sămânță în locul lui Abel, pe care l-a ucis Cain. Set, propriu-zis θέσις, adică așezare, se numește astfel pentru că Dumnezeu îl așezase în locul lui Abel. În sfârșit, Aquila spune: Și i-a pus numele Set, zicând: Căci Dumnezeu mi-a pus altă sămânță."
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Iar nevestele lui Lameh l-au ascultat în această privință, și ele s-au întors la el cu sfatul tatălui lor Adam, dar ele nu i-au mai născut copii lui de la acea vreme, cunoscând că mânia lui Dumnezeu era în creștere în acele zile împotriva fiilor oamenilor, să îi distrugă pe ei cu apele potopului pentru faptele lor rele.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 36
+     }
+    }
    }
   ]
  },

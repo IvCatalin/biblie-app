@@ -267,6 +267,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Predici",
     "text": "Datori suntem, frați și surori, să credem în Dumnezeu înainte ca El să plătească ceva, căci, precum nu poate minți, așa nu poate înșela. Pentru că este Dumnezeu. Așa au crezut în El strămoșii noștri. Așa a crezut în El Avraam. Iată o credință care merită cu adevărat să fie admirată și făcută cunoscută tuturor. Nu primise nimic de la El și a crezut în făgăduința Lui. Noi încă nu credem în El, deși am primit deja atât de mult. Putea oare Avraam să-I spună: „Voi crede în Tine, pentru că mi-ai făgăduit aceasta și ai și plătit”? Nu; a crezut de la prima poruncă dată, fără să fi primit altceva deloc. „Ieși din țara ta”, i s-a spus, „și din rudenia ta, și mergi în țara pe care ți-o voi da.” Și a crezut îndată, iar [Dumnezeu] nu i-a dat țara aceea, ci a păstrat-o pentru seminția lui."
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "Și Domnul a spus lui Avram: Ieși din țara ta, din rudenie ta și din casa tatălui tău, și du-te în țara pe care ți-o voi arăta.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 39
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "Pleacă din ținutul tău, din locul tău de naștere și de la casa tatălui tău, la ținutul pe care Eu ți l-am arătat ție să ți-l dau ție și copiilor tăi, căci acolo în acel ținut te voi binecuvânta Eu pe tine, și te voi face o mare națiune, și voi face numele tău mare, iar în tine vor fi familiile pământului binecuvântate.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 23
+     }
+    }
    }
   ]
  },
@@ -472,6 +494,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 20,
       "v": 74
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "Eu voi face din tine un neam mare, și te voi binecuvânta; voi face numele tău mare, și vei fi o binecuvântare.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 40
      }
     }
    }
@@ -687,6 +720,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Talmudul Babilonian",
     "text": "În lucru: traducerea acestui comentariu urmează."
+   },
+   {
+    "author": "Cartea Jubileelor 12 — comparație",
+    "text": "Și te voi binecuvânta, și voi face numele tău mare, și vei fi binecuvântat pe pământ, și în tine vor fi binecuvântate toate familiile pământului, și voi binecuvânta pe cei ce te binecuvântează, și voi blestema pe cei ce te blestemă.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 12,
+      "v": 23
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "Voi binecuvânta pe cei ce te vor binecuvânta, și voi blestema pe cei ce te vor blestema; și toate familiile pământului vor fi binecuvântate în tine.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 41
+     }
+    }
    }
   ]
  },
@@ -928,12 +983,30 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 8",
-    "text": "Avram, neavând un fiu al său, l-a înfiat pe Lot, fiul fratelui său Haran și fratele soției sale Sarai; și a părăsit țara Caldeii când avea șaptezeci și cinci de ani și, la porunca lui Dumnezeu, a mers în Canaan și a locuit în ea el însuși și a lăsat-o urmașilor săi. Era o persoană de mare agerime, atât pentru a înțelege toate lucrurile, cât și pentru a convinge pe cei care îl ascultau, și nu se înșela în părerile lui; din care pricină a început să aibă noțiuni mai înalte despre virtute decât aveau alții și a hotărât să înnoiască și să schimbe părerea pe care o aveau atunci toți oamenii despre Dumnezeu; căci el a fost cel dintâi care a îndrăznit să facă cunoscută această idee: că nu este decât un singur Dumnezeu, Creatorul universului; și că, cât despre ceilalți [zei], dacă ei contribuiau cu ceva la fericirea oamenilor, fiecare dintre ei o dădea numai după rânduiala Lui și nu prin propria lor putere. Această părere a lui izvora din fenomenele neregulate care se vedeau atât pe uscat, cât și pe mare, precum și din cele care se întâmplă soarelui, lunii și tuturor corpurilor cerești, astfel: „Dacă [zicea el] aceste corpuri ar avea putere de la ele însele, s-ar îngriji cu siguranță de mișcările lor regulate; dar pentru că nu păstrează o asemenea regularitate, arată limpede că, în măsura în care conlucrează spre folosul nostru, nu o fac din propriile lor puteri, ci întrucât sunt supuse Aceluia care le poruncește, Căruia numai Lui se cuvine, pe drept, să-I aducem cinstea și mulțumirea noastră.” Pentru care învățături, când caldeii și alți oameni din Mesopotamia au ridicat o tulburare împotriva lui, el a socotit cu cale să părăsească acea țară; și, la porunca și cu ajutorul lui Dumnezeu, a venit și a locuit în țara Canaan. Și, când s-a așezat acolo, a zidit un altar și a adus o jertfă lui Dumnezeu."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 7",
+    "text": "Avram, neavând un fiu al său, l-a înfiat pe Lot, fiul fratelui său Haran și fratele soției sale Sarai; și a părăsit țara Caldeii când avea șaptezeci și cinci de ani și, la porunca lui Dumnezeu, a mers în Canaan și a locuit în ea el însuși și a lăsat-o urmașilor săi. Era o persoană de mare agerime, atât pentru a înțelege toate lucrurile, cât și pentru a convinge pe cei care îl ascultau, și nu se înșela în părerile lui; din care pricină a început să aibă noțiuni mai înalte despre virtute decât aveau alții și a hotărât să înnoiască și să schimbe părerea pe care o aveau atunci toți oamenii despre Dumnezeu; căci el a fost cel dintâi care a îndrăznit să facă cunoscută această idee: că nu este decât un singur Dumnezeu, Creatorul universului; și că, cât despre ceilalți [zei], dacă ei contribuiau cu ceva la fericirea oamenilor, fiecare dintre ei o dădea numai după rânduiala Lui și nu prin propria lor putere. Această părere a lui izvora din fenomenele neregulate care se vedeau atât pe uscat, cât și pe mare, precum și din cele care se întâmplă soarelui, lunii și tuturor corpurilor cerești, astfel: „Dacă [zicea el] aceste corpuri ar avea putere de la ele însele, s-ar îngriji cu siguranță de mișcările lor regulate; dar pentru că nu păstrează o asemenea regularitate, arată limpede că, în măsura în care conlucrează spre folosul nostru, nu o fac din propriile lor puteri, ci întrucât sunt supuse Aceluia care le poruncește, Căruia numai Lui se cuvine, pe drept, să-I aducem cinstea și mulțumirea noastră.” Pentru care învățături, când caldeii și alți oameni din Mesopotamia au ridicat o tulburare împotriva lui, el a socotit cu cale să părăsească acea țară; și, la porunca și cu ajutorul lui Dumnezeu, a venit și a locuit în țara Canaan. Și, când s-a așezat acolo, a zidit un altar și a adus o jertfă lui Dumnezeu.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 8,
+      "v": 1
+     }
+    }
    },
    {
     "author": "Fericitul Ieronim, Întrebări ebraice la Facere",
     "text": "(Capitolul 12, versetul 4) Iar Avram avea șaptezeci și cinci de ani când a plecat din Haran. Se ivește o întrebare fără răspuns: căci, dacă Terah, tatăl lui Avram, pe când se afla încă în țara caldeenilor, la șaptezeci de ani l-a născut pe Avram și apoi a murit în Haran la vârsta de două sute cinci ani, cum se spune acum că Avram, după moartea lui Terah, când pleca din Haran, avea șaptezeci și cinci de ani? Căci de la nașterea lui Avram până la moartea tatălui său se spune că au trecut o sută treizeci și cinci de ani. De aceea, adevărată este acea tradiție a evreilor, pe care am pomenit-o mai sus: că Terah a ieșit cu fiii săi din focul caldeenilor și că Avram, înconjurat de focul babilonian, a fost izbăvit prin ajutorul lui Dumnezeu fiindcă n-a voit să i se închine; și de atunci zilele vieții lui și socoteala vârstei sale se numără din clipa în care L-a mărturisit pe Domnul, lepădându-se de idolii caldeenilor. Totuși este cu putință ca, de vreme ce Scriptura a lăsat lucrul nehotărât, Terah să fi pornit din Caldeea cu câțiva ani în urmă și să fi ajuns la Haran, unde a murit. Desigur, după prigoană, el a venit în Haran și a stat acolo mai multă vreme. De aceea, dacă cineva se împotrivește acestei tâlcuiri, va căuta o altă dezlegare și va respinge atunci, pe drept, ceea ce am spus noi."
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "Și Avram a plecat, precum îi spusese Domnul, și Lot a mers cu el. Avram era în vârstă de 75 de ani când a ieșit din Haran.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 42
+     }
+    }
    }
   ]
  },
@@ -1258,6 +1331,105 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "Așadar Sarai, soția lui, și Lot, fiul fratelui său, și toate averile pe care le adunaseră, și sufletele pe care le făcuseră în Haran, au luat-o la drum ca să meargă în țara Canaanului. Expresia „sufletele pe care le făcuseră” se folosește în sensul de „copiii pe care îi născuseră”. Căci în Scripturi omul este arătat uneori numai prin numele sufletului, alteori numai prin numele trupului. Prin „suflet”, ca în cuvântul: „Sufletul care păcătuiește, acela va muri” (Ezechiel 18:20); prin „trup”, ca în Psalm: „La Tine va veni orice trup” (Psalmul 65:3), de vreme ce nici trupul fără suflet nu poate veni la Dumnezeu, nici sufletul nu poate păcătui fără trup, ci omul întreg e arătat printr-o singură parte. Nici cei care socotesc că, precum trupul se naște din trup, așa sufletul se naște din suflet, nu au vreun sprijin în această frază: căci prin cuvântul „suflet”, cum am spus, se înțelege omul întreg. Dar faptul că ei au făcut suflete, adică au născut suflete în Haran, trebuie înțeles nu despre Avraam și Lot, ci despre casa și slujitorii lor: căci istoria sfântă care urmează mărturisește că înșiși patriarhii au rămas încă fără copii."
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "Avram a luat pe Sarai, nevasta sa, și pe Lot, fiul fratelui său, cu toate averile pe care le adunaseră și cu toate sufletele pe care le câștigaseră în Haran; și au plecat să meargă în țara Canaan. Și au ajuns în țara Canaan.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 43
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 12 — comparație",
+    "text": "Și ei i-au adus pe amândoi, pe Avram și Haran fratele său, să-i arunce în foc; și toți locuitorii ținutului și slujitorii și prinții regelui și toate femeile și micuții erau acolo, stând în acea zi deasupra lor.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 12,
+      "v": 21
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 12 — comparație",
+    "text": "Și slujitorii regelui l-au luat pe Avram și pe fratele lui, și ei i-au dezbrăcat de toate hainele lor cu excepția veșmintelor de jos care erau pe ei.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 12,
+      "v": 22
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 12 — comparație",
+    "text": "Și Avram le-a spus lor, nu vă plecați jos mie, ci plecați-vă jos Dumnezeului lumii care v-a făcut pe voi, și slujiți Lui, și mergeți în căile Lui căci este El acela care m-a izbăvit din acest foc, și este El care a creat sufletele și duhurile oamenilor, și a format pe om în pântecele mamei lui, și l-a adus pe el afară în lume, și este El care va izbăvi pe aceia care se încred în El de la toată durerea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 12,
+      "v": 38
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 12 — comparație",
+    "text": "Și la acea vreme Nahor și Avram și-au luat neveste, fiicele fratelui lor Haran; nevasta lui Nahor a fost Milca iar numele nevestei lui Avram a fost Sarai. Și Sarai nevasta lui Avram era stearpă; ea nu a avut nici un copil în acele zile.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 12,
+      "v": 44
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "Acum prin urmare ridică-te, pleacă din acest loc, tu, nevasta ta, și toate cele ce îți aparțin ție, de asemenea toți cei născuți în casa ta și toate sufletele pe care tu le-ai făcut în Haran, și scoate-le afară cu tine de acolo, și ridică-te să te întorci în ținutul Canaan.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 24
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "Și Avram s-a ridicat și a luat pe nevasta sa Sarai și toate cele ce îi aparțineau lui și toți aceia ce i-au fost născuți lui în casa sa și sufletele pe care ei le făcuseră în Haran, și ei au ieșit să meargă în ținutul Canaan.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 25
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "Și Avram a mers și s-a întors în ținutul Canaan, conform Cuvântului Domnului. Și Lot fiul fratelui său Haran a mers cu el, iar Avram avea 75 de ani când el a plecat din Haran ca să se întoarcă în ținutul Canaan.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 26
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "Și el a venit în ținutul Canaan conform Cuvântului Domnului către Avram, și el și-a întins cortul și a locuit în câmpia Mamre, și cu el era Lot fiul fratelui său, și toate cele ce îi aparțineau lui.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 27
+     }
+    }
    }
   ]
  },
@@ -1464,6 +1636,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 13,
       "v": 2
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "Avram a străbătut țara până la locul Sichem, până la stejarul More. Pe vremea aceea se aflau acolo canaaniții.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 44
      }
     }
    }
@@ -1720,6 +1903,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 13,
       "v": 3
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "Domnul S-a arătat lui Avram și i-a zis: Toată țara aceasta o voi da seminței tale. Și Avram a zidit acolo un altar Domnului care i Se arătase.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 45
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "Și Domnul iarăși i-a apărut lui Avram și a spus: Seminței tale voi da Eu acest ținut; și el acolo a construit un altar Domnului care i-a apărut lui, care este încă până în această zi în câmpiile din Mamre.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 28
      }
     }
    }
@@ -1997,6 +2202,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Sfântul Ambrozie, Despre Avraam",
     "text": "Unde este Betelul, adică casa lui Dumnezeu, acolo este și altarul. Unde este altarul, acolo este și chemarea numelui lui Dumnezeu. Nu fără rost a înaintat atât de mult. Nădăjduia în ajutorul lui Dumnezeu. Atletul lui Dumnezeu s-a deprins și s-a întărit în necazuri. A intrat în pustie."
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "De acolo a trecut la muntele care este la răsărit de Betel și și-a întins cortul. Betelul era la apus, iar Ai la răsărit. A zidit și acolo un altar Domnului și a chemat Numele Domnului.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 46
+     }
+    }
    }
   ]
  },
@@ -2389,6 +2605,61 @@ window.CHAPTER_DATA = [
       "v": 11
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "A fost o foamete în țară; și Avram s-a coborât în Egipt, ca să locuiască acolo o vreme, căci foametea era mare în țară.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 48
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 14 — comparație",
+    "text": "Și când Ricayon a venit în Egipt el a întrebat pe locuitorii Egiptului referitor la rege, iar locuitorii Egiptului i-au spus lui de obiceiurile regelui Egiptului, căci era atunci obiceiul regelui Egiptului că el pleca de la palatul său regal și era văzut afară doar o zi a anului, iar după aceea regele se întorcea la palatul său să rămână acolo.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 14,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 15 — comparație",
+    "text": "Și în acel an a fost o foamete apăsătoare de-a lungul ținutului Canaan, iar locuitorii ținutului nu puteau rămâne din pricina foametei căci ea era foarte cumplită.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 15,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 15 — comparație",
+    "text": "Și Avram și tot ce îi aparținea lui s-au ridicat și au mers în Egipt din pricina foametei, și când ei au ajuns la pârâul Mițraim ei au rămas acolo ceva timp să se odihnească de la oboseala drumului.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 15,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 8",
+    "text": "După aceasta, când o foamete a năpădit țara Canaan și Avram a descoperit că egiptenii se aflau într-o stare înfloritoare, el a fost dispus să coboare la ei, atât ca să aibă parte de belșugul de care se bucurau, cât și ca să-i asculte pe preoții lor și să afle ce spuneau despre zei; având de gând fie să-i urmeze, dacă aveau noțiuni mai bune decât el, fie să-i întoarcă pe o cale mai bună, dacă părerile lui s-ar dovedi cele mai adevărate. Dar, fiindcă urma să o ia cu el pe Sarai și se temea de nebunia egiptenilor în privința femeilor, ca nu cumva regele să-l ucidă cu prilejul marii frumuseți a soției lui, a născocit această stratagemă: s-a prefăcut a fi fratele ei și a îndrumat-o să se prefacă la fel, cu viclenie, căci a spus că aceasta va fi spre binele lor. Îndată ce a intrat în Egipt, i s-a întâmplat lui Avram așa cum socotise că se va întâmpla; căci faima frumuseții soției lui s-a vorbit mult; din care pricină Faraon, regele Egiptului, nu s-a mulțumit cu ceea ce se spunea despre ea, ci a vrut să o vadă el însuși și se pregătea să se folosească de ea; dar Dumnezeu a pus capăt înclinărilor lui nedrepte, trimițând asupra lui o boală și o răscoală împotriva stăpânirii lui. Și când a întrebat pe preoți cum ar putea fi eliberat de aceste nenorociri, ei i-au spus că această stare nenorocită a lui venea din mânia lui Dumnezeu, din pricina înclinărilor lui de a abuza de soția unui străin. Atunci el, de frică, a întrebat-o pe Sarai cine este și cine este cel pe care îl adusese cu ea. Și, după ce a aflat adevărul, s-a scuzat față de Avram că, socotind că femeia este sora lui și nu soția lui, și-a pus dragostea în ea, dorind o rudenie cu el prin căsătoria cu ea, dar nu îndemnat de poftă să abuzeze de ea. I-a făcut, de asemenea, un mare dar în bani și i-a dat voie să intre în convorbire cu cei mai învățați dintre egipteni; prin care convorbire virtutea și faima lui au devenit mai vădite decât fuseseră înainte.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 9,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -2596,6 +2867,39 @@ window.CHAPTER_DATA = [
    {
     "author": "Zohar, Leh Leha 12:5",
     "text": "«Și a zis Sarei, femeii sale: iată acum am cunoscut că femeie frumoasă la vedere ești.» Și oare până în ceasul acela nu știa Avraham că era femeie frumoasă la vedere? Ci iată au statornicit că până în ceasul acela nu privise la chipul Sarei, din pricina mulțimii modestiei care era între ei; și când s-a apropiat de Egipt („Mițrayim”), s-a descoperit ea și a văzut-o."
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "Când s-a apropiat de Egipt, a zis nevestei sale Sarai: Iată, știu că ești o femeie frumoasă la chip.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 49
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 15 — comparație",
+    "text": "Și Avram a spus nevestei sale Sarai, din moment ce Dumnezeu te-a creat pe tine cu o atât de frumoasă înfățișare, eu mă tem de egipteni ca nu cumva ei să mă omoare și să te răpească, căci frica de Dumnezeu nu este în aceste locuri.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 15,
+      "v": 4
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 8",
+    "text": "Căci, în timp ce egiptenii erau mai înainte legați de obiceiuri deosebite și își disprețuiau unii altora riturile sfinte și obișnuite și se mâniau foarte tare unii pe alții din această pricină, Avram a vorbit cu fiecare dintre ei și, combătând raționamentele de care se foloseau, fiecare pentru propriile lor practici, a arătat că asemenea raționamente erau deșarte și lipsite de adevăr: drept care a fost admirat de ei în acele convorbiri ca un om foarte înțelept și de mare agerime, când vorbea despre orice subiect pe care și-l lua; și aceasta nu numai în a-l înțelege, ci și în a-i convinge pe alți oameni să-i dea dreptate. El le-a comunicat aritmetica și le-a dat știința astronomiei; căci înainte ca Avram să vină în Egipt ei nu cunoșteau aceste părți ale învățăturii; căci acea știință a venit de la caldei în Egipt și de acolo și la greci.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 9,
+      "v": 2
+     }
+    }
    }
   ],
   "refs": [
@@ -2764,6 +3068,39 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Când te vor vedea egiptenii etc.» A pus înainte să-i spună motivul pentru ceea ce îi poruncește alături „spune, rogu-te” etc., ca să spună de la început și să facă cunoscut fără a o întreba nimic, să se străduiască să facă să se audă că ea este sora lui, iar aceasta este spusa „spune, rogu-te”, explicația: acum, fără să fie întrebată. Și fiindcă va spune: de ce trebuie să facem cunoscut un lucru fără să fim întrebați, de aceea a spus că în afară de aceasta nu va fi întrebare, și când îi vor vedea vor ști de bună seamă că este soția lui, iar aceasta este spusa „când te vor vedea” etc., nu vor întreba nimic, căci de la sine vor spune cu siguranță: aceasta este soția lui, și din partea că vor spune așa în gândul lor îl vor omorî pe Avraam, de aceea el a pus înainte să scoată vorbă de frăție la tot cel care îi cunoaște și îi vede."
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "Când te vor vedea egiptenii, vor zice: „Aceasta este nevasta lui!” Și pe mine mă vor omorî, iar pe tine te vor lăsa cu viață.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 50
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 15 — comparație",
+    "text": "Cu siguranță atunci tu să faci aceasta, spune tu că ești sora mea tuturor celor ce te-ar întreba pe tine, pentru a fi bine cu mine, și ca noi să putem trăi și să nu fim omorâți.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 15,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 15 — comparație",
+    "text": "Și Avram a poruncit la fel tuturor celor ce au venit cu ei în Egipt din pricina foametei; de asemenea nepotului său Lot el i-a poruncit, spunând, dacă egiptenii te întreabă pe tine referitor la Sarai, spune că ea este sora lui Avram.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 15,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -2940,6 +3277,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Despre cetatea lui Dumnezeu",
     "text": "După ce a zidit acolo un altar și a chemat pe Dumnezeu, Avraam a pornit de acolo și a locuit în pustie și a fost silit de apăsarea foametei să meargă mai departe, în Egipt. Acolo și-a numit soția sora lui și n-a spus nicio minciună. Căci ea era și aceasta, fiindcă era rudă de sânge; așa cum Lot, pentru aceeași apropiere, fiind fiul fratelui său, este numit fratele lui. Dar nu a tăgăduit că era soția lui, ci a tăcut despre aceasta, încredințând lui Dumnezeu apărarea castității soției sale și luând, ca om, măsuri împotriva vicleniilor omenești. Dacă nu s-ar fi ferit de primejdie cât a putut, ar fi ispitit pe Dumnezeu, mai degrabă decât să se încreadă în El. Am spus destul despre această chestiune împotriva calomniilor lui Faustus, adeptul lui Mani. În cele din urmă s-a întâmplat ceea ce Avraam așteptase de la Domnul. Căci Faraon, regele Egiptului, care o luase la sine ca soție, i-a înapoiat-o bărbatului ei, în fața unei urgii grele. Și departe de noi să credem că ar fi fost pângărită prin culcare cu altul. Este mult mai de crezut că, prin aceste mari lovituri, lui Faraon nu i s-a îngăduit să facă aceasta."
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "Spune, te rog, că ești sora mea, pentru ca să mi se facă bine din pricina ta și să mi se cruțe viața datorită ție.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 51
+     }
+    }
    }
   ]
  },
@@ -3134,6 +3482,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Zohar, Leh Leha 13:1",
     "text": "«Și a fost când a venit Avram în Egipt („Mițrayim”), și au văzut egiptenii femeia că e frumoasă foarte.» A zis Rabbi Yehudah: în ladă a băgat-o, și i-au deschis-o ca să ia de la ea vamă. De îndată ce s-a deschis, era o lumină ca lumina soarelui; acesta e ce e scris «că e frumoasă foarte»."
+   },
+   {
+    "author": "Cartea Dreptului 15 — comparație",
+    "text": "Iar ofițerii regelui l-au presat pe Avram, și ei au ajuns la cufăr și l-au deschis cu forța, și au văzut, și iată o frumoasă femeie era în cufăr.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 15,
+      "v": 13
+     }
+    }
    }
   ]
  },
@@ -3592,6 +3951,17 @@ window.CHAPTER_DATA = [
       "v": 14
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 15 — comparație",
+    "text": "Și Faraon a dat lui Avram oi și boi și măgari și slugi și măgărițe și cămile.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 15,
+      "v": 16
+     }
+    }
    }
   ]
  },
@@ -3811,6 +4181,17 @@ window.CHAPTER_DATA = [
       "v": 13
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 15 — comparație",
+    "text": "Și Domnul a lovit pe Faraon și casa lui cu plăgi mari din pricina Sarai, nevasta lui Avram.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 15,
+      "v": 17
+     }
+    }
    }
   ]
  },
@@ -3988,6 +4369,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Observă cum asprimea pedepsei i-a doborât gândul, până acolo încât l-a dus să aducă o dezvinovățire omului drept și să-i arate semne de toată grija. Și totuși, dacă harul lui Dumnezeu nu ar fi lucrat ca să-i potolească mintea și să-i insufle teamă, urmarea ar fi fost că s-ar fi aprins de o mânie și mai rea, încât să încerce să-și răzbune pe cel care îl înșelase, omul drept, ducându-și răzbunarea asupra lui și aducându-l la cea mai mare primejdie. Dar n-a făcut nimic din toate acestea. Teama a stins focul mâniei lui. Singura lui grijă a fost să arate semne de îngrijire față de omul drept. Căci acum știa că nu putea fi un om de rând cel care se bucura de un asemenea har minunat de sus."
+   },
+   {
+    "author": "Cartea Dreptului 15 — comparație",
+    "text": "Și Faraon a chemat pe Avram și a spus: Ce mi-ai făcut? De ce nu mi-ai spus că ea este nevasta ta?",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 15,
+      "v": 18
+     }
+    }
    }
   ]
  },
@@ -4168,6 +4560,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Ce închipuire ar putea cuprinde îndestulător mirarea față de aceste întâmplări? Ce limbă ar izbuti să exprime această mirare? O femeie strălucind prin frumusețe este închisă cu un partener egiptean, care este rege și tiran, de o furie și o fire necumpătată atât de mari, și totuși ea iese din fața lui neatinsă, cu castitatea ei fără pereche întreagă. Căci așa este purtarea de grijă a lui Dumnezeu totdeauna, minunată și uimitoare. Ori de câte ori oamenii dau lucrurile ca pierdute, atunci El însuși dă dovadă de puterea Lui nebiruită în orice împrejurare."
+   },
+   {
+    "author": "Cartea Dreptului 15 — comparație",
+    "text": "De ce ai spus: Ea este sora mea, încât am luat-o de soție? Iată, iat-o pe nevasta ta, ia-o și du-te.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 15,
+      "v": 19
+     }
+    }
    }
   ],
   "refs": [
@@ -4361,6 +4764,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Ai avea dreptate să aplici acestui om drept acele cuvinte pe care fericitul David le-a spus despre cei întorși din robia Babilonului: „Cei ce seamănă cu lacrimi vor secera cu bucurie. Mergeau plângând, aruncând sămânța, dar la întoarcere vor veni cu bucurie, ducând snopii sus.” Ai văzut cum drumul lui în jos era plin de grijă și de frică, cu teama de moarte grea asupra lui? Acum vezi întoarcerea lui însemnată de mare belșug și de cinste! Omul drept era acum un obiect de respect pentru toți, în Egipt și în Palestina. Căci, la urma urmei, cine ar fi putut să nu arate respect față de cel care se bucura de o asemenea ocrotire de la Dumnezeu și i se dădea o grijă atât de minunată? Foarte probabil ce se întâmplase cu regele și cu casa lui nu a scăpat nimănui. Scopul Lui, vezi, când a îngăduit toate acestea și a lăsat încercările omului drept să ajungă până acolo, a fost ca răbdarea lui să se arate mai vădit, fapta lui să câștige luarea-aminte a lumii întregi și nimeni să nu rămână fără știință de virtutea omului bun. Vezi, preaiubiților, mărimea folosului care vine din încercările lui? Vezi măreția răsplății pentru răbdarea lui? Vezi bărbatul și soția, înaintați în vârstă cum erau, dând dovadă de atâta judecată sănătoasă, atâta curaj, atâta dragoste unul pentru altul, o legătură de iubire atât de strânsă? Să ne străduim cu toții să o imităm și să nu ne descurajăm niciodată și să nu socotim că venirea necazurilor este semn de părăsire din partea lui Dumnezeu sau dovadă de dispreț. Dimpotrivă, să o privim ca cea mai limpede arătare a purtării de grijă a lui Dumnezeu pentru noi."
+   },
+   {
+    "author": "Cartea Dreptului 15 — comparație",
+    "text": "Și Faraon a poruncit oamenilor săi cu privire la el, și ei l-au petrecut pe el și pe nevasta lui și tot ce avea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 15,
+      "v": 20
+     }
+    }
    }
   ]
  }

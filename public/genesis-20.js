@@ -213,6 +213,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Avraam a plecat de acolo.» Din Elonei-Mamre."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 12",
+    "text": "Avraam s-a mutat acum la Gherar, în Palestina, ducând-o cu el pe Sara, sub închipuirea că este sora lui, folosind aceeași prefăcătorie pe care o folosise mai înainte, și aceasta de frică: căci se temea de Abimelec, regele acelei țări, care s-a îndrăgostit și el de Sara și era dispus să o corupă; dar a fost oprit să-și satisfacă pofta de o boală primejdioasă care a venit asupra lui de la Dumnezeu. Iar când medicii lui disperau să-l vindece, a adormit și a văzut un vis, care îl avertiza să nu abuzeze de soția unui străin; și, când și-a revenit, a spus prietenilor lui că Dumnezeu a trimis acea boală asupra lui, ca pedeapsă, pentru nedreptatea lui față de străin; și ca să păstreze curăția soției lui, căci ea nu l-a însoțit ca sora lui, ci ca soția lui legitimă; și că Dumnezeu a făgăduit să fie îndurător față de el în vremea ce va veni, dacă acest om va fi odată încredințat de curăția soției sale. După ce a spus aceasta, la sfatul prietenilor lui, l-a chemat pe Avraam și i-a poruncit să nu se îngrijoreze pentru soția lui și să nu se teamă de stricarea curăției ei; căci Dumnezeu are grijă de el și prin purtarea Lui de grijă și-a primit soția înapoi, fără ca ea să sufere vreo batjocură. Și a luat ca martor pe Dumnezeu și conștiința soției lui; și a spus că nu a avut la început nicio înclinare să se bucure de ea, dacă ar fi știut că este soția lui; dar, a zis el, de vreme ce tu ai purtat-o prin țări ca soră a ta, nu am fost vinovat de nicio greșeală. L-a rugat, de asemenea, să fie în pace cu el și să-L facă pe Dumnezeu milostiv față de el; și că, dacă socotește cu cale să rămână la el, să aibă ce-i trebuie din belșug; dar că, dacă are de gând să plece, să fie condus cu cinste și să aibă orice ajutor de care va avea nevoie când va ajunge acolo. La aceste cuvinte ale lui, Avraam i-a spus că pretextul înrudirii cu soția lui nu era o minciună, pentru că ea era fiica fratelui său; și că nu se socotea în siguranță în călătoriile lui în străinătate fără acest fel de prefăcătorie; și că nu el era pricina bolii lui, ci era doar grijuliu pentru siguranța lui; a zis, de asemenea, că este gata să rămână cu el. Drept care Abimelec i-a hotărât pământ și bani; și au făcut legământ să trăiască laolaltă fără vicleșug și au jurat la o fântână numită Beer-Șeba, care se poate tălmăci Fântâna Jurământului: și așa se numește de oamenii țării până în ziua de azi.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 13,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -433,6 +444,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și Avraam a spus despre soția sa Sara etc.» Aici nu i-a poruncit să spună mai întâi „ea”, după fapta lui la coborârea în Egipt („Mițrayim”), căci acolo este locul urâțeniei și ea era minunată printre ei prin frumusețea ei, ceea ce nu este așa în Gherar. Și de aceea vei găsi că Abimelec i-a spus „ce ai văzut de ai făcut lucrul acesta”, ceea ce nu l-a întrebat în această rânduială Faraon, căci în locul lui Abimelec nu erau urâți și era printre ei frumusețe și nu se minuna Sara de frumusețea ei atât de mult, și de aceea vei găsi că a fost de acord cu el să locuiască în locuința lui, ceea ce nu este așa Faraon."
+   },
+   {
+    "author": "Cartea Dreptului 20 — comparație",
+    "text": "Și pe când Avraam locuia în ținutul filistenilor, slujitorii lui Abimelec, regele filistenilor, au văzut că Sara era extrem de frumoasă, și ei l-au întrebat pe Avram referitor la ea, iar el a spus, ea este sora mea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 20,
+      "v": 3
+     }
+    }
    }
   ]
  },
@@ -674,6 +696,39 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Iată, ești pe cale să mori etc.» Explicația: ești vinovat de moarte, „pe care ai luat-o și ea” etc., explicația: după ce îți fac cunoscut că este măritată. Dar dacă nu i-ar fi făcut cunoscut, chiar dacă ar fi făcut fapta, nu ar fi vinovat de moarte, căci un fiu al lui Noe care a venit la soția unui om din greșeală, socotind că este nemăritată, este scutit, și precum a scris Rambam în capitolul 10 din Legile regilor.<br><br>Încă va suporta Scriptura pe această cale: „Iată, ești pe cale să mori” etc. „pe care ai luat-o și ea este măritată” – explicația: deși ai știut că este măritată, și după aceasta este vinovat după lege. Doar că după adevărul din cele spuse în chestiune pare că nu a știut că este măritată."
+   },
+   {
+    "author": "Cartea Dreptului 20 — comparație",
+    "text": "Iar îngerul a răspuns și i-a spus lui Abimelec: Iată tu mori din pricina femeii pe care tu ieri ai adus-o la casa ta, căci ea este o femeie măritată, nevasta lui Avraam care a venit la casa ta; acum prin urmare înapoiază acelui om pe nevasta lui, căci ea este nevasta lui; și dacă nu o vei returna, află că tu sigur vei muri, tu și tot ce îți aparține ție.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 20,
+      "v": 14
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 20 — comparație",
+    "text": "Și un om care stătea printre slujitorii regelui a răspuns regelui, spunând, rege suveran, înapoiază această femeie bărbatului ei, căci el este soțul ei, căci asemenea i s-a întâmplat regelui Egiptului când acest om a venit în Egipt.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 20,
+      "v": 19
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 20 — comparație",
+    "text": "Acum prin urmare, rege suveran, află ce s-a petrecut noaptea trecută întregului ținut, căci a fost o foarte mare consternare și mare durere și lamentație, iar noi știm că a fost din pricina femeii pe care tu ai luat-o.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 20,
+      "v": 22
+     }
+    }
    }
   ]
  },
@@ -1087,6 +1142,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Origen, Omilii la Facere",
     "text": "Dar să vedem ce i-a zis Abimeleh Domnului. „Tu știi, Doamne”, spune textul, „că am făcut aceasta cu inimă curată.” Acest Abimeleh se poartă cu totul altfel decât Faraon. El nu este atât de neștiutor și de josnic, ci știe că trebuie să pregătească pentru virtute o „inimă curată”. Și fiindcă a voit să primească virtutea cu inimă curată, de aceea Dumnezeu îl vindecă atunci când Avraam se roagă pentru el. Și Dumnezeu vindecă nu numai pe Abimeleh, ci și pe slujnicele lui."
+   },
+   {
+    "author": "Cartea Dreptului 20 — comparație",
+    "text": "Și Abimelec le-a spus lor, ce este această lucrare pe care voi ați făcut-o spunând că sunteți frate și soră, iar eu am luat-o pe femeia aceasta să îmi fie nevastă?",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 20,
+      "v": 24
+     }
+    }
    }
   ]
  },
@@ -3099,6 +3165,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Abimelec a luat turme și cirezi.» Ca să-l împace să se roage pentru el; și i-a înapoiat soția și a spus: „iată, țara mea este în fața ta”, ca să-l împace, și să se roage, precum i-a spus Sfântul."
+   },
+   {
+    "author": "Cartea Dreptului 20 — comparație",
+    "text": "Și Avraam a spus, deoarece eu am gândit că voi suferi moartea din pricina nevestei mele; iar Abimelec a luat turme și cirezi, și slujitori și slujitoare, și o mie de arginți, și el i le-a dat lui Avraam, și a returnat-o pe Sara la el.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 20,
+      "v": 25
+     }
+    }
    }
   ]
  },

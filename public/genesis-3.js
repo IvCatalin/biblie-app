@@ -455,6 +455,17 @@ window.CHAPTER_DATA = [
       "v": 23
      }
     }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
+    "text": "Dumnezeu a poruncit, așadar, ca Adam și soția lui să mănânce din toate celelalte plante, dar să se ferească de pomul cunoașterii; și le-a prevestit că, dacă se vor atinge de el, aceasta va fi pieirea lor. Dar, pe când toate viețuitoarele aveau o singură limbă, în vremea aceea șarpele, care trăia laolaltă cu Adam și cu soția lui, a arătat o dispoziție pizmașă, la gândul că ei trăiesc fericiți și în ascultare de poruncile lui Dumnezeu; și, închipuindu-și că, dacă ar nesocoti poruncile, ar cădea în nenorociri, a înduplecat-o pe femeie, dintr-o intenție rea, să guste din pomul cunoașterii, spunându-le că în acel pom era cunoașterea binelui și a răului; cunoaștere pe care, dacă ar dobândi-o, ar duce o viață fericită, ba chiar o viață nu mai prejos decât a unui dumnezeu; prin care mijloc a biruit-o pe femeie și a convins-o să disprețuiască porunca lui Dumnezeu. Iar când ea a gustat din acel pom și i-a plăcut rodul lui, l-a convins pe Adam să se folosească și el de el. Atunci au văzut că au ajuns goi unul față de altul; și, rușinându-se să se arate astfel în afară, au născocit ceva cu care să se acopere; căci pomul le-a ascuțit mintea; și s-au acoperit cu frunze de smochin; și legându-le înaintea lor, din sfială, au socotit că sunt mai fericiți decât erau înainte, căci descoperiseră de ce aveau lipsă. Dar când Dumnezeu a venit în grădină, Adam, care obișnuia mai înainte să vină și să vorbească cu El, fiind încredințat de purtarea lui rea, s-a dat la o parte din cale. Această purtare L-a mirat pe Dumnezeu; și a întrebat care era pricina acestui fel al său de a face; și de ce, el, care mai înainte se desfăta în acea convorbire, acum fugea de ea și o ocolea. Când acesta n-a răspuns, știind în sine că călcase porunca lui Dumnezeu, Dumnezeu a zis: „Eu hotărâsem mai înainte despre voi amândoi cum ați putea duce o viață fericită, fără nicio suferință, grijă și chin al sufletului; și ca toate lucrurile care ar putea contribui la desfătarea și plăcerea voastră să crească prin purtarea Mea de grijă, de la sine, fără osteneala și truda voastră; stare de osteneală și trudă care ar aduce curând bătrânețea, iar moartea n-ar fi la mare depărtare: dar acum ai abuzat de această bunăvoință a Mea și ai nesocotit poruncile Mele; căci tăcerea ta nu este semnul virtuții tale, ci al conștiinței tale rele.” Totuși, Adam și-a scuzat păcatul și L-a rugat pe Dumnezeu să nu Se mânie pe el și a pus vina pentru ce se făcuse pe seama soției sale; și a zis că a fost înșelat de ea și de aceea a ajuns vinovat; iar ea, la rândul ei, a învinuit șarpele. Dar Dumnezeu i-a hotărât lui pedeapsă, pentru că s-a supus cu slăbiciune sfatului soției sale; și a zis că pământul nu-și va mai da de acum înainte roadele de la sine, ci că, atunci când va fi muncit de osteneala lor, va aduce o parte din roadele sale și va refuza să le aducă pe celelalte. A făcut-o pe Eva supusă neajunsului nașterii și durerilor ascuțite ale facerii de copii; și aceasta pentru că l-a convins pe Adam cu aceleași argumente cu care o convinsese pe ea șarpele și îl adusese astfel într-o stare nenorocită. A lipsit de asemenea șarpele de vorbire, din indignare față de dispoziția lui rea împotriva lui Adam. Pe lângă aceasta, i-a pus venin sub limbă și l-a făcut dușman al oamenilor; și le-a sugerat ca ei să-și îndrepte loviturile împotriva capului lui, acela fiind locul în care stăteau planurile lui răutăcioase față de oameni și fiind cel mai ușor să se răzbune pe el în acest fel. Și după ce l-a lipsit de folosirea picioarelor, l-a făcut să meargă târându-se de-a lungul și trăgându-se pe pământ. Iar după ce Dumnezeu a rânduit aceste pedepse pentru ei, l-a scos pe Adam și pe Eva din grădină într-un alt loc.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 2,
+      "v": 4
+     }
+    }
    }
   ],
   "textCompare": [
@@ -1661,10 +1672,6 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Dar, pe când toate viețuitoarele aveau o singură limbă, în vremea aceea șarpele, care trăia laolaltă cu Adam și cu soția lui, a arătat o dispoziție pizmașă, la gândul că ei trăiesc fericiți și în ascultare de poruncile lui Dumnezeu; și, închipuindu-și că, dacă ar nesocoti poruncile, ar cădea în nenorociri, a înduplecat-o pe femeie, dintr-o intenție rea, să guste din pomul cunoașterii, spunându-le că în acel pom era cunoașterea binelui și a răului; cunoaștere pe care, dacă ar dobândi-o, ar duce o viață fericită, ba chiar o viață nu mai prejos decât a unui dumnezeu; prin care mijloc a biruit-o pe femeie și a convins-o să disprețuiască porunca lui Dumnezeu."
-   },
-   {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Și femeia a văzut că pomul era plăcut și desfătător la ochi, și că rodul lui era bun de mâncare, și a luat din el și a mâncat. Și după ce și-a acoperit întâi rușinea cu frunze de smochin, i-a dat și lui Adam, și el a mâncat, și i s-au deschis ochii, și a văzut că era gol."
    },
@@ -1762,6 +1769,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 1,
       "v": 7
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și femeia a văzut că pomul era plăcut și desfătător la ochi, și că rodul lui era bun de mâncare, și a luat din el și a mâncat.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 20
      }
     }
    }
@@ -1979,7 +1997,14 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Cartea Jubileelor 3 — comparație",
-    "text": "Și după ce și-a acoperit întâi rușinea cu frunze de smochin, i-a dat și lui Adam, și el a mâncat, și i s-au deschis ochii, și a văzut că era gol. Și a luat frunze de smochin și le-a cusut laolaltă, și și-a făcut un brâu, și și-a acoperit rușinea."
+    "text": "Și după ce și-a acoperit întâi rușinea cu frunze de smochin, i-a dat și lui Adam, și el a mâncat, și i s-au deschis ochii, și a văzut că era gol. Și a luat frunze de smochin și le-a cusut laolaltă, și și-a făcut un brâu, și și-a acoperit rușinea.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 21
+     }
+    }
    },
    {
     "author": "Origen, Împotriva lui Celsus 7.39",
@@ -2020,6 +2045,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 1,
       "v": 8
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și a luat frunze de smochin și le-a cusut laolaltă, și și-a făcut un brâu, și și-a acoperit rușinea.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 22
      }
     }
    }
@@ -2313,10 +2349,6 @@ window.CHAPTER_DATA = [
       "v": 788
      }
     }
-   },
-   {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Atunci au văzut că au ajuns goi unul față de altul; și, rușinându-se să se arate astfel în afară, au născocit ceva cu care să se acopere; căci pomul le-a ascuțit mintea; și s-au acoperit cu frunze de smochin; și legându-le înaintea lor, din sfială, au socotit că sunt mai fericiți decât erau înainte, căci descoperiseră de ce aveau lipsă. Dar când Dumnezeu a venit în grădină, Adam, care obișnuia mai înainte să vină și să vorbească cu El, fiind încredințat de purtarea lui rea, s-a dat la o parte din cale."
    },
    {
     "author": "Ambrozie al Milanului, Despre Paradis 14.68-70",
@@ -2967,10 +2999,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și Domnul Dumnezeu a spus: Cine ți-a spus că ești gol etc.» Explicația: ce s-a schimbat ceasul acesta față de cel dinaintea lui, că stăteai înaintea Mea și nu ai simțit goliciunea până acum? Acest lucru de la tine însuți nu ți se înnoiește în cunoaștere fără un vestitor, iar aceasta este spusa „cine ți-a spus” – prin ce s-a înnoit în cunoașterea ta acest lucru. Iar după ce am explicat că rușinarea lui era din păcat sau din scăderea celor dobândite de la sfințenie și din acoperirea de norul slavei, nu s-ar potrivi să se spună „cine ți-a spus”; ci pricina Creatorului este că nu a voit să-l umilească atât de mult și a vorbit către el în această rânduială „cine ți-a spus”, ca cel care întreabă un lucru, iar această întrebare se potrivește cu ce am explicat, că prin această mâncare au simțit că sunt goi, căci trebuie să știi că toate explicațiile pe care le explicăm ca sens al Scripturilor toate sunt drepte.<br><br>«Ai mâncat oare din pomul etc.» Aici au făcut aluzie că și despre privința pomului l-a poruncit Domnul."
-   },
-   {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "Când acesta n-a răspuns, știind în sine că călcase porunca lui Dumnezeu, Dumnezeu a zis: „Eu hotărâsem mai înainte despre voi amândoi cum ați putea duce o viață fericită, fără nicio suferință, grijă și chin al sufletului; și ca toate lucrurile care ar putea contribui la desfătarea și plăcerea voastră să crească prin purtarea Mea de grijă, de la sine, fără osteneala și truda voastră; stare de osteneală și trudă care ar aduce curând bătrânețea, iar moartea n-ar fi la mare depărtare: dar acum ai abuzat de această bunăvoință a Mea și ai nesocotit poruncile Mele; căci tăcerea ta nu este semnul virtuții tale, ci al conștiinței tale rele.” Totuși, Adam și-a scuzat păcatul și L-a rugat pe Dumnezeu să nu Se mânie pe el și a pus vina pentru ce se făcuse pe seama soției sale; și a zis că a fost înșelat de ea și de aceea a ajuns vinovat; iar ea, la rândul ei, a învinuit șarpele."
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
@@ -3712,10 +3740,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și Domnul Dumnezeu i-a spus șarpelui etc.» Trei lucruri a pricinuit prin vorbirea lui: întâi, a pricinuit îndepărtarea luminii slavei Lui, binecuvântat fie, care se întindea peste Adam și soția lui, după cum am scris mai sus, iar aceasta este taina „veșmintelor de lumină”. Al doilea, a pricinuit ca Adam și Eva să fie tăiați din lumea aceasta, ca să nu trăiască în veac, ca pedeapsa însemnată în Scriptură: „căci în ziua în care vei mânca din el vei muri negreșit”. Al treilea, a pricinuit că nici în zilele în care sunt vii în lume să nu se desfăteze cu desfătarea lui Dumnezeu, după cum este spus: „l-a alungat pe om”.<br><br>Față în față cu cele trei au fost loviți trei: față în față cu dezbrăcarea norului slavei, care este privința „binecuvântatului” (barukh), a spus Domnul către el „blestemat” (arur) etc. Față în față cu tăierea lui Adam din lumea aceasta i-au fost tăiate picioarele, care sunt în măsura lui Adam, privința lipsei acestei lumi, care este picioarele lumii facerii (ʿolam ha-ʿasiya). Căci trebuie să știi că dacă Adam nu ar fi mâncat din pomul cunoașterii, ar fi fost în lumea aceasta și în lumea de sus deodată, ca omul care locuiește în casă și în etaj, iar când a păcătuit a devenit material și nu poate locui în amândouă împreună, ci doar în lumea aceasta de sine stătătoare, iar când va voi să urce la etaj are nevoie de schimbarea materialului, iar aceasta este moartea omului. De aceea au fost tăiate picioarele șarpelui. Iar față în față cu ce a pricinuit, ca să excludă de la Adam și Eva desfătarea Grădinii Edenului, i-a spus „și țărână vei mânca” etc., iar au spus, binecuvântată fie amintirea lor, că tot ce va mânca nu va gusta decât gust de țărână. Și potrivit acestui lucru se va preciza cu temei spusa Sfântului, binecuvântat fie, către șarpe la începutul cuvintelor Lui „pentru că ai făcut aceasta”, explicația: că blestemele cu care îl blestemă Domnul sunt faptele lui pe care le-a făcut, și sunt chiar cuvintele noastre, și înțelege."
-   },
-   {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
-    "text": "A lipsit de asemenea șarpele de vorbire, din indignare față de dispoziția lui rea împotriva lui Adam. Pe lângă aceasta, i-a pus venin sub limbă și l-a făcut dușman al oamenilor; și le-a sugerat ca ei să-și îndrepte loviturile împotriva capului lui, acela fiind locul în care stăteau planurile lui răutăcioase față de oameni și fiind cel mai ușor să se răzbune pe el în acest fel."
    },
    {
     "author": "Cartea Jubileelor 3 — comparație",

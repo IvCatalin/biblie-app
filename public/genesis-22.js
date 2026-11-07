@@ -537,8 +537,26 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 14",
-    "text": "Avraam îl iubea mult pe Isaac, ca pe singurul său născut și dat lui la marginea bătrâneții, prin bunăvoința lui Dumnezeu. Copilul s-a făcut și mai drag părinților săi prin practicarea oricărei virtuți, prin ținerea de datoria față de părinții lui și prin râvna lui în închinarea față de Dumnezeu. Avraam își punea și el fericirea în această nădejde: ca, atunci când va muri, să-l lase pe acest fiu al său într-o stare sigură și neprimejduită; ceea ce a și dobândit prin voia lui Dumnezeu: Care, dorind să facă o încercare a dispoziției religioase a lui Avraam față de El, i S-a arătat și a înșirat toate binecuvântările pe care i le dăduse; cum îl făcuse mai presus de dușmanii lui; și că fiul său Isaac, care era partea cea mai de seamă a fericirii lui de atunci, venea de la El; și a spus că cere pe acest fiu al lui ca jertfă și dar sfânt. Astfel, i-a poruncit să-l ducă pe muntele Moria, să zidească un altar și să-l aducă pe el ca ardere-de-tot pe el; căci aceasta ar arăta cel mai bine dispoziția lui religioasă față de El, dacă va prefera ce era plăcut lui Dumnezeu înaintea păstrării propriului său fiu."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 13",
+    "text": "Avraam îl iubea mult pe Isaac, ca pe singurul său născut și dat lui la marginea bătrâneții, prin bunăvoința lui Dumnezeu. Copilul s-a făcut și mai drag părinților săi prin practicarea oricărei virtuți, prin ținerea de datoria față de părinții lui și prin râvna lui în închinarea față de Dumnezeu. Avraam își punea și el fericirea în această nădejde: ca, atunci când va muri, să-l lase pe acest fiu al său într-o stare sigură și neprimejduită; ceea ce a și dobândit prin voia lui Dumnezeu: Care, dorind să facă o încercare a dispoziției religioase a lui Avraam față de El, i S-a arătat și a înșirat toate binecuvântările pe care i le dăduse; cum îl făcuse mai presus de dușmanii lui; și că fiul său Isaac, care era partea cea mai de seamă a fericirii lui de atunci, venea de la El; și a spus că cere pe acest fiu al lui ca jertfă și dar sfânt. Astfel, i-a poruncit să-l ducă pe muntele Moria, să zidească un altar și să-l aducă pe el ca ardere-de-tot pe el; căci aceasta ar arăta cel mai bine dispoziția lui religioasă față de El, dacă va prefera ce era plăcut lui Dumnezeu înaintea păstrării propriului său fiu.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 14,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și El i-a spus lui: Ia acum pe fiul tău, unicul tău fiu născut pe care tu îl iubești, chiar Isaac, și mergi la ținutul Moria, și oferă-l pe el acolo ca sacrificiu ars pe unul din munți, care îți va fi arătat ție, căci acolo tu vei vedea un nor și gloria Domnului.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -882,6 +900,39 @@ window.CHAPTER_DATA = [
       "v": 3
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și Sara l-a luat pe fiul ei Isaac iar el a stat toată acea noapte cu ea, și ea l-a pupat și l-a îmbrățișat, și i-a dat instrucțiuni până dimineața.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și Avraam a luat doi dintre tinerii săi cu el, pe Ismael fiul lui Agar, și pe Eliezer slujitorul său, și au mers împreună cu ei, și pe când mergeau pe drum, tinerii au vorbit aceste cuvinte între ei.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 21
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și Avraam a mers cu Isaac către locul pe care Dumnezeu i-l spuseseră lui.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 40
+     }
+    }
    }
   ]
  },
@@ -1083,12 +1134,30 @@ window.CHAPTER_DATA = [
     "text": "«Avraam și-a ridicat ochii.» Iar vav din „va-yissa” este în plus."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 14",
-    "text": "Avraam a socotit că nu este drept să nu asculte de Dumnezeu în nimic, ci că este dator să-I slujească în orice împrejurare a vieții, de vreme ce toate făpturile care trăiesc se bucură de viața lor prin purtarea Lui de grijă și prin bunătatea pe care le-o dăruiește. Astfel, a ascuns această poruncă a lui Dumnezeu și propriile lui gânduri despre înjunghierea fiului său de soția lui, ca și de fiecare dintre slujitorii lui, ca să nu fie împiedicat de la ascultarea față de Dumnezeu; și l-a luat pe Isaac, împreună cu doi dintre slujitorii lui și, punând pe un măgar cele de trebuință pentru o jertfă, a plecat spre munte. Cei doi slujitori au mers cu el două zile; dar în ziua a treia, de îndată ce a văzut muntele, i-a lăsat în câmpie pe slujitorii care fuseseră cu el până atunci și, având singur cu el pe fiul său, a venit la munte. Era muntele pe care regele David a zidit mai târziu templul. Aduseseră cu ei tot ce era de trebuință pentru o jertfă, afară de animalul care urma să fie adus. Isaac avea douăzeci și cinci de ani. Și pe când zidea altarul, el l-a întrebat pe tatăl său ce urma să aducă, de vreme ce nu era acolo niciun animal pentru jertfă: — la care i s-a răspuns: „Că Dumnezeu Își va pregăti Singur o jertfă, fiind în stare să facă oamenilor o rânduială îmbelșugată din ceea ce nu au și să-i lipsească pe alții de ceea ce au deja, când își pun prea multă încredere în aceasta; că, de aceea, dacă va binevoi Dumnezeu să fie de față și binevoitor la această jertfă, Își va pregăti Singur o jertfă.”"
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 13",
+    "text": "Avraam a socotit că nu este drept să nu asculte de Dumnezeu în nimic, ci că este dator să-I slujească în orice împrejurare a vieții, de vreme ce toate făpturile care trăiesc se bucură de viața lor prin purtarea Lui de grijă și prin bunătatea pe care le-o dăruiește. Astfel, a ascuns această poruncă a lui Dumnezeu și propriile lui gânduri despre înjunghierea fiului său de soția lui, ca și de fiecare dintre slujitorii lui, ca să nu fie împiedicat de la ascultarea față de Dumnezeu; și l-a luat pe Isaac, împreună cu doi dintre slujitorii lui și, punând pe un măgar cele de trebuință pentru o jertfă, a plecat spre munte. Cei doi slujitori au mers cu el două zile; dar în ziua a treia, de îndată ce a văzut muntele, i-a lăsat în câmpie pe slujitorii care fuseseră cu el până atunci și, având singur cu el pe fiul său, a venit la munte. Era muntele pe care regele David a zidit mai târziu templul. Aduseseră cu ei tot ce era de trebuință pentru o jertfă, afară de animalul care urma să fie adus. Isaac avea douăzeci și cinci de ani. Și pe când zidea altarul, el l-a întrebat pe tatăl său ce urma să aducă, de vreme ce nu era acolo niciun animal pentru jertfă: — la care i s-a răspuns: „Că Dumnezeu Își va pregăti Singur o jertfă, fiind în stare să facă oamenilor o rânduială îmbelșugată din ceea ce nu au și să-i lipsească pe alții de ceea ce au deja, când își pun prea multă încredere în aceasta; că, de aceea, dacă va binevoi Dumnezeu să fie de față și binevoitor la această jertfă, Își va pregăti Singur o jertfă.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 14,
+      "v": 2
+     }
+    }
    },
    {
     "author": "Origen, Omilii la Facere",
     "text": "Ziua a treia, însă, se aplică totdeauna tainelor. Căci și când poporul a ieșit din Egipt, aduce jertfă lui Dumnezeu în ziua a treia și se curăță în ziua a treia. Iar ziua a treia este ziua învierii Domnului. Multe alte taine sunt cuprinse și ele în această zi."
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și în a treia zi Avraam și-a ridicat ochii săi și a văzut locul la distanță de care Dumnezeu îi spuseseră lui.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 41
+     }
+    }
    }
   ]
  },
@@ -1314,6 +1383,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 18,
       "v": 4
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Iar ei au răspuns și au spus, nu vedem nimic mai mult decât precum ceilalți munți ai pământului. Iar Avraam știa că ei nu au fost acceptați înaintea Domnului să meargă cu ei, iar Avraam le-a spus lor, rămâneți voi aici cu asinul cât eu și Isaac fiul meu vom merge la acel munte și slujim acolo înaintea Domnului iar apoi revin la voi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 47
      }
     }
    }
@@ -1566,6 +1646,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Origen, Omilii la Facere",
     "text": "Faptul că Isaac poartă pe sine „lemnul pentru arderea-de-tot” este un chip, pentru că și Hristos „Și-a purtat singur crucea”, și totuși a purta „lemnul pentru arderea-de-tot” este datoria unui preot. El devine deci jertfă și preot. Dar ceea ce se adaugă se leagă tot de aceasta: „Și au mers amândoi împreună.” Căci, când Avraam duce focul și cuțitul ca pentru a jertfi, Isaac nu merge în urma lui, ci cu el, ca să se arate că dă o contribuție egală cu însăși preoția."
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și Avraam a luat lemnul pentru sacrificiu ars și l-a pus pe fiul său Isaac, și a luat focul și cuțitul, și ei amândoi au mers la acel loc.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 49
+     }
+    }
    }
   ]
  },
@@ -1811,6 +1902,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Origen, Omilii la Facere",
     "text": "Ce se întâmplă după aceasta? „Isaac”, spune textul, „a zis lui Avraam, tatăl său: «Tată!»” Și în acest moment cuvântul încercării este rostit de fiu. Căci cum ți-l închipui pe fiul ce urma să fie ucis lovind inima tatălui cu acest cuvânt? Și deși Avraam era foarte neclintit prin credința lui, totuși a întors și el un cuvânt de dragoste și a răspuns: „Ce este, fiule?” Iar Isaac zice: „Iată focul și lemnele. Unde este oaia pentru arderea-de-tot?”"
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și când ei mergeau, Isaac i-a spus tatălui său, iată, eu văd focul și lemnul, și unde este atunci mielul care e să fie sacrificiul ars înaintea Domnului?",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 50
+     }
+    }
    }
   ]
  },
@@ -2317,8 +2419,48 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 14",
-    "text": "De îndată ce altarul a fost pregătit și Avraam a așezat lemnele și toate erau cu totul gata, a spus fiului său: „O, fiule, am revărsat o mulțime nesfârșită de rugăciuni ca să te am de fiu; când ai venit în lume, nu era nimic care să poată contribui la întreținerea ta de care să nu mă fi îngrijit mult, nici ceva în care să mă fi socotit mai fericit decât să te văd crescut la vârsta bărbatului și să te pot lăsa, la moartea mea, urmaș în stăpânirea mea; dar de vreme ce prin voia lui Dumnezeu am ajuns tatăl tău și acum voia Lui este ca eu să te las, poartă această consacrare către Dumnezeu cu o inimă largă; căci te dau lui Dumnezeu, Care a socotit cu cale să ceară acum această mărturie de cinste pentru Sine, din pricina binefacerilor pe care mi le-a făcut, fiind pentru mine un sprijin și un apărător. Astfel, tu, fiul meu, vei muri acum, nu într-un fel obișnuit de a ieși din lume, ci trimis la Dumnezeu, Tatăl tuturor oamenilor, mai înainte, de către propriul tău tată, în chipul unei jertfe. Socotesc că El te găsește vrednic să scapi de această lume nici prin boală, nici prin război, nici prin vreun alt fel aspru prin care moartea vine de obicei peste oameni, ci astfel că îți va primi sufletul cu rugăciuni și cu slujbe sfinte de religie și te va pune aproape de Sine, și acolo vei fi pentru mine un ajutor și un sprijin la bătrânețea mea; pricină pentru care te-am crescut mai ales și prin care îmi vei dobândi pe Dumnezeu drept Mângâietor în locul tău.”"
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 13",
+    "text": "De îndată ce altarul a fost pregătit și Avraam a așezat lemnele și toate erau cu totul gata, a spus fiului său: „O, fiule, am revărsat o mulțime nesfârșită de rugăciuni ca să te am de fiu; când ai venit în lume, nu era nimic care să poată contribui la întreținerea ta de care să nu mă fi îngrijit mult, nici ceva în care să mă fi socotit mai fericit decât să te văd crescut la vârsta bărbatului și să te pot lăsa, la moartea mea, urmaș în stăpânirea mea; dar de vreme ce prin voia lui Dumnezeu am ajuns tatăl tău și acum voia Lui este ca eu să te las, poartă această consacrare către Dumnezeu cu o inimă largă; căci te dau lui Dumnezeu, Care a socotit cu cale să ceară acum această mărturie de cinste pentru Sine, din pricina binefacerilor pe care mi le-a făcut, fiind pentru mine un sprijin și un apărător. Astfel, tu, fiul meu, vei muri acum, nu într-un fel obișnuit de a ieși din lume, ci trimis la Dumnezeu, Tatăl tuturor oamenilor, mai înainte, de către propriul tău tată, în chipul unei jertfe. Socotesc că El te găsește vrednic să scapi de această lume nici prin boală, nici prin război, nici prin vreun alt fel aspru prin care moartea vine de obicei peste oameni, ci astfel că îți va primi sufletul cu rugăciuni și cu slujbe sfinte de religie și te va pune aproape de Sine, și acolo vei fi pentru mine un ajutor și un sprijin la bătrânețea mea; pricină pentru care te-am crescut mai ales și prin care îmi vei dobândi pe Dumnezeu drept Mângâietor în locul tău.”",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 14,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și Avraam s-a bucurat mult la cuvintele lui Isaac, iar ei au mers în continuare și au venit împreună la locul de care Domnul spusese.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 57
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și el l-a luat pe fiul său Isaac și l-a legat ca să îl poată pune deasupra lemnului care era pe altar, să îl ucidă pentru un sacrificiu ars înaintea Domnului.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 60
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și Avraam l-a legat pe fiul său Isaac, și l-a așezat pe altar deasupra lemnului, iar Isaac și-a întins gâtul pe altar înaintea tatălui său, și Avraam și-a întins mâna să ia cuțitul să îl ucidă pe fiul său ca sacrificiu ars înaintea Domnului.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 65
+     }
+    }
    }
   ]
  },
@@ -2470,8 +2612,15 @@ window.CHAPTER_DATA = [
     "text": "«Ca să-și înjunghie fiul»: ca să-l înjunghie mai întâi pe altar, și după aceea să-l mistuie focul, după felul jertfei."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 14",
-    "text": "Isaac era de o dispoziție atât de largă cum se cuvenea fiului unui asemenea tată și s-a bucurat de această cuvântare; și a zis: „Că nu ar fi fost vrednic să se nască de la început, dacă ar respinge hotărârea lui Dumnezeu și a tatălui său și nu s-ar da de bunăvoie ambelor lor plăceri; căci ar fi fost nedrept dacă nu ar fi ascultat, chiar dacă numai tatăl său ar fi hotărât astfel.” Așa că a mers îndată la altar, ca să fie jertfit. Și fapta s-ar fi săvârșit dacă Dumnezeu nu s-ar fi împotrivit; căci L-a strigat cu glas tare pe Avraam pe nume și i-a oprit să-și înjunghie fiul; și a zis: „Nu dintr-o dorință de sânge omenesc i s-a poruncit să-și înjunghie fiul, nici nu voia să i-l ia pe acela pe care îl făcuse tată, ci să încerce firea minții lui, dacă va fi ascultător de o asemenea poruncă. Fiindcă, deci, acum este mulțumit de sârguința lui și de uimitoarea gata ascultare pe care a arătat-o în această evlavie a lui, s-a bucurat că i-a dat asemenea binecuvântări; și că nu va lipsi de la tot felul de grijă pentru el și de la a-i da alți copii; și că fiul său va trăi până la o bătrânețe foarte mare; că va trăi o viață fericită și va lăsa copiilor săi, care vor fi buni și legitimi, o mare stăpânire.” A prevestit, de asemenea, că familia lui se va înmulți în multe neamuri și că acei patriarhi vor lăsa în urma lor un nume veșnic; că vor dobândi stăpânirea țării Canaanului și vor fi pizmuiți de toți oamenii. După ce Dumnezeu a spus aceasta, a adus înaintea lor un berbec, care nu se arătase mai înainte, pentru jertfă. Astfel, Avraam și Isaac, primindu-se unul pe altul pe neașteptate și dobândind făgăduințele unor binecuvântări atât de mari, s-au îmbrățișat; și, după ce au jertfit, s-au întors la Sara și au trăit fericiți împreună, Dumnezeu dându-le ajutorul Său în toate lucrurile pe care le doreau."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 13",
+    "text": "Isaac era de o dispoziție atât de largă cum se cuvenea fiului unui asemenea tată și s-a bucurat de această cuvântare; și a zis: „Că nu ar fi fost vrednic să se nască de la început, dacă ar respinge hotărârea lui Dumnezeu și a tatălui său și nu s-ar da de bunăvoie ambelor lor plăceri; căci ar fi fost nedrept dacă nu ar fi ascultat, chiar dacă numai tatăl său ar fi hotărât astfel.” Așa că a mers îndată la altar, ca să fie jertfit. Și fapta s-ar fi săvârșit dacă Dumnezeu nu s-ar fi împotrivit; căci L-a strigat cu glas tare pe Avraam pe nume și i-a oprit să-și înjunghie fiul; și a zis: „Nu dintr-o dorință de sânge omenesc i s-a poruncit să-și înjunghie fiul, nici nu voia să i-l ia pe acela pe care îl făcuse tată, ci să încerce firea minții lui, dacă va fi ascultător de o asemenea poruncă. Fiindcă, deci, acum este mulțumit de sârguința lui și de uimitoarea gata ascultare pe care a arătat-o în această evlavie a lui, s-a bucurat că i-a dat asemenea binecuvântări; și că nu va lipsi de la tot felul de grijă pentru el și de la a-i da alți copii; și că fiul său va trăi până la o bătrânețe foarte mare; că va trăi o viață fericită și va lăsa copiilor săi, care vor fi buni și legitimi, o mare stăpânire.” A prevestit, de asemenea, că familia lui se va înmulți în multe neamuri și că acei patriarhi vor lăsa în urma lor un nume veșnic; că vor dobândi stăpânirea țării Canaanului și vor fi pizmuiți de toți oamenii. După ce Dumnezeu a spus aceasta, a adus înaintea lor un berbec, care nu se arătase mai înainte, pentru jertfă. Astfel, Avraam și Isaac, primindu-se unul pe altul pe neașteptate și dobândind făgăduințele unor binecuvântări atât de mari, s-au îmbrățișat; și, după ce au jertfit, s-au întors la Sara și au trăit fericiți împreună, Dumnezeu dându-le ajutorul Său în toate lucrurile pe care le doreau.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 14,
+      "v": 4
+     }
+    }
    },
    {
     "author": "Sfântul Ambrozie, Despre moartea fratelui său Satyrus II",
@@ -2948,6 +3097,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Omilii la Evanghelii",
     "text": "În același chip i-a zis lui Avraam: „Acum știu că te temi de Dumnezeu”, prin care spunea: „Acum am făcut cunoscut oamenilor (care până acum nu știau) ceea ce Eu, în gândul Meu, socoteam totdeauna sigur, [anume] că te temi de Dumnezeu.”"
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "La acea vreme Domnul i-a apărut lui Avraam, și strigat la el, din cer, și i-a spus lui: Nu îți abate mâna asupra băiatului, nici nu îi face ceva lui, căci acum Eu știu că tu te temi de Dumnezeu făcând acest lucru, și nereținând pe fiul tău, singurul tău fiu, de la Mine.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 69
+     }
+    }
    }
   ]
  },
@@ -3267,6 +3427,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Efrem Sirul, Comentariu la Facere",
     "text": "Muntele a scuipat copacul, iar copacul berbecul. În berbecul care atârna în copac și ajunsese jertfă în locul fiului lui Avraam putea fi închipuită ziua Aceluia care avea să atârne pe lemn ca un berbec și să guste moartea pentru toată lumea."
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și Avraam și-a ridicat ochii și a văzut, și iată, un berbec era prins într-un tufiș de coarnele lui; acela era berbecul pe care Domnul Dumnezeu îl crease pe pământ în ziua când El a făcut pământul și cerul.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 70
+     }
+    }
    }
   ]
  },
@@ -4545,6 +4716,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 18,
       "v": 17
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și când Avraam terminase slujba sa s-a întors cu fiul său Isaac la tinerii săi, și s-au ridicat și au mers împreună la Beerșeba, și au venit acasă.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 87
      }
     }
    }

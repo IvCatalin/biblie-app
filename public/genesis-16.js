@@ -787,6 +787,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«La capătul a zece ani.» A spus că, de când s-au așezat în țara Canaanului, a mai așteptat zece ani, căci a socotit că acolo îi va da lui Avraam un fiu de la ea; căci așa i-a spus: „Pleacă din țara ta”, și după aceea: „Și te voi face un neam mare”. De vreme ce a zăbovit zece ani și nu a născut, a spus: sunt deja bătrână, nu mai este nădejde să aibă un fiu de la mine; îi voi da slujnica mea. Și au spus învățătorii noștri, binecuvântată fie amintirea lor: dacă a luat o femeie și a zăbovit cu ea zece ani și nu a născut, nu îi este îngăduit să înceteze; ci s-o lase să plece și să-i dea ketubba; poate nu a avut meritul să fie zidit prin ea. Și deși nu este o dovadă pentru lucru, este o aluzie la lucru: „la capătul a zece ani de ședere a lui Avram în țara Canaanului”, ca să te învețe că locuirea în afara Țării nu i se socotește în număr; și aceasta din motivul pe care l-am pomenit."
+   },
+   {
+    "author": "Cartea Jubileelor 14 — comparație",
+    "text": "Și Avram a ascultat de glasul Sarai, soția sa, și i-a zis: Fă așa. Și Sarai a luat-o pe Agar, roaba ei, egipteanca, și a dat-o lui Avram, soțul ei, să-i fie soție.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 14,
+      "v": 23
+     }
+    }
    }
   ]
  },

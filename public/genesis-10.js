@@ -211,6 +211,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Despre învățătura creștină",
     "text": "În aceeași carte [a Genezei], când ni se amintesc neamurile fiilor lui Noe, citim: „Aceștia sunt fiii lui Ham, după semințiile lor, după limbile lor, după țările lor și după neamurile lor.” Tot așa, înșirând pe fiii lui Șem, se spune: „Aceștia sunt fiii lui Șem, după semințiile lor, după limbile lor, după țările lor și după neamurile lor.” Și despre toți laolaltă se adaugă: „Acestea sunt semințiile fiilor lui Noe, după neamurile lor și după popoarele lor. Din ei s-au împrăștiat insulele neamurilor pe pământ după potop. Și tot pământul avea o singură limbă și un singur grai.” Așadar, fiindcă s-a adăugat această frază: „Și tot pământul avea o singură limbă și un singur grai” (adică o singură limbă pentru toți), s-ar putea înțelege că în vremea aceea, când oamenii se risipiseră pe pământ după insulele neamurilor, ei aveau toți o limbă comună. Fără îndoială, aceasta se împotrivește cuvintelor de mai sus, „după semințiile și limbile lor”. Căci despre fiecare seminție care alcătuise neamuri aparte nu s-ar spune că avea limba ei, dacă toți aveau una comună. De aceea se adaugă, printr-o recapitulare: „Și tot pământul avea o singură limbă și un singur grai.” Povestirea se întoarce, fără s-o spună, ca să arate cum s-a rupt limba cea una a tuturor oamenilor în mai multe limbi. Și îndată ni se vorbește despre zidirea turnului, când această pedeapsă pentru mândria lor a fost pusă asupra lor prin judecata dumnezeiască. După aceea s-au risipit pe pământ după limbile lor."
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 6",
+    "text": "Noe, după ce, în urma potopului, pământul a fost așezat din nou în starea lui de mai înainte, s-a apucat să-l lucreze; și când l-a sădit cu vii și rodul s-a copt și a cules strugurii la vremea lor, iar vinul era gata de folosit, a adus jertfă și a ospătat și, îmbătându-se, a adormit și a zăcut gol într-un chip necuviincios. Când l-a văzut astfel fiul său cel mai tânăr, a venit râzând și l-a arătat fraților săi; dar ei au acoperit goliciunea tatălui lor. Și când Noe a fost înștiințat de ce se făcuse, s-a rugat pentru izbânda celorlalți fii ai săi; dar pe Ham nu l-a blestemat, din pricina apropierii de sânge, ci a blestemat izbânda lui: și, pe când ceilalți au scăpat de acel blestem, Dumnezeu l-a aplicat asupra copiilor lui Canaan. Dar despre aceste lucruri vom vorbi mai mult în cele ce urmează.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 7,
+      "v": 3
+     }
+    }
    }
   ]
  },
@@ -431,8 +442,15 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 7",
-    "text": "Ei erau nepoții lui Noe, în cinstea cărora au fost puse nume neamurilor de către cei care au pus mai întâi stăpânire pe ele. Iafet, fiul lui Noe, a avut șapte fii: ei au locuit astfel încât, începând de la munții Taurus și Amanus, au înaintat de-a lungul Asiei până la râul Tanais și, de-a lungul Europei, până la Cadiz; și, așezându-se pe pământurile pe care le-au găsit și pe care nimeni nu le locuise mai înainte, au numit neamurile cu numele lor. Căci Gomer a întemeiat pe cei pe care grecii îi numesc acum galateni, [gali], dar care se numeau atunci gomeriți. Magog a întemeiat pe cei care de la el s-au numit magogiți, dar care sunt numiți de greci sciți. Cât despre Iavan și Madai, fiii lui Iafet: din Madai au venit madeii, care sunt numiți mezi de către greci; iar din Iavan se trag Ionia și toți grecii. Tobel i-a întemeiat pe tobeliți, care se numesc acum iberi; iar mosochenii au fost întemeiați de Mosoh; acum ei sunt capadocieni. Se mai arată încă un semn al numelui lor străvechi: căci și acum se află între ei o cetate numită Mazaca, care poate să-i înștiințeze pe cei în stare să înțeleagă că astfel se chema odinioară tot neamul. Tiras i-a numit, de asemenea, tirasieni pe cei peste care a domnit; dar grecii au schimbat numele în traci. Și atât de multe au fost țările care i-au avut ca locuitori pe copiii lui Iafet. Dintre cei trei fii ai lui Gomer, Aschanax i-a întemeiat pe aschanaxieni, care sunt numiți acum de greci reghinieni. Tot astfel Rifat i-a întemeiat pe rifeeni, numiți acum paflagonieni; iar Trugrama pe trugrameeni, care, după cum au hotărât grecii, au fost numiți frigieni. Dintre cei trei fii ai lui Iavan, de asemenea, fiul lui Iafet, Elisa a dat numele eliseenilor, care îi erau supuși; ei sunt acum eolienii. Tarsus a dat numele tarsienilor, căci astfel se chema Cilicia din vechime; semnul acestui lucru este că cea mai nobilă cetate pe care o au, și totodată o metropolă, este Tarsul, tau fiind pus prin schimbare în locul lui teta. Cetim a stăpânit insula Cetima: ea se numește acum Cipru; și de aici vine faptul că toate insulele și cea mai mare parte a țărmurilor mării sunt numite Cetim de către evrei: și o singură cetate este în Cipru care a putut să-și păstreze numele; a fost numită Citius de cei care folosesc limba grecilor și nu a scăpat, prin folosirea acelui dialect, de numele de Cetim. Și atâtea neamuri au stăpânit copiii și nepoții lui Iafet. Acum, după ce voi fi spus mai dinainte ceva ce poate grecii nu știu, mă voi întoarce și voi explica ce am lăsat deoparte; căci asemenea nume sunt rostite aici după felul grecilor, spre a le plăcea cititorilor mei; căci limba țării noastre nu le rostește astfel: dar numele, în toate cazurile, au aceeași terminație; căci numele pe care îl rostim aici Noeas este acolo Noe și păstrează în orice caz aceeași terminație."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 6",
+    "text": "Ei erau nepoții lui Noe, în cinstea cărora au fost puse nume neamurilor de către cei care au pus mai întâi stăpânire pe ele. Iafet, fiul lui Noe, a avut șapte fii: ei au locuit astfel încât, începând de la munții Taurus și Amanus, au înaintat de-a lungul Asiei până la râul Tanais și, de-a lungul Europei, până la Cadiz; și, așezându-se pe pământurile pe care le-au găsit și pe care nimeni nu le locuise mai înainte, au numit neamurile cu numele lor. Căci Gomer a întemeiat pe cei pe care grecii îi numesc acum galateni, [gali], dar care se numeau atunci gomeriți. Magog a întemeiat pe cei care de la el s-au numit magogiți, dar care sunt numiți de greci sciți. Cât despre Iavan și Madai, fiii lui Iafet: din Madai au venit madeii, care sunt numiți mezi de către greci; iar din Iavan se trag Ionia și toți grecii. Tobel i-a întemeiat pe tobeliți, care se numesc acum iberi; iar mosochenii au fost întemeiați de Mosoh; acum ei sunt capadocieni. Se mai arată încă un semn al numelui lor străvechi: căci și acum se află între ei o cetate numită Mazaca, care poate să-i înștiințeze pe cei în stare să înțeleagă că astfel se chema odinioară tot neamul. Tiras i-a numit, de asemenea, tirasieni pe cei peste care a domnit; dar grecii au schimbat numele în traci. Și atât de multe au fost țările care i-au avut ca locuitori pe copiii lui Iafet. Dintre cei trei fii ai lui Gomer, Aschanax i-a întemeiat pe aschanaxieni, care sunt numiți acum de greci reghinieni. Tot astfel Rifat i-a întemeiat pe rifeeni, numiți acum paflagonieni; iar Trugrama pe trugrameeni, care, după cum au hotărât grecii, au fost numiți frigieni. Dintre cei trei fii ai lui Iavan, de asemenea, fiul lui Iafet, Elisa a dat numele eliseenilor, care îi erau supuși; ei sunt acum eolienii. Tarsus a dat numele tarsienilor, căci astfel se chema Cilicia din vechime; semnul acestui lucru este că cea mai nobilă cetate pe care o au, și totodată o metropolă, este Tarsul, tau fiind pus prin schimbare în locul lui teta. Cetim a stăpânit insula Cetima: ea se numește acum Cipru; și de aici vine faptul că toate insulele și cea mai mare parte a țărmurilor mării sunt numite Cetim de către evrei: și o singură cetate este în Cipru care a putut să-și păstreze numele; a fost numită Citius de cei care folosesc limba grecilor și nu a scăpat, prin folosirea acelui dialect, de numele de Cetim. Și atâtea neamuri au stăpânit copiii și nepoții lui Iafet. Acum, după ce voi fi spus mai dinainte ceva ce poate grecii nu știu, mă voi întoarce și voi explica ce am lăsat deoparte; căci asemenea nume sunt rostite aici după felul grecilor, spre a le plăcea cititorilor mei; căci limba țării noastre nu le rostește astfel: dar numele, în toate cazurile, au aceeași terminație; căci numele pe care îl rostim aici Noeas este acolo Noe și păstrează în orice caz aceeași terminație.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 7,
+      "v": 1
+     }
+    }
    },
    {
     "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament",
@@ -1072,8 +1090,15 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 7",
-    "text": "Copiii lui Ham au stăpânit țara dinspre Siria și Amanus și munții Libanului; punând stăpânire pe tot ce era pe țărmurile ei și până la ocean și ținând-o ca a lor. Unele dintre numele ei au pierit cu totul; altele, schimbate și primind un alt sunet, cu greu mai pot fi descoperite; totuși sunt câteva care și-au păstrat numele întreg. Căci dintre cei patru fii ai lui Ham, timpul nu a vătămat deloc numele lui Cuș; căci etiopienii, peste care a domnit el, sunt și astăzi numiți atât de ei înșiși, cât și de toți oamenii din Asia, cușiți. Amintirea mesraiților se păstrează, de asemenea, în numele lor; căci noi toți, cei ce locuim această țară [Iudeea], numim Egiptul Mestre și pe egipteni mestreeni. Fut a fost, de asemenea, întemeietorul Libiei și i-a numit pe locuitori futiți, după el însuși; este și un râu în țara mauritanilor care poartă acest nume; de aceea putem vedea că cea mai mare parte a istoricilor greci pomenesc acel râu și țara învecinată cu numele de Fut; dar numele pe care îl are acum i-a fost dat, prin schimbare, de la unul dintre fiii lui Mesraim, care se chema Libios. Vă vom face cunoscut îndată care a fost pricina pentru care a fost numită și Africa. Canaan, al patrulea fiu al lui Ham, a locuit țara numită acum Iudeea și a numit-o, după numele său, Canaan. Copiii acestor [patru] au fost aceștia: Saba, care i-a întemeiat pe sabeeni; Evila, care i-a întemeiat pe evileeni, care sunt numiți getuli; Sabata i-a întemeiat pe sabateni, care sunt numiți acum de greci astaboreni; Sabacta i-a așezat pe sabactenii; iar Ragmus pe ragmeeni; și el a avut doi fii, dintre care unul, Iudada, i-a așezat pe iudadeeni, un neam din etiopienii de apus, și le-a lăsat numele său; la fel și Saba sabeenilor: dar Nimrod, fiul lui Cuș, a rămas și a tiranizat la Babilon, după cum v-am arătat deja. Toți copiii lui Mesraim, în număr de opt, au stăpânit țara de la Gaza până la Egipt, deși ea a păstrat numele unuia singur, filistinii; căci grecii numesc o parte din acea țară Palestina. Cât despre ceilalți, Ludiem, Enemim și Labim, care singur a locuit în Libia și a numit țara după el însuși, Nedim, Fetrosim, Cheslom și Cefthorim, nu știm nimic despre ei afară de nume; căci războiul etiopian, pe care îl vom descrie mai târziu, a fost pricina pentru care acele cetăți au fost nimicite. Fiii lui Canaan au fost aceștia: Sidonius, care a zidit și o cetate cu același nume; ea este numită de greci Sidon; Amatus a locuit în Amatina, care se numește și acum Amate de către locuitori, deși macedonenii au numit-o Epifania, după unul dintre urmașii lui; Arudeus a stăpânit insula Aradus; Arucas a stăpânit Arce, care este în Liban. Dar cât despre ceilalți șapte, [Eveul,] Chetteul, Iebuseul, Amoreul, Ghergheseul, Eudeul, Sineul, Samareul, nu avem în cărțile sfinte nimic afară de numele lor, căci evreii le-au nimicit cetățile; iar nenorocirile lor au venit peste ei cu prilejul următor."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 6",
+    "text": "Copiii lui Ham au stăpânit țara dinspre Siria și Amanus și munții Libanului; punând stăpânire pe tot ce era pe țărmurile ei și până la ocean și ținând-o ca a lor. Unele dintre numele ei au pierit cu totul; altele, schimbate și primind un alt sunet, cu greu mai pot fi descoperite; totuși sunt câteva care și-au păstrat numele întreg. Căci dintre cei patru fii ai lui Ham, timpul nu a vătămat deloc numele lui Cuș; căci etiopienii, peste care a domnit el, sunt și astăzi numiți atât de ei înșiși, cât și de toți oamenii din Asia, cușiți. Amintirea mesraiților se păstrează, de asemenea, în numele lor; căci noi toți, cei ce locuim această țară [Iudeea], numim Egiptul Mestre și pe egipteni mestreeni. Fut a fost, de asemenea, întemeietorul Libiei și i-a numit pe locuitori futiți, după el însuși; este și un râu în țara mauritanilor care poartă acest nume; de aceea putem vedea că cea mai mare parte a istoricilor greci pomenesc acel râu și țara învecinată cu numele de Fut; dar numele pe care îl are acum i-a fost dat, prin schimbare, de la unul dintre fiii lui Mesraim, care se chema Libios. Vă vom face cunoscut îndată care a fost pricina pentru care a fost numită și Africa. Canaan, al patrulea fiu al lui Ham, a locuit țara numită acum Iudeea și a numit-o, după numele său, Canaan. Copiii acestor [patru] au fost aceștia: Saba, care i-a întemeiat pe sabeeni; Evila, care i-a întemeiat pe evileeni, care sunt numiți getuli; Sabata i-a întemeiat pe sabateni, care sunt numiți acum de greci astaboreni; Sabacta i-a așezat pe sabactenii; iar Ragmus pe ragmeeni; și el a avut doi fii, dintre care unul, Iudada, i-a așezat pe iudadeeni, un neam din etiopienii de apus, și le-a lăsat numele său; la fel și Saba sabeenilor: dar Nimrod, fiul lui Cuș, a rămas și a tiranizat la Babilon, după cum v-am arătat deja. Toți copiii lui Mesraim, în număr de opt, au stăpânit țara de la Gaza până la Egipt, deși ea a păstrat numele unuia singur, filistinii; căci grecii numesc o parte din acea țară Palestina. Cât despre ceilalți, Ludiem, Enemim și Labim, care singur a locuit în Libia și a numit țara după el însuși, Nedim, Fetrosim, Cheslom și Cefthorim, nu știm nimic despre ei afară de nume; căci războiul etiopian, pe care îl vom descrie mai târziu, a fost pricina pentru care acele cetăți au fost nimicite. Fiii lui Canaan au fost aceștia: Sidonius, care a zidit și o cetate cu același nume; ea este numită de greci Sidon; Amatus a locuit în Amatina, care se numește și acum Amate de către locuitori, deși macedonenii au numit-o Epifania, după unul dintre urmașii lui; Arudeus a stăpânit insula Aradus; Arucas a stăpânit Arce, care este în Liban. Dar cât despre ceilalți șapte, [Eveul,] Chetteul, Iebuseul, Amoreul, Ghergheseul, Eudeul, Sineul, Samareul, nu avem în cărțile sfinte nimic afară de numele lor, căci evreii le-au nimicit cetățile; iar nenorocirile lor au venit peste ei cu prilejul următor.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 7,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -1459,8 +1484,15 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 5",
-    "text": "Nimrod a fost cel care i-a îndemnat la o asemenea jignire și dispreț față de Dumnezeu. El era nepotul lui Ham, fiul lui Noe, un om îndrăzneț și de mare tărie de mână. I-a convins să nu atribuie lui Dumnezeu faptul că ei erau fericiți, ca și cum ar fi fost prin mijlocirea Lui, ci să creadă că propriul lor curaj a adus acea fericire. A schimbat, de asemenea, treptat, cârmuirea în tiranie, nevăzând altă cale de a-i abate pe oameni de la frica de Dumnezeu decât aceea de a-i aduce într-o dependență neîncetată de puterea lui. A spus, de asemenea, că se va răzbuna pe Dumnezeu dacă ar avea Acesta de gând să înece din nou lumea; căci va zidi un turn prea înalt pentru ca apele să poată ajunge la el! și că se va răzbuna pe Dumnezeu pentru că le-a nimicit strămoșii!"
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 4",
+    "text": "Nimrod a fost cel care i-a îndemnat la o asemenea jignire și dispreț față de Dumnezeu. El era nepotul lui Ham, fiul lui Noe, un om îndrăzneț și de mare tărie de mână. I-a convins să nu atribuie lui Dumnezeu faptul că ei erau fericiți, ca și cum ar fi fost prin mijlocirea Lui, ci să creadă că propriul lor curaj a adus acea fericire. A schimbat, de asemenea, treptat, cârmuirea în tiranie, nevăzând altă cale de a-i abate pe oameni de la frica de Dumnezeu decât aceea de a-i aduce într-o dependență neîncetată de puterea lui. A spus, de asemenea, că se va răzbuna pe Dumnezeu dacă ar avea Acesta de gând să înece din nou lumea; căci va zidi un turn prea înalt pentru ca apele să poată ajunge la el! și că se va răzbuna pe Dumnezeu pentru că le-a nimicit strămoșii!",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 5,
+      "v": 2
+     }
+    }
    },
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
@@ -3459,6 +3491,17 @@ window.CHAPTER_DATA = [
       "v": 1
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 7 — comparație",
+    "text": "Iar fiii lui Tiras erau Benib, Gera, Lupirion și Gilac; aceștia sunt fiii lui Iafet conform familiilor lor, iar numerele lor în acele zile erau de aproape 460 de oameni.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 7,
+      "v": 9
+     }
+    }
    }
   ],
   "refs": [
@@ -3646,8 +3689,15 @@ window.CHAPTER_DATA = [
     "text": "«Iar lui Sem, tatăl tuturor celor de dincolo» etc. „Și lui Sem i s-a născut” etc.: aici îi numără după rânduiala nașterilor lor – „fiii lui Iafet” etc., „fiii lui Ham” etc., „și lui Sem i s-a născut” etc.; îți spune că aceasta este rânduiala anume, și de aceea a fost scris aici „Iafet cel mare”. Iar faptul că Scriptura l-a pomenit de câteva ori înaintea fraților săi, aceasta este însemnătatea lui, o socotește. „Fratele lui Iafet”, care a devenit asociat cu el la cinstirea tatălui lor."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 7",
-    "text": "Sem, al treilea fiu al lui Noe, a avut cinci fii, care au locuit țara ce începea de la Eufrat și ajungea până la Oceanul Indian. Căci Elam a lăsat în urma lui pe elamiți, strămoșii perșilor. Așur a locuit în cetatea Ninive; și i-a numit pe supușii lui asirieni, care au ajuns cel mai fericit neam, peste toate celelalte. Arfaxad a dat numele arfaxadiților, care sunt numiți acum caldeeni. Aram i-a avut pe arameeni, pe care grecii îi numeau sirieni; după cum Lud i-a întemeiat pe luditi, care sunt numiți acum lidieni. Dintre cei patru fii ai lui Aram, Uț a întemeiat Trahonitida și Damascul: această țară se află între Palestina și Celesiria. Ul a întemeiat Armenia; Gater pe bactrieni; și Mesa pe mesaneni; ea se numește acum Charax Spasini. Sala a fost fiul lui Arfaxad; iar fiul lui a fost Eber, de la care ei au numit la început pe iudei evrei. Eber i-a născut pe Ioctan și pe Peleg: el a fost numit Peleg pentru că s-a născut la risipirea neamurilor în țările lor deosebite; căci Peleg înseamnă la evrei împărțire. Ioctan, unul dintre fiii lui Eber, a avut acești fii: Elmodad, Salef, Asermot, Iera, Adoram, Aizel, Decla, Ebal, Abimael, Sabeu, Ofir, Euilat și Iobab. Aceștia au locuit de la Cofen, un râu indian, și într-o parte a Asiei învecinate cu el. Și aceasta să ajungă cu privire la fiii lui Sem."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 6",
+    "text": "Sem, al treilea fiu al lui Noe, a avut cinci fii, care au locuit țara ce începea de la Eufrat și ajungea până la Oceanul Indian. Căci Elam a lăsat în urma lui pe elamiți, strămoșii perșilor. Așur a locuit în cetatea Ninive; și i-a numit pe supușii lui asirieni, care au ajuns cel mai fericit neam, peste toate celelalte. Arfaxad a dat numele arfaxadiților, care sunt numiți acum caldeeni. Aram i-a avut pe arameeni, pe care grecii îi numeau sirieni; după cum Lud i-a întemeiat pe luditi, care sunt numiți acum lidieni. Dintre cei patru fii ai lui Aram, Uț a întemeiat Trahonitida și Damascul: această țară se află între Palestina și Celesiria. Ul a întemeiat Armenia; Gater pe bactrieni; și Mesa pe mesaneni; ea se numește acum Charax Spasini. Sala a fost fiul lui Arfaxad; iar fiul lui a fost Eber, de la care ei au numit la început pe iudei evrei. Eber i-a născut pe Ioctan și pe Peleg: el a fost numit Peleg pentru că s-a născut la risipirea neamurilor în țările lor deosebite; căci Peleg înseamnă la evrei împărțire. Ioctan, unul dintre fiii lui Eber, a avut acești fii: Elmodad, Salef, Asermot, Iera, Adoram, Aizel, Decla, Ebal, Abimael, Sabeu, Ofir, Euilat și Iobab. Aceștia au locuit de la Cofen, un râu indian, și într-o parte a Asiei învecinate cu el. Și aceasta să ajungă cu privire la fiii lui Sem.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 7,
+      "v": 4
+     }
+    }
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",

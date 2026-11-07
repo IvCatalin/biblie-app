@@ -227,6 +227,17 @@ window.CHAPTER_DATA = [
       "v": 22
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 16 — comparație",
+    "text": "La acea vreme Chedorlaomer regele Elamului a trimis un mesaj la toți regii învecinați, la regele Nimrod al Șinearului care era sub puterea lui, și la regele Tidal al Goyimului, și la regele Arioc al Elasarului, cu care el a făcut un legământ, spunând, veniți la mine și asistați-mi, ca noi să putem distruge toate orașele Sodomei și locuitorii lor, căci ei s-au răzvrătit împotriva mea acești 13 ani.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 16,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -489,8 +500,26 @@ window.CHAPTER_DATA = [
     "text": "«Cu Bera.» Birșa (birșa‘), pentru că erau răi și păcătoși, regii lor au fost numiți după nelegiuirea lor, și judecătorii lor la fel, precum este lămurit în „Perek Helek”: Șaqrai și Șaqrurai, Zaifi și Mațlei-Din."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 10",
-    "text": "În vremea aceea, când asirienii aveau stăpânirea peste Asia, poporul Sodomei se afla într-o stare înfloritoare, atât în ce privește bogățiile, cât și numărul tinerilor. Erau cinci regi care cârmuiau treburile acestei țări: Balas, Barsa, Senabar și Sumobor, cu regele din Bela; și fiecare rege își conducea propriile oști: iar asirienii au purtat război împotriva lor și, împărțindu-și oastea în patru părți, au luptat împotriva lor. Fiecare parte a oștirii avea propriul comandant; și când s-a început lupta, asirienii au fost biruitori și au pus un bir asupra regilor sodomiților, care s-au supus acestei robii doisprezece ani; și atâta vreme au continuat să plătească birul lor: dar în anul al treisprezecelea s-au răsculat, și atunci oastea asirienilor a venit asupra lor, sub comandanții lor Amrafel, Arioh, Chedorlaomer și Tidal. Acești regi pustiiseră toată Siria și răsturnaseră seminția uriașilor. Și când au ajuns în fața Sodomei, și-au așezat tabăra în valea numită Gropile de Smoală, căci în vremea aceea erau gropi în acel loc; dar acum, după nimicirea cetății Sodomei, acea vale a devenit Lacul Asfaltit, cum se numește. Totuși, despre acest lac vom vorbi mai îndată. Când sodomiții au început lupta cu asirienii și lupta a fost foarte îndârjită, mulți dintre ei au fost uciși, iar ceilalți au fost duși în robie; între care robi era și Lot, care venise să-i ajute pe sodomiți."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 9",
+    "text": "În vremea aceea, când asirienii aveau stăpânirea peste Asia, poporul Sodomei se afla într-o stare înfloritoare, atât în ce privește bogățiile, cât și numărul tinerilor. Erau cinci regi care cârmuiau treburile acestei țări: Balas, Barsa, Senabar și Sumobor, cu regele din Bela; și fiecare rege își conducea propriile oști: iar asirienii au purtat război împotriva lor și, împărțindu-și oastea în patru părți, au luptat împotriva lor. Fiecare parte a oștirii avea propriul comandant; și când s-a început lupta, asirienii au fost biruitori și au pus un bir asupra regilor sodomiților, care s-au supus acestei robii doisprezece ani; și atâta vreme au continuat să plătească birul lor: dar în anul al treisprezecelea s-au răsculat, și atunci oastea asirienilor a venit asupra lor, sub comandanții lor Amrafel, Arioh, Chedorlaomer și Tidal. Acești regi pustiiseră toată Siria și răsturnaseră seminția uriașilor. Și când au ajuns în fața Sodomei, și-au așezat tabăra în valea numită Gropile de Smoală, căci în vremea aceea erau gropi în acel loc; dar acum, după nimicirea cetății Sodomei, acea vale a devenit Lacul Asfaltit, cum se numește. Totuși, despre acest lac vom vorbi mai îndată. Când sodomiții au început lupta cu asirienii și lupta a fost foarte îndârjită, mulți dintre ei au fost uciși, iar ceilalți au fost duși în robie; între care robi era și Lot, care venise să-i ajute pe sodomiți.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 10,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 16 — comparație",
+    "text": "Și cei 5 regi ai Sodomei și Gomorei, Șinab regele din Adma, Șemeber regele din Zeboyim, Bera regele din Sodoma, Berșa regele din Gomora, și Bela regele din Zoar, au mers să le iasă în întâmpinare, și ei toți s-au adunat împreună în valea Siddimului.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 16,
+      "v": 3
+     }
+    }
    }
   ]
  },
@@ -1659,6 +1688,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și s-au războit cu ei.» Acești cinci, care au ieșit, s-au războit cu ei, căci socoteau să-i biruiască; poate au fost ajutați de un alt popor, căci de aceea s-au răsculat împotriva lor; iar aceia nu erau decât cei patru pomeniți; de aceea a spus din nou „împotriva lui Chedorlaomer”; căci a spus deja „cu ei”: ce nevoie era să mai spună „împotriva lui Chedorlaomer”? Ci vine să spună că acești cinci au fost ajutați de un alt popor, iar aceia nu erau decât cei patru pe care i-a pomenit, și cu toate acestea i-au biruit; căci de la Domnul a fost, ca Avraam să-și facă un nume în acel război, cum i-a făgăduit și i-a spus: „îți voi mări numele”; și ca să arate lumii dreptatea lui Avraam și încrederea lui în Dumnezeu din toată inima: căci ei au biruit cinci regi, și cu toate acestea el i-a urmărit cu puțin popor; și despre el și despre cei asemenea lui s-a spus: „iar cel care se încrede în Domnul va fi pus la adăpost”. Și ca să mărească fapta încă, a adăugat și a spus: „patru regi împotriva celor cinci”."
+   },
+   {
+    "author": "Cartea Dreptului 16 — comparație",
+    "text": "Și acești 9 regi au făcut război în valea Siddimului; iar regii Sodomei și Gomorei au fost bătuți înaintea regilor Elam-ului.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 16,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -2110,6 +2150,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Gropile de smoală naturală (bitum) din valea Sidim sunt un detaliu geologic real — regiunea Mării Moarte era cunoscută în antichitate pentru zăcămintele de bitum, exploatate comercial de-a lungul istoriei, confirmând acuratețea geografică a relatării."
+   },
+   {
+    "author": "Cartea Dreptului 16 — comparație",
+    "text": "Iar valea Siddimului era plină de varnițe și regii Elamului i-au urmărit pe regii Sodomei, iar regii Sodomei cu oștile lor au fugit și căzut în varnițe, și toți cei rămași au mers la munte pentru siguranță, iar cei 5 regi ai Elamului au venit după ei și i-au urmărit până la porțile Sodomei, și ei au luat tot ce era în Sodoma.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 16,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -2471,6 +2522,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Vezi că s-a adeverit ceea ce am spus ieri: Lot, departe de a fi mai bine din pricina alegerii celor mai bune părți, a învățat mai degrabă din experiență să nu-și pună inima în părțile cele mai bune. Căci nu numai că nu i-a venit niciun folos din aceasta, ci a fost chiar dus în robie. A învățat din experiență lecția că era mult mai bine pentru el să se bucure de tovărășia omului drept, decât să fie despărțit de el și să îndure aceste mari încercări, chiar dacă trăia pe cont propriu. Vreau să spun: s-a despărțit de patriarh și socotea că se bucură de mai multă libertate, a avut norocul să se bucure de părțile mai bune și să cunoască mare belșug — și deodată devine captiv, deposedat, fără cămin și fără casă. Scopul a fost să înveți ce mare rău este dezbinarea și ce mare bine este buna învoire, și că nu trebuie să râvnim la întâietate, ci să iubim mai degrabă să stăm pe locul al doilea. „Și au prins pe Lot și bunurile lui”, spune textul, ține minte. Cu cât mai bine era să stea în tovărășia patriarhului și să primească totul de dragul de a nu rupe buna învoire, decât să fie despărțit și, alegând părțile mai bune, să fie îndată înconjurat de primejdii atât de cumplite și să cadă în ghearele barbarilor!"
+   },
+   {
+    "author": "Cartea Dreptului 16 — comparație",
+    "text": "Și ei au prăduit toate orașele Sodomei și Gomorei, și ei de asemenea l-au luat pe Lot, fiul fratelui lui Avram, și proprietatea lui, și ei au pus mâna pe toate bunurile orașelor Sodomei, și au plecat. Iar Unic, slujitorul lui Avram, care era în bătălie, a văzut aceasta, și a spus lui Avram tot ceea ce regii făcuseră orașelor Sodomei, și că Lot a fost luat prizonier de ei.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 16,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -2986,8 +3048,15 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
-    "text": "Când Avram a auzit de nenorocirea lor, i-a fost îndată teamă pentru Lot, ruda lui, și i-a fost milă de sodomiți, prietenii și vecinii lui; și, socotind că se cuvine să le dea ajutor, nu a întârziat, ci a pornit în grabă și, în noaptea a cincea, a căzut asupra asirienilor, lângă Dan, căci acesta este numele celuilalt izvor al Iordanului; și, înainte ca ei să apuce să se înarmeze, a ucis pe unii pe când erau în paturile lor, înainte de a bănui vreun rău; iar alții, care nu se duseseră încă la culcare, dar erau atât de beți încât nu puteau lupta, au fugit. Avram i-a urmărit până când, în a doua zi, i-a gonit în masă până la Hoba, un loc ce ține de Damasc; și a arătat prin aceasta că biruința nu atârnă de mulțime și de numărul mâinilor, ci că sârguința și curajul ostașilor biruiesc cele mai numeroase mulțimi de oameni, de vreme ce el a câștigat victoria asupra unei oștiri atât de mari cu nu mai mult de trei sute optsprezece dintre slujitorii lui și trei dintre prietenii lui: iar toți cei care au fugit s-au întors acasă fără glorie."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 10",
+    "text": "Când Avram a auzit de nenorocirea lor, i-a fost îndată teamă pentru Lot, ruda lui, și i-a fost milă de sodomiți, prietenii și vecinii lui; și, socotind că se cuvine să le dea ajutor, nu a întârziat, ci a pornit în grabă și, în noaptea a cincea, a căzut asupra asirienilor, lângă Dan, căci acesta este numele celuilalt izvor al Iordanului; și, înainte ca ei să apuce să se înarmeze, a ucis pe unii pe când erau în paturile lor, înainte de a bănui vreun rău; iar alții, care nu se duseseră încă la culcare, dar erau atât de beți încât nu puteau lupta, au fugit. Avram i-a urmărit până când, în a doua zi, i-a gonit în masă până la Hoba, un loc ce ține de Damasc; și a arătat prin aceasta că biruința nu atârnă de mulțime și de numărul mâinilor, ci că sârguința și curajul ostașilor biruiesc cele mai numeroase mulțimi de oameni, de vreme ce el a câștigat victoria asupra unei oștiri atât de mari cu nu mai mult de trei sute optsprezece dintre slujitorii lui și trei dintre prietenii lui: iar toți cei care au fugit s-au întors acasă fără glorie.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 11,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -3588,12 +3657,41 @@ window.CHAPTER_DATA = [
     "text": "„Valea regelui” (Emek HaMelekh) e menționată din nou mult mai târziu, la 2 Samuel 18:18, ca locul unde Absalom și-a ridicat un monument — o continuitate geografică remarcabilă între epoca patriarhilor și epoca regilor unificați ai Israelului."
    },
    {
-    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
-    "text": "Așadar, Avram, după ce i-a salvat pe sodomiții robiți, care fuseseră luați de asirieni, și pe Lot, ruda lui, s-a întors acasă în pace. Regele Sodomei l-a întâmpinat într-un anumit loc, pe care îl numeau Valea Regelui, unde Melhisedec, regele cetății Salem, l-a primit. Acest nume înseamnă regele cel drept: și așa era el, fără îndoială, încât, din această pricină, a fost făcut preot al lui Dumnezeu; totuși, mai târziu au numit Salemul Ierusalim. Acest Melhisedec a dat oștirii lui Avram un ospăț cu inimă primitoare și le-a dat merinde din belșug; iar în timp ce ei ospătau, a început să-l laude și să-L binecuvânteze pe Dumnezeu că a supus pe vrăjmașii lui sub el. Iar când Avram i-a dat a zecea parte din prada sa, el a primit darul: dar regele Sodomei l-a rugat pe Avram să ia prada, însă a stăruit să-i fie înapoiați acei oameni pe care Avram i-a salvat de la asirieni, pentru că îi aparțineau lui. Dar Avram nu a vrut să facă așa; și nu a vrut să tragă din acea pradă alt folos decât ceea ce mâncaseră slujitorii lui; dar a stăruit totuși ca el să dea o parte prietenilor săi care îl ajutaseră în luptă. Cel dintâi dintre ei se numea Eșcol, apoi Ener și Mamre."
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 10",
+    "text": "Așadar, Avram, după ce i-a salvat pe sodomiții robiți, care fuseseră luați de asirieni, și pe Lot, ruda lui, s-a întors acasă în pace. Regele Sodomei l-a întâmpinat într-un anumit loc, pe care îl numeau Valea Regelui, unde Melhisedec, regele cetății Salem, l-a primit. Acest nume înseamnă regele cel drept: și așa era el, fără îndoială, încât, din această pricină, a fost făcut preot al lui Dumnezeu; totuși, mai târziu au numit Salemul Ierusalim. Acest Melhisedec a dat oștirii lui Avram un ospăț cu inimă primitoare și le-a dat merinde din belșug; iar în timp ce ei ospătau, a început să-l laude și să-L binecuvânteze pe Dumnezeu că a supus pe vrăjmașii lui sub el. Iar când Avram i-a dat a zecea parte din prada sa, el a primit darul: dar regele Sodomei l-a rugat pe Avram să ia prada, însă a stăruit să-i fie înapoiați acei oameni pe care Avram i-a salvat de la asirieni, pentru că îi aparțineau lui. Dar Avram nu a vrut să facă așa; și nu a vrut să tragă din acea pradă alt folos decât ceea ce mâncaseră slujitorii lui; dar a stăruit totuși ca el să dea o parte prietenilor săi care îl ajutaseră în luptă. Cel dintâi dintre ei se numea Eșcol, apoi Ener și Mamre.",
+    "src": {
+     "slug": "josephus-antichitati-cartea1",
+     "spec": {
+      "num": 11,
+      "v": 2
+     }
+    }
    },
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Vezi aici, în fiecare întâmplare, cum omul drept se face remarcat și arată tuturor, de fiecare dată, purtarea de grijă a lui Dumnezeu față de el? Acum îl vezi și plin de râvnă să se dovedească învățător al evlaviei pentru sodomiți. „Regele Sodomei”, spune Scriptura, ține minte, „a ieșit înaintea lui la întoarcerea lui din înfrângerea lui Chedorlaomer și a regilor care erau cu el.” Observă întinderea virtuții lui și bucuria ajutorului de la Dumnezeu. Regele iese în întâmpinarea acestui străin, înaintat în vârstă, și îi arată mare cinste. Aflase, vezi, că folosul împărăției nu înseamnă nimic pentru cel care nu are ajutor de sus și că nimic nu poate fi mai tare decât mâna lui Dumnezeu ridicată spre ajutor."
+   },
+   {
+    "author": "Cartea Dreptului 16 — comparație",
+    "text": "Și Bera regele Sodomei, și restul oamenilor lui care erau cu el, au ieșit din varnițele în care ei căzuseră, să întâmpine pe Avram și pe oamenii lui.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 16,
+      "v": 10
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 16 — comparație",
+    "text": "Și regele Adoni-Țedec al Ierusalimului, același era Șem, a ieșit cu oamenii lui să întâmpine pe Avram și pe oamenii lui, cu pâine și vin, iar ei au rămas împreună în valea Melec.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 16,
+      "v": 11
+     }
+    }
    }
   ]
  },
@@ -4280,6 +4378,17 @@ window.CHAPTER_DATA = [
       "v": 25
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 16 — comparație",
+    "text": "Și Adoni-Țedec l-a binecuvântat pe Avram, iar Avram i-a dat zeciuială din tot ce adusese din prada dușmanilor lui, căci Adoni-Țedec era un preot înaintea lui Dumnezeu.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 16,
+      "v": 12
+     }
+    }
    }
   ]
  },
@@ -4714,6 +4823,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "Dar regele Sodomei a zis lui Avram: „Dă-mi oamenii și ia pentru tine bunurile.” El însă i-a răspuns: „Îmi ridic mâna către Domnul, Dumnezeul Preaînalt, stăpânul cerului și al pământului, că nu voi lua nici un fir, nici o curea de încălțăminte, nimic din ce este al tău, ca nu cumva să zici: «Eu l-am îmbogățit pe Avram».” Trebuie luat seama cu grijă și tras ca pildă de viață morală că Avraam, care, cu adevărat milostiv față de aproapele aflat la nevoie, se pusese pe sine în primejdie ca să-l elibereze pe Lot și, ca om cucernic față de Dumnezeu, a dat zeciuială preotului de la care fusese binecuvântat, el, disprețuitor al banilor, a refuzat să primească ceva din prada pe care o luase, chiar când i-o oferea regele pe care îl învinsese. Iubitor al dreptății, n-a uitat să împartă ostașilor care luptaseră cu el partea lor. Pe bună dreptate, o asemenea conștiință, ca să ajungă mai repede la culmea virtuților, este înălțată mereu prin noi binefaceri ale harului dumnezeiesc. De aceea, după ce acestea s-au petrecut cum se cuvine, el a devenit îndată primitor al darului unei descoperiri cerești și al unei binecuvântări dumnezeiești, care trebuie mai bine cugetate și cercetate prin citirea cărții următoare."
+   },
+   {
+    "author": "Cartea Dreptului 16 — comparație",
+    "text": "Și Avram a răspuns regelui Sodomei, spunând, cum Domnul trăiește care a creat cerul și pământul, și care a mântuit sufletul meu de toată nenorocirea, și care m-a izbăvit în această zi de dușmanii mei, și i-a dat în mâna mea, eu nu voi lua nimic din ce îți aparține, ca tu să nu te poți lăuda mâine, spunând, Avram a devenit bogat din proprietatea noastră pe care el a păstrat-o.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 16,
+      "v": 14
+     }
+    }
    }
   ]
  },
@@ -5150,6 +5270,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Ei își vor lua partea etc.» Explicația: nu că ai avea voie și te-ai pune cu ei la măsurători, ci ei au voie să ia ce vor judeca ei, căci aceasta îi privește pe ei. Și prin aceasta i-a arătat că în adevăr bunurile îl privesc pe el, dar s-a temut de vorbă, deși este mincinoasă, cu toate acestea micșorează cinstea lui Avram prin spusa lui."
+   },
+   {
+    "author": "Cartea Dreptului 16 — comparație",
+    "text": "Iar acum prin urmare iată, aici este tot ce îți aparține, ia-l și du-te; cum Domnul trăiește eu nu voi lua de la tine de la un suflet până la un șiret sau o ață, exceptând plata mâncării acelora care au ieșit cu mine la bătălie, cât de asemenea și porțiile oamenilor care au mers cu mine, Anar, Ascol, și Mamre, ei și oamenii lor, cât și aceia care rămăseseră să păzească bagajele, ei își vor lua porția lor din pradă.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 16,
+      "v": 16
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 16 — comparație",
+    "text": "Și pe Lot, fiul fratelui său, el de asemenea l-a trimis înapoi cu toată proprietatea lui, și el a mers, și Lot s-a întors la casa lui, în Sodoma, iar Avram și oamenii lui s-au întors la casa lor în câmpiile din Mamre, care este în Hebron.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 16,
+      "v": 19
+     }
+    }
    }
   ]
  }
