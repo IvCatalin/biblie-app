@@ -6,7 +6,7 @@ const arg = (k) => (process.argv.find(a => a.startsWith('--' + k + '=')) || '').
 const WRITE = process.argv.includes('--write');
 const LX = JSON.parse(fs.readFileSync(arg('lxx'), 'utf8')), HE = JSON.parse(fs.readFileSync(arg('he'), 'utf8'));
 const nk = s => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[\u02bc\u1fbf\u2019'\u00b7,.;:·\u0387?!]/g, '').replace(/ς/g, 'σ').replace(/\s+/g, ' ').trim().toLowerCase();
-const heClean = s => String(s).replace(/<[^>]*>/g, ' ').replace(/&[a-z]+;/g, ' ').replace(/\([^)]*\)/g, '').replace(/[\[\]]/g, '').replace(/\{[^}]*\}/g, '').normalize('NFC').replace(/[\u0591-\u05AF\u05BD\u05C0\u05C3\u05C4\u05C5]/g, '').replace(/\u05C7/g, '\u05B8').replace(/\u05BA/g, '\u05B9').replace(/[׃]/g, '').replace(/יְהֹוָה/g, 'יְהוָה').replace(/\s+/g, ' ').trim();
+const heClean = s => String(s).replace(/<\/?(?:small|big)>/g, '').replace(/<[^>]*>/g, ' ').replace(/&[a-z]+;/g, ' ').replace(/\([^)]*\)/g, '').replace(/[\[\]]/g, '').replace(/\{[^}]*\}/g, '').normalize('NFC').replace(/[\u0591-\u05AF\u05BD\u05C0\u05C3\u05C4\u05C5]/g, '').replace(/\u05C7/g, '\u05B8').replace(/\u05BA/g, '\u05B9').replace(/[׃]/g, '').replace(/יְהֹוָה/g, 'יְהוָה').replace(/\s+/g, ' ').trim();
 // LCS pe cuvinte normalizate: păstrează cuvintele noastre (cu punctuație), scoate ce nu e în Rahlfs, adaugă ce lipsește
 function patch(ours, rahlfs) {
   const a = ours.split(/\s+/), b = rahlfs.split(/\s+/);

@@ -1,0 +1,33 @@
+// Geneza 23: forma greacă/ebraică a etichetelor = exact cea din verset (Rahlfs / Sefaria).
+const L = require('./fixlib.js')(23);
+const D0 = (t) => ({ greek: null, greek_def_ro: null, diff_ro: t });
+module.exports = [
+  [1, { w: 'viața' }, L(1, 'ζωη')],
+  [1, { w: 'sută douăzeci și șapte' }, L(1, 'εκατον εικοσι επτα')],
+  [1, { w: 'anii' }, L(1, 'ετη')],
+  [1, { w: 'vieții' }, L(1, 'ζωη')],
+  [2, { w: 'Sara' }, L(2, 'σαρρα')],
+  [2, { w: 'plângă' }, L(2, 'πενθησαι')],
+  [3, { w: 'vorbit' }, L(3, 'ειπεν')],
+  [4, { w: 'dați-mi' }, L(4, 'δοτε')],
+  [6, { w: 'Ascultă-ne' }, L(6, 'ακουσον')],
+  [6, { w: 'alese' }, L(6, 'εκλεκτοις')],
+  [9, { w: 'dea' }, L(9, 'δοτω')],
+  [9, { w: 'marginea' }, L(9, 'μερει')],
+  [10, { w: 'răspuns' }, L(10, 'αποκριθεις')],
+  [10, { w: 'Avraham' }, L(10, 'αβρααμ')],
+  [11, { w: 'ascultă-mă' }, L(11, 'ακουσον')],
+  [11, { w: 'dat-o' }, L(11, 'διδωμι')],
+  [11, { w: 'poporului' }, L(11, 'πολιτων μου')],
+  [13, { w: 'vorbit' }, L(13, 'ειπεν')],
+  [13, { w: 'Efron' }, L(13, 'εφρων')],
+  [13, { w: 'Dau' }, L(13, 'λαβε')],
+  [15, { w: 'ascultă-mă' }, L(15, 'ακηκοα')],
+  [16, { w: 'acceptată' }, D0('Septuaginta nu are „acceptată de negustori” ca expresie aparte: textul grecesc spune doar că Avraam „a cântărit argintul pe care l-a spus în urechile fiilor lui Het”, fără precizarea monedei.')],
+  [16, { w: 'negustor' }, L(16, 'εμποροις')],
+  [17, { w: 'Mahpela' }, { heb: 'בַּמַּכְפֵּלָה' }],
+  [17, { w: 'pomii' }, L(17, 'δενδρον')],
+  [17, { w: 'confirmat' }, L(17, 'εστη')],
+  [19, { w: 'Mahpela' }, L(19, 'διπλω')],
+  [20, { w: 'funerară' }, L(20, 'ταφου')],
+];

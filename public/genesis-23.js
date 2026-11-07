@@ -12,9 +12,11 @@ window.CHAPTER_DATA = [
     "translit": "chayei",
     "strong": "H2416",
     "pos": "substantiv, stare construită",
-    "greek": "ζωῆς",
+    "greek": "ζωὴ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "viața."
+    "def_ro": "alive; de aici, raw (carne); fresh (plant, apa, year), tare; de asemenea (ca substantiv, in special in feminine singular si masculine plural) viață (sau living lucru), dacă literal sau figurat.",
+    "greek_def_ro": "ζωή (zoe) — viață.",
+    "dict_ro": "Chayyim, „viață”: „viața Sarei” (23:1) — Sara este singura femeie a cărei vârstă la moarte o spune textul (23:1); „anii vieții” (23:1) sunt o sută douăzeci și șapte; Septuaginta spune ἡ ζωή."
    },
    {
     "t": " "
@@ -28,7 +30,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαρρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sarei."
+    "def_ro": "Sara — „prințesă”, noul nume al Sarei, dat de Dumnezeu.",
+    "greek_def_ro": "Σαρρα (Sarra) — Sara (la genitiv: „a Sarei”).",
+    "dict_ro": "Sara (Sarah), „prințesă”: moare la o sută douăzeci și șapte de ani (23:1–2); capitolul 23 e despre îngroparea ei și cumpărarea mormântului din Hebron."
    },
    {
     "t": " o "
@@ -40,9 +44,11 @@ window.CHAPTER_DATA = [
     "translit": "me'ah shanah ve'esrim shanah vesheva shanim",
     "strong": "H3967",
     "pos": "numeral",
-    "greek": "ἑκατὸν εἴκοσι ἑπτὰ ἔτη",
+    "greek": "ἑκατὸν εἴκοσι ἑπτά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "o sută douăzeci și șapte."
+    "def_ro": "o sută douăzeci și șapte.",
+    "greek_def_ro": "ἑκατόν (hekaton), εἴκοσι (eikosi), ἑπτά (hepta) — o sută douăzeci și șapte.",
+    "dict_ro": "Me’ah, „sută”: „o sută douăzeci și șapte de ani” (23:1) — vârsta Sarei; Avraam avea atunci o sută treizeci și șapte (17:17), ceea ce, după cifrele masoretice, cade în anul 2085 de la creație (1948 + 137); în Septuaginta, 3451; în Pentateuhul Samaritean, 2386."
    },
    {
     "t": " de ani – "
@@ -54,9 +60,11 @@ window.CHAPTER_DATA = [
     "translit": "shnei",
     "strong": "H8141",
     "pos": "substantiv, stare construită",
-    "greek": "τὰ ἔτη",
+    "greek": "ἔτη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "anii."
+    "def_ro": "year (ca revolution al timp).",
+    "dict_ro": "Shanah, „an”: „anii vieții Sarei” (23:1) — „o sută douăzeci și șapte de ani”; textul repetă cuvântul „ani” de trei ori, în fraza care spune viața Sarei; Septuaginta spune ἔτη.",
+    "greek_def_ro": "ἔτος (etos) — an (la plural: „ani”)."
    },
    {
     "t": " "
@@ -68,9 +76,11 @@ window.CHAPTER_DATA = [
     "translit": "chayei",
     "strong": "H2416",
     "pos": "substantiv, stare construită",
-    "greek": "τῆς ζωῆς",
+    "greek": "ζωὴ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vieții."
+    "def_ro": "alive; de aici, raw (carne); fresh (plant, apa, year), tare; de asemenea (ca substantiv, in special in feminine singular si masculine plural) viață (sau living lucru), dacă literal sau figurat.",
+    "greek_def_ro": "ζωή (zoe) — viață.",
+    "dict_ro": "Chayyim, „viață”: „viața Sarei” (23:1) — Sara este singura femeie a cărei vârstă la moarte o spune textul (23:1); „anii vieții” (23:1) sunt o sută douăzeci și șapte; Septuaginta spune ἡ ζωή."
    },
    {
     "t": " "
@@ -84,7 +94,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαρρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sarei."
+    "def_ro": "Sara — „prințesă”, noul nume al Sarei, dat de Dumnezeu.",
+    "greek_def_ro": "Σαρρα (Sarra) — Sara (la genitiv: „a Sarei”).",
+    "dict_ro": "Sara (Sarah), „prințesă”: moare la o sută douăzeci și șapte de ani (23:1–2); capitolul 23 e despre îngroparea ei și cumpărarea mormântului din Hebron."
    },
    {
     "t": "."
@@ -120,6 +132,14 @@ window.CHAPTER_DATA = [
     "text": "«Și a fost viața Sarei o sută douăzeci și șapte de ani.» De aceea s-a scris „ani” la fiecare grup, ca să-ți spună că fiecare este tâlcuit în sine: la o sută de ani era ca la douăzeci în privința păcatului — așa cum la douăzeci de ani nu păcătuise, căci nu era încă la vârsta pedepselor, tot așa la o sută era fără păcat; și la douăzeci era ca la șapte în privința frumuseții.<br><br>«Anii vieții Sarei.» Toți au fost la fel de buni."
    },
    {
+    "author": "Targum Onkelos",
+    "text": "Și viața Sarei a fost o sută douăzeci și șapte de ani; anii vieții Sarei."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și au fost anii vieții Sarei — și au fost anii vieții Sarei o sută douăzeci și șapte de ani —, anii vieții Sarei."
+   },
+   {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Viața (ḥayyei).» Formă de plural, și nu se desparte. Iar obiceiul limbii este să pună numărul mare înaintea celui mic; și opusul lucrului, ca la anii lui Iacov."
    },
@@ -140,8 +160,31 @@ window.CHAPTER_DATA = [
     "text": "«Și a fost viața Sarei o sută... de ani etc.»: a spus de trei ori „an”, „ani”, deși ar fi ajuns o dată; și tot așa s-a spus la Avraam: „o sută de ani și șaptezeci de ani și cinci ani”, și tot așa a spus la anii lui Ismael; și au spus că aceasta este o cale de eleganță în limba sfântă. Și s-a spus la numărul mare „an” (šanah), în chip general, iar la numărul mic „ani” (šanim), în chip particular. Și există un midraș despre viața Sarei: la o sută de ani ca la douăzeci de ani pentru păcat, la douăzeci ca la șapte pentru frumusețe. Și la început nu a pomenit „anii”, de aceea a spus la sfârșit „anii vieții Sarei”; iar la Avraam și la Ismael, unde a spus la început „anii vieții”, nu a spus nimic la sfârșit. Și este posibil că la toți este adăugat „anii” ca să arate că anii lor s-au împlinit zi de zi, căci așa face Dumnezeu cu cei drepți, cum au scris învățătorii noștri, binecuvântată fie amintirea lor."
    },
    {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și a fost viața Sarei.» Cei care vor să numere ghematrii spun: ca numărul lui „va-yihyu” (și au fost): viețile ei au fost treizeci și șapte de ani, căci din ziua în care s-a născut Isaac până în ziua Legării în care a murit; dar cei nouăzeci de ani pe care i-a trăit înainte nu sunt socotiți viață, căci cine nu are fii este socotit mort.<br><br>«O sută de ani.» Rashi: De aceea este scris „ani” la fiecare categorie, ca să spună etc. Iar dacă vei spune: Doar la Ismael este scris „ani” la fiecare categorie? Ci se poate spune: acolo unde este scris „meʾat” (o sută) și este nevoie să se scrie „ani” după el, nu interpretăm; dar la Sara este scris „meʾah” și i-ar fi de ajuns fără „ani”, și este scris „ani” după el: din aceasta se înțelege că a venit pentru interpretare. Iar ceea ce interpretăm la Avraam, deși este scris la el „meʾat”, este pentru că este scris la el „zilele”, care este de prisos. Și încă Rashi: „La o sută” ca la douăzeci pentru păcat: după cum la douăzeci nu păcătuise. Iar dacă vei spune: Doar ne este stabilit că cei de douăzeci de ani sunt pasibili de pedeapsă? Ci așa spune: după cum, când avea douăzeci de ani, nu era pasibilă de pedeapsă, căci în acea perioadă nu erau pasibili de pedeapsă până la o sută de ani, până la darea Torei, căci era dintre „sufletele pe care le făcuseră în Haran”, după cum ne este stabilită halaha din „Tanna de-ve Eliyahu”; tot așa, când avea o sută de ani, când trecuse deja darea Torei și erau pasibili de pedeapsă, era fără păcat. Și încă Rashi: „La douăzeci” ca la șapte pentru frumusețe, adică: era frumoasă fără sulemenire, fără vopsea roșie și fără împodobire când avea douăzeci de ani, căci în acel timp obiceiul femeilor este să se împodobească, ca atunci când avea șapte ani, când nu este obiceiul să se împodobească. Iar în aggadă interpretează: „la o sută” ca la douăzeci pentru frumusețe, iar „la douăzeci” ca la șapte pentru păcat.<br><br>«Anii vieții Sarei.» Rashi: Toți sunt la fel spre bine. Chiar și cei șapte, căci nu interpretăm decât de la șapte în sus; dar la „anii vieții lui Ismael” nu se poate interpreta așa, căci încă nu și-a explicat anii, iar aici este scris „Și a fost viața Sarei”, așadar „anii vieții Sarei” de ce îmi trebuie? Ci din aceasta se înțelege că a venit pentru interpretare."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Și a fost viața Sarei.» Nu este obiceiul să se scrie moartea femeilor, nici chiar a celor drepte, dacă nu printr-o întâmplare; căci nu am găsit decât la Sara, Rahela, Debora, doica Rebecăi, și Miriam, la dispariția fântânii: Sara, pentru că ne-a făcut cunoscut cum a cumpărat mormânt cu bani scumpi, și aceasta este una dintre încercări; și Debora, ca să ne facă cunoscut de ce locul se numește Alon-Bacut; iar Rahela, ca să învățăm de ce nu a fost îngropată în peștera Macpela; și totuși anii lor nu au fost numărați, în afară de Sara, care este prețuită mai mult decât toate.<br><br>«O sută de ani.» Este felul versetului să spună „an” și „ani” la fiecare socoteală în parte, și vei găsi și: „aceștia au fost anii vieții lui Ismael”."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Și a fost viața Sarei etc.» Trebuie să știm de ce a spus „și au fost” și nu a spus după rânduiala spusă la toți drepții „Și a trăit Adam”, „Și a mai trăit Sem”, sau să spună „acestea sunt anii” după rânduiala spusă la Avraam?<br><br>Însă se va explica după felul spusei lor, binecuvântată fie amintirea lor (Tanhuma), că cauza morții ei a fost când i-au făcut cunoscută legarea lui Isaac și aproape că nu a fost înjunghiat, i-a zburat sufletul, și după aceasta moartea Sarei a fost din partea veștii despre Isaac. Aceasta este ceea ce a aluzionat prin spusa „și au fost”, limbaj de durere, care aluzionează la cele spuse.<br><br>Sau vrea să spună după spusa lor, binecuvântată fie amintirea lor, pomenită, că a murit prin veste rea; aceasta spune că dacă nu s-ar fi petrecut întâmplarea, ar mai fi avut ea viață, iar spusa „și au fost” înseamnă o ființare nouă, secundă, față de măsura rânduită, căci măsura zilelor ei este mai mare, iar prin fapta pomenită viața ei a fost suma spusă în chestiune. Iar spusa „viața Sarei”, căci drepții dau viață zilelor lor, iar nelegiuiții – zilele lor le dau viață lor:<br><br>«Anii vieții Sarei» Iar spusa încă „anii vieții Sarei”, după ce am explicat că a spus „și au fost” ca să spună că a murit din cauza durerii, spune Scriptura prin spusa „anii vieții” etc., explicația: că s-au împlinit anii vieții ei care i-au fost rânduiți, doar că aceasta a fost cauza că a murit din pricina ei. Iar după ce am explicat că prin cauza veștii viața ei s-a urcat mai puțin decât ce fusese, va intenționa să facă cunoscut judecata îndurării pe care o judecă Sfântul, binecuvântat fie, pe prietenii Lui, căci orice drept care nu și-a împlinit zilele dintr-o cauză cunoscută, Domnul nu va scădea dreptului ce ar fi câștigat dacă ar fi trăit anii lui întregi, și îi va împlini plata pentru anii în care nu a lucrat nimic, căci va spune către el: dacă aș fi trăit, dorința mea era să dobândesc un lucru bun. Și aceasta este spusa „anii vieții Sarei”, îndreptat spre restul, că toți anii ei au fost viață de la ea și au strălucit din slava ei.<br><br>Încă se va explica Scriptura în acest fel: „Și a fost viața Sarei” – explicația: în durere a fost viața Sarei o sută de ani, căci în toate a fost în durere. Până la nouăzeci de ani a fost în durerile nașterii, căci nu a născut pentru Avraam, și ieși și învață ce a spus Rahela „Dă-mi copii – că dacă nu, sunt moartă” etc., iar de la nouăzeci până la o sută, aproximativ, când Ismael îl urmărea pe Isaac ca să-l omoare, după spusa lor, binecuvântată fie amintirea lor, și se întrista de lucru – iată o sută de ani. Iar douăzeci de ani și șapte ani la acestea se vor socoti anii vieții Sarei, căci atunci s-a încrezut în fiul ei, căci Avraam îl alungase deja pe Ismael."
+   },
+   {
     "author": "Zohar, Haiei Sara 1:1",
     "text": "«Și au fost viețile Sarei o sută de ani și douăzeci de ani și șapte ani.» Rabbi Yose a deschis și a zis (Iona 1:15): «și l-au luat pe Iona și l-au aruncat în mare, și s-a oprit marea din urgia ei». Aici e de privit: care e pricina că marea s-a cutremurat asupra lui Iona, și nu s-a cutremurat asupra lui pământul, de vreme ce el mergea ca să nu se odihnească asupra lui Șekhinah? Marea (de sus) — de ce s-a prins de el când mergea?"
+   },
+   {
+    "author": "Cartea Jubileelor 19 — comparație",
+    "text": "Și toate zilele vieții Sarei au fost o sută douăzeci și șapte de ani, adică două jubilee și patru săptămâni și un an: acestea sunt zilele anilor vieții Sarei.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 19,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -160,7 +203,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαρρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sara."
+    "def_ro": "Sara — „prințesă”, noul nume al Sarei, dat de Dumnezeu.",
+    "greek_def_ro": "Σαρρα (Sarra) — Sara, nume propriu.",
+    "dict_ro": "Sara (Sarah), „prințesă”: moare la o sută douăzeci și șapte de ani (23:1–2); capitolul 23 e despre îngroparea ei și cumpărarea mormântului din Hebron."
    },
    {
     "t": " a "
@@ -174,7 +219,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπέθανεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a murit."
+    "def_ro": "a die (literal sau figurat); causatively, a kill.",
+    "greek_def_ro": "ἀποθνῄσκω (apothnēskō) — a muri.",
+    "dict_ro": "Mut, „a muri”: „Sara a murit” (23:2) — prima moarte a unui patriarh sau a unei matriarhe în povestea lui Avraam; apoi îngroparea ei."
    },
    {
     "t": " în "
@@ -188,7 +235,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "πόλει Αρβοκ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Kiriat Arba."
+    "def_ro": "kirjath-Arba sau Kirjath-ha-Arba, loc in Palestine.",
+    "greek_def_ro": "πόλις (polis), Αρβοκ (Arbok) — în cetatea Arba.",
+    "dict_ro": "Qiryat Arba (Kiriat Arba), „cetatea lui Arba” sau „a celor patru” (Easton): numele vechi al Hebronului, după Arba, un uriaș anachit (23:2; Iosua 15:13); iudeii îl tâlcuiesc „a celor patru” (Avraam, Isaac, Iacov și Adam)."
    },
    {
     "t": ", adică "
@@ -202,7 +251,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χεβρων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Hebron."
+    "def_ro": "chebron, loc in Palestine, de asemenea nume al two Israelites.",
+    "greek_def_ro": "Χεβρων (Chebron) — Hebron, nume propriu.",
+    "dict_ro": "Hebron (Chevron), „comunitate, alianță”: cetatea în care moare Sara (23:2) și în care se află peștera Macpela; Septuaginta spune Χεβρων."
    },
    {
     "t": ", în "
@@ -216,7 +267,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "γῇ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țara."
+    "def_ro": "pământ (la large, sau partitively țară).",
+    "greek_def_ro": "γῆ (gē) — pământ, țară.",
+    "dict_ro": "Erets, „țară”: „în țara Canaanului” (23:2) — Sara moare în țara făgăduită; „țara” e și ogorul cumpărat (23:15); prima bucată de pământ pe care Avraam o cumpără acolo."
    },
    {
     "t": " "
@@ -230,7 +283,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χανααν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Canaanului."
+    "def_ro": "kenaan, fiu Ham; de asemenea ținut inhabited de him.",
+    "greek_def_ro": "Χανααν (Chanaan) — Canaan, nume propriu.",
+    "dict_ro": "Canaan (Kenaan): Sara moare „în țara Canaanului” (23:2), iar mormântul ei va fi prima stăpânire a lui Avraam în ea (23:20)."
    },
    {
     "t": "; și "
@@ -244,7 +299,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: „a venit să bocească pe Sara” (23:2) și să cumpere mormântul (23:3–20); își declară statutul de „străin și venetic” (23:4)."
    },
    {
     "t": " a "
@@ -258,7 +315,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἦλθεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a venit."
+    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "greek_def_ro": "ἔρχομαι (erchomai) — a veni („a ajuns”).",
+    "dict_ro": "Bo, „a veni”: „Avraam a venit să bocească” (23:2) și „a venit în poarta cetății” (23:10); verbul arată drumul de la durere la tratativă."
    },
    {
     "t": " s o "
@@ -272,7 +331,9 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "κόψασθαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s o elogieze."
+    "def_ro": "a bocí, a-l jeli pe cel mort, a face bocet.",
+    "greek_def_ro": "κόπτομαι (koptomai) — a se tângui, a se bate în piept (la infinitiv).",
+    "dict_ro": "Safad, „a boci”: „să bocească pe Sara” (23:2) — doliul rostit, cu lauda defunctei; Septuaginta spune κόψασθαι, „a se tângui”."
    },
    {
     "t": " pe "
@@ -284,9 +345,11 @@ window.CHAPTER_DATA = [
     "translit": "leSarah",
     "strong": "H8283",
     "pos": "nume propriu",
-    "greek": "τὴν Σαρραν",
+    "greek": "Σαρρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pe Sara."
+    "def_ro": "Sara — „prințesă”, noul nume al Sarei, dat de Dumnezeu.",
+    "greek_def_ro": "Σαρρα (Sarra) — Sara, nume propriu.",
+    "dict_ro": "Sara (Sarah), „prințesă”: moare la o sută douăzeci și șapte de ani (23:1–2); capitolul 23 e despre îngroparea ei și cumpărarea mormântului din Hebron."
    },
    {
     "t": " și s o "
@@ -298,9 +361,11 @@ window.CHAPTER_DATA = [
     "translit": "velivkotah",
     "strong": "H1058",
     "pos": "verb, cu sufix",
-    "greek": "κλαῦσαι",
+    "greek": "πενθῆσαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s o plângă."
+    "def_ro": "a weep; generally a bemoan.",
+    "greek_def_ro": "πενθέω (pentheo) — a jeli (la infinitiv: „a jeli”).",
+    "dict_ro": "Bakah, „a plânge”: „și să o plângă” (23:2) — plânsul Sarei; litera kaf din cuvânt este scrisă mică în text (bikhotah), semn pentru un plâns discret; Septuaginta spune πενθῆσαι."
    },
    {
     "t": "."
@@ -309,13 +374,13 @@ window.CHAPTER_DATA = [
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
-    "original": "וַתָּמָת שָׂרָה בְּקִרְיַת אַרְבַּע הִוא חֶבְרוֹן בְּאֶרֶץ כְּנָעַן וַיָּבֹא אַבְרָהָם לִסְפֹּד לְשָׂרָה וְלִבְכֹּתָהּ",
+    "original": "וַתָּמָת שָׂרָה בְּקִרְיַת אַרְבַּע הִוא חֶבְרוֹן בְּאֶרֶץ כְּנָעַן וַיָּבֹא אַבְרָהָם לִסְפֹּד לְשָׂרָה וְלִבְכֹּתָהּ",
     "translation": "„Și Sara a murit în Kiriat Arba, adică Hebron, în țara Canaanului; și Avraham a venit s o elogieze pe Sara și s o plângă.” — traducerea rabinului Rosen.",
     "note": ""
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "καὶ ἀπέθανεν Σαρρα ἐν πόλει Αρβοκ, ἥ ἐστιν ἐν τῷ κοιλώματι (αὕτη ἐστὶν Χεβρων) ἐν γῇ Χανααν. ἦλθεν δὲ Αβρααμ κόψασθαι Σαρραν καὶ πενθῆσαι.",
+    "original": "καὶ ἀπέθανεν Σαρρα ἐν πόλει Αρβοκ, ἥ ἐστιν ἐν τῷ κοιλώματι αὕτη ἐστὶν Χεβρων ἐν γῇ Χανααν. ἦλθεν δὲ Αβρααμ κόψασθαι Σαρραν καὶ πενθῆσαι.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -329,12 +394,24 @@ window.CHAPTER_DATA = [
   ],
   "refs": [
    "Geneza 35:27",
-   "Geneza 37:14"
+   "Geneza 37:14",
+   "Geneza 23:19",
+   "Geneza 13:18",
+   "Numeri 13:22",
+   "Iosua 10:39"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«În Kiriat Arba.» După cei patru (arbaʿ) uriași care erau acolo: Ahiman, Șeșai, Talmai și tatăl lor. Altă explicație: după cele patru perechi care au fost îngropate acolo, bărbat și femeie: Adam și Eva, Avraam și Sara, Isaac și Rebeca, Iacov și Lea.<br><br>«Și Avraam a venit.» Din Beer-Șeba.<br><br>«S-o elogieze pe Sara și s-o plângă.» Iar moartea Sarei a fost alăturată legării lui Isaac, pentru că, prin vestea legării — că fiul ei fusese pregătit pentru înjunghiere și aproape că fusese înjunghiat —, i-a zburat sufletul și a murit."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Sara a murit în Chiriat-Arba, adică Hebron, în țara Canaan; și Avraam a venit s-o jelească pe Sara și s-o plângă."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Sara a murit în Chiriat-Arba, adică Hebron, în țara Canaanului; și Avraam a venit de pe muntele slujirii și a găsit-o moartă, și s-a așezat s-o jelească pe Sara și s-o plângă."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -359,6 +436,25 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și Sara a murit în Kiriat Arba»: căci acolo erau de când au ieșit din Beer-Șeba.<br><br>«În Kiriat Arba»: Arba este numele unui om, numit așa pentru că erau patru uriași, el și cei trei fii ai lui; și tot așa a spus în cartea lui Iosua: „Chiriat-Arba, tatăl lui Anac”; iar cei trei fii ai lui erau Ahiman, Șeșai și Talmai. Și cetatea aceasta, numele ei este Hebron, și era a lui Arba și a fiilor lui.<br><br>«Și Avraam a venit»: a venit din afară, căci nu era cu ea în casă în vremea morții ei; sau a venit din alt loc, căci nu era în Hebron în ceasul în care a murit.<br><br>«S-o elogieze»: cu cuvinte de jelire și cu bocete.<br><br>«Și s-o plângă»: pe ea; și tot așa vine această expresie fără legătura lui ʿal, ca „și am plâns, în post, sufletul meu”, ca și cum ar fi spus „pentru sufletul meu”; și tot așa „Și tatăl lui l-a plâns”."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și Sara a murit.» Nu este felul Scripturii să scrie moartea unei femei, chiar dacă este dreaptă, decât prin întâmplare, ca Sara, Rahela, Debora, Miriam: Sara, pentru că Avraam a cheltuit bani scumpi ca s-o îngroape și nu a cârtit, iar aceasta este una dintre cele zece încercări. Rahela, ca să se facă cunoscut că a fost îngropată în afara peșterii. Debora, ca să se facă cunoscut de ce locul acela s-a numit Alon-Bahut. Miriam, din pricina fântânii care a încetat când a murit.<br><br>«În Chiriat-Arba.» Unii (explică): faptul că a scris locul morții ei, ceea ce nu (a scris) la Avraam și la celelalte matriarhe, este pentru că Avraam a trimis-o acolo când a ieșit să meargă la muntele Moria, ca să nu simtă Legarea, căci la Beer-Șeba stătea, după cum este scris „Și a locuit Avraam în Beer-Șeba”. Iar unii spun: când s-a îmbolnăvit a dus-o acolo, pentru că în Hebron aerul este plăcut, și când a auzit vestea Legării a murit. De aceea „Și Avraam a venit din Beer-Șeba să o jelească pe Sara”, și de aceea i-a fost nevoie să cumpere acolo o proprietate funerară, căci nu era acolo locul lui de locuit.<br><br>«În Chiriat-Arba.» Cetate pe care a zidit-o un om al cărui nume era Arba, după cum este scris „Chiriat-Arba; omul cel mare dintre anachiți”. Altă explicație: cetate pe care au moștenit-o patru stăpâni unul după altul: la început seminția lui Iuda, apoi Caleb, apoi preoții și apoi leviții, după cum se află în cartea lui Iosua, în Bereșit Rabba. Și era cetate de refugiu, și de aceea nu i s-a dat lui Caleb decât fărâmele ei, după cum este scris „Dar câmpul cetății și satele ei le-au dat lui Caleb, fiul lui Iefune, ca proprietate a lui”. (Capitolul) „Yesh noḥalin”. „Și a venit Avraam”: unii (spun): chiar dacă nu a venit decât din afară, spune „și a venit”, după exemplul „a intrat în casă să-și facă treaba”.<br><br>«Ca să o elogieze pe Sara și să o plângă.» Pentru că nu avea un loc pregătit pentru înmormântare."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Și Sara a murit în Kiriat Arba etc.» Scriptura a aluzionat prin spusa „în Kiriat Arba” să spună că, Doamne ferește, nu se atribuie moartea drepților, ci „Kiriat Arba” înseamnă oraș care era zidit din patru elemente, ea s-a despărțit și a plecat de la ele. Iar spusa „adică Hebron” înseamnă că deși ea a murit, revarsă în ele aspectul alăturării (hibbur), căci drepții, deși mor, trupul nu este despuiat de viață, căci drepții în moartea lor sunt numiți vii, ieși și învață din întâmplarea lui Rav Ahai fiul lui Iosia. Iar motivul este că în timp ce sunt în lumea aceasta, transformă aspectul materiei (homer) care este în elemente în aspectul spiritualității sfinte din suflet prin fapte bune și prin intensificarea (sau „extinderea”) Torei cu care se străduiesc în lumea aceasta. Iar ca să te luminezi în lucru, ieși și învață ce a scris Rambam, capitolul 4 din Legile fundamentelor Torei, regula 5, că elementul se schimbă în elementul prietenului său apropiat de el și pământul se preface în apă. Și tot așa se va găsi că prin lipirea omului de Ziditorul lui se vor preface toate elementele în elementul foc, iar elementul foc în elementul foc al sufletului (neșama), și înțelege.<br><br>Iar spusa „în țara Canaanului”, căci lumea aceasta se numește „țara Canaanului”, aceasta este înclinația rea, și prin întărirea împotriva ei va atinge omul să facă minuni în sfințenie și în înțelegere.<br><br>«Să o elogieze pe Sara și s-o plângă» Explicația: pe Sara care a murit din lume, și s-o plângă pentru ce s-a lipsit prin absența ei. Sau va spune pe dos – pe Sara pentru dreptatea ei și pentru ce s-a lipsit prin absența ei, iar s-o plângă pentru ce o privește pe ea, că a gustat paharul morții și i-a apus soarele."
+   },
+   {
+    "author": "Cartea Jubileelor 19 — comparație",
+    "text": "Și în anul întâi al săptămânii a doua a jubileului acestuia s-au împlinit zilele vieții Sarei, și a murit în Hebron.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 19,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -377,7 +473,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: „a venit să bocească pe Sara” (23:2) și să cumpere mormântul (23:3–20); își declară statutul de „străin și venetic” (23:4)."
    },
    {
     "t": " s-a "
@@ -391,7 +489,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀνέστη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a ridicat."
+    "def_ro": "a rise (in various applications, literal, figurative, intensive si causative).",
+    "greek_def_ro": "ἀνίστημι (anistēmi) — a se ridica.",
+    "dict_ro": "Qum, „a se ridica”: „Avraam s-a ridicat de lângă mortul său” (23:3) — trece de la doliu la acțiune; Septuaginta spune ἀνέστη."
    },
    {
     "t": " de dinaintea "
@@ -405,7 +505,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, participiu cu sufix",
     "greek": "νεκροῦ αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "moartei lui."
+    "def_ro": "a die (literal sau figurat); causatively, a kill.",
+    "greek_def_ro": "νεκρός (nekros) — mort; „mortului lui”.",
+    "dict_ro": "Mut, „a muri”: „Sara a murit” (23:2) — prima moarte a unui patriarh sau a unei matriarhe în povestea lui Avraam; apoi îngroparea ei."
    },
    {
     "t": " sale și a "
@@ -417,9 +519,11 @@ window.CHAPTER_DATA = [
     "translit": "vayedaber",
     "strong": "H1696",
     "pos": "verb",
-    "greek": "ἐλάλησεν",
+    "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a vorbit."
+    "def_ro": "poate propriu-zis, a arrange; dar folosit figurat (al words), a vorbi; rarely (in destructive sens) a subdue.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi.",
+    "dict_ro": "Dibber, „a vorbi”: „a vorbit fiilor lui Het” (23:3, 8, 13, 16) — Avraam negociază cu cuvinte; toată povestea e un dialog; Septuaginta spune εἶπεν."
    },
    {
     "t": " fiilor lui "
@@ -433,7 +537,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χετ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Het."
+    "def_ro": "cheth, aboriginal Canaanite.",
+    "greek_def_ro": "Χετ (Chet) — Het, nume propriu.",
+    "dict_ro": "Het (Chet), „spaimă” (Easton): fiul lui Canaan (10:15); „fiii lui Het” (23:3, 5, 7, 10, 16, 18, 20) sunt hitiții din Hebron, locuitorii cu care Avraam tratează."
    },
    {
     "t": ", spunând:"
@@ -461,9 +567,22 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 23:19"
+   "Geneza 23:19",
+   "Geneza 23:5,7",
+   "Geneza 10:15",
+   "Geneza 25:10",
+   "Geneza 27:46",
+   "Geneza 49:30"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avraam s-a ridicat de lângă moarta lui și a vorbit cu fiii lui Het, zicând:"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Avraam s-a ridicat de lângă moarta lui și a vorbit cu fiii lui Het, spunând:"
+   },
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«De dinaintea moartei sale (penei meto).» Aluzie la trup. Și încă vei afla explicația lui lemor („spunând”)."
@@ -475,6 +594,21 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«S-a ridicat de dinaintea moartei sale» (metto): pentru nevoile mortului; și a spus metto, la masculin, deși ea este femeie, căci a spus despre trupul mort.<br><br>«Și a vorbit fiilor lui Het»: fiii erau oamenii cetății, iar Het era fiul lui Canaan; și Avraam i-a adunat într-un loc și a vorbit cu ei."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«De dinaintea moartei sale» După felul spusei lor, binecuvântată fie amintirea lor, că înainte de a se închide capacul mormântului (golel), sufletul omului vede și știe tot ce este înaintea lui. Încă de aici că se întinde mortul pe spate.<br><br>«Și a vorbit fiilor lui Het, spunând etc.» Vrea să spună că, fiindcă a cerut „dați-mi o posesiune funerară” etc., încât se vede din vorbele lui că se împacă oriunde i se va da, de aceea a spus Scriptura „spunând”, explicația: nu acesta este scopul vorbirii, ci pregătire ca să spună cererea lui, căci iată acesta este câmpul lui Efron.<br><br>Încă vrea să dea motiv de ce a fost nevoie ca Avraam să vorbească fiilor lui Het, și de asemenea să lungească tot ce s-a spus în chestiune, și oare cel care avea nevoie să cumpere o posesiune funerară sau un câmp ca să-l are sau să-l planteze ar fi nevoit să facă să tune lumea și pe locuitorii ei? Pentru aceasta a încheiat spunând „spunând” – explicația: nu pentru nevoia a patru coți de pământ ca să o îngroape pe Sara a fost nevoie să vorbească locuitorilor țării, ci ca să spună ce s-a spus în chestiune, că a cumpărat peștera Macpela căreia nu i se poate compara nimic, și de aceea a fost nevoie să vorbească cu toți și cu toți cei prezenți ca să fie valabilă cumpărarea ei după lege.<br><br>Încă vrea să îndepărteze un mare reproș de la Avraam, anume cum va cere dar gratuit și va spune „dați-mi o posesiune”, de aceea a pus înainte și a spus „spunând”, explicația: inima lui nu gândește așa, ci din gura lui a spus cuvintele, iar gândul lui este să vină cu o pretenție, după cum voi explica în curând."
+   },
+   {
+    "author": "Cartea Jubileelor 19 — comparație",
+    "text": "Și Avraam a mers să o jelească și s-o îngroape, și l-am încercat să vedem dacă duhul lui e răbdător și nu se mânie în cuvintele gurii sale; și a fost găsit răbdător în aceasta, și nu s-a tulburat.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 19,
+      "v": 3
+     }
+    }
    }
   ]
  },
@@ -493,7 +627,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πάροικος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Străin."
+    "def_ro": "propriu-zis, guest; de implicație, foreigner.",
+    "greek_def_ro": "πάροικος (paroikos) — străin, locuitor temporar.",
+    "dict_ro": "Ger, „străin, venetic”: „străin și venetic sunt între voi” (23:4) — Avraam își spune statutul: nu are drepturi de proprietate, de aceea cere să cumpere; apare și în Evrei 11:13."
    },
    {
     "t": " și "
@@ -507,7 +643,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "παρεπίδημος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "rezident."
+    "def_ro": "dweller dar nu outlandish [5237]; in special (ca distinguished de la native citizen [active participle of 3427] si temporary inmate [1616] sau mere lodger [3885]) resident alien.",
+    "greek_def_ro": "παρεπίδημος (parepidemos) — venetic, călător străin.",
+    "dict_ro": "Toshav, „locuitor temporar”: „venetic” (23:4) — omul care locuiește fără drept de moștenire; Septuaginta spune πάροικος καὶ παρεπίδημος."
    },
    {
     "t": " sunt eu printre voi; "
@@ -519,9 +657,11 @@ window.CHAPTER_DATA = [
     "translit": "tenu",
     "strong": "H5414",
     "pos": "verb, imperativ",
-    "greek": "δότε μοι",
+    "greek": "δότε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "dați-mi."
+    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "greek_def_ro": "δίδωμι (didomi) — a da („dați”).",
+    "dict_ro": "Natan, „a da”: „dați-mi o posesiune de mormânt” (23:4), „îți dau ogorul” (23:11): hitiții oferă gratuit, Avraam cere să plătească; Septuaginta spune δότε."
    },
    {
     "t": " o "
@@ -535,7 +675,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "κτῆσιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "posesiune."
+    "def_ro": "ceva seized, adică possession (in special al țară).",
+    "greek_def_ro": "κτῆσις (ktesis) — stăpânire, proprietate (la acuzativ).",
+    "dict_ro": "Achuzzah, „stăpânire, moșie”: „o posesiune de mormânt” (23:4, 9, 20) — Avraam cere să fie proprietarul legal al locului de îngropare; Septuaginta spune κτῆσις τάφου."
    },
    {
     "t": " "
@@ -549,7 +691,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τάφου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "funerară."
+    "def_ro": "mormânt, loc de îngropare.",
+    "greek_def_ro": "τάφος (taphos) — mormânt (la genitiv).",
+    "dict_ro": "Qever, „mormânt”: „mormântul” (23:4, 6, 9, 20) — locul de îngropare; cuvântul revine ca mărturie că primul pământ al lui Avraam e un mormânt."
    },
    {
     "t": " cu voi ca să-mi "
@@ -563,7 +707,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "θάψω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "îngrop."
+    "def_ro": "a îngropa, a pune în mormânt.",
+    "greek_def_ro": "θάπτω (thapto) — a îngropa („voi îngropa”).",
+    "dict_ro": "Qavar, „a îngropa”: „să îngrop pe mortul meu” (23:4, 6, 8, 11, 13, 15, 19) — verbul îngropării, repetat de șapte ori; Septuaginta spune θάπτω."
    },
    {
     "t": " "
@@ -577,7 +723,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, participiu cu sufix",
     "greek": "νεκρόν μου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "moarta mea."
+    "def_ro": "a die (literal sau figurat); causatively, a kill.",
+    "greek_def_ro": "νεκρός (nekros) — mort; „mortul meu”.",
+    "dict_ro": "Mut, „a muri”: „Sara a murit” (23:2) — prima moarte a unui patriarh sau a unei matriarhe în povestea lui Avraam; apoi îngroparea ei."
    },
    {
     "t": " de dinaintea mea.”"
@@ -606,12 +754,24 @@ window.CHAPTER_DATA = [
   ],
   "refs": [
    "Fapte 7:5",
-   "Evrei 11:9,13"
+   "Evrei 11:9,13",
+   "Geneza 17:8",
+   "Geneza 47:9",
+   "Leviticul 25:23",
+   "1 Cronici 29:15"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Străin și rezident sunt eu printre voi.» Străin dintr-o altă țară, și m-am așezat cu voi. Iar midrașul aggadei: dacă vreți, iată, sunt străin; iar dacă nu, voi fi stăpân și o voi lua după lege, căci mi-a zis Sfântul, binecuvântat fie El: „Seminției tale îi voi da această țară”.<br><br>«O posesiune funerară.» O proprietate de pământ pentru cimitir."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "„Străin și locuitor vremelnic sunt eu la voi; dați-mi o proprietate de mormânt la voi, ca să-mi îngrop moarta dinaintea mea.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "„Străin și locuitor vremelnic sunt eu printre voi; vindeți-mi, vă rog, o moștenire pentru mormânt la voi, ca să-mi îngrop moarta acolo.”"
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -632,6 +792,29 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Străin și rezident»: străin sunt, căci zile multe am locuit printre voi și am de gând să locuiesc cu voi; de aceea a spus: eu vă cer să-mi dați un loc în țara voastră, care să-mi fie posesiune mie și fiilor mei după mine; și eu nu vă cer acum decât o posesiune funerară.<br><br>«Ca să-mi îngrop moarta de dinaintea mea»: adică s-o îndepărtez de dinaintea mea și s-o îngrop."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Străin și rezident sunt eu printre voi.» „Străin” – care a venit dintr-o țară străină, „și rezident” – că intenția mea este să mă așez printre voi. Aici Rashi: „Iar dacă nu, o voi lua prin judecată”. Iar dacă vei spune: Doar în pericopa „Lekh lekha”, la „iar canaanitul și perizitul locuiau atunci în țară”, Rashi: Încă nu avea Avraam parte în țară, căci încă nu avea sămânță, iar este scris „Seminției tale îi voi da această țară”; dar acum, în pericopa „Ḥayei Sarah”, s-a născut Isaac și avea parte în țară.<br><br>«Dați-mi o posesiune funerară.» Dacă îmi voi îngropa mortul într-unul din câmpurile oamenilor cetății, astăzi sau mâine va veni stăpânul câmpului să are și va scormoni în mormânt și va arunca oasele; dar de vreme ce îmi veți da posesiune funerară, nu este de temut că vor ara în ea."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Străin și rezident.» „Străin”, căci am venit dintr-o altă țară, „și rezident”, căci gândul meu este să mă așez cu voi; iar ei au răspuns: nu ești străin în ochii noștri, ci „prinț al lui Dumnezeu”."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Străin și rezident etc.» Motivul pretenției lui „străin și rezident”, după ce a scris Rambam în capitolul 3 din Legile dobândirii și darului, iar acesta este textul lui: Poate da dar gratuit unui străin rezident (ger toșav) pe care ești poruncit să-l ții în viață, căci este scris „străin și rezident și să trăiască cu tine”, până aici. Și ai de știut că toată Tora noastră sfântă este rațională (sikhlit), în special în treburile conduitei pământești, și după cum noi ne purtăm cu străinul care locuiește cu noi, tot așa se obligă rațional locuitorii țării să se poarte între ei ca să țină în viață un om care este străin și rezident la ei și să-i dea dar gratuit, și aceasta este pretenția lui Avraam „străin și rezident sunt eu, dați-mi”. Și a fost exact să spună „străin” și nu i-a fost destul să spună „rezident”, intenționat să spună că deși sunt străin și nu sunt dintre voi, totuși iată sunt rezident. Încă motivul spusei „străin”, căci s-a temut să spună despre sine „rezident” în lumea aceasta, și este contrariul purtării drepților, de aceea a pus înainte „străin”.<br><br>«Ca să-mi îngrop moarta» Explicația: să nu-l împiedice. Încă a intenționat să spună: fiindcă are să-și dezvăluie gândul că dorește câmpul lui Efron și dă pe el bani, acum vor spune: ce a văzut Avraam să dea atât de mult în sadna de-arʿa, oare nu este un lucru, desigur a văzut în el un lucru mare care va valora de multe ori mai mult! De aceea a pus înainte să spună „să-mi îngrop moarta” ca s-o îngrop dinaintea mea, explicația: aceasta este ce îl constrânge să nu se îngrijoreze de banii lui, și dacă nu ar fi fost mortul lui înaintea lui nu ar fi cumpărat nimic. Și de acum deși va cumpăra câmpul lui Efron cu orice bani din lume, vor atribui că este un loc ales pentru înmormântare și ei nu au nimic de pierdut în aceasta."
+   },
+   {
+    "author": "Cartea Jubileelor 19 — comparație",
+    "text": "Căci cu răbdare de duh a vorbit cu fiii lui Het, ca să-i dea un loc în care să-și îngroape mortul.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 19,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -650,7 +833,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χετ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Het."
+    "def_ro": "cheth, aboriginal Canaanite.",
+    "greek_def_ro": "Χετ (Chet) — Het, nume propriu.",
+    "dict_ro": "Het (Chet), „spaimă” (Easton): fiul lui Canaan (10:15); „fiii lui Het” (23:3, 5, 7, 10, 16, 18, 20) sunt hitiții din Hebron, locuitorii cu care Avraam tratează."
    },
    {
     "t": " i-au "
@@ -664,7 +849,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπεκρίθησαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-au răspuns."
+    "def_ro": "propriu-zis, a eye sau (generally) a heed, adică pay attention; de implicație, a respond; de extension a begin a vorbi; in special a sing, shout, testify, announce.",
+    "greek_def_ro": "ἀποκρίνομαι (apokrinomai) — a răspunde („au răspuns”).",
+    "dict_ro": "Ana, „a răspunde”: „fiii lui Het au răspuns” (23:5, 10, 14); verbul face din capitol o convorbire cu rânduială."
    },
    {
     "t": " lui "
@@ -678,7 +865,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "πρὸς Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "πρός (pros), Αβρααμ (Abraam) — către Avraam.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: „a venit să bocească pe Sara” (23:2) și să cumpere mormântul (23:3–20); își declară statutul de „străin și venetic” (23:4)."
    },
    {
     "t": ", spunându-i:"
@@ -707,12 +896,24 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Targum Onkelos",
+    "text": "Și fiii lui Het i-au răspuns lui Avraam, zicându-i:"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și fiii lui Het i-au răspuns lui Avraam, spunându-i:"
+   },
+   {
     "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
     "text": "«Și fiii lui Het i-au răspuns.» A spus Rabbi Elʿazar: câte condeie se rup și câtă cerneală se varsă ca să se scrie de zece ori „fiii lui Het” în Tora — ca să te învețe că oricine lămurește partea unui drept, Scriptura i-o socotește ca și cum ar fi împlinit cele cinci cărți ale Torei. Și în același fel se tâlcuiește în Aggada la „Și a venit un om din Baal-Șalișa și i-a adus omului lui Dumnezeu pâine din primele roade”; și se întreabă: oare Elisei era preot, de mânca primele roade? Ci oricine aduce un dar unui învățat, Scriptura i-o socotește ca și cum ar fi construit Templul și ar aduce primele roade. Și tot așa la lucrul închinat (ḥerem) al lui Acan este scris de cinci ori gam („și”), ca să spună că oricine se atinge cu necredincioșie de lucrul închinat este ca și cum ar fi călcat cele cinci cărți ale Torei. Altă explicație: ia prima literă și ultima literă din toate cuvintele de la sfârșitul celor cinci cărți ale Torei, și suma lor va fi ḥerem: bet și mem din be-Miṣrayim, de la sfârșitul Genezei; mem și mem din masʿeihem, de la sfârșitul Exodului; samekh și yod din Sinai, de la sfârșitul Leviticului; yod și vav din Yeriḥo, de la sfârșitul Numerilor; yod și lamed din Israel, de la sfârșitul Deuteronomului: iată ḥerem."
    },
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și... i-au răspuns»: s-au înțeles între ei să-i răspundă și să-i spună aceasta."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Și fiii lui Het i-au răspuns etc., spunându-i» Explicația: fiindcă nu mulți vorbesc, de aceea a spus „spunându-i”, căci unul îi va spune pentru toți.<br><br>Încă a intenționat să spună că nu s-au înțeles între ei asupra lucrului spus în răspunsul lor, ci „spunându-i”, și precum a dezvăluit sfârșitul lor despre începutul lor „cu preț întreg”."
    },
    {
     "author": "Zohar, Haiei Sara 14:6",
@@ -733,9 +934,11 @@ window.CHAPTER_DATA = [
     "translit": "shema'enu",
     "strong": "H8085",
     "pos": "verb, imperativ, cu sufix",
-    "greek": "ἄκουσον ἡμῶν",
+    "greek": "ἄκουσον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Ascultă-ne."
+    "def_ro": "a auzi intelligently (adesea cu implicație al attention, obedience, etc.; causatively, a tell, etc.).",
+    "greek_def_ro": "ἀκούω (akouo) — a asculta („ascultă”).",
+    "dict_ro": "Shama, „a asculta”: „ascultă-ne, domnul meu” (23:6, 8, 11, 13, 15) — formula politicoasă de negociere; verbul revine de cinci ori; Septuaginta spune ἄκουσον."
    },
    {
     "t": ", domnul meu, "
@@ -749,7 +952,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "βασιλεὺς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "prinț."
+    "def_ro": "propriu-zis, exalted unul, adică împărat sau sheik; de asemenea rising mist.",
+    "greek_def_ro": "βασιλεύς (basileus) — rege.",
+    "dict_ro": "Nasi, „prinț, căpetenie”: „prinț al lui Dumnezeu ești între noi” (23:6) — hitiții îl cinstesc pe Avraam; Septuaginta spune βασιλεὺς παρὰ θεοῦ, „rege de la Dumnezeu”."
    },
    {
     "t": " al lui "
@@ -763,7 +968,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "θεοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeu."
+    "def_ro": "dumnezei în sens obișnuit; dar specific folosit (la plural, mai ales cu articol) despre Dumnezeul suprem.",
+    "greek_def_ro": "θεός (theos) — Dumnezeu (la genitiv).",
+    "dict_ro": "Elohim, „Dumnezeu”: „prinț al lui Dumnezeu” (23:6) — lauda hitiților către Avraam; în ebraică, Elohim poate fi și superlativ („prinț puternic”)."
    },
    {
     "t": " ești tu în mijlocul nostru; în cele mai "
@@ -775,9 +982,11 @@ window.CHAPTER_DATA = [
     "translit": "bemivchar",
     "strong": "H4005",
     "pos": "substantiv, cu prefix",
-    "greek": "ἐκ τῶν ἐκλεκτῶν",
+    "greek": "ἐκλεκτοῖς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "alese."
+    "def_ro": "cel mai ales; „cel mai bun dintre morminte”.",
+    "greek_def_ro": "ἐκλεκτός (eklektos) — ales (la dativ plural).",
+    "dict_ro": "Mivchar, „alegere, ce e mai bun”: „în cel mai ales dintre mormintele noastre” (23:6) — oferta politicoasă a hitiților; Septuaginta spune ἐν τοῖς ἐκλεκτοῖς μνημείοις."
    },
    {
     "t": " "
@@ -789,9 +998,11 @@ window.CHAPTER_DATA = [
     "translit": "kevareinu",
     "strong": "H6913",
     "pos": "substantiv cu sufix",
-    "greek": "μνημείων ἡμῶν",
+    "greek": "μνημείοις ἡμῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mormintelor noastre."
+    "def_ro": "mormânt, loc de îngropare.",
+    "greek_def_ro": "μνημεῖον (mnemeion) — mormânt; „mormintele noastre”.",
+    "dict_ro": "Qever, „mormânt”: „mormântul” (23:4, 6, 9, 20) — locul de îngropare; cuvântul revine ca mărturie că primul pământ al lui Avraam e un mormânt."
    },
    {
     "t": " ale noastre "
@@ -805,7 +1016,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "θάψον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "îngroapă-ți."
+    "def_ro": "a îngropa, a pune în mormânt.",
+    "greek_def_ro": "θάπτω (thapto) — a îngropa („îngroapă”).",
+    "dict_ro": "Qavar, „a îngropa”: „să îngrop pe mortul meu” (23:4, 6, 8, 11, 13, 15, 19) — verbul îngropării, repetat de șapte ori; Septuaginta spune θάπτω."
    },
    {
     "t": " "
@@ -819,7 +1032,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, participiu cu sufix",
     "greek": "τὸν νεκρόν σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "moarta ta."
+    "def_ro": "a die (literal sau figurat); causatively, a kill.",
+    "greek_def_ro": "νεκρός (nekros) — mort; „mortul tău”.",
+    "dict_ro": "Mut, „a muri”: „Sara a murit” (23:2) — prima moarte a unui patriarh sau a unei matriarhe în povestea lui Avraam; apoi îngroparea ei."
    },
    {
     "t": ", nimeni din noi nu va "
@@ -833,7 +1048,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κωλύσει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "va pregeta."
+    "def_ro": "a restrict, de act (hold înapoi sau in) sau cuvânt (prohibit).",
+    "greek_def_ro": "κωλύω (kolyo) — a opri („va opri”).",
+    "dict_ro": "Kala, „a opri, a refuza”: „nimeni nu-ți va opri mormântul” (23:6) — oferta e un dar deschis; Septuaginta spune κωλύσει."
    },
    {
     "t": " [să-ți dea] "
@@ -847,7 +1064,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὸ μνημεῖον αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mormântul lui."
+    "def_ro": "mormânt, loc de îngropare.",
+    "greek_def_ro": "μνημεῖον (mnemeion) — mormânt; „mormântul lui”.",
+    "dict_ro": "Qever, „mormânt”: „mormântul” (23:4, 6, 9, 20) — locul de îngropare; cuvântul revine ca mărturie că primul pământ al lui Avraam e un mormânt."
    },
    {
     "t": " său ca să-ți "
@@ -861,7 +1080,9 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "θάψαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "să-ți îngropi."
+    "def_ro": "a îngropa, a pune în mormânt.",
+    "greek_def_ro": "θάπτω (thapto) — a îngropa (la infinitiv).",
+    "dict_ro": "Qavar, „a îngropa”: „să îngrop pe mortul meu” (23:4, 6, 8, 11, 13, 15, 19) — verbul îngropării, repetat de șapte ori; Septuaginta spune θάπτω."
    },
    {
     "t": " moarta.”"
@@ -889,12 +1110,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 21:22"
+   "Geneza 21:22",
+   "Geneza 18:12",
+   "Geneza 24:18,35",
+   "Geneza 31:35",
+   "Geneza 32:4,5,18",
+   "Geneza 42:10"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Nu va pregeta (lo yikhleh).» Nu va opri, ca în „nu-Ți opri (tikhla) îndurările Tale” și ca în „și ploaia a fost oprită (va-yikkale)”."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "„Ascultă-ne, stăpâne: tu ești o căpetenie mare înaintea Domnului în mijlocul nostru; în cel mai bun dintre mormintele noastre îngroapă-ți moarta; niciunul dintre noi nu-și va opri mormântul de la tine, ca să nu-ți îngropi moarta.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "„Ascultă-ne, stăpâne! Mare înaintea Domnului ești tu printre noi; în cel mai frumos dintre mormintele noastre îngroapă-ți moarta: niciunul dintre noi nu-ți va opri mormântul lui, ca să nu-ți îngropi moarta.”"
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -911,6 +1145,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Ascultă-ne, domnul meu»: cel care vorbea în numele tuturor i-a spus aceasta, de aceea i-a spus la singular; și a spus alte cuvinte la plural, pentru că vorbea în numele mai multora.<br><br>«Prinț al lui Dumnezeu» (nesi Elohim): că Dumnezeu te-a înălțat (nesaʾakha), iar noi te socotim așa în mijlocul nostru.<br><br>«În cele mai alese morminte ale noastre»: căci aveau peșteri ca să-și îngroape morții acolo, și fiecare familie, deosebit, avea o peșteră; îngropau acolo mai mulți morți, fiecare în sicriul lui, și toată peștera aceea se numește mormânt; și așa este obiceiul încă în multe locuri. Și gândul lor era că el va cere de la ei ca unul dintre ei să-i dea un loc în mormântul lui ca să-și îngroape moarta; de aceea au spus „nimeni din noi... mormântul său”; dar nu așa a cerut el, ci să aibă o posesiune cunoscută, pentru el și pentru familia lui, ca să-și îngroape acolo morții, nu ca moarta lui să fie îngropată în mormântul altora.<br><br>«Nu va pregeta» (lo yikhleh): nu va opri; și tot așa „care m-ai oprit (kelitini) astăzi să vin la vărsare de sânge”."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Prinț al lui Dumnezeu.» I-au răspuns punct cu punct: Ai spus „străin și rezident”: nu este așa, ci prinț al lui Dumnezeu ești tu; iar ceea ce ai cerut să cumperi proprietate funerară, ca să nu are în ea: „în cele mai alese morminte ale noastre” – în mormântul nostru ales în care îngropăm pe prinți, „îngroapă-ți moarta”; și este cinste să cauți pentru tine loc în cel mai ales mormânt al nostru; „nimeni din noi nu va pregeta să-ți dea mormântul său” – chiar mormântul special al lui din viața lui."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Ascultă-ne, domnul meu etc.» Explicația: primește cuvintele noastre pe care îți spunem să le faci, anume că tu să alegi mormântul cel mai ales dintre morminte și să-ți îngropi mortul, și nu ai nevoie să ceri permisiune să spui: locul cutare îl doresc, nici să dai prețul lui. Iar motivul este „nimeni din noi nu va pregeta să-ți dea mormântul său” etc., și iată darea permisiunii de acum este dată ție. Iar motivul lor ca să nu întârzie mortul lui înaintea lui, după cum a venit în pretenția lui. Iar spusa „prinț al lui Dumnezeu” etc. se va explica în curând:<br><br>«Domnul meu» Explicația: stăpân, și nu este un sufix pentru singular, ca în „Adoni-Țedec” din Iosua."
+   },
+   {
+    "author": "Ioan Gură de Aur, Omilii la Facere",
+    "text": "Moartea Sarei a fost prilejul primei dobândiri de pământ de către patriarh. Sfânta Scriptură ne arată în toate cazurile virtutea patriarhului, anume că și-a petrecut tot timpul ca străin și nomad. Și ne pomenește acest din urmă lucru ca să aflăm că omul care se bucura de atât de mult ajutor de sus, care ajunsese atât de vestit și crescuse la o mulțime atât de mare, nu putea numi un loc al lui, spre deosebire de mulți oameni de azi, care își îndreaptă toată luarea-aminte spre dobândirea de pământuri, de orașe întregi și de bogății nespuse. Căci el avea destulă bogăție în gândul lui și nu punea preț pe celelalte. Să ia aminte la aceasta cei care, într-o clipită, își însușesc tot ce își pot închipui și, ca să spunem așa, își întind în toate părțile pofta de câștig. Să-l imite și pe patriarhul care n-avea nici măcar un loc unde să pună rămășițele Sarei, până când, silit de însăși nevoia, a cumpărat ogorul și peștera de la hitiți. Ca dovadă că era de fapt respectat de locuitorii Canaanului, ascultă cuvintele pe care i le-au adresat hitiții: „Tu ești rege între noi, din voia lui Dumnezeu; îngroapă-ți mortul în cele mai bune morminte ale noastre. Căci nimeni dintre noi nu-ți va opri mormântul.”"
    }
   ]
  },
@@ -926,7 +1172,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: „a venit să bocească pe Sara” (23:2) și să cumpere mormântul (23:3–20); își declară statutul de „străin și venetic” (23:4)."
    },
    {
     "t": " s-a "
@@ -940,7 +1188,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀναστὰς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a ridicat."
+    "def_ro": "a rise (in various applications, literal, figurative, intensive si causative).",
+    "greek_def_ro": "ἀνίστημι (anistemi) — a se ridica; la participiu, „ridicându-te”.",
+    "dict_ro": "Qum, „a se ridica”: „Avraam s-a ridicat de lângă mortul său” (23:3) — trece de la doliu la acțiune; Septuaginta spune ἀνέστη."
    },
    {
     "t": " și s-a "
@@ -954,7 +1204,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "προσεκύνησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a prosternat."
+    "def_ro": "a se prosterna, a se pleca până la pământ.",
+    "greek_def_ro": "προσκυνέω (proskyneo) — a se închina, a se prosterna („s-a prosternat”).",
+    "dict_ro": "Shachah, „a se prosterna”: „Avraam s-a prosternat în fața poporului țării” (23:7, 12) — gest de respect față de hitiți, în negociere."
    },
    {
     "t": " înaintea "
@@ -968,7 +1220,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τῷ λαῷ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "poporului."
+    "def_ro": "popor (ca congregated unit); in special, seminție (ca those al Israel); de aici (collectively) troops sau attendants; figurat, flock.",
+    "greek_def_ro": "λαός (laos) — popor (la dativ: „poporului”).",
+    "dict_ro": "Am, „popor”: „poporul țării” (23:7, 12–13) — locuitorii Hebronului adunați la poartă; Septuaginta spune ὁ λαὸς τῆς γῆς."
    },
    {
     "t": " "
@@ -982,7 +1236,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῆς γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țării."
+    "def_ro": "pământ (la large, sau partitively țară).",
+    "greek_def_ro": "γῆ (ge) — pământ, țară.",
+    "dict_ro": "Erets, „țară”: „în țara Canaanului” (23:2) — Sara moare în țara făgăduită; „țara” e și ogorul cumpărat (23:15); prima bucată de pământ pe care Avraam o cumpără acolo."
    },
    {
     "t": ", fiilor lui "
@@ -996,7 +1252,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χετ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Het."
+    "def_ro": "cheth, aboriginal Canaanite.",
+    "greek_def_ro": "Χετ (Chet) — Het, nume propriu.",
+    "dict_ro": "Het (Chet), „spaimă” (Easton): fiul lui Canaan (10:15); „fiii lui Het” (23:3, 5, 7, 10, 16, 18, 20) sunt hitiții din Hebron, locuitorii cu care Avraam tratează."
    },
    {
     "t": "."
@@ -1024,9 +1282,22 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 19:1"
+   "Geneza 19:1",
+   "Geneza 18:2",
+   "Proverbe 18:24",
+   "Romani 12:17,18",
+   "Evrei 12:14",
+   "1 Petru 3:8"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avraam s-a ridicat și s-a plecat înaintea poporului țării, înaintea fiilor lui Het."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Avraam s-a ridicat și s-a plecat înaintea poporului țării, înaintea fiilor lui Het."
+   },
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "Iar gramatica lui wa-yištaḥu este în Cartea Temeliei. Iar cei care spun că prosternarea lui a fost pentru Nume nu au spus nimic, căci Scriptura a spus că s-a prosternat înaintea fiilor lui Het. Iar prosternarea înseamnă să-și plece capul, și aceasta este regula celui care dă laudă altuia; și Moise s-a prosternat înaintea socrului său."
@@ -1038,6 +1309,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Avraam s-a ridicat și s-a prosternat»: s-a ridicat în picioare și și-a plecat capul înaintea lor, în chip de mulțumire și laudă pentru lucrul bun pe care i l-au răspuns, și le-a făcut cunoscut ce avea de gând să le ceară."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Avraam s-a ridicat și s-a prosternat.» Avraam avea nevoie de toți, căci chiar dacă Efron i-ar fi vândut câmpul, Avraam nu avea voie să-l facă loc de înmormântare fără învoirea tuturor locuitorilor cetății; și de aceea a trebuit să se ridice, ca să se prosterneze înaintea tuturor, chiar și a celor din spatele lui. Dar la prosternarea înaintea lui Efron, care era singur, nu a trebuit să se ridice, ci să se prosterneze înaintea lui."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Avraam s-a ridicat.» Pentru că voia să se prosterneze înaintea tuturor, atât a celor dinaintea lui, cât și a celor din spatele lui, iar pe cei din părțile lui a trebuit să se ridice; iar el avea nevoie de toți, căci chiar dacă Efron i-a vândut câmpul și peștera, nu era permis să facă acolo un cimitir decât cu încuviințarea tuturor locuitorilor cetății, ca nu cumva să spună: nu ai voie să înmulțești la noi un loc de necurăție; și de aceea s-a întâlnit cu toți."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Avraam s-a ridicat etc. și s-a prosternat etc.» Le-a dezvăluit contrariul vorbelor lor către el, căci nu se socotește pe sine prinț pentru ei, ci în rândul în care ei sunt în cinste mai presus de el."
    }
   ]
  },
@@ -1056,7 +1339,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐλάλησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a vorbit."
+    "def_ro": "poate propriu-zis, a arrange; dar folosit figurat (al words), a vorbi; rarely (in destructive sens) a subdue.",
+    "greek_def_ro": "λαλέω (laleo) — a vorbi („a vorbit”).",
+    "dict_ro": "Dibber, „a vorbi”: „a vorbit fiilor lui Het” (23:3, 8, 13, 16) — Avraam negociază cu cuvinte; toată povestea e un dialog; Septuaginta spune εἶπεν."
    },
    {
     "t": " cu ei, spunând: „Dacă este [într-adevăr dorința] "
@@ -1070,7 +1355,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τῇ ψυχῇ ὑμῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sufletelor voastre."
+    "def_ro": "suflet viu — propriu-zis, o ființă care respiră, un animal; folosit foarte larg pentru viață, trup sau minte.",
+    "greek_def_ro": "ψυχή (psyche) — suflet; „sufletul vostru”.",
+    "dict_ro": "Nefesh, „suflet, voință”: „dacă este voia sufletelor voastre” (23:8) — „dacă vreți”; Septuaginta spune εἰ ἔστιν ἐν ταῖς ψυχαῖς ὑμῶν."
    },
    {
     "t": " voastre să-mi "
@@ -1084,7 +1371,9 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "θάψαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "îngrop."
+    "def_ro": "a îngropa, a pune în mormânt.",
+    "greek_def_ro": "θάπτω (thapto) — a îngropa (la infinitiv).",
+    "dict_ro": "Qavar, „a îngropa”: „să îngrop pe mortul meu” (23:4, 6, 8, 11, 13, 15, 19) — verbul îngropării, repetat de șapte ori; Septuaginta spune θάπτω."
    },
    {
     "t": " "
@@ -1098,7 +1387,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, participiu cu sufix",
     "greek": "νεκρόν μου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "moarta mea."
+    "def_ro": "a die (literal sau figurat); causatively, a kill.",
+    "greek_def_ro": "νεκρός (nekros) — mort; „mortul meu”.",
+    "dict_ro": "Mut, „a muri”: „Sara a murit” (23:2) — prima moarte a unui patriarh sau a unei matriarhe în povestea lui Avraam; apoi îngroparea ei."
    },
    {
     "t": " de dinaintea mea, "
@@ -1112,7 +1403,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ, cu sufix",
     "greek": "ἀκούσατέ μου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ascultați-mă."
+    "def_ro": "a auzi intelligently (adesea cu implicație al attention, obedience, etc.; causatively, a tell, etc.).",
+    "greek_def_ro": "ἀκούω (akouo) — a asculta; „ascultați-mă”.",
+    "dict_ro": "Shama, „a asculta”: „ascultă-ne, domnul meu” (23:6, 8, 11, 13, 15) — formula politicoasă de negociere; verbul revine de cinci ori; Septuaginta spune ἄκουσον."
    },
    {
     "t": " și "
@@ -1126,7 +1419,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "λαλήσατε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "interveniți."
+    "def_ro": "a impinge, de accident sau violence, sau (figurat) de importunity.",
+    "greek_def_ro": "λαλέω (laleo) — a vorbi („vorbiți”).",
+    "dict_ro": "Paga, „a interveni, a mijloci”: „interveniți pentru mine la Efron” (23:8) — Avraam cere mijlocirea hitiților; verbul spune și „a se întâlni”."
    },
    {
     "t": " pentru mine la "
@@ -1140,7 +1435,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Εφρων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Efron."
+    "def_ro": "ephron, nume al Canaanite si al two places in Palestine.",
+    "greek_def_ro": "Εφρων (Ephron) — Efron, nume propriu.",
+    "dict_ro": "Efron (Ephron), „ca un pui de căprioară” sau „țărână” (Easton, Hitchcock): hititul fiul lui Țohar, stăpânul ogorului și al peșterii Macpela (23:8–17)."
    },
    {
     "t": ", fiul lui "
@@ -1154,7 +1451,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σααρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Țohar."
+    "def_ro": "tsochar, nume al Hittite si al Israelite.",
+    "greek_def_ro": "Σααρ (Saar) — Țohar, nume propriu.",
+    "dict_ro": "Țohar (Tsochar), „alb, strălucitor” (Easton): tatăl lui Efron hititul (23:8); alt Țohar: fiul lui Simeon (46:10)."
    },
    {
     "t": ","
@@ -1187,6 +1486,14 @@ window.CHAPTER_DATA = [
     "text": "«Dorința sufletelor voastre (nafșekhem).» Voința voastră.<br><br>«Și interveniți pentru mine (u-figʿu li).» Cuvânt de rugăminte, ca în „nu stărui pe lângă mine (al tifgeʿi vi)”."
    },
    {
+    "author": "Targum Onkelos",
+    "text": "Și a vorbit cu ei, zicând: „Dacă este voia voastră să-mi îngrop moarta dinaintea mea, ascultați-mă și rugați-vă pentru mine la Efron, fiul lui Țohar,"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a vorbit cu ei, spunând: „Dacă este voia voastră să-mi îngrop moarta dinaintea mea, ascultați-mă și rugați-vă pentru mine înaintea lui Efron, fiul lui Țohar,"
+   },
+   {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«Dacă este într-adevăr dorința sufletelor voastre să-mi îngrop moarta de dinaintea mea» Rostul lui este: eu nu-mi voi îngropa moarta într-un alt mormânt; dar dacă voia voastră este să-mi îngrop moarta, interveniți pentru mine la Efron, care are o peșteră la marginea câmpului lui, iar ea nu este pentru el cimitirul părinților lui, căci ei o au ca un câmp. Iar rostul lui „de dinaintea mea”: căci dacă nu veți face așa, o voi îngropa într-un sicriu. Sau rostul lui va fi: moarta mea, care este înaintea mea, iar eu trebuie să mă grăbesc s-o îngrop. Iar rostul lui „și interveniți pentru mine”: căci Efron era bogat și cinstit, cum a spus „ce-i oare aceasta între mine și tine?”, și nu i-ar fi fost spre cinste să vândă moștenirea părinților lui, ca în chestiunea lui Nabot din Izreel; de aceea Avraam nu a mers la el ca să-i mărească prețul câmpului, ci le-a cerut oamenilor cetății să intervină pentru el, cu cinste."
    },
@@ -1197,7 +1504,21 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Dorința sufletelor voastre» (et nafšekhem): voia voastră, ca „nu mă da voii (be-nefeš) potrivnicilor mei”.<br><br>«Interveniți pentru mine» (u-figʿu li): rugați-vă pentru mine."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și interveniți pentru mine la Efron.» Iar dacă vei spune: Doar au spus mai sus „în cel mai ales mormânt al nostru îngroapă-ți moarta”? Ci Efron nu era hitit: a venit și s-a așezat printre ei și a devenit prinț, iar Avraam le-a spus să-l roage pe Efron să fie de acord cu lucrul."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Și a vorbit cu ei etc. Dacă este dorința sufletelor voastre etc.» Se va explica după felul spusei lor, binecuvântată fie amintirea lor, iar acesta este textul lor: Aceștia din casa Capului Exilului nu fac posesie (lo mahzeqi) ben etc. Și au spus motivul că, din cauză că sunt puternici, deși au luat în stăpânire pământul nu le folosește stăpânirea în pământ și li-l scot din mâini.<br><br>Iată, în răspunsul fiilor lui Het au spus „prinț al lui Dumnezeu” etc. „nimeni din noi nu va pregeta să-ți dea mormântul său” etc., în vorbele lor sunt două căi: Prima este că el este mare foarte și puternic, va face dorința și voia lui căci nu este cine să-i protesteze din pricina puterii, și după aceasta nu are lege de posesie în mormânt, iar când mâna lor va ajunge vor evacua mortul din mormântul lui, și aceasta spune că ei nu doresc ca să-și îngroape mortul dinaintea lui decât dacă va face prin forță, și iată el avertizează și stă. Iar calea a doua este în acest fel: „prinț al lui Dumnezeu” etc., explicația: nu ai de ce să te temi de grija legii casei Capului Exilului că posesia lor nu este posesie, căci cazul nu este asemănător, căci motivul casei Capului Exilului este fiindcă sunt bănuiți de jaf și de violență, dar tu ești prinț al lui Dumnezeu, explicația: măreția ta este din pricina meritului dreptății tale și a curăției palmelor tale, și nu este de temut în aceasta, iar posesia ta este posesie căreia nu i se opune pretenție. Și poate că de aceea au intenționat prin spusa lor „ascultă-ne”, explicația: înțelege cuvintele noastre încotro se înclină. De aceea a spus „dacă este dorința sufletelor voastre” etc., explicația: dacă intenția voastră în sensul cuvintelor voastre este că doriți să îngropați etc., „ascultați-mă și fiți voi mijlocitori (sarsorim) între mine și Efron” etc. Dar în afară de aceasta, va înclina lucrul că explicația cuvintelor lor este ca explicația cea dintâi și nu este dorința lor să îngroape etc.:"
    }
+  ],
+  "refs": [
+   "1 Împărați 2:17",
+   "Luca 7:3,4",
+   "Evrei 7:26",
+   "1 Ioan 2:1,2"
   ]
  },
  {
@@ -1213,9 +1534,11 @@ window.CHAPTER_DATA = [
     "translit": "veyiten",
     "strong": "H5414",
     "pos": "verb",
-    "greek": "δώσει",
+    "greek": "δότω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "dea."
+    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "greek_def_ro": "δίδωμι (didomi) — a da („să dea”).",
+    "dict_ro": "Natan, „a da”: „dați-mi o posesiune de mormânt” (23:4), „îți dau ogorul” (23:11): hitiții oferă gratuit, Avraam cere să plătească; Septuaginta spune δότε."
    },
    {
     "t": " "
@@ -1229,7 +1552,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὸ σπήλαιον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "peștera."
+    "def_ro": "peșteră — scorbură în stâncă, adăpost în munte.",
+    "greek_def_ro": "σπήλαιον (spelaion) — peșteră („peștera”).",
+    "dict_ro": "Me’arah, „peșteră”: „peștera Macpela” (23:9, 11, 17, 19–20) — peștera dublă, în care va fi îngropată Sara, apoi Avraam, Isaac, Rebeca, Lea și Iacov; Septuaginta spune τὸ σπήλαιον τὸ διπλοῦν."
    },
    {
     "t": " "
@@ -1243,7 +1568,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τὸ διπλοῦν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Mahpela."
+    "def_ro": "makpelah, loc în Palestine.",
+    "greek_def_ro": "διπλοῦς (diplous) — dublu („cea dublă”).",
+    "dict_ro": "Machpelah (Makhpelah), „dublă” (Easton): peștera și ogorul cumpărate de Avraam de la Efron, pentru o groapă familială (23:9, 17, 19); locul se află la răsărit de Hebron, „în fața Mamre”."
    },
    {
     "t": " care este a lui, care este la "
@@ -1255,9 +1582,11 @@ window.CHAPTER_DATA = [
     "translit": "biktseh",
     "strong": "H7097",
     "pos": "substantiv, stare construită",
-    "greek": "ἐπ᾿ ἄκρου",
+    "greek": "μέρει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "marginea."
+    "def_ro": "capăt, extremitate, sfârșit al unui răstimp.",
+    "greek_def_ro": "μέρος (meros) — parte, margine (la dativ).",
+    "dict_ro": "Qatseh, „capăt”: „care este la marginea ogorului” (23:9) — peștera e la marginea ogorului lui Efron; Septuaginta spune ἐν μέρει τοῦ ἀγροῦ."
    },
    {
     "t": " "
@@ -1271,7 +1600,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τοῦ ἀγροῦ αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "câmpului lui."
+    "def_ro": "câmp, ogor, țarină; prin extindere, țară, ținut.",
+    "dict_ro": "Sadeh, „câmp, ogor”: „ogorul lui Efron” (23:9, 11, 13, 17, 20) — ogorul cumpărat împreună cu peștera; el devine prima proprietate funciară a lui Avraam în țara făgăduită.",
+    "greek_def_ro": "ἀγρός (agros) — ogor; „al ogorului lui”."
    },
    {
     "t": " lui; să mi-o "
@@ -1285,7 +1616,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, cu sufix",
     "greek": "δότω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "dea."
+    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "greek_def_ro": "δίδωμι (didomi) — a da („să dea”).",
+    "dict_ro": "Natan, „a da”: „dați-mi o posesiune de mormânt” (23:4), „îți dau ogorul” (23:11): hitiții oferă gratuit, Avraam cere să plătească; Septuaginta spune δότε."
    },
    {
     "t": " cu "
@@ -1299,7 +1632,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "ἀργυρίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "preț."
+    "def_ro": "argint (de la al sau pale color); de implicație, money.",
+    "greek_def_ro": "ἀργύριον (argyrion) — argint (la genitiv).",
+    "dict_ro": "Kesef, „argint”: „pentru argint deplin” (23:9, 13, 15–16) — Avraam plătește prețul întreg, ca să nu fie datorie; Septuaginta spune ἀργύριον."
    },
    {
     "t": " "
@@ -1311,9 +1646,11 @@ window.CHAPTER_DATA = [
     "translit": "male",
     "strong": "H4392",
     "pos": "adjectiv",
-    "greek": "τὸ ἄξιον",
+    "greek": "τοῦ ἀξίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "întreg."
+    "def_ro": "full (literal sau figurat) sau filling (literal); de asemenea (concretely) fulness; adverbially, fully.",
+    "greek_def_ro": "ἄξιος (axios) — vrednic, de valoare („al valorii”).",
+    "dict_ro": "Male, „plin, întreg”: „cu argint întreg” (23:9) — prețul întreg; Septuaginta spune ἀργυρίου τοῦ ἀξίου, „cât face”."
    },
    {
     "t": ", în mijlocul vostru, ca "
@@ -1327,7 +1664,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "κτῆσιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "posesiune."
+    "def_ro": "ceva seized, adică possession (in special al țară).",
+    "greek_def_ro": "κτῆσις (ktesis) — stăpânire, proprietate (la acuzativ).",
+    "dict_ro": "Achuzzah, „stăpânire, moșie”: „o posesiune de mormânt” (23:4, 9, 20) — Avraam cere să fie proprietarul legal al locului de îngropare; Septuaginta spune κτῆσις τάφου."
    },
    {
     "t": " "
@@ -1341,7 +1680,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "μνημείου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "funerară."
+    "def_ro": "mormânt, loc de îngropare.",
+    "greek_def_ro": "μνημεῖον (mnemeion) — mormânt (la genitiv).",
+    "dict_ro": "Qever, „mormânt”: „mormântul” (23:4, 6, 9, 20) — locul de îngropare; cuvântul revine ca mărturie că primul pământ al lui Avraam e un mormânt."
    },
    {
     "t": ".”"
@@ -1350,7 +1691,7 @@ window.CHAPTER_DATA = [
   "textCompare": [
    {
     "source": "Textul Masoretic (ebraică)",
-    "original": "וְיִתֶּן־לִי אֶת־מְעָרַת הַמַּכְפֵּלָה אֲשֶׁר־לוֹ אֲשֶׁר בִּקְצֵה שָׂדֵהוּ בְּכֶסֶף מָלֵא יִתְּנֶנָּה לִי בְּתוֹכְכֶם לַאֲחֻזַּת־קָבֶר",
+    "original": "וְיִתֶּן־לִי אֶת־מְעָרַת הַמַּכְפֵּלָה אֲשֶׁר־לוֹ אֲשֶׁר בִּקְצֵה שָׂדֵהוּ בְּכֶסֶף מָלֵא יִתְּנֶנָּה לִּי בְּתוֹכְכֶם לַאֲחֻזַּת־קָבֶר",
     "translation": "„ca să-mi dea peștera Mahpela care este a lui, care este la marginea câmpului lui; să mi-o dea cu preț întreg, în mijlocul vostru, ca posesiune funerară.”” — traducerea rabinului Rosen.",
     "note": ""
    },
@@ -1371,12 +1712,22 @@ window.CHAPTER_DATA = [
   "refs": [
    "Geneza 25:9",
    "Geneza 50:13",
-   "Geneza 49:29-32"
+   "Geneza 49:29-32",
+   "Romani 12:17",
+   "Romani 13:8"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Macpela.» O casă cu un etaj deasupra ei. Altă explicație: pentru că este dublată (kefulah) cu perechi.<br><br>«Cu preț întreg (be-khesef male).» Întreg, cât valorează; și tot așa a zis David lui Arauna: „cu preț întreg”."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "să-mi dea peștera Macpela, care este a lui, care este la marginea câmpului lui; pentru argint deplin să mi-o dea în mijlocul vostru, ca proprietate de mormânt.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "să-mi vândă peștera cea dublă, care este a lui, care este construită la marginea câmpului lui; cu argint deplin să mi-o dea în mijlocul vostru ca moștenire pentru mormânt.”"
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -1397,6 +1748,25 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Ca să-mi dea peștera»: nu i-a cerut decât peștera, nu câmpul.<br><br>«Macpela» (ha-Makhpelah): substantiv pe cântarul lui mastemah; iar dacă ar fi fost adjectiv, ar fi fost ha-meʿarah, cu he. Iar asupra explicației cuvântului s-au împărțit învățătorii noștri, binecuvântată fie amintirea lor: unul spune că era o peșteră deasupra unei peșteri, iar altul spune: o peșteră în interiorul unei peșteri. Sau vom spune că Makhpelah este un nume descriptiv al locului aceluia, căci tot locul se numește Makhpelah după peștera dublă care este acolo; de aceea a spus „câmpul, peștera de pe el”.<br><br>«Cu preț întreg» (be-khesef maleʾ): să fie monedă de argint plină la greutatea ei, să nu-i lipsească nimic, cum a spus „monedă acceptată la negustor”."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Să mi-o dea.» „Să mi-o dea”: „ʿalai hu”, ca și cum el mi-ar fi dat-o.<br><br>«La marginea câmpului lui.» Nu strică deloc câmpul lui."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Ca să-mi dea etc.» A fost exact să spună limbaj de dar (matana), deși a luat de la el bani, după cum a spus „cu preț întreg”, și a fost exact să spună „în mijlocul vostru”. Iată, Avraam a procedat cu înțelepciune să cumpere peștera într-o rânduială după care nu mai este contestare. Și fiindcă rabinii noștri, binecuvântată fie amintirea lor, au spus că Efron în toate zilele lui nu a văzut în peșteră decât întuneric și spaimă, și dacă așa, el poate veni cu pretenție când va ști că peștera este de mare valoare, și chiar pentru totdeauna se poate răzgândi, iar dreptul asupra peșterii nu rămâne în mâna lui Avraam pentru totdeauna. Și deși nu este înșelăciune în preț (onaʿa) la pământuri, Avraam s-a temut de părerea Talmudului ierusalimitean pe care au scris-o Tosafot că au înșelăciune la jumătate din prețul lor, și anume înșelăciunea de o șesime (onaʿat șetut) nu au.<br><br>Încă este de temut ca nu cumva să conteste după vânzare din legea vecinului (metzar), sau să iasă după aceea act de ipotecă pe pământul acela și să-l ia din mâna lui Avraam. De aceea a procedat cu înțelepciune să îndrepte toate acestea și a spus limbaj de dar și vânzare, intenția în aceasta este să facă un mod în care sunt amândouă, și acesta este schimbul (halifin), care are în el vânzare și are în el dar, căci poate schimba un ac cu o cămilă și nu există în ele înșelăciune în nicio formă. Iar legea schimbului există la pământ și la bunuri mobile dar nu la monede, de aceea au spus, binecuvântată fie amintirea lor, în Bekhorot, iar acesta este textul lor: A spus Rabi Hanina: orice siclu scris în Tora înseamnă selaʿim etc., în afară de siclii spuși la Efron, care sunt kantarin, „monedă acceptată la negustor”, pirqmatya nafqat etc., până aici textul lui. Și de acum nu a rămas loc lui Efron să vină cu pretenție. Iar de teama vecinului, de asemenea de teama ipotecii, a făcut pe toți locuitorii orașului mijlocitori în lucru, și de la sine s-a anulat pretenția bar metzra, și de asemenea s-a dezvăluit că nu era asupra ei ipotecă, căci lucrul era în urechile tuturor celor ce intrau pe poarta orașului lui.<br><br>«Ca posesiune funerară» Iar spusa „ca posesiune funerară”, fiindcă nu a cerut de la el decât peștera, dar câmpul rămâne în dreptul lui Efron, este loc să-i spună după aceea că nu dorește dreptul de trecere (derisat regel) să treacă pe el ca să îngroape morți, și el nu l-a vândut decât să o îngroape pe Sara și nu mai este drept de trecere în câmpul lui, de aceea a spus „ca posesiune funerară”."
+   },
+   {
+    "author": "Cartea Jubileelor 19 — comparație",
+    "text": "Și Domnul i-a dat har înaintea tuturor celor ce-l vedeau, și a rugat cu blândețe pe fiii lui Het, și i-au dat ținutul peșterii îndoite în fața Mamre, adică Hebron, pentru patru sute de arginți.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 19,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -1415,7 +1785,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Εφρων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Efron."
+    "def_ro": "ephron, nume al Canaanite si al two places in Palestine.",
+    "greek_def_ro": "Εφρων (Ephron) — Efron, nume propriu.",
+    "dict_ro": "Efron (Ephron), „ca un pui de căprioară” sau „țărână” (Easton, Hitchcock): hititul fiul lui Țohar, stăpânul ogorului și al peșterii Macpela (23:8–17)."
    },
    {
     "t": " stătea în mijlocul fiilor lui "
@@ -1429,7 +1801,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χετ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Het."
+    "def_ro": "cheth, aboriginal Canaanite.",
+    "greek_def_ro": "Χετ (Chet) — Het, nume propriu.",
+    "dict_ro": "Het (Chet), „spaimă” (Easton): fiul lui Canaan (10:15); „fiii lui Het” (23:3, 5, 7, 10, 16, 18, 20) sunt hitiții din Hebron, locuitorii cu care Avraam tratează."
    },
    {
     "t": ". Și "
@@ -1443,7 +1817,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Εφρων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Efron."
+    "def_ro": "ephron, nume al Canaanite si al two places in Palestine.",
+    "greek_def_ro": "Εφρων (Ephron) — Efron, nume propriu.",
+    "dict_ro": "Efron (Ephron), „ca un pui de căprioară” sau „țărână” (Easton, Hitchcock): hititul fiul lui Țohar, stăpânul ogorului și al peșterii Macpela (23:8–17)."
    },
    {
     "t": " "
@@ -1457,7 +1833,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, popor, cu articol",
     "greek": "ὁ Χετταῖος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "hititul."
+    "def_ro": "chittite, sau urmaș al Cheth.",
+    "greek_def_ro": "Χετταῖος (Chettaios) — hitit („hititul”).",
+    "dict_ro": "Hiti (Chitti), „hitit”: Efron „hititul” (23:10, 16–18) — urmaș al lui Het; Septuaginta spune ὁ Χετταῖος."
    },
    {
     "t": " i-a "
@@ -1469,9 +1847,11 @@ window.CHAPTER_DATA = [
     "translit": "vaya'an",
     "strong": "H6030",
     "pos": "verb",
-    "greek": "ἀπεκρίθη",
+    "greek": "ἀποκριθεὶς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a răspuns."
+    "def_ro": "propriu-zis, a eye sau (generally) a heed, adică pay attention; de implicație, a respond; de extension a begin a vorbi; in special a sing, shout, testify, announce.",
+    "greek_def_ro": "ἀποκρίνομαι (apokrinomai) — a răspunde; la participiu, „răspunzând”.",
+    "dict_ro": "Ana, „a răspunde”: „fiii lui Het au răspuns” (23:5, 10, 14); verbul face din capitol o convorbire cu rânduială."
    },
    {
     "t": " lui "
@@ -1483,9 +1863,11 @@ window.CHAPTER_DATA = [
     "translit": "et Avraham",
     "strong": "H85",
     "pos": "nume propriu",
-    "greek": "τῷ Αβρααμ",
+    "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: „a venit să bocească pe Sara” (23:2) și să cumpere mormântul (23:3–20); își declară statutul de „străin și venetic” (23:4)."
    },
    {
     "t": ", în auzul "
@@ -1499,7 +1881,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τῶν υἱῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiilor."
+    "def_ro": "fiu (ca builder al family nume), in widest sens (al literal si figurative relationship, including grandson, subject, neam, quality sau condition, etc., (ca tată sau brother), etc.).",
+    "greek_def_ro": "υἱός (hyios) — fiu (la genitiv plural: „ai fiilor”).",
+    "dict_ro": "Ben, „fiu”: „fiii lui Het” (23:3, 5, 7, 10, 16, 18, 20) — expresie pentru hitiți, la fel ca „fiii lui Israel”."
    },
    {
     "t": " lui "
@@ -1513,7 +1897,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χετ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Het."
+    "def_ro": "cheth, aboriginal Canaanite.",
+    "greek_def_ro": "Χετ (Chet) — Het, nume propriu.",
+    "dict_ro": "Het (Chet), „spaimă” (Easton): fiul lui Canaan (10:15); „fiii lui Het” (23:3, 5, 7, 10, 16, 18, 20) sunt hitiții din Hebron, locuitorii cu care Avraam tratează."
    },
    {
     "t": ", pentru toți cei care "
@@ -1527,7 +1913,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu, stare construită",
     "greek": "εἰσπορευομένων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "veniseră."
+    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "greek_def_ro": "εἰσπορεύομαι (eisporeuomai) — a intra; la participiu genitiv plural, „celor ce intrau”.",
+    "dict_ro": "Bo, „a veni”: „Avraam a venit să bocească” (23:2) și „a venit în poarta cetății” (23:10); verbul arată drumul de la durere la tratativă."
    },
    {
     "t": " la "
@@ -1541,7 +1929,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὴν πόλιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "poarta."
+    "def_ro": "opening, adică door sau poartă.",
+    "greek_def_ro": "πόλις (polis) — cetate, oraș (la acuzativ: „cetatea”).",
+    "dict_ro": "Sha’ar, „poartă”: „la poarta cetății” (23:10, 18) — loc de judecată și de tranzacții; actele de vânzare se făceau acolo, în fața martorilor."
    },
    {
     "t": " orașului său, spunând:"
@@ -1574,9 +1964,29 @@ window.CHAPTER_DATA = [
     "text": "«Iar Efron stătea (yoșev).» Este scris defectiv: în ziua aceea îl numiseră dregător peste ei; din pricina însemnătății lui Avraam, care avea nevoie de el, s-a urcat la mărire.<br><br>«Pentru toți cei care veniseră la poarta orașului său.» Căci toți își lăsaseră lucrul și veniseră să facă bine Sarei."
    },
    {
+    "author": "Targum Onkelos",
+    "text": "Și Efron ședea în mijlocul fiilor lui Het; și Efron hetitul i-a răspuns lui Avraam înaintea fiilor lui Het, înaintea tuturor celor care intrau pe poarta cetății lui, zicând:"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Efron ședea în mijlocul fiilor lui Het; și Efron hititul i-a răspuns lui Avraam în fața fiilor lui Het, a tuturor celor care intrau pe poarta cetății lui, spunând:"
+   },
+   {
     "author": "Radak (cca. 1160–1235)",
     "text": "«În auzul fiilor lui Het»: cu glas tare, ca să audă toți. Iar cel dintâi este „în auzul”, cel de pe urmă „sub ochii fiilor lui Het”; iar semnul tău: „urechea care a auzit m-a fericit, iar ochiul care a văzut a mărturisit pentru mine”.<br><br>«Pentru toți cei care veniseră la poarta orașului său»: cu toți cei care veneau la poarta orașului său, căci se adunaseră acolo mari și mici; „cei ce vin la poartă”: care vin și ies pe poartă, adică toți oamenii cetății. Și uneori spune „cei ce vin” și alteori spune „cei ce ies pe poarta cetății lui”, și este un singur sens, adică toți oamenii cetății; și pe calea prescurtării spune „cei ce vin” singur sau „cei ce ies” singur, iar uneori le spune pe amândouă, cum a spus: „și voi sta la poarta fiilor poporului, pe unde intră regii lui Iuda și pe unde ies”."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Iar Efron stătea în mijlocul fiilor lui Het.» După exemplul „în mijlocul poporului meu eu locuiesc”."
    }
+  ],
+  "refs": [
+   "Geneza 23:18",
+   "Geneza 34:20,24",
+   "Rut 4:1-4",
+   "Iov 29:7",
+   "Isaia 28:6",
+   "Geneza 24:10"
   ]
  },
  {
@@ -1592,9 +2002,11 @@ window.CHAPTER_DATA = [
     "translit": "shema'eni",
     "strong": "H8085",
     "pos": "verb, imperativ, cu sufix",
-    "greek": "ἐμοῦ ἄκουσον",
+    "greek": "ἄκουσόν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ascultă-mă."
+    "def_ro": "a auzi intelligently (adesea cu implicație al attention, obedience, etc.; causatively, a tell, etc.).",
+    "greek_def_ro": "ἀκούω (akouo) — a asculta („ascultă”).",
+    "dict_ro": "Shama, „a asculta”: „ascultă-ne, domnul meu” (23:6, 8, 11, 13, 15) — formula politicoasă de negociere; verbul revine de cinci ori; Septuaginta spune ἄκουσον."
    },
    {
     "t": "! "
@@ -1608,7 +2020,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸν ἀγρὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Câmpul."
+    "def_ro": "câmp, ogor, țarină; prin extindere, țară, ținut.",
+    "dict_ro": "Sadeh, „câmp, ogor”: „ogorul lui Efron” (23:9, 11, 13, 17, 20) — ogorul cumpărat împreună cu peștera; el devine prima proprietate funciară a lui Avraam în țara făgăduită.",
+    "greek_def_ro": "ἀγρός (agros) — ogor („ogorul”)."
    },
    {
     "t": " ți l-am "
@@ -1622,7 +2036,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "δίδωμί",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ți l-am dat."
+    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "greek_def_ro": "δίδωμι (didomi) — a da („dau”).",
+    "dict_ro": "Natan, „a da”: „dați-mi o posesiune de mormânt” (23:4), „îți dau ogorul” (23:11): hitiții oferă gratuit, Avraam cere să plătească; Septuaginta spune δότε."
    },
    {
     "t": ", și "
@@ -1636,7 +2052,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸ σπήλαιον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "peștera."
+    "def_ro": "peșteră — scorbură în stâncă, adăpost în munte.",
+    "greek_def_ro": "σπήλαιον (spelaion) — peșteră („peștera”).",
+    "dict_ro": "Me’arah, „peșteră”: „peștera Macpela” (23:9, 11, 17, 19–20) — peștera dublă, în care va fi îngropată Sara, apoi Avraam, Isaac, Rebeca, Lea și Iacov; Septuaginta spune τὸ σπήλαιον τὸ διπλοῦν."
    },
    {
     "t": " care este pe el ți-am "
@@ -1648,9 +2066,11 @@ window.CHAPTER_DATA = [
     "translit": "netatiha",
     "strong": "H5414",
     "pos": "verb, cu sufix",
-    "greek": "δίδωμί σοι",
+    "greek": "δίδωμι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ți-am dat-o."
+    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "greek_def_ro": "δίδωμι (didomi) — a da („dau”).",
+    "dict_ro": "Natan, „a da”: „dați-mi o posesiune de mormânt” (23:4), „îți dau ogorul” (23:11): hitiții oferă gratuit, Avraam cere să plătească; Septuaginta spune δότε."
    },
    {
     "t": "; sub "
@@ -1664,7 +2084,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "ἐναντίον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ochii."
+    "def_ro": "eye (literal sau figurat); de analogy, fountain (ca eye al landscape).",
+    "greek_def_ro": "ἐναντίον (enantion) — înaintea, în fața (cuiva).",
+    "dict_ro": "Ayin, „ochi”: „în ochii fiilor poporului meu” (23:11) — în prezența martorilor; ofertă făcută „în ochii” tuturor, adică public."
    },
    {
     "t": " fiilor "
@@ -1676,9 +2098,11 @@ window.CHAPTER_DATA = [
     "translit": "ami",
     "strong": "H5971",
     "pos": "substantiv cu sufix",
-    "greek": "τοῦ λαοῦ μου",
+    "greek": "πολιτῶν μου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "poporului meu."
+    "def_ro": "popor, neam; mulțime de oameni care aparțin laolaltă.",
+    "greek_def_ro": "πολίτης (polites) — cetățean; „cetățenilor mei”.",
+    "dict_ro": "Am, „popor”: „poporul țării” (23:7, 12–13) — locuitorii Hebronului adunați la poartă; Septuaginta spune ὁ λαὸς τῆς γῆς."
    },
    {
     "t": " meu ți-am "
@@ -1690,9 +2114,11 @@ window.CHAPTER_DATA = [
     "translit": "netatiha",
     "strong": "H5414",
     "pos": "verb, cu sufix",
-    "greek": "δέδωκά σοι",
+    "greek": "δίδωμι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ți-am dat-o."
+    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "greek_def_ro": "δίδωμι (didomi) — a da („dau”).",
+    "dict_ro": "Natan, „a da”: „dați-mi o posesiune de mormânt” (23:4), „îți dau ogorul” (23:11): hitiții oferă gratuit, Avraam cere să plătească; Septuaginta spune δότε."
    },
    {
     "t": ", "
@@ -1706,7 +2132,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "θάψον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "îngroapă-ți."
+    "def_ro": "a îngropa, a pune în mormânt.",
+    "greek_def_ro": "θάπτω (thapto) — a îngropa („îngroapă”).",
+    "dict_ro": "Qavar, „a îngropa”: „să îngrop pe mortul meu” (23:4, 6, 8, 11, 13, 15, 19) — verbul îngropării, repetat de șapte ori; Septuaginta spune θάπτω."
    },
    {
     "t": " moarta!”"
@@ -1739,6 +2167,14 @@ window.CHAPTER_DATA = [
     "text": "«Nu, domnul meu.» Nu o vei cumpăra cu bani.<br><br>«Ți l-am dat.» Iată, este ca și cum ți l-aș fi dat."
    },
    {
+    "author": "Targum Onkelos",
+    "text": "„Nu, stăpâne, ascultă-mă: câmpul ți-l dau, și peștera care este în el ți-o dau; în ochii fiilor poporului meu ți-o dau; îngroapă-ți moarta.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "„Te rog, stăpâne, ascultă-mă: câmpul ți l-am dat, și peștera care este în el ți-am dat-o; ca dar, în fața fiilor poporului meu, ți-am dat-o; du-te, îngroapă-ți moarta.”"
+   },
+   {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Nu, domnul meu.» Nu așa, domnul meu, ci numai să mă asculți."
    },
@@ -1759,9 +2195,25 @@ window.CHAPTER_DATA = [
     "text": "«Nu, domnul meu, ascultă-mă»: nu cum spui tu, să ți-o dau pentru preț întreg, ci în dar ți-o voi da; și nu numai peștera, cum ai cerut, ci și câmpul ți-l voi da.<br><br>«Ți l-am dat» (natatti): de acum ți l-am dat.<br><br>«Sub ochii fiilor poporului meu»: ca toți să fie martori între mine și tine."
    },
    {
-    "author": "Zohar, Toldot 13:2",
-    "text": "Rabbi Yehudah a zis: vai de răi, că bunătatea lor nu e desăvârșită. Vino, vezi: Efron la început a zis (Geneza 23:11): «domnul meu, ascultă-mă: ogorul ți l-am dat, și peștera care e în el ți-am dat-o» etc. Și după aceea a zis (Geneza 23:11): «pământ de patru sute de sicli de argint» etc.; și e scris (Geneza 23:16) «și a cântărit Avraham lui Efron» etc., «trecător la negustor». Tot așa aici, e scris la început «iată țara mea e înaintea ta» etc. Și după aceea i-a zis (Geneza 26:16): «du-te de la noi, că te-ai întărit de noi foarte». I-a zis Rabbi Elʿazar: acesta e binele pe care l-a făcut cu el, că n-a luat Avimelekh din al lui nimic, și l-a trimis cu tot avutul lui, și după aceea a mers după el să taie cu el legământ."
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Câmpul ți l-am dat.» Dacă nu ți-aș fi dat decât peștera, n-ai fi avut drum ca să treci și să ajungi la peșteră."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Câmpul ți l-am dat, și peștera.» Adică: tu nu ceri decât peștera, „la preț deplin” — cu plata deplină a banilor, fără lipsă; iar eu nu am grijă pentru câmp dacă vei face în peșteră morminte, căci nu este dorit câmpul care este atât de aproape de cimitir; ci am renunțat la toate pentru tine."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Nu, domnul meu, ascultă-mă! etc.» Explicația: nu vei lua peștera singură, ci și câmpul l-am dat deja, explicația: am hotărât deja în gândul meu să-l dau. Iar motivul său: câmpul nu va fi potrivit pentru ceva altceva după ce peștera este pentru cimitir. Iar despre aceasta a fost exact să spună „ascultă-mă”, explicația: ca să înțeleagă cuvintele lui și motivul lui.<br><br>«Și peștera etc.» Explicația: deja în trimiterea cea dintâi, când fiii lui Het i-au răspuns și au spus „nimeni din noi nu va pregeta să-ți dea mormântul său” etc., ți-am dat-o, iar motivul pentru care a repetat a doua oară să spună „sub ochii” etc., ca să spună că nu a rămas nicio grijă din pretenția legii bar metzra de care s-a temut Avraam la începutul cuvintelor lui când a spus „și interveniți pentru mine” etc.:"
    }
+  ],
+  "refs": [
+   "Geneza 23:6",
+   "2 Samuel 24:20-24",
+   "1 Cronici 21:22-24",
+   "Isaia 32:8",
+   "Geneza 23:18",
+   "Numeri 35:30"
   ]
  },
  {
@@ -1779,7 +2231,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: „a venit să bocească pe Sara” (23:2) și să cumpere mormântul (23:3–20); își declară statutul de „străin și venetic” (23:4)."
    },
    {
     "t": " s-a "
@@ -1793,7 +2247,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "προσεκύνησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a prosternat."
+    "def_ro": "a se prosterna, a se pleca până la pământ.",
+    "greek_def_ro": "προσκυνέω (proskyneo) — a se închina, a se prosterna („s-a prosternat”).",
+    "dict_ro": "Shachah, „a se prosterna”: „Avraam s-a prosternat în fața poporului țării” (23:7, 12) — gest de respect față de hitiți, în negociere."
    },
    {
     "t": " înaintea "
@@ -1807,7 +2263,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τοῦ λαοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "poporului."
+    "def_ro": "popor (ca congregated unit); in special, seminție (ca those al Israel); de aici (collectively) troops sau attendants; figurat, flock.",
+    "greek_def_ro": "λαός (laos) — popor (la genitiv: „al poporului”).",
+    "dict_ro": "Am, „popor”: „poporul țării” (23:7, 12–13) — locuitorii Hebronului adunați la poartă; Septuaginta spune ὁ λαὸς τῆς γῆς."
    },
    {
     "t": " "
@@ -1821,7 +2279,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῆς γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țării."
+    "def_ro": "pământ (la large, sau partitively țară).",
+    "greek_def_ro": "γῆ (ge) — pământ, țară.",
+    "dict_ro": "Erets, „țară”: „în țara Canaanului” (23:2) — Sara moare în țara făgăduită; „țara” e și ogorul cumpărat (23:15); prima bucată de pământ pe care Avraam o cumpără acolo."
    }
   ],
   "textCompare": [
@@ -1847,6 +2307,14 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Targum Onkelos",
+    "text": "Și Avraam s-a plecat înaintea poporului țării."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Avraam s-a plecat înaintea lui, în fața fiilor lui Het."
+   },
+   {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Înaintea poporului țării.» Iar această prosternare a fost înaintea poporului țării, înaintea lui Efron, ca să-i dea laudă."
    },
@@ -1861,7 +2329,16 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și Avraam s-a prosternat»: lui Efron i s-a prosternat, înaintea tuturor."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Și Avraam s-a prosternat.» Înaintea lui Efron, în fața întregului popor al țării; iar aici nu s-a spus „s-a ridicat” ca mai sus, căci nu s-a prosternat decât înaintea lui Efron, care stătea în fața lui, și nu a fost nevoie să se ridice."
    }
+  ],
+  "refs": [
+   "Geneza 23:7",
+   "Geneza 18:2",
+   "Geneza 19:1"
   ]
  },
  {
@@ -1877,9 +2354,11 @@ window.CHAPTER_DATA = [
     "translit": "vayedaber",
     "strong": "H1696",
     "pos": "verb",
-    "greek": "ἐλάλησεν",
+    "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a vorbit."
+    "def_ro": "poate propriu-zis, a arrange; dar folosit figurat (al words), a vorbi; rarely (in destructive sens) a subdue.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi.",
+    "dict_ro": "Dibber, „a vorbi”: „a vorbit fiilor lui Het” (23:3, 8, 13, 16) — Avraam negociază cu cuvinte; toată povestea e un dialog; Septuaginta spune εἶπεν."
    },
    {
     "t": " lui "
@@ -1891,9 +2370,11 @@ window.CHAPTER_DATA = [
     "translit": "el Efron",
     "strong": "H6085",
     "pos": "nume propriu",
-    "greek": "πρὸς Εφρων",
+    "greek": "Εφρων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Efron."
+    "def_ro": "ephron, nume al Canaanite si al two places in Palestine.",
+    "greek_def_ro": "Εφρων (Ephron) — Efron, nume propriu.",
+    "dict_ro": "Efron (Ephron), „ca un pui de căprioară” sau „țărână” (Easton, Hitchcock): hititul fiul lui Țohar, stăpânul ogorului și al peșterii Macpela (23:8–17)."
    },
    {
     "t": " în auzul "
@@ -1907,7 +2388,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τοῦ λαοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "poporului."
+    "def_ro": "popor (ca congregated unit); in special, seminție (ca those al Israel); de aici (collectively) troops sau attendants; figurat, flock.",
+    "greek_def_ro": "λαός (laos) — popor (la genitiv: „al poporului”).",
+    "dict_ro": "Am, „popor”: „poporul țării” (23:7, 12–13) — locuitorii Hebronului adunați la poartă; Septuaginta spune ὁ λαὸς τῆς γῆς."
    },
    {
     "t": " "
@@ -1921,7 +2404,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῆς γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țării."
+    "def_ro": "pământ (la large, sau partitively țară).",
+    "greek_def_ro": "γῆ (ge) — pământ, țară.",
+    "dict_ro": "Erets, „țară”: „în țara Canaanului” (23:2) — Sara moare în țara făgăduită; „țara” e și ogorul cumpărat (23:15); prima bucată de pământ pe care Avraam o cumpără acolo."
    },
    {
     "t": ", spunând: „Dacă doar m-ai "
@@ -1935,7 +2420,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, cu sufix",
     "greek": "ἄκουσόν μου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "m-ai asculta."
+    "def_ro": "a auzi, a asculta; prin extindere, a se supune prin ascultare.",
+    "greek_def_ro": "ἀκούω (akouo) — a asculta; „ascultă-mă”.",
+    "dict_ro": "Shama, „a asculta”: „ascultă-ne, domnul meu” (23:6, 8, 11, 13, 15) — formula politicoasă de negociere; verbul revine de cinci ori; Septuaginta spune ἄκουσον."
    },
    {
     "t": "! "
@@ -1947,9 +2434,11 @@ window.CHAPTER_DATA = [
     "translit": "natati",
     "strong": "H5414",
     "pos": "verb",
-    "greek": "δώσω",
+    "greek": "λαβὲ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dau."
+    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "greek_def_ro": "λαμβάνω (lambano) — a lua („ia”).",
+    "dict_ro": "Natan, „a da”: „dați-mi o posesiune de mormânt” (23:4), „îți dau ogorul” (23:11): hitiții oferă gratuit, Avraam cere să plătească; Septuaginta spune δότε."
    },
    {
     "t": " "
@@ -1963,7 +2452,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀργύριον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "prețul."
+    "def_ro": "argint (de la al sau pale color); de implicație, money.",
+    "greek_def_ro": "ἀργύριον (argyrion) — argint.",
+    "dict_ro": "Kesef, „argint”: „pentru argint deplin” (23:9, 13, 15–16) — Avraam plătește prețul întreg, ca să nu fie datorie; Septuaginta spune ἀργύριον."
    },
    {
     "t": " "
@@ -1977,7 +2468,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τοῦ ἀγροῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "câmpului."
+    "def_ro": "câmp, ogor, țarină; prin extindere, țară, ținut.",
+    "dict_ro": "Sadeh, „câmp, ogor”: „ogorul lui Efron” (23:9, 11, 13, 17, 20) — ogorul cumpărat împreună cu peștera; el devine prima proprietate funciară a lui Avraam în țara făgăduită.",
+    "greek_def_ro": "ἀγρός (agros) — câmp, ogor."
    },
    {
     "t": ", "
@@ -1991,7 +2484,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "λαβέ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ia-l."
+    "def_ro": "a lua (in widest variety al applications).",
+    "dict_ro": "Laqach, „a lua”: „ia argintul pentru ogor” (23:13) — Avraam cere să i se ia plata; Septuaginta spune λαβέ.",
+    "greek_def_ro": "λαμβάνω (lambano) — a lua („ia”)."
    },
    {
     "t": " de la mine și îmi voi "
@@ -2005,7 +2500,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "θάψω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "voi îngropa."
+    "def_ro": "a îngropa, a pune în mormânt.",
+    "greek_def_ro": "θάπτω (thapto) — a îngropa („voi îngropa”).",
+    "dict_ro": "Qavar, „a îngropa”: „să îngrop pe mortul meu” (23:4, 6, 8, 11, 13, 15, 19) — verbul îngropării, repetat de șapte ori; Septuaginta spune θάπτω."
    },
    {
     "t": " moarta acolo.”"
@@ -2038,6 +2535,14 @@ window.CHAPTER_DATA = [
     "text": "«Dacă doar m-ai asculta (akh im attah lu șemaʿeni).» Tu îmi spui să te ascult și să iau fără plată; eu nu vreau aceasta.<br><br>«Dacă doar m-ai asculta.» O, de m-ai asculta!<br><br>«Dau (natatti).» În laʿaz donés: este pregătit la mine; și o, de ți l-aș fi dat deja!"
    },
    {
+    "author": "Targum Onkelos",
+    "text": "Și i-a vorbit lui Efron înaintea poporului țării, zicând: „Numai, dacă vrei să-mi faci un bine, ascultă-mă: dau argintul, prețul câmpului; ia-l de la mine, și îmi voi îngropa moarta acolo.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a vorbit cu Efron în fața poporului țării, spunând: „Numai, dacă vrei să-mi faci un bine, ascultă-mă: voi da argintul, prețul câmpului; ia-l de la mine, și îmi voi îngropa moarta acolo.”"
+   },
+   {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Dacă doar m-ai asculta (akh im attah lu šemaʿeni).» Dacă tu vei face așa, o, de m-ai asculta! Sau sensul lui: dacă tu vei face așa, o, de (lu) aș da prețul câmpului."
    },
@@ -2052,7 +2557,27 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Dacă doar m-ai asculta» (akh im attah): dar, o, de m-ai asculta!<br><br>«Dau prețul câmpului» (natatti): de acum; și acum îți voi da banii, și ia-i de la mine, și prin aceasta îmi vei face un bine.<br><br>«Și îmi voi îngropa»: căci nu e nevoie de întârziere."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Dau prețul câmpului, ia-l de la mine.» Cuvântul „natatti” se referă la ce este mai sus, căci Efron a spus „Câmpul ți l-am dat”, iar Avraam i-a răspuns „Ascultă-mă”, „natatti” cu mirare: tu ai spus „ți l-am dat”, dar tu „ia de la mine prețul câmpului”, căci în dar nu o voi primi; iar accentul de pe „natatti” dovedește că are în el un geresh, ca să-l despartă de „prețul câmpului”.<br><br>«Dau.» „Natatti” înseamnă „voi da”, ca „ve-etten” (și voi da)."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Dau prețul câmpului.» Și i-a spus: precum tu ai renunțat pentru mine la câmp, eu am renunțat pentru tine la bani, precum spune „dau prețul câmpului”, adică: și prețul câmpului împreună cu peștera, despre care ți-am spus mai sus, căci eu voi cumpăra totul, de vreme ce tu nu vrei câmpul fără peșteră."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Și i-a vorbit lui Efron etc.» „Și a vorbit” etc. „spunând: Dacă doar” etc. Explicația: că va micșora prin mulțimea de cuvinte.<br><br>«Dau prețul câmpului etc.» Explicația: dacă el a hotărât să-i dea câmpul ca dar, și el a hotărât să-i dea banii ca dar. „Ia-l de la mine” – și atunci voi primi darul tău, „și îmi voi îngropa moarta” etc.:"
    }
+  ],
+  "refs": [
+   "Geneza 14:22,23",
+   "2 Samuel 24:24",
+   "Faptele Apostolilor 20:35",
+   "Romani 13:8",
+   "Filipeni 4:5-8",
+   "Coloseni 4:5"
   ]
  },
  {
@@ -2067,7 +2592,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Εφρων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Efron."
+    "def_ro": "ephron, nume al Canaanite si al two places in Palestine.",
+    "greek_def_ro": "Εφρων (Ephron) — Efron, nume propriu.",
+    "dict_ro": "Efron (Ephron), „ca un pui de căprioară” sau „țărână” (Easton, Hitchcock): hititul fiul lui Țohar, stăpânul ogorului și al peșterii Macpela (23:8–17)."
    },
    {
     "t": " i-a "
@@ -2081,7 +2608,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπεκρίθη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a răspuns."
+    "def_ro": "propriu-zis, a eye sau (generally) a heed, adică pay attention; de implicație, a respond; de extension a begin a vorbi; in special a sing, shout, testify, announce.",
+    "greek_def_ro": "ἀποκρίνομαι (apokrinomai) — a răspunde („a răspuns”).",
+    "dict_ro": "Ana, „a răspunde”: „fiii lui Het au răspuns” (23:5, 10, 14); verbul face din capitol o convorbire cu rânduială."
    },
    {
     "t": " lui "
@@ -2095,7 +2624,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu (la dativ: „lui Avraam”).",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: „a venit să bocească pe Sara” (23:2) și să cumpere mormântul (23:3–20); își declară statutul de „străin și venetic” (23:4)."
    },
    {
     "t": ", spunându-i:"
@@ -2122,7 +2653,16 @@ window.CHAPTER_DATA = [
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
-  "commentaries": []
+  "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Efron i-a răspuns lui Avraam, zicându-i:"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Efron i-a răspuns lui Avraam, spunându-i:"
+   }
+  ]
  },
  {
   "num": 15,
@@ -2137,9 +2677,11 @@ window.CHAPTER_DATA = [
     "translit": "shema'eni",
     "strong": "H8085",
     "pos": "verb, imperativ, cu sufix",
-    "greek": "ἄκουσόν μου",
+    "greek": "ἀκήκοα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ascultă-mă."
+    "def_ro": "a auzi intelligently (adesea cu implicație al attention, obedience, etc.; causatively, a tell, etc.).",
+    "greek_def_ro": "ἀκούω (akouo) — a auzi („am auzit”).",
+    "dict_ro": "Shama, „a asculta”: „ascultă-ne, domnul meu” (23:6, 8, 11, 13, 15) — formula politicoasă de negociere; verbul revine de cinci ori; Septuaginta spune ἄκουσον."
    },
    {
     "t": "! [O parcelă de] "
@@ -2153,7 +2695,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "γῆ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământ."
+    "def_ro": "pământ (la large, sau partitively țară).",
+    "greek_def_ro": "χοῦς (chous) — țărână, pulbere.",
+    "dict_ro": "Erets, „țară”: „în țara Canaanului” (23:2) — Sara moare în țara făgăduită; „țara” e și ogorul cumpărat (23:15); prima bucată de pământ pe care Avraam o cumpără acolo."
    },
    {
     "t": " de "
@@ -2167,7 +2711,9 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "τετρακοσίων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "patru sute."
+    "def_ro": "patru; „paisprezecelea” — numeral ordinal în „anul al paisprezecelea”.",
+    "greek_def_ro": "τετρακόσιοι (tetrakosioi) — patru sute (la genitiv).",
+    "dict_ro": "Arba, „patru”: „patru sute de sicli de argint” (23:15–16) — prețul ogorului; Septuaginta spune τετρακοσίων διδράχμων."
    },
    {
     "t": " de "
@@ -2181,7 +2727,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "διδράχμων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sicli."
+    "def_ro": "probabil weight; folosit ca commercial standard.",
+    "greek_def_ro": "δίδραχμον (didrachmon) — didrahmă (la genitiv plural).",
+    "dict_ro": "Sheqel, „siclu”: „patru sute de sicli” (23:15–16) — unitate de greutate (aproape 11 grame); Easton: aproximativ jumătate de uncie; Septuaginta spune δίδραχμα."
    },
    {
     "t": " de "
@@ -2195,7 +2743,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀργυρίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "argint."
+    "def_ro": "argint (de la al sau pale color); de implicație, money.",
+    "greek_def_ro": "ἀργύριον (argyrion) — argint (la genitiv).",
+    "dict_ro": "Kesef, „argint”: „pentru argint deplin” (23:9, 13, 15–16) — Avraam plătește prețul întreg, ca să nu fie datorie; Septuaginta spune ἀργύριον."
    },
    {
     "t": " – ce-i oare aceasta între mine și tine? "
@@ -2209,7 +2759,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "θάψον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Îngroapă-ți."
+    "def_ro": "a îngropa, a pune în mormânt.",
+    "greek_def_ro": "θάπτω (thapto) — a îngropa („îngroapă”).",
+    "dict_ro": "Qavar, „a îngropa”: „să îngrop pe mortul meu” (23:4, 6, 8, 11, 13, 15, 19) — verbul îngropării, repetat de șapte ori; Septuaginta spune θάπτω."
    },
    {
     "t": " moarta!”"
@@ -2224,7 +2776,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "Οὐχί, κύριε· ἀκήκοα γάρ. γῆ τετρακοσίων διδράχμων ἀργυρίου, ἀνὰ μέσον ἐμοῦ καὶ σοῦ τί ἂν εἴη τοῦτο; σὺ δὲ τὸν νεκρόν σου θάψον.",
+    "original": "Οὐχί, κύριε· ἀκήκοα γῆ τετρακοσίων διδράχμων ἀργυρίου, ἀνὰ μέσον ἐμοῦ καὶ σοῦ τί ἂν εἴη τοῦτο; σὺ δὲ τὸν νεκρόν σου θάψον.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -2237,12 +2789,22 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 20:16"
+   "Geneza 20:16",
+   "Exodul 30:15",
+   "Ezechiel 45:12"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Ce-i oare aceasta între mine și tine?» Între doi prieteni ca noi, ce însemnătate are aceasta? Ci lasă vânzarea și îngroapă-ți moarta."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "„Stăpâne, ascultă-mă: un pământ care valorează patru sute de sicli de argint, între mine și tine, ce este el? Îngroapă-ți moarta.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "„Stăpâne, ascultă-mă: un pământ al cărui preț este de patru sute de sela de argint, ce este aceasta între mine și tine? Îngroapă-ți moarta.”"
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
@@ -2277,7 +2839,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἤκουσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-a ascultat."
+    "def_ro": "a auzi, a asculta; prin extindere, a se supune prin ascultare.",
+    "greek_def_ro": "ἀκούω (akouo) — a auzi („a auzit”).",
+    "dict_ro": "Shama, „a asculta”: „ascultă-ne, domnul meu” (23:6, 8, 11, 13, 15) — formula politicoasă de negociere; verbul revine de cinci ori; Septuaginta spune ἄκουσον."
    },
    {
     "t": " "
@@ -2291,7 +2855,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: „a venit să bocească pe Sara” (23:2) și să cumpere mormântul (23:3–20); își declară statutul de „străin și venetic” (23:4)."
    },
    {
     "t": " pe "
@@ -2305,7 +2871,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Εφρων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Efron."
+    "def_ro": "ephron, nume al Canaanite si al two places in Palestine.",
+    "greek_def_ro": "Εφρων (Ephron) — Efron, nume propriu.",
+    "dict_ro": "Efron (Ephron), „ca un pui de căprioară” sau „țărână” (Easton, Hitchcock): hititul fiul lui Țohar, stăpânul ogorului și al peșterii Macpela (23:8–17)."
    },
    {
     "t": " și i a "
@@ -2319,7 +2887,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔστησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i a cântărit."
+    "def_ro": "a cântări (argintul).",
+    "greek_def_ro": "ἵστημι (histemi) — a așeza, a ridica („a așezat”).",
+    "dict_ro": "Shaqal, „a cântări”: „Avraam a cântărit argintul” (23:16) — tranzacția se făcea prin cântărire, nu prin monede bătute."
    },
    {
     "t": " "
@@ -2333,7 +2903,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: „a venit să bocească pe Sara” (23:2) și să cumpere mormântul (23:3–20); își declară statutul de „străin și venetic” (23:4)."
    },
    {
     "t": " lui "
@@ -2347,7 +2919,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Εφρων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Efron."
+    "def_ro": "ephron, nume al Canaanite si al two places in Palestine.",
+    "greek_def_ro": "Εφρων (Ephron) — Efron (la dativ).",
+    "dict_ro": "Efron (Ephron), „ca un pui de căprioară” sau „țărână” (Easton, Hitchcock): hititul fiul lui Țohar, stăpânul ogorului și al peșterii Macpela (23:8–17)."
    },
    {
     "t": " "
@@ -2361,7 +2935,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸ ἀργύριον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "banii."
+    "def_ro": "argint (de la al sau pale color); de implicație, money.",
+    "greek_def_ro": "ἀργύριον (argyrion) — argint; „argintul”.",
+    "dict_ro": "Kesef, „argint”: „pentru argint deplin” (23:9, 13, 15–16) — Avraam plătește prețul întreg, ca să nu fie datorie; Septuaginta spune ἀργύριον."
    },
    {
     "t": " despre care "
@@ -2375,7 +2951,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐλάλησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vorbise."
+    "def_ro": "poate propriu-zis, a arrange; dar folosit figurat (al words), a vorbi; rarely (in destructive sens) a subdue.",
+    "greek_def_ro": "λαλέω (laleo) — a vorbi („a vorbit”).",
+    "dict_ro": "Dibber, „a vorbi”: „a vorbit fiilor lui Het” (23:3, 8, 13, 16) — Avraam negociază cu cuvinte; toată povestea e un dialog; Septuaginta spune εἶπεν."
    },
    {
     "t": " în auzul fiilor lui "
@@ -2389,7 +2967,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χετ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Het."
+    "def_ro": "cheth, aboriginal Canaanite.",
+    "greek_def_ro": "Χετ (Chet) — Het, nume propriu.",
+    "dict_ro": "Het (Chet), „spaimă” (Easton): fiul lui Canaan (10:15); „fiii lui Het” (23:3, 5, 7, 10, 16, 18, 20) sunt hitiții din Hebron, locuitorii cu care Avraam tratează."
    },
    {
     "t": ", "
@@ -2403,7 +2983,9 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "τετρακόσια",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "patru sute."
+    "def_ro": "patru; „paisprezecelea” — numeral ordinal în „anul al paisprezecelea”.",
+    "greek_def_ro": "τετρακόσιοι (tetrakosioi) — patru sute.",
+    "dict_ro": "Arba, „patru”: „patru sute de sicli de argint” (23:15–16) — prețul ogorului; Septuaginta spune τετρακοσίων διδράχμων."
    },
    {
     "t": " de "
@@ -2417,7 +2999,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "δίδραχμα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sicli."
+    "def_ro": "probabil weight; folosit ca commercial standard.",
+    "greek_def_ro": "δίδραχμον (didrachmon) — didrahmă, monedă de argint.",
+    "dict_ro": "Sheqel, „siclu”: „patru sute de sicli” (23:15–16) — unitate de greutate (aproape 11 grame); Easton: aproximativ jumătate de uncie; Septuaginta spune δίδραχμα."
    },
    {
     "t": " de "
@@ -2431,7 +3015,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀργυρίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "argint."
+    "def_ro": "argint (de la al sau pale color); de implicație, money.",
+    "greek_def_ro": "ἀργύριον (argyrion) — argint (la genitiv).",
+    "dict_ro": "Kesef, „argint”: „pentru argint deplin” (23:9, 13, 15–16) — Avraam plătește prețul întreg, ca să nu fie datorie; Septuaginta spune ἀργύριον."
    },
    {
     "t": ", [monedă] "
@@ -2443,9 +3029,10 @@ window.CHAPTER_DATA = [
     "translit": "over",
     "strong": "H5674",
     "pos": "verb, participiu",
-    "greek": "δεκτὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "acceptată."
+    "def_ro": "a cross peste; folosit foarte widely al orice transition (literal sau figurative; transitive, intransitive, intensive, causative); in special, a cover (in copulation).",
+    "diff_ro": "Ebraica spune „argint curent la negustor” (עֹבֵר לַסֹּחֵר); Septuaginta spune „argint de bună calitate pentru negustori” (δόκιμον ἐμπόροις).",
+    "dict_ro": "Avar, „a trece”: „argint curent (care trece) la negustor” (23:16) — argint de bună calitate, acceptat în comerț; verbul înseamnă „a circula”."
    },
    {
     "t": " la "
@@ -2457,9 +3044,11 @@ window.CHAPTER_DATA = [
     "translit": "lasocher",
     "strong": "H5503",
     "pos": "substantiv, participiu, cu prefix",
-    "greek": "τοῖς ἐμπόροις",
+    "greek": "ἐμπόροις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "negustor."
+    "def_ro": "a travel round (in special ca pedlar); intensively, a palpitate.",
+    "greek_def_ro": "ἔμπορος (emporos) — negustor (la dativ plural).",
+    "dict_ro": "Soher, „negustor”: „curent la negustor” (23:16) — argintul acceptat de negustori; Septuaginta spune δόκιμον ἐμπόροις."
    },
    {
     "t": "."
@@ -2487,12 +3076,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Ieremia 32:9"
+   "Ieremia 32:9",
+   "Geneza 43:21",
+   "Ezra 8:25-30",
+   "Iov 28:15",
+   "Zaharia 11:12",
+   "Matei 7:12"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«I-a cântărit Avraam lui Efron (le-ʿEfron).» Lipsește vav-ul, pentru că a spus mult și nici puțin n-a făcut: căci a luat de la el sicli mari, care sunt chintale, cum s-a spus: „monedă acceptată la negustor”, care se primesc ca siclu pretutindeni. Și este un loc unde siclii lor sunt mari, și sunt chintale, în laʿaz centenaires."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avraam l-a ascultat pe Efron; și Avraam i-a cântărit lui Efron argintul despre care vorbise înaintea fiilor lui Het: patru sute de sicli de argint, primiți ca monedă de negoț în toată țara."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Avraam l-a ascultat pe Efron, și Avraam i-a cântărit lui Efron argintul de care vorbise în fața fiilor lui Het, patru sute de sela de argint bun, care trec la orice masă de schimb și sunt primite în orice negoț."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -2511,8 +3113,23 @@ window.CHAPTER_DATA = [
     "text": "«Monedă acceptată la negustor» (ʿover la-soḥer): argint plin la greutatea lui, cum fac negoț cu el negustorii, căci ei sunt scrupuloși la greutatea argintului."
    },
    {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și l-a ascultat Avraam pe Efron.» Ce a ascultat? A ascultat prețuirea pe care a spus-o Efron: „O parcelă de pământ de patru sute de sicli” etc.<br><br>«Și a cântărit Avraam lui Efron.» „Efron” este scris defectiv, fără vav, ca să se egaleze ghematria lui cu cele patru sute de sicli de argint pe care i-a cântărit Avraam.<br><br>«Monedă acceptată la negustor.» Argint curat, acceptat de toți. „Kesef ʿover”, ca „mor ʿover”."
+   },
+   {
     "author": "Zohar, Toldot 13:2",
     "text": "Rabbi Yehudah a zis: vai de răi, că bunătatea lor nu e desăvârșită. Vino, vezi: Efron la început a zis (Geneza 23:11): «domnul meu, ascultă-mă: ogorul ți l-am dat, și peștera care e în el ți-am dat-o» etc. Și după aceea a zis (Geneza 23:11): «pământ de patru sute de sicli de argint» etc.; și e scris (Geneza 23:16) «și a cântărit Avraham lui Efron» etc., «trecător la negustor». Tot așa aici, e scris la început «iată țara mea e înaintea ta» etc. Și după aceea i-a zis (Geneza 26:16): «du-te de la noi, că te-ai întărit de noi foarte». I-a zis Rabbi Elʿazar: acesta e binele pe care l-a făcut cu el, că n-a luat Avimelekh din al lui nimic, și l-a trimis cu tot avutul lui, și după aceea a mers după el să taie cu el legământ."
+   },
+   {
+    "author": "Cartea Jubileelor 19 — comparație",
+    "text": "Și l-au rugat, zicând: Ți-o vom da degeaba; dar el n-a vrut s-o ia din mâinile lor degeaba, căci a dat prețul locului, banii deplin, și s-a plecat înaintea lor de două ori; și după aceasta și-a îngropat mortul în peștera îndoită.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 19,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -2531,7 +3148,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "ἀγρὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "câmpul."
+    "def_ro": "câmp, ogor, țarină; prin extindere, țară, ținut.",
+    "dict_ro": "Sadeh, „câmp, ogor”: „ogorul lui Efron” (23:9, 11, 13, 17, 20) — ogorul cumpărat împreună cu peștera; el devine prima proprietate funciară a lui Avraam în țara făgăduită.",
+    "greek_def_ro": "ἀγρός (agros) — ogor."
    },
    {
     "t": " lui "
@@ -2545,7 +3164,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Εφρων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Efron."
+    "def_ro": "ephron, nume al Canaanite si al two places in Palestine.",
+    "greek_def_ro": "Εφρων (Ephron) — Efron, nume propriu.",
+    "dict_ro": "Efron (Ephron), „ca un pui de căprioară” sau „țărână” (Easton, Hitchcock): hititul fiul lui Țohar, stăpânul ogorului și al peșterii Macpela (23:8–17)."
    },
    {
     "t": " care este în "
@@ -2553,13 +3174,15 @@ window.CHAPTER_DATA = [
    {
     "t": "Mahpela",
     "w": "Mahpela",
-    "heb": "הַמַּכְפֵּלָה",
+    "heb": "בַּמַּכְפֵּלָה",
     "translit": "haMakhpelah",
     "strong": "H4375",
     "pos": "nume propriu",
     "greek": "τῷ διπλῷ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Mahpela."
+    "def_ro": "makpelah, loc în Palestine.",
+    "greek_def_ro": "διπλοῦς (diplous) — dublu (la dativ: „cel dublu”).",
+    "dict_ro": "Machpelah (Makhpelah), „dublă” (Easton): peștera și ogorul cumpărate de Avraam de la Efron, pentru o groapă familială (23:9, 17, 19); locul se află la răsărit de Hebron, „în fața Mamre”."
    },
    {
     "t": ", față în față cu "
@@ -2573,7 +3196,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Μαμβρη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Mamre."
+    "def_ro": "Mamre — loc de lângă Hebron cu stejari mari; și numele unui amorit prieten al lui Avram.",
+    "greek_def_ro": "Μαμβρη (Mambre) — Mamre, nume propriu.",
+    "dict_ro": "Mamre (Mamre), „vigoare” (Easton): „în fața Mamre” (23:17, 19) — localizarea peșterii; Mamre e locul stejarilor lui Avraam (13:18)."
    },
    {
     "t": " – "
@@ -2587,7 +3212,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ὁ ἀγρὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "câmpul."
+    "def_ro": "câmp, ogor, țarină; prin extindere, țară, ținut.",
+    "dict_ro": "Sadeh, „câmp, ogor”: „ogorul lui Efron” (23:9, 11, 13, 17, 20) — ogorul cumpărat împreună cu peștera; el devine prima proprietate funciară a lui Avraam în țara făgăduită.",
+    "greek_def_ro": "ἀγρός (agros) — ogor; „ogorul”."
    },
    {
     "t": ", "
@@ -2601,7 +3228,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸ σπήλαιον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "peștera."
+    "def_ro": "peșteră — scorbură în stâncă, adăpost în munte.",
+    "greek_def_ro": "σπήλαιον (spelaion) — peșteră („peștera”).",
+    "dict_ro": "Me’arah, „peșteră”: „peștera Macpela” (23:9, 11, 17, 19–20) — peștera dublă, în care va fi îngropată Sara, apoi Avraam, Isaac, Rebeca, Lea și Iacov; Septuaginta spune τὸ σπήλαιον τὸ διπλοῦν."
    },
    {
     "t": " de pe el și toți "
@@ -2613,9 +3242,11 @@ window.CHAPTER_DATA = [
     "translit": "ha'ets",
     "strong": "H6086",
     "pos": "substantiv, cu articol",
-    "greek": "τὸ δένδρον",
+    "greek": "δένδρον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pomii."
+    "def_ro": "tree (de la al sau firmness); de aici, wood (plural sticks).",
+    "greek_def_ro": "δένδρον (dendron) — copac.",
+    "dict_ro": "Etz, „copac”: „toți pomii din ogor” (23:17) — ogorul vândut cu toți copacii lui; Septuaginta spune πᾶν δένδρον."
    },
    {
     "t": " de pe câmp, în toate "
@@ -2629,7 +3260,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τοῖς ὁρίοις αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "hotarele lui."
+    "def_ro": "hotar, margine, ținut.",
+    "greek_def_ro": "ὅριον (horion) — hotar; „hotarele lui”.",
+    "dict_ro": "Gevul, „hotar”: „în toate hotarele lui de jur împrejur” (23:17) — vânzarea cuprinde toate hotarele; Septuaginta spune τοῖς ὁρίοις αὐτοῦ."
    },
    {
     "t": " sale de jur împrejur – a fost "
@@ -2641,9 +3274,11 @@ window.CHAPTER_DATA = [
     "translit": "vayakam",
     "strong": "H6965",
     "pos": "verb",
-    "greek": "ἐστάθη",
+    "greek": "ἔστη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fost confirmat."
+    "def_ro": "a se ridica, a se scula; a porni, a se ridica împotriva cuiva.",
+    "greek_def_ro": "ἵστημι (histemi) — a sta, a rămâne în picioare („a rămas”).",
+    "dict_ro": "Qum, „a se ridica”: „Avraam s-a ridicat de lângă mortul său” (23:3) — trece de la doliu la acțiune; Septuaginta spune ἀνέστη."
    }
   ],
   "textCompare": [
@@ -2668,12 +3303,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 25:9"
+   "Geneza 25:9",
+   "Geneza 23:20",
+   "Geneza 49:30-32",
+   "Geneza 50:13",
+   "Faptele Apostolilor 7:16",
+   "Rut 4:7-10"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«A fost confirmat (va-yaqom) câmpul lui Efron.» A avut o ridicare (tequmah), căci a ieșit din mâna unui om de rând în mâna unui rege. Iar înțelesul simplu al versetului: „și a fost confirmat câmpul, și peștera care este pe el și toți pomii… ca achiziție a lui Avraam” etc."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și câmpul lui Efron din Macpela, care este în fața lui Mamre, câmpul și peștera care este în el și toți copacii din câmp, care erau în tot hotarul lui de jur împrejur, au fost întăriți"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și s-a statornicit cumpărarea câmpului lui Efron, care este în Kafelta, care este în fața lui Mamre: câmpul și peștera care este în el și toți pomii care sunt în câmp, care sunt în tot hotarul lui de jur împrejur,"
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -2688,8 +3336,12 @@ window.CHAPTER_DATA = [
     "text": "«A fost confirmat» (wa-yaqom): s-a statornicit lui Avraam ca achiziție; și tot așa we-qam lo, adică s-a statornicit în mâna lui.<br><br>«Față în față cu Mamre»: câmpul și peștera erau în fața cetății, iar cetatea se numește Mamre și se numește Hebron, cum a scris: „față în față cu Mamre, adică Hebron”."
    },
    {
-    "author": "Notă juridică tradițională",
-    "text": "Enumerarea detaliată a proprietății (câmp, peșteră, pomi, toate hotarele) urmează o formulă legală completă, tipică actelor de vânzare din Orientul Apropiat Antic — un model textual citat adesea în tradiția rabinică ulterioară drept exemplu de achiziție de proprietate fără echivoc."
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și a fost confirmat.» Prin argint câmpul a fost confirmat ca să fie al lui Avraam ca proprietate. „Câmpul lui Efron”: câmpul era de-a lungul întregii fețe a cetății. Aici o numește Mamre, adică Hebron, iar mai sus „Chiriat-Arba, adică Hebron”. Iar la Iacov spune „Și Iacov a venit la tatăl său Isaac, în Mamre, în Chiriat-Arba, adică Hebron” etc., iar mai sus „Și a locuit în câmpiile lui Mamre care sunt în Hebron”, ca să-ți spună: Mamre și-a zidit o cetate în fața Hebronului, în afara lui, iar Hebronul, înăuntru, era al fiilor lui Het, și a numit-o Mamre după numele lui, iar „câmpiile lui Mamre” în fața ei, iar Macpela în fața lui Het, în altă direcție; iar după moartea lui Mamre a crescut înăuntru mâna uriașului al cărui nume era Arba și i-a stăpânit pe toate și s-a numit Arba după numele lui; iar când a crescut mâna lui Israel și l-au nimicit pe hitit, au numit-o Hebron."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Și a fost confirmat câmpul lui Efron.» De vreme ce i-a dat banii, l-a dobândit cu bani, ca să fie dobândit de el și stăpânit în mâna lui, ca în „și va fi întărită în mâna ta împărăția lui Israel”, dar încă nu își făcuse stăpânire ca să fie cimitir; și de aceea a scris, după ce a fost îngropată Sara: „și a fost confirmat câmpul și peștera care este în el pentru Avraam, ca stăpânire de mormânt”, căci a făcut în el stăpânire pentru înmormântare; de aceea a scris „de la fiii lui Het”, căci aceasta a fost cu încuviințarea locuitorilor cetății, precum s-a explicat; dar ca să fie al lui spre cumpărare, a fost de la Efron."
    }
   ]
  },
@@ -2708,7 +3360,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "κτῆσιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "achiziție."
+    "def_ro": "propriu-zis, buying, adică acquisition; concretely, piece al property (țară sau living); de asemenea sum paid.",
+    "greek_def_ro": "κτῆσις (ktesis) — stăpânire, proprietate (la acuzativ).",
+    "dict_ro": "Miqnah, „dobândire”: „ca achiziție” (23:18) — cuvânt de drept pentru cumpărare; Septuaginta spune εἰς κτῆσιν."
    },
    {
     "t": " a lui "
@@ -2722,7 +3376,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu (la dativ: „lui Avraam”).",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: „a venit să bocească pe Sara” (23:2) și să cumpere mormântul (23:3–20); își declară statutul de „străin și venetic” (23:4)."
    },
    {
     "t": ", sub "
@@ -2736,7 +3392,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "ἐναντίον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ochii."
+    "def_ro": "eye (literal sau figurat); de analogy, fountain (ca eye al landscape).",
+    "greek_def_ro": "ἐναντίον (enantion) — înaintea, în fața (cuiva).",
+    "dict_ro": "Ayin, „ochi”: „în ochii fiilor poporului meu” (23:11) — în prezența martorilor; ofertă făcută „în ochii” tuturor, adică public."
    },
    {
     "t": " fiilor lui "
@@ -2750,7 +3408,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χετ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Het."
+    "def_ro": "cheth, aboriginal Canaanite.",
+    "greek_def_ro": "Χετ (Chet) — Het, nume propriu.",
+    "dict_ro": "Het (Chet), „spaimă” (Easton): fiul lui Canaan (10:15); „fiii lui Het” (23:3, 5, 7, 10, 16, 18, 20) sunt hitiții din Hebron, locuitorii cu care Avraam tratează."
    },
    {
     "t": ", pentru toți cei care "
@@ -2764,7 +3424,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu, stare construită",
     "greek": "εἰσπορευομένων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "veniseră."
+    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "greek_def_ro": "εἰσπορεύομαι (eisporeuomai) — a intra; la participiu genitiv plural, „celor ce intrau”.",
+    "dict_ro": "Bo, „a veni”: „Avraam a venit să bocească” (23:2) și „a venit în poarta cetății” (23:10); verbul arată drumul de la durere la tratativă."
    },
    {
     "t": " la "
@@ -2778,7 +3440,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὴν πόλιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "poarta."
+    "def_ro": "opening, adică door sau poartă.",
+    "greek_def_ro": "πόλις (polis) — cetate, oraș (la acuzativ: „cetatea”).",
+    "dict_ro": "Sha’ar, „poartă”: „la poarta cetății” (23:10, 18) — loc de judecată și de tranzacții; actele de vânzare se făceau acolo, în fața martorilor."
    },
    {
     "t": " orașului său."
@@ -2806,12 +3470,23 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Ruth 4:1-2"
+   "Ruth 4:1-2",
+   "Geneza 34:20",
+   "Rut 4:1",
+   "Ieremia 32:12"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Pentru toți cei care veniseră la poarta orașului său.» În mijlocul tuturor și în prezența tuturor i l-a dat în stăpânire."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "lui Avraam ca proprietate cumpărată, în ochii fiilor lui Het, înaintea tuturor celor care intrau pe poarta cetății lui."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "lui Avraam, ca bun cumpărat, în fața fiilor lui Het, a tuturor celor care intrau pe poarta cetății lui."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -2842,7 +3517,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: „a venit să bocească pe Sara” (23:2) și să cumpere mormântul (23:3–20); își declară statutul de „străin și venetic” (23:4)."
    },
    {
     "t": " a "
@@ -2856,7 +3533,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔθαψεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a îngropat-o."
+    "def_ro": "a îngropa, a pune în mormânt.",
+    "greek_def_ro": "θάπτω (thapto) — a îngropa („a îngropat”).",
+    "dict_ro": "Qavar, „a îngropa”: „să îngrop pe mortul meu” (23:4, 6, 8, 11, 13, 15, 19) — verbul îngropării, repetat de șapte ori; Septuaginta spune θάπτω."
    },
    {
     "t": " pe soția sa "
@@ -2870,7 +3549,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαρραν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sara."
+    "def_ro": "Sara — „prințesă”, noul nume al Sarei, dat de Dumnezeu.",
+    "greek_def_ro": "Σαρρα (Sarra) — Sara, nume propriu (la acuzativ).",
+    "dict_ro": "Sara (Sarah), „prințesă”: moare la o sută douăzeci și șapte de ani (23:1–2); capitolul 23 e despre îngroparea ei și cumpărarea mormântului din Hebron."
    },
    {
     "t": " în "
@@ -2884,7 +3565,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τῷ σπηλαίῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "peștera."
+    "def_ro": "peșteră — scorbură în stâncă, adăpost în munte.",
+    "greek_def_ro": "σπήλαιον (spelaion) — peșteră (la dativ: „în peșteră”).",
+    "dict_ro": "Me’arah, „peșteră”: „peștera Macpela” (23:9, 11, 17, 19–20) — peștera dublă, în care va fi îngropată Sara, apoi Avraam, Isaac, Rebeca, Lea și Iacov; Septuaginta spune τὸ σπήλαιον τὸ διπλοῦν."
    },
    {
     "t": " din câmpul "
@@ -2896,9 +3579,11 @@ window.CHAPTER_DATA = [
     "translit": "haMakhpelah",
     "strong": "H4375",
     "pos": "nume propriu",
-    "greek": "τοῦ διπλοῦ",
+    "greek": "διπλῷ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Mahpela."
+    "def_ro": "makpelah, loc în Palestine.",
+    "greek_def_ro": "διπλοῦς (diplous) — dublu (la dativ).",
+    "dict_ro": "Machpelah (Makhpelah), „dublă” (Easton): peștera și ogorul cumpărate de Avraam de la Efron, pentru o groapă familială (23:9, 17, 19); locul se află la răsărit de Hebron, „în fața Mamre”."
    },
    {
     "t": ", față în față cu "
@@ -2912,7 +3597,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Μαμβρη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Mamre."
+    "def_ro": "Mamre — loc de lângă Hebron cu stejari mari; și numele unui amorit prieten al lui Avram.",
+    "greek_def_ro": "Μαμβρη (Mambre) — Mamre, nume propriu.",
+    "dict_ro": "Mamre (Mamre), „vigoare” (Easton): „în fața Mamre” (23:17, 19) — localizarea peșterii; Mamre e locul stejarilor lui Avraam (13:18)."
    },
    {
     "t": ", adică "
@@ -2926,7 +3613,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χεβρων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Hebron."
+    "def_ro": "chebron, loc in Palestine, de asemenea nume al two Israelites.",
+    "greek_def_ro": "Χεβρων (Chebron) — Hebron, nume propriu.",
+    "dict_ro": "Hebron (Chevron), „comunitate, alianță”: cetatea în care moare Sara (23:2) și în care se află peștera Macpela; Septuaginta spune Χεβρων."
    },
    {
     "t": ", în "
@@ -2940,7 +3629,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "γῇ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țara."
+    "def_ro": "pământ (la large, sau partitively țară).",
+    "greek_def_ro": "γῆ (gē) — pământ, țară.",
+    "dict_ro": "Erets, „țară”: „în țara Canaanului” (23:2) — Sara moare în țara făgăduită; „țara” e și ogorul cumpărat (23:15); prima bucată de pământ pe care Avraam o cumpără acolo."
    },
    {
     "t": " "
@@ -2954,7 +3645,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χανααν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Canaanului."
+    "def_ro": "kenaan, fiu Ham; de asemenea ținut inhabited de him.",
+    "greek_def_ro": "Χανααν (Chanaan) — Canaan, nume propriu.",
+    "dict_ro": "Canaan (Kenaan): Sara moare „în țara Canaanului” (23:2), iar mormântul ei va fi prima stăpânire a lui Avraam în ea (23:20)."
    },
    {
     "t": "."
@@ -2969,7 +3662,7 @@ window.CHAPTER_DATA = [
    },
    {
     "source": "Septuaginta (greacă)",
-    "original": "μετὰ ταῦτα ἔθαψεν Αβρααμ Σαρραν τὴν γυναῖκα αὐτοῦ ἐν τῷ σπηλαίῳ τοῦ ἀγροῦ τῷ διπλῷ, ὅ ἐστιν ἀπέναντι Μαμβρη (αὕτη ἐστὶν Χεβρων) ἐν τῇ γῇ Χανααν.",
+    "original": "μετὰ ταῦτα ἔθαψεν Αβρααμ Σαρραν τὴν γυναῖκα αὐτοῦ ἐν τῷ σπηλαίῳ τοῦ ἀγροῦ τῷ διπλῷ, ὅ ἐστιν ἀπέναντι Μαμβρη αὕτη ἐστὶν Χεβρων ἐν τῇ γῇ Χανααν.",
     "greek": true,
     "translation": "",
     "note": ""
@@ -2982,9 +3675,22 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 49:31"
+   "Geneza 49:31",
+   "Geneza 3:19",
+   "Geneza 25:9,10",
+   "Geneza 35:27-29",
+   "Geneza 47:30",
+   "Geneza 49:29-32"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și după aceea Avraam a îngropat-o pe Sara, soția lui, în peștera câmpului Macpela, în fața lui Mamre, adică Hebron, în țara Canaan."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și după aceea Avraam a îngropat-o pe Sara, soția lui, în peștera câmpului Kafelta, care este în fața lui Mamre, adică Hebron, în țara Canaanului."
+   },
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Și după aceasta, Avraam a îngropat-o pe soția sa Sara.» Și de atunci a fost confirmat câmpul ca posesiune funerară pentru el și pentru seminția lui. Iar această pericopă a fost pomenită ca să facă cunoscută superioritatea țării lui Israel asupra tuturor țărilor, pentru cei vii și pentru cei morți, și, de asemenea, ca să se împlinească cuvântul Domnului către Avraam, ca să-i fie moștenire."
@@ -2996,6 +3702,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«În peștera» (el meʿarat): ca bi-mʿarat; și tot așa „iar în (el) chivot să pui Mărturia”, ca ba-aron."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«În peștera Macpela.» „El” în locul lui „be” (în), după exemplul „Și să pui în chivot”, „în mijlocul focului în care arde vaca”, „apă de izvor, într-un vas”."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Și după aceasta etc. a fost confirmat etc.» Trebuie să știm de ce a fost nevoie să spună „și după aceasta”, căci se înțelege din rânduiala lucrurilor că după aceasta a îngropat. Încă de ce a fost nevoie să spună a doua oară „a fost confirmat câmpul”?<br><br>Dar Scriptura intenționează să facă cunoscut că a fost cumpărarea după toate legile dobândirii, iar aceasta este spusa „și după aceasta”, explicația: după ce Avraam i-a cântărit lui Efron prețul peșterii, prin aceasta Efron a ridicat dreptul său de pe pământ, după cum a scris Rambam în capitolul 1 din Legile dobândirii și darului, iar acesta este textul lui: că neevreul din clipa ce a luat banii a ridicat dreptul său, iar israelitul nu a dobândit până ce nu ajunge actul în mâna lui, și se găsesc aceste bunuri ca bunurile pustiului, căci oricine ia în stăpânire în ele a dobândit, până aici. Iată, folosește darea banilor, căci nu a rămas neevreului drept în ea, și de aceea folosește pentru încheierea dobândirii în mâna lui Avraam prin stăpânirea (hazaqa) pe care a luat-o în ea prin faptul că a îngropat în ea pe Sara, dar dacă ar fi îngropat-o pe Sara mai înainte, deși ar fi dat după aceea banii câmpului, nu ar fi dobândit prin darea banilor singură, după cum s-a pomenit, fără stăpânire.<br><br>Și a rămas de știut dacă această stăpânire (hazaqa) se socotește stăpânire în pământul neevreului, și iată a scris Rambam în capitolul 2 din Legile dobândirii și darului, iar acesta este textul lui: Dar în bunuri fără stăpân sau ale străinului (ger), chiar dacă a mâncat roade câțiva ani nu a dobândit nici pomul, nici pământul, până ce face o faptă în trupul pământului etc., cum? Cel care găsește palate în bunurile străinului sau fără stăpân și le-a văruit sau a făcut kiyyer înalt de un cot sau mai mult a dobândit etc., cel care așterne așternuturi a dobândit etc., dacă lua pământ dintr-un loc înalt într-unul jos, iată acesta îndreaptă pământul, dacă l-am văzut aruncând pământul fără grijă, iată acesta este în presupunerea că nu intenționează decât să netezească locul pentru treierat și nu a dobândit, până aici. Și a scris Maggid Mișne: „cel care așterne așternuturi” – explicația: ca să stea pe ele, și iată s-a bucurat de trupul pământului. O altă explicație – cel care așterne așternuturi, că îmbunătățește pământul prin așternerea lor ca văruitul și kiyyur etc. și aceasta este esența, și cu aceasta a fost de acord Rabbenu Ibn Migaș, binecuvântată fie amintirea lui, până aici. Și iată, bine, după prima explicație a Maggidului că oricine se bucură de trupul pământului se numește stăpânire în găsirea bunurilor fără stăpân, vom spune că și în găsirea dinaintea noastră, de vreme ce a îngropat în trupul pământului pe Sara soția lui, se socotește că s-a bucurat de trupul pământului și l-a dobândit, dar după părerea lui Rabbi Ibn Migaș că nu este stăpânire decât dacă va face reparație în trupul pământului ca văruit și kiyyur, dacă așa, îngroparea Sarei nu ajută la stăpânire, și prin ce a dobândit Avraam?<br><br>Și este posibil că atunci când se construiește mormântul, în special construirea mormintelor vechi care construiau loculi (kokhin), și de obicei le văruiesc și fac kiyyur, prin aceasta va fi stăpânirea. Și de acum se va așeza motivul pentru care a repetat Scriptura a doua oară „a fost confirmat câmpul”, ca să spună că după ce Avraam a îngropat etc., prin aceasta s-a încheiat confirmarea câmpului pentru Avraam, iar fără aceasta, deși în privința lui Efron s-a pecetluit hotărârea lui că și-a ridicat dreptul, totuși încă nu se numește al lui Avraam după lege, după cum s-a pomenit, iar după ce a îngropat etc. „a fost confirmat” etc.:"
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 15",
+    "text": "Sara a murit după puțină vreme, trăind o sută douăzeci și șapte de ani. Au îngropat-o în Hebron; canaaniții îngăduindu-le în văzul tuturor un loc de îngropare; bucată de pământ pe care Avraam a cumpărat-o cu patru sute de sicli de la Efron, un locuitor al Hebronului. Și Avraam, și urmașii lui și-au zidit morminte în acel loc."
    }
   ]
  },
@@ -3011,7 +3729,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ὁ ἀγρὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Câmpul."
+    "def_ro": "câmp, ogor, țarină; prin extindere, țară, ținut.",
+    "dict_ro": "Sadeh, „câmp, ogor”: „ogorul lui Efron” (23:9, 11, 13, 17, 20) — ogorul cumpărat împreună cu peștera; el devine prima proprietate funciară a lui Avraam în țara făgăduită.",
+    "greek_def_ro": "ἀγρός (agros) — ogor; „ogorul”."
    },
    {
     "t": " și "
@@ -3025,7 +3745,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸ σπήλαιον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "peștera."
+    "def_ro": "peșteră — scorbură în stâncă, adăpost în munte.",
+    "greek_def_ro": "σπήλαιον (spelaion) — peșteră („peștera”).",
+    "dict_ro": "Me’arah, „peșteră”: „peștera Macpela” (23:9, 11, 17, 19–20) — peștera dublă, în care va fi îngropată Sara, apoi Avraam, Isaac, Rebeca, Lea și Iacov; Septuaginta spune τὸ σπήλαιον τὸ διπλοῦν."
    },
    {
     "t": " care e pe el i-au fost "
@@ -3039,7 +3761,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκυρώθη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au fost confirmate."
+    "def_ro": "a se ridica, a se scula; a porni, a se ridica împotriva cuiva.",
+    "greek_def_ro": "κυρόω (kyroo) — a întări, a valida („a fost întărit”).",
+    "dict_ro": "Qum, „a se ridica”: „Avraam s-a ridicat de lângă mortul său” (23:3) — trece de la doliu la acțiune; Septuaginta spune ἀνέστη."
    },
    {
     "t": " lui "
@@ -3053,7 +3777,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu (la dativ: „lui Avraam”).",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: „a venit să bocească pe Sara” (23:2) și să cumpere mormântul (23:3–20); își declară statutul de „străin și venetic” (23:4)."
    },
    {
     "t": " ca "
@@ -3067,7 +3793,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "εἰς κτῆσιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "posesiune."
+    "def_ro": "ceva seized, adică possession (in special al țară).",
+    "greek_def_ro": "κτῆσις (ktesis) — stăpânire; „spre stăpânire”.",
+    "dict_ro": "Achuzzah, „stăpânire, moșie”: „o posesiune de mormânt” (23:4, 9, 20) — Avraam cere să fie proprietarul legal al locului de îngropare; Septuaginta spune κτῆσις τάφου."
    },
    {
     "t": " "
@@ -3079,9 +3807,11 @@ window.CHAPTER_DATA = [
     "translit": "kaver",
     "strong": "H6913",
     "pos": "substantiv",
-    "greek": "μνημείου",
+    "greek": "τάφου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "funerară."
+    "def_ro": "mormânt, loc de îngropare.",
+    "greek_def_ro": "τάφος (taphos) — mormânt (la genitiv).",
+    "dict_ro": "Qever, „mormânt”: „mormântul” (23:4, 6, 9, 20) — locul de îngropare; cuvântul revine ca mărturie că primul pământ al lui Avraam e un mormânt."
    },
    {
     "t": ", de la fiii lui "
@@ -3095,7 +3825,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῶν υἱῶν Χετ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Het."
+    "def_ro": "cheth, aboriginal Canaanite.",
+    "greek_def_ro": "υἱός (hyios), Χετ (Chet) — „de la fiii lui Het”.",
+    "dict_ro": "Het (Chet), „spaimă” (Easton): fiul lui Canaan (10:15); „fiii lui Het” (23:3, 5, 7, 10, 16, 18, 20) sunt hitiții din Hebron, locuitorii cu care Avraam tratează."
    },
    {
     "t": "."
@@ -3125,9 +3857,20 @@ window.CHAPTER_DATA = [
   "refs": [
    "Fapte 7:16",
    "Geneza 49:30",
-   "Geneza 25:9-10"
+   "Geneza 25:9-10",
+   "Rut 4:7-10",
+   "2 Samuel 24:24",
+   "Ieremia 32:10,11"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și câmpul și peștera care este în el au fost întărite lui Avraam ca proprietate de mormânt de la fiii lui Het."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și s-a statornicit câmpul și peștera care este în el lui Avraam ca moștenire pentru mormânt, de la fiii lui Het."
+   },
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«De la fiii lui Het.» Căci toată obștea s-a învoit să-i fie ca posesiune funerară."
@@ -3135,6 +3878,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«De la fiii lui Het»: căci cu învoirea lor și cu voia lor i-a dat Efron câmpul și peștera, căci era bine în ochii tuturor ca Avraam să aibă o posesiune între ei."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și a fost confirmat câmpul.» Limbaj de întărire, ca „să-l întărească asupra ei”, „Le-a întărit în ziua în care le-a auzit”. Pentru a spune că după ce a fost îngropată în el Sara, câmpul a fost întărit și a fost încredințat lui Avraam ca proprietate funerară.<br><br>«De la fiii lui Het.» Căci a luat semnătura cetății și întărirea cumpărării câmpului, ca să nu spună: Efron nu are voie să înmulțească la noi loc de necurăție."
    },
    {
     "author": "Zohar, Bo 7:8",

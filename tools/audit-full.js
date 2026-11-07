@@ -4,7 +4,7 @@
 // 5) câmpuri lexicale complete, fără „Vezi mai sus”, fără definiții-ecou; 6) fără dubluri de comentarii, fără fraze interzise, fără cedilă; 7) cifre.
 const fs = require('fs');
 const nk = s => String(s).normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[ʼ᾿’'·,.;:··?!]/g, '').replace(/ς/g, 'σ').replace(/\s+/g, ' ').trim().toLowerCase();
-const heClean = s => String(s).replace(/<[^>]*>/g, ' ').replace(/&[a-z]+;/g, ' ').replace(/\([^)]*\)/g, '').replace(/[\[\]]/g, '').replace(/\{[^}]*\}/g, '').normalize('NFC').replace(/[֑-ֽ֯׀׃ׅׄ]/g, '').replace(/ׇ/g, 'ָ').replace(/ֺ/g, 'ֹ').replace(/[׃]/g, '').replace(/יְהֹוָה/g, 'יְהוָה').replace(/יהֹוָה/g, 'יהוָה').replace(/\s+/g, ' ').trim();
+const heClean = s => String(s).replace(/<\/?(?:small|big)>/g, '').replace(/<[^>]*>/g, ' ').replace(/&[a-z]+;/g, ' ').replace(/\([^)]*\)/g, '').replace(/[\[\]]/g, '').replace(/\{[^}]*\}/g, '').normalize('NFC').replace(/[֑-ֽ֯׀׃ׅׄ]/g, '').replace(/ׇ/g, 'ָ').replace(/ֺ/g, 'ֹ').replace(/[׃]/g, '').replace(/יְהֹוָה/g, 'יְהוָה').replace(/יהֹוָה/g, 'יהוָה').replace(/\s+/g, ' ').trim();
 const cons = s => String(s).replace(/<[^>]*>/g, '').replace(/&[a-z]+;/g, '').replace(/\{[^}]*\}/g, '').replace(/[^א-ת]/g, '').replace(/[ךםןףץ]/g, c => ({ ך: 'כ', ם: 'מ', ן: 'נ', ף: 'פ', ץ: 'צ' }[c]));
 const hk = s => String(s).replace(/[־\-]/g, ' ').replace(/[֑-ׇ]/g, '').replace(/\s+/g, ' ').trim();
 const LX = JSON.parse(fs.readFileSync('data/ref-lxx-rahlfs-gen.json', 'utf8')), HE = JSON.parse(fs.readFileSync('data/ref-mt-sefaria-gen.json', 'utf8'));
