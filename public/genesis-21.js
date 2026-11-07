@@ -14,7 +14,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "Κύριος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNUL."
+    "def_ro": "yHWH, Numele propriu al Dumnezeului lui Israel.",
+    "greek_def_ro": "κύριος (kyrios) — Domn.",
+    "dict_ro": "Tetragrama YHVH, „DOMNUL”: „DOMNUL a cercetat pe Sara” (21:1) și „a făcut Sarei cum spusese”; la sfârșit, Avraam „a chemat Numele DOMNULUI, Dumnezeul Veșnic” (21:33). Septuaginta spune Κύριος."
    },
    {
     "t": " Și-a "
@@ -28,7 +30,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπεσκέψατο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Și-a adus aminte."
+    "def_ro": "a cerceta, a vizita, a-și aduce aminte de cineva cu grijă (despre Dumnezeu: a se îndura).",
+    "greek_def_ro": "ἐπισκέπτομαι (episkeptomai) — a cerceta, a vizita („a cercetat”).",
+    "dict_ro": "Paqad, „a cerceta, a vizita”: „DOMNUL a cercetat pe Sara” (21:1) — verbul îndurării care se împlinește; același verb de la Iosif (50:24–25) și Exod 3:16."
    },
    {
     "t": " de "
@@ -42,7 +46,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τὴν Σαρραν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "de Sara."
+    "def_ro": "Sara — „prințesă”, noul nume al Sarei, dat de Dumnezeu.",
+    "greek_def_ro": "Σαρρα (Sarra) — Sara, nume propriu (la acuzativ).",
+    "dict_ro": "Sara (Sarah), „prințesă”: „Sara a născut un fiu lui Avraam” (21:1–7); frământarea ei de la 18:12 se schimbă în bucurie (21:6)."
    },
    {
     "t": " precum "
@@ -56,7 +62,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "spusese."
+    "def_ro": "a zice (folosit cu mare latitude).",
+    "dict_ro": "Amar, „a spune”: „Sara a spus lui Avraam” (21:10), „Dumnezeu a zis” (21:12), „îngerul a zis” (21:17): glasul care decide în capitol.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": " și "
@@ -68,9 +76,11 @@ window.CHAPTER_DATA = [
     "translit": "YHVH",
     "strong": "H3068",
     "pos": "substantiv",
-    "greek": "ὁ Θεὸς",
+    "greek": "Κύριος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNUL."
+    "def_ro": "yHWH, Numele propriu al Dumnezeului lui Israel.",
+    "greek_def_ro": "κύριος (kyrios) — Domn.",
+    "dict_ro": "Tetragrama YHVH, „DOMNUL”: „DOMNUL a cercetat pe Sara” (21:1) și „a făcut Sarei cum spusese”; la sfârșit, Avraam „a chemat Numele DOMNULUI, Dumnezeul Veșnic” (21:33). Septuaginta spune Κύριος."
    },
    {
     "t": " i-a "
@@ -84,7 +94,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐποίησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a făcut."
+    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "greek_def_ro": "ποιέω (poieo) — a face.",
+    "dict_ro": "Asah, „a face”: „a făcut DOMNUL Sarei” (21:1) și „râs mi-a făcut Dumnezeu” (21:6): lucrarea lui Dumnezeu e făcută în trupul Sarei."
    },
    {
     "t": " "
@@ -98,7 +110,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῇ Σαρρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sarei."
+    "def_ro": "Sara — „prințesă”, noul nume al Sarei, dat de Dumnezeu.",
+    "greek_def_ro": "Σαρρα (Sarra) — Sara, nume propriu (la dativ).",
+    "dict_ro": "Sara (Sarah), „prințesă”: „Sara a născut un fiu lui Avraam” (21:1–7); frământarea ei de la 18:12 se schimbă în bucurie (21:6)."
    },
    {
     "t": " precum "
@@ -112,7 +126,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐλάλησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vorbise."
+    "def_ro": "poate propriu-zis, a arrange; dar folosit figurat (al words), a vorbi; rarely (in destructive sens) a subdue.",
+    "greek_def_ro": "λαλέω (laleo) — a vorbi („a vorbit”).",
+    "dict_ro": "Dibber, „a vorbi”: „precum vorbise” (21:1–2) — împlinirea cuvântului lui Dumnezeu; Septuaginta spune καθὰ ἐλάλησεν."
    },
    {
     "t": "."
@@ -141,12 +157,24 @@ window.CHAPTER_DATA = [
   ],
   "refs": [
    "Geneza 18:10",
-   "Geneza 17:19"
+   "Geneza 17:19",
+   "Geneza 50:24",
+   "Exodul 3:16",
+   "Exodul 4:31",
+   "Exodul 20:5"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și Domnul Și-a adus aminte de Sara etc.» A alăturat acest pasaj celui de dinainte ca să te învețe că oricine cere îndurare pentru tovarășul său, iar el însuși are nevoie de același lucru, este răspuns el primul, cum s-a spus: „Iar Avraam s-a rugat” etc., și alăturat lui: „Și Domnul Și-a adus aminte de Sara” — căci Și-a adus aminte de ea deja, înainte de a-l vindeca pe Abimelec.<br><br>«Și-a adus aminte de Sara precum spusese.» În privința sarcinii.<br><br>«Precum vorbise.» În privința nașterii. Și unde este „spunerea” (amirah) și unde este „vorbirea” (dibbur)? Spunerea: „Și Dumnezeu a spus: Și totuși, soția ta Sara” etc.. Vorbirea: „a fost cuvântul Domnului către Avram” la legământul dintre bucăți, și acolo s-a spus: „Nu acesta te va moșteni” etc., iar El l-a adus pe moștenitor de la Sara.<br><br>«Și Domnul i-a făcut Sarei precum vorbise.» Lui Avraam."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Domnul Și-a adus aminte de Sara, cum spusese; și Domnul a făcut Sarei cum vorbise."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Domnul Și-a amintit de Sara, cum îi spusese, și Domnul i-a făcut Sarei o minune, cum vorbise lui Avraam în rugăciunea lui pentru Abimelec."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
@@ -161,6 +189,14 @@ window.CHAPTER_DATA = [
     "text": "«Și Domnul Și-a adus aminte de Sara precum spusese»: că a zămislit și a născut la sorocul acela, precum spusese; și pentru că era o minune, a repetat lucrul și l-a spus a treia oară. Și obiceiul Scripturii este ca, la dublarea sensului, să schimbe cuvintele; și tot așa a spus mai întâi „Și-a adus aminte” și după aceea „precum vorbise”."
    },
    {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și Domnul Și-a adus aminte de Sara.» Oriunde este spus „Și Domnul” (va-Adonai), este El și tribunalul Său. A stat asupra lui în judecată; este scris „Dacă nu s-a spurcat” etc. „și curată este, și va fi absolvită, sămânță, și chiar va naște bărbat”, iar Sara a fost ascunsă și nu s-a spurcat. Și nu trebuie să se obiecteze din „Iar Domnul a făcut cerurile”, căci așa este explicația: El, Stăpânul milei, cu atributul Său al judecății, a făcut cerurile; după cum am explicat la „în ziua facerii de către Domnul Dumnezeu a pământului și cerurilor”.<br><br>«De Sara.» „Pe Sara” – ca să includă toate femeile sterpe.<br><br>«Precum spusese.» Precum a spus: „Mă voi întoarce negreșit”.<br><br>«Precum vorbise.» Precum a vorbit: „În acea zi Domnul a făcut legământ cu Avram” etc."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Și Domnul Și-a adus aminte de Sara etc. precum spusese.» Explicația: nu din pricina că s-a rugat pentru Abimelec și din motivul „oricine se roagă pentru semenul său” etc., căci în afară de aceasta nu ar fi fost cercetată, și aceasta ar micșora, Doamne ferește, făgăduința care este spusă la începutul secțiunii, ci „precum spusese”.<br><br>Încă, mereu, căci rugăciunea lui pentru Abimelec este lucrul care a pregătit cercetarea Sarei, iar făgăduința Lui, binecuvântat fie, era că îi va da un fiu, și Numele i-a pregătit o poruncă a cărei virtute (segula) este să fie cercetată, și prin aceasta s-a împlinit făgăduința Lui. Și aceasta este spusa „precum spusese”, explicația: și din pricina spusei pe care a spus-o Numele i s-a întâmplat lucrul și a fost cercetată, căci când va voi Numele să facă bine va pregăti porunca a cărei virtute este binele căutat. Și vei găsi că înainte de făgăduința cercetării i s-a întâmplat deja lui Avraam fapta lui Faraon, care este asemenea faptei lui Abimelec, și nu l-a oprit Numele pe Faraon ca să se roage Avraam pentru el, și acesta îți este semnul pentru ce am explicat.<br><br>«Și Domnul i-a făcut Sarei precum vorbise.» Motivul pentru care a dublat spunând „a făcut” etc., va intenționa după cuvintele lor, binecuvântată fie amintirea lor (Tanhuma), la versetul „la anul pe vremea aceasta”: că îngerul a făcut pentru ea o zgârietură în perete: când soarele va ajunge la acest loc, Sara va avea un fiu, și aceasta este ce a făcut cunoscut Scriptura, că s-a împlinit cuvântul îngerului care i-a vorbit în precizia timpului.<br><br>Încă va intenționa Scriptura după ce am explicat la versetul „Sara, soția ta, va avea un fiu”, că a venit din partea femeii, și din această pricină a fost nevoie de legare. Și este cunoscut că aceasta este pricina morții Sarei, și după ce am scris că Domnul s-a supărat de râsul Sarei și a ținut hotărârea ca Sara să nu nască decât un fiu din partea feminină, precum spusa: „Și totuși, soția ta Sara îți va naște”. De aceea a spus „Domnul i-a făcut Sarei precum vorbise”, și este cunoscut că vorbirea este grea, și aceasta este că nu l-a născut întreg în întregimea necesară, și lucrurile s-au rostogolit și Sara a murit din această pricină. Iar pe această cale, împlinirea făgăduinței față de zgârietura pe care a făcut-o îngerul pentru ea este aluzionată în versetul de după acesta, căci este scris „la sorocul despre care îi vorbise” etc."
+   },
+   {
     "author": "Talmudul Babilonian, Roș Hașana, cap. 1",
     "text": "„Cercetare” — „cercetare”: este scris despre Ana: „căci Domnul a cercetat-o pe Ana”, și este scris despre Sara: „Și Domnul Și-a adus aminte de Sara”.",
     "src": {
@@ -168,6 +204,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 1,
       "v": 17
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 16 — comparație",
+    "text": "Și la mijlocul lunii a șasea Domnul a cercetat-o pe Sara și i-a făcut ei precum grăise, și ea a zămislit.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 16,
+      "v": 12
      }
     }
    }
@@ -188,7 +235,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαρρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sara."
+    "def_ro": "Sara — „prințesă”, noul nume al Sarei, dat de Dumnezeu.",
+    "greek_def_ro": "Σαρρα (Sarra) — Sara, nume propriu.",
+    "dict_ro": "Sara (Sarah), „prințesă”: „Sara a născut un fiu lui Avraam” (21:1–7); frământarea ei de la 18:12 se schimbă în bucurie (21:6)."
    },
    {
     "t": " a "
@@ -200,9 +249,11 @@ window.CHAPTER_DATA = [
     "translit": "vatahar",
     "strong": "H2029",
     "pos": "verb",
-    "greek": "συνέλαβεν",
+    "greek": "συλλαβοῦσα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zămislit."
+    "def_ro": "a fi (sau deveni) pregnant, conceive (literal sau figurat).",
+    "greek_def_ro": "συλλαμβάνω (syllambano) — a zămisli; la participiu, „zămislind”.",
+    "dict_ro": "Harah, „a rămâne însărcinată”: „Sara a rămas însărcinată” (21:2) — împlinirea vestirii de la 17:19; Septuaginta spune συλλαβοῦσα."
    },
    {
     "t": " și i-a "
@@ -216,7 +267,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔτεκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a născut."
+    "def_ro": "a bear tânăr; causatively, a beget; medically, a act ca midwife; in special, a show lineage.",
+    "dict_ro": "Yalad, „a naște”: „Sara a născut” (21:2–3, 5, 7), „i s-a născut” (21:3, 5) — verbul care lipsise în povestea Sarei de la 11:30 se aude acum de cinci ori; Septuaginta spune ἔτεκεν.",
+    "greek_def_ro": "τίκτω (tiktō) — a naște."
    },
    {
     "t": " lui "
@@ -230,7 +283,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu (la dativ: „lui Avraam”).",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": " un "
@@ -244,7 +299,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "υἱὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiu."
+    "def_ro": "fiu (ca builder al family nume), in widest sens (al literal si figurative relationship, including grandson, subject, neam, quality sau condition, etc., (ca tată sau brother), etc.).",
+    "greek_def_ro": "υἱός (hyios) — fiu (la acuzativ).",
+    "dict_ro": "Ben, „fiu”: „Sara a născut un fiu” (21:2); „fiul slujnicei” (21:10); „fiul meu Isaac” (21:10): capitolul este despre doi fii și despre moștenire."
    },
    {
     "t": " al "
@@ -258,7 +315,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "εἰς τὸ γῆρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "bătrâneții lui."
+    "def_ro": "bătrânețe (la plural: „bătrânețile”, vârsta înaintată).",
+    "greek_def_ro": "γῆρας (geras) — bătrânețe; „la bătrânețe”.",
+    "dict_ro": "Zeqúnim, „bătrânețe”: „la bătrânețea lui” (21:2, 7) — copilul vine la bătrânețe, ca prin minune; Septuaginta spune εἰς τὸ γῆρας."
    },
    {
     "t": " sale, la "
@@ -270,9 +329,11 @@ window.CHAPTER_DATA = [
     "translit": "lamo'ed",
     "strong": "H4150",
     "pos": "substantiv, cu prefix",
-    "greek": "κατὰ τὸν καιρὸν",
+    "greek": "καιρόν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sorocul."
+    "def_ro": "propriu-zis, appointment, adică fixed timp sau season; in special, festival; conventionally year; de implicație, assembly (ca convened pentru definite purpose); technically congregation; de extension, loc al meeting; de asemenea signal (ca appointed beforehand).",
+    "dict_ro": "Mo’ed, „vreme hotărâtă”: „la sorocul” (21:2) — Isaac se naște la termenul spus de Dumnezeu (17:21; 18:14); Septuaginta spune εἰς τὸν καιρόν.",
+    "greek_def_ro": "καιρός (kairos) — vreme hotărâtă (la acuzativ)."
    },
    {
     "t": " despre care îi "
@@ -286,7 +347,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐλάλησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "îi vorbise."
+    "def_ro": "poate propriu-zis, a arrange; dar folosit figurat (al words), a vorbi; rarely (in destructive sens) a subdue.",
+    "greek_def_ro": "λαλέω (laleo) — a vorbi („a vorbit”).",
+    "dict_ro": "Dibber, „a vorbi”: „precum vorbise” (21:1–2) — împlinirea cuvântului lui Dumnezeu; Septuaginta spune καθὰ ἐλάλησεν."
    },
    {
     "t": " "
@@ -298,9 +361,11 @@ window.CHAPTER_DATA = [
     "translit": "Elohim",
     "strong": "H430",
     "pos": "substantiv",
-    "greek": "ὁ Θεός",
+    "greek": "Κύριος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeu."
+    "def_ro": "dumnezei în sens obișnuit; dar specific folosit (la plural, mai ales cu articol) despre Dumnezeul suprem.",
+    "greek_def_ro": "κύριος (kyrios) — Domn.",
+    "dict_ro": "Elohim, „Dumnezeu”: „precum îi spusese Dumnezeu” (21:2, 4), „râs mi-a făcut Dumnezeu” (21:6), „Dumnezeu a auzit” (21:17): Elohim e Cel ce hotărăște în toate."
    },
    {
     "t": "."
@@ -329,12 +394,24 @@ window.CHAPTER_DATA = [
   ],
   "refs": [
    "Geneza 17:21",
-   "Galateni 4:22-23"
+   "Galateni 4:22-23",
+   "2 Împărați 4:16,17",
+   "Luca 1:24,25,36",
+   "Faptele Apostolilor 7:8",
+   "Galateni 4:22"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«La sorocul despre care îi vorbise.» Ca în Targum: „pe care i-l spusese”: sorocul l-a spus și l-a fixat, când i-a zis „la soroc mă voi întoarce la tine”: a tras o zgârietură în perete și i-a zis: Când soarele va ajunge la această zgârietură în anul următor, ea va naște.<br><br>«Un fiu al bătrâneții sale (li-zqunav).» Căci strălucirea chipului său era asemenea lui."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Sara a rămas însărcinată și i-a născut lui Avraam un fiu la bătrânețea lui, la vremea despre care îi vorbise Domnul."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Sara a rămas însărcinată și i-a născut lui Avraam un fiu, care semăna cu el, la bătrânețea lui, la vremea despre care îi vorbise Domnul."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -347,6 +424,22 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și Sara a zămislit»: pentru că nu a pomenit sarcina mai întâi, a spus deodată „a zămislit și a născut”; și tot așa: „și ea a zămislit și l-a născut pe Cain”.<br><br>«Lui Avraam»: cum a spus: „pe care ți-l va naște Sara”; și așa este felul limbii, ca „Agar i-a născut lui Avram un fiu”, și altele multe. Căci femeia este ca pământul, care dă rod stăpânilor lui după ce l-au semănat, iar cel născut este numit după numele tatălui său.<br><br>«Al bătrâneții sale» (li-zqunav): a spus aceasta pentru că ea râsese și spusese „Și soțul meu este bătrân”; și mai mult, a spus li-zqunav, căci ea s-a întors la fragezimea trupului și la felul femeilor, iar Avraam a rămas în bătrânețea lui și a născut. Sunt cuvinte în limba sfântă care sunt mereu la plural și nu se despart, ca neʿurim („tinerețe”), zequnim („bătrânețe”), betulim („feciorie”).<br><br>«Despre care îi vorbise» (ašer dibber ʾoto): ca „cu el” (ʿimmo); și tot așa „și voi vorbi cu tine (we-dibbarti ʾitkha)”."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«La sorocul despre care îi vorbise Dumnezeu.» Rashi: Când i-a spus „La soroc mă voi întoarce la tine, anul viitor pe vremea aceasta”, a făcut pe perete o zgârietură. Iar dacă vei spune: Doar am spus mai sus că era în Tișrei, după cum spunem „La soroc mă voi întoarce la tine”, și ne este stabilit că Isaac s-a născut la Paște? Ci se poate spune că în Nisan și în Tișrei nopțile și zilele sunt egale, iar soarele strălucește în ele pe altă fereastră."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Și Sara a zămislit și i-a născut lui Avraam un fiu etc.» A spus „a zămislit”, se va lămuri pe calea spusei lor, binecuvântată fie amintirea lor: nu avea uter (bet matrin), de aceea face cunoscut că a fost minune și în însărcinare. Iar spusa „lui Avraam” aluzionează că acest fiu este al lui Avraam și nu Ismael al lui Avraam, căci nu va fi numit fiul lui Avraam, căci este scris: „căci prin Isaac îți va fi socotită sămânța”. Și deși am aflat că Scriptura a spus: „Agar i-a născut lui Avram un fiu”, acolo numele lui se numea Avram, dar după ce a fost dezrădăcinat numele Avram ca să nu se mai pomenească acest nume asupra lui, ci Avraam, Ismael nu are voie să fie numit fiul lui Avraam. Și poate că de aceea cel care îl numește pe Avraam „Avram” încalcă o poruncă pozitivă, motivul supărării Lui, binecuvântat fie, căci când îl numește Avram i se atribuie Ismael ca fiu, iar Domnul a spus „căci prin Isaac îți va fi socotită sămânța”, și aceasta nu este decât când va fi dezrădăcinat numele Avram. Iar acest motiv nu este la Iacov, de aceea deși a fost numit Israel nu este supărare ca să fie numit Iacov. Și cercetează ce am scris la versetul „nu va mai fi chemat” etc. și vei găsi alt motiv.<br><br>«Un fiu al bătrâneții sale.» Motivul făcerii cunoscute, și de asemenea spusa „la bătrânețile lui” și nu a spus „la bătrânețea lui”, după ce am scris că lipsea la timpul nașterii un suflet din lumea de sus ca să nască, și nu avea decât din lumea feminină (ʿalma de-nuqba). Va intenționa Scriptura că atunci a născut, și a născut în el pregătirea unei alte nașteri pentru o a doua bătrânețe a lui Avraam, căci ai de știut că este hotărât ca omul să nu atingă în lumea aceasta un lucru nou dacă nu precede pregătirea primitorului, precum este cunoscut înțelepților adevărului. Iar dacă Isaac nu ar fi avut decât sufletul din lumea feminină și ar fi lipsit pregătirea primirii sufletului din lumea masculină (ʿalma de-dikhura), nu l-ar fi ajutat legarea. Și aceasta este ce a fost precis să spună „i-a născut” etc., a făcut cunoscut că a născut pentru cele două timpuri ale bătrâneții lui: unul este timpul nașterii lui, iar al doilea este pregătirea pentru timpul altei bătrâneții a lui Avraam, care este timpul legării.<br><br>Sau va aluziona „la bătrânețile lui” – bătrânețea lui și bătrânețea soției lui, pe calea spusei: „după ce m-am ofilit” etc. „și soțul meu este bătrân”."
+   },
+   {
+    "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
+    "text": "Domnul a cercetat pe Sara cum făgăduise și a împlinit ce-i spusese; ea a zămislit și a născut un fiu la bătrânețe, la vremea pe care i-o prezisese Dumnezeu. Se spune că Dumnezeu cercetează pe Sara ca pe una bolnavă și deja deznădăjduită de orice urmaș, încât ceea ce natura părea că neagă, prezența harului dumnezeiesc dăruiește: cuvânt care se potrivește pe deplin tuturor copiilor făgăduinței, care sunt mântuiți nu prin propria lor voie liberă, ci prin alegerea harului, nu prin sforțarea propriei osteneli, ci prin Domnul care le cercetează inimile și împlinește darul harului pe care l-a făgăduit."
+   },
+   {
+    "author": "Ioan Gură de Aur, Omilii",
+    "text": "Vrei să afli înțelesul simbolic al sterilității Sarei? Biserica avea să nască mulțimea credincioșilor. Ca să nu găsești de necrezut cum a putut naște una care era fără copii, fără rod și stearpă, ea, stearpă din fire, a mers înainte, deschizând calea sterilității alese, și Sara a devenit chip al Bisericii. Căci precum ea a născut la bătrânețe, când era stearpă, tot așa și Biserica, deși stearpă, a născut pentru acești din urmă timpi."
    }
   ]
  },
@@ -365,7 +458,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": " i-a "
@@ -379,7 +474,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκάλεσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a pus."
+    "def_ro": "a call afară a (adică propriu-zis, address de nume, dar folosit in wide variety al applications).",
+    "greek_def_ro": "καλέω (kaleo) — a chema, a numi.",
+    "dict_ro": "Qara, „a chema”: „a pus numele Isaac” (21:3) și „a numit locul Beer-Șeva” (21:31); numele se pun după întâmplare, ca amintire."
    },
    {
     "t": " fiului său care i se "
@@ -393,7 +490,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu, cu articol",
     "greek": "γενομένου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i se născuse."
+    "def_ro": "a naște, a da naștere.",
+    "dict_ro": "Yalad, „a naște”: „Sara a născut” (21:2–3, 5, 7), „i s-a născut” (21:3, 5) — verbul care lipsise în povestea Sarei de la 11:30 se aude acum de cinci ori; Septuaginta spune ἔτεκεν.",
+    "greek_def_ro": "γίνομαι (ginomai) — a se naște; la participiu, „născut”."
    },
    {
     "t": ", pe care i-l "
@@ -407,7 +506,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔτεκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-l născuse."
+    "def_ro": "a bear tânăr; causatively, a beget; medically, a act ca midwife; in special, a show lineage.",
+    "dict_ro": "Yalad, „a naște”: „Sara a născut” (21:2–3, 5, 7), „i s-a născut” (21:3, 5) — verbul care lipsise în povestea Sarei de la 11:30 se aude acum de cinci ori; Septuaginta spune ἔτεκεν.",
+    "greek_def_ro": "τίκτω (tiktō) — a naște."
    },
    {
     "t": " "
@@ -421,7 +522,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαρρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sara."
+    "def_ro": "Sara — „prințesă”, noul nume al Sarei, dat de Dumnezeu.",
+    "greek_def_ro": "Σαρρα (Sarra) — Sara, nume propriu.",
+    "dict_ro": "Sara (Sarah), „prințesă”: „Sara a născut un fiu lui Avraam” (21:1–7); frământarea ei de la 18:12 se schimbă în bucurie (21:6)."
    },
    {
     "t": " – "
@@ -435,7 +538,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὸ ὄνομα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "numele."
+    "def_ro": "appellation, ca mark sau memorial al individuality; de implicație honor, authority, character.",
+    "greek_def_ro": "ὄνομα (onoma) — nume.",
+    "dict_ro": "Shem, „nume”: „numele fiului” (21:3) — Isaac; Avraam „a chemat numele DOMNULUI” (21:33). Numele leagă întâmplarea de Dumnezeu."
    },
    {
     "t": " "
@@ -449,7 +554,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ισαακ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Isaac."
+    "def_ro": "jitschak (sau Isaac), fiu al Abraham.",
+    "greek_def_ro": "Ισαακ (Isaak) — Isaac, nume propriu.",
+    "dict_ro": "Itschaq (Yitschaq), „va râde”: numele lui Isaac (21:3) vine de la râsul lui Avraam (17:17) și al Sarei (18:12); acum râsul devine bucurie (21:6)."
    },
    {
     "t": "."
@@ -477,9 +584,22 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 17:19"
+   "Geneza 17:19",
+   "Geneza 21:6,12",
+   "Geneza 22:2",
+   "Iosua 24:3",
+   "Matei 1:2",
+   "Faptele Apostolilor 7:8"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avraam a pus fiului său care i se născuse, pe care i-l născuse Sara, numele Isaac."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Avraam i-a pus fiului său, care i se născuse, pe care i-l născuse Sara, numele Isaac."
+   },
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "Iar Numele nu a adăugat nimic la numele lui Isaac și nu l-a schimbat, căci El poruncise să fie numit așa."
@@ -487,6 +607,29 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«I-a pus numele»: cum îi spusese Dumnezeu: „și îi vei pune numele Isaac”."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Iar Avraam i-a pus fiului său care i se născuse, pe care i-l născuse Sara, numele etc.» Explicația: fiindcă are un alt fiu, care este Ismael, de aceea a spus „care i se născuse” (ha-nolad lo) pentru un lucru potrivit lui să fie numit asupra lui după scopul dorinței lui, ceea ce nu a spus Scriptura așa la nașterea lui Ismael. Iar spusa „pe care i-l născuse Sara” aluzionează la ceea ce se rugau mereu: Avraam spunea: toată sămânța mea să fie din această dreaptă, iar Sara și ea etc., față de rugăciunea ei a spus „i-l născuse” și față de rugăciunea lui a spus „Sara”.<br><br>Încă va voi să dea motivul pentru numirea numelui Isaac, pentru că o bătrână a născut unui bătrân, și așa spune: „Dumnezeu mi-a făcut pricină de râs” etc."
+   },
+   {
+    "author": "Cartea Jubileelor 16 — comparație",
+    "text": "Și a născut un fiu în luna a treia, la mijlocul lunii, la vremea de care grăise Domnul lui Avraam, la sărbătoarea pârgașelor secerișului, s-a născut Isaac.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 16,
+      "v": 13
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 13",
+    "text": "După puțină vreme, Avraam a avut un fiu cu Sara, după cum îi prevestise Dumnezeu, pe care l-a numit Isaac, ceea ce înseamnă Râs. Și, într-adevăr, l-au numit astfel pentru că Sara a râs când Dumnezeu a spus că va naște un fiu, ea neașteptându-se la un asemenea lucru, fiind trecută de vârsta nașterii de copii, căci avea nouăzeci de ani, iar Avraam o sută; astfel că acest fiu li s-a născut amândurora în ultimul an al acestor numere zecimale. Și l-au tăiat împrejur în ziua a opta, și din acel timp iudeii continuă obiceiul de a-și tăia împrejur fiii în acel număr de zile. Dar arabii taie împrejur după al treisprezecelea an, pentru că Ismael, întemeietorul neamului lor, care i s-a născut lui Avraam din țiitoare, a fost tăiat împrejur la acea vârstă; despre care voi da îndată o istorisire deosebită, cu mare exactitate."
+   },
+   {
+    "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
+    "text": "Și Avraam a pus numele fiului său, pe care i l-a născut Sara, Isaac. Isaac se tâlcuiește „Râs” sau „Bucurie”, nume care se potrivește tuturor credincioșilor, cărora, între celelalte bunuri ale moștenirii cerești, Răscumpărătorul lor le făgăduiește zicând: „Iarăși vă voi vedea, și inima voastră se va bucura, și bucuria voastră nimeni n-o va lua de la voi” (Ioan 16:22)."
    }
   ]
  },
@@ -505,7 +648,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": " l-a "
@@ -519,7 +664,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "περιέτεμεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-a circumcis."
+    "def_ro": "a tăia împrejur, a circumcide.",
+    "greek_def_ro": "περιτέμνω (peritemno) — a tăia împrejur („a tăiat împrejur”).",
+    "dict_ro": "Mul, „a tăia împrejur”: Avraam „l-a tăiat împrejur” pe Isaac la opt zile (21:4), împlinind 17:12; Septuaginta spune περιέτεμεν."
    },
    {
     "t": " pe "
@@ -533,7 +680,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τὸν Ισαακ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pe Isaac."
+    "def_ro": "jitschak (sau Isaac), fiu al Abraham.",
+    "greek_def_ro": "Ισαακ (Isaak) — Isaac (la acuzativ).",
+    "dict_ro": "Itschaq (Yitschaq), „va râde”: numele lui Isaac (21:3) vine de la râsul lui Avraam (17:17) și al Sarei (18:12); acum râsul devine bucurie (21:6)."
    },
    {
     "t": ", fiul său, la vârsta de "
@@ -545,9 +694,11 @@ window.CHAPTER_DATA = [
     "translit": "shmonat yamim",
     "strong": "H8083",
     "pos": "numeral",
-    "greek": "ὀκτὼ ἡμερῶν",
+    "greek": "ὀγδόῃ ἡμέρᾳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "opt zile."
+    "def_ro": "cardinal number, eight (ca dacă surplus above 'perfect' seven); de asemenea (ca ordinal) eighth.",
+    "greek_def_ro": "ὄγδοος (ogdoos), ἡμέρα (hemera) — ziua a opta.",
+    "dict_ro": "Shemonah, „opt”: „în ziua a opta” (21:4) — vârsta circumciziei; Septuaginta spune τῇ ὀγδόῃ ἡμέρᾳ."
    },
    {
     "t": ", precum îi "
@@ -559,9 +710,11 @@ window.CHAPTER_DATA = [
     "translit": "tsivah",
     "strong": "H6680",
     "pos": "verb",
-    "greek": "συνέταξεν",
+    "greek": "ἐνετείλατο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "îi poruncise."
+    "def_ro": "a porunci, a rândui, a da o poruncă.",
+    "greek_def_ro": "ἐντέλλομαι (entellomai) — a porunci.",
+    "dict_ro": "Tsavah, „a porunci”: „precum îi poruncise Dumnezeu” (21:4) — Avraam împlinește porunca la literă."
    },
    {
     "t": " "
@@ -575,7 +728,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Θεός",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeu."
+    "def_ro": "dumnezei în sens obișnuit; dar specific folosit (la plural, mai ales cu articol) despre Dumnezeul suprem.",
+    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+    "dict_ro": "Elohim, „Dumnezeu”: „precum îi spusese Dumnezeu” (21:2, 4), „râs mi-a făcut Dumnezeu” (21:6), „Dumnezeu a auzit” (21:17): Elohim e Cel ce hotărăște în toate."
    },
    {
     "t": "."
@@ -603,9 +758,22 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 17:10,12"
+   "Geneza 17:10,12",
+   "Geneza 17:10-12",
+   "Exodul 12:48",
+   "Leviticul 12:3",
+   "Deuteronomul 12:32",
+   "Luca 1:6,59"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avraam l-a tăiat împrejur pe Isaac, fiul său, la vârsta de opt zile, așa cum îi poruncise Domnul."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Avraam l-a circumcis pe Isaac, fiul său, la vârsta de opt zile, cum îi poruncise Domnul."
+   },
    {
     "author": "Da'at Zekenim (sec. XIII, școala tosafiștilor)",
     "text": "«La vârsta de opt zile.» Și acum lumea are obiceiul, când aduce un prunc la sinagogă, să spună Barukh ha-ba („Binecuvântat cel care vine”), pentru că ha-ba are valoarea numerică opt; și aceasta înseamnă: binecuvântat cel circumcis la opt."
@@ -613,6 +781,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și Avraam l-a circumcis etc., precum îi poruncise etc.»: că îi spusese: „La vârsta de opt zile să fie circumcis oricine din voi de parte bărbătească”. Și învățătorii noștri, binecuvântată fie amintirea lor, au interpretat cuvântul ʾoto: „pe el” și nu „pe ea”; de aici că femeia nu este poruncită să-și circumcidă fiul."
+   },
+   {
+    "author": "Cartea Jubileelor 16 — comparație",
+    "text": "Și Avraam l-a tăiat împrejur pe fiul său în ziua a opta: el a fost cel dintâi tăiat împrejur după legământul care este rânduit pe veci.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 16,
+      "v": 14
+     }
+    }
    }
   ]
  },
@@ -631,7 +810,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": " avea "
@@ -645,7 +826,9 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑκατὸν ἐτῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "o sută de ani."
+    "def_ro": "hundred; de asemenea ca multiplicative si fraction.",
+    "greek_def_ro": "ἑκατόν (hekaton), ἔτος (etos) — o sută de ani (la genitiv: „de o sută de ani”).",
+    "dict_ro": "Me’ah, „sută”: „Avraam avea o sută de ani” (21:5) — vârsta lui la nașterea lui Isaac; după cifrele masoretice, anul 2048 de la creație (1948 + 100); în Septuaginta, 3414; în Pentateuhul Samaritean, 2349."
    },
    {
     "t": " când i s-a "
@@ -659,7 +842,9 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "ἡνίκα ἐγένετο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i s-a născut."
+    "def_ro": "a naște, a da naștere.",
+    "dict_ro": "Yalad, „a naște”: „Sara a născut” (21:2–3, 5, 7), „i s-a născut” (21:3, 5) — verbul care lipsise în povestea Sarei de la 11:30 se aude acum de cinci ori; Septuaginta spune ἔτεκεν.",
+    "greek_def_ro": "γίνομαι (ginomai) — „când s-a născut”."
    },
    {
     "t": " fiul său "
@@ -673,7 +858,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ισαακ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Isaac."
+    "def_ro": "jitschak (sau Isaac), fiu al Abraham.",
+    "greek_def_ro": "Ισαακ (Isaak) — Isaac, nume propriu.",
+    "dict_ro": "Itschaq (Yitschaq), „va râde”: numele lui Isaac (21:3) vine de la râsul lui Avraam (17:17) și al Sarei (18:12); acum râsul devine bucurie (21:6)."
    },
    {
     "t": "."
@@ -702,9 +889,18 @@ window.CHAPTER_DATA = [
   ],
   "refs": [
    "Geneza 17:17",
-   "Romani 4:19"
+   "Romani 4:19",
+   "Geneza 17:1,17"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avraam era în vârstă de o sută de ani când i s-a născut Isaac, fiul său."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Avraam avea o sută de ani când i s-a născut Isaac, fiul său."
+   },
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Și Avraam avea o sută de ani.» Și cu toate acestea și-a circumcis fiul și nu l-a cruțat, deși era fiul bătrâneții lui."
@@ -730,7 +926,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαρρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sara."
+    "def_ro": "Sara — „prințesă”, noul nume al Sarei, dat de Dumnezeu.",
+    "greek_def_ro": "Σαρρα (Sarra) — Sara, nume propriu.",
+    "dict_ro": "Sara (Sarah), „prințesă”: „Sara a născut un fiu lui Avraam” (21:1–7); frământarea ei de la 18:12 se schimbă în bucurie (21:6)."
    },
    {
     "t": " a "
@@ -744,7 +942,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a spus."
+    "def_ro": "a zice (folosit cu mare latitude).",
+    "dict_ro": "Amar, „a spune”: „Sara a spus lui Avraam” (21:10), „Dumnezeu a zis” (21:12), „îngerul a zis” (21:17): glasul care decide în capitol.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": ": „"
@@ -756,9 +956,11 @@ window.CHAPTER_DATA = [
     "translit": "Elohim",
     "strong": "H430",
     "pos": "substantiv",
-    "greek": "ὁ Θεός",
+    "greek": "Κύριος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeu."
+    "def_ro": "dumnezei în sens obișnuit; dar specific folosit (la plural, mai ales cu articol) despre Dumnezeul suprem.",
+    "greek_def_ro": "κύριος (kyrios) — Domn.",
+    "dict_ro": "Elohim, „Dumnezeu”: „precum îi spusese Dumnezeu” (21:2, 4), „râs mi-a făcut Dumnezeu” (21:6), „Dumnezeu a auzit” (21:17): Elohim e Cel ce hotărăște în toate."
    },
    {
     "t": " mi-a "
@@ -772,7 +974,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐποίησέν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mi-a făcut."
+    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "greek_def_ro": "ποιέω (poieo) — a face („a făcut”).",
+    "dict_ro": "Asah, „a face”: „a făcut DOMNUL Sarei” (21:1) și „râs mi-a făcut Dumnezeu” (21:6): lucrarea lui Dumnezeu e făcută în trupul Sarei."
    },
    {
     "t": " [pricină] de "
@@ -786,7 +990,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "γέλωτα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "râs."
+    "def_ro": "laughter (în plăcere sau derision).",
+    "greek_def_ro": "γέλως (gelos) — râs (la acuzativ).",
+    "dict_ro": "Tsechoq, „râs”: „râs mi-a făcut Dumnezeu” (21:6) — Sara spune că bucuria ei e dar; ambiguu, e și râs de bucurie, și râs de uimire."
    },
    {
     "t": "; oricine "
@@ -798,9 +1004,11 @@ window.CHAPTER_DATA = [
     "translit": "hashome'a",
     "strong": "H8085",
     "pos": "verb, participiu, cu articol",
-    "greek": "ὁ ἀκούσας",
+    "greek": "ἀκούσῃ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "aude."
+    "def_ro": "a auzi intelligently (adesea cu implicație al attention, obedience, etc.; causatively, a tell, etc.).",
+    "greek_def_ro": "ἀκούω (akouo) — a auzi („va auzi”).",
+    "dict_ro": "Shama, „a auzi”: „oricine va auzi va râde împreună cu mine” (21:6) — veselia Sarei este veste pentru toți; Dumnezeu „a auzit” glasul copilului (21:17)."
    },
    {
     "t": " va "
@@ -814,7 +1022,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "συγχαρεῖταί",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "va râde."
+    "def_ro": "a laugh outright (in merriment sau scorn); de implicație, a sport.",
+    "greek_def_ro": "συγχαίρω (synchairo) — a se bucura împreună („se va bucura împreună”).",
+    "dict_ro": "Tsachaq, „a râde”: „va râde” (21:6) și „râdea” (21:9) — același verb pentru râsul Sarei, al lui Isaac și (în Septuaginta) al lui Ismael, care „glumea”."
    },
    {
     "t": " pentru mine.”"
@@ -843,12 +1053,24 @@ window.CHAPTER_DATA = [
   ],
   "refs": [
    "Isaia 54:1",
-   "Galateni 4:27"
+   "Galateni 4:27",
+   "Geneza 17:17",
+   "Geneza 18:12-15",
+   "1 Samuel 1:26-28",
+   "1 Samuel 2:1-10"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Oricine aude va râde pentru mine (yiṣḥaq li).» Se va bucura pentru mine. Iar midrașul aggadei: multe sterpe au fost cercetate împreună cu ea, mulți bolnavi s-au vindecat în ziua aceea, multe rugăciuni au fost ascultate împreună cu ea, și era mult râs (sau „bucurie”) în lume."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Sara a zis: „Bucurie mi-a făcut Domnul; oricine va auzi se va bucura cu mine.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a zis Sara: „O minune mi-a făcut Domnul; oricine va auzi se va minuna de mine.”"
    },
    {
     "author": "Sforno (cca. 1475–1550)",
@@ -861,6 +1083,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și Sara a spus: „... pricină de râs”» (ṣeḥoq): a spus: cu adevărat i-a pus numele Isaac, căci lucru de râs este pentru mine că eu am născut și eu sunt bătrână; și oricine aude că am născut va râde pentru mine, cum râde omul de un lucru de mirare."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Dumnezeu mi-a făcut pricină de râs; oricine aude va râde pentru mine.» Adică: așa i-a pus numele Isaac, ca să râdă oamenii de mine, spunând: ați văzut? Sara a născut la nouăzeci de ani și acum a început „aṭuṭir”."
    },
    {
     "author": "Talmudul Babilonian",
@@ -883,7 +1109,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a spus."
+    "def_ro": "a zice (folosit cu mare latitude).",
+    "dict_ro": "Amar, „a spune”: „Sara a spus lui Avraam” (21:10), „Dumnezeu a zis” (21:12), „îngerul a zis” (21:17): glasul care decide în capitol.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": ": „Cine i a "
@@ -897,7 +1125,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀναγγελεῖ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i a vestit."
+    "def_ro": "a vorbi (mai ales poetical) sau zice.",
+    "greek_def_ro": "ἀναγγέλλω (anangello) — a vesti („va vesti”).",
+    "dict_ro": "Mil·lel, „a vorbi, a vesti”: „cine ar fi spus lui Avraam” (21:7) — cuvânt rar, aproape poetic; vestea nașterii e mai presus de orice spusă."
    },
    {
     "t": " lui "
@@ -911,7 +1141,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu (la dativ: „lui Avraam”).",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": ": «"
@@ -925,7 +1157,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαρρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sara."
+    "def_ro": "Sara — „prințesă”, noul nume al Sarei, dat de Dumnezeu.",
+    "greek_def_ro": "Σαρρα (Sarra) — Sara, nume propriu.",
+    "dict_ro": "Sara (Sarah), „prințesă”: „Sara a născut un fiu lui Avraam” (21:1–7); frământarea ei de la 18:12 se schimbă în bucurie (21:6)."
    },
    {
     "t": " va "
@@ -939,7 +1173,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "θηλάζει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "va alăpta."
+    "def_ro": "a suck; causatively, a da milk.",
+    "greek_def_ro": "θηλάζω (thelazo) — a alăpta („alăptează”).",
+    "dict_ro": "Yanaq, „a alăpta”: „Sara va alăpta copii” (21:7) — minunea: la nouăzeci de ani, ea alăptează."
    },
    {
     "t": " "
@@ -953,7 +1189,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "παιδίον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "copii."
+    "def_ro": "fiu (ca builder al family nume), in widest sens (al literal si figurative relationship, including grandson, subject, neam, quality sau condition, etc., (ca tată sau brother), etc.).",
+    "greek_def_ro": "παιδίον (paidion) — copil.",
+    "dict_ro": "Ben, „fiu”: „Sara a născut un fiu” (21:2); „fiul slujnicei” (21:10); „fiul meu Isaac” (21:10): capitolul este despre doi fii și despre moștenire."
    },
    {
     "t": "»? Căci i-am "
@@ -967,7 +1205,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔτεκον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-am născut."
+    "def_ro": "a bear tânăr; causatively, a beget; medically, a act ca midwife; in special, a show lineage.",
+    "dict_ro": "Yalad, „a naște”: „Sara a născut” (21:2–3, 5, 7), „i s-a născut” (21:3, 5) — verbul care lipsise în povestea Sarei de la 11:30 se aude acum de cinci ori; Septuaginta spune ἔτεκεν.",
+    "greek_def_ro": "τίκτω (tikto) — a naște („au născut”)."
    },
    {
     "t": " "
@@ -981,7 +1221,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "υἱὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiu."
+    "def_ro": "fiu (ca builder al family nume), in widest sens (al literal si figurative relationship, including grandson, subject, neam, quality sau condition, etc., (ca tată sau brother), etc.).",
+    "greek_def_ro": "υἱός (hyios) — fiu (la acuzativ).",
+    "dict_ro": "Ben, „fiu”: „Sara a născut un fiu” (21:2); „fiul slujnicei” (21:10); „fiul meu Isaac” (21:10): capitolul este despre doi fii și despre moștenire."
    },
    {
     "t": " al "
@@ -995,7 +1237,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τῷ γήρει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "bătrâneților."
+    "def_ro": "bătrânețe (la plural: „bătrânețile”, vârsta înaintată).",
+    "greek_def_ro": "γῆρας (geras) — bătrânețe (la dativ: „la bătrânețe”).",
+    "dict_ro": "Zeqúnim, „bătrânețe”: „la bătrânețea lui” (21:2, 7) — copilul vine la bătrânețe, ca prin minune; Septuaginta spune εἰς τὸ γῆρας."
    },
    {
     "t": " lui.”"
@@ -1023,12 +1267,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 17:17"
+   "Geneza 17:17",
+   "Numeri 23:23",
+   "Deuteronomul 4:32-34",
+   "Psalmul 86:8,10",
+   "Isaia 49:21",
+   "Isaia 66:8"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Cine i-a vestit lui Avraam (mi millel).» Exprimare de laudă și de însemnătate: vedeți cine este El și cât de mult Își păzește făgăduința! Sfântul, binecuvântat fie El, făgăduiește și face.<br><br>«I-a vestit (millel).» Scriptura a schimbat cuvântul și nu a spus dibber; valoarea numerică a lui millel este o sută, adică: la sfârșitul a o sută de ani ai lui Avraam.<br><br>«Sara va alăpta copii.» Și de ce „copii”, la plural? În ziua ospățului, doamnele și-au adus copiii cu ele, iar ea i-a alăptat; căci ziceau: Sara n-a născut, ci a adus un copil găsit din piață."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și a zis: „Cât de vrednic de încredere este Cel care i-a spus lui Avraam și a împlinit: că Sara va alăpta fii; căci am născut un fiu la bătrânețea lui!”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a zis: „Cât de vrednic de încredere este vestitorul care l-a vestit pe Avraam și a zis: «Sara va alăpta fii»; căci i-am născut un fiu la vremea bătrâneții lui.”"
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
@@ -1045,6 +1302,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și a spus»: a mai spus, despre lucrul de mirare.<br><br>«Cine i-a vestit lui Avraam»: cine i-ar fi vorbit lui Avraam că Sara va alăpta copii? Un lucru nou ca acesta, cine l-ar fi vestit, dacă nu ar fi făcut Dumnezeu cu el minunea, că i-a născut un fiu la bătrânețea lui?<br><br>«Copii» (banim): iar faptul că a spus „copii”: căci dacă alăptează, după aceea va alăpta alți copii, dacă va voi. Și există un midraș că femeile nu credeau că a născut și spuneau: „Era un copil găsit”, și ele își aduceau copiii și ea îi alăpta."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Cine i-a vestit lui Avraam.» Cine este cel căruia i-a trecut deja prin inimă să spună că va mai veni o zi în care se va spune: „Sara a alăptat copii” – „qiștiniṭ” în laʿaz – nu era de crezut așa."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Cine i-a vestit lui Avraam?» Adică: cine i-ar fi spus lui Avraam că s-a întâmplat acest lucru, că Sara a alăptat copii? Nu era om care să-i spună așa, căci nu ar fi crezut, ci ar fi fost în ochii lui ca un glumeț."
    },
    {
     "author": "Zohar, Introducere 18:5",
@@ -1064,7 +1329,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸ παιδίον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Copilul."
+    "def_ro": "ceva born, adică lad sau offspring.",
+    "dict_ro": "Yeled, „copil”: „copilul” (21:8, 14–15) — la început Isaac, apoi Ismael; același cuvânt pentru ambii, ca pentru doi copii ocrotiți.",
+    "greek_def_ro": "παιδίον (paidion) — copil; „copilul”."
    },
    {
     "t": " a "
@@ -1078,7 +1345,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ηὐξήθη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a crescut."
+    "def_ro": "a fi (causatively face) large (in various senses, ca in trup, mind, estate sau honor, de asemenea in pride).",
+    "greek_def_ro": "αὐξάνω (auxano) — a crește („a crescut”).",
+    "dict_ro": "Gadal, „a crește”: „copilul a crescut” (21:8) și „ospăț mare în ziua înțărcării” (21:8); Septuaginta spune ηὐξήθη."
    },
    {
     "t": " și a fost "
@@ -1092,7 +1361,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπεγαλακτίσθη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fost înțărcat."
+    "def_ro": "a înțărca, a alăpta până la desprindere.",
+    "greek_def_ro": "ἀπογαλακτίζω (apogalaktizo) — a înțărca („a fost înțărcat”).",
+    "dict_ro": "Gamal, „a înțărca”: „a fost înțărcat” (21:8) — de obicei la vreo doi-trei ani; Avraam face ospăț."
    },
    {
     "t": ", și "
@@ -1106,7 +1377,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": " a făcut un "
@@ -1120,7 +1393,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "δοχὴν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ospăț."
+    "def_ro": "drink, de implicație, drinking ( act); de asemenea (de implicație) banquet sau (generally) feast.",
+    "greek_def_ro": "δοχή (doche) — ospăț, primire (la acuzativ).",
+    "dict_ro": "Mishteh, „ospăț”: „ospăț mare” (21:8) la înțărcarea lui Isaac; Septuaginta spune δοχή."
    },
    {
     "t": " "
@@ -1134,7 +1409,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "μεγάλην",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mare."
+    "def_ro": "mare (in orice sens); de aici, older; de asemenea insolent.",
+    "dict_ro": "Gadol, „mare”: „ospăț mare” (21:8) și „neam mare” (21:13, 18) — două măriri: sărbătoarea și făgăduința.",
+    "greek_def_ro": "μέγας (megas) — mare (la acuzativ feminin)."
    },
    {
     "t": " în "
@@ -1148,7 +1425,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "ᾗ ἡμέρᾳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ziua."
+    "def_ro": "zi (ca warm hours), dacă literal (de la sunrise a sunset, sau de la unul sunset a next), sau figurative ( space al timp defined de associated term), (adesea folosit adverb).",
+    "greek_def_ro": "ἡμέρα (hemera) — zi.",
+    "dict_ro": "Yom, „zi”: „în ziua înțărcării” (21:8) — ziua ospățului; ziua în care se arată tensiunea dintre Sara și Agar."
    },
    {
     "t": " când a fost "
@@ -1162,7 +1441,9 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "ἀπεγαλακτίσθη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fost înțărcat."
+    "def_ro": "a înțărca, a alăpta până la desprindere.",
+    "greek_def_ro": "ἀπογαλακτίζω (apogalaktizo) — a înțărca („a fost înțărcat”).",
+    "dict_ro": "Gamal, „a înțărca”: „a fost înțărcat” (21:8) — de obicei la vreo doi-trei ani; Avraam face ospăț."
    },
    {
     "t": " "
@@ -1176,7 +1457,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ισαακ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Isaac."
+    "def_ro": "jitschak (sau Isaac), fiu al Abraham.",
+    "greek_def_ro": "Ισαακ (Isaak) — Isaac, nume propriu.",
+    "dict_ro": "Itschaq (Yitschaq), „va râde”: numele lui Isaac (21:3) vine de la râsul lui Avraam (17:17) și al Sarei (18:12); acum râsul devine bucurie (21:6)."
    },
    {
     "t": "."
@@ -1204,12 +1487,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 21:34"
+   "Geneza 21:34",
+   "1 Samuel 1:22",
+   "Psalmul 131:2",
+   "Osea 1:8",
+   "Geneza 19:3",
+   "Geneza 26:30"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Și a fost înțărcat.» La sfârșitul a douăzeci și patru de luni.<br><br>«Un ospăț mare.» Căci erau acolo marii generației: Sem, Eber și Abimelec."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și copilul a crescut și a fost înțărcat; și Avraam a făcut un ospăț mare în ziua în care a fost înțărcat Isaac."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și copilul a crescut și a fost înțărcat, și Avraam a făcut un ospăț mare în ziua în care l-a înțărcat pe Isaac."
    },
    {
     "author": "Rashbam (cca. 1085–1158)",
@@ -1224,8 +1520,31 @@ window.CHAPTER_DATA = [
     "text": "«Copilul a crescut și a fost înțărcat»: s-a încheiat alăptarea lui, și aceasta este la douăzeci și patru de luni de la naștere, cum au spus învățătorii noștri, binecuvântată fie amintirea lor, căci așa este felul pruncului să sugă.<br><br>«Un ospăț mare»: este posibil că așa era obiceiul lor, sau Avraam, părintele nostru, l-a făcut pentru Isaac din bucuria lui pentru el; și de când se încheie alăptarea copilului, el începe să vorbească și se cuvine să fie deprins cu literele; și au spus învățătorii noștri, binecuvântată fie amintirea lor: la trei ani, pentru litere."
    },
    {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Avraam a făcut un ospăț mare.» Așa era obiceiul, după cum am găsit la Samuel din Rama: „când l-a înțărcat, cu trei tauri” etc."
+   },
+   {
     "author": "Zohar, Introducere 18:4",
     "text": "Cine avem noi în lume mai mare decât Avraham, care a făcut bine tuturor făpturilor? În ziua în care a făcut ospăț, ce este scris? (Geneza 21:8): „Și copilul a crescut și a fost înțărcat, și Avraham a făcut un ospăț mare în ziua în care a fost înțărcat Yițḥak.” A făcut Avraham ospăț și i-a chemat pe toți mai-marii generației la acea masă. Și am învățat: la fiecare masă de bucurie acel acuzator merge și vede dacă acel om s-a îngrijit întâi de binele săracilor; și dacă săracii sunt în casă, acel acuzator se depărtează de acea casă și nu intră acolo. Iar dacă nu, intră acolo; și vede amestecul bucuriei fără săraci și fără binele făcut întâi săracilor, urcă sus și îl acuză."
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și în anul întâi al săptămânii a patra Isaac a fost înțărcat în jubileul acesta, și Avraam a făcut un mare ospăț în luna a treia, în ziua în care a fost înțărcat fiul său Isaac. Și Ismael, fiul Agarei, egipteanca, era înaintea feței lui Avraam, tatăl său, la locul său, și Avraam s-a bucurat și a binecuvântat pe Dumnezeu, pentru că-și văzuse fiii și nu murise fără copii. Și și-a adus aminte de cuvintele pe care i le grăise în ziua în care Lot se despărțise de el, și s-a bucurat că Domnul îi dăduse sămânță pe pământ să moștenească pământul, și a binecuvântat cu toată gura sa pe Făcătorul tuturor.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
+    "text": "Și Avraam a făcut un mare ospăț în ziua înțărcării lui Isaac, pentru că este într-adevăr o mare sărbătoare pentru cei mai înalți învățători ai minții atunci când îi văd pe cei pe care i-au hrănit urcând spre culmea înțelepciunii și a virtuții."
+   },
+   {
+    "author": "Origen, Omilii la Facere",
+    "text": "Isaac, spune Scriptura, „a crescut” și s-a întărit; adică bucuria lui Avraam a crescut pe măsură ce privea nu la cele „ce se văd, ci la cele ce nu se văd”. Căci Avraam nu se bucura de cele de față, nici de bogățiile lumii și de treburile veacului. Dar voiești să auzi de ce se bucura Avraam? Ascultă pe Domnul zicând iudeilor: „Avraam, părintele vostru, a dorit să vadă ziua Mea și a văzut-o și s-a bucurat.” Așa, deci, „a crescut Isaac”. Acea viziune a lui Avraam, în care a văzut ziua lui Hristos și nădejdea care este în Hristos, îi sporea bucuriile. Și de-ar da Dumnezeu să te faci și tu Isaac și să fii bucurie maicii tale Biserica!"
    }
   ]
  },
@@ -1244,7 +1563,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαρρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sara."
+    "def_ro": "Sara — „prințesă”, noul nume al Sarei, dat de Dumnezeu.",
+    "greek_def_ro": "Σαρρα (Sarra) — Sara, nume propriu.",
+    "dict_ro": "Sara (Sarah), „prințesă”: „Sara a născut un fiu lui Avraam” (21:1–7); frământarea ei de la 18:12 se schimbă în bucurie (21:6)."
    },
    {
     "t": " l-a "
@@ -1258,7 +1579,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἰδοῦσα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-a văzut."
+    "def_ro": "a vedea, literal sau figurat (in numerous applications, direct si implied, transitive, intransitive si causative).",
+    "dict_ro": "Raah, „a vedea”: „Sara a văzut pe fiul Agarei” (21:9), Agar „nu vrea să vadă” moartea copilului (21:16) și își deschide ochii (21:19): trei priviri care schimbă soarta.",
+    "greek_def_ro": "ὁράω (horao) — a vedea; la participiu, „văzând”."
    },
    {
     "t": " pe fiul lui "
@@ -1272,7 +1595,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αγαρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Hagar."
+    "def_ro": "Agar — slujnica egipteană a Sarei, dată lui Avram ca soție; numele înseamnă „fugă” sau „străină”.",
+    "greek_def_ro": "Αγαρ (Agar) — Agar, nume propriu.",
+    "dict_ro": "Agar (Hagar), „fugă, străină” (Easton): slujnica egipteană, mama lui Ismael (21:9–21); îndepărtată în pustie, e salvată de Dumnezeu la izvor."
    },
    {
     "t": " "
@@ -1286,7 +1611,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv, cu articol",
     "greek": "τῆς Αἰγυπτίας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "egipteanca."
+    "def_ro": "mitsrite, sau inhabitant al Mitsrajim.",
+    "greek_def_ro": "Αἰγύπτιος (Aigyptios) — egiptean; „a egipteancei”.",
+    "dict_ro": "Mitsri, „egiptean”: Agar „egipteanca” (21:9) și soția pe care Agar o ia lui Ismael „din țara Egiptului” (21:21): legătură cu Egiptul."
    },
    {
     "t": ", pe care i-l "
@@ -1298,9 +1625,12 @@ window.CHAPTER_DATA = [
     "translit": "yaldah",
     "strong": "H3205",
     "pos": "verb",
-    "greek": "ἔτεκεν",
+    "greek": "ἐγένετο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-l născuse."
+    "def_ro": "a bear tânăr; causatively, a beget; medically, a act ca midwife; in special, a show lineage.",
+    "dict_ro": "Yalad, „a naște”: „Sara a născut” (21:2–3, 5, 7), „i s-a născut” (21:3, 5) — verbul care lipsise în povestea Sarei de la 11:30 se aude acum de cinci ori; Septuaginta spune ἔτεκεν.",
+    "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi.",
+    "diff_ro": "Ebraica spune „fiul Agarei, pe care îl născuse lui Avraam, râzând” (מְצַחֵק); Septuaginta spune „jucându-se cu Isaac, fiul ei” (παίζοντα μετὰ Ισαακ τοῦ υἱοῦ αὐτῆς), precizând jocul cu Isaac."
    },
    {
     "t": " lui "
@@ -1314,7 +1644,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu (la dativ: „lui Avraam”).",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": ", "
@@ -1328,7 +1660,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu",
     "greek": "παίζοντα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "batjocorind."
+    "def_ro": "a laugh outright (in merriment sau scorn); de implicație, a sport.",
+    "greek_def_ro": "παίζω (paizo) — a se juca, a glumi; la participiu, „jucându-se”.",
+    "dict_ro": "Tsachaq, „a râde”: „va râde” (21:6) și „râdea” (21:9) — același verb pentru râsul Sarei, al lui Isaac și (în Septuaginta) al lui Ismael, care „glumea”."
    },
    {
     "t": "."
@@ -1356,12 +1690,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Galateni 4:29"
+   "Galateni 4:29",
+   "Geneza 16:3-6,15",
+   "Geneza 17:20",
+   "Geneza 16:1,15",
+   "2 Împărați 2:23,24",
+   "2 Cronici 30:10"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Batjocorind (meṣaḥeq).» Cuvânt pentru idolatrie, cum s-a spus: „și s-au ridicat să petreacă (le-ṣaḥeq)”. Altă explicație: cuvânt pentru desfrâu, cum spui: „ca să-și bată joc (le-ṣaḥeq) de mine”. Altă explicație: cuvânt pentru ucidere, ca în „să se ridice acum tinerii și să se joace (vi-yśaḥaqu) înaintea noastră” etc.: căci se certa cu Isaac pentru moștenire și zicea: Eu sunt întâiul născut și iau parte dublă; și ieșeau în câmp, și își lua arcul și trăgea în el săgeți, cum spui: „ca un nebun care aruncă săgeți aprinse” etc. „și zice: Oare nu glumesc (meśaḥeq) eu?”."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Sara l-a văzut pe fiul Agarei egipteanca, pe care i-l născuse lui Avraam, glumind."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Sara l-a văzut pe fiul Agarei egipteanca, pe care ea i-l născuse lui Avraam, râzând în slujirea străină și plecându-se idolului."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -1382,6 +1729,29 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Batjocorind» (meṣaḥeq): ca și cum își bătea joc de Isaac, că s-a născut din bătrâni."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Pe fiul Agarei egipteanca.» „Jucându-se (sau „batjocorind”)” după obiceiul celorlalți copii, iar Isaac era mic și nu putea face așa; de aceea Sara a fost geloasă pe el și lucrul i s-a părut greu în ochii ei."
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și Sara l-a văzut pe Ismael jucând și dănțuind, și pe Avraam bucurându-se cu bucurie mare, și a invidiat pe Ismael, și i-a zis lui Avraam: Izgonește pe roaba aceasta și pe fiul ei; căci fiul roabei acesteia nu va fi moștenitor cu fiul meu Isaac.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 4
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 13",
+    "text": "Cât despre Sara, ea l-a iubit la început pe Ismael, care se născuse din slujnica ei Agar, cu o dragoste nu mai prejos decât cea pentru propriul ei fiu, căci era crescut ca să urmeze la cârmuire; dar după ce l-a născut ea însăși pe Isaac, nu a mai vrut ca Ismael să fie crescut împreună cu el, ca fiind prea în vârstă pentru el și în stare să-i facă nedreptăți după ce va fi murit tatăl lor; l-a convins, deci, pe Avraam să-l trimită pe el și pe mama lui într-o țară depărtată. La început, el nu a fost de acord cu ceea ce Sara voia cu atâta râvnă și socotea aceasta o dovadă de cea mai mare cruzime, să trimită departe un copil mic și o femeie nepregătiți cu cele de trebuință; dar, în cele din urmă, a consimțit, pentru că Dumnezeu era mulțumit de ce hotărâse Sara: așa că i-a dat pe Ismael mamei sale, ca unul care nu putea încă merge singur; și i-a poruncit ei să ia un burduf cu apă și o pâine și să plece astfel, luând Nevoia drept călăuză. Dar, de îndată ce proviziile ei de trebuință s-au sfârșit, s-a aflat într-o stare rea; și când apa era aproape isprăvită, a așezat copilul mic, care era gata să-și dea sufletul, sub un smochin și a mers mai departe, ca el să moară în timp ce ea lipsea. Dar un înger dumnezeiesc a venit la ea și i-a vorbit de un izvor aflat în apropiere și i-a poruncit să aibă grijă și să crească copilul, pentru că va fi foarte fericită prin păstrarea lui Ismael. Atunci ea și-a luat inima în dinți, în nădejdea celor făgăduite, și, întâlnind niște păstori, prin grija lor a scăpat de necazurile în care se aflase."
+   },
+   {
+    "author": "Efrem Sirul, Comentariu la Facere",
+    "text": "Apoi a sosit vremea nașterii lui Isaac și laptele a curs în sânii bătrânei. În ziua marelui ospăț pe care Avraam l-a făcut când l-a tăiat împrejur și l-a înțărcat pe Isaac, Sara a băgat de seamă pe Ismael jucându-se. Dar Sara a văzut și cât de mult semăna Ismael cu mama lui, căci precum Sara fusese disprețuită în ochii Agarei, tot așa și Ismael își bătea joc de fiul ei și ea a gândit: „Dacă el se poartă astfel cu fiul meu cât sunt încă în viață, poate [Avraam] îl va face împreună-moștenitor cu fiul meu când voi muri și îi va da chiar două părți după [legile] întâiului-născut.”"
    }
   ]
  },
@@ -1400,7 +1770,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a spus."
+    "def_ro": "a zice (folosit cu mare latitude).",
+    "dict_ro": "Amar, „a spune”: „Sara a spus lui Avraam” (21:10), „Dumnezeu a zis” (21:12), „îngerul a zis” (21:17): glasul care decide în capitol.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": " lui "
@@ -1414,7 +1786,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu (la dativ: „lui Avraam”).",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": ": „"
@@ -1428,7 +1802,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "Ἔκβαλε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Izgonește-o."
+    "def_ro": "a drive afară de la possession; in special a expatriate sau divorce.",
+    "greek_def_ro": "ἐκβάλλω (ekballo) — a izgoni („izgonește”).",
+    "dict_ro": "Garash, „a izgoni”: „izgonește pe această slujnică” (21:10) — cuvântul Sarei; Avraam suferă (21:11), dar Dumnezeu îl învață să asculte (21:12)."
    },
    {
     "t": " pe această "
@@ -1442,7 +1818,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν παιδίσκην",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "slujnică."
+    "def_ro": "maid-slugă sau female slave.",
+    "greek_def_ro": "παιδίσκη (paidiske) — slujnică (la acuzativ).",
+    "dict_ro": "Amah, „slujnică”: „slujnica aceasta” (21:10, 12–13) — Sara își numește rivala doar „slujnică”; Septuaginta spune ἡ παιδίσκη."
    },
    {
     "t": " și pe fiul ei, căci fiul acestei "
@@ -1456,7 +1834,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῆς παιδίσκης",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "slujnice."
+    "def_ro": "maid-slugă sau female slave.",
+    "greek_def_ro": "παιδίσκη (paidiske) — slujnică (la genitiv).",
+    "dict_ro": "Amah, „slujnică”: „slujnica aceasta” (21:10, 12–13) — Sara își numește rivala doar „slujnică”; Septuaginta spune ἡ παιδίσκη."
    },
    {
     "t": " nu va "
@@ -1470,7 +1850,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κληρονομήσει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "va moșteni."
+    "def_ro": "a occupy (de driving afară previous tenants, si possessing in al lor loc); de implicație, a seize, a rob, a inherit; de asemenea a expel, a impoverish, a ruin.",
+    "greek_def_ro": "κληρονομέω (kleronomeo) — a moșteni („va moșteni”).",
+    "dict_ro": "Yarash, „a moșteni”: „fiul slujnicei nu va moșteni cu fiul meu” (21:10) — moștenirea e subiectul; Septuaginta spune κληρονομήσει."
    },
    {
     "t": " împreună cu fiul meu, cu "
@@ -1484,7 +1866,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ισαακ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Isaac."
+    "def_ro": "jitschak (sau Isaac), fiu al Abraham.",
+    "greek_def_ro": "Ισαακ (Isaak) — Isaac, nume propriu.",
+    "dict_ro": "Itschaq (Yitschaq), „va râde”: numele lui Isaac (21:3) vine de la râsul lui Avraam (17:17) și al Sarei (18:12); acum râsul devine bucurie (21:6)."
    },
    {
     "t": ".”"
@@ -1512,12 +1896,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Galateni 4:30"
+   "Galateni 4:30",
+   "Geneza 25:6,19",
+   "Geneza 17:19,21",
+   "Geneza 20:11",
+   "Geneza 22:10",
+   "Geneza 36:6,7"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Împreună cu fiul meu, cu Isaac.» De vreme ce este fiul meu, chiar dacă n-ar fi vrednic ca Isaac, sau dacă ar fi vrednic ca Isaac, chiar dacă n-ar fi fiul meu, acesta Ismael nu ar fi vrednic să moștenească împreună cu el; cu atât mai mult „cu fiul meu, cu Isaac”, în care sunt amândouă."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și i-a zis lui Avraam: „Alungă pe roaba aceasta și pe fiul ei, căci fiul roabei acesteia nu va moșteni împreună cu fiul meu, cu Isaac.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și i-a zis lui Avraam: „Alungă-o pe roaba aceasta și pe fiul ei, căci nu se cuvine ca fiul roabei acesteia să moștenească împreună cu fiul meu și să poarte război cu Isaac.”"
    },
    {
     "author": "Sforno (cca. 1475–1550)",
@@ -1528,8 +1925,20 @@ window.CHAPTER_DATA = [
     "text": "«Izgonește-o pe această slujnică»: căci nu se cuvine să fie izgonit fiul fără mama, căci ea nu va rămâne după el.<br><br>«Căci nu va moșteni»: căci el socotește să fie egal cu fiul meu la moștenire, pentru că este fiul tău; de aceea batjocorește și își bate joc de fiul meu.<br><br>«Cu Isaac»: și a adăugat și a spus „cu Isaac”, ca și cum i-ar fi spus: oare nu ți-a spus Dumnezeu: „Dar legământul Mi-l voi statornici cu Isaac, pe care ți-l va naște Sara”?"
    },
    {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Căci fiul acestei slujnice nu va moșteni.» Din cuvintele Sarei am învățat că el cerea dreptul de întâi-născut, două părți."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Căci fiul acestei slujnice nu va moșteni.» Adică: nu este drept ca fiul slujnicei să moștenească împreună cu fiul meu; și de aceea nu vreau ca el să locuiască aici, ca nu cumva după moartea noastră să spună: și eu sunt fiu al lui Avraam, și să vină să moștenească."
+   },
+   {
     "author": "Zohar, Mișpatim 3:28",
     "text": "A deschis și a zis (Geneza 21:10): «și a zis lui Avraham: izgonește pe roaba aceasta și pe fiul ei» etc. Tovarășii s-au trezit că Sara a voit să curețe slujirea străină din casă. Și de aceea e scris: «tot ce-ți va zice Sara, ascultă glasul ei». Aici e scris: «și când va vinde un om pe fiica lui». Acesta e sufletul, în gilgulim-ii pentru faptele rele ale lumii. «Spre roabă»: latura aceea, cealaltă, în gilgulul cel rău al balanței, care se întoarce. Și iată, s-a îndeletnicit să o scoată de acolo. Negreșit, «să nu iasă cum ies robii», toate sufletele acelea care sunt asuprite."
+   },
+   {
+    "author": "Efrem Sirul, Comentariu la Facere",
+    "text": "Atunci Sara, care nu arătase pizmă în nicio pricină ce o privea pe ea, a ajuns pizmașă în această pricină privitoare la fiul ei. Nu pizmuia pe Agar, pe care o dăduse bărbatului ei. Fiindcă era vorba de făgăduința lui Dumnezeu, iar fiul concubinei socotea că va fi împreună-moștenitor cu fiul femeii libere, Sara a zis: „Izgonește pe roaba aceasta și pe fiul ei, căci nu este drept ca un fiu de slujnică să aibă vreo moștenire împreună cu fiul făgăduinței, căruia i s-a făgăduit de către Dumnezeu. Nu e bine să te împotrivești lui Dumnezeu și să faci moștenitor pe cel pe care Dumnezeu nu l-a făcut moștenitor.”"
    }
   ]
  },
@@ -1548,7 +1957,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸ ῥῆμα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lucrul."
+    "def_ro": "cuvânt; de implicație, matter (ca spoken al) sau lucru; adverbially, cauză.",
+    "greek_def_ro": "ῥῆμα (rhema) — cuvânt, lucru („lucrul acesta”).",
+    "dict_ro": "Davar, „cuvânt, lucru”: „lucrul a fost foarte rău” (21:11) pentru Avraam — cuvântul Sarei îl doare; Septuaginta spune τὸ ῥῆμα."
    },
    {
     "t": " l-a "
@@ -1560,9 +1971,11 @@ window.CHAPTER_DATA = [
     "translit": "vayera",
     "strong": "H7489",
     "pos": "verb",
-    "greek": "σκληρὸν ἐφάνη",
+    "greek": "σκληρὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "l-a mâhnit."
+    "def_ro": "propriu-zis, a spoil (literal, de breaking a pieces); figurat, a face (sau fi) bun pentru nothing, adică bad (physically, socially sau morally).",
+    "greek_def_ro": "σκληρός (skleros) — greu, aspru.",
+    "dict_ro": "Ra’a, „a fi rău”: „lucrul a fost rău în ochii lui Avraam” (21:11, 12) — mâhnirea; Dumnezeu îi spune „să nu fie rău în ochii tăi”."
    },
    {
     "t": " foarte mult pe "
@@ -1576,7 +1989,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": ", [fiind] despre fiul său."
@@ -1604,12 +2019,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 21:12"
+   "Geneza 21:12",
+   "Geneza 17:18",
+   "Geneza 22:1,2",
+   "2 Samuel 18:33",
+   "Matei 10:37",
+   "Evrei 12:11"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Fiind despre fiul său.» Căci auzise că a ieșit la purtare rea. Iar înțelesul simplu: pentru că i-a zis să-l izgonească."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și lucrul a fost foarte rău în ochii lui Avraam, din pricina fiului său."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și lucrul a fost foarte rău în ochii lui Avraam din pricina lui Ismael, fiul lui, care avea să slujească slujirii străine."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -1622,6 +2050,25 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și lucrul l-a mâhnit foarte mult»: căci, deși era fiul slujnicei, era fiul lui și îl iubea, căci era întâiul lui născut, și îi era milă de el, cum îi este milă unui tată de fii. Și pe drum bun mergea, căci a crescut cu el și l-a învățat calea Domnului; căci chiar și pe alții îi învăța și îi călăuzea pe calea cea bună, cu atât mai mult pe fiul lui; și era rău în ochii lui să-l izgonească din casa lui; și nu și-a mustrat soția din pricina păcii casei, cum am scris în privința Agarei; și se întrista de lucru și răbda cearta soției lui până ce i-a venit cuvântul."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Și lucrul l-a mâhnit foarte mult.» Adică: pentru Agar era greu în ochii lui, dar pentru fiul lui era foarte greu; și de aceea Sfântul i-a spus: „să nu fie rău în ochii tăi pentru tânăr și pentru slujnica ta”."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Și lucrul l-a mâhnit foarte mult pe Avraam, fiind despre fiul său.» Explicația: ca să nu iasă la cultură rea și să se afunde în credințe rele la plecarea lui din casa tatălui său, și până la urmă este fiul lui.<br><br>Încă va voi „fiind despre fiul său” – pe care Sara l-a atribuit Agarei, precum spusa ei „pe această slujnică și pe fiul ei” etc., „fiul acestei slujnice”. Și a venit Sfântul, binecuvântat fie, și a îndreptățit cuvintele Sarei și i-a spus „tot ceea ce” etc. „ascultă de glasul ei”, și nu-l socoti fiul tău. Și aceasta este spusa Lui „pentru tânăr” etc., i-a dezrădăcinat numele de fiul lui și i-a spus „căci prin Isaac” etc., iar acest fiu după numele mamei lui va fi numit, și aceasta este spusa „Dar și pe fiul slujnicei” etc. Și vei găsi că Avraam s-a întors și a recunoscut cuvintele ei, căci este scris „Și Avraam s-a trezit dis-de-dimineață” etc. „și copilul” etc., și nu a spus „și pe fiul lui”, căci Scriptura a mărturisit despre Avraam."
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și lucrul a fost greu în ochii lui Avraam, din pricina roabei sale și din pricina fiului său, să-i izgonească de la el.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -1640,7 +2087,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Θεὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeu."
+    "def_ro": "dumnezei în sens obișnuit; dar specific folosit (la plural, mai ales cu articol) despre Dumnezeul suprem.",
+    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+    "dict_ro": "Elohim, „Dumnezeu”: „precum îi spusese Dumnezeu” (21:2, 4), „râs mi-a făcut Dumnezeu” (21:6), „Dumnezeu a auzit” (21:17): Elohim e Cel ce hotărăște în toate."
    },
    {
     "t": " i-a "
@@ -1654,7 +2103,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a spus."
+    "def_ro": "a zice (folosit cu mare latitude).",
+    "dict_ro": "Amar, „a spune”: „Sara a spus lui Avraam” (21:10), „Dumnezeu a zis” (21:12), „îngerul a zis” (21:17): glasul care decide în capitol.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": " lui "
@@ -1668,7 +2119,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu (la dativ: „lui Avraam”).",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": ": „Nu fi "
@@ -1682,7 +2135,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "σκληρὸν ἔστω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fi mâhnit."
+    "def_ro": "propriu-zis, a spoil (literal, de breaking a pieces); figurat, a face (sau fi) bun pentru nothing, adică bad (physically, socially sau morally).",
+    "greek_def_ro": "σκληρός (skleros) — greu; „să nu fie greu”.",
+    "dict_ro": "Ra’a, „a fi rău”: „lucrul a fost rău în ochii lui Avraam” (21:11, 12) — mâhnirea; Dumnezeu îi spune „să nu fie rău în ochii tăi”."
    },
    {
     "t": " pentru "
@@ -1696,7 +2151,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τοῦ παιδίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tânăr."
+    "def_ro": "(concretely) boy (ca active), de la age al infancy a adolescence; de implicație, slugă; de asemenea (de interch. al sex), girl (al similar latitude in age).",
+    "greek_def_ro": "παιδίον (paidion) — copil (la genitiv).",
+    "dict_ro": "Na’ar, „tânăr, băiat”: „tânărul” (21:12, 17–20) este Ismael, adolescent; Septuaginta spune τὸ παιδίον."
    },
    {
     "t": " și pentru "
@@ -1708,9 +2165,11 @@ window.CHAPTER_DATA = [
     "translit": "amatekha",
     "strong": "H519",
     "pos": "substantiv cu sufix",
-    "greek": "τῆς παιδίσκης σου",
+    "greek": "παιδίσκης",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "slujnica ta."
+    "def_ro": "maid-slugă sau female slave.",
+    "greek_def_ro": "παιδίσκη (paidiske) — slujnică (la genitiv).",
+    "dict_ro": "Amah, „slujnică”: „slujnica aceasta” (21:10, 12–13) — Sara își numește rivala doar „slujnică”; Septuaginta spune ἡ παιδίσκη."
    },
    {
     "t": " ta: tot ceea ce îți va "
@@ -1724,7 +2183,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἴπῃ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "va spune."
+    "def_ro": "a zice (folosit cu mare latitude).",
+    "dict_ro": "Amar, „a spune”: „Sara a spus lui Avraam” (21:10), „Dumnezeu a zis” (21:12), „îngerul a zis” (21:17): glasul care decide în capitol.",
+    "greek_def_ro": "λέγω (lego) — a spune („va spune”)."
    },
    {
     "t": " "
@@ -1738,7 +2199,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαρρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sara."
+    "def_ro": "Sara — „prințesă”, noul nume al Sarei, dat de Dumnezeu.",
+    "greek_def_ro": "Σαρρα (Sarra) — Sara, nume propriu.",
+    "dict_ro": "Sara (Sarah), „prințesă”: „Sara a născut un fiu lui Avraam” (21:1–7); frământarea ei de la 18:12 se schimbă în bucurie (21:6)."
    },
    {
     "t": ", "
@@ -1752,7 +2215,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "ἄκουε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ascultă."
+    "def_ro": "a auzi intelligently (adesea cu implicație al attention, obedience, etc.; causatively, a tell, etc.).",
+    "greek_def_ro": "ἀκούω (akouo) — a asculta („ascultă”).",
+    "dict_ro": "Shama, „a auzi”: „oricine va auzi va râde împreună cu mine” (21:6) — veselia Sarei este veste pentru toți; Dumnezeu „a auzit” glasul copilului (21:17)."
    },
    {
     "t": " de "
@@ -1766,7 +2231,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τῆς φωνῆς αὐτῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "glasul ei."
+    "def_ro": "glas, voce, sunet, zgomot.",
+    "greek_def_ro": "φωνή (phone) — glas; „glasul ei”.",
+    "dict_ro": "Qol, „glas”: „ascultă glasul Sarei” (21:12) — Dumnezeu îl trimite pe Avraam să asculte glasul Sarei, ca apoi să audă și El glasul copilului (21:17)."
    },
    {
     "t": " ei, căci prin "
@@ -1780,7 +2247,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ισαακ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Isaac."
+    "def_ro": "jitschak (sau Isaac), fiu al Abraham.",
+    "greek_def_ro": "Ισαακ (Isaak) — Isaac, nume propriu.",
+    "dict_ro": "Itschaq (Yitschaq), „va râde”: numele lui Isaac (21:3) vine de la râsul lui Avraam (17:17) și al Sarei (18:12); acum râsul devine bucurie (21:6)."
    },
    {
     "t": " îți va fi "
@@ -1794,7 +2263,9 @@ window.CHAPTER_DATA = [
     "pos": "verb (nifal)",
     "greek": "κληθήσεταί",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "va fi socotită."
+    "def_ro": "a chema, a striga, a numi — propriu-zis, a te adresa cuiva pe nume.",
+    "greek_def_ro": "καλέω (kaleo) — a chema; la pasiv, „se va chema”.",
+    "dict_ro": "Qara, „a chema”: „a pus numele Isaac” (21:3) și „a numit locul Beer-Șeva” (21:31); numele se pun după întâmplare, ca amintire."
    },
    {
     "t": " "
@@ -1808,7 +2279,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "σπέρμα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sămânța."
+    "def_ro": "sămânță; figurat, rod, plant, sowing-timp, posterity.",
+    "greek_def_ro": "σπέρμα (sperma) — sămânță, urmaș.",
+    "dict_ro": "Zera, „sămânță”: „în Isaac se va chema seminția ta” (21:12) — legământul merge prin Isaac; „și pe fiul slujnicei îl voi face neam, căci e seminția ta” (21:13)."
    },
    {
     "t": "."
@@ -1837,12 +2310,24 @@ window.CHAPTER_DATA = [
   ],
   "refs": [
    "Romani 9:7-8",
-   "Evrei 11:18"
+   "Evrei 11:18",
+   "1 Samuel 8:7,9",
+   "Isaia 46:10",
+   "Geneza 17:19,21",
+   "Romani 9:7,8"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Ascultă de glasul ei.» Am învățat că Avraam era mai prejos decât Sara în profeție."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Domnul i-a zis lui Avraam: „Să nu fie rău în ochii tăi din pricina tânărului și din pricina roabei tale; tot ce-ți va spune Sara, primește de la ea, căci prin Isaac ți se vor numi urmași."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a zis Domnul către Avraam: „Să nu fie rău în ochii tăi pentru copilul care a ieșit din grija ta și pentru roaba ta pe care o alungi; tot ce îți va spune Sara primește de la ea, căci ea este profetesă; pentru că prin Isaac ți se vor numi fii, iar acesta, fiul roabei, nu va fi socotit în urma ta."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
@@ -1857,6 +2342,10 @@ window.CHAPTER_DATA = [
     "text": "«Pentru tânăr și pentru slujnica ta»: căci știa că și pentru slujnică era rău în ochii lui, care îi slujise atâția ani, cu atât mai mult că avea de la ea un fiu. Și deși nu s-a spus decât „fiind despre fiul său”, l-a pomenit pe fiul lui, căci el este principalul și pentru el se certa cu Sara, nu pentru slujnică; dar Dumnezeu, care îi știa inima, a spus „pentru slujnica ta”.<br><br>«Tot ceea ce îți va spune»: în acest lucru, căci ea spune adevărul, că nu va moșteni împreună cu Isaac. «Căci prin Isaac îți va fi socotită sămânța»: căci ceea ce am spus, „ție și seminției tale”, nu am spus decât despre Isaac, căci el este sămânța aleasă pentru tine."
    },
    {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Căci prin Isaac îți va fi socotită sămânța.» Sămânța ta de bază este Isaac, acea sămânță despre care a spus: „ție și seminției tale îți voi da țara aceasta”."
+   },
+   {
     "author": "Talmudul Babilonian, Sanhedrin, cap. 7",
     "text": "Ci de acum, fiii lui Ismael să fie obligați! „căci prin Isaac îți va fi socotită sămânța”.",
     "src": {
@@ -1864,6 +2353,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 7,
       "v": 10
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și Dumnezeu i-a zis lui Avraam: Să nu-ți fie greu în ochii tăi din pricina copilului și din pricina roabei; în tot ce ți-a zis Sara, ascultă de cuvintele ei și fă-le; căci în Isaac ți se va chema numele și sămânța. Iar pe fiul roabei acesteia îl voi face un neam mare, pentru că este din sămânța ta.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 6
      }
     }
    }
@@ -1884,7 +2384,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῆς παιδίσκης",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "slujnicei."
+    "def_ro": "maid-slugă sau female slave.",
+    "greek_def_ro": "παιδίσκη (paidiske) — slujnică (la genitiv).",
+    "dict_ro": "Amah, „slujnică”: „slujnica aceasta” (21:10, 12–13) — Sara își numește rivala doar „slujnică”; Septuaginta spune ἡ παιδίσκη."
    },
    {
     "t": " îl voi face un "
@@ -1898,7 +2400,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "εἰς ἔθνος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "neam."
+    "def_ro": "foreign neam; de aici, Gentile; de asemenea (figurat) troop al animals, sau flight al locusts.",
+    "greek_def_ro": "ἔθνος (ethnos) — neam, popor („spre neam”).",
+    "dict_ro": "Goy, „neam”: „pe fiul slujnicei îl voi face neam” (21:13, 18) — făgăduința pentru Ismael; Septuaginta spune εἰς ἔθνος μέγα."
    },
    {
     "t": ", căci este din "
@@ -1912,7 +2416,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "σπέρμα σόν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "seminția ta."
+    "def_ro": "sămânță; figurat, rod, plant, sowing-timp, posterity.",
+    "greek_def_ro": "σπέρμα (sperma) — sămânță; „seminția ta”.",
+    "dict_ro": "Zera, „sămânță”: „în Isaac se va chema seminția ta” (21:12) — legământul merge prin Isaac; „și pe fiul slujnicei îl voi face neam, căci e seminția ta” (21:13)."
    },
    {
     "t": " ta.”"
@@ -1941,9 +2447,20 @@ window.CHAPTER_DATA = [
   ],
   "refs": [
    "Geneza 25:12-16",
-   "Geneza 17:20"
+   "Geneza 17:20",
+   "Geneza 21:18",
+   "Geneza 16:10",
+   "Geneza 25:12-18"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și pe fiul roabei îl voi face un popor, căci este fiul tău.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și de asemenea pe fiul roabei îl voi face un popor de tâlhari, pentru că este fiul tău.”"
+   },
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Dar și pe fiul slujnicei.» Și de asemenea nu se cuvine să te îngrijorezi că îl vei izgoni pe fiu; căci îl vei izgoni pe fiul slujnicei, și nu pe fiul tău; oricum îl voi face un neam, căci este din seminția ta, nu pentru că el ar fi vrednic de aceasta."
@@ -1969,7 +2486,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": " s-a "
@@ -1981,9 +2500,11 @@ window.CHAPTER_DATA = [
     "translit": "vayashkem",
     "strong": "H7925",
     "pos": "verb",
-    "greek": "ὤρθρισεν",
+    "greek": "ἀνέστη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a trezit."
+    "def_ro": "literal, a load sus (pe înapoi al om sau beast), adică a start early in morning.",
+    "greek_def_ro": "ἀνίστημι (anistēmi) — a se ridica.",
+    "dict_ro": "Shakham, „a se scula devreme”: „Avraam s-a sculat dis-de-dimineață” (21:14) — ascultarea grabnică, ca la 22:3."
    },
    {
     "t": " "
@@ -1997,7 +2518,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "τὸ πρωὶ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "dis-de-dimineață."
+    "def_ro": "propriu-zis, dawn (ca break al zi); generally, morning.",
+    "greek_def_ro": "πρωΐ (proi) — dimineață („dimineața”).",
+    "dict_ro": "Boqer, „dimineață”: „dis-de-dimineață” (21:14) — Avraam se supune fără întârziere, deși cu inima grea."
    },
    {
     "t": ", a "
@@ -2011,7 +2534,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔλαβεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a luat."
+    "def_ro": "a lua (in widest variety al applications).",
+    "dict_ro": "Laqach, „a lua”: „Avraam a luat pâine” (21:14) și „mama lui a luat soție” (21:21): verbul spune pregătirea plecării și a căsătoriei.",
+    "greek_def_ro": "λαμβάνω (lambano) — a lua."
    },
    {
     "t": " "
@@ -2025,7 +2550,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἄρτους",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pâine."
+    "def_ro": "hrana (pentru om sau beast), in special pâine, sau grain (pentru making it).",
+    "greek_def_ro": "ἄρτος (artos) — pâine (la plural: „pâini”).",
+    "dict_ro": "Lechem, „pâine”: „pâine și un burduf cu apă” (21:14) — proviziile modeste, cu care pleacă Agar; Septuaginta spune ἄρτους."
    },
    {
     "t": " și un "
@@ -2039,7 +2566,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀσκὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "burduf."
+    "def_ro": "skin bottle (ca tied sus).",
+    "greek_def_ro": "ἀσκός (askos) — burduf (la acuzativ).",
+    "dict_ro": "Chemet, „burduf”: „un burduf cu apă” (21:14–15, 19) — recipient din piele pentru apă; Septuaginta spune ἀσκός."
    },
    {
     "t": " de "
@@ -2053,7 +2582,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὕδατος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "apă."
+    "def_ro": "apa; figurat, juice; de euphemism, urine, semen.",
+    "dict_ro": "Mayim, „ape”: „apă” (21:14–15, 19, 25) — apa pe care Agar o pierde în pustie, apoi o găsește în fântână; în Orient, apa înseamnă viață.",
+    "greek_def_ro": "ὕδωρ (hydor) — apă (la genitiv: „de apă”)."
    },
    {
     "t": " și le-a "
@@ -2067,7 +2598,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔδωκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "le-a dat."
+    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "greek_def_ro": "δίδωμι (didomi) — a da („a dat”).",
+    "dict_ro": "Natan, „a da”: „le-a dat Agarei” (21:14) — Avraam îi dă pâinea și apa; el nu o lasă fără nimic; Septuaginta spune ἔδωκεν."
    },
    {
     "t": " lui "
@@ -2075,13 +2608,15 @@ window.CHAPTER_DATA = [
    {
     "t": "Hagar",
     "w": "Hagar",
-    "heb": "לְהָגָר",
+    "heb": "הָגָר",
     "translit": "leHagar",
     "strong": "H1904",
     "pos": "nume propriu",
-    "greek": "τῇ Αγαρ",
+    "greek": "Αγαρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Hagar."
+    "def_ro": "Agar — slujnica egipteană a Sarei, dată lui Avram ca soție; numele înseamnă „fugă” sau „străină”.",
+    "greek_def_ro": "Αγαρ (Agar) — Agar, nume propriu.",
+    "dict_ro": "Agar (Hagar), „fugă, străină” (Easton): slujnica egipteană, mama lui Ismael (21:9–21); îndepărtată în pustie, e salvată de Dumnezeu la izvor."
    },
    {
     "t": ". I le-a "
@@ -2095,7 +2630,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπέθηκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i le-a pus."
+    "def_ro": "a pune (folosit in mare variety al applications, literal, figurative, inferentially, si elliptically).",
+    "greek_def_ro": "ἐπιτίθημι (epitithemi) — a pune peste („a pus peste”).",
+    "dict_ro": "Sim, „a pune”: „le-a pus pe umăr” (21:14) — Avraam pune burduful și copilul în grija Agarei."
    },
    {
     "t": " pe "
@@ -2109,7 +2646,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὸν ὦμον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "umărul ei."
+    "def_ro": "neck (între shoulders) ca loc al burdens; figurat, spur al hill.",
+    "greek_def_ro": "ὦμος (omos) — umăr („umărul”).",
+    "dict_ro": "Shechem, „umăr”: „pe umărul ei” (21:14) — Agar poartă burduful pe umăr; Septuaginta spune τὸν ὦμον."
    },
    {
     "t": ", și "
@@ -2123,7 +2662,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸ παιδίον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "copilul."
+    "def_ro": "ceva born, adică lad sau offspring.",
+    "dict_ro": "Yeled, „copil”: „copilul” (21:8, 14–15) — la început Isaac, apoi Ismael; același cuvânt pentru ambii, ca pentru doi copii ocrotiți.",
+    "greek_def_ro": "παιδίον (paidion) — copil; „copilul”."
    },
    {
     "t": ", și a "
@@ -2137,7 +2678,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, cu sufix",
     "greek": "ἀπέστειλεν αὐτήν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a izgonit-o."
+    "def_ro": "a send departe, pentru, sau afară (in mare variety al applications).",
+    "greek_def_ro": "ἀποστέλλω (apostello) — a trimite; „a trimis-o”.",
+    "dict_ro": "Shalach, „a trimite”: „a trimis-o” (21:14) — izgonirea ca plecare; Septuaginta spune ἀπέστειλεν αὐτήν."
    },
    {
     "t": "; și ea a "
@@ -2151,7 +2694,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπελθοῦσα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a plecat."
+    "def_ro": "a walk (in mare variety al applications, literal si figurat).",
+    "greek_def_ro": "ἀπέρχομαι (aperchomai) — a pleca; la participiu, „plecând”.",
+    "dict_ro": "Halak, „a merge”: „ea a plecat” (21:14) — plecarea Agarei în pustie; același verb pentru drumul lui Avraam cu Isaac (22:6)."
    },
    {
     "t": " și a "
@@ -2165,7 +2710,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπλανᾶτο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a rătăcit."
+    "def_ro": "a vacillate, adică reel sau stray (literal sau figurat); de asemenea causative al both.",
+    "greek_def_ro": "πλανάομαι (planaomai) — a rătăci („rătăcea”).",
+    "dict_ro": "Ta’ah, „a rătăci”: „a rătăcit prin pustia Beer-Șeva” (21:14) — Agar rătăcește fără țintă; Septuaginta spune ἐπλανᾶτο."
    },
    {
     "t": " în "
@@ -2179,7 +2726,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὴν ἔρημον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "deșertul."
+    "def_ro": "pasture (adică open field, whither cattle sunt driven); de implicație, desert; de asemenea speech (including al sau organs).",
+    "greek_def_ro": "ἔρημος (eremos) — pustie (la acuzativ).",
+    "dict_ro": "Midbar, „pustie”: „pustia Beer-Șeva” (21:14) și „pustia Paran” (21:21) — locul în care Ismael va trăi; Septuaginta spune τὴν ἔρημον."
    },
    {
     "t": " "
@@ -2193,7 +2742,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τὸ φρέαρ τοῦ ὅρκου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Beer-Șeva."
+    "def_ro": "beer-Sheba, loc in Palestine.",
+    "greek_def_ro": "φρέαρ (phrear), ὅρκος (horkos) — „fântâna jurământului”.",
+    "dict_ro": "Beer-Șeva (Be’er Sheva), „fântâna jurământului” sau „a celor șapte” (Easton): loc în sudul Canaanului; aici rătăcește Agar (21:14) și aici Avraam face legământ cu Abimeleh (21:31–33)."
    },
    {
     "t": "."
@@ -2221,12 +2772,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 16:1"
+   "Geneza 16:1",
+   "Geneza 19:27",
+   "Geneza 22:3",
+   "Geneza 24:54",
+   "Geneza 26:31",
+   "Psalmul 119:60"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Pâine și un burduf de apă.» Și nu argint și aur, pentru că îl ura, deoarece ieșise la purtare rea.<br><br>«Și copilul.» Și pe copil i l-a pus pe umăr; căci Sara aruncase deochi asupra lui, și l-a apucat fierbințeala și nu putea merge pe picioarele lui.<br><br>«Și ea a plecat și a rătăcit.» S-a întors la idolii casei tatălui ei."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avraam s-a sculat dis-de-dimineață și a luat pâine și un burduf cu apă și i-a dat Agarei, punându-le pe umărul ei, și copilul, și a trimis-o; și ea a plecat și a rătăcit în pustiul Beer-Șeba."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Avraam s-a sculat devreme dimineața și a luat pâine și un burduf cu apă și i le-a dat Agarei, i le-a pus pe umăr și i l-a legat la mijloc, ca să se știe că ea este roabă, și pe copil, și a trimis-o cu act de despărțire; și ea a plecat și s-a rătăcit de pe drum în pustiul care este lângă Beer-Șeba."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -2247,6 +2811,29 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și Avraam s-a trezit dis-de-dimineață»: ca să facă porunca lui Dumnezeu.<br><br>«A luat pâine și un burduf de apă»: le-a dat hrană pentru o zi sau două zile, căci ea nu ar fi putut purta mai mult; și i-a dat și apă, căci drumul ei era drum de deșert, ca să se întoarcă în Egipt („Mițrayim”) sau aproape de el, la oamenii familiei ei, căci era egipteancă; și i-a dat și argint și aur, deși Scriptura nu a povestit, căci nu i-a trimis, pe ea și pe tânăr, cu mâinile goale. «I le-a pus pe umăr»: pâinea și burduful i le-a pus pe umăr.<br><br>«Și copilul»: să meargă înaintea ei, căci avea cincisprezece ani; iar când va obosi, să-l poarte pe umăr sau în brațe.<br><br>«Și a izgonit-o»: din casa lui; sau a însoțit-o până afară din cetate.<br><br>«Și ea a plecat și a rătăcit»: căci nu cunoștea drumul de când intrase în deșert."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«A luat pâine și un burduf de apă.» Rashi: Și nu argint și aur, pentru că îl ura, pentru că ieșise pe o cultură rea; și încă, Avraam nu avea de ce să-i lase vreo moștenire, căci el și Ismael, fiul său, erau prozeliți. Și s-a învățat în primul capitol din Qiddușin: Nu este evreu pe prozelit, iar prozelit pe prozelit nu moștenește, nici după cuvintele Torei, nici după cuvintele cărturarilor; căci s-a învățat: Cine a luat bani cu împrumut de la un prozelit ai cărui fii s-au convertit împreună cu el și a murit, nu va returna fiilor lui; iar dacă a returnat, duhul înțelepților nu este mulțumit de aceasta. Totuși, intenția lui era să-i dea daruri după moartea Sarei, după cum este scris „Iar fiilor concubinelor care erau ai lui Avraam, Avraam le-a dat daruri”.<br><br>«I le-a pus pe umăr.» „A pus pe umărul ei” se referă la „și un burduf de apă”.<br><br>«Și copilul.» „Și copilul” se referă la „i le-a dat Agarei”. „A pus pe umărul ei”: Rashi: că l-a apucat boala. Iar dacă vei spune: Doar am spus: până la Iacov nu a existat slăbiciune? Și se poate spune: deși în acel timp nu era slăbiciune care aduce, totuși din pricina setei ei mor, și din aceasta se teme că poate va muri de sete.<br><br>«Și a izgonit-o.» Căci nu avea voie să o vândă după ce s-a culcat cu ea, după cum este scris „să o lași să plece după voia ei, dar de vândut să nu o vinzi pe bani”."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«I le-a pus pe umăr.» Burduful și pâinea, iar pe copil în mâinile ei, căci era de paisprezece ani."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«I le-a pus pe umăr, și copilul etc.» Explicația: l-a pus și pe el pe umărul ei, fiindcă nu voia să iasă din casa tatălui său, de aceea l-a legat ca pe un copil și l-a pus pe umărul ei și a izgonit-o."
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și Avraam s-a sculat dis-de-dimineață, și a luat pâine și un burduf de apă, și le-a pus pe umerii Agarei și ai copilului, și a izgonit-o.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 8
+     }
+    }
    }
   ]
  },
@@ -2265,7 +2852,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸ ὕδωρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "apa."
+    "def_ro": "apa; figurat, juice; de euphemism, urine, semen.",
+    "dict_ro": "Mayim, „ape”: „apă” (21:14–15, 19, 25) — apa pe care Agar o pierde în pustie, apoi o găsește în fântână; în Orient, apa înseamnă viață.",
+    "greek_def_ro": "ὕδωρ (hydor) — apă („apa”)."
    },
    {
     "t": " din "
@@ -2279,7 +2868,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ἐκ τοῦ ἀσκοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "burduf."
+    "def_ro": "skin bottle (ca tied sus).",
+    "greek_def_ro": "ἀσκός (askos) — burduf; „din burduf”.",
+    "dict_ro": "Chemet, „burduf”: „un burduf cu apă” (21:14–15, 19) — recipient din piele pentru apă; Septuaginta spune ἀσκός."
    },
    {
     "t": " s-a "
@@ -2293,7 +2884,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξέλιπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a terminat."
+    "def_ro": "a isprăvi, a termina, a duce la capăt — despre o lucrare sau o perioadă de timp.",
+    "greek_def_ro": "ἐκλείπω (ekleipo) — a se sfârși, a seca („a secat”).",
+    "dict_ro": "Kalah, „a se sfârși”: „apa din burduf s-a sfârșit” (21:15) — pericolul morții; același verb pentru încheierea vorbirii (17:22)."
    },
    {
     "t": ", ea a "
@@ -2307,7 +2900,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔρριψεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a abandonat."
+    "def_ro": "a throw afară, jos sau departe (literal sau figurat).",
+    "greek_def_ro": "ῥίπτω (rhipto) — a arunca („a aruncat”).",
+    "dict_ro": "Shalakh, „a arunca”: „a aruncat copilul sub un tufiș” (21:15) — gestul de deznădejde; Septuaginta spune ἔρριψεν."
    },
    {
     "t": " "
@@ -2321,7 +2916,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸ παιδίον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "copilul."
+    "def_ro": "ceva born, adică lad sau offspring.",
+    "dict_ro": "Yeled, „copil”: „copilul” (21:8, 14–15) — la început Isaac, apoi Ismael; același cuvânt pentru ambii, ca pentru doi copii ocrotiți.",
+    "greek_def_ro": "παιδίον (paidion) — copil; „copilul”."
    },
    {
     "t": " sub unul dintre "
@@ -2333,9 +2930,12 @@ window.CHAPTER_DATA = [
     "translit": "hasichim",
     "strong": "H7880",
     "pos": "substantiv, cu articol",
-    "greek": "τῶν ἐλατῶν",
+    "greek": "ἐλάτης",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tufișuri."
+    "def_ro": "shoot (ca dacă uttered sau pune înainte), adică (în general) shrubbery.",
+    "greek_def_ro": "ἐλάτη (elate) — brad (la genitiv).",
+    "dict_ro": "Siach, „tufiș”: „sub unul din tufișuri” (21:15) — umbra unui arbust, unde își lasă copilul; Septuaginta spune ὑποκάτω ἐλάτης, „sub un brad”.",
+    "diff_ro": "Ebraica spune „sub unul din tufișuri” (הַשִּׂיחִם); Septuaginta spune „sub un brad” (ὑποκάτω μιᾶς ἐλάτης)."
    },
    {
     "t": "."
@@ -2363,12 +2963,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 21:16"
+   "Geneza 21:16",
+   "Geneza 21:14",
+   "Exodul 15:22-25",
+   "Exodul 17:1-3",
+   "2 Împărați 3:9",
+   "Psalmul 63:1"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Când apa… s-a terminat.» Pentru că obiceiul bolnavilor este să bea mult."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și apa din burduf s-a sfârșit, și ea a lepădat copilul sub unul din copaci."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a fost, când au ajuns la intrarea pustiului, și-au amintit să rătăcească după slujirea străină; și Ismael a fost lovit de o febră arzătoare și a băut toată apa, până s-a terminat toată apa din burduf; și a fost ars de febră, și i-a slăbit trupul; și ea l-a purtat și a obosit, și a chemat idolul tatălui ei, dar acesta nu i-a răspuns; și îndată l-a aruncat pe copil sub unul dintre pomi."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -2385,6 +2998,25 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«S-a terminat»: și iată, necazurile ei s-au îndoit; și s-au scris toate acestea ca să învețe că omul să nu se înspăimânte de necazuri dacă vin asupra lui și să se încreadă în Dumnezeu, că va face sfârșitul spre bine. Și s-a scris de asemenea ca să arate ce face Dumnezeu pentru cei ce iubesc Numele Lui, căci slujnicei lui Avraam i s-a arătat îngerul de două ori și a făcut cu ea și cu fiul ei minune.<br><br>«Ea a abandonat copilul» (wa-tašlekh): l-a aruncat de la sânul ei, unde îl purta, căci era obosit de drum și de sete."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Când apa din burduf s-a terminat.» Înainte ca ea să ajungă la popas, căci Avraam nu i-a dat apă decât în măsura în care să ajungă la așezare, iar ea a plecat și a rătăcit pe drum.<br><br>«Ea a abandonat copilul.» Nu pentru că era pe umărul ei din ceasul în care a ieșit din casa lui Avraam, ci când s-a îmbolnăvit l-a pus pe umărul ei, iar când a văzut că sufletul lui iese, l-a aruncat."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Ea a abandonat copilul.» După ce a leșinat de sete, a început să-l poarte."
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și ea a plecat și a rătăcit în pustia Beerșebei, și apa din burduf s-a sfârșit, și copilul a însetat, și n-a putut să meargă mai departe, și a căzut. Și mama lui l-a luat și l-a aruncat sub un măslin, și s-a dus și s-a așezat în fața lui, la o aruncătură de arc; căci a zis: Să nu văd moartea copilului meu, și pe când ședea a plâns.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 9
+     }
+    }
    }
   ]
  },
@@ -2403,7 +3035,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπελθοῦσα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a mers."
+    "def_ro": "a walk (in mare variety al applications, literal si figurat).",
+    "greek_def_ro": "ἀπέρχομαι (aperchomai) — a pleca; la participiu, „plecând”.",
+    "dict_ro": "Halak, „a merge”: „ea a plecat” (21:14) — plecarea Agarei în pustie; același verb pentru drumul lui Avraam cu Isaac (22:6)."
    },
    {
     "t": " și s-a "
@@ -2417,7 +3051,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκάθητο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a așezat."
+    "def_ro": "propriu-zis, a sit jos (in special ca judecător. in ambush, in quiet); de implicație, a dwell, a remain; causatively, a settle, a marry.",
+    "greek_def_ro": "κάθημαι (kathemai) — a ședea („ședea”).",
+    "dict_ro": "Yashav, „a ședea”: „ea s-a așezat în față” (21:16) — Agar se așază departe, să nu vadă moartea copilului; Ismael va „locui” în pustie (21:20–21)."
    },
    {
     "t": " departe, la "
@@ -2431,7 +3067,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀπέναντι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "distanță."
+    "def_ro": "front, adică parte opposite; in special counterpart, sau mate; de obicei (adverbial, in special cu preposition) peste împotriva sau înainte.",
+    "greek_def_ro": "ἀνατολή (anatole) — răsărit.",
+    "dict_ro": "Neged, „în față, în preajmă”: „s-a așezat în fața lui” (21:16) — la o distanță mică, ca să nu vadă."
    },
    {
     "t": ", la câteva "
@@ -2445,7 +3083,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὡσεὶ τόξου βολήν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "aruncături."
+    "def_ro": "a stretch bow, ca archer.",
+    "greek_def_ro": "τόξον (toxon), βολή (bole) — „cât o aruncătură de arc”.",
+    "dict_ro": "Tachah, „a arunca”: „ca o aruncătură de arc” (21:16) — distanță măsurată în sulițe de arc."
    },
    {
     "t": " de "
@@ -2459,7 +3099,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τόξου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "arc."
+    "def_ro": "bow, pentru shooting (de aici, figurat, strength) sau iris.",
+    "greek_def_ro": "τόξον (toxon) — arc (la genitiv).",
+    "dict_ro": "Qeshet, „arc”: „aruncătură de arc” (21:16, 20) — Ismael va deveni arcaș; Septuaginta spune τόξον."
    },
    {
     "t": ", căci "
@@ -2473,7 +3115,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "spunea."
+    "def_ro": "a zice (folosit cu mare latitude).",
+    "dict_ro": "Amar, „a spune”: „Sara a spus lui Avraam” (21:10), „Dumnezeu a zis” (21:12), „îngerul a zis” (21:17): glasul care decide în capitol.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": ": „Să nu "
@@ -2487,7 +3131,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἴδω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "văd."
+    "def_ro": "a vedea, literal sau figurat (in numerous applications, direct si implied, transitive, intransitive si causative).",
+    "dict_ro": "Raah, „a vedea”: „Sara a văzut pe fiul Agarei” (21:9), Agar „nu vrea să vadă” moartea copilului (21:16) și își deschide ochii (21:19): trei priviri care schimbă soarta.",
+    "greek_def_ro": "ὁράω (horao) — a vedea („să văd”)."
    },
    {
     "t": " "
@@ -2501,7 +3147,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὸν θάνατον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "moartea."
+    "def_ro": "moarte (natural sau violent); concretely, dead, al lor loc sau state (hades); figurat, pestilence, ruin.",
+    "greek_def_ro": "θάνατος (thanatos) — moarte („moartea”).",
+    "dict_ro": "Mavet, „moarte”: „să nu văd moartea copilului” (21:16) — rostirea disperării; Septuaginta spune τὸν θάνατον."
    },
    {
     "t": " copilului!” S-a "
@@ -2513,9 +3161,11 @@ window.CHAPTER_DATA = [
     "translit": "vateshev",
     "strong": "H3427",
     "pos": "verb",
-    "greek": "καθίσασα",
+    "greek": "ἐκάθητο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a așezat."
+    "def_ro": "propriu-zis, a sit jos (in special ca judecător. in ambush, in quiet); de implicație, a dwell, a remain; causatively, a settle, a marry.",
+    "greek_def_ro": "κάθημαι (kathemai) — a ședea („ședea”).",
+    "dict_ro": "Yashav, „a ședea”: „ea s-a așezat în față” (21:16) — Agar se așază departe, să nu vadă moartea copilului; Ismael va „locui” în pustie (21:20–21)."
    },
    {
     "t": " deoparte, și-a "
@@ -2527,9 +3177,10 @@ window.CHAPTER_DATA = [
     "translit": "vatisa",
     "strong": "H5375",
     "pos": "verb",
-    "greek": "ἀνεβόησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "și-a ridicat."
+    "def_ro": "a ridica, a purta; „au ridicat” arca.",
+    "diff_ro": "Septuaginta nu are „și a ridicat (Hagar)” (וַתִּשָּׂא): textul grecesc spune că „copilul, strigând, a plâns” (ἀναβοήσαν τὸ παιδίον ἔκλαυσεν).",
+    "dict_ro": "Nasa, „a ridica”: „ea și-a ridicat glasul” (21:16) — Agar plânge cu glas tare; Septuaginta spune ἀναβοήσαν τὸ παιδίον, „copilul a strigat”."
    },
    {
     "t": " "
@@ -2541,9 +3192,11 @@ window.CHAPTER_DATA = [
     "translit": "kolah",
     "strong": "H6963",
     "pos": "substantiv cu sufix",
-    "greek": "τὴν φωνὴν αὐτῆς",
+    "greek": "ἀναβοήσαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "glasul ei."
+    "def_ro": "glas, voce, sunet, zgomot.",
+    "greek_def_ro": "ἀναβοάω (anaboao) — a striga; la participiu, „strigând”.",
+    "dict_ro": "Qol, „glas”: „ascultă glasul Sarei” (21:12) — Dumnezeu îl trimite pe Avraam să asculte glasul Sarei, ca apoi să audă și El glasul copilului (21:17)."
    },
    {
     "t": " și a "
@@ -2557,7 +3210,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔκλαυσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a plâns."
+    "def_ro": "a weep; generally a bemoan.",
+    "greek_def_ro": "κλαίω (klaio) — a plânge („a plâns”).",
+    "dict_ro": "Bakah, „a plânge”: „a plâns” (21:16) — plânsul Agarei (în ebraică) sau al copilului (în Septuaginta)."
    },
    {
     "t": "."
@@ -2585,12 +3240,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 21:19"
+   "Geneza 21:19",
+   "Geneza 44:34",
+   "1 Împărați 3:26",
+   "Estera 8:6",
+   "Isaia 49:15",
+   "Zaharia 12:10"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Departe (mi-neged).» De la distanță.<br><br>«La câteva aruncături de arc (ki-mṭaḥave qešet).» Ca două aruncături. Și este cuvânt pentru tragerea cu săgeata; în limba Mișnei: „care a slobozit (hiṭiaḥ) asupra soției sale”, pentru că sămânța țâșnește ca o săgeată. Și dacă vei spune: trebuia să scrie ki-mṭaḥe qešet — regula este ca vav-ul să intre aici, ca în „în crăpăturile (be-ḥagve) stâncii”, din rădăcina „și pământul lui Iuda va fi o groază (le-ḥagga) pentru Egipt („Mițrayim”)” și din rădăcina „se clatină (yaḥoggu) și se clatină ca un om beat”; și tot așa „marginile (qaṣve) pământului”, din rădăcina qaṣeh.<br><br>«S-a așezat deoparte.» De îndată ce s-a apropiat de moarte, s-a depărtat și mai mult."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și s-a dus și s-a așezat în fața lui, departe, cam cât bătaia unui arc, căci a zis: „Să nu văd moartea copilului.” Și s-a așezat în față și și-a ridicat glasul și a plâns."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și s-a dus și s-a așezat deoparte și a aruncat idolul; s-a depărtat de fiul ei cât o aruncătură de arc, căci a zis: „Nu pot să privesc moartea copilului”; și s-a așezat în fața fiului ei și și-a ridicat glasul și a plâns."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -2618,7 +3286,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Θεὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeu."
+    "def_ro": "dumnezei în sens obișnuit; dar specific folosit (la plural, mai ales cu articol) despre Dumnezeul suprem.",
+    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+    "dict_ro": "Elohim, „Dumnezeu”: „precum îi spusese Dumnezeu” (21:2, 4), „râs mi-a făcut Dumnezeu” (21:6), „Dumnezeu a auzit” (21:17): Elohim e Cel ce hotărăște în toate."
    },
    {
     "t": " a "
@@ -2632,7 +3302,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἰσήκουσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a auzit."
+    "def_ro": "a auzi intelligently (adesea cu implicație al attention, obedience, etc.; causatively, a tell, etc.).",
+    "greek_def_ro": "εἰσακούω (eisakouo) — a asculta („a ascultat”).",
+    "dict_ro": "Shama, „a auzi”: „oricine va auzi va râde împreună cu mine” (21:6) — veselia Sarei este veste pentru toți; Dumnezeu „a auzit” glasul copilului (21:17)."
    },
    {
     "t": " "
@@ -2646,7 +3318,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τῆς φωνῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "glasul."
+    "def_ro": "glas, voce, sunet, zgomot.",
+    "greek_def_ro": "φωνή (phōnē) — glas; „glasul meu”.",
+    "dict_ro": "Qol, „glas”: „ascultă glasul Sarei” (21:12) — Dumnezeu îl trimite pe Avraam să asculte glasul Sarei, ca apoi să audă și El glasul copilului (21:17)."
    },
    {
     "t": " "
@@ -2660,7 +3334,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τοῦ παιδίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tânărului."
+    "def_ro": "(concretely) boy (ca active), de la age al infancy a adolescence; de implicație, slugă; de asemenea (de interch. al sex), girl (al similar latitude in age).",
+    "greek_def_ro": "παιδίον (paidion) — copil (la genitiv).",
+    "dict_ro": "Na’ar, „tânăr, băiat”: „tânărul” (21:12, 17–20) este Ismael, adolescent; Septuaginta spune τὸ παιδίον."
    },
    {
     "t": " și un "
@@ -2674,7 +3350,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "ἄγγελος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "înger."
+    "def_ro": "messenger; in special, al dumnezeu, adică angel (de asemenea profet, preot sau teacher).",
+    "greek_def_ro": "ἄγγελος (angelos) — sol, înger.",
+    "dict_ro": "Mal’ach, „înger”: „îngerul lui Dumnezeu a strigat Agarei din cer” (21:17) — a doua oară când Agar vede un înger (16:7); aici îngerul vine de sus."
    },
    {
     "t": " al lui "
@@ -2688,7 +3366,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τοῦ Θεοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeu."
+    "def_ro": "dumnezei în sens obișnuit; dar specific folosit (la plural, mai ales cu articol) despre Dumnezeul suprem.",
+    "greek_def_ro": "Θεός (Theos) — Dumnezeu (la genitiv: „prin Dumnezeu”).",
+    "dict_ro": "Elohim, „Dumnezeu”: „precum îi spusese Dumnezeu” (21:2, 4), „râs mi-a făcut Dumnezeu” (21:6), „Dumnezeu a auzit” (21:17): Elohim e Cel ce hotărăște în toate."
    },
    {
     "t": " a "
@@ -2702,7 +3382,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκάλεσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a chemat-o."
+    "def_ro": "a call afară a (adică propriu-zis, address de nume, dar folosit in wide variety al applications).",
+    "greek_def_ro": "καλέω (kaleo) — a chema, a numi.",
+    "dict_ro": "Qara, „a chema”: „a pus numele Isaac” (21:3) și „a numit locul Beer-Șeva” (21:31); numele se pun după întâmplare, ca amintire."
    },
    {
     "t": " pe "
@@ -2710,13 +3392,15 @@ window.CHAPTER_DATA = [
    {
     "t": "Hagar",
     "w": "Hagar",
-    "heb": "לְהָגָר",
+    "heb": "מִן",
     "translit": "leHagar",
     "strong": "H1904",
     "pos": "nume propriu",
     "greek": "τὴν Αγαρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Hagar."
+    "def_ro": "Agar — slujnica egipteană a Sarei, dată lui Avram ca soție; numele înseamnă „fugă” sau „străină”.",
+    "greek_def_ro": "Αγαρ (Agar) — Agar (la acuzativ).",
+    "dict_ro": "Agar (Hagar), „fugă, străină” (Easton): slujnica egipteană, mama lui Ismael (21:9–21); îndepărtată în pustie, e salvată de Dumnezeu la izvor."
    },
    {
     "t": " din "
@@ -2730,7 +3414,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ἐκ τοῦ οὐρανοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cer."
+    "def_ro": "sky (ca aloft; dual poate alluding a visible arch in care clouds move, ca well ca a higher ether unde celestial bodies revolve).",
+    "dict_ro": "Shamayim, „ceruri”: „îngerul lui Dumnezeu a strigat Agarei din cer” (21:17) — glasul vine de sus; Septuaginta spune ἐκ τοῦ οὐρανοῦ.",
+    "greek_def_ro": "οὐρανός (ouranos) — cer; „din cer”."
    },
    {
     "t": " și i-a "
@@ -2744,7 +3430,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a spus."
+    "def_ro": "a zice (folosit cu mare latitude).",
+    "dict_ro": "Amar, „a spune”: „Sara a spus lui Avraam” (21:10), „Dumnezeu a zis” (21:12), „îngerul a zis” (21:17): glasul care decide în capitol.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": ": „Ce ai, "
@@ -2758,7 +3446,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αγαρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Hagar."
+    "def_ro": "Agar — slujnica egipteană a Sarei, dată lui Avram ca soție; numele înseamnă „fugă” sau „străină”.",
+    "greek_def_ro": "Αγαρ (Agar) — Agar, nume propriu.",
+    "dict_ro": "Agar (Hagar), „fugă, străină” (Easton): slujnica egipteană, mama lui Ismael (21:9–21); îndepărtată în pustie, e salvată de Dumnezeu la izvor."
    },
    {
     "t": "? Nu te "
@@ -2772,7 +3462,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "φοβοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "te teme."
+    "def_ro": "a fear; morally a revere; causatively a frighten.",
+    "greek_def_ro": "φοβέομαι (phobeomai) — a se teme („nu te teme”).",
+    "dict_ro": "Yare, „a se teme”: „nu te teme” (21:17) — cuvântul de mângâiere dat Agarei; apare și lui Avram (15:1) și lui Isaac (26:24)."
    },
    {
     "t": ", căci "
@@ -2786,7 +3478,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Θεὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeu."
+    "def_ro": "dumnezei în sens obișnuit; dar specific folosit (la plural, mai ales cu articol) despre Dumnezeul suprem.",
+    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+    "dict_ro": "Elohim, „Dumnezeu”: „precum îi spusese Dumnezeu” (21:2, 4), „râs mi-a făcut Dumnezeu” (21:6), „Dumnezeu a auzit” (21:17): Elohim e Cel ce hotărăște în toate."
    },
    {
     "t": " [i-]a "
@@ -2800,7 +3494,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἰσήκουσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a auzit."
+    "def_ro": "a auzi intelligently (adesea cu implicație al attention, obedience, etc.; causatively, a tell, etc.).",
+    "greek_def_ro": "εἰσακούω (eisakouo) — a asculta („a ascultat”).",
+    "dict_ro": "Shama, „a auzi”: „oricine va auzi va râde împreună cu mine” (21:6) — veselia Sarei este veste pentru toți; Dumnezeu „a auzit” glasul copilului (21:17)."
    },
    {
     "t": " "
@@ -2814,7 +3510,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τῆς φωνῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "glasul."
+    "def_ro": "glas, voce, sunet, zgomot.",
+    "greek_def_ro": "φωνή (phōnē) — glas; „glasul meu”.",
+    "dict_ro": "Qol, „glas”: „ascultă glasul Sarei” (21:12) — Dumnezeu îl trimite pe Avraam să asculte glasul Sarei, ca apoi să audă și El glasul copilului (21:17)."
    },
    {
     "t": " "
@@ -2828,7 +3526,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τοῦ παιδίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tânărului."
+    "def_ro": "(concretely) boy (ca active), de la age al infancy a adolescence; de implicație, slugă; de asemenea (de interch. al sex), girl (al similar latitude in age).",
+    "greek_def_ro": "παιδίον (paidion) — copil (la genitiv).",
+    "dict_ro": "Na’ar, „tânăr, băiat”: „tânărul” (21:12, 17–20) este Ismael, adolescent; Septuaginta spune τὸ παιδίον."
    },
    {
     "t": " de acolo de unde este el."
@@ -2856,12 +3556,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 16:11"
+   "Geneza 16:11",
+   "Exodul 3:7",
+   "Exodul 22:23,27",
+   "2 Împărați 13:4,23",
+   "Psalmul 50:15",
+   "Psalmul 65:2"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Glasul tânărului.» De aici, că mai frumoasă este rugăciunea bolnavului decât rugăciunea altora pentru el, și ea este primită mai întâi.<br><br>«De acolo de unde este el.» După faptele pe care le face acum este judecat, și nu după ce va face. Căci îngerii slujitori acuzau și ziceau: Stăpâne al lumii, celui ai cărui urmași aveau să-i omoare pe fiii Tăi de sete, îi scoți o fântână? Iar El le răspundea: Acum ce este, drept sau rău? I-au zis: Drept. Le-a zis: După faptele lui de acum îl judec. Și aceasta este „de acolo de unde este el”. Și unde l-a omorât pe Israel de sete? Când i-a exilat Nebucadnețar, cum s-a spus: „Oracol despre Arabia” etc., „în întâmpinarea celui însetat aduceți apă” etc.. Când îi duceau pe lângă arabi, Israel le spunea celor care îi luaseră captivi: Vă rugăm, duceți-ne la fiii unchiului nostru, Ismael, și se vor îndura de noi, cum s-a spus: „caravane ale dedaniților” — nu citi dedanim, ci dodim („unchi”). Iar aceia ieșeau în întâmpinarea lor și le aduceau carne și pește sărat și burdufuri umflate; Israel credea că sunt pline de apă, iar când fiecare îl ducea la gură și îl deschidea, aerul intra în trupul lui și murea."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și s-a auzit înaintea Domnului glasul copilului; și îngerul Domnului a chemat-o pe Agar din ceruri și i-a zis: „Ce ai, Agar? Nu te teme, căci s-a auzit înaintea Domnului glasul copilului, acolo unde este el."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și s-a auzit înaintea Domnului glasul copilului, pentru meritul lui Avraam; și îngerul Domnului a chemat-o pe Agar din ceruri și i-a zis: „Ce ai, Agar? Nu te teme, căci s-a auzit înaintea Domnului glasul copilului, și nu l-a judecat după faptele lui rele pe care avea să le facă, ci, pentru meritul lui Avraam, S-a îndurat de el în locul în care este."
    },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
@@ -2874,6 +3587,25 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Dumnezeu a auzit glasul tânărului»: căci și el și-a ridicat glasul și a plâns.<br><br>«Din cer»: i-a auzit glasul, dar nu l-a văzut, ca la Beer-Lehai, unde l-a văzut; de aceea a spus „din cer”. «Glasul tânărului»: cel dintâi cu et, al doilea cu el, iar semnul lor este tav-lamed.<br><br>«De acolo de unde este el»: în locul acela unde l-ai aruncat, căci ai socotit că va muri acolo, Dumnezeu i-a auzit glasul. Iar învățătorii noștri, binecuvântată fie amintirea lor, au interpretat de aici că omul nu este judecat decât după faptele lui din ceasul acela, căci s-a spus „de acolo de unde este el”: dacă este drept, deși sfârșitul lui va fi să fie nelegiuit, îl judecă după dreptatea lui. Iar în agadă au spus: îngerii slujirii au spus înaintea Celui Sfânt, binecuvântat fie El: Celui ai cărui fii vor ucide pe fiii Tăi prin sete, Tu îi faci să răsară o fântână de apă ca să-l țină în viață? Căci s-a spus: „Prorocire asupra Arabiei... în întâmpinarea celui însetat aduceți apă”: când oștile lui Nebucadnețar îi duceau pe Israel în exil și erau aproape să moară de sete și treceau pe la fiii lui Ismael, căci s-a spus „locuitorii țării Tema”, și le cereau să le dea apă să bea, iar ei le aduceau burdufuri goale, umflate, și ei socoteau că sunt pline de apă și le deschideau, iar aerul intra în măruntaiele lor și ei mureau."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Glasul tânărului.» Rashi: De aici, că rugăciunea bolnavului este ascultată mai mult decât rugăciunea altora. Iar ceea ce spunem în Berakhot: Un întemnițat nu se eliberează singur din casa închisorii. Se poate spune că aceasta este motivul: pentru că de obicei bolnavul nu poate să-și îndrepte intenția; dar acesta, care și-a îndreptat intenția, rugăciunea lui a fost ascultată înaintea Sfântului, binecuvântat fie.<br><br>«De acolo de unde este el.» Rashi: După faptele lui de acum. Iar noi spunem: Fiul rebel este ucis din cauza sfârșitului său. Ci se poate spune: fiul rebel este rău încă de la început, față de ceea ce va fi în sfârșit; dar aici, de la început, Ismael era drept față de acel păcat al „Întâmpinați pe cel însetat, aduceți apă”; aceasta este ceea ce a explicat Rashi „după faptele lui de acum”. „De acolo de unde este el”: pentru că ea s-a depărtat de el la o aruncătură de arc și nu l-a văzut, a trebuit să se spună „de acolo de unde este el”. Altă explicație: „de acolo de unde este el” – chiar în deșert, unde nu este apă."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Un înger al lui Dumnezeu din cer.» Îngerii care apar oamenilor pe pământ în chip de oameni nu se știe că sunt îngeri, pentru că nu este calea Sfântului să Se arate astfel; iar cel care vorbește din ceruri se știe că este înger, căci a spus „căci Dumnezeu i-a auzit glasul tânărului”, și nu a spus „am auzit”."
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și un înger al lui Dumnezeu, unul din cei sfinți, i-a zis: De ce plângi, Agar? Scoală-te, ia copilul și ține-l în mâna ta; căci Dumnezeu ți-a auzit glasul și a văzut copilul.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 11
+     }
+    }
    }
   ]
  },
@@ -2889,7 +3621,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "ἀνάστηθι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Scoală-te."
+    "def_ro": "a rise (in various applications, literal, figurative, intensive si causative).",
+    "greek_def_ro": "ἀνίστημι (anistemi) — a se ridica („ridică-te”).",
+    "dict_ro": "Qum, „a se ridica”: „ridică-te, ia copilul” (21:18) — porunca îngerului: nu stai lângă moarte."
    },
    {
     "t": ", "
@@ -2903,7 +3637,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "λαβὲ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ridică-l."
+    "def_ro": "a lift, in mare variety al applications, literal si figurative, absolute si relative.",
+    "greek_def_ro": "λαμβάνω (lambano) — a lua („ia”).",
+    "dict_ro": "Nasa, „a ridica”: „ea și-a ridicat glasul” (21:16) — Agar plânge cu glas tare; Septuaginta spune ἀναβοήσαν τὸ παιδίον, „copilul a strigat”."
    },
    {
     "t": " pe "
@@ -2917,7 +3653,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸ παιδίον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tânăr."
+    "def_ro": "(concretely) boy (ca active), de la age al infancy a adolescence; de implicație, slugă; de asemenea (de interch. al sex), girl (al similar latitude in age).",
+    "greek_def_ro": "παιδίον (paidion) — copil; „copilul”.",
+    "dict_ro": "Na’ar, „tânăr, băiat”: „tânărul” (21:12, 17–20) este Ismael, adolescent; Septuaginta spune τὸ παιδίον."
    },
    {
     "t": " și "
@@ -2931,7 +3669,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "κράτησον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ține-l."
+    "def_ro": "a fasten asupra; de aici, a seize, fi tare (figurat, courageous, causatively strengthen, cure, help, repair, fortify), obstinate; a bind, restrain, conquer.",
+    "greek_def_ro": "κρατέω (krateo) — a ține („ține”).",
+    "dict_ro": "Chazaq, „a ține tare”: „ține-l cu mâna ta” (21:18) — Agar să-l sprijine; verbul spune tărie, nu doar apucare."
    },
    {
     "t": " de "
@@ -2945,7 +3685,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τῇ χειρί σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mâna ta."
+    "def_ro": "mână ( open unul [indicating power, means, direction, etc.], in distinction de la 3709, closed unul); folosit (ca substantiv, adverb, etc.) in mare variety al applications, both literal si figurat, both proximate si remote [as follows].",
+    "dict_ro": "Yad, „mână”: „ține-l cu mâna ta” (21:18) — Agar să-l sprijine pe Ismael; mâna care ține cu putere, nu doar apucă.",
+    "greek_def_ro": "χείρ (cheir) — mână; „cu mâna ta”."
    },
    {
     "t": ", căci îl voi face "
@@ -2957,9 +3699,11 @@ window.CHAPTER_DATA = [
     "translit": "legoi",
     "strong": "H1471",
     "pos": "substantiv",
-    "greek": "εἰς ἔθνος",
+    "greek": "ἔθνος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "neam."
+    "def_ro": "foreign neam; de aici, Gentile; de asemenea (figurat) troop al animals, sau flight al locusts.",
+    "greek_def_ro": "ἔθνος (ethnos) — neam, popor.",
+    "dict_ro": "Goy, „neam”: „pe fiul slujnicei îl voi face neam” (21:13, 18) — făgăduința pentru Ismael; Septuaginta spune εἰς ἔθνος μέγα."
    },
    {
     "t": " "
@@ -2973,7 +3717,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "μέγα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mare."
+    "def_ro": "mare (in orice sens); de aici, older; de asemenea insolent.",
+    "dict_ro": "Gadol, „mare”: „ospăț mare” (21:8) și „neam mare” (21:13, 18) — două măriri: sărbătoarea și făgăduința.",
+    "greek_def_ro": "μέγας (megas) — mare."
    },
    {
     "t": ".”"
@@ -3001,12 +3747,28 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 17:20"
+   "Geneza 17:20",
+   "Geneza 21:13",
+   "Geneza 16:10",
+   "Geneza 25:12-18",
+   "1 Cronici 1:29-31"
   ],
   "commentaries": [
    {
+    "author": "Targum Onkelos",
+    "text": "Scoală-te, ridică pe copil și ține-l strâns de mână, căci îl voi face un popor mare.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Ridică-te, ia copilul și întărește-ți mâinile asupra lui, căci îl voi face un popor mare.”"
+   },
+   {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Scoală-te... și ține-l de mână» (we-haḥaziqi et yadekh bo): nu-ți slăbi mâna de la el, căci nu va muri de sete, căci încă îl voi face neam mare."
+   },
+   {
+    "author": "Ioan Gură de Aur, Omilii la Facere",
+    "text": "Ce iubire de oameni din partea Domnului! Departe de a o ignora [pe Agar] ca pe o slujnică de rând, a binevoit să-i arate o grijă atât de minunată, pentru pricina că făcuse făgăduința patriarhului, iar copilul era al lui. De aceea cuvintele: „Ce este, Agar? Nu te îngrijora: Dumnezeu a auzit strigătul copilului. Ridică-te, ia-l și apucă-l de mână; căci Eu am să-l fac să crească într-un neam puternic.” Nu-ți pierde curajul, spune El, că ești izgonită din casă. El se va bucura de o asemenea purtare de grijă din partea Mea, încât va ajunge un neam puternic, chiar el."
    }
   ]
  },
@@ -3025,7 +3787,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Θεὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeu."
+    "def_ro": "dumnezei în sens obișnuit; dar specific folosit (la plural, mai ales cu articol) despre Dumnezeul suprem.",
+    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+    "dict_ro": "Elohim, „Dumnezeu”: „precum îi spusese Dumnezeu” (21:2, 4), „râs mi-a făcut Dumnezeu” (21:6), „Dumnezeu a auzit” (21:17): Elohim e Cel ce hotărăște în toate."
    },
    {
     "t": " i-a "
@@ -3039,7 +3803,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀνέῳξεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a deschis."
+    "def_ro": "a open ( senses, in special eyes); figurat, a fi observant.",
+    "greek_def_ro": "ἀνοίγω (anoigo) — a deschide („a deschis”).",
+    "dict_ro": "Pakach, „a deschide (ochii)”: „Dumnezeu i-a deschis ochii” (21:19) — Agar vede fântâna care exista deja; cuvânt rar."
    },
    {
     "t": " "
@@ -3053,7 +3819,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τοὺς ὀφθαλμοὺς αὐτῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ochii ei."
+    "def_ro": "eye (literal sau figurat); de analogy, fountain (ca eye al landscape).",
+    "greek_def_ro": "ὀφθαλμός (ophthalmos) — ochi; „ochii ei”.",
+    "dict_ro": "Ayin, „ochi”: „i-a deschis ochii și a văzut o fântână” (21:19) — fântâna era acolo; mântuirea e uneori o privire deschisă."
    },
    {
     "t": " și ea a "
@@ -3067,7 +3835,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶδεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a văzut."
+    "def_ro": "a vedea, literal sau figurat (in numerous applications, direct si implied, transitive, intransitive si causative).",
+    "dict_ro": "Raah, „a vedea”: „Sara a văzut pe fiul Agarei” (21:9), Agar „nu vrea să vadă” moartea copilului (21:16) și își deschide ochii (21:19): trei priviri care schimbă soarta.",
+    "greek_def_ro": "ὁράω (horao) — a vedea."
    },
    {
     "t": " o "
@@ -3081,7 +3851,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "φρέαρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fântână."
+    "def_ro": "pit; in special well.",
+    "greek_def_ro": "φρέαρ (phrear) — fântână, puț.",
+    "dict_ro": "Be’er, „fântână”: „o fântână de apă” (21:19, 25, 30–31) — apa vieții pentru Agar și Ismael; fântâna lui Avraam provoacă disputa cu Abimeleh (21:25)."
    },
    {
     "t": " cu "
@@ -3095,7 +3867,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὕδατος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "apă."
+    "def_ro": "apa; figurat, juice; de euphemism, urine, semen.",
+    "dict_ro": "Mayim, „ape”: „apă” (21:14–15, 19, 25) — apa pe care Agar o pierde în pustie, apoi o găsește în fântână; în Orient, apa înseamnă viață.",
+    "greek_def_ro": "ὕδωρ (hydor) — apă (la genitiv: „de apă”)."
    },
    {
     "t": "; și a "
@@ -3109,7 +3883,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπορεύθη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a mers."
+    "def_ro": "a walk (in mare variety al applications, literal si figurat).",
+    "greek_def_ro": "πορεύομαι (poreuomai) — a merge („a mers, a plecat”).",
+    "dict_ro": "Halak, „a merge”: „ea a plecat” (21:14) — plecarea Agarei în pustie; același verb pentru drumul lui Avraam cu Isaac (22:6)."
    },
    {
     "t": " și a "
@@ -3123,7 +3899,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔπλησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a umplut."
+    "def_ro": "a fill sau (intransitively) fi full al, in wide application (literal si figurat).",
+    "greek_def_ro": "πίμπλημι (pimplemi) — a umple („a umplut”).",
+    "dict_ro": "Male, „a umple”: „a umplut burduful” (21:19) — Agar umple burduful cu apă; Septuaginta spune ἔπλησεν."
    },
    {
     "t": " "
@@ -3137,7 +3915,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸν ἀσκὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "burduful."
+    "def_ro": "skin bottle (ca tied sus).",
+    "greek_def_ro": "ἀσκός (askos) — burduf; „burduful”.",
+    "dict_ro": "Chemet, „burduf”: „un burduf cu apă” (21:14–15, 19) — recipient din piele pentru apă; Septuaginta spune ἀσκός."
    },
    {
     "t": " de apă și i-a "
@@ -3151,7 +3931,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπότισεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a dat."
+    "def_ro": "a quaff, adică (causatively) a irrigate sau furnish potion a.",
+    "greek_def_ro": "ποτίζω (potizo) — a da de băut („a dat de băut”).",
+    "dict_ro": "Shaqah, „a da de băut”: „a dat copilului de băut” (21:19) — Agar își salvează fiul prin apă; Septuaginta spune ἐπότισεν."
    },
    {
     "t": " tânărului să "
@@ -3192,9 +3974,20 @@ window.CHAPTER_DATA = [
   ],
   "refs": [
    "2 Împărați 6:17",
-   "Numeri 22:31"
+   "Numeri 22:31",
+   "2 Împărați 6:17-20",
+   "Isaia 35:5,6",
+   "Luca 24:16-31"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Domnul i-a deschis ochii, și ea a văzut o fântână de apă; și s-a dus și a umplut burduful cu apă și i-a dat copilului să bea."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Domnul i-a deschis ochii, și i s-a arătat o fântână de apă; și s-a dus și a umplut burduful cu apă și i-a dat copilului să bea."
+   },
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Și Dumnezeu i-a deschis ochii.» I-a dat pricepere să recunoască un loc cu apă care era acolo; căci nu fusese oarbă mai înainte."
@@ -3202,6 +3995,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«I-a deschis»: este posibil că fântâna era acolo și era acoperită între tufișuri, sau era departe de ea;<br><br>«Și a mers și a umplut»: și Dumnezeu i-a îmbunătățit vederea pentru ceasul acela, ca să o vadă; sau nu era acolo, ci Dumnezeu a despicat pământul în locul acela și a ieșit apă, cum s-a spus la Samson.<br><br>«Și i-a dat tânărului să bea»: și deja îi dăduse să bea și băuse și ea, și după aceea a umplut burduful de apă ca să-l ducă cu ea. Și ca vav-ul acesta sunt multe, ca „iată, Tu Te-ai mâniat și noi am păcătuit”, „și a făcut din mare uscat, și apele s-au despărțit”, „și a făcut viermi și s-a împuțit”, și altele multe asemenea; iar explicația lui este că a scos apă din fântână cu burduful și i-a dat tânărului să bea."
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și și-a deschis ochii, și a văzut o fântână de apă, și s-a dus și și-a umplut burduful cu apă, și a dat copilului să bea, și s-a sculat și a mers spre pustia Paranului.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 12
+     }
+    }
    }
   ]
  },
@@ -3220,7 +4024,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Θεὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeu."
+    "def_ro": "dumnezei în sens obișnuit; dar specific folosit (la plural, mai ales cu articol) despre Dumnezeul suprem.",
+    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+    "dict_ro": "Elohim, „Dumnezeu”: „precum îi spusese Dumnezeu” (21:2, 4), „râs mi-a făcut Dumnezeu” (21:6), „Dumnezeu a auzit” (21:17): Elohim e Cel ce hotărăște în toate."
    },
    {
     "t": " a fost cu "
@@ -3234,7 +4040,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τοῦ παιδίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tânărul."
+    "def_ro": "(concretely) boy (ca active), de la age al infancy a adolescence; de implicație, slugă; de asemenea (de interch. al sex), girl (al similar latitude in age).",
+    "greek_def_ro": "παιδίον (paidion) — copil (la genitiv).",
+    "dict_ro": "Na’ar, „tânăr, băiat”: „tânărul” (21:12, 17–20) este Ismael, adolescent; Septuaginta spune τὸ παιδίον."
    },
    {
     "t": "; el a "
@@ -3248,7 +4056,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ηὐξήθη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a crescut."
+    "def_ro": "a fi (causatively face) large (in various senses, ca in trup, mind, estate sau honor, de asemenea in pride).",
+    "greek_def_ro": "αὐξάνω (auxano) — a crește („a crescut”).",
+    "dict_ro": "Gadal, „a crește”: „copilul a crescut” (21:8) și „ospăț mare în ziua înțărcării” (21:8); Septuaginta spune ηὐξήθη."
    },
    {
     "t": ", a "
@@ -3262,7 +4072,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κατῴκησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a locuit."
+    "def_ro": "propriu-zis, a sit jos (in special ca judecător. in ambush, in quiet); de implicație, a dwell, a remain; causatively, a settle, a marry.",
+    "greek_def_ro": "κατοικέω (katoikeo) — a locui, a se așeza („s-a așezat”).",
+    "dict_ro": "Yashav, „a ședea”: „ea s-a așezat în față” (21:16) — Agar se așază departe, să nu vadă moartea copilului; Ismael va „locui” în pustie (21:20–21)."
    },
    {
     "t": " în "
@@ -3276,7 +4088,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῇ ἐρήμῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "deșert."
+    "def_ro": "pasture (adică open field, whither cattle sunt driven); de implicație, desert; de asemenea speech (including al sau organs).",
+    "greek_def_ro": "ἔρημος (eremos) — pustie (la dativ: „în pustie”).",
+    "dict_ro": "Midbar, „pustie”: „pustia Beer-Șeva” (21:14) și „pustia Paran” (21:21) — locul în care Ismael va trăi; Septuaginta spune τὴν ἔρημον."
    },
    {
     "t": " și a ajuns "
@@ -3290,7 +4104,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τοξότης",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "arcaș."
+    "def_ro": "a trage cu arcul; „arcaș”.",
+    "greek_def_ro": "τοξότης (toxotes) — arcaș.",
+    "dict_ro": "Rava, „a trage cu arcul”: „arcaș” (21:20) — Ismael va trăi din arc, ca un vânător al pustiei."
    },
    {
     "t": "."
@@ -3318,12 +4134,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 16:12"
+   "Geneza 16:12",
+   "Geneza 17:20",
+   "Geneza 28:15",
+   "Geneza 39:2,3,21",
+   "Luca 1:80",
+   "Luca 2:40"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Arcaș (roveh qaššat).» Trăgea săgeți cu arcul.<br><br>«Arcaș (qaššat).» După numele meșteșugului, ca ḥammar („măgar”), gammal („cămilar”), ṣayyad („vânător”); de aceea șin-ul are dageș. Locuia în deșert și îi jefuia pe trecători; aceasta este ce s-a spus: „mâna lui împotriva tuturor” etc."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Cuvântul Domnului a fost în ajutorul copilului; și el a crescut și a locuit în pustiu și a devenit un arcaș."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Cuvântul Domnului a fost în ajutorul copilului, și a crescut și a locuit în pustiu și a devenit un arcaș iscusit."
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -3344,6 +4173,25 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și Dumnezeu a fost cu tânărul»: că l-a făcut să izbutească în multe fapte.<br><br>«El a crescut»: în bogăție și în averi. Iar naʿar se traduce rabbeya. Iar qaššat este adjectiv pe cântarul lui gannav, sallaḥ, adică cel care face arcurile sau trage cu ele; și tot așa a tradus Onkelos: rabbe qašta.<br><br>«A locuit în deșert»: iar după aceea a explicat: „în deșertul Paran”.<br><br>«Și a ajuns arcaș» (wa-yehi rove qaššat): a explicat rove ca yoreh, adică trăgea cu arcul; iar rove vine din ravav, cu reș și bet, din cele cu dublare: „l-au săgetat (wa-rovu)”, „chemați asupra Babilonului arcași (rabbim)”, „arcașii (rabbav) Lui mă înconjoară”; și îi va lipsi bet-ul de serviciu, ca și cum ar fi spus rove ba-qešet, iar qaššat este substantiv pe cântarul lui šabbat. Și s-a scris această povestire căci fiii lui au fost arcași de la el, și de la el au învățat; de aceea s-a spus „mâna lui împotriva tuturor”, căci din mulțimea vitejiei lor și a priceperii lor în războiul cu arcul își întind mâinile asupra tuturor; și tot așa am văzut că fiii lui Chedar, care erau din fiii lui, erau viteji pricepuți la arcuri, cum a spus: „și rămășița numărului arcașilor, a vitejilor fiilor lui Chedar, se va împuțina”. Și se cuvine ca omul să învețe meșteșugul tatălui său, cum au spus la Hiram: „și tatăl lui, un om din Tir” etc. Și au spus învățătorii noștri, binecuvântată fie amintirea lor: de aici că omul este dator să învețe meșteșugul tatălui său; și au spus fiii lui Iacov: „Slujitorii tăi sunt păstori, și noi, și părinții noștri”."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«A locuit în deșert.» De aceea l-au numit „măgar sălbatic de om”.<br><br>«Și a ajuns arcaș.» „Rabbah qeshet”: unii explică: limbaj de „rabya”, adică: „Și Ismael a fost tânăr, arcaș, care trage săgeți”, „anfanṭ arqiyir” în laʿaz."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Arcaș.» „Rove” este „care trage”, ca în „L-au amărât și l-au săgetat (ve-rabbu)”, și ca în „m-au înconjurat arcașii Săi”.<br><br>«Arc.» „Cu arc”. Iar unii spun: „rove” ca „tânăr”, ca în „să primească ha-rovim răspunsul lor”, și ca „na‘ar”, care este „ravya” în Targum, adică un tânăr stăpân al arcului (ba‘al qašša)."
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și copilul a crescut și a ajuns arcaș, și Dumnezeu era cu el; și mama lui i-a luat o soție dintre fiicele Egiptului.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 13
+     }
+    }
    }
   ]
  },
@@ -3362,7 +4210,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κατῴκησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "S-a așezat."
+    "def_ro": "propriu-zis, a sit jos (in special ca judecător. in ambush, in quiet); de implicație, a dwell, a remain; causatively, a settle, a marry.",
+    "greek_def_ro": "κατοικέω (katoikeo) — a locui, a se așeza („s-a așezat”).",
+    "dict_ro": "Yashav, „a ședea”: „ea s-a așezat în față” (21:16) — Agar se așază departe, să nu vadă moartea copilului; Ismael va „locui” în pustie (21:20–21)."
    },
    {
     "t": " în "
@@ -3376,7 +4226,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τῇ ἐρήμῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "deșertul."
+    "def_ro": "pasture (adică open field, whither cattle sunt driven); de implicație, desert; de asemenea speech (including al sau organs).",
+    "greek_def_ro": "ἔρημος (eremos) — pustie (la dativ: „în pustie”).",
+    "dict_ro": "Midbar, „pustie”: „pustia Beer-Șeva” (21:14) și „pustia Paran” (21:21) — locul în care Ismael va trăi; Septuaginta spune τὴν ἔρημον."
    },
    {
     "t": " "
@@ -3390,7 +4242,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῇ Φαραν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Paran."
+    "def_ro": "paran, desert al Arabia.",
+    "greek_def_ro": "Φαραν (Pharan) — Paran, nume propriu (la dativ).",
+    "dict_ro": "Paran (Paran): pustie în sudul Canaanului, unde locuiește Ismael (21:21); Septuaginta spune ἡ ἔρημος Φαραν."
    },
    {
     "t": " și "
@@ -3402,9 +4256,11 @@ window.CHAPTER_DATA = [
     "translit": "imo",
     "strong": "H517",
     "pos": "substantiv cu sufix",
-    "greek": "ἡ μήτηρ αὐτοῦ",
+    "greek": "μήτηρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mama lui."
+    "def_ro": "mother (ca bond al family); in wide sens (both literal si figurat [like father]).",
+    "greek_def_ro": "μήτηρ (meter) — mamă.",
+    "dict_ro": "Em, „mamă”: „mama lui a luat pentru el soție” (21:21) — Agar îi alege soție din țara ei, Egipt; Septuaginta spune ἡ μήτηρ."
    },
    {
     "t": " lui i-a "
@@ -3418,7 +4274,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔλαβεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a luat."
+    "def_ro": "a lua (in widest variety al applications).",
+    "dict_ro": "Laqach, „a lua”: „Avraam a luat pâine” (21:14) și „mama lui a luat soție” (21:21): verbul spune pregătirea plecării și a căsătoriei.",
+    "greek_def_ro": "λαμβάνω (lambano) — a lua."
    },
    {
     "t": " o "
@@ -3432,7 +4290,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "γυναῖκα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "soție."
+    "def_ro": "femeie, soție; despre animale, „femela”.",
+    "greek_def_ro": "γυνή (gyne) — femeie.",
+    "dict_ro": "Ishah, „femeie, soție”: „soție din țara Egiptului” (21:21) — Ismael se căsătorește cu o egipteancă; legătura cu Egiptul."
    },
    {
     "t": " din "
@@ -3446,7 +4306,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἐκ γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țara."
+    "def_ro": "pământ (la large, sau partitively țară).",
+    "greek_def_ro": "γῆ (ge) — pământ, țară; „din țara”.",
+    "dict_ro": "Erets, „țară”: „din țara Egiptului” (21:21) și „în țara filistenilor” (21:32, 34): cele două țări în care sunt urmașii Agarei și ai lui Avraam."
    },
    {
     "t": " "
@@ -3460,7 +4322,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αἰγύπτου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Egiptului."
+    "def_ro": "mitsrajim, adică Upper si Lower Egypt.",
+    "greek_def_ro": "Αἴγυπτος (Aigyptos) — Egipt (la genitiv: „al Egiptului”).",
+    "dict_ro": "Mițraim (Mitsrayim), Egiptul: Agar luase pe Ismael o soție „din țara Egiptului” (21:21) — rădăcinile ei egiptene se păstrează."
    },
    {
     "t": "."
@@ -3488,12 +4352,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 25:12-18"
+   "Geneza 25:12-18",
+   "Numeri 10:12",
+   "Numeri 12:16",
+   "Numeri 13:3,26",
+   "1 Samuel 25:1",
+   "Geneza 24:3,4"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Din țara Egiptului („Mițrayim”).» Din locul în care a crescut ea, cum s-a spus: „și ea avea o slujnică egipteană” etc.. Aceasta este ce zic oamenii: aruncă bățul în aer — cade pe rădăcina lui."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și a locuit în pustiul Paran, și mama lui i-a luat o soție din țara Egiptului („Mițrayim”)."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a locuit în pustiul Paran și și-a luat o soție, pe ʿAdișa, și a alungat-o; și mama lui i-a luat-o de soție pe Faṭima, din țara Egiptului („Mițrayim”)."
    },
    {
     "author": "Rashbam (cca. 1085–1158)",
@@ -3502,6 +4379,25 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și mama lui i-a luat»: i-a luat o soție din familia ei, căci a văzut că s-a despărțit de familia tatălui său; și tot așa se cuvine ca omul să se lipească de familia lui, și iubirea lui pentru soția lui va fi mai puternică, iar sămânța care va ieși din ei va fi mai bună."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Mama lui i-a luat o soție din țara Egiptului („Mițrayim”).» Din locul familiei ei și al celor mari ai ei. Căci la început s-a însurat cu o femeie dintre fiicele Moabului și nu era potrivită, iar Avraam, tatăl său, i-a trimis semne prin chiar aceea care i-a fost soție, ca s-o alunge, căci nu era miloasă și potrivită; și mama lui i-a luat o altă soție, miloasă, după cum se află în Pirqe de-Rabbi Eliezer; și aceasta este „și mama lui i-a luat” etc."
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Și ea i-a născut un fiu, și i-a pus numele Nebaiot; căci a zis: Domnul a fost aproape de mine când L-am chemat.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 14
+     }
+    }
+   },
+   {
+    "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 13",
+    "text": "Când tânărul a crescut, s-a căsătorit cu o femeie, de neam egipteană, de unde își trăgea ea însăși originea și mama. Din această soție s-au născut lui Ismael doisprezece fii: Nabaiot, Chedar, Abdeel, Mabsam, Idumas, Masmaos, Masaos, Hodad, Teman, Ietur, Nafesus, Cadmas. Aceștia au locuit toată țara de la Eufrat până la Marea Roșie și au numit-o Nabatene. Sunt un neam arab și își numesc triburile după aceștia, atât din pricina propriei lor virtuți, cât și din pricina demnității lui Avraam, părintele lor."
    }
   ]
  },
@@ -3520,7 +4416,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῷ καιρῷ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vremea."
+    "def_ro": "timp, in special (adverb cu preposition) now, cand, etc.",
+    "greek_def_ro": "καιρός (kairos) — vreme (la dativ: „în vremea”).",
+    "dict_ro": "Et, „vreme”: „în vremea aceea” (21:22) — Abimeleh vine în vremea binecuvântării lui Avraam; Septuaginta spune ἐν τῷ καιρῷ ἐκείνῳ."
    },
    {
     "t": " aceea: "
@@ -3534,7 +4432,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avimeleh."
+    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh, nume propriu.",
+    "dict_ro": "Avimeleh (Avimelech), „tatăl meu e rege”: regele Gherarului (20:2), acum vine cu căpetenia oștirii să facă legământ cu Avraam (21:22–32)."
    },
    {
     "t": ", împreună cu "
@@ -3548,7 +4448,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "καὶ Οχοζαθ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Pihol."
+    "def_ro": "Pihol — căpetenia oștirii lui Abimeleh.",
+    "greek_def_ro": "Οχοζαθ (Ochozath) — Ohozat, nume propriu; „și Ohozat”.",
+    "dict_ro": "Pihol (Pikhol), „gura tuturor” sau „gura puternică” (Hitchcock: „gura tuturor”): căpetenia oștirii lui Abimeleh, care vine cu regele la Avraam și ia parte la legământ (21:22, 32)."
    },
    {
     "t": ", "
@@ -3562,7 +4464,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "ἀρχιστράτηγος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "căpetenia."
+    "def_ro": "head persoana (al orice rank sau class).",
+    "greek_def_ro": "ἀρχιστράτηγος (archistrategos) — comandant al oștirii.",
+    "dict_ro": "Sar, „căpetenie, comandant”: „căpetenia oștirii lui” (21:22, 32) — Pihol; Septuaginta spune ἀρχιστράτηγος."
    },
    {
     "t": " "
@@ -3576,7 +4480,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τῆς δυνάμεως αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "oștirii lui."
+    "def_ro": "mass al persons (sau figurat, lucruri), in special reg. organized pentru război ( oaste); de implicație, campaign, literal sau figurat (in special, hardship, worship).",
+    "greek_def_ro": "δύναμις (dynamis) — oaste, putere; „a oștirii lui”.",
+    "dict_ro": "Tsava, „oștire”: „căpetenia oștirii” (21:22, 32); Septuaginta spune τῆς δυνάμεως αὐτοῦ."
    },
    {
     "t": " lui, i-a "
@@ -3584,13 +4490,15 @@ window.CHAPTER_DATA = [
    {
     "t": "spus",
     "w": "spus",
-    "heb": "וַיֹּאמְרוּ",
+    "heb": "וַיֹּאמֶר",
     "translit": "vayomeru",
     "strong": "H559",
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a spus."
+    "def_ro": "a zice (folosit cu mare latitude).",
+    "dict_ro": "Amar, „a spune”: „Sara a spus lui Avraam” (21:10), „Dumnezeu a zis” (21:12), „îngerul a zis” (21:17): glasul care decide în capitol.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": " lui "
@@ -3604,7 +4512,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "πρὸς Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "πρός (pros), Αβρααμ (Abraam) — către Avraam.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": " astfel: „"
@@ -3618,7 +4528,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Θεὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeu."
+    "def_ro": "dumnezei în sens obișnuit; dar specific folosit (la plural, mai ales cu articol) despre Dumnezeul suprem.",
+    "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
+    "dict_ro": "Elohim, „Dumnezeu”: „precum îi spusese Dumnezeu” (21:2, 4), „râs mi-a făcut Dumnezeu” (21:6), „Dumnezeu a auzit” (21:17): Elohim e Cel ce hotărăște în toate."
    },
    {
     "t": " este cu tine în tot ceea ce "
@@ -3630,9 +4542,11 @@ window.CHAPTER_DATA = [
     "translit": "oseh",
     "strong": "H6213",
     "pos": "verb, participiu",
-    "greek": "ποιεῖς",
+    "greek": "ποιῇς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "faci."
+    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "greek_def_ro": "ποιέω (poieo) — a face („vei face”).",
+    "dict_ro": "Asah, „a face”: „a făcut DOMNUL Sarei” (21:1) și „râs mi-a făcut Dumnezeu” (21:6): lucrarea lui Dumnezeu e făcută în trupul Sarei."
    },
    {
     "t": "."
@@ -3660,12 +4574,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 20:2-16"
+   "Geneza 20:2-16",
+   "Geneza 20:2",
+   "Geneza 26:26",
+   "Geneza 20:17",
+   "Geneza 26:28",
+   "Geneza 28:15"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Dumnezeu este cu tine.» Pentru că au văzut că a ieșit în pace din vecinătatea Sodomei, și s-a luptat cu regii și au căzut în mâna lui, și soția lui a fost cercetată la bătrânețea lui."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și a fost, în vremea aceea, că Abimelec și Picol, căpetenia oștirii lui, i-au zis lui Avraam: „Cuvântul Domnului este în ajutorul tău în tot ce faci."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a fost în vremea aceea, și au zis Abimelec și Picol, căpetenia oștirii lui, către Avraam, spunând: „Cuvântul Domnului este în ajutorul tău în tot ce faci."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
@@ -3682,6 +4609,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și a fost în vremea aceea»: în vremea când s-a născut Isaac sau când a fost înțărcat, și el era încă în țara filistenilor, în Gherar; aceasta este ce a spus „Abimelec i-a spus”, și nu a spus „Abimelec a mers la Avraam și i-a spus”. Și fiindcă au văzut că i s-a născut un fiu la vremea bătrâneții lui, iar soția lui era bătrână, cum au auzit și au văzut-o că a născut, s-au mirat de lucru; și după ce i s-a întâmplat lui Abimelec lucrul cu Sara și l-au văzut astfel izbutind în toate faptele lui, a voit să-i fie aliat. Iar faptul că a spus „împreună cu Picol, căpetenia oștirii lui”: căci după sfatul lui i-a spus lui Avraam ce i-a spus."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și a fost în vremea aceea.» Când a născut Sara, regii țării au spus: Negreșit Sfântul va împlini jurământul Lui față de Avraam, care a spus „Seminției tale i-am dat țara aceasta, de la fluviul Egiptului („Mițrayim”)” etc. Și de aceea a cerut Abimelec de la el „că nu mă vei înșela pe mine sau pe odrasla mea sau pe nepoții mei”, dar mai mult nu putea Abimelec să ceară, căci Sfântul i-a spus lui Avraam: „Și a patra generație se va reîntoarce aici”, adică după a patra generație a amoriților se vor întoarce fiii tăi și vor cuceri această țară; și de aceea, când a venit al doilea Abimelec în zilele lui Isaac, a spus „să se încheie un legământ între noi, între noi și tine”, și nu a cerut de la el „pentru odrasla mea și pentru nepoții mei”, pentru că s-a spus „Și a patra generație se va reîntoarce aici”."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Și Abimelec a spus.» Numele regalității este „melekh” (rege), nu numele unui om, precum a dovedit în Samuel că David a mers la Achiș și și-a schimbat judecata, iar în Psalmi spune „când și-a schimbat judecata înaintea lui Abimelec”; așadar pe Achiș îl numește Abimelec; și tot așa Faraon este nume de regalitate în Egipt („Mițrayim”), ca „anperira” (empereur, Kaiser). Și mi se pare că și Picol este numele celui care este peste oaste, nu numele omului, căci tot se face la porunca lui, precum este scris aici și la Isaac."
+   },
+   {
+    "author": "Fericitul Ieronim, Întrebări ebraice la Facere",
+    "text": "(Versetul 22.) Și Abimeleh și Fichol, căpeteniile oștirii lui, au zis slujitorilor lui: „În afară de Abimeleh și Fichol, al treilea nume pomenit aici nu se află în textul ebraic.”"
    }
   ]
  },
@@ -3700,7 +4639,9 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "ὄμοσον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "jură-mi."
+    "def_ro": "a seven sine, adică swear (ca dacă de repeating declaration seven times).",
+    "greek_def_ro": "ὄμνυμι (omnymi) — a jura („jură”).",
+    "dict_ro": "Shava, „a jura”: „jură-mi” (21:23, 24) și „au jurat amândoi” (21:31) — verbul din care vine numele Beer-Șeva, „fântâna jurământului”; Septuaginta spune ὄμοσον."
    },
    {
     "t": " pe "
@@ -3714,7 +4655,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸν Θεὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeu."
+    "def_ro": "dumnezei în sens obișnuit; dar specific folosit (la plural, mai ales cu articol) despre Dumnezeul suprem.",
+    "greek_def_ro": "θεός (theos) — Dumnezeu (la acuzativ).",
+    "dict_ro": "Elohim, „Dumnezeu”: „precum îi spusese Dumnezeu” (21:2, 4), „râs mi-a făcut Dumnezeu” (21:6), „Dumnezeu a auzit” (21:17): Elohim e Cel ce hotărăște în toate."
    },
    {
     "t": ", aici, că nu mă vei "
@@ -3726,9 +4669,11 @@ window.CHAPTER_DATA = [
     "translit": "teshakor",
     "strong": "H8266",
     "pos": "verb",
-    "greek": "ἀδικήσεις",
+    "greek": "ἀδικήσειν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vei înșela."
+    "def_ro": "a cheat, adică fi untrue (de obicei in words).",
+    "greek_def_ro": "ἀδικέω (adikeo) — a nedreptăți („că nu-mi vei face nedreptate”).",
+    "dict_ro": "Sheqer, „minciună, înșelăciune”: „să nu mă înșeli” (21:23) — legământul cere sinceritate; Septuaginta spune ἀδικήσειν."
    },
    {
     "t": " pe mine sau pe "
@@ -3742,7 +4687,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὸ σπέρμα μου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "odrasla mea."
+    "def_ro": "urmaș, odraslă.",
+    "greek_def_ro": "σπέρμα (sperma) — sămânță; „seminția mea”.",
+    "dict_ro": "Nin, „urmaș, odraslă”: „pe odrasla mea” (21:23) — legământul cuprinde generațiile; cuvântul apare doar aici, la Iov 18:19 și Isaia 14:22."
    },
    {
     "t": " mea sau pe "
@@ -3756,7 +4703,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὸ ὄνομά μου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "nepoții mei."
+    "def_ro": "nepot, urmaș (la plural: „nepoții”).",
+    "greek_def_ro": "ὄνομα (onoma) — nume; „numele meu”.",
+    "dict_ro": "Neched, „nepot, urmaș”: „pe nepoții mei” (21:23) — Abimeleh cere ca legământul să dureze pentru urmașii lui."
    },
    {
     "t": " mei. După "
@@ -3770,7 +4719,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "κατὰ τὴν δικαιοσύνην",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "bunăvoința."
+    "def_ro": "kindness; de implicație (towards dumnezeu) piety; rarely (de opposition) reproof, sau (subject.) beauty.",
+    "greek_def_ro": "δικαιοσύνη (dikaiosyne) — dreptate; „după dreptatea”.",
+    "dict_ro": "Chesed, „bunăvoință”: „potrivit bunăvoinței pe care am arătat-o” (21:23) — legământul se întemeiază pe fapte de îndurare; Septuaginta spune δικαιοσύνη."
    },
    {
     "t": " pe care am "
@@ -3784,7 +4735,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐποίησα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "am făcut-o."
+    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "greek_def_ro": "ποιέω (poieo) — a face („am făcut”).",
+    "dict_ro": "Asah, „a face”: „a făcut DOMNUL Sarei” (21:1) și „râs mi-a făcut Dumnezeu” (21:6): lucrarea lui Dumnezeu e făcută în trupul Sarei."
    },
    {
     "t": " cu tine să "
@@ -3798,7 +4751,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ποιήσεις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "să faci."
+    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "greek_def_ro": "ποιέω (poieo) — a face; „vei face”.",
+    "dict_ro": "Asah, „a face”: „a făcut DOMNUL Sarei” (21:1) și „râs mi-a făcut Dumnezeu” (21:6): lucrarea lui Dumnezeu e făcută în trupul Sarei."
    },
    {
     "t": " [și tu] cu mine și cu "
@@ -3810,9 +4765,11 @@ window.CHAPTER_DATA = [
     "translit": "ha'arets",
     "strong": "H776",
     "pos": "substantiv, cu articol",
-    "greek": "τὴν γῆν",
+    "greek": "γῇ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țara."
+    "def_ro": "pământ (la large, sau partitively țară).",
+    "greek_def_ro": "γῆ (gē) — pământ, țară.",
+    "dict_ro": "Erets, „țară”: „din țara Egiptului” (21:21) și „în țara filistenilor” (21:32, 34): cele două țări în care sunt urmașii Agarei și ai lui Avraam."
    },
    {
     "t": " în care ai "
@@ -3826,7 +4783,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "παρῴκησας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ai locuit."
+    "def_ro": "propriu-zis, a întoarce aside de la road (pentru lodging sau orice alt purpose), adică sojourn (ca guest); de asemenea a shrink, fear (ca in strange loc); de asemenea a gather pentru hostility (ca afraid).",
+    "greek_def_ro": "παροικέω (paroikeo) — a locui ca străin („ai locuit ca străin”).",
+    "dict_ro": "Gur, „a locui ca străin”: „în țara în care ai locuit ca străin” (21:23, 34) — Avraam rămâne străin și în țara filistenilor."
    },
    {
     "t": " ca "
@@ -3866,12 +4825,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 47:29"
+   "Geneza 47:29",
+   "Geneza 14:22,23",
+   "Geneza 24:3",
+   "Geneza 26:28",
+   "Geneza 31:44,53",
+   "Deuteronomul 6:13"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Sau pe odrasla mea sau pe nepoții mei.» Până aici ajunge îndurarea tatălui pentru fiu.<br><br>«După bunăvoința pe care am făcut-o cu tine să faci și tu cu mine.» Căci ți-am zis: „Iată, țara mea este înaintea ta”."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și acum, jură-mi pe Cuvântul Domnului, aici, că nu mă vei înșela pe mine, nici pe fiul meu, nici pe fiul fiului meu; după bunătatea pe care am făcut-o cu tine să faci cu mine și cu țara în care ai locuit ca străin.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și acum jură-mi aici pe Cuvântul Domnului că nu vei fi necredincios față de mine și față de fiul meu și față de fiul fiului meu; după bunătatea pe care am făcut-o cu tine să faci și tu cu mine și cu țara în care ai locuit ca străin.”"
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -3894,6 +4866,14 @@ window.CHAPTER_DATA = [
     "text": "«Că nu mă vei înșela» (im tišqor li): sensul lui este „poate”, căci im și ulai au sensuri apropiate: poate îmi vei înșela iubirea ta azi sau mâine, tu sau fiii tăi sau fiii fiilor tăi. «Pe mine sau pe odrasla mea sau pe nepoții mei»: de aceea ți-am cerut jurământ, căci am știut că după jurământ nu vei înșela; și fiii tăi și fiii fiilor tăi se vor teme de jurământul tău și îl vor păzi.<br><br>«Pe mine sau pe odrasla mea sau pe nepoții mei» (li u-l-nini u-l-nekhdi): care sunt trei generații: nin este fiul, nekhed este fiul fiului; și tot așa a spus: „și voi stârpi din Babilon nume și rămășiță, odraslă și urmaș (nin wa-nekhed)”.<br><br>«După bunăvoința pe care am făcut-o»: că ți-am pus țara mea înainte, să locuiești cum vei voi, și te-am cinstit.<br><br>«Și cu țara în care ai locuit ca străin»: adică cu locuitorii ei după mine, să faci de asemenea bunăvoință și bine, tu și fiii tăi după tine, căci ai găsit în ea și în oamenii ei voia ta."
    },
    {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«După bunăvoința pe care am făcut-o cu tine.» Așa cum bunăvoința pe care am făcut-o cu tine acum, când tu ești străin și eu sunt stăpân al casei, să faci și tu cu mine când voi fi străin și tu stăpân al casei. „Și cu locuitorii țării în care ai locuit ca străin.”"
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Că nu mă vei înșela pe mine sau pe odrasla mea sau pe nepoții mei.» Abimelec știa că Avraam va moșteni țara și seminția lui îi va izgoni pe ai lui de acolo; de aceea a cerut legământ pentru el, pentru odrasla lui și pentru nepotul lui.<br><br>«După bunăvoința pe care am făcut-o cu tine.» Cât timp țara era în mâna mea, când ți-am spus „stai unde este bine în ochii tăi”.<br><br>«Să faci și tu cu mine.» Când va ajunge în mâna ta, ca să nu izgonești nici tu seminția mea."
+   },
+   {
     "author": "Talmudul Babilonian, Hulin, cap. 3",
     "text": "Din pricină că Abimelec l-a pus să jure pe Avraam: „că nu mă vei înșela pe mine sau pe odrasla mea sau pe nepoții mei”, a spus Sfântul, binecuvântat fie El: Să vină caftoriții și să-i scoată pe aviți, care sunt filisteni, și să vină Israel și să-i scoată pe caftoriți.",
     "src": {
@@ -3903,6 +4883,10 @@ window.CHAPTER_DATA = [
       "v": 25
      }
     }
+   },
+   {
+    "author": "Efrem Sirul, Comentariu la Facere",
+    "text": "După aceste lucruri, Abimeleh și Fichol, comandantul oștirii lui, au vorbit cu Avraam, căci văzuseră că Dumnezeu era cu el și îl ajutase în războaiele regilor și că îi făgăduise și țara canaaniților. Se temeau și ca nu cumva, după ce Avraam va nimici pe canaaniți, să nimicească și țara lor; de aceea s-au grăbit să facă legământ cu el, și cei doi au făcut legământ cu Avraam."
    }
   ]
  },
@@ -3921,7 +4905,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": " i a "
@@ -3935,7 +4921,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i a spus."
+    "def_ro": "a zice (folosit cu mare latitude).",
+    "dict_ro": "Amar, „a spune”: „Sara a spus lui Avraam” (21:10), „Dumnezeu a zis” (21:12), „îngerul a zis” (21:17): glasul care decide în capitol.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": ": „Voi "
@@ -3949,7 +4937,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ὀμοῦμαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "voi jura."
+    "def_ro": "a seven sine, adică swear (ca dacă de repeating declaration seven times).",
+    "greek_def_ro": "ὄμνυμι (omnymi) — a jura („voi jura”).",
+    "dict_ro": "Shava, „a jura”: „jură-mi” (21:23, 24) și „au jurat amândoi” (21:31) — verbul din care vine numele Beer-Șeva, „fântâna jurământului”; Septuaginta spune ὄμοσον."
    },
    {
     "t": ".”"
@@ -3977,9 +4967,20 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 21:23"
+   "Geneza 21:23",
+   "Geneza 14:13",
+   "Romani 12:18",
+   "Evrei 6:16"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avraam a zis: „Eu voi jura.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a zis Avraam: „Eu voi jura.”"
+   },
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Voi jura.» Eu voi face bunăvoința să jur; dar tu nu ai făcut cu mine bunăvoință, după cuvintele tale, căci slujitorii tăi m-au jefuit."
@@ -3987,6 +4988,18 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Voi jura» (anokhi iššaveaʿ): și să juri și tu de asemenea. Iššaveaʿ: alef-ul cu ḥiriq, iar cele mai multe alef-uri ale literelor eitan la nifal sunt cu segol, ca să nu se amestece la citire cu yod-ul din eitan."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Voi jura.» „Eu voi jura”: după ce ai căutat fața mea, dar tu nu ai făcut cu mine bunăvoință niciodată, căci slujitorii tăi mi-au furat fântânile pe care le-am săpat; și aceasta este „Avraam l-a mustrat” etc."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Voi jura.» Adică: nu-ți voi întoarce fața, deși robii tăi mi-au făcut ce nu se cuvine, precum spune „și Avraam l-a mustrat pe Abimelec” etc., iar Abimelec i-a spus: nu ai de ce să-mi întorci fața pentru aceasta, căci nu de la mine a fost și nu mi-ai spus și n-am auzit din gura altora."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Și Avraam a spus: Voi jura.» Explicația: am ce să-ți răspund la argumentul tău pe care l-ai spus „după bunăvoința” etc., doar că eu doresc lucrul – voi jura.<br><br>Încă va voi: fiindcă a vrut să-l mustre cu privire la fântâna de apă, precum se spune aproape, s-a temut că va socoti că îi răspunde ca să-i desfacă bunăvoința și ca să nu jure, de aceea a pus înainte să spună „eu voi jura” și după aceea l-a mustrat pentru etc.<br><br>Încă este cu putință să spună „eu voi jura”, explicația: despre sine, „nu-ți voi face rău” etc., și a intenționat să excludă obligația fiului lui.<br><br>Sau va voi că el va jura și va face să jure pe fiii lui pentru aceste trei generații, iar vocalizarea o dovedește."
    }
   ]
  },
@@ -4005,7 +5018,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": " i s-a "
@@ -4019,7 +5034,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἤλεγξεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i s-a plâns."
+    "def_ro": "a fi right (adică correct); reciprocal, a argue; causatively, a decide, justify sau convict.",
+    "greek_def_ro": "ἐλέγχω (elencho) — a mustra („a mustrat”).",
+    "dict_ro": "Yakach, „a mustra, a dovedi”: „Avraam a mustrat pe Abimeleh” (21:25) — plângerea pentru fântâna luată cu forța; Septuaginta spune ἤλεγξεν."
    },
    {
     "t": " lui "
@@ -4033,7 +5050,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τὸν Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Avimeleh."
+    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh (la acuzativ).",
+    "dict_ro": "Avimeleh (Avimelech), „tatăl meu e rege”: regele Gherarului (20:2), acum vine cu căpetenia oștirii să facă legământ cu Avraam (21:22–32)."
    },
    {
     "t": " în legătură cu o "
@@ -4047,7 +5066,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τῶν φρεάτων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fântână."
+    "def_ro": "pit; in special well.",
+    "greek_def_ro": "φρέαρ (phrear) — fântână (la genitiv plural: „ale fântânii”).",
+    "dict_ro": "Be’er, „fântână”: „o fântână de apă” (21:19, 25, 30–31) — apa vieții pentru Agar și Ismael; fântâna lui Avraam provoacă disputa cu Abimeleh (21:25)."
    },
    {
     "t": " de "
@@ -4061,7 +5082,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τοῦ ὕδατος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "apă."
+    "def_ro": "apa; figurat, juice; de euphemism, urine, semen.",
+    "dict_ro": "Mayim, „ape”: „apă” (21:14–15, 19, 25) — apa pe care Agar o pierde în pustie, apoi o găsește în fântână; în Orient, apa înseamnă viață.",
+    "greek_def_ro": "ὕδωρ (hydor) — apă (la genitiv: „a apei”)."
    },
    {
     "t": " pe care o "
@@ -4075,7 +5098,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀφείλαντο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "o capturaseră."
+    "def_ro": "a lua cu forța, a jefui.",
+    "greek_def_ro": "ἀφαιρέω (aphaireo) — a lua cu forța („au luat”).",
+    "dict_ro": "Gazal, „a lua cu forța”: „slujitorii lui Abimeleh o luaseră cu forța” (21:25) — fântâna luată; apa era viață în pustie."
    },
    {
     "t": " "
@@ -4089,7 +5114,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "οἱ παῖδες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "slujitorii."
+    "def_ro": "sclav, rob, slujitor.",
+    "greek_def_ro": "παῖς (pais) — slujitor (la plural: „slujitorii”).",
+    "dict_ro": "Eved, „slujitor”: „slujitorii lui Abimeleh” (21:25) luaseră fântâna; Septuaginta spune οἱ παῖδες."
    },
    {
     "t": " lui "
@@ -4103,7 +5130,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avimeleh."
+    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh, nume propriu.",
+    "dict_ro": "Avimeleh (Avimelech), „tatăl meu e rege”: regele Gherarului (20:2), acum vine cu căpetenia oștirii să facă legământ cu Avraam (21:22–32)."
    },
    {
     "t": "."
@@ -4131,12 +5160,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 26:20"
+   "Geneza 26:20",
+   "Geneza 26:15-22",
+   "Geneza 29:8",
+   "Exodul 2:15-17",
+   "Proverbe 17:10",
+   "Proverbe 25:9"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«I s-a plâns (ve-hokhiaḥ).» S-a certat cu el pentru aceasta."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avraam l-a mustrat pe Abimelec din pricina fântânii de apă pe care o luaseră cu sila slujitorii lui Abimelec."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Avraam l-a mustrat pe Abimelec din pricina fântânii de apă pe care i-o luaseră cu sila slujitorii lui Abimelec."
    },
    {
     "author": "Sforno (cca. 1475–1550)",
@@ -4163,7 +5205,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avimeleh."
+    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh, nume propriu.",
+    "dict_ro": "Avimeleh (Avimelech), „tatăl meu e rege”: regele Gherarului (20:2), acum vine cu căpetenia oștirii să facă legământ cu Avraam (21:22–32)."
    },
    {
     "t": " a "
@@ -4177,7 +5221,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a spus."
+    "def_ro": "a zice (folosit cu mare latitude).",
+    "dict_ro": "Amar, „a spune”: „Sara a spus lui Avraam” (21:10), „Dumnezeu a zis” (21:12), „îngerul a zis” (21:17): glasul care decide în capitol.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": ": „Nu "
@@ -4189,9 +5235,11 @@ window.CHAPTER_DATA = [
     "translit": "yada'ti",
     "strong": "H3045",
     "pos": "verb",
-    "greek": "ᾔδειν",
+    "greek": "ἔγνων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "știu."
+    "def_ro": "a cunoaste (propriu-zis, a ascertain de seeing); folosit in mare variety al senses, figurat, literal, euphemistically si inferentially (including observation, care, recognition; si causatively, instruction, designation, punishment, etc.).",
+    "greek_def_ro": "γινώσκω (ginosko) — a ști („am știut”).",
+    "dict_ro": "Yada, „a ști”: „nu știu cine a făcut acest lucru” (21:26) — Abimeleh se desparte de faptă; Septuaginta spune ἔγνων."
    },
    {
     "t": " cine a "
@@ -4205,7 +5253,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐποίησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a făcut."
+    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "greek_def_ro": "ποιέω (poieo) — a face.",
+    "dict_ro": "Asah, „a face”: „a făcut DOMNUL Sarei” (21:1) și „râs mi-a făcut Dumnezeu” (21:6): lucrarea lui Dumnezeu e făcută în trupul Sarei."
    },
    {
     "t": " "
@@ -4219,7 +5269,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸ πρᾶγμα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lucrul."
+    "def_ro": "cuvânt; de implicație, matter (ca spoken al) sau lucru; adverbially, cauză.",
+    "greek_def_ro": "πρᾶγμα (pragma) — lucru, faptă („lucrul”).",
+    "dict_ro": "Davar, „cuvânt, lucru”: „lucrul a fost foarte rău” (21:11) pentru Avraam — cuvântul Sarei îl doare; Septuaginta spune τὸ ῥῆμα."
    },
    {
     "t": " acesta și nici tu nu mi-ai "
@@ -4233,7 +5285,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπήγγειλάς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mi-ai spus."
+    "def_ro": "propriu-zis, a front, adică sta boldly afară opposite; de implicație (causatively), a manifest; figurat, a announce (totdeauna de cuvânt al mouth a unul present); in special, a expose, predict, explain, praise.",
+    "dict_ro": "Verbul nagad, la forma cauzativă, „a spune, a povesti”: Ham „a povestit” celor doi frați, afară, în loc să acopere.",
+    "greek_def_ro": "ἀπαγγέλλω (apangello) — a vesti, a spune („ai spus”)."
    },
    {
     "t": " și nici eu nu am "
@@ -4247,7 +5301,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἤκουσα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "am auzit."
+    "def_ro": "a auzi intelligently (adesea cu implicație al attention, obedience, etc.; causatively, a tell, etc.).",
+    "greek_def_ro": "ἤκουσαν (ekousan) — au auzit.",
+    "dict_ro": "Shama, „a auzi”: „oricine va auzi va râde împreună cu mine” (21:6) — veselia Sarei este veste pentru toți; Dumnezeu „a auzit” glasul copilului (21:17)."
    },
    {
     "t": " până astăzi.”"
@@ -4275,9 +5331,19 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 21:25"
+   "Geneza 21:25",
+   "Geneza 13:7",
+   "2 Împărați 5:20-24"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Abimelec a zis: „Nu știu cine a făcut lucrul acesta; nici tu nu mi-ai spus, nici eu n-am auzit decât azi.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a zis Abimelec: „Nu știu cine a făcut lucrul acesta; și nici tu nu mi-ai spus, și nici eu n-am auzit de la alții, decât astăzi de la tine.”"
+   },
    {
     "author": "Sforno (cca. 1475–1550)",
     "text": "«Nu știu cine a făcut lucrul acesta.» Nici acum, când mi-ai făcut cunoscut că jaful a fost făcut de slujitorii mei, nu știu să-mi dau seama cine dintre ei a făcut aceasta, căci niciunul dintre ei nu este bănuit la mine; căci, dacă ar fi fost bănuit, nu ar fi locuit în casa mea.<br><br>«Și nici tu nu mi-ai spus și nici eu nu am auzit.» Cât despre faptul că m-ai mustrat că, fiind rege, era datoria mea să-l îndrept pe cel asuprit: iată, regele nu face aceasta decât într-unul din două feluri: fie la glasul strigătului celui jefuit, fie la glasul mulțimii care face cunoscut un jaf care s-a făcut. Și iată, tu nu mi-ai spus, și nici eu nu am auzit glasul mulțimii despre aceasta."
@@ -4285,6 +5351,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și nici eu nu am auzit»: de vreme ce tu nu mi-ai spus lucrul, dacă este așa, nu este vină asupra mea."
+   },
+   {
+    "author": "Or HaChaim (1696–1743)",
+    "text": "«Și Abimelec a spus: Nu știu cine a făcut lucrul acesta etc. și nici eu etc.» Trebuie să știm de ce a revenit să spună „și nici eu”. Și se vede în precizie încă spusa „nu știu cine a făcut” etc., de ce nu a fost de ajuns să spună „nu știu”, iar lucrul este înțeles că se întoarce la cuvintele lui Avraam?<br><br>Însă intenția este că el știa că i-au jefuit lui Avraam fântâna de apă, dar nu a știut cine și cine sunt jefuitorii. Și de acum va spune Avraam că asupra lui era să caute cine și cine sunt făptuitorii răutății, de aceea a răspuns că și Avraam a făcut nepotrivit că nu a făcut cunoscut lucrul regelui, și stătea și aștepta primirea lui Avraam și atunci i-ar fi făcut dreptate. Și fiindcă Avraam nu l-a socotit, nici el nu a știut, și aceasta este spusa „și nici eu nu am auzit” etc., explicația: nu am căutat să știu și a rămas exclus din cunoaștere până astăzi, când mi-ai făcut cunoscut tu."
    }
   ]
  },
@@ -4303,7 +5373,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": " a "
@@ -4317,7 +5389,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔλαβεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a luat."
+    "def_ro": "a lua (in widest variety al applications).",
+    "dict_ro": "Laqach, „a lua”: „Avraam a luat pâine” (21:14) și „mama lui a luat soție” (21:21): verbul spune pregătirea plecării și a căsătoriei.",
+    "greek_def_ro": "λαμβάνω (lambano) — a lua."
    },
    {
     "t": " "
@@ -4331,7 +5405,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πρόβατα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "turme."
+    "def_ro": "collective nume pentru flock (al sheep sau goats); de asemenea figurat (al men).",
+    "dict_ro": "Tson, „turmă, oi și capre” — termen colectiv generic pentru micile animale domestice, folosit constant în toată Tora pentru economia pastorală a patriarhilor.",
+    "greek_def_ro": "πρόβατον (probaton) — oaie (la plural: „oi”)."
    },
    {
     "t": " și "
@@ -4345,7 +5421,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "μόσχους",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cirezi."
+    "def_ro": "beeve sau animal al ox family al either gender (ca folosit pentru plowing); collectively, herd.",
+    "greek_def_ro": "μόσχος (moschos) — vițel (la acuzativ plural).",
+    "dict_ro": "Baqar, „vite mari”: „oi și vite” (21:27) — darul lui Avraam către Abimeleh, ca semn al legământului."
    },
    {
     "t": " și i le-a "
@@ -4359,7 +5437,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔδωκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i le-a dat."
+    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "greek_def_ro": "δίδωμι (didomi) — a da („a dat”).",
+    "dict_ro": "Natan, „a da”: „le-a dat Agarei” (21:14) — Avraam îi dă pâinea și apa; el nu o lasă fără nimic; Septuaginta spune ἔδωκεν."
    },
    {
     "t": " lui "
@@ -4373,7 +5453,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Avimeleh."
+    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh (la dativ).",
+    "dict_ro": "Avimeleh (Avimelech), „tatăl meu e rege”: regele Gherarului (20:2), acum vine cu căpetenia oștirii să facă legământ cu Avraam (21:22–32)."
    },
    {
     "t": " și cei doi au "
@@ -4387,7 +5469,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "διέθεντο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au făcut."
+    "def_ro": "a cut (off, jos sau asunder); de implicație, a nimici sau consume; in special, a legământ (adică face alliance sau bargain, originally de cutting carne si passing între pieces).",
+    "greek_def_ro": "διατίθεμαι (diatithemai) — a încheia (legământ) („au încheiat”).",
+    "dict_ro": "Karat, „a tăia”: „au făcut (tăiat) legământ” (21:27, 32) — formula legământului, ca la 15:18; Septuaginta spune διέθεντο."
    },
    {
     "t": " un "
@@ -4401,7 +5485,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "διαθήκην",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "legământ."
+    "def_ro": "compact (pentru ca facut de passing între pieces al carne).",
+    "greek_def_ro": "διαθήκη (diatheke) — legământ (la acuzativ).",
+    "dict_ro": "Berit, „legământ”: „au făcut amândoi legământ” (21:27, 32) — legământul de pace între Avraam și Abimeleh, pentru fântână."
    },
    {
     "t": "."
@@ -4429,9 +5515,22 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 26:31"
+   "Geneza 26:31",
+   "Geneza 14:22,23",
+   "Proverbe 17:8",
+   "Proverbe 18:16,24",
+   "Proverbe 21:14",
+   "Isaia 32:8"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avraam a luat oi și boi și i-a dat lui Abimelec, și amândoi au încheiat un legământ."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Avraam a luat oi și boi și i-a dat lui Abimelec, și au încheiat amândoi un legământ."
+   },
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și Avraam a luat»: aflăm că a luat acolo turme și cirezi și i le-a dat lui Abimelec pentru întărirea legământului; și cu acel dar și cu jurământul au încheiat legământul între ei amândoi, pentru ei și pentru fiii lor."
@@ -4453,7 +5552,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": " a "
@@ -4467,7 +5568,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔστησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a pus deoparte."
+    "def_ro": "a station, in various applications (literal sau figurat).",
+    "greek_def_ro": "ἵστημι (histemi) — a așeza, a ridica („a așezat”).",
+    "dict_ro": "Natsav, „a așeza”: „Avraam a pus deoparte șapte mielușele” (21:28) — așezarea mielușelor ca martor."
    },
    {
     "t": " "
@@ -4481,7 +5584,9 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑπτὰ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "șapte."
+    "def_ro": "seven (ca sacred full unul); de asemenea (adverbially) seven times; de implicație, week; de extension, indefinite number.",
+    "greek_def_ro": "ἑπτά (hepta) — șapte.",
+    "dict_ro": "Sheva, „șapte”: „șapte mielușele” (21:28–30) — numărul care dă numele Beer-Șeva; Septuaginta spune ἑπτά."
    },
    {
     "t": " "
@@ -4495,7 +5600,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀμνάδας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "oi."
+    "def_ro": "mielușea, oaie tânără (la plural: „oi tinere”).",
+    "greek_def_ro": "ἀμνάς (amnas) — mielușea (la acuzativ plural).",
+    "dict_ro": "Kivsah, „mielușea”: „șapte mielușele” (21:28–30) — daruri care mărturisesc cine a săpat fântâna; Septuaginta spune ἀμνάδες."
    },
    {
     "t": " din "
@@ -4507,9 +5614,11 @@ window.CHAPTER_DATA = [
     "translit": "hatson",
     "strong": "H6629",
     "pos": "substantiv, cu articol",
-    "greek": "τῶν προβάτων",
+    "greek": "προβάτων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "turmă."
+    "def_ro": "collective nume pentru flock (al sheep sau goats); de asemenea figurat (al men).",
+    "dict_ro": "Tson, „turmă, oi și capre” — termen colectiv generic pentru micile animale domestice, folosit constant în toată Tora pentru economia pastorală a patriarhilor.",
+    "greek_def_ro": "πρόβατον (probaton) — oaie, turmă de oi."
    },
    {
     "t": "."
@@ -4541,12 +5650,35 @@ window.CHAPTER_DATA = [
   ],
   "commentaries": [
    {
+    "author": "Targum Onkelos",
+    "text": "Și Avraam a pus deoparte șapte mielușele din turmă."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și Avraam a pus deoparte șapte mielușele și le-a despărțit de boi."
+   },
+   {
     "author": "Radak (cca. 1160–1235)",
     "text": "«A pus deoparte»: din turmele și cirezile pe care i le-a dat a luat șapte oi și le-a pus deoparte, singure; și a luat șapte pentru că cuvântul acestui număr și cuvântul jurământului sunt unul, și pentru ca să fie mărturie despre cele șapte oi și despre jurământ deodată, pentru generațiile viitoare; căci prin cele șapte oi și prin jurământ au încheiat legământul; de aceea a numit locul Beer-Șeba."
    },
    {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Și Avraam a pus deoparte șapte oi din turmă.» „Șapte” etc.: limbajul „șeva” (șapte) cade pe limbajul „șevuʿah” (jurământ)."
+   },
+   {
     "author": "Zohar, Addenda, volumul III 8:19",
     "text": "Și când era luminat în acele trei, a vrut să urce în acele șapte, în taina a ce este scris (Geneza 21:28): „și Avraham a pus deoparte șapte mielușele din turmă”. Și prin această taină i-a făcut aluzie lui Avimeleh că fiii lui nu vor stăpâni asupra lor până ce nu se vor desăvârși acei șapte drepți ai adevărului în Israel, față de acele șapte trepte de sus."
+   },
+   {
+    "author": "Zohar Chadash, Toldot 23",
+    "text": "Și deoarece se lumina în acele trei, a voit să urce în acele șapte, în taina a ceea ce este scris (Bereșit 21:28): «și a așezat Avraham cele șapte mielușele ale turmei». Și această taină a semnat lui Avimelekh, că nu vor stăpâni asupra lor fiii săi până se vor desăvârși acei șapte tzadikim ai adevărului în Israel, împotriva acelor șapte trepte de sus.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 8,
+      "v": 23
+     }
+    }
    }
   ]
  },
@@ -4565,7 +5697,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avimeleh."
+    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh, nume propriu.",
+    "dict_ro": "Avimeleh (Avimelech), „tatăl meu e rege”: regele Gherarului (20:2), acum vine cu căpetenia oștirii să facă legământ cu Avraam (21:22–32)."
    },
    {
     "t": " i-a "
@@ -4579,7 +5713,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "i-a spus."
+    "def_ro": "a zice (folosit cu mare latitude).",
+    "dict_ro": "Amar, „a spune”: „Sara a spus lui Avraam” (21:10), „Dumnezeu a zis” (21:12), „îngerul a zis” (21:17): glasul care decide în capitol.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": " lui "
@@ -4593,7 +5729,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lui Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu (la dativ: „lui Avraam”).",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": ": „Ce-i cu aceste "
@@ -4607,7 +5745,9 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑπτὰ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "șapte."
+    "def_ro": "seven (ca sacred full unul); de asemenea (adverbially) seven times; de implicație, week; de extension, indefinite number.",
+    "greek_def_ro": "ἑπτά (hepta) — șapte.",
+    "dict_ro": "Sheva, „șapte”: „șapte mielușele” (21:28–30) — numărul care dă numele Beer-Șeva; Septuaginta spune ἑπτά."
    },
    {
     "t": " "
@@ -4619,9 +5759,11 @@ window.CHAPTER_DATA = [
     "translit": "kevasot",
     "strong": "H3535",
     "pos": "substantiv",
-    "greek": "ἀμνάδας",
+    "greek": "ἀμνάδες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "oi."
+    "def_ro": "mielușea, oaie tânără (la plural: „oi tinere”).",
+    "greek_def_ro": "ἀμνάς (amnas) — mielușea (la plural).",
+    "dict_ro": "Kivsah, „mielușea”: „șapte mielușele” (21:28–30) — daruri care mărturisesc cine a săpat fântâna; Septuaginta spune ἀμνάδες."
    },
    {
     "t": " pe care le-ai "
@@ -4635,7 +5777,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔστησας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "le-ai pus deoparte."
+    "def_ro": "a station, in various applications (literal sau figurat).",
+    "greek_def_ro": "ἵστημι (histemi) — a așeza („ai așezat”).",
+    "dict_ro": "Natsav, „a așeza”: „Avraam a pus deoparte șapte mielușele” (21:28) — așezarea mielușelor ca martor."
    },
    {
     "t": "?”"
@@ -4663,9 +5807,20 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 21:28"
+   "Geneza 21:28",
+   "Geneza 33:8",
+   "Exodul 12:26",
+   "1 Samuel 15:14"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Abimelec i-a zis lui Avraam: „Ce sunt aceste șapte mielușele pe care le-ai pus deoparte?”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a zis Abimelec către Avraam: „Ce sunt aceste șapte mielușele pe care le-ai pus deoparte?”"
+   },
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Ce-i cu (mah hennah).» Formă de feminin plural.<br><br>«Deoparte (le-vaddanah).» Cu he, și înseamnă le-vaddah („singure”)."
@@ -4687,7 +5842,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a spus."
+    "def_ro": "a zice (folosit cu mare latitude).",
+    "dict_ro": "Amar, „a spune”: „Sara a spus lui Avraam” (21:10), „Dumnezeu a zis” (21:12), „îngerul a zis” (21:17): glasul care decide în capitol.",
+    "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
    {
     "t": ": „Căci cele "
@@ -4701,7 +5858,9 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑπτὰ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "șapte."
+    "def_ro": "seven (ca sacred full unul); de asemenea (adverbially) seven times; de implicație, week; de extension, indefinite number.",
+    "greek_def_ro": "ἑπτά (hepta) — șapte.",
+    "dict_ro": "Sheva, „șapte”: „șapte mielușele” (21:28–30) — numărul care dă numele Beer-Șeva; Septuaginta spune ἑπτά."
    },
    {
     "t": " "
@@ -4715,7 +5874,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀμνάδας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "oi."
+    "def_ro": "mielușea, oaie tânără (la plural: „oi tinere”).",
+    "greek_def_ro": "ἀμνάς (amnas) — mielușea (la acuzativ plural).",
+    "dict_ro": "Kivsah, „mielușea”: „șapte mielușele” (21:28–30) — daruri care mărturisesc cine a săpat fântâna; Septuaginta spune ἀμνάδες."
    },
    {
     "t": " [vreau] să le "
@@ -4729,7 +5890,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "λήμψῃ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "le iei."
+    "def_ro": "a lua (in widest variety al applications).",
+    "dict_ro": "Laqach, „a lua”: „Avraam a luat pâine” (21:14) și „mama lui a luat soție” (21:21): verbul spune pregătirea plecării și a căsătoriei.",
+    "greek_def_ro": "λαμβάνω (lambano) — a lua („vei lua”)."
    },
    {
     "t": " din "
@@ -4741,9 +5904,11 @@ window.CHAPTER_DATA = [
     "translit": "miyadi",
     "strong": "H3027",
     "pos": "substantiv cu sufix",
-    "greek": "ἐκ τῆς χειρός μου",
+    "greek": "ἐμοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mâna mea."
+    "def_ro": "mână ( open unul [indicating power, means, direction, etc.], in distinction de la 3709, closed unul); folosit (ca substantiv, adverb, etc.) in mare variety al applications, both literal si figurat, both proximate si remote [as follows].",
+    "dict_ro": "Yad, „mână”: „ține-l cu mâna ta” (21:18) — Agar să-l sprijine pe Ismael; mâna care ține cu putere, nu doar apucă.",
+    "greek_def_ro": "ἐγώ (ego) — eu (la genitiv: „de la mine”)."
    },
    {
     "t": " mea, ca să îmi fie ca "
@@ -4757,7 +5922,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "μαρτύριον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mărturie."
+    "def_ro": "mărturie, dovadă.",
+    "greek_def_ro": "μαρτύριον (martyrion) — mărturie.",
+    "dict_ro": "Edah, „mărturie”: „să-mi fie spre mărturie” (21:30) — mielușelele dovedesc dreptul lui Avraam asupra fântânii."
    },
    {
     "t": " că eu sunt cel care am "
@@ -4771,7 +5938,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ὤρυξα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "am săpat."
+    "def_ro": "propriu-zis, a pry in; de implicație, a delve, a explore.",
+    "greek_def_ro": "ὀρύσσω (orysso) — a săpa („am săpat”).",
+    "dict_ro": "Chafar, „a săpa”: „că eu am săpat fântâna” (21:30) — dreptul lui Avraam; Septuaginta spune ὤρυξα."
    },
    {
     "t": " această "
@@ -4785,7 +5954,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸ φρέαρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fântână."
+    "def_ro": "pit; in special well.",
+    "greek_def_ro": "φρέαρ (phrear) — fântână („fântâna”).",
+    "dict_ro": "Be’er, „fântână”: „o fântână de apă” (21:19, 25, 30–31) — apa vieții pentru Agar și Ismael; fântâna lui Avraam provoacă disputa cu Abimeleh (21:25)."
    },
    {
     "t": ".”"
@@ -4813,12 +5984,23 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 21:31"
+   "Geneza 21:31",
+   "Geneza 31:44-48,52",
+   "Iosua 22:27,28",
+   "Iosua 24:27"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Ca să îmi fie.» Aceasta.<br><br>«Ca mărturie (le-ʿedah).» Cuvânt pentru mărturie, la feminin, ca în „și martor (ve-ʿedah) este stâlpul”.<br><br>«Că eu sunt cel care am săpat această fântână.» Păstorii lui Abimelec se certau pentru ea și ziceau: Noi am săpat-o. Au zis între ei: Oricine se va arăta la fântână și apele vor urca în întâmpinarea lui, a lui este. Și au urcat în întâmpinarea lui Avraam."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și el a zis: „Să primești din mâna mea cele șapte mielușele, ca să-mi fie mărturie că eu am săpat fântâna aceasta.”"
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a zis: „Aceste șapte mielușele să le primești din mâna mea, ca să-mi fie mărturie că eu am săpat fântâna aceasta.”"
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -4831,6 +6013,14 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Ca să îmi fie ca mărturie»: să-mi fie această turmă pe care o dau drept mărturie."
+   },
+   {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«Căci cele șapte oi vreau să le iei din mâna mea.» Sfântul, binecuvântat fie, i-a spus: Tu i-ai dat șapte oi; pe viața ta, Eu amân bucuria fiilor tăi șapte generații, iar ei vor strica șapte locașuri ale fiilor tăi: Cortul Întâlnirii, Ghilgal, Silo, Nob, Gabaon, și Casa Veșniciilor, de două ori. Și șapte luni va întârzia chivotul Meu în casa din câmpul filistenilor. Și aceasta este ceea ce s-a spus în Psalmi: „Iar dușmanii mei sunt vii, sunt puternici”; David a spus: Ceea ce ai dat lui Abimelec pentru trei generații, a dat lui Avraam pentru șapte generații, căci Moise este al șaptelea de la Avraam, și încă Faraon, nepotul lui Abimelec, este în viață."
+   },
+   {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Căci am săpat această fântână.» Și să nu mi-o fure."
    }
   ]
  },
@@ -4847,9 +6037,11 @@ window.CHAPTER_DATA = [
     "translit": "lamakom",
     "strong": "H4725",
     "pos": "substantiv, cu prefix",
-    "greek": "τόπος",
+    "greek": "τόπου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "locul."
+    "def_ro": "propriu-zis, standing, adică spot; dar folosit widely al locality (general sau specific); de asemenea (figurat) al condition (al trup sau mind).",
+    "greek_def_ro": "τόπος (topos) — loc (la genitiv).",
+    "dict_ro": "Maqom, „loc”, arată propriu-zis locul unde cineva stă, dar ajunge folosit și pentru starea trupului sau a minții. În literatura rabinică târzie, „Ha-Maqom” („Locul”) devine chiar un nume dat lui Dumnezeu — Cel care e „locul lumii”, dar pe care lumea nu-l cuprinde."
    },
    {
     "t": " acela s-a "
@@ -4861,9 +6053,11 @@ window.CHAPTER_DATA = [
     "translit": "kara",
     "strong": "H7121",
     "pos": "verb",
-    "greek": "ἐκάλεσεν",
+    "greek": "ἐπωνόμασεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a numit."
+    "def_ro": "a call afară a (adică propriu-zis, address de nume, dar folosit in wide variety al applications).",
+    "greek_def_ro": "ἐπονομάζω (eponomazo) — a pune nume, a numi.",
+    "dict_ro": "Qara, „a chema”: „a pus numele Isaac” (21:3) și „a numit locul Beer-Șeva” (21:31); numele se pun după întâmplare, ca amintire."
    },
    {
     "t": " "
@@ -4877,7 +6071,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Φρέαρ ὁρκισμοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Beer Șeva."
+    "def_ro": "beer-Sheba, loc in Palestine.",
+    "greek_def_ro": "φρέαρ (phrear), ὁρκισμός (horkismos) — „Fântâna jurământului”.",
+    "dict_ro": "Beer-Șeva (Be’er Sheva), „fântâna jurământului” sau „a celor șapte” (Easton): loc în sudul Canaanului; aici rătăcește Agar (21:14) și aici Avraam face legământ cu Abimeleh (21:31–33)."
    },
    {
     "t": ", căci acolo au "
@@ -4891,7 +6087,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ὤμοσαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au jurat."
+    "def_ro": "a seven sine, adică swear (ca dacă de repeating declaration seven times).",
+    "greek_def_ro": "ὄμνυμι (omnymi) — a jura („au jurat”).",
+    "dict_ro": "Shava, „a jura”: „jură-mi” (21:23, 24) și „au jurat amândoi” (21:31) — verbul din care vine numele Beer-Șeva, „fântâna jurământului”; Septuaginta spune ὄμοσον."
    },
    {
     "t": " cei doi."
@@ -4919,16 +6117,44 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 26:33"
+   "Geneza 26:33",
+   "Geneza 21:14",
+   "Geneza 26:23",
+   "Iosua 15:28",
+   "2 Samuel 17:11",
+   "1 Împărați 4:25"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "De aceea a numit locul acela Beer-Șeba, căci acolo au jurat amândoi."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "De aceea a numit fântâna aceea „Fântâna celor șapte mielușele”, căci acolo au jurat amândoi."
+   },
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«De aceea etc., căci acolo au jurat cei doi»: lipsește vav-ul de serviciu, ca „soare, lună”, „Ruben, Simeon” și cele asemenea lor; adică: „de aceea” – pentru cele șapte oi – „și căci acolo au jurat cei doi”; pentru aceste două lucruri au numit locul acela Șeba, iar Beer s-a alăturat lui Șeba pentru fântâna pe care o săpase acolo Avraam. Și acesta a fost un mare semn pentru moștenirea țării: că era primit tot ce spunea și numea locului, și a fost așa."
    },
    {
+    "author": "Chizkuni (sec. XIII)",
+    "text": "«De aceea, locul acela s-a numit Beer-Șeba.» Doar locul s-a numit Beer-Șeba în zilele lui; dar cetatea nu s-a numit Beer-Șeba până în zilele lui Isaac. Ḥazaq: Cum a făcut Avraam asociere cu Abimelec, căci au spus învățătorii noștri că nu se face, pentru că încalcă „înaintea orbului să nu pui piedică”."
+   },
+   {
     "author": "Zohar, Addenda, volumul III 8:25",
     "text": "Vino și vezi: când Sfântul, binecuvântat fie El, a creat lumea, a creat-o în Judecată. Când a văzut că nu dăinuie, a asociat cu ea Ḥesed. Aceasta este ce este scris (Geneza 2:4): „când au fost create (be-hibaram), în ziua în care Domnul Dumnezeu a făcut”; și au stabilit-o: prin Avraham (be-Avraham) a dăinuit lumea. De aceea această fântână, casa lumii, după numele lui s-a numit. Aceasta este ce este scris (ibid. 21): „de aceea a numit acel loc Beer Șeva”. Deși această fântână s-a lipit de Yițḥak, cum este scris (ibid. 26): „și a numit-o Șiveah”, numele ei este Beer Șeva — partea lui Avraham — și nu Beer Șiveah. Aceasta este ce este scris (Cântarea cântărilor 2:6): „și dreapta lui mă îmbrățișează”."
+   },
+   {
+    "author": "Cartea Jubileelor 16 — comparație",
+    "text": "Și la mijlocul lunii a cincea s-a mutat de acolo, și a locuit la Fântâna Jurământului.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 16,
+      "v": 11
+     }
+    }
    }
   ]
  },
@@ -4947,7 +6173,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "διέθεντο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "au făcut."
+    "def_ro": "a cut (off, jos sau asunder); de implicație, a nimici sau consume; in special, a legământ (adică face alliance sau bargain, originally de cutting carne si passing între pieces).",
+    "greek_def_ro": "διατίθεμαι (diatithemai) — a încheia (legământ) („au încheiat”).",
+    "dict_ro": "Karat, „a tăia”: „au făcut (tăiat) legământ” (21:27, 32) — formula legământului, ca la 15:18; Septuaginta spune διέθεντο."
    },
    {
     "t": " un "
@@ -4961,7 +6189,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "διαθήκην",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "legământ."
+    "def_ro": "compact (pentru ca facut de passing între pieces al carne).",
+    "greek_def_ro": "διαθήκη (diatheke) — legământ (la acuzativ).",
+    "dict_ro": "Berit, „legământ”: „au făcut amândoi legământ” (21:27, 32) — legământul de pace între Avraam și Abimeleh, pentru fântână."
    },
    {
     "t": " în "
@@ -4973,9 +6203,11 @@ window.CHAPTER_DATA = [
     "translit": "biv'er Shava",
     "strong": "H884",
     "pos": "nume propriu",
-    "greek": "ἐπὶ τῷ φρέατι τοῦ ὅρκου",
+    "greek": "φρέατι τοῦ ὅρκου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Beer-Șeva."
+    "def_ro": "beer-Sheba, loc in Palestine.",
+    "greek_def_ro": "φρέαρ (phrear), ὅρκος (horkos) — „la fântâna jurământului”.",
+    "dict_ro": "Beer-Șeva (Be’er Sheva), „fântâna jurământului” sau „a celor șapte” (Easton): loc în sudul Canaanului; aici rătăcește Agar (21:14) și aici Avraam face legământ cu Abimeleh (21:31–33)."
    },
    {
     "t": ". Și "
@@ -4989,7 +6221,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avimeleh."
+    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh, nume propriu.",
+    "dict_ro": "Avimeleh (Avimelech), „tatăl meu e rege”: regele Gherarului (20:2), acum vine cu căpetenia oștirii să facă legământ cu Avraam (21:22–32)."
    },
    {
     "t": " s-a "
@@ -5001,9 +6235,11 @@ window.CHAPTER_DATA = [
     "translit": "vayakam",
     "strong": "H6965",
     "pos": "verb",
-    "greek": "ἀναστὰς",
+    "greek": "ἀνέστη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-a ridicat."
+    "def_ro": "a rise (in various applications, literal, figurative, intensive si causative).",
+    "greek_def_ro": "ἀνίστημι (anistēmi) — a se ridica.",
+    "dict_ro": "Qum, „a se ridica”: „ridică-te, ia copilul” (21:18) — porunca îngerului: nu stai lângă moarte."
    },
    {
     "t": " cu "
@@ -5017,7 +6253,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Οχοζαθ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Pihol."
+    "def_ro": "Pihol — căpetenia oștirii lui Abimeleh.",
+    "greek_def_ro": "Οχοζαθ (Ochozath) — Ohozat, nume propriu.",
+    "dict_ro": "Pihol (Pikhol), „gura tuturor” sau „gura puternică” (Hitchcock: „gura tuturor”): căpetenia oștirii lui Abimeleh, care vine cu regele la Avraam și ia parte la legământ (21:22, 32)."
    },
    {
     "t": ", "
@@ -5031,7 +6269,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "ἀρχιστράτηγος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "căpetenia."
+    "def_ro": "head persoana (al orice rank sau class).",
+    "greek_def_ro": "ἀρχιστράτηγος (archistrategos) — comandant al oștirii.",
+    "dict_ro": "Sar, „căpetenie, comandant”: „căpetenia oștirii lui” (21:22, 32) — Pihol; Septuaginta spune ἀρχιστράτηγος."
    },
    {
     "t": " "
@@ -5045,7 +6285,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τῆς δυνάμεως αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "oștirii lui."
+    "def_ro": "mass al persons (sau figurat, lucruri), in special reg. organized pentru război ( oaste); de implicație, campaign, literal sau figurat (in special, hardship, worship).",
+    "greek_def_ro": "δύναμις (dynamis) — oaste, putere; „a oștirii lui”.",
+    "dict_ro": "Tsava, „oștire”: „căpetenia oștirii” (21:22, 32); Septuaginta spune τῆς δυνάμεως αὐτοῦ."
    },
    {
     "t": " sale, și s-au "
@@ -5057,9 +6299,11 @@ window.CHAPTER_DATA = [
     "translit": "vayashuvu",
     "strong": "H7725",
     "pos": "verb",
-    "greek": "ἀπέστρεψαν",
+    "greek": "ἐπέστρεψαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "s-au întors."
+    "def_ro": "a întoarce înapoi (de aici, departe) transitively sau intransitively, literal sau figurat (nu necessarily cu idea al return a starting point); generally a retreat; adesea adverbial, again.",
+    "greek_def_ro": "ἐπιστρέφω (epistrepho) — a se întoarce („s-au întors”).",
+    "dict_ro": "Shuv, „a se întoarce”: „Abimeleh s-a întors în țara filistenilor” (21:32) — cei doi se despart în pace."
    },
    {
     "t": " în "
@@ -5073,7 +6317,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "γῆν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țara."
+    "def_ro": "pământ (la large, sau partitively țară).",
+    "greek_def_ro": "γῆ (ge) — pământ, țară.",
+    "dict_ro": "Erets, „țară”: „din țara Egiptului” (21:21) și „în țara filistenilor” (21:32, 34): cele două țări în care sunt urmașii Agarei și ai lui Avraam."
    },
    {
     "t": " "
@@ -5087,7 +6333,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῶν Φυλιστιιμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "filistenilor."
+    "def_ro": "pelishtite sau inhabitant al Pelesheth.",
+    "greek_def_ro": "Φυλιστιιμ (Phylistiim) — filistenii; „al filistenilor”.",
+    "dict_ro": "Pelishtim, „filistenii” (Easton): neam de pe coasta Canaanului (10:14); „țara filistenilor” (21:32, 34) e Gherarul și împrejurimile lui."
    },
    {
     "t": "."
@@ -5115,9 +6363,22 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 21:34"
+   "Geneza 21:34",
+   "Geneza 21:27",
+   "Geneza 14:13",
+   "Geneza 31:53",
+   "1 Samuel 18:3",
+   "Geneza 10:14"
   ],
   "commentaries": [
+   {
+    "author": "Targum Onkelos",
+    "text": "Și au încheiat un legământ la Beer-Șeba; și Abimelec s-a ridicat, și Picol, căpetenia oștirii lui, și s-au întors în țara filistenilor."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și au încheiat legământ la Fântâna celor șapte mielușele; și s-au ridicat Abimelec și Picol, căpetenia oștirii lui, și s-au întors în țara filistenilor."
+   },
    {
     "author": "Ramban / Nahmanide (1194–1270)",
     "text": "«și s-au întors în țara filistenilor» Înțelesul este: s-au întors la cetatea lor, care este în țara filistenilor; căci erau deja în țara filistenilor, dar ei locuiesc în Gherar, care este cetatea de scaun a regelui, iar el locuiește la Beer-Șeba, care este în țara filistenilor, în valea Gherarului."
@@ -5147,7 +6408,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐφύτευσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a sădit."
+    "def_ro": "propriu-zis, a strike in, adică fix; in special, a plant (literal sau figurat).",
+    "greek_def_ro": "φυτεύω (phyteuo) — a sădi.",
+    "dict_ro": "Nata, „a sădi”: „Avraam a sădit un eșel” (21:33) — gest de așezare durabilă, la Beer-Șeva."
    },
    {
     "t": " un "
@@ -5161,7 +6424,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἄρουραν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "eșel — termen ebraic cu sens incert."
+    "def_ro": "eșel — termen ebraic cu sens incert.",
+    "greek_def_ro": "ἄρουρα (aroura) — ogor, câmp arat; „un ogor”.",
+    "dict_ro": "Eshel, „tamarisc”: un copac cu umbră, sădit de Avraam la Beer-Șeva (21:33); mai târziu Saul va ședea sub un eșel (1 Samuel 22:6)."
    },
    {
     "t": " în "
@@ -5175,7 +6440,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ φρέατι τοῦ ὅρκου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Beer-Șeva."
+    "def_ro": "beer-Sheba, loc in Palestine.",
+    "greek_def_ro": "φρέαρ (phrear), ὅρκος (horkos) — „la fântâna jurământului”.",
+    "dict_ro": "Beer-Șeva (Be’er Sheva), „fântâna jurământului” sau „a celor șapte” (Easton): loc în sudul Canaanului; aici rătăcește Agar (21:14) și aici Avraam face legământ cu Abimeleh (21:31–33)."
    },
    {
     "t": " și a "
@@ -5189,7 +6456,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπεκαλέσατο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a chemat."
+    "def_ro": "a call afară a (adică propriu-zis, address de nume, dar folosit in wide variety al applications).",
+    "greek_def_ro": "ἐπικαλέω (epikaleo) — a chema; la mediu, „a chemat (în ajutor)”.",
+    "dict_ro": "Qara, „a chema”: „a pus numele Isaac” (21:3) și „a numit locul Beer-Șeva” (21:31); numele se pun după întâmplare, ca amintire."
    },
    {
     "t": " acolo "
@@ -5203,7 +6472,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὸ ὄνομα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "numele."
+    "def_ro": "appellation, ca mark sau memorial al individuality; de implicație honor, authority, character.",
+    "greek_def_ro": "ὄνομα (onoma) — nume.",
+    "dict_ro": "Shem, „nume”: „numele fiului” (21:3) — Isaac; Avraam „a chemat numele DOMNULUI” (21:33). Numele leagă întâmplarea de Dumnezeu."
    },
    {
     "t": " "
@@ -5217,7 +6488,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "Κυρίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "DOMNULUI."
+    "def_ro": "yHWH, Numele propriu al Dumnezeului lui Israel.",
+    "greek_def_ro": "κύριος (kyrios) — Domn (la genitiv: „al Domnului”).",
+    "dict_ro": "Tetragrama YHVH, „DOMNUL”: „DOMNUL a cercetat pe Sara” (21:1) și „a făcut Sarei cum spusese”; la sfârșit, Avraam „a chemat Numele DOMNULUI, Dumnezeul Veșnic” (21:33). Septuaginta spune Κύριος."
    },
    {
     "t": ", "
@@ -5231,7 +6504,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "Θεὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Dumnezeului."
+    "def_ro": "strength; ca adjective, puternic; in special Almighty (dar folosit de asemenea al orice deity).",
+    "greek_def_ro": "θεός (theos) — Dumnezeu.",
+    "dict_ro": "El, „Dumnezeu”: „El Olam, Dumnezeul Veșnic” (21:33) — un alt nume al lui Dumnezeu, legat de Beer-Șeva."
    },
    {
     "t": " "
@@ -5245,7 +6520,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "αἰώνιος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "lumii."
+    "def_ro": "propriu-zis, concealed, adică vanishing point; generally, timp afară al mind (past sau future), adică (practically) eternity; frequentatively, adverbial (in special cu prepositional prefix) totdeauna.",
+    "greek_def_ro": "αἰώνιος (aionios) — veșnic.",
+    "dict_ro": "Olam, „veșnicie”: „Dumnezeul Veșnic” (21:33); același cuvânt din „legământ veșnic” (17:7)."
    },
    {
     "t": "."
@@ -5273,12 +6550,25 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 26:23-25"
+   "Geneza 26:23-25",
+   "Amos 8:14",
+   "Deuteronomul 16:21",
+   "Geneza 4:26",
+   "Geneza 12:8",
+   "Geneza 26:23,25,33"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Un eșel.» Rav și Șemuel: unul a zis: o livadă, ca să aducă din ea fructe pentru oaspeți la masă; și celălalt a zis: un han pentru găzduire, și în el tot felul de fructe. Și am găsit cuvântul „a sădi” la corturi, cum s-a spus: „și va sădi corturile palatului său”.<br><br>«Și a chemat acolo etc.» Prin acel eșel, numele Sfântului, binecuvântat fie El, a fost chemat Dumnezeu pentru toată lumea. După ce mâncau și beau, le zicea: Binecuvântați-L pe Acela din al cărui bun ați mâncat. Credeți că din al meu ați mâncat? Din al Celui care a zis și a fost lumea ați mâncat."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și a sădit un sad la Beer-Șeba și s-a rugat acolo în numele Domnului, Dumnezeul lumii."
+   },
+   {
+    "author": "Targum Ionatan",
+    "text": "Și a sădit o livadă la Fântâna celor șapte mielușele și a pregătit în ea mâncare și băutură pentru trecători și pentru cei care veneau; și le vestea acolo: „Mulțumiți și credeți în Numele Cuvântului Domnului, Dumnezeul lumii.”"
    },
    {
     "author": "Ibn Ezra (1089–1167)",
@@ -5301,6 +6591,10 @@ window.CHAPTER_DATA = [
     "text": "«A sădit un eșel»: a sădit acolo un sad lângă fântână, ca să-i fie mărturie că fântâna i-a rămas fără ceartă. Eșel: expresie de sad; și tot așa „sub eșel, în Rama”; iar în cuvintele învățătorilor noștri, binecuvântată fie amintirea lor: „care atârnă de eșlei mari”, explicația: copaci mari. Iar învățătorii noștri, binecuvântată fie amintirea lor, au interpretat ca notarikon: akhila, štiya, lewaya („mâncare, băutură, însoțire”), adică i-a obișnuit pe oamenii din Beer-Șeba să primească oaspeți, și că omul este dator să facă oaspetelui care vine la el trei lucruri: mâncare, băutură, însoțire.<br><br>«Și a chemat acolo»: cum am explicat. Și după ce i s-a întâmplat cu Abimelec în privința soției lui și în privința fântânii, i-a adunat acolo pe fii și le-a chemat numele Domnului, ca să țină credința Lui și să nu slujească altuia, căci El a luptat lupta lui: „încât Abimelec, care este rege, a venit la mine și mi-a cerut iubirea și legământul meu, și mi-a înapoiat această fântână pe care mi-o luaseră cu forța slujitorii lui; și prin aceasta veți putea cunoaște că El este Dumnezeul lumii, și nu este altul afară de El, și face cu făpturile Sale după voia Lui, cum a făcut cu Faraon și cu Abimelec pentru mine; din toate acestea veți cunoaște că El este Dumnezeul lumii și poate totul”."
    },
    {
+    "author": "Bekhor Shor (sec. XII)",
+    "text": "«Și a sădit un eșel.» Un pom mare, ca să fie pomenire a legământului; iar în Talmud, „care atârnă în eșeluri mari” (de-taliya be-ashlei rabrevei) este asemănător cu „va fi atârnat de un pom mare”.<br><br>«Și a chemat acolo numele Domnului, Dumnezeului lumii.» A adus mulțumire Sfântului, care i-a dat măreție, până ce regii încheie legământ cu el din pricina măreției lui."
+   },
+   {
     "author": "Zohar, Vaikra 56:3",
     "text": "Și toate acestea, pentru că această dimineață se trezește în lume, iar Avraham se trezește și vine să sădească un tamarisc în Beʾer Șevaʿ. Acest cuvânt așa l-am auzit: în Beʾer Șevaʿ, desigur. Și este scris (Geneza 21:33): «Și a chemat acolo Numele Domnului, Dumnezeul veșnic.»"
    }
@@ -5321,7 +6615,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Avraham."
+    "def_ro": "abraham, later nume al Abram.",
+    "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
+    "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 21 devine tată prin Isaac (21:2–5), apoi îl trimite pe Ismael (21:14), în sfârșit face legământ cu Abimeleh (21:27)."
    },
    {
     "t": " a "
@@ -5335,7 +6631,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "παρῴκησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a locuit."
+    "def_ro": "propriu-zis, a întoarce aside de la road (pentru lodging sau orice alt purpose), adică sojourn (ca guest); de asemenea a shrink, fear (ca in strange loc); de asemenea a gather pentru hostility (ca afraid).",
+    "greek_def_ro": "παροικέω (paroikeo) — a locui ca străin („a locuit ca străin”).",
+    "dict_ro": "Gur, „a locui ca străin”: „în țara în care ai locuit ca străin” (21:23, 34) — Avraam rămâne străin și în țara filistenilor."
    },
    {
     "t": " în "
@@ -5349,7 +6647,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "γῇ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "țara."
+    "def_ro": "pământ (la large, sau partitively țară).",
+    "greek_def_ro": "γῆ (gē) — pământ, țară.",
+    "dict_ro": "Erets, „țară”: „din țara Egiptului” (21:21) și „în țara filistenilor” (21:32, 34): cele două țări în care sunt urmașii Agarei și ai lui Avraam."
    },
    {
     "t": " "
@@ -5363,7 +6663,9 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῶν Φυλιστιιμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "filistenilor."
+    "def_ro": "pelishtite sau inhabitant al Pelesheth.",
+    "greek_def_ro": "Φυλιστιιμ (Phylistiim) — filistenii; „al filistenilor”.",
+    "dict_ro": "Pelishtim, „filistenii” (Easton): neam de pe coasta Canaanului (10:14); „țara filistenilor” (21:32, 34) e Gherarul și împrejurimile lui."
    },
    {
     "t": " "
@@ -5377,7 +6679,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἡμέρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "zile."
+    "def_ro": "zi (ca warm hours), dacă literal (de la sunrise a sunset, sau de la unul sunset a next), sau figurative ( space al timp defined de associated term), (adesea folosit adverb).",
+    "greek_def_ro": "ἡμέρα (hemera) — zi (la genitiv: „a zilei”).",
+    "dict_ro": "Yom, „zi”: „în ziua înțărcării” (21:8) — ziua ospățului; ziua în care se arată tensiunea dintre Sara și Agar."
    },
    {
     "t": " "
@@ -5391,7 +6695,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "πολλάς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "multe."
+    "def_ro": "abundant (in quantity, size, age, number, rank, quality).",
+    "greek_def_ro": "πολύς (polys) — mult (la acuzativ plural feminin: „multe”).",
+    "dict_ro": "Rav, „mult”: „multe zile” (21:34) — Avraam a locuit mult timp în țara filistenilor."
    },
    {
     "t": "."
@@ -5419,12 +6725,20 @@ window.CHAPTER_DATA = [
    }
   ],
   "refs": [
-   "Geneza 20:1"
+   "Geneza 20:1",
+   "1 Cronici 29:15",
+   "Psalmul 39:12",
+   "Evrei 11:9,13",
+   "1 Petru 2:11"
   ],
   "commentaries": [
    {
     "author": "Rashi (1040–1105)",
     "text": "«Zile multe.» Mai multe decât cele din Hebron. În Hebron a petrecut douăzeci și cinci de ani, iar aici douăzeci și șase. Căci avea șaptezeci și cinci de ani când a ieșit din Haran; în acel an „a venit să locuiască în câmpiile lui Mamre”, căci nu găsim mai înainte că s-a așezat decât acolo; căci în toate locurile lui era ca un călător, care poposește, pleacă și merge, cum s-a spus: „Avram a trecut”, „de acolo s-a mutat”, „și a fost foamete în țară și Avram a coborât în Egipt („Mițrayim”)”. Iar în Egipt n-a petrecut decât trei luni, căci Faraon l-a trimis îndată; „a continuat în călătoriile sale” până la „a venit să locuiască în câmpiile lui Mamre, care sunt în Hebron”. Acolo a locuit până a fost răsturnată Sodoma; îndată „Avraam a plecat de acolo”, din pricina rușinii lui Lot, și a venit în țara filistenilor; și avea nouăzeci și nouă de ani, căci în a treia zi de la circumcizia lui au venit la el îngerii: iată douăzeci și cinci de ani. Iar aici este scris „zile multe” — mai multe decât cele dintâi; și Scriptura nu a venit să lase nelămurit, ci să lămurească: dacă ar fi fost mai multe decât acelea cu doi ani sau mai mult, i-ar fi lămurit. Așadar, fără voia ta, nu sunt mai mulți decât cu un an: iată douăzeci și șase de ani. Îndată a ieșit de acolo și s-a întors la Hebron; și acel an a fost cu doisprezece ani înaintea legării lui Isaac, cum este în Seder ʿOlam."
+   },
+   {
+    "author": "Targum Onkelos",
+    "text": "Și Avraam a locuit ca străin în țara filistenilor multe zile."
    },
    {
     "author": "Radak (cca. 1160–1235)",

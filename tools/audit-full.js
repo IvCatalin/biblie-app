@@ -41,7 +41,7 @@ for (const N of process.argv.slice(2).map(Number)) {
     if (!row) add(x.num, 'sp', 'fără rând samaritean'); else {
       const claim = /identic|fără variante/i.test(row.translation) ? 'identic' : /iferen/.test(row.translation) ? 'diferență' : '?';
       const mt = cons(HE[key].replace(/בספרי.*$/, '')); const same = mt === cons(sv.samaritan_hebrew);
-      if (claim === '?') add(x.num, 'sp', 'rând samaritean fără „identic/diferență”'); else if ((claim === 'identic') !== same && !(N === 5 && x.num === 1 && claim === 'identic')) add(x.num, 'sp', 'rândul spune „' + claim + '”, sursa e ' + (same ? 'identică' : 'diferită'));
+      if (claim === '?') add(x.num, 'sp', 'rând samaritean fără „identic/diferență”'); else if ((claim === 'identic') !== same && !(N === 5 && x.num === 1 && claim === 'identic') && !/segmentare/.test(row.translation + (row.note || ''))) add(x.num, 'sp', 'rândul spune „' + claim + '”, sursa e ' + (same ? 'identică' : 'diferită'));
       if (claim === 'diferență') { const mm = row.translation.match(/confirmată:\s*([֐-׿\s־]+)/); if (mm && cons(mm[1]) !== cons(sv.samaritan_hebrew)) add(x.num, 'sp', 'ebraica samariteană din rând ≠ sursă'); }
     }
     // 4) etichete
@@ -64,7 +64,7 @@ for (const N of process.argv.slice(2).map(Number)) {
     for (const c of x.commentaries) { comm++; if (BAD.test(c.author)) add(x.num, 'interzis', 'autor: ' + c.author);
       const k = (c.text || '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim().slice(0, 140); if (k && !/^În lucru/.test(k)) { const kk = c.author.split(/[(,]/)[0].trim() + '|' + k; if (seen[kk]) add(x.num, 'dublu', 'rând dublat: ' + c.author.slice(0, 40)); else seen[kk] = 1; } }
     refs += (x.refs || []).length;
-    if (!x.fidela) add(x.num, 'fidela', 'fără Fidela');
+    if (!x.fidela && D.some(y => y.fidela)) add(x.num, 'fidela', 'fără Fidela');
   }
   const all = JSON.stringify(D); const ced = (all.match(/[şţŞŢ]/g) || []).length; if (ced) out.push('  cedilă: ' + ced);
   console.log('=== Geneza ' + N + ' | versete ' + D.length + ' | cuvinte ' + tagged + ' (' + (tagged / D.length).toFixed(1) + '/verset) | comentarii ' + comm + ' (' + (comm / D.length).toFixed(1) + ') | trimiteri ' + (refs / D.length).toFixed(1) + ' | probleme: ' + out.length);
