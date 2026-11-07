@@ -6523,7 +6523,7 @@ function wireToggle(btnId, bodyId, openLabel, closeLabel){
     if(window.__libLoading) return;
     window.__libLoading = true;
     const s = document.createElement("script");
-    s.src = "library-data.js?v=2";
+    s.src = "library-data.js?v=3";
     s.onload = () => { const l = window.__libCbs || []; window.__libCbs = []; l.forEach(f => { try { if(f) f(); } catch(e){} }); };
     document.head.appendChild(s);
   };

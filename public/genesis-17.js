@@ -14,7 +14,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abram, original nume al Abraham.",
+    "def_ro": "Avram — „tatăl cel înalt”; mai târziu va fi numit Avraam.",
     "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
     "dict_ro": "Avram (Avram), „tatăl cel înalt”: la nouăzeci și nouă de ani primește de la Dumnezeu un nume nou, Avraam (17:5); capitolul îl arată în fața lui Dumnezeu, căzut cu fața la pământ (17:3, 17)."
    },
@@ -78,7 +78,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abram, original nume al Abraham.",
+    "def_ro": "Avram — „tatăl cel înalt”; mai târziu va fi numit Avraam.",
     "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu (la dativ: „lui Avram”).",
     "dict_ro": "Avram (Avram), „tatăl cel înalt”: la nouăzeci și nouă de ani primește de la Dumnezeu un nume nou, Avraam (17:5); capitolul îl arată în fața lui Dumnezeu, căzut cu fața la pământ (17:3, 17)."
    },
@@ -94,7 +94,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „i-a zis: Eu sunt El Shaddai” (17:1) deschide descoperirea; „Dumnezeu a zis lui Avraam” (17:9, 15, 19) o ritmează: patru cuvinte pe care le urmează legământul.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -110,7 +110,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Θεός",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "strength; ca adjective, puternic; in special Almighty (dar folosit de asemenea al orice deity).",
+    "def_ro": "Dumnezeu, Cel puternic.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
     "dict_ro": "El, „Dumnezeu”: „Eu sunt El Shaddai” (17:1) — Dumnezeu Se numește cu un nume de putere; Septuaginta nu transcrie numele, ci spune „Eu sunt Dumnezeul tău” (ὁ θεός σου)."
    },
@@ -159,7 +159,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "γίνου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a exist, adică fi sau deveni, veni a pasiv (totdeauna emphatic, si nu mere copula sau auxiliary).",
+    "def_ro": "a exist, adică fi sau deveni.",
     "greek_def_ro": "γίνομαι (ginomai) — a fi, a deveni („fii”).",
     "dict_ro": "Verbul hayah, „a fi”: „fii integru” (17:1), „vei fi tată” (17:4), „voi fi Dumnezeul lor” (17:7–8); verbul „a fi” leagă porunca (cum să fii) de făgăduință (ce vei fi) și de legământ (ce va fi Dumnezeu)."
    },
@@ -175,7 +175,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "ἄμεμπτος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "entire (literal, figurat sau morally); de asemenea (ca substantiv) integrity, truth.",
+    "def_ro": "întreg, fără cusur, integru.",
     "greek_def_ro": "ἄμεμπτος (amemptos) — fără vină, fără cusur.",
     "dict_ro": "Tamim, „întreg, fără cusur”: „fii integru” (17:1), același cuvânt pentru Noe, „om drept și integru” (6:9) și pentru jertfele fără meteahnă; Septuaginta spune ἄμεμπτος, „fără vină”."
    },
@@ -301,7 +301,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "θήσομαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "def_ro": "a da.",
     "greek_def_ro": "τίθημι (tithemi) — a pune; la mediu, „voi pune (legământul)”.",
     "dict_ro": "Natan, „a da”: „voi pune (da) legământul Meu” (17:2), „îți voi da țara” (17:8), „îți voi da un fiu” (17:16): trei daruri ale legământului: legătura, țara, urmașul."
    },
@@ -349,7 +349,7 @@ window.CHAPTER_DATA = [
     "pos": "adverb, dublat",
     "greek": "σφόδρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, vehemence, adică (cu sau fără preposition) vehemently; de implicație, wholly, speedily, etc. (adesea cu alt words ca intensive sau superlative; in special cand repeated).",
+    "def_ro": "foarte, peste măsură, din cale-afară.",
     "greek_def_ro": "σφόδρα (sphodra) — foarte, tare.",
     "dict_ro": "Meod, „foarte”: „nespus de mult” (17:2, 6, 20) — în ebraică, cuvântul e dublat, „bimeod meod”, ca să spună o mulțime peste orice măsură; Septuaginta spune σφόδρα σφόδρα."
    },
@@ -429,7 +429,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abram, original nume al Abraham.",
+    "def_ro": "Avram — „tatăl cel înalt”; mai târziu va fi numit Avraam.",
     "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
     "dict_ro": "Avram (Avram), „tatăl cel înalt”: la nouăzeci și nouă de ani primește de la Dumnezeu un nume nou, Avraam (17:5); capitolul îl arată în fața lui Dumnezeu, căzut cu fața la pământ (17:3, 17)."
    },
@@ -445,7 +445,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔπεσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fall, in mare variety al applications (intransitive sau causative, literal sau figurative).",
+    "def_ro": "a cădea.",
     "greek_def_ro": "πίπτω (pipto) — a cădea („a căzut”).",
     "dict_ro": "Nafal, „a cădea”: Avram „a căzut cu fața la pământ” (17:3, 17), gestul de închinare și de uimire; a doua oară căderea se amestecă cu râsul."
    },
@@ -461,7 +461,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "πρόσωπον αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "face (ca parte acela turns); folosit in mare variety al applications (literal si figurat); de asemenea (cu prepositional prefix) ca preposition (înainte, etc.).",
+    "def_ro": "față, chip; ce se întoarce spre cineva.",
     "greek_def_ro": "πρόσωπον (prosopon) — față; „fața lui”.",
     "dict_ro": "Panim, „față”: „umblă înaintea Mea” (17:1) e porunca: Avram să trăiască sub ochii lui Dumnezeu; Septuaginta spune εὐαρέστει ἐναντίον ἐμοῦ, „fii plăcut înaintea Mea”."
    },
@@ -493,7 +493,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐλάλησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "poate propriu-zis, a arrange; dar folosit figurat (al words), a vorbi; rarely (in destructive sens) a subdue.",
+    "def_ro": "poate propriu-zis.",
     "greek_def_ro": "λαλέω (laleo) — a vorbi („a vorbit”).",
     "dict_ro": "Dibber, „a vorbi”: „Dumnezeu a vorbit cu el” (17:3) — verbul ia forma „cu” (itto), adică dialog, nu poruncă dintr-o parte; la 17:22 vorbirea se încheie."
    },
@@ -620,7 +620,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πλήθους",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "noise, tumult, crowd; de asemenea disquietude, wealth.",
+    "def_ro": "mulțime, zarvă.",
     "greek_def_ro": "πλῆθος (plethos) — mulțime (la genitiv: „de mulțime”).",
     "dict_ro": "Hamon, „mulțime, zarvă”: „o mulțime de neamuri” (17:4–5, aluzie în numele Avraham, ca „tată al unei mulțimi”); cuvântul spune și zgomot de popor."
    },
@@ -636,7 +636,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἐθνῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "foreign neam; de aici, Gentile; de asemenea (figurat) troop al animals, sau flight al locusts.",
+    "def_ro": "neam, popor.",
     "greek_def_ro": "ἔθνος (ethnos) — neam, popor (la genitiv plural: „ale neamurilor”).",
     "dict_ro": "Goy, „neam, popor”: „mulțime de neamuri” (17:4–6, 16, 20) — făgăduința lui Avraam nu e doar un neam, ci mai multe; Septuaginta spune ἔθνη."
    },
@@ -734,7 +734,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὸ ὄνομά σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "appellation, ca mark sau memorial al individuality; de implicație honor, authority, character.",
+    "def_ro": "nume; și ceea ce face un om cunoscut: renume, cinste.",
     "greek_def_ro": "ὄνομα (onoma) — nume; „numele tău”.",
     "dict_ro": "Shem, „nume”: Avram își schimbă numele (17:5), Sarai la fel (17:15); numele noi spun noua lor misiune: tată de neamuri și prințesă."
    },
@@ -750,7 +750,7 @@ window.CHAPTER_DATA = [
     "pos": "verb (nifal)",
     "greek": "κληθήσεται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a call afară a (adică propriu-zis, address de nume, dar folosit in wide variety al applications).",
+    "def_ro": "a call afară a (adică propriu-zis.",
     "greek_def_ro": "καλέω (kaleo) — a chema, a numi; la pasiv, „se va numi”.",
     "dict_ro": "Qara, „a chema”: „nu te vei mai chema Avram” (17:5) și „vei chema numele lui Isaac” (17:19): numele se pun și se schimbă prin cuvântul lui Dumnezeu."
    },
@@ -766,7 +766,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβραμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abram, original nume al Abraham.",
+    "def_ro": "Avram — „tatăl cel înalt”; mai târziu va fi numit Avraam.",
     "greek_def_ro": "Αβραμ (Abram) — Avram, nume propriu.",
     "dict_ro": "Avram (Avram), „tatăl cel înalt”: la nouăzeci și nouă de ani primește de la Dumnezeu un nume nou, Avraam (17:5); capitolul îl arată în fața lui Dumnezeu, căzut cu fața la pământ (17:3, 17)."
    },
@@ -782,7 +782,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi” (Easton: „tatăl multor”): noul nume al lui Avram (17:5), dat odată cu legământul; Septuaginta scrie Αβρααμ, forma din Noul Testament."
    },
@@ -798,7 +798,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, cu sufix",
     "greek": "τέθεικά σε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "def_ro": "a da.",
     "greek_def_ro": "τίθημι (tithemi) — a pune; „te-am pus”.",
     "dict_ro": "Natan, „a da”: „voi pune (da) legământul Meu” (17:2), „îți voi da țara” (17:8), „îți voi da un fiu” (17:16): trei daruri ale legământului: legătura, țara, urmașul."
    },
@@ -830,7 +830,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἐθνῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "foreign neam; de aici, Gentile; de asemenea (figurat) troop al animals, sau flight al locusts.",
+    "def_ro": "neam, popor.",
     "greek_def_ro": "ἔθνος (ethnos) — neam, popor (la genitiv plural: „ale neamurilor”).",
     "dict_ro": "Goy, „neam, popor”: „mulțime de neamuri” (17:4–6, 16, 20) — făgăduința lui Avraam nu e doar un neam, ci mai multe; Septuaginta spune ἔθνη."
    },
@@ -937,7 +937,7 @@ window.CHAPTER_DATA = [
     "pos": "adverb, dublat",
     "greek": "σφόδρα σφόδρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, vehemence, adică (cu sau fără preposition) vehemently; de implicație, wholly, speedily, etc. (adesea cu alt words ca intensive sau superlative; in special cand repeated).",
+    "def_ro": "foarte, peste măsură, din cale-afară.",
     "greek_def_ro": "σφόδρα (sphodra) — foarte; dublat: „nespus de mult”.",
     "dict_ro": "Meod, „foarte”: „nespus de mult” (17:2, 6, 20) — în ebraică, cuvântul e dublat, „bimeod meod”, ca să spună o mulțime peste orice măsură; Septuaginta spune σφόδρα σφόδρα."
    },
@@ -969,7 +969,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "εἰς ἔθνη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "foreign neam; de aici, Gentile; de asemenea (figurat) troop al animals, sau flight al locusts.",
+    "def_ro": "neam, popor.",
     "greek_def_ro": "ἔθνος (ethnos) — neam, popor (la plural: „spre neamuri”).",
     "dict_ro": "Goy, „neam, popor”: „mulțime de neamuri” (17:4–6, 16, 20) — făgăduința lui Avraam nu e doar un neam, ci mai multe; Septuaginta spune ἔθνη."
    },
@@ -1001,7 +1001,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξελεύσονται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge (causatively, aduce) afară, in mare variety al applications, literal si figurat, direct si proxim.",
+    "def_ro": "a merge (causatively, aduce) afară.",
     "greek_def_ro": "ἐξέρχομαι (exerchomai) — a ieși („vor ieși”).",
     "dict_ro": "Yatsa, „a ieși”: „regi vor ieși din tine” (17:6, 16, 20): urmașii lui, între care regii, ies din trupul lui Avraam ca din o sămânță."
    },
@@ -1120,7 +1120,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "σπέρματός σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sămânță; figurat, rod, plant, sowing-timp, posterity.",
+    "def_ro": "sămânță; figurat, rod.",
     "greek_def_ro": "σπέρμα (sperma) — sămânță, urmași; „al seminției tale”.",
     "dict_ro": "Zera, „sămânță”: „seminția ta după tine” (17:7–10, 12, 19) — legământul trece prin generații; Septuaginta spune σπέρμα."
    },
@@ -1152,7 +1152,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "αἰώνιον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, concealed, adică vanishing point; generally, timp afară al mind (past sau future), adică (practically) eternity; frequentatively, adverbial (in special cu prepositional prefix) totdeauna.",
+    "def_ro": "veșnicie, timp fără sfârșit, veac.",
     "greek_def_ro": "αἰώνιος (aionios) — veșnic.",
     "dict_ro": "Olam, „veșnicie”: „legământ veșnic” (17:7, 13, 19) și „posesiune veșnică” (17:8): legământul și țara sunt nelimitate în timp."
    },
@@ -1259,7 +1259,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "δώσω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "def_ro": "a da.",
     "greek_def_ro": "δίδωμι (didomi) — a da („voi da”).",
     "dict_ro": "Natan, „a da”: „voi pune (da) legământul Meu” (17:2), „îți voi da țara” (17:8), „îți voi da un fiu” (17:16): trei daruri ale legământului: legătura, țara, urmașul."
    },
@@ -1275,7 +1275,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν γῆν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământ (la large, sau partitively țară).",
+    "def_ro": "pământ, țară.",
     "greek_def_ro": "γῆ (ge) — pământ, țară.",
     "dict_ro": "Erets, „țară”: „țara pribegiilor tale, toată țara Canaanului” (17:8) — Dumnezeu îi dă lui Avraam țara în care e străin; Septuaginta spune τὴν γῆν, ἣν παροικεῖς."
    },
@@ -1307,7 +1307,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "γῆν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământ (la large, sau partitively țară).",
+    "def_ro": "pământ, țară.",
     "greek_def_ro": "γῆ (ge) — pământ, țară.",
     "dict_ro": "Erets, „țară”: „țara pribegiilor tale, toată țara Canaanului” (17:8) — Dumnezeu îi dă lui Avraam țara în care e străin; Septuaginta spune τὴν γῆν, ἣν παροικεῖς."
    },
@@ -1323,7 +1323,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χανααν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "kenaan, fiu Ham; de asemenea ținut inhabited de him.",
+    "def_ro": "kenaan, fiu Ham.",
     "greek_def_ro": "Χανααν (Chanaan) — Canaan, nume propriu.",
     "dict_ro": "Canaan (Kenaan): „toată țara Canaanului” (17:8) — hotarul făgăduinței, mai larg decât ținutul în care locuise Avram până atunci; Septuaginta scrie Χανααν."
    },
@@ -1339,7 +1339,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "κατάσχεσιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ceva seized, adică possession (in special al țară).",
+    "def_ro": "stăpânire, moșie, ceva ce se ia în stăpânire.",
     "greek_def_ro": "κατάσχεσις (kataschesis) — stăpânire, posesiune.",
     "dict_ro": "Achuzzah, „stăpânire, moșie”: „în stăpânire veșnică” (17:8): țara e dată ca moșie ținută de neam, ca proprietate; Septuaginta spune κατάσχεσις."
    },
@@ -1355,7 +1355,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "αἰώνιον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, concealed, adică vanishing point; generally, timp afară al mind (past sau future), adică (practically) eternity; frequentatively, adverbial (in special cu prepositional prefix) totdeauna.",
+    "def_ro": "veșnicie, timp fără sfârșit, veac.",
     "greek_def_ro": "αἰώνιος (aionios) — veșnic.",
     "dict_ro": "Olam, „veșnicie”: „legământ veșnic” (17:7, 13, 19) și „posesiune veșnică” (17:8): legământul și țara sunt nelimitate în timp."
    },
@@ -1475,7 +1475,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „i-a zis: Eu sunt El Shaddai” (17:1) deschide descoperirea; „Dumnezeu a zis lui Avraam” (17:9, 15, 19) o ritmează: patru cuvinte pe care le urmează legământul.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -1491,7 +1491,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi” (Easton: „tatăl multor”): noul nume al lui Avram (17:5), dat odată cu legământul; Septuaginta scrie Αβρααμ, forma din Noul Testament."
    },
@@ -1507,7 +1507,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "διατηρήσεις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a hedge despre (ca cu thorns), adică guard; generally, a protect, attend a, etc.",
+    "def_ro": "a păzi, a păstra, a ține o poruncă sau un loc.",
     "greek_def_ro": "διατηρέω (diatereo) — a păstra, a păzi („vei păstra”).",
     "dict_ro": "Shamar, „a păzi, a ține”: „tu vei păzi legământul Meu” (17:9–10) — partea omului în legământ; același verb din 2:15, unde Adam era pus „să păzească” grădina."
    },
@@ -1539,7 +1539,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὸ σπέρμα σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sămânță; figurat, rod, plant, sowing-timp, posterity.",
+    "def_ro": "sămânță; figurat, rod.",
     "greek_def_ro": "σπέρμα (sperma) — sămânță, urmași; „seminția ta”.",
     "dict_ro": "Zera, „sămânță”: „seminția ta după tine” (17:7–10, 12, 19) — legământul trece prin generații; Septuaginta spune σπέρμα."
    },
@@ -1671,7 +1671,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "διατηρήσεις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a hedge despre (ca cu thorns), adică guard; generally, a protect, attend a, etc.",
+    "def_ro": "a păzi, a păstra, a ține o poruncă sau un loc.",
     "greek_def_ro": "διατηρέω (diatereo) — a păstra, a păzi („vei păstra”).",
     "dict_ro": "Shamar, „a păzi, a ține”: „tu vei păzi legământul Meu” (17:9–10) — partea omului în legământ; același verb din 2:15, unde Adam era pus „să păzească” grădina."
    },
@@ -1687,7 +1687,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀρσενικόν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, remembered, adică male (al om sau animals, ca fiind most noteworthy sex).",
+    "def_ro": "parte bărbătească, cel de sex bărbătesc.",
     "greek_def_ro": "ἀρσενικός (arsenikos) — bărbătesc (la neutru: „parte bărbătească”).",
     "dict_ro": "Zachar, „parte bărbătească”: „orice parte bărbătească” (17:10, 12–14, 23) trebuie să fie circumcisă: legământul se face pe trupul bărbaților."
    },
@@ -1803,7 +1803,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὴν σάρκα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "carne (de la al sau freshness); de extension, trup, persoana; de asemenea (de euphemistically) pudenda al om.",
+    "def_ro": "carne, trup.",
     "greek_def_ro": "σάρξ (sarx) — carne, trup (la acuzativ: „carnea”).",
     "dict_ro": "Basar, „carne, trup”: „carnea prepuțului” (17:11, 14, 23–25) — legământul e înscris în trup; „legământul Meu va fi în carnea voastră” (17:13)."
    },
@@ -1835,7 +1835,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "σημείῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "signal (literal sau figurat), ca flag, beacon, monument, omen, prodigy, evidence, etc.",
+    "def_ro": "signal (literal sau figurat), ca flag.",
     "greek_def_ro": "σημεῖον (semeion) — semn (la dativ: „ca semn”).",
     "dict_ro": "Ot, „semn”: „semn al legământului” (17:11) — circumcizia e semnul legământului, ca curcubeul la 9:12–13 și ca semnul lui Cain la 4:15."
    },
@@ -1851,7 +1851,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "διαθήκης",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "compact (pentru ca facut de passing între pieces al carne).",
+    "def_ro": "legământ, alianță, învoială solemnă.",
     "greek_def_ro": "διαθήκη (diatheke) — legământ (la genitiv).",
     "dict_ro": "Berit, „legământ”: „legământul Meu” (17:2, 4, 7, 9–11, 13–14, 19, 21) — cuvântul cheie al capitolului; după 15:18 aici se adaugă semnul: tăierea împrejur."
    },
@@ -1939,7 +1939,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ὀκτὼ ἡμερῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cardinal number, eight (ca dacă surplus above 'perfect' seven); de asemenea (ca ordinal) eighth.",
+    "def_ro": "opt, numeralul 8.",
     "greek_def_ro": "ὀκτώ (okto), ἡμέρα (hemera) — de opt zile.",
     "dict_ro": "Shemonah, „opt”: „la opt zile” (17:12) — vârsta circumciziei; ziua a opta urmează săptămânii, ca început al unui timp nou."
    },
@@ -1971,7 +1971,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀρσενικόν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, remembered, adică male (al om sau animals, ca fiind most noteworthy sex).",
+    "def_ro": "parte bărbătească, cel de sex bărbătesc.",
     "greek_def_ro": "ἀρσενικός (arsenikos) — bărbătesc (la neutru: „parte bărbătească”).",
     "dict_ro": "Zachar, „parte bărbătească”: „orice parte bărbătească” (17:10, 12–14, 23) trebuie să fie circumcisă: legământul se face pe trupul bărbaților."
    },
@@ -2019,7 +2019,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῆς οἰκίας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "casa (in greatest variation al applications, in special family, etc.).",
+    "def_ro": "casă, gospodărie.",
     "greek_def_ro": "οἰκία (oikia) — casă (la genitiv: „a casei”).",
     "dict_ro": "Bayit, „casă”: „cei din casă” (17:12–13, 23, 27) sunt rudele și robii lui Avraam; legământul cuprinde casa întreagă, nu doar fiul."
    },
@@ -2050,7 +2050,7 @@ window.CHAPTER_DATA = [
     "strong": "H3701",
     "pos": "substantiv",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "argint (de la al sau pale color); de implicație, money.",
+    "def_ro": "argint (de la al sau pale color); de implicație.",
     "diff_ro": "Septuaginta redă „cumpărat cu bani” (מִקְנַת־כֶּסֶף) printr-un singur cuvânt, ἀργυρώνητος, „cumpărat cu argint”; „banii” nu au cuvânt aparte.",
     "dict_ro": "Kesef, „argint, bani”: „cumpărat cu bani” (17:12–13, 23, 27) — prețul plătit pentru rob; chiar cei aduși din alte neamuri ajung în legământ."
    },
@@ -2066,7 +2066,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀλλοτρίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "foreign, sau (concretely) foreigner, sau (abstractly) heathendom.",
+    "def_ro": "străin, de alt neam.",
     "greek_def_ro": "ἀλλότριος (allotrios) — străin (la genitiv).",
     "dict_ro": "Nekhar, „străin”: „fiu de străin” (17:12, 27) — cel din alt neam; legământul nu rămâne închis între ai lui Avraam, ci se deschide celor din afară care intră în casa lui."
    },
@@ -2185,7 +2185,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τῆς οἰκίας σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "casa (in greatest variation al applications, in special family, etc.).",
+    "def_ro": "casă, gospodărie.",
     "greek_def_ro": "οἰκία (oikia) — casă; „casei tale”.",
     "dict_ro": "Bayit, „casă”: „cei din casă” (17:12–13, 23, 27) sunt rudele și robii lui Avraam; legământul cuprinde casa întreagă, nu doar fiul."
    },
@@ -2216,7 +2216,7 @@ window.CHAPTER_DATA = [
     "strong": "H3701",
     "pos": "substantiv cu sufix",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "argint (de la al sau pale color); de implicație, money.",
+    "def_ro": "argint (de la al sau pale color); de implicație.",
     "diff_ro": "Septuaginta redă „cumpărat cu bani” (מִקְנַת־כֶּסֶף) printr-un singur cuvânt, ἀργυρώνητος, „cumpărat cu argint”; „banii” nu au cuvânt aparte.",
     "dict_ro": "Kesef, „argint, bani”: „cumpărat cu bani” (17:12–13, 23, 27) — prețul plătit pentru rob; chiar cei aduși din alte neamuri ajung în legământ."
    },
@@ -2264,7 +2264,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "αἰώνιον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, concealed, adică vanishing point; generally, timp afară al mind (past sau future), adică (practically) eternity; frequentatively, adverbial (in special cu prepositional prefix) totdeauna.",
+    "def_ro": "veșnicie, timp fără sfârșit, veac.",
     "greek_def_ro": "αἰώνιος (aionios) — veșnic.",
     "dict_ro": "Olam, „veșnicie”: „legământ veșnic” (17:7, 13, 19) și „posesiune veșnică” (17:8): legământul și țara sunt nelimitate în timp."
    },
@@ -2363,7 +2363,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἄρσην",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, remembered, adică male (al om sau animals, ca fiind most noteworthy sex).",
+    "def_ro": "parte bărbătească, cel de sex bărbătesc.",
     "greek_def_ro": "ἄρσην (arsen) — bărbat, parte bărbătească.",
     "dict_ro": "Zachar, „parte bărbătească”: „orice parte bărbătească” (17:10, 12–14, 23) trebuie să fie circumcisă: legământul se face pe trupul bărbaților."
    },
@@ -2379,7 +2379,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "ἀπερίτμητος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, exposed, adică projecting loose (ca a prepuce); folosit numai technically, uncircumcised (adică still having prepuce uncurtailed).",
+    "def_ro": "necircumcis, cel netăiat împrejur.",
     "greek_def_ro": "ἀπερίτμητος (aperitmetos) — netăiat împrejur.",
     "dict_ro": "Arel, „necircumcis”: „parte bărbătească necircumcisă” (17:14) — cel ce nu e tăiat împrejur e despărțit de popor; mai târziu cuvântul spune și „necircumcis la inimă”."
    },
@@ -2411,7 +2411,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὴν σάρκα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "carne (de la al sau freshness); de extension, trup, persoana; de asemenea (de euphemistically) pudenda al om.",
+    "def_ro": "carne, trup.",
     "greek_def_ro": "σάρξ (sarx) — carne, trup (la acuzativ: „carnea”).",
     "dict_ro": "Basar, „carne, trup”: „carnea prepuțului” (17:11, 14, 23–25) — legământul e înscris în trup; „legământul Meu va fi în carnea voastră” (17:13)."
    },
@@ -2475,7 +2475,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τοῦ γένους αὐτῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "popor (ca congregated unit); in special, seminție (ca those al Israel); de aici (collectively) troops sau attendants; figurat, flock.",
+    "def_ro": "popor, neam; mulțime strânsă laolaltă.",
     "greek_def_ro": "γένος (genos) — neam, rudă; „din neamul ei”.",
     "dict_ro": "Am, „popor”: „din poporul lui” (17:14) — omul care nu păstrează legământul e retezat din comunitate."
    },
@@ -2491,7 +2491,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "διεσκέδασεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a break sus (de obicei figurat), adică a violate, frustrate.",
+    "def_ro": "a nesocoti, a rupe.",
     "greek_def_ro": "διασκεδάζω (diaskedazo) — a risipi, a desface („a desfăcut”).",
     "dict_ro": "Parar, „a rupe, a nesocoti”: „a nesocotit legământul Meu” (17:14) — verbul spune călcarea legământului; Septuaginta spune διεσκέδασεν, „a risipit”."
    },
@@ -2626,7 +2626,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „i-a zis: Eu sunt El Shaddai” (17:1) deschide descoperirea; „Dumnezeu a zis lui Avraam” (17:9, 15, 19) o ritmează: patru cuvinte pe care le urmează legământul.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -2642,7 +2642,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu (la dativ: „lui Avraam”).",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi” (Easton: „tatăl multor”): noul nume al lui Avram (17:5), dat odată cu legământul; Septuaginta scrie Αβρααμ, forma din Noul Testament."
    },
@@ -2674,7 +2674,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κληθήσεται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a call afară a (adică propriu-zis, address de nume, dar folosit in wide variety al applications).",
+    "def_ro": "a call afară a (adică propriu-zis.",
     "dict_ro": "Qara, „a chema”: „nu te vei mai chema Avram” (17:5) și „vei chema numele lui Isaac” (17:19): numele se pun și se schimbă prin cuvântul lui Dumnezeu.",
     "greek_def_ro": "καλέω (kaleo) — a chema, a numi; la pasiv, „se va numi”."
    },
@@ -2722,7 +2722,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὸ ὄνομα αὐτῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "appellation, ca mark sau memorial al individuality; de implicație honor, authority, character.",
+    "def_ro": "nume; și ceea ce face un om cunoscut: renume, cinste.",
     "greek_def_ro": "ὄνομα (onoma) — nume; „numele ei”.",
     "dict_ro": "Shem, „nume”: Avram își schimbă numele (17:5), Sarai la fel (17:15); numele noi spun noua lor misiune: tată de neamuri și prințesă."
    },
@@ -2826,7 +2826,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "δώσω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "def_ro": "a da.",
     "dict_ro": "Natan, „a da”: „voi pune (da) legământul Meu” (17:2), „îți voi da țara” (17:8), „îți voi da un fiu” (17:16): trei daruri ale legământului: legătura, țara, urmașul.",
     "greek_def_ro": "δίδωμι (didomi) — a da („voi da”)."
    },
@@ -2842,7 +2842,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τέκνον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiu (ca builder al family nume), in widest sens (al literal si figurative relationship, including grandson, subject, neam, quality sau condition, etc., (ca tată sau brother), etc.).",
+    "def_ro": "fiu; în sens larg, nepot, urmaș, membru al unui neam.",
     "greek_def_ro": "τέκνον (teknon) — copil.",
     "dict_ro": "Ben, „fiu”: „îți voi da un fiu din ea” (17:16, 19): primul fiu care va fi născut din Sara; Septuaginta spune τέκνον, „copil”.",
     "diff_ro": "Ebraica spune „un fiu” (בֵּן); Septuaginta spune „un copil” (τέκνον), fără să precizeze sexul."
@@ -2859,7 +2859,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "εἰς ἔθνη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "foreign neam; de aici, Gentile; de asemenea (figurat) troop al animals, sau flight al locusts.",
+    "def_ro": "neam, popor.",
     "greek_def_ro": "ἔθνος (ethnos) — neam, popor (la plural: „spre neamuri”).",
     "dict_ro": "Goy, „neam, popor”: „mulțime de neamuri” (17:4–6, 16, 20) — făgăduința lui Avraam nu e doar un neam, ci mai multe; Septuaginta spune ἔθνη."
    },
@@ -2891,7 +2891,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔσονται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a exist, adică fi sau deveni, veni a pasiv (totdeauna emphatic, si nu mere copula sau auxiliary).",
+    "def_ro": "a exist, adică fi sau deveni.",
     "greek_def_ro": "γίνομαι / εἰμί (ginomai / eimi) — a deveni, a se face / a fi.",
     "dict_ro": "Verbul hayah, „a fi”: „fii integru” (17:1), „vei fi tată” (17:4), „voi fi Dumnezeul lor” (17:7–8); verbul „a fi” leagă porunca (cum să fii) de făgăduință (ce vei fi) și de legământ (ce va fi Dumnezeu)."
    },
@@ -2979,7 +2979,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi” (Easton: „tatăl multor”): noul nume al lui Avram (17:5), dat odată cu legământul; Septuaginta scrie Αβρααμ, forma din Noul Testament."
    },
@@ -2995,7 +2995,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔπεσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fall, in mare variety al applications (intransitive sau causative, literal sau figurative).",
+    "def_ro": "a cădea.",
     "greek_def_ro": "πίπτω (pipto) — a cădea („a căzut”).",
     "dict_ro": "Nafal, „a cădea”: Avram „a căzut cu fața la pământ” (17:3, 17), gestul de închinare și de uimire; a doua oară căderea se amestecă cu râsul."
    },
@@ -3011,7 +3011,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "πρόσωπον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "face (ca parte acela turns); folosit in mare variety al applications (literal si figurat); de asemenea (cu prepositional prefix) ca preposition (înainte, etc.).",
+    "def_ro": "față, chip; ce se întoarce spre cineva.",
     "greek_def_ro": "πρόσωπον (prosopon) — față.",
     "dict_ro": "Panim, „față”: „umblă înaintea Mea” (17:1) e porunca: Avram să trăiască sub ochii lui Dumnezeu; Septuaginta spune εὐαρέστει ἐναντίον ἐμοῦ, „fii plăcut înaintea Mea”."
    },
@@ -3027,7 +3027,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐγέλασεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a laugh outright (in merriment sau scorn); de implicație, a sport.",
+    "def_ro": "a râde.",
     "greek_def_ro": "γελάω (gelao) — a râde („a râs”).",
     "dict_ro": "Tsachaq, „a râde”: Avraam „a râs” (17:17) — râsul lui, de uimire, dă numele lui Isaac (Yitschaq, 17:19); Septuaginta spune ἐγέλασεν."
    },
@@ -3043,7 +3043,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „i-a zis: Eu sunt El Shaddai” (17:1) deschide descoperirea; „Dumnezeu a zis lui Avraam” (17:9, 15, 19) o ritmează: patru cuvinte pe care le urmează legământul.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -3059,7 +3059,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τῇ διανοίᾳ αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "inimă; de asemenea folosit (figurat) foarte widely pentru feelings, va si chiar intellect; likewise pentru centre al anything.",
+    "def_ro": "inimă; și minte, gând, sentiment.",
     "greek_def_ro": "διάνοια (dianoia) — minte, gând; „în gândul lui”.",
     "dict_ro": "Lev, „inimă”: Avraam „a zis în inima lui” (17:17) — gândul nespus cu glas; inima e locul în care omul vorbește singur."
    },
@@ -3075,7 +3075,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἑκατὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "hundred; de asemenea ca multiplicative si fraction.",
+    "def_ro": "sută, numeralul 100.",
     "greek_def_ro": "ἑκατόν (hekaton) — o sută.",
     "dict_ro": "Me’ah, „sută”: „un om de o sută de ani” (17:17) și Sara „de nouăzeci”; vârsta lor face nașterea cu neputință, ca să arate că e dar al lui Dumnezeu."
    },
@@ -3139,7 +3139,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "τέξεται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a bear tânăr; causatively, a beget; medically, a act ca midwife; in special, a show lineage.",
+    "def_ro": "a naște.",
     "dict_ro": "Yalad, „a naște”: „Sara va naște” (17:17, 19, 21) — verbul făgăduinței și al nașterii nesperate; Septuaginta spune τέξεται, „va naște”, și γεννηθήσεται, „se va naște”.",
     "greek_def_ro": "τίκτω (tikto) — a naște („va naște”)."
    },
@@ -3261,7 +3261,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi” (Easton: „tatăl multor”): noul nume al lui Avram (17:5), dat odată cu legământul; Septuaginta scrie Αβρααμ, forma din Noul Testament."
    },
@@ -3277,7 +3277,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „i-a zis: Eu sunt El Shaddai” (17:1) deschide descoperirea; „Dumnezeu a zis lui Avraam” (17:9, 15, 19) o ritmează: patru cuvinte pe care le urmează legământul.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -3309,7 +3309,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ζήτω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a live, dacă literal sau figurat; causatively, a revive.",
+    "def_ro": "a trăi.",
     "greek_def_ro": "ζάω (zao) — a trăi („să trăiască”).",
     "dict_ro": "Chayah, „a trăi”: „să trăiască Ismael înaintea Ta” (17:18) — rugăminte pentru Ismael; verbul spune și protecția vieții."
    },
@@ -3325,7 +3325,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ισμαηλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "jishmael, nume al Abraham's oldest fiu, si al five Israelites.",
+    "def_ro": "Ismael — „Dumnezeu aude”, fiul lui Avram și al Hagarei.",
     "greek_def_ro": "Ισμαηλ (Ismael) — Ismael, nume propriu.",
     "dict_ro": "Ișmael (Yishma’el), „Dumnezeu aude” (Easton): fiul lui Avraam și al Agarei; Avraam cere pentru el viață înaintea lui Dumnezeu (17:18), iar Dumnezeu îl binecuvântează (17:20), dar legământul va merge prin Isaac (17:21)."
    },
@@ -3341,7 +3341,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ἐναντίον σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "face (ca parte acela turns); folosit in mare variety al applications (literal si figurat); de asemenea (cu prepositional prefix) ca preposition (înainte, etc.).",
+    "def_ro": "față, chip; ce se întoarce spre cineva.",
     "greek_def_ro": "ἐναντίον (enantion) — înaintea; „înaintea Ta”.",
     "dict_ro": "Panim, „față”: „umblă înaintea Mea” (17:1) e porunca: Avram să trăiască sub ochii lui Dumnezeu; Septuaginta spune εὐαρέστει ἐναντίον ἐμοῦ, „fii plăcut înaintea Mea”."
    },
@@ -3456,7 +3456,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „i-a zis: Eu sunt El Shaddai” (17:1) deschide descoperirea; „Dumnezeu a zis lui Avraam” (17:9, 15, 19) o ritmează: patru cuvinte pe care le urmează legământul.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -3504,7 +3504,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "υἱόν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiu (ca builder al family nume), in widest sens (al literal si figurative relationship, including grandson, subject, neam, quality sau condition, etc., (ca tată sau brother), etc.).",
+    "def_ro": "fiu; în sens larg, nepot, urmaș, membru al unui neam.",
     "greek_def_ro": "υἱός (huios) — fiu.",
     "dict_ro": "Ben, „fiu”: „îți voi da un fiu din ea” (17:16, 19): primul fiu care va fi născut din Sara; Septuaginta spune τέκνον, „copil”."
    },
@@ -3520,7 +3520,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "καλέσεις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a call afară a (adică propriu-zis, address de nume, dar folosit in wide variety al applications).",
+    "def_ro": "a call afară a (adică propriu-zis.",
     "greek_def_ro": "καλέω (kaleo) — a chema, a numi („vei numi”).",
     "dict_ro": "Qara, „a chema”: „nu te vei mai chema Avram” (17:5) și „vei chema numele lui Isaac” (17:19): numele se pun și se schimbă prin cuvântul lui Dumnezeu."
    },
@@ -3536,7 +3536,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὸ ὄνομα αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "appellation, ca mark sau memorial al individuality; de implicație honor, authority, character.",
+    "def_ro": "nume; și ceea ce face un om cunoscut: renume, cinste.",
     "greek_def_ro": "ὄνομα (onoma) — nume.",
     "dict_ro": "Shem, „nume”: Avram își schimbă numele (17:5), Sarai la fel (17:15); numele noi spun noua lor misiune: tată de neamuri și prințesă."
    },
@@ -3600,7 +3600,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "αἰώνιον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, concealed, adică vanishing point; generally, timp afară al mind (past sau future), adică (practically) eternity; frequentatively, adverbial (in special cu prepositional prefix) totdeauna.",
+    "def_ro": "veșnicie, timp fără sfârșit, veac.",
     "greek_def_ro": "αἰώνιος (aionios) — veșnic.",
     "dict_ro": "Olam, „veșnicie”: „legământ veșnic” (17:7, 13, 19) și „posesiune veșnică” (17:8): legământul și țara sunt nelimitate în timp."
    },
@@ -3699,7 +3699,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ισμαηλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "jishmael, nume al Abraham's oldest fiu, si al five Israelites.",
+    "def_ro": "Ismael — „Dumnezeu aude”, fiul lui Avram și al Hagarei.",
     "greek_def_ro": "Ισμαηλ (Ismael) — Ismael, nume propriu.",
     "dict_ro": "Ișmael (Yishma’el), „Dumnezeu aude” (Easton): fiul lui Avraam și al Agarei; Avraam cere pentru el viață înaintea lui Dumnezeu (17:18), iar Dumnezeu îl binecuvântează (17:20), dar legământul va merge prin Isaac (17:21)."
    },
@@ -3747,7 +3747,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "αὐξανῶ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a bear rod (literal sau figurat).",
+    "def_ro": "a fi roditor, a da rod.",
     "greek_def_ro": "αὐξάνω (auxano) — a spori, a face să crească („voi spori”).",
     "dict_ro": "Para, „a fi roditor”: „te voi face roditor” (17:6, 20) — verbul din porunca dată omului în 1:28; Dumnezeu îl face pe Avraam roditor, așa cum a făcut roditori pe oameni la început."
    },
@@ -3763,7 +3763,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "πληθυνῶ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a increase (in whatever respect).",
+    "def_ro": "a se înmulți, a spori.",
     "greek_def_ro": "πληθύνω (plethyno) — a înmulți („voi înmulți”).",
     "dict_ro": "Rava, „a spori, a înmulți”: „te voi înmulți nespus de mult” (17:2); aceeași făgăduință a înmulțirii, repetată la 17:20 pentru Ismael: Dumnezeu binecuvântează și pe fiul lui Agar."
    },
@@ -3779,7 +3779,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "δώδεκα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "two; de asemenea (ca ordinal) twofold.",
+    "def_ro": "doi, numeralul 2; și „doisprezece” când se leagă de zece.",
     "greek_def_ro": "δώδεκα (dodeka) — doisprezece.",
     "dict_ro": "Shnayim, „doi”: „doisprezece prinți” (17:20) — din Ismael vor ieși doisprezece prinți, ca doisprezece seminții din Iacov (35:22–26; 25:13–16)."
    },
@@ -3795,7 +3795,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἔθνη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, exalted unul, adică împărat sau sheik; de asemenea rising mist.",
+    "def_ro": "căpetenie, cel înălțat; adică rege sau șeic.",
     "greek_def_ro": "ἔθνος (ethnos) — neam (la plural: „neamuri”).",
     "dict_ro": "Nasi, „prinț, căpetenie”: „doisprezece prinți” (17:20) vor ieși din Ismael, ca binecuvântare; lista lor e la 25:13–16. Septuaginta spune aici „doisprezece neamuri” (δώδεκα ἔθνη), nu „doisprezece prinți”.",
     "diff_ro": "Ebraica spune „doisprezece prinți (nesi’im) va naște”; Septuaginta spune „doisprezece neamuri va naște” (δώδεκα ἔθνη γεννήσει)."
@@ -3828,7 +3828,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἔθνος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "foreign neam; de aici, Gentile; de asemenea (figurat) troop al animals, sau flight al locusts.",
+    "def_ro": "neam, popor.",
     "greek_def_ro": "ἔθνος (ethnos) — neam, popor.",
     "dict_ro": "Goy, „neam, popor”: „mulțime de neamuri” (17:4–6, 16, 20) — făgăduința lui Avraam nu e doar un neam, ci mai multe; Septuaginta spune ἔθνη."
    },
@@ -3844,7 +3844,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "μέγα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mare (in orice sens); de aici, older; de asemenea insolent.",
+    "def_ro": "mare, mai mare, în orice sens.",
     "dict_ro": "Gadol, „mare”: „un neam mare” (17:20) făgăduit lui Ismael; același cuvânt ca la 12:2, „neam mare”, dat lui Avraam.",
     "greek_def_ro": "μέγας (megas) — mare."
    },
@@ -3966,7 +3966,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ισαακ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "jitschak (sau Isaac), fiu al Abraham.",
+    "def_ro": "jitschak (sau Isaac).",
     "greek_def_ro": "Ισαακ (Isaak) — Isaac, nume propriu.",
     "dict_ro": "Itschaq (Yitschaq), „va râde”: numele fiului făgăduit Sarei (17:19, 21) — numele vine de la râsul lui Avraam (17:17); „Isaac” înseamnă „el râde”."
    },
@@ -3982,7 +3982,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "τέξεταί",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a bear tânăr; causatively, a beget; medically, a act ca midwife; in special, a show lineage.",
+    "def_ro": "a naște.",
     "dict_ro": "Yalad, „a naște”: „Sara va naște” (17:17, 19, 21) — verbul făgăduinței și al nașterii nesperate; Septuaginta spune τέξεται, „va naște”, și γεννηθήσεται, „se va naște”.",
     "greek_def_ro": "τίκτω (tikto) — a naște („va naște”)."
    },
@@ -4014,7 +4014,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "τὸν καιρὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, appointment, adică fixed timp sau season; in special, festival; conventionally year; de implicație, assembly (ca convened pentru definite purpose); technically congregation; de extension, loc al meeting; de asemenea signal (ca appointed beforehand).",
+    "def_ro": "vreme hotărâtă, soroc, sărbătoare; o întâlnire rânduită.",
     "dict_ro": "Mo’ed, „vreme hotărâtă”: „la anul, la vremea aceasta” (17:21) — Isaac se va naște la un termen fixat de Dumnezeu; cuvântul spune și „sărbătoare” (Levitic 23).",
     "greek_def_ro": "καιρός (kairos) — timp hotărât („vremea”)."
    },
@@ -4030,7 +4030,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv, cu articol",
     "greek": "ἑτέρῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, hinder; generally, next, alt, etc.",
+    "def_ro": "altul, următor, cel de după.",
     "dict_ro": "Acher, „altul, următor”: „în anul viitor” (17:21), la un an după descoperire; Septuaginta spune ἐν τῷ ἐνιαυτῷ τῷ ἑτέρῳ.",
     "greek_def_ro": "ἕτερος (heteros) — altul, următor (la dativ: „în anul următor”)."
    },
@@ -4121,7 +4121,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "συνετέλεσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a end, dacă intransitive (a cease, fi finished, perish) sau transitive (a complete, prepare, consume).",
+    "def_ro": "a se sfârși, a isprăvi.",
     "greek_def_ro": "συντελέω (synteleo) — a încheia, a desăvârși.",
     "dict_ro": "Kalah, „a se sfârși”: Dumnezeu „a încetat să vorbească” (17:22) — sfârșitul descoperirii; Avraam rămâne cu porunca de a o împlini."
    },
@@ -4137,7 +4137,7 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "λαλῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "poate propriu-zis, a arrange; dar folosit figurat (al words), a vorbi; rarely (in destructive sens) a subdue.",
+    "def_ro": "poate propriu-zis.",
     "greek_def_ro": "λαλέω (laleo) — a vorbi; la participiu, „vorbind”.",
     "dict_ro": "Dibber, „a vorbi”: „Dumnezeu a vorbit cu el” (17:3) — verbul ia forma „cu” (itto), adică dialog, nu poruncă dintr-o parte; la 17:22 vorbirea se încheie."
    },
@@ -4169,7 +4169,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀνέβη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a ascend, intransitively (fi high) sau actively (mount); folosit in mare variety al senses, primary si secondary, literal si figurative.",
+    "def_ro": "a urca, a se sui.",
     "greek_def_ro": "ἀναβαίνω (anabaino) — a urca („a urcat”).",
     "dict_ro": "Alah, „a urca”: „S-a ridicat Dumnezeu de la el” (17:22) — plecarea lui Dumnezeu, spusă ca o urcare, după ce a vorbit."
    },
@@ -4185,7 +4185,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi” (Easton: „tatăl multor”): noul nume al lui Avram (17:5), dat odată cu legământul; Septuaginta scrie Αβρααμ, forma din Noul Testament."
    },
@@ -4273,7 +4273,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi” (Easton: „tatăl multor”): noul nume al lui Avram (17:5), dat odată cu legământul; Septuaginta scrie Αβρααμ, forma din Noul Testament."
    },
@@ -4289,7 +4289,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔλαβεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a lua (in widest variety al applications).",
+    "def_ro": "a lua.",
     "dict_ro": "Laqach, „a lua”: „Avraam a luat pe Ismael” (17:23) și pe toți bărbații casei, ca să-i circumcidă; același verb deschide pregătirea pentru legământ.",
     "greek_def_ro": "λαμβάνω (lambano) — a lua."
    },
@@ -4305,7 +4305,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ισμαηλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "jishmael, nume al Abraham's oldest fiu, si al five Israelites.",
+    "def_ro": "Ismael — „Dumnezeu aude”, fiul lui Avram și al Hagarei.",
     "dict_ro": "Ișmael (Yishma’el), „Dumnezeu aude” (Easton): fiul lui Avraam și al Agarei; Avraam cere pentru el viață înaintea lui Dumnezeu (17:18), iar Dumnezeu îl binecuvântează (17:20), dar legământul va merge prin Isaac (17:21).",
     "greek_def_ro": "Ισμαηλ (Ismael) — Ismael, nume propriu."
    },
@@ -4337,7 +4337,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "οἴκῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "casa (in greatest variation al applications, in special family, etc.).",
+    "def_ro": "casă, gospodărie.",
     "greek_def_ro": "οἶκος (oikos) — casă (la dativ: „în casă”).",
     "dict_ro": "Bayit, „casă”: „cei din casă” (17:12–13, 23, 27) sunt rudele și robii lui Avraam; legământul cuprinde casa întreagă, nu doar fiul."
    },
@@ -4368,7 +4368,7 @@ window.CHAPTER_DATA = [
     "strong": "H3701",
     "pos": "substantiv cu sufix",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "argint (de la al sau pale color); de implicație, money.",
+    "def_ro": "argint (de la al sau pale color); de implicație.",
     "diff_ro": "Septuaginta redă „cumpărat cu bani” (מִקְנַת־כֶּסֶף) printr-un singur cuvânt, ἀργυρώνητος, „cumpărat cu argint”; „banii” nu au cuvânt aparte.",
     "dict_ro": "Kesef, „argint, bani”: „cumpărat cu bani” (17:12–13, 23, 27) — prețul plătit pentru rob; chiar cei aduși din alte neamuri ajung în legământ."
    },
@@ -4384,7 +4384,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἄρσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, remembered, adică male (al om sau animals, ca fiind most noteworthy sex).",
+    "def_ro": "parte bărbătească, cel de sex bărbătesc.",
     "dict_ro": "Zachar, „parte bărbătească”: „orice parte bărbătească” (17:10, 12–14, 23) trebuie să fie circumcisă: legământul se face pe trupul bărbaților.",
     "greek_def_ro": "ἄρσην (arsen) — bărbat, parte bărbătească (la neutru)."
    },
@@ -4400,7 +4400,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τῶν ἀνδρῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si in such cases frequently nu expressed in translation).",
+    "def_ro": "om ca individual sau male persoana.",
     "greek_def_ro": "ἀνήρ (aner) — bărbat (la genitiv plural: „ai bărbaților”).",
     "dict_ro": "Ish, „bărbat, om”: „toți bărbații casei lui Avraam” (17:23, 27) sunt circumciși în aceeași zi; Septuaginta spune οἱ ἄνδρες."
    },
@@ -4416,7 +4416,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi” (Easton: „tatăl multor”): noul nume al lui Avram (17:5), dat odată cu legământul; Septuaginta scrie Αβρααμ, forma din Noul Testament."
    },
@@ -4464,7 +4464,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ἡμέρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "bone (ca tare); de extension, trup; figurat, substance, adică (ca pron.) selfsame.",
+    "def_ro": "bone (ca tare).",
     "greek_def_ro": "ἡμέρα (hemera) — zi (la genitiv: „a zilei”).",
     "dict_ro": "Etsem, „os, esență, chiar”: „în chiar ziua aceea” (17:23, 26) — Avraam împlinește porunca fără întârziere, în aceeași zi."
    },
@@ -4480,7 +4480,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐλάλησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "poate propriu-zis, a arrange; dar folosit figurat (al words), a vorbi; rarely (in destructive sens) a subdue.",
+    "def_ro": "poate propriu-zis.",
     "greek_def_ro": "λαλέω (laleo) — a vorbi („a vorbit”).",
     "dict_ro": "Dibber, „a vorbi”: „Dumnezeu a vorbit cu el” (17:3) — verbul ia forma „cu” (itto), adică dialog, nu poruncă dintr-o parte; la 17:22 vorbirea se încheie."
    },
@@ -4587,7 +4587,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi” (Easton: „tatăl multor”): noul nume al lui Avram (17:5), dat odată cu legământul; Septuaginta scrie Αβρααμ, forma din Noul Testament."
    },
@@ -4635,7 +4635,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὴν σάρκα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "carne (de la al sau freshness); de extension, trup, persoana; de asemenea (de euphemistically) pudenda al om.",
+    "def_ro": "carne, trup.",
     "greek_def_ro": "σάρξ (sarx) — carne, trup (la acuzativ: „carnea”).",
     "dict_ro": "Basar, „carne, trup”: „carnea prepuțului” (17:11, 14, 23–25) — legământul e înscris în trup; „legământul Meu va fi în carnea voastră” (17:13)."
    },
@@ -4736,7 +4736,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ισμαηλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "jishmael, nume al Abraham's oldest fiu, si al five Israelites.",
+    "def_ro": "Ismael — „Dumnezeu aude”, fiul lui Avram și al Hagarei.",
     "greek_def_ro": "Ισμαηλ (Ismael) — Ismael, nume propriu.",
     "dict_ro": "Ișmael (Yishma’el), „Dumnezeu aude” (Easton): fiul lui Avraam și al Agarei; Avraam cere pentru el viață înaintea lui Dumnezeu (17:18), iar Dumnezeu îl binecuvântează (17:20), dar legământul va merge prin Isaac (17:21)."
    },
@@ -4752,7 +4752,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "ἐτῶν δέκα τριῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "three; occasionally (ordinal) third, sau (multiple) thrice.",
+    "def_ro": "trei, numeralul 3; și „treisprezece” când se leagă de zece.",
     "greek_def_ro": "ἔτος (etos), δέκα (deka), τρεῖς (treis) — de treisprezece ani.",
     "dict_ro": "Shalosh, „trei”: „treisprezece ani” (17:25) — vârsta lui Ismael la circumcizie, de unde unii socotesc începutul majoratului religios."
    },
@@ -4784,7 +4784,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὴν σάρκα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "carne (de la al sau freshness); de extension, trup, persoana; de asemenea (de euphemistically) pudenda al om.",
+    "def_ro": "carne, trup.",
     "greek_def_ro": "σάρξ (sarx) — carne, trup (la acuzativ: „carnea”).",
     "dict_ro": "Basar, „carne, trup”: „carnea prepuțului” (17:11, 14, 23–25) — legământul e înscris în trup; „legământul Meu va fi în carnea voastră” (17:13)."
    },
@@ -4875,7 +4875,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἡμέρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "bone (ca tare); de extension, trup; figurat, substance, adică (ca pron.) selfsame.",
+    "def_ro": "bone (ca tare).",
     "greek_def_ro": "ἡμέρα (hemera) — zi (la genitiv: „a zilei”).",
     "dict_ro": "Etsem, „os, esență, chiar”: „în chiar ziua aceea” (17:23, 26) — Avraam împlinește porunca fără întârziere, în aceeași zi."
    },
@@ -4891,7 +4891,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ἐκείνῃ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "zi (ca warm hours), dacă literal (de la sunrise a sunset, sau de la unul sunset a next), sau figurative ( space al timp defined de associated term), (adesea folosit adverb).",
+    "def_ro": "zi, de la răsărit la apus sau de la un apus la altul; și interval de timp.",
     "greek_def_ro": "ἐκεῖνος (ekeinos) — acela („aceea”).",
     "dict_ro": "Yom, „zi”: „în chiar ziua aceea” (17:23, 26) — ziua în care Avraam a ascultat; și „ziua a opta” (17:12), data circumciziei."
    },
@@ -4923,7 +4923,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi” (Easton: „tatăl multor”): noul nume al lui Avram (17:5), dat odată cu legământul; Septuaginta scrie Αβρααμ, forma din Noul Testament."
    },
@@ -4939,7 +4939,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "καὶ Ισμαηλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "jishmael, nume al Abraham's oldest fiu, si al five Israelites.",
+    "def_ro": "Ismael — „Dumnezeu aude”, fiul lui Avram și al Hagarei.",
     "greek_def_ro": "Ισμαηλ (Ismael) — Ismael, nume propriu; „și Ismael”.",
     "dict_ro": "Ișmael (Yishma’el), „Dumnezeu aude” (Easton): fiul lui Avraam și al Agarei; Avraam cere pentru el viață înaintea lui Dumnezeu (17:18), iar Dumnezeu îl binecuvântează (17:20), dar legământul va merge prin Isaac (17:21)."
    },
@@ -5029,7 +5029,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "οἱ ἄνδρες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si in such cases frequently nu expressed in translation).",
+    "def_ro": "om ca individual sau male persoana.",
     "greek_def_ro": "ἀνήρ (aner) — bărbat (la plural: „bărbații”).",
     "dict_ro": "Ish, „bărbat, om”: „toți bărbații casei lui Avraam” (17:23, 27) sunt circumciși în aceeași zi; Septuaginta spune οἱ ἄνδρες."
    },
@@ -5061,7 +5061,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "οἴκου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "casa (in greatest variation al applications, in special family, etc.).",
+    "def_ro": "casă, gospodărie.",
     "greek_def_ro": "οἶκος (oikos) — casă (la genitiv: „a casei”).",
     "dict_ro": "Bayit, „casă”: „cei din casă” (17:12–13, 23, 27) sunt rudele și robii lui Avraam; legământul cuprinde casa întreagă, nu doar fiul."
    },
@@ -5092,7 +5092,7 @@ window.CHAPTER_DATA = [
     "strong": "H3701",
     "pos": "substantiv",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "argint (de la al sau pale color); de implicație, money.",
+    "def_ro": "argint (de la al sau pale color); de implicație.",
     "diff_ro": "Septuaginta redă „cumpărat cu bani” (מִקְנַת־כֶּסֶף) printr-un singur cuvânt, ἀργυρώνητος, „cumpărat cu argint”; „banii” nu au cuvânt aparte.",
     "dict_ro": "Kesef, „argint, bani”: „cumpărat cu bani” (17:12–13, 23, 27) — prețul plătit pentru rob; chiar cei aduși din alte neamuri ajung în legământ."
    },
@@ -5108,7 +5108,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀλλογενῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "foreign, sau (concretely) foreigner, sau (abstractly) heathendom.",
+    "def_ro": "străin, de alt neam.",
     "greek_def_ro": "ἀλλογενής (allogenes) — de alt neam (la genitiv plural: „de alte neamuri”).",
     "dict_ro": "Nekhar, „străin”: „fiu de străin” (17:12, 27) — cel din alt neam; legământul nu rămâne închis între ai lui Avraam, ci se deschide celor din afară care intră în casa lui."
    },

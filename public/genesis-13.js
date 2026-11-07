@@ -408,7 +408,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Βαιθηλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Bet-El — „casa lui Dumnezeu”.",
+    "def_ro": "Betel — „casa lui Dumnezeu”, loc în centrul țării, la nord de Ierusalim.",
     "greek_def_ro": "Βαιθηλ (Baithel) — Betel, nume propriu.",
     "dict_ro": "Betel (Beth El), „casa lui Dumnezeu” (Easton): Avram se întoarce la Betel, locul primului său altar între Betel și Ai (12:8), „până la locul unde fusese cortul său la început” (13:3)."
    },
@@ -488,7 +488,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Βαιθηλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Bet-El — „casa lui Dumnezeu”.",
+    "def_ro": "Betel — „casa lui Dumnezeu”, loc în centrul țării, la nord de Ierusalim.",
     "greek_def_ro": "Βαιθηλ (Baithel) — Betel, nume propriu.",
     "dict_ro": "Betel (Beth El), „casa lui Dumnezeu” (Easton): Avram se întoarce la Betel, locul primului său altar între Betel și Ai (12:8), „până la locul unde fusese cortul său la început” (13:3)."
    },
@@ -1179,7 +1179,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, cu articol",
     "greek": "Χαναναῖοι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "canaanit — locuitor al ținutului Canaan.",
+    "def_ro": "canaanit, locuitor al Canaanului.",
     "greek_def_ro": "Χαναναῖος (Chananaios) — canaanit („canaaniții”).",
     "dict_ro": "Canaanitul (Kenaani): „canaanitul și perizitul erau atunci în țară” (13:7): țara nu era goală, și cearta dintre păstori avea să se vadă pe fața celor din țară, de aceea Avram se grăbește s-o stingă."
    },
@@ -1195,7 +1195,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, cu articol",
     "greek": "οἱ Φερεζαῖοι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "perizit — neam din Canaan, pomenit alături de canaaniți.",
+    "def_ro": "perizit — neam din Canaan.",
     "greek_def_ro": "Φερεζαῖος (Pherezaios) — perizit („perizitul”).",
     "dict_ro": "Perizitul (Perizzi): neam din Canaan, pomenit alături de canaaniți (13:7; 15:20); textul nu spune nimic mai mult despre el."
    },
@@ -1370,7 +1370,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "μάχη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ceartă, vrajbă; din aceeași rădăcină cu riv.",
+    "def_ro": "ceartă, vrajbă.",
     "greek_def_ro": "μάχη (mache) — luptă, ceartă.",
     "dict_ro": "Meribah, „ceartă”: cuvântul din 13:8 vine din aceeași rădăcină ca riv din 13:7; mai târziu va numi locul din Exod 17:7 și din Numeri 20:13."
    },
@@ -2301,7 +2301,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χανααν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Canaan — fiul lui Ham și strămoșul canaaniților.",
+    "def_ro": "kenaan, fiu Ham.",
     "greek_def_ro": "Χανααν (Chanaan) — Canaan, nume propriu.",
     "dict_ro": "Canaan (Kenaan): Avram „s-a așezat în țara Canaanului” (13:12), în timp ce Lot alege orașele câmpiei; țara Canaanului este cea făgăduită (12:7; 13:15)."
    },

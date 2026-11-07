@@ -2584,7 +2584,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Ever — urmaș al lui Șem; „dincolo, de partea cealaltă”.",
     "greek_def_ro": "Εβερ (Eber) — Ever, nume propriu.",
-    "dict_ro": "Ever (Ever), „dincolo, de cealaltă parte” (Easton): strămoșul neamului ebraic (10:21, 24–25); la 11:14–17 e părintele lui Peleg. Din numele lui vine, după tradiție, cuvântul „ebreu”."
+    "dict_ro": "Ever (Ever), „dincolo, de cealaltă parte” (Easton): strămoșul neamului ebraic (10:21, 24–25); la 11:14–17 e părintele lui Peleg. Din numele lui vine, după tradiție, cuvântul „evreu”."
    },
    {
     "t": "."
@@ -2708,7 +2708,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Ever — urmaș al lui Șem; „dincolo, de partea cealaltă”.",
     "greek_def_ro": "Εβερ (Eber) — Ever, nume propriu (la acuzativ).",
-    "dict_ro": "Ever (Ever), „dincolo, de cealaltă parte” (Easton): strămoșul neamului ebraic (10:21, 24–25); la 11:14–17 e părintele lui Peleg. Din numele lui vine, după tradiție, cuvântul „ebreu”."
+    "dict_ro": "Ever (Ever), „dincolo, de cealaltă parte” (Easton): strămoșul neamului ebraic (10:21, 24–25); la 11:14–17 e părintele lui Peleg. Din numele lui vine, după tradiție, cuvântul „evreu”."
    },
    {
     "t": " și i s-au "
@@ -2815,7 +2815,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Ever — urmaș al lui Șem; „dincolo, de partea cealaltă”.",
     "greek_def_ro": "Εβερ (Eber) — Ever, nume propriu.",
-    "dict_ro": "Ever (Ever), „dincolo, de cealaltă parte” (Easton): strămoșul neamului ebraic (10:21, 24–25); la 11:14–17 e părintele lui Peleg. Din numele lui vine, după tradiție, cuvântul „ebreu”."
+    "dict_ro": "Ever (Ever), „dincolo, de cealaltă parte” (Easton): strămoșul neamului ebraic (10:21, 24–25); la 11:14–17 e părintele lui Peleg. Din numele lui vine, după tradiție, cuvântul „evreu”."
    },
    {
     "t": " "
@@ -2942,7 +2942,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Ever — urmaș al lui Șem; „dincolo, de partea cealaltă”.",
     "greek_def_ro": "Εβερ (Eber) — Ever, nume propriu.",
-    "dict_ro": "Ever (Ever), „dincolo, de cealaltă parte” (Easton): strămoșul neamului ebraic (10:21, 24–25); la 11:14–17 e părintele lui Peleg. Din numele lui vine, după tradiție, cuvântul „ebreu”."
+    "dict_ro": "Ever (Ever), „dincolo, de cealaltă parte” (Easton): strămoșul neamului ebraic (10:21, 24–25); la 11:14–17 e părintele lui Peleg. Din numele lui vine, după tradiție, cuvântul „evreu”."
    },
    {
     "t": " "
@@ -5178,7 +5178,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "ותהי שרי עקרה אין לה ילד",
-    "translation": "Diferență reală, confirmată: ותהי שרי עקרה אין לה ילד — „But Sarai was barren; she [had] no child.”",
+    "translation": "Diferență reală, confirmată: ותהי שרי עקרה אין לה ילד — „Dar Sarai era stearpă; nu avea copil.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],

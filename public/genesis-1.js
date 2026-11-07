@@ -2134,7 +2134,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Sfântul Vasile cel Mare, Hexaimeron 3.9",
-    "text": "Cât despre despărțirea apelor, sunt nevoit să resping părerea unor scriitori bisericești care, sub umbra unor concepții înalte și sublime, au alunecat spre metaforă și au văzut în ape doar o închipuire pentru puterile spirituale și netrupești — cele bune sus, deasupra tăriei; cele rele jos, în pământ și materie. Să lepădăm aceste teorii ca pe niște vise și povești de babe."
+    "text": "Cât despre despărțirea apelor, sunt nevoit să resping părerea unor scriitori bisericești care, sub umbra unor concepții înalte și sublime, au alunecat spre metaforă și au văzut în ape doar o închipuire pentru puterile spirituale și fără trup — cele bune sus, deasupra tăriei; cele rele jos, în pământ și materie. Să lepădăm aceste teorii ca pe niște vise și povești de babe."
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -3285,7 +3285,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Ioan Gură de Aur, Omilie la Evanghelia lui Matei 49",
-    "text": "Și de ce n-a făcut-o din nimic? Ca să astupe gura lui Marcion și a maniheilor, care despart creația de El, și, prin înseși lucrările Sale, să arate că toate cele văzute sunt lucrările și făpturile Lui — arătând că El Însuși dă roadele, El Care a zis la început: «Să dea pământul din sine iarbă verde», și «Să scoată apele din sine vietăți ce se mișcă, cu suflet viu»."
+    "text": "Și de ce n-a făcut-o din nimic? Ca să astupe gura lui Marcion și a adepților lui Mani, care despart creația de El, și, prin înseși lucrările Sale, să arate că toate cele văzute sunt lucrările și făpturile Lui — arătând că El Însuși dă roadele, El Care a zis la început: «Să dea pământul din sine iarbă verde», și «Să scoată apele din sine vietăți ce se mișcă, cu suflet viu»."
    },
    {
     "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament",
@@ -5723,7 +5723,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 1.26",
-    "text": "După ce Moise a vorbit despre luminătorii apăruți în tărie, s-a întors să scrie despre vietățile mișunătoare, păsările și șerpii creați din ape în ziua a cincea, zicând: «Să mișune apele de viețuitoare, și să zboare păsările deasupra pământului.» Când apele au fost adunate, lucru rânduit în ziua a doua, s-au rânduit și râurile, și s-au arătat izvoare, lacuri și iazuri. La cuvântul lui Dumnezeu, aceste ape — răspândite prin toată creația — au scos din ele vietăți mișunătoare și pești: șerpii au fost creați în adâncuri, iar păsările s-au înălțat în stoluri din valuri, spre văzduh."
+    "text": "După ce Moise a vorbit despre luminătorii apăruți în tărie, s-a întors să scrie despre vietățile mișcătoare, păsările și șerpii creați din ape în ziua a cincea, zicând: «Să mișune apele de viețuitoare, și să zboare păsările deasupra pământului.» Când apele au fost adunate, lucru rânduit în ziua a doua, s-au rânduit și râurile, și s-au arătat izvoare, lacuri și iazuri. La cuvântul lui Dumnezeu, aceste ape — răspândite prin toată creația — au scos din ele vietăți mișcătoare și pești: șerpii au fost creați în adâncuri, iar păsările s-au înălțat în stoluri din valuri, spre văzduh."
    },
    {
     "author": "Tertulian, Împotriva lui Hermogene 22",
@@ -6923,7 +6923,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 1.27",
-    "text": "După ce Moise a vorbit despre crearea vietăților mișunătoare, a păsărilor și a șerpilor de mare din ziua a cincea, s-a întors să scrie despre târâtoare, animale și fiare, create în ziua a șasea, zicând: «Să dea pământul din sine viețuitoare după soiul lor: dobitoace, târâtoare și fiare.» Deși tot pământul mișuna de vietăți târâtoare, totuși dobitoacele și fiarele au fost făcute la hotarul Raiului, ca să locuiască la locul rânduit lui Adam."
+    "text": "După ce Moise a vorbit despre crearea vietăților mișcătoare, a păsărilor și a șerpilor de mare din ziua a cincea, s-a întors să scrie despre târâtoare, animale și fiare, create în ziua a șasea, zicând: «Să dea pământul din sine viețuitoare după soiul lor: dobitoace, târâtoare și fiare.» Deși tot pământul mișuna de vietăți târâtoare, totuși dobitoacele și fiarele au fost făcute la hotarul Raiului, ca să locuiască la locul rânduit lui Adam."
    },
    {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 1",
@@ -8779,7 +8779,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Grigorie de Nyssa, Despre obârșia omului",
-    "text": "Observăm totuși că multe fiare sălbatice nu mănâncă rod. Ce rod mănâncă panterul? Ce rod dă putere leului? Și totuși aceste făpturi, supunându-se legilor firii, mâncau roade. Și tot așa, când omul cel dintâi și-a schimbat felul de viață și a călcat hotarele puse lui, Domnul, după potop, cunoscând risipa oamenilor, le-a îngăduit să folosească orice hrană. Odată ce li s-a îngăduit aceasta oamenilor, și celelalte animale au primit libertatea de a mânca. Așa a ajuns leul mâncător de carne, și vulturul caută stârvuri."
+    "text": "Observăm totuși că multe fiare sălbatice nu mănâncă rod. Ce rod mănâncă pantera? Ce rod dă putere leului? Și totuși aceste făpturi, supunându-se legilor firii, mâncau roade. Și tot așa, când omul cel dintâi și-a schimbat felul de viață și a călcat hotarele puse lui, Domnul, după potop, cunoscând risipa oamenilor, le-a îngăduit să folosească orice hrană. Odată ce li s-a îngăduit aceasta oamenilor, și celelalte animale au primit libertatea de a mânca. Așa a ajuns leul mâncător de carne, și vulturul caută stârvuri."
    },
    {
     "author": "Origen, Omilii la Facere 1.17",

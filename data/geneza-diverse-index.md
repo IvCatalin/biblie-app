@@ -444,17 +444,17 @@ _nicio trimitere explicită în Diverse_
 
 # Ce rânduri sunt deja în fișierele genesis-N.js (după autor, număr de rânduri)
 
-- Geneza 1 (31 versete): Targum Onkelos 31; Targum Ionatan 31; Radak 28; Sforno 26; Rashi 24; Rashbam 24; Talmudul Babilonian 24; Ramban / Nahmanide 23; Chizkuni 23; Or HaChaim 23; Ibn Ezra 22; Zohar Chadash 21; ? 18; Zohar 16; Fericitul Augustin 14; Beda Venerabilul 13; Sfântul Vasile cel Mare 12; Bekhor Shor 11; Josephus Flavius 10; Context cultural 9; Ioan Gură de Aur 9; Cartea Jubileelor 9; Efrem Sirul 8; Origen 7; Tertulian 7; Da'at Zekenim 6; Ambrozie al Milanului 6; Sefer HaBahir 4; Adam Clarke 4; John Gill 4; Grigorie de Nyssa 4; Ioan Calvin 3; Chiril al Ierusalimului 3; Jamieson 3; Mișna 3; Matthew Henry 2; Oracolele Sibiline 2; Ipolit al Romei 2; Odele lui Solomon 2; Cartea Dreptului 2; Înțelepciunea lui Solomon 2; Înțelepciunea lui Isus Sirah 2; Ba'al HaTurim 1; Rugăciunea lui Manase 1; Keil și Delitzsch 1; Ieronim 1; Cartea tăinuirii 1; Irineu 1; Epistola lui Barnaba 1; Grigorie de Nazianz 1
-- Geneza 2 (25 versete): Targum Onkelos 25; Targum Ionatan 25; Radak 24; Ibn Ezra 23; Chizkuni 22; Sforno 21; Rashi 20; Zohar 16; Beda Venerabilul 14; Bekhor Shor 14; Ramban / Nahmanide 13; Talmudul Babilonian 12; Ioan Gură de Aur 12; Ambrozie al Milanului 11; Or HaChaim 10; Zohar Chadash 10; Efrem Sirul 9; Cartea Jubileelor 9; Fericitul Augustin 8; Ieronim 7; Adam Clarke 5; Keil 5; Tertulian 5; Cartea Dreptului 4; ? 4; John Gill 3; Context cultural 3; Josephus Flavius 3; Grigorie de Nazianz 3; Matthew Henry 3; Rashbam 2; Ioan Calvin 2; Sfântul Vasile cel Mare 2; Chiril al Ierusalimului 2; Filon din Alexandria 2; Oracolele Sibiline 2; Da'at Zekenim 1; Sefer HaBahir 1; Adunarea cea mare 1; Calea Pomului Vieții 1; Înțelepciunea lui Isus Sirah 1; Jamieson 1; Origen 1; Viața lui Adam și Eva 1; Tovit 1; Grigorie de Nyssa 1
+- Geneza 1 (31 versete): Targum Onkelos 31; Targum Ionatan 31; Radak 28; Sforno 26; Rashi 24; Rashbam 24; Talmudul Babilonian 24; Ramban / Nahmanide 23; Chizkuni 23; Or HaChaim 23; Ibn Ezra 22; Zohar Chadash 21; ? 18; Zohar 16; Fericitul Augustin 14; Beda Venerabilul 13; Sfântul Vasile cel Mare 12; Bekhor Shor 11; Josephus Flavius 10; Context cultural 9; Ioan Gură de Aur 9; Cartea Jubileelor 9; Efrem Sirul 8; Origen 7; Tertulian 7; Da'at Zekenim 6; Ambrozie al Milanului 6; Sefer HaBahir 4; Adam Clarke 4; John Gill 4; Grigorie de Nyssa 4; Ioan Calvin 3; Chiril al Ierusalimului 3; Jamieson 3; Matthew Henry 2; Oracolele Sibiline 2; Ipolit al Romei 2; Mișna 2; Odele lui Solomon 2; Cartea Dreptului 2; Înțelepciunea lui Solomon 2; Înțelepciunea lui Isus Sirah 2; Ba'al HaTurim 1; Rugăciunea lui Manase 1; Keil și Delitzsch 1; Ieronim 1; Cartea tăinuirii 1; Irineu 1; Epistola lui Barnaba 1; Grigorie de Nazianz 1
+- Geneza 2 (25 versete): Targum Onkelos 25; Targum Ionatan 25; Radak 24; Ibn Ezra 23; Chizkuni 22; Sforno 21; Rashi 20; Zohar 15; Beda Venerabilul 14; Bekhor Shor 14; Ramban / Nahmanide 13; Talmudul Babilonian 12; Ioan Gură de Aur 12; Ambrozie al Milanului 11; Or HaChaim 10; Zohar Chadash 10; Efrem Sirul 9; Cartea Jubileelor 9; Fericitul Augustin 8; Ieronim 7; Adam Clarke 5; Keil 5; Tertulian 5; Cartea Dreptului 4; ? 4; John Gill 3; Context cultural 3; Josephus Flavius 3; Grigorie de Nazianz 3; Matthew Henry 3; Rashbam 2; Ioan Calvin 2; Sfântul Vasile cel Mare 2; Chiril al Ierusalimului 2; Filon din Alexandria 2; Oracolele Sibiline 2; Da'at Zekenim 1; Sefer HaBahir 1; Adunarea cea mare 1; Calea Pomului Vieții 1; Înțelepciunea lui Isus Sirah 1; Jamieson 1; Origen 1; Viața lui Adam și Eva 1; Tovit 1; Grigorie de Nyssa 1
 - Geneza 3 (24 versete): Targum Onkelos 24; Targum Ionatan 24; Radak 23; Rashi 21; Sforno 21; Chizkuni 21; Ibn Ezra 19; Apocalipsa lui Moise 19; Or HaChaim 17; Bekhor Shor 14; Fericitul Augustin 14; Cartea Jubileelor 13; Efrem Sirul 13; Zohar 12; Ioan Gură de Aur 11; Ambrozie al Milanului 9; Ramban / Nahmanide 9; Zohar Chadash 8; Ieronim 8; Viața lui Adam și Eva 6; ? 6; Ioan Calvin 5; Da'at Zekenim 5; Filon din Alexandria 4; Beda Venerabilul 4; Josephus Flavius 4; Origen 4; Tertulian 4; Irineu 3; Rashbam 3; Talmudul Babilonian 3; Sefer HaBahir 2; Context cultural 2; Matthew Henry 2; Philon din Alexandria 2; Cartea Dreptului 2; Oracolele Sibiline 2; Înțelepciunea lui Solomon 1; Tratatul Soferim 1; Grigorie de Nyssa 1; Apocalipsa lui Avraam 1; Înțelepciunea lui Isus Sirah 1; Grădina Încuiată 1; Teodoret de Cir 1; Clement Alexandrinul 1; John Gill 1
 - Geneza 4 (26 versete): Targum Onkelos 26; Targum Ionatan 26; Radak 26; Rashi 22; Ibn Ezra 22; Chizkuni 17; Sforno 14; Bekhor Shor 13; Cartea Dreptului 12; Beda Venerabilul 12; Jamieson 12; Ramban / Nahmanide 11; John Wesley 10; Ioan Gură de Aur 8; Efrem Sirul 8; Or HaChaim 7; Cartea Jubileelor 7; Fericitul Augustin 6; Adam Clarke 6; Da'at Zekenim 5; Zohar 4; Apocalipsa lui Moise 3; Rashbam 3; Josephus Flavius 3; Origen 2; Talmudul Babilonian 2; Ieronim 2; Adunarea cea mare 1; Mișna 1; Chiril al Ierusalimului 1; Ioan Calvin 1; Ambrozie al Milanului 1; Clement Alexandrinul 1; Context cultural 1; Zohar Chadash 1; Vasile cel Mare 1; Teodoret de Cir 1; Viața lui Adam și Eva 1
-- Geneza 5 (32 versete): Notă structurală 14; Radak 8; Notă lingvistică 7; Rashi 6; Ibn Ezra 5; Zohar 5; Ramban / Nahmanide 4; Sforno 4; Descoperire din verificarea directă a Pentateuhului Samaritean 3; Da'at Zekenim 2; Talmudul Babilonian 2; Context cultural 2; Josephus Flavius 2; Rashbam 2; Mișna 1; Bereshit Rabbah 1; ? 1
-- Geneza 6 (22 versete): Radak 22; Ibn Ezra 18; Rashi 16; Ramban / Nahmanide 15; Sforno 14; Zohar 8; Talmudul Babilonian 7; Da'at Zekenim 6; Context cultural 4; Rashbam 2; Josephus Flavius 1; Context patristic timpuriu 1; ? 1
-- Geneza 7 (24 versete): Radak 24; Rashi 17; Ibn Ezra 9; Zohar 7; Ramban / Nahmanide 6; Sforno 5; Da'at Zekenim 5; Context cultural 4; Talmudul Babilonian 2
-- Geneza 8 (22 versete): Rashi 19; Radak 19; Ibn Ezra 13; Ramban / Nahmanide 6; Sforno 6; Da'at Zekenim 5; Zohar 3; Context cultural 1; Rashbam 1
-- Geneza 9 (29 versete): Radak 28; Rashi 22; Ibn Ezra 22; Sforno 20; Ramban / Nahmanide 9; Zohar 8; Talmudul Babilonian 5; Da'at Zekenim 2; Context cultural 2; Cartea Jubileelor 1
-- Geneza 10 (32 versete): Radak 26; Rashi 13; Notă structurală 11; Ramban / Nahmanide 10; Ibn Ezra 10; Context cultural 9; Sforno 8; Rashbam 2; Zohar 1; Da'at Zekenim 1
-- Geneza 11 (32 versete): Radak 16; Rashi 14; Ibn Ezra 13; Notă structurală 12; Sforno 8; Talmudul Babilonian 7; Context cultural 5; Zohar 5; Ramban / Nahmanide 4; Rashbam 1; Cartea Jubileelor 1; Da'at Zekenim 1
+- Geneza 5 (32 versete): Targum Onkelos 32; Targum Ionatan 29; Cartea Dreptului 13; Cartea Jubileelor 10; Chizkuni 9; Radak 8; Rashi 6; Zohar 6; Ibn Ezra 5; Ramban / Nahmanide 4; Sforno 4; Fericitul Augustin 4; Notă structurală 4; John Wesley 4; Or HaChaim 3; Josephus Flavius 3; Zohar Chadash 3; Fericitul Ieronim 3; Ioan Calvin 3; Pentateuhul Samaritean 3; ? 3; Efrem Sirul 3; Da'at Zekenim 2; Talmudul Babilonian 2; Context cultural 2; Origen 2; Beda Venerabilul 2; Bekhor Shor 2; Sirah 2; Rashbam 2; Keil și Delitzsch 1; Mișna 1; Bereshit Rabbah 1; Jamieson 1; Ioan Gură de Aur 1; Tertulian 1; Grigorie de Nazianz 1; Filon din Alexandria 1; Adam Clarke 1
+- Geneza 6 (22 versete): Targum Onkelos 22; Radak 22; Targum Ionatan 21; Cartea Dreptului 21; Chizkuni 19; Ibn Ezra 18; Rashi 16; Ramban / Nahmanide 15; Sforno 14; Cartea Jubileelor 13; Or HaChaim 11; Bekhor Shor 10; Zohar 8; Zohar Chadash 7; Talmudul Babilonian 6; John Wesley 6; Da'at Zekenim 6; Context cultural 4; ? 4; Efrem Sirul 4; Jamieson 4; Cartea tăinuirii 3; Fericitul Ieronim 3; Fericitul Augustin 3; Beda Venerabilul 3; Adunarea cea mare 2; Josephus Flavius 2; Rashbam 2; Fericitul Ambrozie 2; Context patristic timpuriu 1; Testamentul lui Ruben 1; Origen 1; Mișna 1; Testamentul lui Neftali 1; Sirah 1; Înțelepciunea lui Solomon 1; Baruh 1; Vasile cel Mare 1; Calea Pomului Vieții 1; Ioan Gură de Aur 1; Adam Clarke 1; Ioan Calvin 1; John Gill 1
+- Geneza 7 (24 versete): Targum Onkelos 24; Targum Ionatan 24; Radak 24; Cartea Dreptului 24; Rashi 17; Chizkuni 13; Ibn Ezra 9; Zohar 7; Ramban / Nahmanide 6; Bekhor Shor 6; Jamieson 6; Sforno 5; Or HaChaim 5; John Wesley 5; Da'at Zekenim 5; Adam Clarke 4; John Gill 4; Context cultural 4; Cartea Jubileelor 4; Fericitul Augustin 3; Zohar Chadash 2; Talmudul Babilonian 2; Ioan Calvin 1; Josephus Flavius 1; Efrem Sirul 1; Ioan Gură de Aur 1; Iustin Martirul 1; Beda Venerabilul 1
+- Geneza 8 (22 versete): Targum Onkelos 22; Targum Ionatan 22; Cartea Dreptului 20; Rashi 19; Radak 19; Chizkuni 15; Ibn Ezra 13; Jamieson 12; Or HaChaim 9; John Wesley 9; Cartea Jubileelor 7; Ramban / Nahmanide 6; Bekhor Shor 6; Sforno 6; Da'at Zekenim 5; Zohar 3; Beda Venerabilul 3; John Gill 2; Ioan Gură de Aur 2; Fericitul Augustin 2; Efrem Sirul 2; Fericitul Ieronim 1; Context cultural 1; Fericitul Ambrozie 1; Rashbam 1; Ioan Calvin 1; Adunarea cea mare 1; Zohar Chadash 1
+- Geneza 9 (29 versete): Targum Onkelos 29; Targum Ionatan 29; Radak 28; Rashi 22; Ibn Ezra 22; Sforno 20; Chizkuni 19; Bekhor Shor 14; Cartea Jubileelor 13; Jamieson 9; Ramban / Nahmanide 9; Zohar 8; John Wesley 7; Talmudul Babilonian 4; Efrem Sirul 4; John Gill 4; Fericitul Ieronim 4; Beda Venerabilul 4; Adam Clarke 3; Or HaChaim 3; Da'at Zekenim 2; Zohar Chadash 2; Ioan Calvin 2; Context cultural 2; Clement din Alexandria 2; Sefer HaBahir 1; Mișna 1; Grigorie de Nazianz 1; Grădina Încuiată 1; Teodoret de Cir 1; Fericitul Ambrozie 1
+- Geneza 10 (32 versete): Targum Onkelos 32; Targum Ionatan 31; Radak 26; Cartea Dreptului 15; Rashi 13; Chizkuni 12; Notă structurală 11; Ramban / Nahmanide 10; Ibn Ezra 10; Context cultural 9; Cartea Jubileelor 8; Sforno 8; Bekhor Shor 5; Josephus Flavius 4; Beda Venerabilul 4; Adam Clarke 2; Fericitul Ieronim 2; Rashbam 2; Fericitul Augustin 1; John Wesley 1; Ioan Gură de Aur 1; Zohar 1; Efrem Sirul 1; Da'at Zekenim 1
+- Geneza 11 (32 versete): Targum Onkelos 32; Targum Ionatan 32; Radak 16; Rashi 14; Ibn Ezra 13; Notă structurală 12; Chizkuni 10; Sforno 8; Bekhor Shor 7; Talmudul Babilonian 7; Context cultural 5; Zohar 5; Or HaChaim 4; Ramban / Nahmanide 4; Rashbam 1; Cartea Jubileelor 1; Da'at Zekenim 1
 - Geneza 12 (20 versete): Radak 18; Rashi 17; Sforno 16; Ibn Ezra 15; Ramban / Nahmanide 12; Zohar 8; Da'at Zekenim 6; Talmudul Babilonian 2; Cartea Jubileelor 1; Rashbam 1; Mișna 1; Context cultural 1
 - Geneza 13 (18 versete): Radak 18; Rashi 16; Ibn Ezra 13; Sforno 11; Ramban / Nahmanide 6; Zohar 5; Context cultural 4; Talmudul Babilonian 3; Mișna 1
 - Geneza 14 (24 versete): Radak 23; Rashi 21; Ibn Ezra 15; Sforno 15; Ramban / Nahmanide 10; Da'at Zekenim 5; Context cultural 5; Talmudul Babilonian 4; Zohar 3; Notă structurală 2; Rashbam 1
@@ -519,7 +519,7 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 15: Și în anul al cincilea al săptămânii a treia a jubileului acestuia, în luna a tr
 - 16: Și la luna nouă a lunii a patra ne-am arătat lui Avraam, la stejarul Mamre, și a
 - 17: Și în anul întâi al săptămânii a patra Isaac a fost înțărcat în jubileul acesta,
-- 18: Și Dumnezeu i-a zis: Avraame, Avraame; și el a zis: Iată-mă.
+- 18: Și Dumnezeu i-a zis: Avraame, Avraame; și el a zis: Iată-mă.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌​​
 - 19: Și în anul întâi al săptămânii întâi din al patruzeci și doilea jubileu, Avraam 
 - 20: Și în al patruzeci și doilea jubileu, în anul întâi al săptămânii a șasea, Avraa
 - 21: Și în anul al șaselea al săptămânii a șasea a jubileului acestuia Avraam l-a che
@@ -534,13 +534,13 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 30: Și în anul întâi al săptămânii a șasea s-a suit la Salem, la răsărit de Sihem, î
 - 31: Și la luna nouă a lunii Iacob a vorbit tot poporului casei sale, zicând: Curățiț
 - 32: Și a rămas noaptea aceea la Betel, și Levi a visat că-l rânduiseră și-l făcuseră
-- 33: Și Iacob a mers și a locuit la miazăzi de Magdaladraf. Și a mers la tatăl său Is
+- 33: Și Iacob a mers și a locuit la miazăzi de Magdaladraf.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌​​‌‌​​‌ 
 - 34: Și în anul al șaselea al săptămânii acesteia din al patruzeci și patrulea jubile
 - 35: Și în anul întâi al săptămânii întâi din al patruzeci și cincilea jubileu Rebeca
 - 36: Și în anul al șaselea al săptămânii acesteia Isaac i-a chemat pe cei doi fii ai 
 - 37: Și în ziua când a murit Isaac, tatăl lui Iacob și al lui Esau, fiii lui Esau au 
 - 38: Și după aceea Iuda a vorbit lui Iacob, tatăl său, și i-a zis: Întinde-ți arcul, 
-- 39: Și Iacob a locuit în ținutul pribegiilor tatălui său, în ținutul Canaan.
+- 39: Și Iacob a locuit în ținutul pribegiilor tatălui său, în ținutul Canaan.⁠‌‌​‌‌​‌
 - 40: Și în zilele acelea Faraon a visat două vise într-o noapte despre o foamete care
 - 41: Și în al patruzeci și cincilea jubileu, în săptămâna a doua, în anul al doilea, 
 - 42: Și în anul întâi al săptămânii a treia din al patruzeci și cincilea jubileu foam
@@ -576,7 +576,7 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 20: Și la acea vreme Avraam a călătorit din câmpia din Mamre, și a mers la ținutul f
 - 21: Și era la acea vreme la sfârșitul unui an și patru luni al locuirii lui Avraam î
 - 22: Și Ismael atunci s-a ridicat și luat-o pe nevasta sa și pe copiii săi și pe vite
-- 23: La acea vreme Cuvântul Domnului a venit la Avraam, iar El i-a spus lui: Avraam! 
+- 23: La acea vreme Cuvântul Domnului a venit la Avraam, iar El i-a spus lui: Avraam!⁠
 - 24: Iar viața lui Sara a fost de 127 de ani, și Sara a murit; și Avraam s-a ridicat 
 - 25: Și era la acea vreme că Avraam iarăși a luat o nevastă la vârsta lui înaintată, 
 - 26: Și în anul 59 al vieții lui Isaac fiul lui Avraam, Rebeca nevasta sa era încă st
@@ -599,7 +599,7 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 43: Iar când fiii lui Iacob vânduseră pe fratele lor Iosif la midianiți, inimile lor
 - 44: Iar fiii lui Ismael, care îl cumpăraseră pe Iosif de la midianiți, care îl cumpă
 - 45: Și era la acea vreme în an, care este anul ducerii lui Iosif în Egipt după ce fr
-- 46: În acele zile Iosif era încă închis în închisoare în ținutul Egipt.
+- 46: În acele zile Iosif era încă închis în închisoare în ținutul Egipt.⁠‌‌​‌‌​‌​​‌​‌
 - 47: Iar Isaac fiul lui Avraam încă trăia în acele zile în ținutul Canaan; fiind foar
 - 48: În acele zile, după moartea lui Isaac, Domnul a poruncit și a cauzat o foamete a
 - 49: După aceste lucruri regele a trimis să fie adunați toți ofițerii și slujitorii l
@@ -788,47 +788,47 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 139 [Cartea X, cap. 11 — Despre Nebucadnețar și urmașii]: 
 
 ## apocalipsa-moise — Apocalipsa lui Moise (43 capitole)
-- 1: Aceasta este relatarea lui Adam și a Evei după ce au ieșit din Rai.
+- 1: Aceasta este relatarea lui Adam și a Evei după ce au ieșit din Rai.⁠‌‌​‌‌​‌​​‌​‌
 - 2: Și după aceasta Adam și Eva erau unul cu altul și, pe când dormeau, Eva i-a zis 
-- 3: Și s-au dus amândoi și l-au găsit pe Abel ucis de mâna lui Cain, fratele său.
+- 3: Și s-au dus amândoi și l-au găsit pe Abel ucis de mâna lui Cain, fratele său.⁠‌‌
 - 4: Și după aceasta Adam a cunoscut pe Eva, soția sa, și ea a zămislit și l-a născut
 - 5: Și Adam a născut treizeci de fii și treizeci de fiice și Adam a trăit nouă sute 
 - 6: Și Set a răspuns și i-a zis: Ți-ai adus aminte, părinte, de rodul raiului din ca
 - 7: Și Adam i-a zis: Când ne-a făcut Dumnezeu, pe mine și pe mama voastră, prin care
 - 8: Și Dumnezeu s-a mâniat pe noi, și Domnul a venit în rai și m-a chemat cu un glas
-- 9: Pe când spunea aceasta fiilor săi, Adam a gemut greu și a zis: Ce să fac? Sunt î
+- 9: Pe când spunea aceasta fiilor săi, Adam a gemut greu și a zis: Ce să fac?⁠‌‌​‌‌​
 - 10: Atunci Set și Eva s-au dus spre rai, și Eva și-a văzut fiul, și o fiară sălbatic
 - 11: Nu e treaba noastră, Evo, lăcomia și vaietul tău, ci ale tale; căci (tot) de la 
 - 12: Atunci Set grăiește fiarei: Închide-ți gura și taci și stai departe de chipul lu
 - 13: Și Set s-a dus cu Eva aproape de rai, și au plâns acolo, și s-au rugat lui Dumne
-- 14: Așa a grăit îngerul și s-a depărtat de la ei. Și Set și Eva au venit la coliba u
+- 14: Așa a grăit îngerul și s-a depărtat de la ei.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌​‌‌‌​‌‌ Și Set și
 - 15: Atunci zice Eva lor: Ascultați toți, copiii mei și copiii copiilor mei, și vă vo
 - 16: Și diavolul a grăit șarpelui zicând: Scoală-te, vino la mine și-ți voi spune un 
 - 17: Și îndată s-a atârnat de zidul raiului, și când îngerii s-au suit să se închine 
-- 18: Atunci șarpele îmi zice: Viu este Dumnezeu! dar sunt întristat din pricina voast
+- 18: Atunci șarpele îmi zice: Viu este Dumnezeu!⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌​‌‌‌​‌‌ dar sunt în
 - 19: Și i-am deschis și a umblat puțin, apoi s-a întors și mi-a zis: Mi-am schimbat g
 - 20: Și în însuși ceasul acela mi s-au deschis ochii, și îndată am cunoscut că eram g
-- 21: Și am strigat în însuși ceasul acela: Adame, Adame, unde ești? Scoală-te, vino l
+- 21: Și am strigat în însuși ceasul acela: Adame, Adame, unde ești?⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌
 - 22: Și în același ceas am auzit pe arhanghelul Mihail sunând din trâmbiță și chemând
-- 23: Și Dumnezeu l-a chemat pe Adam zicând: Adame, unde ești? Poate casa să se ascund
+- 23: Și Dumnezeu l-a chemat pe Adam zicând: Adame, unde ești?⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌​‌‌‌​‌
 - 24: Dumnezeu îi zice lui Adam: De vreme ce ai nesocotit porunca Mea și ai ascultat d
 - 25: Și Domnul S-a întors spre mine și a zis: De vreme ce ai ascultat de șarpe și ai 
 - 26: Dar S-a întors spre șarpe și a zis: De vreme ce ai făcut aceasta, și ai ajuns un
-- 27: Așa a grăit și a poruncit îngerilor să ne izgonească din rai;
+- 27: Așa a grăit și a poruncit îngerilor să ne izgonească din rai;⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌​
 - 28: Dar Domnul S-a întors spre Adam și a zis: Nu te voi mai lăsa de acum înainte să 
-- 29: Așa a grăit Domnul și a poruncit să fim izgoniți din rai.
+- 29: Așa a grăit Domnul și a poruncit să fim izgoniți din rai.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌​‌‌‌​
 - 30: Acum deci, copiii mei, v-am arătat felul în care am fost înșelați; și voi păziți
 - 31: Și când Eva a spus aceasta în mijlocul fiilor ei, pe când Adam zăcea bolnav și l
-- 32: Și Eva s-a sculat și a ieșit afară și a căzut la pământ și a început să zică:
+- 32: Și Eva s-a sculat și a ieșit afară și a căzut la pământ și a început să zică:⁠‌‌
 - 33: Și Eva s-a sculat și și-a șters lacrimile cu mâna, și îngerul îi zice: Ridică-te
 - 34: Și eu, Eva, am privit două minuni mari și înfricoșate stând în prezența lui Dumn
-- 35: Atunci Set s-a sculat și a venit la mama sa și îi zice: Care e necazul tău? De c
+- 35: Atunci Set s-a sculat și a venit la mama sa și îi zice: Care e necazul tău?⁠‌‌​‌
 - 36: Și Set îi spune mamei sale că ei sunt soarele și luna și ei înșiși cad și se roa
 - 37: Iar pe când Set spunea aceasta mamei sale, iată, un înger a sunat din trâmbiță, 
-- 38: Dar după toate acestea, arhanghelul a întrebat despre așezarea rămășițelor.
-- 39: Și Dumnezeu îi zice: Adame, ce-ai făcut? Dacă ai fi ținut porunca Mea, n-ar fi a
+- 38: Dar după toate acestea, arhanghelul a întrebat despre așezarea rămășițelor.⁠‌‌​‌
+- 39: Și Dumnezeu îi zice: Adame, ce-ai făcut?⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌​‌‌‌​‌‌ Dacă ai fi țin
 - 40: Atunci Dumnezeu a grăit arhanghelilor Mihail, (Gavril, Uriel și Rafail): Duceți-
-- 41: Și Dumnezeu a chemat și a zis: Adame, Adame. Și trupul a răspuns din pământ și a
+- 41: Și Dumnezeu a chemat și a zis: Adame, Adame.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌​‌‌‌​‌‌ Și trupul 
 - 42: După cuvintele acestea, Dumnezeu a făcut o pecete și a pecetluit mormântul, ca n
 - 43: Și Mihail a venit și l-a învățat pe Set cum să o pregătească pe Eva pentru îngro
 
@@ -837,24 +837,24 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 2: Dar după șapte zile au început să flămânzească și s-au apucat să caute hrană să 
 - 3: Și Adam s-a sculat și a umblat șapte zile peste tot ținutul acela, și n-a găsit 
 - 4: Și au umblat și au căutat nouă zile, și n-au găsit nici una precum obișnuiau să 
-- 5: Și Eva i-a zis lui Adam: Ce este pocăința? Spune-mi, ce fel de pocăință am să fa
+- 5: Și Eva i-a zis lui Adam: Ce este pocăința?⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​‌‌‌​​ Spune-mi, ce
 - 6: Și Adam i-a zis Evei: Tu nu poți face atât cât mine, ci fă numai atât cât ai put
-- 7: Și Eva a mers la râul Tigru și a făcut precum îi spusese Adam.
+- 7: Și Eva a mers la râul Tigru și a făcut precum îi spusese Adam.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌
 - 8: Și Adam a zis: Îți spun, apă a Iordanului, întristează-te cu mine, și adună la m
 - 9: Și au trecut optsprezece zile; atunci Satana s-a mâniat și s-a prefăcut în străl
 - 10: Dar Eva a auzit și a crezut și a ieșit din apa râului, și carnea ei era (tremurâ
 - 11: Și când a auzit aceasta, Eva a înțeles că (era) diavolul (cel care) o înduplecas
-- 12: Și cu un suspin greu a grăit diavolul: O Adame! toată vrăjmășia, invidia și într
-- 13: Diavolul a răspuns: Adame, ce-mi spui? Din pricina ta am fost azvârlit din locul
+- 12: Și cu un suspin greu a grăit diavolul: O Adame!⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​‌‌‌​​ toată v
+- 13: Diavolul a răspuns: Adame, ce-mi spui?⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​‌‌‌​​ Din pricina ta a
 - 14: Și Mihail a ieșit și a chemat pe toți îngerii zicând: Închinați-vă chipului lui 
-- 15: Când îngerii care erau sub mine au auzit aceasta, au refuzat să i se închine.
+- 15: Când îngerii care erau sub mine au auzit aceasta, au refuzat să i se închine.⁠‌‌
 - 16: Și Dumnezeu Domnul s-a mâniat pe mine și m-a izgonit pe mine și pe îngerii mei d
 - 17: Când Adam a auzit pe diavol zicând aceasta, a strigat și a plâns și a grăit: O D
 - 18: Și Eva i-a zis lui Adam: Trăiește tu, stăpâne; ție ți s-a dăruit viața, de vreme
 - 19: Și când s-a apropiat vremea nașterii, a început să fie chinuită de dureri, și a 
-- 20: Dar în ceasul acela Adam a zis: Plângerea Evei a ajuns la mine. Poate iarăși s-a
+- 20: Dar în ceasul acela Adam a zis: Plângerea Evei a ajuns la mine.⁠‌‌​‌‌​‌​​‌​‌‌​‌​
 - 21: Și iată, au venit doisprezece îngeri și două «virtuți», stând la dreapta și la s
-- 22: Și Adam a purtat pe Eva și pe băiat și i-a dus spre Răsărit.
+- 22: Și Adam a purtat pe Eva și pe băiat și i-a dus spre Răsărit.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​
 - 23: Și l-au făcut pe Cain plugar, (dar) pe Abel l-au făcut păstor; ca astfel să fie 
 - 24: Și Adam i-a zis Evei: Iată, am născut un fiu, în locul lui Abel, pe care l-a uci
 - 25: Și Adam i-a zis lui Set: Ascultă, fiul meu Set, ca să-ți istorisesc ce am auzit 
@@ -864,14 +864,14 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 29: Și am trecut, și Mihail arhanghelul a trecut cu mine, și m-a dus înapoi în locul
 - 30: După ce Adam a avut nouă sute treizeci de ani, de vreme ce știa că zilele lui aj
 - 31: Atunci a zis Set, fiul său: O stăpâne (al meu), poate ai tânjit după rodul raiul
-- 32: Și Adam a răspuns și a zis: Ascultați-mă, fiii mei. Când ne-a făcut Dumnezeu, pe
-- 33: (Mai mult) Dumnezeu Domnul ne-a dat doi îngeri să ne păzească.
+- 32: Și Adam a răspuns și a zis: Ascultați-mă, fiii mei.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​‌‌‌​​ Cân
+- 33: (Mai mult) Dumnezeu Domnul ne-a dat doi îngeri să ne păzească.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌
 - 34: Și îndată Domnul Dumnezeu s-a mâniat pe noi, și Domnul mi-a zis: Întrucât ai lăs
 - 35: Așa a grăit Adam fiilor săi, și a fost cuprins de dureri cumplite, și a strigat 
 - 36: Și Adam i-a zis Evei: Scoală-te și du-te cu fiul meu Set în vecinătatea raiului,
-- 37: Atunci Set și mama sa au plecat spre porțile raiului. Și pe când umblau, iată! d
+- 37: Atunci Set și mama sa au plecat spre porțile raiului.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​‌‌‌​​ Ș
 - 38: Fiara a răspuns în limba oamenilor: Nu împotriva ta, Evo, e îndreptată răutatea 
-- 39: Atunci a zis Set fiarei: Dumnezeu Domnul să te ocărască. Taci, amuțește, închide
+- 39: Atunci a zis Set fiarei: Dumnezeu Domnul să te ocărască.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​‌‌‌​
 - 40: Dar Set și mama sa au umblat spre ținuturile raiului după untdelemnul milei ca s
 - 41: Dar după ce s-au rugat și au implorat multe ceasuri, iată, îngerul Mihail li s-a
 - 42: Căci îți spun că nicidecum nu vei putea primi din el decât în zilele de pe urmă.
@@ -879,11 +879,11 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 44: Și când Set și mama sa au ajuns la Adam, i-au spus cum fiara [șarpele] l-a mușca
 - 45: Și întocmai cum vestise Mihail arhanghelul, după șase zile a venit moartea lui A
 - 46: și stelele, șapte zile, și Set în jalea sa a îmbrățișat de deasupra trupul tatăl
-- 47: Binecuvântat ești Tu, Doamne, căci Te-ai îndurat de făptura Ta.
+- 47: Binecuvântat ești Tu, Doamne, căci Te-ai îndurat de făptura Ta.⁠‌‌​‌‌​‌​​‌​‌‌​‌​
 - 48: Atunci Set a văzut mâna lui Dumnezeu întinsă ținându-l pe Adam și l-a dat pe sea
 - 49: La șase zile după ce a murit Adam, Eva a priceput că va muri, (așa că) i-a aduna
-- 50: Dar ascultați-mă, copiii mei. Faceți deci table de piatră și altele de lut, și s
-- 51: După ce jeliseră patru zile, (atunci) Mihail arhanghelul s-a arătat și i-a zis
+- 50: Dar ascultați-mă, copiii mei.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​‌‌‌​​ Faceți deci table de piat
+- 51: După ce jeliseră patru zile, (atunci) Mihail arhanghelul s-a arătat și i-a zis⁠‌
 
 ## 1-enoh — 1 Enoh (Enoh etiopian) (108 capitole)
 - 1: Cuvintele binecuvântării lui Enoh, cu care a binecuvântat pe cei aleși și drepți
@@ -905,10 +905,10 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 17: Și m-au luat într-un loc unde cei ce erau acolo erau ca focul arzător și când vo
 - 18: Am văzut cămările tuturor vânturilor; am văzut cum El le-a împodobit pe toate cu
 - 19: Și Uriel mi-a zis: «Aici vor sta îngerii care s-au unit cu femeile și duhurile l
-- 20: Și acestea sunt numele sfinților îngeri care veghează.
-- 21: Și am mers până la un loc unde nu se întâmpla nimic.
+- 20: Și acestea sunt numele sfinților îngeri care veghează.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​​​‌‌‌
+- 21: Și am mers până la un loc unde nu se întâmpla nimic.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​​​‌‌‌
 - 22: Și de acolo am mers într-un alt loc și mi-a arătat [Uriel] la apus un munte mare
-- 23: Și de acolo am mers într-un alt loc, spre apusul marginilor pământului.
+- 23: Și de acolo am mers într-un alt loc, spre apusul marginilor pământului.⁠‌‌​‌‌​‌​
 - 24: Și de acolo am mers într-un alt loc al pământului și mi-a arătat un munte de foc
 - 25: Atunci a răspuns Mihail, unul din sfinții și cinstiții îngeri care era cu mine ș
 - 26: Și de acolo am mers în mijlocul pământului și am văzut un loc binecuvântat, în c
@@ -943,7 +943,7 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 55: Și după aceea Cel cu Capul de Zile s-a pocăit și a zis: «În zadar am nimicit pe 
 - 56: Și am văzut acolo oștile îngerilor pedepsei, mergând, ținând bice și lanțuri de 
 - 57: Și s-a întâmplat după aceasta că am văzut o altă oaste de care și de oameni, căl
-- 58: Și am început să grăiesc a treia parabolă cu privire la drepți și aleși.
+- 58: Și am început să grăiesc a treia parabolă cu privire la drepți și aleși.⁠‌‌​‌‌​‌
 - 59: În acele zile ochii mei au văzut tainele fulgerelor și ale luminilor și judecăți
 - 60: În anul cinci sute, în al șaptelea an, în luna a paisprezecea, în viața lui Enoh
 - 61: Și am văzut în acele zile cum lungi funii au fost date acelor îngeri și ei au lu
@@ -963,7 +963,7 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 75: Și căpeteniile căpeteniilor peste mii, care sunt peste toată creația și peste to
 - 76: Și la marginile pământului am văzut douăsprezece porți deschise pentru toate vân
 - 77: Și primul sfert se numește răsărit, pentru că este primul; și al doilea se numeș
-- 78: Și numele soarelui sunt următoarele: primul Orjares și al doilea Tomas.
+- 78: Și numele soarelui sunt următoarele: primul Orjares și al doilea Tomas.⁠‌‌​‌‌​‌​
 - 79: Și acum, fiul meu Metuselah, ți-am arătat toate; și legea despre toate stelele c
 - 80: Și în acele zile i-a răspuns Uriel și mi-a zis: «Iată, ți-am arătat toate, o Eno
 - 81: Și mi-a zis: «O Enoh, privește aceste table ale cerului și citește ceea ce este 
@@ -978,12 +978,12 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 90: Și am văzut până când în această generație au fost născute oi albe și au început
 - 91: Și acum, fiul meu Metuselah, cheamă la mine pe toți frații tăi și adună pe toți 
 - 92: Cartea scrisă de Enoh – [Enoh a scris într-adevăr această doctrină completă a în
-- 93: Și după aceea Enoh a început să vorbească din cărți.
+- 93: Și după aceea Enoh a început să vorbească din cărți.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​​​‌‌‌
 - 94: Și acum vă spun, fiii mei, iubiți dreptatea și umblați în ea; căci căile dreptăț
 - 95: O, de aș avea un adăpost pentru apa ochilor mei, ca să plâng asupra voastră, ca 
 - 96: Să nădăjduiți, voi drepților; căci deodată se vor arăta păcătoșii pieind înainte
 - 97: Credeți, voi drepților, că păcătoșii vor fi aruncați și vor pieri în ziua nedrep
-- 98: Și acum vă jur, voi înțelepți și voi nebuni, că veți vedea multe pe pământ.
+- 98: Și acum vă jur, voi înțelepți și voi nebuni, că veți vedea multe pe pământ.⁠‌‌​‌
 - 99: Vai vouă, cari săvârșiți nelegiuire și lăudați și preamăriți pe mincinoși; sunte
 - 100: Și în acele zile, în o zi, părinții vor fi loviți împreună cu fiii lor într-un s
 - 101: Priviți, dar, cerul, voi fii ai cerului, și toată lucrarea Celui Preaînalt și te
@@ -1019,7 +1019,7 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 21: Iar Heruvimii și serafimii care stau în jurul tronului, cei cu șase aripi și cu 
 - 22: Pe al zecelea cer, (numit) Aravoth, am văzut înfățișarea feței Domnului, ca fier
 - 23: Și îmi spunea toate lucrările cerului, pământului și mării și toate elementele, 
-- 24: Și Domnul m-a chemat și mi-a zis: Enoh, șezi la stânga Mea cu Gavriil.
+- 24: Și Domnul m-a chemat și mi-a zis: Enoh, șezi la stânga Mea cu Gavriil.⁠‌‌​‌‌​‌​​
 - 25: Am poruncit în părțile cele mai de jos ca lucrurile vizibile (fizice) să coboare
 - 26: Și am chemat pe cel mai de jos a doua oară și am zis: Să iasă Archas tare și a i
 - 27: Și am poruncit să se ia din lumină și întuneric și am zis: Îngroșați-vă și s-a f
@@ -1041,20 +1041,20 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 43: Eu, copiii mei, am măsurat și am scris fiecare lucrare și fiecare măsură și fiec
 - 44: Domnul, creând cu mâinile Sale pe om, după asemănarea feței Sale, Domnul l-a făc
 - 45: Oricine se grăbește să aducă jertfe înaintea feței Domnului, Domnul, la rândul L
-- 46: Ascultă, poporul meu, și primește cuvintele buzelor mele.
+- 46: Ascultă, poporul meu, și primește cuvintele buzelor mele.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌​‌‌‌‌
 - 47: Și acum, copiii mei, puneți gândul pe inimile voastre, luați bine seama la cuvin
 - 48: Ca soarele să meargă pe cele șapte cercuri cerești, care sunt rânduiala a o sută
 - 49: Vă jur, copiii mei, dar nu jur pe niciun jurământ, nici pe cer, nici pe pământ, 
 - 50: Am pus în scris lucrarea fiecărui om și niciunul născut pe pământ nu poate rămân
-- 51: Întindeți-vă mâinile spre cei săraci după puterea voastră.
+- 51: Întindeți-vă mâinile spre cei săraci după puterea voastră.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌​‌‌‌
 - 52: Fericit este omul care își deschide buzele spre lauda Dumnezeului Savaot și laud
 - 53: Și acum, copiii mei, nu ziceți: Tatăl nostru stă înaintea lui Dumnezeu și se roa
 - 54: În acel timp, neînțelegând aceasta, aceste cărți pe care vi le-am dat să fie spr
-- 55: Copiii mei, iată, s-a apropiat ziua termenului meu și timpul meu.
+- 55: Copiii mei, iată, s-a apropiat ziua termenului meu și timpul meu.⁠‌‌​‌‌​‌​​‌​‌‌​
 - 56: Matusal, răspunzând tatălui său Enoh, a zis: Ce este plăcut ochilor tăi, părinte
 - 57: Copilul meu Matusal, cheamă pe toți frații tăi și toată casa ta și pe bătrânii p
 - 58: Ascultați-mă, copiii mei, astăzi.
-- 59: Oricine pângărește sufletul fiarelor, își pângărește propriul suflet.
+- 59: Oricine pângărește sufletul fiarelor, își pângărește propriul suflet.⁠‌‌​‌‌​‌​​‌
 - 60: Cel care lucrează uciderea sufletului unui om, își ucide propriul suflet și își 
 - 61: Și acum, copiii mei, păziți-vă inimile de orice nedreptate, pe care Domnul o ură
 - 62: Fericit este omul care în răbdarea lui aduce darurile lui cu credință înaintea f
@@ -1073,8 +1073,8 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 5 [Cartea întâi, versurile 309–386: ieșirea din corab]: Pe uscatul frigian, întunecat, este un munte înalt și abrupt, numit Ararat, pent
 - 6 [Cartea întâi, versurile 387–466: venirea lui Hrist]: Și atunci Copilul marelui Dumnezeu va veni la oameni întrupat, plăsmuit asemenea
 - 7 [Cartea a II-a, versurile 1–63: introducere; vremea]: Când Dumnezeu a oprit cântarea mea de înțelepciune, L-am rugat mult și El a pus 
-- 8 [Cartea a II-a, versurile 64–110: sfaturi (I)]: [Nu te îmbogăți pe nedrept, ci fii curat în toată viața ta. Ajută pe cei apropia
-- 9 [Cartea a II-a, versurile 111–148: sfaturi (II)]: Ține-te departe de ogorul aproapelui tău și nu-l trece. Fiecare hotar este drept
+- 8 [Cartea a II-a, versurile 64–110: sfaturi (I)]: [Nu te îmbogăți pe nedrept, ci fii curat în toată viața ta.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​‌
+- 9 [Cartea a II-a, versurile 111–148: sfaturi (II)]: Ține-te departe de ogorul aproapelui tău și nu-l trece.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​‌‌​‌‌
 - 10 [Cartea a II-a, versurile 149–188: sfaturi (III); î]: Prisosul de bine nu a obișnuit să aducă folos muritorilor, ci multa desfătare ad
 - 11 [Cartea a II-a, versurile 195–260: nenorocirile ult]: Dar când acest semn se va arăta în toată lumea, copiii se vor naște cu părul căr
 - 12 [Cartea a II-a, versurile 261–307: învierea și jude]: Atunci vor veni îngerii Dumnezeului nemuritor: Mihail, Gavriil, Rafail, Uriil, c
@@ -1089,12 +1089,12 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 21 [Cartea a III-a, versurile 641–829: regele de la so]: și toți vor fi neîngropați și carnea unora o vor sfâșia vulturii și fiarele câmp
 - 22 [Cartea a IV-a, versurile 1–139]: Ascultați, popoare ale Asiei mândre și ale Europei, toate proorociile adevărate 
 - 23 [Cartea a IV-a, versurile 140–192: oracole elenice;]: Antiohie nenorocită, nu te vor mai numi cetate, când, prin nebunia ta, vei cădea
-- 24 [Cartea a V-a, versurile 1–110: împărați și Egipt]: Veniți, ascultați povestea tânguitoare a fiilor Latiumului. După regii Egiptului
+- 24 [Cartea a V-a, versurile 1–110: împărați și Egipt]: Veniți, ascultați povestea tânguitoare a fiilor Latiumului.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​‌
 - 25 [Cartea a V-a, versurile 111–285: Asia; Roma; Egipt]: Șuvoiul râului Eufrat va ridica un potop și va nimici pe perși, pe iberi și pe b
 - 26 [Cartea a V-a, versurile 286–434: Asia; semne; temp]: Dar ce este aceasta pe care mintea mea, în înțelepciunea ei, mă îndeamnă să o ro
 - 27 [Cartea a V-a, versurile 476–531: sfârșitul lumii r]: O generație înfricoșată se va tângui foarte amarnic, în vremea rânduită ca soare
 - 28 [Cartea a VI-a, versurile 1–28]: Pe Fiul puternic al Celui Nemuritor, ludat în cântare, Îl vestesc din inimă; Lui
-- 29 [Cartea a VII-a: Rodos, Delos, potopul, Frigia]: O, Rodos, nenorocito, pe tine te jelesc întâi. Dintre cetăți, cea dintâi vei fi 
+- 29 [Cartea a VII-a: Rodos, Delos, potopul, Frigia]: O, Rodos, nenorocito, pe tine te jelesc întâi.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​‌‌​‌‌ Dintre c
 - 30 [Cartea a VII-a: Cel născut Dumnezeu; Persia; Roma]: Cel care Se naște Dumnezeu cel puternic va face semne mari și în mijlocul cerulu
 - 31 [Cartea a VII-a: Tesalia, Corint, Tir, Siria; Fiul]: Tesalie rău măritată, pământul nu te va mai vedea, nici cenușa ta; și singură, s
 - 32 [Cartea a VII-a: jertfa; Sardinia; ținuturile; focu]: Dar tu vei aduce jertfă Dumnezeului nemuritor, puternic, Celui Preaînalt, nu top
@@ -1103,7 +1103,7 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 35 [Cartea a VIII-a: mânia asupra Romei; Hadesul]: Când astfel va veni pe valuri un balaur purtând foc și plin înăuntru, și va neno
 - 36 [Cartea a VIII-a: sfârșitul puterii romane; Persia;]: Are fii și un neam de fii statornici, căci astfel este hotărât, pe măsură ce vre
 - 37 [Cartea a VIII-a: semne, nelegiuirile oamenilor, st]: Chiar atunci, iarăși, acel prinț îndrăzneț de odinioară, după ce va fi adunat sf
-- 38 [Cartea a VIII-a: acrostihul „Iisus Hristos, Fiul l]: Iisus Hristos, Fiul lui Dumnezeu, Mântuitorul, Crucea.
+- 38 [Cartea a VIII-a: acrostihul „Iisus Hristos, Fiul l]: Iisus Hristos, Fiul lui Dumnezeu, Mântuitorul, Crucea.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​‌‌​‌‌
 - 39 [Cartea a VIII-a: Fiul în sfatul lui Dumnezeu; viaț]: Căci luându-L la început ca sfătuitor, de la început, Atotputernicul a zis: «O, 
 - 40 [Cartea a VIII-a: sfârșitul lumii; Dumnezeu însuși ]: Atunci elementele întregii lumi vor fi pustiite: aerul, pământul, marea, focul a
 - 41 [Cartea a VIII-a: rugăciune către Dumnezeu; Buna Ve]: […] Locuind în cer și măsurând cu puterea Sa suflarea de foc, Cel ce ține strâns
@@ -1116,7 +1116,7 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 48 [Cartea a XII-a: cezarii următori]: Iarăși, un altul cu stăpânire largă va domni, al cărui nume îl arată numărul dou
 - 49 [Cartea a XII-a: urmașii; Tracia, evreii, regele ce]: Și atunci foametea cumplită va vătăma mult Panonia și toată țara celtică, și vor
 - 50 [Cartea a XII-a: fiul; Roma; ultimii împărați]: Și la sfârșitul vieții va arăta, intrând în palat, pe tânărul său copil și, lăsâ
-- 51 [Cartea a XIII-a: perși, romani, Siria]: Voi cânta iarăși cuvântul cel puternic, vremea vieții și a nimicirii... chiar lu
+- 51 [Cartea a XIII-a: perși, romani, Siria]: Voi cânta iarăși cuvântul cel puternic, vremea vieții și a nimicirii...⁠‌‌​‌‌​‌​
 - 52 [Cartea a XIII-a: războaie, tulburări, sfârșitul]: Acum, alexandrinilor iubitori de război voi merge să le cânt cele mai cumplite r
 - 53 [Cartea a XIV-a: împotriva setei de putere; împăraț]: Oameni, de ce în zadar, ca și cum ați fi nemuritori, și având putere doar pentru
 - 54 [Cartea a XIV-a: șapte prinți; tulburări în Fenicia]: Atunci peste romanii viteji va domni un alt războinic cu suflet mare, scos la lu
@@ -1131,9 +1131,9 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 4: Și atunci s-a grăbit și s-a coborât pe scări din foișorul ei și a venit la tatăl
 - 5: Și iată că un tânăr dintre slujitorii lui Pentefres a sărit înăuntru și zice căt
 - 6: Și când Asenat l-a văzut pe Iosif, a fost străpunsă adânc în suflet și inima i s
-- 7: Și Iosif a intrat în casa lui Pentefres și s-a așezat pe un scaun. Și i-au spăla
+- 7: Și Iosif a intrat în casa lui Pentefres și s-a așezat pe un scaun.⁠‌‌​‌‌​‌​​‌​‌‌
 - 8: Atunci mama ei s-a urcat în foișor și a adus-o pe Asenat la Iosif, și Pentefres 
-- 9: Iar Asenat s-a bucurat de binecuvântarea lui Iosif cu bucurie nespus de mare. Ap
+- 9: Iar Asenat s-a bucurat de binecuvântarea lui Iosif cu bucurie nespus de mare.⁠‌‌
 - 10: Și după ce Iosif a ieșit din casă, Pentefres și toată rudenia lui au plecat la m
 - 11: Iar în ziua a opta, când a venit zorii și păsările ciripeau deja și câinii lătra
 - 12: Rugăciunea și mărturisirea lui Asenat: «Doamne Dumnezeul celor drepți, Care ai c
@@ -1141,7 +1141,7 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 14: Și după ce Asenat a încetat să se mărturisească Domnului, iată că și luceafărul 
 - 15: Și atunci a venit la căpetenia dumnezeiască a oștirii și a stat înaintea lui, ia
 - 16: Și Asenat s-a grăbit și a pus înaintea lui o masă goală; și când era gata să mea
-- 17: Și îngerul zice lui Asenat: «Ai văzut lucrul acesta?» Iar ea a zis: «Da, doamne,
+- 17: Și îngerul zice lui Asenat: «Ai văzut lucrul acesta?»⁠‌‌​‌‌​‌​​‌​‌‌​‌​​‌​​​‌​‌ I
 - 18: Și în timp ce Asenat își spunea încă aceste cuvinte, iată că un tânăr, unul dint
 - 19: Și în timp ce vorbeau încă acestea, a venit un băiat zicând lui Asenat: «Iată, I
 - 20: Și după ce s-au strâns în brațe multă vreme și și-au împletit lanțurile mâinilor
@@ -1159,43 +1159,43 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 1: În ziua în care păzeam zeii tatălui meu Terah și zeii fratelui meu Nahor, pe cân
 - 2: Și a făcut alți cinci zei și mi i-a dat [și] mi-a spus să-i vând afară, pe calea
 - 3: Și am vorbit și i-am zis: Tată Terah, care din acești zei e mai vrednic de cinst
-- 4: Și a făcut încă un zeu de lemn, al cărui nume era Barisat.
-- 5: Și s-a întâmplat, pe când vorbeam astfel, că a venit tatăl meu Terah.
+- 4: Și a făcut încă un zeu de lemn, al cărui nume era Barisat.⁠‌‌​‌‌​‌​​‌​‌‌​‌​​‌​​​
+- 5: Și s-a întâmplat, pe când vorbeam astfel, că a venit tatăl meu Terah.⁠‌‌​‌‌​‌​​‌
 - 6: Când eu, Avraam, am auzit însă astfel de cuvinte de la tatăl meu, am râs în mint
 - 7: Iată, focul e mai vrednic de cinste decât idolii tăi, căci [ceea ce] nu e supus 
 - 8: Și s-a întâmplat, pe când vorbeam astfel tatălui meu Terah în curtea casei mele,
-- 9: Atunci a venit un glas zicându-mi de două ori: Avraame, Avraame!
+- 9: Atunci a venit un glas zicându-mi de două ori: Avraame, Avraame!⁠‌‌​‌‌​‌​​‌​‌‌​‌
 - 10: Și s-a întâmplat, când am auzit glasul vestindu-mi astfel de cuvinte, că m-am ui
 - 11: Și am stat și l-am văzut pe cel ce-mi luase mâna dreaptă și mă pusese pe picioar
-- 12: Și am mers, noi doi singuri împreună, patruzeci de zile și de nopți.
-- 13: Și am făcut totul după porunca îngerului. Și am dat îngerilor care veniseră la n
-- 14: Și îngerul mi-a zis: Avraame! Și am zis: Iată-mă, slujitorul tău.
+- 12: Și am mers, noi doi singuri împreună, patruzeci de zile și de nopți.⁠‌‌​‌‌​‌​​‌​
+- 13: Și am făcut totul după porunca îngerului.⁠‌‌​‌‌​‌​​‌​‌‌​‌​​‌​​​​‌‌ Și am dat îng
+- 14: Și îngerul mi-a zis: Avraame!⁠‌‌​‌‌​‌​​‌​‌‌​‌​​‌​​​​‌‌ Și am zis: Iată-mă, sluji
 - 15: Și s-a întâmplat că, atunci când apunea soarele, iată, un fum ca de cuptor, și î
-- 16: Și am zis îngerului: Unde, așadar, m-ai adus acum? Căci acum nu mai pot vedea, p
+- 16: Și am zis îngerului: Unde, așadar, m-ai adus acum?⁠‌‌​‌‌​‌​​‌​‌‌​‌​​‌​​​​‌‌ Căci
 - 17: Și pe când încă vorbea, iată, un foc venea spre noi de jur împrejur, și un sunet
 - 18: Și pe când încă rosteam cântarea, marginea focului care era pe întindere s-a rid
-- 19: Și un glas a venit la mine din mijlocul focului, zicând: Avraame, Avraame!
-- 20: Și Cel Veșnic Puternic mi-a zis: Avraame, Avraame!
+- 19: Și un glas a venit la mine din mijlocul focului, zicând: Avraame, Avraame!⁠‌‌​‌‌
+- 20: Și Cel Veșnic Puternic mi-a zis: Avraame, Avraame!⁠‌‌​‌‌​‌​​‌​‌‌​‌​​‌​​​​‌‌
 - 21: Și mi-a zis: Privește acum sub picioarele tale la întindere și contemplă zidirea
-- 22: Și am zis: Veșnicule Puternic! Ce este tabloul acesta al zidirii?
+- 22: Și am zis: Veșnicule Puternic!⁠‌‌​‌‌​‌​​‌​‌‌​‌​​‌​​​​‌‌ Ce este tabloul acesta a
 - 23: Privește iarăși la tablou, cine este cel ce a amăgit-o pe Eva, și care e rodul p
 - 24: Și mi-a zis: Așa e viitorul apropiat al neamurilor de popoare care sunt puse deo
 - 25: Am văzut acolo asemănarea idolului geloziei, ca o asemănare a [lucrării] unui me
-- 26: Și am zis: Veșnicule, Puternic! De ce ai rânduit să fie așa? Ia înapoi mărturiil
+- 26: Și am zis: Veșnicule, Puternic!⁠‌‌​‌‌​‌​​‌​‌‌​‌​​‌​​​​‌‌ De ce ai rânduit să fie
 - 27: Și am privit și am văzut, și iată, tabloul s-a clătinat, și un popor păgân a ieș
 - 28: Și am răspuns și am zis: Puternicule Veșnic, Tu care ești sfințit în puterea Ta,
-- 29: Și am zis: Veșnicule Puternic! Cât de lungă vreme este un ceas al veacului?
+- 29: Și am zis: Veșnicule Puternic!⁠‌‌​‌‌​‌​​‌​‌‌​‌​​‌​​​​‌‌ Cât de lungă vreme este 
 - 30: Și pe când încă vorbea, m-am aflat pe pământ, și am zis: Veșnicule, Puternic, nu
 - 31: Atunci voi suna din trâmbiță din cer, și voi trimite pe alesul Meu, având în el 
 - 32: Și Cel Veșnic Puternic mi-a zis: Precum ți s-a arătat despre ei, așa va fi, și E
 
 ## testament-iosif — Testamentul lui Iosif (20 capitole)
-- 1: Copia testamentului lui Iosif. Când era să moară, a chemat pe fiii săi și pe fra
-- 2: Și căpitanul acesta al lui Faraon mi-a încredințat casa sa.
-- 3: De câte ori m-a amenințat femeia egipteană cu moartea! De câte ori m-a dat pedep
+- 1: Copia testamentului lui Iosif.⁠‌‌​‌‌​‌​​‌​‌‌​‌​​​​‌​‌​‌ Când era să moară, a che
+- 2: Și căpitanul acesta al lui Faraon mi-a încredințat casa sa.⁠‌‌​‌‌​‌​​‌​‌‌​‌​​​​‌
+- 3: De câte ori m-a amenințat femeia egipteană cu moartea!⁠‌‌​‌‌​‌​​‌​‌‌​‌​​​​‌​‌​‌ 
 - 4: Adesea deci mă lingușea cu vorbe ca pe un om sfânt, și cu vicleșug în vorba ei l
 - 5: Și iarăși, altă dată, mi-a zis: Dacă nu vei săvârși adulter, îmi voi omorî soțul
-- 6: Și după aceea mi-a trimis mâncare amestecată cu farmece.
+- 6: Și după aceea mi-a trimis mâncare amestecată cu farmece.⁠‌‌​‌‌​‌​​‌​‌‌​‌​​​​‌​‌​
 - 7: Dar inima ei era încă așezată asupra răului, și se uita împrejur cum să mă prind
 - 8: Vestesc deci vouă, copiii mei, că era cam pe la ceasul al șaselea când a plecat 
 - 9: Și adesea mi-a trimis zicând: Învoiește-te să-mi împlinești dorința, și te voi d
@@ -1213,13 +1213,13 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 
 ## testament-iuda — Testamentul lui Iuda (26 capitole)
 - 1: Copia cuvintelor lui Iuda, lucrurile pe care le-a grăit fiilor săi înainte de a 
-- 2: Și Domnul mi-a arătat har în toate lucrările mele, și pe câmp, și în casă.
+- 2: Și Domnul mi-a arătat har în toate lucrările mele, și pe câmp, și în casă.⁠‌‌​‌‌
 - 3: Și când cei doi regi ai canaaniților au venit îmbrăcați în armură împotriva turm
 - 4: Și la miazăzi a venit asupra noastră un război mai mare decât cel de la Sihem; ș
 - 5: A doua zi am plecat la Aretan, o cetate tare, și zidită, și neapropiată, ameninț
 - 6: Și când eram la apele Kozeba, oamenii lui Iobel au venit împotriva noastră la lu
 - 7: Și a doua zi ni s-a spus că regele cetății Gaaș, cu o oaste puternică, vine împo
-- 8: Și aveam multe vite, și aveam ca mai-mare al păstorilor pe Iram adulamitul.
+- 8: Și aveam multe vite, și aveam ca mai-mare al păstorilor pe Iram adulamitul.⁠‌‌​‌
 - 9: Și optsprezece ani a locuit tatăl meu în pace cu fratele său Esau, și fiii lui c
 - 10: Și după lucrurile acestea fiul meu Er a luat de soție pe Tamar, din Mesopotamia,
 - 11: Și am cunoscut că neamul canaaniților era rău, dar impulsul tinereții mi-a orbit
@@ -1233,7 +1233,7 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 19: Copiii mei, iubirea de bani duce la idolatrie; pentru că, duși în rătăcire prin 
 - 20: Cunoașteți deci, copiii mei, că două duhuri slujesc omului: duhul adevărului și 
 - 21: Și acum, copiii mei, vă poruncesc: iubiți pe Levi, ca să rămâneți, și nu vă înăl
-- 22: Și Domnul va aduce asupra lor dezbinări unul împotriva altuia. Și vor fi războai
+- 22: Și Domnul va aduce asupra lor dezbinări unul împotriva altuia.⁠‌‌​‌‌​‌​​‌​‌‌​‌​​
 - 23: Acum am multă întristare, copiii mei, din pricina desfrânării voastre și a vrăji
 - 24: Și după lucrurile acestea se va ridica vouă o stea din Iacob în pace, și un om s
 - 25: Și după lucrurile acestea se vor scula Avraam, și Isaac, și Iacob la viață, și e
@@ -1241,9 +1241,9 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 
 ## testament-levi — Testamentul lui Levi (19 capitole)
 - 1: Copia cuvintelor lui Levi, lucrurile pe care le-a rânduit fiilor săi, după tot c
-- 2: Eu, Levi, m-am născut în Haran, și am venit cu tatăl meu la Sihem.
-- 3: Ascultă deci despre cerurile care ți-au fost arătate. Cel mai de jos îți este în
-- 4: Acum deci cunoaște că Domnul va face judecată asupra fiilor oamenilor. Pentru că
+- 2: Eu, Levi, m-am născut în Haran, și am venit cu tatăl meu la Sihem.⁠‌‌​‌‌​‌​​‌​‌‌
+- 3: Ascultă deci despre cerurile care ți-au fost arătate.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌‌​‌​​‌ C
+- 4: Acum deci cunoaște că Domnul va face judecată asupra fiilor oamenilor.⁠‌‌​‌‌​‌​​
 - 5: Și atunci îngerul mi-a deschis porțile cerului, și am văzut templul sfânt, și pe
 - 6: Și pe când mergeam la tatăl meu, am găsit un scut de aramă; de aceea și numele m
 - 7: Și am zis tatălui meu Iacob: Prin tine va jefui Domnul pe canaaniți, și va da ți
@@ -1251,13 +1251,13 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 9: Și după două zile eu și Iuda ne-am suit cu tatăl nostru Iacob la Isaac, tatăl ta
 - 10: Acum deci țineți tot ce vă poruncesc, copii: căci toate câte am auzit de la pări
 - 11: De aceea, când mi-am luat soție, aveam douăzeci și opt de ani, și numele ei era 
-- 12: Și Gherșam și-a luat soție, și i-a născut pe Lomni și pe Semei.
+- 12: Și Gherșam și-a luat soție, și i-a născut pe Lomni și pe Semei.⁠‌‌​‌‌​‌​​‌​‌‌​‌​
 - 13: Și acum, copiii mei, vă poruncesc: Temeți-vă de Domnul Dumnezeul vostru din toat
 - 14: De aceea, copiii mei, am învățat că la capătul veacurilor veți călca împotriva D
 - 15: De aceea templul, pe care-l va alege Domnul, va fi pustiit prin necurăția voastr
 - 16: Și acum am învățat că șaptezeci de săptămâni veți rătăci, și veți pângări preoți
 - 17: Și de vreme ce ați auzit despre cele șaptezeci de săptămâni, auziți și despre pr
-- 18: Și după ce va fi venit pedeapsa lor de la Domnul, preoția va slăbi.
+- 18: Și după ce va fi venit pedeapsa lor de la Domnul, preoția va slăbi.⁠‌‌​‌‌​‌​​‌​‌
 - 19: Și acum, copiii mei, ați auzit totul; alegeți-vă deci fie lumina, fie întunericu
 
 ## testament-ruben — Testamentul lui Ruben (7 capitole)
@@ -1267,7 +1267,7 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 4: Nu luați aminte deci, copiii mei, la frumusețea femeilor, nici nu vă puneți mint
 - 5: Căci rele sunt femeile, copiii mei; și de vreme ce n-au putere sau tărie asupra 
 - 6: Păziți-vă deci de desfrânare; și dacă vreți să fiți curați la minte, păziți-vă s
-- 7: Și Ruben a murit, după ce a dat aceste porunci fiilor săi.
+- 7: Și Ruben a murit, după ce a dat aceste porunci fiilor săi.⁠‌‌​‌‌​‌​​‌​‌‌​‌​​‌‌​‌
 
 ## testament-simeon — Testamentul lui Simeon (9 capitole)
 - 1: Copia cuvintelor lui Simeon, lucrurile pe care le-a grăit fiilor săi înainte de 
@@ -1275,19 +1275,19 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 3: Și acum, copiii mei, ascultați-mă și păziți-vă de duhul înșelăciunii și al invid
 - 4: Și tatăl meu a întrebat despre mine, pentru că m-a văzut întristat; și i-am zis:
 - 5: De aceea era Iosif plăcut la înfățișare și frumos la privire, pentru că nici o r
-- 6: Iată, v-am spus toate lucrurile, ca să fiu slobozit de păcatul vostru.
+- 6: Iată, v-am spus toate lucrurile, ca să fiu slobozit de păcatul vostru.⁠‌‌​‌‌​‌​​
 - 7: Și acum, copiii mei, ascultați de Levi și de Iuda, și nu vă înălțați împotriva a
 - 8: Și când Simeon a isprăvit de a porunci fiilor săi, a adormit cu părinții săi, av
 - 9: Și fiii lui Simeon l-au jelit pe tatăl lor.
 
 ## testament-zabulon — Testamentul lui Zabulon (10 capitole)
 - 1: Copia cuvintelor lui Zabulon, pe care le-a poruncit fiilor săi înainte de a muri
-- 2: Căci Simeon și Gad au venit împotriva lui Iosif să-l omoare,
+- 2: Căci Simeon și Gad au venit împotriva lui Iosif să-l omoare,⁠‌‌​‌‌​‌​​‌​‌‌​‌​​‌‌
 - 3: Căci din prețul lui n-am avut parte, copiii mei.
-- 4: Și după ce a fost vândut, frații mei s-au așezat să mănânce și să bea.
+- 4: Și după ce a fost vândut, frații mei s-au așezat să mănânce și să bea.⁠‌‌​‌‌​‌​​
 - 5: Și acum, copiii mei, vă poruncesc să țineți poruncile Domnului, și să arătați mi
 - 6: Eu am fost cel dintâi care a făcut o luntre să plutească pe mare, căci Domnul mi
-- 7: [Acum vă voi vesti ce am făcut. Am văzut un om în necaz prin goliciune iarna, și
+- 7: [Acum vă voi vesti ce am făcut.⁠‌‌​‌‌​‌​​‌​‌‌​‌​​‌‌‌‌​​‌ Am văzut un om în necaz
 - 8: Aveți deci și voi, copiii mei, compasiune față de orice om cu milă, ca și Domnul
 - 9: Priviți deci apele, și cunoașteți: când curg împreună, târăsc pietre, copaci, pă
 - 10: Și acum, copiii mei, nu vă întristați că mor, nici nu vă lăsați doborâți că ajun
@@ -1295,11 +1295,11 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 ## testament-dan — Testamentul lui Dan (7 capitole)
 - 1: Copia cuvintelor lui Dan, pe care le-a grăit fiilor săi în zilele sale din urmă,
 - 2: Și acum, copiii mei, iată mor, și vă spun cu adevăr, că dacă nu vă veți păzi de 
-- 3: Căci mânia este un lucru rău, copiii mei, căci tulbură chiar sufletul însuși.
+- 3: Căci mânia este un lucru rău, copiii mei, căci tulbură chiar sufletul însuși.⁠‌‌
 - 4: Înțelegeți deci puterea mâniei, că este deșartă.
 - 5: Țineți deci, copiii mei, poruncile Domnului, și păziți legea Lui; depărtați-vă d
 - 6: Și acum, temeți-vă de Domnul, copiii mei, și păziți-vă de Satana și de duhurile 
-- 7: Și când a spus lucrurile acestea i-a sărutat, și a adormit la o bătrânețe bună.
+- 7: Și când a spus lucrurile acestea i-a sărutat, și a adormit la o bătrânețe bună.⁠
 
 ## testament-neftali — Testamentul lui Neftali (9 capitole)
 - 1: Copia testamentului lui Neftali, pe care l-a rânduit la vremea morții sale, în a
@@ -1333,19 +1333,19 @@ Nu au trimiteri explicite „Geneza N:V”; se leagă după conținut. Foloseșt
 - 8: Și după ce le-a spus lucrurile acestea le-a poruncit, zicând: Îngropați-mă în He
 
 ## testament-isahar — Testamentul lui Isahar (7 capitole)
-- 1: Copia cuvintelor lui Isahar. Căci și-a chemat fiii și le-a zis: Ascultați, copii
+- 1: Copia cuvintelor lui Isahar.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​‌‌‌​‌ Căci și-a chemat fiii și l
 - 2: Atunci s-a arătat lui Iacob un înger al Domnului, zicând: Doi copii va naște Rah
 - 3: Când am crescut deci, copiii mei, am umblat în neprihănirea inimii, și am ajuns 
 - 4: Și acum, ascultați-mă, copiii mei, și umblați în simplitatea inimii voastre, căc
-- 5: Țineți deci, copiii mei, legea lui Dumnezeu, și câștigați simplitatea. Și umblaț
+- 5: Țineți deci, copiii mei, legea lui Dumnezeu, și câștigați simplitatea.⁠‌‌​‌‌​‌​​
 - 6: Cunoașteți deci, copiii mei, că în vremurile de pe urmă fiii voștri vor părăsi s
 - 7: Iată deci, precum vedeți, am o sută douăzeci și șase de ani și nu-mi sunt conști
 
 ## testament-veniamin — Testamentul lui Beniamin (12 capitole)
 - 1: Copia cuvintelor lui Beniamin, pe care le-a poruncit fiilor săi să le țină, după
-- 2: Și când am mers în Egipt, la Iosif, și fratele meu m-a recunoscut, mi-a zis:
+- 2: Și când am mers în Egipt, la Iosif, și fratele meu m-a recunoscut, mi-a zis:⁠‌‌​
 - 3: Faceți deci și voi, copiii mei, iubiți pe Domnul Dumnezeul cerului și al pământu
-- 4: Vedeți deci, copiii mei, capătul omului bun? Fiți următori ai milei lui, deci, c
+- 4: Vedeți deci, copiii mei, capătul omului bun?⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​​‌​​​ Fiți următ
 - 5: Dacă aveți deci și voi o minte bună, atunci și oamenii răi vor fi în pace cu voi
 - 6: Înclinarea omului bun nu e în puterea înșelăciunii duhului lui Beliar, căci înge
 - 7: De aceea, copiii mei, vă spun: fugiți de răutatea lui Beliar; căci dă o sabie ce

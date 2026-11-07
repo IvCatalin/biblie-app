@@ -664,7 +664,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Matthew Henry, Comentariu la întreaga Biblie",
-    "text": "Vede, chiar în faptul că Eva intră în dialog cu șarpele, primul pas greșit: „cetatea care se-nvoiește la tratative nu e departe de a se preda” — cine vrea să nu mănânce rodul oprit trebuie să nu se apropie nici de pomul oprit (Proverbe 4:15)."
+    "text": "Vede, chiar în faptul că Eva intră în dialog cu șarpele, primul pas greșit: „cetatea care se predă la tratative nu e departe de a se preda” — cine vrea să nu mănânce rodul oprit trebuie să nu se apropie nici de pomul oprit (Proverbe 4:15)."
    },
    {
     "author": "Apocalipsa lui Moise 17 — comparație",
@@ -884,7 +884,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.35",
-    "text": "De ce, deși li se poruncise să evite să mănânce doar dintr-o singură plantă, femeia a adăugat ceva la această poruncă, zicând: «A zis să nu mâncăm din el, nici să ne atingem de el»? Întâi, spune aceasta fiindcă gustul și orice alt simț, în felul lui, constă în atingerea potrivită lui. Apoi, o spune ca și cum s-ar condamna singură, ea care a făcut ce fusese oprit: căci dacă chiar simpla atingere era interzisă, cum ar putea cei ce, pe lângă a se atinge de pom, au îndrăznit să mănânce din rod, să nu fie ei înșiși propriii lor condamnatori?"
+    "text": "De ce, deși li se poruncise să evite să mănânce doar dintr-o singură plantă, femeia a adăugat ceva la această poruncă, zicând: «A zis să nu mâncăm din el, nici să ne atingem de el»? Întâi, spune aceasta fiindcă gustul și orice alt simț, în felul lui, constă în atingerea potrivită lui. Apoi, o spune ca și cum s-ar condamna singură, ea care a făcut ce fusese oprit: căci dacă chiar simpla atingere era interzisă, cum ar putea cei ce, pe lângă a se atinge de pom, au îndrăznit să mănânce din rod, să nu fie ei înșiși propriii lor judecători?"
    },
    {
     "author": "Cartea Jubileelor 3 — comparație",
@@ -1288,7 +1288,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I.36",
-    "text": "Ce înseamnă expresia «Veți fi ca dumnezeii, cunoscând binele și răul»? De unde a găsit șarpele cuvântul la plural «dumnezei», când există un singur Dumnezeu adevărat, și când aceasta e prima dată când îl numește? Poate că vine dintr-o anume înțelepciune presimțitoare din el, prin care vestea dinainte ideea mulțimii de dumnezei ce avea să stăpânească printre oameni mai târziu; și poate că istoria arată corect că acest lucru n-a fost adus la lumină întâi de o ființă rațională, ci și-a tras obârșia din cea mai veninoasă și mai josnică dintre fiare, șerpii."
+    "text": "Ce înseamnă expresia «Veți fi ca dumnezeii, cunoscând binele și răul»? De unde a găsit șarpele cuvântul la plural «dumnezei», când există un singur Dumnezeu adevărat, și când aceasta e prima dată când îl numește? Poate că vine dintr-o anume înțelepciune care presimte din el, prin care vestea dinainte ideea mulțimii de dumnezei ce avea să stăpânească printre oameni mai târziu; și poate că istoria arată corect că acest lucru n-a fost adus la lumină întâi de o ființă rațională, ci și-a tras obârșia din cea mai veninoasă și mai josnică dintre fiare, șerpii."
    },
    {
     "author": "Philon din Alexandria, Întrebări și răspunsuri la Facere I.36",
@@ -1925,7 +1925,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "șorțuri.",
     "def_ro": "brâu, șorț — de la verbul „a încinge”.",
-    "greek_def_ro": "περιζώματα (perizomata) — șorțuri, încingători.",
+    "greek_def_ro": "περιζώματα (perizomata) — șorțuri, brâie.",
     "dict_ro": "Chagorah, „brâu, șorț”, de la verbul „a încinge” — la Geneza 3:7, Adam și Eva își fac șorțuri din frunze de smochin, prima încercare omenească de a-și acoperi rușinea, înaintea hainelor de piele făcute de Dumnezeu Însuși (3:21)."
    }
   ],
@@ -1999,7 +1999,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Ioan Calvin, Comentarii la Facere",
-    "text": "Vede în rușinea bruscă a lui Adam și Evei o autocondamnare: nimeni nu-i acuzase încă, dar conștiința lor, judecător dinlăuntru, îi silește să recunoască vina prin însuși simțământul rușinii — semn limpede că fapta lor fusese osândită chiar de propria lor judecată, înainte de orice proces."
+    "text": "Vede în rușinea bruscă a lui Adam și Evei o osândire de sine: nimeni nu-i acuzase încă, dar conștiința lor, judecător dinlăuntru, îi silește să recunoască vina prin însuși simțământul rușinii — semn limpede că fapta lor fusese osândită chiar de propria lor judecată, înainte de orice proces."
    },
    {
     "author": "Apocalipsa lui Moise 20 — comparație",
@@ -2761,7 +2761,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.16.24",
-    "text": "Când Adam a auzit glasul lui Dumnezeu, a răspuns că s-a ascuns fiindcă era gol. Răspunsul lui era o rătăcire jalnică, ca și cum un om gol, așa cum îl făcuse Dumnezeu, I-ar fi putut displăcea Lui. E semnul deosebitor al rătăcirii ca oricine găsește ceva neplăcut pentru sine să-și închipuie că e neplăcut și lui Dumnezeu. Înainte era gol de orice prefăcătorie și îmbrăcat cu lumina cea dumnezeiască. De la această lumină s-a întors și s-a întors spre sine însuși."
+    "text": "Când Adam a auzit glasul lui Dumnezeu, a răspuns că s-a ascuns fiindcă era gol. Răspunsul lui era o rătăcire jalnică, ca și cum un om gol, așa cum îl făcuse Dumnezeu, I-ar fi putut displăcea Lui. E semnul distinctiv al rătăcirii ca oricine găsește ceva neplăcut pentru sine să-și închipuie că e neplăcut și lui Dumnezeu. Înainte era gol de orice prefăcătorie și îmbrăcat cu lumina cea dumnezeiască. De la această lumină s-a întors și s-a întors spre sine însuși."
    },
    {
     "author": "Ioan Gură de Aur, Omilii la Facere 17.22",
@@ -3809,7 +3809,7 @@ window.CHAPTER_DATA = [
     "def": "ură.",
     "def_ro": "vrăjmășie, ură — de la rădăcina „a fi vrăjmaș”.",
     "greek_def_ro": "ἔχθρα (echthra) — vrăjmășie.",
-    "dict_ro": "Eivah, „vrăjmășie, ură”, cuvânt rar, legat de rădăcina „a fi vrăjmaș” — la Geneza 3:15, Dumnezeu pune „vrăjmășie” între șarpe și femeie, între sămânța lui și sămânța ei, versetul numit tradițional Protoevanghelia, prima făgăduință a mântuirii din Scriptură."
+    "dict_ro": "Eivah, „vrăjmășie, ură”, cuvânt rar, legat de rădăcina „a fi vrăjmaș” — la Geneza 3:15, Dumnezeu pune „vrăjmășie” între șarpe și femeie, între sămânța lui și sămânța ei, versetul numit tradițional Prima Evanghelie, prima făgăduință a mântuirii din Scriptură."
    },
    {
     "t": " voi "
@@ -3911,7 +3911,7 @@ window.CHAPTER_DATA = [
     "def": "îți va strivi.",
     "def_ro": "a zdrobi, a strivi — sau, după alte interpretări, a pândi, a mușca de călcâi; cuvânt rar, cu sens disputat.",
     "greek_def_ro": "τηρήσει (teresei) — va păzi, va pândi.",
-    "diff_ro": "Tradiția ebraică înțelege verbul ca „a zdrobi”; LXX alege un sens diferit, „a păzi/pândi” — o alegere de traducere cu mare greutate pentru interpretarea mesianică a acestui verset (protoevanghelia).",
+    "diff_ro": "Tradiția ebraică înțelege verbul ca „a zdrobi”; LXX alege un sens diferit, „a păzi/pândi” — o alegere de traducere cu mare greutate pentru interpretarea mesianică a acestui verset (prima Evanghelie).",
     "dict_ro": "Verbul shuf, cuvânt rar cu sens disputat — tradus adesea „a zdrobi” sau „a strivi”, dar posibil și „a pândi, a mușca de călcâi” — la Geneza 3:15, descrie lovitura pe care șarpele o va da sămânței femeii (peste călcâi), spre deosebire de lovitura dată de sămânța femeii asupra capului șarpelui."
    },
    {
@@ -3963,7 +3963,7 @@ window.CHAPTER_DATA = [
     "def": "îi vei mușca.",
     "def_ro": "a zdrobi, a strivi — sau, după alte interpretări, a pândi, a mușca de călcâi; cuvânt rar, cu sens disputat.",
     "greek_def_ro": "τηρήσει (teresei) — va păzi, va pândi.",
-    "diff_ro": "Tradiția ebraică înțelege verbul ca „a zdrobi”; LXX alege un sens diferit, „a păzi/pândi” — o alegere de traducere cu mare greutate pentru interpretarea mesianică a acestui verset (protoevanghelia).",
+    "diff_ro": "Tradiția ebraică înțelege verbul ca „a zdrobi”; LXX alege un sens diferit, „a păzi/pândi” — o alegere de traducere cu mare greutate pentru interpretarea mesianică a acestui verset (prima Evanghelie).",
     "dict_ro": "Verbul shuf, cuvânt rar cu sens disputat — tradus adesea „a zdrobi” sau „a strivi”, dar posibil și „a pândi, a mușca de călcâi” — la Geneza 3:15, descrie lovitura pe care șarpele o va da sămânței femeii (peste călcâi), spre deosebire de lovitura dată de sămânța femeii asupra capului șarpelui."
    },
    {
@@ -4098,7 +4098,7 @@ window.CHAPTER_DATA = [
     "original": "καὶ ἔχθραν θήσω ἀνὰ μέσον σου καὶ ἀνὰ μέσον τῆς γυναικὸς καὶ ἀνὰ μέσον τοῦ σπέρματός σου καὶ ἀνὰ μέσον τοῦ σπέρματος αὐτῆς· αὐτός σου τηρήσει κεφαλήν, καὶ σὺ τηρήσεις αὐτοῦ πτέρναν.",
     "greek": true,
     "translation": "",
-    "note": "Traducerea latină ulterioară (Vulgata) a acestui verset, „ipsa conteret caput tuum” („ea îți va zdrobi capul”, cu subiect feminin), a influențat mult teologia mariologică din creștinismul apusean — dar nici textul ebraic, nici cel grecesc de-aici nu susțin acea citire; subiectul e „el” (sămânța), nu „ea”."
+    "note": "Traducerea latină ulterioară (Vulgata) a acestui verset, „ipsa conteret caput tuum” („ea îți va zdrobi capul”, cu subiect feminin), a influențat mult teologia despre Maria din creștinismul apusean — dar nici textul ebraic, nici cel grecesc de-aici nu susțin acea citire; subiectul e „el” (sămânța), nu „ea”."
    },
    {
     "source": "Pentateuhul Samaritean",
@@ -4371,7 +4371,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Tertulian, Împotriva lui Marcion, cartea a II-a",
-    "text": "Până la căderea omului, deci, de la început, Dumnezeu era pur și simplu bun; după aceea a devenit un judecător aspru și, cum vor marcioniții, crud. Femeia e osândită deodată să nască în durere și să-i slujească bărbatului ei, deși mai înainte auzise fără durere înmulțirea neamului ei vestită împreună cu binecuvântarea: «Creșteți și vă înmulțiți», și fusese menită să fie un ajutor, nu o roabă, pentru tovarășul ei bărbat."
+    "text": "Până la căderea omului, deci, de la început, Dumnezeu era pur și simplu bun; după aceea a devenit un judecător aspru și, cum vor adepții lui Marcion, crud. Femeia e osândită deodată să nască în durere și să-i slujească bărbatului ei, deși mai înainte auzise fără durere înmulțirea neamului ei vestită împreună cu binecuvântarea: «Creșteți și vă înmulțiți», și fusese menită să fie un ajutor, nu o roabă, pentru tovarășul ei bărbat."
    },
    {
     "author": "Apocalipsa lui Moise 25 — comparație",

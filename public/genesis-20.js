@@ -11,7 +11,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 20 repetă greșeala din Egipt (12:10–20), numind-o „soră” pe Sara în fața lui Abimeleh; de data aceasta Dumnezeu însuși o apără, iar Avraam e numit „profet” (20:7)."
    },
@@ -27,7 +27,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκίνησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a pull sus, in special tent-pins, adică start pe journey.",
+    "def_ro": "a porni, a se muta, a-și strânge corturile.",
     "greek_def_ro": "κινέω (kineo) — a porni, a muta („a pornit”).",
     "dict_ro": "Nasa, „a porni”: Avraam „a plecat de acolo” (20:1) spre sud; același verb pentru mutările lui (12:9; 13:3)."
    },
@@ -43,7 +43,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "γῆν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământ (la large, sau partitively țară).",
+    "def_ro": "pământ, țară.",
     "greek_def_ro": "γῆ (ge) — pământ, țară.",
     "dict_ro": "Erets, „țară”: „în țara Neghebului” (20:1); la 20:15 Abimeleh îi spune: „iată, țara mea este înaintea ta” — ospitalitate regească după întâmplare."
    },
@@ -59,7 +59,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "λίβα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "south (de la al sau drought); in special, Negeb sau southern district al Judah, occasionally, Egypt (ca south a Palestine).",
+    "def_ro": "miazăzi, sud; Neghebul.",
     "dict_ro": "Negheb (Negev), „sud” (Easton): ținutul uscat din sudul Canaanului, prin care trece Avraam spre Gherar (20:1); Septuaginta spune „spre miazăzi” (πρὸς λίβα).",
     "greek_def_ro": "λίψ (lips) — vânt de sud-vest, miazăzi (la acuzativ)."
    },
@@ -75,7 +75,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ᾤκησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a sit jos (in special ca judecător. in ambush, in quiet); de implicație, a dwell, a remain; causatively, a settle, a marry.",
+    "def_ro": "a sta, a locui, a rămâne; la forma cauzativă, a așeza.",
     "dict_ro": "Yashav, „a locui”: Avraam „s-a așezat între Cadeș și Șur” (20:1) și „locuiește” ca străin la Gherar; Abimeleh îi spune: „locuiește unde îți place” (20:15).",
     "greek_def_ro": "οἰκέω (oikeo) — a locui („a locuit”)."
    },
@@ -107,7 +107,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σουρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Șur — pustie la hotarul de nord-est al Egiptului, între Canaan și Egipt.",
+    "def_ro": "Șur — pustie la hotarul Egiptului.",
     "greek_def_ro": "Σουρ (Sour) — Șur, nume propriu.",
     "dict_ro": "Șur (Shur), „zid” (Easton): pustia de la hotarul de nord-est al Egiptului (16:7); Avraam se așază între Cadeș și Șur (20:1)."
    },
@@ -123,7 +123,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "παρῴκησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a întoarce aside de la road (pentru lodging sau orice alt purpose), adică sojourn (ca guest); de asemenea a shrink, fear (ca in strange loc); de asemenea a gather pentru hostility (ca afraid).",
+    "def_ro": "a locui ca străin, a se stabili temporar într-o țară care nu e a ta.",
     "greek_def_ro": "παροικέω (paroikeo) — a locui ca străin („a locuit ca străin”).",
     "dict_ro": "Gur, „a locui ca străin”: Avraam „a locuit ca străin în Gherar” (20:1) — statut fără drept de proprietate; același verb la 12:10, 17:8."
    },
@@ -151,7 +151,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "ἐν Γεραροις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "gerar, Philistine cetate.",
+    "def_ro": "Gherar — cetate din sudul Canaanului.",
     "greek_def_ro": "Γεραρα (Gerara) — Gherar; „în Gherar”.",
     "dict_ro": "Gherar (Gerar), „loc de popas” (Easton): cetate la hotarul de sud-vest al Canaanului, în ținutul filistenilor; Avraam locuiește aici (20:1–2) și, mai târziu, Isaac (26:1, 6)."
    },
@@ -231,7 +231,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 20 repetă greșeala din Egipt (12:10–20), numind-o „soră” pe Sara în fața lui Abimeleh; de data aceasta Dumnezeu însuși o apără, iar Avraam e numit „profet” (20:7)."
    },
@@ -247,7 +247,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „Avraam a spus despre Sara: este sora mea” (20:2) și Abimeleh întreabă: „ce ai făcut?” (20:9); două feluri de vorbe: cea strâmbă și cea dreaptă.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -279,7 +279,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ἀδελφή μού",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sister (folosit foarte widely [like 251number 250, corrected to 251], literal si figurat).",
+    "def_ro": "soră; și, în sens larg, rudă apropiată.",
     "dict_ro": "Achot, „soră” — introduce-o pe Naama ca soră a lui Tuval-Cain, ultimul nume menționat în genealogia lui Cain, încheind lista cu o femeie, spre deosebire de restul genealogiei axate pe fii.",
     "greek_def_ro": "ἀδελφή (adelphe) — soră; „sora mea”."
    },
@@ -295,7 +295,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "def_ro": "Avimeleh — „tatăl meu este rege”, numele regelui din Gherar.",
     "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh, nume propriu.",
     "dict_ro": "Avimeleh (Avimelekh), „tatăl meu e rege” (Hitchcock): regele Gherarului (20:2–18); titlul se pare că era purtat de mai mulți regi filisteni (26:1; Psalmul 34 titlu)."
    },
@@ -311,7 +311,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Γεραρων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "gerar, Philistine cetate.",
+    "def_ro": "Gherar — cetate din sudul Canaanului.",
     "greek_def_ro": "Γεραρα (Gerara) — Gherar, nume propriu (la genitiv: „al Gherarului”).",
     "dict_ro": "Gherar (Gerar), „loc de popas” (Easton): cetate la hotarul de sud-vest al Canaanului, în ținutul filistenilor; Avraam locuiește aici (20:1–2) și, mai târziu, Isaac (26:1, 6)."
    },
@@ -327,7 +327,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπέστειλεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a send departe, pentru, sau afară (in mare variety al applications).",
+    "def_ro": "a trimite, a întinde.",
     "greek_def_ro": "ἀποστέλλω (apostello) — a trimite („a trimis”).",
     "dict_ro": "Shalach, „a trimite”: Abimeleh „a trimis și a luat pe Sara” (20:2); verbul spune porunca regelui, care ia ce vrea; la sfârșit, Dumnezeu o „trimite” înapoi (20:14)."
    },
@@ -343,7 +343,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔλαβεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a lua (in widest variety al applications).",
+    "def_ro": "a lua.",
     "dict_ro": "Laqach, „a lua”: „a trimis și a luat pe Sara” (20:2); „a luat oi și vite” (20:14); aceeași acțiune, cu rezultate opuse: luare nedreaptă, apoi dar.",
     "greek_def_ro": "λαμβάνω (lambano) — a lua."
    },
@@ -464,7 +464,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἰσῆλθεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "def_ro": "a veni, a intra; despre soare, a apune.",
     "greek_def_ro": "εἰσέρχομαι (eiserchomai) — a intra („a intrat”).",
     "dict_ro": "Bo, „a veni”: „Dumnezeu a venit la Abimeleh” (20:3) în vis; verbul spune apariția lui Dumnezeu într-un vis, ca la Laban (31:24)."
    },
@@ -480,7 +480,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "πρὸς Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "def_ro": "Avimeleh — „tatăl meu este rege”, numele regelui din Gherar.",
     "greek_def_ro": "πρός (pros), Αβιμελεχ (Abimelech) — către Abimeleh.",
     "dict_ro": "Avimeleh (Avimelekh), „tatăl meu e rege” (Hitchcock): regele Gherarului (20:2–18); titlul se pare că era purtat de mai mulți regi filisteni (26:1; Psalmul 34 titlu)."
    },
@@ -512,7 +512,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν νύκτα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, twist (departe al light), adică night; figurat, adversity.",
+    "def_ro": "noapte, vremea întunericului.",
     "greek_def_ro": "νύξ (nyx) — noapte (la acuzativ: „noaptea”).",
     "dict_ro": "Laila, „noapte”: „în vis, noaptea” (20:3) — descoperirea vine în timpul somnului, ca să nu fie întârziere."
    },
@@ -528,7 +528,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „Avraam a spus despre Sara: este sora mea” (20:2) și Abimeleh întreabă: „ce ai făcut?” (20:9); două feluri de vorbe: cea strâmbă și cea dreaptă.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -544,7 +544,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv, participiu",
     "greek": "ἀποθνήσκεις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a die (literal sau figurat); causatively, a kill.",
+    "def_ro": "a die (literal sau figurat); causatively.",
     "greek_def_ro": "ἀποθνῄσκω (apothnesko) — a muri („mori”).",
     "dict_ro": "Mut, „a muri”: „iată, mori din pricina femeii” (20:3) și „vei muri negreșit” (20:7): sentința lui Dumnezeu, condiționată, față de rege."
    },
@@ -576,7 +576,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔλαβες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a lua (in widest variety al applications).",
+    "def_ro": "a lua.",
     "dict_ro": "Laqach, „a lua”: „a trimis și a luat pe Sara” (20:2); „a luat oi și vite” (20:14); aceeași acțiune, cu rezultate opuse: luare nedreaptă, apoi dar.",
     "greek_def_ro": "λαμβάνω (lambano) — a lua („ai luat”)."
    },
@@ -592,7 +592,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv, stare construită",
     "greek": "συνῳκηκυῖα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fi master; de aici, a marry.",
+    "def_ro": "a fi master; de aici.",
     "greek_def_ro": "συνοικέω (synoikeo) — a trăi împreună; la participiu, „locuind cu soț”.",
     "dict_ro": "Ba’al (verb), „a stăpâni, a fi soț”: „ea este stăpânită de un stăpân” (20:3) — soție măritată; legea lui Dumnezeu protejează căsătoria și la neamuri."
    },
@@ -608,7 +608,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀνδρί",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fi master; de aici, a marry.",
+    "def_ro": "a fi master; de aici.",
     "greek_def_ro": "ἀνήρ (aner) — bărbat, soț (la dativ).",
     "dict_ro": "Ba’al (verb), „a stăpâni, a fi soț”: „ea este stăpânită de un stăpân” (20:3) — soție măritată; legea lui Dumnezeu protejează căsătoria și la neamuri."
    },
@@ -692,7 +692,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "def_ro": "Avimeleh — „tatăl meu este rege”, numele regelui din Gherar.",
     "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh, nume propriu.",
     "dict_ro": "Avimeleh (Avimelekh), „tatăl meu e rege” (Hitchcock): regele Gherarului (20:2–18); titlul se pare că era purtat de mai mulți regi filisteni (26:1; Psalmul 34 titlu)."
    },
@@ -724,7 +724,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „Avraam a spus despre Sara: este sora mea” (20:2) și Abimeleh întreabă: „ce ai făcut?” (20:9); două feluri de vorbe: cea strâmbă și cea dreaptă.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -740,7 +740,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "Κύριε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "domn (folosit ca proper nume al dumnezeu numai).",
+    "def_ro": "Stăpâne — titlu dat lui Dumnezeu.",
     "greek_def_ro": "κύριος (kyrios) — Domn (la vocativ: „Doamne”).",
     "dict_ro": "Adonai, „Stăpâne”: Abimeleh îi spune lui Dumnezeu „Stăpâne” (20:4) și cere dreptate, ca Avraam la 18:25; Septuaginta spune κύριε."
    },
@@ -772,7 +772,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἔθνος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "foreign neam; de aici, Gentile; de asemenea (figurat) troop al animals, sau flight al locusts.",
+    "def_ro": "neam, popor.",
     "greek_def_ro": "ἔθνος (ethnos) — neam, popor.",
     "dict_ro": "Goy, „neam”: „oare vei omorî un neam drept?” (20:4) — Abimeleh, fără rușine, pledează pentru poporul lui, ca Avraam pentru Sodoma (18:23).",
     "diff_ro": "Ebraica spune „oare vei ucide un neam, chiar drept?”; Septuaginta spune „un neam care nu știe și e drept” (ἀγνοοῦν καὶ δίκαιον), adică nevinovat din necunoștință."
@@ -889,7 +889,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπέν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „Avraam a spus despre Sara: este sora mea” (20:2) și Abimeleh întreabă: „ce ai făcut?” (20:9); două feluri de vorbe: cea strâmbă și cea dreaptă.",
     "greek_def_ro": "λέγω (lego) — a spune („a spus”)."
    },
@@ -905,7 +905,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ἀδελφή μού",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sister (folosit foarte widely [like 251number 250, corrected to 251], literal si figurat).",
+    "def_ro": "soră; și, în sens larg, rudă apropiată.",
     "dict_ro": "Achot, „soră” — introduce-o pe Naama ca soră a lui Tuval-Cain, ultimul nume menționat în genealogia lui Cain, încheind lista cu o femeie, spre deosebire de restul genealogiei axate pe fii.",
     "greek_def_ro": "ἀδελφή (adelphe) — soră; „sora mea”."
    },
@@ -921,7 +921,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „Avraam a spus despre Sara: este sora mea” (20:2) și Abimeleh întreabă: „ce ai făcut?” (20:9); două feluri de vorbe: cea strâmbă și cea dreaptă.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -937,7 +937,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ἀδελφός μού",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "brother (folosit in widest sens al literal relationship si metaphorical affinity sau resemblance [like 1]).",
+    "def_ro": "frate; în sens larg, rudă apropiată.",
     "greek_def_ro": "ἀδελφός (adelphos) — frate; „fratele meu”.",
     "dict_ro": "Ach, „frate”: „nu mi-a spus el: sora mea? și ea: fratele meu?” (20:5) — Abimeleh a fost indus în eroare de ambii; Septuaginta spune ἀδελφός μού."
    },
@@ -953,7 +953,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "ἐν καθαρᾷ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "completeness; figurat, prosperity; de obicei (morally) innocence.",
+    "def_ro": "nevinovăție, întregime.",
     "greek_def_ro": "καθαρός (katharos) — curat (la dativ: „în curat”).",
     "dict_ro": "Tom, „întregime, nevinovăție”: „cu nevinovăție de inimă” (20:5, 6) — Abimeleh nu avea intenții rele; cuvântul din Psalmul 7:9 („după nevinovăția mea”)."
    },
@@ -969,7 +969,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "καρδίᾳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "inimă (ca most interior organ);.",
+    "def_ro": "inimă; și minte, gând, voință.",
     "greek_def_ro": "καρδία (kardia) — inimă (la dativ).",
     "dict_ro": "Levav, „inimă”: „cu nevinovăția inimii” (20:5–6) — Dumnezeu îl cunoaște pe Abimeleh după inima lui; Septuaginta spune ἐν καθαρᾷ καρδίᾳ."
    },
@@ -1001,7 +1001,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "χειρῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "hollow mână sau palm (asa al paw al animal, al sole, si chiar al bowl al dish sau sling, handle al bolt, leaves al palm-tree); figurat, power.",
+    "def_ro": "palmă, mână.",
     "greek_def_ro": "χείρ (cheir) — mână (la genitiv plural: „ale mâinilor”).",
     "dict_ro": "Kaf, „palmă”: „curățenia palmelor” (20:5): mâini curate, nevinovăție în fapte; Septuaginta spune ἐν δικαιοσύνῃ χειρῶν."
    },
@@ -1017,7 +1017,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐποίησα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "def_ro": "a face sau face.",
     "greek_def_ro": "ποιέω (poieo) — a face („am făcut”).",
     "dict_ro": "Asah, „a face”: „am făcut aceasta” (20:5), „ce ai făcut cu noi?” (20:9), „ce ai văzut ca să faci lucrul acesta?” (20:10): Abimeleh cere socoteală de fapte."
    },
@@ -1118,7 +1118,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „Avraam a spus despre Sara: este sora mea” (20:2) și Abimeleh întreabă: „ce ai făcut?” (20:9); două feluri de vorbe: cea strâmbă și cea dreaptă.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -1150,7 +1150,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔγνων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a cunoaste (propriu-zis, a ascertain de seeing); folosit in mare variety al senses, figurat, literal, euphemistically si inferentially (including observation, care, recognition; si causatively, instruction, designation, punishment, etc.).",
+    "def_ro": "a cunoaste (propriu-zis.",
     "greek_def_ro": "γινώσκω (ginosko) — a ști („am știut”).",
     "dict_ro": "Yada, „a ști”: „știu și Eu” (20:6) — Dumnezeu confirmă că Abimeleh era nevinovat; Septuaginta spune ἔγνων."
    },
@@ -1166,7 +1166,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "καθαρᾷ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "completeness; figurat, prosperity; de obicei (morally) innocence.",
+    "def_ro": "nevinovăție, întregime.",
     "greek_def_ro": "καθαρός (katharos) — curat (la dativ feminin).",
     "dict_ro": "Tom, „întregime, nevinovăție”: „cu nevinovăție de inimă” (20:5, 6) — Abimeleh nu avea intenții rele; cuvântul din Psalmul 7:9 („după nevinovăția mea”)."
    },
@@ -1182,7 +1182,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "καρδίᾳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "inimă (ca most interior organ);.",
+    "def_ro": "inimă; și minte, gând, voință.",
     "greek_def_ro": "καρδία (kardia) — inimă (la dativ).",
     "dict_ro": "Levav, „inimă”: „cu nevinovăția inimii” (20:5–6) — Dumnezeu îl cunoaște pe Abimeleh după inima lui; Septuaginta spune ἐν καθαρᾷ καρδίᾳ."
    },
@@ -1198,7 +1198,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐποίησας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "def_ro": "a face sau face.",
     "greek_def_ro": "ποιέω (poieo) — a face.",
     "dict_ro": "Asah, „a face”: „am făcut aceasta” (20:5), „ce ai făcut cu noi?” (20:9), „ce ai văzut ca să faci lucrul acesta?” (20:10): Abimeleh cere socoteală de fapte."
    },
@@ -1246,7 +1246,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, cu sufix",
     "greek": "ἀφῆκά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "def_ro": "a da.",
     "greek_def_ro": "ἀφίημι (aphiemi) — a lăsa, a îngădui („am lăsat”).",
     "dict_ro": "Natan, „a da”: „nu te-am lăsat (dat) să te atingi de ea” (20:6); Abimeleh dă oi și boi lui Avraam (20:14) și mie de arginți fratelui ei (20:16)."
    },
@@ -1354,7 +1354,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "ἀπόδος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a întoarce înapoi (de aici, departe) transitively sau intransitively, literal sau figurat (nu necessarily cu idea al return a starting point); generally a retreat; adesea adverbial, again.",
+    "def_ro": "a întoarce înapoi (de aici, departe) transitively sau intransitively.",
     "greek_def_ro": "ἀποδίδωμι (apodidomi) — a da înapoi („dă înapoi”).",
     "dict_ro": "Shuv, „a se întoarce, a da înapoi”: „dă înapoi femeia” (20:7) și Abimeleh „i-a dat-o înapoi” (20:14); porunca lui Dumnezeu, ascultată de rege."
    },
@@ -1370,7 +1370,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῷ ἀνθρώπῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si in such cases frequently nu expressed in translation).",
+    "def_ro": "om ca individual sau male persoana.",
     "greek_def_ro": "ἄνθρωπος (anthropos) — om (la dativ: „omului”).",
     "dict_ro": "Ish, „bărbat, om”: „dă înapoi femeia bărbatului ei” (20:7) și „oamenii lui” (20:8); Abimeleh restituie."
    },
@@ -1402,7 +1402,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "προφήτης",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "profet sau (generally) inspired om.",
+    "def_ro": "profet, cel ce vorbește în numele lui Dumnezeu.",
     "greek_def_ro": "προφήτης (prophetes) — profet.",
     "dict_ro": "Navi, „profet”: „căci el este profet” (20:7) — prima oară în Biblie când cineva e numit profet; Avraam este profet, deci rugăciunea lui se aude; Septuaginta spune προφήτης."
    },
@@ -1418,7 +1418,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "προσεύξεται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a judecător (officially sau mentally); de extension, a intercede, pray.",
+    "def_ro": "a judecător (officially sau mentally).",
     "greek_def_ro": "προσεύχομαι (proseuchomai) — a se ruga („se va ruga”).",
     "dict_ro": "Palal, „a se ruga, a mijloci”: „se va ruga pentru tine” (20:7, 17) — Avraam e mijlocitorul lui Abimeleh, ca pentru Sodoma (18:23–32); prima oară când verbul apare în Biblie."
    },
@@ -1434,7 +1434,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ζήσῃ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a live, dacă literal sau figurat; causatively, a revive.",
+    "def_ro": "a trăi.",
     "greek_def_ro": "ζάω (zao) — a trăi („vei trăi”).",
     "dict_ro": "Chayah, „a trăi”: „și vei trăi” (20:7) — viața lui Abimeleh atârnă de rugăciunea lui Avraam; Septuaginta spune ζήσῃ."
    },
@@ -1450,7 +1450,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu",
     "greek": "ἀποδίδως",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a întoarce înapoi (de aici, departe) transitively sau intransitively, literal sau figurat (nu necessarily cu idea al return a starting point); generally a retreat; adesea adverbial, again.",
+    "def_ro": "a întoarce înapoi (de aici, departe) transitively sau intransitively.",
     "greek_def_ro": "ἀποδίδωμι (apodidomi) — a da înapoi („dai înapoi”).",
     "dict_ro": "Shuv, „a se întoarce, a da înapoi”: „dă înapoi femeia” (20:7) și Abimeleh „i-a dat-o înapoi” (20:14); porunca lui Dumnezeu, ascultată de rege."
    },
@@ -1466,7 +1466,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀποθανῇ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a die (literal sau figurat); causatively, a kill.",
+    "def_ro": "a die (literal sau figurat); causatively.",
     "greek_def_ro": "ἀποθνῄσκω (apothnesko) — a muri („vei muri”).",
     "dict_ro": "Mut, „a muri”: „iată, mori din pricina femeii” (20:3) și „vei muri negreșit” (20:7): sentința lui Dumnezeu, condiționată, față de rege."
    },
@@ -1482,7 +1482,7 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv absolut)",
     "greek": "ἀποθανῇ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a die (literal sau figurat); causatively, a kill.",
+    "def_ro": "a die (literal sau figurat); causatively.",
     "greek_def_ro": "ἀποθνῄσκω (apothnesko) — a muri („vei muri”).",
     "dict_ro": "Mut, „a muri”: „iată, mori din pricina femeii” (20:3) și „vei muri negreșit” (20:7): sentința lui Dumnezeu, condiționată, față de rege."
    },
@@ -1574,7 +1574,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "def_ro": "Avimeleh — „tatăl meu este rege”, numele regelui din Gherar.",
     "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh, nume propriu.",
     "dict_ro": "Avimeleh (Avimelekh), „tatăl meu e rege” (Hitchcock): regele Gherarului (20:2–18); titlul se pare că era purtat de mai mulți regi filisteni (26:1; Psalmul 34 titlu)."
    },
@@ -1590,7 +1590,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ὤρθρισεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "literal, a load sus (pe înapoi al om sau beast), adică a start early in morning.",
+    "def_ro": "a se scula devreme, a se trezi.",
     "greek_def_ro": "ὀρθρίζω (orthrizo) — a se scula de dimineață („s-a sculat dis-de-dimineață”).",
     "dict_ro": "Shakham, „a se scula de dimineață”: „Abimeleh s-a sculat dis-de-dimineață” (20:8), ca Avraam la 19:27 și 22:3: ascultarea se face fără întârziere."
    },
@@ -1606,7 +1606,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "τὸ πρωὶ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, dawn (ca break al zi); generally, morning.",
+    "def_ro": "dimineață, zori; spărtura zilei.",
     "greek_def_ro": "πρωΐ (proi) — dimineață („dimineața”).",
     "dict_ro": "Boqer, „dimineață”: „dis-de-dimineață” (20:8) — ascultare grabnică; revine la ascultarea lui Avraam (21:14; 22:3)."
    },
@@ -1622,7 +1622,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκάλεσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a call afară a (adică propriu-zis, address de nume, dar folosit in wide variety al applications).",
+    "def_ro": "a call afară a (adică propriu-zis.",
     "greek_def_ro": "καλέω (kaleo) — a chema, a numi.",
     "dict_ro": "Qara, „a chema”: „Abimeleh a chemat pe toți slujitorii lui” (20:8) și apoi „a chemat pe Avraam” (20:9); regele strigă adunarea cu repeziciune."
    },
@@ -1654,7 +1654,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐλάλησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "poate propriu-zis, a arrange; dar folosit figurat (al words), a vorbi; rarely (in destructive sens) a subdue.",
+    "def_ro": "poate propriu-zis.",
     "greek_def_ro": "λαλέω (laleo) — a vorbi („a vorbit”).",
     "dict_ro": "Dibber, „a vorbi”: Abimeleh „a vorbit toate aceste cuvinte în urechile lor” (20:8) — dă pe față visul; ei se tem."
    },
@@ -1670,7 +1670,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὰ ῥήματα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cuvânt; de implicație, matter (ca spoken al) sau lucru; adverbially, cauză.",
+    "def_ro": "cuvânt; de implicație.",
     "greek_def_ro": "ῥῆμα (rhema) — cuvânt, lucru (la plural: „cuvintele”, „lucrurile”).",
     "dict_ro": "Davar, „cuvânt”: „toate cuvintele acestea” (20:8) — spusele visului; Septuaginta spune τὰ ῥήματα."
    },
@@ -1702,7 +1702,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "οἱ ἄνθρωποι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si in such cases frequently nu expressed in translation).",
+    "def_ro": "om ca individual sau male persoana.",
     "greek_def_ro": "ἄνθρωπος (anthropos) — om; la plural, „oamenii”.",
     "dict_ro": "Ish, „bărbat, om”: „dă înapoi femeia bărbatului ei” (20:7) și „oamenii lui” (20:8); Abimeleh restituie."
    },
@@ -1718,7 +1718,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐφοβήθησαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fear; morally a revere; causatively a frighten.",
+    "def_ro": "a se teme; a cinsti cu temere.",
     "greek_def_ro": "φοβέομαι (phobeomai) — a se teme („s-au temut”).",
     "dict_ro": "Yare, „a se teme”: „oamenii s-au temut foarte” (20:8) — teama de Dumnezeu a păgânilor, în contrast cu cuvintele lui Avraam (20:11)."
    },
@@ -1734,7 +1734,7 @@ window.CHAPTER_DATA = [
     "pos": "adverb",
     "greek": "σφόδρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, vehemence, adică (cu sau fără preposition) vehemently; de implicație, wholly, speedily, etc. (adesea cu alt words ca intensive sau superlative; in special cand repeated).",
+    "def_ro": "foarte, peste măsură, din cale-afară.",
     "greek_def_ro": "σφόδρα (sphodra) — foarte, tare.",
     "dict_ro": "Meod, „foarte”: „s-au temut foarte” (20:8) — teama cea mare a oamenilor."
    },
@@ -1802,7 +1802,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "def_ro": "Avimeleh — „tatăl meu este rege”, numele regelui din Gherar.",
     "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh, nume propriu.",
     "dict_ro": "Avimeleh (Avimelekh), „tatăl meu e rege” (Hitchcock): regele Gherarului (20:2–18); titlul se pare că era purtat de mai mulți regi filisteni (26:1; Psalmul 34 titlu)."
    },
@@ -1818,7 +1818,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκάλεσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a call afară a (adică propriu-zis, address de nume, dar folosit in wide variety al applications).",
+    "def_ro": "a call afară a (adică propriu-zis.",
     "greek_def_ro": "καλέω (kaleo) — a chema, a numi.",
     "dict_ro": "Qara, „a chema”: „Abimeleh a chemat pe toți slujitorii lui” (20:8) și apoi „a chemat pe Avraam” (20:9); regele strigă adunarea cu repeziciune."
    },
@@ -1834,7 +1834,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τὸν Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam (la acuzativ).",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 20 repetă greșeala din Egipt (12:10–20), numind-o „soră” pe Sara în fața lui Abimeleh; de data aceasta Dumnezeu însuși o apără, iar Avraam e numit „profet” (20:7)."
    },
@@ -1850,7 +1850,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „Avraam a spus despre Sara: este sora mea” (20:2) și Abimeleh întreabă: „ce ai făcut?” (20:9); două feluri de vorbe: cea strâmbă și cea dreaptă.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -1866,7 +1866,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐποίησας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "def_ro": "a face sau face.",
     "greek_def_ro": "ποιέω (poieo) — a face.",
     "dict_ro": "Asah, „a face”: „am făcut aceasta” (20:5), „ce ai făcut cu noi?” (20:9), „ce ai văzut ca să faci lucrul acesta?” (20:10): Abimeleh cere socoteală de fapte."
    },
@@ -1898,7 +1898,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπήγαγες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "def_ro": "a veni, a intra; despre soare, a apune.",
     "greek_def_ro": "ἐπάγω (epago) — a aduce asupra („ai adus”).",
     "dict_ro": "Bo, „a veni”: „Dumnezeu a venit la Abimeleh” (20:3) în vis; verbul spune apariția lui Dumnezeu într-un vis, ca la Laban (31:24)."
    },
@@ -1930,7 +1930,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "μεγάλην",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mare (in orice sens); de aici, older; de asemenea insolent.",
+    "def_ro": "mare, mai mare, în orice sens.",
     "dict_ro": "Gadol, „mare”: „păcat mare” (20:9) — Abimeleh măsoară fapta; Dumnezeu e mai mare (20:6).",
     "greek_def_ro": "μέγας (megas) — mare (la acuzativ feminin)."
    },
@@ -1946,7 +1946,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἁμαρτίαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "offence, sau jertfă pentru it.",
+    "def_ro": "păcat, greșeală; și jertfă pentru păcat.",
     "greek_def_ro": "ἁμαρτία (hamartia) — păcat (la acuzativ).",
     "dict_ro": "Chata’ah, „păcat”: „un păcat mare” (20:9) — luarea soției altuia e un păcat grav pentru rege."
    },
@@ -1962,7 +1962,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἔργον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "action (bun sau bad); generally, transaction; abstractly, activity; de implicație, product (in special, poem) sau (generally) property.",
+    "def_ro": "faptă, lucrare.",
     "greek_def_ro": "ἔργον (ergon) — lucrare, faptă.",
     "dict_ro": "Ma’aseh, „faptă”: „fapte care nu se fac” (20:9) — fapte care nu se săvârșesc; Septuaginta spune ἔργον, ὃ οὐδεὶς ποιήσει."
    },
@@ -1978,7 +1978,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ποιήσει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "def_ro": "a face sau face.",
     "greek_def_ro": "ποιέω (poieo) — a face („va face”).",
     "dict_ro": "Asah, „a face”: „am făcut aceasta” (20:5), „ce ai făcut cu noi?” (20:9), „ce ai văzut ca să faci lucrul acesta?” (20:10): Abimeleh cere socoteală de fapte."
    },
@@ -1994,7 +1994,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "πεποίηκάς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "def_ro": "a face sau face.",
     "greek_def_ro": "ποιέω (poieo) — a face („ai făcut”).",
     "dict_ro": "Asah, „a face”: „am făcut aceasta” (20:5), „ce ai făcut cu noi?” (20:9), „ce ai văzut ca să faci lucrul acesta?” (20:10): Abimeleh cere socoteală de fapte."
    },
@@ -2082,7 +2082,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "def_ro": "Avimeleh — „tatăl meu este rege”, numele regelui din Gherar.",
     "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh, nume propriu.",
     "dict_ro": "Avimeleh (Avimelekh), „tatăl meu e rege” (Hitchcock): regele Gherarului (20:2–18); titlul se pare că era purtat de mai mulți regi filisteni (26:1; Psalmul 34 titlu)."
    },
@@ -2098,7 +2098,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „Avraam a spus despre Sara: este sora mea” (20:2) și Abimeleh întreabă: „ce ai făcut?” (20:9); două feluri de vorbe: cea strâmbă și cea dreaptă.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -2114,7 +2114,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu (la dativ: „lui Avraam”).",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 20 repetă greșeala din Egipt (12:10–20), numind-o „soră” pe Sara în fața lui Abimeleh; de data aceasta Dumnezeu însuși o apără, iar Avraam e numit „profet” (20:7)."
    },
@@ -2130,7 +2130,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἰδὼν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a vedea, literal sau figurat (in numerous applications, direct si implied, transitive, intransitive si causative).",
+    "def_ro": "a vedea.",
     "dict_ro": "Raah, „a vedea”: „ce ai văzut ca să faci aceasta?” (20:10) — Abimeleh îl întreabă pe Avraam de ce a ales să facă; Septuaginta spune ἐνιδὼν.",
     "greek_def_ro": "ὁράω (horao) — a vedea; la participiu, „văzând”."
    },
@@ -2146,7 +2146,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐποίησας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "def_ro": "a face sau face.",
     "greek_def_ro": "ποιέω (poieo) — a face.",
     "dict_ro": "Asah, „a face”: „am făcut aceasta” (20:5), „ce ai făcut cu noi?” (20:9), „ce ai văzut ca să faci lucrul acesta?” (20:10): Abimeleh cere socoteală de fapte."
    },
@@ -2162,7 +2162,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ἐνιδὼν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cuvânt; de implicație, matter (ca spoken al) sau lucru; adverbially, cauză.",
+    "def_ro": "cuvânt; de implicație.",
     "greek_def_ro": "ἐνοράω (enorao) — a băga de seamă; la participiu, „văzând”.",
     "dict_ro": "Davar, „cuvânt”: „toate cuvintele acestea” (20:8) — spusele visului; Septuaginta spune τὰ ῥήματα."
    },
@@ -2233,7 +2233,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 20 repetă greșeala din Egipt (12:10–20), numind-o „soră” pe Sara în fața lui Abimeleh; de data aceasta Dumnezeu însuși o apără, iar Avraam e numit „profet” (20:7)."
    },
@@ -2249,7 +2249,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „Avraam a spus despre Sara: este sora mea” (20:2) și Abimeleh întreabă: „ce ai făcut?” (20:9); două feluri de vorbe: cea strâmbă și cea dreaptă.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -2265,7 +2265,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „Avraam a spus despre Sara: este sora mea” (20:2) și Abimeleh întreabă: „ce ai făcut?” (20:9); două feluri de vorbe: cea strâmbă și cea dreaptă.",
     "greek_def_ro": "λέγω (lego) — a spune („am spus”)."
    },
@@ -2281,7 +2281,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "θεοσέβεια",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fear (de asemenea folosit ca infinitive); morally, reverence.",
+    "def_ro": "teamă, frică de Dumnezeu.",
     "greek_def_ro": "θεοσέβεια (theosebeia) — evlavie, cinstirea lui Dumnezeu.",
     "dict_ro": "Yir’ah, „teamă”: „nu este teamă de Dumnezeu în locul acesta” (20:11) — Avraam spune că de aceea a mințit; Septuaginta spune θεοσέβεια."
    },
@@ -2312,7 +2312,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "τῷ τόπῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, standing, adică spot; dar folosit widely al locality (general sau specific); de asemenea (figurat) al condition (al trup sau mind).",
+    "def_ro": "loc, locul unde stai; și stare, rând.",
     "dict_ro": "Maqom, „loc”: „în locul acesta” (20:11, 13) — Avraam spune: nu e teamă de Dumnezeu în locul acesta; și „oriunde vom veni” (20:13).",
     "greek_def_ro": "τόπος (topos) — loc (la dativ: „în locul”)."
    },
@@ -2440,7 +2440,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ἀδελφή μού",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sister (folosit foarte widely [like 251number 250, corrected to 251], literal si figurat).",
+    "def_ro": "soră; și, în sens larg, rudă apropiată.",
     "dict_ro": "Achot, „soră” — introduce-o pe Naama ca soră a lui Tuval-Cain, ultimul nume menționat în genealogia lui Cain, încheind lista cu o femeie, spre deosebire de restul genealogiei axate pe fii.",
     "greek_def_ro": "ἀδελφή (adelphe) — soră; „sora mea”."
    },
@@ -2455,7 +2455,7 @@ window.CHAPTER_DATA = [
     "strong": "H1323",
     "pos": "substantiv, stare construită",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiica (folosit in acelasi wide sens ca alt terms al relationship, literal si figurat).",
+    "def_ro": "fiică; și, în sens larg, locuitoare a unui loc.",
     "diff_ro": "Septuaginta nu are „fiica” (בַּת); textul grecesc spune doar „sora mea este din tată”, fără cuvântul „fiică”.",
     "dict_ro": "Bat, „fiică”: „fiica tatălui meu, nu a mamei mele” (20:12) — Sara e sora lui după tată (cf. Iubileele 12:9); Septuaginta nu are „fiica”."
    },
@@ -2486,7 +2486,7 @@ window.CHAPTER_DATA = [
     "strong": "H1323",
     "pos": "substantiv, stare construită",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiica (folosit in acelasi wide sens ca alt terms al relationship, literal si figurat).",
+    "def_ro": "fiică; și, în sens larg, locuitoare a unui loc.",
     "diff_ro": "Septuaginta nu are „fiica” (בַּת); textul grecesc spune doar „sora mea este din tată”, fără cuvântul „fiică”.",
     "dict_ro": "Bat, „fiică”: „fiica tatălui meu, nu a mamei mele” (20:12) — Sara e sora lui după tată (cf. Iubileele 12:9); Septuaginta nu are „fiica”."
    },
@@ -2502,7 +2502,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "μητρός",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mother (ca bond al family); in wide sens (both literal si figurat [like father]).",
+    "def_ro": "mamă; cu sufixul „său”: „mama lui”.",
     "greek_def_ro": "μήτηρ (meter) — mamă (la genitiv).",
     "dict_ro": "Em, „mamă”: „nu a mamei mele” (20:12) — Sara este doar sora după tată; după unii, nepoata lui Avraam (11:29)."
    },
@@ -2662,7 +2662,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, cu sufix",
     "greek": "ἐξήγαγέν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a vacillate, adică reel sau stray (literal sau figurat); de asemenea causative al both.",
+    "def_ro": "a rătăci.",
     "greek_def_ro": "ἐξάγω (exago) — a scoate afară („a scos”).",
     "dict_ro": "Ta’ah, „a rătăci”: „Dumnezeu m-a făcut să rătăcesc” (20:13, la plural) — Avraam spune că a ieșit din casa tatălui său; Septuaginta spune ἐξήγαγέν με."
    },
@@ -2694,7 +2694,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "ἐκ τοῦ οἴκου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "casa (in greatest variation al applications, in special family, etc.).",
+    "def_ro": "casă, gospodărie.",
     "greek_def_ro": "οἶκος (oikos) — casă; „din casa”.",
     "dict_ro": "Bayit, „casă”: „din casa tatălui meu” (20:13) — Avraam amintește plecarea din Haran (12:1); „casa lui Abimeleh” (20:18)."
    },
@@ -2726,7 +2726,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „Avraam a spus despre Sara: este sora mea” (20:2) și Abimeleh întreabă: „ce ai făcut?” (20:9); două feluri de vorbe: cea strâmbă și cea dreaptă.",
     "greek_def_ro": "λέγω (lego) — a spune („am spus”)."
    },
@@ -2742,7 +2742,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "δικαιοσύνην",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "kindness; de implicație (towards dumnezeu) piety; rarely (de opposition) reproof, sau (subject.) beauty.",
+    "def_ro": "bunăvoință, îndurare.",
     "greek_def_ro": "δικαιοσύνη (dikaiosyne) — dreptate, neprihănire (la acuzativ).",
     "dict_ro": "Chesed, „bunăvoință”: „această bunăvoință să-mi arăți” (20:13) — Avraam cere ocrotirea Sarei; revine la loialitate (21:23)."
    },
@@ -2758,7 +2758,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ποιήσεις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "def_ro": "a face sau face.",
     "greek_def_ro": "ποιέω (poieo) — a face; „vei face”.",
     "dict_ro": "Asah, „a face”: „am făcut aceasta” (20:5), „ce ai făcut cu noi?” (20:9), „ce ai văzut ca să faci lucrul acesta?” (20:10): Abimeleh cere socoteală de fapte."
    },
@@ -2774,7 +2774,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τόπον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, standing, adică spot; dar folosit widely al locality (general sau specific); de asemenea (figurat) al condition (al trup sau mind).",
+    "def_ro": "loc, locul unde stai; și stare, rând.",
     "dict_ro": "Maqom, „loc”: „în locul acesta” (20:11, 13) — Avraam spune: nu e teamă de Dumnezeu în locul acesta; și „oriunde vom veni” (20:13).",
     "greek_def_ro": "τόπος (topos) — loc (la acuzativ)."
    },
@@ -2790,7 +2790,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἰσέλθωμεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "def_ro": "a veni, a intra; despre soare, a apune.",
     "greek_def_ro": "εἰσέρχομαι (eiserchomai) — a intra („vom intra”).",
     "dict_ro": "Bo, „a veni”: „Dumnezeu a venit la Abimeleh” (20:3) în vis; verbul spune apariția lui Dumnezeu într-un vis, ca la Laban (31:24)."
    },
@@ -2806,7 +2806,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ἀδελφός μού",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "brother (folosit in widest sens al literal relationship si metaphorical affinity sau resemblance [like 1]).",
+    "def_ro": "frate; în sens larg, rudă apropiată.",
     "greek_def_ro": "ἀδελφός (adelphos) — frate; „fratele meu”.",
     "dict_ro": "Ach, „frate”: „nu mi-a spus el: sora mea? și ea: fratele meu?” (20:5) — Abimeleh a fost indus în eroare de ambii; Septuaginta spune ἀδελφός μού."
    },
@@ -2899,7 +2899,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "def_ro": "Avimeleh — „tatăl meu este rege”, numele regelui din Gherar.",
     "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh, nume propriu.",
     "dict_ro": "Avimeleh (Avimelekh), „tatăl meu e rege” (Hitchcock): regele Gherarului (20:2–18); titlul se pare că era purtat de mai mulți regi filisteni (26:1; Psalmul 34 titlu)."
    },
@@ -2915,7 +2915,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔλαβεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a lua (in widest variety al applications).",
+    "def_ro": "a lua.",
     "dict_ro": "Laqach, „a lua”: „a trimis și a luat pe Sara” (20:2); „a luat oi și vite” (20:14); aceeași acțiune, cu rezultate opuse: luare nedreaptă, apoi dar.",
     "greek_def_ro": "λαμβάνω (lambano) — a lua."
    },
@@ -2931,7 +2931,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πρόβατα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "collective nume pentru flock (al sheep sau goats); de asemenea figurat (al men).",
+    "def_ro": "oi, turmă.",
     "dict_ro": "Tson, „turmă, oi și capre” — termen colectiv generic pentru micile animale domestice, folosit constant în toată Tora pentru economia pastorală a patriarhilor.",
     "greek_def_ro": "πρόβατον (probaton) — oaie (la plural: „oi”)."
    },
@@ -2947,7 +2947,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "μόσχους",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "beeve sau animal al ox family al either gender (ca folosit pentru plowing); collectively, herd.",
+    "def_ro": "vite mari, cireadă.",
     "greek_def_ro": "μόσχος (moschos) — vițel (la acuzativ plural).",
     "dict_ro": "Baqar, „vite mari”: „vite și oi” (20:14) — darul lui Abimeleh către Avraam; Septuaginta spune μόσχους."
    },
@@ -2979,7 +2979,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "παιδίσκας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "female slave (ca member al household).",
+    "def_ro": "slujnică, roabă.",
     "greek_def_ro": "παιδίσκη (paidiske) — slujnică (la acuzativ plural).",
     "dict_ro": "Shifchah, „slujnică”: „slujitori și slujnice” (20:14) — parte din dar; Septuaginta spune παιδίσκας."
    },
@@ -2995,7 +2995,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔδωκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "def_ro": "a da.",
     "greek_def_ro": "δίδωμι (didomi) — a da („a dat”).",
     "dict_ro": "Natan, „a da”: „nu te-am lăsat (dat) să te atingi de ea” (20:6); Abimeleh dă oi și boi lui Avraam (20:14) și mie de arginți fratelui ei (20:16)."
    },
@@ -3011,7 +3011,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τῷ Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu (la dativ: „lui Avraam”).",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 20 repetă greșeala din Egipt (12:10–20), numind-o „soră” pe Sara în fața lui Abimeleh; de data aceasta Dumnezeu însuși o apără, iar Avraam e numit „profet” (20:7)."
    },
@@ -3117,7 +3117,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „Avraam a spus despre Sara: este sora mea” (20:2) și Abimeleh întreabă: „ce ai făcut?” (20:9); două feluri de vorbe: cea strâmbă și cea dreaptă.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -3133,7 +3133,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "def_ro": "Avimeleh — „tatăl meu este rege”, numele regelui din Gherar.",
     "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh, nume propriu.",
     "dict_ro": "Avimeleh (Avimelekh), „tatăl meu e rege” (Hitchcock): regele Gherarului (20:2–18); titlul se pare că era purtat de mai mulți regi filisteni (26:1; Psalmul 34 titlu)."
    },
@@ -3149,7 +3149,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ἡ γῆ μου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământ (la large, sau partitively țară).",
+    "def_ro": "pământ, țară.",
     "greek_def_ro": "γῆ (ge) — țară; „țara mea”.",
     "dict_ro": "Erets, „țară”: „în țara Neghebului” (20:1); la 20:15 Abimeleh îi spune: „iată, țara mea este înaintea ta” — ospitalitate regească după întâmplare."
    },
@@ -3165,7 +3165,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ἐναντίον σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "face (ca parte acela turns); folosit in mare variety al applications (literal si figurat); de asemenea (cu prepositional prefix) ca preposition (înainte, etc.).",
+    "def_ro": "față, chip; ce se întoarce spre cineva.",
     "greek_def_ro": "ἐναντίον (enantion) — înaintea; „înaintea Ta”.",
     "dict_ro": "Panim, „față”: „țara mea este înaintea ta” (20:15), „acoperământ al ochilor” (20:16): Abimeleh îi arată bunăvoința."
    },
@@ -3181,7 +3181,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "κατοίκει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a sit jos (in special ca judecător. in ambush, in quiet); de implicație, a dwell, a remain; causatively, a settle, a marry.",
+    "def_ro": "a sta, a locui, a rămâne; la forma cauzativă, a așeza.",
     "greek_def_ro": "κατοικέω (katoikeo) — a locui („locuiește”).",
     "dict_ro": "Yashav, „a locui”: Avraam „s-a așezat între Cadeș și Șur” (20:1) și „locuiește” ca străin la Gherar; Abimeleh îi spune: „locuiește unde îți place” (20:15)."
    },
@@ -3197,7 +3197,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv, cu prefix",
     "greek": "οὗ ἐάν σοι ἀρέσκῃ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "bun (ca adjective) in widest sens; folosit likewise ca substantiv, both in masculine si feminine, singular si plural (bun, bun sau bun lucru, bun om sau femeie; bun, goods sau bun lucruri, bun men sau women), de asemenea ca adverb (well).",
+    "def_ro": "bun (ca adjective) in widest sens.",
     "greek_def_ro": "ἀρέσκω (aresko) — a plăcea; „oriunde îți place”.",
     "dict_ro": "Tov, „bun”: „unde îți place (e bine)” (20:15) — Abimeleh îl lasă pe Avraam să locuiască unde vrea; Septuaginta spune ἀρέσκῃ."
    },
@@ -3213,7 +3213,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ἐναντίον σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "eye (literal sau figurat); de analogy, fountain (ca eye al landscape).",
+    "def_ro": "ochi; și, la figurat, izvor, ochiul pământului.",
     "greek_def_ro": "ἐναντίον (enantion) — înaintea; „înaintea Ta”.",
     "dict_ro": "Ayin, „ochi”: „acoperământ al ochilor” (20:16) — dovada nevinovăției Sarei în fața tuturor."
    },
@@ -3298,7 +3298,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: „Avraam a spus despre Sara: este sora mea” (20:2) și Abimeleh întreabă: „ce ai făcut?” (20:9); două feluri de vorbe: cea strâmbă și cea dreaptă.",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -3314,7 +3314,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "δέδωκα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a da, folosit cu greatest latitude al application (pune, face, etc.).",
+    "def_ro": "a da.",
     "greek_def_ro": "δίδωμι (didomi) — a da („am dat”).",
     "dict_ro": "Natan, „a da”: „nu te-am lăsat (dat) să te atingi de ea” (20:6); Abimeleh dă oi și boi lui Avraam (20:14) și mie de arginți fratelui ei (20:16)."
    },
@@ -3346,7 +3346,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "χίλια",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "de aici ( ox's head fiind întâi letter al alphabet, si acesta eventually folosit ca numeral) thousand.",
+    "def_ro": "o mie.",
     "greek_def_ro": "χίλιοι (chilioi) — o mie.",
     "dict_ro": "Eleph, „mie”: „o mie de arginți” (20:16) — suma pe care Abimeleh o dă fratelui Sarei, ca despăgubire; Septuaginta spune χίλια δίδραχμα."
    },
@@ -3362,9 +3362,9 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "δίδραχμα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "argint (de la al sau pale color); de implicație, money.",
-    "greek_def_ro": "δίδραχμον (didrachmon) — didrahmă, monedă de argint.",
-    "dict_ro": "Kesef, „argint”: „o mie de arginți” (20:16) — plată; Septuaginta spune δίδραχμα, „didrahme”."
+    "def_ro": "argint (de la al sau pale color); de implicație.",
+    "greek_def_ro": "δίδραχμον (didrachmon) — dublă drahmă, monedă de argint.",
+    "dict_ro": "Kesef, „argint”: „o mie de arginți” (20:16) — plată; Septuaginta spune δίδραχμα, „drahme duble”."
    },
    {
     "t": ". Iată, să-ți fie "
@@ -3394,7 +3394,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τιμὴν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cover (garment); figurat, veiling.",
+    "def_ro": "acoperământ, voal.",
     "greek_def_ro": "τιμή (time) — cinste, preț (la acuzativ).",
     "dict_ro": "Kesut, „acoperământ”: „acoperământ al ochilor” (20:16) — fie un voal, fie o mărturie care îi acoperă rușinea; cuvânt rar; Septuaginta spune τιμὴ τοῦ προσώπου.",
     "diff_ro": "Ebraica spune „acoperământ al ochilor” (כְּסוּת עֵינַיִם); Septuaginta spune „preț de cinste al feței tale” (τιμὴν τοῦ προσώπου σου), tâlcuind darul ca despăgubire."
@@ -3411,7 +3411,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "προσώπου σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "eye (literal sau figurat); de analogy, fountain (ca eye al landscape).",
+    "def_ro": "ochi; și, la figurat, izvor, ochiul pământului.",
     "greek_def_ro": "πρόσωπον (prosopon) — față; „al feței tale”.",
     "dict_ro": "Ayin, „ochi”: „acoperământ al ochilor” (20:16) — dovada nevinovăției Sarei în fața tuturor."
    },
@@ -3443,7 +3443,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀλήθευσον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fi right (adică correct); reciprocal, a argue; causatively, a decide, justify sau convict.",
+    "def_ro": "a dovedi, a mustra.",
     "greek_def_ro": "ἀληθεύω (aletheuo) — a spune adevărul („spune adevărul”).",
     "dict_ro": "Yakach, „a dovedi, a mustra”: „și ai fost dovedită” (20:16) — Sara e vindecată de orice bănuială; Septuaginta spune ἀλήθευσον."
    },
@@ -3543,7 +3543,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 20 repetă greșeala din Egipt (12:10–20), numind-o „soră” pe Sara în fața lui Abimeleh; de data aceasta Dumnezeu însuși o apără, iar Avraam e numit „profet” (20:7)."
    },
@@ -3559,7 +3559,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "προσηύξατο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a judecător (officially sau mentally); de extension, a intercede, pray.",
+    "def_ro": "a judecător (officially sau mentally).",
     "greek_def_ro": "προσεύχομαι (proseuchomai) — a se ruga („s-a rugat”).",
     "dict_ro": "Palal, „a se ruga, a mijloci”: „se va ruga pentru tine” (20:7, 17) — Avraam e mijlocitorul lui Abimeleh, ca pentru Sodoma (18:23–32); prima oară când verbul apare în Biblie."
    },
@@ -3623,7 +3623,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τὸν Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "def_ro": "Avimeleh — „tatăl meu este rege”, numele regelui din Gherar.",
     "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh (la acuzativ).",
     "dict_ro": "Avimeleh (Avimelekh), „tatăl meu e rege” (Hitchcock): regele Gherarului (20:2–18); titlul se pare că era purtat de mai mulți regi filisteni (26:1; Psalmul 34 titlu)."
    },
@@ -3671,7 +3671,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔτεκον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a bear tânăr; causatively, a beget; medically, a act ca midwife; in special, a show lineage.",
+    "def_ro": "a naște.",
     "dict_ro": "Verbul yalad, „a naște”, apare în genealogii în forma vayoled („și a născut”, la propriu „a făcut să se nască”), care arată că patriarhul devine tatăl unui urmaș anume. De la el vine și toledot, „istoria nașterilor”. Formula revine la fiecare generație: vârsta la care patriarhul devine tată, apoi anii în care mai trăiește și mai are „fii și fiice”.",
     "greek_def_ro": "τίκτω (tikto) — a naște („au născut”)."
    },
@@ -3779,7 +3779,7 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv absolut + verb)",
     "greek": "συνέκλεισεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a inclose; de analogy, a hold înapoi; de asemenea a maintain, rule, assemble.",
+    "def_ro": "a închide, a opri.",
     "greek_def_ro": "συγκλείω (synkleio) — a închide („a închis”).",
     "dict_ro": "Atsar, „a opri, a închide”: „DOMNUL închisese orice pântece” (20:18) — sterilitatea ca pedeapsă temporară; același verb din rugămintea Sarei, 16:2."
    },
@@ -3823,7 +3823,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "οἴκῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "casa (in greatest variation al applications, in special family, etc.).",
+    "def_ro": "casă, gospodărie.",
     "dict_ro": "Bayit, „casă”: „din casa tatălui meu” (20:13) — Avraam amintește plecarea din Haran (12:1); „casa lui Abimeleh” (20:18).",
     "greek_def_ro": "οἶκος (oikos) — casă (la dativ: „în casa”)."
    },
@@ -3839,7 +3839,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβιμελεχ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abimelek, nume al two Philistine împărați si al two Israelites.",
+    "def_ro": "Avimeleh — „tatăl meu este rege”, numele regelui din Gherar.",
     "greek_def_ro": "Αβιμελεχ (Abimelech) — Abimeleh, nume propriu.",
     "dict_ro": "Avimeleh (Avimelekh), „tatăl meu e rege” (Hitchcock): regele Gherarului (20:2–18); titlul se pare că era purtat de mai mulți regi filisteni (26:1; Psalmul 34 titlu)."
    },
@@ -3871,7 +3871,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: în capitolul 20 repetă greșeala din Egipt (12:10–20), numind-o „soră” pe Sara în fața lui Abimeleh; de data aceasta Dumnezeu însuși o apără, iar Avraam e numit „profet” (20:7)."
    },

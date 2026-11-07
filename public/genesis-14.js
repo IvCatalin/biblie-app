@@ -110,7 +110,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Θαργαλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Tidal — „regele neamurilor”, aliat al lui Chedorlaomer.",
+    "def_ro": "Tidal — rege aliat al lui Chedorlaomer.",
     "greek_def_ro": "Θαργαλ (Thargal) — Tidal, nume propriu.",
     "dict_ro": "Tidal (Tidal), „cel care sparge jugul” (Hitchcock): „regele Goimului” (14:1, 9); Easton îl pune în legătură cu Tudkhula și socotește că Goiim e țara Gutium, la răsărit de Tigru."
    },
@@ -261,7 +261,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πόλεμον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "luptă (adică engagement); generally, război (adică război-fare).",
+    "def_ro": "război, luptă.",
     "greek_def_ro": "πόλεμος (polemos) — război (la acuzativ).",
     "dict_ro": "Milchamah, „război”: primul război detaliat din Biblie (14:2): patru regi împotriva a cinci; ea pregătește intrarea lui Avram în istoria țării, ca eliberator al lui Lot."
    },
@@ -509,7 +509,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "συνεφώνησαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a join (literal sau figurat); în special (de means al spells) a fascinate.",
+    "def_ro": "a se uni, a se alătura.",
     "greek_def_ro": "συμφωνέω (symphoneo) — a se învoi, a cădea de acord („s-au învoit”).",
     "dict_ro": "Chavar, „a se alătura, a se uni”: regii „s-au strâns” (14:3) în valea Sidim, ca o coaliție militară; verbul spune și legătura de prietenie."
    },
@@ -525,7 +525,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν φάραγγα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vale (adică broad depression).",
+    "def_ro": "vale, câmpie adâncă între munți.",
     "greek_def_ro": "φάραγξ (pharanx) — vale adâncă, râpă („valea”).",
     "dict_ro": "Emeq, „vale, câmpie adâncă”: valea Sidim (14:3, 8, 10) și valea Șave (14:17) sunt locurile luptei și ale întâlnirii cu regele Sodomei."
    },
@@ -541,7 +541,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, cu articol",
     "greek": "τὴν ἁλυκήν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "siddim, valley în Palestine.",
+    "def_ro": "Sidim — vale cu multe gropi de smoală, lângă Marea Sărată.",
     "greek_def_ro": "ἁλυκός (halykos) — sărat; „(valea) sărată”.",
     "dict_ro": "Sidim (Siddim), „câmpie cu brazde” sau „câmpie cu locuri de var”: valea în care erau cele cinci cetăți, acum „Marea Sărată” (14:3), adică Marea Moartă."
    },
@@ -573,7 +573,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ἁλυκήν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, powder, adică (in special) salt (ca easily pulverized si dissolved).",
+    "def_ro": "sare; și, la figurat, pustiire (despre un pământ sărat).",
     "greek_def_ro": "ἁλυκός (halykos) — sărat (la acuzativ feminin).",
     "dict_ro": "Melach, „sare”: „Marea Sărată” (14:3), numele ebraic al Mării Moarte; Septuaginta spune ἡ θάλασσα τῶν ἁλῶν."
    },
@@ -714,7 +714,7 @@ window.CHAPTER_DATA = [
     "t": " și în al "
    },
    {
-    "t": "treispezecelea",
+    "t": "treisprezecelea",
     "w": "treisprezecelea",
     "heb": "שְׁלֹשׁ עֶשְׂרֵה",
     "translit": "shlosh esreh",
@@ -750,7 +750,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Textul Masoretic (ebraică)",
     "original": "שְׁתֵּים עֶשְׂרֵה שָׁנָה עָבְדוּ אֶת־כְּדָרְלָעֹמֶר וּשְׁלֹשׁ־עֶשְׂרֵה שָׁנָה מָרָדוּ",
-    "translation": "„Doisprezece ani l-au slujit pe Chedorlaomer și în al treispezecelea an s-au răsculat.” — traducerea rabinului Rosen.",
+    "translation": "„Doisprezece ani l-au slujit pe Chedorlaomer și în al treisprezecelea an s-au răsculat.” — traducerea rabinului Rosen.",
     "note": ""
    },
    {
@@ -763,7 +763,7 @@ window.CHAPTER_DATA = [
    {
     "source": "Pentateuhul Samaritean",
     "original": "שתים עשרה שנה עבדו את כדר לעמר ובשלש עשרה שנה מרדו",
-    "translation": "Diferență reală, confirmată: שתים עשרה שנה עבדו את כדר לעמר ובשלש עשרה שנה מרדו — „Doisprezece ani l-au slujit pe Chedorlaomer și în al treispezecelea an s-au răsculat.”",
+    "translation": "Diferență reală, confirmată: שתים עשרה שנה עבדו את כדר לעמר ובשלש עשרה שנה מרדו — „Doisprezece ani l-au slujit pe Chedorlaomer și în al treisprezecelea an s-au răsculat.”",
     "note": "(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751)."
    }
   ],
@@ -911,7 +911,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ασταρωθ Καρναιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ashteroth-Karnaim, loc East al Jordan.",
+    "def_ro": "ashteroth-Karnaim.",
     "greek_def_ro": "Ασταρωθ Καρναιν (Astaroth Karnain) — Așterot-Karnaim, nume de loc.",
     "dict_ro": "Așterot-Karnaim (Ashteroth Karnaim), „Așterot cu două coarne” (Easton): locul refaimiților (14:5), probabil în Basan, la 28 de mile de Damasc; „cu două coarne” se leagă de semiluna lunii."
    },
@@ -927,7 +927,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, popor",
     "greek": "ἔθνη ἰσχυρά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "zuzites, aboriginal seminție al Palestine.",
+    "def_ro": "zuziți — neam de uriași din est.",
     "greek_def_ro": "ἔθνος (ethnos), ἰσχυρός (ischyros) — neamuri puternice.",
     "dict_ro": "Zuzim (Zuzim): neam de uriași lovit de Chedorlaomer în Ham (14:5); Septuaginta redă „neamuri puternice” (ἔθνη ἰσχυρά)."
    },
@@ -943,7 +943,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "αὐτοῖς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ham, regiune al Palestine.",
+    "def_ro": "Ham — locul unde Chedorlaomer i-a lovit pe zuziți.",
     "greek_def_ro": "αὐτός (autos) — el, ei (la dativ plural: „împreună cu ei”).",
     "dict_ro": "Ham (Ham), „loc, cetate” (în 14:5): locul în care sunt loviți zuziții, în ținutul de la răsărit de Iordan."
    },
@@ -959,7 +959,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, popor",
     "greek": "Ομμαίους",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "emim, early Canaanitish (sau Maobitish) seminție.",
+    "def_ro": "emimi — neam de uriași din Moab.",
     "greek_def_ro": "Ομμαῖος (Ommaios) — emim, neam de uriași (la acuzativ plural).",
     "dict_ro": "Emim (Emim), „înfricoșătorii” (Easton): neam războinic de uriași care, în vremea lui Avram, locuia în țara de la răsărit de Iordan, mai târziu Moab (14:5; Deuteronom 2:10)."
    },
@@ -1063,7 +1063,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, popor, cu articol",
     "greek": "Χορραίους",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "chorite sau aboriginal Idumaean.",
+    "def_ro": "horit — locuitor al peșterilor din muntele Seir.",
     "greek_def_ro": "Χορραῖος (Chorraios) — horit (la acuzativ plural: „pe horiți”).",
     "dict_ro": "Hori (Chori), „locuitori de peșteri” (Easton): neam de troglodiți din Edom, ramură a hivitilor (14:6; 36:20–30), izgonit de urmașii lui Esau."
    },
@@ -1095,7 +1095,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σηιρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "seir, munte al Idumaea si al sau aboriginal occupants, de asemenea unul in Palestine.",
+    "def_ro": "Seir — munte în Edom.",
     "greek_def_ro": "Σηιρ (Seir) — Seir, nume propriu.",
     "dict_ro": "Seir (Se’ir), „păros, țărănesc”: ținutul de munte al horiților, la sud de Marea Moartă (14:6), unde va locui Esau (36:8)."
    },
@@ -1111,7 +1111,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τερεμίνθου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, strength; de aici, anything tare; in special căpetenie (politically); de asemenea ram (de la al lui strength); pilaster (ca tare support); oak sau alt tare tree.",
+    "def_ro": "berbec; și stejar, copac mare.",
     "greek_def_ro": "τερέμινθος (terebinthos) — terebint (la genitiv: „al terebintului”).",
     "dict_ro": "Eil (Eil), „stejar, terebint”: „Eil-Paran” (14:6) numește un loc cu un copac mare la marginea pustiei Paran. Septuaginta spune „terebintul Paran” (τερέμινθος)."
    },
@@ -1127,7 +1127,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Φαραν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "paran, desert al Arabia.",
+    "def_ro": "Paran — pustie din sudul țării.",
     "greek_def_ro": "Φαραν (Pharan) — Paran, nume propriu.",
     "dict_ro": "Paran (Paran): pustie și ținut din sudul Canaanului (14:6; 21:21), pe unde va rătăci și Ismael."
    },
@@ -1143,7 +1143,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ἐρήμῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pasture (adică open field, whither cattle sunt driven); de implicație, desert; de asemenea speech (including al sau organs).",
+    "def_ro": "pustie, loc de pășune pentru turme.",
     "greek_def_ro": "ἔρημος (eremos) — pustie (la dativ).",
     "dict_ro": "Midbar, „pustie”: expedițiile lui Chedorlaomer ajung „la marginea pustiei” (14:6), cea mai de sud și de răsărit a lor."
    },
@@ -1343,7 +1343,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, popor, cu articol",
     "greek": "Αμορραίους",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "amoritul — neam din Canaan, „muntenii”.",
+    "def_ro": "amorit — neam din Canaan.",
     "greek_def_ro": "Ἀμορραῖος (Amorraios) — amorit (la acuzativ plural: „pe amoriți”).",
     "dict_ro": "Amoritul (Emori), „muntean”: neam din Canaan (10:16); la 14:7 e lovit în Hațațon-Tamar, iar la 14:13 Mamre amoritul e aliatul lui Avram."
    },
@@ -1375,7 +1375,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Ασασανθαμαρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "chatsetson-tamar, loc în Palestine.",
+    "def_ro": "chatsetson-tamar.",
     "greek_def_ro": "Ασασανθαμαρ (Asasanthamar) — Hațațon-Tamar, nume propriu.",
     "dict_ro": "Hațațon-Tamar (Chatsatson Tamar), „tăierea palmierului” (Easton): numele vechi al En-Gedi (14:7; 2 Cronici 20:2)."
    },
@@ -1595,7 +1595,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῇ κοιλάδι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vale (adică broad depression).",
+    "def_ro": "vale, câmpie adâncă între munți.",
     "greek_def_ro": "κοιλάς (koilas) — vale (la dativ: „în vale”).",
     "dict_ro": "Emeq, „vale, câmpie adâncă”: valea Sidim (14:3, 8, 10) și valea Șave (14:17) sunt locurile luptei și ale întâlnirii cu regele Sodomei."
    },
@@ -1611,7 +1611,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, cu articol",
     "greek": "τῇ ἁλυκῇ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "siddim, valley în Palestine.",
+    "def_ro": "Sidim — vale cu multe gropi de smoală, lângă Marea Sărată.",
     "greek_def_ro": "ἁλυκός (halykos) — sărat (la dativ feminin: „cea sărată”).",
     "dict_ro": "Sidim (Siddim), „câmpie cu brazde” sau „câmpie cu locuri de var”: valea în care erau cele cinci cetăți, acum „Marea Sărată” (14:3), adică Marea Moartă."
    },
@@ -1709,7 +1709,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Θαργαλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Tidal — „regele neamurilor”, aliat al lui Chedorlaomer.",
+    "def_ro": "Tidal — rege aliat al lui Chedorlaomer.",
     "greek_def_ro": "Θαργαλ (Thargal) — Tidal, nume propriu.",
     "dict_ro": "Tidal (Tidal), „cel care sparge jugul” (Hitchcock): „regele Goimului” (14:1, 9); Easton îl pune în legătură cu Tudkhula și socotește că Goiim e țara Gutium, la răsărit de Tigru."
    },
@@ -1876,7 +1876,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "κοιλὰς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vale (adică broad depression).",
+    "def_ro": "vale, câmpie adâncă între munți.",
     "greek_def_ro": "κοιλάς (koilas) — vale.",
     "dict_ro": "Emeq, „vale, câmpie adâncă”: valea Sidim (14:3, 8, 10) și valea Șave (14:17) sunt locurile luptei și ale întâlnirii cu regele Sodomei."
    },
@@ -1892,7 +1892,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, cu articol",
     "greek": "ἡ ἁλυκή",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "siddim, valley în Palestine.",
+    "def_ro": "Sidim — vale cu multe gropi de smoală, lângă Marea Sărată.",
     "greek_def_ro": "ἁλυκός (halykos) — sărat; „(valea) cea sărată”.",
     "dict_ro": "Sidim (Siddim), „câmpie cu brazde” sau „câmpie cu locuri de var”: valea în care erau cele cinci cetăți, acum „Marea Sărată” (14:3), adică Marea Moartă."
    },
@@ -1908,7 +1908,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "φρέατα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pit; in special well.",
+    "def_ro": "puț, fântână.",
     "greek_def_ro": "φρέαρ (phrear) — fântână, puț (la plural: „puțuri”).",
     "dict_ro": "Be’er, „fântână, puț”: „puțuri de smoală” (14:10) — valea Sidim era plină de gropi cu bitum (Easton); în ele cad regii care fug."
    },
@@ -1988,7 +1988,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔφυγον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a flit, adică vanish departe (subside, escape; causatively, chase, impel, deliver).",
+    "def_ro": "a flit.",
     "greek_def_ro": "φεύγω (pheugo) — a fugi („au fugit”).",
     "dict_ro": "Nus, „a fugi”: regii Sodomei și Gomorei „au fugit” (14:10) și au căzut în puțuri; verbul spune fuga în luptă."
    },
@@ -2020,7 +2020,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔφυγον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a flit, adică vanish departe (subside, escape; causatively, chase, impel, deliver).",
+    "def_ro": "a flit.",
     "greek_def_ro": "φεύγω (pheugo) — a fugi („au fugit”).",
     "dict_ro": "Nus, „a fugi”: regii Sodomei și Gomorei „au fugit” (14:10) și au căzut în puțuri; verbul spune fuga în luptă."
    },
@@ -2550,9 +2550,9 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv, cu articol",
     "greek": "τῷ περάτῃ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "eberite (adică Hebrew) sau urmaș al Eber.",
+    "def_ro": "evreu — urmaș al lui Ever.",
     "greek_def_ro": "περάτης (perates) — cel de dincolo, evreu („celui de dincolo de râu”).",
-    "dict_ro": "Ivri, „ebreu” (14:13): prima dată când Avram e numit „evreul”; cuvântul îl leagă de Ever (10:21) și arată că e străin de neamurile din țară."
+    "dict_ro": "Ivri, „evreu” (14:13): prima dată când Avram e numit „evreul”; cuvântul îl leagă de Ever (10:21) și arată că e străin de neamurile din țară."
    },
    {
     "t": "; iar el "
@@ -2614,7 +2614,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, popor, cu articol",
     "greek": "Αμορις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "amoritul — neam din Canaan, „muntenii”.",
+    "def_ro": "amorit — neam din Canaan.",
     "greek_def_ro": "Αμορις (Amoris) — amoritul, nume de neam.",
     "dict_ro": "Amoritul (Emori), „muntean”: neam din Canaan (10:16); la 14:7 e lovit în Hațațon-Tamar, iar la 14:13 Mamre amoritul e aliatul lui Avram."
    },
@@ -2630,7 +2630,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Εσχωλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "eshcol, nume al Amorite, de asemenea al valley în Palestine.",
+    "def_ro": "eshcol, nume al Amorite.",
     "greek_def_ro": "Εσχωλ (Eschol) — Eșcol, nume propriu.",
     "dict_ro": "Eșcol (Eshkol), „ciorchine” (Easton): tânăr amorit aliat al lui Avram (14:13, 24); numele se leagă și de valea Eșcol (Numeri 13:23)."
    },
@@ -2646,7 +2646,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αυναν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "aner, Amorite, de asemenea loc în Palestine.",
+    "def_ro": "Aner — amorit, aliat al lui Avram.",
     "greek_def_ro": "Αυναν (Aunan) — Aner, nume propriu.",
     "dict_ro": "Aner (Aner), „băiat” (Easton): căpetenie canaanită aliată cu Avram (14:13, 24)."
    },
@@ -2662,7 +2662,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "συνωμόται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "master; de aici, husband, sau (figurat) owner (adesea folosit cu another substantiv in modifications al acesta latter sens).",
+    "def_ro": "master; de aici.",
     "greek_def_ro": "συνωμότης (synomotes) — cel legat prin jurământ, aliat (la plural: „aliați”).",
     "dict_ro": "Baal, „stăpân, posesor”: „stăpânii legământului lui Avram” (14:13) înseamnă oamenii legați de el printr-un legământ, adică aliații lui."
    },
@@ -2899,7 +2899,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Δαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "dan, unul al sons al Jacob; de asemenea seminție descended de la him, si al sau territory; likewise loc in Palestine colonized de them.",
+    "def_ro": "Dan — fiu al lui Iacov; și numele unui loc din nord.",
     "greek_def_ro": "Δαν (Dan) — Dan, nume propriu.",
     "dict_ro": "Dan (Dan), „judecător” (Easton): loc în nord, la izvoarele Iordanului, unde Avram ajunge din urmă armata (14:14); numele i se va da mai târziu (Judecători 18:29)."
    },
@@ -3070,7 +3070,7 @@ window.CHAPTER_DATA = [
     "pos": "verb cu sufix",
     "greek": "ἐδίωξεν αὐτοὺς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a run după (de obicei cu hostile intent; figurat [of time] gone de).",
+    "def_ro": "a urmări, a alerga după cineva.",
     "greek_def_ro": "διώκω (dioko) — a urmări („i-a urmărit”).",
     "dict_ro": "Radaf, „a urmări”: Avram „a pornit în urmărire” (14:14) și „i-a urmărit” (14:15) până la Hova; verbul spune goana după dușman."
    },
@@ -3086,7 +3086,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χωβα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "chobah, loc în Syria.",
+    "def_ro": "Hova — loc la nord de Damasc.",
     "greek_def_ro": "Χωβα (Choba) — Hova, nume propriu.",
     "dict_ro": "Hova (Chovah), „loc de ascunziș” (Easton): loc la nord de Damasc, până unde îi urmărește Avram (14:15)."
    },
@@ -3102,7 +3102,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Δαμασκοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "damascus, cetate al Syria.",
+    "def_ro": "Damasc — cetate din Siria.",
     "greek_def_ro": "Δαμασκός (Damaskos) — Damasc (la genitiv).",
     "dict_ro": "Damasc (Dammesek), „activitate” (Easton): cel mai vechi oraș din Orient, capitala Siriei (14:15), la vreo 133 de mile nord de Ierusalim."
    },
@@ -3477,7 +3477,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν κοιλάδα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vale (adică broad depression).",
+    "def_ro": "vale, câmpie adâncă între munți.",
     "greek_def_ro": "κοιλάς (koilas) — vale (la acuzativ).",
     "dict_ro": "Emeq, „vale, câmpie adâncă”: valea Sidim (14:3, 8, 10) și valea Șave (14:17) sunt locurile luptei și ale întâlnirii cu regele Sodomei."
    },
@@ -3493,7 +3493,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαυη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "shaveh, loc în Palestine.",
+    "def_ro": "Șave — „valea”, loc unde Avram l-a întâlnit pe regele Sodomei.",
     "greek_def_ro": "Σαυη (Saue) — Șave, nume propriu.",
     "dict_ro": "Șave (Shaveh), „câmpia” (Hitchcock): „valea Șave, adică valea Regelui” (14:17), unde regele Sodomei iese în întâmpinarea lui Avram; mai târziu Absalom își ridică acolo un stâlp (2 Samuel 18:18)."
    },
@@ -3509,7 +3509,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸ πεδίον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vale (adică broad depression).",
+    "def_ro": "vale, câmpie adâncă între munți.",
     "greek_def_ro": "πεδίον (pedion) — câmpie („câmpia”).",
     "dict_ro": "Emeq, „vale, câmpie adâncă”: valea Sidim (14:3, 8, 10) și valea Șave (14:17) sunt locurile luptei și ale întâlnirii cu regele Sodomei."
    },
@@ -3614,7 +3614,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Malhițedek — literal „regele cel drept”.",
     "greek_def_ro": "Μελχισεδεκ (Melchisedek) — Melchisedec, nume propriu.",
-    "dict_ro": "Malchi-Țedek (Malki Tsedek), „rege al dreptății” (Easton): regele Salemului (14:18), pomenit apoi numai în Psalmul 110:4; Evrei 7 vede în el o preînchipuire a lui Hristos."
+    "dict_ro": "Malchi-Țedek (Malki Tsedek), „rege al dreptății” (Easton): regele Salemului (14:18), pomenit apoi numai în Psalmul 110:4; Evrei 7 vede în el un chip dinainte al lui Hristos."
    },
    {
     "t": ", regele "
@@ -3628,7 +3628,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σαλημ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "shalem, early nume al Jerusalem.",
+    "def_ro": "Salem — vechea cetate a lui Melchi-Țedec, mai târziu Ierusalimul.",
     "greek_def_ro": "Σαλημ (Salem) — Salem, nume propriu.",
     "dict_ro": "Salem (Shalem), „pace” (Easton): se socotește un alt nume al Ierusalimului (14:18; Psalmul 76:2)."
    },
@@ -3692,7 +3692,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἱερεὺς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "literal unul officiating, preot; de asemenea (de courtesy) acting preot (although layman).",
+    "def_ro": "preot, cel ce slujește la altar.",
     "greek_def_ro": "ἱερεύς (hiereus) — preot.",
     "dict_ro": "Cohen, „preot”: Melchisedec e „preot al Dumnezeului Preaînalt” (14:18), singurul preot pomenit în Facere înainte de legea lui Moise."
    },
@@ -3708,7 +3708,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τοῦ Θεοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "strength; ca adjective, puternic; in special Almighty (dar folosit de asemenea al orice deity).",
+    "def_ro": "Dumnezeu, Cel puternic.",
     "greek_def_ro": "Θεός (Theos) — Dumnezeu (la genitiv: „prin Dumnezeu”).",
     "dict_ro": "El, „Dumnezeu”: „Dumnezeul Preaînalt” (14:18–22), El Elyon: numele cu care Melchisedec îl binecuvântează pe Avram, iar Avram, la 14:22, îl identifică cu DOMNUL."
    },
@@ -3900,7 +3900,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῷ Θεῷ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "strength; ca adjective, puternic; in special Almighty (dar folosit de asemenea al orice deity).",
+    "def_ro": "Dumnezeu, Cel puternic.",
     "greek_def_ro": "Θεός (Theos) — Dumnezeu (la dativ: „lui Dumnezeu”).",
     "dict_ro": "El, „Dumnezeu”: „Dumnezeul Preaînalt” (14:18–22), El Elyon: numele cu care Melchisedec îl binecuvântează pe Avram, iar Avram, la 14:22, îl identifică cu DOMNUL."
    },
@@ -3916,7 +3916,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "τῷ ὑψίστῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "elevation, adică (adj.) lofty (compar.); ca title, Supreme.",
+    "def_ro": "Preaînalt — nume al lui Dumnezeu; înalt, de sus.",
     "greek_def_ro": "ὕψιστος (hypsistos) — Preaînalt (la dativ: „de Cel Preaînalt”).",
     "dict_ro": "Elyon, „Preaînalt”: nume al lui Dumnezeu, „Preaînaltul” (14:18–22), „Cel ce a creat cerul și pământul”; revine în Psalmi și la Daniel."
    },
@@ -3932,7 +3932,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu",
     "greek": "ὃς ἔκτισεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a erect, adică crea; de extension, a procure, in special de purchase (causatively, sell); de implicație a own.",
+    "def_ro": "a erect, adică crea.",
     "greek_def_ro": "κτίζω (ktizo) — a crea („Care a creat”).",
     "dict_ro": "Qanah, „a dobândi, a crea”: Dumnezeu e „Creatorul cerului și al pământului” (14:19, 22); cuvântul spune și stăpânirea dobândită prin creație."
    },
@@ -4091,7 +4091,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὁ Θεὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "strength; ca adjective, puternic; in special Almighty (dar folosit de asemenea al orice deity).",
+    "def_ro": "Dumnezeu, Cel puternic.",
     "greek_def_ro": "ὁ Θεός (ho Theos) — Dumnezeu.",
     "dict_ro": "El, „Dumnezeu”: „Dumnezeul Preaînalt” (14:18–22), El Elyon: numele cu care Melchisedec îl binecuvântează pe Avram, iar Avram, la 14:22, îl identifică cu DOMNUL."
    },
@@ -4107,7 +4107,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "ὁ ὕψιστος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "elevation, adică (adj.) lofty (compar.); ca title, Supreme.",
+    "def_ro": "Preaînalt — nume al lui Dumnezeu; înalt, de sus.",
     "greek_def_ro": "ὕψιστος (hypsistos) — Preaînalt („Cel Preaînalt”).",
     "dict_ro": "Elyon, „Preaînalt”: nume al lui Dumnezeu, „Preaînaltul” (14:18–22), „Cel ce a creat cerul și pământul”; revine în Psalmi și la Daniel."
    },
@@ -4123,7 +4123,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "παρέδωκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a shield; encompass cu; figurat, a izbăvi, a mână safely peste (adică surrender).",
+    "def_ro": "a da în mână, a preda.",
     "greek_def_ro": "παραδίδωμι (paradidomi) — a da în mână („a dat în mâna ta”).",
     "dict_ro": "Magen, „scut”: Dumnezeu „a dat pe dușmanii tăi în mâna ta” (14:20) — cuvântul din verb spune a încredința; același radical e al scutului din 15:1."
    },
@@ -4187,7 +4187,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "δεκάτην",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tenth; în special tithe.",
+    "def_ro": "zeciuială, a zecea parte.",
     "greek_def_ro": "δεκάτη (dekate) — zeciuială, a zecea parte.",
     "dict_ro": "Ma’aser, „zeciuială”: Avram dă lui Melchisedec o zecime din toată prada (14:20), prima zeciuială din Biblie; Evrei 7:4–6 o amintește ca semn al preoției lui Melchisedec."
    },
@@ -4554,7 +4554,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὸν ὕψιστον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "strength; ca adjective, puternic; in special Almighty (dar folosit de asemenea al orice deity).",
+    "def_ro": "Dumnezeu, Cel puternic.",
     "greek_def_ro": "ὕψιστος (hypsistos) — Preaînalt (la acuzativ: „pe Cel Preaînalt”).",
     "dict_ro": "El, „Dumnezeu”: „Dumnezeul Preaînalt” (14:18–22), El Elyon: numele cu care Melchisedec îl binecuvântează pe Avram, iar Avram, la 14:22, îl identifică cu DOMNUL."
    },
@@ -4570,7 +4570,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "ὕψιστον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "elevation, adică (adj.) lofty (compar.); ca title, Supreme.",
+    "def_ro": "Preaînalt — nume al lui Dumnezeu; înalt, de sus.",
     "greek_def_ro": "ὕψιστος (hypsistos) — Preaînalt.",
     "dict_ro": "Elyon, „Preaînalt”: nume al lui Dumnezeu, „Preaînaltul” (14:18–22), „Cel ce a creat cerul și pământul”; revine în Psalmi și la Daniel."
    },
@@ -4586,7 +4586,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu",
     "greek": "ὃς ἔκτισεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a erect, adică crea; de extension, a procure, in special de purchase (causatively, sell); de implicație a own.",
+    "def_ro": "a erect, adică crea.",
     "greek_def_ro": "κτίζω (ktizo) — a crea („Care a creat”).",
     "dict_ro": "Qanah, „a dobândi, a crea”: Dumnezeu e „Creatorul cerului și al pământului” (14:19, 22); cuvântul spune și stăpânirea dobândită prin creație."
    },
@@ -4732,7 +4732,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "σπαρτίου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "string; de implicație, measuring tape.",
+    "def_ro": "fir, ață.",
     "greek_def_ro": "σπαρτίον (spartion) — fir, sfoară (la genitiv).",
     "dict_ro": "Chut, „fir”: „nici măcar un fir” (14:23) arată că Avram nu ia nimic din prada regelui Sodomei, ca nu cumva să spună că el l-a îmbogățit."
    },
@@ -4760,7 +4760,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "σφαιρωτῆρος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "thong (ca laced sau tied).",
+    "def_ro": "curea, șiret (de sandală).",
     "greek_def_ro": "σφαιρωτήρ (sphairoter) — curea de sandală, șiret (la genitiv).",
     "dict_ro": "Seroch, „curea”: „nici cureaua încălțămintei” (14:23) — cea mai mică bucată; imaginea e a unui lucru fără preț."
    },
@@ -4776,7 +4776,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ὑποδήματος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, sandal tongue; de extension sandal sau slipper (sometimes ca symbol al occupancy, refusal a marry, sau al ceva valueless).",
+    "def_ro": "șiret, curea de încălțăminte.",
     "greek_def_ro": "ὑπόδημα (hypodema) — încălțăminte, sandală (la genitiv).",
     "dict_ro": "Na’al, „încălțăminte, sandală”: „cureaua încălțămintei” (14:23) e exemplul lucrului de nimic pe care Avram refuză să-l primească."
    },
@@ -4968,7 +4968,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "οἱ νεανίσκοι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "(concretely) boy (ca active), de la age al infancy a adolescence; de implicație, slugă; de asemenea (de interch. al sex), girl (al similar latitude in age).",
+    "def_ro": "tânăr, băiat, slujitor.",
     "greek_def_ro": "νεανίσκος (neaniskos) — tânăr („tinerii”).",
     "dict_ro": "Na’ar, „tânăr, slujitor”: „tinerii” (14:24) sunt oamenii lui Avram; el cere doar hrana lor."
    },
@@ -4984,7 +4984,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "μερίδος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, smoothness (al tongue); de asemenea allotment.",
+    "def_ro": "parte, porție, bucată.",
     "greek_def_ro": "μερίς (meris) — parte, porție (la genitiv).",
     "dict_ro": "Cheleq, „parte”: „partea oamenilor” (14:24) înseamnă partea cuvenită aliaților (Aner, Eșcol, Mamre), pe care Avram nu o oprește."
    },
@@ -5032,7 +5032,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αυναν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "aner, Amorite, de asemenea loc în Palestine.",
+    "def_ro": "Aner — amorit, aliat al lui Avram.",
     "greek_def_ro": "Αυναν (Aunan) — Aner, nume propriu.",
     "dict_ro": "Aner (Aner), „băiat” (Easton): căpetenie canaanită aliată cu Avram (14:13, 24)."
    },
@@ -5048,7 +5048,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Εσχωλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "eshcol, nume al Amorite, de asemenea al valley în Palestine.",
+    "def_ro": "eshcol, nume al Amorite.",
     "greek_def_ro": "Εσχωλ (Eschol) — Eșcol, nume propriu.",
     "dict_ro": "Eșcol (Eshkol), „ciorchine” (Easton): tânăr amorit aliat al lui Avram (14:13, 24); numele se leagă și de valea Eșcol (Numeri 13:23)."
    },

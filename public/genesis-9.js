@@ -3881,7 +3881,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Teodoret de Cir, Întrebări la Facere 56",
-    "text": "De ce nu a fost Noe învinuit că a căzut în beție? Căderea lui nu s-a datorat nesocotinței, ci neexperienței. Căci el a fost primul om care a stors rodul viței și nu știa nici puterea băuturii, nici felul de schimbare pe care o suferise. Fiindcă trebuia mai întâi amestecat înainte de a fi băut, a pătimit amorțeală. Nu era nimic nou în faptul că era gol. Căci și acum unii dorm goi, somnul luându-le simțirea. Beția, adăugată la somn, face mai ușoară apărarea goliciunii lui."
+    "text": "De ce nu a fost Noe învinuit că a căzut în beție? Căderea lui nu s-a datorat nesocotinței, ci lipsei de experiență. Căci el a fost primul om care a stors rodul viței și nu știa nici puterea băuturii, nici felul de schimbare pe care o suferise. Fiindcă trebuia mai întâi amestecat înainte de a fi băut, a pătimit amorțeală. Nu era nimic nou în faptul că era gol. Căci și acum unii dorm goi, somnul luându-le simțirea. Beția, adăugată la somn, face mai ușoară apărarea goliciunii lui."
    },
    {
     "author": "Clement din Alexandria, Pedagogul II",
@@ -3889,7 +3889,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Fericitul Ieronim, Omilii 13",
-    "text": "După potop, Noe a băut și s-a îmbătat în casa lui, și coapsele lui au fost descoperite, și a rămas dezgolit în goliciunea lui. A venit fratele cel mai mare și a râs; cel mai mic însă l-a acoperit. Toate acestea se spun ca preînchipuire a Mântuitorului, căci pe cruce a băut din pătimire: „Părinte, dacă este cu putință, treacă de la Mine paharul acesta.” A băut și s-a îmbătat, și coapsele lui au fost descoperite — dezonoarea crucii. Frații mai mari, iudeii, au venit și au râs; cel mai mic, neamurile, a acoperit ocara Lui."
+    "text": "După potop, Noe a băut și s-a îmbătat în casa lui, și coapsele lui au fost descoperite, și a rămas dezgolit în goliciunea lui. A venit fratele cel mai mare și a râs; cel mai mic însă l-a acoperit. Toate acestea se spun ca semn dinainte al Mântuitorului, căci pe cruce a băut din pătimire: „Părinte, dacă este cu putință, treacă de la Mine paharul acesta.” A băut și s-a îmbătat, și coapsele lui au fost descoperite — dezonoarea crucii. Frații mai mari, iudeii, au venit și au râs; cel mai mic, neamurile, a acoperit ocara Lui."
    }
   ]
  },

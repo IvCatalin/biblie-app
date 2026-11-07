@@ -204,7 +204,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 1.32-33",
-    "text": "De la ce trudă S-a odihnit Dumnezeu? Căci făpturile ce au apărut în ziua întâi au apărut prin subînțelegere, în afară de lumină, care a venit prin cuvântul Lui. Ce trudă e pentru noi când rostim un singur cuvânt? Așadar, ce trudă ar fi putut fi pentru Dumnezeu să rostească un cuvânt pe zi? Nu fiindcă S-ar fi odihnit în acea zi a binecuvântat și a sfințit Dumnezeu, Care nu obosește, ziua a șaptea — ci a dat-o poporului, ca să arate, printr-o odihnă vremelnică dată unui popor vremelnic, taina odihnei celei adevărate, ce va fi dată poporului celui veșnic, în lumea cea veșnică."
+    "text": "De la ce trudă S-a odihnit Dumnezeu? Căci făpturile ce au apărut în ziua întâi au apărut în chip tacit, în afară de lumină, care a venit prin cuvântul Lui. Ce trudă e pentru noi când rostim un singur cuvânt? Așadar, ce trudă ar fi putut fi pentru Dumnezeu să rostească un cuvânt pe zi? Nu fiindcă S-ar fi odihnit în acea zi a binecuvântat și a sfințit Dumnezeu, Care nu obosește, ziua a șaptea — ci a dat-o poporului, ca să arate, printr-o odihnă vremelnică dată unui popor vremelnic, taina odihnei celei adevărate, ce va fi dată poporului celui veșnic, în lumea cea veșnică."
    },
    {
     "author": "Beda Venerabilul, Omilii la Evanghelii 2.17",
@@ -1109,7 +1109,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
-    "text": "Acestea sunt nașterile cerului și pământului, la crearea lor. Prin această încheiere, Scriptura se adresează celor ce susțin că lumea a existat mereu, fără de început, sau celor ce cred că lumea a fost, ce-i drept, făcută de Dumnezeu, dar dintr-o materie nefăcută de Dumnezeu, coveșnică Ziditorului. Căci se spune că «nașterile cerului și pământului» sunt chiar rânduiala așezării dumnezeiești, prin care podoaba lor, prin lucrările celor șase zile, a ajuns la acea desăvârșire descrisă mai sus."
+    "text": "Acestea sunt nașterile cerului și pământului, la crearea lor. Prin această încheiere, Scriptura se adresează celor ce susțin că lumea a existat mereu, fără de început, sau celor ce cred că lumea a fost, ce-i drept, făcută de Dumnezeu, dar dintr-o materie nefăcută de Dumnezeu, veșnică, ca Ziditorul. Căci se spune că «nașterile cerului și pământului» sunt chiar rânduiala așezării dumnezeiești, prin care podoaba lor, prin lucrările celor șase zile, a ajuns la acea desăvârșire descrisă mai sus."
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 2.1",
@@ -3357,7 +3357,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def": "cristal.",
     "def_ro": "rășină aromată (bdellium) sau, după alte interpretări, un fel de cristal ori piatră prețioasă — identificarea exactă rămâne nesigură.",
-    "greek_def_ro": "ἄνθραξ (anthrax) — cărbune, piatră roșie (rubin sau carbuncul).",
+    "greek_def_ro": "ἄνθραξ (anthrax) — cărbune, piatră roșie (rubin).",
     "diff_ro": "Ebraicul pare să arate o rășină aromată; LXX o înțelege ca pe o piatră prețioasă roșiatică — arătând nesiguranța veche a identificării exacte a cuvântului.",
     "dict_ro": "Cuvântul apare doar de două ori în toată Biblia (Geneza 2:12 și Numeri 11:7, unde mana e asemănată la culoare cu el). Probabil o rășină aromată asemănătoare balsamului, care se scurgea dintr-un anume copac încă întâlnit în Arabia, Media și India — deși unii cercetători cred că denumește perle sau o piatră prețioasă."
    },

@@ -1157,7 +1157,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Χανααν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Canaan — fiul lui Ham și strămoșul canaaniților.",
+    "def_ro": "kenaan, fiu Ham.",
     "greek_def_ro": "Χανααν (Chanaan) — Canaan, nume propriu.",
     "dict_ro": "Canaan (Kenaan): ținutul spre care pornește Avram (12:5) și în care va rămâne străin toată viața; Septuaginta scrie Χανααν. Dumnezeu nu-l numise încă: la 12:1 doar spusese „țara pe care ți-o voi arăta”."
    },
@@ -1291,7 +1291,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "a trece; la forma cauzativă, „a face să treacă”.",
     "greek_def_ro": "διοδεύω (diodeuo) — a străbate („a străbătut”).",
-    "dict_ro": "Avar, „a trece”: Avram „a străbătut țara” (12:6) până la Sihem, verb pe care unii îl pun în legătură cu cuvântul „ebreu” (Ivri), „cel venit de dincolo” (14:13); drumul lui prin Canaan e unul de trecere, fără stăpânire."
+    "dict_ro": "Avar, „a trece”: Avram „a străbătut țara” (12:6) până la Sihem, verb pe care unii îl pun în legătură cu cuvântul „evreu” (Ivri), „cel venit de dincolo” (14:13); drumul lui prin Canaan e unul de trecere, fără stăpânire."
    },
    {
     "t": " prin "
@@ -1321,7 +1321,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Συχεμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Sihem — cetate în valea dintre Ebal și Garizim; locul primului popas al lui Avram în Canaan.",
+    "def_ro": "Sihem — cetate din centrul țării Canaanului; numele înseamnă „umăr”.",
     "greek_def_ro": "Συχεμ (Sychem) — Sihem, nume propriu.",
     "dict_ro": "Sihem (Shekhem), „umăr” (Easton): cetate în valea strâmtă dintre muntele Ebal la nord și muntele Garizim la sud; primul loc în care Avram se oprește în Canaan (12:6) și în care va cumpăra Iacov un ogor (33:18–19). Septuaginta scrie Συχεμ."
    },
@@ -1353,7 +1353,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu, cu articol",
     "greek": "Χαναναῖοι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "canaanit — locuitor al ținutului Canaan.",
+    "def_ro": "canaanit, locuitor al Canaanului.",
     "greek_def_ro": "Χαναναῖος (Chananaios) — canaanit („canaaniții”).",
     "dict_ro": "Canaanitul (Kenaani), locuitor al țării: „canaanitul era atunci în țară” (12:6) arată că țara făgăduită nu era goală: făgăduința are un obstacol."
    },
@@ -1788,7 +1788,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Βαιθηλ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "Bet-El — „casa lui Dumnezeu”.",
+    "def_ro": "Betel — „casa lui Dumnezeu”, loc în centrul țării, la nord de Ierusalim.",
     "greek_def_ro": "Βαιθηλ (Baithel) — Betel, nume propriu.",
     "dict_ro": "Betel (Beth El), „casa lui Dumnezeu” (Easton): loc la vreo zece mile nord de Ierusalim, vechea cetate canaanită Luz (28:19); Avram își întinde cortul între Betel și Ai (12:8; 13:3–4), iar Iacov va numi locul Betel (28:19)."
    },
@@ -2939,7 +2939,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Fericitul Augustin, Despre cetatea lui Dumnezeu",
-    "text": "După ce a zidit acolo un altar și a chemat pe Dumnezeu, Avraam a pornit de acolo și a locuit în pustie și a fost silit de apăsarea foametei să meargă mai departe, în Egipt. Acolo și-a numit soția sora lui și n-a spus nicio minciună. Căci ea era și aceasta, fiindcă era rudă de sânge; așa cum Lot, pentru aceeași apropiere, fiind fiul fratelui său, este numit fratele lui. Dar nu a tăgăduit că era soția lui, ci a tăcut despre aceasta, încredințând lui Dumnezeu apărarea castității soției sale și luând, ca om, măsuri împotriva vicleniilor omenești. Dacă nu s-ar fi ferit de primejdie cât a putut, ar fi ispitit pe Dumnezeu, mai degrabă decât să se încreadă în El. Am spus destul despre această chestiune împotriva calomniilor lui Faustus maniheul. În cele din urmă s-a întâmplat ceea ce Avraam așteptase de la Domnul. Căci Faraon, regele Egiptului, care o luase la sine ca soție, i-a înapoiat-o bărbatului ei, în fața unei urgii grele. Și departe de noi să credem că ar fi fost pângărită prin culcare cu altul. Este mult mai de crezut că, prin aceste mari lovituri, lui Faraon nu i s-a îngăduit să facă aceasta."
+    "text": "După ce a zidit acolo un altar și a chemat pe Dumnezeu, Avraam a pornit de acolo și a locuit în pustie și a fost silit de apăsarea foametei să meargă mai departe, în Egipt. Acolo și-a numit soția sora lui și n-a spus nicio minciună. Căci ea era și aceasta, fiindcă era rudă de sânge; așa cum Lot, pentru aceeași apropiere, fiind fiul fratelui său, este numit fratele lui. Dar nu a tăgăduit că era soția lui, ci a tăcut despre aceasta, încredințând lui Dumnezeu apărarea castității soției sale și luând, ca om, măsuri împotriva vicleniilor omenești. Dacă nu s-ar fi ferit de primejdie cât a putut, ar fi ispitit pe Dumnezeu, mai degrabă decât să se încreadă în El. Am spus destul despre această chestiune împotriva calomniilor lui Faustus, adeptul lui Mani. În cele din urmă s-a întâmplat ceea ce Avraam așteptase de la Domnul. Căci Faraon, regele Egiptului, care o luase la sine ca soție, i-a înapoiat-o bărbatului ei, în fața unei urgii grele. Și departe de noi să credem că ar fi fost pângărită prin culcare cu altul. Este mult mai de crezut că, prin aceste mari lovituri, lui Faraon nu i s-a îngăduit să facă aceasta."
    }
   ]
  },

@@ -3549,7 +3549,7 @@ window.CHAPTER_DATA = [
     "greek": "πήχεις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "cot — măsură de lungime, de la cotul brațului până la vârful degetelor.",
-    "dict_ro": "Ammah, „cot”, e măsura de la cotul brațului până la vârful degetului mijlociu — cam 50 cm, după Easton (20,24 inci). Arca de 300 de coți măsoară așadar cam 150 m, lățimea cam 25 m, înălțimea cam 15 m.",
+    "dict_ro": "Ammah, „cot”, e măsura de la cotul brațului până la vârful degetului mijlociu — cam 50 cm, după Easton (20,24 de țoli). Arca de 300 de coți măsoară așadar cam 150 m, lățimea cam 25 m, înălțimea cam 15 m.",
     "greek_def_ro": "πῆχυς (pechys) — cot (la plural: „coți”)."
    },
    {
@@ -4375,7 +4375,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
-    "text": "Și apele au stăpânit pământul o sută cincizeci de zile. Și acest număr ține de aceeași taină ca numărul cincisprezece, fiindcă șaptezeci se trage din șapte, iar optzeci din opt; unind amândouă numerele, apele au stăpânit pământul o sută cincizeci de zile, recomandând și întărind astfel taina botezului în sfințirea omului celui nou, spre ținerea credinței în odihnă și înviere."
+    "text": "Și apele au stăpânit pământul o sută cincizeci de zile. Și acest număr ține de aceeași taină ca numărul cincisprezece, fiindcă șaptezeci se trage din șapte, iar optzeci din opt; unind amândouă numerele, apele au stăpânit pământul o sută cincizeci de zile, arătând și întărind astfel taina botezului în sfințirea omului celui nou, spre ținerea credinței în odihnă și înviere."
    }
   ]
  }

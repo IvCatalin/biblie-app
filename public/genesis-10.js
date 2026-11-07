@@ -728,7 +728,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
-    "text": "Fiii lui Iavan au fost Elișa, Tarșiș, Chitim și Dodanim. Din ionieni, adică din greci, s-au născut elișii, care se numesc elișiți, de aceea și a cincea limbă a Greciei se numește eolică, pe care ei o numesc „penten dialecton”. Iosif Flaviu socotește că Tarșiș este Cilicia, spunând că litera „h” a fost pierdută în chip stricat de urmași în „Thar”; de aceea și cetatea lor de scaun se numește Tarsul, vestit pe vremea apostolului Pavel. (Unii socotesc că Tarșiș, de unde se aducea aur lui Solomon, înseamnă ținutul Indiei.) Chitim vine de la Chitim, de la care până azi se numește cetatea Ciprului. Dodanim se tâlcuiește ca rodieni, căci mai bine se citește Rodanim, sau Rodim, cum l-au redat cei șaptezeci de tâlcuitori, și cum a pus-o și traducătorul nostru în cartea numelor ebraice. Căci asemănarea literelor dalet și resh face adesea ca această greșeală să se întâmple la evrei, încât una se citește în locul alteia. Dar Rodos este cea mai mare dintre Cicladele, odinioară cea mai puternică cetate din Marea Ionică, vestită în lupte pe mare și adăpost al tuturor negustorilor, pentru limanul ei foarte sigur."
+    "text": "Fiii lui Iavan au fost Elișa, Tarșiș, Chitim și Dodanim. Din ionieni, adică din greci, s-au născut elișii, care se numesc elișiți, de aceea și a cincea limbă a Greciei se numește eoliană, pe care ei o numesc „penten dialecton”. Iosif Flaviu socotește că Tarșiș este Cilicia, spunând că litera „h” a fost pierdută în chip stricat de urmași în „Thar”; de aceea și cetatea lor de scaun se numește Tarsul, vestit pe vremea apostolului Pavel. (Unii socotesc că Tarșiș, de unde se aducea aur lui Solomon, înseamnă ținutul Indiei.) Chitim vine de la Chitim, de la care până azi se numește cetatea Ciprului. Dodanim se tâlcuiește ca rodieni, căci mai bine se citește Rodanim, sau Rodim, cum l-au redat cei șaptezeci de tâlcuitori, și cum a pus-o și traducătorul nostru în cartea numelor ebraice. Căci asemănarea literelor dalet și resh face adesea ca această greșeală să se întâmple la evrei, încât una se citește în locul alteia. Dar Rodos este cea mai mare dintre Cicladele, odinioară cea mai puternică cetate din Marea Ionică, vestită în lupte pe mare și adăpost al tuturor negustorilor, pentru limanul ei foarte sigur."
    }
   ]
  },
@@ -3515,7 +3515,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Ever — urmaș al lui Șem; „dincolo, de partea cealaltă”.",
     "greek_def_ro": "Εβερ (Eber) — Ever, nume propriu.",
-    "dict_ro": "Ever (Ever), „dincolo, de cealaltă parte” (Easton): al treilea patriarh de după potop, socotit întemeietorul neamului ebraic (10:21, 24–25); din el vin Peleg și Ioktan. Cuvântul „ebreu” vine de la numele lui."
+    "dict_ro": "Ever (Ever), „dincolo, de cealaltă parte” (Easton): al treilea patriarh de după potop, socotit întemeietorul neamului ebraic (10:21, 24–25); din el vin Peleg și Ioktan. Cuvântul „evreu” vine de la numele lui."
    },
    {
     "t": ", fratele lui "
@@ -4050,7 +4050,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Ever — urmaș al lui Șem; „dincolo, de partea cealaltă”.",
     "greek_def_ro": "Εβερ (Eber) — Ever, nume propriu.",
-    "dict_ro": "Ever (Ever), „dincolo, de cealaltă parte” (Easton): al treilea patriarh de după potop, socotit întemeietorul neamului ebraic (10:21, 24–25); din el vin Peleg și Ioktan. Cuvântul „ebreu” vine de la numele lui."
+    "dict_ro": "Ever (Ever), „dincolo, de cealaltă parte” (Easton): al treilea patriarh de după potop, socotit întemeietorul neamului ebraic (10:21, 24–25); din el vin Peleg și Ioktan. Cuvântul „evreu” vine de la numele lui."
    },
    {
     "t": "."
@@ -4121,7 +4121,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Ever — urmaș al lui Șem; „dincolo, de partea cealaltă”.",
     "greek_def_ro": "Εβερ (Eber) — Ever, nume propriu (la dativ: „lui Ever”).",
-    "dict_ro": "Ever (Ever), „dincolo, de cealaltă parte” (Easton): al treilea patriarh de după potop, socotit întemeietorul neamului ebraic (10:21, 24–25); din el vin Peleg și Ioktan. Cuvântul „ebreu” vine de la numele lui."
+    "dict_ro": "Ever (Ever), „dincolo, de cealaltă parte” (Easton): al treilea patriarh de după potop, socotit întemeietorul neamului ebraic (10:21, 24–25); din el vin Peleg și Ioktan. Cuvântul „evreu” vine de la numele lui."
    },
    {
     "t": " i s-au "

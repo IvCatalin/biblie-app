@@ -66,6 +66,14 @@ for (const N of process.argv.slice(2).map(Number)) {
     refs += (x.refs || []).length;
     if (!x.fidela && D.some(y => y.fidela)) add(x.num, 'fidela', 'fără Fidela');
   }
+  { // DOOM3 (obligatoriu): verificarea trebuie făcută pe textul curent al capitolului (node tools/doom3-check.js N) și toate cuvintele necunoscute trebuie triate (data/doom3-allow.json)
+    const T = require('./doom3-text.js'); const SF = 'data/doom3-state.json', AF = 'data/doom3-allow.json';
+    const ST = fs.existsSync(SF) ? JSON.parse(fs.readFileSync(SF, 'utf8')) : {}, AL = fs.existsSync(AF) ? JSON.parse(fs.readFileSync(AF, 'utf8')) : {};
+    const s0 = ST[N];
+    if (!s0) add(0, 'doom3', 'verificare DOOM3 nefăcută: rulează node tools/doom3-check.js ' + N);
+    else if (s0.hash !== T.hash(N)) add(0, 'doom3', 'textul s-a schimbat după verificarea DOOM3: rulează din nou node tools/doom3-check.js ' + N);
+    else for (const w of s0.netriate || []) if (!AL[w]) add(0, 'doom3', 'cuvânt netriat (nu e în DOOM3): „' + w + '” — se înlocuiește cu o formă DOOM3 sau se trece în data/doom3-allow.json cu motiv');
+  }
   const all = JSON.stringify(D); const ced = (all.match(/[şţŞŢ]/g) || []).length; if (ced) out.push('  cedilă: ' + ced);
   console.log('=== Geneza ' + N + ' | versete ' + D.length + ' | cuvinte ' + tagged + ' (' + (tagged / D.length).toFixed(1) + '/verset) | comentarii ' + comm + ' (' + (comm / D.length).toFixed(1) + ') | trimiteri ' + (refs / D.length).toFixed(1) + ' | probleme: ' + out.length);
   out.forEach(l => console.log(l)); total += out.length;

@@ -582,7 +582,7 @@ window.CHAPTER_DATA = [
     "greek": "μεθ᾿ ἡμέρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "după o vreme.",
-    "dict_ro": "Expresia mikets yamim, literal „la capătul zilelor”, adică „după o vreme” — formulă temporală vagă, obișnuită în naratologia biblică pentru a marca trecerea unei perioade nespecificate înainte de un eveniment important.",
+    "dict_ro": "Expresia mikets yamim, literal „la capătul zilelor”, adică „după o vreme” — formulă temporală vagă, obișnuită în naratologia biblică pentru a marca trecerea unei perioade nedeterminate înainte de un eveniment important.",
     "greek_def_ro": "μετά (meta) + ἡμέρα (hēmera) — după zile, după un timp."
    },
    {
@@ -760,7 +760,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 3.2.1",
-    "text": "Abel a fost foarte priceput în alegerea darurilor, pe când Cain n-a arătat o asemenea pricepere. Abel a ales și a adus ce era mai bun din întâii săi născuți și din grășimile lor, în timp ce Cain a adus fie spice tinere, fie anumite roade care se găsesc în același timp cu spicele tinere. Chiar dacă darul lui ar fi fost mai mic decât al fratelui său, ar fi fost la fel de primit ca darul fratelui său, dacă nu l-ar fi adus cu atâta nepăsare. Ei și-au adus darurile pe rând: unul a adus un miel din turma lui, celălalt roade ale pământului. Dar pentru că Cain luase atât de puțin în seamă primul dar pe care îl adusese, Dumnezeu a refuzat să-l primească, ca să-l învețe pe Cain cum trebuie să aducă un dar."
+    "text": "Abel a fost foarte priceput în alegerea darurilor, pe când Cain n-a arătat o asemenea pricepere. Abel a ales și a adus ce era mai bun din întâii săi născuți și din grăsimile lor, în timp ce Cain a adus fie spice tinere, fie anumite roade care se găsesc în același timp cu spicele tinere. Chiar dacă darul lui ar fi fost mai mic decât al fratelui său, ar fi fost la fel de primit ca darul fratelui său, dacă nu l-ar fi adus cu atâta nepăsare. Ei și-au adus darurile pe rând: unul a adus un miel din turma lui, celălalt roade ale pământului. Dar pentru că Cain luase atât de puțin în seamă primul dar pe care îl adusese, Dumnezeu a refuzat să-l primească, ca să-l învețe pe Cain cum trebuie să aducă un dar."
    },
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
@@ -1017,7 +1017,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
-    "text": "Și Domnul S-a uitat cu bunăvoință la Abel și la darul lui, dar la Cain și la darul lui nu S-a uitat cu bunăvoință. Căci nu spune: Domnul S-a uitat cu bunăvoință la darurile lui Abel și apoi la el; ci la darurile lui Cain și apoi la el nu S-a uitat cu bunăvoință. Mărturisește mai întâi că persoana celui ce aduce a fost primită sau neprimită de Dumnezeu, apoi că darurile au fost luate în seamă sau neluate. Căci oamenii se împacă adesea prin darurile celor cu care erau mâniați; dar Dumnezeu, care e cercetătorul gândurilor și al intențiilor inimii, nu Se bucură de niciun dar mai mult decât de evlavia curată a celui ce aduce: când va fi încuviințat curăția minții noastre, atunci va primi și juruințele rugăciunilor sau ale lucrărilor noastre."
+    "text": "Și Domnul S-a uitat cu bunăvoință la Abel și la darul lui, dar la Cain și la darul lui nu S-a uitat cu bunăvoință. Căci nu spune: Domnul S-a uitat cu bunăvoință la darurile lui Abel și apoi la el; ci la darurile lui Cain și apoi la el nu S-a uitat cu bunăvoință. Mărturisește mai întâi că persoana celui ce aduce a fost primită sau respinsă de Dumnezeu, apoi că darurile au fost luate în seamă sau nu. Căci oamenii se împacă adesea prin darurile celor cu care erau mâniați; dar Dumnezeu, care e cercetătorul gândurilor și al intențiilor inimii, nu Se bucură de niciun dar mai mult decât de evlavia curată a celui ce aduce: când va fi încuviințat curăția minții noastre, atunci va primi și juruințele rugăciunilor sau ale lucrărilor noastre."
    },
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
@@ -1217,7 +1217,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament",
-    "text": "„Lui Cain” — fiindcă era nesimțitor față de păcătoșenia lui și, prin urmare, neumilit, „și darului lui” — fiindcă nu era însoțit, ca al lui Abel, de credință și de o jertfă pentru păcat, „nu S-a uitat cu bunăvoință” — Nu putea, în acord cu sfințenia și dreptatea Sa, nici să încuviințeze pe unul, nici să primească pe celălalt. Despre felul în care Dumnezeu și-a arătat încuviințarea nu suntem înștiințați; probabil a fost, ca în cazul lui Ilie, trimițând foc din cer și mistuind jertfa.<br><br>„Cain s-a mâniat foarte tare” — Supărarea care trebuia întoarsă împotriva propriei lui inimi neumilite s-a întors împotriva fratelui său nevinovat, care, deși nu era mai privilegiat decât el, a făcut o folosire mult mai bună a avantajelor pe care le împărțea cu fratele său nelegiuit și nefiresc."
+    "text": "„Lui Cain” — fiindcă era nesimțitor față de păcătoșenia lui și, prin urmare, neumilit, „și darului lui” — fiindcă nu era însoțit, ca al lui Abel, de credință și de o jertfă pentru păcat, „nu S-a uitat cu bunăvoință” — Nu putea, în acord cu sfințenia și dreptatea Sa, nici să încuviințeze pe unul, nici să primească pe celălalt. Despre felul în care Dumnezeu și-a arătat încuviințarea nu suntem înștiințați; probabil a fost, ca în cazul lui Ilie, trimițând foc din cer și mistuind jertfa.<br><br>„Cain s-a mâniat foarte tare” — Supărarea care trebuia întoarsă împotriva propriei lui inimi mândre s-a întors împotriva fratelui său nevinovat, care, deși nu era mai privilegiat decât el, a făcut o folosire mult mai bună a avantajelor pe care le împărțea cu fratele său nelegiuit și nefiresc."
    },
    {
     "author": "Origen, Despre rugăciune 29.18",
@@ -1401,7 +1401,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Ioan Gură de Aur, Omilii la Facere 18.24",
-    "text": "Dumnezeu vrea să domolească nebunia sălbatică și să înlăture mânia prin cuvintele Sale. Căci a urmărit etapele gândirii lui Cain și a înțeles cruzimea intenției lui ucigătoare; de aceea vrea, încă de pe acum, să-i liniștească gândirea și să aducă odihnă minții lui, punându-i pe fratele său sub el și nezdruncinându-i autoritatea. Dar, cu toată atâta grijă și cu leacuri atât de puternice, Cain n-a câștigat nimic din această încercare. Atât de mare era deosebirea dintre dispozițiile lor și atât de mare excesul intenției rele."
+    "text": "Dumnezeu vrea să domolească nebunia sălbatică și să înlăture mânia prin cuvintele Sale. Căci a urmărit etapele gândirii lui Cain și a înțeles cruzimea intenției lui ucigătoare; de aceea vrea, încă de pe acum, să-i liniștească gândirea și să aducă odihnă minții lui, punându-i pe fratele său sub el fără a-i zdruncina autoritatea. Dar, cu toată atâta grijă și cu leacuri atât de puternice, Cain n-a câștigat nimic din această încercare. Atât de mare era deosebirea dintre dispozițiile lor și atât de mare excesul intenției rele."
    },
    {
     "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament",
@@ -1929,7 +1929,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
-    "text": "Și Cain a zis fratelui său Abel: Să ieșim la câmp. Și când erau la câmp, Cain s-a ridicat împotriva fratelui său Abel și l-a ucis. Și aici se arată și vicleșugul lui Cain, și nevinovăția lui Abel: nevinovăția lui Abel, prin aceea că l-a urmat pur și simplu ca frate pe fratele mai mare, fiindu-i poruncit, deși acela era aprins împotriva lui de ură dușmănoasă; vicleșugul lui Cain, prin aceea că își scoate fratele afară ca să-l ucidă, ca și cum ar fi putut scăpa de prezența dumnezeiască într-un loc mai ascuns, neluând în seamă și neînțelegând că Cel care cunoștea tainele inimii lui, care îl mustrau, putea vedea și oriunde se retrăgea și orice făcea în ascuns."
+    "text": "Și Cain a zis fratelui său Abel: Să ieșim la câmp. Și când erau la câmp, Cain s-a ridicat împotriva fratelui său Abel și l-a ucis. Și aici se arată și vicleșugul lui Cain, și nevinovăția lui Abel: nevinovăția lui Abel, prin aceea că l-a urmat pur și simplu ca frate pe fratele mai mare, fiindu-i poruncit, deși acela era aprins împotriva lui de ură dușmănoasă; vicleșugul lui Cain, prin aceea că își scoate fratele afară ca să-l ucidă, ca și cum ar fi putut scăpa de prezența dumnezeiască într-un loc mai ascuns, fără să ia în seamă și fără să înțeleagă că Cel care cunoștea tainele inimii lui, care îl mustrau, putea vedea și oriunde se retrăgea și orice făcea în ascuns."
    },
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
@@ -2928,7 +2928,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
-    "text": "Nelegiuirea mea e mai mare decât să pot merita iertare. Iată, mă izgonești astăzi de la fața Ta și voi fi ascuns de fața Ta și de fața pământului și voi fi rătăcitor și fugar pe pământ. Sunt izgonit, zice, din fața Ta, și, conștiința crimei mele neîndurând însăși lumina, voi fi ascuns ca să stau în taină. Sau, desigur, mă izgonești de pe fața pământului, adică în nicio parte a pământurilor, între niciun locuitor al acestei lumi, să nu mi se îngăduie să rămân în siguranță și liber, și ascuns totodată de fața Ta, ca să nu mai fiu vrednic s-o văd, ceea ce până astăzi, privind-o adesea și auzind glasul Tău, trăiam mai fericit."
+    "text": "Nelegiuirea mea e mai mare decât să pot merita iertare. Iată, mă izgonești astăzi de la fața Ta și voi fi ascuns de fața Ta și de fața pământului și voi fi rătăcitor și fugar pe pământ. Sunt izgonit, zice, din fața Ta, și, conștiința crimei mele neputând îndura însăși lumina, voi fi ascuns ca să stau în taină. Sau, desigur, mă izgonești de pe fața pământului, adică în nicio parte a pământurilor, între niciun locuitor al acestei lumi, să nu mi se îngăduie să rămân în siguranță și liber, și ascuns totodată de fața Ta, ca să nu mai fiu vrednic s-o văd, ceea ce până astăzi, privind-o adesea și auzind glasul Tău, trăiam mai fericit."
    }
   ],
   "fidela": "Și Cain a spus DOMNULUI: Pedeapsa mea este mai mare decât o pot purta.",
@@ -3264,7 +3264,7 @@ window.CHAPTER_DATA = [
     "greek": "ἀνελεῖν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "să-l doboare.",
-    "dict_ro": "Rădăcina nakhah, „a lovi, a doborî” — verb obișnuit pentru atac violent; semnul lui Cain nu-l face nevătămabil, ci descurajează pe oricine ar vrea să-l lovească, garantând nu imunitate, ci protecție prin amenințarea răzbunării înșeptite.",
+    "dict_ro": "Rădăcina nakhah, „a lovi, a doborî” — verb obișnuit pentru atac violent; semnul lui Cain nu-l face de neatins, ci descurajează pe oricine ar vrea să-l lovească, garantând nu imunitate, ci protecție prin amenințarea răzbunării înșeptite.",
     "greek_def_ro": "ἀναιρέω (anaireō) — a ridica, a ucide."
    },
    {
@@ -4862,7 +4862,7 @@ window.CHAPTER_DATA = [
     "greek": "Νοεμά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "Naama — nume de femeie, fiica lui Lameh și a Țilei; înseamnă „plăcută, dulce”.",
-    "dict_ro": "Na'amah, Naama — singura femeie numită explicit în genealogia lui Cain, nume din rădăcina na'em, „plăcut, frumos”. Ramban citează mai multe tradiții midrashice contradictorii despre identitatea ei: soția lui Noe, sau, într-o tradiție mai târzie citată din literatura cabalistică, o figură legată de tradițiile despre îngerii căzuți — niciuna confirmabilă direct din text.",
+    "dict_ro": "Na'amah, Naama — singura femeie numită explicit în genealogia lui Cain, nume din rădăcina na'em, „plăcut, frumos”. Ramban citează mai multe tradiții midrashice contradictorii despre identitatea ei: soția lui Noe, sau, într-o tradiție mai târzie citată din literatura cabalistică, o figură legată de tradițiile despre îngerii căzuți — niciuna care să poată fi confirmată direct din text.",
     "greek_def_ro": "Νοεμά (Noema) — Noema, forma grecească a numelui „Naama”."
    }
   ],
@@ -5228,11 +5228,11 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 4.3.1-2",
-    "text": "Alții mai spun că Lameh, care era viclean și șiret, a văzut greutatea generației sale: că setiții refuzau să se amestece cu ei din pricina rușinii tatălui lor Cain, care era încă în viață, și că pământurile aveau să rămână necultivate din lipsa plugarilor, iar neamul lor avea să ia astfel sfârșit. Lameh, deci, împins de râvnă, l-a ucis pe Cain împreună cu singurul său fiu pe care îl născuse și care semăna cu el, ca nu cumva prin acest unic fiu, care semăna cu el, amintirea rușinii lui să continue prin generațiile lor. Când l-a ucis pe Cain, care fusese ca un zid între cele două seminții, ca să nu se asuprească una pe alta, Lameh a zis nevestelor lui ca în taină: „Un om și un tânăr au fost uciși, dar luați și împodobiți-vă fiicele pentru fiii lui Set. Din pricina uciderilor pe care le-am săvârșit și din pricina podoabei și frumuseții fiicelor voastre, cei care au refuzat în trecut, în cele șase generații, să se căsătorească cu noi ar putea consimți acum să se căsătorească cu noi în generația noastră.”"
+    "text": "Alții mai spun că Lameh, care era viclean și șiret, a văzut greutatea generației sale: că urmașii lui Set refuzau să se amestece cu ei din pricina rușinii tatălui lor Cain, care era încă în viață, și că pământurile aveau să rămână necultivate din lipsa plugarilor, iar neamul lor avea să ia astfel sfârșit. Lameh, deci, împins de râvnă, l-a ucis pe Cain împreună cu singurul său fiu pe care îl născuse și care semăna cu el, ca nu cumva prin acest unic fiu, care semăna cu el, amintirea rușinii lui să continue prin generațiile lor. Când l-a ucis pe Cain, care fusese ca un zid între cele două seminții, ca să nu se asuprească una pe alta, Lameh a zis nevestelor lui ca în taină: „Un om și un tânăr au fost uciși, dar luați și împodobiți-vă fiicele pentru fiii lui Set. Din pricina uciderilor pe care le-am săvârșit și din pricina podoabei și frumuseții fiicelor voastre, cei care au refuzat în trecut, în cele șase generații, să se căsătorească cu noi ar putea consimți acum să se căsătorească cu noi în generația noastră.”"
    },
    {
     "author": "Teodoret de Cir, Întrebări la Facere 44",
-    "text": "Unii tâlcuitori înțeleg aceasta nu despre doi oameni sau, cum își închipuie alții, despre Cain, ci despre unul și același tânăr: „Un om am ucis pentru că m-a rănit și un tânăr pentru că m-a vânătăit.” Adică un tânăr apropiindu-se de maturitate. El scapă de răzbunare prin mărturisirea păcatului și, rostind judecată asupra lui însuși, împiedică judecata dumnezeiască."
+    "text": "Unii tâlcuitori înțeleg aceasta nu despre doi oameni sau, cum își închipuie alții, despre Cain, ci despre unul și același tânăr: „Un om am ucis pentru că m-a rănit și un tânăr pentru că m-a umplut de vânătăi.” Adică un tânăr apropiindu-se de maturitate. El scapă de răzbunare prin mărturisirea păcatului și, rostind judecată asupra lui însuși, împiedică judecata dumnezeiască."
    },
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
@@ -5974,7 +5974,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 5.1.2",
-    "text": "După ce Set a născut pe Enos, Moise a scris: „atunci s-a început a se chema numele Domnului.” Fiindcă Set se despărțise de casa lui Cain, setiții au fost numiți cu numele Domnului, adică poporul drept al Domnului."
+    "text": "După ce Set a născut pe Enos, Moise a scris: „atunci s-a început a se chema numele Domnului.” Fiindcă Set se despărțise de casa lui Cain, urmașii lui Set au fost numiți cu numele Domnului, adică poporul drept al Domnului."
    },
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",

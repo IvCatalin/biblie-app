@@ -2338,9 +2338,9 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κάρφος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a rupe, a sfâșia; despre o frunză, „rupsă” proaspăt.",
+    "def_ro": "a rupe, a sfâșia; despre o frunză, „ruptă” proaspăt.",
     "greek_def_ro": "κάρφος (karphos) — ramură mică, crenguță.",
-    "dict_ro": "Verbul taraf, „a rupe, a sfâșia”: frunza „rupsă” (8:11) arată că era proaspătă. Același verb spune „a sfâșia” prada în 49:27.",
+    "dict_ro": "Verbul taraf, „a rupe, a sfâșia”: frunza „ruptă” (8:11) arată că era proaspătă. Același verb spune „a sfâșia” prada în 49:27.",
     "diff_ro": "Ebraica spune că frunza era „proaspăt ruptă” (taraf); Septuaginta are în loc κάρφος, „crenguță”: „o frunză de măslin, o crenguță, în ciocul ei”."
    },
    {
@@ -2483,7 +2483,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
-    "text": "a trimis iarăși porumbelul — Zborul lui, judecând după vremea cât a stat plecat, a fost dus la mare depărtare, iar frunza de măslin proaspăt ruptă pe care, fără îndoială printr-un îndemn supranatural, a adus-o în cioc a fost o dovadă bineprimită că povârnișurile dealurilor erau libere."
+    "text": "a trimis iarăși porumbelul — Zborul lui, judecând după vremea cât a stat plecat, a fost dus la mare depărtare, iar frunza de măslin proaspăt ruptă pe care, fără îndoială printr-un îndemn supranatural, a adus-o în cioc a fost o dovadă bine venită că povârnișurile dealurilor erau libere."
    },
    {
     "author": "Fericitul Augustin, Instruirea creștină 2.16.24",

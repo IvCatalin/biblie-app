@@ -14,7 +14,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ἄγγελοι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "messenger; in special, al dumnezeu, adică angel (de asemenea profet, preot sau teacher).",
+    "def_ro": "sol, înger.",
     "greek_def_ro": "ἄγγελος (angelos) — sol, înger (la plural).",
     "dict_ro": "Mal’ach, „sol, înger”: „cei doi îngeri” (19:1, 15) vin la Sodoma seara; spre deosebire de capitolul 18, ei nu mai sunt numiți „oameni” decât de către locuitori (19:5, 8, 10); ei lovesc cu orbire (19:11), scot pe Lot din cetate (19:16) și nu pot lucra până nu ajunge el la Țoar (19:22)."
    },
@@ -30,7 +30,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἦλθον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "def_ro": "a veni, a intra; despre soare, a apune.",
     "greek_def_ro": "ἔρχομαι (erchomai) — a veni („au venit, au ajuns”).",
     "dict_ro": "Bo, „a veni, a intra”: îngerii „au ajuns la Sodoma” (19:1); Lot îi face să „intre” în casă (19:3); oamenii cetății vor să-i „scoată” (19:5); verbul urmărește drumul oaspeților de la poartă la casă."
    },
@@ -46,7 +46,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σοδομα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sedom, loc aproape Dead mare.",
+    "def_ro": "Sodoma — cetate din valea Sidim.",
     "greek_def_ro": "Σόδομα (Sodoma) — Sodoma, nume propriu.",
     "dict_ro": "Sodoma (Sedom), „arsă” (Easton): cetate din valea Sidim; capitolul 19 descrie nimicirea ei prin foc și pucioasă (19:24–25, 28), după ce îngerii au scos de acolo pe Lot."
    },
@@ -94,7 +94,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu",
     "greek": "ἐκάθητο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a sit jos (in special ca judecător. in ambush, in quiet); de implicație, a dwell, a remain; causatively, a settle, a marry.",
+    "def_ro": "a sta, a locui, a rămâne; la forma cauzativă, a așeza.",
     "greek_def_ro": "κάθημαι (kathemai) — a ședea („ședea”).",
     "dict_ro": "Yashav, „a ședea, a locui”: Lot „ședea la poarta Sodomei” (19:1) și „a locuit în peșteră” (19:30): două feluri de ședere, în cetate și în munte."
    },
@@ -110,7 +110,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "παρὰ τὴν πύλην",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "opening, adică door sau poartă.",
+    "def_ro": "poartă (a cetății).",
     "greek_def_ro": "πύλη (pyle) — poartă; „lângă poartă”.",
     "dict_ro": "Sha’ar, „poartă”: Lot ședea „la poarta Sodomei” (19:1) — poarta era locul de judecată și de adunare; ședea acolo ca om cu loc în cetate (cf. 19:9: „a venit ca străin și vrea să judece”)."
    },
@@ -126,7 +126,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σοδομων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sedom, loc aproape Dead mare.",
+    "def_ro": "Sodoma — cetate din valea Sidim.",
     "greek_def_ro": "Σόδομα (Sodoma) — Sodoma, nume propriu (la genitiv).",
     "dict_ro": "Sodoma (Sedom), „arsă” (Easton): cetate din valea Sidim; capitolul 19 descrie nimicirea ei prin foc și pucioasă (19:24–25, 28), după ce îngerii au scos de acolo pe Lot."
    },
@@ -158,7 +158,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἰδὼν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a vedea, literal sau figurat (in numerous applications, direct si implied, transitive, intransitive si causative).",
+    "def_ro": "a vedea.",
     "dict_ro": "Raah, „a vedea”: Lot „a văzut” pe îngeri (19:1); soarta cetății este văzută de Avraam (19:28); soția se uită înapoi (19:26) — privirea cea bună și cea nepotrivită.",
     "greek_def_ro": "ὁράω (horao) — a vedea; la participiu, „văzând”."
    },
@@ -174,7 +174,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξανέστη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a rise (in various applications, literal, figurative, intensive si causative).",
+    "def_ro": "a se ridica, a se scula.",
     "greek_def_ro": "ἐξανίστημι (exanistemi) — a se ridica („s-a ridicat”).",
     "dict_ro": "Qum, „a se scula, a se ridica”: Lot „s-a ridicat” să-i întâmpine (19:1), iar îngerii îl îndeamnă „ridică-te” (19:15), „sculați-vă, ieșiți” (19:14); fiicele nu se „ridică” (19:33–35)."
    },
@@ -222,7 +222,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "προσώπῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, nose sau nostril; de aici, face, si occasionally persoana; de asemenea (de la rapid breathing in passion) ire.",
+    "def_ro": "nas, nară; prin extindere, față, mânie.",
     "greek_def_ro": "πρόσωπον (prosopon) — față (la dativ: „cu fața”).",
     "dict_ro": "Af, „nas, față”: „cu fața” (lit. „cu nasurile”, 19:1) spune plecarea adâncă, până la pământ; Septuaginta spune „cu fața”."
    },
@@ -238,7 +238,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὴν γῆν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământ (la large, sau partitively țară).",
+    "def_ro": "pământ, țară.",
     "greek_def_ro": "γῆ (ge) — pământ, țară.",
     "dict_ro": "Erets, „pământ”: Lot se prosternează „la pământ” (19:1); capitolul vorbește și de „țarina” păstrată pentru neamuri (19:28, 31) și de „țara” rămasă fără bărbați (19:31)."
    },
@@ -342,7 +342,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: capitolul e dialog: Lot către oaspeți (19:2, 7–8), oaspeții către Lot (19:12–13, 15, 17, 21–22), fiicele între ele (19:31–34).",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -358,7 +358,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "κύριοι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sovereign, adică controller (human sau divine).",
+    "def_ro": "domn, stăpân.",
     "greek_def_ro": "κύριος (kyrios) — domn (la plural vocativ: „domnilor”).",
     "dict_ro": "Adon, „domn”: „domnii mei” (19:2) — Lot își numește oaspeții „domnii mei”, cu respect, înainte de a ști cine sunt; Septuaginta spune κύριοι."
    },
@@ -374,7 +374,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "ἐκκλίνατε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a întoarce off (literal sau figurat).",
+    "def_ro": "a se abate, a se da la o parte.",
     "greek_def_ro": "ἐκκλίνω (ekklino) — a se abate („abateți-vă”).",
     "dict_ro": "Sur, „a se abate”: „abateți-vă în casa slujitorului vostru” (19:2) — invitația ospitalității; verbul se potrivește cu 18:4."
    },
@@ -390,7 +390,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὸν οἶκον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "casa (in greatest variation al applications, in special family, etc.).",
+    "def_ro": "casă, gospodărie.",
     "greek_def_ro": "οἶκος (oikos) — casă („casa”).",
     "dict_ro": "Bayit, „casă”: „casa slujitorului vostru” (19:2–4, 10) — casa lui Lot e locul adăpostului; oamenii cetății o înconjoară (19:4), îngerii îl trag înăuntru (19:10)."
    },
@@ -422,7 +422,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "καταλύσατε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a stop (de obicei peste night); de implicație, a stay permanently; de aici (in bad sens) a fi obstinate (in special in words, a complain).",
+    "def_ro": "a înnopta, a petrece noaptea.",
     "greek_def_ro": "καταλύω (katalyo) — a poposi, a găzdui („poposiți”).",
     "dict_ro": "Lin, „a înnopta”: „înnoptați” (19:2) — invitația de a rămâne peste noapte; îngerii răspund „vom înnopta în piață”, apoi cedează."
    },
@@ -470,7 +470,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ὀρθρίσαντες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "literal, a load sus (pe înapoi al om sau beast), adică a start early in morning.",
+    "def_ro": "a se scula devreme, a se trezi.",
     "greek_def_ro": "ὀρθρίζω (orthrizo) — a se scula de dimineață; la participiu, „sculându-vă de dimineață”.",
     "dict_ro": "Shakam, „a se scula devreme”: „vă veți scula devreme” (19:2); verbul revine la Avraam, care „s-a sculat dis-de-dimineață” (19:27)."
    },
@@ -498,7 +498,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπελεύσεσθε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a walk (in mare variety al applications, literal si figurat).",
+    "def_ro": "a merge, a umbla.",
     "greek_def_ro": "ἀπέρχομαι (aperchomai) — a pleca („veți pleca”).",
     "dict_ro": "Halak, „a merge”: „veți merge pe drumul vostru” (19:2) — Lot propune ospitalitate pentru o noapte; Avraam „a mers” spre locul unde stătuse (19:27); verbul leagă cele două capitole."
    },
@@ -530,7 +530,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: capitolul e dialog: Lot către oaspeți (19:2, 7–8), oaspeții către Lot (19:12–13, 15, 17, 21–22), fiicele între ele (19:31–34).",
     "greek_def_ro": "λέγω (lego) — a spune („au spus”)."
    },
@@ -546,7 +546,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "τῇ πλατείᾳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "width, adică (concretely) avenue sau area.",
+    "def_ro": "piață, stradă largă.",
     "greek_def_ro": "πλατεῖα (plateia) — piață, stradă largă (la dativ: „în piață”).",
     "dict_ro": "Rechov, „piață, stradă largă”: „vom înnopta în piață” (19:2) — oaspeții refuză la început; locul este poarta cetății, loc public."
    },
@@ -562,7 +562,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "καταλύσομεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a stop (de obicei peste night); de implicație, a stay permanently; de aici (in bad sens) a fi obstinate (in special in words, a complain).",
+    "def_ro": "a înnopta, a petrece noaptea.",
     "greek_def_ro": "καταλύω (katalyo) — a poposi („vom poposi”).",
     "dict_ro": "Lin, „a înnopta”: „înnoptați” (19:2) — invitația de a rămâne peste noapte; îngerii răspund „vom înnopta în piață”, apoi cedează."
    },
@@ -673,7 +673,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξέκλιναν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a întoarce off (literal sau figurat).",
+    "def_ro": "a se abate, a se da la o parte.",
     "greek_def_ro": "ἐκκλίνω (ekklino) — a se abate („s-au abătut”).",
     "dict_ro": "Sur, „a se abate”: „abateți-vă în casa slujitorului vostru” (19:2) — invitația ospitalității; verbul se potrivește cu 18:4."
    },
@@ -689,7 +689,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἰσῆλθον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "def_ro": "a veni, a intra; despre soare, a apune.",
     "greek_def_ro": "εἰσέρχομαι (eiserchomai) — a intra („au intrat”).",
     "dict_ro": "Bo, „a veni, a intra”: îngerii „au ajuns la Sodoma” (19:1); Lot îi face să „intre” în casă (19:3); oamenii cetății vor să-i „scoată” (19:5); verbul urmărește drumul oaspeților de la poartă la casă."
    },
@@ -705,7 +705,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὴν οἰκίαν αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "casa (in greatest variation al applications, in special family, etc.).",
+    "def_ro": "casă, gospodărie.",
     "greek_def_ro": "οἰκία (oikia) — casă; „casa lui”.",
     "dict_ro": "Bayit, „casă”: „casa slujitorului vostru” (19:2–4, 10) — casa lui Lot e locul adăpostului; oamenii cetății o înconjoară (19:4), îngerii îl trag înăuntru (19:10)."
    },
@@ -721,7 +721,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "πότον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "drink, de implicație, drinking ( act); de asemenea (de implicație) banquet sau (generally) feast.",
+    "def_ro": "ospăț, petrecere.",
     "greek_def_ro": "πότος (potos) — ospăț cu băutură, petrecere.",
     "dict_ro": "Mishteh, „ospăț, petrecere”: Lot a făcut „un ospăț” (19:3) — masă de ospitalitate; cuvântul vine de la sha-tah, „a bea”."
    },
@@ -737,7 +737,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔπεψεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a cook, in special a bake.",
+    "def_ro": "a cook.",
     "greek_def_ro": "πέσσω (pesso) — a coace („a copt”).",
     "dict_ro": "Afah, „a coace”: Lot „a copt azime” (19:3) — pâine fără aluat, făcută în grabă; gestul de a coace pâine face parte din ospitalitatea grăbită."
    },
@@ -753,8 +753,8 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἀζύμους",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, sweetness; concretely, sweet (adică nu soured sau bittered cu yeast); in special, unfermented cake sau loaf, sau (elliptically) festival al Passover (pentru ca no leaven era atunci folosit).",
-    "greek_def_ro": "ἄζυμος (azymos) — nedospit, azim (la acuzativ plural: „azime”).",
+    "def_ro": "azimă, pâine nedospită.",
+    "greek_def_ro": "ἄζυμος (azymos) — nedospit, azimă (la acuzativ plural: „azime”).",
     "dict_ro": "Matsot, „azime”: „azime” (19:3) — pâine fără aluat, făcută repede; tradiția evreiască leagă acest verset de Paște (Rashi la 19:3)."
    },
    {
@@ -769,7 +769,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔφαγον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a eat (literal sau figurat).",
+    "def_ro": "a mânca.",
     "greek_def_ro": "βρώσει φαγῇ (brosei phage) — „cu mâncare vei mânca”, aceeași construcție de accentuare redată și în greacă.",
     "dict_ro": "Achal, „a mânca”: „au mâncat” (19:3) — oaspeții, ca la 18:8, mănâncă; masa se încheie cu asaltul mulțimii (19:4)."
    },
@@ -873,7 +873,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "οἱ ἄνδρες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si in such cases frequently nu expressed in translation).",
+    "def_ro": "om ca individual sau male persoana.",
     "greek_def_ro": "ἀνήρ (aner) — bărbat (la plural: „bărbații”).",
     "dict_ro": "Ish, „bărbat, om”: „oamenii cetății, oamenii Sodomei” (19:4) înconjoară casa; „oamenii” oaspeților (19:8, 10, 12) îl apără pe Lot; „bărbat” (19:31) lipsește în țară."
    },
@@ -889,7 +889,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῆς πόλεως",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cetate ( loc guarded de waking sau watch) in widest sens (chiar al mere encampment sau post).",
+    "def_ro": "cetate, oraș.",
     "greek_def_ro": "πόλις (polis) — cetate (la genitiv: „a cetății”).",
     "dict_ro": "Ir, „cetate”: „oamenii cetății” (19:4); „toată cetatea” (19:4) — de la tineri la bătrâni, tot poporul, fără excepție; Septuaginta spune ἅπας ὁ λαός."
    },
@@ -905,7 +905,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "οἱ ἄνδρες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si in such cases frequently nu expressed in translation).",
+    "def_ro": "om ca individual sau male persoana.",
     "greek_def_ro": "ἀνήρ (aner) — bărbat (la plural: „bărbații”).",
     "dict_ro": "Ish, „bărbat, om”: „oamenii cetății, oamenii Sodomei” (19:4) înconjoară casa; „oamenii” oaspeților (19:8, 10, 12) îl apără pe Lot; „bărbat” (19:31) lipsește în țară."
    },
@@ -921,7 +921,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σοδομῖται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sedom, loc aproape Dead mare.",
+    "def_ro": "Sodoma — cetate din valea Sidim.",
     "greek_def_ro": "Σοδομίτης (Sodomites) — sodomit, locuitor al Sodomei (la plural).",
     "dict_ro": "Sodoma (Sedom), „arsă” (Easton): cetate din valea Sidim; capitolul 19 descrie nimicirea ei prin foc și pucioasă (19:24–25, 28), după ce îngerii au scos de acolo pe Lot."
    },
@@ -937,7 +937,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "περιεκύκλωσαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a revolve, surround, sau border; folosit in various applications, literal si figurat.",
+    "def_ro": "a înconjura.",
     "greek_def_ro": "περικυκλόω (perikykloo) — a înconjura („au înconjurat”).",
     "dict_ro": "Savav, „a înconjura”: „au înconjurat casa” (19:4) — mulțimea înconjoară casa lui Lot; același verb la căderea Ierihonului (Iosua 6:3)."
    },
@@ -953,7 +953,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν οἰκίαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "casa (in greatest variation al applications, in special family, etc.).",
+    "def_ro": "casă, gospodărie.",
     "greek_def_ro": "οἰκία (oikia) — casă (la acuzativ).",
     "dict_ro": "Bayit, „casă”: „casa slujitorului vostru” (19:2–4, 10) — casa lui Lot e locul adăpostului; oamenii cetății o înconjoară (19:4), îngerii îl trag înăuntru (19:10)."
    },
@@ -969,7 +969,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "νεανίσκου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "(concretely) boy (ca active), de la age al infancy a adolescence; de implicație, slugă; de asemenea (de interch. al sex), girl (al similar latitude in age).",
+    "def_ro": "tânăr, băiat, slujitor.",
     "greek_def_ro": "νεανίσκος (neaniskos) — tânăr (la genitiv).",
     "dict_ro": "Na’ar, „tânăr”: „de la tânăr până la bătrân” (19:4) — toți bărbații cetății, fără deosebire de vârstă; Septuaginta spune ἀπὸ νεανίσκου."
    },
@@ -1001,7 +1001,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ὁ λαὸς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "popor (ca congregated unit); in special, seminție (ca those al Israel); de aici (collectively) troops sau attendants; figurat, flock.",
+    "def_ro": "popor, neam; mulțime strânsă laolaltă.",
     "greek_def_ro": "λαός (laos) — popor („poporul”).",
     "dict_ro": "Am, „popor”: „tot poporul” (19:4) — mulțimea; la 19:38 „poporul” amoniților se trage de la Ben-Ami."
    },
@@ -1109,7 +1109,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξεκαλοῦντο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a call afară a (adică propriu-zis, address de nume, dar folosit in wide variety al applications).",
+    "def_ro": "a call afară a (adică propriu-zis.",
     "greek_def_ro": "ἐκκαλέω (ekkaleo) — a chema afară („chemau afară”).",
     "dict_ro": "Qara, „a chema”: „au chemat pe Lot” (19:5); cetatea strigă la Lot; Lot „a numit” cetatea mică „Țoar” (19:22)."
    },
@@ -1141,7 +1141,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔλεγον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: capitolul e dialog: Lot către oaspeți (19:2, 7–8), oaspeții către Lot (19:12–13, 15, 17, 21–22), fiicele între ele (19:31–34).",
     "greek_def_ro": "λέγω (lego) — a spune („spuneau”)."
    },
@@ -1157,7 +1157,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "οἱ ἄνδρες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si in such cases frequently nu expressed in translation).",
+    "def_ro": "om ca individual sau male persoana.",
     "greek_def_ro": "ἀνήρ (aner) — bărbat (la plural: „bărbații”).",
     "dict_ro": "Ish, „bărbat, om”: „oamenii cetății, oamenii Sodomei” (19:4) înconjoară casa; „oamenii” oaspeților (19:8, 10, 12) îl apără pe Lot; „bărbat” (19:31) lipsește în țară."
    },
@@ -1173,7 +1173,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἰσελθόντες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "def_ro": "a veni, a intra; despre soare, a apune.",
     "greek_def_ro": "εἰσέρχομαι (eiserchomai) — a intra; la participiu, „intrați”.",
     "dict_ro": "Bo, „a veni, a intra”: îngerii „au ajuns la Sodoma” (19:1); Lot îi face să „intre” în casă (19:3); oamenii cetății vor să-i „scoată” (19:5); verbul urmărește drumul oaspeților de la poartă la casă."
    },
@@ -1189,7 +1189,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν νύκτα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, twist (departe al light), adică night; figurat, adversity.",
+    "def_ro": "noapte, vremea întunericului.",
     "greek_def_ro": "νύξ (nyx) — noapte (la acuzativ: „noaptea”).",
     "dict_ro": "Laila, „noapte”: „care au venit la tine în noaptea aceasta” (19:5, 33–35) — noaptea e timpul primejdiei în Sodoma și al păcatului în peșteră."
    },
@@ -1205,7 +1205,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ, cu sufix",
     "greek": "ἐξάγαγε αὐτοὺς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge (causatively, aduce) afară, in mare variety al applications, literal si figurat, direct si proxim.",
+    "def_ro": "a merge (causatively, aduce) afară.",
     "greek_def_ro": "ἐξάγω (exago) — a scoate afară; „scoate-i afară”.",
     "dict_ro": "Yatsa, „a ieși”: „scoate-i la noi” (19:5), Lot „a ieșit” la ei (19:6) și, în fine, îngerii „l-au scos” din cetate (19:16–17); verbul face din capitol o mișcare de ieșire."
    },
@@ -1326,7 +1326,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξῆλθεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge (causatively, aduce) afară, in mare variety al applications, literal si figurat, direct si proxim.",
+    "def_ro": "a merge (causatively, aduce) afară.",
     "greek_def_ro": "ἐξέρχομαι (exerchomai) — a ieși.",
     "dict_ro": "Yatsa, „a ieși”: „scoate-i la noi” (19:5), Lot „a ieșit” la ei (19:6) și, în fine, îngerii „l-au scos” din cetate (19:16–17); verbul face din capitol o mișcare de ieșire."
    },
@@ -1342,7 +1342,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸ πρόθυρον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "opening (literal), adică door (poartă) sau entrance cale.",
+    "def_ro": "intrare, deschizătură.",
     "greek_def_ro": "πρόθυρον (prothyron) — vestibul, intrare.",
     "dict_ro": "Petach, „intrare”: Lot „a ieșit la intrare” (19:6, 11) — în fața casei; la 19:11 oamenii „caută intrarea” orbi."
    },
@@ -1358,7 +1358,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "προσέῳξεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a shut sus; figurat, a surrender.",
+    "def_ro": "a închide.",
     "greek_def_ro": "προσοίγω (prosoigo) — a închide la loc („a închis”).",
     "dict_ro": "Sagar, „a închide”: Lot „a închis ușa în urma lui” (19:6) — gest care îl desparte de mulțime, dar îl lasă singur în fața lor."
    },
@@ -1374,7 +1374,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "θύραν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ceva swinging, adică valve al door.",
+    "def_ro": "ceva swinging.",
     "greek_def_ro": "θύρα (thyra) — ușă, intrare.",
     "dict_ro": "Delet, „ușă, canat”: „ușa” (19:6, 9–10) casei lui Lot, între mulțime și oaspeți; îngerii îl trag înăuntru și o închid (19:10)."
    },
@@ -1441,7 +1441,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: capitolul e dialog: Lot către oaspeți (19:2, 7–8), oaspeții către Lot (19:12–13, 15, 17, 21–22), fiicele între ele (19:31–34).",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -1457,7 +1457,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ἀδελφοί",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "brother (folosit in widest sens al literal relationship si metaphorical affinity sau resemblance [like 1]).",
+    "def_ro": "frate; în sens larg, rudă apropiată.",
     "greek_def_ro": "ἀδελφός (adelphos) — frate (la plural: „frați”).",
     "dict_ro": "Ach, „frate”: „fraților, nu faceți răul acesta” (19:7) — Lot îi numește „frați” pe cei care vor să-i atace oaspeții; cuvântul sună gol, căci era străin."
    },
@@ -1473,7 +1473,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "πονηρεύσησθε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a spoil (literal, de breaking a pieces); figurat, a face (sau fi) bun pentru nothing, adică bad (physically, socially sau morally).",
+    "def_ro": "a face rău, a strica, a fi rău.",
     "greek_def_ro": "πονηρεύομαι (poneuomai) — a face rău („să faceți rău”).",
     "dict_ro": "Ra’a, „a face rău”: „nu faceți rău” (19:7, 9) — Lot cere să nu facă răul; răul pe care Sodoma îl face este ceea ce 13:13 numea „foarte păcătos”."
    },
@@ -1553,7 +1553,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "δύο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "two; de asemenea (ca ordinal) twofold.",
+    "def_ro": "doi, numeralul 2; și „doisprezece” când se leagă de zece.",
     "greek_def_ro": "δύο (dyo) — doi, două.",
     "dict_ro": "Shnayim, „doi”: „două fiice” (19:8) și „cei doi îngeri” (19:1, 15) — cele două fiice nu sunt „cunoscute” de bărbat; numărul doi leagă oaspeții de fiicele care vor naște pe Moab și Amon."
    },
@@ -1569,7 +1569,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "θυγατέρες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiica (folosit in acelasi wide sens ca alt terms al relationship, literal si figurat).",
+    "def_ro": "fiică; și, în sens larg, locuitoare a unui loc.",
     "greek_def_ro": "θυγάτηρ (thygater) — fiică.",
     "dict_ro": "Bat, „fiică”: „două fiice” (19:8, 12, 14–16, 30–36): Lot le oferă mulțimii într-un moment de disperare; textul nu laudă oferta, ci arată cât de adânc a căzut cetatea și cât a putut Lot să cedeze."
    },
@@ -1585,7 +1585,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔγνωσαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a cunoaste (propriu-zis, a ascertain de seeing); folosit in mare variety al senses, figurat, literal, euphemistically si inferentially (including observation, care, recognition; si causatively, instruction, designation, punishment, etc.).",
+    "def_ro": "a cunoaste (propriu-zis.",
     "greek_def_ro": "οἶδα (oida) — a ști.",
     "dict_ro": "Yada, „a cunoaște”: „să-i cunoaștem” (19:5), „care n-au cunoscut bărbat” (19:8), „n-a știut” (19:33, 35) — verbul spune cunoașterea intimă, aici silnicie; capitolul îl poartă la cel mai întunecat sens al lui."
    },
@@ -1601,7 +1601,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἄνδρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si in such cases frequently nu expressed in translation).",
+    "def_ro": "om ca individual sau male persoana.",
     "greek_def_ro": "ἀνήρ (anēr) — bărbat.",
     "dict_ro": "Ish, „bărbat, om”: „oamenii cetății, oamenii Sodomei” (19:4) înconjoară casa; „oamenii” oaspeților (19:8, 10, 12) îl apără pe Lot; „bărbat” (19:31) lipsește în țară."
    },
@@ -1617,7 +1617,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξάξω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge (causatively, aduce) afară, in mare variety al applications, literal si figurat, direct si proxim.",
+    "def_ro": "a merge (causatively, aduce) afară.",
     "greek_def_ro": "ἐξάγω (exago) — a scoate („voi scoate”).",
     "dict_ro": "Yatsa, „a ieși”: „scoate-i la noi” (19:5), Lot „a ieșit” la ei (19:6) și, în fine, îngerii „l-au scos” din cetate (19:16–17); verbul face din capitol o mișcare de ieșire."
    },
@@ -1633,7 +1633,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "χρήσασθε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "def_ro": "a face sau face.",
     "greek_def_ro": "χράομαι (chraomai) — a se folosi de, a se purta cu („purtați-vă”).",
     "dict_ro": "Asah, „a face”: „faceți-le ce e bine în ochii voștri” (19:8), „nu faceți nimic acestor oameni” (19:8): Lot pune în cumpănă două fapte, ale mulțimii față de fiice sau de oaspeți."
    },
@@ -1649,7 +1649,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv, cu articol",
     "greek": "ἀρέσκῃ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "bun (ca adjective) in widest sens; folosit likewise ca substantiv, both in masculine si feminine, singular si plural (bun, bun sau bun lucru, bun om sau femeie; bun, goods sau bun lucruri, bun men sau women), de asemenea ca adverb (well).",
+    "def_ro": "bun (ca adjective) in widest sens.",
     "greek_def_ro": "ἀρέσκω (aresko) — a plăcea („să vă fie pe plac”).",
     "dict_ro": "Tov, „bun”: „ce este bine în ochii voștri” (19:8) — măsura binelui lăsată mulțimii; în Sodoma, binele era lăsat la voia fiecăruia."
    },
@@ -1697,7 +1697,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ποιήσητε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "def_ro": "a face sau face.",
     "greek_def_ro": "ποιέω (poieo) — a face („să faceți”).",
     "dict_ro": "Asah, „a face”: „faceți-le ce e bine în ochii voștri” (19:8), „nu faceți nimic acestor oameni” (19:8): Lot pune în cumpănă două fapte, ale mulțimii față de fiice sau de oaspeți."
    },
@@ -1713,7 +1713,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἰσῆλθον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "def_ro": "a veni, a intra; despre soare, a apune.",
     "greek_def_ro": "εἰσέρχομαι (eiserchomai) — a intra („au intrat”).",
     "dict_ro": "Bo, „a veni, a intra”: îngerii „au ajuns la Sodoma” (19:1); Lot îi face să „intre” în casă (19:3); oamenii cetății vor să-i „scoată” (19:5); verbul urmărește drumul oaspeților de la poartă la casă."
    },
@@ -1729,7 +1729,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὴν σκέπην",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "shade, dacă literal sau figurative.",
+    "def_ro": "umbră, adăpost.",
     "greek_def_ro": "σκέπη (skepe) — acoperământ, adăpost.",
     "dict_ro": "Tsel, „umbră”: „sub umbra acoperișului meu” (19:8) — legea ospitalității: oaspetele e ocrotit sub acoperișul gazdei; Septuaginta spune ὑπὸ τὴν σκέπην."
    },
@@ -1837,7 +1837,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: capitolul e dialog: Lot către oaspeți (19:2, 7–8), oaspeții către Lot (19:12–13, 15, 17, 21–22), fiicele între ele (19:31–34).",
     "greek_def_ro": "λέγω (lego) — a spune („au spus”)."
    },
@@ -1853,7 +1853,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "Ἀπόστα ἐκεῖ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fi sau veni (causatively, aduce) aproape (pentru orice purpose); euphemistically, a lie cu femeie; ca enemy, a attack; religious a worship; causatively, a present; figurat, a adduce argument; de reversal, a sta înapoi.",
+    "def_ro": "a fi sau veni (causatively.",
     "greek_def_ro": "ἀφίστημι (aphistemi) — a se da deoparte; „dă-te încolo!”.",
     "dict_ro": "Nagash, „a se apropia”: „dă-te la o parte” (19:9) este în ebraică „apropie-te!”, adică „treci înainte”; ironia pe care Septuaginta o redă „retrage-te” (ἀπόστα ἐκεῖ)."
    },
@@ -1869,7 +1869,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: capitolul e dialog: Lot către oaspeți (19:2, 7–8), oaspeții către Lot (19:12–13, 15, 17, 21–22), fiicele între ele (19:31–34).",
     "greek_def_ro": "λέγω (lego) — a spune („au spus”)."
    },
@@ -1885,7 +1885,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἦλθες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "def_ro": "a veni, a intra; despre soare, a apune.",
     "greek_def_ro": "ἔρχομαι (erchomai) — a veni („ai venit”).",
     "dict_ro": "Bo, „a veni, a intra”: îngerii „au ajuns la Sodoma” (19:1); Lot îi face să „intre” în casă (19:3); oamenii cetății vor să-i „scoată” (19:5); verbul urmărește drumul oaspeților de la poartă la casă."
    },
@@ -1917,7 +1917,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κρίσιν κρίνειν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a judecător, adică pronounce sentence (pentru sau împotriva); de implicație, a vindicate sau punish; de extenssion, a govern; passively, a litigate (literal sau figurat).",
+    "def_ro": "a judecător.",
     "greek_def_ro": "κρίσις (krisis), κρίνω (krino) — „a judeca o judecată”.",
     "dict_ro": "Shafat, „a judeca”: „și vrea să facă pe judecătorul” (19:9) — reproșul mulțimii; Lot, care ședea la poarta de judecată, e acuzat de a-i judeca."
    },
@@ -1933,7 +1933,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κακώσομέν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a spoil (literal, de breaking a pieces); figurat, a face (sau fi) bun pentru nothing, adică bad (physically, socially sau morally).",
+    "def_ro": "a face rău, a strica, a fi rău.",
     "greek_def_ro": "κακόω (kakoo) — a răni, a face rău („îți vom face rău”).",
     "dict_ro": "Ra’a, „a face rău”: „nu faceți rău” (19:7, 9) — Lot cere să nu facă răul; răul pe care Sodoma îl face este ceea ce 13:13 numea „foarte păcătos”."
    },
@@ -1949,7 +1949,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κακώσομεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a spoil (literal, de breaking a pieces); figurat, a face (sau fi) bun pentru nothing, adică bad (physically, socially sau morally).",
+    "def_ro": "a face rău, a strica, a fi rău.",
     "greek_def_ro": "κακόω (kakoo) — a face rău („vom face rău”).",
     "dict_ro": "Ra’a, „a face rău”: „nu faceți rău” (19:7, 9) — Lot cere să nu facă răul; răul pe care Sodoma îl face este ceea ce 13:13 numea „foarte păcătos”."
    },
@@ -1981,7 +1981,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸν ἄνδρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si in such cases frequently nu expressed in translation).",
+    "def_ro": "om ca individual sau male persoana.",
     "greek_def_ro": "ἀνήρ (aner) — bărbat (la acuzativ: „bărbatul”).",
     "dict_ro": "Ish, „bărbat, om”: „oamenii cetății, oamenii Sodomei” (19:4) înconjoară casa; „oamenii” oaspeților (19:8, 10, 12) îl apără pe Lot; „bărbat” (19:31) lipsește în țară."
    },
@@ -2029,7 +2029,7 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "συντρῖψαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a burst (literal sau figurat).",
+    "def_ro": "a sparge, a frânge.",
     "greek_def_ro": "συντρίβω (syntribo) — a sfărâma („să spargă”).",
     "dict_ro": "Shavar, „a sparge”: „să spargă ușa” (19:9) — violența mulțimii: ușa casei lui Lot."
    },
@@ -2045,7 +2045,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν θύραν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ceva swinging, adică valve al door.",
+    "def_ro": "ceva swinging.",
     "greek_def_ro": "θύρα (thyra) — ușă (la acuzativ).",
     "dict_ro": "Delet, „ușă, canat”: „ușa” (19:6, 9–10) casei lui Lot, între mulțime și oaspeți; îngerii îl trag înăuntru și o închid (19:10)."
    },
@@ -2134,7 +2134,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "οἱ ἄνδρες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si in such cases frequently nu expressed in translation).",
+    "def_ro": "om ca individual sau male persoana.",
     "greek_def_ro": "ἀνήρ (aner) — bărbat (la plural: „bărbații”).",
     "dict_ro": "Ish, „bărbat, om”: „oamenii cetății, oamenii Sodomei” (19:4) înconjoară casa; „oamenii” oaspeților (19:8, 10, 12) îl apără pe Lot; „bărbat” (19:31) lipsește în țară."
    },
@@ -2150,7 +2150,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκτείναντες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a send departe, pentru, sau afară (in mare variety al applications).",
+    "def_ro": "a trimite, a întinde.",
     "greek_def_ro": "ἐκτείνω (ekteino) — a întinde; la participiu, „întinzând”.",
     "dict_ro": "Shalach, „a trimite, a întinde”: oaspeții „și-au întins mâna” (19:10) și l-au tras pe Lot înăuntru; verbul spune întinderea mâinii."
    },
@@ -2166,7 +2166,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὰς χεῖρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mână ( open unul [indicating power, means, direction, etc.], in distinction de la 3709, closed unul); folosit (ca substantiv, adverb, etc.) in mare variety al applications, both literal si figurat, both proximate si remote [as follows].",
+    "def_ro": "mână; și putere, stăpânire.",
     "dict_ro": "Yad, „mână”: îngerii „l-au apucat de mână” (19:16) și „și-au întins mâna” (19:10); mâna care salvează, cu rol invers față de mâna mulțimii.",
     "greek_def_ro": "χείρ (cheir) — mână (la acuzativ plural: „mâinile”)."
    },
@@ -2182,7 +2182,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἰσεσπάσαντο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "def_ro": "a veni, a intra; despre soare, a apune.",
     "greek_def_ro": "εἰσσπάω (eisspao) — a trage înăuntru („au tras înăuntru”).",
     "dict_ro": "Bo, „a veni, a intra”: îngerii „au ajuns la Sodoma” (19:1); Lot îi face să „intre” în casă (19:3); oamenii cetății vor să-i „scoată” (19:5); verbul urmărește drumul oaspeților de la poartă la casă."
    },
@@ -2214,7 +2214,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸν οἶκον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "casa (in greatest variation al applications, in special family, etc.).",
+    "def_ro": "casă, gospodărie.",
     "greek_def_ro": "οἶκος (oikos) — casă („casa”).",
     "dict_ro": "Bayit, „casă”: „casa slujitorului vostru” (19:2–4, 10) — casa lui Lot e locul adăpostului; oamenii cetății o înconjoară (19:4), îngerii îl trag înăuntru (19:10)."
    },
@@ -2230,7 +2230,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀπέκλεισαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a shut sus; figurat, a surrender.",
+    "def_ro": "a închide.",
     "greek_def_ro": "ἀποκλείω (apokleio) — a închide („au închis”).",
     "dict_ro": "Sagar, „a închide”: Lot „a închis ușa în urma lui” (19:6) — gest care îl desparte de mulțime, dar îl lasă singur în fața lor."
    },
@@ -2246,7 +2246,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν θύραν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ceva swinging, adică valve al door.",
+    "def_ro": "ceva swinging.",
     "greek_def_ro": "θύρα (thyra) — ușă (la acuzativ).",
     "dict_ro": "Delet, „ușă, canat”: „ușa” (19:6, 9–10) casei lui Lot, între mulțime și oaspeți; îngerii îl trag înăuntru și o închid (19:10)."
    },
@@ -2309,7 +2309,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ἄνδρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si in such cases frequently nu expressed in translation).",
+    "def_ro": "om ca individual sau male persoana.",
     "greek_def_ro": "ἀνήρ (aner) — bărbat (la acuzativ plural).",
     "dict_ro": "Ish, „bărbat, om”: „oamenii cetății, oamenii Sodomei” (19:4) înconjoară casa; „oamenii” oaspeților (19:8, 10, 12) îl apără pe Lot; „bărbat” (19:31) lipsește în țară."
    },
@@ -2325,7 +2325,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τῆς θύρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "opening (literal), adică door (poartă) sau entrance cale.",
+    "def_ro": "intrare, deschizătură.",
     "greek_def_ro": "θύρα (thyra) — ușă, intrare (la genitiv).",
     "dict_ro": "Petach, „intrare”: Lot „a ieșit la intrare” (19:6, 11) — în fața casei; la 19:11 oamenii „caută intrarea” orbi."
    },
@@ -2341,7 +2341,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπάταξαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a strike (lightly sau severely, literal sau figurat).",
+    "def_ro": "a lovi.",
     "dict_ro": "Nakah, „a lovi”: îngerii „au lovit” pe oamenii cetății cu orbire (19:11); lovitura nu ucide, ci oprește.",
     "greek_def_ro": "πατάσσω (patasso) — a lovi („au lovit”)."
    },
@@ -2373,7 +2373,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "ἀπὸ μικροῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abbreviated, adică diminutive, literal (in quantity, size sau number) sau figurat (in age sau importance).",
+    "def_ro": "mic, scund; cel mai mic.",
     "greek_def_ro": "μικρός (mikros) — mic; „de la mic”.",
     "dict_ro": "Qatan, „mic”: „de la cel mic până la cel mare” (19:11) — toți bărbații lovește orbirea, nu doar pe unii."
    },
@@ -2389,7 +2389,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "ἕως μεγάλου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mare (in orice sens); de aici, older; de asemenea insolent.",
+    "def_ro": "mare, mai mare, în orice sens.",
     "dict_ro": "Gadol, „mare”: „de la mic până la mare” (19:11) — toți cei din fața casei; și „ai mărit îndurarea” (19:19): marea îndurare a lui Dumnezeu.",
     "greek_def_ro": "μέγας (megas) — mare; „până la mare”."
    },
@@ -2421,7 +2421,7 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "ζητοῦντες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a veni forth a, adică appear sau exist; transitively, a attain, adică find sau acquire; figurat, a occur, meet sau fi present.",
+    "def_ro": "propriu-zis, a veni forth a.",
     "dict_ro": "Matsa, „a găsi”: orbii nu „găsesc” ușa (19:11); Lot „a aflat har” (19:19) — cei care caută intrarea nu o găsesc, cel ce cere har îl găsește.",
     "greek_def_ro": "ζητέω (zeteo) — a căuta; la participiu, „căutând”."
    },
@@ -2437,7 +2437,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν θύραν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "opening (literal), adică door (poartă) sau entrance cale.",
+    "def_ro": "intrare, deschizătură.",
     "greek_def_ro": "θύρα (thyra) — ușă (la acuzativ).",
     "dict_ro": "Petach, „intrare”: Lot „a ieșit la intrare” (19:6, 11) — în fața casei; la 19:11 oamenii „caută intrarea” orbi."
    },
@@ -2522,7 +2522,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "οἱ ἄνδρες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si in such cases frequently nu expressed in translation).",
+    "def_ro": "om ca individual sau male persoana.",
     "greek_def_ro": "ἀνήρ (aner) — bărbat (la plural: „bărbații”).",
     "dict_ro": "Ish, „bărbat, om”: „oamenii cetății, oamenii Sodomei” (19:4) înconjoară casa; „oamenii” oaspeților (19:8, 10, 12) îl apără pe Lot; „bărbat” (19:31) lipsește în țară."
    },
@@ -2538,7 +2538,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: capitolul e dialog: Lot către oaspeți (19:2, 7–8), oaspeții către Lot (19:12–13, 15, 17, 21–22), fiicele între ele (19:31–34).",
     "greek_def_ro": "λέγω (lego) — a spune („au spus”)."
    },
@@ -2570,7 +2570,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "γαμβροὶ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "relative de marriage (in special prin bride); figurat, circumcised child (ca species al religious espousal).",
+    "def_ro": "ginere, cel ce se înrudește prin căsătorie.",
     "greek_def_ro": "γαμβρός (gambros) — ginere (la plural: „gineri”).",
     "dict_ro": "Chatan, „ginere”: „ginerii lui” (19:12, 14) — bărbații care luaseră fiicele lui Lot; ei iau vestea drept glumă."
    },
@@ -2586,7 +2586,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "υἱοὶ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiu (ca builder al family nume), in widest sens (al literal si figurative relationship, including grandson, subject, neam, quality sau condition, etc., (ca tată sau brother), etc.).",
+    "def_ro": "fiu; în sens larg, nepot, urmaș, membru al unui neam.",
     "greek_def_ro": "υἱός (hyios) — fiu (la plural: „fii”).",
     "dict_ro": "Ben, „fiu”: „fiii și fiicele tale” (19:12) — familia lui Lot; Septuaginta spune „ginerii, fiii sau fiicele”; textul lasă ambiguu dacă fiii au existat."
    },
@@ -2618,7 +2618,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῇ πόλει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cetate ( loc guarded de waking sau watch) in widest sens (chiar al mere encampment sau post).",
+    "def_ro": "cetate, oraș.",
     "greek_def_ro": "πόλις (polis) — cetate (la dativ: „în cetate”).",
     "dict_ro": "Ir, „cetate”: „oamenii cetății” (19:4); „toată cetatea” (19:4) — de la tineri la bătrâni, tot poporul, fără excepție; Septuaginta spune ἅπας ὁ λαός."
    },
@@ -2634,7 +2634,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "ἐξάγαγε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge (causatively, aduce) afară, in mare variety al applications, literal si figurat, direct si proxim.",
+    "def_ro": "a merge (causatively, aduce) afară.",
     "greek_def_ro": "ἐξάγω (exago) — a scoate afară („scoate”).",
     "dict_ro": "Yatsa, „a ieși”: „scoate-i la noi” (19:5), Lot „a ieșit” la ei (19:6) și, în fine, îngerii „l-au scos” din cetate (19:16–17); verbul face din capitol o mișcare de ieșire."
    },
@@ -2650,7 +2650,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τοῦ τόπου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, standing, adică spot; dar folosit widely al locality (general sau specific); de asemenea (figurat) al condition (al trup sau mind).",
+    "def_ro": "loc, locul unde stai; și stare, rând.",
     "dict_ro": "Maqom, „loc”: „din locul acesta” (19:12–14, 27) — Sodoma ca loc de nimicit; Avraam stă „la locul unde stătuse înaintea DOMNULUI” (19:27).",
     "greek_def_ro": "τόπος (topos) — loc (la genitiv: „al locului”)."
    },
@@ -2742,7 +2742,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu",
     "greek": "ἀπόλλυμεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a decay, adică (causatively) ruin (literal sau figurat).",
+    "def_ro": "a nimici, a strica.",
     "greek_def_ro": "ἀπόλλυμι (apollymi) — a nimici („nimicim”).",
     "dict_ro": "Shachat, „a distruge”: „noi nimicim locul acesta” (19:13, 14) — verbul din 6:13, 17 (potopul); Dumnezeu nimicește aici Sodoma, cum nimicise pământul odinioară."
    },
@@ -2758,7 +2758,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸν τόπον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, standing, adică spot; dar folosit widely al locality (general sau specific); de asemenea (figurat) al condition (al trup sau mind).",
+    "def_ro": "loc, locul unde stai; și stare, rând.",
     "dict_ro": "Maqom, „loc”: „din locul acesta” (19:12–14, 27) — Sodoma ca loc de nimicit; Avraam stă „la locul unde stătuse înaintea DOMNULUI” (19:27).",
     "greek_def_ro": "τόπος (topos) — loc (la acuzativ)."
    },
@@ -2774,7 +2774,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ὑψώθη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mare (in orice sens); de aici, older; de asemenea insolent.",
+    "def_ro": "mare, mai mare, în orice sens.",
     "dict_ro": "Gadol, „mare”: „de la mic până la mare” (19:11) — toți cei din fața casei; și „ai mărit îndurarea” (19:19): marea îndurare a lui Dumnezeu.",
     "greek_def_ro": "ὑψόω (hypsoo) — a înălța; la pasiv, „s-a înălțat”."
    },
@@ -2838,7 +2838,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, cu sufix",
     "greek": "ἀπέστειλεν ἡμᾶς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a send departe, pentru, sau afară (in mare variety al applications).",
+    "def_ro": "a trimite, a întinde.",
     "greek_def_ro": "ἀποστέλλω (apostello) — a trimite; „ne-a trimis”.",
     "dict_ro": "Shalach, „a trimite, a întinde”: oaspeții „și-au întins mâna” (19:10) și l-au tras pe Lot înăuntru; verbul spune întinderea mâinii."
    },
@@ -2958,7 +2958,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξῆλθεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge (causatively, aduce) afară, in mare variety al applications, literal si figurat, direct si proxim.",
+    "def_ro": "a merge (causatively, aduce) afară.",
     "greek_def_ro": "ἐξέρχομαι (exerchomai) — a ieși.",
     "dict_ro": "Yatsa, „a ieși”: „scoate-i la noi” (19:5), Lot „a ieșit” la ei (19:6) și, în fine, îngerii „l-au scos” din cetate (19:16–17); verbul face din capitol o mișcare de ieșire."
    },
@@ -2974,7 +2974,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐλάλησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "poate propriu-zis, a arrange; dar folosit figurat (al words), a vorbi; rarely (in destructive sens) a subdue.",
+    "def_ro": "poate propriu-zis.",
     "greek_def_ro": "λαλέω (laleo) — a vorbi („a vorbit”).",
     "dict_ro": "Dibber, „a vorbi”: Lot „a vorbit ginerilor lui” (19:14); ginerii nu-l cred."
    },
@@ -2990,7 +2990,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τοὺς γαμβροὺς αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "relative de marriage (in special prin bride); figurat, circumcised child (ca species al religious espousal).",
+    "def_ro": "ginere, cel ce se înrudește prin căsătorie.",
     "greek_def_ro": "γαμβρός (gambros) — ginere; „ginerii lui”.",
     "dict_ro": "Chatan, „ginere”: „ginerii lui” (19:12, 14) — bărbații care luaseră fiicele lui Lot; ei iau vestea drept glumă."
    },
@@ -3006,7 +3006,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu, cu articol",
     "greek": "τοὺς εἰληφότας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a lua (in widest variety al applications).",
+    "def_ro": "a lua.",
     "dict_ro": "Laqach, „a lua”: „care au luat pe fiicele lui” (19:14) și „ia pe soția ta” (19:15) — verbul căsătoriei se întoarce în imperativul salvării.",
     "greek_def_ro": "λαμβάνω (lambano) — a lua; la participiu perfect, „cei ce luaseră”."
    },
@@ -3022,7 +3022,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὰς θυγατέρας αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiica (folosit in acelasi wide sens ca alt terms al relationship, literal si figurat).",
+    "def_ro": "fiică; și, în sens larg, locuitoare a unui loc.",
     "greek_def_ro": "θυγάτηρ (thygater) — fiică; „fiicele lui”.",
     "dict_ro": "Bat, „fiică”: „două fiice” (19:8, 12, 14–16, 30–36): Lot le oferă mulțimii într-un moment de disperare; textul nu laudă oferta, ci arată cât de adânc a căzut cetatea și cât a putut Lot să cedeze."
    },
@@ -3038,7 +3038,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: capitolul e dialog: Lot către oaspeți (19:2, 7–8), oaspeții către Lot (19:12–13, 15, 17, 21–22), fiicele între ele (19:31–34).",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -3054,7 +3054,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "ἀνάστητε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a rise (in various applications, literal, figurative, intensive si causative).",
+    "def_ro": "a se ridica, a se scula.",
     "greek_def_ro": "ἀνίστημι (anistemi) — a se ridica („sculați-vă”).",
     "dict_ro": "Qum, „a se scula, a se ridica”: Lot „s-a ridicat” să-i întâmpine (19:1), iar îngerii îl îndeamnă „ridică-te” (19:15), „sculați-vă, ieșiți” (19:14); fiicele nu se „ridică” (19:33–35)."
    },
@@ -3070,7 +3070,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "ἐξέλθατε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge (causatively, aduce) afară, in mare variety al applications, literal si figurat, direct si proxim.",
+    "def_ro": "a merge (causatively, aduce) afară.",
     "greek_def_ro": "ἐξέρχομαι (exerchomai) — a ieși („ieșiți”).",
     "dict_ro": "Yatsa, „a ieși”: „scoate-i la noi” (19:5), Lot „a ieșit” la ei (19:6) și, în fine, îngerii „l-au scos” din cetate (19:16–17); verbul face din capitol o mișcare de ieșire."
    },
@@ -3102,7 +3102,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu",
     "greek": "ἐκτρίβει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a decay, adică (causatively) ruin (literal sau figurat).",
+    "def_ro": "a nimici, a strica.",
     "greek_def_ro": "ἐκτρίβω (ektribo) — a nimici („nimicește”).",
     "dict_ro": "Shachat, „a distruge”: „noi nimicim locul acesta” (19:13, 14) — verbul din 6:13, 17 (potopul); Dumnezeu nimicește aici Sodoma, cum nimicise pământul odinioară."
    },
@@ -3118,7 +3118,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν πόλιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cetate ( loc guarded de waking sau watch) in widest sens (chiar al mere encampment sau post).",
+    "def_ro": "cetate, oraș.",
     "greek_def_ro": "πόλις (polis) — cetate, oraș (la acuzativ: „cetatea”).",
     "dict_ro": "Ir, „cetate”: „oamenii cetății” (19:4); „toată cetatea” (19:4) — de la tineri la bătrâni, tot poporul, fără excepție; Septuaginta spune ἅπας ὁ λαός."
    },
@@ -3247,7 +3247,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "οἱ ἄγγελοι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "messenger; in special, al dumnezeu, adică angel (de asemenea profet, preot sau teacher).",
+    "def_ro": "sol, înger.",
     "greek_def_ro": "ἄγγελος (angelos) — înger; „îngerii”.",
     "dict_ro": "Mal’ach, „sol, înger”: „cei doi îngeri” (19:1, 15) vin la Sodoma seara; spre deosebire de capitolul 18, ei nu mai sunt numiți „oameni” decât de către locuitori (19:5, 8, 10); ei lovesc cu orbire (19:11), scot pe Lot din cetate (19:16) și nu pot lucra până nu ajunge el la Țoar (19:22)."
    },
@@ -3295,7 +3295,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "ἀναστὰς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a rise (in various applications, literal, figurative, intensive si causative).",
+    "def_ro": "a se ridica, a se scula.",
     "greek_def_ro": "ἀνίστημι (anistemi) — a se ridica; la participiu, „ridicându-te”.",
     "dict_ro": "Qum, „a se scula, a se ridica”: Lot „s-a ridicat” să-i întâmpine (19:1), iar îngerii îl îndeamnă „ridică-te” (19:15), „sculați-vă, ieșiți” (19:14); fiicele nu se „ridică” (19:33–35)."
    },
@@ -3311,7 +3311,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "λαβὲ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a lua (in widest variety al applications).",
+    "def_ro": "a lua.",
     "dict_ro": "Laqach, „a lua”: „care au luat pe fiicele lui” (19:14) și „ia pe soția ta” (19:15) — verbul căsătoriei se întoarce în imperativul salvării.",
     "greek_def_ro": "λαμβάνω (lambano) — a lua („ia”)."
    },
@@ -3329,7 +3329,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "femeie, soție; despre animale, „femela”.",
     "greek_def_ro": "γυνή (gyne) — femeie, soție; „soția ta”.",
-    "dict_ro": "Ishah, „femeie, soție”: „ia pe soția ta” (19:15–16), „soția lui s-a uitat înapoi” (19:26): soția lui Lot, necitată pe nume, se uită înapoi."
+    "dict_ro": "Ishah, „femeie, soție”: „ia pe soția ta” (19:15–16), „soția lui s-a uitat înapoi” (19:26): soția lui Lot, fără să fie numită, se uită înapoi."
    },
    {
     "t": " și pe cele "
@@ -3343,7 +3343,7 @@ window.CHAPTER_DATA = [
     "pos": "numeral",
     "greek": "δύο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "two; de asemenea (ca ordinal) twofold.",
+    "def_ro": "doi, numeralul 2; și „doisprezece” când se leagă de zece.",
     "greek_def_ro": "δύο (dyo) — doi, două.",
     "dict_ro": "Shnayim, „doi”: „două fiice” (19:8) și „cei doi îngeri” (19:1, 15) — cele două fiice nu sunt „cunoscute” de bărbat; numărul doi leagă oaspeții de fiicele care vor naște pe Moab și Amon."
    },
@@ -3375,7 +3375,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "συναπόλῃ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a scrape (literal, a shave; dar de obicei figurat) together (adică a accumulate sau increase) sau departe (adică a scatter, remove, sau ruin; intransitively, a perish).",
+    "def_ro": "a nimici, a mătura, a face să dispară.",
     "greek_def_ro": "συναπόλλυμι (synapollymi) — a pieri împreună („să nu pieri împreună”).",
     "dict_ro": "Saph, „a mătura, a nimici”: „ca să nu fii nimicit” (19:15, 17) — avertizarea îngerilor; același verb din rugăciunea lui Avraam (18:23)."
    },
@@ -3391,7 +3391,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "ταῖς ἀνομίαις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "perversity, adică (moral) rau.",
+    "def_ro": "vină, nelegiuire.",
     "greek_def_ro": "ἀνομία (anomia) — nelegiuire (la dativ plural: „prin nelegiuirile”).",
     "dict_ro": "Avon, „vină, nelegiuire”: „în păcatul cetății” (19:15) — Lot ar fi nimicit dacă ar rămâne în vina cetății; mai înainte, vina amoriților nu se împlinise (15:16).",
     "diff_ro": "Ebraica spune „ca să nu fii nimicit în păcatul cetății”; Septuaginta spune „ca să nu pieri împreună cu nelegiuirile cetății” (συναπόλῃ ταῖς ἀνομίαις)."
@@ -3480,7 +3480,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐταράχθησαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a question sau hesitate, adică (de implicație) a fi reluctant.",
+    "def_ro": "a zăbovi, a întârzia.",
     "greek_def_ro": "ταράσσω (tarasso) — a tulbura („s-au tulburat”).",
     "dict_ro": "Mahah, „a zăbovi”: „a zăbovit” (19:16) — Lot nu se grăbea; îngerii îl apucă de mână."
    },
@@ -3496,7 +3496,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "οἱ ἄγγελοι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si in such cases frequently nu expressed in translation).",
+    "def_ro": "om ca individual sau male persoana.",
     "greek_def_ro": "ἄγγελος (angelos) — înger; „îngerii”.",
     "dict_ro": "Ish, „bărbat, om”: „oamenii cetății, oamenii Sodomei” (19:4) înconjoară casa; „oamenii” oaspeților (19:8, 10, 12) îl apără pe Lot; „bărbat” (19:31) lipsește în țară."
    },
@@ -3512,7 +3512,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκράτησαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fasten asupra; de aici, a seize, fi tare (figurat, courageous, causatively strengthen, cure, help, repair, fortify), obstinate; a bind, restrain, conquer.",
+    "def_ro": "a apuca, a ține tare.",
     "greek_def_ro": "κρατέω (krateo) — a ține, a apuca („au apucat”).",
     "dict_ro": "Chazaq, „a apuca, a ține tare”: îngerii „l-au apucat de mână” (19:16) și pe soția lui și pe fiice; mâna care duce spre ieșire."
    },
@@ -3528,7 +3528,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τῆς χειρὸς αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mână ( open unul [indicating power, means, direction, etc.], in distinction de la 3709, closed unul); folosit (ca substantiv, adverb, etc.) in mare variety al applications, both literal si figurat, both proximate si remote [as follows].",
+    "def_ro": "mână; și putere, stăpânire.",
     "dict_ro": "Yad, „mână”: îngerii „l-au apucat de mână” (19:16) și „și-au întins mâna” (19:10); mâna care salvează, cu rol invers față de mâna mulțimii.",
     "greek_def_ro": "χείρ (cheir) — mână; „mâna lui”."
    },
@@ -3546,7 +3546,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "femeie, soție; despre animale, „femela”.",
     "greek_def_ro": "γυνή (gyne) — femeie, soție; „a soției lui”.",
-    "dict_ro": "Ishah, „femeie, soție”: „ia pe soția ta” (19:15–16), „soția lui s-a uitat înapoi” (19:26): soția lui Lot, necitată pe nume, se uită înapoi."
+    "dict_ro": "Ishah, „femeie, soție”: „ia pe soția ta” (19:15–16), „soția lui s-a uitat înapoi” (19:26): soția lui Lot, fără să fie numită, se uită înapoi."
    },
    {
     "t": " lui și "
@@ -3560,7 +3560,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τῶν χειρῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "mână ( open unul [indicating power, means, direction, etc.], in distinction de la 3709, closed unul); folosit (ca substantiv, adverb, etc.) in mare variety al applications, both literal si figurat, both proximate si remote [as follows].",
+    "def_ro": "mână; și putere, stăpânire.",
     "dict_ro": "Yad, „mână”: îngerii „l-au apucat de mână” (19:16) și „și-au întins mâna” (19:10); mâna care salvează, cu rol invers față de mâna mulțimii.",
     "greek_def_ro": "χείρ (cheir) — mână (la genitiv plural: „ale mâinilor”)."
    },
@@ -3623,7 +3623,7 @@ window.CHAPTER_DATA = [
     "strong": "H3318",
     "pos": "verb, cu sufix",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge (causatively, aduce) afară, in mare variety al applications, literal si figurat, direct si proxim.",
+    "def_ro": "a merge (causatively, aduce) afară.",
     "diff_ro": "Septuaginta nu are în acest verset „l-au scos” (וַיֹּצִאֻהוּ); textul grecesc se oprește la „și au ținut îngerii mâna lui”.",
     "dict_ro": "Yatsa, „a ieși”: „scoate-i la noi” (19:5), Lot „a ieșit” la ei (19:6) și, în fine, îngerii „l-au scos” din cetate (19:16–17); verbul face din capitol o mișcare de ieșire."
    },
@@ -3638,7 +3638,7 @@ window.CHAPTER_DATA = [
     "strong": "H3240",
     "pos": "verb, cu sufix",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a deposit; de implicație, a allow a stay.",
+    "def_ro": "a așeza, a pune la adăpost.",
     "diff_ro": "Septuaginta nu are în acest verset „l-au pus” (וַיַּנִּחֻהוּ); textul grecesc se oprește la „și au ținut îngerii mâna lui”.",
     "dict_ro": "Nuach, „a odihni, a așeza”: „l-au pus în afara cetății” (19:16) — verbul spune așezarea în siguranță, la adăpost."
    },
@@ -3653,7 +3653,7 @@ window.CHAPTER_DATA = [
     "strong": "H5892",
     "pos": "substantiv, cu prefix",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cetate ( loc guarded de waking sau watch) in widest sens (chiar al mere encampment sau post).",
+    "def_ro": "cetate, oraș.",
     "diff_ro": "Septuaginta nu are în acest verset „în afara cetății” (מִחוּץ לָעִיר); textul grecesc se oprește la „când Domnul l-a cruțat”.",
     "dict_ro": "Ir, „cetate”: „oamenii cetății” (19:4); „toată cetatea” (19:4) — de la tineri la bătrâni, tot poporul, fără excepție; Septuaginta spune ἅπας ὁ λαός."
    },
@@ -3749,7 +3749,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, infinitiv, cu sufix",
     "greek": "ἐξήγαγον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge (causatively, aduce) afară, in mare variety al applications, literal si figurat, direct si proxim.",
+    "def_ro": "a merge (causatively, aduce) afară.",
     "greek_def_ro": "ἐξάγω (exago) — a scoate afară („au scos”).",
     "dict_ro": "Yatsa, „a ieși”: „scoate-i la noi” (19:5), Lot „a ieșit” la ei (19:6) și, în fine, îngerii „l-au scos” din cetate (19:16–17); verbul face din capitol o mișcare de ieșire."
    },
@@ -3765,7 +3765,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: capitolul e dialog: Lot către oaspeți (19:2, 7–8), oaspeții către Lot (19:12–13, 15, 17, 21–22), fiicele între ele (19:31–34).",
     "greek_def_ro": "λέγω (lego) — a spune („au spus”)."
    },
@@ -3781,7 +3781,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "σῴζων σῷζε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a fi smooth, adică (de implicație) a escape (ca dacă de slipperiness); causatively, a release sau rescue; in special, a aduce forth tânăr, emit sparks.",
+    "def_ro": "a scăpa, a fugi spre un loc sigur.",
     "greek_def_ro": "σῴζω (sozo) — a salva; „salvează-te negreșit” (formă dublată pentru accent).",
     "dict_ro": "Malat, „a scăpa, a fugi”: „fugi (scapă) pentru sufletul tău” (19:17, 19–20, 22) — porunca îngerilor; verbul se aude de patru ori în capitol."
    },
@@ -3813,7 +3813,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "περιβλέψῃς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a scan, adică look intently la; de implicație, a regard cu pleasure, favor sau care.",
+    "def_ro": "a privi cu luare-aminte.",
     "greek_def_ro": "περιβλέπω (periblepo) — a privi în jur („să te uiți în jur”).",
     "dict_ro": "Nabat, „a privi”: „nu te uita înapoi” (19:17) — porunca de a nu privi; soția lui Lot nu o împlinește (19:26)."
    },
@@ -3829,7 +3829,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "εἰς τὰ ὀπίσω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, hind parte; generally folosit ca adverb sau conjunction, după (in various senses).",
+    "def_ro": "după, în urma cuiva; și spatele, partea din urmă.",
     "greek_def_ro": "ὀπίσω (opiso) — înapoi („înapoi”).",
     "dict_ro": "Achar, „după, în urma”: „în urma ta” (19:17) — privirea înapoi; „și soția lui s-a uitat din urma lui” (19:26)."
    },
@@ -3845,7 +3845,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "στῇς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a sta, in various relations (literal si figurative, intransitive si transitive).",
+    "def_ro": "a sta.",
     "greek_def_ro": "ἵστημι (histemi) — a sta („să te oprești”).",
     "dict_ro": "Amad, „a sta”: „să nu te oprești în toată câmpia” (19:17) — nu zăbovi; Avraam „stătea înaintea DOMNULUI” (19:27)."
    },
@@ -3861,7 +3861,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῇ περιχώρῳ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "circle, adică (de implicație) circumjacent tract sau region, in special Ghor sau valley al Jordan; de asemenea (round) loaf; de asemenea talent (sau large [round] coin).",
+    "def_ro": "câmpie rotundă, ținut larg.",
     "greek_def_ro": "περίχωρος (perichoros) — împrejurimi (la dativ: „în ținutul dimprejur”).",
     "dict_ro": "Kikkar, „câmpie rotundă”: „în toată câmpia” (19:17, 25, 28–29) — câmpia Iordanului cu cetățile ei; Lot o alesese după aparență (13:10)."
    },
@@ -3877,7 +3877,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸ ὄρος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "munte sau range al hills (sometimes folosit figurat).",
+    "def_ro": "munte, deal.",
     "greek_def_ro": "ὄρος (oros) — munte („muntele”).",
     "dict_ro": "Har, „munte”: „scapă la munte” (19:17, 19, 30) — îngerii îl trimit la munte; Lot se teme de el (19:19) și cere Țoarul; la sfârșit locuiește în munte (19:30)."
    },
@@ -3893,7 +3893,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "συμπαραλημφθῇς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a scrape (literal, a shave; dar de obicei figurat) together (adică a accumulate sau increase) sau departe (adică a scatter, remove, sau ruin; intransitively, a perish).",
+    "def_ro": "a nimici, a mătura, a face să dispară.",
     "greek_def_ro": "συμπαραλαμβάνω (symparalambano) — a fi luat împreună („să nu fii luat împreună cu ei”).",
     "dict_ro": "Saph, „a mătura, a nimici”: „ca să nu fii nimicit” (19:15, 17) — avertizarea îngerilor; același verb din rugăciunea lui Avraam (18:23)."
    },
@@ -4006,7 +4006,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: capitolul e dialog: Lot către oaspeți (19:2, 7–8), oaspeții către Lot (19:12–13, 15, 17, 21–22), fiicele între ele (19:31–34).",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -4022,7 +4022,7 @@ window.CHAPTER_DATA = [
     "pos": "particulă",
     "greek": "δέομαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "'I pray', 'now', sau 'then'; added mostly a verbs (in Imperative sau Future), sau a interjections, occasionally a adverb sau conjunction.",
+    "def_ro": "rogu-te, te rog — cuvânt de rugăminte.",
     "greek_def_ro": "δέομαι (deomai) — a cere, a ruga („mă rog”).",
     "dict_ro": "Na, „rogu-te”: „nu, Stăpâne, rogu-Te” (19:18, 19–20) — Lot roagă încă o dată; cuvântul înmoaie cererea."
    },
@@ -4038,7 +4038,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "Κύριε",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "domn (folosit ca proper nume al dumnezeu numai).",
+    "def_ro": "Stăpâne — titlu dat lui Dumnezeu.",
     "greek_def_ro": "κύριος (kyrios) — Domn (la vocativ: „Doamne”).",
     "dict_ro": "Adonai, „Stăpâne”: „nu așa, Stăpâne” (19:18) — Lot se adresează cu „Adonai” (cu vocalizarea sfântă) unuia dintre îngeri, în care vorbește Dumnezeu; Septuaginta spune κύριε."
    },
@@ -4142,7 +4142,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εὗρεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a veni forth a, adică appear sau exist; transitively, a attain, adică find sau acquire; figurat, a occur, meet sau fi present.",
+    "def_ro": "propriu-zis, a veni forth a.",
     "dict_ro": "Matsa, „a găsi”: orbii nu „găsesc” ușa (19:11); Lot „a aflat har” (19:19) — cei care caută intrarea nu o găsesc, cel ce cere har îl găsește.",
     "greek_def_ro": "εὑρίσκω (heurisko) — a găsi."
    },
@@ -4158,7 +4158,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἔλεος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "graciousness, adică subjective (kindness, favor) sau objective (beauty).",
+    "def_ro": "har, bunăvoință.",
     "dict_ro": "Chen, „har, bunăvoință”: „robul tău a aflat har în ochii Tăi” (19:19) — Lot cere har, ca Avraam la 18:3.",
     "greek_def_ro": "ἔλεος (eleos) — milă, îndurare."
    },
@@ -4174,7 +4174,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "ἐναντίον σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "eye (literal sau figurat); de analogy, fountain (ca eye al landscape).",
+    "def_ro": "ochi; și, la figurat, izvor, ochiul pământului.",
     "greek_def_ro": "ἐναντίον (enantion) — înaintea; „înaintea Ta”.",
     "dict_ro": "Ayin, „ochi”: „în ochii voștri” (19:8) și „în ochii ginerilor lui” (19:14): ceea ce vede mulțimea sau ginerii ca fiind bine sau de glumă."
    },
@@ -4190,7 +4190,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐμεγάλυνας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fi (causatively face) large (in various senses, ca in trup, mind, estate sau honor, de asemenea in pride).",
+    "def_ro": "a face mare, a mări.",
     "greek_def_ro": "μεγαλύνω (megalyno) — a mări („ai mărit”).",
     "dict_ro": "Gadal, „a mări”: „ai mărit îndurarea Ta” (19:19) — Lot recunoaște mărimea cruțării; Septuaginta spune ἐμεγάλυνας."
    },
@@ -4206,7 +4206,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὴν δικαιοσύνην σου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "kindness; de implicație (towards dumnezeu) piety; rarely (de opposition) reproof, sau (subject.) beauty.",
+    "def_ro": "bunăvoință, îndurare.",
     "greek_def_ro": "δικαιοσύνη (dikaiosyne) — dreptate; „dreptatea ta”.",
     "dict_ro": "Chesed, „bunăvoință, îndurare”: „îndurarea Ta” (19:19) — cuvântul legământului; Lot primește îndurare fără să fie în legământ; Septuaginta spune ἔλεος."
    },
@@ -4222,7 +4222,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ποιεῖς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a face sau face, in broadest sens si widest application.",
+    "def_ro": "a face sau face.",
     "greek_def_ro": "ποιέω (poieo) — a face („faci”).",
     "dict_ro": "Asah, „a face”: „faceți-le ce e bine în ochii voștri” (19:8), „nu faceți nimic acestor oameni” (19:8): Lot pune în cumpănă două fapte, ale mulțimii față de fiice sau de oaspeți."
    },
@@ -4270,7 +4270,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "δυνήσομαι διασωθῆναι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fi able, literal (can, could) sau morally (may, might).",
+    "def_ro": "a putea.",
     "greek_def_ro": "δύναμαι (dynamai), διασῴζω (diasozo) — „voi putea să mă salvez”.",
     "dict_ro": "Yakol, „a putea”: „nu pot scăpa la munte” (19:19) și „nu pot face nimic până ajungi acolo” (19:22): puterea omului și puterea îngerului, amândouă limitate."
    },
@@ -4286,7 +4286,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὰ κακὰ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "bad sau (ca substantiv) rau (natural sau moral).",
+    "def_ro": "rău, nenorocire, răutate.",
     "greek_def_ro": "κακός (kakos) — rău (la plural: „relele”).",
     "dict_ro": "Ra, „rău”: „să nu mă ajungă răul” (19:19) — frica lui Lot; același „rău” ca în „răul acesta” al mulțimii (19:7)."
    },
@@ -4318,7 +4318,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀποθάνω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a die (literal sau figurat); causatively, a kill.",
+    "def_ro": "a die (literal sau figurat); causatively.",
     "greek_def_ro": "ἀποθνῄσκω (apothnesko) — a muri („voi muri”).",
     "dict_ro": "Mut, „a muri”: „și voi muri” (19:19) — frica de moarte a lui Lot; ea explică de ce cere Țoarul."
    },
@@ -4398,7 +4398,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ἡ πόλις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cetate ( loc guarded de waking sau watch) in widest sens (chiar al mere encampment sau post).",
+    "def_ro": "cetate, oraș.",
     "greek_def_ro": "πόλις (polis) — cetate, oraș („cetatea”).",
     "dict_ro": "Ir, „cetate”: „oamenii cetății” (19:4); „toată cetatea” (19:4) — de la tineri la bătrâni, tot poporul, fără excepție; Septuaginta spune ἅπας ὁ λαός."
    },
@@ -4414,7 +4414,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "ἐγγὺς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "aproape (in loc, kindred sau timp).",
+    "def_ro": "aproape (in loc.",
     "greek_def_ro": "ἐγγύς (engys) — aproape.",
     "dict_ro": "Qarov, „aproape”: „cetatea aceasta este aproape” (19:20) — Țoarul, cetate mică din apropiere, în care Lot cere să fugă."
    },
@@ -4430,7 +4430,7 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "φυγεῖν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a flit, adică vanish departe (subside, escape; causatively, chase, impel, deliver).",
+    "def_ro": "a flit.",
     "greek_def_ro": "φεύγω (pheugo) — a fugi (la infinitiv: „a fugi”).",
     "dict_ro": "Nus, „a fugi”: „ca să fug (să scap)” (19:20) — verb al fugii; același verb ca la fuga regilor Sodomei (14:10)."
    },
@@ -4446,7 +4446,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "μικρά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "petty (în size sau number); adverbially, short (timp).",
+    "def_ro": "mic, puțin.",
     "greek_def_ro": "μικρός (mikros) — mic, mică.",
     "dict_ro": "Mits’ar, „mic, neînsemnat”: „oare nu este mică?” (19:20) — de aici numele Țoar (19:22); cetatea mică e cerută și cruțată."
    },
@@ -4462,7 +4462,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "σωθήσομαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a fi smooth, adică (de implicație) a escape (ca dacă de slipperiness); causatively, a release sau rescue; in special, a aduce forth tânăr, emit sparks.",
+    "def_ro": "a scăpa, a fugi spre un loc sigur.",
     "greek_def_ro": "σῴζω (sozo) — a salva; la pasiv, „voi fi salvat”.",
     "dict_ro": "Malat, „a scăpa, a fugi”: „fugi (scapă) pentru sufletul tău” (19:17, 19–20, 22) — porunca îngerilor; verbul se aude de patru ori în capitol."
    },
@@ -4478,7 +4478,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv",
     "greek": "μικρά",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "petty (în size sau number); adverbially, short (timp).",
+    "def_ro": "mic, puțin.",
     "greek_def_ro": "μικρός (mikros) — mic, mică.",
     "dict_ro": "Mits’ar, „mic, neînsemnat”: „oare nu este mică?” (19:20) — de aici numele Țoar (19:22); cetatea mică e cerută și cruțată."
    },
@@ -4602,7 +4602,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: capitolul e dialog: Lot către oaspeți (19:2, 7–8), oaspeții către Lot (19:12–13, 15, 17, 21–22), fiicele între ele (19:31–34).",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -4634,7 +4634,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ῥήματι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cuvânt; de implicație, matter (ca spoken al) sau lucru; adverbially, cauză.",
+    "def_ro": "cuvânt; de implicație.",
     "greek_def_ro": "ῥῆμα (rhema) — cuvânt, lucru (la dativ: „în privința lucrului”).",
     "dict_ro": "Davar, „cuvânt, lucru”: „și pentru lucrul acesta” (19:21) — Dumnezeu primește ceea ce a cerut Lot, cruțarea Țoarului."
    },
@@ -4650,7 +4650,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "καταστρέψαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a întoarce despre sau peste; de implicație, a change, overturn, return, pervert.",
+    "def_ro": "a întoarce despre sau peste; de implicație.",
     "greek_def_ro": "καταστρέφω (katastrepho) — a nimici, a răsturna („a nimici”).",
     "dict_ro": "Hafakh, „a răsturna”: „să nu răstorn cetatea” (19:21, 25, 29) — verbul răsturnării Sodomei (19:25, 29); a răsturna e și a schimba."
    },
@@ -4666,7 +4666,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν πόλιν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cetate ( loc guarded de waking sau watch) in widest sens (chiar al mere encampment sau post).",
+    "def_ro": "cetate, oraș.",
     "greek_def_ro": "πόλις (polis) — cetate, oraș (la acuzativ: „cetatea”).",
     "dict_ro": "Ir, „cetate”: „oamenii cetății” (19:4); „toată cetatea” (19:4) — de la tineri la bătrâni, tot poporul, fără excepție; Septuaginta spune ἅπας ὁ λαός."
    },
@@ -4682,7 +4682,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐλάλησας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "poate propriu-zis, a arrange; dar folosit figurat (al words), a vorbi; rarely (in destructive sens) a subdue.",
+    "def_ro": "poate propriu-zis.",
     "greek_def_ro": "λαλέω (laleo) — a vorbi („ai vorbit”).",
     "dict_ro": "Dibber, „a vorbi”: Lot „a vorbit ginerilor lui” (19:14); ginerii nu-l cred."
    },
@@ -4759,7 +4759,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "σπεῦσον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a fi liquid sau flow easily, adică (de implicație); a hurry (in bun sau bad sens); adesea folosit (cu another verb) adverbially, promptly.",
+    "def_ro": "a se grăbi, a face repede.",
     "greek_def_ro": "σπεύδω (speudo) — a se grăbi („grăbește-te”).",
     "dict_ro": "Mahar, „a se grăbi”: „grăbește-te, scapă acolo” (19:22) — urgența mântuirii lui Lot; îngerul nu poate lucra până la sosirea lui."
    },
@@ -4775,7 +4775,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, imperativ",
     "greek": "σωθῆναι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a fi smooth, adică (de implicație) a escape (ca dacă de slipperiness); causatively, a release sau rescue; in special, a aduce forth tânăr, emit sparks.",
+    "def_ro": "a scăpa, a fugi spre un loc sigur.",
     "greek_def_ro": "σῴζω (sozo) — a salva; la pasiv, „a fi salvat”.",
     "dict_ro": "Malat, „a scăpa, a fugi”: „fugi (scapă) pentru sufletul tău” (19:17, 19–20, 22) — porunca îngerilor; verbul se aude de patru ori în capitol."
    },
@@ -4791,7 +4791,7 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "δυνήσομαι ποιῆσαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fi able, literal (can, could) sau morally (may, might).",
+    "def_ro": "a putea.",
     "greek_def_ro": "δύναμαι (dynamai), ποιέω (poieo) — „voi putea să fac”.",
     "dict_ro": "Yakol, „a putea”: „nu pot scăpa la munte” (19:19) și „nu pot face nimic până ajungi acolo” (19:22): puterea omului și puterea îngerului, amândouă limitate."
    },
@@ -4823,7 +4823,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκάλεσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a call afară a (adică propriu-zis, address de nume, dar folosit in wide variety al applications).",
+    "def_ro": "a call afară a (adică propriu-zis.",
     "greek_def_ro": "καλέω (kaleo) — a chema, a numi.",
     "dict_ro": "Qara, „a chema”: „au chemat pe Lot” (19:5); cetatea strigă la Lot; Lot „a numit” cetatea mică „Țoar” (19:22)."
    },
@@ -4839,7 +4839,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὸ ὄνομα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "appellation, ca mark sau memorial al individuality; de implicație honor, authority, character.",
+    "def_ro": "nume; și ceea ce face un om cunoscut: renume, cinste.",
     "greek_def_ro": "ὄνομα (onoma) — nume.",
     "dict_ro": "Shem, „nume”: „de aceea cetatea s-a numit Țoar” (19:22) și „a pus numele Moab” (19:37), „Ben-Ami” (19:38): trei nume puse de oameni și de întâmplări."
    },
@@ -4855,7 +4855,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σηγωρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tsoar, loc East al Jordan.",
+    "def_ro": "Țoar — cetate mică la sud-est de Marea Moartă; numele înseamnă „mic”.",
     "greek_def_ro": "Σηγωρ (Segor) — Țoar, nume propriu.",
     "dict_ro": "Țoar (Tsoar), „mic” (Easton): cetate la sud-est de Marea Moartă, numită inițial Bela (14:2); cruțată la cererea lui Lot (19:20–22), el nu rămâne în ea, ci se mută la munte (19:30)."
    },
@@ -4932,7 +4932,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "ὁ ἥλιος",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sun; de implicație, east; figurat, ray, adică (architectural) notched battlement.",
+    "def_ro": "sun; de implicație.",
     "greek_def_ro": "ἥλιος (helios) — soare („soarele”).",
     "dict_ro": "Shemesh, „soare”: „soarele răsărise” (19:23) când Lot a ajuns în Țoar; judecata începe după ce el e în siguranță."
    },
@@ -4948,7 +4948,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξῆλθεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge (causatively, aduce) afară, in mare variety al applications, literal si figurat, direct si proxim.",
+    "def_ro": "a merge (causatively, aduce) afară.",
     "greek_def_ro": "ἐξέρχομαι (exerchomai) — a ieși.",
     "dict_ro": "Yatsa, „a ieși”: „scoate-i la noi” (19:5), Lot „a ieșit” la ei (19:6) și, în fine, îngerii „l-au scos” din cetate (19:16–17); verbul face din capitol o mișcare de ieșire."
    },
@@ -4964,7 +4964,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν γῆν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământ (la large, sau partitively țară).",
+    "def_ro": "pământ, țară.",
     "greek_def_ro": "γῆ (ge) — pământ, țară.",
     "dict_ro": "Erets, „pământ”: Lot se prosternează „la pământ” (19:1); capitolul vorbește și de „țarina” păstrată pentru neamuri (19:28, 31) și de „țara” rămasă fără bărbați (19:31)."
    },
@@ -4996,7 +4996,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἰσῆλθεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "def_ro": "a veni, a intra; despre soare, a apune.",
     "greek_def_ro": "εἰσέρχομαι (eiserchomai) — a intra („a intrat”).",
     "dict_ro": "Bo, „a veni, a intra”: îngerii „au ajuns la Sodoma” (19:1); Lot îi face să „intre” în casă (19:3); oamenii cetății vor să-i „scoată” (19:5); verbul urmărește drumul oaspeților de la poartă la casă."
    },
@@ -5012,7 +5012,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σηγωρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tsoar, loc East al Jordan.",
+    "def_ro": "Țoar — cetate mică la sud-est de Marea Moartă; numele înseamnă „mic”.",
     "greek_def_ro": "Σηγωρ (Segor) — Țoar, nume propriu.",
     "dict_ro": "Țoar (Tsoar), „mic” (Easton): cetate la sud-est de Marea Moartă, numită inițial Bela (14:2); cruțată la cererea lui Lot (19:20–22), el nu rămâne în ea, ci se mută la munte (19:30)."
    },
@@ -5107,7 +5107,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σοδομα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sedom, loc aproape Dead mare.",
+    "def_ro": "Sodoma — cetate din valea Sidim.",
     "greek_def_ro": "Σόδομα (Sodoma) — Sodoma, nume propriu.",
     "dict_ro": "Sodoma (Sedom), „arsă” (Easton): cetate din valea Sidim; capitolul 19 descrie nimicirea ei prin foc și pucioasă (19:24–25, 28), după ce îngerii au scos de acolo pe Lot."
    },
@@ -5123,7 +5123,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Γομορρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "amorah, loc în Palestine.",
+    "def_ro": "Gomora — cetate din valea Sidim.",
     "greek_def_ro": "Γόμορρα (Gomorra) — Gomora, nume propriu.",
     "dict_ro": "Gomora (Amorah), „înecare” (Easton): cetatea gemenă a Sodomei (19:24, 28), nimicită cu ea."
    },
@@ -5139,7 +5139,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "θεῖον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, cypress-resin; de analogy, sulphur (ca equally inflammable).",
+    "def_ro": "pucioasă, sulf.",
     "greek_def_ro": "θεῖον (theion) — pucioasă, sulf.",
     "dict_ro": "Gofrit, „pucioasă”: „pucioasă și foc” (19:24) — sulf; mai târziu, simbol al judecății dumnezeiești (Iov 18:15; Isaia 30:33)."
    },
@@ -5187,7 +5187,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τοῦ οὐρανοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sky (ca aloft; dual poate alluding a visible arch in care clouds move, ca well ca a higher ether unde celestial bodies revolve).",
+    "def_ro": "cer, ceruri.",
     "dict_ro": "Shamayim, „ceruri”: „foc din ceruri” (19:24) — pucioasa și focul vin „de la DOMNUL din ceruri”; Septuaginta spune ἐκ τοῦ οὐρανοῦ.",
     "greek_def_ro": "οὐρανός (ouranos) — cer (la genitiv: „al cerului”)."
    },
@@ -5331,7 +5331,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κατέστρεψεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a întoarce despre sau peste; de implicație, a change, overturn, return, pervert.",
+    "def_ro": "a întoarce despre sau peste; de implicație.",
     "greek_def_ro": "καταστρέφω (katastrepho) — a răsturna („a răsturnat”).",
     "dict_ro": "Hafakh, „a răsturna”: „să nu răstorn cetatea” (19:21, 25, 29) — verbul răsturnării Sodomei (19:25, 29); a răsturna e și a schimba."
    },
@@ -5347,7 +5347,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὰς πόλεις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cetate ( loc guarded de waking sau watch) in widest sens (chiar al mere encampment sau post).",
+    "def_ro": "cetate, oraș.",
     "greek_def_ro": "πόλις (polis) — cetate (la acuzativ plural: „cetățile”).",
     "dict_ro": "Ir, „cetate”: „oamenii cetății” (19:4); „toată cetatea” (19:4) — de la tineri la bătrâni, tot poporul, fără excepție; Septuaginta spune ἅπας ὁ λαός."
    },
@@ -5363,7 +5363,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὴν περίοικον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "circle, adică (de implicație) circumjacent tract sau region, in special Ghor sau valley al Jordan; de asemenea (round) loaf; de asemenea talent (sau large [round] coin).",
+    "def_ro": "câmpie rotundă, ținut larg.",
     "greek_def_ro": "περίοικος (perioikos) — din împrejurimi; „ținutul dimprejur”.",
     "dict_ro": "Kikkar, „câmpie rotundă”: „în toată câmpia” (19:17, 25, 28–29) — câmpia Iordanului cu cetățile ei; Lot o alesese după aparență (13:10)."
    },
@@ -5379,7 +5379,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, participiu, stare construită",
     "greek": "τοὺς κατοικοῦντας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a sit jos (in special ca judecător. in ambush, in quiet); de implicație, a dwell, a remain; causatively, a settle, a marry.",
+    "def_ro": "a sta, a locui, a rămâne; la forma cauzativă, a așeza.",
     "greek_def_ro": "κατοικέω (katoikeo) — a locui; la participiu, „cei ce locuiau”.",
     "dict_ro": "Yashav, „a ședea, a locui”: Lot „ședea la poarta Sodomei” (19:1) și „a locuit în peșteră” (19:30): două feluri de ședere, în cetate și în munte."
    },
@@ -5395,7 +5395,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὰς πόλεις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cetate ( loc guarded de waking sau watch) in widest sens (chiar al mere encampment sau post).",
+    "def_ro": "cetate, oraș.",
     "greek_def_ro": "πόλις (polis) — cetate (la acuzativ plural: „cetățile”).",
     "dict_ro": "Ir, „cetate”: „oamenii cetății” (19:4); „toată cetatea” (19:4) — de la tineri la bătrâni, tot poporul, fără excepție; Septuaginta spune ἅπας ὁ λαός."
    },
@@ -5411,7 +5411,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τὰ ἀνατέλλοντα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sprout (de obicei concrete), literal sau figurat.",
+    "def_ro": "ce răsare, vegetație.",
     "greek_def_ro": "ἀνατέλλω (anatello) — a răsări; la participiu, „cele ce răsar”.",
     "dict_ro": "Tsemach, „vegetație, ce răsare”: „toată vegetația pământului” (19:25) — nimicirea cuprinde chiar roada pământului; Septuaginta spune τὰ ἀνατέλλοντα."
    },
@@ -5427,7 +5427,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῆς γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "soil (de la al sau general redness).",
+    "def_ro": "pământ, glie.",
     "greek_def_ro": "γῆ (ge) — pământ, țară.",
     "dict_ro": "Adamah, „pământ”: „vegetația pământului” (19:25) — pământul de lucru e lovit odată cu cetățile; cuvântul vine din 2:7."
    },
@@ -5510,7 +5510,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "femeie, soție; despre animale, „femela”.",
     "greek_def_ro": "γυνή (gyne) — femeie.",
-    "dict_ro": "Ishah, „femeie, soție”: „ia pe soția ta” (19:15–16), „soția lui s-a uitat înapoi” (19:26): soția lui Lot, necitată pe nume, se uită înapoi."
+    "dict_ro": "Ishah, „femeie, soție”: „ia pe soția ta” (19:15–16), „soția lui s-a uitat înapoi” (19:26): soția lui Lot, fără să fie numită, se uită înapoi."
    },
    {
     "t": " lui [Lot] s-a "
@@ -5524,7 +5524,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπέβλεψεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a scan, adică look intently la; de implicație, a regard cu pleasure, favor sau care.",
+    "def_ro": "a privi cu luare-aminte.",
     "greek_def_ro": "ἐπιβλέπω (epiblepo) — a privi („a privit”).",
     "dict_ro": "Nabat, „a privi”: „nu te uita înapoi” (19:17) — porunca de a nu privi; soția lui Lot nu o împlinește (19:26)."
    },
@@ -5540,7 +5540,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "εἰς τὰ ὀπίσω",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, hind parte; generally folosit ca adverb sau conjunction, după (in various senses).",
+    "def_ro": "după, în urma cuiva; și spatele, partea din urmă.",
     "greek_def_ro": "ὀπίσω (opiso) — înapoi („înapoi”).",
     "dict_ro": "Achar, „după, în urma”: „în urma ta” (19:17) — privirea înapoi; „și soția lui s-a uitat din urma lui” (19:26)."
    },
@@ -5572,7 +5572,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "στήλη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ceva stationary, adică prefect, military post, statue.",
+    "def_ro": "stâlp, ceva înfipt.",
     "greek_def_ro": "στήλη (stele) — stâlp.",
     "dict_ro": "Netsiv, „stâlp, ceva înfipt”: „un stâlp de sare” (19:26) — cuvântul rar; soția lui Lot a rămas pe loc, ca un stâlp înfipt."
    },
@@ -5588,7 +5588,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἁλός",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, powder, adică (in special) salt (ca easily pulverized si dissolved).",
+    "def_ro": "sare; și, la figurat, pustiire (despre un pământ sărat).",
     "greek_def_ro": "ἅλς (hals) — sare (la genitiv: „de sare”).",
     "dict_ro": "Melach, „sare”: „stâlp de sare” (19:26) — sarea e aici semn al pustiirii; Marea Sărată e aproape (14:3)."
    },
@@ -5677,7 +5677,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam, nume propriu.",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: Avraam „s-a sculat dis-de-dimineață” (19:27) și a privit spre Sodoma, la locul unde stătuse înaintea DOMNULUI; el vede fumul (19:28) și e amintit de Dumnezeu (19:29)."
    },
@@ -5693,7 +5693,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ὤρθρισεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "literal, a load sus (pe înapoi al om sau beast), adică a start early in morning.",
+    "def_ro": "a se scula devreme, a se trezi.",
     "greek_def_ro": "ὀρθρίζω (orthrizo) — a se scula de dimineață („s-a sculat dis-de-dimineață”).",
     "dict_ro": "Shakam, „a se scula devreme”: „vă veți scula devreme” (19:2); verbul revine la Avraam, care „s-a sculat dis-de-dimineață” (19:27)."
    },
@@ -5709,7 +5709,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "τὸ πρωὶ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, dawn (ca break al zi); generally, morning.",
+    "def_ro": "dimineață, zori; spărtura zilei.",
     "greek_def_ro": "πρωΐ (proi) — dimineață („dimineața”).",
     "dict_ro": "Boqer, „dimineață”: „dis-de-dimineață” (19:27) — Avraam se scoală devreme, ca la 22:3; dimineața judecății."
    },
@@ -5725,7 +5725,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὸν τόπον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, standing, adică spot; dar folosit widely al locality (general sau specific); de asemenea (figurat) al condition (al trup sau mind).",
+    "def_ro": "loc, locul unde stai; și stare, rând.",
     "dict_ro": "Maqom, „loc”: „din locul acesta” (19:12–14, 27) — Sodoma ca loc de nimicit; Avraam stă „la locul unde stătuse înaintea DOMNULUI” (19:27).",
     "greek_def_ro": "τόπος (topos) — loc (la acuzativ)."
    },
@@ -5741,7 +5741,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἱστήκει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a sta, in various relations (literal si figurative, intransitive si transitive).",
+    "def_ro": "a sta.",
     "greek_def_ro": "ἵστημι (histemi) — a sta („stătuse”).",
     "dict_ro": "Amad, „a sta”: „să nu te oprești în toată câmpia” (19:17) — nu zăbovi; Avraam „stătea înaintea DOMNULUI” (19:27)."
    },
@@ -5829,7 +5829,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπέβλεψεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a lean afară (al window), adică (de implicație) peep sau gaze (passively, fi spectacle).",
+    "def_ro": "a privi, a căuta cu privirea.",
     "greek_def_ro": "ἐπιβλέπω (epiblepo) — a privi („a privit”).",
     "dict_ro": "Shaqaf, „a privi de sus”: Avraam „a privit” spre Sodoma (19:28); același verb arăta privirea oaspeților din 18:16."
    },
@@ -5845,7 +5845,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σοδομων",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sedom, loc aproape Dead mare.",
+    "def_ro": "Sodoma — cetate din valea Sidim.",
     "greek_def_ro": "Σόδομα (Sodoma) — Sodoma, nume propriu (la genitiv).",
     "dict_ro": "Sodoma (Sedom), „arsă” (Easton): cetate din valea Sidim; capitolul 19 descrie nimicirea ei prin foc și pucioasă (19:24–25, 28), după ce îngerii au scos de acolo pe Lot."
    },
@@ -5861,7 +5861,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Γομορρας",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "amorah, loc în Palestine.",
+    "def_ro": "Gomora — cetate din valea Sidim.",
     "greek_def_ro": "Γόμορρα (Gomorra) — Gomora, nume propriu (la genitiv: „a Gomorei”).",
     "dict_ro": "Gomora (Amorah), „înecare” (Easton): cetatea gemenă a Sodomei (19:24, 28), nimicită cu ea."
    },
@@ -5877,7 +5877,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "πρόσωπον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "face (ca parte acela turns); folosit in mare variety al applications (literal si figurat); de asemenea (cu prepositional prefix) ca preposition (înainte, etc.).",
+    "def_ro": "față, chip; ce se întoarce spre cineva.",
     "greek_def_ro": "πρόσωπον (prosopon) — față.",
     "dict_ro": "Panim, „față”: „spre fața Sodomei” (19:28) — Avraam privește „peste fața” cetăților; Septuaginta spune ἐπὶ πρόσωπον."
    },
@@ -5893,7 +5893,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῆς γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământ (la large, sau partitively țară).",
+    "def_ro": "pământ, țară.",
     "greek_def_ro": "γῆ (ge) — pământ, țară.",
     "dict_ro": "Erets, „pământ”: Lot se prosternează „la pământ” (19:1); capitolul vorbește și de „țarina” păstrată pentru neamuri (19:28, 31) și de „țara” rămasă fără bărbați (19:31)."
    },
@@ -5909,7 +5909,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῆς περιχώρου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "circle, adică (de implicație) circumjacent tract sau region, in special Ghor sau valley al Jordan; de asemenea (round) loaf; de asemenea talent (sau large [round] coin).",
+    "def_ro": "câmpie rotundă, ținut larg.",
     "greek_def_ro": "περίχωρος (perichoros) — împrejurimi (la genitiv: „a ținutului dimprejur”).",
     "dict_ro": "Kikkar, „câmpie rotundă”: „în toată câmpia” (19:17, 25, 28–29) — câmpia Iordanului cu cetățile ei; Lot o alesese după aparență (13:10)."
    },
@@ -5925,7 +5925,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶδεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a vedea, literal sau figurat (in numerous applications, direct si implied, transitive, intransitive si causative).",
+    "def_ro": "a vedea.",
     "dict_ro": "Raah, „a vedea”: Lot „a văzut” pe îngeri (19:1); soarta cetății este văzută de Avraam (19:28); soția se uită înapoi (19:26) — privirea cea bună și cea nepotrivită.",
     "greek_def_ro": "ὁράω (horao) — a vedea."
    },
@@ -5957,7 +5957,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῆς γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământ (la large, sau partitively țară).",
+    "def_ro": "pământ, țară.",
     "greek_def_ro": "γῆ (ge) — pământ, țară.",
     "dict_ro": "Erets, „pământ”: Lot se prosternează „la pământ” (19:1); capitolul vorbește și de „țarina” păstrată pentru neamuri (19:28, 31) și de „țara” rămasă fără bărbați (19:31)."
    },
@@ -5973,7 +5973,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀνέβαινεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a ascend, intransitively (fi high) sau actively (mount); folosit in mare variety al senses, primary si secondary, literal si figurative.",
+    "def_ro": "a urca, a se sui.",
     "greek_def_ro": "ἀναβαίνω (anabaino) — a se sui.",
     "dict_ro": "Alah, „a urca”: „fumul se ridica” (19:28) ca fumul cuptorului; verbul spune urcarea fumului."
    },
@@ -6005,7 +6005,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "καμίνου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "smelting furnace (ca reducing metals).",
+    "def_ro": "cuptor, furnal.",
     "greek_def_ro": "κάμινος (kaminos) — cuptor (la genitiv: „de cuptor”).",
     "dict_ro": "Kivshan, „cuptor”: „ca fumul unui cuptor” (19:28) — cuptor de olar sau de var; apare și la Exod 19:18."
    },
@@ -6097,7 +6097,7 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "ἐκτρίψαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a decay, adică (causatively) ruin (literal sau figurat).",
+    "def_ro": "a nimici, a strica.",
     "greek_def_ro": "ἐκτρίβω (ektribo) — a nimici (la infinitiv: „a nimici”).",
     "dict_ro": "Shachat, „a distruge”: „noi nimicim locul acesta” (19:13, 14) — verbul din 6:13, 17 (potopul); Dumnezeu nimicește aici Sodoma, cum nimicise pământul odinioară."
    },
@@ -6129,7 +6129,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "τὰς πόλεις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cetate ( loc guarded de waking sau watch) in widest sens (chiar al mere encampment sau post).",
+    "def_ro": "cetate, oraș.",
     "greek_def_ro": "πόλις (polis) — cetate (la acuzativ plural: „cetățile”).",
     "dict_ro": "Ir, „cetate”: „oamenii cetății” (19:4); „toată cetatea” (19:4) — de la tineri la bătrâni, tot poporul, fără excepție; Septuaginta spune ἅπας ὁ λαός."
    },
@@ -6145,7 +6145,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῆς περιοίκου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "circle, adică (de implicație) circumjacent tract sau region, in special Ghor sau valley al Jordan; de asemenea (round) loaf; de asemenea talent (sau large [round] coin).",
+    "def_ro": "câmpie rotundă, ținut larg.",
     "greek_def_ro": "περίοικος (perioikos) — din împrejurimi (la genitiv).",
     "dict_ro": "Kikkar, „câmpie rotundă”: „în toată câmpia” (19:17, 25, 28–29) — câmpia Iordanului cu cetățile ei; Lot o alesese după aparență (13:10)."
    },
@@ -6193,7 +6193,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "τοῦ Αβρααμ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "abraham, later nume al Abram.",
+    "def_ro": "Avraam — noul nume al lui Avram, „tatăl unei mulțimi”.",
     "greek_def_ro": "Αβρααμ (Abraam) — Avraam (la genitiv: „al lui Avraam”).",
     "dict_ro": "Avraham (Avraham), „tată al unei mulțimi”: Avraam „s-a sculat dis-de-dimineață” (19:27) și a privit spre Sodoma, la locul unde stătuse înaintea DOMNULUI; el vede fumul (19:28) și e amintit de Dumnezeu (19:29)."
    },
@@ -6209,7 +6209,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξαπέστειλεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a send departe, pentru, sau afară (in mare variety al applications).",
+    "def_ro": "a trimite, a întinde.",
     "greek_def_ro": "ἐκτείνω (ekteino) — a întinde.",
     "dict_ro": "Shalach, „a trimite, a întinde”: oaspeții „și-au întins mâna” (19:10) și l-au tras pe Lot înăuntru; verbul spune întinderea mâinii."
    },
@@ -6241,7 +6241,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "ἐκ μέσου",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "bisection, adică (de implicație) centre.",
+    "def_ro": "mijloc, centru.",
     "dict_ro": "Tavekh, „mijloc”: „din mijlocul prăpădului” (19:29) — Lot scos din mijlocul nimicirii.",
     "greek_def_ro": "μέσος (mesos) — mijloc; „din mijlocul”."
    },
@@ -6273,7 +6273,7 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "καταστρέψαι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a întoarce despre sau peste; de implicație, a change, overturn, return, pervert.",
+    "def_ro": "a întoarce despre sau peste; de implicație.",
     "greek_def_ro": "καταστρέφω (katastrepho) — a nimici, a răsturna („a nimici”).",
     "dict_ro": "Hafakh, „a răsturna”: „să nu răstorn cetatea” (19:21, 25, 29) — verbul răsturnării Sodomei (19:25, 29); a răsturna e și a schimba."
    },
@@ -6289,7 +6289,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τὰς πόλεις",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "cetate ( loc guarded de waking sau watch) in widest sens (chiar al mere encampment sau post).",
+    "def_ro": "cetate, oraș.",
     "greek_def_ro": "πόλις (polis) — cetate (la acuzativ plural: „cetățile”).",
     "dict_ro": "Ir, „cetate”: „oamenii cetății” (19:4); „toată cetatea” (19:4) — de la tineri la bătrâni, tot poporul, fără excepție; Septuaginta spune ἅπας ὁ λαός."
    },
@@ -6305,7 +6305,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "κατῴκει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a sit jos (in special ca judecător. in ambush, in quiet); de implicație, a dwell, a remain; causatively, a settle, a marry.",
+    "def_ro": "a sta, a locui, a rămâne; la forma cauzativă, a așeza.",
     "greek_def_ro": "κατοικέω (katoikeo) — a locui („locuia”).",
     "dict_ro": "Yashav, „a ședea, a locui”: Lot „ședea la poarta Sodomei” (19:1) și „a locuit în peșteră” (19:30): două feluri de ședere, în cetate și în munte."
    },
@@ -6433,7 +6433,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀνέβη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a ascend, intransitively (fi high) sau actively (mount); folosit in mare variety al senses, primary si secondary, literal si figurative.",
+    "def_ro": "a urca, a se sui.",
     "greek_def_ro": "ἀναβαίνω (anabaino) — a urca („a urcat”).",
     "dict_ro": "Alah, „a urca”: „fumul se ridica” (19:28) ca fumul cuptorului; verbul spune urcarea fumului."
    },
@@ -6449,7 +6449,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σηγωρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tsoar, loc East al Jordan.",
+    "def_ro": "Țoar — cetate mică la sud-est de Marea Moartă; numele înseamnă „mic”.",
     "greek_def_ro": "Σηγωρ (Segor) — Țoar, nume propriu.",
     "dict_ro": "Țoar (Tsoar), „mic” (Easton): cetate la sud-est de Marea Moartă, numită inițial Bela (14:2); cruțată la cererea lui Lot (19:20–22), el nu rămâne în ea, ci se mută la munte (19:30)."
    },
@@ -6465,7 +6465,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκάθητο",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a sit jos (in special ca judecător. in ambush, in quiet); de implicație, a dwell, a remain; causatively, a settle, a marry.",
+    "def_ro": "a sta, a locui, a rămâne; la forma cauzativă, a așeza.",
     "greek_def_ro": "κάθημαι (kathemai) — a ședea („ședea”).",
     "dict_ro": "Yashav, „a ședea, a locui”: Lot „ședea la poarta Sodomei” (19:1) și „a locuit în peșteră” (19:30): două feluri de ședere, în cetate și în munte."
    },
@@ -6481,7 +6481,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῷ ὄρει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "munte sau range al hills (sometimes folosit figurat).",
+    "def_ro": "munte, deal.",
     "greek_def_ro": "ὄρος (oros) — munte (la dativ: „în munte”).",
     "dict_ro": "Har, „munte”: „scapă la munte” (19:17, 19, 30) — îngerii îl trimit la munte; Lot se teme de el (19:19) și cere Țoarul; la sfârșit locuiește în munte (19:30)."
    },
@@ -6497,7 +6497,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "θυγατέρες αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiica (folosit in acelasi wide sens ca alt terms al relationship, literal si figurat).",
+    "def_ro": "fiică; și, în sens larg, locuitoare a unui loc.",
     "greek_def_ro": "θυγάτηρ (thygater) — fiică; „fiicele lui”.",
     "dict_ro": "Bat, „fiică”: „două fiice” (19:8, 12, 14–16, 30–36): Lot le oferă mulțimii într-un moment de disperare; textul nu laudă oferta, ci arată cât de adânc a căzut cetatea și cât a putut Lot să cedeze."
    },
@@ -6513,7 +6513,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐφοβήθη",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fear; morally a revere; causatively a frighten.",
+    "def_ro": "a se teme; a cinsti cu temere.",
     "greek_def_ro": "φοβέομαι (phobeomai) — a se teme („s-a temut”).",
     "dict_ro": "Yare, „a se teme”: „Lot se temea să locuiască în Țoar” (19:30) — după ce scapă, se teme și urcă la munte, în peșteră."
    },
@@ -6529,7 +6529,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Σηγωρ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "tsoar, loc East al Jordan.",
+    "def_ro": "Țoar — cetate mică la sud-est de Marea Moartă; numele înseamnă „mic”.",
     "greek_def_ro": "Σηγωρ (Segor) — Țoar, nume propriu.",
     "dict_ro": "Țoar (Tsoar), „mic” (Easton): cetate la sud-est de Marea Moartă, numită inițial Bela (14:2); cruțată la cererea lui Lot (19:20–22), el nu rămâne în ea, ci se mută la munte (19:30)."
    },
@@ -6545,7 +6545,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ᾤκησεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, a sit jos (in special ca judecător. in ambush, in quiet); de implicație, a dwell, a remain; causatively, a settle, a marry.",
+    "def_ro": "a sta, a locui, a rămâne; la forma cauzativă, a așeza.",
     "greek_def_ro": "οἰκέω (oikeō) — a locui.",
     "dict_ro": "Yashav, „a ședea, a locui”: Lot „ședea la poarta Sodomei” (19:1) și „a locuit în peșteră” (19:30): două feluri de ședere, în cetate și în munte."
    },
@@ -6662,7 +6662,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: capitolul e dialog: Lot către oaspeți (19:2, 7–8), oaspeții către Lot (19:12–13, 15, 17, 21–22), fiicele între ele (19:31–34).",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -6678,7 +6678,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv, cu articol",
     "greek": "νεωτέραν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "little; (in number) few; (in age) tânăr, (in value) ignoble.",
+    "def_ro": "mic, tânăr.",
     "greek_def_ro": "νεώτερος (neoteros) — mai tânăr (la acuzativ feminin: „cea mai tânără”).",
     "dict_ro": "Tsa’irah, „mai mică, tânără”: „cea mai tânără” (19:31, 34–35, 38) — fiica cea mică; textul nu le dă nume."
    },
@@ -6726,7 +6726,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "οὐδείς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "om ca individual sau male persoana; adesea folosit ca adjunct a mai definite term (si in such cases frequently nu expressed in translation).",
+    "def_ro": "om ca individual sau male persoana.",
     "greek_def_ro": "οὐδείς (oudeis) — nimeni.",
     "dict_ro": "Ish, „bărbat, om”: „oamenii cetății, oamenii Sodomei” (19:4) înconjoară casa; „oamenii” oaspeților (19:8, 10, 12) îl apără pe Lot; „bărbat” (19:31) lipsește în țară."
    },
@@ -6742,7 +6742,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "τῆς γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământ (la large, sau partitively țară).",
+    "def_ro": "pământ, țară.",
     "greek_def_ro": "γῆ (ge) — pământ, țară.",
     "dict_ro": "Erets, „pământ”: Lot se prosternează „la pământ” (19:1); capitolul vorbește și de „țarina” păstrată pentru neamuri (19:28, 31) și de „țara” rămasă fără bărbați (19:31)."
    },
@@ -6758,7 +6758,7 @@ window.CHAPTER_DATA = [
     "pos": "verb (infinitiv)",
     "greek": "εἰσελεύσεται",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "def_ro": "a veni, a intra; despre soare, a apune.",
     "greek_def_ro": "εἰσέρχομαι (eiserchomai) — a intra („va intra”).",
     "dict_ro": "Bo, „a veni, a intra”: îngerii „au ajuns la Sodoma” (19:1); Lot îi face să „intre” în casă (19:3); oamenii cetății vor să-i „scoată” (19:5); verbul urmărește drumul oaspeților de la poartă la casă."
    },
@@ -6774,7 +6774,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "καθήκει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "road (ca trodden); figurat, course al viață sau mode al action, adesea adverb.",
+    "def_ro": "drum, cale.",
     "greek_def_ro": "καθήκω (katheko) — a se cuveni („se cuvine”).",
     "dict_ro": "Derech, „drum”: „pe drumul vostru” (19:2) — drumul oaspeților, drumul lor spre Sodoma; Septuaginta spune εἰς τὴν ὁδὸν ὑμῶν."
    },
@@ -6806,7 +6806,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu articol",
     "greek": "τῆς γῆς",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "pământ (la large, sau partitively țară).",
+    "def_ro": "pământ, țară.",
     "greek_def_ro": "γῆ (ge) — pământ, țară.",
     "dict_ro": "Erets, „pământ”: Lot se prosternează „la pământ” (19:1); capitolul vorbește și de „țarina” păstrată pentru neamuri (19:28, 31) și de „țara” rămasă fără bărbați (19:31)."
    },
@@ -6902,7 +6902,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ποτίσωμεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a quaff, adică (causatively) a irrigate sau furnish potion a.",
+    "def_ro": "a da de băut.",
     "greek_def_ro": "ποτίζω (potizo) — a da de băut („să dăm de băut”).",
     "dict_ro": "Shaqah, „a da de băut”: „să dăm de băut tatălui nostru vin” (19:32–35) — textul nu pomenește cum Lot a băut; vinul apare și la Noe (9:21)."
    },
@@ -6950,7 +6950,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "οἶνον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vin (ca fermented); de implicație, intoxication.",
+    "def_ro": "vin, băutura din sucul fermentat al strugurilor.",
     "greek_def_ro": "οἶνος (oinos) — vin (la acuzativ).",
     "dict_ro": "Yayin, „vin”: „vin” (19:32–35) — a doua oară în Facere când vinul duce la o faptă rușinoasă (9:21–22); cele două cazuri se răspund."
    },
@@ -6982,7 +6982,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀναστήσωμεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a live, dacă literal sau figurat; causatively, a revive.",
+    "def_ro": "a trăi.",
     "greek_def_ro": "ἀνίστημι (anistemi) — a ridica („să ridicăm”).",
     "dict_ro": "Chayah, „a ține în viață”: „ca să-mi ții sufletul în viață” (19:19, 32, 34) — pentru Lot, a fi salvat; pentru fiicele lui, a păstra o sămânță în viață."
    },
@@ -6998,7 +6998,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "σπέρμα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "sămânță; figurat, rod, plant, sowing-timp, posterity.",
+    "def_ro": "sămânță; figurat, rod.",
     "greek_def_ro": "σπέρμα (sperma) — sămânță, urmaș.",
     "dict_ro": "Zera, „sămânță”: „să păstrăm sămânță de la tatăl nostru” (19:32, 34) — fiicele cred că nu mai are cine să dea urmași; textul nu aprobă gestul, ci îl arată."
    },
@@ -7086,7 +7086,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπότισαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a quaff, adică (causatively) a irrigate sau furnish potion a.",
+    "def_ro": "a da de băut.",
     "greek_def_ro": "ποτίζω (potizo) — a da de băut („au dat de băut”).",
     "dict_ro": "Shaqah, „a da de băut”: „să dăm de băut tatălui nostru vin” (19:32–35) — textul nu pomenește cum Lot a băut; vinul apare și la Noe (9:21)."
    },
@@ -7118,7 +7118,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "οἶνον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vin (ca fermented); de implicație, intoxication.",
+    "def_ro": "vin, băutura din sucul fermentat al strugurilor.",
     "greek_def_ro": "οἶνος (oinos) — vin (la acuzativ).",
     "dict_ro": "Yayin, „vin”: „vin” (19:32–35) — a doua oară în Facere când vinul duce la o faptă rușinoasă (9:21–22); cele două cazuri se răspund."
    },
@@ -7134,7 +7134,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, cu prefix",
     "greek": "τῇ νυκτὶ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "propriu-zis, twist (departe al light), adică night; figurat, adversity.",
+    "def_ro": "noapte, vremea întunericului.",
     "greek_def_ro": "νύξ (nyx) — noapte (la dativ: „în noaptea”).",
     "dict_ro": "Laila, „noapte”: „care au venit la tine în noaptea aceasta” (19:5, 33–35) — noaptea e timpul primejdiei în Sodoma și al păcatului în peșteră."
    },
@@ -7150,7 +7150,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἰσελθοῦσα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a merge sau veni (in wide variety al applications).",
+    "def_ro": "a veni, a intra; despre soare, a apune.",
     "greek_def_ro": "εἰσέρχομαι (eiserchomai) — a intra; la participiu, „intrând”.",
     "dict_ro": "Bo, „a veni, a intra”: îngerii „au ajuns la Sodoma” (19:1); Lot îi face să „intre” în casă (19:3); oamenii cetății vor să-i „scoată” (19:5); verbul urmărește drumul oaspeților de la poartă la casă."
    },
@@ -7198,7 +7198,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ᾔδει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a cunoaste (propriu-zis, a ascertain de seeing); folosit in mare variety al senses, figurat, literal, euphemistically si inferentially (including observation, care, recognition; si causatively, instruction, designation, punishment, etc.).",
+    "def_ro": "a cunoaste (propriu-zis.",
     "greek_def_ro": "οἶδα (oida) — a ști („știa”).",
     "dict_ro": "Yada, „a cunoaște”: „să-i cunoaștem” (19:5), „care n-au cunoscut bărbat” (19:8), „n-a știut” (19:33, 35) — verbul spune cunoașterea intimă, aici silnicie; capitolul îl poartă la cel mai întunecat sens al lui."
    },
@@ -7230,7 +7230,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, infinitiv, cu sufix",
     "greek": "ἀναστῆναι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a rise (in various applications, literal, figurative, intensive si causative).",
+    "def_ro": "a se ridica, a se scula.",
     "greek_def_ro": "ἀνίστημι (anistemi) — a se ridica (la infinitiv: „a se ridica”).",
     "dict_ro": "Qum, „a se scula, a se ridica”: Lot „s-a ridicat” să-i întâmpine (19:1), iar îngerii îl îndeamnă „ridică-te” (19:15), „sculați-vă, ieșiți” (19:14); fiicele nu se „ridică” (19:33–35)."
    },
@@ -7309,7 +7309,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "εἶπεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a zice (folosit cu mare latitude).",
+    "def_ro": "a zice, a spune.",
     "dict_ro": "Amar, „a spune”: capitolul e dialog: Lot către oaspeți (19:2, 7–8), oaspeții către Lot (19:12–13, 15, 17, 21–22), fiicele între ele (19:31–34).",
     "greek_def_ro": "λέγω (lego) — a spune, a vorbi."
    },
@@ -7325,7 +7325,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv, cu articol",
     "greek": "νεωτέραν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "little; (in number) few; (in age) tânăr, (in value) ignoble.",
+    "def_ro": "mic, tânăr.",
     "greek_def_ro": "νεώτερος (neoteros) — mai tânăr (la acuzativ feminin: „cea mai tânără”).",
     "dict_ro": "Tsa’irah, „mai mică, tânără”: „cea mai tânără” (19:31, 34–35, 38) — fiica cea mică; textul nu le dă nume."
    },
@@ -7373,7 +7373,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, cu sufix",
     "greek": "ποτίσωμεν αὐτὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a quaff, adică (causatively) a irrigate sau furnish potion a.",
+    "def_ro": "a da de băut.",
     "greek_def_ro": "ποτίζω (potizo) — a da de băut; „să-i dăm de băut”.",
     "dict_ro": "Shaqah, „a da de băut”: „să dăm de băut tatălui nostru vin” (19:32–35) — textul nu pomenește cum Lot a băut; vinul apare și la Noe (9:21)."
    },
@@ -7389,7 +7389,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "οἶνον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vin (ca fermented); de implicație, intoxication.",
+    "def_ro": "vin, băutura din sucul fermentat al strugurilor.",
     "greek_def_ro": "οἶνος (oinos) — vin (la acuzativ).",
     "dict_ro": "Yayin, „vin”: „vin” (19:32–35) — a doua oară în Facere când vinul duce la o faptă rușinoasă (9:21–22); cele două cazuri se răspund."
    },
@@ -7421,7 +7421,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐξαναστήσωμεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a live, dacă literal sau figurat; causatively, a revive.",
+    "def_ro": "a trăi.",
     "greek_def_ro": "ἐξανίστημι (exanistemi) — a ridica („să ridicăm”).",
     "dict_ro": "Chayah, „a ține în viață”: „ca să-mi ții sufletul în viață” (19:19, 32, 34) — pentru Lot, a fi salvat; pentru fiicele lui, a păstra o sămânță în viață."
    },
@@ -7505,7 +7505,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐπότισαν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a quaff, adică (causatively) a irrigate sau furnish potion a.",
+    "def_ro": "a da de băut.",
     "greek_def_ro": "ποτίζω (potizo) — a da de băut („au dat de băut”).",
     "dict_ro": "Shaqah, „a da de băut”: „să dăm de băut tatălui nostru vin” (19:32–35) — textul nu pomenește cum Lot a băut; vinul apare și la Noe (9:21)."
    },
@@ -7537,7 +7537,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "οἶνον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "vin (ca fermented); de implicație, intoxication.",
+    "def_ro": "vin, băutura din sucul fermentat al strugurilor.",
     "greek_def_ro": "οἶνος (oinos) — vin (la acuzativ).",
     "dict_ro": "Yayin, „vin”: „vin” (19:32–35) — a doua oară în Facere când vinul duce la o faptă rușinoasă (9:21–22); cele două cazuri se răspund."
    },
@@ -7553,7 +7553,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv, cu articol",
     "greek": "ἡ νεωτέρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "little; (in number) few; (in age) tânăr, (in value) ignoble.",
+    "def_ro": "mic, tânăr.",
     "greek_def_ro": "νεώτερος (neoteros) — mai tânăr; „cea mai tânără”.",
     "dict_ro": "Tsa’irah, „mai mică, tânără”: „cea mai tânără” (19:31, 34–35, 38) — fiica cea mică; textul nu le dă nume."
    },
@@ -7569,7 +7569,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἀναστῆναι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a rise (in various applications, literal, figurative, intensive si causative).",
+    "def_ro": "a se ridica, a se scula.",
     "greek_def_ro": "ἀνίστημι (anistemi) — a se ridica (la infinitiv: „a se ridica”).",
     "dict_ro": "Qum, „a se scula, a se ridica”: Lot „s-a ridicat” să-i întâmpine (19:1), iar îngerii îl îndeamnă „ridică-te” (19:15), „sculați-vă, ieșiți” (19:14); fiicele nu se „ridică” (19:33–35)."
    },
@@ -7601,7 +7601,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ᾔδει",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a cunoaste (propriu-zis, a ascertain de seeing); folosit in mare variety al senses, figurat, literal, euphemistically si inferentially (including observation, care, recognition; si causatively, instruction, designation, punishment, etc.).",
+    "def_ro": "a cunoaste (propriu-zis.",
     "greek_def_ro": "οἶδα (oida) — a ști („știa”).",
     "dict_ro": "Yada, „a cunoaște”: „să-i cunoaștem” (19:5), „care n-au cunoscut bărbat” (19:8), „n-a știut” (19:33, 35) — verbul spune cunoașterea intimă, aici silnicie; capitolul îl poartă la cel mai întunecat sens al lui."
    },
@@ -7617,7 +7617,7 @@ window.CHAPTER_DATA = [
     "pos": "verb, infinitiv, cu sufix",
     "greek": "ἀναστῆναι",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a rise (in various applications, literal, figurative, intensive si causative).",
+    "def_ro": "a se ridica, a se scula.",
     "greek_def_ro": "ἀνίστημι (anistemi) — a se ridica (la infinitiv: „a se ridica”).",
     "dict_ro": "Qum, „a se scula, a se ridica”: Lot „s-a ridicat” să-i întâmpine (19:1), iar îngerii îl îndeamnă „ridică-te” (19:15), „sculați-vă, ieșiți” (19:14); fiicele nu se „ridică” (19:33–35)."
    },
@@ -7685,7 +7685,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv, stare construită",
     "greek": "δύο θυγατέρες",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiica (folosit in acelasi wide sens ca alt terms al relationship, literal si figurat).",
+    "def_ro": "fiică; și, în sens larg, locuitoare a unui loc.",
     "greek_def_ro": "δύο (dyo), θυγάτηρ (thygater) — două fiice.",
     "dict_ro": "Bat, „fiică”: „două fiice” (19:8, 12, 14–16, 30–36): Lot le oferă mulțimii într-un moment de disperare; textul nu laudă oferta, ci arată cât de adânc a căzut cetatea și cât a putut Lot să cedeze."
    },
@@ -7717,7 +7717,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "συνέλαβον",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a fi (sau deveni) pregnant, conceive (literal sau figurat).",
+    "def_ro": "a fi (sau deveni) pregnant.",
     "greek_def_ro": "συλλαμβάνω (syllambano) — a zămisli („au zămislit”).",
     "dict_ro": "Harah, „a rămâne însărcinată”: „au rămas însărcinate” (19:36) — urmarea faptei din peșteră; din ele vin Moab și Amon."
    },
@@ -7817,7 +7817,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔτεκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a bear tânăr; causatively, a beget; medically, a act ca midwife; in special, a show lineage.",
+    "def_ro": "a naște.",
     "dict_ro": "Yalad, „a naște”: „a născut un fiu” (19:37–38) — fiicele nasc pe Moab și Amon; verbul unește capitolul 19 cu istoria neamurilor vecine.",
     "greek_def_ro": "τίκτω (tiktō) — a naște."
    },
@@ -7833,7 +7833,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "υἱὸν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiu (ca builder al family nume), in widest sens (al literal si figurative relationship, including grandson, subject, neam, quality sau condition, etc., (ca tată sau brother), etc.).",
+    "def_ro": "fiu; în sens larg, nepot, urmaș, membru al unui neam.",
     "greek_def_ro": "υἱός (hyios) — fiu (la acuzativ).",
     "dict_ro": "Ben, „fiu”: „fiii și fiicele tale” (19:12) — familia lui Lot; Septuaginta spune „ginerii, fiii sau fiicele”; textul lasă ambiguu dacă fiii au existat."
    },
@@ -7849,7 +7849,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκάλεσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a call afară a (adică propriu-zis, address de nume, dar folosit in wide variety al applications).",
+    "def_ro": "a call afară a (adică propriu-zis.",
     "greek_def_ro": "καλέω (kaleo) — a chema, a numi.",
     "dict_ro": "Qara, „a chema”: „au chemat pe Lot” (19:5); cetatea strigă la Lot; Lot „a numit” cetatea mică „Țoar” (19:22)."
    },
@@ -7865,7 +7865,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὸ ὄνομα αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "appellation, ca mark sau memorial al individuality; de implicație honor, authority, character.",
+    "def_ro": "nume; și ceea ce face un om cunoscut: renume, cinste.",
     "greek_def_ro": "ὄνομα (onoma) — nume.",
     "dict_ro": "Shem, „nume”: „de aceea cetatea s-a numit Țoar” (19:22) și „a pus numele Moab” (19:37), „Ben-Ami” (19:38): trei nume puse de oameni și de întâmplări."
    },
@@ -7913,7 +7913,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Μωαβιτῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "moab, incestuous fiu al Lot; de asemenea al lui territory si urmași.",
+    "def_ro": "Moab — fiul Lotului și neamul lui.",
     "greek_def_ro": "Μωαβίτης (Moabites) — moabit (la genitiv plural: „ai moabiților”).",
     "dict_ro": "Mo’av (Moab), „din tată” (Easton: „din tatăl meu”): fiul celei întâi-născute, tatăl moabiților (19:37); neamul va fi vecin și vrăjmaș al lui Israel (Numeri 22–25), dar Rut e moabită."
    },
@@ -8001,7 +8001,7 @@ window.CHAPTER_DATA = [
     "pos": "adjectiv, cu articol",
     "greek": "ἡ νεωτέρα",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "little; (in number) few; (in age) tânăr, (in value) ignoble.",
+    "def_ro": "mic, tânăr.",
     "greek_def_ro": "νεώτερος (neoteros) — mai tânăr; „cea mai tânără”.",
     "dict_ro": "Tsa’irah, „mai mică, tânără”: „cea mai tânără” (19:31, 34–35, 38) — fiica cea mică; textul nu le dă nume."
    },
@@ -8017,7 +8017,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἔτεκεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a bear tânăr; causatively, a beget; medically, a act ca midwife; in special, a show lineage.",
+    "def_ro": "a naște.",
     "dict_ro": "Yalad, „a naște”: „a născut un fiu” (19:37–38) — fiicele nasc pe Moab și Amon; verbul unește capitolul 19 cu istoria neamurilor vecine.",
     "greek_def_ro": "τίκτω (tiktō) — a naște."
    },
@@ -8033,7 +8033,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv",
     "greek": "υἱόν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "fiu (ca builder al family nume), in widest sens (al literal si figurative relationship, including grandson, subject, neam, quality sau condition, etc., (ca tată sau brother), etc.).",
+    "def_ro": "fiu; în sens larg, nepot, urmaș, membru al unui neam.",
     "greek_def_ro": "υἱός (huios) — fiu.",
     "dict_ro": "Ben, „fiu”: „fiii și fiicele tale” (19:12) — familia lui Lot; Septuaginta spune „ginerii, fiii sau fiicele”; textul lasă ambiguu dacă fiii au existat."
    },
@@ -8049,7 +8049,7 @@ window.CHAPTER_DATA = [
     "pos": "verb",
     "greek": "ἐκάλεσεν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "a call afară a (adică propriu-zis, address de nume, dar folosit in wide variety al applications).",
+    "def_ro": "a call afară a (adică propriu-zis.",
     "greek_def_ro": "καλέω (kaleo) — a chema, a numi.",
     "dict_ro": "Qara, „a chema”: „au chemat pe Lot” (19:5); cetatea strigă la Lot; Lot „a numit” cetatea mică „Țoar” (19:22)."
    },
@@ -8065,7 +8065,7 @@ window.CHAPTER_DATA = [
     "pos": "substantiv cu sufix",
     "greek": "τὸ ὄνομα αὐτοῦ",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "appellation, ca mark sau memorial al individuality; de implicație honor, authority, character.",
+    "def_ro": "nume; și ceea ce face un om cunoscut: renume, cinste.",
     "greek_def_ro": "ὄνομα (onoma) — nume.",
     "dict_ro": "Shem, „nume”: „de aceea cetatea s-a numit Țoar” (19:22) și „a pus numele Moab” (19:37), „Ben-Ami” (19:38): trei nume puse de oameni și de întâmplări."
    },
@@ -8113,7 +8113,7 @@ window.CHAPTER_DATA = [
     "pos": "nume propriu",
     "greek": "Αμμανιτῶν",
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
-    "def_ro": "ammon, fiu al Lot; de asemenea al lui posterity si al lor ținut.",
+    "def_ro": "Amon — fiul Lotului și neamul lui.",
     "greek_def_ro": "Αμμανίτης (Ammanites) — amonit (la genitiv plural: „ai amoniților”).",
     "dict_ro": "Amon (Ammon), „popor, neam” (Easton): neamul amoniților, la răsărit de Iordan (19:38); Deuteronom 23:3–4 le oprește intrarea în adunare."
    },

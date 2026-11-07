@@ -8,21 +8,10 @@ const { rospell } = require('./lib-ro.js');
 const CACHE = path.join(__dirname, '..', 'data', 'doom3-cache.json');
 const cache = fs.existsSync(CACHE) ? JSON.parse(fs.readFileSync(CACHE, 'utf8')) : {};
 const chapters = process.argv.slice(2).filter(a => /^\d+$/.test(a)).map(Number);
-const textOf = (N) => {
-  const D = new Function('window', fs.readFileSync('public/genesis-' + N + '.js', 'utf8') + ';return window;')({}).CHAPTER_DATA;
-  const txt = [];
-  for (const x of D) {
-    for (const t of x.tokens) for (const f of ['t', 'def_ro', 'dict_ro', 'greek_def_ro', 'diff_ro']) if (t[f]) txt.push(t[f]);
-    for (const c of x.textCompare) txt.push(c.translation || '', c.note || '');
-    for (const c of x.commentaries) if (c.text) txt.push(c.text);
-    if (x.fidela) txt.push(JSON.stringify(x.fidela));
-  }
-  return txt.join('\n').replace(/<[^>]*>/g, ' ');
-};
-const words = {};
-for (const N of chapters) for (const m of textOf(N).matchAll(/[A-Za-zăâîșțĂÂÎȘȚ]+(?:-[A-Za-zăâîșțĂÂÎȘȚ]+)*/g)) {
-  for (const p of m[0].split('-')) { const k = p.toLowerCase(); if (k.length > 1 && /^[a-zăâîșț]+$/.test(k)) words[k] = (words[k] || 0) + 1; }
-}
+const T = require('./doom3-text.js');
+const words = {}; for (const N of chapters) for (const [k, o] of Object.entries(T.words(N))) { const w = words[k] = words[k] || { n: 0, low: 0, cap: 0 }; w.n += o.n; w.low += o.low; w.cap += o.cap; }
+const ALLOW_F = path.join(__dirname, '..', 'data', 'doom3-allow.json'); const ALLOW = fs.existsSync(ALLOW_F) ? JSON.parse(fs.readFileSync(ALLOW_F, 'utf8')) : {};
+const STATE_F = path.join(__dirname, '..', 'data', 'doom3-state.json'); const STATE = fs.existsSync(STATE_F) ? JSON.parse(fs.readFileSync(STATE_F, 'utf8')) : {};
 async function q(w) {
   if (cache[w]) return cache[w];
   for (let i = 0; i < 4; i++) {
@@ -53,9 +42,17 @@ async function pool(items, fn, n = 8) { let i = 0; await Promise.all(Array.from(
   const second = unk.filter(w => cache[w] !== 'ok');
   await pool(second, async (w) => { for (const b of BASES(w)) { const v = ROS.has(b) ? 'ok' : await q(b); if (v === 'ok') { rescued.add(w); break; } } });
   fs.writeFileSync(CACHE, JSON.stringify(cache));
-  const foreign = /[kqwy]|sh|kh|ts|zh|aq|eq|ʿ/;
+  const foreign = /[kqwy]|sh|kh|ts|zh|aq|eq|ʿ|^[bcdfghjklmnpqrstvwxz]+$/;
   const bad = unk.filter(w => cache[w] !== 'ok' && !rescued.has(w));
-  const rom = bad.filter(w => !foreign.test(w)).sort((a, b) => words[b] - words[a]);
-  console.log('necunoscute după DOOM3 (cu baze de articol):', bad.length, '| fără transliterări evidente:', rom.length);
-  console.log(rom.map(w => w + (words[w] > 1 ? '(' + words[w] + ')' : '') + (cache[w] === 'eroare' ? '!' : '')).join(' '));
+  // clasificare: nume proprii (apar doar cu majusculă), transliterări evidente; restul = de triat manual
+  const names = bad.filter(w => words[w].low === 0 && words[w].cap > 0), translit = bad.filter(w => !names.includes(w) && foreign.test(w));
+  const rest = bad.filter(w => !names.includes(w) && !translit.includes(w)).sort((a, b) => words[b].n - words[a].n);
+  const pend = rest.filter(w => !ALLOW[w]);
+  for (const N of chapters) {
+    const ws = T.words(N); const mine = Object.keys(ws).filter(w => pend.includes(w) || (!ROS.has(w) && cache[w] === 'eroare'));
+    STATE[N] = { hash: T.hash(N), data: new Date().toISOString().slice(0, 10), nume: names.filter(w => ws[w]).length, translit: translit.filter(w => ws[w]).length, netriate: mine };
+  }
+  fs.writeFileSync(STATE_F, JSON.stringify(STATE, null, 1));
+  console.log('necunoscute după DOOM3:', bad.length, '| nume proprii (auto):', names.length, '| transliterări (auto):', translit.length, '| de triat manual:', pend.length);
+  console.log(pend.map(w => w + (words[w].n > 1 ? '(' + words[w].n + ')' : '') + (cache[w] === 'eroare' ? '!' : '')).join(' '));
 })();

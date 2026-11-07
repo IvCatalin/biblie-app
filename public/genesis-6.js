@@ -1126,7 +1126,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
-    "text": "uriași — Termenul din ebraică nu arată atât ideea de statură mare, cât pe aceea de sălbăticie fără frâu: oameni neevlavioși și îndrăzneți, care răspândeau pustiire și măcel în lung și în lat."
+    "text": "uriași — Termenul din ebraică nu arată atât ideea de statură mare, cât pe aceea de sălbăticie fără frâu: oameni lipsiți de evlavie și îndrăzneți, care răspândeau pustiire și măcel în lung și în lat."
    }
   ]
  },
@@ -3469,7 +3469,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "cot — măsură de lungime, de la cotul brațului până la vârful degetelor.",
     "greek_def_ro": "τριακόσιοι (triakosioi), πῆχυς (pechys) — de trei sute de coți.",
-    "dict_ro": "Ammah, „cot”, e măsura de la cotul brațului până la vârful degetului mijlociu — cam 50 cm, după Easton (20,24 inci). Arca de 300 de coți măsoară așadar cam 150 m, lățimea cam 25 m, înălțimea cam 15 m."
+    "dict_ro": "Ammah, „cot”, e măsura de la cotul brațului până la vârful degetului mijlociu — cam 50 cm, după Easton (20,24 de țoli). Arca de 300 de coți măsoară așadar cam 150 m, lățimea cam 25 m, înălțimea cam 15 m."
    },
    {
     "t": " [să fie] "
@@ -3687,7 +3687,7 @@ window.CHAPTER_DATA = [
     "samaritan": "Apropiat de Textul Masoretic la acest cuvânt — neverificat individual, cuvânt cu cuvânt.",
     "def_ro": "cot — măsură de lungime, de la cotul brațului până la vârful degetelor.",
     "greek_def_ro": "πῆχυς (pechys) — cot (la acuzativ: „un cot”).",
-    "dict_ro": "Ammah, „cot”, e măsura de la cotul brațului până la vârful degetului mijlociu — cam 50 cm, după Easton (20,24 inci). Arca de 300 de coți măsoară așadar cam 150 m, lățimea cam 25 m, înălțimea cam 15 m."
+    "dict_ro": "Ammah, „cot”, e măsura de la cotul brațului până la vârful degetului mijlociu — cam 50 cm, după Easton (20,24 de țoli). Arca de 300 de coți măsoară așadar cam 150 m, lățimea cam 25 m, înălțimea cam 15 m."
    },
    {
     "t": " de "

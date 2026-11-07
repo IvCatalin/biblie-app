@@ -1,0 +1,70 @@
+// Înlocuiește în def_ro resturile englezești/lexicon (text vechi -> text nou). node tools/def-fix-doom3.js N... [--write]
+const fs = require('fs');
+const M = {
+  'perizzite, unul al Canaanitish tribes.': 'perizit — neam din Canaan.',
+  'siddim.': 'Sidim — vale cu multe gropi de smoală, lângă Marea Sărată.',
+  'zuzites.': 'zuziți — neam de uriași din est.',
+  'emim.': 'emimi — neam de uriași din Moab.',
+  'seir.': 'Seir — munte în Edom.',
+  'paran, desert al Arabia.': 'Paran — pustie din sudul țării.',
+  'emorite, unul al Canaanitish tribes.': 'amorit — neam din Canaan.',
+  'aner, Amorite.': 'Aner — amorit, aliat al lui Avram.',
+  'dan, unul al sons al Jacob.': 'Dan — fiu al lui Iacov; și numele unui loc din nord.',
+  'chobah.': 'Hova — loc la nord de Damasc.',
+  'literal unul officiating, preot.': 'preot, cel ce slujește la altar.',
+  'string; de implicație, measuring tape.': 'fir, ață.',
+  'eliezer, nume al Damascene si al ten Israelites.': 'Eliezer — slujitorul lui Avram, din Damasc.',
+  'ur, loc în Chaldaea; de asemenea Israelite.': 'Ur — cetate din Caldeea, patria lui Avram.',
+  'mare (in orice sens); de aici, older; de asemenea insolent.': 'mare, mai mare, în orice sens.',
+  'a depress literal sau figurat.': 'a asupri, a apăsa.',
+  'flambeau.': 'făclie, torță aprinsă.',
+  'stream (including mare.': 'râu, fluviu mare.',
+  'chittite, sau urmaș al Cheth.': 'hitit — urmaș al lui Het.',
+  'a inclose.': 'a închide, a opri.',
+  'mână ( open unul [indicating power, means.': 'mână; și putere, stăpânire.',
+  'bered.': 'Bered — loc în sudul țării.',
+  'face (ca parte acela turns).': 'față, chip; ce se întoarce spre cineva.',
+  'ceva seized.': 'stăpânire, moșie, ceva ce se ia în stăpânire.',
+  'popor (ca congregated unit); in special.': 'popor, neam; mulțime strânsă laolaltă.',
+  'inimă; de asemenea folosit (figurat) foarte widely pentru feelings.': 'inimă; și minte, gând, sentiment.',
+  'propriu-zis, exalted unul, adică împărat sau sheik.': 'căpetenie, cel înălțat; adică rege sau șeic.',
+  'seah.': 'măsură de făină, a treia parte dintr-o efă.',
+  'propriu-zis, nearest parte.': 'lăuntru, ce e în inimă, în adânc.',
+  'sedom.': 'Sodoma — cetate din valea Sidim.',
+  'amorah.': 'Gomora — cetate din valea Sidim.',
+  'literal pentru profaned lucru.': 'departe de mine!, să nu fie!; ceva pângărit.',
+  'propriu-zis, crossed.': 'din pricina, pentru, de dragul cuiva.',
+  'abbreviated, adică diminutive.': 'mic, scund; cel mai mic.',
+  'moab.': 'Moab — fiul Lotului și neamul lui.',
+  'ammon, fiu al Lot.': 'Amon — fiul Lotului și neamul lui.',
+  'offence, sau jertfă pentru it.': 'păcat, greșeală; și jertfă pentru păcat.',
+  'neck (între shoulders) ca loc al burdens; figurat.': 'umăr, spate; loc pe care se poartă poveri.',
+  'a open ( senses, in special eyes); figurat.': 'a deschide, mai ales ochii.',
+  'mass al persons (sau figurat, lucruri).': 'oaste, mulțime de oameni.',
+  'filisten.': 'filisten — locuitor al Filistiei.',
+  'propriu-zis, united, adică sole; de implicație.': 'unic, singur, singurul.',
+  'morijah.': 'Moria — ținut unde a fost adus Isaac ca jertfă.',
+  'step sau (collectively, stairs, ca ascending).': 'ardere-de-tot, jertfă care se înalță toată pe altar.',
+  'fearing; morally.': 'a se teme, a avea cinstire de Dumnezeu.',
+  'horn (ca projecting); de implicație.': 'corn, coarne.',
+  'milcah, nume al Hebrewess si al Israelite.': 'Milca — soția lui Nahor.',
+  'nachor.': 'Nahor — fratele lui Avraam.',
+  'uts, fiu al aramaică, de asemenea Seirite, si regions settled de lor.': 'Uț — fiul întâi-născut al lui Nahor.',
+  'buz, nume al fiu al Nahor, si al Israelite.': 'Buz — fiul lui Nahor.',
+  'chazo.': 'Hazo — fiul lui Nahor.',
+  'bethuel.': 'Betuel — fiul lui Nahor, tatăl Rebecăi.',
+  'tebach, nume al Mesopotamian și al Israelite.': 'Tevah — fiul lui Nahor din concubina Reuma.',
+  'alive; de aici.': 'viață, ființă vie.',
+  'chebron.': 'Hebron — cetate din țara Canaanului.',
+  'cheth.': 'Het — fiul lui Canaan, strămoșul hitiților.',
+  'ephron.': 'Efron — hititul din Hebron.',
+  'tranchilitate.': 'liniște.'
+};
+const W = process.argv.includes('--write'); let tot = 0;
+for (const N of process.argv.slice(2).filter(a => /^\d+$/.test(a)).map(Number)) {
+  const file = 'public/genesis-' + N + '.js'; const D = new Function('window', fs.readFileSync(file, 'utf8') + ';return window;')({}).CHAPTER_DATA; let n = 0;
+  for (const x of D) for (const t of x.tokens) if (t.def_ro && M[t.def_ro]) { t.def_ro = M[t.def_ro]; n++; }
+  tot += n; console.log('Geneza ' + N + ': ' + n);
+  if (W && n) fs.writeFileSync(file, 'window.CHAPTER_DATA = ' + JSON.stringify(D, null, 1).replace(/\n/g, '\r\n') + ';\r\n', 'utf8');
+}
+console.log('total', tot);
