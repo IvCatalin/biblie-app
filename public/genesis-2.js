@@ -833,6 +833,28 @@ window.CHAPTER_DATA = [
       "v": 32
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "Și ne-a zis: Iată, Îmi voi osebi Mie un popor dintre toate popoarele, și aceștia vor ține ziua Sabatului, și îi voi sfinți Mie ca popor al Meu, și-i voi binecuvânta; precum am sfințit ziua Sabatului și o sfințesc Mie, tot așa îi voi binecuvânta, și ei vor fi poporul Meu, iar Eu voi fi Dumnezeul lor.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 19
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 2 — comparație",
+    "text": "Și acestuia — lui Iacob și seminței lui — i s-a dat să fie totdeauna cei binecuvântați și sfinți ai mărturiei dintâi și ai legii, precum El a sfințit și a binecuvântat ziua Sabatului în ziua a șaptea.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 2,
+      "v": 24
+     }
+    }
    }
   ],
   "textCompare": [
@@ -2171,6 +2193,83 @@ window.CHAPTER_DATA = [
       "v": 12
      }
     }
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 33:10",
+    "text": "Și oamenii toți sunt din pământ și din pământ a fost zidit Adam.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 33,
+      "v": 10
+     }
+    }
+   },
+   {
+    "author": "Cartea Înțelepciunii lui Solomon 10:1",
+    "text": "Aceasta a păzit pe primul zidit, pe tatăl lumii, când a fost zidit singur,",
+    "src": {
+     "slug": "intelepciunea-lui-solomon",
+     "spec": {
+      "num": 10,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "4 Ezdra 3:5",
+    "text": "și ai dat lui Adam un trup fără suflet, care era lucrarea mâinilor Tale, și ai suflat în el suflare de viață, și el a fost făcut viu înaintea Ta.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 3,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "4 Ezdra 7:64",
+    "text": "Și el mi-a răspuns și a zis: Când Cel Preaînalt a făcut lumea și pe Adam și pe toți cei ce au venit din el, a pregătit întâi Judecata și lucrurile care țin de Judecată.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 7,
+      "v": 64
+     }
+    }
+   },
+   {
+    "author": "Evanghelia 1:14",
+    "text": "Isus a răspuns și i-a zis: Era Adam, cel întâi zidit, pentru care M-am coborât din cer pe pământ. Și i-am zis: Am fost atârnat pe cruce pentru tine și pentru copiii tăi. Și el, când a auzit, a gemut și a zis: Așa a fost buna Ta plăcere, Doamne.",
+    "src": {
+     "slug": "evanghelia-bartolomeu",
+     "spec": {
+      "num": 1,
+      "v": 14
+     }
+    }
+   },
+   {
+    "author": "Evanghelia lui Filip 6:90",
+    "text": "Printr-o suflare a venit la ființă sufletul lui Adam. Tovarășul lui a fost duhul. Ceea ce i s-a dat a fost mama lui. Sufletul i-a fost [luat] și i s-a dat [viață] (Eva) în locul lui.",
+    "src": {
+     "slug": "evanghelia-filip",
+     "spec": {
+      "num": 6,
+      "v": 90
+     }
+    }
+   },
+   {
+    "author": "Evanghelia lui Filip 7:92",
+    "text": "Adam a venit la ființă din două fecioare: din Duh și din pământul fecioară. De aceea Hristos a fost născut dintr-o fecioară, ca să îndrepte căderea de la început.",
+    "src": {
+     "slug": "evanghelia-filip",
+     "spec": {
+      "num": 7,
+      "v": 92
+     }
+    }
    }
   ],
   "textCompare": [
@@ -2498,6 +2597,17 @@ window.CHAPTER_DATA = [
       "v": 3
      }
     }
+   },
+   {
+    "author": "4 Ezdra 3:6",
+    "text": "Și l-ai dus în rai, pe care dreapta Ta îl sădise, înainte ca pământul să se arate.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 3,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -2756,6 +2866,17 @@ window.CHAPTER_DATA = [
     "text": "«Și a făcut să răsară» – deja făcuse să răsară.<br><br>«Și Pomul Vieții în mijlocul grădinii» – în mijlocul ei.<br><br>«Și Pomul Cunoașterii Binelui și Răului.» Ca Targumul lui: „și pomul din care cel care mănâncă cunoaște binele și răul”."
    },
    {
+    "author": "Zohar Chadash, Shir HaShirim 69",
+    "text": "Și chiar el singur, care este cuprinsul totului, s-a chemat cuprinsul multora, cuprinsul tuturor strălucirilor de sus și de jos. Tot îl chemăm cuprinsul totului. Ḥayyim este. Asupra lui este scris (Bereșit 2:9) «și Copacul Vieții în mijlocul grădinii». Toată viața atârnă de el. Din el zboară vieți și străluciri către fiecare parte.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 26,
+      "v": 69
+     }
+    }
+   },
+   {
     "author": "Grigorie de Nazianz, Cuvântări teologice 29.20",
     "text": "Hristos e dus la pom și pironit pe el — dar tocmai prin pomul vieții El ne reface. Da, El mântuiește chiar și pe tâlharul răstignit împreună cu El; El înfășoară toată lumea văzută în întuneric."
    },
@@ -2770,6 +2891,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere — Hexaimeron",
     "text": "Și a scos Domnul Dumnezeu din pământ tot pomul plăcut la vedere și bun la mâncare: pomul vieții, în mijlocul grădinii, și pomul cunoașterii binelui și răului. Trebuia neapărat repetat aici, ca să putem înțelege firea locului Paradisului — mai ales fiindcă era nevoie de o mențiune specială a pomului vieții și a pomului cunoașterii binelui și răului: în unul era semnul ascultării datorate de om, în celălalt taina vieții veșnice, pe care avea s-o merite tocmai prin această ascultare. Pomul vieții se numea așa fiindcă avea puterea, primită dumnezeiește, ca oricine mânca din el să aibă trupul întărit cu o sănătate statornică — dar aceasta era totodată și chipul unei taine duhovnicești, al Domnului nostru Iisus Hristos."
+   },
+   {
+    "author": "Evanghelia lui Filip 7:93",
+    "text": "Sunt doi copaci care cresc în rai. Unul naște [dobitoace], celălalt naște oameni. Adam [a mâncat] din copacul care naște dobitoace [și] s-a făcut dobitoc și a născut [dobitoace]. De aceea copiii lui Adam se închină [dobitoacelor].",
+    "src": {
+     "slug": "evanghelia-filip",
+     "spec": {
+      "num": 7,
+      "v": 93
+     }
+    }
    }
   ],
   "fidela": "Și din pământ DOMNUL Dumnezeu a făcut să încolțească fiecare pom care este plăcut la vedere și bun pentru mâncare și pomul vieții, de asemenea, în mijlocul grădinii și pomul cunoașterii binelui și răului."
@@ -4564,6 +4696,17 @@ window.CHAPTER_DATA = [
       "v": 14
      }
     }
+   },
+   {
+    "author": "Evanghelia lui Filip 7:100",
+    "text": "Pomul cunoștinței e locul unde voi mânca totul. El l-a omorât pe Adam, dar aici face pe om să trăiască. Legea a fost pomul. Are puterea să dea cunoștința binelui și a răului. Nici nu i-a ferit de rău, nici nu i-a așezat în bine, ci a zidit moarte pentru cei ce au mâncat din el; căci când a zis «mănâncă aceasta, nu mânca aceea», a ajuns începutul morții.",
+    "src": {
+     "slug": "evanghelia-filip",
+     "spec": {
+      "num": 7,
+      "v": 100
+     }
+    }
    }
   ],
   "textCompare": [
@@ -5190,6 +5333,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 3,
       "v": 21
+     }
+    }
+   },
+   {
+    "author": "Sefer HaBahir, par. 80",
+    "text": "Și ce e zayin scris în ureche? Căci zicem: tot ce a adus Sfântul, binecuvântat fie El, în lumea Sa, i-a pus din însușirea sa, căci este scris (Facerea 2:19) «și tot ce va chema omul suflet viu, acesta e numele lui» — adică trupul lui e astfel. Și de unde știm că numele lui e trupul lui? Căci este scris (Proverbe 10:7) «pomenirea tzadik-ului e spre binecuvântare, și numele celor răi va putrezi». Oare numele lui putrezește? Ci trupul lui. Tot astfel, trupul lui.",
+    "src": {
+     "slug": "kab-sefer-habahir",
+     "spec": {
+      "num": 1,
+      "v": 80
+     }
+    }
+   },
+   {
+    "author": "Zohar Chadash, Bereshit 464",
+    "text": "A zis Ribi Yaakov bar Idi: ḥakham era Adam ha-Rișon, că recunoștea și știa pe tot cel în care era nefesh ḥayah, și pe cel în care era neșamah; când au venit la el, i-a recunoscut pe toți. Aceasta este ceea ce este scris (Bereșit 2:19): «și tot ce va chema lui omul nefesh ḥayah» — celui care nu știe și nu recunoaște slujba Făcătorului său. Și neșamah celui care știa și recunoștea slujba Făcătorului său. Și astfel este până astăzi: cine nu știe și nu recunoaște slujba Făcătorului său, și nu se îndeletnicește cu Tora, el are nefesh ḥayah, și nu neșamah.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 1,
+      "v": 464
      }
     }
    },
@@ -6008,6 +6173,17 @@ window.CHAPTER_DATA = [
       "v": 6
      }
     }
+   },
+   {
+    "author": "Evanghelia lui Filip 6:79",
+    "text": "Când Eva era [în] Adam, moartea nu exista. Când s-a despărțit de el, moartea a venit la ființă. Dacă el [intră] iarăși și o primește pentru sine, nu va mai fi moarte.",
+    "src": {
+     "slug": "evanghelia-filip",
+     "spec": {
+      "num": 6,
+      "v": 79
+     }
+    }
    }
   ],
   "textCompare": [
@@ -6307,6 +6483,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 1,
       "v": 5
+     }
+    }
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 6:3",
+    "text": "Pizma a înstrăinat soții de soții lor și a schimbat zicerea părintelui nostru Adam: Acesta e acum os din oasele mele și carne din carnea mea.",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 6,
+      "v": 3
      }
     }
    }

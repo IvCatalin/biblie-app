@@ -572,10 +572,6 @@ window.CHAPTER_DATA = [
     "text": "«Și fiii lui Gomer: Așchenaz.» Au spus că ei sunt aceia care sunt în țara Alemania.<br><br>«Și Rifat.» Rav Saadia a explicat că ei sunt Feriga, care este în țara Franței; iar în Cronici este Difat, cu dalet."
    },
    {
-    "author": "Notă structurală",
-    "text": "A doua generație de la Iafet (fiii lui Gomer) — Așkenaz, folosit mai târziu, în evul mediu, ca denumire pentru evreii din Europa (askenazi), o utilizare care nu are legătură directă cu sensul geografic original din acest verset."
-   },
-   {
     "author": "Cartea Dreptului 7 — comparație",
     "text": "Iar fiii lui Gomer erau Așchenaz, Refat și Togarma.",
     "src": {
@@ -724,10 +720,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Chitim și Dodanim.» Iar un alt verset spune „și Rodanim”, cu resh, ca să te învețe: în ceasul în care Israel este așezat sus, ei spun: Voi sunteți fiii unchiului nostru (sau „ai vărului nostru”) (dodenu); iar în ceasul în care coboară, vin și îi stăpânesc (rodim)."
-   },
-   {
-    "author": "Notă structurală",
-    "text": "Fiii lui Iavan (Elișa, Tarșiș, Kitim, Dodanim) sunt asociați tradițional cu popoarele grecești și insulele mediteraneene — Kitim în special apare frecvent mai târziu în textele profetice ca denumire generică pentru insulele/coastele vestice."
    },
    {
     "author": "Cartea Dreptului 7 — comparație",
@@ -1295,10 +1287,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și Dedan.» Rav Saadia a explicat: al-Tindi."
-   },
-   {
-    "author": "Notă structurală",
-    "text": "Doar la linia lui Cuș apare o a treia generație explicită (fiii lui Rama) înainte de introducerea lui Nimrod — o pauză în ritmul genealogic care semnalează importanța specială a episodului Nimrod care urmează imediat."
    }
   ],
   "refs": [
@@ -2379,10 +2367,6 @@ window.CHAPTER_DATA = [
     "text": "«Și lui Mițraim.» Nu știm de ce Ham l-a numit pe acest fiu al lui Mițraim, cu yod și mem, ceea ce nu am găsit în niciunul din numele pomenite aici la fiii lui Noe și la fiii fiilor lui, decât la fiii lui Iavan, unde este scris Chitim și Dodanim, cu yod și mem de plural. Și se poate să fi fost din pricina unui lucru care s-a întâmplat la vremea nașterii lui, căci în vremurile de la început toate numele oamenilor erau date după un lucru; și la fel Mițraim și-a numit fiii cu yod și mem de plural, și toate acestea pentru un lucru cunoscut la ei. Iar în midraș: toți urmașii lui Mițraim – yam („mare”), adică yod și mem, pentru că s-au înecat în mare."
    },
    {
-    "author": "Notă structurală",
-    "text": "Popoarele descinse din Mițraim (Egipt) sunt enumerate exclusiv prin nume de grup, la plural (ludiții, anamiții etc.), spre deosebire de alte linii genealogice care numesc întâi un individ — sugerând că aceste denumiri reprezintă direct triburi sau regiuni egiptene, nu strămoși individuali."
-   },
-   {
     "author": "Cartea Dreptului 7 — comparație",
     "text": "Iar fiii lui Mițraim erau Lud, Anom și Patros, Caslot și Caftor.",
     "src": {
@@ -2901,10 +2885,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Targum Ionatan",
     "text": "și pe hiviți și pe arkiți și pe anṭosai,"
-   },
-   {
-    "author": "Notă structurală",
-    "text": "Hiviții, menționați aici printre popoarele Canaanului, vor juca un rol notabil mai târziu în cartea Iosua (tratatul de pace cu ghibeoniții, un trib hivit)."
    }
   ]
  },
@@ -3467,10 +3447,6 @@ window.CHAPTER_DATA = [
     "text": "«Aceștia sunt fiii lui Ham»: este lămurit."
    },
    {
-    "author": "Notă structurală",
-    "text": "Formula de încheiere pentru linia lui Ham („după familiile lor, după limbile lor, în țările lor, cu neamurile lor”) se repetă identic la v.31 pentru linia lui Șem — un refren structural care organizează tot capitolul."
-   },
-   {
     "author": "Cartea Dreptului 7 — comparație",
     "text": "Aceștia sunt fiii lui Ham, conform familiilor lor, și numerele lor în acele zile erau de aproape 730 de oameni.",
     "src": {
@@ -3996,10 +3972,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și fiii lui Aram.» A început cu cel mic, pentru că a terminat cu el; și nu a pomenit urmașii lui Elam, Asur și Lud, căci nu este nevoie de pomenirea lor; și a pomenit urmașii lui Aram: poate Terah s-a încuscrit cu seminția lui Aram; de aceea Nahor l-a numit pe fiul lui, întâiul născut, Uț, și la fel pe fiul fiului său, Aram. Și Maș: iar în Cronici, Meșec."
-   },
-   {
-    "author": "Notă structurală",
-    "text": "„Uț”, primul fiu al lui Aram, dă numele ținutului unde va locui mai târziu Iov — o legătură geografică remarcată des de comentatori între tabelul genealogic și cartea Iov."
    }
   ]
  },
@@ -4646,10 +4618,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Targum Ionatan",
     "text": "și pe Hadoram și pe Uzal și pe Dicla,"
-   },
-   {
-    "author": "Notă structurală",
-    "text": "Cei 13 fii ai lui Ioktan (v.26-29) formează cea mai lungă listă de frați din tot capitolul — reflectând, poate, bogăția tradițiilor tribale arabe cunoscute autorului biblic."
    }
   ],
   "refs": [
@@ -4738,10 +4706,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Targum Ionatan",
     "text": "și pe Obal și pe Abimael și pe Șeba,"
-   },
-   {
-    "author": "Notă structurală",
-    "text": "Numele „Șeva” apare de două ori în genealogie — o dată în linia lui Ham (v.7, prin Cuș) și o dată aici, în linia lui Șem — sugerând posibil două grupuri tribale distincte cu nume asemănător, sau o încrucișare genealogică timpurie între cele două linii."
    }
   ],
   "refs": [
@@ -5045,10 +5009,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Reședința lor s-a întins.» După dezbinare și-au ales țara care este de la Meșa până la muntele de la răsărit, care este muntele estic, și au locuit în această țară. «De la Meșa.» Rav Saadia, binecuvântată fie amintirea lui, a tradus: Mecca, unde merg ismaeliții să sărbătorească acolo."
-   },
-   {
-    "author": "Notă structurală",
-    "text": "Menționarea explicită a teritoriului („de la Meșa... muntele de la răsărit”) pentru linia lui Ioktan e neobișnuită — majoritatea celorlalte ramuri genealogice din capitol nu primesc o descriere geografică la fel de precisă."
    }
   ],
   "refs": [
@@ -5210,10 +5170,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Targum Ionatan",
     "text": "Aceștia sunt fiii lui Sem, după spițele lor, în așezările țărilor lor, după familiile neamurilor lor."
-   },
-   {
-    "author": "Notă structurală",
-    "text": "Formula finală pentru linia lui Șem repetă aproape identic pe cea de la v.20 (linia lui Ham) — simetrie structurală care încheie ambele secțiuni genealogice majore înainte de rezumatul final de la v.32."
    },
    {
     "author": "Cartea Dreptului 7 — comparație",

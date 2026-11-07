@@ -322,6 +322,10 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Filistenii se așează pe coasta Canaanului abia către secolul al XII-lea î.Hr., după venirea Popoarelor Mării; de aceea unii cercetători socotesc că „regele filistenilor” din Gherar poartă numele unui neam cunoscut mai târziu. Textul poate păstra un nume venit din epoca ulterioară, pentru ca cititorul să recunoască ținutul."
    }
   ]
  },
@@ -878,6 +882,17 @@ window.CHAPTER_DATA = [
       "v": 10
      }
     }
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 44:22",
+    "text": "Și lui Isaac a întărit așa pentru Avraam, tatăl lui.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 44,
+      "v": 22
+     }
+    }
    }
   ]
  },
@@ -1411,6 +1426,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 1,
       "v": 191
+     }
+    }
+   },
+   {
+    "author": "Mișna, Logodnele 4:14",
+    "text": "Rabbi Yehudah spune: burlacul să nu pască vite, și doi burlaci să nu doarmă într-un singur talit. Iar înțelepții permit. Oricine are de-a face cu femeile să nu rămână singur cu femeile. Și omul să nu-și învețe fiul un meșteșug între femei. Rabbi Meir spune: întotdeauna să-și învețe omul fiul un meșteșug curat și ușor, și să se roage Celui a Cărui este bogăția și averea, căci nu este meșteșug în care să nu fie sărăcie și bogăție; căci nici sărăcia nu vine din meșteșug, nici bogăția din meșteșug, ci totul după meritul lui. Rabbi Șimʿon ben Eliʿezer spune: Ai văzut vreodată în zilele tale un animal (sau „o fiară sălbatică”) sau o pasăre care să aibă un meșteșug? Și ele se hrănesc fără chin. Iar ele n-au fost create decât ca să mă slujească, iar eu am fost creat ca să-L slujesc pe Făcătorul meu; nu este oare de drept să mă hrănesc fără chin? Numai că mi-am stricat faptele și mi-am știrbit hrana. Abba Guryan, omul din Ṣadyan, spune în numele lui Abba Gurya: omul să nu-și învețe fiul meseria de măgărar, cămilar, bărbier, corăbier, păstor sau negustor, căci meșteșugul lor este meșteșug de tâlhari. Rabbi Yehudah spune în numele lui: măgărarii — cei mai mulți sunt răi; cămilarii — cei mai mulți sunt vrednici; corăbierii — cei mai mulți sunt evlavioși. Cel mai bun dintre medici este pentru ghehinom, iar cel mai vrednic dintre măcelari este tovarășul lui ʿAmaleq. Rabbi Nehorai spune: Las deoparte orice meșteșug din lume și nu-mi învăț fiul decât Tora, căci omul mănâncă din plata ei în lumea aceasta, iar capitalul rămâne pentru lumea ce va veni. Iar toate celelalte meșteșuguri nu sunt așa: când omul ajunge la boală, sau la bătrânețe, sau la suferințe, și nu se poate îndeletnici cu munca lui, iată, el moare de foame. Dar Tora nu este așa, ci îl păzește de tot răul în tinerețea lui și îi dă viitor și nădejde în bătrânețea lui. În tinerețea lui, ce spune? (Isaia 40:31) „Iar cei care nădăjduiesc în Domnul își vor înnoi puterea.” În bătrânețea lui, ce spune? (Psalmul 92:15) „Încă vor rodi la cărunteți.” Și așa spune despre Avraham, părintele nostru, pacea asupra lui: (Geneza 24:1) „Și Avraham era bătrân… și Domnul l-a binecuvântat pe Avraham în toate.” Am găsit că Avraham, părintele nostru, a făcut toată Tora întreagă înainte să fie dată, căci s-a spus: (Geneza 26:5) „pentru că Avraham a ascultat de glasul Meu și a păzit rânduiala Mea, poruncile Mele, legile Mele și învățăturile Mele”.",
+    "src": {
+     "slug": "mishna-kiddushin",
+     "spec": {
+      "num": 4,
+      "v": 14
+     }
+    }
+   },
+   {
+    "author": "Documentul de la Damasc 3:3",
+    "text": "Și a dat-o lui Isaac și lui Iacov, și ei au păzit-o, și au fost scriși prieteni ai lui Dumnezeu, și părtași ai legământului în veac.",
+    "src": {
+     "slug": "documentul-damasc",
+     "spec": {
+      "num": 3,
+      "v": "3"
      }
     }
    }
@@ -3687,6 +3724,10 @@ window.CHAPTER_DATA = [
       "v": 16
      }
     }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Săparea și stăpânirea fântânilor era o chestiune de drept în ținuturile aride: în sudul Canaanului fântânile erau avere de preț, iar astuparea lor era un act dușmănos. Sub dealul Tel Beer-Șeva s-a descoperit o fântână adâncă, dar datarea ei nu poate fi legată sigur de povestirea lui Isaac."
    }
   ]
  },
@@ -4585,6 +4626,17 @@ window.CHAPTER_DATA = [
     "text": "«Au săpat»: au mai săpat din nou, ca să-și înmulțească apa pentru nevoile turmelor.<br><br>«Și au găsit acolo etc.»: după ce au săpat, au găsit dedesubt o fântână săpată mai dinainte, și izvora în ea apă vie; aceasta este ce a spus: „au găsit… o fântână”, și nu a spus „au găsit apă”."
    },
    {
+    "author": "Zohar Chadash, Bereshit 121",
+    "text": "Când acele Nume vin către el, aceste merkabot se întind și acoperă toate părțile, către treapta aceasta și către treapta de jos, și acestea se numesc aripi ale bărbatului ei, ca să acopere asupra a tot.⁠‌‌​‌‌​‌​​‌​‌‌​‌​​​‌​‌‌‌‌ Și această treaptă intră în șoaptă, ca un izvor în fântână, ale cărui ape nu încetează în veci, și nu se desparte izvorul în veci. Și totul este fântână, că este scris (Bamidbar 21:18) «fântână au săpat-o principii»; (Bereșit 26:19) «fântână de ape vii». Și iată am statornicit.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 1,
+      "v": 121
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 24 — comparație",
     "text": "Și slujitorii lui Isaac au săpat o fântână în vale, și au găsit apă vie, și păstorii Gherarului s-au certat cu păstorii lui Isaac, zicând: Apa e a noastră; și Isaac a pus fântânii numele „Perversitate”, pentru că fuseseră perverși cu noi.",
     "src": {
@@ -5355,6 +5407,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«S-a mutat de acolo.» Într-un loc din care să nu poată spune că vine din râul lor; și de aceea nu s-au certat pentru ea."
+   },
+   {
+    "author": "Zohar Chadash, Toldot 36",
+    "text": "Și vino și vezi: acei slujitori ai lui Yitzḥak, pentru că ei sunt din partea judecății aspre, când au săpat-o, ce este scris? «Sitnah»; și iată au statornicit-o, până ce a venit el (Bereșit 26:22): «și a săpat o altă fântână etc., și a chemat numele ei Reḥovot» cu adevărat. Dar slujitorii tatălui său, pentru că toți vin din partea dreptei, nu era un satan în lume, și nu ieșea judecată în această fântână să-i pârască, când nu-și îndreptau faptele.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 8,
+      "v": 36
+     }
+    }
    },
    {
     "author": "Ieronim, Întrebări ebraice la Facere",
@@ -6946,6 +7009,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«El le-a făcut»: pentru statornicirea prieteniei le-a făcut ospăț, și au mâncat împreună și au băut."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Masa făcută după un jurământ era parte a tratatelor din Orientul Apropiat: la Mari, o înțelegere se încheia cu un ospăț și cu jertfe. „El le-a făcut ospăț” (26:30) arată că legământul dintre Isaac și Avimeleh urma această rânduială veche."
    }
   ]
  },
@@ -7371,6 +7438,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și a fost în acea zi»: înainte să plece ei de la el; și aceasta a fost o pricinuire de la Dumnezeu, ca să vadă și mai mult izbânda lui și să se teamă de el."
+   },
+   {
+    "author": "Cartea Jubileelor 24 — comparație",
+    "text": "Și slujitorii lui Isaac au săpat altă fântână și n-au găsit apă, și au mers și i-au spus lui Isaac că n-au găsit apă, și Isaac a zis: Am jurat astăzi filistenilor, și lucrul acesta ni s-a vestit.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 24,
+      "v": 25
+     }
+    }
    }
   ]
  },
@@ -7539,6 +7617,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«De aceea numele orașului este Beer-Șeba.» Numele locului era Beer-Șeba în zilele lui Avraam, iar acum și numele orașului se numește Beer-Șeba."
+   },
+   {
+    "author": "Zohar Chadash, Toldot 28",
+    "text": "Dar când a venit Yitzḥak să taie cu el un legământ, a tăiat cu el în șapte, care s-a descoperit din acea fântână, că este scris (Bereșit 26:33): «și a chemat-o Shiv'ah».",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 8,
+      "v": 28
+     }
+    }
    },
    {
     "author": "Cartea Jubileelor 24 — comparație",
@@ -7808,6 +7897,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Esau avea etc.»: nu și-a luat soție până ce n-a avut patruzeci de ani, ca tatăl său, și se arăta pe sine asemenea tatălui său; dar nu s-a ferit de fiicele lui Canaan, cum făcuse tatăl său, ci pe cele care au fost plăcute în ochii lui și le-a luat de soții, și nu cu știrea tatălui său; dar dintre mai-marii lor le-a luat, căci, de vreme ce le pomenește numele, se pare că erau oameni cu nume; și din cinste pentru Isaac, care era mare și cinstit în ochii lor, i le-au dat; iar Iacov nu a făcut așa, căci nu și-a luat soție decât cu știrea tatălui și a mamei lui, deși avea patruzeci de ani."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Hitiții din Hebron, „fiii lui Het”, sunt un grup local canaanit, deosebit de marele regat hitit din Anatolia, cunoscut din arhivele de la Hattușa. Soțiile hitite ale lui Esav sunt „amărăciune” pentru Isaac și Rebeca, pentru că arată că Esav iese din rânduiala căsătoriilor din rudenie, cum o ceruse Avraam în 24:3."
    }
   ]
  },

@@ -318,6 +318,17 @@ window.CHAPTER_DATA = [
     "text": "«Cei doi îngeri au ajuns la Sodoma seara etc.» Motivul lucrului: să găsească pregătire pentru Lot ca să-i bage înăuntru și să dobândească salvarea lui, și deși au spus că în meritul lui Avraam a fost salvat, totuși trebuie să se găsească pentru el vreun merit oricât de mic, iar dacă ar fi venit ziua, este cu putință că nu l-ar fi lăsat oamenii orașului să-i bage înăuntru deloc.<br><br>«Lot a văzut, s-a ridicat etc.» Explicația: i-a recunoscut că sunt dintre cei cunoscuți lui ca slujitori ai Celui Preaînalt, fiindcă a fost în vecinătatea lui Avraam, și aceasta este spusa „a văzut”, și de aceea și-a dat sufletul pentru ei în fața oamenilor orașului, „s-a ridicat” în întâmpinarea lor. Și le-a spus „și spălați-vă picioarele”, căci așa era obiceiul lui Avraam cu oaspeții lui, și a mers pe urmele lui (sau „la picioarele lui”). Și a fost scris în Tora ca să ne facă cunoscută deosebirea dintre Avraam și Lot, precum au spus, binecuvântată fie amintirea lor: acesta a pus înainte spălarea și acela a pus înainte înnoptarea înainte de spălare, căci nu era pretențios la intrarea lor în casa lui cu idolatrie, ceea ce nu este așa Avraam etc."
    },
    {
+    "author": "Tratatul Kallah Rabbati, cap. 7",
+    "text": "„Cum își cinstește omul” etc. S-a învățat: Mihail a venit să-i vestească Sarei; Gabriel, ca să răstoarne Sodoma; Rafael, ca să-l vindece pe Avraam. Și unii spun: Rafael, ca să-i vestească Sarei și să vindece, căci s-a spus: „și Dumnezeu l-a vindecat”; Mihail și Gabriel, ca să răstoarne Sodoma. Care este motivul primului învățător? „Și a prăpădit acele orașe.” Și care este motivul celor care spun „unii spun”? „Cei doi îngeri au ajuns la Sodoma.” Ce este deosebit la Avraam, că au spus: „Așa să faci”, și ce este deosebit la Lot, că au spus: „Nu, ci pe stradă vom înnopta”? Rabbi Elʿazar a spus: De aici, că se refuză celui mic și nu se refuză celui mare. Au învățat rabanii: În viitorul ce va veni, fiul lui David va fi la mijloc; Adam, Set și Metusala la dreapta lui; Avraam, Moise și Iacov la stânga. Care este motivul că l-a lăsat pe Isaac? Rava a spus: Isaac vine mai presus de ei, căci tot Israelul îi spune: „Căci tu ești tatăl nostru”. De acum, Esau i-ar fi o cinste? Învață a spune: „Căci tu ești tatăl nostru”: fiii sunt ca părintele lor: precum părintele nu a tăgăduit legământul, tot așa fiii care nu au tăgăduit legământul. Și de unde o avem? „te voi face sânge și sângele te va urmări; pentru că n-ai urât sângele”. Și oare Esau ura sângele? Și nu erau toate faptele lui numai în vărsare de sânge, căci s-a spus: „Asemănarea lui este ca a unui leu care dorește să sfâșie și ca a unui pui de leu care stă în ascunzișuri”? Și ce se înțelege? Poate să lovească? Nu: din aceea că este scris „dmynw” și nu este scris „dmywnw”, reiese de aici. S-a sfârșit capitolul „Întotdeauna să fii frumos”.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 7,
+      "v": 5
+     }
+    }
+   },
+   {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "Și cei doi îngeri au venit la Sodoma seara, pe când Lot ședea la poarta cetății. Nu fără pricină se spune că îngerii care veniseră la Avraam la amiază au venit la Sodoma seara: pentru că au venit să vestească celui dintâi propășire și bucurie, iar celei de-a doua să aducă nenorocire; cel dintâi ardea cu roada luminii spre cele cerești, iar aceasta, împresurată de întunericul viciilor, se apropia de pieirea veșnică."
    },
@@ -650,6 +661,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Treziți-vă devreme etc.» A aluzionat lor că trebuie să se ascundă de oamenii orașului și să se trezească dimineața să plece, căci s-a temut pentru cinstea lor ca să nu fie cunoscuți de ei și să fie ce a fost."
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 7",
+    "text": "Cum își cinstește omul învățătorul? Când amândoi merg pe drum, îl pune la dreapta lui și nu îl pune la stânga lui. Dacă erau trei și înțeleptul între ei, înțeleptul este la mijloc, cel mai mare la dreapta lui și cel mai mic la stânga lui; căci așa am găsit la cei trei îngeri de slujire care au venit la Avraam, părintele nostru: Gabriel, Mihail și Rafael: Gabriel la mijloc, Mihail la dreapta lui și Rafael la stânga lui. Și când au venit la Avraam, a venit Șekhina și a stat deasupra capului lui. Le-a spus: Domnii mei, așteptați-mă până mă despart de Șekhina, căci ea este mai mare decât voi, căci s-a spus: „Și când a sfârșit de vorbit cu el, Dumnezeu s-a ridicat de deasupra lui Avraam”. Și când s-a despărțit Avraam de Șekhina, a venit și s-a prosternat înaintea lor, căci s-a spus: „El a văzut și a alergat în întâmpinarea lor”; i-a adus sub copac și le-a spus: Domnii mei, „Să se ia, te rog, puțină apă” etc., și după aceea: „Și eu voi lua o bucată de pâine și vă veți înviora inima”. Dar Lot ce le-a spus? „înnoptați și spălați-vă picioarele, apoi treziți-vă devreme” etc. Alții spun: Lot nu a spus aceasta decât cu înțelepciunea înțelepților: dacă i-ar vedea spălați pe față, pe mâini și pe picioare, s-ar găsi că îl ucid pe el și pe fiii lui; iar când vor vedea praf pe picioarele lor, vor spune: Nu au venit decât acum de pe drum.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 7,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -1102,6 +1124,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "Dar înainte de a se culca, oamenii cetății, tineri și bătrâni, tot poporul până la ultimul, au înconjurat casa; și au strigat la Lot și i-au zis: Unde sunt oamenii care au venit la tine în noaptea aceasta? Scoate-i la noi ca să-i cunoaștem etc. Aceasta a spus proorocul Isaia despre poporul Israel, foarte păcătos: Își vestesc păcatul ca Sodoma, nu-l ascund (Isaia 3:9). Într-adevăr, și-au vestit păcatul ca sodomiții, nu l-au ascuns, căci fără nicio rușine toți, de la tinerețe până la cea mai adâncă bătrânețe, obișnuiau să săvârșească urâciuni cu bărbați; într-atât încât nici de oaspeți și de străini nu-și ascundeau nelegiuirile și căutau să-i facă asemenea în nelegiuire cu forța și să-i atragă în faptele lor rele."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Apărarea oaspetelui era o datorie atât de grea, încât Lot își oferă fiicele ca să-și păzească oaspeții. O întâmplare asemănătoare apare în Judecători 19; amândouă arată cât de mult cântărea legea ospitalității în vechea societate de nomazi și de sate."
    }
   ]
  },
@@ -3760,6 +3786,28 @@ window.CHAPTER_DATA = [
       "v": 4
      }
     }
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 11:1",
+    "text": "Pentru ospitalitatea și evlavia sa, Lot a fost mântuit din Sodoma, când tot ținutul dimprejur a fost judecat cu foc și pucioasă; Stăpânul arătând astfel dinainte că nu-i părăsește pe cei ce-și pun nădejdea în El, ci rânduiește spre pedeapsă și chin pe cei ce se abat.",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 11,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Pavel 50:2",
+    "text": "Și am văzut pe altul: «Acesta e Lot, care a fost găsit drept în Sodoma.» Și s-a apropiat și m-a salutat. Și am văzut pe altul foarte frumos la față, zâmbind: «Acesta e Iov.» Și s-a apropiat și a zis: «Frate Pavle, ai mare laudă la Dumnezeu și la oameni. Eu sunt Iov, care am suferit mult vreme de treizeci de ani prin ieșirea unei ciume.»",
+    "src": {
+     "slug": "apocalipsa-pavel",
+     "spec": {
+      "num": 50,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -4004,6 +4052,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Nu te uita în urma ta etc.» Motivul: fiindcă chipul omului mărturisește împotriva lui ce a făcut, de aceea nu va întoarce fața spre oraș, căci acolo sunt nimicitorii și vor recunoaște în el semnul urâciunii, și nu are merit să scape de ei. Ieși și învață ce s-a întâmplat soției lui."
+   },
+   {
+    "author": "Cartea Înțelepciunii lui Solomon 10:6",
+    "text": "Aceasta pe cel drept, fugind de neamul nelegiuit, l-a mântuit când a pierit pe cei necredincioși;",
+    "src": {
+     "slug": "intelepciunea-lui-solomon",
+     "spec": {
+      "num": 10,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -4133,6 +4192,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Nu, rogu-Te, Stăpâne!» A spus oamenilor, care i-au spus „la munte”: „nu, stăpâne” — nu-mi spuneți să merg la munte, căci drumul este lung între mine și munte, și până să ajung acolo, norul se va întinde peste noi și ne va ajunge; și acest „stăpâne” este profan, după sensul simplu; iar apoi, din multă frică, a început să se roage înaintea Sfântului, binecuvântat fie, și să spună: „iată, robul Tău a aflat” etc.; de aceea a pus versetul între ceea ce a spus oamenilor și rugăciunea pe care a făcut-o înaintea Sfântului, binecuvântat fie."
+   },
+   {
+    "author": "Tratatul Soferim, cap. 4",
+    "text": "Toate numele spuse la Lot sunt profane, afară de cel de pe urmă: „Lot le-a spus: Nu, rogu-Te, Stăpâne!”.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌​‌‌​​​ Toate numele spuse la Mica sunt profane; Rabbi Yose spune: cele cu yod-he sunt sfinte, cele cu alef-lamed sunt profane, afară de „casa lui Dumnezeu din Șilo”. Și toate numele spuse la Nabot sunt sfinte, afară de „Nabot L-a blestemat pe Dumnezeu (sau „a blestemat dumnezei”) și pe împăratul”. Și toate numele spuse la Ghibea lui Beniamin: Rabbi Eliʿezer spune: profane; Rabbi Yehoșua spune: sfinte. I-a spus Rabbi Eliʿezer: Și cum este cu putință ca Locul să făgăduiască și să nu facă? I-a spus Rabbi Yehoșua: Locul făgăduiește și face.",
+    "src": {
+     "slug": "talmud-minor-soferim",
+     "spec": {
+      "num": 4,
+      "v": 7
+     }
+    }
    },
    {
     "author": "Chiril al Alexandriei, Catena la Facere",
@@ -5353,6 +5423,65 @@ window.CHAPTER_DATA = [
       "v": 51
      }
     }
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 16:8",
+    "text": "N-a cruțat locul unde locuia Lot, pe care i-a urât pentru trufia lor.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 16,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "4 Ezdra 5:7",
+    "text": "și marea Sodomei va arunca pești și va face zgomot în noapte, pe care mulți nu l-au cunoscut, dar toți vor auzi glasul ei.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 5,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Marcion, Evangelion 17:30",
+    "text": "iar în ziua în care a ieșit Lot din Sodoma, a plouat foc și pucioasă din cer și i-a pierdut pe toți.",
+    "src": {
+     "slug": "marcion-evangelion",
+     "spec": {
+      "num": 17,
+      "v": 30
+     }
+    }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Valea Sidim, în sudul Mării Moarte, era plină de „gropi de smoală” (14:10), iar zona e bogată în bitum, sulf și gaz. Cercetătorii au propus că tradiția nimicirii Sodomei păstrează amintirea unui cutremur și a unui foc din asemenea pământuri, dar textul o înfățișează ca pe o judecată a lui Dumnezeu."
+   },
+   {
+    "author": "Cartea a treia a Macabeilor 2:5",
+    "text": "Tu ai ars cu foc și pucioasă pe oamenii din Sodoma, părtași ai răutății, exemplu făcându-i generațiilor următoare.",
+    "src": {
+     "slug": "3-macabei",
+     "spec": {
+      "num": 2,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Testamentul lui Așer 7:1",
+    "text": "Nu ajungeți, copiii mei, ca Sodoma, care a păcătuit împotriva îngerilor Domnului, și a pierit pe veci.",
+    "src": {
+     "slug": "testament-aser",
+     "spec": {
+      "num": 7,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -5713,6 +5842,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Clement al Alexandriei, Stromate II",
     "text": "Căci Dumnezeu se uită cu luare-aminte la însăși intenția dinlăuntru, ca atunci când soția lui Lot a fost singura care s-a întors, din propria ei voință, spre răutatea lumii. El a lăsat-o fără simțire, dându-i înfățișarea unui stâlp de sare și lăsând-o fără puterea de a merge înainte: o statuie, dar nu una fără un mesaj de folos, ci menită să pună gust și sare în cel ce este în stare să priceapă duhovnicește."
+   },
+   {
+    "author": "Cartea Înțelepciunii lui Solomon 10:7",
+    "text": "Cărora încă fumegă pământul deșertăciunii, plantele rodind fructe neterminate, stâlp de sare stând ca pomenire a sufletului necredincios.",
+    "src": {
+     "slug": "intelepciunea-lui-solomon",
+     "spec": {
+      "num": 10,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Marcion, Evangelion 17:33",
+    "text": "Aduceți-vă aminte de femeia lui Lot.",
+    "src": {
+     "slug": "marcion-evangelion",
+     "spec": {
+      "num": 17,
+      "v": 33
+     }
+    }
    }
   ]
  },
@@ -7364,6 +7515,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Și s-a culcat cu tatăl ei.» Potrivit lui Rashi se înțelege că a făcut nepotrivit. Iar dacă vei spune: Doar am spus în Bava Qama: Să se grăbească omul totdeauna spre porunci, căci pentru o noapte pe care cea întâi-născută a precedat-o etc. Ci se poate spune că a făcut bine prin faptul că a precedat, dar prin deschiderea cererii de desfrâu și prin faptul că a învățat-o pe sora ei, a făcut nepotrivit.<br><br>«Nici când s-a sculat.» Este punctat."
+   },
+   {
+    "author": "Tratatul Soferim, cap. 6",
+    "text": "Zece puncte sunt în Tora. „Să judece Domnul între mine și tine”: yod din „și tine” este punctat. „Ei i-au spus”: alef, yod, vav sunt punctate. „Și el nu a știut nici când ea s-a culcat și nici când s-a sculat”: vav din „s-a sculat” este punctat. „I-a căzut pe grumaz și l-a sărutat”: este punctat tot. „Și frații lui au plecat să pască turma tatălui lor”: „et” este punctat. „Pe care i-au numărat Moise și Aaron”: „Aaron” este punctat. „Sau pe drum îndepărtat”: he este punctat. „Am prăpădit până la Nofah, care”: reș este punctat. „Și câte o zecime”, „câte o zecime” de la Sărbătoare, în prima zi de sărbătoare: vav din a doua „zecime” este punctat. „Cele ascunse sunt ale Domnului, Dumnezeului nostru, dar cele dezvăluite sunt ale noastre și ale copiilor noștri, în veci”: ʿayin din „în veci” este punctat.",
+    "src": {
+     "slug": "talmud-minor-soferim",
+     "spec": {
+      "num": 6,
+      "v": 3
+     }
+    }
    }
   ]
  },
@@ -8085,6 +8247,21 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Moab.» Adică: „din tatăl meu am rămas însărcinată” (me-avi)."
+   },
+   {
+    "author": "Zohar Chadash, Chukat 21",
+    "text": "«Și din bamot — valea» — au statornicit-o. Dar vino și vezi: când omul s-a lipit de Toră și șade în înălțimile lumii, trebuie să se smerească, pentru ca yetzer ha-ra, acuzatorul care îl acuză, să nu stăpânească asupra lui să-l abată. Și asupra acesteia «și din bamot — valea»: trebuie să se facă ca o vale, ca să se despartă de el acela care șade în câmpul Moav, cu adevărat, yetzer ha-ra care s-a chemat Lot, și locuiește în Moav, pentru că unirea sa întâi a fost să scoată rodul faptelor rele în lume; în Moav a fost, precum zici (Bereșit 19:37) «și a născut cea întâi născută un fiu și i-a chemat numele Moav».",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 20,
+      "v": 21
+     }
+    }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Moab și Amon apar în texte din afara Bibliei: stela regelui Meșa al Moabului (secolul al IX-lea î.Hr.) pomenește țara Moab și pe zeul ei Chemoș, iar inscripții amonite dau numele cetății Rabat-Amon. Geneza le dă o obârșie rușinoasă, după felul în care Israel își povestea vecinii."
    }
   ]
  },

@@ -501,10 +501,6 @@ window.CHAPTER_DATA = [
     }
    },
    {
-    "author": "Notă structurală",
-    "text": "Versetul reia aproape identic Geneza 1:27-28 (parte bărbătească/femeiască, binecuvântare, numele „Adam” dat amândurora) — o punte deliberată între finalul relatării creației și începutul genealogiei, confirmând că „Adam” desemnează, la origine, umanitatea în ansamblu, nu doar un individ."
-   },
-   {
     "author": "Fericitul Ieronim, Întrebări ebraice la Facere",
     "text": "I-a creat parte bărbătească și parte femeiască și i-a binecuvântat. Și le-a pus numele Adam, adică „om”. Numele „om” se potrivește deopotrivă bărbaților și femeilor."
    },
@@ -729,6 +725,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "Set s-a născut în al o sută treizecilea an al vieții lui Adam și, probabil, uciderea lui Abel nu fusese cu mult înainte. Mulți alți fii și multe fiice s-au născut lui Adam, afară de Cain și Abel, înainte de aceasta; dar despre ei nu se face nicio pomenire, pentru că trebuia amintit cu cinste doar numele aceluia în coapsele căruia se aflau Hristos și Biserica. Dar ceea ce este mai de luat aminte aici despre Set este că Adam l-a născut după asemănarea lui, după chipul lui. Adam fusese făcut după chipul lui Dumnezeu; dar când a căzut și s-a stricat, a născut un fiu după chipul lui, păcătos și întinat, slab și muritor, și nenorocit ca el însuși; nu numai un om ca el, alcătuit din trup și suflet, ci un păcătos ca el, vinovat și supus pedepsei, degenerat și stricat. A fost zămislit și născut în păcat, Ps 51:5. Aceasta era asemănarea proprie a lui Adam, opusul acelei asemănări dumnezeiești în care fusese făcut Adam; dar, pierzând-o el însuși, n-a putut-o transmite sămânței sale."
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 49:17",
+    "text": "Sem și Set între oameni au fost preamăriți și mai mult decât orice trup viu este Adam.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 49,
+      "v": 17
+     }
+    }
    }
   ],
   "textCompare": [
@@ -930,10 +937,6 @@ window.CHAPTER_DATA = [
     "text": "«Și au fost zilele lui Adam.» Se pare că aceștia pe care i-a pomenit, de la Adam până la Noe, care au trăit fiecare atâția și atâția ani, erau după imagine, cei care s-au născut în imagine și în asemănare; iar ceilalți fii și fiice pe care i-a născut fiecare dintre ei nu erau în imagine și în asemănare și și-au stricat faptele; de aceea au fost șterși în potop. Iar lungimea acestor ani pe care a avut-o fiecare dintre cei pomeniți se poate să fi fost așa și pentru fiii și fiicele pe care i-au născut; și se poate să nu fi fost decât pentru acești pomeniți, pentru că nu alergau după poftele trupului, care scurtează zilele omului. Și se poate de asemenea ca Dumnezeu să fi voit lungimea zilelor lor, ca să aibă răgaz să învețe științele și să le scrie în carte, ca cei care vin după ei să învețe cărțile lor și să le primească cuvintele prin tradiție; căci nu este răgaz în șaptezeci de ani, care sunt cele mai multe zile ale omului de la Avraam, părintele nostru, ca omul să poată învăța științele, dacă nu ar fi găsit rădăcinile științelor scrise de cei vechi în cărțile lor și nu le-ar fi primit de la ei, generație după generație. Iar marele rabin, Rabbi Moșe, binecuvântată fie amintirea lui, a scris că acești indivizi pomeniți sunt singurii care au trăit atât de mult; și așa a scris, în aceste cuvinte: „Ce s-a scris în Tora despre măsura zilelor acelor oameni, eu spun că nu a trăit acele zile decât acel om pomenit singur, iar ceilalți oameni aveau zilele firești obișnuite; iar ciudățenia era numai la acel om, fie din pricini multe în hrana lui și în purtarea lui, fie pe cale de minune, și urmează felul ei”."
    },
    {
-    "author": "Notă structurală",
-    "text": "Prima aplicare a formulei fixe care va structura tot capitolul: „au fost zilele lui X după ce i s-a născut Y, N ani; și i s-au născut fii și fiice.” Această formulă se repetă, cu variații minime de nume și cifre, la fiecare patriarh din genealogie."
-   },
-   {
     "author": "Ioan Calvin, Comentariu la Facere",
     "text": "4. Și zilele lui Adam după ce l-a născut pe Set. În numărul anilor înregistrați aici trebuie să luăm seama în special la lunga vreme cât au trăit patriarhii împreună. Căci, de-a lungul a șase veacuri la rând, când familia lui Set se făcuse un popor mare, glasul lui Adam putea răsuna în fiecare zi, ca să înnoiască amintirea creației, a căderii și a pedepsei omului; să mărturisească nădejdea de mântuire care rămăsese după pedeapsă și să povestească judecățile lui Dumnezeu, prin care toți puteau fi învățați. După moartea lui, fiii lui ar fi putut, într-adevăr, să transmită, ca din mână în mână, urmașilor lor ce învățaseră; dar mult mai eficace ar fi învățătura din gura aceluia care fusese el însuși martor ocular al tuturor acestor lucruri. Totuși, atât de uimitoare și chiar de monstruoasă era încăpățânarea de obște, încât nici partea mai sănătoasă a neamului omenesc n-a putut fi ținută în ascultare și în frica de Dumnezeu."
    }
@@ -1091,6 +1094,160 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "În ziua în care a mâncat Adam fructul oprit, a devenit muritor, a început să moară; toată viața lui de după aceea n-a fost decât o viață pierdută, osândită, ba chiar o viață care se istovea, se stingea; nu era numai ca un osândit cu sentința rostită, ci ca unul deja răstignit, care moare încet și treptat."
+   },
+   {
+    "author": "2 Baruh 17:2",
+    "text": "Căci ce folos i-a adus lui Adam că a trăit nouă sute treizeci de ani și a călcat ce i se poruncise?",
+    "src": {
+     "slug": "2-baruh",
+     "spec": {
+      "num": 17,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Moise 5 — comparație",
+    "text": "Și Adam a născut treizeci de fii și treizeci de fiice și Adam a trăit nouă sute treizeci de ani; și a căzut bolnav și a strigat cu glas tare",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 5,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Moise 31 — comparație",
+    "text": "Și când Eva a spus aceasta în mijlocul fiilor ei, pe când Adam zăcea bolnav și legat să moară după o singură zi de boala care se prinsese de el,",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 31,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Moise 34 — comparație",
+    "text": "și am strigat tare fiului meu Set și am zis: Scoală-te, Set, de pe trupul tatălui tău Adam și vino la mine, și vei vedea o priveliște pe care ochiul nici unui om n-a privit-o încă.",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 34,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Moise 35 — comparație",
+    "text": "Dar cine sunt cei doi întunecați care stau la rugăciunile pentru tatăl tău Adam?",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 35,
+      "v": 4
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Moise 37 — comparație",
+    "text": "Și a rămas acolo trei ceasuri, zăcând, și după aceea Părintele tuturor, șezând pe scaunul Său sfânt, Și-a întins mâna, și l-a luat pe Adam și l-a dat arhanghelului Mihail zicând: Ridică-l în Rai, în al treilea Cer, și lasă-l acolo până în ziua aceea înfricoșată a socotelii Mele, pe care o voi face în lume.",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 37,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Moise 38 — comparație",
+    "text": "Și au venit în rai și toate frunzele raiului s-au mișcat încât toți oamenii născuți din Adam au adormit de mireasmă, afară de Set singur, pentru că s-a născut «după rânduiala lui Dumnezeu».",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 38,
+      "v": 4
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Moise 40 — comparație",
+    "text": "În vremea aceea îngerii l-au luat și l-au așezat pe o stâncă, până a fost îngropat Adam, tatăl său.",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 40,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Viața lui Adam și Eva 30 — comparație",
+    "text": "După ce Adam a avut nouă sute treizeci de ani, de vreme ce știa că zilele lui ajungeau la capăt, a zis: Să se adune toți fiii mei la mine, ca să-i binecuvântez înainte de a muri, și să vorbesc cu ei.",
+    "src": {
+     "slug": "viata-adam-eva",
+     "spec": {
+      "num": 30,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Viața lui Adam și Eva 46 — comparație",
+    "text": "Mihail îngerul și a stat la capul lui Adam și i-a zis lui Set: Scoală-te de pe trupul tatălui tău și vino la mine și vezi care este hotărârea Domnului Dumnezeu despre el. Făptura Lui este, și Dumnezeu s-a îndurat de el.",
+    "src": {
+     "slug": "viata-adam-eva",
+     "spec": {
+      "num": 46,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Viața lui Adam și Eva 48 — comparație",
+    "text": "Și toate «puterile» îngerilor au mers înaintea lui Adam, și somnul morților a fost sfințit.",
+    "src": {
+     "slug": "viata-adam-eva",
+     "spec": {
+      "num": 48,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Viața lui Adam și Eva 48 — comparație",
+    "text": "Atunci va ședea pe scaunul celui care i-a fost uzurpator.",
+    "src": {
+     "slug": "viata-adam-eva",
+     "spec": {
+      "num": 48,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Viața lui Adam și Eva 49 — comparație",
+    "text": "La șase zile după ce a murit Adam, Eva a priceput că va muri, (așa că) i-a adunat pe toți fiii și fiicele ei,",
+    "src": {
+     "slug": "viata-adam-eva",
+     "spec": {
+      "num": 49,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Viața lui Adam și Eva 51 — comparație",
+    "text": "lui Set: Om al lui Dumnezeu, nu jeli pe morții tăi mai mult de șase zile, căci a șaptea zi este semnul învierii și odihna veacului care va să vină; în a șaptea zi S-a odihnit Domnul de toate lucrările Sale.",
+    "src": {
+     "slug": "viata-adam-eva",
+     "spec": {
+      "num": 51,
+      "v": 2
+     }
+    }
    }
   ],
   "fidela": "Și toate zilele pe care Adam le-a trăit au fost nouă sute treizeci de ani; și a murit.",
@@ -1509,10 +1666,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Targum Ionatan",
     "text": "Și toate zilele lui Set au fost nouă sute doisprezece ani, și a murit."
-   },
-   {
-    "author": "Notă structurală",
-    "text": "Formula de încheiere „și au fost toate zilele lui X, N ani; și a murit” apare, cu doar numele și cifra schimbate, la fiecare patriarh — cu o singură excepție izbitoare în tot capitolul: Enoh (v. 24), unde „a murit” lipsește complet."
    }
   ]
  },
@@ -3421,6 +3574,17 @@ window.CHAPTER_DATA = [
     "text": "«Enoh a mers cu Dumnezeu.» A umblat în căile Lui, ca să facă bine altora prin dreptate și mustrare."
    },
    {
+    "author": "Zohar Chadash, Shir HaShirim 400",
+    "text": "Și acea strălucire a sufletului de sus care a zburat de la el s-a urcat sus, și era tăinuită într-un tezaur, care este un trup. Până a născut fii, și a ieșit Ḥanokh în lume. Odată ce a venit Ḥanokh, acea strălucire de sus, suflet sfânt, a coborât în el, și era Ḥanokh în acea mărire de sus pe care a lăsat-o de la el Adam. Aceasta este ceea ce este scris (Bereșit 5:22) «și a umblat Ḥanokh cu Elohim etc.»",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 26,
+      "v": 400
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 4 — comparație",
     "text": "Și el a mai fost cu îngerii lui Dumnezeu aceste șase jubilee de ani, și i-au arătat tot ce este pe pământ și în ceruri, rânduiala soarelui, și el a scris toate. Și a mărturisit împotriva Străjerilor, care păcătuiseră cu fiicele oamenilor; căci aceștia începuseră să se unească, ca să se pângărească, cu fiicele oamenilor, și Enoh a mărturisit împotriva lor tuturor.",
     "src": {
@@ -3564,10 +3728,6 @@ window.CHAPTER_DATA = [
     "text": "Și toate zilele lui Enoh cu locuitorii pământului au fost trei sute șaizeci și cinci de ani."
    },
    {
-    "author": "Notă structurală",
-    "text": "365 de ani, numărul zilelor unui an solar, e cea mai scurtă viață din capitol; Enoh nu moare: „l-a luat Dumnezeu” (5:24)."
-   },
-   {
     "author": "Cartea Dreptului 4 — comparație",
     "text": "Și toate zilele lui Enoh au fost 365 de ani.",
     "src": {
@@ -3575,6 +3735,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 4,
       "v": 1
+     }
+    }
+   },
+   {
+    "author": "2 Enoh 68 — comparație",
+    "text": "Enoh s-a născut în ziua a șasea a lunii Țivan și a trăit trei sute șaizeci și cinci de ani.",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 68,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "2 Enoh 68 — comparație",
+    "text": "A scris toate aceste semne ale întregii creații, pe care a creat-o Domnul, și a scris trei sute șaizeci și șase de cărți și le-a predat fiilor săi și a rămas pe pământ treizeci de zile și a fost iarăși luat la cer în ziua a șasea a lunii Țivan, chiar în ziua și ceasul în care s-a născut.",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 68,
+      "v": 3
      }
     }
    }
@@ -3806,6 +3988,50 @@ window.CHAPTER_DATA = [
    {
     "author": "Filon din Alexandria, Întrebări și răspunsuri la Facere I",
     "text": "(86) Ce înseamnă expresia: „N-a fost găsit, pentru că Dumnezeu l-a strămutat”? (Fac 5:24). Mai întâi, sfârșitul oamenilor virtuoși și sfinți nu este moartea, ci o strămutare și o mutare și o apropiere de un alt loc de locuit. În al doilea rând, în acest caz s-a petrecut ceva minunat; căci s-a presupus că a fost răpit în așa fel încât să fie nevăzut, și de aceea nu a fost găsit: și o dovadă a aceasta este că a fost căutat ca nevăzut, nu doar ca unul răpit din fața lor, căci strămutarea într-un alt loc nu este nimic altceva decât așezarea cuiva într-o altă situație; dar aici se sugerează că a fost strămutat dintr-un loc vizibil, perceptibil prin simțurile din afară, într-o idee fără trup, înțeleasă numai de minte. Această milă a fost dată și marelui proroc, căci și mormântul lui n-a fost cunoscut de nimeni. Și în afară de acești doi a mai fost unul, Ilie, care s-a înălțat de la lucrurile pământului la cer, după arătarea dumnezeiască ce i s-a înfățișat atunci, și care astfel a urmat lucrurile mai înalte sau, ca să vorbim cu mai exactă potrivire, a fost ridicat la cer."
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 9:3",
+    "text": "Să punem înaintea noastră pe Enoh, care, fiind găsit drept în ascultare, a fost mutat, și moartea lui nu s-a găsit.",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 9,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Epistola lui Barnaba 4:3",
+    "text": "Ultima ofensă e aproape, despre care grăiește scriptura, precum zice Enoh. Căci spre acest scop a tăiat Stăpânul vremile și zilele scurte, ca Preaiubitul Său să grăbească și să vină la moștenirea Sa.",
+    "src": {
+     "slug": "barnaba",
+     "spec": {
+      "num": 4,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Pavel 19:8",
+    "text": "Și am întrebat pe înger și am zis: «Cine e acesta, Doamne?» Iar el mi-a zis: «Acesta e Enoh, scriitorul dreptății.»",
+    "src": {
+     "slug": "apocalipsa-pavel",
+     "spec": {
+      "num": 19,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "Martiriul și Înălțarea lui Isaia 9:9",
+    "text": "Și acolo am văzut pe Enoh și pe toți cei care erau cu el, dezbrăcați de veșmintele cărnii, și i-am văzut în veșmintele lor din lumea de sus și erau ca îngerii, stând acolo în mare slavă.",
+    "src": {
+     "slug": "martiriul-isaia",
+     "spec": {
+      "num": 9,
+      "v": 9
+     }
+    }
    }
   ],
   "fidela": "Și Enoh a umblat cu Dumnezeu: și nu a mai fost, pentru că Dumnezeu l-a luat.",
@@ -4700,6 +4926,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Origen, Omilii la Facere 2.3",
     "text": "Urcând prin treptele locuințelor [din corabia zidită de Noe în timpul potopului], se ajunge la Noe însuși, al cărui nume înseamnă odihnă sau drept, care este Iisus Hristos. Căci ceea ce spune tatăl său, Lameh, nu se potrivește vechiului Noe. Căci „acesta”, zice el, „ne va da odihnă de ostenelile și de întristările mâinilor noastre și de pământul pe care l-a blestemat Domnul Dumnezeu.” Cum va fi adevărat că vechiul Noe a dat odihnă acelui Lameh sau acelui popor care atunci erau cuprinși pe pământuri? Cum e încetare a ostenelilor și a întristărilor în vremea lui Noe? Numai Iisus a dat odihnă omenirii și a izbăvit pământul de blestemul cu care l-a blestemat Domnul Dumnezeu."
+   },
+   {
+    "author": "1 Enoh 106 — comparație",
+    "text": "Și acum du-te și spune-i lui Lameh că acest fiu care s-a născut este cu adevărat al lui și cheamă-i numele Noe; căci el va fi rămășița voastră, pe care vă veți odihni, și el și fiii lui vor fi mântuiți de distrugerea care va veni pe pământ din pricina tuturor păcatelor și a toată nedreptatea care se va săvârși pe pământ în zilele lui.",
+    "src": {
+     "slug": "1-enoh",
+     "spec": {
+      "num": 106,
+      "v": 18
+     }
+    }
    }
   ],
   "fidela": "Și i-a pus numele Noe, spunând: Acesta ne va mângâia pentru lucrarea noastră și osteneala mâinilor noastre, din cauza pământului pe care Dumnezeu l-a blestemat.",

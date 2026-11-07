@@ -638,6 +638,39 @@ window.CHAPTER_DATA = [
    {
     "author": "John Gill, Expunerea Bibliei",
     "text": "Din păsările cerului, de asemenea, câte șapte, parte bărbătească și femela ei... Adică din cele curate; șapte perechi din acestea trebuiau aduse în arcă, spre aceeași folosință ca și dobitoacele curate și cele rânduite sub lege; și așa, în vremea aceea, aici se înțeleg turturelele și porumbeii tineri, care erau pentru jertfă, iar celelalte pentru hrană: și rostul aducerii amândurora în arcă era să se păstreze sămânța vie pe toată fața pământului, ca specia vietăților să fie continuată, atât a dobitoacelor, cât și a păsărilor, curate și necurate."
+   },
+   {
+    "author": "Oracolele Sibiline 3 — comparație",
+    "text": "Acum Eu sunt Cel ce este (și cugetă aceasta în inima ta): Mă îmbrac cu cerul și Mă înconjor cu marea; pământul este așternut picioarelor Mele; în jurul chipului Meu vărs văzduhul, și în jurul Meu dansează stelele. Am nouă litere și patru silabe. Ia seama: primele trei au câte două litere, iar cea din urmă are restul, și cinci sunt mute. Din suma totală, sutele sunt de două ori opt, și zecile de trei ori trei, cu șapte. Să știi cine sunt și să nu fii neștiutor al iubirii Mele.»",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 3,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 3 — comparație",
+    "text": "Fiți treji, încetați de la faptele voastre rele, nu vă luptați cu violență, nici nu aveți inimă ucigașă, nici nu udați multe țări cu sânge omenesc. Închinați-vă, o, muritori, Făcătorului ceresc, cel mai mare dintre toți și neînfricat, marele Dumnezeu nepieritor, al cărui sălaș este cerul; și rugați-L toți, căci este bun; rugați-L pentru viața întregii lumi, a cetăților, a dobitoacelor cu patru picioare și a păsărilor, ca să fie milostiv către toți.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 3,
+      "v": 4
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 4 — comparație",
+    "text": "Dar după ce el a vorbit astfel în zadar acelui neam fără lege, Cel Preaînalt S-a arătat și a chemat iarăși și a zis: «A venit vremea, o, Noe, să fac cunoscut fiecare lucru pe care ți l-am făgăduit și l-am hotărât în fiecare zi: să împlinesc în toată lumea, din pricina vinovăției oamenilor, toate câte nenumărate nedreptăți au făcut neamurile de mai înainte. Dar tu grăbește-te și intră cu fiii tăi, cu soția ta și cu soțiile lor. Cheamă pe câți Eu poruncesc: semințiile fiarelor, ale târâtoarelor și ale păsărilor; și în pieptul acelora pe care Eu le rânduiesc să rămână în viață voi pune îndată mintea grabnică și binevoitoare să intre.»",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 4,
+      "v": 1
+     }
+    }
    }
   ]
  },
@@ -839,6 +872,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
     "text": "Căci încă șapte zile — O săptămână pentru o lume ca să se pocăiască! Ce pauză solemnă! Oare mai râdeau și își băteau joc de nebunia lui? Cel ai cărui ochi au văzut și a cărui inimă a simțit toată măsura nelegiuirii și a răutății omenești ne-a vorbit despre nepăsarea lor nechibzuită (Luca 17:27)."
+   },
+   {
+    "author": "Oracolele Sibiline 3 — comparație",
+    "text": "Căci atunci când toată lumea cea mare a oamenilor va fi pierdută de ape, veți plânge un cântec înfricoșător. Și deodată văzduhul din jurul vostru se va tulbura, și mânia lui Dumnezeu va veni din cer peste voi; și să știți că Mântuitorul nemuritor o va trimite peste oameni, dacă nu-L veți îmbuna pe Dumnezeu și nu vă veți pocăi acum, și dacă nu veți mai fi unii față de alții atât de obraznici, răi și nedrepți, ci vă veți întări cu o viață sfântă.»",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 3,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -1353,6 +1397,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Tratate la Evanghelia după Ioan 11.7.2",
     "text": "Oare nu era Noe un om sfânt, care singur din tot neamul omenesc, cu toată casa lui, a meritat să fie izbăvit de potop? Și nu este Biserica prefigurată prin Noe și fiii lui? Ei scapă de potop, purtați de lemn (care înseamnă crucea)."
+   },
+   {
+    "author": "Marcion, Evangelion 17:28",
+    "text": "mâncau, beau, se însurau, se măritau, până în ziua în care a intrat Noe în corabie, și a venit potopul și i-a pierdut pe toți.",
+    "src": {
+     "slug": "marcion-evangelion",
+     "spec": {
+      "num": 17,
+      "v": 28
+     }
+    }
    }
   ]
  },
@@ -2064,6 +2119,39 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 5,
       "v": 24
+     }
+    }
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 40:10",
+    "text": "Toate acestea sunt pentru cei nelegiuiți zidite și din pricina lor a fost potopul.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 40,
+      "v": 10
+     }
+    }
+   },
+   {
+    "author": "4 Ezdra 3:9",
+    "text": "Și iarăși, cu vremea, ai adus potopul peste cei ce locuiau în lume și i-ai nimicit.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 3,
+      "v": 9
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 4 — comparație",
+    "text": "Așa a vorbit; și el s-a dus și a strigat cu glas tare. Apoi soția și fiii lui, cu tinerele lor soții, au intrat în casa de lemn. Și apoi au intrat îndată și toate celelalte, după cum a voit Dumnezeu. Dar când cheia a fost potrivită la capac, îmbinat de-a curmezișul la locul lui lustruit, atunci s-a împlinit voia Dumnezeului ceresc. Atunci El a adunat norii întunecați laolaltă și a ascuns discul strălucitor al soarelui și luna și stelele și cercul cerurilor, întunecând toate; și tunete puternice au răsunat, groaza muritorilor, și fulgerele au strălucit; toate vânturile s-au stârnit, toate șuvoaiele de ape s-au desfăcut, și din cer s-au deschis cataracte mari. Și ascunzișurile pământului și adâncul neobosit și-au deschis nenumăratele ape, iar pământul larg și nemărginit a fost acoperit.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 4,
+      "v": 2
      }
     }
    }
@@ -3354,6 +3442,17 @@ window.CHAPTER_DATA = [
     "text": "«Și apele s-au învârtoșat.» Acest verset vine să adauge la înmulțirea apelor, căci „s-au învârtoșat” este mai mult decât „au crescut”; și a spus „s-au învârtoșat” după „au crescut” ca să facă cunoscut că învârtoșarea era în mulțime, nu doar în tărie. Și la început apele au ridicat-o de pe pământ; când apele s-au învârtoșat mai mult, au purtat-o încoace și încolo."
    },
    {
+    "author": "Zohar Chadash, Yitro 44",
+    "text": "Vultur — aceasta este ceea ce este scris (Mișlei 30:19): «calea vulturului în ceruri». Că nu se teme de pasărea lumii, pentru că vulturoaica este Matronita de sus, și stăpânirea ei este în zile bune și Sabaturi. Dar porumbița, stăpânirea ei este în cele șase zile ale Bereșit, și ea în galut nu are odihnă tălpii piciorului ei. Pentru că fiii Lilit, murdăria șarpelui, asupra lor s-a zis (Bereșit 7:18–19): «și apele s-au întărit foarte foarte asupra pământului», care sunt Israel, despre care s-a zis (Bereșit 28:14): «și va fi sămânța ta ca țărâna pământului». Ei se întăresc asupra lor în galut, în femei frumoase, în fii frumoși, în avere, în haine frumoase.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 13,
+      "v": 44
+     }
+    }
+   },
+   {
     "author": "Cartea Dreptului 5 — comparație",
     "text": "Apele au crescut și s-au înmulțit foarte mult pe pământ și corabia plutea pe fața apelor.",
     "src": {
@@ -3929,6 +4028,50 @@ window.CHAPTER_DATA = [
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
     "text": "a murit orice făptură... pasăre... vită... și târâtoare — Principiul unitar al lucrării dumnezeiești, când judecățile sunt peste pământ, a fost să cuprindă tot ce este legat de obiectele păcătoase ale mâniei Sale (Fac. 19:25; Exod 9:6). Pe lângă aceasta, acum, când neamul omenesc fusese redus la o singură familie, era nevoie ca și fiarele să fie micșorate în aceeași măsură, altfel, prin numărul lor, ar fi căpătat întâietate și i-ar fi biruit pe puținii care aveau să repopuleze lumea. Așa s-a amestecat bunătatea cu asprimea; Domnul judecă cu înțelepciune și, în mânie, își aduce aminte de milă."
+   },
+   {
+    "author": "4 Ezdra 3:10",
+    "text": "Și s-a întâmplat la fiecare dintre ei că, precum a fost moartea pentru Adam, așa a fost potopul pentru aceștia.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 3,
+      "v": 10
+     }
+    }
+   },
+   {
+    "author": "2 Baruh 56:15",
+    "text": "Și cei care locuiau pe pământ au pierit laolaltă (cu ei) prin apele potopului.",
+    "src": {
+     "slug": "2-baruh",
+     "spec": {
+      "num": 56,
+      "v": 15
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 3 — comparație",
+    "text": "Nu plângeți deloc, voi, monștri, ci râdeți. Veți râde râsete sardonice, să vă spun, când va veni potopul înfricoșător al lui Dumnezeu; când valul va înnoi pe pământ un neam curat, răsărit veșnic din rădăcini uscate și moarte; într-o noapte, rădăcină și ramură vor deveni necunoscute. Și cetățile cu oamenii lor, din adânc, le risipește Cel ce zguduie pământul și le dărâmă zidurile. Și atunci toată lumea oamenilor nenumărați va muri. Dar cum voi plânge eu, cum mă voi tângui în casa de lemn! Cum voi amesteca lacrimile cu valurile! Căci dacă apele vor veni la cuvântul lui Dumnezeu, pământul va pluti, dealurile vor pluti, ba și văzduhul va pluti; apă va fi peste tot și toate vor fi nimicite de ape. Și vânturile se vor opri, și o a doua vârstă va răsări. O, frigianule, tu, cel dintâi care vei ieși din apa cea înaltă, vei hrăni un alt neam de oameni, ca dintr-un alt început nou, și vei fi doică pentru toți.»",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 3,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Petru 4:20",
+    "text": "Uriel, îngerul lui Dumnezeu, va scoate sufletele acelor păcătoși care au pierit în potop și ale tuturor celor care au locuit în toți idolii, în orice chip turnat, în orice (obiect de) dragoste și în picturi, și ale celor care au locuit pe toate dealurile și în pietre și pe marginea drumului, pe care oamenii îi numeau zei: îi vor arde împreună cu ei în foc veșnic; și după ce toți, cu locuințele lor, vor fi nimiciți, vor fi pedepsiți veșnic.",
+    "src": {
+     "slug": "apocalipsa-petru",
+     "spec": {
+      "num": 4,
+      "v": 20
+     }
+    }
    }
   ]
  },
@@ -4253,6 +4396,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Iustin Martirul, Dialog cu Trifon 138",
     "text": "Căci atunci când Moise a avut toiagul în mâini, a condus neamul vostru prin mare. Și voi credeți că aceasta s-a spus numai neamului vostru sau țării. Dar tot pământul, după cum spune Scriptura, a fost inundat, și apa s-a înălțat cincisprezece coți deasupra tuturor munților: așa că este limpede că aceasta nu s-a spus țării, ci poporului care I-a ascultat: pentru care El pregătise mai dinainte un loc de odihnă în Ierusalim, după cum s-a arătat mai înainte prin toate simbolurile potopului; vreau să spun că, prin apă, credință și lemn, cei pregătiți mai dinainte, care se pocăiesc de păcatele pe care le-au săvârșit, vor scăpa de judecata de care Dumnezeu e aproape."
+   },
+   {
+    "author": "4 Ezdra 3:11",
+    "text": "Totuși, pe unul dintre ei l-ai lăsat, anume pe Noe cu casa lui, din care au ieșit toți oamenii drepți.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 3,
+      "v": 11
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 4 — comparație",
+    "text": "Dar, după ce s-a odihnit alte zile, a trimis iarăși porumbelul, ca să afle dacă încetaseră de acum apele multe; și acesta a zburat departe și a coborât pe pământ și, oprindu-se să se odihnească puțin pe pământul umed, s-a întors iarăși la Noe și a adus o ramură de măslin, semnul veștii celei mari. Atunci el s-a umplut de îndrăzneală și de bucurie mare, căci spera să vadă iarăși pământul. Și apoi a trimis îndată o altă pasăre, cu aripi negre; și aceasta, încrezându-se în aripile ei, a zburat de îndată și, ajungând pe pământ, a rămas acolo. Atunci Noe a știut că pământul era foarte aproape. Dar după ce arca a fost aruncată încoace și încolo de valurile furioase, stăpânită prin iscusință dumnezeiască, a plutit peste valurile mării și s-a oprit pe țărmul îngust.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 4,
+      "v": 5
+     }
+    }
    }
   ]
  },

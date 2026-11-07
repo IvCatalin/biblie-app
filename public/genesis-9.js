@@ -1200,6 +1200,17 @@ window.CHAPTER_DATA = [
     }
    },
    {
+    "author": "Mișna, Rabeinu Iona pe Pirkei Avot 3:52",
+    "text": "El obișnuia să spună: „Iubit este omul, căci a fost creat în chip”. O iubire deosebită i s-a făcut cunoscută, după cum este spus (Geneza 9:6): „Căci în chipul lui Dumnezeu a făcut pe om”. Fiindcă a repetat expresia, trebuie să spunem că aceasta este explicația: „Iubit este omul, căci a fost creat în chip” — chiar dacă lucrul nu se știa, ci doar că omul a fost creat în chipul lui Dumnezeu, era totuși iubit înaintea Lui, după ce au fost creați în chipul și în asemănarea Lui; iar când ne-a descoperit lucrul, ne-a făcut cunoscută o iubire deosebită.",
+    "src": {
+     "slug": "mishna-avot-extra-rabbeinu-yonah-on-pirkei-avot",
+     "spec": {
+      "num": 3,
+      "v": 52
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 6 — comparație",
     "text": "Cine varsă sângele omului, prin om să i se verse sângele; căci după chipul lui Dumnezeu l-a făcut El pe om.",
     "src": {
@@ -1213,6 +1224,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
     "text": "Cine varsă sângele omului... căci după chipul lui Dumnezeu l-a făcut pe om — Este adevărat că acel chip a fost vătămat prin cădere, dar nu s-a pierdut. Din acest punct de vedere se pune o mare valoare pe viața fiecărui om, chiar a celui mai sărac și mai umil, și o vinovăție cumplită stă în nimicirea ei."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Legile Orientului Apropiat pedepseau omuciderea, dar de obicei după rangul victimei. Geneza întemeiază cererea de socoteală pentru sângele omului pe un temei nou: omul a fost făcut „după chipul lui Dumnezeu”, deci orice viață omenească are aceeași valoare."
    }
   ]
  },
@@ -2090,6 +2105,28 @@ window.CHAPTER_DATA = [
       "v": 8
      }
     }
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 44:18",
+    "text": "Legăminte veșnice s-au așezat cu el, ca să nu se șteargă prin potop orice trup.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 44,
+      "v": 18
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 6 — comparație",
+    "text": "El și-a pus arcul în nor ca semn al legământului veșnic, că nu va mai fi potop pe pământ ca să-l nimicească în toate zilele pământului.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 6,
+      "v": 16
+     }
+    }
    }
   ]
  },
@@ -2496,6 +2533,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
     "text": "CURCUBEUL. (Fac. 9:8–29) Îmi pun arcul în nor — pus, adică rânduit, hotărât. Acest fenomen obișnuit și cunoscut, făcut chezășie a păcii, ar fi fost primit cu cea mai vie bucurie când apărea la începutul ploilor."
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 43:11",
+    "text": "Privește curcubeul și binecuvântează pe Cel ce l-a făcut; foarte frumos este în strălucirea lui.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 43,
+      "v": 11
+     }
+    }
    }
   ]
  },
@@ -3714,6 +3762,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
     "text": "Și Noe... a sădit o vie — Noe fusese probabil crescut în lucrarea pământului și s-a întors la această îndeletnicire când a ieșit din arcă."
+   },
+   {
+    "author": "3 Baruh 4:11",
+    "text": "Și când pământul a apărut din apă și Noe a ieșit din corabie, a început să sădească din plantele pe care le-a găsit.",
+    "src": {
+     "slug": "3-baruh",
+     "spec": {
+      "num": 4,
+      "v": 11
+     }
+    }
+   },
+   {
+    "author": "Documentul de la Damasc 3:1",
+    "text": "Fiii lui Noe s-au rătăcit. Prin ele sunt tăiați.",
+    "src": {
+     "slug": "documentul-damasc",
+     "spec": {
+      "num": 3,
+      "v": "1"
+     }
+    }
    }
   ]
  },
@@ -4554,6 +4624,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Și a știut ce îi făcuse fiul său cel mic.» Unii explică: Ham, care nu l-a acoperit; și deși este cel mijlociu, l-a numit „mic”, expresie de nevrednic și de josnic; iar alții explică: „fiul cel mic” al lui Ham, despre care am vorbit mai sus, și acesta este Canaan, fiul cel mic al lui Ham, care l-a dezgolit, căci este scris: „și fiii lui Ham: Cuș, Mițraim, Put și Canaan”; și este un verset înfundat, căci și despre Sem și Iafet a vorbit mai sus; dar blestemul lămurește că l-a blestemat mai mult decât pe toți. Iar mie mi se pare că se poate explica „fiul cel mic” al lui Noe, adică Sem, care s-a străduit la poruncă mai mult decât toți, ca să nu te miri de ce a dat binecuvântare celui mic mai mult decât celui mare, și spune că Noe a cunoscut cinstea și binele pe care i le-a făcut."
+   },
+   {
+    "author": "Zohar Chadash, Noach 100",
+    "text": "Și a zis Ribi Yehudah: a venit Kenaan și l-a castrat; s-a trezit din vinul său, și s-a aflat pe sine castrat. Că este scris (Bereșit 9:24): «și s-a trezit Noaḥ din vinul său, și a știut ce i-a făcut fiul său cel mic». «Pe care l-a văzut» nu s-a zis, ci «pe care i l-a făcut», că l-a castrat. Și de aceea l-a blestemat, că s-a zis (ibid.): «și a zis: blestemat este Kenaan; un rob al robilor va fi fraților săi».",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 2,
+      "v": 100
+     }
+    }
    },
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",

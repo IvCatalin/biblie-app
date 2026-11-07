@@ -208,6 +208,17 @@ window.CHAPTER_DATA = [
     }
    },
    {
+    "author": "Mișna, Logodnele 4:14",
+    "text": "Rabbi Yehudah spune: burlacul să nu pască vite, și doi burlaci să nu doarmă într-un singur talit. Iar înțelepții permit. Oricine are de-a face cu femeile să nu rămână singur cu femeile. Și omul să nu-și învețe fiul un meșteșug între femei. Rabbi Meir spune: întotdeauna să-și învețe omul fiul un meșteșug curat și ușor, și să se roage Celui a Cărui este bogăția și averea, căci nu este meșteșug în care să nu fie sărăcie și bogăție; căci nici sărăcia nu vine din meșteșug, nici bogăția din meșteșug, ci totul după meritul lui. Rabbi Șimʿon ben Eliʿezer spune: Ai văzut vreodată în zilele tale un animal (sau „o fiară sălbatică”) sau o pasăre care să aibă un meșteșug? Și ele se hrănesc fără chin. Iar ele n-au fost create decât ca să mă slujească, iar eu am fost creat ca să-L slujesc pe Făcătorul meu; nu este oare de drept să mă hrănesc fără chin? Numai că mi-am stricat faptele și mi-am știrbit hrana. Abba Guryan, omul din Ṣadyan, spune în numele lui Abba Gurya: omul să nu-și învețe fiul meseria de măgărar, cămilar, bărbier, corăbier, păstor sau negustor, căci meșteșugul lor este meșteșug de tâlhari. Rabbi Yehudah spune în numele lui: măgărarii — cei mai mulți sunt răi; cămilarii — cei mai mulți sunt vrednici; corăbierii — cei mai mulți sunt evlavioși. Cel mai bun dintre medici este pentru ghehinom, iar cel mai vrednic dintre măcelari este tovarășul lui ʿAmaleq. Rabbi Nehorai spune: Las deoparte orice meșteșug din lume și nu-mi învăț fiul decât Tora, căci omul mănâncă din plata ei în lumea aceasta, iar capitalul rămâne pentru lumea ce va veni. Iar toate celelalte meșteșuguri nu sunt așa: când omul ajunge la boală, sau la bătrânețe, sau la suferințe, și nu se poate îndeletnici cu munca lui, iată, el moare de foame. Dar Tora nu este așa, ci îl păzește de tot răul în tinerețea lui și îi dă viitor și nădejde în bătrânețea lui. În tinerețea lui, ce spune? (Isaia 40:31) „Iar cei care nădăjduiesc în Domnul își vor înnoi puterea.” În bătrânețea lui, ce spune? (Psalmul 92:15) „Încă vor rodi la cărunteți.” Și așa spune despre Avraham, părintele nostru, pacea asupra lui: (Geneza 24:1) „Și Avraham era bătrân… și Domnul l-a binecuvântat pe Avraham în toate.” Am găsit că Avraham, părintele nostru, a făcut toată Tora întreagă înainte să fie dată, căci s-a spus: (Geneza 26:5) „pentru că Avraham a ascultat de glasul Meu și a păzit rânduiala Mea, poruncile Mele, legile Mele și învățăturile Mele”.",
+    "src": {
+     "slug": "mishna-kiddushin",
+     "spec": {
+      "num": 4,
+      "v": 14
+     }
+    }
+   },
+   {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Să ascultăm, așadar, ce ne spune Sfânta Scriptură: „Avraam era bătrân, înaintat în ani. Domnul îl binecuvântase pe Avraam în toate privințele.” De ce ne-a pomenit aceasta? Fiindcă urma să poarte de grijă lui Isaac, până la a-i aduce o soție; de aceea ne-a amintit vârsta patriarhului."
    }
@@ -957,6 +968,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Vedeți porunca dată de patriarh slujitorului? Nu treceți cu vederea aceste cuvinte; luați seama la scopul omului bun și vedeți cum, în vechime, grija lor nu era să caute belșug de averi, nici mare bogăție, nici robi, nici atâtea pogoane de pământ, nici farmecul frumuseții din afară — ci căutau frumusețea sufletului și noblețea purtării. Căci, văzând răutatea locuitorilor Canaanului și știind ce mare bine este să ai un tovarăș de viață cu purtări asemănătoare, i-a poruncit slujitorului și l-a pus să jure că va aduce lui Isaac o soție dintre rudele lui. Nici depărtarea locurilor, nici celelalte greutăți nu l-au făcut să amâne lucrul. Dimpotrivă, înțelegând nevoia acelei treburi, s-a grăbit să-l trimită pe slujitor. Patriarhul a făcut aceasta din grijă pentru virtutea sufletului și din scârbă față de răutatea locuitorilor țării."
+   },
+   {
+    "author": "Tovit 4:13",
+    "text": "Adu-ți aminte, fiule, că Noe, Avraam, Isaac și Iacov, părinții noștri din veac, au luat femei din frații lor și au fost binecuvântați în fiii lor, și seminția lor va moșteni pământul.",
+    "src": {
+     "slug": "tovit",
+     "spec": {
+      "num": 4,
+      "v": 13
+     }
+    }
    }
   ]
  },
@@ -2690,6 +2712,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Zece cămile dintre cămilele» Explicația: motivul luării lui zece, căci în raport cu cămilele stăpânului său erau ca unul luat, iar în afară de aceasta era de ajuns una.<br><br>Încă vrea să spună că a luat zece cămile, explicația: multe, după felul spusei „mai bun pentru tine decât zece fii”.<br><br>Iar spusa „dintre cămilele stăpânului său”, explicația: dintre cele rânduite pentru nevoia lui, cele alese la el ca să fie încărcate mult, și a venit să excludă din rândul averilor celelalte cămile care erau ale lui Avraam.<br><br>«Și cu toată bogăția stăpânului său în mâna lui» Iar spusa „și tot binele”, explicația: tot ce este ales din averile stăpânului său, aur și pietre prețioase și mărgăritare. Iar motivul – dacă ea nu va voi să vină după el, să vadă casa lui nikhto. Și de asemenea dacă va fi obligat la zestre (mohar), să vadă că are din ce să înmulțească zestrea și darul. Iar spusa „în mâna lui”, explicația: care sunt în mâna lui."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Cămilele din Geneza au fost discutate mult: oasele de cămilă domesticită apar în mod curent în Orientul Apropiat abia către mileniul I î.Hr. (de exemplu în minele de aramă din Timna), iar unii cercetători socotesc pomenirile din povestirile patriarhilor ca fiind adăugate mai târziu. Alții cred că folosirea lor sporadică în alte vremuri este posibilă."
    }
   ]
  },
@@ -3169,6 +3195,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și a spus: Doamne etc., aranjează etc.» Eliezer era încrezut în stăpânul său că rugăciunea lui, în care s-a rugat „El va trimite pe îngerul Său” etc., este primită, și el a adăugat să se roage ca el să fie vrednic ca lucrul să se facă prin el, căci se găsește uneori că există împiedicare ca să se împlinească cuvintele rugăciunii din partea mijlocitorului, de aceea s-a rugat la Dumnezeul stăpânului său să aranjeze înaintea lui.<br><br>Iar motivul pentru care a fost nevoie să facă această rânduială, căci s-a temut ca nu cumva familia lui Avraam să-l înșele când vor ști că el este poruncit și stă să ia o fiică dintre ei, îi vor da o slujnică din familiile lor care sunt cu ei în casă și vor spune că ea este din sămânța lor. De aceea a procedat cu înțelepciune și a făcut în această rânduială o deosebire strălucitoare, care este generozitatea (sau „îngăduința”) minunată, care dă mai mult decât a cerut de la ea. Și prin aceasta a cunoscut-o o cunoaștere dreaptă că ea este din casa lui Avraam, căci conversația, după candoarea (sau „uimirea”) ei, fără să știe vreun lucru despre el că pe ea o va căuta, iar începutul cuvintelor ei a luminat prin ce a spus „fiica lui Betuel” etc.:"
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 3",
+    "text": "Baraita: Șapte părinți au adormit cu cinstea lumii și nu a stăpânit asupra lor putreziciunea și viermele: Avraam, Isaac și Iacov, Amram, tatăl lui Moise, Beniamin, fiul lui Iacov, Isai și Caleb; și unii spun: și David, căci s-a spus: „De aceea mi se bucură inima și mi se veselește slava; chiar și trupul meu se va odihni în siguranță”.⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌‌‌​​‌‌ Șapte au intrat de vii în grădina Edenului, iată-i: Serah, căci este scris: „Eu sunt dintre cei pașnici și credincioși ai lui Israel”: eu sunt cea care am întregit numărul celor ce intră în grădina Edenului. Și Bitia, fiica lui Faraon, căci este scris: „a născut pe Iered”: a spus Sfântul, binecuvântat fie El: Nu-l numesc pe Moise decât cu numele cu care l-a numit ea, căci s-a spus: „și Dumnezeu l-a chemat” etc. Aceasta este ce a spus David: „El a trimis de sus, m-a luat, m-a scos din ape mari”. „Căci l-am scos din apă”: a spus Sfântul, binecuvântat fie El: Ea a adus mântuire lui Israel și i-a scos la viață; iată, Eu îți lungesc viața. A spus: Am încheiat legământ cu părinții voștri, iar ei în căile părinților lor; aceasta, care a părăsit domnia și s-a lipit de ei, nu-i voi plăti? Hiram, împăratul Tirului: prin ce a avut merit? Pentru că a făcut un sanctuar cum l-a făcut Moise, căci este scris: „împreună cu toate aceste unelte”. Ce este „cort”? Acesta este Cortul Întâlnirii. Și Ebed-Melec, Etiopianul, care l-a scos pe Ieremia, căci este scris: „Ebed-Melec, Etiopianul, a zis” etc. Eliezer, pentru că l-a slujit pe Avraam. Când? De vreme ce a spus: „aranjează ziua de azi înaintea mea”, și este scris acolo: „Căci Domnul, Dumnezeul tău, mi l-a scos în cale”. Și mai departe, de unde o avem? Căci este scris: „și i-a adus vin”, și spune: „Uite, aroma fiului meu este ca aroma unui câmp pe care l-a binecuvântat Domnul”. Și nepotul lui Rabbi Yehudah ha-Nasi: avem tradiție; și Rabbi Yehoșuaʿ ben Levi: de asemenea avem tradiție. Și Iaebeț, de unde o avem? Căci este scris: „Iaebeț a chemat”, și este scris: „și să fie mâna Ta cu mine”. Și unii o aduc de aici: „și să mă ferești de rău”. De unde o avem că acest rău este moartea? Căci este scris: „căci din pricina răului este luat cel drept”. Și s-a învățat: De n-ar fi relele care vin în lume, cei drepți n-ar fi luați fără vremea lor. Și Iaebeț a cerut pentru sine: „ca să nu fiu întristat”; „și Dumnezeu i-a dat ce ceruse”. S-a sfârșit capitolul.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 3,
+      "v": 25
+     }
+    }
    }
   ]
  },
@@ -5698,6 +5735,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și două brățări pentru mâinile ei» Explicația: că i s-au potrivit ca și cum s-ar fi făcut după măsura aceasta, și a făcut lucrul din pricina dreptățirii lui prin supravegherea Domnului asupra lui și semnele care îl îndreptățesc pe care le-au văzut ochii lui."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Darurile aduse Rebecăi (inelul de nas, brățările) și apoi „lucruri de argint și de aur” pentru familie (24:53) corespund „prețului miresei” (mohar) din actele de căsătorie din Nuzi și Ugarit, unde familia mirelui dădea daruri familiei miresei, iar acestea rămâneau, în bună parte, zestre pentru mireasă."
    }
   ]
  },
@@ -5898,6 +5939,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«A cui fiică ești tu? Spune-mi etc.» A alăturat cele două întrebări, ca să spună că nu a avut îndoială dacă ea este din familia lui Avraam, căci dacă ar fi avut îndoială nu trebuia să întrebe dacă este loc până ce va ști dacă drumul îi este drept înainte, ci desigur că a crezut în Domnul că i-a reușit drumul, iar ce a întrebat „a cui fiică ești” este care este numele tatălui ei etc., și înainte ca ea să răspundă a spus „este casa tatălui tău” etc. căci acest lucru nu se va schimba prin spusa a cui fiică etc., și înțelege:"
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 4",
+    "text": "Baraita: Și stai înaintea bătrânilor și pleacă-ți urechea să asculți cuvintele lor, căci este scris: „pe bătrânii tăi și îți vor spune”; și străduiește-te asupra cuvintelor lor, să răspunzi la cel dintâi întâi și la cel din urmă la urmă. Am învățat acolo: Șapte lucruri sunt la cel necioplit. De ce începe cu cel necioplit? Să fi învățat „înțeleptul”! Și mai mult, a spus „înțeleptul”. Fiindcă vrea să învețe „înțeleptul nu”, să fi învățat „vorbește”. A învățat: laudele înțelepților le rânduiește, iar ale proștilor, pe dos. I-a spus Rav Aḥa lui Rava: De unde, din Tora, „la cel dintâi întâi și la cel din urmă la urmă”? Numărul este de la rabani; și după gândul tău, toate de unde? I-a spus: Eu le spun: Înțeleptul nu vorbește „meḥușei”, căci este scris: „Vorbește tu”; și nu intră în mijlocul cuvintelor înțelepților, căci este scris: „Când a sfârșit Ieremia de vorbit” etc. „toate cuvintele Domnului, Dumnezeului lor” etc.; și nu se grăbește, căci este scris: „Nu te grăbi cu gura ta”; întreabă, căci este scris: „El i-a întrebat de sănătate”; și răspunde, căci este scris: „Și ei au spus: Este sănătos”. Spune la cel dintâi întâi, căci este scris: „A cui fiică ești tu? Spune-mi, te rog! Este oare loc pentru noi să înnoptăm în casa tatălui tău?” etc., și este scris: „Ea i-a spus: Sunt fiica lui Betuel”, și apoi: „Avem la noi nu doar fân și nutreț din belșug”. Și Moise, căci este scris: „Moise a auzit și a fost bine în ochii lui”; și este scris: „căci în Numele Domnului, Dumnezeului nostru, ne-a vorbit”.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 4,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -6822,6 +6874,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Fata a alergat»: a alergat acasă cu bucurie și a povestit celor din casa mamei ei, căci fiica își are povestirile și vorbele cu mama, nu cu tatăl.<br><br>«Despre aceste lucruri» (ka-devarim ha-elleh): după cuprinsul acestor lucruri, mai puțin decât ele sau mai mult decât ele sau cu schimbare de cuvinte, căci așa este felul celui care povestește."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Rebeca aleargă să povestească în casa mamei ei, iar fratele ei, Lavan, ia primul cuvântul în tratative (24:29–50): în unele acte din Nuzi, fratele are un rol hotărâtor la căsătoria surorii sale. Scena fântânii unde se întâlnește slujitorul cu viitoarea mireasă este și un tipar literar, care revine la Iacov (29) și la Moise (Ieșirea 2)."
    }
   ]
  },
@@ -8578,6 +8634,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Domnul l-a binecuvântat mult pe stăpânul meu etc.» Adică: este foarte bogat."
+   },
+   {
+    "author": "Zohar Chadash, Chukat 76",
+    "text": "Și ce este binecuvântarea? Untdelemnul bun care coboară pe capul său. Aceasta este ceea ce este scris (Tehilim 133:1) «cât de bun și cât de plăcut» — cu adevărat. «Ca untdelemnul bun» — untdelemnul locuiește în el binecuvântarea, că locul pricinuiește. Și asupra acesteia «și Domnul l-a binecuvântat pe stăpânul meu foarte», și s-a mărit, precum este scris (Bereșit 24:35) «și îți voi mări». «Numele tău» — precum este scris (Șir ha-Șirim 1:3) «untdelemn turnat este numele tău».",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 20,
+      "v": 76
+     }
+    }
    }
   ]
  },
@@ -13741,6 +13808,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Și pe doica ei.» Doica din copilărie; și a pomenit-o acum ca să nu te miri, când vei ajunge la pericopa morții ei, de unde a venit."
+   },
+   {
+    "author": "Testamentul lui Neftali 1:9",
+    "text": "Iar mama mea a fost Bilha, fiica lui Rotheus, fratele Deborei, doica Rebecăi, care s-a născut în una și aceeași zi cu Rahela.",
+    "src": {
+     "slug": "testament-neftali",
+     "spec": {
+      "num": 1,
+      "v": 9
+     }
+    }
    }
   ]
  },
@@ -13985,6 +14063,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Sora noastră, să devii mii de miriade etc.» Motivul spusei „tu”, explicația: după ce Avraam a primit vestea că mii de miriade vor ieși din Isaac, fie voia să iasă din tine. Iar mai bine ar fi fost pentru ei ca lucrul acesta să nu fie și să nu se împlinească, și înțelege că toată partea răului urăște partea binelui, și lui să-i fie fiul și fiica lui."
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 1",
+    "text": "Baraita: De unde este binecuvântarea mirilor din Tora? Căci s-a spus: „Au binecuvântat-o pe Rebeca”. Ghemara: Oare cu pahar au binecuvântat-o? Ci este un sprijin; iar Rabbi Yoḥanan a spus: de aici: „Și i-a binecuvântat Dumnezeu”. Dar dacă este așa, la animale, unde este scris „Și le-a binecuvântat Dumnezeu”, ce este? Ci pentru că este scris: „Și Domnul Dumnezeu a zidit”; și s-a învățat: căci în cetățile mării numesc împletitura de păr „zidire”.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 1,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -14661,6 +14750,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 8,
       "v": 4
+     }
+    }
+   },
+   {
+    "author": "Zohar Chadash, Chukat 27",
+    "text": "Aceasta este ceea ce este scris: «și din midbar — dar». Ce este midbar? Precum zici (Șir ha-Șirim 4:3) «și vorbirea ta este frumoasă». Matanah — pricinuiește tzadikului să-i dea dar. «Și din dar — Naḥaliel» — aceste fluviuiri de sus, Netzah și Hod. «Și din Naḥaliel — bamot» — aceasta este urcarea către locul unde locuiește Regele. «Și din bamot — valea care este în câmpul Moav» — acesta este Yitzḥak, care șade în acel câmp. Că este scris (Bereșit 24:63) «și a ieșit Yitzḥak să cugete pe câmp». Și din acel câmp s-a trezit asupra lor din, până au șezut în vale. Roș ha-Pisgah — acesta este Avraham, capul lumii.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 20,
+      "v": 27
      }
     }
    }

@@ -258,6 +258,17 @@ window.CHAPTER_DATA = [
     "text": "«Eu sunt pavăză pentru tine; răsplata ta este foarte mare.» De două lucruri se temea și pentru amândouă i-a făgăduit: se temea ca nu cumva să aibă dușmani din pricina acelor regi pe care i-a ucis, de aceea i-a spus: „Eu sunt pavăză pentru tine”; și se temea ca nu cumva să fie pedepsit pentru ei, i-a spus: nu îți ajunge că nu vei fi pedepsit, ci „răsplata ta este foarte mare”, fiindcă ai luptat împotriva dușmanilor Domnului."
    },
    {
+    "author": "Zohar Chadash, Chukat 84",
+    "text": "(Ibid.) «Frumos ești mai mult decât fiii omului» — iată au statornicit-o tovarășii asupra lui Avraham. Te-ai înfrumusețat în cele de sus: (Bereșit 15:1) «Eu sunt scut ție». Te-ai înfrumusețat în cele de jos: (ibid. 23) «prinț al lui Elohim ești». De aceea yafyafita — două laude cuprinse. «Har s-a turnat pe buzele tale»: (ibid. 18) «iată acum am îndrăznit». «De aceea te-a binecuvântat»: (ibid. 24) «și Domnul l-a binecuvântat pe Avraham în totul».",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 20,
+      "v": 84
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 14 — comparație",
     "text": "După aceste lucruri, în anul al patrulea al săptămânii acesteia, la luna nouă a lunii a treia, cuvântul Domnului a venit la Avram într-un vis, zicând: Nu te teme, Avram; Eu sunt apărătorul tău, și răsplata ta va fi foarte mare.",
     "src": {
@@ -291,6 +302,39 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 18,
       "v": 35
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 18 — comparație",
+    "text": "Și dacă proprietarul bunurilor se certa cu ei, spunând, ce este această lucrare pe care voi mi-ați făcut-o mie, atunci ei se apropiau de el unul câte unul, și fiecare îi arăta puținul pe care îl luase și îl batjocorea, spunând, eu am luat doar acel puțin pe care tu mi l-ai dat; iar când el auzea aceasta de la ei toți, se ridica și pleca de la ei în mâhnire și amărăciune de suflet, când ei se ridicau și mergeau după el, și îl alungau din oraș cu mare zgomot și tumult.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 18,
+      "v": 17
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 18 — comparație",
+    "text": "Și călătorul i-a răspuns lui, spunând, nu astfel domnul meu, căci eu eram treaz când ți-am dat funia și de asemenea și mantaua țesută cu diferite culori, pe care tu ai dat-o jos de pe asin să o pui deoparte pentru mine; iar Hedad a răspuns și i-a spus, cu siguranță eu ți-am spus ție interpretarea visului tău și este un vis bun, și aceasta este interpretarea lui.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 18,
+      "v": 31
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 18 — comparație",
+    "text": "Iar bărbatul și-a prezentat cauza sa înaintea lui Serac judecătorul, când Hedad a răspuns, spunând, nu este așa, ci astfel pricina stă; iar judecătorul i-a spus călătorului, acest om Hedad îți spune ție adevăr, căci el este vestit în orașe pentru precisa interpretare a viselor.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 18,
+      "v": 34
      }
     }
    }
@@ -547,6 +591,17 @@ window.CHAPTER_DATA = [
     "text": "«Ce îmi poți da Tu oare.» Adică: ce folos am din ce îmi vei da, dacă îl vor moșteni alții? Și deși Sfântul îi spusese de mai multe ori „seminției tale îi voi da țara aceasta”, Avraam socotea că membrii familiei lui sunt numiți „sămânța lui”; iar Eliezer, care a venit din Aram, din Damasc, din țara Aram, poate era ruda lui; și de aceea i-a lămurit aici: „ci acela care va ieși din tine, acela te va moșteni”."
    },
    {
+    "author": "Talmudul Babilonian, Taanit, cap. 4",
+    "text": "„Iar israeliții din acel mișmar se adună în cetățile lor și citesc din lucrarea creației.” De unde sunt aceste cuvinte? A spus Rabbi Yaʿaqov bar Aḥa, a spus Rav Assi: Dacă n-ar fi fost maʿamadot, n-ar fi dăinuit cerurile și pământul, căci s-a spus: „Și a spus: Stăpâne, Doamne Dumnezeule, prin ce voi ști că o voi moșteni?”",
+    "src": {
+     "slug": "talmud-taanit",
+     "spec": {
+      "num": 4,
+      "v": 15
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 14 — comparație",
     "text": "Și el a zis: Doamne, Doamne, ce-mi vei da, de vreme ce plec de aici fără copii, și fiul lui Maseq, fiul roabei mele, este Damesec Eliezer: el va fi moștenitorul meu, și mie nu mi-ai dat sămânță.",
     "src": {
@@ -556,6 +611,10 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "În actele din Nuzi, un cuplu fără copii putea adopta un moștenitor, adesea un slujitor, care primea averea și ținea doliul, dar rămânea fără moștenire dacă se năștea un fiu firesc. Nu se știe sigur dacă Geneza se sprijină anume pe acest obicei, dar „fiul casei” lui Avram (Eliezer) se potrivește bine cu el."
    }
   ]
  },
@@ -1145,6 +1204,17 @@ window.CHAPTER_DATA = [
       "v": 4
      }
     }
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 17:2",
+    "text": "Avraam a dobândit o bună mărturie peste măsură și a fost numit prietenul lui Dumnezeu; și privind statornic slava lui Dumnezeu, zice în smerenie a minții: Dar eu sunt țărână și cenușă.",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 17,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -1291,6 +1361,17 @@ window.CHAPTER_DATA = [
     "text": "«Și Avram a crezut în Domnul și i-a socotit aceasta ca dreptate.» Explicația pe calea spuselor lor, binecuvântată fie amintirea lor,: că legea milosteniei (ṣedaqa) este ca a juruințelor, căci cel care jură Celui înalt este ca cel care predă unui om de rând. Iar aceasta este spusa „a crezut în Domnul”, explicația: a depus la El binecuvântarea, iar dacă vei spune: oare încă nu a ajuns în mâna lui ca s-o depună în mâna unui om de încredere? de aceea a spus „și i-a socotit aceasta ca ṣedaqa”, explicația: Avraam a socotit ceea ce Domnul i-a spus că este ṣedaqa, și de vreme ce așa, are legea predării și a încredințat-o în mâna Domnului.<br><br>Încă va voi: fiindcă i-a promis că fiii lui vor fi drepți, iar acest lucru nu este în mâna Sfântului, binecuvântat fie, după cum au spus, binecuvântată fie amintirea lor,: totul este în mâna cerului în afară de frica de cer, a spus Scriptura că a crezut în Domnul că așa va face, și nu a avut îndoieli față de măsurile Lui spunând „oare nu…” etc., și Domnul i-a socotit lui Avraam aceasta ca ṣedaqa, că a făcut minunat să-i facă drepți. Sau face aluzie pe această cale că deși aceasta a fost de la Domnul, să fie treizeci de drepți în lume, dacă așa, El voia să încline omul spre calea dreaptă, iar acestui om nu i se cuvine judecata dreptății pe care a spus-o Scriptura: „Și merit va fi pentru noi dacă vom avea grijă” etc. De acum cei treizeci de drepți sunt siliți în faptele lor. De aceea a spus că cu toate acestea „și Domnul i-a socotit aceasta ca ṣedaqa”, explicația: pentru sămânța pomenită alături, căci este scris „așa va fi sămânța ta”, căci acolo se face aluzie la treizeci prin numărul cuvântului „va fi” (yihyeh)."
    },
    {
+    "author": "Grădina Încuiată 1:111",
+    "text": "Și să știi că tot cine Îl tăgăduiește s-a chemat kašfan, și tot kašfan Îl tăgăduiește. Și cine crede în El, asupra lui zice scrisul «și a crezut în Domnul și I-a socotit-o Ẓedaqa» (Facerea 15:6). Pentru că el este Qeẓ holed sullam; Sinai 5 Nume sfinte care sunt 10 ori Eḥad. Aluzie YH care este Nume pentru 10 Sefirot, 5 față de 5; Adonai față de Adonai, care este îndoitul dintâi, și el este Qal. Tot A față de A, care este kaved; și taina lui: bo im 9 ḥol ẓav ḥoq. Așa trebuie să faci ca aceasta dacă vei vrea să semeni cu Numele în căile Lui, în toată Tora și în toate Numele, până unești literă cu literă și unul cu doi și doi cu doi, și îi despărți tot uneori în părți egale și uneori în părți neegale și uneori cu adaos și uneori cu lipsă, în formele acestea scrise la tine asupra alfabetului rabinului R. Yiẓḥaq mi-Bedrash ze.",
+    "src": {
+     "slug": "kab-gan-naul-(abulafia)",
+     "spec": {
+      "num": 1,
+      "v": 111
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 14 — comparație",
     "text": "Și el a crezut în Domnul, și i s-a socotit ca dreptate.",
     "src": {
@@ -1304,6 +1385,72 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Așadar, să învățăm, vă rog, o lecție și pentru noi de la patriarh: să credem în cuvintele lui Dumnezeu și să ne încredem în făgăduința Lui. Să nu aplicăm măsura propriului nostru raționament, ci să dăm dovadă de adâncă recunoștință. Aceasta, vezi, va izbuti să ne arate și pe noi drepți și ne va face repede să dobândim făgăduința pe care ne-a făcut-o. În cazul lui Avraam, însă, făgăduința a fost că dintre urmașii lui va ieși o mulțime întreagă. Împlinirea făgăduinței era dincolo de hotarele firii și ale logicii omenești. De aceea credința în Dumnezeu i-a câștigat dreptatea. În cazul nostru, … dacă suntem destul de treji ca s-o vedem, El a făgăduit mult mai mult. Putem trece într-o mare măsură dincolo de raționamentul omenesc, cu condiția să credem în puterea Celui ce face făgăduința, ca să dobândim și noi dreptatea din credință și să ajungem la bunurile făgăduite."
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 10:1",
+    "text": "Avraam, care a fost numit «prietenul», a fost găsit credincios prin aceea că a dat ascultare cuvintelor lui Dumnezeu.",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 10,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Marcion, Apostolikon: Galateni 3:6",
+    "text": "Precum Avraam a crezut pe Dumnezeu și i s-a socotit lui spre dreptate.",
+    "src": {
+     "slug": "marcion-galateni",
+     "spec": {
+      "num": 3,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Marcion, Apostolikon: Romani 4:3",
+    "text": "Căci ce zice Scriptura? Și a crezut Avraam pe Dumnezeu și i s-a socotit lui spre dreptate.",
+    "src": {
+     "slug": "marcion-romani",
+     "spec": {
+      "num": 4,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Eusebiu din Cezareea, Istoria bisericească, Cartea I, cap. 4",
+    "text": "Și într-adevăr lui Avraam, care era astfel, înainte de tăierea lui împrejur, un om îndreptățit, i s-a dat de Dumnezeu, Care i S-a descoperit (dar acesta era Hristos însuși, cuvântul lui Dumnezeu), o proorocie despre cei care, în veacurile viitoare, aveau să fie îndreptățiți în același chip ca el. Proorocia era în cuvintele următoare: „Și în tine vor fi binecuvântate toate semințiile pământului.” (Geneza 12:3) Și iarăși: „El va deveni un neam mare și numeros; și în el vor fi binecuvântate toate neamurile pământului.” (Geneza 18:18)",
+    "src": {
+     "slug": "eusebiu-istoria",
+     "spec": {
+      "num": 4,
+      "v": 12
+     }
+    }
+   },
+   {
+    "author": "Documentul de la Damasc 3:2",
+    "text": "Avraam n-a umblat în ea, și a fost socotit prieten, pentru că a păzit poruncile lui Dumnezeu, și n-a ales voia duhului său.",
+    "src": {
+     "slug": "documentul-damasc",
+     "spec": {
+      "num": 3,
+      "v": "2"
+     }
+    }
+   },
+   {
+    "author": "Cartea întâia a Macaveilor 2:52",
+    "text": "Avraam oare nu în ispită a fost găsit credincios și i s-a socotit spre dreptate?",
+    "src": {
+     "slug": "1-macabei",
+     "spec": {
+      "num": 2,
+      "v": 52
+     }
+    }
    }
   ]
  },
@@ -1627,17 +1774,6 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Prin ce voi ști că o voi moșteni?» Nu se poate spune că a cerut un semn de la Sfântul, căci deja crezuse; și încă: ce semn i-a dat? La început i-a spus, iar la sfârșit i-a spus la fel; ci „prin ce voi ști că o voi moșteni”, adică: știu că o voi moșteni, ci prin ce o voi moșteni: în ce timp și în ce neam și când va fi și cât voi moșteni din ea, precum se spune despre Ahab, căci i-a spus profetul: „Ai văzut toată această mulțime mare? Iată, o dau în mâna ta”, iar Ahab i-a spus: „Prin cine?”, adică prin mâna cui voi birui; și tot așa aici: prin ce și în ce chip va veni moștenirea."
-   },
-   {
-    "author": "Talmudul Babilonian, Taanit, cap. 4",
-    "text": "„Iar israeliții din acel mișmar se adună în cetățile lor și citesc din lucrarea creației.” De unde sunt aceste cuvinte? A spus Rabbi Yaʿaqov bar Aḥa, a spus Rav Assi: Dacă n-ar fi fost maʿamadot, n-ar fi dăinuit cerurile și pământul, căci s-a spus: „Și a spus: Stăpâne, Doamne Dumnezeule, prin ce voi ști că o voi moșteni?”",
-    "src": {
-     "slug": "talmud-taanit",
-     "spec": {
-      "num": 4,
-      "v": 15
-     }
-    }
    },
    {
     "author": "Zohar, Ki Tisa 6:10",
@@ -2138,6 +2274,10 @@ window.CHAPTER_DATA = [
       "v": 8
      }
     }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Tăierea animalelor în două ca să pecetluiască un legământ are paralele: la Mari, o învoială se încheia „omorând un măgăruș”, iar un tratat aramaic de la Sfire tăia un vițel în două, spunând că așa să i se întâmple celui care încalcă jurământul. Geneza păstrează această imagine, dar în ea numai Dumnezeu trece printre bucăți (15:17)."
    }
   ],
   "refs": [
@@ -2819,6 +2959,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Talmudul Babilonian",
     "text": "În lucru: traducerea acestui comentariu urmează."
+   },
+   {
+    "author": "Mișna, Mărturiile 2:9",
+    "text": "El spunea: tatăl dobândește pentru fiu frumusețea, puterea, bogăția, înțelepciunea, anii și numărul generațiilor dinaintea lui; și acesta este sfârșitul, căci s-a spus (Isaia 41:4): „Cel care cheamă generațiile de la început”; deși s-a spus (Geneza 15:13): „Și îi vor robi și îi vor asupri patru sute de ani”, și s-a spus (Geneza 15:16): „Și a patra generație se va întoarce aici.”",
+    "src": {
+     "slug": "mishna-eduyot",
+     "spec": {
+      "num": 2,
+      "v": 9
+     }
+    }
+   },
+   {
+    "author": "Zohar Chadash, Yitro 2",
+    "text": "I-a zis: aceasta, că Sfântul, binecuvântat fie El, le amintește lui Israel în tot locul și locul: «Anokhi Domnul Dumnezeul tău, care te-am scos din țara Egiptului»; (Vayikra 19:36) «Eu sunt Domnul Dumnezeul vostru, care v-am scos din țara Egiptului». Ce măreție se învață aici? O condiție desăvârșită este; aceasta este ceea ce a zis lui Avraham (Bereșit 15:13): «că un străin va fi sămânța ta într-o țară care nu este a lor etc., și după aceea vor ieși cu avere mare». Dacă astfel, de ce să le amintească acest lucru în tot locul și locul?",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 13,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -2995,6 +3157,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Dar chiar pe neamul etc.» Este greu cum poate fi spus „și chiar” despre ceea ce a precedat, care este robia și oprimarea, iar aceasta este o binefacere, să ne răzbunăm pe dușmanii noștri. Al doilea, cuvântul „et” este de prisos. Al treilea, spusa „Eu îl voi judeca” (dan anokhi) este un lucru cunoscut, că El este Judecătorul. Al patrulea, de ce a întrerupt între întâmplarea pe care Domnul a hotărât-o asupra fiilor Lui, în judecata celor care îi subjugă, când trebuia să încheie spunând „apoi vor ieși” etc., care este sfârșitul chestiunii lui Israel, iar după aceea să spună „pe neamul căruia îi vor sluji” etc. Și de aceea este cu putință că a vrut să spună prin această schimbare că după ce Domnul va judeca neamul vor ieși cu avere, și a luat rânduiala lucrului făcut, și precum am aflat că așa a fost, mai întâi i-a judecat și după aceea le-au dat cu împrumut avere mare.<br><br>Însă sensul Scripturilor se va lămuri pe calea spusei lor, binecuvântată fie amintirea lor (Tanhuma, Beșalah) „și cincizeci au urcat” etc., unul din cincizeci, iar unii spun unul din cinci sute, iar restul au murit în Egipt („Mițrayim”) în zilele întunericului și beznei, ca să nu-i simtă egiptenii. Încă au spus, binecuvântată fie amintirea lor, la versetul „și pentru toți fiii lui Israel era lumină” etc., că Israel căutau în camerele lucrurilor de preț ale egiptenilor și știau etc., și prin aceasta le-au dat cu împrumut și au prădat etc., și vezi ce am explicat în comentariul acestui verset, la locul lui. Și aceasta este ce a spus Domnul lui Avraam „și chiar” etc., explicația: pe lângă hotărârea robiei și oprimării, și o adăugire a hotărârii de pedepse îl va judeca pe Israel când îi va judeca pe egipteni, ca să nimicească și să omoare o parte mare dintre ei, după un părere cincizeci de părți și după altă părere cinci sute de părți. Și prin aceasta se precizează cuvântul „și chiar” și cuvântul „et”, iar spusa „Eu”, explicația: această lovitură nu au cunoscut-o egiptenii decât El singur, căci a fost în zilele întunericului. Și aproape de aceasta este spusa Lui „și după aceea” etc., explicația: în cursul acelei judecăți, când va aduce acea lovitură ca să-i judece pe amândoi, neamul care slujește și neamul care este slujit, care este lovitura întunericului, după aceea vor ieși cu avere etc., precum s-a spus mai sus, că prin aceasta le-au dat cu împrumut.<br><br>Încă se va lămuri Scriptura prin ceea ce vom mai cerceta: de ce a adus Domnul asupra egiptenilor zece lovituri și la mare au fost loviți etc., după ce am aflat că așa a hotărât cel ce hotărăște.<br><br>Iar Rambam, binecuvântată fie amintirea lui, în Cartea Cunoașterii a scris că motivul vinovăției neamurilor care subjugă este că Domnul nu a spus: neamul cutare etc. Iar Ramban și Raavad l-au contestat: ce-i cu asta, până la urmă fac o poruncă prin împlinirea cuvântului regelui. Iar Ramban a explicat că pedeapsa este pentru că au adăugat să oprime mai mult decât lucrarea pe care a hotărât-o Domnul, iar după cuvintele lui neamurile nu sunt pedepsite decât pentru adaosul de oprimare. Iar pe calea lui, binecuvântată fie amintirea lui, se va lămuri Scriptura astfel: „și chiar pe neamul îl voi judeca Eu”, explicația: Domnul va judeca cu el, iar din rezultatul chestiunii tu știi că va înmulți peste măsura hotărârii, și a precizat spunând „et”, explicația: va judeca cu el El însuși, în slava Lui și în ființa Lui, iar El spune „Eu” căci El este Cel care știe măsura hotărârii și măsura adaosului pentru care îi va pedepsi, iar toate acestea pe calea lui Ramban.<br><br>Iar adevărul în ochii mei este că toate neamurile sunt vinovate să fie pedepsite pentru toată oprimarea și durerea cu care ne fac rău, iar cercetarea de la început nu este dreaptă. Căci motivul pentru care neamurile ne oprimă este din cauza separării noastre de ele și a împlinirii poruncilor pe care le împlinim noi, ieși și învață: dacă Israel ar fi slujit mielului și ar fi fost un singur popor în Egipt, egiptenii nu i-ar fi subjugat și ar fi fost ca frații lor egiptenii. Așa și la fiecare neam și neam care subjugă Israelul și îi face rău, motivul este că suntem moștenirea lui Șadai. Și de acum ce loc este pentru argumentul că ele sunt trimișii Dumnezeului care a hotărât, oare Dumnezeu nu a hotărât pentru că au încălcat o ramură din cuvintele Lui, iar ele fac rău pentru că nu încalcă toată Tora și au fost ca toate neamurile casa lui Israel. Și aceasta este spusa lui „Eu M-am mâniat puțin”, explicația: pentru că au încălcat o parte din Tora M-am mâniat puțin, iar aceste neamuri care pedepsesc Israelul, dimpotrivă, ajută prin oprimare spre rău ca să încalce totul, și așa este, că cel care încalcă religia îl scutesc de tot răul și îi fac bine.<br><br>Și aceasta este spusa Lui „și chiar pe neamul Eu îl voi judeca”, căci Eu cunosc gândurile omului și șiretlicurile lui și motivul oprimării, că nu este pentru împlinirea poruncii Domnului care a hotărât așa asupra lor. Iar din rezultatul chestiunii tu știi că dușmanul a sporit să facă răutate, de vreme ce pedepsește din pricina urii lui, nu este ură ca ura religiei, și este simplu că se va purta cu cruzime față de ei peste măsură. Și după aceasta se poate spune „și chiar” etc., care este vestirea înmulțirii durerii ce va trece peste fiii Lui, iar alături de aceasta a scris „apoi vor ieși” etc., explicația: de vreme ce intenția lor nu este să împlinească porunca Domnului, ei sunt supuși restituirii jafului în tot ce i-au subjugat. Ieși și învață din întâmplarea lui Geviha care a cerut de la egipteni plata pentru câți ani i-au subjugat pe Israel.<br><br>Încă aluzionează Scriptura pe calea spusei lor, binecuvântată fie amintirea lor: Au fost exilați în Egipt, Șechina era cu ei etc., și este scris „Cu el sunt Eu în necaz”. Și încă au spus la versetul „și sub picioarele Lui ca lucrarea cărămizii de safir” că aluzionează la robia în care au fost robiți Israel în cărămizi etc., și aceasta este spusa Lui „și chiar pe neamul căruia îi vor sluji, acolo sunteți cu ei, Eu judec”, care aluzionează la Șechina care va fi cu ei în exil, și prin aceasta se precizează cuvântul „și chiar”, care este adaos de durere, și cuvântul „et” și cuvântul „Eu”."
+   },
+   {
+    "author": "Tratatul Semachot, cap. 8",
+    "text": "Și nu numai atât, ci că a șezut asupra lui: se rostogolește meritul prin cei care au merit. Vrednic era Israel să fie răscumpărat din Egipt, chiar dacă nu s-ar fi ridicat Moise și Aaron, căci s-a spus: „apoi urmașii tăi vor ieși cu avere mare”. Vrednic era Israel să primească Tora, chiar dacă nu s-ar fi ridicat Moise și Aaron și generația pustiei, căci s-a spus: „El păstrează izbânda pentru cei drepți”. Vrednică era pericopa judecătorilor să fie spusă, chiar dacă nu s-ar fi ridicat Ietro. Vrednică era pericopa Paștelui cel mic să fie spusă, chiar dacă nu s-ar fi ridicat cei necurați. Vrednică era pericopa moștenirii să fie spusă, chiar dacă nu s-ar fi ridicat fiicele lui Țelofhad. Vrednic era Templul să fie zidit, chiar dacă nu s-ar fi ridicat David și Solomon, căci s-a spus: „Sanctuarul, Stăpâne, pe care mâinile Tale l-au întemeiat”. Vrednic era Israel să fie răscumpărat în zilele lui Haman, chiar dacă nu s-ar fi ridicat Mardoheu și Estera, căci s-a spus: „Dar cu toate acestea, când vor fi în țara dușmanilor lor, Eu nu îi voi disprețui și nu îi voi respinge”, și celelalte. Vrednic era Israel să fie robit, chiar dacă nu s-ar fi ridicat Faraon în Egipt, căci s-a spus: „îi vor subjuga și-i vor oprima patru sute de ani”. Vrednic era Israel să slujească idolilor, chiar dacă nu s-ar fi ridicat Ieroboam, fiul lui Nebat, căci s-a spus: „acest popor se va ridica și se va perverti”. Vrednică era pericopa celui care blestemă și a celui care adună lemne să fie spusă, chiar dacă nu s-ar fi ridicat fiul femeii israelite și cel care a adunat lemne. Vrednic era Israel să cadă de sabie, chiar dacă nu s-ar fi ridicat Cutare și Cutare, căci s-a spus: „De sabie vor muri toți păcătoșii poporului Meu”; și mai spune: „De sabie, de foamete și de ciumă vor pieri”. Vrednic era Ierusalimul să fie distrus, chiar dacă nu s-ar fi ridicat Nebucadnețar și tovarășii lui, căci s-a spus: „De aceea, din pricina voastră, Sionul va fi arat ca un ogor, Ierusalimul va ajunge un morman de dărâmături, și muntele Casei, înălțimi de pădure”. Și nu numai atât, ci se rostogolește meritul prin cei care au merit și vinovăția prin cei vinovați.",
+    "src": {
+     "slug": "talmud-minor-semachot",
+     "spec": {
+      "num": 8,
+      "v": 14
+     }
+    }
    },
    {
     "author": "Cartea Jubileelor 14 — comparație",
@@ -3355,10 +3528,6 @@ window.CHAPTER_DATA = [
     "text": "«Și a patra generație etc. căci nu este împlinit.» Trebuie să ne punem mintea la motivul acesta. Iar Rashi și Ramban au fost în dezacord în explicarea „generației a patra”: Rashi, binecuvântată fie amintirea lui, a explicat „a patra” a celor exilați: Iuda, Pereț, Hețron, iar Caleb fiul lui Hețron a fost dintre cei care au venit în țară. Iar Ramban, binecuvântată fie amintirea lui, a respins cuvintele lui Rashi și a explicat „a patra generație” despre amoriți, căci Domnul își amintește păcatul părinților asupra celei de a treia și a patra generații. Și îmi este greu și cu cuvintele lui Ramban: pentru ce lucru îi face Domnul cunoscută această chestiune lui Avraam? Și, de asemenea, nu este aluzie la condiția din cuvintele Domnului, că dacă amoriții se vor întoarce nu-i va nimici cu desăvârșire, care este esența vestirii „generației a patra” după cuvintele lui. Și încă, dacă „generația a patra” este a amoriților, nu era nevoie să se întoarcă să o pomenească după aceea prin spusa „păcatul amoritului”, de vreme ce despre el vorbește aproape. Și este simplu că cuvintele lui Ramban nu sunt limpezi.<br><br>Iar adevărul este că Domnul a intenționat să spună două termene: unul este termenul exilului, robiei și oprimării, care se vor aduna toate la numărul de patru sute, și când vor ajunge patru sute de ani s-a încheiat hotărârea, și Domnul i-a scos din Egipt („Mițrayim”) în chiar ziua în care s-au încheiat cele patru sute. Iar al doilea termen este pentru venirea în țară, ca intrarea în țară să nu fie la încheierea celor patru sute, ci până la o altă generație, care este generația a patra. Și să știi că generația lui Caleb se socotește generația a treia, aceea care a ieșit din Egipt, și deși Caleb a intrat în țară, generația nu se socotește decât după majoritatea ei, iar Caleb este singurul care a rămas din generație, căci este scris: „în afară de Caleb, fiul lui Iefune”. Iar când Sfântul, binecuvântat fie, a spus „generația a patra” o spune despre totalitatea fiilor lui Israel. Și cuvintele lui Rashi nu sunt limpezi în ceea ce a spus în aceasta, ci „generația a patra” sunt cei care au ieșit din Egipt sub douăzeci de ani și au intrat în țară, adică fiii lui Caleb, iar ei sunt a patra față de hotărâre dacă socotești Pereț, Hețron, Caleb, Ieșer și Șobab, fiii lui Caleb, aceștia sunt generația a patra care s-a întors în țara Canaanului, căci nu se numără generațiile de la semințiile lui Israel, așa cum a început să numere Rashi: Iuda, Pereț etc., căci dacă venim să începem de la ziua în care a început hotărârea celor patru sute se socotește și Isaac, iar dacă venim să începem de la primul om care a coborât în Egipt se socotește de la Iacov și Caleb va fi al cincilea, ci cu siguranță nu se numără generațiile decât de când a început robia, în care Israel nu a fost în stăpânire proprie, iar aceasta a fost după moartea semințiilor, căci atunci a început robia, precum au spus, binecuvântată fie amintirea lor, că cât timp au fost semințiile în lume nu au gustat robia, și ca ei, precum părinții lor.<br><br>Iar Domnul a aluzionat la timpul de la care începe socoteala generațiilor prin spusa „se vor reîntoarce aici”, a precizat să spună cuvântul „se vor reîntoarce”, ca să spună că despre cei opriți în mâna unui stăpânitor spune „se vor reîntoarce” când vor încheia patru generații, iar prima generație peste care a fost puternică mâna stăpânitorului sunt fiii semințiilor, căci semințiile erau în stăpânirea lor, iar pe fiii lor egiptenii i-au captivat ca să nu urce din țară, și înțelege și dezrădăcinează (sau „esența”).<br><br>Și de acum să privim ca să înțelegem cuvintele Celui Sfânt, care va face să înflorească înțelepciunea, prin spusa Lui „căci păcatul amoritului nu este împlinit”, dacă așa, se dovedește că păcatul amoritului întârzie intrarea, iar în fapta pe care a rânduit-o Domnul în Tora Sa plăcută va arăta că păcatul iscoadelor este cel care a pricinuit întârzierea generației ieșite din Egipt până la sfârșitul ei, iar pe fiii lor i-a adus acolo, și în afară de iscoadele care s-au făcut vinovate ar fi intrat generația ieșită în anul al doilea de la ieșirea din Egipt, care este sfârșitul celor patru sute, iar iscoadele nu au mers decât pentru împlinirea voinței celor care au cerut să iscodească, și altfel Domnul le-a spus că vor intra în aceeași generație care a ieșit din Egipt, care este a treia, iar oare nu era încă neîmplinit păcatul amoritului, după cum a spus El, binecuvântat fie.<br><br>Însă intenția Scripturii este pe calea spusei lor, binecuvântată fie amintirea lor, în tratatul Berakhot, capitolul întâi, la versetul „când cel rău îl înghite pe cel mai drept decât el” – pe cel mai drept decât el îl înghite, pe cel desăvârșit de drept nu îl înghite – până aici. Explicația: dacă va fi un om rău, încă are în mâna lui puțin merit, și va veni un drept, care are multe merite, să-l provoace – nu are puterea dreptul să-l nimicească, căci încă are răul să-și primească plata meritului care i-a rămas în lumea aceasta, iar răul se va răzbuna pe drept, căci dreptul are în mâna lui din urâciune, fiindcă nu este drept desăvârșit. Dar când va fi desăvârșit, deși va rămâne răului o parte din bine, i se va anula desăvârșirea (sau „cununa”), și la fel dacă răul va fi desăvârșit în răutate și s-a încheiat judecata lui să moară, oricine săvârșește trimiterea Numelui ca să-l nimicească, iar oricine se grăbește în aceasta câștigă, și chiar dacă nu este drept desăvârșit poate să-l nimicească din lume.<br><br>Și iată, când au ieșit Israel din Egipt și când au trimis iscoadele erau la treapta celor drepți desăvârșiți, și deși au făcut vițelul, au fost pedepsiți deja pentru el, iar defăimarea nu are în ea măsură care să-i împiedice de la numele de drept desăvârșit pentru această chestiune, ca să nu fie numiți drepți desăvârșiți în raport cu amoritul, și ei sunt o generație evlavioasă, căci este scris: „Adunați-Mi pe cei devotați ai Mei, cei care încheie” etc., care nu au fost așa după trimiterea iscoadelor, când L-au întărâtat pe Domnul și s-au răzvrătit etc., și atunci au intrat în categoria „cel mai drept decât el” față de amorit. Și de aceea, când erau drepți desăvârșiți înainte de iscoade, era în ei puterea să-l respingă pe amorit, căci i-ar spune: Fă loc din țara noastră pe care ne-a dat-o Domnul, iar dacă nu va voi, acesta este un răzvrătit și vrednic de moarte, ceea ce nu este așa după ce au păcătuit și s-au răzvrătit împotriva spuselor lui Dumnezeu, nu au rămas în statutul de drept desăvârșit. Și fiindcă păcatul amoritului încă nu era împlinit, nu era în mâna lor să-l nimicească. Și de aceea vei găsi că atunci când au îndrăznit să urce la munte, a ieșit amoritul și i-a urmărit și i-a doborât cum ar fi făcut-o albinele, și aceasta arată „când cel rău îl înghite pe cel mai drept decât el”.<br><br>Și vei găsi încă, că la intrarea lor a spus Moise: „Nu datorită dreptății tale” etc. „ci datorită ticăloșiei acestor neamuri”, căci s-a împlinit păcatul lor. Și după aceasta, deși voi nu sunteți drepți desăvârșiți, „tu vii să stăpânești” etc., căci el nu are niciun merit ca să se spună despre el „cel mai drept decât el”. Căci sensul „cel mai drept decât el” arată că are ceva merit ca să se potrivească să se spună „cel mai drept decât el”, dar cel desăvârșit în răutate nu are parte de dreptăți ca să se spună „cel mai drept decât el”, și înțelege.<br><br>Și de acum se vor lămuri cuvintele Domnului pe drept: „și a patra generație” etc., explicația: îi făgăduiește o făgăduință care nu are anulare în niciun fel în lume, și a dat motiv pentru cuvântul Lui, binecuvântat fie numele Lui, iar în darea motivului „căci nu este împlinit” etc. Iar tu vei pricepe să știi că acest motiv nu ajunge decât pentru timpul în care Israel era lipsit de numele de drept desăvârșit, iar atunci, fiindcă păcatul amoritului încă nu era împlinit, nu puteau să vină în țara lui. Dar dacă Israel ar fi la treapta de drept desăvârșit, nu-i împiedică lipsa împlinirii păcatului să vină să stăpânească țara lui. Și de aceea, când au ieșit din Egipt și au primit Tora, Dumnezeu a fost de acord să intre în țară îndată și imediat și să ia țara lui, căci se vor război cu ei și vor fi geloși pe făcătorii de răutate. Ceea ce nu este așa după păcatul iscoadelor, au intrat în categoria „cel mai drept decât el”, de aceea a întârziat Domnul până la sfârșitul întregii generații, și între timp se va împlini păcatul amoritului. Iar dacă nu ar fi fost motivul împlinirii păcatului amoritului, fiii Lui ar fi intrat îndată și imediat, iar păcatul lor l-ar fi plătit prin alte pedepse, așa cum judecă Judecătorul cu dreptate."
    },
    {
-    "author": "Mișna, Eduiot 2:9",
-    "text": "El spunea: tatăl dobândește pentru fiu frumusețea, puterea, bogăția, înțelepciunea, anii și numărul generațiilor dinaintea lui; și acesta este sfârșitul, căci s-a spus (Isaia 41:4): „Cel care cheamă generațiile de la început”; deși s-a spus (Geneza 15:13): „Și îi vor robi și îi vor asupri patru sute de ani”, și s-a spus (Geneza 15:16): „Și a patra generație se va întoarce aici.”"
-   },
-   {
     "author": "Zohar, Vaiera 24:7",
     "text": "De aceea nu face Sfântul, binecuvântat fie El, judecată în răufăcători până nu s-au desăvârșit în păcatele lor; acesta e ce e scris (Geneza 15:16): «că nu e plin nelegiuirea amoritului până acum». Și e scris (Isaia 27:8): «cu măsură, când o vei alunga, te vei certa cu ea». Și de aceea pâra asupra lui Yehoșua să fie ars în ei, până i-a zis (Zaharia 3:2): «să te mustre Domnul, satane». Cine i-a zis? Acesta e îngerul Domnului (și s-a spus: «și a zis Domnul către satan»)."
    },
@@ -3611,6 +3780,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Despre cetatea lui Dumnezeu",
     "text": "Când se adaugă: „Și când soarele era să apună, a fost o flacără și iată un cuptor fumegând și făclii de foc, care au trecut printre acele bucăți”, aceasta arată că la sfârșitul lumii cei trupești vor fi judecați prin foc. Necazul cetății lui Dumnezeu, cum n-a mai fost niciodată, care se așteaptă să vină sub Antihrist, a fost închipuit dinainte de groaza lui Avraam, de mare întuneric, în jurul apusului soarelui. Precum la apropierea sfârșitului lumii, așa la apusul soarelui, adică chiar la sfârșitul lumii, se arată prin acel foc ziua judecății, care desparte pe cei trupești care vor fi mântuiți prin foc de cei trupești care vor fi osândiți în foc. Și apoi legământul făcut cu Avraam înfățișează în chip anume țara Canaanului și numește în ea unsprezece neamuri, de la râul Egiptului până la râul cel mare, Eufratul. Nu este deci de la marele râu al Egiptului, adică Nilul, ci de la unul mic care desparte Egiptul de Palestina, unde se află cetatea Rinocorura."
+   },
+   {
+    "author": "2 Baruh 4:4",
+    "text": "Și după aceste lucruri am arătat-o slujitorului Meu Avraam noaptea, între părțile jertfelor.",
+    "src": {
+     "slug": "2-baruh",
+     "spec": {
+      "num": 4,
+      "v": 4
+     }
+    }
    }
   ],
   "refs": [
@@ -3908,6 +4088,17 @@ window.CHAPTER_DATA = [
     }
    },
    {
+    "author": "Tratatul Kallah Rabbati, cap. 3",
+    "text": "Baraita: Șapte părinți au încheiat legământ, iată-i: Avraam, Isaac și Iacov, Moise și Aaron, Fineas și David. La Avraam ce spune? „În acea zi Domnul a făcut legământ cu Avram”. La Isaac ce spune? „Dar legământul Mi-l voi statornici cu Isaac”. La Iacov ce spune? „Îmi voi aminti de legământul Meu cu Iacov”. La Moise ce spune? „căci prin aceste cuvinte am făcut legământ cu tine”. La Aaron ce spune? „Este legământ al sării, veșnic”. La Fineas ce spune? „și să fie pentru el și pentru seminția lui după el un legământ”. La David ce spune? „Am făcut legământ cu alesul Meu”. Ghemara: S-a învățat: Și Israel au încheiat legământ. De unde? Căci s-a spus: „căci prin aceste cuvinte am făcut legământ cu tine și cu Israel”. Să spunem că este o respingere a lui Rabbi ʿAqiva, care a spus: Generația pustiei nu are parte de lumea viitoare? Rabbi ʿAqiva îți spune: Dimpotrivă, acum ne sprijină: „și cu Israel”; și este scris: „Nu ca legământul” etc. „pe care ei l-au călcat”. Ci ce este „și cu”? Ca să includă pe prunci și pe sugari. Vino și auzi: „Așa vorbește Domnul, Dumnezeul lui Israel: Eu am încheiat legământ cu părinții voștri”: greu pentru Rabbi ʿAqiva! Rabbi ʿAqiva îți spune: Acum mă sprijină, căci este scris: „dar părinții voștri nu M-au ascultat”. Vino și auzi: „Strângeți-Mi pe credincioșii Mei, care au încheiat legământul Meu prin jertfă”: aceasta este negreșit o respingere a lui.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 3,
+      "v": 24
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 14 — comparație",
     "text": "Și în ziua aceea Domnul a făcut un legământ cu Avram, zicând: Seminței tale îi voi da ținutul acesta, de la râul Egiptului până la râul cel mare, râul Eufrat: cheniții, cheniziții, cadmoniții, fereziții, și refaimii, facoriții, și hiviții, și amoriții, și canaaniții, și ghirgașiții, și iebusiții.",
     "src": {
@@ -3915,6 +4106,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 14,
       "v": 18
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 14 — comparație",
+    "text": "Și în ziua aceea am făcut un legământ cu Avram, precum făcusem cu Noe în luna aceasta; și Avram a înnoit sărbătoarea și rânduiala pentru el pe veci.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 14,
+      "v": 20
      }
     }
    }

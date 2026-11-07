@@ -156,6 +156,17 @@ window.CHAPTER_DATA = [
     "text": "«Avraam și-a mai luat încă o soție.» „Ve-yosef Avraam vayiqah ishah”: aceasta este Agar; pildă: „Și Domnul a mai vorbit cu mine încă”. Tora a învățat bună-cuviință (derekh eretz) despre un văduv care are fii mari, să nu se însoare până nu se însoară ei; și de aceea este scris „a luat-o pe Rebeca și ea i-a devenit soție”, iar lângă el a pus „Și Avraam a mai luat o soție”.<br><br>«Al cărei nume era Chetura.» Rashi: Aceasta este Agar, și se numește Chetura pentru că faptele ei sunt frumoase ca tămâia (qetoret). Iar dacă vei spune: Doar mai sus, la „și a rătăcit”, Rashi a spus: Ne învață că s-a întors la idolii casei tatălui ei? Ci se poate spune: înainte ca Avraam să se întoarcă și s-o ia a doua oară, a făcut pocăință și s-a numit Chetura pentru aceasta. Iar unii spun: a cerut să se întoarcă la idolii tatălui ei și nu s-a întors. Iar după înțelesul simplu aceasta nu este Agar."
    },
    {
+    "author": "Tratatul Soferim, cap. 21",
+    "text": "„Omul cel mai mare dintre anachimi”: dintre anachimi, acesta este Avraam, părintele nostru, care era înalt la statură cât șaptezeci și patru de oameni; și mâncarea și băutura lui erau tot așa, cât șaptezeci și patru de oameni; și puterea lui tot așa. Ce a făcut? I-a luat pe cei șaptesprezece fii ai Cheturei și le-a zidit o cetate de fier și i-a băgat înăuntrul ei, iar soarele niciodată n-a intrat înăuntrul ei, pentru că este foarte înaltă; și le-a dat discuri de pietre scumpe și de mărgăritare, și se folosesc de ele; în viitorul ce va veni, când Sfântul, binecuvântat fie El, va face să se rușineze soarele și luna, cum este scris: „Luna se va rușina și soarele se va face de ocară”, din ele vor avea lumină. Og este Eliezer; și copitele picioarelor lui, Avraam, părintele nostru, le ascundea în palma mâinii lui; și o dată l-a certat, și de frica lui i-a căzut un dinte, și Avraam, părintele nostru, l-a luat și a făcut din el paturi, care sunt de fildeș, și dormea acolo; și unii spun: un scaun a făcut din el și a șezut în el toate zilele lui. Și cine i l-a dat lui Avraam? Nimrod. Și Og a mers și a zidit șaizeci de cetăți, iar cea mai mică dintre ele avea înălțimea de șaizeci de mile, căci s-a spus: „șaizeci de orașe, tot ținutul Argov”. Și care era mâncarea lui? O mie de boi, și tot așa din orice fel de animal; și băutura lui, o mie de măsuri; și ce era picătura seminței lui? Treizeci și șase de litre. S-a învățat: Ce a făcut Iacov, părintele nostru, când fiii lui i-au adus cămașa cu sânge? Nu i-a crezut deloc. De unde? Căci este scris: „dar el a refuzat să fie consolat”; pentru că nu se primește mângâiere pentru cel viu, iar cel care a murit este uitat de la sine din inimă, căci s-a spus: „Am fost uitat din inimă ca un mort”. Și ce a făcut? A mers în munți și a cioplit douăsprezece pietre și le-a așezat în șir, și a scris pe fiecare dintre ele numele seminției ei, numele semnului ei și numele lunii ei. Cum? Pe piatra cea dintâi: Ruben, Berbecul, Nisan; și tot așa pentru fiecare piatră. A început de la Simeon și le-a spus: Vă poruncesc să vă ridicați pentru Ruben; și nu s-au ridicat; pentru Simeon, și nu s-au ridicat; pentru fiecare seminție, și nu s-au ridicat pietrele. Și când le-a pomenit numele lui Iosif, îndată s-au ridicat și s-au plecat înaintea pietrei lui Iosif. Și încă nu îi era lămurit lucrul că el este viu. Și iarăși a mers și a încercat cu snopi, după felul celui dintâi, și a scris pe ei numele semințiilor, ale semnelor și ale lunilor, și le-a spus: Vă poruncesc să vă plecați înaintea lui Levi, care este îmbrăcat cu Urim și Tumim; și nu s-au ridicat; înaintea lui Iuda, care este împărat; și nu s-au ridicat. Și când le-a pomenit pe Iosif, s-au ridicat și s-au plecat toate înaintea lui Iosif. Și încă nu s-a lămurit deloc că el este viu, decât din cetele de strajă: Eliașib, preotul; Elcana, pe care l-a cumpărat Potifar (sau „care l-a cumpărat pe Potifar”): „Și Iosif a fost coborât în Egipt. Și Potifar… l-a cumpărat” etc. De trei ani era Rebeca când a ieșit din casa tatălui ei, căci acesta este obiceiul împăraților: când li se naște o fiică, obiceiul lor este să se audă după trei zile; și pentru că tatăl ei n-a auzit, de aceea i s-a făcut o minune, ca să nu fie pângărită; căci acesta era obiceiul arameilor, să se culce cu fiicele lor fecioare și după aceea să le mărite. De șase ani era Dina când a născut-o pe Asnat de la Sihem. De unde șase ani? Anii de plată a turmei pe care i-a slujit Iacov, părintele nostru, lui Laban; și a adăugat douăzeci de ani când a murit; de aici înainte, să adauge cel care pricepe. Și a coborât Mihail și a dus-o în casa lui Potifar.",
+    "src": {
+     "slug": "talmud-minor-soferim",
+     "spec": {
+      "num": 21,
+      "v": 9
+     }
+    }
+   },
+   {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 15",
     "text": "După aceasta, Avraam s-a căsătorit cu Ketura, din care i s-au născut șase fii, oameni curajoși și cu minte ageră: Zambran, Iazar, Madan, Madian, Iosabac și Sus. Fiii lui Sus erau Sabatan și Dadan. Fiii lui Dadan erau Latusim, Asur și Luom. Fiii lui Madian erau Efas, Ofren, Anoh, Ebidas și Eldas. Pentru toți acești fii și nepoți, Avraam a găsit mijlocul de a-i așeza în colonii; și ei au luat în stăpânire Troglodiția și țara Arabiei Fericite, până unde ajunge la Marea Roșie. Se povestește despre acest Ofren că a făcut război împotriva Libiei și a cucerit-o și că nepoții lui, când au locuit-o, au numit-o [după numele lui] Africa. Și, într-adevăr, Alexandru Polihistor dă mărturia lui pentru ceea ce spun eu aici; care vorbește astfel: „Cleodem profetul, numit și Malh, care a scris o Istorie a iudeilor, în acord cu Istoria lui Moise, legiuitorul lor, povestește că i s-au născut lui Avraam mulți fii din Ketura: ba chiar îi numește pe trei dintre ei: Afer, Surim și Iafran. Că din Surim a luat numele țara Asiriei; și că de la ceilalți doi [Afer și Iafran] a luat numele țara Africii, pentru că acești oameni au fost ajutoare ale lui Hercule, când a luptat împotriva Libiei și a lui Anteu; și că Hercule s-a căsătorit cu fiica lui Afra și a avut cu ea un fiu, Diodor; și că Sofon a fost fiul lui, de la care a luat numele acel popor barbar numit sofacieni.”",
     "src": {
@@ -165,6 +176,10 @@ window.CHAPTER_DATA = [
       "v": 1
      }
     }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Ketura, a doua soție a lui Avraam, este strămoașa unor triburi din Arabia (Midian, Șuah și altele), care făceau negoț cu tămâie și mirodenii pe drumurile dintre Arabia de Sud și Marea Mediterană. Numele ei înseamnă „tămâie”."
    }
   ]
  },
@@ -1432,6 +1447,17 @@ window.CHAPTER_DATA = [
     "text": "«Și acestea au fost zilele anilor vieții lui Avraam pe care le-a trăit» A fost exact să spună „care a trăit” după spusa lor, binecuvântată fie amintirea lor, care au spus că i-au lipsit cinci ani înainte de ziua în care a făcut Esau cinci păcate, și de aceea a spus „care a trăit”, explicația: nu anii care i-au fost rânduiți, căci erau mai mulți, ci aceștia sunt ce a trăit.<br><br>Sfârșitul secțiunii Hayei Sara."
    },
    {
+    "author": "Tratatul Soferim, cap. 16",
+    "text": "A spus Rabbi Yehoșua ben Levi: Eu, în zilele mele, nu m-am uitat într-o carte de aggadah decât o singură dată; m-am uitat și am găsit scris: o sută șaptezeci și cinci de secțiuni sunt scrise în Tora cu „vorbire”, „spunere” și „poruncă”, în dreptul anilor lui Avraam, părintele nostru, căci este scris: „Te-ai suit la înălțime, ai luat robi, ai primit daruri pentru om”, și este scris: „omul cel mai mare dintre anachimi”. De aceea au statornicit o sută șaptezeci și cinci de rânduieli în Tora, la fiecare Sabat, arderea de tot necurmată.",
+    "src": {
+     "slug": "talmud-minor-soferim",
+     "spec": {
+      "num": 16,
+      "v": 10
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 23 — comparație",
     "text": "Și a trăit trei jubilee și patru săptămâni de ani, o sută șaptezeci și cinci de ani, și a împlinit zilele vieții sale, fiind bătrân și sătul de zile.",
     "src": {
@@ -1449,6 +1475,17 @@ window.CHAPTER_DATA = [
      "slug": "jubileele",
      "spec": {
       "num": 23,
+      "v": 15
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 27 — comparație",
+    "text": "Și când Nimrod fiul lui Cuș a murit, oamenii lui l-au ridicat și l-au adus pe el în consternare, și l-au îngropat în orașul lui, iar toate zilele pe care Nimrod le-a trăit au fost 215 ani și el a murit.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 27,
       "v": 15
      }
     }
@@ -1929,6 +1966,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Isaac și Ismael.» Deși Ismael era mai mare în ani, el a precedat pe Isaac, fratele său, pentru că (acesta) era fiul stăpânei, iar el era fiul slujnicei."
+   },
+   {
+    "author": "Cartea Jubileelor 23 — comparație",
+    "text": "Și va trezi împotriva lor pe păcătoșii neamurilor, care n-au milă, nici îndurare, și care nu vor căuta la fața nimănui, nici bătrân, nici tânăr, nici pe nimeni, căci sunt mai răi și mai tari să facă rău decât toți fiii oamenilor. Și vor întrebuința silnicie împotriva lui Israel și fărădelege împotriva lui Iacob, și se va vărsa mult sânge pe pământ, și nu va fi cine să adune și cine să îngroape.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 23,
+      "v": 23
+     }
+    }
    }
   ]
  },
@@ -2903,6 +2951,10 @@ window.CHAPTER_DATA = [
       "v": 23
      }
     }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Neamurile din lista fiilor lui Ișmael apar în inscripții asiriene: Tiglat-Pileser al III-lea pomenește, în secolul al VIII-lea î.Hr., triburi ca Massa, Tema și Efa, iar Asurbanipal luptă împotriva lui Chedar. Geneza le așază pe toate sub o singură obârșie, cea a lui Ișmael."
    }
   ]
  },
@@ -3750,6 +3802,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«În fața tuturor fraților săi.» Fiii Cheturei: „a căzut”, așa cum i-a spus îngerul Agarei: „în fața tuturor fraților săi va sălășlui”; iar „a căzut” este limbaj de locuire (sau „al Șechinei”), ca în „și au căzut asupra lui oameni din Gad”.<br><br>Izbăvește-mă, Dumnezeule, din orice necaz, și dărâmă cetatea întărită din Boțra, și trezește-te spre mântuirea mea, și zădărnicește mânia și furia, când voi încheia „Viața Sarei”."
+   },
+   {
+    "author": "Cartea Jubileelor 20 — comparație",
+    "text": "Și Ismael și fiii lui, și fiii Cheturei și fiii lor, au mers împreună și au locuit de la Paran până la intrarea Babilonului, în tot ținutul care e spre Răsărit, față în față cu pustia.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 20,
+      "v": 12
+     }
+    }
    }
   ]
  },
@@ -4533,6 +4596,17 @@ window.CHAPTER_DATA = [
       "v": 1
      }
     }
+   },
+   {
+    "author": "Epistola lui Barnaba 13:2",
+    "text": "Auziți deci ce zice scriptura despre popor; Și Isaac s-a rugat despre Rebeca soția sa, căci era stearpă. Și a zămislit. Atunci Rebeca a ieșit să întrebe pe Domnul. Și Domnul i-a zis; Două neamuri sunt în pântecele tău, și două popoare în burta ta, și un popor va birui alt popor, și cel mai mare va sluji celui mai mic.",
+    "src": {
+     "slug": "barnaba",
+     "spec": {
+      "num": 13,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -4736,6 +4810,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Efrem Sirul, Comentariu la Facere",
     "text": "„Dumnezeu l-a binecuvântat pe Isaac” și Isaac s-a rugat pentru Rebeca, care era stearpă. După douăzeci de ani Dumnezeu l-a ascultat și ea a zămislit. Fiii ei se zbăteau în pântecele ei. A mers să întrebe pe Domnul și i s-a spus: „Două neamuri sunt în pântecele tău”, adică neamul edomiților și neamul evreilor. La cine a mers să întrebe? La Melchi-Țedec a mers să întrebe, după cum am pomenit mai sus în genealogia lui Melchi-Țedec. S-a întors repede din pricina durerilor care o loveau și i-a născut pe Esav și pe Iacov."
+   },
+   {
+    "author": "Cartea Dreptului 26 — comparație",
+    "text": "Și ea le-a spus lor, de ce sunt singură în aceasta printre toate femeile care au fost pe pământ? Și ea a mers în ținutul Moria să caute pe Domnul din pricina aceasta; și a mers la Șem și Eber fiul lui să îi întrebe referitor la această pricină, și că ei ar trebui să caute pe Domnul în această chestiune referitoare la ea.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 26,
+      "v": 10
+     }
+    }
    }
   ]
  },
@@ -5033,12 +5118,45 @@ window.CHAPTER_DATA = [
     "text": "«Și Domnul i-a spus etc.» Acest verset s-au înmulțit în el explicațiile, și încă este de dat gust și condiment pe calea luminii drepte, anume că a venit să-i răspundă la teama ei că sarcina ei nu dăinuie din pricina înghesuielii lor mari, și i-a făcut cunoscută cauza înghesuielii cu care se vor înghesui unul pe altul și se vor întări unul peste altul, căci această sarcină se deosebește de orice sarcină din lume, căci orice sarcină care este din doi, cei doi sunt blânzi și firea lor este egală, după cum este spus „gemeni ai căprioarei”, și locuiesc împreună în pântece, ceea ce nu este așa sarcina ta. Iar motivul este că două neamuri sunt în pântecele tău, fiecare dintre ei este aspectul unui neam, și încă este la ei că ei înșiși sunt regi și domnia lor se întinde pentru totdeauna, iar aceasta este spusa „și două popoare”. Și toate acestea nu ar cauza zbaterea în pântece dacă ar fi într-o temperatură, ca firea gemenilor, ci ei se deosebesc de firea gemenilor, căci din pântece însuși nu sunt blânzi unul față de altul și li se schimbă temperamentul și firea, iar aceasta este spusa „din viscerele tale se vor despărți”, și a spus „din viscerele tale” și nu a spus „în viscerele tale”, ca să spună că mereu sunt despărțiți și începutul despărțirii este din viscere, și prin acest lucru este schimbarea minunată, nu din pricina că pântecele ei nu este potrivit sarcinii în care copiii se zbat.<br><br>«Și un popor din plinătatea (mil’om) etc.» Explicația: încă este la ei un lucru care va cauza îndepărtarea pregătirii locuirii împreună, căci fiecare dintre cei doi regi, tăria și întărirea lui este din „plinătatea” (mil’om) celui opus, după felul spusei lor, binecuvântată fie amintirea lor „nu s-a umplut Tirul decât din ruina Ierusalimului”, și de vreme ce fiecare dintre ei vrea căderea tovarășului său ca să crească din el, acesta va îndepărta frăția și împreuna-gemenire.<br><br>«Și cel mare etc.» S-au înmulțit explicațiile în aceasta și nu este lucru îndestulător în adevărul Scripturii. Iar după calea noastră vine pe drept, intenția a venit să spună că în afară de faptul că unul crește prin căderea tovarășului său, mai trebuie ca cel căzut să se robească înaintea celui care crește din el, și nu-i ajunge căderea lui și să-și vadă binele în mâna dușmanului său, ci să-și încovoaie capul ca o trestie față de robul său, și prin aceasta se va întinde îndepărtarea frăției și întărirea urii. Și despre aceasta s-a spus „omul și șarpele nu locuiesc într-un singur coș”. Și aceasta este cauza schimbării sarcinii. Și după această cale spusa „cel mare va sluji celui tânăr” nu înseamnă prin „mare” și „tânăr” anume Iacov sau Esau, ci cel care va fi mare în timpul lui și cel care tânăr în timpul lui, kaftor va-ferah."
    },
    {
+    "author": "Zohar Chadash, Balak 38",
+    "text": "«În ochii Mei te-ai cinstit, și Eu te-am iubit» — că iată nu este iubire Sfântului, binecuvântat fie El, cu un om în lume, decât cu cine s-a întors de la vina sa; și asupra acesteia «și Eu te-am iubit». Dar ce să fac, că iată s-a dat voie șarpelui să strice. Acesta este sfatul: «și voi da un om în locul tău». Cine este omul pe care Sfântul, binecuvântat fie El, l-a dat ca kofer sub el? Acel om care vine din poporul părții rele, că acel șarpe din al său va mânca. Că este scris «și voi da adam» — nu citi adam, ci Edom. «Și neamuri» — aceasta este (Bereșit 25:23) «și un neam de un neam se va întări»; și aceasta este sămânța lui Esav, pe care a dat-o sub sufletul său.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 21,
+      "v": 38
+     }
+    }
+   },
+   {
     "author": "Cartea Dreptului 26 — comparație",
     "text": "Și ei toți au întrebat pe Domnul referitor la această chestiune, iar ei i-au adus cuvânt de la Domnul și i-au spus ei, doi copii sunt în pântecele tău, și două națiuni se vor ridica din ei; iar o națiune va fi mai puternică decât cealaltă, și cea mai mare va servi celei mai mici.",
     "src": {
      "slug": "cartea-dreptului",
      "spec": {
       "num": 26,
+      "v": 12
+     }
+    }
+   },
+   {
+    "author": "Epistola lui Barnaba 13:3",
+    "text": "Se cuvine să înțelegeți cine e Isaac, și cine e Rebeca, și în al cui caz a arătat că un popor e mai mare decât celălalt.",
+    "src": {
+     "slug": "barnaba",
+     "spec": {
+      "num": 13,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Marcion, Apostolikon: Romani 9:12",
+    "text": "Dar nu numai ea, ci și Rebeca, zămislind dintr-unul, din Isaac, părintele nostru.",
+    "src": {
+     "slug": "marcion-romani",
+     "spec": {
+      "num": 9,
       "v": 12
      }
     }
@@ -5679,6 +5797,17 @@ window.CHAPTER_DATA = [
     "text": "«Și i-a pus numele Iacov» Explicația: Sfântul, binecuvântat fie, nu tatăl lui, iar martorul de încredere este spusa „și Isaac avea șaizeci de ani” etc., iar dacă el era cel care a numit trebuia să spună „și el avea șaizeci de ani” etc., căci despre el vorbește Scriptura, și înțelege:"
    },
    {
+    "author": "Grădina Încuiată 1:100",
+    "text": "Și dacă așa, iată Numele a înfipt o vreme, 172 de ani, în taina Aqev: «și tu îi vei zdrobi călcâiul» (Facerea 3:15); «de călcâiul lui Esav» (Facerea 25:26); «pentru că a ascultat Avraham» (Facerea 26:5); «și va fi, pentru că veți asculta» (Deuteronom 7:12); «păzindu-le, răsplată multă» (Psalmi 19:12); «beq’a de cap» (Ieșirea 38:26); «izvoare a spart» (Iov 28:10) în Nisan. Și iată cu 172 de ani care se rotesc kol šiv’a yamim s-a desăvârșit numărul a 4 mii de ani; și ne va fi în anul care vine numărul 51, care sunt o mie cincizeci de ani. Unește-le și vei afla tăinuitul lor ADN. Și acesta este numărul cuprins din 10 Sefirot unite împreună. Unește cele două numere și le vei afla urcând vremea înfiptă care este în lungime.",
+    "src": {
+     "slug": "kab-gan-naul-(abulafia)",
+     "spec": {
+      "num": 1,
+      "v": 100
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 19 — comparație",
     "text": "Și în săptămâna a șasea, în anul al doilea al ei, Rebeca i-a născut lui Isaac doi fii, Iacob și Esau, și Iacob era un om neted și drept, și Esau era aspru, om de câmp, și păros, și Iacob locuia în corturi.",
     "src": {
@@ -5696,6 +5825,54 @@ window.CHAPTER_DATA = [
    {
     "author": "Origen, Comentariu la Evanghelia după Ioan",
     "text": "În plus, fiindcă [Hristos] a doborât lucrarea potrivnicului și fiindcă numai El Îl vede pe Tatăl, El este „Iacov” și „Israel” când S-a făcut om. Precum ne facem lumină, pentru că El este lumina lumii, tot așa ne facem Iacov, pentru că El se numește „Iacov”, și Israel, pentru că El se numește „Israel”."
+   },
+   {
+    "author": "4 Ezdra 3:16",
+    "text": "Și lui i-ai dat pe Isaac, și lui Isaac i-ai dat pe Iacov și pe Esau. Pe Iacov Ți l-ai ales, iar pe Esau l-ai lăsat deoparte; și astfel Iacov a ajuns o mulțime mare.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 3,
+      "v": 16
+     }
+    }
+   },
+   {
+    "author": "4 Ezdra 6:8",
+    "text": "Și mi-a zis: De la Avraam la Isaac, când Iacov și Esau s-au născut din el, mâna lui Iacov ținea întâi călcâiul lui Esau.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 6,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "4 Ezdra 6:9",
+    "text": "Căci Esau este sfârșitul lumii, și Iacov este începutul celei care urmează.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 6,
+      "v": 9
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 26 — comparație",
+    "text": "Și Isaac, fiul lui Avraam, avea 60 de ani când i-a născut pe ei.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 26,
+      "v": 16
+     }
+    }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Numele Iacov, în forma Iaaqov-El, este atestat ca nume de persoană la Mari, la Alalakh și în Egiptul din vremea hicsoșilor, deci era un nume obișnuit în lumea vest-semitică. Geneza îi dă însă un tâlc nou: „cel ce ține de călcâi”."
    }
   ]
  },
@@ -5998,6 +6175,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Trăitor în corturi.» Pentru vite, căci păstorii fac corturi din pricina frigului și din pricina căldurii."
+   },
+   {
+    "author": "Zohar Chadash, Yitro 128",
+    "text": "Și când roata ochiului s-a întors spre verde, care stăpânește asupra tuturor culorilor. Acesta este în gilgul-ul al treilea. Și va fi înțelept în Toră și bogat în banii în care nu s-a ostenit. Acesta este desăvârșit din totul, din partea lui Yaakov, despre care s-a zis (Bereșit 25:27): «și Yaakov era un om tam». (Iyov 33:29): «iată toate acestea le face El de două ori, de trei, cu bărbatul».",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 13,
+      "v": 128
+     }
+    }
+   },
+   {
+    "author": "Sefer HaBahir, par. 39",
+    "text": "Pildă: doi oameni; unul e rânduit să facă rău și a făcut bine, și unul e rânduit să facă bine și a făcut bine. Pe cine laudă mai mult? Pe cel obișnuit să facă rău și a făcut bine — poate va face a doua oară. Aceasta este ce este scris (Psalmi 87:2) «Domnul iubește porțile Sionului mai mult decât toate locașurile lui Iacov», care sunt toate pace, după cum este zis (Facerea 25:27) «Și Iacov era un om întreg, șezând în corturi».",
+    "src": {
+     "slug": "kab-sefer-habahir",
+     "spec": {
+      "num": 1,
+      "v": 39
+     }
+    }
    },
    {
     "author": "Cartea Jubileelor 19 — comparație",
@@ -6625,6 +6824,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Augustin, Predici pentru timpurile liturgice",
     "text": "Să se unească cumpătarea cu postul. Precum îmbuibarea este de mustrat, tot așa trebuie îndepărtate și îndemnurile la poftă de mâncare. Nu că anumite feluri de mâncare ar trebui urâte, ci că plăcerea trupească trebuie înfrânată. Esav a fost mustrat nu pentru că dorise un vițel gras sau păsări grase, ci pentru că poftise o strachină de linte."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Edomul are în texte egiptene o prezență deosebită: papirusurile din vremea lui Merneptah vorbesc despre „șasu din Edom”, păstori nomazi cărora li se îngăduie să pască în Egipt. Geneza spune că Edom vine din Esav, numit așa din pricina tocanei „roșii” (adom)."
    }
   ]
  },
@@ -7166,6 +7369,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și Iacov a spus: Jură-mi etc.» Motivul pentru care a fost nevoie de jurământ, fiindcă în dreptul de întâi-născut sunt amănunte care sunt lucruri fără substanță, precum cinstea și măreția, pentru care s-a îngrijit Iacov de slujba Casei Dumnezeului nostru care este la cei întâi-născuți, iar după sfânta noastră Tora nu poate omul să transfere nici prin vânzare nici prin dar un lucru care nu are substanță, după cum se știe, de aceea a procedat cu înțelepciune să câștige lucrul prin jurământ. Și aceasta este părerea hotărâtorilor Torei, că jurământul se aplică atât asupra unui lucru care are substanță cât și asupra unuia care nu are substanță, iar aceasta este spusa „jură-mi”.<br><br>Iată, acest jurământ nu este de ajuns pentru dobândirea unui lucru care nu a venit în lume, căci motivul că nu poate omul transfera lucru care nu a venit în lume este din pricină de-la samkha daʿteih de-loqeah etc., și așa se dovedește în Bava Meția pagina 16. Dar dacă mintea lui s-ar sprijini ar fi dobândit, iar jurământul nu ajută în aceasta, și de aceea a avut nevoie de motivul „precum ziua” după cum am explicat. Apoi mi-a venit în mână cartea Rivaș, simanul 328, iar acesta este textul lui: Ai scris că ai văzut pe Rabbi Iacov fiul lui Roș că a scris în numele tatălui său că cel care transferă un lucru care nu a venit în lume, dacă a jurat a dobândit etc., și dovada lui este din vânzarea dreptului de întâi-născut pe care a vândut-o Esau lui Iacov și este scris „jură-mi”, până aici. Răspuns: nici Roș și nici Rabbi Iacov fiul lui nu au semnat pe aceasta, și nu se atribuie oamenilor mari o părere ca aceasta care nu are pe ce să se sprijine, de asemenea dovada pe care au adus-o nu are rădăcină pentru că era înainte de vorbire, și cine ne-a spus că nu putea omul transfera un lucru care nu a venit în lume atunci, iar jurământul a fost pentru ruha de-milta ca să nu conteste, pentru că era un om de forță, până aici. Și acestea sunt cuvintele noastre înseși, doar că Rivaș nu a luat în considerare să dea motivul pentru care a fost nevoie de jurământul lui Esau, după cum am scris.<br><br>Iar motivul spusei „jură-mi” și nu a fost de ajuns să spună „jură”, iar lucrul se înțelege că a lui este vânzarea, a intenționat să spună că acest jurământ trebuie să fie după gândul lui Iacov, căci în afară de aceasta poate să-l anuleze în inima lui, iar esența jurământului trebuie să fie în inimă, după cum a spus Rabbi Akiva: omul în jurământ, ca gura și inima lui să fie egale în timpul jurământului. De aceea a spus „jură-mi”, explicația: după gândul meu.<br><br>Și a fost exact să spună „mie”, căci anume el poate ca vânzarea dreptului de întâi-născut să rămână în toate părțile ei, dar nu pentru altul, căci altul nu este fiu al dobândirii decât lucruri care sunt bani, dar lucruri care sunt moștenire de înălțimi de la părinții lor, ca slujba în casa lui Dumnezeu și cinstea, nu sunt la un om străin, și nu este în puterea lui să le vândă unui străin.<br><br>«Și i-a vândut lui Iacov dreptul de întâi-născut» Tora a îndreptățit vânzarea că este valabilă în mâna lui din motivele pe care le-am scris, și deși nu a vândut decât din nevoie, și deși a vândut un lucru care valorează o sută de mane cu o mană. Iar iată-ți textul lui Maharik: dacă a vândut din pricina strâmtorării sale și a micșorat în vânzarea lui mai mult decât se înșală mintea, încât se cunoaște că din pricina strâmtorării sale a trebuit să micșoreze, nu poate să se întoarcă, căci a știut și a iertat, până aici textul lui. Și de acum, deși a vândut un lucru de valoare imensă pentru o înghițitură de tocană, vânzarea lui este vânzare, după cum și-a dezvăluit gândul prin spusa „iată, eu sunt pe cale să mor”, și nu ai strâmtorare mai mare decât aceasta, „piele pentru piele și tot ce are omul va da pentru sufletul lui”. Și iată, fără această găsire nu ar fi fost existență pentru Iacov să câștige dreptul de întâi-născut din mâna lui Esau. Iar despre Esau a spus profetul „nelegiuirile lui îl vor prinde pe cel nelegiuit”, că din cauza nelegiuirilor pe care le-a făcut în acea zi, după cum au spus, binecuvântată fie amintirea lor în explicarea spusei „și el era obosit”, aceasta a fost cauza ca să i se scoată dreptul de întâi-născut și să rămână în mâna celui vrednic de el."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Vânzarea dreptului de întâi-născut nu este fără exemplu: un act din Nuzi (cunoscut după numele celor doi frați) arată un frate care își cedează partea din moștenire altuia în schimbul a trei oi. Cercetătorii nu sunt de acord asupra legăturii directe, dar Geneza povestește un obicei înțeles de ascultători."
    }
   ]
  },

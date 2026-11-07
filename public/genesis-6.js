@@ -192,6 +192,39 @@ window.CHAPTER_DATA = [
       "v": 11
      }
     }
+   },
+   {
+    "author": "1 Enoh 15 — comparație",
+    "text": "Pentru ce ați părăsit cerul cel înalt, sfânt și veșnic și v-ați culcat cu femeile și v-ați spurcat cu fiicele oamenilor și ați luat soții și ați făcut precum fac fiii pământului și ați născut fii uriași?",
+    "src": {
+     "slug": "1-enoh",
+     "spec": {
+      "num": 15,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "1 Enoh 15 — comparație",
+    "text": "Duhuri rele au ieșit din trupurile lor; pentru că s-au născut din oameni și din sfinții Veghetori este începutul lor și începutul temeliilor lor; [ei vor fi duhuri rele pe pământ și duhuri rele se vor numi].",
+    "src": {
+     "slug": "1-enoh",
+     "spec": {
+      "num": 15,
+      "v": 9
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 2 — comparație",
+    "text": "Dar și ei au păcătuit și s-au dat nebuniei; căci, cu fața neînfricată, își batjocoreau părinții și își rușinau mamele; nu-și cunoșteau cunoscuții și își întâmpinau frații cu trădare. Atunci au devenit răi și, înarmați cu coifuri roșii de sânge omenesc, au început și războaie; și peste ei a căzut cea din urmă nenorocire trimisă din cer, care le-a luat grijile vieții, și Hadesul i-a primit. Hades s-a numit locul unde a ajuns mai întâi Adam, după ce a gustat moartea și pământul l-a acoperit din toate părțile. De aceea se zice că toți oamenii născuți din pământ merg în sălașurile Hadesului. Dar toți aceștia, ajunși în Hades, au primit cinste, căci au aparținut primului neam.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 2,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -408,7 +441,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Context patristic timpuriu (Sfinții Părinți din primele secole)",
-    "text": "Interpretarea „fiii lui Dumnezeu” = îngeri căzuți nu a fost doar o poziție izolată — a fost citirea dominantă în primele secole creștine, susținută explicit de Justin Martirul, Clement din Alexandria, Origen, Irineu și **Tertulian** (toți „Părinți ante-niceeni”), alături de istoricii evrei Josephus și Filon și de istoricul creștin Eusebiu din Cezareea. Abia mai târziu, începând cu Iulius Africanul (sec. III) și mai ales cu Augustin (sec. IV-V), s-a impus în Apus citirea alternativă — „fiii lui Dumnezeu” ca linia dreaptă a lui Șet, iar „fiicele oamenilor” ca femei din linia lui Cain — cea pe care o urmează, în mare, și Rashi mai târziu (v. comentariul de mai sus)."
+    "text": "Interpretarea „fiii lui Dumnezeu” = îngeri căzuți nu a fost doar o poziție izolată — a fost citirea dominantă în primele secole creștine, susținută explicit de Justin Martirul, Clement din Alexandria, Origen, Irineu și **Tertulian** (toți „Părinți dinaintea sinodului de la Niceea”), alături de istoricii evrei Josephus și Filon și de istoricul creștin Eusebiu din Cezareea. Abia mai târziu, începând cu Iulius Africanul (sec. III) și mai ales cu Augustin (sec. IV-V), s-a impus în Apus citirea alternativă — „fiii lui Dumnezeu” ca linia dreaptă a lui Șet, iar „fiicele oamenilor” ca femei din linia lui Cain — cea pe care o urmează, în mare, și Rashi mai târziu (v. comentariul de mai sus)."
    },
    {
     "author": "Cartea Dreptului 4 — comparație",
@@ -469,6 +502,28 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "Fiii lui Dumnezeu — Cei care se numeau cu numele Domnului și chemau acel nume, s-au căsătorit cu fiicele oamenilor — cei lumești și străini de Dumnezeu. Urmașii lui Set nu s-au ținut deoparte, cum trebuia, ci s-au amestecat cu neamul lui Cain: și-au luat soții dintre toate pe care le-au ales — au ales numai cu ochiul: au văzut că erau frumoase — ceea ce a fost tot ce au privit."
+   },
+   {
+    "author": "1 Enoh 6 — comparație",
+    "text": "Și îngerii, fiii cerului, le-au văzut și le-au dorit și și-au zis unii altora: «Haideți să ne alegem soții dintre fiicele oamenilor și să facem copii.»",
+    "src": {
+     "slug": "1-enoh",
+     "spec": {
+      "num": 6,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "2 Enoh 18 — comparație",
+    "text": "Și mi-au zis: Aceștia sunt Grigori, care cu căpetenia lor Satanail (Satan) au lepădat pe Domnul luminii și după ei sunt cei care sunt ținuți în mare întuneric pe al doilea cer și trei dintre ei au coborât pe pământ de la tronul Domnului, la locul Ermon, și și-au călcat jurămintele pe umărul dealului Ermon și au văzut pe fiicele oamenilor cât de frumoase sunt și și-au luat soții și au pângărit pământul cu faptele lor, care în toate timpurile vârstei lor au făcut nelegiuire și amestecare și se nasc uriași și oameni minunat de mari și mare vrăjmășie.",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 18,
+      "v": 3
+     }
+    }
    }
   ],
   "fidela": "Că fiii lui Dumnezeu au văzut că fiicele oamenilor erau frumoase și și-au luat soții din toate pe care le-au ales.",
@@ -1028,6 +1083,17 @@ window.CHAPTER_DATA = [
     }
    },
    {
+    "author": "Tratatul Kallah Rabbati, cap. 3",
+    "text": "Baraita: Nu te poticni cu ochii tăi, căci nu este poticnire decât în ochi. Ghemara: Căci așa găsești: ʿUzza și ʿAzael nu s-au poticnit decât prin ochii lor, căci s-a spus: „fiii conducătorilor au văzut că fiicele oamenilor”. Care a fost fapta lor? Au spus la început înaintea Celui Milostiv: „Ce este omul, ca să-Ți aduci aminte de el?”. Le-a spus Sfântul, binecuvântat fie El: Acum veți vedea că ați greșit mai mult decât ei. A făcut să stăpânească asupra lor înclinația rea și au coborât. Și dacă aveau înclinația rea, ce foloseau prin lipire? Dacă este așa, ce este scris: „și ele le nășteau copii”? De vreme ce se lipeau de ele, iar ele se împreunau cu soții lor, fiii lor semănau cu îngerii.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 3,
+      "v": 9
+     }
+    }
+   },
+   {
     "author": "Cartea Dreptului 4 — comparație",
     "text": "Uriașii erau pe pământ în zilele acelea și tot așa după ce s-au împreunat fiii lui Dumnezeu cu fiicele oamenilor și le-au născut copii. Aceștia erau vitejii care au fost odinioară, oameni cu nume.",
     "src": {
@@ -1141,6 +1207,72 @@ window.CHAPTER_DATA = [
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
     "text": "uriași — Termenul din ebraică nu arată atât ideea de statură mare, cât pe aceea de sălbăticie fără frâu: oameni lipsiți de evlavie și îndrăzneți, care răspândeau pustiire și măcel în lung și în lat."
+   },
+   {
+    "author": "3 Baruh 4:10",
+    "text": "Când Dumnezeu a adus potopul pe pământ și a nimicit toată carnea și patru sute nouă mii de uriași și apa s-a ridicat cincisprezece coți deasupra celor mai înalți munți, atunci apa a intrat în rai și a nimicit orice floare; dar a scos cu totul dincolo de hotarele lui lăstarul viței și l-a aruncat afară.",
+    "src": {
+     "slug": "3-baruh",
+     "spec": {
+      "num": 4,
+      "v": 10
+     }
+    }
+   },
+   {
+    "author": "1 Enoh 7 — comparație",
+    "text": "Aceștia au mâncat toată osteneala oamenilor, până când oamenii n-au mai putut să-i hrănească.",
+    "src": {
+     "slug": "1-enoh",
+     "spec": {
+      "num": 7,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "1 Enoh 8 — comparație",
+    "text": "Și pe când oamenii piereau, strigătul lor s-a ridicat până la cer.",
+    "src": {
+     "slug": "1-enoh",
+     "spec": {
+      "num": 8,
+      "v": 4
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 2 — comparație",
+    "text": "Dar după ce i-a luat pe aceștia, a făcut iarăși, din cei rămași și foarte drepți, un alt neam, felurit, care a arătat lucrări plăcute, bune și frumoase, mult respect și înțelepciune desăvârșită. Au născocit meșteșuguri de tot felul, întâmpinând greutățile cu iscusință. Unul s-a gândit să lucreze pământul cu pluguri, altul lucra lemnul; unul străbătea adâncul, altul cerceta stelele; altul prezicea după păsări; vrăjitoria și artele magice erau grija altora; alții se îndeletniceau cu înfrigurare cu alte meșteșuguri, inventatori neadormiți, vrednici de nume, fiindcă aveau înăuntru o minte neadormită.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 2,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 2 — comparație",
+    "text": "Erau uriași la trup și, la vedere, zdraveni și enormi; dar au coborât sub încăperile cumplite ale Tartarului, ținuți în lanțuri tari spre ispășirea fărădelegilor lor, în Gheena focului nestins care arde. Și după aceștia s-a arătat iarăși un neam, cel de-al treilea neam al oamenilor necredincioși, cu suflet puternic. Înfricoșătoare și numeroase au fost faptele rele pe care le-au săvârșit între ei. Iar aceștia au fost uciși necontenit prin război, măcel și nenorocire, având inimă trufașă.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 2,
+      "v": 4
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 2 — comparație",
+    "text": "Iarăși, după aceea, a făcut încă un alt neam, mult mai rău decât oamenii, căruia Dumnezeul nemuritor nu-i va pregăti niciodată vreun bine, deoarece a săvârșit multe rele; căci erau de nestăpânit și violenți peste măsură: uriași stricați, rostind hule murdare. Singur dintre toți oamenii, Noe era foarte drept și credincios și atent la toate lucrările bune.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 2,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -1338,6 +1470,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și Domnul a văzut că mare era răutatea omului etc. Și Domnul a regretat că l-a făcut etc.» Trebuie să știm spusa „răutatea omului pe pământ”: de ce a atribuit răutatea pământului, căci se pare că răutatea lor era în însuși trupul pământului, iar în adevăr răutatea acelor răi era în desfrânare, și este lămurită în Scriptură, și în silnicie și jaf; și deși s-ar potrivi să se spună „pe pământ” cu privire la latura jafului pământului, cu toate acestea aceasta ar fi un detaliu dintre detalii. Încă de ce a fost precis să spună „și Domnul a regretat că l-a făcut pe om pe pământ”, de ce a spus cuvântul „pe pământ”, căci se pare că dacă l-ar fi făcut în alt loc nu S-ar fi căit niciodată, iar aceasta nu are înțeles. Încă cum se potrivește a se spune „și Domnul a regretat”, căci „Dumnezeu nu e om” etc. Încă spusa „și S-a întristat în inima Sa”: această întristare de ce, căci după ce El Își face răzbunarea asupra lor și șterge pe orice răsculat? Iar aceasta se poate spune despre pierderea creației.<br><br>Însă intenția versetelor este: fiindcă omul este alcătuit din patru elemente: foc, aer, apă, țărână, iar ele sunt pe trepte. Treapta cea mai joasă dintre cele patru este țărâna, căci ea este tulbure și grosolană mai mult decât toate. Mai presus de ea este elementul apei, mai presus de el elementul focului, mai presus de foc elementul aerului, care este duhovnicescul dintre toate. Și vei găsi că toate făpturile din lume, deși pe toate le-a creat din cele patru elemente, cu toate acestea fiecare făptură are rădăcina clădirii ei dintr-un element, care este elementul-element, iar celelalte trei sunt ramuri ale lui. Există făptură a cărei rădăcină de bază este apa, ca peștii care cresc în apă, și există a căror rădăcină de bază este din aer, ca păsările, și deși din noroi au fost create, cu toate acestea Domnul a întărit în ele elementul aerului, și de aceea păsările nu se odihnesc, zboară ca latura aerului. Și există făptură a cărei rădăcină este din foc, ca salamandra. Iar iată omul: elementul pe care s-au clădit în el elementele este elementul țărânii, după cum este scris: „Domnul Dumnezeu l-a plăsmuit pe om, țărână din pământ”, care este elementul grosolan și gros dintre cele patru elemente. Și de aceea șederea lui și odihna lui sunt în pământ, și nu suportă locuință în apă, nici în aer, nici în foc. Și Domnul a făcut așa din multe motive, iar unul dintre ele este că el este scara pe care se urcă treptele de jos în sus, iar treapta de jos este elementul țărânii și trebuie să fie pe pământ. Iar dacă elementul lui ar fi clădit din celelalte trei, duhovnicești față de țărână, nu ar fi fost intenția întreagă în crearea lui, iar cel priceput va înțelege că este o taină limpede; și înțelege.<br><br>Și de aceea, când Domnul a văzut că mare era răutatea omului, a recunoscut că cea mai mare parte a urâciunii este din partea elementului lui, care este clădit din pământ, și locul odihnei lui și al vieții lui este în pământ. Iar aceasta este spusa „și Domnul a văzut că mare era răutatea omului pe pământ”, căci el este elementul grosolan și opus duhovnicescului în totalitate. Și de aceea Domnul a regretat că l-a făcut pe om pe pământ și nu l-a făcut clădit din celelalte elemente subtile, căci prin aceasta nu ar fi fost decât bine toată ziua. Și fiindcă lucrarea lui din celelalte elemente nu ar fi scos la iveală intenția creării pe care a gândit-o Domnul în inima Sa spre faptă, aceasta este spusa „și S-a întristat spre inima Sa”, și nu a spus „în inima Sa”, explicația: spre voința Lui și gândul Lui pe care l-a gândit la crearea omului. Și din această parte nu a răsturnat Domnul creația, căci dacă nu, Domnul ar fi desfăcut și ar fi clădit o clădire nouă în alcătuire din trei elemente. Și de aceea, deși a adus potopul și a pierdut toate, a lăsat creația așa cum era, dintr-un motiv ascuns în inima Lui, binecuvântat fie. Și deși despre Stăpânul, binecuvântat fie, nu se potrivește a se spune „a regretat”, căci El privește și vede până la sfârșitul tuturor generațiilor, a spus așa fiindcă atributele Stăpânului, binecuvântat fie, sunt atributele milei, și în El, binecuvântat fie, este și latura judecății. Iar în vremea când făpturile merg pe calea dreaptă, „Domnul – El este Dumnezeu”: atributul judecății se învoiește cu atributul milei, iar când cei răi mânie, atributul milei îndepărtează mila și voiește anularea existenței, ca să nu facă judecată cu ei. Iar aceasta este spusa „și Domnul a regretat”, explicația: latura milei va voi ca să nu fie creația, ca să nu se răstoarne măsura, iar nu din această pricină va fi anulată creația.<br><br>Încă se pare că se poate spune după ce a scris Rambam în capitolul 5 din Legile pocăinței, iar acestea sunt cuvintele lui: că Numele Lui, să fie înălțat, El și știința Lui sunt una, și știința omului nu poate ajunge acest lucru în adevărul lui etc., și nu este în noi putere să știm cum cunoaște Sfântul, binecuvântat fie, făpturile și faptele lor, dar vom ști cu siguranță că fapta omului este în mâna omului și Sfântul, binecuvântat fie, nu îl trage etc. – până aici. Iar Raavad, Domnul să-l ierte, a purtat lipsă de cinste față de Rambam pentru vorba lui în aceasta, și a ridicat că este bine să se spună că vederea Lui, binecuvântat fie, este ca vederea astrologilor etc., să cercetezi acolo cuvintele lui. Iar cuvintele lui Rambam sunt temelia, căci felul științei Domnului nu este ajuns de noi, și cine se va asemăna Domnului ca să ia știință din cel asemănat Lui. Și te voi lumina: Domnul poate să anuleze știința care se ajunge în știința Lui ca să nu o cunoască, când va voi Stăpânul, ceea ce nu este în puterea omului să facă, ca știința să ajungă la el și să nu o cunoască, și acesta este ce a făcut aluzie Rambam prin spusa „și știința omului nu poate ajunge” etc., căci cum este cu putință ca știința să ajungă la el din sine și să fie anulată din sine, și acesta este ce a spus Scriptura: „n-a zărit nedreptate în Iacov și necaz n-a văzut”. Iată cum, când Domnul va voi să nu știe, va anula știința, deși știința există din sine, căci El nu este în privința omului, la care știința este în afara lui, ca să spui: se va opri și nu o va cunoaște, căci Domnul și știința Lui sunt una și nu are nevoie să dea atenție ca să cunoască, ca să se spună prin aceasta că dacă nu va da atenție nu va ști, nu așa; și cu toate acestea, ca să zic așa, există în această privință, fiindcă este scris „n-a zărit” etc.<br><br>Și de acum putem spune că Domnul, în vremea creării omului, a anulat din știință fărădelegile omului, din două pricini: întâi, pentru motivul simplu că Domnul este bun și nu privește la urâciune, iar acest motiv singur nu ar fi de ajuns, de vreme ce are nevoie de știință ca să știe ce va face și ce urmează. Ci mai este un al doilea motiv, și anume că Domnul s-a înțelepțit să facă așa ca să nu se aplice pretenția celor răi, care ar spune: știința Lui constrânge, de vreme ce Domnul a știut că cutare va încălca ceea ce a încălcat, lucrul de la sine se va face obligatoriu să fie, deși Domnul nu a hotărât să fie așa, și de acum nu este pedeapsă pentru cei răi, căci nu din cei răi a ieșit răutatea, și cu ce se va teme cel rău și va înceta de la asuprire. De aceea a oprit Domnul această știință a faptei celor răi. Dar fapta celor drepți nu au anulat-o din știință, și în ea se bucură, și pentru această pricină a fost creația, iar aceasta este ce a spus Scriptura: „Și a văzut Dumnezeu tot ce făcuse și, iată, era foarte bine.” Iar dacă ai spune: dacă nu a privit la nedreptatea celor răi, cum a stabilit pedeapsă pentru cei care fac răutate? și oare trebuie să se stabilească pedeapsă pentru cutare care face rău? Nu este nevoie să se stabilească pedeapsă decât pentru cel care face păcat și fărădelege. Iar față de cei drepți nu este loc pentru pretenția că știința Lui constrânge, căci această pretenție este plata, și iată Domnul voiește să plătească și nu este cine să pretindă împotriva Sa însuși. Ceea ce nu este așa la pedeapsa celor răi, care vor veni cu pretenție ca să nu primească pedeapsă, de aceea Domnul a păzit lucrul. Și nu este de pretins și de spus: dacă Domnul ar fi privit la ei ca să fie drepți, ar fi făcut dreptate, căci această pretenție nu este pretenție ca să-i scutească de detaliul alegerii care le-a fost dată în mână, și au ales răul și au disprețuit binele din voia lor. Iar după ce Dumnezeu ne-a făcut să știm aceasta, nu este mirare în spusa „și Domnul a regretat” etc., „căci am ajuns să regret”, căci El Însuși a anulat această știință de la Sine."
+   },
+   {
+    "author": "Zohar Chadash, Noach 51",
+    "text": "Vino și auzi, că este scris (Devarim 30:15): «vezi, am pus înaintea ta astăzi viața și binele și moartea și răul». Și a avertizat pe om și a zis (Devarim 30:19): «și vei alege viața, ca să trăiești». Și dacă el umblă pe un drum rău, el în vinovăția sa va muri. Că s-a zis (Mișlei 5:22): «vinovățiile lui îl vor prinde pe cel rău». Astfel este scris (Bereșit 6:5): «și a văzut Domnul că s-a înmulțit răutatea omului». A zis Sfântul, binecuvântat fie El: Eu văd că toți sunt vinovați, și dacă se vor sfârși în răutatea lor, iată se va pierde lumea Mea. Deoarece a văzut pe Noaḥ și fiii săi că erau tzadikim și va rămâne o scăpare în lume, S-a mângâiat și S-a veselit.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 2,
+      "v": 51
+     }
+    }
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
@@ -1999,6 +2142,17 @@ window.CHAPTER_DATA = [
     }
    },
    {
+    "author": "Tratatul Kallah Rabbati, cap. 2",
+    "text": "Baraita: Și despre el, Scriptura spune: „Cine știe dacă duhul fiilor omului se urcă în sus, și dacă duhul animalului coboară jos?”⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌‌‌‌​​‌‌ „Cine știe duhul fiilor omului”: aceștia sunt drepții, care nu se înfierbântă ca să scoată sămânță; „și duhul animalului”: aceștia sunt cei răi, care se înfierbântă ca să scoată sămânță în zadar; căci oricine se înfierbântă și scoate sămânță în zadar este vinovat de moarte, căci s-a spus: „Ce făcea a fost rău în ochii Domnului, care l-a omorât și pe el”. Ghemara: S-a învățat: generația potopului, toți scoteau sămânță în zadar. Au venit astrologii și au spus: lumea nu va dura mai puțin de șase mii de ani; să nu naștem, și noi vom trăi în lume. Le-a spus Sfântul, binecuvântat fie El: V-ați pus pe voi înșivă temelie; iată, vă dezrădăcinez numele, ca să nu intrați în socoteala lumii. De unde sunt acestea? Căci este scris despre Onan: „atunci când venea la soția fratelui său, lepăda sămânța pe pământ”, că se înfierbânta singur și scotea sămânță în zadar; și este scris despre generația potopului: „căci toată firea își pervertise”. Ce fapte aveau? Ca fapta lui Onan; și aceasta este ce este scris: „care l-a omorât și pe el”. S-a învățat: „Er” de-a-ndoaselea este „ra” (rău); și asemenea lui, „Noaḥ” de-a-ndoaselea este „ḥen” (bunăvoință).",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 2,
+      "v": 7
+     }
+    }
+   },
+   {
     "author": "Cartea Dreptului 4 — comparație",
     "text": "Dar Noe a căpătat milă înaintea Domnului.",
     "src": {
@@ -2272,6 +2426,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Ieronim, Întrebări ebraice la Facere 6:9",
     "text": "(Versetul 9) Noe a fost un om drept și fără prihană în neamul lui, plăcut lui Dumnezeu. Se spune anume „în neamul lui” ca să se arate că dreptatea lui nu a fost după dreptatea desăvârșită, ci după dreptatea neamului său. Și aceasta se spune în ebraică: Noe era un om drept, fără prihană în generațiile lui, a umblat cu Dumnezeu; adică a mers pe urmele Lui."
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 44:17",
+    "text": "Noe a fost găsit desăvârșit, drept; în vremea mâniei a fost schimb; pentru aceasta a fost rămășiță pe pământ, când a fost potopul.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 44,
+      "v": 17
+     }
+    }
    }
   ],
   "fidela": "Acestea sunt generațiile lui Noe: Noe a fost un bărbat drept și desăvârșit în generațiile lui și Noe a umblat cu Dumnezeu.",
@@ -3154,6 +3319,28 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "Sfârșitul oricărei făpturi a venit înaintea Mea; îi voi nimici — Pierzania acestei lumi stricate este hotărâtă; „a venit”, adică va veni cu siguranță și va veni curând."
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 7:6",
+    "text": "Noe a propovăduit pocăința, și cei ce au ascultat au fost mântuiți.",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 7,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Pavel 50:4",
+    "text": "Pe când încă grăia a venit altul strigând de departe: «Acesta e Noe din zilele potopului.» Și a zis: «Am petrecut o sută de ani făcând corabia, nedezbrăcând haina pe care o purtam, și nu mi-am ras părul capului. Mai departe am ținut înfrânarea, neduându-mă aproape de soția mea.»",
+    "src": {
+     "slug": "apocalipsa-pavel",
+     "spec": {
+      "num": 50,
+      "v": 4
+     }
+    }
    }
   ],
   "fidela": "Și Dumnezeu i-a spus lui Noe: Sfârșitul a toată făptura a ajuns înaintea mea, fiindcă pământul este umplut cu violență prin ei; și, iată, îi voi nimici împreună cu pământul.",
@@ -3447,6 +3634,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "Totuși, în loc de „lemn netezit”, traducerea veche a folosit „lemn pătrat”, care se referă la aceeași desăvârșire a celor aleși. Căci oricum ai întoarce un pătrat, el stă în picioare și nu poate cădea în vreun fel. Așa își aduce aminte mintea celor aleși să păstreze neatinsă starea gândului sfânt, orice ispite ar întâlni."
+   },
+   {
+    "author": "Cartea Înțelepciunii lui Solomon 10:4",
+    "text": "Pentru care, potopul acoperind pământul, iarăși a mântuit înțelepciunea, chivernisind pe cel drept prin lemnul de puțin preț.",
+    "src": {
+     "slug": "intelepciunea-lui-solomon",
+     "spec": {
+      "num": 10,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -4119,6 +4317,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
     "text": "Și iată, Eu, chiar Eu, aduc un potop — Repetarea vestirii a fost ca să-i întărească certitudinea (Fac. 41:32). Orice părere s-ar avea despre lucrarea legilor și a puterilor firii în potop, el a fost adus peste lume de Dumnezeu ca pedeapsă pentru nelegiuirea uriașă a locuitorilor ei."
+   },
+   {
+    "author": "1 Enoh 10 — comparație",
+    "text": "«Du-te la Noe și spune-i în numele Meu: «Ascunde-te!» și descoperă-i sfârșitul care se apropie, că tot pământul va pieri și un potop este pe cale să vină asupra întregului pământ și să nimicească tot ce este pe el.",
+    "src": {
+     "slug": "1-enoh",
+     "spec": {
+      "num": 10,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -4508,6 +4717,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Calvin, Comentariu la Facere",
     "text": "19. Și din tot ce e viu, din toată făptura. „Toată făptura” este numele pe care îl dă animalelor de orice fel ar fi. Spune că au intrat câte două; nu că în arcă s-ar fi primit o singură pereche din fiecare soi (căci vom vedea curând că au fost trei perechi din soiurile curate și încă un animal, pe care Noe l-a adus apoi jertfă), ci, întrucât aici se pomenește numai de înmulțire, el nu spune în mod anume numărul, ci doar împerechează masculii cu femelele, ca Noe să înțeleagă de aici cum avea să fie umplută din nou lumea."
+   },
+   {
+    "author": "1 Enoh 10 — comparație",
+    "text": "Și nici o cerere din partea părinților lor pentru ei nu va fi împlinită, căci ei nădăjduiesc să trăiască o viață veșnică și că fiecare din ei va trăi cinci sute de ani.»",
+    "src": {
+     "slug": "1-enoh",
+     "spec": {
+      "num": 10,
+      "v": 10
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 5 — comparație",
+    "text": "Și El va face pentru toate lucrările Sale o fire nouă și dreaptă, ca să nu mai păcătuiască în toată firea lor în veac, ci să fie toți drepți, fiecare în felul lui, totdeauna.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 5,
+      "v": 12
+     }
+    }
    }
   ]
  },

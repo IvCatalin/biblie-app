@@ -237,6 +237,17 @@ window.CHAPTER_DATA = [
       "v": 1
      }
     }
+   },
+   {
+    "author": "Iudita 8:27",
+    "text": "Adu-ți aminte câte a făcut cu Avraam și câte a ispitit pe Isaac și câte s-a întâmplat lui Iacov în Mesopotamia Siriei, păscând oile lui Laban, fratele mamei sale.",
+    "src": {
+     "slug": "iudita",
+     "spec": {
+      "num": 8,
+      "v": 27
+     }
+    }
    }
   ]
  },
@@ -526,6 +537,17 @@ window.CHAPTER_DATA = [
     "text": "«Ia-l, rogu-te, etc.» Explicația: îndată și imediat, fără a cere timp, și chiar aceasta face parte din încercare, ca să nu ceară de la el timp, ca fapta fiicei lui Iefta, al cărei tată a vrut să o aducă jertfă ardere și ea a cerut de la el două luni etc.<br><br>Încă i-a aluzionat să o ia pe Sara cu vorbe ca să fie de acord să-l ia cu el, și așa au spus, binecuvântată fie amintirea lor, că toată acea noapte Avraam a împăcat-o pe Sara ca să fie de acord cu el să-l ducă să învețe Tora până la lumina dimineții.<br><br>Încă a aluzionat despre Isaac să-l ia cu vorbe de bunăvoință, căci nu fusese încercat în toate zilele lui, și Domnul a poruncit să-l ia cu vorbe cu rost și să-i pună în inimă măreția lucrului dacă va fi adus jertfă ardere pentru Domnul.<br><br>«Pe fiul tău etc.» Aici a aluzionat la trei iubiri pe care Tora a obligat pe fiecare israelit să iubească Creatorul, binecuvântat fie, „cu toată inima și cu tot sufletul și cu toată puterea”. „Cu toată inima” – nu ai nimic mai drag în inima omului ca iubirea de fii, și aceasta este spusa „pe fiul tău”. Iar față de „cu tot sufletul tău” a spus „pe unicul tău”, și de vreme ce nu are decât pe el, el este sufletul, căci cel care nu are fii este socotit ca mort. Iar față de „și cu toată puterea ta” a spus „pe care îl iubești”, explicația: pe el l-ai iubit mai mult decât toate averile tale, și toate averile lui nu sunt ca el, și chiar așa, înalță-l pentru Mine etc. Și Domnul a intenționat să precizeze toate acestea ca să-i facă cunoscut că deși îl are la el în toate treptele, totuși Domnul dorește ca să-l aducă Lui jertfă ardere."
    },
    {
+    "author": "Tratatul Semachot, cap. 8",
+    "text": "Rabbi ʿAqiva spune: Un împărat are patru fii: unul este bătut și tace; unul este bătut și se răzvrătește; unul este bătut și se roagă; și unul este bătut și îi spune tatălui său: Bate-mă! Avraam este bătut și tace, căci s-a spus: „Ia-l, rogu-te, pe fiul tău, pe unicul tău fiu, pe care îl iubești, pe Isaac… înalță-l… ca ardere-de-tot”. Ar fi trebuit să spună: Ieri mi-ai spus: „prin Isaac îți va fi socotită sămânța”; căci s-a spus: „Avraam s-a trezit dis-de-dimineață”, și celelalte. Iov este bătut și se răzvrătește, căci s-a spus: „Voi spune lui Dumnezeu: Nu mă osândi; fă-mă să știu pentru ce Te cerți cu mine”. Ezechia este bătut și se roagă, căci s-a spus: „Și s-a rugat Domnului”, și celelalte. Și unii spun: Ezechia este bătut și se răzvrătește; după aceea, trebuia să spună: „și am făcut ce este bine în ochii Tăi”? David i-a spus tatălui său: Bate-mă, căci s-a spus: „Spală-mă cu totul de nelegiuirea mea și curăță-mă de păcatul meu”.",
+    "src": {
+     "slug": "talmud-minor-semachot",
+     "spec": {
+      "num": 8,
+      "v": 12
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 18 — comparație",
     "text": "Și El a zis: Ia pe fiul tău iubit, pe care-l iubești, pe Isaac, și mergi în ținutul cel înalt, și adu-l pe unul din munții pe care ți-i voi arăta.",
     "src": {
@@ -557,6 +579,10 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Jertfirea copiilor este atestată în lumea canaanită și feniciană: inscripții și urne de la locul de jertfă (tofet) din Cartagina vorbesc despre asemenea jertfe, iar în 2 Regi 3:27 regele Moabului își jertfește fiul. Cuvintele „nu-ți întinde mâna asupra copilului” (22:12) pun la Israel un hotar clar împotriva acestui obicei."
    }
   ]
  },
@@ -931,6 +957,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 23,
       "v": 40
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și l-a îmbrăcat pe Isaac fiul ei cu acela, și a pus un turban pe capul lui, și ea a fixat o piatră prețioasă pe turban, și ea le-a dat provizii pentru drum, iar ei au pornit, și Isaac a mers cu tatăl său Avraam, și unii din slujitori lor i-au acompaniat să îi vadă plecând la drum.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 15
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și când Sara a auzit cuvintele fiului ei Isaac a plâns cu amărăciune, iar Avraam soțul ei a plâns cu ea, iar fiul lor a plâns cu ei un mare plânset; de asemenea cei care au mers cu ei au plâns mult.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 17
      }
     }
    }
@@ -2461,6 +2509,28 @@ window.CHAPTER_DATA = [
       "v": 65
      }
     }
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 31:3",
+    "text": "Isaac cu încredere, știind cele viitoare, a fost dus jertfă de bunăvoie.",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 31,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Doamne, Tu ești un milos și compătimitor rege peste tot ceea ce Tu ai creat în cer și pe pământ, și Tu le susții pe toate; dă prin urmare răscumpărare și salvare în locul slujitorului Tău Isaac, și ai milă și compasiune asupra lui Avraam și asupra lui Isaac fiul lui, care în această zi înfăptuiesc poruncile tale.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 67
+     }
+    }
    }
   ]
  },
@@ -2836,6 +2906,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Atunci un înger al Domnului a strigat către el din ceruri.» Și deși vorbea în limbajul Șechinei, când a spus „și nu l-ai ținut pe fiul tău… departe de Mine”, căci era trimis al Locului și vorbea ca și cum Sfântul vorbește în fiecare loc; iar la sfârșit s-a dovedit că era îngerul, din ceea ce a spus a doua oară: „pe Mine Însumi am jurat – rostirea Domnului”."
+   },
+   {
+    "author": "Adunarea cea mare 30:9",
+    "text": "Și aceasta este taina pe care am învățat-o (Exodul 34): «YHVH (Domnul), YHVH» — un semn de pauză (pesiq) între ele. În toate locurile unde un nume este pomenit de două ori, este un pesiq între ele, ca (Geneza 22:11): «Avraham, Avraham»; (Geneza 46:2): «Iaakov, Iaakov»; (1 Samuel 3:10): «Șmuʾel, Șmuʾel» — la toate este pesiq între ele, în afară de «Moșe Moșe», unde nu este pesiq între ele. Care este motivul? «Avraham, Avraham» — cel din urmă este desăvârșit, cel dintâi nu este desăvârșit, căci acum era desăvârșit prin cele zece încercări; și de aceea este pesiq între ele, căci acum nu era ca la început.",
+    "src": {
+     "slug": "kab-zo-idra-raba",
+     "spec": {
+      "num": 30,
+      "v": 9
+     }
+    }
    },
    {
     "author": "Cartea Jubileelor 18 — comparație",
@@ -3414,6 +3495,17 @@ window.CHAPTER_DATA = [
     "text": "Ci berbecii lui Yițḥak, ca să aducă față de vacă; căci este pomenit de două ori în verset: unul, cum este scris (Geneza 22:13): «Și Avraham și-a ridicat ochii și a văzut, și iată un berbec» — iată unul; și unul: «Și Avraham a mers și a luat berbecul» — iată doi; «și l-a înălțat ca olah». Și de aceea «un berbec pentru olah, temimim» — doi berbeci, căci el este doi. Și despre aceasta (Vayeḥi 241a) am învățat «ghevurot», și din ele se despart către multe altele."
    },
    {
+    "author": "Mișna, Rabeinu Iona pe Pirkei Avot 5:39",
+    "text": "„Și berbecul lui Avraham, părintele nostru”: „s-a prins cu coarnele într-un tufiș”; „și a mers și l-a luat și l-a adus jertfă arsă în locul fiului său” (Geneza 22:13).",
+    "src": {
+     "slug": "mishna-avot-extra-rabbeinu-yonah-on-pirkei-avot",
+     "spec": {
+      "num": 5,
+      "v": 39
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 18 — comparație",
     "text": "Și principele Mastema a fost făcut de rușine; și Avraam și-a ridicat ochii și a privit, și iată un singur berbec prins de coarne, și Avraam a mers și a luat berbecul și l-a adus ca jertfă arsă în locul fiului său.",
     "src": {
@@ -3438,6 +3530,10 @@ window.CHAPTER_DATA = [
       "v": 70
      }
     }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Unele inscripții punice vorbesc despre „molk-‘immor”, jertfa unui miel în locul unui copil; interpretarea este discutată de cercetători. Berbecul din Geneza 22 înlocuiește și el fiul, dar acolo Dumnezeu însuși rânduiește jertfa: „Dumnezeu Își va vedea mielul” (22:8)."
    }
   ]
  },
@@ -4062,6 +4158,28 @@ window.CHAPTER_DATA = [
     "text": "«Nu l-ai cruțat pe unicul tău.» Tu ai adus înaintea Mea pe fiul tău, unicul tău, și ai vrut să-ți micșorezi sămânța, iar Eu îți voi da: „și îți voi înmulți foarte mult sămânța”."
    },
    {
+    "author": "Zohar Chadash, Chukat 78",
+    "text": "Și asupra acesteia «în ziua aceea» — ziua întâi a totului. «Rostirea Domnului» — acesta este Avraham, despre care s-a zis «rostirea Domnului» înaintea totului. Că este scris (Bereșit 22:16) «pe Mine M-am jurat, rostirea Domnului». Și aici s-a sugerat Numele lui Atiqa, prin care a jurat Zeir Anpin lui Avraham. Și asupra acesteia acea zi nu s-a chemat nici zi, nici noapte, că atârnă de Atiqa, care voiește să-și cinstească barba. În acea zi va ridica sucat David cea căzută.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 20,
+      "v": 78
+     }
+    }
+   },
+   {
+    "author": "Adunarea cea mare 8:20",
+    "text": "Am învățat: (cu toate acestea) Numele lui Atiqa este ascuns de toate și nu se desparte în Toră, în afară de un singur loc, unde Zeʿir Anpin a jurat lui Avraham, căci este scris (Geneza 22:16): «Pe Mine Însumi am jurat, zice Domnul» — «zice» (neʾum) al lui Zeʿir Anpin. Și este scris (Geneza 48:20): «Cu tine va binecuvânta Israel» — Israel de sus. Și este scris (Isaia 49:3): «Israel, în care Mă voi slăvi» — lui Israel a spus aceasta. Și am învățat: Atiq Yomin a spus; și una și alta sunt bune.",
+    "src": {
+     "slug": "kab-zo-idra-raba",
+     "spec": {
+      "num": 8,
+      "v": 20
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 18 — comparație",
     "text": "Și a zis: Pe Mine Însumi am jurat, zice Domnul, pentru că ai făcut lucrul acesta, și nu ți-ai ținut fiul, pe fiul tău iubit, de la Mine, că binecuvântând te voi binecuvânta, și înmulțind îți voi înmulți sămânța ca stelele cerului, și ca nisipul de pe țărmul mării. Și sămânța ta va moșteni cetățile vrăjmașilor ei.",
     "src": {
@@ -4069,6 +4187,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 18,
       "v": 15
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 23 — comparație",
+    "text": "Și Satana a repetat aceste cuvinte, și a plecat de la ea, și Sara a auzit toate cuvintele Satanei, iar ea și l-a imaginat a fi un om bătrân dintre fiii oamenilor care fusese cu fiul ei, și care a venit și i-a spus ei aceste lucruri.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 23,
+      "v": 78
      }
     }
    }
@@ -4330,6 +4459,39 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Și ca nisipul care este pe malul mării.» Așa s-au găsit în zilele lui Solomon."
+   },
+   {
+    "author": "Zohar Chadash, Shir HaShirim 174",
+    "text": "Și acum ea a cerut din acele sărutări; și ceea ce ai zis minneșiqot, că se înțelege o sărutare, că este scris minneșiqot, și nu este scris neșiqot, că iată sărutările care sunt două, din acele sărutări nu este decât una. Cu adevărat trebuie: cine cere nu trebuie să ceară mult, ci puțin, că iată odată ce a început, va lua cine va lua. Sfântului, binecuvântat fie El, i se cere puțin, și El dă mult. Avraham a cerut puțin, și Sfântul, binecuvântat fie El, i-a dat mult. El a cerut un fiu; ce este scris (Bereșit 22:17) «și înmulțind voi înmulți sămânța ta ca stelele cerului și ca nisipul care este pe țărmul mării etc.» Pentru că astfel sunt căile Sfântului, binecuvântat fie El; și asupra acesteia a zis minneșiqot, și nu neșiqot.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 26,
+      "v": 174
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Căci tot ținutul pe care-l vezi ți-l voi da ție și seminței tale pe veci, și voi face sămânța ta ca nisipul mării: de ar putea un om să numere pulberea pământului, totuși sămânța ta nu se va număra.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 20
+     }
+    }
+   },
+   {
+    "author": "Cântarea celor trei Tineri 1:13",
+    "text": "Cărora le-ai grăit că le vei înmulți sămânța ca stelele cerului și ca nisipul de pe țărmul mării.",
+    "src": {
+     "slug": "cantarea-celor-trei-tineri",
+     "spec": {
+      "num": 1,
+      "v": 13
+     }
+    }
    }
   ]
  },
@@ -4498,6 +4660,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 18,
       "v": 16
+     }
+    }
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 44:21",
+    "text": "Pentru aceasta i-a făgăduit cu jurământ să binecuvânteze neamurile în sămânța lui, să le înmulțească ca țărâna pământului și să înalțe sămânța lui ca stelele și să le dea moștenire de la mare până la mare și de la râu până la marginile pământului.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 44,
+      "v": 21
      }
     }
    }

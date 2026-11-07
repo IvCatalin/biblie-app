@@ -729,6 +729,17 @@ window.CHAPTER_DATA = [
       "v": 22
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 20 — comparație",
+    "text": "Și el s-a apropiat de ea și i-a spus, ce este acel om pentru tine cu care tu ai venit la ținutul nostru? Și Sara a răspuns și spus, este fratele meu, iar noi venim din ținutul Canaan să locuim oriunde am putea găsi un loc.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 20,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -1620,8 +1631,23 @@ window.CHAPTER_DATA = [
     "text": "«Dar acum, dă-i bărbatului soția înapoi etc.» Spusa „căci el este profet”, explicația: căci profet este bărbatul a cărui soție este aceasta, căci încă nu știa în mod lămurit că era soția lui Avraam, căci în cuvintele lor nu a fost pomenit soțul, și precum am scris mai sus, iar prin spusa „el este profet” se știe că este Avraam, căci nu este profet în afară de el în acele zile.<br><br>Încă va voi că el este profet și va ști că deși a fost ascunsă, nu s-a spurcat.<br><br>Încă va voi pe această cale: căci el este profet, și prin aceasta se va ruga pentru tine și rugăciunea lui va ajuta, și aceasta este spusa „și vei trăi”."
    },
    {
+    "author": "Mișna, Poarta întâi 8:7",
+    "text": "Deși îi dă, nu i se iartă până ce nu va cere de la el, căci s-a spus: (Geneza 20:7) „Și acum, dă înapoi soția”⁠‌‌​‌‌​‌​​‌​‌‌​‌​‌​​‌‌​​‌ etc. Și de unde reiese că cel care iartă să nu fie crud? Căci s-a spus: (Geneza 20:17) „Și s-a rugat Avraham către Dumnezeu, și Dumnezeu l-a vindecat pe Avimelekh” etc. Cel care spune: „Orbește-mi ochiul, taie-mi mâna, frânge-mi piciorul” — este dator; „cu condiția de a fi scutit” — este dator. „Rupe-mi haina, sparge-mi urciorul” — este dator; „cu condiția de a fi scutit” — este scutit. „Fă așa cutărui om, cu condiția de a fi scutit” — este dator, fie la trupul lui, fie la averea lui.",
+    "src": {
+     "slug": "mishna-bava-kamma",
+     "spec": {
+      "num": 8,
+      "v": 7
+     }
+    }
+   },
+   {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Pricina pentru care Domnul cel bun a dat această pedeapsă regelui, deși era nevinovat de păcat, a fost ca el să se plece rugăciunilor omului drept și astfel să se dezlege problema, făcând pe omul drept mai vestit și mai cunoscut. Căci toată rânduiala lui Dumnezeu și fiecare orânduire pe care o face are scopul de a face vădiți pe cei ce Îi slujesc, ca niște lămpi, și de a face virtutea lor vădită în toate chipurile."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Aici apare pentru prima oară în Biblie cuvântul „profet” (navi), și anume despre Avraam: el se roagă și Dumnezeu vindecă. În Mesopotamia, la Mari, textele pomenesc profeți și vise prin care zeul trimite regelui avertismente, dar Dumnezeu din Geneza Se adresează direct, în vis, chiar și unui rege străin."
    }
   ]
  },
@@ -2950,6 +2976,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și când Dumnezeu m-a făcut să rătăcesc etc.» Aici a venit să dea motivul pentru prima lui vorbă pe care a spus-o „nu este teamă de Dumnezeu”, căci Abimelec va spune: ce ai văzut în locul în care i-ai bănuit că nu au teamă de Dumnezeu? De aceea a spus că această rânduire pe care a rânduit-o să spună „sora mea” – nu din pricina acelui loc numai, ci în mod general a rânduit aceasta pentru grija unui loc în care nu este teamă de Dumnezeu, și această îndoială nu a ieșit din ea Gherarul, căci deși nu are prezumția „nu este teamă de Dumnezeu”, va recunoaște că nici Avraam nu are în ea prezumția că este în ea teamă de Dumnezeu. Și de acum s-au astupat argumentele lui Abimelec."
+   },
+   {
+    "author": "Tratatul Soferim, cap. 4",
+    "text": "Toate numele spuse la Avraam sunt sfinte, afară de unul, care este profan, căci s-a spus: „Și a spus: Stăpâne, dacă am găsit bunăvoință în ochii Tăi”; și unii spun: sfânt. „Și când Dumnezeu m-a făcut să rătăcesc”: Rabbi Ḥanina, fratele lui Rabbi Yehoșua, spune: sfânt, căci dacă n-ar fi fost Dumnezeu, deja m-ar fi făcut să rătăcesc.",
+    "src": {
+     "slug": "talmud-minor-soferim",
+     "spec": {
+      "num": 4,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -3341,6 +3378,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Zohar, Toldot 13:1",
     "text": "(Geneza 26:11) «Și a poruncit Avimelekh la tot poporul zicând: cine se atinge de omul acesta și de soția lui va muri de moarte.» Vino, vezi: cât a lungit Sfântul, binecuvântat fie El, pentru răi, din pricina acelui bine pe care l-a făcut cu părinții dintâi. Că iată din pricina aceasta n-au stăpânit asupra lor Israel până după generațiile de pe urmă. Bine a făcut Avimelekh, că a făcut bine cu Yițḥak, că i-a zis (Geneza 20:15): «iată țara mea e înaintea ta; în ce e bun în ochii tăi, șezi»."
+   },
+   {
+    "author": "Cartea Dreptului 20 — comparație",
+    "text": "Și Abimelec i-a spus lui Avraam, iată tot ținutul este înaintea ta, locuiește în el oriunde tu vei alege.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 20,
+      "v": 26
+     }
+    }
    }
   ]
  },
@@ -3818,6 +3866,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Mișna, Bava Kama 8:7",
     "text": "Deși îi dă, nu i se iartă până ce nu va cere de la el, căci s-a spus: (Geneza 20:7) „Și acum, dă înapoi soția” etc. Și de unde reiese că cel care iartă să nu fie crud? Căci s-a spus: (Geneza 20:17) „Și s-a rugat Avraham către Dumnezeu, și Dumnezeu l-a vindecat pe Avimelekh” etc. Cel care spune: „Orbește-mi ochiul, taie-mi mâna, frânge-mi piciorul” — este dator; „cu condiția de a fi scutit” — este dator. „Rupe-mi haina, sparge-mi urciorul” — este dator; „cu condiția de a fi scutit” — este scutit. „Fă așa cutărui om, cu condiția de a fi scutit” — este dator, fie la trupul lui, fie la averea lui."
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 7",
+    "text": "„Cum își cinstește omul” etc. S-a învățat: Mihail a venit să-i vestească Sarei; Gabriel, ca să răstoarne Sodoma; Rafael, ca să-l vindece pe Avraam. Și unii spun: Rafael, ca să-i vestească Sarei și să vindece, căci s-a spus: „și Dumnezeu l-a vindecat”; Mihail și Gabriel, ca să răstoarne Sodoma. Care este motivul primului învățător? „Și a prăpădit acele orașe.” Și care este motivul celor care spun „unii spun”? „Cei doi îngeri au ajuns la Sodoma.” Ce este deosebit la Avraam, că au spus: „Așa să faci”, și ce este deosebit la Lot, că au spus: „Nu, ci pe stradă vom înnopta”? Rabbi Elʿazar a spus: De aici, că se refuză celui mic și nu se refuză celui mare. Au învățat rabanii: În viitorul ce va veni, fiul lui David va fi la mijloc; Adam, Set și Metusala la dreapta lui; Avraam, Moise și Iacov la stânga. Care este motivul că l-a lăsat pe Isaac? Rava a spus: Isaac vine mai presus de ei, căci tot Israelul îi spune: „Căci tu ești tatăl nostru”. De acum, Esau i-ar fi o cinste? Învață a spune: „Căci tu ești tatăl nostru”: fiii sunt ca părintele lor: precum părintele nu a tăgăduit legământul, tot așa fiii care nu au tăgăduit legământul. Și de unde o avem? „te voi face sânge și sângele te va urmări; pentru că n-ai urât sângele”. Și oare Esau ura sângele? Și nu erau toate faptele lui numai în vărsare de sânge, căci s-a spus: „Asemănarea lui este ca a unui leu care dorește să sfâșie și ca a unui pui de leu care stă în ascunzișuri”? Și ce se înțelege? Poate să lovească? Nu: din aceea că este scris „dmynw” și nu este scris „dmywnw”, reiese de aici. S-a sfârșit capitolul „Întotdeauna să fii frumos”.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 7,
+      "v": 5
+     }
+    }
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere",

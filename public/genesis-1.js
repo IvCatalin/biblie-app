@@ -1492,6 +1492,17 @@ window.CHAPTER_DATA = [
     }
    },
    {
+    "author": "Mișna, Lucrurile de rând 5:5",
+    "text": "„O zi” spusă la „pe el și pe puiul lui” — ziua merge după noapte. Aceasta a explicat-o Șimʿon ben Zoma: S-a spus la lucrarea creației: (Geneza 1:5) „o zi”, și s-a spus la „pe el și pe puiul lui”: (Leviticul 22) „o zi”. După cum „o zi” spusă la lucrarea creației — ziua merge după noapte, tot așa „o zi” spusă la „pe el și pe puiul lui” — ziua merge după noapte.",
+    "src": {
+     "slug": "mishna-chullin",
+     "spec": {
+      "num": 5,
+      "v": 5
+     }
+    }
+   },
+   {
     "author": "Sfântul Vasile cel Mare, Hexaimeron, Omilia II",
     "text": "Discută aceeași întrebare pusă și de Rashi: de ce Scriptura spune „o zi”, nu „ziua întâi”, când toate celelalte zile sunt numerotate (a doua, a treia...)? Vasile respinge ideea unei zile pur astronomice și propune o cheie diferită de a lui Rashi: „o zi” arată că ziua aceasta e „tipul veșniciei” — un cerc care începe și se sfârșește cu sine, spre deosebire de succesiunea zilelor următoare. O numește „ziua a opta” a Psalmistului — ziua fără seară, aflată în afara timpului săptămânii — și o leagă direct de ziua Învierii Domnului. Spre deosebire de explicația lui Rashi (unicitatea lui Dumnezeu înainte de crearea îngerilor în ziua a doua), Vasile citește „unu” ca semn al veșniciei, nu al singurătății divine — o divergență interpretativă instructivă între cele două tradiții, ambele plecând de la aceeași observație textuală."
    },
@@ -1519,6 +1530,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 27,
       "v": 1
+     }
+    }
+   },
+   {
+    "author": "2 Enoh 27 — comparație",
+    "text": "Și am despărțit între lumină și între întuneric, adică în mijlocul apei încoace și încolo și am zis luminii să fie ziua și întunericului să fie noaptea și a fost seară și a fost dimineață ziua întâi.",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 27,
+      "v": 2
      }
     }
    }
@@ -6147,6 +6169,17 @@ window.CHAPTER_DATA = [
       "v": 7
      }
     }
+   },
+   {
+    "author": "4 Ezdra 6:49",
+    "text": "Atunci ai rânduit două viețuitoare, una pe care ai numit-o Enoh, iar cealaltă Leviatan;",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 6,
+      "v": 49
+     }
+    }
    }
   ],
   "textCompare": [
@@ -7754,6 +7787,39 @@ window.CHAPTER_DATA = [
       "v": 9
      }
     }
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 17:3",
+    "text": "După asemănarea Sa i-a îmbrăcat cu tărie și i-a făcut după chipul Său.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 17,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "2 Enoh 30 — comparație",
+    "text": "[Joi]. În ziua a cincea am poruncit mării să scoată pești și păsări înaripate de multe soiuri și toate animalele care se târăsc pe pământ, mergând pe pământ pe patru picioare și plutind în aer, de parte bărbătească și femeiască, și orice suflet care respiră duhul vieții.",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 30,
+      "v": 8
+     }
+    }
+   },
+   {
+    "author": "2 Enoh 30 — comparație",
+    "text": "M-am gândit la un cuvânt viclean de spus: am creat pe om din fire nevăzută (duhovnicească) și din fire vizibilă (fizică), din amândouă sunt moartea și viața și chipul lui, el știe vorbirea ca o făptură oarecare, mic în măreție și iarăși mare în micime și l-am așezat pe pământ, un al doilea înger, cinstit, mare și slăvit, și l-am rânduit stăpânitor să domnească pe pământ și să aibă înțelepciunea Mea și nu era niciunul ca el de pe pământ dintre toate făpturile Mele existente.",
+    "src": {
+     "slug": "2-enoh",
+     "spec": {
+      "num": 30,
+      "v": 12
+     }
+    }
    }
   ],
   "textCompare": [
@@ -8057,6 +8123,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 2,
       "v": 23
+     }
+    }
+   },
+   {
+    "author": "Fragmentul naaseenilor 2:2",
+    "text": "Iar omul acesta este androgin și e numit la ei Adam; și i se fac imnuri multe și felurite.",
+    "src": {
+     "slug": "naaseeni",
+     "spec": {
+      "num": 2,
+      "v": 2
      }
     }
    }
@@ -8479,6 +8556,17 @@ window.CHAPTER_DATA = [
       "v": 4
      }
     }
+   },
+   {
+    "author": "Cartea Înțelepciunii lui Solomon 10:2",
+    "text": "Și l-a scos din greșeala lui și i-a dat putere să stăpânească toate.",
+    "src": {
+     "slug": "intelepciunea-lui-solomon",
+     "spec": {
+      "num": 10,
+      "v": 2
+     }
+    }
    }
   ],
   "textCompare": [
@@ -8807,6 +8895,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Dieta strict vegetariană poruncită omului la creație (v. 29) — carnea fiind îngăduită abia după Potop, în Geneza 9:3 — a fost observată încă din Antichitate ca o tensiune internă a textului, discutată de comentatori evrei și creștini deopotrivă: lumea „foarte bună” a creației inițiale nu presupunea moartea animalelor pentru hrană."
+   },
+   {
+    "author": "Cartea Dreptului 1 — comparație",
+    "text": "Și Domnul Dumnezeu a luat pe Adam și Eva, nevasta sa, și El i-a așezat în grădina Edenului să o lucreze și să o îngrijească; și El le-a poruncit și le-a spus: Din orice pom din grădină puteți mânca, dar din pomul cunoașterii binelui și răului să nu mâncați, căci în ziua în care veți mânca de acolo veți muri sigur.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 1,
+      "v": 7
+     }
+    }
    }
   ],
   "textCompare": [
@@ -9363,6 +9462,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 9,
       "v": 6
+     }
+    }
+   },
+   {
+    "author": "Zohar Chadash, Bereshit 524",
+    "text": "A zis Ribi Berekhyah lui Ribi Yitzḥak: dacă așa, este greu lucrul acesta mai mult decât tot ce s-a zis; că dacă astfel, trebuia să zică acest verset (Bereșit 1:31): «și a văzut Elohim tot ce au făcut, și iată foarte bun». Ce este «tot ce a făcut»? A zis Ribi Yitzḥak: frumos ai zis.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 1,
+      "v": 524
      }
     }
    },

@@ -289,6 +289,21 @@ window.CHAPTER_DATA = [
       "v": 23
      }
     }
+   },
+   {
+    "author": "4 Ezdra 3:13",
+    "text": "Și când trăiau astfel în răutate înaintea Ta, Ți-ai ales dintre ei un om, al cărui nume era Avraam.",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 3,
+      "v": 13
+     }
+    }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Ur și Haranul, cele două cetăți din care vine Avram, erau centre ale cultului zeului-lună Sin (Nanna). Textele mesopotamiene vorbesc despre templul Lunii din Haran, iar chemarea lui Avram să plece din casa tatălui său apare pe acest fundal."
    }
   ]
  },
@@ -505,6 +520,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 11,
       "v": 40
+     }
+    }
+   },
+   {
+    "author": "2 Baruh 57:1",
+    "text": "Și după aceste (ape) ai văzut ape strălucitoare: acesta este izvorul lui Avraam, și generațiile lui și venirea fiului lui și a fiului fiului lui și a celor asemenea lor.",
+    "src": {
+     "slug": "2-baruh",
+     "spec": {
+      "num": 57,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Psalmii lui Solomon 9:9",
+    "text": "Și ai ales sămânța lui Avraam peste toate neamurile, și Ți-ai pus numele asupra noastră, Doamne, și nu ne vei lepăda pe veci.",
+    "src": {
+     "slug": "psalmii-solomon",
+     "spec": {
+      "num": 9,
+      "v": 9
      }
     }
    }
@@ -740,6 +777,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 11,
       "v": 41
+     }
+    }
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 31:2",
+    "text": "Pentru ce a fost binecuvântat părintele nostru Avraam? Oare nu pentru că a lucrat dreptate și adevăr prin credință?",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 31,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Marcion, Apostolikon: Galateni 3:8",
+    "text": "Iar Scriptura, prevăzând că Dumnezeu îndreptează neamurile din credință, a binevestit mai dinainte lui Avraam: Că se vor binecuvânta în tine toate neamurile.",
+    "src": {
+     "slug": "marcion-galateni",
+     "spec": {
+      "num": 3,
+      "v": 8
      }
     }
    }
@@ -1430,6 +1489,28 @@ window.CHAPTER_DATA = [
       "v": 27
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "Și Domnul i-a apărut lui Avram când el a venit în ținutul Canaan, și i-a spus lui: Acesta este ținutul pe care Eu ți l-am dat ție și seminței tale după tine pentru totdeauna, și Eu voi face sămânța ta precum stelele cerului, iar Eu îi voi da seminței tale ca moștenire toate meleagurile pe care tu le vezi.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 7
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 13 — comparație",
+    "text": "La acea vreme, la sfârșitul a trei ani de locuire a lui Avram în ținutul Canaan, în acel an Noe a murit, care era anul 58 al vieții lui Avram; și toate zilele pe care Noe le-a trăit au fost 950 de ani și el a murit.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 13,
+      "v": 9
+     }
+    }
    }
   ]
  },
@@ -1927,6 +2008,50 @@ window.CHAPTER_DATA = [
       "v": 28
      }
     }
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și a zidit acolo un altar, și a adus pe el o jertfă arsă Domnului, care i se arătase.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 4
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 12 — comparație",
+    "text": "Și un slujitor înțelept al regelui, al cărui nume era Anuchi, a răspuns regelui, zicând, acesta este nimic altceva decât răul lui Avram și al seminței sale care va răsări împotriva domnului și regelui meu în zilele din urmă.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 12,
+      "v": 52
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 12 — comparație",
+    "text": "Acum prin urmare regele meu, sigur tu cunoști că sunt deja 52 de ani de când înțelepții tăi au văzut aceasta la nașterea lui Avram, și dacă regele meu îi va îndura lui Avram să trăiască pe pământ va fi spre vătămarea domnului și regelui meu, căci în toate zilele pe care Avram le trăiește, nici tu și nici regatul tău nu veți fi stabiliți, căci aceasta era cunoscută dinainte la nașterea lui; și de ce nu vrea regele meu a-l ucide, ca răul lui să fie abătut de la tine în zile din urmă?",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 12,
+      "v": 57
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 12 — comparație",
+    "text": "Și Terah a ascultat de vocea fiului său Avram, iar Terah a făcut tot ceea ce a spus Avram, căci aceasta a fost de la Domnul, ca regele să nu cauzeze moartea lui Avram.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 12,
+      "v": 70
+     }
+    }
    }
   ]
  },
@@ -2185,6 +2310,17 @@ window.CHAPTER_DATA = [
     "text": "«De acolo s-a mutat etc.» Nu a pomenit pe cine a mutat. Iar Rashi, de binecuvântată amintire, a explicat „cortul lui”, iar este lipsă. Și poate că a făcut aluzie că Stânca s-a mutat din locul în care i S-a arătat acolo, iar aceasta este spusa Înțelepților noștri, binecuvântată fie amintirea lor, în Berakhot la versetul: „Oare din pricina ta va fi părăsită țara și se va muta stânca din locul ei?”, căci când ies Israel din locul rugăciunii lui, pricinuiește ca Stânca, care este Sfântul, binecuvântat fie, să se mute din locul Lui, și cu atât mai mult în ceea ce este înaintea noastră, că Domnul i S-a arătat și i-a construit acolo un altar, și când va trece de acolo Avraam, se va muta Stânca din locul ei, iar Avraam este cel care o mută.<br><br>Încă va voi că a mutat altarul pe care l-a construit acolo, când a voit să-și întindă cortul în alt loc a desfăcut altarul pe care l-a construit și s-a întors și l-a construit în locul în care și-a făcut acolo cortul. Și nu a avut nevoie să explice, căci s-a sprijinit pe pomenirea lui alături: „și a construit acolo un altar etc. și s-a mutat de acolo”. Și a arătat cu degetul prin spusa „de acolo” că se întoarce la ce a fost spus alături; și înțelege."
    },
    {
+    "author": "Tratatul Soferim, cap. 5",
+    "text": "Acestea sunt numele care se despart: Betel, Bet-Aven, Beer-Șeba, Țafnat-Paneah, Poti-Fera, Ben-Oni, Iedidia, Haleluia. Rabbi Yose spune: nu se despart. Dar toți sunt de acord că nu se despart Amiel, Aminadab, Țuriel, Țurișadai.",
+    "src": {
+     "slug": "talmud-minor-soferim",
+     "spec": {
+      "num": 5,
+      "v": 10
+     }
+    }
+   },
+   {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "Bet-El (deja numit așa proleptic, deși numele avea să fie dat oficial abia mai târziu, la Geneza 28:19, de Iacov) și Ai sunt situri arheologice reale, identificate de cercetători cu localitățile moderne Beitin și, respectiv, et-Tell, în Cisiordania centrală."
    },
@@ -2211,6 +2347,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 11,
       "v": 46
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 13 — comparație",
+    "text": "Și s-a întâmplat în anul întâi, în săptămâna a șaptea, la luna nouă a lunii întâi, că a zidit un altar pe muntele acesta, și a chemat Numele Domnului: Tu, Dumnezeul cel veșnic, ești Dumnezeul meu.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 13,
+      "v": 8
      }
     }
    }
@@ -2660,6 +2807,10 @@ window.CHAPTER_DATA = [
       "v": 1
      }
     }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Egiptul era refugiul obișnuit în vremea foametei: o scrisoare a unui paznic de graniță (Papirusul Anastasi VI) spune că păstori din Edom au fost lăsați să treacă hotarul spre bălțile Egiptului „ca să-și hrănească turmele”, iar o pictură din mormântul de la Beni Hasan înfățișează un grup de asiatici care intră în Egipt."
    }
   ]
  },
@@ -2867,6 +3018,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Zohar, Leh Leha 12:5",
     "text": "«Și a zis Sarei, femeii sale: iată acum am cunoscut că femeie frumoasă la vedere ești.» Și oare până în ceasul acela nu știa Avraham că era femeie frumoasă la vedere? Ci iată au statornicit că până în ceasul acela nu privise la chipul Sarei, din pricina mulțimii modestiei care era între ei; și când s-a apropiat de Egipt („Mițrayim”), s-a descoperit ea și a văzut-o."
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 10",
+    "text": "Baraita: Să nu mănânce omul usturoi și ceapă de la capul lor, ci de la frunzele lor; și dacă a mâncat, iată, acesta este lacom. Să nu mănânce omul cu toate degetele lui, pentru că pare lacom. Și să nu-și bage mâna în gură. Ghemara: Rava a spus: N-au învățat aceasta decât în timpul mâncării; dar după mâncare, nu. Care este motivul? Din pricina celui delicat. Și să nu pună în paharul lui decât după măsura minții lui. Care este motivul? Din pricina resturilor, căci a spus Mar: Toate resturile paharelor îl prostesc, în afară de resturile de la havdalah. Cel care bea resturile a patruzeci nu trăiește. Să nu ia omul cana să bea cu gura plină: ne temem pentru cei delicați la minte. Să nu ia omul vasul cu mâna când degetele lui sunt murdare de zeamă. Să nu sufle în apă și să bea, din pricina a două. Au învățat rabanii: Trei, viața lor nu este viață, și iată-i: cei miloși, cei iuți la mânie și cei delicați la minte. Rav Yosef a spus: Și toate sunt în mine. „Toate zilele săracului sunt rele”: acesta este cel care are mintea rea; „dar inima bună”: acesta este cel care are mintea frumoasă. Altă tâlcuire: „Toate zilele săracului sunt rele”: acesta este cel milos; „dar inima bună”: cel crud. Rava a tâlcuit: Oricine are în el aceste trei însușiri, se știe că este din sămânța lui Avraam, părintele nostru: milos, rușinos și făcător de binefaceri. Bine, făcător de binefaceri, căci este scris: „bunătate lui Avraam”; rușinos de asemenea, după cum a tâlcuit Rava: „Iată, știam că ești o femeie frumoasă la înfățișare”: și nu până acum. Ci milos? Iată, Avraam nu a avut milă de fiul lui! Aceasta este măreția lui Avraam: ca să te facă să știi dragostea lui pentru Sfântul, binecuvântat fie El.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 10,
+      "v": 3
+     }
+    }
    },
    {
     "author": "Cartea Dreptului 11 — comparație",
@@ -3288,6 +3450,10 @@ window.CHAPTER_DATA = [
       "v": 51
      }
     }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Atașamentul față de „sora” soției se întâlnește în unele acte din Nuzi, unde soția putea avea și statut de „soră” prin adopție; cercetătorii discută însă dacă acest obicei explică întâmplarea din Geneza, care o prezintă, ca și în 20:2 și 26:7, ca pe o minciună de teamă, nu ca pe un drept legal."
    }
   ]
  },
@@ -4378,6 +4544,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 15,
       "v": 18
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 11 — comparație",
+    "text": "Și regele i-a spus lui Avram, ce este aceasta ce tu ai făcut tatălui tău și zeilor lui? Și Avram a răspuns regelui în cuvintele pe care le rostise tatălui său, și el a spus, zeul cel mare care era cu ei în casă le-a făcut lor ceea ce tu ai auzit.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 11,
+      "v": 53
      }
     }
    }

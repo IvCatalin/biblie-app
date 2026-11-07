@@ -817,6 +817,17 @@ window.CHAPTER_DATA = [
     "text": "«Străin și rezident etc.» Motivul pretenției lui „străin și rezident”, după ce a scris Rambam în capitolul 3 din Legile dobândirii și darului, iar acesta este textul lui: Poate da dar gratuit unui străin rezident (ger toșav) pe care ești poruncit să-l ții în viață, căci este scris „străin și rezident și să trăiască cu tine”, până aici. Și ai de știut că toată Tora noastră sfântă este rațională (sikhlit), în special în treburile conduitei pământești, și după cum noi ne purtăm cu străinul care locuiește cu noi, tot așa se obligă rațional locuitorii țării să se poarte între ei ca să țină în viață un om care este străin și rezident la ei și să-i dea dar gratuit, și aceasta este pretenția lui Avraam „străin și rezident sunt eu, dați-mi”. Și a fost exact să spună „străin” și nu i-a fost destul să spună „rezident”, intenționat să spună că deși sunt străin și nu sunt dintre voi, totuși iată sunt rezident. Încă motivul spusei „străin”, căci s-a temut să spună despre sine „rezident” în lumea aceasta, și este contrariul purtării drepților, de aceea a pus înainte „străin”.<br><br>«Ca să-mi îngrop moarta» Explicația: să nu-l împiedice. Încă a intenționat să spună: fiindcă are să-și dezvăluie gândul că dorește câmpul lui Efron și dă pe el bani, acum vor spune: ce a văzut Avraam să dea atât de mult în sadna de-arʿa, oare nu este un lucru, desigur a văzut în el un lucru mare care va valora de multe ori mai mult! De aceea a pus înainte să spună „să-mi îngrop moarta” ca s-o îngrop dinaintea mea, explicația: aceasta este ce îl constrânge să nu se îngrijoreze de banii lui, și dacă nu ar fi fost mortul lui înaintea lui nu ar fi cumpărat nimic. Și de acum deși va cumpăra câmpul lui Efron cu orice bani din lume, vor atribui că este un loc ales pentru înmormântare și ei nu au nimic de pierdut în aceasta."
    },
    {
+    "author": "Tratatul Gherim, cap. 4",
+    "text": "Iubiți sunt prozeliții, căci în orice loc îi numește ca pe Israel, căci s-a spus: „V-am iubit, a spus Domnul”, „Iar tu, Israel, robul Meu, Iacov, pe care te-am ales”. S-a spus iubire la Israel, căci s-a spus: „V-am iubit, a spus Domnul”; și s-a spus iubire la prozeliți, căci s-a spus: „și îl iubește pe prozelit, dându-i hrană”. Israel au fost numiți robi, și prozeliții, căci s-a spus: „ca să-I fie robi”. S-a spus bunăvoință la Israel, căci s-a spus: „să fie pe fruntea lui necontenit, spre bunăvoință”; și s-a spus bunăvoință la prozeliți, căci s-a spus: „arderile lor de tot și jertfele lor vor fi spre bunăvoință pe altarul Meu”. S-a spus păzire la Israel, căci s-a spus: „Domnul este păzitorul tău”; și s-a spus păzire la prozeliți, căci s-a spus: „Domnul păzește pe străini”. S-a spus slujire la Israel, căci s-a spus: „Iar voi veți fi numiți preoții Domnului, slujitorii Dumnezeului nostru vi se va spune”; și s-a spus slujire la prozeliți, căci s-a spus: „Și fiii străinului, care se alipesc de Domnul ca să-I slujească”. Iubiți sunt prozeliții, căci Avraam, părintele nostru, nu s-a tăiat împrejur nici la douăzeci, nici la treizeci de ani, ci la nouăzeci și nouă de ani; căci, dacă s-ar fi tăiat împrejur Avraam, părintele nostru, la douăzeci sau la treizeci de ani, n-ar fi fost prozelit care să se facă prozelit de la douăzeci de ani în sus sau de la treizeci de ani în sus; ci Cel Sfânt, binecuvântat să fie, a fost cu el și a venit până a ajuns la nouăzeci și nouă de ani, ca să nu încuie ușa înaintea prozeliților. Avraam, părintele nostru, s-a numit pe sine străin, căci s-a spus: „Străin și rezident” etc. David, împăratul lui Israel, s-a numit pe sine străin, căci s-a spus: „căci străin sunt eu la Tine”; și tot așa spune: „căci străini suntem noi înaintea Ta” etc. Iubită este Țara lui Israel, căci ea îi face potriviți pe prozeliți. Dacă era în Țara lui Israel și a spus: „Sunt prozelit”, este primit îndată; iar în afara Țării nu este primit decât dacă martorii lui erau cu el. Și iubită este Țara lui Israel, căci ea ispășește nelegiuirile și fărădelegile, căci s-a spus: „Și niciun locuitor nu va spune: Sunt bolnav”. Și tot așa găsești la cele patru cete care stau înaintea Celui Sfânt, binecuvântat să fie, căci s-a spus: „Acesta va spune: Eu sunt al Domnului”: acesta este cel care este întreg al Locului și nu s-a amestecat în el păcat; „și acesta se va numi cu numele lui Iacov”: aceștia sunt prozeliții dreptății; „și acesta va scrie cu mâna lui: Al Domnului”: aceștia sunt cei care se pocăiesc; „și cu numele lui Israel se va numi”: aceștia sunt cei ce se tem de Cer.",
+    "src": {
+     "slug": "talmud-minor-gerim",
+     "spec": {
+      "num": 4,
+      "v": 3
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 19 — comparație",
     "text": "Căci cu răbdare de duh a vorbit cu fiii lui Het, ca să-i dea un loc în care să-și îngroape mortul.",
     "src": {
@@ -2022,6 +2033,10 @@ window.CHAPTER_DATA = [
       "v": 6
      }
     }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Poarta cetății era locul unde se făceau judecățile, se încheiau afacerile și se dădeau mărturii, așa cum arată și actele de vânzare din Mesopotamia și din Ugarit. De aceea Efron vorbește „în auzul fiilor lui Het” care intrau pe poarta cetății, iar vânzarea capătă forță de lege (23:18)."
    }
   ],
   "refs": [
@@ -3185,6 +3200,10 @@ window.CHAPTER_DATA = [
       "v": 7
      }
     }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Prețul se plătește în argint cântărit, „curent la negustor”, după obiceiul vremii, când monedele bătute încă nu existau: acte de vânzare din Mesopotamia și din Ugarit vorbesc și ele de argint cântărit în sicli. Textul spune precis „patru sute de sicli”, ca să nu rămână nicio îndoială asupra dreptului de proprietate."
    }
   ]
  },
@@ -3397,6 +3416,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Și a fost confirmat câmpul lui Efron.» De vreme ce i-a dat banii, l-a dobândit cu bani, ca să fie dobândit de el și stăpânit în mâna lui, ca în „și va fi întărită în mâna ta împărăția lui Israel”, dar încă nu își făcuse stăpânire ca să fie cimitir; și de aceea a scris, după ce a fost îngropată Sara: „și a fost confirmat câmpul și peștera care este în el pentru Avraam, ca stăpânire de mormânt”, căci a făcut în el stăpânire pentru înmormântare; de aceea a scris „de la fiii lui Het”, căci aceasta a fost cu încuviințarea locuitorilor cetății, precum s-a explicat; dar ca să fie al lui spre cumpărare, a fost de la Efron."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Unii cercetători au legat tocmai insistența lui Efron să vândă „tot câmpul, cu peștera și cu copacii din el” de legile hitite, în care obligațiile feudale rămâneau în sarcina celui care stăpânea întregul domeniu. Părerea e discutată, dar arată că vânzarea din Geneza 23 respectă formele juridice ale vremii."
    }
   ]
  },

@@ -247,6 +247,10 @@ window.CHAPTER_DATA = [
       "v": 4
      }
     }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Ospitalitatea față de străini era o datorie sfântă în Orientul Apropiat, iar epopeile din Ugarit (Kirta, Aqhat) cunosc vizita zeilor care aduc făgăduința unui fiu. Geneza păstrează cadrul cunoscut al primirii în cort, dar îl înalță: oaspeții se dovedesc a fi trimișii lui Dumnezeu."
    }
   ]
  },
@@ -521,6 +525,17 @@ window.CHAPTER_DATA = [
     "text": "Îndată «și și-a ridicat ochii și a văzut, și iată trei oameni stăteau asupra lui». Cine sunt cei trei oameni? Aceștia sunt Avraham, Yițḥak și Iaakov, care stau asupra acestei trepte, și din ei se alăptează (temelia lumii) și se hrănește."
    },
    {
+    "author": "Tratatul Kallah Rabbati, cap. 7",
+    "text": "Cum își cinstește omul învățătorul? Când amândoi merg pe drum, îl pune la dreapta lui și nu îl pune la stânga lui. Dacă erau trei și înțeleptul între ei, înțeleptul este la mijloc, cel mai mare la dreapta lui și cel mai mic la stânga lui; căci așa am găsit la cei trei îngeri de slujire care au venit la Avraam, părintele nostru: Gabriel, Mihail și Rafael: Gabriel la mijloc, Mihail la dreapta lui și Rafael la stânga lui. Și când au venit la Avraam, a venit Șekhina și a stat deasupra capului lui. Le-a spus: Domnii mei, așteptați-mă până mă despart de Șekhina, căci ea este mai mare decât voi, căci s-a spus: „Și când a sfârșit de vorbit cu el, Dumnezeu s-a ridicat de deasupra lui Avraam”. Și când s-a despărțit Avraam de Șekhina, a venit și s-a prosternat înaintea lor, căci s-a spus: „El a văzut și a alergat în întâmpinarea lor”; i-a adus sub copac și le-a spus: Domnii mei, „Să se ia, te rog, puțină apă” etc., și după aceea: „Și eu voi lua o bucată de pâine și vă veți înviora inima”. Dar Lot ce le-a spus? „înnoptați și spălați-vă picioarele, apoi treziți-vă devreme” etc. Alții spun: Lot nu a spus aceasta decât cu înțelepciunea înțelepților: dacă i-ar vedea spălați pe față, pe mâini și pe picioare, s-ar găsi că îl ucid pe el și pe fiii lui; iar când vor vedea praf pe picioarele lor, vor spune: Nu au venit decât acum de pe drum.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 7,
+      "v": 2
+     }
+    }
+   },
+   {
     "author": "Josephus Flavius, Antichitățile Iudaice, Cartea I, cap. 11",
     "text": "Când Dumnezeu a hotărât astfel cu privire la sodomiți, Avraam, pe când ședea lângă stejarul din Mamre, la ușa cortului său, a văzut trei îngeri; și, socotindu-i străini, s-a sculat, i-a salutat și i-a rugat să primească o ospătare și să rămână la el; la care, după ce au consimțit, a poruncit să se facă îndată turte din făină; și, după ce a înjunghiat un vițel, l-a fript și l-a adus la ei, pe când ședeau sub stejar. Ei au făcut semn că mănâncă; și, pe lângă aceasta, l-au întrebat despre soția lui, Sara, unde era; iar când el a zis că este înăuntru, au spus că vor veni din nou mai târziu și o vor găsi făcută mamă. La care femeia a râs și a zis că este cu neputință să nască copii, de vreme ce are nouăzeci de ani, iar soțul ei o sută. Atunci ei nu s-au mai ascuns, ci au declarat că sunt îngeri ai lui Dumnezeu; și că unul dintre ei era trimis să-i înștiințeze despre copil, iar doi despre nimicirea Sodomei.",
     "src": {
@@ -716,6 +731,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Și a spus: Stăpâne, dacă am găsit bunăvoință etc.» Trebuie să știm de ce nu a voit pe toți trei împreună. Iar rabinii noștri, binecuvântată fie amintirea lor, au spus că este „pentru cel mare”, și aceasta este calea tâlcuirii, căci prin ce se știe că îi invită pe toți?<br><br>Însă motivul lui Avraam este că a simțit că cei doi aveau fețele îndreptate să intre la el, căci către el au venit – unul ca să-l vindece și unul ca să-i vestească –, și sunt trimiși la el, ceea ce nu este așa al treilea, Gabriel, care a venit să răstoarne Sodoma, nu avea legătură cu Avraam. De aceea i-a cerut favoarea să nu treacă pe lângă el și să intre la el împreună cu cei doi, și a fost de acord cu cuvintele lui."
+   },
+   {
+    "author": "Tratatul Soferim, cap. 4",
+    "text": "Toate numele spuse la Avraam sunt sfinte, afară de unul, care este profan, căci s-a spus: „Și a spus: Stăpâne, dacă am găsit bunăvoință în ochii Tăi”; și unii spun: sfânt. „Și când Dumnezeu m-a făcut să rătăcesc”: Rabbi Ḥanina, fratele lui Rabbi Yehoșua, spune: sfânt, căci dacă n-ar fi fost Dumnezeu, deja m-ar fi făcut să rătăcesc.",
+    "src": {
+     "slug": "talmud-minor-soferim",
+     "spec": {
+      "num": 4,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -1135,6 +1161,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Căci de asta ați trecut etc.» Explicația: ca să nu spună cum îi invită să mănânce după ce a recunoscut în ei că sunt slujitori ai Celui Preaînalt. Căci deși am explicat că intenționează în cuvintele lui spre cele spirituale, cu toate acestea sensul literal nu este dezrădăcinat, și și în mâncare sunt taine minunate, precum s-a spus: „Cel drept mănâncă până la săturarea sufletului său” – spre lăuntrul spiritual. De aceea le-a spus „căci” etc., explicația: căci este motiv pentru cuvintele mele „de aceea ați trecut”, explicația: așa, în rânduiala aceasta, în chip de oameni, care sunt și în hrana trupească. „Și au spus: Așa”, explicația: așa este după cuvintele lui, că de aceea au trecut pe lângă el în chip de oameni, și au fost de acord cu el să facă precum a vorbit. Încă i-au aluzionat să facă pe calea spusă în cuvintele lui, ca să le dea să guste cele spirituale potrivite lor, precum este aluzionat în cuvintele lui, precum am explicat."
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 7",
+    "text": "„Cum își cinstește omul” etc. S-a învățat: Mihail a venit să-i vestească Sarei; Gabriel, ca să răstoarne Sodoma; Rafael, ca să-l vindece pe Avraam. Și unii spun: Rafael, ca să-i vestească Sarei și să vindece, căci s-a spus: „și Dumnezeu l-a vindecat”; Mihail și Gabriel, ca să răstoarne Sodoma. Care este motivul primului învățător? „Și a prăpădit acele orașe.” Și care este motivul celor care spun „unii spun”? „Cei doi îngeri au ajuns la Sodoma.” Ce este deosebit la Avraam, că au spus: „Așa să faci”, și ce este deosebit la Lot, că au spus: „Nu, ci pe stradă vom înnopta”? Rabbi Elʿazar a spus: De aici, că se refuză celui mic și nu se refuză celui mare. Au învățat rabanii: În viitorul ce va veni, fiul lui David va fi la mijloc; Adam, Set și Metusala la dreapta lui; Avraam, Moise și Iacov la stânga. Care este motivul că l-a lăsat pe Isaac? Rava a spus: Isaac vine mai presus de ei, căci tot Israelul îi spune: „Căci tu ești tatăl nostru”. De acum, Esau i-ar fi o cinste? Învață a spune: „Căci tu ești tatăl nostru”: fiii sunt ca părintele lor: precum părintele nu a tăgăduit legământul, tot așa fiii care nu au tăgăduit legământul. Și de unde o avem? „te voi face sânge și sângele te va urmări; pentru că n-ai urât sângele”. Și oare Esau ura sângele? Și nu erau toate faptele lui numai în vărsare de sânge, căci s-a spus: „Asemănarea lui este ca a unui leu care dorește să sfâșie și ca a unui pui de leu care stă în ascunzișuri”? Și ce se înțelege? Poate să lovească? Nu: din aceea că este scris „dmynw” și nu este scris „dmywnw”, reiese de aici. S-a sfârșit capitolul „Întotdeauna să fii frumos”.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 7,
+      "v": 5
+     }
+    }
    }
   ]
  },
@@ -2050,6 +2087,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Ei i-au spus: Unde este etc.» Explicația: fiindcă vestea cu care a venit cel care vestește era să o vestească pe Sara, și au vrut să-i dezvăluie lui Avraam că au venit s-o vestească pe Sara și nu pe el, de aceea i-au spus „unde este Sara”, explicația: către ea am venit să vestim, iar Avraam a răspuns „iată, în cort”, ca să audă tot ce îi veți spune ei."
+   },
+   {
+    "author": "Tratatul Soferim, cap. 6",
+    "text": "Zece puncte sunt în Tora. „Să judece Domnul între mine și tine”: yod din „și tine” este punctat. „Ei i-au spus”: alef, yod, vav sunt punctate. „Și el nu a știut nici când ea s-a culcat și nici când s-a sculat”: vav din „s-a sculat” este punctat. „I-a căzut pe grumaz și l-a sărutat”: este punctat tot. „Și frații lui au plecat să pască turma tatălui lor”: „et” este punctat. „Pe care i-au numărat Moise și Aaron”: „Aaron” este punctat. „Sau pe drum îndepărtat”: he este punctat. „Am prăpădit până la Nofah, care”: reș este punctat. „Și câte o zecime”, „câte o zecime” de la Sărbătoare, în prima zi de sărbătoare: vav din a doua „zecime” este punctat. „Cele ascunse sunt ale Domnului, Dumnezeului nostru, dar cele dezvăluite sunt ale noastre și ale copiilor noștri, în veci”: ʿayin din „în veci” este punctat.",
+    "src": {
+     "slug": "talmud-minor-soferim",
+     "spec": {
+      "num": 6,
+      "v": 3
+     }
+    }
    }
   ]
  },
@@ -3695,17 +3743,6 @@ window.CHAPTER_DATA = [
     "text": "«Și Domnul a spus: Să ascund Eu oare etc.» Motivul spusei lui, acest limbaj „să ascund”, fiindcă Avraam a văzut că al treilea înger a venit pentru o chestiune în lume și nu i s-a făcut cunoscut lucrul, așa cum a știut în privința lucrărilor celor doi îngeri: unul a venit să vindece și unul să o vestească pe Sara. Și încă la plecarea lor de la el a văzut că doi dintre ei și-au îndreptat fața spre Sodoma, iar Avraam mergea cu ei să-i petreacă, iată, el vede că au de făcut un lucru și îi este ascunsă fapta. De aceea a spus Domnul „să ascund Eu de Avraam ce sunt pe cale să fac”, explicația: înainte de a o face. Iar rabinii noștri, binecuvântată fie amintirea lor (Tanhuma), au spus că era în inima lui Avraam despre apele potopului: de ce nu le-a atârnat Domnul în meritul celor drepți care erau printre ei. Și după cuvintele lor se poate spune „ceea ce fac”, explicația: ceea ce sunt obișnuit să fac, căci nu nimicesc un neam dacă nu sunt în el drepți.<br><br>Încă va voi spusa „să ascund” etc., fiindcă Avraam i-a salvat pe sodomiți cu sabia și arcul lui împreună cu Lot, precum s-a spus în secțiunea dinainte, îl privește lucrul să știe ce va face cu ei, și să nu fie lucrul ascuns de el, limbaj de acoperire, căci el are în gând că poporul pe care l-a salvat este încă în siguranță, iar Domnul îl nimicește fără știrea lui, de aceea a spus „să ascund” etc., și nu a fost nevoie să explice acest motiv, căci este un lucru cunoscut."
    },
    {
-    "author": "Talmudul Babilonian, Ioma, cap. 3",
-    "text": "I-a spus Ravina unuia dintre rabini, care rânduia aggada înaintea lui: De unde este acest lucru pe care l-au spus rabinii: „pomenirea celui drept, spre binecuvântare”? I-a spus: Căci este scris: „Pomenirea celui drept este spre binecuvântare.” Din Tora, de unde știm? Căci este scris: „Și Domnul a spus: Să ascund Eu oare de Avraam ce sunt pe cale să fac?”, și este scris: „Iar Avraam va fi negreșit un neam mare și puternic.”",
-    "src": {
-     "slug": "talmud-yoma",
-     "spec": {
-      "num": 3,
-      "v": 7
-     }
-    }
-   },
-   {
     "author": "Zohar, Pekudei 51:66",
     "text": "Și atunci acest palat se cheamă «Va-Domnul», când este spre bine, precum spui (Exodul 13:21): «și Domnul mergea înaintea lor ziua»; (Geneza 18:17): «și Domnul a zis: Să ascund Eu de Avraham?» Și când se unește Yițḥak cu palatul casei de judecată, care se cheamă «Merit», atunci totul se cheamă «Va-Domnul», ca să-i pedepsească pe cei răi, precum spui (Geneza 19:24): «și Domnul a făcut să plouă peste Sedom» etc. Și totul este într-o singură taină, cum se cuvine."
    }
@@ -3912,6 +3949,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Iar Avraam va fi negreșit un neam mare etc.» Explicația: și trebuie să-i fac cunoscută măcar măreția celor drepți care cu siguranță se salvează pe ei și pe fiii cetății lor, contrariul a ceea ce a socotit, și precum am scris aproape, și aceasta este spusa „va fi un neam mare” „și în el vor fi binecuvântate toate neamurile pământului” – că aceia vor apăra în favoarea lor, iar cuvântul „în el” se întoarce la „neam mare”.<br><br>Iar dacă vei spune: ce folos aduce această făgăduință neamului care vine după el?, de aceea a spus „căci l-am cunoscut că va porunci” etc., explicația: Domnul l-a cunoscut pe Avraam că se va strădui cu fiii lui să-i facă bine, de aceea i-o face cunoscută ca să poruncească fiilor săi și să le facă cunoscute faptele Lui, binecuvântat fie, și prin aceasta „să păstreze calea Domnului”.<br><br>Iar spusa „pentru ca Domnul să aducă asupra lui Avraam”, aici a făcut cunoscut că esența iubirii nu este pentru sămânța lui Avraam, ci iubirea de Avraam este esența, iar toate gândurile Sfântului, binecuvântat fie, sunt să aducă asupra lui Avraam ceea ce a vorbit ca să-i facă bine lui și seminției lui până în veac, căci dacă nu vor păstra calea Domnului nu se va găsi Cel care face bine ca să împlinească făgăduințele către prietenul Său, ca să facă bine fiilor lui."
+   },
+   {
+    "author": "Talmudul Babilonian, Ioma, cap. 3",
+    "text": "I-a spus Ravina unuia dintre rabini, care rânduia aggada înaintea lui: De unde este acest lucru pe care l-au spus rabinii: „pomenirea celui drept, spre binecuvântare”?⁠‌‌​‌‌​‌​​‌​‌‌​‌​​​‌‌​‌​​ I-a spus: Căci este scris: „Pomenirea celui drept este spre binecuvântare.” Din Tora, de unde știm? Căci este scris: „Și Domnul a spus: Să ascund Eu oare de Avraam ce sunt pe cale să fac?”, și este scris: „Iar Avraam va fi negreșit un neam mare și puternic.”",
+    "src": {
+     "slug": "talmud-yoma",
+     "spec": {
+      "num": 3,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -4200,6 +4248,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 16,
       "v": 5
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 16 — comparație",
+    "text": "Și tot așa va face Dumnezeu judecată asupra locurilor unde au făcut după necurăția sodomiților, ca judecata Sodomei.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 16,
+      "v": 6
      }
     }
    }
@@ -4636,6 +4695,17 @@ window.CHAPTER_DATA = [
     "text": "«Voi coborî și voi vedea etc.» Trebuie să știm spusa limbajului coborârii, și încă de ce trebuie Domnul să coboare, iar oare toată lumea nu este înaintea Lui ca un bob de muștar, și încă spusa „dacă după strigătul lor” etc., oare Stăpânul, binecuvântat fie, se îndoiește în privința cunoașterii? Iar Rashi, binecuvântată fie amintirea lui, a explicat că vine să învețe că tribunalul de jos să nu hotărască judecată decât prin vedere. Și este greu după cuvintele lui: de ce nu a fost de ajuns pentru aceasta ce a spus Scriptura în secțiunea generației dezbinării, căci este scris: „Și Domnul a coborât” etc., iar am aflat la Rashi însuși că a explicat așa acolo?<br><br>Însă intenția este că Domnul a făcut cunoscută rânduiala în care Se poartă cu creaturile din partea bunătății și îndurării. Iată, linia dreptății dă că totul este după cel care face de rușine și cel care este făcut de rușine, și când omul va încălca una din toate poruncile Domnului și va fi răzvrătit împotriva gurii Celui Preaînalt, față de măreția Dumnezeului cel mare, va fi vinovat să piară el și toți cei din jurul lui, căci pe Regele, Domnul oștirilor, L-a mâniat, și orice mică răzvrătire este vinovat pentru ea. Și va socoti omul că Stăpânul va judeca lumea Sa prin această judecată, iar aceasta este judecată dreaptă, și mereu, dacă va veni Domnul la judecată în calea celui care pledează și celui împotriva căruia se pledează, să fie judecat împreună cu creaturile, este cu putință să nu fie vinovați, iar și generația potopului este cu putință să nu fi fost judecată la judecata morții. De aceea a spus Domnul aici, în facerea cunoscută a căilor Lui către Avraam, „voi coborî” – explicația: nu va judeca după măreția Lui, ci în comparație cu creaturile, pe calea spusei profetului: „să ne judecăm împreună”, în comparație cu creaturile cele mici, și în raport cu aceasta va judeca și va vedea dacă este „ca strigătul care a ajuns la Mine”, explicația: căci cel care strigă și cere judecată de la Domnul cere judecata după măsura măreției Creatorului. De aceea a spus Domnul: și dacă după ce voi aprecia judecata în raport cu înlăturarea măreției Mele, încă măsura să fie cererea măsurii judecății ca să-i găsească vinovați – distrugere, iar dacă nu – voi ști dacă sunt vrednici să fie judecați pe această cale sau nu. Și de acum nu este explicația „voi coborî” decât o treaptă în judecată, iar mereu din locul Lui privește ca să cunoască și să cerceteze inimile fiilor oamenilor.<br><br>Încă va voi că deși strigătul lor a venit, cu toate acestea a voit să-i cerceteze dacă în timpul judecății nu s-au întors și încă se țin de răutatea lor, și de aceea a trimis îngerii în chip de oameni cu înfățișare și chip frumos ca să-i încerce, și aceasta este spusa „voi coborî” – explicația: acum, „și voi vedea: dacă după strigătul lor au făcut încă distrugere, iar dacă nu” etc., iar ei sunt cei răi care au făcut după strigătul lor, căci au vrut să facă încă o faptă nepotrivită, și de aceea îndată și imediat au hotărât îngerii și au spus lui Lot: „Căci suntem pe cale să distrugem” etc., dar înainte de aceasta nu au spus nimic. Iată, înveți că dacă nu ar fi căutat să-și întindă mâna asupra îngerilor, este cu putință că Domnul le-ar fi făcut răgaz de timp prin măsura îndelungii răbdări. Și poate că Domnul S-a atins de această judecată din judecata soției răzvrătite pe care au spus-o în Ketubbot, că chiar după ce au trecut patru Sabaturi de vestire, în timpul încheierii judecății i se face cunoscut poate se va întoarce, și de aceea a trimis Domnul îngerii în chip de oameni cu gândul să nu distrugă până ce vor vedea că ei sunt încă în răutatea lor. Și de aceea a alăturat versetul „Oamenii s-au îndreptat de acolo” etc. de „voi coborî”, și înțelege."
    },
    {
+    "author": "Zohar Chadash, Bereshit 520",
+    "text": "A zis Ribi Berekhyah: tot așa am văzut în câte locuri, că a dat Sfântul, binecuvântat fie El, o avertizare omului să se ferească de El, deși nu avea trebuință de ea, și totul este descoperit înaintea Lui; dar ca să dea o avertizare omului, a fost nevoie să facă astfel. Vino și vezi, că este scris (Bereșit 18:21): «voi coborî, Te rog, și voi vedea: oare după strigătul ei care vine la Mine au făcut de tot». Și oare nu era descoperit înaintea Lui, că are trebuință să știe și să cerceteze? Ci a zis Ribi Berekhyah: de aici o avertizare Beit Din, că nu au să se sprijine pe gândul lor, ci au să știe și să cerceteze și să iscodească lucrul frumos. Aceasta este ceea ce este scris (Devarim 13:15): «și vei iscodi și vei cerceta și vei întreba bine», și nu ai voie să te sprijini pe gândul tău.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 1,
+      "v": 520
+     }
+    }
+   },
+   {
     "author": "Ioan Gură de Aur, Omilii la Facere",
     "text": "Apoi, ca să învețe tot neamul omenesc că, deși păcatele lor sunt foarte mari și mărturisite ca atare, nu rostește sentința până nu e vădită dovada, spune: „Cobor să văd dacă faptele lor corespund strigătului care a ajuns la Mine, ca să știu dacă este adevărat sau nu.” Ce se înțelege prin chibzuința acestei expresii? „Cobor să văd dacă faptele lor corespund strigătului care a ajuns la Mine, ca să știu dacă este adevărat sau nu.” Ce se înțelege prin blândețea acestei expresii? „Cobor să văd.” Vreau să zic: Dumnezeul tuturor se mută oare dintr-un loc în altul? Nicidecum! Nu aceasta se înțelege; ci, cum am spus adesea, vrea să ne învețe prin caracterul concret al expresiei că trebuie să punem precizie și că păcătoșii nu sunt osândiți după zvonuri și nici sentința nu se rostește fără dovadă."
    },
@@ -5015,6 +5085,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 12,
       "v": 3
+     }
+    }
+   },
+   {
+    "author": "4 Ezdra 7:84",
+    "text": "Și am răspuns și am zis: Cum se face că acum găsim că întâi Avraam s-a rugat pentru poporul Sodomei, și Moise pentru părinții noștri care au păcătuit în pustie; și Iosua după el pentru Israel în zilele lui Acan; și Samuel în zilele lui Saul, și David pentru ciumă, și Solomon pentru cei care aveau să se închine în sfântul loc; și Ilie pentru cei ce au primit ploaia și pentru cel mort, ca să trăiască; și Ezechia pentru popor în zilele lui Senaherib, și [alții] mulți pentru mulți? Dacă, deci, acum, când stricăciunea a crescut și nedreptatea s-a înmulțit, cei drepți s-au rugat pentru cei nelegiuiți, de ce nu va fi așa și atunci?",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 7,
+      "v": 84
      }
     }
    }
@@ -5461,6 +5542,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Judecătorul întregului pământ.» El este judecător și stăpân al întregului pământ; oare nu va face judecată? — în chip de mirare."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Ideea de rege-judecător care apără dreptatea este veche în Mesopotamia: prologul Codului lui Hammurabi spune că regele a fost rânduit „ca să nu cadă cel slab pradă celui puternic”. Cuvintele lui Avraam, „Judecătorul întregului pământ nu va face dreptate?”, ridică această idee la Dumnezeu însuși."
    }
   ]
  },

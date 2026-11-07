@@ -848,6 +848,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Tractate la Evanghelia după Ioan",
     "text": "După potop, ca și cum s-ar fi silit să se întărească împotriva lui Dumnezeu, ca și cum ar fi putut fi ceva înalt pentru Dumnezeu sau ceva sigur pentru mândrie, niște oameni mândri au zidit un turn, chipurile ca să nu piară de potop, dacă ar mai fi venit unul. Căci auziseră și își aminteau că toată nelegiuirea fusese nimicită prin potop. Nu voiau să se ferească de nelegiuire. Au căutat înălțimea unui turn împotriva potopului; au zidit un turn înalt. Dumnezeu a văzut mândria lor și a trimis asupra lor această tulburare, ca să vorbească, dar să nu se înțeleagă unii pe alții, și limbile s-au făcut deosebite din pricina mândriei."
+   },
+   {
+    "author": "3 Baruh 2:6",
+    "text": "Și mi-a zis: Aceștia sunt cei care au zidit turnul certei împotriva lui Dumnezeu și Domnul i-a izgonit.",
+    "src": {
+     "slug": "3-baruh",
+     "spec": {
+      "num": 2,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -1034,6 +1045,17 @@ window.CHAPTER_DATA = [
     "text": "I-a zis Rabbi Yose: dacă e așa, iată e scris după aceea: «și a coborât Domnul să vadă cetatea și turnul pe care le-au zidit fiii omului». «Fiii omului» e scris, și nu e scris «fiii lui Noaḥ». I-a zis: pentru că Adam (care a păcătuit; altă versiune: a păcătuit) înaintea Stăpânului său — mai bine i-ar fi fost să nu fi fost creat, și să nu se scrie despre el versetul acesta."
    },
    {
+    "author": "Talmudul Babilonian, Sanhedrin, cap. 4",
+    "text": "A spus Rabbi Yoḥanan: Oriunde minii s-au dedat la erezie, răspunsul lor este alături de ei: „Să facem om în imaginea noastră”, și spune: „Și a creat Dumnezeu pe om în imaginea Sa”; „Hai să coborâm și să le încurcăm acolo limba”, „Și Domnul a coborât să vadă orașul și turnul”; „căci acolo i Se dezvăluise Dumnezeu”, „lui Dumnezeu, care mi-a răspuns în ziua restriștii mele”.",
+    "src": {
+     "slug": "talmud-sanhedrin",
+     "spec": {
+      "num": 4,
+      "v": 14
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 10 — comparație",
     "text": "Și Domnul a coborât, și am coborât noi cu El, să vedem cetatea și turnul pe care le zidiseră fiii oamenilor.",
     "src": {
@@ -1041,6 +1063,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 10,
       "v": 23
+     }
+    }
+   },
+   {
+    "author": "3 Baruh 3:3",
+    "text": "Și am întrebat pe înger: Te rog, Doamne, spune-mi cine sunt aceștia. Și a zis: Aceștia sunt cei care au dat sfat să se zidească turnul; căci aceștia pe care îi vezi au izgonit mulțimi de bărbați și femei să facă cărămizi; între care o femeie care făcea cărămizi nu a avut îngăduință să fie lăsată liberă în ceasul nașterii, ci a născut pe când făcea cărămizi și și-a purtat copilul în șorț și a continuat să facă cărămizi.",
+    "src": {
+     "slug": "3-baruh",
+     "spec": {
+      "num": 3,
+      "v": 3
      }
     }
    }
@@ -1281,6 +1314,28 @@ window.CHAPTER_DATA = [
       "v": 12
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 12 — comparație",
+    "text": "Și regele a spus prinților și înțelepților, ați auzit ceea ce Avram fiul lui Terah a făcut tatălui său? Astfel i-a făcut el lui, și eu am ordonat să fie adus înaintea mea, și astfel el a spus; inima lui nu l-a rătăcit, și el nici nu s-a tulburat în prezența mea, și iată acum el este arestat în închisoare.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 12,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 12 — comparație",
+    "text": "Și văzând că mânia regelui era atât de mult aprinsă, Terah a spus regelui, domnul și regele meu, tu ai auzit adevărul și ceea ce înțelepții au spus este corect. Iar regele a spus, cum poți face tu acest lucru, să încalci ordinele mele și să îmi dai un copil pe care tu nu l-ai zămislit, și să iei valoare pentru el?",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 12,
+      "v": 13
+     }
+    }
    }
   ]
  },
@@ -1463,23 +1518,23 @@ window.CHAPTER_DATA = [
     "text": "«Și să încurcăm.» Ca „ve-nifla”, adică să fie încurcată de la sine prin coborârea noastră.<br><br>«Astfel încât să nu înțeleagă niciunul limba semenului său.» Căci fiecare a uitat toate limbile în afară de una, și ce a știut acesta, nu a știut acela; dar între toți ei au știut șaptezeci de limbi; căci nu mi se pare să spun, după sensul simplu, că acum le-au fost create limbile."
    },
    {
-    "author": "Talmudul Babilonian, Sanhedrin, cap. 4",
-    "text": "A spus Rabbi Yoḥanan: Oriunde minii s-au dedat la erezie, răspunsul lor este alături de ei: „Să facem om în imaginea noastră”, și spune: „Și a creat Dumnezeu pe om în imaginea Sa”; „Hai să coborâm și să le încurcăm acolo limba”, „Și Domnul a coborât să vadă orașul și turnul”; „căci acolo i Se dezvăluise Dumnezeu”, „lui Dumnezeu, care mi-a răspuns în ziua restriștii mele”.",
-    "src": {
-     "slug": "talmud-sanhedrin",
-     "spec": {
-      "num": 4,
-      "v": 14
-     }
-    }
-   },
-   {
     "author": "Fericitul Augustin, Despre cetatea lui Dumnezeu",
     "text": "Se poate înțelege aici o aluzie la Treime, dacă socotim că Tatăl a zis Fiului și Duhului Sfânt: „Veniți, să coborâm și să încurcăm limba lor.” Presupunerea este întemeiată. Dar, dacă e așa, trebuie să înlăturăm ipoteza că s-ar fi vorbit despre îngeri. Și, desigur, mai potrivit este ca îngerii să vină la Dumnezeu nechemați, mișcați de har, adică de gândurile care îi fac cucernic supuși adevărului neschimbat, ca legii veșnice ce cârmuiește curtea lor cerească. Îngerii nu sunt ei înșiși măsura adevărului, ci, atârnând de adevărul creator, se mișcă nechemați spre el ca spre un izvor de viață, din care trebuie să bea ceea ce nu au de la ei înșiși. Iar mișcarea lor este fără schimbare, căci vin mereu, ca să nu mai plece niciodată."
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "Spune: să încurcăm acolo limba lor, ca să nu mai audă fiecare glasul aproapelui său. Pe bună dreptate este pedepsită intenția rea, chiar și acolo unde nu izbutește efectul; căci, fiindcă stăpânirea poruncii stă în limbă, mândria este osândită acolo: cel care n-a vrut să înțeleagă ca să asculte porunca lui Dumnezeu nu a fost înțeles de omul care dădea porunci."
+   },
+   {
+    "author": "3 Baruh 3:4",
+    "text": "Și Domnul li S-a arătat și le-a încurcat vorbirea, după ce zidiseră turnul până la înălțimea de patru sute șaizeci și trei de coți.",
+    "src": {
+     "slug": "3-baruh",
+     "spec": {
+      "num": 3,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -1630,7 +1685,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
-    "text": "Motivul unei confuzii lingvistice care oprește un proiect de construcție uriaș apare și în alte tradiții mesopotamiene (ex. „Enmerkar și stăpânul Aratta”), unde zeul Enki încurcă limbile omenirii — o paralelă remarcată des de asirologi, deși cu motivații diferite de cele din Geneza."
+    "text": "Motivul unei confuzii lingvistice care oprește un proiect de construcție uriaș apare și în alte tradiții mesopotamiene (ex. „Enmerkar și stăpânul Aratta”), unde zeul Enki încurcă limbile omenirii — o paralelă remarcată des de specialiști în civilizația asiriană, deși cu motivații diferite de cele din Geneza."
    },
    {
     "author": "Cartea Jubileelor 10 — comparație",
@@ -1908,6 +1963,28 @@ window.CHAPTER_DATA = [
       "v": 3
      }
     }
+   },
+   {
+    "author": "Cartea Înțelepciunii lui Solomon 10:5",
+    "text": "Aceasta și pe neamurile amestecate în unire de răutate, cunoscându-l pe cel drept, l-a păstrat neîntinat înaintea lui Dumnezeu și l-a întărit împotriva milostivirii de fața copilului.",
+    "src": {
+     "slug": "intelepciunea-lui-solomon",
+     "spec": {
+      "num": 10,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 16 — comparație",
+    "text": "Dar când turnul a căzut și limbile oamenilor au fost schimbate în felurite limbi, atunci toată lumea oamenilor s-a umplut de împărății împărțite; și atunci a fost a zecea generație de oameni muritori de la potop, venită peste cei de odinioară. Atunci a domnit Cronos, Titan și Iapet, cei mai nobili copii ai Gheei (pământul) și ai lui Uranos (cerul), pe care oamenii i-au numit Pământ și Cer, pentru că erau cei dintâi dintre oamenii muritori. Aceștia au avut fiecare ca parte a lui o a treia parte din pământ și fiecare își ținea și își stăpânea partea lui fără conflict; căci li se pusese un jurământ de către tatăl lor și o împărțire dreaptă. Dar când a venit vremea plinirii și tatăl lor era bătrân, atunci a murit: atunci fiii lui au călcat cumplit jurământul și au stârnit ceartă unii împotriva altora, care dintre ei să aibă cinste regală și să stăpânească peste tot neamul omenesc; și când Cronos, când Titan se luptau cu ceilalți. Dar pe ei i-au adus la înțelegere Rhea și Gheea și Afrodita cea iubitoare de ghirlande, cu Demeter și Hestia și Dione cea cu plete frumoase: căci au adunat laolaltă pe toți regii, rudele frațiilor lor și cele de același sânge și altele care erau de același sânge și neam cu ei; și au judecat ca Cronos să stăpânească drept rege peste toți, pentru că era cel mai bătrân și cel mai nobil la vedere. Atunci Titan i-a pus lui Cronos un mare jurământ, că nu va crește copii de parte bărbătească care să aibă domnia când bătrânețea și sorții vor veni peste Cronos: dar de câte ori Rhea năștea un copil, Titanii stăteau lângă ea și sfâșiau pe toți copiii de parte bărbătească, dar fetele le lăsau vii, cu mama lor, să fie crescute. Dar când doamna Rhea a născut a treia oară, a născut întâi pe Hera și, când au văzut cu ochii că pruncul era fată, Titanii, acei oameni aprigi, au plecat deoparte: și atunci Rhea a născut un copil de parte bărbătească; pe el l-a trimis iute să fie crescut deoparte și în ascuns, în Frigia, legând prin jurământ trei bărbați, cretani; de aceea l-au numit Zeus, pentru că a fost trimis acolo. Și în același fel a trimis în ascuns și pe Poseidon. Și a treia oară Rhea, acea zeiță frumoasă, a născut pe Pluton, în drumul ei pe lângă Dodona, de unde curg căile de apă ale râului Europos și merg să se amestece cu Peneiul, și oamenii numesc râul stigian. Dar când Titanii au auzit că sunt copii de parte bărbătească ținuți în ascuns, pe care Cronos îi născuse din Rhea, soția lui, atunci Titan și-a adunat cei șaizeci de fii și l-a ținut în robie pe Cronos și pe Rhea, soția lui, i-a ascuns în pământ și i-a ținut în lanțuri și sub pază. Aceasta au auzit-o fiii marelui Cronos și au stârnit mare război și luptă împotriva lui; și acesta a fost începutul războiului pentru toți muritorii.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 16,
+      "v": 6
+     }
+    }
    }
   ]
  },
@@ -2115,6 +2192,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Despre cetatea lui Dumnezeu",
     "text": "Așadar, când căutăm cetatea lui Dumnezeu în aceste șaptezeci și două de neamuri, nu putem afirma că, atâta vreme cât aveau o singură limbă, adică un singur grai, neamul omenesc se abătuse de la cinstirea adevăratului Dumnezeu. Nici nu putem trage concluzia că adevărata evlavie a rămas numai în generațiile care coboară din Șem prin Arpacșad și ajung până la Avraam. Ci din vremea când au zidit cu mândrie un turn până la cer, semn al înălțării lipsite de Dumnezeu, cetatea sau obștea celor răi devine vădită. Dacă ea fusese numai ascunsă mai înainte, sau nu exista, dacă amândouă cetățile au rămas după potop — cea a evlavioșilor în cei doi fii ai lui Noe care au fost binecuvântați și în urmașii lor, iar cea a nelegiuiților în fiul blestemat și în descendenții lui, din care s-a ridicat acel puternic vânător împotriva Domnului — nu este ușor de hotărât."
+   },
+   {
+    "author": "Cartea Dreptului 10 — comparație",
+    "text": "Acestea sunt familiile copiilor lui Iafet conform orașelor lor, când ei au fost împrăștiați pe pământ după turn.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 10,
+      "v": 18
+     }
+    }
    }
   ]
  },
@@ -2406,7 +2494,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
-    "text": "Absența lui „Cainan” din genealogia masoretică (Arpahșad → direct Șelah) contrastează cu Septuaginta și Luca 3:36, care includ un „Cainan” suplimentar — o diferență textuală reală, discutată intens de cercetători ai textului biblic."
+    "text": "Absența lui „Cainan” din genealogia din Textul Masoretic (Arpahșad → direct Șelah) contrastează cu Septuaginta și Luca 3:36, care includ un „Cainan” suplimentar — o diferență textuală reală, discutată intens de cercetători ai textului biblic."
    },
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
@@ -2568,6 +2656,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Targum Ionatan",
     "text": "Și a trăit Arpacșad, după ce l-a născut pe Șelah, patru sute trei ani și a născut fii și fiice."
+   },
+   {
+    "author": "Cartea Jubileelor 8 — comparație",
+    "text": "În al douăzeci și nouălea jubileu, în săptămâna întâi, la începutul ei, Arpacșad și-a luat soție, și numele ei era Rasueja, fiica lui Susan, fiica lui Elam, și ea i-a născut un fiu în anul al treilea al săptămânii acesteia, și i-a pus numele Kainam.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 8,
+      "v": 1
+     }
+    }
    }
   ],
   "refs": [
@@ -5195,6 +5294,50 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 11,
       "v": 7
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 11 — comparație",
+    "text": "Și în al treizeci și cincilea jubileu, în săptămâna a treia, în anul întâi al ei, Reu și-a luat soție, și numele ei era Ora, fiica lui Ur, fiul lui Kesed, și ea i-a născut un fiu, și i-a pus numele Seroh, în anul al șaptelea al săptămânii acesteia, în jubileul acesta.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 11,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 11 — comparație",
+    "text": "Și în al treizeci și șaptelea jubileu, în săptămâna a șasea, în anul întâi al ei, și-a luat soție, și numele ei era Iiasca, fiica lui Nestag al caldeilor.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 11,
+      "v": 9
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 11 — comparație",
+    "text": "Și în anul al șaptelea al săptămânii acesteia ea i-a născut un fiu, și i-a pus numele Avram, după numele tatălui mamei sale; căci acesta murise înainte ca fiica lui să fi zămislit un fiu.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 11,
+      "v": 15
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 12 — comparație",
+    "text": "Și Haran, fratele său, și-a luat soție în anul al treilea al săptămânii a treia, și ea i-a născut un fiu în anul al șaptelea al săptămânii acesteia, și i-a pus numele Lot.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 12,
+      "v": 10
      }
     }
    }

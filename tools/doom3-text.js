@@ -2,7 +2,7 @@
 // Rândurile preluate din Bibliotecă (Tanakh, Talmud, Zohar, Jubilee, Josephus) nu intră aici: au propria verificare la Bibliotecă.
 // Folosit de doom3-check.js (care scrie data/doom3-state.json) și de audit-full.js (care dă EROARE dacă verificarea lipsește, e veche sau are cuvinte netriate).
 const fs = require('fs'), crypto = require('crypto');
-const OWN = /(Beda|Ieronim|Augustin|Ambrozie|Gură de Aur|Origen|Efrem|Clement|Chiril|Filon|Calvin|Wesley|Jamieson|Clarke|Gill|Henry|Irineu|Ioan Cassian|Vasile|Grigorie|Hipolit|Isidor|Metodiu|Tertulian|Teodoret|Eusebiu din Cezareea, |Iustin|Keil)/;
+const OWN = /(Beda|Ieronim|Augustin|Ambrozie|Gură de Aur|Origen|Efrem|Clement|Chiril|Filon|Calvin|Wesley|Jamieson|Clarke|Gill|Henry|Irineu|Ioan Cassian|Vasile|Grigorie|Hipolit|Isidor|Metodiu|Tertulian|Teodoret|Eusebiu din Cezareea, |Iustin|Keil|Context cultural|Fericitul|Sfântul|Sfinții|Philon|Filon|Ipolit|Chiril|Teodoret)/;
 function parts(N) {
   const D = new Function('window', fs.readFileSync('public/genesis-' + N + '.js', 'utf8') + ';return window;')({}).CHAPTER_DATA;
   const txt = [];

@@ -466,6 +466,28 @@ window.CHAPTER_DATA = [
       "v": 4
      }
     }
+   },
+   {
+    "author": "Faptele lui Toma 23:5",
+    "text": "«Eu sunt cel ce am intrat prin gard în rai și am vorbit cu Eva cele ce mi-a poruncit tatăl meu să-i vorbesc.»",
+    "src": {
+     "slug": "faptele-toma",
+     "spec": {
+      "num": 23,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Protoevanghelia lui Iacov 13:6",
+    "text": "Căci precum, în ceasul slăvirii lui Adam, a venit șarpele și a găsit-o pe Eva singură, și a înșelat-o, așa s-a întâmplat și mie.",
+    "src": {
+     "slug": "protoevanghelia-iacov",
+     "spec": {
+      "num": 13,
+      "v": "6"
+     }
+    }
    }
   ],
   "textCompare": [
@@ -904,6 +926,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Philon din Alexandria, Întrebări și răspunsuri la Facere I.35",
     "text": "Explică de ce Eva adaugă „nici să nu-l atingeți”: gustul și orice alt simț depind de atingere — așa că, cine adaugă atingerea la interdicție, îi condamnă și mai aspru pe cei care, nu doar au atins, ci au și mâncat, o încălcare cu atât mai mare."
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și din pricina aceasta este scrisă porunca pe tablele cerești cu privire la cea care naște: Dacă naște un băiat, să rămână în necurăția ei șapte zile, după săptămâna întâi de zile, și treizeci și trei de zile să rămână în sângele curățirii ei, și să nu se atingă de nici un lucru sfințit, nici să intre în sanctuar, până nu se vor împlini zilele acestea care sunt poruncite la un copil de parte bărbătească.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 10
+     }
+    }
    }
   ],
   "textCompare": [
@@ -1321,6 +1354,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 18,
       "v": 4
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Moise 17 — comparație",
+    "text": "Și am zis: Da, mâncăm din toate, afară de una singură, care este în mijlocul raiului, despre care Dumnezeu ne-a poruncit să nu mâncăm din ea: căci, ne-a zis, în ziua în care veți mânca din ea, veți muri de moarte.",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 17,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Moise 18 — comparație",
+    "text": "Și îmi zice: Nu te teme, căci îndată ce vei mânca din el, veți fi și voi ca Dumnezeu, întrucât veți cunoaște binele și răul.",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 18,
+      "v": 3
      }
     }
    }
@@ -1780,6 +1835,50 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 3,
       "v": 20
+     }
+    }
+   },
+   {
+    "author": "4 Ezdra 4:30",
+    "text": "Căci grăuntele de sămânță rea a fost semănat în inima lui Adam de la început, și câtă nelegiuire a crescut până în vremea aceasta? Și câtă va mai aduce până va veni vremea treierișului?",
+    "src": {
+     "slug": "4-ezdra",
+     "spec": {
+      "num": 4,
+      "v": 30
+     }
+    }
+   },
+   {
+    "author": "2 Baruh 23:4",
+    "text": "Pentru că, atunci când Adam a păcătuit și moartea a fost hotărâtă împotriva celor care aveau să se nască, atunci a fost numărată mulțimea celor care aveau să se nască și pentru acel număr a fost pregătit un loc unde să locuiască cei vii și să fie păziți cei morți.",
+    "src": {
+     "slug": "2-baruh",
+     "spec": {
+      "num": 23,
+      "v": 4
+     }
+    }
+   },
+   {
+    "author": "3 Baruh 4:15",
+    "text": "a zis: Doamne, Te rog să-mi descoperi ce să fac în privința acestei plante. Dar Dumnezeu și-a trimis îngerul Sarasael și i-a zis: Scoală-te, Noe, și sădește lăstarul viței, căci așa zice Domnul: Amărăciunea ei se va schimba în dulceață și blestemul ei se va face binecuvântare și ceea ce se produce din ea va deveni sângele lui Dumnezeu; și precum prin ea neamul omenesc a primit osândă, tot așa iarăși prin Isus Hristos Emanuel vor primi în El chemarea de sus și intrarea în rai.]",
+    "src": {
+     "slug": "3-baruh",
+     "spec": {
+      "num": 4,
+      "v": 15
+     }
+    }
+   },
+   {
+    "author": "Diagramele ofite 6:5",
+    "text": "Ei declară apoi că, mâncând astfel, au ajuns la cunoașterea acelei puteri care este mai presus de toate și s-au depărtat de cei care îi făcuseră. Când Prunikos a văzut că puterile erau astfel păcălite de propria lor făptură, s-a bucurat foarte mult și a strigat iarăși că, de vreme ce tatăl este nestricăcios, el (Ialdabaot), care mai înainte se numea tată, este mincinos; și că, în timp ce Antropos și prima femeie (Duhul) existau mai înainte, aceasta (Eva) a păcătuit săvârșind adulter.",
+    "src": {
+     "slug": "diagrame-ofite",
+     "spec": {
+      "num": 6,
+      "v": 5
      }
     }
    }
@@ -2376,6 +2475,17 @@ window.CHAPTER_DATA = [
       "v": 1
      }
     }
+   },
+   {
+    "author": "Apocalipsa lui Moise 22 — comparație",
+    "text": "Așa zice Domnul: Veniți cu Mine în Rai și auziți judecata cu care îl voi judeca pe Adam.",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 22,
+      "v": 2
+     }
+    }
    }
   ],
   "textCompare": [
@@ -2786,6 +2896,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Ți-am auzit sunetul în grădină și m-am temut, pentru că sunt gol» etc. Se temea ca nu cumva să-l întrebe: de ce te-ai ascuns, ca să fugi?, și să simtă furtul lui; de aceea i-a spus mai înainte motivul."
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 8",
+    "text": "Am învățat: În fiecare zi un vestitor iese și spune: Fiica lui cutare pentru cutare; soția lui cutare pentru cutare; banii lui cutare pentru cutare; și unii spun: și casa lui cutare pentru cutare. De unde sunt aceste cuvinte? Căci este scris: „Numai o suflare sunt fiii oamenilor, o minciună sunt fiii bărbaților, în cântar ei se ridică”. „O suflare sunt fiii oamenilor”: că spune: Fiica lui cutare pentru cutare; „o minciună sunt fiii bărbaților”: că spune: Soția lui cutare pentru cutare; „în cântar ei se ridică”: că spune: Banii lui cutare pentru cutare. Iar celălalt? Casa este totuna cu banii. Însuși lucrul: „O suflare sunt fiii oamenilor, o minciună sunt fiii bărbaților”: ce este deosebit, „suflare” la „om” și „minciună” la „bărbat”? A spus David: „Eu am spus în graba mea: Tot omul este mincinos”, pentru că „om” este scris întâi, căci este scris: „Ți-am auzit sunetul în grădină și m-am temut pentru că sunt gol”; de aceea minte. Iată, despre lume, se știe despre Noe că nu minte, căci este scris: „Noe era un om drept, integru”; cu toate acestea, nu a folosit: după rădăcina veche merg.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 8,
+      "v": 12
+     }
+    }
    },
    {
     "author": "Efrem Sirul, Comentariu la Facere 2.27.1-2",
@@ -3742,6 +3863,28 @@ window.CHAPTER_DATA = [
     "text": "«Și Domnul Dumnezeu i-a spus șarpelui etc.» Trei lucruri a pricinuit prin vorbirea lui: întâi, a pricinuit îndepărtarea luminii slavei Lui, binecuvântat fie, care se întindea peste Adam și soția lui, după cum am scris mai sus, iar aceasta este taina „veșmintelor de lumină”. Al doilea, a pricinuit ca Adam și Eva să fie tăiați din lumea aceasta, ca să nu trăiască în veac, ca pedeapsa însemnată în Scriptură: „căci în ziua în care vei mânca din el vei muri negreșit”. Al treilea, a pricinuit că nici în zilele în care sunt vii în lume să nu se desfăteze cu desfătarea lui Dumnezeu, după cum este spus: „l-a alungat pe om”.<br><br>Față în față cu cele trei au fost loviți trei: față în față cu dezbrăcarea norului slavei, care este privința „binecuvântatului” (barukh), a spus Domnul către el „blestemat” (arur) etc. Față în față cu tăierea lui Adam din lumea aceasta i-au fost tăiate picioarele, care sunt în măsura lui Adam, privința lipsei acestei lumi, care este picioarele lumii facerii (ʿolam ha-ʿasiya). Căci trebuie să știi că dacă Adam nu ar fi mâncat din pomul cunoașterii, ar fi fost în lumea aceasta și în lumea de sus deodată, ca omul care locuiește în casă și în etaj, iar când a păcătuit a devenit material și nu poate locui în amândouă împreună, ci doar în lumea aceasta de sine stătătoare, iar când va voi să urce la etaj are nevoie de schimbarea materialului, iar aceasta este moartea omului. De aceea au fost tăiate picioarele șarpelui. Iar față în față cu ce a pricinuit, ca să excludă de la Adam și Eva desfătarea Grădinii Edenului, i-a spus „și țărână vei mânca” etc., iar au spus, binecuvântată fie amintirea lor, că tot ce va mânca nu va gusta decât gust de țărână. Și potrivit acestui lucru se va preciza cu temei spusa Sfântului, binecuvântat fie, către șarpe la începutul cuvintelor Lui „pentru că ai făcut aceasta”, explicația: că blestemele cu care îl blestemă Domnul sunt faptele lui pe care le-a făcut, și sunt chiar cuvintele noastre, și înțelege."
    },
    {
+    "author": "Calea Pomului Vieții 1:34",
+    "text": "Și aceasta este «din gura pruncilor și a sugarilor ai întemeiat tărie», și aceasta este de-adevărat «ai întemeiat»; și aceasta este «din pricina vrăjmașilor Tăi», care sunt erev-rav; «să odihnească pe vrăjmaș» — care este sitra aḥra, «să odihnească» de-adevărat; și a zis «și pe cel ce se răzbună» — și aceasta este taina șarpelui care se răzbună și ține ură; și aceasta este taina «șarpelui i s-au tăiat picioarele», despre care s-a zis (Facerea 3:14): «pe pântecele tău vei merge»; și ca să se răzbune aceasta, aleargă după picioare, care este lucrul (Berachot 6a) «genunchii rabinilor care obosesc»; și ele sunt taina picioarelor de sus care sprijină trupul, și de ele atârnă puterea sprijinirii Torei ca s-o întărească să nu se clatine, în taina (Pilde 3:18) «și cei ce o sprijină sunt fericiți».",
+    "src": {
+     "slug": "kab-derech-etz-chayim-(ramchal)",
+     "spec": {
+      "num": 1,
+      "v": 34
+     }
+    }
+   },
+   {
+    "author": "Zohar Chadash, Beshalach 45",
+    "text": "A zis Ribi Abba: ce a văzut Moshe în acel ceas, că nu a făcut în șarpe? Ci Israel îl strâmtorau pe Moshe: dă-ne ape. S-a sfătuit Moshe și a zis: Sfântul, binecuvântat fie El, mi-a zis să stau în șarpe, și eu văd că nu este hotărâre șarpelui în ape, că puterea sa nu este decât în țărână, că este scris (Bereșit 3:14): «și țărână vei mânca toate zilele vieții tale»; se înțelege că țărână va mânca și va mistui toate zilele sale, dar în ape nu. Și Israel mă strâmtorează; și deși va face un nes, nu va face în acest loc, ci când s-a gravat, s-a gravat în țărână, și nu în ape. Că este scris (Șemot 4:3): «și l-a aruncat la pământ și a fost un șarpe». Și stânca în aceasta s-a gravat, în ape, la Marah, și deja a făcut un nes. Bine să fac în aceasta, că s-a făcut un alt nes. Îndată «și a lovit stânca cu toiagul său de două ori». I-a zis Sfântul, binecuvântat fie El: Moshe, «pentru că nu ați crezut în Mine să Mă sfințiți» — că ați socotit că nu poate șarpele în ape; «de aceea nu veți aduce». «Și toiagul tău cu care ai lovit fluviul etc.» — care este pricina? Pentru că era gravat în minuni, și Numele cel Sfânt de sus este însemnat în el.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 11,
+      "v": 45
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 3 — comparație",
     "text": "Și Dumnezeu a blestemat șarpele, și s-a mâniat pe el pentru totdeauna…"
    },
@@ -3780,6 +3923,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 3,
       "v": 28
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Moise 26 — comparație",
+    "text": "Vei fi lipsit de hrana din care mâncai și te vei hrăni cu țărână toate zilele vieții tale:",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 26,
+      "v": 2
      }
     }
    }
@@ -4418,6 +4572,17 @@ window.CHAPTER_DATA = [
       "v": 2
      }
     }
+   },
+   {
+    "author": "Apocalipsa lui Moise 25 — comparație",
+    "text": "vei fi în dureri de naștere și agonii de nesuferit; vei naște copii cu mult cutremur și într-un ceas vei ajunge la naștere, și îți vei pierde viața, din necazul tău greu și din chin.",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 25,
+      "v": 2
+     }
+    }
    }
   ],
   "textCompare": [
@@ -4731,6 +4896,28 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 26,
       "v": 2
+     }
+    }
+   },
+   {
+    "author": "Viața lui Adam și Eva 5 — comparație",
+    "text": "Și Eva i-a zis lui Adam: Ce este pocăința? Spune-mi, ce fel de pocăință am să fac? Să nu punem asupra noastră o osteneală prea mare, pe care n-o putem suferi, încât Domnul să nu asculte rugăciunile noastre și să-Și întoarcă fața de la noi, pentru că n-am împlinit ce am făgăduit.",
+    "src": {
+     "slug": "viata-adam-eva",
+     "spec": {
+      "num": 5,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 4 — comparație",
+    "text": "Și din pricina aceasta este scris pe tablele cerești: Blestemat să fie cel ce lovește pe aproapele său cu vicleșug, și toți cei ce au văzut și au auzit să zică: Amin; iar omul care a văzut și n-a vestit să fie blestemat ca celălalt.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 4,
+      "v": 5
      }
     }
    }
@@ -5215,6 +5402,17 @@ window.CHAPTER_DATA = [
       "v": 3
      }
     }
+   },
+   {
+    "author": "Marcion, Apostolikon: Romani 5:14",
+    "text": "Ci a împărățit moartea de la Adam până la Moise și peste cei ce nu păcătuiseră după asemănarea greșelii lui Adam, care este chip al Celui ce avea să vină.",
+    "src": {
+     "slug": "marcion-romani",
+     "spec": {
+      "num": 5,
+      "v": 14
+     }
+    }
    }
   ],
   "textCompare": [
@@ -5611,6 +5809,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Efrem Sirul, Comentariu la Facere 2.33.1",
     "text": "Erau aceste veșminte din piei de animale? Sau au fost create precum ciulinii și spinii, create după ce celelalte lucrări ale creației fuseseră încheiate? Fiindcă s-a spus că «Domnul a făcut... și i-a îmbrăcat», pare cel mai probabil că, atunci când mâinile lor au fost puse peste frunzele lor, s-au trezit îmbrăcați în veșminte de piele. De ce ar fi fost ucise fiare în fața lor? Poate s-a întâmplat aceasta ca, prin carnea animalului, Adam și Eva să-și hrănească trupurile, iar cu pieile să-și acopere goliciunea, dar și ca, prin moartea animalelor, să vadă moartea propriilor lor trupuri."
+   },
+   {
+    "author": "Diagramele ofite 6:8",
+    "text": "9. Adam și Eva aveau mai înainte trupuri luminoase, limpezi și, ca să zic așa, duhovnicești, așa cum au fost la zidirea lor; dar când au venit în această lume, acestea s-au schimbat în trupuri mai opace, grosolane și greoaie. Sufletul lor era de asemenea slab și moleșit, întrucât primiseră de la ziditorul lor numai o suflare lumească. Aceasta a durat până când Prunikos, mișcată de milă față de ei, le-a redat dulcele miros al stropitului de lumină, prin care au ajuns să-și aducă aminte de ei înșiși și să știe că erau goi, precum și că trupul era substanță materială, și astfel au recunoscut că poartă moartea cu ei. Au devenit atunci răbdători, știind că doar pentru un timp vor fi învăluiți în trup.",
+    "src": {
+     "slug": "diagrame-ofite",
+     "spec": {
+      "num": 6,
+      "v": 8
+     }
+    }
    }
   ],
   "textCompare": [
@@ -6137,6 +6346,39 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Două cărți despre Facere împotriva maniheilor 2.22.34",
     "text": "«Și apoi, ca nu cumva Adam să-și întindă mâna spre pomul vieții și să trăiască în veci, Dumnezeu l-a trimis afară din Paradis.» E bine spus «l-a trimis», nu «l-a exclus», ca să pară că e tras în jos de greutatea propriilor sale păcate, spre un loc care i se potrivește. Un om rău trăiește de obicei aceasta atunci când începe să locuiască printre oameni buni, dacă nu vrea să se schimbe spre bine: e alungat din tovărășia oamenilor buni de greutatea obiceiului său rău, iar ei nu-l exclud împotriva voii lui, ci îl trimit potrivit cu propria lui voie."
+   },
+   {
+    "author": "Diagramele ofite 6:6",
+    "text": "8. Ialdabaot însă, prin acea uitare în care era cufundat și neluând seama la acestea, a alungat pe Adam și pe Eva din Rai, pentru că îi călcaseră porunca. Căci voia să nască fii din Eva, dar nu și-a împlinit dorința, fiindcă mama lui i se împotrivea în toate și i-a golit pe ascuns pe Adam și pe Eva de lumina cu care fuseseră stropiți, pentru ca duhul ieșit din puterea supremă să nu ia parte nici la blestem, nici la ocara [pricinuită de călcare]. Învață, mai mult, că, golindu-se astfel de substanța dumnezeiască, au fost blestemați de el și aruncați din cer în această lume.",
+    "src": {
+     "slug": "diagrame-ofite",
+     "spec": {
+      "num": 6,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Și a scos din Grădina Edenului tot trupul care era în Grădina Edenului, și tot trupul a fost risipit după felurile lui și după soiurile lui, la locurile care fuseseră zidite pentru ele.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 29
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 3 — comparație",
+    "text": "Iar el a lucrat pământul precum fusese învățat în Grădina Edenului.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 3,
+      "v": 35
+     }
+    }
    }
   ]
  },
@@ -6404,6 +6646,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 3,
       "v": 32
+     }
+    }
+   },
+   {
+    "author": "Testamentul lui Levi 18:10",
+    "text": "Și va deschide porțile raiului, și va îndepărta sabia amenințătoare împotriva lui Adam.",
+    "src": {
+     "slug": "testament-levi",
+     "spec": {
+      "num": 18,
+      "v": 10
      }
     }
    }

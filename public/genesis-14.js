@@ -204,7 +204,7 @@ window.CHAPTER_DATA = [
    },
    {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
-    "text": "Deși identificarea exactă a lui Amrafel cu vreun rege babilonian cunoscut din arhive rămâne dezbătută academic, structura politică descrisă — o coaliție de regi mezopotamieni răsăriteni campanind spre vest, în Canaan — corespunde tiparelor reale de expediții militare documentate în perioada Bronzului Mijlociu."
+    "text": "Deși identificarea exactă a lui Amrafel cu vreun rege babilonian cunoscut din arhive rămâne dezbătută academic, structura politică descrisă — o coaliție de regi din Mesopotamia și din răsărit, porniți în campanie spre vest, în Canaan — corespunde tiparelor reale de expediții militare documentate în perioada Bronzului Mijlociu."
    },
    {
     "author": "Talmudul Babilonian, Megila, cap. 1",
@@ -1462,6 +1462,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«S-au întors și au venit.» După ce au năvălit asupra acestor locuri până la deșert, s-au întors spre țara Sodomei și au venit la Ein-Mișpat. Era cunoscut la ei de ce s-a numit așa, ca celelalte locuri, care toate au fost numite după un lucru cunoscut la ei. Și este un midraș că s-a numit așa pentru că Moise și Aaron aveau să fie judecați pentru apa acelui izvor, și aceasta este apa Merivei.<br><br>«Tot teritoriul amalekitului» (śedeh). O câmpie mare, cu cetăți construite în ea, se numește śadeh; și la fel „câmpia Edomului” și „câmpia Moabului”. Și a spus „amalekitului”, căci, când a scris Moise, învățătorul nostru, aceasta, Amalec se născuse deja și urmașii lui se înmulțiseră, căci a ieșit la război împotriva lui Israel la ieșirea lor din Egipt („Mițrayim”); și nu s-a numit aceasta după sfârșitul lui."
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 3",
+    "text": "Baraita: Temător de păcat; îl judecă pe om după faptele lui; și spune: De cele ce am în lumea aceasta nu am plăcere, pentru că toată lumea nu este a mea; stă și își murdărește haina înaintea ucenicilor înțelepților; nu jură pentru niciun lucru; întreabă după subiect și răspunde după halahah. Ghemara: Au învățat rabanii: Smerit, de unde? De la Moise, învățătorul nostru, căci s-a spus: „Iar Moise însuși era foarte modest”; și pentru ea a fost lăudat Moise, căci s-a spus: „Dar cu slujitorul Meu Moise nu-i așa!”. Și umil cu duhul, de la Aaron, căci este scris: „Căci buzele preotului păzesc cunoștința și din gura lui se caută învățătura, căci el este solul Domnului oștirilor”; și este scris: „Învățătura adevărului era în gura lui și nedreptate nu s-a aflat pe buzele lui; în pace și în dreptate a umblat cu Mine și pe mulți i-a întors de la nelegiuire”. Și nu ai pe nimeni mai umil cu duhul decât cel care urmărește pacea; și gândește-te în mintea ta: cum urmărește el pacea, dacă nu este umil cu duhul? Cum așa? Dacă un om îl blestemă, îi spune: Pace ție! Un om se ceartă cu el, și el tace. Și mai mult: dacă doi se ceartă, el își umilește duhul și merge la ei și îl împacă pe acesta și la fel pe acela. Căci așa era meșteșugul lui Aaron cel drept: auzea despre doi că se ceartă; mergea la unul și îi spunea: Cutare, pace ție, rabbi! Iar acela îi spunea: Pace ție, rabbi și învățătorul meu! Ce caută învățătorul meu aici? Iar el îi spunea: Cutare, tovarășul tău, m-a trimis la tine să te împac, pentru că a spus: Eu am greșit față de tovarășul meu. Îndată omul acela cugeta în mintea lui: Oare un asemenea om drept a venit la mine să mă împace? Și îi spunea: Rabbi, eu am greșit față de el. Și mergea la celălalt și îi spunea la fel. Se întâlneau amândoi pe drum; acesta îi spunea acestuia: Să-mi ierte ce am greșit eu; și acesta îi spunea acestuia la fel. Auzea despre un soț și soția lui că au făcut ceartă; mergea la soț și îi spunea: Pentru că am auzit că te-ai împăcat cu soția ta: dacă o alungi, poate vei găsi una ca ea, poate nu vei găsi; și mai mult, dacă găsești, când stai la vorbă cu ea, la început ea îți spune: Așa i-ai făcut celei dintâi. Și pentru aceasta tot Israelul, bărbați și femei, îl iubeau. Să știi că este așa: când a murit Moise, învățătorul nostru, ce este scris despre el? „Și copiii lui Israel l-au jelit pe Moise”; iar despre Aaron este scris: „toată casa lui Israel”, chiar și femeile; și nu numai femeile, ci se tăvăleau în lut și țărână pentru prunci, ca să se împlinească ce s-a spus: „toată”. S-a învățat: Optzeci de mii de tineri, chemați cu numele Aaron, au ieșit după patul lui. De ce? Pentru că îl iubeau; și cel care s-a întors, iar ea a zămislit. Am învățat acolo: Hillel spune: Fii dintre ucenicii lui Aaron: iubind pacea și urmărind pacea, iubind făpturile și apropiindu-le de Tora. Bine, „iubind pacea”, cum am spus; dar „urmărind pacea”, cum este? Cum s-a învățat: „Caută pacea și urmărește-o”. Și ce este deosebit? Toate poruncile: omul nu este obligat la ele decât dacă i-au venit la îndemână, căci este scris: „Dacă vei întâlni boul dușmanului tău”, „Dacă vei vedea măgarul dușmanului tău”, „Dacă se întâmplă”, „Când vei construi casă nouă”; dar pacea, în orice loc: „Caută pacea și urmărește-o”. S-a învățat: „Pace” a fost dată în ș-ʿ-w litere, și ș-ʿ-w în litere; învață că oricine urmărește pacea, rugăciunea lui nu se întoarce goală. Dar de acum, ceea ce este scris „Esau”, oare și acesta este pace? Și acolo s-a spus: Dacă în ceasul în care în numele lui este scris „pace”, el cutremură țările, din pricina „Prin sabia ta vei trăi”, dacă nu ar fi scris, cu atât mai mult! Dar de acum, ceea ce este scris „Ei au făcut război”, ce este? Și acolo: Dacă atunci când este scris numărul păcii, au căutat așa să distrugă lumea și să-i facă rău lui Avraam, dacă nu ar fi scris, cu atât mai mult! Dar de acum, ceea ce este scris „care au făcut lucrul acesta rău”, ce este? Și acolo: de vreme ce sunt uciși cu pietre, iese pacea; iar dacă nu sunt uciși cu pietre, aceștia îi omoară pe aceia. S-a învățat: Acești patru împărați nu au țintit decât din pricina lui Avraam, căci este scris: „S-au întors și au venit la Ein-Mișpat”: acesta este Avraam, care este ochiul lumii; „adică la Cades”: el este cel prin care s-a sfințit Numele Cerului; numai că l-au luat prizonier pe Lot, pentru că socoteau că el este Avraam, căci este scris: „Auzind Avram că îi fusese luat prizonier fratele”, și nu s-a spus „fiul fratelui său”. S-a învățat: Iar aceștia care erau cu Avram erau mai vinovați decât ei, și numele lor, tu le cunoști: poreclele numelor lor sunt spre rău: Bera, „în rău”, „în rea”; Birșa, „în nelegiuire”, „în nelegiuită”; Șineab, „și-a urât tatăl”; Șemeeber, „și-a pus aripă”; Bela, „înghițitor”. S-a întrebat: Cum este cu a da pace unui închinător la stele? Vino și auzi: Se întreabă de pacea lor chiar și în ziua sărbătorii lor, din pricina căilor păcii. Și aici, ce te-ai întrebat, căci este simplu? A saluta primul s-a întrebat el. S-a învățat: Mai bun este cel care salută primul decât cel care îi răspunde. S-a întrebat: Ucigașul, adulterul și cei vinovați de karet: cum este cu a le da pace? A răspunde nu este întrebare, căci de vreme ce te-a salutat primul, răspunde; ci a-i da primul, ce este? Vino și auzi: „Calea păcii n-o cunosc și nu este judecată pe cărările lor; cărările lor și le-au strâmbat; oricine umblă pe ea nu cunoaște pacea”. Reiese de aici: cei care stau să fie executați, dacă au dat, li se răspunde; cei scăpați prin forță, nu; iar a saluta primul, fie așa, fie așa, este interzis. Adulterul și tovarășul lui: cel care dă pace între cei mulți, răspunde, din pricina cinstei celor mulți; și unii spun: Cel care se însoțește cu adulterul este ca adulterul. Iar celălalt? Poate fără voia lor. Au venit să facă pace cu cei cu care se certau: nu se primește cu inimă întreagă, chiar și în Ziua Ispășirii. Regula lucrului: oricine rămâne așa și nu s-a întors în pocăință, este interzis a face negoț cu ei. Cum este cu inimă întreagă? Că spune: Să lăsăm și să-ți iertăm. Iar nu cu inimă întreagă: Cel Milostiv să ierte ce le-ai făcut. S-a întrebat: El și altul, ce este? Pentru „unii spun” să nu te întrebi, căci chiar și pentru cei mulți nu au îngăduit; când te întrebi, este pentru primul învățător: ce este? Rava a spus: Și în această dificultate spune: celui singur. Când ne-am întrebat, este când au venit doi, unul și altul după ei, și nu a spus nimic; i-a spus: le răspunde. S-a învățat: Mare este pacea, căci lumea stă pe ea, cum am învățat: Pe trei lucruri lumea dăinuie: pe judecată, pe adevăr și pe pace. Este scris în cartea lui Ben Sira: Fii iubitor de pace, căci pe ea stă lumea. Iubește tot poporul și păzește-te de mândrie, care nu se cuvine oricărui om. Ea arde fețele, dezrădăcinează pragurile, și din clădiri, copaci în loc de timpane. Învață de la împărați și căpetenii, și de la ceata lor la închinarea rușinilor, iar sfârșitul lor, în ardere, sfâșiați. Iubește smerenia, ca să nu ajungi la sărăcie. Căci ea este scârboasă și disprețuită; înaintea Celui slăvit nu se cuvine, decât pentru Cel care este așa, care face lucruri puternice, care nu se pot pricepe: mii de mii de mii de îngeri și serafimi lovesc din aripi, se fac auziți ca niște toboșari; iar El de la început S-a înălțat ca ziua Lui, învăluit în măreție în mantia Lui, și ea este îmbrăcămintea Lui în toate zilele Lui. Dar pentru cei ce șoptesc în Numele Lui Își coboară înălțimea, și din cerurile cerurilor Se apleacă spre săraci și orfani. Cât de lăudat și de vrednic a fost profetul care a fost lăudat din gura Creatorului: „Nu este nimeni ca robul Meu, profetul”. Cine dintre voi, fiilor, moștenește după domnie? Începutul înțelepciunii și al priceperii este a te teme înaintea Domnului. Și să nu-ți spună inima ta: iată, nu așa este mărimea ta; și nu asculta de mărimea ta, care este ascunsă înăuntrul tău. Privește și fă-ți bine sufletului în ziua când orice față se întunecă, când trupul arde și sufletul este tras afară.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 3,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -2814,6 +2825,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Fugarul a venit.» Care a scăpat de sabie.<br><br>«Și i-a dat de veste lui Avram evreul.» Deși el este de dincolo de râu și în el locuiește ca străin, el stă în câmpiile lui Mamre.<br><br>«Și Mamre, Eșcol și Aner erau aliații lui Avram» și ajutoare, și de aceea îi numără aici, căci l-au ajutat în război, precum este scris: „oamenii care au mers cu mine: Aner, Eșcol și Mamre” etc."
+   },
+   {
+    "author": "Cartea Jubileelor 14 — comparație",
+    "text": "Și le-a luat pe toate la mijlocul lunii; și a locuit la stejarul Mamre, care este lângă Hebron.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 14,
+      "v": 10
+     }
+    }
    }
   ]
  },
@@ -3055,6 +3077,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 11,
       "v": 1
+     }
+    }
+   },
+   {
+    "author": "Epistola lui Barnaba 9:7",
+    "text": "Căci scriptura zice; Și Avraam a tăiat împrejur din casa sa optsprezece bărbați și trei sute. Care a fost deci cunoștința dată lui? Înțelegeți că zice întâi optsprezece, și apoi după un interval trei sute. În optsprezece «I» stă pentru zece, «H» pentru opt. Aici ai pe IISUS (IHSOYS). Și pentru că crucea în «T» urma să aibă har, zice și trei sute. Așa descoperă pe Iisus în cele două litere, și în cea rămasă crucea.",
+    "src": {
+     "slug": "barnaba",
+     "spec": {
+      "num": 9,
+      "v": 7
      }
     }
    }
@@ -3653,6 +3686,17 @@ window.CHAPTER_DATA = [
     "text": "«Iar regele Sodomei i-a ieșit în întâmpinare.» „Și regele Sodomei a ieșit” din puțurile în care se ascunsese; și tot războiul a fost din pricina lui, căci Scriptura l-a pomenit întâi, pentru că era cel mai mare dintre toți; de aceea a ieșit el singur în întâmpinarea lui Avraam ca să-i vorbească."
    },
    {
+    "author": "Adunarea cea mică 23:4",
+    "text": "În acele veșminte de cinste, veșminte de adevăr, rânduieli de adevăr, lămpi de adevăr, se află două lămpi, rânduiala tronului Regelui, și se numesc Țedek și Mișpat. Și ele sunt începutul și desăvârșirea în toată credința. Și cu acestea se încununează toate judecățile de sus și de jos; și totul este ascuns în Mișpat. Și Țedek se hrănește din acest Mișpat. Și uneori o numim (Geneza 14:17-18) „Malkițedek, regele Șalemului”.",
+    "src": {
+     "slug": "kab-zo-idra-zuta",
+     "spec": {
+      "num": 23,
+      "v": 4
+     }
+    }
+   },
+   {
     "author": "Context cultural-istoric (Orientul Apropiat Antic)",
     "text": "„Valea regelui” (Emek HaMelekh) e menționată din nou mult mai târziu, la 2 Samuel 18:18, ca locul unde Absalom și-a ridicat un monument — o continuitate geografică remarcabilă între epoca patriarhilor și epoca regilor unificați ai Israelului."
    },
@@ -3916,6 +3960,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Efrem Sirul, Comentariu la Facere",
     "text": "Acest Melchisedec este Șem, care a ajuns rege prin măreția lui; el era capul a paisprezece neamuri. În plus, „era preot”. Aceasta a primit-o de la Noe, tatăl său, prin dreptul de moștenire. Șem a trăit nu numai până în vremea lui Avraam, cum spune Scriptura, ci până la [vremea lui] Iacov și Esau, nepoții lui Avraam. La el s-a dus Rebeca să întrebe și i s-a spus: „Două neamuri sunt în pântecele tău, iar cel mai mare va sluji celui mai mic.” Rebeca n-ar fi trecut peste soțul ei, care fusese izbăvit la locul înalt, sau peste socrul ei, căruia îi veneau neîncetat descoperiri ale dumnezeirii, ca să meargă drept să întrebe pe Melchisedec, dacă n-ar fi aflat de măreția lui de la Avraam sau de la fiul lui Avraam."
+   },
+   {
+    "author": "Eusebiu din Cezareea, Istoria bisericească, Cartea I, cap. 3",
+    "text": "Dar acest Melhisedec este înfățișat în Sfintele Scripturi ca preot al Dumnezeului celui Preaînalt, nesfințit prin nicio ungere cu untdelemn pregătit anume și nici măcar aparținând, prin neam, preoției iudeilor. De aceea, după rânduiala lui, dar nu după rânduiala celorlalți, care primeau simboluri și chipuri, a fost vestit Mântuitorul nostru, cu un jurământ, Hristos și preot.",
+    "src": {
+     "slug": "eusebiu-istoria",
+     "spec": {
+      "num": 3,
+      "v": 17
+     }
+    }
    }
   ]
  },
@@ -4557,6 +4612,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Or HaChaim (1696–1743)",
     "text": "«Dă-mi mie sufletele, iar averea ia-o etc.» Trebuie să știm pentru ce lucru îi spune „iar averea ia-o pentru tine”, oare nu este luată la el, și nu trebuia să spună decât un lucru pe care îl cere de la el, ca să i-l dea în chip de dar, căci spusa lui „ia-o pentru tine” arată că el are nevoie să fie de acord să o ia, și aceasta este împotriva spusei „dă-mi sufletele”?<br><br>Însă chestiunea se va lămuri pe calea a ceea ce au spus, binecuvântată fie amintirea lor, în capitolul „Ha-gozel u-maʾakhil”, iar acesta este textul lor: au predat rabinii: o caravană care mergea și s-a ridicat asupra ei o ceată și a jefuit-o, și s-a ridicat cineva și a salvat – a salvat pentru mijloc (pentru toți), iar dacă a spus „eu salvez pentru mine” – a salvat pentru sine. Iar Rav Ași explică: când membrii caravanei pot salva prin strâmtorare, de aceea, dacă a salvat fără precizare – pentru mijloc, explicația: fiecare își va recunoaște ce este al lui și îl va lua, și precum a explicat Rashi. Iar dacă a spus „pentru mine salvez” și l-au auzit membrii caravanei și au tăcut, au dezvăluit părerea lor de renunțare și nu s-au riscat pe ei înșiși, iar pentru sine a salvat – până aici. Iar regele Sodomei a socotit că el nu a renunțat și încă stă să salveze și va tocmi cete împotriva lui, iar când a mers Avraam să salveze, deși ar spune că și-a dezvăluit părerea că salvează pentru sine – nu folosește, și trebuie ca regele Sodomei să audă cuvintele lui și să fie de acord, și în afară de aceasta a salvat pentru mijloc și nu va lua decât ce este al lui, care este Lot și averea lui. Și vei găsi că regele Sodomei se ținea într-o treaptă mare, căci au spus în Midraș, iar acesta este textul lor: „și a ieșit regele Sodomei” etc., a început să-și clatine coada: tu ai coborât în cuptorul de foc și ai fost salvat, iar eu am coborât în smoală și am fost salvat – până aici. Iată că s-a ținut pe sine ca stăpân al puterii.<br><br>Și prin aceasta se va lămuri versetul „dă-mi sufletele” etc., explicația: eu, după socoteala mea, am salvat pentru mijloc, căci nu am renunțat și nu mi-ai făcut cunoscut că tu salvezi pentru tine și am tăcut, ci după socoteala ta că dai zeciuială se pare că tu socotești că nu este cu putință să salvez eu nici prin strâmtorare, și prin aceasta nu ai nevoie să-ți dezvălui părerea. De aceea, ca să nu intrăm într-o dispută, vom conveni împreună la un compromis: tu vei lăsa la o parte dreptul tău și vei hotărî în favoarea mea sufletele, iar eu voi lăsa la o parte dreptul meu și voi hotărî pentru tine averea: ia-o pentru tine; și înțelege. Și el era, cel puțin, greșit, căci este din pradă, din salvare, iar Rav Ași nu a deosebit decât în cazul unei cete care a sfâșiat și a plecat, dar în realitatea dinaintea noastră deja au aranjat război și au pierit și nu ai „nu pot salva” aici, căci au fost deja reduși în număr și au renunțat cu siguranță, iar cu pretenție mincinoasă vine cu clătinarea cozii. Și vei găsi că Rav Ași nu a cerut să spună în mod lămurit „pentru mine salvez” decât numai în cazul în care poate salva prin strâmtorare, dar dacă nu poate salva nu are nevoie să spună „pentru mine” etc., și așa explică acolo. Iar dacă așa, deși ar spune după aceea „aș fi putut să salvez” – pretenția lui nu este pretenție, și așa au hotărât Rambam și Rosh.<br><br>Și vei găsi că Înțelepții, binecuvântată fie amintirea lor, au făcut aluzie la acest lucru prin dulceața limbii lor, spunând „își clatină coada”, explicația: că după ce se vede că i s-a luat capul, încă își clatină coada, căci fiind el în toată tăria domniei lui, iar patru regi care erau cu el nu au stat înaintea celor patru regi, cu atât mai mult după coborârea podoabelor lui poate salva. Iată ai învățat că Avraam a salvat pentru sine și a dobândit totul, și de aceea a dat zeciuială din toate, căci deși i-a fost îngăduit regelui Sodomei – omul are voie cu ce este al lui – nu cu zeciuiala, care este a Celui înalt."
+   },
+   {
+    "author": "Zohar Chadash, Lech Lecha 59",
+    "text": "Și s-a învățat: îi zice lui căpetenia Ghehinom, care stă înaintea neșamah tzadikim ca să nu se roage asupra răilor înaintea Sfântului, binecuvântat fie El, și să-i dea în stăpânirea sa să-i coboare în Be'er Shaḥat; aceasta este ceea ce este scris (Bereșit 14:21): «și a zis regele Sedom lui Avram: dă-mi sufletul». Regele Sedom — acesta este căpetenia Ghehinom, care stă asupra răilor, și el este regele Sedom.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 4,
+      "v": 59
+     }
+    }
    },
    {
     "author": "Cartea Jubileelor 13 — comparație",

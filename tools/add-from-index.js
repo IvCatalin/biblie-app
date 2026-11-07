@@ -1,7 +1,7 @@
 // Adaugă în genesis-N.js rândurile reale din Diverse care citesc explicit versetul (Talmud: o unitate pe verset, cea mai relevantă; Mișna: una; Kabbala/Jubilee: până la 2 pe lucrare).
 // node add-from-index.js --ch=1,2,3 [--write] [--list]
 const fs = require('fs');
-const WRITE = process.argv.includes('--write'), LIST = process.argv.includes('--list');
+const WRITE = process.argv.includes('--write'), LIST = process.argv.includes('--list'), RELAXED = process.argv.includes('--relaxed'); // --relaxed: acoperă și versetele rămase fără rând dintr-o familie (citarea poate fi la mijlocul unității)
 const chapters = (process.argv.find(a => /^--ch=/.test(a)) || '--ch=1,2,3').slice(5).split(',').map(Number);
 const P = 'C:/Users/ivcatali/biblie-app/public/';
 const html = fs.readFileSync(P + 'library-data.js', 'utf8');
@@ -51,7 +51,7 @@ for (const N of chapters) {
       if (!x.geneza.includes(':')) continue; const gv = +x.geneza.split(':')[1];
       const un = unit(slug, x.cap, x.v); if (!un) continue;
       const rr = rank(un.u, x.geneza); const pt = plain(un.u.t); const mm = new RegExp('(?:Geneza|Facerea|Facere|Bereșit|Bereshit|Gen\\.)\\s*' + N + '\\s*:\\s*' + gv + '(?!\\d)').exec(pt);
-      if (!(rr >= 2 || (mm && mm.index <= 120))) continue; if (kind(slug) === 'minor' && !(mm && mm.index <= 120)) continue; // doar unități care citează versetul chiar la început sau îl leagă explicit în note
+      if (!(rr >= 2 || (mm && mm.index <= 120)) && !RELAXED) continue; if (kind(slug) === 'minor' && !(mm && mm.index <= 120) && !RELAXED) continue; // doar unități care citează versetul chiar la început sau îl leagă explicit în note
       (cand[gv] = cand[gv] || []).push({ slug, cap: x.cap, v: x.v, ch: un.ch, u: un.u, r: rr });
     }
   }
@@ -61,6 +61,7 @@ for (const N of chapters) {
     const have = (t) => x.commentaries.some(c => c.text && plain(c.text) === plain(t));
     const hasTalmud = x.commentaries.some(c => /^Talmud/.test(c.author || ''));
     const hasMishna = x.commentaries.some(c => /^Mi[șs]na/.test(c.author || ''));
+    const hasKab = x.commentaries.some(c => c.src && /^kab-/.test(c.src.slug || '') || /^(Zohar|Sefer HaBahir)/.test(c.author || ''));
     const picks = []; const per = {}; cs.forEach(c => { c.key = c.slug + c.cap + ':' + c.v; });
     for (let i = cs.length - 1; i >= 0; i--) if (usedKeys.has(cs[i].key)) cs.splice(i, 1);
     const bykind = { talmud: [], minor: [], mishna: [], jub: [], other: [] };
@@ -69,8 +70,8 @@ for (const N of chapters) {
     if (!hasTalmud && bykind.talmud.length) picks.push(bykind.talmud.sort(sortc)[0]);
     if (!hasTalmud && !picks.length && bykind.minor.length) picks.push(bykind.minor.sort(sortc)[0]);
     if (!hasMishna && bykind.mishna.length) picks.push(bykind.mishna.sort(sortc)[0]);
-    bykind.jub.sort(sortc).slice(0, 2).forEach(c => picks.push(c));
-    const oth = {}; bykind.other.sort(sortc).forEach(c => { oth[c.slug] = (oth[c.slug] || 0) + 1; if (oth[c.slug] <= 2) picks.push(c); });
+    if (!RELAXED) bykind.jub.sort(sortc).slice(0, 2).forEach(c => picks.push(c));
+    const oth = {}; if (!RELAXED || !hasKab) bykind.other.sort(sortc).forEach(c => { oth[c.slug] = (oth[c.slug] || 0) + 1; if (oth[c.slug] <= (RELAXED ? 1 : 2)) picks.push(c); });
     const jew = [], other = [];
     for (const c of picks) {
       const text = plain(c.u.t); if (have(text)) continue; usedKeys.add(c.key);

@@ -270,6 +270,17 @@ window.CHAPTER_DATA = [
     "text": "A deschis altul și a zis: «și era Avram de nouăzeci de ani și nouă ani, și S-a arătat Domnul» etc. «Eu sunt El Șadai; umblă înaintea Mea» etc. Versetul acesta e de cercetat și e greu pe multe căi. Și oare până acum nu S-a descoperit Sfântul, binecuvântat fie El, lui Avraham decât (până) acum, când a ajuns la zilele acestea, «și S-a arătat Domnul lui Avram», și nu înainte? Și iată e scris «și a zis Domnul lui Avram». «Și Domnul a zis lui Avram». «Și a zis lui Avram: să știi vei ști» etc. Și acum a numărat socoteala zilelor; și când le-a numărat e scris «și S-a arătat Domnul lui Avram» — se înțelege că până acum nu S-a descoperit asupra lui. Și încă e scris «de nouăzeci de ani și nouă ani» — întâi «an» și la sfârșit «ani»."
    },
    {
+    "author": "Mișna, Juruințele 3:11",
+    "text": "„Qonam că nu am folos de la fiii lui Noaḥ” — îi este permis de la Israel și îi este interzis de la popoarele lumii. „Că nu am folos de la sămânța lui Avraham” — îi este interzis de la Israel și îi este permis de la popoarele lumii. „Că nu am folos de la Israel” — cumpără mai scump și vinde mai ieftin. „Că Israel nu are folos de la mine” — cumpără mai ieftin și vinde mai scump, dacă îl ascultă. „Că nu am folos de la ei, nici ei de la mine” — să aibă folos de la neevrei. „Qonam că nu am folos de la cei netăiați împrejur” — îi este permis de la netăiații împrejur ai lui Israel și îi este interzis de la cei tăiați împrejur ai popoarelor. „Qonam că nu am folos de la cei tăiați împrejur” — îi este interzis de la netăiații împrejur ai lui Israel și îi este permis de la cei tăiați împrejur ai închinătorilor la stele, căci „netăierea împrejur” (ʿorlah) nu este numită decât cu numele închinătorilor la stele, căci s-a spus: (Ieremia 9:25) „căci toate neamurile sunt netăiate împrejur, iar toată casa lui Israel este netăiată împrejur la inimă”; și spune: (1 Samuel 17:36) „și va fi filisteanul acesta netăiat împrejur”; și spune: (2 Samuel 1:20) „ca nu cumva să se bucure fiicele filistenilor, ca nu cumva să se veselească fiicele celor netăiați împrejur”. Rabbi Eliʿezer ben ʿAzaryah spune: respingătoare este netăierea împrejur, căci cu ea au fost batjocoriți cei răi, căci s-a spus: „căci toate neamurile sunt netăiate împrejur”. Rabbi Yișmaʿel spune: mare este tăierea împrejur, căci pentru ea au fost încheiate treisprezece legăminte (berit). Rabbi Yose spune: mare este tăierea împrejur, căci ea împinge deoparte Sabatul cel strict. Rabbi Yehoșuaʿ ben Qorḥah spune: mare este tăierea împrejur, căci nu i s-a îngăduit lui Moșe cel drept amânarea ei nici un ceas întreg. Rabbi Neḥemyah spune: mare este tăierea împrejur, căci ea împinge deoparte plăgile (negaʿim). Rabbi spune: mare este tăierea împrejur, căci cu toate poruncile pe care le-a făcut Avraham, părintele nostru, nu a fost numit desăvârșit până ce nu s-a tăiat împrejur, căci s-a spus: (Geneza 17:1) „umblă înaintea Mea și fii desăvârșit”. Alt lucru: mare este tăierea împrejur, căci, dacă nu ar fi fost ea, Sfântul, binecuvântat fie El, nu ar fi creat lumea Lui, căci s-a spus: (Ieremia 33:25) „așa a spus Domnul: dacă nu ar fi legământul Meu ziua și noaptea, legile cerului și ale pământului nu le-aș fi pus”.",
+    "src": {
+     "slug": "mishna-nedarim",
+     "spec": {
+      "num": 3,
+      "v": 11
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 15 — comparație",
     "text": "Și Domnul i s-a arătat lui Avram, și i-a zis: Eu sunt Dumnezeul cel Atotputernic; înfățișează-te înaintea Mea și fii desăvârșit. Și voi face legământul Meu între Mine și tine, și te voi înmulți foarte.",
     "src": {
@@ -930,6 +941,17 @@ window.CHAPTER_DATA = [
       "v": 7
      }
     }
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 44:19",
+    "text": "Avraam a fost tată mare al mulțimii neamurilor și nu s-a aflat egal în slavă.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 44,
+      "v": 19
+     }
+    }
    }
   ]
  },
@@ -1455,6 +1477,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "Și îți voi da ție și seminței tale după tine țara pribegiilor tale, toată țara Canaanului, ca stăpânire veșnică. Cere o tâlcuire mai laborioasă cum trebuie înțeles că s-a împlinit sau că se mai așteaptă să se împlinească, de vreme ce nicio stăpânire pământească nu poate fi veșnică pentru vreun neam. Dar trebuie știut că „veșnic” este tâlcuit de ai noștri ca ceea ce grecii numesc „aionion”, care vine de la „veac”. Căci în greacă „aion” se numește veacul. Dar latinii n-au îndrăznit să spună „de veac”, ca să nu trimită sensul departe, spre altceva. Căci multe se numesc „de veac” fiindcă se petrec în veacul acesta în așa fel încât trec într-un timp scurt. Totuși ceea ce se numește „aionion” ori nu are sfârșit, ori se întinde până la sfârșitul veacului acesta. Și de aceea, cum am spus mai sus, țara Canaanului este dată ca stăpânire veșnică seminței lui Avraam, pentru că în ea se crede că creștinii, până la sfârșitul veacului acesta, fie din iudei, fie din neamuri, adică sămânța lui Avraam, nu vor lipsi niciodată."
+   },
+   {
+    "author": "Marcion, Apostolikon: Galateni 3:16",
+    "text": "Iar lui Avraam s-au făcut făgăduințele și urmașului său. Nu zice: și urmașilor, ca de mai mulți, ci ca de unul: și Urmașului tău, Care este Hristos.",
+    "src": {
+     "slug": "marcion-galateni",
+     "spec": {
+      "num": 3,
+      "v": 16
+     }
+    }
    }
   ]
  },
@@ -1772,6 +1805,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Cartea Jubileelor 15 — context/comparație",
     "text": "Legea aceasta este pentru toate neamurile pe veci, și nu este tăiere împrejur a zilelor, și nici o omitere a unei zile din cele opt zile; căci este o rânduială veșnică, rânduită și scrisă pe tablele cerești."
+   },
+   {
+    "author": "Înțelepciunea lui Isus Sirah 44:20",
+    "text": "Care a păzit legea Celui Preaînalt și a fost în legământ cu El; în carnea lui a așezat legământul și în ispită a fost găsit credincios.",
+    "src": {
+     "slug": "sirah",
+     "spec": {
+      "num": 44,
+      "v": 20
+     }
+    }
+   },
+   {
+    "author": "Eusebiu din Cezareea, Istoria bisericească, Cartea I, cap. 4",
+    "text": "Dacă se spune că lui Avraam i s-a dat mult mai târziu porunca tăierii împrejur, răspundem că totuși mai înainte de aceasta se spusese că primise mărturia dreptății prin credință; după cum zice cuvântul dumnezeiesc: „Avraam a crezut în Dumnezeu și i s-a socotit ca dreptate.” (Geneza 15:6)",
+    "src": {
+     "slug": "eusebiu-istoria",
+     "spec": {
+      "num": 4,
+      "v": 11
+     }
+    }
    }
   ],
   "refs": [
@@ -1932,6 +1987,21 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Și să fie ca semn al legământului între Mine și voi.» Semn și simbol că Eu sunt stăpân și voi sunteți robii Mei; și sigiliul semnului legământului este într-un loc ascuns care nu se vede, ca să nu spună neamurile lumii despre Israel că sunt cu meteahnă; iar din faptul că Sfântul, binecuvântat fie, a poruncit bărbaților și nu femeilor, înțelegem că în locul bărbăției a poruncit Sfântul, binecuvântat fie, să se pună sigiliul legământului; iar sângele de menstruație, pe care femeile îl păzesc și își vestesc deschiderile soților lor, este pentru ele sânge al legământului."
+   },
+   {
+    "author": "Evanghelia lui Filip 9:122",
+    "text": "Când Avraam […] să vadă ce avea să vadă, [a] tăiat împrejur carnea prepuțului, [arătându-ne] că trebuie nimicită carnea.",
+    "src": {
+     "slug": "evanghelia-filip",
+     "spec": {
+      "num": 9,
+      "v": 122
+     }
+    }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Tăierea împrejur nu era o noutate: era cunoscută în Egipt (reprezentări din Saqqara, din mileniul al III-lea î.Hr.) și printre unele popoare vest-semitice, iar filistenii erau, dimpotrivă, numiți „necircumciși”. În Geneza ea capătă un sens aparte: devine semnul legământului dintre Dumnezeu și urmașii lui Avraam."
    }
   ]
  },
@@ -2337,6 +2407,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Circumcis negreșit să fie.» Circumcizia (milah) și dezvelirea (periʿah)."
+   },
+   {
+    "author": "Zohar Chadash, Shir HaShirim 25",
+    "text": "Aceasta este ceea ce este scris: «să nu dai gura ta să facă să păcătuiască trupul tău».⁠‌‌​‌‌​‌​​‌​‌‌​‌​​​‌​‌‌‌‌ Acesta este trupul sfânt, că este scris (Bereșit 17:13) «și va fi legământul Meu în trupul vostru». «Și să nu zici înaintea îngerului» — cel care merge la dreapta omului; să nu zici vorbe care nu sunt potrivite, ci toate vorbele tale în liniște și în cumpănă. Care este pricina? Pentru că «greșeală este». Și este vinovat asupra acesteia de jertfa greșelii.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 26,
+      "v": 25
+     }
+    }
    },
    {
     "author": "Cartea Jubileelor 15 — comparație",
@@ -4105,6 +4186,17 @@ window.CHAPTER_DATA = [
     "text": "Dacă e așa, de ce e scris cercetare? Ci cu adevărat amintirea (aceasta) a fost înainte de aceasta, și s-a predat cheia aceasta jos, precum e scris (Geneza 17:21): «și legământul Meu îl voi statornici cu Yițḥak, pe care ți-l va naște Sarah la sorocul acesta» etc. Și după aceea după chipul acesta; și de îndată ce s-a pomenit în taina de sus, după aceea s-a spus în taina femelei cercetare, ca să fie cuprinderea tuturor împreună."
    },
    {
+    "author": "Tratatul Kallah Rabbati, cap. 3",
+    "text": "Baraita: Șapte părinți au încheiat legământ, iată-i: Avraam, Isaac și Iacov, Moise și Aaron, Fineas și David. La Avraam ce spune? „În acea zi Domnul a făcut legământ cu Avram”. La Isaac ce spune? „Dar legământul Mi-l voi statornici cu Isaac”. La Iacov ce spune? „Îmi voi aminti de legământul Meu cu Iacov”. La Moise ce spune? „căci prin aceste cuvinte am făcut legământ cu tine”. La Aaron ce spune? „Este legământ al sării, veșnic”. La Fineas ce spune? „și să fie pentru el și pentru seminția lui după el un legământ”. La David ce spune? „Am făcut legământ cu alesul Meu”. Ghemara: S-a învățat: Și Israel au încheiat legământ. De unde? Căci s-a spus: „căci prin aceste cuvinte am făcut legământ cu tine și cu Israel”. Să spunem că este o respingere a lui Rabbi ʿAqiva, care a spus: Generația pustiei nu are parte de lumea viitoare? Rabbi ʿAqiva îți spune: Dimpotrivă, acum ne sprijină: „și cu Israel”; și este scris: „Nu ca legământul” etc. „pe care ei l-au călcat”. Ci ce este „și cu”? Ca să includă pe prunci și pe sugari. Vino și auzi: „Așa vorbește Domnul, Dumnezeul lui Israel: Eu am încheiat legământ cu părinții voștri”: greu pentru Rabbi ʿAqiva! Rabbi ʿAqiva îți spune: Acum mă sprijină, căci este scris: „dar părinții voștri nu M-au ascultat”. Vino și auzi: „Strângeți-Mi pe credincioșii Mei, care au încheiat legământul Meu prin jertfă”: aceasta este negreșit o respingere a lui.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 3,
+      "v": 24
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 15 — comparație",
     "text": "Dar legământul Meu îl voi întări cu Isaac, pe care ți-l va naște Sara, în zilele acestea, în anul viitor.",
     "src": {
@@ -4258,6 +4350,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și când a sfârșit»: până aici a sfârșit să vorbească cu el în acea zi; și pentru că a fost o profeție mare, a spus așa.<br><br>«Dumnezeu s-a ridicat de deasupra lui Avraam»: s-a retras slava Lui, care i se arătase în această profeție. Iar în spusele învățătorilor noștri, binecuvântată fie amintirea lor: de aici că patriarhii, ei sunt carul; și cât de bun este acest lucru pentru cel care îl înțelege!"
+   },
+   {
+    "author": "Tratatul Kallah Rabbati, cap. 7",
+    "text": "Cum își cinstește omul învățătorul? Când amândoi merg pe drum, îl pune la dreapta lui și nu îl pune la stânga lui. Dacă erau trei și înțeleptul între ei, înțeleptul este la mijloc, cel mai mare la dreapta lui și cel mai mic la stânga lui; căci așa am găsit la cei trei îngeri de slujire care au venit la Avraam, părintele nostru: Gabriel, Mihail și Rafael: Gabriel la mijloc, Mihail la dreapta lui și Rafael la stânga lui. Și când au venit la Avraam, a venit Șekhina și a stat deasupra capului lui. Le-a spus: Domnii mei, așteptați-mă până mă despart de Șekhina, căci ea este mai mare decât voi, căci s-a spus: „Și când a sfârșit de vorbit cu el, Dumnezeu s-a ridicat de deasupra lui Avraam”. Și când s-a despărțit Avraam de Șekhina, a venit și s-a prosternat înaintea lor, căci s-a spus: „El a văzut și a alergat în întâmpinarea lor”; i-a adus sub copac și le-a spus: Domnii mei, „Să se ia, te rog, puțină apă” etc., și după aceea: „Și eu voi lua o bucată de pâine și vă veți înviora inima”. Dar Lot ce le-a spus? „înnoptați și spălați-vă picioarele, apoi treziți-vă devreme” etc. Alții spun: Lot nu a spus aceasta decât cu înțelepciunea înțelepților: dacă i-ar vedea spălați pe față, pe mâini și pe picioare, s-ar găsi că îl ucid pe el și pe fiii lui; iar când vor vedea praf pe picioarele lor, vor spune: Nu au venit decât acum de pe drum.",
+    "src": {
+     "slug": "talmud-minor-kallah-rabbati",
+     "spec": {
+      "num": 7,
+      "v": 2
+     }
+    }
    },
    {
     "author": "Cartea Jubileelor 15 — comparație",
@@ -4578,6 +4681,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 15,
       "v": 23
+     }
+    }
+   },
+   {
+    "author": "Epistola lui Barnaba 9:6",
+    "text": "Învățați deci, copii ai dragostei, despre toate din belșug, că Avraam, care întâi a rânduit tăierea împrejur, a privit înainte în duh către Iisus, când a tăiat împrejur primind rânduielile a trei litere.",
+    "src": {
+     "slug": "barnaba",
+     "spec": {
+      "num": 9,
+      "v": 6
      }
     }
    }

@@ -307,6 +307,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Adam Clarke, Comentariu la Vechiul și Noul Testament",
     "text": "Am dobândit un om de la Domnul — Cain, קין, înseamnă „dobândire”; de aceea Eva spune קנתי kanithi, am dobândit, am agonisit un om, את יהוה eth Yehovah, pe Domnul. Este nespus de greu de aflat în ce înțeles a folosit Eva aceste cuvinte, care au fost tălmăcite tot atât de felurit pe cât au fost înțelese. Cei mai mulți tâlcuitori cred că Eva își închipuia că Cain este sămânța făgăduită care avea să zdrobească capul șarpelui. Această tâlcuire pare cu adevărat prea rafinată pentru acea vreme. Este foarte probabil că ea n-a vrut să spună mai mult decât să recunoască faptul că doar prin binecuvântarea deosebită a lui Dumnezeu a putut zămisli și naște un fiu și că avea acum o nădejde întemeiată că neamul omenesc va fi continuat pe pământ. Dacă n-ar fi fost sub insuflare dumnezeiască, n-ar fi putut să-și numească fiul (chiar presupunând că era sămânța făgăduită) Iehova; iar că nu era sub o astfel de insuflare o dovedește destul greșeala ei, căci Cain, departe de a fi Mesia, era din cel rău; 1 Ioan 3:12. Putem deci presupune că את יהוה eth Yehovah, Domnul, este o formă eliptică de exprimare pentru מאת יהוה meeth Yehovah, De la Domnul, adică prin binecuvântarea dumnezeiască."
+   },
+   {
+    "author": "Diagramele ofite 6:9",
+    "text": "Au aflat și hrană, prin călăuzirea Sofiei; și când s-au săturat, au avut cunoștință trupească unul de altul și au născut pe Cain, pe care șarpele, aruncat împreună cu fiii lui, l-a prins îndată și l-a stricat, umplându-l de uitare lumească și împingându-l la nebunie și îndrăzneală, încât, ucigându-și fratele Abel, a fost cel dintâi care a scos la iveală pizma și moartea. După aceștia, afirmă ei, prin prevederea lui Prunikos s-a născut Set, apoi Norea, din care înfățișează tot restul omenirii ca fiind descins. Au fost îndemnați la tot felul de răutăți de Hebdomada inferioară, iar la apostazie, idolatrie și disprețuirea generală a tuturor lucrurilor de Hebdomada superioară, sfântă, întrucât mama li se împotrivea mereu pe ascuns și păstra cu grijă ceea ce îi era propriu, adică stropitul de lumină. Susțin, mai mult, că Hebdomada sfântă sunt cele șapte stele pe care le numesc planete; și afirmă că șarpele aruncat are două nume, Mihail și Samael.",
+    "src": {
+     "slug": "diagrame-ofite",
+     "spec": {
+      "num": 6,
+      "v": 9
+     }
+    }
+   },
+   {
+    "author": "Viața lui Adam și Eva 21 — comparație",
+    "text": "Și a născut un fiu și era strălucitor; și îndată pruncul s-a sculat și a alergat și a purtat un fir de iarbă în mâini și l-a dat mamei sale, și numele lui a fost chemat Cain.",
+    "src": {
+     "slug": "viata-adam-eva",
+     "spec": {
+      "num": 21,
+      "v": 3
+     }
+    }
    }
   ],
   "fidela": "Și Adam a cunoscut-o pe Eva, soția lui, și ea a rămas însărcinată și a născut pe Cain și a spus: Am primit un bărbat de la DOMNUL."
@@ -574,6 +596,28 @@ window.CHAPTER_DATA = [
       "v": 1
      }
     }
+   },
+   {
+    "author": "Viața lui Adam și Eva 23 — comparație",
+    "text": "Și l-au făcut pe Cain plugar, (dar) pe Abel l-au făcut păstor; ca astfel să fie despărțiți unul de altul.",
+    "src": {
+     "slug": "viata-adam-eva",
+     "spec": {
+      "num": 23,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Viața lui Adam și Eva 23 — comparație",
+    "text": "Și după aceea Cain l-a ucis pe Abel, iar Adam avea atunci o sută treizeci de ani, dar Abel a fost ucis când avea o sută douăzeci și doi de ani. Și după aceea Adam a cunoscut pe soția sa și a născut un fiu și i-a pus numele Set.",
+    "src": {
+     "slug": "viata-adam-eva",
+     "spec": {
+      "num": 23,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -784,6 +828,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
     "text": "„cu timpul” — ebraică: „la sfârșitul zilelor”, probabil în sabat.<br><br>„a adus un dar Domnului” — Amândoi au arătat, prin însuși actul aducerii, credința lor în existența lui Dumnezeu și în drepturile Lui la cinstirea și închinarea lor; și dacă felul darului ar fi fost lăsat la alegerea lor, ce ar fi fost mai firesc decât ca unul să aducă „din roadele pământului”, iar celălalt „din întâii născuți ai turmei sale și din grăsimea lor” [Gen 4:4]."
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 4:1",
+    "text": "Căci așa e scris: Și a fost după anumite zile că a adus Cain din roadele pământului o jertfă lui Dumnezeu, și Abel a adus și el din întâii născuți ai oilor și din grăsimea lor.",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 4,
+      "v": 1
+     }
+    }
    }
   ],
   "fidela": "Și s-a întâmplat că, după un timp, Cain a adus un dar DOMNULUI, din rodul pământului.",
@@ -1019,6 +1074,17 @@ window.CHAPTER_DATA = [
     "text": "«Și Domnul S-a îndreptat etc. iar spre Cain etc.» Motivul pentru care nu a început cu vestirea celui dinainte în acest chip „și nu S-a îndreptat spre Cain și S-a îndreptat spre Abel” vine să ne învețe cât de departe a fost îndepărtat Cain, că și după ce a fost mulțumire înaintea Domnului prin prinosul lui Abel, nu S-a îndreptat spre Cain și spre prinosul lui, deși era cel dintâi în dar și mare în rânduiala nașterii: a coborât jos, jos.<br><br>Iar motivul pentru care a repetat să spună „spre Abel și spre prinosul lui” și „spre Cain și spre” etc., și nu a fost de ajuns să spună „spre prinosul lui Abel și spre prinosul lui Cain”: aici a făcut aluzie că Stăpânul arăta o față de bunăvoință celor care aduceau dar, iar aceasta este spusa „și S-a îndreptat spre Abel” și a primit și darul lui, dar spre Cain nu a arătat față, nici lui, nici darului lui."
    },
    {
+    "author": "Zohar Chadash, Bereshit 831",
+    "text": "A zis Ribi Yehudah: s-a întors Qayin să fie lucrător al pământului, și Hevel păstor de turmă; acesta a adus o jertfă, și acesta a adus o jertfă. A zis Ribi Yehudah: Qayin a venit cu trufia duhului, și Hevel cu smerenia duhului, că este scris (Tehilim 51:19): «jertfele lui Elohim sunt un duh zdrobit». Ce este scris (Bereșit 4:4–5): «și a privit Domnul către Hevel și către darul său, și către Qayin și către darul său nu a privit». A zis Ribi Yehudah: de ce i-au căzut fețele? Pentru că nu s-a primit darul său.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 1,
+      "v": 831
+     }
+    }
+   },
+   {
     "author": "Ioan Gură de Aur (cca. 347–407), Omilii la Facere, Omilia 18",
     "text": "Ioan Gură de Aur insistă asupra calității ofrandei lui Abel, nu doar a tipului ei: „observă cum [textul] ne sugerează evlavia acestui om — faptul că n-a oferit pur și simplu una din oile lui, ci una «dintre cele întâi-născute», adică dintre cele valoroase și deosebite” — spre deosebire de Cain, la care „nimic de acest fel nu este sugerat” în text. Pentru Ioan Gură de Aur, diferența dintre cele două jertfe nu stă în tipul lor (vegetală vs. animală), ci în atenția și seriozitatea din spatele alegerii fiecăruia."
    },
@@ -1033,6 +1099,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
     "text": "„Domnul S-a uitat cu bunăvoință la Abel, nu la Cain etc.” — Cuvintele „S-a uitat cu bunăvoință” înseamnă în ebraică „a privi ceva cu o privire stăruitoare, ageră”, ceea ce a fost tradus „a aprinde într-un foc”, așa încât încuviințarea dumnezeiască a darului lui Abel s-a arătat prin faptul că a fost mistuit de foc (vezi Gen 15:17; Judecători 13:20)."
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 4:2",
+    "text": "Și Dumnezeu S-a uitat la Abel și la darurile lui, dar la Cain și la jertfele lui n-a luat aminte.",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 4,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -1241,6 +1318,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii la Facere 18.21",
     "text": "Erau două pricini ale supărării lui: nu doar că el singur fusese respins, ci și că darul fratelui său fusese primit."
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 4:3",
+    "text": "Și Cain s-a întristat peste măsură, și fața i-a căzut.",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 4,
+      "v": 3
+     }
+    }
    }
   ],
   "fidela": "Dar la Cain și la darul său nu s-a uitat cu plăcere. Și Cain s-a înfuriat tare și i s-a posomorât fața.",
@@ -1667,6 +1755,17 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "Dacă faci bine, nu vei fi primit? — Fie: 1. Dacă ai fi făcut bine, ca fratele tău, ai fi fost primit ca el. Dumnezeu nu are părtinire; deci, dacă nu găsim primire la El, vina este numai a noastră. Aceasta va îndreptăți pe Dumnezeu în pierderea păcătoșilor și le va agrava pieirea. Nu este niciun păcătos osândit în iad care, dacă ar fi făcut bine, așa cum ar fi putut, să nu fi fost un sfânt proslăvit în cer. Curând orice gură va fi astupată cu aceasta. Sau: 2. Dacă acum faci bine: dacă te pocăiești de păcatul tău, îți îndrepți inima și viața și îți aduci jertfa într-un chip mai bun, tot vei fi primit. Vezi cât de devreme a fost propovăduită Evanghelia și binele ei oferit aici chiar unuia dintre cei mai mari păcătoși.<br><br>Îi pune în față moartea și un blestem; dar, dacă nu bine — Fiindcă n-ai făcut bine, n-ai adus cu credință și în chip drept, păcatul stă la ușă — adică numai păcatul îți împiedică primirea. Toate acestea socotite, Cain n-avea niciun motiv să se mânie pe fratele său, ci numai pe sine. Spre tine va fi dorința lui — El va rămâne față de tine ca un frate mai mic, iar tu, ca întâi născut, vei stăpâni peste el ca și până acum. Primirea darului lui Abel nu a trecut dreptul de întâi născut asupra lui (de care Cain era gelos) și nu a pus asupra lui acea cinste și putere despre care se spune că îi aparține, Gen 49:3."
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 4:4",
+    "text": "Și Dumnezeu a zis lui Cain: Pentru ce ești foarte întristat și pentru ce ți-a căzut fața? Dacă ai adus drept și n-ai împărțit drept, n-ai păcătuit? Taci.",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 4,
+      "v": 4
+     }
+    }
    }
   ],
   "fidela": "Dacă faci bine, nu vei fi acceptat? Iar dacă nu faci bine, păcatul pândește la ușă. Și dorința lui se ține de tine, dar tu să stăpânești peste el.",
@@ -1961,6 +2060,61 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 2,
       "v": 26
+     }
+    }
+   },
+   {
+    "author": "Cartea Înțelepciunii lui Solomon 10:3",
+    "text": "Iar pe cel nedrept care s-a depărtat de ea în mânia sa, a pierit împreună cu frații săi prin uciderea fratelui.",
+    "src": {
+     "slug": "intelepciunea-lui-solomon",
+     "spec": {
+      "num": 10,
+      "v": 3
+     }
+    }
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 4:6",
+    "text": "Și a zis Cain lui Abel, fratele său: Să trecem în câmpie. Și a fost, pe când erau în câmpie, că s-a sculat Cain asupra lui Abel, fratele său, și l-a ucis.",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 4,
+      "v": 6
+     }
+    }
+   },
+   {
+    "author": "4 Macabei 18:11",
+    "text": "V-a citit despre Abel, ucis de Cain, și despre Isaac, adus spre jertfă, și despre Iosif, în temniță.",
+    "src": {
+     "slug": "4-macabei",
+     "spec": {
+      "num": 18,
+      "v": 11
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Moise 3 — comparație",
+    "text": "Și s-au dus amândoi și l-au găsit pe Abel ucis de mâna lui Cain, fratele său.",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 3,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Faptele lui Toma 23:6",
+    "text": "«Eu sunt cel ce am aprins și am ațâțat pe Cain să-și ucidă fratele, și din pricina mea au crescut spini și pălămidă pe pământ.»",
+    "src": {
+     "slug": "faptele-toma",
+     "spec": {
+      "num": 23,
+      "v": 6
      }
     }
    }
@@ -2768,6 +2922,17 @@ window.CHAPTER_DATA = [
     "text": "«El nu-ți va mai da vigoarea lui.» Și de aceea „rătăcitor și pribeag vei fi pe pământ”, căci felul oamenilor, când seamănă într-un loc și nu găsesc acolo binecuvântare, este să meargă în alt loc, poate vor găsi acolo binecuvântare; și așa Cain merge și vine și poate va găsi un loc binecuvântat."
    },
    {
+    "author": "Zohar Chadash, Bereshit 837",
+    "text": "Ribi Ḥiyya a zis de aici (Vayiqra 5:5): «și va mărturisi ce a păcătuit», și s-a zis (ibid.) «și i se va ierta». Ribi Yesa a zis: nu este un lucru în lume care să stea înaintea teșuvah. Qayin s-a hotărât asupra lui «pribeag și rătăcitor vei fi pe pământ», și când a făcut teșuvah s-a desfăcut jumătatea. Că este scris (Bereșit 4:12): «și a șezut în țara Nod», dar «na» nu s-a zis.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 1,
+      "v": 837
+     }
+    }
+   },
+   {
     "author": "Cartea Dreptului 1 — comparație",
     "text": "Și va fi atunci când îl vei lucra, că nu-ți va mai da tăria lui ca la început, căci țepi și ciulini va produce pământul, iar tu vei umbla și rătăci pe pământ până în ziua morții tale.",
     "src": {
@@ -3404,6 +3569,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
     "text": "„oricine l-ar ucide pe Cain” — Printr-un act deosebit de îngăduință dumnezeiască, viața lui Cain urma să fie cruțată în starea atunci mică a neamului omenesc.<br><br>„a pus un semn” — nu vreun semn vizibil sau o pecete pe fruntea lui, ci un semn sau o dovadă de încredințare că viața lui va fi păstrată. Se crede, după cei mai buni scriitori, că acest semn a fost o sălbăticie de înfățișare care l-a făcut obiect al groazei și ocolirii universale."
+   },
+   {
+    "author": "Testamentul lui Beniamin 7:3",
+    "text": "De aceea a fost dat și Cain la șapte răzbunări de Dumnezeu, căci în fiecare sută de ani a adus Domnul o urgie asupra lui.",
+    "src": {
+     "slug": "testament-veniamin",
+     "spec": {
+      "num": 7,
+      "v": 3
+     }
+    }
    }
   ],
   "fidela": "Și DOMNUL i-a spus: De aceea, oricine ucide pe Cain, răzbunare va fi asupra lui de șapte ori. Și DOMNUL a pus un semn pe Cain, ca nu cumva cineva, găsindu-l, să îl ucidă.",
@@ -3931,6 +4107,32 @@ window.CHAPTER_DATA = [
    {
     "author": "John Wesley, Note explicative la Vechiul Testament",
     "text": "Și a zidit o cetate — În semn de despărțire statornică de biserica lui Dumnezeu. Și iată aici o povestire a urmașilor lui, cel puțin a moștenitorilor familiei lui, pentru șapte generații. Fiul lui a fost Enoh, cu același nume, dar nu cu aceeași fire ca acel om sfânt care a umblat cu Dumnezeu. Sunt pomenite numele altor urmași ai lui și doar pomenite, tot așa cum sunt cele ale seminției sfinte, Gen 5:1-32. Sunt numărați în grabă, ca unii care nu sunt prețuiți și în care nu se află desfătare, în comparație cu copiii lui Dumnezeu."
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Iar ea a zămislit și născut un fiu și ea l-a numit Tubal Cain, spunând, după ce mă veștejisem l-am obținut pe el de la Dumnezeul Atotputernic.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 24
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Și ea a zămislit din nou și a născut o fiică, și ea i-a pus numele Naama,căci ea a spus, după ce mă veștejisem am obținut plăcere și încântare.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 25
+     }
+    }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Mesopotamia păstra o tradiție despre „primele cetăți”: Lista regilor sumerieni spune că regalitatea „a coborât din cer” la Eridu, apoi a trecut la alte cetăți, înainte de potop. Geneza leagă și ea începutul vieții în cetate de neamul lui Cain, nu de neamul ales al lui Set."
    }
   ],
   "refs": [
@@ -4745,6 +4947,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Chizkuni (sec. XIII)",
     "text": "«Iar numele fratelui său era Iubal.» Contextul dovedește că erau gemeni, din faptul că nu este scris despre el „și a născut încă”. Și este obiceiul la păstori să fie cântăreți, și tot așa explici la „Și sora lui Tubal-Cain era Naama”."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Vechile povești mesopotamiene vorbeau despre apkallu, „înțelepții” de dinainte de potop, care ar fi adus oamenilor meșteșugurile și artele. Geneza atribuie și ea începuturile păstoritului, muzicii și metalurgiei unor oameni anume, dar le pune în seama urmașilor lui Cain (4:20–22)."
    }
   ]
  },
@@ -5295,6 +5501,17 @@ window.CHAPTER_DATA = [
       "v": 35
      }
     }
+   },
+   {
+    "author": "Cartea Dreptului 2 — comparație",
+    "text": "Și Tubal Cain a spus tatălui său să își întindă arcul, și cu săgețile el l-a lovit pe Cain, care era încă departe, și l-a ucis, căci el părea pentru ei a fi un animal.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 2,
+      "v": 27
+     }
+    }
    }
   ],
   "fidela": "Și Lameh a spus soțiilor lui, Ada și Țila: Auziți vocea mea, voi soțiile lui Lameh, dați ascultare la vorbirea mea: pentru că am ucis un om pentru rănirea mea și un tânăr pentru vânătaia mea.",
@@ -5447,6 +5664,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Jamieson, Fausset și Brown, Comentariu la întreaga Biblie",
     "text": "„Lameh a zis nevestelor sale” — Această vorbire este în formă poetică, probabil fragmentul unui poem vechi, transmis până în vremea lui Moise. Pare să arate că Lameh ucisese un om în apărare de sine, iar rostul ei este să-și asigure nevestele, prin păstrarea lui Cain, că un omor neintenționat, cum era al lui, nu putea fi în nicio primejdie."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Răzbunarea nemăsurată a lui Lameh („de șaptezeci și șapte de ori”) arată logica vendetei de sânge, pe care legile din Orientul Apropiat o limitau: Codul lui Hammurabi, de pildă, pune în loc pedeapsa măsurată, „ochi pentru ochi”, ca să oprească lanțul răzbunărilor."
    }
   ],
   "fidela": "Dacă va fi răzbunat Cain de șapte ori, cu adevărat, Lameh de șaptezeci și șapte de ori."
@@ -5729,6 +5950,17 @@ window.CHAPTER_DATA = [
     "text": "«Și l-a numit Set.» Dar mai jos, de vreme ce Scriptura vine să rânduiască ordinea istoriilor generațiilor, este potrivit să scrie numirea numelui la Adam.<br><br>«Set.» Din el a fost întemeiată (nishtat) lumea, limbaj din „și a așezat peste ei lumea”, iar cei dintâi, care au venit din Cain, au mers la pieire."
    },
    {
+    "author": "Zohar Chadash, Bereshit 216",
+    "text": "În ceasul în care Adam s-a întors în teșuvah și s-a întors ca la început să slujească cu nuqvah a lui, ce este scris: «și a născut după pilda sa, după chipul său» — că aceasta este din îndreptarea trupului și a duhului, cum se cuvine; și este scris (Qohelet 8:14) «este hevel care s-a făcut pe pământ»; și s-au întors literele la începutul shin-tav, că este scris (Bereșit 4:25): «că mi-a pus Elohim o altă sămânță în locul lui Hevel». Șet a fost în tzelem și demut. Că cei dintâi nu erau astfel; și de aici s-a zidit lumea în alt chip al alef-beit: Qenan, Mahalalel, Yered; s-a adăugat o literă ca să îndrepte strâmbul.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 1,
+      "v": 216
+     }
+    }
+   },
+   {
     "author": "Cartea Jubileelor 4 — context/comparație",
     "text": "Și Adam și soția lui l-au jelit pe Abel patru săptămâni de ani, și în anul al patrulea al săptămânii a cincea s-au veselit, și Adam a cunoscut iarăși pe soția sa, și ea i-a născut un fiu, și el i-a pus numele Set; căci a zis: Dumnezeu ne-a ridicat o a doua sămânță pe pământ în locul lui Abel, căci Cain l-a ucis."
    },
@@ -5785,6 +6017,39 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 2,
       "v": 36
+     }
+    }
+   },
+   {
+    "author": "Apocalipsa lui Moise 4 — comparație",
+    "text": "Și Adam i-a zis Evei: Iată! am născut un fiu în locul lui Abel, pe care l-a ucis Cain; să dăm slavă și jertfă lui Dumnezeu.",
+    "src": {
+     "slug": "apocalipsa-moise",
+     "spec": {
+      "num": 4,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Viața lui Adam și Eva 24 — comparație",
+    "text": "Și după ce Adam l-a născut pe Set, a trăit opt sute de ani și a născut treizeci de fii și treizeci de fiice; în totul șaizeci și trei de copii. Și s-au înmulțit pe fața pământului în neamurile lor.",
+    "src": {
+     "slug": "viata-adam-eva",
+     "spec": {
+      "num": 24,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 4 — comparație",
+    "text": "Și Adam a cunoscut pe Eva, soția sa, și ea a mai născut încă nouă fii.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 4,
+      "v": 10
      }
     }
    }

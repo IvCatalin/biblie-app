@@ -467,6 +467,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Ieronim, Întrebări ebraice la Facere",
     "text": "(Capitolul 16, versetul 2) Iată, Domnul m-a făcut stearpă; intră deci la slujnica mea, poate voi dobândi copii prin ea. Ia seama cu grijă că nașterea copiilor este scrisă în ebraică prin „a zidi”. Căci acolo se citește: Intră la slujnica mea, ca poate să zidesc prin ea. Și vezi ca nu cumva aceasta să fie ceea ce se spune în Exodul: Dumnezeu a binecuvântat moașele, și ele și-au zidit case (Exodul 1:20)."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Soția fără copii care își dă slujnica soțului ei apare în acte matrimoniale vechi-asiriene și din Nuzi, iar Codul lui Hammurabi (§§144–147) reglementează cazul: slujnica nu putea fi vândută dacă născuse, dar putea fi coborâtă din nou în rang dacă își bătea joc de stăpâna ei. Purtarea Sarei și a Agarei se mișcă în acest cadru."
    }
   ]
  },

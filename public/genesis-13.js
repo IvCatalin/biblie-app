@@ -2950,6 +2950,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Ieronim, Întrebări ebraice la Facere",
     "text": "(Versetele 14 și 15.) Ridică-ți ochii și privește din locul în care ești spre miazănoapte, miazăzi, răsărit și apus; căci toată țara pe care o vezi o voi da ție și seminției tale. A pus cele patru laturi ale lumii: răsărit, apus, miazănoapte și miazăzi. Dar ceea ce se citește în toate Scripturile, să fie de ajuns să se spună o dată: că marea este socotită totdeauna a fi spre apus, pentru că ținutul Palestinei este așezat în așa fel încât marea se află în partea de apus."
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 10:4",
+    "text": "Și iarăși, când s-a despărțit de Lot, Dumnezeu i-a zis: Ridică ochii și privește din locul unde ești acum, către miazănoapte și miazăzi și răsărit și mare; căci tot ținutul pe care-l vezi ți-l voi da ție și seminței tale în veci.",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 10,
+      "v": 4
+     }
+    }
    }
   ]
  },

@@ -1602,6 +1602,17 @@ window.CHAPTER_DATA = [
     "text": "«Și i-a dat drumul corbului etc.» Trebuie să știm de ce l-a trimis, iar dacă a fost ca să vadă dacă apele s-au ușurat – Scriptura ar fi trebuit să spună „s-au ușurat apele”, cum a spus la trimiterea porumbelului. Iar dacă nu a fost nevoie să spună, de ce a fost nevoie să spună la trimiterea porumbelului? Încă, care este intenția spusei „tot ducându-se și întorcându-se, până când s-au uscat” etc.? Dacă intenția este că nu a găsit să se odihnească afară și se întorcea iar și iar, dacă așa, de ce a avut nevoie Noe să trimită porumbelul și nu avea în corb semn și dovadă că încă nu s-au ușurat apele? Încă, care este intenția lui în vestirea „până când s-au uscat”? Încă, de ce a fost nevoie să iasă până s-a uscat, de vreme ce porumbelul a ieșit în ea, era destul ca să știe? Încă, de ce nu a spus Scriptura „și a întins mâna și l-a luat”, după cum s-a spus la porumbel?<br><br>Însă intenția Scripturii este după spusa Înțelepților noștri, binecuvântată fie amintirea lor, că corbul slujea în arcă, și Noe îl cunoștea, și de aceea, când a deschis fereastra arcei, l-a alungat pe corb din arcă îndată. Iar aceasta este spusa „și i-a dat drumul corbului”, și nu a pomenit „ca să vadă dacă s-au ușurat apele”, cum a spus după aceea la trimiterea porumbelului, iar corbul ieșea și se întorcea, explicația: Noe îl alunga și el se întorcea, și a rămas pe acest fel până la uscarea apelor. Iar pentru trimiterea ca să vadă dacă s-au ușurat a trimis porumbelul, iar aceasta este spusa „și a dat drumul porumbelului de la el”, explicația: în trimitere de la el ca să vadă dacă s-au ușurat apele. Iar acest lucru nu putea să-l știm de la corb, fiindcă era alungat și nu în trimitere, ceea ce nu este așa la porumbel, care a mers în trimitere și i-a adus răspuns că nu a găsit odihnă pentru talpa piciorului ei, și îndată și-a întins mâna și a luat-o și a adus-o în arcă, după cum a spus „a întins mâna și l-a luat și l-a adus la el, la arcă”, explicația: la locul pregătit pentru ea spre păstrarea ei, ceea ce nu este așa la corb, al cărui trimis rămâne, iar când se întorcea Noe îl trimitea altă dată.<br><br>Încă se va lămuri pe calea spuselor lor, binecuvântată fie amintirea lor, iar acestea sunt cuvintele lor: a spus Reș Laqiș: un răspuns care biruiește i-a dat corbul lui Noe. I-a spus: Stăpânul tău mă urăște și tu mă urăști; Stăpânul tău mă urăște – „din fiecare dobitoc curat” etc. „câte șapte”, iar tu mă urăști – ai lăsat soiul de șapte și ai trimis din soiul de doi. Dacă m-ar întâlni prințul căldurii sau prințul frigului, nu s-ar găsi lumea lipsită de o făptură, sau poate de soția mea ai nevoie? I-a spus: Rău, în ceea ce mi-e îngăduit mi s-a interzis, cu atât mai mult în ceea ce mi-e interzis! – până aici cuvintele lui. Iată că după acest Midraș nu a voit cel rău să meargă în trimitere, ca nu cumva să-l întâlnească prințul frigului etc., sau din partea că l-a bănuit pe Noe cu perechea lui, și de aceea a avut nevoie Noe să trimită porumbelul. Iar aceasta este înțelesul versetului: „și i-a dat drumul corbului” și nu a voit să meargă, ci ieșea și se întorcea, și din aceasta a știut Noe că încă apele sunt pe fața întregului pământ, dar nu a știut dacă s-au ușurat sau nu, căci nu este dovadă de la corb, căci nu se mișcă din locul lui. De aceea a trimis porumbelul ca să cunoască acest detaliu: dacă s-au ușurat apele, și de aceea a trebuit să spună „s-au ușurat apele” la trimiterea porumbelului, ca să spună că pentru acest detaliu a trebuit să-l trimită; și înțelege.<br><br>Iar explicația cuvintelor spuselor este pe această cale, căci corbul a venit cu pretenție pe calea cuvântului profetului: „Căci pe cel pe care l-ai lovit Tu, ei l-au urmărit”, explicația: căci este cuvenit să te îndurezi de cel lovit și chinuit, iar ei au adăugat să urmărească, iar aceasta este pretenția corbului prin spusa: Stăpânul tău mă urăște, fiindcă a micșorat luarea soiului meu, iar tu ai adăugat la ură, căci dacă m-ar fi întâlnit etc., s-ar găsi lumea etc., și iată te porți cu cruzime. Sau, când vom spune că nu din cruzime ai făcut, trebuie să fii judecat că este alt motiv, și anume „sau poate de soția mea” etc., explicația: deși ea este mai prejos în treaptă, poate din partea că ți-a fost interzisă soția ta ai socotit că nu ți-a fost interzisă decât soția ta și nu alta și ai nevoie de femela mea. Și nu este greu: ce s-a deosebit soția lui față de toate? Căci pentru fiecare este această întrebare.<br><br>Sau pe calea spuselor lor, binecuvântată fie amintirea lor, corbul slujea în arcă, și după aceasta a pretins că nu a poftit decât corbul, căci a văzut slujirea lui, iar au spus, binecuvântată fie amintirea lor, privirea la un lucru naște poftă, și au interzis lucrul. Iar Noe a răspuns la ce a spus „Stăpânul tău” și nu „Stăpânul lui”, l-a numit rău, iar la ce a judecat că are nevoie de soția lui, căci este un raționament de la ușor la greu: în ceea ce mi-e îngăduit mi s-a interzis, în ceea ce este interzis cu atât mai mult. Dacă așa, dacă va avea nevoie de nevoile lui și va voi – ferit fie de noi – să încalce interdicția, iată soția lui înaintea lui, în care nu este decât o interdicție, să meargă după corb, în care are două interdicții.<br><br>Încă a avut în vedere să-i spună „rău” pe calea spuselor lor, binecuvântată fie amintirea lor, că oricine respinge cu defectul lui, respinge, și fiindcă era rău l-a bănuit pe Noe. Dar la pretenția „dacă m-ar întâlni prințul” etc. nu i-a răspuns nimic, și de aceea au spus, binecuvântată fie amintirea lor, „un răspuns care biruiește i-a dat” etc.<br><br>Încă se poate spune că i-a făcut aluzie prin spusa „rău” răspuns la „dacă m-ar întâlni prințul frigului”, căci deja a știut prin răutatea lui. Și deși l-ar întâlni prințul etc., lumea nu ar fi lipsită de soiul lui, căci femela a pretins de la el, ceea ce nu este așa la celelalte păsări, care nu au slujit în arcă."
    },
    {
+    "author": "Zohar Chadash, Noach 138",
+    "text": "Vino și vezi, că este scris (ibid. 21): «și a fost foamete în zilele lui David trei ani, an după an, și a cerut David fața Domnului», că socotea că el pricinuia; i-a zis Sfântul, binecuvântat fie El: nu asupra ta este aceasta, ci asupra lui Șaul. «Până s-au uscat apele»: atârna totul de sine, și îndată se întorcea în teșuvah. Și atunci nu a avut trebuință să se întoarcă în teșuvah, că lucrul nu a venit din pricina lui. Aceasta este ceea ce este scris (Bereșit 8:7): «și a ieșit ieșind și întorcându-se până s-au uscat apele», că atunci lucrul nu atârna de el.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 2,
+      "v": 138
+     }
+    }
+   },
+   {
     "author": "Cartea Dreptului 6 — comparație",
     "text": "A dat drumul unui corb, care a ieșit, ducându-se și întorcându-se, până ce s-au uscat apele de pe pământ.",
     "src": {
@@ -1627,6 +1638,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Predici pentru anul liturgic 224.4",
     "text": "Nu știi când va veni ceasul acela din urmă și totuși spui: „Mă îndrept.” Când ai de gând să te îndrepți? Când ai de gând să te schimbi? „Mâine”, spui. Iată, de câte ori spui: „Mâine, mâine.” Te-ai făcut cu adevărat o cioară. Iată, îți spun că, atunci când faci zgomotul cioarei, te amenință pieirea. Căci acea cioară al cărei croncănit îl imiți a ieșit din arcă și nu s-a mai întors."
+   },
+   {
+    "author": "Oracolele Sibiline 5 — comparație",
+    "text": "Pe uscatul frigian, întunecat, este un munte înalt și abrupt, numit Ararat, pentru că pe el aveau toți să fie restabiliți; și într-însul este o mare și puternică dorință. Acolo marele râu Marsias își trage șuvoaiele. Acolo s-a odihnit arca pe înălțimea semeață, apele încetând. Atunci iarăși din cer s-a auzit glasul sfânt al marelui Dumnezeu, cu acest cuvânt: «O, Noe cel scăpat, credincios și drept, ieși cu îndrăzneală, cu fiii tăi și cu soția ta și cu cele trei tinere soții ale lor, și umpleți tot pământul, crescând, înmulțindu-vă, făcând dreptate unii altora din neam în neam, până când tot neamul oamenilor va ajunge la judecată; căci va fi o judecată pentru toți.»",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 5,
+      "v": 1
+     }
+    }
    }
   ],
   "refs": [
@@ -2102,6 +2124,17 @@ window.CHAPTER_DATA = [
     "text": "«Și Noe a întins mâna etc.» Explicația: fiindcă era obosită și istovită, căci nu a găsit odihnă etc., de aceea s-a temut pentru ea ca nu cumva să nu mai aibă putere să zboare mai mult și să cadă în ape, și a întins mâna în afara arcei și a adus-o în arcă."
    },
    {
+    "author": "Zohar Chadash, Noach 13",
+    "text": "Ce este scris?⁠‌‌​‌‌​‌​​‌​‌‌​‌​​​‌​‌‌‌‌ «Și nu a aflat porumbelul odihnă», că s-a oprit de la lumea de sus, și de la tzadikim de sus, și de la toate binecuvântările. Aceasta este ceea ce este scris (Bereșit 8:9): «și s-a întors la el, la tevah, că ape sunt pe fața întregului pământ».",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 2,
+      "v": 13
+     }
+    }
+   },
+   {
     "author": "Cartea Dreptului 6 — comparație",
     "text": "Dar porumbelul n-a găsit niciun loc unde să-și pună piciorul și s-a întors la el în corabie, căci erau ape pe toată fața pământului. Noe a întins mâna, l-a luat și l-a băgat la el în corabie.",
     "src": {
@@ -2109,6 +2142,17 @@ window.CHAPTER_DATA = [
      "spec": {
       "num": 6,
       "v": 9
+     }
+    }
+   },
+   {
+    "author": "Cartea Jubileelor 6 — comparație",
+    "text": "Și a făcut ispășire pentru pământ, și a luat un ied și a făcut ispășire cu sângele lui pentru toată vina pământului; căci tot ce fusese pe el fusese nimicit, afară de cei ce erau în corabie cu Noe.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 6,
+      "v": 2
      }
     }
    }
@@ -2247,6 +2291,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Bekhor Shor (sec. XII)",
     "text": "«Și a mai așteptat încă șapte zile și a dat drumul din nou porumbelului.» Prima trimitere a porumbelului a fost la 18 Șevat, a doua la 25 ale lui, iar a treia la 3 Adar, și a stat 27 de zile până la 1 Nisan, și a scos acoperișul arcei și a văzut „iată, fața pământului era uscată”; căci după înțelesul simplu, fiecare „lună a doua” din Tora este Iyar, și fiecare a șaptea este Tișri, și fiecare a zecea este Tevet, și fiecare întâia este Nisan; și după ce a scos acoperișul, fața pământului s-a uscat, dar era noroi și nu era bună pentru călcarea oamenilor, și a stat 56 de zile: 30 din Nisan și 26 din Iyar, și atunci s-a uscat pământul, și Sfântul i-a dat voie să iasă, și a ieșit; și a stat acolo șapte zile mai mult decât anul lunar, căci la 17 Iyar a intrat și la 27 Iyar a ieșit, și iată zece zile cu care anul solar întrece anul lunar, și sunt zece zile, douăzeci și una de ore și două sute patru fracțiuni, căci în ore și fracțiuni nu a fost exactă Scriptura. Iar faptul că aștepta șapte zile între o trimitere și alta este pentru că în șapte zile se cunoaște adaosul și scăderea, cum găsim la bubele rele, unde este scris: „și preotul îl va închide șapte zile”, și atunci „și va vedea: iată, s-a întins” sau „iată, s-a vindecat”, căci în șapte zile se deosebește între adaos și scădere; și de aceea a fost „și a mai așteptat încă șapte zile”. Aceasta este tâlcuirea potopului și socoteala lui după rost. Iar învățătorii noștri au explicat în Seder Olam că arca era cufundată unsprezece coți, iar lunile a șaptea și a zecea: unele sunt pentru coborârea ploilor și altele pentru oprire; și aceasta este scris în tâlcuirea lui Rashi."
+   },
+   {
+    "author": "Zohar Chadash, Ki Tavo 23",
+    "text": "A scris un bilet la vremea serii și l-a așezat în gura șoimului, și a mers către Rabbi Yose, care era în locul său, și ochii săi așteptau. Odată ce l-a văzut, a zis: șoim. Cât ești de credincios dintre toate păsările cerului; a citit asupra lui (Bereșit 8:10–11) «și a venit la el porumbelul la vremea serii, și iată o frunză de măslin smulsă în gura sa».",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 25,
+      "v": 23
+     }
+    }
    },
    {
     "author": "Cartea Dreptului 6 — comparație",
@@ -2482,6 +2537,17 @@ window.CHAPTER_DATA = [
     "text": "«O frunză de măslin pe care o rupsese cu ciocul.» Căci se vedea pe ea că a rupt-o și a smuls-o din pom, și nu a găsit-o pe fața apelor; căci „ṭaruf” este expresie de smulgere, ca în „iar carne sfâșiată pe câmp”, pe care o traducem: „și carne smulsă de la fiara sălbatică”."
    },
    {
+    "author": "Zohar Chadash, Noach 15",
+    "text": "Și ce a zis lui Noaḥ și fiilor săi? (Șir ha-Șirim 5:7) «M-au aflat păzitorii care înconjoară cetatea» — aceștia sunt păzitorii porților Ierusalimului. Și cu toate acestea (Bereșit 8:11): «și iată o frunză de măslin smulsă în gura ei», și asupra acesteia «și a știut Noaḥ că s-au ușurat apele», și s-au întărit îngerii sfințeniei asupra îngerilor de pieire. «Și a așteptat încă alte șapte zile etc.», «și nu a mai adăugat etc.», «s-au uscat apele de pe pământ».",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 2,
+      "v": 15
+     }
+    }
+   },
+   {
     "author": "Cartea Dreptului 6 — comparație",
     "text": "Porumbelul s-a întors la el pe seară; și iată că în ciocul lui era o frunză de măslin ruptă; așa a cunoscut Noe că apele scăzuseră de pe pământ.",
     "src": {
@@ -2499,6 +2565,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Fericitul Augustin, Instruirea creștină 2.16.24",
     "text": "Nu e greu de văzut de ce pacea veșnică e închipuită prin ramura de măslin pe care porumbelul, întorcându-se, a adus-o înapoi în arcă. Căci știm că fața netedă a untdelemnului nu e ușor stânjenită de un alt lichid. Și măslinul însuși e mereu în frunze."
+   },
+   {
+    "author": "2 Baruh 77:23",
+    "text": "Aduce-ți aminte, mai mult, că în vremea potopului Noe a primit de la porumbel roada măslinului, când l-a trimis din corabie.",
+    "src": {
+     "slug": "2-baruh",
+     "spec": {
+      "num": 77,
+      "v": 23
+     }
+    }
    }
   ],
   "refs": [
@@ -2653,6 +2730,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și a așteptat (va-yiyyaḥel) încă.» Din conjugarea nifʿal; rădăcina lui este yḥl; iar dacă ar fi fost din conjugarea hitpaʿel, yod-ul, care este prima literă a rădăcinii, ar fi fost cu pataḥ; iar el este cu qamaṣ.<br><br>«Iar porumbelul nu s-a mai întors la el.» Atunci a știut Noe că fața pământului s-a uscat și că porumbelul a găsit odihnă pe pământ și în copaci mulți; de aceea nu s-a întors la el. Și aceasta a fost în al șase sute unulea an al lui Noe, cum a spus."
+   },
+   {
+    "author": "Zohar Chadash, Noach 143",
+    "text": "Și a zis Ribi Pinḥas: nu ai în fiecare dată și dată în care Sfântul, binecuvântat fie El, să nu fi zăbovit hotărârea judecății Keneset Israel șapte șmitot și șapte yovelot, poate se va întoarce în teșuvah. Aceasta este ceea ce este scris (Bereșit 8:12): «și a așteptat încă alte șapte zile», afară de cele dintâi.",
+    "src": {
+     "slug": "kab-zo-zohar-chadash",
+     "spec": {
+      "num": 2,
+      "v": 143
+     }
+    }
    },
    {
     "author": "Cartea Dreptului 6 — comparație",
@@ -3468,6 +3556,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Efrem Sirul, Comentariu la Facere 6.12.2",
     "text": "Pe cei pe care îi adusese „câte unul” ca să se păstreze castitatea în arcă, acum i-a scos „câte doi”, ca să „fie roditori și să se înmulțească în creație”. Chiar și despre animalele care își păstraseră castitatea în arcă a zis Dumnezeu: „Scoate cu tine toate viețuitoarele care sunt cu tine, din toată făptura — păsări și dobitoace și toate târâtoarele care se târăsc pe pământ — ca să se înmulțească din belșug pe pământ.”"
+   },
+   {
+    "author": "Clement Romanul — Epistola I către Corinteni 9:4",
+    "text": "Noe, fiind găsit credincios, prin slujirea sa a propovăduit renașterea lumii, și prin el Stăpânul a mântuit făpturile vii care au intrat în corabie în unire.",
+    "src": {
+     "slug": "clement-roman",
+     "spec": {
+      "num": 9,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -3710,6 +3809,17 @@ window.CHAPTER_DATA = [
     "text": "«Scoate-le cu tine.» „Hoṣe” (scris); „ha-yeṣe” se citește (qere)."
    },
    {
+    "author": "Tratatul Soferim, cap. 7",
+    "text": "Acestea se scriu cu vav și se citesc cu yod: ʾswry ʾbwgyl ʾnwʿk ʾwly ʾwșr ʾrwṣm bʿwny bwr bhlyktm hḥpșwt htʿyp hkʿswny hyșr hntynym hmbynym brzwt gwl dhyʾ hyṣʾ hḥrsyt hlḥwt hmbyʾ hbṣyr wylwnw wșḥṣwmh wṣnyp wʾlyl wtrmyt wsws wʾtyqyhʾ wtylwn whkynw ḥwqk yṣyʿw yʿyr yʿbyr ynyʿwn yksymw ykșylw lrwb lșwr lyș ldygym lsyg lmșysh lmʿnytm mypʿt mnywt nṭwwt nwb nwby npyșsym șwm ʿșywt ʿypy ʿtwdym tnyynʾ ṣʿyryhm ṣʿyryh ṣpyʿy.",
+    "src": {
+     "slug": "talmud-minor-soferim",
+     "spec": {
+      "num": 7,
+      "v": 4
+     }
+    }
+   },
+   {
     "author": "Cartea Dreptului 6 — comparație",
     "text": "Scoate afară cu tine toate vietățile de orice fel care sunt cu tine, atât păsările, cât și vitele și toate târâtoarele care se târăsc pe pământ: să se răspândească pe pământ, să fie roditoare și să se înmulțească pe pământ.",
     "src": {
@@ -3723,6 +3833,28 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Calvin, Comentariu la Facere",
     "text": "17. Ca să se înmulțească din belșug etc. Cu aceste cuvinte Domnul voia să-i înveselească mintea lui Noe și să-i insufle încrederea că în arcă fusese păstrată o sămânță care avea să crească până va umple tot pământul. Pe scurt, i se făgăduiește lui Noe înnoirea pământului, ca să știe că lumea însăși fusese închisă în arcă și că singurătatea și pustiirea, la a căror vedere inima lui ar fi putut slăbi, nu aveau să fie veșnice."
+   },
+   {
+    "author": "Oracolele Sibiline 5 — comparație",
+    "text": "Așa a grăit glasul ceresc, și Noe a ieșit repede, ca de pe un pat, cu îndrăzneală pe pământ, și fiii lui cu el, și soția lui și soțiile lor, și târâtoarele, și păsările, și cu patru picioare; și toate celelalte au ieșit din casa de lemn într-un singur loc. Și apoi a ieșit Noe, cel mai drept dintre oameni, al optulea, după ce a împlinit pe ape de două ori o sută de zile și una; astfel a fost voia marelui Dumnezeu.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 5,
+      "v": 2
+     }
+    }
+   },
+   {
+    "author": "Oracolele Sibiline 5 — comparație",
+    "text": "Căci trei regi, cu suflet mare și cei mai drepți dintre oameni, vor arăta soartele și vor domni mulți ani, împărțind dreptatea oamenilor, cărora le sunt dragi osteneala și faptele plăcute. Și pământul roditor va da multe roade de la sine și va da mult grâu neamului. Și atunci părinții hrănitori, departe de ciumele cumplite și reci, nu vor îmbătrâni în toate zilele lor; vor muri ca adormiți și vor coborî la țărmurile Acheronului, în sălașurile Hadesului, și acolo vor avea cinste. Căci au fost un neam de fericiți, eroi norocoși, cărora Dumnezeul Sabaot le-a dat o minte aleasă; și vor fi mereu părtași la sfaturile Lui. Și fericiți vor fi chiar dacă vor ajunge în Hades.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 5,
+      "v": 4
+     }
+    }
    }
   ]
  },
@@ -4727,6 +4859,17 @@ window.CHAPTER_DATA = [
     }
    },
    {
+    "author": "Mișna, Rabeinu Iona pe Pirkei Avot 1:25",
+    "text": "„De aici au spus înțelepții: Oricine înmulțește conversația cu femeia își cauzează rău sieși”.⁠‌‌​‌‌​‌​​‌​‌‌​‌​​​‌​​​‌​ Adică cauzează ca impulsul să se întărească asupra lui, care se numește rău, așa cum spunem (Kidușin 30b): „Mare este impulsul rău, căci Creatorul său l-a numit rău, așa cum este spus (Geneza 8:21): „Căci impulsul inimii omului este rău din tinerețea sa”. Și acest om își cauzează răul sieși, căci i-a dat loc și invitație să se lipească de trupul său prin conversație și a trecut peste limite mai mult decât alți oameni, căci uneori impulsul se întărește asupra oamenilor, dar când ei nu fac nimic care să-l stârnească și nu și-l atrag singuri, răul nu se deschide asupra lor.",
+    "src": {
+     "slug": "mishna-avot-extra-rabbeinu-yonah-on-pirkei-avot",
+     "spec": {
+      "num": 1,
+      "v": 25
+     }
+    }
+   },
+   {
     "author": "Cartea Dreptului 6 — comparație",
     "text": "Domnul a mirosit un miros plăcut și Domnul a zis în inima Lui: Nu voi mai blestema pământul din pricina omului, pentru că întocmirile gândurilor din inima omului sunt rele din tinerețea lui; și nu voi mai lovi tot ce este viu, cum am făcut.",
     "src": {
@@ -4755,6 +4898,21 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Împotriva creștinilor iudaizanți 1.7.3",
     "text": "Scriptura spune: „Și Domnul a mirosit o mireasmă plăcută”, adică a primit darurile. Dar să nu-ți închipui că Dumnezeu are nări, căci Dumnezeu este duh nevăzut. Totuși ceea ce se înalță de pe altar este mirosul și fumul trupurilor arse, și nimic nu miroase mai urât decât o asemenea mireasmă. Dar ca să afli că Dumnezeu ia seama la intenția celui care aduce jertfa și apoi o primește sau o respinge, Scriptura numește mirosul și fumul o mireasmă plăcută."
+   },
+   {
+    "author": "Oracolele Sibiline 5 — comparație",
+    "text": "Atunci s-a ridicat iarăși, aprig și puternic, un alt neam, al doilea, de oameni născuți din pământ: Titanii. Erau asemenea la chip cu toții, la înfățișare, mărime și fire; și vorbirea lor era una, cea pe care Dumnezeu o sădise mai înainte în mințile celui dintâi neam. Dar aceștia, cu inimă trufașă împotriva Celui Preaînalt, s-au sfătuit grăbindu-se spre pieire și purtând război împotriva cerului înstelat. Și atunci potopul marelui ocean și-ar fi vărsat apele înfuriate peste ei, dar marele Sabaot l-a oprit și l-a ținut, deși mâniat, căci făgăduise să nu mai aducă iarăși potop peste omenirea rea. Dar după ce a făcut ca fluviul nemărginit al multor ape, val peste val rostogolit încoace și încolo, să înceteze din mânie, marele Dumnezeu care tună de sus, în alte adâncuri ale oceanului, mai puțin adânci, a hotărnicit pământul cu porturi și țărmuri aspre.",
+    "src": {
+     "slug": "oracolele-sibiline",
+     "spec": {
+      "num": 5,
+      "v": 5
+     }
+    }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "În Epopeea lui Ghilgameș (tăblița XI), după potop zeii „simt mirosul bun” al jertfei lui Utnapiștim și se strâng ca muștele în jurul ei. Geneza păstrează imaginea „mirosului bun” al jertfei, dar cu un Dumnezeu care nu are nevoie de hrana oamenilor și făgăduiește, în schimb, să nu mai nimicească pământul."
    }
   ]
  },

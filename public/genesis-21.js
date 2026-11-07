@@ -440,6 +440,39 @@ window.CHAPTER_DATA = [
    {
     "author": "Ioan Gură de Aur, Omilii",
     "text": "Vrei să afli înțelesul simbolic al sterilității Sarei? Biserica avea să nască mulțimea credincioșilor. Ca să nu găsești de necrezut cum a putut naște una care era fără copii, fără rod și stearpă, ea, stearpă din fire, a mers înainte, deschizând calea sterilității alese, și Sara a devenit chip al Bisericii. Căci precum ea a născut la bătrânețe, când era stearpă, tot așa și Biserica, deși stearpă, a născut pentru acești din urmă timpi."
+   },
+   {
+    "author": "Marcion, Apostolikon: Galateni 4:23",
+    "text": "Căci scris este că Avraam a avut doi fii: unul din slujnică și altul din cea slobodă.",
+    "src": {
+     "slug": "marcion-galateni",
+     "spec": {
+      "num": 4,
+      "v": 23
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Și era la acea vreme la sfârșitul unui an și patru luni al locuirii lui Avraam în ținutul filistenilor în Gerar, că Dumnezeu a vizitat-o pe Sara, iar Domnul și-a amintit de ea, și ea a zămislit și născut un fiu lui Avraam.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 1
+     }
+    }
+   },
+   {
+    "author": "Protoevanghelia lui Iacov 1:8",
+    "text": "Și și-a adus aminte de patriarhul Avraam, că în zilele lui de pe urmă i-a dat Domnul Dumnezeu pe Isaac, fiul său.",
+    "src": {
+     "slug": "protoevanghelia-iacov",
+     "spec": {
+      "num": 1,
+      "v": "8"
+     }
+    }
    }
   ]
  },
@@ -637,6 +670,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Beda Venerabilul, Comentariu la Facere (Hexaemeron)",
     "text": "Și Avraam a pus numele fiului său, pe care i l-a născut Sara, Isaac. Isaac se tâlcuiește „Râs” sau „Bucurie”, nume care se potrivește tuturor credincioșilor, cărora, între celelalte bunuri ale moștenirii cerești, Răscumpărătorul lor le făgăduiește zicând: „Iarăși vă voi vedea, și inima voastră se va bucura, și bucuria voastră nimeni n-o va lua de la voi” (Ioan 16:22)."
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Și Avraam l-a numit pe fiul care i se născuseră lui, pe care Sara i l-a născut lui, Isaac.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 2
+     }
+    }
    }
   ]
  },
@@ -926,6 +970,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Când i s-a născut fiul său Isaac» (be-hiwwaled lo et Yiṣḥaq): et-ul acesta este pentru adăugare de lămurire, spunând et după be-hiwwaled, care este nifal; și tot așa yeḥaleq et ha-areṣ și we-lo yimmas et levav eḥaw. Și de ce s-a spus acest verset, când iată că știm că avea o sută de ani, căci avea nouăzeci și nouă când i s-a poruncit circumcizia și i-a spus „pe care ți-l va naște Sara pe vremea aceasta, anul viitor”? Și este posibil că vine să arate că avea o sută de ani împliniți când i s-a născut Isaac, iar profeția i-a fost spusă la sfârșitul anului nouăzeci și nouă, cum am scris; iar versetul acesta a fost scris ca să arate zilele sarcinii."
+   },
+   {
+    "author": "Cartea Jubileelor 14 — comparație",
+    "text": "Dar în al patrulea neam se vor întoarce aici; căci nelegiuirea amoriților nu s-a împlinit încă.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 14,
+      "v": 16
+     }
+    }
    }
   ]
  },
@@ -1810,6 +1865,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Efrem Sirul, Comentariu la Facere",
     "text": "Apoi a sosit vremea nașterii lui Isaac și laptele a curs în sânii bătrânei. În ziua marelui ospăț pe care Avraam l-a făcut când l-a tăiat împrejur și l-a înțărcat pe Isaac, Sara a băgat de seamă pe Ismael jucându-se. Dar Sara a văzut și cât de mult semăna Ismael cu mama lui, căci precum Sara fusese disprețuită în ochii Agarei, tot așa și Ismael își bătea joc de fiul ei și ea a gândit: „Dacă el se poartă astfel cu fiul meu cât sunt încă în viață, poate [Avraam] îl va face împreună-moștenitor cu fiul meu când voi muri și îi va da chiar două părți după [legile] întâiului-născut.”"
+   },
+   {
+    "author": "Marcion, Apostolikon: Galateni 4:29",
+    "text": "Iar noi, fraților, asemenea lui Isaac, suntem fii ai făgăduinței.",
+    "src": {
+     "slug": "marcion-galateni",
+     "spec": {
+      "num": 4,
+      "v": 29
+     }
+    }
    }
   ]
  },
@@ -2008,6 +2074,21 @@ window.CHAPTER_DATA = [
       "v": 15
      }
     }
+   },
+   {
+    "author": "Marcion, Apostolikon: Galateni 4:31",
+    "text": "Dar ce zice Scriptura? Izgonește pe slujnică și pe fiul ei, căci nu va moșteni fiul slujnicei împreună cu fiul celei slobode.",
+    "src": {
+     "slug": "marcion-galateni",
+     "spec": {
+      "num": 4,
+      "v": 31
+     }
+    }
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Vechile legi pomeneau cazul fiului unei slujnice: Codul lui Hammurabi (§§170–171) îl socotește moștenitor doar dacă tatăl l-a recunoscut ca fiu, iar la Nuzi un fiu de slujnică putea fi alungat dacă se năștea un fiu firesc. Porunca lui Dumnezeu din 21:12 ține seama de acest obicei, dar întărește purtarea de grijă față de Ișmael."
    }
   ]
  },
@@ -2435,6 +2516,17 @@ window.CHAPTER_DATA = [
       "v": 6
      }
     }
+   },
+   {
+    "author": "Marcion, Apostolikon: Romani 9:9",
+    "text": "Nici pentru că sunt sămânța lui Avraam sunt toți copii, ci: În Isaac se va chema ție sămânță.",
+    "src": {
+     "slug": "marcion-romani",
+     "spec": {
+      "num": 9,
+      "v": 9
+     }
+    }
    }
   ]
  },
@@ -2537,6 +2629,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Dar și pe fiul slujnicei»: nu te îngrijora pentru el dacă iese din casa ta, căci îl voi face un neam, pentru că este sămânța ta."
+   },
+   {
+    "author": "Cartea Jubileelor 17 — comparație",
+    "text": "Iar pe fiul roabei acesteia îl voi face un neam mare, pentru că este din sămânța ta.",
+    "src": {
+     "slug": "jubileele",
+     "spec": {
+      "num": 17,
+      "v": 7
+     }
+    }
    }
   ]
  },
@@ -5632,6 +5735,10 @@ window.CHAPTER_DATA = [
    {
     "author": "Radak (cca. 1160–1235)",
     "text": "«Și Avraam a luat»: aflăm că a luat acolo turme și cirezi și i le-a dat lui Abimelec pentru întărirea legământului; și cu acel dar și cu jurământul au încheiat legământul între ei amândoi, pentru ei și pentru fiii lor."
+   },
+   {
+    "author": "Context cultural-istoric (Orientul Apropiat Antic)",
+    "text": "Încheierea unui tratat între doi conducători, cu jertfe, martori și jurământ, este o formă cunoscută în Orientul Apropiat: textele de la Mari și din Alalakh descriu ritualuri asemănătoare. Legământul de la Beer-Șeva dintre Avraam și Avimeleh e un tratat de bună vecinătate, legat de dreptul de a folosi fântâna."
    }
   ]
  },
@@ -5922,6 +6029,50 @@ window.CHAPTER_DATA = [
    {
     "author": "Ibn Ezra (1089–1167)",
     "text": "«Ce-i cu (mah hennah).» Formă de feminin plural.<br><br>«Deoparte (le-vaddanah).» Cu he, și înseamnă le-vaddah („singure”)."
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Un foarte bătrân om din ținutul filistenilor a venit aici să te caute, și astfel era înfățișarea și figura lui; eu nu l-am întrebat cine era, și văzând că tu nu ești aici el mi-a vorbit mie și a spus, când tu vii acasă pune deoparte acest țăruș al cortului pe care tu l-ai pus aici, și pune un alt țăruș în locul lui.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 31
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Un foarte bătrân om din ținutul filistenilor a venit să te caute, și astfel era înfățișarea și figura lui; eu nu l am întrebat cine era, și văzând că tu nu ești acasă mi-a spus mie, când soțul tău se întoarce acasă spune-i, astfel a spus acest om, când tu vii acasă pune deoparte țărușul cortului pe care tu l-ai pus aici și pune un alt țăruș în locul lui.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 34
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Iar el mi-a spus aceste cuvinte mie: Când Ismael soțul tău vine acasă, spune-i lui, țărușul cortului pe care tu îl ai este foarte bun, nu îl da deoparte de la cort.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 44
+     }
+    }
+   },
+   {
+    "author": "Cartea Dreptului 21 — comparație",
+    "text": "Și el a spus aceste cuvinte: Când Ismael soțul tău vine acasă, spune-i lui, țărușul cortului pe care tu îl ai este foarte bun, nu îl da deoparte de la cortul tău.",
+    "src": {
+     "slug": "cartea-dreptului",
+     "spec": {
+      "num": 21,
+      "v": 47
+     }
+    }
    }
   ]
  },
@@ -6253,6 +6404,17 @@ window.CHAPTER_DATA = [
    {
     "author": "Zohar, Addenda, volumul III 8:25",
     "text": "Vino și vezi: când Sfântul, binecuvântat fie El, a creat lumea, a creat-o în Judecată. Când a văzut că nu dăinuie, a asociat cu ea Ḥesed. Aceasta este ce este scris (Geneza 2:4): „când au fost create (be-hibaram), în ziua în care Domnul Dumnezeu a făcut”; și au stabilit-o: prin Avraham (be-Avraham) a dăinuit lumea. De aceea această fântână, casa lumii, după numele lui s-a numit. Aceasta este ce este scris (ibid. 21): „de aceea a numit acel loc Beer Șeva”. Deși această fântână s-a lipit de Yițḥak, cum este scris (ibid. 26): „și a numit-o Șiveah”, numele ei este Beer Șeva — partea lui Avraham — și nu Beer Șiveah. Aceasta este ce este scris (Cântarea cântărilor 2:6): „și dreapta lui mă îmbrățișează”."
+   },
+   {
+    "author": "Tratatul Soferim, cap. 5",
+    "text": "Acestea sunt numele care se despart: Betel, Bet-Aven, Beer-Șeba, Țafnat-Paneah, Poti-Fera, Ben-Oni, Iedidia, Haleluia. Rabbi Yose spune: nu se despart. Dar toți sunt de acord că nu se despart Amiel, Aminadab, Țuriel, Țurișadai.",
+    "src": {
+     "slug": "talmud-minor-soferim",
+     "spec": {
+      "num": 5,
+      "v": 10
+     }
+    }
    },
    {
     "author": "Cartea Jubileelor 16 — comparație",
