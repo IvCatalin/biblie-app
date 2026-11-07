@@ -39,6 +39,8 @@ function pos(morph) {
 const skipStrong = (w) => /^H(R|C|Td|To|Ti|Tr|Tm|Tc|Te|Tn|Tj|D)/.test(w.morph) && !/^H(Np|N|V|A)/.test(w.morph);
 (async () => {
   const xml = await oshb(); const words = parse(xml, N);
+  // sefariaFix: cuvântul ebraic al tokenului urmează Sefaria (unde OSHB are altă grafie)
+  { const HE = JSON.parse(fs.readFileSync('data/ref-mt-sefaria-gen.json', 'utf8')); process.argv.push('--lxx=data/ref-lxx-rahlfs-gen.json', '--he=data/ref-mt-sefaria-gen.json'); const { heClean } = require('./audit-g1-5-textcompare.js'); for (const v in words) { const raw = HE['Gen.' + N + '.' + v]; if (!raw || raw.includes('*')) continue; const sf = heClean(raw.replace(/<span class="mam-kq-k">[^<]*<\/span>/g, '')).replace(/יהֹוָה/g, 'יהוָה').split(/[ ־]/).filter(Boolean); const os = words[v].filter(w => w.heb); if (sf.length === os.length) os.forEach((w, i) => { if (w.heb !== sf[i] && w.heb.replace(/[ְ-ׇ]/g, '').replace(/י/g, '') === sf[i].replace(/[ְ-ׇ]/g, '').replace(/י/g, '')) { console.log('  Sefaria: ' + N + ':' + v + ' ' + w.heb + ' → ' + sf[i]); w.heb = sf[i]; } }); } }
   if (process.argv.includes('--words')) { const v = +process.argv[process.argv.indexOf('--words') + 1]; words[v].forEach((w, i) => console.log((i + 1) + ' ' + w.heb + ' ' + w.strong + ' ' + w.morph + ' ' + translit(w.heb))); return; }
   const file = 'public/genesis-' + N + '.js'; const D = new Function('window', fs.readFileSync(file, 'utf8') + ';return window;')({}).CHAPTER_DATA;
   const al = {}; fs.readFileSync('tools/g' + N + '-align.txt', 'utf8').split(/\r?\n/).filter(l => /^\d+:/.test(l)).forEach(l => { const i = l.indexOf(':'); al[+l.slice(0, i)] = l.slice(i + 1).trim(); });

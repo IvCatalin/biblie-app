@@ -15,7 +15,7 @@ for (const x of D) {
   const key = 'Gen.' + N + '.' + x.num; const ros = x.tokens.map((t) => t.t).join('').replace(/\s+/g, ' ').trim();
   const mt = heClean(HE[key]).replace(/יהֹוָה/g, 'יהוָה').replace(/\*[^ ]*/g, '').replace(/\s+/g, ' ').trim();
   const sv = SP.verses.find((q) => q.verse === x.num); const sph = sv ? sv.samaritan_hebrew : '';
-  const sameCons = cons(mt) === cons(sph);
+  const sameCons = cons(HE[key].replace(/בספרי.*$/, '')) === cons(sph); // ca în audit-full: cu ketiv și qere
   const row = sameCons
     ? { source: 'Pentateuhul Samaritean', original: sph, translation: 'Conținutul e identic cu Textul Masoretic la acest verset — fără variante.', note: 'Confirmat prin comparație directă cuvânt-cu-cuvânt cu textul samaritean real (Schorch, ed. critică 2018, ms. Chester Beatty 751).' }
     : { source: 'Pentateuhul Samaritean', original: sph, translation: 'Diferență reală, confirmată: ' + sph + ' — „' + ros + '”', note: '(Sursă: Schorch, ed. critică 2018, ms. Chester Beatty 751).' };
